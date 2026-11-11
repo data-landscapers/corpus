@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "RAFIC", "country_label": "Tunisia", "class": "taxsystem", "platform": "", "owner": "Direction Generale des Impots", "tiers": ""}
+  ],
+  "note": "The e-filing claim is held (TUN-001); the others state a system and a portal.",
+  "claims": {
+    "gtmi-9ce6d9e998": "nothing: a system in use states no filing or payment; system listed",
+    "gtmi-21cc8e5026": "nothing: a portal, not filing; filing held as TUN-001",
+    "gtmi-f5cbb1c3e3": "nothing: held as TUN-001"
+  }
+}

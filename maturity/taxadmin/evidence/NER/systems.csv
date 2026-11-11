@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NER,e-SECeF,NER,other,online certified e-invoicing platform,Direction Generale des Impots,,2024-02-15-ner-lesahel-e-secef-sensibilisation-dgi
 NER,e-SISIC,e-SISIC,taxsystem,,Direction Generale des Impots,,2021-06-14-ner-finances-lancement-e-sisic
+NER,AFP,Niger,,professional tax application,Direction Générale des Impôts,,2025-12-18-worldbank-govtech-dataset-dec2025
+NER,REC,Niger,,application for managing tax revenue collection,Direction Générale des Impôts,,2025-12-18-worldbank-govtech-dataset-dec2025

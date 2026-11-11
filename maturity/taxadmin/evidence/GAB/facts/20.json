@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "e-Tax Portail Fiscal Gabonais", "country_label": "Gabon", "class": "taxsystem", "platform": "", "owner": "DGI", "tiers": ""}
+  ],
+  "note": "E-filing yes is already held; the system and portal lines state no filing or payment.",
+  "claims": {
+    "gtmi-62450aacf2": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-cf681c9127": "nothing: a portal is not filing; filing held as GAB-001",
+    "gtmi-83ecf616b4": "nothing: held as GAB-001"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Lekgetho Live - Tax Management & Revenue Collection System", "country_label": "Botswana", "class": "taxsystem", "platform": "", "owner": "BURS", "tiers": ""}
+  ],
+  "note": "E-filing yes is already held; the system and portal lines state no filing or payment.",
+  "claims": {
+    "gtmi-7513168361": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-4b8361025c": "nothing: a portal is not filing; filing held as BWA-001",
+    "gtmi-f872bb463a": "nothing: held as BWA-001"
+  }
+}

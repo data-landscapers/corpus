@@ -1,0 +1,325 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+gtmi-7aeb123140,gtmi,2022,AGO,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-7e481ae882,gtmi,2020,AGO,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-a7a4dc6f4f,gtmi,2025,AGO,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services portal, not a single window"
+gtmi-12ff56e7e3,gtmi,2022,AGO,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1975,same,superseded,,,the 2025 round answers it
+gtmi-ac00b4c68d,gtmi,2020,AGO,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1975,same,superseded,,,the 2025 round answers it
+gtmi-e9e51fd9e7,gtmi,2025,AGO,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1975,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as AGO-002
+gtmi-8ed6d91ea3,gtmi,2022,BDI,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-9114e74ebc,gtmi,2025,BDI,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by BDI-001
+gtmi-9e10304d0e,gtmi,2020,BDI,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-42a455b0e7,gtmi,2022,BDI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2009,same,superseded,,,the 2025 round answers it
+gtmi-633e1f1f20,gtmi,2025,BDI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2009,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BDI-004
+gtmi-bc87e87036,gtmi,2020,BDI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2009,same,superseded,,,the 2025 round answers it
+gtmi-706160d51c,gtmi,2025,BEN,I-23,Is there a Customs online service portal (single window)?,3 Yes (Single Window),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BEN-010
+gtmi-8f2ebf5b62,gtmi,2020,BEN,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-d4fbc6b160,gtmi,2022,BEN,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-1aa1bf0b12,gtmi,2025,BEN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Customs Webb,1993,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BEN-013
+gtmi-4a055e2adf,gtmi,2022,BEN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYDONIA,1993,same,superseded,,,the 2025 round answers it
+gtmi-f191aac45a,gtmi,2020,BEN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1993,same,superseded,,,the 2025 round answers it
+gtmi-0cb811e251,gtmi,2022,BFA,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-61975335da,gtmi,2020,BFA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-7e45b80903,gtmi,2025,BFA,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by BFA-004
+gtmi-18a30e064a,gtmi,2022,BFA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYLVIE,1960,same,superseded,,,the 2025 round answers it
+gtmi-1c6dc31f25,gtmi,2025,BFA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYDONIA World,1960,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BFA-005
+gtmi-2a663f5a13,gtmi,2020,BFA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,superseded,,,the 2025 round answers it
+gtmi-2ecf71dee6,gtmi,2022,BWA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-41c4a7c1dd,gtmi,2020,BWA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-c5985ef8d3,gtmi,2025,BWA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services portal, not a single window"
+gtmi-0f1196156a,gtmi,2020,BWA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,2004,same,superseded,,,the 2025 round answers it
+gtmi-91ac478a06,gtmi,2022,BWA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,2004,same,superseded,,,the 2025 round answers it
+gtmi-f4f984a396,gtmi,2025,BWA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,2004,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BWA-003
+gtmi-255e31ab26,gtmi,2025,CAF,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a no; the window aspect holds no absence value
+gtmi-6706c7ad62,gtmi,2020,CAF,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-984a93d931,gtmi,2022,CAF,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1ad18d87a7,gtmi,2020,CAF,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,2004,same,superseded,,,the 2025 round answers it
+gtmi-496e8de65a,gtmi,2025,CAF,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYDONIA World,1962,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CAF-001
+gtmi-d23fa40e0c,gtmi,2022,CAF,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,2004,same,superseded,,,the 2025 round answers it
+gtmi-75e400fc4e,gtmi,2022,CIV,I-23,Is there a Customs online service portal (single window)?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-8283e8ebfb,gtmi,2025,CIV,I-23,Is there a Customs online service portal (single window)?,3 Yes (Single Window),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CIV-008
+gtmi-c14d6fd120,gtmi,2020,CIV,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-376c4e76c5,gtmi,2025,CIV,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYDAM World,1930,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CIV-002
+gtmi-531701d0c9,gtmi,2020,CIV,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1964,same,superseded,,,the 2025 round answers it
+gtmi-c27925546f,gtmi,2022,CIV,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1964,same,superseded,,,the 2025 round answers it
+gtmi-19058218d6,gtmi,2022,CMR,I-23,Is there a Customs online service portal (single window)?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-337e39a4d9,gtmi,2025,CMR,I-23,Is there a Customs online service portal (single window)?,3 Yes (Single Window),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CMR-006
+gtmi-ab78f97e18,gtmi,2020,CMR,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-1875ca3fb9,gtmi,2025,CMR,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),CAMCIS,1960,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CMR-004
+gtmi-760ba4b778,gtmi,2020,CMR,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,superseded,,,the 2025 round answers it
+gtmi-ca473924d1,gtmi,2022,CMR,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),CAMCIS,1960,same,superseded,,,the 2025 round answers it
+gtmi-11ae75451a,gtmi,2020,COD,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-451ec2a1d8,gtmi,2025,COD,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services portal linking the SYDONIA site, not a single window"
+gtmi-91206aa1f7,gtmi,2022,COD,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-2a9f2ff984,gtmi,2022,COD,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYDONIA,1960,same,superseded,,,the 2025 round answers it
+gtmi-3531555bb3,gtmi,2020,COD,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1960,same,superseded,,,the 2025 round answers it
+gtmi-7b51579619,gtmi,2025,COD,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYDONIA,1960,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as COD-004
+gtmi-3b814502c8,gtmi,2022,COG,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ae38cc525b,gtmi,2025,COG,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by COG-002
+gtmi-f4234e19f0,gtmi,2020,COG,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-56353246a2,gtmi,2022,COG,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1954,same,superseded,,,the 2025 round answers it
+gtmi-6c276d843f,gtmi,2025,COG,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1954,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as COG-001
+gtmi-b9a24994df,gtmi,2020,COG,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1954,same,superseded,,,the 2025 round answers it
+gtmi-1c2b631661,gtmi,2020,COM,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-a869ca4fd9,gtmi,2022,COM,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b50818324d,gtmi,2025,COM,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by COM-006
+gtmi-5f02eeaa9c,gtmi,2025,COM,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated System for Customs Data,1892,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as COM-007
+gtmi-fdb4e869ba,gtmi,2020,COM,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1892,same,superseded,,,the 2025 round answers it
+gtmi-fff60ab25f,gtmi,2022,COM,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated System for Customs Data,1892,same,superseded,,,the 2025 round answers it
+gtmi-450665312d,gtmi,2022,CPV,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-83c67ba896,gtmi,2020,CPV,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-8c7ec34bf6,gtmi,2025,CPV,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services answer linking a trade portal home page, not a single window"
+gtmi-9f013d251e,gtmi,2020,CPV,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,superseded,,,the 2025 round answers it
+gtmi-c7276cd2c2,gtmi,2025,CPV,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CPV-002
+gtmi-fe824c3ebf,gtmi,2022,CPV,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,superseded,,,the 2025 round answers it
+gtmi-3e7b06f821,gtmi,2025,DJI,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a no; the window aspect holds no absence value
+gtmi-4a2277a9eb,gtmi,2020,DJI,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-4f575a9675,gtmi,2022,DJI,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-839b80674d,gtmi,2022,DJI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World,1977,same,superseded,,,the 2025 round answers it
+gtmi-94f35e2a34,gtmi,2025,DJI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Port Community System,1977,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as DJI-001
+gtmi-fe26084a22,gtmi,2020,DJI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1977,same,superseded,,,the 2025 round answers it
+gtmi-36d2f0f652,gtmi,2022,DZA,I-23,Is there a Customs online service portal (single window)?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-c791975c86,gtmi,2025,DZA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services portal, not a single window"
+gtmi-da86c9be8b,gtmi,2020,DZA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-1c9aee447a,gtmi,2022,DZA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SIGAD,1963,same,superseded,,,the 2025 round answers it
+gtmi-6f24f91f00,gtmi,2020,DZA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SIGAD - Système d’Information et de Gestion Automatisée des Douanes,1963,same,superseded,,,the 2025 round answers it
+gtmi-a69c4f19f4,gtmi,2025,DZA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SIGAD,1963,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as DZA-005
+gtmi-521ac5ddb1,gtmi,2025,EGY,I-23,Is there a Customs online service portal (single window)?,3 Yes (Single Window),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as EGY-006
+gtmi-d0e606bd5a,gtmi,2022,EGY,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-ffd1bb7de1,gtmi,2020,EGY,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-1ffae17e90,gtmi,2025,EGY,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),NCIS - NAFEZA,1953,same,fact,2023-11-01-egy-mubasher-idsc-customs-automation-nafeza,EGY-007,
+gtmi-a146d1bb87,gtmi,2022,EGY,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),NCIS - NAFEZA,1953,same,superseded,,,the 2025 round answers it
+gtmi-bc40394160,gtmi,2020,EGY,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),NCIS - National Customs Information System,1953,same,superseded,,,the 2025 round answers it
+gtmi-59d9d9f183,gtmi,2025,ERI,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a no; the window aspect holds no absence value
+gtmi-7f0bda0b05,gtmi,2022,ERI,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-960d9c27ac,gtmi,2020,ERI,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-7bd1d79922,gtmi,2022,ERI,I-8,Is there a Customs Management Information System in place?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-83185c266d,gtmi,2025,ERI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++,1993,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ERI-001
+gtmi-d271737c51,gtmi,2020,ERI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,2007,same,superseded,,,the 2025 round answers it
+gtmi-05f0573621,gtmi,2025,ETH,I-23,Is there a Customs online service portal (single window)?,3 Yes (Single Window),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ETH-003
+gtmi-338e3202bb,gtmi,2022,ETH,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-c55612c3ff,gtmi,2020,ETH,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-3fa2c1beba,gtmi,2020,ETH,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,2008,same,superseded,,,the 2025 round answers it
+gtmi-73cb3df034,gtmi,2025,ETH,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Electronic Customs Mana,2020,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ETH-005
+gtmi-bee710c337,gtmi,2022,ETH,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Electronic Customs Management System,2020,same,superseded,,,the 2025 round answers it
+gtmi-2646320761,gtmi,2022,GAB,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-2a2cafa017,gtmi,2020,GAB,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-3e3b364acb,gtmi,2025,GAB,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a no; the window aspect holds no absence value
+gtmi-8bbd0bfae6,gtmi,2020,GAB,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,superseded,,,the 2025 round answers it
+gtmi-d9a1cb23d4,gtmi,2022,GAB,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,superseded,,,the 2025 round answers it
+gtmi-ec89326a06,gtmi,2025,GAB,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYDONIA World,1960,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GAB-002
+gtmi-3ba14c4ce9,gtmi,2022,GHA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-d6cac872f2,gtmi,2025,GHA,I-23,Is there a Customs online service portal (single window)?,3 Yes (Single Window),,,partial,fact,2025-12-18-worldbank-govtech-dataset-dec2025,GHA-010,
+gtmi-f68c843b28,gtmi,2020,GHA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-2b12523812,gtmi,2020,GHA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),GCMS - Ghana Customs Management System,2009,same,superseded,,,the 2025 round answers it
+gtmi-b602089cd1,gtmi,2025,GHA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ICUMS (Integrated Customs Management System),2009,same,nothing,2020-10-01-gha-gra-icums-external-user-guide,,held as GHA-004
+gtmi-ebe6b91f53,gtmi,2022,GHA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),GCMS - Ghana Customs Management System,2009,same,superseded,,,the 2025 round answers it
+gtmi-46431af04d,gtmi,2020,GIN,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-4a5e70da51,gtmi,2022,GIN,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-c00421c381,gtmi,2025,GIN,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"answer is customs online services, not a single window"
+gtmi-1a848f4847,gtmi,2022,GIN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1990,same,superseded,,,the 2025 round answers it
+gtmi-7dc277f4bc,gtmi,2020,GIN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1990,same,superseded,,,the 2025 round answers it
+gtmi-8400202273,gtmi,2025,GIN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYDONIA World,1990,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GIN-004
+gtmi-2a7e3f0bc7,gtmi,2020,GMB,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-92670e8628,gtmi,2022,GMB,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-eb7c698cbe,gtmi,2025,GMB,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by GMB-002
+gtmi-2c73e1309f,gtmi,2020,GMB,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1996,same,superseded,,,the 2025 round answers it
+gtmi-7d410f086d,gtmi,2022,GMB,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World,1996,same,superseded,,,the 2025 round answers it
+gtmi-9a6b9db330,gtmi,2025,GMB,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World,1996,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GMB-001
+gtmi-2269f6ec4a,gtmi,2022,GNB,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-aee871ebdd,gtmi,2020,GNB,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-b5217c3300,gtmi,2025,GNB,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an absent window is not a value of the aspect
+gtmi-5ab250bfa8,gtmi,2022,GNB,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1973,same,superseded,,,the 2025 round answers it
+gtmi-90e0a1be02,gtmi,2020,GNB,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1973,same,superseded,,,the 2025 round answers it
+gtmi-ef192e1fc6,gtmi,2025,GNB,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYDONIA++,2024,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GNB-003
+gtmi-1e46ad679e,gtmi,2022,GNQ,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-9e7832265b,gtmi,2020,GNQ,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e3a2df925a,gtmi,2025,GNQ,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an absent window is not a value of the aspect
+gtmi-2a5fdf2cf0,gtmi,2022,GNQ,I-8,Is there a Customs Management Information System in place?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-792621fedc,gtmi,2025,GNQ,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SIDUNEA World,1969,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GNQ-002
+gtmi-cc01f48a74,gtmi,2020,GNQ,I-8,Is there a Customs Management Information System in place?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-15b16ad515,gtmi,2020,KEN,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-5424894d89,gtmi,2025,KEN,I-23,Is there a Customs online service portal (single window)?,3 Yes (Single Window),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as KEN-004
+gtmi-642598ee1c,gtmi,2022,KEN,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-0cf9b77441,gtmi,2022,KEN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SIMBA 2005 - Web based customs automation system,1995,same,superseded,,,the 2025 round answers it
+gtmi-4a0ad96282,gtmi,2025,KEN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Integrated Customs Management System (iCMS),1995,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as KEN-002
+gtmi-f5709e42d5,gtmi,2020,KEN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SIMBA 2005 - Web based customs automation system,1995,same,superseded,,,the 2025 round answers it
+gtmi-2fc1c177f9,gtmi,2020,LBR,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-3ae608e17f,gtmi,2025,LBR,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"answer is customs online services, not a single window"
+gtmi-c7fc50ec15,gtmi,2022,LBR,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-3939aa18ce,gtmi,2022,LBR,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2013,same,superseded,,,the 2025 round answers it
+gtmi-8a01d34600,gtmi,2020,LBR,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2013,same,superseded,,,the 2025 round answers it
+gtmi-e8b7896777,gtmi,2025,LBR,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2013,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LBR-001
+gtmi-3b84189742,gtmi,2025,LBY,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"answer is customs online services, not a single window"
+gtmi-6a84abc9c9,gtmi,2020,LBY,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-9a856b1848,gtmi,2022,LBY,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-0047fbcf48,gtmi,2022,LBY,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2009,same,superseded,,,the 2025 round answers it
+gtmi-5755ea8d6a,gtmi,2020,LBY,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2009,same,superseded,,,the 2025 round answers it
+gtmi-9d80c75e86,gtmi,2025,LBY,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2009,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LBY-002
+gtmi-08348bb0b2,gtmi,2020,LSO,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-0e2dadaef4,gtmi,2025,LSO,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by LSO-001
+gtmi-aff136f809,gtmi,2022,LSO,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-38c44243f4,gtmi,2022,LSO,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World,2012,same,superseded,,,the 2025 round answers it
+gtmi-453f0539ac,gtmi,2025,LSO,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World,2012,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LSO-003
+gtmi-78432fdc9c,gtmi,2020,LSO,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2001,same,superseded,,,the 2025 round answers it
+gtmi-2f8872d0d5,gtmi,2020,MAR,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-a1769f8206,gtmi,2022,MAR,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-a3ae846712,gtmi,2025,MAR,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"answer is customs online services, not a single window"
+gtmi-44dd71f9aa,gtmi,2020,MAR,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),BADR - Base automatisée de dédouanement en réseau,1956,same,superseded,,,the 2025 round answers it
+gtmi-e001094ded,gtmi,2022,MAR,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),BADR,2008,same,superseded,,,the 2025 round answers it
+gtmi-fbeb2e8073,gtmi,2025,MAR,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),BADR,2008,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MAR-001
+gtmi-0a49e4ba7c,gtmi,2025,MDG,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by MDG-010
+gtmi-c28cb79ed1,gtmi,2022,MDG,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d55263a61b,gtmi,2020,MDG,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-4d4fc42f40,gtmi,2020,MDG,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ / TradeNet - Automated SYstem for CUstoms DAta,1961,same,superseded,,,the 2025 round answers it
+gtmi-d606fbc031,gtmi,2022,MDG,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ / TradeNet - Automated SYstem for CUstoms DAta,1961,same,superseded,,,the 2025 round answers it
+gtmi-fcbfcbf856,gtmi,2025,MDG,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ / TradeNet - Automated SYstem for CUstoms DAta,1961,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MDG-008
+gtmi-10eff74b7a,gtmi,2022,MLI,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-504789a764,gtmi,2025,MLI,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"answer is customs online services, not a single window"
+gtmi-bfb6728131,gtmi,2020,MLI,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-37e5b3acf3,gtmi,2020,MLI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,superseded,,,the 2025 round answers it
+gtmi-4956b37a9e,gtmi,2022,MLI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World,1960,same,superseded,,,the 2025 round answers it
+gtmi-f64ffc9414,gtmi,2025,MLI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World,1960,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MLI-002
+gtmi-1109925304,gtmi,2022,MOZ,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-793abab375,gtmi,2025,MOZ,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"answer is customs online services, not a single window"
+gtmi-dfe2565392,gtmi,2020,MOZ,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-5328ab04c1,gtmi,2020,MOZ,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),MCNet / JUE Single Window + CMS - Single Window System / Janela Única Electrónica em Moçambique (JUE) + Customs Management System (CMS),2006,same,superseded,,,the 2025 round answers it
+gtmi-690db9d2a5,gtmi,2022,MOZ,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),MCNet / JUE Single Window + CMS - Single Window System / Janela Única Electrónica em Moçambique (JUE) + Customs Management System (CMS),2006,same,superseded,,,the 2025 round answers it
+gtmi-85a74d06f2,gtmi,2025,MOZ,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),MCNet / JUE Single Window + CMS - Single Window System / Janela Única Electrónica em Moçambique (JUE) + Customs Management System (CMS),2006,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MOZ-006
+gtmi-5521582876,gtmi,2020,MRT,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-6bd85c4293,gtmi,2025,MRT,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"answer is customs online services, not a single window"
+gtmi-e4666bbda8,gtmi,2022,MRT,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-2706093085,gtmi,2025,MRT,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYDONIA,1960,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,link is the customs authority's home page
+gtmi-d7a6c4dcd7,gtmi,2020,MRT,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,superseded,,,the 2025 round answers it
+gtmi-ec2e2b12b4,gtmi,2022,MRT,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,superseded,,,the 2025 round answers it
+gtmi-4deaa0fe77,gtmi,2020,MUS,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-ab32c7fdf9,gtmi,2022,MUS,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-acde19a863,gtmi,2025,MUS,I-23,Is there a Customs online service portal (single window)?,3 Yes (Single Window),,,partial,fact,2024-01-01-mus-mra-national-time-release-study-2023,MUS-002;MUS-003,
+gtmi-3bc7ffc584,gtmi,2025,MUS,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),CMS + Trade Net  - Customs,2004,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MUS-001
+gtmi-c004162064,gtmi,2020,MUS,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),CMS + Trade Net  - Customs Management System II,2004,same,superseded,,,the 2025 round answers it
+gtmi-fe91e40e1c,gtmi,2022,MUS,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),CMS + Trade Net  - Customs Management System II,2004,same,superseded,,,the 2025 round answers it
+gtmi-53c998ad92,gtmi,2022,MWI,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-95bf1db8b3,gtmi,2025,MWI,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by MWI-001
+gtmi-bf4d99bf73,gtmi,2020,MWI,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-13afbe710a,gtmi,2025,MWI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated System,1998,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MWI-003
+gtmi-a22f2d6d9b,gtmi,2020,MWI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1998,same,superseded,,,the 2025 round answers it
+gtmi-f977e2c942,gtmi,2022,MWI,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated System,1998,same,superseded,,,the 2025 round answers it
+gtmi-05f4f2c2bf,gtmi,2025,NAM,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"answer is customs online services, not a single window"
+gtmi-939889c510,gtmi,2022,NAM,I-23,Is there a Customs online service portal (single window)?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-f31c3dd3ed,gtmi,2020,NAM,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-476cf81734,gtmi,2025,NAM,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Trade Verification System,1990,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NAM-002
+gtmi-5312f0198d,gtmi,2020,NAM,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1990,same,superseded,,,the 2025 round answers it
+gtmi-5c20eb25f7,gtmi,2022,NAM,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1990,same,superseded,,,the 2025 round answers it
+gtmi-3b28d1c5de,gtmi,2025,NER,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by NER-002
+gtmi-579b6458ed,gtmi,2020,NER,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-85eece582e,gtmi,2022,NER,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1937c7422e,gtmi,2020,NER,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,superseded,,,the 2025 round answers it
+gtmi-633984fcef,gtmi,2025,NER,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NER-007
+gtmi-66db6bc7da,gtmi,2022,NER,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1960,same,superseded,,,the 2025 round answers it
+gtmi-052545cc1a,gtmi,2025,NGA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services portal, not a single window; window held as NGA-001"
+gtmi-b35ab20060,gtmi,2022,NGA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-e158a9843d,gtmi,2020,NGA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-2d04eee8fe,gtmi,2025,NGA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),NIGERIA INTEGRATED CUSTOMS INFORMATION SYSTEM (NICIS),1922,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NGA-004
+gtmi-391d81556a,gtmi,2022,NGA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ > NICIS - Nigeria Integrated Customs Information System,1922,same,superseded,,,the 2025 round answers it
+gtmi-fd61d1dfd4,gtmi,2020,NGA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ > NICIS - Nigeria Integrated Customs Information System,1922,same,superseded,,,the 2025 round answers it
+gtmi-7d1c1a4627,gtmi,2020,RWA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-c6845c6be0,gtmi,2022,RWA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-cefbd2ccb5,gtmi,2025,RWA,I-23,Is there a Customs online service portal (single window)?,3 Yes (Single Window),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as RWA-005
+gtmi-5591fc0dcb,gtmi,2022,RWA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Customs Services,1997,same,superseded,,,the 2025 round answers it
+gtmi-62465d2a23,gtmi,2020,RWA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),CMS / ASYCUDA World - Single Window + Automated SYstem for CUstoms DAta,1997,same,superseded,,,the 2025 round answers it
+gtmi-75e5e85540,gtmi,2025,RWA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Rwanda Electronic Single Window (ReSW),1997,same,nothing,2024-11-01-rwa-rra-tax-statistics-2023-24-7th-edition,,the primary states nothing on customs systems; system held as RWA-001
+gtmi-d9b852724d,gtmi,2020,SDN,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-e5e4b68a0d,gtmi,2025,SDN,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an absent single window is not a value the window aspect can hold
+gtmi-ee98f98c4b,gtmi,2022,SDN,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-3ddd0ba0bc,gtmi,2020,SDN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1905,same,superseded,,,the 2025 round answers it
+gtmi-6270189389,gtmi,2022,SDN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1905,same,superseded,,,the 2025 round answers it
+gtmi-859c0fe41a,gtmi,2025,SDN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1905,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SDN-001
+gtmi-30e662c23f,gtmi,2022,SEN,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-da87e11ab5,gtmi,2020,SEN,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-fb77f7ad84,gtmi,2025,SEN,I-23,Is there a Customs online service portal (single window)?,3 Yes (Single Window),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SEN-003
+gtmi-1b1f75ef08,gtmi,2025,SEN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Single Window > GAINDE  - Gestion automatisée des Informations douanières et des échanges,1962,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SEN-002
+gtmi-306f1ce986,gtmi,2022,SEN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Single Window > GAINDE  - Gestion automatisée des Informations douanières et des échanges,1962,same,superseded,,,the 2025 round answers it
+gtmi-87b6eb101b,gtmi,2020,SEN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Single Window > GAINDE  - Gestion automatisée des Informations douanières et des échanges,1962,same,superseded,,,the 2025 round answers it
+gtmi-0ff3af4092,gtmi,2020,SLE,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-8ecb807413,gtmi,2022,SLE,I-23,Is there a Customs online service portal (single window)?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-e0e9edfefb,gtmi,2025,SLE,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services (ASYCUDA World page), not a single window; window held as SLE-009"
+gtmi-b4c72bac66,gtmi,2022,SLE,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World,2002,same,superseded,,,the 2025 round answers it
+gtmi-b5ac24b041,gtmi,2025,SLE,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World,2002,same,fact,2020-01-01-sle-asycuda-compendium-2020-progressive-implementation,SLE-011,
+gtmi-c3e971e375,gtmi,2020,SLE,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,2002,same,superseded,,,the 2025 round answers it
+gtmi-2780fa044d,gtmi,2025,SOM,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an absent single window is not a value the window aspect can hold
+gtmi-64cf006a5a,gtmi,2022,SOM,I-23,Is there a Customs online service portal (single window)?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-a8d178bb42,gtmi,2020,SOM,I-23,Is there a Customs online service portal (single window)?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-1a7905eceb,gtmi,2025,SOM,I-8,Is there a Customs Management Information System in place?,1 Implementation in progress,Customs MIS,2007,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SOM-002
+gtmi-9478b85b1d,gtmi,2020,SOM,I-8,Is there a Customs Management Information System in place?,0 No,,2012,same,superseded,,,the 2025 round answers it
+gtmi-9563dc8ecb,gtmi,2022,SOM,I-8,Is there a Customs Management Information System in place?,1 Implementation in progress,Customs MIS,2007,same,superseded,,,the 2025 round answers it
+gtmi-24d01cd2cc,gtmi,2025,SSD,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services, not a single window"
+gtmi-9fa0c87142,gtmi,2022,SSD,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-f35014b978,gtmi,2020,SSD,I-23,Is there a Customs online service portal (single window)?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-5639b7a634,gtmi,2020,SSD,I-8,Is there a Customs Management Information System in place?,0 No,,2011,same,superseded,,,the 2025 round answers it
+gtmi-62f553bb46,gtmi,2022,SSD,I-8,Is there a Customs Management Information System in place?,0 No,,2011,same,superseded,,,the 2025 round answers it
+gtmi-e5059b0566,gtmi,2025,SSD,I-8,Is there a Customs Management Information System in place?,0 No,,2016,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-0bd984a8e9,gtmi,2020,STP,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-6354dfc85f,gtmi,2022,STP,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-fe13939f10,gtmi,2025,STP,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an absent single window is not a value the window aspect can hold
+gtmi-5a1132e406,gtmi,2025,STP,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2001,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as STP-001
+gtmi-a1ddd0cf74,gtmi,2022,STP,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2001,same,superseded,,,the 2025 round answers it
+gtmi-f25aaedd3f,gtmi,2020,STP,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2001,same,superseded,,,the 2025 round answers it
+gtmi-13d6e5b8b0,gtmi,2025,SWZ,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services, not a single window"
+gtmi-460705bd27,gtmi,2020,SWZ,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-4aedc8f39a,gtmi,2022,SWZ,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-72e5afac3c,gtmi,2025,SWZ,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,2015,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SWZ-007
+gtmi-868652e1b0,gtmi,2022,SWZ,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,2015,same,superseded,,,the 2025 round answers it
+gtmi-f3a5a0d99e,gtmi,2020,SWZ,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,2008,same,superseded,,,the 2025 round answers it
+gtmi-24d54b82e3,gtmi,2025,SYC,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services, not a single window"
+gtmi-b30b43eb5c,gtmi,2022,SYC,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e3890d8430,gtmi,2020,SYC,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-305a828a15,gtmi,2020,SYC,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1976,same,superseded,,,the 2025 round answers it
+gtmi-46b562b388,gtmi,2025,SYC,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1976,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SYC-002
+gtmi-4f077e7483,gtmi,2022,SYC,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1976,same,superseded,,,the 2025 round answers it
+gtmi-06af3ddbdd,gtmi,2020,TCD,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-235573b50c,gtmi,2025,TCD,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an absent single window is not a value the window aspect can hold
+gtmi-cd06a6c10b,gtmi,2022,TCD,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-5a3e5a6f5a,gtmi,2025,TCD,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1969,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TCD-003
+gtmi-b2c9b90ed8,gtmi,2020,TCD,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1969,same,superseded,,,the 2025 round answers it
+gtmi-fdb53b72c9,gtmi,2022,TCD,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1969,same,superseded,,,the 2025 round answers it
+gtmi-36702401ce,gtmi,2025,TGO,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services (SYDONIA portal), not a single window; window held as TGO-006"
+gtmi-ee96abf0e6,gtmi,2022,TGO,I-23,Is there a Customs online service portal (single window)?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-f74bd0e7d0,gtmi,2020,TGO,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-199e79ba6e,gtmi,2025,TGO,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYDONIA World,2012,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TGO-002
+gtmi-36b72f76d8,gtmi,2020,TGO,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1964,same,superseded,,,the 2025 round answers it
+gtmi-6c02a081c9,gtmi,2022,TGO,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SYDONIA World,1964,same,superseded,,,the 2025 round answers it
+gtmi-352a790fe9,gtmi,2020,TUN,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-3dbe70a378,gtmi,2025,TUN,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services (personal effects declaration page), not a single window"
+gtmi-b2c3127586,gtmi,2022,TUN,I-23,Is there a Customs online service portal (single window)?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-67d88fa72d,gtmi,2022,TUN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SINDA + TTN,1957,same,superseded,,,the 2025 round answers it
+gtmi-77e8c74346,gtmi,2020,TUN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SINDA + TTN - Automated Customs Information System,1957,same,superseded,,,the 2025 round answers it
+gtmi-87c37ac830,gtmi,2025,TUN,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),SINDA 2,1957,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by TUN-002 (Nov 2025: SINDA 2 not yet ready)
+gtmi-233fdf8458,gtmi,2022,TZA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-2ebca14f93,gtmi,2025,TZA,I-23,Is there a Customs online service portal (single window)?,3 Yes (Single Window),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TZA-006
+gtmi-304d993157,gtmi,2020,TZA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-13d6dcc394,gtmi,2022,TZA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Tanzania Customs Integrated System (TANCIS),1995,same,superseded,,,the 2025 round answers it
+gtmi-1dcf169f2a,gtmi,2020,TZA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ / TANCIS - Automated SYstem for CUstoms DAta,1995,same,superseded,,,the 2025 round answers it
+gtmi-9963ca577b,gtmi,2025,TZA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),Tanzania Customs Integrated System (TANCIS),1995,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TZA-005
+gtmi-569d25618f,gtmi,2020,UGA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-594b21d7b1,gtmi,2025,UGA,I-23,Is there a Customs online service portal (single window)?,3 Yes (Single Window),,,partial,fact,2023-09-01-uga-ura-newsletter-july-september-2023,UGA-012;UGA-013,
+gtmi-bb40a70076,gtmi,2022,UGA,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-3f12b44fba,gtmi,2022,UGA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated System for Customs Data,1991,same,superseded,,,the 2025 round answers it
+gtmi-a5d1112b98,gtmi,2020,UGA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,1991,same,superseded,,,the 2025 round answers it
+gtmi-c257f3b9f0,gtmi,2025,UGA,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated System for Customs Data,1991,same,read-before,2024-09-02-uga-ijeg-implementation-success-asycuda-world-ura,,"reading list 35, already read for this study"
+gtmi-6d18e9e0d2,gtmi,2020,ZAF,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-8ef3bc3531,gtmi,2025,ZAF,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services (modernisation page), not a single window"
+gtmi-b21eb2738a,gtmi,2022,ZAF,I-23,Is there a Customs online service portal (single window)?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-45280b7f4c,gtmi,2020,ZAF,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),iCBS - Interfront Customs Border Solutions processing system,1997,same,superseded,,,the 2025 round answers it
+gtmi-ed49014b3e,gtmi,2022,ZAF,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),iCBS - Interfront Customs Border Solutions processing system,1997,same,superseded,,,the 2025 round answers it
+gtmi-fb4b17feac,gtmi,2025,ZAF,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),iCBS - Interfront Customs Border Solutions processing system,1977,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZAF-003
+gtmi-4742fa2af4,gtmi,2020,ZMB,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-72a14982a2,gtmi,2022,ZMB,I-23,Is there a Customs online service portal (single window)?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-aaaf2374ae,gtmi,2025,ZMB,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services (ZRA home page), not a single window"
+gtmi-0c1fc4f6aa,gtmi,2020,ZMB,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA++ - Automated SYstem for CUstoms DAta,1994,same,superseded,,,the 2025 round answers it
+gtmi-6f51492099,gtmi,2022,ZMB,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World,2006,same,superseded,,,the 2025 round answers it
+gtmi-9b8a23e962,gtmi,2025,ZMB,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World,1994,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZMB-004
+gtmi-caee35773b,gtmi,2020,ZWE,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,superseded,,,the 2025 round answers it
+gtmi-d87ec61c47,gtmi,2022,ZWE,I-23,Is there a Customs online service portal (single window)?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-f8b361a1cc,gtmi,2025,ZWE,I-23,Is there a Customs online service portal (single window)?,2 Yes (Customs Online Services),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"customs online services, not a single window; window held as ZWE-004"
+gtmi-152e4dd27b,gtmi,2025,ZWE,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World -Automation,2001,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZWE-003
+gtmi-56e62eb0c1,gtmi,2022,ZWE,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World -Automation,2001,same,superseded,,,the 2025 round answers it
+gtmi-78192ec769,gtmi,2020,ZWE,I-8,Is there a Customs Management Information System in place?,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2001,same,superseded,,,the 2025 round answers it

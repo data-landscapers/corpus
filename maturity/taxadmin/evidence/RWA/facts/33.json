@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Rwanda's e-filing claim is held (RWA-001); the portal claim states a portal, not filing.",
+  "claims": {
+    "gtmi-c63fc14be9": "nothing: a portal in use at a home page, not filing; filing held as RWA-001",
+    "gtmi-c8cd3abaeb": "nothing: held as RWA-001"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2022-07-13-gha-gra-tax-customer-satisfaction-survey-geopoll",
+  "facts": [],
+  "systems": [],
+  "note": "A 2022 taxpayer satisfaction survey that asks about barriers to filing online but never states that an e-filing or tax payment system is in service, or names one.",
+  "claims": {
+    "gtmi-30e696ef9e": "nothing: survey names no portal or system in service",
+    "gtmi-3a0f61c3c5": "nothing: survey asks about barriers to filing online but does not state e-filing is in service; filing held as GHA-002"
+  }
+}

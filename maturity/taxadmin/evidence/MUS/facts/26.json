@@ -1,0 +1,16 @@
+{
+  "slug": "2023-01-01-mus-mra-integrated-annual-report-2022-23",
+  "facts": [
+    {"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The MRA's 2022/23 integrated annual report lists e-filing among its services, with an income-returns e-filing season run for taxpayers from August to October 2022, and a Taxpayer Portal giving individuals 24/7 online services.", "as_of": "2023", "date_precision": "year", "system": "MRA e-filing and Taxpayer Portal", "class": "taxsystem"},
+    {"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "The MRA's 2022/23 integrated annual report says it collected 98% of tax receipts through e-payment.", "as_of": "2023", "date_precision": "year", "system": "MRA e-filing and Taxpayer Portal", "class": "taxsystem"},
+    {"sub_indicator": "taxsystem", "aspect": "uptake", "value": "most", "fact": "The MRA's 2022/23 integrated annual report says it reached e-filing of tax returns in almost all cases.", "as_of": "2023", "date_precision": "year", "system": "MRA e-filing and Taxpayer Portal", "class": "taxsystem"}
+  ],
+  "systems": [
+    {"system": "MRA e-filing and Taxpayer Portal", "country_label": "Mauritius", "class": "taxsystem", "platform": "ITAS (Integrated Tax Administration Solution, per the glossary)", "owner": "Mauritius Revenue Authority", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-8b94762964": "fact",
+    "gtmi-9697aa9e38": "fact"
+  }
+}

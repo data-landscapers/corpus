@@ -1,0 +1,20 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "iTax system",
+      "country_label": "Somalia",
+      "class": "taxsystem",
+      "platform": "",
+      "owner": "Ministry of Finance",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-e091c39945": "nothing: held as SOM-001",
+    "gtmi-22238252f1": "nothing: a portal, not filing; the e-filing claim carries it",
+    "gtmi-97f441b08a": "nothing: a database's no is not the absence the ladder asks for"
+  }
+}

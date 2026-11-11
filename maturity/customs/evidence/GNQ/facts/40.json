@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "SIDUNEA World", "country_label": "Equatorial Guinea", "class": "customs", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "System claim held; a 'No' on the single window is not a value the study holds.",
+  "claims": {
+    "gtmi-792621fedc": "nothing: held as GNQ-002",
+    "gtmi-e3a2df925a": "nothing: an absent window is not a value of the aspect"
+  }
+}

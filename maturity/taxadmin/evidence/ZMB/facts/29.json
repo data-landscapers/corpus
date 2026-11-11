@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "e-Tax Portal", "country_label": "Zambia", "class": "taxsystem", "platform": "", "owner": "ZRA", "tiers": ""}
+  ],
+  "note": "The e-filing claim is held (ZMB-002); the others state a system and a portal.",
+  "claims": {
+    "gtmi-204e6a9771": "nothing: a system in use states no filing or payment; system listed",
+    "gtmi-eb645e457c": "nothing: a portal, not filing; filing held as ZMB-002",
+    "gtmi-7e54ba718f": "nothing: held as ZMB-002"
+  }
+}

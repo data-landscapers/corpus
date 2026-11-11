@@ -1,0 +1,28 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated Tax Administration System (ITAS)",
+      "country_label": "The Gambia",
+      "class": "taxsystem",
+      "platform": "",
+      "owner": "Gambia Revenue Authority",
+      "tiers": ""
+    },
+    {
+      "system": "GamTax Net",
+      "country_label": "The Gambia",
+      "class": "",
+      "platform": "",
+      "owner": "Gambia Revenue Authority",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-17f543be7f": "nothing: held as GMB-001",
+    "gtmi-cd41ccb5a2": "nothing: portal absence, no filing aspect stated; filing none carried by gtmi-777b57ef82",
+    "gtmi-777b57ef82": "nothing: a database's no is not the absence the ladder asks for"
+  }
+}

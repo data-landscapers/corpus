@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Trade Verification System", "country_label": "Namibia", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "System claim held; the portal answer is customs online services, not a single window.",
+  "claims": {
+    "gtmi-476cf81734": "nothing: held as NAM-002",
+    "gtmi-05f4f2c2bf": "nothing: answer is customs online services, not a single window"
+  }
+}

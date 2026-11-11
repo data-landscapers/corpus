@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "ASYCUDA World", "country_label": "Lesotho", "class": "customs", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "System claim held; the single window 'No' is contradicted by a primary.",
+  "claims": {
+    "gtmi-453f0539ac": "nothing: held as LSO-003",
+    "gtmi-0e2dadaef4": "nothing: contradicted by LSO-001"
+  }
+}

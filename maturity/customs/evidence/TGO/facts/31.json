@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Database record; system claim held, online services is not a single window.",
+  "claims": {
+    "gtmi-199e79ba6e": "nothing: held as TGO-002",
+    "gtmi-36702401ce": "nothing: customs online services (SYDONIA portal), not a single window; window held as TGO-006"
+  }
+}

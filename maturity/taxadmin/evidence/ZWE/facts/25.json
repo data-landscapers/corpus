@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "TARMS", "country_label": "Zimbabwe", "class": "taxsystem", "platform": "", "owner": "ZIMRA", "tiers": ""}
+  ],
+  "note": "The e-filing claim is held (ZWE-001); the others state a system and a portal.",
+  "claims": {
+    "gtmi-c0030bb4ab": "nothing: a system in use states no filing or payment; system listed",
+    "gtmi-6a0d51cacf": "nothing: a portal, not filing; filing held as ZWE-001",
+    "gtmi-32284e08fe": "nothing: held as ZWE-001"
+  }
+}

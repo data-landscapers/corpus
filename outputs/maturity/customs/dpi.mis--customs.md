@@ -20,9 +20,9 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 11 |
-| 4 Operating | 18 |
-| 3 Established | 20 |
+| 5 Leading | 12 |
+| 4 Operating | 19 |
+| 3 Established | 18 |
 | 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -57,6 +57,13 @@ Customs joined West Africa's regional transit data exchange in 2024 and used it 
 - ECOWAS says Cote d'Ivoire was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
 - ECOWAS says it launched deployment of SIGMAT between Cote d'Ivoire, Guinea and Liberia on 31 October 2025, exchanging electronic transit messages through interconnection of their national customs systems; Liberia joins Guinea and Cote d'Ivoire on the platform ([source, 2025-10-31](https://www.ecowas.int/ecowas-strengthens-intra-regional-trade-with-the-launch-of-sigmat-between-cote-divoire-guinea-and-liberia/)).
 - Douanes Ivoiriennes report that Cote d Ivoire and Mali teams met on 24-25 September 2026 to assess SIGMAT in its operating phase on the Abidjan-Bamako transit corridor, sharing information between the two administrations ([source, 2026-09-25](https://apps.douanes.ci/info/cooperation-bilaterale)).
+
+### Ghana: 5 Leading
+
+Ghana processes customs declarations electronically, has a single window, and joined the ECOWAS transit data exchange in July 2024.
+
+- The ECOWAS Commission says SIGMAT, its interconnected transit-goods system for electronic data exchange between Member States, has been in use by implementing states since 2019, and that a 21-25 July 2025 mission to Ghana resolved the technical and functional challenges hindering transit between Cote d'Ivoire and Ghana ([source, 2025-07-25](https://www.ecowas.int/technical-mission-to-ghana-on-the-deployment-of-sigmat-between-ghana-and-cote-divoire/)).
+- ECOWAS says Ghana was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
 
 ### Guinea: 5 Leading
 
@@ -180,6 +187,12 @@ A trade single window joined customs and other agencies in 2025; no source found
 
 - The Minister of Trade and Industry launched Malawi's National Single Window on 20 May 2025, live first for the trade ministry with seven MDAs at go-live and 22 agencies planned by September 2025, and SATCP's project manager says it integrates with the Malawi Revenue Authority's ASYCUDA World system ([source, 2025-05-20](https://satcp.mw/2025/05/20/malawi-launches-national-single-window-to-boost-trade-and-digital-economy/)).
 
+### Mauritius: 4 Operating
+
+Customs declarations and a national single window were in use by 2023; no source found since then reports data exchange with another country.
+
+- The study says the TradeLink national single window was fully rolled out, letting it measure the time other government agencies take on permits and clearances, with CMS checking their clearances; sample period July 2023 ([source, 2023-07](https://www.mra.mu/download/MauritiusTRS.pdf)).
+
 ### Morocco: 4 Operating
 
 A trade single window joined customs, ports and banks in 2026; no source found reports exchange open to the whole regional community.
@@ -293,13 +306,6 @@ Customs declarations were processed electronically in 2025; a single window is n
 - Gabonmediatime reports the migration of Gabon's customs to SYDONIA World is being completed, a system it says analyses declarations faster and has proved itself, with a backup site for continuity ([source, 2025-01-23](https://gabonmediatime.com/gabon-vers-une-modernisation-des-douanes-pour-faciliter-le-commerce-et-le-soutien-aux-pme/)).
 - The Gabon customs directorate DGDDI refers to its clearance system SYDONIAWorld, which an IMF AFRITAC Centre mission of 11 to 18 December 2024 is to help interconnect with other CEMAC customs administrations ([source, 2024-12-09](https://douanes.ga/medias/actualites/140/la-dgddi-accueille-une-mission-afritac-centre-fmi-)).
 
-### Ghana: 3 Established
-
-Ghana processes customs declarations electronically at its ports in 2026; no source found since October 2023 says a trade single window is in service.
-
-- Graphic Online reports ICUMS is the main interface used for declarations, classification, valuation and clearing of goods at Ghana's ports of entry ([source, 2026-03-30](https://www.graphic.com.gh/business/business-news/freight-forwarders-importers-raise-concern-over-publican-ai-o-system-flags-only-values-lower-than-minimum-global-average-ministry-of-finance.html)).
-- Ghana Revenue Authority Commissioner-General Anthony Sarpong said the Integrated Customs Management System (ICUMS) has been the backbone of customs processing for over five years ([source, 2026-01-16](https://gna.org.gh/2026/01/ghana-to-plug-us127bn-revenue-leakages-with-new-ai-customs-tool/)).
-
 ### Guinea-Bissau: 3 Established
 
 Customs declarations were processed electronically in 2026; a single window is not on record.
@@ -319,12 +325,6 @@ Mali's customs processed declarations in an automated system covering over 95 pe
 
 - Mali's Director-General of Customs said the move to SYDONIAWorld in 2015 built an integrated system that now covers over 95 percent of customs business procedures ([source, 2026-02-23](https://douanes.gouv.ml/node/535)).
 - The UN Global Survey 2025 round records Mali's automated customs system as fully implemented ([source, 2025](https://www.untfsurvey.org/economy?id=MLI)).
-
-### Mauritius: 3 Established
-
-Customs declarations were processed electronically in 2026; a single window is not on record.
-
-- A WCO Smart Customs Project mission of 12-16 January 2026 found the Mauritius Revenue Authority hosts critical systems such as the Customs Management System on a private cloud, supporting risk management and border control ([source, 2026-01](https://scp.wcoomd.org/study-mission-cloud-computing-hosted-mauritius-customs)).
 
 ### Mozambique: 3 Established
 

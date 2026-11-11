@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Database record; system claim held, a 'No' on a single window has no value in the study.",
+  "claims": {
+    "gtmi-1a7905eceb": "nothing: held as SOM-002",
+    "gtmi-2780fa044d": "nothing: an absent single window is not a value the window aspect can hold"
+  }
+}

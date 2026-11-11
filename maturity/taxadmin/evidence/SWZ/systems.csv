@@ -2,3 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 SWZ,TaxEase,Eswatini,taxsystem,digital platform,Eswatini Revenue Service,,2024-09-19-swz-edn-ers-tax-filing-season-taxease
 SWZ,eTax,Eswatini,taxsystem,,Eswatini Revenue Service,legacy,2024-09-19-swz-edn-ers-tax-filing-season-taxease
 SWZ,Tax Ease,Eswatini,taxsystem,Oracle,Eswatini Revenue Service,,2024-02-29-swz-epn-ers-launches-tax-ease-portal
+SWZ,Oracle Revenue Management and Billing System,Eswatini,taxsystem,Oracle,ERS,,2025-12-18-worldbank-govtech-dataset-dec2025

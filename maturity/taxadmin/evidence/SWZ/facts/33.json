@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Oracle Revenue Management and Billing System", "country_label": "Eswatini", "class": "taxsystem", "platform": "Oracle", "owner": "ERS", "tiers": ""}
+  ],
+  "note": "The e-filing claim is held (SWZ-001); the others state a system and a portal.",
+  "claims": {
+    "gtmi-3e4ee330aa": "nothing: a system in use states no filing or payment; system listed",
+    "gtmi-4fe1804734": "nothing: a portal at a home page, not filing; filing held as SWZ-001",
+    "gtmi-0d78544254": "nothing: held as SWZ-001"
+  }
+}

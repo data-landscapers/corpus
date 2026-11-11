@@ -1,0 +1,14 @@
+{
+  "slug": "2020-10-01-gha-gra-icums-external-user-guide",
+  "facts": [
+    {"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "The Ghana Revenue Authority's ICUMS external user guide describes declarants creating consignment references and lodging and getting bills of entry accepted electronically in the Integrated Customs Management System (date is the published proxy, October 2020).", "as_of": "2020-10", "date_precision": "month", "system": "Integrated Customs Management System (ICUMS)", "class": "customs"},
+    {"sub_indicator": "customs", "aspect": "window", "value": "window", "fact": "The guide shows ICUMS external users applying through a Single Window tab for MDA permits attached to their consignment reference before bill of entry creation (date is the published proxy, October 2020).", "as_of": "2020-10", "date_precision": "month", "system": "Integrated Customs Management System (ICUMS)", "class": "customs"}
+  ],
+  "systems": [
+    {"system": "Integrated Customs Management System (ICUMS)", "country_label": "Ghana", "class": "customs", "platform": "", "owner": "Ghana Revenue Authority", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-b602089cd1": "nothing: held as GHA-004"
+  }
+}

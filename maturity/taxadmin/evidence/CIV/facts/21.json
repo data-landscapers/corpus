@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "E-IMPOT", "country_label": "Cote d'Ivoire", "class": "taxsystem", "platform": "", "owner": "DGI", "tiers": ""}
+  ],
+  "note": "E-filing yes is already held; its link is the customs site; the system and portal lines state no filing or payment.",
+  "claims": {
+    "gtmi-37fac1bb00": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-95a0c4ba24": "nothing: a portal is not filing; filing held as CIV-001",
+    "gtmi-385393c270": "nothing: held as CIV-001"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "LOGIRAD 1.0", "country_label": "Democratic Republic of the Congo", "class": "taxsystem", "platform": "", "owner": "DGI", "tiers": ""}
+  ],
+  "note": "E-filing yes is already held; the system and portal lines state no filing or payment.",
+  "claims": {
+    "gtmi-f0da0e8ef9": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-b1ab2c1050": "nothing: a portal is not filing; filing held as COD-001",
+    "gtmi-f10c58a4b6": "nothing: held as COD-001"
+  }
+}

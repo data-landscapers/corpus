@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-01-uga-ura-file-a-return-e-filing",
+  "facts": [
+    {"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The URA's File a Return page sets out logging in to the URA web portal with the taxpayer TIN, uploading a completed return template and submitting it, with an acknowledgement receipt emailed; as_of is the page's capture-month published date.", "as_of": "2026-07", "date_precision": "month", "system": "URA web portal e-services", "class": "taxsystem"}
+  ],
+  "systems": [
+    {"system": "URA web portal e-services", "country_label": "Uganda", "class": "taxsystem", "platform": "", "owner": "URA", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-8421ffc500": "The government told the World Bank's GovTech survey (2025 round) that e-filing is in use in Uganda, and the URA's File a Return page describes filing returns through its web portal."
+  }
+}

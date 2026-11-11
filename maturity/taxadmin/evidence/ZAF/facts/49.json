@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Web Services - Online services and forms", "country_label": "South Africa", "class": "", "platform": "", "owner": "SARS", "tiers": ""}
+  ],
+  "note": "The e-filing claim is held (ZAF-001); the others state a system and a portal.",
+  "claims": {
+    "gtmi-97454ada91": "nothing: a web services listing states no filing or payment; system listed",
+    "gtmi-7624b6b808": "nothing: link is the SARS home page, not the thing asked about",
+    "gtmi-1226cd36cc": "nothing: held as ZAF-001"
+  }
+}

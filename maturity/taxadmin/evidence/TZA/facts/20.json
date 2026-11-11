@@ -1,0 +1,13 @@
+{
+  "slug": "2024-06-30-tza-ijpf-taxpayer-perception-e-filing-adoption",
+  "facts": [
+    {"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The paper says that effective August 2020 the Tanzania Revenue Authority directed a move from manual tax return filing to a new e-filing system, and surveys 423 taxpayers on adopting it.", "as_of": "2020-08", "date_precision": "month", "system": "TRA e-filing system", "class": "taxsystem"}
+  ],
+  "systems": [
+    {"system": "TRA e-filing system", "country_label": "Tanzania", "class": "taxsystem", "platform": "", "owner": "TRA", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-93ee08012c": "nothing: the paper states an e-filing system, not an online service portal"
+  }
+}

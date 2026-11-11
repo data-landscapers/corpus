@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Jibayatic", "country_label": "Algeria", "class": "taxsystem", "platform": "", "owner": "DGI", "tiers": ""}
+  ],
+  "note": "E-filing yes is already held; the portal in-progress line is contradicted by a later primary-reported rollout.",
+  "claims": {
+    "gtmi-7db49c7ba4": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-f121a1912d": "nothing: contradicted by DZA-001",
+    "gtmi-1c683d4feb": "nothing: held as DZA-001"
+  }
+}

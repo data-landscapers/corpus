@@ -36,3 +36,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-04,GIN,dpi.mis--tax,fact,unplaced,4,GIN-004;GIN-003,"We Are Tech, May 2026: the eTax platform serves online filing and online payment of taxes; unplaced to stage 4"
 2026-11-06,BFA,dpi.mis--tax,fact,unplaced,4,BFA-004;BFA-005,"leFaso.net 2026-11-05: eSINTAX JAVA lets taxpayers file and pay taxes remotely; online filing and payment in service, unplaced to 4"
 2026-11-09,SSD,dpi.mis--tax,ladder,4,2,SSD-003;SSD-004,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-11,MWI,dpi.mis--tax,fact,unplaced,3,MWI-002,"External claims (housekeeping 58): Malawi told GovTech (2025) e-filing is in use through MRA's Msonkho Online; filing in service, 3"
+2026-11-11,TZA,dpi.mis--tax,fact,2,3,TZA-003,"External claims (housekeeping 58): Tanzania told GovTech (2025) e-filing is in use; filing in service, 3"
+2026-11-11,UGA,dpi.mis--tax,fact,2,3,UGA-003,"External claims (housekeeping 58): URA's File a Return page (July 2026) sets out filing returns on the URA web portal; filing in service, 3"
+2026-11-11,RWA,dpi.mis--tax,fact,4,5,RWA-004,"External claims (housekeeping 58): RRA's tax statistics (2023/24) put e-filing at 96-100% across the main taxes; most filings online, 5"

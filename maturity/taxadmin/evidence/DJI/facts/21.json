@@ -1,0 +1,20 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGTAS",
+      "country_label": "Djibouti",
+      "class": "taxsystem",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-d8b0411679": "nothing: held as DJI-002 (tax administration system under way)",
+    "gtmi-909a384b64": "nothing: a portal is not filing; the e-filing claim carries the absence",
+    "gtmi-44aa5f1df4": "nothing: a database's no is not the absence the ladder asks for"
+  }
+}

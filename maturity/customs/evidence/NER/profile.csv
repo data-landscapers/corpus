@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NER,customs,system,coverage,underway,2024-09-24,NER-005,,
+NER,customs,system,coverage,inservice,2025-10,NER-007,NER-005=underway,
 NER,customs,window,coverage,window,2026-07,NER-001;NER-002;NER-003;NER-004,,
 NER,customs,exchange,coverage,exchange,2024-07,NER-006,,

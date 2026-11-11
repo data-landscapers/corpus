@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "SIGTAS - Standard Integrated Government Tax System", "country_label": "Ethiopia", "class": "taxsystem", "platform": "", "owner": "Ministry of Revenue", "tiers": ""}
+  ],
+  "note": "E-filing yes is already held; the system and portal lines state no filing or payment.",
+  "claims": {
+    "gtmi-a4764acf04": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-706301f4b3": "nothing: a portal is not filing; filing held as ETH-003",
+    "gtmi-8a02d5dbe4": "nothing: held as ETH-003"
+  }
+}

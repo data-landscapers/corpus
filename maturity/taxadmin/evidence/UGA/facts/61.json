@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "e-Tax and other portals + Inland Revenue Integrated System (IRIS)", "country_label": "Uganda", "class": "taxsystem", "platform": "", "owner": "URA", "tiers": ""}
+  ],
+  "note": "The record states a system in use, not filing or payment.",
+  "claims": {
+    "gtmi-d5ef8c8b80": "nothing: a system in use states no filing or payment; system listed"
+  }
+}

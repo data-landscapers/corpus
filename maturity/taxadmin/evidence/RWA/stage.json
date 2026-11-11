@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxsystem",
-      "stage": "4",
+      "stage": "5",
       "filing": "inservice",
       "payment": "electronic",
-      "uptake": "",
+      "uptake": "most",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-002",
-      "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
+      "stage_sources": "RWA-004",
+      "gaps": "",
       "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "as_at": "2026-11-11"
     }
   ]
 }

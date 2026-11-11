@@ -1,0 +1,13 @@
+{
+  "slug": "2020-08-01-egy-enterprise-eta-e-filing-second-phase-1q2021",
+  "facts": [
+    {"sub_indicator": "taxsystem", "aspect": "filing", "value": "underway", "fact": "Enterprise reports the Tax Authority's Director of Taxpayer Services saying that 134 large companies must file returns electronically before the end of the year and over 2,500 more in a second phase in 1Q2021, with the date taken as late 2020 from the text.", "as_of": "2020", "date_precision": "year", "system": "Egyptian Tax Authority e-filing system", "class": "taxsystem"}
+  ],
+  "systems": [
+    {"system": "Egyptian Tax Authority e-filing system", "country_label": "Egypt", "class": "taxsystem", "platform": "", "owner": "Egyptian Tax Authority", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-1aedcc74f7": "fact"
+  }
+}

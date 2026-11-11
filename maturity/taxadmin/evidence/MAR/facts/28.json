@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "SIMPL Online Service", "country_label": "Morocco", "class": "taxsystem", "platform": "", "owner": "Direction Générale des Impôts", "tiers": ""}
+  ],
+  "note": "All three Morocco lines are already held in evidence.csv or state no filing or payment.",
+  "claims": {
+    "gtmi-95d9d8e01d": "nothing: held as MAR-001",
+    "gtmi-690d8435bb": "nothing: portal, no filing stated; filing held as MAR-001",
+    "gtmi-c7285fece8": "nothing: held as MAR-001"
+  }
+}

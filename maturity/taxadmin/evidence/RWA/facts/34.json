@@ -1,0 +1,12 @@
+{
+  "slug": "2024-11-01-rwa-rra-tax-statistics-2023-24-7th-edition",
+  "facts": [
+    {"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The Rwanda Revenue Authority's 7th edition tax statistics report electronic filing, defined as all filing made online or via the internet, for excise, corporate income tax, PAYE, personal income tax and VAT in 2023/24.", "as_of": "2024", "date_precision": "year", "system": "RRA electronic filing", "class": "taxsystem"},
+    {"sub_indicator": "taxsystem", "aspect": "uptake", "value": "most", "fact": "The Rwanda Revenue Authority's 7th edition tax statistics put the share of filings made electronically at about 96 to 100 percent across excise, corporate income tax, PAYE, personal income tax and VAT in 2020/21 to 2023/24.", "as_of": "2024", "date_precision": "year", "system": "RRA electronic filing", "class": "taxsystem"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "gtmi-9d7eaacf93": "nothing: the report names no system called eTAX; system in use states no filing or payment"
+  }
+}

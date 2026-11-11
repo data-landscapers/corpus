@@ -1,17 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "unplaced",
-   "filing": "",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 says whether tax returns can be filed online.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "3",
+      "filing": "inservice",
+      "payment": "",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-002",
+      "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
+      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

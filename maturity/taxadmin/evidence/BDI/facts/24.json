@@ -1,0 +1,20 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGTAS - Standard Integrated Government Tax System",
+      "country_label": "Burundi",
+      "class": "taxsystem",
+      "platform": "",
+      "owner": "OBR",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-7b98cc4c28": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-51fb62bf82": "nothing: a portal is not filing; the e-filing claim carries the absence",
+    "gtmi-2d5b4500c6": "nothing: a database's no is not the absence the ladder asks for"
+  }
+}

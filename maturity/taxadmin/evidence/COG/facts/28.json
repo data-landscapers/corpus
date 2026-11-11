@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "E-Tax (SYSTAF)", "country_label": "Republic of the Congo", "class": "taxsystem", "platform": "Oracle PSRM", "owner": "", "tiers": ""}
+  ],
+  "note": "The two no lines are contradicted by evidence rows holding online filing; the system line states no filing.",
+  "claims": {
+    "gtmi-0d511a983d": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-3f49d44db3": "nothing: contradicted by COG-004",
+    "gtmi-a36206e768": "nothing: contradicted by COG-004"
+  }
+}

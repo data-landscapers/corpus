@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Database record; both claims are held or not a single window, so no fact.",
+  "claims": {
+    "gtmi-2d04eee8fe": "nothing: held as NGA-004",
+    "gtmi-052545cc1a": "nothing: customs online services portal, not a single window; window held as NGA-001"
+  }
+}

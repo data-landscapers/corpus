@@ -1,0 +1,20 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated Tax Revenue Management System (SIGREF)",
+      "country_label": "Equatorial Guinea",
+      "class": "taxsystem",
+      "platform": "",
+      "owner": "Ministerio de Hacienda",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-ab0888eac5": "nothing: SIGREF is a tax management system in progress, which states no online filing",
+    "gtmi-2c0f7a91eb": "nothing: portal absence, no filing aspect stated; filing none carried by gtmi-893903b4c7",
+    "gtmi-893903b4c7": "nothing: SIGREF is a tax management system in progress, which states no online filing"
+  }
+}

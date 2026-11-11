@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "ITAS - Integrated Tax Administration System", "country_label": "Namibia", "class": "taxsystem", "platform": "", "owner": "Namibia Revenue Agency", "tiers": ""}
+  ],
+  "note": "All three Namibia lines are already held in evidence.csv or state no filing or payment.",
+  "claims": {
+    "gtmi-7dba7460dd": "nothing: held as NAM-001",
+    "gtmi-a50ca28230": "nothing: portal, no filing stated; filing held as NAM-001",
+    "gtmi-84ccf1c8dc": "nothing: held as NAM-001"
+  }
+}

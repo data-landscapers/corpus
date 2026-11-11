@@ -127,3 +127,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,NER,dpi.mis--customs,ladder,2,5,NER-007;NER-004;NER-006,"Restaged under message 114 (housekeeping 57): the 2024 trade bulletin says customs enters declarations in SYDONIA; with GUCE-Niger and SIGMAT, 2 to 5."
 2026-11-11,RWA,dpi.mis--customs,ladder,3,5,RWA-002;RWA-005;RWA-004,"Restaged under message 114 (housekeeping 57): the 2025 Tax Handbook names the Rwanda electronic Single Window; with the EAC platform, 3 to 5."
 2026-11-11,TGO,dpi.mis--customs,ladder,3,5,TGO-001;TGO-006;TGO-004,"Restaged under message 114 (housekeeping 57): free-zone manifests pass through the foreign-trade single window from December 2025; with SIGMAT, 3 to 5."
+2026-11-11,GHA,dpi.mis--customs,fact,3,5,GHA-006;GHA-007,"External claims (housekeeping 58): ECOWAS: Ghana connected to SIGMAT transit data exchange in July 2024, issues resolved July 2025; regional exchange, 5"
+2026-11-11,MUS,dpi.mis--customs,fact,3,4,MUS-003,"External claims (housekeeping 58): MRA's 2023 time-release study: TradeLink single window fully rolled out; single window, 4"

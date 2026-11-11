@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "SYDONIA", "country_label": "Mauritania", "class": "customs", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The system 'yes' links only to the customs home page and its year (1960) is not a system date.",
+  "claims": {
+    "gtmi-2706093085": "nothing: link is the customs authority's home page",
+    "gtmi-6bd85c4293": "nothing: answer is customs online services, not a single window"
+  }
+}

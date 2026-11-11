@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "GITMIS", "country_label": "Ghana", "class": "", "platform": "", "owner": "Ghana Revenue Authority", "tiers": ""}
+  ],
+  "note": "The record's one Ghana line names a tax management information system in use since 2009 and says nothing about online filing or payment.",
+  "claims": {
+    "gtmi-03e37fa4a2": "nothing: back-office system named, no online filing or payment stated"
+  }
+}

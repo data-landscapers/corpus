@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "iTax", "country_label": "Kenya", "class": "taxsystem", "platform": "", "owner": "Kenya Revenue Authority", "tiers": ""}
+  ],
+  "note": "All three Kenya lines are already held in evidence.csv or state no filing or payment.",
+  "claims": {
+    "gtmi-097b1db31a": "nothing: held as KEN-001",
+    "gtmi-daff3cc9c0": "nothing: portal, no filing stated; filing held as KEN-001",
+    "gtmi-a2bfae46c2": "nothing: held as KEN-001"
+  }
+}

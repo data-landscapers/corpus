@@ -1,0 +1,13 @@
+{
+  "slug": "2022-05-01-sle-fair-tax-monitor-study-sierra-leone",
+  "facts": [
+    {"sub_indicator": "taxsystem", "aspect": "filing", "value": "underway", "fact": "The Fair Tax Monitor study says the Integrated Tax Administration System (ITAS), promised in budget speeches from 2015, only saw implementation in 2019 and was still ongoing, with its user acceptance test delayed by the pandemic; as_of is the study's published date.", "as_of": "2022-05", "date_precision": "month", "system": "Integrated Tax Administration System (ITAS)", "class": "taxsystem"}
+  ],
+  "systems": [
+    {"system": "Integrated Tax Administration System (ITAS)", "country_label": "Sierra Leone", "class": "taxsystem", "platform": "", "owner": "NRA", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-c973620a84": "nothing: the study says ITAS was still being implemented in 2022 and states no e-filing in use"
+  }
+}

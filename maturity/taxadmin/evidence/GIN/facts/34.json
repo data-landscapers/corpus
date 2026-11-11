@@ -1,0 +1,14 @@
+{
+  "slug": "2025-06-01-gin-dgi-etax-guide-adhesion-connexion",
+  "facts": [
+    {"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The Direction Generale des Impots' June 2025 user guide presents the eTax Guinee portal of tax teleprocedures, where enrolled taxpayers declare their taxes online (teledeclarer), opened in September 2020 to large-enterprise taxpayers and from January 2021 to medium enterprises.", "as_of": "2025-06", "date_precision": "month", "system": "eTax Guinée", "class": "taxsystem"},
+    {"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "The Direction Generale des Impots' June 2025 user guide says taxpayers enrolled on the eTax Guinee portal pay taxes online (telepayer), the tax administration aiming to ease payment procedures.", "as_of": "2025-06", "date_precision": "month", "system": "eTax Guinée", "class": "taxsystem"}
+  ],
+  "systems": [
+    {"system": "eTax Guinée", "country_label": "Guinea", "class": "taxsystem", "platform": "eTax-SAFIG2 (new version deployed from 2024, also to decentralised services)", "owner": "Direction Générale des Impôts", "tiers": "large enterprises from September 2020, medium enterprises from January 2021"}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-c17934bbf4": "fact: the guide itself states eTax Guinée in use for online declaration and payment; no 1990 start is stated"
+  }
+}

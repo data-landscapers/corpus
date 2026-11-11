@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The government told the World Bank's GovTech survey (2025 round) that e-filing for tax and/or customs declarations is available and in use in Tanzania; the round's year stands for as_of.", "as_of": "2025", "date_precision": "year", "system": "TRA taxpayer portal", "class": "taxsystem"}
+  ],
+  "systems": [
+    {"system": "Tanzania Customs Integrated System (TANCIS)", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "TRA", "tiers": ""},
+    {"system": "TRA taxpayer portal", "country_label": "Tanzania", "class": "taxsystem", "platform": "", "owner": "TRA", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-5ecc204661": "nothing: a system in use (customs system and a portal) states no filing or payment; systems listed",
+    "gtmi-1b17f4985c": "The government told the World Bank's GovTech survey (2025 round) that e-filing for tax and/or customs declarations is available and in use in Tanzania."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "HARMONY", "country_label": "Cameroon", "class": "taxsystem", "platform": "", "owner": "DGI", "tiers": ""}
+  ],
+  "note": "E-filing yes is already held; the system and portal lines state no filing or payment.",
+  "claims": {
+    "gtmi-74f9f65b6b": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-4a6d94cc88": "nothing: a portal is not filing; filing held as CMR-002",
+    "gtmi-56fcce7d07": "nothing: held as CMR-002"
+  }
+}

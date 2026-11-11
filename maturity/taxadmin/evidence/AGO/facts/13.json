@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Portal AGT", "country_label": "Angola", "class": "taxsystem", "platform": "", "owner": "AGT", "tiers": ""}
+  ],
+  "note": "GovTech 2025 lines state a tax system and portal in use but the e-filing link is the authority's home page; no fact.",
+  "claims": {
+    "gtmi-eebef47376": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-ed476c4a59": "nothing: a taxpayer portal is stated, with no filing or payment on it",
+    "gtmi-e329263a2d": "nothing: link is the tax authority's home page, not an e-filing service"
+  }
+}

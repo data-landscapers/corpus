@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "JIBAYA", "country_label": "Mauritania", "class": "", "platform": "", "owner": "Direction Générale des Impôts", "tiers": ""},
+    {"system": "STT - Système de télédéclaration et télépaiement", "country_label": "Mauritania", "class": "taxsystem", "platform": "", "owner": "Direction Générale des Impôts", "tiers": ""}
+  ],
+  "note": "The Mauritania lines state no filing or payment, or are already held in evidence.csv.",
+  "claims": {
+    "gtmi-9d57d92cdb": "nothing: back-office system named, no online filing stated; filing held as MRT-001",
+    "gtmi-17663fa3d2": "nothing: portal, no filing stated; filing held as MRT-001",
+    "gtmi-0764c8e22f": "nothing: held as MRT-001"
+  }
+}

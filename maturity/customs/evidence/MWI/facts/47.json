@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "ASYCUDA++", "country_label": "Malawi", "class": "customs", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "System claim held; the single window 'No' is contradicted by a primary.",
+  "claims": {
+    "gtmi-13afbe710a": "nothing: held as MWI-003",
+    "gtmi-95bf1db8b3": "nothing: contradicted by MWI-001"
+  }
+}

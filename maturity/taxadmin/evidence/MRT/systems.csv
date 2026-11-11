@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MRT,Système de télédéclaration et télépaiement (STT),Mauritania,taxsystem,stt.e-tax.impots.gov.mr,Direction Générale des Impôts,,2026-09-16-dgi-mauritanie-teleservices
 MRT,Téléservices,Mauritania,taxsystem,www.tele-services.gov.mr,Direction Générale des Impôts,,2026-09-16-dgi-mauritanie-teleservices
+MRT,JIBAYA,Mauritania,,,Direction Générale des Impôts,,2025-12-18-worldbank-govtech-dataset-dec2025
+MRT,STT - Système de télédéclaration et télépaiement,Mauritania,taxsystem,,Direction Générale des Impôts,,2025-12-18-worldbank-govtech-dataset-dec2025

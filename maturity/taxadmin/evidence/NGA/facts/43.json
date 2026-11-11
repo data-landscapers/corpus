@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Tax Administration System (ITAS) / Standard Integrated Government Tax System", "country_label": "Nigeria", "class": "taxsystem", "platform": "", "owner": "FIRS", "tiers": ""}
+  ],
+  "note": "The record's tax claims for Nigeria are held already (NGA-001, NGA-004) or state a system in use without filing or payment.",
+  "claims": {
+    "gtmi-3d6d1dd1ca": "nothing: a tax management system in use states no filing or payment; system listed",
+    "gtmi-3543ecc2ef": "nothing: a portal in use, not filing; filing held as NGA-004",
+    "gtmi-7d9953d4f2": "nothing: held as NGA-004"
+  }
+}

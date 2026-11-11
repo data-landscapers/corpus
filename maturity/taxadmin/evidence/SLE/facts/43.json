@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "ITAS / TRIPS", "country_label": "Sierra Leone", "class": "taxsystem", "platform": "", "owner": "NRA", "tiers": ""}
+  ],
+  "note": "The record states a system in use and a portal, neither a filing or payment statement; filing is held as SLE-001.",
+  "claims": {
+    "gtmi-4abc50f35f": "nothing: a system in use states no filing or payment; system listed",
+    "gtmi-8982663467": "nothing: a portal, not filing; filing held as SLE-001"
+  }
+}

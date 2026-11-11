@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "AFP", "country_label": "Niger", "class": "", "platform": "professional tax application", "owner": "Direction Générale des Impôts", "tiers": ""},
+    {"system": "REC", "country_label": "Niger", "class": "", "platform": "application for managing tax revenue collection", "owner": "Direction Générale des Impôts", "tiers": ""}
+  ],
+  "note": "The Niger e-filing no is outranked by a primary row in evidence.csv; the other lines state no filing or payment.",
+  "claims": {
+    "gtmi-ff1b4b4d35": "nothing: back-office applications named, no online filing stated; filing held as NER-001",
+    "gtmi-2684cd45da": "nothing: portal absence, outranked by NER-001",
+    "gtmi-9cb4019ac1": "nothing: contradicted by NER-001"
+  }
+}

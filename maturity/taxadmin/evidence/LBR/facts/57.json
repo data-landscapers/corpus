@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "LITAS", "country_label": "Liberia", "class": "taxsystem", "platform": "", "owner": "Liberia Revenue Authority", "tiers": ""}
+  ],
+  "note": "All three Liberia lines are already held in evidence.csv or state no filing or payment.",
+  "claims": {
+    "gtmi-a78d2ea697": "nothing: held as LBR-005",
+    "gtmi-2650f51ed7": "nothing: portal, no filing stated; filing held as LBR-005",
+    "gtmi-188cff618c": "nothing: held as LBR-005"
+  }
+}

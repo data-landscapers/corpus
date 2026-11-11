@@ -1,0 +1,20 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Forms and information",
+      "country_label": "Libya",
+      "class": "",
+      "platform": "",
+      "owner": "Tax Authority",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-8b783fe0c9": "nothing: forms and information site, no online filing or payment stated",
+    "gtmi-ac0eee1147": "nothing: portal in progress, no filing or payment stated; filing underway held as LBY-001",
+    "gtmi-da01570824": "nothing: a database's no is not the absence the ladder asks for"
+  }
+}

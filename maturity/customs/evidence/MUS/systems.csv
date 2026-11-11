@@ -1,3 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MUS,Customs Management System,Mauritius,customs,MRA private cloud,Mauritius Revenue Authority,,2026-01-20-wco-study-mission-cloud-computing-mauritius-customs
 MUS,MauPass,Mauritius,other,,,,2024-01-01-maupass
+MUS,Customs Management System (CMS) + TradeNet,Mauritius,customs,,Mauritius Revenue Authority,,2025-12-18-worldbank-govtech-dataset-dec2025
+MUS,Customs Management System (CMS),Mauritius,customs,,Mauritius Revenue Authority,,2024-01-01-mus-mra-national-time-release-study-2023
+MUS,TradeLink,Mauritius,customs,,,,2024-01-01-mus-mra-national-time-release-study-2023
+MUS,Cargo Community System (CCS),Mauritius,other,,Mauritius Cargo Community Services,,2024-01-01-mus-mra-national-time-release-study-2023

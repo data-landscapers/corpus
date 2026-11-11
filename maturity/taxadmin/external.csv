@@ -1,0 +1,487 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+gtmi-1794919f32,gtmi,2020,AGO,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-e92b021a22,gtmi,2022,AGO,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-ed476c4a59,gtmi,2025,AGO,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a taxpayer portal is stated, with no filing or payment on it"
+gtmi-df2a90fa81,gtmi,2022,AGO,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-e31cdff84f,gtmi,2020,AGO,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-e329263a2d,gtmi,2025,AGO,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the tax authority's home page, not an e-filing service"
+gtmi-5f4c35bfed,gtmi,2020,AGO,I-7,Is there a Tax Management Information System in place?,1 Implementation in progress,SIGT - Sistema Integrado de Gestão Tributária,1998,same,superseded,,,the 2025 round answers it
+gtmi-aa618ff041,gtmi,2022,AGO,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Portal AGT,1998,same,superseded,,,the 2025 round answers it
+gtmi-eebef47376,gtmi,2025,AGO,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Portal AGT,2014,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-51fb62bf82,gtmi,2025,BDI,I-20,Is there a Tax online service portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; the e-filing claim carries the absence
+gtmi-6fa03024c4,gtmi,2022,BDI,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-82d01eca6f,gtmi,2020,BDI,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-10808c105e,gtmi,2020,BDI,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-2a138999b7,gtmi,2022,BDI,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-2d5b4500c6,gtmi,2025,BDI,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-324318dd8a,gtmi,2022,BDI,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System,2009,same,superseded,,,the 2025 round answers it
+gtmi-5639a905da,gtmi,2020,BDI,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System,2009,same,superseded,,,the 2025 round answers it
+gtmi-7b98cc4c28,gtmi,2025,BDI,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System,2009,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-158e8405b6,gtmi,2020,BEN,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-15e876f39a,gtmi,2022,BEN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-326298ae32,gtmi,2025,BEN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; filing held as BEN-001
+gtmi-a186a186ef,gtmi,2025,BEN,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BEN-001
+gtmi-beaa7a9004,gtmi,2022,BEN,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-efe4b04502,gtmi,2020,BEN,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-301b9a8e18,gtmi,2025,BEN,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Integrated Tax and Assimilated Management System (SIGTAS),1967,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-c47012d54c,gtmi,2020,BEN,I-7,Is there a Tax Management Information System in place?,0 No,,1967,same,superseded,,,the 2025 round answers it
+gtmi-c87a864295,gtmi,2022,BEN,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Integrated Tax and Assimilated Management System (SIGTAS),1967,same,superseded,,,the 2025 round answers it
+gtmi-4f20155a9d,gtmi,2022,BFA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-6806d96e63,gtmi,2025,BFA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; filing held as BFA-001
+gtmi-e1f425a52c,gtmi,2020,BFA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-54b1ec4217,gtmi,2025,BFA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BFA-001
+gtmi-6f0ad559f2,gtmi,2022,BFA,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ba75274078,gtmi,2020,BFA,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-6f2a7dc316,gtmi,2025,BFA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),eSINTAX,1960,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-98f4f9af0c,gtmi,2020,BFA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SINTAX - Revenue Management System,1993,same,superseded,,,the 2025 round answers it
+gtmi-a70a578eef,gtmi,2022,BFA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),eSINTAX,1993,same,superseded,,,the 2025 round answers it
+gtmi-1e46c2ec7e,gtmi,2020,BWA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-4277080a5c,gtmi,2022,BWA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-4b8361025c,gtmi,2025,BWA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; filing held as BWA-001
+gtmi-3f9ebe379d,gtmi,2022,BWA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-e0b98c6ed1,gtmi,2020,BWA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-f872bb463a,gtmi,2025,BWA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BWA-001
+gtmi-217cd6f5b6,gtmi,2022,BWA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Lekgetho Live - Tax Management & Revenue Collection System,2006,same,superseded,,,the 2025 round answers it
+gtmi-47bcca5427,gtmi,2020,BWA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TMS - Tax Management System,2004,same,superseded,,,the 2025 round answers it
+gtmi-7513168361,gtmi,2025,BWA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Lekgetho Live - Tax Management & Revenue Collection System,2006,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-71a7ab2291,gtmi,2025,CAF,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; filing held as CAF-003
+gtmi-ac16516dd5,gtmi,2020,CAF,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-b6c265cce4,gtmi,2022,CAF,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-7d6c2053b4,gtmi,2025,CAF,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CAF-003
+gtmi-b47c097157,gtmi,2022,CAF,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b560c23967,gtmi,2020,CAF,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1d3299aca1,gtmi,2020,CAF,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SYSTEMIF - Tax Management System,2004,same,superseded,,,the 2025 round answers it
+gtmi-652a8ef365,gtmi,2022,CAF,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SYSTEMIF - Tax Management System,2004,same,superseded,,,the 2025 round answers it
+gtmi-bda50248de,gtmi,2025,CAF,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),eTax,2004,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-5371d3d4c0,gtmi,2022,CIV,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-95a0c4ba24,gtmi,2025,CIV,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; filing held as CIV-001
+gtmi-95f31be8cb,gtmi,2020,CIV,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-385393c270,gtmi,2025,CIV,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CIV-001
+gtmi-bddc22f4c0,gtmi,2020,CIV,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-e224e2a7a5,gtmi,2022,CIV,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-37fac1bb00,gtmi,2025,CIV,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),E-IMPOT,1960,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-9adb490e09,gtmi,2022,CIV,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Forms and information,1959,same,superseded,,,the 2025 round answers it
+gtmi-bef8293cda,gtmi,2020,CIV,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),e-Impouts - Forms and information,1959,same,superseded,,,the 2025 round answers it
+gtmi-21ba50a2b2,gtmi,2020,CMR,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-42a9861bb6,gtmi,2022,CMR,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-4a6d94cc88,gtmi,2025,CMR,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; filing held as CMR-002
+gtmi-56fcce7d07,gtmi,2025,CMR,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CMR-002
+gtmi-863f6e0403,gtmi,2022,CMR,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-a4dcbeba32,gtmi,2020,CMR,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-0c384793bc,gtmi,2022,CMR,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),HARMONY,1983,same,superseded,,,the 2025 round answers it
+gtmi-35ee49c6af,gtmi,2020,CMR,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Web services - Online services and forms,1983,same,superseded,,,the 2025 round answers it
+gtmi-74f9f65b6b,gtmi,2025,CMR,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),HARMONY,1983,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-8dbb78f4e1,gtmi,2020,COD,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-b1ab2c1050,gtmi,2025,COD,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; filing held as COD-001
+gtmi-b8841e9726,gtmi,2022,COD,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-ad9f437456,gtmi,2022,COD,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-f02951f77c,gtmi,2020,COD,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-f10c58a4b6,gtmi,2025,COD,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as COD-001
+gtmi-3c9cadec79,gtmi,2020,COD,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TMS - Tax Management System + Other Automation Solutions,1988,same,superseded,,,the 2025 round answers it
+gtmi-c5e880797c,gtmi,2022,COD,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TMS,1988,same,superseded,,,the 2025 round answers it
+gtmi-f0da0e8ef9,gtmi,2025,COD,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),LOGIRAD 1.0,1988,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-36596c2998,gtmi,2020,COG,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-3f49d44db3,gtmi,2025,COG,I-20,Is there a Tax online service portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by COG-004
+gtmi-93c77f7901,gtmi,2022,COG,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-35d95476c6,gtmi,2022,COG,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-3b0b89656d,gtmi,2020,COG,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a36206e768,gtmi,2025,COG,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by COG-004
+gtmi-0d511a983d,gtmi,2025,COG,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),E-Tax (SYSTAF) based on Oracle PSRM,2002,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-80e74cc8eb,gtmi,2020,COG,I-7,Is there a Tax Management Information System in place?,0 No,,2002,same,superseded,,,the 2025 round answers it
+gtmi-96de612490,gtmi,2022,COG,I-7,Is there a Tax Management Information System in place?,0 No,,2002,same,superseded,,,the 2025 round answers it
+gtmi-2ce86906fb,gtmi,2025,COM,I-20,Is there a Tax online service portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; the e-filing claim carries the absence
+gtmi-b090aea07f,gtmi,2020,COM,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-c2d9432537,gtmi,2022,COM,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-428a638d95,gtmi,2022,COM,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-4c83389da1,gtmi,2020,COM,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-65fa97f23f,gtmi,2025,COM,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-0d6ea8beed,gtmi,2025,COM,I-7,Is there a Tax Management Information System in place?,0 No,,1975,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,the absence of a management system states nothing on online filing
+gtmi-207a5709fe,gtmi,2022,COM,I-7,Is there a Tax Management Information System in place?,0 No,Forms and information,2014,same,superseded,,,the 2025 round answers it
+gtmi-905b1800ff,gtmi,2020,COM,I-7,Is there a Tax Management Information System in place?,0 No,,2014,same,superseded,,,the 2025 round answers it
+gtmi-05a0bb438c,gtmi,2020,CPV,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-946754f21f,gtmi,2022,CPV,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-b654ac2973,gtmi,2025,CPV,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; filing held as CPV-001
+gtmi-47643b0140,gtmi,2020,CPV,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-95f0a49bc5,gtmi,2022,CPV,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-ad4e2bdfe9,gtmi,2025,CPV,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CPV-001
+gtmi-4284ebe5b9,gtmi,2020,CPV,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGOF - Sistema Integrado de Gestão Orçamental e Financeira,1975,same,superseded,,,the 2025 round answers it
+gtmi-57f9658a0e,gtmi,2025,CPV,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),GRE - Gestão de Receitas do Estado,1975,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-b34d12204f,gtmi,2022,CPV,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),GRE - Gestão de Receitas do Estado,1975,same,superseded,,,the 2025 round answers it
+gtmi-419532cfb3,gtmi,2020,DJI,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-626312a02d,gtmi,2022,DJI,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-909a384b64,gtmi,2025,DJI,I-20,Is there a Tax online service portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; the e-filing claim carries the absence
+gtmi-15b20198b6,gtmi,2020,DJI,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-44aa5f1df4,gtmi,2025,DJI,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-483b3b5c68,gtmi,2022,DJI,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-4fc6d8987f,gtmi,2020,DJI,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Tax System - Tax Management System,1977,same,superseded,,,the 2025 round answers it
+gtmi-d8b0411679,gtmi,2025,DJI,I-7,Is there a Tax Management Information System in place?,1 Implementation in progress,SIGTAS,1977,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as DJI-002 (tax administration system under way)
+gtmi-da575ae9cc,gtmi,2022,DJI,I-7,Is there a Tax Management Information System in place?,1 Implementation in progress,SIGTAS,1977,same,superseded,,,the 2025 round answers it
+gtmi-0ba775e327,gtmi,2020,DZA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-d61c91be7b,gtmi,2022,DZA,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-f121a1912d,gtmi,2025,DZA,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by DZA-001
+gtmi-1c683d4feb,gtmi,2025,DZA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as DZA-001
+gtmi-6002248acd,gtmi,2022,DZA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-af145cd110,gtmi,2020,DZA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-7db49c7ba4,gtmi,2025,DZA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Jibayatic,1958,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-7f28895ce3,gtmi,2022,DZA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Jibayatic,1958,same,superseded,,,the 2025 round answers it
+gtmi-c411497ae8,gtmi,2020,DZA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TRM - Tax and Revenue Management,1958,same,superseded,,,the 2025 round answers it
+gtmi-1746e4b3b0,gtmi,2022,EGY,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-1dfa863750,gtmi,2025,EGY,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; filing held as EGY-001
+gtmi-eec835d442,gtmi,2020,EGY,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-1aedcc74f7,gtmi,2025,EGY,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,fact,2020-08-01-egy-enterprise-eta-e-filing-second-phase-1q2021,EGY-004,
+gtmi-cbbc61b8f3,gtmi,2022,EGY,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-d2b7cbe140,gtmi,2020,EGY,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-35b1b28e8d,gtmi,2025,EGY,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITMAS,2006,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-5c56a6c77a,gtmi,2022,EGY,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITMAS,2006,same,superseded,,,the 2025 round answers it
+gtmi-b7675c1976,gtmi,2020,EGY,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITMAS - Integrated Tax Management and Administration System,2006,same,superseded,,,the 2025 round answers it
+gtmi-2037d2100b,gtmi,2020,ERI,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ad7646c204,gtmi,2025,ERI,I-20,Is there a Tax online service portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; the e-filing claim carries the absence
+gtmi-ff5cefd24b,gtmi,2022,ERI,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-6ef6a2263e,gtmi,2020,ERI,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-7718e68fb0,gtmi,2022,ERI,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ededce43e7,gtmi,2025,ERI,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-13b06ca511,gtmi,2020,ERI,I-7,Is there a Tax Management Information System in place?,0 No,,1993,same,superseded,,,the 2025 round answers it
+gtmi-13d654f1e4,gtmi,2025,ERI,I-7,Is there a Tax Management Information System in place?,0 No,,1991,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,the absence of a management system states nothing on online filing
+gtmi-467b3e4c54,gtmi,2022,ERI,I-7,Is there a Tax Management Information System in place?,0 No,,1993,same,superseded,,,the 2025 round answers it
+gtmi-4e15d83fc8,gtmi,2022,ETH,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-6b36b5b2e0,gtmi,2020,ETH,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-706301f4b3,gtmi,2025,ETH,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; filing held as ETH-003
+gtmi-45d7ed9d4b,gtmi,2020,ETH,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-8a02d5dbe4,gtmi,2025,ETH,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ETH-003
+gtmi-de5b7f7bcd,gtmi,2022,ETH,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-9544b562e7,gtmi,2022,ETH,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System,2008,same,superseded,,,the 2025 round answers it
+gtmi-9b3bf0c627,gtmi,2020,ETH,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System,2008,same,superseded,,,the 2025 round answers it
+gtmi-a4764acf04,gtmi,2025,ETH,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System,2008,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-948223f142,gtmi,2022,GAB,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-cf681c9127,gtmi,2025,GAB,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a portal is not filing; filing held as GAB-001
+gtmi-ecf1d17c20,gtmi,2020,GAB,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-1a9f871ae0,gtmi,2020,GAB,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-74d281e946,gtmi,2022,GAB,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-83ecf616b4,gtmi,2025,GAB,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GAB-001
+gtmi-3facd31589,gtmi,2020,GAB,I-7,Is there a Tax Management Information System in place?,1 Implementation in progress,e-Tax Portail Fiscal Gabonians,2018,same,superseded,,,the 2025 round answers it
+gtmi-62450aacf2,gtmi,2025,GAB,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),e-Tax Portail Fiscal Gabonais,2024,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no online filing or payment
+gtmi-8a6c374f14,gtmi,2022,GAB,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),e-Tax Portail Fiscal Gabonians,2018,same,superseded,,,the 2025 round answers it
+gtmi-0b123e30e3,gtmi,2020,GHA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-30e696ef9e,gtmi,2025,GHA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2022-07-13-gha-gra-tax-customer-satisfaction-survey-geopoll,,survey names no portal or system in service
+gtmi-8db16f1c6b,gtmi,2022,GHA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-0b77338dc2,gtmi,2022,GHA,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-372f204051,gtmi,2020,GHA,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-3a0f61c3c5,gtmi,2025,GHA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2022-07-13-gha-gra-tax-customer-satisfaction-survey-geopoll,,survey asks about barriers to filing online but does not state e-filing is in service; filing held as GHA-002
+gtmi-03e37fa4a2,gtmi,2025,GHA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),GITMIS,2009,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"back-office system named, no online filing or payment stated"
+gtmi-8180f49f47,gtmi,2020,GHA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TRIPS - Total Revenue Integrated Processing System,2009,same,superseded,,,the 2025 round answers it
+gtmi-de044e6143,gtmi,2022,GHA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TRIPS - Total Revenue Integrated Processing System,2009,same,superseded,,,the 2025 round answers it
+gtmi-1375d95b0a,gtmi,2020,GIN,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-4bdde8670b,gtmi,2022,GIN,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b584a4c27b,gtmi,2025,GIN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal, no filing or payment stated; filing held as GIN-001"
+gtmi-b4478a4a3b,gtmi,2025,GIN,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the customs single window (guceg), not the tax system"
+gtmi-d784e816ba,gtmi,2020,GIN,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-dbe7961a68,gtmi,2022,GIN,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-863e61e2e9,gtmi,2020,GIN,I-7,Is there a Tax Management Information System in place?,0 No,,1990,same,superseded,,,the 2025 round answers it
+gtmi-bbbe73b410,gtmi,2022,GIN,I-7,Is there a Tax Management Information System in place?,1 Implementation in progress,e-Tax,1990,same,superseded,,,the 2025 round answers it
+gtmi-c17934bbf4,gtmi,2025,GIN,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),eTax Guinée,1990,same,fact,2025-06-01-gin-dgi-etax-guide-adhesion-connexion,GIN-005;GIN-006,
+gtmi-50a09d8cd7,gtmi,2020,GMB,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-c43a4f4ed6,gtmi,2022,GMB,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-cd41ccb5a2,gtmi,2025,GMB,I-20,Is there a Tax online service portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal absence, no filing aspect stated; filing none carried by gtmi-777b57ef82"
+gtmi-2585c735cc,gtmi,2022,GMB,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-777b57ef82,gtmi,2025,GMB,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-dea7b3466e,gtmi,2020,GMB,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-17f543be7f,gtmi,2025,GMB,I-7,Is there a Tax Management Information System in place?,1 Implementation in progress,Integrated Tax Administration System (ITAS) < Previously GamTax Net,1996,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GMB-001
+gtmi-6be94dc332,gtmi,2020,GMB,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),GAMTAX Net - Tax Management System,1996,same,superseded,,,the 2025 round answers it
+gtmi-c6066352e6,gtmi,2022,GMB,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),GAMTAX Net - Tax Management System,1996,same,superseded,,,the 2025 round answers it
+gtmi-519c4c0b60,gtmi,2022,GNB,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-756ebb4a8e,gtmi,2025,GNB,I-20,Is there a Tax online service portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal absence, no filing aspect stated; filing none carried by gtmi-a417f663fc"
+gtmi-a2db6a7389,gtmi,2020,GNB,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-844bfc1ddb,gtmi,2020,GNB,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-8d6ad7bc1d,gtmi,2022,GNB,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-a417f663fc,gtmi,2025,GNB,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-49724de5b2,gtmi,2020,GNB,I-7,Is there a Tax Management Information System in place?,0 No,,1973,same,superseded,,,the 2025 round answers it
+gtmi-69c7092ad3,gtmi,2022,GNB,I-7,Is there a Tax Management Information System in place?,1 Implementation in progress,Kontaktu System,1973,same,superseded,,,the 2025 round answers it
+gtmi-d14ba3b258,gtmi,2025,GNB,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Kontaktu,1973,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"back-office system named, no online filing or payment stated"
+gtmi-2c0f7a91eb,gtmi,2025,GNQ,I-20,Is there a Tax online service portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal absence, no filing aspect stated; filing none carried by gtmi-893903b4c7"
+gtmi-3c26b6669a,gtmi,2020,GNQ,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d582c8a9e4,gtmi,2022,GNQ,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-076d7fcc6f,gtmi,2022,GNQ,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-77154ca8e9,gtmi,2020,GNQ,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-893903b4c7,gtmi,2025,GNQ,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"SIGREF is a tax management system in progress, which states no online filing"
+gtmi-9b9a92cde6,gtmi,2022,GNQ,I-7,Is there a Tax Management Information System in place?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-ab0888eac5,gtmi,2025,GNQ,I-7,Is there a Tax Management Information System in place?,1 Implementation in progress,Integrated Tax Revenue Management System (SIGREF),1969,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"SIGREF is a tax management system in progress, which states no online filing"
+gtmi-db596ebd10,gtmi,2020,GNQ,I-7,Is there a Tax Management Information System in place?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9bd5e16869,gtmi,2020,KEN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-ae40cbd36e,gtmi,2022,KEN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-daff3cc9c0,gtmi,2025,KEN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal, no filing stated; filing held as KEN-001"
+gtmi-5936e5ded3,gtmi,2020,KEN,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-867e5c07c9,gtmi,2022,KEN,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-a2bfae46c2,gtmi,2025,KEN,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as KEN-001
+gtmi-049dad9658,gtmi,2020,KEN,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),iTax > ITMS - Integrated Tax Management System,1995,same,superseded,,,the 2025 round answers it
+gtmi-074cc03b9b,gtmi,2022,KEN,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),iTax > ITMS - Integrated Tax Management System,1995,same,superseded,,,the 2025 round answers it
+gtmi-097b1db31a,gtmi,2025,KEN,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAX,1995,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as KEN-001
+gtmi-2650f51ed7,gtmi,2025,LBR,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal, no filing stated; filing held as LBR-005"
+gtmi-7171cf3ce1,gtmi,2022,LBR,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-877e621661,gtmi,2020,LBR,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-188cff618c,gtmi,2025,LBR,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LBR-005
+gtmi-b134eb3a11,gtmi,2020,LBR,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e571da5d8f,gtmi,2022,LBR,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a78d2ea697,gtmi,2025,LBR,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),LITAS,2013,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LBR-005
+gtmi-da2729c79a,gtmi,2022,LBR,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS - Standard Integrated Government Tax System / Integrated Tax Administration Services (ITAS),2013,same,superseded,,,the 2025 round answers it
+gtmi-fa73c56fd9,gtmi,2020,LBR,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS - Standard Integrated Government Tax System / Integrated Tax Administration Services (ITAS),2013,same,superseded,,,the 2025 round answers it
+gtmi-19677e976f,gtmi,2020,LBY,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-887b687bda,gtmi,2022,LBY,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ac0eee1147,gtmi,2025,LBY,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal in progress, no filing or payment stated; filing underway held as LBY-001"
+gtmi-4c5a47a660,gtmi,2022,LBY,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-73f629b820,gtmi,2020,LBY,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-da01570824,gtmi,2025,LBY,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-2db3cbdd66,gtmi,2020,LBY,I-7,Is there a Tax Management Information System in place?,0 No,,2010,same,superseded,,,the 2025 round answers it
+gtmi-8150587c45,gtmi,2022,LBY,I-7,Is there a Tax Management Information System in place?,0 No,,2010,same,superseded,,,the 2025 round answers it
+gtmi-8b783fe0c9,gtmi,2025,LBY,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Forms and information,2010,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"forms and information site, no online filing or payment stated"
+gtmi-6728f2a806,gtmi,2022,LSO,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-a1c42a4021,gtmi,2025,LSO,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal, no filing stated; filing held as LSO-001"
+gtmi-c73f76b6a7,gtmi,2020,LSO,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-0418bebb6e,gtmi,2020,LSO,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-e9e6f796e3,gtmi,2022,LSO,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-fe6dc81139,gtmi,2025,LSO,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LSO-001
+gtmi-2eba843f94,gtmi,2022,LSO,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),VIPS-VAT Information Program System,2001,same,superseded,,,the 2025 round answers it
+gtmi-b3d84a2f6b,gtmi,2020,LSO,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),VIPS - VAT Information Processing System + Other fragmented automation solutions (Income Tax),2001,same,superseded,,,the 2025 round answers it
+gtmi-ec6f2af399,gtmi,2025,LSO,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),e-Taxation platform,2001,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LSO-001
+gtmi-690d8435bb,gtmi,2025,MAR,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal, no filing stated; filing held as MAR-001"
+gtmi-819c03bb20,gtmi,2020,MAR,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-dfbc35e282,gtmi,2022,MAR,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-0c70d42fc0,gtmi,2022,MAR,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-715228ad8b,gtmi,2020,MAR,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-c7285fece8,gtmi,2025,MAR,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MAR-001
+gtmi-049c14d52c,gtmi,2022,MAR,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TAX GOV MA,1956,same,superseded,,,the 2025 round answers it
+gtmi-95d9d8e01d,gtmi,2025,MAR,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIMPL Online Service,1956,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MAR-001
+gtmi-a47f8ebb16,gtmi,2020,MAR,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Simpl-IS Web - Online services and forms,1956,same,superseded,,,the 2025 round answers it
+gtmi-1177951f28,gtmi,2020,MDG,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-53ffe431a3,gtmi,2025,MDG,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal, no filing stated; filing held as MDG-002"
+gtmi-bb931259d3,gtmi,2022,MDG,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-2b3a2aa2ea,gtmi,2025,MDG,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MDG-002
+gtmi-94a311996e,gtmi,2022,MDG,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-de56500bb7,gtmi,2020,MDG,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-1de7684c05,gtmi,2020,MDG,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System,1998,same,superseded,,,the 2025 round answers it
+gtmi-22e1feac15,gtmi,2025,MDG,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SAFI-Système d'Administration Fiscale Integrée,1998,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MDG-002
+gtmi-b2277934dc,gtmi,2022,MDG,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SAFI-Système d'Administration Fiscale Integrée,1998,same,superseded,,,the 2025 round answers it
+gtmi-3fd5b2705b,gtmi,2025,MLI,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal, no filing stated; filing held as MLI-002"
+gtmi-d9ddb5cad6,gtmi,2020,MLI,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-e754ccd201,gtmi,2022,MLI,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-0bb244c39e,gtmi,2020,MLI,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-67d06d266e,gtmi,2025,MLI,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MLI-004; link is a financial-statement user manual and MLI-002 holds filing in service
+gtmi-a7a15e8f74,gtmi,2022,MLI,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-2f751370b9,gtmi,2025,MLI,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System / Système Intégré de Gestion des Taxes et Assimilées,1960,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"back-office system named, no online filing stated; filing held as MLI-002"
+gtmi-ab53a19761,gtmi,2022,MLI,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System / Système Intégré de Gestion des Taxes et Assimilées,1960,same,superseded,,,the 2025 round answers it
+gtmi-b362c91b95,gtmi,2020,MLI,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System / Système Intégré de Gestion des Taxes et Assimilées,1960,same,superseded,,,the 2025 round answers it
+gtmi-2c49667c21,gtmi,2022,MOZ,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-ef85a65e80,gtmi,2020,MOZ,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-f0755c7b05,gtmi,2025,MOZ,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal, no filing stated; filing held as MOZ-001"
+gtmi-3d0ac32581,gtmi,2022,MOZ,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-5e836380d6,gtmi,2025,MOZ,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by MOZ-001
+gtmi-f63957e3a6,gtmi,2020,MOZ,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-74e33dc9bb,gtmi,2020,MOZ,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),e-Taxation - Online services and forms,2006,same,superseded,,,the 2025 round answers it
+gtmi-96ca31747f,gtmi,2022,MOZ,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),e-Taxation - Online services and forms,2006,same,superseded,,,the 2025 round answers it
+gtmi-ff95355c55,gtmi,2025,MOZ,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),e-Taxation - Online services and forms,2006,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"online services named, no filing or payment stated; filing held as MOZ-001"
+gtmi-17663fa3d2,gtmi,2025,MRT,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal, no filing stated; filing held as MRT-001"
+gtmi-5f459fd31e,gtmi,2022,MRT,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d53321a27c,gtmi,2020,MRT,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-0764c8e22f,gtmi,2025,MRT,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MRT-001
+gtmi-da4f7bc048,gtmi,2022,MRT,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ec56a45d5d,gtmi,2020,MRT,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-85ac49cb99,gtmi,2020,MRT,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),JIBAYA - Tax Administration System,1991,same,superseded,,,the 2025 round answers it
+gtmi-9d57d92cdb,gtmi,2025,MRT,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),JIBAYA - Tax Administration,1991,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"back-office system named, no online filing stated; filing held as MRT-001"
+gtmi-e7ff9c5ae1,gtmi,2022,MRT,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),JIBAYA - Tax Administration System,1991,same,superseded,,,the 2025 round answers it
+gtmi-07bf294e7d,gtmi,2022,MUS,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-73546adfe9,gtmi,2020,MUS,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-8b94762964,gtmi,2025,MUS,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,fact,2023-01-01-mus-mra-integrated-annual-report-2022-23,MUS-005;MUS-006;MUS-007,
+gtmi-8a8032e7fd,gtmi,2022,MUS,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-9697aa9e38,gtmi,2025,MUS,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,fact,2023-01-01-mus-mra-integrated-annual-report-2022-23,MUS-005;MUS-006;MUS-007,
+gtmi-cbe3a0f43c,gtmi,2020,MUS,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-0595e41f1a,gtmi,2022,MUS,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS - Integrated Tax Administration System (ITAS),2004,same,superseded,,,the 2025 round answers it
+gtmi-20689ca59b,gtmi,2020,MUS,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS - Integrated Tax Administration System (ITAS),2004,same,superseded,,,the 2025 round answers it
+gtmi-464d678e51,gtmi,2025,MUS,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS - Integrated Tax Administration System (ITAS),2004,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"back-office system named, no online filing stated; filing held as MUS-004"
+gtmi-37199990cd,gtmi,2020,MWI,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-6475c0c88a,gtmi,2022,MWI,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-c9c443194b,gtmi,2025,MWI,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal, no filing stated; filing carried by gtmi-671f775380"
+gtmi-2a849a9ff3,gtmi,2022,MWI,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-671f775380,gtmi,2025,MWI,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,fact,2025-12-18-worldbank-govtech-dataset-dec2025,MWI-002,
+gtmi-a1f86bb538,gtmi,2020,MWI,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-1842528685,gtmi,2025,MWI,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS + EFD + Msonkho Online,1998,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"three named systems, none described, no filing or payment stated"
+gtmi-831a32e0a7,gtmi,2022,MWI,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS + EFD,1998,same,superseded,,,the 2025 round answers it
+gtmi-90dded8321,gtmi,2020,MWI,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS + EFD - Integrated Tax Administration System (ITAS) + Electronic Fiscal Device (EFD) + ePayment,1998,same,superseded,,,the 2025 round answers it
+gtmi-07aa9cded5,gtmi,2020,NAM,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-a50ca28230,gtmi,2025,NAM,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal, no filing stated; filing held as NAM-001"
+gtmi-d2aa7e830c,gtmi,2022,NAM,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-0d5e070e7b,gtmi,2022,NAM,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-243eae0c42,gtmi,2020,NAM,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-84ccf1c8dc,gtmi,2025,NAM,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NAM-001
+gtmi-1874676c35,gtmi,2020,NAM,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),IRD Tax System - Tax Management System,1990,same,superseded,,,the 2025 round answers it
+gtmi-2aab31f3b5,gtmi,2022,NAM,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS - Integrated Tax Administration System,1990,same,superseded,,,the 2025 round answers it
+gtmi-7dba7460dd,gtmi,2025,NAM,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS - Integrated Tax Administration System,1990,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NAM-001
+gtmi-06a1bb318c,gtmi,2020,NER,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-2684cd45da,gtmi,2025,NER,I-20,Is there a Tax online service portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"portal absence, outranked by NER-001"
+gtmi-be21f4638a,gtmi,2022,NER,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-9cb4019ac1,gtmi,2025,NER,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by NER-001
+gtmi-be82ecadd1,gtmi,2022,NER,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d0697d280f,gtmi,2020,NER,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-0d2e5d33e2,gtmi,2022,NER,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),"AFP, REC - AFP (professional tax application), REC (application for managing tax revenue collection)",1999,same,superseded,,,the 2025 round answers it
+gtmi-4bc20b3fa7,gtmi,2020,NER,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),"AFP, REC - AFP (professional tax application), REC (application for managing tax revenue collection)",1999,same,superseded,,,the 2025 round answers it
+gtmi-ff1b4b4d35,gtmi,2025,NER,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),"AFP, REC - AFP (professional tax application), REC (application for managing tax revenue collection)",1999,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"back-office applications named, no online filing stated; filing held as NER-001"
+gtmi-18c712f7a6,gtmi,2022,NGA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-3543ecc2ef,gtmi,2025,NGA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a portal in use, not filing; filing held as NGA-004"
+gtmi-ece18e6600,gtmi,2020,NGA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-7d9953d4f2,gtmi,2025,NGA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NGA-004
+gtmi-a62df5f134,gtmi,2022,NGA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-cb4182c2e3,gtmi,2020,NGA,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-3bd2580195,gtmi,2020,NGA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS - Integrated Tax Administration System (ITAS) / Standard Integrated Government Tax System,1943,same,superseded,,,the 2025 round answers it
+gtmi-3d6d1dd1ca,gtmi,2025,NGA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS - Integrated Tax Administration System (ITAS) / Standard Integrated Government Tax System,1943,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a tax management system in use states no filing or payment; system listed
+gtmi-8f5aa96c77,gtmi,2022,NGA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS - Integrated Tax Administration System (ITAS) / Standard Integrated Government Tax System,1943,same,superseded,,,the 2025 round answers it
+gtmi-32db47f547,gtmi,2020,RWA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-c63fc14be9,gtmi,2025,RWA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a portal in use at a home page, not filing; filing held as RWA-001"
+gtmi-c99076573d,gtmi,2022,RWA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-1c88e27e44,gtmi,2020,RWA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-7e076087e7,gtmi,2022,RWA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-c8cd3abaeb,gtmi,2025,RWA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as RWA-001
+gtmi-9d7eaacf93,gtmi,2025,RWA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),eTAX,1997,same,nothing,2024-11-01-rwa-rra-tax-statistics-2023-24-7th-edition,,the report names no system called eTAX; system in use states no filing or payment
+gtmi-cb9d97dd41,gtmi,2020,RWA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System,1997,same,superseded,,,the 2025 round answers it
+gtmi-fa17531091,gtmi,2022,RWA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS,1997,same,superseded,,,the 2025 round answers it
+gtmi-5e152be35a,gtmi,2025,SDN,I-20,Is there a Tax online service portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a portal, not filing; the e-filing claim carries it"
+gtmi-76a7a1471c,gtmi,2022,SDN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-bf2ba510e6,gtmi,2020,SDN,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-059a621af7,gtmi,2025,SDN,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-361baada50,gtmi,2020,SDN,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-73f53c3513,gtmi,2022,SDN,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-27d9cdeb6d,gtmi,2020,SDN,I-7,Is there a Tax Management Information System in place?,0 No,,1956,same,superseded,,,the 2025 round answers it
+gtmi-29c618e2df,gtmi,2022,SDN,I-7,Is there a Tax Management Information System in place?,0 No,,1956,same,superseded,,,the 2025 round answers it
+gtmi-ef71c91a5c,gtmi,2025,SDN,I-7,Is there a Tax Management Information System in place?,0 No,,1905,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,no tax management system is not a filing statement
+gtmi-7b3942052f,gtmi,2025,SEN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the government services platform (senegalservices), not the tax authority's system"
+gtmi-7df118a821,gtmi,2022,SEN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-f83baa776e,gtmi,2020,SEN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-79144d279f,gtmi,2025,SEN,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,read-before,2024-07-24-sen-dgid-digital-vat-foreign-providers-from-1-july-2024,,"reading list 21, already read for this study"
+gtmi-bc4e82d8b6,gtmi,2022,SEN,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-f75d7f3092,gtmi,2020,SEN,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-11d2ecd9a0,gtmi,2025,SEN,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System,1960,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a system in use states no filing or payment; system listed
+gtmi-afcd4104bc,gtmi,2022,SEN,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System,1960,same,superseded,,,the 2025 round answers it
+gtmi-f38820b3dc,gtmi,2020,SEN,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),SIGTAS - Standard Integrated Government Tax System,1960,same,superseded,,,the 2025 round answers it
+gtmi-36497f511d,gtmi,2022,SLE,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-8982663467,gtmi,2025,SLE,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a portal, not filing; filing held as SLE-001"
+gtmi-d52f208f78,gtmi,2020,SLE,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-63da881c42,gtmi,2020,SLE,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c1e7acbbae,gtmi,2022,SLE,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-c973620a84,gtmi,2025,SLE,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2022-05-01-sle-fair-tax-monitor-study-sierra-leone,,the study says ITAS was still being implemented in 2022 and states no e-filing in use
+gtmi-3b4815f0f2,gtmi,2020,SLE,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),VIPS - Value Added Tax Information Processing System,2002,same,superseded,,,the 2025 round answers it
+gtmi-4abc50f35f,gtmi,2025,SLE,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),ITAS / TRIPS,2002,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a system in use states no filing or payment; system listed
+gtmi-d3bebc95e7,gtmi,2022,SLE,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Integrated Tax Administration System / TRIPS,2002,same,superseded,,,the 2025 round answers it
+gtmi-1f19b46b06,gtmi,2020,SOM,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-22238252f1,gtmi,2025,SOM,I-20,Is there a Tax online service portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a portal, not filing; the e-filing claim carries it"
+gtmi-c9b6658153,gtmi,2022,SOM,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-93ab4ef83d,gtmi,2020,SOM,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-97f441b08a,gtmi,2025,SOM,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-f06f1696de,gtmi,2022,SOM,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-67f411f18c,gtmi,2020,SOM,I-7,Is there a Tax Management Information System in place?,0 No,,2012,same,superseded,,,the 2025 round answers it
+gtmi-e091c39945,gtmi,2025,SOM,I-7,Is there a Tax Management Information System in place?,1 Implementation in progress,iTax system,2007,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SOM-001
+gtmi-e19d1b590b,gtmi,2022,SOM,I-7,Is there a Tax Management Information System in place?,1 Implementation in progress,iTax system,2007,same,superseded,,,the 2025 round answers it
+gtmi-79634e098d,gtmi,2020,SSD,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-c32b3dc3d4,gtmi,2025,SSD,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a portal in use, not filing; filing held as SSD-003"
+gtmi-f7e72d45d3,gtmi,2022,SSD,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-7cee213280,gtmi,2025,SSD,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SSD-003
+gtmi-8d55430f44,gtmi,2022,SSD,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a9a66c4e6d,gtmi,2020,SSD,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-0c81029b64,gtmi,2020,SSD,I-7,Is there a Tax Management Information System in place?,0 No,,2011,same,superseded,,,the 2025 round answers it
+gtmi-b0e58bdaa6,gtmi,2022,SSD,I-7,Is there a Tax Management Information System in place?,0 No,,2011,same,superseded,,,the 2025 round answers it
+gtmi-d71acfc2cb,gtmi,2025,SSD,I-7,Is there a Tax Management Information System in place?,0 No,,2016,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by SSD-001
+gtmi-00c75e165b,gtmi,2025,STP,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the ministry's home page, a portal not filing"
+gtmi-4cf46bba6b,gtmi,2022,STP,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-97a3ccfd80,gtmi,2020,STP,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-49195d73af,gtmi,2020,STP,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-65c07d5dda,gtmi,2022,STP,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e77e680226,gtmi,2025,STP,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-3eb540cd17,gtmi,2022,STP,I-7,Is there a Tax Management Information System in place?,0 No,,2001,same,superseded,,,the 2025 round answers it
+gtmi-818ade7f72,gtmi,2020,STP,I-7,Is there a Tax Management Information System in place?,0 No,,2001,same,superseded,,,the 2025 round answers it
+gtmi-b750dd016a,gtmi,2025,STP,I-7,Is there a Tax Management Information System in place?,0 No,,1975,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,no tax management system is not a filing statement
+gtmi-15dfc62a46,gtmi,2020,SWZ,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-4fe1804734,gtmi,2025,SWZ,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a portal at a home page, not filing; filing held as SWZ-001"
+gtmi-e017a972ec,gtmi,2022,SWZ,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-03c4fd7a82,gtmi,2022,SWZ,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-0d78544254,gtmi,2025,SWZ,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SWZ-001
+gtmi-c0648d31ee,gtmi,2020,SWZ,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-0dbe10f72a,gtmi,2022,SWZ,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Revenue Management System,2008,same,superseded,,,the 2025 round answers it
+gtmi-3e4ee330aa,gtmi,2025,SWZ,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Oracle Revenue Management and Billing System,2008,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a system in use states no filing or payment; system listed
+gtmi-65acb9eb4a,gtmi,2020,SWZ,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),RMS - Revenue Management System,2008,same,superseded,,,the 2025 round answers it
+gtmi-ca324a3317,gtmi,2025,SYC,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a portal, not filing; the e-filing claim carries it"
+gtmi-d575de4a92,gtmi,2020,SYC,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-e5dbc7a090,gtmi,2022,SYC,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-185e01e8f2,gtmi,2022,SYC,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-ab5e53101d,gtmi,2025,SYC,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by SYC-002 (the platform closed to returns in January 2024)
+gtmi-c86c36a19e,gtmi,2020,SYC,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-19ec9cd39f,gtmi,2022,SYC,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Client Management System (CMS) + Online services and forms,1979,same,superseded,,,the 2025 round answers it
+gtmi-2cc71b5ef6,gtmi,2020,SYC,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),CMS + e-Services - Client Management System (CMS) + Online services and forms,1976,same,superseded,,,the 2025 round answers it
+gtmi-d7412d6c14,gtmi,2025,SYC,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Tax Management System (TMS),1979,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a system in use states no filing or payment; system listed
+gtmi-7b2ff76877,gtmi,2022,TCD,I-20,Is there a Tax online service portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-de3d3946de,gtmi,2020,TCD,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-f90b11d15b,gtmi,2025,TCD,I-20,Is there a Tax online service portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by TCD-002
+gtmi-120d5ea4bb,gtmi,2025,TCD,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by TCD-002
+gtmi-2915612b87,gtmi,2020,TCD,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-468ffc978b,gtmi,2022,TCD,I-21,Is e-Filing available for tax and/or customs declarations?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-3e532ad62a,gtmi,2022,TCD,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TAS - Tax Automation Solutions,1969,same,superseded,,,the 2025 round answers it
+gtmi-c45cbca9b0,gtmi,2025,TCD,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TAS - Tax Automation Solutions,1969,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a system in use states no filing or payment; system listed
+gtmi-fe12f63e42,gtmi,2020,TCD,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TAS - Tax Automation Solutions,1969,same,superseded,,,the 2025 round answers it
+gtmi-1da5aa8f9b,gtmi,2022,TGO,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-78d7aba2cd,gtmi,2025,TGO,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a portal, not filing; filing held as TGO-001"
+gtmi-da3a4bb52d,gtmi,2020,TGO,I-20,Is there a Tax online service portal?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-00c9fb337e,gtmi,2022,TGO,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-e394b13aea,gtmi,2020,TGO,I-21,Is e-Filing available for tax and/or customs declarations?,1 Implementation in progress,,,partial,superseded,,,the 2025 round answers it
+gtmi-fc86932769,gtmi,2025,TGO,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TGO-001
+gtmi-0b8b1a2456,gtmi,2025,TGO,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Dimana,2012,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a system in use states no filing or payment; system listed
+gtmi-9443156ef9,gtmi,2022,TGO,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),DIMANA,2012,same,superseded,,,the 2025 round answers it
+gtmi-e37c5f936e,gtmi,2020,TGO,I-7,Is there a Tax Management Information System in place?,0 No,,1943,same,superseded,,,the 2025 round answers it
+gtmi-21cc8e5026,gtmi,2025,TUN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a portal, not filing; filing held as TUN-001"
+gtmi-91ea01f1d3,gtmi,2022,TUN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-b62ce4dba3,gtmi,2020,TUN,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-0be85683a0,gtmi,2020,TUN,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-87fc1166b3,gtmi,2022,TUN,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-f5cbb1c3e3,gtmi,2025,TUN,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TUN-001
+gtmi-4140857bfd,gtmi,2022,TUN,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),RAFIC + SADEC,1957,same,superseded,,,the 2025 round answers it
+gtmi-9ce6d9e998,gtmi,2025,TUN,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),RAFIC,1957,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a system in use states no filing or payment; system listed
+gtmi-f32301e8ba,gtmi,2020,TUN,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),RAFIC + SADEC - Rationalisation de l'Action Fiscale et Comptable (RAFIC)  + Système informatique d’aide à la décision et au contrôle fiscal (SADEC),1957,same,superseded,,,the 2025 round answers it
+gtmi-93ee08012c,gtmi,2025,TZA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2024-06-30-tza-ijpf-taxpayer-perception-e-filing-adoption,,"the paper states an e-filing system, not an online service portal"
+gtmi-c3907adc98,gtmi,2022,TZA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-d94b9bb298,gtmi,2020,TZA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-1b17f4985c,gtmi,2025,TZA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,fact,2025-12-18-worldbank-govtech-dataset-dec2025,TZA-003,
+gtmi-e97d4357f9,gtmi,2022,TZA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-ff28d7228a,gtmi,2020,TZA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-5ecc204661,gtmi,2025,TZA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Tanzania Customs Integrated System (TANCIS) and Tax payer Portal,1995,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a system in use (customs system and a portal) states no filing or payment; systems listed
+gtmi-c84154892c,gtmi,2022,TZA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Tanzania Customs Integrated System (TANCIS),1995,same,superseded,,,the 2025 round answers it
+gtmi-e9d436331c,gtmi,2020,TZA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),"ITAX / EFDMS - Integrated Tax Administration System + DWH (data warehouse), CMVRS (central motor vehicle registration system) and CDLS (computerized driver’s license system)",1995,same,superseded,,,the 2025 round answers it
+gtmi-b99344d282,gtmi,2025,UGA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2023-09-01-uga-ura-newsletter-july-september-2023,,the passages state e-Tax provides online services but name no filing or payment
+gtmi-c5fb2ce06a,gtmi,2020,UGA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-e531b0fd3b,gtmi,2022,UGA,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-8421ffc500,gtmi,2025,UGA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,fact,2026-07-01-uga-ura-file-a-return-e-filing,UGA-003,
+gtmi-eaa149f3ec,gtmi,2020,UGA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-fb8cc7c6d9,gtmi,2022,UGA,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-0f8cc9a0a2,gtmi,2020,UGA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),e-Tax and other portals + Inland Revenue Integrated System (IRIS),1991,same,superseded,,,the 2025 round answers it
+gtmi-3c4ce96167,gtmi,2022,UGA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),e-Tax and other portals + Inland Revenue Integrated System (IRIS),1991,same,superseded,,,the 2025 round answers it
+gtmi-d5ef8c8b80,gtmi,2025,UGA,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),e-Tax and other portals + Inland Revenue Integrated System (IRIS),1991,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a system in use states no filing or payment; system listed
+gtmi-7624b6b808,gtmi,2025,ZAF,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the SARS home page, not the thing asked about"
+gtmi-c874da1dd1,gtmi,2020,ZAF,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-d6e2e92727,gtmi,2022,ZAF,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-1226cd36cc,gtmi,2025,ZAF,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZAF-001
+gtmi-4fcd56ee69,gtmi,2022,ZAF,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-ee29c03c08,gtmi,2020,ZAF,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-76d40e98dd,gtmi,2020,ZAF,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Web Services - Online services and forms,1997,same,superseded,,,the 2025 round answers it
+gtmi-97454ada91,gtmi,2025,ZAF,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Web Services - Online services and forms,1997,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a web services listing states no filing or payment; system listed
+gtmi-d7408f8c03,gtmi,2022,ZAF,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Web Services - Online services and forms,1997,same,superseded,,,the 2025 round answers it
+gtmi-acfa902ae9,gtmi,2022,ZMB,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-b8ac45b64b,gtmi,2020,ZMB,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-eb645e457c,gtmi,2025,ZMB,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a portal, not filing; filing held as ZMB-002"
+gtmi-0dc7bdd354,gtmi,2020,ZMB,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-7e54ba718f,gtmi,2025,ZMB,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZMB-002
+gtmi-fa5349390b,gtmi,2022,ZMB,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-204e6a9771,gtmi,2025,ZMB,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),e-Tax Portal,2006,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a system in use states no filing or payment; system listed
+gtmi-d4826f8e39,gtmi,2022,ZMB,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Online services - web services,2006,same,superseded,,,the 2025 round answers it
+gtmi-d639bd6e4d,gtmi,2020,ZMB,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),Online Services - Web services and forms,1994,same,superseded,,,the 2025 round answers it
+gtmi-537e245408,gtmi,2020,ZWE,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-6a0d51cacf,gtmi,2025,ZWE,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a portal, not filing; filing held as ZWE-001"
+gtmi-6ed5d2c70e,gtmi,2022,ZWE,I-20,Is there a Tax online service portal?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-32284e08fe,gtmi,2025,ZWE,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZWE-001
+gtmi-3d2765516b,gtmi,2020,ZWE,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-5677d9765d,gtmi,2022,ZWE,I-21,Is e-Filing available for tax and/or customs declarations?,2 Yes (in use),,,partial,superseded,,,the 2025 round answers it
+gtmi-926a1992f2,gtmi,2020,ZWE,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TMS > SAP - Tax Management System,2001,same,superseded,,,the 2025 round answers it
+gtmi-c0030bb4ab,gtmi,2025,ZWE,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TARMS,2001,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a system in use states no filing or payment; system listed
+gtmi-e5c0d8289a,gtmi,2022,ZWE,I-7,Is there a Tax Management Information System in place?,2 Yes (in use),TMS > SAP - Tax Management,2001,same,superseded,,,the 2025 round answers it

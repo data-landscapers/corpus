@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "e-Taxation platform", "country_label": "Lesotho", "class": "taxsystem", "platform": "", "owner": "Revenue Services Lesotho", "tiers": ""}
+  ],
+  "note": "All three Lesotho lines are already held in evidence.csv or state no filing or payment.",
+  "claims": {
+    "gtmi-ec6f2af399": "nothing: held as LSO-001",
+    "gtmi-a1c42a4021": "nothing: portal, no filing stated; filing held as LSO-001",
+    "gtmi-fe6dc81139": "nothing: held as LSO-001"
+  }
+}

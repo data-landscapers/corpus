@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Dimana", "country_label": "Togo", "class": "taxsystem", "platform": "", "owner": "OTR", "tiers": ""}
+  ],
+  "note": "The e-filing claim is held (TGO-001); the others state a system and a portal.",
+  "claims": {
+    "gtmi-0b8b1a2456": "nothing: a system in use states no filing or payment; system listed",
+    "gtmi-78d7aba2cd": "nothing: a portal, not filing; filing held as TGO-001",
+    "gtmi-fc86932769": "nothing: held as TGO-001"
+  }
+}

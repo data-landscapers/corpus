@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "SIGTAS - Standard Integrated Government Tax System", "country_label": "Senegal", "class": "taxsystem", "platform": "", "owner": "DGID", "tiers": ""}
+  ],
+  "note": "The record states a system in use and a portal, neither a filing or payment statement.",
+  "claims": {
+    "gtmi-11d2ecd9a0": "nothing: a system in use states no filing or payment; system listed",
+    "gtmi-7b3942052f": "nothing: link is the government services platform (senegalservices), not the tax authority's system"
+  }
+}

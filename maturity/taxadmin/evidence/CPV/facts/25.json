@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "GRE - Gestão de Receitas do Estado", "country_label": "Cabo Verde", "class": "taxsystem", "platform": "", "owner": "DNRE", "tiers": ""}
+  ],
+  "note": "E-filing yes is already held; the system and portal lines state no filing or payment.",
+  "claims": {
+    "gtmi-57f9658a0e": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-b654ac2973": "nothing: a portal is not filing; filing held as CPV-001",
+    "gtmi-ad4e2bdfe9": "nothing: held as CPV-001"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "SIGTAS", "country_label": "Mali", "class": "", "platform": "", "owner": "Direction Générale des Impôts", "tiers": ""}
+  ],
+  "note": "The Mali lines state no filing or payment, or are already held in evidence.csv.",
+  "claims": {
+    "gtmi-2f751370b9": "nothing: back-office system named, no online filing stated; filing held as MLI-002",
+    "gtmi-3fd5b2705b": "nothing: portal, no filing stated; filing held as MLI-002",
+    "gtmi-67d06d266e": "nothing: held as MLI-004; link is a financial-statement user manual and MLI-002 holds filing in service"
+  }
+}

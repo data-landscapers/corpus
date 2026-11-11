@@ -1,0 +1,16 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The government told the World Bank's GovTech survey (2025 round) that e-filing is in use for tax and/or customs declarations in Malawi, linking the MRA's Msonkho Online portal; no earlier date is given, so the round's year stands for the year's end.", "as_of": "2025", "date_precision": "year", "system": "Msonkho Online", "class": "taxsystem"}
+  ],
+  "systems": [
+    {"system": "ITAS", "country_label": "Malawi", "class": "", "platform": "", "owner": "Malawi Revenue Authority", "tiers": ""},
+    {"system": "Msonkho Online", "country_label": "Malawi", "class": "taxsystem", "platform": "", "owner": "Malawi Revenue Authority", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-1842528685": "nothing: three named systems, none described, no filing or payment stated",
+    "gtmi-c9c443194b": "nothing: portal, no filing stated; filing carried by gtmi-671f775380",
+    "gtmi-671f775380": "fact"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "2023-09-01-uga-ura-newsletter-july-september-2023",
+  "facts": [
+    {
+      "sub_indicator": "customs",
+      "aspect": "window",
+      "value": "window",
+      "fact": "The URA newsletter says the Uganda Electronic Single Window (UeSW) lets international traders and government submit regulatory documents at a single location; it gives no launch date, so as_of is the newsletter's published date.",
+      "as_of": "2023-09",
+      "date_precision": "month",
+      "system": "Uganda Electronic Single Window (UeSW)",
+      "class": "customs"
+    },
+    {
+      "sub_indicator": "customs",
+      "aspect": "system",
+      "value": "inservice",
+      "fact": "The URA newsletter says Uganda customs first introduced ASYCUDA in the late 1990s and has upgraded it to the current ASYCUDA World; it gives no date for the current state, so as_of is the newsletter's published date.",
+      "as_of": "2023-09",
+      "date_precision": "month",
+      "system": "ASYCUDA World",
+      "class": "customs"
+    }
+  ],
+  "systems": [
+    {"system": "ASYCUDA World", "country_label": "Uganda", "class": "customs", "platform": "ASYCUDA World", "owner": "Uganda Revenue Authority", "tiers": ""},
+    {"system": "Uganda Electronic Single Window (UeSW)", "country_label": "Uganda", "class": "customs", "platform": "", "owner": "Uganda Revenue Authority", "tiers": ""},
+    {"system": "Regional Electronic Cargo Tracking System (RECTS)", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Uganda Revenue Authority", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-594b21d7b1": "fact"
+  }
+}

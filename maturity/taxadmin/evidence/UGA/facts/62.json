@@ -1,0 +1,11 @@
+{
+  "slug": "2023-09-01-uga-ura-newsletter-july-september-2023",
+  "facts": [],
+  "systems": [
+    {"system": "e-Tax", "country_label": "Uganda", "class": "taxsystem", "platform": "", "owner": "URA", "tiers": ""}
+  ],
+  "note": "The passages call e-Tax an integrated domestic tax administration system providing online services, broadly used in taxpayer registration, but the filing sentence is cut off.",
+  "claims": {
+    "gtmi-b99344d282": "nothing: the passages state e-Tax provides online services but name no filing or payment"
+  }
+}

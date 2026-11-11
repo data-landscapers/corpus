@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "eTax", "country_label": "Central African Republic", "class": "taxsystem", "platform": "", "owner": "DGID", "tiers": ""}
+  ],
+  "note": "E-filing yes is already held; the system and portal lines state no filing or payment.",
+  "claims": {
+    "gtmi-bda50248de": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-71a7ab2291": "nothing: a portal is not filing; filing held as CAF-003",
+    "gtmi-7d6c2053b4": "nothing: held as CAF-003"
+  }
+}

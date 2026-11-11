@@ -1,6 +1,6 @@
 # Tax: tax
 
-*As at 2026-08-31.*
+*As at 2026-09-30.*
 
 ## The norm
 
@@ -20,12 +20,12 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
-| 4 Operating | 19 |
-| 3 Established | 10 |
-| 2 Nascent | 11 |
+| 5 Leading | 6 |
+| 4 Operating | 18 |
+| 3 Established | 13 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
-| Unplaced | 6 |
+| Unplaced | 5 |
 | No evidence | 3 |
 
 ## Countries
@@ -49,6 +49,12 @@ Since 2026 foreign digital suppliers must file and pay VAT online, and other tax
 - Decree 2.25.862 of 27 November 2025 requires non-resident suppliers of remote digital services to register on the tax administration's electronic platform, file VAT returns electronically each quarter and pay electronically, entering into force six months after publication ([source, 2025-11-27](https://ecoactu.ma/wp-content/uploads/2025/12/decret-pour-la-TVA-sur-les-services-a-distance-au-Maroc-fournis-par-des-prestataires-non-residents-Art-115-Bis-du-CGI.pdf)).
 - Hespress reports that the Direction generale des impots launched in May 2026 the electronic platform "Taxation on Digital Services" for foreign providers of remote services, under decree 2.25.862 which sets how they register, declare their Moroccan turnover and pay VAT ([source, 2026-05](https://fr.hespress.com/489385-publicite-meta-applique-la-tva-au-maroc-des-octobre.html)).
 - The DGI says Simpl lets taxpayers pay taxes online (telepaiements), with payment methods including direct debit and multichannel ([source, 2024-09](https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl)).
+
+### Rwanda: 5 Leading
+
+Rwanda reported 96 to 100 percent of main-tax filings made electronically in 2023/24, with payment by mobile money and online banking.
+
+- The Rwanda Revenue Authority's 7th edition tax statistics put the share of filings made electronically at about 96 to 100 percent across excise, corporate income tax, PAYE, personal income tax and VAT in 2020/21 to 2023/24 ([source, 2024](https://www.rra.gov.rw/fileadmin/user_upload/RRA_Tax_Statistics_2023-2024.pdf)).
 
 ### Senegal: 5 Leading
 
@@ -176,12 +182,6 @@ Taxes could be filed online and paid electronically in 2025; no source found rep
 
 - FIRS directed that all tax payments must originate from assessments on TaxPro Max, which the article says handles payment processing ([source, 2025-04-30](https://theeconomictimes.com.ng/2025/04/30/firs-orders-banks-to-shut-down-unauthorised-tax-collection-accounts-mandates-use-of-taxpro-max/)).
 
-### Rwanda: 4 Operating
-
-Taxes could be filed online and paid electronically in 2025; no source found reports mandatory or majority online filing.
-
-- The Rwanda Revenue Authority's 2025 Tax Handbook says that after declaring, taxes are paid using E-Payment, Online Banking, MTN Mobile Money and Mobicash ([source, 2025](https://www.rra.gov.rw/fileadmin/Folder_for_2025/RRA_Tax_Handbook_2025_Final.pdf)).
-
 ### Sierra Leone: 4 Operating
 
 Taxes could be filed online and paid electronically in 2025; no source found reports mandatory or majority online filing.
@@ -221,6 +221,12 @@ Tax returns could be filed online in 2026; no source found reports electronic pa
 - The Star column says KRA's iTax portal takes electronically submitted returns, with VAT returns filed on iTax from mid-August 2026 after moving off the offline Excel template ([source, 2026-08](https://www.the-star.co.ke/opinion/star-blogs/2026-09-01-monari-when-itax-fails-the-taxpayer-still-pays)).
 - KRA's public notice of 23 April 2026 says that from May 2026 validated export values from iCMS are prefilled in the VAT return in iTax, which taxpayers file there ([source, 2026-05](https://www.kra.go.ke/news-center/public-notices/2368-integration-of-the-export-process-in-icms-with-the-vat-return-in-itax)).
 
+### Malawi: 3 Established
+
+Malawi reported online tax filing in use in 2025; no source found since 2023 reports electronic payment.
+
+- The government told the World Bank's GovTech survey (2025 round) that e-filing is in use for tax and/or customs declarations in Malawi, linking the MRA's Msonkho Online portal; no earlier date is given, so the round's year stands for the year's end ([source, 2025](https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset)).
+
 ### Mozambique: 3 Established
 
 Tax returns could be filed online in 2026; no source found reports electronic payment.
@@ -242,11 +248,23 @@ Tax returns could be filed online in 2026; no source found reports electronic pa
 - ITWeb reports SARS's 2026 filing season ran auto assessments from 1 to 12 July, with non-provisional taxpayers submitting returns from 13 July to 23 October and some completing a manual eFiling submission ([source, 2026-07](https://www.itweb.co.za/article/ai-becomes-taxmans-little-helper/KA3Wwqdzpgb7rydZ)).
 - SARS says individual taxpayers file returns via eFiling and the SARS MobiApp from 21 July to 20 October 2025, with an outcome in under five seconds for most online returns ([source, 2025-07-21](https://www.sanews.gov.za/south-africa/over-5-million-taxpayers-auto-assessed-2025-filing-season-gets-underway)).
 
+### Tanzania: 3 Established
+
+Tanzania reported online tax filing in use in 2025; no source found since 2023 reports electronic payment.
+
+- The government told the World Bank's GovTech survey (2025 round) that e-filing for tax and/or customs declarations is available and in use in Tanzania; the round's year stands for as_of ([source, 2025](https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset)).
+
 ### Tunisia: 3 Established
 
 Tunisian employers filed declarations online in 2026; recent electronic payment through the tax system is not known.
 
 - The report on the 2027 State budget bill says more than 85,000 taxpayers filed the employer's declaration through the TEJ e-platform by end-July 2026, having previously filed on magnetic media ([source, 2026-07](https://www.webmanagercenter.com/2026/10/27/575585/tunisie-la-digitalisation-fiscale-permet-deconomiser-6-000-journees-de-travail/)).
+
+### Uganda: 3 Established
+
+Uganda's tax authority described online return filing in July 2026; no source found since 2023 reports electronic payment.
+
+- The URA's File a Return page sets out logging in to the URA web portal with the taxpayer TIN, uploading a completed return template and submitting it, with an acknowledgement receipt emailed; as_of is the page's capture-month published date ([source, 2026-07](https://ura.go.ug/en/domestic-taxes/returns/)).
 
 ### Zimbabwe: 3 Established
 
@@ -313,19 +331,6 @@ An e-tax system for filing and payment was being rolled out in 2026, with taxes 
 - The SSRA is rolling out its e-tax system, described as a platform to automate tax filings and payments, with seven of its state head offices digitized so far and others to follow, per One Citizen Daily quoting the Commissioner of Domestic Taxes ([source, 2026-03-10](https://www.onecitizendaily.com/index.php/2026/03/10/south-sudan-tax-digital-first-strategy-to-combat-revenue-leakages/)).
 - One Citizen Daily reports the SSRA review of its E-Tax reform, a platform designed for tax registration, filing and payment, noting strides in automating tax filing alongside limited infrastructure and low taxpayer awareness ([source, 2025-09-25](https://www.onecitizendaily.com/index.php/2025/09/26/ssra-pushes-digital-reforms-to-boost-transparency-efficiency/)).
 
-### Tanzania: 2 Nascent
-
-An electronic tax system was under way in 2026; online filing is not on record.
-
-- The Tanzania Revenue Authority's Integrated Domestic Revenue Administration System (IDRAS) was scheduled to launch on 9 February 2026, replacing separate VAT and other platforms with one system handling registration, return filing, payments, objections and sales monitoring, per the Commissioner for Domestic Revenue ([source, 2026-01-25](https://dailynews.co.tz/how-new-tax-system-enhances-compliance/)).
-- The Daily News reports that the Tanzania Revenue Authority's Integrated Domestic Revenue Administration System (IDRAS) began operation in January 2025, with a first phase of vehicle registration and driver's licence systems launched in February 2025 ([source, 2025-02](https://dailynews.co.tz/tax-administration-driver-licence-goes-digital/)).
-
-### Uganda: 2 Nascent
-
-An electronic tax system was under way in 2026; online filing is not on record.
-
-- The Ultimate Post reports URA awarded an e-tax2 electronic tax software supply, installation and operationalization contract (80bn, 10-year) to a joint venture, meant to digitise tax administration, with the rollout late by 4 years and the contractor yet to start work ([source, 2026-07-29](https://ultimatepost.dantty.com/post/10745)).
-
 ### Cote d'Ivoire: Unplaced
 
 Nothing found since 2023 names online tax filing and payment, so no stage is set.
@@ -333,12 +338,6 @@ Nothing found since 2023 names online tax filing and payment, so no stage is set
 Not established: Nothing found since October 2023 says whether tax returns can be filed online.
 
 ### Eritrea: Unplaced
-
-Nothing found since 2023 names online tax filing and payment, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether tax returns can be filed online.
-
-### Malawi: Unplaced
 
 Nothing found since 2023 names online tax filing and payment, so no stage is set.
 

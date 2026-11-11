@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "e-Taxation - Online services and forms", "country_label": "Mozambique", "class": "", "platform": "", "owner": "Autoridade Tributária de Moçambique", "tiers": ""}
+  ],
+  "note": "The Mozambique e-filing no is outranked by primary rows in evidence.csv; the other lines state no filing or payment.",
+  "claims": {
+    "gtmi-ff95355c55": "nothing: online services named, no filing or payment stated; filing held as MOZ-001",
+    "gtmi-f0755c7b05": "nothing: portal, no filing stated; filing held as MOZ-001",
+    "gtmi-5e836380d6": "nothing: contradicted by MOZ-001"
+  }
+}

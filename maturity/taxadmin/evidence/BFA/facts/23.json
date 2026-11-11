@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "eSINTAX", "country_label": "Burkina Faso", "class": "taxsystem", "platform": "", "owner": "DGI", "tiers": ""}
+  ],
+  "note": "E-filing yes is already held; the system and portal lines state no filing or payment.",
+  "claims": {
+    "gtmi-6f2a7dc316": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-6806d96e63": "nothing: a portal is not filing; filing held as BFA-001",
+    "gtmi-54b1ec4217": "nothing: held as BFA-001"
+  }
+}

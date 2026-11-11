@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "TAS - Tax Automation Solutions", "country_label": "Chad", "class": "taxsystem", "platform": "", "owner": "DGI", "tiers": ""}
+  ],
+  "note": "The record's 'no' answers are outranked by the DGI's eTAX rows in evidence.csv.",
+  "claims": {
+    "gtmi-c45cbca9b0": "nothing: a system in use states no filing or payment; system listed",
+    "gtmi-f90b11d15b": "nothing: contradicted by TCD-002",
+    "gtmi-120d5ea4bb": "nothing: contradicted by TCD-002"
+  }
+}

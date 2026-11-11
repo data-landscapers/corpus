@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "window": "",
+      "window": "window",
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-001",
-      "gaps": "No source found since October 2023 says a trade single window is in service.",
-      "note": "The MRA's Customs Management System runs on a private cloud for risk management and border control in January 2026, so stage 3. No source describes a trade single window.",
-      "as_at": "2026-10-26"
+      "stage_sources": "MUS-003",
+      "gaps": "No source found since October 2023 says customs exchanges data through a system open to its whole regional community.",
+      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
+      "as_at": "2026-11-11"
     }
   ]
 }

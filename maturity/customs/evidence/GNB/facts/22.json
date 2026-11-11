@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "SYDONIA++", "country_label": "Guinea-Bissau", "class": "customs", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "System claim held; a 'No' on the single window is not a value the study holds.",
+  "claims": {
+    "gtmi-ef192e1fc6": "nothing: held as GNB-003",
+    "gtmi-b5217c3300": "nothing: an absent window is not a value of the aspect"
+  }
+}

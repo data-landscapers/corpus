@@ -1,0 +1,20 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Kontaktu",
+      "country_label": "Guinea-Bissau",
+      "class": "",
+      "platform": "",
+      "owner": "Direcção-Geral das Contribuições e Impostos",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-d14ba3b258": "nothing: back-office system named, no online filing or payment stated",
+    "gtmi-756ebb4a8e": "nothing: portal absence, no filing aspect stated; filing none carried by gtmi-a417f663fc",
+    "gtmi-a417f663fc": "nothing: a database's no is not the absence the ladder asks for"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2024-01-01-mus-mra-national-time-release-study-2023",
+  "facts": [
+    {"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "The Mauritius Revenue Authority's time release study says bills of entry lodged 10 July to 6 August 2023 were validated, channelled and processed in the Customs Management System (CMS).", "as_of": "2023-07", "date_precision": "month", "system": "Customs Management System (CMS)", "class": "customs"},
+    {"sub_indicator": "customs", "aspect": "window", "value": "window", "fact": "The study says the TradeLink national single window was fully rolled out, letting it measure the time other government agencies take on permits and clearances, with CMS checking their clearances; sample period July 2023.", "as_of": "2023-07", "date_precision": "month", "system": "TradeLink", "class": "customs"}
+  ],
+  "systems": [
+    {"system": "Customs Management System (CMS)", "country_label": "Mauritius", "class": "customs", "platform": "", "owner": "Mauritius Revenue Authority", "tiers": ""},
+    {"system": "TradeLink", "country_label": "Mauritius", "class": "customs", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Cargo Community System (CCS)", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "Mauritius Cargo Community Services", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-acde19a863": "fact"
+  }
+}

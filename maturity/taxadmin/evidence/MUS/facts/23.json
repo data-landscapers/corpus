@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "ITAS - Integrated Tax Administration System", "country_label": "Mauritius", "class": "", "platform": "", "owner": "Mauritius Revenue Authority", "tiers": ""}
+  ],
+  "note": "The one Mauritius line names a tax system in use since 2004 and states no online filing or payment.",
+  "claims": {
+    "gtmi-464d678e51": "nothing: back-office system named, no online filing stated; filing held as MUS-004"
+  }
+}

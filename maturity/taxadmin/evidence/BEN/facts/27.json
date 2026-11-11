@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Tax and Assimilated Management System (SIGTAS)", "country_label": "Benin", "class": "taxsystem", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "E-filing yes is already held; the system and portal lines state no filing or payment.",
+  "claims": {
+    "gtmi-301b9a8e18": "nothing: a tax management system in use states no online filing or payment",
+    "gtmi-326298ae32": "nothing: a portal is not filing; filing held as BEN-001",
+    "gtmi-a186a186ef": "nothing: held as BEN-001"
+  }
+}

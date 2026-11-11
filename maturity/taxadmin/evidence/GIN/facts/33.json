@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Two Guinea lines: a portal yes that states no filing or payment, and an e-filing yes whose link is the customs single window, not the tax authority.",
+  "claims": {
+    "gtmi-b584a4c27b": "nothing: portal, no filing or payment stated; filing held as GIN-001",
+    "gtmi-b4478a4a3b": "nothing: link is the customs single window (guceg), not the tax system"
+  }
+}

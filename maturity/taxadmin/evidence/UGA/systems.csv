@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 UGA,e-tax2,Uganda,taxsystem,,Uganda Revenue Authority,,2026-07-29-uganda-ura-electronic-tax-software-e-tax2-procurement-scandal
 UGA,e-TAX,Uganda,taxsystem,URA web portal,Uganda Revenue Authority,,2026-03-03-ura-non-tax-revenues
+UGA,e-Tax and other portals + Inland Revenue Integrated System (IRIS),Uganda,taxsystem,,URA,,2025-12-18-worldbank-govtech-dataset-dec2025
+UGA,e-Tax,Uganda,taxsystem,,URA,,2023-09-01-uga-ura-newsletter-july-september-2023
+UGA,URA web portal e-services,Uganda,taxsystem,,URA,,2026-07-01-uga-ura-file-a-return-e-filing

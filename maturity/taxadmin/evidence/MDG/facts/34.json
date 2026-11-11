@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "SAFI - Système d'Administration Fiscale Intégrée", "country_label": "Madagascar", "class": "taxsystem", "platform": "", "owner": "Direction Générale des Impôts", "tiers": ""},
+    {"system": "e-Hetra", "country_label": "Madagascar", "class": "taxsystem", "platform": "", "owner": "Direction Générale des Impôts", "tiers": ""}
+  ],
+  "note": "All three Madagascar lines are already held in evidence.csv or state no filing or payment.",
+  "claims": {
+    "gtmi-22e1feac15": "nothing: held as MDG-002",
+    "gtmi-53ffe431a3": "nothing: portal, no filing stated; filing held as MDG-002",
+    "gtmi-2b3a2aa2ea": "nothing: held as MDG-002"
+  }
+}

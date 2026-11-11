@@ -1,0 +1,24 @@
+{
+  "slug": "2020-01-01-sle-asycuda-compendium-2020-progressive-implementation",
+  "facts": [
+    {
+      "sub_indicator": "customs",
+      "aspect": "system",
+      "value": "inservice",
+      "fact": "UNCTAD's ASYCUDA compendium says Sierra Leone Customs rolled out ASYCUDAWorld office by office in 2019, running it alongside ASYCUDA++, with 26,795 import declarations and 1,013 export declarations recorded for 2019.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "ASYCUDA World",
+      "class": "customs"
+    }
+  ],
+  "systems": [
+    {"system": "ASYCUDA World", "country_label": "Sierra Leone", "class": "customs", "platform": "ASYCUDA World", "owner": "National Revenue Authority", "tiers": ""},
+    {"system": "ASYCUDA++", "country_label": "Sierra Leone", "class": "customs", "platform": "ASYCUDA++", "owner": "National Revenue Authority", "tiers": ""},
+    {"system": "Electronic Single Window", "country_label": "Sierra Leone", "class": "customs", "platform": "", "owner": "National Revenue Authority", "tiers": ""}
+  ],
+  "note": "The single window is only designed or planned for the end of 2020, so no window fact.",
+  "claims": {
+    "gtmi-b5ac24b041": "fact"
+  }
+}
