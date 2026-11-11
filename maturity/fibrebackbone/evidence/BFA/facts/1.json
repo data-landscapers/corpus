@@ -15,7 +15,7 @@
    "sub_indicator": "backbone",
    "aspect": "reach",
    "value": "in-service",
-   "fact": "Bridge Fiber Solutions' director general says a new 43 km Ouarkoye-Mana segment was built in 2026, with new points of presence at Mogtedo, Pa, Houndé and Mana.",
+   "fact": "Bridge Fiber Solutions' director general says a new 43 km Ouarkoye-Mana segment was built in 2026, with new points of presence at Mogtedo, Pa, HoundÃ© and Mana.",
    "as_of": "2026",
    "date_precision": "year",
    "system": "Backbone national (BFS)",
@@ -42,7 +42,7 @@
    "tiers": "Operators, ISPs, firms, administrations"
   },
   {
-   "system": "Interconnections to Ghana, Côte d'Ivoire, Mali",
+   "system": "Interconnections to Ghana, CÃ´te d'Ivoire, Mali",
    "country_label": "",
    "class": "other",
    "platform": "",

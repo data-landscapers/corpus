@@ -7,7 +7,7 @@
    "country_label": "Registre National de l'Etat Civil",
    "class": "other",
    "platform": "",
-   "owner": "Direction Générale de l'état civil, des migrations et des réfugiés",
+   "owner": "Direction GÃ©nÃ©rale de l'Ã©tat civil, des migrations et des rÃ©fugiÃ©s",
    "tiers": ""
   },
   {
@@ -20,10 +20,10 @@
   },
   {
    "system": "RNN",
-   "country_label": "Registre National des Nationalités",
+   "country_label": "Registre National des NationalitÃ©s",
    "class": "other",
    "platform": "",
-   "owner": "Ministère de la justice",
+   "owner": "MinistÃ¨re de la justice",
    "tiers": ""
   }
  ],

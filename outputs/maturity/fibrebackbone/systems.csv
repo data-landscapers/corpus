@@ -49,6 +49,10 @@ BFA,900 surveillance cameras and 300 video surveillance sites,,other,,Ministry o
 BFA,National Telecommunications Backbone Project (PBNT),PBNT,backbone,"fibre optic, Huawei",Government of Burkina Faso,,2019-01-01-boc-bfa-001-bank-of-china-provides-7735-million
 BFA,national fibre backbone,Burkina Faso,backbone,fibre,Government,,2024-10-08-bfa-communications-electroniques-un-conclave-pour-l-amelioration-de-la-qua
 BFA,CSquared fibre backbone,CSquared backbone,backbone,,CSquared,,2026-07-13-ben-csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-re
+BFA,Backbone national (BFS),Backbone national,backbone,,State-built; operated by Bridge Fiber Solutions (Telecel Faso subsidiary),"Operators, ISPs, firms, administrations",2026-08-18-digitalmagazine-bfs-backbone-national-interview
+BFA,"Interconnections to Ghana, Côte d'Ivoire, Mali",,other,,,,2026-08-18-digitalmagazine-bfs-backbone-national-interview
+BFA,"Second route to Mali and links to Togo, Benin, Niger (2027 study)",,other,,,,2026-08-18-digitalmagazine-bfs-backbone-national-interview
+BFA,Network Operations Centre of the national backbone (under construction),Centre d'Opération du Réseau Backbone National,other,,,,2026-08-07-burkina-noc-maison-du-citoyen-digital-infrastructure
 BWA,BoFiNet national fibre backbone ring,national fibre optic backbone,backbone,fibre,BoFiNet,,2018-06-01-bwa-national-broadband-strategy
 BWA,Mascom national backbone,private operator national backbone infrastructure,backbone,fibre,Mascom,,2018-06-01-bwa-national-broadband-strategy
 BWA,Government Data Network,GDN,other,,Government,,2018-06-01-bwa-national-broadband-strategy
@@ -239,6 +243,7 @@ KEN,NOFBI II,Kenya,other,,Ministry of ICT,,2025-09-12-ken-cs-kabogo-outlines-pla
 KEN,National Optic Fibre Backbone Infrastructure,Kenya,backbone,fibre,ICT Authority,,2025-10-15-ken-ict-authority-outlines-sh34-4-billion-plan-to-boost-kenya-s-digital-co
 KEN,National Optic Fibre Backbone Infrastructure (NOFBI),Kenya,backbone,,,,2023-11-11-ken-gov-t-launches-phase-4-5-of-the-last-mile-county-connectivity-project
 KEN,Bayobab Kenya long-distance fibre (Mombasa-Malaba-Busia),Kenya,backbone,,Bayobab Kenya (MTN Group),,2024-08-27-ken-bayobab-kenya-to-boost-connectivity-with-mombasa-to-malaba-fibre-proje
+KEN,National Optic Fibre Backbone Infrastructure (NOFBI),Kenya,backbone,,Ministry of ICT,,2019-05-01-ken-national-broadband-strategy-2018-2023
 LBR,expanded fiber-optic connectivity (planned),,other,,Ministry of Posts and Telecommunications,,2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access
 LBR,fiber-optic network Monrovia-Buchanan-Loguatuo,,backbone,,,,2026-01-29-liberia-verge-5g-revolution-observer
 LBR,second submarine cable landing at Buchanan (planned),,other,,,,2026-01-29-liberia-verge-5g-revolution-observer

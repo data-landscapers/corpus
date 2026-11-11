@@ -20,8 +20,8 @@ The African Union's Digital Transformation Strategy 2020–2030 and the Programm
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
-| 4 Operating | 7 |
+| 5 Leading | 6 |
+| 4 Operating | 6 |
 | 3 Established | 28 |
 | 2 Nascent | 2 |
 | 1 Absent | 1 |
@@ -38,6 +38,13 @@ Backbone fibre reached every province by 2026, and other operators buy capacity 
 - L'Echo d'Algerie says Algerie Telecom has deployed nearly 300,000 km of cable across all wilayas, in metropolises and remote areas ([source, 2026-10-11](https://lechodalgerie.dz/fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes/)).
 - Algerie Telecom says its fibre made available to operators exceeds 40,000 km, offered through leased lines and irrevocable rights of use ([source, 2024-11-20](https://www.itu.int/en/ITU-D/Regional-Presence/ArabStates/Documents/events/2024/MeaningfulConnectivity/Presentations/Session3/Pr%C3%A9sentation%20Interconnexion%20UIT_MrAmirKahli.pdf)).
 - Algerie Telecom's CEO says the backbone provides the mobile operators with the capacity they need to develop their networks ([source, 2026](https://alger16.dz/?p=60388)).
+
+### Burkina Faso: 5 Leading
+
+Backbone fibre reached every province or region by 2025, and other operators buy capacity on it.
+
+- Minister Aminata Zerbo/Sabane told parliament the national backbone now offers robust connectivity across the whole territory ([source, 2025-03-11](https://an.bf/127)).
+- Bridge Fiber Solutions says it sells capacity, dark fibre and wavelengths on the state backbone to 44 customers in 2026 (7 in 2023), including all three mobile operators, ISPs, state firms and banks, on a price catalogue validated annually by ARCEP and the ministry, with non-discrimination ([source, 2026-08-12](https://digitalmagazine.bf/2026/08/18/interview-avec-sagadibwaoga-michel-ouedraogo-dg-de-bfs-le-backbone-national-a-tenu-ses-promesses-trois-ans-dexploitation-de-la-fibre-optique-publique-burkinabe/)).
 
 ### Cameroon: 5 Leading
 
@@ -74,12 +81,6 @@ Backbone fibre reached every region by 2025, and other operators buy capacity on
 Backbone fibre reached every province or region by 2023; no source found says whether other operators buy capacity on it.
 
 - Matias Borges, national director of telecommunications at MINTTICS, said in a May 2023 interview that Angola's terrestrial fibre network exceeds 22,000 km and connects all provincial and communal capitals; no date for the connection is given, so the article date is used ([source, 2023-05-17](https://minttics.gov.ao/ao/noticias/matias-borges-dois-novos-projectos-vao-garantir-a-expansao-dos-servicos-de-comunicacoes-nos-municipios-e-nas-comunas/)).
-
-### Burkina Faso: 4 Operating
-
-Backbone fibre reached every province or region by 2025; no source found says whether other operators buy capacity on it.
-
-- Minister Aminata Zerbo/Sabane told parliament the national backbone now offers robust connectivity across the whole territory ([source, 2025-03-11](https://an.bf/127)).
 
 ### Burundi: 4 Operating
 

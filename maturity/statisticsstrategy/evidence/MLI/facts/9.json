@@ -5,7 +5,7 @@
    "sub_indicator": "strategy",
    "aspect": "standing",
    "value": "adopted",
-   "fact": "The December 2025 INSTAT manual refers to the Schéma Directeur de la Statistique (SDS) 2020-2024 as stipulating harmonisation of data collection methodologies across the national statistical system; it does not say whether the SDS has ended or a successor exists; dated by the manual's publication date.",
+   "fact": "The December 2025 INSTAT manual refers to the SchÃ©ma Directeur de la Statistique (SDS) 2020-2024 as stipulating harmonisation of data collection methodologies across the national statistical system; it does not say whether the SDS has ended or a successor exists; dated by the manual's publication date.",
    "as_of": "2025-12",
    "date_precision": "month",
    "system": "SDS 2020-2024",
@@ -14,7 +14,7 @@
  ],
  "systems": [
   {
-   "system": "Schéma Directeur de la Statistique (SDS)",
+   "system": "SchÃ©ma Directeur de la Statistique (SDS)",
    "country_label": "SDS 2020-2024",
    "class": "strategy",
    "platform": "",

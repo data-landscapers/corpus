@@ -5,7 +5,7 @@
    "sub_indicator": "strategy",
    "aspect": "standing",
    "value": "adopted",
-   "fact": "The document is the Schéma Directeur de la Statistique 2020-2024 of the Conseil national de la statistique, dated March 2020, with a logical framework and costed activities for the national statistical system; it does not state its approval date, so it is dated by the document.",
+   "fact": "The document is the SchÃ©ma Directeur de la Statistique 2020-2024 of the Conseil national de la statistique, dated March 2020, with a logical framework and costed activities for the national statistical system; it does not state its approval date, so it is dated by the document.",
    "as_of": "2020-03",
    "date_precision": "month",
    "system": "SDS 2020-2024",
@@ -24,7 +24,7 @@
  ],
  "systems": [
   {
-   "system": "Schéma Directeur de la Statistique (SDS)",
+   "system": "SchÃ©ma Directeur de la Statistique (SDS)",
    "country_label": "SDS 2020-2024",
    "class": "strategy",
    "platform": "",
@@ -32,7 +32,7 @@
    "tiers": ""
   },
   {
-   "system": "Schéma Directeur de la Statistique 2015-2019",
+   "system": "SchÃ©ma Directeur de la Statistique 2015-2019",
    "country_label": "SDS 2015-2019",
    "class": "strategy",
    "platform": "",

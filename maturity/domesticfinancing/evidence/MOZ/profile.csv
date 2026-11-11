@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MOZ,financing,budget,coverage,rose,2025-12-01,MOZ-005,MOZ-004=allocated,
-MOZ,financing,commitment,coverage,acted,2025-05-16,MOZ-001;MOZ-002,,
+MOZ,financing,budget,coverage,rose,2025-12-01,MOZ-005,MOZ-006=allocated;MOZ-007=allocated;MOZ-008=allocated;MOZ-009=allocated;MOZ-004=allocated,
+MOZ,financing,commitment,coverage,acted,2026-07-01,MOZ-001;MOZ-002;MOZ-010,,

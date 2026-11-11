@@ -29,6 +29,9 @@ rows stay in `evidence.csv`, where the ruling can be reversed, and are passed ov
   coverage aspect's window is three years; a qualifier's is its own. **A gap is what Phase 1
   searches for**, so this column is the search list.
 
+**A facts file `--merge` cannot read as UTF-8 JSON fails the run** (exit 1); its facts would
+otherwise never reach `evidence.csv`.
+
 **A fact `--merge` refuses is written down.** A fact repeating a row `corrections.csv` removed -
 the same aspect and value from the same source, or about the same system - is not taken, and
 `maturity/{id}/refused.csv` records it: the fact's document, sub-indicator, aspect, value, date
@@ -449,7 +452,11 @@ def main(argv=None) -> int:
                     with open(os.path.join(facts_dir, name), encoding="utf-8") as fh:
                         files[name[:-5].lstrip("0") or "0"] = json.load(fh)
                 except (OSError, ValueError) as e:
-                    problems.append(f"{iso} facts/{name}: not readable JSON ({e})")
+                    # A FAIL, not a note: a file the merge cannot read is facts that never reach
+                    # `evidence.csv`, and as a note it hid among the unread-document lines
+                    # (housekeeping 60: 41 files in cp1252, unmerged for weeks).
+                    print(f"study-profile: FAIL - {iso} facts/{name}: not readable UTF-8 JSON ({e})")
+                    bad += 1
             existing = study_lib.read_csv(os.path.join(base, iso, "evidence.csv"))
             before = {r["source_slug"]: r.get("read", "") for r in ledger if r["iso3"] == iso}
             new, systems, more, taken, mine = merge(study, iso, study_lib.read_csv(

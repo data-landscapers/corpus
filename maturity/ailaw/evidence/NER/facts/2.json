@@ -8,14 +8,14 @@
       "fact": "The HAPDP president says the authority was mandated by its Burkinabe and Malian peer authorities in the AES framework to present a draft text on the regulation of artificial intelligence; the document gives no date for the mandate, so the published date is used.",
       "as_of": "2025-07-28",
       "date_precision": "day",
-      "system": "projet de textes sur la réglementation de l'intelligence artificielle",
+      "system": "projet de textes sur la rÃ©glementation de l'intelligence artificielle",
       "class": "law"
     }
   ],
   "systems": [
     {
-      "system": "projet de textes sur la réglementation de l'intelligence artificielle",
-      "country_label": "projet de textes sur la réglementation de l'IA",
+      "system": "projet de textes sur la rÃ©glementation de l'intelligence artificielle",
+      "country_label": "projet de textes sur la rÃ©glementation de l'IA",
       "class": "law",
       "platform": "",
       "owner": "HAPDP (for the AES data-protection authorities)",

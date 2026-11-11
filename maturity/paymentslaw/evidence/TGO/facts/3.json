@@ -5,10 +5,10 @@
    "sub_indicator": "law",
    "aspect": "standing",
    "value": "in-force",
-   "fact": "BCEAO says payment institutions are licensed in the Union under Instruction n°001-01-2024 on payment services, which binds Togo as a UMOA member; the document is dated by its list date, 28 February 2026.",
+   "fact": "BCEAO says payment institutions are licensed in the Union under Instruction nÂ°001-01-2024 on payment services, which binds Togo as a UMOA member; the document is dated by its list date, 28 February 2026.",
    "as_of": "2026-02-28",
    "date_precision": "day",
-   "system": "BCEAO Instruction n°001-01-2024 on payment services in the UMOA",
+   "system": "BCEAO Instruction nÂ°001-01-2024 on payment services in the UMOA",
    "class": "law"
   },
   {
@@ -18,7 +18,7 @@
    "fact": "BCEAO list: three payment institutions licensed in Togo at 28 February 2026, of 31 in the Union (the page itself says 'trente (31)' and carries a January-dated PDF).",
    "as_of": "2026-02-28",
    "date_precision": "day",
-   "system": "BCEAO Instruction n°001-01-2024 on payment services in the UMOA",
+   "system": "BCEAO Instruction nÂ°001-01-2024 on payment services in the UMOA",
    "class": "law"
   }
  ],

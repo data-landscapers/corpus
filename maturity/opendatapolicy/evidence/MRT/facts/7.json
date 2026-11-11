@@ -3,11 +3,11 @@
  "facts": [],
  "systems": [
   {
-   "system": "Portail électronique du Journal Officiel",
-   "country_label": "Portail électronique du Journal Officiel",
+   "system": "Portail Ã©lectronique du Journal Officiel",
+   "country_label": "Portail Ã©lectronique du Journal Officiel",
    "class": "other",
    "platform": "",
-   "owner": "Secrétariat général du Gouvernement (World Bank WARDIP support)",
+   "owner": "SecrÃ©tariat gÃ©nÃ©ral du Gouvernement (World Bank WARDIP support)",
    "tiers": ""
   }
  ],

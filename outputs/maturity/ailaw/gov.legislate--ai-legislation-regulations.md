@@ -23,10 +23,10 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 7 |
-| 2 Nascent | 12 |
+| 2 Nascent | 13 |
 | 1 Absent | 20 |
 | Unplaced | 0 |
-| No evidence | 15 |
+| No evidence | 14 |
 
 ## Countries
 
@@ -126,6 +126,12 @@ An AI bill has been before the Senate since early 2026, its committee advising a
 A law on AI in education was almost ready for cabinet in September 2026; no rule on AI is in force.
 
 - Education and Culture Minister Samaria Tovela said on 2026-09-16 that the law to regulate the use of artificial intelligence in education, covering all institutions from primary school to higher education, is almost ready and will go to the Council of Ministers for approval before the end of 2026 ([source, 2026-09-16](https://integritymagazine.co.mz/arquivos/69322)).
+
+### Niger: 2 Nascent
+
+The data protection authority was mandated in 2025 to present a draft AI regulation; no rule on AI is in force.
+
+- The HAPDP president says the authority was mandated by its Burkinabe and Malian peer authorities in the AES framework to present a draft text on the regulation of artificial intelligence; the document gives no date for the mandate, so the published date is used ([source, 2025-07-28](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/)).
 
 ### Seychelles: 2 Nascent
 
@@ -344,12 +350,6 @@ Nothing found names a law or binding rule on AI, or a draft of one, or says ther
 Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Mauritania: No evidence
-
-Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Niger: No evidence
 
 Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 

@@ -3,11 +3,11 @@
  "facts": [],
  "systems": [
   {
-   "system": "Système d'information budgétaire (DSIB)",
-   "country_label": "Côte d'Ivoire",
+   "system": "SystÃ¨me d'information budgÃ©taire (DSIB)",
+   "country_label": "CÃ´te d'Ivoire",
    "class": "other",
    "platform": "",
-   "owner": "Ministère des Finances et du Budget",
+   "owner": "MinistÃ¨re des Finances et du Budget",
    "tiers": ""
   }
  ],

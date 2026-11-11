@@ -5,10 +5,10 @@
    "sub_indicator": "law",
    "aspect": "standing",
    "value": "in-force",
-   "fact": "TechCabal says BCEAO Instruction n°001-01-2024 has applied since January 2024 and obliges every fintech offering payment services in the UEMOA to obtain a licence or stop, after the deadline was postponed to 31 August 2025.",
+   "fact": "TechCabal says BCEAO Instruction nÂ°001-01-2024 has applied since January 2024 and obliges every fintech offering payment services in the UEMOA to obtain a licence or stop, after the deadline was postponed to 31 August 2025.",
    "as_of": "2024-01",
    "date_precision": "month",
-   "system": "BCEAO Instruction n°001-01-2024 on payment services in the UMOA",
+   "system": "BCEAO Instruction nÂ°001-01-2024 on payment services in the UMOA",
    "class": "law"
   },
   {
@@ -18,7 +18,7 @@
    "fact": "TechCabal reports Togolese fintech Semoa received the BCEAO level 3 full payment institution licence on 29 January 2026, and that INTOUCH Togo was licensed in June 2025.",
    "as_of": "2026-01-29",
    "date_precision": "day",
-   "system": "BCEAO Instruction n°001-01-2024 on payment services in the UMOA",
+   "system": "BCEAO Instruction nÂ°001-01-2024 on payment services in the UMOA",
    "class": "law"
   }
  ],

@@ -5,17 +5,17 @@
    "sub_indicator": "financing",
    "aspect": "budget",
    "value": "allocated",
-   "fact": "The 2025 finance law appropriates FCFA 10,330,875,000 for programme 130 Développement de l'écosystème national du numérique under the Ministry of Posts and Telecommunications, financed from domestic revenue; the July 2025 ordinance left it unchanged.",
+   "fact": "The 2025 finance law appropriates FCFA 10,330,875,000 for programme 130 DÃ©veloppement de l'Ã©cosystÃ¨me national du numÃ©rique under the Ministry of Posts and Telecommunications, financed from domestic revenue; the July 2025 ordinance left it unchanged.",
    "as_of": "2024-12-23",
    "date_precision": "day",
-   "system": "Programme 130 Développement de l'écosystème national du numérique, 2025 budget",
+   "system": "Programme 130 DÃ©veloppement de l'Ã©cosystÃ¨me national du numÃ©rique, 2025 budget",
    "class": "financing"
   }
  ],
  "systems": [
   {
-   "system": "Programme 130 Développement de l'écosystème national du numérique, 2025 budget",
-   "country_label": "Développement de l'écosystème national du numérique",
+   "system": "Programme 130 DÃ©veloppement de l'Ã©cosystÃ¨me national du numÃ©rique, 2025 budget",
+   "country_label": "DÃ©veloppement de l'Ã©cosystÃ¨me national du numÃ©rique",
    "class": "financing",
    "platform": "",
    "owner": "Ministry of Posts and Telecommunications",

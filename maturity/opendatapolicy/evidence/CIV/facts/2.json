@@ -3,11 +3,11 @@
   "facts": [],
   "systems": [
     {
-      "system": "Géoportail d'urbanisme du Grand Abidjan",
-      "country_label": "Géoportail du Grand Abidjan",
+      "system": "GÃ©oportail d'urbanisme du Grand Abidjan",
+      "country_label": "GÃ©oportail du Grand Abidjan",
       "class": "other",
       "platform": "",
-      "owner": "Ministère de l'Urbanisme, du Logement et du Cadre de vie, with JICA",
+      "owner": "MinistÃ¨re de l'Urbanisme, du Logement et du Cadre de vie, with JICA",
       "tiers": "national"
     }
   ],
