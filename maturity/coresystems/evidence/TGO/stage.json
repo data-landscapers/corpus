@@ -5,16 +5,16 @@
       "sub_indicator": "core",
       "stage": "2",
       "finance": "inuse",
-      "revenue": "",
+      "revenue": "inuse",
       "payroll": "",
       "renewed": "",
       "architecture": "published",
       "cap": "",
       "flags": "",
       "stage_sources": "TGO-004",
-      "gaps": "No source found from 2023 or later says both the tax system and the payroll are in use.",
-      "note": "Counted from the four questions by study-ladder-coresystems.py.",
-      "as_at": "2026-11-09"
+      "gaps": "No source found from 2023 or later says the civil-service payroll runs on a computer system.",
+      "note": "Reassessed by hand 2026-11-11 (housekeeping 57): the revenue office's 2025 e-filing rates answer the tax question (TGO-006); no held source names the payroll system, asked of OSINT. Stays 2.",
+      "as_at": "2026-11-11"
     }
   ]
 }

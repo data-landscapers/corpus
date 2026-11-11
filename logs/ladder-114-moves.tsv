@@ -45,15 +45,15 @@ consumerprotection	CPV	protection	4	unplaced
 consumerprotection	LBY	protection	4	unplaced		
 consumerprotection	MAR	protection	4	unplaced		
 consumerprotection	ZAF	protection	4	2		
-coresystems	DZA	core	2	unplaced		
-coresystems	GNB	core	4	unplaced		
-coresystems	LBY	core	3	unplaced		
-coresystems	MUS	core	5	unplaced		
-coresystems	NGA	core	5	2		
-coresystems	RWA	core	5	2		
-coresystems	SEN	core	4	unplaced		
-coresystems	TGO	core	5	2		
-coresystems	UGA	core	5	unplaced		
+coresystems	DZA	core	2	unplaced	gap confirmed; asked notes-for-osint 316	2026-11-11
+coresystems	GNB	core	4	unplaced	gap confirmed; asked notes-for-osint 316	2026-11-11
+coresystems	LBY	core	3	unplaced	gap confirmed; asked notes-for-osint 316	2026-11-11
+coresystems	MUS	core	5	unplaced	restaged 5 on MUS-009 (by hand)	2026-11-11
+coresystems	NGA	core	5	2	restaged 5 on NGA-014 (by hand)	2026-11-11
+coresystems	RWA	core	5	2	restaged 5 on RWA-006 (by hand)	2026-11-11
+coresystems	SEN	core	4	unplaced	restaged 4 on SEN-005, SEN-006 (by hand)	2026-11-11
+coresystems	TGO	core	5	2	tax answered on TGO-006; payroll gap confirmed; asked notes-for-osint 316	2026-11-11
+coresystems	UGA	core	5	unplaced	restaged 5 on UGA-005 to UGA-008 (by hand)	2026-11-11
 crossborderpayments	BDI	crossborder	4	2		
 crossborderpayments	GNB	crossborder	4	unplaced		
 crossborderpayments	SYC	crossborder	4	2		

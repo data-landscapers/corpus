@@ -3,18 +3,18 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "2",
+      "stage": "5",
       "finance": "inuse",
-      "revenue": "",
+      "revenue": "inuse",
       "payroll": "inuse",
       "renewed": "live",
       "architecture": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-002",
-      "gaps": "No source found from 2023 or later says both the tax system and the payroll are in use.",
-      "note": "Counted from the four questions by study-ladder-coresystems.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "NGA-005;NGA-004;NGA-014",
+      "gaps": "",
+      "note": "Restaged by hand 2026-11-11 (housekeeping 57): FIRS's April 2025 directive that all collections run through TaxPro Max answers the tax question (NGA-014); with GIFMIS, IPPIS, the July 2026 SoftSuite migration and the NGEA, every step is met.",
+      "as_at": "2026-11-11"
     }
   ]
 }

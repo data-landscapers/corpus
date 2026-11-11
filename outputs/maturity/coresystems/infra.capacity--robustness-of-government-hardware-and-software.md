@@ -1,6 +1,6 @@
 # Robustness of government hardware and software: core government systems
 
-*As at 2026-10-18.*
+*As at 2026-11-11.*
 
 ## The norm
 
@@ -20,15 +20,47 @@ The African Charter on the Values and Principles of Public Service and Administr
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 2 |
+| 5 Leading | 5 |
+| 4 Operating | 3 |
 | 3 Established | 8 |
-| 2 Nascent | 17 |
+| 2 Nascent | 14 |
 | 1 Absent | 0 |
-| Unplaced | 13 |
+| Unplaced | 11 |
 | No evidence | 13 |
 
 ## Countries
+
+### Mauritius: 5 Leading
+
+Mauritius runs its accounts, tax and a payroll renewed in 2024 on computer systems, and publishes a list of its operational systems.
+
+- The Central Informatics Bureau's progress update on the Digital Government Transformation Strategy marks as implemented the recommendation to publish a catalogue of information systems and services, saying a list of operational systems by ministry and department is available on the CIB website; the document gives no date for publication, so its published date of 2025-04-25 is used ([source, 2025-04-25](https://cib.govmu.org/Documents/Reports/Progress_Update_DGTS_Mauritius.pdf)).
+- CISD says the new in-house Government payroll system went live in July 2024 after a parallel run completed in June 2024, replacing the old payroll processing ([source, 2024-07](https://cisd.govmu.org/Documents/Newsletter/Enewsletter%20issue%20No.6.pdf)).
+- The Mauritius Revenue Authority says individuals file their 2025 income tax returns electronically on its e-filing system, signing in with a User Id (NID, NCID or TAN) and password ([source, 2025](https://www.mra.mu/eservices1/individual/individual-e-filing-season)).
+
+### Nigeria: 5 Leading
+
+Nigeria runs finance, tax and payroll on GIFMIS, TaxPro Max and IPPIS, moved payroll to a local platform in 2026, and operates an enterprise architecture.
+
+- NITDA took over the Nigeria Government Enterprise Architecture infrastructure from KOICA at a handover in Abuja, reported 27 March 2026, with the NGEA described as now operational ([source, 2026-03-27](https://techafricanews.com/2026/03/27/nitda-takes-over-nigeria-government-enterprise-architecture-in-major-digital-governance-milestone/)).
+- The IPPIS HR modules went live on 27 July 2026 on the locally developed SoftSuite platform, a migration from foreign software ([source, 2026-07-27](https://fmino.gov.ng/fg-launches-ippis-human-resource-modules-deepens-digital-transformation-of-civil-service/)).
+- FIRS directed in April 2025 that all tax and levy collections be processed through assessments raised on TaxPro Max, its tax administration platform for registration, filing and payment ([source, 2025-04-30](https://theeconomictimes.com.ng/2025/04/30/firs-orders-banks-to-shut-down-unauthorised-tax-collection-accounts-mandates-use-of-taxpro-max/)).
+
+### Rwanda: 5 Leading
+
+Rwanda runs its budget, tax and payroll on computer systems, upgraded IFMIS in 2026 and publishes a government enterprise architecture framework.
+
+- RISA's Government of Rwanda Enterprise Architecture Framework, Version 2.1, states the government chose TOGAF and customised it into the Rwanda Government-wide Enterprise Architecture Framework (RGEA) to set common architecture standards across public entities; it is a framework, not a systems inventory, and gives no date, so the published date 2026-08-06 is used ([source, 2026-08-06](https://risa.prod.risa.rw/fileadmin/user_upload/RISA/Publications/1.Guidelines/GOR_s_Enterprise_Architecture_Framework.pdf)).
+- MINECOFIN says it completed a major technological upgrade of the IFMIS, replacing legacy components that had reached end of support with new enterprise technologies ([source, 2026-10-06](https://www.minecofin.gov.rw/news-detail/ifmis-upgraded-to-modern-platform-strengthening-public-financial-management)).
+- The Rwanda Revenue Authority's 2025 Tax Handbook says taxpayers declare taxes online or by phone using E-Tax, M-Declaration and the Local Government Taxes system, and pay through E-Payment, online banking and mobile money ([source, 2025](https://www.rra.gov.rw/fileadmin/Folder_for_2025/RRA_Tax_Handbook_2025_Final.pdf)).
+
+### Uganda: 5 Leading
+
+Uganda runs its finances, tax and payroll on computer systems, is moving payroll to a new HR system and renewed its enterprise architecture in 2026.
+
+- eGA reports that the Government of Uganda renewed its Government Enterprise Architecture, led by NITA-U with World Bank support, delivering a renewed architecture aligned with Vision 2040; the article is dated 2026-05-27 and gives no earlier completion date ([source, 2026-05-27](https://ega.ee/uganda-renewed-digital-government-frameworks/)).
+- The PFM Reforms Strategy 2025-2030 says the Human Capital Management system, now running HR and payroll in 160 entities, is replacing the Integrated Personnel and Payroll System ([source, 2025-05](https://finance.go.ug/sites/default/files/2025-07/PFM-Reforms-Strategy-2025.pdf)).
+- The Uganda Revenue Authority says tax can be paid by EFT, RTGS, card, bank and mobile USSD, and that Local Excise Duty, Rental Income Tax and VAT returns have moved to web-based platforms ([source, 2026-06](https://ura.go.ug/en/ask-ura-commissioner-general-19/)).
 
 ### Zimbabwe: 5 Leading
 
@@ -54,6 +86,14 @@ Finance, tax and payroll systems in use, one renewed in 2026; no published map o
 - SIGFIP went live on 15 January 2026, moving Gabon from fragmented systems to one integrated platform (Ecofin Agency) ([source, 2026-01-15](https://www.ecofinagency.com/news/1801-52022-gabon-launches-integrated-digital-platform-for-public-finance-management)).
 - SIGFIP, launched 15 January 2026, centralises the state's tax, customs and non-tax revenue collection and payments in a single database with a single payment interface (Ecofin Agency) ([source, 2026-01-15](https://www.ecofinagency.com/news/1801-52022-gabon-launches-integrated-digital-platform-for-public-finance-management)).
 - The Fichier unique de référence, in operation for about twenty years, is the application the public service ministry currently uses to manage state human resources and feeds the Solde payroll, though it has coding malfunctions that leave regularised situations invisible to payroll (L'Union, 27 August 2026; meeting of 25 August 2026) ([source, 2026-08-25](https://union.sonapresse.com/fr/fonction-publique-redynamiser-le-fichier-unique-de-reference)).
+
+### Senegal: 4 Operating
+
+Senegal runs its accounts, tax and payroll on computer systems and renewed its large-taxpayer platform in 2026; no map of government systems is published.
+
+- The DGID says SENTAX replaces the ETAX application for tax declaration and payment by DGE taxpayers from 1 September 2026 ([source, 2026-09-01](https://www.dgid.sn/sentax)).
+- A DGID communique of 27 August 2026 says the SENTAX platform handles online tax declaration and payment for Large Enterprise Directorate (DGE) taxpayers, mandatory for all declarations and payments from 1 September 2026, with paper returns no longer accepted ([source, 2026-09-01](https://www.dgid.sn/storage/uploads/communique-sentax-1790185473.pdf)).
+- Terms of reference of November 2023 for a government enterprise architecture list among the state's high-impact systems in use the finance ministry's payroll (eSolde), the tax directorate's etax and SIGTAS, and the Treasury's ASTER ([source, 2023-11](https://paens.sn/wp-content/uploads/2024/07/PAENS_TDR_INN_ARCHITECTURE-GOUV_-4-SENUM-BM_valide.pdf)).
 
 ### Chad: 3 Established
 
@@ -173,24 +213,6 @@ The government budgets, pays and runs its payroll through computer systems by 20
 
 - Accountant General Henry Mphasa said the SAP-based Ifmis, rolled out to all ministries, departments and agencies a year earlier, is fully operational and producing user reports including annual financial statements, though contract management and revenue modules do not yet cover all agencies ([source, 2024-05-29](https://mwnation.com/ifmis-has-fully-stabilisedsays-accountant-general/)).
 
-### Mauritius: 2 Nascent
-
-Mauritius ran its accounts, budget and a renewed payroll on computer systems in 2024; whether tax collection does is not known.
-
-- The Central Informatics Bureau's list of operational systems names the Treasury's Treasury Accounting System (TAS) and the Finance Ministry's E-Budget ([source, 2024-11](https://cib.govmu.org/Documents/Reports/List%20of%20Operational%20Systems.pdf)).
-
-### Nigeria: 2 Nascent
-
-Nigeria runs government finance on its integrated financial management system in 2026; no source found says both the tax system and payroll are in use.
-
-- The audit directive of 28 August 2026 names GIFMIS, the Treasury Single Account and Sub-TSA as government platforms whose interfaces with IPPIS are to be examined ([source, 2026-08-28](https://www.thisdaylive.com/2026/08/29/fake-agencies-tinubu-orders-forensic-sweep-of-ippis-ministries-fg-institutions/)).
-
-### Rwanda: 2 Nascent
-
-Rwanda's budget, payments and payroll ran on computer systems in 2026; whether tax collection does is not known.
-
-- MINECOFIN says Rwanda's IFMIS supports government budgeting, expenditure control, payments, accounting and financial reporting across public institutions ([source, 2026-10-06](https://www.minecofin.gov.rw/news-detail/ifmis-upgraded-to-modern-platform-strengthening-public-financial-management)).
-
 ### Seychelles: 2 Nascent
 
 The government budgets and pays through a computer system by 2024; no source found says whether tax and payroll do too.
@@ -217,7 +239,7 @@ The government pays through a computer system by 2025; no source found says whet
 
 ### Togo: 2 Nascent
 
-Togo runs budget execution in its budget information system in 2026; no source found says both the tax system and payroll are in use.
+Togo runs budget execution in SIGFiP and tax returns online in 2026; no source found says the payroll runs on a computer system.
 
 - Togo's finance ministry refers to the existing budget information system SIGFiP in which budget execution runs, and an EU-IMF workshop of 25-27 February 2026 specified computerising commitment plans and annual work plans within it ([source, 2026-02-25](https://finances.gouv.tg/renforcement-de-la-gestion-des-finances-publiques-au-togo/)).
 
@@ -275,12 +297,6 @@ No source found from 2023 or later says the government's financial system is in 
 
 Not established: No source found from 2023 or later says the government's financial management system is in use.
 
-### Senegal: Unplaced
-
-Senegal renewed its large-taxpayer tax platform in 2026; no source says its financial management system is in use, so no stage is set.
-
-Not established: No source found from 2023 or later says the financial management system is in use across central government, or that the finances are not run on a computer system.
-
 ### South Africa: Unplaced
 
 No source found from 2023 or later says the government's financial system is in use, so no stage is set.
@@ -292,12 +308,6 @@ Not established: No source found from 2023 or later says the government's financ
 A civil-service records platform launched in 2026; nothing says the government's finances run on a computer system, so no stage is set.
 
 Not established: No source found from 2023 or later says the government's financial management system is in use; the Bayan civil-service records platform is held only as launched, not as in service.
-
-### Uganda: Unplaced
-
-Uganda renewed its enterprise architecture in 2026; no source since 2023 says its financial management system is in use, so no stage is set.
-
-Not established: No source found from 2023 or later says the financial management system is in use across central government, or that the finances are not run on a computer system.
 
 ### Benin: No evidence
 

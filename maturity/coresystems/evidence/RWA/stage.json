@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "2",
+      "stage": "5",
       "finance": "inuse",
-      "revenue": "",
+      "revenue": "inuse",
       "payroll": "inuse",
       "renewed": "live",
       "architecture": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-003",
-      "gaps": "No source found from 2023 or later says the tax authority's system is in use.",
-      "note": "IFMIS runs budgeting, payments and accounting across public institutions in 2026, and IPPIS runs the payroll. No source names a tax system in use, so not 3.",
+      "stage_sources": "RWA-002;RWA-004;RWA-006",
+      "gaps": "",
+      "note": "Restaged by hand 2026-11-11 (housekeeping 57): the revenue authority's 2025 Tax Handbook puts filing and payment on E-Tax (RWA-006); with IFMIS, IPPIS, the IFMIS upgrade of October 2026 and the published architecture framework, every step is met.",
       "as_at": "2026-11-11"
     }
   ]

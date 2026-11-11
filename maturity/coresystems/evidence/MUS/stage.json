@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "2",
+      "stage": "5",
       "finance": "inuse",
-      "revenue": "",
+      "revenue": "inuse",
       "payroll": "inuse",
       "renewed": "live",
       "architecture": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-007",
-      "gaps": "No source found from 2023 or later says the tax authority's system is in use.",
-      "note": "The Central Informatics Bureau listed the Treasury Accounting System and E-Budget as operational in November 2024, so the money runs on a system. No source names a tax system in use, so not 3, whatever the payroll renewal and the published inventory show.",
+      "stage_sources": "MUS-001;MUS-006;MUS-009",
+      "gaps": "",
+      "note": "Restaged by hand 2026-11-11 (housekeeping 57): the revenue authority's 2025 e-filing system answers the tax question (MUS-009); with the Treasury Accounting System, the payroll renewed in July 2024 and the published list of operational systems, every step is met.",
       "as_at": "2026-11-11"
     }
   ]
