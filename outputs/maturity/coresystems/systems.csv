@@ -337,6 +337,8 @@ MOZ,e-GP,Mozambique,other,,Ministry of Finance,,2025-04-03-moz-me-lanca-projecto
 MOZ,e-SISTAFE,Mozambique,core,,CEDSIF,,2024-12-10-moz-government-to-make-public-spending-more-transparent-through-technology
 MOZ,e-SISTAFE,e-SISTAFE,core,,Ministry of Economy and Finance (CEDSIF),,2024-11-26-moz-amilcar-tivane-nas-celebracoes-dos-20-anos-do-e-sistafe
 MOZ,e-SNGRHE,State Human Resources Management System,core,BioPV mobile app,Ministry of Finance,,2025-10-09-moz-biometric-verification-removes-over-18-000-nonexistent-employees-from
+MOZ,e-SISTAFE,e-SISTAFE,core,,CEDSIF,,2026-09-01-moz-cedsif-modulos-e-sistafe
+MOZ,e-Tributação,e-Tributação,core,,CEDSIF,,2026-09-01-moz-cedsif-modulos-e-sistafe
 MRT,RIAD,Réseau Intranet Administratif haut Débit,other,,Ministère de la Transformation Numérique et de la Modernisation de l'Administration,,2024-09-20-mtnima-riad-reseau-intranet-administratif-haut-debit
 MRT,public finance management platform,plateformes pour la gestion des finances publiques,other,,,,2025-02-01-banque-mondiale-diagnostic-economie-numerique-mauritanie
 MRT,tax declaration platform,plateformes pour les déclarations fiscales,other,,,,2025-02-01-banque-mondiale-diagnostic-economie-numerique-mauritanie
@@ -353,6 +355,9 @@ MUS,MauPass,Mauritius,other,,MITCI,,2025-04-25-digital-government-transformation
 MUS,MoKloud,Mauritius,other,,MITCI,,2025-04-25-digital-government-transformation-strategy-progress-update
 MUS,e-Payroll,e-Payroll,core,GOC Cloud,Central Information Systems Division,,2024-01-01-mus-cisd-application-development-unit
 MUS,Government Payroll System (e-payroll),Mauritius,core,,Central Information Systems Division,,2024-05-01-mus-cisd-customer-charter
+MUS,New Government payroll system,Government payroll system,core,Mokloud platform for payslips,CISD,,2025-04-04-mus-cisd-enewsletter-issue-6
+MUS,Treasury Accounting System (TAS),Mauritius,core,,The Treasury,,2024-11-01-mus-cib-list-of-operational-systems
+MUS,Payroll System,Mauritius,core,,Central Information Systems Division,,2024-11-01-mus-cib-list-of-operational-systems
 MWI,Integrated Tax Administration System II (ITAS II),ITAS II,other,in-house,Malawi Revenue Authority,,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements
 MWI,Electronic Invoicing System,EIS,other,,Malawi Revenue Authority,,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements
 MWI,New Local Authority Integrated Financial Management Information System,NEW LA-IFMIS,other,,Accountant General's Department,local authorities,2025-05-08-mwi-request-for-expression-of-interest-design-development-deployment-train
@@ -411,6 +416,7 @@ RWA,electronic payroll systems,Rwanda,core,,Ministry of Finance and Economic Pla
 RWA,IFMIS,IFMIS,core,,MINECOFIN,,2026-10-06-rwa-minecofin-ifmis-upgraded-modern-platform
 RWA,IPPIS,IPPIS Rwanda,other,,,,2026-10-16-rwa-ippis-developer-api
 RWA,IPPIS,IPPIS,other,,,,2025-12-31-rwa-mandatory-artificial-intelligence-ai-training-for-all-public-servants
+RWA,Integrated Payroll and Personnel Information System (IPPIS),Rwanda,core,,Ministry of Public Service and Labour (MIFOTRA),,2026-01-01-rwa-mifotra-spiu-ippis
 SDN,Esali (electronic collection and payment system),Sudan,other,,Ministry of Finance,,2026-04-16-sudan-esali-ifmis-undp-briefing
 SDN,Online e-invoicing system,Sudan,other,,Ministry of Finance,,2026-04-16-sudan-esali-ifmis-undp-briefing
 SDN,Treasury Single Account (TSA),Sudan,other,,Ministry of Finance / Central Bank of Sudan,,2026-04-16-sudan-esali-ifmis-undp-briefing

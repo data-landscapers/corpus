@@ -6,15 +6,15 @@
       "stage": "2",
       "finance": "inuse",
       "revenue": "",
-      "payroll": "",
+      "payroll": "inuse",
       "renewed": "live",
       "architecture": "published",
       "cap": "",
       "flags": "",
       "stage_sources": "RWA-003",
-      "gaps": "No source found from 2023 or later says both the tax system and the payroll are in use.",
-      "note": "Counted from the four questions by study-ladder-coresystems.py.",
-      "as_at": "2026-11-09"
+      "gaps": "No source found from 2023 or later says the tax authority's system is in use.",
+      "note": "IFMIS runs budgeting, payments and accounting across public institutions in 2026, and IPPIS runs the payroll. No source names a tax system in use, so not 3.",
+      "as_at": "2026-11-11"
     }
   ]
 }

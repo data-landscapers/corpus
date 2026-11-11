@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 RWA,core,finance,coverage,inuse,2026-10-06,RWA-003,,
 RWA,core,revenue,coverage,,,,,nothing found
-RWA,core,payroll,coverage,,,,,nothing found
+RWA,core,payroll,coverage,inuse,2026-01,RWA-005,,
 RWA,core,renewed,coverage,live,2026-10-06,RWA-004,,
 RWA,core,architecture,coverage,published,2026-08-06,RWA-002,,

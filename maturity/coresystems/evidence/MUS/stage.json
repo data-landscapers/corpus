@@ -3,18 +3,18 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "unplaced",
-      "finance": "",
+      "stage": "2",
+      "finance": "inuse",
       "revenue": "",
       "payroll": "inuse",
-      "renewed": "",
+      "renewed": "live",
       "architecture": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source found from 2023 or later says the government's financial management system is in use.",
-      "note": "Counted from the four questions by study-ladder-coresystems.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "MUS-007",
+      "gaps": "No source found from 2023 or later says the tax authority's system is in use.",
+      "note": "The Central Informatics Bureau listed the Treasury Accounting System and E-Budget as operational in November 2024, so the money runs on a system. No source names a tax system in use, so not 3, whatever the payroll renewal and the published inventory show.",
+      "as_at": "2026-11-11"
     }
   ]
 }

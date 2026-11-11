@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-04-mus-cisd-enewsletter-issue-6",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "CISD says payroll processing fully transitioned to the new Government payroll system from July 2024, with all Finance sections across Government using it.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "New Government payroll system",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "renewed",
+   "value": "live",
+   "fact": "CISD says the new in-house Government payroll system went live in July 2024 after a parallel run completed in June 2024, replacing the old payroll processing.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "New Government payroll system",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "New Government payroll system",
+   "country_label": "Government payroll system",
+   "class": "core",
+   "platform": "Mokloud platform for payslips",
+   "owner": "CISD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

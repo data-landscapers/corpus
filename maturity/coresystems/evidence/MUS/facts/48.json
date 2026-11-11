@@ -1,0 +1,44 @@
+{
+ "slug": "2024-11-01-mus-cib-list-of-operational-systems",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The Central Informatics Bureau's list of operational systems names the Treasury's Treasury Accounting System (TAS) and the Finance Ministry's E-Budget.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Treasury Accounting System (TAS)",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The list names a Payroll System under the Central Information Systems Division among operational systems.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Payroll System",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Treasury Accounting System (TAS)",
+   "country_label": "Mauritius",
+   "class": "core",
+   "platform": "",
+   "owner": "The Treasury",
+   "tiers": ""
+  },
+  {
+   "system": "Payroll System",
+   "country_label": "Mauritius",
+   "class": "core",
+   "platform": "",
+   "owner": "Central Information Systems Division",
+   "tiers": ""
+  }
+ ],
+ "note": "No tax authority system is named."
+}

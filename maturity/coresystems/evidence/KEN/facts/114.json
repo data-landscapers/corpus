@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-03-ken-digitalization-government-services-pc-indicator-guidelines-fy2026-27",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "architecture",
+   "value": "published",
+   "fact": "The guidelines describe the Government Enterprise Architecture as the Government of Kenya's authoritative whole-of-government framework for planning and governing public sector systems.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Government Enterprise Architecture (GEA)",
+   "class": "core"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

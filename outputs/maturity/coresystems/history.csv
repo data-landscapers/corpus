@@ -45,3 +45,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,LBY,infra.capacity--robustness-of-government-hardware-and-software,ladder,3,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 3 to unplaced."
 2026-11-09,SEN,infra.capacity--robustness-of-government-hardware-and-software,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
 2026-11-09,UGA,infra.capacity--robustness-of-government-hardware-and-software,ladder,5,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to unplaced."
+2026-11-11,KEN,infra.capacity--robustness-of-government-hardware-and-software,fact,2,3,KEN-011;KEN-001;KEN-012,Kenya GEA guidelines (2026-09) add a published architecture; reassessed from all rows: UHR payroll (2023-07) with IFMIS and iTax in use gives 3; 2->3
+2026-11-11,MUS,infra.capacity--robustness-of-government-hardware-and-software,fact,unplaced,2,MUS-007,CIB list of operational systems (2024-11) names TAS and E-Budget: finances on a system; no tax system held; unplaced->2
+2026-11-11,RWA,infra.capacity--robustness-of-government-hardware-and-software,fact,2,2,RWA-003,"MIFOTRA IPPIS page (2026-01) puts the payroll on a system; no tax system held, stays 2"

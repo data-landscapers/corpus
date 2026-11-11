@@ -10,7 +10,7 @@
 
 **Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023; the stage rests on [the source that sets it](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>).
 
-**A map of the systems.** [Agence Togo Digital publishes online the structuring elements of the Architecture d'Entreprise Gouvernementale du Togo (AEGT): a vision, twelve orientation statements and governance, general, business and functional principles for the state information system](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>).
+**A map of the systems.** [Agence Togo Digital publishes the Architecture d'Entreprise Gouvernementale du Togo online](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>). It sets a vision, twelve orientation statements and principles for the state information system. [Its documentation presents it as the reference for public bodies' own architectures](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/introduction.html>).
 
 ***Also on file***. [SOLAF](<https://finances.gouv.tg/formation-des-agents-ordonnateurs-regionaux-en-execution-du-budget-de-letat-dans-solaf/>).
 

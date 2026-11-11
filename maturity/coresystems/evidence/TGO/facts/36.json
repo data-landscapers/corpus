@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-tgo-aegt-introduction-architecture-entreprise",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "architecture",
+   "value": "published",
+   "fact": "Agence Togo Digital publishes online the documentation of the Architecture d'Entreprise Gouvernementale du Togo (AEGT), a reference architecture for public bodies' own enterprise architectures.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Architecture d'Entreprise Gouvernementale du Togo (AEGT)",
+   "class": "core"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

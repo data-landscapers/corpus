@@ -22,10 +22,10 @@ The African Charter on the Values and Principles of Public Service and Administr
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 2 |
-| 3 Established | 7 |
+| 3 Established | 8 |
 | 2 Nascent | 17 |
 | 1 Absent | 0 |
-| Unplaced | 14 |
+| Unplaced | 13 |
 | No evidence | 13 |
 
 ## Countries
@@ -78,6 +78,14 @@ Finance, tax and payroll run on computer systems by 2026; none is known to have 
 - The GRA Domestic Tax Revenue commissioner said ITAS is being deployed as a single platform replacing the separate legacy system, and that some ITAS capabilities are already operational while others roll out progressively (reported 2026-09-23; no event date given) ([source, 2026-09-23](https://www.myjoyonline.com/gras-itas-and-other-digital-platforms-set-to-strengthen-tax-compliance/)).
 - The Controller and Accountant-General's Department, in a statement dated 24 August 2026, referred to the government payroll system on which employees' NIA numbers are captured and said salaries of employees lacking valid NIA details would be suspended from 15 September 2026 ([source, 2026-08-24](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/)).
 - The Ministry of Finance's 2026-2029 budget guidelines mandate that Regional Coordinating Councils and MMDAs process all financial transactions through GIFMIS, under the PFM Act 2016 (published date 2025-08-29 used, as the document gives no other) ([source, 2025-08-29](https://www.mofep.gov.gh/sites/default/files/news/2026-2029_Budget_Preparation_Guidelines_v2.pdf)).
+
+### Kenya: 3 Established
+
+Budget, tax and payroll ran on computer systems by 2026; no renewal of any of them since 2023 is known.
+
+- A KRA and National Treasury public notice of 2026-10-20 says all suppliers to government ministries, departments and public entities go through the IFMIS payment workflow, after automated tax-invoice validation by the IFMIS-eTIMS integration ([source, 2026-10-20](https://peopledaily.digital/business/kra-issues-fresh-directive-to-govt-suppliers-over-invoice-validation-and-payments)).
+- The Star column reports Kenyans filed annual returns and VAT returns on the KRA iTax portal in June and August 2026, with intermittent delays and errors but filing continuing, and VAT filing moved onto iTax from an offline template ([source, 2026-08](https://www.the-star.co.ke/opinion/star-blogs/2026-09-01-monari-when-itax-fails-the-taxpayer-still-pays)).
+- Treasury Cabinet Secretary Njuguna Ndung'u, quoted by Techweez, says the Unified Human Resource system consolidating public service HR and payroll data has been rolled out and linked to KRA iTax since July 2023 ([source, 2023-07](https://techweez.com/2024/06/14/kenya-uhr-egp-under-imf-agreement/)).
 
 ### Lesotho: 3 Established
 
@@ -153,12 +161,6 @@ The government budgets and pays through a computer system by 2026; the tax syste
 
 - The Accountant General's Department stated that IFMIS is operational, that Kanifing Municipal Council's IFMIS cashbooks and ledger were updated to August 2026, and that larger ministries, departments and agencies operate with it ([source, 2026-08-13](https://gambiana.com/agd-disputes-bensoudas-claim-over-ifmis-use-at-kmc/)).
 
-### Kenya: 2 Nascent
-
-The government budgets and pays through a computer system by 2026; no source found says whether tax and payroll do too.
-
-- An opinion piece by a named policy analyst calls IFMIS a nationally governed platform to which county revenue systems are meant to connect, and reports the Auditor-General's 2025 finding that Trans Nzoia's system was not yet connected to it ([source, 2026-10-09](https://nation.africa/kenya/blogs-opinion/blogs/counties-must-rethink-costly-revenue-automation-5626512)).
-
 ### Liberia: 2 Nascent
 
 The government budgets and pays through a computer system by 2026; no source found says whether tax and payroll do too.
@@ -171,6 +173,12 @@ The government budgets, pays and runs its payroll through computer systems by 20
 
 - Accountant General Henry Mphasa said the SAP-based Ifmis, rolled out to all ministries, departments and agencies a year earlier, is fully operational and producing user reports including annual financial statements, though contract management and revenue modules do not yet cover all agencies ([source, 2024-05-29](https://mwnation.com/ifmis-has-fully-stabilisedsays-accountant-general/)).
 
+### Mauritius: 2 Nascent
+
+Mauritius ran its accounts, budget and a renewed payroll on computer systems in 2024; whether tax collection does is not known.
+
+- The Central Informatics Bureau's list of operational systems names the Treasury's Treasury Accounting System (TAS) and the Finance Ministry's E-Budget ([source, 2024-11](https://cib.govmu.org/Documents/Reports/List%20of%20Operational%20Systems.pdf)).
+
 ### Nigeria: 2 Nascent
 
 Nigeria runs government finance on its integrated financial management system in 2026; no source found says both the tax system and payroll are in use.
@@ -179,7 +187,7 @@ Nigeria runs government finance on its integrated financial management system in
 
 ### Rwanda: 2 Nascent
 
-Rwanda's financial management system supports budgeting, payments and accounting across public institutions in 2026; no source found says tax and payroll systems are in use.
+Rwanda's budget, payments and payroll ran on computer systems in 2026; whether tax collection does is not known.
 
 - MINECOFIN says Rwanda's IFMIS supports government budgeting, expenditure control, payments, accounting and financial reporting across public institutions ([source, 2026-10-06](https://www.minecofin.gov.rw/news-detail/ifmis-upgraded-to-modern-platform-strengthening-public-financial-management)).
 
@@ -258,12 +266,6 @@ Not established: No source found from 2023 or later says the government's financ
 ### Mali: Unplaced
 
 No source found from 2023 or later says the government's financial system is in use, so no stage is set.
-
-Not established: No source found from 2023 or later says the government's financial management system is in use.
-
-### Mauritius: Unplaced
-
-Mauritius revamped payroll in 2023 and listed systems in 2025; no source says the financial management system is in use, so no stage is set.
 
 Not established: No source found from 2023 or later says the government's financial management system is in use.
 

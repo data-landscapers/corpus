@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MUS,core,finance,coverage,,,,,nothing found
+MUS,core,finance,coverage,inuse,2024-11,MUS-007,,
 MUS,core,revenue,coverage,,,,,nothing found
-MUS,core,payroll,coverage,inuse,2024-05,MUS-002;MUS-004,,
-MUS,core,renewed,coverage,live,2023-09,MUS-003,,nothing dated since 2023-11-09
+MUS,core,payroll,coverage,inuse,2024-11,MUS-002;MUS-004;MUS-005;MUS-008,,
+MUS,core,renewed,coverage,live,2024-07,MUS-003;MUS-006,,
 MUS,core,architecture,coverage,published,2025-04-25,MUS-001,,

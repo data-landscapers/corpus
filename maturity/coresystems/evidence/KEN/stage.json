@@ -3,18 +3,18 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "2",
+      "stage": "3",
       "finance": "inuse",
       "revenue": "inuse",
-      "payroll": "",
+      "payroll": "inuse",
       "renewed": "",
-      "architecture": "",
+      "architecture": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-007",
-      "gaps": "No source found from 2023 or later says both the tax system and the payroll are in use.",
-      "note": "Counted from the four questions by study-ladder-coresystems.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "KEN-011;KEN-001;KEN-012",
+      "gaps": "No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023.",
+      "note": "IFMIS runs payments in 2026, iTax takes returns in 2026, and the Treasury said the Unified Human Resource payroll system was rolled out by July 2023, so all three jobs run on systems. No renewal since October 2023 is found, so not 4, and the 2026 enterprise architecture cannot lift the stage past it.",
+      "as_at": "2026-11-11"
     }
   ]
 }

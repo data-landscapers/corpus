@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-01-moz-cedsif-modulos-e-sistafe",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "CEDSIF's portal page lists e-SISTAFE as the platform that runs Mozambique's state financial administration system, with eleven modules including planning and budgeting, budget execution and revenue collection.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "e-SISTAFE",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "CEDSIF's portal page lists e-Tributação as the tax management system for domestic taxes, with a taxpayer registration module, a state revenue module and a collection network module.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "e-Tributação",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "CEDSIF's portal page lists a payroll management module (MFP) among the e-SISTAFE modules, and the e-SNGRHE state human resources system.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "e-SISTAFE Módulo de Gestão da Folha de Pagamentos",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-SISTAFE",
+   "country_label": "e-SISTAFE",
+   "class": "core",
+   "platform": "",
+   "owner": "CEDSIF",
+   "tiers": ""
+  },
+  {
+   "system": "e-Tributação",
+   "country_label": "e-Tributação",
+   "class": "core",
+   "platform": "",
+   "owner": "CEDSIF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
