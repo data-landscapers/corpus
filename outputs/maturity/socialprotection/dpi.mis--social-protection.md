@@ -1,6 +1,6 @@
 # Social protection: social protection
 
-*As at 2026-08-31.*
+*As at 2026-09-30.*
 
 ## The norm
 
@@ -21,11 +21,11 @@ The African Union's Protocol on Social Protection asks for an integrated social 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 13 |
+| 4 Operating | 14 |
 | 3 Established | 14 |
-| 2 Nascent | 3 |
+| 2 Nascent | 4 |
 | 1 Absent | 1 |
-| Unplaced | 11 |
+| Unplaced | 9 |
 | No evidence | 11 |
 
 ## Countries
@@ -48,6 +48,13 @@ A social programme's system paid beneficiaries electronically in 2025; no source
 
 - The World Bank mid-term aide-memoire reports 41,703 beneficiaries receiving payments by mobile money, and says ARIEP beneficiaries hold accounts with Sanduk and are all paid by bank transfer ([source, 2025-04](https://pfss-comores.org/ressources/download/8)).
 - The World Bank aide-memoire says the project created a mobile-money account for every social cash transfer beneficiary household and reports 39,904 beneficiaries receiving payments by mobile money (41,203 including flood-affected households) ([source, 2024-10-20](https://documents1.worldbank.org/curated/en/099121724164029872/pdf/P179291-8124ca5b-87dd-4490-be73-04c5cb249a2c.pdf)).
+
+### Cote d'Ivoire: 4 Operating
+
+Cote d'Ivoire's safety-net programme runs on its own information system and pays beneficiaries digitally; no system yet serves several programmes.
+
+- The World Bank's May 2025 status report on the productive social safety nets project says its beneficiary figures come from the programme's MIS, and that until November 2024 household counts came from the cash-transfer programme's MIS database ([source, 2025-05-22](https://documents1.worldbank.org/curated/en/099061325143037563/pdf/P175594-249b8381-1fd4-41f5-b036-e784a28bc057.pdf)).
+- An ENSEA study presented in July 2024 says the productive social safety nets project delivered 94% of its digital payments on time, calling it the first digital payment system of its kind for a national programme in West Africa, with mobile financial services cutting transaction fees ([source, 2024-07](https://news.abidjan.net/articles/732473/plus-de-400-000-menages-beneficient-de-transferts-monetaires-et-de-mesures-daccompagnement-de-letat-de-2017-a-2024-selon-une-etude-de-lensea)).
 
 ### Egypt: 4 Operating
 
@@ -223,6 +230,12 @@ A programme management information system was under way in 2025; none in service
 
 - The World Bank project paper says procurement of a GBV management information system, to be integrated with the GBV call center and possibly other programme MISs and the national Social Registry, is on-going under GEWEL 2 ([source, 2025-11-10](https://documents1.worldbank.org/curated/en/099111025101519517/pdf/P181391-34653b79-f98e-4c0c-a842-18e4bab01cb6.pdf)).
 
+### Zimbabwe: 2 Nascent
+
+Zimbabwe's social protection information system, now ZISO, was still being made operational in 2026; no programme is known to run on it.
+
+- The World Bank's February 2026 project document says Zimbabwe has the foundations of a social registry system, ZISO, formerly the Integrated Social Protection Management Information System, and that household enumeration and hosting are still needed to operationalise it ([source, 2026-02-17](https://documents1.worldbank.org/curated/en/099030926024025866/txt/P514401-e5a07636-f85a-4936-8383-b57dbd46cf7c.txt)).
+
 ### Botswana: 1 Absent
 
 A 2024 source says social programmes are administered on paper.
@@ -238,12 +251,6 @@ Not established: Nothing found since October 2023 says whether a social programm
 ### Congo: Unplaced
 
 A social protection project made 91% of transfers digitally in 2025, but nothing since October 2023 shows an information system, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a social programme runs on an information system.
-
-### Cote d'Ivoire: Unplaced
-
-A safety-net programme paid beneficiaries digitally in 2024, but nothing since October 2023 shows an information system, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether a social programme runs on an information system.
 
@@ -288,12 +295,6 @@ Not established: Nothing found since October 2023 says whether a social programm
 Nothing found since 2023 names a social programme management information system, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether a social programme runs on an information system.
-
-### Zimbabwe: Unplaced
-
-A cash transfer paid beneficiaries by mobile money in 2024, but no information system since October 2023 is known, so no stage is set.
-
-Not established: No source found since October 2023 says a management information system for a social programme is procured, piloted, built or in service.
 
 ### Algeria: No evidence
 

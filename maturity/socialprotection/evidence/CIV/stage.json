@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "socialmis",
-      "stage": "unplaced",
-      "system": "",
+      "stage": "4",
+      "system": "inservice",
       "payments": "",
       "integrated": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a social programme runs on an information system.",
-      "note": "First pass: counted from the four questions by study-ladder-socialprotection.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "CIV-002;CIV-001",
+      "gaps": "No source found since October 2023 says one information system serves several social programmes.",
+      "note": "Restaged by hand 2026-11-11 (housekeeping 57): the World Bank's May 2025 status report draws beneficiary counts from the safety-net programme's MIS (CIV-002), and its payments were digital in 2024 (CIV-001). The single registry's links to other schemes are still being built, so not 5.",
+      "as_at": "2026-11-11"
     }
   ]
 }

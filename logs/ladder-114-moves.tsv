@@ -167,12 +167,12 @@ socialexchange	BFA	exchange	4	2
 socialexchange	BWA	exchange	4	unplaced		
 socialexchange	CPV	exchange	4	unplaced		
 socialexchange	GMB	exchange	4	2		
-socialprotection	CIV	socialmis	4	unplaced		
-socialprotection	CMR	socialmis	4	unplaced		
-socialprotection	COG	socialmis	4	unplaced		
-socialprotection	SOM	socialmis	4	unplaced		
-socialprotection	UGA	socialmis	5	3		
-socialprotection	ZWE	socialmis	4	unplaced		
+socialprotection	CIV	socialmis	4	unplaced	restaged 4 on CIV-002 (by hand)	2026-11-11
+socialprotection	CMR	socialmis	4	unplaced	gap confirmed; asked notes-for-osint 320	2026-11-11
+socialprotection	COG	socialmis	4	unplaced	gap confirmed; asked notes-for-osint 320	2026-11-11
+socialprotection	SOM	socialmis	4	unplaced	gap confirmed; asked notes-for-osint 320	2026-11-11
+socialprotection	UGA	socialmis	5	3	gap confirmed; asked notes-for-osint 320	2026-11-11
+socialprotection	ZWE	socialmis	4	unplaced	restaged 2 on ZWE-003 (by hand); asked notes-for-osint 320	2026-11-11
 startups	BEN	startuppolicy	4	unplaced	gap confirmed; asked notes-for-osint 319	2026-11-11
 startups	BWA	startuppolicy	5	unplaced	gap confirmed; asked notes-for-osint 319	2026-11-11
 startups	CPV	startuppolicy	5	3	gap confirmed; asked notes-for-osint 319	2026-11-11
