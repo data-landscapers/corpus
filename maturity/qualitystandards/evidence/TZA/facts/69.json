@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-ipris-tenth-cohort",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "published",
+   "fact": "iPRIS reports that the Tanzania Bureau of Standards recognised TCRA's efforts to implement the national ICT accessibility standard.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "national ICT accessibility standard",
+   "class": "body"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tanzania Bureau of Standards",
+   "country_label": "TBS",
+   "class": "body",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

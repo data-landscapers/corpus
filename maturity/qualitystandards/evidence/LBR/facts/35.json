@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-lbr-iso-member-lisa",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO's member page says the Liberia Standards Authority was established by law in 2022 and operationalised in 2024 as the national body for developing and maintaining Liberian standards.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Liberia Standards Authority (LiSA)",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
