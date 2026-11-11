@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "A Government of Sierra Leone presentation lists eProcurement among the e-government services that are major successes and ongoing efforts, without saying it is in service or giving figures.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "eProcurement",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eProcurement",
+   "country_label": "eProcurement",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Government of Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

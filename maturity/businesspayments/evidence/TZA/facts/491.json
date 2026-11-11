@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry's completed-projects page says the Tanzania National e-Procurement System (TANePS) was completed and put into use under the RCIP project, which ended December 2017.",
+   "as_of": "2017-12",
+   "date_precision": "month",
+   "system": "TANePS",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TANePS",
+   "country_label": "Tanzania",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Government of Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -23,10 +23,10 @@ The AfCFTA Digital Trade Protocol asks states to enable electronic transactions,
 | 5 Leading | 16 |
 | 4 Operating | 3 |
 | 3 Established | 8 |
-| 2 Nascent | 16 |
+| 2 Nascent | 17 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
-| No evidence | 5 |
+| No evidence | 4 |
 
 ## Countries
 
@@ -240,6 +240,12 @@ Government e-procurement was under way in 2026; none in service is on record.
 - ARMP says SIGMAP, the platform to dematerialise public procurement, is not yet in production: training of trainers, users and administrators comes first, after a decree on electronic procurement (14 October 2024) and a roadmap adopted 18 October 2024 ([source, 2026-04-27](https://armp-rdc.cd/loperationnalisation-du-systeme-integre-de-gestion-des-marches-publics-au-menu-des-echanges-entre-le-vice-premier-ministre-ministre-du-budget-et-directeur-general-de-larmp/)).
 - ARMP says the SIGMAP e-procurement platform, launched in August 2022, has not reached production because of obstacles, and pilot procurement cells were equipped via World Bank projects (meeting of 17 March 2026) ([source, 2026-03-17](https://armp-rdc.cd/larmp-et-la-dgcmp-se-concertent-en-vue-de-loperationnalisation-du-systeme-integre-de-gestion-des-marches-publics-sigmap/)).
 
+### Egypt: 2 Nascent
+
+Egypt was building a national e-procurement platform in 2025; no source found says it has gone live.
+
+- Finance Minister Ahmed Kouchouk said Egypt's national electronic procurement platform is close to completion and not yet operational ([source, 2025-08-04](https://www.dailynewsegypt.com/2025/08/04/electronic-public-procurement-platform-nears-completion-kouchouk/)).
+
 ### Equatorial Guinea: 2 Nascent
 
 Government e-procurement was under way in 2024; none in service is on record.
@@ -339,12 +345,6 @@ Togo's procurement regulator sought consultants in 2026 to prepare an e-procurem
 Not established: Nothing found since October 2023 says a Togolese e-procurement system is procured, being built, piloted or in service; in October 2026 ARCOP was still recruiting consultants to prepare one.
 
 ### Central African Republic: No evidence
-
-Nothing found names a government e-procurement system or says there is none, so no stage is set.
-
-Not established: Nothing found names a government e-procurement system, or says there is none.
-
-### Egypt: No evidence
 
 Nothing found names a government e-procurement system or says there is none, so no stage is set.
 

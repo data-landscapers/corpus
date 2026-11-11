@@ -50,6 +50,7 @@ DZA,portail électronique dédié aux marchés publics,Algérie,procurement,marc
 EGY,Meeza,Egypt,other,national card scheme,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,InstaPay,Egypt,other,instant payments network,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
+EGY,national electronic procurement platform,Egypt,procurement,,General Authority for Government Services,,2025-08-04-egy-dne-e-procurement-platform-nears-completion
 ETH,National Digital Payments Strategy 2.0,Ethiopia,other,,National Bank of Ethiopia,,2026-08-17-eth-ebr-157m-mobile-money-accounts-under-15pc-active-nbe
 ETH,e-GP,Ethiopia,procurement,,Public Procurement and Property Authority,federal,2023-04-06-eth-ita-e-procurement-platform-public-tenders
 ETH,electronic-government procurement (e-GP),Ethiopia,procurement,built by Perago Information Systems,Public Procurement & Property Authority,,2022-09-03-eth-addisfortune-automated-public-procurement
@@ -124,6 +125,7 @@ MOZ,e-SISTAFE,Mozambique,procurement,,"Ministry of Economy and Finance (CEDSIF, 
 MOZ,e-CP,Mozambique,procurement,,Ministry of Finance,,2026-09-24-moz-estado-centraliza-compras-publicas-e-coloca-nova-estrutura-sob-auditor
 MOZ,ePPS,national e-GP system (ePPS),procurement,ePPS,government,,2026-02-10-moz-the-government-of-mozambique-selects-epps-for-its-national-eprocuremen
 MOZ,campaign worker databases for digital payment,Mozambique,other,,Dimagi Inc. (implementer),,2024-12-19-crs-1601-2024012782-09-2024-campaign-worker-databases-to-facilitate-rapid-digi
+MOZ,Portal de Contratação Pública,Portal de Contratação Pública,other,,CEDSIF,,2026-09-01-moz-cedsif-modulos-e-sistafe
 MRT,SIGMAP,Mauritania,procurement,,Ministry of Digital Transformation and Modernisation of the Administration,,2026-07-22-mrt-trustmag-sigmap-digitalisation-marches
 MRT,SIGMAP,Mauritania,procurement,,Ministry of Digital Transformation,,2025-11-24-mrt-mtnima-sigmap-comite-pilotage
 MRT,Portail des marchés publics,Mauritanie,procurement,,ARMP,,2024-12-05-mrt-emergence-portail-marches-publics
@@ -162,6 +164,7 @@ NGA,NOKOPO (National Online Compliance and Oversight Platform),Nigeria,other,,Bu
 RWA,eKash,Rwanda,other,"open-source, AfricaNenda-supported",National Bank of Rwanda via RSwitch,,2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash
 RWA,Umucyo e-Procurement System,Rwanda,procurement,www.umucyo.gov.rw,Rwanda Public Procurement Authority,,2016-09-22-rwa-rppa-e-procurement-call-for-bidders
 RWA,Umucyo,Rwanda,procurement,,RPPA,,2021-11-01-rwa-rppa-umucyo-user-satisfaction-survey
+RWA,E-Procurement System,Rwanda,procurement,,,,2026-01-01-rwa-minict-innovation-emerging-technologies-directorate-general
 SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds
 SDN,National electronic procurement system,Sudan,procurement,,Ministry of Finance,,2026-03-17-sdn-sudanhorizon-e-procurement-design-complete
 SDN,NMSF electronic procurement system,National Medical Supplies Fund,procurement,,National Medical Supplies Fund,,2025-11-20-sdn-first-electronic-tender-for-medical-supplies-since-the-war-draws-67-co
@@ -180,6 +183,7 @@ SLE,Salone e-GP System,Sierra Leone,procurement,,National Public Procurement Aut
 SLE,Salone e-GP,Sierra Leone,procurement,,National Public Procurement Authority,,2026-06-23-sle-nppa-launches-bid-tender-submission-module-training-to-advance-salone
 SLE,e-GP Portal,Sierra Leone,procurement,,National Public Procurement Authority,,2026-01-06-sle-nppa-launches-online-e-gp-portal-to-streamline-government-procurement
 SLE,Salone Electronic Government Procurement (e-GP) System,Sierra Leone,procurement,,NPPA,,2026-07-10-sle-nppa-afdb-review-progress-on-sierra-leone-s-public-procurement-reforms
+SLE,eProcurement,eProcurement,procurement,,Government of Sierra Leone,,2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government
 SOM,SIPS,Somalia,other,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
 SOM,SOMQR,Somalia,other,QR code standard,,,2026-07-27-somalia-expand-instant-payment-system-hiiraan
 SOM,PAPSS,Somalia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
@@ -218,6 +222,7 @@ TZA,NeST,Tanzania,procurement,,Public Procurement Regulatory Authority,,2026-02-
 TZA,NeST,Tanzania,procurement,,PPRA,,2026-10-28-tza-tanzanias-push-toward-paperless-public-services-hits-heights-in-six-do
 TZA,e-procurement,Tanzania,procurement,,,,2025-06-01-tza-wsis-20-country-report-tanzania
 TZA,NeST,Tanzania,procurement,National e-Procurement System of Tanzania,Public Procurement Regulatory Authority,,2026-10-30-tza-digital-shift-boosts-access-to-sh42-6-trillion-tender-market
+TZA,TANePS,Tanzania,procurement,,Government of Tanzania,,2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip
 UGA,e-GP,Electronic Government Procurement (e-GP),procurement,egpuganda.go.ug,PPDA with Ministry of Finance and NITA-U,central,2026-04-01-uga-ppda-press-statement-e-gp-rollout-july-2026
 UGA,eGP 2.0,Uganda,procurement,,"Ministry of Finance, Planning and Economic Development and PPDA",,2026-08-05-uga-monitor-firms-lose-out-egp-online
 UGA,Electronic Government Procurement (EGP),Uganda,procurement,,PPDA,,2026-04-18-uga-monitor-govt-fully-automate-procurement
