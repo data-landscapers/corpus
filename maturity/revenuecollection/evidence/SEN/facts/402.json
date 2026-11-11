@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-24-sen-dgid-digital-vat-foreign-providers-from-1-july-2024",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "DGID says foreign digital providers subject to the VAT under article 355 bis, in force from 1 July 2024, register remotely online and make VAT declarations through its Etax online platform, with no electronic payment channel stated.",
+   "as_of": "2024-07-24",
+   "date_precision": "day",
+   "system": "Etax",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Etax",
+   "country_label": "Senegal",
+   "class": "revenue",
+   "platform": "online declaration platform",
+   "owner": "DGID",
+   "tiers": ""
+  }
+ ],
+ "note": "Online declaration is stated; payment method and main taxes are not."
+}

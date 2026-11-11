@@ -47,6 +47,7 @@ CMR,SIGIT,SIGIT,other,,Directorate General of Taxation,,2026-04-10-kfw-cmr-2026-
 CMR,SchoolMap,Cameroon,other,SchoolMap,Ministry of Secondary Education,,2024-08-28-cmr-cameroon-deploys-schoolmap-to-simplify-tuition-payment
 CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
 CMR,registrations.dgi.cm,Cameroon,revenue,Harmony SSO,Direction Generale des Impots,"registration duties, 3 acts",2026-08-15-cmr-registrations-dgi-cm-enregistrer-un-acte-en-ligne
+CMR,TRESOR PAY,TRESOR PAY,revenue,,Government of Cameroon,,2025-05-28-cmr-arrete-n080-cab-pm-du-28-mai-2025-instituant-une-plateforme-electroniq
 COD,FACNOR RDC,DR Congo,other,mobile app,DGI,,2026-10-09-cod-rdc-monde-dgi-facture-normalisee-controle
 COD,VAT télédéclaration,DR Congo,revenue,,DGI,,2026-09-03-cod-7sur7-tva-e-finance-huawei
 COD,E-Finance programme,DR Congo,other,Huawei,Ministry of Finance,,2026-09-03-cod-7sur7-tva-e-finance-huawei
@@ -122,6 +123,7 @@ KEN,Electronic invoicing (eTIMS) mandate / Incomes and Expenses Validation,Kenya
 KEN,eTIMS,Kenya,other,electronic tax invoice management system,Kenya Revenue Authority,,2026-10-28-ken-kra-eyes-m-pesa-invoices-for-small-and-micro-traders
 KEN,eCitizen,Kenya,revenue,,National Treasury,,2026-10-28-ken-national-treasury-pushes-new-regulations-plan-to-run-e-citizen
 KEN,IPSL payment scheme,Kenya,other,Tazama,Integrated Payment Services Limited,,2024-11-27-iati-dac-1601-inv-076412-tazama-poc-ipsl-kenya
+KEN,e-Citizen payment gateway,e-Citizen payment gateway,other,e-Citizen,Government of Kenya,,2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery
 LBR,DIGIGOV Liberia e-payment solution,Liberia,revenue,,Liberia Revenue Authority,,2026-09-27-african-development-bank-lbr-2026-digigov-completion-report
 LBR,Integrated Orange Mobile Money Platform,Liberia,revenue,LITAS,Liberia Revenue Authority,,2025-07-23-lra-orange-ecobank-integrated-mobile-money-tax-platform
 LBR,LITAS,Liberia,revenue,,Liberia Revenue Authority,,2025-07-23-lra-orange-ecobank-integrated-mobile-money-tax-platform
@@ -171,6 +173,7 @@ MOZ,e-Tributacao,Mozambique,revenue,,Autoridade Tributaria,,2016-05-01-moz-imf-f
 MOZ,eDeclaracao,Mozambique,revenue,web,Mozambique Tax Authority,,2026-08-11-moz-pwc-tax-administration-individual
 MOZ,Contribuinte Portal,Mozambique,revenue,web,Mozambique Tax Authority,,2026-08-11-moz-pwc-tax-administration-individual
 MOZ,campaign worker databases for digital payment,Mozambique,other,,Dimagi Inc. (implementer),,2024-12-19-crs-1601-2024012782-09-2024-campaign-worker-databases-to-facilitate-rapid-digi
+MOZ,Sistema de Pagamentos ao Estado (SISPE),SISPE,other,,CEDSIF,,2026-09-01-moz-cedsif-modulos-e-sistafe
 MRT,Espace du contribuable / STT,Mauritania,revenue,DGI electronic tax-services platform,Direction Generale des Impots,,2026-07-30-mauritania-public-bodies-tax-compliance-guide-workshop
 MRT,Public-bodies e-invoicing system,Mauritania,other,,Ministry of Finance / DGI,,2026-07-30-mauritania-public-bodies-tax-compliance-guide-workshop
 MRT,DGI electronic platform for public establishments,Mauritania,revenue,,Direction Generale des Impots,,2026-10-01-mrt-tawassoul-facturation-paiements-electroniques
@@ -217,6 +220,8 @@ SEN,Wave,Wave,other,,Wave,,2026-09-23-sen-seneweb-mobile-money-paiement-establis
 SEN,Max it,Senegal,other,,Sonatel,,2026-07-15-wearetech-sonatel-maxit-brt
 SEN,SENTAX,Senegal,other,sentax.dgid.sn,Direction générale des Impôts et des Domaines,,2026-01-01-sen-dgid-sentax-teledeclaration-immatriculation
 SEN,MAX IT,Senegal,revenue,mobile app,Orange (Sonatel),,2025-11-12-sen-dgid-paiement-impots-max-it
+SEN,Etax,Senegal,revenue,online declaration platform,DGID,,2024-07-24-sen-dgid-digital-vat-foreign-providers-from-1-july-2024
+SEN,Etax,Senegal (csfe4.dgid.sn),revenue,,Direction Generale des Impots et des Domaines,,2024-07-01-sen-dgid-order-article-355-bis-digital-vat
 SLE,NTR Payment Mobile App,Sierra Leone,revenue,mobile app,National Revenue Authority,,2026-07-31-sierra-leone-nra-ntr-mobile-payment-app-provincial-rollout
 SOM,SIPS,Somalia,other,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
 SOM,SOMQR,Somalia,other,QR code standard,,,2026-07-27-somalia-expand-instant-payment-system-hiiraan

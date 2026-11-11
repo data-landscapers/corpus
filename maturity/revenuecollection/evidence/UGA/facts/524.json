@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-08-uga-uppc-digital-payments-local-revenue-collection",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The 2023 Auditor General's report, as quoted by UPPC, says local government revenue rose 78 percent, from UGX 31.67 billion in 2019/20 to 56.35 billion in 2022/23, due to adopting online and mobile payment platforms.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Online and mobile payment platforms for local revenue",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

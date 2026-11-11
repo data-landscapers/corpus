@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-28-cmr-arrete-n080-cab-pm-du-28-mai-2025-instituant-une-plateforme-electroniq",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "A Prime Minister's order of 28 May 2025 set up TRESOR PAY as the single platform for collecting state revenue and paying state expenditure electronically, by mobile money, bank transfer, card or payment terminal; the text held does not say it is in service.",
+   "as_of": "2025-05-28",
+   "date_precision": "day",
+   "system": "TRESOR PAY",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TRESOR PAY",
+   "country_label": "TRESOR PAY",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Government of Cameroon",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

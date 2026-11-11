@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Citizen payment gateway",
+   "country_label": "e-Citizen payment gateway",
+   "class": "other",
+   "platform": "e-Citizen",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "Gateway named without any tax or fee paid through it."
+}

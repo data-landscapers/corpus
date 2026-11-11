@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-01-moz-cedsif-modulos-e-sistafe",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sistema de Pagamentos ao Estado (SISPE)",
+   "country_label": "SISPE",
+   "class": "other",
+   "platform": "",
+   "owner": "CEDSIF",
+   "tiers": ""
+  }
+ ],
+ "note": "Systems listed by name; electronic payment of taxes or fees not stated."
+}
