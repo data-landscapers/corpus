@@ -141,12 +141,12 @@ justice	SYC	justice	4	unplaced
 landadmin	GHA	landmis	5	3		
 metsatellite	SYC	metsat	5	3		
 metsatellite	TZA	metsat	5	3		
-opendatause	GNB	use	4	2		
-opendatause	LBR	use	4	2		
-opendatause	LBY	use	5	2		
-opendatause	SEN	use	4	2		
-opendatause	TGO	use	5	2		
-opendatause	ZMB	use	4	2		
+opendatause	GNB	use	4	2	gap confirmed; asked notes-for-osint 321	2026-11-11
+opendatause	LBR	use	4	2	gap confirmed; asked notes-for-osint 321	2026-11-11
+opendatause	LBY	use	5	2	gap confirmed; asked notes-for-osint 321	2026-11-11
+opendatause	SEN	use	4	2	gap confirmed; asked notes-for-osint 321	2026-11-11
+opendatause	TGO	use	5	2	gap confirmed; asked notes-for-osint 321	2026-11-11
+opendatause	ZMB	use	4	2	gap confirmed; asked notes-for-osint 321	2026-11-11
 opendiscussion	GMB	discussion	4	2		
 opendiscussion	LSO	discussion	4	unplaced		
 paymentslaw	COD	law	5	3		
