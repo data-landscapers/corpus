@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-10-mar-ahmed-rahhou-annonce-une-ia-en-darija-en-commission-parlemen",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Alyaoum24, relayed by TelQuel, reports the digital transition ministry is working on a first national open-source language model and is developing a speech-recognition model jointly with Mistral, to be released as open source, with a programme due to launch in 2027.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "national open-source language model; speech-recognition model with Mistral",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national open-source language model",
+   "country_label": "Morocco",
+   "class": "localai",
+   "platform": "",
+   "owner": "Ministry of Artificial Intelligence, Digital Transition and Administration Reform",
+   "tiers": ""
+  },
+  {
+   "system": "speech-recognition model with Mistral",
+   "country_label": "Morocco",
+   "class": "localai",
+   "platform": "",
+   "owner": "Ministry of Artificial Intelligence, Digital Transition and Administration Reform",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

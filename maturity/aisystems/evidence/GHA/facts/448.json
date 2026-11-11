@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-gha-itu-pp26-policy-statement-ghana",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Samuel Nartey George told the ITU Plenipotentiary Conference that Ghana is building a National AI Compute Centre to support research, innovation and enterprise.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "National AI Compute Centre",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Compute Centre",
+   "country_label": "Ghana",
+   "class": "localai",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

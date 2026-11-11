@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-mar-morocco-develops-national-ai-roadmap-as-government-seeks-to",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Chami said projects had collected about 300 million text units and 150 GB into an initial repository of some 85,000 public documents, and were preparing 10,000 hours of transcribed Moroccan Darija audio and about one million document-image and text pairs.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "national AI content base",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

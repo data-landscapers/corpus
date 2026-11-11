@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-techcentral-vodacom-eyes-sa-and-kenya-for-ai-data-centre-hubs-after-egypt",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Vodacom CEO Shameel Joosub told TechCentral that Vodafone Egypt plans a sovereign AI data centre with Elsewedy Electric and Cassava Technologies, costing about US$1bn over the next couple of years and built in modules, with Vodafone Egypt owning about 30%.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Egypt sovereign AI data centre (Vodafone Egypt, Elsewedy Electric, Cassava)",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Egypt sovereign AI data centre (Vodafone Egypt, Elsewedy Electric, Cassava)",
+   "country_label": "Egypt",
+   "class": "localai",
+   "platform": "",
+   "owner": "Vodafone Egypt, Elsewedy Electric, Cassava Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

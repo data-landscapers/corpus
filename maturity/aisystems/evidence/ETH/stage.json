@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "3",
+      "stage": "5",
       "build": "inservice",
-      "compute": "",
-      "shared": "",
+      "compute": "compute",
+      "shared": "shared",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-001;ETH-005",
-      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "The AI University Innovation Pod with high-performance computing is established, and the AI Institute's court transcription software is delivered. No source names GPUs or AI accelerators in service.",
-      "as_at": "2026-10-22"
+      "stage_sources": "ETH-010;ETH-011;ETH-012",
+      "gaps": "No count of the AI UniPod's GPUs, and no count of its users beyond the November 2026 residency, has been found.",
+      "note": "UNDP says its EDGE initiative provides high-performance GPUs at the AI UniPod, so AI computing is in service. On 9 November 2026 a residency opened there for 51 startup founders from 12 African countries, so its users are counted.",
+      "as_at": "2026-11-10"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Development of national / regional AI systems: AI built at home
 
-*As at 2026-10-23.*
+*As at 2026-11-10.*
 
 ## The norm
 
@@ -20,15 +20,23 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Leading | 4 |
 | 4 Operating | 10 |
-| 3 Established | 28 |
+| 3 Established | 27 |
 | 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 3 |
 
 ## Countries
+
+### Ethiopia: 5 Leading
+
+A university AI hub had GPUs in service and hosted 51 startup founders from 12 countries in November 2026; its GPU count is not known.
+
+- ENA reports that the AI UniPod, inaugurated on 16 February 2026 by EAII, UNDP and Addis Ababa University, is equipped with high-performance computing resources, and UNDP's Matthias Naab said its EDGE initiative provides high-performance GPUs there ([source, 2026-11-09](https://www.ena.et/web/eng/w/eng_9899270)).
+- UNDP's Matthias Naab said on 9 November 2026 that UNDP's EDGE initiative provides high-performance GPUs at the AI UniPod in Addis Ababa for innovators to build AI products ([source, 2026-11-09](https://www.ena.et/web/eng/w/eng_9899270)).
+- A 10-day residency at the AI UniPod opened on 9 November 2026 for 51 AI startup founders from 12 African countries, who use the UniPod's resources, ENA reports ([source, 2026-11-09](https://www.ena.et/web/eng/w/eng_9899270)).
 
 ### Senegal: 5 Leading
 
@@ -194,13 +202,6 @@ An AI model or dataset built in the country was in service in 2026; AI computing
 Open Tigrinya datasets for AI were published by 2026; no source found reports AI computing in the country.
 
 - GeezLab's GLaRe programme lists open Tigrinya datasets, including the TiNC24 NER corpus (200K+ words) and the TiPOSC24 part-of-speech corpus (118K+ tokens), both led by students at Mai Nefhi College of Engineering ([source, 2026](https://research.geezlab.com/)).
-
-### Ethiopia: 3 Established
-
-An AI model or dataset built in the country was in service in 2026; AI computing is not on record.
-
-- Ethiopia, with UNDP and Addis Ababa University, has established an AI University Innovation Pod equipped with laboratories, robotics facilities and high-performance computing systems, per Birr Metrics ([source, 2026-07-20](https://birrmetrics.com/ethiopia-signs-up-to-new-global-artificial-intelligence-alliance/)).
-- Addis Fortune reports the Ethiopian Artificial Intelligence Institute developed automatic court transcription software with the Federal Supreme Court, delivered for 15.8 million Br ([source, 2025-07](https://addisfortune.news/supreme-court-sets-bold-course-toward-digital-justice)).
 
 ### Gambia: 3 Established
 
