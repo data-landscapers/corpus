@@ -1,0 +1,11 @@
+{
+  "slug": "2024-09-22-xgl-digital-foss-ai-playbook-for-small-states",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Rwanda's Ministry of ICT and Innovation says in the AI Playbook for Small States that it acts in line with its national AI policy, whose first priority is digital and AI skills; no adoption date is given, so as_of is the playbook's published date.", "as_of": "2024-09-22", "date_precision": "day", "system": "National AI Policy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Policy", "country_label": "Rwanda", "class": "strategy", "platform": "", "owner": "Ministry of ICT and Innovation", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {"aftech-a7c708eeed": "nothing: a multi-country playbook, not a national AI strategy"}
+}

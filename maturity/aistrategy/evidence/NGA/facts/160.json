@@ -1,0 +1,11 @@
+{
+  "slug": "2024-08-01-nga-national-ai-strategy-draft-august-2024",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Nigeria's Federal Ministry of Communications, Innovation and Digital Economy published the National Artificial Intelligence Strategy marked Draft, August 2024, with five pillars.", "as_of": "2024-08", "date_precision": "month", "system": "National Artificial Intelligence Strategy (Draft, August 2024)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy (Draft, August 2024)", "country_label": "Nigeria", "class": "strategy", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {"aftech-bb1c957881": "fact", "gtmi-7adb8caebc": "fact"}
+}

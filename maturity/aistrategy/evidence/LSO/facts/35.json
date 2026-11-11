@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-21-lesotho-draft-ai-policy-implementation-plan",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Lesotho's Ministry of Information, Communications, Science, Technology and Innovation published the Artificial Intelligence Policy and Implementation Plan as a Second Draft (73 pages), proposing a Data and AI Committee and a regulator that are not yet set up.", "as_of": "2025-01-21", "date_precision": "day", "system": "Artificial Intelligence Policy and Implementation Plan (Second Draft)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Artificial Intelligence Policy and Implementation Plan (Second Draft)", "country_label": "Lesotho", "class": "strategy", "platform": "", "owner": "MICSTI", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {"gtmi-31284e5f66": "fact"}
+}

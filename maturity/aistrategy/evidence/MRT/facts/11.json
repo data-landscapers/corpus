@@ -1,0 +1,11 @@
+{
+  "slug": "2024-07-01-strategie-nationale-intelligence-artificielle-ar",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Mauritania's Ministry of Digital Transformation, Innovation and Modernisation of Administration issued the National AI Strategy 2025-2029 in a final Arabic edition with thirteen axes; the document gives no adoption date, so as_of is its published month (2024-07).", "as_of": "2024-07", "date_precision": "month", "system": "National AI Strategy 2025-2029", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Strategy 2025-2029", "country_label": "Mauritania", "class": "strategy", "platform": "", "owner": "MTNIMA", "tiers": ""}
+  ],
+  "note": "Its governance chapter says a sub-committee of the Supreme Council for Digitalisation will be established to monitor the strategy: a future body, not yet named as set up.",
+  "claims": {"aftech-6ce4ed2af1": "fact"}
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-04-01-mauritania-national-artificial-intelligence-strategy-2024-2029-draft",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Mauritania's Ministry of Digital Transformation, Innovation and Modernization of Administration published the National AI Strategy 2024-2029 marked Draft (April 2024), with 5 strategic priorities, 12 objectives and 30 measures.", "as_of": "2024-04", "date_precision": "month", "system": "National Artificial Intelligence Strategy 2024-2029 (Draft)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy 2024-2029 (Draft)", "country_label": "Mauritania", "class": "strategy", "platform": "", "owner": "MTNIMA", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {"gtmi-a800921061": "fact"}
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-kenya-national-ai-strategy-2025-2030-draft-for-public-validation",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Kenya's Ministry of Information, Communications and the Digital Economy published the Kenya National AI Strategy 2025-2030 marked Draft (January 2025) for public validation, after two stakeholder workshops.", "as_of": "2025-01", "date_precision": "month", "system": "Kenya National Artificial Intelligence Strategy 2025-2030 (draft)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Kenya National Artificial Intelligence Strategy 2025-2030 (draft)", "country_label": "Kenya", "class": "strategy", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {"aftech-1ec91bfc2c": "fact"}
+}
