@@ -1,16 +1,17 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "3",
-   "standing": "adopted",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-001",
-   "gaps": "No source found says a government open data portal is running under the policy.",
-   "note": "Counted from the four questions by study-ladder-opendatapolicy.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "4",
+      "standing": "adopted",
+      "use": "portal",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-002;MUS-001",
+      "gaps": "No source from the last three years naming a ministry or agency that has released data under the policy, or counting the datasets or the bodies publishing, is held.",
+      "note": "Counted from the four questions by study-ladder-opendatapolicy.py.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

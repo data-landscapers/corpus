@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "none", "fact": "The World Bank's GovTech assessment (2025) records that Djibouti has no open data portal; the line gives no date, so the survey round's year is used.", "as_of": "2025", "date_precision": "year", "system": "Open data portal", "class": "policy"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "gtmi-c92c7c4604": "The World Bank's GovTech assessment (2025) records that Djibouti has no open data portal; the line gives no date, so the survey round's year is used."
+  }
+}

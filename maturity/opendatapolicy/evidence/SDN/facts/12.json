@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "none", "fact": "The World Bank's GovTech dataset (2025 round) records no open data portal for Sudan, an assessment by the dataset's publisher; the line gives no date, so this is dated to the 2025 round.", "as_of": "2025", "date_precision": "year", "system": "Sudan open data portal", "class": "policy"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "gtmi-4f23d2d7ce": "fact"
+  }
+}

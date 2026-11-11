@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NER-001,NER,policy,use,none,"The government told the World Bank's GovTech survey (2025) that Niger has no open data portal; the line gives no date, so this is dated to the 2025 survey round.",2025,year,Niger open data portal,policy,2025-12-18-worldbank-govtech-dataset-dec2025,https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset

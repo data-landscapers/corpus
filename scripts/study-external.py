@@ -360,7 +360,7 @@ def close(sid: str) -> int:
         if not ans:
             missing["no answer"] += 1
             continue
-        if ans.strip().lower().startswith("fact"):
+        if not ans.strip().lower().startswith("nothing"):
             ev = study_lib.read_csv(os.path.join(edir, "evidence.csv"))
             ids = [e["row_id"] for e in ev if e["source_slug"] == r["slug"]]
             r.update(outcome="fact", row_ids=";".join(ids), note="")

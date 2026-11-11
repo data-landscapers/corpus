@@ -1,0 +1,29 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "portal",
+      "fact": "The government told the World Bank's GovTech survey (2025 round) that Kenya has an open data portal, giving opendata.go.ke; the line gives no other year, so the survey round's year is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Kenya Open Data portal (opendata.go.ke)",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Kenya Open Data portal (opendata.go.ke)",
+      "country_label": "Kenya",
+      "class": "policy",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-871dfc84b3": "fact"
+  }
+}

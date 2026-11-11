@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "portal", "fact": "The government told the World Bank's GovTech survey (2025) that Benin has an open data portal, giving data.gouv.bj as its address; the line gives no year for the answer, so the survey round's year 2025 is used.", "as_of": "2025", "date_precision": "year", "system": "Open Data portal", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Open Data portal (data.gouv.bj)", "country_label": "Open Data portal", "class": "policy", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-b53cfe0611": "The government told the World Bank's GovTech survey (2025) that Benin has an open data portal, giving data.gouv.bj as its address; the line gives no year for the answer, so the survey round's year 2025 is used."
+  }
+}

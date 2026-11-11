@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SDN-001,SDN,policy,use,none,"The World Bank's GovTech dataset (2025 round) records no open data portal for Sudan, an assessment by the dataset's publisher; the line gives no date, so this is dated to the 2025 round.",2025,year,Sudan open data portal,policy,2025-12-18-worldbank-govtech-dataset-dec2025,https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset

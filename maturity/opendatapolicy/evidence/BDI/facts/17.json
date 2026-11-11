@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data portal (www.insbu.bi)", "country_label": "Open Data portal", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The line's link is the statistics institute's site, and a statistics office's portal is not the study's portal.",
+  "claims": {
+    "gtmi-4112d380a8": "nothing: link given is the statistics institute's site, not a government open data portal"
+  }
+}

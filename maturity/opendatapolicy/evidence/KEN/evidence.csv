@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+KEN-002,KEN,policy,use,portal,"The government told the World Bank's GovTech survey (2025 round) that Kenya has an open data portal, giving opendata.go.ke; the line gives no other year, so the survey round's year is used.",2025,year,Kenya Open Data portal (opendata.go.ke),policy,2025-12-18-worldbank-govtech-dataset-dec2025,https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset

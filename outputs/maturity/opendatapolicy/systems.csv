@@ -6,15 +6,19 @@ AGO,portal do INE,Portal do INE (www.ine.gov.ao),other,,Instituto Nacional de Es
 AGO,portal de dados abertos e de servicos electronicos,portal de dados abertos (PADA component 2),other,,,national,2025-10-23-pada-plano-eas-as-portal-de-dados-abertos
 AGO,Portal de Compras Públicas,Portal de Compras Públicas,other,,,,2025-02-21-nj-minttics-ainda-nao-corrigiu-pac-2025-zeros-a-mais
 BDI,INSBU Open Data Platform (Plateforme de Données Ouvertes),Plateforme de Données Ouvertes de l'INSBU,other,,Institut National de la Statistique du Burundi (INSBU),,2025-06-10-insbu-accord-de-licence-ouverte-plateforme-donnees-ouvertes
+BDI,Open Data portal (www.insbu.bi),Open Data portal,other,,,,2025-12-18-worldbank-govtech-dataset-dec2025
 BEN,projet de décret Open Data (avec le projet de loi d'accès à l'information),décret Open Data,policy,,"BAI and Ministry of Digital Affairs (MND), per the action plan",national,2022-12-23-worldbank-odra-benin
 BEN,Portail national de données ouvertes,portail national de données ouvertes,policy,CKAN,"ASIN/SID, attached to the Presidency",national,2022-12-23-worldbank-odra-benin
 BEN,Portail Open Data du Bénin hébergé par la BAD,portail Open Data de la BAD,other,African Development Bank Open Data for Africa,INStaD (statistics institute),national,2022-12-23-worldbank-odra-benin
+BEN,Open Data portal (data.gouv.bj),Open Data portal,policy,,,national,2025-12-18-worldbank-govtech-dataset-dec2025
 BFA,Burkina Open Data Initiative (BODI),Burkina Open Data Initiative (BODI),other,,ANPTIC,,2026-08-02-100-visages-du-burkina-digital-michael-folane
 BFA,Initiative Open Data du Burkina (BODI),Initiative Open Data du Burkina (BODI),policy,"a central platform for publishing data, named as an objective, not described as running","Ministry of Digital Economy and Posts, with ANPTIC as executing agency; financial oversight by the Ministry of Economy and Finance",national,2015-11-10-bfa-mdenp-arrete-bodi-open-data-initiative
 BFA,Burkina Open Data Initiative (BODI),Burkina Open data initiative (BODI),other,,"Ministry of Economy and Finance, with ANPTIC and World Bank support",national,2014-06-05-bfa-burkina24-open-data-platform-launch
 BFA,Portail National de Données pour la Décision Publique (CITADEL),data.citadel.bf,other,,"CITADEL, Université Joseph Ki-Zerbo",,2026-06-17-bfa-citadel-portail-national-donnees
+BFA,Open Data portal (burkinafaso.opendataforafrica.org),Open Data portal,other,Open Data for Africa,,,2025-12-18-worldbank-govtech-dataset-dec2025
 BWA,SmartBots Lab,SmartBots Lab,other,,Botswana Digital Innovation Hub (BDIH),,2026-03-14-bwa-haus-open-data-hackathon-tor-phase2
 BWA,National Open Data Hackathons,National Open Data Hackathon,other,,"EU Support to Digital Transformation in Botswana project (Expertise France, ESTDEV, HAUS) with BDIH and SmartBots",,2026-03-14-bwa-haus-open-data-hackathon-tor-phase2
+BWA,Open Data portal (botswana.opendataforafrica.org),Open Data portal,other,Open Data for Africa,,,2025-12-18-worldbank-govtech-dataset-dec2025
 CAF,Portail Open Data (ODP),Portail Open Data de l'ICASEES,other,ODP 1.0 (African Development Bank / Open Data Watch programme),ICASEES (statistics office),national,2026-06-10-caf-icasees-odp-portal-odin-modernisation
 CAF,plateforme Open Data,Plateforme Open Data de l'ICASEES,other,,ICASEES (statistics office),national,2026-05-21-caf-icasees-webinaire-bad-open-data-watch
 CAF,NADA,Plateforme NADA de l'ICASEES,other,NADA,ICASEES (statistics office),national,2026-05-21-caf-icasees-webinaire-bad-open-data-watch
@@ -32,6 +36,7 @@ CIV,portail Open Data de la Côte d'Ivoire,portail open data,policy,,,national,2
 CIV,"Engagement 6 : promotion de l'open data (hackathons, renforcement de capacités, campagne digitale)",Engagement 6 du PAN 2024-2026,other,,"CICG (responsible), June 2026 end",national,2025-01-01-cote-divoire-plan-daction-national-gouvernement-ouvert-2024-2026-pan5
 CIV,e-mining cadastre portal,e-mining cadastre,other,Landfolio,"Ministry of Mines, Petroleum and Energy",national,2025-09-23-e-mining-cadastre-portal-wearetech
 CIV,data.gouv.ci,Open Data Cote d'Ivoire portal,other,,Government Centre for Information and Communication (CICG),national ministries; about 50 datasets added by the petroleum and renewable energies ministry,2020-01-01-civ-ogp-ci0024-open-data-commitment
+CIV,Open Data portal (data.gouv.ci),Open Data portal,policy,,,national,2025-12-18-worldbank-govtech-dataset-dec2025
 COD,data.gouv.cd,plateforme nationale des données ouvertes,policy,Rhinoceros Software (host site),Institut National de la Statistique (INS),national,2026-02-23-rhinoceros-data-gouv-cd-lancement
 COD,BCC website 2.0 (economic data pages),Site internet de la Banque Centrale du Congo,other,,Banque Centrale du Congo,,2026-08-17-numerico-bcc-nouveau-site-donnees-economiques
 COD,national geological databank,Congo (DRC),other,,National Geological Survey of Congo (SGNC),"free basic data, fee-based sensitive data",2026-09-08-thecitizen-congo-locks-down-geological-data
@@ -75,10 +80,12 @@ GHA,GHEITI Open Data Policy,GHEITI Open Data Policy,other,,Ghana Extractive Indu
 GHA,GHEITI open data portal,GHEITI open data portal,other,,Ghana Extractive Industries Transparency Initiative,,2016-12-01-ghana-gheiti-open-data-policy
 GHA,District Development Data Platform,District Development Data Platform,other,,National Development Planning Commission (with GIZ support),district,2026-06-05-ndpc-data-literacy-week-myjoy
 GHA,StatsBank 2.0,StatsBank,other,,Ghana Statistical Service,national,2026-03-01-statsbank-2-0-release
+GHA,National Air Quality Data Hub,Ghana,other,PostgreSQL/PostGIS hub with map dashboard,"KNUST, with the EPA to take ownership",,2026-09-15-gha-myjoyonline-knust-epa-national-air-quality-data-hub
 GIN,Open Data Platform (ODP) 2.0,plateforme Open Data Platform (ODP) 2.0,other,Open Data Platform (ODP),"Institut National de la Statistique (INS), with African Development Bank support",national statistics office and ANASA,2026-07-01-ins-atelier-sdmx-migration-odp-2-0
 GMB,Government Open Data Strategy 2024-2027,Government Open Data Strategy 2024-2027,policy,,Ministry of Communications and Digital Economy,,2025-01-01-mocde-data-governance-trends-gambia
 GMB,Government Web Portal,Government Web Portal & Mobile App,other,,Ministry of Communications and Digital Economy,,2025-01-01-mocde-data-governance-trends-gambia
 GMB,MYGOV - Digital Gambia Platform,MYGOV,other,,Government of The Gambia with UNDP (a2i) and ECOWAS support,,2025-01-01-mocde-data-governance-trends-gambia
+GMB,Online Information Access Portal,Gambia,other,,National Records Commission,,2025-01-01-gmb-national-records-commission-launches-online-information-access-portal
 GNB,National Summary Data Page on the national Open Data Platform,National Summary Data Page,other,African Development Bank Open Data Platform,"Provided by the African Development Bank; data supplied by the National Institute of Statistics, the Ministry of Finance and the BCEAO",national,2024-07-08-imf-pr24262-guinea-bissau-implements-egdds-national-summary-data-page
 GNB,Dados Abertos (portal da Assembleia Nacional Popular),Dados Abertos,other,Plone (Interlegis),Assembleia Nacional Popular,,2015-04-01-anp-guine-bissau-portal-dados-abertos
 GNB,Portal de dados aberto da Guine-Bissau (ODP),"Portal de dados aberto da Guine-Bissau, ODP",other,"African Development Bank Africa Information Highway, SDMX",African Development Bank; hosts the INE National Summary Data Page,national,2024-06-14-gnb-ine-egdds-portal-dados-abertos
@@ -88,6 +95,7 @@ KEN,Kenya Data Marketplace (proposed),National data marketplace,other,,"Ministry
 KEN,"Access to Information Act, 2016 and Access to Information Regulations 2023","Access to Information Act, 2016",other,,Commission on Administrative Justice,national,2026-09-27-ken-access-to-information-day
 KEN,Kenya Open Government Data Portal (opendata.go.ke),Kenya Open Government Data Portal,other,,Government of Kenya (Ministry of Information and Communications; Planning ministry as main data source),national,2011-07-08-ken-capitalfm-opendata-portal-launch
 KEN,"Kenya Open Data Initiative (KODI) portal, opendata.go.ke",KODI,other,,Government of Kenya; no institution named as its home,national; offline,2023-12-01-ken-ogp-ke0034-open-data-for-development
+KEN,Kenya Open Data portal (opendata.go.ke),Kenya,policy,,,,2025-12-18-worldbank-govtech-dataset-dec2025
 LBR,LISGIS microdata catalogue (microdata.lisgislr.org),Liberia,other,,Liberia Institute of Statistics and Geo-Information Services (LISGIS),,2026-02-01-liberia-lisgis-wen-survey-2024-public-use-dataset
 LBR,eLiberia national data portal,national data portal,policy,,Ministry of Posts and Telecommunications,national,2020-01-01-lbr-ogp-lr0036-open-data-citizen-portal
 LBR,Open Data/Citizen Navigation Portal (OGP commitment LR0036),LR0036,other,,Ministry of Posts and Telecommunications (lead),national,2020-01-01-lbr-ogp-lr0036-open-data-citizen-portal
@@ -122,6 +130,8 @@ MRT,2019 decree on systematic disclosure of EITI data,decree mandating systemati
 MRT,Stratégie nationale de données ouvertes et interopérables,Stratégie nationale de données ouvertes et interopérables,policy,,MTNIMA,,2023-06-01-mauritania-strategie-nationale-donnees-ouvertes-interoperables
 MRT,Portail des données ouvertes de la Mauritanie (planned),portail de données ouvertes,other,,MTNIMA / AN-ETAT,,2023-06-01-mauritania-strategie-nationale-donnees-ouvertes-interoperables
 MUS,MauStats,MauStats platform,other,"open-source, SDMX-based",Statistics Mauritius with UNDP,national and local,2025-10-22-undp-statistics-mauritius-maustats-platform-launch
+MUS,National Open Data Portal,Mauritius,other,,"Ministry of Information Technology, Communication and Innovation",,2024-11-01-mus-cib-list-of-operational-systems
+MUS,Mauritius open data portal (data.govmu.org),Mauritius,policy,,,,2025-12-18-worldbank-govtech-dataset-dec2025
 MWI,Malawi Open Data Portal,Open Data Portal,policy,,Government of Malawi (announced by the OGP Malawi Secretariat),,2025-09-03-malawi-launches-new-open-data-portal
 MWI,MWEITI Open Data Policy 2022 to 2027,Malawi Extractives Industries Transparency Initiative Open Data Policy,other,,Malawi Extractive Industries Transparency Initiative (MWEITI),,2022-06-01-malawi-open-data-policy
 MWI,Malawi National Electronic Procurement System (MANePS),MANePS,other,,Public Procurement and Disposal of Public Assets Authority (PPDA) with the Treasury,national procuring and disposing entities (232 of a targeted 250 uploaded annual procurement plans),2026-03-06-govt-issues-circular-on-mandatory-use-of-maneps
@@ -172,6 +182,7 @@ TCD,Page Nationale Récapitulative des Données (PNRD),PNRD,other,,INSEED,nation
 TCD,Archive Nationale des Données Statistiques,Archive Nationale des Données Statistiques,other,,INSEED,national,2026-01-01-inseed-portails-de-donnees-et-chiffres-cles
 TCD,Suivi des Indicateurs ODD (Goal Tracker),Goal Tracker,other,,INSEED,national,2026-01-01-inseed-portails-de-donnees-et-chiffres-cles
 TCD,Suivi des Indicateurs du PND Tchad Connexion2030,Tchad Connexion2030 tracker,other,,INSEED,national,2026-01-01-inseed-portails-de-donnees-et-chiffres-cles
+TCD,SITEAU Geoportail and SITEAU-APP,Chad,other,Geoportal and mobile application,CDIG (Centre de Documentation et d'Information Geographique),,2026-10-27-tcd-lendjampost-cdig-geoportail-siteau-app-launch
 TGO,Open Data Portal (ODP) 1.0 / ODP 2.0,Plateforme de Données Ouvertes (ODP) du Togo,other,SDMX-based statistical platform,"INSEED (national statistics office), with sector ministries' focal points",national,2026-04-30-inseed-atelier-sdmx-plateforme-odp2-0
 TGO,Open Data platform (opendata.gouv.tg),Plateforme Open Data du Togo,policy,,"Government (page on opendata.gouv.tg, hashtags MENTD and ATD)",national,2024-12-18-togo-lancement-plateformes-open-data-geoportail
 TGO,Geoportail Open Data,Geoportail Open Data du Togo,other,,"Government (launched with the open data platform, hashtags MENTD and ATD)",national,2024-12-18-togo-lancement-plateformes-open-data-geoportail

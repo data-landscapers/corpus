@@ -1,0 +1,13 @@
+{
+  "slug": "2020-01-01-som-the-somali-health-and-demographic-survey-2020",
+  "facts": [],
+  "systems": [],
+  "claims": {
+    "odin-8961f0a3c8": "nothing: statistics office openness score, not assessed",
+    "odin-22cef4d40c": "nothing: statistics office openness score, not assessed",
+    "odin-f26a517765": "nothing: statistics office openness score, not assessed",
+    "odin-44760f3c03": "nothing: statistics office openness score, not assessed",
+    "odin-456ad6fc7c": "nothing: statistics office openness score, not assessed"
+  },
+  "note": "The survey report's passages are front matter and a preface; they state nothing on an open data policy or portal."
+}

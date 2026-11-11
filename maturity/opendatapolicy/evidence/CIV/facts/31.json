@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data portal (data.gouv.ci)", "country_label": "Open Data portal", "class": "policy", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The portal's running is already stated in CIV-001.",
+  "claims": {
+    "gtmi-a985b63225": "nothing: held as CIV-001"
+  }
+}

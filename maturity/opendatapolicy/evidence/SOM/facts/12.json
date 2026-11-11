@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "none", "fact": "The government told the World Bank's GovTech survey (2025 round) that Somalia has no open data portal; the line gives no year, so the round's year is used.", "as_of": "2025", "date_precision": "year", "system": "open data portal", "class": "policy"}
+  ],
+  "systems": [],
+  "claims": {
+    "gtmi-87ba7f5d3d": "fact"
+  },
+  "note": ""
+}

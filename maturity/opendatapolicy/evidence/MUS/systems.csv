@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MUS,MauStats,MauStats platform,other,"open-source, SDMX-based",Statistics Mauritius with UNDP,national and local,2025-10-22-undp-statistics-mauritius-maustats-platform-launch
+MUS,National Open Data Portal,Mauritius,other,,"Ministry of Information Technology, Communication and Innovation",,2024-11-01-mus-cib-list-of-operational-systems
+MUS,Mauritius open data portal (data.govmu.org),Mauritius,policy,,,,2025-12-18-worldbank-govtech-dataset-dec2025

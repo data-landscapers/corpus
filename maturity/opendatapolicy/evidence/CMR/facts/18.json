@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "none", "fact": "The government told the World Bank's GovTech survey (2025) that Cameroon has no open data portal; the line gives no year for the answer, so the survey round's year 2025 is used.", "as_of": "2025", "date_precision": "year", "system": "Open Data portal", "class": "policy"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "gtmi-6ca222c897": "The government told the World Bank's GovTech survey (2025) that Cameroon has no open data portal; the line gives no year for the answer, so the survey round's year 2025 is used."
+  }
+}

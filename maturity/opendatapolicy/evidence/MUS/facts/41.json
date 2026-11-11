@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "portal", "fact": "The government told the World Bank's GovTech survey (2025) that Mauritius has an open data portal, linked as data.govmu.org; the line gives no launch year, so this is dated to the 2025 survey round.", "as_of": "2025", "date_precision": "year", "system": "Mauritius open data portal (data.govmu.org)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Mauritius open data portal (data.govmu.org)", "country_label": "Mauritius", "class": "policy", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-de2068798b": "fact"
+  }
+}
