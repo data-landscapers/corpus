@@ -1,0 +1,9 @@
+{
+  "slug": "2026-11-10-ict-regulatory-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "ITU records the telecom regulator's duty to consult; the study counts a consultation held under a rule, not the rule alone.",
+  "claims": {
+    "itu-49b0196c5b": "nothing: the rule alone, with no consultation held under it, does not count"
+  }
+}
