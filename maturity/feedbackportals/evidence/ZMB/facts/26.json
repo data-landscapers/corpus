@@ -1,0 +1,30 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {
+      "sub_indicator": "feedback",
+      "aspect": "channel",
+      "value": "underway",
+      "fact": "The government told the World Bank's GovTech survey (2025) that Zambia has a government platform for citizen feedback on service delivery, linking the Citizens Support Services portal; as_of is the survey round's year.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Citizens Support Services Portal",
+      "class": "feedback"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Citizens Support Services Portal",
+      "country_label": "Zambia",
+      "class": "feedback",
+      "platform": "web portal",
+      "owner": "SMART Zambia Institute",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-829a521a06": "The government told the World Bank's GovTech survey (2025) that Zambia has a government platform for citizen feedback on service delivery, linking the Citizens Support Services portal; as_of is the survey round's year.",
+    "gtmi-9cccf80fb9": "nothing: no aspect value for absence of published results"
+  }
+}

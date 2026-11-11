@@ -23,9 +23,9 @@ The AU Charter on Decentralisation asks that ICT be used so residents can give f
 | 5 Leading | 5 |
 | 4 Operating | 1 |
 | 3 Established | 3 |
-| 2 Nascent | 28 |
+| 2 Nascent | 29 |
 | 1 Absent | 0 |
-| Unplaced | 8 |
+| Unplaced | 7 |
 | No evidence | 9 |
 
 ## Countries
@@ -88,6 +88,12 @@ Mauritania's complaints app recorded about 9,000 requests and complaints by May 
 The Auditor General's feedback platform had cases resolved on record in 2025; whether a channel reaches across government is not known.
 
 - GIZ says the Citizen Feedback Platform lets Ugandans report service delivery concerns to the Office of the Auditor General, and that since 2022 2,300 citizens registered on the CMS, CFP and UHRC App, resolving 900 reported cases ([source, 2025-07](https://www.giz.de/sites/default/files/media/pkb-document/2025-09/giz2025-en-gcsp-factsheet_0.pdf)).
+
+### Botswana: 2 Nascent
+
+The government told a 2025 World Bank survey it runs a feedback platform for service delivery; its case numbers and results are not known.
+
+- The government told the World Bank's GovTech survey (2025) that it has a platform for citizens to give feedback on service delivery, naming botswanaspeaks.gov.bw; no launch date or case count is given, so the as_of is the survey round's year ([source, 2025](https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset)).
 
 ### Burkina Faso: 2 Nascent
 
@@ -260,12 +266,6 @@ A digital channel for complaints about public services was under way in 2024; on
 A digital channel for complaints about public services was under way in 2025; one in service is not on record.
 
 - The Anchor reports the Ministry of Health and Child Care, with World Bank and Cordaid support, launched a Digital Grievance Redress Mechanism with service ratings, free-text feedback, mobile apps and public feedback booths; no case numbers are given ([source, 2025-07-04](https://www.theanchor.co.zw/ministry-of-health-launches-digital-complaint-system/)).
-
-### Botswana: Unplaced
-
-Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
 ### Comoros: Unplaced
 

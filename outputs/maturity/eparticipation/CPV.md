@@ -2,7 +2,7 @@
 
 ## Online participation in policy
 
-**Asked online.** In August 2026 ARME, the multisectoral regulator, [opened a public consultation on a proposed framework for satellite communications](<https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/>). Submissions were open until 31 August 2026. ARME regulates several sectors, communications among them. In June 2025 the government [put its fiscal transparency portal out to public consultation](<https://www.governo.cv/portal-da-transparencia-em-consulta-publica/>), from 27 June to 17 July 2025.
+**Asked online.** In August 2026 ARME, the multisectoral regulator, [opened a public consultation on a proposed framework for satellite communications](<https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/>). Submissions were open until 31 August 2026. ARME regulates several sectors, communications among them. In June 2025 the government [put its fiscal transparency portal out to public consultation](<https://www.governo.cv/portal-da-transparencia-em-consulta-publica/>), from 27 June to 17 July 2025. [The government told the World Bank's GovTech survey in 2025](<https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset>) that Cape Verde has a national platform for citizens to take part in policy decision-making, at eparticipa.gov.cv.
 
 **Answers published.** The nearest fact is [the regulator's consultation on satellite communications](<https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/>). It covered the networks and services that would be licensed under the proposed framework. Space in Africa reported the consultation in August 2026.
 
@@ -10,4 +10,4 @@
 
 ***Also on file***. [Portal da Transparencia](<https://www.governo.cv/portal-da-transparencia-em-consulta-publica/>).
 
-***Not found***. No source found since October 2023 says a portal takes comments online on more than one draft.
+***Not found***. No source found since October 2023 says the government published what it was told in an online consultation.

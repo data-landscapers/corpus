@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "eparticipation", "aspect": "online", "value": "standing", "fact": "Zambia's government told the World Bank's GovTech survey (2025) that portal.citizensupport.gov.zm is a national platform allowing citizens to take part in policy decision-making; the year is the survey round's, the record gives none.", "as_of": "2025", "date_precision": "year", "system": "Citizen Support portal", "class": "eparticipation"}
+  ],
+  "systems": [
+    {"system": "Citizen Support portal", "country_label": "Zambia", "class": "eparticipation", "platform": "portal.citizensupport.gov.zm", "owner": "", "tiers": ""}
+  ],
+  "claims": {
+    "gtmi-6e0c258c1e": "nothing: no open government portal states nothing on the study's aspects",
+    "gtmi-0f562779c0": "fact"
+  },
+  "note": ""
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "eparticipation", "aspect": "online", "value": "standing", "fact": "The government told the World Bank's GovTech survey (2025) that Kenya has a national platform for citizen participation in policy decision-making, linked as publicparticipation.statelaw.go.ke; the survey round's year is used as the date.", "as_of": "2025", "date_precision": "year", "system": "publicparticipation.statelaw.go.ke", "class": "eparticipation"}
+  ],
+  "systems": [
+    {"system": "publicparticipation.statelaw.go.ke", "country_label": "Kenya", "class": "eparticipation", "platform": "publicparticipation.statelaw.go.ke", "owner": "State Law Office", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-4d0df11ff1": "nothing: link is the Open Government home page, not a participation platform",
+    "gtmi-370baa1bf2": "fact"
+  }
+}

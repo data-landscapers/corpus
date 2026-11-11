@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eparticipation",
-      "stage": "2",
-      "online": "asked",
+      "stage": "3",
+      "online": "standing",
       "published": "",
       "required": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001",
-      "gaps": "No source found since October 2023 says a portal takes comments online on more than one draft.",
-      "note": "Reassessed 2026-11-03: the draft National Data Governance Policy was posted online for comment in May 2026, and the health authority's online form served one set of contracts. Nothing shows a portal taking comments online on more than one draft, so it is not stage 3.",
-      "as_at": "2026-11-03"
+      "stage_sources": "KEN-004",
+      "gaps": "No source found since October 2023 says the government published what it was told in an online consultation.",
+      "note": "First pass: counted from the four questions by study-ladder-eparticipation.py.",
+      "as_at": "2026-11-11"
     }
   ]
 }

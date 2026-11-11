@@ -87,3 +87,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-04,TZA,include.access--citizen-participation-in-policy,fact,no evidence,2,TZA-001,Maoni Portal yearly tax consultation (2025) sets stage 2
 2026-11-09,CIV,include.access--citizen-participation-in-policy,ladder,4,2,CIV-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
 2026-11-09,LBR,include.access--citizen-participation-in-policy,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-11,CPV,include.access--citizen-participation-in-policy,fact,2,3,CPV-003,"External claims (housekeeping 58): the government told GovTech (2025) it runs a national platform for participation in policy-making; a standing online channel, 3"
+2026-11-11,KEN,include.access--citizen-participation-in-policy,fact,2,3,KEN-004,"External claims (housekeeping 58): the government told GovTech (2025) it runs a national platform for participation in policy-making; a standing online channel, 3"
+2026-11-11,MAR,include.access--citizen-participation-in-policy,fact,2,3,MAR-002,"External claims (housekeeping 58): the government told GovTech (2025) it runs a national platform for participation in policy-making; a standing online channel, 3"
+2026-11-11,TUN,include.access--citizen-participation-in-policy,fact,2,3,TUN-003,"External claims (housekeeping 58): the government told GovTech (2025) it runs a national platform for participation in policy-making; a standing online channel, 3"
+2026-11-11,SEN,include.access--citizen-participation-in-policy,fact,unplaced,4,SEN-002,"External claims (housekeeping 58): ARTP published a synthesis of the 21 contributions to its FTTx consultation (August 2026); comments published, 4"

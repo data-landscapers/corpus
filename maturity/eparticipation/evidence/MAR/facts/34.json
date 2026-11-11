@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "eparticipation", "aspect": "online", "value": "standing", "fact": "The World Bank's GovTech survey (2025) records a national platform for citizen participation in policy decision-making in Morocco, linked as www.eparticipation.ma; the survey round's year is used as the date.", "as_of": "2025", "date_precision": "year", "system": "eparticipation.ma", "class": "eparticipation"}
+  ],
+  "systems": [
+    {"system": "eparticipation.ma", "country_label": "Morocco", "class": "eparticipation", "platform": "www.eparticipation.ma", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-ba43f75fb3": "nothing: link is the open government home page, not a participation platform",
+    "gtmi-56547e7e38": "fact"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Database record only; its no on participation platforms is contradicted by MRT-002 and its portal line states no participation system.",
+  "claims": {
+    "gtmi-40235da0de": "nothing: an Open Government portal is not a participation platform",
+    "gtmi-2a09446788": "nothing: contradicted by MRT-002"
+  }
+}

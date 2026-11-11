@@ -1,6 +1,6 @@
 # Citizen participation in policy: online participation in policy
 
-*As at 2026-11-03.*
+*As at 2026-11-11.*
 
 ## The norm
 
@@ -21,20 +21,32 @@ The African Charter on Democracy, Elections and Governance asks for citizen part
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 0 |
-| 3 Established | 5 |
-| 2 Nascent | 25 |
+| 4 Operating | 1 |
+| 3 Established | 9 |
+| 2 Nascent | 21 |
 | 1 Absent | 0 |
-| Unplaced | 8 |
+| Unplaced | 7 |
 | No evidence | 16 |
 
 ## Countries
+
+### Senegal: 4 Operating
+
+The telecoms regulator published a 2026 fibre consultation summary and a national platform is listed; a rule requiring drafts online is not known.
+
+- ARTP published on its website a synthesis report of the twenty-one contributions to the FTTx consultation, setting out points of convergence and the range of positions expressed ([source, 2026-08-10](https://artp.sn/partage-infrastructures/fttx)).
 
 ### Angola: 3 Established
 
 The ICT ministry's consultation portal took public contributions on draft laws in 2025 and 2026; whether what was received is published is not known.
 
 - MINTTICS describes its Consulta Publica portal as a tool for the public to take part in drafting the sector's guiding documents, listing documents in consultation and contributions received ([source, 2026-08-27](https://consultapublica.minttics.gov.ao/)).
+
+### Cape Verde: 3 Established
+
+The government told a 2025 World Bank survey it runs a national platform for policy participation; whether it publishes what it receives is not known.
+
+- The government told the World Bank's GovTech survey (2025) that Cape Verde has a national platform for citizens to take part in policy decision-making, linking eparticipa.gov.cv; the line gives no year, so the survey round's year is used ([source, 2025](https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset)).
 
 ### Egypt: 3 Established
 
@@ -56,11 +68,29 @@ The government secretariat's website took comments online on three draft texts i
 
 - The Secretariat General of the Government's web page lists draft texts, including the revised labour code bill, with a comment button and counts of comments received (2 and 9 on two drafts) ([source, 2026](https://sgg.gov.gn/document/textecom/1)).
 
+### Kenya: 3 Established
+
+The government told a 2025 World Bank survey it runs a national platform for policy participation; whether it publishes what it receives is not known.
+
+- The government told the World Bank's GovTech survey (2025) that Kenya has a national platform for citizen participation in policy decision-making, linked as publicparticipation.statelaw.go.ke; the survey round's year is used as the date ([source, 2025](https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset)).
+
 ### Madagascar: 3 Established
 
 The National Assembly's portal took citizen contributions on several bills in 2026; whether what was received is published is not known.
 
 - The National Assembly's Consultations Publiques portal lists several citizen consultations open to contributions, including the Electoral Code reform (13 February to 13 March 2026) and an environment bill ([source, 2026-10-17](https://parlement.mg/consultations/)).
+
+### Morocco: 3 Established
+
+The World Bank's 2025 GovTech survey records a national platform for policy participation in Morocco; whether the government publishes what it receives is not known.
+
+- The World Bank's GovTech survey (2025) records a national platform for citizen participation in policy decision-making in Morocco, linked as www.eparticipation.ma; the survey round's year is used as the date ([source, 2025](https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset)).
+
+### Tunisia: 3 Established
+
+The government told a 2025 World Bank survey it runs a national platform for policy participation; whether it publishes what it receives is not known.
+
+- Tunisia's government told the World Bank's GovTech survey (2025) that e-people.gov.tn is a national platform allowing citizens to take part in policy decision-making; the year is the survey round's, the record gives none ([source, 2025](https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset)).
 
 ### Algeria: 2 Nascent
 
@@ -86,13 +116,6 @@ Botswana posted a draft cybersecurity bill online for comment by email in 2025; 
 Cameroon's posts ministry put a draft data protection decree online for public comment in 2026; a portal taking comments online is not known.
 
 - OBS-CC says a 13-page draft implementing decree for the data protection authority is online on the Ministry of Posts and Telecommunications site among texts submitted to public consultation under PATNUC ([source, 2026-09-14](https://obs-cc.org/gouvernance-donnees-afrique-centrale-apdp/)).
-
-### Cape Verde: 2 Nascent
-
-Cape Verde's regulator and government held public consultations on named proposals in 2025 and 2026; a portal taking comments online is not known.
-
-- ARME, Cape Verde's multisectoral regulator, launched a public consultation on a proposed regulatory framework for satellite communication networks and services, with submissions open until 31 August 2026 ([source, 2026-08-05](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/)).
-- The Government of Cabo Verde put the Portal da Transparencia, a fiscal transparency portal, out to public consultation from 27 June to 17 July 2025 ([source, 2025-06-27](https://www.governo.cv/portal-da-transparencia-em-consulta-publica/)).
 
 ### Chad: 2 Nascent
 
@@ -132,12 +155,6 @@ Guinea-Bissau's regulator posted a draft electronic transactions law online for 
 
 - The ARN-TIC Board of Directors opened a public consultation on the draft Electronic Transactions Law, with the document available on the ARN website, responses accepted by email within 30 days and closing on 28 May 2026 ([source, 2026-05-08](https://www.odemocratagb.com/?p=57171)).
 
-### Kenya: 2 Nascent
-
-Kenya posted its draft data governance policy online for comment in 2026; a portal taking comments on more than one draft is not known.
-
-- The Social Health Authority published its proposed 2026-2029 provider contracts on its website and gave stakeholders an online feedback form, with comments due 2026-09-10 ([source, 2026-09-08](https://www.the-star.co.ke/news/2026-09-08-sha-invites-views-on-new-healthcare-contracts)).
-
 ### Malawi: 2 Nascent
 
 Malawi held a hybrid meeting, open online, on three draft cyber regulations in 2024; a portal taking comments online is not known.
@@ -149,12 +166,6 @@ Malawi held a hybrid meeting, open online, on three draft cyber regulations in 2
 Mauritius took views online on cannabis policy in 2026; a portal taking comments on more than one draft is not known.
 
 - The Government of Mauritius launched a public consultation on 10 April 2025 on a draft report on child online safety, posted on the ministry website, with views taken by email or the MAIA+ chatbot from 15 April 2025 ([source, 2025-04-10](https://www.govmu.org/EN/newsgov/SitePages/Government-launches-public-consultation-to-beef-up-online-safety-of-children.aspx)).
-
-### Morocco: 2 Nascent
-
-Morocco's draft carbon market law was under public consultation on the government secretariat's website in 2026; a standing portal is not known.
-
-- Aujourd'hui le Maroc reported on 2026-09-16 that avant-projet de loi n. 62.25 on climate change and regulation of the carbon market is currently under public consultation on the website of the Secretariat general du gouvernement ([source, 2026-09-16](https://aujourdhui.ma/societe/un-avant-projet-de-loi-soumis-au-sgg-le-maroc-encadre-le-marche-carbone)).
 
 ### Mozambique: 2 Nascent
 
@@ -211,13 +222,6 @@ The finance ministry takes public views on tax online each December, as of 2025;
 
 - Tanzania's Ministry of Finance says its Maoni Portal is open to the public and that each December it opens a digital consultation window on improving the tax system ([source, 2025-06-23](https://www.therespondents.co.tz/2025/06/tanzania-invites-public-input-on-tax.html)).
 
-### Tunisia: 2 Nascent
-
-Tunisia took action plan proposals partly through a digital participation portal in 2023-2025; a portal taking comments on drafts is not known.
-
-- The OGP Independent Reporting Mechanism says co-creation of Tunisia's 2023-2025 action plan collected over 320 proposals through the digital participation portal, workshops, email and public structures ([source, 2026-08-04](https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/)).
-- The Instance Nationale des Telecommunications (INT) opened a second public consultation on fibre access infrastructure sharing from 6 March to 2 April 2026, posted on its website with questions and responses accepted by email ([source, 2026-03-06](https://www.intt.tn/fr/index.php?actu=1060&typeactu=89)).
-
 ### Ethiopia: Unplaced
 
 A portal for draft laws was launched in 2025; no draft put to the public on it is known, so no stage is set.
@@ -247,12 +251,6 @@ Not established: Nothing found since October 2023 says whether the government ha
 A platform for policy dialogue with civil society opened in 2024; no draft put to the public online is known, so no stage is set.
 
 Not established: No source found since October 2023 names a draft or policy put to the public online; the 2024 Space Plateforme is for dialogue with civil society and partners.
-
-### Senegal: Unplaced
-
-The telecoms regulator published a summary of a 2026 fibre consultation; whether that consultation ran online is not known, so no stage is set.
-
-Not established: No source found says ARTP's March 2026 FTTx consultation was held online or posted a named draft; only its synthesis of 21 contributions is shown online, in August 2026.
 
 ### Togo: Unplaced
 

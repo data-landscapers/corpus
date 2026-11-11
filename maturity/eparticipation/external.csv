@@ -1,0 +1,325 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+gtmi-39d6778302,gtmi,2025,AGO,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-955030fc52,gtmi,2022,AGO,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e902b0e9a1,gtmi,2020,AGO,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-23425dff03,gtmi,2025,AGO,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as AGO-002
+gtmi-3c15ee644d,gtmi,2020,AGO,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-7bee53a136,gtmi,2022,AGO,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-217c7570cb,gtmi,2020,BDI,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a1856ded0d,gtmi,2022,BDI,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ab35337b48,gtmi,2025,BDI,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-5ae412327e,gtmi,2025,BDI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is a government site home page, not a named consultation platform"
+gtmi-d278439889,gtmi,2020,BDI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f4a7f2c9ee,gtmi,2022,BDI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4e1cab2434,gtmi,2022,BEN,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-cf1e5a3240,gtmi,2020,BEN,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e7a087e9cb,gtmi,2025,BEN,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-262131a5b0,gtmi,2022,BEN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-81055e3252,gtmi,2020,BEN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d338068db6,gtmi,2025,BEN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is a service-report (complaints) page, not a consultation platform"
+gtmi-19bfaaea2d,gtmi,2025,BFA,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-677ff72f1e,gtmi,2022,BFA,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-cf9645b1e8,gtmi,2020,BFA,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-307d0c5265,gtmi,2022,BFA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-4f5379546e,gtmi,2025,BFA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-e3d57539db,gtmi,2020,BFA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-189ba4b593,gtmi,2020,BWA,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-86de8f50d1,gtmi,2025,BWA,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-c5d80d225c,gtmi,2022,BWA,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-6b37c85e89,gtmi,2025,BWA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by BWA-002
+gtmi-9e682949b5,gtmi,2020,BWA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-ac3c316379,gtmi,2022,BWA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-175510de4b,gtmi,2025,CAF,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-57a8ee948b,gtmi,2020,CAF,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e4e37da1d0,gtmi,2022,CAF,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-7a470875ed,gtmi,2025,CAF,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-fbebd85a99,gtmi,2020,CAF,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-fe0a51a320,gtmi,2022,CAF,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-09eb4885ca,gtmi,2020,CIV,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-bbb018c77b,gtmi,2022,CIV,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-fda5795626,gtmi,2025,CIV,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-1d686dff45,gtmi,2020,CIV,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-6179160625,gtmi,2025,CIV,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by CIV-001
+gtmi-83554adbd8,gtmi,2022,CIV,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-1f9b754f41,gtmi,2025,CMR,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-76a9135623,gtmi,2022,CMR,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-9411aa2931,gtmi,2020,CMR,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-433119ad2f,gtmi,2025,CMR,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by CMR-001
+gtmi-5da0ab528e,gtmi,2020,CMR,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-aa21c62932,gtmi,2022,CMR,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4a0ec84489,gtmi,2020,COD,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-8eee94effc,gtmi,2022,COD,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-96a0605e28,gtmi,2025,COD,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-0535c71ca1,gtmi,2022,COD,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-45c1c6277e,gtmi,2025,COD,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by COD-001
+gtmi-cec09c6344,gtmi,2020,COD,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4326a8426d,gtmi,2022,COG,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-4422f0dfcb,gtmi,2025,COG,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-f0d4f69a6f,gtmi,2020,COG,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-8a5fb85593,gtmi,2025,COG,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-b337197779,gtmi,2022,COG,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-c6fa24a52d,gtmi,2020,COG,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-3e38864d70,gtmi,2025,COM,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-acbe12c183,gtmi,2020,COM,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-cce8aaad28,gtmi,2022,COM,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-0e0c247c3d,gtmi,2022,COM,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4a2195f03c,gtmi,2020,COM,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e2dc01aa33,gtmi,2025,COM,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-9bfb1d0978,gtmi,2022,CPV,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-d6d13899d2,gtmi,2025,CPV,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-dae3e07d84,gtmi,2020,CPV,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-26da1b882e,gtmi,2020,CPV,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-58d75c198c,gtmi,2022,CPV,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-ff0a7de99f,gtmi,2025,CPV,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,fact,2025-12-18-worldbank-govtech-dataset-dec2025,CPV-003,
+gtmi-2fdc52449f,gtmi,2020,DJI,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-5fd7f9e55b,gtmi,2022,DJI,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-cf2d78f48d,gtmi,2025,DJI,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-0214cf6603,gtmi,2025,DJI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-6a52c53c50,gtmi,2022,DJI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-876bc39c2d,gtmi,2020,DJI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-092a20599a,gtmi,2022,DZA,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-52267887c9,gtmi,2020,DZA,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e38b061715,gtmi,2025,DZA,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-a6929f4b7e,gtmi,2022,DZA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-b709af8a68,gtmi,2020,DZA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-b94c776065,gtmi,2025,DZA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,link is the interior ministry's home page
+gtmi-1b898afb9e,gtmi,2022,EGY,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-a64bb7191f,gtmi,2025,EGY,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-c07dfea338,gtmi,2020,EGY,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-7a54941f8c,gtmi,2022,EGY,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-899fdbdd47,gtmi,2020,EGY,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-b34d550003,gtmi,2025,EGY,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as EGY-002
+gtmi-20d339506f,gtmi,2025,ERI,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-2d3406a66e,gtmi,2020,ERI,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-8fb71f960b,gtmi,2022,ERI,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-498b23b384,gtmi,2025,ERI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-6a2129f120,gtmi,2020,ERI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d9eeba8672,gtmi,2022,ERI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-a2be2bd1d9,gtmi,2020,ETH,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c3a98feef3,gtmi,2025,ETH,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-efac3c19b6,gtmi,2022,ETH,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-8d6ca3f2b0,gtmi,2022,ETH,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-b3d8615aa6,gtmi,2025,ETH,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ETH-002
+gtmi-e7b536602b,gtmi,2020,ETH,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-2ee9d4fdc9,gtmi,2020,GAB,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-443fa2b3a9,gtmi,2022,GAB,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-85e7668dbb,gtmi,2025,GAB,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal, not a participation channel"
+gtmi-4c3624c1da,gtmi,2025,GAB,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by GAB-001
+gtmi-c9f72059f0,gtmi,2020,GAB,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d939afd1a5,gtmi,2022,GAB,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-311b7c2c4e,gtmi,2025,GHA,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is an Open Government Partnership page, not a participation platform"
+gtmi-c86acd8385,gtmi,2022,GHA,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-d65f267f6f,gtmi,2020,GHA,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-38caea87c7,gtmi,2025,GHA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by GHA-004
+gtmi-58ac34a57d,gtmi,2020,GHA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-fe4b482ab8,gtmi,2022,GHA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-0144090b2b,gtmi,2020,GIN,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1b3c8d1d59,gtmi,2025,GIN,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,link is the government home page
+gtmi-6c0e37c0bc,gtmi,2022,GIN,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1affa159ed,gtmi,2020,GIN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-b953191a67,gtmi,2022,GIN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-c26ea4ba35,gtmi,2025,GIN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by GIN-001
+gtmi-0fcaac6c9b,gtmi,2020,GMB,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-2ff695df3b,gtmi,2025,GMB,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,link is the government home page
+gtmi-e53b8901d6,gtmi,2022,GMB,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-7a4aca66df,gtmi,2022,GMB,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-a45e797515,gtmi,2025,GMB,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-cd51e732a6,gtmi,2020,GMB,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-08fac254c5,gtmi,2025,GNB,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an Open Government portal is not a participation platform
+gtmi-8688f16356,gtmi,2020,GNB,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e23539370d,gtmi,2022,GNB,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-285103ceac,gtmi,2020,GNB,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-5f0daed426,gtmi,2025,GNB,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-9edfadf50c,gtmi,2022,GNB,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-0d26095525,gtmi,2025,GNQ,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an Open Government portal is not a participation platform
+gtmi-da134b2f95,gtmi,2020,GNQ,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-fe77dafe0a,gtmi,2022,GNQ,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-0b65b8e4ae,gtmi,2020,GNQ,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-12329acf8f,gtmi,2022,GNQ,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-42c688b646,gtmi,2025,GNQ,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-0ffac89638,gtmi,2020,KEN,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-4d0df11ff1,gtmi,2025,KEN,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the Open Government home page, not a participation platform"
+gtmi-d5e898c09f,gtmi,2022,KEN,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-18727386a2,gtmi,2020,KEN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-370baa1bf2,gtmi,2025,KEN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,fact,2025-12-18-worldbank-govtech-dataset-dec2025,KEN-004,
+gtmi-f7da4cfb02,gtmi,2022,KEN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-12706c416d,gtmi,2022,LBR,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-c0b7b148cb,gtmi,2025,LBR,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an Open Government portal is not a participation platform
+gtmi-c92d7c6cfc,gtmi,2020,LBR,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-76fd8a0ec5,gtmi,2025,LBR,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-e302d0c4af,gtmi,2020,LBR,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e9fdb49e85,gtmi,2022,LBR,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-14824ed88d,gtmi,2020,LBY,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a1693cc451,gtmi,2022,LBY,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e1a63023e7,gtmi,2025,LBY,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an Open Government portal is not a participation platform
+gtmi-1e0fe789fe,gtmi,2020,LBY,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-2b87565d5f,gtmi,2025,LBY,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-bd1939ac1a,gtmi,2022,LBY,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-6a0be061b9,gtmi,2020,LSO,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b4dfe9aabb,gtmi,2025,LSO,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an Open Government portal is not a participation platform
+gtmi-b66ec6ec9d,gtmi,2022,LSO,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-6071f4a3e4,gtmi,2020,LSO,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-cb30cec4b4,gtmi,2022,LSO,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f61df6f371,gtmi,2025,LSO,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-75b6fe0e1e,gtmi,2022,MAR,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-adc61c265d,gtmi,2020,MAR,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-ba43f75fb3,gtmi,2025,MAR,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the open government home page, not a participation platform"
+gtmi-56547e7e38,gtmi,2025,MAR,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,fact,2025-12-18-worldbank-govtech-dataset-dec2025,MAR-002,
+gtmi-5bd5119789,gtmi,2022,MAR,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-76cfde8b65,gtmi,2020,MAR,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-3e2188931c,gtmi,2022,MDG,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-63666cb5ae,gtmi,2025,MDG,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,link is the presidency home page
+gtmi-89cbfc5881,gtmi,2020,MDG,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1bfe6bf0b5,gtmi,2025,MDG,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MDG-001
+gtmi-8ea5602458,gtmi,2020,MDG,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-da656d3759,gtmi,2022,MDG,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-0d9500dd89,gtmi,2025,MLI,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an Open Government portal is not a participation platform
+gtmi-30ec6f13bc,gtmi,2022,MLI,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-cfb88ad029,gtmi,2020,MLI,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-038e516c05,gtmi,2022,MLI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-429f118c60,gtmi,2020,MLI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d13464fb92,gtmi,2025,MLI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-5562d288a2,gtmi,2022,MOZ,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-abe13438a9,gtmi,2025,MOZ,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,link is the government portal home page
+gtmi-bf338b0ac0,gtmi,2020,MOZ,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-763b27422e,gtmi,2020,MOZ,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-799ce2d18e,gtmi,2022,MOZ,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-935d1c6f5a,gtmi,2025,MOZ,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-40235da0de,gtmi,2025,MRT,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an Open Government portal is not a participation platform
+gtmi-65bfc207be,gtmi,2022,MRT,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-dcd9953594,gtmi,2020,MRT,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-2a09446788,gtmi,2025,MRT,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by MRT-002
+gtmi-c073ce56df,gtmi,2020,MRT,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-cbdeb36df7,gtmi,2022,MRT,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-84445f4a79,gtmi,2025,MUS,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,link is an open data portal
+gtmi-9151dc5a75,gtmi,2020,MUS,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d0968c614d,gtmi,2022,MUS,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-17652fd5a5,gtmi,2020,MUS,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-85734c7901,gtmi,2022,MUS,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-9b27864226,gtmi,2025,MUS,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the Citizen Support Unit site, a complaints and support desk"
+gtmi-0b3cd4b271,gtmi,2020,MWI,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-97e4fd7003,gtmi,2022,MWI,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ced564bf81,gtmi,2025,MWI,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an Open Government portal is not a participation platform
+gtmi-1c570a0280,gtmi,2022,MWI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-569ad21fef,gtmi,2020,MWI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e52412df7e,gtmi,2025,MWI,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-894321bd31,gtmi,2022,NAM,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-8ebf090219,gtmi,2025,NAM,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,an Open Government portal is not a participation platform
+gtmi-926bd4a0d5,gtmi,2020,NAM,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-60d6070263,gtmi,2022,NAM,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d610cf3301,gtmi,2020,NAM,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e6f4c26788,gtmi,2025,NAM,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-75912cd2d5,gtmi,2020,NER,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-a96006806d,gtmi,2022,NER,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-ccab94ed23,gtmi,2025,NER,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,link is the government home page
+gtmi-18f1f10118,gtmi,2025,NER,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-93483105d5,gtmi,2020,NER,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f0731c983f,gtmi,2022,NER,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-1027e8c3f6,gtmi,2022,NGA,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-a0d5c393d0,gtmi,2025,NGA,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal (OGP Nigeria site), not a consultation channel"
+gtmi-ed69a5ee93,gtmi,2020,NGA,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-05cf4cd19b,gtmi,2025,NGA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-da8ba066f5,gtmi,2022,NGA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e54bdecf5b,gtmi,2020,NGA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-a09fafa17c,gtmi,2020,RWA,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b48d8fc459,gtmi,2025,RWA,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the government home page, not a consultation channel"
+gtmi-d34d5772ec,gtmi,2022,RWA,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-44f7c57b4b,gtmi,2022,RWA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e170352b52,gtmi,2020,RWA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-fefc0b9886,gtmi,2025,RWA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the government home page, not the platform asked about"
+gtmi-5fcc77789a,gtmi,2025,SDN,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the government home page, not a consultation channel"
+gtmi-9c34b972e6,gtmi,2022,SDN,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d765815eb4,gtmi,2020,SDN,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-05f1439bff,gtmi,2020,SDN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e5d2550177,gtmi,2022,SDN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-fbb1301254,gtmi,2025,SDN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-7e2c253a05,gtmi,2020,SEN,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-c15b8e6cb1,gtmi,2022,SEN,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-dcb10b6ff5,gtmi,2025,SEN,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is a presidency page on the government, not a consultation channel"
+gtmi-4bfc3eaaa0,gtmi,2025,SEN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,fact,2025-12-18-worldbank-govtech-dataset-dec2025,SEN-003,
+gtmi-733d10ca85,gtmi,2020,SEN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-b4698af4cf,gtmi,2022,SEN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-54ad77febd,gtmi,2025,SLE,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,no open government portal states nothing on the study's aspects
+gtmi-8345691b78,gtmi,2020,SLE,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-83bcf55a24,gtmi,2022,SLE,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-556dbc3f52,gtmi,2025,SLE,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-78965a873e,gtmi,2020,SLE,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-80db58a28d,gtmi,2022,SLE,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-038d397648,gtmi,2020,SOM,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-84768f1d1f,gtmi,2022,SOM,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-928ab48327,gtmi,2025,SOM,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,no open government portal states nothing on the study's aspects
+gtmi-84ebf19085,gtmi,2022,SOM,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9b62ef6cdd,gtmi,2020,SOM,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9e63326ea2,gtmi,2025,SOM,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by SOM-002
+gtmi-32ac4646d6,gtmi,2020,SSD,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-77b2f9db94,gtmi,2022,SSD,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c89a06d97d,gtmi,2025,SSD,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,no open government portal states nothing on the study's aspects
+gtmi-029cd147d6,gtmi,2025,SSD,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-15e9097ebf,gtmi,2020,SSD,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f076dc2796,gtmi,2022,SSD,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-47c01670a5,gtmi,2022,STP,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b7a5b6c42b,gtmi,2020,STP,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-fff516b701,gtmi,2025,STP,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,no open government portal states nothing on the study's aspects
+gtmi-1cf16e947b,gtmi,2022,STP,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-2b6d8fa4a6,gtmi,2020,STP,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-7959ffdcfe,gtmi,2025,STP,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by STP-001
+gtmi-14fccdab87,gtmi,2020,SWZ,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-698fa90e98,gtmi,2025,SWZ,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,no open government portal states nothing on the study's aspects
+gtmi-b14c4fa52e,gtmi,2022,SWZ,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1cdf829096,gtmi,2025,SWZ,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by SWZ-002
+gtmi-2a47affacb,gtmi,2020,SWZ,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-569afbcd89,gtmi,2022,SWZ,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-080467d084,gtmi,2022,SYC,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-58550a9731,gtmi,2020,SYC,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-c12c96ac60,gtmi,2025,SYC,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,no open government portal states nothing on the study's aspects
+gtmi-3b0de3a164,gtmi,2020,SYC,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-51c3f46a75,gtmi,2025,SYC,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-75267cd02b,gtmi,2022,SYC,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-70f226da57,gtmi,2022,TCD,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a1a9e52f23,gtmi,2020,TCD,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-eae08bf792,gtmi,2025,TCD,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,no open government portal states nothing on the study's aspects
+gtmi-1d64a086d8,gtmi,2025,TCD,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by TCD-001
+gtmi-38a477b9b8,gtmi,2022,TCD,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-a8485118f9,gtmi,2020,TCD,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-14d7229dab,gtmi,2020,TGO,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1f648d5fc1,gtmi,2022,TGO,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-3dbd0b449c,gtmi,2025,TGO,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the government home page, not a consultation channel"
+gtmi-124c2ca1ab,gtmi,2025,TGO,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by TGO-001
+gtmi-16297c2e4d,gtmi,2022,TGO,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-1bf480df3a,gtmi,2020,TGO,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-0be6ec44fc,gtmi,2022,TUN,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-2397439d08,gtmi,2025,TUN,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"open government portal (OGP Tunisia site), not a consultation channel"
+gtmi-bbb19c6961,gtmi,2020,TUN,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-06c96e6803,gtmi,2020,TUN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-4df824409a,gtmi,2022,TUN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-fc145db111,gtmi,2025,TUN,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,fact,2025-12-18-worldbank-govtech-dataset-dec2025,TUN-003,
+gtmi-58e0623a60,gtmi,2022,TZA,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-cb507583ae,gtmi,2020,TZA,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d993e188da,gtmi,2025,TZA,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2021-01-01-tza-kaoza-one-stop-government-portal-public-service-delivery,,"the paper describes a public-service portal launched 2013, not a consultation channel"
+gtmi-3b2692ba43,gtmi,2025,TZA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,fact,2025-12-18-worldbank-govtech-dataset-dec2025,TZA-002,
+gtmi-70dbfb9788,gtmi,2022,TZA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-ac5d5e9dda,gtmi,2020,TZA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-2e9e7c0226,gtmi,2020,UGA,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-532901ce99,gtmi,2022,UGA,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-8c9e3667b2,gtmi,2025,UGA,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is a government communication centre news page, not a consultation channel"
+gtmi-5b47e6d989,gtmi,2020,UGA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-78e1fc48c4,gtmi,2022,UGA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-f635ceadb5,gtmi,2025,UGA,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the Government Citizens Interaction Centre home page, not the platform asked about"
+gtmi-0d0c1c0534,gtmi,2025,ZAF,I-28,Is there an Open Government portal?,1 Yes,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the government home page, not a consultation channel"
+gtmi-4e7d681ad5,gtmi,2022,ZAF,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-98815660a4,gtmi,2020,ZAF,I-28,Is there an Open Government portal?,1 Yes,,,partial,superseded,,,the 2025 round answers it
+gtmi-a1fa51e2f7,gtmi,2025,ZAF,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by ZAF-003
+gtmi-b1c88c6e77,gtmi,2022,ZAF,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-fd417364b2,gtmi,2020,ZAF,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,superseded,,,the 2025 round answers it
+gtmi-435262b2f9,gtmi,2020,ZMB,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-549a98daf4,gtmi,2022,ZMB,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-6e0c258c1e,gtmi,2025,ZMB,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,no open government portal states nothing on the study's aspects
+gtmi-0f562779c0,gtmi,2025,ZMB,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,1 Yes,,,same,fact,2025-12-18-worldbank-govtech-dataset-dec2025,ZMB-002,
+gtmi-579abcbd65,gtmi,2020,ZMB,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d3644bc1d2,gtmi,2022,ZMB,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-289dffac9a,gtmi,2025,ZWE,I-28,Is there an Open Government portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,no open government portal states nothing on the study's aspects
+gtmi-9079279f61,gtmi,2020,ZWE,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-fa7b2c6da7,gtmi,2022,ZWE,I-28,Is there an Open Government portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-6347a65ca1,gtmi,2020,ZWE,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-ad86163c09,gtmi,2022,ZWE,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-fb835d82de,gtmi,2025,ZWE,I-30,Are there national platforms that allow citizens to participate in policy decision-making?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for

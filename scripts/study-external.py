@@ -3,6 +3,7 @@ r"""study-external.py — the external databases' claims read into a maturity st
 
     python scripts/study-external.py order               # studies by claims still open
     python scripts/study-external.py plan ID [--per-call 8] [--dir DIR]
+    python scripts/study-external.py screen ID           # before --merge: drop a database's absences
     python scripts/study-external.py close ID            # after the drafters and --merge
 
 `documentation/external-datasets.md` §4 is the citing rule; CORPUS housekeeping 58 is the job.
@@ -19,6 +20,12 @@ in `maturity/{id}/external.csv`** with an outcome, and a study is done when none
   country's lines of the source's database record (`passages/external/`).
 - `fact` or `nothing` — what the drafter wrote, in the facts file's `claims` map; `fact`
   names the evidence row it became, once `study-profile.py --merge` has taken it.
+
+**A database's "no" is never taken as a fact** (`screen`, 2026-11-11). Rung 1 asks for a source
+saying the thing is absent *and* not being prepared; a survey's "no" says the first half at most,
+and a round's year outranks an earlier dated launch. So `screen` drops from the facts files every
+fact citing a database record whose value is `none` or the aspect's deferred value, before
+`study-profile.py --merge` takes them, and answers its claim `nothing`.
 
 `plan` adds one reading-list row a document, `pass` = `external`, so `--merge` takes the
 facts files the usual way, and writes one drafter prompt a call of `--per-call` countries.
@@ -315,6 +322,12 @@ def prompt(sid: str, chunk: list) -> str:
            "- **Skip what is held**: a claim `evidence.csv` already states, from any source, is "
            "`nothing: held as {row_id}`. A claim on something the study does not assess is "
            "`nothing: {why}` in a few words.",
+           "- **A primary outranks a database.** A survey round's year stands for that year's end, so "
+           "a database's \"no\" would outrank an earlier dated launch: where `evidence.csv` holds a "
+           "row from a primary showing the thing exists, the claim is `nothing: contradicted by "
+           "{row_id}`. A \"yes\" whose link is a statistics office, a third-party platform or a home "
+           "page, not the thing asked about, is `nothing: {what the link is}`. A database's \"no\" is "
+           "never a fact: answer it `nothing: a database's no`.",
            "",
            "**Add to each facts file a `claims` map** answering every claim id sent with that document: "
            "`\"fact\"` where a fact you wrote carries it, else `\"nothing: ...\"`. Every id gets an answer.",
@@ -334,6 +347,39 @@ def prompt(sid: str, chunk: list) -> str:
         out.append("")
     out.append("Reply in three lines at most: documents read, facts written, claims answered.")
     return "\n".join(out) + "\n"
+
+
+def screen(sid: str) -> int:
+    """Drop a database record's absence facts from the facts files, before --merge."""
+    study = study_lib.load(sid)
+    absent = {a["key"]: {"none", *a.get("defer", [])} for a in study["aspects"]}
+    slugs = {r["slug"] for r in records().values()}
+    dropped = 0
+    for iso in sorted(os.listdir(os.path.join(study_lib.study_dir(sid), "evidence"))):
+        edir = os.path.join(study_lib.study_dir(sid), "evidence", iso)
+        rl = os.path.join(edir, "readlist.csv")
+        if not os.path.exists(rl):
+            continue
+        for r in study_lib.read_csv(rl):
+            f = os.path.join(edir, "facts", f"{r.get('n')}.json")
+            if r.get("slug") not in slugs or not os.path.exists(f):
+                continue
+            with open(f, encoding="utf-8") as fh:
+                doc = json.load(fh)
+            keep = [x for x in doc.get("facts") or []
+                    if x.get("value") not in absent.get(x.get("aspect"), {"none"})]
+            if len(keep) == len(doc.get("facts") or []):
+                continue
+            dropped += len(doc["facts"]) - len(keep)
+            doc["facts"] = keep
+            if not keep:
+                doc["claims"] = {k: (v if v.lower().startswith("nothing") else
+                                     "nothing: a database's no is not the absence the ladder asks for")
+                                 for k, v in (doc.get("claims") or {}).items()}
+            with open(f, "w", encoding="utf-8", newline="\n") as fh:
+                json.dump(doc, fh, ensure_ascii=False, indent=2)
+    print(f"{sid}: {dropped} absence fact(s) from a database dropped")
+    return 0
 
 
 def write_ledger(sid: str, led: dict) -> None:
@@ -380,6 +426,7 @@ def main(argv=None) -> int:
     p.add_argument("id")
     p.add_argument("--per-call", type=int, default=8)
     p.add_argument("--dir", default=os.path.join(PASSAGES, "_external_prompts"))
+    sub.add_parser("screen").add_argument("id")
     c = sub.add_parser("close")
     c.add_argument("id")
     a = ap.parse_args(argv)
@@ -387,6 +434,8 @@ def main(argv=None) -> int:
         return order()
     if a.cmd == "plan":
         return plan(a.id, a.per_call, a.dir)
+    if a.cmd == "screen":
+        return screen(a.id)
     return close(a.id)
 
 

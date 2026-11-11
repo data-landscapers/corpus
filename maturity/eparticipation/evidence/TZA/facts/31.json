@@ -1,0 +1,11 @@
+{
+  "slug": "2021-01-01-tza-kaoza-one-stop-government-portal-public-service-delivery",
+  "facts": [],
+  "systems": [
+    {"system": "One-Stop Government Portal (www.tanzania.go.tz)", "country_label": "Tanzania", "class": "other", "platform": "tanzania.go.tz", "owner": "Government of Tanzania", "tiers": ""}
+  ],
+  "claims": {
+    "gtmi-d993e188da": "nothing: the paper describes a public-service portal launched 2013, not a consultation channel"
+  },
+  "note": "The paper studies service delivery through the portal; it states no consultation or participation on policy."
+}

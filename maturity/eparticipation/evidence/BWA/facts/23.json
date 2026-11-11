@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "The record's No is contradicted by dated comment calls in evidence.csv; the open government portal line is not a participation channel.",
+  "claims": {
+    "gtmi-86de8f50d1": "nothing: open government portal, not a participation channel",
+    "gtmi-6b37c85e89": "nothing: contradicted by BWA-002"
+  }
+}

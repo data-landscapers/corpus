@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "eparticipation", "aspect": "online", "value": "standing", "fact": "Tunisia's government told the World Bank's GovTech survey (2025) that e-people.gov.tn is a national platform allowing citizens to take part in policy decision-making; the year is the survey round's, the record gives none.", "as_of": "2025", "date_precision": "year", "system": "e-people", "class": "eparticipation"}
+  ],
+  "systems": [
+    {"system": "e-people", "country_label": "Tunisia", "class": "eparticipation", "platform": "e-people.gov.tn", "owner": "", "tiers": ""}
+  ],
+  "claims": {
+    "gtmi-2397439d08": "nothing: open government portal (OGP Tunisia site), not a consultation channel",
+    "gtmi-fc145db111": "fact"
+  },
+  "note": ""
+}

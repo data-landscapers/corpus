@@ -10,6 +10,7 @@ BFA,plaintes.gov.bf,Burkina Faso,feedback,web portal,Ministry of Public Service,
 BFA,Alerte-BCLCC,Alerte-BCLCC,other,,BCLCC,,2025-07-10-bfa-le-burkina-intensifie-ses-efforts-en-faveur-de-la-cybersecurite
 BFA,Lafiako,Burkina Faso,feedback,web platform,Ministry of Health,national,2026-11-02-bfa-lafiako-plateforme-numerique-plaintes-sante
 BWA,BW Speaks,Botswana,feedback,web,Parliament of Botswana,,2022-07-29-bwa-mmegi-parly-launches-bwspeaks
+BWA,Botswana Speaks,Botswana,feedback,web,Government of Botswana,,2025-12-18-worldbank-govtech-dataset-dec2025
 CIV,Miliê,Côte d'Ivoire,feedback,web portal,Ministry of Administrative Modernisation,,2019-02-07-civ-abidjannet-portail-citoyen-milie
 CIV,Miliê,Côte d'Ivoire,feedback,portal,,,2022-01-13-civ-abidjannet-cicg-outil-numerique-administration
 CIV,"OQSF-CI complaint channels (green line, email, edufina.oqsfci.org)",Cote d'Ivoire,other,"phone, email, web",Observatoire de la Qualite des Services Financiers,,2025-07-05-civ-infocentrale-oqsf-plateformes-plaintes
@@ -23,6 +24,7 @@ COM,Grievance Redress Mechanism (Food Systems Resilience Programme),Comoros,othe
 CPV,Participa Cidadão,Cabo Verde,feedback,mobile app/web,Casa do Cidadão,,2017-02-01-cpv-governo-participa-cidadao-apps
 CPV,eParticipa,Cabo Verde,feedback,eparticipa.gov.cv,Casa do Cidadao,,2021-01-19-cpv-provedor-justica-casa-cidadao-eparticipa
 CPV,E-participa,Cabo Verde,feedback,,Government of Cabo Verde,,2024-05-30-cpv-cabo-verde-tem-dado-passos-consistentes-que-demonstram-o-compromisso-d
+CPV,eParticipa (Participa Cidadao),Cabo Verde,feedback,web and mobile app,Casa do Cidadao,,2026-01-01-cabo-verde-eparticipa-plataforma-participacao-cidada
 DJI,E-DOLÉANCES,Djibouti,feedback,web portal (doleances.arulos.dj),Agence de Réhabilitation Urbaine et de Logement Social (ARULoS),sectoral,2026-08-31-arulos-e-doleances-plateforme-gestion-doleances
 DZA,registre des doléances des citoyens,Algeria,other,,Médiateur de la République,,2026-05-24-dz-aps-numerisation-registre-doleances
 DZA,portail electronique des registres de doleances,Algeria,feedback,,Mediateur de la Republique,,2023-10-28-dza-echodalgerie-portail-doleances-mediateur
@@ -42,6 +44,7 @@ EGY,Unified Government Complaints System,Egypt,feedback,"hotline 16528, portal, 
 EGY,Unified Government Complaints System,Egypt,feedback,"shakwa.eg portal, Fi Khedmetak app, WhatsApp, hotline 16528",Cabinet,,2024-01-18-egy-cabinet-unified-complaints-system-2023-harvest
 ETH,Fast Access Portal,Ethiopia,feedback,web portal,Ethiopian Institution of the Ombudsman,,2026-10-17-eth-ombudsman-portal-landing
 ETH,Adera,Ethiopia,feedback,web,Ethiopian Investment Holdings,,2026-01-01-eth-birrmetrics-eih-adera-complaints-platform
+ETH,ecompliant.gov.et,Ethiopia,feedback,web,Government of Ethiopia,,2025-12-18-worldbank-govtech-dataset-dec2025
 GAB,Identity Secu,Gabon,other,mobile app (Play Store),Gendarmerie Nationale,national,2026-05-08-gab-securite-et-digitalisation-identity-secu-debarque-a-la-brigade-du-pk9
 GAB,DGDI portal Espace Reclamation,Gabon,feedback,edgdi.dgdi.ga,DGDI,,2023-11-13-gab-techies-dgdi-portail-reclamations
 GAB,Identitysecu,Gabon,feedback,mobile app,Inspection générale des Forces de police nationale / Group IDENTITY,,2026-10-30-gab-digitalisation-identitysecu-une-innovation-au-service-des-usagers-et-d
@@ -127,6 +130,7 @@ ZAF,WhatsApp channel for the Presidential Hotline,South Africa,other,messaging,D
 ZAF,Livi Lemphakatsi Citizen App,South Africa,feedback,mobile app,Mpumalanga Provincial Government (Office of the Premier),,2025-04-29-zaf-mpumalanga-government-launches-a-groundbreaking-new-citizen-engagement
 ZAF,Tshwane App,South Africa,feedback,"mobile app, WhatsApp",City of Tshwane,metro,2025-07-11-zaf-mobile-app-to-bring-service-delivery-closer-to-residents
 ZMB,Citizens Support Services Portal,Citizens Support Portal,feedback,"portal, email, SMS, voice, WhatsApp, Facebook, mobile app, chatbot","SMART Zambia Institute (E-Government Division, Office of the President)",,2024-07-08-zmb-szi-citizens-support-portal-developed
+ZMB,Citizens Support Services Portal,Zambia,feedback,web portal,SMART Zambia Institute,,2025-12-18-worldbank-govtech-dataset-dec2025
 ZWE,Digital Grievance Redress Mechanism,Zimbabwe,feedback,mobile app and feedback booths,Ministry of Health and Child Care,health sector,2025-07-04-zwe-anchor-mohcc-digital-complaint-system
 ZWE,Grievance Redress Feedback Mechanism,Zimbabwe,feedback,,"Ministry of Public Service, Labour and Social Welfare",,2026-04-01-zwe-zim-tests-grievance-system-model-abroad
 ZWE,Citizen Engagement Scorecard,Zimbabwe,feedback,web,City of Bulawayo,,2026-08-19-zwe-bulawayo-launches-citizen-engagement-scorecard-to-improve-service-deli

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "feedback",
-      "stage": "unplaced",
-      "channel": "",
+      "stage": "2",
+      "channel": "underway",
       "reach": "",
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.",
-      "note": "Parliament's BW Speaks platform is on record from July 2022 only, before the three-year window. Nothing inside the window answers question 1.",
-      "as_at": "2026-11-04"
+      "stage_sources": "BWA-002",
+      "gaps": "No source found since October 2023 says: is one in service with cases on record.",
+      "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py.",
+      "as_at": "2026-11-11"
     }
   ]
 }

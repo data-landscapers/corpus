@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "The record's Yes on a participation platform (consultapublica.gov.ao) is already held in evidence.csv; the open government portal line is not a participation channel.",
+  "claims": {
+    "gtmi-39d6778302": "nothing: open government portal, not a participation channel",
+    "gtmi-23425dff03": "nothing: held as AGO-002"
+  }
+}

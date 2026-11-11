@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "eparticipation", "aspect": "online", "value": "standing", "fact": "Tanzania's government told the World Bank's GovTech survey (2025) that edodoso.gov.go.tz is a national platform allowing citizens to take part in policy decision-making; the year is the survey round's, the record gives none.", "as_of": "2025", "date_precision": "year", "system": "e-Dodoso", "class": "eparticipation"}
+  ],
+  "systems": [
+    {"system": "e-Dodoso", "country_label": "Tanzania", "class": "eparticipation", "platform": "edodoso.gov.go.tz", "owner": "", "tiers": ""}
+  ],
+  "claims": {
+    "gtmi-3b2692ba43": "fact"
+  },
+  "note": ""
+}

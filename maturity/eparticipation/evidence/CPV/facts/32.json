@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "eparticipation", "aspect": "online", "value": "standing", "fact": "The government told the World Bank's GovTech survey (2025) that Cape Verde has a national platform for citizens to take part in policy decision-making, linking eparticipa.gov.cv; the line gives no year, so the survey round's year is used.", "as_of": "2025", "date_precision": "year", "system": "eparticipa.gov.cv", "class": "eparticipation"}
+  ],
+  "systems": [
+    {"system": "eparticipa.gov.cv", "country_label": "Cape Verde", "class": "eparticipation", "platform": "", "owner": "Government of Cabo Verde", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-d6d13899d2": "nothing: open government portal, not a participation channel",
+    "gtmi-ff0a7de99f": "The government told the World Bank's GovTech survey (2025) that Cape Verde has a national platform for citizens to take part in policy decision-making, linking eparticipa.gov.cv; the line gives no year, so the survey round's year is used."
+  }
+}
