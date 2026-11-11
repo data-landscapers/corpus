@@ -1,0 +1,15 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Carnegie's tracker lists laws and policies by name only; none states an authentication, e-signature or PKI service.",
+  "claims": {
+    "aftech-73de885146": "nothing: a law listed by name, no service stated",
+    "aftech-60efc36811": "nothing: a regulation listed by name, no service stated",
+    "aftech-a6dcdfd308": "nothing: a law on network protection, not assessed",
+    "aftech-3c03315a3b": "nothing: an interoperability plan, not an authentication service",
+    "aftech-5f6c390b58": "nothing: a convention resolution, not assessed",
+    "aftech-9f02d2af47": "nothing: a mobile phone traceability law, not assessed",
+    "aftech-cdedc14ad6": "nothing: a ratification letter, not assessed"
+  }
+}

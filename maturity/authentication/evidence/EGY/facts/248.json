@@ -1,0 +1,15 @@
+{
+  "slug": "2005-10-01-egy-mcit-egypts-information-society-fourth-edition",
+  "facts": [
+    {"sub_indicator": "authentication", "aspect": "service", "value": "underway",
+     "fact": "Egypt's Information Society report (MCIT, fourth edition) says a programme is designing and deploying an Egyptian Public Key System and has prepared an initial study for PKI design and deployment in government; as_of is the report's publication date, which gives no event date.",
+     "as_of": "2005-10", "date_precision": "month", "system": "Egyptian Public Key System (PKS)", "class": "authentication"}
+  ],
+  "systems": [
+    {"system": "Egyptian Public Key System (PKS)", "country_label": "Egypt", "class": "authentication", "platform": "", "owner": "MCIT", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "aftech-83df59c63e": "fact"
+  }
+}

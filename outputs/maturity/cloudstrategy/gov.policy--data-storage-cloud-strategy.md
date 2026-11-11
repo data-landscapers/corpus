@@ -21,12 +21,12 @@ The African Union's Data Policy Framework asks each state to set rules for hosti
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 5 |
+| 4 Operating | 6 |
 | 3 Established | 10 |
 | 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 28 |
+| No evidence | 27 |
 
 ## Countries
 
@@ -45,6 +45,13 @@ Burkina Faso tells public bodies to host nationally and opened two government cl
 - The ministry reported 120 public platforms inventoried for hosting in the country, the two inaugurated data centres being the destination, with repatriation begun and targeted for completion before end-2026; the document counts no body as having moved ([source, 2026-07-25](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/)).
 - ANPTIC's board chair set as the course for 2026 the repatriation of administrations' and institutions' data to the national data centres inaugurated in January 2026; no body is stated to have moved ([source, 2026-03-24](https://anptic.gov.bf/actualites/lanptic-tient-sa-1ere-session-ordinaire-du-conseil-dadministration-de-lannee-2026/)).
 - The government's "Zéro donnée à l'extérieur" chantier, one of the twelve digital-transformation chantiers to 2030, aims to host platforms and data on national territory, and the Prime Minister's half-year evaluation of 25 July 2026 reported it as under implementation ([source, 2026-07-25](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/)).
+
+### Mauritius: 4 Operating
+
+A 2020 procurement directive names the Government Online Centre as government hosting; which bodies have moved onto it is not known.
+
+- The same directive names the Government Online Centre as the hosting for common-use ICT solutions, with other data centres or clouds only as approved by the ministry; it gives no count of bodies moved ([source, 2020-12-15](https://ppo.govmu.org/Documents/Directives/Directives%202020/Directive%2053.pdf)).
+- The Procurement Policy Office's Directive No. 53, signed 10 December 2020 and effective 15 December 2020, requires ICT solutions of common use across ministries to be hosted at the Government Online Centre or another data centre or cloud approved by the Ministry of Information Technology, Communication and Innovation ([source, 2020-12-15](https://ppo.govmu.org/Documents/Directives/Directives%202020/Directive%2053.pdf)).
 
 ### Rwanda: 4 Operating
 
@@ -305,12 +312,6 @@ Not established: Nothing found names a government hosting or cloud policy, or sa
 ### Mali: No evidence
 
 Nothing found says Mali has a government hosting or cloud policy, or says it has none, so no stage is set.
-
-Not established: Nothing found names a government hosting or cloud policy, or says there is none.
-
-### Mauritius: No evidence
-
-Nothing found says Mauritius has a government hosting or cloud policy, or says it has none, so no stage is set.
 
 Not established: Nothing found names a government hosting or cloud policy, or says there is none.
 

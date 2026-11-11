@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "authentication",
-      "stage": "no evidence",
-      "service": "",
+      "stage": "2",
+      "service": "underway",
       "reach": "",
       "remote": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found names a digital authentication service, or says there is none.",
-      "note": "Rebuild: no evidence row has been found on authentication.",
-      "as_at": "2026-10-22"
+      "stage_sources": "MDG-001",
+      "gaps": "No source found since October 2023 says: is one in service.",
+      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
+      "as_at": "2026-11-11"
     }
   ]
 }

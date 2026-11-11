@@ -1,0 +1,19 @@
+{
+  "slug": "2018-11-01-egy-escc-national-cybersecurity-strategy-2017-2021",
+  "facts": [
+    {"sub_indicator": "authentication", "aspect": "service", "value": "inservice",
+     "fact": "Egypt's Supreme Cybersecurity Council strategy says e-signature rests on a PKI run through the ITIDA Egyptian Root CA and the Ministry of Finance's Government Electronic Certification Authority; as_of is the document's November 2018 update date.",
+     "as_of": "2018-11", "date_precision": "month", "system": "ITIDA Egyptian Root CA and Gov-CA", "class": "authentication"},
+    {"sub_indicator": "authentication", "aspect": "reach", "value": "several",
+     "fact": "The strategy says e-signature services are also provided by companies licensed by ITIDA, alongside the Root CA and the Gov-CA; as_of is the document's November 2018 update date.",
+     "as_of": "2018-11", "date_precision": "month", "system": "ITIDA-licensed e-signature providers", "class": "authentication"}
+  ],
+  "systems": [
+    {"system": "ITIDA Egyptian Root CA", "country_label": "Egypt", "class": "authentication", "platform": "PKI", "owner": "ITIDA", "tiers": ""},
+    {"system": "Government Electronic Certification Authority (Gov-CA)", "country_label": "Egypt", "class": "authentication", "platform": "PKI", "owner": "Ministry of Finance", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "aftech-855200524c": "fact"
+  }
+}

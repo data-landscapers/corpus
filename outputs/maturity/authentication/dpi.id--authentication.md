@@ -23,10 +23,10 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 | 5 Leading | 14 |
 | 4 Operating | 14 |
 | 3 Established | 9 |
-| 2 Nascent | 9 |
+| 2 Nascent | 10 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 6 |
+| No evidence | 5 |
 
 ## Countries
 
@@ -347,6 +347,12 @@ An authentication or e-signature service was under way in 2026; none in service 
 
 - The General Information Authority and the Central Bank of Libya reviewed linking the Level 3 biometric digital identity to banking systems for eKYC, and technical trials with the Central Bank and a number of banks had already begun as a prelude to launch and integration (the document gives no trial date, so its published date is used) ([source, 2026-04-19](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/)).
 
+### Madagascar: 2 Nascent
+
+A digital signature rule and a key infrastructure were in place but unused in 2025; whether any service now uses them is not known.
+
+- The government told the World Bank's GovTech survey (2025) that a digital signature regulation and a PKI are in place but not yet used; the line gives no earlier year, so as_of is the survey round's 2025 ([source, 2025](https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset)).
+
 ### Niger: 2 Nascent
 
 An authentication or e-signature service was under way in 2026; none in service is on record.
@@ -392,12 +398,6 @@ Nothing found names a digital authentication service or says there is none, so n
 Not established: Nothing found names a digital authentication service, or says there is none.
 
 ### Guinea-Bissau: No evidence
-
-Nothing found names a digital authentication service or says there is none, so no stage is set.
-
-Not established: Nothing found names a digital authentication service, or says there is none.
-
-### Madagascar: No evidence
 
 Nothing found names a digital authentication service or says there is none, so no stage is set.
 

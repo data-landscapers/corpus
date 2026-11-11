@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "The database line records a 2014 regulation with no PKI; a regulation with no service is not an aspect value.",
+  "claims": {
+    "gtmi-ed57d83cfe": "nothing: regulation only, no PKI or service stated"
+  }
+}

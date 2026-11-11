@@ -1,0 +1,16 @@
+{
+  "slug": "2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar",
+  "facts": [
+    {"sub_indicator": "authentication", "aspect": "service", "value": "inservice",
+     "fact": "Benin's ASIN speakers told a CDPI peer-learning webinar that the country has achieved a national PKI, part of a dual PKI system supporting digital signatures and authentication; as_of is the article's publication date, which gives no event date.",
+     "as_of": "2025-06-23", "date_precision": "day", "system": "national PKI", "class": "authentication"}
+  ],
+  "systems": [
+    {"system": "national PKI (dual PKI system)", "country_label": "Benin", "class": "authentication", "platform": "", "owner": "ASIN", "tiers": ""},
+    {"system": "UXP", "country_label": "Benin", "class": "other", "platform": "Cybernetica UXP", "owner": "ASIN", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-db9c2379a7": "fact"
+  }
+}

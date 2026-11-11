@@ -1,0 +1,14 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Carnegie lists policies and a 2018 e-signature proclamation by name only; no service is stated.",
+  "claims": {
+    "aftech-af9b9b550c": "nothing: an open data policy, not assessed",
+    "aftech-b00f6381bc": "nothing: an ICT policy, no authentication service stated",
+    "aftech-3cc3410abc": "nothing: a proclamation listed by name, no service stated",
+    "aftech-d06a77dfcc": "nothing: a payments strategy, not assessed",
+    "aftech-6ee44f0900": "nothing: a digital strategy, no authentication service stated",
+    "aftech-a884652e64": "nothing: an AI policy, not assessed"
+  }
+}

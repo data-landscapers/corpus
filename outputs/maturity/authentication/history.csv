@@ -90,3 +90,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-04,EGY,dpi.id--authentication,fact,4,4,EGY-005;EGY-007;EGY-013,"Digital Identity app reported needed for some Digital Egypt services (Aug 2026), but the minister says identity checks still in development (Oct 2026); stays 4"
 2026-11-08,CIV,dpi.id--authentication,fact,4,4,CIV-005;CIV-004;CIV-010;CIV-011,"ONECI's director general said the ID card was digitised through MyONECI+ (June 2025), but nothing shows it accepted as proof, so remote proof is not met: stage 4 stands."
 2026-11-10,SWZ,dpi.id--authentication,fact,3,3,SWZ-005;SWZ-003;SWZ-002,"Ecofin, Oct 2025: central bank launched an e-KYC registry for banks, financial institutions and certain public bodies; no public body shown using it, stays 3"
+2026-11-11,MDG,dpi.id--authentication,fact,no evidence,2,MDG-001,"External claims (housekeeping 58): GovTech (2025) records a digital signature regulation and PKI in place but not yet in use; under way, 2"
