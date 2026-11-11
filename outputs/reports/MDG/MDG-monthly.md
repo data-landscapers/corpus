@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: MDG
 ledger_rows: 26
 not_held: 5
-record: 08f3d9c0e6af
+record: 65b33f255393
 ---
 
 # News, Oct – Nov 2026
@@ -362,7 +362,7 @@ Madagascar's anti-corruption bureau BIANCO launched i-Fanagna, a platform for fi
 
 **[MADAGASCAR : L’APMF LANCE UNE NOUVELLE PHASE DU PROGRAMME "INTEGRATE – MADAGASCAR" POUR LA MISE EN PLACE DU GUICHET UNIQUE MARITIME - Ports Africa](https://portsafrica.com/fr/madagascar-lapmf-lance-une-nouvelle-phase-du-programme-integrate-madagascar-pour-la-mise-en-place-du-guichet-unique-maritime/)** — Ports Africa, 9 November 2026
 
-Indonesia-assisted phase two from 9 Nov 2026; FAL-compliant maritime single window, procedure mapping and data roadmap.
+Madagascar's port and maritime agency, APMF, launched the second phase of INTEGRATE-Madagascar on 9 November 2026. Indonesia is giving technical assistance to set up a Maritime Single Window under the IMO FAL Convention. Experts from both countries are to draft a roadmap by 17 November.
 
 </div>
 

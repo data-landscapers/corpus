@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: COD
 ledger_rows: 45
 not_held: 6
-record: 5d8c32ee7555
+record: db35ada20117
 ---
 
 # News, Oct – Nov 2026
@@ -614,7 +614,7 @@ North Kivu's Provincial Digital Development and Archives Unit (CPDA) restarted i
 
 **[Lancement du recensement fiscal digitalisé des propriétés immobilières à Kindu](https://www.radiookapi.net/2026/11/09/actualite/societe/lancement-du-recensement-fiscal-digitalise-des-proprietes-immobilieres)** — Radio Okapi, 9 November 2026
 
-Maniema taxpayer file for land, rental and vehicle taxes; census with THE WIN from 9 Nov 2026; payment from Jan 2027.
+Maniema province in the DRC began a digitalised census of plots in Kindu on 9 November 2026, Radio Okapi reported. The firm THE WIN is building a provincial taxpayer file for land, rental-income and vehicle taxes. Payments are due to start in January 2027.
 
 </div>
 

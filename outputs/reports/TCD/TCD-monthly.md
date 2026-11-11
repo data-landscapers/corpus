@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: TCD
 ledger_rows: 17
 not_held: 22
-record: 44eca8ad49e8
+record: a00d3608b55f
 ---
 
 # News, Oct – Nov 2026
@@ -270,7 +270,7 @@ Chad's education ministry gave biometric staff cards to academy rectors on 30 Oc
 
 **[Santé Numérique au Tchad : Un comité technique mobilisé pour accélérer la transformation du système sanitaire - MEDD TV INFO](https://meddtvinfo.com/sante-numerique-au-tchad-un-comite-technique-mobilise-pour-accelerer-la-transformation-du-systeme-sanitaire/)** — MEDD TV INFO, 9 November 2026
 
-Arrêté widens committee's remit; e-patient records and telemedicine oversight; meets every two months.
+Chad's technical committee on digital health met in N'Djamena on 9 November 2026, MEDD TV INFO reported. A recent ministerial order widened its members and missions, including patient records and telemedicine. It works under the 2025-2030 digital health plan and is to meet every two months.
 
 </div>
 

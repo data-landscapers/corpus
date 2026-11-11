@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: UGA
 ledger_rows: 40
 not_held: 12
-record: 6f179e91ed54
+record: 95b8812198b2
 ---
 
 # News, Oct – Nov 2026
@@ -284,7 +284,7 @@ The Uganda Bureau of Statistics signed a memorandum with Statistics Denmark and 
 
 **[Strengthening Disaster Risk Knowledge and Governance for Water Related Climate Resilience in Uganda](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-766180)** — Food and Agriculture Organization (FAO), 31 October 2026
 
-USD 250,000 FAO grant to update and digitalise Uganda's 2019 National Risk and Vulnerability Atlas, to June 2027.
+FAO reported a USD 250,000 grant to Uganda in its IATI file, committed on 31 October 2026. It is to update and digitalise the 2019 National Risk and Vulnerability Atlas by June 2027. USD 39,622 had been disbursed.
 
 </div>
 
@@ -682,7 +682,7 @@ The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe Intern
 
 **[Ubuntu in Action: MAREN and RENU Sign MoU to Advance Research and Education in Africa!](https://maren.ac.mw/ubuntu-in-action-maren-and-renu-sign-mou-to-advance-research-and-education-in-africa/)** — MAREN, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
 
-Malawi and Uganda research and education networks sign MoU at UbuntuNet-Connect 2026 in Lilongwe.
+The research and education networks of Malawi (MAREN) and Uganda (RENU) signed a memorandum of understanding at UbuntuNet-Connect 2026 in Lilongwe. The chief executives, Solomon Dindi and Nicholas Mbonimpa, signed it. It covers institutional collaboration and the sharing of knowledge and experience.
 
 </div>
 
@@ -720,7 +720,7 @@ Uganda's gender ministry said, as reported on 19 October 2026, that about 43,000
 
 **[Request for Bids | Small Works (One-Envelope Bidding Process) · National Information Technology Authority- Uganda (NITA-U) · TenderPilot](https://tenderpilotug.com/t/gu-110198)** — TenderPilot (NITA-U notice), 9 November 2026
 
-NITA-U tender under World Bank-financed UDAP: telecentre connectivity in three refugee-host regions; closes 3 Dec 2026.
+Uganda's NITA-U invited bids on 9 November 2026 for telecentre infrastructure and connectivity in refugee-host communities. The contract, under the World Bank-financed Uganda Digital Acceleration Project, has three regional lots. Bids close on 3 December 2026.
 
 </div>
 

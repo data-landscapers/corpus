@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: MLI
 ledger_rows: 13
 not_held: 1
-record: 683f9ab892fb
+record: ed84d0e611e9
 ---
 
 # News, Oct – Nov 2026
@@ -96,7 +96,7 @@ Maliweb reported on 8 November 2026 that Bamako hosted the second coordination m
 
 **[Modernisation de la justice, renforcement de l’État de droit : Le PNUD offre des équipements et des codes au département de la Justice](https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html)** — Le Challenger via Maliweb, 9 November 2026
 
-USD 493,193 UNDP-Netherlands kit handed over 5 Nov 2026; e-justice to issue criminal records, nationality certificates.
+Mali's Justice Minister, Mamoudou Kassogué, said on 5 November 2026 that an e-justice platform is going into operation. Its first services are digital criminal-record extracts and nationality certificates. UNDP handed over equipment and penal codes worth USD 493,193 under its Netherlands-supported PROSMED programme.
 
 </div>
 
@@ -104,7 +104,7 @@ USD 493,193 UNDP-Netherlands kit handed over 5 Nov 2026; e-justice to issue crim
 
 **[Netherlands (DGIS) via UNDP — Mali Ministry of Justice, e-justice IT equipment and penal codes (PROSMED), 2026](https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html)** — Le Challenger via Maliweb, 9 November 2026
 
-USD 493,193 in-kind grant through UNDP's PROSMED to Mali's justice ministry, handed over 5 Nov 2026.
+UNDP handed Mali's Ministry of Justice IT equipment and new penal codes worth USD 493,193 on 5 November 2026. The Netherlands supports the PROSMED programme behind the gift. Laptops, tablets and internet modems are to equip the ministry's e-justice platform.
 
 </div>
 

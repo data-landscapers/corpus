@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: ZAF
 ledger_rows: 96
 not_held: 19
-record: f3d0c6c03da9
+record: 8527bf2cecd9
 ---
 
 # News, Oct – Nov 2026
@@ -344,7 +344,7 @@ The UK Foreign, Commonwealth and Development Office committed GBP 70,000 on 7 Oc
 
 **[South Africa’s Yoco Secures $100 Million Credit Facility to Expand SME Financing](https://techafricanews.com/2026/11/10/south-africa-yoco-secures-100-million-credit-facility-sme-financing/)** — Tech Africa News, 10 November 2026
 
-Lender Victory Park Capital; pre-approved offers from merchants' sales data, repaid from daily takings.
+South African fintech Yoco secured a US$100 million credit facility from Victory Park Capital Advisors to expand its Yoco Capital merchant financing, Tech Africa News reported on 10 November 2026. Offers are pre-approved on merchants' sales data and repaid from daily takings. Yoco says it has provided more than R6.5 billion to over 40,000 merchants since 2018.
 
 </div>
 
@@ -556,7 +556,7 @@ The African IXP Association's page, on file under 9 November 2026, lists Interne
 
 **[ICASA Notice 4249 of 2026: Questionnaire on the Assignment of High-Demand Radio Frequency Spectrum, Government Gazette No. 55706](https://www.gazettefinder.co.za/gazettes/government-gazette/2026/55706/government-gazette-55706-2026-11-09.pdf)** — Independent Communications Authority of South Africa (ICASA), Government Gazette No. 55706, 9 November 2026
 
-Gazetted questions: 2022 auction review, ex-WOAN 80 MHz, SDIC set-aside, band-by-band use of 2022 spectrum; due 30 Nov.
+ICASA published a questionnaire on assigning high-demand spectrum in the Government Gazette on 9 November 2026. It asks whether 80 MHz no longer reserved for a wholesale open access network should be included. Responses are due by 30 November 2026.
 
 </div>
 
@@ -564,7 +564,7 @@ Gazetted questions: 2022 auction review, ex-WOAN 80 MHz, SDIC set-aside, band-by
 
 **[ICASA invites stakeholder input on the planned licensing of high-demand spectrum](https://www.icasa.org.za/news/2026/icasa-invites-stakeholder-input-on-the-planned-licensing-of-high-demand-spectrum)** — ICASA, 10 November 2026
 
-Questionnaire on six IMT bands plus 80MHz once reserved for WOAN; responses due 30 November 2026.
+ICASA opened a stakeholder questionnaire on 10 November 2026 on the second phase of licensing high-demand IMT spectrum. It covers the IMT750, IMT800, IMT1500, IMT2300, IMT3300 and IMT3500 bands. It may also cover the 80 MHz once reserved for the Wireless Open Access Network. Responses are due by 16h00 on 30 November 2026, before an Information Memorandum and an Invitation to Apply.
 
 </div>
 
@@ -1266,7 +1266,7 @@ South Africa's home affairs minister said a biometric online platform for asylum
 
 **[Home Affairs launches first phase of Digital Asylum System to cut delays, clear backlogs, and combat abuse](https://www.gov.za/news/media-statements/home-affairs-launches-first-phase-digital-asylum-system-cut-delays-clear)** — South African Government (Department of Home Affairs), 10 November 2026
 
-Intention-to-apply portal live 10 Nov 2026 with facial biometrics; AI tools promised for the appeals backlog.
+South Africa's Department of Home Affairs opened the first phase of its Digital Asylum System to test cases on 10 November 2026. The portal on Myhomeaffairsonline records intentions to apply for asylum, with facial biometrics, personal details and documents. Public intake follows the next weekend software release. The department says later phases will add biometric checks and AI tools for the appeals backlog.
 
 </div>
 

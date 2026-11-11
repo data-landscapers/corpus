@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: GAB
 ledger_rows: 36
 not_held: 12
-record: 98f05983aea5
+record: 6dfe06f8d56d
 ---
 
 # News, Oct – Nov 2026
@@ -728,7 +728,7 @@ Gabon's government and Huawei signed three memoranda of understanding and a dona
 
 **[Gabon : Huawei et l’État concluent trois accords pour accélérer la transformation numérique du pays](https://gaboninfos.com/gabon-huawei-etat-concluent-trois-accords-accelerer-transformation-numerique-pays/)** — Gabon Infos, 9 November 2026
 
-Security accord's content: smart urban surveillance, border systems; fibre, Wi-Fi 6 and 5G for universities.
+Gabon Infos reported on 9 November 2026 three memoranda between the Gabonese state and Huawei, signed in Shanghai. They cover fibre, Wi-Fi 6 and 5G for public universities, and AI training centres. The security accord covers smart urban surveillance, border-zone systems and linked security infrastructure.
 
 </div>
 

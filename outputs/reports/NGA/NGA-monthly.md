@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: NGA
 ledger_rows: 93
 not_held: 9
-record: fe0826259704
+record: 49e84cb94f8a
 ---
 
 # News, Oct – Nov 2026
@@ -110,7 +110,7 @@ A Sangmyung University consortium ran a study visit to Korea for Nigerian senior
 
 **[NITDA Unveils Digital Dashboard To Track Nigeria’s Transformation Progress - Matrix News](https://matrixngr.com/2026/11/09/nitda-unveils-digital-dashboard-to-track-nigerias-transformation-progress/)** — Matrix News, 9 November 2026
 
-Public tracker at dtd.nitda.gov.ng; built with GIZ Digital Transformation Center, EU and Denmark co-funding.
+Nigeria's NITDA launched a public dashboard tracking its Strategic Roadmap and Action Plan 2.0, as reported on 9 November 2026. It shows implementation updates and digital-economy indicators. GIZ's Digital Transformation Center Nigeria built it, with co-funding from the EU and Denmark.
 
 </div>
 
@@ -784,7 +784,7 @@ Nigeria's Border Control and Immigration Management System now holds more than 1
 
 **[Export processing on National Single Window begins December 14 - Businessday NG](https://businessday.ng/news/article/export-processing-on-national-single-window-begins-december-14/)** — BusinessDay NG, 10 November 2026
 
-Export permits go live 14 December in two batches; CBN, Customs, NEPZA follow Q1 2027; HS-code list by 1 December.
+Nigeria's National Single Window will open export processing on 14 December 2026, its secretariat said on 10 November 2026. A first group of permit-issuing agencies goes live then: NAQS, SON, NAFDAC, NACCIMA, FPIS and REX. CBN, Customs, NEPZA and four ministries follow in the first quarter of 2027. Customs' regulatory HS-code list is due by 1 December 2026 and will be enforced from 1 January 2027.
 
 </div>
 
@@ -1218,7 +1218,7 @@ An analysis of Nigeria's preliminary voter register, which lists more than 103 m
 
 **[Suspected AI-generated photos, duplicates trigger Nigeria biometric election cleanup](https://www.biometricupdate.com/202611/suspected-ai-generated-photos-duplicate-records-trigger-nigeria-biometric-election-cleanup)** — Biometric Update, 10 November 2026
 
-1.6m+ records removed; 217,722 of 268,000 adjudicated confirmed invalid; 54 staff in 10 states implicated.
+Nigeria's electoral commission, INEC, said it had removed more than 1.6 million invalid voter records after screening with its automated biometric identification system. Biometric Update reported this on 10 November 2026. Of 268,000 records adjudicated, 217,722 were confirmed invalid. INEC also identified 54 staff in 10 states implicated in registration irregularities, including AI-generated photographs, ahead of certifying the final register on 15 December 2026.
 
 </div>
 
@@ -1372,7 +1372,7 @@ Nigeria's Adamawa State began its Civil Service Digitisation and Capacity Buildi
 
 **[Osun State Enters Partnership with UK on Digital Transformation Drive](https://www.osunstate.gov.ng/2026/11/osun-state-enters-partnership-with-uk-on-digital-transformation-drive/)** — osunstate.gov.ng, 10 November 2026
 
-SPRIRET: policy, connectivity, DPI and civic-tech reforms, implemented by iDi; no amount or signing date stated.
+The Osun State governor's office announced on 10 November 2026 an agreement on SPRIRET, a project of the UK-funded Digital Access Programme. It covers digital-economy policy, connectivity, digital public infrastructure and civic technology, and will be implemented by the Initiative for Digital Inclusion. No amount was stated.
 
 </div>
 
@@ -1704,7 +1704,7 @@ Speakers at an Open Government Partnership webinar on 15 October 2026 said the l
 
 **[Nigerian Central Bank Digitalises Fiscal Data Collection - Voice of Nigeria](https://von.gov.ng/nigerian-central-bank-digitalises-fiscal-data-collection/)** — Voice of Nigeria, 10 November 2026
 
-Paper twice-yearly survey of 36 states, FCT and 774 LGAs goes digital and quarterly; 16 states trained by 6 November.
+The Central Bank of Nigeria is moving its Sub-National Fiscal Survey of the 36 states, the FCT and 774 local governments from paper to a digital platform. Its Statistics Department said returns will be quarterly instead of twice a year. Training had reached 16 states by 6 November 2026. The remaining states are due by 4 December, and the FCT on 9 and 10 December 2026.
 
 </div>
 

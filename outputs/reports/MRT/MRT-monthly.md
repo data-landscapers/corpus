@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: MRT
 ledger_rows: 17
 not_held: 3
-record: edd074c66741
+record: e6536cb92c1c
 ---
 
 # News, Oct – Nov 2026
@@ -132,7 +132,7 @@ Mauritania's regulator ARE fined Mauritel, Mattel and Chinguitel a combined MRU 
 
 **[MATTEL lance commercialement la 5G et dévoile sa filiale de paiement mobile MATTEL MONEY - Le Quotidien](https://lequotidien.mr/?p=42746)** — Le Quotidien, 9 November 2026
 
-5G live in Nouakchott and Nouadhibou from 9 Nov 2026; Tier III redundancy centre opened; Mattel Money presented.
+Mattel launched commercial 5G in Mauritania on 9 November 2026, starting in Nouakchott and Nouadhibou. It also opened a Tier III redundancy and network-supervision centre. The operator presented its e-money subsidiary Mattel Money and the Mechili wallet.
 
 </div>
 

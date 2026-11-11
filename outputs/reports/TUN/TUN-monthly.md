@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: TUN
 ledger_rows: 40
 not_held: 5
-record: 241cbd84390e
+record: 4e5dc932ab65
 ---
 
 # News, Oct – Nov 2026
@@ -176,7 +176,7 @@ Access Now reviewed exam-related internet shutdowns in the Middle East and North
 
 **[Tunisie : 356,8 millions $ pour la transformation numérique en 2027 face à des défis persistants](https://www.agenceecofin.com/actualites-numerique/0911-143235-tunisie-356-8-millions-pour-la-transformation-numerique-en-2027-face-a-des-defis-persistants)** — Agence Ecofin, 9 November 2026
 
-TND 1.07bn, up 9.3%; 1.5m digital IDs, 150 Khadamet services, data protection law revision planned.
+Tunisia's communication technologies minister presented a 2027 budget of TND 1.07 billion on 6 November 2026, up 9.3%, Agence Ecofin reported. The ministry aims for 150 services on the Khadamet app, from over 40 now. It also plans 1.5 million active digital identities and 200 interoperability services.
 
 </div>
 

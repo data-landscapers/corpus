@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: NAM
 ledger_rows: 17
 not_held: 9
-record: cde5071c239c
+record: 0814b77e3aea
 ---
 
 # News, Oct – Nov 2026
@@ -174,7 +174,7 @@ Namibia's NAM-CSIRT, housed at the regulator CRAN, recorded 506,143 vulnerabilit
 
 **[Namibia, Russia to share customs data to improve trade](https://neweralive.na/namibia-russia-to-share-customs-data-to-improve-trade/)** — New Era, 9 November 2026
 
-NamRA-Russia pact at third Russia-Africa summit; value, classification and origin data exchanged in confidence.
+The Namibia Revenue Agency signed a customs data agreement with Russia in Moscow, as reported on 9 November 2026. The two sides are to exchange customs information and trade statistics, treated as confidential. Implementation awaits the completion of both countries' procedures.
 
 </div>
 

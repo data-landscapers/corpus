@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: MAR
 ledger_rows: 26
 not_held: 14
-record: 78b6a8997f48
+record: 7a827b9f7dc3
 ---
 
 # News, Oct – Nov 2026
@@ -484,7 +484,7 @@ Morocco World News reported on 6 November 2026 that Moroccan customs (ADII) and 
 
 **[Ahmed Rahhou annonce une IA en darija en commission parlementaire](https://telquel.ma/instant-t/2026/11/10/ahmed-rahou-annonce-une-ia-en-darija-en-commission-parlementaire_2017563/)** — TelQuel, 10 November 2026
 
-Darija voice services, open-source national model and Mistral speech model; programme due 2027, per Al3omk and Alyaoum24.
+Morocco's minister for AI, digital transition and administrative reform, Ahmed Rahhou, presented his department's AI projects to a parliamentary committee on 10 November 2026. Reports by Al3omk and Alyaoum24, relayed by TelQuel, list voice services in Darija, a first open-source national language model and a speech-recognition model built with Mistral. The ministry expects to launch the programme in 2027.
 
 </div>
 
@@ -492,7 +492,7 @@ Darija voice services, open-source national model and Mistral speech model; prog
 
 **[Morocco develops national AI roadmap as government seeks to regulate technology use](https://en.hespress.com/148882-morocco-develops-national-ai-roadmap-as-government-seeks-to-regulate-technology-use.html)** — Hespress English, 10 November 2026
 
-2027 budget hearing, 10 Nov 2026: four Jazari institutes active; 2,800 procedures, 85,000-document AI corpus structured.
+Morocco's AI, Digital Transition and Administrative Reform Ministry presented its 2027 budget to the House of Representatives' Interior Committee on 10 November 2026. For sovereign AI services, it is structuring about 2,800 administrative procedures, nearly 10,000 legal texts and a first national corpus of 85,000 documents. Its data programme covers 10,000 hours of transcribed Darija audio and the roughly 90,000-text Adala legal base. It has opened four Jazari institutes.
 
 </div>
 
@@ -500,7 +500,7 @@ Darija voice services, open-source national model and Mistral speech model; prog
 
 **[بـ”الدارجة” ولجميع المغاربة.. الحكومة توظف الذكاء الاصطناعي لتبسيط 2800 مسطرة إدارية](https://al3omk.com/1208688.html)** — Al3omk, 10 November 2026
 
-Minister Rahhou to MPs, 10 Nov 2026: AI to speed law drafting, open Official Gazette archive 1918-2026 to AI tools.
+Ahmed Rahhou is Morocco's Minister of AI, Digital Transition and Administrative Reform. On 10 November 2026 he presented his ministry's 2027 sub-budget to the House of Representatives' Interior Committee. He said the ministry is using AI to find which of about 2,800 administrative procedures can be simplified. Al3omk reports he also said the 1918–2026 Official Gazette archive will be opened to AI tools to speed legal drafting and research.
 
 </div>
 

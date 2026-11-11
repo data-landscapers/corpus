@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: GHA
 ledger_rows: 65
 not_held: 9
-record: f9f06dbcc0aa
+record: 2f89e94961a5
 ---
 
 # News, Oct – Nov 2026
@@ -262,7 +262,7 @@ Ghana's communications minister, Samuel Nartey George, was confirmed as chair of
 
 **[Ghana - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/ghana/)** — International Telecommunication Union (statement by Ghana), 10 November 2026
 
-Minister's Doha statement: 5G to 70%+ of Ghanaians by March 2027; 2,016 rural sites; ITU Council and RRB candidacies.
+Ghana's communications minister, Samuel Nartey George, addressed the ITU Plenipotentiary Conference in Doha in November 2026. He said 5G will reach more than 70% of Ghanaians by March 2027. He cited 2,016 rural telephony sites being completed, 5G spectrum licensing and a National AI Compute Centre under construction. Ghana is standing for re-election to the ITU Council and has nominated NCA Director-General Edmund Yirenkyi Fianko for the Radio Regulations Board.
 
 </div>
 

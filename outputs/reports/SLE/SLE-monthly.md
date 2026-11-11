@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: SLE
 ledger_rows: 24
 not_held: 4
-record: 85d9274c0c2a
+record: b0ba1debdc6a
 ---
 
 # News, Oct – Nov 2026
@@ -286,7 +286,7 @@ Sierra Leone's National Investment Board showed its new Online Business Registra
 
 **[EU and WFP Support Strengthened Data Systems for Sierra Leone’s School Feeding Programme | World Food Programme](https://www.wfp.org/news/eu-and-wfp-support-strengthened-data-systems-sierra-leones-school-feeding-programme)** — World Food Programme, 9 November 2026
 
-EUR 2 million EU contribution over two years; 80-plus staff trained; ODK and School Connect for school-feeding data.
+The EU is giving EUR 2 million over two years through WFP for Sierra Leone's school feeding data, WFP said on 9 November 2026. More than 80 government staff are to be trained in monitoring and evaluation. Open Data Kit and School Connect are being introduced for school-feeding data.
 
 </div>
 
@@ -370,7 +370,7 @@ Sierra Leone scored 0.72 out of 4 on the Africa AI Governance Index 2026, in the
 
 **[Sierra Leone Advances FinTech Innovation as UniPod Becomes Startup Acceleration Hub](https://spearnewssl.com/sierra-leone-advances-fintech-innovation-as-unipod-becomes-startup-acceleration-hub/)** — The Spear News SL, 10 November 2026
 
-UNCDF, EU and Bank of Sierra Leone partnership; startup acceleration with access to the central bank sandbox.
+A FinTech Innovation Lab has been set up at Sierra Leone's University Innovation Pod (UniPod) by UNCDF, the EU and the Bank of Sierra Leone, The Spear News SL reported on 10 November 2026. It gives early-stage fintech startups acceleration support and access to the central bank's regulatory sandbox. The date it was set up is not stated.
 
 </div>
 

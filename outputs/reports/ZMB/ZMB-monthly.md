@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: ZMB
 ledger_rows: 23
 not_held: 32
-record: 6e716612662b
+record: f80e0a4de09f
 ---
 
 # News, Oct – Nov 2026
@@ -240,7 +240,7 @@ Zambia's finance minister said the national services portal has collected about 
 
 **[Digital Tools Transform Zambia’s Farm Inputs, But Gaps Remain](https://agritechinsights.com/index.php/2026/11/08/digital-tools-transform-zambias-farm-inputs-but-gaps-remain/)** — AgriTech Insights, 8 November 2026
 
-Chongwe District study: 81% timely fertiliser access, 78% saw better transparency; activation, ID and payment gaps.
+A University of Zambia study, reported on 8 November 2026, examined the electronic Farmer Input Support Programme in Chongwe District. In the study, 81% of farmers reported timely fertiliser access and 78% saw more transparent allocation. It also found late activation, identity mismatches and slow payments to agro-dealers.
 
 </div>
 
@@ -322,7 +322,7 @@ Zambia's meteorological department and Ministry of Agriculture began building a 
 
 **[ZAMBIA STRIVES TO BRIDGE DIGITAL GAP - Zambia 24](https://zambia24.com/2026/11/09/zambia-strives-to-bridge-digital-gap/)** — Zambia 24, 9 November 2026
 
-Internet access 29.7% (2025) vs 25.2% (2022); 7.7% know ZamPortal; fifth survey since 2013, launched 9 Nov 2026.
+Zambia released its 2025 national survey on access and use of ICTs on 9 November 2026. Individual internet access was 29.7% in 2025, up from 25.2% in 2022. Only 7.7% of respondents knew of ZamPortal.
 
 </div>
 
@@ -472,7 +472,7 @@ Summarised under [US / hyperscaler activities](#us-hyperscaler-activities).
 
 **[ZAMBIA AND CHINA DEEPEN COOPERATION IN ARTIFICIAL INTELLIGENCE AND DIGITAL TECHNOLOGY](https://www.mots.gov.zm/?p=8085)** — Zambia Ministry of Technology and Science, 9 November 2026
 
-Lusaka seeks Huawei-backed AI data centre; Chinese-built centres storage-only; AI strategy near end of term.
+Zambia's Ministry of Technology and Science asked China, including Huawei, to help build an AI-enabled data centre on 9 November 2026. It said existing Chinese-built data centres were designed for storage. The two sides agreed to meet again within weeks on a roadmap.
 
 </div>
 

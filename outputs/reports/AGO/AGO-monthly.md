@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: AGO
 ledger_rows: 27
 not_held: 6
-record: 908e8f2a2a76
+record: f44f80ca6d56
 ---
 
 # News, Oct – Nov 2026
@@ -524,7 +524,7 @@ A presidential despacho signed on 14 October 2026 authorises USD 50 million to e
 
 **[Angola seeks stronger technology, investment ties with Qatar: Minister](https://thepeninsulaqatar.com/article/10/11/2026/angola-seeks-stronger-technology-investment-ties-with-qatar-minister)** — The Peninsula Qatar, 10 November 2026
 
-In an interview at the ITU Plenipotentiary Conference in Doha in November 2026, Angola's minister Mário Oliveira invited Qatari investors into Angola's technology sector. He said the Conecta Angola programme involves 71 small internet service providers, and that ANGOSAT-2 serves Mozambique, Namibia, Zambia and South Africa. He also said the SADC Shared Satellite Programme, led by Angola, has secured eight ITU orbital positions, The Peninsula reported.
+Angola's minister Mário Oliveira invited Qatari investors into Angola's technology sector in November 2026. He spoke in an interview at the ITU Plenipotentiary Conference in Doha, The Peninsula reported. He said the Conecta Angola programme involves 71 small internet service providers, and ANGOSAT-2 serves Mozambique, Namibia, Zambia and South Africa. He added that the SADC Shared Satellite Programme, led by Angola, has secured eight ITU orbital positions.
 
 </div>
 

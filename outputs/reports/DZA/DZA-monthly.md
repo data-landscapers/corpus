@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: DZA
 ledger_rows: 34
 not_held: 5
-record: d9b28328eb3d
+record: a87614a4814a
 ---
 
 # News, Oct – Nov 2026
@@ -234,7 +234,7 @@ Algeria inaugurated I-Cloud, described as its first wholly sovereign data centre
 
 **[Minister of Higher Education and Scientific Research discusses with Chinese delegation the project to establish an artificial intelligence data centre at the National Higher School of Artificial Intelligence](https://www.mesrs.dz/en/2026/11/minister-of-higher-education-and-scientific-research-discusses-with-chinese-delegation-the-project-to-establish-an-artificial-intelligence-data-centre-at-the-national-higher-school-of-artificial-intel/)** — Ministry of Higher Education and Scientific Research (Algeria), 9 November 2026
 
-Chinese delegation at ENSIA, Sidi Abdellah; equipment, timeline, regulatory talks; no firm, cost or date named.
+Algeria's higher-education minister, Kamel Baddari, met a Chinese delegation on 9 November 2026 about an AI data centre. The centre would sit at the National Higher School of Artificial Intelligence in Sidi Abdellah. The statement names no Chinese firm, cost or completion date.
 
 </div>
 
@@ -614,7 +614,7 @@ Algeria has reached a preliminary agreement with Roblox on a programme to train 
 
 **[Full Text of the Council of Ministers Meeting Statement](http://news.radioalgerie.dz/en/node/98524)** — Algerian Radio, 8 November 2026
 
-Ministries' statistics into the High Commission for Digitization platform; agriculture statistics department ordered.
+At the Council of Ministers on 8 November 2026, President Abdelmadjid Tebboune told ministers to load their statistics onto a national digital platform. The platform belongs to the High Commission for Digitization. The meeting also ordered a statistics department for agriculture.
 
 </div>
 

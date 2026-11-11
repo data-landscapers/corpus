@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: MOZ
 ledger_rows: 34
 not_held: 18
-record: bec37c1da346
+record: a6e6ea568a7c
 ---
 
 # News, Oct – Nov 2026
@@ -122,7 +122,7 @@ Mozambique's education and culture minister Edson Macuácua said on 22 October 2
 
 **[Revisão do Quadro de Interoperabilidade reforça a transformação digital dos serviços públicos](https://pt.linkedin.com/posts/intic-instituto-nacional-de-tecnologias-de-informa%C3%A7%C3%A3o-e-comunica%C3%A7%C3%A3o_revis%C3%A3o-do-quadro-de-interoperabilidade-refor%C3%A7a-activity-7520792996766699521-sTTA)** — INTIC, IP, 27 October 2026
 
-INTIC proposes revising Decree 67/2017 e-government interoperability framework; principles from 10 to 15.
+Mozambique's INTIC presented a proposed revision of Decree 67/2017, its e-government interoperability framework, in Maputo on 23 October 2026. The proposal raises the guiding principles from 10 to 15. New ones include technical neutrality, reuse, security by design and digital by default.
 
 </div>
 
@@ -212,7 +212,7 @@ Mozambique joined the SADC Regional Working Group on Data Protection through INT
 
 **[Moçambique e Portugal reforçam cooperação parlamentar](https://aimnews.org/2026/11/09/mocambique-e-portugal-reforcam-cooperacao-parlamentar/)** — AIM, 9 November 2026
 
-Parliamentary MoU signed in Maputo 9 Nov 2026; adds AI, archive management and digital-systems resilience.
+Mozambique's parliament and Portugal's parliament signed a cooperation memorandum in Maputo on 9 November 2026. It adds artificial intelligence, archive management and digital system resilience to their exchanges. Delegation visits, committee exchanges and staff training are also covered.
 
 </div>
 

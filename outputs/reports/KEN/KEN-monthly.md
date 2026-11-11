@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: KEN
 ledger_rows: 89
 not_held: 5
-record: c51986eef361
+record: cd2ed6e82ff3
 ---
 
 # News, Oct – Nov 2026
@@ -244,7 +244,7 @@ A former senior manager at a Kenyan bank testified, in a Sh1.5 billion data brea
 
 **[Kenya Nominates Lydia Sitienei as Second Data Commissioner](https://techafricanews.com/2026/11/10/kenya-nominates-lydia-sitienei-second-data-commissioner/)** — Tech Africa News, 10 November 2026
 
-CA legal director to succeed Immaculate Kassait; nomination sent to National Assembly under the Data Protection Act.
+President Ruto nominated Lydia Sitienei, director of legal services at the Communications Authority of Kenya, as the country's second Data Commissioner, Tech Africa News reported on 10 November 2026. The nomination has gone to the National Assembly for approval. She would succeed Immaculate Kassait, the first commissioner, at the end of her six-year term.
 
 </div>
 
@@ -504,7 +504,7 @@ Kenya's National Cybersecurity Agency Board, chaired by Martin Koyabe, was inaug
 
 **[Launch of the SecureKE/Konza Sovereign Security Operations Centre (SOC)](https://ict.go.ke/launch-securekekonza-sovereign-security-operations-centre-soc)** — Ministry of Information, Communications and the Digital Economy (Kenya), 10 November 2026
 
-Konza Technopolis–SecureKE partnership; monitoring, threat detection, incident response for public and private sectors.
+Kenya's ICT Principal Secretary, John Tanui, launched the SecureKE/Konza Sovereign Security Operations Centre, reported on 10 November 2026. The centre is a partnership between the Konza Technopolis Development Authority and SecureKE. It offers public and private institutions continuous monitoring, threat detection, incident investigation and coordinated response, according to the ICT ministry.
 
 </div>
 
@@ -754,7 +754,7 @@ Kenya's Postbank joined the Pesalink network, reported on 4 November 2026, so cu
 
 **[Why lower transfer fees cannot easily break M-PESA’s mobile money dominance](https://techcabal.com/2026/11/10/pricing-gaps-m-pesa-pesalink-kenya/)** — TechCabal, 10 November 2026
 
-PesaLink at 80 institutions, KES 4bn a day; 19 banks on KES 20 flat fee while Equity and Co-op set their own.
+Postbank's entry to PesaLink brings Kenya's interbank payments network to 80 institutions, including all 38 licensed commercial banks. PesaLink says it processes an average of KES 4 billion a day, up 24% on a year earlier. TechCabal compares bank tariffs, with 19 banks on a flat KES 20 fee, and asks whether lower fees can draw users from M-PESA.
 
 </div>
 

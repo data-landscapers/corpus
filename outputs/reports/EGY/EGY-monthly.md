@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: EGY
 ledger_rows: 53
 not_held: 36
-record: 4aebf1d6b0aa
+record: d37d3d12b9d0
 ---
 
 # News, Oct – Nov 2026
@@ -848,7 +848,7 @@ Youm7 reported that Egypt is in the final drafting stage of a dedicated law to r
 
 **[Vodacom eyes SA and Kenya for AI data centre hubs after Egypt](https://techcentral.co.za/vodacom-ai-data-centre-hubs-south-africa-kenya-egypt/288232/)** — TechCentral, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
-Sovereign AI facility costs about US$1bn, built in modules; Vodafone Egypt to own about 30%; SA and Kenya very early.
+Vodacom Group CEO Shameel Joosub spoke to TechCentral on 10 November 2026 about a sovereign AI data centre in Egypt. Vodafone Egypt plans it with Elsewedy Electric and Cassava Technologies, at a total cost of about US$1 billion. It will be built in modules, and Vodafone Egypt will own about 30%. He named South Africa and Kenya as further AI data centre hubs, with planning there at a very early stage.
 
 </div>
 

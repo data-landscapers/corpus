@@ -1,11 +1,11 @@
 ---
 title: Sao Tome and Principe — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: STP
 ledger_rows: 6
 not_held: 5
-record: 4787af4ffae7
+record: c21068b7861d
 ---
 
 # News, Oct – Nov 2026
@@ -38,7 +38,7 @@ record: 4787af4ffae7
 
 **[São Tomé e Príncipe defende mecanismos mais rápidos para obter provas digitais entre países da CPLP](https://rafa.tl/pt/sao-tome-e-principe-defende-mecanismos-mais-rapidos-para-obter-provas-digitais-entre-paises-da-cplp/)** — Ritmo, Voz e Coração de Timor (RAFA), 27 October 2026
 
-Justice minister urges faster CPLP sharing of digital evidence, citing the 2024 interoperability law.
+São Tomé and Príncipe's justice minister, Vera Cravid, called for faster sharing of digital evidence between CPLP states on 27 October 2026. She spoke at the 19th CPLP justice ministers' conference in Dili. She cited her country's 2024 interoperability framework law and a World Bank-financed e-commerce bill.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: SDN
 ledger_rows: 29
 not_held: 5
-record: db1122dcc404
+record: 4afb04ed48c9
 ---
 
 # News, Oct – Nov 2026
@@ -48,7 +48,7 @@ record: db1122dcc404
 
 **[هيئة التحول الرقمي تعقد الاجتماعين الأولين لمجلسَي التحول الرقمي الاتحادي والولائي](https://www.linkedin.com/feed/update/urn:li:activity:7516127823003197440)** — هيئة التحول الرقمي, 14 October 2026
 
-First federal and state digital transformation councils; eight principles incl. once-only and Baladna data exchange.
+Sudan's Digital Transformation Authority held its first federal council meeting on 13 October 2026 and its first state council on 14 October. Both reviewed eight principles for digital government, including digital first and once-only data. Agencies are to exchange data over the Baladna national platform.
 
 </div>
 
@@ -182,7 +182,7 @@ The Arab Monetary Fund agreed to include Sudan in its technical assistance on di
 
 **[Proparco partners with Cashi to expand access to essential financial services in Sudan](https://www.proparco.fr/en/news/proparco-partners-cashi-expand-access-essential-financial-services-sudan)** — Proparco, 9 November 2026
 
-EUR 600,000 into Sudanese fintech Cashi; Proparco's first Sudan operation; MyCashi wallet at 2.2m users.
+Proparco announced on 9 November 2026 a EUR 600,000 investment in Cashi, a fintech serving Sudan. It is Proparco's first financing in Sudan. Proparco says Cashi's MyCashi wallet has 2.2 million registered users.
 
 </div>
 
@@ -400,7 +400,7 @@ The general manager of the national payments operator said the account-to-accoun
 
 **[Sudan Central Bank Resumes Full-Week Clearing, Lifts Check Limits](https://sudantribune.com/article/321071)** — Sudan Tribune, 9 November 2026
 
-Circular of 9 Nov 2026 lifts cheque-value caps; January and March limits cancelled; penalties for underfunded banks.
+The Central Bank of Sudan resumed interbank electronic clearing every day of the week from 8 November 2026. It also lifted the ceiling on cheque values, Sudan Tribune reported. A circular of 9 November cancelled the earlier caps set in January and March.
 
 </div>
 
@@ -414,7 +414,7 @@ Circular of 9 Nov 2026 lifts cheque-value caps; January and March limits cancell
 
 **[Sudanese CBS Director General of Policies: Restoring Banking Systems was the Biggest Challenge](https://sudanhorizon.com/sudanese-cbs-director-general-of-policies-restoring-banking-systems-was-the-biggest-challenge/)** — Sudan Horizon, 9 November 2026
 
-Siraj RTGS reactivated, IBAN adopted, switch partly back; inflation 28.3% end-Sept 2026 against 68% end-2025.
+The Central Bank of Sudan's director general of policies spoke to Sudan Horizon on 9 November 2026. He said payments were restored by reactivating the Siraj RTGS and partly reinstating the national switch. He put inflation at 28.3% in September 2026, against 68% in December 2025.
 
 </div>
 

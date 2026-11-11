@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: MWI
 ledger_rows: 25
 not_held: 30
-record: c2f6a1ed5139
+record: 468965913130
 ---
 
 # News, Oct – Nov 2026
@@ -442,7 +442,7 @@ The Reserve Bank of Malawi issued fintech PayChangu payment service provider lic
 
 **[Ubuntu in Action: MAREN and RENU Sign MoU to Advance Research and Education in Africa!](https://maren.ac.mw/ubuntu-in-action-maren-and-renu-sign-mou-to-advance-research-and-education-in-africa/)** — MAREN, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
-Malawi and Uganda research and education networks sign MoU at UbuntuNet-Connect 2026 in Lilongwe.
+The research and education networks of Malawi (MAREN) and Uganda (RENU) signed a memorandum of understanding at UbuntuNet-Connect 2026 in Lilongwe. The chief executives, Solomon Dindi and Nicholas Mbonimpa, signed it. It covers institutional collaboration and the sharing of knowledge and experience.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: RWA
 ledger_rows: 32
 not_held: 7
-record: 28fb0976864f
+record: 50c9ff1344cf
 ---
 
 # News, Oct – Nov 2026
@@ -142,7 +142,7 @@ Rwanda's parliament ratified EUR 17 million of World Bank financing for digital 
 
 **[Digitalization of Rwanda`s urban and fruit trees value chain](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-766203)** — Food and Agriculture Organization (FAO), 31 October 2026
 
-USD 100,000 grant from FAO to Rwanda, digital fruit tree monitoring system, committed 2026-10-31.
+FAO reported a USD 100,000 grant to Rwanda in its IATI file, committed on 31 October 2026. It funds a digital monitoring system for the fruit tree value chain. The system serves planning, extension services and market links, from October 2026 to October 2028.
 
 </div>
 
@@ -462,7 +462,7 @@ The National Institute of Statistics of Rwanda built a model that assigns indust
 
 **[Request for Expressions of Interest: Proof of Concept for AI-Enabled Agentic Workflows for Existing Government Services and User Journeys (Structured into Three Lots), RW-RAIA-577862-CS-QCBS, with Terms of Reference (Annex I)](https://raia.rw/wp-content/uploads/2026/10/RAIA-ToR-Agentic-Workflows.pdf)** — Rwanda Artificial Intelligence Agency (RAIA), 26 October 2026
 
-World Bank-funded REOI and ToR: three agentic-AI pilots on Mbaza, IremboAI and Kubaka under RAIA's autonomy framework.
+In October 2026 the Rwanda AI Agency sought firms for agentic-AI proofs of concept on three government platforms. The lots cover Mbaza complaints, IremboAI licensing and Kubaka building permits. The World Bank-financed work is to run from late March to 8 November 2027.
 
 </div>
 
@@ -470,7 +470,7 @@ World Bank-funded REOI and ToR: three agentic-AI pilots on Mbaza, IremboAI and K
 
 **[RAIA seeks firms for agentic AI proofs of concept on Mbaza, IremboAI and Kubaka](https://www.updatesrw.tech/posts/5e8fc595-42bb-43e2-92c8-1cdae355fe51)** — Updaterw, 8 November 2026
 
-Three lots on Mbaza, IremboAI and Kubaka; EOIs due 12 November; 7.5-month pilots from late March 2027.
+The Rwanda AI Agency invited bids for agentic-AI proofs of concept on three government platforms, as reported on 8 November 2026. They are Mbaza for complaints, IremboAI for licensing and Kubaka for building permits. The World Bank finances the work, due to start in late March 2027.
 
 </div>
 

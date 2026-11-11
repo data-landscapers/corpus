@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: TZA
 ledger_rows: 45
 not_held: 4
-record: fb528ad4dc65
+record: 40226cdc3c6a
 ---
 
 # News, Oct – Nov 2026
@@ -66,7 +66,7 @@ Law firm FB Attorneys notes that Tanzania's Business Licensing (Amendment) Regul
 
 **[From Abu Dhabi to Dar es Salaam: Lessons on payments, open finance and supervision — UNCDF Policy Accelerator](https://policyaccelerator.uncdf.org/whats-new/from-abu-dhabi-to-dar-es-salaam-lessons-on-payments-open-finance-supervision)** — UNCDF Policy Accelerator, 9 November 2026
 
-Ten-member BoT delegation to CBUAE, October 2026; NPS framework review, open finance, risk-based conduct supervision.
+The Bank of Tanzania is reviewing its National Payment System regulatory framework, UNCDF reported in November 2026. In October 2026 it sent a ten-member delegation to the Central Bank of the UAE for a peer exchange. Further sessions, including on tiered licensing for payment providers, are planned.
 
 </div>
 

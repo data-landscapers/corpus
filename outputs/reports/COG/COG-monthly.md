@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: COG
 ledger_rows: 15
 not_held: 5
-record: ad1bed99f4ef
+record: 12d38ffae458
 ---
 
 # News, Oct – Nov 2026
@@ -308,7 +308,7 @@ Congo's statistics institute held a workshop in Brazzaville on 2 October to set 
 
 **[L’Ins et Mtn Télécom s’unissent pour digitaliser les statistiques nationales](https://labreveonline.com/lins-et-mtn-tlcom-sunissent-pour-digitaliser-les-statistiques-nationales/)** — La Brève Online, 8 November 2026
 
-Joint working group to draft roadmap toward framework MoU; SIM data collection, data-centre hosting, SDMX required.
+Congo's statistics institute and MTN Congo agreed to form a joint working group, La Breve Online reported on 8 November 2026. The group is to diagnose the institute's digitalisation needs and draft a roadmap for a memorandum. Its scope includes SIM-based field collection, data-centre hosting and SMS dissemination, under SDMX standards.
 
 </div>
 

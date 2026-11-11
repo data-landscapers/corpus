@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: BEN
 ledger_rows: 31
 not_held: 4
-record: 1205a4ee8ea8
+record: c9f10690d4c3
 ---
 
 # News, Oct – Nov 2026
@@ -106,7 +106,7 @@ Benin's media regulator HAAC signed conventions with 89 online media outlets in 
 
 **[Les nouveaux membres de l’APDP prêtent serment](https://www.24haubenin.info/?Les-nouveaux-membres-de-l-APDP-pretent-serment=)** — 24 Heures au Bénin, 9 November 2026
 
-Eight APDP councillors under decree 2026-422 sworn in at Porto-Novo on 6 Nov 2026; fourth term begins.
+The eight members of Benin's data protection authority (APDP) took their oath before the Supreme Court on 6 November 2026. The swearing-in opens the authority's fourth term. The members then re-elected Luciano Hounkponou as president unanimously.
 
 </div>
 
@@ -114,7 +114,7 @@ Eight APDP councillors under decree 2026-422 sworn in at Porto-Novo on 6 Nov 202
 
 **[Dr Luciano Hounkponou re-elected President of Benin’s Data Protection Authority](https://techreviewafrica.com/news/8202/x)** — Tech Review Africa, 10 November 2026
 
-The councillors of Benin's Personal Data Protection Authority (APDP) unanimously re-elected Luciano Hounkponou as its president at their first elective plenary of the authority's fourth term. The vote followed the eight councillors' swearing-in before the Supreme Court, Tech Review Africa reported on 10 November 2026.
+The eight councillors of Benin's Personal Data Protection Authority (APDP) were sworn in before the Supreme Court. At their first elective plenary of the authority's fourth term, they unanimously re-elected Luciano Hounkponou as president. Tech Review Africa reported this on 10 November 2026.
 
 </div>
 
@@ -572,7 +572,7 @@ Nasuba described Benin's national services portal, service-public.bj, as it stoo
 
 **[Benin Targets 2027 Launch of Higher Education Artificial Intelligence Institute](https://www.wearetech.africa/en/fils-uk/news/tech/benin-targets-2027-launch-of-higher-education-artificial-intelligence-institute)** — wearetech.africa, 9 November 2026
 
-Minister Medegan Fagla's plan at rectors' conference, 5-6 Nov 2026; dual degrees with universities; SNIAM-linked.
+Benin's higher education minister, Sèdami Medegan Fagla, said Benin plans an AI Institute for Higher Education by 2027. She spoke at the rectors' conference in Cotonou on 5-6 November 2026. The institute is to offer dual degrees with partner universities.
 
 </div>
 

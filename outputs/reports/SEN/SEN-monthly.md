@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: SEN
 ledger_rows: 37
 not_held: 2
-record: 88be22b69956
+record: a1c754523dc3
 ---
 
 # News, Oct – Nov 2026
@@ -396,7 +396,7 @@ Senegal's civil-service minister said the physical and biometric audit of state 
 
 **[Sénégal : la Justice accélère la digitalisation des entreprises](https://fr.apanews.net/technologies/senegal-la-justice-accelere-la-digitalisation-des-entreprises/)** — APAnews, 10 November 2026
 
-Justice Minister backs court rollout of APIX one-stop company creation, 10 Nov 2026; RCCM registries interconnected.
+Senegal's Justice Minister, Moussa Sarr, agreed on 10 November 2026 to deploy APIX's online company-creation platform in the courts, APAnews reports. The court registries that keep the RCCM trade and movable-credit register would be interconnected with other agencies, so that a company can be created in hours. He asked for a governance framework that brings together the institutions involved.
 
 </div>
 
@@ -498,7 +498,7 @@ Senegal began technical validation of its national strategy for receiving and di
 
 **[Sénégal : une plateforme numérique pour dématérialiser les procédures minières](https://lemarche.finance/senegal-une-plateforme-numerique-pour-dematerialiser-les-procedures-minieres/)** — Le Marché Finance, 10 November 2026
 
-Mining data one-stop shop validated; online title applications, public geological data, API links to tax and treasury.
+Senegal's Ministry of Mines and Geology validated its integrated mining-sector data platform, PIDSM, Le Marché Finance reported on 10 November 2026; the workshop date is not given. The one-stop portal shows mining perimeters in real time, publishes geological data and takes title applications online. It links LandFolio, SIGEOS, E-Gouv, SenTax and SenTrésor through APIs.
 
 </div>
 

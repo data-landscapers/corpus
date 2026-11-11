@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: XAF
 ledger_rows: 71
 not_held: 3
-record: 4a2a0325ce40
+record: 795611c43114
 ---
 
 # News, Oct – Nov 2026
@@ -1140,7 +1140,7 @@ A European-funded regulatory capacity programme is holding its eighth cohort in 
 
 **[The iPRIS project marks three years and launches its tenth cohort](https://ipris.digital/the-ipris-project-marks-three-years-and-launches-its-tenth-cohort/)** — iPRIS / SPIDER Center, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
-34 countries and 56 change initiatives in three years; five lusophone states join February 2027.
+The iPRIS project opened its tenth cohort in Sweden on 9 November 2026, for regulators from six African countries. In three years it has involved 34 African countries and 56 country-led change initiatives. Five lusophone countries are due to join in February 2027.
 
 </div>
 

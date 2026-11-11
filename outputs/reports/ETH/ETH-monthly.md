@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: ETH
 ledger_rows: 33
 not_held: 5
-record: bbd354a365d8
+record: 083b9643c7b6
 ---
 
 # News, Oct – Nov 2026
@@ -470,7 +470,7 @@ The Oromia Supreme Court and the Ethiopian Artificial Intelligence Institute rev
 
 **[Ethiopian Government Electronic Services](https://www.eservices.gov.et/en)** — Government of Ethiopia, eServices portal, 1 November 2026
 
-Single eServices portal for Ethiopia: one account, national ID login, online payment and downloadable certificates.
+Ethiopia's government eServices portal, captured in November 2026, offers public services through a single account. Users sign in with national ID authentication. They can pay online and download certificates.
 
 </div>
 
@@ -510,7 +510,7 @@ Ethiopia's MESOB chief executive said preparations have begun to open a one-stop
 
 **[Ethiopia targets four million farmers for digital registration by 2028](https://capitalethiopia.com/2026/11/08/ethiopia-targets-four-million-farmers-for-digital-registration-by-2028/)** — Capital Newspaper (Ethiopia), 8 November 2026
 
-Nearly 1m of 20m farmers enrolled via Fayda in 385 districts; consent-based data release to lenders.
+Ethiopia's Agricultural Transformation Institute has enrolled nearly one million farmers in its Fayda-linked profile register, Capital reported on 8 November 2026. It targets four million by 2028, out of about 20 million farmers. Data is shared with lenders only with the farmer's consent.
 
 </div>
 
@@ -568,7 +568,7 @@ Ethiopia scored 2.12 out of 4 on the Africa AI Governance Index 2026, in the Dev
 
 **[Ethiopia Targets to Become Africa’s Leading AI Innovation Hub by 2030: EAII Director General](https://www.ena.et/web/eng/w/eng_9899270)** — Ethiopian News Agency (ENA), 9 November 2026
 
-AI Ventures Residency opens: 51 founders, 12 countries; Medemer AI University established; Japan c.US$1m a year.
+Ethiopia's AI Institute opened a residency for 51 AI start-up founders from 12 African countries on 9 November 2026, ENA reported. Its director general set a goal of a leading African AI hub by 2030. Japan's ambassador put Japanese support for the Addis Ababa AI UniPod at about US$1m a year.
 
 </div>
 

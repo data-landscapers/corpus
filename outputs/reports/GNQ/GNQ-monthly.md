@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 place: GNQ
 ledger_rows: 18
 not_held: 6
-record: 70d64fc59468
+record: 99ad0ea3c3eb
 ---
 
 # News, Oct – Nov 2026
@@ -78,7 +78,7 @@ Equatorial Guinea's draft communication law would ban content inciting violence,
 
 **[Aprobación del Proyecto de Ley Reguladora de los Servicios de Imprenta, Comunicación Audiovisual y Digital](https://www.guineaecuatorialpress.com/noticias/aprobacion_del_proyecto_de_ley_reguladora_de_los_servicios_de_imprenta_comunicacion_audiovisual_y_digital)** — Oficina de Información y Prensa de Guinea Ecuatorial, 9 November 2026
 
-Unanimous lower-house vote, 9 Nov 2026; platform obligations, minors' protection; copyright covers software, databases.
+Equatorial Guinea's Chamber of Deputies unanimously passed a digital communication bill and a copyright bill on 9 November 2026. The government says the first sets obligations for digital platforms and protects minors online. The second covers computer programs and databases and creates a collective-management body.
 
 </div>
 
@@ -298,7 +298,7 @@ Equatorial Guinea's Vice-President chaired a government review on 3 November 202
 
 **[Guinea Ecuatorial prepara un registro único y biométrico para los funcionarios del Estado](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_prepara_un_registro_unico_y_biometrico_para_los_funcionarios_del_estado)** — Oficina de Información y Prensa de Guinea Ecuatorial, 9 November 2026
 
-Biometric register and multiservice card with optional payroll payment; Moroccan contractor M2M; live software demo.
+Equatorial Guinea's Treasury presented the SIGEF civil-servant management system on 9 November 2026. Built with Morocco's M2M, it rests on a single biometric register of state employees. A multiservice identity card can also carry payroll payment, to help control the wage bill.
 
 </div>
 
