@@ -9,9 +9,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "KEN-010",
-      "gaps": "No source found says other operators buy capacity on the backbone, or that it runs on open-access or wholesale terms. ODI says in 2025 that NOFBI Phase 2 is still incomplete, against the ministry's statement that it connected the last counties in 2017; it names no county without fibre.",
-      "note": "Rebuild 2026-11-04: the ministry states all 47 counties were connected by 2017, and nothing later names a county without fibre. No source says other operators buy capacity on it, so not stage 5.",
-      "as_at": "2026-11-04"
+      "gaps": "No source found says other operators buy capacity on the government backbone that reaches every county, or that it runs on open-access or wholesale terms; the open-access route held is Bayobab's Mombasa-Malaba-Busia line, which does not reach every region. ODI says in 2025 that NOFBI Phase 2 is still incomplete, against the ministry's statement that it connected the last counties in 2017; it names no county without fibre.",
+      "note": "Fact 2026-11-10: Bayobab offers its Mombasa-Malaba-Busia route on open-access terms (KEN-016), but that route does not reach every region, and nothing says capacity is sold on NOFBI, which does; so stage 4 holds.",
+      "as_at": "2026-11-11"
     }
   ]
 }

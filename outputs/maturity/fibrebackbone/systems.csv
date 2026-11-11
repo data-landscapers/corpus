@@ -92,6 +92,7 @@ CMR,CAMTEL national fibre optic network,national fibre optic network,backbone,,C
 CMR,Camtel national fibre-optic backbone,Cameroon,backbone,fibre,Camtel,,2026-10-19-cmr-itweb-camtel-socadel-infrastructure-sharing-mou
 CMR,Camtel national backbone,Cameroon,backbone,fibre optic,Camtel,,2025-12-10-cmr-cameroun-camtel-a-gagne-34-milliards-fcfa-grace-a-la-fibre-optique-en
 CMR,Camtel national fibre backbone,Cameroon,backbone,fibre,Camtel,,2026-10-01-cmr-comment-internet-arrive-au-cameroun
+CMR,CAMTEL national fibre-optic network,CAMTEL national fibre network,backbone,,CAMTEL,,2026-11-10-cmr-art-communique-166-controle-qualite-service-operateurs-mobiles
 COD,"DRC fibre concession programme (four 20-year PPP lots, 11,600 km)",Congo fibre concession programme,other,,Government of DRC (Digital Transformation Project),,2026-09-26-cod-theppppost-fibre-concession-ppp
 COD,Project East2West,Project East2West,other,,Bayobab (MTN Group) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
 COD,"national fibre backbone (55,000 km planned)",national fibre backbone,backbone,,"Government of DRC (Ministry of Posts, Telecommunications and Digital Affairs)",,2025-05-06 DRC e-government initiative makes bold blockchain bet
@@ -237,6 +238,7 @@ KEN,"17,000km public institutions fibre project",Kenya,backbone,fibre,"State Dep
 KEN,NOFBI II,Kenya,other,,Ministry of ICT,,2025-09-12-ken-cs-kabogo-outlines-plans-to-accelerate-digital-transformation-and-cons
 KEN,National Optic Fibre Backbone Infrastructure,Kenya,backbone,fibre,ICT Authority,,2025-10-15-ken-ict-authority-outlines-sh34-4-billion-plan-to-boost-kenya-s-digital-co
 KEN,National Optic Fibre Backbone Infrastructure (NOFBI),Kenya,backbone,,,,2023-11-11-ken-gov-t-launches-phase-4-5-of-the-last-mile-county-connectivity-project
+KEN,Bayobab Kenya long-distance fibre (Mombasa-Malaba-Busia),Kenya,backbone,,Bayobab Kenya (MTN Group),,2024-08-27-ken-bayobab-kenya-to-boost-connectivity-with-mombasa-to-malaba-fibre-proje
 LBR,expanded fiber-optic connectivity (planned),,other,,Ministry of Posts and Telecommunications,,2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access
 LBR,fiber-optic network Monrovia-Buchanan-Loguatuo,,backbone,,,,2026-01-29-liberia-verge-5g-revolution-observer
 LBR,second submarine cable landing at Buchanan (planned),,other,,,,2026-01-29-liberia-verge-5g-revolution-observer
@@ -500,6 +502,7 @@ TZA,National ICT Broadband Backbone (NICTBB),Tanzania,backbone,fibre,TTCL,,2024-
 TZA,National Communication Backbone,National Communication Backbone,backbone,,,,2025-06-18-tza-tanzania-communications-regulatory-authority-contribution-to-the-globa
 TZA,NICTBB,Tanzania,backbone,optic fibre,TTCL,,2025-11-12-tza-tanzania-imejipanga-kuwa-kitovu-cha-teknolojia-na-mawasiliano-afrika-m
 TZA,NICTBB,National ICT Broadband Backbone,backbone,,TTCL,,2024-02-26-bdi-la-tanzanie-signe-un-nouvel-accord-de-cinq-ans-avec-le-burundi-pour-lu
+TZA,National ICT Backbone,Tanzania,backbone,fibre,Government of Tanzania,,2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip
 UGA,National Backbone Infrastructure (NBI),National Backbone Infrastructure,backbone,,Government of Uganda,public institutions,2026-10-09-nilepost-museveni-orders-cancellation-utel-rcc-deal
 UGA,Uganda Telecom revival (RCC agreement),UTel,other,,Government of Uganda / Rowad Capital Commercial,,2026-10-09-nilepost-museveni-orders-cancellation-utel-rcc-deal
 UGA,National Backbone Infrastructure (NBI),National Backbone Infrastructure,backbone,,NITA-U,"MDAs, local governments, schools",2023-12-06-uganda-parliament-hansard-nbi-egi-phase-v-loan
@@ -540,6 +543,7 @@ ZMB,Phase II metropolitan area network and IP access network,,other,Huawei,ZESCO
 ZMB,DZAP Component 1.1 Extending the backbone and regional network,Digital Zambia Acceleration Project (P505094),other,,Smart Zambia Institute (implementing agency); World Bank IDA US$20m plus US$10m commercial,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
 ZMB,national fibre-optic backbone,Zambia,backbone,,,,2026-11-03-comesa-world-bank-back-regional-drive-to-connect-180-million-people-through-digital-inclusion
 ZMB,ZESCO optic fibre backbone,Zambia,backbone,OPGW on transmission lines,ZESCO Limited,,2023-11-09-zmb-zesco-ifb-oib-110-2023-opgw-three-330kv-lines
+ZMB,Bayobab Zambia fibre network,Zambia,backbone,,Bayobab Zambia (MTN),,2026-02-21-zmb-bayobab-zambia-and-vodacom-mocambique-launch-strategic-fibre-interconn
 ZWE,Liquid Intelligent Technologies fibre backbone,Liquid fibre backbone,backbone,,Liquid Intelligent Technologies,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
 ZWE,Powertel-Paratus DWDM backhaul,,backbone,DWDM,Powertel and Paratus Zimbabwe (PPP),,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
 ZWE,DFA Zimbabwe rail-servitude backbone,,backbone,DWDM,DFA Zimbabwe with BCS Group and Dandemutande,"ISPs, mobile operators",2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
