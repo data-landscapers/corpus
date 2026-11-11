@@ -1,0 +1,14 @@
+{
+  "slug": "2019-11-07-jo-2019-45-loi-29-2019-protection-donnees-caractere-personnel",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "Loi n° 29-2019 of 10 October 2019 on personal data protection, passed by the National Assembly and Senate and promulgated by the President, is published in the Journal officiel of 7 November 2019 (Art. 101); it sets principles, rights and obligations for processing by the State and private bodies.", "as_of": "2019-10-10", "date_precision": "day", "system": "Loi n° 29-2019 du 10 octobre 2019 portant protection des données à caractère personnel", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The law defines a commission, created by a separate law, to oversee processing and gives it powers to warn, order, withdraw authorisations and fine from 1 million to 100 million CFA francs (Arts. 92-97), with appeal to the Supreme Court.", "as_of": "2019-10-10", "date_precision": "day", "system": "Loi n° 29-2019 du 10 octobre 2019 portant protection des données à caractère personnel", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n° 29-2019 du 10 octobre 2019 portant protection des données à caractère personnel", "country_label": "Congo", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "unctad-8b606ab725": "fact: the 2019 law is recorded on standing (enacted, 2019-10-10) and authority (provided) from the gazette itself"
+  }
+}

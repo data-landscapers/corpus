@@ -1,0 +1,13 @@
+{
+  "slug": "2026-11-10-global-cyberlaw-tracker-2026-11-10",
+  "facts": [],
+  "systems": [
+    {"system": "Loi n° 2009-09 on the protection of personal data", "country_label": "Benin", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Loi n° 2017-20 portant code du numérique", "country_label": "Benin", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Both laws named are held.",
+  "claims": {
+    "unctad-5322a5626e": "nothing: held as BEN-010",
+    "unctad-4dd39affb9": "nothing: held as BEN-017"
+  }
+}

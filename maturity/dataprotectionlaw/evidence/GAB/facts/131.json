@@ -1,0 +1,16 @@
+{
+  "slug": "2011-10-24-gab-jo-74-loi-001-2011-protection-donnees-personnelles",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "Loi n°001/2011 on personal data protection, promulgated at Libreville on 25 September 2011, is gazetted in JO n°74 of 24-31 October 2011 and sets the rules for processing personal data.", "as_of": "2011-09-25", "date_precision": "day", "system": "Loi n°001/2011 relative à la protection des données à caractère personnel", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The law creates the CNPDCP as an independent administrative authority with nine permanent commissioners appointed by decree, and gives it sanction powers, with appeal to the Conseil d'Etat (Arts. 15-17, 108).", "as_of": "2011-09-25", "date_precision": "day", "system": "CNPDCP", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "none", "fact": "The law states that implementing texts, taken after the Commission's opinion, will fix its application procedures (Art. 112); none is issued in the text itself.", "as_of": "2011-09-25", "date_precision": "day", "system": "Loi n°001/2011 relative à la protection des données à caractère personnel", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n°001/2011 relative à la protection des données à caractère personnel", "country_label": "Gabon", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "CNPDCP", "country_label": "Gabon", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "unctad-455d36460c": "fact: the 2011 law is recorded on standing (enacted, 2011-09-25) and authority (provided) from the gazette itself"
+  }
+}

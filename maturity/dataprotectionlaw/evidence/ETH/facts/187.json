@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Personal Data Protection Proclamation No.1321/2024", "country_label": "Ethiopia", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The proclamation in force is already held.",
+  "claims": {
+    "gtmi-cc21f434b0": "nothing: held as ETH-001"
+  }
+}

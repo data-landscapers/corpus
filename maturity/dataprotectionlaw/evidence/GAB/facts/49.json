@@ -1,0 +1,11 @@
+{
+  "slug": "2023-07-11-jo-ga-loi-027-2023-cybersecurite-cybercriminalite",
+  "facts": [],
+  "systems": [
+    {"system": "Loi N° 027/2023 du 11/07/2023 portant règlementation de la cybersécurité et de la lutte contre la cybercriminalité", "country_label": "Gabon", "class": "sectoral", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A cybersecurity law that defers to the personal data protection law (Art. 32) and mentions data protection only in a police oath (Art. 80); it sets no data protection rules itself.",
+  "claims": {
+    "aftech-cf5a998e49": "nothing: a cybersecurity and cybercrime law, sectoral, not assessed"
+  }
+}

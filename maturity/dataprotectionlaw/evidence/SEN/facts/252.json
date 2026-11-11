@@ -1,0 +1,14 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Carnegie's two lines for Law 2008-12 are already held; the other four are laws on other subjects.",
+  "claims": {
+    "aftech-6d8d394d16": "nothing: held as SEN-007",
+    "aftech-50f2f52f1b": "nothing: held as SEN-007",
+    "aftech-efdc9ac2d4": "nothing: information society framework law, not assessed",
+    "aftech-6c21f87795": "nothing: electronic communications code, not a data protection law",
+    "aftech-2f158278f3": "nothing: telecoms regulator's organisation decree, not assessed",
+    "aftech-e7667bf706": "nothing: start-up law, not a data protection law"
+  }
+}

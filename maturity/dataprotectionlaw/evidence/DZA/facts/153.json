@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Loi N°18-07 du 10 juin 2018 relative à la protection des personnes physiques dans le traitement des données à caractère personnel", "country_label": "Algeria", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The 2018 law in force is already held.",
+  "claims": {
+    "gtmi-88228559cc": "nothing: held as DZA-001"
+  }
+}

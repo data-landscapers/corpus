@@ -1,0 +1,17 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Code", "country_label": "Benin", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Information and Communication Code", "country_label": "Benin", "class": "adjacent", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Rules of Policy for the Protection of Critical Information Infrastructures in the Republic of Benin", "country_label": "Benin", "class": "regulation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Reference Framework of Requirements Relating to the Qualifications of Digital Security Service Providers in the Republic of Benin", "country_label": "Benin", "class": "regulation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Database lines only; the Digital Code is held, the rest are not data protection instruments.",
+  "claims": {
+    "aftech-4b351b8142": "nothing: press and communication code, adjacent",
+    "aftech-b8f6297d1e": "nothing: held as BEN-009",
+    "aftech-f2ee921c17": "nothing: critical infrastructure security rules, not data protection",
+    "aftech-3f18d08f04": "nothing: digital security provider qualification framework, not data protection"
+  }
+}

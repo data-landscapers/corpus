@@ -1,0 +1,13 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [
+    {"system": "Cybercrime Act (Loi n° 09-04)", "country_label": "Algeria", "class": "sectoral", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Personal Data Protection Act (Loi n° 18-07)", "country_label": "Algeria", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Carnegie lists two laws; the data protection law is already held.",
+  "claims": {
+    "aftech-91885d03b4": "nothing: a cybercrime law, sectoral, not assessed",
+    "aftech-9c343582a1": "nothing: held as DZA-001"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2020-11-01-nga-nitda-ndpr-implementation-framework",
+  "facts": [],
+  "systems": [
+    {"system": "Nigeria Data Protection Regulation 2019 (NDPR)", "country_label": "Nigeria", "class": "regulation", "platform": "", "owner": "NITDA", "tiers": ""},
+    {"system": "NDPR Implementation Framework (November 2020)", "country_label": "Nigeria", "class": "regulation", "platform": "", "owner": "NITDA", "tiers": ""},
+    {"system": "National Information Technology Development Agency (NITDA), acting as national data protection regulator under the NDPR", "country_label": "Nigeria", "class": "authority", "platform": "", "owner": "NITDA", "tiers": ""}
+  ],
+  "note": "The framework is NITDA's 2020 guide to the NDPR, issued under the NITDA Act 2007, not under a general data protection law; it states nothing on the 2023 Act, so no fact on the study's aspects."
+}

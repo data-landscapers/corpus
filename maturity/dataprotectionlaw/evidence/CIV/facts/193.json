@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [
+    {"system": "Law No. 2013-450 of June 19, 2013 Relating to the Protection of Personal Data", "country_label": "Cote d'Ivoire", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Both lines name the held 2013 law.",
+  "claims": {
+    "aftech-5aa5d253af": "nothing: held as CIV-010",
+    "aftech-63265910b3": "nothing: held as CIV-010"
+  }
+}

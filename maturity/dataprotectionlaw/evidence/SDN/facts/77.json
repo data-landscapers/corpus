@@ -1,0 +1,11 @@
+{
+  "slug": "2007-01-01-sdn-cybercrime-act-2007",
+  "facts": [],
+  "systems": [
+    {"system": "Cybercrime Act, 2007", "country_label": "Sudan", "class": "adjacent", "platform": "", "owner": "National Assembly of Sudan", "tiers": ""}
+  ],
+  "note": "Excerpt of a cybercrime act (enacting clause, application, definitions); no data protection provision on the study's aspects.",
+  "claims": {
+    "aftech-b323f5e81e": "nothing: cybercrime act, an adjacent law with no data protection regime in the page held"
+  }
+}

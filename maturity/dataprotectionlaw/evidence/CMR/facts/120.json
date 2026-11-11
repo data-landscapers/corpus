@@ -1,0 +1,11 @@
+{
+  "slug": "2010-12-21-cmr-loi-2010-012-cybersecurite-cybercriminalite",
+  "facts": [],
+  "systems": [
+    {"system": "Loi n°2010/012 relative à la cybersécurité et à la cybercriminalité", "country_label": "Cameroon", "class": "sectoral", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A cybercrime law with penal provisions on personal data processing, not a general data protection regime.",
+  "claims": {
+    "unctad-885a17626a": "nothing: cybercrime law with data penalties, sectoral, not assessed"
+  }
+}

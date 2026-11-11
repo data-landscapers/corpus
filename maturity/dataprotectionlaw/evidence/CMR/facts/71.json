@@ -1,0 +1,15 @@
+{
+  "slug": "2024-12-23-cameroon-law-2024-017-personal-data-protection",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "transition", "fact": "Law No. 2024/017 of 23 December 2024 on personal data protection was enacted by the President of the Republic, and Section 73 gives controllers 18 months from enactment to comply.", "as_of": "2024-12-23", "date_precision": "day", "system": "Law No. 2024/017 relating to personal data protection in Cameroon", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Section 53 makes the Personal Data Protection Authority an independent public body and leaves its establishment, organisation and functioning to a decree of the President; the text records no appointment.", "as_of": "2024-12-23", "date_precision": "day", "system": "Personal Data Protection Authority", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Law No. 2024/017 relating to personal data protection in Cameroon", "country_label": "Cameroon", "class": "general", "platform": "", "owner": "Presidency of the Republic", "tiers": ""},
+    {"system": "Personal Data Protection Authority", "country_label": "Cameroon", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-42aec3c607": "nothing: held as CMR-006"
+  }
+}

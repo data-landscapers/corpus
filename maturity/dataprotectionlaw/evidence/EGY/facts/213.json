@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [
+    {"system": "Personal Data Protection Law No. 151 of 2020", "country_label": "Egypt", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The law is already held.",
+  "claims": {
+    "aftech-c64ba3c5f6": "nothing: held as EGY-013"
+  }
+}

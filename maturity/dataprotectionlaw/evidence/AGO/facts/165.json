@@ -1,0 +1,21 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [
+    {"system": "Law 22/11 Personal Data Protection", "country_label": "Angola", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Ratification Letter 1/20 African Union Convention on Cybersecurity and Personal Data Protection", "country_label": "Angola", "class": "treaty", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Law 7/17 Network and Computer Systems Protection", "country_label": "Angola", "class": "adjacent", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Law 11/20 Identification or Mobile Phone Traceability", "country_label": "Angola", "class": "sectoral", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Law 2/20 Video Surveillance", "country_label": "Angola", "class": "sectoral", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Database lines only; the one general law is already held, the rest are not assessed.",
+  "claims": {
+    "aftech-5713bf388d": "nothing: access to information law, adjacent",
+    "aftech-677efc9f55": "nothing: held as AGO-002",
+    "aftech-60efc36811": "nothing: information society regulation, not a data protection law",
+    "aftech-a6dcdfd308": "nothing: network and systems security law, adjacent",
+    "aftech-9f02d2af47": "nothing: mobile identification law, sectoral, not assessed",
+    "aftech-1a0bc98aae": "nothing: video surveillance law, sectoral, not assessed",
+    "aftech-cdedc14ad6": "nothing: treaty ratification, flag only, not assessed"
+  }
+}

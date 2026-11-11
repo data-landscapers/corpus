@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [
+    {"system": "Personal Data Protection Proclamation", "country_label": "Ethiopia", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The proclamation is already held.",
+  "claims": {
+    "aftech-4f1ea4d429": "nothing: held as ETH-006"
+  }
+}

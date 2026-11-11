@@ -1,0 +1,15 @@
+{
+  "slug": "2009-04-27-ben-loi-2009-09-protection-donnees-caractere-personnel",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "passed", "fact": "Benin's Assemblée nationale deliberated and adopted Loi n° 2009-09 on the protection of personal data on 27 April 2009; the text as posted carries no promulgation date.", "as_of": "2009-04-27", "date_precision": "day", "system": "Loi n° 2009-09 portant protection des données à caractère personnel en République du Bénin", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Article 19 of the law institutes the Commission Nationale de l'Informatique et des Libertés (CNIL) as the supervisory body, with eleven members to be named by decree under Articles 23 and 24; the text states no appointment.", "as_of": "2009-04-27", "date_precision": "day", "system": "Commission Nationale de l'Informatique et des Libertés", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n° 2009-09 portant protection des données à caractère personnel en République du Bénin", "country_label": "Benin", "class": "general", "platform": "", "owner": "Assemblée nationale du Bénin", "tiers": ""},
+    {"system": "Commission Nationale de l'Informatique et des Libertés", "country_label": "Benin", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-25fee9a8cf": "nothing: held as BEN-010"
+  }
+}

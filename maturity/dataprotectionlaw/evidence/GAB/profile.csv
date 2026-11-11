@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GAB,general,authority,qualifier,constituted,2026-11-03,GAB-001;GAB-003;GAB-006;GAB-014;GAB-015;GAB-017;GAB-020;GAB-022;GAB-024;GAB-027;GAB-030;GAB-031,GAB-009=provided;GAB-011=provided,
-GAB,general,standing,coverage,in-force,2026-06-09,GAB-005;GAB-008;GAB-010;GAB-013;GAB-019;GAB-023;GAB-026;GAB-029,,
-GAB,general,regulations,coverage,,,,,nothing found
+GAB,general,authority,qualifier,constituted,2026-11-03,GAB-001;GAB-003;GAB-006;GAB-014;GAB-015;GAB-017;GAB-020;GAB-022;GAB-024;GAB-027;GAB-030;GAB-031,GAB-009=provided;GAB-011=provided;GAB-033=provided,
+GAB,general,standing,coverage,in-force,2026-06-09,GAB-005;GAB-008;GAB-010;GAB-013;GAB-019;GAB-023;GAB-026;GAB-029,GAB-032=enacted,
+GAB,general,regulations,coverage,none,2011-09-25,GAB-034,,nothing dated since 2023-11-11
 GAB,general,application,coverage,reported,2025,GAB-016,GAB-002=activity;GAB-004=activity;GAB-007=activity;GAB-021=applied;GAB-025=activity;GAB-018=activity;GAB-028=activity;GAB-012=applied,
 GAB,general,last12,qualifier,,,,,nothing found

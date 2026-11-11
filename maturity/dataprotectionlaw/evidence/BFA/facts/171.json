@@ -1,0 +1,13 @@
+{
+  "slug": "2026-11-10-global-cyberlaw-tracker-2026-11-10",
+  "facts": [],
+  "systems": [
+    {"system": "Loi n° 010-2004/AN", "country_label": "Burkina Faso", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Loi n°001-2021/AN", "country_label": "Burkina Faso", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Both laws named are held; the 2004 law is the earlier one.",
+  "claims": {
+    "unctad-f3c85600a5": "nothing: held as BFA-017",
+    "unctad-78be8850df": "nothing: held as BFA-012"
+  }
+}

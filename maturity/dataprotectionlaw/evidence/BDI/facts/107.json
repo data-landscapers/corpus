@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "The government told the World Bank's GovTech survey (2025) that a data protection instrument, named as a decree on personal data protection, was in draft with consultations in progress; as_of is the survey round's year, the line itself giving 2026.", "as_of": "2025", "date_precision": "year", "system": "Décret sur la Protection des Données à caractères personnelles", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Décret sur la Protection des Données à caractères personnelles", "country_label": "Burundi", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-cfe584e967": "fact"
+  }
+}

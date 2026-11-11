@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [
+    {"system": "Cybersecurity Law", "country_label": "DR Congo", "class": "adjacent", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The 'Data Protection Law 2020' line gives no verifiable instrument; the country's law is held.",
+  "claims": {
+    "aftech-f4be9825e5": "nothing: year and name unverified, link a third-party handbook; law held as COD-011",
+    "aftech-4bf56f8284": "nothing: cybersecurity law, adjacent"
+  }
+}
