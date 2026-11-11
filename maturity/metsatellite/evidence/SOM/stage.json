@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SOM-001",
       "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data.",
-      "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
-      "as_at": "2026-10-18"
+      "note": "The SCAA launched an MTG receiver in July 2025 for near real-time monitoring and forecasting. Nothing says its warnings draw on it.",
+      "as_at": "2026-11-11"
     }
   ]
 }

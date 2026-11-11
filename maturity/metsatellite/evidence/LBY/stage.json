@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "metsat",
-   "stage": "4",
-   "stream": "inservice",
-   "warnings": "issued",
-   "certified": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-002",
-   "gaps": "No source found since October 2023 says the weather service holds ISO 9001 certification.",
-   "note": "First pass: counted from the four questions by study-ladder-metsatellite.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "metsat",
+      "stage": "4",
+      "stream": "inservice",
+      "warnings": "issued",
+      "certified": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-002",
+      "gaps": "No source found since October 2023 says the weather service holds ISO 9001 certification.",
+      "note": "The service says its assessment of the August 2024 rains rested on satellite images and that it issued early warnings 48 and 72 hours ahead. No source says it holds ISO 9001 certification.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

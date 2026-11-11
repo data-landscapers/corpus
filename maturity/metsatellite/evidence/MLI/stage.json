@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MLI-001",
       "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data.",
-      "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
-      "as_at": "2026-10-18"
+      "note": "Mali-Météo commissioned PUMA 2025 in March 2026 and receives MTG data for its analysis and forecasts. Nothing says its warnings draw on it.",
+      "as_at": "2026-11-11"
     }
   ]
 }

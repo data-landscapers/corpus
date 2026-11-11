@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "metsat",
-   "stage": "4",
-   "stream": "inservice",
-   "warnings": "issued",
-   "certified": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-003",
-   "gaps": "No source found since October 2023 says the weather service holds ISO 9001 certification.",
-   "note": "First pass: counted from the four questions by study-ladder-metsatellite.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "metsat",
+      "stage": "4",
+      "stream": "inservice",
+      "warnings": "issued",
+      "certified": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-003",
+      "gaps": "No source found since October 2023 says the weather service holds ISO 9001 certification.",
+      "note": "ANAM's PUMA 2025 station receives MTG data every ten minutes, and ANAM says it sharpens its forecasts and early alerts (August 2025). No source says ANAM holds ISO 9001 certification.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

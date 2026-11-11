@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "metsat",
-   "stage": "2",
-   "stream": "underway",
-   "warnings": "",
-   "certified": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-001",
-   "gaps": "No source found since October 2023 says: does it use it in forecasts.",
-   "note": "First pass: counted from the four questions by study-ladder-metsatellite.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "metsat",
+      "stage": "2",
+      "stream": "underway",
+      "warnings": "",
+      "certified": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-001",
+      "gaps": "No source found since October 2023 says: does it use it in forecasts.",
+      "note": "The service's page describes access to EUMETSAT nowcasting products (January 2026). Access is stated, not their use in its forecasts.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

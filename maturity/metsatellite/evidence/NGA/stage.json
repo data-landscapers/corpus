@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "metsat",
-   "stage": "2",
-   "stream": "underway",
-   "warnings": "",
-   "certified": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-001",
-   "gaps": "No source found since October 2023 says: does it use it in forecasts.",
-   "note": "First pass: counted from the four questions by study-ladder-metsatellite.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "metsat",
+      "stage": "2",
+      "stream": "underway",
+      "warnings": "",
+      "certified": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-001",
+      "gaps": "No source found since October 2023 says: does it use it in forecasts.",
+      "note": "NiMet installed its PUMA 2025 station in May 2025. Nothing held says its forecasts use the data.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

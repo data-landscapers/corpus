@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "DJI-001",
       "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data.",
-      "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
-      "as_at": "2026-10-18"
+      "note": "A 2025 peer review says forecasters rely on web satellite imagery for nowcasting, the PUMA workstation being out of service. Nothing says warnings draw on it.",
+      "as_at": "2026-11-11"
     }
   ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BEN-001",
       "gaps": "No source found since October 2023 says: does it use it in forecasts.",
-      "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
-      "as_at": "2026-10-18"
+      "note": "A PUMA station for Meteosat Third Generation data was to be installed in September 2024. Nothing says it is used in forecasts.",
+      "as_at": "2026-11-11"
     }
   ]
 }

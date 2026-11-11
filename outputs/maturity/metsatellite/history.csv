@@ -33,3 +33,55 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,BWA,data.geospatial--meteorological-use-of-satellite-data,ladder,no evidence,2,BWA-001,"Bill, message 93: Daily News (12 Dec 2023) reports China's donated satellite ground station; nothing says it operates"
 2026-11-09,TZA,data.geospatial--meteorological-use-of-satellite-data,ladder,5,3,TZA-001;TZA-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-09,SYC,data.geospatial--meteorological-use-of-satellite-data,ladder,5,3,SYC-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-11,AGO,data.geospatial--meteorological-use-of-satellite-data,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,BDI,data.geospatial--meteorological-use-of-satellite-data,review,2,2,BDI-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,BEN,data.geospatial--meteorological-use-of-satellite-data,review,2,2,BEN-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,BFA,data.geospatial--meteorological-use-of-satellite-data,review,4,4,BFA-003,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,CAF,data.geospatial--meteorological-use-of-satellite-data,review,2,2,CAF-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,CIV,data.geospatial--meteorological-use-of-satellite-data,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,CMR,data.geospatial--meteorological-use-of-satellite-data,review,2,2,CMR-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,COD,data.geospatial--meteorological-use-of-satellite-data,review,3,2,COD-002;COD-001,COD 3->2: reception only; no source says forecasts use it
+2026-11-11,COG,data.geospatial--meteorological-use-of-satellite-data,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,COM,data.geospatial--meteorological-use-of-satellite-data,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,CPV,data.geospatial--meteorological-use-of-satellite-data,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,DJI,data.geospatial--meteorological-use-of-satellite-data,review,3,3,DJI-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,DZA,data.geospatial--meteorological-use-of-satellite-data,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,EGY,data.geospatial--meteorological-use-of-satellite-data,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,ERI,data.geospatial--meteorological-use-of-satellite-data,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,ETH,data.geospatial--meteorological-use-of-satellite-data,review,4,4,ETH-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,GAB,data.geospatial--meteorological-use-of-satellite-data,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,GHA,data.geospatial--meteorological-use-of-satellite-data,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,GIN,data.geospatial--meteorological-use-of-satellite-data,review,unplaced,3,GIN-001,GIN unplaced->3: publishes its own thunderstorm nowcasting product (2026 page)
+2026-11-11,GMB,data.geospatial--meteorological-use-of-satellite-data,review,2,2,GMB-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,GNB,data.geospatial--meteorological-use-of-satellite-data,review,3,2,GNB-001,GNB 3->2: station installed and receiving; use in forecasts not stated
+2026-11-11,GNQ,data.geospatial--meteorological-use-of-satellite-data,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,KEN,data.geospatial--meteorological-use-of-satellite-data,review,2,2,KEN-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,LBR,data.geospatial--meteorological-use-of-satellite-data,review,2,2,LBR-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,LBY,data.geospatial--meteorological-use-of-satellite-data,review,4,4,LBY-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,LSO,data.geospatial--meteorological-use-of-satellite-data,review,3,3,LSO-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,MAR,data.geospatial--meteorological-use-of-satellite-data,review,3,3,MAR-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,MDG,data.geospatial--meteorological-use-of-satellite-data,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,MLI,data.geospatial--meteorological-use-of-satellite-data,review,3,3,MLI-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,MOZ,data.geospatial--meteorological-use-of-satellite-data,review,4,4,MOZ-004,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,MRT,data.geospatial--meteorological-use-of-satellite-data,review,2,2,MRT-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,MWI,data.geospatial--meteorological-use-of-satellite-data,review,2,2,MWI-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,NAM,data.geospatial--meteorological-use-of-satellite-data,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,NGA,data.geospatial--meteorological-use-of-satellite-data,review,2,2,NGA-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,RWA,data.geospatial--meteorological-use-of-satellite-data,review,3,3,RWA-001;RWA-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,SDN,data.geospatial--meteorological-use-of-satellite-data,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,SEN,data.geospatial--meteorological-use-of-satellite-data,review,4,4,SEN-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,SLE,data.geospatial--meteorological-use-of-satellite-data,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,SOM,data.geospatial--meteorological-use-of-satellite-data,review,3,3,SOM-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,SSD,data.geospatial--meteorological-use-of-satellite-data,review,3,3,SSD-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,STP,data.geospatial--meteorological-use-of-satellite-data,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,SWZ,data.geospatial--meteorological-use-of-satellite-data,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,TCD,data.geospatial--meteorological-use-of-satellite-data,review,3,3,TCD-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,TGO,data.geospatial--meteorological-use-of-satellite-data,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,TUN,data.geospatial--meteorological-use-of-satellite-data,review,4,4,TUN-003,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,TZA,data.geospatial--meteorological-use-of-satellite-data,review,3,3,TZA-001;TZA-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,UGA,data.geospatial--meteorological-use-of-satellite-data,review,unplaced,2,UGA-001,UGA unplaced->2: Synergie and MDD systems receive satellite data (2026 page)
+2026-11-11,ZAF,data.geospatial--meteorological-use-of-satellite-data,review,3,3,ZAF-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,ZMB,data.geospatial--meteorological-use-of-satellite-data,review,3,2,ZMB-001,ZMB 3->2: receiving systems an investment; use in forecasts not stated
+2026-11-11,ZWE,data.geospatial--meteorological-use-of-satellite-data,review,3,2,ZWE-001,ZWE 3->2: station operational and receiving; use in forecasts not stated
+2026-11-11,CAF,data.geospatial--meteorological-use-of-satellite-data,review,2,unplaced,,"CAF 2->unplaced: the station is ASECNA's airport centre's, not the national service's (second drafter)"
+2026-11-11,KEN,data.geospatial--meteorological-use-of-satellite-data,review,2,unplaced,,KEN 2->unplaced: regional RARS upgrade names no national service (second drafter)

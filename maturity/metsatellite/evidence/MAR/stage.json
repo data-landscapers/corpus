@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MAR-001",
       "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data.",
-      "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
-      "as_at": "2026-10-18"
+      "note": "The DGM says its observation draws on satellite images refreshed every ten minutes (December 2025). No held source ties its warnings to them.",
+      "as_at": "2026-11-11"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Meteorological use of satellite data: satellite data in weather services
 
-*As at 2026-08-31.*
+*As at 2026-11-11.*
 
 ## The norm
 
@@ -22,8 +22,8 @@ The Integrated African Strategy on Meteorology asks for sustained access to geos
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 6 |
-| 3 Established | 15 |
-| 2 Nascent | 12 |
+| 3 Established | 12 |
+| 2 Nascent | 15 |
 | 1 Absent | 0 |
 | Unplaced | 13 |
 | No evidence | 8 |
@@ -72,24 +72,17 @@ The national weather service used satellite data in its forecasts in 2026; warni
 
 - WMO reports that a collaboration with EUMETSAT and AEMET enabled Chad to deploy satellite-based nowcasting (NWCSAF, RDT) to track convective events a few hours before they hit ([source, 2026-02-03](https://wmo.int/media/news/strengthening-early-warning-services-chad)).
 
-### DR Congo: 3 Established
-
-The national weather service used satellite data in its forecasts in 2024; warnings drawing on it are not on record.
-
-- The MeteoSwiss peer review says METTELSAT has a functional PUMA satellite reception system at its headquarters giving access to EUMETCast ([source, 2024-07](https://meteordcongo.cd/documents/14/DRC-CHD-Report-NGA-Annex_2.pdf)).
-- The WMO-hosted METTELSAT document says the agency has PUMA 2015 and MESSIR NEO equipment connected to the EUMETCast Africa data stream to receive satellite images and regional and global model data ([source, 2024-02](https://wmo.int/sites/default/files/2024-02/4.%20Syst%C3%A8me%20d%E2%80%99Observation%20de%20la%20METTELSAT.pdf)).
-
 ### Djibouti: 3 Established
 
 The national weather service used satellite data in its forecasts in 2025; warnings drawing on it are not on record.
 
 - The GeoSphere Austria peer review says Djibouti's ANM has no nowcasting observations other than satellite imagery available on the web, and that its PUMA satellite workstation is not operational so information is received through the web ([source, 2025-03](https://alliancehydromet.org/wp-content/uploads/2025/04/Djibouti-CHD.pdf)).
 
-### Guinea-Bissau: 3 Established
+### Guinea: 3 Established
 
-The national weather service used satellite data in its forecasts in 2026; warnings drawing on it are not on record.
+The national weather service used satellite data in its nowcasting in 2026; warnings drawing on it are not on record.
 
-- INM-GB states it completed installation of a CLIMSA/PUMA2025 station on 21-25 August 2026, tested and accepted, receiving EUMETSAT Meteosat Third Generation data in near real time at up to 10-minute intervals ([source, 2026-08-25](https://meteoguinebissau.gw/noticias/nova-esta%C3%A7%C3%A3o-climsa-e-puma2025/)).
+- Guinea's national meteorological agency publishes on its site Meteosat Second Generation products, including dust RGB, a thunderstorm nowcasting product and precipitation maps, from Meteosat SEVIRI image data ([source, 2026](https://anmeteo.gov.gn/imagerie-satellitaire/)).
 
 ### Lesotho: 3 Established
 
@@ -147,18 +140,6 @@ The weather service used satellite imagery in its forecasts in 2024 and 2025; wa
 - Tanzania's National Audit Office reports that the Tanzania Meteorological Authority faced challenges in processing data from satellites and global observation centres because these sources lacked adequate localization ([source, 2025-03](https://www.nao.go.tz/uploads/Performance_Audit_Report_on_the_Management_of_Meteorological_Services.pdf)).
 - The DMI peer review for SOFF says the Tanzania Meteorological Authority relies on EUMETSAT satellite imagery and radars, which are particularly beneficial for nowcasting, to deliver its forecasts ([source, 2024-02](http://alliancehydromet.org/wp-content/uploads/2025/03/CHD-Tanzania-official-version.pdf)).
 
-### Zambia: 3 Established
-
-The national weather service used satellite data in its forecasts in 2025; warnings drawing on it are not on record.
-
-- Zambia's Minister of Green Economy and Environment told the National Assembly that the government's investment in meteorological capability includes new high-performance computing facilities and advanced satellite receiving systems ([source, 2025-10-02](https://www.parliament.gov.zm/node/12604)).
-
-### Zimbabwe: 3 Established
-
-The national weather service used satellite data in its forecasts in 2026; warnings drawing on it are not on record.
-
-- The Zimbabwe Meteorological Services Department's newsletter says the PUMA 2025 station for METEOSAT Third Generation was installed with reception confirmed satisfactory and the station 'fully operational and capable of receiving satellite data', with an EUMETCAST licence request submitted ([source, 2026-03](https://www.weatherzw.org.zw/documents/776/MSD_Newsletter_February_-_March_2026.pdf)).
-
 ### Benin: 2 Nascent
 
 The national weather service was receiving or installing a satellite data stream in 2024; its use in forecasts is not on record.
@@ -183,11 +164,12 @@ The national weather service was receiving or installing a satellite data stream
 
 - The national meteorological service's own page describes access to EUMETSAT NWCSAF satellite-based nowcasting products (0-6 hours) with real-time satellite data visualisation via the ADAguc platform ([source, 2026-01-20](https://meteocameroon.gov.cm/en/nwcsaf/)).
 
-### Central African Republic: 2 Nascent
+### DR Congo: 2 Nascent
 
-The national weather service was receiving or installing a satellite data stream in 2025; its use in forecasts is not on record.
+The national weather service was receiving a satellite data stream in 2024; its use in forecasts is not on record.
 
-- ASECNA's AIP lists METEOSAT (MSG) satellite images among the supplementary equipment of the Bangui/M'Poko Centre Meteorologique Principal, which also offers satellite imagery on request in flight documentation ([source, 2025-08-07](https://aim.asecna.aero/html/eAIP/FR-_04AD-2.FEFF-fr-FR.html)).
+- The MeteoSwiss peer review says METTELSAT has a functional PUMA satellite reception system at its headquarters giving access to EUMETCast ([source, 2024-07](https://meteordcongo.cd/documents/14/DRC-CHD-Report-NGA-Annex_2.pdf)).
+- The WMO-hosted METTELSAT document says the agency has PUMA 2015 and MESSIR NEO equipment connected to the EUMETCast Africa data stream to receive satellite images and regional and global model data ([source, 2024-02](https://wmo.int/sites/default/files/2024-02/4.%20Syst%C3%A8me%20d%E2%80%99Observation%20de%20la%20METTELSAT.pdf)).
 
 ### Gambia: 2 Nascent
 
@@ -195,11 +177,11 @@ The national weather service was receiving or installing a satellite data stream
 
 - The meteorology unit of the Department of Water Resources received and had installed Meteosat Third Generation PUMA and ClimSA stations at a handover on 30 August 2024, enabling continued reception of MTG data and satellite imagery, funded by the EU through the African Union Commission ([source, 2024-08-30](https://meteogambia.gm/news/department-of-water-resources-of-the-gambia-receives-advanced-meteosat-third-generation-puma-and-climsa-stations/)).
 
-### Kenya: 2 Nascent
+### Guinea-Bissau: 2 Nascent
 
-The national weather service was receiving or installing a satellite data stream in 2025; its use in forecasts is not on record.
+The national weather service was receiving a satellite data stream in 2026; its use in forecasts is not on record.
 
-- EUMETSAT says its SEWA project will sustain and upgrade the Regional ATOVS Retransmission Services network by modernising ground stations in Gabon, Kenya, Niger and South Africa for polar-orbiting satellite data ([source, 2025-10-24](http://www.eumetsat.int/strengthening-early-warning-africa-sewa)).
+- INM-GB states it completed installation of a CLIMSA/PUMA2025 station on 21-25 August 2026, tested and accepted, receiving EUMETSAT Meteosat Third Generation data in near real time at up to 10-minute intervals ([source, 2026-08-25](https://meteoguinebissau.gw/noticias/nova-esta%C3%A7%C3%A3o-climsa-e-puma2025/)).
 
 ### Liberia: 2 Nascent
 
@@ -231,6 +213,24 @@ The national weather service was receiving or installing a satellite data stream
 
 - NiMet says it completed installation of the PUMA 2025 / ClimSA Meteosat Third Generation satellite receiving station at its headquarters on 9 May 2025, replacing the earlier MSG 2015 station ([source, 2025-05-09](https://nimet.gov.ng/news?id=123)).
 
+### Uganda: 2 Nascent
+
+The national weather service was receiving a satellite data stream in 2026; its use in forecasts is not on record.
+
+- The Ministry of Water and Environment page says the National Meteorological Centre has a Synergie system receiving satellite imagery in twelve infra-red and visible channels, plus an MDD system receiving satellite data and NWP products ([source, 2026](https://mwe.go.ug/about/departments/meteorological-services/forecasting-services)).
+
+### Zambia: 2 Nascent
+
+The national weather service was receiving or installing a satellite data stream in 2025; its use in forecasts is not on record.
+
+- Zambia's Minister of Green Economy and Environment told the National Assembly that the government's investment in meteorological capability includes new high-performance computing facilities and advanced satellite receiving systems ([source, 2025-10-02](https://www.parliament.gov.zm/node/12604)).
+
+### Zimbabwe: 2 Nascent
+
+The national weather service was receiving a satellite data stream in 2026; its use in forecasts is not on record.
+
+- The Zimbabwe Meteorological Services Department's newsletter says the PUMA 2025 station for METEOSAT Third Generation was installed with reception confirmed satisfactory and the station 'fully operational and capable of receiving satellite data', with an EUMETCAST licence request submitted ([source, 2026-03](https://www.weatherzw.org.zw/documents/776/MSD_Newsletter_February_-_March_2026.pdf)).
+
 ### Algeria: Unplaced
 
 Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
@@ -248,6 +248,12 @@ Not established: Nothing found since October 2023 says whether the national weat
 Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
+
+### Central African Republic: Unplaced
+
+Nothing found since 2023 names satellite data in the national weather service itself, so no stage is set.
+
+Not established: No source found since November 2023 says the national weather service itself receives satellite data.
 
 ### Comoros: Unplaced
 
@@ -279,11 +285,11 @@ Nothing found since 2023 names satellite data in the national weather service, s
 
 Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
-### Guinea: Unplaced
+### Kenya: Unplaced
 
-Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service itself, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: No source found since November 2023 says the national weather service receives satellite data.
 
 ### Madagascar: Unplaced
 
@@ -298,12 +304,6 @@ Nothing found since 2023 names satellite data in the national weather service, s
 Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Namibia: Unplaced
-
-Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
-
-### Uganda: Unplaced
 
 Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "TCD-001",
       "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data.",
-      "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
-      "as_at": "2026-10-18"
+      "note": "Chad deployed satellite-based nowcasting to track convective events (February 2026). No source says warnings are issued from it.",
+      "as_at": "2026-11-11"
     }
   ]
 }

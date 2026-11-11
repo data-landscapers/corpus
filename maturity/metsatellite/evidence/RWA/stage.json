@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "RWA-001;RWA-002",
       "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data.",
-      "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
-      "as_at": "2026-10-18"
+      "note": "Meteo Rwanda's forecasting draws on EUMETSAT imagery (2023 and 2026). No source ties its warnings to satellite data, so its ISO 9001 certification cannot raise it.",
+      "as_at": "2026-11-11"
     }
   ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "ZAF-001",
       "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data.",
-      "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
-      "as_at": "2026-10-18"
+      "note": "SAWS lists Meteosat Second Generation in its observation footprint (November 2024). No held source ties its warnings to satellite data.",
+      "as_at": "2026-11-11"
     }
   ]
 }

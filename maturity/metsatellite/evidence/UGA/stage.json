@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "unplaced",
-      "stream": "",
+      "stage": "2",
+      "stream": "underway",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data.",
-      "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "UGA-001",
+      "gaps": "No source found since November 2023 says the weather service uses satellite data in its forecasts.",
+      "note": "The ministry's page says the National Meteorological Centre has Synergie and MDD systems receiving satellite imagery and data (2026). Nothing says its forecasts use them.",
+      "as_at": "2026-11-11"
     }
   ]
 }

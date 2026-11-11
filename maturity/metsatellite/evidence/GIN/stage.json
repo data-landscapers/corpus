@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "unplaced",
-      "stream": "",
+      "stage": "3",
+      "stream": "inservice",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data.",
-      "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "GIN-001",
+      "gaps": "No source found since November 2023 says the weather service issues warnings drawing on satellite data.",
+      "note": "The agency publishes Meteosat products on its site, a thunderstorm nowcasting product among them (2026), so it uses satellite data in nowcasting. Nothing says its warnings draw on it.",
+      "as_at": "2026-11-11"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "metsat",
-   "stage": "2",
-   "stream": "underway",
-   "warnings": "",
-   "certified": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CAF-001",
-   "gaps": "No source found since October 2023 says: does it use it in forecasts.",
-   "note": "First pass: counted from the four questions by study-ladder-metsatellite.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "metsat",
+      "stage": "unplaced",
+      "stream": "",
+      "warnings": "",
+      "certified": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found since November 2023 says the national weather service itself receives satellite data.",
+      "note": "Bangui's station is ASECNA's, listed among its airport centre's equipment, not the national weather service's. Nothing held says the national service receives satellite data.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }
