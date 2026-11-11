@@ -52,3 +52,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,MAR,infra.cybersec--national-cybersecurity-readiness,ladder,5,3,MAR-001;MAR-012;MAR-018,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-09,TUN,infra.cybersec--national-cybersecurity-readiness,ladder,5,3,TUN-023;TUN-016;TUN-024,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-09,TZA,infra.cybersec--national-cybersecurity-readiness,ladder,4,2,TZA-003;TZA-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-11,MAR,infra.cybersec--national-cybersecurity-readiness,ladder,3,5,MAR-013;MAR-020;MAR-001,"Restaged under message 114 (housekeeping 57): Decree 2-15-712 of 2016 delimits vital-importance infrastructures and requires incident declaration to the national centre; with the DGSSI's 2025 figures, 3 to 5."

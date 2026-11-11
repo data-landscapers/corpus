@@ -20,9 +20,9 @@ The Malabo Convention, chapter III, asks each party for a national cybersecurity
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Leading | 4 |
 | 4 Operating | 5 |
-| 3 Established | 12 |
+| 3 Established | 11 |
 | 2 Nascent | 33 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
@@ -54,6 +54,14 @@ The national cyber body published an account of incidents it dealt with for a pe
 - The National Kenya Computer Incident Response Team Coordination Centre, with State House ICT, restricted access to the defaced president.go.ke site to contain the attack detected 18 July 2026 ([source, 2026-07-18](https://itweb.africa/article/kenya-restores-presidential-website-after-cyber-attack/Gb3Bw7WadxLq2k6V)).
 - Cabinet Secretary Kabogo said the government established the National Cybersecurity Agency through a presidential order published in the Kenya Gazette to lead national coordination and run the National Cybersecurity Operations Centre ([source, 2026-10-28](https://www.kenyanews.go.ke/calls-to-boost-ai-driven-cybersecurity-cooperation-against-cybercrime/)).
 - Communications Authority Director General David Mugonyi says Kenya promulgated the Cybercrime and Computer Misuse (Critical Information Infrastructure and Cybercrime Management) Regulations in early 2024 to secure critical information infrastructure in sectors such as e-government, telecommunications, banking, transport, energy and health ([source, 2024](https://www.ca.go.ke/ca-lay-2500km-fibre-accross-19-counties)).
+
+### Morocco: 5 Leading
+
+Morocco's DGSSI issues alerts and publishes yearly figures, and vital-importance infrastructures must declare incidents to it.
+
+- Minister Delegate Abdellatif Loudiyi gave 879 attacks recorded, 109 direct interventions, 22 alerts and 511 bulletins (248 critical) for 2025 ([source, 2025](https://h24info.ma/maroc/dgssi-879-cyberattaques-recensees-en-2025/)).
+- AUSIM's white paper says Decree 2-15-712 of 22 March 2016 sets the protection regime for the sensitive systems of vital-importance infrastructures: it delimits their sectors (Article 3), has them identified and listed (Article 4) and requires security incidents to be declared to the national centre (Article 6) ([source, 2016-03-22](https://www.ausimaroc.com/wp-content/uploads/2021/09/Conformite-avec-le-Decret-02-15-712-Apport-de-la-Norme-internationale-ISO-27001.pdf)).
+- maCERT, the DGSSI's cyber watch and response centre, issued a security warning bulletin (ref. 65471806/26) on the FortiBleed leak affecting Fortinet firewalls and SSL VPN gateways, saying several Moroccan institutions were affected and urging MFA and password changes ([source, 2026-06-21](https://www.hespress.com/%D8%AD%D9%85%D9%84%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B6%D8%AE%D9%85%D8%A9-%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-1765087.html)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -137,14 +145,6 @@ The national cyber body responded to an incident or issued an alert in 2026; no 
 
 - CERT-MU published a security bulletin on 22 October 2026 rating the PHP2Shell vulnerabilities (CVE-2026-109618 and -109619) critical at 9.2, and the government took some state sites offline as a precaution ([source, 2026-10-22](https://lexpress.mu/node/563942)).
 - The ICT minister refers to the Computer Emergency Response Team of Mauritius (CERT-MU) as an existing body that is to sign a content takedown agreement with Meta ([source, 2026-10-10](https://lexpress.mu/s/avinash-ramtohul-il-faut-apporter-un-peu-de-discipline-dans-les-reseaux-sociaux-563444)).
-
-### Morocco: 3 Established
-
-Morocco's national cyber body issued alerts and intervened in 109 attacks in 2025; designation of critical information infrastructure is not known.
-
-- maCERT, the DGSSI's cyber watch and response centre, issued a security warning bulletin (ref. 65471806/26) on the FortiBleed leak affecting Fortinet firewalls and SSL VPN gateways, saying several Moroccan institutions were affected and urging MFA and password changes ([source, 2026-06-21](https://www.hespress.com/%D8%AD%D9%85%D9%84%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B6%D8%AE%D9%85%D8%A9-%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-1765087.html)).
-- The DGSSI said 109 of 879 recorded cyberattacks in 2025 needed direct intervention by its Centre de veille, and it issued 22 security alerts and 511 bulletins ([source, 2025](https://h24info.ma/maroc/dgssi-879-cyberattaques-recensees-en-2025/)).
-- The op-ed cites data given to Parliament in November 2025 that the DGSSI detected 879 cyber incidents, 109 of which required its direct intervention, and says it confirmed the 2025 Tawtik.ma data leak ([source, 2025-11](https://al3omk.com/1205193.html)).
 
 ### Sierra Leone: 3 Established
 

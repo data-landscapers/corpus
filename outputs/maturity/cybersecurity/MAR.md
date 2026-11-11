@@ -6,10 +6,10 @@
 
 **Responding to incidents.** [In June 2026 maCERT warned of the FortiBleed leak, saying several Moroccan institutions were affected](<https://www.hespress.com/%D8%AD%D9%85%D9%84%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B6%D8%AE%D9%85%D8%A9-%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-1765087.html>). [Of 879 attacks recorded in 2025, 109 needed direct intervention by the DGSSI's centre](<https://h24info.ma/maroc/dgssi-879-cyberattaques-recensees-en-2025/>).
 
-**Critical infrastructure.** No source found says the country designated its critical information infrastructure. None says operators of critical systems must report incidents to the national body. [The stage rests on the DGSSI's published figures](<https://h24info.ma/maroc/dgssi-879-cyberattaques-recensees-en-2025/>).
+**Critical infrastructure.** [Decree 2-15-712 of 2016 sets the protection regime for vital-importance infrastructures](<https://www.ausimaroc.com/wp-content/uploads/2021/09/Conformite-avec-le-Decret-02-15-712-Apport-de-la-Norme-internationale-ISO-27001.pdf>). It delimits their sectors, has their sensitive systems listed and requires incidents to be declared to the national centre. A white paper by AUSIM, the IT users' association, sets this out.
 
 **Published figures.** [For 2025 the minister gave 879 attacks recorded, 109 direct interventions, 22 alerts and 511 bulletins](<https://h24info.ma/maroc/dgssi-879-cyberattaques-recensees-en-2025/>). [For 2024 to mid-November the DGSSI recorded 644 attacks and issued 575 bulletins](<https://barlamantoday.com/2024/11/15/hackers-have-launched-644-cyberattacks-against-morocco-in-2024/>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found says Morocco's critical information infrastructure was designated. None says its operators must report incidents to the DGSSI.
+***Not found***. Nothing further is asked of this indicator.

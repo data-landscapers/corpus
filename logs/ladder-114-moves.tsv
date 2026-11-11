@@ -64,11 +64,11 @@ customs	MLI	customs	5	3	gap confirmed; asked notes-for-osint 318	2026-11-11
 customs	NER	customs	5	2	restaged 5 on NER-007 (by hand)	2026-11-11
 customs	RWA	customs	5	3	restaged 5 on RWA-005 (by hand)	2026-11-11
 customs	TGO	customs	5	3	restaged 5 on TGO-006 (by hand)	2026-11-11
-cybersecurity	AGO	readiness	4	2		
-cybersecurity	COD	readiness	4	2		
-cybersecurity	MAR	readiness	5	3		
-cybersecurity	TUN	readiness	5	3		
-cybersecurity	TZA	readiness	4	2		
+cybersecurity	AGO	readiness	4	2	gap confirmed; asked notes-for-osint 326	2026-11-11
+cybersecurity	COD	readiness	4	2	gap confirmed; asked notes-for-osint 326	2026-11-11
+cybersecurity	MAR	readiness	5	3	restaged 5 on MAR-020 (by hand)	2026-11-11
+cybersecurity	TUN	readiness	5	3	gap confirmed; asked notes-for-osint 326	2026-11-11
+cybersecurity	TZA	readiness	4	2	gap confirmed; asked notes-for-osint 326	2026-11-11
 dataexchange	TUN	exchange	5	3		
 dataprotectionauthority	BEN	body	5	3		
 dataprotectionauthority	MUS	body	5	3		
