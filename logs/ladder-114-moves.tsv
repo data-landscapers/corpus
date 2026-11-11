@@ -97,14 +97,14 @@ educationexchange	SWZ	exchange	5	unplaced
 educationmis	GIN	emis	4	2		
 educationmis	MWI	emis	4	2		
 educationmis	TZA	emis	4	2		
-egovservices	BEN	eservices	5	3		
-egovservices	COG	eservices	4	2		
-egovservices	RWA	eservices	5	3		
-egovservices	SDN	eservices	5	3		
-egovservices	SSD	eservices	4	2		
-egovservices	SYC	eservices	4	2		
-egovservices	ZAF	eservices	5	3		
-egovservices	ZMB	eservices	5	3		
+egovservices	BEN	eservices	5	3	restaged 5 on BEN-023 (by hand)	2026-11-11
+egovservices	COG	eservices	4	2	gap confirmed; asked notes-for-osint 317	2026-11-11
+egovservices	RWA	eservices	5	3	restaged 5 on RWA-011, RWA-012 (by hand)	2026-11-11
+egovservices	SDN	eservices	5	3	gap confirmed; asked notes-for-osint 317	2026-11-11
+egovservices	SSD	eservices	4	2	gap confirmed; asked notes-for-osint 317	2026-11-11
+egovservices	SYC	eservices	4	2	gap confirmed; asked notes-for-osint 317	2026-11-11
+egovservices	ZAF	eservices	5	3	gap confirmed; asked notes-for-osint 317	2026-11-11
+egovservices	ZMB	eservices	5	3	restaged 5 on ZMB-003 (by hand)	2026-11-11
 electoralregister	AGO	electoral	5	3		
 electoralregister	BWA	electoral	4	2		
 electoralregister	COM	electoral	4	unplaced		

@@ -20,9 +20,9 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Leading | 6 |
 | 4 Operating | 4 |
-| 3 Established | 11 |
+| 3 Established | 8 |
 | 2 Nascent | 32 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
@@ -37,6 +37,14 @@ Use of the national government services portal was published in 2026.
 - The Minister of Vocational Training says 82,383 candidates had registered through the national digital government services portal by 23 August 2026 ([source, 2026-08-23](https://www.echoroukonline.com/%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%A5%D8%AF%D8%B1%D8%A7%D8%AC-%D8%AE%D8%AF%D9%85%D8%A9-%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9)).
 - The one national portal carries services of the interior, transport, labour and social security and solidarity sectors, and users sign up for a temporary digital identity with their national ID number and personal details, per Louail ([source, 2026-07-14](https://elmassar-elarabi.dz/152310)).
 - The article says the national portal currently carries 21 digital services, to rise to 62 by end-2027 and 350 by 2028 ([source, 2026-07-29](https://elhiwar.dz/event/335541/)).
+
+### Benin: 5 Leading
+
+Benin's national portal offers over 200 services online through one user account, and publishes its request counts.
+
+- Digital minister Aurelie Adam Soule Zoumarou said on 21 November 2024 that people can use more than 200 e-services on service-public.bj ([source, 2024-11-21](https://www.banouto.bj/societe/article/20241123-e-services-publics-au-benin-ces-chiffres-qui-temoignent-d-une-vision-salutaire-et-juste)).
+- Nasuba reports that users of service-public.bj, which covers procedures from water and electricity to justice, ports and social protection, create an account or sign in to a personal space to submit requests and track them ([source, 2026-11-02](https://www.nasuba.info/politique-societe/benin-comment-fonctionne-le-portail-numerique-des-services-publics/)).
+- Nasuba reports that service-public.bj shows more than 2.5 million requests, per the portal's own home-page figures ([source, 2026-11-02](https://www.nasuba.info/politique-societe/benin-comment-fonctionne-le-portail-numerique-des-services-publics/)).
 
 ### Egypt: 5 Leading
 
@@ -53,6 +61,23 @@ One national portal carried over 22,000 services with over 15 million active acc
 - The deck gives over 15 million active eCitizen accounts ([source, 2026-05](https://id4africa.com/2026/files/T1-1-3-Kenya-FINAL.pdf)).
 - The Principal Secretary says e-Citizen, connected to the IPRS database that links the National Registration Bureau, civil registration and immigration, has more than 13 million registered users ([source, 2024-05-09](https://www.kenyanews.go.ke/digital-identity-id-roll-out-on-course-ps/)).
 - KBC reports ICT Cabinet Secretary William Kabogo saying over 33,000 government services are already digitised on the eCitizen platform ([source, 2025-06-03](https://www.kbc.co.ke/govt-pledges-full-digital-access-for-persons-with-disabilities/)).
+
+### Rwanda: 5 Leading
+
+Rwanda's Irembo portal offers 240 services online on one account, and publishes its application counts.
+
+- Minister Paula Ingabire told the Chamber of Deputies that the Irembo platform offers 240 government services, including civil registration, driving permits and business licences, which citizens can apply for online ([source, 2025-11-04](https://rwandadispatch.com/irembo-platform-transforms-access-to-public-services/)).
+- The Rwanda Development Board's guide says businesses log in with their IremboAccount to apply online for its business and investor services ([source, 2026-01-09](https://www.linkedin.com/posts/rdb-rwanda-development-board_watch-a-step-by-step-guide-to-accessing-business-activity-7415448921734545408-SHlm)).
+- IremboGov says residents must log in to their Irembo account on irembo.gov.rw to apply for Single Digital ID pre-enrollment, listed under the portal's Identification category ([source, 2026-10-16](https://support.new.irembo.gov.rw/en/support/solutions/articles/47001283560-how-to-apply-for-single-digital-id-adult-self-pre-enrollment-)).
+- MINICT says citizens submitted over 5 million applications through Irembo between 2023 and 2024, and more than 400,000 Rwandans had opened personal accounts as of March 2025 ([source, 2024](https://rwandadispatch.com/irembo-platform-transforms-access-to-public-services/)).
+
+### Zambia: 5 Leading
+
+Zambia's ZamPortal hosts 322 services with sign-in through the national digital identity, and publishes its transaction count.
+
+- ZamPortal, the government platform on the GSB, hosts 322 services that citizens can access and apply for online, per its director Beaton Sibulowa ([source, 2024-09-11](https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/)).
+- The finance ministry's ZamMobile user manual says users sign in through ZamPass, the national digital identity and authentication service, to find and apply for e-services on the ZamServices portal ([source, 2025-02-12](https://zamgov.gsb.gov.zm/docs/ZamGov%20User%20Manual.pdf)).
+- Sibulowa confirms ZamPortal has recorded over 3.7 million transactions and generated 5 billion Kwacha since its inception ([source, 2024-09-11](https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/)).
 
 ### Eswatini: 4 Operating
 
@@ -83,14 +108,6 @@ A single government gateway with shared sign-in was in service in 2026; its use 
 
 - The playbook presents the citizen portal e-bawaba.tn as the access point to services and to the national citizen register, with sign-in through E-Houwiya used by services of many ministries and bodies ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 - The playbook lists online services across citizen, business, transport, education, university, social, civil servant, justice and finance categories, and citizen portal functions including birth acts, driving licence and vehicle data, electronic signature, notifications and complaints ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
-
-### Benin: 3 Established
-
-Benin's national portal offered over 200 services online in 2024 and 2026; sign-in by national ID or one shared account is not known.
-
-- Digital minister Aurelie Adam Soule Zoumarou said on 21 November 2024 that people can use more than 200 e-services on service-public.bj ([source, 2024-11-21](https://www.banouto.bj/societe/article/20241123-e-services-publics-au-benin-ces-chiffres-qui-temoignent-d-une-vision-salutaire-et-juste)).
-- Over 50 government institutions use the national public services portal and gateway to offer around 270 services, per Cybernetica ([source, 2025-02-19](https://cyber.ee/resources/news/cybernetica-and-benin-continue-enhancing-the-country-s-digitalisation/)).
-- A Benin official says the national platform, launched in March 2020 with five services, now has over 210 services digitalised end to end ([source, 2026-10-28](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne)).
 
 ### Botswana: 3 Established
 
@@ -133,14 +150,6 @@ Ten or more government services could be completed online in 2025; a single gate
 
 - New Era says that only 13 public institutions currently offer online services, and NDP6 targets 100% digitalisation of government services by 2029/30 ([source, 2025-08](https://neweralive.na/namibia-targets-full-digital-transformation/)).
 
-### Rwanda: 3 Established
-
-Rwanda's national portal offered 240 services online in 2025; sign-in by national ID or one shared account is not known.
-
-- Minister Paula Ingabire told the Chamber of Deputies that the Irembo platform offers 240 government services, including civil registration, driving permits and business licences, which citizens can apply for online ([source, 2025-11-04](https://rwandadispatch.com/irembo-platform-transforms-access-to-public-services/)).
-- DIAL reports IremboGov is a one-stop portal for over 240 public services that citizens can access digitally and remotely ([source, 2025-05](https://dial.global/modern-governments-run-on-data-exemplars/)).
-- The deck says 247+ government services are available on Irembo, which is also the channel for Single Digital Identity pre-enrollment ([source, 2026-05](https://id4africa.com/2026/files/T1-3-1-Rwanda-FINAL.pdf)).
-
 ### South Africa: 3 Established
 
 South Africa's national portal carried 134 services in 2024; sign-in by national ID or one shared account is not known.
@@ -155,12 +164,6 @@ Sudan's national platform carried over 130 services from 46 bodies in 2026; sign
 - Columnist Hassan al-Sir reports browsing the Baladna platform and finding 79 digital services from 42 government bodies ([source, 2026-08-18](https://totelnews.com/archives/18347)).
 - SUNA reports the Director General of Sudan's Digital Transformation Authority told the UN Governance Innovation Summit in Baku that the Baladna platform brings together more than 46 government institutions and 134 digital services ([source, 2026-11-06](https://www.suna.sd/posts/alsodan-yokd-mn-km-alamm-almthd-llabtkar-fy-alhokm-an-althol-alrkmy-mhrk-asasy-laaaad-alaaamar)).
 - The Baldna government-institutions and trade category lists 24 services, such as import registration, electronic export contracts and exporter-importer register renewals ([source, 2026-09-19](https://baldna.gov.sd/services/2/list/1)).
-
-### Zambia: 3 Established
-
-Zambia's national portal hosted 322 services in 2024; sign-in by national ID or one shared account is not known.
-
-- ZamPortal, the government platform on the GSB, hosts 322 services that citizens can access and apply for online, per its director Beaton Sibulowa ([source, 2024-09-11](https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/)).
 
 ### Angola: 2 Nascent
 
