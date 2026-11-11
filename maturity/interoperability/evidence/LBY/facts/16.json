@@ -1,0 +1,11 @@
+{
+  "slug": "2023-02-01-lby-gia-interoperability-service",
+  "facts": [],
+  "systems": [
+    {"system": "GIA interoperability service (National Database and national data-exchange network)", "country_label": "Libya", "class": "other", "platform": "National Database at the General Information Authority", "owner": "General Information Authority", "tiers": ""}
+  ],
+  "note": "The page describes a service linking agencies to the National Database under two 2018 decisions; it states no interoperability framework, guidelines or draft.",
+  "claims": {
+    "gtmi-339a4bd728": "nothing: the page describes a data-exchange service, not a framework or guidelines"
+  }
+}

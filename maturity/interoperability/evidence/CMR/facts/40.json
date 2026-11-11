@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Only bare No answers; 'No / Unknown' does not state an absence.",
+  "claims": {
+    "gtmi-37bc6621c8": "nothing: enterprise architecture not assessed, bare no",
+    "gtmi-c7992bdcde": "nothing: 'No / Unknown' states no absence; drafting held as CMR-001"
+  }
+}

@@ -1,6 +1,7 @@
 iso3,source_slug,read,merged_on
 AGO,2025-03-13-ago-governo-angolano-deu-inicio-dos-trabalhos-para-a-definicao-do-quadro-n,,2026-11-10
 AGO,2025-07-11-ago-angola-da-passos-firmes-rumo-a-uma-administracao-publica-mais-intelige,,2026-11-10
+AGO,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 AGO,2026-02-09-tdr-implementacao-da-interoperabilidade-da-administracao-publica,,2026-10-19
 AGO,2026-02-10-agt-interoperabilidade-certidao-tributaria-orgaos-estado-angolano,,2026-10-19
 AGO,2026-02-11-ima-tdr-formacao-e-treinamento-da-plataforma-de-interoperabilidade,,2026-10-19
@@ -18,6 +19,7 @@ BDI,2024-05-03-bdi-developmentaid-pafen-egouv-strategie-interoperabilite,,2026-1
 BDI,2024-12-17-setic-concept-type-systemes-information-institutions-publiques,,2026-10-19
 BDI,2025-01-28-unicef-burundi-interoperability-civil-registry-health-kirundo,,2026-10-19
 BDI,2025-11-07-burundi-validates-national-data-governance-strategy,,2026-10-19
+BDI,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 BDI,2026-03-23-pafen-evaluation-mi-parcours-transformation-numerique,,2026-10-19
 BDI,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi,,2026-10-30
 BDI,2026-06-25-eac-backs-secure-data-sharing-framework,,2026-10-19
@@ -33,11 +35,13 @@ BEN,2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms,,2026-10-
 BEN,2025-07-02-ben-compte-rendu-du-conseil-des-ministres-du-02-juil-2025,,2026-11-01
 BEN,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-10
 BEN,2026-07-01-pasi-pdaie-architecture-systemes-etat,,2026-10-19
+BEN,2026-07-11 UXP Directory,,2026-11-11
 BEN,2026-07-17-benin-dpi-roadmap,,2026-10-19
 BEN,2026-07-28-asin-billet-juridique-cadre-interoperabilite-benin,,2026-10-19
 BEN,2026-07-31-benin-dpi-roadmap,,2026-10-19
 BEN,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-22
 BFA,2019-10-15-bfa-burkina24-referentiel-interoperabilite-administration,,2026-10-19
+BFA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 BFA,2026-05-20-bfa-declaration-sur-les-sous-points-12-6-et-12-10-burkina-faso-79e-assembl,,2026-10-22
 BFA,2026-10-16-bic-uemoa-8e-rencontre-annuelle-donnees-credit,,2026-10-19
 BFA,2026-10-27-bfa-burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social,,2026-11-10
@@ -45,6 +49,7 @@ BWA,2024-01-01-bwa-smartbots-eu-support-digital-transformation,,2026-10-19
 BWA,2025-02-26-bwa-estdev-team-europe-interoperability,,2026-10-19
 BWA,2025-08-17-bwa-digital-services-cybersecurity-bills-passed,,2026-10-19
 BWA,2025-10-17-bwa-digital-services-act-2025,,2026-10-19
+BWA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 BWA,2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana,,2026-10-19
 BWA,2026-02-17-eu-support-digital-transformation-botswana,,2026-10-19
 BWA,2026-03-23-ministry-of-higher-education-committee-of-supply-speech,,2026-10-19
@@ -55,6 +60,7 @@ CAF,2025-04-18-diagnostic-identite-digitale-etat-civil-oubanguimedias,,2026-10-1
 CAF,2025-05-21-worldbank-project-paper-af-car-public-sector-digital-governance,,2026-10-19
 CAF,2025-09-02-worldbank-pgnsp-procurement-plan-interoperabilite,,2026-10-19
 CAF,2025-11-20-caf-developmentaid-pgnsp-interoperabilite-tender,,2026-10-19
+CAF,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 CAF,2026-02-05-rca-mepci-dunia-digitalisation-effective,,2026-10-19
 CAF,2026-02-11-rca-mepci-lancement-plateforme-dunia-pnd,,2026-10-19
 CAF,2026-02-18-worldbank-pgnsp-procurement-plan,,2026-10-19
@@ -71,6 +77,7 @@ CIV,2025-01-01-civ-renforcement-du-systeme-d-information-de-sante,,2026-11-07
 CIV,2025-05-02 WURI Implementation Status Report - Cote d'Ivoire and Guinea (P161329 Seq 11),,2026-10-19
 CIV,2025-09-11-cote-divoire-atelier-interoperabilite-sig-rsu-protection-sociale,,2026-10-19
 CIV,2025-10-01-civ-ministere-transition-numerique-note-interoperabilite,,2026-10-19
+CIV,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 CIV,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-10
 CIV,2026-05-30-europe-east-africa-dpi-session-estonia-techreviewafrica,,2026-10-19
 CIV,2026-07-22-cote-divoire-cinq-administrations-integrent-plateforme-interoperabilite,,2026-10-19
@@ -80,6 +87,7 @@ CIV,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single
 CMR,2019-03-22-decret-2019-150-organisation-antic,,2026-10-19
 CMR,2025-10-27-across-21-countries-shared-journey-inclusive-digital-social-protection,,2026-10-19
 CMR,2025-11-20-services-publics-et-transparence-les-evolutions-cles-de-la-loi-e-gov,,2026-10-19
+CMR,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 CMR,2026-01-21-dmf-cameroun-loi-egov-acces-information-publique-validation-officielle,,2026-10-19
 CMR,2026-04-24-cameroons-national-artificial-intelligence-strategy-snia,,2026-10-19
 CMR,2026-08-18-dba-fgi-cameroun-camtel-interoperabilite-nationale,,2026-10-19
@@ -94,6 +102,7 @@ CMR,2026-11-03-cmr-sant-num-rique-le-cameroun-acc-l-re-l-interconnexion-de-ses-s
 COD,2022-02-04-cod-medd-atelier-referentiels-numeriques-interoperabilite,,2026-10-19
 COD,2022-04-16-cod-kt-adoption-normes-standards-numerique-secteur-public,,2026-10-19
 COD,2025-07-21-dr-congo-public-service-waste-biometric-id-registry-biometricupdate,,2026-10-19
+COD,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 COD,2026-02-19-ceni-transmet-fichier-electoral-onip-actualite,,2026-10-19
 COD,2026-05-06-drc-seeks-consultant-digital-transformation-dpi-biometricupdate,,2026-10-19
 COD,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-10
@@ -108,6 +117,7 @@ COD,2026-10-28-democratic-republic-of-congo-seeks-consultancy-for-500-million-di
 COD,2026-10-29-iati-xm-dac-6-4-013531-01-0-agbledu-smart-agri-markets-digitally-enabled-agriculture-ghana,,2026-11-01
 COD,2026-10-31-iati-xm-dac-41114-output-01003119-nga-timbuktoo-fintech,,2026-11-07
 COD,2026-10-31-iati-xm-dac-41301-766203-rwanda-fruit-tree-digital-monitoring,,2026-11-10
+COG,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 COG,2026-01-29-congo-registre-social-unique-insuffisamment-connu,,2026-10-19
 COG,2026-02-12-congo-datacenter-national-operationnel-mai-2026,,2026-10-19
 COG,2026-02-20-cog-sifec-cloture-recommandations-mfbpp,,2026-10-19
@@ -126,6 +136,7 @@ COM,2024-10-06 Comoros to implement digital govt program with AfDB grant (Digiti
 COM,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec,,2026-10-19
 COM,2025-08-23 PayLogic go-live of Comoros national interoperable payment switch,,2026-10-19
 COM,2025-10-16-e-administration-project-launch-eu-expertise-france-alwatwan,,2026-10-19
+COM,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 COM,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden,,2026-10-19
 COM,2026-07-01-dhis2-comores-climate-health-country-profile,,2026-10-19
 COM,2026-08-31-puc-gouv-km-portail-unique-citoyen-note-conceptuelle,,2026-10-19
@@ -136,15 +147,18 @@ CPV,2024-01-01-rediaspora-diaspora-electoral-registration,,2026-10-19
 CPV,2024-11-21-cpv-relevant-recommendations-to-ensure-the-success-of-sigmat-in-the-ecowas,,2026-10-27
 CPV,2025-06-10-cpv-bo-resolucao-46-2025-portal-unico-interoperabilidade,,2026-10-19
 CPV,2025-12-16-protocolo-interconexao-imij-dnap,,2026-10-19
+CPV,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 CPV,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado,,2026-10-19
 CPV,2026-02-24-governo-lanca-portal-govcv-modernizar-servicos-publicos-expressodasilhas,,2026-10-19
 CPV,2026-03-16-nosi-sistema-informacao-justica-penal,,2026-10-19
 CPV,2026-08-07-consulta-estrategica-sobre-o-futuro-digital-de-cabo-verde,,2026-10-19
 DJI,2022-01-01-cadre-interoperabilite-djibouti-cid,,2026-10-19
 DJI,2023-04-30-ega-djibouti-digital-interoperability-platform,,2026-10-19
+DJI,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 DJI,2026-09-06-africa24tv-djibouti-2026-government-work-programme,,2026-10-19
 DZA,2025-08-16-transactions-immobilieres-interoperabilite-nouvel-accord,,2026-10-19
 DZA,2025-12-08-dza-algerie360-nin-rnaec-administrations,,2026-10-19
+DZA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 DZA,2025-12-30-joradp-decret-25-320-gouvernance-donnees,,2026-10-19
 DZA,2026-01-01-decree-25-320-data-governance-technical-base-elmoudjahid,,2026-10-19
 DZA,2026-02-09-algeria-data-governance-launch-maghrebinfo,,2026-10-19
@@ -158,6 +172,8 @@ DZA,2026-09-26-dza-jeune-independant-guessoum-interoperabilite-numerique,,2026-1
 DZA,2026-10-20-dza-m-kamel-baddari-preside-la-cinquieme-reunion-multisectorielle-consacree-au-suivi,,2026-10-22
 DZA,2026-11-02-dza-transformation-numerique-en-algerie-des-infrastructures-aux-usages-len,,2026-11-05
 EGY,2022-01-01-eos-al-muwasafat-al-tarif-bil-muwasafat-al-duwaliyya-wal-ajnabiyya,,2026-10-19
+EGY,2022-11-01-egy-govstack-realizing-govstack-egyptian-journey,,2026-11-11
+EGY,2024-01-01-egypt-cloud-first-policy-2024-mcit,,2026-11-11
 EGY,2026-01-01-mcit-digital-government-digital-transformation,,2026-10-19
 EGY,2026-01-01-misr-al-raqmiyya-istratijiyyat-al-ittisalat-wa-tiknulujia-al-maalumat-2030,,2026-10-19
 EGY,2026-01-02-mcit-egypt-ict-sector-achievements-2025,,2026-10-19
@@ -169,6 +185,7 @@ EGY,2026-10-09-au-stc-cict-6th-ordinary-session-libreville,,2026-10-19
 ERI,2018-09-26-eritrea-national-id-card-ecoi,,2026-10-19
 ERI,2022-01-01-eritrea-global-digital-identity-index-govtech,,2026-10-19
 ERI,2025-09-01-hoai-digital-policy-matrix-update-data-protection-nascent,,2026-10-19
+ERI,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 ERI,2026-01-08-undp-eritrea-asycuda-world-digital-customs,,2026-10-19
 ERI,2026-04-06-uneca-eritrea-domesticated-igif-action-plan,,2026-10-19
 ETH,2019-01-01-ea-2019-ethiopian-government-interoperability-framework,,2026-10-19
@@ -177,10 +194,12 @@ ETH,2024-07-11 Ethiopia's Digital Government Strategy and Enterprise Architectur
 ETH,2024-07-19 Ethiopia's e-government leap to interoperability (EeGIF),,2026-10-19
 ETH,2024-12-28-eth-atalayar-dt-global-digital-government-strategy,,2026-10-19
 ETH,2025-10-01-eth-ethiopia-national-data-governance-strategy-edgs-summary,,2026-10-29
+ETH,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 ETH,2026-02-01-eth-scope-of-work-february-2026,,2026-11-07
 ETH,2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa,,2026-10-19
 ETH,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-10
 ETH,2026-08-06-eth-what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-com,,2026-11-10
+ETH,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 GAB,2021-06-15-world-bank-digital-gabon-project-pad,,2026-10-19
 GAB,2024-12-19-world-bank-digital-gabon-isr-seq7,,2026-10-19
 GAB,2025-06-23-gabon-legal-digital-id-three-projects,,2026-10-19
@@ -188,6 +207,7 @@ GAB,2025-10-07-gabon-egov-legal-framework,,2026-10-19
 GAB,2025-10-24-gabon-2026-digital-budget-156pct,,2026-10-19
 GAB,2025-10-25-gab-sante-connectee-le-gabon-adopte-l-identifiant-unique-et-le-dossier-med,,2026-11-07
 GAB,2025-11-17-gab-declaration-de-politique-generale-de-mark-alexandre-doumba-wtdc-25,,2026-10-24
+GAB,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 GAB,2025-12-22-gab-allafrica-aninf-souverainete-numerique,,2026-10-19
 GAB,2026-02-19-presidence-ga-audience-ika-technology-gabon-connect,,2026-10-19
 GAB,2026-05-06-agp-gabon-foncier-digitalisation-cadastre-application-ogooue,,2026-10-19
@@ -202,6 +222,7 @@ GHA,2024-01-01-gha-data-sharing-and-intermediation-of-public-service-delivery-pl
 GHA,2024-08-27-gha-nita-to-stop-wastage-on-ict-by-government-institutions,,2026-11-10
 GHA,2024-10-01-gha-csa-national-cybersecurity-policy-and-strategy,,2026-10-29
 GHA,2025-10-23-gha-nita-data-harmonisation-bill-consultation,,2026-10-19
+GHA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 GHA,2026-01-10-gha-gmj-lessons-discontinued-national-ehr,,2026-10-19
 GHA,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-10
 GHA,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing,,2026-10-19
@@ -210,6 +231,7 @@ GHA,2026-10-21-gha-sam-george-announces-national-data-exchange-hub-to-connect-48
 GHA,2026-10-22-gha-sam-george-urges-africa-to-develop-homegrown-digital-technologies,,2026-10-30
 GHA,2026-11-03-gha-refonte-ghana-gov-cbrain-omni-strategies-contract,,2026-11-05
 GIN,2024-06-11-strategie-nationale-digitalisation-guinee-digitale-2023-2027,,2026-10-19
+GIN,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 GIN,2026-01-01-ande-cadre-et-referentiels,,2026-10-19
 GIN,2026-01-22-verite224-dge-oneci-convention-fichier-electoral,,2026-10-19
 GIN,2026-04-07-ande-atelier-e-services-interoperabilite-systemes-publics,,2026-10-19
@@ -227,6 +249,7 @@ GIN,2026-10-27-gin-donnees-passagers-et-frontieres-la-guinee-mise-sur-l-expertis
 GMB,2019-01-01-gicta-functions-under-gambia-ict-agency-act-2019,,2026-10-19
 GMB,2020-10-01-gambia-e-government-strategy-2021-2024-moici,,2026-10-19
 GMB,2025-01-01-gambia-national-data-policy-validated-eeas,,2026-10-19
+GMB,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 GMB,2025-12-22-op-gov-gm-barrow-launching-statement-national-land-policy,,2026-10-19
 GMB,2026-03-08-tgo-waho-initie-la-mise-en-uvre-du-partage-automatise-des-donnees-de-sante,,2026-11-10
 GMB,2026-04-01-gambia-mocde-cstd29-statement-ai,,2026-10-19
@@ -240,12 +263,14 @@ GMB,2026-11-06-gmb-gov-t-launches-d40m-digital-skills-programme-for-1-280-youths
 GNB,"2025-07-10 Guinea-Bissau Council of Ministers approves three digital decrees (interoperability, data governance, cybersecurity)",,2026-10-19
 GNB,2025-10-31-gnb-decreto-27-2025-regulamento-nacional-interoperabilidade,,2026-10-19
 GNB,2025-11-15-wardip-gnb-publication-page-devemerge-interoperability-deliverable,,2026-10-19
+GNB,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 GNB,2026-04-30-gnb-ordem-de-servico-gdga-10-26-modulo-asyval-de-controlo-do-valor-aduanei,,2026-10-27
 GNB,2026-08-08-guineabissau-national-interoperability-framework,,2026-10-19
 GNB,2026-09-17-gnb-dga-lanca-oficialmente-o-modulo-de-manifesto-eletronico-via-aerea-no-s,,2026-10-27
 GNQ,2024-01-01-worldbank-equatorial-guinea-digital-economy-diagnostic,,2026-10-19
 GNQ,2024-06-25 Equatorial Guinea Digital Economy Country Diagnostic - Bridging the Gaps,,2026-10-19
 GNQ,2024-07-15 World Bank identifies priority actions for DPI in Equatorial Guinea,,2026-10-19
+GNQ,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 GNQ,2026-01-08-gnq-la-nueva-ley-de-contratos-del-sector-publico-en-guinea-ecuatorial-proc,,2026-10-27
 GNQ,2026-01-20-beac-ifc-lancement-bic-cemac-creditinfo,,2026-10-19
 GNQ,2026-04-08-inege-septima-sesion-comite-programas-estadisticos,,2026-10-19
@@ -259,6 +284,7 @@ GNQ,2026-10-20-xca-eccas-validates-regional-data-governance-framework-to-advance
 KEN,2023-01-01-kenya-gea-gif-interoperability-framework,,2026-10-19
 KEN,2025-09-12-ken-cs-kabogo-outlines-plans-to-accelerate-digital-transformation-and-cons,,2026-11-01
 KEN,2025-11-07-kenya-gea-interoperability-workshop-kicc,,2026-10-19
+KEN,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 KEN,2026-01-20-cybernetica-piloted-interoperability-platform-kenya,,2026-10-19
 KEN,2026-04-07-ken-kra-ksh-2-trillion-nine-months,,2026-10-19
 KEN,2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa,,2026-10-19
@@ -271,12 +297,15 @@ KEN,2026-09-24-ken-cross-border-digital-public-service-pilot,,2026-10-19
 KEN,2026-10-08-ken-nation-iebc-id-data-voter-targets,,2026-11-04
 KEN,2026-10-19-xaf-murke-digital-health-africa-market-consolidation,,2026-10-29
 LBR,2025-09-10-liberia-moe-au-iped-emis-modernisation-roadmap,,2026-10-19
+LBR,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 LBR,2026-04-28-liberia-executive-order-163-otdi-national-digitalization,,2026-10-19
 LBR,2026-04-29-executive-order-163-digital-government-ndmi-observer,,2026-10-19
 LBR,2026-07-17-liberia-otdi-terms-of-reference-executive-order-163,,2026-10-19
 LBR,2026-09-28-lbr-gha-onehealthehr-goes-live,,2026-10-19
 LBY,2022-12-01-gia-national-guide-for-government-data,,2026-10-19
+LBY,2023-02-01-lby-gia-interoperability-service,,2026-11-11
 LBY,2025-12-01-escwa-gia-lygif-interoperability-frameworks-roadmap,,2026-10-19
+LBY,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 LBY,2026-04-23-chambers-union-electronic-system-gia,,2026-10-19
 LBY,2026-04-23-gia-zakat-fund-data-governance-national-guide,,2026-10-19
 LBY,2026-06-30-lby-cjos-nawa-interoperability-platform,,2026-10-19
@@ -287,6 +316,7 @@ LSO,2024-07-22-lesotho-glea-e-gif-terms-of-reference,,2026-10-19
 LSO,2025-02-19-lesotho-budget-speech-2025-26,,2026-10-19
 LSO,2025-07-29-lesotho-india-dpi-mou-publiceye,,2026-10-19
 LSO,2025-08-26-lso-lesotho-charts-digital-future-with-public-infrastructure-plan,,2026-10-24
+LSO,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 LSO,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE,,2026-10-19
 LSO,2026-03-06-lso-qualisys-glea-egif-development,,2026-10-19
 LSO,2026-05-08-lesotho-national-spatial-development-infrastructure-policy-mahooana,,2026-10-19
@@ -304,6 +334,7 @@ MAR,2024-12-24-barlamane-dgsn-recap-cnie-2-0,,2026-10-19
 MAR,2025-01-01 Morocco adopts Cloud First Policy under Digital Morocco 2030,,2026-10-19
 MAR,2025-01-01-mar-remapp-benchmark-interoperabilite-administration,,2026-10-19
 MAR,"2025-07-14 Smart Africa co-creates Africa's first Cross-Border Data Exchange Guidelines (Rabat, ADD-chaired CAITA)",,2026-10-19
+MAR,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 MAR,2026-01-12-mtnra-ai-made-in-morocco-jazari-root-launch,,2026-10-19
 MAR,2026-01-30-industries-ma-maroc-ia-2030-roadmap-programmes,,2026-10-19
 MAR,2026-03-11-techafricanews-ai-made-in-morocco-industry-x0,,2026-10-19
@@ -319,6 +350,7 @@ MAR,2026-10-28-la-mauritanie-explore-l-exp-rience-marocaine-pour-interconnecter-
 MDG,2022-11-01-ugd-cadre-interoperabilite-v1.0.2,,2026-10-19
 MDG,2022-11-14-ugd-cadre-interoperabilite,,2026-10-19
 MDG,2025-12-01-decret-2025-1959-cadre-institutionnel-interoperabilite,,2026-10-19
+MDG,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 MDG,2026-02-17-mdg-prea-e-gp-impulsion-banque-mondiale,,2026-10-19
 MDG,2026-04-28-instat-interoperabilite-nationale,,2026-10-19
 MDG,2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress,,2026-10-19
@@ -330,6 +362,7 @@ MLI,2016-01-01-mali-matd-etat-civil-recensement-biometrique-ravec,,2026-10-19
 MLI,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees,,2026-10-19
 MLI,2025-01-01-apimali-creation-dentreprise,,2026-10-19
 MLI,2025-09-26 Mali introduces new platforms to enhance digital public service access,,2026-10-19
+MLI,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 MLI,2025-12-30-lessor-agetic-intranet-point-ml,,2026-10-19
 MLI,2026-01-01-agetic-lancement-3e-edition-semaine-du-numerique,,2026-10-19
 MLI,2026-08-03-mali-semaine-du-numerique-recommandations-souverainete,,2026-10-19
@@ -345,6 +378,7 @@ MOZ,2025-10-14-moz-interoperabilidade-dos-sistemas-do-governo-electronico-e-fund
 MOZ,2025-12-05-prioritizes-data-governance-digital-sovereignty-techafricanews,,2026-10-19
 MOZ,2025-12-05-workshop-valida-politica-estrategia-nacional-governacao-dados,,2026-10-19
 MOZ,2025-12-09-world-bank-data-governance-mozambique-final,,2026-10-19
+MOZ,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 MOZ,2026-04-16-atdi-misau-mou-digital-health,,2026-10-19
 MOZ,2026-06-11-intic-egif4m2-regulation-review,,2026-10-19
 MOZ,2026-06-26-moz-atdi-e-bau-alinham-visao-de-servicos-publicos-digitais-integrados-e-ce,,2026-10-31
@@ -359,6 +393,7 @@ MRT,2025-04-04-mrt-khidmaty-services-publics-investisseurs,,2026-10-19
 MRT,2025-11-25-mrt-mauritanie-ue-reunion-pour-evaluer-le-niveau-de-cooperation-numerique,,2026-11-10
 MRT,2025-12-04-ami-lancement-preparation-agenda-national-transformation-numerique-2030,,2026-11-07
 MRT,2025-12-05-mrt-ecofin-health-system-digital-transformation,,2026-10-19
+MRT,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 MRT,2026-02-16-ami-lancement-portail-national-procedures-administratives-ijraati,,2026-10-19
 MRT,2026-02-22 Mauritania Centralizes 800 Administrative Procedures in New Digital Portal (Ijraati),,2026-10-19
 MRT,2026-03-27-mrt-ecofin-national-standards-digital-public-services,,2026-10-19
@@ -378,12 +413,14 @@ MUS,2002-11-01 Mauritius e-Government Interoperability Framework v1.0,,2026-10-1
 MUS,2016-08-01-infohighway-data-sharing-platform,,2026-10-19
 MUS,2024-01-01-infohighway-leaflet-v12,,2026-10-19
 MUS,"2024-03-01 Enhancing Data-Sharing Practices Between Government Agencies (case study, Sone Osakwe)",,2026-10-19
+MUS,2025-04-01-mus-enterprise-architecture,,2026-11-11
 MUS,2025-04-09-ict-data-protection-strategy-in-preparation-lexpress,,2026-10-19
 MUS,2026-02-01-national-data-strategy-2025-2029-launch-lexpress,,2026-10-19
 MWI,2019-09-01-digital-government-strategy-malawi,,2026-10-19
 MWI,2022-05-20-malawi-foundational-legal-identity-system,,2026-10-19
 MWI,2025-01-01-establishment-harmonized-national-management-information-system,,2026-10-19
 MWI,"2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities",,2026-10-19
+MWI,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 MWI,2026-01-13-ict-sector-2025-implementation-woes-times,,2026-10-19
 MWI,2026-04-27-mwi-dhis2-diabetes-compass-project,,2026-10-19
 MWI,2026-06-11-government-data-sharing-regulation-boma-lathu-itweb,,2026-10-19
@@ -392,6 +429,7 @@ MWI,2026-08-04-malawi24-cosoma-cd-burning-data-royalty-payouts,,2026-10-19
 NAM,2015-03-06-namibia-nsdi-policy-gazette-5684,,2026-10-19
 NAM,2024-01-01-namibia-governmental-interoperability-framework-nam-x,,2026-10-19
 NAM,2024-10-01-namibia-eec-egovernment-consultancy-interoperability-framework,,2026-10-19
+NAM,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 NAM,2026-01-01-bon-nps-vision-strategy-2030,,2026-10-19
 NAM,2026-01-30-bon-open-banking-standards-guidance-note,,2026-10-19
 NAM,2026-07-20-nam-tfad-namibia-article-10-4-single-window,,2026-10-27
@@ -401,9 +439,12 @@ NER,2024-01-01-lesahel-wuri-niger-presentation-projet,,2026-10-19
 NER,2024-03-01-interview-niger-single-window-ali-karim-alio,,2026-10-19
 NER,2025-07-24-national-committee-critical-digital-infrastructure-lesahel,,2026-10-19
 NER,2025-08-11 Stakeholders validate strategy on digital ID interoperability in West Africa (WURI),,2026-10-19
+NER,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 NER,2026-02-07-wuri-niger-mission-appui-decisions-majeures,,2026-10-19
 NER,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite,,2026-11-10
 NER,2026-09-30-ner-connecting-niger-s-health-information-systems,,2026-11-10
+NGA,2019-03-01-nga-nitda-nigerian-government-enterprise-architecture-v1,,2026-11-11
+NGA,2019-08-01-nga-nitda-ne-gif-interoperability-framework,,2026-11-11
 NGA,2024-01-01-nga-nitda-e-government-development-department,,2026-11-10
 NGA,2024-04-10-nga-idemia-upgrading-nigeria-s-national-biometric-system-to-handle-250m-id,,2026-11-10
 NGA,2025-04-15-nitda-draft-dpi-technical-standards,,2026-10-19
@@ -414,10 +455,12 @@ NGA,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sove
 NGA,2026-05-26-nga-estonia-and-finland-join-forces-to-implement-eu-digital-governance-pro,,2026-10-29
 NGA,2026-06-13-nga-thisdaylive-katsina-dpi-ngf-readiness-ikatsina,,2026-11-10
 NGA,2026-10-21-nga-fg-moves-to-regulate-ai-use-in-healthcare,,2026-10-24
+NGA,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 NGA,2026-11-10-nga-national-single-window-export,,2026-11-10
 RWA,"2019-10-01 E-Government Systems Interoperability Challenges - Public Sector in Rwanda (Mugumya, MSc thesis)",,2026-10-19
 RWA,2025-11-11-tza-eac-begins-building-regional-instant-payment-network-with-rwanda-tanza,,2026-10-27
 RWA,2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025,,2026-10-19
+RWA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 RWA,2026-03-11-dpi-strategy-launch-newtimes,,2026-10-19
 RWA,2026-03-20 Rwanda Launches Digital Public Infrastructure Strategy to Lay Groundwork for AI and Inclusive Growth,,2026-10-19
 RWA,2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa,,2026-10-19
@@ -426,6 +469,7 @@ RWA,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-mi
 RWA,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-22
 RWA,2026-11-01-rwa-c4ir-rwanda-projects,,2026-11-10
 SDN,2016-01-01-sudan-nic-egovernment-smart-transition-plan,,2026-10-19
+SDN,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 SDN,"2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa",,2026-10-19
 SDN,2026-08-27-who-africa-regional-health-data-hub,,2026-10-19
 SDN,2026-08-29-baldna-platform-gov-plt-product-page,,2026-10-19
@@ -435,6 +479,7 @@ SEN,2024-07-23-sen-interoperability-in-digital-health-in-west-africa,,2026-11-07
 SEN,2025-04-22-lesoleil-interoperability-platform,,2026-10-19
 SEN,2025-09-19-techafricanews-interoperability-update,,2026-10-19
 SEN,2025-10-11-sen-analyse-des-politiques-de-digitalisation-au-senegal-pour-une-transform,,2026-11-10
+SEN,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 SEN,2026-01-16-sen-pins-plateforme-interministerielle-x-road-pilote-pnbsf-cmu,,2026-10-29
 SEN,2026-01-23-etat-civil-statistiques-publiques-gouvernance-donnee,,2026-10-19
 SEN,2026-03-16-new-deal-technologique-un-an,,2026-10-19
@@ -454,11 +499,13 @@ SEN,2026-09-22-sen-paens-tdr-pins-infrastructure-study,,2026-10-19
 SEN,2026-09-24-sen-guindima-pins-interoperability-tender,,2026-10-19
 SEN,2026-10-20-sen-sngal-une-nouvelle-instance-pour-harmoniser-les-projets-numriques-de-ltat,,2026-10-22
 SEN,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-22
+SLE,2021-01-01-sierra-leone-national-digital-development-policy-2021,,2026-11-11
 SLE,2024-04-17-sierra-leone-mocti-standards-and-compliance,,2026-10-19
 SLE,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank),,2026-10-19
 SLE,2025-07-01-sle-ministry-of-finance-ends-two-day-stakeholder-engagement-on-public-fina,,2026-11-10
 SLE,2025-10-31-sierra-leone-mocti-enterprise-architecture-training,,2026-10-19
 SLE,2025-10-31-sle-dfmst-and-stakeholders-conclude-two-day-validation-exercise-on-draft-i,,2026-10-29
+SLE,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 SLE,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure,,2026-10-19
 SLE,2026-08-12-liberia-sierra-leone-digital-transformation-cooperation,,2026-10-19
 SLE,2026-08-14-sierra-leone-namea-monitoring-evaluation-digital-platform,,2026-10-19
@@ -470,6 +517,7 @@ SOM,2024-09-29-som-govstack-digital-leaders-spotlight-somalia,,2026-10-19
 SOM,2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029,,2026-10-19
 SOM,2025-10-13 Somalia moves to finalize Digital Transformation Strategy 2025-2030 with ITU support,,2026-10-19
 SOM,2025-12-17-som-dpa-consultative-meeting-national-digital-interoperability-framework,,2026-11-10
+SOM,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 SOM,2026-01-29 Mogadishu to Host First National Digital Public Infrastructure Summit; Key Agencies to Map Out Digital Transformation Strategy,,2026-10-19
 SOM,2026-04-28-dpi-somalia-risks-repeating-old-mistakes,,2026-10-19
 SOM,2026-06-28-somalia-nira-national-id-public-service-integration-working-group,,2026-10-19
@@ -481,6 +529,7 @@ SOM,2026-10-16-som-wb-op00475480-api-gateway-sso-portal-reoi,,2026-10-19
 SOM,2026-10-19-som-developmentaid-eardip-api-gateway-sso-portal-reoi,,2026-10-19
 SOM,2026-10-27-som-dowladda-soomaaliya-oo-ansixinaysa-qaab-dhismeedka-qaranka-ee-isku-duw,,2026-10-31
 SSD,2024-02-23-ssd-ccd-data-stewardship-workshop,,2026-10-19
+SSD,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 SSD,2026-05-14-south-sudan-defends-crawford-capital-deal-eastleighvoice,,2026-10-19
 SSD,2026-05-25-gea-consulting-tender-eardip-south-sudan,,2026-10-19
 SSD,2026-06-01-ssd-mictps-eardip-reoi-data-governance-strategy-interoperability-framework,,2026-11-10
@@ -496,11 +545,14 @@ STP,2023-12-15-stp-estrategia-nacional-ciberseguranca-texto-integral,,2026-10-19
 STP,2024-01-01-stp-inic-regulamentacoes-lei-1-2024-qni,,2026-10-19
 STP,2025-04-22-sao-tome-dpssf-sistema-kenon-informacao-protecao-social,,2026-10-19
 STP,2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade,,2026-10-19
+STP,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 STP,2026-01-29-lusophone-countries-in-africa-deepen-digital-cooperation-to-strengthen-data-governance,,2026-10-19
 STP,2026-10-27-stp-sao-tome-e-principe-defende-mecanismos-mais-rapidos-para-obter-provas,,2026-11-10
 SWZ,2024-01-01-swz-iom-migration-digital-maturity-assessment,,2026-10-19
+SWZ,2025-03-01-swz-e-government-interoperability-framework-v1,,2026-11-11
 SWZ,2025-06-28-digital-eswatini-project-pid,,2026-10-19
 SWZ,2025-10-29-ers-intensifies-drive-close-tax-gap,,2026-10-19
+SWZ,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 SWZ,2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems,,2026-10-19
 SWZ,2026-03-31-hmis-eswatini-cmis-dhis2-integration,,2026-10-19
 SWZ,2026-04-29-eu-eswatini-national-data-policy-support,,2026-10-19
@@ -510,6 +562,7 @@ SWZ,2026-06-12-hmis-eswatini-cmis-elmis-integration,,2026-10-19
 SWZ,2026-07-22-mchumanisi-data-exchange-platform,,2026-10-19
 SWZ,2026-07-27-eswatini-validates-national-data-governance-policy,,2026-10-19
 SYC,2020-01-01-seychelles-spatial-data-sharing-policy,,2026-10-19
+SYC,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 SYC,2026-07-04-comesa-seychelles-eco-launch,,2026-10-19
 SYC,2026-07-10-syc-what-does-it-take-for-a-small-island-nation-to-embrace-the-opportuniti,,2026-10-22
 SYC,2026-07-25-seychelles-src-final-stage-e-invoicing-procurement,,2026-10-19
@@ -521,6 +574,7 @@ SYC,2026-09-09-syc-statehouse-cabinet-digital-economic-transformation-forum,,202
 SYC,2026-10-29-syc-cabinet-business-wednesday-28-october-2026,,2026-10-31
 TCD,2019-01-28-tcd-hacettepe-e-gouvernement-administration-tchad,,2026-10-19
 TCD,2025-07-01-adetic-missions,,2026-10-19
+TCD,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 TCD,2026-03-16 Chad uses national biometric registry to boost govt systems interoperability,,2026-10-19
 TCD,2026-04-01-tchadinfos-dgi-dgtcp-protocole-echange-de-donnees,,2026-10-19
 TCD,2026-04-02-atpe-protocole-dgi-dgtcp-echange-automatise-donnees,,2026-10-19
@@ -537,21 +591,26 @@ TGO,2025-01-01-anid-togo-presentation-missions,,2026-10-19
 TGO,2025-01-08-democratisation-de-l-acces-aux-donnees-publiques-au-togo,,2026-10-19
 TGO,2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange,,2026-10-19
 TGO,2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers,,2026-10-19
+TGO,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 TGO,2026-05-13-togofirst-amu-siig-amu-systeme-numerique-unifie-architecture-federee,,2026-10-19
 TGO,2026-09-06-togo-atd-guide-architecture-entreprise-controle-version,,2026-10-19
 TGO,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-22
 TUN,2020-06-10-tunisie-decret-loi-2020-31-interoperabilite-echange-electronique,,2026-10-19
 TUN,2020-10-05-tunisie-decret-gouvernemental-2020-777-interoperabilite,,2026-10-19
+TUN,2022-10-18-tun-lancement-du-projet-architecture-d-entreprise-gouvernementale-aeg,,2026-11-11
 TUN,2024-02-07-mtc-tunisie-lancement-plateforme-nationale-interoperabilite-uxp,,2026-10-19
 TUN,2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP),,2026-10-19
 TUN,2025-01-01-tunisie-cni-interoperability-solutions,,2026-10-19
+TUN,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 TUN,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-10
 TUN,2026-05-14-cybernetica-national-interoperability-platform-phase2,,2026-10-19
 TUN,2026-05-22-tunisie-lequotidien-interoperabilite-phase-2-192-projets,,2026-10-19
 TUN,2026-09-03-syc-africacdc-hie-interoperability-framework-consultants,,2026-10-19
 TUN,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-22
 TZA,2016-02-01-e-government-interoperability-framework,,2026-10-19
+TZA,2017-11-01-tza-ega-architecture-vision-standards,,2026-11-11
 TZA,2025-01-01-tza-jamii-x-change,,2026-10-30
+TZA,2025-06-23-tza-ega-waziri-mkuu-azindua-govesb,,2026-11-11
 TZA,2025-11-11-tza-eac-begins-building-regional-instant-payment-network-with-rwanda-tanza,,2026-10-27
 TZA,2026-02-18-ega-standards-guidelines-government-applications,,2026-10-19
 TZA,2026-03-12-tanzania-validates-electronic-data-governance-strategy,,2026-10-19
@@ -562,10 +621,12 @@ TZA,2026-09-02-tza-nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako,,2
 UGA,2021-05-06 Uganda e-Government Interoperability Framework (e-GIF),,2026-10-19
 UGA,2022-02-26 Uganda Digital Government Strategy v1.1,,2026-10-19
 UGA,2023-01-01-uganda-health-information-exchange-interoperability-guidelines,,2026-10-19
+UGA,2023-04-01-uga-moh-digital-health-enterprise-architecture-standards-dh-ask,,2026-11-11
 UGA,2024-06-12-uga-uganda-article-10-4-single-window-progress-reported-g-tfa-n-uga-4,,2026-10-27
 UGA,2024-06-28 Integrated National Data Exchange Systems - Uganda Case Study,,2026-10-19
 UGA,2025-03-06-ken-kenya-and-uganda-tackle-the-challenge-of-exchanging-images-of-scanned,,2026-10-27
 UGA,2025-06-19-nita-u-integration-service-ughub,,2026-10-19
+UGA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 UGA,2026-02-18-ega-uganda-launches-renewal-gea-egif,,2026-10-19
 UGA,2026-05-27-ega-uganda-renewed-digital-government-frameworks,,2026-10-19
 UGA,2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30,,2026-10-19
@@ -573,12 +634,14 @@ UGA,2026-06-22-nita-u-five-year-digital-strategy,,2026-10-19
 UGA,2026-07-02-uga-familiarisation-visit-highlights-nita-u-s-digital-progress,,2026-10-27
 UGA,2026-10-01-uga-news-nira-to-register-learners-correct-identity-errors-in,,2026-10-19
 UGA,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-22
+UGA,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 ZAF,2025-04-02-zaf-dpsa-data-governance-directive,,2026-10-19
 ZAF,2025-08-28-zaf-question-nw4571-to-the-minister-of-public-service-and-administration,,2026-10-27
 ZAF,2025-09-27-mzansixchange-pilot-programme,,2026-10-19
 ZAF,2025-10-09-treasury-mzansixchange-pilot-launch-speech,,2026-10-19
 ZAF,2025-10-10-mzansixchange-launch,,2026-10-19
 ZAF,2025-11-05-govt-data-exchange-estonia-xroad,,2026-10-19
+ZAF,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 ZAF,2026-01-01-operation-vulindlela-phase-ii-progress-report-q3-2025-26,,2026-10-19
 ZAF,"2026-01-28 State is blocking access to SASSA grants, argue activists",,2026-10-19
 ZAF,2026-02-06-sassa-sars-credit-administrators-social-grants,,2026-10-19
@@ -591,9 +654,11 @@ ZAF,2026-09-22-sita-recovery-mode-comms-minister,,2026-10-19
 ZAF,2026-10-30-zaf-operation-vulindlela-implementation-continues-to-make-strides,,2026-11-04
 ZMB,2019-02-01-zambia-egovernment-interoperability-standard,,2026-10-19
 ZMB,2024-06-25-zmb-smartcare-disa-integration-live,,2026-10-19
+ZMB,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 ZMB,2026-06-18-zambia-launches-znsdi-policy-geoportal,,2026-10-19
 ZMB,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-22
 ZWE,2024-01-01-enterprise-architecture-modelling-zimbabwe,,2026-10-19
+ZWE,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 ZWE,2026-05-08-zimbabwe-smart-government-digital-blueprint,,2026-10-19
 ZWE,2026-05-08-zwe-mavetera-enterprise-architecture-linkedin,,2026-10-19
 ZWE,2026-05-15-zimbabwe-national-migration-data-strategy-launch,,2026-10-19

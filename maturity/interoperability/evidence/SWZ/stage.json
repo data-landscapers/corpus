@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "framework",
-      "stage": "2",
-      "standing": "draft",
+      "stage": "3",
+      "standing": "adopted",
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-002",
-      "gaps": "No source found says a government interoperability framework is adopted and published.",
+      "stage_sources": "SWZ-003",
+      "gaps": "No source found says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.",
       "note": "Counted from the four questions by study-ladder-interoperability.py.",
-      "as_at": "2026-10-13"
+      "as_at": "2026-11-11"
     }
   ]
 }

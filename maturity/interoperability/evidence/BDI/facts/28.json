@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Only bare No answers; 'No / Unknown' does not state an absence.",
+  "claims": {
+    "gtmi-78f1046e1e": "nothing: enterprise architecture not assessed, bare no",
+    "gtmi-c047028dbc": "nothing: 'No / Unknown' states no absence; planning held as BDI-001"
+  }
+}

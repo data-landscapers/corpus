@@ -1,0 +1,19 @@
+{
+  "slug": "2019-08-01-nga-nitda-ne-gif-interoperability-framework",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted",
+     "fact": "NITDA issued the Nigeria e-Government Interoperability Framework (Ne-GIF), release v1.2 of August 2019 (v1.0 May 2018), under section 6(a) and (c) of the NITDA Act 2007, as the baseline framework for how MDAs' systems exchange data.",
+     "as_of": "2019-08", "date_precision": "month", "system": "Nigeria e-Government Interoperability Framework (Ne-GIF)", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "use", "value": "none",
+     "fact": "The Ne-GIF lists its enforcement category as Recommended, not Mandatory, and section 4.5 states that compliance cannot be compelled, only encouraged, and that enforceable guidelines are still needed.",
+     "as_of": "2019-08", "date_precision": "month", "system": "Nigeria e-Government Interoperability Framework (Ne-GIF)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Nigeria e-Government Interoperability Framework (Ne-GIF)", "country_label": "Nigeria", "class": "framework", "platform": "", "owner": "National Information Technology Development Agency (NITDA)", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "aftech-df3918a1a7": "nothing: held as NGA-002",
+    "gtmi-fcbb08a40c": "nothing: held as NGA-002"
+  }
+}

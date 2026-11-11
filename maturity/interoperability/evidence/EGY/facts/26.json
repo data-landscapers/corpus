@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-egypt-cloud-first-policy-2024-mcit",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "Egypt's Cloud First Policy says the Supreme Council of Digital Society, its executive office and specialised committees started developing national legislation, with executive regulations, on the classification, provision and exchange of official data and information; dated by the policy's 2024 publication year.", "as_of": "2024", "date_precision": "year", "system": "national legislation on classification, provision and exchange of official data and information", "class": "framework"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "gtmi-b26de322fc": "fact"
+  }
+}

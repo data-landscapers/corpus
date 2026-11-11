@@ -1,0 +1,15 @@
+{
+  "slug": "2022-10-18-tun-lancement-du-projet-architecture-d-entreprise-gouvernementale-aeg",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft",
+     "fact": "L'Echo Tunisien reports that the ICT minister launched the Government Enterprise Architecture (AEG) project on 17 October 2022, which aims to provide reference frameworks for state information systems and secure data exchange between state bodies.",
+     "as_of": "2022-10-17", "date_precision": "day", "system": "Architecture d'Entreprise Gouvernementale (AEG)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Architecture d'Entreprise Gouvernementale (AEG)", "country_label": "Tunisie", "class": "framework", "platform": "", "owner": "Ministry of Communication Technologies", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-a092bd3397": "nothing: enterprise architecture named with no adoption or exchange rule stated; the 2022 project launch is recorded from the primary"
+  }
+}

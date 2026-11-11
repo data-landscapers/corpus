@@ -1,0 +1,276 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+gtmi-9487457841,gtmi,2022,AGO,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c9867f998a,gtmi,2025,AGO,I-2,Is there a government enterprise architecture framework?,2 Yes,Arquitectura de Referência do Governo Electrónico,2024,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture reference, no exchange rule stated, not assessed"
+gtmi-f318f5ac72,gtmi,2020,AGO,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-73b42ed120,gtmi,2022,AGO,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-bb55c713f7,gtmi,2025,AGO,I-3,Is there a government interoperability framework?,2 Yes,Plano Nacional da Arquitetura Global para a Interoperabilidade da Administração Central e Local do Estado,2018,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by AGO-001: IMA was still writing the framework in 2026; the 2018 plan is an architecture plan
+gtmi-0ef74712ed,gtmi,2022,BDI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-78f1046e1e,gtmi,2025,BDI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture not assessed, bare no"
+gtmi-bd8259ecfe,gtmi,2020,BDI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b1bd72273a,gtmi,2022,BDI,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-c047028dbc,gtmi,2025,BDI,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,'No / Unknown' states no absence; planning held as BDI-001
+gtmi-07b5c6cc3a,gtmi,2020,BEN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-81d800ffd7,gtmi,2025,BEN,I-2,Is there a government enterprise architecture framework?,2 Yes,BEGEAF - Benin Government Enterprise Architecture Framework,2025,partial,read-before,2025-02-21-ben-architecture-gouvernementale-pour-les-projets-numeriques-au-benin-des,,"reading list 30, already read for this study"
+gtmi-ff835e40b1,gtmi,2022,BEN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-36f747ddd7,gtmi,2022,BEN,I-3,Is there a government interoperability framework?,2 Yes,X-Road,2020,same,superseded,,,the 2025 round answers it
+gtmi-37f147d88d,gtmi,2025,BEN,I-3,Is there a government interoperability framework?,2 Yes,National Interoperability Framework,2020,same,nothing,2026-07-11 UXP Directory,,held as BEN-002
+gtmi-271916c4c8,gtmi,2022,BFA,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-81c396fe53,gtmi,2020,BFA,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-f0ab7f8496,gtmi,2025,BFA,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture not assessed, bare no"
+gtmi-0d8065321e,gtmi,2025,BFA,I-3,Is there a government interoperability framework?,2 Yes,Référentiel général d'interopérabilité,2018,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BFA-001
+gtmi-90eccbb509,gtmi,2022,BFA,I-3,Is there a government interoperability framework?,2 Yes,Référentiel général d’interopérabilité,2018,same,superseded,,,the 2025 round answers it
+gtmi-098d0f9f2c,gtmi,2022,BWA,I-2,Is there a government enterprise architecture framework?,2 Yes,Government Wide Enterprise Architecture,2019,partial,superseded,,,the 2025 round answers it
+gtmi-2c9f50b8e4,gtmi,2020,BWA,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-47a986e40e,gtmi,2025,BWA,I-2,Is there a government enterprise architecture framework?,2 Yes,Government Wide Enterprise Architecture,2019,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture, link is a journal article, not assessed"
+gtmi-4c3c7fde9e,gtmi,2022,BWA,I-3,Is there a government interoperability framework?,2 Yes,e-Government Interoperability Framework,2017,same,superseded,,,the 2025 round answers it
+gtmi-f8b9fe4003,gtmi,2025,BWA,I-3,Is there a government interoperability framework?,1 In draft / Planned,e-Government Interoperability Framework,2027,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BWA-001
+gtmi-21108979a1,gtmi,2025,CAF,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture not assessed, bare no"
+gtmi-7340b41798,gtmi,2022,CAF,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d77086cbdc,gtmi,2020,CAF,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-6da1b5c63d,gtmi,2022,CAF,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-f0b7e5f5a1,gtmi,2025,CAF,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,'No / Unknown' states no absence
+gtmi-72ba78e684,gtmi,2025,CIV,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,Cadre commun d'architecture de référentiel de données,2026,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"data reference architecture, no exchange rule stated, not assessed"
+gtmi-7636ae9e5f,gtmi,2022,CIV,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-db7d1681c6,gtmi,2020,CIV,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-0a0245d8d6,gtmi,2022,CIV,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-7b19a86bd4,gtmi,2025,CIV,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by CIV-001
+gtmi-37bc6621c8,gtmi,2025,CMR,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture not assessed, bare no"
+gtmi-8daeab469f,gtmi,2020,CMR,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b05a740f5f,gtmi,2022,CMR,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-6aa46df7f1,gtmi,2022,CMR,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-c7992bdcde,gtmi,2025,CMR,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,'No / Unknown' states no absence; drafting held as CMR-001
+gtmi-3e79e75d93,gtmi,2022,COD,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-47dfa864f6,gtmi,2025,COD,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture not assessed, bare no"
+gtmi-8bb19b1de1,gtmi,2020,COD,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e7e6d05463,gtmi,2025,COD,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by COD-002
+gtmi-edb54fe674,gtmi,2022,COD,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-0d69eae2a1,gtmi,2025,COG,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture not assessed, bare no"
+gtmi-3efc38d73d,gtmi,2020,COG,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-df7e2b248f,gtmi,2022,COG,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ac4f6bc49c,gtmi,2025,COG,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,'No / Unknown' states no absence; draft held as COG-001
+gtmi-d3a07a37c3,gtmi,2022,COG,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-209690cd60,gtmi,2020,COM,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-929bcfb410,gtmi,2025,COM,I-2,Is there a government enterprise architecture framework?,2 Yes,Études sur l'Architecture d'Entreprise Gouvernementale du programme e-Gouvernement et cadre d'intéropérabilité en Union des Comores,2020,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"study report on a file-sharing link, no adoption or exchange rule stated"
+gtmi-de3b849ce4,gtmi,2022,COM,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,AEG de l'Union des Comores,2020,partial,superseded,,,the 2025 round answers it
+gtmi-80ddce2b65,gtmi,2022,COM,I-3,Is there a government interoperability framework?,1 In draft / Planned,Modèle d'Interopérabilité,2022,same,superseded,,,the 2025 round answers it
+gtmi-a4eb001a15,gtmi,2025,COM,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,'No / Unknown' states no absence
+gtmi-3dad98842a,gtmi,2025,CPV,I-2,Is there a government enterprise architecture framework?,2 Yes,Integrated Goverment Resource Planning,2011,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"IGRP is a platform, not an exchange rule, not assessed"
+gtmi-506a215ae4,gtmi,2020,CPV,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b8016a850e,gtmi,2022,CPV,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,Integrated Goverment Resource Planning,2011,partial,superseded,,,the 2025 round answers it
+gtmi-04d88f5e10,gtmi,2022,CPV,I-3,Is there a government interoperability framework?,2 Yes,PDEX (Data Exchange Platform),2018,same,superseded,,,the 2025 round answers it
+gtmi-4dc8748cad,gtmi,2025,CPV,I-3,Is there a government interoperability framework?,1 In draft / Planned,Public Administration Information Systems Interoperability Framework,2026,same,fact,2025-12-18-worldbank-govtech-dataset-dec2025,CPV-002,
+gtmi-06010c4d2e,gtmi,2025,DJI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture not assessed, bare no"
+gtmi-481e0c1b0b,gtmi,2020,DJI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a66b73a910,gtmi,2022,DJI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-002950ba92,gtmi,2022,DJI,I-3,Is there a government interoperability framework?,1 In draft / Planned,Djibouti Interoperabilty Framework,2022,same,superseded,,,the 2025 round answers it
+gtmi-285247a0c6,gtmi,2025,DJI,I-3,Is there a government interoperability framework?,1 In draft / Planned,Djibouti Interoperabilty Framework,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by DJI-001
+gtmi-6b1afe8dd0,gtmi,2022,DZA,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-aacaef7752,gtmi,2025,DZA,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,National Strategy for Digital Transformation in ALGERIA,2026,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"digital strategy, interoperability as an aim only, not assessed"
+gtmi-d6edcb30e2,gtmi,2020,DZA,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-561a8d26ff,gtmi,2022,DZA,I-3,Is there a government interoperability framework?,1 In draft / Planned,Interoperability framework,2020,same,superseded,,,the 2025 round answers it
+gtmi-e5b5b14587,gtmi,2025,DZA,I-3,Is there a government interoperability framework?,1 In draft / Planned,Interoperability Plateforme,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as DZA-002
+gtmi-54076cda2e,gtmi,2020,EGY,I-2,Is there a government enterprise architecture framework?,2 Yes,EGEAF,2006,partial,superseded,,,the 2025 round answers it
+gtmi-b51d104d35,gtmi,2022,EGY,I-2,Is there a government enterprise architecture framework?,2 Yes,Ahmose Architecture,2017,partial,superseded,,,the 2025 round answers it
+gtmi-d7963f9f5f,gtmi,2025,EGY,I-2,Is there a government enterprise architecture framework?,2 Yes,Ahmose Architecture following GovStack,2017,partial,nothing,2022-11-01-egy-govstack-realizing-govstack-egyptian-journey,,document does not state it; enterprise architecture not assessed
+gtmi-8d4fef67a0,gtmi,2022,EGY,I-3,Is there a government interoperability framework?,1 In draft / Planned,Ahmose Framework,2022,same,superseded,,,the 2025 round answers it
+gtmi-b26de322fc,gtmi,2025,EGY,I-3,Is there a government interoperability framework?,1 In draft / Planned,National Database & Data Governance an Classification,2026,same,fact,2024-01-01-egypt-cloud-first-policy-2024-mcit,EGY-001,
+gtmi-1ed6718621,gtmi,2022,ERI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b4b042b30d,gtmi,2020,ERI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-bbd775563b,gtmi,2025,ERI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture not assessed, bare no"
+gtmi-0ff2b0f7c3,gtmi,2022,ERI,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-48b903600c,gtmi,2025,ERI,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ERI-001
+aftech-9d915d9b50,aftech,,ETH,interoperability,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services",Policy,Ethiopian National Enterprise Architecture Framework (ENEAF) and Ethiopian eGovernment Interoperability Framework (EeGIF),2019,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,held as ETH-002
+gtmi-55428f98f1,gtmi,2022,ETH,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,Ethiopian National Enterprise Architecture Framework (ENEAF) and Ethiopian eGovernment Interoperability Framework (EeGIF),2019,partial,superseded,,,the 2025 round answers it
+gtmi-7f4158dee6,gtmi,2020,ETH,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e1ebfc9394,gtmi,2025,ETH,I-2,Is there a government enterprise architecture framework?,2 Yes,Government Enterprise Architecture and Roadmap,2019,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture, no exchange rule stated, not assessed"
+gtmi-798bd3b8f3,gtmi,2022,ETH,I-3,Is there a government interoperability framework?,1 In draft / Planned,Ethiopian National Enterprise Architecture Framework (ENEAF) and Ethiopian eGovernment Interoperability Framework (EeGIF),2019,same,superseded,,,the 2025 round answers it
+gtmi-fd0fa88f2d,gtmi,2025,ETH,I-3,Is there a government interoperability framework?,2 Yes,Ethiopian National Enterprise Architecture Framework (ENEAF) and Ethiopian eGovernment Interoperability Framework (EeGIF),2019,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ETH-002
+gtmi-568dfe0930,gtmi,2020,GAB,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-710f4b4185,gtmi,2025,GAB,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture not assessed, bare no"
+gtmi-dfb2c6aefc,gtmi,2022,GAB,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c4fc56c78d,gtmi,2025,GAB,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,'No / Unknown' states no absence; drafting held as GAB-003
+gtmi-f9419d0646,gtmi,2022,GAB,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-2d1f8516b1,gtmi,2025,GHA,I-2,Is there a government enterprise architecture framework?,2 Yes,Ghana Government Enterprise Architecture,2009,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GHA-002
+gtmi-7bb1616fae,gtmi,2022,GHA,I-2,Is there a government enterprise architecture framework?,2 Yes,Government Enterprise Architectur,2009,partial,superseded,,,the 2025 round answers it
+gtmi-f1c195a5c8,gtmi,2020,GHA,I-2,Is there a government enterprise architecture framework?,2 Yes,Government Enterprise Architectur,2009,partial,superseded,,,the 2025 round answers it
+gtmi-766e8b7db9,gtmi,2022,GHA,I-3,Is there a government interoperability framework?,2 Yes,e-Government Interoperability Framework,2009,same,superseded,,,the 2025 round answers it
+gtmi-d64dc8d45e,gtmi,2025,GHA,I-3,Is there a government interoperability framework?,2 Yes,eGovernment Interoperability Framework (eGIF),2009,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GHA-002
+gtmi-3ddfb0aa0a,gtmi,2022,GIN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-773fd830c1,gtmi,2020,GIN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b9d97b7dd1,gtmi,2025,GIN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by GIN-001
+gtmi-24eef59f40,gtmi,2025,GIN,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by GIN-001
+gtmi-87812f1297,gtmi,2022,GIN,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-29b0f7cd8f,gtmi,2025,GMB,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by GMB-001
+gtmi-9e73d15e46,gtmi,2020,GMB,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e57b6993f1,gtmi,2022,GMB,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-4244399482,gtmi,2025,GMB,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by GMB-001
+gtmi-a344c43441,gtmi,2022,GMB,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-4fda059b30,gtmi,2025,GNB,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by GNB-003
+gtmi-a7ec52ab40,gtmi,2020,GNB,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ffb76b97c4,gtmi,2022,GNB,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-75a050b69a,gtmi,2022,GNB,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-c11939aa6a,gtmi,2025,GNB,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by GNB-003
+gtmi-38763f13a3,gtmi,2022,GNQ,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-4e124258fe,gtmi,2020,GNQ,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c32adae471,gtmi,2025,GNQ,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GNQ-002
+gtmi-badb4ddf70,gtmi,2022,GNQ,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-fb31bf9c63,gtmi,2025,GNQ,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GNQ-002
+gtmi-0cdddc4760,gtmi,2020,KEN,I-2,Is there a government enterprise architecture framework?,2 Yes,Government Enterprise Architecture,2016,partial,superseded,,,the 2025 round answers it
+gtmi-50288d5b24,gtmi,2025,KEN,I-2,Is there a government enterprise architecture framework?,2 Yes,Government Enterprise Architecture,2019,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as KEN-005
+gtmi-7f3361eca1,gtmi,2022,KEN,I-2,Is there a government enterprise architecture framework?,2 Yes,Government Enterprise Architecture,2016,partial,superseded,,,the 2025 round answers it
+gtmi-6001591cc4,gtmi,2022,KEN,I-3,Is there a government interoperability framework?,2 Yes,Government Interoperability Framework,2016,same,superseded,,,the 2025 round answers it
+gtmi-b517cc60bc,gtmi,2025,KEN,I-3,Is there a government interoperability framework?,2 Yes,Government Interoperability Framework,2019,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as KEN-005
+gtmi-0087f3845f,gtmi,2020,LBR,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a8b1690216,gtmi,2022,LBR,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-fe4fab705c,gtmi,2025,LBR,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-962839d74d,gtmi,2022,LBR,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-c708fb0a17,gtmi,2025,LBR,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-ba2f69cac4,gtmi,2022,LBY,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ca195c0956,gtmi,2020,LBY,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-cff07bc395,gtmi,2025,LBY,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"no enterprise architecture is not an absence of an interoperability framework, which the same survey lists as in draft"
+gtmi-339a4bd728,gtmi,2025,LBY,I-3,Is there a government interoperability framework?,1 In draft / Planned,National Interoperability Guidelines,2027,same,nothing,2023-02-01-lby-gia-interoperability-service,,"the page describes a data-exchange service, not a framework or guidelines"
+gtmi-b444dcd5e9,gtmi,2022,LBY,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-6e413de166,gtmi,2022,LSO,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-8ef5ddfc36,gtmi,2020,LSO,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-f53aff3e0b,gtmi,2025,LSO,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,Whole of Government EA,2026,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LSO-004
+gtmi-770dfdf582,gtmi,2022,LSO,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-8da99191b6,gtmi,2025,LSO,I-3,Is there a government interoperability framework?,1 In draft / Planned,Whole of Government Interoperability Framework,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LSO-004
+gtmi-8eccb33e46,gtmi,2022,MAR,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ae79fe7fd6,gtmi,2025,MAR,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"no enterprise architecture is not an absence of an interoperability framework, which the same survey lists as in draft"
+gtmi-b1c5c3c833,gtmi,2020,MAR,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-7bfb3cbd7b,gtmi,2022,MAR,I-3,Is there a government interoperability framework?,1 In draft / Planned,General Interoperability Framework,2012,same,superseded,,,the 2025 round answers it
+gtmi-83668211cf,gtmi,2025,MAR,I-3,Is there a government interoperability framework?,1 In draft / Planned,Cadre Général d’Interopérabilité / General Interoperability Framework,2026,same,fact,2025-12-18-worldbank-govtech-dataset-dec2025,MAR-001,
+gtmi-341ccd9d9a,gtmi,2020,MDG,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-7998d45c31,gtmi,2022,MDG,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-8fe2875bc5,gtmi,2025,MDG,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"no enterprise architecture is not an absence of an interoperability framework, held as adopted in MDG-001"
+gtmi-6882a19235,gtmi,2025,MDG,I-3,Is there a government interoperability framework?,2 Yes,Cadre d'Interopérabilité,2022,same,read-before,2022-11-14-ugd-cadre-interoperabilite,,"reading list 2, already read for this study"
+gtmi-8540bdce90,gtmi,2022,MDG,I-3,Is there a government interoperability framework?,1 In draft / Planned,Cadre d'Interopérabilité,2022,same,superseded,,,the 2025 round answers it
+gtmi-443b36693c,gtmi,2025,MLI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-b20d739225,gtmi,2020,MLI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ba4ef3a1a4,gtmi,2022,MLI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b35f808de6,gtmi,2022,MLI,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-f384dc36c4,gtmi,2025,MLI,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-b2e6c04d87,gtmi,2022,MOZ,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-cca43bfb64,gtmi,2020,MOZ,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,eGIF4M Service Delivery architecture,2006,partial,superseded,,,the 2025 round answers it
+gtmi-dfd774deb1,gtmi,2025,MOZ,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by MOZ-002
+gtmi-0c6e18620d,gtmi,2022,MOZ,I-3,Is there a government interoperability framework?,1 In draft / Planned,eGIF4M: eGovernemtn Interoperability Framework for Mozambique,2006,same,superseded,,,the 2025 round answers it
+gtmi-3e227edca5,gtmi,2025,MOZ,I-3,Is there a government interoperability framework?,2 Yes,Regulamento do Quadro  de Interoperabilidade do Governo Electronico,2017,same,read-before,2017-12-01-regulamento-quadro-interoperabilidade-governo-electronico-decreto-67-2017,,"reading list 2, already read for this study"
+gtmi-2959cd9e43,gtmi,2022,MRT,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b8d4f724b2,gtmi,2025,MRT,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-db243915ef,gtmi,2020,MRT,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-959bb86ebb,gtmi,2022,MRT,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-a2fa79341a,gtmi,2025,MRT,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-2dbae177f9,gtmi,2025,MUS,I-2,Is there a government enterprise architecture framework?,2 Yes,Enterprise Architecture of Mauritius (Planned),2025,partial,nothing,2025-04-01-mus-enterprise-architecture,,enterprise architecture is not assessed; the document's e-GIF statements are recorded as facts
+gtmi-967ed41b3a,gtmi,2020,MUS,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-eea51a74b9,gtmi,2022,MUS,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,Government Enterprise Architecture of Mauritius (Planned),2023,partial,superseded,,,the 2025 round answers it
+gtmi-ccdcf4628f,gtmi,2025,MUS,I-3,Is there a government interoperability framework?,2 Yes,e-Government Interoperability Framework,2002,same,read-before,2002-11-01 Mauritius e-Government Interoperability Framework v1.0,,"reading list 1, already read for this study"
+gtmi-e07deacb21,gtmi,2022,MUS,I-3,Is there a government interoperability framework?,2 Yes,e-Government Interoperability Framework,2002,same,superseded,,,the 2025 round answers it
+gtmi-0dceea5913,gtmi,2020,MWI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b3e36d0998,gtmi,2022,MWI,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b6c174024f,gtmi,2025,MWI,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,Malawi Enterprise Architecture and Interoperability Framework (MEAIF),2026,partial,fact,2025-12-18-worldbank-govtech-dataset-dec2025,MWI-002,
+gtmi-0378cd625d,gtmi,2025,MWI,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"the same survey lists the MEAIF as in draft, so no absence is stated"
+gtmi-7951934f34,gtmi,2022,MWI,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-026ba6e1de,gtmi,2020,NAM,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-45258c80ab,gtmi,2022,NAM,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a659b352d0,gtmi,2025,NAM,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-16b7d0f9af,gtmi,2022,NAM,I-3,Is there a government interoperability framework?,1 In draft / Planned,Namibian Interoperability  Framework,2023,same,superseded,,,the 2025 round answers it
+gtmi-1db5ec2c20,gtmi,2025,NAM,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-63fe5fdb39,gtmi,2025,NER,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-8493cb4fd0,gtmi,2020,NER,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b13a898801,gtmi,2022,NER,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-3b22f3a106,gtmi,2022,NER,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-586357a033,gtmi,2025,NER,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+aftech-df3918a1a7,aftech,,NGA,e-government services; interoperability; networks; e-commerce,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Financial Services",Policy,Nigeria E-government Interoperability Framework 2019,2019,same;same;same,nothing,2019-08-01-nga-nitda-ne-gif-interoperability-framework,,held as NGA-002
+aftech-b0ffdbb8d5,aftech,,NGA,type approval; interoperability,Digital Infrastructure / Invisible Infrastructure,Regulation,Quality of Service,2008,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"a quality of service regulation, not assessed by the study"
+gtmi-75cfc6f879,gtmi,2020,NGA,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,Nigerian Government Enterprise Architecture (NGEA),2019,partial,superseded,,,the 2025 round answers it
+gtmi-9a6890e1e7,gtmi,2022,NGA,I-2,Is there a government enterprise architecture framework?,2 Yes,Nigerian Government Enterprise Architecture (NGEA),2019,partial,superseded,,,the 2025 round answers it
+gtmi-b06fdfda31,gtmi,2025,NGA,I-2,Is there a government enterprise architecture framework?,2 Yes,Nigeria Government Enterprise Architecture (NGEA),2019,partial,nothing,2019-03-01-nga-nitda-nigerian-government-enterprise-architecture-v1,,held as NGA-001
+gtmi-6510ef0507,gtmi,2022,NGA,I-3,Is there a government interoperability framework?,2 Yes,Nigeria E-government interoperability framework,2018,same,superseded,,,the 2025 round answers it
+gtmi-fcbb08a40c,gtmi,2025,NGA,I-3,Is there a government interoperability framework?,2 Yes,Nigeria e-Government Interoperability Framework (Ne-GIF),2019,same,nothing,2019-08-01-nga-nitda-ne-gif-interoperability-framework,,held as NGA-002
+gtmi-caf426acc7,gtmi,2020,RWA,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,Solution Business Architecture Definition for JRLOS,2014,partial,superseded,,,the 2025 round answers it
+gtmi-d236eff248,gtmi,2025,RWA,I-2,Is there a government enterprise architecture framework?,2 Yes,Enterprise Architecture Blueprint Development Guidelines for GoR,2019,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture guidelines named, no exchange rule stated"
+gtmi-da8bf8b649,gtmi,2022,RWA,I-2,Is there a government enterprise architecture framework?,2 Yes,Enterprise Architecture Blueprint Development Guidelines for GoR.,2022,partial,superseded,,,the 2025 round answers it
+gtmi-1ab5ddbe91,gtmi,2025,RWA,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by RWA-003
+gtmi-bad5471eb1,gtmi,2022,RWA,I-3,Is there a government interoperability framework?,1 In draft / Planned,Enterprise Architecture Blueprint Development Guidelines for GoR.,2022,same,superseded,,,the 2025 round answers it
+gtmi-056b9d1675,gtmi,2022,SDN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-7b524b376a,gtmi,2025,SDN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a no on enterprise architecture, not an interoperability framework"
+gtmi-be5a787145,gtmi,2020,SDN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-26d667fd4e,gtmi,2025,SDN,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,'No / Unknown' is not a statement that none exists
+gtmi-579c369821,gtmi,2022,SDN,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-5445a904ae,gtmi,2025,SEN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a no on enterprise architecture, not an interoperability framework"
+gtmi-5991c6ce6a,gtmi,2022,SEN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-8430ca21c3,gtmi,2020,SEN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-bb90831bd4,gtmi,2022,SEN,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-d8b2e3ce9e,gtmi,2025,SEN,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,'No / Unknown' is not a statement that none exists
+gtmi-51ea7a60c8,gtmi,2020,SLE,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-56e99457d7,gtmi,2025,SLE,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,Government of Sierra Leone Enterprise Architecture,2026,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SLE-001
+gtmi-8d1698fbbe,gtmi,2022,SLE,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-6179f0c24a,gtmi,2025,SLE,I-3,Is there a government interoperability framework?,1 In draft / Planned,Government of Sierra Leone Interoperability Framework (G-SLIF),2026,same,fact,2021-01-01-sierra-leone-national-digital-development-policy-2021,SLE-003,
+gtmi-cd572a822f,gtmi,2022,SLE,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-545c332b0e,gtmi,2025,SOM,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SOM-001
+gtmi-989c60c0bf,gtmi,2020,SOM,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c3cffa431d,gtmi,2022,SOM,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-0659be4635,gtmi,2025,SOM,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SOM-001
+gtmi-43a0bcd114,gtmi,2022,SOM,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-7702708233,gtmi,2025,SSD,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a no on enterprise architecture, not an interoperability framework"
+gtmi-d96955b226,gtmi,2022,SSD,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d9c0ddcf18,gtmi,2020,SSD,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a5ed45c01c,gtmi,2022,SSD,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-a66dcca029,gtmi,2025,SSD,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,'No / Unknown' is not a statement that none exists
+gtmi-851c9c0b9b,gtmi,2022,STP,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-bd6e326be8,gtmi,2025,STP,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a no on enterprise architecture, not an interoperability framework"
+gtmi-f8181e2c92,gtmi,2020,STP,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-7ab6e12699,gtmi,2022,STP,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-aba7140096,gtmi,2025,STP,I-3,Is there a government interoperability framework?,1 In draft / Planned,"Quadro Nacional de Interoperabilidade
+de São Tomé e Príncipe",2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by STP-004
+gtmi-0ffec152ec,gtmi,2022,SWZ,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,Eswatini Government Enterprise Architecture,2022,partial,superseded,,,the 2025 round answers it
+gtmi-6492591a60,gtmi,2025,SWZ,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a no on enterprise architecture, not an interoperability framework"
+gtmi-b2cc38c59c,gtmi,2020,SWZ,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b9415c5516,gtmi,2022,SWZ,I-3,Is there a government interoperability framework?,1 In draft / Planned,"The Kingdom of Eswatini, e-Government Interoperability Framework v5.0",2022,same,superseded,,,the 2025 round answers it
+gtmi-daa7041e97,gtmi,2025,SWZ,I-3,Is there a government interoperability framework?,2 Yes,"The Kingdom of Eswatini, e-Government Interoperability Framework v1",2025,same,fact,2025-03-01-swz-e-government-interoperability-framework-v1,SWZ-003,
+gtmi-1c1efc65c2,gtmi,2020,SYC,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a3a3f5ae1a,gtmi,2022,SYC,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ddb16edd76,gtmi,2025,SYC,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a no on enterprise architecture, not an interoperability framework"
+gtmi-1f888aa0c8,gtmi,2025,SYC,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,'No / Unknown' is not a statement that none exists
+gtmi-707cab0e76,gtmi,2022,SYC,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-166d35fa7c,gtmi,2020,TCD,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-2b6e02e25c,gtmi,2022,TCD,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-8f9f852f96,gtmi,2025,TCD,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"a no on enterprise architecture, not an interoperability framework"
+gtmi-9c7f643113,gtmi,2025,TCD,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,'No / Unknown' is not a statement that none exists
+gtmi-b35ea5f282,gtmi,2022,TCD,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-bba6dbe99e,gtmi,2022,TGO,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-da3e09c138,gtmi,2025,TGO,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,Achitecture d'Entreprise du Gouvernement Togolais (AEGT),2026,partial,read-before,2024-01-01-tgo-aegt-introduction-architecture-entreprise,,"reading list 37, already read for this study"
+gtmi-fe547eee01,gtmi,2020,TGO,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-8ba26eecca,gtmi,2025,TGO,I-3,Is there a government interoperability framework?,1 In draft / Planned,Cadre d'interopérabilité gouvernemental,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TGO-001
+gtmi-f273ed1321,gtmi,2022,TGO,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-4935e373e4,gtmi,2022,TUN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a092bd3397,gtmi,2025,TUN,I-2,Is there a government enterprise architecture framework?,2 Yes,Government enterprise architecture framework,2024,partial,nothing,2022-10-18-tun-lancement-du-projet-architecture-d-entreprise-gouvernementale-aeg,,enterprise architecture named with no adoption or exchange rule stated; the 2022 project launch is recorded from the primary
+gtmi-c3519f8d41,gtmi,2020,TUN,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-166563f9e5,gtmi,2022,TUN,I-3,Is there a government interoperability framework?,1 In draft / Planned,Cadre d’interopérabilité+plateforme d'interopérabilité,,same,superseded,,,the 2025 round answers it
+gtmi-e21b3b1c7c,gtmi,2025,TUN,I-3,Is there a government interoperability framework?,2 Yes,Cadre d’interopérabilité+plateforme d'interopérabilité,2022,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TUN-001
+gtmi-0e21cc1b3c,gtmi,2020,TZA,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,e-government architecture,2017,partial,superseded,,,the 2025 round answers it
+gtmi-745b1754b8,gtmi,2022,TZA,I-2,Is there a government enterprise architecture framework?,2 Yes,e-Government Architecture Vision Standard Technical Guides,2017,partial,superseded,,,the 2025 round answers it
+gtmi-dacc703a77,gtmi,2025,TZA,I-2,Is there a government enterprise architecture framework?,2 Yes,e-Government Architecture Vision Standard Technical Guides,2017,partial,fact,2017-11-01-tza-ega-architecture-vision-standards,TZA-002,
+gtmi-e64e850999,gtmi,2025,TZA,I-3,Is there a government interoperability framework?,2 Yes,e-Government Interoperability Framework – Standards and Technical Guidelines,2017,same,nothing,2025-06-23-tza-ega-waziri-mkuu-azindua-govesb,,held as TZA-001
+gtmi-e7410485a1,gtmi,2022,TZA,I-3,Is there a government interoperability framework?,2 Yes,e-Government Interoperability Framework – Standards and Technical Guidelines,2017,same,superseded,,,the 2025 round answers it
+aftech-a61769de81,aftech,,UGA,broadband internet; first mile; middle mile; last mile; end-user equipment; interoperability; e-government services; license; spectrum and tv white spaces,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Digital Government, Invisible Infrastructure",Policy,National Broadband Policy 2018,2018,same;partial;same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"a broadband policy, not assessed by the study"
+gtmi-352cffd0b2,gtmi,2025,UGA,I-2,Is there a government enterprise architecture framework?,2 Yes,National Enterprise Architecture Framework,2021,partial,nothing,2023-04-01-uga-moh-digital-health-enterprise-architecture-standards-dh-ask,,held as UGA-003
+gtmi-706ffaa7be,gtmi,2022,UGA,I-2,Is there a government enterprise architecture framework?,2 Yes,National Enterprise Architecture framework,2021,partial,superseded,,,the 2025 round answers it
+gtmi-f48c0f0fa3,gtmi,2020,UGA,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,National Enterprise Architecture and e-Government Interoperability Framework (NEA-eGIF),2018,partial,superseded,,,the 2025 round answers it
+gtmi-c10cec5e25,gtmi,2022,UGA,I-3,Is there a government interoperability framework?,2 Yes,e-Government Interoperability Framework (e-GIF),2021,same,superseded,,,the 2025 round answers it
+gtmi-eb1ec364f7,gtmi,2025,UGA,I-3,Is there a government interoperability framework?,2 Yes,E-government Interoperability Framework,2021,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as UGA-005
+gtmi-122c89b90b,gtmi,2025,ZAF,I-2,Is there a government enterprise architecture framework?,2 Yes,Government Wide Enterprise Architecture,2010,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture named, no exchange rule stated"
+gtmi-8a47a0fcfa,gtmi,2020,ZAF,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,DGPE - Digital Government Platform Ecosystem,2020,partial,superseded,,,the 2025 round answers it
+gtmi-b9fc718979,gtmi,2022,ZAF,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-7958e951ef,gtmi,2022,ZAF,I-3,Is there a government interoperability framework?,2 Yes,Minimum Interoperability Standard,2004,same,superseded,,,the 2025 round answers it
+gtmi-a135065663,gtmi,2025,ZAF,I-3,Is there a government interoperability framework?,2 Yes,Minimum Interoperability Standard,2004,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZAF-003
+gtmi-0ff1f1614b,gtmi,2020,ZMB,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1462bee66d,gtmi,2022,ZMB,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,SMART Zambia Government Enterprise Framework,2019,partial,superseded,,,the 2025 round answers it
+gtmi-727c8c3686,gtmi,2025,ZMB,I-2,Is there a government enterprise architecture framework?,1 In draft / Planned,Zambia Electronic Government Enterprise Architecture Framework (ZEGEA),2026,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"enterprise architecture in draft, no exchange rule stated"
+gtmi-98f674b976,gtmi,2022,ZMB,I-3,Is there a government interoperability framework?,1 In draft / Planned,Government Interoperability standard,2018,same,superseded,,,the 2025 round answers it
+gtmi-fc1e1b5e3c,gtmi,2025,ZMB,I-3,Is there a government interoperability framework?,2 Yes,E-Government  Interoperability Standard,2019,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZMB-001
+gtmi-26f28a4226,gtmi,2025,ZWE,I-2,Is there a government enterprise architecture framework?,2 Yes,Government Enterprise Architecture Modelling Framework,2024,partial,read-before,2024-01-01-enterprise-architecture-modelling-zimbabwe,,"reading list 4, already read for this study"
+gtmi-56bb3fed12,gtmi,2022,ZWE,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b2461f411b,gtmi,2020,ZWE,I-2,Is there a government enterprise architecture framework?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-9a458ee35c,gtmi,2022,ZWE,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,superseded,,,the 2025 round answers it
+gtmi-e100567912,gtmi,2025,ZWE,I-3,Is there a government interoperability framework?,0 No / Unknown,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,'No / Unknown' is not a statement that none exists

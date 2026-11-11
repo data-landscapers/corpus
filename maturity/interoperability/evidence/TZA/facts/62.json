@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-23-tza-ega-waziri-mkuu-azindua-govesb",
+  "facts": [],
+  "systems": [
+    {"system": "Government Enterprise Service Bus (GovESB)", "country_label": "Tanzania", "class": "other", "platform": "GovESB", "owner": "e-Government Authority (e-GA)", "tiers": ""}
+  ],
+  "note": "The Prime Minister ordered all public bodies onto the GovESB exchange platform by 30 July (180-plus institutions and 200-plus systems connected); the item ties it to no framework, so no fact.",
+  "claims": {
+    "gtmi-e64e850999": "nothing: held as TZA-001"
+  }
+}

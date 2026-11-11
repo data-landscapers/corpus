@@ -1,0 +1,15 @@
+{
+  "slug": "2025-03-01-swz-e-government-interoperability-framework-v1",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted",
+     "fact": "The Office of the Executive Secretary, e-Governance published the Eswatini e-Government Interoperability Framework v1.0 (cover January 2025), with a publishing date of March 2025, setting technical policies and standards for how government systems interconnect and exchange data.",
+     "as_of": "2025-03", "date_precision": "month", "system": "Eswatini e-Government Interoperability Framework (e-GIF) v1.0", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Eswatini e-Government Interoperability Framework (e-GIF) v1.0", "country_label": "Eswatini", "class": "framework", "platform": "", "owner": "Office of the Executive Secretary, e-Governance, Ministry of ICT", "tiers": ""}
+  ],
+  "note": "The text says compliance is mandatory across MDAs and is by self-regulation; it is the framework's own statement, not an instrument naming an enforcing body, so no use fact.",
+  "claims": {
+    "gtmi-daa7041e97": "The World Bank's GovTech survey (2025) lists the Eswatini e-Government Interoperability Framework v1 (2025) and the framework's own text confirms it, recorded as the standing fact."
+  }
+}

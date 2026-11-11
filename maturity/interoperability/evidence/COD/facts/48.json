@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Only bare No answers; the interoperability No is contradicted by COD-002.",
+  "claims": {
+    "gtmi-47dfa864f6": "nothing: enterprise architecture not assessed, bare no",
+    "gtmi-e7e6d05463": "nothing: contradicted by COD-002"
+  }
+}

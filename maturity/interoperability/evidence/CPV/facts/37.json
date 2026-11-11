@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "The government told the World Bank's GovTech survey (2025) that its Public Administration Information Systems Interoperability Framework is in draft or planned, with 2026 given on the line; as_of is the survey round's year, 2025.", "as_of": "2025", "date_precision": "year", "system": "Public Administration Information Systems Interoperability Framework", "class": "framework"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "gtmi-3dad98842a": "nothing: IGRP is a platform, not an exchange rule, not assessed",
+    "gtmi-4dc8748cad": "fact"
+  }
+}

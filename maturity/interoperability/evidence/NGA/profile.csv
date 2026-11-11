@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,framework,standing,coverage,adopted,2026-03-27,NGA-001;NGA-002,NGA-003=draft,
-NGA,framework,use,coverage,,,,,nothing found
+NGA,framework,standing,coverage,adopted,2026-03-27,NGA-001;NGA-002;NGA-004;NGA-006,NGA-003=draft,
+NGA,framework,use,coverage,none,2019-08,NGA-005;NGA-007,,nothing dated since 2023-11-11

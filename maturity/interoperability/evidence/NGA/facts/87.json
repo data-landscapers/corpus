@@ -1,0 +1,18 @@
+{
+  "slug": "2019-03-01-nga-nitda-nigerian-government-enterprise-architecture-v1",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted",
+     "fact": "NITDA issued the Nigerian Government Enterprise Architecture (NGEA) v1.0, status Released, March 2019, under the NITDA Act 2007, as a framework for all public institutions whose data reference model points to the Ne-GIF for data sharing and exchange.",
+     "as_of": "2019-03", "date_precision": "month", "system": "Nigerian Government Enterprise Architecture (NGEA)", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "use", "value": "none",
+     "fact": "The NGEA's document metadata lists its enforcement category as Recommended, and its sections 4.3 and 4.4 only encourage federal public institutions to set up EA teams and units.",
+     "as_of": "2019-03", "date_precision": "month", "system": "Nigerian Government Enterprise Architecture (NGEA)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Nigeria e-Government Interoperability Framework (Ne-GIF)", "country_label": "Nigeria", "class": "framework", "platform": "", "owner": "National Information Technology Development Agency (NITDA)", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-b06fdfda31": "nothing: held as NGA-001"
+  }
+}

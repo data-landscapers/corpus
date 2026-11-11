@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 3 |
-| 3 Established | 17 |
-| 2 Nascent | 16 |
+| 3 Established | 18 |
+| 2 Nascent | 18 |
 | 1 Absent | 1 |
 | Unplaced | 5 |
-| No evidence | 11 |
+| No evidence | 8 |
 
 ## Countries
 
@@ -83,6 +83,12 @@ DR Congo's government adopted draft public-sector digital norms, including an in
 Djibouti's state information systems agency issued a national interoperability framework in 2022; no source found says whether public bodies must follow it.
 
 - The Agence Nationale des Systèmes d'Information de l'État (ANSIE) issued the Cadre d'Interopérabilité de Djibouti (CID) as the national interoperability framework, setting principles, four interoperability layers (legal, organisational, semantic, technical) and a conceptual model for integrated public service delivery; the document shows no enactment date, so the published date (2022) is used ([source, 2022](https://thedocs.worldbank.org/en/doc/e3b093b92e0531dcb5994e53e1b0733d-0460012022/original/Cadre-d-Interop-rabilit-de-Djibouti.pdf)).
+
+### Eswatini: 3 Established
+
+Eswatini published its e-Government Interoperability Framework v1.0 in March 2025; no source found says public bodies are required to follow it.
+
+- The Office of the Executive Secretary, e-Governance published the Eswatini e-Government Interoperability Framework v1.0 (cover January 2025), with a publishing date of March 2025, setting technical policies and standards for how government systems interconnect and exchange data ([source, 2025-03](https://drive.google.com/file/d/1RAMquPzUfBt2Jz0EJn7oB2viNFr17vE8/view?usp=drive_link)).
 
 ### Ethiopia: 3 Established
 
@@ -185,17 +191,23 @@ Cameroon's draft e-government law, validated by officials in November 2025, woul
 
 - The Ebolowa workshop of 3-14 November 2025 gave technical validation to the draft e-Gov bill on public information access and administrative digital transformation, which aims to standardise digital practice, with experts' recommendations covering interoperability; the text was then ready for ministerial finalisation (article published 2026-01-21) ([source, 2025-11](https://www.droitmediasfinance.com/index.php/actualites/droit-tech-fintech/1182-cameroun-la-legislation-sur-e-government-facilitant-lacces-a-linformation-publique-au-stade-de-la-validation-officielle)).
 
+### Cape Verde: 2 Nascent
+
+The government told the World Bank's GovTech survey in 2025 that its interoperability framework is in draft; no adopted framework has been found.
+
+- The government told the World Bank's GovTech survey (2025) that its Public Administration Information Systems Interoperability Framework is in draft or planned, with 2026 given on the line; as_of is the survey round's year, 2025 ([source, 2025](https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset)).
+
 ### Congo: 2 Nascent
 
 Congo said in September 2026 it is developing a national digital architecture as the reference for connecting public systems; none is adopted.
 
 - The ministry's news page says the Republic of Congo is committing to develop a National Digital Architecture built on DPI principles, described as the reference framework for interconnecting public and private information systems; it is in development, with no adoption instrument cited (page dated 2026-09-02, used as the as_of date because the page gives none) ([source, 2026-09-02](https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi)).
 
-### Eswatini: 2 Nascent
+### Egypt: 2 Nascent
 
-An October 2022 assessment found a government interoperability framework proposal submitted but not yet adopted; no source found says whether it has since been adopted.
+Egypt's 2024 Cloud First Policy says legislation on exchanging official data is being drafted; no adopted interoperability framework has been found.
 
-- The IOM assessment (mission October 2022) says Eswatini has processes in place for a government interoperability framework (GIF) and recommends concrete steps on the submitted GIF proposal and its timely approval by the cabinet, so it was a submitted proposal and not yet adopted ([source, 2022-10](https://publications.iom.int/system/files/pdf/pub2023-114-r-iom-mmdma-report-eswatini.pdf)).
+- Egypt's Cloud First Policy says the Supreme Council of Digital Society, its executive office and specialised committees started developing national legislation, with executive regulations, on the classification, provision and exchange of official data and information; dated by the policy's 2024 publication year ([source, 2024](https://mcit.gov.eg/Upcont/Documents/Publications_2282024000_Cloud_First_Policy_Egypt_2024.pdf)).
 
 ### Gabon: 2 Nascent
 
@@ -226,6 +238,12 @@ Malawi's ICT ministry proposed a binding government data sharing regulation in J
 Mauritania's digital ministry was drafting a framework of public digital service standards in March 2026; it is not adopted.
 
 - The digital transformation ministry (MTNIMA) held a three-day workshop to develop a unified framework of public digital-service standards to ensure greater interoperability, and presented a technical study and implementation mechanism for stakeholder feedback before full adoption; the document gives no workshop date, so the published date is used ([source, 2026-03-27](https://techafricanews.com/2026/03/27/mauritania-moves-to-standardize-public-digital-services-with-national-framework-initiative/)).
+
+### Morocco: 2 Nascent
+
+The World Bank's GovTech survey lists a general interoperability framework for Morocco as in draft or planned for 2026 in its 2025 round.
+
+- The World Bank's GovTech survey (2025 round, publisher-assessed) lists a Cadre Général d'Interopérabilité (General Interoperability Framework) for Morocco as in draft or planned, with 2026 as its year; the line gives no statement date, so the 2025 round year is used ([source, 2025](https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset)).
 
 ### Namibia: 2 Nascent
 
@@ -300,12 +318,6 @@ A regional commission proposed an interoperability framework for Libya in Decemb
 
 Not established: No framework or draft is on record, and no source dated in the last three years says the government has neither.
 
-### Cape Verde: No evidence
-
-Cape Verde's minister said in 2023 that interoperability rules were planned for 2024; nothing says drafting has begun, so no stage is set.
-
-Not established: Nothing found names a government interoperability framework, or says there is none.
-
 ### Central African Republic: No evidence
 
 Nothing found says Central African Republic has a government interoperability framework, or says it has none, so no stage is set.
@@ -318,12 +330,6 @@ Nothing found says Comoros has a government interoperability framework, or says 
 
 Not established: Nothing found names a government interoperability framework, or says there is none.
 
-### Egypt: No evidence
-
-Nothing found says Egypt has a government interoperability framework, or says it has none, so no stage is set.
-
-Not established: Nothing found names a government interoperability framework, or says there is none.
-
 ### Liberia: No evidence
 
 An April 2026 executive order requires Liberia's new technology office to produce an interoperability framework; nothing says drafting has begun, so no stage is set.
@@ -333,12 +339,6 @@ Not established: Nothing found names a government interoperability framework, or
 ### Mali: No evidence
 
 Nothing found says Mali has a government interoperability framework, or says it has none, so no stage is set.
-
-Not established: Nothing found names a government interoperability framework, or says there is none.
-
-### Morocco: No evidence
-
-Nothing found says Morocco has a government interoperability framework, or says it has none, so no stage is set.
 
 Not established: Nothing found names a government interoperability framework, or says there is none.
 

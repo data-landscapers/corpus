@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-11 UXP Directory",
+  "facts": [],
+  "systems": [
+    {"system": "UXP Directory (Benin X-Road/UXP exchange dashboard)", "country_label": "Benin", "class": "other", "platform": "UXP (Cybernetica)", "owner": "Government of Benin", "tiers": ""}
+  ],
+  "note": "The dashboard counts exchanges (73 members, 176 systems, 512 services) on the UXP platform but names no interoperability framework.",
+  "claims": {
+    "gtmi-37f147d88d": "nothing: held as BEN-002"
+  }
+}

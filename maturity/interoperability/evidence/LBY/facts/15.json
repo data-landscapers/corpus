@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "The only line is a no on enterprise architecture, while the same survey lists an interoperability framework as in draft.",
+  "claims": {
+    "gtmi-cff07bc395": "nothing: no enterprise architecture is not an absence of an interoperability framework, which the same survey lists as in draft"
+  }
+}

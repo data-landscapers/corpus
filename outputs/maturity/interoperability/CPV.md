@@ -2,6 +2,10 @@
 
 ## Government interoperability framework
 
+**Framework adopted.** The government told the World Bank's GovTech survey in 2025 that its [Public Administration Information Systems Interoperability Framework is in draft or planned](<https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset>). The survey line gives 2026. The Council of Ministers and its Digital Service Team own the [Portal Único](<https://www.gov.cv/documents/d/guest/boletim-oficial-47>). It is a transactional portal for integrated digital state services. The Official Gazette of 10 June 2025 carries it under Resolution 46/2025.
+
+**Required and followed.** NOSi runs [PDEX](<https://pdex.gov.cv/>), an API publication and subscription platform for the state. Civil identification, health and Treasury systems are connected to it. Public and private entities consume its citizen data validation APIs. In December 2025 [IMIJ reported about 62 public and private institutions connected to its national identification systems](<https://justica.gov.cv/w/protocolo-de-interconex%C3%A3o-de-sistemas-dados-e-aplica%C3%A7%C3%B5es-entre-o-imij-i.p.-e-a-dire%C3%A7%C3%A3o-nacional-da-administra%C3%A7%C3%A3o-p%C3%BAblica-dnap->). The connections run by institutional protocols.
+
 ***Also on file***. [Gov.cv](<https://expressodasilhas.cv/pais/2026/02/24/governo-lanca-portal-govcv-modernizar-os-servicos-publicos/101584>); [Portal Único](<https://www.gov.cv/documents/d/guest/boletim-oficial-47>); [Sistema de Informação da Justiça (SIJ), criminal case subsystem](<https://justica.gov.cv/w/nosi-entrega-sistema-de-informa%C3%A7%C3%A3o-da-justi%C3%A7a-penal>); [PDEX](<https://pdex.gov.cv/>); [RNI](<https://justica.gov.cv/w/protocolo-de-interconex%C3%A3o-de-sistemas-dados-e-aplica%C3%A7%C3%B5es-entre-o-imij-i.p.-e-a-dire%C3%A7%C3%A3o-nacional-da-administra%C3%A7%C3%A3o-p%C3%BAblica-dnap->); [SNIAC](<https://justica.gov.cv/w/protocolo-de-interconex%C3%A3o-de-sistemas-dados-e-aplica%C3%A7%C3%B5es-entre-o-imij-i.p.-e-a-dire%C3%A7%C3%A3o-nacional-da-administra%C3%A7%C3%A3o-p%C3%BAblica-dnap->); [ReDiaspora](<https://dgape.cv/rediaspora/>); [SIGE](<https://dgape.cv/rediaspora/>).
 
-***Not found***. Nothing found names a government interoperability framework, or says there is none.
+***Not found***. No source found says a government interoperability framework is adopted and published.

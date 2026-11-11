@@ -1,0 +1,15 @@
+{
+  "slug": "2017-11-01-tza-ega-architecture-vision-standards",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted",
+     "fact": "The e-Government Agency issued the e-Government Architecture Vision - Standards and Technical Guidelines (eGA/EXT/AVS/001) v1.0, approved by its CEO in November 2017, as the first of nine e-Government enterprise architecture areas, which include an interoperability framework and apply to all public institutions.",
+     "as_of": "2017-11", "date_precision": "month", "system": "e-Government Enterprise Architecture (e-Government Architecture Vision)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "e-Government Interoperability Framework (eGA/EXT/GIF/001)", "country_label": "Tanzania", "class": "framework", "platform": "", "owner": "e-Government Agency (e-GA)", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-dacc703a77": "The World Bank's GovTech survey (2025) lists the e-Government Architecture Vision Standard Technical Guides (2017) and the primary confirms it, recorded as the standing fact."
+  }
+}

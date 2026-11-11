@@ -1,0 +1,15 @@
+{
+  "slug": "2023-04-01-uga-moh-digital-health-enterprise-architecture-standards-dh-ask",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted",
+     "fact": "The Ministry of Health's digital health architecture guide (April 2023) states that its framework is aligned with the Uganda e-Government Interoperability Framework (NITA-U, 2021) and the e-Government Interoperability Reference Architecture (GoU, 2021).",
+     "as_of": "2021", "date_precision": "year", "system": "Uganda e-Government Interoperability Framework (e-GIF)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Digital Health Enterprise Architecture Framework (DHEAF)", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "The guide is a health-sector framework (other); the national e-GIF fact is its reference to NITA-U's 2021 framework.",
+  "claims": {
+    "gtmi-352cffd0b2": "nothing: held as UGA-003"
+  }
+}

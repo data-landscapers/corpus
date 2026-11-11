@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Data-architecture draft is not an exchange framework; the No claim is contradicted by the adopted RGI.",
+  "claims": {
+    "gtmi-72ba78e684": "nothing: data reference architecture, no exchange rule stated, not assessed",
+    "gtmi-7b19a86bd4": "nothing: contradicted by CIV-001"
+  }
+}

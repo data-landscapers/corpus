@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "The World Bank's GovTech survey (2025 round, publisher-assessed) lists a Cadre Général d'Interopérabilité (General Interoperability Framework) for Morocco as in draft or planned, with 2026 as its year; the line gives no statement date, so the 2025 round year is used.", "as_of": "2025", "date_precision": "year", "system": "Cadre Général d'Interopérabilité / General Interoperability Framework", "class": "framework"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "gtmi-ae79fe7fd6": "nothing: no enterprise architecture is not an absence of an interoperability framework, which the same survey lists as in draft",
+    "gtmi-83668211cf": "fact"
+  }
+}

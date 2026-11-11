@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Database record states an enterprise architecture guideline with no exchange rule, and an unknown for the interoperability framework.",
+  "claims": {
+    "gtmi-d236eff248": "nothing: enterprise architecture guidelines named, no exchange rule stated",
+    "gtmi-1ab5ddbe91": "nothing: contradicted by RWA-003"
+  }
+}

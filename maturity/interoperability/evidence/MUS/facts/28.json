@@ -1,0 +1,15 @@
+{
+  "slug": "2025-04-01-mus-enterprise-architecture",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The Central Informatics Bureau's April 2025 Enterprise Architecture document states that the InfoHighway data-sharing platform is governed by the e-Government Interoperability Framework (e-GIF); it gives no adoption date for the framework, so the document's published date, April 2025, is used.", "as_of": "2025-04", "date_precision": "month", "system": "e-Government Interoperability Framework (e-GIF)", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "use", "value": "followed", "fact": "The document states that the InfoHighway platform connects government agencies and enables data exchange between applications based on e-GIF standards, and that technology standards are enforced through specifications such as e-GIF; it gives no count of agencies and no instrument making the framework compulsory.", "as_of": "2025-04", "date_precision": "month", "system": "e-Government Interoperability Framework (e-GIF)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "InfoHighway", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "Central Informatics Bureau", "tiers": ""},
+    {"system": "MauPass", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-2dbae177f9": "nothing: enterprise architecture is not assessed; the document's e-GIF statements are recorded as facts"
+  }
+}

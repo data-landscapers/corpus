@@ -23,6 +23,7 @@ BEN,Xroad-BJ,XROAD BJ,other,,ASIN,public and private administrations providing a
 BEN,Catalogue des solutions interopérables (CatIS),CatIS,other,,,,2020-03-18-benin-cadre-interoperabilite-xroad-bj
 BEN,Politique d'architecture des systèmes d'information de l'État (PASI),PASI,framework,,ASIN,"ministries, institutions, agencies, local authorities",2026-07-01-pasi-pdaie-architecture-systemes-etat
 BEN,Politique de développement et d'intégration des applications de l'État (PDAIE),PDAIE,other,,ASIN,"ministries, institutions, agencies, local authorities",2026-07-01-pasi-pdaie-architecture-systemes-etat
+BEN,UXP Directory (Benin X-Road/UXP exchange dashboard),Benin,other,UXP (Cybernetica),Government of Benin,,2026-07-11 UXP Directory
 BFA,Referentiel general d'interoperabilite (RGI),Referentiel general d'interoperabilite,framework,,Ministry of Digital Economy and Posts (DGTIC),public administrations,2019-10-15-bfa-burkina24-referentiel-interoperabilite-administration
 BFA,Referentiel general d'interoperabilite,Burkina Faso,framework,,,,2026-05-20-bfa-declaration-sur-les-sous-points-12-6-et-12-10-burkina-faso-79e-assembl
 BWA,National Interoperability framework,National Interoperability framework,framework,,"Government of Botswana, supported by Expertise France and ESTDEV",e-government services; government institutions,2026-02-17-eu-support-digital-transformation-botswana
@@ -208,6 +209,7 @@ LBY,LY-DNID,Libyan Digital National Identity,other,,General Information Authorit
 LBY,National Data Distributor,National Data Distributor,other,,General Information Authority,,2026-04-23-chambers-union-electronic-system-gia
 LBY,Chambers Union electronic system,Electronic system of the Union of Chambers,other,,Union of Chambers,,2026-04-23-chambers-union-electronic-system-gia
 LBY,LY-NDEX,National Data Distributor (LY-NDEX),other,,General Information Authority,,2026-04-23-gia-zakat-fund-data-governance-national-guide
+LBY,GIA interoperability service (National Database and national data-exchange network),Libya,other,National Database at the General Information Authority,General Information Authority,,2023-02-01-lby-gia-interoperability-service
 LSO,Government of Lesotho Enterprise Architecture and Interoperability Framework,Government of Lesotho Enterprise Architecture and Interoperability Framework,framework,,Government of Lesotho,,2025-02-19-lesotho-budget-speech-2025-26
 LSO,e-Government Interoperability (E-GIF) Framework,E-GIF,framework,,Government of Lesotho (MICSTI),,2024-07-22-lesotho-glea-e-gif-terms-of-reference
 LSO,Government of Lesotho Enterprise Architecture (GLEA),GLEA,other,,Government of Lesotho (MICSTI),,2024-07-22-lesotho-glea-e-gif-terms-of-reference
@@ -280,6 +282,8 @@ MRT,Agenda National de la Transformation Numerique 2030,Mauritanie,other,,Minist
 MUS,Mauritius e-Government Interoperability Framework,Mauritius e-Government Interoperability Framework v1.0,framework,,Government of Mauritius (Ministry of ICT; Central Informatics Bureau),government information systems and public agencies,2002-11-01 Mauritius e-Government Interoperability Framework v1.0
 MUS,InfoHighway,InfoHighway,other,"Service Oriented Architecture, publish and subscribe model","Ministry of Technology, Communication and Innovation; hosted at the Government Online Centre; project management by the Central Informatics Bureau","Ministries, departments and parastatal bodies (e.g. CBRD, CSD, EDB, MRA, NTA)",2024-01-01-infohighway-leaflet-v12
 MUS,InfoHighway,InfoHighway Data Sharing Platform,other,"Publish and subscribe model; portal, web services and bulk data transfer","Ministry of Information Technology, Communication and Innovation (project owner); Central Informatics Bureau (project management); hosted at the Government Online Centre","Government agencies as publishers and subscribers (33 publishers, 192 connections, 628 e-services on the page)",2016-08-01-infohighway-data-sharing-platform
+MUS,InfoHighway,Mauritius,other,,Central Informatics Bureau,,2025-04-01-mus-enterprise-architecture
+MUS,MauPass,Mauritius,other,,,,2025-04-01-mus-enterprise-architecture
 MWI,Bomalathu,Bomalathu digital services platform,other,,Department of E-Government,"national agencies (Malawi Revenue Authority, National Registration Bureau, Immigration being onboarded)",2026-07-07 Malawi integrates immigration e-services
 MWI,Boma Lathu (National Data Exchange Platform),Boma Lathu,other,,Ministry of ICT / National Data Centre,government institutions,2026-06-11-government-data-sharing-regulation-boma-lathu-itweb
 MWI,Bomalathu,Bomalathu data-exchange platform,other,,Government of Malawi (Digital Malawi Program),,"2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities"
@@ -312,6 +316,8 @@ NER,Référentiel Général d'Interopérabilité (RGI),Référentiel Général d
 NGA,Nigeria Government Enterprise Architecture (NGEA),NGEA,framework,,NITDA (hosted by Galaxy Backbone Limited; built with KOICA),"federal; pilots at NIMC, Nigeria Customs Service, Nigeria Immigration Service and NITDA",2026-03-27-nitda-takes-over-ngea-koica
 NGA,Draft technical standards for DPI (NITDA),Technical Standards for Deployment of Nigeria's Digital Public Infrastructure,other,,NITDA,government-wide,2025-04-15-nitda-draft-dpi-technical-standards
 NGA,Nigerian Digital Public Infrastructure Centre (Ng-DPIC),Ng-DPIC,other,,NITDA,,2025-04-15-nitda-draft-dpi-technical-standards
+NGA,Nigeria e-Government Interoperability Framework (Ne-GIF),Nigeria,framework,,National Information Technology Development Agency (NITDA),,2019-08-01-nga-nitda-ne-gif-interoperability-framework
+NGA,Nigeria e-Government Interoperability Framework (Ne-GIF),Nigeria,framework,,National Information Technology Development Agency (NITDA),,2019-03-01-nga-nitda-nigerian-government-enterprise-architecture-v1
 RWA,Rwanda Government-wide Enterprise Architecture Framework (RGEA),"Government of Rwanda Enterprise Architecture Framework, Version 2.1",other,TOGAF customised,Rwanda Information Society Authority (RISA),,2026-08-06-risa-government-of-rwanda-enterprise-architecture-framework-v2-1
 RWA,National Population Registry (NPR),National Population Registry,other,,NIDA,"Seven integration points with agencies including MINALOC, LODA, City of Kigali, RLMUA, RURA, RDB, MIFOTRA","2019-10-01 E-Government Systems Interoperability Challenges - Public Sector in Rwanda (Mugumya, MSc thesis)"
 RWA,National Data Sharing Policy,National Data Sharing Policy,framework,,Ministry of ICT and Innovation (policy ownership),public institutions,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
@@ -401,6 +407,7 @@ SWZ,Population Registry,Population Registry,other,,,national,2026-01-30-disconne
 SWZ,ERS Fiscalization Solution,Fiscalization Solution,other,,Eswatini Revenue Service,retail sector,2025-10-29-ers-intensifies-drive-close-tax-gap
 SWZ,Government interoperability framework (GIF),GIF,framework,,Ministry of ICT,,2024-01-01-swz-iom-migration-digital-maturity-assessment
 SWZ,Data-sharing platform hosted by RSTP,data-sharing platform,other,RSTP,,,2024-01-01-swz-iom-migration-digital-maturity-assessment
+SWZ,Eswatini e-Government Interoperability Framework (e-GIF) v1.0,Eswatini,framework,,"Office of the Executive Secretary, e-Governance, Ministry of ICT",,2025-03-01-swz-e-government-interoperability-framework-v1
 SYC,Seychelles Spatial Data Sharing Policy (SSDSP 2020),Seychelles Spatial Data Sharing Policy,other,"OGC WMS/WFS, ISO 19115 metadata","Centre for Geographic Information Services, Ministry of Lands and Housing","ministries, departments, agencies and autonomous bodies holding spatial data",2020-01-01-seychelles-spatial-data-sharing-policy
 SYC,e-invoicing system,e-invoicing,other,,Seychelles Revenue Commission,,2026-07-25-seychelles-src-final-stage-e-invoicing-procurement
 SYC,electronic Certificate of Origin (e-CO),e-CO,other,COMESA,Seychelles Revenue Commission,customs,2026-07-04-comesa-seychelles-eco-launch
@@ -427,11 +434,14 @@ TUN,national interoperability platform (xROAD),national interoperability platfor
 TUN,"National Interoperability Platform (Unified eXchange Platform, UXP)",national interoperability platform,other,Cybernetica UXP (based on X-Road principles),Tunisian Ministry of ICT,central government: five ministries and institutions onboarded in phase 1,2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)
 TUN,المنصة الوطنية للترابط البيني UXP (Unified eXchange Platform),national interoperability platform UXP,other,UXP (Estonian developer),Ministry of Communication Technologies,"central government: Interior, Education, Transport and Social Affairs ministries in phase 1; rest of ministries in a later phase",2024-02-07-mtc-tunisie-lancement-plateforme-nationale-interoperabilite-uxp
 TUN,Système national d'interopérabilité (opérateur national d'interopérabilité),opérateur d'interopérabilité,other,,public person in charge of managing the interoperability system,public and private bodies with a public service mission,2020-10-05-tunisie-decret-gouvernemental-2020-777-interoperabilite
+TUN,Architecture d'Entreprise Gouvernementale (AEG),Tunisie,framework,,Ministry of Communication Technologies,,2022-10-18-tun-lancement-du-projet-architecture-d-entreprise-gouvernementale-aeg
 TZA,e-Government Interoperability Framework (e-GIF),"e-GIF, eGA/EXT/GIF/001",framework,,"e-Government Agency (eGA), President's Office Public Service Management",Public Institutions,2016-02-01-e-government-interoperability-framework
 TZA,Government Enterprise Service Bus (GovESB),Mfumo Mkuu wa Ubadilishanaji Taarifa Serikalini,other,,e-Government Authority (e-GA),public institutions,2026-06-23-gsd-ngao-launch
 TZA,Government Service Directory (GSD),Dawati la Huduma za Serikali,other,,President's Office - Public Service Management (UTUMISHI),over 500 public institutions have entered their services,2026-06-23-gsd-ngao-launch
 TZA,NGAO,NGAO,other,,,government systems,2026-06-23-gsd-ngao-launch
 TZA,Jamii X-Change,Tanzania,other,,NIDA,,2025-01-01-tza-jamii-x-change
+TZA,e-Government Interoperability Framework (eGA/EXT/GIF/001),Tanzania,framework,,e-Government Agency (e-GA),,2017-11-01-tza-ega-architecture-vision-standards
+TZA,Government Enterprise Service Bus (GovESB),Tanzania,other,GovESB,e-Government Authority (e-GA),,2025-06-23-tza-ega-waziri-mkuu-azindua-govesb
 UGA,e-Government Interoperability Framework (e-GIF),e-GIF,framework,,NITA-U,government systems across sectors,2026-05-27-ega-uganda-renewed-digital-government-frameworks
 UGA,Government Enterprise Architecture (GEA),GEA,other,,NITA-U,government sectors,2026-05-27-ega-uganda-renewed-digital-government-frameworks
 UGA,e-Government Interoperability Framework (e-GIF),Government Interoperability Framework,framework,,NITA-U,"ministries, departments, agencies and local government",2026-02-18-ega-uganda-launches-renewal-gea-egif
@@ -445,6 +455,7 @@ UGA,UGHub,UGHub data integration platform,other,,NITA-U,"national: connects 37 p
 UGA,UGHub,UGHub data integration platform,other,,NITA-U,"national: connects 37 percent of ministries, departments and agencies, target 73 percent by FY 2029/30",2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30
 UGA,UGHub,Integration Service (UgHub),other,WSO2,NITA-U,"national: over 150 entities served, hosted in the Government Data Centre",2025-06-19-nita-u-integration-service-ughub
 UGA,UGHub,UGHub,other,,NITA-U,"national: over 100 ministries, departments and agencies plus private entities",2024-06-28 Integrated National Data Exchange Systems - Uganda Case Study
+UGA,Digital Health Enterprise Architecture Framework (DHEAF),Uganda,other,,Ministry of Health,,2023-04-01-uga-moh-digital-health-enterprise-architecture-standards-dh-ask
 ZAF,MzansiXchange,MzansiXchange,other,federated data exchange platform; Open Cities Lab technical implementation partner,"National Treasury, with CSIR and SARB","national departments (SASSA, NSFAS, Home Affairs, Treasury OAG and OCPO, Statistics South Africa, SEAD-SA)",2025-09-27-mzansixchange-pilot-programme
 ZAF,MzansiXchange,MzansiXchange,other,X-Road,National Treasury,national departments,2025-11-05-govt-data-exchange-estonia-xroad
 ZAF,MzansiXchange,MzansiXchange,other,X-Road,National Treasury,national departments,2025-10-10-mzansixchange-launch

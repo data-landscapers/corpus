@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "The government told the World Bank's GovTech survey (2025 round) that the Malawi Enterprise Architecture and Interoperability Framework (MEAIF) is in draft or planned, with 2026 as its year; the line gives no statement date, so the 2025 round year is used.", "as_of": "2025", "date_precision": "year", "system": "Malawi Enterprise Architecture and Interoperability Framework (MEAIF)", "class": "framework"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "gtmi-b6c174024f": "fact",
+    "gtmi-0378cd625d": "nothing: the same survey lists the MEAIF as in draft, so no absence is stated"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2021-01-01-sierra-leone-national-digital-development-policy-2021",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft",
+     "fact": "The government told the World Bank's GovTech survey (2025) that a Government of Sierra Leone Interoperability Framework (G-SLIF) is in draft or planned; the line's own year is 2026, so the survey round's year is used.",
+     "as_of": "2025", "date_precision": "year", "system": "Government of Sierra Leone Interoperability Framework (G-SLIF)", "class": "framework"}
+  ],
+  "systems": [],
+  "note": "The 2021 policy passages held carry only its contents list and state nothing on an interoperability framework; the fact is the database record's.",
+  "claims": {
+    "gtmi-6179f0c24a": "The government told the World Bank's GovTech survey (2025) that a Government of Sierra Leone Interoperability Framework (G-SLIF) is in draft or planned."
+  }
+}

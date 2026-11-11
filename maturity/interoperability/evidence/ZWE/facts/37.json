@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Database record gives a no / unknown, which states no dated absence.",
+  "claims": {
+    "gtmi-e100567912": "nothing: 'No / Unknown' is not a statement that none exists"
+  }
+}
