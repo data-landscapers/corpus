@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,census,census,coverage,taken,2024,BDI-001;BDI-004;BDI-006,BDI-005=preparing,
+BDI,census,census,coverage,taken,2024,BDI-001;BDI-004;BDI-006;BDI-007;BDI-010,BDI-005=preparing,
 BDI,census,results,coverage,preliminary,2024,BDI-002;BDI-003,,
-BDI,census,survey,coverage,,,,,nothing found
+BDI,census,survey,coverage,published,2017,BDI-008;BDI-009,,nothing dated since 2023-11-11

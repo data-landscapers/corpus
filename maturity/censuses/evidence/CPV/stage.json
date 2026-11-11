@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "census",
-   "stage": "unplaced",
-   "census": "",
-   "results": "",
-   "survey": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.",
-   "note": "Counted from the four questions by study-ladder-censuses.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "census",
+      "stage": "3",
+      "census": "taken",
+      "results": "",
+      "survey": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-002;CPV-005",
+      "gaps": "No source found reports preliminary or final results of the census published.",
+      "note": "The World Bank's WDI and SPI both list a 2021 population census, inside the ten years, so stage 3; no results are on record, so not stage 4.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

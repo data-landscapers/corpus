@@ -12,3 +12,5 @@ GNB,003,census,taken,revalued: results:preliminary,"states preliminary results o
 STP,003,census,taken,revalued: results:preliminary,"states preliminary results of the census published, which answer question 3 (Bill, 2026-10-25)"
 ZMB,003,census,taken,revalued: results:preliminary,"states preliminary results of the census published, which answer question 3 (Bill, 2026-10-25)"
 LBR,003,census,taken,revalued: results:preliminary,"states preliminary results of the census published, which answer question 3 (Bill, 2026-10-25)"
+BEN,006,census,taken,removed,"WDI and SPI list the 2023 census as counted, but INStaD began RGPH5 mapping in March 2024 (BEN-004, BEN-005), so 2023 is the planned year, not a count"
+BEN,009,census,taken,removed,"WDI and SPI list the 2023 census as counted, but INStaD began RGPH5 mapping in March 2024 (BEN-004, BEN-005), so 2023 is the planned year, not a count"

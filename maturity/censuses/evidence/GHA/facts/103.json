@@ -1,0 +1,16 @@
+{
+  "slug": "2025-12-09-statistical-performance-indicators-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "SPI gives scores; its latest named census, 2021, is already held as GHA-001.",
+  "claims": {
+    "spi-b0efd033c5": "nothing: held as GHA-001",
+    "spi-59ab8dd3f6": "nothing: agricultural census not assessed",
+    "spi-bee63a3b71": "nothing: business census not assessed",
+    "spi-07f0622ad0": "nothing: bare score, no survey named",
+    "spi-7898ec6f08": "nothing: agricultural survey not assessed",
+    "spi-df0fe8847d": "nothing: bare score, no survey named",
+    "spi-1fc881d61e": "nothing: bare score, no survey named",
+    "spi-fb397c01bc": "nothing: business survey not assessed"
+  }
+}

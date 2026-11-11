@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CPV,census,census,coverage,,,,,nothing held
-CPV,census,results,coverage,,,,,nothing held
-CPV,census,survey,coverage,published,2024-10,CPV-001,,
+CPV,census,census,coverage,taken,2021,CPV-002;CPV-005,,nothing dated since 2023-11-11
+CPV,census,results,coverage,,,,,nothing found
+CPV,census,survey,coverage,published,2024-10,CPV-001;CPV-003;CPV-004,,

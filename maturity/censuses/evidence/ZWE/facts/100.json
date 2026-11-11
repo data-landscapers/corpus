@@ -1,0 +1,14 @@
+{
+  "slug": "2026-10-08-world-development-indicators-selection-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists the 2015 Demographic and Health Survey as Zimbabwe's latest demographic, education or health household survey.", "as_of": "2015", "date_precision": "year", "system": "Demographic and Health Survey 2015", "class": "survey"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists an integrated household survey (IHS) of 2011/12 as the source of Zimbabwe's most recent income and expenditure data.", "as_of": "2011", "date_precision": "year", "system": "Integrated household survey (IHS) 2011/12", "class": "survey"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "wdi-e0d17cef07": "nothing: held as ZWE-004",
+    "wdi-cdb28d1fd2": "fact",
+    "wdi-d50b030a74": "fact"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-09-statistical-performance-indicators-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The World Bank's SPI lists a population census in 2014 (censuses 2002 and 2014) within its 2024 scoring round; the line gives no enumeration date, so the census year is used.", "as_of": "2014", "date_precision": "year", "system": "Population census 2014", "class": "census"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "spi-1137bd008a": "fact",
+    "spi-b5b4105013": "nothing: agricultural census not assessed",
+    "spi-30055c6fed": "nothing: business census not assessed",
+    "spi-883904c452": "nothing: bare score, names no survey",
+    "spi-1f273513c1": "nothing: agricultural survey not assessed",
+    "spi-569c969b67": "nothing: bare score, names no survey or year",
+    "spi-7764e92d3b": "nothing: bare score, names no survey or year",
+    "spi-e14fc57bb9": "nothing: business survey not assessed"
+  }
+}

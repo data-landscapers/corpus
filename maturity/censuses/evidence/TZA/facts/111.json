@@ -1,0 +1,16 @@
+{
+  "slug": "2025-12-09-statistical-performance-indicators-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Census 2022 already held; the other lines are bare scores or other censuses and surveys.",
+  "claims": {
+    "spi-f08b9714d5": "nothing: held as TZA-002",
+    "spi-01d45bbc36": "nothing: agricultural census not assessed",
+    "spi-bd8e6c7f97": "nothing: business census not assessed",
+    "spi-26f3d5b984": "nothing: bare score, names no survey",
+    "spi-0c168287cf": "nothing: agricultural survey not assessed",
+    "spi-d9b15c7906": "nothing: bare score, names no survey or year",
+    "spi-811b42a4f8": "nothing: bare score, names no survey or year",
+    "spi-c9d73d4a9d": "nothing: business survey not assessed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-08-world-development-indicators-selection-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The World Bank's WDI lists 2014 as Tunisia's latest population census.", "as_of": "2014", "date_precision": "year", "system": "Population census 2014", "class": "census"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists an integrated household survey (IHS) of 2015 as the source of Tunisia's most recent income and expenditure data.", "as_of": "2015", "date_precision": "year", "system": "Integrated household survey (IHS) 2015", "class": "survey"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "wdi-ad3ddec969": "fact",
+    "wdi-cd2c11fab2": "nothing: agricultural census not assessed",
+    "wdi-642d883dba": "nothing: held as TUN-006",
+    "wdi-4f5d5f7376": "fact"
+  }
+}

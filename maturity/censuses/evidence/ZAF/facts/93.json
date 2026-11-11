@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-08-world-development-indicators-selection-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists the 2016 Demographic and Health Survey as South Africa's latest demographic, education or health household survey.", "as_of": "2016", "date_precision": "year", "system": "Demographic and Health Survey 2016", "class": "survey"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists an expenditure survey/budget survey (ES/BS) of 2014/15 as the source of South Africa's most recent income and expenditure data.", "as_of": "2014", "date_precision": "year", "system": "Expenditure survey/budget survey 2014/15", "class": "survey"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "wdi-a5f77545d9": "nothing: held as ZAF-003",
+    "wdi-9b253154cc": "nothing: agricultural census not assessed",
+    "wdi-ba9c291b7d": "fact",
+    "wdi-a1d1dc3987": "fact"
+  }
+}

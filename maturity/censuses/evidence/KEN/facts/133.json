@@ -1,0 +1,16 @@
+{
+  "slug": "2026-10-08-world-development-indicators-selection-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists an integrated household survey (IHS) of 2015/16 as the source of Kenya's most recent income and expenditure data; as_of is 2015, the year WDI gives.", "as_of": "2015", "date_precision": "year", "system": "Integrated household survey (IHS) 2015/16", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "Integrated household survey (IHS) 2015/16", "country_label": "IHS 2015/16", "class": "survey", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "wdi-e5461f388c": "nothing: held as KEN-003",
+    "wdi-754999d3d9": "nothing: agricultural census not assessed",
+    "wdi-6d3b58d91f": "nothing: held as KEN-002",
+    "wdi-9a760f6c3f": "fact"
+  }
+}

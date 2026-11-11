@@ -1,0 +1,20 @@
+{
+  "slug": "2025-12-09-statistical-performance-indicators-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The World Bank's SPI lists population censuses for Guinea in 1996 and 2014 within its scoring window.", "as_of": "2014", "date_precision": "year", "system": "Population census 2014", "class": "census"}
+  ],
+  "systems": [
+    {"system": "Population census 2014", "country_label": "RGPH 2014", "class": "census", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "spi-34a7062aee": "fact",
+    "spi-1a55019ecc": "nothing: agricultural census not assessed",
+    "spi-58e6bdc48b": "nothing: business census not assessed",
+    "spi-cbe1381336": "nothing: bare score, no survey named",
+    "spi-a670217d0b": "nothing: agricultural survey not assessed",
+    "spi-9b1170d3c0": "nothing: bare score, no survey named",
+    "spi-665f7afdde": "nothing: bare score, no survey named",
+    "spi-3844b05202": "nothing: business survey not assessed"
+  }
+}

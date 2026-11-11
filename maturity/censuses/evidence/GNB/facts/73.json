@@ -1,0 +1,20 @@
+{
+  "slug": "2025-12-09-statistical-performance-indicators-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The World Bank's SPI lists a population census for Guinea-Bissau in 2009 within its scoring window.", "as_of": "2009", "date_precision": "year", "system": "Population census 2009", "class": "census"}
+  ],
+  "systems": [
+    {"system": "Population census 2009", "country_label": "RGPH 2009", "class": "census", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "spi-35df915900": "fact",
+    "spi-564e930415": "nothing: agricultural census not assessed",
+    "spi-8a1b5cb8ea": "nothing: business census not assessed",
+    "spi-b12410e86a": "nothing: bare score, no survey named",
+    "spi-f4cfce2bf9": "nothing: agricultural survey not assessed",
+    "spi-57eac7b6e7": "nothing: bare score, no survey named",
+    "spi-d9a8373304": "nothing: bare score, no survey named",
+    "spi-5b1014bb69": "nothing: business survey not assessed"
+  }
+}

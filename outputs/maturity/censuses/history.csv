@@ -51,3 +51,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-02,ZWE,data.statistics--censuses-and-surveys,fact,3,5,ZWE-007;ZWE-006;ZWE-005,"Herald, May 2025: ZIMSTAT presented a preliminary report of the April 2022 census; results published, 3 to 5 with the 2025 ICT household survey"
 2026-11-07,AGO,data.statistics--censuses-and-surveys,fact,4,5,AGO-011;AGO-009;AGO-014,"Results of the DHS 2023 household survey in use in a 2026 Countdown 2030 report; with the RGPH 2024 final results, every question is answered"
 2026-11-09,COG,data.statistics--censuses-and-surveys,fact,3,3,COG-002;COG-001,"ADIAC dates the RGPH-5 count to December 2023; results still not published, stays 3"
+2026-11-11,CPV,data.statistics--censuses-and-surveys,fact,unplaced,3,CPV-002;CPV-005,External claims (housekeeping 58): WDI and SPI list a census inside ten years; restaged to 3
+2026-11-11,DZA,data.statistics--censuses-and-surveys,fact,no evidence,3,DZA-001;DZA-004,External claims (housekeeping 58): WDI and SPI list a census inside ten years; restaged to 3
+2026-11-11,EGY,data.statistics--censuses-and-surveys,fact,2,3,EGY-004;EGY-006,External claims (housekeeping 58): WDI and SPI list a census inside ten years; restaged to 3
+2026-11-11,BEN,data.statistics--censuses-and-surveys,fact,2,2,BEN-004;BEN-005,"External claims (housekeeping 58): WDI and SPI list a 2023 census, but INStaD began RGPH5 mapping in March 2024; both rows removed, stays 2"

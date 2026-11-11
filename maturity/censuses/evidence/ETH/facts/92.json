@@ -1,0 +1,16 @@
+{
+  "slug": "2025-12-09-statistical-performance-indicators-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "SPI gives scores; its only named census, 2007, is already held as ETH-003.",
+  "claims": {
+    "spi-07604746f2": "nothing: held as ETH-003",
+    "spi-bcc55a363b": "nothing: agricultural census not assessed",
+    "spi-a87e83c112": "nothing: business census not assessed",
+    "spi-38fb24e79b": "nothing: bare score, no survey named",
+    "spi-a3c9d24ca4": "nothing: agricultural survey not assessed",
+    "spi-ca31b0ddec": "nothing: bare score, no survey named",
+    "spi-7befb37ee4": "nothing: bare score, no survey named",
+    "spi-b94391093f": "nothing: business survey not assessed"
+  }
+}

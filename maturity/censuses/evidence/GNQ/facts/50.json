@@ -1,0 +1,16 @@
+{
+  "slug": "2025-12-09-statistical-performance-indicators-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "SPI gives scores; its latest named census, 2015, is already held as GNQ-004.",
+  "claims": {
+    "spi-c41150f829": "nothing: held as GNQ-004",
+    "spi-afc59899c9": "nothing: agricultural census not assessed",
+    "spi-2626ed1ad6": "nothing: business census not assessed",
+    "spi-481f4ba846": "nothing: bare score, no survey named",
+    "spi-c77acdbb9e": "nothing: agricultural survey not assessed",
+    "spi-d164c3ae41": "nothing: bare score, no survey named",
+    "spi-3fe9df048a": "nothing: bare score, no survey named",
+    "spi-c555ceb9f1": "nothing: business survey not assessed"
+  }
+}

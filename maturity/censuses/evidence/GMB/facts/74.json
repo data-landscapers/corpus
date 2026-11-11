@@ -1,0 +1,16 @@
+{
+  "slug": "2026-10-08-world-development-indicators-selection-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists an integrated household survey (IHS) of 2015 as the source of the Gambia's most recent income and expenditure data.", "as_of": "2015", "date_precision": "year", "system": "Integrated household survey (IHS) 2015", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "Integrated household survey (IHS) 2015", "country_label": "IHS 2015", "class": "survey", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "wdi-8b4d4c64aa": "nothing: held as GMB-007",
+    "wdi-efb40d0a43": "nothing: agricultural census not assessed",
+    "wdi-29d7ff8706": "nothing: held as GMB-006",
+    "wdi-d2ba4ef390": "fact"
+  }
+}

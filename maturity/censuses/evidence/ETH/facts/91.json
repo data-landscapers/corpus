@@ -1,0 +1,18 @@
+{
+  "slug": "2026-10-08-world-development-indicators-selection-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists the Mini Demographic and Health Survey 2019 as Ethiopia's latest demographic, education or health household survey.", "as_of": "2019", "date_precision": "year", "system": "Mini Demographic and Health Survey 2019", "class": "survey"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists an expenditure survey/budget survey (ES/BS) of 2015/16 as the source of Ethiopia's most recent income and expenditure data; as_of is 2015, the year WDI gives.", "as_of": "2015", "date_precision": "year", "system": "Expenditure survey/budget survey (ES/BS) 2015/16", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "Mini Demographic and Health Survey 2019", "country_label": "Mini DHS 2019", "class": "survey", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Expenditure survey/budget survey (ES/BS) 2015/16", "country_label": "ES/BS 2015/16", "class": "survey", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "wdi-4635f6ea42": "nothing: held as ETH-003",
+    "wdi-345b0636b4": "nothing: agricultural census not assessed",
+    "wdi-d58bb03d97": "fact",
+    "wdi-0d78f1faa6": "fact"
+  }
+}

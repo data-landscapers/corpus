@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-EGY,census,census,coverage,preparing,2026-08-06,EGY-001;EGY-002;EGY-003,,
-EGY,census,results,coverage,,,,,nothing held
-EGY,census,survey,coverage,,,,,nothing held
+EGY,census,census,coverage,taken,2017,EGY-004;EGY-006,EGY-003=preparing;EGY-001=preparing;EGY-002=preparing,
+EGY,census,results,coverage,,,,,nothing found
+EGY,census,survey,coverage,published,2015,EGY-005,,nothing dated since 2023-11-11

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-08-world-development-indicators-selection-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists the 2018 Demographic and Health Survey as Zambia's latest demographic, education or health household survey.", "as_of": "2018", "date_precision": "year", "system": "Demographic and Health Survey 2018", "class": "survey"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists an integrated household survey (IHS) of 2015 as the source of Zambia's most recent income and expenditure data.", "as_of": "2015", "date_precision": "year", "system": "Integrated household survey (IHS) 2015", "class": "survey"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "wdi-504ece3850": "nothing: held as ZMB-003",
+    "wdi-7122ffea69": "nothing: agricultural census not assessed",
+    "wdi-5286f92b84": "fact",
+    "wdi-25ca1b0881": "fact"
+  }
+}

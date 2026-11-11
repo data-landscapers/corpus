@@ -1,0 +1,18 @@
+{
+  "slug": "2026-10-08-world-development-indicators-selection-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists the Demographic and Health Survey 2022 as Ghana's latest demographic, education or health household survey.", "as_of": "2022", "date_precision": "year", "system": "Demographic and Health Survey 2022", "class": "survey"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists a Living Standards Measurement Study survey (LSMS) of 2017 as the source of Ghana's most recent income and expenditure data.", "as_of": "2017", "date_precision": "year", "system": "Living Standards Measurement Study Survey (LSMS) 2017", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "Demographic and Health Survey 2022", "country_label": "DHS 2022", "class": "survey", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Living Standards Measurement Study Survey (LSMS) 2017", "country_label": "LSMS 2017", "class": "survey", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "wdi-e42a07d313": "nothing: held as GHA-001",
+    "wdi-1aae9a876b": "nothing: agricultural census not assessed",
+    "wdi-05bc7f0e46": "fact",
+    "wdi-9086b974cd": "fact"
+  }
+}

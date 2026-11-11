@@ -22,11 +22,11 @@ The African Charter on Statistics (2009) and SHaSA 2 ask each country to produce
 |---|---|
 | 5 Leading | 9 |
 | 4 Operating | 12 |
-| 3 Established | 19 |
-| 2 Nascent | 9 |
+| 3 Established | 22 |
+| 2 Nascent | 8 |
 | 1 Absent | 1 |
-| Unplaced | 3 |
-| No evidence | 1 |
+| Unplaced | 2 |
+| No evidence | 0 |
 
 ## Countries
 
@@ -171,6 +171,13 @@ Final results of the 2021 Mid-Term Population and Housing Census were published 
 
 - Statistics Sierra Leone published the final results of the 2021 Mid-Term Population and Housing Census in a report dated September 2022 (total population 7,548,702), after provisional results announced on 31 May 2022 changed by only 7,061 persons ([source, 2022-09](https://statistics.sl/images/StatisticsSL/Documents/Census/MTPHC_Preliminary_Report/Final_Preliminary_Report_2021_MTPHC.pdf)).
 
+### Algeria: 3 Established
+
+A population census was counted in 2022; no release of its results is known.
+
+- The World Bank's WDI lists 2022 as the latest population census for Algeria ([source, 2022](https://datacatalog.worldbank.org/search/dataset/0037712/world-development-indicators)).
+- The World Bank's SPI lists population censuses for Algeria in 1998, 2008 and 2022 within its scoring window; the latest year is used ([source, 2022](https://github.com/worldbank/SPI)).
+
 ### Botswana: 3 Established
 
 The PHC 2022 was counted in 2022; no results of it are known to be out.
@@ -183,6 +190,13 @@ The PHC 2022 was counted in 2022; no results of it are known to be out.
 The RGPH-4 was counted in 2026; no results of it are known to be out.
 
 - Counting for Cameroon's 4th general population and housing census, launched 24 April 2026 and coupled with the agriculture and livestock census, closed on 15 September 2026 with unofficial, unconsolidated coverage of about 75% (60% at 31 July), below the 90-95% standards ([source, 2026-09-15](https://fr.journalducameroun.com/cameroun-le-4e-recensement-general-de-la-population-et-de-lhabitat-sacheve/)).
+
+### Cape Verde: 3 Established
+
+A population census was counted in 2021; no release of its results is known.
+
+- The World Bank's WDI lists 2021 as the latest population census for Cabo Verde ([source, 2021](https://datacatalog.worldbank.org/search/dataset/0037712/world-development-indicators)).
+- The World Bank's SPI lists population censuses for Cabo Verde in 2000, 2010 and 2021 within its scoring window; the latest year is used ([source, 2021](https://github.com/worldbank/SPI)).
 
 ### Central African Republic: 3 Established
 
@@ -215,6 +229,13 @@ Congo counted its fifth census in December 2023; no published results of it are 
 The RGPH 2021 was counted in 2021; no results of it are known to be out.
 
 - The report says the clean cooking access figure for Cote d'Ivoire is based on data from the latest RGPH 2021, implying a population and housing census was counted in 2021; no enumeration date or results status is given ([source, 2021](https://www.worldbank.org/content/dam/theworldbankgroupasset/document/2026/m300-energy-compacts/progress-reports/cote-divoire-(en)_mission-300_compact-progress-report-_q12026.pdf)).
+
+### Egypt: 3 Established
+
+A census was counted in 2017 and the next is set for 2028; no release of 2017 results is known.
+
+- The World Bank's WDI lists 2017 as the latest population census for Egypt ([source, 2017](https://datacatalog.worldbank.org/search/dataset/0037712/world-development-indicators)).
+- The World Bank's SPI lists population censuses for Egypt in 1996, 2006 and 2017 within its scoring window; the latest year is used ([source, 2017](https://github.com/worldbank/SPI)).
 
 ### Eswatini: 3 Established
 
@@ -309,13 +330,6 @@ A population census was being prepared in 2026; none counted since 2016 is known
 - Census-cartography operations for the second census (RGPH-2) were launched on 28 September 2026, with general enumeration planned from July 2027; operations are costed at USD 192 million ([source, 2026-09-28](https://mail.7sur7.cd/index.php/2026/10/01/recensement-identification-et-enrolement-en-rdc-ce-quil-faut-savoir)).
 - Training of 1,868 census cartographic operators began in Kinshasa on 9 September 2026, with fieldwork from 15 September and general enumeration scheduled for July 2027 ([source, 2026-09-09](https://actualite.cd/2026/09/18/rgph-2-le-gouvernement-implique-les-operateurs-de-telecommunication-pour-renforcer-la)).
 
-### Egypt: 2 Nascent
-
-A population census was being prepared in 2026; none counted since 2016 is known.
-
-- Egypt's cabinet amended Prime Minister's Decree 1444/2025 on 6 August 2026 so that the planned 2027 population, housing and establishments census becomes the 2028 census ([source, 2026-08-06](https://www.masrawy.com/news/news_egypt/details/2026/8/6/3028931)).
-- The Prime Minister reviewed preparations for the 2027 census; CAPMAS reported steps taken with the planning ministry to secure funding and technical support and with the ICT ministry to approve technical specifications, and the PM ordered the High Committee decree and secretariat completed before a presidential decree to run the census ([source, 2026-07-20](https://www.youm7.com/story/2026/7/20/رئيس-الوزراء-يتابع-موقف-تنفيذ-التعداد-العام-للسكان-والإسكان-والمنشآت/7487323)).
-
 ### Equatorial Guinea: 2 Nascent
 
 A population census was being prepared in 2026; none counted since 2016 is known.
@@ -361,12 +375,6 @@ A 2026 source says no census has been counted in ten years and none is being pre
 
 - UNECA's synopsis of African population statistics (August 2026) states that Eritrea has not conducted a population census since independence ([source, 2026-08](https://datalab.uneca.org/docs-acs/sites/default/files/ood-documents/Population-Summary.pdf)).
 
-### Cape Verde: Unplaced
-
-No census counted since 2016 or in preparation is on record, so no stage is set.
-
-Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
-
 ### Ethiopia: Unplaced
 
 The last census on record was counted in 2007; none since 2016 or in preparation is known, so no stage is set.
@@ -378,9 +386,3 @@ Not established: The last census on record was counted in 2007. No census counte
 The last census on record was counted in 2008; none since or in preparation is known, so no stage is set.
 
 Not established: The last census on record was counted in 2008. No census in preparation since October 2023 has been found, and no source says none is being prepared.
-
-### Algeria: No evidence
-
-Nothing found says whether the country has counted or is preparing a census, so no stage is set.
-
-Not established: Nothing found names a population census or a household survey, or says there is none.

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,census,census,coverage,taken,2021,CIV-001,,nothing dated since 2023-11-01
+CIV,census,census,coverage,taken,2021,CIV-001,,nothing dated since 2023-11-11
 CIV,census,results,coverage,,,,,nothing found
-CIV,census,survey,coverage,published,2024-04-23,CIV-002,,
+CIV,census,survey,coverage,published,2024-04-23,CIV-002;CIV-003;CIV-004,,

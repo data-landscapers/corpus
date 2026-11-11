@@ -1,0 +1,16 @@
+{
+  "slug": "2026-10-08-world-development-indicators-selection-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The World Bank's WDI lists 2014 as Uganda's latest population census.", "as_of": "2014", "date_precision": "year", "system": "Population census 2014", "class": "census"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists the 2016 Demographic and Health Survey as Uganda's latest demographic, education or health household survey.", "as_of": "2016", "date_precision": "year", "system": "Demographic and Health Survey 2016", "class": "survey"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists an integrated household survey (IHS) of 2015/16 as the source of Uganda's most recent income and expenditure data.", "as_of": "2015", "date_precision": "year", "system": "Integrated household survey (IHS) 2015/16", "class": "survey"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "wdi-421ecd7dc7": "fact",
+    "wdi-5ae5c91337": "nothing: agricultural census not assessed",
+    "wdi-ba2eae63af": "fact",
+    "wdi-db7fdc896a": "fact"
+  }
+}

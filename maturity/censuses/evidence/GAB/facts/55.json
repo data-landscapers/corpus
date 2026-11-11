@@ -1,0 +1,20 @@
+{
+  "slug": "2026-10-08-world-development-indicators-selection-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The World Bank's WDI lists 2013 as the year of Gabon's latest population census.", "as_of": "2013", "date_precision": "year", "system": "Population census 2013", "class": "census"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists the Troisieme Enquete Demographique et de Sante 2019-2021 as Gabon's latest demographic, education or health household survey.", "as_of": "2021", "date_precision": "year", "system": "Troisieme Enquete Demographique et de Sante 2019-2021", "class": "survey"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The World Bank's WDI lists a Living Standards Measurement Study / integrated household survey of 2017 as the source of Gabon's most recent income and expenditure data.", "as_of": "2017", "date_precision": "year", "system": "LSMS/Integrated household survey (IHS) 2017", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "Population census 2013", "country_label": "RGPH 2013", "class": "census", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Troisieme Enquete Demographique et de Sante 2019-2021", "country_label": "EDS III 2019-2021", "class": "survey", "platform": "", "owner": "", "tiers": ""},
+    {"system": "LSMS/Integrated household survey (IHS) 2017", "country_label": "LSMS/IHS 2017", "class": "survey", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "wdi-74a45ee5e2": "fact",
+    "wdi-9606cc6a28": "nothing: agricultural census not assessed",
+    "wdi-255cb69d2d": "fact",
+    "wdi-fa157f5a22": "fact"
+  }
+}

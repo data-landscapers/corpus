@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DJI,census,census,coverage,taken,2024,DJI-002;DJI-003;DJI-004,,
-DJI,census,results,coverage,final,2026-01,DJI-001,,
-DJI,census,survey,coverage,,,,,nothing held
+DJI,census,census,coverage,taken,2024,DJI-002;DJI-004;DJI-005;DJI-008,,
+DJI,census,results,coverage,final,2026-01,DJI-001,DJI-003=preliminary,
+DJI,census,survey,coverage,published,2021,DJI-006;DJI-007,,nothing dated since 2023-11-11

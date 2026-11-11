@@ -1,0 +1,12 @@
+{
+  "slug": "2020-03-01-zmb-2017-vital-statistics-report",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The Zambia Statistics Agency's 2017 vital statistics report uses 2010 Census of Population and Housing projections for the 2017 population and cites the 2010 census crude death rate; it gives no enumeration date, so the census year is used.", "as_of": "2010", "date_precision": "year", "system": "Census of Population and Housing 2010", "class": "census"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The report cites the Zambia Demographic and Health Survey 2013-14 for the crude birth rate; the document gives no release date, so 2014 from its reference is used.", "as_of": "2014", "date_precision": "year", "system": "Zambia Demographic and Health Survey 2013-14", "class": "survey"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "odin-82c8bb6502": "nothing: openness scores for vital statistics, no census or survey stated"
+  }
+}

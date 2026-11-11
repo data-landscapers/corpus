@@ -1,0 +1,16 @@
+{
+  "slug": "2025-12-09-statistical-performance-indicators-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "SPI gives scores; its latest named census, 2024, is already held as GMB-007.",
+  "claims": {
+    "spi-3cf23f610a": "nothing: held as GMB-007",
+    "spi-aaf3b2e520": "nothing: agricultural census not assessed",
+    "spi-a16d2f4e7c": "nothing: business census not assessed",
+    "spi-e0cc98a530": "nothing: bare score, no survey named",
+    "spi-3bfba800e7": "nothing: agricultural survey not assessed",
+    "spi-5af2ee63bb": "nothing: bare score, no survey named",
+    "spi-735f3de7fa": "nothing: bare score, no survey named",
+    "spi-e3f5dd13f5": "nothing: business survey not assessed"
+  }
+}

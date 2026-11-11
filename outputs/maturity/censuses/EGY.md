@@ -2,12 +2,12 @@
 
 ## Censuses and surveys
 
-**A census taken or in preparation.** [Egypt's cabinet amended Prime Minister's Decree 1444/2025 on 6 August 2026 so that the planned 2027 population, housing and establishments census becomes the 2028 census](<https://www.masrawy.com/news/news_egypt/details/2026/8/6/3028931>). [The Prime Minister reviewed preparations for the 2027 census; CAPMAS reported steps taken with the planning ministry to secure funding and technical support and with the ICT ministry to approve technical specifications, and the PM ordered the High Committee decree and secretariat completed before a presidential decree to run the census](<https://www.youm7.com/story/2026/7/20/رئيس-الوزراء-يتابع-موقف-تنفيذ-التعداد-العام-للسكان-والإسكان-والمنشآت/7487323>). Three facts are held on the country's census and surveys, all given here: no news story or official notice read for this study says more, and the census and survey reports themselves were not read.
+**A census taken or in preparation.** [The World Bank gives 2017 as the latest census](<https://datacatalog.worldbank.org/search/dataset/0037712/world-development-indicators>). [Its SPI lists counts in 1996, 2006 and 2017](<https://github.com/worldbank/SPI>). The next is being prepared. [The Prime Minister chaired its High Committee in February 2026](<https://www.cabinet.gov.eg/News/Details/84892>). [In July 2026 CAPMAS reported funding and technical steps agreed with the planning and ICT ministries](<https://www.youm7.com/story/2026/7/20/رئيس-الوزراء-يتابع-موقف-تنفيذ-التعداد-العام-للسكان-والإسكان-والمنشآت/7487323>). A presidential decree is still needed to run it. [On 6 August 2026 the cabinet moved it from 2027 to 2028](<https://www.masrawy.com/news/news_egypt/details/2026/8/6/3028931>).
 
-**Results published.** No source found reports preliminary or final results of a census counted since October 2016. The nearest held fact: [Egypt's cabinet amended Prime Minister's Decree 1444/2025 on 6 August 2026 so that the planned 2027 population, housing and establishments census becomes the 2028 census](<https://www.masrawy.com/news/news_egypt/details/2026/8/6/3028931>).
+**Results published.** No release of 2017 results has been found. The latest fact on file is the count: [the World Bank dates it to 2017](<https://datacatalog.worldbank.org/search/dataset/0037712/world-development-indicators>).
 
-**A household survey published.** No source found reports results of a national household survey published since October 2023. The nearest held fact: [the one given above](<https://www.masrawy.com/news/news_egypt/details/2026/8/6/3028931>).
+**A household survey published.** [The World Bank names the 2015 Health Issues Survey as the latest health survey](<https://datacatalog.worldbank.org/search/dataset/0037712/world-development-indicators>). Nothing more recent has been found.
 
 ***Also on file***. [6th Economic Census 2022/2023](<https://moic.gov.eg/news/2564>).
 
-***Not found***. No source found reports a census counted since October 2016.
+***Not found***. No source found reports results of the 2017 census. Nor does any report a household survey published since October 2023.

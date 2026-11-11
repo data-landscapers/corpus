@@ -1,0 +1,15 @@
+{
+  "slug": "2019-07-01-gin-republique-de-guinee-enquete-demographique-et-de-sante-eds-v-2018",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "INS Guinea and ICF's July 2019 report presents the fifth Demographic and Health Survey (EDS V), fielded March to June 2018 on a sample of about 8,000 households.", "as_of": "2019-07", "date_precision": "month", "system": "EDS V 2018", "class": "survey"},
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The EDS V report states its sampling frame is the database of the general population and housing census held in 2014 (RGPH 2014), which lists 9,679 enumeration areas.", "as_of": "2014", "date_precision": "year", "system": "RGPH 2014", "class": "census"}
+  ],
+  "systems": [
+    {"system": "EDS V 2018", "country_label": "DHS 2018", "class": "survey", "platform": "", "owner": "INS Guinea", "tiers": ""},
+    {"system": "RGPH 2014", "country_label": "RGPH 2014", "class": "census", "platform": "", "owner": "INS Guinea", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "odin-59ab7df3ac": "nothing: openness scores of population tables, no census or survey named"
+  }
+}

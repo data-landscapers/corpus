@@ -1,0 +1,16 @@
+{
+  "slug": "2025-12-09-statistical-performance-indicators-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "SPI gives scores; its latest named census, 2019, is already held as KEN-003.",
+  "claims": {
+    "spi-fdba137e34": "nothing: held as KEN-003",
+    "spi-495a6cc032": "nothing: agricultural census not assessed",
+    "spi-ca0e2857bf": "nothing: business census not assessed",
+    "spi-cb91049ded": "nothing: bare score, no survey named",
+    "spi-9e870793f1": "nothing: agricultural survey not assessed",
+    "spi-5e05f2b29b": "nothing: bare score, no survey named",
+    "spi-cc72402501": "nothing: bare score, no survey named",
+    "spi-bc63bd9896": "nothing: business survey not assessed"
+  }
+}

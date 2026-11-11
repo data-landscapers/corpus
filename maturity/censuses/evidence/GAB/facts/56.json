@@ -1,0 +1,20 @@
+{
+  "slug": "2025-12-09-statistical-performance-indicators-2026-11-10",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The World Bank's SPI lists population censuses for Gabon in 2003 and 2013 within its scoring window.", "as_of": "2013", "date_precision": "year", "system": "Population census 2013", "class": "census"}
+  ],
+  "systems": [
+    {"system": "Population census 2013", "country_label": "RGPH 2013", "class": "census", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "spi-fa4c41ec9f": "fact",
+    "spi-d686fe59a6": "nothing: agricultural census not assessed",
+    "spi-36c390a4d5": "nothing: business census not assessed",
+    "spi-9c792eb38c": "nothing: bare score, no survey named",
+    "spi-f665f2a451": "nothing: agricultural survey not assessed",
+    "spi-bba8f9eaa4": "nothing: bare score, no survey named",
+    "spi-beb4400091": "nothing: bare score, no survey named",
+    "spi-fabd1ff3d1": "nothing: business survey not assessed"
+  }
+}

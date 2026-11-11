@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "census",
-      "stage": "2",
-      "census": "preparing",
+      "stage": "3",
+      "census": "taken",
       "results": "",
       "survey": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-003;EGY-001",
-      "gaps": "No source found reports a census counted since October 2016.",
-      "note": "Counted from the four questions by study-ladder-censuses.py.",
-      "as_at": "2026-10-25"
+      "stage_sources": "EGY-004;EGY-006",
+      "gaps": "No source found reports preliminary or final results of the census published.",
+      "note": "The World Bank's WDI and SPI both list a 2017 population census, inside the ten years, so stage 3; no results are on record, so not stage 4.",
+      "as_at": "2026-11-11"
     }
   ]
 }

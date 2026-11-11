@@ -3,7 +3,7 @@ type: design-note
 reader: cc
 title: external-datasets.md — global databases as claims, not scores
 last_reviewed: 2026-11-10
-status: built for aftech, gtmi, unctad, odin, itu, spi and wdi; maturity pass not yet built
+status: built for aftech, gtmi, unctad, odin, itu, spi and wdi; maturity pass built 2026-11-11
 ---
 
 # External datasets
@@ -82,8 +82,12 @@ The first reading, on 2026-11-10, found three patterns:
   - Titles: GTMI gives no document titles, so `best_title` builds one from the page title, the file name, the body's first line or the claim's name, skipping letterheads.
 - **The database itself is one raw record per edition**, its African rows rendered by country. This is the fallback a claim cites when it has no primary. The prose names the basis: "the government told the World Bank's GovTech survey…", or "Carnegie's tracker lists…".
 
-## 5. Not yet built
+## 5. The maturity pass
 
-**The maturity pass.** Claims reach a study as evidence through a drafter reading them beside the held primary, under the citing rule above. It waits on the primaries landing, and on `study-update.py` → `HELD`. Registered as a CORPUS housekeeping job.
+**`scripts/study-external.py` carries a study's claims into its evidence, one study a run** (CORPUS housekeeping 58). Its docstring holds the outcomes. Every claim ends in `maturity/{id}/external.csv`.
+
+- **An older round closes as `superseded`.** The database record in `raw/` carries the latest round only, so it has nothing to cite.
+- **The rest go to Sonnet drafters**, eight countries a call. A claim is read beside its held primary, or else beside the country's lines of the record. The drafter answers each claim `fact` or `nothing` in its facts file. `close` reads those answers back.
+- **A database year is not a count.** WDI and SPI list a census in the year it was due. For Benin that was 2023, while INStaD was still mapping in March 2024. Where a held primary contradicts a claim, the row goes to `corrections.csv`.
 
 **More sources.** Each source needs one adapter, one register row and a block of mappings.
