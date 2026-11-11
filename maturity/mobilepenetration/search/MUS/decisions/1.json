@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "Table 12 of the Continuous Multi Purpose Household Survey shows 96.8% of persons aged 12 years and above owned a mobile phone in 2024, up from 88.6% in 2020 (survey:96.8; base is 12+, not 10+).",
+ "title": "Economic and Social Indicators, Issue No 1869: ICT Statistics Year 2024",
+ "publisher": "Statistics Mauritius",
+ "published": "2025-07-11",
+ "date_source": "source",
+ "why_not": ""
+}

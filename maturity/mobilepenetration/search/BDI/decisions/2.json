@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "The national survey on ICT access and use, fielded 29 April to 17 May 2024 among 4,100 households, found 53% in rural areas in possession of a simple mobile phone, with urban possession of Android phones more than three times the rural rate (no national all-phone figure or age base is stated).",
+ "title": "Présentation et validation du rapport de l’enquête nationale sur l’accès et l’utilisation des TIC au Burundi",
+ "publisher": "Agence Burundaise de Presse",
+ "published": "2024-11-24",
+ "date_source": "source",
+ "why_not": ""
+}

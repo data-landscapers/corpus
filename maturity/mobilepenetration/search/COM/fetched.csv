@@ -1,0 +1,4 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/COM/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-mobile-phone-ownership/,fetched,,scripts/.workroot/study/mobilepenetration/cache/COM/2.txt,433,html,Facts and figures 2024 - Mobile phone ownership
+3,https://www.nada.inseed-comores.org/index.php/catalog/11/variable/F9/V1506?name=MT11,fetched,,scripts/.workroot/study/mobilepenetration/cache/COM/3.txt,69,html,Enquête par Grappes à Indicateurs Multiples MICS - 2022

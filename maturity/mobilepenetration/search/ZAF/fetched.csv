@@ -1,0 +1,4 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/ZAF/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://datahub.itu.int/data/?e=ZAF&i=11624,not-a-document,ITU DataHub chart widget,,0,,
+3,https://www.statssa.gov.za/publications/P0318/P03182024.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/ZAF/3.txt,49401,pdf,GHS 2023 P0318

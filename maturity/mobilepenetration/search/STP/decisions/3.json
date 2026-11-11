@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "Summary of results, Afrobarometer Round 10, Sao Tome and Principe 2024",
+ "publisher": "Afrobarometer",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": "off-topic: personal phone ownership 80.8% but sample is adults 18+ only, excluded by the sub-indicator definition"
+}

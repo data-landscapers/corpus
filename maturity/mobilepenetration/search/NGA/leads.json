@@ -1,0 +1,6 @@
+[
+{"url": "https://nigerianstat.gov.ng/pdfuploads/GHS-Panel%20Wave%205%20-%20Survey%20Report.pdf", "title": "Nigeria General Household Survey-Panel (Wave 5) 2023/2024", "publisher": "National Bureau of Statistics", "published": "2025", "sub_indicator": "ownership", "why": "Individuals aged 10+ with access to a mobile phone, 2023/24 (access, not ownership)"},
+{"url": "https://dhsprogram.com/pubs/pdf/FR395/FR395.pdf", "title": "Nigeria Demographic and Health Survey 2024 - Final Report", "publisher": "National Population Commission / ICF", "published": "2025-09", "sub_indicator": "ownership", "why": "Individual mobile phone ownership (SDG 5.b.1) 2023-24; ages 15-49 only"},
+{"url": "https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-SDDT_AFR-2025-PDF-E.pdf", "title": "Measuring digital development: Africa", "publisher": "ITU", "published": "2025", "sub_indicator": "ownership", "why": "ITU regional ownership 10+ in 2024; check for Nigeria country figure"},
+{"url": "https://www.afrobarometer.org/wp-content/uploads/2025/08/R10-Summary-of-results-Nigeria-Afrobarometer-bh-7aug25-rev-1nov25.pdf", "title": "Summary of results, Afrobarometer Round 10, Nigeria 2024", "publisher": "Afrobarometer / NOIPolls", "published": "2025-08", "sub_indicator": "ownership", "why": "Personal mobile phone ownership 2024; adults 18+ only"}
+]

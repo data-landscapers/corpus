@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "Basic Demographic and Socio-economic Profile Key Findings",
+ "publisher": "National Bureau of Statistics",
+ "published": "2024-04",
+ "date_source": "source",
+ "why_not": "already-held: the 2022 census figure (82.5 per cent, 15+) is held through the ITU series row TZA-002 and the ICT Analysis"
+}

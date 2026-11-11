@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: the fetched OWID page text does not state a Niger figure, and it is an aggregator of ITU data."
+}

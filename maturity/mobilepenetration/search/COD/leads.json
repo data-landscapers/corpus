@@ -1,0 +1,7 @@
+[
+{"url": "https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar", "title": "Share of the population that owns a mobile phone, 2024", "publisher": "Our World in Data (ITU data)", "published": "2026-07-31", "sub_indicator": "ownership", "why": "ITU estimate 44% DRC 2024"},
+{"url": "https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-mobile-phone-ownership/", "title": "Facts and figures 2024 - Mobile phone ownership", "publisher": "ITU", "published": "2024", "sub_indicator": "ownership", "why": "ITU 10+ ownership definition and regional figures"},
+{"url": "https://www.ins.gouv.cd/publication/RDC-EDS-III.pdf", "title": "Enquete Demographique et de Sante EDS-RDC III 2023-2024", "publisher": "INS / ESPK / DHS Program", "published": "2025-02", "sub_indicator": "ownership", "why": "SDG 5.b.1 individuals owning a mobile phone 43.1 percent (15-49)"},
+{"url": "https://dhsprogram.com/pubs/pdf/SR291/SR291.pdf", "title": "EDS-RDC III 2023-2024 Rapport de Synthese", "publisher": "INS / DHS Program", "published": "2025", "sub_indicator": "ownership", "why": "Men 53 percent, women 34 percent own mobile phone"},
+{"url": "https://www.undp.org/sites/g/files/zskgke326/files/2026-02/undp-cd-rapport_final_ecvm_rdc_2024_1.pdf", "title": "Rapport final ECVM RDC 2024", "publisher": "INS / UNDP", "published": "2025-12", "sub_indicator": "ownership", "why": "Household phone access 60 percent (households, not persons)"}
+]

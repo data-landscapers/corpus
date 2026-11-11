@@ -1,0 +1,6 @@
+[
+{"url": "https://ourworldindata.org/grapher/share-population-mobile-phone", "title": "Share of the population that owns a mobile phone", "publisher": "Our World in Data (ITU data)", "published": "2026-07-31", "sub_indicator": "ownership", "why": "ITU estimate of individuals owning a mobile phone, Algeria 2024"},
+{"url": "https://www.itu.int/itu-d/reports/statistics/2025/11/17/gcr-2025-chapter-2/", "title": "Global Connectivity Report 2025, chapter 2", "publisher": "ITU", "published": "2025-11-17", "sub_indicator": "ownership", "why": "ITU 2024 mobile phone ownership data, country level"},
+{"url": "https://ijeponline.lingcure.org/index.php/journal/article/download/826/795/980", "title": "The impact of digital transformation on e commerce in Algeria: in the light of some ICT indicators", "publisher": "LingCuRe", "published": "2024", "sub_indicator": "ownership", "why": "Cites ITU: individuals owning a mobile phone 85.9% in 2024 in Algeria"},
+{"url": "https://science-tech.statizoid.com/stat/share-population-mobile-phone/algeria/", "title": "Share of the population that owns a mobile phone in Algeria (2024)", "publisher": "Statizoid", "published": "2024", "sub_indicator": "ownership", "why": "Repackages ITU/OWID series, 92.7% in 2024"}
+]

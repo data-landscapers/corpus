@@ -1,0 +1,6 @@
+[
+{"url": "https://www.agenceecofin.com/actualites-numerique/2402-136110-inclusion-numerique-madagascar-finance-la-distribution-de-664-000-equipements-connectes", "title": "Inclusion numerique : Madagascar finance la distribution de 664 000 equipements connectes", "publisher": "Agence Ecofin", "published": "2026", "sub_indicator": "ownership", "why": "Cites ITU: 44.4% of the population owned mobile phones in 2024"},
+{"url": "https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2026/10/GSMA-MADAGASCAR-DIGITAL-ECONOMY-REPORT-ENGLISH.pdf", "title": "Madagascar Digital Economy Report", "publisher": "GSMA", "published": "2026-10", "sub_indicator": "ownership", "why": "Unique mobile subscriber penetration 44.6% in 2025 (subscriber measure, likely unusable)"},
+{"url": "https://www.instat.mg/documents/upload/main/INSTAT_Epm21-22_06-2024.pdf", "title": "Enquete Permanente aupres des Menages 2021-2022", "publisher": "INSTAT", "published": "2024-03", "sub_indicator": "ownership", "why": "National survey of phone ownership, 2021-22 fieldwork (before 2024)"},
+{"url": "https://microdata.worldbank.org/catalog/7938", "title": "Madagascar - The Global Findex Database 2025", "publisher": "World Bank", "published": "2025-09", "sub_indicator": "ownership", "why": "2024 survey of adults 15+ on mobile ownership (adults only)"}
+]

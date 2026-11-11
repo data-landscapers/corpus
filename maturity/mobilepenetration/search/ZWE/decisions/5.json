@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "",
+ "title": "Share of the population that owns a mobile phone",
+ "publisher": "Our World in Data",
+ "published": "2026-07-31",
+ "date_source": "proxy",
+ "why_not": "no-development: fetched text is chart metadata with no Zimbabwe value; an aggregator of ITU data."
+}

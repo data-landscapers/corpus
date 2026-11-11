@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "The National Communications Authority of Somalia stated in May 2024 that approximately 70-80% of the population own a mobile phone (an approximate regulator figure, not a survey and not stated for ages 10+).",
+ "title": "Public Awarness, Education and Outreach of EMF",
+ "publisher": "National Communications Authority of Somalia",
+ "published": "2024-05-14",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/LSO/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://dhsprogram.com/pubs/pdf/FR391/FR391.pdf,held,held as raw/2024/2024-11-01-lso-lesotho-demographic-and-health-survey-2023-24-final-report.md,,0,,
+3,https://www.afrobarometer.org/wp-content/uploads/2024/08/Les_R10-Summary-of-results-6aug24.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/LSO/3.txt,27806,pdf,
+4,https://lca.org.ls/wp-content/uploads/filr/4003/The-state-of-ICT-in-Lesotho-2023.pdf,held,held as raw/2024/2024-01-01-lso-the-state-of-ict-in-lesotho-2023.md,,0,,
+5,https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf,held,held as raw/2025/2025-01-01-lca-ict-access-use-households-comparative-2016-2023.md,,0,,

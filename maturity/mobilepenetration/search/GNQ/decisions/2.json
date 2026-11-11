@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "II Encuesta Nacional de Hogares de Guinea Ecuatorial",
+ "publisher": "INEGE",
+ "published": "2024-11",
+ "date_source": "source",
+ "why_not": "off-topic: 42,740-word report searched for telephone, mobile and internet terms; no mobile phone ownership figure"
+}

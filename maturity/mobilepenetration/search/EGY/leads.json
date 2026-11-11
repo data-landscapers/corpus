@@ -1,0 +1,6 @@
+[
+{"url": "https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_EGY.pdf", "title": "Digital Development Dashboard: Egypt, Infrastructure & Access", "publisher": "ITU", "published": "2024", "sub_indicator": "ownership", "why": "Individuals owning a mobile phone 97% (2022); ITU estimate."},
+{"url": "https://unstats.un.org/sdgs/dataportal/countryprofiles/egy?goal=5", "title": "SDG Country Profiles: Egypt", "publisher": "UN Statistics Division", "published": "", "sub_indicator": "ownership", "why": "Proportion of individuals who own a mobile telephone, by sex (SDG 5.b.1), latest year."},
+{"url": "https://censusinfo.capmas.gov.eg/metadata-en-v4.2/index.php/catalog/793", "title": "Informatics bulletin monthly October 2024", "publisher": "CAPMAS", "published": "2025-10", "sub_indicator": "ownership", "why": "National statistics office ICT bulletin 2024; may hold individual ownership share."},
+{"url": "https://datahub.itu.int/data/?e=EGY&i=11925", "title": "ITU DataHub: Egypt", "publisher": "ITU", "published": "", "sub_indicator": "ownership", "why": "ITU estimate of individuals owning a mobile phone, latest year."}
+]

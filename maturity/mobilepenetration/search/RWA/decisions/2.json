@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "",
+ "title": "Rwanda Demographic and Health Survey 2025 Final Report",
+ "publisher": "NISR, MOH and ICF",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": "off-topic: its individual phone ownership (68.5%) covers only women and men aged 15-49, not people aged 10+."
+}

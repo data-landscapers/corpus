@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "Share of the population that owns a mobile phone",
+ "publisher": "Our World in Data",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "already-held: the fetched text carries no Djibouti figure, and the ITU SDG 5.b.1 series (73% for 2024) is already held in evidence.csv as ref:itu-sdg-5b1-mobile-ownership-10plus"
+}

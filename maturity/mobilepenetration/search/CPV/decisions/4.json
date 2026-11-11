@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "",
+ "title": "Perto de 70% das famílias cabo-verdianas com acesso à Internet em 2024",
+ "publisher": "Observador (Lusa)",
+ "published": "2025-06-24",
+ "date_source": "proxy",
+ "why_not": "already-held: the 2024 INE figure (76.3%) is held from the ITU/INE slides, and this is a second-hand news report of it."
+}

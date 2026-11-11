@@ -1,0 +1,5 @@
+[
+{"url": "https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar", "title": "Share of the population that owns a mobile phone, 2024", "publisher": "Our World in Data (ITU data)", "published": "2026-07-31", "sub_indicator": "ownership", "why": "Lists Seychelles at 95% of individuals owning a mobile phone in 2024 (ITU)."},
+{"url": "https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-mobile-phone-ownership/", "title": "Mobile phone ownership statistics", "publisher": "ITU", "published": "2025-10", "sub_indicator": "ownership", "why": "ITU 2025 ownership page, aged 10+; may carry a country figure."},
+{"url": "https://www.seychellesnewsagency.com/articles/21372/itu-seychelles-retains-3rd-place-in-africa-for-highest-levels-of-ict-development", "title": "ITU: Seychelles retains 3rd place in Africa for highest levels of ICT development", "publisher": "Seychelles News Agency", "published": "2024-10-28", "sub_indicator": "ownership", "why": "IDI 2024 coverage; ownership is one indicator, check for a Seychelles figure."}
+]

@@ -1,0 +1,4 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/COG/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://science-tech.statizoid.com/stat/share-population-mobile-phone/congo-rep/,fetched,,scripts/.workroot/study/mobilepenetration/cache/COG/2.txt,557,html,Share population mobile phone in Congo (2024) — Statizoid
+3,https://ins-congo.cg/recensement.html,fetched,,scripts/.workroot/study/mobilepenetration/cache/COG/3.txt,56,html,Recensement

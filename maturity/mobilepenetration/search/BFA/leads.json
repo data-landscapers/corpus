@@ -1,0 +1,5 @@
+[
+{"url": "https://www.ecofinagency.com/news-digital/1407-57372-burkina-faso-to-extend-telecom-access-to-1-5-2-million-people", "title": "Burkina Faso to Extend Telecom Access to 1.5–2 Million People", "publisher": "Ecofin Agency", "published": "2026-07-14", "sub_indicator": "ownership", "why": "States ITU figure: 63.9% of Burkina Faso population owned a mobile phone in 2024"},
+{"url": "https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar", "title": "Share of the population that owns a mobile phone, 2024", "publisher": "Our World in Data (ITU data)", "published": "2026-07-31", "sub_indicator": "ownership", "why": "ITU proportion of individuals owning a mobile phone, Burkina Faso 64% in 2024"},
+{"url": "https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-mobile-phone-ownership/", "title": "Facts and figures 2024 - Mobile phone ownership", "publisher": "International Telecommunication Union", "published": "2024", "sub_indicator": "ownership", "why": "ITU ownership definition (aged 10+) and regional figures"}
+]

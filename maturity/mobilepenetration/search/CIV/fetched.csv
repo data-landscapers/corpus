@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.artci.ci/wp-content/uploads/2026/06/Rsum_Excutif_MSI_2024_200226.pdf,held,held as raw/2026/2026-02-20-civ-resume-executif-enquete-nationale-msi-2024.md,,0,,
+2,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/CIV/2.txt,618,html,Share of the population that owns a mobile phone
+3,https://science-tech.statizoid.com/stat/share-population-mobile-phone/cote-d-ivoire/,fetched,,scripts/.workroot/study/mobilepenetration/cache/CIV/3.txt,645,html,Share population mobile phone in Cote d'Ivoire (2024)
+4,https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_CIV.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/CIV/4.txt,700,pdf,
+5,https://www.itu.int/itu-d/reports/statistics/wp-content/uploads/sites/5/2024/11/2402588_1e_Measuring-digital-development-Facts-and-Figures-2024_v4.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/CIV/5.txt,9384,pdf,Measuring digital development
+6,https://digitalmag.ci/cote-divoire-les-telecommunications-en-lettres-et-en-chiffres-au-31-mars-2024-artci/,fetched,,scripts/.workroot/study/mobilepenetration/cache/CIV/6.txt,341,html,"Côte d’Ivoire : Les télécommunications en lettres et en chiffres, au 31 mars 2024 (ARTCI)"

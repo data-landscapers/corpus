@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/NER/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://stat-niger.org/wp-content/uploads/rapport_enquete/RAPPORT_FINAL_ENQUETE_TIC_2025_Validation_09_04_2026.pdf,held,held as raw/2026/2026-03-01-niger-enquete-tic-2025.md,,0,,
+3,https://www.stat-niger.org/anado/index.php/catalog/199,fetched,,scripts/.workroot/study/mobilepenetration/cache/NER/3.txt,1772,html,"ENQUETE SUR L’ACCES DES MENAGES ET DES INDIVIDUS AUX TECHNOLOGIES DE L’INFORMATION ET DE LA COMMUNICATION (TIC) AU NIGER EN 2025, ENQUETE SUR L’ACCES DES MENAGES ET DES INDIVIDUS AUX TECHNOLOGIES DE L’INFORMATION ET DE LA COMMUNICATION (TIC) AU NIGER EN 2"
+4,https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/annuaire/annuaire_statistique_ins_2020_2024_vf.pdf,held,held as raw/2025/2025-01-01-ner-ins-annuaire-statistique-2020-2024.md,,0,,

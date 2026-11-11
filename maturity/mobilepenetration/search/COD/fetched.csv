@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/COD/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-mobile-phone-ownership/,fetched,,scripts/.workroot/study/mobilepenetration/cache/COD/2.txt,433,html,Facts and figures 2024 - Mobile phone ownership
+3,https://www.ins.gouv.cd/publication/RDC-EDS-III.pdf,held,held as raw/2025/2025-02-01-cod-enquete-demographique-et-de-sante-eds-rdc-iii-20232024-rapport-final.md,,0,,
+4,https://dhsprogram.com/pubs/pdf/SR291/SR291.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/COD/4.txt,12050,pdf,République Démocratique du Congo EDS 2023-24 Rapport de Synthèse [SR291]
+5,https://www.undp.org/sites/g/files/zskgke326/files/2026-02/undp-cd-rapport_final_ecvm_rdc_2024_1.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/COD/5.txt,102701,pdf,PAUVRETE SUBJECTIVE

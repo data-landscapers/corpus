@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "In August 2025, 53.8% of the population aged 10 years and above in Rwanda owned any mobile phone (65.7% of those aged 16 and above; 23.0% of those 10+ owned a smartphone).",
+ "title": "Labour Force Survey Quarter 3, 2025",
+ "publisher": "National Institute of Statistics of Rwanda (NISR)",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

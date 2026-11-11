@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "",
+ "title": "Share of the population that owns a mobile phone, 2025",
+ "publisher": "Our World in Data",
+ "published": "2026-07-31",
+ "date_source": "source",
+ "why_not": "headline-only-stub: chart page; South Sudan shown as No data, no figure"
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "already-held: the document is already in raw/ and was skipped at fetch"
+}

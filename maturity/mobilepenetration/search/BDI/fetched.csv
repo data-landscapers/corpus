@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/BDI/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://abpinfo.bi/2024/11/24/presentation-et-validation-du-rapport-de-lenquete-nationale-sur-lacces-et-lutilisation-des-tic-au-burundi/,fetched,,scripts/.workroot/study/mobilepenetration/cache/BDI/2.txt,993,html,Présentation et validation du rapport de l’enquête nationale sur l’accès et l’utilisation des TIC au Burundi
+3,https://abpinfo.bi/2024/05/21/linnovation-numerique-au-service-du-developpement-durable/,fetched,,scripts/.workroot/study/mobilepenetration/cache/BDI/3.txt,545,html,L’innovation numérique au service du développement durable
+4,https://api.insbu.bi/storage/documents/01M5J5C96GHE3MDEBC76F80RAE.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/BDI/4.txt,95899,pdf,

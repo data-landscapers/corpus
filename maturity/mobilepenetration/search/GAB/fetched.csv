@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/GAB/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://www.gsma.com/newsroom/all-documents/gsma-calls-for-more-affordable-smartphones-as-over-half-of-gabons-population-remains-off-mobile-internet-despite-network-coverage/,held,held as raw/2026/2026-10-29-gab-gsma-calls-for-more-affordable-smartphones-gabon-off-mobile-internet.md,,0,,
+3,https://union.sonapresse.com/fr/acces-au-numerique-une-fracture-entre-zones-rurales-et-urbaines,fetched,,scripts/.workroot/study/mobilepenetration/cache/GAB/3.txt,338,html,Accès au numérique : une fracture entre zones rurales et urbaines
+4,https://gabonmediatime.com/global-findex-2025-pres-de-60-de-la-population-gabonaise-detentrice-dun-smartphone/,fetched,,scripts/.workroot/study/mobilepenetration/cache/GAB/4.txt,337,html,Global Findex 2025 : près de 60 % de la population gabonaise détentrice d'un smartphone
+5,https://www.afrobarometer.org/wp-content/uploads/2024/11/GAB_R10_SOR-16oct24.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/GAB/5.txt,27200,pdf,

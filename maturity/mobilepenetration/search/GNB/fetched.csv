@@ -1,0 +1,4 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/GNB/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://science-tech.statizoid.com/stat/share-population-mobile-phone/guinea-bissau/,fetched,,scripts/.workroot/study/mobilepenetration/cache/GNB/2.txt,578,html,Share population mobile phone in Guinea-Bissau (2024)
+3,https://www.unicef.org/guineabissau/media/1416/file/Desdobr%C3%A1veis%20estat%C3%ADsticos%20dos%20principais%20resultados.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/GNB/3.txt,28854,pdf,

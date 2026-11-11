@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "Share of the population that owns a mobile phone, 2024",
+ "publisher": "Our World in Data",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: fetched text is the chart's source notes only and does not state Equatorial Guinea's value (search snippet only; an Exa summary)"
+}

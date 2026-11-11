@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "",
+ "title": "Share of the population that owns a mobile phone",
+ "publisher": "Our World in Data",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: fetched text holds only source notes, no Seychelles figure (the 95% for 2024 was in the search highlight only, not the fetched text)"
+}

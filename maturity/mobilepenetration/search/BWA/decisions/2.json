@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "",
+ "title": "Botswana Population and Housing Census 2022: Analytical Report Volume 4, Transport and ICT, Agriculture and Land Ownership",
+ "publisher": "Statistics Botswana",
+ "published": "2025-06",
+ "date_source": "source",
+ "why_not": "off-topic: gives 2022 mobile phone use in the last 3 months (77 per cent, aged 5+; 98.6 per cent in another paper) and an inconsistent ownership figure (92.8 per cent) with no stated base; 2022 data, before 2024, and not a clean ownership share"
+}

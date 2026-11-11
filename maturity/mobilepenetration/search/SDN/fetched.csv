@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone,fetched,,scripts/.workroot/study/mobilepenetration/cache/SDN/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-mobile-phone-ownership/,fetched,,scripts/.workroot/study/mobilepenetration/cache/SDN/2.txt,432,html,Statistics
+3,https://www.unwomen.org/sites/default/files/2024-09/b30_annex_sudan_ar.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/SDN/3.txt,345,pdf,"Microsoft Word - ED-B 1BE (7)E$41'* *CFDH,J' 'DE9DHE'* H'D'*5'D'*"
+4,https://www.undp.org/sudan/press-releases/digital-finance-skills-urgently-needed-keep-economic-transactions-going-and-protect-individual-incomes-during-sudans-war-undp,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+5,https://datacatalog.ihsn.org/catalog/13767,fetched,,scripts/.workroot/study/mobilepenetration/cache/SDN/5.txt,957,html,"Welfare Monitoring Survey Round I, 2024 Monitoring Food Insecurity, Displacement, and Mental Health in Sudan"
+6,https://datareportal.com/reports/digital-2025-sudan,held,held as raw/2025/2025-03-03 Digital 2025 - Sudan (DataReportal).md,,0,,

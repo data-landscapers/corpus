@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "Share of the population that owns a mobile phone",
+ "publisher": "Our World in Data",
+ "published": "2026-07-31",
+ "date_source": "source",
+ "why_not": "off-topic: fetched text is the generic chart page and states no Sao Tome and Principe figure"
+}

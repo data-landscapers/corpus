@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "",
+ "title": "Sierra Leone Builds Telecom Networks, but Most People Remain Offline",
+ "publisher": "Ecofin Agency",
+ "published": "2026-05-04",
+ "date_source": "source",
+ "why_not": "no-development: second-hand report of a minister's 'mobile penetration 50.3%'; text does not say it is ownership of people 10+ (could be subscriptions), so not usable."
+}

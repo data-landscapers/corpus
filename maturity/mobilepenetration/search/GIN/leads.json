@@ -1,0 +1,6 @@
+[
+{"url": "https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar", "title": "Share of the population that owns a mobile phone, 2024", "publisher": "Our World in Data (ITU data)", "published": "2026-07-31", "sub_indicator": "ownership", "why": "ITU estimate of individuals owning a mobile phone, Guinea 2024 (83%)"},
+{"url": "https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-mobile-phone-ownership/", "title": "Mobile phone ownership statistics", "publisher": "ITU", "published": "2025-10-15", "sub_indicator": "ownership", "why": "ITU Facts and Figures 2025 on ownership among people aged 10+"},
+{"url": "https://science-tech.statizoid.com/stat/share-population-mobile-phone/guinea/", "title": "Share population mobile phone in Guinea (2024)", "publisher": "Statizoid", "published": "", "sub_indicator": "ownership", "why": "Guinea ITU-derived series, 82.2 in 2024"},
+{"url": "https://www.stat-guinee.org/index.php/publications-ins/rapports-d-enquetes", "title": "Rapports d'enquêtes", "publisher": "INS Guinée", "published": "", "sub_indicator": "ownership", "why": "Index of national surveys incl. EDS 2024-2025"}
+]

@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/GMB/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-SDDT_AFR-2025-PDF-E.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/GMB/2.txt,15206,pdf,Measuring digital development
+3,https://science-tech.statizoid.com/stat/share-population-mobile-phone/gambia-the/,fetched,,scripts/.workroot/study/mobilepenetration/cache/GMB/3.txt,562,html,Share population mobile phone in Gambia (2024) — Statizoid
+4,https://www.itu.int/itu-d/reports/statistics/wp-content/uploads/sites/5/2024/11/2402588_1e_Measuring-digital-development-Facts-and-Figures-2024_v4.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/GMB/4.txt,9384,pdf,Measuring digital development
+5,https://www.gbosdata.org/downloads-file/580-communication-statistics-summary-report-2024,held,held as raw/2025/2025-06-01-gbos-gambia-communication-statistics-2024.md,,0,,

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "Share of the population that owns a mobile phone",
+ "publisher": "Our World in Data",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: aggregator of ITU data; fetched text carries no Eswatini figure"
+}

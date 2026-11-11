@@ -1,0 +1,5 @@
+[
+{"url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/wp-content/uploads/2026/06/GSMA_M4H_Digital-Access-and-Connectivity-in-South-Sudan-Barriers-for-Refugees-and-Host-Communities_06_2026.pdf", "title": "Digital Access and Connectivity in South Sudan", "publisher": "GSMA Mobile for Humanitarian Innovation", "published": "2026-06", "sub_indicator": "ownership", "why": "Household phone ownership from the 2025 ISNA; a survey figure, households not persons"},
+{"url": "https://www.itu.int/en/ITU-D/Statistics/Documents/datacollection/IDA_EstimationMethods.pdf", "title": "Estimation methods for selected ICT", "publisher": "ITU", "published": "2026-03", "sub_indicator": "ownership", "why": "States South Sudan has no ITU mobile phone ownership estimate for 2022-2024"},
+{"url": "https://ourworldindata.org/grapher/share-population-mobile-phone?country=BRA%7EARG%7EMEX%7EFRA&overlay=download-data", "title": "Share of the population that owns a mobile phone, 2025", "publisher": "Our World in Data (ITU)", "published": "2026-07-31", "sub_indicator": "ownership", "why": "Shows South Sudan with no data in the ITU series"}
+]

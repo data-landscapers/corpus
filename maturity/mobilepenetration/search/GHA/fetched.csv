@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/GHA/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://science-tech.statizoid.com/stat/share-population-mobile-phone/ghana/,fetched,,scripts/.workroot/study/mobilepenetration/cache/GHA/2.txt,569,html,Share population mobile phone in Ghana (2024) — Statizoid
+3,https://www.itu.int/dms_pub/itu-d/md/22/wtdc25/inf/D22-WTDC25-INF-0002!!PDF-E.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/GHA/3.txt,14276,pdf,TDAG19
+4,https://www.itu.int/itu-d/reports/statistics/wp-content/uploads/sites/5/2024/11/2402588_1e_Measuring-digital-development-Facts-and-Figures-2024_v4.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/GHA/4.txt,9384,pdf,Measuring digital development
+5,https://statsbank.statsghana.gov.gh/censusatlas/ICT_ownership.html,fetched,,scripts/.workroot/study/mobilepenetration/cache/GHA/5.txt,60,html,GSS StatsBank
+6,https://nca.org.gh/wp-content/uploads/2023/10/NCA-RELEASES-REPORT-ON-HOUSEHOLD-SURVEY.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/GHA/6.txt,1160,pdf,
+7,https://www.afrobarometer.org/wp-content/uploads/2025/04/Ghana-summary-of-results-Afrobarometer-R10-22april25-rev-1nov25.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/GHA/7.txt,28524,pdf,

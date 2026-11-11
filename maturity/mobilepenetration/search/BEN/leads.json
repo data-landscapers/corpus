@@ -1,0 +1,5 @@
+[
+{"url": "https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-mobile-phone-ownership/", "title": "Mobile phone ownership statistics", "publisher": "International Telecommunication Union", "published": "2025-10", "sub_indicator": "ownership", "why": "ITU Facts and Figures 2025 on ownership among people aged 10+; may state a Benin figure"},
+{"url": "https://science-tech.statizoid.com/stat/share-population-mobile-phone/benin/", "title": "Share of the population that owns a mobile in Benin (2024)", "publisher": "Statizoid (ITU data via Our World in Data)", "published": "2025", "sub_indicator": "ownership", "why": "Reports ITU estimate for Benin 65.0% in 2024"},
+{"url": "https://instad.bj/images/docs/insae-publications/autres/Livret%20Genre/Livret_genre_Benin_2024.pdf", "title": "Les femmes et les hommes au Bénin, Livret genre 2024", "publisher": "INStaD", "published": "2024", "sub_indicator": "ownership", "why": "EHCVM 2021/22 phone ownership, aged 15+ (adults only, likely inadmissible)"}
+]

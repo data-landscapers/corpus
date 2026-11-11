@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/GIN/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-mobile-phone-ownership/,fetched,,scripts/.workroot/study/mobilepenetration/cache/GIN/2.txt,432,html,Statistics
+3,https://science-tech.statizoid.com/stat/share-population-mobile-phone/guinea/,fetched,,scripts/.workroot/study/mobilepenetration/cache/GIN/3.txt,584,html,Share population mobile phone in Guinea (2024) — Statizoid
+4,https://www.stat-guinee.org/index.php/publications-ins/rapports-d-enquetes,fetched,,scripts/.workroot/study/mobilepenetration/cache/GIN/4.txt,853,html,Rapports d'enquêtes

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "Tome 1 Rapport general du RGPH-5",
+ "publisher": "ANSADE",
+ "published": "2026-01",
+ "date_source": "proxy",
+ "why_not": "already-held: held as raw/2026/2026-01-01-mrt-rapport-general-du-rgph-5.md, not fetched"
+}

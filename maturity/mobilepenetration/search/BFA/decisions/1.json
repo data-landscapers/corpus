@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "Data from the International Telecommunication Union show that 63.9% of Burkina Faso's population owned a mobile phone in 2024.",
+ "title": "Burkina Faso to Extend Telecom Access to 1.5–2 Million People",
+ "publisher": "Ecofin Agency",
+ "published": "2026-07-14",
+ "date_source": "source",
+ "why_not": ""
+}

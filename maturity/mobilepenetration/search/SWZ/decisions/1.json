@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "Mobile phone ownership",
+ "publisher": "International Telecommunication Union",
+ "published": "2025-10-15",
+ "date_source": "proxy",
+ "why_not": "off-topic: global and regional figures only, no Eswatini figure in the fetched text"
+}

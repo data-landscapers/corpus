@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "",
+ "title": "Share of the population that owns a mobile phone",
+ "publisher": "Our World in Data",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: Eritrea is absent from the page text; it carries no Eritrea figure."
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "The ITU said 79.9% of Mozambique's population owned a mobile phone in 2024.",
+ "title": "Mozambique plans broader 4G, 5G and rural connectivity rollout under 300-locality plan",
+ "publisher": "Ecofin Agency",
+ "published": "2026-08-18",
+ "date_source": "source",
+ "why_not": ""
+}

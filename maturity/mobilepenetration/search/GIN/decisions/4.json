@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "",
+ "title": "Rapports d'enquêtes",
+ "publisher": "INS Guinée",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "headline-only-stub: index page listing EDS 2024-2025 report, no ownership figure"
+}

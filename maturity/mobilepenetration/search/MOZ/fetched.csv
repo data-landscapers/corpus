@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/MOZ/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://www.ecofinagency.com/news-digital/1808-58183-mozambique-plans-broader-4g-5g-and-rural-connectivity-rollout-under-300-locality-plan,fetched,,scripts/.workroot/study/mobilepenetration/cache/MOZ/2.txt,1139,html,"Mozambique plans broader 4G, 5G and rural connectivity rollout under 300-locality plan"
+3,https://www.ecofinagency.com/news-digital/2608-58352-mozambique-turns-telecom-fines-into-a-tool-for-digital-inclusion,fetched,,scripts/.workroot/study/mobilepenetration/cache/MOZ/3.txt,976,html,Mozambique Turns Telecom Fines Into a Tool for Digital Inclusion
+4,https://techgriot.co/english/africa/2026/08/mozambique-plans-to-connect-300-rural-localities-to-the-internet/,held,held as raw/2026/2026-08-26-techgriot-mozambique-300-rural-localities.md,,0,,
+5,https://observatorio.mocambique.app/fontes,fetched,,scripts/.workroot/study/mobilepenetration/cache/MOZ/5.txt,1948,html,Fontes e definições · Radar Digital Moçambique
+6,https://mozdata.ine.gov.mz/index.php/catalog/123/download/1033,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+7,https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_MOZ.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/MOZ/7.txt,700,pdf,

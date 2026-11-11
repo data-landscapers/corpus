@@ -1,0 +1,4 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/DJI/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://datahub.itu.int/data/?e=DJI,not-a-document,ITU DataHub chart widget,,0,,
+3,https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-mobile-phone-ownership/,fetched,,scripts/.workroot/study/mobilepenetration/cache/DJI/3.txt,432,html,Statistics

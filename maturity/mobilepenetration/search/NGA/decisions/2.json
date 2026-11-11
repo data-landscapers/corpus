@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "",
+ "title": "Nigeria Demographic and Health Survey 2024 - Final Report",
+ "publisher": "National Population Commission / ICF",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": "already-held: held as raw/2025/2025-09-01-nga-nigeria-demographic-and-health-survey-2024.md; also ages 15-49 only"
+}

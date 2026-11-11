@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "Tanzania in Figures 2024",
+ "publisher": "National Bureau of Statistics",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": "already-held: restates the 2022 census ownership figure (15+), and the held ITU series already gives 85.3 for 2024 aged 10+"
+}

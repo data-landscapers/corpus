@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-mobile-phone-ownership/,fetched,,scripts/.workroot/study/mobilepenetration/cache/SWZ/1.txt,432,html,Statistics
+2,https://datahub.itu.int/data/?e=SWZ&i=100028&s=5363&v=chart,not-a-document,ITU DataHub chart widget,,0,,
+3,https://esccom.org.sz/wp-content/uploads/2026/02/ICTAUS-Survey-2022-Report-Only.pdf,held,held as raw/2023/2023-11-01-swz-information-and-communication-technology-access-and-use-survey-report.md,,0,,
+4,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/SWZ/4.txt,618,html,Share of the population that owns a mobile phone
+5,https://esccom.org.sz/wp-content/uploads/2026/02/2024.pdf,held,held as raw/2024/2024-01-01-swz-esccom-annual-report-2024.md,,0,,

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "Share population mobile phone in Gambia (2024)",
+ "publisher": "Statizoid",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: auto-generated aggregator page repeating ITU/OWID figure (65.3% in 2024), undated, machine-written; conservative reject. Parent may note ITU estimate 65.3% for 2024 via this page"
+}

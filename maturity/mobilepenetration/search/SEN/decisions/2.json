@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "The share of the population aged 12 and over with a mobile phone is estimated at 66.4 per cent nationally (Dakar urban 79.8, rural 58.4) in the 2021/2022 survey.",
+ "title": "Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM II) au Sénégal : RAPPORT FINAL",
+ "publisher": "Agence Nationale de la Statistique et de la Démographie (ANSD)",
+ "published": "2024-07",
+ "date_source": "source",
+ "why_not": ""
+}

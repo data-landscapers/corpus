@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://opendata.gia.gov.ly/dashboard/dataset/communicatio,fetched,,scripts/.workroot/study/mobilepenetration/cache/LBY/1.txt,83,html,نسبة الأفراد ذكور - اناث الذين يمتلكون هاتف محمول للسنوات 2019 - 2025 - منصة البيانات المفتوحة
+2,https://opendata.gia.gov.ly/dashboard/dataset/g66,fetched,,scripts/.workroot/study/mobilepenetration/cache/LBY/2.txt,92,html,مؤشرات استخدام الاتصالات والإنترنت 2024 - منصة البيانات المفتوحة
+3,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/LBY/3.txt,618,html,Share of the population that owns a mobile phone
+4,https://mics.unicef.org/sites/mics/files/2026-07/Libya%202024-25%20MICS%20SFR%20AR.pdf,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+5,https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-mobile-phone-ownership/,fetched,,scripts/.workroot/study/mobilepenetration/cache/LBY/5.txt,433,html,Facts and figures 2024 - Mobile phone ownership

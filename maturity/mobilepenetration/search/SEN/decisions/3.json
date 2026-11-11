@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "ownership",
+ "aspect": "",
+ "fact": "",
+ "title": "Enquête Démographique et de Santé Continue (EDS-Continue) 2023",
+ "publisher": "ANSD / ICF",
+ "published": "2025-10",
+ "date_source": "source",
+ "why_not": "off-topic: phone ownership is stated for ages 15-49 only (adults-only figure, never used)."
+}

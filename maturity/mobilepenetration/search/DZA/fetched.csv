@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone,fetched,,scripts/.workroot/study/mobilepenetration/cache/DZA/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://www.itu.int/itu-d/reports/statistics/2025/11/17/gcr-2025-chapter-2/,fetched,,scripts/.workroot/study/mobilepenetration/cache/DZA/2.txt,1089,html,Statistics
+3,https://ijeponline.lingcure.org/index.php/journal/article/download/826/795/980,fetched,,scripts/.workroot/study/mobilepenetration/cache/DZA/3.txt,5176,pdf,Scopus
+4,https://science-tech.statizoid.com/stat/share-population-mobile-phone/algeria/,fetched,,scripts/.workroot/study/mobilepenetration/cache/DZA/4.txt,588,html,Share population mobile phone in Algeria (2024) — Statizoid

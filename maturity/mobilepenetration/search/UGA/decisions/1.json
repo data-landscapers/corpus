@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "ownership",
+ "aspect": "owners",
+ "fact": "In May 2024, 43 percent (43.3%) of individuals aged 10 years and above in Uganda owned a mobile phone, about 13.6 million people.",
+ "title": "National Population and Housing Census 2024 - Main Report",
+ "publisher": "Uganda Bureau of Statistics",
+ "published": "2024-10",
+ "date_source": "source",
+ "why_not": ""
+}

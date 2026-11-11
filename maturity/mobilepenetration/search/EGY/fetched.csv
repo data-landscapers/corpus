@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_EGY.pdf,held,held as raw/2024/2024-01-01-egy-digital-development-dashboard-egypt.md,,0,,
+2,https://unstats.un.org/sdgs/dataportal/countryprofiles/egy?goal=5,fetched,,scripts/.workroot/study/mobilepenetration/cache/EGY/2.txt,9,html,UNSDG
+3,https://censusinfo.capmas.gov.eg/metadata-en-v4.2/index.php/catalog/793,fetched,,scripts/.workroot/study/mobilepenetration/cache/EGY/3.txt,95,html,Arab Republic of Egypt - Informatics bulletin monthly October 2024
+4,https://datahub.itu.int/data/?e=EGY&i=11925,not-a-document,ITU DataHub chart widget,,0,,

@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/GNQ/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://inege.org/wp-content/uploads/2024/12/Informe-Definitivo-de-la-ENH2.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/GNQ/2.txt,42740,pdf,
+3,https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-mobile-phone-ownership/,fetched,,scripts/.workroot/study/mobilepenetration/cache/GNQ/3.txt,432,html,Statistics
+4,https://inege.org/wp-content/uploads/2025/01/Guinea_Ecuatorial_en_Cifras_2024_20112024.pdf,fetched,,scripts/.workroot/study/mobilepenetration/cache/GNQ/4.txt,8017,pdf,

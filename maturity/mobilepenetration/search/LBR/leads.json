@@ -1,0 +1,5 @@
+[
+{"url": "https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar", "title": "Share of the population that owns a mobile phone, 2024", "publisher": "Our World in Data (ITU data)", "published": "2026-07-31", "sub_indicator": "ownership", "why": "ITU estimate of individuals owning a mobile phone, Liberia 2024 (55%)"},
+{"url": "https://lisgis.gov.lr/censusreport/thematic/ThematicReportonChildrenAdolescentYouth.pdf", "title": "Children, adolescents and youth, 2022 Liberia Population and Housing Census", "publisher": "LISGIS", "published": "2024-06", "sub_indicator": "ownership", "why": "Census household phone ownership by age 13+; pre-2024 data, youth only"},
+{"url": "https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-SDDT_AFR-2025-PDF-E.pdf", "title": "Measuring digital development: Facts and figures, Africa 2025", "publisher": "ITU", "published": "2025", "sub_indicator": "ownership", "why": "Individuals 10+ owning a mobile phone, Liberia latest year"}
+]

@@ -1,0 +1,5 @@
+[
+{"url": "https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar", "title": "Share of the population that owns a mobile phone, 2024", "publisher": "Our World in Data (ITU data)", "published": "2026-07-31", "sub_indicator": "ownership", "why": "ITU estimate of individuals owning a mobile phone, 2024; Guinea-Bissau 63%"},
+{"url": "https://science-tech.statizoid.com/stat/share-population-mobile-phone/guinea-bissau/", "title": "Share of the population that owns in Guinea-Bissau (2024)", "publisher": "Statizoid (ITU via OWID)", "published": "", "sub_indicator": "ownership", "why": "Guinea-Bissau 61.9% in 2024, derived from ITU"},
+{"url": "https://www.unicef.org/guineabissau/media/1416/file/Desdobr%C3%A1veis%20estat%C3%ADsticos%20dos%20principais%20resultados.pdf", "title": "Inquerito aos Indicadores Multiplos MICS6 2018-2019 desdobraveis", "publisher": "INE / UNICEF Guine-Bissau", "published": "2020", "sub_indicator": "ownership", "why": "National survey on household and 15-49 phone use, 2018-19 (pre-2024, adults only)"}
+]

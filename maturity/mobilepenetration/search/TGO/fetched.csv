@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/share-population-mobile-phone?tab=discrete-bar,fetched,,scripts/.workroot/study/mobilepenetration/cache/TGO/1.txt,618,html,Share of the population that owns a mobile phone
+2,https://datahub.itu.int/data/?e=TGO&i=100039,not-a-document,ITU DataHub chart widget,,0,,
+3,https://www.itu.int/en/ITU-D/Statistics/Pages/SDGs-ITU-ICT-indicators.aspx,fetched,,scripts/.workroot/study/mobilepenetration/cache/TGO/3.txt,2228,html,The ITU ICT SDG indicators
+4,https://microdata.worldbank.org/catalog/7986,fetched,,scripts/.workroot/study/mobilepenetration/cache/TGO/4.txt,1656,html,The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy
+5,https://www.afrobarometer.org/wp-content/uploads/2024/03/AD790-Mobile-money-une-alternative-pour-linclusion-financiere-au-Togo-Afrobarometer-25march24.pdf,held,held as raw/2024/2024-03-26-tgo-afrobarometer-ad790-mobile-money.md,,0,,
+6,https://inseed.tg/download/7009/?tmstv=1774710839,unfetchable,ConnectionError; no usable Wayback capture,,0,,
