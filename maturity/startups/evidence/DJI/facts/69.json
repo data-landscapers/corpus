@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-dji-djibouti-global-hub",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "UNESCO says the Djibouti Startup Act provides a legal framework favourable to innovative entrepreneurship.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Djibouti Startup Act",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Djibouti Startup Act",
+   "country_label": "Djibouti Startup Act",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Government of Djibouti",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states nothing on this for Djibouti."
+}
