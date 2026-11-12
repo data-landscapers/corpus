@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: GHA
-ledger_rows: 65
+ledger_rows: 68
 not_held: 9
-record: 2f89e94961a5
+record: 2068a68e297c
 ---
 
 # News, Oct – Nov 2026
@@ -844,6 +844,34 @@ The Bank of Ghana said on 5 November 2026 that it and the Monetary Authority of 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Lands Commission online services portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lands Commission outlines four steps for conducting online land searches](https://www.citinewsroom.com/2026/10/lands-commission-outlines-four-steps-for-conducting-online-land-searches/)** — Citi Newsroom, 14 October 2026
+
+Site-plan upload, mobile-money fee, emailed report; service live in 10 of 16 regions, Ashanti added October 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strategic Land Administration Reform Project (SLARP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lands Commission's Digital Reform: gamechanger for Land Administration in Ghana](https://gna.org.gh/2026/10/lands-commissions-digital-reform-gamechanger-for-land-administration-in-ghana/)** — Ghana News Agency, 28 October 2026
+
+GH¢1.8bn reform to 2030; searches cut to seven working days; 51 CORS stations; nationwide ELIS by end-2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">National household registry</p>
 
 <div class="bulletin-item" markdown="1">
@@ -925,6 +953,20 @@ A World Bank notice records that the contract for Ghana's eGovernment digital se
 **[Travelling to Ghana? New mandatory health declaration rule takes effect next week](https://www.graphic.com.gh/news/general-news/travelling-to-ghana-new-mandatory-health-declaration-rule-takes-effect-next-week.html)** — Graphic Online, 7 November 2026
 
 Ghana will require every arriving traveller to file an online Mandatory Health Declaration Form from 12 November 2026, Graphic Online reported on 7 November. Travellers must complete it on the Ghana Health Service portal before embarking, for public-health surveillance. The announcement says nothing on how the data are kept, shared or protected.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Petroleum Commission digital permit application platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana Petroleum Commission introduces Digital Permit Platform to improve oil sector operations](https://www.myjoyonline.com/ghana-petroleum-commission-introduces-digital-permit-platform-to-improve-oil-sector-operations/)** — MyJoyOnline, 11 November 2026
+
+Ghana's Petroleum Commission introduced a Digital Permit Application Platform to replace paper permit applications in the upstream petroleum sector. Chief executive Emeafa Hardcastle announced it at the Commission's 2026 Local Content Conference in Takoradi (MyJoyOnline, 11 November 2026).
 
 </div>
 
