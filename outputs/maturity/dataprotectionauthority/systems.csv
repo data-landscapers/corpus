@@ -52,6 +52,7 @@ BEN,APDP,Benin,authority,,,,2024-08-04-ben-benin-l-apdp-passe-en-revue-47-dossie
 BEN,APDP,Benin,authority,,,,2024-05-07-ben-prestation-de-serment-des-conseillers-de-l-apdp
 BEN,Autorite de Protection des Donnees a caractere personnel (APDP),Benin,authority,,,,2026-07-01-ben-decret-2026-422-nomination-membres-apdp
 BEN,APDP,Benin,authority,,,,2026-11-09-ben-les-nouveaux-membres-de-l-apdp-pretent-serment
+BEN,APDP,Benin,authority,,State,,2026-11-11-ben-protection-des-donnees-personnelles-l-apdp-met-en-garde-les-createurs-de-conte
 BFA,ARCOD,Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel),authority,,,national,2026-08-04-burkina-faso-arcod-created-by-merger-of-csc-and-cil
 BFA,CIL,Commission de l'informatique et des libertes,authority,,,national,2026-08-04-burkina-faso-arcod-created-by-merger-of-csc-and-cil
 BFA,ARCOD,Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel),authority,,,national,2026-08-03-burkina-alp-adopte-loi-protection-donnees-surete-aerienne
@@ -167,6 +168,7 @@ EGY,مركز حماية البيانات الشخصية (Personal Data Protectio
 EGY,مركز حماية البيانات الشخصية (Personal Data Protection Centre),مركز حماية البيانات الشخصية,authority,,Ministry of Communications and Information Technology,,2026-08-07-egypt-social-solidarity-personal-data-protection-workshop
 EGY,مركز حماية البيانات الشخصية (Personal Data Protection Centre),مركز حماية البيانات الشخصية,authority,,Ministry of Communications and Information Technology,,2026-08-07-wizarat-al-tadamun-warshat-amal-qanun-himayat-al-bayanat-al-shakhsiya
 EGY,Personal Data Protection Centre,Egypt,authority,,Minister of Communications and Information Technology,,2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a
+EGY,Personal Data Protection Centre,Egypt,authority,,Government of Egypt,,2026-11-11-egy-prosecution-launches-personal-data-protection-training
 ETH,Personal Data Protection Proclamation,Personal Data Protection Proclamation,other,,Federal Democratic Republic of Ethiopia,,2025-11-15-ethiopia-data-protection-law-slow-enforcement
 ETH,Ethiopian Communications Authority,Ethiopian Communications Authority (ECA),authority,,Federal Government of Ethiopia,,2025-11-15-ethiopia-data-protection-law-slow-enforcement
 ETH,ECA data controller and processor registration portal,digital registration portal,authority,,Ethiopian Communications Authority,,2025-11-15-ethiopia-data-protection-law-slow-enforcement
@@ -178,6 +180,7 @@ GAB,Loi relative à la protection des données à caractère personnel,loi sur l
 GAB,Autorite pour la protection des donnees a caractere personnel et de la vie privee (APDPVP),Gabon,authority,,,,2026-10-29-gab-gabon-connect-le-ministere-de-leconomie-sollicite-lexpertise-de-lapdpv
 GAB,APDPVP,APDPVP,authority,,,,2026-09-25-cmr-laws-before-regulators-data-protection-in-central-africa-and-cameroon
 GAB,APDPVP,Gabon,authority,,,,2026-11-03-gab-loi-sur-les-reseaux-sociaux-lapdpvp-apporte-son-expertise
+GAB,APDPVP,Gabon,authority,,,,2026-11-10-gabon-port-gentil-lapdpvp-lance-une-campagne-de-sensibilisation-a-la-p
 GHA,Data Protection Commission,Data Protection Commission (DPC),authority,,"Data Protection Commission, Ghana",national,2026-10-04-gha-gna-dpc-spot-checks-enforcement-act-843
 GHA,Data Protection Commission,Data Protection Commission (DPC),authority,,"Data Protection Commission, Ghana",national head office; regional offices planned in five regions by end 2026,2026-08-21-ghana-news-data-protection-commission-acquires-vehicles-boost
 GHA,Data Protection Commission,Data Protection Commission - Ghana,authority,,"Data Protection Commission, Ghana",,2026-02-27-minister-data-protection-foundation-techreview
@@ -246,6 +249,7 @@ KEN,ODPC,Kenya,authority,,,,2026-10-29-kenyas-data-protection-commissioner-engag
 KEN,ODPC,Kenya,authority,,,,2025-01-27-ken-pre-conference-breakfast-meeting-with-journalists-in-eldoret-ahead-of
 KEN,Office of the Data Protection Commissioner,Kenya,authority,,,,2024-11-01-ken-odpc-e-bulletin-8th-edition-data-bulletin-week-45-46
 KEN,ODPC,Kenya,authority,,,,2026-11-10-kenya-nominates-lydia-sitienei-second-data-commissioner
+KEN,Office of the Data Protection Commissioner (ODPC),Kenya,authority,,,,2026-11-10-ken-kassait-making-data-protection-a-national-conversation-was-my-key-achi
 LBR,"Constitution of Liberia, Article 16",Constitution Article 16,other,,Republic of Liberia,national,2025-02-27 Liberia struggles to enforce privacy and data protection laws
 LBR,Policy to implement the ECOWAS Data Protection Act,,other,,Ministry of Posts and Telecommunications with the LTA,national; being drafted,2025-02-27 Liberia struggles to enforce privacy and data protection laws
 LBR,Independent Information Commissioner,Independent Information Commissioner,authority,,"Government of Liberia, created by the Freedom of Information Act of 2010",national; designated supervisory authority under the Act,2026-03-23-liberia-data-protection-act-printed-act-mopt
@@ -360,6 +364,7 @@ MUS,Data Protection Office,Mauritius,authority,,,,2026-06-23-mus-communique-data
 MUS,Data Protection Office,Mauritius,authority,,,,2026-01-16-mus-des-prochains-amendements-au-data-protection-act-2017
 MUS,Data Protection Commissioner,"Data Protection Office, Mauritius",authority,,,,2026-10-29-mus-financial-sector-urged-to-strengthen-data-protection-and-cybersecurity
 MUS,Data Protection Office,Mauritius,other,e-DPO,Data Protection Office,,2024-01-01-mus-data-protection-commissioner-interview-bdo-newsletter-2024
+MUS,Data Protection Office,Mauritius,authority,,,,2025-11-01-mus-decisions-on-complaints-by-year
 MWI,"Data Protection Act, 2024","Data Protection Act, 2024",other,,,national,2026-07-16-macra-data-protection-registration-compliance-malawi24
 MWI,Data Protection Authority,Data Protection Authority,authority,,Malawi Communications Regulatory Authority (MACRA),national,2026-07-16-macra-data-protection-registration-compliance-malawi24
 MWI,Data Protection Authority,Data Protection Authority (DPA),authority,,Malawi Communications Regulatory Authority (MACRA),national,2026-07-15-macra-consults-stakeholders-on-proposed-data-protection-registration-fees

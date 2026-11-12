@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-ben-protection-des-donnees-personnelles-l-apdp-met-en-garde-les-createurs-de-conte",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Benin's Personal Data Protection Authority (APDP), headed by its president Dr Luciano Sewenan Hounkponou, issued a communique on 11 November 2026 reminding content creators of consent rules under the Code du numerique.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APDP",
+   "country_label": "Benin",
+   "class": "authority",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

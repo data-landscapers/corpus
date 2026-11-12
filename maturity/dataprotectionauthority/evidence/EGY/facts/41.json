@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-egy-prosecution-launches-personal-data-protection-training",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Youm7 reports that the Personal Data Protection Centre, led by an acting chief executive, Suzan El-Okbawy, sent 22 members to a Public Prosecution training course on 8-12 November 2026.",
+   "as_of": "2026-11-08",
+   "date_precision": "day",
+   "system": "Personal Data Protection Centre",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Centre",
+   "country_label": "Egypt",
+   "class": "authority",
+   "platform": "",
+   "owner": "Government of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
