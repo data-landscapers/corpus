@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-24-ben-souverainete-tech-comment-la-sbin-s-est-fait-evincer-d-un-contrat-cle",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "La Marina BJ says the ASIN-managed state data centre hosts ministries' application architectures, the PNI and the PNS.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "State data centre (ASIN)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "La Marina BJ describes the state data centre as managed by the state agency ASIN.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "State data centre (ASIN)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "State data centre (ASIN)",
+   "country_label": "BEN",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "national",
-   "stage": "2",
-   "centre": "service",
-   "owner": "national",
-   "state": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-025",
-   "gaps": "No source found says a nationally owned data centre for hire is Tier III or above.",
-   "note": "Counted from the four questions by study-ladder-nationaldatacentres.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "2",
+      "centre": "service",
+      "owner": "national",
+      "state": "hosted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-025;CIV-043",
+      "gaps": "No source found says a nationally owned data centre for hire is Tier III or above; the state's Tier III centre that hosts health records is not said to rent space to others.",
+      "note": "Stage 4c 2026-11-12: SNDI's state data centre hosts the administration (CIV-045) and health records sit in the state's Tier III datacenter (CIV-046, CIV-048), but that centre is not said to rent space to others, so it stays at 2.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

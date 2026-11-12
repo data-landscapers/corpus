@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-26-dza-jeune-independant-cerist-cloud-computing-souverainete",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The Cerist national cloud platform, offering hosting and processing to public institutions, companies and researchers, was inaugurated on 25 March 2025 in a data centre at Ben Aknoun.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Cerist national cloud computing platform",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The platform is hosted by Cerist, the state research centre under the higher education ministry, and its software is open source and wholly designed in Algeria.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Cerist national cloud computing platform",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-15-gab-le-gabon-reprend-la-main-sur-sa-souverainete-financiere-et-numerique",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "Gabon Info reports the state's SIGFIP public finance system, with the budget data of revenue, spending and debt, is run from the Treasury data centre in Gabon under state control.",
+   "as_of": "2026-01-15",
+   "date_precision": "day",
+   "system": "Treasury data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Treasury data centre",
+   "country_label": "Gabon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

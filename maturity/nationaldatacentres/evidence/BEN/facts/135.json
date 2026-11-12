@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-24-ben-afterwork-celtiis-business-celtiis-business-celebre-2-ans-de-croissanc",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Celtiis Cloud",
+   "country_label": "Benin",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Societe beninoise d'infrastructure numerique (SBIN)",
+   "tiers": ""
+  }
+ ],
+ "note": "The document does not state who owns SBIN or the Calavi data centre, nor that state data is hosted there."
+}

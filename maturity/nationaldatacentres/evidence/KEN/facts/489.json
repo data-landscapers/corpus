@@ -1,0 +1,46 @@
+{
+ "slug": "2025-07-08-ken-konza-cloud-partners",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The Konza Technopolis Development Authority, a state agency under the Ministry of Information, Communications and the Digital Economy, says it is operationalising a National Data Center offering services to government and private enterprises, in a call for partners opened 8 July 2025.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "Konza Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The Konza Data Center is run by the Konza Technopolis Development Authority, a Kenyan state agency, per its own call for partners of 8 July 2025.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "Konza Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The Authority describes the Konza National Data Center as Tier III certified, in its call for partners opened 8 July 2025.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "Konza Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Konza Data Center",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Konza Technopolis Development Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

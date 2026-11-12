@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-01-bwa-bofinet-s-digital-delta-data-centre-achieves-tier-iii-certification-fr",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Botswana",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Botswana Fibre Networks (BoFiNet)",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "The document does not state who owns BoFiNet or that state data is hosted there."
+}

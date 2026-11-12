@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-28-tgo-togo-la-sin-et-st-digital-sallient-pour-une-offre-de-services-de-cloud",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Togo First reports that SIN operates the Lomé Data Centre, certified Tier III by the Uptime Institute, where firms rent half-racks or racks.",
+   "as_of": "2026-05-26",
+   "date_precision": "day",
+   "system": "Lomé Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lomé Data Centre",
+   "country_label": "Togo",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Société d'Infrastructures Numériques (SIN)",
+   "tiers": "Tier III (Uptime Institute)"
+  }
+ ],
+ "note": "The document does not say who owns SIN, so no owner value; no state hosting stated."
+}

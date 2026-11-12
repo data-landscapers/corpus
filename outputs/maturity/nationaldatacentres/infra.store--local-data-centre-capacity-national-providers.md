@@ -20,10 +20,10 @@ The African Union's Data Policy Framework (2022), §5.3.1, asks that national pr
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 1 |
-| 3 Established | 21 |
-| 2 Nascent | 14 |
+| 5 Leading | 9 |
+| 4 Operating | 0 |
+| 3 Established | 23 |
+| 2 Nascent | 12 |
 | 1 Absent | 0 |
 | Unplaced | 7 |
 | No evidence | 3 |
@@ -78,6 +78,14 @@ Two nationally owned data centres for hire at Tier III or above by 2026, and the
 - The article states 21st Century Technologies' Lagos data centre is Tier IV certified and holds a Capitoline Certificate of Conformance for Constructed Facilities; it names no Uptime Institute certificate. Date is the article date ([source, 2024-05-08](https://techeconomy.ng/shaping-the-future-of-data-infrastructure-21st-century-technologies-tier-iv-data-centre)).
 - The article says the Galaxy Backbone data centre in the National Shared Services Centre, Abuja, commissioned on 20 December 2022, serves government as well as corporate customers ([source, 2022-12-20](https://www.thecable.ng/a-data-center-to-drive-the-digital-economy/)).
 
+### Senegal: 5 Leading
+
+Two Tier III data centres, one of them the state's, are in service, and state agencies have moved their data to it since 2023.
+
+- ADIE states that the Diamniadio national Datacenter, inaugurated 22 June 2021 and in service, is the state's first Tier 3 data centre (operator's own statement, no certifier named) ([source, 2021-06-22](https://www.adie.sn/actualites/le-datacenter-de-diamniadio-lieu-d%E2%80%99impulsion-de-la-transformation-digitale-du-s%C3%A9n%C3%A9gal)).
+- Sonatel reports its Rufisque (Senegal) Datacenter holds Uptime Institute Tier III Design certification and obtained Tier Certification of Constructed Facility (TCCF) in December 2019, renewed in 2020 until 4 December 2021; the passage does not say whether it sells space to outside customers ([source, 2019-12](https://sonatel.sn/wp-content/uploads/2022/09/Sonatel-Groups-2020-annual-report.pdf)).
+- MFWA says state agencies have been transferring their data to the national Diamniadio data centre since November 2023, the health ministry reportedly over 80% by January 2024 ([source, 2024-01](https://mfwa.org/impact-stories/senegal-state-agencies-comply-with-policy-on-public-data-management-after-mfwa-fellows-report/)).
+
 ### South Africa: 5 Leading
 
 Two nationally owned data centres for hire at Tier III or above by 2026, and the state's own data hosted with a national provider.
@@ -93,13 +101,6 @@ Two nationally owned data centres for hire are Tier III or above by 2025, and th
 - Orange Tunisie describes its Kalaa Kebira data centre as Tier III (operator statement, no certification named) ([source, 2025-05-06](https://www.datacenterdynamics.com/en/news/orange-launches-data-center-outside-sousse-tunisia/)).
 - DataXion states it is the only Tunisian data centre certified Tier IV by the Uptime Institute (operator claim, undated beyond the page date 2024-05-31) ([source, 2024-05-31](https://dataxion.com/en/our-certifications/)).
 - The CNI, a state body, hosts national and sectoral platforms on its own data centres, including the national vaccination platform and social aid systems during Covid-19, per its own communique ([source, 2026-01](https://www.thd.tn/tunisie-le-centre-national-de-linformatique-celebre-50-ans-au-coeur-de-la-transformation-numerique-de-letat/)).
-
-### Senegal: 4 Operating
-
-Two nationally owned data centres for hire at Tier III or above by 2021; state hosting with them not known.
-
-- ADIE states that the Diamniadio national Datacenter, inaugurated 22 June 2021 and in service, is the state's first Tier 3 data centre (operator's own statement, no certifier named) ([source, 2021-06-22](https://www.adie.sn/actualites/le-datacenter-de-diamniadio-lieu-d%E2%80%99impulsion-de-la-transformation-digitale-du-s%C3%A9n%C3%A9gal)).
-- Sonatel reports its Rufisque (Senegal) Datacenter holds Uptime Institute Tier III Design certification and obtained Tier Certification of Constructed Facility (TCCF) in December 2019, renewed in 2020 until 4 December 2021; the passage does not say whether it sells space to outside customers ([source, 2019-12](https://sonatel.sn/wp-content/uploads/2022/09/Sonatel-Groups-2020-annual-report.pdf)).
 
 ### Algeria: 3 Established
 
@@ -122,7 +123,7 @@ A nationally owned data centre for hire at Tier III or above by 2025; no second 
 
 ### Burkina Faso: 3 Established
 
-A nationally owned data centre for hire at Tier III or above by 2025; no second one held.
+A Burkinabè data centre is called Tier III and state identity data is hosted nationally (2026); a second Tier III is not known.
 
 - BTW Media describes VTS's Virtix data centre in Ouagadougou, in service and offering colocation, as Tier III, with no certifying body named (an operator-profile claim); no date given, so as_of is the article's published date ([source, 2025-07-15](https://btw.media/it-infrastructure/virtual-technologies-solutions-burkina-faso-connectivity-provider/)).
 
@@ -157,6 +158,13 @@ A nationally owned data centre for hire at Tier III or above by 2023; no second 
 A nationally owned data centre for hire at Tier III or above by 2021; no second one held.
 
 - Ethio Telecom says its Gola Sefer data center, launched May 2021, is Tier 3 (operator statement, no certification body named) ([source, 2021-05](https://furtherafrica.com/2022/05/24/ethio-telecom-to-lease-data-center-to-5-private-institutions/)).
+
+### Ghana: 3 Established
+
+The state IT agency runs a certified Tier III data centre for public and private clients (2024); a second national one is not known.
+
+- NITA has a certified Tier 3 data centre offering IT services to all public institutions and to private businesses, managed by its private partner Smart Infraco ([source, 2024-08-31](https://techfocus24.com/nita-gets-three-iso-certifications-at-a-go/)).
+- The data centre is NITA's, Ghana's national IT agency, which runs it with its partner Smart Infraco ([source, 2024-08-31](https://techfocus24.com/nita-gets-three-iso-certifications-at-a-go/)).
 
 ### Guinea: 3 Established
 
@@ -212,6 +220,13 @@ A nationally owned data centre for hire at Tier III or above by 2024; no second 
 
 - Sudatel itself states, on its operator page and with no certification body named, that the Sudatel Data Center (SDC) is a Tier IV data centre with 99.995% availability; the page has no event date, so the 2024-01-01 published date is used ([source, 2024](https://sudani.sd/en/sdc/)).
 
+### Tanzania: 3 Established
+
+TTCL's state data centre for hire reached Tier III by its own account in 2026; a second national one at Tier III is not known.
+
+- TTCL's ICT specialist says the TTCL Data Centre has reached the Tier III standard, per Taifa Tanzania ([source, 2026-08-03](https://taifatanzania.co.tz/2026/08/03/ttcl-uhifadhi-wa-taarifa-ndani-ya-nchi-uimarisha-usalama-kidigitali/)).
+- TTCL's National Internet Data Centre (NIDC) offers cloud computing, virtual server and colocation services to businesses and public institutions, as briefed to Zanzibar's president at the Kizimkazi Festival 2026; the document gives no opening date, so as_of is its publication date, 2026-08-24 ([source, 2026-08-24](https://techafricanews.com/2026/08/24/tanzania-president-mwinyi-reviews-ttcl-digital-connectivity-zanzibar/)).
+
 ### Togo: 3 Established
 
 A nationally owned data centre for hire at Tier III or above by 2026; no second one held.
@@ -232,7 +247,7 @@ A nationally owned data centre for hire at Tier III or above by 2026; no second 
 
 ### Benin: 2 Nascent
 
-A nationally owned data centre for hire in service by 2026, none found at Tier III or above.
+A state-run data centre for hire is in service and the state centre hosts ministries' systems (2026); none is known at Tier III.
 
 - An ASIN official says Benin has several data centres, including one operated commercially by the Société béninoise des infrastructures numériques (SBIN); the article gives no opening date and is dated 2026-04-14 ([source, 2026-04](https://cio-mag.com/souverainete-et-cloud-le-benin-face-aux-enjeux-de-lhebergement-des-donnees/)).
 
@@ -250,9 +265,10 @@ A nationally owned data centre for hire in service by 2026, none found at Tier I
 
 ### Cote d'Ivoire: 2 Nascent
 
-A nationally owned data centre for hire in service by 2016, none found at Tier III or above.
+State-owned data centres for hire are in service and host the administration's data in 2026; none for hire is known to reach Tier III.
 
 - The VITIB free zone at Grand-Bassam (operational) has a data centre to international standards that lets companies worldwide host IT equipment and data (1,050 kVA generator, 3 fibre links); the sheet gives no opening date, so the date is its February 2016 publication ([source, 2016-02](https://observatoire-europe-afrique-2030.org/wp-content/uploads/2016/02/ZF-VITIB-Cote_Ivoire.pdf)).
+- Digital Mag reports the state SNDI data centre offers shared services to private companies, and the VITIB public data centre offers colocation space to public entities and approved companies ([source, 2026-07-16](https://digitalmag.ci/stockage-de-donnees-les-10-datacenters-en-cote-divoire-pour-un-debut-de-souverainete-numerique/)).
 
 ### Equatorial Guinea: 2 Nascent
 
@@ -265,12 +281,6 @@ A nationally owned data centre for hire in service by 2025, none found at Tier I
 A nationally owned data centre for hire in service by 2026, none found at Tier III or above.
 
 - Eritel Telecom Corporation's own service page offers paid Eritel Nextcloud private-cloud subscriptions (Silver, Gold and Platinum tiers, 100 to 500 GB, with monthly charges in nakfa and a 90% uptime SLA) that it says are completely hosted in Eritel's Datacenters, so an operator data centre in Eritrea is selling hosting to outside customers; the page names no individual facility and gives no date, so as_of is the page's published date 2026-08-31 ([source, 2026-08-31](https://eritel.com.er/contents.php?id=1046)).
-
-### Ghana: 2 Nascent
-
-A nationally owned data centre for hire in service by 2016, none found at Tier III or above.
-
-- DatacenterDynamics reports that Ghana's National Data Centre, a three-hall facility with a primary site in Accra (600 racks) and a replica at KNUST Kumasi, built by NITA with Alcatel and Huawei Technologies Ghana, was opened in the week of publication and provides colocation space for private enterprise as well as government hosting ([source, 2016-01](https://www.datacenterdynamics.com/en/news/ghana-government-opens-data-center-to-private-business/)).
 
 ### Liberia: 2 Nascent
 
@@ -302,12 +312,6 @@ A nationally owned data centre for hire in service by 2026, none found at Tier I
 
 - Trinity Technologies Limited operates a Tier 2 datacentre in Hai Malakal, Juba, offering colocation and hosting to business customers; the page is undated, so the 2026-08-29 publication date is used ([source, 2026-08-29](https://trinitytechnologies.tech/about.html)).
 
-### Tanzania: 2 Nascent
-
-A nationally owned data centre for hire in service by 2026, none found at Tier III or above.
-
-- TTCL's National Internet Data Centre (NIDC) offers cloud computing, virtual server and colocation services to businesses and public institutions, as briefed to Zanzibar's president at the Kizimkazi Festival 2026; the document gives no opening date, so as_of is its publication date, 2026-08-24 ([source, 2026-08-24](https://techafricanews.com/2026/08/24/tanzania-president-mwinyi-reviews-ttcl-digital-connectivity-zanzibar/)).
-
 ### Uganda: 2 Nascent
 
 A nationally owned data centre for hire in service by 2024, none found at Tier III or above.
@@ -322,13 +326,13 @@ Not established: No source found says a data centre for hire in the country is n
 
 ### DR Congo: Unplaced
 
-Nothing found says a data centre for hire in the country is nationally owned, so no stage is set.
+The finance ministry hosts its systems in its own data centre (2026); no national data centre for hire is known, so no stage is set.
 
 Not established: No source found says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
 
 ### Gabon: Unplaced
 
-Nothing found says a data centre for hire in the country is nationally owned, so no stage is set.
+The state hosts its systems at home (2025, 2026), but no nationally owned data centre for hire is known, so no stage is set.
 
 Not established: No source found says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
 

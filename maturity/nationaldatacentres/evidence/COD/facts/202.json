@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-15-cod-rdc-un-centre-de-donnees-du-ministere-de-finances-cree-a-kinshasa-et-l",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "DeskEco reports Finance Minister Doudou Fwamba said the ministry's data centre, with redundancy sites in Kinshasa and Lubumbashi, already hosts digital projects including the normalised invoice system, whose servers are housed there.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Finance Ministry data centre (Kinshasa, Lubumbashi)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Finance Ministry data centre (Kinshasa, Lubumbashi)",
+   "country_label": "DR Congo",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "No statement that it rents to others, so no centre fact."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-21-egy-egypt-to-establish-three-state-owned-data-centres-to-advance-digital-t",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "Egypt's cabinet spokesperson said three fully government-owned data centres built to host government applications and data across ministries are fully operational.",
+   "as_of": "2025-10-20",
+   "date_precision": "day",
+   "system": "three government-owned data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "three government-owned data centres",
+   "country_label": "Egypt",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

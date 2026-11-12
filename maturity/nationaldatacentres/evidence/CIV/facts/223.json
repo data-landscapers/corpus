@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-02-civ-forum-club-sante-2026-la-disd-fixe-le-cap-de-l-intelligence-artificiel",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The DISD states that the Dossier Patient Informatise records of over 2 million patients in more than 541 health facilities are hosted exclusively in the State's National Datacenter Tier III.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Datacenter National Tier III de l'Etat",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The DISD calls the facility hosting the health records the State's National Datacenter Tier III, a state-owned data centre; renting to other organisations is not stated.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Datacenter National Tier III de l'Etat",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The DISD describes the State's National Datacenter as Tier III, without saying it rents to others.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Datacenter National Tier III de l'Etat",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Datacenter National Tier III de l'Etat",
+   "country_label": "National Datacenter Tier III",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "State",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

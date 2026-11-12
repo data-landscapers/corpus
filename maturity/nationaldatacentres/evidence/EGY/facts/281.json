@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-28-egy-elwatannews-p1-data-centre-30-global-companies",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "El Watan reported on 28 April 2024 that the centre's director said the state's main data centre, opened that day, hosts a closed government cloud for 114 government bodies and a public cloud hosting ministries' digital services and databases.",
+   "as_of": "2024-04-28",
+   "date_precision": "day",
+   "system": "State main data centre (G-Cloud and B-Cloud)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "State main data centre (G-Cloud and B-Cloud)",
+   "country_label": "Egypt",
+   "class": "datacentre",
+   "platform": "government cloud and public cloud",
+   "owner": "Government of Egypt, MCIT",
+   "tiers": "114 government bodies"
+  }
+ ],
+ "note": ""
+}

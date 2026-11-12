@@ -1,0 +1,37 @@
+{
+ "slug": "2026-06-10-cmr-telecoms-camtel-devoile-le-data-center-de-zamengoe-prouesse-de-souvera",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Camtel's Zamengoé data centre is certified Tier III by the Uptime Institute and hosts more than a hundred public and private bodies, by Camtel's account.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Zamengoé data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The Zamengoé data centre is operated by Camtel, Cameroon Telecommunications, and described by its director general as an exclusively Cameroonian foundation for public data.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Zamengoé data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "More than a hundred public and private administrations host their data at the Camtel Zamengoé data centre, which the article presents as serving government action.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Zamengoé data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

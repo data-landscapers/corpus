@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-16-civ-stockage-de-donnees-les-10-datacenters-en-cote-d-ivoire-pour-un-debut",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Digital Mag reports the state SNDI data centre offers shared services to private companies, and the VITIB public data centre offers colocation space to public entities and approved companies.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "SNDI and VITIB public data centres",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "Digital Mag describes the SNDI (Societe nationale de developpement informatique) and VITIB data centres as public data centres managed by ANSUT.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "SNDI and VITIB public data centres",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "Digital Mag reports SNDI's data centre is the central hosting point for the public administration, and the public data centres host sensitive data and e-government services.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "SNDI and VITIB public data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNDI data centre",
+   "country_label": "Cote d'Ivoire",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "SNDI (state company)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

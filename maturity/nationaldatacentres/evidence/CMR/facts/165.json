@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The webinar record says the health ministry's universal health coverage data runs on servers at CAMTEL, the national telecoms operator, in a secure data centre in Cameroon.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "CAMTEL data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "CAMTEL, described as the national telecommunications operator, owns the data centre that hosts the ministry's health coverage data.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "CAMTEL data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

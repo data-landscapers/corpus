@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-28-ago-new-government-data-center-reinforces-the-country-s-digital-sovereignt",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The Ministry of Telecommunications said the state-owned Government's Data Center and Cloud, operated by national staff, hosts data in the national territory and supports content management for public bodies.",
+   "as_of": "2026-04-28",
+   "date_precision": "day",
+   "system": "Government's Data Center and Cloud",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government's Data Center and Cloud",
+   "country_label": "Angola",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "national",
-   "stage": "2",
-   "centre": "service",
-   "owner": "national",
-   "state": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-004",
-   "gaps": "No source found says a nationally owned data centre for hire is Tier III or above.",
-   "note": "Counted from the four questions by study-ladder-nationaldatacentres.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "2",
+      "centre": "service",
+      "owner": "national",
+      "state": "hosted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-004",
+      "gaps": "No source found says a nationally owned data centre for hire is Tier III or above.",
+      "note": "Stage 4c 2026-11-12: the state data centre run by ASIN hosts ministries' applications (BEN-007, 2026), so the state's data is hosted nationally; no nationally owned data centre for hire is stated at Tier III, so it stays at 2.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }
