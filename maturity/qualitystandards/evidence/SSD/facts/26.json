@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-ssd-eservices-portal-ministries-and-services-catalogue",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "The eServices portal describes the South Sudan National Bureau of Standards as the national regulatory body mandated for the quality, safety and standardization of goods and services, established under the SSNBS Act, 2012.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "South Sudan National Bureau of Standards",
+   "class": "body"
+  }
+ ],
+ "systems": [
+  {
+   "system": "South Sudan National Bureau of Standards (SSNBS)",
+   "country_label": "South Sudan",
+   "class": "body",
+   "platform": "",
+   "owner": "Government of South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": "No national standard on information technology or data and no certification stated."
+}

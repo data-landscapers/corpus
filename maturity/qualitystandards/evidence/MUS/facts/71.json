@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mus-cisd-milestones",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "certification",
+   "value": "public-body",
+   "fact": "The Central Information Systems Division lists an MS ISO 27001:2013 certification awarded in 2019 and a transition to ISO 27001:2022 in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ISO 27001:2022",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
