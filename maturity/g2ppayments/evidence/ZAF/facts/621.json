@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-30-zaf-media-release-finscope-consumer-south-africa-2025",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "FinMark Trust's FinScope 2025 survey says South Africans open additional bank accounts mostly to receive social grants or government payments, and social grant recipients are among those who withdraw received money at once.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "social grants paid into bank accounts",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-22-xss-a-decade-of-change-the-surge-of-financial-inclusion-in-sub-saharan-afr",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The World Bank's Global Findex blog says over 60% of government payment recipients in Senegal receive them directly into an account.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "government payments into accounts",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
