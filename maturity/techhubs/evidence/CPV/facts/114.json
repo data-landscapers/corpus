@@ -1,0 +1,44 @@
+{
+ "slug": "2025-05-14-cpv-african-development-bank-funds-second-tech-park-in-mindelo",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The African Development Bank says the Mindelo Technology Park, inaugurated 6 May 2025, includes a business incubation hub and a training centre, with no incubation programme or cohort described.",
+   "as_of": "2025-05-06",
+   "date_precision": "day",
+   "system": "Mindelo Technology Park",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "park",
+   "value": "tenants",
+   "fact": "The African Development Bank says the Mindelo Technology Park, a special digital economic zone, hosts ten companies from four countries and 125 employees, with 80% of 25 office spaces occupied, and both TechPark CV campuses are operational.",
+   "as_of": "2025-05-14",
+   "date_precision": "day",
+   "system": "Mindelo Technology Park",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mindelo Technology Park",
+   "country_label": "Cabo Verde (Mindelo)",
+   "class": "hub",
+   "platform": "",
+   "owner": "TechPark CV",
+   "tiers": ""
+  },
+  {
+   "system": "TechPark CV Praia campus",
+   "country_label": "Cabo Verde (Praia)",
+   "class": "hub",
+   "platform": "",
+   "owner": "TechPark CV",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

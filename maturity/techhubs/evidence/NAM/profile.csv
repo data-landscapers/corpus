@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,hub,hubs,coverage,underway,2026-06-24,NAM-001,,
-NAM,hub,cities,coverage,,,,,nothing held
-NAM,hub,park,coverage,,,,,nothing held
+NAM,hub,hubs,coverage,inservice,2025-08-16,NAM-002,NAM-001=underway,
+NAM,hub,cities,coverage,,,,,nothing found
+NAM,hub,park,coverage,,,,,nothing found

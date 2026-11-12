@@ -22,8 +22,8 @@ The Digital Transformation Strategy asks for a technology park and incubation hu
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 5 |
-| 3 Established | 34 |
-| 2 Nascent | 15 |
+| 3 Established | 37 |
+| 2 Nascent | 12 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 0 |
@@ -77,6 +77,12 @@ A hub ran a programme for startups in 2026; hubs in more than one city are not o
 - We Are Tech Africa reports the Botswana Innovation Fund and Scalar International launched a 12-month accelerator supporting ten climate and digital startups ([source, 2026-03-18](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/botswana-rolls-out-innovation-accelerator-for-climate-digital-startups)).
 - TechCabal reports the Botswana Innovation Fund and Scalar International launched on 10 March 2026 in Gaborone a 12-month programme supporting 10 climate and digital startups ([source, 2026-03-10](https://techcabal.com/2026/03/17/botswana-to-support-clean-energy-startups/)).
 
+### Burkina Faso: 3 Established
+
+Orange's digital centre ran acceleration and incubation programmes for 30 startups in 2024; hubs in more than one city are not on record.
+
+- Orange Burkina Faso's CSR report says its Orange Digital Center acceleration programme, Damina incubation programme and related projects, backed by over FCFA 1.9 billion, supported 30 startups and trained 7,000 young people ([source, 2024](https://www.cfinance.news/article/orange-burkina-faso-257-milliards-f-cfa-dinvestissements-pour-linclusion-numerique-des-populations/)).
+
 ### Cape Verde: 3 Established
 
 Hubs ran incubation programmes in 2025 and a technology park hosted 23 companies; hubs with programmes in two or more cities are not known.
@@ -114,6 +120,13 @@ A hub ran a programme for startups in 2025; hubs in more than one city are not o
 
 - Silikin Village in Kinshasa, backed by the Texaf Group, says it has supported over 300 project leaders and entrepreneurs in five years and is launching the 'Grow & Help Grow' acceleration programme, whose first cohort of five tech entrepreneurs will run nine months ([source, 2025-08-10](https://www.ecofinagency.com/insights/1008-48012-cecilia-bituka-silikin-village-is-a-strategic-investment-for-innovation-in-the-drc)).
 - Bankable reports Silikin Village in Kinshasa was inaugurated on 10 October 2024 and offers training and incubation programmes for startups ([source, 2024-10-10](https://bankable.africa/en/business-climate/1110-390-dr-congo-president-tshisekedi-inaugurates-new-tech-and-entrepreneur-hub-in-kinshasa)).
+
+### Djibouti: 3 Established
+
+An entrepreneurship centre ran its first startup cohort in 2025; hubs in more than one city are not on record.
+
+- The Centre de Leadership et de l'Entrepreneuriat ran the Startup Djibouti programme, a first cohort of selected startups with mentoring, coaching and financial support, ending in a Demo Day; over 325 applications were received ([source, 2025-09](https://www.lanation.dj/mden-cle-banque-mondiale-la-premiere-cohorte-de-startup-djiboutien-devoilee-en-grande-pompe/)).
+- The French Treasury note says the Centre de Leadership et d'Entreprenariat has an incubator seeking to host startups with AI-related projects ([source, 2025](https://www.tresor.economie.gouv.fr/PagesInternationales/Pages/0f39f73e-5050-4335-abba-112c8823fe7d/files/7eec865a-efa2-431e-af9e-961511113d91)).
 
 ### Equatorial Guinea: 3 Established
 
@@ -210,6 +223,12 @@ A hub ran a programme for startups in 2026; hubs in more than one city are not o
 - The regulator INCM runs the Thinklab with technology incubators in operation and incubated startups, shown to a World Bank delegation on 28 May 2026 ([source, 2026-05-28](https://www.incm.gov.mz/2026/05/29/visita-de-director-regional-do-banco-mundial-para-africa-ao-thinklab-do-incm-reforca-perspectivas-de-expansao-da-inovacao-digital-em-mocambique/)).
 - INCM launched the ThinkLab incubator in Maputo, whose first cycle took 12 startups in health, transport, finance, IT and AI, Club of Mozambique reports ([source, 2025-09-23](https://clubofmozambique.com/news/mozambique-incm-launches-thinklab-incubator-to-support-digital-startups/)).
 
+### Namibia: 3 Established
+
+A hub mentored nine startup teams and took two into incubation in 2025; hubs in more than one city are not on record.
+
+- Namibia Economist reports that CcHub Namibia hosted the Seedr Namibia 2.0 demo day for nine startup and student teams after weeks of mentorship, with two winners entering a 33-month incubation programme ([source, 2025-08-16](https://economist.com.na/ai-innovations-take-centre-stage-at-seedr-namibia-demo-day/)).
+
 ### Nigeria: 3 Established
 
 A hub ran a programme for startups in 2026; hubs in more than one city are not on record.
@@ -293,25 +312,12 @@ A technology hub or park was under way in 2026; none running programmes is on re
 - The Angolan government and the African Development Bank Group inaugurated the Luanda Science and Technology Park, intended to support research, innovation and entrepreneurship, with no programme or tenants stated ([source, 2026-06-29](https://itweb.africa/article/angola-launches-luanda-technology-park/8OKdWqDX2nRqbznQ)).
 - Presidential Decree 77/26 authorised the finance and higher-education ministers to create the state-owned managing company of the Parque de Ciencia e Tecnologia de Luanda, for technology plots, incubation and acceleration of companies, with no programme stated as running ([source, 2026-04-24](https://lex.ao/docs/presidente-da-republica/2026/decreto-presidencial-n-o-77-26-de-24-de-abril/)).
 
-### Burkina Faso: 2 Nascent
-
-A technology hub or park was under way in 2026; none running programmes is on record.
-
-- Sahal Tech officially opened its Sahal Tech Smart Innovation Hub, a professional training and innovation centre, on 23 May 2026, with no incubation cohort stated ([source, 2026-05-23](https://burkina24.com/2026/05/23/souverainete-numerique-sahal-tech-veut-former-une-nouvelle-generation-de-leaders-technologiques/)).
-
 ### Chad: 2 Nascent
 
 A technology hub or park was under way in 2025; none running programmes is on record.
 
 - The Centre d'innovation technologique de N'Djamena, created by arrete n0050 of 1 September 2025, was officially launched with an aim to incubate Chadian tech startups, with no incubation programme or cohort stated ([source, 2025-10-30](https://tchadinfos.com/2025/10/30/le-centre-dinnovation-technologique-de-ndjamena-est-lance/)).
 - The startup day was held at WenakLabs in N'Djamena with Tcharay HUB, both named as hubs with founders speaking; no programme or cohort is stated ([source, 2025-09-19](https://www.toumaiwebmedias.com/tchad-le-ministre-des-finances-echange-avec-les-jeunes-entrepreneurs/)).
-
-### Djibouti: 2 Nascent
-
-A technology hub or park was under way in 2026; none running programmes is on record.
-
-- Wingu Africa offered the communications ministry its new innovation centre to be used as an incubator for intensive ICT training of young Djiboutian graduates, with an MoU still to be finalised by a joint working cell (ADI, 28 September 2026) ([source, 2026-09-28](https://www.adi.dj/article/138942)).
-- The French Treasury note says the Centre de Leadership et d'Entreprenariat has an incubator seeking to host startups with AI-related projects ([source, 2025](https://www.tresor.economie.gouv.fr/PagesInternationales/Pages/0f39f73e-5050-4335-abba-112c8823fe7d/files/7eec865a-efa2-431e-af9e-961511113d91)).
 
 ### Guinea: 2 Nascent
 
@@ -344,12 +350,6 @@ Malawi's ten government tech hubs trained people in digital skills by 2024; no s
 A technology hub or park was under way in 2026; none running programmes is on record.
 
 - Orange Maroc signed a partnership with Technopark Maroc (MITC) at GITEX Africa 2026 for the 'AI Garden' programme, giving Moroccan startups cloud resources, connectivity, cybersecurity solutions and business use cases; no cohort is stated ([source, 2026-04-09](https://techafricanews.com/2026/04/09/orange-maroc-partners-technopark-to-accelerate-ai-and-digital-transformation/)).
-
-### Namibia: 2 Nascent
-
-A technology hub or park was under way in 2026; none running programmes is on record.
-
-- NAMPA reports President Nandi-Ndaitwah inaugurated the upgraded Rössing Foundation Ondangwa Digital Technology Hub, housing a science exhibition hall, in Oshana Region; no programme or cohort is stated ([source, 2026-06-24](https://www.nampa.org/text/22953835)).
 
 ### Niger: 2 Nascent
 

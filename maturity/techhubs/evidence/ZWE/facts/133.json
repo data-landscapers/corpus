@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-16-zwe-hit-researcher-develops-app-to-automate-local-authorities",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Herald reports a startup, LADS Africa/Ndarama Tech Agency, is under incubation at the HIT Innovation Hub, and innovation hubs are established at the country's premier universities; no programme or cohort is described.",
+   "as_of": "2024-05-16",
+   "date_precision": "day",
+   "system": "HIT Innovation Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HIT Innovation Hub",
+   "country_label": "Zimbabwe",
+   "class": "hub",
+   "platform": "",
+   "owner": "Harare Institute of Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

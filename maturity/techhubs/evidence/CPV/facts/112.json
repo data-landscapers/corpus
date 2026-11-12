@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-07-cpv-sao-vicente-technology-park-inaugurated-with-unfinished-parts-but-pm-a",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Inforpress reports the Cabo Verde Technology Park in Mindelo, financed by the African Development Bank, was inaugurated on 6 May 2025 with parts unfinished, and the Prime Minister said conditions are in place for it to start operating, with VisionWare to be the first to set up there.",
+   "as_of": "2025-05-06",
+   "date_precision": "day",
+   "system": "Cabo Verde Technology Park, Mindelo",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cabo Verde Technology Park, Mindelo",
+   "country_label": "Cabo Verde",
+   "class": "hub",
+   "platform": "",
+   "owner": "Government of Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

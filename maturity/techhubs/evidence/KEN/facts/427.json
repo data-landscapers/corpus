@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-17-ken-britam-s-betalab-invests-kes-5-million-in-oye-to-transform-boda-boda-i",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Tech-ish reports that BetaLab, Britam's corporate innovation hub, focuses on incubation programmes, mentorship, events, hackathons and product development with startups, with no cohort stated.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "Britam BetaLab",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Britam BetaLab",
+   "country_label": "Kenya",
+   "class": "hub",
+   "platform": "",
+   "owner": "Britam (private insurer)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-06-rwa-de-l-ambition-a-l-action-au-rwanda-aider-les-entrepreneurs-du-numeriqu",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Allan & Gill Gray Philanthropy Rwanda runs the 13-month JASIRI programme, which has supported 320 people and incubated 108 active firms in Rwanda, Kenya and Ethiopia, per a World Bank blog.",
+   "as_of": "2026-01-06",
+   "date_precision": "day",
+   "system": "Allan & Gill Gray Philanthropy Rwanda (JASIRI)",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Allan & Gill Gray Philanthropy Rwanda (JASIRI)",
+   "country_label": "Rwanda",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

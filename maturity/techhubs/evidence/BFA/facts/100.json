@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-05-bfa-orange-burkina-faso-257-milliards-f-cfa-d-investissements-pour-l-inclu",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Orange Burkina Faso's CSR report says its Orange Digital Center acceleration programme, Damina incubation programme and related projects, backed by over FCFA 1.9 billion, supported 30 startups and trained 7,000 young people.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Orange Digital Center / Damina",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Digital Center",
+   "country_label": "Burkina Faso",
+   "class": "hub",
+   "platform": "acceleration and incubation programmes",
+   "owner": "Orange Burkina Faso",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -23,3 +23,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,CPV,tech.innovate--technology-hubs,ladder,5,3,CPV-006,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-10,ETH,tech.innovate--technology-hubs,fact,2,3,ETH-005,AI UniPod residency for 51 startup founders (Nov 2026) shows a hub running a cohort programme; 2->3
 2026-11-10,RWA,tech.innovate--technology-hubs,fact,3,4,RWA-004;RWA-005;RWA-001,RISA Hanga Hubs: nine-month incubation cohort in seven districts; hubs with programmes in several cities; 3->4
+2026-11-12,BFA,tech.innovate--technology-hubs,fact,2,3,BFA-002,"Orange Burkina Faso's 2024 report (BFA-002): Orange Digital Center acceleration and Damina incubation programmes supported 30 startups; a hub runs programmes, 2->3."
+2026-11-12,DJI,tech.innovate--technology-hubs,fact,2,3,DJI-003;DJI-002,"Startup Djibouti's first cohort at the Centre de Leadership et de l'Entrepreneuriat, 2025 (DJI-003); a hub runs programmes, 2->3."
+2026-11-12,NAM,tech.innovate--technology-hubs,fact,2,3,NAM-002,"CcHub Namibia's Seedr demo day, 2025 (NAM-002): nine teams mentored, two into incubation; a hub runs programmes, 2->3."
+2026-11-12,GIN,tech.innovate--technology-hubs,fact,2,2,GIN-001,"A 2026 comment on Guinea's incubators (GIN-003) names no hub or cohort; no dated programme held, stays 2."

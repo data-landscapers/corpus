@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-southwood-chad-landlocked-one-international-fibre-exit",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Russell Southwood says Chad Innovation Hub lists seven organisations in its incubator spaces, with no cohort programme described.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Chad Innovation Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

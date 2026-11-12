@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-18-com-avis-general-de-passation-de-marches-projet-d-appui-a-la-digitalisatio",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "ANADEN's general procurement notice for the AfDB-funded PADEC project covers construction of an incubator on the University's administrative site, with first bidding documents expected from July 2025.",
+   "as_of": "2025-06-18",
+   "date_precision": "day",
+   "system": "PADEC incubator",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PADEC incubator",
+   "country_label": "Comoros",
+   "class": "hub",
+   "platform": "",
+   "owner": "ANADEN",
+   "tiers": "University administrative site"
+  }
+ ],
+ "note": ""
+}

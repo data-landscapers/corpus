@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "2",
-   "hubs": "underway",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-001",
-   "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "3",
+      "hubs": "inservice",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-002",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "Stage 4c 2026-11-12: Orange Digital Center's acceleration and incubation programmes supported 30 startups in 2024 (BFA-002), so a hub runs programmes. No source places hubs with programmes in two or more cities, so not 4.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

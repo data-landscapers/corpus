@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-26-dza-jeune-independant-cerist-cloud-computing-souverainete",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The minister inaugurated a drone design and piloting platform meant to take in 20 new drone start-ups by the end of 2025 and reach 100 start-ups a year from 2027, with technical and financial support.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "drone design and piloting platform",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "drone design and piloting platform",
+   "country_label": "Algérie",
+   "class": "hub",
+   "platform": "drone start-up platform",
+   "owner": "Ministry of Higher Education and Scientific Research",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

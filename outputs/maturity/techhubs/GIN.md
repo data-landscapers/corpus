@@ -2,7 +2,7 @@
 
 ## Technology hubs
 
-**Hub programmes.** [AfriLabs lists Trustee Sas, an innovation center supporting ICT, renewable energy and agribusiness projects, and Incubateur Saboutech, a non-profit supporting SMEs and startups, as member hubs in Guinea, with no programme or cohort described](<https://new.afrilabs.com/index.php/hub_country/guinea/>). [Saboutech, described as Guinea's first incubator in Conakry, runs the #Tremplin one-year incubation and the #JePrendsMonEnvol 12-24 month acceleration, and says it has incubated 35+ startups since 2016](<https://saboutech.org/>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Hub programmes.** [AfriLabs lists Trustee Sas and Incubateur Saboutech as member hubs in Guinea](<https://new.afrilabs.com/index.php/hub_country/guinea/>), as at 2025. Saboutech calls itself [Guinea's first incubator, in Conakry](<https://saboutech.org/>). It describes a one-year incubation and a 12 to 24 month acceleration, and says it has incubated more than 35 startups since 2016. In August 2026 [the head of Lengo Pay said Guinea's incubators and hubs are judged on youths trained and workshops held](<https://business360.media/startups-guinee-diagnostic-dg-lengo-pay/>).
 
 **Several cities.** No source found since October 2023 says hubs with programmes are in service in two or more cities. The nearest held fact: [the one given above](<https://new.afrilabs.com/index.php/hub_country/guinea/>).
 

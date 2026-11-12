@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-27-cpv-expressodasilhas-lusa-techpark-mindelo-data-center-recuperacao",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "park",
+   "value": "tenants",
+   "fact": "Lusa quotes the Techpark board chair that the public technology park in Praia has five buildings, 23 companies from seven nationalities and 400 workers present, ahead of its 5 and 6 May 2025 openings.",
+   "as_of": "2025-04-27",
+   "date_precision": "day",
+   "system": "Techpark Cabo Verde",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
