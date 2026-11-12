@@ -1,15 +1,16 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "price",
-   "stage": "2",
-   "cost": "share:5.16",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-004",
-   "gaps": "The newest figure, 5.16 per cent for 2025, is above 5 per cent.",
-   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "price",
+      "stage": "3",
+      "cost": "price:GNF:50000:6",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-005",
+      "gaps": "The newest figure, 3.86 per cent for September 2025, is above 2 per cent.",
+      "note": "Orange Guinee's monthly pass of 6 GB at GNF 50,000 from 4 September 2025 (GIN-005) is newer than the Union's 2025 figure: 3.86 per cent of average monthly income, within 5, so 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

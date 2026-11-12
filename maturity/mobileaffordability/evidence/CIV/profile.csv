@@ -1,2 +1,2 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,price,cost,coverage,share:3.04,2025,CIV-004,CIV-003=share:3.02;CIV-002=share:3.43;CIV-001=share:4.15,
+CIV,price,cost,coverage,price:XOF:4900:7.4,2026-11-11,CIV-005,CIV-006=price:XOF:5000:7.4;CIV-004=share:3.04;CIV-003=share:3.02;CIV-002=share:3.43;CIV-001=share:4.15,

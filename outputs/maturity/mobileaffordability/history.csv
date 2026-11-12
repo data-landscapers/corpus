@@ -6,3 +6,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,COD,infra.connect--mobile-affordability,fact,1,1,COD-005,"The regulator's 2026 tariff list gives USD 10 for 10 GB, 16.67 per cent; stays 1"
 2026-11-12,GMB,infra.connect--mobile-affordability,fact,2,2,GMB-007,Three operators' D65 a gigabyte in January 2026 comes to 5.99 per cent for 5 GB; the Ayre figure repeats the ITU's 2025 one and is removed; stays 2
 2026-11-12,TCD,infra.connect--mobile-affordability,fact,1,1,TCD-005,The government's June 2026 figure of 11.8 per cent for 5 GB is the newest; stays 1
+2026-11-12,CIV,infra.connect--mobile-affordability,fact,3,3,CIV-005,"Moov 30-day 7.4 GB at FCFA 4,900 (Nov 2026): newest figure 3.51 per cent; stage 3 holds"
+2026-11-12,GAB,infra.connect--mobile-affordability,fact,3,3,GAB-005,"Moov Gabon 30-day 9 GB at FCFA 10,000 (Jun 2026): newest figure 2.56 per cent; stage 3 holds"
+2026-11-12,GIN,infra.connect--mobile-affordability,fact,2,3,GIN-005,"Orange Guinee monthly 6 GB at GNF 50,000 (Sep 2025): newest figure 3.86 per cent, within 5"
+2026-11-12,SDN,infra.connect--mobile-affordability,fact,2,2,SDN-007,"MTN 5 GB bundle raised to SDG 16,500 (Nov 2026): newest figure 7.89 per cent; stage 2 holds"

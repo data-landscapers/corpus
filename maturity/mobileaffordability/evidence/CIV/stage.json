@@ -1,15 +1,16 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "price",
-   "stage": "3",
-   "cost": "share:3.04",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-004",
-   "gaps": "The newest figure, 3.04 per cent for 2025, is above 2 per cent.",
-   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "price",
+      "stage": "3",
+      "cost": "price:XOF:4900:7.4",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-005",
+      "gaps": "The newest figure, 3.51 per cent for November 2026, is above 2 per cent.",
+      "note": "Moov's 30-day plan of 7.4 GB at FCFA 4,900, read on 11 November 2026 (CIV-005), is the newest figure: 3.51 per cent of average monthly income, within 5 and above 2, so 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

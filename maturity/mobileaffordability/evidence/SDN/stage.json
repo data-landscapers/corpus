@@ -1,15 +1,16 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "price",
-   "stage": "2",
-   "cost": "price:SDG:12500:5",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-001",
-   "gaps": "The newest figure, 5.97 per cent for 2026, is above 5 per cent.",
-   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "price",
+      "stage": "2",
+      "cost": "price:SDG:16500:5",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-007",
+      "gaps": "The newest figure, 7.89 per cent for November 2026, is above 5 per cent. The report of the rise does not state the bundle's validity; it is MTN's 5 GB bundle that SDN-001 gives as monthly.",
+      "note": "MTN Sudan raised its 5 GB bundle from SDG 12,500 to 16,500 by November 2026 (SDN-007), the cheapest 5 GB price reported: 7.89 per cent of average monthly income, within 10 and above 5, so 2.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-09-sdn-zain-sudani-mtn-internet-bundle-price-increase",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:SDG:16500:5",
+   "fact": "RT Media reports MTN Sudan's 5 GB bundle now costs SDG 16,500 after a price rise; the article does not state the bundle's validity period.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "MTN Sudan",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:SDG:25000:5",
+   "fact": "RT Media reports Sudani's 5 GB bundle now costs SDG 25,000 after a price rise; the article does not state the bundle's validity period.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Sudani",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

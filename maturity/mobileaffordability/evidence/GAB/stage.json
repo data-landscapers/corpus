@@ -1,15 +1,16 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "price",
-   "stage": "3",
-   "cost": "share:2.65",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-004",
-   "gaps": "The newest figure, 2.65 per cent for 2025, is above 2 per cent.",
-   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "price",
+      "stage": "3",
+      "cost": "price:XAF:10000:9",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-005",
+      "gaps": "The newest figure, 2.56 per cent for June 2026, is above 2 per cent.",
+      "note": "Moov Africa Gabon Telecom's 30-day plan of 9 GB at FCFA 10,000, captured in June 2026 (GAB-005), is the newest figure: 2.56 per cent of average monthly income, within 5 and above 2, so 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-gab-pass-waz",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:XAF:10000:9",
+   "fact": "Moov Africa Gabon Telecom's tariff page, captured in June 2026, lists a 30-day Pass Waz of 9 GB for FCFA 10,000, with a daily allocation of 300 MB.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Pass Waz",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
