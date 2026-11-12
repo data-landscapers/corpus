@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-26-uga-kikuube-district-leaders-urged-to-utilise-automated-revenue-collection",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "IRAS, an online and mobile platform, lets local governments collect revenue through registration, assessment, billing and payment, and was in use in 124 local governments by October 2023.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "Integrated Revenue Administration System (IRAS)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

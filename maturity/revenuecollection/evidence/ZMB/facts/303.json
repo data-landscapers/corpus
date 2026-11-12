@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-12-zmb-the-zambia-integrated-land-administration-system-progress-or-setback",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The interview says payments for land services in ZILAS can now be made through electronic banking channels, including debit and credit cards.",
+   "as_of": "2025-03-12",
+   "date_precision": "day",
+   "system": "ZILAS integrated payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

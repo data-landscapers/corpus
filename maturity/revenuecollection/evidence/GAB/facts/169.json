@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-12-gab-gabon-la-mairie-de-libreville-se-prepare-pour-l-immatriculation-numeri",
+ "facts": [],
+ "systems": [
+  {
+   "system": "E-Tax (Mairie de Libreville)",
+   "country_label": "E-Tax Libreville",
+   "class": "other",
+   "platform": "web and Taxe Collecte app",
+   "owner": "Mairie de Libreville",
+   "tiers": "city"
+  }
+ ],
+ "note": "E-Tax is the city hall's municipal platform, only at training stage; no state tax or fee payment stated."
+}

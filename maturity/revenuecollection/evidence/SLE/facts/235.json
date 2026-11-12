@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-24-sle-bo-district-council-launches-electronic-tax-payment",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Bo District Council says it launched the GovPay Sierra Leone e-money application on 24 April 2025 so that property rates can be paid electronically by mobile money.",
+   "as_of": "2025-04-24",
+   "date_precision": "day",
+   "system": "GovPay Sierra Leone",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovPay Sierra Leone",
+   "country_label": "Sierra Leone",
+   "class": "revenue",
+   "platform": "mobile money USSD",
+   "owner": "Bo District Council with GovPay SL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

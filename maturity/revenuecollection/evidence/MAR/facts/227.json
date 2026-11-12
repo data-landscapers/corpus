@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-22-mar-laftit-urges-local-tax-reform-relies-on-digitisation",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Al3omk reports the Interior Minister saying taxpayers have been given access to an electronic platform to file declarations and pay local-government taxes, under decree 2.22.176 of 29 March 2022 and a joint circular of 28 December 2022.",
+   "as_of": "2022-12-28",
+   "date_precision": "day",
+   "system": "Local taxes electronic declaration and payment platform",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

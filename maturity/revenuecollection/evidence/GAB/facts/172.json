@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-10-gab-copil-sigfip-deuxieme-reunion-module-1",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Ministry of Economy and Finance says SIGFiP will centralise tax, non-tax and customs payments on a single Treasury-backed e-payment platform, with revenue centralisation among the functions due for deployment from January 2026.",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "SIGFiP single e-payment platform",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGFiP single e-payment platform",
+   "country_label": "Gabon",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Treasury (Ministry of Economy and Finance)",
+   "tiers": ""
+  }
+ ],
+ "note": "Platform is described as being set up; no figure for electronic share."
+}

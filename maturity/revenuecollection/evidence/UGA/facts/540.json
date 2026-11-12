@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-18-uga-mbarara-high-court-ushers-in-digital-transformation-as-eccmis-goes-liv",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Kalisho Info reports that ECCMIS integrates online payment of court fees, fines, bail and deposits, in service in the Judiciary of Uganda's courts including the Cluster Eight rollout of 18 May 2026.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "ECCMIS online payments",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

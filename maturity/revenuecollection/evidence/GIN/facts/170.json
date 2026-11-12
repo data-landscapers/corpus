@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-05-gin-modernisation-et-performances-le-tribunal-de-commerce-de-conakry-sous",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Conakry's commercial court is about to launch a digital platform, built with the Guinean firm JUDICALEX and technically operational, through which users will obtain RCCM acts by electronic payment.",
+   "as_of": "2026-03-05",
+   "date_precision": "day",
+   "system": "JUDICALEX platform of the Tribunal de commerce de Conakry",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JUDICALEX platform of the Tribunal de commerce de Conakry",
+   "country_label": "Guinea",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Tribunal de commerce de Conakry; built by JUDICALEX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

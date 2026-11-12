@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-uga-the-grizzly-wall-behind-government-s-heavy-burden-in-funding-local-gov",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Habari Daily reports taxpayers can make digital payments of property rates, business licences, market dues and ground rent through IRAS, with electronic receipts, in local governments.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Integrated Revenue Administration System (IRAS)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Revenue Administration System (IRAS)",
+   "country_label": "UGA",
+   "class": "other",
+   "platform": "web and mobile",
+   "owner": "Ministry of Finance / Local Government Finance Commission",
+   "tiers": "local governments"
+  }
+ ],
+ "note": ""
+}

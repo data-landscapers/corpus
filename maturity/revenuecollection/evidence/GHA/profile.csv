@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,revenue,payment,coverage,inservice,2026-11-01,GHA-001;GHA-002;GHA-004;GHA-005,GHA-003=underway,
+GHA,revenue,payment,coverage,inservice,2026-11-01,GHA-001;GHA-002;GHA-004;GHA-005;GHA-007;GHA-008,GHA-003=underway,
 GHA,revenue,main,coverage,,,,,nothing found
 GHA,revenue,reported,coverage,reported,2024-05-13,GHA-006,,

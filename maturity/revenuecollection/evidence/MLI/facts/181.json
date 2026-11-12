@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-18-mli-primature-tresor-pay-sif-guf-presentation",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Prime Minister's office said on 18 March 2025 that Tresor Pay, the electronic payment platform for public services covering national ID cards, passports, road offences and fixed fines, is already deployed at the Directorate General of Transport and the Commune IV town hall.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "Tresor Pay",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tresor Pay",
+   "country_label": "Mali",
+   "class": "revenue",
+   "platform": "mobile money operators",
+   "owner": "CAISFF and National Treasury directorate",
+   "tiers": "transport directorate, Commune IV"
+  }
+ ],
+ "note": ""
+}

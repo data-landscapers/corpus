@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-11-sdn-alnilin-kassala-isali-e-collection-launch",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "SUNA reports that Kassala State's governor launched the Isali electronic payment and collection system on 11 November 2025, starting in Kassala locality, with the electronic receipt (Form 15) the only proof of payment.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "Isali",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Isali",
+   "country_label": "Sudan (Kassala State)",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Kassala State Ministry of Finance",
+   "tiers": "state"
+  }
+ ],
+ "note": "A state-level system, in its first locality."
+}

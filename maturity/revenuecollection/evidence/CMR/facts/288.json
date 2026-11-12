@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-02-cmr-recouvrement-des-impots-locaux-le-coup-de-pouce-salutaire-de-l-adminis",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "An editorial says the tax directorate has for several years dematerialised all its procedures so that tax declaration and payment are made online, now including the local taxes unified as the Impot General Synthetique.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "Direction Generale des Impots online procedures",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

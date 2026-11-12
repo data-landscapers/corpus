@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-19-gha-e-justice-ghana-s-judiciary-leverages-dpi-to-enhance-justice-delivery",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The e-justice platform generates court case fees and lets them be paid online by mobile money, Visa card and bank payment, per 3News.",
+   "as_of": "2025-02-19",
+   "date_precision": "day",
+   "system": "e-Justice",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Justice",
+   "country_label": "Ghana",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Judicial Service of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-22-bdi-communes-bubanza-bukinanyana-kayanza-ngozi-kirundo-muyinga-cankuzo-ruy",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "ACO Burundi reports that E-TAXE, begun on 23 August 2024 in twelve pilot communes, collects communal revenue through CRDB Bank's electronic payment terminals, with national extension still to come.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "E-TAXE",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

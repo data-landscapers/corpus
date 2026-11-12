@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,revenue,payment,coverage,inservice,2026-05,GIN-001;GIN-002;GIN-003,,
+GIN,revenue,payment,coverage,inservice,2026-05,GIN-001;GIN-002;GIN-003,GIN-004=underway;GIN-005=underway,
 GIN,revenue,main,coverage,,,,,nothing found
 GIN,revenue,reported,coverage,,,,,nothing found

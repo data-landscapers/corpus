@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-13-mar-interior-ministry-digital-local-tax-platforms-gir-ct",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Al3omk reports the Interior Minister saying an electronic platform for declaring and paying local-government taxes has been prepared and activated, under decree 2.22.176 of 29 March 2022 and joint order 733.22.",
+   "as_of": "2026-06-13",
+   "date_precision": "day",
+   "system": "Local taxes electronic declaration and payment platform",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

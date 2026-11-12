@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-29-dza-aps-fada-el-djazair-2-millions-visiteurs-depuis-mars-2024",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "APS says cadastral and land documents on the Fada El Djazair portal are issued through an electronic payment system.",
+   "as_of": "2025-05-29",
+   "date_precision": "day",
+   "system": "Fada El Djazair geoportal",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fada El Djazair geoportal",
+   "country_label": "DZA",
+   "class": "other",
+   "platform": "web geoportal",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

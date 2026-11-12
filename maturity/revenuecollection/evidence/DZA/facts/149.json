@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-01-dza-ouest-tribune-numerisation-finances-systeme-information-tresor",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Minister Faid said the finance sector's platforms facilitate electronic payment of taxes, with the Moussahamatic portal extended to 242 tax offices by end-2023; customs e-payment procedures are still being finalised.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Moussahamatic",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

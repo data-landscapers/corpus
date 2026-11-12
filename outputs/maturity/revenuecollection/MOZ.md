@@ -2,7 +2,7 @@
 
 ## Revenue collection
 
-**Paid electronically.** [Kabum Digital says company registration on the SRN portal is paid electronically by M-Pesa mobile wallet or bank](<https://kabum.digital/mocambique-lanca-plataforma-para-registo-de-empresas/>). [PwC Worldwide Tax Summaries, reviewed 11 August 2026, says the Mozambique Tax Authority's eDeclaracao platform takes online income tax and corporate income tax returns and its Contribuinte Portal takes monthly VAT returns, with taxes paid through the taxpayer's bank using a reference number generated on the platform](<https://taxsummaries.pwc.com/mozambique/individual/tax-administration>).
+**Paid electronically.** PwC's tax summary, reviewed in August 2026, says [the Tax Authority's eDeclaração platform takes income tax and corporate tax returns](<https://taxsummaries.pwc.com/mozambique/individual/tax-administration>). Its Contribuinte Portal takes monthly VAT returns. Taxes are paid through the taxpayer's bank, with a reference number from the platform. In May 2025 E&M Magazine [reported online platforms for tax returns and payments](<https://360mozambique.com/innovation/em-magazine-processes-solved-online-only-if-you-go-to-the-counter/>), and an accountant who filed on the portal. Kabum Digital says [company registration on the SRN portal is paid by M-Pesa or bank](<https://kabum.digital/mocambique-lanca-plataforma-para-registo-de-empresas/>).
 
 **Main taxes and duties.** No source found since October 2023 says the main taxes and customs duties are filed and paid electronically. The nearest held fact: [the one given above](<https://kabum.digital/mocambique-lanca-plataforma-para-registo-de-empresas/>).
 

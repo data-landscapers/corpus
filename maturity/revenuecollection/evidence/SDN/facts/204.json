@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-22-sdn-rabak-locality-launches-mobile-electronic-collection",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Nile Post, citing Al Jazeera Sudan, reports Rabak locality in White Nile State launched a mobile electronic collection system for its financial transactions and official documents, the first locality in the state to do so.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "mobile electronic collection system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile electronic collection system",
+   "country_label": "Rabak locality, White Nile State",
+   "class": "revenue",
+   "platform": "mobile",
+   "owner": "Rabak locality",
+   "tiers": "local"
+  }
+ ],
+ "note": ""
+}

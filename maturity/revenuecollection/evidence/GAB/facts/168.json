@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-01-gab-e-tax-la-mairie-de-libreville-dresse-un-premier-bilan-de-la-collecte-n",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Medias241 reports Libreville's city hall E-Tax lets market traders pay municipal taxes by web portal, app, mobile money or agent terminals, with over 4,000 transactions and about FCFA 210 million paid by mobile money since 12 June 2026; this is a municipal, not national, tax.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

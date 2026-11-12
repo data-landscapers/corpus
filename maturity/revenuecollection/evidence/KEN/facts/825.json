@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-22-ken-how-fintechs-are-making-millions-from-counties-in-revenue-collection",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Star reports Nairobi County's e-JijiPay, run by JamboPay, collects single business permits, market fees, cess, slaughter and auction fees and parking through an electronic system, while most counties automated only a small share of revenue streams.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "e-JijiPay",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": "County revenue, not the national revenue authority."
+}

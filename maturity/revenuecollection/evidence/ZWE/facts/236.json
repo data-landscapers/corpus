@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-23-zwe-plc-adverse-report-si-153-of-2023-high-court-amendment-rules",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Statutory Instrument 153 of 2023 defines the Judicial Service Commission's IECMS as the platform on which High Court litigants pay court fees electronically.",
+   "as_of": "2023-08-25",
+   "date_precision": "day",
+   "system": "IECMS",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

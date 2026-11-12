@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mus-upcoming-projects",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Registrar General's Department says e-vouchers for secure online payment of its fees are being introduced and are in user acceptance testing.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RGD e-vouchers",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

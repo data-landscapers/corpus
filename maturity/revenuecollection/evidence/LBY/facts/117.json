@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-29-lby-benghazi-municipality-starts-electronic-payment-for-fees",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Benghazi Municipality announced, per Al Wasat, that it began operating an electronic payment system for all its fee-bearing financial transactions, under Decision 135 of 2025 of the House-of-Representatives-mandated government on e-payment in government bodies.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "Benghazi municipal electronic payment system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Benghazi municipal electronic payment system",
+   "country_label": "Benghazi Municipality e-payment",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Benghazi Municipality",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

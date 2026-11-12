@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-rwa-declare-your-immovable-property-tax-today-to-avoid-procrastination",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Rwanda Revenue Authority says immovable property tax is declared online or by *800# and paid by Mobile Money, Mobicash or bank, the system open since August 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "RRA immovable property tax declaration system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

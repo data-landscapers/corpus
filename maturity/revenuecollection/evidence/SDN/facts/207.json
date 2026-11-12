@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-16-sdn-projects-sudantax",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Sudan Tax Authority says its e-portal lets taxpayers file returns electronically, while electronic payment channels are still being activated, with a POS payment pilot set up in 70 offices at the large and medium taxpayer centres.",
+   "as_of": "2025-02-16",
+   "date_precision": "day",
+   "system": "SudanTax e-portal and POS payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SudanTax e-portal and POS payment",
+   "country_label": "Sudan",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Sudan Tax Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

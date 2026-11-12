@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-19-mli-digitalisation-de-ladministration-deux-nouvelles-plateformes-de-modern",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Finance Minister Alousséni Sanou says tele-declaration and tele-payment are in place for taxes, as reported by ORTM.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "tele-declaration and tele-payment (taxes)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Trésor Pay",
+   "country_label": "Mali",
+   "class": "revenue",
+   "platform": "",
+   "owner": "CAISFF with Direction nationale du Trésor et de la Comptabilité publique",
+   "tiers": ""
+  }
+ ],
+ "note": "Trésor Pay was presented as a payment app for administrative fees; its being in service is not stated, so no fact on it."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-18-dza-justice-numerique-l-echange-electronique-des-documents-et-le-paiement",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Fildalgerie reports that the Ministry of Justice requires lawyers to pay court fees exclusively through the electronic payment system from 18 January 2026, except in courts not yet equipped.",
+   "as_of": "2025-12-18",
+   "date_precision": "day",
+   "system": "Electronic payment system for court fees",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
