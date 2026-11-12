@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-14-som-public-awarness-education-and-outreach-of-emf",
+ "facts": [
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "estimate:70",
+   "fact": "The National Communications Authority of Somalia says in a May 2024 ITU workshop deck that approximately 70-80% of the population owns a mobile phone.",
+   "as_of": "2024-05-14",
+   "date_precision": "day",
+   "system": "National Communications Authority of Somalia",
+   "class": "ownership"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

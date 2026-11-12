@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-14-bfa-burkina-faso-to-extend-telecom-access-to-1-52-million-people",
+ "facts": [
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "estimate:63.9",
+   "fact": "Ecofin, citing ITU data, says 63.9% of Burkina Faso's population owned a mobile phone in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ITU",
+   "class": "ownership"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Regulator subscription count, 120.44% mobile penetration, March 2026",
+   "country_label": "120.44",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

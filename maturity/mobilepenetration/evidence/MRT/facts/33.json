@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-24-mrt-mauritania-opens-digital-service-centers-to-expand-access-to-online-pu",
+ "facts": [
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "estimate:79.1",
+   "fact": "Ecofin, citing ITU estimates, says 79.1% of Mauritania's population owns a mobile phone.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ITU estimate",
+   "class": "ownership"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

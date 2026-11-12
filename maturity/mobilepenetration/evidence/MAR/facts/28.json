@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-mar-digital-development-dashboard-morocco-infrastructure-access",
+ "facts": [
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "estimate:96",
+   "fact": "The ITU Digital Development Dashboard gives 96% of individuals in Morocco owning a mobile phone in 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "ITU Digital Development Dashboard",
+   "class": "ownership"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
