@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: BDI
-ledger_rows: 18
+ledger_rows: 19
 not_held: 10
-record: 8c4ea3de47a9
+record: bd18e8d98c87
 ---
 
 # News, Oct – Nov 2026
@@ -350,6 +350,8 @@ Summarised under [AI](#ai).
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geospatial-data">Geospatial data</a>
 </nav>
 
 ### National statistics
@@ -363,6 +365,22 @@ Summarised under [AI](#ai).
 **[La Primature lance officiellement les activités du Recensement Général des Entreprises du Burundi, édition 2026](https://primature.gov.bi/la-primature-lance-officiellement-les-activites-du-recensement-general-des-entreprises-du-burundi-edition-2026/)** — Primature du Burundi, 15 October 2026
 
 Burundi's Prime Minister's Office launched the 2026 General Enterprise Census on 15 October 2026 to count formal and informal enterprises nationwide. The data will update the national enterprise register and feed the rebasing of the national accounts, and will be covered by statistical secrecy and barred from use in tax control or judicial investigation.
+
+</div>
+
+</div>
+
+### Geospatial data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Satellite data in meteorology and early warning</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Alertes](https://www.igebu.bi/alerte/)** — Institut Géographique du Burundi (IGEBU), 4 November 2026
+
+IGEBU's public archive of graded, region-specific rain alerts, March to November 2026.
 
 </div>
 
