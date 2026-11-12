@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-01
 intersections_read: 6
-sources_cited: 192
+sources_cited: 193
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -297,7 +297,7 @@ Cabinet approved a [National AI in Education Framework 2026-2030 on 22 July 2026
 ### Digital divides
 <!-- include.divides -->
 
-[The 2023-2025 Open Government Partnership action plan commits to raising IT literacy among the elderly](https://www.opengovpartnership.org/wp-content/uploads/2024/02/Seychelles_Action-Plan_2023-2025_December.pdf). [It also commits to leaving no one behind in digital engagement](https://www.opengovpartnership.org/wp-content/uploads/2024/02/Seychelles_Action-Plan_2023-2025_December.pdf).
+[The 2023-2025 Open Government Partnership action plan committed to raising IT literacy among the elderly](https://www.opengovpartnership.org/wp-content/uploads/2024/02/Seychelles_Action-Plan_2023-2025_December.pdf). [In July 2026 its independent results report recorded that digital-transformation commitment as dropped from the plan](https://www.opengovpartnership.org/wp-content/uploads/2026/07/Seychelles_Results-Report_2023%E2%80%932025_EN.pdf).
 
 [In 2023 Seychelles had Africa's highest GDP per capita, at USD 17,879](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf). [It had the continent's smallest population, around 0.1 million (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf). [Its internet access and computer use rose faster over the decade to 2023 than any other part of its infrastructure](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf).
 
