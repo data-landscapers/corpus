@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-08-egy-egypt-s-financial-inclusion-rate-rises-to-79-in-june-2026",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The CBE Deputy Governor said mobile wallets, including Meeza Digital wallets, numbered about 67 million by September 2026, with transactions above EGP 4 trillion.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Meeza Digital mobile wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "InstaPay / Instant Payment Network",
+   "country_label": "InstaPay (IPN)",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Meeza Digital",
+   "country_label": "Meeza Digital wallets",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states nothing on this for Egypt."
+}

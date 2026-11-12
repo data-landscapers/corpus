@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-20-rwa-96-of-rwandans-are-financially-included-finscope-survey-2024",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MINECOFIN says about 86% of Rwandans (6.9 million) used mobile money in 2024, per the FinScope 2024 survey.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

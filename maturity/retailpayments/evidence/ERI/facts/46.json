@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-01-eri-terms-and-conditions-of-service",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Himbol Community Financial Services' terms effective November 2025 describe the M-Nakfa mobile money wallet as in operation for cash-in, cash-out, person-to-person transfers, merchant payments and utility bill settlements, under Bank of Eritrea oversight.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "M-Nakfa",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Nakfa",
+   "country_label": "M-Nakfa",
+   "class": "retail",
+   "platform": "",
+   "owner": "Himbol Community Financial Services",
+   "tiers": ""
+  }
+ ],
+ "note": "Interoperability and a national switch are not stated."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-28-tgo-togocom-launches-new-subsidiary-to-manage-mobile-money-segment",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Togo First reports 3.55 million mobile money users in Togo in Q1 2024, on Tmoney and Flooz.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Tmoney; Flooz",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

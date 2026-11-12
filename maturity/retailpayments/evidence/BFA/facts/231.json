@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-29-bfa-reglementation-bancaire-au-faso-des-innovations-en-reponse-aux-mutatio",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "L'Economiste du Faso names Orange Money Burkina Faso as the licensed e-money institution and lists bank-partnered mobile money offers including Moov Money, Wave, Coris-Money, Telecel money and BMoney, per official BCEAO data.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "Orange Money; Moov Money; Wave; Coris-Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

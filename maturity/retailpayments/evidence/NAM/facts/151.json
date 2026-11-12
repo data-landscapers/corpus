@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-20-nam-new-united-paypoint-to-make-payments-easier",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "New Era reports United PayPoint launched on 19 November 2025 as a licensed e-money and wallet provider, with its services set to launch in early 2026.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "United PayPoint",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "United PayPoint",
+   "country_label": "Namibia",
+   "class": "retail",
+   "platform": "mobile wallet and USSD",
+   "owner": "United Africa Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

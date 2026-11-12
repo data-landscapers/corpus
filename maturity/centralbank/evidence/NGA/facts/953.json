@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-05-nga-directive-to-disconnect-switches-payment-solution-service-providers-an",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "NIBSS's circular says the CBN licenses switches, payment solution service providers, super agents and deposit-taking institutions, and that their licences do not permit them to hold customer funds.",
+   "as_of": "2023-12-05",
+   "date_precision": "day",
+   "system": "CBN payment service provider licences",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

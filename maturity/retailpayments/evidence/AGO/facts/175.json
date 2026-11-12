@@ -1,0 +1,36 @@
+{
+ "slug": "2024-08-29-ago-dezasseis-empresas-autorizadas-pelo-bna-a-emitir-moeda-electronica",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Expansão reports that Banco Nacional de Angola (BNA) has authorised 16 payment service providers, including Africell (Afrimoney) and Unitel (Unitel Money), to issue electronic money, and individuals and firms can already open e-money accounts with them.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "e-money accounts at 16 authorised PSPs",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Expansão reports that BNA's KWiK instant payment arrangement is the official mechanism for e-money and guarantees interoperability among the payment service providers.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "KWiK",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KWiK",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "instant payment arrangement",
+   "owner": "BNA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

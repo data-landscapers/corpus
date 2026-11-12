@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-08-sdn-ebs-ceo-to-sudanhorizon-new-national-payment-switch-launching-soon-mar",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "EBS, the Central Bank of Sudan's operating arm for electronic payments, supports retail payment services, electronic purchases and bill payments, and has processed over 234 million account-to-account transfers between banks since resuming operations last year.",
+   "as_of": "2026-07-08",
+   "date_precision": "day",
+   "system": "EBS payment services",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payment Switch",
+   "country_label": "Sudan",
+   "class": "retail",
+   "platform": "switch",
+   "owner": "Electronic Banking Services Company (EBS)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

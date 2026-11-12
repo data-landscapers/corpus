@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-10-com-communique-de-la-banque-centrale-des-comores-sur-l-exercice-illegal-d",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Banque Centrale des Comores states that authorising banks and financial institutions is its exclusive remit and lists Telco Money SA and Hury Money SA as the legally established e-money institutions.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "BCC list of authorised institutions",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

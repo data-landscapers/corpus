@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-02-xwa-services-de-paiement-umoa-les-fintech-ont-jusqu-au-31-aout-pour-se-reg",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The BCEAO had granted one payment service provider licence in Niger by 27 May 2025, per Agence Ecofin.",
+   "as_of": "2025-05-27",
+   "date_precision": "day",
+   "system": "BCEAO Instruction 001-01-2024",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

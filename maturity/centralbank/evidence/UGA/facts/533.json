@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-03-uga-issuance-of-licences-under-the-national-payment-systems-act-cap-59-pub",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Bank of Uganda's public notice says it has licensed 54 payment system operators, payment service providers and issuers of payment instruments since March 2021 under the National Payment Systems Act, Cap 59.",
+   "as_of": "2025-12-03",
+   "date_precision": "day",
+   "system": "National Payment Systems Act, Cap 59",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

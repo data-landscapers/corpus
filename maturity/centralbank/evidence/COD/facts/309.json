@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-21-cod-dr-congo-clears-myriad-to-operate-as-a-payment-aggregator",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Myriad says the Central Bank of the Congo authorised it on or before 20 July 2026 to operate as a payment aggregator and payment software provider, a category the BCC classes as payment ancillary service providers.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "BCC payment aggregator authorisation",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-17-tun-ooredoo-fintech-tunisie-obtient-l-agrement-de-la-bct-et-lance-walletii",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Ooredoo Fintech Tunisie announced it obtained the Central Bank of Tunisia's authorisation to launch the walletii digital wallet, as reported by THD from the company communique.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "BCT authorisation of walletii",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

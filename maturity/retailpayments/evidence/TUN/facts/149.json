@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-17-tun-ooredoo-fintech-tunisie-obtient-l-agrement-de-la-bct-et-lance-walletii",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Ooredoo Fintech Tunisie says it has the central bank's authorisation to officially launch walletii by Ooredoo, a wallet for bill payments, transfers and cash withdrawals, per THD.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "walletii by Ooredoo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "walletii by Ooredoo",
+   "country_label": "Tunisia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Ooredoo Fintech Tunisie",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

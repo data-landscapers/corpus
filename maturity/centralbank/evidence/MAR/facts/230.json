@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-mar-adhesion-swam-switch-al-maghrib",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Switch Al Maghrib says membership of its national card and mobile switch requires a Bank Al-Maghrib licence and Bank Al-Maghrib's opinion on each application, and that its financial security mechanisms are validated by Bank Al-Maghrib.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SWAM Switch Al Maghrib",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SWAM Switch Al Maghrib",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "card and mobile switch",
+   "owner": "Switch Al Maghrib",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

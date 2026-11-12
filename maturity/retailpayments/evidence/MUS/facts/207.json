@@ -1,0 +1,34 @@
+{
+ "slug": "2025-04-23-mus-a-digital-hub-in-the-indian-ocean-the-pgp-research-team-in-mauritius",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The IDOS research team blog says the team examined the introduction of India's UPI and RuPay payment systems in Mauritius, without giving launch dates or volumes.",
+   "as_of": "2025-04-23",
+   "date_precision": "day",
+   "system": "UPI; RuPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UPI",
+   "country_label": "Mauritius",
+   "class": "retail",
+   "platform": "instant payment",
+   "owner": "India",
+   "tiers": ""
+  },
+  {
+   "system": "RuPay",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "card scheme",
+   "owner": "India",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

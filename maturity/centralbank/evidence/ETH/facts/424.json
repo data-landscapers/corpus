@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-24-eth-ethiopia-doubles-capital-threshold-for-mobile-money-providers-as-centr",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The National Bank of Ethiopia on 12 May 2025 replaced its directive on Payment Instrument Issuers, the licensed non-bank e-money issuers, and raised their minimum paid-up capital from 50 million to 100 million birr.",
+   "as_of": "2025-05-12",
+   "date_precision": "day",
+   "system": "Payment Instrument Issuers directive",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

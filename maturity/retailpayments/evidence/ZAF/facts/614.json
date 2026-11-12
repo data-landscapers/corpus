@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-09-zaf-end-of-an-era-for-south-africa-s-payments-system",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "eriinfo reports that electronic transfers, debit orders and instant payments, which most South Africans use daily, are run by PayInc, and PayShap is being standardised.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "PayShap",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

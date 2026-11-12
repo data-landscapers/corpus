@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-27-tun-inclusion-financiere-mondiale-un-record-historique-de-titulaires-de-co",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Tunisie Numerique, citing Central Bank data for the first half of 2025, says Tunisia had 371,000 e-wallets across 16 authorised mobile service providers, used for transfers, payments and cash withdrawals.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "e-wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-08-tun-paiement-mobile-ouverts-dormants",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "African Manager, citing the BCT's 2025 supervision report, says Tunisia had six authorised payment institutions at end-2025, five of them active, with a seventh in 2026, and that the BCT issued circular 2026-10 on payment account rules.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Payment institutions",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Payment institutions (etablissements de paiement)",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "mobile/agent accounts",
+   "owner": "non-bank licensed institutions",
+   "tiers": "three account levels"
+  }
+ ],
+ "note": ""
+}

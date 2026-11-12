@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,centralbank,mandate,coverage,,,,,nothing found
+UGA,centralbank,mandate,coverage,licensing,2025-12,UGA-003;UGA-004;UGA-005,,
 UGA,centralbank,switch,coverage,overseen,2026-11-03,UGA-002,,
 UGA,centralbank,regional,coverage,regional,2025,UGA-001,,

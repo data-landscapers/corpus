@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-14-lby-governor-of-the-central-bank-of-libya-discusses-with-the-international",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Central Bank of Libya says it holds a licensing regulation for electronic payment companies, which it intends to update with IMF technical support to prepare initial drafts.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "Licensing regulation for electronic payment companies",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

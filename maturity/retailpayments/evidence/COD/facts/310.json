@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-11-cod-digital-finance-and-institutional-trust-in-the-drc-building-the-founda",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The paper says active mobile money users in the DRC rose from about eight million in 2020 to more than twenty-three million in 2024, citing GSMA, and notes lack of interoperability between providers.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "DRC",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

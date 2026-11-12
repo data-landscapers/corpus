@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-mli-mali-nouvelles-regles-pour-les-transferts-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The BCEAO launched the PI-SPI interoperable instant payment platform on 30 September 2025 and, from 2 November 2026, sets that interoperable transfers between wallets, banks and other institutions go through it with fee caps, per APA.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": "PI-SPI is regional; not a PAPSS fact."
+}

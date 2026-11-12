@@ -21,8 +21,8 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 | Stage | Countries |
 |---|---|
 | 5 Leading | 7 |
-| 4 Operating | 40 |
-| 3 Established | 7 |
+| 4 Operating | 42 |
+| 3 Established | 5 |
 | 2 Nascent | 0 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -179,6 +179,14 @@ The central bank ran or oversaw a national payment switch in 2026; no source fou
 - The Central Bank of Eswatini says the Eswatini Payment Switch fast payments platform is fully active, connecting banks and mobile money providers in real time, 24/7 ([source, 2026-09-21](https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/)).
 - The article says the Central Bank of Eswatini's Fast Payments system enables transactions across different account types and wallets, and the central bank describes the Eswatini Payment Switch as its payments infrastructure ([source, 2026-09-09](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/)).
 
+### Ethiopia: 4 Operating
+
+The central bank licenses payment providers and in 2025 mandated an instant payment system; Ethiopia joined PAPSS in 2026, with no live payments found.
+
+- The National Bank of Ethiopia licenses ETTA's ZooryaPay as a Payment System Operator, per the Capital newspaper report ([source, 2026-10](https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/)).
+- Directive 1069/2025 defines payment service providers as those licensed or authorized by the National Bank of Ethiopia to issue payment instruments, and requires federal public bodies to accept payments from all of them ([source, 2025-05-26](https://www.mofed.gov.et/media/filer_public/7e/a5/7ea5bf66-de9b-447d-b34d-8ca9667ddf50/1069_2017_yamanegesete_maseriyaa_beetoce_faqaade_katasathaacawe_yakefeyaa_agalegelote_sachiwoce_kefeyaa_yamiqabalubatene.pdf)).
+- Ethiopian Monitor reports that the National Bank of Ethiopia made interoperability among mobile wallets mandatory and mandated financial institutions to participate in the Ethiopian Instant Payment System (EIPS) ([source, 2025-05](https://ethiopianmonitor.com/2025/05/27/nbe-mandates-interoperability-among-mobile-wallets/)).
+
 ### Gabon: 4 Operating
 
 The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
@@ -282,6 +290,13 @@ The central bank ran or oversaw a national payment switch in 2026; no source fou
 - The National Bank of Rwanda says it monitors the eKash payment and transfer system, launched nationally on 14 July 2026, and works with providers to fix disruptions ([source, 2026-09-02](https://radiotv10.rw/en/rwandas-new-ekash-payment-system-wins-praise-but-users-report-lingering-transfer-glitches/)).
 - Taarifa reports that interoperability runs through the National Bank of Rwanda's eKash platform, rolled out months before July 2026 ([source, 2026-07](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/)).
 
+### Sao Tome and Principe: 4 Operating
+
+The central bank licenses payment providers and in 2026 was expanding its domestic payment network; no source found says the country is live on PAPSS.
+
+- The BCSTP, as regulator of the financial system, has since June 2023 been easing licensing requirements for payment institutions and bureaux de change, and eased some documentation requirements again for twelve months (communiqué of 20 January 2025) ([source, 2025-01-20](https://rstp.st/2025/01/20/comunicado-banco-central-de-sao-tome-e-principe-bcstp/)).
+- Banco Central de São Tomé e Príncipe's financial inclusion director told the Alliance for Financial Inclusion that it is implementing interoperability requirements for all market players and expanding the Dobra24 domestic interoperable retail payment infrastructure ([source, 2026-09](https://afi-global.org/opinion/financial-inclusion-in-sao-tome-and-principe/)).
+
 ### Senegal: 4 Operating
 
 The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
@@ -366,24 +381,11 @@ The central bank licensed payment providers in 2025; no source found reports a n
 
 - Himbol's guide says Himbol, which runs the M-Nakfa mobile wallet and remittance payout, operates under the supervision and licensing of the Bank of Eritrea ([source, 2025](https://erihimbol.com/assets/Himbol%20-%20Customers%20and%20Partners%20Guide-CrBqoCzf.pdf)).
 
-### Ethiopia: 3 Established
-
-The central bank licensed payment providers in 2026; no source found reports a national switch it oversees.
-
-- The National Bank of Ethiopia licenses ETTA's ZooryaPay as a Payment System Operator, per the Capital newspaper report ([source, 2026-10](https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/)).
-- Directive 1069/2025 defines payment service providers as those licensed or authorized by the National Bank of Ethiopia to issue payment instruments, and requires federal public bodies to accept payments from all of them ([source, 2025-05-26](https://www.mofed.gov.et/media/filer_public/7e/a5/7ea5bf66-de9b-447d-b34d-8ca9667ddf50/1069_2017_yamanegesete_maseriyaa_beetoce_faqaade_katasathaacawe_yakefeyaa_agalegelote_sachiwoce_kefeyaa_yamiqabalubatene.pdf)).
-
 ### Madagascar: 3 Established
 
 The central bank licensed payment providers in 2026; no source found reports a national switch it oversees.
 
 - The CSBF, attached to the Banky foiben'i Madagasikara, holds the legal power under the e-money institutions law to grant or withdraw licences, issue regulatory instructions and audit e-money institutions, per 2424.mg ([source, 2026-06-11](https://2424.mg/mobile-money-les-autorites-annoncent-des-audits-du-systeme-des-etablissements-de-monnaie-electronique/)).
-
-### Sao Tome and Principe: 3 Established
-
-The central bank licensed payment providers in 2025; no source found reports a national switch it oversees.
-
-- The BCSTP, as regulator of the financial system, has since June 2023 been easing licensing requirements for payment institutions and bureaux de change, and eased some documentation requirements again for twelve months (communiqué of 20 January 2025) ([source, 2025-01-20](https://rstp.st/2025/01/20/comunicado-banco-central-de-sao-tome-e-principe-bcstp/)).
 
 ### South Sudan: 3 Established
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-05-cmr-au-cameroun-le-mobile-money-progresse-et-atteint-plus-de-la-moitie-de",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The World Bank's Global Findex 2025, as reported by AZNA Press, finds 55% of Cameroonian adults hold a mobile money account in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

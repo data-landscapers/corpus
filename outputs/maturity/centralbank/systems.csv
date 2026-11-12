@@ -3,6 +3,8 @@ AGO,SPTR,Angola,oversight,,BNA,,2026-07-16-bna-conclui-migracao-iso-20022
 AGO,EMIS,Angola,other,,EMIS (interbank services company),,2026-10-14-ago-fintechs-emis-ia-seguranca-pagamentos-digitais
 AGO,Sistema de Transferencias Instantaneas (STI),Angola,other,KWiK,EMIS,,2026-10-08-fintechs-ao-africa-36-sistemas-pagamentos-instantaneos-interoperabilidade
 AGO,BAI-Visa agreement,Angola,other,Visa,BAI,,2026-09-24-targeting-bai-visa-digital-payments-angola
+AGO,Kwik,Angola,oversight,instant transfer system,Banco Nacional de Angola,,2025-08-27-ago-kwik-ganha-asas-e-transacciona-214-2-mil-milhoes-kz-em-seis-meses
+AGO,KWiK,Angola,oversight,instant payment arrangement,BNA,,2024-08-29-ago-dezasseis-empresas-autorizadas-pelo-bna-a-emitir-moeda-electronica
 BDI,Automated Transfer System (ATS),Burundi,oversight,ISO 20022,Bank of the Republic of Burundi,,2026-02-05-burundi-upgrades-payment-system-iso-20022
 BDI,BurundiPay,Burundi,other,,,,2026-10-10-bdi-burunditimes-eapss-paiements
 BDI,East African Payment System,Burundi,other,,,,2026-10-10-bdi-burunditimes-eapss-paiements
@@ -57,6 +59,7 @@ CMR,GIMACPAY,CEMAC,other,instant payment switch,"BEAC 99.2%, commercial banks 0.
 CMR,CEMAC interoperable QR code,CEMAC,other,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
 CMR,GIMAC,CEMAC,oversight,,,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
 CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
+CMR,GIMAC,Cameroon,other,,,,2025-06-13-cmr-wave-entre-officiellement-sur-le-marche-des-paiements-mobiles-au-camer
 COD,PAPSS,Democratic Republic of the Congo,other,,Afreximbank,,2026-09-22-cod-standard-drc-joins-papss
 COD,PAPSS,PAPSS,other,,,,2026-09-21-cod-actualitecd-bcc-adhesion-papss-eac-convertibilite
 COD,EAC currency convertibility MoU,EAC central banks MoU,other,,,,2026-09-21-cod-actualitecd-bcc-adhesion-papss-eac-convertibilite
@@ -92,6 +95,7 @@ CPV,STII,CPV,other,open-source interoperable software,Banco de Cabo Verde; SISP 
 CPV,SICIL (Sistema Integrado de Compensação Interbancária e Liquidação),Cabo Verde,oversight,,"Banco de Cabo Verde, operated by SISP","cheques, credit transfers, cards",2025-01-01-bcv-sistema-de-pagamentos
 CPV,SGDL,Cabo Verde,other,,Banco de Cabo Verde,,2025-01-01-bcv-sistema-de-pagamentos
 CPV,SIGMA,Cabo Verde,other,,Banco de Cabo Verde,,2025-01-01-bcv-sistema-de-pagamentos
+CPV,SGDL,Cabo Verde,oversight,clearing and settlement,,,2026-09-25-cpv-mais-cabo-verdianos-com-contas-bancarias-e-maior-uso-de-pagamentos-dig
 DJI,PAPSS,Djibouti,other,,,,2024-01-01-siips-2024-djibouti-excerpt
 DJI,Système de Règlement Automatisé de Djibouti (SYRAD),Djibouti,other,,,,2024-01-01-siips-2024-djibouti-excerpt
 DJI,PAPSS,Djibouti,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
@@ -239,6 +243,7 @@ MAR,PAPSS,Morocco,other,Pan-African Payment and Settlement System,PAPSS,Live soo
 MAR,PAPSS,Morocco,oversight,regional payment and settlement system,Afreximbank,,2025-08-15 Bank of Algeria joins PAPSS network
 MAR,Switch Al Maghrib interoperable mobile payment,Morocco,other,,Switch Al Maghrib,,2026-09-27-mar-instant-payment-mfc-talks
 MAR,Switch Al-Maghrib,Morocco,other,national payment switch,Switch Al-Maghrib,,2026-11-04-switch-al-maghrib-on-future-of-payments
+MAR,SWAM Switch Al Maghrib,Morocco,other,card and mobile switch,Switch Al Maghrib,,2026-06-01-mar-adhesion-swam-switch-al-maghrib
 MDG,Commission de supervision bancaire et financière (CSBF),CSBF,oversight,,BFM,,2026-06-11-bfm-audits-eme-2424-mg
 MLI,PI-SPI,Mali,other,regional instant payment platform,BCEAO,,2026-04-02-bceao-liste-participants-pi-spi
 MLI,Orange Finances Mobiles Mali,Mali,other,mobile money,Orange,,2026-04-02-bceao-liste-participants-pi-spi
@@ -314,6 +319,7 @@ RWA,e-Kash,Rwanda,other,common payment platform,,"banks, SACCOs, other financial
 RWA,eKash,Rwanda,oversight,national instant payment system,,,2026-09-10-rwa-ktpress-bnr-cashless-campaign-92-percent-cash
 RWA,eKash,Rwanda,other,,National Bank of Rwanda,,2026-09-02-rwandas-new-ekash-payment-system-wins-praise-but-users-repor
 RWA,eKash,Rwanda,other,RSwitch national switch,RSwitch,"banks, mobile money providers, SACCOs, microfinance institutions",2026-10-26-rwa-why-ekash-does-not-handle-same-network-transfers
+RWA,eKash,Rwanda,other,RSwitch,RSwitch,,2026-11-09-rwa-early-lessons-from-rwanda-s-ekash-rollout-cheaper-payments-sharper-com
 SDN,"Financial switch operators (Bright Technologies, Al-Asjad, Nahda, SudaPost)",SDN,oversight,,licensed by Central Bank of Sudan,,2026-07-04-cbos-revokes-al-asjad-payment-switch-licence
 SDN,PAPSS,Sudan,other,,,,2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030
 SDN,COMESA REPSS,Sudan,other,,,,2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030
@@ -327,6 +333,7 @@ SDN,clearinghouse system,Clearinghouse system Sudan,oversight,,Central Bank of S
 SDN,Sah,Sudan,other,mobile app and USSD *500#,Sudani Fintech,,2026-04-14-sdn-sudani-fintech-officially-launches-sah-platform
 SDN,Siraj RTGS,Siraj,other,,Central Bank of Sudan,,2026-11-09-sdn-cbs-restoring-banking-systems
 SDN,National switching system,National switch,oversight,,Central Bank of Sudan,,2026-11-09-sdn-cbs-restoring-banking-systems
+SDN,National Payment Switch,Sudan,oversight,switch of switches,Electronic Banking Services Company (EBS),,2026-07-08-sdn-ebs-ceo-to-sudanhorizon-new-national-payment-switch-launching-soon-mar
 SEN,PI-SPI,Senegal,oversight,instant payment,BCEAO,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,PI-SPI,PI-SPI,other,,BCEAO,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Orange Money,Orange Money,other,,Orange,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
@@ -347,6 +354,7 @@ SLE,National Payments Strategy,Sierra Leone,oversight,,Bank of Sierra Leone,,202
 SLE,National Instant Payment Switch,Sierra Leone,oversight,,Bank of Sierra Leone,,2025-02-14 Sierra Leone Launches National Instant Payment System
 SLE,Salon Payment Switch,Sierra Leone,oversight,,Bank of Sierra Leone,,2026-01-21-sle-sierra-leone-pushes-cash-lite-economy-as-digital-payments-surge
 SLE,Instant Payment System (IPS),Sierra Leone,other,,Bank of Sierra Leone,,2026-01-21-sle-sierra-leone-pushes-cash-lite-economy-as-digital-payments-surge
+SLE,National Payment Switch Instant Payment Service,Sierra Leone,oversight,,Bank of Sierra Leone,,2025-02-12-sle-ministry-of-information-and-civic-education-s-press-conference
 SOM,SIPS,Somalia,other,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
 SOM,SOMQR,Somalia,other,QR code standard,,,2026-07-27-somalia-expand-instant-payment-system-hiiraan
 SOM,Somalia Instant Payment System (SIPS),Somalia,other,ISO 20022,Somalia Payment Switch (Central Bank and 13 banks),,2026-07-26-sonna-central-bank-one-payments-network
@@ -370,6 +378,7 @@ SSD,National Instant Payment System,South Sudan,oversight,,Bank of South Sudan,,
 SSD,Interbank Payment and Settlement System,South Sudan,other,,Bank of South Sudan,,2026-10-12-ssd-ramdiet-digital-payments-everyday-use
 SSD,Interbank Payment and Settlement System,South Sudan,oversight,,Bank of South Sudan,,2025-10-10-boss-launches-first-electronic-interbank-payment-system
 SSD,Real-Time Gross Settlement (RTGS),South Sudan,other,,Bank of South Sudan,,2026-05-20-rtgs-system-uptake-cajnews
+STP,Dobra24,São Tomé and Príncipe,oversight,domestic interoperable retail payment infrastructure,,,2026-09-23-stp-financial-inclusion-in-sao-tome-and-principe
 SWZ,MTN Fintech Limited,Eswatini,other,,,,2025-01-01-central-bank-eswatini-national-payment-systems
 SWZ,E-Mali (Pty) Ltd,Eswatini,other,,,,2025-01-01-central-bank-eswatini-national-payment-systems
 SWZ,Instacash Services,Eswatini,other,,,,2025-01-01-central-bank-eswatini-national-payment-systems
@@ -380,6 +389,7 @@ SWZ,SWIPSS,Eswatini,other,,,,2025-01-01-central-bank-eswatini-national-payment-s
 SWZ,Eswatini Payment Switch,Eswatini,oversight,,Central Bank of Eswatini,,2026-10-12-swz-deltapay-brings-instant-payments-closer-to-home-eswatini-pos
 SWZ,Eswatini Payment Switch,Eswatini,oversight,"national switch, fast payments",Central Bank of Eswatini,,2026-09-21-swz-observer-eswatini-payment-switch-live
 SWZ,Fast Payments,Eswatini,oversight,fast payments,Central Bank of Eswatini,,2026-09-09-swz-observer-standard-bank-unayo-phased-out-integrated-banking
+SWZ,DeltaPay,Eswatini,oversight,mobile money,DeltaPay,,2026-05-13-swz-deltapay-secures-full-mobile-money-licence
 SYC,SEFT,Seychelles,other,Seychelles Electronic Funds Transfer,,,2024-09-22 Seychelles to phase out cheques for financial transactions from 2025
 SYC,Fusepay,Seychelles,oversight,B2B payments platform,Fusepay,,2025-11-27-dabafinance-fusepay-preseed
 SYC,Fusepay,Seychelles,other,"digital money accounts, instant payments, FuseCheq",Fusepay,,2025-11-14-fusepay-psp-licence-approval
@@ -421,6 +431,7 @@ TUN,Elyssa RTGS,Tunisia,other,,,,2024-05-28-bct-note-2024-77-adhesion-papss
 TUN,PAPSS,Tunisia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
 TUN,PAPSS,Tunisia,oversight,regional payment and settlement system,Afreximbank,,2025-08-15 Bank of Algeria joins PAPSS network
 TUN,Circular 2026-10,Tunisia,oversight,,Central Bank of Tunisia,payment account Levels 1-3,2026-10-14-tun-africanmanager-bct-circular-2026-10-payment-limits
+TUN,Payment institutions (etablissements de paiement),Tunisia,other,mobile/agent accounts,non-bank licensed institutions,three account levels,2026-11-08-tun-paiement-mobile-ouverts-dormants
 TZA,TIPS,Tanzania,oversight,,,,2026-07-28-tanzania-financial-inclusion-expands-usage-gap-next-challenge
 TZA,TIPS,Tanzania,other,,Bank of Tanzania,,2026-07-10-eac-tanzania-rwanda-cross-border-payments
 TZA,TIPS,Tanzania,oversight,Tanzania Instant Payment System,Bank of Tanzania,,2026-04-28-interoperability-costs-cut-113-agencies
@@ -441,6 +452,7 @@ ZAF,PayShap,South Africa,other,,,,2026-07-13-sarb-qr-plus-checkout
 ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout
 ZAF,SADC-RTGS,SADC Real Time Gross Settlement System,other,,,,2026-10-17-zaf-sarb-nps-regulation-page
 ZAF,TCIB,South Africa,other,,,,2026-10-20-zaf-rewiring-payments-open-connected-inclusive
+ZAF,PayInc,South Africa,oversight,payments infrastructure company,"Reserve Bank 50%, banks 50%",,2026-09-09-zaf-end-of-an-era-for-south-africa-s-payments-system
 ZMB,National Financial Switch,Zambia,oversight,,,,2026-07-27-zambia-from-rails-to-routine-national-financial-switch
 ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-payment-system-china-cips
 ZMB,ZIPSS,ZIPSS,other,RTGS,Bank of Zambia,,2026-01-01-zmb-boz-nps-annual-report-2024

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-03-mrt-la-bcm-fixe-le-montant-quotidien-autorise-pour-les-transferts-au-nivea",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Per Sahara Medias, BCM set limits on money transfers, merchant payments, airtime and bill payments made through phone-based payment applications, which implies these services run.",
+   "as_of": "2024-03-03",
+   "date_precision": "day",
+   "system": "mobile payment applications",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile payment applications",
+   "country_label": "Mauritania",
+   "class": "retail",
+   "platform": "mobile",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

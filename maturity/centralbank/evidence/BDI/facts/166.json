@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-09-bdi-liste-des-etablissements-de-paiements",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Banque de la Republique du Burundi publishes its register of payment institutions, listing twelve active ones (eight international remitters, three e-money issuers, one aggregator) with licence numbers and licence withdrawals for two e-money issuers.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "Etablissements de paiement register",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

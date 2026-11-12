@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-12-sle-ministry-of-information-and-civic-education-s-press-conference",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Bank of Sierra Leone governor said the Instant Payment Service under the National Payment Switch enables instant transfers between banks and mobile money platforms, with seven banks plus Orange Money and Afrimoney connected.",
+   "as_of": "2025-02-11",
+   "date_precision": "day",
+   "system": "National Payment Switch Instant Payment Service",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payment Switch Instant Payment Service",
+   "country_label": "Sierra Leone",
+   "class": "retail",
+   "platform": "",
+   "owner": "Bank of Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-23-tgo-mixx-togo-premier-etablissement-de-monnaie-electronique-agree-par-la-b",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The BCEAO granted Mixx Togo an electronic money institution licence, making it Togo's first, per Finances AO.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "BCEAO EME licence",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

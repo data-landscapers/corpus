@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-09-zaf-end-of-an-era-for-south-africa-s-payments-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "eriinfo reports that licensing, authorisation and registration of payment institutions moved to the South African Reserve Bank when its recognition of the Payments Association of South Africa lapsed on 2 September 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "South African Reserve Bank payment system functions",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "eriinfo reports that the Reserve Bank took over the clearing houses for card and high-value payments and holds 50% of PayInc, which now runs low-value payments including instant payments.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "PayInc",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "eriinfo reports that a directive requires banks in the Common Monetary Area to migrate low-value cross-border payments from the SADC real-time gross settlement system to TCIB by March 2027.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "TCIB",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PayInc",
+   "country_label": "South Africa",
+   "class": "oversight",
+   "platform": "payments infrastructure company",
+   "owner": "Reserve Bank 50%, banks 50%",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

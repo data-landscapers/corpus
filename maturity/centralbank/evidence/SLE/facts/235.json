@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-12-sle-ministry-of-information-and-civic-education-s-press-conference",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of Sierra Leone governor announced the Instant Payment Service under the National Payment Switch, with seven banks and Orange Money and Afrimoney connected, launching officially 13 February 2025.",
+   "as_of": "2025-02-11",
+   "date_precision": "day",
+   "system": "National Payment Switch Instant Payment Service",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payment Switch Instant Payment Service",
+   "country_label": "Sierra Leone",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

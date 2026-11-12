@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-rwa-early-lessons-from-rwanda-s-ekash-rollout-cheaper-payments-sharper-com",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "ICTD reports the National Bank of Rwanda made eKash, RSwitch's national interoperable payment system, mandatory for off-net payments up to RWF 10 million from July 2026, and monitors and fines providers for downtime.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "eKash",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "RSwitch",
+   "owner": "RSwitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

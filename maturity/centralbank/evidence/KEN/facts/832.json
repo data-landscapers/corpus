@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-06-ken-directory-of-authorized-payment-service-providers-psps-as-at-november",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Central Bank of Kenya's directory as at 6 November 2025 lists 41 authorised payment service providers, including mobile money issuers such as Safaricom, Airtel Money and Telkom Kenya.",
+   "as_of": "2025-11-06",
+   "date_precision": "day",
+   "system": "CBK directory of authorised PSPs",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": "Switch operators are listed as authorised infrastructure, but none is called a national switch."
+}

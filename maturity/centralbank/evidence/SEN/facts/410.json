@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-25-sen-senegal-apres-wave-quickpay-obtient-l-agrement-d-etablissement-de-monn",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The BCEAO granted Quickpay an electronic money institution licence on 3 March 2025, announced 24 March, per Agence Ecofin.",
+   "as_of": "2025-03-03",
+   "date_precision": "day",
+   "system": "EME licence",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

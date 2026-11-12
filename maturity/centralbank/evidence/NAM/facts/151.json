@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-20-nam-new-united-paypoint-to-make-payments-easier",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "New Era reports United PayPoint is a licensed Payment Service Provider with Bank of Namibia authorisation to issue e-money and provide payment intermediary services, as stated by the company.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Bank of Namibia PSP authorisation",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

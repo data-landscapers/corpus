@@ -1,0 +1,42 @@
+{
+ "slug": "2026-05-28-gnq-paiement-mobile-au-bas-du-classement-en-zone-cemac-la-guinee-equatoria",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Ecomatin reports that Muni Dinero and BGFIMoney have offered transfers, bill payment and an electronic wallet since 2023, and that BEAC's 2024 payment services report counts 50,224 active mobile money accounts in Equatorial Guinea.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Muni Dinero; BGFIMoney",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Muni Dinero",
+   "country_label": "Equatorial Guinea",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "Muni S.A.",
+   "tiers": ""
+  },
+  {
+   "system": "BGFIMoney",
+   "country_label": "Equatorial Guinea",
+   "class": "retail",
+   "platform": "mobile banking",
+   "owner": "BGFIBank",
+   "tiers": ""
+  },
+  {
+   "system": "Getesa Money",
+   "country_label": "Equatorial Guinea",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "Getesa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

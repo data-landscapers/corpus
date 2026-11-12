@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-25-cpv-mais-cabo-verdianos-com-contas-bancarias-e-maior-uso-de-pagamentos-dig",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Expresso das Ilhas, reporting the Banco de Cabo Verde's 2025 payment system report, says the televinti4 service, which uses the vinti4 card through a mobile phone, had 50,866 users and 1,284,291 money-moving operations in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "televinti4",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "televinti4",
+   "country_label": "Cabo Verde",
+   "class": "retail",
+   "platform": "mobile",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

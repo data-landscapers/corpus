@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-29-bfa-reglementation-bancaire-au-faso-des-innovations-en-reponse-aux-mutatio",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "L'Economiste du Faso says that under the BCEAO e-money instruction of 21 May 2015 a non-bank company can obtain its own BCEAO approval as an e-money institution, and that Orange Money Burkina Faso is the only one to have done so.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "BCEAO e-money institution approval",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

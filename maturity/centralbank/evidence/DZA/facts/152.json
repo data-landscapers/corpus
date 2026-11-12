@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-19-dza-algeria-opens-for-fintech-new-psp-rules-create-a-playbook-for-payments",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Launchbase Africa reports Instruction 06-2025 requires payment service providers to integrate with the national payment and clearing systems overseen by the Bank of Algeria.",
+   "as_of": "2025-08-17",
+   "date_precision": "day",
+   "system": "national payment and clearing systems",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

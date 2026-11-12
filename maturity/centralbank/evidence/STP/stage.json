@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "centralbank",
-      "stage": "3",
+      "stage": "4",
       "mandate": "licensing",
-      "switch": "",
+      "switch": "overseen",
       "regional": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "STP-001",
-      "gaps": "No source found since October 2023 says the central bank runs or oversees a national switch.",
-      "note": "The BCSTP licenses payment institutions and eased its requirements again in January 2025. No switch has been found.",
-      "as_at": "2026-10-24"
+      "stage_sources": "STP-001;STP-002",
+      "gaps": "No source found gives Dobra24 volumes or participants. No source found says the country is live on PAPSS.",
+      "note": "The BCSTP licenses payment institutions and in 2026 said it is expanding Dobra24, the domestic interoperable retail payment network. No source found says the country is live on PAPSS.",
+      "as_at": "2026-11-12"
     }
   ]
 }

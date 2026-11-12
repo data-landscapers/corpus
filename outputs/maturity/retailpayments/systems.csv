@@ -20,6 +20,8 @@ AGO,Afrimoney,Angola,retail,mobile money,Africell,,2025-12-17-ago-afrimoney-lide
 AGO,Unitelmoney,Angola,retail,mobile money,,,2025-12-17-ago-afrimoney-lidera-queixas-de-clientes-das-instituicoes-financeiras-nao
 AGO,Paypay,Angola,retail,,,,2025-12-17-ago-afrimoney-lidera-queixas-de-clientes-das-instituicoes-financeiras-nao
 AGO,KWiK,Angola,retail,,,,2025-07-01-ago-bna-electronic-payments-2024-74-trillion-kwanzas
+AGO,Kwik,Angola,retail,instant transfer system,Banco Nacional de Angola,,2025-08-27-ago-kwik-ganha-asas-e-transacciona-214-2-mil-milhoes-kz-em-seis-meses
+AGO,KWiK,Angola,retail,instant payment arrangement,BNA,,2024-08-29-ago-dezasseis-empresas-autorizadas-pelo-bna-a-emitir-moeda-electronica
 BDI,BurundiPay,Burundi,retail,,Bank of the Republic of Burundi,,2026-08-06-burundi-burundipay-instant-payment-uptake-brb
 BDI,BurundiPay,Burundi,retail,"national instant payment system, ISO 20022, USSD",Banque de la Republique du Burundi,"banks, microfinance, payment service providers",2026-04-28-burundipay-real-time-payments-platform-wearetech
 BDI,BurundiPay,Burundi,retail,national instant payments platform,Bank of the Republic of Burundi,"banks, microfinance, mobile money",2026-04-25-burundipay-platform-connects-banks-microfinance-mobile-money
@@ -28,6 +30,8 @@ BDI,Burundi Pay,Burundi,retail,national instant payment system,Bank of the Repub
 BDI,BurundiPay,Burundi,retail,instant payment system,BRB,,2026-05-08-brb-interoperabilite-paiements-papss
 BDI,Mobile money,BDI,retail,,three providers,,2025-09-29-burundi-digital-payments-growth-cash-dominates
 BDI,BurundiPay,Burundi,retail,USSD,Banque de la Republique du Burundi,,2026-11-02-bdi-penurie-de-cash-et-si-on-payait-enfin-avec-nos-telephones
+BDI,Lumicash,Burundi,retail,e-money,Lumicash S.U,,2026-02-09-bdi-liste-des-etablissements-de-paiements
+BDI,Ecocash,Burundi,retail,e-money,Sasai Fintech Burundi SA,,2026-02-09-bdi-liste-des-etablissements-de-paiements
 BEN,PI-SPI,Benin,retail,,BCEAO,,2025-10-07-lancement-pi-spi-uemoa
 BEN,Mobile Money,Benin,retail,,,,2026-08-31-wearetech-benin-phital-azah-whatsapp-mobile-money
 BEN,PI-SPI,UEMOA (Benin),retail,instant payment platform,BCEAO,"banks, microfinance, e-money issuers, payment institutions",2026-05-29-pi-spi-banques-mobile-money-interconnectes
@@ -128,6 +132,9 @@ CIV,PI-SPI,Cote d'Ivoire,retail,instant payment platform,BCEAO,,2026-11-03-xwa-l
 CIV,Mobile Money,Côte d'Ivoire,retail,mobile money,,,2026-02-20-civ-resume-executif-enquete-nationale-msi-2024
 CIV,Djamo,Côte d'Ivoire,other,,Djamo,,2025-10-08-civ-symbiotics-drives-financial-inclusion-in-cote-d-ivoire-with-usd-3-5-mi
 CIV,Djamo,Côte d'Ivoire,other,,Djamo Côte d'Ivoire,,2025-02-20-civ-cdc-ci-capital-et-djamo-cote-d-ivoire-filiale-du-groupe-djamo-inc-sign
+CIV,Wave,Cote d'Ivoire,retail,mobile money,Wave,,2025-08-24-civ-en-cote-d-ivoire-l-inclusion-financiere-se-joue-desormais-sur-le-telep
+CIV,Orange Money,Cote d'Ivoire,retail,mobile money,Orange,,2025-08-24-civ-en-cote-d-ivoire-l-inclusion-financiere-se-joue-desormais-sur-le-telep
+CIV,MTN mobile money,Cote d'Ivoire,retail,mobile money,MTN,,2025-08-24-civ-en-cote-d-ivoire-l-inclusion-financiere-se-joue-desormais-sur-le-telep
 CMR,Orange Money Cameroun,Cameroun,retail,mobile money,Orange,,2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
 CMR,MTN Mobile Money,Cameroun,retail,mobile money,Mobile Money Corporation,,2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
 CMR,Konoom Mobile Money,Cameroun,retail,mobile money,Konoom Cameroun,,2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
@@ -155,6 +162,9 @@ CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Minist
 CMR,"Mobile money (Yoomee, MTN Mobile Money, Orange Money)",Cameroon,retail,,,,2025-05-01-cmr-procedure-d-obtention-des-titres-identitaires
 CMR,Orange Money,Cameroon,retail,,,,2025-10-09-cmr-cameroon-s-reasy-raises-1-8m-to-fix-how-africa-s-importers-pay-supplie
 CMR,MTN Mobile Money,Cameroon,retail,,,,2025-10-09-cmr-cameroon-s-reasy-raises-1-8m-to-fix-how-africa-s-importers-pay-supplie
+CMR,mobile money,Cameroon,retail,,,,2025-09-05-cmr-au-cameroun-le-mobile-money-progresse-et-atteint-plus-de-la-moitie-de
+CMR,MTN Mobile Money,Cameroon,retail,mobile money,MTN,,2025-06-13-cmr-wave-entre-officiellement-sur-le-marche-des-paiements-mobiles-au-camer
+CMR,Orange Money,Cameroon,retail,mobile money,Orange,,2025-06-13-cmr-wave-entre-officiellement-sur-le-marche-des-paiements-mobiles-au-camer
 COD,FlashApp,DRC,retail,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
 COD,MainMoney,COD,retail,Keyo palm biometrics,AI.Tech,,2026-05-11-mainmoney-palm-biometrics-financial-inclusion-drc-biometricupdate
 COD,MainMoney,DR Congo,retail,palm-vein payment terminal,MainMoney,,2026-04-30-mainmoney-palm-vein-lancement-actualite
@@ -164,6 +174,7 @@ COD,M-Pesa,DR Congo,retail,mobile money,,,2026-07-02 Visa tests stablecoins in D
 COD,VodaCash,DRC,retail,M-Pesa,Vodacom Congo,,2026-04-03-vodacom-congo-integrated-financial-ecosystem-inclusion-techreviewafrica
 COD,Visa Pay,DRC,retail,Onafriq,Visa,,2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC
 COD,Orange Money RDC,DRC,retail,USSD *144#,Orange,,2025-06-24-cod-une-nouvelle-etape-franchie-pour-orange-money-rdc
+COD,mobile money,DRC,retail,,,,2025-11-11-cod-digital-finance-and-institutional-trust-in-the-drc-building-the-founda
 COG,Yano,Congo,retail,payment aggregation gateway,"Yano (Regis Dilou, Elwin Gomo)",,2026-09-29-cog-aci-yano-fintech-mobile-payments
 COG,Airtel Money,COG,retail,,Airtel Congo,,2026-04-23-airtel-money-education-digitalisation-techreviewafrica
 COG,Mobile Money Congo (MMC),Congo,retail,,MTN with Ecobank,,2025-02-24-inclusion-financiere-mobile-money-tribune-okamba-ldb
@@ -183,11 +194,14 @@ COM,MVola,Comoros,retail,,AXIAN,,2026-02-24-axian-central-bank-approval-digital-
 COM,Decentralised Digital Financial Institution licence,Comoros,other,,AXIAN,,2026-02-24-axian-central-bank-approval-digital-finance-institution-techafricanews
 COM,Mvola Comores,Comoros,retail,mobile money,Telma Comores,,2024-02-22-com-transfert-d-argent-mvola-comores-lance-de-nouveaux-services
 COM,MVola,Comoros,retail,mobile money,Telco Money S.A. (Yas),,2025-01-16-com-mvola-particuliers
+COM,Telco Money SA,Comoros,retail,,,,2025-12-10-com-communique-de-la-banque-centrale-des-comores-sur-l-exercice-illegal-d
+COM,Hury Money SA,Comoros,retail,,,,2025-12-10-com-communique-de-la-banque-centrale-des-comores-sur-l-exercice-illegal-d
 CPV,Makeba,Cabo Verde,retail,,Banco BAI,,2021-09-30-cpv-balai-estudo-moeda-eletronica-makeba
 CPV,Televinti4,Cabo Verde,retail,mobile app,SISP,,2024-03-03-cpv-expressodasilhas-televinti4-penetracao-baixa
 CPV,Vinti4 network,Cabo Verde,other,card network,SISP,,2024-03-03-cpv-expressodasilhas-televinti4-penetracao-baixa
 CPV,Speed,Cabo Verde,retail,mobile phone,Banco de Cabo Verde,,2026-10-23-cpv-bcv-preve-lancar-projecto-piloto-do-sistema-de-pagamentos-speed-antes-do-final-d
 CPV,Speed,Cabo Verde,retail,mobile phone,Banco de Cabo Verde,,2026-10-24-cpv-bcv-volta-a-prometer-projecto-piloto-de-pagamento-speed
+CPV,televinti4,Cabo Verde,retail,mobile,,,2026-09-25-cpv-mais-cabo-verdianos-com-contas-bancarias-e-maior-uso-de-pagamentos-dig
 DJI,SYRAD,Djibouti,other,,,,2024-01-01-siips-2024-djibouti-excerpt
 DJI,PAPSS,Djibouti,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
 DJI,D-Money,D-Money,retail,smartphone app,Djibouti Telecom,,2024-09-26-dji-d-money-lancement-nouvelle-plateforme
@@ -253,8 +267,11 @@ EGY,Digital EGP,Egypt,other,,Central Bank of Egypt,,2026-09-15-egy-enterprise-di
 EGY,Orange Cash,Orange Cash,retail,,Orange Egypt,,2026-10-20-orange-egypt-partners-with-botim-to-enable-uae-to-egypt-remittances
 EGY,InstaPay,InstaPay,retail,,Central Bank of Egypt,,2024-12-05-egy-cbe-instant-inbound-remittances-primary
 EGY,Paymob,Egypt,other,,Paymob International B.V.,,2024-08-01-crs-12-2024eq5415c7761-2024-paymob-international-b-v
+EGY,InstaPay / Instant Payment Network,InstaPay (IPN),retail,,,,2026-11-08-egy-egypt-s-financial-inclusion-rate-rises-to-79-in-june-2026
+EGY,Meeza Digital,Meeza Digital wallets,retail,,,,2026-11-08-egy-egypt-s-financial-inclusion-rate-rises-to-79-in-june-2026
 ERI,EriTel-linked mobile wallets,Eritrea,retail,mobile wallet,EriTel,,2026-03-30-eritreas-fintech-ecosystem-2026-financial-inclusion
 ERI,M-Nakfa,Eritrea,retail,"mobile wallet, e-float backed by cash deposits",Himbol Community Financial Services,"individual, merchant and agent accounts",2025-01-01-eri-himbol-customers-partners-guide-m-nakfa
+ERI,M-Nakfa,M-Nakfa,retail,,Himbol Community Financial Services,,2025-11-01-eri-terms-and-conditions-of-service
 ETH,ZooryaPay,Ethiopia,retail,ETTA Solutions,ETTA Solutions PLC,PSO licence,2026-10-07-eth-capital-visa-etta-contactless-devices
 ETH,National switch,Ethiopia,other,,,,2026-10-07-eth-capital-visa-etta-contactless-devices
 ETH,EthSwitch,Ethiopia,retail,national payment switch,EthSwitch,,2026-09-10-eth-techreviewafrica-ethswitch-global-fintech-stage
@@ -285,6 +302,8 @@ ETH,Telebirr,Ethiopia,retail,mobile money,,,2024-03-15-eth-leveraging-e-payments
 ETH,Telebirr,Telebirr,retail,mobile money,Ethio Telecom,,2026-11-09-eth-techafricanews-gdp-rebase-digital-financial-services
 ETH,telebirr,Ethiopia,retail,mobile money,Ethio Telecom,,2026-05-26-eth-ethio-telecom-lists-on-ethiopian-securities-exchange
 ETH,Telebirr,Ethiopia,retail,mobile money,Ethio Telecom,,2025-11-21-eth-ethio-telecom-awash-bank-launch-non-collateral-digital-credit-and-devi
+ETH,Telebirr,Ethiopia,retail,,Ethio Telecom,,2025-05-24-eth-ethiopia-doubles-capital-threshold-for-mobile-money-providers-as-centr
+ETH,EthSwitch,Ethiopia,other,,,,2025-05-24-eth-ethiopia-doubles-capital-threshold-for-mobile-money-providers-as-centr
 GAB,MADIGIPAIE,Gabon,retail,QR code,,,2026-10-12-gab-biometricupdate-gabon-digital-payment-bill-beac-interoperability
 GAB,Madigipaie,Gabon,retail,QR code,Ministry of Digital Economy,,2026-07-07-gabon-lunion-madigipaie-libreville
 GAB,Madigipaie,GAB,retail,GIMAC QR code,Ministry of Digital Economy,,2026-03-01-gabon-madigipaie-taxigab
@@ -376,6 +395,9 @@ GNB,PI-SPI,GNB,other,instant payment switch,BCEAO,"banks, e-money issuers, payme
 GNB,PI-SPI,UEMOA,retail,Plateforme interopérable du Système de paiement instantané,BCEAO,"banks, e-money, payment and microfinance institutions",2026-08-18-uemoa-pi-spi-104-etablissements-autorises
 GNQ,Orange Money,Equatorial Guinea,retail,mobile money,Orange,,2026-03-29-fintech-ecosystem-2026-thefintechtimes
 GNQ,SelBa24,Guiné Equatorial,other,,,,2026-08-18-sapo-guine-equatorial-pretende-fortalecer-capacidades-digitais
+GNQ,Muni Dinero,Equatorial Guinea,retail,mobile wallet,Muni S.A.,,2026-05-28-gnq-paiement-mobile-au-bas-du-classement-en-zone-cemac-la-guinee-equatoria
+GNQ,BGFIMoney,Equatorial Guinea,retail,mobile banking,BGFIBank,,2026-05-28-gnq-paiement-mobile-au-bas-du-classement-en-zone-cemac-la-guinee-equatoria
+GNQ,Getesa Money,Equatorial Guinea,retail,mobile wallet,Getesa,,2026-05-28-gnq-paiement-mobile-au-bas-du-classement-en-zone-cemac-la-guinee-equatoria
 KEN,PesaLink,Kenya,retail,instant bank-to-bank switch,Integrated Payment Systems Limited (Kenya Bankers Association),"banks, microfinance banks and Saccos",2026-10-08-pesalink-s-new-id-makes-bank-transfers-easier-the-bigger-question-is-w
 KEN,M-PESA,Kenya,retail,mobile money,Safaricom,,2026-10-08-pesalink-s-new-id-makes-bank-transfers-easier-the-bigger-question-is-w
 KEN,EMMA,Kenya,retail,"Android app, USSD, Equitel SIM toolkit",Finserve Africa (Equity Group),,2026-10-06-ken-techcabal-equity-finserve-emma-wallet
@@ -430,6 +452,7 @@ LBR,Orange Money,Liberia,retail,,Orange Liberia,,2025-07-23-lra-orange-ecobank-i
 LBR,mobile money,Mobile money,retail,,,,2025-04-02-cbl-eg-saamoi-remarks-papss-rollout-financial-education-launch
 LBR,Orange Money,Liberia,retail,mobile money,Orange Liberia,,2025-05-05-lbr-liberianobserver-orange-ace-rerouting-civ
 LBR,Lonestar Cell MTN MoMo,Liberia,retail,,Lonestar Cell MTN,,2024-08-05-lbr-new-partnership-aims-to-boost-liberia-s-mobile-money-transfer-services
+LBR,BanffPay (Liberia) Limited,Liberia,retail,,BanffPay,,2026-07-07-lbr-banffpay-launches-in-liberia-after-cbl-license
 LBY,OnePay - Mini Pay,Libya,retail,Masrafi Plus app,Jumhouria Bank,,2026-01-15-jumhuria-first-petrol-station-epayment-libyaherald
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-cbl-electronic-transactions-865-billion-dinars
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-lby-cbl-governor-banks-moamalat-liquidity-epayment
@@ -561,10 +584,13 @@ MRT,QR code payment,Mauritania,retail,,,,2026-04-13-bad-pamif-mauritanie-secteur
 MRT,QR code payment,Mauritania,retail,,,,2026-04-13-pamif-financial-inclusion-afdb
 MRT,GIMTEL interconnection,Mauritania,retail,interbank switch for bank apps and e-wallets,GIMTEL,,2024-10-14-gimtel-interbank-transactions-launch
 MRT,Mechili,Mauritania,retail,,Mattel Money,,2026-11-09-mrt-mattel-lance-commercialement-la-5g-et-devoile-sa-filiale-de
+MRT,mobile payment applications,Mauritania,retail,mobile,,,2024-03-03-mrt-la-bcm-fixe-le-montant-quotidien-autorise-pour-les-transferts-au-nivea
 MUS,MAUCAS QR,Mauritius,retail,Juice app,Bank of Mauritius,,2026-01-19-mcb-qr-payments-67pc-growth-lexpress
 MUS,Juice,Mauritius,retail,mobile app,MCB,,2026-01-19-mcb-qr-payments-67pc-growth-lexpress
 MUS,MauCAS,Mauritius,retail,national instant-payment switch,,,2024-01-01 SIIPS 2024 Case Study - MauCAS (Mauritius)
 MUS,National Fintech Strategy 2026-2030,Mauritius,other,,Government of Mauritius,,2026-06-29-national-fintech-strategy-2026-2030-wearetech
+MUS,UPI,Mauritius,retail,instant payment,India,,2025-04-23-mus-a-digital-hub-in-the-indian-ocean-the-pgp-research-team-in-mauritius
+MUS,RuPay,Mauritius,other,card scheme,India,,2025-04-23-mus-a-digital-hub-in-the-indian-ocean-the-pgp-research-team-in-mauritius
 MWI,Airtel Money,Malawi,retail,mobile money,Airtel Money Malawi,,2026-06-24-airtel-money-admarc-farmer-payments-itweb
 MWI,Malawi Police electronic traffic fine payment,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
 MWI,TNM Mpamba,MWI,retail,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
@@ -596,6 +622,7 @@ NAM,Instant Payments Namibia,Namibia,retail,,Bank of Namibia (initiative),,2025-
 NAM,Instant Payment Solution (IPS),IPS,retail,,Instant Payment Namibia,,2026-06-15-fact-sheet-namibias-instant-payment-solution-ips
 NAM,NAMQR Code,Namibia,other,QR code,Bank of Namibia,,2026-01-01-bon-nps-vision-strategy-2030
 NAM,Open Banking Standards,Namibia,other,API,Bank of Namibia,,2026-01-01-bon-nps-vision-strategy-2030
+NAM,United PayPoint,Namibia,retail,mobile wallet and USSD,United Africa Group,,2025-11-20-nam-new-united-paypoint-to-make-payments-easier
 NER,Bank to Wallet / Wallet to Bank,Niger,retail,,Banque Atlantique Niger and NITA,,2026-06-29-banque-atlantique-nita-bank-to-wallet-interoperability-lesahel
 NER,Airtel Money,Niger,retail,mobile money,Airtel Money Niger SA,,2026-10-02-ner-actuniger-soniloga-airtel-money
 NER,Airtel Money Niger,Niger,retail,e-wallet,Airtel Money Niger SA,,2026-08-25-actuniger-airtel-money-transfert-international
@@ -645,6 +672,7 @@ RWA,mobile payments,Rwanda,retail,,,,2026-10-08-rwa-igihe-rwanda-cyber-fraud-fal
 RWA,MTN mobile money,Rwanda,retail,,MTN,,2026-10-20-rwa-mobile-money-scams-persist-as-rwandas-digital-payments-surge-top-afric
 RWA,Airtel Mobile Commerce Rwanda,Rwanda,retail,,Airtel,,2026-10-20-rwa-mobile-money-scams-persist-as-rwandas-digital-payments-surge-top-afric
 RWA,eKash,Rwanda,retail,RSwitch national switch,RSwitch,"banks, mobile money providers, SACCOs, microfinance institutions",2026-10-26-rwa-why-ekash-does-not-handle-same-network-transfers
+RWA,eKash,Rwanda,retail,RSwitch,RSwitch,,2026-11-09-rwa-early-lessons-from-rwanda-s-ekash-rollout-cheaper-payments-sharper-com
 SDN,Baladna Bibasata,Sudan,other,USSD via MTN Sudan,Albalad Bank,,2026-10-06-sdn-alwijha24-albalad-bank-mtn-ussd-baladna-bibasata
 SDN,Bankak,Sudan,retail,banking app,,,2026-09-15-sdn-sudantimes-dagalo-unified-cash-digital-prices-darfur
 SDN,Future Bank application,Sudan,retail,banking app,Future Bank,,2026-09-15-sdn-sudantimes-dagalo-unified-cash-digital-prices-darfur
@@ -664,6 +692,7 @@ SDN,MyCash,Sudan,retail,mobile wallet,,,2024-02-07-sdn-digital-money-apps-become
 SDN,RittalPay,Sudan,retail,mobile wallet,,,2024-02-07-sdn-digital-money-apps-become-a-lifeline-for-war-affected-sudanese
 SDN,Sah,Sudan,retail,app and USSD,Sudani (Fintech Sudani),,2026-06-16-sdn-alnser-social-safety-commission-sudani-sah-ussd-cash-transfers
 SDN,MyCashi,MyCashi,retail,"USSD, SMS, offline card, app",Cashi,,2026-11-09-proparco-cashi-sudan
+SDN,National Payment Switch,Sudan,retail,switch,Electronic Banking Services Company (EBS),,2026-07-08-sdn-ebs-ceo-to-sudanhorizon-new-national-payment-switch-launching-soon-mar
 SEN,PI-SPI,Senegal,retail,instant payment,BCEAO,banks; e-money institutions; payment institutions,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,Wave,Senegal,retail,mobile money,Wave Digital Finance,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,Orange Money,Senegal,retail,mobile,Orange Finances Mobiles Sénégal,,2024-09-30-bceao-liste-emetteurs-monnaie-electronique-umoa
@@ -691,6 +720,10 @@ SEN,WAEMU interoperable instant payment system (PI-SPI),PI-SPI pilot,retail,,BCE
 SEN,PI-SPI,Senegal,retail,instant payment platform,BCEAO,,2026-11-03-xwa-launchbaseafrica-pi-spi-rocky-start
 SEN,PI-SPI,Sénégal,retail,,BCEAO,,2026-11-02-sen-lesoleil-bank-to-wallet-suspended-pi-spi
 SEN,Wave Mobile Money,Senegal,retail,,Wave,,2025-06-30-sen-wave-raises-eur-117-million-to-accelerate-financial-inclusion-across-t
+SEN,Wave Digital Finance,Senegal,retail,mobile money,Wave,,2025-03-25-sen-senegal-apres-wave-quickpay-obtient-l-agrement-d-etablissement-de-monn
+SEN,Mobile Cash,Senegal,retail,mobile money,,,2025-03-25-sen-senegal-apres-wave-quickpay-obtient-l-agrement-d-etablissement-de-monn
+SEN,Orange Finance Mobiles Senegal,Senegal,retail,mobile money,Orange,,2025-03-25-sen-senegal-apres-wave-quickpay-obtient-l-agrement-d-etablissement-de-monn
+SEN,Quickpay,Senegal,retail,e-money,Edkoil group,,2025-03-25-sen-senegal-apres-wave-quickpay-obtient-l-agrement-d-etablissement-de-monn
 SLE,Flot,Sierra Leone,other,WhatsApp,Open Hub,,2026-04-24-open-hub-flot-platform
 SLE,National Instant Payment Switch,Sierra Leone,retail,,Bank of Sierra Leone,,2025-02-14 Sierra Leone Launches National Instant Payment System
 SLE,Afrimoney,Sierra Leone,retail,,Africell,,2025-02-14 Sierra Leone Launches National Instant Payment System
@@ -712,6 +745,7 @@ SLE,Instant Payment System (IPS),Sierra Leone,retail,,Bank of Sierra Leone,,2026
 SLE,Afrimoney,Sierra Leone,retail,Afrimoney,Africell,,2026-06-26-gmb-afrimoney-connects-the-gambia-and-sierra-leone-directly-in-historic-fi
 SLE,Orange Mobile Money,Sierra Leone,retail,,Orange,,2024-09-01-sle-ministry-of-labour-embarks-on-cash-transfer-of-nle1-018-to-poor-sierra
 SLE,GovPay Sierra Leone,Sierra Leone,retail,mobile money USSD,GovPay SL,,2025-04-24-sle-bo-district-council-launches-electronic-tax-payment
+SLE,National Payment Switch Instant Payment Service,Sierra Leone,retail,,Bank of Sierra Leone,,2025-02-12-sle-ministry-of-information-and-civic-education-s-press-conference
 SOM,Somalia Instant Payment System,Somalia,retail,ISO 20022,Central Bank of Somalia,,2026-10-05-som-itweb-mobile-money-silos
 SOM,EVC Plus,Somalia,retail,,Hormuud Telecom,,2026-10-05-som-itweb-mobile-money-silos
 SOM,SIPS,Somalia,retail,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
@@ -751,6 +785,7 @@ SSD,MTN MoMo,South Sudan,retail,mobile money,MTN,,2025-06-03-ssd-govt-pushes-for
 SSD,MTN Mobile Money,South Sudan,retail,,MTN South Sudan,,2026-11-06-ssd-juba-high-court-summons-mtn-over-deleted-data-bundles-poor-n
 STP,Sao,Sao Tome and Principe,retail,"Sao Wallet, Sao Agents, Sao POS, Sao Card, Sao Send",GTI Holdings,,2025-01-05-stp-telanon-sao-plataforma-financeira-digital
 STP,Dobra Digital,Sao Tome and Principe,retail,phone-based money service,"Golfintech, Lda",,2020-12-10-stp-undp-moeda-digital-dobra-digital
+STP,Dobra24,São Tomé and Príncipe,retail,domestic interoperable retail payment infrastructure,,,2026-09-23-stp-financial-inclusion-in-sao-tome-and-principe
 SWZ,DeltaPay,Eswatini,retail,,DeltaPay,,2026-10-12-swz-deltapay-brings-instant-payments-closer-to-home-eswatini-pos
 SWZ,Eswatini Payment Switch,Eswatini,retail,"national switch, fast payments",Central Bank of Eswatini,,2026-09-21-swz-observer-eswatini-payment-switch-live
 SWZ,Eswatini Payment Switch,Eswatini,retail,national switch,,,2026-10-04-swz-standard-bank-revives-instant-money-as-unayo-exits
@@ -772,6 +807,7 @@ SWZ,e-Mali,e-Mali,retail,,,,2025-07-25-swz-hacking-on-rise-water-services-halts-
 SWZ,Mobile Money,Mobile Money,retail,,,,2025-07-25-swz-hacking-on-rise-water-services-halts-digital-payments
 SWZ,Cash Plus,Cash Plus,retail,,,,2025-07-25-swz-hacking-on-rise-water-services-halts-digital-payments
 SWZ,Unayo,Unayo,retail,,,,2025-07-25-swz-hacking-on-rise-water-services-halts-digital-payments
+SWZ,DeltaPay,Eswatini,retail,mobile money,DeltaPay,,2026-05-13-swz-deltapay-secures-full-mobile-money-licence
 SYC,Fusepay,Seychelles,retail,"digital money accounts, instant payments, FuseCheq",Fusepay,,2025-11-14-fusepay-psp-licence-approval
 SYC,FusePay,Seychelles,other,,Fusepay,,2026-07-22-fusepay-fuse360-ai-operating-system
 SYC,Unified Payments Interface (UPI),Seychelles,other,NPCI International,Central Bank of Seychelles,,2026-06-30-africabusinessinsight-seychelles-upi
@@ -834,6 +870,7 @@ TUN,PAPSS,Tunisia,other,,,,2025-02-01-tunisian-banks-urged-to-join-pan-african-p
 TUN,PAPSS,Tunisia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
 TUN,Payment institution payment accounts,Tunisia,retail,,payment institutions,Levels 1-3,2026-10-14-tun-africanmanager-bct-circular-2026-10-payment-limits
 TUN,Paiement Mobile,Paiement Mobile (PSP wallets),retail,,payment service providers,,2025-02-01-tun-bct-paiements-en-chiffres-2024-bulletin-n11
+TUN,walletii by Ooredoo,Tunisia,retail,,Ooredoo Fintech Tunisie,,2026-02-17-tun-ooredoo-fintech-tunisie-obtient-l-agrement-de-la-bct-et-lance-walletii
 TZA,Zed360,Tanzania,other,Zed360,KCB Bank Tanzania,,2026-09-18-tza-thecitizen-kcb-zed360-school-fees-platform-nationwide
 TZA,Airtel Money School Pay,Tanzania,retail,,Airtel Tanzania,,2026-08-21-tan-airtel-money-school-pay-tanzania
 TZA,M-Pesa,Tanzania,retail,mobile money,Vodacom Tanzania,,2026-07-31-vodacom-lesotho-brings-micro-investing-to-m-pesa

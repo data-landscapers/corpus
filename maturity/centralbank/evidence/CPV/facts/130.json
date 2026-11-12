@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-25-cpv-mais-cabo-verdianos-com-contas-bancarias-e-maior-uso-de-pagamentos-dig",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Expresso das Ilhas, reporting the Banco de Cabo Verde's 2025 payment system report, says the central bank judged the clearing and settlement system SGDL, which processed 56.9 million payment operations in 2025, to have run safely and regularly, and it inspected the operator SISP.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SGDL",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SGDL",
+   "country_label": "Cabo Verde",
+   "class": "oversight",
+   "platform": "clearing and settlement",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

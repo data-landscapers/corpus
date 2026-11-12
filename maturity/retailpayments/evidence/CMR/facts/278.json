@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-13-cmr-wave-entre-officiellement-sur-le-marche-des-paiements-mobiles-au-camer",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN Mobile Money and Orange Money dominate Cameroon's mobile money market, with 12 million active mobile wallets, per Agence Ecofin.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "MTN Mobile Money; Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-mar-adhesion-swam-switch-al-maghrib",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "Switch Al Maghrib describes itself as the national routing, clearing and settlement infrastructure for card and mobile transactions, giving members access to all card and mobile switch members, and reports 1,826,316 mobile switch transactions in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SWAM Switch Al Maghrib",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": "Whether it covers both wallets and bank accounts for all uses is not stated beyond membership by banks and payment institutions."
+}

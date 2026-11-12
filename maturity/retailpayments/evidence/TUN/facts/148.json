@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-08-tun-paiement-mobile-ouverts-dormants",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Five payment institutions were active at end-2025 managing 113,739 payment accounts, 8.7 million transactions worth 3,775 MDT in 2025, per the BCT report as reported by African Manager.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Payment institutions",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

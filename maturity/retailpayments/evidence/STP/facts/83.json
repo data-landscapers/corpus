@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-23-stp-financial-inclusion-in-sao-tome-and-principe",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Banco Central de São Tomé e Príncipe's financial inclusion director told the Alliance for Financial Inclusion that the Dobra24 network, a domestic interoperable retail payment infrastructure, is being expanded.",
+   "as_of": "2026-09",
+   "date_precision": "year",
+   "system": "Dobra24",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dobra24",
+   "country_label": "São Tomé and Príncipe",
+   "class": "retail",
+   "platform": "domestic interoperable retail payment infrastructure",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

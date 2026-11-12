@@ -1,0 +1,42 @@
+{
+ "slug": "2025-08-24-civ-en-cote-d-ivoire-l-inclusion-financiere-se-joue-desormais-sur-le-telep",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Afriveille says mobile money operators Wave, Orange Money and MTN serve over one in two adults, allowing payments, deposits and transfers.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Mobile money (Wave, Orange Money, MTN)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wave",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Wave",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange",
+   "tiers": ""
+  },
+  {
+   "system": "MTN mobile money",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

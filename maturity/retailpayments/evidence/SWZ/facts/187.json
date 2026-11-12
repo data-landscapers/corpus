@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-13-swz-deltapay-secures-full-mobile-money-licence",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Eswatini Observer reports that DeltaPay, a licensed mobile money provider, offers 0.4% cashback on purchases at participating merchants, and its users pay digitally.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "DeltaPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DeltaPay",
+   "country_label": "Eswatini",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "DeltaPay",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-sle-regulatory-framework-for-digital-financial-services-in-sierra-leone-df",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Bank of Sierra Leone regulates the financial activities of mobile money operators on the basis of the licence it gives them, under the National Payment Systems Act 2022, per NatCA's presentation.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Bank of Sierra Leone mobile money licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

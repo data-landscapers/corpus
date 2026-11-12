@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-05-nga-directive-to-disconnect-switches-payment-solution-service-providers-an",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIBSS's circular concerns NIBSS Instant Payment transfers through bank mobile apps, online banking and USSD channels, with mobile money operators among the institutions addressed.",
+   "as_of": "2023-12-05",
+   "date_precision": "day",
+   "system": "NIBSS Instant Payment",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

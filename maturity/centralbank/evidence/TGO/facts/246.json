@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-28-tgo-togocom-launches-new-subsidiary-to-manage-mobile-money-segment",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Togo First says BCEAO rules require institutions issuing e-money to hold a licence or partner with a licensed bank, and that Tmoney S.A. will be directly supervised by the BCEAO.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "BCEAO e-money licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

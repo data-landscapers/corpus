@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-19-egy-cbe-grants-flash-app-a-license-to-provide-e-payment-services",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "entARABI reports the Central Bank of Egypt approved Flash for a licence to operate as a facilitator of electronic payment services and card transactions, per the company's own statement.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "CBE e-payment facilitator licence",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": "Licence date not given; publication date used."
+}

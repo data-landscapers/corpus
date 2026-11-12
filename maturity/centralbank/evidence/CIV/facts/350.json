@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-27-sen-bceao-licenses-nine-fintechs-for-digital-payments-in-waemu",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The BCEAO approved SycaPay, Firstcom Global Payments, Julaya and InTouch as payment institutions in Cote d'Ivoire, per Ecofin Agency.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "BCEAO Instruction 001-01-2024",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

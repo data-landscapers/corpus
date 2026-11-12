@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-24-eth-ethiopia-doubles-capital-threshold-for-mobile-money-providers-as-centr",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Birr Metrics reports that Telebirr, run by state-owned Ethio Telecom, has attracted tens of millions of users since non-bank mobile money was licensed in 2021.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Telebirr",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telebirr",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Ethio Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "EthSwitch",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

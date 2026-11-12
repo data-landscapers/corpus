@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-21-cod-dr-congo-clears-myriad-to-operate-as-a-payment-aggregator",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article says mobile money services are offered in DR Congo by Vodacom Congo, Orange RDC and Airtel RDC, with USSD as one channel.",
+   "as_of": "2026-07-21",
+   "date_precision": "day",
+   "system": "Vodacom, Orange and Airtel mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": "The national switch is named but its connection is unconfirmed."
+}

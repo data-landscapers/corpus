@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-28-mus-public-notice-ez-dash-limited",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Bank of Mauritius granted a Payment Service Provider licence to EZ Dash Limited on 28 August 2024 under the National Payment Systems Act 2018.",
+   "as_of": "2024-08-28",
+   "date_precision": "day",
+   "system": "Payment Service Provider licence",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

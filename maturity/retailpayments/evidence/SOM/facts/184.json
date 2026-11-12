@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-12-som-somali-upper-house-approves-national-payment-system-bill",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Hiiraan Online says mobile money plays a central role in daily economic life in Somalia and the payments sector is rapidly expanding.",
+   "as_of": "2026-01-12",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

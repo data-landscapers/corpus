@@ -1,0 +1,46 @@
+{
+ "slug": "2025-08-27-ago-kwik-ganha-asas-e-transacciona-214-2-mil-milhoes-kz-em-seis-meses",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Expansão reports that Kwik e-money, created by Banco Nacional de Angola and operating since October 2023, is offered by 19 authorised institutions and has about 7.2 million active accounts.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Kwik",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Expansão reports that Kwik lets users of any bank or mobile wallet send and receive money between providers, linking banks and non-bank payment providers.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Kwik",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "Expansão reports that Kwik is a single instant-transfer system open to all payment operators, with 16 banks and three payment service providers (PayPay, LinkedPay, Unitel Money) live, though still being implemented.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Kwik",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kwik",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "instant transfer system",
+   "owner": "Banco Nacional de Angola",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

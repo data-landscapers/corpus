@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-27-eth-nbe-mandates-interoperability-among-mobile-wallets",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The National Bank of Ethiopia revised its Licensing and Authorization of Payment Instrument Issuer Directive, raising the capital for a Payment Instrument Issuer company to 100 million Birr, per Ethiopian Monitor.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Licensing and Authorization of Payment Instrument Issuer Directive",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Ethiopian Monitor reports that the National Bank of Ethiopia made interoperability among mobile wallets mandatory and mandated financial institutions to participate in the Ethiopian Instant Payment System (EIPS).",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Ethiopian Instant Payment System (EIPS)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

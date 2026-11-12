@@ -1,0 +1,50 @@
+{
+ "slug": "2025-03-25-sen-senegal-apres-wave-quickpay-obtient-l-agrement-d-etablissement-de-monn",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Senegal had three licensed electronic money institutions operating at 31 December 2024: Wave Digital Finance, Mobile Cash and Orange Finance Mobiles Senegal, per Agence Ecofin.",
+   "as_of": "2024-12-31",
+   "date_precision": "day",
+   "system": "Wave Digital Finance; Mobile Cash; Orange Finance Mobiles Senegal",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wave Digital Finance",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Wave",
+   "tiers": ""
+  },
+  {
+   "system": "Mobile Cash",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Finance Mobiles Senegal",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange",
+   "tiers": ""
+  },
+  {
+   "system": "Quickpay",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "e-money",
+   "owner": "Edkoil group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-28-tcd-tchad-moov-money-decroche-son-agrement-d-etablissement-de-paiement",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Moov Money Tchad launched in January 2021 and the article says Chad had 6.25 million active mobile money accounts at end-2024 per the BEAC report, with 180.2 million transactions in the year.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Moov Money; Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

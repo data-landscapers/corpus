@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-12-egy-a-new-benchmark-for-collaboration-between-banks-and-fintech-companies",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "FABMISR's press release says the Central Bank of Egypt approved noon payments as a payment service provider.",
+   "as_of": "2025-10-12",
+   "date_precision": "day",
+   "system": "CBE payment service provider approval",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": "Approval date not given; publication date used."
+}

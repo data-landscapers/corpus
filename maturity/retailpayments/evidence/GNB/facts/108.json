@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-10-gnb-moeda-eletronica-impulsiona-inclusao-financeira-na-guine-bissau-diz-bc",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The BCEAO national director said the growth in financial access in Guinea-Bissau is largely due to the development of electronic money.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "electronic money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

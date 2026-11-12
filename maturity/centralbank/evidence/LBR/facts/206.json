@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-07-lbr-banffpay-launches-in-liberia-after-cbl-license",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The New Dawn reports the Central Bank of Liberia licensed BanffPay (Liberia) Limited as a payment service provider, with money remittance and forex bureau licences.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Central Bank of Liberia PSP licence",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

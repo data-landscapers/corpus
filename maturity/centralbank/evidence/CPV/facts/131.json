@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-14-cpv-capital-minimo-trava-novas-empresas-tecnologicas-no-setor-bancario-diz",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The article says Aviso n.6/2019, published 18 July 2019, governs authorisation of payment institutions and e-money institutions, with capital of 2 million to 20 million escudos by activity.",
+   "as_of": "2019-07-18",
+   "date_precision": "day",
+   "system": "Aviso n.6/2019",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": "The issuer is taken from the article's sources, Banco de Cabo Verde and Boletim Oficial."
+}
