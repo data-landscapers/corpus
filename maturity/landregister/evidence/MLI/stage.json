@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "land",
-      "stage": "no evidence",
-      "register": "",
+      "stage": "3",
+      "register": "inservice",
       "national": "",
       "online": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says how land rights are recorded.",
-      "note": "Nothing held states how land rights are recorded or whether a digital register exists.",
-      "as_at": "2026-11-11"
+      "stage_sources": "MLI-001",
+      "gaps": "No source found since October 2023 says the digital land register covers the whole country. No source found since October 2023 says land can be searched or registered online.",
+      "note": "A July 2026 review of the land reforms says 1.5 million parcels in Bamako, Kati and several towns hold a unique cadastral number, and the digitised-documents module runs at the Bamako and Kati land offices. Nothing says it covers the country, so not 4.",
+      "as_at": "2026-11-12"
     }
   ]
 }

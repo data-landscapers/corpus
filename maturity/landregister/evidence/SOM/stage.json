@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "land",
-      "stage": "no evidence",
-      "register": "",
+      "stage": "3",
+      "register": "inservice",
       "national": "",
       "online": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says how land rights are recorded.",
-      "note": "Nothing held states how land rights are recorded or whether a digital register exists.",
-      "as_at": "2026-11-11"
+      "stage_sources": "SOM-001",
+      "gaps": "No source found since October 2023 says the digital land register covers the whole country. No source found since October 2023 says land can be searched or registered online.",
+      "note": "The World Bank says the municipal land registries of Baidoa and Garowe registered resettled households' plots with GIS and issued title deeds (June 2025). That is two municipalities, so not 4.",
+      "as_at": "2026-11-12"
     }
   ]
 }

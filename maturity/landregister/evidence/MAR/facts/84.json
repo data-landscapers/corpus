@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-07-mar-services-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "Canal212 reports that ANCFCC's website lets users request property certificates, cadastral plans and copies of land-register documents online, consult published land notices, and track all formalities on a title through Mohafadati.",
+   "as_of": "2024-04-07",
+   "date_precision": "day",
+   "system": "ANCFCC online services",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

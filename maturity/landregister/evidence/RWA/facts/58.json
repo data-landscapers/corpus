@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-07-rwa-digital-land-titles-are-changing-land-ownership-and-verification-in-rw",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "House in Rwanda quotes a National Land Authority official saying Rwanda converted over 10 million paper land titles to digital format in 2023 and more than 866,000 electronic titles have been downloaded.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "electronic land titles",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic land titles",
+   "country_label": "Rwanda",
+   "class": "land",
+   "platform": "",
+   "owner": "National Land Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

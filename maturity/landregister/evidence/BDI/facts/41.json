@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-01-bdi-budget-law-2026-2027-burundi-legal-alert",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "CN Law reports that the 2026-2027 budget law extends to 31 March 2027 the deadline to apply for the secure electronic land title, with a fine of 50% of the title's cost for missing it.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Secure electronic land title",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Secure electronic land title",
+   "country_label": "Burundi",
+   "class": "land",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

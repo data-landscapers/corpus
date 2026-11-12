@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-28-gha-lands-commission-backs-digital-reforms-to-boost-affordable-housing",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Lands Commission says its Enterprise Land Information System provides registration and searches, in use now.",
+   "as_of": "2025-08-28",
+   "date_precision": "day",
+   "system": "Enterprise Land Information System",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "Dr Benjamin Quaye says industry players can now conduct land searches online through the Enterprise Land Information System without visiting the Commission.",
+   "as_of": "2025-08-28",
+   "date_precision": "day",
+   "system": "Enterprise Land Information System",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enterprise Land Information System",
+   "country_label": "Ghana",
+   "class": "land",
+   "platform": "",
+   "owner": "Lands Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "National coverage is not stated; the QR-coded digital land certificate is only being worked towards."
+}

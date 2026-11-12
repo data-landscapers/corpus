@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-28-nga-lagos-revolutionises-land-acquisition-as-sanwo-olu-launches-automated",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "BusinessDay reports Lagos State's e-GIS portal went live in January 2024 holding digitised land titles and records for the state.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Lagos e-GIS portal",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "BusinessDay says anyone can search, verify and apply for land titles including Governor's Consent through the Lagos e-GIS portal online.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Lagos e-GIS portal",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lagos e-GIS portal",
+   "country_label": "Nigeria (Lagos State)",
+   "class": "land",
+   "platform": "Momentum Land Administration Solution",
+   "owner": "Lagos State Lands Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,land,register,coverage,underway,2025-10-06,GIN-001,,
-GIN,land,national,coverage,,,,,nothing held
-GIN,land,online,coverage,,,,,nothing held
+GIN,land,register,coverage,inservice,2025-11-24,GIN-002,GIN-001=underway,
+GIN,land,national,coverage,,,,,nothing found
+GIN,land,online,coverage,,,,,nothing found

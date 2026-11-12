@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "land",
-      "stage": "2",
-      "register": "underway",
+      "stage": "3",
+      "register": "inservice",
       "national": "",
       "online": "online",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-001",
-      "gaps": "No source found since October 2023 says: is a digital land register in service.",
-      "note": "The finance ministry is procuring cadastral modules for municipalities, so digitisation is under way. The PEO portal takes property transfers online with the land registry, but no source says a digital register is in service, and each rung must be met.",
-      "as_at": "2026-11-11"
+      "stage_sources": "CPV-004",
+      "gaps": "No source found since October 2023 says the digital land register covers the whole country. National cadastral coverage was about 33% in October 2026.",
+      "note": "A March 2025 joint order declared Sao Vicente a cadastred area, after a project that built a property rights information system and cadastred Sal, Boa Vista and Maio. Coverage was about a third of the country in October 2026, so not 4.",
+      "as_at": "2026-11-12"
     }
   ]
 }

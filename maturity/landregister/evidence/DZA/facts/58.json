@@ -1,0 +1,44 @@
+{
+ "slug": "2026-01-27-dza-algerie-publication-d-un-decret-officialisant-la-mise-en-place-du-livr",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Direction generale du Domaine national announced on 11 January 2026 the generalisation of the Amlak information system, a unified national system with a central database integrating the cadastre, land conservation and State Domains, with immediate response to requests at cadastre and land conservation counters.",
+   "as_of": "2026-01-11",
+   "date_precision": "day",
+   "system": "Amlak",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "national",
+   "value": "nationwide",
+   "fact": "The Direction generale du Domaine national said Amlak was generalised to all directorates of the cadastre, land conservation and State Domains.",
+   "as_of": "2026-01-11",
+   "date_precision": "day",
+   "system": "Amlak",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Amlak",
+   "country_label": "Algeria",
+   "class": "land",
+   "platform": "",
+   "owner": "Direction generale du Domaine national",
+   "tiers": "national central database"
+  },
+  {
+   "system": "electronic land booklet (livret foncier electronique)",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction generale du Domaine national",
+   "tiers": "planned, not yet launched"
+  }
+ ],
+ "note": ""
+}

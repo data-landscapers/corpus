@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-05-tgo-transformation-numerique-au-togo-l-otr-et-le-pagdsp-saluent-l-excellen",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "A CAGECFI press release carried by Lomé Gazette says the contractors delivered the full digitisation of Togo's land books on 3 December 2025, the land and cadastre directorate stopped manual titles two weeks earlier and was to start using the new electronic title application the following Monday.",
+   "as_of": "2025-12-03",
+   "date_precision": "day",
+   "system": "land books digitisation and title application (DCCF)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "land books digitisation and title application (DCCF)",
+   "country_label": "Togo",
+   "class": "land",
+   "platform": "business application",
+   "owner": "Direction du Cadastre et de la Conservation Foncière (OTR)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

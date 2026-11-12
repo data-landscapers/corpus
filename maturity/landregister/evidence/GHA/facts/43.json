@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-25-gha-bawumia-hails-lands-commission-s-digital-transformation-as-new-office",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Graphic Online reports Vice President Bawumia citing digitised land title certificates at the Lands Commission on 25 November 2024.",
+   "as_of": "2024-11-25",
+   "date_precision": "day",
+   "system": "Lands Commission digitised titles",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "Graphic Online reports the Lands Commission's online searches and consolidated search process, praised by the Vice President on 25 November 2024.",
+   "as_of": "2024-11-25",
+   "date_precision": "day",
+   "system": "Lands Commission online search",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lands Commission digitised titles",
+   "country_label": "Ghana",
+   "class": "land",
+   "platform": "",
+   "owner": "Lands Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

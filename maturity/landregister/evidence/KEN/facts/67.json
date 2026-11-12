@@ -1,0 +1,27 @@
+{
+ "slug": "2024-07-08-ken-operationalization-of-digital-land-records-in-murang-a-registry-launch",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Kenya News Agency reports Ardhisasa digital land records are operational in Nairobi and Murang'a, where 387,635 registers and 269,694 files were scanned since 2021 and uploaded to the platform.",
+   "as_of": "2024-07-08",
+   "date_precision": "day",
+   "system": "Ardhisasa",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "Kenya News Agency quotes the Lands Cabinet Secretary saying residents can open Ardhisasa accounts to transact on their land digitally and get alerts of any attempted transaction.",
+   "as_of": "2024-07-08",
+   "date_precision": "day",
+   "system": "Ardhisasa",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

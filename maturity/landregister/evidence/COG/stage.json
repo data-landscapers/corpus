@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "land",
-      "stage": "no evidence",
-      "register": "",
+      "stage": "2",
+      "register": "underway",
       "national": "",
       "online": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says how land rights are recorded.",
-      "note": "Nothing held states how land rights are recorded or whether a digital register exists.",
-      "as_at": "2026-11-11"
+      "stage_sources": "COG-001",
+      "gaps": "No source found since October 2023 says a digital land register is in service.",
+      "note": "The state-domain directorate said in November 2025 that patrols starting in Brazzaville will feed a national digital register of state land, each parcel geolocated. Nothing says the register is in service, so not 3.",
+      "as_at": "2026-11-12"
     }
   ]
 }

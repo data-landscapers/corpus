@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-05-ben-communique-e-services-de-l-andf",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "The ANDF says five e-services are available on service-public.bj from 5 June 2024, including online requests for a land title, a certificate of ownership and a descriptive statement.",
+   "as_of": "2024-06-05",
+   "date_precision": "day",
+   "system": "ANDF e-services on service-public.bj",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANDF e-services on service-public.bj",
+   "country_label": "Benin",
+   "class": "land",
+   "platform": "service-public.bj",
+   "owner": "Agence Nationale du Domaine et du Foncier",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

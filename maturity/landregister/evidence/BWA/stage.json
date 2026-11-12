@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "land",
-      "stage": "2",
-      "register": "underway",
-      "national": "",
+      "stage": "4",
+      "register": "inservice",
+      "national": "nationwide",
       "online": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BWA-002;BWA-003",
-      "gaps": "No source found since October 2023 says: is a digital land register in service.",
-      "note": "The 2026/27 budget and the lands minister commit to upgrading the Land Information System, while the deeds registry was still largely manual in October 2025. A commitment reaches stage 2 at most.",
-      "as_at": "2026-11-11"
+      "stage_sources": "BWA-004;BWA-005",
+      "gaps": "No source found since October 2023 says land can be searched or registered online. Deeds are printed only in Gaborone, and the deeds registry was largely manual in October 2025.",
+      "note": "In August 2026 the Assistant Minister told Parliament that Land Board officers across the country process Secure Land Title transactions on the web-based Land Information System, so the register is in service in every land board. Nothing says the public can search or apply online, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

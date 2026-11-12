@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-26-cod-rdc-le-gouvernement-sengage-a-moderniser-la-securite-des-droits-foncie",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The land ministry says modular digital solutions have been deployed with ONU-Habitat and CAFI support while full digitisation of the sector is awaited, and the minister told the National Assembly digitisation of titles is strategic.",
+   "as_of": "2026-05-25",
+   "date_precision": "day",
+   "system": "modular digital land solutions",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Modular digital land administration solutions",
+   "country_label": "DRC",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministere des Affaires foncieres",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

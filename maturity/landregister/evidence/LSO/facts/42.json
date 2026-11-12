@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-01-lso-working-on-improving-land-registration-with-lesotho-s-community-counci",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "none",
+   "fact": "Land Equity International says Lesotho's Community Council land allocation records are still stored manually and often lost, and that the Councils work in silos with no integration with the Land Administration Authority's national registration.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Community Council land allocation records",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

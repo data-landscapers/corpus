@@ -3,3 +3,5 @@ NER,E-Cadastre / NIPU (Numéro d'Identification Parcellaire Unique),Niger,land,N
 NER,E-Cadastre,Niger,other,,Ministère de l'Urbanisme et de l'Habitat with ANSI,,2025-11-01-ner-nouvelledafrique-e-cadastre-niger
 NER,E-Cadastre,Niger,land,,Ministere de l'Urbanisme et de l'Habitat,,2026-06-23-ner-lesahel-ministre-urbanisme-bilan-e-cadastre
 NER,mining cadastre,mining cadastre,other,,Ministry of Mines and Industrial Development,national,2026-01-01-ner-niger-eiti
+NER,E-Cadastre platform,Niger,land,hosted at the National Datacenter,ANSI / PVI,,2026-03-12-ner-acquisition-of-equipment-which-will-be-installed-at-the-national-datac
+NER,E-Cadastre,Niger,land,"national E-Cadastre platform, Bangoula pilot",ANSI / PVI,,2026-01-01-ner-recrutement-d-un-cabinet-consortium-charge-de-la-collecte-des-donnees

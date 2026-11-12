@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-23-ken-govt-to-spend-sh35bn-to-expand-land-record-digitization-to-15-more-cou",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Capital FM reports the national land records digitisation programme, converting physical records to digital form, covered Nairobi and Murang'a in its first phase and will extend to fifteen more counties.",
+   "as_of": "2025-08-23",
+   "date_precision": "day",
+   "system": "NLIMS / Ardhisasa",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

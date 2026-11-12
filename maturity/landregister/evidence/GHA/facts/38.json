@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-gha-lands-commission-s-digital-reform-gamechanger-for-land-administration",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Ghana News Agency quotes the Lands Commission's Executive Secretary saying ELIS, its digital land platform, is operational in Greater Accra and nine other regions, with nationwide rollout targeted for end-2027.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Enterprise Land Information System (ELIS)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enterprise Land Information System (ELIS)",
+   "country_label": "GHA",
+   "class": "land",
+   "platform": "",
+   "owner": "Lands Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-11-dza-algeriezoom-amlak-livret-foncier-electronique",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Algérie Zoom reports the Direction Générale du Domaine National generalised the Amlak system, with a central national database for cadastre and land conservation, on 11 January 2026.",
+   "as_of": "2026-01-11",
+   "date_precision": "day",
+   "system": "Amlak",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "national",
+   "value": "nationwide",
+   "fact": "Algérie Zoom reports the generalisation of Amlak covers all local directions of cadastre, land conservation and state property, without exception.",
+   "as_of": "2026-01-11",
+   "date_precision": "day",
+   "system": "Amlak",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Amlak",
+   "country_label": "Amlak",
+   "class": "land",
+   "platform": "",
+   "owner": "Direction Générale du Domaine National",
+   "tiers": ""
+  }
+ ],
+ "note": "The electronic land booklet is not yet launched, so nothing online is stated."
+}

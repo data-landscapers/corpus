@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-15-uga-igad-land-governance-twinning-exercise-between-uganda-and-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "IGAD says Uganda has an established Land Information System holding rural and urban land records, with land records digitised.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Land Information System",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

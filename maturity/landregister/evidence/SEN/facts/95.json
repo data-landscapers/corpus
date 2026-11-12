@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-09-sen-securisation-fonciere-le-procasef-plaide-pour-une-reforme-d-envergure",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "PROCASEF coordinator Mouhamadou Moustapha Dia says over 830,000 parcels are mapped in 138 communes, 630,000 have cadastral numbers, and 128 communal land offices are built to host the SIFCOM digital land information system.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "SIFCOM",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIFCOM (Système d'informations foncières communales)",
+   "country_label": "Senegal",
+   "class": "land",
+   "platform": "128 communal land offices",
+   "owner": "PROCASEF, World Bank-funded",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

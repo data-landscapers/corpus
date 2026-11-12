@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-13-som-371-000-households-in-somalia-find-respite-from-drought",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "World Bank says Nagaad Project plots were registered through the system, each by the municipal land registry using GIS, for resettled households in Baidoa and Garowe, with title deeds issued.",
+   "as_of": "2025-06-13",
+   "date_precision": "day",
+   "system": "Municipal land registry (GIS), Baidoa and Garowe",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Municipal land registry (GIS)",
+   "country_label": "Somalia",
+   "class": "land",
+   "platform": "GIS",
+   "owner": "Baidoa and Garowe municipalities",
+   "tiers": "municipal"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-01-sle-what-happened-to-sierra-leone-s-biometric-property-registration-agreem",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "none",
+   "fact": "Sierra Leone's land and house ownership is recorded manually, and the biometric property registration agreement with Landdreg SL ratified in December 2021 has not been implemented, per Concord Times via Sierraloaded.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Landdreg SL biometric property registration (not implemented)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Landdreg SL biometric property registration (not implemented)",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Lands, Housing and Country Planning",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -91,3 +91,16 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,ZAF,dpi.registry--land-register,review,3,3,ZAF-001,Rebuild: first-pass cell read afresh against the ladder; stage held
 2026-11-11,ZMB,dpi.registry--land-register,review,3,3,ZMB-001;ZMB-003,Rebuild: first-pass cell read afresh against the ladder; stage held
 2026-11-11,ZWE,dpi.registry--land-register,review,3,3,ZWE-008;ZWE-006,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,BWA,dpi.registry--land-register,fact,2,4,BWA-004;BWA-005,"Assistant Minister, August 2026: Land Board officers across the country process Secure Land Title transactions on the web-based LIS; in service in every land board, no online service"
+2026-11-12,COG,dpi.registry--land-register,fact,no evidence,2,COG-001,"State-domain directorate, November 2025: patrols from Brazzaville to feed a national digital state-land register; under way"
+2026-11-12,COM,dpi.registry--land-register,fact,no evidence,2,COM-001,"Cartography Unit, April 2026: land information system being set up with World Bank funding; under way"
+2026-11-12,CPV,dpi.registry--land-register,fact,2,3,CPV-004,"Joint order of March 2025: Sao Vicente cadastred after a property rights information system covered Sal, Boa Vista and Maio; in service for part, about 33% coverage"
+2026-11-12,GIN,dpi.registry--land-register,fact,2,3,GIN-002,"Urbanism ministry, November 2025: land title issuance digitised; in service, extent not stated"
+2026-11-12,LSO,dpi.registry--land-register,fact,unplaced,1,LSO-002,"Land Equity International, March 2025: Community Council land allocation records kept by hand; stage 1 on a dated statement of paper records"
+2026-11-12,MLI,dpi.registry--land-register,fact,no evidence,3,MLI-001,"Land reform review, July 2026: 1.5 million parcels with a cadastral number in Bamako, Kati and towns, digitised-documents module at two land offices; in service for part"
+2026-11-12,NGA,dpi.registry--land-register,fact,2,3,NGA-005;NGA-008,"Lagos e-GIS portal live January 2024 and Cross River 360Lands in service June 2026, both online; state registers in service for part"
+2026-11-12,SDN,dpi.registry--land-register,fact,no evidence,3,SDN-002;SDN-001,"Registrar General circular, August 2025, and Omdurman office, October 2026: titles checked against the electronic record; in service, extent not stated"
+2026-11-12,SOM,dpi.registry--land-register,fact,no evidence,3,SOM-001,"World Bank, June 2025: Baidoa and Garowe municipal registries registered plots with GIS and issued deeds; in service for part"
+2026-11-12,SEN,dpi.registry--land-register,fact,2,2,SEN-001;SEN-005,Suigil 2 tax platform (July 2025) and PROCASEF updates to June 2026: tax parcels and SIFCOM deployment only; stays under way
+2026-11-12,MDG,dpi.registry--land-register,fact,3,3,MDG-003,"Newsmada, January 2026: land records rest on old archives; SIF piloted in five regions; Tana-ville kiosk still holds stage 3"
+2026-11-12,BEN,dpi.registry--land-register,fact,3,3,BEN-007;BEN-001,"ANDF e-services (June 2024) and E-TERRE on the public services portal (July 2026) take land procedures online; not nationwide, stays 3"

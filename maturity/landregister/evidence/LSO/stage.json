@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "land",
-      "stage": "unplaced",
-      "register": "underway",
+      "stage": "1",
+      "register": "none",
       "national": "",
       "online": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether land rights are registered digitally.",
-      "note": "The only fact, from 2013, is far older than three years. Nothing newer is held.",
-      "as_at": "2026-11-11"
+      "stage_sources": "LSO-002",
+      "gaps": "No source found since October 2023 says whether the Land Administration Authority's registration is digital.",
+      "note": "Land Equity International said in March 2025 that Community Council land allocation records are kept by hand and not linked to the Land Administration Authority. The only fact on a digital system dates from 2013, outside the window.",
+      "as_at": "2026-11-12"
     }
   ]
 }

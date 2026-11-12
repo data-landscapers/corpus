@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-26-lbr-swedish-funded-land-reform-project-strengthens-liberia-s-land-governan",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Liberian Investigator reports the SLSL project digitised the historic Monrovia Atlas, scanned 232 archived maps and developed the online CLIMT for customary land administration, as reported at its June 2026 closing seminar.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "CLIMT / Digital Land Administration System",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

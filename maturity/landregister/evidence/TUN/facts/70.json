@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-14-tun-immobilier-vers-la-mise-en-oeuvre-du-projet-tlis-pour-ameliorer-la-ges",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Webmanagercenter reports a 13 November 2023 workshop on the Tunisian Land Information System (TLIS), financed by a 2021 Korean Eximbank loan, with a Korean consultant overseeing implementation, to build an integrated national database and digitise land archives.",
+   "as_of": "2023-11-13",
+   "date_precision": "day",
+   "system": "Tunisian Land Information System (TLIS)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tunisian Land Information System (TLIS)",
+   "country_label": "Tunisia",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Equipment and Housing / OTC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

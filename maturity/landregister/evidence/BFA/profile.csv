@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BFA,land,register,coverage,inservice,2026-11-04,BFA-001;BFA-003;BFA-007;BFA-009;BFA-010,BFA-006=underway;BFA-005=underway,
+BFA,land,register,coverage,inservice,2026-11-04,BFA-001;BFA-003;BFA-007;BFA-009;BFA-010;BFA-013,BFA-012=underway;BFA-006=underway;BFA-005=underway;BFA-015=underway,
 BFA,land,national,coverage,,,,,nothing found
-BFA,land,online,coverage,online,2026-11-04,BFA-002;BFA-004;BFA-008;BFA-011,,
+BFA,land,online,coverage,online,2026-11-04,BFA-002;BFA-004;BFA-008;BFA-011;BFA-014,,

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-02-dza-fadaeldjazair-livret-foncier-cadastre-et-actes-ce-que-change-la-nouvel",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Algérie360 reports that the DGDN's Fadaeldjazair portal runs on a unified central database holding over 27 million documents from 217 land conservations and over 14 million digitised properties.",
+   "as_of": "2026-11-01",
+   "date_precision": "day",
+   "system": "Fadaeldjazair",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "The DGDN's Fadaeldjazair portal lets users request the land booklet, negative certificate, deed copies and cadastral extracts online, pay by Edahabia or CIB card via SATIM and track the request; some formalities still need an office visit.",
+   "as_of": "2026-11-01",
+   "date_precision": "day",
+   "system": "Fadaeldjazair",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fadaeldjazair",
+   "country_label": "Algeria",
+   "class": "land",
+   "platform": "geoportal on unified central database",
+   "owner": "Direction générale du Domaine national",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

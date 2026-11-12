@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-21-bfa-gestion-du-foncier-le-burkina-se-dote-du-syc-d-pour-digitaliser-l-acce",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Prime Minister launched SYC@D on 21 March 2025, a land information system with cadastral data, geographic information and archives, whose implemented processes issue land documents.",
+   "as_of": "2025-03-21",
+   "date_precision": "day",
+   "system": "SYC@D",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "Residents can request and obtain land occupation documents online through the SYC@D site, per the 21 March 2025 launch report.",
+   "as_of": "2025-03-21",
+   "date_precision": "day",
+   "system": "SYC@D",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYC@D",
+   "country_label": "Burkina Faso",
+   "class": "land",
+   "platform": "online portal sif.bf",
+   "owner": "Directorate General of Taxes, Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

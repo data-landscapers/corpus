@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-28-com-les-litiges-fonciers-et-les-arnaques-immobilieres-demeurent-une-source",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "none",
+   "fact": "Op-ed author Youssoufa Said says Comoros currently has no national online land register and urges digitising land registers.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "land register",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-mwi-malawi-takes-a-leap-forward-in-land-management-with-digital-platform",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "247Malawi reports the Ministry of Lands launched the Land Information Management System (LIMS) for land management in Blantyre, to replace paper documents in tracking land transactions.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Land Information Management System (LIMS)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Land Information Management System (LIMS)",
+   "country_label": "Malawi",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Lands",
+   "tiers": "Blantyre land offices"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-08-tun-vers-une-administration-sans-papier-la-propriete-fonciere-tunisienne-p",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ONPF director general Imed Hammadi said remote services are already available, including consulting land titles, certified copies, ownership certificates and searches on a person's properties.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "ONPF remote land services",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "Hammadi said several remote ONPF services are already available, including consulting land titles, certified copies and land registration certificates, with a second digitalisation phase aiming for a paperless administration within three years.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "ONPF remote land services",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONPF digitalisation strategy remote services",
+   "country_label": "Tunisia",
+   "class": "land",
+   "platform": "remote services",
+   "owner": "Office national de la propriété foncière",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MOZ,land,register,coverage,inservice,2024-03-29,MOZ-001,,
-MOZ,land,national,coverage,,,,,nothing held
+MOZ,land,register,coverage,inservice,2025-03-25,MOZ-001;MOZ-003,MOZ-004=underway;MOZ-005=none,
+MOZ,land,national,coverage,,,,,nothing found
 MOZ,land,online,coverage,online,2024-03-29,MOZ-002,,

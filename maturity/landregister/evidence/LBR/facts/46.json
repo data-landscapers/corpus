@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-17-lbr-boosted-lla-gets-swedish-support",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Liberia Land Authority's Director of Land Administration says trained surveyors will help densify the national geodetic reference network, laying the foundation for a National Cadastre that is still to be established.",
+   "as_of": "2025-03-17",
+   "date_precision": "day",
+   "system": "National Cadastre",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-19-cpv-cidade-do-mindelo-declarada-area-cadastrada",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Cabo Verde government says INGT declared Mindelo a cadastred area on 19 March 2025, the cadastre is advancing on Santiago, and pre-cadastre is expanding to four other islands, with a target of about 75% of national territory cadastred by end-2025.",
+   "as_of": "2025-03-19",
+   "date_precision": "day",
+   "system": "Cadastro Predial (INGT)",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": "The source does not say the cadastre is digital."
+}

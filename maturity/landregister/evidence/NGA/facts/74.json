@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-16-nga-fg-s-land-reform-initiative-to-drive-increased-delivery-of-affordable",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Housing and Urban Development Minister said on 16 July 2026 that the ministry is advancing digital cadastral mapping, electronic land records and a Centralised Lands Repository Management System, alongside the Nigerian Land Titling, Registration and Documentation Programme.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "Centralised Lands Repository Management System",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centralised Lands Repository Management System",
+   "country_label": "Nigeria",
+   "class": "land",
+   "platform": "",
+   "owner": "Federal Ministry of Housing and Urban Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

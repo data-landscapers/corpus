@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,land,register,coverage,inservice,2026-11-06,BEN-001;BEN-003;BEN-005;BEN-007,BEN-008=underway;BEN-002=underway;BEN-006=underway;BEN-004=underway,
+BEN,land,register,coverage,inservice,2026-11-06,BEN-001;BEN-003;BEN-005;BEN-007;BEN-009;BEN-010;BEN-012,BEN-008=underway;BEN-002=underway;BEN-006=underway;BEN-004=underway,
 BEN,land,national,coverage,,,,,nothing found
-BEN,land,online,coverage,,,,,nothing found
+BEN,land,online,coverage,online,2026-07-20,BEN-011;BEN-013,,

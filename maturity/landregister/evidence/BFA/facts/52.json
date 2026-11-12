@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-26-bfa-burkina-gestion-du-foncier-le-coordonnateur-du-projet-d-appui-au-renfo",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The PARGFM land-component coordinator said a national land information system is being developed and deployed, with a pilot of systematic registration of land rights under way.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "National land information system (PARGFM)",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

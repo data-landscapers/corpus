@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,land,register,coverage,underway,2026-09-08,SLE-001;SLE-002,,
-SLE,land,national,coverage,,,,,nothing held
-SLE,land,online,coverage,,,,,nothing held
+SLE,land,register,coverage,underway,2026-09-08,SLE-001;SLE-002;SLE-003;SLE-004;SLE-005;SLE-006;SLE-007;SLE-008,SLE-009=none,
+SLE,land,national,coverage,,,,,nothing found
+SLE,land,online,coverage,,,,,nothing found

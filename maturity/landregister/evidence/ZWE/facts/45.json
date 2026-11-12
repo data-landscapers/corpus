@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-28-zwe-land-tenure-reform-ensures-bankability-and-agricultural-investment",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Lands and Rural Development Minister told a 27 August 2026 meeting that the ministry's three manual land databases have been consolidated into a single integrated digital platform that verifies parcels and detects duplication, with an e-cadastre in final preparation.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "integrated digital land platform",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated digital land platform",
+   "country_label": "Zimbabwe",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Lands and Rural Development",
+   "tiers": ""
+  },
+  {
+   "system": "e-cadastre (in final preparation)",
+   "country_label": "Zimbabwe",
+   "class": "land",
+   "platform": "",
+   "owner": "Surveyor General",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

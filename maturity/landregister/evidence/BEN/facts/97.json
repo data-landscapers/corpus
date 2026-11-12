@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-09-ben-compte-rendu-du-conseil-des-ministres-du-9-avril-2025",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Council of Ministers of 9 April 2025 states that the review of decree 2023-684 shows the city of Cotonou fully covered by the national cadastre through collective registration; a new decree replacing it aims at covering the whole national territory.",
+   "as_of": "2025-04-09",
+   "date_precision": "day",
+   "system": "Cadastre national",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cadastre national",
+   "country_label": "National cadastre",
+   "class": "land",
+   "platform": "e-foncier Benin",
+   "owner": "Government of Benin",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-26-sen-senegal-procasef-sgf-promogef-cadastre-le-futur-de-la-gouvernance-fonc",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "allAfrica reports the DGID awarded the contract for the SGF, an integrated land management platform with a cadastral GIS module, to ModelSis in December 2023 for an 18-month build, and describes it as still in gestation in December 2025.",
+   "as_of": "2025-12-23",
+   "date_precision": "day",
+   "system": "Systeme de gestion fonciere (SGF)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Systeme de gestion fonciere (SGF)",
+   "country_label": "Senegal",
+   "class": "land",
+   "platform": "",
+   "owner": "DGID (PROMOGEF)",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

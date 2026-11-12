@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-10-uga-bims-and-iras-integrated-to-boost-compliance-and-revenue-generation-in",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The National Building Review Board says BIMS and IRAS are integrated with the Uganda National Land Information System (UgNLIS) for land verification.",
+   "as_of": "2025-04-10",
+   "date_precision": "day",
+   "system": "UgNLIS",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UgNLIS",
+   "country_label": "Uganda National Land Information System",
+   "class": "land",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

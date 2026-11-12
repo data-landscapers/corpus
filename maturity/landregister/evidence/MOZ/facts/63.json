@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-28-moz-promoting-land-tenure-security-in-mozambique",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "none",
+   "fact": "The MCC evaluation brief says most land offices have significant challenges in land record management and many rely on paper records because the land information system is not functioning or is only a back-up database.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "land information management system",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

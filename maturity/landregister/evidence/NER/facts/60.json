@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-12-ner-acquisition-of-equipment-which-will-be-installed-at-the-national-datac",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "ANSI, under the World Bank-financed Smart Villages project (PVI), invited quotations on 12 March 2026 for equipment to be installed at the National Datacenter to host the E-Cadastre platform.",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "E-Cadastre platform",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Cadastre platform",
+   "country_label": "Niger",
+   "class": "land",
+   "platform": "hosted at the National Datacenter",
+   "owner": "ANSI / PVI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MDG,land,register,coverage,inservice,2025-07-07,MDG-003,MDG-002=underway;MDG-001=underway,
-MDG,land,national,coverage,,,,,nothing held
-MDG,land,online,coverage,,,,,nothing held
+MDG,land,register,coverage,inservice,2025-07-07,MDG-003,MDG-004=none;MDG-002=underway;MDG-001=underway;MDG-005=underway;MDG-006=underway,
+MDG,land,national,coverage,,,,,nothing found
+MDG,land,online,coverage,,,,,nothing found

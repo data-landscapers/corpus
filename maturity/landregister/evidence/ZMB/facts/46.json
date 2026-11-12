@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-12-zmb-the-zambia-integrated-land-administration-system-progress-or-setback",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ZILAS, run by the Ministry of Lands, is described as in service and generating digital title deeds with unique validation stamps.",
+   "as_of": "2025-03-12",
+   "date_precision": "day",
+   "system": "ZILAS",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "Law Association of Zambia president says users can submit and track land documents online and pay by electronic banking channels, without travelling to Lusaka or regional offices.",
+   "as_of": "2025-03-12",
+   "date_precision": "day",
+   "system": "ZILAS",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

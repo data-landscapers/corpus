@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-06-mwi-one-year-of-dpp-how-chipungu-is-securing-land-for-every-malawian-exclu",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Malawi's Lands Minister said in an interview that the ministry holds its land records in a Land Information Management System, against which a land audit checks physical files, and that it commissioned the new K965 million Ntchisi Land Registry.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Land Information Management System",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

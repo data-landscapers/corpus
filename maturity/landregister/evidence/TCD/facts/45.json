@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-08-tcd-foncier-au-tchad-la-regularisation-pour-prevenir-les-conflits",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Chad's Cadastre director described parcel regularisation files being checked in the GIRAF database, digitised by the Guichet unique and archived digitally.",
+   "as_of": "2026-11-08",
+   "date_precision": "day",
+   "system": "GIRAF",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIRAF",
+   "country_label": "Chad",
+   "class": "land",
+   "platform": "",
+   "owner": "Cadastre",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

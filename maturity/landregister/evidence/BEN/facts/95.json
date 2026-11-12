@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-ben-modernising-land-administration-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "MDF says e-Foncier Benin records land rights for part of the country, with 491,293 parcels mapped, 222,463 people with recorded rights and 2 municipalities and 387 villages almost fully registered in 2021-2025, and a national cadastre for all 77 communes is the aim.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "e-Foncier Benin (e-FB)",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

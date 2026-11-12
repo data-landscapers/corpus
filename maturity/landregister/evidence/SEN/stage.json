@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SEN-001;SEN-005",
-      "gaps": "No source says a land office works on SIFCOM; it was in preproduction in June 2026.",
-      "note": "SIFCOM, the communal land information system, was in preproduction in 55 communes in June 2026, and the World Bank found no land office working on it in November 2025. Titles are being recorded, so the register is under way, not in service.",
-      "as_at": "2026-11-11"
+      "gaps": "No source says a land office works on SIFCOM; it was in preproduction in June 2026. The tax directorate's Suigil 2 holds parcels for tax in pilot zones, not land rights.",
+      "note": "SIFCOM was in preproduction in 55 communes in June 2026, and the World Bank found no land office working on it in November 2025. Titles are being recorded and the tax platform covers pilot zones, so the register is under way, not in service.",
+      "as_at": "2026-11-12"
     }
   ]
 }

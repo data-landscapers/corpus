@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-15-tgo-foncier-apres-la-nomination-de-son-dg-l-andf-face-au-defi-de-son-opera",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Togo First says a land census and cadastre digitisation, begun in Agoè-Nyivé 1 and 2 in May 2023 with AFD funding of 300m FCFA, is under way in Greater Lomé.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "Agoè-Nyivé land census and cadastre digitisation",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "land",
-      "stage": "no evidence",
-      "register": "",
+      "stage": "2",
+      "register": "underway",
       "national": "",
       "online": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says how land rights are recorded.",
-      "note": "Nothing held states how land rights are recorded or whether a digital register exists.",
-      "as_at": "2026-11-11"
+      "stage_sources": "COM-001",
+      "gaps": "No source found since October 2023 says a digital land register is in service.",
+      "note": "In April 2026 the Cartography Unit said a land information system is being set up with World Bank funding. A 2024 opinion piece says there is no national online land register, and nothing says one is in service.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "land",
-      "stage": "2",
-      "register": "underway",
+      "stage": "3",
+      "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-002",
-      "gaps": "No source found since October 2023 says: is a digital land register in service.",
-      "note": "The federal government plans a national digital land information system and several states are building GIS systems, with over 90% of land untitled. Nothing held shows a register in service.",
-      "as_at": "2026-11-11"
+      "stage_sources": "NGA-005;NGA-008",
+      "gaps": "No source found since October 2023 says the digital land register covers the whole country. The federal land repository had not been launched in June 2026.",
+      "note": "State land registers are in service in Lagos (January 2024) and Cross River (June 2026), both taking applications online. The federal repository was awaiting launch, so the register covers part of the country.",
+      "as_at": "2026-11-12"
     }
   ]
 }

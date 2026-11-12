@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-mus-upcoming-projects",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Registrar General's Department describes the Mauritius e-Registry System (MeRS) as a mission-critical platform that underpins land and property registration.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Mauritius e-Registry System (MeRS)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mauritius e-Registry System (MeRS)",
+   "country_label": "Mauritius",
+   "class": "land",
+   "platform": "e-registry",
+   "owner": "Registrar General's Department",
+   "tiers": ""
+  }
+ ],
+ "note": "Online search of the land registry is only in user acceptance testing, so not online."
+}

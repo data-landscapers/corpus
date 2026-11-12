@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
       "stage_sources": "BEN-007;BEN-001",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "e-Foncier Bénin holds 643,993 parcels across 12 communes, three of them fully covered. National coverage is the aim of PPMEC II and TERRA BENIN, not yet a fact.",
-      "as_at": "2026-11-11"
+      "note": "e-Foncier Benin holds 643,993 parcels across 12 communes, three of them fully covered, and ANDF e-services take land title requests online. National coverage is the aim of PPMEC II and TERRA BENIN, not yet a fact, so not 4.",
+      "as_at": "2026-11-12"
     }
   ]
 }

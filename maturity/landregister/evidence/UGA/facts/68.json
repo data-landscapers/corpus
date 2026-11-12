@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-28-uga-ugandans-abroad-welcome-digitalisation-of-land-titles",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Lands Permanent Secretary Okalany said more than 1.5 million land titles have already been digitised under the new system.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "digitalised land titles system",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "Okalany said landowners can verify their land status online or through the ministry's mobile application for 10,000 Ugandan shillings.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "digitalised land titles system",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digitalised land titles system",
+   "country_label": "Uganda",
+   "class": "land",
+   "platform": "online and mobile app",
+   "owner": "Ministry of Lands, Housing and Urban Development",
+   "tiers": ""
+  }
+ ],
+ "note": "No statement of national coverage."
+}

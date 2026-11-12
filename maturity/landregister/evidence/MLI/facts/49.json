@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-19-mli-digitalisation-de-ladministration-deux-nouvelles-plateformes-de-modern",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "ORTM reports the Système d'informations foncières / Guichet unique du foncier (SIF/GUF) was presented to the Primature's steering committee on 18 March 2025, to be operational in the six communes of Bamako district, and to computerise land allocation and management procedures.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "SIF/GUF (Guichet unique du foncier)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIF/GUF (Guichet unique du foncier)",
+   "country_label": "Mali",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Urban Planning, Housing and State Lands",
+   "tiers": "Bamako six communes planned"
+  }
+ ],
+ "note": ""
+}

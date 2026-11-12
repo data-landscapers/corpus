@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-01-dza-ouest-tribune-numerisation-finances-systeme-information-tresor",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Minister Faid said the State Domains services have a dedicated land and State property information system to digitise cadastre, land conservation and State property activities, and that integration and digitisation systems were launched for the cadastre and land conservation directorates.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Land and State property information system",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Land and State property information system",
+   "country_label": "Algeria",
+   "class": "land",
+   "platform": "information system with digital platforms",
+   "owner": "Ministry of Finance, State Domains services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,3 +1,8 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TGO,national geodetic and levelling network and CORS station network,Togo,other,CORS stations,Ministere de l'Amenagement du Territoire et de l'Urbanisme; Ministere des Finances et du Budget,,2026-03-09-togo-communique-rattachement-reseau-geodesique-national
 TGO,cadastre (digital database of georeferenced land titles),Togo,land,digital database,Direction du Cadastre et de la Conservation Fonciere / OTR,,2025-11-19 Georeferencing of land titles - a revolution for security and transparency in Togo
+TGO,Numéro Unique Parcellaire (NUP),Togo,land,,OTR,,2025-05-26-tgo-togo-operation-de-mise-a-jour-des-anciens-titres-fonciers-non-georefer
+TGO,Guichet Foncier Unique,Togo,land,,OTR,,2025-05-26-tgo-togo-operation-de-mise-a-jour-des-anciens-titres-fonciers-non-georefer
+TGO,Système d'Informations du Foncier (SIF),Togo,land,,Office Togolais des Recettes,,2026-05-11-tgo-ami-togo-recrutement-d-un-cabinet-charge-du-developpement-de-l-applica
+TGO,land books digitisation and title application (DCCF),Togo,land,business application,Direction du Cadastre et de la Conservation Foncière (OTR),,2025-12-05-tgo-transformation-numerique-au-togo-l-otr-et-le-pagdsp-saluent-l-excellen
+TGO,OTR property census and fiscal cadastre,Togo,land,tablets with geolocation mapping,Office Togolais des Recettes,national,2024-01-03-tgo-togo-the-local-government-revenue-initiative

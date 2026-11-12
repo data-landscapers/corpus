@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-31-uga-jinja-land-office-backlog-exposes-staffing-infrastructure-gaps-despite",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Monitor reports that Uganda's digital land registration system, UgNLIS, is in service at the Jinja zonal office, with old records still being digitised.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "UgNLIS",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

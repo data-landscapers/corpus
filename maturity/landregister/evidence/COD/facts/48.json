@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-cod-reforme-fonciere-se-mme-oneige-nsele-lance-la-numerisation-de-ladminis",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "On 5 August 2026 the Ministry of Land Affairs signed a protocol with INaCo to start digitising land administration, with 200 agents trained and land archives sorted and coded in pilot circumscriptions before integration into a digital archiving system.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "Land archive digitisation (Ministry of Land Affairs and INaCo)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Land archive digitisation (Ministry of Land Affairs and INaCo)",
+   "country_label": "DR Congo",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Land Affairs; INaCo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

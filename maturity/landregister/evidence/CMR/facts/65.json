@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-03-cmr-mindcaf-engager-les-reflexions-pour-la-mise-en-uvre-progressive-de-la",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "none",
+   "fact": "The Directorate General of the Budget reports no commune had a digital cadastral plan in 2024 against a target of 0.25, and that the large project to computerise land conservations is still under reflection.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "digital cadastre (MINDCAF programme 026)",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-14-tun-la-tunisie-va-enfin-se-doter-d-un-systeme-foncier-digitalise",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Managers reports a Tunis workshop on setting up the Tunisian Land Information System (TLIS), whose components include creating a digital land database and digitising land archives.",
+   "as_of": "2023-11-14",
+   "date_precision": "day",
+   "system": "Tunisian Land Information System (TLIS)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tunisian Land Information System (TLIS)",
+   "country_label": "Tunisia",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Equipment and Housing / OTC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

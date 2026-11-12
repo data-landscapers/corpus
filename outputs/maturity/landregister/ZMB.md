@@ -2,12 +2,12 @@
 
 ## Land register
 
-**Digital register in service.** [SMART Zambia Institute says the Zambia Integrated Land Administration System (ZILAS) is deployed and 100% digital, handling land administration in Zambia](<https://www.szi.gov.zm/?p=3792>). [A Ministry of Lands ICT officer says ZILAS, deployed by the SMART Zambia Institute and hosted on the Government Service Bus, is in use and issuance of title deeds is now digitally processed](<https://www.szi.gov.zm/?p=3769>). 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Digital register in service.** [SMART Zambia Institute says ZILAS, the Zambia Integrated Land Administration System, is deployed and fully digital](<https://www.szi.gov.zm/?p=3792>). [A Ministry of Lands officer says title deeds are now issued through it](<https://www.szi.gov.zm/?p=3769>), and that it is hosted on the Government Service Bus. In March 2025 [ZILAS was generating digital title deeds with unique validation stamps](<https://buyingpropertyinzambia.com/2025/03/12/the-zambia-integrated-land-administration-system-progress-or-setback/>).
 
-**Nationwide.** No source found since October 2023 says the digital land register covers the whole country. The nearest held fact: [the one given above](<https://www.szi.gov.zm/?p=3792>).
+**Nationwide.** No source found since October 2023 says the digital land register covers the whole country. The nearest held fact is [the digital title deeds ZILAS issued in March 2025](<https://buyingpropertyinzambia.com/2025/03/12/the-zambia-integrated-land-administration-system-progress-or-setback/>).
 
-**Online services.** [SMART Zambia Institute says users can apply for any land-related matter through ZILAS web and mobile interfaces, accessed via the Government Service Bus](<https://www.szi.gov.zm/?p=3792>).
+**Online services.** [Users can apply for any land matter through ZILAS web and mobile interfaces](<https://www.szi.gov.zm/?p=3792>). The Law Association's president says [documents can be submitted, tracked and paid for online](<https://buyingpropertyinzambia.com/2025/03/12/the-zambia-integrated-land-administration-system-progress-or-setback/>). Payment is by electronic banking. Nobody has to travel to Lusaka or a regional office.
 
 ***Also on file***. [National Land Titling Project (NLTP)](<https://www.pdu.gov.zm/blog/fixing-land-records-is-central-to-zambias-development-agenda>); [Zamportal](<https://www.szi.gov.zm/?p=3769>).
 
-***Not found***. No source found since October 2023 says the digital land register covers the whole country.
+***Not found***. No source found since October 2023 says the digital land register covers the whole country. No source says how many land offices use ZILAS.

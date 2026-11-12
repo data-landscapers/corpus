@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-ner-recrutement-d-un-cabinet-consortium-charge-de-la-collecte-des-donnees",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "ANSI's Smart Villages project (PVI), financed by the World Bank, sought a firm in 2026 to collect georeferenced digital cadastral data on the 15,000-plot Bangoula E-Cadastre pilot site and integrate it into the national E-Cadastre platform.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "E-Cadastre",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Cadastre",
+   "country_label": "Niger",
+   "class": "land",
+   "platform": "national E-Cadastre platform, Bangoula pilot",
+   "owner": "ANSI / PVI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

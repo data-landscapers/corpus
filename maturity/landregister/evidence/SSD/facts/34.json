@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-15-ssd-land-ministry-to-take-over-land-registry-role-from-judiciary",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Eye Radio quotes the head of the South Sudan Land Commission saying the lands ministry is establishing a land registrar within the ministry to digitalise the land registry system and take over the role from the judiciary.",
+   "as_of": "2024-04-15",
+   "date_precision": "day",
+   "system": "Ministry digital land registrar",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-14-tza-assessing-the-effectiveness-of-integrated-information-management-syste",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The journal study says ILMIS has improved the accuracy of ownership records in areas where it is fully implemented, as seen in Dar es Salaam City Council.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ILMIS",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

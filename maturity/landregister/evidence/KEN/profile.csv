@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,land,register,coverage,inservice,2026-09-21,KEN-001;KEN-004,KEN-006=underway;KEN-003=underway,
+KEN,land,register,coverage,inservice,2026-09-21,KEN-001;KEN-004;KEN-007;KEN-008;KEN-012;KEN-013,KEN-006=underway;KEN-010=underway;KEN-003=underway;KEN-011=underway,
 KEN,land,national,coverage,,,,,nothing found
-KEN,land,online,coverage,online,2026-09-21,KEN-002;KEN-005,,
+KEN,land,online,coverage,online,2026-09-21,KEN-002;KEN-005;KEN-009,,

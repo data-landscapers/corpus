@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-18-dza-recettes-record-et-services-numeriques-l-etat-modernise-la-gestion-fon",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Director General of State Domains called in April 2026 for full use of the Amlak information system in State property, cadastre and land conservation activities.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Amlak",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "A pilot was launched at the Dar El Beida and El Harrach land conservation offices to issue cadastral and land registry extracts through the national digital services portal.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Fada El Djazair",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Amlak",
+   "country_label": "Algeria",
+   "class": "land",
+   "platform": "",
+   "owner": "Direction Generale du Domaine National",
+   "tiers": ""
+  }
+ ],
+ "note": "No statement of national coverage."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-14-sle-national-land-commission-assesses-administrator-general-registry-s-lan",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The National Land Commission inspected bound paper land records at the Office of the Administrator and Registrar General on 13 February 2024 in preparation for the upcoming digitisation project of the Sierra Leone Land Administration Project (SLLAP).",
+   "as_of": "2024-02-13",
+   "date_precision": "day",
+   "system": "SLLAP land records digitisation",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

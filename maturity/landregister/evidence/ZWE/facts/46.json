@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-08-zwe-digital-land-system-to-boost-transparency",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Lands Permanent Secretary Prosper Matondi told The Herald the ministry is creating a single, integrated national land registry as part of a land information management system, replacing records held in Excel and Access.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "national land registry",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national land registry",
+   "country_label": "Zimbabwe",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Lands and Rural Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

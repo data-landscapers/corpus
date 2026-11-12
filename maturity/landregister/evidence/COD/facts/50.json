@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-26-cod-rdc-restitution-des-etudes-sur-l-evaluation-des-initiatives-de-numeris",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Fonaredd reports a feasibility study of a land atlas documented 151 land administrations across 26 provinces, and the proposed e-SIF 2.0 would digitise land archives and build a GIS digital cadastre.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "e-SIF 2.0 / Atlas foncier",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

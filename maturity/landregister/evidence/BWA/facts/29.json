@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-19-bwa-over-4-000-await-secure-title-certificates",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Botswana Daily News reports Land Board officers across the country can now process Secure Land Title transactions electronically through the web-based Land Information System, as the Assistant Minister told Parliament on 18 August 2026.",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "Land Information System (LIS)",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "national",
+   "value": "nationwide",
+   "fact": "The Assistant Minister of Lands said Land Board officers across the country can process Secure Land Title transactions through the web-based LIS, while only the Gaborone registry can print the deeds.",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "Land Information System (LIS)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Land Information System (LIS)",
+   "country_label": "Botswana",
+   "class": "land",
+   "platform": "web-based",
+   "owner": "Ministry of Lands and Agriculture",
+   "tiers": "Land Boards"
+  }
+ ],
+ "note": ""
+}

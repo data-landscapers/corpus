@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,land,register,coverage,underway,2026-10-08,COD-001;COD-002;COD-003,,
-COD,land,national,coverage,,,,,nothing held
-COD,land,online,coverage,,,,,nothing held
+COD,land,register,coverage,underway,2026-10-08,COD-001;COD-002;COD-003;COD-004;COD-005;COD-006;COD-007,,
+COD,land,national,coverage,,,,,nothing found
+COD,land,online,coverage,,,,,nothing found

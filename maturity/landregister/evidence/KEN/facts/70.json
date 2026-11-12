@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-20-ken-state-department-for-lands-makes-major-strides-in-reforms-and-digitiza",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Kenya's State Department for Lands says Ardhisasa, its National Land Information Management System, is live in Nairobi, Murang'a and Mombasa, while many land offices still rely on manual processes.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "Ardhisasa (NLIMS)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ardhisasa (NLIMS)",
+   "country_label": "Ardhisasa",
+   "class": "land",
+   "platform": "",
+   "owner": "State Department for Lands and Physical Planning",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

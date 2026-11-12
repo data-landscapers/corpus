@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-27-lbr-lla-deepens-land-reforms-launches-new-deed-form-guidelines-digital-sys",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The LLA signed a three-year memorandum on 16 October 2025 with All for Land and Lee Metrics for developing the Liberia Land Information System, described as a digital platform for land administration.",
+   "as_of": "2025-10-16",
+   "date_precision": "day",
+   "system": "Liberia Land Information System",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia Land Information System",
+   "country_label": "Liberia",
+   "class": "land",
+   "platform": "",
+   "owner": "Liberia Land Authority with All for Land and Lee Metrics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

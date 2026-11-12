@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-11-tgo-ami-togo-recrutement-d-un-cabinet-charge-du-developpement-de-l-applica",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "An African Development Bank-posted notice under the PAGDSP seeks a firm to develop the Office Togolais des Recettes' Land Information System (SIF) database modules, integrating existing data and applications.",
+   "as_of": "2026-05-11",
+   "date_precision": "day",
+   "system": "SIF",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système d'Informations du Foncier (SIF)",
+   "country_label": "Togo",
+   "class": "land",
+   "platform": "",
+   "owner": "Office Togolais des Recettes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

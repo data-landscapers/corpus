@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-01-gha-the-digital-transformation-of-ghana-s-lands-commission",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Lands Commission says it has scanned, geo-referenced and digitised existing records and runs them on ELIS, cutting file retrieval from months to a few days, and lists national roll-out as still to come.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "ELIS",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "The Lands Commission's online portal lets applicants submit and track searches and registration, including first registration and transfers, and pay online.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "ELIS",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ELIS",
+   "country_label": "Ghana",
+   "class": "land",
+   "platform": "",
+   "owner": "Lands Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
