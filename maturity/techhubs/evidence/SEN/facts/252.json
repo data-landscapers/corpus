@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-15-sen-produire-de-la-valeur-en-termes-de-bonne-gouvernance-et-renforcer-la-c",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "News Day says the Parc technologique numérique is being finalised.",
+   "as_of": "2023-12-15",
+   "date_precision": "day",
+   "system": "Parc technologique numérique",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Parc technologique numérique",
+   "country_label": "Parc technologique numérique",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
