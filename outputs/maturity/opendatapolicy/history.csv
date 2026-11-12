@@ -41,3 +41,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,TCD,gov.policy--open-data-policy,fact,no evidence,unplaced,,"External claims (housekeeping 58): GovTech 2025 portal answer held; no policy on record, so unplaced"
 2026-11-11,ZMB,gov.policy--open-data-policy,fact,no evidence,unplaced,,"External claims (housekeeping 58): GovTech 2025 portal answer held; no policy on record, so unplaced"
 2026-11-11,MUS,gov.policy--open-data-policy,fact,3,4,MUS-002;MUS-001,"External claims (housekeeping 58): Mauritius told GovTech 2025 data.govmu.org is its open data portal; portal under the adopted policy, 3 to 4"
+2026-11-12,MAR,gov.policy--open-data-policy,review,2,2,MAR-010,"Rebuild 2026-11-12: stage 2 stands on the draft open data decree (MAR-010); the use aspect cleared, as for every country whose portal runs under no adopted policy"
