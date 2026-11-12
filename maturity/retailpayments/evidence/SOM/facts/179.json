@@ -1,0 +1,34 @@
+{
+ "slug": "2024-10-08-som-challenges-of-automating-the-property-tax-system-in-garowe-city-puntla",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "LoGRI says Garowe taxpayers pay property tax invoices through the mobile money platforms Sahal and e-Dahab, confirmed by text message.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Sahal and e-Dahab mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sahal",
+   "country_label": "Sahal",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "e-Dahab",
+   "country_label": "e-Dahab",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

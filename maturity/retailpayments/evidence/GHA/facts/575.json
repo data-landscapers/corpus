@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-14-gha-lands-commission-outlines-four-steps-for-conducting-online-land-search",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Citi Newsroom reports a Ghanaian government online service takes payment of its fee by mobile money, which implies mobile money is in use.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "Lands Commission online services portal",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lands Commission online services portal",
+   "country_label": "GHA",
+   "class": "other",
+   "platform": "onlineservices.lc.gov.gh",
+   "owner": "Lands Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2025-05-05-moz-e-m-magazine-processes-solved-online-only-if-you-go-to-the-counter",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "E&M Magazine, republished by 360 Mozambique, reports that M-Pesa, e-Mola and Mkesh mobile wallets are in daily use for transfers, bill payments and phone credit.",
+   "as_of": "2025-05-05",
+   "date_precision": "day",
+   "system": "M-Pesa, e-Mola, Mkesh",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "e-Mola",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Mkesh",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-16-gin-startups-en-guinee-ibrahima-diallo-dresse-l-autopsie-d-un-ecosysteme-q",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Lengo Pay's director general says payments are the only technology segment in Guinea to have built significant volume, citing electronic money among the viable sectors, and that payment interoperability is still to come.",
+   "as_of": "2026-08-16",
+   "date_precision": "day",
+   "system": "digital payment solutions",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lengo Pay",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "",
+   "owner": "Lengo Pay (private)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

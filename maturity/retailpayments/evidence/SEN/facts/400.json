@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-30-sen-wave-raises-eur-117-million-to-accelerate-financial-inclusion-across-t",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Finnfund's release says Wave Mobile Money operates in Senegal, where it enables low-cost transfers and bill payments, and RMB cites Senegal as a key market.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Wave Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wave Mobile Money",
+   "country_label": "Senegal",
+   "class": "retail",
+   "platform": "",
+   "owner": "Wave",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

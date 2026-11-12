@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-24-sle-bo-district-council-launches-electronic-tax-payment",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Bo District Council's page says Africell, Orange and Qcell mobile money was used to launch the GovPay Sierra Leone e-money application for paying property rates on 24 April 2025, with a USSD payment demonstrated through Africell.",
+   "as_of": "2025-04-24",
+   "date_precision": "day",
+   "system": "GovPay Sierra Leone (Africell, Orange, Qcell e-money)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovPay Sierra Leone",
+   "country_label": "Sierra Leone",
+   "class": "retail",
+   "platform": "mobile money USSD",
+   "owner": "GovPay SL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

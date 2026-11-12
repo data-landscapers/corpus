@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-28-gnb-revolut-mobile-wallets-airtel-orange-money-mtn",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Revolut's release says Airtel Money and MTN wallets in Congo receive money, as mobile wallets African countries rely on.",
+   "as_of": "2024-05-28",
+   "date_precision": "day",
+   "system": "Airtel Money; MTN",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

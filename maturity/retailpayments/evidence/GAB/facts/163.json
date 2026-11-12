@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-01-gab-e-tax-la-mairie-de-libreville-dresse-un-premier-bilan-de-la-collecte-n",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Medias241 reports mobile payments of market taxes in Libreville mobilised about FCFA 200 million through Airtel Money and FCFA 10 million through Moov, according to the E-Tax technical team.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Airtel Money; Moov Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "Airtel Money",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Airtel Gabon",
+   "tiers": ""
+  },
+  {
+   "system": "Moov Money",
+   "country_label": "Moov Money",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Moov Africa Gabon Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

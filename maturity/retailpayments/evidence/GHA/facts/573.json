@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-30-gha-ghanaian-fintech-zeepay-raises-18m-debt-to-power-remittance-led-expans",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Launch Base Africa describes Zeepay as a Ghanaian non-telco operator offering mobile money services and remittance-to-wallet payments, operating in Ghana among other countries.",
+   "as_of": "2025-04-30",
+   "date_precision": "day",
+   "system": "Zeepay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zeepay",
+   "country_label": "Ghana",
+   "class": "retail",
+   "platform": "remittance-to-wallet",
+   "owner": "Zeepay (private)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

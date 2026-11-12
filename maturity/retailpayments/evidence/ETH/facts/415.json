@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-26-eth-ethio-telecom-lists-on-ethiopian-securities-exchange",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article says 58.6m Ethiopians use Ethio Telecom's telebirr mobile payment service, with ETB 1.9 trillion in electronic money transfers in the six months to December 2025.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "telebirr",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "telebirr",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Ethio Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

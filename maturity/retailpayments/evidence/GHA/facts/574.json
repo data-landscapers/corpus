@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-11-gha-ghanaian-fintech-affinity-bags-8m-to-scale-digital-banking-in-a-mobile",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechCrunch says mobile money is the dominant financial tool in Ghana's market.",
+   "as_of": "2025-02-11",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

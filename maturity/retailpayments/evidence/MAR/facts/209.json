@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-15-mar-morocco-s-ora-technologies-raises-7-5m-series-a-to-expand-superapp-eco",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Launchbase Africa says Ora Cash, a mobile wallet launched with M2T (a Banque Centrale Populaire subsidiary), handles mobile transfers, bill payments and QR purchases through over 5,000 agent locations.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Ora Cash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ora Cash",
+   "country_label": "MAR",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "Ora Technologies (with M2T)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

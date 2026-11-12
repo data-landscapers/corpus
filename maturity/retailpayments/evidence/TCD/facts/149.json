@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-southwood-chad-landlocked-one-international-fibre-exit",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Russell Southwood says mobile money is in use in Chad, mostly through Airtel and Moov plus independents Wave and Cashi, with 13.3% of adults holding accounts per Findex 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Mobile money (Airtel, Moov, Wave, Cashi)",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

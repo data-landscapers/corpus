@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-rwa-declare-your-immovable-property-tax-today-to-avoid-procrastination",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Rwanda Revenue Authority says property tax can be paid by Mobile Money and Mobicash, which implies both are in service.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Mobile Money; Mobicash",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

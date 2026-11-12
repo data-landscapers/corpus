@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-05-bfa-orange-burkina-faso-257-milliards-f-cfa-d-investissements-pour-l-inclu",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Orange Burkina Faso's CSR report says Orange Money, with 72,376 points of sale, paid FCFA 43.7 billion in commissions to its distribution network in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Burkina Faso",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange Burkina Faso",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

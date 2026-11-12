@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-lso-lesotho-startup-funding-hundreds-incubated-little-equity",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Africa Capital Report says Pay Lesotho is reported to process M20 million in monthly transactions across more than 300 merchants.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Pay Lesotho",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Pay Lesotho",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "",
+   "owner": "Pay Lesotho (private)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

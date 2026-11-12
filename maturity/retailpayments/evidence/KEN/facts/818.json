@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-30-ken-stamp-duty-payments-simplified-by-ardhipay",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Ardhipay invoices can be paid by M-PESA, including Paybill 222222, the single government payment platform designated in August 2023, per ANO Advocates.",
+   "as_of": "2023-11-17",
+   "date_precision": "day",
+   "system": "M-PESA Paybill 222222",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-PESA Paybill 222222",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "M-PESA",
+   "owner": "Government of Kenya single payment platform",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
