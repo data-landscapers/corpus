@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-20-lso-govls-eservices-validation-first-stage-automation",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Ministry of Information, Communications, Science, Technology and Innovation held a validation exercise with ministries including Home Affairs, Public Service, Public Works and Finance on the first stage of automating e-services, with back-end integration to follow, per the Lesotho News Agency.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "Lesotho e-services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lesotho e-services",
+   "country_label": "Lesotho",
+   "class": "eservices",
+   "platform": "",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-07-mar-services-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Canal212, republishing ANCFCC's catalogue, lists fourteen online services of the land registry agency, including property certificates, cadastral plans, title tracking (Mohafadati), complaints (Chikaya) and map orders, available on ancfcc.gov.ma.",
+   "as_of": "2024-04-07",
+   "date_precision": "day",
+   "system": "ANCFCC online services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCFCC online services",
+   "country_label": "Morocco",
+   "class": "eservices",
+   "platform": "ancfcc.gov.ma",
+   "owner": "ANCFCC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

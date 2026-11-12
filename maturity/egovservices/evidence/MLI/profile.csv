@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MLI,eservices,services,coverage,inservice,2026-02-10,MLI-003,MLI-002=underway;MLI-001=underway,
+MLI,eservices,services,coverage,underway,2026-02-10,MLI-001;MLI-002;MLI-003,,
 MLI,eservices,gateway,coverage,,,,,nothing found
 MLI,eservices,usage,coverage,,,,,nothing found

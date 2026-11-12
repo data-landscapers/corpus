@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-mus-upcoming-projects",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Registrar General's Department says user acceptance testing is under way for an extended online search of the RGD Land Registry with e-vouchers for online payment, to be rolled out to the public once finalised.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RGD online search module",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGD online search module and e-vouchers",
+   "country_label": "Mauritius",
+   "class": "eservices",
+   "platform": "RGD online services",
+   "owner": "Registrar General's Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

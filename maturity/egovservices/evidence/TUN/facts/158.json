@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-16-tun-la-tunisie-lance-une-plateforme-numerique-innovante-pour-l-agence-nati",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Tunisie Numerique reports the health minister inaugurated a digital administrative platform for the medicines agency ANMPS on 22 January 2025, with administrative services to be accessible online.",
+   "as_of": "2025-01-22",
+   "date_precision": "day",
+   "system": "ANMPS digital platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANMPS digital platform",
+   "country_label": "Tunisia",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Agence nationale des médicaments et des produits de santé",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

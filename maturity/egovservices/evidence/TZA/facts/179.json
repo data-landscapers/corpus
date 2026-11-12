@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-01-tza-otr-public-investment-management-system-dashboard",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Public Investment Management System (PIMS)",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "dashboard.tro.go.tz",
+   "owner": "Office of the Treasury Registrar",
+   "tiers": ""
+  }
+ ],
+ "note": "PIMS is an oversight dashboard for public entities, not a service citizens or firms complete online."
+}

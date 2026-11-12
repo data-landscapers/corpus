@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-11-eth-addis-ababa-embarking-on-smart-city-transformation",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Addis Ababa city administration says its Investment Office already lets citizens apply for permits and renewals online from home, and institutions are moving from manual to online services.",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "Addis Ababa Investment Office online permits",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Addis Ababa Investment Office online permits",
+   "country_label": "Ethiopia (Addis Ababa)",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Addis Ababa city administration",
+   "tiers": "city"
+  }
+ ],
+ "note": ""
+}

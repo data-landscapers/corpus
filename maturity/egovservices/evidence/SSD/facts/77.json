@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-11-ssd-eservices-portal-ministries-and-services-catalogue",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Government of South Sudan's eServices portal lists 14 ministries and agencies with 47 named online services, such as passport, eVisa, licence and permit applications and eTax, as retrieved on 11 November 2026.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "eServices portal",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "The eServices portal, an account page, describes itself as secure single-window access to public and private services and carries the services of 14 ministries and agencies.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "eServices portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eServices portal",
+   "country_label": "South Sudan",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": "No sign-in by national ID is stated, and no user or transaction counts."
+}

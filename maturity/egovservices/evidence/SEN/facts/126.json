@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-24-sen-digitalisation-de-la-justice-des-services-desormais-accessibles-en-lig",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The e-service de la justice portal, interoperable with the e-Sénégal single counter, offers in its pilot phase criminal-record extracts, nationality certificates and the permis de communiquer, per the justice minister.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "e-service de la justice",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-service de la justice",
+   "country_label": "Sénégal",
+   "class": "eservices",
+   "platform": "web portal, interoperable with e-Sénégal",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

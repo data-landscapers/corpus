@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-14-gha-lands-commission-outlines-four-steps-for-conducting-online-land-search",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Citi Newsroom reports the Lands Commission's online portal lets buyers upload a site plan, pay the search fee and receive a land search report by email, live in 10 of 16 regions.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "Lands Commission online services portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lands Commission online services portal",
+   "country_label": "GHA",
+   "class": "eservices",
+   "platform": "onlineservices.lc.gov.gh",
+   "owner": "Lands Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

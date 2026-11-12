@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-05-ben-communique-e-services-de-l-andf",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The ANDF director general's communique of 5 June 2024 says five land e-services are now available on the national public services platform service-public.bj, including online requests for a land title and for a subdivision certificate.",
+   "as_of": "2024-06-05",
+   "date_precision": "day",
+   "system": "service-public.bj",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "service-public.bj",
+   "country_label": "Benin (service-public.bj)",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of Benin",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

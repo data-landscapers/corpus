@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-uga-national-backbone-infrastructure-project-nbi-egi",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "NITA-U's project page lists six government services online: the UIA One-Stop Center, the EC Voters Register, E-Visa, E-Tax, E-Single Window and the IGG Wealth Declaration.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Government services online listed by NITA-U",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

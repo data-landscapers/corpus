@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-09-equatorial-guinea-sigef-biometric-civil-servant-register",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGEF (Sistema Integral de Gestión de Funcionarios)",
+   "country_label": "Equatorial Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Treasury and State Property",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGEF is an internal civil-servant HR system, not a service people use online."
+}

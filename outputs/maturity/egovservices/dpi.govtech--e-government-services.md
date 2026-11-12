@@ -21,9 +21,9 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 4 |
+| 4 Operating | 5 |
 | 3 Established | 8 |
-| 2 Nascent | 32 |
+| 2 Nascent | 31 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
 | No evidence | 0 |
@@ -93,6 +93,14 @@ A one-stop digital platform for government services with national ID sign-in ran
 
 - National ID Ethiopia's deck describes Mesob as a Fayda-based digital one-stop shop for e-government services, listed with agriculture and health services ([source, 2026-05](https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf)).
 - The US Commerce guide says the government has digitised more than 130 services across 25 service providers through portals including e-service ([source, 2024](https://www.trade.gov/country-commercial-guides/ethiopia-digital-economy)).
+
+### South Sudan: 4 Operating
+
+One national portal with a single account carried 47 services of 14 ministries in 2026; how many use it is not known.
+
+- The Government of South Sudan's eServices portal lists 14 ministries and agencies with 47 named online services, such as passport, eVisa, licence and permit applications and eTax, as retrieved on 11 November 2026 ([source, 2026-11-11](https://accounts.eservices.gov.ss/mdas)).
+- The eServices portal, an account page, describes itself as secure single-window access to public and private services and carries the services of 14 ministries and agencies ([source, 2026-11-11](https://accounts.eservices.gov.ss/mdas)).
+- The portal describes a single username and password giving access to services of several agencies (revenue authorities, Bureau of Standards, business registration), as a single account for all government to citizen services ([source, 2024](https://www.eservices.gov.ss/)).
 
 ### Togo: 4 Operating
 
@@ -360,14 +368,6 @@ Government services were going online in 2024; ten or more online are not on rec
 
 - Somalia introduced its Electronic Travel Authorization System (eVisa) in September 2025, requiring foreign travellers to obtain authorization online before travelling, which the federal Immigration and Citizenship Agency describes as a unified national entry system ([source, 2025-09](https://www.hiiraan.com/politics4/2026/Oct/206580/somali_federal_government_says_evisa_dispute_with_somaliland_resolved_but_hargeisa_denies_agreement.aspx)).
 - GovStack says a government-wide content management system serving as a service catalogue and a high school certificate service are being built, with official launch foreseen for Q4 2024 ([source, 2024-09-29](https://govstack.global/showcase/digital-leaders-spotlight-rwanda/)).
-
-### South Sudan: 2 Nascent
-
-South Sudan's portals took permits, licences and payments online in 2024 and 2026; a count of ten or more services online is not known.
-
-- The National Communication Authority's e-Services Platform was officially launched in Juba, for licensing, payments and other regulatory services online ([source, 2026-02-11](https://radioyei.org/news/technology/nca-e-services-go-live-across-south-sudan/)).
-- One Citizen Daily reports the launch of the National Communication Authority e-Services Platform, on which licensing and payments that once required office visits can now be completed online ([source, 2026-02-13](https://www.onecitizendaily.com/index.php/2026/02/13/south-sudan-digitizes-regulation-to-strengthen-revenue-collection/)).
-- The eServices portal offers online applications for permits and clearances from the revenue authorities, the Bureau of Standards accreditation permit, TIN registration on eTax and business registration, with payment online and permit delivered as PDF ([source, 2024](https://www.eservices.gov.ss/)).
 
 ### Tanzania: 2 Nascent
 

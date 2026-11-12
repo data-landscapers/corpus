@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-02-bfa-dematerialisation-des-procedures-de-l-administration-la-plateforme-ati",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The government information service reports that the digital transition minister launched the ATI platform on 2 April 2024, where firms apply online for the IT technical accreditation, track the request and verify an issued accreditation.",
+   "as_of": "2024-04-02",
+   "date_precision": "day",
+   "system": "ATI platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ATI platform",
+   "country_label": "Burkina Faso",
+   "class": "eservices",
+   "platform": "ati.gov.bf",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

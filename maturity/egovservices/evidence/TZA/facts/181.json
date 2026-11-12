@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-tza-maxbit-has-signed-a-digital-transformation-contract-with-the-governmen",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Maxbit says the Zanzibar government contracted it to build electronic services, including electronic payments and digital document management, on its Origami platform, with no service yet reported live.",
+   "as_of": "2024-06-01",
+   "date_precision": "day",
+   "system": "Origami",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** In February 2026 the National Communication Authority [launched an e-Services platform where licences and payments are completed online](<https://www.onecitizendaily.com/index.php/2026/02/13/south-sudan-digitizes-regulation-to-strengthen-revenue-collection/>). The Business Registration Service portal [lets users apply online to validate a business and receive approval](<https://brs.eservices.gov.ss>). [The eServices portal takes online applications for revenue permits, standards permits, TIN registration and business registration](<https://www.eservices.gov.ss/>), with payment online. In December 2025 a Republic Order [gave the E-Service Board authority to digitise all government institutions by January 2026](<https://www.sudanspost.com/rigid-government-institutions-given-ultimatum-to-digitize-by-january-2026/>).
+**Services online.** On 11 November 2026 [the eServices portal listed 47 named online services of 14 ministries and agencies](<https://accounts.eservices.gov.ss/mdas>). They include passports, eVisas, licences, permits and eTax. In February 2026 the National Communication Authority [put licences and payments online](<https://www.onecitizendaily.com/index.php/2026/02/13/south-sudan-digitizes-regulation-to-strengthen-revenue-collection/>). The [portal takes revenue permits, standards permits, TIN and business registration](<https://www.eservices.gov.ss/>), paid online. In December 2025 a Republic Order [told all government institutions to digitise by January 2026](<https://www.sudanspost.com/rigid-government-institutions-given-ultimatum-to-digitize-by-january-2026/>).
 
-**Single gateway.** [One eServices.gov.ss account gives access to all government services online, including business registration](<https://brs.eservices.gov.ss>). Citizens and residents [create it with their ID, and foreigners with a passport number](<https://brs.eservices.gov.ss>). [The portal's one username and password reach the services of several agencies](<https://www.eservices.gov.ss/>), among them the revenue authorities and the Bureau of Standards.
+**Single gateway.** [One eServices.gov.ss account reaches all government services online](<https://brs.eservices.gov.ss>). Citizens and residents create it with their ID, and foreigners with a passport number. The portal [calls itself a single window to public and private services](<https://accounts.eservices.gov.ss/mdas>), carrying 14 ministries and agencies.
 
-**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://brs.eservices.gov.ss>).
+**Use published.** No count of users, applications or transactions through the portal has been found since October 2023. The nearest fact is [its list of 47 services](<https://accounts.eservices.gov.ss/mdas>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found says ten or more government services can be completed online. No portal count reaches ten.
+***Not found***. No count of users, applications or transactions through the national portal.

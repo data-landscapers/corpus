@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "2",
+      "stage": "4",
       "services": "inservice",
       "gateway": "single",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SSD-007;SSD-001;SSD-004",
-      "gaps": "No source found says ten or more government services can be completed online, or gives a count of ten or more on a government portal.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source counts ten or more services online; the single eServices.gov.ss account (SSD-003, SSD-005) does not answer question 2.",
-      "as_at": "2026-11-09"
+      "stage_sources": "SSD-008;SSD-009;SSD-005",
+      "gaps": "No source found since October 2023 gives users, applications or transactions through the national portal.",
+      "note": "Stage 4c 2026-11-12: the eServices portal listing 47 named online services of 14 ministries and agencies answers ten or more services, and one account signs users in across them. No count of use is held, so not stage 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

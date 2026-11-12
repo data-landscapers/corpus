@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-18-dza-recettes-record-et-services-numeriques-l-etat-modernise-la-gestion-fon",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "El Khabar reports that digital services have run on the national Fada El Djazair platform since 14 March 2024, including a pilot of online cadastral extracts.",
+   "as_of": "2024-03-14",
+   "date_precision": "day",
+   "system": "Fada El Djazair",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "El Khabar reports that nearly 7 million users have been served through Fada El Djazair since its launch on 14 March 2024.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Fada El Djazair",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fada El Djazair",
+   "country_label": "Algeria",
+   "class": "eservices",
+   "platform": "national digital services portal",
+   "owner": "Government of Algeria",
+   "tiers": ""
+  }
+ ],
+ "note": "No single sign-in or count of services is stated."
+}

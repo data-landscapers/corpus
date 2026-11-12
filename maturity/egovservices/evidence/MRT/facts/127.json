@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-22-mrt-mauritania-signs-2-year-deal-to-strengthen-courts-with-moroccan-digita",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Ecofin reports that Mauritania has digitised judicial records, which citizens can request and obtain online since March 2025, and that its justice reform plan calls for more online platforms.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Online judicial records",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online judicial records",
+   "country_label": "Mauritania",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

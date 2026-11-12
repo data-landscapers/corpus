@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-26-mar-plateforme-epolice-comment-la-dgsn-amorce-sa-transformation-digitale-p",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Le360 reports that the DGSN launched the Epolice portal in December 2024, on which citizens request and pay online for the anthropometric record, with over 5,000 requests processed by January 2025; further services are planned.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Epolice",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Epolice",
+   "country_label": "Morocco",
+   "class": "eservices",
+   "platform": "epolice.ma",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

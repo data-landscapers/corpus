@@ -2,7 +2,7 @@
 
 ## Government services online
 
-**Services online.** In February 2026 the 2026/27 budget speech [put 52 public services fully online on the 1Gov1Citizen platform](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>), BWTechZone reports. A further 179 services were then in final integration testing. The budget [confirmed continued investment in the platform](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>), which the government calls its integrated e-services platform.
+**Services online.** In February 2026 the 2026/27 budget speech [put 52 public services fully online on the 1Gov1Citizen platform](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>), BWTechZone reports. A further 179 services were then in final integration testing. The budget [confirmed continued investment in the platform](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>), which the government calls its integrated e-services platform. A 2023 review [found the earlier 1Gov portal unstable, poorly linked to agencies and little used](<https://www.adm.ee/blog/case-study-botswana-1gov-platform-assessment/>), ADM Interactive says.
 
 **Single gateway.** [1Gov1Citizen is the government's integrated e-services platform](<https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html>), carrying public services of many bodies. No source found says how users sign in to it. Neither the national ID nor one shared account is named as its sign-in.
 

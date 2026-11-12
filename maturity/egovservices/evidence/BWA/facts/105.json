@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-02-bwa-case-study-botswana-1gov-platform-assessment",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "ADM Interactive says 1Gov is Botswana's central online portal giving citizens access to government services, assessed in 2023 as unstable, poorly integrated with agencies and with little public uptake.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "1Gov",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "1Gov",
+   "country_label": "Botswana",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Communications and Innovation (digital team)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

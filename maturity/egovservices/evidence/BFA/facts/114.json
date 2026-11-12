@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-02-bfa-burkina-faso-to-step-up-justice-system-digitalisation-this-year",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Ecofin reports Burkina Faso launched three justice platforms in mid-December 2025 to file and track complaints online, request prison visit permits and apply for commercial registry documents, and had earlier moved nationality certificate and criminal record applications online.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Justice digital platforms",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Justice digital platforms (complaints, prison visit permits, commercial registry documents)",
+   "country_label": "Burkina Faso",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
