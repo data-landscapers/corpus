@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-03-mar-morocco-boom-in-data-centers",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Global Finance Magazine says a 2021 law ordered all sensitive data to be hosted within Morocco's borders, which led to data repatriation.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "2021 law on hosting of sensitive data",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

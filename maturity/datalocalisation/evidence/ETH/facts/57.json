@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-10-ethiopia-presses-public-institutions-to-consolidate-infrastructure-und",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Cloud Data Center (ICT Park, Addis Ababa)",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Innovation and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": "The directive to leave standalone server rooms names no rule that data must be kept in the country, and the centre is still under construction."
+}
