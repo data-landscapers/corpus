@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "research",
+ "aspect": "research;policy",
+ "fact": "In March 2025 Masaar published a policy paper proposing criteria for evaluating Egypt's draft AI law, building on its January 2025 paper on AI governance.",
+ "title": "Regulating Artificial Intelligence in Egypt: Proposed Standards and Principles",
+ "publisher": "Masaar",
+ "published": "2025-03-25",
+ "date_source": "source",
+ "why_not": ""
+}

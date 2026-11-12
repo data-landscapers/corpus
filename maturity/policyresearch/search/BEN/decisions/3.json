@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "research",
+ "aspect": "research;policy",
+ "fact": "ACED, a Beninese think tank, produced with ASIN and the Global Development Network a 2025 report mapping Benin's four digital public infrastructures and assessing their maturity and socio-economic impact.",
+ "title": "Les Infrastructures Publiques Numériques au Bénin : Cartographie et analyse exploratoire de l'impact sur le développement socio-économique",
+ "publisher": "ACED",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}
