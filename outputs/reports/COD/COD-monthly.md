@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: COD
-ledger_rows: 45
+ledger_rows: 46
 not_held: 6
-record: db35ada20117
+record: abbcb1bcd34e
 ---
 
 # News, Oct – Nov 2026
@@ -577,6 +577,20 @@ The DRC's telecoms ministry is seeking a firm for an eight-month e-government co
 </nav>
 
 ### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kinshasa revenue directorate online tax platform (irms-dgrk.com)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Retour sur la matinée fiscale d'information et de présentation de deux nouvelles régies provinciales chargées de percevoir les impôts, droits, taxes et redevances de la ville de Kinshasa](https://fec-rdc.com/retour-sur-la-matinee-fiscale-dinformation-et-de-presentation-de-deux-nouvelles-regies-provinciales-chargees-de-percevoir-les-impots-droits-taxes-et-redevances-de-la-ville-de-kinshasa/)** — Fédération des Entreprises du Congo, 1 October 2026
+
+DGRK split into DGIPK and DGTK; transition to end 2026; IRMS-DGRK payment-receipt reconciliation fault declared fixed.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
