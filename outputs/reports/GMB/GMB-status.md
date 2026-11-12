@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-11-09
+compiled: 2026-11-12
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 280
+sources_cited: 281
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -214,7 +214,7 @@ Digital retail payments run under [the Central Bank's 2011 mobile money regulati
 ### Registries
 <!-- dpi.registry -->
 
-In November 2025 a National Assembly committee [found that a UNDP-funded digital workflow system for land administration had gone unused, and that the deeds registry under the Lands (Registration of Deeds) Act 1980 remains manual](https://www.voicegambia.com/2025/11/28/national-assembly-committee-exposes-severe-gaps-in-land-administration/). [It is a deeds record, not a cadastre or parcel index](https://moj.gov.gm/registrar-generals-department/). [The National Land Policy 2026–2035 mandates a digitalised National Land Administration System, a centralised Land Information System and digitised land registration](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1). In September 2026 [the lands minister told the National Assembly that contracts for World Bank-supported land digitalisation had been awarded](https://thepoint.gm/africa/gambia/headlines/govt-promises-3-day-land-lease-under-new-digital-system). [The only cadastral mapping found is a single-area pilot at Kotu Stream, tendered under the WACA coastal project](https://policies.gov.gm/d/6d4b253b-ef9d-11f0-b086-029254d29bb1).
+In November 2025 a National Assembly committee [found that a UNDP-funded digital workflow system for land administration had gone unused, and that the deeds registry under the Lands (Registration of Deeds) Act 1980 remains manual](https://www.voicegambia.com/2025/11/28/national-assembly-committee-exposes-severe-gaps-in-land-administration/). [It is a deeds record, not a cadastre or parcel index](https://moj.gov.gm/registrar-generals-department/). [The National Land Policy 2026–2035 mandates a digitalised National Land Administration System, a centralised Land Information System and digitised land registration](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1). In September 2026 [the lands minister told the National Assembly that contracts for World Bank-supported land digitalisation had been awarded](https://thepoint.gm/africa/gambia/headlines/govt-promises-3-day-land-lease-under-new-digital-system). [In November 2026 the land policy unit said the alpha version of the Land Information System was in testing, and a firm had been contracted to convert historical land records](https://senigambia.com/ministry-updates-public-on-national-land-policy-implementation/). [The only cadastral mapping found is a single-area pilot at Kotu Stream, tendered under the WACA coastal project](https://policies.gov.gm/d/6d4b253b-ef9d-11f0-b086-029254d29bb1).
 
 [The electronic Civil Registration and Vital Statistics system, launched in August 2022, replaced paper birth registration and issues digital birth certificates carrying a national identification number](https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia). [Cumulative registrations passed 1.4 million by June 2026, against 1.17 million in February 2023](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-gambia.pdf).
 
