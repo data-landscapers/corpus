@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "no evidence",
-      "share": "",
-      "target": "",
+      "stage": "4",
+      "share": "half",
+      "target": "target",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found gives a survey share of adults with an account.",
-      "note": "No row on population uptake has been found, so no stage is set.",
+      "stage_sources": "GNB-002;GNB-001",
+      "gaps": "The 79.5% is the BCEAO's overall access rate and is not attributed to a survey. No survey found since November 2023 puts adults who made or received a digital payment at 79% or more.",
+      "note": "The BCEAO puts the overall access rate to financial services at 79.5% at the end of 2025, four in five or more; not attributed to a survey, staged on it as the ladder is read now, as Senegal's is. No survey gives the share paying digitally.",
       "as_at": "2026-11-12"
     }
   ]

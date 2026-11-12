@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-25-cpv-mais-cabo-verdianos-com-contas-bancarias-e-maior-uso-de-pagamentos-dig",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "Expresso das Ilhas, reporting the Banco de Cabo Verde's 2025 payment system report, says 85.6% of resident people held a current or payment account at the end of 2025, against 81.5% in 2024.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Relatório do Sistema de Pagamentos Cabo-Verdiano 2025",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "target",
+   "value": "target",
+   "fact": "Expresso das Ilhas, reporting the Banco de Cabo Verde's 2025 payment system report, says 85.6% of resident people held a current or payment account at the end of 2025, against 81.5% in 2024.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Relatório do Sistema de Pagamentos Cabo-Verdiano 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": "Rate comes from the central bank's payments report, not a stated household survey."
+}

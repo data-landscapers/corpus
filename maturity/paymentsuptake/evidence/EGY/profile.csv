@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-EGY,uptake,share,coverage,half,2024,EGY-001,,
-EGY,uptake,target,coverage,,,,,nothing held
-EGY,uptake,payments,coverage,,,,,nothing held
+EGY,uptake,share,coverage,half,2026-06,EGY-001;EGY-002,EGY-004=quarter,
+EGY,uptake,target,coverage,target,2026-06,EGY-003,,
+EGY,uptake,payments,coverage,,,,,nothing found

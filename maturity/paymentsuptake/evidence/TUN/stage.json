@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "unplaced",
-      "share": "",
+      "stage": "2",
+      "share": "quarter",
       "target": "",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "The newest survey found, Global Findex 2021, is older than three years; no survey since November 2023 gives a share of adults with an account.",
-      "note": "Global Findex 2021 puts Tunisian adults with an account at 37%, but it predates the three-year window. Nothing newer sets a rung.",
+      "stage_sources": "TUN-002;TUN-003",
+      "gaps": "No survey found since November 2023 puts adults with an account at 53% or more.",
+      "note": "Global Findex puts Tunisian adults with an account at 37.8% in 2024, a quarter or more. It is under half.",
       "as_at": "2026-11-12"
     }
   ]

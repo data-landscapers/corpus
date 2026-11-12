@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-13-gin-inclusion-financiere-la-bcrg-realigne-sa-strategie-nationale-sur-les-a",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The BCRG says the account access rate rose from 4% in 2011 to nearly 36% in 2024, as reported by Africa Guinee.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "financial accounts",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

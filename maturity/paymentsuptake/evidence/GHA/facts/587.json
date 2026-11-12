@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-07-gha-eight-in-10-ghanaian-adults-have-an-account-but-only-22-are-financiall",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "3News reports the World Bank's Global Findex 2025 puts account ownership among Ghanaian adults at 81% in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Global Findex",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "target",
+   "value": "target",
+   "fact": "3News reports the World Bank's Global Findex 2025 puts account ownership among Ghanaian adults at 81% in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Global Findex",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

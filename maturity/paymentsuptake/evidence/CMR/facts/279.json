@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-05-cmr-au-cameroun-le-mobile-money-progresse-et-atteint-plus-de-la-moitie-de",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "The World Bank's Global Findex 2025, as reported by AZNA Press, puts the share of Cameroonian adults with an account at 61% in 2024, 55% holding mobile money.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Global Findex 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": "Merchant digital payment at 20% is below the 79% bar, so no payments fact."
+}

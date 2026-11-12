@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-05-mdg-inclusion-financiere-madagascar-vise-l-acces-de-plus-de-50-de-la-popul",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "below",
+   "fact": "2424.mg reports INSTAT's 2021-2022 household survey leaves nearly 87% of people aged 18 and over outside the formal financial system or not using village savings.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "EPM 2021-2022",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

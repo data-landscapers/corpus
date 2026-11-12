@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-01-nga-distrust-others-slow-financial-inclusion-amid-n4-3tr-outside-banks",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "The article, citing EFInA and A2F data, says Nigeria's financial inclusion rate grew from 56 per cent in 2020 to 64 per cent in 2023, a rate that covers formal financial services generally rather than bank or mobile money accounts alone.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "EFInA and A2F financial inclusion survey",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

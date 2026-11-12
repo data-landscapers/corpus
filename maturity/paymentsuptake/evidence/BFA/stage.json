@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "no evidence",
-      "share": "",
-      "target": "",
+      "stage": "4",
+      "share": "half",
+      "target": "target",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found gives a survey share of adults with an account.",
-      "note": "No row on population uptake has been found, so no stage is set.",
+      "stage_sources": "BFA-002;BFA-001;BFA-004",
+      "gaps": "The 81.8% is the BCEAO-style overall rate of use of financial services and is not attributed to a survey. No survey found since November 2023 puts adults who made or received a digital payment at 79% or more.",
+      "note": "The national financial inclusion agency puts the overall rate of use of financial services at 81.8% at the end of 2025, four in five or more; not attributed to a survey, staged on it as the ladder is read now, as Senegal's BCEAO rate is. No survey gives the share paying digitally.",
       "as_at": "2026-11-12"
     }
   ]

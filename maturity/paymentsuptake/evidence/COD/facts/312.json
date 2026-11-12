@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-11-cod-digital-finance-and-institutional-trust-in-the-drc-building-the-founda",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "A University of Kinshasa economist's paper, citing the World Bank's Global Findex, says formal account ownership among Congolese adults was nearly 39 percent in 2022, mostly mobile money wallets.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Global Findex",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

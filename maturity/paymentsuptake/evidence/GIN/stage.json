@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "no evidence",
-      "share": "",
+      "stage": "2",
+      "share": "quarter",
       "target": "",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found gives a survey share of adults with an account.",
-      "note": "No row on population uptake has been found, so no stage is set.",
+      "stage_sources": "GIN-001",
+      "gaps": "The 36% is the central bank's account access rate and is not attributed to a survey; nothing found puts adults with an account at 53% or more.",
+      "note": "The central bank puts the account access rate at nearly 36% in 2024, a quarter or more; not attributed to a survey, staged on it as the ladder is read now. It is under half.",
       "as_at": "2026-11-12"
     }
   ]

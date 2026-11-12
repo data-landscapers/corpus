@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "no evidence",
-      "share": "",
-      "target": "",
+      "stage": "4",
+      "share": "half",
+      "target": "target",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found gives a survey share of adults with an account.",
-      "note": "No row on population uptake has been found, so no stage is set.",
+      "stage_sources": "CPV-002;CPV-001",
+      "gaps": "The 85.6% is the central bank's banking rate for the resident population and is not attributed to a survey. No survey found since November 2023 puts adults who made or received a digital payment at 79% or more.",
+      "note": "The Banco de Cabo Verde's 2025 payment system report puts residents holding a current or payment account at 85.6%, four in five or more; not attributed to a survey, staged on it as the ladder is read now. No survey gives the share paying digitally.",
       "as_at": "2026-11-12"
     }
   ]

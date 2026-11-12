@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-10-dza-evolution-of-financial-inclusion-in-algeria-a-global-findex-database-a",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The Findex-based study reports bank account ownership in Algeria at 35% in 2024, a decline.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Global Findex",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

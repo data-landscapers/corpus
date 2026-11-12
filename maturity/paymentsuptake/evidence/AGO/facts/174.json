@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-16-ago-68-da-populacao-ainda-sem-acesso-ao-sistema-bancario-apesar-de-avancos",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "Diario dos Negocios, citing the BNA's 2024 report, says 31.54% of the population had at least one bank account in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "BNA bancarizacao rate",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

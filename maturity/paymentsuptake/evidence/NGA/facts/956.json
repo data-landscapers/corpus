@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-28-nga-beyond-access-turning-financial-inclusion-into-financial-resilience-in",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "EFInA, reading the World Bank's 2025 Global Findex, says 63% of Nigerian adults hold an account and 54% make digital payments.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Global Findex 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

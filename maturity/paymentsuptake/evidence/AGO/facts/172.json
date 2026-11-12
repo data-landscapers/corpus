@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-08-ago-angola-s-national-financial-inclusion-strategy-aims-to-boost-economic",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "AFI reports that Angola's minister said only 31% of the country's population has bank accounts.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "bank accounts",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

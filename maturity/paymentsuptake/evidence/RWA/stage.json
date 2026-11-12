@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "3",
+      "stage": "4",
       "share": "half",
-      "target": "",
+      "target": "target",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-001",
-      "gaps": "The survey year behind the 73% is not given; no survey found puts adults with an account at 79% or more.",
-      "note": "FinScope, as KT Press reported in December 2025, puts adults using services such as mobile money at 73%, over half. The survey year is not given; nothing puts account holding at 79% or more.",
+      "stage_sources": "RWA-003;RWA-002",
+      "gaps": "FinScope's 92% is formal financial inclusion, which counts insurance and pensions as well as accounts. No survey found since November 2023 puts adults who made or received a digital payment at 79% or more.",
+      "note": "FinScope 2024 finds formal financial inclusion at 92% of adults and registered mobile money accounts at 77%; the formal figure is read as account holding, as Nigeria's is, four in five or more. No survey gives the share paying digitally.",
       "as_at": "2026-11-12"
     }
   ]

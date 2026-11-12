@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SSD,uptake,share,coverage,below,2021,SSD-001,,nothing dated since 2023-10-18
-SSD,uptake,target,coverage,,,,,nothing held
-SSD,uptake,payments,coverage,,,,,nothing held
+SSD,uptake,share,coverage,below,2022,SSD-001;SSD-002,,nothing dated since 2023-11-12
+SSD,uptake,target,coverage,,,,,nothing found
+SSD,uptake,payments,coverage,,,,,nothing found

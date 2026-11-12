@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-22-xss-a-decade-of-change-the-surge-of-financial-inclusion-in-sub-saharan-afr",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The World Bank's Global Findex blog puts account ownership among adults in South Sudan at 6%.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Global Findex 2021",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

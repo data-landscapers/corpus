@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "unplaced",
-      "share": "",
+      "stage": "2",
+      "share": "quarter",
       "target": "",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "The newest survey found, FinScope Angola 2022, is older than three years; no survey since November 2023 gives a share of adults with an account.",
-      "note": "FinScope Angola 2022 puts adults with a transactional account at 36%, but it predates the three-year window. Nothing newer sets a rung.",
+      "stage_sources": "AGO-003;AGO-002",
+      "gaps": "The 31.54% is the central bank's banking rate for the whole population and is not attributed to a survey; nothing found puts adults with an account at 53% or more.",
+      "note": "The central bank's 2024 report puts the population with a bank account at 31.54%, a quarter or more; not attributed to a survey, staged on it as the ladder is read now. Nothing found puts the share above half.",
       "as_at": "2026-11-12"
     }
   ]

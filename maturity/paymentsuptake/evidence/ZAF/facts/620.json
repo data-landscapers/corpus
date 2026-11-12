@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-30-zaf-media-release-finscope-consumer-south-africa-2025",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "FinMark Trust's FinScope Consumer South Africa 2025 survey of 5,600 adults puts bank account ownership at 89% of adults (40.8 million).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "FinScope Consumer South Africa 2025",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "target",
+   "value": "target",
+   "fact": "FinMark Trust's FinScope Consumer South Africa 2025 survey of 5,600 adults puts bank account ownership at 89% of adults (40.8 million).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "FinScope Consumer South Africa 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FinScope Consumer South Africa 2025",
+   "country_label": "South Africa",
+   "class": "survey",
+   "platform": "",
+   "owner": "FinMark Trust",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

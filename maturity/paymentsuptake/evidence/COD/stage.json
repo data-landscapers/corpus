@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "no evidence",
+      "stage": "unplaced",
       "share": "",
       "target": "",
       "payments": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found gives a survey share of adults with an account.",
-      "note": "No row on population uptake has been found, so no stage is set.",
+      "gaps": "The newest figure found, Global Findex for 2022 at nearly 39%, is older than three years; no survey since November 2023 gives a share of adults with an account.",
+      "note": "Global Findex put formal account ownership at nearly 39% in 2022, before the three-year window. Nothing newer sets a rung.",
       "as_at": "2026-11-12"
     }
   ]

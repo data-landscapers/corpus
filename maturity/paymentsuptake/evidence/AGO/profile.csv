@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,uptake,share,coverage,quarter,2022-12,AGO-001,,nothing dated since 2023-10-18
-AGO,uptake,target,coverage,,,,,nothing held
-AGO,uptake,payments,coverage,,,,,nothing held
+AGO,uptake,share,coverage,quarter,2025-12,AGO-001;AGO-002;AGO-003,,
+AGO,uptake,target,coverage,,,,,nothing found
+AGO,uptake,payments,coverage,,,,,nothing found

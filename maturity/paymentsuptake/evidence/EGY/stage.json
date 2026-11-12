@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "3",
-      "share": "half",
+      "stage": "2",
+      "share": "quarter",
       "target": "",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-001",
-      "gaps": "The source does not attribute the 74.8% to a survey; no survey share of adults with an account has been found, and none at 79% or more.",
-      "note": "The Central Bank of Egypt puts Egyptians aged 15 and over actively using financial accounts at 74.8% at the end of 2024, over half. The bank does not say the figure comes from a survey; staged on it as the ladder is read now.",
+      "stage_sources": "EGY-004",
+      "gaps": "The central bank's 79% for June 2026 counts people with active accounts and is not a survey; the newest survey, Global Findex for 2024, puts adults with an account at 43%.",
+      "note": "Global Findex 2025 puts Egyptian adults with a formal account at 43% in 2024, a quarter or more; as with Morocco, the survey stands over the central bank's account-based 79%. It is under half.",
       "as_at": "2026-11-12"
     }
   ]

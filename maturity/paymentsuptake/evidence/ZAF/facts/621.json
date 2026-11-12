@@ -1,0 +1,27 @@
+{
+ "slug": "2024-04-23-zaf-finscope-consumer-2023-south-africa-media-release",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "FinMark Trust's FinScope Consumer 2023 puts adults with bank accounts at 84%, up from 52% in 2003.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "FinScope Consumer South Africa 2023",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "target",
+   "value": "target",
+   "fact": "FinMark Trust's FinScope Consumer 2023 puts adults with bank accounts at 84%.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "FinScope Consumer South Africa 2023",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

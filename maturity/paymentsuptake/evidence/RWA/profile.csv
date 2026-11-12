@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,uptake,share,coverage,half,2025-12-09,RWA-001,,
-RWA,uptake,target,coverage,,,,,nothing held
-RWA,uptake,payments,coverage,,,,,nothing held
+RWA,uptake,share,coverage,half,2025-12-09,RWA-001;RWA-002,,
+RWA,uptake,target,coverage,target,2024,RWA-003,,
+RWA,uptake,payments,coverage,,,,,nothing found

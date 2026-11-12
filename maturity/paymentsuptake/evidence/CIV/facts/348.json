@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-24-civ-en-cote-d-ivoire-l-inclusion-financiere-se-joue-desormais-sur-le-telep",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "Afriveille, reading Global Findex 2024, says 58% of Ivorian adults hold an account, up from 51% in 2021, with mobile money at 53% and bank accounts at 21%.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Global Findex 2024",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Global Findex 2024",
+   "country_label": "Cote d'Ivoire",
+   "class": "survey",
+   "platform": "",
+   "owner": "World Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

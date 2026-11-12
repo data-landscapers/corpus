@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-14-uga-connected-but-not-included-is-owning-a-mobile-phone-enough-to-enter-th",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "FSD Uganda, quoting the Global Findex 2025 report, says 73 percent of adults in Uganda have a financial account.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Global Findex 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": "No figure for adults making digital payments is stated."
+}

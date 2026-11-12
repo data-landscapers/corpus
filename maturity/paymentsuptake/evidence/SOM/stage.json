@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "unplaced",
-      "share": "",
-      "target": "",
+      "stage": "4",
+      "share": "half",
+      "target": "target",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "SOM-FAS2026, as an opinion writer describes it, puts bank penetration at about 19% of adults and the reach of mobile money infrastructure at 87%; neither is the share holding a bank or mobile money account.",
-      "note": "The 19% counts bank accounts alone and the 87% describes the reach of mobile money infrastructure, not adults holding an account. Neither sets a rung.",
+      "stage_sources": "SOM-005;SOM-004",
+      "gaps": "The survey's 90% is adults financially included, largely through mobile money; its share holding a bank or mobile money account is not given separately. No survey found since November 2023 puts adults who made or received a digital payment at 79% or more.",
+      "note": "The Somalia Financial Access Survey 2026, nationally representative, finds 90% of adults financially included, largely through mobile money, four in five or more. No survey gives the share paying digitally.",
       "as_at": "2026-11-12"
     }
   ]

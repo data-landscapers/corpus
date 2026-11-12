@@ -21,14 +21,36 @@ The World Bank's Global Findex 2025 puts account ownership at 79% of adults worl
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 4 |
-| 3 Established | 12 |
-| 2 Nascent | 7 |
+| 4 Operating | 10 |
+| 3 Established | 10 |
+| 2 Nascent | 12 |
 | 1 Absent | 1 |
-| Unplaced | 9 |
-| No evidence | 21 |
+| Unplaced | 7 |
+| No evidence | 14 |
 
 ## Countries
+
+### Burkina Faso: 4 Operating
+
+The national financial inclusion agency put use of financial services at 81.8% at the end of 2025; the share paying digitally has not been found.
+
+- The director of ANPFI says the overall rate of use of financial services passed the 75% first-strategy target at 79.04% in 2023 and stood at 81.8% at end-2025 ([source, 2025-12](https://lefaso.net/spip.php?article150583=)).
+- The director of ANPFI says Burkina Faso's overall rate of use of financial services was 79.04% in 2023 and 81.8% at end-2025 ([source, 2025-12](https://lefaso.net/spip.php?article150583=)).
+- C'Finance reports expert Corinne Nikièma giving Burkina Faso's overall financial inclusion rate at 79.7% at end 2024, half of those included via e-money ([source, 2024](https://cfinance.news/article/inclusion-financiere-avec-797-a-fin-2024-le-burkina-en-avance-de-61-points-sur-le-taux-global-de-luemoa/)).
+
+### Cape Verde: 4 Operating
+
+The central bank put residents holding a current or payment account at 85.6% in 2025; the share paying digitally has not been found.
+
+- Expresso das Ilhas, reporting the Banco de Cabo Verde's 2025 payment system report, says 85.6% of resident people held a current or payment account at the end of 2025, against 81.5% in 2024 ([source, 2025](https://expressodasilhas.cv/economia/2026/09/25/mais-cabo-verdianos-com-contas-bancarias-e-maior-uso-de-pagamentos-digitais/104797)).
+- Expresso das Ilhas, reporting the Banco de Cabo Verde's 2025 payment system report, says 85.6% of resident people held a current or payment account at the end of 2025, against 81.5% in 2024 ([source, 2025](https://expressodasilhas.cv/economia/2026/09/25/mais-cabo-verdianos-com-contas-bancarias-e-maior-uso-de-pagamentos-digitais/104797)).
+
+### Gambia: 4 Operating
+
+FinScope found 82% of adults formally served in 2025; the share paying digitally has not been found.
+
+- CBG Governor Buah Saidy said the FinScope Consumer Survey 2025 found 82% of adults had access to formal financial services, over 1.22 million adults ([source, 2025](https://www.kerrfatou.com/gambias-financial-inclusion-reaches-82-central-bank-targets-full-coverage-by-2030-through-digitalisation/)).
+- CBG Governor Buah Saidy said the FinScope Consumer Survey 2025 found 82% of adults had access to formal financial services, over 1.22 million adults ([source, 2025](https://www.kerrfatou.com/gambias-financial-inclusion-reaches-82-central-bank-targets-full-coverage-by-2030-through-digitalisation/)).
 
 ### Ghana: 4 Operating
 
@@ -37,17 +59,38 @@ Global Findex 2025 put adults with a financial account above 80%; the share payi
 - Governor Asiama says recent global surveys indicate approximately 81 per cent of Ghanaian adults own a financial account ([source, 2026-11-02](https://www.bog.gov.gh/wp-content/uploads/2026/11/Opening-Remarks-by-Governor-Dr-Johnson-Pandit-Asiama-at-the-11th-Meeting-of-the-Payment-Systems-Advisory-Committee-PSAC-021126.pdf)).
 - Citi Newsroom reports that the World Bank's Global Findex 2025 puts Ghana's adult financial account ownership above 80%, as cited by the Deputy Minister of Finance ([source, 2025](https://www.citinewsroom.com/2026/11/financial-inclusion-expands-but-economic-well-being-remains-low-at-22/)).
 
+### Guinea-Bissau: 4 Operating
+
+The regional central bank put access to financial services at 79.5% at the end of 2025; the share paying digitally has not been found.
+
+- The BCEAO national director said the overall access rate to financial services in Guinea-Bissau reached 79.5% at end-2025 ([source, 2025-12](https://www.odemocratagb.com/?p=59036)).
+- The BCEAO national director said the overall access rate to financial services in Guinea-Bissau rose from 20.5% in 2018 to 79.5% at end-2025, largely through electronic money ([source, 2025-12](https://www.odemocratagb.com/?p=59036)).
+
 ### Kenya: 4 Operating
 
 A 2024 central bank survey found 84.8% of adults with a formal account; the share paying digitally was not found.
 
 - The Central Bank of Kenya's 2024 FinAccess Household Survey puts formal financial access (an active account in own name with a formal provider, covering banks, mobile money, SACCOs and other formal providers) at 84.8 percent of adults ([source, 2024](https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf)).
 
+### Rwanda: 4 Operating
+
+FinScope found 92% of adults formally included in 2024, 77% with mobile money accounts; the share paying digitally has not been found.
+
+- MINECOFIN, launching the FinScope 2024 survey, says formal financial inclusion among Rwandan adults rose from 77% in 2020 to 92% (7.5 million) in 2024, driven mainly by mobile money ([source, 2024](https://www.minecofin.gov.rw/news-detail/96-of-rwandans-are-financially-included-finscope-survey-2024)).
+- MINECOFIN, launching the FinScope 2024 survey, says the share of adults holding registered mobile money accounts rose from 60% in 2020 to 77% in 2024, with 22% banked ([source, 2024](https://www.minecofin.gov.rw/news-detail/96-of-rwandans-are-financially-included-finscope-survey-2024)).
+
 ### Senegal: 4 Operating
 
 The central bank put adults with an account at 83.3% in 2023; the share paying digitally was not found.
 
 - BCEAO's national director says Senegal's financial inclusion rate, the share of adults holding a bank, postal, treasury, microfinance or e-money account, reached 83.3% in 2023 ([source, 2023](https://www.orbit.sn/le-taux-dinclusion-financiere-du-senegal-est-superieur-a-la-moyenne-de-la-zone-uemoa-selon-le-directeur-national-de-la-bceao/)).
+
+### Somalia: 4 Operating
+
+A 2026 national survey found 90% of adults financially included, mostly through mobile money; the share paying digitally has not been found.
+
+- SOMMA reports the Somalia Financial Access Survey 2026 found 90% of adults financially included, largely through mobile money ([source, 2026](https://www.linkedin.com/posts/somali-microfinance-association-somma_somma-somalia-financialinclusion-activity-7488596234996371457-auqx)).
+- SOMMA reports the Somalia Financial Access Survey 2026 found 90% of adults financially included, largely through mobile money ([source, 2026](https://www.linkedin.com/posts/somali-microfinance-association-somma_somma-somalia-financialinclusion-activity-7488596234996371457-auqx)).
 
 ### South Africa: 4 Operating
 
@@ -72,12 +115,6 @@ Global Findex put adults with an account at 61% in 2024; no survey found puts th
 Global Findex put adults with an account at 58% in 2024; no survey found puts the share at four in five.
 
 - World Bank Global Findex puts Cote d'Ivoire's financial inclusion rate at 58% in 2024, up from 41% in 2017 ([source, 2024](https://www.ecofinagency.com/news-finances/0910-59598-cote-d-ivoire-seeks-to-diversify-fintech-sector-beyond-digital-payments)).
-
-### Egypt: 3 Established
-
-The central bank put Egyptians aged 15 and over using accounts at 74.8% in 2024; no survey share of adults was found.
-
-- The Central Bank of Egypt says 74.8 percent of Egyptians aged 15 and above were actively using financial accounts at the close of 2024, up from 70.7 percent in 2023 ([source, 2024](https://www.egypttoday.com/Article/3/138692/CBE-shares-new-financial-inclusion-record-74-of-eligible-Egyptians)).
 
 ### Eswatini: 3 Established
 
@@ -105,12 +142,6 @@ EFInA's 2026 survey put formal financial inclusion at 73% of adults; no survey f
 - EFInA's A2F 2026 survey, released 16 September 2026, puts formal financial inclusion of Nigerian adults at 73%, about 87.2 million people ([source, 2026-09-16](https://independent.ng/nigerias-financial-inclusion-reaches-79-as-efinas-a2f-2026-survey-points-to-next-challenge/)).
 - The same EFInA A2F 2026 survey, fieldwork April-June 2026, puts formal financial inclusion at 73% of adults, above half ([source, 2026-06](https://nairametrics.com/2026/10/05/nigeria-hits-73-financial-inclusion-target-but-60-4-million-adults-remain-vulnerable/)).
 
-### Rwanda: 3 Established
-
-FinScope put adults using services such as mobile money at 73%, reported in 2025; whether four in five hold an account was not found.
-
-- FinScope reports that 73% of Rwandan adults use services such as mobile money (KT Press, reporting FinScope; survey year not given) ([source, 2025-12-09](https://www.ktpress.rw/2025/12/new-survey-reveals-consumer-digital-fraud-risks-in-rwanda/)).
-
 ### Tanzania: 3 Established
 
 FinScope put mobile money adoption at 72% in 2023; no survey found puts account holding at four in five.
@@ -119,9 +150,9 @@ FinScope put mobile money adoption at 72% in 2023; no survey found puts account 
 
 ### Uganda: 3 Established
 
-FinScope found 64% of adults registered for mobile money in 2023; no survey found puts account holding at four in five.
+Global Findex put Ugandan adults with an account at 73% in 2024; no survey has been found that puts it at four in five.
 
-- FinScope Uganda 2023 reports that 64% of adults are registered for mobile money with a SIM card, up from 46% in 2018 ([source, 2023](https://ufla.co.ug/wp-content/uploads/2025/06/Final-Finscope-Uganda-2023-Survey.pdf)).
+- FSD Uganda, quoting the Global Findex 2025 report, says 73 percent of adults in Uganda have a financial account ([source, 2025](https://fsduganda.or.ug/connected-but-not-included/)).
 
 ### Zambia: 3 Established
 
@@ -129,11 +160,38 @@ FinScope found 76.2% using mobile money in 2025; whether its 80.1% inclusion rat
 
 - Bank of Zambia figures from the 2025 FinScope survey show mobile money usage at 76.2% in Zambia, and financial inclusion at 80.1% up from 69.4% in 2020 ([source, 2025](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)).
 
+### Algeria: 2 Nascent
+
+Global Findex put Algerian adults with an account at 35% in 2024; no survey has been found that puts it above half.
+
+- Maghreb Emergent, reporting a Global Findex presentation by Dr Mohamed Amine Kessouri, puts Algerian adult bank or mobile account ownership at 35.3% in 2024 ([source, 2024](https://maghrebemergent.news/fr/les-chiffres-lattestent-lepargne-dort-un-potentiel-inexploite/)).
+- La Voix de l'Algerie, citing The Global Findex Data 2025, reports financial inclusion in Algeria at 35 per cent of adults, against a world average of 79 per cent; the same report puts adults making or receiving digital payments at 13 per cent ([source, 2025](https://lavoiedalgerie.dz/selon-global-findex-2025-le-numerique-ouvre-de-nouvelles-perspectives-pour-la-finance-en-algerie/2025/12/00/)).
+- The Findex-based study reports bank account ownership in Algeria at 35% in 2024, a decline ([source, 2024](https://journals.univ-msila.dz/index.php/jorfa/article/view/10489)).
+
+### Angola: 2 Nascent
+
+The central bank put the population with a bank account at 31.54% in 2024; no survey since 2023 has been found.
+
+- Diario dos Negocios, citing the BNA's 2024 report, says 31.54% of the population had at least one bank account in 2024 ([source, 2024](https://diariodosnegocios.com/inclusao-financeira-angola-desafios-bancarizacao-2024/)).
+- AFI reports that Angola's minister said only 31% of the country's population has bank accounts ([source, 2025-12](https://afi-global.org/news/angolas-national-financial-inclusion-strategy-aims-to-boost-economic-and-social-development/)).
+
+### Egypt: 2 Nascent
+
+Global Findex put Egyptian adults with a formal account at 43% in 2024; the central bank's higher 79% counts accounts, not survey respondents.
+
+- Al Borsa News, relaying the World Bank's Global Findex 2025, says 43% of Egyptian adults hold a formal financial account ([source, 2024](https://www.alborsaanews.com/2025/07/21/1902282)).
+
 ### Ethiopia: 2 Nascent
 
 Global Findex put adults with an account at 49% in 2024; no survey found puts the share above half.
 
 - The paper, citing Global Findex data, says account ownership among Ethiopian adults rose from 22% in 2014 and 35% in 2017 to 49% in 2024 ([source, 2024](https://doi.org/10.51244/ijrsi.2025.1210000333)).
+
+### Guinea: 2 Nascent
+
+The central bank put the account access rate at nearly 36% in 2024; no survey share of adults has been found.
+
+- The BCRG says the account access rate rose from 4% in 2011 to nearly 36% in 2024, as reported by Africa Guinee ([source, 2024](https://www.africaguinee.com/inclusion-financiere-la-bcrg-realigne-sa-strategie-nationale-sur-les-ambitions-de-simandou-2040/)).
 
 ### Liberia: 2 Nascent
 
@@ -171,17 +229,24 @@ About 29% of adults held a bank or mobile money account by 2025; no source found
 
 - The WTO trade policy review summary says only about 29% of adults in Sierra Leone have an account with a formal financial institution or mobile money provider; it gives no date, so the summary's publication date is used ([source, 2025](https://www.wto.org/english/tratop_e/tpr_e/s470_sum_e.pdf)).
 
+### Tunisia: 2 Nascent
+
+Global Findex put Tunisian adults with an account at 37.8% in 2024; no survey has been found that puts it above half.
+
+- Challenges TN, citing Global Findex, says 37.8 per cent of Tunisian adults held an account with a financial institution or mobile money service in 2024 ([source, 2024](https://www.challenges.tn/economie/bancarisation-en-tunisie-moins-de-comptes-plus-dagences-quel-cap/)).
+- Tunisie Numerique, citing the World Bank, says 37% of Tunisians held a financial account in 2024, 29% of women and 32% of low-income people ([source, 2024](https://www.tunisienumerique.com/inclusion-financiere-mondiale-un-record-historique-de-titulaires-de-comptes-bancaires/)).
+
 ### Madagascar: 1 Absent
 
 Global Findex 2025 put adults with a formal account at 24%; no survey found puts the share at a quarter or more.
 
 - The AfricaNenda SIIPS 2025 Madagascar consumer deck cites Global Findex 2025 as putting the share of adults owning a formal account at 24% (22% used digital payments in the past year) ([source, 2025-11](https://africanenda.org/wp-content/uploads/Consumer-Deck_Madagascar_SIIPS-2025_compressed.pdf)).
 
-### Angola: Unplaced
+### DR Congo: Unplaced
 
-A 2022 FinScope survey put adults with an account at 36%; nothing found since 2023 updates it, so no stage is set.
+Global Findex put formal account ownership at nearly 39% in 2022; nothing found since 2023 updates it, so no stage is set.
 
-Not established: The newest survey found, FinScope Angola 2022, is older than three years; no survey since November 2023 gives a share of adults with an account.
+Not established: The newest figure found, Global Findex for 2022 at nearly 39%, is older than three years; no survey since November 2023 gives a share of adults with an account.
 
 ### Djibouti: Unplaced
 
@@ -194,12 +259,6 @@ Not established: No survey share of adults with an account has been found: the o
 A 2021 report put adults with a bank account at 90%; nothing found since 2023 updates it, so no stage is set.
 
 Not established: The newest figure found, a 2021 COMESA report of 90% of adults with a bank account, is older than three years; no survey since November 2023 gives a share.
-
-### Somalia: Unplaced
-
-A 2026 central bank survey put bank penetration at 19% of adults; the share with any account was not found, so no stage is set.
-
-Not established: SOM-FAS2026, as an opinion writer describes it, puts bank penetration at about 19% of adults and the reach of mobile money infrastructure at 87%; neither is the share holding a bank or mobile money account.
 
 ### South Sudan: Unplaced
 
@@ -219,23 +278,11 @@ A 2022 Afrobarometer survey found 78% of adults with a mobile money account; not
 
 Not established: The newest survey found, Afrobarometer's of March 2022, is older than three years; no survey since November 2023 gives a share of adults with an account.
 
-### Tunisia: Unplaced
-
-Global Findex put adults with an account at 37% in 2021; nothing found since 2023 updates it, so no stage is set.
-
-Not established: The newest survey found, Global Findex 2021, is older than three years; no survey since November 2023 gives a share of adults with an account.
-
 ### Zimbabwe: Unplaced
 
 A 2022 FinScope survey found 70% of adults with an account; nothing found since 2023 updates it, so no stage is set.
 
 Not established: The newest survey found, FinScope Zimbabwe 2022, is older than three years; no survey since November 2023 gives a share of adults with an account.
-
-### Algeria: No evidence
-
-Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
-
-Not established: Nothing found gives a survey share of adults with an account.
 
 ### Benin: No evidence
 
@@ -243,19 +290,7 @@ Nothing found names a survey share of adults with an account or says there is no
 
 Not established: Nothing found gives a survey share of adults with an account.
 
-### Burkina Faso: No evidence
-
-Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
-
-Not established: Nothing found gives a survey share of adults with an account.
-
 ### Burundi: No evidence
-
-Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
-
-Not established: Nothing found gives a survey share of adults with an account.
-
-### Cape Verde: No evidence
 
 Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
@@ -285,12 +320,6 @@ Nothing found names a survey share of adults with an account or says there is no
 
 Not established: Nothing found gives a survey share of adults with an account.
 
-### DR Congo: No evidence
-
-Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
-
-Not established: Nothing found gives a survey share of adults with an account.
-
 ### Equatorial Guinea: No evidence
 
 Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
@@ -298,24 +327,6 @@ Nothing found names a survey share of adults with an account or says there is no
 Not established: Nothing found gives a survey share of adults with an account.
 
 ### Eritrea: No evidence
-
-Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
-
-Not established: Nothing found gives a survey share of adults with an account.
-
-### Gambia: No evidence
-
-Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
-
-Not established: Nothing found gives a survey share of adults with an account.
-
-### Guinea: No evidence
-
-Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
-
-Not established: Nothing found gives a survey share of adults with an account.
-
-### Guinea-Bissau: No evidence
 
 Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-10-gnb-moeda-eletronica-impulsiona-inclusao-financeira-na-guine-bissau-diz-bc",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "The BCEAO national director said the overall access rate to financial services in Guinea-Bissau rose from 20.5% in 2018 to 79.5% at end-2025, largely through electronic money.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "BCEAO access rate",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "target",
+   "value": "target",
+   "fact": "The BCEAO national director said the overall access rate to financial services in Guinea-Bissau reached 79.5% at end-2025.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "BCEAO access rate",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": "The rate is BCEAO's overall access rate, not stated to be a survey of adults."
+}

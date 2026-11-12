@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-20-rwa-96-of-rwandans-are-financially-included-finscope-survey-2024",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "MINECOFIN, launching the FinScope 2024 survey, says the share of adults holding registered mobile money accounts rose from 60% in 2020 to 77% in 2024, with 22% banked.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "FinScope 2024",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FinScope 2024",
+   "country_label": "Rwanda",
+   "class": "survey",
+   "platform": "",
+   "owner": "MINECOFIN, NISR, BNR, Access to Finance Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": "Digital financial services use is 73%, not stated as digital payments."
+}

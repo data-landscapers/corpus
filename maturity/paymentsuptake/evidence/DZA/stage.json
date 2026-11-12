@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "no evidence",
-      "share": "",
+      "stage": "2",
+      "share": "quarter",
       "target": "",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found gives a survey share of adults with an account.",
-      "note": "No row on population uptake has been found, so no stage is set.",
+      "stage_sources": "DZA-003;DZA-002;DZA-001",
+      "gaps": "No survey found since November 2023 puts adults with an account at 53% or more.",
+      "note": "Global Findex puts Algerian adults with an account at 35% in 2024, a quarter or more. It is under half.",
       "as_at": "2026-11-12"
     }
   ]

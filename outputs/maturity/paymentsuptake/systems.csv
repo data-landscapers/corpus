@@ -11,6 +11,7 @@ BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,20
 BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
 BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques
 BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques
+CIV,Global Findex 2024,Cote d'Ivoire,survey,,World Bank,,2025-08-24-civ-en-cote-d-ivoire-l-inclusion-financiere-se-joue-desormais-sur-le-telep
 CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
 COD,FlashApp,DRC,other,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
@@ -21,7 +22,9 @@ DJI,D-Money,Djibouti,other,smartphone app,Djibouti Telecom,,2024-09-26-dji-d-mon
 EGY,Meeza,Egypt,other,national card scheme,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,InstaPay,Egypt,other,instant payments network,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
+EGY,Global Findex 2025,Egypt,survey,,World Bank,,2025-07-21-egy-world-bank-findex-43-of-egyptian-adults-hold-a-formal-account
 GMB,PAPSS,Gambia,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
+GMB,Gamswitch,Gambia,other,Mojaloop,,,2026-06-11-gmb-gambia-s-financial-inclusion-reaches-82-central-bank-targets-full-cove
 GNB,PAPSS,Guinea-Bissau,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 KEN,FinAccess Household Survey,Kenya,survey,household survey of adults 18+,Central Bank of Kenya with KNBS and FSD Kenya,,2024-12-01-ken-cbk-2024-finaccess-household-survey
 KEN,M-PESA,Kenya,other,mobile money,Safaricom,,2024-12-01-ken-cbk-2024-finaccess-household-survey
@@ -55,6 +58,7 @@ NGA,PAPSS,Pan-African Payment and Settlement System,other,,,,2026-09-23-papss-re
 NGA,Remita,Remita,other,Remita rails,Remita,,2026-09-23-papss-remita-super-app
 RWA,eKash,Rwanda,other,"open-source, AfricaNenda-supported",National Bank of Rwanda via RSwitch,,2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash
 RWA,FinScope,Rwanda,survey,,,,2025-12-09-ktpress-rdfe-consumer-digital-fraud-survey
+RWA,FinScope 2024,Rwanda,survey,,"MINECOFIN, NISR, BNR, Access to Finance Rwanda",,2024-06-20-rwa-96-of-rwandans-are-financially-included-finscope-survey-2024
 SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds
 SEN,Max it,Senegal,other,,Sonatel,,2026-07-15-wearetech-sonatel-maxit-brt
 SEN,PI-SPI,PI-SPI,other,,BCEAO,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
@@ -77,6 +81,8 @@ TGO,Flooz,Togo,other,mobile money,Moov,,2024-03-26-tgo-afrobarometer-ad790-mobil
 TUN,PAPSS,Tunisia,other,,,,2025-02-01-tunisian-banks-urged-to-join-pan-african-papss-system
 TUN,PAPSS,Tunisia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
 TUN,D17 mobile wallet,Tunisia,other,mobile wallet,La Poste,,2022-01-01-tun-worldbank-ifc-inclusion-financiere
+TUN,Central Bank of Tunisia bank accounts count 2025,10.5 million accounts,other,,Central Bank of Tunisia,,2026-11-11-tun-bancarisation-en-tunisie-moins-de-comptes-plus-d-agences-quel-cap
+TUN,Global Findex 2025,Tunisia,survey,,World Bank,,2025-07-27-tun-inclusion-financiere-mondiale-un-record-historique-de-titulaires-de-co
 UGA,FinScope Uganda,Uganda,survey,,Bank of Uganda / FSD Uganda,,2024-07-01-uga-finscope-uganda-2023-survey-report
 UGA,FinScope 2023 financial inclusion,"81% overall, 68% formal (2023)",other,,,,2024-08-05-uga-navigating-the-pitfalls-3-consumer-challenges-in-uganda-s-financial-co
 UGA,national central data hub for credit reference bureaus,Uganda,other,,,,2024-07-09-crs-1601-2024011309-01-2024-uganda-central-data-hub
@@ -85,5 +91,6 @@ ZAF,PayShap,South Africa,other,,,,2026-07-13-sarb-qr-plus-checkout
 ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout
 ZAF,ZARP,South Africa,other,,,,2026-09-21-techcabal-local-stablecoins-use-case
 ZAF,ZARsc,South Africa,other,,,,2026-09-21-techcabal-local-stablecoins-use-case
+ZAF,FinScope Consumer South Africa 2025,South Africa,survey,,FinMark Trust,,2026-07-30-zaf-media-release-finscope-consumer-south-africa-2025
 ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-payment-system-china-cips
 ZWE,FinScope Consumer Survey Zimbabwe 2022,Zimbabwe,survey,,Reserve Bank of Zimbabwe / FinMark Trust / ZimStat,,2022-12-01-zwe-finmark-finscope-consumer-2022-report

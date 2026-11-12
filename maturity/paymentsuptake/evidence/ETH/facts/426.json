@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-16-eth-findex-2025-ethiopia-s-financial-inclusion-by-the-numbers",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "Shega's infographic on Global Findex 2025 puts Ethiopian adult account ownership at 48.8% in 2024, up from 34.8% in 2017.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Global Findex 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": "Digital payments at 20.7% is below the 79% bar, so no payments fact."
+}

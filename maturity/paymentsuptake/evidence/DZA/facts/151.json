@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-dza-selon-global-findex-2025-le-numerique-ouvre-de-nouvelles-perspectives",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "La Voix de l'Algerie, citing The Global Findex Data 2025, reports financial inclusion in Algeria at 35 per cent of adults, against a world average of 79 per cent; the same report puts adults making or receiving digital payments at 13 per cent.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Global Findex Data 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
