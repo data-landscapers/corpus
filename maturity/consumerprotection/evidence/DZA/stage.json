@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "protection",
-      "stage": "2",
-      "rules": "draft",
+      "stage": "3",
+      "rules": "inforce",
       "redress": "",
       "enforced": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-001",
-      "gaps": "No source found says the regulation was promulgated or that consumer-protection rules for digital finance are in force.",
-      "note": "Stage 4c 2026-10-26: The Bank of Algeria said in October 2024 that it was drafting a regulation to protect consumers of digital financial services. Nothing found shows it in force.",
-      "as_at": "2026-10-26"
+      "stage_sources": "DZA-003;DZA-001",
+      "gaps": "No source found since October 2023 says a financial ombudsman or a Bank of Algeria complaints unit takes complaints about digital financial services.",
+      "note": "Stage 4c 2026-11-12: Bank of Algeria Instruction 06-2025 of August 2025 sets escrow, guarantee and contract-disclosure rules for payment service providers, which answers question 2 after the 2024 drafting. No complaints body is on record.",
+      "as_at": "2026-11-12"
     }
   ]
 }

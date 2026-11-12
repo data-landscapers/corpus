@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "protection",
-      "stage": "unplaced",
-      "rules": "",
+      "stage": "2",
+      "rules": "draft",
       "redress": "",
       "enforced": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether consumer-protection rules apply to digital finance.",
-      "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "SLE-005",
+      "gaps": "No source found since October 2023 says consumer-protection rules for digital financial services are in force; the UNCDF and BSL accounts of mobile money guidelines and complaints tracking date from 2021 and 2022.",
+      "note": "Stage 4c 2026-11-12: In July 2025 NatCA presented a proposed framework for digital financial services with consumer-protection provisions, set jointly with the Bank of Sierra Leone, which answers question 1. No source from the last three years shows such rules in force.",
+      "as_at": "2026-11-12"
     }
   ]
 }

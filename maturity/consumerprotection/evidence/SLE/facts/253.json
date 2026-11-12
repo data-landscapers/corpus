@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-sle-regulatory-framework-for-digital-financial-services-in-sierra-leone-df",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "draft",
+   "fact": "NatCA presented a proposed digital financial services quality-of-service framework with consumer protection provisions on complaint timeframes and proposed fines, jointly with the Bank of Sierra Leone.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "DFS QoS Framework - Sierra Leone 2025",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": "Framework and sanctions are described as proposed."
+}

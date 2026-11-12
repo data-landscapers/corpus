@@ -22,10 +22,10 @@ The African Union's Digital Transformation Strategy asks for consumer protection
 |---|---|
 | 5 Leading | 8 |
 | 4 Operating | 10 |
-| 3 Established | 12 |
+| 3 Established | 13 |
 | 2 Nascent | 3 |
 | 1 Absent | 1 |
-| Unplaced | 10 |
+| Unplaced | 9 |
 | No evidence | 10 |
 
 ## Countries
@@ -148,6 +148,13 @@ The consumer protection commission handled mobile money complaints in 2024; no s
 
 - The Competition and Consumer Protection Commission resolved 1,477 complaints in 2024, with the main ICT complaint being delayed or non-reversed mobile money transactions ([source, 2024](https://www.zambiamonitor.com/consumer-protection-commission-claims-1477-complaints-resolved-in-2024/)).
 
+### Algeria: 3 Established
+
+Central bank rules of August 2025 make payment providers ring-fence customer funds and disclose fees; no complaints body has been found.
+
+- Launchbase Africa reports Bank of Algeria Instruction 06-2025 of 17 August 2025 requires payment service providers to hold customer funds in segregated escrow accounts, carry a bank guarantee or liability insurance, and give users contracts setting out fees and dispute resolution procedures ([source, 2025-08-17](https://launchbaseafrica.com/2025/08/19/algeria-opens-for-fintech-new-psp-rules-create-a-playbook-for-payments-startups/)).
+- The Bank of Algeria's director general of credit and banking regulation says the bank is drafting a regulation to protect consumers of financial services, notably digital ones, to be promulgated before the end of 2024 ([source, 2024-10-09](https://algerie-eco.com/2024/10/09/protection-des-consommateurs-des-services-financiers-un-reglement-sera-promulgue-avant-fin-2024/)).
+
 ### Botswana: 3 Established
 
 Consumer-protection rules for digital finance were in force in 2026; no source found reports a complaints body.
@@ -222,17 +229,17 @@ Fee rules covering mobile banking were in force in 2026; no source found reports
 - The RBZ directed all banks and deposit-taking microfinance institutions to cap cash withdrawal fees at 2% and POS charges at 1.5%, and to remove balance inquiry fees on banking and mobile banking platforms, by 31 March 2026 ([source, 2026-02-26](https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits)).
 - The RBZ capped POS charges at 1.5% of transaction value for local and international cards from 1 April 2026, with no minimum fee and a maximum of US$20 ([source, 2026-04-01](https://www.newsday.co.zw/opinion-analysis/article/200055031/zig-is-legal-tender-so-why-cant-you-use-it-online)).
 
-### Algeria: 2 Nascent
-
-The central bank was drafting consumer rules for digital finance in 2024; no source found says whether they took effect.
-
-- The Bank of Algeria's director general of credit and banking regulation says the bank is drafting a regulation to protect consumers of financial services, notably digital ones, to be promulgated before the end of 2024 ([source, 2024-10-09](https://algerie-eco.com/2024/10/09/protection-des-consommateurs-des-services-financiers-un-reglement-sera-promulgue-avant-fin-2024/)).
-
 ### Gambia: 2 Nascent
 
 The consumer-protection Acts were being revised for digital markets in 2025; no government source shows rules in force.
 
 - The Ministry of Trade, with the GCCPC and Commonwealth support, is working with a consultant to revise the Competition and Consumer Protection Acts to address digital markets, including e-commerce and digital financial platforms ([source, 2025-04-09](https://alkambatimes.com/stakeholders-endorse-gccpc-study-on-digital-market-competition-and-consumer-welfare/)).
+
+### Sierra Leone: 2 Nascent
+
+The telecoms regulator proposed consumer rules for digital financial services in July 2025; no source found shows them in force.
+
+- NatCA presented a proposed digital financial services quality-of-service framework with consumer protection provisions on complaint timeframes and proposed fines, jointly with the Bank of Sierra Leone ([source, 2025-07-01](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/qos/20250701/Documents/2-Melvin%20King.pdf)).
 
 ### Somalia: 2 Nascent
 
@@ -295,12 +302,6 @@ Morocco's banking mediation centre took 5,536 complaints in 2024, payment instit
 Not established: No source found since October 2023 says consumer-protection rules for digital finance are being drafted or are in force, or reports a fine, sanction or complaint figures for digital financial services.
 
 ### Sao Tome and Principe: Unplaced
-
-Nothing found since 2023 names consumer-protection rules for digital finance, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether consumer-protection rules apply to digital finance.
-
-### Sierra Leone: Unplaced
 
 Nothing found since 2023 names consumer-protection rules for digital finance, so no stage is set.
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-19-dza-algeria-opens-for-fintech-new-psp-rules-create-a-playbook-for-payments",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "Launchbase Africa reports Bank of Algeria Instruction 06-2025 of 17 August 2025 requires payment service providers to hold customer funds in segregated escrow accounts, carry a bank guarantee or liability insurance, and give users contracts setting out fees and dispute resolution procedures.",
+   "as_of": "2025-08-17",
+   "date_precision": "day",
+   "system": "Bank of Algeria Instruction 06-2025",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
