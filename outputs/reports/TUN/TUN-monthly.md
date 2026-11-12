@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: TUN
-ledger_rows: 40
+ledger_rows: 42
 not_held: 5
-record: 4e5dc932ab65
+record: a30d8eee13c4
 ---
 
 # News, Oct – Nov 2026
@@ -323,6 +323,42 @@ Tunisia's religious affairs ministry has launched a platform to manage mosque st
 **[Tunisie : la digitalisation fiscale permet d’économiser 6 000 journées de travail - WMC](https://www.webmanagercenter.com/2026/10/27/575585/tunisie-la-digitalisation-fiscale-permet-deconomiser-6-000-journees-de-travail/)** — Webmanagercenter, 27 October 2026
 
 Summarised under [Registries](#registries).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Selim e-justice system of the Administrative Court</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Justice budget: Digitalisation, court delays and enforcement of rulings at the centre of debate](https://news-tunisia.tunisienumerique.com/justice-budget-digitalisation-court-delays-and-enforcement-of-rulings-at-the-centre-of-debate/)** — News Tunisia, 30 October 2026
+
+Oct 2026: Administrative Court advisory services fully digitised, litigation partly; MPs press for faster e-justice.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Justice : le Tribunal administratif passe à l'audience électronique avec le système « Sélim »](https://www.lapresse.tn/2026/11/04/justice-le-tribunal-administratif-passe-a-laudience-electronique-avec-le-systeme-selim/)** — La Presse de Tunisie, 4 November 2026
+
+Central chambers hold first Selim e-hearings; system stated generalised to all chambers and procedure phases.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitisation of the state property inventory</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Terres domaniales : 11.000 hectares mis à la disposition des sociétés communautaires](https://www.lapresse.tn/2026/11/07/terres-domaniales-11-000-hectares-mis-a-la-disposition-des-societes-communautaires/)** — La Presse de Tunisie, 7 November 2026
+
+Cadastral geoportal due within two years with OTC and CNCT; 11,271 state properties inventoried by September 2026.
 
 </div>
 
