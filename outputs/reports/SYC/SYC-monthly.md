@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: SYC
 ledger_rows: 16
 not_held: 6
-record: 439d83cfcfc2
+record: 1c71cdbea5aa
 ---
 
 # News, Oct – Nov 2026
@@ -214,7 +214,7 @@ Seychelles' national computer emergency response team designed and delivered the
 
 **[Decisions from the Courts](https://www.judiciary.sc/resources/court-decisions/)** — The Judiciary of Seychelles, 1 October 2026
 
-Online register of Constitutional and Supreme Court decisions with neutral citations, dated to 2026.
+The Judiciary of Seychelles keeps a public list of decisions of the Court of Appeal, Constitutional Court and Supreme Court. The page in October 2026 lists 2026 Constitutional Court judgments in the Valabhji cases, the latest dated 25 June 2026, and Supreme Court criminal bail rulings from January 2026. Each case name links to the decision.
 
 </div>
 
@@ -346,7 +346,7 @@ A World Bank-led request asks SOFF for US$3.3m for 2027 to 2031. It rebuilds the
 
 **[SMA Successfully Passes Surveillance Audit, Setting the Stage for Broader ISO Certification](https://www.meteo.sc/news/sma-successfully-passes-surveillance-audit-setting-the-stage-for-broader-iso-certification/)** — Seychelles Meteorological Authority, 4 November 2026
 
-BSI audit of 3-4 Nov 2026 keeps aviation ISO 9001 scope; marine forecasting next in line for certification.
+The Seychelles Meteorological Authority said on 4 November 2026 that it passed an annual surveillance audit by the British Standards Institution, held on 3 and 4 November. The audit confirms its ISO 9001:2015 certification for aeronautical meteorological services. The authority plans to extend certification to its non-aviation services.
 
 </div>
 
