@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 266
+sources_cited: 268
 sections_written: 39
 not_established: 1
 acquire_lines: 48
@@ -336,7 +336,7 @@ The PSSB, Mozambique's flagship social transfer programme, [reached 709,028 bene
 
 [A toll-free line for complaints about public administration opened in June 2021](https://verdade.co.mz/tmcel-melhora-comunicacao-entre-cidadaos-e-administracao-publica/). [The water regulator takes complaints and appeals online through its RECO platform](https://www.aura.org.mz/noticias/51) (June 2026). [The central bank received 1,164 complaints against financial institutions in 2025, down 35.7%, and sanctioned nine institutions](https://www.bancomoc.mz/media/h2sh1frd/relat%C3%B3rio-anual-2025.pdf). [It received 487 in the first half of 2026, 44 of them against the two mobile-money issuers](https://bancomoc.mz/media/ofiltvbv/dsc_comunicado_estati-sticas-das-reclamac-o-es-recebidas-no-banco-de-moc-ambique-contra-instituic-o-es-financeiras-no-i-semestre-de-2026_v01_en.pdf).
 
-[Financial access points rose 47.0 per cent between December 2024 and May 2026, driven by a 54.0 per cent increase in e-money agents](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/). [Article 23 of the 2025 universal-access fund regulation makes a tariff 20 per cent below the normal one mandatory on universal-access services](https://www.incm.gov.mz/?sdm_process_download=1&download_id=3536). [The June 2026 5G licences oblige operators to connect at least 3,000 schools and 1,000 community institutions including health centres](https://clubofmozambique.com/news/mozambique-incm-awards-5g-licences-to-mobile-operators/), with equipment, installation and support included.
+[In 2023, 48% of adults held a bank account and about 83% a mobile or electronic-money account](https://www.bancomoc.mz/media/ag5o0v2n/resultados-do-inqu%C3%A9rito-sobre-literacia-financeira-em-mo%C3%A7ambique-outubro-de-2023.pdf). [Financial access points rose 47.0 per cent between December 2024 and May 2026, driven by a 54.0 per cent increase in e-money agents](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/). [Article 23 of the 2025 universal-access fund regulation makes a tariff 20 per cent below the normal one mandatory on universal-access services](https://www.incm.gov.mz/?sdm_process_download=1&download_id=3536). [The June 2026 5G licences oblige operators to connect at least 3,000 schools and 1,000 community institutions including health centres](https://clubofmozambique.com/news/mozambique-incm-awards-5g-licences-to-mobile-operators/), with equipment, installation and support included.
 
 ### Digital divides
 <!-- include.divides -->
@@ -363,7 +363,7 @@ In 2025 the World Bank found [government data management practices fragmented](h
 ### Open data
 <!-- data.open -->
 
-Mozambique had [no open government data portal](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) in 2025. [Law No. 34/2014 grants a right to information and gives the authorities a maximum of twenty-one days to answer](https://cscs.gov.mz/wp-content/uploads/2022/03/Lei-de-Direito-a-Informacao.pdf).
+Mozambique had [no open government data portal](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) in 2025. [In April 2024 the statistics institute and sector ministries added nearly 100 datasets to an Open Data Platform hosted by the African Development Bank](https://www.linkedin.com/posts/africa-information-highway_mozambique-odp-data-activity-7191022208083783683-DoFo). [Law No. 34/2014 grants a right to information and gives the authorities a maximum of twenty-one days to answer](https://cscs.gov.mz/wp-content/uploads/2022/03/Lei-de-Direito-a-Informacao.pdf).
 
 [Accessibility of Public Records stood at 20.6 out of 100 in 2023, 38th of 54 African states and down 2.7 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mz.pdf). [Disclosure of Public Records, which measures what the state publishes of its own accord, is 30.7, 33rd of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mz.pdf).
 
