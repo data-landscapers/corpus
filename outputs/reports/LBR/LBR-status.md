@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 219
+sources_cited: 220
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -92,7 +92,7 @@ Every deadline in that programme had passed by August 2026.
 
 [In April 2026 the President relaunched SMS shortcode 2424 for citizens to report on named officials and stalled projects](https://geezliberia.com/2026/04/president-boakai-launches-citizens-feedback-initiative-invites-direct-public-reporting-on-government-officials/). [It first ran in 2023 as a feedback line on public-service delivery](https://frontpageafricaonline.com/liberia-idad-rolls-out-initiative-to-get-citizens-feedback-on-public-service-delivery/). No count of messages has been published. [The Civil Service Agency launched a monthly newsletter on 5 August 2026, beside its website, virtual assistant and magazine](https://www.liberianobserver.com/news/csa-launches-monthly-e-newsletter-to-boost-transparency-public-engagement/article_3f277f5c-da8f-43c6-91b4-405f0c91c464.html). [A performance management information system launched in April 2026 promises quarterly results for every institution on one public platform](https://liberianinvestigator.com/boakai-government-performance-tracking-system/).
 
-[In March 2026 the national ID steering committee's report to President Boakai had not been made public](https://newnarratives.org/stories/tetee-gebro-stories/national-id-card-rollout-continues-to-be-held-up-by-1-7-million-unpaid-government-debt/). [The e-GP system publishes no award, tender, bidder or contract-value data](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html) (August 2026).
+[In March 2026 the national ID steering committee's report to President Boakai had not been made public](https://newnarratives.org/stories/tetee-gebro-stories/national-id-card-rollout-continues-to-be-held-up-by-1-7-million-unpaid-government-debt/). [The procurement commission publishes tender and award records from the e-GP system as open-licensed open contracting data, with no contract-stage records](https://data.open-contracting.org/en/publication/156) (November 2026).
 
 [Ten civil society organisations founded a Digital Advocacy and Rights Alliance in September 2026](https://www.liberianobserver.com/news/ten-csos-form-digital-rights-coalition/article_af9fdbc9-c6ab-4b6a-b1f1-3981a3e53c4f.html). [They press for an independent data protection authority and amendments narrowing the Cybercrime Act](https://www.liberianobserver.com/news/ten-csos-form-digital-rights-coalition/article_af9fdbc9-c6ab-4b6a-b1f1-3981a3e53c4f.html). [A Liberian Observer editorial argued that the country cannot build digital sovereignty by outsourcing its digital infrastructure](https://www.liberianobserver.com/opinion/editorials/liberia-cannot-build-digital-sovereignty-by-outsourcing-its-digital-spine/article_2452ed7e-2464-42b4-a934-7de1d083c470.html).
 
