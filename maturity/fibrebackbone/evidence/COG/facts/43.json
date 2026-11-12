@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-16-cog-le-congo-booste-sa-connectivite-modernisation-historique-de-la-fibre-o",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "AfriqueITNews reports the Congolese government entrusted Silicone Connect under a public-private partnership with upgrading the national fibre network between Pointe-Noire and Brazzaville to 200 Gb, a EUR 3.2 million project launched on 12 July 2024.",
+   "as_of": "2024-07-12",
+   "date_precision": "day",
+   "system": "National fibre backbone modernisation",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "AfriqueITNews reports the first phase, the southern backbone, was completed, moving from SDH to DWDM on the existing Pointe-Noire to Brazzaville fibre network.",
+   "as_of": "2024-07-16",
+   "date_precision": "day",
+   "system": "National fibre backbone (backbone Sud)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National fibre backbone (backbone Sud)",
+   "country_label": "Congo",
+   "class": "backbone",
+   "platform": "DWDM (Nokia)",
+   "owner": "Government of Congo, PPP with Silicone Connect",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

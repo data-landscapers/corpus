@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-13-cmr-ralph-mupita-pdg-de-mtn-group-annonce-un-investissement-de-62-4-millia",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Digital Business Africa reports that Camtel, the national operator, makes dark fibre available to MTN Cameroon under a contract, and that the regulator ART proposes dark fibre access.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Camtel fibre",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Camtel optical fibre network",
+   "country_label": "Cameroon",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

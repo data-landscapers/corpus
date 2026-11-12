@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-uga-national-backbone-infrastructure-project-nbi-egi",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "NITA-U says the National Backbone Infrastructure became operational in 2013/14 and, across four completed phases, links Kampala to towns including Mbale, Gulu, Fort Portal and Mbarara, with 7 border points connected.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "National Backbone Infrastructure (NBI/EGI)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Backbone Infrastructure (NBI/EGI)",
+   "country_label": "Uganda",
+   "class": "backbone",
+   "platform": "Optical fibre",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

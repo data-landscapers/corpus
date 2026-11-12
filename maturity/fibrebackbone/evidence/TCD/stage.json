@@ -8,10 +8,10 @@
       "access": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-002;TCD-003",
-      "gaps": "No source found says the backbone reaches every province or region.",
-      "note": "Counted from the four questions by study-ladder-fibrebackbone.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "TCD-012;TCD-011;TCD-002",
+      "gaps": "The minister said in September 2026 that six provinces had no fibre, and routes in the south-east are unbuilt. Nothing says other operators buy capacity on the national fibre.",
+      "note": "Fibre is in service from N'Djamena to Moundou, Doba and Abéché, so stage 3. Six provinces were unconnected in September 2026, so not 4.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -137,8 +137,9 @@ Backbone fibre linked the capital to other regions by 2025; no source found says
 
 Backbone fibre linked the capital to other regions by 2026; no source found says whether it reaches every region.
 
+- Russell Southwood says Safitel's fibre runs from N'Djamena to Moundou, Doba and Abeche and connects 26 cities and towns, and all major cities are connected, while routes in the south-east remain unbuilt ([source, 2026-11-11](https://russellsouthwood.substack.com/p/chad-living-in-a-landlocked-dangerous)).
+- Ecofin reports the Chadian ministry said a 1,200 km national fibre-optic backbone, part of PMICE Phase I, was provisionally accepted at Sarh on 2025-12-20 and is now considered operational ([source, 2025-12-20](https://www.ecofinagency.com/news-digital/2212-51602-chad-completes-first-phase-of-205mln-digital-connectivity-project)).
 - Minister Haliki Choua Mahamat said on 2026-10-09 that Chad has about 6,000 km of optical fibre, with a target of 14,000 km; the text does not say which regions it links ([source, 2026-10-09](https://www.tachad.com/tchad-le-ministre-des-telecommunications-echange-avec-les-partenaires-europeens-sur-la-transformation-numerique/)).
-- Minister Haliki Choua Mahamat told the World Bank on 2026-09-15 that national fibre coverage is incomplete, with six provinces still not connected by fibre, and about 8,000 km still to deploy ([source, 2026-09-15](https://www.agenceecofin.com/actualites-numerique/1709-141662-infrastructure-numerique-le-tchad-a-encore-besoin-de-8000-km-de-fibre-optique)).
 
 ### Congo: 3 Established
 

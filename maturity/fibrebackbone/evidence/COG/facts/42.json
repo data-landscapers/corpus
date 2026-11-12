@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-cog-data-center-market-brief-republic-of-congo",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Xalam Analytics says the Projet de Couverture Nationale fibre project is underway, about 3,000km of terrestrial fibre connecting key towns, alongside the ongoing Central African Backbone project.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Projet de Couverture Nationale",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projet de Couverture Nationale",
+   "country_label": "Republic of Congo",
+   "class": "backbone",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

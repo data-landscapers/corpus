@@ -97,6 +97,7 @@ CMR,Camtel national fibre-optic backbone,Cameroon,backbone,fibre,Camtel,,2026-10
 CMR,Camtel national backbone,Cameroon,backbone,fibre optic,Camtel,,2025-12-10-cmr-cameroun-camtel-a-gagne-34-milliards-fcfa-grace-a-la-fibre-optique-en
 CMR,Camtel national fibre backbone,Cameroon,backbone,fibre,Camtel,,2026-10-01-cmr-comment-internet-arrive-au-cameroun
 CMR,CAMTEL national fibre-optic network,CAMTEL national fibre network,backbone,,CAMTEL,,2026-11-10-cmr-art-communique-166-controle-qualite-service-operateurs-mobiles
+CMR,Camtel optical fibre network,Cameroon,backbone,,Camtel,,2024-12-13-cmr-ralph-mupita-pdg-de-mtn-group-annonce-un-investissement-de-62-4-millia
 COD,"DRC fibre concession programme (four 20-year PPP lots, 11,600 km)",Congo fibre concession programme,other,,Government of DRC (Digital Transformation Project),,2026-09-26-cod-theppppost-fibre-concession-ppp
 COD,Project East2West,Project East2West,other,,Bayobab (MTN Group) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
 COD,"national fibre backbone (55,000 km planned)",national fibre backbone,backbone,,"Government of DRC (Ministry of Posts, Telecommunications and Digital Affairs)",,2025-05-06 DRC e-government initiative makes bold blockchain bet
@@ -118,6 +119,8 @@ COG,Projet de couverture nationale en infrastructures de télécommunications (P
 COG,"Urban aerial fibre networks of Congo Telecom, GVA (CanalBox), Silicon Connect",,other,,Congo Telecom; GVA (CanalBox); Silicon Connect,,2025-03-31-deploiement-fibre-optique-urbanisation-reseaux-arpce-ldb
 COG,PCN,Projet de couverture nationale,backbone,,Congo Telecom,,2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville
 COG,second national fibre backbone,Congo,backbone,,,,2026-02-16-cog-congo-expands-international-bandwidth-with-2africa-landing
+COG,Projet de Couverture Nationale,Republic of Congo,backbone,,,,2025-07-01-cog-data-center-market-brief-republic-of-congo
+COG,National fibre backbone (backbone Sud),Congo,backbone,DWDM (Nokia),"Government of Congo, PPP with Silicone Connect",,2024-07-16-cog-le-congo-booste-sa-connectivite-modernisation-historique-de-la-fibre-o
 COM,"Digital connectivity project (inter-island connectivity, ANADEN data centre)",projet de connectivité numérique,other,,ANADEN (government),,2026-08-14-comores-bad-mcdf-connectivite-numerique
 COM,National Fiber Optic Backbone Transmission Network Project,National Fiber Optic Backbone Transmission Network Project,backbone,Huawei,Comores Telecom,,2018-01-01-eximbank-cn-com-001-china-eximbank-provides-rmb-567-million
 COM,"Telecommunications Network Modernization Project (Huri network, FTTH extension to 57 sites)",Nafassi FTTH,other,Huawei,Comores Telecom,,2018-01-01-eximbank-cn-com-001-china-eximbank-provides-rmb-567-million
@@ -318,6 +321,7 @@ NER,"Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",Dorsale Tra
 NER,"Tier III data centre, Niamey",,other,,,,2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
 NER,Dorsale Transsaharienne a Fibre Optique (DTS/FO),DTS/FO,backbone,,"Government of Niger (Ministry of Communication, Niger Telecom premises); AfDB-financed NEPAD project",,2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne
 NER,Dorsale Transsaharienne a Fibre Optique (DTS),DTS,backbone,,Government of Niger (MCNTI); AfDB-supported,,2025-11-14-mcnti-niger-receptionne-troncons-dts
+NER,Dorsale transsaharienne a fibre optique (DTS),DTS,backbone,,"Government of Niger, AfDB-financed",,2025-11-27-ner-le-niger-aborde-une-nouvelle-ere-de-connectivite-avec-la-dorsale-trans
 NGA,Project BRIDGE,Project BRIDGE (Building Resilient Digital Infrastructure for Growth),other,,"Bridge Open Access SPV, government minority stake",,2026-09-25-world-bank-nga-2026-project-bridge-timeline-accelerated
 NGA,Project BRIDGE,Project BRIDGE (Building Resilient Digital Infrastructure for Growth),other,,"Bridge Open Access SPV, government minority stake",,2026-08-26-nigeria-project-bridge-90000km-fibre-barriers-sun
 NGA,Project BRIDGE,Project BRIDGE (Building Resilient Digital Infrastructure for Growth),other,,"Bridge Open Access SPV, government minority stake",,2026-08-20-punch-nigeria-project-bridge-fibre-october
@@ -529,6 +533,8 @@ UGA,National Backbone Infrastructure (NBI),Uganda,backbone,,NITA-U,,2024-10-28-u
 UGA,National Backbone Infrastructure,National Backbone Infrastructure,backbone,fibre,,,2025-01-01-uga-gender-data-and-digital-transformation-in-uganda
 UGA,National Backbone Infrastructure (NBI),Uganda,backbone,"optical fibre, EXIM Bank-financed phases 2008 to 2022",NITA-U,,2026-11-02-uga-questions-swirl-over-internet-deal-between-uganda-tanzania
 UGA,UETCL DWDM fibre,Uganda,backbone,fibre on the high-voltage power line,Uganda Electricity Transmission Company Ltd,,2026-11-02-uga-questions-swirl-over-internet-deal-between-uganda-tanzania
+UGA,National Backbone Infrastructure (NBI/EGI),Uganda,backbone,Optical fibre,NITA-U,,2025-07-01-uga-national-backbone-infrastructure-project-nbi-egi
+UGA,NBI/EGI,National Backbone Infrastructure and e-Government Infrastructure,backbone,"optical fibre, China EXIM Bank funded",NITA-U,,2024-11-04-uga-police-probe-nita-over-shs700b-internet-project
 ZAF,WIOCC open-access terrestrial fibre footprint,,other,,Wiocc Group,,2026-09-01-wiocc-300m-techcentral
 ZAF,Openserve long-haul fibre network,Openserve,backbone,,Telkom (Openserve),,2026-09-07-openserve-third-fibre-route-south-africa
 ZAF,Comsol national 5G wholesale network,Comsol 5G home broadband network,other,ZTE 5G core and radio,Comsol,wholesale to ISPs and MVNOs,2026-08-20-techcentral-south-africa-comsol-5g-woan
@@ -538,6 +544,7 @@ ZAF,SA Connect Phase 2,SA Connect Phase 2,other,,Government (R3 billion programm
 ZAF,SITA government network upgrade,State Information Technology Agency network upgrades,other,,SITA,6 343 government facilities,2026-02-25-zaf-2026-budget-review-annexure-d-infrastructure
 ZAF,SAEx East subsea cable,SAEx East Subsea Fibre-Optic Cable Phase 1,other,,,,2026-02-25-zaf-2026-budget-review-annexure-d-infrastructure
 ZAF,Broadband Infraco network,South Africa,backbone,fibre,Broadband Infraco,,2025-03-15-zaf-the-technically-insolvent-state-owned-broadband-company-that-lost-r459
+ZAF,"Liquid Eastern Cape fibre network (7,000 km)",South Africa,other,,Liquid Intelligent Technologies,one province,2024-12-03-zaf-liquid-spends-r1bn-on-fibre-network-expansion-across-sa
 ZMB,Project East2West,East2West,other,,Bayobab (MTN Group) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
 ZMB,National Data Centre,National Data Centre,other,,Infratel (government),,2026-01-01-xalam-zambia-data-center-market-briefing
 ZMB,Infratel data centres (SMART Zambia),Infratel data centres,other,,Government via Infratel,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly

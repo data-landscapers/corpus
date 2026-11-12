@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-southwood-chad-landlocked-one-international-fibre-exit",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Russell Southwood says Safitel's fibre runs from N'Djamena to Moundou, Doba and Abeche and connects 26 cities and towns, and all major cities are connected, while routes in the south-east remain unbuilt.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Safitel national fibre network",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-04-uga-police-probe-nita-over-shs700b-internet-project",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Monitor reports that phase one of the National Backbone Infrastructure completed in June 2008 laid 168km of fibre linking Kampala to Mukono, Bombo and Jinja, with later phases adding 1,400km, 756km to western Uganda and the Tanzania and Rwanda borders, and an RCIP phase extending to West Nile.",
+   "as_of": "2008-06",
+   "date_precision": "month",
+   "system": "National Backbone Infrastructure and e-Government Infrastructure (NBI/EGI)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NBI/EGI",
+   "country_label": "National Backbone Infrastructure and e-Government Infrastructure",
+   "class": "backbone",
+   "platform": "optical fibre, China EXIM Bank funded",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
