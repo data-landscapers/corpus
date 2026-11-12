@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-08-swz-l-eswatini-adopte-sa-premiere-politique-de-gouvernance-des-donnees",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "iMedias (dpa) reports Eswatini has its first national data governance policy, covering 2027-2031, prepared by the Ministry of ICT with GIZ and Smart Africa, with an implementation roadmap, monitoring framework and change-management plan; no adoption date or adopting body is given. The policy's period starts in 2027 and no government approval is reported, so it is held as a draft.",
+      "as_of": "2026-09-08",
+      "date_precision": "day",
+      "system": "National data governance policy 2027-2031",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}
