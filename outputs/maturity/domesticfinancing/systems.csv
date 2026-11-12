@@ -59,6 +59,9 @@ CIV,ARTCI telecoms-regulation levy account (programme 23209),ARTCI regulation le
 CIV,Nos Villages Connectés,Côte d'Ivoire,other,,ANSUT,,2025-10-02-civ-nos-villages-connectes-38-nouvelles-localites-rejoignent-l-aventure
 CMR,"Programme 380 Modernisation du cadastre, 2026 budget",Modernisation du cadastre,financing,,"Ministry of State Property, Surveys and Land Tenure",national,2025-11-26-cmr-2026-37-380
 CMR,"Programme 026 Modernisation du cadastre, 2025 budget",Modernisation du cadastre,financing,,"Ministry of State Property, Surveys and Land Tenure",national,2024-12-23-cmr-2025-37-026
+CMR,"Programme 451 Développement sécurisé et inclusif de l'écosystème national du numérique, 2026 budget",Développement sécurisé et inclusif de l'écosystème national du numérique,financing,,Ministry of Posts and Telecommunications,national,2025-11-26-cmr-2026-45-451
+CMR,"Programme 130 Développement de l'écosystème national du numérique, 2025 budget",Développement de l'écosystème national du numérique,financing,,Ministry of Posts and Telecommunications,national,2024-12-23-cmr-2025-45-130
+CMR,"Programme 132 Sécurisation de l'écosystème national du numérique, 2025 budget",Sécurisation de l'écosystème national du numérique,financing,,Ministry of Posts and Telecommunications,national,2024-12-23-cmr-2025-45-132
 COD,Projet d'appui à la transformation numérique en RDC,Projet d'appui à la transformation numérique en RDC,other,,"External financing line FC 145,015,000,000, financier not named in the budget; the document matches it to World Bank P180495",,2025-12-29-cod-2026-71
 COD,Section 52 external investment lines 2025,Acquisition d'equipements divers; Rehabilitation du batiment du SG; Acquisition des vehicules,other,,"External investment FC 105,512,273,724, financier not named",,2025-06-28-cod-2025-52
 COD,Projet CAB5 cinquième phase,Projet CAB5 cinquième phase,other,,"World Bank, FC 95,512,273,724 in budget 2024",,2023-12-10-cod-2024-52
@@ -113,6 +116,7 @@ GHA,"Ghana-India Kofi Annan Centre of Excellence in ICT, ICT Capacity Developmen
 GHA,"Cyber Security Authority, Cyber Security and Regulations sub-programme, 2026 budget",Cyber Security Authority,financing,,"Ministry of Communication, Digital Technology and Innovations",national,2026-01-01-gha-2026-026-02603-02603003
 GHA,"Ghana Domain Name Registry, Domain Management and Regulation sub-programme, 2026 budget",Ghana Domain Name Registry,financing,,"Ministry of Communication, Digital Technology and Innovations",national,2026-01-01-gha-2026-026-02603-02603004
 GHA,"Data Protection Commission, Data Management and Regulation sub-programme, 2026 budget",Data Protection Commission,financing,,"Ministry of Communication, Digital Technology and Innovations",national,2026-01-01-gha-2026-026-02603-02603005
+GHA,Rural Telephony Project,Rural Telephony Project,financing,,GIFEC,national,2026-09-05-ghana-rural-telephony-4g-upgrade-gna
 GIN,Digital Sovereignty Fund (FSN),Fonds de Souveraineté Numérique,financing,,State of Guinea (created by presidential decree),,2026-05-26-ecofin-guinea-3pct-tax-foreign-digital-services
 GIN,Digital Compliance Fee (RCN),Redevance de Conformité Numérique,financing,,State of Guinea,,2026-05-26-ecofin-guinea-3pct-tax-foreign-digital-services
 GIN,Digital Analysis and Regulation Platform (PARN),Plateforme d'Analyse et de Régulation Numérique,other,,State of Guinea,,2026-05-26-ecofin-guinea-3pct-tax-foreign-digital-services
@@ -151,6 +155,11 @@ MOZ,Fundo de Serviço de Acesso Universal (FSAU),FSAU,financing,,INCM board (man
 MOZ,Fundo do Serviço de Acesso Universal (FSAU),FSAU,financing,,,,2007-07-04-mocambique-diploma-ministerial-79-2007-contribuicoes-fsau
 MOZ,Service universel (operator contributions),service universel,financing,,INCM,national,2026-08-26-agenceecofin-mozambique-amendes-telecoms-inclusion-numerique
 MOZ,Fundo do Serviço de Acesso Universal (FSAU),Fundo do Serviço de Acesso Universal,financing,,"INCM, the communications regulator (autonomous fund under its board)",,2025-05-16-mocambique-decreto-11-2025-regulamento-fundo-servico-acesso-universal
+MOZ,CEDSIF 2026 state budget,Centro de Desenvolvimento de Sistemas de Informação de Finanças,financing,,Ministry of Economy and Finance,national,2026-01-01-moz-2026-27a001141
+MOZ,Ministry of Communications and Digital Transformation 2026 state budget,Ministério das Comunicações e Transformação Digital,financing,,Ministry of Economy and Finance,national,2026-01-01-moz-2026-52a000141
+MOZ,INTIC 2026 state budget,Instituto Nacional de Tecnologias de Informação e Comunicação,financing,,Ministry of Communications and Digital Transformation,national,2026-01-01-moz-2026-52a001641
+MOZ,INAGE 2026 state budget,Instituto Nacional do Governo Electrónico,financing,,Ministry of Communications and Digital Transformation,national,2026-01-01-moz-2026-52a004041
+MOZ,Fundo de Segurança Cibernética,Fundo de Segurança Cibernética,financing,,Autoridade Nacional de Segurança Cibernética,national,2026-07-01-mocambique-lei-13-2026-seguranca-cibernetica-lei-14-2026-crimes-ciberneticos
 MRT,Fonds d'accès universel aux services (FAUS),Fonds d'accès universel aux services,financing,,State of Mauritania,,2026-07-31-emergence-conseil-ministres-nouveau-decret-gestion-faus-tresor-public
 MRT,Universal Access Fund for Services (صندوق النفاذ الشامل إلى الخدمات),صندوق النفاذ الشامل إلى الخدمات (FAUS),financing,,State of Mauritania,,2026-07-29-lequotidien-conseil-ministres-fonds-acces-universel
 MRT,National cloud,National cloud (Nouakchott National Data Center),other,,Ministry of Digital Transformation,government agencies,2026-06-30-national-cloud-launch-ecofin

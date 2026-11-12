@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-03-mli-administration-territoriale-200-millions-de-fcfa-pour-la-modernisation",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "AGEFAU, the universal access fund agency, says it funds a 200 million FCFA project to build digital capacity in 126 communes, and reported progress on a 715,709,261 FCFA project to equip governorates with energy-autonomous touchscreens.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "AGEFAU universal access fund",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
