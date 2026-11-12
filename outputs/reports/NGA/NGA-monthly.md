@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: NGA
-ledger_rows: 93
+ledger_rows: 97
 not_held: 9
-record: 49e84cb94f8a
+record: 5ad79f42d998
 ---
 
 # News, Oct – Nov 2026
@@ -233,6 +233,20 @@ A bill before Nigeria's House of Representatives, sponsored by Lanre Okunlola, w
 **[Nigeria is rewriting its cyber laws, but can it secure its systems against hackers?](https://techcabal.com/2026/11/06/nigeria-is-rewriting-its-cyber-laws/)** — TechCabal, 6 November 2026
 
 TechCabal reported on 6 November 2026 that Nigeria is reviewing its cybersecurity laws. It is considering a national cybersecurity architecture with baseline standards. It says the Cybercrimes Act of 2015 was amended in February 2024 and the 2021 national strategy is due for review. A House committee chair gave January to June 2027 as the expected enactment window for the bills.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bill on systemically important fintechs (SB. 959)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senate Passes Bill to Regulate Systemically Important Fintechs](https://naltf.gov.ng/senate-passes-bill-to-regulate-systemically-important-fintechs/)** — National Assembly Library Trust Fund (NALTF), 10 November 2026
+
+SB. 959 amends BOFIA 2020; CBN stress tests, data-integrity checks, cybersecurity rules, public SII register.
 
 </div>
 
@@ -671,6 +685,28 @@ Lagos State's infrastructure regulator LASIMRA ordered internet service provider
 **[Nigeria’s telecom operators sue federal lawmakers over service-quality probe](https://techcabal.com/2026/11/09/nigerian-telecom-operators-sue-reps/)** — TechCabal, 9 November 2026
 
 ALTON and four Nigerian operators filed a summons at the Federal High Court in Abuja on 4 November 2026, TechCabal reported. They ask whether the Constitution lets the House of Representatives investigate their network quality and summon their chiefs. The House says each operator holds its own licence and must account for its performance.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile and broadband subscriber base</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria’s active telecom lines hit 200m as 5G share crosses 5%](https://www.vanguardngr.com/2026/11/nigerias-active-telecom-lines-hit-200m-as-5g-share-crosses-5/)** — Vanguard, 10 November 2026
+
+200.3m lines in Sept 2026; teledensity 92.41%; broadband 128m (59.05%); 5G 5.05% of mobile connections.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria’s active mobile subscriptions hit 200 million after NIN-SIM purge](https://techcabal.com/2026/11/11/nigerias-mobile-subscriptions/)** — TechCabal, 11 November 2026
+
+Nigeria's active mobile subscriptions reached 200.3 million in September 2026, Nigerian Communications Commission data show. That is up 29 per cent in two years. MTN had 104.6 million and Airtel 68 million, about 86 per cent of the total. In 2024 lines fell from 224.7 million to 164.9 million when SIMs without a verified NIN were cut off.
 
 </div>
 
@@ -1608,6 +1644,20 @@ Vincent Olatunji, head of the Nigeria Data Protection Commission, opened the 8th
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Three-million technology talent programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Opens ₦4 Billion Funding Applications for 3MTT Cohort 5 Delivery Partners](https://techafricanews.com/2026/11/11/nigeria-3mtt-cohort-5-opens-4-billion-funding-applications/)** — Tech Africa News, 11 November 2026
+
+Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcome-linked funding for delivery partners of 3MTT Cohort 5. The EU and Denmark fund it through GIZ, HAUS and ESTDEV, with a MacArthur Foundation grant. Applications close on 30 November 2026.
+
+</div>
+
+</div>
+
 ## Inclusion
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
@@ -1683,6 +1733,20 @@ The 2026 Access to Financial Services survey by EFInA and Nigeria's statistics b
 **[The jargon problem keeping public participation out of DPI design](https://govinsider.asia/intl-en/article/the-jargon-problem-keeping-public-participation-out-of-dpi-design-1)** — GovInsider, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 Speakers at an Open Government Partnership webinar on 15 October 2026 said the label 'digital public infrastructure' keeps the public out of designing digital ID, payment and data systems, and urged governments to make clear where people can take part. Nigeria's open-government plan carries a DPI commitment led by NITDA, including a pilot of accessibility standards in 10 federal agencies.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Identity enrolment of refugees and displaced people</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[10 states get mobile centres to tackle documentation crisis among 3.7m displaced Nigerians](https://www.vanguardngr.com/2026/11/10-states-get-mobile-centres-to-tackle-documentation-crisis-among-3-7m-displaced-nigerians/)** — Vanguard, 11 November 2026
+
+Nigeria's Humanitarian Affairs ministry, UNHCR and Germany handed mobile one-stop-shop vehicles to 10 states (reported 11 November 2026). The vehicles bring NIN enrolment, birth registration, BVN and SIM registration to displaced people. Nigeria has 3.7 million of them.
 
 </div>
 
