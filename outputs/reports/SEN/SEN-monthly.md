@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: SEN
-ledger_rows: 37
+ledger_rows: 39
 not_held: 2
-record: a1c754523dc3
+record: 42a7a6f30efd
 ---
 
 # News, Oct – Nov 2026
@@ -227,6 +227,20 @@ At the opening of Senegal's 2026–2027 parliamentary session on 13 October 2026
 **[SENUM and Univers Telecom Group sign strategic partnership to accelerate Senegal’s digital transformation](https://techreviewafrica.com/news/8155/senum-and-univers-telecom-group-sign-strategic-partnership-to-accelerate-senegal-s-digital-transformation)** — Tech Review Africa, 6 November 2026
 
 Senegal's state digital company SENUM signed a partnership agreement with Univers Telecom Group, reported on 6 November 2026. The stated aims are a more resilient state digital infrastructure and the digitisation of the administration. The work is already under way through the PRODAP programme on the national backbone.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Starlink fixed satellite internet licence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Starlink suspended in Senegal](https://thepoint.gm/africa/gambia/headlines/starlink-suspended-in-senegal)** — The Point, 11 November 2026
+
+Senegal's Supreme Court rejected the State's appeal on 3 November 2026. The suspension of Starlink's licence stays in place. It is the State's second loss in the case in two months. A final ruling is still to come (The Point, 11 November 2026).
 
 </div>
 
@@ -648,6 +662,8 @@ Senegal's parliamentary commission of inquiry into the One Student, One Computer
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#open-data">Open data</a>
 </nav>
 
 ### National statistics
@@ -661,6 +677,22 @@ Senegal's parliamentary commission of inquiry into the One Student, One Computer
 **[L’ANSD envisage de faciliter l’accès à distance aux données anonymisées (DG)](https://aps.sn/lansd-envisage-de-faciliter-lacces-a-distance-aux-donnees-anonymisees-dg/)** — Agence de Presse Sénégalaise, 13 October 2026
 
 Senegal's statistics agency is working towards remote access for authorised researchers to the anonymised detailed data now consulted on site in its data-access centres. Its director-general named personal-data protection, access security and conditions of use as the questions to settle.
+
+</div>
+
+</div>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics agency open data licence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accord de licence de données ouvertes — ODP de l'ANSD du Sénégal](https://nso-senegal.opendataforafrica.org/hiwidxb)** — Agence Nationale de la Statistique et de la Démographie (ANSD), Sénégal, 11 November 2026
+
+The open data licence of Senegal's national statistics agency, ANSD, grants a free, worldwide, non-exclusive licence to copy, adapt and distribute its data, including commercially. Users must carry a prescribed source statement (checked 11 November 2026).
 
 </div>
 
