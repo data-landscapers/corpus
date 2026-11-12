@@ -38,6 +38,7 @@ CMR,LAD-IA (Laboratoire d'Analyse de Données et d'Intelligence Artificielle),Ca
 COD,Lingala linguistic data collection project,DRC,localai,,Ministry of Digital Economy with UNDP,,2026-08-07-drc-digital-code-public-awareness-campaign-launched
 COD,correction automatisée de l'Examen d'État,DR Congo,localai,,Ministry of National Education and New Citizenship,,2025-12-21-cod-1ere-edition-des-casp-raissa-malu-presente-l-ia-comme-un-outil-d-effic
 COD,Lofoyi,DR Congo,localai,"150 TFLOPS, InfiniBand 100 Gbps, hybrid architecture",Universite Nouveaux Horizons (UNH),,2026-06-27-cod-unh-inaugure-son-supercalculateur
+COD,Yamify,DR Congo,localai,GPU cloud hosted in African data centres,Yamify (private startup),,2025-09-04-cod-dr-congo-based-yamify-raises-100k-to-launch-a-localized-ai-cloud-for-a
 COG,African Center for Research in Artificial Intelligence (CARIA),Congo,localai,,Government of Congo,,2026-04-21-congo-russia-digital-ai-cooperation-caria-techafricanews
 COG,Lingala and Kituba digital corpus,Congo,localai,,"Ministry of Posts, Telecommunications and Digital Economy, with UNDP",,2026-05-06-strategie-nationale-ia-langues-nationales-pnud-ldb
 COG,Qwen-VL Lingala OCR Dataset,Congo,localai,Hugging Face,Congo Digital Services,,2026-08-01-cog-qwen-vl-lingala-ocr-dataset
@@ -73,6 +74,9 @@ EGY,Karnak,Egypt,localai,,,,2026-03-11-ncai-reviews-national-ai-strategy-progres
 EGY,Africa Data Centres Egypt,Egypt,localai,GPU data centre,"Vodafone Business, Elsewedy Electric, Cassava Technologies",,2026-10-18-zaf-vodacoms-technology-chief-outlines-regional-data-centre-strategy
 EGY,Huawei Ascend 950-series AI training cloud offer,EGY,other,,Huawei (offer to government customers),,2026-10-20-egy-egypts-play-to-become-an-exporter-of-computing-power
 EGY,"Egypt sovereign AI data centre (Vodafone Egypt, Elsewedy Electric, Cassava)",Egypt,localai,,"Vodafone Egypt, Elsewedy Electric, Cassava Technologies",,2026-11-10-techcentral-vodacom-eyes-sa-and-kenya-for-ai-data-centre-hubs-after-egypt
+EGY,Public Prosecution AI data centre,Egypt,localai,,Public Prosecution,,2026-11-11-egy-prosecution-opens-ai-data-centre-in-rehab
+EGY,EMA supercomputer,Egypt,other,,Egyptian Meteorological Authority,,2026-01-14-egy-ema-2025-year-in-review-radars-supercomputer
+EGY,JIGSAW central data and AI platform,Egypt,localai,,Hyve Technology Consulting; localised at the Information and Decision Support Centre,,2023-11-23-egy-idsc-hyve-jigsaw-data-platform-mou
 ERI,Dahlak LMs,Eritrea,localai,research.geezlab.com,GeezLab (GLaRe),,2026-01-01-eri-geezlab-glare-eritrean-language-ai-research
 ERI,Tigrigna speech to text,Eritrea,localai,speech recognition model,EIT Mai-Nefhi graduates,,2021-11-06-eri-shabait-tigrigna-speech-to-text-ai
 ERI,DESTA-1B,DESTA-1B,localai,Hugging Face,mewaeltsegay,,2026-01-01-eri-desta-1b-dedicated-eritrean-semitic-text-autoregressor
@@ -107,6 +111,7 @@ GIN,224 N'Lambé API,Guinea,localai,translation API,224 N'Lambé,,2026-09-10-gin
 GIN,GenerIA consortium MoU,Guinea,localai,,"Ministry of Higher Education, Scientific Research and Innovation; GenerIA Inc. consortium",,2025-11-14-gin-communique-de-presse-conakry-14-novembre-2025
 GMB,"Mandinka, Wolof and Fula language datasets",Gambian local language datasets,localai,LingoAI stack,Jokkolabs Banjul and LingoAI,,2026-05-24-gmb-lingoai-jokkolabs-local-language-datasets
 GMB,Mandinka-English machine translation model,The Gambia,localai,HuggingFace,Jollof Lab,,2026-04-10-gmb-jollof-lab-mandinka-translation-model
+GMB,CUBE AI Tutor,The Gambia,localai,,,pilot at three secondary schools,2026-11-10-gmb-gambia-to-gain-38m-gdp-boost-if-it-capitalises-on-ai-revolution
 GNB,Kiriol-English-Portuguese machine translation dataset,Guinea-Bissau,localai,,"Rowe, Gow-Smith, Hepple",,2025-04-03-gnb-arxiv-kiriol-machine-translation-dataset
 GNQ,AI laboratory at UNGE,Equatorial Guinea,other,,Universidad Nacional de Guinea Ecuatorial / STEM Power,,2026-02-17-gnq-donacion-de-material-informatico-y-fortalecimiento-tecnologico-en-la-u
 KEN,SmartVoice,Kenya,localai,application for speech data collection,Maseno Centre for Applied AI (MCAAI),,2026-09-24-ken-mcaai-dholuo-speech-data-ai
@@ -177,6 +182,8 @@ NAM,National Artificial Intelligence Institute,Namibia,localai,,NCRST,national,2
 NAM,NCRST-funded HPC centres at NUST and UNAM,Namibia,localai,GPU-enabled HPC,"NUST and UNAM, funded by NCRST",university,2026-09-25-nam-neweralive-ncrst-ai-institute-opens
 NAM,PARAM Supercomputer at NUST,Namibia,localai,"C-DAC PARAM cluster, Dell PowerEdge, 1 NVIDIA Tesla V100",Namibia University of Science and Technology (INCEIT),university,2026-08-09-inceit-param-hpc-nust-namibia-specification
 NAM,National Artificial Intelligence Institute,Namibia,other,,Government of Namibia,,2026-11-03-nam-regulating-ai-without-restricting-innovation
+NAM,Axon AI,Namibia,localai,AI laboratory diagnostics,Axon AI startup,,2025-08-28-nam-ai-innovations-take-centre-stage-at-seedr-namibia-demo-day
+NAM,Okaluli,Namibia,localai,generative AI education tools,Okaluli startup,,2025-08-28-nam-ai-innovations-take-centre-stage-at-seedr-namibia-demo-day
 NER,Rayuwa,Niger,localai,Android app (Play Store),Agence de Developpement Numerique (ADN),,2025-08-29-ner-adn-rayuwa-ai-platform-training
 NGA,N-ATLAS,Nigeria,localai,Llama-3 8B LLM,"Awarri, NITDA, NCAIR",national,2025-09-22-n-atlas-nigerian-llm-launch
 NGA,AGH Cloud / Africa GPU Hub,Nigeria,localai,GPU cloud,Udu Technologies,,2026-09-11-udutech-baro-ai-gpu-supply-africa
@@ -215,6 +222,7 @@ SEN,Oolel-v0.1,Senegal,localai,Hugging Face,Soynade,,2026-02-18-sen-soynade-s-op
 SEN,SENEGAL-AI,Senegal,localai,CINERI Taouey supercomputer,"LITA, ESP, UCAD",,2026-10-30-sen-le-senegal-se-dote-d-un-hub-pour-transformer-les-projets-d-ia-en-appli
 SEN,Dakar 2026 private cloud (Alibaba Cloud Apsara Stack),Senegal,other,Alibaba Cloud Apsara Stack,Dakar 2026 Organizing Committee; to be handed to Senegal after the Games,,2026-11-02-alibaba-cloud-ai-dakar-youth-olympic-games
 SEN,AI Living Lab (ALIVE Lab),Senegal,localai,collaborative AI technological platform and large database,,,2024-09-30-iati-xm-dac-301-2-110586-001-ai-living-lab-for-innovative-and-viable-ethical-policies-and
+SEN,Kera Health platform,Senegal,localai,AI health data platform,Kera Health (private),,2025-06-18-sen-senegal-la-startup-e-sante-kera-health-leve-10-millions-de-dollars-aup
 SLE,"Krio language model, Darli AI and Krio AI Agronomist",Sierra Leone,other,IVR and WhatsApp,Farmerline Group,,2024-07-01-sle-farmerline-mocti-mou-krio-language-model
 SLE,AI-EVA,Sierra Leone,localai,voice assistant,Africell,,2025-06-01-sle-africell-unveils-ai-eva-and-afrogpt-at-summit
 SLE,AfroGPT,Sierra Leone,localai,offline language model,Africell,,2025-06-01-sle-africell-unveils-ai-eva-and-afrogpt-at-summit
@@ -250,6 +258,7 @@ TUN,Labess-7B-Chat,Labess-7B-Chat Derja speech-to-speech pipeline,localai,,Linag
 TUN,Ooredoo sovereign AI-as-a-Service,Tunisia,localai,NVIDIA GPUs,Ooredoo Tunisia,,2025-10-05-tun-tunisia-s-ooredoo-hosts-inaugural-ai-summit-announcing-nvidia-partners
 TUN,Novation City NVIDIA DGX system,Tunisia,localai,NVIDIA DGX,Novation City,,2024-09-17-tun-new-ai-innovation-hub-in-tunisia-drives-technological-advancement-acro
 TUN,ESPRIT University NVIDIA DGX system,Tunisia,localai,NVIDIA DGX,ESPRIT University,,2024-09-17-tun-new-ai-innovation-hub-in-tunisia-drives-technological-advancement-acro
+TUN,Thunder Code AI software-testing platform,Tunisia,other,SaaS,Thunder Code,,2025-06-04-tun-la-startup-franco-tunisienne-thunder-code-leve-9-millions-de-dollars
 TZA,Kituo cha Taifa cha Data za Akili Unde (National AI Data Centre),Tanzania,localai,,Government of Tanzania (Ministry of Communications and Information Technology),,2026-07-24-tanzania-mafanikio-akili-unde-ai-waico-2026-shanghai
 TZA,JAMII AI,Tanzania,localai,Kiswahili large language model,Government of Tanzania (per Development Vision 2050),,2026-07-24-tanzania-mafanikio-akili-unde-ai-waico-2026-shanghai
 TZA,HostAfrica Blackwell GPUs,HostAfrica Nvidia Blackwell GPUs,localai,Nvidia Blackwell,HostAfrica,,2026-08-14-tza-hostafrica-enters-tanzania-brings-africa-s-first-local-blackwell-gpus

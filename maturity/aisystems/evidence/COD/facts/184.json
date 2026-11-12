@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-04-cod-dr-congo-based-yamify-raises-100k-to-launch-a-localized-ai-cloud-for-a",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Arab Founders reports that Kinshasa-based startup Yamify, founded in 2024, is building a GPU-powered AI cloud platform hosted in African data centres and is in private beta with a waitlist of over 1,500.",
+   "as_of": "2025-09-04",
+   "date_precision": "day",
+   "system": "Yamify",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Yamify",
+   "country_label": "DR Congo",
+   "class": "localai",
+   "platform": "GPU cloud hosted in African data centres",
+   "owner": "Yamify (private startup)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

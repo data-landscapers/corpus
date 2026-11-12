@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-14-egy-ema-2025-year-in-review-radars-supercomputer",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMA supercomputer",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Egyptian Meteorological Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "A weather-data supercomputer is being installed; no AI computing, model or dataset is stated."
+}

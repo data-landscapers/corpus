@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-28-nam-ai-innovations-take-centre-stage-at-seedr-namibia-demo-day",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Namibia Economist reports that Axon AI is developing an AI-powered system for laboratory diagnostics and Okaluli generative-AI education tools, both entering a 33-month incubation after the Seedr Namibia 2.0 AI Edition Demo Day.",
+   "as_of": "2025-08-16",
+   "date_precision": "day",
+   "system": "Axon AI laboratory diagnostics system",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Axon AI",
+   "country_label": "Namibia",
+   "class": "localai",
+   "platform": "AI laboratory diagnostics",
+   "owner": "Axon AI startup",
+   "tiers": ""
+  },
+  {
+   "system": "Okaluli",
+   "country_label": "Namibia",
+   "class": "localai",
+   "platform": "generative AI education tools",
+   "owner": "Okaluli startup",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-18-sen-senegal-la-startup-e-sante-kera-health-leve-10-millions-de-dollars-aup",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Digital Business Africa reports the Senegalese startup Kera Health is building an AI-powered health data platform for Senegal and the UEMOA zone, backed by a USD 10 million IFC capital injection due for validation on 20 June 2025.",
+   "as_of": "2025-06-18",
+   "date_precision": "day",
+   "system": "Kera Health platform",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kera Health platform",
+   "country_label": "Senegal",
+   "class": "localai",
+   "platform": "AI health data platform",
+   "owner": "Kera Health (private)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-gmb-gambia-to-gain-38m-gdp-boost-if-it-capitalises-on-ai-revolution",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Standard reports that a locally developed CUBE AI Tutor was piloted with 150 students at three secondary schools in May 2026.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "CUBE AI Tutor",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CUBE AI Tutor",
+   "country_label": "The Gambia",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": "pilot at three secondary schools"
+  }
+ ],
+ "note": ""
+}
