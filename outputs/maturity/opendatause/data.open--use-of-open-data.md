@@ -20,10 +20,10 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 0 |
+| 5 Leading | 3 |
+| 4 Operating | 2 |
 | 3 Established | 9 |
-| 2 Nascent | 32 |
+| 2 Nascent | 28 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
 | No evidence | 9 |
@@ -35,6 +35,45 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 More than five national agencies published open-licensed data on one portal in 2026.
 
 - CITADEL says its portal holds more than 145 datasets from more than 5 national agencies and official portals ([source, 2026-06-17](https://data.citadel.bf/)).
+
+### Libya: 5 Leading
+
+Nine government bodies published on the national open data platform in 2026, under terms that let anyone reuse the data.
+
+- The General Information Authority's open data platform terms allow lawful use of its datasets and republication with attribution to the platform and dataset name, with data supplied as is and no named standard licence ([source, 2026-11-11](https://opendata.gia.gov.ly/terms.html)).
+- The GIA, which runs the platform, launched the Open Government Data Platform at opendata.gia.gov.ly on 27 November 2025, simultaneously with the draft national open data policy, with first-phase datasets, APIs and indicators but no dataset count or named publishing bodies ([source, 2025-11-27](https://www.gia.gov.ly/en/2025/11/27/the-general-authority-for-information-launches-the-open-government-data-platform/)).
+- The General Authority for Communications and Informatics lists the 2025 gender comparison dataset as an XLSX resource with a download option on its open-data platform, created 29 September 2026 ([source, 2026-09-29](https://opendata.gia.gov.ly/dashboard/dataset/987456)).
+- The General Authority for Communications and Informatics lists its 2025 ICT workforce indicator as a downloadable XLSX dataset on its open data platform, created 2026-09-29 ([source, 2026-09-29](https://opendata.gia.gov.ly/dashboard/dataset/432987)).
+- The GIA, which runs the platform at opendata.gia.gov.ly, reported statistics to February 2026 of 91 datasets, 9 active government entities participating and 8 sectors covered; the document does not tie the platform to an open data policy ([source, 2026-02-10](https://www.gia.gov.ly/en/2026/02/11/includes-91-datasets-the-general-authority-for-information-launches-new-indicators-through-the-open-data-platform/)).
+
+### Togo: 5 Leading
+
+Data from 23 ministries was on the national geoportal in 2025, and the open data portal put its data under an open licence by 2026.
+
+- The terms of use of opendata.gouv.tg, run by Agence Togo Digital, say data published on the platform is accessible under an open licence unless indicated otherwise, without naming a specific licence ([source, 2026-11-11](https://opendata.gouv.tg/pages/legal/cgu)).
+- La Voix de la Nation reports that the Open Data portal (opendata.gouv.tg) and the Geoportail (geodata.gouv.tg) were officially launched in December 2024 by the digital ministry through its operational arm, the Agence Togo Digital; the article names no open data policy ([source, 2024-12](https://lavoixdelanation.tg/index.php/2025/01/08/democratisation-de-lacces-aux-donnees-publiques-au-togo/)).
+- INSEED reports that in April 2026 a national workshop in Lome trained about thirty statistical-system staff to migrate datasets from Togo's existing Open Data Portal 1.0 to ODP 2.0, the national open data platform for INSEED and sector ministries; no dataset count or licence is stated ([source, 2026-04](https://inseed.tg/atelier-national-de-formation-sur-la-modelisation-sdmx-et-la-mise-en-place-dune-plateforme-odp2-0-au-profit-des-points-focaux-du-togo/)).
+- The article states the Geoportail centralises data from 23 ministries and more than 550 administrative units, drawn from a 2021-2022 collection under the PRISE project; the article is dated 2025-01-08 and gives no date for the figure, so that date is used ([source, 2025-01-08](https://lavoixdelanation.tg/index.php/2025/01/08/democratisation-de-lacces-aux-donnees-publiques-au-togo/)).
+- CIOMAG reports the Ministry of Digital Economy launched the geoportail.gouv.tg government geoportal on 6 May 2025 with an open-data version, geodata.gouv.tg, for the public, researchers and investors; no open licence is mentioned ([source, 2025-05-06](https://cio-mag.com/au-togo-le-ministere-de-leconomie-numerique-lance-une-plateforme-geoportail/)).
+
+### Liberia: 4 Operating
+
+The statistics office put its data under an open licence in 2026 and two bodies publish; whether four or more do is not known.
+
+- LISGIS notice LISGIS/DG/ODL/2026/001, effective 8 June 2026, names CC BY 4.0 as its licence standard and grants a worldwide royalty-free licence to use and redistribute its data, including data on its open data portal, commercially and non-commercially with attribution ([source, 2026-06-08](https://liberia.opendataforafrica.org/atrwrfc)).
+- The EITI validation report says LEITI's online Data Portal has significantly improved the openness of extractive data, and that the LEITI Data Warehouse provides production and export data disaggregated by company; no dataset count or licence is stated. The date is the report's own (2026-07-23), as it describes the portal at work ([source, 2026-07-23](https://eiti.org/documents/liberia-2026-validation-report)).
+- The LISGIS microdata catalogue lists the anonymised Liberia Annual Agricultural Survey 2024 household dataset as a Public Use File accessible to all for statistical and research purposes, released as version 1.0 (record last modified 1 July 2026); redistribution needs LISGIS written agreement, so no open licence is stated ([source, 2026-07-01](https://microdata.lisgislr.org/index.php/catalog/43)).
+- The EITI validation report names two public data sources providing production and export data by company, the LEITI Data Warehouse and the Ministry of Mines and Energy's online cadastre. The date is the report's own (2026-07-23) ([source, 2026-07-23](https://eiti.org/documents/liberia-2026-validation-report)).
+
+### Senegal: 4 Operating
+
+The statistics agency put its data under an open licence by 2026 and two bodies publish geodata; whether four or more do is not known.
+
+- ANSD's open data licence agreement grants a worldwide, free, non-exclusive licence to use, copy, modify, publish and distribute its data for commercial and non-commercial purposes, with prescribed source attribution ([source, 2026-11-11](https://nso-senegal.opendataforafrica.org/hiwidxb)).
+- Senegal launched its national Géoportail (Géo Sénégal), giving the public official base and thematic geospatial data, with consultation and download services for institutions' maps; the article carries no date, so the site's news date is used ([source, 2025-11](https://www.geosenegal.gouv.sn/une-nouvelle-ere-pour-l-information-geospatiale-au-senegal.html)).
+- The EITI country page says Senegal's Ministry of Mines publishes production data on its Statistiques minières web page and a public data portal, Données Ouvertes ITIE Sénégal, is run alongside the national EITI website ([source, 2026-03](https://eiti.org/countries/senegal)).
+- ANSD closed a four-day regional workshop at Louga on 24 June 2026 on operationalising its Open Data Platform (ODP) 2.0, training about thirty regional staff to create and publish datasets on it as the platform is extended to the regions ([source, 2026-06-24](https://aps.sn/louga-lansd-mise-sur-lopen-data-pour-ameliorer-la-qualite-et-laccessibilite-des-statistiques-regionales/)).
+- The Géoportail carries data from at least two public bodies, the Centre de suivi écologique (bushfire areas 2023) and ANSD (school locations 2023); the article carries no date, so the site's news date is used ([source, 2025-11](https://www.geosenegal.gouv.sn/une-nouvelle-ere-pour-l-information-geospatiale-au-senegal.html)).
 
 ### Burundi: 3 Established
 
@@ -194,22 +233,6 @@ Government data was published for download on the bos.gov.ls/publications.htm in
 
 - The Bureau of Statistics Lesotho publications page states all listed reports can be downloaded, with Excel tables for national accounts, CPI and GDP ([source, 2025-04](https://www.bos.gov.ls/publications.htm)).
 
-### Liberia: 2 Nascent
-
-Statistics and extractive data were published online for download in 2025 and 2026; no open licence for a public body's data is known.
-
-- The EITI validation report says LEITI's online Data Portal has significantly improved the openness of extractive data, and that the LEITI Data Warehouse provides production and export data disaggregated by company; no dataset count or licence is stated. The date is the report's own (2026-07-23), as it describes the portal at work ([source, 2026-07-23](https://eiti.org/documents/liberia-2026-validation-report)).
-- The LISGIS microdata catalogue lists the anonymised Liberia Annual Agricultural Survey 2024 household dataset as a Public Use File accessible to all for statistical and research purposes, released as version 1.0 (record last modified 1 July 2026); redistribution needs LISGIS written agreement, so no open licence is stated ([source, 2026-07-01](https://microdata.lisgislr.org/index.php/catalog/43)).
-- The LISGIS final report says the LAAS-2024 final report is available online on the LISGIS site and the survey microdata can be obtained from the LISGIS microdata catalogue; document dated October 2025 ([source, 2025-10](https://lisgis.gov.lr/admin_area/uploads/surveys/202512223466300ILP_Report_12-17-2025_cleaned_final_20260825142729_fbf393b0.pdf)).
-
-### Libya: 2 Nascent
-
-Nine government bodies published datasets on the national open data platform by 2026; no open licence for the data is known.
-
-- The GIA, which runs the platform, launched the Open Government Data Platform at opendata.gia.gov.ly on 27 November 2025, simultaneously with the draft national open data policy, with first-phase datasets, APIs and indicators but no dataset count or named publishing bodies ([source, 2025-11-27](https://www.gia.gov.ly/en/2025/11/27/the-general-authority-for-information-launches-the-open-government-data-platform/)).
-- The General Authority for Communications and Informatics lists the 2025 gender comparison dataset as an XLSX resource with a download option on its open-data platform, created 29 September 2026 ([source, 2026-09-29](https://opendata.gia.gov.ly/dashboard/dataset/987456)).
-- The General Authority for Communications and Informatics lists its 2025 ICT workforce indicator as a downloadable XLSX dataset on its open data platform, created 2026-09-29 ([source, 2026-09-29](https://opendata.gia.gov.ly/dashboard/dataset/432987)).
-
 ### Malawi: 2 Nascent
 
 Government data was published for download on the Malawi Open Data Portal in 2025; no open licence is on record.
@@ -249,14 +272,6 @@ Procurement data was published for download from 2024; its licence bars commerci
 - The Rwanda Public Procurement Authority launched an open contracting portal with procurement data back to 2016, downloadable in spreadsheet formats or by API ([source, 2024-11-12](https://www.open-contracting.org/2024/11/13/rwanda-a-new-open-contracting-portal-to-promote-effective-and-inclusive-procurement/)).
 - The Rwanda Public Procurement Authority publishes Umucyo OCDS procurement data (tenders, awards, contracts, December 2013 to April 2026, updated daily) for download in JSON, Excel and CSV under a CC BY-NC-SA 4.0 licence, per the Open Contracting Partnership registry retrieved 4 October 2026 ([source, 2026-10-04](https://data.open-contracting.org/en/publication/145)).
 
-### Senegal: 2 Nascent
-
-Public bodies published data on the national geoportal and open data platform in 2025 and 2026; no open licence for the data is known.
-
-- Senegal launched its national Géoportail (Géo Sénégal), giving the public official base and thematic geospatial data, with consultation and download services for institutions' maps; the article carries no date, so the site's news date is used ([source, 2025-11](https://www.geosenegal.gouv.sn/une-nouvelle-ere-pour-l-information-geospatiale-au-senegal.html)).
-- The EITI country page says Senegal's Ministry of Mines publishes production data on its Statistiques minières web page and a public data portal, Données Ouvertes ITIE Sénégal, is run alongside the national EITI website ([source, 2026-03](https://eiti.org/countries/senegal)).
-- ANSD closed a four-day regional workshop at Louga on 24 June 2026 on operationalising its Open Data Platform (ODP) 2.0, training about thirty regional staff to create and publish datasets on it as the platform is extended to the regions ([source, 2026-06-24](https://aps.sn/louga-lansd-mise-sur-lopen-data-pour-ameliorer-la-qualite-et-laccessibilite-des-statistiques-regionales/)).
-
 ### Seychelles: 2 Nascent
 
 Government data was published for download on a government site in 2026; no open licence is on record.
@@ -275,14 +290,6 @@ Government data was published for download on the Tanzania Integrated Statistica
 
 - The National Bureau of Statistics and the Office of the Chief Government Statistician run the Tanzania Integrated Statistical Portal, which lets users explore and analyse administrative, demographic and survey data; no dataset count or open licence is stated, and the date is the document's publication date ([source, 2026-08-28](https://tisp.nbs.go.tz/)).
 - The Public Procurement Regulatory Authority publishes procurement data from procuring entities through the NeST Open Contracting Data Portal (data.nest.go.tz), updated daily with bulk JSON, CSV and Excel downloads updated weekly; the date is the policy's 2025 copyright year ([source, 2025](https://data.nest.go.tz/assets/docs/OCDS_Publication_Policy_PPRA.pdf)).
-
-### Togo: 2 Nascent
-
-The national geoportal carried data from 23 ministries in 2025; no open licence for the data is known.
-
-- INSEED reports that in April 2026 a national workshop in Lome trained about thirty statistical-system staff to migrate datasets from Togo's existing Open Data Portal 1.0 to ODP 2.0, the national open data platform for INSEED and sector ministries; no dataset count or licence is stated ([source, 2026-04](https://inseed.tg/atelier-national-de-formation-sur-la-modelisation-sdmx-et-la-mise-en-place-dune-plateforme-odp2-0-au-profit-des-points-focaux-du-togo/)).
-- La Voix de la Nation reports that the Open Data portal (opendata.gouv.tg) and the Geoportail (geodata.gouv.tg) were officially launched in December 2024 by the digital ministry through its operational arm, the Agence Togo Digital; the article names no open data policy ([source, 2024-12](https://lavoixdelanation.tg/index.php/2025/01/08/democratisation-de-lacces-aux-donnees-publiques-au-togo/)).
-- Togo First, 18 November 2025, recalls that in December 2024 Togo launched two public data dissemination platforms, Open Data and the Geoportail Open Data, run by the Agence Togo Digital; it does not tie them to an open data policy ([source, 2024-12](https://www.togofirst.com/fr/tic/1811-17583-transformation-digitale-le-togo-lance-son-observatoire-national-du-numerique)).
 
 ### Uganda: 2 Nascent
 

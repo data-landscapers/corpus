@@ -22,3 +22,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,LBY,data.open--use-of-open-data,ladder,5,2,LBY-002;LBY-004;LBY-005,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 2."
 2026-11-09,SEN,data.open--use-of-open-data,ladder,4,2,SEN-003;SEN-005;SEN-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
 2026-11-09,TGO,data.open--use-of-open-data,ladder,5,2,TGO-005;TGO-002;TGO-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 2."
+2026-11-12,LBR,data.open--use-of-open-data,fact,2,4,LBR-007;LBR-002;LBR-004;LBR-003,LISGIS open data licence notice of June 2026 (CC BY 4.0) answers question 2; two bodies publishing answer 3
+2026-11-12,LBY,data.open--use-of-open-data,fact,2,5,LBY-006;LBY-002;LBY-004;LBY-005;LBY-003,"GIA open data platform terms let anyone reuse and republish with attribution, answering question 2; nine bodies publishing answer 3 and 4"
+2026-11-12,SEN,data.open--use-of-open-data,fact,2,4,SEN-006;SEN-003;SEN-005;SEN-002;SEN-004,ANSD open data licence agreement answers question 2; two bodies on the Geoportail answer 3
+2026-11-12,TGO,data.open--use-of-open-data,fact,2,5,TGO-006;TGO-002;TGO-005;TGO-003;TGO-007,"opendata.gouv.tg terms put its data under an open licence, answering question 2; 23 ministries on the Geoportail answer 3 and 4"

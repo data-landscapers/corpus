@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "use",
-      "stage": "2",
+      "stage": "5",
       "access": "licensed",
       "breadth": "many",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-005;TGO-002;TGO-001",
-      "gaps": "No source found since October 2023 states an open licence or terms that let anyone reuse a public body's data.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source states an open licence for any body's data; the Geoportail centralising data from 23 ministries (TGO-003) does not answer question 2.",
-      "as_at": "2026-11-09"
+      "stage_sources": "TGO-006;TGO-002;TGO-005;TGO-003;TGO-007",
+      "gaps": "",
+      "note": "Reassessed 2026-11-12, 2 to 5: the terms of opendata.gouv.tg put its data under an open licence unless marked otherwise (TGO-006), a yes to question 2. The Geoportail carrying data from 23 ministries in January 2025 (TGO-003) answers 3 and 4.",
+      "as_at": "2026-11-12"
     }
   ]
 }

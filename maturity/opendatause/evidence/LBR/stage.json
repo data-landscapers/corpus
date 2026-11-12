@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "use",
-      "stage": "2",
+      "stage": "4",
       "access": "licensed",
       "breadth": "several",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-002;LBR-004;LBR-006",
-      "gaps": "No source found since October 2023 states an open licence or terms that let anyone reuse a public body's data.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source states an open licence, and LISGIS needs written agreement to redistribute (LBR-004); two bodies publishing extractive data (LBR-003) does not answer question 2.",
-      "as_at": "2026-11-09"
+      "stage_sources": "LBR-007;LBR-002;LBR-004;LBR-003",
+      "gaps": "No source found since November 2024 names or counts four or more public bodies publishing data.",
+      "note": "Reassessed 2026-11-12, 2 to 4: the LISGIS notice of June 2026 puts its data under CC BY 4.0 (LBR-007), a yes to question 2, and LEITI and the mines ministry publishing (LBR-003) answer 3. No source names four bodies, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

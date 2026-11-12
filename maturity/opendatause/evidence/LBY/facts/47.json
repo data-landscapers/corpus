@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-lby-gia-open-data-platform-terms",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "licensed",
+   "fact": "The General Information Authority's open data platform terms allow lawful use of its datasets and republication with attribution to the platform and dataset name, with data supplied as is and no named standard licence.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "opendata.gia.gov.ly",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data Platform (opendata.gia.gov.ly)",
+   "country_label": "opendata.gia.gov.ly",
+   "class": "open",
+   "platform": "",
+   "owner": "General Information Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
