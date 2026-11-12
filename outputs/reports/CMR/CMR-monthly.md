@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: CMR
-ledger_rows: 28
+ledger_rows: 29
 not_held: 3
-record: 73e34ac8ff3b
+record: a2be214626e2
 ---
 
 # News, Oct – Nov 2026
@@ -425,6 +425,20 @@ Cameroonian fintech REasy and Africa Global Logistics presented to Douala trader
 </div>
 
 ### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Lands ministry and Orange Cameroun land digitisation roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Foncier : le MINDCAF et Orange Cameroun préparent la mutation numérique de l'administration](https://loeilrepublicain.info/2026/10/16/foncier-le-mindcaf-et-orange-cameroun-preparent-la-mutation-numerique-de-ladministration/)** — L'Oeil républicain, 16 October 2026
+
+Scoping workshop sets 12 workstreams and a 2026-2030 roadmap; target of land titles in under 30 days.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
