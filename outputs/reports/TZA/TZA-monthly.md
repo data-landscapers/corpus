@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: TZA
-ledger_rows: 45
+ledger_rows: 46
 not_held: 4
-record: 40226cdc3c6a
+record: ced90f96c7bd
 ---
 
 # News, Oct – Nov 2026
@@ -427,6 +427,28 @@ Tanzania's deputy finance minister told Parliament on 29 October 2026 that the B
 **[Govt launches business law reforms to drive investment, tech innovation](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/govt-launches-business-law-reforms-to-drive-investment-tech-innovation-2026-10-12-115945)** — The Guardian (Tanzania), 12 October 2026
 
 Tanzania's Deputy Minister for Industry and Trade Denis Londo said on 11 October 2026 that five of the seven modules of the Business Registrations and Licensing Agency's upgraded online services system (BOS) are working, and ordered the rest completed on schedule. He welcomed plans to issue Group B business licences through BOS with local government authorities and called for stakeholder reviews of business laws.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Ardhi land services system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kamati ya Bunge yasisitiza wananchi kuelimishwa umuhimu wa hatimiliki za ardhi](https://www.lands.go.tz/news/kamati-ya-bunge-yasisitiza-wananchi-kuelimishwa-umuhimu-wa-hatimiliki-za-ardhi)** — Wizara ya Ardhi, Nyumba na Maendeleo ya Makazi, 26 October 2026
+
+e-Ardhi in use in 17 regions (Oct 2026); parliamentary committee presses rollout to all regions, title-deed awareness.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania targets nationwide rollout of e-Ardhi land system by June 2027](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/tanzania-targets-nationwide-rollout-of-e-ardhi-land-system-by-june-2027-2026-10-30-124103)** — The Guardian (IPP Media), 30 October 2026
+
+Lands PS Sanga: e-Ardhi live in 17 regions (Oct 2026); central digital land register, remote case tracking.
 
 </div>
 
