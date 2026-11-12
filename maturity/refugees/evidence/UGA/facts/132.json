@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-04-uga-police-probe-nita-over-shs700b-internet-project",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Monitor says the World Bank-funded UDAP-GOVNET project, approved in June 2021 and implemented by NITA-U, aims to strengthen digital inclusion of refugees and host communities in northeastern and southwestern Uganda.",
+   "as_of": "2021-06",
+   "date_precision": "month",
+   "system": "UDAP-GOVNET",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

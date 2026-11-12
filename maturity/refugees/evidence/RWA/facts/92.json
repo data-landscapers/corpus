@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-30-rwa-minema-grf-progress-review-refugee-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "MINEMA, citing the Government's GRF pledge updates, says 93% of eligible refugees in Rwanda have been issued refugee identity cards and 99% of refugees born in Rwanda have had their births registered, with nearly 140,000 refugees hosted.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "refugee identity cards",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

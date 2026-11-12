@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-16-ken-refugees-given-30-days-to-collect-unclaimed-id-cards",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "The Commissioner of Refugee Affairs said 12,750 refugee identity cards lay uncollected at centres including Dadaab (6,099) and Kakuma and Kalobeyei (2,302), among over 650,000 registered refugees and asylum-seekers, reports The Eastleigh Voice.",
+   "as_of": "2024-02-16",
+   "date_precision": "day",
+   "system": "refugee identity cards",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "refugee identity cards",
+   "country_label": "Kenya",
+   "class": "displaced",
+   "platform": "",
+   "owner": "Department of Refugee Services",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

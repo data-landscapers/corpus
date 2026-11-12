@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,displaced,registration,coverage,underway,2026-06,RWA-001;RWA-003;RWA-005;RWA-006,,
+RWA,displaced,registration,coverage,documented,2026-06-30,RWA-007,RWA-001=underway;RWA-003=underway;RWA-005=underway;RWA-006=underway,
 RWA,displaced,access,coverage,open,2026-06,RWA-002;RWA-004,,
 RWA,displaced,counted,coverage,,,,,nothing found

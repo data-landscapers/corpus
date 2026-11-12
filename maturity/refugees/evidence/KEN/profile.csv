@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,displaced,registration,coverage,underway,2025-10-03,KEN-002;KEN-003,,
+KEN,displaced,registration,coverage,documented,2024-02-16,KEN-004,KEN-003=underway;KEN-002=underway,
 KEN,displaced,access,coverage,open,2025-05-30,KEN-001,,
 KEN,displaced,counted,coverage,,,,,nothing found

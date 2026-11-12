@@ -21,9 +21,9 @@ The Kampala Convention asks for registers and documents for internally displaced
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 4 |
+| 4 Operating | 6 |
 | 3 Established | 17 |
-| 2 Nascent | 12 |
+| 2 Nascent | 10 |
 | 1 Absent | 5 |
 | Unplaced | 4 |
 | No evidence | 8 |
@@ -74,6 +74,21 @@ Since 2025 refugees in Chad with a refugee ID number can open bank accounts and 
 Refugees or displaced people could use SIM cards, mobile money or digital ID in 2026; how many do is not counted.
 
 - The Ministry of Home Affairs says refugee status permits let holders obtain personal identification numbers, national identity cards and access to government and financial services ([source, 2026-06](https://times.co.sz/40500/news/eswatini-issues-77-refugees-passports-for-global-travel/)).
+
+### Kenya: 4 Operating
+
+Over 650,000 refugees held identity cards in 2024 and may register SIMs since 2025; how many hold a SIM is not known.
+
+- The Commissioner of Refugee Affairs said 12,750 refugee identity cards lay uncollected at centres including Dadaab (6,099) and Kakuma and Kalobeyei (2,302), among over 650,000 registered refugees and asylum-seekers, reports The Eastleigh Voice ([source, 2024-02-16](https://eastleighvoice.co.ke/news/18991/refugees-given-30-days-to-collect-unclaimed-id-cards)).
+- GSMA reports that on 30 May 2025 the Kenyan government enacted Legal Notice No. 90, formally recognising Refugee Identity Cards for SIM card registration for the first time, opening mobile connectivity and financial services to refugees ([source, 2025-05-30](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma_resources/connecting-refugees-in-kenya-overcoming-policy-barriers-to-accessing-digital-services/)).
+
+### Rwanda: 4 Operating
+
+93% of eligible refugees held refugee identity cards in 2026 and may enrol in the digital ID; how many hold accounts is not known.
+
+- MINEMA, citing the Government's GRF pledge updates, says 93% of eligible refugees in Rwanda have been issued refugee identity cards and 99% of refugees born in Rwanda have had their births registered, with nearly 140,000 refugees hosted ([source, 2026-06-30](https://www.minema.gov.rw/news-detail/rwanda-reaffirms-commitment-to-refugee-inclusion-and-durable-solutions-during-grf-progress-review-meeting)).
+- Biometric Update, citing SOS Media Burundi, says refugees who have received their ID cards have been able to open bank accounts and buy SIM cards ([source, 2026-06](https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees)).
+- NIDA says the national digital ID registration exercise covers refugees, with camp refugees registering at camp level and urban refugees at sector or cell offices, on presenting a refugee ID or proof of registration ([source, 2026-02-07](https://www.newtimes.co.rw/article/33156/news/technology/digital-id-nearly-15m-enrolled-registration-reaches-kigali)).
 
 ### South Sudan: 4 Operating
 
@@ -210,8 +225,9 @@ Registration or a digital service for refugees or displaced people was under way
 
 ### Ghana: 2 Nascent
 
-The ID authority planned to register 10,000 refugees for the national ID card in 2025; how many are registered and documented is not known.
+About 800 displaced people were helped to register for the national ID card by 2026; how many are documented is not known.
 
+- Amahoro Coalition says that with the Ghana Refugee Board, the National Identification Authority and UNHCR it supported Ghana Card registration of about 800 displaced persons in the past year, while many still struggle to get documents ([source, 2026-02](https://ghanaiantimes.com.gh/resource-grb-to-enhance-documentation-jobs-for-displaced-persons-amahoro-coalition/)).
 - The National Identification Authority plans a continuous registration exercise that includes 10,000 refugees and asylum-seekers for the Ghana Card ([source, 2025-05-01](https://dpi.africa/nia-to-capture-7million-under-15-years-and-3-million-ghanaians-abroad-for-ghana-card)).
 
 ### Guinea: 2 Nascent
@@ -219,12 +235,6 @@ The ID authority planned to register 10,000 refugees for the national ID card in
 Registration or a digital service for refugees or displaced people was under way in 2026; documents issued are not on record.
 
 - The CNISR Executive Secretary says the commission, under MATD, handles registration of asylum seekers with UNHCR ([source, 2026-07-23](https://matd.gov.gn/cnisr-discours-du-secretaire-executif-a-latelier-dappropriation/)).
-
-### Kenya: 2 Nascent
-
-The government said in 2025 it is registering all refugees, who may now register SIM cards; how many are registered and documented is not known.
-
-- Murkomen said the government is registering aliens and that all refugees will be registered so they can access services ([source, 2025-10-03](https://www.kbc.co.ke/murkomen-announces-national-drive-to-accelerate-id-collection-digital-registration/)).
 
 ### Liberia: 2 Nascent
 
@@ -239,13 +249,6 @@ Registration or a digital service for refugees or displaced people was under way
 
 - Niger's Interior Ministry launched mass biometric enrolment on 15 September 2026 for the AES e-passport range, which includes a travel document for refugees, with enrolment devices to be installed in every region ([source, 2026-09-15](https://actuniger.com/politique/22354-lancement-officiel-du-passeport-biometrique-aes-le-niger-se-dote-dun-nouveau-document-de-voyage.html)).
 - Diffa's regional civil-status directorate, with UNICEF support, deployed mobile teams to sites hosting displaced people to register births between July 2023 and July 2026 ([source, 2026-07-29](https://anp.ne/mise-en-oeuvre-du-programme-de-la-refondation-a-diffa-plus-de-173-000-actes-de-naissance-delivres-entre-juillet-2023-et-juillet-2026/)).
-
-### Rwanda: 2 Nascent
-
-Refugees were being enrolled in the national digital ID in 2026; how many are registered and issued documents is not known.
-
-- Biometric Update, citing SOS Media Burundi, says refugees in camps and urban areas are being enrolled in Rwanda's national biometric ID registration drive, with face, fingerprint and iris captured ([source, 2026-06](https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees)).
-- The New Times says the Directorate General of Immigration and Emigration began on 7 February 2026 an electronic ID card registration for refugees, asylum seekers, migrants and stateless persons in Kigali, with identity verification and biometric capture, running to 15 February ([source, 2026-02-07](https://www.newtimes.co.rw/article/33209/news/technology/where-can-refugees-foreigners-register-for-digital-id)).
 
 ### Senegal: 2 Nascent
 

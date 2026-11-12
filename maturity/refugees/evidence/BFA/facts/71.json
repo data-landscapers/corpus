@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-05-bfa-orange-burkina-faso-257-milliards-f-cfa-d-investissements-pour-l-inclu",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "Orange Burkina Faso's 2017-2024 CSR report, as reported by C'Finance, says the company supplied 10,000 CNIB national identity cards to internally displaced people.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "CNIB",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "2",
-      "registration": "underway",
-      "access": "",
+      "stage": "4",
+      "registration": "documented",
+      "access": "open",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-003",
-      "gaps": "No source found since October 2023 says: are they registered and documented.",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "KEN-004;KEN-001",
+      "gaps": "No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.",
+      "note": "Stage 4c 2026-11-12: a February 2024 count of over 650,000 registered refugees with identity cards issued answers registration, and the May 2025 SIM rule answers access. No count of refugees with a SIM, account or ID is held, so not stage 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

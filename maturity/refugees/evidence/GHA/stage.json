@@ -5,14 +5,14 @@
       "sub_indicator": "displaced",
       "stage": "2",
       "registration": "underway",
-      "access": "",
+      "access": "open",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-002",
-      "gaps": "No source found since October 2023 says: are they registered and documented.",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "GHA-003;GHA-002",
+      "gaps": "No source found since October 2023 says how many refugees are registered and issued documents.",
+      "note": "Stage 4c 2026-11-12: about 800 displaced people helped to register for the Ghana Card says registration is under way, not that documents were issued. Refugees may enrol in the national ID, but each step must be shown in turn, so stage 2.",
+      "as_at": "2026-11-12"
     }
   ]
 }

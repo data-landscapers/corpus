@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-09-gha-resource-grb-documentation-displaced-persons-amahoro",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Amahoro Coalition says that with the Ghana Refugee Board, the National Identification Authority and UNHCR it supported Ghana Card registration of about 800 displaced persons in the past year, while many still struggle to get documents.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Ghana Card registration of displaced persons",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Amahoro Coalition says about 800 displaced persons in Ghana were supported to register for the Ghana Card in the past year, with the National Identification Authority taking part.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Ghana Card",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

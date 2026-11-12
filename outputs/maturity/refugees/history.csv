@@ -21,3 +21,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,KEN,include.access--inclusion-of-refugees-and-idps,ladder,4,2,KEN-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
 2026-11-09,RWA,include.access--inclusion-of-refugees-and-idps,ladder,4,2,RWA-001;RWA-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
 2026-11-11,ZAF,include.access--inclusion-of-refugees-and-idps,fact,2,2,ZAF-005;ZAF-002;ZAF-001,"Digital Asylum System first phase live for test cases (2026-11-10); a piloted service, no documented number; stays 2"
+2026-11-12,KEN,include.access--inclusion-of-refugees-and-idps,fact,2,4,KEN-004;KEN-001,"A February 2024 count of over 650,000 registered refugees with ID cards issued answers registration; with the 2025 SIM rule the cell reaches stage 4"
+2026-11-12,RWA,include.access--inclusion-of-refugees-and-idps,fact,2,4,RWA-007;RWA-002;RWA-004,MINEMA's June 2026 figure of 93% of eligible refugees issued ID cards answers registration; with refugee access to the digital ID and accounts the cell reaches stage 4
+2026-11-12,GHA,include.access--inclusion-of-refugees-and-idps,fact,2,2,GHA-003;GHA-002,"About 800 displaced people helped to register for the Ghana Card in the past year: registration under way, issuance not stated; stage unchanged"
