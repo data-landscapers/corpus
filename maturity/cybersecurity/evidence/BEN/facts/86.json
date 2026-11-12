@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-31-ben-oju-plateforme-de-surveillance-concue-au-sein-de-bjcsirt",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "A bjCSIRT member's post describes bjCSIRT as Benin's national computer security incident response team; no creating act is cited.",
+   "as_of": "2025-07-31",
+   "date_precision": "day",
+   "system": "bjCSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "bjCSIRT",
+   "country_label": "bjCSIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "ASIN Benin",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -43,6 +43,7 @@ BEN,national incident response centre,Benin,response,,,,2025-06-26-caf-5e-editio
 BEN,Centre national d'investigations numeriques (CNIN),CNIN,other,,,,2026-10-22-ben-adex-2026-mtn-benin-plaide-pour-une-cyber-resilience-proactive-a-l-ere
 BEN,bjCSIRT,bjCSIRT - National CSIRT of the Republic of Benin,response,,,,2024-10-14-ben-rfc-2350-declaration-english-version
 BEN,National CERT,National CERT,response,,,,2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms
+BEN,bjCSIRT,bjCSIRT,response,,ASIN Benin,national,2025-07-31-ben-oju-plateforme-de-surveillance-concue-au-sein-de-bjcsirt
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),ANSSI,response,,State,,2026-02-25-arcep-decision-attribution-oid-anssi
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),ANSSI,response,,State,,2026-08-02-100-visages-du-burkina-digital-michael-folane
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),ANSSI,response,,State,,2025-12-27-bfa-2026-31-anssi
@@ -231,6 +232,8 @@ EGY,National Center for Computer and Network Emergency Readiness,EGY,response,,M
 EGY,Supreme Council for Cybersecurity,Supreme Council for Cybersecurity,other,,MCIT,,2024-12-21-egy-supreme-cybersecurity-council-approves-key-controls
 EGY,National Cybersecurity Strategy 2023-2027,National Cybersecurity Strategy 2023-2027,response,,MCIT,,2026-01-01-egy-mcit-ict-strategy-page-publications-en
 EGY,EG-CERT,EG-CERT,response,,NTRA,,2026-11-08-egy-telecom-egypt-e-finance-mou-we-innovate-star-graduation
+EGY,Egyptian Supreme Cybersecurity Council,Egyptian Supreme Cybersecurity Council (ESCC),response,,Cabinet of Ministers,chaired by the Minister of Communications and Information Technology,2018-11-01-egy-escc-national-cybersecurity-strategy-2017-2021
+EGY,Sector CERTs and CSIRTs,Computer Emergency Readiness and Response Teams in critical sectors,other,,,"planned; sector level, building on the ICT sector's experience",2018-11-01-egy-escc-national-cybersecurity-strategy-2017-2021
 ETH,Information Network Security Administration (INSA),Information Network Security Administration (INSA),response,,Government of Ethiopia,,2026-09-30-ethiopia-establishes-financial-sector-cybersecurity-forum-to-improve-digital-res
 ETH,Information Network Security Administration (INSA),Information Network Security Administration (INSA),response,,Government of Ethiopia,,2026-08-07-ethiopia-critical-infrastructure-cybersecurity-proclamation-insa
 ETH,National Computer Emergency Response Team (CERT),National CERT,response,,Government of Ethiopia,,2026-08-07-ethiopia-cybersecurity-proclamation-1426-insa
@@ -375,6 +378,7 @@ KEN,National KE-CIRT/CC,National KE-CIRT/CC,response,,Communications Authority o
 KEN,National Cybersecurity Agency,National Cybersecurity Agency,response,,Government of Kenya,,2026-11-05-ken-kenya-moves-to-operationalise-cybersecurity-agency
 KEN,National KE-CIRT/CC,National KE-CIRT/CC,response,,Communications Authority of Kenya,,2026-11-05-ken-kenya-moves-to-operationalise-cybersecurity-agency
 KEN,National Cybersecurity Agency,National Cybersecurity Agency,response,,Government of Kenya,,2026-11-06-ken-kenyas-ai-ambitions-face-infrastructure-test-as-subsea-cable-takes-shape
+KEN,National KE-CIRT/CC,National Kenya Computer Incident Response Team Coordination Centre (KE-CIRT/CC),response,,,,2019-05-01-ken-national-broadband-strategy-2018-2023
 LBR,computer security incident response team (Cybaston Digital Fast Track),Liberia,response,,"Cybaston Institute of Technology, handover to Ministry of Posts and Telecommunications in September 2029",,2024-09-24-liberia-cybaston-five-year-digital-fast-track-agreement
 LBR,National Cybersecurity Strategy (2024-2029),Liberia,response,,Ministry of Posts and Telecommunications,,2026-03-01-liberia-national-data-governance-policy
 LBR,Liberia National CERT (proposed),Liberia,other,,,,2026-03-01-liberia-national-data-governance-policy
@@ -424,6 +428,7 @@ MDG,Computer Incident Response Team (CIRT),Madagascar,response,,"Ministry of Dig
 MDG,Centre de lutte contre la cybercriminalite (CLCC),MDG,other,,Ministry of Communication and Culture,24 regions,2026-10-22-mdg-la-prevention-de-la-cybercriminalite-se-renforce
 MDG,CIRT,CIRT (Computer Incident Response Team),response,,Ministry of Digital Development,,2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development
 MDG,CIRT-MG,Computer Incident Response Team Madagascar,response,,,,2026-11-03-mdg-madagascar-cyber-escroquerie-une-affaire-de-gros-sous
+MDG,"CIRT (planned, in DGU)",Madagascar,other,,DGU,,2023-12-21-mdg-implementation-status-and-results-report-digital-governance-and-identi
 MLI,Agence nationale de la Sécurité des Systèmes d'Information (ANSSI),ANSSI,response,,Government of Mali,national,2026-07-01-maliactuel-anssi-agence-cybersecurite-creee
 MLI,Agence nationale de la Sécurité des Systèmes d'Information (ANSSI),ANSSI,response,,Government of Mali,national,2026-06-10-mali-conseil-des-ministres-creation-anssi
 MLI,Pole national de lutte contre la cybercriminalite,Mali,other,,Ministry of Justice,,2026-05-21-lessor-cybercrime-chamber-operational
@@ -452,6 +457,7 @@ MOZ,CSIRT Nacional,CSIRT Nacional,response,,INTIC,,2026-01-09-moz-relatorio-do-b
 MOZ,nCSIRT.mz,CSIRT Nacional (INTIC),response,,INTIC,,2025-09-28-moz-comunicado-sobre-contas-falsas-nas-redes-sociais
 MOZ,C-Sirt Nacional,Equipa Nacional de Resposta a Incidentes de Seguranca Cibernetica,response,,,,2025-04-29-moz-mocambique-regista-centenas-de-burlas-de-pagamentos-eletronicos
 MOZ,CSIRT Nacional,CSIRT Nacional,response,,INTIC,,2024-06-27-moz-proteccao-de-dados-e-fundamental-para-o-respeito-a-soberania-e-a-integ
+MOZ,CERT do Governo,Centro de Emergência de Resposta a Incidentes Computacionais (CERT) do Governo,other,,,"planned in the 2018 policy; serves public administration, with sector CERTs to be coordinated",2018-06-21-moz-resolucao-17-2018-politica-sociedade-informacao
 MRT,CSIRT national and SOC RIAD (tendered),MRT,response,,"WARDIP-Mauritanie project unit, Ministry of Digital Transformation",,2026-10-09-mrt-wardip-csirt-soc-riad-tender
 MRT,CSIRT national and SOC RIAD (tendered),MRT,response,,"WARDIP-Mauritanie project unit, Ministry of Digital Transformation",,2025-09-01-wardip-appel-offres-csirt-national-soc-riad-additif-2
 MRT,Planned national CERT/CSIRT,MRT,response,,,,2026-06-30-national-cloud-launch-ecofin
@@ -476,6 +482,11 @@ MUS,MAUCORS+,Mauritian Cybercrime Online Reporting System,other,online reporting
 MUS,MAUCORS+,Mauritius,other,cybercrime reporting platform,Ministry of ICT,,2026-06-01-mus-ministere-des-technologies-de-l-information-et-de-la-communication-une
 MUS,CERT-MU,Computer Emergency Response Team-Mauritius,response,,ICT ministry,,2026-11-07-mus-pas-de-censure-des-reseaux-sociaux-jure-l-etat-qui-revoit-la-loi
 MUS,Computer Emergency Response Team of Mauritius (CERT-Mu),CERT-Mu,response,,"Ministry of Information Technology, Communication and Innovation",,2026-06-30-mus-list-of-msb-registered-firms-as-at-30-june-2026
+MUS,CERT-MU,Computer Emergency Response Team of Mauritius (CERT-MU),response,,"Ministry of Information Technology, Communication and Innovation",national CERT,2023-01-01-mus-national-cybersecurity-strategy-2023-2026-for-a-more-secure-and-resili
+MUS,National Cybersecurity Committee,National Cybersecurity Committee,response,,,13 members; set up under the Cybersecurity and Cybercrime Act 2021,2023-01-01-mus-national-cybersecurity-strategy-2023-2026-for-a-more-secure-and-resili
+MUS,MAUSHIELD,Mauritius Cyber Threat Information Sharing System,other,,,,2023-01-01-mus-national-cybersecurity-strategy-2023-2026-for-a-more-secure-and-resili
+MUS,MAUCORS,Mauritian Cybercrime Online Reporting System,other,,,,2023-01-01-mus-national-cybersecurity-strategy-2023-2026-for-a-more-secure-and-resili
+MUS,Government Security Operations Centre,Security Operations Centre for the Government,other,,,to be widened to a national SOC,2023-01-01-mus-national-cybersecurity-strategy-2023-2026-for-a-more-secure-and-resili
 MWI,Malawi Computer Emergency Response Team (MwCERT),MwCERT,response,,MACRA,,2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews
 MWI,Malawi CERT (MCERT),Malawi CERT,response,,Malawi Communications Regulatory Authority,,2016-11-04-malawi-electronic-transactions-and-cyber-security-act
 MWI,Malawi national CIRT,Malawi national CIRT,response,,,,2018-09-13-sadc-media-statement-cybersecurity-workshop-cyber-drill
@@ -506,6 +517,7 @@ NAM,NAM-CSIRT,Namibia Cyber Security Incident Response Team (NAM-CSIRT),response
 NAM,Nam-CSIRT,Nam-CSIRT,response,,Ministry of Information and Communication Technology,,2026-04-01-nam-mict-tables-n-682m-budget-to-drive-digital-rollout-and-cybersecurity-p
 NAM,NAM-CSIRT,NAM-CSIRT,response,,CRAN,,2026-11-06-nam-namibian-cybersecurity-risks-remain-elevated-nam-csirt
 NAM,NAM-CSIRT,Namibia Cybersecurity Incident Response Team,response,,,,2026-11-09-ipris-tenth-cohort
+NAM,National Cybersecurity Incident Response Team,National Cybersecurity Incident Response Team for Namibia,response,,,"planned; the draft strategy would set it up, the review asks for it by March 2022",2021-09-01-nam-nmt-review-national-cybersecurity-strategy-2022-2027
 NER,"centre national de cyber-sécurité (CNAC), with a Security Operations Centre and a CERT",Centre national de cyber-sécurité (CNAC),response,,Ministry of Communication and New Information Technologies,,2025-07-24-national-committee-critical-digital-infrastructure-lesahel
 NER,Agence Nigérienne pour la Société de l'Information (ANSI),NER,other,,State,,2025-07-25-africacert-handshake-symposium-niamey-lesahel
 NER,Centre National de Cybersécurité (CNAC),NER,response,,State (public administrative establishment),,2025-10-11-gouv-conseil-ministres-cnac-ance
@@ -547,6 +559,15 @@ RWA,National Cyber Security Authority (NCSA),NCSA,response,,Government of Rwanda
 RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,other,,,,2025-07-25-rwa-cloud-storage-under-rwanda-s-data-protection-law-what-you-need-to-know
 RWA,National Cyber Security Authority,NCSA,response,,Government of Rwanda,,2026-10-26-rwa-connectingafrica-ncsa-airtel-mtn-cyberhub-partnerships
 RWA,National Cyber Security Authority (NCSA),NCSA,other,,,,2026-01-26-rwa-what-to-do-after-you-register-with-ncsa
+RWA,Rw-CSIRT,National Computer Security and Incident Response Team (Rw-CSIRT),response,,,to operate under the planned National Cyber Security Agency,2015-03-01-rwa-national-cyber-security-strategic-plan
+RWA,National Cyber Security Agency,National Cyber Security Agency (NCSA),response,,,planned; legal framework to be drafted from May 2015,2015-03-01-rwa-national-cyber-security-strategic-plan
+RWA,Rw-CSIRT,National Computer Security and Incident Response Team (Rw-CSIRT),response,,,,2015-03-01-rwa-myict-national-cyber-security-policy
+RWA,National Cyber Security Agency,Agency in charge of National Cyber Security,response,,,proposed; needs an Act of Parliament,2015-03-01-rwa-myict-national-cyber-security-policy
+RWA,Rw-CSIRT,Rwanda National Computer Security and Incident Response Team (Rw-CSIRT),response,,,,2019-01-01-rwa-minict-ict-hub-strategy-2019-2024
+RWA,National Cyber Security Authority,National Cyber Security Authority (NCSA),response,,,"established, operationalisation under way in 2017",2017-11-01-rwa-minict-ict-sector-strategic-plan-2018-2024
+RWA,Rw-CSIRT,Cyber Security Incident Response Team,response,,,"operational since 2010, 24/7",2017-11-01-rwa-minict-ict-sector-strategic-plan-2018-2024
+RWA,National Cyber Investigation Center,National Cyber Investigation Center,other,,Rwanda National Police,"police cybercrime centre, from 2015",2017-11-01-rwa-minict-ict-sector-strategic-plan-2018-2024
+RWA,Rw-CERT/CSIRT,Computer Emergency and Security Incident Response Team (Rw-CERT/CSIRT),response,,,planned as a cyber security project of the 2011-2015 ICT plan,2011-01-01-rwa-nici-iii-national-ict-strategy-and-plan-2015
 SDN,Sudanese Cybersecurity Authority,Sudan,response,,Government of Sudan,,2026-01-22-sudan-cybersecurity-authority-launched
 SDN,Sudan-CERT,Sudan,response,,Telecommunications and Post Regulatory Authority,,2025-12-19-sudan-cert-training-workshop
 SDN,SUDAPASS,Sudan,other,,Sudanese Cybersecurity Authority,,2026-08-29-sudan-sudapass-platform-page
@@ -584,6 +605,9 @@ SEN,Autorité nationale de Cybersécurité du Sénégal,SEN,response,,,,2026-08-
 SEN,Autorité nationale de Cybersécurité du Sénégal,SEN,response,,,,2026-08-14-senegal-moves-to-safeguard-digital-infrastructure
 SEN,CERT national,SEN,response,,,,2026-08-14-senegal-moves-to-safeguard-digital-infrastructure
 SEN,DCSSI incident reporting single window,Senegal,response,jokkocyber-dcssi.sn,DCSSI,,2026-11-02-sen-senegal-dcssi-nouveau-portail-numerique
+SEN,National cybersecurity structure,national cybersecurity structure,response,,,"planned; a steering committee is to create it, with a CERT/CSIRT unit inside",2017-11-01-sen-national-cybersecurity-strategy-snc2022
+SEN,National cryptology commission,Commission nationale de cryptologie (CNC),other,,Office of the President,sets the security policy for government information systems,2017-11-01-sen-national-cybersecurity-strategy-snc2022
+SEN,Special cybersecurity division,"Division spéciale de cybersécurité (DSC, ex BNLC)",other,,Police,police cybercrime unit,2017-11-01-sen-national-cybersecurity-strategy-snc2022
 SLE,National Cyber Security Coordination Centre (NC3),National Cyber Security Coordination Centre,response,,MoCTI,,2026-08-26-sierraloaded-digital-protection-plans-critical-sectors
 SLE,CoCCA domain management system (.sl),Sierra Leone,other,,MoCTI,,2026-10-09-thisdaysl-sierra-leone-cyberattack-44-websites
 SLE,National Cyber Security Coordination Centre,Sierra Leone,response,,,,2026-08-05-government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud
@@ -602,6 +626,7 @@ SOM,SOMCIRT (SOM-CIRT),Somalia,response,,National Communications Authority,,2026
 SOM,National Communications Authority (NCA),Somalia,other,,NCA,,2026-07-21-somalia-national-cybersecurity-risk-management-framework
 SOM,National Communications Authority (NCA),Somalia,other,,NCA,,2026-04-25-somalia-cybersecurity-framework-consultation
 SOM,SOMCIRT,Somalia Computer Incident Response Team (SOMCIRT),response,,National Communications Authority,,2026-10-27-som-somalia-opens-fourth-national-cybersecurity-forum-in-mogadishu
+SOM,Computer Emergency Response Team,Computer Emergency Response Team (CERT),response,,"Ministry of Post, Telecommunications and Technology","planned under the 2019 ICT policy, with a cybersecurity and privacy group to oversee national policy",2019-11-01-somalia-national-ict-policy-strategy-2019-2024
 SSD,National Computer Incident Response Team Coordination Centre (SS-CIRT/CC),South Sudan,response,,designated authority under the Cybercrime and Computer Misuse Act 2026,,2026-03-24-explainer-cybercrime-computer-misuse-act-2026-chapter-v
 SSD,South Sudan Computer Incident Response Team (SS-CIRT),South Sudan,response,,National Communication Authority,,2025-11-06-nca-national-cyber-incident-management-framework
 SSD,NCA DFS Security Lab,South Sudan,other,,National Communication Authority,,2026-03-17-itu-dfs-security-lab-eyeradio
@@ -672,6 +697,8 @@ TGO,Agence Nationale de la Cybersécurité (ANCy),ANCy,response,,Government of T
 TGO,CERT.tg,Centre National de Réponse aux Incidents de Cybersécurité (CERT.tg),response,,,,2025-04-27-tgo-alerte-cybersecurite-signalement-d-une-campagne-de-phishing-ciblant-le
 TGO,CERT.tg,ANCy,response,,Agence Nationale de la Cybersecurite,,2024-12-03-tgo-communique-de-l-ancy-en-rapport-a-l-arnaque-en-ligne-en-actualite
 TGO,CERT Tg,Cyber Defence Africa (CDA),response,,public-private company,,2025-08-25-tgo-e-id-togo-et-protection-des-donnees-personnelles-le-togo-a-fait-le-cho
+TGO,ANCy (National Cybersecurity Agency),ANCy,response,,,,2026-11-11-tgo-togo-rallies-digital-sector-against-cyber-threats-at-inaugural-cyber-arena
+TGO,CERT.tg,CERT.tg,response,,,,2026-11-11-tgo-togo-rallies-digital-sector-against-cyber-threats-at-inaugural-cyber-arena
 TUN,ANSI,ANSI,response,,,,2026-08-07-tunisia-cyberattacks-ransomware-surge-economiste-maghrebin
 TUN,ANCS,ANCS,response,,,,2026-09-29-tun-challenges-cybersecurite-deux-circulaires
 TUN,ANCS,ANCS,response,,,,2026-09-22-tun-cybersecurite-circulaire-entreprises-publiques
@@ -713,6 +740,10 @@ ZAF,Cybersecurity Hub,South Africa,other,,Department of Communications and Digit
 ZAF,National Cybersecurity Hub,National Cybersecurity Hub,response,,Department of Communications and Digital Technologies,,2025-10-03-zaf-government-urges-vigilance-against-rising-cyber-threats
 ZAF,Cybersecurity Hub,Cybersecurity Hub (national CSIRT),response,,DCDT,,2025-08-15-zaf-question-nw4353-to-the-minister-of-communications-and-digital-technolo
 ZAF,Cybersecurity Hub,Cybersecurity Hub,response,,,,2024-07-31-zaf-sa-s-sluggish-approach-to-cyber-security-regulation-laid-bare
+ZAF,Cybersecurity Hub,Cybersecurity Hub,response,,Department of Telecommunications and Postal Services,to be established under the framework; a CSIRT pooling public and private threat information,2015-12-04-zaf-ssa-national-cybersecurity-policy-framework-gazette-39475
+ZAF,ECS-CSIRT,RSA Government Electronic Communications Security Computer Security Incident Response Team (ECS-CSIRT),other,,State Security Agency,existing government CSIRT in 2015,2015-12-04-zaf-ssa-national-cybersecurity-policy-framework-gazette-39475
+ZAF,Cybersecurity Response Committee,JCPS Cybersecurity Response Committee,other,,State Security Agency,to be established; policy and coordination body,2015-12-04-zaf-ssa-national-cybersecurity-policy-framework-gazette-39475
+ZAF,Cybersecurity Hub,Cybersecurity Hub,response,,,a CSIRT pooling public and private threat information,2021-04-01-zaf-dcdt-draft-national-policy-on-data-and-cloud
 ZMB,Zambia Cyber Security Agency,Zambia Cyber Security Agency (ZCSA),response,,,,2026-08-22-zambiamonitor-zcsa-hate-speech-cyberbullying-warning
 ZMB,Zambia Cyber Security Agency,Zambia Cyber Security Agency (ZCSA),response,,,,2026-08-20-lusakatimes-zcsa-new-offices-cyber-incident-response
 ZMB,Zambia Cyber Security Agency,Zambia Cyber Security Agency (ZCSA),response,,,,2026-07-30-zambia-ai-driven-human-trafficking-cyber-agency
