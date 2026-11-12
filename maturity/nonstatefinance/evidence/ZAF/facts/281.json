@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-01-zaf-south-africa-s-vc-sector-withers",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Brainstorm Magazine reports South African startups received $85 million in investment in the first half of 2024, down from $459 million in the first half of 2023.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "startup investment",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

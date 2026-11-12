@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-20-nga-nigeria-s-startup-funding-falls-17-in-2025-as-equity-pullback-currency",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "BusinessDay reports, citing Africa: The Big Deal, that Nigerian startups raised $343 million in 2025, 83% of it equity, with 86 startups raising at least $100,000.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Startup funding 2025",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

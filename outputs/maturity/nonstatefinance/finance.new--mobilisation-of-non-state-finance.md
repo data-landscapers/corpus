@@ -21,12 +21,12 @@ Agenda 2063, Goal 20, asks that Africa pay for its own development and that its 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 4 |
-| 3 Established | 12 |
-| 2 Nascent | 24 |
+| 4 Operating | 6 |
+| 3 Established | 16 |
+| 2 Nascent | 21 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
-| No evidence | 13 |
+| No evidence | 10 |
 
 ## Countries
 
@@ -38,6 +38,14 @@ Private money came into Egyptian digital firms in 2024 to 2026, led by 2026 roun
 - Blnk raised US$24.6m in local-currency debt from Egyptian banks and non-bank financial institutions, including National Bank of Egypt, Suez Canal Bank and Bank Al Baraka Egypt; the document is dated 2026-06-08 ([source, 2026-06](https://techcabal.com/2026/06/08/egypts-blnk-raises-37-million-to-expand-lending/)).
 - Finance tables: Partech Africa committed USD 13 million (Equity, Completed) to Synapse Analytics, starting 2026: Partech - Synapse Analytics Series A, 2026 ([source, 2026](https://www.globenewswire.com/news-release/2026/09/14/3360726/0/en/synapse-analytics-secures-us-13m-led-by-partech-to-drive-ai-powered-decisioning-for-financial-institutions.html)).
 - Fawry, an Egyptian listed private fintech, raised its stake in software provider Codezone to 51% for EGP 31.3 million (USD 603,270) in Q1 2025, per TechCabal; the financier is Egyptian ([source, 2025](https://techcabal.com/2026/04/20/how-fawry-built-a-profitable-fintech/)).
+
+### Morocco: 4 Operating
+
+Moroccan startups raised money in 2025 and 2026, some from Moroccan investors; no source found shows private money in a public digital project.
+
+- Launchbase Africa says Ora's Series A was led by Moroccan VC Azur Innovation Management with three additional Moroccan strategic investors ([source, 2025-07](https://launchbaseafrica.com/2025/07/15/moroccos-ora-technologies-raises-7-5m-series-a-to-expand-superapp-ecosystem/)).
+- TechCabal reports Morocco's startups attracted more than USD 25 million in total funding in the first half of 2026, an aggregate across deals with no financier or recipient named ([source, 2026](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/)).
+- The UM6P Morocco Startup Ecosystem Report, as relayed by LesEco.ma, counts $108.44 million raised by Moroccan startups across 48 disclosed deals in 2025, 67.92% of it from foreign funds ([source, 2025](https://leseco.ma/business/startups-au-maroc-un-record-historique-de-1084-millions-de-dollars-leves-en-2025.html)).
 
 ### Namibia: 4 Operating
 
@@ -65,6 +73,15 @@ Private investors put money into South African digital firms from 2024 to 2026; 
 - Finance tables: Quona Capital committed USD 8 million (Equity, Completed) to Jem, starting 2026: Quona Capital — Jem Series A, 2026 ([source, 2026](https://www.itweb.co.za/article/jem-raises-84m-to-expand-ai-powered-platform/DZQ58MV8mZjvzXy2)).
 - Finance tables: DEG committed USD 4 million (Equity, Active) to Naked Insurance (Naked Financial Technology Pty Ltd), starting 2025: DEG Equity Investment in Naked Insurtech South Africa Series B2 (2025) ([source, 2025](https://www.deginvest.de/Newsroom/News/Pressemitteilungen-Details_835392-2.html)).
 
+### Tunisia: 4 Operating
+
+Tunisian banks and funds put money into digital firms in 2024 and 2025; no source found shows private money in a public digital project.
+
+- The round was co-led by 216 CAPITAL, described as an investment fund based in Tunis and founded there in 2021, so a Tunisian financier is named in the USD 1.5 million round ([source, 2025-02-18](https://www.webmanagercenter.com/2025/02/18/541011/la-start-up-arcube-annonce-une-levee-de-fonds-de-15-million-de-dollars-co-dirigee-par-216-capital/)).
+- IRBE7 reports the TND 310 million syndicated loan to Ooredoo for 5G was led by Attijari Bank Tunisie, as lead of a bank consortium ([source, 2024-12](https://irbe7.com/actualites/articles/attijari-bank-en-chef-de-file-dun-financement-de-310-millions-de-dinars-pour-la-5g-dooredoo/6806623203cffa19f5fb1c7e)).
+- The Franco-Tunisian startup Thunder Code finalised a USD 9 million seed round led by Silicon Badia with Janngo, Titan Seed Fund and MEDIN Fund Management, as reported by Managers ([source, 2025-06-04](https://managers.tn/2025/06/04/la-startup-franco-tunisienne-thunder-code-leve-9-millions-de-dollars/)).
+- IRBE7, citing Attijari Bank's first-quarter 2025 report, says a bank consortium led by Attijari granted Ooredoo a TND 310 million syndicated loan that let it acquire its 5G licence in December 2024 and deploy its national 5G network ([source, 2024-12](https://irbe7.com/actualites/articles/attijari-bank-en-chef-de-file-dun-financement-de-310-millions-de-dinars-pour-la-5g-dooredoo/6806623203cffa19f5fb1c7e)).
+
 ### Cameroon: 3 Established
 
 Private companies committed $75 million in September 2026 and $225 million over three years from 2025; no source found reports money raised inside Cameroon.
@@ -78,6 +95,20 @@ Private money went into Congolese digital businesses in 2024 and 2025; no source
 
 - Fondation BantuHub and L'Archer Group committed EUR 1m (about US$1.1m) in equity to Congolese startups and SMEs in December 2025, to be invested during 2026 through a 24-month incubation and acceleration programme ([source, 2025-12](https://launchbaseafrica.com/2025/12/22/congos-e1m-slow-build-vc-fund-aims-to-defy-central-africas-startup-odds/)).
 - Uma Ventures, a Hong Kong-based venture capital firm, led a USD 3m seed round for Noki Noki, a Brazzaville-based delivery platform, reported by Trendtype on 2024-06-24 (the round date is taken as the publication date) ([source, 2024-06](https://trendtype.com/news/brazzaville-based-delivery-platform-noki-noki-secures-3m-in-seed-funding/)).
+
+### Cote d'Ivoire: 3 Established
+
+Private investors put money into Ivorian fintechs in 2024 and 2025; no source found names money from investors of the country itself.
+
+- Partech's release of 3 April 2025 says fintech Djamo, based in Abidjan, raised $17 million in equity led by Janngo Capital, described as the largest VC round in Ivory Coast; the amount is for the company across Cote d'Ivoire and Senegal ([source, 2025-04-03](https://partechpartners.com/news/djamo-hits-1m-active-customers-and-raises-17m-of-equity-to-double-down-on-digital-first-banking-services-for-users-across-francophone-africa)).
+- Finance tables: FMO committed USD 3 million (Equity, Approved) to Hub2 / Connekt 4 SAS, starting 2024: FMO — Hub2 (Connekt 4 SAS), 2024 ([source, 2024](https://www.fmo.nl/project-detail/63830)).
+
+### DR Congo: 3 Established
+
+Private firms put money into DRC towers and digital services in 2025 and 2026; no source found says any was raised in the country.
+
+- Finance tables: Helios Towers committed USD 100 million (Self Funded, Approved) to a private digital beneficiary, starting 2026: Helios Towers — DRC telecom tower infrastructure investment, 2026 ([source, 2026](https://actualite.cd/2026/03/31/rdc-signature-dun-investissement-de-plus-de-100-millions-usd-entre-lanapi-et-helios)).
+- Trident Digital Tech Holdings said on 16 September 2025 it had raised USD 2.6 million, to be used mainly to expand and commercialise DRCPass in the DRC ([source, 2025-09-16](https://bankable.africa/fr/numerique/2601-2297-identification-numerique-97-1-millions-d-investissements-pour-deployer-le-drcpass)).
 
 ### Ethiopia: 3 Established
 
@@ -99,6 +130,13 @@ Private money reached Ghanaian digital businesses from 2024 to 2026, mainly tele
 
 - Scancom PLC (MTN Ghana) reports it invested GHS 1.9 billion (GHS 1,944.9 million) in ex-lease capital expenditure on its network and digital platforms in the first half of 2026, total capex GHS 2,100.4 million, a fall of 36.3% on a year earlier; the company is MTN Group's Ghana operator ([source, 2026](https://mtn.com.gh/wp-content/uploads/2026/08/Scancom-PLC-MTN-Ghana-H1-2026-Results.pdf)).
 - Disrupt Africa reports that eight Ghanaian startups secured a combined US$41,225,000 of funding in 2025, up from US$9,715,000 in 2024, of which US$11.5 million went to fintech; this is an aggregate with no named deal, financier or recipient ([source, 2025](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf)).
+
+### Guinea: 3 Established
+
+MIGA backed two Orange companies in 2024 and the fintech Cauridor raised money in 2025; no source found reports money raised inside Guinea.
+
+- TechCrunch reports that Guinea-based fintech Cauridor recently raised USD 3.5 million in seed funding led by Oui Capital, with Rally Cap, BKR Capital and angel investors; the round has no date of its own ([source, 2025-01-29](https://techcrunch.com/2025/01/29/cauridor-has-a-fix-for-cross-border-payments-issues-in-francophone-africa/)).
+- Finance tables: MIGA committed USD 373 million (Guarantee, Active) to Orange Guinee SA, starting 2024: Orange Guinea – Telecoms Operator Guarantee (Sonatel equity) ([source, 2024](https://www.miga.org/project/orange-guinea-and-guinea-bissau)).
 
 ### Kenya: 3 Established
 
@@ -149,6 +187,13 @@ Lenders and investors put money into Togolese digital firms in 2024, 2025 and 20
 - Finance tables: BGK committed USD 28 million (Commercial Loan, Approved) to Cyber Defense Africa, starting 2026: BGK — Cyber Defense Africa, 2026 ([source, 2026](https://www.gov.pl/web/cyfryzacja/wspolpraca-rozwojowa-bgk-wspiera-polska-inwestycje-technologiczna-w-afryce)).
 - Gozem, a Lomé-based super app, closed a $30m Series B round in February 2025 with support from MSC Group and Al Mada Ventures; the document does not give the investors' home countries ([source, 2025-02](https://african.business/2026/03/innov-africa-deals/togos-quiet-rise-as-a-startup-contender)).
 
+### Zambia: 3 Established
+
+Investors put money into Zambian digital firms in 2024 and 2026; no source found names money from a Zambian investor or market.
+
+- Acumen's Hardest-to-Reach Catalyze initiative closed a US$5M equity investment in Sun King's Zambia subsidiary, a pay-as-you-go solar company whose customers repay by mobile money; the document gives no signing date, so its publication date of 2026-09-25 is used ([source, 2026-09-25](https://www.techtrends.co.zm/acumen-invests-5-million-in-sun-king-to-scale-pay-as-you-go-solar-energy-access-in-zambia/)).
+- Disrupt Africa reports that Zambian construction e-commerce startup Bosso raised a US$400,000 pre-seed round from Leonard by Vinci, Launch Africa Ventures, Renew Capital, Change-Com and angel investors ([source, 2024-05-31](https://disruptafrica.com/2024/05/31/zambian-construction-e-commerce-startup-bosso-raises-400k-pre-seed-funding/)).
+
 ### Algeria: 2 Nascent
 
 Private investors put about USD 5 million into one Algerian start-up in December 2025; no source found reports private money in government digital projects.
@@ -185,29 +230,23 @@ The IFC lent EUR 25 million to a telecom firm in 2025; no source found reports m
 
 - Finance tables: International Finance Corporation (IFC) committed USD 27 million (Commercial Loan, Approved) to Yas Comoros (AXIAN Telecom subsidiary), starting 2025: IFC — Yas Comoros broadband (Comoros), 2025 ([source, 2025](https://techafricanews.com/2025/06/20/axian-telecoms-yas-comoros-secures-e25m-loan-to-boost-digital-transformation/)).
 
-### Cote d'Ivoire: 2 Nascent
+### Djibouti: 2 Nascent
 
-Development finance institutions put money into two Ivorian firms in 2024; no source found says whether Ivorian investors or public projects drew private money.
+Wingu Africa put USD 20 million into a Djibouti data centre in 2024; no source found says whether money came in other years.
 
-- Finance tables: FMO committed USD 3 million (Equity, Approved) to Hub2 / Connekt 4 SAS, starting 2024: FMO — Hub2 (Connekt 4 SAS), 2024 ([source, 2024](https://www.fmo.nl/project-detail/63830)).
+- African Business reports that Wingu Africa is investing USD 20 million in its new Djibouti City 2 data centre, about to be inaugurated ([source, 2024-05](https://magazinedelafrique.com/african-business/vers-un-hub-numerique-mondial/)).
 
-### DR Congo: 2 Nascent
+### Eswatini: 2 Nascent
 
-A fund lent USD 32.8 million and Helios Towers committed over USD 100 million to towers in 2026; no source says where it was raised.
+The startup Swoop raised USD 7.3 million in seed funding in 2026; no source found says whether money came in other years.
 
-- Finance tables: Helios Towers committed USD 100 million (Self Funded, Approved) to a private digital beneficiary, starting 2026: Helios Towers — DRC telecom tower infrastructure investment, 2026 ([source, 2026](https://actualite.cd/2026/03/31/rdc-signature-dun-investissement-de-plus-de-100-millions-usd-entre-lanapi-et-helios)).
+- WeeTracker reports that Eswatini-based food delivery startup Swoop raised USD 7.3 million in seed funding backed by Long Journey, Variant, Version One and others, to expand into Nigeria ([source, 2026-04-24](https://weetracker.com/2026/04/24/swoop-7-3m-seed-nigeria-food-delivery-expansion/)).
 
 ### Gabon: 2 Nascent
 
 A EUR 650,000 start-up round in 2025 is the only private money held; none raised at home or brought in by government is known.
 
 - Ecofin Agency reports that Gabonese telematics and fleet-management startup POZI raised EUR 650,000 (about US$690,000) in a round led by Saviu Ventures with Emsy Capital and advisory firm Chazai Wamba participating, announced on 3 October 2025 ([source, 2025-10-03](https://www.ecofinagency.com/news-digital/0510-49294-gabon-s-pozi-raises-foreign-investment-in-first-ever-vc-deal-for-local-startup)).
-
-### Guinea: 2 Nascent
-
-MIGA committed USD 373 million and USD 27 million to two Orange companies in Guinea in 2024; no source found reports money raised inside Guinea.
-
-- Finance tables: MIGA committed USD 373 million (Guarantee, Active) to Orange Guinee SA, starting 2024: Orange Guinea – Telecoms Operator Guarantee (Sonatel equity) ([source, 2024](https://www.miga.org/project/orange-guinea-and-guinea-bissau)).
 
 ### Guinea-Bissau: 2 Nascent
 
@@ -220,6 +259,12 @@ A USD 25 million guarantee backed a telecoms operator in 2025; no source found s
 A US company committed about US$6.2 billion in 2026 for a hydropower and AI data centre; no source found says how much is paid in.
 
 - Convalt Energy, a US company, whose CEO Hari Achuthan says the Kobong hydropower and AI data centre project involves about US$6.2 billion (M100 billion) of capital investment in Lesotho, launched on 31 July 2026 after a binding agreement signed 4 June 2026 ([source, 2026-06-04](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/)).
+
+### Libya: 2 Nascent
+
+The startup Mataa raised Libya's first venture round, over USD 1 million, in 2025; no source found says whether money came in other years.
+
+- Technext says the startup Mataa raised Libya's first venture funding round in July 2025, reported above USD 100,000 and which Technext can confirm was more than USD 1 million ([source, 2025-07](https://technext24.com/policy-and-tech/libya-modern-people-but-archaic-laws/)).
 
 ### Madagascar: 2 Nascent
 
@@ -238,12 +283,6 @@ Catalyst Fund put $200,000 into one Bamako insurtech in 2025; no source found sa
 One private amount is held for Mauritius, USD 7.5 million raised by a fintech in 2025; no source says whether money came in other years.
 
 - ImpactAlpha reports that Mauritius-based fintech Kuunda raised a USD 7.5 million pre-Series A round backed by Seedstars Africa Ventures, Accion Ventures, Nedbank, E4E Africa, 4Di Capital and Portugal Gateway Fund ([source, 2025-10-16](https://impactalpha.com/kuunda-lands-7-5-million-to-provide-short-term-financing-for-small-businesses/)).
-
-### Morocco: 2 Nascent
-
-Morocco's startups drew over USD 25 million in the first half of 2026; no source found says who put it in.
-
-- TechCabal reports Morocco's startups attracted more than USD 25 million in total funding in the first half of 2026, an aggregate across deals with no financier or recipient named ([source, 2026](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/)).
 
 ### Niger: 2 Nascent
 
@@ -269,23 +308,11 @@ Orange Sierra Leone committed USD 50 million in 2025; no source found says wheth
 
 - Finance tables: Orange Sierra Leone committed USD 50 million (Self Funded, Active) to Orange Sierra Leone, starting 2025: Orange Sierra Leone's $50 million network modernisation to 4G/5G readiness ([source, 2025](https://mocti.gov.sl/orange-sierra-leone-expands-coverage-with-launch-of-new-network-site-in-mathonkra-tonkolili-district/)).
 
-### Tunisia: 2 Nascent
-
-A Tunisian startup raised USD 1.5 million in one round, co-led by a Tunis fund, in February 2025; other years are unknown.
-
-- Startup Arcube announced a USD 1.5 million (TND 4.7 million) funding round co-led by Tunis-based fund 216 CAPITAL with Fuel Ventures and Oxford Capital Partners ([source, 2025-02-18](https://www.webmanagercenter.com/2025/02/18/541011/la-start-up-arcube-annonce-une-levee-de-fonds-de-15-million-de-dollars-co-dirigee-par-216-capital/)).
-
 ### Uganda: 2 Nascent
 
 Four private deals of USD 15 million, 12 million, 1.6 million and 420,000 came in during 2024, but no source reports money raised inside Uganda.
 
 - Ugandan e-bike start-up Gogo Electric raised USD 1.6m from the EU-backed Electrification Financing Initiative (ElectriFI); the document lists it among 2024 raises and gives no month ([source, 2024](https://www.ceo.co.ug/ugandan-startups-raise-usd-19m-in-2024/)).
-
-### Zambia: 2 Nascent
-
-Acumen put US$5M into Sun King Zambia and Lupiya pledged K500 million, both in 2026; no source found reports private money in other years.
-
-- Acumen's Hardest-to-Reach Catalyze initiative closed a US$5M equity investment in Sun King's Zambia subsidiary, a pay-as-you-go solar company whose customers repay by mobile money; the document gives no signing date, so its publication date of 2026-09-25 is used ([source, 2026-09-25](https://www.techtrends.co.zm/acumen-invests-5-million-in-sun-king-to-scale-pay-as-you-go-solar-energy-access-in-zambia/)).
 
 ### Zimbabwe: 2 Nascent
 
@@ -323,12 +350,6 @@ No private money put into a digital business in Chad has been found, and no sour
 
 Not established: Nothing found names private money put into a digital business in the country, or says there is none.
 
-### Djibouti: No evidence
-
-No private money put into a digital business in Djibouti has been found, and none is reported absent, so no stage is set.
-
-Not established: Nothing found names private money put into a digital business in the country, or says there is none.
-
 ### Equatorial Guinea: No evidence
 
 No private money put into a digital business is known, and none is known to be absent, so no stage is set.
@@ -338,18 +359,6 @@ Not established: Nothing found names private money put into a digital business i
 ### Eritrea: No evidence
 
 No private money put into a digital business in Eritrea has been found, and none is reported absent, so no stage is set.
-
-Not established: Nothing found names private money put into a digital business in the country, or says there is none.
-
-### Eswatini: No evidence
-
-No private money put into a digital business in Eswatini has been found, and no source says whether any exists, so no stage is set.
-
-Not established: Nothing found names private money put into a digital business in the country, or says there is none.
-
-### Libya: No evidence
-
-No private money put into a digital business is named, so no stage is set.
 
 Not established: Nothing found names private money put into a digital business in the country, or says there is none.
 

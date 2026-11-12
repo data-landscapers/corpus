@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-14-egy-egyptian-fintech-unicorn-mnt-halan-raises-71-4m-via-7th-securitised-bo",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Disrupt Africa reports MNT-Halan raised EGP3.4 billion (US$71.4 million) through its seventh securitised bond issuance, managed by CIB and CI Capital, within an EGP8 billion programme approved by Egypt's Financial Regulatory Authority.",
+   "as_of": "2025-10-14",
+   "date_precision": "day",
+   "system": "MNT-Halan seventh securitised bond issuance",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Disrupt Africa reports MNT-Halan's most recent earlier raise was a US$49 million corporate bond issuance in May.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "MNT-Halan corporate bond issuance",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

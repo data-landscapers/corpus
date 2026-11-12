@@ -1,0 +1,27 @@
+{
+ "slug": "2025-04-01-tun-attijari-bank-indicateurs-activite-1er-trimestre-2025",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Attijari bank says it led a bank consortium in a TND 310 million syndicated loan to the operator Ooredoo, to fund its 5G licence and national network development; no signing date is given.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Ooredoo 5G syndicated loan",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "The TND 310 million 5G loan to Ooredoo was led by Attijari bank, a bank of Tunisia, as lead of a bank consortium, per the bank's own first-quarter 2025 indicators.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Ooredoo 5G syndicated loan",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

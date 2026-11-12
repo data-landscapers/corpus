@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-22-sen-une-startup-senegalaise-annonce-une-levee-de-fonds-de-plus-de-3-millia",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "APS reports Dakar HR-software startup Socium announced a USD 5 million (about CFA 3.13 billion) funding round led by venture investors including Breega, Partech, Orange Digital Ventures and Sonatel.",
+   "as_of": "2024-11-22",
+   "date_precision": "day",
+   "system": "Socium funding round",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "No amount is named for Sonatel or the Senegalese co-investor alone, so nothing is recorded for money raised at home."
+}

@@ -6,3 +6,12 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TUN,finance.new--mobilisation-of-non-state-finance,fact,no evidence,2,TUN-001,Arrivals added TUN-001; TUN-002; stage no evidence -> 2.
 2026-10-25,COG,finance.new--mobilisation-of-non-state-finance,fact,2,3,COG-002;COG-001,BantuHub and L'Archer EUR 1m equity committed Dec 2025: a second year of private money
 2026-11-11,ZWE,finance.new--mobilisation-of-non-state-finance,review,unplaced,2,ZWE-003,"Rebuild: ZWE unplaced->2 on Econet InfraCo's 2026 capital spending (ZWE-003), counted at today's date"
+2026-11-12,CIV,finance.new--mobilisation-of-non-state-finance,fact,2,3,CIV-016;CIV-011,Djamo's USD 17 million equity round of April 2025 adds a second year to 2024's FMO stake: 2 to 3.
+2026-11-12,COD,finance.new--mobilisation-of-non-state-finance,fact,2,3,COD-006;COD-008,Trident's USD 2.6 million raise of September 2025 for DRCPass adds a second year to 2026's tower deals: 2 to 3.
+2026-11-12,DJI,finance.new--mobilisation-of-non-state-finance,fact,no evidence,2,DJI-001,Wingu Africa's USD 20 million Djibouti data centre investment of 2024 is the first amount held: no evidence to 2.
+2026-11-12,GIN,finance.new--mobilisation-of-non-state-finance,fact,2,3,GIN-003;GIN-001,"Cauridor's USD 3.5 million seed round, reported January 2025, adds a second year to MIGA's 2024 guarantees: 2 to 3."
+2026-11-12,LBY,finance.new--mobilisation-of-non-state-finance,fact,no evidence,2,LBY-001,"Mataa's venture round of July 2025, over USD 1 million, is the first amount held: no evidence to 2."
+2026-11-12,MAR,finance.new--mobilisation-of-non-state-finance,fact,2,4,MAR-004;MAR-001;MAR-005,"Ora Technologies' 2025 rounds, led by the Moroccan firm Azur, add a second year and money raised at home: 2 to 4."
+2026-11-12,SWZ,finance.new--mobilisation-of-non-state-finance,fact,no evidence,2,SWZ-001,Swoop's USD 7.3 million seed round of April 2026 is the first amount held: no evidence to 2.
+2026-11-12,TUN,finance.new--mobilisation-of-non-state-finance,fact,2,4,TUN-002;TUN-006;TUN-003;TUN-005,Attijari's TND 310 million 5G loan to Ooredoo of December 2024 adds a second year and a Tunisian lender: 2 to 4.
+2026-11-12,ZMB,finance.new--mobilisation-of-non-state-finance,fact,2,3,ZMB-003;ZMB-007,"Bosso's US$400,000 pre-seed round of May 2024 adds a second year to 2026's deals: 2 to 3."

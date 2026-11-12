@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-29-zaf-havaic-fund-locks-in-sizeable-investment-commitment",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "ITWeb reports that Cape Town venture firm Havaic invested $1 million each in SAPay and Sportable in mid-2025, from its African Innovation Fund 3, whose second close secured $25 million of commitments.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "Havaic African Innovation Fund 3",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "ITWeb reports that Havaic's second close of $25 million came with commitments from South African investors Sanlam Multi-Manager, the SA SME Fund and Fireball Capital, with no split of amounts given.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "Havaic African Innovation Fund 3",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

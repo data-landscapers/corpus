@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-12-dza-algeria-s-public-startup-fund-scores-first-exit-as-travel-tech-volz-ra",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Launch Base Africa reports Algerian travel-tech startup Voelz raised DZD 600 million (about USD 5 million, the outlet's conversion) in a round led by Tell Group with GIBA.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Voelz funding round",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "Launch Base Africa describes the DZD 600 million Voelz round as led by private local investors, including Biskra-based conglomerate GIBA (Groupe Industriel Babahoum Algerie).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Voelz funding round",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

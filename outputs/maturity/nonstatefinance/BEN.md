@@ -2,11 +2,11 @@
 
 ## Private money for digital businesses
 
-**Private money put into a digital business, with its year.** In 2025 [MTN Group committed over USD 215 million of its own money in Benin through 2026](<https://www.mtn.com/mtn-group-backs-benin-investment-forum-2025-driving-digital-and-economic-progress-in-west-africa/>), spent on a 5G rollout, fibre expansion and a new MTN Benin headquarters. The commitment was announced at the Benin Investment Forum in May 2025 and is the only private amount held for the country from 2024 on.
+**Private money put into a digital business, with its year.** In 2025 [MTN Group committed over USD 215 million of its own money in Benin through 2026](<https://www.mtn.com/mtn-group-backs-benin-investment-forum-2025-driving-digital-and-economic-progress-in-west-africa/>). It is for a 5G rollout, fibre and a new MTN Benin headquarters. The commitment was announced at the Benin Investment Forum in May 2025. [Partech counts one USD 1 million equity deal in Benin in 2025](<https://lamarinabj.com/index.php/2026/01/26/classement-partech-2025-une-transaction-historique-place-le-benin-sur-la-carte-du-capital-risque/>), which places it 23rd of 28 African venture markets.
 
-**Money raised inside the country.** No money raised inside Benin has been found; [MTN, a South African group, put in the USD 215 million itself](<https://www.mtn.com/mtn-group-backs-benin-investment-forum-2025-driving-digital-and-economic-progress-in-west-africa/>), dated 2025.
+**Money raised inside the country.** No money raised inside Benin has been found. [MTN, a South African group, put in the USD 215 million itself](<https://www.mtn.com/mtn-group-backs-benin-investment-forum-2025-driving-digital-and-economic-progress-in-west-africa/>) in 2025.
 
-**Private money the government brought into a public digital project.** No private money brought in by the government has been found; The [MTN commitment was self-funded and approved by MTN](<https://www.mtn.com/mtn-group-backs-benin-investment-forum-2025-driving-digital-and-economic-progress-in-west-africa/>).
+**Private money the government brought into a public digital project.** No private money brought in by the government has been found. [The MTN commitment was self-funded and approved by MTN](<https://www.mtn.com/mtn-group-backs-benin-investment-forum-2025-driving-digital-and-economic-progress-in-west-africa/>).
 
 ***Also on file***. [Saviu II](<https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-group-approves-eu65-million-investment-saviu-ii-fund-support-technology-start-ups-francophone-west-and-central-africa-91234>), a fund owned by Saviu Partners; [Grand Parakou](<https://greenline-tech.com/news/greenline-technologies-signs-definitive-agreements-for-the-grand-parakou-project-in-benin>), owned by Greenline Technologies.
 

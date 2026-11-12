@@ -1,0 +1,46 @@
+{
+ "slug": "2025-07-15-mar-morocco-s-ora-technologies-raises-7-5m-series-a-to-expand-superapp-eco",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Launchbase Africa reports Moroccan superapp Ora Technologies secured a USD 7.5 million Series A led by local VC Azur Innovation Management.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Ora Technologies Series A",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Launchbase Africa reports Ora Technologies raised a USD 1.9 million pre-Series A in March 2025 led by Azur Innovation and Witamax.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Ora Technologies pre-Series A",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "Launchbase Africa says Ora's Series A was led by Moroccan VC Azur Innovation Management with three additional Moroccan strategic investors.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Ora Technologies Series A",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ora Cash",
+   "country_label": "MAR",
+   "class": "other",
+   "platform": "mobile wallet",
+   "owner": "Ora Technologies (with M2T)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

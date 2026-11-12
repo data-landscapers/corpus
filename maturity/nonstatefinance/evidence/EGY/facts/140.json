@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-22-egy-flend-raises-3m-in-blended-equity-and-debt-in-seed-round-to-scale-digi",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "EgyptInnovate reports that the digital SME lender Flend raised US$3 million in a seed round of equity led by Egypt Ventures and debt from MSMEDA and local banks.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Flend seed round",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "EgyptInnovate reports that Egyptian investors including Egypt Ventures, Banque Misr and El Sewedy joined Flend's US$3 million seed round, with debt from MSMEDA and local banks.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Flend seed round",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "Round undated in the body; month is the page's date."
+}
