@@ -1,12 +1,12 @@
 ---
 title: Sao Tome and Principe: status report
-compiled: 2026-11-11
+compiled: 2026-11-12
 place: STP
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-19
 intersections_read: 8
-sources_cited: 207
+sources_cited: 209
 sections_written: 39
 not_established: 0
 acquire_lines: 33
@@ -228,7 +228,7 @@ In June 2026 [a teleconsultation service with the Brazilian state of Piauí's di
 
 In April 2026 the fiduciary agency [tendered for technical assistance to implement the SIGE school management system](https://www.telanon.info/anuncios/2026/04/01/52396/afap-consultoria-a-t-especializada-em-infraestruturas-tecnologicas-gestao-de-recursos-e-capacitacao-para-implementacao-do-sistema-integrado-de-gestao-escolar-sige/). In May 2026 UNICEF [tendered for a university to build dashboards for national education supervision](https://www.telanon.info/anuncios/2026/05/07/52802/unicef-contratacao-de-uma-instituicao-de-ensino-superior-universidade-para-o-desenvolvimento-de-dashboards-para-a-supervisao-educativa-nacional/). [A World Bank project put a data-management computer in each primary school, linked to the planning directorate's online platform](https://documents1.worldbank.org/curated/en/676871580236018535/pdf/Sao-Tome-and-Principe-Quality-Education-for-All-Project.pdf). [In 2023 many schools were not using SIGE for want of electricity, computers or internet, or because they found it hard to use](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2023-10-sao-tome-principe-fortalecendo-sistemo-educativo.pdf).
 
-[An integrated case management system contracted in December 2022 covers police, prosecution, courts and prisons in the city of São Tomé in its first phase](https://www.synisys.com/news/transforming-the-justice-system-in-sao-tome-and-principe-with-synergy/). In June 2026 [a five-week UNODC programme trained judicial police, prosecutors and judges on digital-evidence extraction and decryption tools now in use](https://www.unodc.org/westandcentralafrica/en/westandcentralafrica/stories/2026/so-tom-and-prncipe-builds-a-complete-digital-evidence-chain--from-the-phone-to-the-courtroom.html). [It also reviewed the legal framework against the UN Convention against Cybercrime](https://www.unodc.org/westandcentralafrica/en/westandcentralafrica/stories/2026/so-tom-and-prncipe-builds-a-complete-digital-evidence-chain--from-the-phone-to-the-courtroom.html).
+[An integrated case management system contracted in December 2022 covers police, prosecution, courts and prisons in the city of São Tomé in its first phase](https://www.synisys.com/news/transforming-the-justice-system-in-sao-tome-and-principe-with-synergy/). [In 2025 its national go-live was projected for the first quarter of 2026](https://mptf.undp.org/sites/default/files/documents/2025-11/s-pbf_stp_joint_program_annual_report_november_2025_final.pdf). [In June 2026 the national roll-out was still pending contracting, configuration, training and site readiness](https://mptf.undp.org/sites/default/files/documents/2026-06/s-pbf_stp_joint_program_semi-annual_report_june_2026_final.pdf). In June 2026 [a five-week UNODC programme trained judicial police, prosecutors and judges on digital-evidence extraction and decryption tools now in use](https://www.unodc.org/westandcentralafrica/en/westandcentralafrica/stories/2026/so-tom-and-prncipe-builds-a-complete-digital-evidence-chain--from-the-phone-to-the-courtroom.html). [It also reviewed the legal framework against the UN Convention against Cybercrime](https://www.unodc.org/westandcentralafrica/en/westandcentralafrica/stories/2026/so-tom-and-prncipe-builds-a-complete-digital-evidence-chain--from-the-phone-to-the-courtroom.html).
 
 [On 1 May 2025 customs moved to version 4.4 of ASYCUDA World, replacing the 2011 version](https://asycuda.org/en/sao-tome-and-principe-leverages-asycuda-to-enhance-customs-efficiency-and-compliance/). [Electronic payment of duties to the Treasury is still to come](https://asycuda.org/en/sao-tome-and-principe-leverages-asycuda-to-enhance-customs-efficiency-and-compliance/). In February 2026 the geographic and cadastral service was [shut out of its rented premises over three and a half years of unpaid state rent](https://www.telanon.info/sociedade/2026/02/23/51972/servicos-geograficos-e-cadastrais-estao-paralisados-por-causa-de-divida-com-o-arrendamento/). In August 2026 the fiduciary agency [extended the tender deadline for a new management information system for the water and electricity utility](https://www.telanon.info/destaques/2026/08/07/53902/afap-prorroga-a-solicitacao-de-fornecimento-instalacao-treinamento-e-comissionamento-do-novo-sistema-de-informacao-de-gestao-mis-para-a-emae/).
 
