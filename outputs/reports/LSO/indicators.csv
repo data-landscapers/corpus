@@ -198,7 +198,9 @@ dpi.pay--population-uptake,Movement,"Mobile money was spun into a [separately co
 
 EcoCash completed a platform migration in October 2024 with group savings, payroll and fraud detection integrated, and wallet interest payouts stated as forthcoming; nothing later is held ([migration](2025-04-30-econet-ecocash-upgrade-lestimes)). No account or active-user figure is published for either.
 
-2023 — [the regulator's household survey found 65.1% of individuals using mobile money, up from 43.2% in 2016 and 57.9% in 2019](2025-01-01-lca-ict-access-use-households-comparative-2016-2023), with no split by provider.",LSO-dpi.pay-mpesa|LSO-dpi.pay-ecocash|LSO-dpi.pay-mobile-money-use,3,,61.571,% of adults 15+,2024,ref:findex-account-ownership@2026-07-13,,,2026-08-31,0,survey figure; no primary in the base
+2023 — [the regulator's household survey found 65.1% of individuals using mobile money, up from 43.2% in 2016 and 57.9% in 2019](2025-01-01-lca-ict-access-use-households-comparative-2016-2023), with no split by provider.
+
+2021 - the FinScope survey [put financial inclusion at 91% of adults, up from 81% in 2011](2021-11-01-lso-lesotho-finscope-consumer-survey-report-2021).",LSO-dpi.pay-mpesa|LSO-dpi.pay-ecocash|LSO-dpi.pay-mobile-money-use|LSO-include.access-finscope-financial-inclusion,3,,61.571,% of adults 15+,2024,ref:findex-account-ownership@2026-07-13,,,2026-08-31,0,survey figure; no primary in the base
 dpi.pay--cross-border-functionality,"Mixed, a new renminbi settlement route against migrant workers pushed out of bank channels","[Renminbi settlement](2026-07-27-standard-bank-cips-cny-8-billion-africa-china) became available through a commercial bank in July 2026, while [migrant workers moved to fintechs](2026-06-12-lesotho-migrants-fintech-remittances-techcabal) as South African rules tightened.","Standard Bank extended access to China's cross-border interbank payment system beyond South Africa to five markets including Lesotho, reported on 27 July 2026 ([access](2026-07-27-standard-bank-cips-cny-8-billion-africa-china)).
 
 Migrant workers remitting from South Africa moved from banks to fintechs as South African remittance and banking rules tightened, reported in June 2026 ([remittances](2026-06-12-lesotho-migrants-fintech-remittances-techcabal)). No corridor volume, price or regional switch connection is published.
@@ -637,7 +639,13 @@ digital.rural--digitalisation-of-rural-police-stations,Movement,"A [crime-report
 
 2026-07-31 — [the universal service fund opened procurement for Wi-Fi and network equipment at police stations across all ten districts](2026-07-31-lca-rfp-police-stations-wifi).
 
-The reporting app reached the public before the stations received computers or connectivity, and the repository holds no count of stations with either.",LSO-dpi.mis-lehokela|LSO-digital.rural-police-desktop-handover|LSO-digital.rural-police-station-wifi,2,LSO-digital.rural-police-desktop-handover|LSO-digital.rural-police-station-wifi,,,,,,,2026-08-31,0,Twenty desktops delivered and station Wi-Fi out to tender; no station recording on a system
+The reporting app reached the public before the stations received computers or connectivity, and the repository holds no count of stations with either.
+
+2024-04 - a Maseru police station [was handed over with a year of internet and seven laptops as a technology pilot](2024-04-08-lso-micsti-minister-hands-over-police-station).
+
+2026 - the police service [received a digital transformation policy and a digital strategy](2026-05-21-lso-lehokela-application-advancing-community-driven-crime-prevention-and-p).
+
+2026-03 - the police inspectorate [reported improvised paper occurrence books and a livestock registry run in isolation from the police](2026-03-06-lso-matsoso-tears-into-politicians).",LSO-dpi.mis-lehokela|LSO-digital.rural-police-desktop-handover|LSO-digital.rural-police-station-wifi|LSO-digital.rural-lithoteng-police-station-pilot|LSO-gov.policy-police-digital-policy-and-strategy|LSO-dpi.registry-lrmis,2,LSO-digital.rural-police-desktop-handover|LSO-digital.rural-police-station-wifi,,,,,,,2026-08-31,0,Twenty desktops delivered and station Wi-Fi out to tender; no station recording on a system
 tech.ai--use-of-ai-in-government-administration,"Movement, at policy and pilot stage",The [AI Policy of 2025 is the stated foundation](2026-07-07-lesotho-country-statement-un-global-dialogue-ai-governance); the one named tool is a planned chatbot for farmers.,"2025-10-30 — [the ministry’s principal secretary described a planned government chatbot for farmers, with an implementation plan for 2026](2025-10-30-lesotho-itu-digital-transformation-ict-regulation).
 
 2026-06-11 — [digital policies were signed at a ceremony that also confirmed the innovation studio operational](2026-06-11-lesotho-digital-studio-makoanyane-square-unipod).
