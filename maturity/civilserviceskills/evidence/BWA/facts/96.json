@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-02-bwa-case-study-botswana-1gov-platform-assessment",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "ADM Interactive says that after its 2023 assessment of 1Gov, Botswana's digital leadership put civil servant training sessions in motion, with no number trained given.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "1Gov civil servant training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -33,6 +33,7 @@ COG,PATN,Congo,other,,Government of Congo,,2024-05-29-cog-patn-plus-de-38-millia
 COM,PAGF-SI,Projet d'Appui a la Gouvernance Financiere - Systeme d'Information,other,,"Ministere des Finances, du Budget et du Secteur Bancaire",,2023-12-07-com-afd-pagf-si-systeme-information
 CPV,WebLab,Cabo Verde,other,,,,2024-01-01-nosi-operational-nucleus-information-society
 CPV,Administração Pública + Digital,Programa Nacional de Capacitação para o Digital,csskills,,MMEAP,,2025-01-01-cpv-administracao-publica-digital-formacao-piloto-competencias-digitais-pr
+CPV,Programa de capacitação em tecnologias digitais para a Administração Pública,Cabo Verde,csskills,Plataforma de ensino a distância da Administração Pública (planned),Government of Cabo Verde,,2021-01-01-cpv-estrategia-para-a-governacao-digital-de-cabo-verde
 DJI,Oracle University MyLearn,Djibouti,csskills,Oracle MyLearn,Ministry of Digital Economy and Innovation,national,2025-02-24-digital-skills-program-govt-officials-wearetech
 DJI,GovStack / IDGC capacity development,Djibouti,other,GovStack,Team Europe IDGC,,2024-09-30-dji-digital-leaders-spotlight-djibouti
 DZA,Plateforme numerique du Ministere de l'Education Nationale,Algeria,other,"ministry digital platform (pupil, staff, school, teacher and parent management)",Ministere de l'Education Nationale / CNIIPDTICE,national,2024-01-01-dza-itu-men-plateforme-numerique-education
@@ -42,6 +43,8 @@ EGY,AI Ambassadors Program,Egypt,csskills,,NTI with State Lawsuits Authority,,20
 EGY,LMS digital training platform,Egypt,csskills,LMS,Ministry of Planning / Administrative Prosecution Authority,,2025-09-16-egy-almasryalyoum-mped-apa-lms-digital-training-platform
 EGY,Digital Egypt Leaders National Initiative,Egypt,csskills,,MCIT and National Training Academy,,2025-06-03-egy-mcit-nta-celebrate-fourth-cohort-graduation-of-digital-egypt-leaders-n
 EGY,National Initiative for Qualifying Egypt's Digital Leaders,Digital Egypt Leaders Initiative,csskills,,National Training Academy; Ministry of Communications and Information Technology,,2024-12-26-egy-digital-egypt-leaders-initiative-first-cohort-graduation
+EGY,MCIT digital training for state administrative apparatus employees,Egypt,csskills,,Ministry of Communications and Information Technology,,2025-03-01-egy-mcit-yearbook-2024
+EGY,NTI Government Workforce Digital Skills Development,Egypt,csskills,,National Telecommunication Institute,,2025-03-01-egy-mcit-yearbook-2024
 ETH,Digital Financial Literacy campaign,Ethiopia,csskills,in-person training,Ministry of Innovation and Technology (MInT) with UNCDF,national,2026-04-07-uncdf-closing-digital-finance-gap-women-civil-servant
 GAB,DGPE digital training session (DigieWomen School),Gabon,csskills,in-person course,Direction générale du patrimoine de l'État,,2025-10-19-dgpe-300-agents-formes-ia-cybersecurite-informatique
 GAB,RCAPE,Gabon,csskills,,Centre Gabonais de l'Innovation,,2026-09-07-gab-agp-cgi-agents-communication-ia
@@ -72,6 +75,7 @@ KEN,UNESCO-Oxford course on AI and Digital Transformation in Government,Kenya,cs
 KEN,Regional Centre of Competence (RCoC) AI and Digital Skilling Project,Kenya,csskills,learning management system,Kenya School of Government / MICDE / UNDP / Microsoft,,2026-02-18-ken-rcoc-sets-the-stage-for-phase-2
 KEN,UNESCO-Oxford MOOC on AI and Digital Transformation in Government,DigiKen - Digital Platforms Kenya,csskills,online course,Kenya School of Government,officers CG8 and above,2025-11-10-ken-kenya-launches-unesco-oxford-free-online-course-on-ai-and-digital-tran
 KEN,Regional Centre of Competence (RCoC) for Digital and AI Skilling,Kenya,csskills,learning platform (Apolitical),Government of Kenya with UNDP and Microsoft,,2025-04-01-ken-building-ai-capacity-in-the-kenyan-public-sector
+KEN,Government digital skills initiatives for civil servants,Kenya,csskills,,"Ministry of ICT, Innovation and Youth Affairs",,2022-01-01-ken-national-digital-master-plan-2022-2032
 LBY,Pix,Libya,other,Pix,Expertise France / Libyan Digital Lab,,2025-05-11-lby-enhancing-libya-s-digital-transformation-by-adapting-the-pix-platform
 LSO,Cyber Security Training workshop,Lesotho,csskills,,MICSTI,,2023-08-17-lso-govls-cyber-security-training-government-officials
 MAR,ENA-ADD partnership,Morocco,csskills,,National School of Administration (ENA) and Digital Development Agency (ADD),,2026-09-23-mar-7news-ena-add-digital-partnership
@@ -105,6 +109,8 @@ NGA,Digital Literacy for All (DL4ALL),Nigeria,csskills,Cisco Networking Academy 
 NGA,Digital Literacy for All (DL4ALL),Nigeria,csskills,Cisco Networking Academy / DISCO learning platform,NITDA / OHCSF,,2025-09-23-nga-nitda-launches-capacity-building-programme-to-boost-digital-literacy-i
 NGA,Digital Literacy Action Plan,Nigeria,csskills,"Cisco/NITDA course, enrolment by government email",Office of the Head of the Civil Service of the Federation,,2025-09-11-nga-federal-government-launches-digital-literacy-action-plan-to-empower-ci
 NGA,Nigeria Federal Civil Service Online Academy,Nigeria Federal Civil Service Online Academy,csskills,,Office of the Head of the Civil Service of the Federation,,2024-11-21-nga-digitalization-revolution-in-the-federal-civil-service-walson-jack-lau
+NGA,Inter-Ministerial Task Team on Digital Literacy Training and Certification of Public Servants,Nigeria,csskills,,Bureau for Public Service Reforms,federal,2023-07-01-nga-nitda-national-digital-literacy-framework
+NGA,National Digital Literacy Framework (NDLF),Nigeria,other,,NITDA,federal,2023-07-01-nga-nitda-national-digital-literacy-framework
 RWA,Chidi,Rwanda,csskills,Claude-powered learning companion (with ALX),"Government of Rwanda, Anthropic, ALX",,"2026-03-04 Rwanda–Anthropic AI deal targets health, education gains"
 RWA,Government AI Campus,Rwanda,csskills,Apolitical platform,Apolitical; Rwanda MINICT and MIFOTRA,,2026-05-19-rwa-what-happens-when-500-000-public-servants-learn-ai-early-data-has-an-a
 SDN,Northern State information centre ICT courses,Sudan,csskills,,Northern State government,state,2026-10-15-sdn-suna-northern-state-capacity-building-digital-courses

@@ -2,11 +2,11 @@
 
 ## Civil service digital skills
 
-**Training for civil servants.** [Statistics Botswana and the Botswana Public Service College signed an MoU on 2026-10-06 to design and deliver a statistical-literacy and data-literacy training programme for public servants across the National Statistical System, per the Statistician General](<https://dailynews.gov.bw/news-detail/93566>). [Vice President Ndaba Gaolathe said plans were underway to introduce AI capacity-building programmes for the civil service](<https://dailynews.gov.bw/news-detail/87072>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Training for civil servants.** On 6 October 2026 Statistics Botswana and the Botswana Public Service College [agreed to design a statistical and data-literacy course for public servants](<https://dailynews.gov.bw/news-detail/93566>). It is meant for staff across the National Statistical System. Vice President Ndaba Gaolathe said [AI training for the civil service was being planned](<https://dailynews.gov.bw/news-detail/87072>). After a 2023 review of the 1Gov portal, [training sessions for civil servants were put in motion](<https://www.adm.ee/blog/case-study-botswana-1gov-platform-assessment/>), ADM Interactive says. It gives no number trained.
 
-**Across government.** No source found since October 2023 says digital-skills training reaches civil servants across government. The nearest held fact: [the one given above](<https://dailynews.gov.bw/news-detail/93566>).
+**Across government.** No source found since October 2023 says digital-skills training reaches civil servants across government. The nearest fact is [the 2026 data-literacy agreement](<https://dailynews.gov.bw/news-detail/93566>).
 
-**Share published.** No source found since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [the one given above](<https://dailynews.gov.bw/news-detail/93566>).
+**Share published.** No source found since October 2023 gives the share of civil servants trained in digital skills. The nearest fact is [the 2026 data-literacy agreement](<https://dailynews.gov.bw/news-detail/93566>).
 
 ***Also on file***. None found.
 

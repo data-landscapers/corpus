@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-28-civ-digitalisation-des-services-publics-en-cote-d-ivoire-les-applications",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Ivoirexpress reports a capacity-building seminar for civil servants and state agents of the Hambol region opened on 22 June 2026, at which SNDI presented the state's digital applications.",
+   "as_of": "2026-06-22",
+   "date_precision": "day",
+   "system": "Hambol civil-servant capacity-building seminar",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
