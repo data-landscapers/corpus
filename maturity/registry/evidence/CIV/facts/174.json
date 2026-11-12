@@ -1,0 +1,56 @@
+{
+ "slug": "2024-08-11-civ-digitalisation-l-enregistrement-des-naissances-desormais-possible-depu",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "ONECI's Cityweb software lets a birth be registered digitally from the maternity ward, as announced on 10 August 2024.",
+   "as_of": "2024-08-10",
+   "date_precision": "day",
+   "system": "Cityweb",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "made",
+   "value": "connected",
+   "fact": "Interior Minister Vagondo Diomandé said 346 of the 690 civil-status centres were connected to the national Cityweb software.",
+   "as_of": "2024-08-10",
+   "date_precision": "day",
+   "system": "Cityweb",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "share:50.1%",
+   "fact": "Interior Minister Vagondo Diomandé said 346 of 690 civil-status centres were connected to Cityweb (238 of 490 sub-prefectures and 108 of 201 town halls), with rollout continuing to all.",
+   "as_of": "2024-08-10",
+   "date_precision": "day",
+   "system": "Cityweb",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "Cityweb is implemented by the national civil-status and identification office ONECI and presented by the Interior Minister.",
+   "as_of": "2024-08-10",
+   "date_precision": "day",
+   "system": "Cityweb",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cityweb",
+   "country_label": "Côte d'Ivoire",
+   "class": "civil",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": "sous-préfectures; mairies"
+  }
+ ],
+ "note": ""
+}

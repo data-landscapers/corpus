@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-01-civ-cote-d-ivoire-deploiement-du-logiciel-d-etat-civil-de-l-oneci-dans-le",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "count:43",
+   "fact": "ONECI's civil-status software is being rolled out to 43 civil-status centres in Cavally and Guémon (36 sub-prefectures, 7 town halls), per AIP.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Logiciel d'état civil de l'ONECI",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The European Union, through its technical unit CIVIPOL, finances the deployment of the civil-status software, per AIP.",
+   "as_of": "2025-10-01",
+   "date_precision": "day",
+   "system": "Logiciel d'état civil de l'ONECI",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Logiciel d'état civil de l'ONECI",
+   "country_label": "Côte d'Ivoire",
+   "class": "civil",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": "sous-préfectures and mairies"
+  }
+ ],
+ "note": ""
+}

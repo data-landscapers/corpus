@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-27-civ-cote-d-ivoire-le-logiciel-national-d-etat-civil-deploye-la-connectivit",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "ONECI, working with the digital transition ministry, runs the national civil-status software deployed in all civil-status centres, per its director general on 23 October 2026.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "National civil-status software",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National civil-status software",
+   "country_label": "Cote d'Ivoire",
+   "class": "civil",
+   "platform": "national central software",
+   "owner": "ONECI",
+   "tiers": "all civil-status centres"
+  }
+ ],
+ "note": ""
+}

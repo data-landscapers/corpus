@@ -1,0 +1,27 @@
+{
+ "slug": "2023-12-21-mdg-implementation-status-and-results-report-digital-governance-and-identi",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "The World Bank PRODIGY report says a pilot birth registration system registered over 3,000 newborns in Antananarivo and Toamasina.",
+   "as_of": "2023-10-23",
+   "date_precision": "day",
+   "system": "PRODIGY civil registration pilot",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "pilot",
+   "fact": "The World Bank PRODIGY report says pilot activities have started in several communes and 0% of civil registration entities had secure access to the civil registration database.",
+   "as_of": "2023-10-16",
+   "date_precision": "day",
+   "system": "PRODIGY civil registration pilot",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
