@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 14
-sources_cited: 382
+sources_cited: 383
 sections_written: 39
 not_established: 0
 acquire_lines: 63
@@ -241,7 +241,7 @@ Cybersecurity carries 19 external commitments on record, together about US$10.7 
 ### Rural digital data capture
 <!-- digital.rural -->
 
-[In 2018 births and deaths were registered on duplicate paper forms and digitised afterwards in bulk](https://apai-crvs.uneca.org/sites/default/files/resourcefiles/CRVS_KenyaSnapshot_e.pdf). [Police occurrence books were still due to go digital in May 2026](https://www.capitalfm.co.ke/news/2026/05/police-turn-to-technology-cctv-and-body-cameras-to-secure-2027-polls/). [The national interoperability pilot met limited local connectivity, non-digitised records and siloed manual systems](https://cyber.ee/resources/case-studies/cybernetica-piloted-an-interoperability-platform-to-improve-and-optimise-digital-public-services-in-kenya/). [Mobile signal reached almost the whole population in 2025](https://www.ca.go.ke/sites/default/files/2026-07/Annual%20Report%20FY%202024-2025.pdf). [In 2024 only 51 per cent of rural households were connected to the grid](https://www.afrobarometer.org/wp-content/uploads/2024/11/AD892-Kenyans-applaud-electricity-provision-but-rural-and-poor-lack-access-Afrobarometer-31oct24.pdf).
+[In 2018 births and deaths were registered on duplicate paper forms and digitised afterwards in bulk](https://apai-crvs.uneca.org/sites/default/files/resourcefiles/CRVS_KenyaSnapshot_e.pdf). [In March 2026 police had digitised the occurrence book in several Eldoret stations](https://www.the-star.co.ke/counties/rift-valley/2026-03-12-eldoret-police-shift-to-digital-ob-system-to-boost-crime-reporting). [Nationally, occurrence books were still due to go digital in May 2026](https://www.capitalfm.co.ke/news/2026/05/police-turn-to-technology-cctv-and-body-cameras-to-secure-2027-polls/). [The national interoperability pilot met limited local connectivity, non-digitised records and siloed manual systems](https://cyber.ee/resources/case-studies/cybernetica-piloted-an-interoperability-platform-to-improve-and-optimise-digital-public-services-in-kenya/). [Mobile signal reached almost the whole population in 2025](https://www.ca.go.ke/sites/default/files/2026-07/Annual%20Report%20FY%202024-2025.pdf). [In 2024 only 51 per cent of rural households were connected to the grid](https://www.afrobarometer.org/wp-content/uploads/2024/11/AD892-Kenyans-applaud-electricity-provision-but-rural-and-poor-lack-access-Afrobarometer-31oct24.pdf).
 
 [InfraCo Africa invested US$6 million in Mawingu Networks in 2023](https://infracoafrica.com/project/mawingu/). The company runs fixed wireless broadband to rural households, schools and clinics from solar-powered towers. [In 2016 OPIC had lent it US$4.1 million alongside Microsoft to deploy TV white space](https://ewsdata.rightsindevelopment.org/files/documents/rk/DFC-2016-mawingunetwork.pdf). [In November 2026 Namelok Wireless launched a community network at Kimuka for schools, government offices, clinics and small businesses](https://techafricanews.com/2026/11/04/namelok-wireless-launches-community-internet-network-in-kimuka-kenya/), publishing no coverage or price figures.
 
