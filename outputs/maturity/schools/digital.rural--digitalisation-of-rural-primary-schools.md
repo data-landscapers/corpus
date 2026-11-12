@@ -103,6 +103,8 @@ A per-pupil record has covered all 976 primary and secondary schools since March
 
 Schools record each pupil in a national register, scaled up from 200 pilot schools in 2021; no source says how many primary schools enter data.
 
+*Advancing.*
+
 - DHIS2 for Education's country page says the ministry scaled the individual learner module to national level in 2021 and launched the individual student identification number, giving no count or share of schools ([source, 2021](https://education.dhis2.org/implementation/the-gambia/)).
 - DHIS2's impact story says the learner census with the Gambia Bureau of Statistics collected individual-level data on children attending primary schools, and that efforts continue to expand the system to all basic and secondary schools; no date is given, so the publication date is used ([source, 2022-10-06](https://dhis2.org/gambia-emis-tracker/)).
 - DHIS2 reports that schools record each learner's socio-economic background, attendance and progression in the ministry's digital student registry under a unique ID, and that modules for daily attendance and exam results feed the Education Data Centre; the page is undated, so its published date is used ([source, 2025-08](https://education.dhis2.org/gambia-modernizing-education-data-kix-knowledge-cafe/)).

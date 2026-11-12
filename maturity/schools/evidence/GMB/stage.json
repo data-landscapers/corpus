@@ -7,13 +7,14 @@
       "governance": "owner:ministry;plan:current",
       "levels": "P",
       "kept": "routine",
-      "last12": "",
+      "last12": "advancing",
       "schools": "not-published",
       "cap": "",
-      "flags": "",
+      "flags": "advancing",
       "stage_sources": "GMB-009;GMB-012;GMB-025;GMB-026",
-      "gaps": "No count or share of primary schools entering data is published: the one figure, nearly 80% of learners in the registry (GMB-026, August 2025), is a share of learners. The sources disagree on pilot or live: the learner register is said to be scaled nationally since 2021, while GPE KIX in October 2025 (GMB-019) and DHIS2 in September 2024 (GMB-029) still call the SEMIS app a pilot; the register's value is written here, and the newest dated fact reads pilot. Level is named only in 2022. Finance is not stated within the 36 months, and no dated event falls in the last twelve. GMB-001 to GMB-004 are from the excluded source and set nothing.",
-      "note": "The ministry's learner register was scaled past its 200-school pilot to national level in 2021 and schools record learners in it, with attendance and results modules described: stage 3. Stage 4 needs more than half of primary schools entering attendance or results on a share or a count with its total, and none is published."
+      "gaps": "No count or share of primary schools entering data is published: the one figure, nearly 80% of learners in the registry (GMB-026, August 2025), is a share of learners. The sources disagree on pilot or live: the learner register is said to be national since 2021, while GPE KIX in October 2025 (GMB-019) still calls SEMIS a pilot. Level is named only in 2022. Finance is not stated within the 36 months. GMB-001 to GMB-004 are from the excluded source and set nothing.",
+      "note": "Stage 4c 2026-11-12: the ministry's learner register is past its pilot and schools record learners in it, with attendance and results modules: stage 3, unchanged; no share or count of primary schools entering data is published, so not 4. The public Education Data Center launched in September 2026 sets last twelve months to advancing.",
+      "as_at": "2026-11-12"
     }
   ]
 }

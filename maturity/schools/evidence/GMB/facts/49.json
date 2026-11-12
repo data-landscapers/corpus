@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-02-gmb-the-gambia-launches-education-data-center-to-publicly-share-education-data",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The report says the Ministry of Basic and Secondary Education implements the DHIS2-based EMIS, begun in 2018.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "DHIS2-based education management information system (EMIS)",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "kept",
+   "value": "routine",
+   "fact": "The report says daily attendance reporting and individual-level learner records were added to the ministry's DHIS2-based EMIS; it does not say at which schools or levels.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "DHIS2-based education management information system (EMIS)",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "DHIS2 reports that the Ministry of Basic and Secondary Education launched its Education Data Center, a public DHIS2 portal consolidating the annual school census, attendance reporting and other sources, with an early warning system for drop-out risk being built on it.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "Education Data Center (DHIS2)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2-based education management information system (EMIS)",
+   "country_label": "EMIS (DHIS2)",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Basic and Secondary Education",
+   "tiers": ""
+  },
+  {
+   "system": "Annual school census and Statistical Yearbook",
+   "country_label": "Statistical Yearbook",
+   "class": "census",
+   "platform": "",
+   "owner": "Ministry of Basic and Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Last-twelve-months fact added by the parent, stage 4c 2026-11-12, from the same document."
+}
