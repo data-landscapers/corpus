@@ -203,3 +203,68 @@ wdi,SE.TER.ENRR,,stemgraduates,theirs-broader,Tertiary enrolment of every discip
 wdi,GB.XPD.RSDV.GD.ZS,,,none,R&D spending as a share of GDP; no indicator of ours.
 wdi,SP.POP.SCIE.RD.P6,,,none,Researchers in R&D per million; no indicator of ours.
 wdi,SE.ADT.LITR.ZS,,,none,Adult literacy; digitalskills measures digital skills rather than literacy.
+dpimap,identity.claim,,,none,"Whether the country calls its ID digital or electronic; a claim of naming, not a rung of ours."
+dpimap,identity.biometrics,,idrobustness,partial,Biometric collection only; ours needs biometric deduplication with assurance levels and audit at rung 4.
+dpimap,identity.status,,idrobustness,partial,"Planned/piloted or implemented maps to our rungs 2 and 3; rung 4 needs assurance and audit, which theirs does not test."
+dpimap,identity.id_act,,digitalidlaw,theirs-broader,"Any ID, civil-registration or vital-statistics act counts; ours needs a law establishing the ID system or its authority."
+dpimap,identity.regulation,,digitalidlaw,partial,"A regulation or policy on digital ID; a policy counts, so a Yes may sit below our rung 3."
+dpimap,identity.digital_auth,,authentication,partial,A yes/no authentication response exists; ours separates one channel (3) from many with usage (4).
+dpimap,identity.kyc,,idverification,partial,ID-based KYC enabled; ours puts one or two systems using the ID at rung 3 and a verification service across sectors at 4.
+dpimap,identity.gov_portal_auth,,authentication,partial,"A government portal authenticating with the ID: one channel, our rung 3."
+dpimap,identity.legal_status,,digitalidlaw,partial,The regulation gives the digital ID legal validity; one element of our rungs 4 and 5.
+dpimap,identity.governing_entity,,digitalidlaw,partial,Names the managing institution; ours asks for an authority with a mandate in law.
+dpimap,identity.legal_redress,,digitalidlaw,partial,"Theirs separates legally binding redress from a customer-service desk, which ours does not; ours asks for grievance provisions applied in practice (rung 4)."
+dpimap,identity.storage_sharing_terms,,digitalidlaw,partial,"Rules on collecting, storing and sharing ID data in the ID regulation; part of our rung 4's data-protection provisions."
+dpimap,identity.data_protection_act,,dataprotectionlaw,partial,"A data protection act present; ours separates enacted (3), in force with an authority (4) and enforced."
+dpimap,identity.enrolment_rules,,digitalidlaw,partial,Enrolment and issuing rules in the ID regulation; part of our rung 4 (right to enrol).
+dpimap,identity.data_leak_disclosure,,dataprotectionlaw,partial,Breach notification in the data protection act; a provision our ladder does not test.
+dpimap,identity.data_handling_terms,,digitalidlaw,partial,"Data subjects' access, correction and deletion of ID data; part of our rung 4's data-protection provisions."
+dpimap,identity.feeder_documents,,birthidlink,partial,The ID law's use of feeder documents such as birth certificates; ours asks for an operating link from birth registration to the ID.
+dpimap,identity.sectoral_use_cases,,idverification,same,Used by institutions beyond the ID manager in more than one sector: our rung 3 to 4.
+dpimap,identity.funders,,,none,Funders named; no indicator of ours.
+dpimap,identity.technical_support,,,none,"The vendor named (Thales, IDEMIA); no indicator of ours, nearest digitalsovereignty."
+dpimap,payment.realtime_active,,retailpayments,partial,An instant payment system in operation; ours is retail services and their interoperability.
+dpimap,payment.system_type,,retailpayments,partial,"Interbank, mobile money, cross-domain, card or CBDC; a cross-domain system is our rung 4 interoperability."
+dpimap,payment.status,,retailpayments,partial,The system planned/piloted or live: evidence for our rungs 2 and 3.
+dpimap,payment.national_regional,,crossborderpayments,partial,A regional deployment; ours rung 4 is participation in a regional system.
+dpimap,payment.cross_border,,crossborderpayments,partial,Real-time cross-border in any of the country's systems; ours separates bilateral corridors (3) from a regional system (4).
+dpimap,payment.interoperability_policy,,paymentslaw,partial,"Interoperability between banks and non-banks a stated goal in an act, policy or strategy; ours rung 4 needs rules or a mandate in force."
+dpimap,payment.transaction_types,,retailpayments,partial,"P2P, P2B and the like supported by the system."
+dpimap,payment.transaction_types,,g2ppayments,partial,G2P listed as supported by the system; ours asks for programmes actually paying through it.
+dpimap,payment.transaction_types,,businesspayments,partial,B2B or B2G listed as supported; ours asks for interbank business payments and e-procurement in service.
+dpimap,payment.clearing_infrastructure,,retailpayments,partial,"RTGS, ACH or switch; a switch is our rung 4's provider interoperability."
+dpimap,payment.settlement_method,,,none,"Gross, hybrid or net settlement; no indicator of ours."
+dpimap,payment.operator,,centralbank,partial,The central bank operating the system; ours rung 4 is operating or overseeing a national switch.
+dpimap,payment.bank_participation,,retailpayments,partial,Banks admitted as participants.
+dpimap,payment.nonbank_participation,,retailpayments,partial,"Non-banks admitted: interoperability across e-money and bank accounts, our rungs 4 and 5."
+dpimap,payment.participation_rules,,centralbank,partial,Participation rules published; ours asks for published oversight at rung 4.
+dpimap,payment.number_of_participants,,retailpayments,partial,"Participants with the year; a count, not a rung."
+dpimap,payment.annual_value_usd,,retailpayments,partial,"Annual value with the year: usage reported, our rung 5."
+dpimap,payment.annual_volume,,retailpayments,partial,"Annual volume with the year: usage reported, our rung 5."
+dpimap,payment.data_handling_rules,,consumerprotection,partial,Personal-data rules for the payment system; one of our four dimensions.
+dpimap,payment.reporting_forum,,consumerprotection,partial,A dispute process for the system; ours rung 4 needs a redress mechanism operating with decisions or statistics.
+dpimap,payment.aml_law,,paymentslaw,partial,An AML law codified (from UNODC SHERLOC); ours rung 5 asks for AML/CFT embedded in the payments framework.
+dpimap,payment.transaction_cost,,retailpayments,partial,Fees to users; ours rung 5 asks for low-cost channels.
+dpimap,payment.qr_code,,retailpayments,partial,"QR payments in the system: merchant acceptance, part of our rung 4."
+dpimap,exchange.status,,dataexchange,same,Planned/piloted or implemented are our rungs 2 and 3; scale (rung 4) is in the member and transaction counts.
+dpimap,exchange.architecture,,dataexchange,partial,"The platform named (X-Road, ESB, API gateway): evidence a platform exists, not of scale."
+dpimap,exchange.national_regional,,,none,National or regional deployment.
+dpimap,exchange.sectoral,,dataexchange,partial,"A sectoral exchange (health, trade) is not our national layer; cross-sectoral is."
+dpimap,exchange.interoperability_level,,interoperabilitystandards,partial,Syntactic or semantic standards published for the exchange; ours asks for national standards for government systems.
+dpimap,exchange.realtime_sharing,,dataexchange,partial,Real-time sharing documented; not a rung of ours.
+dpimap,exchange.scalable_architecture,,,none,Scalability claimed in documentation; no rung of ours.
+dpimap,exchange.governing_entity,,dataexchange,partial,The governing body named: the custodian of our rung 4.
+dpimap,exchange.ownership,,dataexchange,partial,"Public, private or joint ownership; ours does not test it."
+dpimap,exchange.enrolment_info,,dataexchange,same,Published conditions of access: the element our rung 4 asks for.
+dpimap,exchange.permitted_participants,,dataexchange,partial,Private-sector or civil access: an element of our rung 5.
+dpimap,exchange.audit_mechanism,,dataexchange,partial,Audit logs or transaction tracking; ours does not test it.
+dpimap,exchange.data_management_rules,,interoperabilitylaw,partial,"Access, usage and protection rules for the exchange; ours rung 4 asks for implementing acts with obligations and a custodian."
+dpimap,exchange.coordination_unit,,interoperability,partial,A unit coordinating exchange across government: the custodian body of our rung 4.
+dpimap,exchange.multiple_public_entities,,dataexchange,partial,Used by more than one public body: our rung 3; rung 4 needs tens of members.
+dpimap,exchange.impact_metrics,,dataexchange,partial,Usage published: an element of our rung 4.
+dpimap,exchange.formal_mandate,,interoperabilitylaw,partial,"Theirs needs an instrument that both authorises sharing and sets standards; their No is a partial instrument, which can be our rung 3."
+dpimap,exchange.once_only_principle,,interoperabilitylaw,partial,Once-only in policy; nearest is our rung 4's register-reuse rules. Theirs names the purpose ours leaves implicit.
+dpimap,exchange.personal_data_protection,,dataprotectionlaw,partial,"An enforced data protection law, or an independent grievance route; ours separates enacted from enforced."
+dpimap,exchange.independent_audit,,,none,A duty of periodic independent audit of the exchange; no rung of ours.
+dpimap,exchange.number_of_transactions,,dataexchange,partial,Annual transactions from the system's dashboard: our rung 4's published volumes.
+dpimap,exchange.number_of_members,,dataexchange,partial,Members on the exchange: our rung 4 asks for tens.

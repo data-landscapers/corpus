@@ -482,7 +482,87 @@ def adapt_wdi(d, edition, release) -> list[dict]:
     return out
 
 
-FETCHERS = {"odin": fetch_odin, "itu": fetch_itu, "wdi": fetch_wdi}
+def fetch_datapackage(sid: str) -> list[tuple[str, bytes]]:
+    """A Frictionless Data Package: `download_url` is the package (a `latest` alias may redirect
+    to the dated release), and every resource it lists is fetched beside it, relative to where
+    the package resolved. Kept as fetched; the package's `version` is the release."""
+    import json  # noqa: PLC0415
+    h = {"User-Agent": ss.UA}
+    r = requests.get(source(sid)["download_url"], headers=h, timeout=120)
+    r.raise_for_status()
+    got = [("datapackage.json", r.content)]
+    for res in json.loads(r.content)["resources"]:
+        path = res["path"]
+        name = up.urlsplit(path).path.rsplit("/", 1)[-1]
+        if not re.fullmatch(r"[\w.-]+", name) or name == "datapackage.json":
+            sys.exit(f"{sid}: resource path {path!r} is not a plain file name")
+        f = requests.get(up.urljoin(r.url, path), headers=h, timeout=120)
+        f.raise_for_status()
+        got.append((name, f.content))
+    return got
+
+
+def package_release(got: list[tuple[str, bytes]]) -> str:
+    import json  # noqa: PLC0415
+    body = dict(got).get("datapackage.json")
+    v = str(json.loads(body).get("version", "")) if body else ""
+    return v if re.fullmatch(r"\d{4}-\d{2}-\d{2}", v) else ""
+
+
+# DPI Map fields that are not claims: the row's keys and DPI Map's own verdict on whether the
+# system counts as DPI-like, which is their judgement on their ladder (Bill, 2026-11-10).
+DPIMAP_SKIP = {"system_id", "country", "iso3", "last_updated", "count_for_dpi", "name", "url"}
+
+
+def adapt_dpimap(d, edition, release) -> list[dict]:
+    """UCL IIPP's DPI Map: one claim per system and field with an answer. The package's schema
+    gives each field's title and definition and each answer's meaning: a `No` on `formal_mandate`
+    is a partial instrument, not none, so the label travels with the answer. `NA` is the
+    package's own "not researched yet" and is dropped. Regional systems in Africa are XAF."""
+    import json  # noqa: PLC0415
+    pkg = json.loads((d / "datapackage.json").read_text(encoding="utf-8"))
+    missing = {"NA", ""}
+    ours = {r["iso-3"] for r in rows(COUNTRIES)}
+    m, out = mapping("dpimap"), []
+    for res in pkg["resources"]:
+        if res.get("format") != "json":
+            continue
+        schema = res["schema"]
+        missing |= {str(v["value"] if isinstance(v, dict) else v) for v in schema.get("missingValues", [])}
+        fields = [f for f in schema["fields"] if f["name"] not in DPIMAP_SKIP]
+        records = json.loads((d / up.urlsplit(res["path"]).path.rsplit("/", 1)[-1]).read_text(encoding="utf-8"))
+        for rec in records:
+            iso = rec.get("iso3", "")
+            if iso not in ours:
+                if not re.match(r"[a-z]+-africa-\d+$", rec.get("system_id", "")):
+                    continue
+                iso = "XAF"
+            checked = rec.get("last_updated", "")
+            for f in fields:
+                # Some answers keep the line wraps of the page they were copied from.
+                v = re.sub(r"\s+", " ", clean_value(rec.get(f["name"])))
+                if v in missing:
+                    continue
+                labels = {str(c.get("value")): c.get("label", "") for c in f.get("categories") or []}
+                label = re.sub(r"\s+", " ", labels.get(v, "")).strip()
+                status = f"{v} ({label})" if label else v
+                # Counts are recorded "2024- 9": the year is the figure's own.
+                year = re.match(r"((?:19|20)\d{2})\s*-\s", v)
+                desc = re.sub(r"\s+", " ", f.get("description") or "").strip()
+                first = re.split(r"(?<=[a-z0-9)])\.\s", desc, maxsplit=1)[0].rstrip(".")
+                item = f"{res['name']}.{f['name']}"
+                st, fit = studies_for(m, [item])
+                out.append({
+                    "source": "dpimap", "edition": edition, "survey_year": "", "iso3": iso,
+                    "item": item, "question": f"{f.get('title') or f['name']}: {first}" if first else f.get("title", ""),
+                    "status": f"{status}; checked {checked}" if checked else status,
+                    "name": re.sub(r"\s+", " ", clean_value(rec.get("name"))), "year": year[1] if year else "",
+                    "url": clean_value(rec.get("url")), "documents": "",
+                    "basis": "publisher-compiled", "studies": st, "fit": fit})
+    return out
+
+
+FETCHERS = {"odin": fetch_odin, "itu": fetch_itu, "wdi": fetch_wdi, "dpimap": fetch_datapackage}
 
 
 # SPI's metadata labels 17 of its 53 codes; these are the unlabelled ones a study reads.
@@ -575,7 +655,7 @@ def adapt_odin(d, edition, release) -> list[dict]:
 
 
 ADAPTERS = {"aftech": adapt_aftech, "gtmi": adapt_gtmi, "unctad": adapt_unctad, "odin": adapt_odin,
-            "itu": adapt_itu, "spi": adapt_spi, "wdi": adapt_wdi}
+            "itu": adapt_itu, "spi": adapt_spi, "wdi": adapt_wdi, "dpimap": adapt_dpimap}
 
 
 # --- fetch and claims ------------------------------------------------------------------------
@@ -603,8 +683,8 @@ def cmd_fetch(sid: str) -> int:
     (d / "sha256").write_text(digest + "\n")
     # The register's `release` is the publisher's date; a server's Last-Modified is when the file
     # was copied (GTMI's Dec 2025 file read 2026-10-19), so it is never used. Without a release,
-    # the fetch date: late, never early.
-    release = s["release"] or today
+    # the fetch date: late, never early. A data package states its own release as its version.
+    release = package_release(got) or s["release"] or today
     (d / "release").write_text(release + "\n")
     print(f"{sid}: edition {today}, release {release}, {sum(len(c) for _, c in got):,} bytes")
     return 0

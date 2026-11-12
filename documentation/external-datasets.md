@@ -2,8 +2,8 @@
 type: design-note
 reader: cc
 title: external-datasets.md — global databases as claims, not scores
-last_reviewed: 2026-11-10
-status: built for aftech, gtmi, unctad, odin, itu, spi and wdi; maturity pass run 2026-11-11
+last_reviewed: 2026-11-12
+status: built for aftech, gtmi, unctad, odin, itu, spi, wdi and dpimap; maturity pass run 2026-11-11, dpimap's owed (CORPUS housekeeping 63)
 ---
 
 # External datasets
@@ -30,6 +30,7 @@ Both come down to the same thing, a **claim**: one statement about one country, 
 - GTMI's composites, and the five UN and ITU indices it carries;
 - the points ITU gives each answer;
 - SPI's own composites (only the codes the lookup maps are kept);
+- DPI Map's `count_for_dpi`, its own verdict that a system passes its DPI test;
 - the UN e-government indices. With those gone, the UN E-Government Survey left only portal URLs and a few questionnaires, so it was dropped the same day.
 
 A figure we want goes through `reference/measures.csv` like any other.
@@ -76,6 +77,7 @@ The first reading, on 2026-11-10, found three patterns:
   - World Bank WDI (the same day), from the World Bank API rather than the `datasets/` GitHub scrape of it, which is stale. 1,548 claims from 21 series and 12 country facts, listed in `lookups/external-items.csv`, from which the fetch reads its selection. The facts include the latest census and survey and the IMF dissemination standard. Infrastructure: mobile, fixed broadband and fixed-line subscriptions, secure servers, urban and total electricity access, grid losses, consumption, renewable share and firms' outages. WDI carries no network coverage, and its bandwidth series ended in 2011.
     - **Values from 2024 on, unless one is a baseline** *(Bill, 2026-11-10)*. Where a country has none from 2024 on, its latest earlier value stays, and the fetch keeps 2010 on so the cut-off can move. Its `shape` is `series`: the record is each country's latest value of each item.
     - Not selected: the series a measure already reads (internet use and its sex split, rural electricity, account ownership, ICT service exports, GDP, population, GNI), which go through `reference/measures.csv`. Also left out: indices such as CPIA, SPI and liner connectivity, and Doing Business, discontinued in 2021.
+  - UCL IIPP's DPI Map (2026-11-12): named digital ID, payment and data-exchange systems, 173 African rows with 20-25 observed fields each, 1,843 claims across 17 studies. It publishes a Frictionless data package, so `fetch_datapackage` reads `datapackage.json` and every resource it lists, and the package's `version` is the release. The schema gives each field's definition and each answer's meaning, and the meaning travels with the answer: an exchange's `formal_mandate` "No" is an instrument that authorises sharing or sets standards but not both, which can be our rung 3. `NA` is the package's own "not researched yet" and is dropped. No field carries an evidence link, so nothing is staged but the record. Each claim's status ends with the date DPI Map last checked the system. Its `frameworkIndicator`, the rung on DPI Map's ladder each field feeds, set the fits.
   - A register's year is the instrument's own and dates it first; an upload path or a PDF's metadata dated Ghana's 2008 Act 2026. Carnegie's batches went out before this rule, so 91 of them carry their path date, marked `proxy`.
   - A GTMI year answer dates the system, never a page: a treasury's founding year once dated its 2025 newsletter 1990. A GTMI document is dated by its path or its own metadata; a Carnegie row's year is the instrument's own.
   - Most unfetchable links are 404s with no Wayback capture. They stay as claims. `stage --retry` fetches the transient failures again.
@@ -98,4 +100,4 @@ The first reading, on 2026-11-10, found three patterns:
 - **A "yes" must link the thing asked about.** A statistics office, a third-party platform or a home page does not count.
 - **A mapping marked `partial` is read against the ladder.** ITU's regulator duty to consult is not a consultation held. GovTech's pensions system is not social assistance.
 
-**More sources.** Each source needs one adapter, one register row and a block of mappings.
+**More sources.** Each source needs one adapter, one register row and a block of mappings. Look for a `datapackage.json` first: where a publisher has one, `fetch_datapackage` is the fetcher and the schema is the codebook.

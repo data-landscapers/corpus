@@ -128,14 +128,21 @@ def front(path: str) -> dict:
 
 def order() -> int:
     by = collections.Counter()
+    ids = collections.defaultdict(set)
     for c in rows(CLAIMS):
         if c["fit"] != "none" and c["studies"]:
+            cid = claim_id(c)
             for s in c["studies"].split(";"):
                 by[s] += 1
+                ids[s].add(cid)
     for sid, n in by.most_common():
         led = read_ledger(sid)
         tally = collections.Counter(r["outcome"] for r in led.values())
-        state = "not planned" if not led else ("done" if not tally["open"] else f"{tally['open']} open")
+        # A claim a later fetch added is in no ledger yet: the study is not done until it is
+        # planned (a source added after the first pass, dpimap 2026-11-12).
+        new = len(ids[sid] - set(led))
+        state = "not planned" if not led else (
+            "done" if not tally["open"] and not new else f"{tally['open']} open, {new} not planned")
         print(f"{sid:28} {n:6} claims  {state}  {dict(tally) if led else ''}")
     return 0
 
