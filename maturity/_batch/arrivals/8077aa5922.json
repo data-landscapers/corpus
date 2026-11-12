@@ -1,0 +1,5 @@
+{"slug": "2024-07-07-lbr-lra-real-estate-expansion-project-nets-over-20-000-registered-properti", "studies": {
+"egovservices": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document states nothing on online government services."}}},
+"localgov": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document states nothing on local office connections."}}},
+"localrecords": {"countries": {"LBR": {"facts": [], "systems": [{"system": "LRA real estate decentralization project", "country_label": "Liberia (Margibi and Grand Bassa)", "class": "other", "platform": "", "owner": "Liberia Revenue Authority", "tiers": "central, pilot in two counties"}], "note": "The central revenue authority registers properties and issues tax numbers in a pilot, shared with local authorities by law; no local government record stated."}}}
+}}

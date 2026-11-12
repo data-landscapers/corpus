@@ -1,0 +1,24 @@
+{
+  "slug": "2024-05-06-rwa-ijambo-rya-nyakubahwa-dr-faustin-ntezilyayo-perezida-w-urukiko-rw-ikir",
+  "studies": {
+    "authentication": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on identity authentication."}}},
+    "birthidlink": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+    "idcoverage": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on ID coverage."}}},
+    "idfrombirth": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+    "idmaintenance": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+    "idregisters": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+    "idrobustness": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+    "justice": {"countries": {"RWA": {
+      "facts": [
+        {"sub_indicator": "justice", "aspect": "cases", "value": "inservice", "fact": "The Chief Justice says the Integrated Electronic Case Management System (IECMS), introduced in 2016 after earlier electronic filing and record systems, is in use and manages cases from filing to judgment.", "as_of": "2024-05-06", "date_precision": "day", "system": "Integrated Electronic Case Management System (IECMS)", "class": "justice"}
+      ],
+      "systems": [
+        {"system": "Integrated Electronic Case Management System (IECMS)", "country_label": "Rwanda", "class": "justice", "platform": "", "owner": "Judiciary of Rwanda", "tiers": ""},
+        {"system": "Judicial Performance Management System (JPMS)", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "Judiciary of Rwanda", "tiers": ""}
+      ],
+      "note": "Online filing is mentioned only as an earlier system, with no statement that it is in service now; no public lookup of judgments or case status stated."}}},
+    "police": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on police records."}}},
+    "revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees."}}},
+    "taxadmin": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on tax filing or payment."}}}
+  }
+}

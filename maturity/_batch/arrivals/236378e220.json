@@ -1,0 +1,12 @@
+{"slug": "2024-01-02-nga-introduction-of-automated-e-ticketing-system-for-revenue-collection-an", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Nigeria."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Nigeria."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Nigeria."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Nigeria."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Nigeria."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NIN is only required of revenue agents; no public register is stated as keyed on it."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Nigeria."}}},
+"localgov": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document states nothing on local government office connection."}}},
+"localrecords": {"countries": {"NGA": {"facts": [], "systems": [{"system": "Ibeju-Lekki Revenue and E-ticketing App", "country_label": "Nigeria", "class": "revenue", "platform": "Android app", "owner": "Ibeju-Lekki Local Government", "tiers": ""}], "note": "The e-ticketing system is announced as about to be introduced; no pilot, use or record is stated."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only a local government's announced e-ticketing for local levies; no state tax or fee payment in service, piloted or contracted."}}}
+}}

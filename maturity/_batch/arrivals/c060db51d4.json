@@ -1,0 +1,7 @@
+{"slug": "2025-11-17-nam-revenue-agency-launches-customer-service-system", "studies": {
+"itcapacity": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "Namibia Business Review reports that the Namibia Revenue Agency launched its Onyofi customer service system on 17 November 2025, developed internally by its own application developer, with 1,443 registered officials and 11 service points.", "as_of": "2025-11-17", "date_precision": "day", "system": "Onyofi", "class": "staff"}
+], "systems": [
+{"system": "Onyofi", "country_label": "Onyofi", "class": "staff", "platform": "", "owner": "Namibia Revenue Agency", "tiers": ""}
+], "note": ""}}}
+}}

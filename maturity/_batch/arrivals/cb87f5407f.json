@@ -1,0 +1,5 @@
+{"slug": "2025-08-30-sdn-almndra-land-registrar-circular-record-matching", "studies": {
+"landregister": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "Almndra News reports that the Sudan Registrar General of Lands ordered land registry offices to check that the paper record matches the current electronic record before issuing search certificates.", "as_of": "2025-08-30", "date_precision": "day", "system": "Land registry electronic record", "class": "land"}
+], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,15 @@
+{"slug": "2026-02-18-zaf-frj-credit-risk-affordability-digital-credit", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The article discusses algorithmic fairness in credit models but states no AI rule, draft or authority."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government body's AI use is stated."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No public sector system using AI is stated; lenders' machine-learning underwriting is private."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI model, dataset or compute built in the country is stated."}}},
+"businesspayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on a central bank payments mandate; the Prudential Authority and NCR are not payment overseers here."}}},
+"consumerprotection": {"countries": {"ZAF": {"facts": [{"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "The article (Magolego, Financial Regulation Journal, 2026-02-18) states that the National Credit Act affordability assessment, sections 81 and 82 read with Regulation 23A, is a conduct and consumer protection requirement applying to credit providers including digital lenders, with debt review and reckless lending findings as remedies.", "as_of": "2026-02-18", "date_precision": "day", "system": "National Credit Act affordability assessment", "class": "protection"}], "systems": [{"system": "National Credit Act affordability assessment (ss 81-82, Regulation 23A)", "country_label": "National Credit Act affordability assessment", "class": "protection", "platform": "", "owner": "National Credit Regulator", "tiers": ""}], "note": ""}}},
+"crossborderpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on a data protection law; the article concerns credit regulation."}}},
+"g2ppayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."}}},
+"retailpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payment services."}}},
+"revenuecollection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

@@ -1,0 +1,16 @@
+{"slug": "2025-06-03-mar-morocco-boom-in-data-centers", "studies": {
+"businesspayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"MAR": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Global Finance Magazine reports Morocco has 23 data centres, most owned by telecom companies such as Maroc Telecom and Inwi or by operators such as Medasys and N+One, with smaller banks leasing data storage space.", "as_of": "2025-06", "date_precision": "month", "system": "Moroccan data centres", "class": "datacentre"}], "systems": [{"system": "N+One Datacenters", "country_label": "Morocco", "class": "datacentre", "platform": "", "owner": "N+One", "tiers": ""}, {"system": "Medasys data centre", "country_label": "Morocco", "class": "datacentre", "platform": "", "owner": "Medasys", "tiers": ""}], "note": ""}}},
+"datalocalisation": {"countries": {"MAR": {"facts": [{"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Global Finance Magazine says a 2021 law ordered all sensitive data to be hosted within Morocco's borders, which led to data repatriation.", "as_of": "2021", "date_precision": "year", "system": "2021 law on hosting of sensitive data", "class": "rule"}], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The 2021 law is on sensitive data in general; government data is not named."}}},
+"egovservices": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Digital Morocco 2030 is only mentioned as shown at an expo; no service is stated."}}},
+"g2ppayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"internetusage": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No internet usage figure; urban penetration is called full without a number."}}},
+"nationaldatacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Owners are named but their nationality is not stated, and no hosting of state data is stated."}}},
+"paymentsuptake": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+"retailpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}}
+}}

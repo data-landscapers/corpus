@@ -1,0 +1,10 @@
+{"slug": "2026-08-12-ben-how-did-you-manage-to-connect-an-entire-state", "studies": {
+"dataexchange": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "An ASIN staff member writes that Benin's X-Road exchange platform, adopted through UXP, launched in March 2020 with three registers and now connects 183 information systems.", "as_of": "2026-08", "date_precision": "month", "system": "XROAD BJ", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "The same post gives the public counters at xroad.bj as 74 members and 515 services, with 183 information systems connected.", "as_of": "2026-08-12", "date_precision": "day", "system": "XROAD BJ", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "usage", "value": "reported", "fact": "The post reports more than one million requests a day through the platform.", "as_of": "2026-08-12", "date_precision": "day", "system": "XROAD BJ", "class": "exchange"}
+], "systems": [{"system": "XROAD BJ", "country_label": "Benin", "class": "exchange", "platform": "X-Road via UXP", "owner": "ASIN", "tiers": ""}], "note": ""}}},
+"itcapacity": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "An ASIN staff member writes that every international partner works with a Beninese company and ASIN teams, which makes ASIN autonomous in running the national X-Road interoperability platform linking 74 members; the platform was adopted through UXP rather than built in-house.", "as_of": "2026-08", "date_precision": "month", "system": "XROAD BJ", "class": "staff"}
+], "systems": [{"system": "XROAD BJ", "country_label": "XROAD BJ", "class": "staff", "platform": "X-Road via UXP", "owner": "ASIN", "tiers": ""}], "note": ""}}}
+}}

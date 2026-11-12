@@ -1,5 +1,11 @@
-{"slug": "2025-12-17-som-dpa-consultative-meeting-national-digital-interoperability-framework", "studies": {
-"dataprotectionauthority": {"countries": {"SOM": {"facts": [{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Somali Data Protection Authority's Director General Mohamed Nur Olow took part in a consultative meeting on the national interoperability framework and urged anchoring it on data protection.", "as_of": "2025-12-17", "date_precision": "day", "system": "Somali Data Protection Authority", "class": "authority"}], "systems": [], "note": ""}}},
-"dataprotectionlaw": {"countries": {"SOM": {"facts": [{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Somali Data Protection Authority is headed by Director General Eng. Mohamed Nur Olow, who acted for it at the 2025 meeting; the document names no law.", "as_of": "2025-12-17", "date_precision": "day", "system": "Somali Data Protection Authority", "class": "general"}], "systems": [], "note": ""}}},
-"interoperability": {"countries": {"SOM": {"facts": [{"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "The Ministry of Communications and Technology held a consultative meeting on the Zero Draft of the National Framework for Digital Interoperability and Integration, with the Office of the Prime Minister and ministries present.", "as_of": "2025-12-17", "date_precision": "day", "system": "National Framework for Digital Interoperability and Integration", "class": "framework"}], "systems": [], "note": ""}}}
-}}
+{
+  "slug": "2025-12-17-som-dpa-consultative-meeting-national-digital-interoperability-framework",
+  "studies": {
+    "interoperabilitystandards": {"countries": {"SOM": {
+      "facts": [],
+      "systems": [
+        {"system": "National Framework for Digital Interoperability and Integration (Zero Draft)", "country_label": "Somalia", "class": "other", "platform": "", "owner": "Ministry of Communications and Technology", "tiers": ""}
+      ],
+      "note": "A zero draft interoperability framework was consulted on, but the document does not say it sets technical standards for exchanging data."}}}
+  }
+}

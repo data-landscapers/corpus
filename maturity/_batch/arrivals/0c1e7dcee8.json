@@ -1,0 +1,4 @@
+{"slug": "2024-01-01-swz-ebc-elections-and-the-e36-million-scandal", "studies": {
+"electoralregister": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "Election management system (EMS)", "country_label": "Eswatini", "class": "other", "platform": "Sionary Investments upgrade of Android EMS", "owner": "Elections and Boundaries Commission", "tiers": "national"}], "note": "Article is on the election management system and its dispute; it does not clearly say a digital voters' roll is in service, and its status is called unsettled."}}},
+"techhubs": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "Royal Science and Technology Park (RSTP)", "country_label": "Eswatini", "class": "other", "platform": "", "owner": "Government", "tiers": ""}], "note": "RSTP appears as a government ICT provider, with no startups, programme or tenants stated."}}}
+}}

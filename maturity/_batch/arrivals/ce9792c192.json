@@ -1,0 +1,20 @@
+{"slug":"2026-10-27-civ-cote-d-ivoire-le-logiciel-national-d-etat-civil-deploye-la-connectivit","studies":{
+"addressregister":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Nothing stated that this study asks."}}},
+"authentication":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Secure authentication for the new platform is described as future access; no service stated in use."}}},
+"birthidlink":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No link between civil register and ID system stated as in service."}}},
+"businessregister":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Nothing stated that this study asks."}}},
+"civilregister":{"countries":{"CIV":{"facts":[{"sub_indicator":"civil","aspect":"births","value":"inservice","fact":"ONECI's director general said on 23 October 2026 that the national central software for managing civil-status events is now deployed in all civil-status centres, with connectivity problems in some.","as_of":"2026-10-23","date_precision":"day","system":"National civil-status software","class":"civil"}],"systems":[{"system":"National civil-status software","country_label":"Cote d'Ivoire","class":"civil","platform":"national central software","owner":"ONECI","tiers":"all civil-status centres"}],"note":""}}},
+"digitalidlaw":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No identity law mentioned."}}},
+"electoralregister":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Nothing stated that this study asks."}}},
+"idcoverage":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Who maintains or owns the ID system is not stated."}}},
+"idregisters":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No ID system status, biometrics or audit stated."}}},
+"landregister":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Nothing stated that this study asks."}}},
+"localgov":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Connectivity gaps are stated for civil-status centres in mairies, with no share or institutional connection for local government offices."}}},
+"populationregister":{"countries":{"CIV":{"facts":[{"sub_indicator":"population","aspect":"register","value":"underway","fact":"The new civil-status request platform is part of implementing the RNPP, designed as the national reference register of natural persons, per the 27 October 2026 report.","as_of":"2026-10-23","date_precision":"day","system":"RNPP","class":"population"}],"systems":[{"system":"RNPP","country_label":"Cote d'Ivoire","class":"population","platform":"","owner":"ONECI","tiers":""}],"note":""}}},
+"registry":{"countries":{"CIV":{"facts":[{"sub_indicator":"civil","aspect":"governance","value":"owner:ministry","fact":"ONECI, working with the digital transition ministry, runs the national civil-status software deployed in all civil-status centres, per its director general on 23 October 2026.","as_of":"2026-10-23","date_precision":"day","system":"National civil-status software","class":"civil"}],"systems":[{"system":"National civil-status software","country_label":"Cote d'Ivoire","class":"civil","platform":"national central software","owner":"ONECI","tiers":"all civil-status centres"}],"note":""}}},
+"socialregistry":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Nothing stated that this study asks."}}},
+"taxregister":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Nothing stated that this study asks."}}}
+}}

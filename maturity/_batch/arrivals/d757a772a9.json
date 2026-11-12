@@ -1,0 +1,133 @@
+{
+ "slug": "2026-01-23-bfa-souverainete-numerique-le-burkina-faso-inaugure-deux-data-center-de-3",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The new data centres serve ministries, are not said to be for hire, and nothing else here answers this study."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The new data centres serve ministries, are not said to be for hire, and nothing else here answers this study."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Two modular government data centres (3,000 TB, sites about 100 km apart)",
+       "country_label": "Burkina Faso",
+       "class": "other",
+       "platform": "",
+       "owner": "ANPTIC / State",
+       "tiers": "state use; not stated for hire"
+      }
+     ],
+     "note": "The new data centres serve ministries, are not said to be for hire, and nothing else here answers this study."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The new data centres serve ministries, are not said to be for hire, and nothing else here answers this study."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "On 23 January 2026 Prime Minister Ouedraogo said he had given clear instructions to repatriate all public administration platforms and data hosted in private data centres or abroad to national territory, under a \"zero data abroad\" goal, as two state modular data centres were inaugurated.",
+       "as_of": "2026-01-23",
+       "date_precision": "day",
+       "system": "Government modular data centres (ANPTIC)",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Two modular government data centres (3,000 TB, sites about 100 km apart)",
+       "country_label": "Burkina Faso",
+       "class": "other",
+       "platform": "",
+       "owner": "ANPTIC / State",
+       "tiers": "state use; not stated for hire"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The new data centres serve ministries, are not said to be for hire, and nothing else here answers this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The new data centres serve ministries, are not said to be for hire, and nothing else here answers this study."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The new data centres serve ministries, are not said to be for hire, and nothing else here answers this study."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Two modular government data centres (3,000 TB, sites about 100 km apart)",
+       "country_label": "Burkina Faso",
+       "class": "other",
+       "platform": "",
+       "owner": "ANPTIC / State",
+       "tiers": "state use; not stated for hire"
+      }
+     ],
+     "note": "The new data centres serve ministries, are not said to be for hire, and nothing else here answers this study."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The new data centres serve ministries, are not said to be for hire, and nothing else here answers this study."
+    }
+   }
+  }
+ }
+}

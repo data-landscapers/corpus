@@ -1,0 +1,71 @@
+{
+ "slug": "2026-11-11-dza-portail-numerique-les-documents-en-ligne-desormais-reconnus",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Algeria's Haut-Commissariat a la numerisation said on 10 November 2026 that the national portal Dzair Digital Services offers 68 services, up from 21 at its July 2026 launch, and has issued electronically signed documents recognised by public administrations.",
+       "as_of": "2026-11-10",
+       "date_precision": "day",
+       "system": "Dzair Digital Services",
+       "class": "eservices"
+      },
+      {
+       "sub_indicator": "eservices",
+       "aspect": "usage",
+       "value": "published",
+       "fact": "The minister said the national portal has over two million registered users and over 800,000 electronic documents issued and signed, four months after launch.",
+       "as_of": "2026-11-10",
+       "date_precision": "day",
+       "system": "Dzair Digital Services",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Dzair Digital Services",
+       "country_label": "Algeria",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Haut-Commissariat a la numerisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  }
+ }
+}

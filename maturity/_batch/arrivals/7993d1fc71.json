@@ -1,0 +1,15 @@
+{"slug": "2025-12-18-dza-justice-numerique-l-echange-electronique-des-documents-et-le-paiement", "studies": {
+"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document does not concern e-procurement."}}},
+"centralbank": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document does not concern the central bank."}}},
+"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document does not concern digital finance consumer rules."}}},
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document does not concern cross-border payments."}}},
+"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document does not concern payments to people."}}},
+"justice": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "justice", "aspect": "filing", "value": "online", "fact": "Fildalgerie reports that the Ministry of Justice is making electronic exchange of civil requests and reply briefs exclusive for lawyers at the Cours de justice from 18 January 2026, after wide uptake by lawyers.", "as_of": "2025-12-18", "date_precision": "day", "system": "Electronic exchange of requests and briefs (civil, Cours de justice)", "class": "justice"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document does not concern account ownership."}}},
+"retailpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document does not concern mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Fildalgerie reports that the Ministry of Justice requires lawyers to pay court fees exclusively through the electronic payment system from 18 January 2026, except in courts not yet equipped.", "as_of": "2025-12-18", "date_precision": "day", "system": "Electronic payment system for court fees", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

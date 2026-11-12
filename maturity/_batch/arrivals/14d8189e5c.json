@@ -1,0 +1,11 @@
+{"slug": "2026-11-09-mus-transport-osman-mahomed-mise-sur-la-modernisation-et-la-s-curit-routi", "studies": {
+"businesspayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing about e-procurement."}}},
+"centralbank": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing about the central bank."}}},
+"consumerprotection": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing about consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing about cross-border payments."}}},
+"g2ppayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing about government payments to people."}}},
+"paymentsuptake": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No survey share is given."}}},
+"retailpayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing about mobile money or retail payment services; cashless bus e-ticketing is only at consultancy tender."}}},
+"revenuecollection": {"countries": {"MUS": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The Land Transport Minister's second annual report, as reported by L'Express, says online payment of licences has been extended to taxi drivers and planters, and electronic payment of fines outside the Penalty Points System has been possible since 1 September 2026 after Road Traffic Act amendments.", "as_of": "2026-09-01", "date_precision": "day", "system": "online licence and fine payment", "class": "revenue"}], "systems": [{"system": "KOREK Super App Penalty Points System", "country_label": "Mauritius", "class": "other", "platform": "national app", "owner": "Government of Mauritius", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing about school internet or curriculum."}}}
+}}

@@ -1,0 +1,11 @@
+{"slug": "2025-10-16-mar-agence-nationale-de-la-conservation-fonciere-du-cadastre-et-de-la-cart", "studies": {
+"agrisatellite": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Remote sensing is named only for the agency's mapping vision, not for farming."}}},
+"internationalstandards": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document says nothing on international standards bodies or adopted standards."}}},
+"landregister": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "LesEco.ma reports that ANCFCC's e-conservation and e-cadastre platforms are in use, letting users consult land titles and follow their files online.", "as_of": "2025-10-16", "date_precision": "day", "system": "e-conservation and e-cadastre", "class": "land"},
+{"sub_indicator": "land", "aspect": "online", "value": "online", "fact": "LesEco.ma reports that users can now consult land titles, follow files, pay and request certificates online through ANCFCC's e-conservation and e-cadastre platforms.", "as_of": "2025-10-16", "date_precision": "day", "system": "e-conservation and e-cadastre", "class": "land"}
+], "systems": [
+{"system": "e-conservation", "country_label": "Morocco", "class": "land", "platform": "", "owner": "ANCFCC", "tiers": ""},
+{"system": "e-cadastre", "country_label": "Morocco", "class": "land", "platform": "", "owner": "ANCFCC", "tiers": ""}
+], "note": ""}}}
+}}

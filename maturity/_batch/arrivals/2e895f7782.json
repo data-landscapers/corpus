@@ -1,0 +1,124 @@
+{
+ "slug": "2025-08-05-syc-fusepay-raises-350k-in-pre-seed-funding-from-global-early-stage-invest",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Start-up announcement; nothing stated that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Start-up announcement; nothing stated that answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Start-up announcement; nothing stated that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Start-up announcement; nothing stated that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Start-up announcement; nothing stated that answers this study."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "private",
+       "aspect": "money",
+       "value": "committed",
+       "fact": "Fusepay, a payments start-up building for Seychelles, announced on 5 August 2025 that it had raised USD 350,000 in pre-seed funding led by Hustle Fund, Everywhere Ventures, First Check Ventures, Startup Istanbul and an angel investor; the raise date itself is not stated.",
+       "as_of": "2025-08-05",
+       "date_precision": "day",
+       "system": "Fusepay pre-seed round",
+       "class": "private"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fusepay (FuseCheq, B2B invoice payments)",
+       "country_label": "Seychelles",
+       "class": "private",
+       "platform": "mobile money rail",
+       "owner": "Fusepay (Delaware C Corp)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Start-up announcement; nothing stated that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Start-up announcement; nothing stated that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Start-up announcement; nothing stated that answers this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Start-up announcement; nothing stated that answers this study."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Start-up announcement; nothing stated that answers this study."
+    }
+   }
+  }
+ }
+}

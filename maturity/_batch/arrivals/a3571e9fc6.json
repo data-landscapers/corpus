@@ -1,0 +1,97 @@
+{
+ "slug": "2024-03-28-mli-problematique-de-la-gestion-du-foncier-letat-a-la-recherche-de-solutio",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Land-reform article; nothing stated on this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Land-reform article; nothing stated on this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Land-reform article; nothing stated on this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Land-reform article; nothing stated on this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Land-reform article; nothing stated on this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Land-reform article; nothing stated on this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Land-reform article; nothing stated on this study."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The permanent secretary of Mali's land reform said on 21 March 2024 that one million parcels had been digitised in the Bamako district, each with a unique cadastral national ID number (NINACAD), as part of the land reform.",
+       "as_of": "2024-03-21",
+       "date_precision": "day",
+       "system": "NINACAD digitised parcel register (Bamako)",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NINACAD digitised parcel register",
+       "country_label": "Mali",
+       "class": "land",
+       "platform": "",
+       "owner": "Secretariat Permanent de la Reforme Domaniale et Fonciere",
+       "tiers": "Bamako district"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,14 @@
+{"slug": "2025-01-03-eth-ethswitch-sets-a-benchmark-with-the-first-of-its-kind-data-center-relo", "studies": {
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "EthSwitch is called the national switch but no central bank oversight or role is stated."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"datacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "EthSwitch data centre serves its own switch; no renting to others stated."}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"nationaldatacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No data centre for hire stated."}}},
+"offsitebackup": {"countries": {"ETH": {"facts": [], "systems": [], "note": "A disaster recovery site is named but with no place, so distance is unknown, and it is EthSwitch's own, not a ministry, agency or the central bank's."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"regionalinfrastructure": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "EthSwitch is named the national switch for financial service providers, but wallets and bank accounts are not stated connected."}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+}}

@@ -1,0 +1,52 @@
+{
+ "slug": "2025-03-20-cpv-boletim-oficial-n-o-52-ii-serie-de-20-03-2025",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "A joint order of 17 March 2025, gazetted 20 March, declares the whole island of Sao Vicente a cadastred area with compulsory property registration, following the Land project that built a property rights information system and cadastred Sal, Boa Vista, rural Sao Vicente and Maio.",
+       "as_of": "2025-03-17",
+       "date_precision": "day",
+       "system": "cadastro predial and property rights information system",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cadastro predial / Certidao de Identificacao Predial",
+       "country_label": "Cabo Verde",
+       "class": "land",
+       "platform": "",
+       "owner": "INGT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil registration."
+    }
+   }
+  }
+ }
+}

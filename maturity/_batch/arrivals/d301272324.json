@@ -1,0 +1,124 @@
+{
+ "slug": "2026-08-06-mar-startups-au-maroc-un-record-historique-de-108-4-millions-de-dollars-le",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "private",
+       "aspect": "money",
+       "value": "committed",
+       "fact": "The UM6P Morocco Startup Ecosystem Report, as relayed by LesEco.ma, counts $108.44 million raised by Moroccan startups across 48 disclosed deals in 2025, 67.92% of it from foreign funds.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Morocco startup funding 2025",
+       "class": "private"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  }
+ }
+}

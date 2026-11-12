@@ -1,0 +1,12 @@
+{"slug": "2025-03-20-nga-abeokuta-north-lg-overhauls-revenue-system-sets-up-digital-tracking", "studies": {
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states nothing on the central bank."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states nothing on payments to people."}}},
+"localgov": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states nothing on office connection."}}},
+"localrecords": {"countries": {"NGA": {"facts": [{"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "Abeokuta North Local Government's chairman said a digital revenue collection system would start on the Wednesday after a Monday press conference, onboarding petrol stations on a pump-based levy and later markets, with all levies and taxes paid digitally.", "as_of": "2025-03", "date_precision": "month", "system": "Abeokuta North LG digital revenue collection system", "class": "revenue"}, {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "Only Abeokuta North Local Government is named as starting the digital revenue collection system, onboarding payers from the week after the press conference.", "as_of": "2025-03", "date_precision": "month", "system": "Abeokuta North LG digital revenue collection system", "class": "revenue"}], "systems": [{"system": "Abeokuta North LG digital revenue collection system", "country_label": "Nigeria (Abeokuta North LGA, Ogun)", "class": "revenue", "platform": "", "owner": "Abeokuta North Local Government", "tiers": "one local government"}], "note": ""}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No survey share of adults with an account."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states nothing on mobile money or retail payment services."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The digital levy system is one local government's, not the national revenue authority or treasury."}}}
+}}

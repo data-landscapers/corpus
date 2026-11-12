@@ -1,0 +1,10 @@
+{"slug": "2025-08-13-lbr-boakai-s-44m-biometric-id-controversy-who-briefed-the-president-before", "studies": {
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document covers ID procurement only; no authentication service is stated."}}},
+"birthidlink": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No link to the civil register is stated."}}},
+"idcoverage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Who will operate or maintain the system is not stated."}}},
+"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The Liberian Investigator reports Executive Order 147 mandates biometric ID cards for all citizens and residents, and the National Identification Registry is procuring a system, with a presidential memo of 5 July 2025 setting an April 2026 rollout deadline while the PPCC ordered international competitive bidding.", "as_of": "2025-07", "date_precision": "month", "system": "National Identification Registry biometric ID", "class": "idsystem"}], "systems": [{"system": "national biometric ID system", "country_label": "Liberia", "class": "idsystem", "platform": "", "owner": "National Identification Registry", "tiers": ""}], "note": ""}}},
+"nonstatefinance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "OSD pre-financing is reported and disputed with no signed lawful contract; no amount is a signed deal."}}}
+}}

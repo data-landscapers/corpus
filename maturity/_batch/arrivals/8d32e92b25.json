@@ -1,0 +1,43 @@
+{
+ "slug": "2025-12-02-nam-cran-approves-revised-tariff-structures-for-telecom-operator",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "The Brief reports CRAN approved Paratus Namibia's Yursat Adapt satellite packages in Government Gazette No. 8795 of 28 November 2025, with 10-20 Mbps speeds and monthly prices of N$1,550 to N$3,350.",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "Paratus Yursat Adapt",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Paratus Yursat Adapt",
+       "country_label": "Namibia",
+       "class": "satellite",
+       "platform": "VSAT",
+       "owner": "Paratus Namibia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on school internet or curriculum."
+    }
+   }
+  }
+ }
+}

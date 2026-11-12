@@ -1,0 +1,15 @@
+{"slug": "2026-11-10-gmb-gambia-to-gain-38m-gdp-boost-if-it-capitalises-on-ai-revolution", "studies": {
+"aiabuse": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No AI rule or authority is stated."}}},
+"aigovernment": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No government body's AI use is stated."}}},
+"aisectoral": {"countries": {"GMB": {"facts": [], "systems": [{"system": "CUBE AI Tutor", "country_label": "The Gambia", "class": "other", "platform": "", "owner": "", "tiers": "pilot at three secondary schools"}], "note": "The pilots are not stated to be in a public sector system."}}},
+"aisystems": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The Standard reports that a locally developed CUBE AI Tutor was piloted with 150 students at three secondary schools in May 2026.", "as_of": "2026-05", "date_precision": "month", "system": "CUBE AI Tutor", "class": "localai"}
+], "systems": [{"system": "CUBE AI Tutor", "country_label": "The Gambia", "class": "localai", "platform": "", "owner": "", "tiers": "pilot at three secondary schools"}], "note": ""}}},
+"civilserviceskills": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No civil service training is stated."}}},
+"digitalskills": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No public digital-skills programme or measured share is stated; only an index score for digital, data, media and AI capability."}}},
+"itcapacity": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Government technical staff are not mentioned."}}},
+"mobileaffordability": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "price", "aspect": "cost", "value": "share:8.68", "fact": "The Ayre Think Tank report, as reported by The Standard, says mobile data costs 8.68% of average monthly income in The Gambia.", "as_of": "2026-11", "date_precision": "month", "system": "Ayre Index", "class": "price"}
+], "systems": [], "note": ""}}},
+"policyresearch": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The index is by a foreign think tank; no Gambian institution is named."}}}
+}}

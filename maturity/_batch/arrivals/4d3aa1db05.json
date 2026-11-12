@@ -1,0 +1,14 @@
+{
+  "slug": "2024-08-14-cpv-nosi-apresenta-vkonekta-a-nova-plataforma-de-comunicacao-voip-para-rtp",
+  "studies": {
+    "itcapacity": {"countries": {"CPV": {
+      "facts": [
+        {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "NOSi's release says NOSi is the manager of the State's Private Technology Network (RTPE) and presented a unified VoIP platform for RTPE users, which it designed and developed.", "as_of": "2024-08-14", "date_precision": "day", "system": "VKonekta", "class": "staff"},
+        {"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "NOSi says it designed and developed the VKonekta VoIP platform for RTPE users, which was publicly presented in Praia on 14 August 2024.", "as_of": "2024-08-14", "date_precision": "day", "system": "VKonekta", "class": "staff"}
+      ],
+      "systems": [
+        {"system": "VKonekta", "country_label": "VKonekta", "class": "staff", "platform": "", "owner": "NOSi", "tiers": ""}
+      ],
+      "note": "Whether VKonekta was already in use at the presentation is not stated beyond the public presentation."}}}
+  }
+}

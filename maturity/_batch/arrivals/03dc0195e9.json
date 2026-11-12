@@ -1,0 +1,14 @@
+{"slug": "2026-11-04-lby-vetogate-attorney-general-1-2m-cases-digital-system", "studies": {
+"aiabuse": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Cybercrime Law no. 5 is not stated to address AI harms."}}},
+"aigovernment": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only plans for AI in prosecution; no AI in service or under way stated."}}},
+"aisectoral": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only plans for AI in prosecution; no sectoral AI in service or under way stated."}}},
+"aisystems": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"authentication": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"idcoverage": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No statement on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"LBY": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The Attorney General's Office advocate-general says the Intilaqa project, with the Civil Registry Authority and the government, is building a secured digital system to protect the national number, to be announced on launch.", "as_of": "2026-11-04", "date_precision": "day", "system": "Intilaqa project (secured national ID digital system)", "class": "idsystem"}], "systems": [{"system": "Intilaqa project", "country_label": "Libya", "class": "idsystem", "platform": "", "owner": "Civil Registry Authority with Attorney General's Office", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No digital entry at local civil registration offices stated."}}}
+}}

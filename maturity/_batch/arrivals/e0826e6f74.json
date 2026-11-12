@@ -1,0 +1,7 @@
+{"slug": "2026-05-20-gin-modernisation-des-finances-publiques-la-guinee-lance-sicom-son-nouvel", "studies": {
+"civilserviceskills": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on civil servant training."}}},
+"itcapacity": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "The finance ministry says it launched SICOM, a public-asset accounting system developed entirely by Guinean staff of its IT directorate (DNSI) with the Direction Nationale de la Comptabilité Matière, on 20 May 2026, with 24 ministries integrated.", "as_of": "2026-05-20", "date_precision": "day", "system": "SICOM", "class": "staff"}
+], "systems": [{"system": "SICOM", "country_label": "SICOM", "class": "staff", "platform": "web application", "owner": "Ministry of Economy, Finance and Budget (DNSI)", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

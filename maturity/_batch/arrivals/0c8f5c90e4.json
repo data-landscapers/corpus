@@ -1,0 +1,23 @@
+{"slug": "2025-02-19-gha-e-justice-ghana-s-judiciary-leverages-dpi-to-enhance-justice-delivery", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Ghana Card is required at filing, but no authentication service or online ID check is described."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document says nothing on civil register and ID links."}}},
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document says nothing on business payments."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document says nothing on central bank oversight."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document says nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document says nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document says nothing on payments from government to people."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document says nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document says nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Ghana Card is required for court filing, which is a use of the ID by a service, not a public register keyed on the number."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document says nothing on the ID system's status or security."}}},
+"justice": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "justice", "aspect": "cases", "value": "inservice", "fact": "Ghana's e-justice system, a USD 3.3 million part of the World Bank-funded e-Transform project, registers cases, allocates them to courts and judges and manages judges' calendars at court registries, with about 75,829 cases filed as of January 2025 per the Judicial Service, per 3News.", "as_of": "2025-01", "date_precision": "month", "system": "e-Justice", "class": "justice"},
+{"sub_indicator": "justice", "aspect": "filing", "value": "online", "fact": "Lawyers file cases and legal processes online through the e-justice platform, with the Ghana Card required, per 3News.", "as_of": "2025-02-19", "date_precision": "day", "system": "e-Justice", "class": "justice"}
+], "systems": [{"system": "e-Justice", "country_label": "Ghana", "class": "justice", "platform": "", "owner": "Judicial Service of Ghana", "tiers": "registries of the higher courts; Greater Accra"}], "note": ""}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No survey share of payment use stated."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document says nothing on the retail payment system itself."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The e-justice platform generates court case fees and lets them be paid online by mobile money, Visa card and bank payment, per 3News.", "as_of": "2025-02-19", "date_precision": "day", "system": "e-Justice", "class": "revenue"}
+], "systems": [{"system": "e-Justice", "country_label": "Ghana", "class": "revenue", "platform": "", "owner": "Judicial Service of Ghana", "tiers": ""}], "note": ""}}}
+}}

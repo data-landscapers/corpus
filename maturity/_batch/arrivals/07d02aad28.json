@@ -1,6 +1,4 @@
-{
-  "slug": "2026-11-09-mdg-madagascar-lapmf-lance-une-nouvelle-phase-du-programme-integ",
-  "studies": {
-    "customs": {"countries": {"MDG": {"facts": [], "systems": [{"system": "Guichet Unique Maritime", "country_label": "Maritime Single Window (APMF)", "class": "other", "platform": "", "owner": "APMF", "tiers": ""}], "note": "Maritime single window for port formalities is being set up with technical assistance; it is not stated to join customs and no customs system is named."}}}
-  }
-}
+{"slug": "2026-11-09-mdg-madagascar-lapmf-lance-une-nouvelle-phase-du-programme-integ", "studies": {
+"dataexchange": {"countries": {"MDG": {"facts": [], "systems": [{"system": "Maritime Single Window (INTEGRATE - Madagascar)", "country_label": "Madagascar", "class": "other", "platform": "", "owner": "APMF", "tiers": ""}], "note": "A port-sector single window with only a roadmap being drafted, not a government data exchange platform built or piloted."}}},
+"interoperability": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No government interoperability framework is mentioned."}}}
+}}

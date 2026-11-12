@@ -1,0 +1,9 @@
+{"slug": "2025-11-27-lby-innovative-people-stifling-laws-the-mystery-behind-libya-s-tech-space", "studies": {
+"internetusage": {"countries": {"LBY": {"facts": [], "systems": [], "note": "States 4G access of 88.5% and mobile connections, which are coverage and subscriptions, not a share of people using the internet."}}},
+"mobileaffordability": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Says data prices are low but gives no price."}}},
+"nonstatefinance": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Technext says the startup Mataa raised Libya's first venture funding round in July 2025, reported above USD 100,000 and which Technext can confirm was more than USD 1 million.", "as_of": "2025-07", "date_precision": "month", "system": "Mataa seed round", "class": "private"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Names an EU-funded project and NGO grants, not a state startup law, label or fund."}}},
+"techhubs": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document names no hub, incubator or park."}}}
+}}

@@ -1,0 +1,214 @@
+{
+ "slug": "2026-11-11-civ-guichet-unique-numerique-du-tourisme-et-des-loisirs",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Cote d'Ivoire's Ministry of Tourism and Leisure launched on 10 November 2026 a digital one-stop shop letting tourism operators file procedures, pay electronically and track applications, piloted in four regional directorates (Linfodrome).",
+       "as_of": "2026-11-10",
+       "date_precision": "day",
+       "system": "Guichet unique numerique du tourisme et des loisirs",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Guichet unique numerique du tourisme et des loisirs (SGAT component)",
+       "country_label": "CIV",
+       "class": "eservices",
+       "platform": "SIVIS",
+       "owner": "Ministry of Tourism and Leisure (DIDDS)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

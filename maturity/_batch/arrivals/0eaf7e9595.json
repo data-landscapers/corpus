@@ -1,0 +1,9 @@
+{"slug": "2023-12-01-mrt-la-commune-du-ksar-lance-le-systeme-el-mouhassil-numerisant-les-ressou", "studies": {
+"censuses": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only a municipal taxpayer census, not a population census or household survey."}}},
+"localgov": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document states nothing on office connections."}}},
+"localrecords": {"countries": {"MRT": {"facts": [
+{"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "The mayor of Ksar says the El Mouhassil programme runs a full taxpayer census whose data go into the municipal database, with the commune's office then applying council decisions on the municipal tax, set on 14 criteria per taxpayer.", "as_of": "2023-12", "date_precision": "month", "system": "El Mouhassil", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "held", "value": "local", "fact": "The mayor says the census data are entered in the Ksar municipal database, managed by an office the commune created.", "as_of": "2023-12", "date_precision": "month", "system": "El Mouhassil", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "El Mouhassil was developed in cooperation between Mauritania's Ministry of the Interior and Decentralisation and German cooperation, and adopted by the commune of Ksar with several other municipalities cooperating.", "as_of": "2023-12", "date_precision": "month", "system": "El Mouhassil", "class": "revenue"}
+], "systems": [{"system": "El Mouhassil", "country_label": "Mauritania (commune of Ksar)", "class": "revenue", "platform": "", "owner": "Ministry of the Interior and Decentralisation", "tiers": "commune"}], "note": ""}}}
+}}

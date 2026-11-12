@@ -1,0 +1,10 @@
+{"slug": "2026-11-11-ken-airtel-kenya-partners-pesalink-to-expand-money-transfers-to-30-financial", "studies": {
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a provider's own account-check feature; no rule or complaints body."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Domestic transfers only."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No survey share."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Tech Africa News reports Airtel Money customers in Kenya can send money from their mobile wallets through the My Airtel App and USSD *334#.", "as_of": "2026-11-10", "date_precision": "day", "system": "Airtel Money", "class": "retail"}, {"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "Under an agreement signed 10 November 2026 between Airtel Kenya and Pesalink operator IPSL, Airtel Money users can transfer from wallets to accounts at 30 banks, SACCOs and microfinance banks on the Pesalink network.", "as_of": "2026-11-10", "date_precision": "day", "system": "Airtel Money to Pesalink", "class": "retail"}], "systems": [{"system": "Airtel Money", "country_label": "Airtel Money", "class": "retail", "platform": "mobile money", "owner": "Airtel Kenya", "tiers": ""}, {"system": "Pesalink", "country_label": "Pesalink", "class": "retail", "platform": "instant payments", "owner": "Integrated Payment Services Limited", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

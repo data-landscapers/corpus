@@ -1,0 +1,14 @@
+{"slug": "2026-02-24-mrt-mauritania-opens-digital-service-centers-to-expand-access-to-online-pu", "studies": {
+"businessregister": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The document states nothing on Mauritania's business register."}}},
+"civilserviceskills": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Mauritania."}}},
+"crossborderpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Mauritania."}}},
+"digitaldivides": {"countries": {"MRT": {"facts": [{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Ecofin reports Mauritania's Ministry of Digital Transformation opened digital service centers with free internet access, in Nouakchott outskirts from July 2025, Ouadane in December 2025 and Bassikounou on 23 February 2026, as a first phase to expand to all municipalities.", "as_of": "2026-02-23", "date_precision": "day", "system": "digital service centers", "class": "ruralaccess"}], "systems": [{"system": "digital service centers", "country_label": "Mauritania", "class": "ruralaccess", "platform": "", "owner": "Ministry of Digital Transformation", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The centers give help with online services; no programme teaching digital skills to the public is stated."}}},
+"egovservices": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The centers help people reach online services; no count of services or portal is stated."}}},
+"internetusage": {"countries": {"MRT": {"facts": [{"sub_indicator": "use", "aspect": "users", "value": "estimate:37.4", "fact": "Ecofin, citing the ITU ICT Development Index 2025, puts internet penetration in Mauritania at 37.4%.", "as_of": "2025", "date_precision": "year", "system": "ITU ICT Development Index 2025", "class": "use"}], "systems": [], "note": ""}}},
+"localgov": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The centers are public-access sites for residents, not local government office connections."}}},
+"mobilepenetration": {"countries": {"MRT": {"facts": [{"sub_indicator": "ownership", "aspect": "owners", "value": "estimate:79.1", "fact": "Ecofin, citing ITU estimates, says 79.1% of Mauritania's population owns a mobile phone.", "as_of": "2025", "date_precision": "year", "system": "ITU estimate", "class": "ownership"}], "systems": [], "note": ""}}},
+"refugees": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The document states nothing on refugee registration."}}},
+"regionalpolicy": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Mauritania."}}},
+"schoolinternet": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The document states nothing on schools."}}}
+}}

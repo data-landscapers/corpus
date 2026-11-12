@@ -1,0 +1,13 @@
+{"slug": "2025-06-30-sen-wave-raises-eur-117-million-to-accelerate-financial-inclusion-across-t", "studies": {
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No e-procurement is stated."}}},
+"centralbank": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No consumer rule or complaints body is stated."}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No cross-border corridor is stated."}}},
+"digitaldivides": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No rural access programme or rural and urban figures are stated."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No government payment to people is stated."}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No survey share of adults with an account is stated."}}},
+"retailpayments": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Finnfund's release says Wave Mobile Money operates in Senegal, where it enables low-cost transfers and bill payments, and RMB cites Senegal as a key market.", "as_of": "2025-06-30", "date_precision": "day", "system": "Wave Mobile Money", "class": "retail"}
+], "systems": [{"system": "Wave Mobile Money", "country_label": "Senegal", "class": "retail", "platform": "", "owner": "Wave", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No payment of taxes or fees to the state is stated."}}}
+}}

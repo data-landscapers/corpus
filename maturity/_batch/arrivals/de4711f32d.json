@@ -1,0 +1,4 @@
+{"slug": "2025-03-11-mli-digitalisation-de-l-administration-ninacad-adresse-pour-vite-geolocali", "studies": {
+"addressregister": {"countries": {"MLI": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "inservice", "fact": "L'Essor reports the permanent secretary for land reform saying Ninacad-Adresse, a six-digit code per plot with a secure database, covers about 1,500,000 plots in Bamako, parts of Kati and Segou, with deployment in Koulikoro and Sikasso under way.", "as_of": "2025-03-10", "date_precision": "day", "system": "Ninacad-Adresse", "class": "address"}], "systems": [{"system": "Ninacad-Adresse", "country_label": "Mali", "class": "address", "platform": "mobile app, web portal, database", "owner": "Secretariat permanent de la reforme domaniale et fonciere", "tiers": "Bamako, Kati, Segou"}], "note": ""}}},
+"localgov": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on connection of local government offices."}}}
+}}

@@ -1,0 +1,7 @@
+{"slug": "2025-10-02-civ-inauguration-d-un-data-center-du-groupe-panafricain-st-digital", "studies": {
+"datacentres": {"countries": {"CIV": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "The Ministry of Digital Transition reports the inauguration on 2 October 2025 at Grand-Bassam (VITIB) of ST Digital's data centre, built to international Tier III norms, to host data of administrations and private companies.", "as_of": "2025-10-02", "date_precision": "day", "system": "ST Digital data centre, VITIB", "class": "datacentre"}], "systems": [{"system": "ST Digital data centre", "country_label": "Cote d'Ivoire", "class": "datacentre", "platform": "", "owner": "ST Digital (pan-African group)", "tiers": "Tier III"}], "note": ""}}},
+"digitalsovereignty": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a general statement that data centres are the base of digital sovereignty; no plan, rule or state hosting in service is stated."}}},
+"egovservices": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on online services."}}},
+"internationalstandards": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Tier III is a facility claim, not a standards adoption."}}},
+"nationaldatacentres": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The operator is a pan-African group; national ownership is not stated."}}}
+}}

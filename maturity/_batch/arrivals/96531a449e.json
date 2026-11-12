@@ -1,0 +1,9 @@
+{"slug": "2025-04-21-tun-attijari-bank-en-chef-de-file-dun-financement-de-310-millions-de-dinar", "studies": {
+"cybersecurity": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No cyber body or strategy stated."}}},
+"nonstatefinance": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "IRBE7, citing Attijari Bank's first-quarter 2025 report, says a bank consortium led by Attijari granted Ooredoo a TND 310 million syndicated loan that let it acquire its 5G licence in December 2024 and deploy its national 5G network.", "as_of": "2024-12", "date_precision": "month", "system": "Ooredoo 5G syndicated loan", "class": "private"},
+{"sub_indicator": "private", "aspect": "home", "value": "raised", "fact": "IRBE7 reports the TND 310 million syndicated loan to Ooredoo for 5G was led by Attijari Bank Tunisie, as lead of a bank consortium.", "as_of": "2024-12", "date_precision": "month", "system": "Ooredoo 5G syndicated loan", "class": "private"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only the bank's general support for startups; no startup law, strategy or public fund stated."}}},
+"techhubs": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No hub, incubator or park named."}}}
+}}

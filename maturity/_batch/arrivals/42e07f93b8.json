@@ -1,0 +1,13 @@
+{"slug": "2025-04-24-sle-bo-district-council-launches-electronic-tax-payment", "studies": {
+"businesspayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"consumerprotection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"localgov": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No council office connection is stated."}}},
+"localrecords": {"countries": {"SLE": {"facts": [], "systems": [{"system": "GovPay Sierra Leone", "country_label": "Sierra Leone", "class": "other", "platform": "e-money application via Africell, Orange and Qcell", "owner": "GovPay SL with Bo District Council", "tiers": ""}], "note": "GovPay is a payment channel; the page does not say the council keeps a payer register or records from it."}}},
+"paymentsuptake": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"SLE": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Bo District Council's page says Africell, Orange and Qcell mobile money was used to launch the GovPay Sierra Leone e-money application for paying property rates on 24 April 2025, with a USSD payment demonstrated through Africell.", "as_of": "2025-04-24", "date_precision": "day", "system": "GovPay Sierra Leone (Africell, Orange, Qcell e-money)", "class": "retail"}], "systems": [{"system": "GovPay Sierra Leone", "country_label": "Sierra Leone", "class": "retail", "platform": "mobile money USSD", "owner": "GovPay SL", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"SLE": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Bo District Council says it launched the GovPay Sierra Leone e-money application on 24 April 2025 so that property rates can be paid electronically by mobile money.", "as_of": "2025-04-24", "date_precision": "day", "system": "GovPay Sierra Leone", "class": "revenue"}], "systems": [{"system": "GovPay Sierra Leone", "country_label": "Sierra Leone", "class": "revenue", "platform": "mobile money USSD", "owner": "Bo District Council with GovPay SL", "tiers": ""}], "note": ""}}},
+"taxadmin": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Local council property rates only; no national tax authority system is stated."}}}
+}}

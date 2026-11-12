@@ -1,0 +1,10 @@
+{"slug": "2026-09-10-eth-ethiopia-turns-to-3d-digital-mapping-and-cybersecurity-to-secure-prope", "studies": {
+"cybersecurity": {"countries": {"ETH": {"facts": [], "systems": [], "note": "INSA's role over land records is a project agreement, not a body's creation, response or designation."}}},
+"landadmin": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "underway", "fact": "AMECO reports that Ethiopia's urban ministry and INSA signed an agreement to combine legal, physical and cadastral data in one unified digital land system and to expand e-Land digital services.", "as_of": "2026-09-10", "date_precision": "day", "system": "e-Land", "class": "landmis"}
+], "systems": [], "note": ""}}},
+"landregister": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "AMECO reports that Ethiopia's urban ministry and INSA signed an agreement to launch a digital land registry, deploying 2D and 3D cadastral mapping and expanding e-Land services.", "as_of": "2026-09-10", "date_precision": "day", "system": "e-Land digital land registry", "class": "land"}
+], "systems": [], "note": ""}}},
+"localrecords": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Municipal revenue is named as a goal only; no local revenue record system is described."}}}
+}}

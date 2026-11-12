@@ -1,0 +1,5 @@
+{"slug": "2026-03-24-sle-government-concludes-boundary-harmonisation-pilot-sets-stage-for-natio", "studies": {
+"landadmin": {"countries": {"SLE": {"facts": [], "systems": [], "note": "A boundary harmonisation pilot is stated; no land information system for transactions is named."}}},
+"landregister": {"countries": {"SLE": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "AYV News reports on 24 March 2026 that the National Land Commission, with SLLAP support, completed a boundary harmonisation pilot using geospatial technology in Mapaki and Rogbere, as a step toward national land title registration and a land registry.", "as_of": "2026-03-24", "date_precision": "day", "system": "Boundary harmonisation pilot (SLLAP)", "class": "land"}], "systems": [], "note": ""}}},
+"localgov": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}}
+}}

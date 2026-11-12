@@ -1,0 +1,11 @@
+{"slug": "2025-09-08-zmb-smart-zambia-unveils-six-milestones-in-drive-toward-a-digitally-empowe", "studies": {
+"digitalstrategy": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document names no national digital strategy."}}},
+"egovservices": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document names no online service for citizens or businesses; its systems are for local authorities' internal use."}}},
+"itcapacity": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "SMART Zambia's e-Government Division, a government body, says it deployed the Government Wide Area Network to all 116 local authorities and rolled out the CDF-MIS and CFW-MIS management information systems for the Ministry of Local Government and Rural Development, per TechAfrica News.", "as_of": "2025-09-08", "date_precision": "day", "system": "GWAN, CDF-MIS, CFW-MIS", "class": "staff"}
+], "systems": [{"system": "Government Wide Area Network (GWAN)", "country_label": "Zambia", "class": "staff", "platform": "", "owner": "SMART Zambia Institute", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "connection", "aspect": "connected", "value": "institutional", "fact": "SMART Zambia's e-Government Division announced full deployment of the Government Wide Area Network across all 116 local authorities, per TechAfrica News; the document does not say what staff do over it.", "as_of": "2025-09-08", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
+{"sub_indicator": "connection", "aspect": "authorities", "value": "share:100%", "fact": "SMART Zambia says GWAN is deployed in all 116 local authorities, per TechAfrica News.", "as_of": "2025-09-08", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"}
+], "systems": [{"system": "Government Wide Area Network (GWAN)", "country_label": "Zambia", "class": "connection", "platform": "", "owner": "SMART Zambia Institute", "tiers": "local authorities"}], "note": ""}}}
+}}

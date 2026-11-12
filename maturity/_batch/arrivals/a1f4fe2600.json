@@ -1,0 +1,19 @@
+{"slug": "2026-08-15-uga-nwsc-to-replace-imported-financial-management-system-with-in-house-pla", "studies": {
+"businesspayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "NWSC's own procurement system is named but not described as an e-procurement service."}}},
+"centralbank": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not concern the central bank."}}},
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not concern digital finance consumer rules."}}},
+"crossborderpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not concern cross-border payments."}}},
+"g2ppayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not concern payments to people."}}},
+"itcapacity": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Mulengera News reports NWSC's managing director saying its internal technical teams restored the utility's billing and electronic payment systems in roughly a day after a 2023 cyberattack because they understood how they were built.", "as_of": "2023", "date_precision": "year", "system": "NWSC billing and electronic payment systems", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "own", "value": "entire", "fact": "Mulengera News reports NWSC's managing director saying the utility developed its billing system in house, with no contractor named.", "as_of": "2026-08-15", "date_precision": "day", "system": "NWSC billing system", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "own", "value": "entire", "fact": "Mulengera News reports NWSC's managing director saying the utility developed its electronic payment system in house, with no contractor named.", "as_of": "2026-08-15", "date_precision": "day", "system": "NWSC electronic payment system", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "own", "value": "entire", "fact": "Mulengera News reports NWSC's managing director saying the utility developed its procurement, human resources and water-quality monitoring systems internally, with no contractor named.", "as_of": "2026-08-15", "date_precision": "day", "system": "NWSC procurement, HR and water-quality systems", "class": "staff"}
+], "systems": [
+{"system": "NWSC billing system", "country_label": "NWSC billing", "class": "staff", "platform": "", "owner": "National Water and Sewerage Corporation", "tiers": ""},
+{"system": "NWSC electronic payment system", "country_label": "NWSC e-payment", "class": "staff", "platform": "", "owner": "National Water and Sewerage Corporation", "tiers": ""}
+], "note": ""}}},
+"paymentsuptake": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not concern account ownership."}}},
+"retailpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "NWSC's e-payment system is a utility's own, not a mobile money service."}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "A utility's own e-payment system is not tax or fee payment to the state."}}}
+}}

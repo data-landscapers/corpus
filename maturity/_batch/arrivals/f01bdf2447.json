@@ -1,0 +1,12 @@
+{"slug": "2025-07-01-sle-sierra-leone-progress-implementation-of-the-framework-for-effective-la", "studies": {
+"businesspayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Not stated."}}},
+"crossborderpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Not stated."}}},
+"g2ppayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Not stated."}}},
+"landregister": {"countries": {"SLE": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "The Ministry of Lands deck (July 2025) says a Land Management Information System for cadastral and land title registration is under development at the National Land Commission with a firm recruited, and digitisation of existing land records, estimated at 60,000, is under way, both World Bank supported.", "as_of": "2025-07", "date_precision": "month", "system": "Land Management Information System", "class": "land"}], "systems": [{"system": "Land Management Information System (LMIS)", "country_label": "LMIS", "class": "land", "platform": "", "owner": "National Land Commission", "tiers": ""}, {"system": "SOLA open tenure system", "country_label": "SOLA 2018", "class": "other", "platform": "SOLA", "owner": "FAO-supported pilot", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Mentions district land commissions and village committees but no office connection."}}},
+"paymentsuptake": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No survey share."}}},
+"retailpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No mobile money or retail service named."}}},
+"revenuecollection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Deck lists an 'E-Payment system' only as a line item, naming no tax or fee, whether in service, or who pays."}}}
+}}

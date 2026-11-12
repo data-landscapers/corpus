@@ -1,0 +1,13 @@
+{"slug": "2026-10-31-zmb-judiciary-rolls-out-nationwide-electronic-case-management-system", "studies": {
+"addressregister": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on addressing."}}},
+"businessregister": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on business registration."}}},
+"civilregister": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on civil registration."}}},
+"electoralregister": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on the voters' roll."}}},
+"justice": {"countries": {"ZMB": {"facts": [{"sub_indicator": "justice", "aspect": "cases", "value": "underway", "fact": "The Times of Zambia reports the Judiciary has launched its nationwide Electronic Case Management System, with the initial rollout a pilot phase in four registries at the Lusaka High Court and Kitwe High Court buildings.", "as_of": "2026-10-31", "date_precision": "day", "system": "Electronic Case Management System (ECMS)", "class": "justice"}], "systems": [{"system": "Electronic Case Management System (ECMS)", "country_label": "Zambia", "class": "justice", "platform": "", "owner": "Judiciary of Zambia", "tiers": "High Court (Lusaka, Kitwe), pilot"}], "note": "24-hour e-filing is described as what the guidelines provide for, in a pilot still beginning, so no online-filing fact is recorded."}}},
+"landregister": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on land records."}}},
+"populationregister": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on a population register."}}},
+"revenuecollection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on revenue payment."}}},
+"socialregistry": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on a social registry."}}},
+"taxadmin": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on tax administration."}}},
+"taxregister": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on a taxpayer register."}}}
+}}

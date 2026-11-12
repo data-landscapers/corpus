@@ -1,0 +1,5 @@
+{"slug": "2025-06-17-mli-deploiement-dune-infrastructure-de-cloud-public", "studies": {
+"datacentres": {"countries": {"MLI": {"facts": [], "systems": [{"system": "SMTD-SA data centre", "country_label": "Mali", "class": "other", "platform": "OpenStack/Ceph cloud planned", "owner": "SMTD-SA", "tiers": ""}], "note": "Call for a consultant to deploy a public cloud to sell IaaS in SMTD-SA's data centre; selling to customers is a plan, not in service."}}},
+"nationaldatacentres": {"countries": {"MLI": {"facts": [], "systems": [{"system": "SMTD-SA data centre", "country_label": "Mali", "class": "other", "platform": "OpenStack/Ceph cloud planned", "owner": "SMTD-SA", "tiers": ""}], "note": "Hire of the data centre is a plan only; state ownership of SMTD-SA is not stated."}}},
+"schoolinternet": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on schools."}}}
+}}

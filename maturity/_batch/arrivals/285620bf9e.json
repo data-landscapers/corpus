@@ -1,0 +1,104 @@
+{
+ "slug": "2024-11-14-nga-fg-partners-world-bank-to-develop-national-land-digital-system",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a planned World Bank partnership for a National Land Digital System, with framework and investment still being finalised; no system delivered or under way, and nothing on this study."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a planned World Bank partnership for a National Land Digital System, with framework and investment still being finalised; no system delivered or under way, and nothing on this study."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a planned World Bank partnership for a National Land Digital System, with framework and investment still being finalised; no system delivered or under way, and nothing on this study."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a planned World Bank partnership for a National Land Digital System, with framework and investment still being finalised; no system delivered or under way, and nothing on this study."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Land Digital System (NLDS)",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "",
+       "owner": "Federal Ministry of Housing and Urban Development",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states only a planned World Bank partnership for a National Land Digital System, with framework and investment still being finalised; no system delivered or under way, and nothing on this study."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a planned World Bank partnership for a National Land Digital System, with framework and investment still being finalised; no system delivered or under way, and nothing on this study."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a planned World Bank partnership for a National Land Digital System, with framework and investment still being finalised; no system delivered or under way, and nothing on this study."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a planned World Bank partnership for a National Land Digital System, with framework and investment still being finalised; no system delivered or under way, and nothing on this study."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a planned World Bank partnership for a National Land Digital System, with framework and investment still being finalised; no system delivered or under way, and nothing on this study."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only a planned World Bank partnership for a National Land Digital System, with framework and investment still being finalised; no system delivered or under way, and nothing on this study."
+    }
+   }
+  }
+ }
+}

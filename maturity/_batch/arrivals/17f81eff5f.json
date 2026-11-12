@@ -1,0 +1,256 @@
+{
+ "slug": "2026-11-06-tun-sofiene-hemissi-annonce-la-numerisation-de-plusieurs-services-administ",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Tunisia's ICT minister said the El Khadamat app, launched end of August 2026, gives secure unified access to over 40 administrative services through the digital identity.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "El Khadamat digital identity access",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "El Khadamat",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "mobile app",
+       "owner": "Ministry of Communication Technologies",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "The minister said dematerialisation of Registre national des entreprises transactions was finalised in July 2026, ending paper files, and a remote declaration and virtual counter for online patente was deployed in August 2026.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Registre national des entreprises",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des entreprises",
+       "country_label": "Tunisia",
+       "class": "business",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "The minister said the El Khadamat mobile app, launched end of August 2026, offers secure unified access to more than 40 administrative services.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "El Khadamat",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "El Khadamat",
+       "country_label": "Tunisia",
+       "class": "eservices",
+       "platform": "mobile app",
+       "owner": "Ministry of Communication Technologies",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "schools",
+       "value": "pilot",
+       "fact": "The minister said the first lot of the school information system, targeting more than two million pupils, started in April 2026.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "système d'information scolaire",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "système d'information scolaire",
+       "country_label": "Tunisia",
+       "class": "emis",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  }
+ }
+}

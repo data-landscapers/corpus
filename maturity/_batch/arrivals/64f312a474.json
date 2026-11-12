@@ -1,0 +1,10 @@
+{"slug": "2026-08-06-cod-kasai-oriental-ministre-des-postes-et-telecommunications-presente-au-g", "studies": {
+"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "Only AI learning centres planned; no government AI system stated."}}},
+"aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated; AI teaching centres only."}}},
+"digitaldivides": {"countries": {"COD": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "The PT-NTIC minister told the Kasai Oriental governor of a Mbuji-Mayi to Mwene-Ditu fibre project to be launched, with 25% for the state and province to connect public buildings on the route, and of digital community centres in post offices backed by the FDSU.", "as_of": "2026-08-06", "date_precision": "day", "system": "Mbuji-Mayi–Mwene-Ditu fibre project / FDSU", "class": "ruralaccess"}
+], "systems": [{"system": "Mbuji-Mayi–Mwene-Ditu fibre optic project", "country_label": "RDC", "class": "ruralaccess", "platform": "fibre optic", "owner": "Ministry of Posts, Telecommunications and Digital", "tiers": ""}], "note": ""}}},
+"domesticfinancing": {"countries": {"COD": {"facts": [], "systems": [], "note": "No budget amount, own-resource statement with act, or spending figure stated; FDSU only named as backing centres."}}}
+}}

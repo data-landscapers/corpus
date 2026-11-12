@@ -1,0 +1,35 @@
+{
+  "slug": "2025-11-10-gab-copil-sigfip-deuxieme-reunion-module-1",
+  "studies": {
+    "businesspayments": {"countries": {"GAB": {
+      "facts": [
+        {"sub_indicator": "business", "aspect": "system", "value": "underway", "fact": "The Ministry of Economy and Finance says public procurement management is among the SIGFiP module 1 functions developed to date and due to be deployed from early January 2026.", "as_of": "2025-11-10", "date_precision": "day", "system": "SIGFiP", "class": "procurement"}
+      ],
+      "systems": [
+        {"system": "SIGFiP (Système Intégré de Gestion des Finances Publiques)", "country_label": "Gabon", "class": "procurement", "platform": "", "owner": "Ministry of Economy and Finance", "tiers": ""}
+      ],
+      "note": "Not stated in service or online tendering; deployment is due January 2026."}}},
+    "centralbank": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Banks and payment operators appear only as partners of the Treasury platform; nothing on the central bank."}}},
+    "consumerprotection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+    "coresystems": {"countries": {"GAB": {
+      "facts": [],
+      "systems": [
+        {"system": "SIGFiP (Système Intégré de Gestion des Finances Publiques)", "country_label": "SIGFiP", "class": "other", "platform": "", "owner": "Ministry of Economy and Finance", "tiers": ""}
+      ],
+      "note": "SIGFiP module 1 (revenue, spending, procurement) is due 15 December 2025 and deployment from January 2026, so it is not stated in use; no paper statement and no architecture stated."}}},
+    "crossborderpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+    "g2ppayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+    "itcapacity": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The communique does not say who builds or runs SIGFiP."}}},
+    "paymentsuptake": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+    "retailpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+    "revenuecollection": {"countries": {"GAB": {
+      "facts": [
+        {"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "The Ministry of Economy and Finance says SIGFiP will centralise tax, non-tax and customs payments on a single Treasury-backed e-payment platform, with revenue centralisation among the functions due for deployment from January 2026.", "as_of": "2025-11-10", "date_precision": "day", "system": "SIGFiP single e-payment platform", "class": "revenue"}
+      ],
+      "systems": [
+        {"system": "SIGFiP single e-payment platform", "country_label": "Gabon", "class": "revenue", "platform": "", "owner": "Treasury (Ministry of Economy and Finance)", "tiers": ""}
+      ],
+      "note": "Platform is described as being set up; no figure for electronic share."}}},
+    "taxadmin": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Revenue centralisation in SIGFiP is a Treasury payment platform; no tax filing system or online filing stated."}}}
+  }
+}

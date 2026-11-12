@@ -1,0 +1,19 @@
+{"slug": "2025-03-26-dza-jeune-independant-cerist-cloud-computing-souverainete", "studies": {
+"datacentres": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Higher education minister Kamel Baddari inaugurated a national cloud computing platform hosted by Cerist in a data centre said to meet international standards, offering public institutions, companies and researchers hosting and processing at preferential tariffs.", "as_of": "2025-03-25", "date_precision": "day", "system": "Cerist national cloud computing platform", "class": "datacentre"}
+], "systems": [{"system": "Cerist national cloud computing platform", "country_label": "Algérie", "class": "datacentre", "platform": "open-source cloud designed in Algeria, Ben Aknoun data centre", "owner": "Cerist", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The minister said the national cloud platform at Cerist, inaugurated as part of the digital transformation and technological sovereignty strategy, is meant to host national data in Algeria, reduce dependence on foreign infrastructure and give better control of strategic data.", "as_of": "2025-03-25", "date_precision": "day", "system": "Cerist national cloud computing platform", "class": "sovereignty"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"DZA": {"facts": [], "systems": [], "note": "A digital transformation strategy is mentioned but not described, dated or named."}}},
+"internationalstandards": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Data centre said to meet international norms; a system built to a standard places nothing, and no standards body or adopted standard is named."}}},
+"nationaldatacentres": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "national", "aspect": "centre", "value": "service", "fact": "The Cerist national cloud platform, offering hosting and processing to public institutions, companies and researchers, was inaugurated on 25 March 2025 in a data centre at Ben Aknoun.", "as_of": "2025-03-25", "date_precision": "day", "system": "Cerist national cloud computing platform", "class": "datacentre"},
+{"sub_indicator": "national", "aspect": "owner", "value": "national", "fact": "The platform is hosted by Cerist, the state research centre under the higher education ministry, and its software is open source and wholly designed in Algeria.", "as_of": "2025-03-25", "date_precision": "day", "system": "Cerist national cloud computing platform", "class": "datacentre"}
+], "systems": [], "note": ""}}},
+"policyresearch": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No digital policy research or policy input stated."}}},
+"startups": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Drone start-up support is a ministry platform's own programme; no startup law, strategy, labelling or fund stated."}}},
+"techhubs": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The minister inaugurated a drone design and piloting platform meant to take in 20 new drone start-ups by the end of 2025 and reach 100 start-ups a year from 2027, with technical and financial support.", "as_of": "2025-03-25", "date_precision": "day", "system": "drone design and piloting platform", "class": "hub"}
+], "systems": [{"system": "drone design and piloting platform", "country_label": "Algérie", "class": "hub", "platform": "drone start-up platform", "owner": "Ministry of Higher Education and Scientific Research", "tiers": ""}], "note": ""}}}
+}}

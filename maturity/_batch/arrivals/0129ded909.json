@@ -1,0 +1,9 @@
+{"slug": "2025-07-21-tgo-appel-a-manifestation-d-interet-recrutement-d-un-cabinet-en-vue-de-l-a", "studies": {
+"businessregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on the business register."}}},
+"datacentres": {"countries": {"TGO": {"facts": [], "systems": [], "note": "OTR data centre not stated to rent to others."}}},
+"idrobustness": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on a national ID system."}}},
+"internationalstandards": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Standards named only as qualifications for bidders."}}},
+"nationaldatacentres": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No data centre for hire or Tier stated."}}},
+"offsitebackup": {"countries": {"TGO": {"facts": [], "systems": [{"system": "OTR data centre backup site", "country_label": "Togo", "class": "other", "platform": "", "owner": "OTR", "tiers": "Tier III minimum (planned)"}], "note": "Only a consultancy to specify a backup site, tendered and with no place named."}}},
+"qualitystandards": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on a national standards body."}}}
+}}

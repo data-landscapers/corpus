@@ -1,0 +1,26 @@
+{"slug": "2026-11-11-egy-remote-power-of-attorney-face-biometric-and-remote-e-signature", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document does not concern AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The AI check sits inside the justice sector's service, which is the sectoral study's."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Youm7 reports that the Ministry of Justice and MCIT remote power-of-attorney service verifies applicants' identity with AI techniques, matching a face scan against state biometric records.", "as_of": "2026-11-11", "date_precision": "day", "system": "Remote general power-of-attorney service (Digital Egypt platform)", "class": "sectorai"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in the country is stated."}}},
+"authentication": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Youm7 reports that the Ministry of Justice and MCIT remote power-of-attorney service verifies a citizen by face scan against state biometric records, then issues a one-time remote e-signature certificate per transaction, on ITIDA-built infrastructure.", "as_of": "2026-11-11", "date_precision": "day", "system": "Remote e-signature and identity verification for the power-of-attorney service", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "Youm7 reports that applicants move from the Digital Egypt platform to the digital identity app to prove their identity and obtain a remote e-signature certificate for the power-of-attorney service run by the state.", "as_of": "2026-11-11", "date_precision": "day", "system": "Digital identity app", "class": "authentication"}
+], "systems": [
+{"system": "Remote e-signature infrastructure", "country_label": "ITIDA remote signing", "class": "authentication", "platform": "", "owner": "ITIDA", "tiers": ""},
+{"system": "Digital identity app", "country_label": "Digital identity app", "class": "authentication", "platform": "Digital Egypt", "owner": "MCIT", "tiers": ""}
+], "note": ""}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document does not concern civil register links."}}},
+"ecommercelaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No law, decree or rule is named."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document does not concern numbers at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document does not say who operates, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Face matching is used to verify an applicant, not stated as stopping double enrolment."}}},
+"idverification": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Youm7 reports that the remote power-of-attorney service of the justice and communications ministries checks applicants against the state's biometric records, linking the Digital Egypt platform, the digital identity app and ITIDA's signing infrastructure.", "as_of": "2026-11-11", "date_precision": "day", "system": "Remote general power-of-attorney service", "class": "relying"}
+], "systems": [], "note": ""}}},
+"internationalstandards": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Remote signing is said to follow international standards, but no standard or rule is named."}}}
+}}

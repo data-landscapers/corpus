@@ -1,0 +1,19 @@
+{"slug": "2026-11-11-lso-lesotho-startup-funding-hundreds-incubated-little-equity", "studies": {
+"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document does not address e-procurement."}}},
+"centralbank": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document does not address the central bank."}}},
+"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document does not address consumer protection."}}},
+"crossborderpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document does not address cross-border payments."}}},
+"g2ppayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document does not address government payments to people."}}},
+"nonstatefinance": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "none", "fact": "The Africa Capital Report's review of November 2023 to November 2026 found no equity or quasi-equity transaction into a Lesotho tech startup verifiable at transaction level, while stating this is not proof that no private investment took place.", "as_of": "2026-11-11", "date_precision": "day", "system": "Lesotho startup funding", "class": "private"}],
+"systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The only survey figure given is MSME credit access, not adult account ownership."}}},
+"retailpayments": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Africa Capital Report says Pay Lesotho is reported to process M20 million in monthly transactions across more than 300 merchants.", "as_of": "2026-11-11", "date_precision": "day", "system": "Pay Lesotho", "class": "retail"}],
+"systems": [{"system": "Pay Lesotho", "country_label": "Lesotho", "class": "retail", "platform": "", "owner": "Pay Lesotho (private)", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document does not address tax or fee payment."}}},
+"startups": {"countries": {"LSO": {"facts": [], "systems": [], "note": "CAFI is a World Bank-supported project and the M45m co-investment fund is only announced; no startup act or strategy is stated."}}},
+"techhubs": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "CAFI's October 2026 newsletter, as reported by The Africa Capital Report, records 260 enterprises incubated under its entrepreneurship hub programme, with incubators receiving about US$100,000 per cohort.", "as_of": "2026-10", "date_precision": "month", "system": "CAFI Entrepreneurship Hub", "class": "hub"}],
+"systems": [{"system": "CAFI Entrepreneurship Hub", "country_label": "Lesotho", "class": "hub", "platform": "", "owner": "Ministry of Trade, Industry and Business Development (World Bank-supported)", "tiers": "national"}], "note": ""}}}
+}}

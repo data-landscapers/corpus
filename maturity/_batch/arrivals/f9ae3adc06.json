@@ -1,0 +1,10 @@
+{"slug": "2026-11-09-gmb-ministry-updates-public-on-national-land-policy-implementation", "studies": {
+"agrisatellite": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Remote sensing appears only in staff training and geodetic stations, not a farming service."}}},
+"landadmin": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "underway", "fact": "Dr Samba Sowe of the Land Policy Implementation Unit said the alpha version of the National Land Information System is complete and in testing before full rollout.", "as_of": "2026-11-09", "date_precision": "day", "system": "National Land Information System", "class": "landmis"}
+], "systems": [{"system": "National Land Information System", "country_label": "The Gambia", "class": "landmis", "platform": "", "owner": "Ministry of Lands, Local Government and Religious Affairs", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "Dr Samba Sowe said the alpha version of the National Land Information System is complete and in testing, and that a company has been contracted to set up a data conversion centre to scan historical land records for it.", "as_of": "2026-11-09", "date_precision": "day", "system": "National Land Information System", "class": "land"}
+], "systems": [{"system": "National Land Information System", "country_label": "The Gambia", "class": "land", "platform": "", "owner": "Ministry of Lands, Local Government and Religious Affairs", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Regional land offices are the ministry's own; no local government connection is stated."}}}
+}}

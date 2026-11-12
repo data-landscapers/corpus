@@ -1,0 +1,11 @@
+{"slug": "2025-10-08-civ-symbiotics-drives-financial-inclusion-in-cote-d-ivoire-with-usd-3-5-mi", "studies": {
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Not about public procurement."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The central bank is not mentioned."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No consumer rules or complaints body are mentioned."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Djamo's international payments are not a named regulated corridor."}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government payments to people are mentioned."}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The under-25% account share is for Francophone Africa, not Côte d'Ivoire."}}},
+"retailpayments": {"countries": {"CIV": {"facts": [], "systems": [{"system": "Djamo", "country_label": "Côte d'Ivoire", "class": "other", "platform": "", "owner": "Djamo", "tiers": ""}], "note": "A private fintech investment; no national retail payment system or switch is stated."}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No tax or fee payment is mentioned."}}},
+"ruralelectrification": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Not about rural electrification."}}}
+}}

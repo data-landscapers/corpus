@@ -1,0 +1,146 @@
+{
+ "slug": "2025-05-29-dza-aps-fada-el-djazair-2-millions-visiteurs-depuis-mars-2024",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "APS quotes the portal head saying the Ministry of Finance's Fada El Djazair geoportal, launched March 2024, serves cadastral and land data.",
+       "as_of": "2025-05-29",
+       "date_precision": "day",
+       "system": "Fada El Djazair geoportal",
+       "class": "land"
+      },
+      {
+       "sub_indicator": "land",
+       "aspect": "national",
+       "value": "nationwide",
+       "fact": "APS says the geoportal carries cadastral and land data for the whole national territory.",
+       "as_of": "2025-05-29",
+       "date_precision": "day",
+       "system": "Fada El Djazair geoportal",
+       "class": "land"
+      },
+      {
+       "sub_indicator": "land",
+       "aspect": "online",
+       "value": "online",
+       "fact": "APS says users download cadastral and land documents on the portal without visiting the land registry office, cutting delivery from a month to eight days.",
+       "as_of": "2025-05-29",
+       "date_precision": "day",
+       "system": "Fada El Djazair geoportal",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fada El Djazair geoportal",
+       "country_label": "DZA",
+       "class": "land",
+       "platform": "web geoportal",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "APS says cadastral and land documents on the Fada El Djazair portal are issued through an electronic payment system.",
+       "as_of": "2025-05-29",
+       "date_precision": "day",
+       "system": "Fada El Djazair geoportal",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fada El Djazair geoportal",
+       "country_label": "DZA",
+       "class": "other",
+       "platform": "web geoportal",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,8 @@
+{"slug": "2026-04-14-com-un-moment-historique-pour-les-comores-au-rcmrd-nairobi", "studies": {
+"landadmin": {"countries": {"COM": {"facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "underway", "fact": "The head of the Comoros Cartography Unit said a land information system (Systeme d'Information Foncier) is being set up as a national priority, financed by the World Bank through the regional climate resilience project.", "as_of": "2026-04-14", "date_precision": "day", "system": "Systeme d'Information Foncier", "class": "landmis"}
+], "systems": [{"system": "Systeme d'Information Foncier", "country_label": "Comoros", "class": "landmis", "platform": "", "owner": "Cellule de Cartographie", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"COM": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "The head of the Comoros Cartography Unit said a land information system (Systeme d'Information Foncier) is being set up as a national priority, financed by the World Bank through the regional climate resilience project.", "as_of": "2026-04-14", "date_precision": "day", "system": "Systeme d'Information Foncier", "class": "land"}
+], "systems": [{"system": "Systeme d'Information Foncier", "country_label": "Comoros", "class": "land", "platform": "", "owner": "Cellule de Cartographie", "tiers": ""}], "note": ""}}}
+}}

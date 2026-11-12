@@ -1,0 +1,62 @@
+{
+ "slug": "2025-01-07-sdn-sagiapress-customs-valuation-database-launched",
+ "studies": {
+  "customs": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "A valuation database is not a declaration-processing system; no customs clearance system is stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No online government service for the public is stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "yes",
+       "fact": "Sudan Customs' information technology directorate says its own software officers programmed the electronic customs valuation database and the e-violations system, which were run on Oracle APEX and 19c.",
+       "as_of": "2025-01-07",
+       "date_precision": "day",
+       "system": "electronic customs valuation database",
+       "class": "staff"
+      },
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "built",
+       "value": "live",
+       "fact": "The acting director general of Sudan Customs launched the electronic customs valuation database at the North Port, built by customs IT officers rather than a contractor.",
+       "as_of": "2025-01-07",
+       "date_precision": "day",
+       "system": "electronic customs valuation database",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "electronic customs valuation database",
+       "country_label": "Sudan",
+       "class": "staff",
+       "platform": "Oracle APEX / Oracle 19c",
+       "owner": "Sudan Customs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

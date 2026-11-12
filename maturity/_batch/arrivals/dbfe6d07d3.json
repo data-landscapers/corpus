@@ -1,0 +1,19 @@
+{"slug": "2026-08-16-gin-startups-en-guinee-ibrahima-diallo-dresse-l-autopsie-d-un-ecosysteme-q", "studies": {
+"businesspayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Public procurement is mentioned only as relationship-driven; no system stated."}}},
+"centralbank": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The prudential framework is criticised in a line; no central bank mandate or action is stated."}}},
+"consumerprotection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document does not address consumer protection."}}},
+"crossborderpayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No cross-border corridor is stated."}}},
+"g2ppayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document does not address government payments to people."}}},
+"nonstatefinance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "States there is no venture fund or angel network in the country but reports no deal and does not say no private money has been put in."}}},
+"paymentsuptake": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No survey figure on account ownership."}}},
+"retailpayments": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Lengo Pay's director general says payments are the only technology segment in Guinea to have built significant volume, citing electronic money among the viable sectors, and that payment interoperability is still to come.", "as_of": "2026-08-16", "date_precision": "day", "system": "digital payment solutions", "class": "retail"}],
+"systems": [{"system": "Lengo Pay", "country_label": "Guinea", "class": "retail", "platform": "", "owner": "Lengo Pay (private)", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Tax is discussed only as formalisation burden; no electronic payment stated."}}},
+"startups": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "startuppolicy", "aspect": "law", "value": "none", "fact": "Lengo Pay's director general Ibrahima Diallo, quoted by Business 360, notes the absence of a Startup Act in Guinea, unlike Senegal, Cote d'Ivoire and Tunisia.", "as_of": "2026-08-16", "date_precision": "day", "system": "Startup Act", "class": "startuppolicy"}],
+"systems": [], "note": ""}}},
+"techhubs": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "Lengo Pay's director general says Guinea's support apparatus of incubators, hubs, contests and forums runs programmes judged on youths trained and workshops held, as reported by Business 360.", "as_of": "2026-08-16", "date_precision": "day", "system": "incubators and hubs", "class": "hub"}],
+"systems": [], "note": ""}}}
+}}

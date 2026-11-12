@@ -1,0 +1,6 @@
+{"slug": "2026-08-18-lso-wb-rfb-it-equipment-recovery-site-identity-systems", "studies": {
+"authentication": {"countries": {"LSO": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "A World Bank-financed notice, issued by Lesotho's Ministry of Finance and Development Planning, invites bids for IT equipment for a recovery site of the identity systems, including one hardware security module for PKI.", "as_of": "2026-06-19", "date_precision": "day", "system": "Identity systems (PKI)", "class": "authentication"}], "systems": [], "note": ""}}},
+"businessregister": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on the business register."}}},
+"offsitebackup": {"countries": {"LSO": {"facts": [], "systems": [{"system": "Identity systems recovery site", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Ministry of Finance and Development Planning", "tiers": ""}], "note": "Recovery site equipment only tendered, and no place named."}}},
+"police": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on police station records."}}}
+}}

@@ -1,0 +1,72 @@
+{
+ "slug": "2023-12-04-sle-specific-procurement-notice-design-development-customization-supply-in",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Government of Sierra Leone's World Bank-funded project issued a procurement notice on 4 December 2023 inviting proposals to design, supply and install an e-GP system, with key features due within 52 weeks.",
+       "as_of": "2023-12-04",
+       "date_precision": "day",
+       "system": "e-GP system",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP system",
+       "country_label": "Sierra Leone",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Government of Sierra Leone",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "outsourced",
+       "fact": "The 2023 procurement notice says the contracted firm will be responsible for operations and support of the government-owned e-GP system, including quarterly releases and fixes.",
+       "as_of": "2023-12-04",
+       "date_precision": "day",
+       "system": "e-GP system",
+       "class": "staff"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

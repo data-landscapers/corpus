@@ -1,0 +1,7 @@
+{"slug": "2026-05-21-nga-fg-backs-edo-states-digital-land-reform-initiative", "studies": {
+"landadmin": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only a federal commendation of EdoGIS and a proposed programme; no land transaction system stated."}}},
+"landregister": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "Nigeria Housing Market reports that a federal delegation praised the Edo State Geographic Information Service (EdoGIS) for aligning with national efforts to digitise land records, under a World Bank-backed federal land titling and documentation programme.", "as_of": "2026-05-21", "date_precision": "day", "system": "EdoGIS", "class": "land"}
+], "systems": [{"system": "EdoGIS", "country_label": "Edo State Geographic Information Service", "class": "land", "platform": "", "owner": "Edo State Government", "tiers": "state"}], "note": ""}}},
+"localrecords": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No local government revenue record system stated."}}}
+}}

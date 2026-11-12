@@ -1,0 +1,6 @@
+{"slug": "2026-07-29-gha-judiciary-to-roll-out-electronic-court-processes-from-october-cj", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Court e-authentication of processes is a forward announcement, not a person-identity service."}}},
+"justice": {"countries": {"GHA": {"facts": [], "systems": [{"system": "E-Justice Plus Agenda", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Judicial Service", "tiers": ""}], "note": "Only a forward announcement on 29 July 2026 of e-filing and court automation from 1 October 2026; no system stated built, piloted or in service."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Ghana."}}},
+"taxadmin": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Ghana."}}}
+}}

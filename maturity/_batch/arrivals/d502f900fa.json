@@ -1,0 +1,19 @@
+{"slug": "2025-10-25-dza-le-data-center-de-la-bnh-une-infrastructure-cle-pour-la-digitalisation", "studies": {
+"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"DZA": {"facts": [], "systems": [], "note": "A commercial bank's data centre; nothing on the central bank."}}},
+"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."}}},
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"DZA": {"facts": [], "systems": [{"system": "BNH Data Centre", "country_label": "Data Center de la BNH", "class": "other", "platform": "", "owner": "Banque nationale de l'habitat", "tiers": "Tier III (Uptime, per BNH)"}], "note": "Hosts the bank's own systems; no renting to outside organisations stated."}}},
+"dataprotectionlaw": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "La voie d'Algérie says the BNH data centre complies with regulations in force including law 18-05 on the protection of personal data.", "as_of": "2025-10-25", "date_precision": "day", "system": "Law 18-05", "class": "general"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on a national digital strategy."}}},
+"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"nationaldatacentres": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The BNH centre serves only the bank's own systems; not for hire."}}},
+"offsitebackup": {"countries": {"DZA": {"facts": [], "systems": [], "note": "A backup centre at Biskra is only planned, and is a bank's own, not a public body's."}}},
+"paymentsuptake": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"retailpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"startups": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Only a bank's editorial pledge to encourage fintech startups; no state law or fund."}}},
+"techhubs": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on hubs."}}}
+}}

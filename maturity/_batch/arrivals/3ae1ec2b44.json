@@ -1,0 +1,21 @@
+{"slug": "2025-06-18-sen-senegal-la-startup-e-sante-kera-health-leve-10-millions-de-dollars-aup", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on AI rules or authority."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No government body using AI is named."}}},
+"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [{"system": "Kera Health platform", "country_label": "Senegal", "class": "other", "platform": "AI health data platform", "owner": "Kera Health (private)", "tiers": ""}], "note": "Private startup platform, no public body using it stated."}}},
+"aisystems": {"countries": {"SEN": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Digital Business Africa reports the Senegalese startup Kera Health is building an AI-powered health data platform for Senegal and the UEMOA zone, backed by a USD 10 million IFC capital injection due for validation on 20 June 2025.", "as_of": "2025-06-18", "date_precision": "day", "system": "Kera Health platform", "class": "localai"}], "systems": [{"system": "Kera Health platform", "country_label": "Senegal", "class": "localai", "platform": "AI health data platform", "owner": "Kera Health (private)", "tiers": ""}], "note": ""}}},
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on central bank role."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"fibrebackbone": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on fibre."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"internationalstandards": {"countries": {"SEN": {"facts": [], "systems": [], "note": "IFC helping a company adopt standards is not a national standards fact."}}},
+"nonstatefinance": {"countries": {"SEN": {"facts": [], "systems": [], "note": "IFC capital was still to be validated on 20 June 2025; no signed commitment stated."}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"regionalpolicy": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on regional digital policy."}}},
+"retailpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on retail payments."}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}},
+"satellitebroadband": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on satellite broadband."}}},
+"startups": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No startup law, strategy or public fund stated."}}},
+"techhubs": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No hub, incubator or park for Senegal named."}}}
+}}

@@ -1,0 +1,9 @@
+{"slug": "2023-12-14-cmr-bientot-une-ligne-directe-camtel-ctd", "studies": {
+"birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on a civil register to ID link."}}},
+"civilregister": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Digitising civil status acts is only a suggested application."}}},
+"datalocalisation": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Local data hosting is only a participants' wish, no rule."}}},
+"idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"landregister": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Digital cadastre is only a suggested application."}}},
+"localgov": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A Camtel framework agreement to connect councils is only announced, no connection in service; one mayor says his commune is not covered."}}},
+"registry": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Digitising civil status acts is only a suggested application."}}}
+}}

@@ -1,0 +1,11 @@
+{"slug": "2025-06-20-com-yas-comoros-part-of-axian-telecom-secures-25-million-ifc-loan-to-drive", "studies": {
+"businesspayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"COM": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"COM": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"nonstatefinance": {"countries": {"COM": {"facts": [{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "AXIAN Telecom reports that the IFC will lend Yas Comoros EUR 25 million, announced 20 June 2025, to deploy telecom infrastructure and 5G, FTTH and FTTO; an earlier IFC EUR 13 million loan of 2019 was repaid in June 2025.", "as_of": "2025-06-20", "date_precision": "day", "system": "IFC loan to Yas Comoros", "class": "private"}], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"COM": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Nothing on mobile money."}}},
+"revenuecollection": {"countries": {"COM": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."}}}
+}}

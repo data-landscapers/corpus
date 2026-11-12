@@ -1,0 +1,10 @@
+{"slug": "2026-11-09-xea-bmz-digital-building-trusted-open-finance-in-africa", "studies": {
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}, "ZAF": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only an open finance data repository with the statistics institute is stated; no payments mandate, licensing or switch."}, "ZAF": {"facts": [], "systems": [], "note": "Only an open finance readiness assessment with the fintech working group is stated; no payments mandate, licensing or switch."}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No consumer rule or complaints body stated."}, "ZAF": {"facts": [], "systems": [], "note": "No consumer rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}, "ZAF": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}, "ZAF": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."}, "ZAF": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."}}},
+"retailpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on mobile money services."}, "ZAF": {"facts": [], "systems": [], "note": "Nothing on mobile money services."}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}, "ZAF": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}}
+}}

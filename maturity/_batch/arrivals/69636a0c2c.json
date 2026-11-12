@@ -1,0 +1,144 @@
+{
+ "slug": "2025-09-01-dji-mden-cle-banque-mondiale-la-premiere-cohorte-de-startup-djiboutien-dev",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "La Nation reports that a future Startup Act is currently in preparation in Djibouti.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The Centre de Leadership et de l'Entrepreneuriat ran the Startup Djibouti programme, a first cohort of selected startups with mentoring, coaching and financial support, ending in a Demo Day; over 325 applications were received.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Startup Djibouti (CLE)",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Djibouti (CLE)",
+       "country_label": "Djibouti",
+       "class": "hub",
+       "platform": "",
+       "owner": "Centre de Leadership et de l'Entrepreneuriat",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

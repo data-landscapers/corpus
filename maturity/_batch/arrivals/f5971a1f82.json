@@ -1,0 +1,5 @@
+{"slug": "2024-06-08-mus-judiciaire-un-systeme-de-climatisation-dernier-cri-pour-la-new-court-h", "studies": {
+"egovservices": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Budget announcements of online services (e-judiciary, certificate of character) are plans, not services in use."}}},
+"justice": {"countries": {"MUS": {"facts": [], "systems": [{"system": "Children's Court case management system", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "Judiciary of Mauritius", "tiers": "Children's Court"}], "note": "A Children's Court case management system and an e-judiciary service are budget announcements only, with no procurement, pilot or build stated."}}},
+"schoolinternet": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Document states nothing on schools."}}}
+}}

@@ -1,0 +1,9 @@
+{"slug": "2024-12-11-eth-addis-ababa-embarking-on-smart-city-transformation", "studies": {
+"civilregister": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "Addis Ababa's Innovation and Technology Development Office head says the City Net initiative, over 280 million birr across 58 institutions and 120 districts, aims to modernise vital event registration in the capital.", "as_of": "2024-12-11", "date_precision": "day", "system": "City Net", "class": "civil"}
+], "systems": [{"system": "City Net", "country_label": "Ethiopia (Addis Ababa)", "class": "civil", "platform": "Ethio Telecom network", "owner": "Addis Ababa city administration", "tiers": "city"}], "note": ""}}},
+"egovservices": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "The Addis Ababa city administration says its Investment Office already lets citizens apply for permits and renewals online from home, and institutions are moving from manual to online services.", "as_of": "2024-12-11", "date_precision": "day", "system": "Addis Ababa Investment Office online permits", "class": "eservices"}
+], "systems": [{"system": "Addis Ababa Investment Office online permits", "country_label": "Ethiopia (Addis Ababa)", "class": "eservices", "platform": "", "owner": "Addis Ababa city administration", "tiers": "city"}], "note": ""}}},
+"registry": {"countries": {"ETH": {"facts": [], "systems": [{"system": "City Net", "country_label": "Ethiopia (Addis Ababa)", "class": "other", "platform": "Ethio Telecom network", "owner": "Addis Ababa city administration", "tiers": "city"}], "note": "Only an aim to modernise vital event registration in the capital; no office entry of births or deaths stated."}}}
+}}

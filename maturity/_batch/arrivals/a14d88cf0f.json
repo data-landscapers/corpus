@@ -1,0 +1,5 @@
+{"slug": "2025-07-10-sle-dsti-and-ministry-of-energy-launch-development-of-core-energy-sector-s", "studies": {
+"itcapacity": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "OWLPRESS reports that the Directorate of Science, Technology and Innovation (DSTI) was commissioned in July 2025 to develop for the Ministry of Energy a national energy dashboard, a GIS database of energy assets and a market operations portal.", "as_of": "2025-07", "date_precision": "month", "system": "DSTI", "class": "staff"}
+], "systems": [{"system": "National Energy Dashboard", "country_label": "National Energy Dashboard", "class": "other", "platform": "", "owner": "Ministry of Energy; built by DSTI", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,15 @@
+{"slug":"2024-07-15-mar-morocco-s-justice-ministry-to-integrate-artificial-intelligence-in-cou","studies":{
+"aiabuse":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No rule or authority on AI harms stated."}}},
+"aigovernment":{"countries":{"MAR":{"facts":[],"systems":[],"note":"AI in courts is only planned, with an agreement in principle; no pilot or service stated."}}},
+"aisectoral":{"countries":{"MAR":{"facts":[],"systems":[],"note":"AI for judicial dictation and transcription is an intention, not a pilot or service."}}},
+"aisystems":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No AI model, dataset or computing built in the country stated."}}},
+"authentication":{"countries":{"MAR":{"facts":[{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"Morocco's Justice Minister said applicants for a nationality certificate can verify their identity online, in a written answer to Parliament reported July 2024.","as_of":"2024-07-15","date_precision":"day","system":"Nationality certificate online service","class":"authentication"}],"systems":[{"system":"Nationality certificate online service","country_label":"Morocco","class":"authentication","platform":"","owner":"Ministry of Justice","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing stated on civil register and ID links."}}},
+"idcoverage":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing stated on a number at birth."}}},
+"idmaintenance":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing stated on who runs the ID system."}}},
+"idregisters":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Paying fines by national ID number names no register keyed on the number."}}},
+"idrobustness":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing stated on the national ID system itself."}}},
+"revenuecollection":{"countries":{"MAR":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Morocco's Justice Minister said fines for infractions and certain misdemeanors can now be paid electronically using a report number or national identification number, per a July 2024 report.","as_of":"2024-07-15","date_precision":"day","system":"Electronic payment of fines","class":"revenue"}],"systems":[{"system":"Electronic payment of fines","country_label":"Morocco","class":"revenue","platform":"","owner":"Ministry of Justice","tiers":""}],"note":""}}},
+"taxadmin":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No tax filing or payment system stated."}}}
+}}

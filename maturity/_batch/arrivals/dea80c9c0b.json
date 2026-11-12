@@ -1,0 +1,11 @@
+{"slug": "2026-11-10-sen-cartes-nationales-d-identite-a-l-etranger-quand-le-senegal-renouera-t-il", "studies": {
+"authentication": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
+"birthidlink": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No link between civil register and ID is stated."}}},
+"civilregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
+"idcoverage": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"SEN": {"facts": [{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "A former consul general writes that since 2017 consulates enrol card applications while production of the ECOWAS biometric national ID card is centralised in Dakar at the Direction de l'automatisation du fichier, a national directorate.", "as_of": "2026-11-10", "date_precision": "day", "system": "ECOWAS biometric national identity card", "class": "idsystem"}], "systems": [{"system": "ECOWAS biometric national identity card", "country_label": "Senegal", "class": "idsystem", "platform": "", "owner": "Direction de l'automatisation du fichier (Ministry of Interior)", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"SEN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "A former consul general writes that Senegal has issued the biometric ECOWAS national ID card since 2017, with applications enrolled at consulates and cards produced in Dakar.", "as_of": "2026-11-10", "date_precision": "day", "system": "ECOWAS biometric national identity card", "class": "idsystem"}], "systems": [{"system": "ECOWAS biometric national identity card", "country_label": "Senegal", "class": "idsystem", "platform": "", "owner": "Direction de l'automatisation du fichier (Ministry of Interior)", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}}
+}}

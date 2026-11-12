@@ -1,0 +1,146 @@
+{
+ "slug": "2024-01-01-rwa-declare-your-immovable-property-tax-today-to-avoid-procrastination",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Property tax is declared to and collected by the national RRA, so it is central, not a local record system."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Rwanda Revenue Authority says property tax can be paid by Mobile Money and Mobicash, which implies both are in service.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Mobile Money; Mobicash",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Rwanda Revenue Authority says immovable property tax is declared online or by *800# and paid by Mobile Money, Mobicash or bank, the system open since August 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "RRA immovable property tax declaration system",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Rwanda Revenue Authority says taxpayers log in to its website with their TIN and password to declare property tax, which implies a computerised register keyed on TIN.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "RRA online declaration system",
+       "class": "tax"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

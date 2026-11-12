@@ -1,0 +1,9 @@
+{"slug": "2026-07-27-nga-fg-launches-digital-hr-system-ends-manual-staff-postings-across-civil", "studies": {
+"civilserviceskills": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states no digital-skills training for civil servants."}}},
+"coresystems": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "core", "aspect": "payroll", "value": "inuse", "fact": "The Accountant-General says IPPIS, the federal payroll system running since 2007, now covers 508 ministries, departments and agencies and more than 1,008,800 employee records.", "as_of": "2026-07-27", "date_precision": "day", "system": "IPPIS", "class": "core"},
+{"sub_indicator": "core", "aspect": "renewed", "value": "live", "fact": "The Federal Government launched the IPPIS Human Resource modules on 27 July 2026, a platform the Head of the Civil Service says replaced the Oracle E-Business Suite after testing.", "as_of": "2026-07-27", "date_precision": "day", "system": "IPPIS", "class": "core"}
+], "systems": [{"system": "IPPIS", "country_label": "Nigeria", "class": "core", "platform": "SoftAlliance and Resources platform", "owner": "Office of the Accountant-General of the Federation", "tiers": "federal"}], "note": ""}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not say IPPIS is keyed on the national ID number."}}},
+"itcapacity": {"countries": {"NGA": {"facts": [], "systems": [{"system": "IPPIS HR modules", "country_label": "Nigeria", "class": "other", "platform": "SoftAlliance and Resources Limited", "owner": "Office of the Head of the Civil Service of the Federation", "tiers": "federal"}], "note": "Platform was built by an indigenous private company, SoftAlliance, not government staff; no statement on who runs it."}}}
+}}

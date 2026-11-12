@@ -1,0 +1,13 @@
+{"slug": "2026-08-01-mwi-expression-of-interest-eoi-development-of-property-management-informat", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No business payment system is stated."}}},
+"centralbank": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Not about the central bank."}}},
+"consumerprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Not about consumer protection."}}},
+"coresystems": {"countries": {"MWI": {"facts": [], "systems": [{"system": "IFMIS", "country_label": "Malawi", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "IFMIS is named only as a Lilongwe City Council reporting platform, not stated in use across central government."}}},
+"crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No cross-border payments are stated."}}},
+"g2ppayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No government-to-person payments are stated."}}},
+"localgov": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No office connection is stated."}}},
+"localrecords": {"countries": {"MWI": {"facts": [{"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "Lilongwe City Council's expression of interest says it maintains a rates database of about 47,000 properties and an existing property rates management system, with ratepayer accounts and the IRMS as its primary revenue collection system, and plans a new system.", "as_of": "2026-08", "date_precision": "month", "system": "Lilongwe City Council property rates system and IRMS", "class": "revenue"}], "systems": [{"system": "IRMS", "country_label": "Lilongwe City Council", "class": "revenue", "platform": "", "owner": "Lilongwe City Council", "tiers": ""}, {"system": "Property Management Information System (planned)", "country_label": "Lilongwe City Council", "class": "other", "platform": "", "owner": "Lilongwe City Council", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No payments uptake figure is stated."}}},
+"retailpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No retail payment system is stated; the notice only says the rates system has no bank or mobile money interface."}}},
+"revenuecollection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only a city council's rates system is described, not state taxes or fees paid electronically."}}}
+}}

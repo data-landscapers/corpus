@@ -1,0 +1,16 @@
+{"slug": "2025-08-21-gnq-gitge-drives-fibre-optic-growth-in-equatorial-guinea", "studies": {
+"businesspayments": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on a central bank payments role."}}},
+"consumerprotection": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer rules."}}},
+"crossborderpayments": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"GNQ": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "btw.media states that GITGE offers colocation at its landing stations and data centres, in Equatorial Guinea alongside IP transit from Malabo and Bata and its Malabo and Bata Digital Ports.", "as_of": "2025-08-21", "date_precision": "day", "system": "GITGE colocation at landing and data centres", "class": "datacentre"}], "systems": [{"system": "GITGE data centres and Digital Ports (Malabo, Bata)", "country_label": "GITGE", "class": "datacentre", "platform": "", "owner": "GITGE", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"internationalbandwidth": {"countries": {"GNQ": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "btw.media states that GITGE connects Equatorial Guinea through the ACE submarine cable via Ceiba-1, online since 2012; SAIL is named beside it as a landing system GITGE links, without being stated in service.", "as_of": "2025-08-21", "date_precision": "day", "system": "ACE via Ceiba-1", "class": "route"}, {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "btw.media states that GITGE sells capacity to internet service providers on equal terms.", "as_of": "2025-08-21", "date_precision": "day", "system": "GITGE wholesale capacity", "class": "route"}], "systems": [{"system": "ACE via Ceiba-1", "country_label": "ACE", "class": "route", "platform": "", "owner": "GITGE", "tiers": ""}], "note": ""}}},
+"internetusage": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Only an Africa-wide usage share is stated, none for Equatorial Guinea."}}},
+"nationaldatacentres": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "GITGE's colocation is stated but its state or national ownership is not."}}},
+"paymentsuptake": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."}}},
+"retailpayments": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on mobile money in Equatorial Guinea."}}},
+"revenuecollection": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}},
+"startups": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on startup law or funds."}}},
+"techhubs": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on technology hubs in Equatorial Guinea."}}}
+}}

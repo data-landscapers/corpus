@@ -1,0 +1,50 @@
+{
+ "slug": "2026-04-09-dza-appel-d-offre-national-et-international-ouvert-n-01-hcn-2026-etude-rea",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender for a national disaster-recovery data centre; not in service."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender for a national disaster-recovery data centre; not in service."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender for a national disaster-recovery data centre; not in service."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing about police records."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing about a tax register."
+    }
+   }
+  }
+ }
+}

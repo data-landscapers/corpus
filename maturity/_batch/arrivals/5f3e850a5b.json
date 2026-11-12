@@ -1,0 +1,21 @@
+{"slug": "2024-12-18-cod-trident-drc-collaboration-agreement-national-e-government-system", "studies": {
+"authentication": {"countries": {"COD": {"facts": [], "systems": [], "note": "Only a framework MoU to explore a platform; nothing contracted, piloted or in service."}}},
+"birthidlink": {"countries": {"COD": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"businessregister": {"countries": {"COD": {"facts": [], "systems": [], "note": "Business registration only named as a possible future service."}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"civilregister": {"countries": {"COD": {"facts": [], "systems": [], "note": "Civil registry only named as a possible future service."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"egovservices": {"countries": {"COD": {"facts": [], "systems": [], "note": "Framework MoU to explore an e-government system; no portal launched or service online."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idcoverage": {"countries": {"COD": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idmaintenance": {"countries": {"COD": {"facts": [], "systems": [], "note": "No existing ID system operation stated."}}},
+"idregisters": {"countries": {"COD": {"facts": [], "systems": [], "note": "No register keyed on an ID number stated."}}},
+"idrobustness": {"countries": {"COD": {"facts": [], "systems": [], "note": "A digital-ID platform is only to be agreed in a definitive deal; not procured, built or piloted."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"registry": {"countries": {"COD": {"facts": [], "systems": [], "note": "No local civil registration office practice stated."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+}}

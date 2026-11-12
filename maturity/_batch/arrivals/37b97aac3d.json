@@ -1,0 +1,52 @@
+{
+ "slug": "2025-04-30-sdn-sudani-rebrand-usd-250m-infrastructure-investment",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "RT Media says Sudani, a telecom operator, expanded its data centres to offer cloud computing and backup services and bought a new data centre.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Sudani data centres",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Sudani data centres",
+       "country_label": "SDN",
+       "class": "datacentre",
+       "platform": "cloud and backup services",
+       "owner": "Sudani",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Ownership of the operator's data centres is not stated."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Operator backup service; no government systems or site place stated."
+    }
+   }
+  }
+ }
+}

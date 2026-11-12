@@ -1,0 +1,16 @@
+{"slug": "2025-04-03-civ-djamo-hits-1m-active-customers-and-raises-17m-of-equity-to-double-down", "studies": {
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Licences are mentioned only as being sought by Djamo, no central bank role stated."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"gendergap": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Women as a third of one app's users is not an official gap figure."}}},
+"nonstatefinance": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Partech's release of 3 April 2025 says fintech Djamo, based in Abidjan, raised $17 million in equity led by Janngo Capital, described as the largest VC round in Ivory Coast; the amount is for the company across Cote d'Ivoire and Senegal.", "as_of": "2025-04-03", "date_precision": "day", "system": "Djamo", "class": "private"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No adult account survey figure; only a regional bank account remark."}}},
+"retailpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Djamo is a private app and no mobile money service or switch is stated."}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Private investor deal with no public scheme."}}},
+"techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on hubs or parks."}}}
+}}

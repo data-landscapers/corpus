@@ -1,0 +1,4 @@
+{"slug": "2025-09-23-ssd-consultancy-service-for-developing-land-information-system-lis-for-sou", "studies": {
+"landadmin": {"countries": {"SSD": {"facts": [{"sub_indicator": "landmis", "aspect": "system", "value": "underway", "fact": "FAO issued a request for proposal on 23 September 2025, closing 30 October 2025, for consultancy services to develop a Land Information System for South Sudan.", "as_of": "2025-09-23", "date_precision": "day", "system": "Land Information System (LIS) for South Sudan", "class": "landmis"}], "systems": [], "note": ""}}},
+"landregister": {"countries": {"SSD": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "FAO issued a request for proposal on 23 September 2025 for consultancy services to develop a Land Information System for South Sudan.", "as_of": "2025-09-23", "date_precision": "day", "system": "Land Information System (LIS) for South Sudan", "class": "land"}], "systems": [], "note": ""}}}
+}}

@@ -1,108 +1,15 @@
 {
- "slug": "2026-06-29-ago-angop-agt-asy5-porto-luanda-ia",
- "studies": {
-  "aiabuse": {
-   "countries": {
-    "AGO": {
-     "facts": [],
-     "systems": [],
-     "note": "Not stated in the document."
-    }
-   }
-  },
-  "aigovernment": {
-   "countries": {
-    "AGO": {
-     "facts": [],
-     "systems": [],
-     "note": "AI named only inside customs, a sector system."
-    }
-   }
-  },
-  "aisectoral": {
-   "countries": {
-    "AGO": {
-     "facts": [
-      {
-       "sub_indicator": "sectorai",
-       "aspect": "use",
-       "value": "inservice",
-       "fact": "AGT project coordinator Cynthia Ratle says the ASY5 customs system launched at Luanda port introduces AI-based risk management that analyses cargo from manifest submission, and AGT chair Jos\u00e9 Leiria says it uses AI and machine learning to check origin, value and consistency.",
-       "as_of": "2026-06-29",
-       "date_precision": "day",
-       "system": "ASY5",
-       "class": "sectorai"
-      }
-     ],
-     "systems": [
-      {
-       "system": "ASY5",
-       "country_label": "Angola",
-       "class": "sectorai",
-       "platform": "ASYCUDA (UNCTAD)",
-       "owner": "AGT",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "aisystems": {
-   "countries": {
-    "AGO": {
-     "facts": [],
-     "systems": [],
-     "note": "Not stated in the document."
-    }
-   }
-  },
-  "customs": {
-   "countries": {
-    "AGO": {
-     "facts": [
-      {
-       "sub_indicator": "customs",
-       "aspect": "system",
-       "value": "inservice",
-       "fact": "Angola's tax administration AGT officially launched the ASY5 customs data-processing system at the Port of Luanda on 29 June 2026, after introducing it at Lobito, Namibe and Cabinda.",
-       "as_of": "2026-06-29",
-       "date_precision": "day",
-       "system": "ASY5",
-       "class": "customs"
-      }
-     ],
-     "systems": [
-      {
-       "system": "ASY5",
-       "country_label": "Angola",
-       "class": "customs",
-       "platform": "ASYCUDA (UNCTAD)",
-       "owner": "AGT",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "schools": {
-   "countries": {
-    "AGO": {
-     "facts": [],
-     "systems": [],
-     "note": "Not stated in the document."
-    }
-   }
-  },
-  "socialexchange": {
-   "countries": {
-    "AGO": {
-     "facts": [],
-     "systems": [],
-     "note": "Not stated in the document."
-    }
-   }
+  "slug": "2026-06-29-ago-angop-agt-asy5-porto-luanda-ia",
+  "studies": {
+    "coresystems": {"countries": {"AGO": {
+      "facts": [],
+      "systems": [
+        {"system": "ASY5 (Sistema Automatizado de Processamento de Dados Aduaneiros)", "country_label": "ASY5", "class": "other", "platform": "UNCTAD", "owner": "AGT", "tiers": ""}
+      ],
+      "note": "The article is about the customs system ASY5, which is not a core system for this study; nothing on the financial, tax or payroll systems."}}},
+    "educationexchange": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on education systems."}}},
+    "educationmis": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on education systems."}}},
+    "health": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on health systems."}}},
+    "healthmis": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on health systems."}}}
   }
- }
 }

@@ -1,0 +1,17 @@
+{"slug": "2025-09-04-cod-dr-congo-based-yamify-raises-100k-to-launch-a-localized-ai-cloud-for-a", "studies": {
+"aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "A company's AI cloud with no public body using it."}}},
+"aisystems": {"countries": {"COD": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Arab Founders reports that Kinshasa-based startup Yamify, founded in 2024, is building a GPU-powered AI cloud platform hosted in African data centres and is in private beta with a waitlist of over 1,500.", "as_of": "2025-09-04", "date_precision": "day", "system": "Yamify", "class": "localai"}], "systems": [{"system": "Yamify", "country_label": "DR Congo", "class": "localai", "platform": "GPU cloud hosted in African data centres", "owner": "Yamify (private startup)", "tiers": ""}], "note": ""}}},
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated on the central bank."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated on consumer protection."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"datacentres": {"countries": {"COD": {"facts": [], "systems": [], "note": "Data centres are named only as African, none in COD."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated on government payments."}}},
+"itcapacity": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated on government IT staff."}}},
+"nationaldatacentres": {"countries": {"COD": {"facts": [], "systems": [], "note": "No nationally owned data centre named."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No account-holding survey share stated."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Mobile money mentioned only as billing integration, no service status stated."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated on tax payment."}}},
+"startups": {"countries": {"COD": {"facts": [], "systems": [], "note": "A private angel deal with no public scheme."}}},
+"techhubs": {"countries": {"COD": {"facts": [], "systems": [], "note": "No hub, incubator or park in COD stated."}}}
+}}

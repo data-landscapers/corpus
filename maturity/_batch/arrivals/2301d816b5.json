@@ -1,0 +1,38 @@
+{
+  "slug": "2026-11-11-bfa-operation-d-enregistrement-de-masse-de-l-identifiant-unique-le-capitaine-ibrah",
+  "studies": {
+    "authentication": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No online identity check, e-signature or digital ID stated."}}},
+    "birthidlink": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No link to the civil register stated."}}},
+    "datacentres": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Only data hosting in Burkina for the ID system is stated; no data centre renting to others."}}},
+    "idcoverage": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Enrolment was just launched; no count or share enrolled stated."}}},
+    "idfrombirth": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on a number given at birth."}}},
+    "idmaintenance": {"countries": {"BFA": {
+      "facts": [
+        {"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "The Presidency's release says the unique-identifier enrolment, launched 11 November 2026, is run by the ministry in charge of digital transition, with everything done by Burkinabè engineers and Burkina's public bodies.", "as_of": "2026-11-11", "date_precision": "day", "system": "Registre de l'identifiant unique électronique", "class": "idsystem"},
+        {"sub_indicator": "maintenance", "aspect": "ownership", "value": "owned", "fact": "President Traoré says the identifier system is purely Burkinabè, made by Burkinabè engineers and public bodies, with data hosting centres in Burkina Faso.", "as_of": "2026-11-11", "date_precision": "day", "system": "Registre de l'identifiant unique électronique", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "Registre de l'identifiant unique électronique", "country_label": "Burkina Faso", "class": "idsystem", "platform": "", "owner": "Ministry in charge of digital transition", "tiers": ""}
+      ],
+      "note": "Who maintains the system after launch is not stated."}}},
+    "idregisters": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The identifier is said to be a common reference for public files, but no register is stated to use it yet."}}},
+    "idrobustness": {"countries": {"BFA": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "On 11 November 2026 President Traoré launched mass enrolment in the register of the electronic unique identifier, issuing a free random 12-digit number per person, through 160 enrolment sites and mobile teams.", "as_of": "2026-11-11", "date_precision": "day", "system": "Registre de l'identifiant unique électronique", "class": "idsystem"},
+        {"sub_indicator": "robustness", "aspect": "biometric", "value": "checked", "fact": "The Presidency's release says enrolment collects photograph, fingerprints and iris data to eliminate multiple records, so each person holds a single number.", "as_of": "2026-11-11", "date_precision": "day", "system": "Registre de l'identifiant unique électronique", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "Registre de l'identifiant unique électronique", "country_label": "Burkina Faso", "class": "idsystem", "platform": "", "owner": "Ministry in charge of digital transition", "tiers": ""}
+      ],
+      "note": "No certification, audit or assurance level stated, and no population share enrolled."}}},
+    "nationaldatacentres": {"countries": {"BFA": {
+      "facts": [
+        {"sub_indicator": "national", "aspect": "state", "value": "hosted", "fact": "President Traoré says the identifier system's data is hosted in data centres in Burkina Faso, which he calls purely Burkinabè and run by Burkinabè public structures.", "as_of": "2026-11-11", "date_precision": "day", "system": "Registre de l'identifiant unique électronique hosting", "class": "datacentre"}
+      ],
+      "systems": [],
+      "note": "No data centre for hire, owner or Tier stated."}}},
+    "police": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on police records."}}},
+    "regionalinfrastructure": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on shared regional infrastructure."}}},
+    "schoolinternet": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+  }
+}

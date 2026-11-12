@@ -1,0 +1,24 @@
+{"slug": "2026-07-14-bfa-burkina-faso-to-extend-telecom-access-to-1-52-million-people", "studies": {
+"businesspayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"businessregister": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on business registration."}}},
+"centralbank": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on the central bank's payments role."}}},
+"civilserviceskills": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on civil servant training."}}},
+"consumerprotection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitaldivides": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Ecofin reports the government plans to connect 1.5 to 2 million people in 1,000 unserved communities in 2026 through PACTDigital, which outlined the plan the week before 14 July 2026.", "as_of": "2026-07", "date_precision": "month", "system": "PACTDigital", "class": "ruralaccess"}
+], "systems": [{"system": "PACTDigital", "country_label": "Burkina Faso", "class": "ruralaccess", "platform": "", "owner": "Government of Burkina Faso", "tiers": ""}], "note": "No sites yet counted as connected; no rural and urban use split."}}},
+"digitalskills": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Skills are named as a need, no programme or survey share stated."}}},
+"g2ppayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"internetusage": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "use", "aspect": "users", "value": "estimate:28.3", "fact": "Ecofin, citing ITU data, says internet use in Burkina Faso was estimated at 28.3% of the population in 2024.", "as_of": "2024", "date_precision": "year", "system": "ITU", "class": "use"}
+], "systems": [{"system": "Regulator subscription count, 78.61% mobile internet penetration, March 2026", "country_label": "78.61", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"mobilepenetration": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "ownership", "aspect": "owners", "value": "estimate:63.9", "fact": "Ecofin, citing ITU data, says 63.9% of Burkina Faso's population owned a mobile phone in 2024.", "as_of": "2024", "date_precision": "year", "system": "ITU", "class": "ownership"}
+], "systems": [{"system": "Regulator subscription count, 120.44% mobile penetration, March 2026", "country_label": "120.44", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No account ownership survey figure."}}},
+"refugees": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on refugees or displaced people."}}},
+"regionalpolicy": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on regional digital policy."}}},
+"retailpayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

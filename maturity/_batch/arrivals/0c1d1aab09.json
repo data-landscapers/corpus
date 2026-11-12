@@ -1,0 +1,13 @@
+{"slug": "2026-10-12-sdn-3ayin-recovering-property-deeds-after-war", "studies": {
+"authentication": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No authentication service is mentioned."}}},
+"birthidlink": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No civil register or ID link is mentioned."}}},
+"idcoverage": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No ID enrolment figure is mentioned."}}},
+"idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No ID system operation is mentioned."}}},
+"idregisters": {"countries": {"SDN": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Ayin Network quotes an Omdurman land-registration employee saying the electronic land records can be searched by owner name and national number, and applications for replacement deeds carry the national number.", "as_of": "2026-10-12", "date_precision": "day", "system": "Land registration electronic database", "class": "register"}], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"SDN": {"facts": [], "systems": [], "note": "A national number and national card are used but no ID system is described."}}},
+"landregister": {"countries": {"SDN": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "Ayin Network quotes an Omdurman land-registration employee saying an electronic database of land records with backup copies is used to check ownership, matched against surviving paper records.", "as_of": "2026-10-12", "date_precision": "day", "system": "Land registration electronic database", "class": "land"}], "systems": [{"system": "Land registration electronic database", "country_label": "Sudan", "class": "land", "platform": "", "owner": "Land registration offices", "tiers": ""}], "note": ""}}},
+"offsitebackup": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Backup copies are mentioned but no backup site or place is named."}}},
+"police": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No police station records are mentioned."}}},
+"refugees": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Displaced owners are discussed only for property papers, not registration or digital services."}}}
+}}

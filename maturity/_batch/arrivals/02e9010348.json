@@ -1,0 +1,13 @@
+{"slug": "2026-10-26-mrt-mauritania-s-fintech-startups-is-investment-following", "studies": {
+"businesspayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MRT": {"facts": [], "systems": [{"system": "BCM DigiLab and regulatory sandbox (PAFIID)", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "Central Bank of Mauritania", "tiers": ""}], "note": "Sandbox and fintech programme are described; no licensing, mandate or switch role is stated."}}},
+"consumerprotection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"nonstatefinance": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No named investment or amount; a below-USD-5m estimate is cited second-hand and says no investment was absent."}}},
+"paymentsuptake": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}},
+"startups": {"countries": {"MRT": {"facts": [{"sub_indicator": "startuppolicy", "aspect": "law", "value": "adopted", "fact": "The Africa Capital Report says Law n. 2024-002 on technological and innovative startups is in place and establishes a labelling regime and facilitations for innovative technology companies.", "as_of": "2024", "date_precision": "year", "system": "Law n. 2024-002 on startups", "class": "startuppolicy"}], "systems": [], "note": ""}}},
+"techhubs": {"countries": {"MRT": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "The Africa Capital Report says the Central Bank of Mauritania's DigiLab and BCM Fintech Program give selected teams three-month accompaniment including incubation, and Nouakchott Innovation Lab runs a local Founder Institute chapter.", "as_of": "2026-10", "date_precision": "month", "system": "BCM DigiLab / Nouakchott Innovation Lab", "class": "hub"}], "systems": [{"system": "Nouakchott Innovation Lab", "country_label": "Mauritania", "class": "hub", "platform": "Founder Institute Mauritania", "owner": "", "tiers": ""}], "note": ""}}}
+}}

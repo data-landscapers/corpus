@@ -1,0 +1,15 @@
+{"slug": "2026-03-24-sen-digitalisation-de-la-justice-des-services-desormais-accessibles-en-lig", "studies": {
+"authentication": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Justice minister Yacine Fall said the e-justice platform used by Senegal's courts integrates the electronic signature of magistrates and clerks, with traceability and checks of document authenticity.", "as_of": "2026-03-24", "date_precision": "day", "system": "e-justice", "class": "authentication"}
+], "systems": [{"system": "e-justice", "country_label": "Sénégal", "class": "authentication", "platform": "court case application with e-signature", "owner": "Ministry of Justice", "tiers": ""}], "note": ""}}},
+"ecommercelaw": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The justice minister said Senegal has a legal framework including the law on electronic transactions, which recognises the legal value of digital documents.", "as_of": "2026-03-24", "date_precision": "day", "system": "loi sur les transactions électroniques", "class": "law"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "The e-service de la justice portal, interoperable with the e-Sénégal single counter, offers in its pilot phase criminal-record extracts, nationality certificates and the permis de communiquer, per the justice minister.", "as_of": "2026-03-24", "date_precision": "day", "system": "e-service de la justice", "class": "eservices"}
+], "systems": [{"system": "e-service de la justice", "country_label": "Sénégal", "class": "eservices", "platform": "web portal, interoperable with e-Sénégal", "owner": "Ministry of Justice", "tiers": ""}], "note": ""}}},
+"justice": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "justice", "aspect": "cases", "value": "inservice", "fact": "The justice minister said the e-justice platform is now used as the working application by Senegal's courts, where magistrates and clerks process case files in one digital environment.", "as_of": "2026-03-24", "date_precision": "day", "system": "e-justice", "class": "justice"}
+], "systems": [{"system": "e-justice", "country_label": "Sénégal", "class": "justice", "platform": "court case application", "owner": "Ministry of Justice", "tiers": ""}], "note": ""}}},
+"police": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Police stations not mentioned."}}}
+}}

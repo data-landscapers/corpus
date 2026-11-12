@@ -1,0 +1,17 @@
+{"slug": "2026-10-15-tgo-foncier-apres-la-nomination-de-son-dg-l-andf-face-au-defi-de-son-opera", "studies": {
+"addressregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Addressing is named only as one aim of a land census; no addressing system is stated under way or in service."}}},
+"businessregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not concern the business register."}}},
+"censuses": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Only a land census of two communes, which is not a population census."}}},
+"landadmin": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "inservice", "fact": "Togo First reports that the land process has been digitised through the Guichet unique du foncier, and that since 17 August 2026 surveyors must send georeferenced parcel plans online to it via the OTR site.", "as_of": "2026-08-17", "date_precision": "day", "system": "Guichet unique du foncier (GUF)", "class": "landmis"}
+], "systems": [
+{"system": "Guichet unique du foncier (GUF)", "country_label": "GUF", "class": "landmis", "platform": "OTR website", "owner": "Office togolais des recettes", "tiers": ""},
+{"system": "Agence nationale du domaine et du foncier (ANDF)", "country_label": "ANDF", "class": "other", "platform": "", "owner": "Ministry of land affairs and Ministry of Finance", "tiers": ""}
+], "note": ""}}},
+"landregister": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "Togo First says a land census and cadastre digitisation, begun in Agoè-Nyivé 1 and 2 in May 2023 with AFD funding of 300m FCFA, is under way in Greater Lomé.", "as_of": "2023-05", "date_precision": "month", "system": "Agoè-Nyivé land census and cadastre digitisation", "class": "land"}
+], "systems": [], "note": ""}}},
+"localgov": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document says nothing on local government office connection."}}},
+"nonstatefinance": {"countries": {"TGO": {"facts": [], "systems": [], "note": "World Bank financing is to the state, not private money for digital businesses."}}},
+"revenuecollection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Online plan submission and fee cuts are stated, but no electronic payment of tax or fees."}}}
+}}

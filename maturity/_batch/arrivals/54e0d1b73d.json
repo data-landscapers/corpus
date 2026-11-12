@@ -1,0 +1,12 @@
+{"slug": "2025-07-22-egy-flend-raises-3m-in-blended-equity-and-debt-in-seed-round-to-scale-digi", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The licence named is the Financial Regulatory Authority's, not the central bank's."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No consumer rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"ecommercelaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No law is named; the licence permitting e-signed loans is not a law."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"nonstatefinance": {"countries": {"EGY": {"facts": [{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "EgyptInnovate reports that the digital SME lender Flend raised US$3 million in a seed round of equity led by Egypt Ventures and debt from MSMEDA and local banks.", "as_of": "2025-07", "date_precision": "month", "system": "Flend seed round", "class": "private"}, {"sub_indicator": "private", "aspect": "home", "value": "raised", "fact": "EgyptInnovate reports that Egyptian investors including Egypt Ventures, Banque Misr and El Sewedy joined Flend's US$3 million seed round, with debt from MSMEDA and local banks.", "as_of": "2025-07", "date_precision": "month", "system": "Flend seed round", "class": "private"}], "systems": [], "note": "Round undated in the body; month is the page's date."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

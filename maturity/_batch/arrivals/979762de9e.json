@@ -1,0 +1,261 @@
+{
+ "slug": "2025-11-21-moz-ceo-talks-queremos-garantir-95-de-cobertura-de-rede-ate-2030-simon-kar",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Vodacom's data centre and cloud services are described as being launched, with no statement that space is rented to others in service."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "e-Citizen is a blueprint shared with government, subject to formal procurement; no service is online."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Vodacom Mozambique's CEO says the company installed a submarine cable landing station at Nacala, Nampula, giving direct connectivity with Europe and the Americas.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "Nacala cable landing station",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nacala cable landing station",
+       "country_label": "Mozambique",
+       "class": "route",
+       "platform": "",
+       "owner": "Vodacom Mozambique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Vodacom's data centre is not stated to be for hire in service."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a provider's customer count (M-Pesa 8.5 million), not a survey of adults."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Vodacom Mozambique's CEO says its M-Pesa mobile money service has 8.5 million customers.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "M-Pesa",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "Mozambique",
+       "class": "retail",
+       "platform": "",
+       "owner": "Vodacom Mozambique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Operator programmes only; no startup law or public fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Vodacom's Hackfest and Puxap are a private operator's programmes, not a hub."
+    }
+   }
+  }
+ }
+}

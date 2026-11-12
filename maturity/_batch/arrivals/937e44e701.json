@@ -1,0 +1,224 @@
+{
+ "slug": "2024-02-15-uga-igad-land-governance-twinning-exercise-between-uganda-and-ethiopia",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "IGAD says Uganda's Land Information System integrates land records with the National ID.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "Land Information System",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "landadmin": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "An Ethiopian directorate official says the country has a current National Land Administration Information System (NLIAS) that is to be enhanced.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "National Land Administration Information System (NLIAS)",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Land Administration Information System (NLIAS)",
+       "country_label": "ETH",
+       "class": "landmis",
+       "platform": "",
+       "owner": "Ministry of Agriculture, Rural Land Administration and Use Directorate",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "IGAD says Uganda's Land Information System is in service, interoperable with physical planning, land administration, valuation, surveys and mapping, and land registration.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "Land Information System",
+       "class": "landmis"
+      },
+      {
+       "sub_indicator": "landmis",
+       "aspect": "joined",
+       "value": "joined",
+       "fact": "IGAD says Uganda's Land Information System is interoperable with land valuation, surveys and mapping.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "Land Information System",
+       "class": "landmis"
+      },
+      {
+       "sub_indicator": "landmis",
+       "aspect": "tax",
+       "value": "linked",
+       "fact": "IGAD says Uganda's Land Information System integrates land records with taxation (Uganda Revenue Authority).",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "Land Information System",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Land Information System",
+       "country_label": "UGA",
+       "class": "landmis",
+       "platform": "",
+       "owner": "Ministry of Lands, Housing and Urban Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "An Ethiopian directorate official refers to the current National Land Administration Information System (NLIAS) as existing and to be enhanced.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "National Land Administration Information System (NLIAS)",
+       "class": "land"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "IGAD says Uganda has an established Land Information System holding rural and urban land records, with land records digitised.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "Land Information System",
+       "class": "land"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

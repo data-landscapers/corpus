@@ -1,0 +1,13 @@
+{"slug": "2025-12-19-rwa-la-fintech-rwandaise-kayko-leve-1-2-million-de-dollars-pour-ameliorer", "studies": {
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on central bank role."}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"nonstatefinance": {"countries": {"RWA": {"facts": [{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "AfriqueITNews reports that the Rwandan fintech Kayko announced a US$1.2 million seed round backed by Burrow Capital, LuxDev, Hanga Ignite (via BRD) and develoPPP Ventures.", "as_of": "2025-12-19", "date_precision": "day", "system": "Kayko seed round", "class": "private"}], "systems": [], "note": "Round undated in the body; the article's date is used. No amount is named for a Rwandan investor."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"retailpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Tax visibility in a private micro-ERP is not payment to the state."}}},
+"startups": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No startup law, strategy or public fund stated."}}},
+"techhubs": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No hub or incubator named."}}}
+}}

@@ -1,1 +1,14 @@
-{"slug": "2026-11-10-mrt-mauritania-cybashon-cybersecurity-mou", "studies": {"egovservices": {"countries": {"MRT": {"facts": [], "systems": [], "note": "An MoU with a company on digitising procedures; no portal or service launched."}}}}}
+{
+ "slug": "2026-11-10-mrt-mauritania-cybashon-cybersecurity-mou",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a cooperation memorandum with a US firm is stated, which is not a national body or strategy."
+    }
+   }
+  }
+ }
+}

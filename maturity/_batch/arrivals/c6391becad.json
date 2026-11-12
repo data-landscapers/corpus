@@ -1,0 +1,18 @@
+{"slug": "2026-11-09-nga-inec-battles-to-clean-voters-register", "studies": {
+"addressregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not mention addressing."}}},
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Mentions suspected AI-generated photos in the voter register but no rule, authority or enforcement on AI harms."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government AI system use stated."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI tool in a sector system stated."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing stated."}}},
+"businessregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not mention business registration."}}},
+"civilregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not mention civil registration."}}},
+"electoralregister": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "electoral", "aspect": "roll", "value": "inservice", "fact": "Vanguard reports Nigeria holds its voters' register in biometric registration and electronic databases, and an INEC source says the commission has carried out three phases of continuous voter registration.", "as_of": "2026-11-09", "date_precision": "day", "system": "Voters' Register (INEC)", "class": "electoral"},
+{"sub_indicator": "electoral", "aspect": "checked", "value": "open", "fact": "An INEC source tells Vanguard the register was displayed at wards and online, and that hundreds of thousands of claims and objections have been received.", "as_of": "2026-11-09", "date_precision": "day", "system": "Voters' Register (INEC)", "class": "electoral"}
+], "systems": [{"system": "Voters' Register", "country_label": "Nigeria", "class": "electoral", "platform": "biometric register with BVAS accreditation", "owner": "INEC", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Biometric duplicate checks described are for the voter register, not the national ID system."}}},
+"landregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not mention land."}}},
+"populationregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not mention a population register."}}},
+"socialregistry": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not mention social protection."}}},
+"taxregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not mention taxpayers."}}}
+}}

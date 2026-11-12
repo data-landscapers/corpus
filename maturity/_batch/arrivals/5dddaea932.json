@@ -1,0 +1,5 @@
+{"slug": "2025-07-22-swz-dubai-based-company-sues-govt-for-e31-4m", "studies": {
+"datacentres": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "RSTP data centre", "country_label": "Eswatini", "class": "other", "platform": "", "owner": "Royal Science and Technology Park", "tiers": ""}], "note": "The RSTP data centre infrastructure is named only in a maintenance-contract dispute; renting to others is not stated."}}},
+"nationaldatacentres": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "RSTP data centre", "country_label": "Eswatini", "class": "other", "platform": "", "owner": "Royal Science and Technology Park", "tiers": ""}], "note": "Data centre for hire is not stated."}}},
+"techhubs": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "Royal Science and Technology Park (RSTP)", "country_label": "Eswatini", "class": "other", "platform": "", "owner": "Government of Eswatini", "tiers": ""}], "note": "RSTP appears only as the defendant in a payment claim; no programme or tenants stated."}}}
+}}

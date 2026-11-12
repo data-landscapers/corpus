@@ -1,0 +1,81 @@
+{
+ "slug": "2025-06-13-som-371-000-households-in-somalia-find-respite-from-drought",
+ "studies": {
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "BRaVe is a beneficiary verification system for one project, not a national ID."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "World Bank says Nagaad Project plots were registered through the system, each by the municipal land registry using GIS, for resettled households in Baidoa and Garowe, with title deeds issued.",
+       "as_of": "2025-06-13",
+       "date_precision": "day",
+       "system": "Municipal land registry (GIS), Baidoa and Garowe",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Municipal land registry (GIS)",
+       "country_label": "Somalia",
+       "class": "land",
+       "platform": "GIS",
+       "owner": "Baidoa and Garowe municipalities",
+       "tiers": "municipal"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "World Bank says the Nagaad Project used the Biometric Registration and Verification (BRaVe) system to register and verify beneficiaries among displaced households in Mogadishu, Garowe and Baidoa, with IOM and WFP.",
+       "as_of": "2025-06-13",
+       "date_precision": "day",
+       "system": "BRaVe",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BRaVe (Biometric Registration and Verification)",
+       "country_label": "Somalia",
+       "class": "displaced",
+       "platform": "",
+       "owner": "Government with IOM and WFP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{"slug": "2026-03-05-gin-modernisation-et-performances-le-tribunal-de-commerce-de-conakry-sous", "studies": {
+"businesspayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document states nothing on e-procurement."}}},
+"businessregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "RCCM acts ordered online are a court platform feature about to launch, not business registration."}}},
+"centralbank": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document states nothing on the central bank."}}},
+"consumerprotection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document states nothing on digital finance protection."}}},
+"crossborderpayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document gives no survey figure."}}},
+"retailpayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document names no mobile money or wallet service."}}},
+"revenuecollection": {"countries": {"GIN": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "Conakry's commercial court is about to launch a digital platform, built with the Guinean firm JUDICALEX and technically operational, through which users will obtain RCCM acts by electronic payment.", "as_of": "2026-03-05", "date_precision": "day", "system": "JUDICALEX platform of the Tribunal de commerce de Conakry", "class": "revenue"}], "systems": [{"system": "JUDICALEX platform of the Tribunal de commerce de Conakry", "country_label": "Guinea", "class": "revenue", "platform": "", "owner": "Tribunal de commerce de Conakry; built by JUDICALEX", "tiers": ""}], "note": ""}}},
+"taxadmin": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document states nothing on tax."}}}
+}}

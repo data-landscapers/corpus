@@ -1,0 +1,9 @@
+{"slug": "2025-07-31-ben-oju-plateforme-de-surveillance-concue-au-sein-de-bjcsirt", "studies": {
+"cybersecurity": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "A bjCSIRT member's post describes bjCSIRT as Benin's national computer security incident response team; no creating act is cited.", "as_of": "2025-07-31", "date_precision": "day", "system": "bjCSIRT", "class": "response"}],
+"systems": [{"system": "bjCSIRT", "country_label": "bjCSIRT", "class": "response", "platform": "", "owner": "ASIN Benin", "tiers": "national"}], "note": ""}}},
+"itcapacity": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "A bjCSIRT member announces that the monitoring platform oju was designed, developed and matured within bjCSIRT and released as open source on 31 July 2025.", "as_of": "2025-07-31", "date_precision": "day", "system": "oju", "class": "staff"}],
+"systems": [{"system": "oju", "country_label": "oju", "class": "staff", "platform": "open source", "owner": "bjCSIRT", "tiers": "national"}], "note": ""}}},
+"schoolinternet": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document does not address schools."}}}
+}}

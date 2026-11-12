@@ -1,0 +1,21 @@
+{"slug": "2024-12-13-cmr-ralph-mupita-pdg-de-mtn-group-annonce-un-investissement-de-62-4-millia", "studies": {
+"aiabuse": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on rules or authority for AI harms."}}},
+"aigovernment": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on AI in government administration."}}},
+"aisectoral": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on AI in a public sector system."}}},
+"aisystems": {"countries": {"CMR": {"facts": [], "systems": [], "note": "MTN only pledges to invest in AI and data centres; a pledge, nothing built."}}},
+"businesspayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on the central bank or payments."}}},
+"civilserviceskills": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on civil service training."}}},
+"consumerprotection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on digital financial consumer protection."}}},
+"crossborderpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"CMR": {"facts": [], "systems": [], "note": "MTN only commits to invest in data centres; none stated in service."}}},
+"fibrebackbone": {"countries": {"CMR": {"facts": [{"sub_indicator": "backbone", "aspect": "access", "value": "open", "fact": "Digital Business Africa reports that Camtel, the national operator, makes dark fibre available to MTN Cameroon under a contract, and that the regulator ART proposes dark fibre access.", "as_of": "2024-12", "date_precision": "month", "system": "Camtel fibre", "class": "backbone"}], "systems": [{"system": "Camtel optical fibre network", "country_label": "Cameroon", "class": "backbone", "platform": "", "owner": "Camtel", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"internationalbandwidth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "ART mentions exploiting submarine cables as a proposal; no route stated in service."}}},
+"nationaldatacentres": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No national data centre stated."}}},
+"paymentsuptake": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"regionalpolicy": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on African body digital policy."}}},
+"retailpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on mobile money service."}}},
+"revenuecollection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."}}},
+"satellitebroadband": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on satellite broadband."}}}
+}}

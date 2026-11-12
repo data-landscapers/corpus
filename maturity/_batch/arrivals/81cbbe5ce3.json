@@ -1,0 +1,10 @@
+{"slug": "2025-02-20-civ-cdc-ci-capital-et-djamo-cote-d-ivoire-filiale-du-groupe-djamo-inc-sign", "studies": {
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Not about public procurement."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The central bank is not mentioned."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No consumer rules or complaints body are mentioned."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No cross-border channel is mentioned."}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government payments to people are mentioned."}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Djamo's 1,215,000 subscribers are not a survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"CIV": {"facts": [], "systems": [{"system": "Djamo", "country_label": "Côte d'Ivoire", "class": "other", "platform": "", "owner": "Djamo Côte d'Ivoire", "tiers": ""}], "note": "A private fintech financing deal; no national retail payment system or switch is stated."}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No tax or fee payment is mentioned."}}}
+}}

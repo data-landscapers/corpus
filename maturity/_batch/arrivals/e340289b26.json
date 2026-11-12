@@ -1,0 +1,13 @@
+{"slug":"2024-04-30-moz-vodacom-realca-ligacao-a-inovacao-e-ao-futuro-de-mocambique-vai-invest","studies":{
+"businesspayments":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No consumer rules or redress stated."}}},
+"crossborderpayments":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No cross-border payment corridor stated."}}},
+"datacentres":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Vodacom's USD 25 million data centre is under construction, not in service."}}},
+"g2ppayments":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"internationalbandwidth":{"countries":{"MOZ":{"facts":[{"sub_indicator":"routes","aspect":"routes","value":"one","fact":"O.Economico reported on 30 April 2024 that Vodacom Mozambique's partnership with the 2Africa consortium had its submarine cable landing done at Maputo and Nampula, said by its chair to improve network capacity and quality.","as_of":"2024-04-30","date_precision":"day","system":"2Africa cable","class":"route"}],"systems":[{"system":"2Africa cable","country_label":"Mozambique","class":"route","platform":"submarine cable","owner":"2Africa consortium","tiers":"landings at Maputo and Nampula"}],"note":""}}},
+"nationaldatacentres":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"The Vodacom data centre is under construction and foreign-owned status is not stated."}}},
+"paymentsuptake":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Only a smartphone penetration figure, no account survey share."}}},
+"retailpayments":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"M-Pesa is named only as a service customers use over 5G, with no in-service statement."}}},
+"revenuecollection":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

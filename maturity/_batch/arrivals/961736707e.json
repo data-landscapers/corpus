@@ -1,0 +1,9 @@
+{"slug": "2024-07-26-tgo-communique-n021-2024-otr-cg-ci-dccf-relatif-au-numero-unique-parcellai", "studies": {
+"authentication": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document concerns a land parcel number, not authentication."}}},
+"birthidlink": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document concerns a land parcel number, not civil register or ID links."}}},
+"idcoverage": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document concerns a land parcel number, not people's ID."}}},
+"idfrombirth": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document concerns a land parcel number, not a number at birth."}}},
+"idmaintenance": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document concerns a land parcel number, not the national ID system."}}},
+"idregisters": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The parcel number is not the national ID number."}}},
+"idrobustness": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document concerns a land parcel number, not the national ID system."}}}
+}}

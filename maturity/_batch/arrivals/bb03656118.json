@@ -1,0 +1,7 @@
+{"slug": "2026-01-26-ben-classement-partech-2025-une-transaction-historique-place-le-benin-sur", "studies": {
+"nonstatefinance": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "La Marina BJ reports that Partech's 2025 Africa report counts one $1 million equity deal in Benin, about 600 million FCFA, placing it 23rd of 28 African venture destinations.", "as_of": "2025", "date_precision": "year", "system": "Partech Africa 2025 report", "class": "private"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The labelling of 15 support structures is not startups labelled under a startup act."}}},
+"techhubs": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Fifteen labelled entrepreneurship support structures are named without programmes or cohorts."}}}
+}}

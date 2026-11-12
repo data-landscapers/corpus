@@ -1,0 +1,10 @@
+{"slug": "2025-07-09-egy-dostor-p1-government-data-centre-disaster-recovery-ramses-fire", "studies": {
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "P1 is described as the government's own centre; no renting to other organisations stated."}}},
+"digitalsovereignty": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "hosted", "value": "national", "fact": "Al-Dostour reports that the government data and cloud centre P1 took over running government services and routing data after the July 2025 Ramses exchange fire in Cairo.", "as_of": "2025-07", "date_precision": "month", "system": "government data and cloud centre P1", "class": "sovereignty"}
+], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "national", "aspect": "state", "value": "hosted", "fact": "Al-Dostour reports that the government data and cloud centre P1 runs government services and acts as the active alternative to the main government centre in the New Administrative Capital.", "as_of": "2025-07", "date_precision": "month", "system": "government data and cloud centre P1", "class": "datacentre"}
+], "systems": [{"system": "government data and cloud centre P1", "country_label": "Egypt", "class": "datacentre", "platform": "government cloud, disaster-recovery role", "owner": "Government", "tiers": ""}], "note": ""}}},
+"offsitebackup": {"countries": {"EGY": {"facts": [], "systems": [{"system": "government data and cloud centre P1", "country_label": "Egypt", "class": "other", "platform": "disaster-recovery centre for the main centre in the New Administrative Capital", "owner": "Government", "tiers": ""}], "note": "P1 is described as the disaster-recovery site for the main centre in the New Administrative Capital, but P1's place is not named, so distance is unknown."}}}
+}}

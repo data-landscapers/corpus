@@ -1,0 +1,9 @@
+{"slug": "2026-10-06-mwi-one-year-of-dpp-how-chipungu-is-securing-land-for-every-malawian-exclu", "studies": {
+"landadmin": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "inservice", "fact": "Malawi's Lands Minister said in an interview that the ministry has digitalised lease approvals and is comparing physical files with its Land Information Management System.", "as_of": "2026-10", "date_precision": "month", "system": "Land Information Management System", "class": "landmis"}
+], "systems": [{"system": "Land Information Management System", "country_label": "Land Information Management System", "class": "landmis", "platform": "", "owner": "Ministry of Lands, Housing and Urban Development", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "Malawi's Lands Minister said in an interview that the ministry holds its land records in a Land Information Management System, against which a land audit checks physical files, and that it commissioned the new K965 million Ntchisi Land Registry.", "as_of": "2026-10", "date_precision": "month", "system": "Land Information Management System", "class": "land"}
+], "systems": [], "note": ""}}},
+"localgov": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Land services decentralised to councils; no office connection stated."}}}
+}}

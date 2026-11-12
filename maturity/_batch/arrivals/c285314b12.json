@@ -1,0 +1,4 @@
+{"slug": "2025-05-21-mli-audit-de-la-conformite-des-plans-de-continuite-et-de-reprise-d-activit", "studies": {
+"gridreliability": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No outage figure."}}},
+"offsitebackup": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Notice is a call for an audit of telecom operators' continuity plans; no public body backup site is stated."}}}
+}}

@@ -1,3 +1,11 @@
 {"slug": "2026-11-09-tcd-chad-health-digital-committee-reorganised", "studies": {
-"cybersecurity": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Health digital committee story; nothing on a national cyber body or strategy."}}}
+"coresystems": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on finance, tax or payroll systems."}}},
+"educationexchange": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on education systems."}}},
+"educationmis": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on education systems."}}},
+"health": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document describes a committee overseeing electronic patient records and telemedicine under the 2025-2030 digital health plan, with no system, tier or facility named in service."}}},
+"healthmis": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document names no health information system, only a monitoring committee and a national digital health plan."}}},
+"justice": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on courts."}}},
+"police": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on police."}}},
+"schools": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on schools."}}},
+"taxadmin": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on tax."}}}
 }}

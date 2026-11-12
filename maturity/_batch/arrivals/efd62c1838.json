@@ -1,0 +1,8 @@
+{"slug": "2026-09-18-gab-gabon-steps-up-land-registry-overhaul-with-greater-libreville-pilot", "studies": {
+"birthidlink": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Document states nothing on a civil register and ID link."}}},
+"civilregister": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Civil-registry modernisation is only under discussion with SNEDAI; no system procured, piloted or in service."}}},
+"idfrombirth": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Document states nothing on a number at birth."}}},
+"idrobustness": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Biometric identification solutions were only presented by SNEDAI; no ID system stated."}}},
+"landregister": {"countries": {"GAB": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "We Are Tech reports Gabon is advancing a land-registry digitisation project with the Ivorian group SNEDAI after signing a memorandum of understanding, with a pilot planned in Estuaire province including Greater Libreville and specifications still to be finalised.", "as_of": "2026-09-16", "date_precision": "day", "system": "SNEDAI land registry digitisation project", "class": "land"}], "systems": [{"system": "SNEDAI land registry digitisation project", "country_label": "Gabon", "class": "land", "platform": "", "owner": "Government of Gabon with SNEDAI", "tiers": "Estuaire pilot planned"}], "note": ""}}},
+"registry": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Civil registration offices are not described; civil-registry work is only under discussion."}}}
+}}

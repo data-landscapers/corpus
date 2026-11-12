@@ -1,0 +1,10 @@
+{"slug": "2025-12-01-rwa-how-to-apply-for-title-transfer-voluntary-sale", "studies": {
+"authentication": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Page describes an IremboGov account login for a land service; it states no authentication, e-signature or digital ID service."}}},
+"birthidlink": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No civil register link to the ID is stated."}}},
+"idcoverage": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No ID enrolment count or share is stated."}}},
+"idfrombirth": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No operator, maintainer or owner of the ID system is stated."}}},
+"idregisters": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Page says the parcel UPI must align with the seller's ID but does not say the land register is keyed on the national ID number."}}},
+"idrobustness": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Page only asks for a national ID or passport; nothing on the ID system itself."}}},
+"taxregister": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Page mentions clearing taxes with RRA and a company TIN, but states nothing about a computerised taxpayer register."}}}
+}}

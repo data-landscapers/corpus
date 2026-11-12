@@ -1,0 +1,11 @@
+{"slug": "2026-05-20-swz-pay-your-rates-made-easier-through-peach-payment", "studies": {
+"businesspayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"localgov": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "A card payment channel for residents of Mbabane; no office connection stated."}}},
+"paymentsuptake": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"retailpayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Card payment of municipal rates only; no mobile money status stated."}}},
+"revenuecollection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Municipal rates only; no state tax or fee payment stated."}}}
+}}

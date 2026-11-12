@@ -1,0 +1,61 @@
+{
+ "slug": "2026-11-04-dza-guelma-cadastre-et-conservation-fonciere-accelerent-leur-mue-numerique",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "La Sentinelle reports that in Guelma wilaya the land conservations are digitising property records (94% at Bouchegouf, 80% at two others, about 60% in Guelma town), rural cadastre is complete and urban cadastre about 98%, and the sector now has a land database.",
+       "as_of": "2026-11-04",
+       "date_precision": "day",
+       "system": "Guelma land conservation digital database",
+       "class": "land"
+      },
+      {
+       "sub_indicator": "land",
+       "aspect": "online",
+       "value": "online",
+       "fact": "La Sentinelle reports the national platform Fada El Djazair is accessible to citizens and public bodies to consult cadastral plans and request documents remotely, with a further tool, Amlak, still to come.",
+       "as_of": "2026-11-04",
+       "date_precision": "day",
+       "system": "Fada El Djazair",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fada El Djazair",
+       "country_label": "Algeria",
+       "class": "land",
+       "platform": "national digital platform",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Amlak (planned)",
+       "country_label": "Algeria",
+       "class": "land",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    }
+   }
+  }
+ }
+}

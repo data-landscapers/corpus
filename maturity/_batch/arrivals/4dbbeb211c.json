@@ -1,0 +1,115 @@
+{
+ "slug": "2026-05-26-cod-rdc-le-gouvernement-sengage-a-moderniser-la-securite-des-droits-foncie",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The land ministry says modular digital solutions have been deployed with ONU-Habitat and CAFI support while full digitisation of the sector is awaited, and the minister told the National Assembly digitisation of titles is strategic.",
+       "as_of": "2026-05-25",
+       "date_precision": "day",
+       "system": "modular digital land solutions",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Modular digital land administration solutions",
+       "country_label": "DRC",
+       "class": "land",
+       "platform": "",
+       "owner": "Ministere des Affaires foncieres",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Minister calls generalised e-payment an essential tool for land fees but names no service in use or contracted."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  }
+ }
+}

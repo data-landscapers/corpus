@@ -1,0 +1,6 @@
+{"slug": "2026-08-12-cod-dgrk-apres-la-vignette-kinshasa-veut-digitaliser-les-impots-et-taxes", "studies": {
+"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing about AI harms."}}},
+"aigovernment": {"countries": {"COD": {"facts": [], "systems": [{"system": "IRMS-DGRK", "country_label": "DRC (Kinshasa)", "class": "other", "platform": "", "owner": "Direction générale des recettes de Kinshasa", "tiers": "city"}], "note": "AI mentioned only inside a tax platform, a sector system, not general administration."}}},
+"aisectoral": {"countries": {"COD": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The Kinshasa revenue directorate (DGRK) presents its tax platform IRMS-DGRK, to be extended from the vehicle vignette to other city taxes, as integrating AI tools to assist users, per a 10 August 2026 management committee.", "as_of": "2026-08-10", "date_precision": "day", "system": "IRMS-DGRK", "class": "sectorai"}], "systems": [{"system": "IRMS-DGRK", "country_label": "DRC (Kinshasa)", "class": "sectorai", "platform": "", "owner": "Direction générale des recettes de Kinshasa", "tiers": "city"}], "note": ""}}},
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}}
+}}

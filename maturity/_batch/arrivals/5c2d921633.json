@@ -1,0 +1,32 @@
+{
+ "slug": "2026-06-01-ago-executivo-quer-garantir-continuidade-dos-servicos-digitais-do-estado",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Modernisation and disaster-recovery site only authorised for procurement; none in service."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Modernisation and disaster-recovery site only authorised for procurement; none in service."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Modernisation and disaster-recovery site only authorised for procurement; none in service."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,4 @@
+{"slug": "2026-08-24-cmr-cameroon-nears-5g-but-high-internet-costs-could-slow-consumer-adoption", "studies": {
+"mobileaffordability": {"countries": {"CMR": {"facts": [{"sub_indicator": "price", "aspect": "cost", "value": "share:5.72", "fact": "Ecofin Agency, citing International Telecommunication Union data, says 5 GB of mobile internet cost 5.72% of gross national income per capita in Cameroon in 2025, against a 2% affordability threshold.", "as_of": "2025", "date_precision": "year", "system": "ITU mobile data basket", "class": "price"}], "systems": [], "note": ""}}},
+"regionalpolicy": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on regional digital policy."}}}
+}}

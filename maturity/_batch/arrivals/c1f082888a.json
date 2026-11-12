@@ -1,0 +1,7 @@
+{"slug": "2026-09-24-gab-dgb-digitalisation-libreville-olia-une-plateforme-pour-centraliser-les", "studies": {
+"birthidlink": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Birth certificates appear only as a data field in a staff database; no civil register to ID link is stated."}}},
+"civilregister": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
+"idfrombirth": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on ID numbers at birth."}}},
+"itcapacity": {"countries": {"GAB": {"facts": [{"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "The Direction Generale du Budget states that its own Direction des Systemes d'Information (DSI) designed OLIA, a single staff database for the DGB's agents, launched in August 2026.", "as_of": "2026-08", "date_precision": "month", "system": "OLIA", "class": "staff"}], "systems": [{"system": "OLIA", "country_label": "OLIA", "class": "staff", "platform": "", "owner": "Direction Generale du Budget, DSI", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
+}}

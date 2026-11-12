@@ -1,0 +1,13 @@
+{"slug": "2024-01-01-mar-digital-development-dashboard-morocco-infrastructure-access", "studies": {
+"admindata": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Dashboard states no statistics from administrative records."}}},
+"internationalbandwidth": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Gives only bandwidth per user in kbit/s, no route or cable."}}},
+"internetusage": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "use", "aspect": "users", "value": "estimate:91", "fact": "The ITU Digital Development Dashboard gives an ITU estimate that 91% of Morocco's population used the internet in 2022.", "as_of": "2022", "date_precision": "year", "system": "ITU Digital Development Dashboard", "class": "use"}
+], "systems": [], "note": ""}}},
+"mobileaffordability": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "price", "aspect": "cost", "value": "share:1.0", "fact": "The ITU Digital Development Dashboard gives Morocco's mobile broadband basket at 1.0% of GNI per capita in 2022.", "as_of": "2022", "date_precision": "year", "system": "ITU Digital Development Dashboard", "class": "price"}
+], "systems": [], "note": ""}}},
+"mobilepenetration": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "ownership", "aspect": "owners", "value": "estimate:96", "fact": "The ITU Digital Development Dashboard gives 96% of individuals in Morocco owning a mobile phone in 2021.", "as_of": "2021", "date_precision": "year", "system": "ITU Digital Development Dashboard", "class": "ownership"}
+], "systems": [], "note": ""}}}
+}}

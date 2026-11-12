@@ -1,0 +1,20 @@
+{"slug": "2025-08-05-bfa-orange-burkina-faso-257-milliards-f-cfa-d-investissements-pour-l-inclu", "studies": {
+"businesspayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"centralbank": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"crossborderpayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"digitaldivides": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Rural site build-out is the operator's own commercial investment with no government or universal service fund part stated."}}},
+"g2ppayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"paymentsuptake": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No survey share of adults with accounts; outlet and commission figures only."}}},
+"refugees": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "Orange Burkina Faso's 2017-2024 CSR report, as reported by C'Finance, says the company supplied 10,000 CNIB national identity cards to internally displaced people.", "as_of": "2025-08-05", "date_precision": "day", "system": "CNIB", "class": "displaced"}
+], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Orange Burkina Faso's CSR report says Orange Money, with 72,376 points of sale, paid FCFA 43.7 billion in commissions to its distribution network in 2024.", "as_of": "2024", "date_precision": "year", "system": "Orange Money", "class": "retail"}
+], "systems": [{"system": "Orange Money", "country_label": "Burkina Faso", "class": "retail", "platform": "mobile money", "owner": "Orange Burkina Faso", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Operator's tax contribution only; no electronic payment system stated."}}},
+"startups": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Only the operator's own startup programmes; no startup law, strategy or public fund stated."}}},
+"techhubs": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "Orange Burkina Faso's CSR report says its Orange Digital Center acceleration programme, Damina incubation programme and related projects, backed by over FCFA 1.9 billion, supported 30 startups and trained 7,000 young people.", "as_of": "2024", "date_precision": "year", "system": "Orange Digital Center / Damina", "class": "hub"}
+], "systems": [{"system": "Orange Digital Center", "country_label": "Burkina Faso", "class": "hub", "platform": "acceleration and incubation programmes", "owner": "Orange Burkina Faso", "tiers": ""}], "note": ""}}}
+}}

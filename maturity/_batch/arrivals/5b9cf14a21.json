@@ -1,0 +1,26 @@
+{"slug": "2026-11-09-egy-22-electronic-notarial-and-real-estate-registry-services", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on AI harm rules."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "Vetogate reports that the Ministries of Justice and of Communications launched on 7 November 2026 a remote litigation power of attorney service that uses AI techniques in the digital identity app to verify the citizen's identity, capacity and intent.", "as_of": "2026-11-07", "date_precision": "day", "system": "Remote general litigation power of attorney (Digital Egypt platform)", "class": "govai"}
+], "systems": [{"system": "Remote general litigation power of attorney", "country_label": "Digital Egypt platform", "class": "govai", "platform": "Digital Egypt platform", "owner": "Ministry of Justice; Ministry of Communications and Information Technology", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "AI is used in a notarial identity check; that is administration, not a sector's management system outputs."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country."}}},
+"authentication": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Vetogate reports that the Ministries of Justice and of Communications launched on 7 November 2026 a remote power of attorney service that verifies identity through the digital identity app and completes it with an approved electronic signature.", "as_of": "2026-11-07", "date_precision": "day", "system": "Digital identity app", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "Vetogate reports that citizens prove identity online in the digital identity app by a face scan matched to the biometric record in state databases, to obtain a remote power of attorney through the Digital Egypt platform from 7 November 2026.", "as_of": "2026-11-07", "date_precision": "day", "system": "Digital identity app", "class": "authentication"}
+], "systems": [{"system": "Digital identity app", "country_label": "Digital identity app", "class": "authentication", "platform": "Digital Egypt platform", "owner": "Ministry of Communications and Information Technology", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Mentions data protection controls only in passing; no law stated."}}},
+"ecommercelaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "States an approved electronic signature but no law, rule or licence."}}},
+"egovservices": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Vetogate reports that the Digital Egypt platform offers about 22 notarial and real estate registry services online, 16 notarial and 6 registry, including powers of attorney with online fee payment.", "as_of": "2026-11-09", "date_precision": "day", "system": "Digital Egypt platform", "class": "eservices"}
+], "systems": [{"system": "Digital Egypt platform", "country_label": "Digital Egypt platform", "class": "eservices", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Biometric match is a verification, not enrolment de-duplication; no certification or coverage stated."}}},
+"idverification": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Vetogate reports that the remote power of attorney service, launched 7 November 2026, checks the citizen's face against the biometric record held in state databases before the document is signed.", "as_of": "2026-11-07", "date_precision": "day", "system": "Remote general litigation power of attorney (Digital Egypt platform)", "class": "relying"}
+], "systems": [{"system": "Remote general litigation power of attorney", "country_label": "Digital Egypt platform", "class": "relying", "platform": "Digital Egypt platform", "owner": "Ministry of Justice", "tiers": ""}], "note": ""}}}
+}}

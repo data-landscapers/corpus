@@ -1,0 +1,15 @@
+{"slug": "2026-02-08-egy-egypt-builds-new-funding-stack-as-mature-startups-pivot-from-equity-to", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"nonstatefinance": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "EnterpriseAM, citing Briter's Africa Investment Report 2025, says Egyptian startups secured over USD 595 million in venture funding in 2025, with bonds near 30% of funding volume issued by firms such as MNT-Halan and Bokra.", "as_of": "2025", "date_precision": "year", "system": "Egyptian startup venture funding", "class": "private"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on retail payment services."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Private funding figures only; no state startup law or fund stated."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on hubs."}}}
+}}

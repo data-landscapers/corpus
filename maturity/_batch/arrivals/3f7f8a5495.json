@@ -1,0 +1,4 @@
+{"slug": "2026-11-09-ben-numerique-dans-les-mairies-l-ancb-mise-sur-la-mutualisation", "studies": {
+"itcapacity": {"countries": {"BEN": {"facts": [{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "La Nation reports the Dassa-Zoumè town hall's information systems directorate developed the Progicom municipal software, presented at the ANCB commission session on 5-6 November 2026.", "as_of": "2026-11-05", "date_precision": "day", "system": "Progicom", "class": "staff"}], "systems": [{"system": "Progicom", "country_label": "Progicom", "class": "staff", "platform": "", "owner": "Mairie de Dassa-Zoumè", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"BEN": {"facts": [], "systems": [{"system": "Communal applications (35 applications, 27 providers)", "country_label": "Bénin", "class": "application", "platform": "", "owner": "Communes", "tiers": ""}], "note": "Municipal software is counted, but no office connection is stated."}}}
+}}

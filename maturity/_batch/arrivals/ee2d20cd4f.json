@@ -1,0 +1,5 @@
+{"slug": "2025-01-23-rwa-low-code-no-code-launched-programming-made-easier", "studies": {
+"itcapacity": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "RISA says that on 23 January 2025 it launched a Low-Code/No-Code platform on the Joget framework for building government applications, which its CEO said lets local developers build applications independently and reduces reliance on external vendors.", "as_of": "2025-01-23", "date_precision": "day", "system": "Low-Code/No-Code platform", "class": "staff"}
+], "systems": [{"system": "Low-Code/No-Code platform", "country_label": "Low-Code/No-Code platform", "class": "staff", "platform": "Joget", "owner": "Rwanda Information Society Authority", "tiers": ""}], "note": ""}}}
+}}

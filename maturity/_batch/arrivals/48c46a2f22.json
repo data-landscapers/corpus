@@ -1,0 +1,10 @@
+{"slug": "2025-12-27-sen-fidak-2025-panel-sur-la-dematerialisation-des-procedures-foncieres-le", "studies": {
+"agrisatellite": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Drones and satellite imagery are named for cadastral mapping, not farming."}}},
+"landadmin": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "underway", "fact": "PROCASEF reports that its communal land information system SIFCOM is planned to be operational in the 136 communal land offices of the project, with an electronic land book announced to replace paper registers.", "as_of": "2025-12-23", "date_precision": "day", "system": "SIFCOM", "class": "landmis"}
+], "systems": [{"system": "SIFCOM", "country_label": "Senegal", "class": "landmis", "platform": "", "owner": "PROCASEF", "tiers": "communal land offices"}], "note": ""}}},
+"landregister": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "PROCASEF reports that SIFCOM is planned to be operational in the 136 communal land offices of the project, and that an electronic land book is announced to replace paper registers in the land conservation offices.", "as_of": "2025-12-23", "date_precision": "day", "system": "SIFCOM", "class": "land"}
+], "systems": [{"system": "SIFCOM", "country_label": "Senegal", "class": "land", "platform": "", "owner": "PROCASEF", "tiers": "communal land offices"}, {"system": "electronic land book", "country_label": "Senegal", "class": "other", "platform": "", "owner": "DGID", "tiers": "planned"}], "note": ""}}},
+"localgov": {"countries": {"SEN": {"facts": [], "systems": [{"system": "SIFCOM", "country_label": "Senegal", "class": "other", "platform": "", "owner": "PROCASEF", "tiers": "communal land offices"}], "note": "SIFCOM is an application for communal land offices; no office connection is stated."}}}
+}}

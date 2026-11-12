@@ -1,0 +1,18 @@
+{"slug": "2025-10-28-uga-ugandans-abroad-welcome-digitalisation-of-land-titles", "studies": {
+"authentication": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No ID authentication service is stated."}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID exchange."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Lands Permanent Secretary Dorcas Wagima Okalany said landowners' photographs and national identification numbers are now in the digital land database, reducing forgery and impersonation.", "as_of": "2025-10", "date_precision": "month", "system": "digital land titles system", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on the ID system's own robustness."}}},
+"landadmin": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "inservice", "fact": "Lands Permanent Secretary Okalany said the digitalised system handles land acquisition, transfer, surveying and planning, with titles processed within ten days when documents are in order.", "as_of": "2025-10", "date_precision": "month", "system": "digitalised land titles system", "class": "landmis"}
+], "systems": [{"system": "digitalised land titles system", "country_label": "Uganda", "class": "landmis", "platform": "", "owner": "Ministry of Lands, Housing and Urban Development", "tiers": ""}], "note": "No join to survey maps or valuation, or to tax, is stated."}}},
+"landregister": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "Lands Permanent Secretary Okalany said more than 1.5 million land titles have already been digitised under the new system.", "as_of": "2025-10", "date_precision": "month", "system": "digitalised land titles system", "class": "land"},
+{"sub_indicator": "land", "aspect": "online", "value": "online", "fact": "Okalany said landowners can verify their land status online or through the ministry's mobile application for 10,000 Ugandan shillings.", "as_of": "2025-10", "date_precision": "month", "system": "digitalised land titles system", "class": "land"}
+], "systems": [{"system": "digitalised land titles system", "country_label": "Uganda", "class": "land", "platform": "online and mobile app", "owner": "Ministry of Lands, Housing and Urban Development", "tiers": ""}], "note": "No statement of national coverage."}}}
+}}

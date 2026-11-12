@@ -1,0 +1,9 @@
+{"slug": "2026-01-01-egy-egyptian-startups-attract-614-mln-in-investments-in-2025-planning-mini", "studies": {
+"nonstatefinance": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Ahram Online reports the Planning Ministry saying Egyptian startups attracted $614 million in 2025 from direct investment and debt financing, including $304 million through 69 venture capital deals per Magnitt.", "as_of": "2025", "date_precision": "year", "system": "Startup funding 2025", "class": "private"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "startuppolicy", "aspect": "law", "value": "draft", "fact": "Ahram Online reports the Ministerial Entrepreneurship Group reviewed a finalized Startup Charter of more than 80 government measures, with a startup definition and a certification system for incentives still being worked out and a first incentives package due.", "as_of": "2026-01", "date_precision": "month", "system": "Startup Charter", "class": "startuppolicy"}
+], "systems": [], "note": ""}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document names no hub, incubator or park."}}}
+}}

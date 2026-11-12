@@ -1,0 +1,8 @@
+{"slug": "2025-12-02-sle-orange-sierra-leone-launches-bo-data-centre-to-boost-connectivity-and", "studies": {
+"datacentres": {"countries": {"SLE": {"facts": [], "systems": [{"system": "Orange Sierra Leone Bo Data Centre", "country_label": "Sierra Leone", "class": "other", "platform": "", "owner": "Orange Sierra Leone", "tiers": ""}], "note": "Bo centre is described as Orange's own disaster-recovery replica; no renting to other organisations or Tier stated."}}},
+"dataprotectionlaw": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The President spoke of citizen data protection; no law, authority or decision is stated."}}},
+"digitaldivides": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Orange's data centre extends its own network traffic handling; no government or universal service programme or survey figure stated."}}},
+"digitalsovereignty": {"countries": {"SLE": {"facts": [], "systems": [], "note": "A company chairman emphasised data sovereignty; no government policy, rule or state hosting stated."}}},
+"nationaldatacentres": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Bo centre is Orange's disaster-recovery replica, with no hire to others stated."}}},
+"offsitebackup": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Bo centre backs up Orange's services; no public body's systems are said to be held there."}}}
+}}

@@ -1,0 +1,16 @@
+{"slug": "2025-12-02-bwa-case-study-botswana-1gov-platform-assessment", "studies": {
+"authentication": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated on a civil register and ID link."}}},
+"civilregister": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated on civil registration."}}},
+"civilserviceskills": {"countries": {"BWA": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "ADM Interactive says that after its 2023 assessment of 1Gov, Botswana's digital leadership put civil servant training sessions in motion, with no number trained given.", "as_of": "2023", "date_precision": "year", "system": "1Gov civil servant training", "class": "csskills"}], "systems": [], "note": ""}}},
+"dataexchange": {"countries": {"BWA": {"facts": [], "systems": [], "note": "A unified data exchange layer is only recommended, not built."}}},
+"digitalstrategy": {"countries": {"BWA": {"facts": [], "systems": [], "note": "SmartBots strategy is named only in passing, with no status or text stated."}}},
+"egovservices": {"countries": {"BWA": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "ADM Interactive says 1Gov is Botswana's central online portal giving citizens access to government services, assessed in 2023 as unstable, poorly integrated with agencies and with little public uptake.", "as_of": "2023", "date_precision": "year", "system": "1Gov", "class": "eservices"}], "systems": [{"system": "1Gov", "country_label": "Botswana", "class": "eservices", "platform": "", "owner": "Ministry of Communications and Innovation (digital team)", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated on a number at birth."}}},
+"idmaintenance": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated on who runs the ID system."}}},
+"idregisters": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Botswana's current ID system is mentioned only in passing, with no status stated."}}},
+"localgov": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated on local government connection."}}},
+"registry": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated on local civil registration offices."}}}
+}}

@@ -1,0 +1,5 @@
+{"slug": "2025-09-01-moz-o-contributo-da-modernizacao-dos-servicos-publicos-no-controle-das-rec", "studies": {
+"localgov": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on council office connections."}}},
+"localrecords": {"countries": {"MOZ": {"facts": [{"sub_indicator": "revenue", "aspect": "recorded", "value": "none", "fact": "A Revista Foco case study of five staff finds that Nampula's municipal council has not modernised and has no electronic system for collecting the personal municipal tax (IPA).", "as_of": "2025-09", "date_precision": "month", "system": "Nampula municipal council IPA collection", "class": "revenue"}], "systems": [], "note": ""}}},
+"taxregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only e-Tributacao named in references; nothing stated on the taxpayer register."}}}
+}}

@@ -1,0 +1,5 @@
+{"slug": "2026-02-24-mdg-inclusion-numerique-madagascar-finance-la-distribution-de-664-000-equi", "studies": {
+"civilserviceskills": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on civil-service training."}}},
+"digitaldivides": {"countries": {"MDG": {"facts": [], "systems": [{"system": "DECIM subsidised digital equipment sales", "country_label": "Madagascar", "class": "other", "platform": "", "owner": "Government (DECIM Fund)", "tiers": ""}], "note": "The programme sells subsidised devices; it brings no internet access, and no rural/urban use split is given."}}},
+"digitalskills": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No public digital-skills programme or measured share is stated."}}}
+}}

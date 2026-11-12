@@ -1,0 +1,5 @@
+{"slug": "2024-12-15-egy-central-bank-of-egypt-completes-the-annual-drill-for-business-continui", "studies": {
+"internationalstandards": {"countries": {"EGY": {"facts": [], "systems": [], "note": "ISO 22301 is the central bank's own continuity practice, not a national IT or data standard or public-body rule."}}},
+"offsitebackup": {"countries": {"EGY": {"facts": [{"sub_indicator": "backup", "aspect": "plan", "value": "tested", "fact": "The Central Bank of Egypt held its annual ISO 22301 business continuity drill on 5 December 2024, operating from alternative sites and branches and remotely connected to its Disaster Recovery site; no place is named for the site.", "as_of": "2024-12-05", "date_precision": "day", "system": "Central Bank of Egypt Disaster Recovery site", "class": "backupsite"}], "systems": [{"system": "Central Bank of Egypt Disaster Recovery site", "country_label": "Egypt", "class": "other", "platform": "", "owner": "Central Bank of Egypt", "tiers": ""}], "note": ""}}},
+"regionalinfrastructure": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document states nothing on infrastructure shared with another African country."}}}
+}}

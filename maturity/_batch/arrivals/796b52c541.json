@@ -1,0 +1,5 @@
+{"slug": "2026-09-15-gin-guinee-djenabou-toure-annonce-la-digitalisation-du-paiement-des-taxes", "studies": {
+"localgov": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on council office connections."}}},
+"localrecords": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Digital market tax payment only announced; no system, record or council named."}}},
+"revenuecollection": {"countries": {"GIN": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "Vision224 reports that the territorial administration minister, Djenabou Touré, announced on 14 September 2026 the digitalisation of tax payment in Guinea's markets, with no date or system named.", "as_of": "2026-09-14", "date_precision": "day", "system": "Market tax payment", "class": "revenue"}], "systems": [], "note": ""}}}
+}}

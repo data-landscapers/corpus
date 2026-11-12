@@ -1,0 +1,14 @@
+{"slug": "2025-06-17-ken-britam-s-betalab-invests-kes-5-million-in-oye-to-transform-boda-boda-i", "studies": {
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on the central bank."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on consumer protection rules."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"digitaldivides": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on rural internet programmes or use."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on government payments."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No account-holding survey share stated."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A private USSD insurance platform, no mobile money service status stated."}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on tax payment."}}},
+"ruralelectrification": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No rural electricity access figure stated."}}},
+"startups": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A corporate investor's deal with no public scheme."}}},
+"techhubs": {"countries": {"KEN": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "Tech-ish reports that BetaLab, Britam's corporate innovation hub, focuses on incubation programmes, mentorship, events, hackathons and product development with startups, with no cohort stated.", "as_of": "2025-06-17", "date_precision": "day", "system": "Britam BetaLab", "class": "hub"}], "systems": [{"system": "Britam BetaLab", "country_label": "Kenya", "class": "hub", "platform": "", "owner": "Britam (private insurer)", "tiers": ""}], "note": ""}}}
+}}

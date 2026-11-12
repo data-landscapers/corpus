@@ -1,0 +1,11 @@
+{"slug":"2025-03-18-mli-primature-tresor-pay-sif-guf-presentation","studies":{
+"businesspayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Nothing on government e-procurement."}}},
+"centralbank":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No consumer rules or redress stated."}}},
+"crossborderpayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No cross-border payment channel stated."}}},
+"g2ppayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Only payments to the state are stated, not payments to people."}}},
+"localgov":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Tresor Pay at the Commune IV town hall is a payment application; no connection of the office is stated."}}},
+"paymentsuptake":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No survey share of adults with accounts stated."}}},
+"retailpayments":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Mobile money operators are named only as partners of the state payment platform; no service status stated."}}},
+"revenuecollection":{"countries":{"MLI":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"The Prime Minister's office said on 18 March 2025 that Tresor Pay, the electronic payment platform for public services covering national ID cards, passports, road offences and fixed fines, is already deployed at the Directorate General of Transport and the Commune IV town hall.","as_of":"2025-03-18","date_precision":"day","system":"Tresor Pay","class":"revenue"}],"systems":[{"system":"Tresor Pay","country_label":"Mali","class":"revenue","platform":"mobile money operators","owner":"CAISFF and National Treasury directorate","tiers":"transport directorate, Commune IV"}],"note":""}}}
+}}

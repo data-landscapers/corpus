@@ -1,0 +1,189 @@
+{
+ "slug": "2026-01-02-bfa-burkina-faso-to-step-up-justice-system-digitalisation-this-year",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Ecofin reports Burkina Faso launched three justice platforms in mid-December 2025 to file and track complaints online, request prison visit permits and apply for commercial registry documents, and had earlier moved nationality certificate and criminal record applications online.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "Justice digital platforms",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Justice digital platforms (complaints, prison visit permits, commercial registry documents)",
+       "country_label": "Burkina Faso",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Ministry of Justice",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "users",
+       "value": "estimate:17",
+       "fact": "The International Telecommunication Union estimates internet usage in Burkina Faso at 17% in 2023, per Ecofin Agency.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "ITU",
+       "class": "use"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ITU mobile phone penetration, 2023",
+       "country_label": "55.9% (ITU, 2023; not stated as ownership by people aged 10+)",
+       "class": "other",
+       "platform": "",
+       "owner": "ITU",
+       "tiers": ""
+      }
+     ],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  }
+ }
+}

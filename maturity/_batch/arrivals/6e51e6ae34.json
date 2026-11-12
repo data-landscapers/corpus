@@ -1,0 +1,13 @@
+{"slug": "2024-06-06-sdn-sudanese-fintech-startup-elevate-escapes-unrest-lands-5m-for-global-pl", "studies": {
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Document states nothing on the central bank."}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection rules."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [{"system": "Elevate", "country_label": "Sudan (Sudanese-founded fintech, operations moved abroad)", "class": "other", "platform": "", "owner": "Elevate", "tiers": ""}], "note": "Private USD account and FX service for freelancers, now run from Egypt, Pakistan and Asia; no regulated Sudan corridor stated."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"nonstatefinance": {"countries": {"SDN": {"facts": [], "systems": [], "note": "USD 5m from Negma Group went to a Sudanese-founded fintech whose operations moved abroad and is for expansion into other markets, with no amount for Sudan."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Gives a user count for one firm, not a survey of adults."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Document states nothing on mobile money in Sudan."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}},
+"startups": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Only a private investment round, no startup law, strategy or public fund."}}},
+"techhubs": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Mentions Y Combinator admission only, no hub in Sudan."}}}
+}}

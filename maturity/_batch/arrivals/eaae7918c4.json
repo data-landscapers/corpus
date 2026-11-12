@@ -1,0 +1,16 @@
+{"slug": "2025-02-16-sdn-projects-sudantax", "studies": {
+"birthidlink": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The civil registry is only named among bodies the tax system is linking to; no civil-ID link is stated."}}},
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Tax system only; nothing on e-procurement."}}},
+"centralbank": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The central bank is only named as a body to link to; no payments role is stated."}}},
+"civilregister": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"SDN": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "The Sudan Tax Authority says it contracted Sudatel's data centre to host its main data centre on a rental co-location basis, with Sudatel providing security, operation, internet and monitoring.", "as_of": "2025-02-16", "date_precision": "day", "system": "Sudatel data centre", "class": "datacentre"}], "systems": [{"system": "Sudatel data centre", "country_label": "Sudan", "class": "datacentre", "platform": "co-location", "owner": "Sudatel", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"nationaldatacentres": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Document does not state Sudatel's ownership; the tax authority's own headquarters data centre is for its own use."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"registry": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on civil registry offices."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "The Sudan Tax Authority says its e-portal lets taxpayers file returns electronically, while electronic payment channels are still being activated, with a POS payment pilot set up in 70 offices at the large and medium taxpayer centres.", "as_of": "2025-02-16", "date_precision": "day", "system": "SudanTax e-portal and POS payment", "class": "revenue"}], "systems": [{"system": "SudanTax e-portal and POS payment", "country_label": "Sudan", "class": "revenue", "platform": "", "owner": "Sudan Tax Authority", "tiers": ""}], "note": ""}}}
+}}

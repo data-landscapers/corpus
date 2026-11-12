@@ -1,0 +1,14 @@
+{"slug": "2024-02-16-ken-refugees-given-30-days-to-collect-unclaimed-id-cards", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Refugee ID cards only; no authentication service is stated."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No civil register to ID link is stated."}}},
+"civilregister": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a refugee right to civil registration under the Refugee Act is stated; no digital register."}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Refugee cards and refugee counts only; no national ID enrolment share."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No operation or ownership of an ID system is stated."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No register keyed on a national ID number is stated."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Refugee ID cards are a sectoral ID, not the national ID system."}}},
+"refugees": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "The Commissioner of Refugee Affairs said 12,750 refugee identity cards lay uncollected at centres including Dadaab (6,099) and Kakuma and Kalobeyei (2,302), among over 650,000 registered refugees and asylum-seekers, reports The Eastleigh Voice.", "as_of": "2024-02-16", "date_precision": "day", "system": "refugee identity cards", "class": "displaced"}],
+"systems": [{"system": "refugee identity cards", "country_label": "Kenya", "class": "displaced", "platform": "", "owner": "Department of Refugee Services", "tiers": "national"}], "note": ""}}},
+"registry": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No local civil registration office practice is stated."}}}
+}}

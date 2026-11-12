@@ -1,0 +1,5 @@
+{"slug": "2026-05-08-mus-consultancy-service-for-land-administration-and-valuation-information", "studies": {
+"digitalsovereignty": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Government's preferred private cloud mentioned, no state data stated hosted."}}},
+"landregister": {"countries": {"MUS": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "The Ministry of Housing and Lands' clarification of 8 May 2026 on a tender for consultancy on LAVIMS 2.0, the Land Administration and Valuation Information Management System, says all three phases go to one bidder, with the system to integrate with the Registrar General's MeRP.", "as_of": "2026-05-08", "date_precision": "day", "system": "LAVIMS 2.0", "class": "land"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No data centre for hire stated."}}}
+}}

@@ -1,0 +1,74 @@
+{
+ "slug": "2026-11-11-ben-protection-des-donnees-personnelles-l-apdp-met-en-garde-les-createurs-de-conte",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Benin's Personal Data Protection Authority (APDP), headed by its president Dr Luciano Sewenan Hounkponou, issued a communique on 11 November 2026 reminding content creators of consent rules under the Code du numerique.",
+       "as_of": "2026-11-11",
+       "date_precision": "day",
+       "system": "APDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "APDP",
+       "country_label": "Benin",
+       "class": "authority",
+       "platform": "",
+       "owner": "State",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The APDP, headed by its president, acts under Benin's Code du numerique and issued a communique on 11 November 2026.",
+       "as_of": "2026-11-11",
+       "date_precision": "day",
+       "system": "Code du numerique",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The APDP cites articles 383, 384, 390 and 398 of the Code du numerique as requiring consent to record or publish personal data, and penal articles 518, 527 and 550, as stated in its 11 November 2026 communique.",
+       "as_of": "2026-11-11",
+       "date_precision": "day",
+       "system": "Code du numerique",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The APDP warned content creators on 11 November 2026 that publishing identifying data on social media needs consent and that it may act or refer to the prosecutor without a complaint; no decision is reported.",
+       "as_of": "2026-11-11",
+       "date_precision": "day",
+       "system": "Code du numerique",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{"slug": "2024-11-06-egy-elwatan-mold-wuf12-local-own-source-revenue", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on the central bank."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"localgov": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on office connections."}}},
+"localrecords": {"countries": {"EGY": {"facts": [], "systems": [{"system": "mechanised receipt (financial inclusion framework)", "country_label": "Egypt", "class": "other", "platform": "", "owner": "Ministry of Local Development", "tiers": "governorates"}], "note": "Minister says a mechanised receipt was adopted for governorates (upper tier) and accurate local databases are lacking; no local-government revenue register or live use stated."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on account ownership."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on retail payments."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only an adopted mechanised receipt for governorates' own revenue, with no electronic payment of a tax or fee stated in service."}}}
+}}

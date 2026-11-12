@@ -1,0 +1,43 @@
+{
+ "slug": "2024-02-13-bwa-bobonong-mp-calls-for-comprehensive-land-audit",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The minister names a Land Information System but does not say transactions are processed in it."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Botswana's lands minister told Parliament the ministry has an existing Land Information System, a database of land records, and that all residential plots nationwide now have plot numbers.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "Land Information System",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Land Information System",
+       "country_label": "Botswana",
+       "class": "land",
+       "platform": "",
+       "owner": "Ministry of Lands and Water Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

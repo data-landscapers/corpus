@@ -1,0 +1,153 @@
+{
+ "slug": "2025-02-11-gha-ghanaian-fintech-affinity-bags-8m-to-scale-digital-banking-in-a-mobile",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Bank of Ghana approval of one digital bank's licence is not licensing of payment providers."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "private",
+       "aspect": "money",
+       "value": "committed",
+       "fact": "TechCrunch reports Ghanaian digital bank Affinity Africa raised an $8 million seed round led by Grazia Equity and BACKED VC.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "Affinity Africa seed round",
+       "class": "private"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an Africa-wide World Bank figure is quoted, not one for Ghana."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TechCrunch says mobile money is the dominant financial tool in Ghana's market.",
+       "as_of": "2025-02-11",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  }
+ }
+}

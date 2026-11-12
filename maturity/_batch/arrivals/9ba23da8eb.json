@@ -1,0 +1,32 @@
+{
+ "slug": "2026-09-29-cpv-presidente-do-inmg-destaca-sistema-integrado-de-alerta-precoce-para-re",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Early-warning roadmap and a 36-hour forecast of one storm; satellite data is not mentioned."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on public debate, cuts or penalties."
+    }
+   }
+  }
+ }
+}

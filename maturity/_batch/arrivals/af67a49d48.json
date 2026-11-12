@@ -1,0 +1,10 @@
+{"slug": "2026-02-09-gha-resource-grb-documentation-displaced-persons-amahoro", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on authentication."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on civil register and ID link."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No national enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on a number at birth."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on who runs the ID system."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Ghana Card is mentioned only for displaced persons' enrolment, no system status stated."}}},
+"refugees": {"countries": {"GHA": {"facts": [{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "Amahoro Coalition says that with the Ghana Refugee Board, the National Identification Authority and UNHCR it supported Ghana Card registration of about 800 displaced persons in the past year, while many still struggle to get documents.", "as_of": "2026-02", "date_precision": "month", "system": "Ghana Card registration of displaced persons", "class": "displaced"}, {"sub_indicator": "displaced", "aspect": "access", "value": "open", "fact": "Amahoro Coalition says about 800 displaced persons in Ghana were supported to register for the Ghana Card in the past year, with the National Identification Authority taking part.", "as_of": "2026-02", "date_precision": "month", "system": "Ghana Card", "class": "displaced"}], "systems": [], "note": ""}}}
+}}

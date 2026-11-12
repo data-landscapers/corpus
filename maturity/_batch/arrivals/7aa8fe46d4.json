@@ -1,0 +1,72 @@
+{
+ "slug": "2025-10-27-ben-african-development-bank-group-approves-eur-117-million-financing-to-s",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "connection",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The African Development Bank says Benin's Ministry of the Economy and Finance, through its programme monitoring unit, will implement PADECT, whose digital pillar plans telecoms in 89 public facilities including town halls.",
+       "as_of": "2025-10-24",
+       "date_precision": "day",
+       "system": "PADECT",
+       "class": "connection"
+      },
+      {
+       "sub_indicator": "connection",
+       "aspect": "governance",
+       "value": "finance:donor",
+       "fact": "The African Development Bank says it approved on 24 October 2025 EUR 110 million, plus EUR 7 million from the African Development Fund, to fund PADECT in Benin's 77 municipalities, including telecoms for town halls and other public facilities.",
+       "as_of": "2025-10-24",
+       "date_precision": "day",
+       "system": "PADECT",
+       "class": "connection"
+      },
+      {
+       "sub_indicator": "connection",
+       "aspect": "governance",
+       "value": "plan:current",
+       "fact": "The African Development Bank says PADECT 2026-2031 is a costed programme that includes telecoms infrastructure in 89 public facilities, including town halls, in Benin.",
+       "as_of": "2025-10-24",
+       "date_precision": "day",
+       "system": "PADECT",
+       "class": "connection"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PADECT digital pillar (planned)",
+       "country_label": "Benin",
+       "class": "connection",
+       "platform": "",
+       "owner": "Ministry of the Economy and Finance",
+       "tiers": "77 municipalities"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No mobile data price stated."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Loan is to a government programme, not a private digital business."
+    }
+   }
+  }
+ }
+}

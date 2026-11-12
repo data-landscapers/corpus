@@ -1,0 +1,5 @@
+{"slug": "2025-02-27-mdg-a-more-secure-future-from-a-single-document", "studies": {
+"landregister": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "FAO says Madagascar's World Bank-backed CASEF project has certified 1.1 million parcels with QR-coded certificates linked to a digital version that will be stored in a national register once the system is fully implemented, with computers supplied to over 400 municipal land offices.", "as_of": "2025-02", "date_precision": "month", "system": "CASEF land register", "class": "land"}
+], "systems": [{"system": "CASEF digital land certificates", "country_label": "CASEF", "class": "land", "platform": "", "owner": "Government of Madagascar with World Bank", "tiers": "municipal land offices"}], "note": ""}}}
+}}

@@ -1,0 +1,5 @@
+{"slug": "2026-01-01-zaf-parliamentary-question-na-pq-3793", "studies": {
+"digitalstrategy": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "SABS Digital Transformation Plan", "country_label": "SABS Digital Transformation Plan", "class": "ministry-plan", "platform": "", "owner": "South African Bureau of Standards", "tiers": ""}], "note": "Only one agency's own plan is named, not a national digital strategy."}}},
+"offsitebackup": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "SABS disaster-recovery tests of on-premises and Azure servers are stated, but no backup site or place 200 km away is named."}}},
+"qualitystandards": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "SABS is mentioned in its standards role, but no law, issued IT standard or certification is stated."}}}
+}}

@@ -1,0 +1,205 @@
+{
+ "slug": "2025-05-05-moz-e-m-magazine-processes-solved-online-only-if-you-go-to-the-counter",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an online appointment for an ID card; no authentication service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on e-procurement."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rules or redress; only user complaints about bank and portal service."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an online appointment for an ID card; nothing on issuing or checking."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connection."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "E&M Magazine, republished by 360 Mozambique, reports that M-Pesa, e-Mola and Mkesh mobile wallets are in daily use for transfers, bill payments and phone credit.",
+       "as_of": "2025-05-05",
+       "date_precision": "day",
+       "system": "M-Pesa, e-Mola, Mkesh",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "Mozambique",
+       "class": "retail",
+       "platform": "mobile wallet",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "e-Mola",
+       "country_label": "Mozambique",
+       "class": "retail",
+       "platform": "mobile wallet",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Mkesh",
+       "country_label": "Mozambique",
+       "class": "retail",
+       "platform": "mobile wallet",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "E&M Magazine reports the Tax Authority has online platforms for tax returns and payments, and an accountant says he filed a return on the portal.",
+       "as_of": "2025-05-05",
+       "date_precision": "day",
+       "system": "Tax Authority online platforms",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tax Authority online platforms for returns and payments",
+       "country_label": "Mozambique",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Autoridade Tributaria",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug": "2025-02-13-civ-expanding-the-property-tax-base-innovations-in-property-identification", "studies": {
+"agrisatellite": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Aerial and satellite imagery named is for property identification, not farming."}}},
+"censuses": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document does not address a census or household survey."}}},
+"landregister": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "LoGRI says the Ministry of Construction's SIGFU is digitising all existing paper maps into the ministry's database to modernise land titling.", "as_of": "2025-02-13", "date_precision": "day", "system": "SIGFU", "class": "land"},
+{"sub_indicator": "land", "aspect": "online", "value": "online", "fact": "LoGRI says prospective owners are invited to submit applications for land titles online through SIGFU.", "as_of": "2025-02-13", "date_precision": "day", "system": "SIGFU", "class": "land"}],
+"systems": [{"system": "SIGFU (Systeme Integre de Gestion du Foncier Urbain)", "country_label": "Cote d'Ivoire", "class": "land", "platform": "", "owner": "Ministry of Construction, Housing and Urban Planning", "tiers": "national"}], "note": ""}}},
+"localgov": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No local government office connection is stated."}}},
+"localrecords": {"countries": {"CIV": {"facts": [], "systems": [{"system": "DGI cadastral property register (DCAD)", "country_label": "Cote d'Ivoire", "class": "central", "platform": "", "owner": "Directorate General of Taxation", "tiers": "national"}, {"system": "CORIF", "country_label": "Abidjan", "class": "central", "platform": "", "owner": "Directorate General of Taxation", "tiers": "national"}], "note": "Property identification and registration is run by the central tax directorate, not by local government staff."}}}
+}}

@@ -1,0 +1,14 @@
+{"slug": "2026-11-10-gmb-digital-ministry-moves-to-promote-national-digital-addressing-initiative", "studies": {
+"addressregister": {"countries": {"GMB": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "The Ministry of Communications and Digital Economy held a two-day West Coast Region forum promoting the National Digital Addressing Initiative, which it says seeks to establish a national digital addressing database; Brikama council's chairman urged communities to protect address poles.", "as_of": "2026-11-10", "date_precision": "day", "system": "National Digital Addressing Initiative", "class": "address"}], "systems": [{"system": "National Digital Addressing Initiative", "country_label": "The Gambia", "class": "address", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national"}], "note": ""}}},
+"businesspayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not address e-procurement."}}},
+"centralbank": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not mention the central bank or payments."}}},
+"consumerprotection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not address consumer protection."}}},
+"crossborderpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not address cross-border payments."}}},
+"digitalstrategy": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document is about digital addressing, not a national digital strategy."}}},
+"g2ppayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not address government payments to people."}}},
+"localrecords": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Brikama council only expects to use addresses for property rates; no revenue record system is stated."}}},
+"paymentsuptake": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No survey figure on account ownership."}}},
+"publicconsultation": {"countries": {"GMB": {"facts": [], "systems": [], "note": "A sensitisation forum informs communities; no consultation on a named draft or policy is stated."}}},
+"retailpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not address retail payments."}}},
+"revenuecollection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not address electronic payment of taxes or fees."}}}
+}}

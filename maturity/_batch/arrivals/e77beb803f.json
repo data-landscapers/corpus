@@ -1,0 +1,203 @@
+{
+ "slug": "2026-10-22-uga-the-grizzly-wall-behind-government-s-heavy-burden-in-funding-local-gov",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "connection",
+       "aspect": "use",
+       "value": "systems",
+       "fact": "Habari Daily reports the finance ministry's Lugoloobi saying IRAS, a digital revenue system, has been rolled out to all 176 local governments as a shared web and mobile system for taxpayer registration, billing and collection.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Integrated Revenue Administration System (IRAS)",
+       "class": "connection"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Integrated Revenue Administration System (IRAS)",
+       "country_label": "UGA",
+       "class": "other",
+       "platform": "web and mobile",
+       "owner": "Ministry of Finance / Local Government Finance Commission",
+       "tiers": "local governments"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "recorded",
+       "value": "register",
+       "fact": "Habari Daily reports the finance ministry's Lugoloobi saying IRAS, a digital revenue system, has been rolled out to all 176 local governments and holds 3,101,290 registered taxpayers, with bills, payments and arrears recorded.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Integrated Revenue Administration System (IRAS)",
+       "class": "revenue"
+      },
+      {
+       "sub_indicator": "revenue",
+       "aspect": "held",
+       "value": "shared",
+       "fact": "Habari Daily reports the finance ministry's Lugoloobi saying IRAS, a digital revenue system, has been rolled out to all 176 local governments, giving them a common database that reports to the centre.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Integrated Revenue Administration System (IRAS)",
+       "class": "revenue"
+      },
+      {
+       "sub_indicator": "revenue",
+       "aspect": "authorities",
+       "value": "share:100%",
+       "fact": "IRAS is rolled out to all 176 local governments, per the finance ministry cited by Habari Daily.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Integrated Revenue Administration System (IRAS)",
+       "class": "revenue"
+      },
+      {
+       "sub_indicator": "revenue",
+       "aspect": "last12",
+       "value": "advancing",
+       "fact": "IRAS was rolled out to all 176 local governments in the year to mid-2026 and local own-source revenue rose 15% to Shs442.64 billion, per Habari Daily.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Integrated Revenue Administration System (IRAS)",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Integrated Revenue Administration System (IRAS)",
+       "country_label": "UGA",
+       "class": "revenue",
+       "platform": "web and mobile",
+       "owner": "Ministry of Finance / Local Government Finance Commission",
+       "tiers": "local governments"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Habari Daily reports taxpayers can make digital payments of property rates, business licences, market dues and ground rent through IRAS, with electronic receipts, in local governments.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Integrated Revenue Administration System (IRAS)",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Integrated Revenue Administration System (IRAS)",
+       "country_label": "UGA",
+       "class": "other",
+       "platform": "web and mobile",
+       "owner": "Ministry of Finance / Local Government Finance Commission",
+       "tiers": "local governments"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

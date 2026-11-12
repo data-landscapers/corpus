@@ -1,0 +1,28 @@
+{
+  "slug": "2026-07-20-ben-tribune-de-haut-niveau-des-experts-du-numerique-et-du-foncier",
+  "studies": {
+    "internationalstandards": {"countries": {"BEN": {"facts": [], "systems": [], "note": "LADM is named as the base of e-Foncier, a system built to a standard, which places nothing; no standards body or adoption stated."}}},
+    "landadmin": {"countries": {"BEN": {
+      "facts": [
+        {"sub_indicator": "landmis", "aspect": "system", "value": "inservice", "fact": "ANDF's information systems director Alidou Saré says the E-TERRE platform manages the process of issuing land titles and related administrative procedures, and is connected to the National Public Services Portal, for parcels whose registration is already under way.", "as_of": "2026-07-20", "date_precision": "day", "system": "E-TERRE", "class": "landmis"}
+      ],
+      "systems": [
+        {"system": "E-TERRE", "country_label": "Benin", "class": "landmis", "platform": "", "owner": "Agence Nationale du Domaine et du Foncier (ANDF)", "tiers": ""},
+        {"system": "e-Foncier Bénin", "country_label": "Benin", "class": "land", "platform": "LADM", "owner": "Agence Nationale du Domaine et du Foncier (ANDF)", "tiers": ""}
+      ],
+      "note": "E-TERRE and e-Foncier are not stated as joined to each other, and no tax link is stated."}}},
+    "landregister": {"countries": {"BEN": {
+      "facts": [
+        {"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "ANDF says e-Foncier Bénin, built on the LADM standard, records parcels titled or not, and cadastral data collection has covered Cotonou, Porto-Novo and Parakou fully and nine other communes in part, while ANDF digitised all the physical files inherited from the former land directorate.", "as_of": "2026-07-20", "date_precision": "day", "system": "e-Foncier Bénin", "class": "land"},
+        {"sub_indicator": "land", "aspect": "online", "value": "online", "fact": "ANDF says E-TERRE is connected to the National Public Services Portal so users can carry out certain land procedures online.", "as_of": "2026-07-20", "date_precision": "day", "system": "E-TERRE", "class": "land"}
+      ],
+      "systems": [
+        {"system": "e-Foncier Bénin", "country_label": "Benin", "class": "land", "platform": "LADM", "owner": "Agence Nationale du Domaine et du Foncier (ANDF)", "tiers": ""},
+        {"system": "E-TERRE", "country_label": "Benin", "class": "land", "platform": "", "owner": "Agence Nationale du Domaine et du Foncier (ANDF)", "tiers": ""}
+      ],
+      "note": "Coverage is partial, with 14 more communes to start collection, so no nationwide statement."}}},
+    "localgov": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on local government office connections."}}},
+    "localrecords": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on local government revenue records; the cadastre is a land survey."}}},
+    "schoolinternet": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+  }
+}

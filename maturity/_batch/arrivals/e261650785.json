@@ -1,0 +1,43 @@
+{
+ "slug": "2026-06-13-ssd-radioyei-ssra-arrears-file-pay-online",
+ "studies": {
+  "idregisters": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The South Sudan Revenue Authority's notice of 12 June 2026, as reported by Radio Yei, tells taxpayers to update contact details in the electronic TIN registration system and records arrears in its Domestic Tax Integrated System.",
+       "as_of": "2026-06-12",
+       "date_precision": "day",
+       "system": "Electronic TIN registration system / Domestic Tax Integrated System",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Electronic TIN registration system; Domestic Tax Integrated System",
+       "country_label": "South Sudan",
+       "class": "tax",
+       "platform": "",
+       "owner": "South Sudan Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

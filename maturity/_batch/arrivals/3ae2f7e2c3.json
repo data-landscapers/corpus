@@ -1,0 +1,12 @@
+{"slug": "2025-12-26-sen-senegal-procasef-sgf-promogef-cadastre-le-futur-de-la-gouvernance-fonc", "studies": {
+"authentication": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "allAfrica reports that the SGF land management system, contracted to ModelSis in December 2023 for an 18-month build, will include an electronic signature mechanism among its modules.", "as_of": "2023-12", "date_precision": "month", "system": "SGF electronic signature module", "class": "authentication"}],
+"systems": [], "note": ""}}},
+"ecommercelaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document does not address an electronic transactions law."}}},
+"egovservices": {"countries": {"SEN": {"facts": [], "systems": [], "note": "A public portal is only a planned SGF module; the UN index score is not a service count."}}},
+"landregister": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "allAfrica reports the DGID awarded the contract for the SGF, an integrated land management platform with a cadastral GIS module, to ModelSis in December 2023 for an 18-month build, and describes it as still in gestation in December 2025.", "as_of": "2025-12-23", "date_precision": "day", "system": "Systeme de gestion fonciere (SGF)", "class": "land"}],
+"systems": [{"system": "Systeme de gestion fonciere (SGF)", "country_label": "Senegal", "class": "land", "platform": "", "owner": "DGID (PROMOGEF)", "tiers": "national"}], "note": ""}}},
+"localgov": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Interconnecting the central and territorial levels is only an ambition; no local office connection is stated."}}},
+"schoolinternet": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document does not address schools."}}}
+}}

@@ -1,0 +1,5 @@
+{"slug": "2025-12-15-cod-des-donnees-foncieres-pour-orienter-les-choix-techniques-institutionne", "studies": {
+"landadmin": {"countries": {"COD": {"facts": [], "systems": [], "note": "Land digitisation is called embryonic with no land information system named."}}},
+"landregister": {"countries": {"COD": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "A UN-Habitat study validated with the Ministry of Land Affairs found the land digitisation process is still embryonic, with under 15% of plots holding a legal document.", "as_of": "2025-12", "date_precision": "month", "system": "land digitisation process", "class": "land"}], "systems": [], "note": ""}}},
+"publicconsultation": {"countries": {"COD": {"facts": [], "systems": [], "note": "The workshop validated land reform studies, not a digital law or policy."}}}
+}}

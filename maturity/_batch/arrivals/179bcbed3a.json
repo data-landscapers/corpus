@@ -1,0 +1,9 @@
+{"slug": "2026-06-03-mdg-justice-la-digitalisation-des-juridictions-pour-ameliorer-les-services", "studies": {
+"aiabuse": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Only an aim to prepare bases for future AI regulation, no draft or rule."}}},
+"aigovernment": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Court software named is case management, not AI."}}},
+"ailaw": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Only an aim to prepare future AI regulation, no draft text."}}},
+"aisectoral": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No AI tool in a sector system stated."}}},
+"aisystems": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"dataprotectionlaw": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Names the Cmil as organiser of a conference but states no law, mandate or decision."}}},
+"schoolinternet": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document is about courts, not schools."}}}
+}}

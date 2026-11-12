@@ -1,0 +1,11 @@
+{"slug": "2026-08-03-tza-ttcl-uhifadhi-wa-taarifa-ndani-ya-nchi-uimarisha-usalama-kidigitali", "studies": {
+"datacentres": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "TTCL's National Internet Data Centre offers storage-as-a-service, infrastructure-as-a-service and domain registration to citizens, institutions, businesses and students, per TTCL's ICT specialist quoted by Taifa Tanzania.", "as_of": "2026-08-03", "date_precision": "day", "system": "National Internet Data Centre (NIDC)", "class": "datacentre"},
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "TTCL's ICT specialist says the TTCL Data Centre has reached the international Tier III standard, per Taifa Tanzania.", "as_of": "2026-08-03", "date_precision": "day", "system": "National Internet Data Centre (NIDC)", "class": "datacentre"}
+], "systems": [{"system": "National Internet Data Centre (NIDC)", "country_label": "Tanzania", "class": "datacentre", "platform": "", "owner": "TTCL", "tiers": ""}], "note": ""}}},
+"datalocalisation": {"countries": {"TZA": {"facts": [], "systems": [], "note": "TTCL argues for in-country hosting; no rule requiring it is stated."}}},
+"nationaldatacentres": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "national", "aspect": "centre", "value": "service", "fact": "TTCL's National Internet Data Centre offers storage and infrastructure services to citizens, institutions and businesses, per Taifa Tanzania; the document does not state who owns TTCL.", "as_of": "2026-08-03", "date_precision": "day", "system": "National Internet Data Centre (NIDC)", "class": "datacentre"},
+{"sub_indicator": "national", "aspect": "centre", "value": "tier3", "fact": "TTCL's ICT specialist says the TTCL Data Centre has reached the Tier III standard, per Taifa Tanzania.", "as_of": "2026-08-03", "date_precision": "day", "system": "National Internet Data Centre (NIDC)", "class": "datacentre"}
+], "systems": [{"system": "National Internet Data Centre (NIDC)", "country_label": "Tanzania", "class": "datacentre", "platform": "", "owner": "TTCL", "tiers": ""}], "note": "Ownership by the state or nationals is not stated."}}}
+}}

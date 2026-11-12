@@ -1,0 +1,11 @@
+{"slug": "2024-02-28-com-les-litiges-fonciers-et-les-arnaques-immobilieres-demeurent-une-source", "studies": {
+"addressregister": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention addressing."}}},
+"businessregister": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention a business register."}}},
+"civilregister": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention civil registration."}}},
+"electoralregister": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention a voters' roll."}}},
+"landregister": {"countries": {"COM": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "none", "fact": "Op-ed author Youssoufa Said says Comoros currently has no national online land register and urges digitising land registers.", "as_of": "2024-02-28", "date_precision": "day", "system": "land register", "class": "land"}], "systems": [], "note": ""}}},
+"populationregister": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention a population register."}}},
+"registry": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention civil registration offices."}}},
+"socialregistry": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention a social registry."}}},
+"taxregister": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention a taxpayer register."}}}
+}}

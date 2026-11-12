@@ -1,0 +1,121 @@
+{
+ "slug": "2026-08-24-ben-souverainete-tech-comment-la-sbin-s-est-fait-evincer-d-un-contrat-cle",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "State data centre serves ministries; no data centre for hire stated."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "La Marina BJ says the Plateforme Nationale d'Interop\u00e9rabilit\u00e9 (PNI), hosted in the ASIN state data centre, carries inter-administration data flows.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Plateforme Nationale d'Interop\u00e9rabilit\u00e9 (PNI)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Plateforme Nationale d'Interop\u00e9rabilit\u00e9 (PNI)",
+       "country_label": "BEN",
+       "class": "exchange",
+       "platform": "",
+       "owner": "ASIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "outsourced",
+       "fact": "La Marina BJ reports ASIN awarded private integrator MAPCOM Technologies a two-year XOF 154.7 million contract to maintain operational condition and renew software licences of the state data centre, PNI and PNS.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "State data centre; PNI; PNS",
+       "class": "staff"
+      },
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "La Marina BJ says ASIN manages the state data centre that hosts ministries' application architectures, the PNI and the PNS.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "State data centre (ASIN)",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "State data centre (ASIN)",
+       "country_label": "BEN",
+       "class": "staff",
+       "platform": "",
+       "owner": "ASIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "state",
+       "value": "hosted",
+       "fact": "La Marina BJ says the ASIN-managed state data centre hosts ministries' application architectures, the PNI and the PNS.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "State data centre (ASIN)",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "owner",
+       "value": "national",
+       "fact": "La Marina BJ describes the state data centre as managed by the state agency ASIN.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "State data centre (ASIN)",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "State data centre (ASIN)",
+       "country_label": "BEN",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "ASIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

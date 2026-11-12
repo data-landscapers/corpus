@@ -1,0 +1,10 @@
+{"slug": "2024-05-28-moz-promoting-land-tenure-security-in-mozambique", "studies": {
+"agrisatellite": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Satellite imagery named was used by the evaluators, not by a farming service."}}},
+"censuses": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not address a census or household survey as a national one."}}},
+"landadmin": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "none", "fact": "The MCC evaluation brief says use of the land information system has largely not been sustained, and in many land offices it is not functioning or serves as a back-up database, with continued reliance on paper records.", "as_of": "2023", "date_precision": "year", "system": "land information management system", "class": "landmis"}],
+"systems": [{"system": "land information management system", "country_label": "Mozambique land offices", "class": "landmis", "platform": "", "owner": "land administration", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "none", "fact": "The MCC evaluation brief says most land offices have significant challenges in land record management and many rely on paper records because the land information system is not functioning or is only a back-up database.", "as_of": "2023", "date_precision": "year", "system": "land information management system", "class": "land"}],
+"systems": [], "note": ""}}}
+}}

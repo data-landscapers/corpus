@@ -1,0 +1,44 @@
+{
+ "slug": "2024-07-26-civ-amelioration-des-systemes-d-information-l-application-guce-mobile-du-c",
+ "studies": {
+  "customs": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "225.ci reports the foreign trade single window application Guce mobile was launched on 25 July 2024, a platform for traders, customs brokers, technical ministries and banks.",
+       "as_of": "2024-07-25",
+       "date_precision": "day",
+       "system": "GUCE C\u00f4te d'Ivoire / Guce mobile",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "225.ci says the Guce platform includes pre-clearance and customs clearance modules used by customs brokers and importers and exporters.",
+       "as_of": "2024-07-25",
+       "date_precision": "day",
+       "system": "GUCE C\u00f4te d'Ivoire / Guce mobile",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GUCE C\u00f4te d'Ivoire / Guce mobile",
+       "country_label": "C\u00f4te d'Ivoire",
+       "class": "customs",
+       "platform": "web and mobile",
+       "owner": "GUCE C\u00f4te d'Ivoire, state company",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

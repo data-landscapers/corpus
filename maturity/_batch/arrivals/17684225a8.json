@@ -1,0 +1,9 @@
+{"slug": "2024-06-19-cog-la-start-up-noki-noki-leve-3-millions-de-dollars-en-seed-pour-revoluti", "studies": {
+"nonstatefinance": {"countries": {"COG": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "AfriqueITNews reports that Brazzaville delivery and payments start-up Noki Noki closed a $3 million (1.8 billion FCFA) seed round led by Uma Ventures, described as a first in the Republic of Congo.", "as_of": "2024-06-13", "date_precision": "day", "system": "Noki Noki seed round", "class": "private"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"COG": {"facts": [], "systems": [], "note": "Document states no startup law, strategy or public fund."}}},
+"techhubs": {"countries": {"COG": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "AfriqueITNews reports that in May 2024 Noki Noki joined the TotalEnergies incubator in Pointe-Noire, selected from 100 candidates for a two-year incubation programme.", "as_of": "2024-05", "date_precision": "month", "system": "TotalEnergies incubator, Pointe-Noire", "class": "hub"}
+], "systems": [], "note": ""}}}
+}}

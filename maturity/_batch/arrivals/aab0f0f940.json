@@ -1,0 +1,187 @@
+{
+ "slug": "2025-11-01-cog-congo-reforme-fonciere-et-patrouilles-domaniales",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The state-domain directorate says field patrols starting in Brazzaville will feed a national digital state-domain register, with each parcel geolocated and given a unique identification number.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "registre national domanial",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "registre national domanial",
+       "country_label": "Congo",
+       "class": "land",
+       "platform": "",
+       "owner": "Direction du Domaine, Ministry of Land Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "A technology park is only envisaged on former military land; no hub or programme stated."
+    }
+   }
+  }
+ }
+}

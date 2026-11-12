@@ -1,0 +1,208 @@
+{
+ "slug": "2025-10-01-civ-cote-d-ivoire-deploiement-du-logiciel-d-etat-civil-de-l-oneci-dans-le",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "ONECI's civil-status software is being deployed in the Cavally and Guémon regions, with agents trained 25-27 September 2025 and 72 and 21 computer kits delivered to sub-prefectures and town halls, per AIP.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Logiciel d'état civil de l'ONECI",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Logiciel d'état civil de l'ONECI",
+       "country_label": "Côte d'Ivoire",
+       "class": "civil",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": "sous-préfectures and mairies"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Computer kits for sub-prefectures and town halls are equipment with no connection stated."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "RNPP connection of 689 centres is stated as a goal at the end of deployment, not as the register's status."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "offices",
+       "value": "count:43",
+       "fact": "ONECI's civil-status software is being rolled out to 43 civil-status centres in Cavally and Guémon (36 sub-prefectures, 7 town halls), per AIP.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Logiciel d'état civil de l'ONECI",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "governance",
+       "value": "finance:donor",
+       "fact": "The European Union, through its technical unit CIVIPOL, finances the deployment of the civil-status software, per AIP.",
+       "as_of": "2025-10-01",
+       "date_precision": "day",
+       "system": "Logiciel d'état civil de l'ONECI",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Logiciel d'état civil de l'ONECI",
+       "country_label": "Côte d'Ivoire",
+       "class": "civil",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": "sous-préfectures and mairies"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

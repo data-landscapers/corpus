@@ -1,0 +1,12 @@
+{"slug": "2025-02-03-lbr-liberia-how-the-government-cannibalizes-its-resources", "studies": {
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states nothing on authentication services."}}},
+"birthidlink": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states nothing on a civil register to ID link."}}},
+"datacentres": {"countries": {"LBR": {"facts": [], "systems": [{"system": "LIBTELCO data centre", "country_label": "Liberia", "class": "other", "platform": "server co-location", "owner": "LIBTELCO (government)", "tiers": ""}], "note": "An opinion piece says LIBTELCO's government data centre offers co-location to government agencies and runs under 25% capacity; it does not state hire to outside organisations."}}},
+"digitalsovereignty": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states no rule, goal or contract term on state data."}}},
+"idcoverage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document gives no enrolment count or share."}}},
+"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states no register keyed on the ID number."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document says the National Identification Registry is charged with biometric registration but states no system in service."}}},
+"nationaldatacentres": {"countries": {"LBR": {"facts": [], "systems": [{"system": "LIBTELCO data centre", "country_label": "Liberia", "class": "other", "platform": "server co-location", "owner": "LIBTELCO (government)", "tiers": ""}], "note": "The document does not state that any ministry's data is hosted there, nor hire to outside customers, nor a Tier."}}}
+}}

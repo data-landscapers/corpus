@@ -1,0 +1,18 @@
+{"slug": "2025-11-27-ner-le-niger-aborde-une-nouvelle-ere-de-connectivite-avec-la-dorsale-trans", "studies": {
+"businesspayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on a central bank payments role."}}},
+"civilserviceskills": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on civil servant training."}}},
+"consumerprotection": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer rules."}}},
+"crossborderpayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"NER": {"facts": [], "systems": [], "note": "A national data centre is only future; none in service stated."}}},
+"digitalskills": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on public digital-skills programmes or a measured share."}}},
+"digitalstrategy": {"countries": {"NER": {"facts": [], "systems": [], "note": "The 2026-2035 national digital policy is named only for its ambition; its adoption and text are not stated."}}},
+"fibrebackbone": {"countries": {"NER": {"facts": [{"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "Agence Ecofin reports that on 14 November 2025 Niger's communications minister provisionally received 1,031 km of fibre laid across the territory under the trans-Saharan fibre backbone project (EUR 43 million, AfDB group and Niger), begun in 2021; the fibre is to carry traffic once put in service.", "as_of": "2025-11-14", "date_precision": "day", "system": "Dorsale transsaharienne a fibre optique (DTS)", "class": "backbone"}], "systems": [{"system": "Dorsale transsaharienne a fibre optique (DTS)", "country_label": "DTS", "class": "backbone", "platform": "", "owner": "Government of Niger, AfDB-financed", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"mobileaffordability": {"countries": {"NER": {"facts": [{"sub_indicator": "price", "aspect": "cost", "value": "share:8.5", "fact": "Agence Ecofin, citing the ITU, says 2 GB of mobile broadband in Niger still costs about 8.5% of average monthly income per person (2 GB, not 5 GB; 2024 ITU basis stated for the African figures).", "as_of": "2024", "date_precision": "year", "system": "ITU price basket", "class": "price"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"NER": {"facts": [], "systems": [], "note": "A future national data centre is mentioned only as a planned link target; none in service stated."}}},
+"paymentsuptake": {"countries": {"NER": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."}}},
+"regionalinfrastructure": {"countries": {"NER": {"facts": [], "systems": [], "note": "Fibre reaches five borders and interconnection is only possible; no agreement with a named partner body is stated."}}},
+"retailpayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}}
+}}

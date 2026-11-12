@@ -1,0 +1,13 @@
+{"slug": "2026-03-27-bdi-titres-fonciers-electroniques-securises-entre-avancee-technologique-et", "studies": {
+"authentication": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states nothing on authentication."}}},
+"birthidlink": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states nothing on ID enrolment."}}},
+"idfrombirth": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states nothing on running the ID system."}}},
+"idregisters": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Mentions ID copy as a filing document only, not a register keyed on the number."}}},
+"idrobustness": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states nothing on the national ID system."}}},
+"landregister": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "Burundi Eco reports that the 2025-2026 Finance Law (arts. 142-143) requires every titleholder to apply for a secure electronic land title, with the land titles directorate (DTFCN) receiving files at Bujumbura, Gitega, Makamba and Ngozi until 30 April 2026.", "as_of": "2026-03-17", "date_precision": "day", "system": "secure electronic land title", "class": "land"}
+], "systems": [{"system": "secure electronic land title", "country_label": "Burundi", "class": "land", "platform": "", "owner": "Direction des Titres Fonciers et du Cadastre National", "tiers": "Bujumbura, Gitega, Makamba, Ngozi"}], "note": ""}}},
+"taxregister": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Mentions the tax number only as a filing document for firms, nothing on a taxpayer register."}}}
+}}

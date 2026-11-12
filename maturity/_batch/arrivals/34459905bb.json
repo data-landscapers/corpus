@@ -1,0 +1,7 @@
+{"slug": "2026-01-23-mdg-madagascar-coree-du-sud-la-digitalisation-du-foncier-comme-levier-stra", "studies": {
+"civilserviceskills": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Training of public agents is named only as a success factor."}}},
+"landadmin": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Korean support for digitising land services is a stated intention, no system."}}},
+"landregister": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "none", "fact": "Newsmada reports Madagascar's land system still rests on century-old, often incomplete or deteriorated archives, and that South Korea intends to support digitising land data.", "as_of": "2026-01", "date_precision": "month", "system": "boky rovitra land archives", "class": "land"}
+], "systems": [], "note": ""}}}
+}}

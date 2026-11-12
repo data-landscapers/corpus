@@ -1,0 +1,146 @@
+{
+ "slug": "2026-10-14-gha-lands-commission-outlines-four-steps-for-conducting-online-land-search",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Citi Newsroom reports the Lands Commission's online portal lets buyers upload a site plan, pay the search fee and receive a land search report by email, live in 10 of 16 regions.",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "Lands Commission online services portal",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lands Commission online services portal",
+       "country_label": "GHA",
+       "class": "eservices",
+       "platform": "onlineservices.lc.gov.gh",
+       "owner": "Lands Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Citi Newsroom reports a Ghanaian government online service takes payment of its fee by mobile money, which implies mobile money is in use.",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "Lands Commission online services portal",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lands Commission online services portal",
+       "country_label": "GHA",
+       "class": "other",
+       "platform": "onlineservices.lc.gov.gh",
+       "owner": "Lands Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Citi Newsroom reports the Lands Commission's land search fee is paid online by mobile money, in service in 10 of 16 regions.",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "Lands Commission online services portal",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lands Commission online services portal",
+       "country_label": "GHA",
+       "class": "other",
+       "platform": "onlineservices.lc.gov.gh",
+       "owner": "Lands Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

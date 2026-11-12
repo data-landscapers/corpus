@@ -1,0 +1,8 @@
+{"slug": "2026-07-24-zaf-question-to-the-minister-of-land-reform-and-rural-development-nw3407", "studies": {
+"ictstrategy": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The CGICT policy is one department's ICT governance policy, not an ICT sector policy."}}},
+"landregister": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "The Minister of Land Reform's written reply (NW3407, 24 July 2026) gives budgets of R215 million for the Electronic Deeds Registration System and R13.3 million for the Cadastral Information System revamp, with eDRS hosting arranged with SITA.", "as_of": "2026-07-24", "date_precision": "day", "system": "Electronic Deeds Registration System (eDRS)", "class": "land"}
+], "systems": [
+{"system": "Cadastral Information System (CIS)", "country_label": "CIS", "class": "land", "platform": "", "owner": "Department of Land Reform and Rural Development", "tiers": ""}
+], "note": ""}}}
+}}

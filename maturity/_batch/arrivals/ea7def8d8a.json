@@ -1,0 +1,6 @@
+{"slug": "2026-04-21-tcd-tchad-la-commune-de-n-djamena-digitalise-la-collecte-des-recettes", "studies": {
+"censuses": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The taxpayer census is a municipal one, not a population census or survey."}}},
+"idcoverage": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on national ID enrolment."}}},
+"localgov": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on local government office connection."}}},
+"localrecords": {"countries": {"TCD": {"facts": [{"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "Journal du Tchad reports the N'Djamena commune launched a digital taxpayer census with digitalised municipal revenue collection at the Central Market on 21 April 2026, enrolling the first traders, with rollout to other markets and districts to follow.", "as_of": "2026-04-21", "date_precision": "day", "system": "digital taxpayer census and revenue collection", "class": "revenue"}], "systems": [{"system": "digital taxpayer census and revenue collection", "country_label": "Chad", "class": "revenue", "platform": "", "owner": "Commune de N'Djamena", "tiers": ""}], "note": ""}}}
+}}

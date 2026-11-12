@@ -1,0 +1,6 @@
+{"slug": "2026-07-01-bdi-communique-declaration-et-paiement-en-ligne-de-l-impot-foncier", "studies": {
+"localrecords": {"countries": {"BDI": {"facts": [], "systems": [{"system": "UMUTANGAKORI II", "country_label": "UMUTANGAKORI II", "class": "central", "platform": "", "owner": "Office Burundais des Recettes", "tiers": ""}], "note": "Land tax moved to the national revenue office, which holds the declarations; not a local government's own record."}}},
+"taxregister": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "register", "value": "inservice", "fact": "The Office Burundais des Recettes says land tax declarations for 2026/2027 must be made online on its UMUTANGAKORI II platform, and unregistered taxpayers request their tax identification numbers through its e-Kori platform.", "as_of": "2026-07", "date_precision": "month", "system": "UMUTANGAKORI II and e-Kori", "class": "tax"}
+], "systems": [{"system": "UMUTANGAKORI II", "country_label": "UMUTANGAKORI II", "class": "tax", "platform": "", "owner": "Office Burundais des Recettes", "tiers": ""}], "note": ""}}}
+}}

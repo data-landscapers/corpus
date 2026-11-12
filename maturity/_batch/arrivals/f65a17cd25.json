@@ -1,0 +1,8 @@
+{"slug": "2024-01-03-tgo-togo-the-local-government-revenue-initiative", "studies": {
+"censuses": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Only a property census, not a population census or household survey."}}},
+"landregister": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "LoGRI says Togo's tax authority OTR has digitalised property census taking, with tablets and geolocation mapping, to build an up-to-date land and fiscal cadastre, while most of the country has no cadastre.", "as_of": "2024-01-03", "date_precision": "day", "system": "OTR property census and fiscal cadastre", "class": "land"}
+], "systems": [{"system": "OTR property census and fiscal cadastre", "country_label": "Togo", "class": "land", "platform": "tablets with geolocation mapping", "owner": "Office Togolais des Recettes", "tiers": "national"}], "note": ""}}},
+"localgov": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on local government office connections."}}},
+"localrecords": {"countries": {"TGO": {"facts": [], "systems": [{"system": "OTR property tax system", "country_label": "Togo", "class": "other", "platform": "", "owner": "Office Togolais des Recettes", "tiers": "central"}], "note": "The central tax authority identifies, bills and collects property tax and shares revenue with municipalities; no municipal revenue record stated."}}}
+}}

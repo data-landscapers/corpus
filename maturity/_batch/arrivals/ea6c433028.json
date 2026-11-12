@@ -1,0 +1,13 @@
+{"slug": "2025-12-12-dza-algeria-s-public-startup-fund-scores-first-exit-as-travel-tech-volz-ra", "studies": {
+"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on government procurement."}}},
+"centralbank": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Currency controls are mentioned; no central bank payments role stated."}}},
+"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on regulated cross-border digital payment channels."}}},
+"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"nonstatefinance": {"countries": {"DZA": {"facts": [{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Launch Base Africa reports Algerian travel-tech startup Voelz raised DZD 600 million (about USD 5 million, the outlet's conversion) in a round led by Tell Group with GIBA.", "as_of": "2025-12", "date_precision": "month", "system": "Voelz funding round", "class": "private"}, {"sub_indicator": "private", "aspect": "home", "value": "raised", "fact": "Launch Base Africa describes the DZD 600 million Voelz round as led by private local investors, including Biskra-based conglomerate GIBA (Groupe Industriel Babahoum Algerie).", "as_of": "2025-12", "date_precision": "month", "system": "Voelz funding round", "class": "private"}], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on mobile money or a switch; cash-on-delivery is mentioned for a private platform."}}},
+"revenuecollection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"startups": {"countries": {"DZA": {"facts": [{"sub_indicator": "startuppolicy", "aspect": "funded", "value": "funded", "fact": "Launch Base Africa says the state-backed Algerian Startup Fund, the primary source of seed capital for local founders, invested in Voelz and exited at a 3.35x return, its first exit; the source does not tie the fund to a startup act.", "as_of": "2025-12", "date_precision": "month", "system": "Algerian Startup Fund", "class": "startuppolicy"}], "systems": [{"system": "Algerian Startup Fund", "country_label": "Algerian Startup Fund (ASF)", "class": "startuppolicy", "platform": "", "owner": "State", "tiers": ""}], "note": ""}}},
+"techhubs": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on hubs."}}}
+}}

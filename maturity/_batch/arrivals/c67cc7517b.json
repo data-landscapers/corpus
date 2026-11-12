@@ -1,0 +1,225 @@
+{
+ "slug": "2025-07-18-mar-data-centers-au-maroc-comment-ca-marche",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "LesEco.ma reports that Maroc Data Center, at its Temara site, has a 300 m2 white room and about a hundred racks supplying IaaS and PaaS cloud infrastructure to enterprises and administrations, and has hosted OVHcloud there since 2024.",
+       "as_of": "2025-07-18",
+       "date_precision": "day",
+       "system": "Maroc Data Center (Temara)",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maroc Data Center (Temara)",
+       "country_label": "Morocco",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Maroc Data Center",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "LesEco.ma reports that Maroc Data Center, at its Temara site, has a 300 m2 white room and about a hundred racks supplying IaaS and PaaS cloud infrastructure to enterprises and administrations, and has hosted OVHcloud there since 2024.",
+       "as_of": "2025-07-18",
+       "date_precision": "day",
+       "system": "Maroc Data Center (Temara)",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maroc Data Center (Temara)",
+       "country_label": "Morocco",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Maroc Data Center",
+       "tiers": ""
+      }
+     ],
+     "note": "Ownership at the as-at date is not stated, only that Moroccan IT pioneers created it."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  }
+ }
+}

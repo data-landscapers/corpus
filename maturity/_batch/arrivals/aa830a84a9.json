@@ -1,0 +1,15 @@
+{"slug": "2026-05-01-mrt-moov-mauritel-director-general-speech-world-telecommunication-day", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Speech states nothing on AI harms."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Speech states nothing on AI in administration."}}},
+"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Speech states nothing on sectoral AI."}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Speech names no AI model, dataset or AI computing; only a pledge to invest in AI skills."}}},
+"datacentres": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Data centres appear only in passing about sovereignty; none named."}}},
+"dataprotectionlaw": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Speech states nothing on a data protection law."}}},
+"digitalsovereignty": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Sovereignty is a general statement; no policy, rule, hosting or contract terms stated."}}},
+"digitalstrategy": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Digital Agenda 2022-2025 is named in passing as the vision; no adoption, text or reporting stated."}}},
+"egovservices": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Speech states nothing on online government services."}}},
+"internationalbandwidth": {"countries": {"MRT": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Moov Mauritel's Director General says the company has put the new 'West Africa' submarine cable into operation, an investment of over 8 billion ouguiya.", "as_of": "2026-05", "date_precision": "month", "system": "West Africa submarine cable", "class": "route"}], "systems": [{"system": "West Africa submarine cable", "country_label": "Mauritania", "class": "route", "platform": "submarine cable", "owner": "Moov Mauritel", "tiers": ""}, {"system": "EllaLink submarine cable", "country_label": "Mauritania", "class": "other", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": "EllaLink is said to be coming soon, so it is not in service."}}},
+"nationaldatacentres": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No data centre named."}}},
+"startups": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only a company pledge to support startups; no startup law, labelling or fund."}}},
+"techhubs": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No hub or park named."}}}
+}}

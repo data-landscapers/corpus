@@ -1,0 +1,15 @@
+{"slug": "2026-01-01-zmb-an-assessment-of-the-effect-of-revenue-collection-on-local-authority-s", "studies": {
+"businesspayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"censuses": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The 2022 census appears only as a reference title, nothing stated."}}},
+"centralbank": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"localgov": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Inadequate IT infrastructure is mentioned, but no office connection is stated."}}},
+"localrecords": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "revenue", "aspect": "recorded", "value": "none", "fact": "A 2026 journal case study of Kalulushi Municipal Council found its revenue collection mainly relies on manual systems, with inadequate IT infrastructure a challenge.", "as_of": "2026", "date_precision": "year", "system": "Kalulushi Municipal Council revenue collection", "class": "revenue"}
+], "systems": [], "note": "One council only; the study's own survey date is not given."}}},
+"paymentsuptake": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No adult account survey share."}}},
+"retailpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Only one council's local revenue is discussed, not national tax payment."}}}
+}}

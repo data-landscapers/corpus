@@ -1,4 +1,14 @@
-{"slug": "2024-04-01-bwa-government-drops-microsoft-office-for-open-source", "studies": {
-"civilserviceskills": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Software licensing change; no digital-skills training stated."}}},
-"idmaintenance": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}}
-}}
+{
+ "slug": "2024-04-01-bwa-government-drops-microsoft-office-for-open-source",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "About office software licences; no finance, tax or payroll system stated."
+    }
+   }
+  }
+ }
+}

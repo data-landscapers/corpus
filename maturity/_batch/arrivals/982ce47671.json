@@ -1,0 +1,10 @@
+{"slug": "2026-02-09-ago-uniprime-empresa-chinesa-controla-dados-de-milhoes-de-angolanos-sem-co", "studies": {
+"authentication": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No link to the civil register stated."}}},
+"idcoverage": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Coverage is called low with no count or share."}}},
+"idfrombirth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"idmaintenance": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Allegations of a foreign firm's control, with no statement of who operates or maintains the ID system."}}},
+"idregisters": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"AGO": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Diario dos Negocios, republishing Imparcial Press, says a 2021 presidential despacho authorised over USD 63 million for production of identity cards and biometric equipment, and that national civil identification coverage remains low four years on.", "as_of": "2021", "date_precision": "year", "system": "Bilhete de Identidade", "class": "idsystem"}], "systems": [{"system": "Bilhete de Identidade", "country_label": "Angola", "class": "idsystem", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": ""}], "note": ""}}},
+"police": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on police station records."}}}
+}}

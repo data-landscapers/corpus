@@ -1,0 +1,13 @@
+{"slug": "2025-02-22-cmr-cameroun-cameroon-angels-network-investit-21-5-millions-de-fcfa-dans-r", "studies": {
+"businesspayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on government procurement."}}},
+"centralbank": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on central bank role."}}},
+"consumerprotection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Reasy is a private Africa-China trade payments platform; no regulated corridor or licence stated."}}},
+"g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"nonstatefinance": {"countries": {"CMR": {"facts": [{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Droit Medias Finance reports Cameroon Angels Network invested FCFA 21.5 million in Reasy, an Africa-China cross-border payments and logistics fintech, an investment finalised in the last quarter of 2024; the source does not say where Reasy is based.", "as_of": "2024-12", "date_precision": "month", "system": "Reasy", "class": "private"}, {"sub_indicator": "private", "aspect": "home", "value": "raised", "fact": "The investor, Cameroon Angels Network, is a Cameroonian business angel group and called this its largest operation to date at FCFA 21.5 million in Reasy, finalised in the last quarter of 2024.", "as_of": "2024-12", "date_precision": "month", "system": "Reasy", "class": "private"}], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"startups": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A private angel investment only; no startup law, label or public fund."}}},
+"techhubs": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on hubs."}}}
+}}

@@ -1,0 +1,11 @@
+{"slug": "2025-07-18-ssd-nra-successfully-collected-100-billion-ssp-in-the-last-two-weeks-e-ser", "studies": {
+"addressregister": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states nothing about addressing."}}},
+"businessregister": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states nothing about a business register."}}},
+"civilregister": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states nothing about civil registration."}}},
+"egovservices": {"countries": {"SSD": {"facts": [], "systems": [{"system": "E-Service (Electronic Service Board)", "country_label": "South Sudan", "class": "other", "platform": "", "owner": "Electronic Service Board", "tiers": ""}], "note": "Revenue collected through E-Service is stated, but no service people complete online is named."}}},
+"electoralregister": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states nothing about a voters' roll."}}},
+"landregister": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Aerial mapping of Juba is a mapping project to ease a digital land registry, with no register stated as built."}}},
+"populationregister": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states nothing about a population register."}}},
+"socialregistry": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states nothing about a social registry."}}},
+"taxregister": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Revenue collection is stated with no taxpayer register named."}}}
+}}

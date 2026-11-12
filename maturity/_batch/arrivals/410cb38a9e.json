@@ -1,0 +1,37 @@
+{"slug": "2026-11-11-southwood-chad-landlocked-one-international-fibre-exit", "studies": {
+"businesspayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document does not concern e-procurement."}}},
+"centralbank": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document says nothing of the central bank's payments role."}}},
+"consumerprotection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document does not concern digital finance consumer rules."}}},
+"crossborderpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document does not concern cross-border payments."}}},
+"datacentres": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Moov's Tier 3 data centre hosting others is only rumoured, and no open-access centre exists per the author."}}},
+"digitaldivides": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Rural electricity is given, but no rural internet programme or rural-urban use split."}}},
+"exchangepoints": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Russell Southwood says the Ndjamena Internet Exchange (DJAMIX) has nine members, down from 11 in 2024, about half of them ISPs; local traffic is not available.", "as_of": "2026-11-11", "date_precision": "day", "system": "Ndjamena Internet Exchange (DJAMIX)", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"fibrebackbone": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Russell Southwood says Safitel's fibre runs from N'Djamena to Moundou, Doba and Abeche and connects 26 cities and towns, and all major cities are connected, while routes in the south-east remain unbuilt.", "as_of": "2026-11-11", "date_precision": "day", "system": "Safitel national fibre network", "class": "backbone"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document does not concern government payments to people."}}},
+"internationalbandwidth": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Russell Southwood says landlocked Chad has two routes through Cameroon to Camtel's Kribi landing station, a third is planned, and its Port Sudan link ended in 2023.", "as_of": "2026-11-11", "date_precision": "day", "system": "Chad-Cameroon routes to Kribi (Camtel)", "class": "route"}
+], "systems": [], "note": ""}}},
+"internetusage": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only DataReportal user counts and an unsourced total are given, which the study never uses."}}},
+"mobileaffordability": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "price", "aspect": "cost", "value": "share:11.8", "fact": "Russell Southwood reports that the Chad government said at a meeting in June 2026 that a 5 GB data package costs 11.8% of average monthly income.", "as_of": "2026-06", "date_precision": "month", "system": "5 GB mobile data package", "class": "price"}
+], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The National Data Centre is only being built."}}},
+"paymentsuptake": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Findex 13.3% is mobile money accounts only, not adults with a bank or mobile money account."}}},
+"regionalinfrastructure": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Transit via Camtel is commercial and the Niger link is not open; no arrangement in service is stated."}}},
+"retailpayments": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Russell Southwood says mobile money is in use in Chad, mostly through Airtel and Moov plus independents Wave and Cashi, with 13.3% of adults holding accounts per Findex 2024.", "as_of": "2024", "date_precision": "year", "system": "Mobile money (Airtel, Moov, Wave, Cashi)", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document does not concern tax or fee payment."}}},
+"ruralelectrification": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Rural access of 0.4-2% is given with no World Bank series or date named."}}},
+"satellitebroadband": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "Russell Southwood says Starlink was licensed in November 2024 and is on sale through resellers such as Ilan Telecoms, which has 384 subscribers, with terminals delivered only to Ndjamena.", "as_of": "2026-11-11", "date_precision": "day", "system": "Starlink", "class": "satellite"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No startup law, strategy or public fund is stated."}}},
+"techhubs": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "Russell Southwood says Chad Innovation Hub lists seven organisations in its incubator spaces, with no cohort programme described.", "as_of": "2026-11-11", "date_precision": "day", "system": "Chad Innovation Hub", "class": "hub"}
+], "systems": [], "note": ""}}}
+}}

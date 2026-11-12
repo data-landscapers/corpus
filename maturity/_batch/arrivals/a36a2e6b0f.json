@@ -1,0 +1,14 @@
+{
+  "slug": "2024-07-29-zaf-innovative-new-swims-app-a-game-changer-for-social-workers",
+  "studies": {
+    "itcapacity": {"countries": {"ZAF": {
+      "facts": [
+        {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The Western Cape Government says its Department of the Premier's Centre for e-Innovation created the Social Work Integrated Management System for the Department of Social Development.", "as_of": "2024-07-29", "date_precision": "day", "system": "Social Work Integrated Management System (SWIMS)", "class": "staff"},
+        {"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "The Western Cape Government says SWIMS, created by its Department of the Premier's Centre for e-Innovation with the Department of Social Development, went live in April 2024 and is used by 1,054 practitioners, at a cost of R6 million.", "as_of": "2024-04", "date_precision": "month", "system": "Social Work Integrated Management System (SWIMS)", "class": "staff"}
+      ],
+      "systems": [
+        {"system": "Social Work Integrated Management System (SWIMS)", "country_label": "SWIMS", "class": "staff", "platform": "", "owner": "Western Cape Department of Social Development", "tiers": ""}
+      ],
+      "note": "Provincial government in the Western Cape; who runs and maintains SWIMS after launch is not stated."}}}
+  }
+}

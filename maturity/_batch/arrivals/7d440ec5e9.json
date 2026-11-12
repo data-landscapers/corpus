@@ -1,0 +1,44 @@
+{
+ "slug": "2026-11-11-xwa-ecowas-etls-task-force-third-group-inaugural-meeting-cotonou",
+ "studies": {
+  "customs": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "exchange",
+       "value": "exchange",
+       "fact": "ECOWAS says Benin was among the first member states to deploy SIGMAT, which exchanges goods-in-transit data electronically between member states, and TradeMark Africa handed IT equipment to Benin customs on 5-6 November 2026 to reduce downtime on its national node.",
+       "as_of": "2026-11-06",
+       "date_precision": "day",
+       "system": "SIGMAT",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGMAT",
+       "country_label": "Benin",
+       "class": "customs",
+       "platform": "",
+       "owner": "ECOWAS / Benin Directorate General of Customs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Cabo Verde is named only as a task force member."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The Gambia is named only as the task force chair's country."
+    }
+   }
+  }
+ }
+}

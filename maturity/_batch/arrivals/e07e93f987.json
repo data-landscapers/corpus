@@ -1,0 +1,32 @@
+{
+ "slug": "2026-07-14-mar-map-bulletins-de-vigilance-generalises-collectivites-baraka",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Municipalities receive forecasts by SMS; no office connection stated."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "vigilance.ma",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "digital alert platform",
+       "owner": "Ministry of Equipment and Water",
+       "tiers": ""
+      }
+     ],
+     "note": "Alerts and forecasts reach municipalities by SMS and vigilance.ma, but satellite data is not mentioned."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-03-19-moz-ciuem-concebe-sina-e-capacita-membros-do-governo-na-gestao-da-platafor",
+  "studies": {
+    "itcapacity": {"countries": {"MOZ": {
+      "facts": [],
+      "systems": [
+        {"system": "Sistema de Informação de Nampula (SINA)", "country_label": "SINA", "class": "other", "platform": "", "owner": "Direcção Provincial de Nampula", "tiers": ""}
+      ],
+      "note": "SINA was built by the university computing centre CIUEM, not stated to be a government agency or state company, and the provincial staff are only being trained; no government staff run it yet."}}}
+  }
+}

@@ -1,0 +1,12 @@
+{"slug": "2026-02-21-mdg-depuis-plus-de-25-ans-nous-accompagnons-madagascar-avec-une-conviction", "studies": {
+"businesspayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No e-procurement is stated."}}},
+"centralbank": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"consumerprotection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No consumer rule or complaints body is stated."}}},
+"crossborderpayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No cross-border corridor is stated."}}},
+"g2ppayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No government payment to people is stated."}}},
+"paymentsuptake": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No survey share of adults with an account is stated."}}},
+"retailpayments": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Orange Madagascar says Orange Money Madagascar is in service and has made payments at merchants free of charge.", "as_of": "2026-02-21", "date_precision": "day", "system": "Orange Money Madagascar", "class": "retail"}
+], "systems": [{"system": "Orange Money Madagascar", "country_label": "Madagascar", "class": "retail", "platform": "", "owner": "Orange Madagascar", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No payment of taxes or fees to the state is stated."}}}
+}}

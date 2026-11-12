@@ -1,0 +1,118 @@
+{
+ "slug": "2024-11-27-gnb-mobile-internet-nigeria-offers-the-most-affordable-rates-in-west-afric",
+ "studies": {
+  "broadbandstrategy": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives no broadband plan."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives no broadband plan."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives no broadband plan."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives no broadband plan."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives no broadband plan."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "price",
+       "aspect": "cost",
+       "value": "share:9.81",
+       "fact": "ITU data cited by We are Tech put the cheapest 2GB-plus 3G mobile broadband plan at 9.81% of monthly GNI per capita in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "ITU mobile broadband price basket",
+       "class": "price"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "price",
+       "aspect": "cost",
+       "value": "share:1.94",
+       "fact": "ITU data cited by We are Tech put the cheapest 2GB-plus 3G mobile broadband plan at 1.94% of monthly GNI per capita in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "ITU mobile broadband price basket",
+       "class": "price"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "price",
+       "aspect": "cost",
+       "value": "share:11",
+       "fact": "ITU data cited by We are Tech put the cheapest 2GB-plus 3G mobile broadband plan at 11% of monthly GNI per capita in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "ITU mobile broadband price basket",
+       "class": "price"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "price",
+       "aspect": "cost",
+       "value": "share:9.79",
+       "fact": "ITU data cited by We are Tech put the cheapest 2GB-plus 3G mobile broadband plan at 9.79% of monthly GNI per capita in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "ITU mobile broadband price basket",
+       "class": "price"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "price",
+       "aspect": "cost",
+       "value": "share:3.01",
+       "fact": "ITU data cited by We are Tech put the cheapest 2GB-plus 3G mobile broadband plan at 3.01% of monthly GNI per capita in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "ITU mobile broadband price basket",
+       "class": "price"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

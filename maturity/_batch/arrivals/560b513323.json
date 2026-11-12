@@ -1,0 +1,22 @@
+{"slug": "2025-08-01-mwi-provision-of-consultancy-services-for-the-development-of-a-court-case", "studies": {
+"aisectoral": {"countries": {"MWI": {"facts": [], "systems": [], "note": "AI features appear only as optional scope of a case system tender, with AI analytics left to later phases."}}},
+"authentication": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only multi-factor login for the court system itself is named."}}},
+"businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The tender is a paper EoI; it states nothing on an e-procurement system."}}},
+"centralbank": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document states nothing on the central bank."}}},
+"consumerprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document states nothing on digital finance protection."}}},
+"crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document states nothing on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"MWI": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "MACRA's tender requires the court case management system to comply with the Malawi Data Protection Act (2024) and its experts to know how to implement it.", "as_of": "2025-08-01", "date_precision": "day", "system": "Malawi Data Protection Act (2024)", "class": "general"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Court payment integration is a payment to government, not from it."}}},
+"idrobustness": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document states nothing on a national ID system."}}},
+"internationalstandards": {"countries": {"MWI": {"facts": [], "systems": [], "note": "ISO 27001 appears only as expert knowledge required, not adoption."}}},
+"justice": {"countries": {"MWI": {"facts": [{"sub_indicator": "justice", "aspect": "cases", "value": "underway", "fact": "MACRA, at the High Court Zomba District Registry's request, issued an expression of interest for consultants to develop a court case management system, to be piloted at the registry before adoption, with e-filing, scheduling, case tracking and a public portal in scope.", "as_of": "2025-08-01", "date_precision": "day", "system": "Court Case Management System for the Zomba High Court", "class": "justice"}, {"sub_indicator": "justice", "aspect": "cases", "value": "none", "fact": "The tender states that all court records are currently managed manually and that an earlier automation effort relying on servers at the Blantyre Principal Registry was unsuccessful.", "as_of": "2025-08-01", "date_precision": "day", "system": "Court records at the Zomba High Court", "class": "justice"}], "systems": [{"system": "Court Case Management System for the Zomba High Court", "country_label": "Malawi", "class": "justice", "platform": "", "owner": "High Court Zomba District Registry; MACRA procuring", "tiers": "High Court"}], "note": ""}}},
+"offsitebackup": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Backup and disaster recovery appear only as tender requirements, no site named."}}},
+"opendatause": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document states no data published for download."}}},
+"paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document gives no survey figure."}}},
+"publicconsultation": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document states no consultation on a digital law or policy."}}},
+"qualitystandards": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document states nothing on national standards or a standards body."}}},
+"retailpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Mobile money for court payments is a planned feature only."}}},
+"revenuecollection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Planned court e-payment integration is not a tax or fee in service."}}},
+"schoolinternet": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document states nothing on schools."}}},
+"taxadmin": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document states nothing on tax."}}}
+}}

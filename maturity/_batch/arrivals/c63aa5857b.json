@@ -1,0 +1,14 @@
+{"slug": "2025-05-07-tun-konnect-la-fintech-tunisienne-leve-1-5-m-avec-le-soutien-d-attijariwaf", "studies": {
+"businesspayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"TUN": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "AfriqueITNews says Konnect Networks was the first company to obtain a payment facilitator licence from the Central Bank of Tunisia.", "as_of": "2025-05-07", "date_precision": "day", "system": "Konnect payment facilitator licence", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on consumer protection."}}},
+"crossborderpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"g2ppayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on government payments."}}},
+"nonstatefinance": {"countries": {"TUN": {"facts": [{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "AfriqueITNews reports that Tunisian fintech Konnect Networks recently raised USD 1.5 million from investors including Attijariwafa Ventures, Visa and Plug and Play Tech Center.", "as_of": "2025-05", "date_precision": "month", "system": "Konnect Networks USD 1.5 million round", "class": "private"}], "systems": [], "note": "No Tunisian investor is named, so nothing raised at home."}}},
+"paymentsuptake": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A provider's 4% market share is not an adult account survey."}}},
+"retailpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A licensed payment facilitator is stated, but no mobile money or e-money service is named."}}},
+"revenuecollection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on tax payment."}}},
+"satellitebroadband": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Konnect here is a fintech, not satellite broadband."}}},
+"startups": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A private investor round with no public scheme."}}},
+"techhubs": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No hub, incubator or park in TUN stated."}}}
+}}

@@ -1,0 +1,5 @@
+{"slug": "2026-04-08-tcd-tchad-signature-d-une-convention-entre-la-mairie-de-n-djamena-et-la-dg", "studies": {
+"localgov": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on a connection at local government offices."}}},
+"localrecords": {"countries": {"TCD": {"facts": [], "systems": [{"system": "e-Taxe platform and electronic invoicing", "country_label": "Chad", "class": "other", "platform": "", "owner": "Direction generale des impots (DGI)", "tiers": ""}], "note": "The N'Djamena-DGI convention only commits to data sharing and use of the DGI's e-Taxe platform; no local record system is stated."}}},
+"revenuecollection": {"countries": {"TCD": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "On 8 April 2026 the N'Djamena city hall and the tax directorate signed a convention including digitalisation through the e-Taxe platform and electronic invoicing for local taxes, with agents to be trained.", "as_of": "2026-04-08", "date_precision": "day", "system": "e-Taxe", "class": "revenue"}], "systems": [], "note": ""}}}
+}}

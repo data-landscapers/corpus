@@ -1,0 +1,8 @@
+{"slug": "2026-05-15-tza-1-6gb-a-month-the-barrier-to-tanzanias-digital-transformation", "studies": {
+"ictstrategy": {"countries": {"TZA": {"facts": [], "systems": [], "note": "ICT Policy and Vision 2050 are named only for affordability aims; no adoption or status of a sector policy is stated."}}},
+"internetusage": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only TCRA's average data use per subscriber is given, not a share of people using the internet."}}},
+"mobileaffordability": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "price", "aspect": "cost", "value": "price:TZS:2060:1", "fact": "The Chanzo (an opinion piece by Francis Nyonzo) says 2025 data bundle prices ranged from Sh2.06 to Sh2.17 per MB, against average monthly income of Sh477,241 from the National Bureau of Statistics; this is the low end.", "as_of": "2025", "date_precision": "year", "system": "Mobile data bundles", "class": "price"},
+{"sub_indicator": "price", "aspect": "cost", "value": "price:TZS:2170:1", "fact": "The Chanzo (an opinion piece by Francis Nyonzo) says 2025 data bundle prices ranged from Sh2.06 to Sh2.17 per MB, against average monthly income of Sh477,241 from the National Bureau of Statistics; this is the high end.", "as_of": "2025", "date_precision": "year", "system": "Mobile data bundles", "class": "price"}
+], "systems": [], "note": ""}}}
+}}

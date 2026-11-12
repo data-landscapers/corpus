@@ -1,0 +1,24 @@
+{
+  "slug": "2026-11-11-tgo-togo-rallies-digital-sector-against-cyber-threats-at-inaugural-cyber-arena",
+  "studies": {
+    "aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Only a remark that AI makes cyber threats harder; no rule or authority on AI harms."}}},
+    "aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on AI in public administration."}}},
+    "aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on AI in a sector's public system."}}},
+    "aisystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in the country."}}},
+    "cybersecurity": {"countries": {"TGO": {
+      "facts": [
+        {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Togo First reports that Togo's National Cybersecurity Agency (ANCy), led by Director General Gbota Gwaliba, will hold the first Togo Cyber Arena on 19-20 November 2026, with coordination from CERT.tg, described as Togo's national Computer Emergency Response Team.", "as_of": "2026-11-10", "date_precision": "day", "system": "ANCy", "class": "response"}
+      ],
+      "systems": [
+        {"system": "ANCy (National Cybersecurity Agency)", "country_label": "ANCy", "class": "response", "platform": "", "owner": "", "tiers": ""},
+        {"system": "CERT.tg", "country_label": "CERT.tg", "class": "response", "platform": "", "owner": "", "tiers": ""}
+      ],
+      "note": "No incident handled, no alert, no critical infrastructure designation and no incident account stated; the event and the SOC demonstration are not responses."}}},
+    "dataprotectionlaw": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Data protection is only named as a topic for discussion; no law or authority stated."}}},
+    "digitalsovereignty": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Digital sovereignty is only the subject of a keynote; no strategy, rule or hosting stated."}}},
+    "digitalstrategy": {"countries": {"TGO": {"facts": [], "systems": [], "note": "A keynote will address cybersecurity's role in the national digital strategy; the strategy's standing is not stated."}}},
+    "idrobustness": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Biometric identification is only a presentation topic; no system status stated."}}},
+    "startups": {"countries": {"TGO": {"facts": [], "systems": [], "note": "About 15 startups will exhibit; no startup law, label or fund stated."}}},
+    "techhubs": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on hubs, incubators or parks."}}}
+  }
+}

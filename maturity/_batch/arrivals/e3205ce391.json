@@ -1,0 +1,13 @@
+{"slug": "2025-09-29-moz-desinteresse-de-investidores-e-elevados-custos-operacionais-limita-des", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing about government e-procurement."}}},
+"centralbank": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "SIMO Rede", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The Banco de Moçambique newsletter calls for opening the national single network SIMO Rede to fintechs and mentions its sandbox, but does not say the bank licenses providers or runs or oversees the switch."}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing about consumer protection rules or redress."}}},
+"crossborderpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing about cross-border payments."}}},
+"g2ppayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing about government payments to people."}}},
+"nonstatefinance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document reports scarce investor interest and venture capital, with no amount put in and no statement that none has been."}}},
+"paymentsuptake": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No survey share of adults with an account is stated."}}},
+"retailpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not state a mobile money service in service or payments between providers."}}},
+"revenuecollection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing about electronic payment of taxes or fees."}}},
+"startups": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "A central bank regulatory sandbox for fintechs is named; no startup law, strategy or fund is stated."}}},
+"techhubs": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing about hubs, incubators or parks."}}}
+}}

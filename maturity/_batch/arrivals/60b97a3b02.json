@@ -1,0 +1,227 @@
+{
+ "slug": "2026-01-26-cod-identification-numerique-97-1-millions-dinvestissements-pour-deployer",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "A June 2025 public-private partnership between the DRC ministry of Posts, Telecommunications and ICT and Singapore's Trident Digital Tech Holdings makes Trident exclusive provider of the republic's electronic identification (e-KYC) services for DRCPass, over 20 years, per Bankable citing a Ministry of Plan document.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "DRCPass",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DRCPass",
+       "country_label": "DRC",
+       "class": "other",
+       "platform": "Trident Digital Tech (Web 3.0 / blockchain)",
+       "owner": "Ministry of Posts, Telecommunications and ICT (PPP with Trident)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "DRCPass, the DRC's national digital identification system, is being developed under a PPP signed June 2025 with Trident Digital Tech, with capex needs of USD 97.1 million per a Ministry of Plan document.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "DRCPass",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DRCPass",
+       "country_label": "DRC",
+       "class": "other",
+       "platform": "Trident Digital Tech (Web 3.0 / blockchain)",
+       "owner": "Ministry of Posts, Telecommunications and ICT (PPP with Trident)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "private",
+       "aspect": "money",
+       "value": "committed",
+       "fact": "Trident Digital Tech Holdings said on 16 September 2025 it had raised USD 2.6 million, to be used mainly to expand and commercialise DRCPass in the DRC.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "DRCPass",
+       "class": "private"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DRCPass",
+       "country_label": "DRC",
+       "class": "other",
+       "platform": "Trident Digital Tech (Web 3.0 / blockchain)",
+       "owner": "Ministry of Posts, Telecommunications and ICT (PPP with Trident)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned uses of DRCPass only; nothing stated that answers this study."
+    }
+   }
+  }
+ }
+}

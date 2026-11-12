@@ -1,0 +1,8 @@
+{"slug": "2025-01-21-sen-optimizing-property-tax-administration-the-importance-of-an-effective", "studies": {
+"censuses": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only property censuses for tax, not a population census or household survey."}}},
+"localgov": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on local office connections."}}},
+"localrecords": {"countries": {"SEN": {"facts": [], "systems": [{"system": "SIGUIL", "country_label": "Senegal", "class": "other", "platform": "", "owner": "DGID", "tiers": "central"}, {"system": "GFILOC", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Treasury (DGCPT)", "tiers": "central"}], "note": "The tax directorate and Treasury hold property tax records and collection centrally; no municipal revenue record stated."}}},
+"taxregister": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "register", "value": "inservice", "fact": "LoGRI says Senegal's tax directorate DGID uses an IT system, SIGUIL, to manage taxpayer data for property taxation, with a successor SIGUIL 2 deployed in ongoing property censuses.", "as_of": "2025-01", "date_precision": "month", "system": "SIGUIL", "class": "tax"}
+], "systems": [{"system": "SIGUIL", "country_label": "Senegal", "class": "tax", "platform": "", "owner": "DGID", "tiers": "national"}], "note": ""}}}
+}}

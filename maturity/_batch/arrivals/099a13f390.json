@@ -1,0 +1,5 @@
+{"slug": "2025-05-07-tgo-au-togo-le-ministere-de-l-economie-numerique-lance-une-plateforme-geop", "studies": {
+"localgov": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on local government offices; the geoportal's 550 administrative units are only data coverage."}}},
+"nonstatefinance": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No private money amount is stated."}}},
+"opendatause": {"countries": {"TGO": {"facts": [{"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "CIOMAG reports the Ministry of Digital Economy launched the geoportail.gouv.tg government geoportal on 6 May 2025 with an open-data version, geodata.gouv.tg, for the public, researchers and investors; no open licence is mentioned.", "as_of": "2025-05-06", "date_precision": "day", "system": "geodata.gouv.tg", "class": "open"}], "systems": [{"system": "geodata.gouv.tg", "country_label": "Togo (geodata.gouv.tg)", "class": "open", "platform": "", "owner": "Agence Togo Digital", "tiers": ""}], "note": ""}}}
+}}

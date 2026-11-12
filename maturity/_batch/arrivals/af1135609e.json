@@ -1,0 +1,5 @@
+{"slug": "2025-10-15-nga-taraba-high-courts-go-digital-with-e-filing-system", "studies": {
+"justice": {"countries": {"NGA": {"facts": [{"sub_indicator": "justice", "aspect": "cases", "value": "underway", "fact": "Taraba Chief Judge Joel Agya said the state's high courts have keyed into the Nigeria Case Management System, legal mail and e-filing application, with a pilot to digitise proceedings starting in the Chief Judge's court and staff trained.", "as_of": "2025-10-15", "date_precision": "day", "system": "Nigeria Case Management System (NCMS)", "class": "justice"}], "systems": [{"system": "Nigeria Case Management System (NCMS)", "country_label": "Nigeria", "class": "justice", "platform": "case management, legal mail and e-filing", "owner": "National Judicial Council", "tiers": "state high courts"}], "note": ""}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing about tax or fee payment."}}},
+"taxadmin": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing about the tax authority."}}}
+}}

@@ -1,0 +1,9 @@
+{"slug": "2026-02-24-mar-lematin-bac-2026-validation-donnees-massar", "studies": {
+"authentication": {"countries": {"MAR": {"facts": [], "systems": [{"system": "Moutamadris Tadqiq", "country_label": "Morocco", "class": "other", "platform": "online education portal", "owner": "Ministry of National Education", "tiers": ""}], "note": "The login is a school portal identity via an institutional email, not stated to be an online check of the national ID."}}},
+"birthidlink": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document states nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document gives no enrolment count or share."}}},
+"idfrombirth": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document states nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document states nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Candidates compare their data with the ID card by hand; no register is stated to be keyed on the ID number."}}},
+"idrobustness": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document mentions the national identity card only as a reference for checking data, stating nothing on the system."}}}
+}}

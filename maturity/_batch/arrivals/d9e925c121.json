@@ -1,0 +1,20 @@
+{
+  "slug": "2026-01-25-sdn-business-continuity-and-disaster-recovery-protocol-for-sudanese-banks",
+  "studies": {
+    "businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+    "centralbank": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The 2026 Banking Regulation Act and the continuity rule are not stated to cover payment systems, e-money or provider licensing."}}},
+    "consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+    "crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+    "g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+    "internationalstandards": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The Central Bank's ISO 22301 requirement binds banks only, a sector rule that places nothing."}}},
+    "offsitebackup": {"countries": {"SDN": {
+      "facts": [],
+      "systems": [
+        {"system": "Central Bank of Sudan Disaster Recovery Centre", "country_label": "Sudan", "class": "other", "platform": "", "owner": "Central Bank of Sudan", "tiers": ""}
+      ],
+      "note": "The Central Bank's recovery centre is placed only in one of the states and said not fully ready when the war began, so no distant site in service; the continuity protocol is an analyst's opinion and no test is stated."}}},
+    "paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+    "retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+    "revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees."}}}
+  }
+}

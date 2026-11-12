@@ -1,0 +1,20 @@
+{"slug": "2026-04-28-ago-new-government-data-center-reinforces-the-country-s-digital-sovereignt", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No AI rule or authority is stated."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "AI applications are only a stated future possibility."}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No sector AI tool is stated."}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Own AI-based applications are only an intention; no model, dataset or AI computing is stated."}}},
+"datacentres": {"countries": {"AGO": {"facts": [], "systems": [{"system": "Government's Data Center and Cloud", "country_label": "Angola", "class": "other", "platform": "", "owner": "Government", "tiers": ""}], "note": "The government data centre is not stated to rent capacity to outside organisations."}}},
+"digitalsovereignty": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "hosted", "value": "national", "fact": "The Ministry of Telecommunications said the Government's Data Center and Cloud, inaugurated in Luanda by the President, guarantees secure hosting of data within the national territory and supports content management for public bodies.", "as_of": "2026-04-28", "date_precision": "day", "system": "Government's Data Center and Cloud", "class": "sovereignty"}
+], "systems": [{"system": "Government's Data Center and Cloud", "country_label": "Angola", "class": "sovereignty", "platform": "", "owner": "Government", "tiers": "national"}], "note": ""}}},
+"fibrebackbone": {"countries": {"AGO": {"facts": [], "systems": [], "note": "A national fibre network of over 22,000 km is mentioned, with no link between the capital and regions stated in service."}}},
+"internationalbandwidth": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "The Ministry of Telecommunications statement lists the commissioning of the 2Africa international submarine cable among Angola's connectivity investments.", "as_of": "2026-04-28", "date_precision": "day", "system": "2Africa", "class": "route"}
+], "systems": [{"system": "2Africa", "country_label": "Angola", "class": "route", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"mobilepenetration": {"countries": {"AGO": {"facts": [], "systems": [{"system": "mobile penetration rate, ministry statement", "country_label": "approximately 75 percent", "class": "other", "platform": "", "owner": "Ministry of Telecommunications", "tiers": ""}], "note": "The rate is not stated to be the share of people aged 10 and over who own a phone."}}},
+"nationaldatacentres": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "national", "aspect": "state", "value": "hosted", "fact": "The Ministry of Telecommunications said the state-owned Government's Data Center and Cloud, operated by national staff, hosts data in the national territory and supports content management for public bodies.", "as_of": "2026-04-28", "date_precision": "day", "system": "Government's Data Center and Cloud", "class": "datacentre"}
+], "systems": [{"system": "Government's Data Center and Cloud", "country_label": "Angola", "class": "datacentre", "platform": "", "owner": "Government", "tiers": "national"}], "note": ""}}},
+"startups": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No startup law, label or fund is stated."}}},
+"techhubs": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No hub or park is stated."}}}
+}}

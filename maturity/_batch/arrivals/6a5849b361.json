@@ -1,0 +1,11 @@
+{"slug": "2025-07-24-zwe-ict-ministry-donates-250-starlink-kits-to-local-authorities", "studies": {
+"digitaldivides": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "ICT Minister Tatenda Mavetera said the Presidential Internet Scheme is rolling out free Wi-Fi hotspots in town centres, post offices and community halls, with Manicaland and Mashonaland East having received and deployed kits.", "as_of": "2025-07-23", "date_precision": "day", "system": "Presidential Internet Scheme", "class": "ruralaccess"}
+], "systems": [{"system": "Presidential Internet Scheme", "country_label": "Zimbabwe", "class": "ruralaccess", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "connection", "aspect": "connected", "value": "institutional", "fact": "The Herald reports that the ICT Ministry handed 250 Starlink kits to the Ministry of Local Government and Public Works for local authorities, whose deployment now rests with that ministry; no kit is stated in use.", "as_of": "2025-07-23", "date_precision": "day", "system": "Starlink kits for local authorities", "class": "connection"}
+], "systems": [{"system": "Starlink kits for local authorities", "country_label": "Zimbabwe", "class": "connection", "platform": "Starlink", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": "local authorities"}], "note": ""}}},
+"satellitebroadband": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "satellite", "aspect": "service", "value": "licensed", "fact": "ICT Minister Tatenda Mavetera said the President personally approved the licensing of low-earth-orbit satellite technology in Zimbabwe, which made the Starlink kit deployment possible.", "as_of": "2025-07-23", "date_precision": "day", "system": "Starlink", "class": "satellite"}
+], "systems": [{"system": "Starlink", "country_label": "Zimbabwe", "class": "satellite", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,15 @@
+{"slug": "2025-04-30-gha-ghanaian-fintech-zeepay-raises-18m-debt-to-power-remittance-led-expans", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document does not address e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document does not mention the central bank or PAPSS."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document does not address consumer protection."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Zeepay's transaction figure is a company total across 20+ countries, not a figure for a named Ghana corridor, and no licence or regional link is stated."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document does not address government payments to people."}}},
+"nonstatefinance": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Launch Base Africa reports Ghanaian fintech Zeepay secured $18 million in senior secured venture debt arranged by Verdant IMAP, mainly for working capital and float financing; the source dates only its own publication.", "as_of": "2025-04-30", "date_precision": "day", "system": "Zeepay $18m senior secured venture debt", "class": "private"}],
+"systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No survey figure on account ownership."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Launch Base Africa describes Zeepay as a Ghanaian non-telco operator offering mobile money services and remittance-to-wallet payments, operating in Ghana among other countries.", "as_of": "2025-04-30", "date_precision": "day", "system": "Zeepay", "class": "retail"}],
+"systems": [{"system": "Zeepay", "country_label": "Ghana", "class": "retail", "platform": "remittance-to-wallet", "owner": "Zeepay (private)", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document does not address tax or fee payment."}}}
+}}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-26-zaf-r152m-earmarked-for-court-tech-system-upgrades",
+ "studies": {
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Court system budget only; nothing on revenue payment."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on tax filing or payment."
+    }
+   }
+  }
+ }
+}

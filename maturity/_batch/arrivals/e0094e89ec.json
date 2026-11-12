@@ -1,0 +1,15 @@
+{"slug": "2024-01-01-tcd-projet-d-appui-au-renforcement-des-institutions-de-la-chaine-penale-20", "studies": {
+"businesspayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on the central bank."}}},
+"consumerprotection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on digital finance consumer rules."}}},
+"crossborderpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on cross-border payments."}}},
+"dataexchange": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The exchange platform named is between litigants, lawyers and courts, not between government systems."}}},
+"feedbackportals": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The online complaints and requests platform is for filing legal cases with the justice system, not feedback on public services, and is only at tender."}}},
+"g2ppayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on government payments to people."}}},
+"justice": {"countries": {"TCD": {"facts": [{"sub_indicator": "justice", "aspect": "cases", "value": "underway", "fact": "UNDP Chad's report says UNDP launched a tender on 5 June 2024 for a firm to build a platform between litigants, lawyers and the judicial system, for online complaints and requests, case notifications and document filing, with bids then before the RACP.", "as_of": "2024-06-05", "date_precision": "day", "system": "Justice ministry litigant-lawyer-court exchange platform", "class": "justice"}], "systems": [], "note": ""}}},
+"opendiscussion": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on criticism, cuts or punishment for speech."}}},
+"paymentsuptake": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document gives no account survey figure."}}},
+"police": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on police station records."}}},
+"retailpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The planned online payment of fines and court fees is within the unbuilt justice platform, not a tax or fee in service."}}}
+}}

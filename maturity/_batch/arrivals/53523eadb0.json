@@ -1,0 +1,6 @@
+{"slug": "2025-12-01-ssd-specific-procurement-notice-supply-installation-commissioning-and-afte", "studies": {
+"businessregister": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Procurement notice; no business register stated."}}},
+"metsatellite": {"countries": {"SSD": {"facts": [
+{"sub_indicator": "metsat", "aspect": "stream", "value": "underway", "fact": "South Sudan's Ministry of Water Resources and Irrigation invited bids, due 14 January 2026 under a World Bank-financed project, to supply, install and commission one EumetCast satellite ground station in Juba; the notice does not name the national meteorological service as its user.", "as_of": "2025-12", "date_precision": "month", "system": "EumetCast Satellite Ground Station", "class": "metsat"}
+], "systems": [{"system": "EumetCast Satellite Ground Station", "country_label": "South Sudan", "class": "metsat", "platform": "EumetCast ground station, Juba", "owner": "Ministry of Water Resources and Irrigation", "tiers": ""}], "note": ""}}}
+}}

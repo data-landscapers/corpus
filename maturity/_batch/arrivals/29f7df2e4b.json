@@ -1,0 +1,99 @@
+{
+ "slug": "2026-10-28-gha-lands-commission-s-digital-reform-gamechanger-for-land-administration",
+ "studies": {
+  "idregisters": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing about national ID use by registers."
+    }
+   }
+  },
+  "landadmin": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Ghana News Agency quotes the Lands Commission's Executive Secretary saying ELIS is operational in Greater Accra and nine other regions, cutting official land searches from about a month to seven working days.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Enterprise Land Information System (ELIS)",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Enterprise Land Information System (ELIS)",
+       "country_label": "GHA",
+       "class": "landmis",
+       "platform": "",
+       "owner": "Lands Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Ghana News Agency quotes the Lands Commission's Executive Secretary saying ELIS, its digital land platform, is operational in Greater Accra and nine other regions, with nationwide rollout targeted for end-2027.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Enterprise Land Information System (ELIS)",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Enterprise Land Information System (ELIS)",
+       "country_label": "GHA",
+       "class": "land",
+       "platform": "",
+       "owner": "Lands Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing about local government connection."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Ground rent is collected by the Lands Commission, a central body; no local record system stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Land policy review consultation is not on a digital law or policy."
+    }
+   }
+  }
+ }
+}

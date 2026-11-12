@@ -1,0 +1,18 @@
+{"slug": "2025-01-29-gin-this-fintech-has-a-fix-for-the-biggest-cross-border-payments-issues-in", "studies": {
+"businesspayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No e-procurement is stated."}}},
+"centralbank": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"consumerprotection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No consumer rule or complaints body is stated."}}},
+"crossborderpayments": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "TechCrunch reports that Guinea-based Cauridor operates remittance corridors to Ghana and Nigeria, with an agent network across Guinea, Senegal, Ivory Coast, Sierra Leone and Liberia.", "as_of": "2025-01-29", "date_precision": "day", "system": "Cauridor", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "reported", "value": "reported", "fact": "Cauridor told TechCrunch its total payment volume across its payment rails was USD 300 million in 2023 and USD 500 million in 2024.", "as_of": "2024", "date_precision": "year", "system": "Cauridor", "class": "crossborder"}
+], "systems": [{"system": "Cauridor", "country_label": "Guinea", "class": "crossborder", "platform": "", "owner": "Cauridor (private)", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No government payment to people is stated."}}},
+"idverification": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Mobile wallet KYC is mentioned with no check against the national ID stated."}}},
+"nonstatefinance": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "TechCrunch reports that Guinea-based fintech Cauridor recently raised USD 3.5 million in seed funding led by Oui Capital, with Rally Cap, BKR Capital and angel investors; the round has no date of its own.", "as_of": "2025-01-29", "date_precision": "day", "system": "Cauridor", "class": "private"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No survey share of adults with an account is stated."}}},
+"retailpayments": {"countries": {"GIN": {"facts": [], "systems": [{"system": "Cauridor", "country_label": "Guinea", "class": "other", "platform": "", "owner": "Cauridor (private)", "tiers": "B2B payment rails and remittance"}], "note": "Cauridor is a business payment rail, with no mobile money service for people stated for Guinea."}}},
+"revenuecollection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No payment of taxes or fees to the state is stated."}}},
+"startups": {"countries": {"GIN": {"facts": [], "systems": [], "note": "A private seed round is stated; no startup law, label or public fund is."}}}
+}}

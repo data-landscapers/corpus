@@ -1,0 +1,23 @@
+{"slug": "2024-12-19-cod-dr-congo-contracts-trident-to-implement-national-digital-govt-project", "studies": {
+"authentication": {"countries": {"COD": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Biometric Update reports Trident signed a collaboration agreement, through the National Intelligence Agency for the Office of the President, to integrate its blockchain-based digital authentication platform into DR Congo's administrative mechanism.", "as_of": "2024-12-19", "date_precision": "day", "system": "Trident digital authentication platform", "class": "authentication"}],
+"systems": [{"system": "Trident digital authentication platform", "country_label": "DR Congo", "class": "authentication", "platform": "blockchain", "owner": "Trident (vendor), for the Office of the President", "tiers": "national"}], "note": ""}}},
+"birthidlink": {"countries": {"COD": {"facts": [], "systems": [], "note": "No link between civil register and ID is stated."}}},
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Digital payment is named only as a future platform function."}}},
+"businessregister": {"countries": {"COD": {"facts": [], "systems": [], "note": "Business registration is named only as a possible future platform service."}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document does not mention the central bank."}}},
+"civilregister": {"countries": {"COD": {"facts": [], "systems": [], "note": "Civil registry is named only as a possible future platform service."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document does not address consumer protection."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document does not address cross-border payments."}}},
+"egovservices": {"countries": {"COD": {"facts": [], "systems": [], "note": "A platform is only possible under a later definitive agreement; no portal launched or service piloted."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document does not address government payments to people."}}},
+"idcoverage": {"countries": {"COD": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"COD": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"COD": {"facts": [], "systems": [], "note": "No national operation or transfer of an ID system is stated."}}},
+"idregisters": {"countries": {"COD": {"facts": [], "systems": [], "note": "No register keyed on a national ID number is stated."}}},
+"idrobustness": {"countries": {"COD": {"facts": [], "systems": [], "note": "An ID platform is only a possibility under a later definitive agreement; the August 2024 cancellation of a biometric ID contract is a one-line aside."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No survey figure on account ownership."}}},
+"registry": {"countries": {"COD": {"facts": [], "systems": [], "note": "Civil registry is named only as a possible future platform service."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document does not address retail payments."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document does not address tax or fee payment."}}}
+}}

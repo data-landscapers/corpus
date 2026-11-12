@@ -1,0 +1,10 @@
+{"slug": "2025-11-21-eth-ethio-telecom-awash-bank-launch-non-collateral-digital-credit-and-devi", "studies": {
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on the central bank."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on consumer protection rules."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on government payments."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Telebirr user count is a provider figure, not an adult survey share."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Developing Telecoms reports that Ethio Telecom's Telebirr mobile money platform is in service with more than 57 million users, and that Ethio Telecom and Awash Bank launched the Tila credit service on it.", "as_of": "2025-11-21", "date_precision": "day", "system": "Telebirr", "class": "retail"}], "systems": [{"system": "Telebirr", "country_label": "Ethiopia", "class": "retail", "platform": "mobile money", "owner": "Ethio Telecom", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on tax payment."}}}
+}}

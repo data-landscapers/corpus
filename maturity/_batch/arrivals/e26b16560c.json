@@ -1,0 +1,13 @@
+{"slug": "2024-10-01-zaf-south-africa-s-vc-sector-withers", "studies": {
+"businesspayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document states nothing this study asks for South Africa."}}},
+"centralbank": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document states nothing this study asks for South Africa."}}},
+"consumerprotection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document states nothing this study asks for South Africa."}}},
+"crossborderpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document states nothing this study asks for South Africa."}}},
+"g2ppayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document states nothing this study asks for South Africa."}}},
+"nonstatefinance": {"countries": {"ZAF": {"facts": [{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Brainstorm Magazine reports South African startups received $85 million in investment in the first half of 2024, down from $459 million in the first half of 2023.", "as_of": "2024", "date_precision": "year", "system": "startup investment", "class": "private"}], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document states nothing this study asks for South Africa."}}},
+"retailpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document states nothing this study asks for South Africa."}}},
+"revenuecollection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document states nothing this study asks for South Africa."}}},
+"startups": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only private venture investment is stated; no startup law, label or public fund."}}},
+"techhubs": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document names no hub, incubator or technology park."}}}
+}}

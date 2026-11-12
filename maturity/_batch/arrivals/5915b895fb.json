@@ -1,0 +1,17 @@
+{"slug": "2024-06-01-tza-maxbit-has-signed-a-digital-transformation-contract-with-the-governmen", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on AI harm rules."}}},
+"aigovernment": {"countries": {"TZA": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Maxbit says it won a contract, worth $35 million over ten years, with the Zanzibar e-Government Authority (eGAZ) for its AI-integrated Origami platform to deliver government services.", "as_of": "2024-06-01", "date_precision": "day", "system": "Origami", "class": "govai"}], "systems": [{"system": "Origami", "country_label": "Tanzania (Zanzibar)", "class": "govai", "platform": "Origami", "owner": "Maxbit", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No sector system named."}}},
+"aisystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "A foreign vendor's platform, no local AI development."}}},
+"businesspayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"egovservices": {"countries": {"TZA": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Maxbit says the Zanzibar government contracted it to build electronic services, including electronic payments and digital document management, on its Origami platform, with no service yet reported live.", "as_of": "2024-06-01", "date_precision": "day", "system": "Origami", "class": "eservices"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idrobustness": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No national ID system stated."}}},
+"itcapacity": {"countries": {"TZA": {"facts": [], "systems": [], "note": "A vendor builds the platform; no government staff run a system."}}},
+"paymentsuptake": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on mobile money."}}},
+"revenuecollection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Electronic payments only anticipated, no tax or fee named."}}}
+}}

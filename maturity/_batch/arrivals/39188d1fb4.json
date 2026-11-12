@@ -1,0 +1,9 @@
+{"slug": "2023-12-01-zmb-an-assessment-of-government-efforts-towards-the-implementation-of-an-i", "studies": {
+"datacentres": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Server infrastructure mentioned only for government e-records, no data centre for hire stated."}}},
+"digitalstrategy": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No digital strategy is described."}}},
+"egovservices": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The article concerns records management, not online services."}}},
+"interoperabilitylaw": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The legal framework named supports e-records, no data sharing duty is stated."}}},
+"itcapacity": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Smart Zambia Institute is said to have begun developing an e-records system, not live and no staff role stated."}}},
+"localgov": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"nationaldatacentres": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire is stated in the excerpt."}}}
+}}

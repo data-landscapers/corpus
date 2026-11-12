@@ -1,0 +1,7 @@
+{"slug": "2026-11-11-tgo-opendata-gouv-tg-cgu-licence-ouverte", "studies": {
+"idmaintenance": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Not about the national ID system."}}},
+"opendatapolicy": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Terms of use of a portal; no open data policy or decree named, so the portal is not tied to a policy."}}},
+"opendatause": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "use", "aspect": "access", "value": "licensed", "fact": "The terms of use of opendata.gouv.tg, run by Agence Togo Digital, say data published on the platform is accessible under an open licence unless indicated otherwise, without naming a specific licence.", "as_of": "2026-11-11", "date_precision": "day", "system": "opendata.gouv.tg", "class": "open"}
+], "systems": [{"system": "opendata.gouv.tg", "country_label": "https://opendata.gouv.tg", "class": "open", "platform": "national open data portal", "owner": "Agence Togo Digital", "tiers": ""}], "note": ""}}}
+}}

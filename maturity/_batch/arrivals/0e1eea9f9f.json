@@ -1,0 +1,12 @@
+{"slug": "2024-12-09-moz-e-sistafe-passa-a-ser-ferramenta-de-auditoria", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "Jornal Noticias reports the CEDSIF chair saying most electronic public procurement supported by the state asset module is already operational, integrated with the planning and budgeting module and the execution module for payment.", "as_of": "2024-12-09", "date_precision": "day", "system": "e-SISTAFE electronic public procurement", "class": "procurement"},
+{"sub_indicator": "business", "aspect": "endtoend", "value": "endtoend", "fact": "Jornal Noticias reports that e-procurement in e-SISTAFE is integrated with the budget planning module and the execution module for payment, as most of it is operational.", "as_of": "2024-12-09", "date_precision": "day", "system": "e-SISTAFE electronic public procurement", "class": "procurement"}
+], "systems": [], "note": ""}}},
+"coresystems": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "Jornal Noticias reports CEDSIF's chair describing e-SISTAFE, in use since November 2004, as the state financial administration platform, with the Treasury Single Account for public money flows and the taxpayer number required in its transactions.", "as_of": "2024-12-09", "date_precision": "day", "system": "e-SISTAFE", "class": "core"}
+], "systems": [
+{"system": "e-SISTAFE", "country_label": "e-SISTAFE", "class": "core", "platform": "", "owner": "CEDSIF", "tiers": ""}
+], "note": ""}}},
+"taxregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "NUIT is required in e-SISTAFE transactions, but no computerised taxpayer register or sharing is described."}}}
+}}

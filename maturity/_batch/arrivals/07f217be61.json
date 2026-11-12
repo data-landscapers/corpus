@@ -1,0 +1,10 @@
+{"slug": "2025-08-19-lbr-liberian-ict-firms-warn-of-sovereignty-risk-in-foreign-dominated-contr", "studies": {
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on a civil register link."}}},
+"businesspayments": {"countries": {"LBR": {"facts": [], "systems": [{"system": "PPCC e-procurement platform", "country_label": "PPCC e-procurement platform", "class": "procurement", "platform": "", "owner": "PPCC", "tiers": ""}], "note": "The platform is only named among outsourced systems; no online tendering or figures stated."}}},
+"idcoverage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only an advocacy letter on a reported sole-source award; who operates or maintains the system today is not stated."}}},
+"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Eight Liberian ICT firms say in their letter that Liberia's National Biometric Identification System was launched in 2012 and designed by Liberian experts.", "as_of": "2012", "date_precision": "year", "system": "National Biometric Identification System", "class": "idsystem"}], "systems": [{"system": "National Biometric Identification System", "country_label": "National Biometric Identification System", "class": "idsystem", "platform": "", "owner": "National Identification Registry", "tiers": ""}], "note": ""}}}
+}}

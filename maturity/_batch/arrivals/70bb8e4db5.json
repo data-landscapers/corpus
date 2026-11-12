@@ -1,0 +1,12 @@
+{"slug": "2026-08-31-cod-rdc-16-622-dossiers-fonciers-assainis-en-dix-jours-et-146-bureaux-a-eq", "studies": {
+"addressregister": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing about addressing."}}},
+"aigovernment": {"countries": {"COD": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "The DRC Ministry of Land Affairs, reporting to the Council of Ministers of 28 August 2026, says it is deploying a chatbot, \"Assistant Mimpa\", to explain the land law to the public.", "as_of": "2026-08-28", "date_precision": "day", "system": "Assistant Mimpa", "class": "govai"}], "systems": [{"system": "Assistant Mimpa", "country_label": "DRC", "class": "govai", "platform": "", "owner": "Ministry of Land Affairs", "tiers": ""}], "note": ""}}},
+"businessregister": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing about a business register."}}},
+"civilregister": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing about civil registration."}}},
+"electoralregister": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing about a voters' roll."}}},
+"landregister": {"countries": {"COD": {"facts": [], "systems": [{"system": "Registre national des titres fonciers et immobiliers", "country_label": "DRC", "class": "land", "platform": "", "owner": "Ministry of Land Affairs", "tiers": ""}], "note": "Archive sorting in 17 Kinshasa districts is stated as the precondition before any cadastre digitisation, and equipping 146 offices is an objective: preparation and a plan, not a digital register under way or in service."}}},
+"localgov": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing about local government office connections."}}},
+"populationregister": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing about a population register."}}},
+"socialregistry": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing about a social registry."}}},
+"taxregister": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document gives land revenue budget figures only; no taxpayer register is stated."}}}
+}}

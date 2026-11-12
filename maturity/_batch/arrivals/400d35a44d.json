@@ -1,0 +1,12 @@
+{"slug": "2026-11-10-senate-passes-bill-to-regulate-systemically-important-fintechs", "studies": {
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"businessregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Beneficial ownership disclosure in the bill is for fintechs, not the business register."}}},
+"centralbank": {"countries": {"NGA": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "drafting", "fact": "The National Assembly Library Trust Fund reports Nigeria's Senate passed SB. 959 at third reading on 2026-11-10, a bill to let the CBN designate, register and supervise fintechs as systemically important institutions; House concurrence and assent are not reported.", "as_of": "2026-11-10", "date_precision": "day", "system": "SB. 959, amending the Banks and Other Financial Institutions Act 2020", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Consumer interests are mentioned only as stakeholder concern, no consumer rule stated."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on government payments."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No account-holding survey share stated."}}},
+"publicconsultation": {"countries": {"NGA": {"facts": [{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The National Assembly Library Trust Fund says the Senate held a public hearing on 2026-03-04 on the fintech regulation bill SB. 959, with support from agencies, regulators and industry operators.", "as_of": "2026-03-04", "date_precision": "day", "system": "SB. 959 public hearing", "class": "consultation"}], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No mobile money service status stated."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on tax payment."}}}
+}}

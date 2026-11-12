@@ -1,0 +1,11 @@
+{"slug": "2026-11-08-tcd-foncier-au-tchad-la-regularisation-pour-prevenir-les-conflits", "studies": {
+"authentication": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Chad."}}},
+"birthidlink": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Chad."}}},
+"idcoverage": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Chad."}}},
+"idfrombirth": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Chad."}}},
+"idmaintenance": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Chad."}}},
+"idregisters": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only advice to regularise a state-allocated plot with an ID bearing the NNI; no register stated as keyed on it."}}},
+"idrobustness": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing this study asks for Chad."}}},
+"landregister": {"countries": {"TCD": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "Chad's Cadastre director described parcel regularisation files being checked in the GIRAF database, digitised by the Guichet unique and archived digitally.", "as_of": "2026-11-08", "date_precision": "day", "system": "GIRAF", "class": "land"}], "systems": [{"system": "GIRAF", "country_label": "Chad", "class": "land", "platform": "", "owner": "Cadastre", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on local government office connection."}}}
+}}

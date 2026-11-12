@@ -1,0 +1,9 @@
+{"slug": "2025-11-01-nam-terms-of-reference-disaster-recovery-centre-site", "studies": {
+"datacentres": {"countries": {"NAM": {"facts": [], "systems": [], "note": "NamibRe's own data centre and a hosted recovery site; no renting stated beyond a commercial hosting provider unnamed as a data centre for hire."}}},
+"idrobustness": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on the national ID."}}},
+"internationalstandards": {"countries": {"NAM": {"facts": [], "systems": [], "note": "ISO standards named only as consultant qualifications."}}},
+"nationaldatacentres": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Only the state-owned reinsurer's own data centre; not for hire."}}},
+"offsitebackup": {"countries": {"NAM": {"facts": [], "systems": [{"system": "NamibRe disaster recovery site at BCX", "country_label": "NamibRe DR site", "class": "other", "platform": "", "owner": "Namibia National Reinsurance Corporation (state-owned enterprise)", "tiers": ""}], "note": "A state-owned reinsurer's own recovery site within 1 km of its main one, with a consultancy to plan a farther site; not a public body, under 200 km."}}},
+"qualitystandards": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on national standards."}}},
+"regionalinfrastructure": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on shared regional infrastructure."}}}
+}}

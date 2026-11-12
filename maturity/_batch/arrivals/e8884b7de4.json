@@ -1,0 +1,11 @@
+{"slug": "2024-01-03-cmr-ecobank-backed-cameroonian-fintech-koree-closes-200k-pre-seed-round", "studies": {
+"businesspayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on central bank role."}}},
+"consumerprotection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"nonstatefinance": {"countries": {"CMR": {"facts": [{"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "TechCabal reports that the Cameroonian fintech Koree closed a US$200,000 pre-seed round backed by Cameroon Angels Network, Catalytic Africa, Digital Africa and other private investors.", "as_of": "2024-01-03", "date_precision": "day", "system": "Koree pre-seed round", "class": "private"}], "systems": [], "note": "Closing date not stated; the article's date is used. No amount is named for a Cameroonian investor."}}},
+"paymentsuptake": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A provider's user count is not an adult account survey."}}},
+"retailpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Only a private fintech's wallet is described."}}},
+"revenuecollection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

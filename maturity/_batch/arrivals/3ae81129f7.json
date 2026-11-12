@@ -1,0 +1,63 @@
+{
+ "slug": "2024-01-09-eth-korean-company-to-establish-land-information-management-system-in-4-ci",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "ENA reports the Ministry of Urban and Infrastructure signed a $30 million contract with Korea's Wavus JV on 9 January 2024 to build a land information management system in Bahir Dar, Adama, Hawassa and Sodo.",
+       "as_of": "2024-01-09",
+       "date_precision": "day",
+       "system": "Land Information Management System",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Land Information Management System",
+       "country_label": "Ethiopia",
+       "class": "landmis",
+       "platform": "built by Wavus JV",
+       "owner": "Ministry of Urban and Infrastructure",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "ENA reports the contract covers document digitalisation and national and regional centres for the land information management system in four cities.",
+       "as_of": "2024-01-09",
+       "date_precision": "day",
+       "system": "Land Information Management System",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Land Information Management System",
+       "country_label": "Ethiopia",
+       "class": "land",
+       "platform": "built by Wavus JV",
+       "owner": "Ministry of Urban and Infrastructure",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

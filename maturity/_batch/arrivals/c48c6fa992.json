@@ -1,0 +1,46 @@
+{
+  "slug": "2024-05-01-dji-vers-un-hub-numerique-mondial",
+  "studies": {
+    "aiabuse": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on AI harms, rules or an authority."}}},
+    "aigovernment": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on AI in public administration."}}},
+    "aisectoral": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on AI in a sector's public system."}}},
+    "aisystems": {"countries": {"DJI": {"facts": [], "systems": [], "note": "AI is only named as a use that Sea-Me-We-6 may support; no model, dataset or AI computing stated."}}},
+    "businesspayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+    "centralbank": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on the central bank or payments."}}},
+    "consumerprotection": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+    "crossborderpayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+    "datacentres": {"countries": {"DJI": {
+      "facts": [
+        {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Wingu Africa opened a data centre in 2013 inside Djibouti Telecom's 3G tower in the capital, and its business is selling hosting to international operators.", "as_of": "2024-05", "date_precision": "month", "system": "Wingu Africa Djibouti City data centre", "class": "datacentre"}
+      ],
+      "systems": [
+        {"system": "Wingu Africa Djibouti City data centre", "country_label": "Djibouti", "class": "datacentre", "platform": "", "owner": "Wingu Africa", "tiers": ""},
+        {"system": "Wingu Africa Djibouti City 2 (DC2)", "country_label": "Djibouti", "class": "other", "platform": "", "owner": "Wingu Africa", "tiers": ""}
+      ],
+      "note": "DC2 is described as about to open, so it is not recorded as in service; no Tier and no cloud region stated."}}},
+    "exchangepoints": {"countries": {"DJI": {"facts": [], "systems": [{"system": "Djibouti Internet Exchange", "country_label": "Djibouti", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Names the Djibouti Internet Exchange and a 2023 AMS-IX agreement to replace it, but does not say networks exchange traffic there; hopes of Facebook, Google or Amazon are aspirations."}}},
+    "g2ppayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+    "internationalbandwidth": {"countries": {"DJI": {
+      "facts": [
+        {"sub_indicator": "routes", "aspect": "routes", "value": "independent", "fact": "Djibouti Telecom says twelve submarine cables pass through Djibouti and on land connect to four separate self-powered stations watched round the clock.", "as_of": "2024-05", "date_precision": "month", "system": "Twelve submarine cables at Djibouti", "class": "route"},
+        {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "Djibouti Telecom says its cable infrastructure serves more than 50 telecom operators with connections to more than 90 countries, who can switch between cables there.", "as_of": "2024-05", "date_precision": "month", "system": "Djibouti Telecom submarine cable stations", "class": "route"}
+      ],
+      "systems": [
+        {"system": "Djibouti Telecom submarine cable stations", "country_label": "Djibouti", "class": "route", "platform": "", "owner": "Djibouti Telecom", "tiers": ""}
+      ],
+      "note": "Sea-Me-We-6 is an investment, not stated in service; no design capacity above 100 Tbps stated."}}},
+    "internetusage": {"countries": {"DJI": {"facts": [], "systems": [], "note": "The 61 per cent internet connectivity figure is for 2022, before the 2024 window, and does not say it is a share of people."}}},
+    "nationaldatacentres": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Wingu Africa is called pan-African; the document does not say it is nationally owned."}}},
+    "nonstatefinance": {"countries": {"DJI": {
+      "facts": [
+        {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "African Business reports that Wingu Africa is investing USD 20 million in its new Djibouti City 2 data centre, about to be inaugurated.", "as_of": "2024-05", "date_precision": "month", "system": "Wingu Africa DC2 investment", "class": "private"}
+      ],
+      "systems": [],
+      "note": "The start date of the investment is not given; the Smart Nation USD 850 million is the government's and Djibouti Telecom's cable spending is state-owned, both other."}}},
+    "paymentsuptake": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+    "retailpayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+    "revenuecollection": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on electronic tax or fee payment."}}},
+    "startups": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No startup law, strategy or fund stated."}}},
+    "techhubs": {"countries": {"DJI": {"facts": [], "systems": [], "note": "An innovation centre at DC2 is only said to be coming."}}}
+  }
+}

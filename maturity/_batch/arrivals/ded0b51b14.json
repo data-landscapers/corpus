@@ -1,0 +1,9 @@
+{"slug": "2026-10-07-civ-securisation-fonciere-lafor-mise-sur-le-numerique-pour-securiser-le-fo", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Not about AI harms."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "AI is mentioned only as a prospect; no AI system is stated."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No AI tool in a sector system is stated."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}},
+"authentication": {"countries": {"CIV": {"facts": [], "systems": [], "note": "E-signature in AFOR's certification chain is only said to be intended; no service in use is stated."}}},
+"ecommercelaw": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No e-commerce or electronic transactions law is mentioned."}}},
+"opendatause": {"countries": {"CIV": {"facts": [], "systems": [{"system": "Géoportail (AFOR)", "country_label": "Côte d'Ivoire", "class": "other", "platform": "", "owner": "AFOR", "tiers": ""}], "note": "Géoportail is said to locate parcels and disseminate land information, but no download or licence is stated."}}}
+}}

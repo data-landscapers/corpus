@@ -1,0 +1,11 @@
+{"slug": "2025-10-29-lby-benghazi-municipality-starts-electronic-payment-for-fees", "studies": {
+"businesspayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only a related-story headline mentions a central bank team on e-payment; no mandate, licensing or switch is stated."}}},
+"consumerprotection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer rules."}}},
+"crossborderpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"localgov": {"countries": {"LBY": {"facts": [], "systems": [], "note": "An e-payment system is stated, but nothing on the municipality's office connection."}}},
+"paymentsuptake": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."}}},
+"retailpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payment services."}}},
+"revenuecollection": {"countries": {"LBY": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Benghazi Municipality announced, per Al Wasat, that it began operating an electronic payment system for all its fee-bearing financial transactions, under Decision 135 of 2025 of the House-of-Representatives-mandated government on e-payment in government bodies.", "as_of": "2025-10-29", "date_precision": "day", "system": "Benghazi municipal electronic payment system", "class": "revenue"}], "systems": [{"system": "Benghazi municipal electronic payment system", "country_label": "Benghazi Municipality e-payment", "class": "revenue", "platform": "", "owner": "Benghazi Municipality", "tiers": ""}], "note": ""}}}
+}}

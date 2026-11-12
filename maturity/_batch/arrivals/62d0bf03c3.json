@@ -1,0 +1,6 @@
+{"slug": "2025-09-09-syc-travizory-in-seychelles", "studies": {
+"dataprotectionlaw": {"countries": {"SYC": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Travizory, a vendor, states on its own fact-checker page that it acts as data processor for the Seychelles Electronic Border System in accordance with the Seychelles National Data Protection Act, without giving the Act's date or text.", "as_of": "2025-09-09", "date_precision": "day", "system": "Seychelles National Data Protection Act", "class": "general"}], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"SYC": {"facts": [], "systems": [{"system": "Seychelles Electronic Border System (SEBS)", "country_label": "SEBS", "class": "other", "platform": "Travizory", "owner": "Department of Immigration", "tiers": ""}], "note": "SEBS is a border and travel authorisation system, not a national ID system."}}},
+"nonstatefinance": {"countries": {"SYC": {"facts": [], "systems": [], "note": "The page names no amount invested, lent or guaranteed."}}},
+"startups": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on startup law or funds."}}}
+}}

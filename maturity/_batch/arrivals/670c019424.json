@@ -1,0 +1,10 @@
+{"slug": "2025-08-02-bdi-bancobu-launches-instant-international-transfers-enoti", "studies": {
+"businesspayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"BDI": {"facts": [], "systems": [], "note": "A BRB official only urged banks to adopt digital payments; no mandate, licence or switch is stated."}}},
+"consumerprotection": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document states nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"BDI": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "BANCOBU launched instant international transfers on its eNoti platform on 1 August 2025 with Thunes, letting holders of a foreign-currency account send and receive money in 48 countries, with a Bank of the Republic of Burundi payment systems director present.", "as_of": "2025-08-01", "date_precision": "day", "system": "BANCOBU eNoti with Thunes", "class": "crossborder"}], "systems": [{"system": "BANCOBU eNoti with Thunes", "country_label": "Burundi", "class": "crossborder", "platform": "Thunes", "owner": "BANCOBU (Commercial Bank of Burundi)", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document gives no survey figure."}}},
+"retailpayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The service is a bank-app foreign transfer, not a Burundian mobile money or wallet service."}}},
+"revenuecollection": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document states nothing on tax or fee payment."}}}
+}}

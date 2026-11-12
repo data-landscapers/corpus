@@ -1,0 +1,70 @@
+{
+ "slug": "2025-05-13-moz-mais-de-44-mil-imoveis-cadastrados-na-cidade-de-nampula",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Jornal Ikweli reports Nampula municipality began a property cadastre in February 2025 and had registered 44,706 properties by May 2025.",
+       "as_of": "2025-05-13",
+       "date_precision": "day",
+       "system": "Nampula municipal property cadastre",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nampula municipal property cadastre",
+       "country_label": "Mozambique",
+       "class": "land",
+       "platform": "",
+       "owner": "Municipality of Nampula",
+       "tiers": "one municipality"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on office connection."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Nampula property cadastre for IPRA",
+       "country_label": "Mozambique",
+       "class": "survey",
+       "platform": "",
+       "owner": "Municipality of Nampula",
+       "tiers": "one municipality"
+      }
+     ],
+     "note": "Cadastre is a count to prepare property-tax collection, which has not started; no revenue record in use is stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on police records."
+    }
+   }
+  }
+ }
+}

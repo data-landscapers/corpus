@@ -1,0 +1,14 @@
+{"slug": "2026-06-01-cmr-digital-sovereignty-public-applauds-strides-of-camtel-s-zamengoue-data", "studies": {
+"datacentres": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Camtel's Zamengoue Data Center hosts data for government ministries, state administrations, private enterprises and individual clients, and Camtel says it is open to all sectors, per News Upfront reporting a 9 June 2026 press conference.", "as_of": "2026-06-09", "date_precision": "day", "system": "Zamengoue Data Center", "class": "datacentre"}
+], "systems": [{"system": "Zamengoue Data Center", "country_label": "Cameroon", "class": "datacentre", "platform": "", "owner": "Camtel", "tiers": ""}], "note": ""}}},
+"datalocalisation": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Camtel urges local hosting; no rule on keeping data in the country is stated."}}},
+"digitalsovereignty": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "hosted", "value": "national", "fact": "Key government ministries and state administrations host their data at Camtel's Zamengoue Data Center in Cameroon, which also hosts the call centres of numerous state administrations, per Camtel's General Manager as reported by News Upfront.", "as_of": "2026-06-09", "date_precision": "day", "system": "Zamengoue Data Center", "class": "sovereignty"}
+], "systems": [{"system": "Zamengoue Data Center", "country_label": "Cameroon", "class": "sovereignty", "platform": "", "owner": "Camtel", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document says nothing on local government offices."}}},
+"nationaldatacentres": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "national", "aspect": "centre", "value": "service", "fact": "Camtel's Zamengoue Data Center hosts data for ministries, state administrations, private enterprises and individual clients, per News Upfront reporting a 9 June 2026 press conference; the document does not state who owns Camtel.", "as_of": "2026-06-09", "date_precision": "day", "system": "Zamengoue Data Center", "class": "datacentre"}
+], "systems": [{"system": "Zamengoue Data Center", "country_label": "Cameroon", "class": "datacentre", "platform": "", "owner": "Camtel", "tiers": ""}], "note": "Ownership by the state or nationals is not stated."}}},
+"offsitebackup": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Only a stated need for further data centres for disaster recovery; no backup site in service."}}}
+}}

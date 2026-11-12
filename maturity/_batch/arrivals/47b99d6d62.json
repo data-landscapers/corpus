@@ -1,0 +1,192 @@
+{
+ "slug": "2024-10-01-sen-senegal-state-agencies-comply-with-policy-on-public-data-management-af",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "inservice",
+       "fact": "MFWA says a policy in force since 2021 requires state agencies to transfer the data they hold to the national Diamniadio data centre.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Diamniadio data centre transfer policy",
+       "class": "sovereignty"
+      },
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "hosted",
+       "value": "national",
+       "fact": "MFWA says state agencies have been moving their data to the Diamniadio national storage centre since November 2023, the health ministry reportedly over 80% of its data by January 2024.",
+       "as_of": "2024-01",
+       "date_precision": "month",
+       "system": "Diamniadio data centre",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Diamniadio data centre",
+       "country_label": "Senegal",
+       "class": "sovereignty",
+       "platform": "",
+       "owner": "Government of Senegal",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "state",
+       "value": "hosted",
+       "fact": "MFWA says state agencies have been transferring their data to the national Diamniadio data centre since November 2023, the health ministry reportedly over 80% by January 2024.",
+       "as_of": "2024-01",
+       "date_precision": "month",
+       "system": "Diamniadio data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Diamniadio data centre",
+       "country_label": "Senegal",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Government of Senegal",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "debate",
+       "value": "criticised",
+       "fact": "PressAfrik journalist Fana Cisse's award-winning story criticised state agencies for not transferring their data to the Diamniadio data centre as required, and MFWA says it pressured them into compliance.",
+       "as_of": "2023-12",
+       "date_precision": "month",
+       "system": "PressAfrik story on the Diamniadio data centre",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  }
+ }
+}

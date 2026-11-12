@@ -1,0 +1,9 @@
+{"slug": "2025-09-01-zwe-telone-data-centres-project", "studies": {
+"datacentres": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "TelOne data centres (Harare, Mazowe, Bulawayo)", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "TelOne (Pvt) Ltd", "tiers": "Tier III (Harare colocation space, planned expansion)"}], "note": "An investment prospectus pending validation; it does not state a data centre for hire in service."}}},
+"dataprotectionlaw": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The Cyber and Data Protection Act is named only in an illustrative alignment mapping."}}},
+"digitalsovereignty": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Digital sovereignty is listed as an expected impact only; no goal, rule or hosting is stated."}}},
+"egovservices": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No government online service is stated."}}},
+"ictstrategy": {"countries": {"ZWE": {"facts": [{"sub_indicator": "sector", "aspect": "period", "value": "to:2027", "fact": "The ZIDA project page names the National ICT Policy 2022-2027 as the policy its TelOne data centre project aligns to, in a mapping it calls illustrative and pending validation.", "as_of": "2025-09", "date_precision": "month", "system": "National ICT Policy 2022-2027", "class": "sector"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "TelOne's data centre expansion is a prospectus pending validation; no data centre for hire in service or its ownership is stated."}}},
+"offsitebackup": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Disaster recovery is a planned service of the project, with no backup site in service stated."}}}
+}}
