@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: CIV
-ledger_rows: 41
+ledger_rows: 43
 not_held: 9
-record: 85ed11f464ac
+record: ae1d8454265b
 ---
 
 # News, Oct – Nov 2026
@@ -165,6 +165,20 @@ Italy's development agency AICS disbursed EUR 2.695 million through UNDP on 14 O
 </nav>
 
 ### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Displayed retail mobile data tariffs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Forfait internet Côte d'Ivoire : Orange, MTN, Moov (prix)](https://tech-toolsafrique.com/meilleur-forfait-internet-cote-divoire/)** — tech-toolsafrique.com, 1 October 2026
+
+Per-GB mobile data ~160 to ~2,000 FCFA across Moov, MTN, Orange (Oct 2026); fibre from 15,000 FCFA a month.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -557,6 +571,20 @@ Côte d'Ivoire's Senate voted electronically for the first time on 5 November 20
 **[Côte d'Ivoire | Administration : Ouattara fixe le cap d'une économie numérique d'ici 2029](https://afrimag.net/cote-divoire-administration-ouattara-fixe-le-cap-dune-economie-numerique-dici-2029/)** — Afrimag, 16 October 2026
 
 Afrimag reported on Côte d'Ivoire's digital administration plans to 2029. It cites a USD 195 million government digital services programme with 23 platforms, whose first phase closed in June 2026, and health information systems in 268 facilities. The figures are the outlet's own and are not sourced.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital one-stop window for tourism and leisure (SGAT)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Administration touristique : Les opérateurs pourront désormais effectuer leurs démarches en ligne](https://www.linfodrome.com/societe/127482-administration-touristique-les-operateurs-pourront-desormais-effectuer-leurs-demarches-en-ligne)** — Linfodrome, 11 November 2026
+
+Côte d'Ivoire's Ministry of Tourism and Leisure launched a digital one-stop shop for tourism operators on 10 November 2026. Operators can file and pay for administrative procedures online and track them against a 45-day maximum processing time. It is the first component of the tourism activity management system, piloted in four regional directorates (Linfodrome, 11 November 2026).
 
 </div>
 
