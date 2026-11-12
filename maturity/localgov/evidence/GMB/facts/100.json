@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-11-gmb-nao-flags-suspected-fraud-over-d297-941-rate-deletion-at-kmc",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Matrix data system (Kanifing Municipal Council rates)",
+   "country_label": "The Gambia",
+   "class": "application",
+   "platform": "",
+   "owner": "Kanifing Municipal Council",
+   "tiers": ""
+  }
+ ],
+ "note": "A council's revenue application; no office connection is stated."
+}

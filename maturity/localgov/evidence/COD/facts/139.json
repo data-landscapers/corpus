@@ -1,0 +1,46 @@
+{
+ "slug": "2026-06-02-cod-connectivite-des-batiments-administratifs-de-gouvernorats-et-de-145-te",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "Congo Quotidien reports that the Digital Transformation Project Management Unit (UG PTN) opened an international tender to connect administrative buildings of seven governorates and 44 territories in a pilot phase, via low-orbit satellite links and a GovNet VPN to Kinshasa.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "GovNet",
+   "class": "connection"
+  },
+  {
+   "sub_indicator": "connection",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The tender is run by the UG PTN, which reports to the Ministry of Posts and Telecommunications and the Ministry of Digital Economy.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "GovNet",
+   "class": "connection"
+  },
+  {
+   "sub_indicator": "connection",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The lot is financed by the World Bank (credit 7602-ZR) and co-financed by the Agence Française de Développement.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "GovNet",
+   "class": "connection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovNet",
+   "country_label": "Democratic Republic of the Congo",
+   "class": "backbone",
+   "platform": "VPN hub-and-spoke with LEO satellite links",
+   "owner": "UG PTN",
+   "tiers": "governorates (upper tier) and territories"
+  }
+ ],
+ "note": ""
+}

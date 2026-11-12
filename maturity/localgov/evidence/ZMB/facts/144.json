@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-08-zmb-smart-zambia-unveils-six-milestones-in-drive-toward-a-digitally-empowe",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "connected",
+   "value": "institutional",
+   "fact": "SMART Zambia's e-Government Division announced full deployment of the Government Wide Area Network across all 116 local authorities, per TechAfrica News; the document does not say what staff do over it.",
+   "as_of": "2025-09-08",
+   "date_precision": "day",
+   "system": "Government Wide Area Network (GWAN)",
+   "class": "connection"
+  },
+  {
+   "sub_indicator": "connection",
+   "aspect": "authorities",
+   "value": "share:100%",
+   "fact": "SMART Zambia says GWAN is deployed in all 116 local authorities, per TechAfrica News.",
+   "as_of": "2025-09-08",
+   "date_precision": "day",
+   "system": "Government Wide Area Network (GWAN)",
+   "class": "connection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Wide Area Network (GWAN)",
+   "country_label": "Zambia",
+   "class": "connection",
+   "platform": "",
+   "owner": "SMART Zambia Institute",
+   "tiers": "local authorities"
+  }
+ ],
+ "note": ""
+}

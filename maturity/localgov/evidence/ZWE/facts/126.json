@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-10-zwe-council-in-us-2-1m-billing-system-storm",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Local Authorities Digital Systems (LADS)",
+   "country_label": "Zimbabwe",
+   "class": "application",
+   "platform": "ERP",
+   "owner": "Harare Institute of Technology / LADS Africa",
+   "tiers": "20 local authorities"
+  }
+ ],
+ "note": "Describes billing and ERP applications; states no office connection."
+}

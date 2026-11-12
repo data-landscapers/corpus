@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-09-ben-numerique-dans-les-mairies-l-ancb-mise-sur-la-mutualisation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Communal applications (35 applications, 27 providers)",
+   "country_label": "Bénin",
+   "class": "application",
+   "platform": "",
+   "owner": "Communes",
+   "tiers": ""
+  }
+ ],
+ "note": "Municipal software is counted, but no office connection is stated."
+}

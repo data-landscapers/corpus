@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,connection,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-07-18,BEN-006;BEN-007;BEN-029,BEN-025=finance:domestic;BEN-026=owner:ministry;BEN-028=finance:donor;BEN-030=finance:domestic;BEN-031=owner:ministry;BEN-019=finance:not-stated;BEN-018=owner:ministry,
+BEN,connection,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-07-18,BEN-006;BEN-007;BEN-036,BEN-034=owner:ministry;BEN-035=finance:donor;BEN-025=finance:domestic;BEN-026=owner:ministry;BEN-028=finance:donor;BEN-029=plan:current;BEN-030=finance:domestic;BEN-031=owner:ministry;BEN-019=finance:not-stated;BEN-018=owner:ministry,
 BEN,connection,use,coverage,systems,2026-09-11,BEN-002;BEN-009;BEN-011;BEN-013;BEN-014;BEN-015;BEN-020,BEN-004=internet;BEN-024=internet,
 BEN,connection,connected,coverage,institutional,2026-07-18,BEN-003;BEN-016;BEN-023;BEN-032,BEN-012=personal,
 BEN,connection,last12,qualifier,regressing,2026-09-11,BEN-001,BEN-008=advancing,

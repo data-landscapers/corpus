@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-11-civ-digitalisation-l-enregistrement-des-naissances-desormais-possible-depu",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cityweb",
+   "country_label": "Côte d'Ivoire",
+   "class": "application",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": "sous-préfectures; mairies"
+  }
+ ],
+ "note": "Civil-status centres connected to Cityweb are a civil registration application, not a stated connection of local government offices."
+}

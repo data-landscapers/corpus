@@ -3,4 +3,4 @@ MDG,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,20
 MDG,connection,use,coverage,systems,2025-12,MDG-002;MDG-006;MDG-011;MDG-016,,
 MDG,connection,connected,coverage,institutional,2025-04-30,MDG-005;MDG-015,MDG-010=none,
 MDG,connection,last12,qualifier,advancing,2025-12,MDG-004;MDG-013,,
-MDG,connection,authorities,coverage,share:10%,2024-06,MDG-014,MDG-003=count:336;MDG-012=count:336;MDG-007=count:38,
+MDG,connection,authorities,coverage,share:10%,2024-06,MDG-014,MDG-003=count:336;MDG-012=count:336;MDG-007=count:38;MDG-020=pilot,

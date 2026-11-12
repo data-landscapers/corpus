@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-06-cpv-nota-de-esclarecimento-ao-comunicado-da-anmcv-que-diz-estar-indignada",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "NOSi, E.P.E., a state public enterprise, says it supplies the municipalities' digital services under service contracts signed with all 22 councils in 2022.",
+   "as_of": "2025-10-06",
+   "date_precision": "day",
+   "system": "NOSi Local Digital Governance services",
+   "class": "connection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

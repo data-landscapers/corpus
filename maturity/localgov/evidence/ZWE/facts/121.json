@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-18-zwe-harare-residents-can-now-score-their-council-in-real-time-here-s-how",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Local Authorities Digital Systems (LADS)",
+   "country_label": "Zimbabwe",
+   "class": "application",
+   "platform": "LADS",
+   "owner": "Harare Institute of Technology",
+   "tiers": "53 councils"
+  }
+ ],
+ "note": "Names LADS applications and a WhatsApp chatbot; states no office connection."
+}

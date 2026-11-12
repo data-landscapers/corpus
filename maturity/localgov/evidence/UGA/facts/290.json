@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-uga-the-grizzly-wall-behind-government-s-heavy-burden-in-funding-local-gov",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "use",
+   "value": "systems",
+   "fact": "Habari Daily reports the finance ministry's Lugoloobi saying IRAS, a digital revenue system, has been rolled out to all 176 local governments as a shared web and mobile system for taxpayer registration, billing and collection.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Integrated Revenue Administration System (IRAS)",
+   "class": "connection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

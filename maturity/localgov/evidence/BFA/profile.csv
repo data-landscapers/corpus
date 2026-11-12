@@ -3,4 +3,4 @@ BFA,connection,governance,qualifier,owner:ministry;plan:current;finance:domestic
 BFA,connection,use,coverage,internet,2024-01-30,BFA-002;BFA-010,,
 BFA,connection,connected,coverage,institutional,2024-01-30,BFA-001;BFA-008,,
 BFA,connection,last12,qualifier,advancing,2025,BFA-007,,
-BFA,connection,authorities,coverage,count:78,2025,BFA-004,BFA-009=count:5,
+BFA,connection,authorities,coverage,count:78,2025,BFA-004,BFA-063=count:20;BFA-009=count:5,

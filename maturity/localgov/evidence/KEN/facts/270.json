@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-04-ken-makueni-county-projects-monitoring-and-tracking-system-pmts-success-st",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Projects Monitoring and Tracking System (PMTS)",
+   "country_label": "Kenya",
+   "class": "application",
+   "platform": "web-based",
+   "owner": "County Government of Makueni",
+   "tiers": "county"
+  }
+ ],
+ "note": "Nothing on connection of county offices."
+}

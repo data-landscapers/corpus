@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-26-lby-local-government-secure-government-network-project",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Secure Government Network",
+   "country_label": "Libya",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Ministry of Local Government",
+   "tiers": ""
+  }
+ ],
+ "note": "The ministry only met a telecom company on 26 February 2024 to scope the network; no local government office is said to be on it."
+}

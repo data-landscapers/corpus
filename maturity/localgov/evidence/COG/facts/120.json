@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-23-cog-inclusion-numerique-plus-de-180-antennes-de-telecommunications-vont-mi",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "Adiac reports that after a review with World Bank partners of the PATN project, the minister said the government would connect the various town halls of Congo by mid-May 2024.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "PATN",
+   "class": "connection"
+  }
+ ],
+ "systems": [],
+ "note": "Town-hall connection is announced, not delivered."
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-01-uga-national-backbone-infrastructure-project-nbi-egi",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "connected",
+   "value": "institutional",
+   "fact": "NITA-U says 603 ministries, departments, agencies, local government sites and government service centres are connected to the government network, with the last-mile project having connected 575 of 700 sites; no count of local governments is given.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "National Backbone Infrastructure (NBI/EGI)",
+   "class": "connection"
+  },
+  {
+   "sub_indicator": "connection",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Ministry of ICT secured funding for the NBI/EGI and NITA-U, a government authority, completed and runs it.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "National Backbone Infrastructure (NBI/EGI)",
+   "class": "connection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

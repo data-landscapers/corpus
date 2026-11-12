@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-20-zwe-government-hands-over-415-computers-to-39-rdcs",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "authorities",
+   "value": "equipped:65%",
+   "fact": "The Herald reports the ICT ministry and Potraz handed 415 computers to 39 of Zimbabwe's 60 rural district councils on 19 January 2025, with the other 21 due in the next batch; no connection is stated.",
+   "as_of": "2025-01-19",
+   "date_precision": "day",
+   "system": "USF e-Government programme",
+   "class": "connection"
+  },
+  {
+   "sub_indicator": "connection",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The ICT Minister says the handover is an initiative of her ministry through the Universal Services Fund e-Government programme, with the Ministry of Local Government and Public Works.",
+   "as_of": "2025-01-19",
+   "date_precision": "day",
+   "system": "USF e-Government programme",
+   "class": "connection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-zwe-ict-ministry-donates-250-starlink-kits-to-local-authorities",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "connected",
+   "value": "institutional",
+   "fact": "The Herald reports that the ICT Ministry handed 250 Starlink kits to the Ministry of Local Government and Public Works for local authorities, whose deployment now rests with that ministry; no kit is stated in use.",
+   "as_of": "2025-07-23",
+   "date_precision": "day",
+   "system": "Starlink kits for local authorities",
+   "class": "connection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink kits for local authorities",
+   "country_label": "Zimbabwe",
+   "class": "connection",
+   "platform": "Starlink",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": "local authorities"
+  }
+ ],
+ "note": ""
+}

@@ -3,4 +3,4 @@ NER,connection,governance,qualifier,owner:ministry;plan:none;finance:donor,2026-
 NER,connection,use,coverage,systems,2026-04-22,NER-010,,
 NER,connection,connected,coverage,institutional,2026-05-06,NER-001;NER-005,,
 NER,connection,last12,qualifier,advancing,2026-05-06,NER-002,,
-NER,connection,authorities,coverage,count:102,2026-04-22,NER-009,NER-004=count:266;NER-012=not-published,
+NER,connection,authorities,coverage,count:102,2026-04-22,NER-009,NER-004=count:266;NER-012=not-published;NER-023=not-published,

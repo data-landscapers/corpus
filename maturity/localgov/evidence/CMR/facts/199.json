@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-cmr-cameroun-financement-du-projet-digi-cor-l-etat-recherche-92-milliards",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "authorities",
+   "value": "equipped:37.8%",
+   "fact": "Afrik Info reports that 145 of Cameroon's 384 local authorities have been equipped with FEICOM financing, and that 68.5% lack structured IT networks.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "FEICOM equipment of local authorities",
+   "class": "connection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

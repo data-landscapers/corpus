@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-22-bdi-communes-bubanza-bukinanyana-kayanza-ngozi-kirundo-muyinga-cankuzo-ruy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "E-TAXE",
+   "country_label": "Burundi",
+   "class": "application",
+   "platform": "CRDB digital collection terminals",
+   "owner": "Ministry of Interior with CRDB Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states no connection provided to commune offices."
+}

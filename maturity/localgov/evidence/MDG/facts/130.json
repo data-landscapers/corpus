@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-21-mdg-implementation-status-and-results-report-digital-governance-and-identi",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "The World Bank PRODIGY report says IT equipment and connectivity has been acquired for over 600 communes and pilot activities in several communes have started.",
+   "as_of": "2023-10-16",
+   "date_precision": "day",
+   "system": "PRODIGY civil registration connectivity",
+   "class": "connection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

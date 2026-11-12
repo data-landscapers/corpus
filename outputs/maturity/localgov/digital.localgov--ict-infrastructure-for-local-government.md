@@ -161,6 +161,7 @@ One commune's town hall, at Oyem, was on the state administration network in 202
 - Gabon Review reports that the Mairie Centrale d'Oyem is among the administrations of Oyem already on the Réseau de l'Administration Gabonaise, a public fibre-optic network dedicated to the administration that ANINF, the state's digital infrastructure agency, has brought into service there; the activation is undated, so the date is the article's ([source, 2026-04-01](https://www.gabonreview.com/le-rag-operationnel-a-oyem-laninf-accelere-la-modernisation-administrative-en/)).
 - Gabon Review says the RAG connection at Oyem improves the working conditions of the public services and prepares the progressive integration of new digital uses in the administrations concerned; it names no system the town hall's staff work in, and the date is the article's ([source, 2026-04-01](https://www.gabonreview.com/le-rag-operationnel-a-oyem-laninf-accelere-la-modernisation-administrative-en/)).
 - Gabon Review names one local government office on the RAG, the Mairie Centrale d'Oyem in Woleu-Ntem, beside the town's police station and courthouse, and says activation will continue to other administrations of the locality and then to other public entities; it gives no total of communes connected or to be connected, and the date is the article's ([source, 2026-04-01](https://www.gabonreview.com/le-rag-operationnel-a-oyem-laninf-accelere-la-modernisation-administrative-en/)).
+- The communes of Akanda and Owendo are connected by optical fibre to the government's Réseau de l'administration gabonaise, among initiatives launched there, per Gabonclic.info ([source, 2025-06-11](https://gabonclic.info/digitalisation-des-services-municipaux-hermann-immongault-echange-avec-les-delegues-speciaux-dakanda-et-dowendo/)).
 
 ### Gambia: 3 Established
 
@@ -398,13 +399,15 @@ A loan-financed programme to connect the communes' town halls was ratified in Fe
 
 ### DR Congo: 2 Nascent
 
-In March 2026 one province handed satellite internet kits to 45 chiefdoms and sectors; no source found says whether any office works over them.
+In 2026 one province handed satellite kits to 45 chiefdoms and a national pilot tender was issued; nothing found says any office works over them.
 
 *Advancing.*
 
 - The governor of Haut-Uélé province handed Starlink satellite internet kits to the heads of the decentralised territorial entities (ETD) at Isiro on 17 March 2026, in a province where the lack of a telecom network remains a problem, on a provincial information note read by ACP; the kits are reported handed over, not installed, and who pays the subscription is not stated ([source, 2026-03-17](https://acp.cd/economie/haut-uele-des-kits-internet-satellite-starlink-aux-institutions-pour-renforcer-la-communication)).
 - The Starlink kits handed over in Haut-Uélé on 17 March 2026 are for the heads of the entities to send security alerts to the provincial capital in real time, on the governor's word; no system worked in over the link is named ([source, 2026-03-17](https://acp.cd/economie/haut-uele-des-kits-internet-satellite-starlink-aux-institutions-pour-renforcer-la-communication)).
 - 45 chiefdoms and sectors of Haut-Uélé province received Starlink kits on 17 March 2026, beside 6 territories and security services, on the provincial information note; one province only, with no total of entities given ([source, 2026-03-17](https://acp.cd/economie/haut-uele-des-kits-internet-satellite-starlink-aux-institutions-pour-renforcer-la-communication)).
+- The Digital Transformation Project unit issued a tender notice on 4 June 2026, financed by a World Bank credit and AFD co-financing, to connect administrative buildings of 7 governorates and 44 territories in a pilot phase over a GovNet VPN, with bids due 16 July 2026 ([source, 2026-06-04](https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/06-juin/01/ugptn_260604_01_05.pdf)).
+- Congo Quotidien reports that the Digital Transformation Project Management Unit (UG PTN) opened an international tender to connect administrative buildings of seven governorates and 44 territories in a pilot phase, via low-orbit satellite links and a GovNet VPN to Kinshasa ([source, 2026-06-02](https://www.congoquotidien.com/2026/06/02/actualite-rdc-connectivite-batiments-gouvernorats-territoires-rdc/)).
 
 ### Djibouti: 2 Nascent
 

@@ -1,0 +1,44 @@
+{
+ "slug": "2025-04-10-uga-bims-and-iras-integrated-to-boost-compliance-and-revenue-generation-in",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "use",
+   "value": "systems",
+   "fact": "The National Building Review Board says all local governments can now use BIMS for building control, and that IRAS, developed by the Local Government Finance Commission, automates revenue collection and payment in 166 vote-level local governments.",
+   "as_of": "2025-04-10",
+   "date_precision": "day",
+   "system": "IRAS and BIMS",
+   "class": "connection"
+  },
+  {
+   "sub_indicator": "connection",
+   "aspect": "authorities",
+   "value": "count:166",
+   "fact": "IRAS automates revenue collection and payment processes in 166 vote-level local governments, according to the National Building Review Board; no total is given.",
+   "as_of": "2025-04-10",
+   "date_precision": "day",
+   "system": "IRAS",
+   "class": "connection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IRAS",
+   "country_label": "Integrated Revenue Administration System",
+   "class": "application",
+   "platform": "",
+   "owner": "Local Government Finance Commission",
+   "tiers": ""
+  },
+  {
+   "system": "BIMS",
+   "country_label": "Building Industry Management System",
+   "class": "application",
+   "platform": "",
+   "owner": "National Building Review Board",
+   "tiers": ""
+  }
+ ],
+ "note": "The text does not state how local government offices are connected."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-26-uga-system-failures-blamed-for-shs52-billion-local-revenue-shortfall",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "use",
+   "value": "systems",
+   "fact": "The Independent reports the Auditor General found local governments working in the national Integrated Revenue Administration System (IRAS) in FY2024/25, with 18 of a sample of 30 facing unstable internet and frequent downtime.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "IRAS",
+   "class": "connection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

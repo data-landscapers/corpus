@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-28-zwe-cscn-peer-learning-clinic-highlights-mutare-s-digital-transformation-j",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LADS (Local Authorities Digital System)",
+   "country_label": "Zimbabwe (Mutare)",
+   "class": "application",
+   "platform": "",
+   "owner": "Mutare City Council",
+   "tiers": "city"
+  }
+ ],
+ "note": "LADS is an application; no connection of local government offices is stated."
+}

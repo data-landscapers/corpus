@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-26-bfa-burkina-gestion-du-foncier-le-coordonnateur-du-projet-d-appui-au-renfo",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "authorities",
+   "value": "count:20",
+   "fact": "The PARGFM coordinator said the land services of 20 communes were interconnected ahead of the land information system, in a project covering 51 communes.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "PARGFM commune land services interconnection",
+   "class": "connection"
+  }
+ ],
+ "systems": [],
+ "note": "Who pays for the connection and what the offices do over it are not stated."
+}

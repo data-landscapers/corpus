@@ -11,9 +11,10 @@
       "authorities": "count:1",
       "cap": "",
       "flags": "on the government network;advancing",
-      "stage_sources": "GAB-001;GAB-002;GAB-003",
-      "gaps": "One town hall, the Mairie Centrale d'Oyem, is named on the state network; no total of communes connected or to be connected is given, so the count is a floor and no share can be read. No system the staff work in is named, and no plan or source of finance is stated; the activation itself is undated and takes the article's date.",
-      "note": "A state-provided connection is in service at one commune office outside the capital, which meets stage 3 on a count with no total. Stage 4 needs more than half of communes on a share or a count with its denominator, and the evidence holds one office."
+      "stage_sources": "GAB-001;GAB-002;GAB-003;GAB-006",
+      "gaps": "Three communes are named on the state network: the Mairie Centrale d'Oyem in April 2026 and Akanda and Owendo in June 2025 (GAB-006, GAB-007). No total of communes connected or to be connected is given, so the counts are floors and no share can be read. No system the staff work in is named, and no plan or source of finance is stated; the Oyem activation itself is undated and takes the article's date.",
+      "note": "A state-provided connection is in service at commune offices outside the capital, Oyem by name, which meets stage 3 on counts with no total. Stage 4 needs more than half of communes on a share or a count with its denominator, and the evidence names three.",
+      "as_at": "2026-11-12"
     }
   ]
 }

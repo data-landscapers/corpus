@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-11-ner-le-projet-villages-intelligents-pvi-et-lassociation-des-municipalites",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "authorities",
+   "value": "not-published",
+   "fact": "A convention signed at Zinder on 25 June 2025 between the Smart Villages Project (PVI) and the Association of Municipalities of Niger aims to equip Niger's communes with Starlink internet modules; no commune is stated connected.",
+   "as_of": "2025-06-25",
+   "date_precision": "day",
+   "system": "Projet Villages Intelligents convention",
+   "class": "connection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projet Villages Intelligents (PVI)",
+   "country_label": "Niger",
+   "class": "connection",
+   "platform": "Starlink modules",
+   "owner": "PVI with the Association of Municipalities of Niger",
+   "tiers": "communes"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-01-gab-e-tax-la-mairie-de-libreville-dresse-un-premier-bilan-de-la-collecte-n",
+ "facts": [],
+ "systems": [
+  {
+   "system": "E-Tax",
+   "country_label": "E-Tax (Mairie de Libreville)",
+   "class": "application",
+   "platform": "web portal, mobile app, mobile money, agent terminals",
+   "owner": "Mairie de Libreville",
+   "tiers": ""
+  }
+ ],
+ "note": "No office connection is described, only a payment platform."
+}

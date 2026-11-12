@@ -1,0 +1,15 @@
+{
+ "slug": "2024-07-28-cmr-local-regional-councils-minister-calls-for-speedy-setting-up-of-it-man",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIMBA",
+   "country_label": "Cameroon",
+   "class": "application",
+   "platform": "accounting and budget software",
+   "owner": "Ministry of Decentralisation and Local Development, with Ministry of Finance",
+   "tiers": "384 councils planned"
+  }
+ ],
+ "note": "SIMBA is an accounting application; no connection of council offices is stated."
+}
