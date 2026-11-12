@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: SDN
 ledger_rows: 30
 not_held: 5
-record: 71aa1dd24fcd
+record: 393d885b1671
 ---
 
 # News, Oct – Nov 2026
@@ -220,7 +220,7 @@ Access Now reviewed exam-related internet shutdowns in the Middle East and North
 
 **[تفاصيل الزيادة الجديدة على باقات الإنترنت](https://rtmediasd.net/2026/11/09/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%b2%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%b9%d9%84%d9%89-%d8%a8%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%86/)** — ارتي ميديا, 9 November 2026
 
-Zain 100 GB bundle up from SDG 68,900 to 115,000; MTN 1 GB doubled to SDG 11,000; dollar and diesel blamed.
+Rtmediasd reported on 9 November 2026 that Zain, Sudani and MTN raised internet bundle prices in Sudan. The companies cite the rising dollar and the cost of fuel for towers. Zain's 100 GB bundle went from 68,900 to 115,000 pounds, up 67%, and its 300 GB bundle from 93,000 to 137,000, up 47%. Zain increases range from 44% to 130%.
 
 </div>
 

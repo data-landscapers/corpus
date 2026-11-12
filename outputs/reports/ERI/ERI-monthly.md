@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: ERI
 ledger_rows: 2
 not_held: 22
-record: 267c7c1a1c46
+record: 689bfc7e0cf1
 ---
 
 # News, Oct – Nov 2026
@@ -34,7 +34,7 @@ record: 267c7c1a1c46
 
 **[Integrating Skills for Digitalized Future to improve Healthcare Service](https://shabait.com/2026/11/04/integrating-skills-for-digitalized-future-to-improve-healthcare-service/)** — Eritrea Ministry of Information (Shabait), 4 November 2026
 
-Offline Android app for the eighth national medicines list, built free by volunteer MoH and ERITEL staff.
+Shabait, the Eritrean information ministry's outlet, published an interview on 4 November 2026 with pharmacist Nuru Abdu Ahmed and computer engineer Bilal Adem Shelogay. The two have developed an Android application for healthcare and describe it and their plans. Ahmed works on the national formulary at the Ministry of Health.
 
 </div>
 

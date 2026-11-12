@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: GHA
 ledger_rows: 68
 not_held: 9
-record: 2068a68e297c
+record: 664a51700b8d
 ---
 
 # News, Oct – Nov 2026
@@ -850,7 +850,7 @@ The Bank of Ghana said on 5 November 2026 that it and the Monetary Authority of 
 
 **[Lands Commission outlines four steps for conducting online land searches](https://www.citinewsroom.com/2026/10/lands-commission-outlines-four-steps-for-conducting-online-land-searches/)** — Citi Newsroom, 14 October 2026
 
-Site-plan upload, mobile-money fee, emailed report; service live in 10 of 16 regions, Ashanti added October 2026.
+Ghana's Lands Commission said on 14 October 2026 that buyers can search land details online before a purchase. Deputy executive secretary Raphael Hokey described four steps: open the portal, upload the site plan, pay by mobile money and receive the report by email. Hokey said the service covers 10 of 16 regions, with Ashanti due to start that week.
 
 </div>
 
@@ -864,7 +864,7 @@ Site-plan upload, mobile-money fee, emailed report; service live in 10 of 16 reg
 
 **[Lands Commission's Digital Reform: gamechanger for Land Administration in Ghana](https://gna.org.gh/2026/10/lands-commissions-digital-reform-gamechanger-for-land-administration-in-ghana/)** — Ghana News Agency, 28 October 2026
 
-GH¢1.8bn reform to 2030; searches cut to seven working days; 51 CORS stations; nationwide ELIS by end-2027.
+Ghana's Lands Commission plans to spend GH¢1.8 billion by 2030 on its Strategic Land Administration Reform Project, Ghana News Agency reported on 28 October 2026. National coordinator Jones Ofori-Boadu said 67% of the Commission's revenue is ring-fenced for it. The project has eight components, including a land information system. Its management unit was inaugurated on 1 July 2026.
 
 </div>
 

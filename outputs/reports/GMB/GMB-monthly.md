@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: GMB
 ledger_rows: 16
 not_held: 2
-record: 368178cab97c
+record: 2ca8a0c98234
 ---
 
 # News, Oct – Nov 2026
@@ -178,7 +178,7 @@ The Gambia's electoral commission will give parties the final voter register, co
 
 **[Ministry Updates Public on National Land Policy Implementation](https://senigambia.com/ministry-updates-public-on-national-land-policy-implementation/)** — Senigambia, 9 November 2026
 
-Land information system alpha in testing; records conversion centre contracted; Kombo East titling pilot January 2027.
+The Gambia's lands ministry briefed the press on National Land Policy implementation on 9 November 2026. Dr Samba Sowe heads the Land Policy Implementation Unit. Sowe said work began in January 2026, after President Adama Barrow launched the policy in December 2025. The alpha version of a National Land Information System is complete and in testing. A contractor is setting up a centre to digitise historical land records.
 
 </div>
 

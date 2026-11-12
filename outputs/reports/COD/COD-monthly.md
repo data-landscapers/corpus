@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: COD
 ledger_rows: 46
 not_held: 6
-record: abbcb1bcd34e
+record: 90c6fa15d8ea
 ---
 
 # News, Oct – Nov 2026
@@ -586,7 +586,7 @@ The DRC's telecoms ministry is seeking a firm for an eight-month e-government co
 
 **[Retour sur la matinée fiscale d'information et de présentation de deux nouvelles régies provinciales chargées de percevoir les impôts, droits, taxes et redevances de la ville de Kinshasa](https://fec-rdc.com/retour-sur-la-matinee-fiscale-dinformation-et-de-presentation-de-deux-nouvelles-regies-provinciales-chargees-de-percevoir-les-impots-droits-taxes-et-redevances-de-la-ville-de-kinshasa/)** — Fédération des Entreprises du Congo, 1 October 2026
 
-DGRK split into DGIPK and DGTK; transition to end 2026; IRMS-DGRK payment-receipt reconciliation fault declared fixed.
+The Fédération des Entreprises du Congo held a tax briefing for its Kinshasa members (reported 1 October 2026). Two new provincial revenue bodies, DGIPK and DGTK, presented their duties beside the provincial finance minister. The federation wanted members to know which bodies may collect taxes and run audits. A provincial order of 17 September 2026 sets the transition.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: MOZ
 ledger_rows: 36
 not_held: 18
-record: fd722dbf4354
+record: b130d8f5bd3b
 ---
 
 # News, Oct – Nov 2026
@@ -290,7 +290,7 @@ DataReportal published its Digital 2027 report for Mozambique on 5 November 2026
 
 **[Plano Nacional Geoespacial de Electrificação de Menor Custo (PNGE-MC), 2026-2030 — Planeamento Integrado de Acesso à Energia para Moçambique](https://www.seforall.org/system/files/2026-11/whitepaper-national-geospatial-least-cost-electrification-plan_PT.pdf)** — Ministério dos Recursos Minerais e Energia (MIREME), Mozambique (hosted by SEforALL), 1 October 2026
 
-60.1% access end-2024; ~5m connections for universal access by 2030, 51% grid, 47% solar home systems; USD 4.9bn.
+Mozambique's energy ministry, MIREME, published the National Geospatial Least-Cost Electrification Plan for 2026-2030 in October 2026. The plan carries a foreword from minister Estevão Pale and sets out how to guide investment in electricity access. The plan was launched at an event on 6 November 2026, covered in the Estevão Pale item.
 
 </div>
 
@@ -298,7 +298,7 @@ DataReportal published its Digital 2027 report for Mozambique on 5 November 2026
 
 **[Mozambique: Estevão Pale unveils geospatial plan and integrated platform to guide electrification investment](https://clubofmozambique.com/news/mozambique-estevao-pale-unveils-geospatial-plan-and-integrated-platform-to-guide-electrification-investment/)** — Club of Mozambique, 9 November 2026
 
-Launched 6 Nov 2026; grid vs off-grid chosen per settlement; shared MIREME-ARENE-EDM-FUNAE dashboards; World Bank-funded.
+Mozambique's energy ministry launched the National Geospatial Least-Cost Electrification Plan 2026-2030 and the Integrated Electrification Platform in Maputo on 6 November 2026. The plan uses geospatial data to choose between grid extension and off-grid solutions for each settlement. The platform pools sector data from MIREME, ARENE, EDM and FUNAE. The World Bank funded the work, with technical assistance from SEforALL.
 
 </div>
 
@@ -466,7 +466,7 @@ The governor of Banco de Moçambique said on 28 October 2026 that the METIX inst
 
 **[OAM destaca importância dos Portais de Legislação e Jurisprudência para a transparência e confiança na Justiça](https://oam.org.mz/oam-destaca-importancia-dos-portais-de-legislacao-e-jurisprudencia-para-a-transparencia-e-confianca-na-justica/)** — Ordem dos Advogados de Moçambique, 2 October 2026
 
-Bar association welcomes Supreme Court legislation and case-law portals; impact hinges on regular updating.
+The Mozambique Bar Association (OAM) welcomed the Supreme Court's launch of a legislation portal and a case-law portal, in a statement of 2 October 2026. Its president, Thera Tobias Dai, attended the public presentation. The association called the portals a step in modernising justice and widening access to legal information, and said they help lawyers consult the law.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: LBY
 ledger_rows: 24
 not_held: 3
-record: df4c129ed4e7
+record: f64666c70eb5
 ---
 
 # News, Oct – Nov 2026
@@ -296,7 +296,7 @@ Libya's Health Minister chaired a consultative meeting on a 2026-2030 plan for d
 
 **[المحامي العام ورئيس مكتب التفتيش القضائي بمكتب النائب العام الليبي لـ "فيتو": الاشتباه في تزوير 34 ألف قيد بالأحوال المدنية في ليبيا.. وإدراج 1.2 مليون قضية بمنظومة التحول الرقمي](https://www.vetogate.com/5764136)** — فيتو, 4 November 2026
 
-Attorney General's Office: 1.2m cases since 1994 in its digital system; 34,000 civil-registry records suspected forged.
+Khalifa Ashour coordinates the Libyan Public Prosecution's digital transformation unit. Ashour told Vetogate on 4 November 2026 that 34,000 civil registry entries are suspected of forgery. Ashour said 1.2 million cases have been entered into the digital system. The remarks came at the third Public Prosecution international book fair in Tripoli.
 
 </div>
 
@@ -340,7 +340,7 @@ Libya's Passports, Nationality and Foreigners Affairs Authority received 773 e-v
 
 **[إطلاق منصة إلكترونية جديدة لتسهيل التجارة الخارجية في ليبيا](https://alwasat.ly/news/484587)** — Alwasat (Bawabat Al-Wasat), 10 November 2026
 
-Single LTFU access point after pilot; 53 procedures, 140 laws, 1,030 standards, 10 customs ports; online complaints.
+Libya's Ministry of Economy and Trade launched the National Trade Facilitation Enquiry Point platform after its pilot phase, reported on 10 November 2026. It is run with the Libya Trade Network. It covers 53 import, export and transit procedures, 140 laws and decisions, 32 international agreements, 1,030 standards and 10 customs ports, and takes online enquiries and complaints.
 
 </div>
 

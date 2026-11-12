@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: KEN
 ledger_rows: 90
 not_held: 5
-record: 9a83bdffe949
+record: 3e1b34068b65
 ---
 
 # News, Oct – Nov 2026
@@ -244,7 +244,7 @@ A former senior manager at a Kenyan bank testified, in a Sh1.5 billion data brea
 
 **[Quarter 1 FY 2026/2027 Consumer Complaints Report (complaints escalated to the Authority, July - September 2026)](https://www.ca.go.ke/sites/default/files/2026-11/Consumer%20Complaints%20Report%20for%20Q1%20FY%202026-2027.pdf)** — Communications Authority of Kenya, 5 November 2026
 
-479 escalated Jul-Sep 2026, 88.1% resolved; data 140, mobile money 57, voice resolution lowest at 66.7%.
+The Communications Authority of Kenya reported 479 consumer complaints escalated to it between July and September 2026. It resolved 422, a rate of 88.1%, and 57 remain under follow-up. Data services drew 140 complaints (29.2%), and the authority also logged 47 on fraud and scams and 49 on cybercrime.
 
 </div>
 
@@ -252,7 +252,7 @@ A former senior manager at a Kenyan bank testified, in a Sh1.5 billion data brea
 
 **[Where did my bundles go? Data tops telco complaints](https://nation.africa/kenya/business/where-did-my-bundles-go-data-tops-telco-complaints-5664676)** — Daily Nation, 10 November 2026
 
-CA's Jul-Sep 2026 return: 140 of 479 complaints on data, 44 on billing and early depletion; mobile money 57.
+Data services drew 140 of the 479 consumer complaints escalated to the Communications Authority of Kenya in July to September 2026, or 29.2%, Daily Nation reported on 10 November 2026. Mobile money followed with 57. Billing and premature bundle depletion made up 44 complaints, of which the authority resolved 37.
 
 </div>
 
@@ -784,7 +784,7 @@ Postbank's entry to PesaLink brings Kenya's interbank payments network to 80 ins
 
 **[Airtel Kenya Partners Pesalink to Expand Money Transfers to 30 Financial Institutions](https://techafricanews.com/2026/11/11/airtel-kenya-pesalink-money-transfers-30-financial-institutions/)** — Tech Africa News, 11 November 2026
 
-Airtel Money wallets reach 30 banks, SACCOs and microfinance banks via Pesalink; recipient account check added.
+Airtel Kenya and Integrated Payment Systems Limited, which operates Pesalink, signed an agreement on 10 November 2026. It lets Airtel Money users send funds from their wallets to accounts at 30 banks, SACCOs and microfinance banks on the Pesalink network. An account-confirmation check runs before each transfer (reported 11 November 2026).
 
 </div>
 

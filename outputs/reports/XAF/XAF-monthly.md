@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: XAF
 ledger_rows: 73
 not_held: 3
-record: 8d51f93099c4
+record: 22db25bf65af
 ---
 
 # News, Oct – Nov 2026
@@ -390,7 +390,7 @@ A draft AFRINIC policy, AFPUB-2026-IPv4-003-DRAFT01, submitted in June 2026 and 
 
 **[One Company Accounts for 80% of AFRINIC's IP Addresses Being Used Outside Africa](https://ipinfo.io/blog/80-percent-afrinics-ip-addresses-outside-africa)** — IPinfo, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
 
-AFRINIC 2.43% of measured IPv4 used out of region (24 Oct 2026); 81% of it in four Cloud Innovation blocks.
+IPinfo published an article by Oliver Gasser and João Tomé on 5 November 2026 on the WHEREIS study. The study compares where IP addresses are used with where they are registered. The authors say AFRINIC is the exception among the five regional registries. Most of its space used outside Africa sits in four blocks registered to one company, 80% of the total.
 
 </div>
 
@@ -1020,7 +1020,7 @@ CABRI published a policy brief on its 2025 budget practices survey of 18 African
 
 **[ECA calls for greater investment in Africa's health data systems to strengthen healthcare financing](https://www.uneca.org/stories/eca-calls-greater-investment-africas-health-data-systems-strengthen-healthcare-financing)** — Economic Commission for Africa, 10 November 2026
 
-Africa spends ~US$145bn a year on health; fewer than 1 in 5 countries fund health data systems domestically.
+The UN Economic Commission for Africa called on governments to treat health information systems as public infrastructure. The call came at the opening of the First Africa Health Data Forum in Nairobi on 10 November 2026. Chief of Staff Aboubakri Diaw spoke for Executive Secretary Claver Gatete. Diaw said Africa spends about $145 billion a year on health, yet planning often rests on incomplete population and mortality data.
 
 </div>
 
@@ -1028,7 +1028,7 @@ Africa spends ~US$145bn a year on health; fewer than 1 in 5 countries fund healt
 
 **[Un nouveau rapport de l’OMS met en évidence des lacunes majeures des systèmes d’information sanitaire en Afrique](https://afro.who.int/fr/news/un-nouveau-rapport-de-loms-met-en-evidence-des-lacunes-majeures-des-systemes-dinformation)** — WHO Regional Office for Africa, 10 November 2026
 
-40 countries assessed in 2024; maturity 59/100; 18% fund HIS by budget line; 20% have digital patient records.
+WHO's Regional Office for Africa launched a report on health information systems on 10 November 2026. In a 2024 assessment, systems in 40 of its 47 member states scored 59 of 100 for maturity. Of the 40, 19 notify at least 80% of deaths. 18% hold a dedicated budget line and 20% run digital patient records. The report was released at the First Africa Health Data Forum in Nairobi.
 
 </div>
 
@@ -1036,7 +1036,7 @@ Africa spends ~US$145bn a year on health; fewer than 1 in 5 countries fund healt
 
 **[Why Africa is struggling to turn health data into action](https://www.standardmedia.co.ke/health/health-science/article/2001561986/why-africa-is-struggling-to-turn-health-data-into-action)** — The Standard, 10 November 2026
 
-WHO SCORE assessment of 52 countries; regional maturity 59/100, none sustainable at using data for policy.
+A news report of 10 November 2026 covers the WHO report on health data systems presented at the First Africa Health Data Forum in Nairobi. WHO regional director Mohamed Janabi said the 2024 assessment gave the region a maturity score of 59 out of 100. Of 52 countries assessed, 49 had well-developed capacity to review health performance. None had reached sustainable capacity in using data for policy and action.
 
 </div>
 

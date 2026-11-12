@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: CMR
 ledger_rows: 29
 not_held: 3
-record: a2be214626e2
+record: e7d5d04b7226
 ---
 
 # News, Oct – Nov 2026
@@ -434,7 +434,7 @@ Cameroonian fintech REasy and Africa Global Logistics presented to Douala trader
 
 **[Foncier : le MINDCAF et Orange Cameroun préparent la mutation numérique de l'administration](https://loeilrepublicain.info/2026/10/16/foncier-le-mindcaf-et-orange-cameroun-preparent-la-mutation-numerique-de-ladministration/)** — L'Oeil républicain, 16 October 2026
 
-Scoping workshop sets 12 workstreams and a 2026-2030 roadmap; target of land titles in under 30 days.
+Cameroon's lands ministry, MINDCAF, and Orange Cameroun held a workshop in Yaoundé on 15 October 2026 to scope a land administration digitisation project. The plan runs to 2030. The ministry aims to bring the average time to obtain a land title under 30 days and to raise state land revenue by 40% over three years.
 
 </div>
 

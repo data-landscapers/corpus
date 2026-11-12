@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: BDI
 ledger_rows: 19
 not_held: 10
-record: bd18e8d98c87
+record: 1daeab7f652b
 ---
 
 # News, Oct – Nov 2026
@@ -380,7 +380,7 @@ Burundi's Prime Minister's Office launched the 2026 General Enterprise Census on
 
 **[Alertes](https://www.igebu.bi/alerte/)** — Institut Géographique du Burundi (IGEBU), 4 November 2026
 
-IGEBU's public archive of graded, region-specific rain alerts, March to November 2026.
+Burundi's meteorological institute, IGEBU, issued a moderate-severity heavy rain alert on 4 November 2026 for parts of the country, including Mugamba and Buyenzi. It had issued a similar alert on 27 October 2026. Both appear on its page as expired.
 
 </div>
 

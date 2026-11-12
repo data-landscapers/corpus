@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: CPV
 ledger_rows: 11
 not_held: 23
-record: 5cd77be4a118
+record: 2e2e6bd416fa
 ---
 
 # News, Oct – Nov 2026
@@ -152,7 +152,7 @@ Banco de Cabo Verde governor Óscar Santos again promised a pilot of the Speed m
 
 **[Retoma do cadastro predial no Tarrafal e São Salvador do Mundo](https://www.inforpress.cv/en/article-11888)** — Inforpress, 9 October 2026
 
-Cadastre resumes on Santiago: some 32,000 parcels to survey; national cadastral coverage put at about 33%.
+Cabo Verde resumed its building cadastre survey in Tarrafal and São Salvador do Mundo on 9 October 2026, Inforpress reported. Infrastructure minister Carlos Tavares said the work covers about 32,000 buildings: roughly 26,000 in Tarrafal and 6,000 in São Salvador do Mundo. Tavares said the cadastre supports legal security of property and land management.
 
 </div>
 

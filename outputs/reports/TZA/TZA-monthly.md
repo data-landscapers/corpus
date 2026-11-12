@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: TZA
 ledger_rows: 46
 not_held: 4
-record: ced90f96c7bd
+record: 330bd43787f7
 ---
 
 # News, Oct – Nov 2026
@@ -440,7 +440,7 @@ Tanzania's Deputy Minister for Industry and Trade Denis Londo said on 11 October
 
 **[Kamati ya Bunge yasisitiza wananchi kuelimishwa umuhimu wa hatimiliki za ardhi](https://www.lands.go.tz/news/kamati-ya-bunge-yasisitiza-wananchi-kuelimishwa-umuhimu-wa-hatimiliki-za-ardhi)** — Wizara ya Ardhi, Nyumba na Maendeleo ya Makazi, 26 October 2026
 
-e-Ardhi in use in 17 regions (Oct 2026); parliamentary committee presses rollout to all regions, title-deed awareness.
+Tanzania's parliamentary committee on Lands, Natural Resources and Tourism met in Dodoma on 21 October 2026 and discussed the land survey and titling report of the lands ministry. Deputy minister Kaspar Mmuya presented the report. Committee members asked citizens to be educated on the value of land titles. They also asked the ministry to extend the e-Ardhi land management system to all regions.
 
 </div>
 
@@ -448,7 +448,7 @@ e-Ardhi in use in 17 regions (Oct 2026); parliamentary committee presses rollout
 
 **[Tanzania targets nationwide rollout of e-Ardhi land system by June 2027](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/tanzania-targets-nationwide-rollout-of-e-ardhi-land-system-by-june-2027-2026-10-30-124103)** — The Guardian (IPP Media), 30 October 2026
 
-Lands PS Sanga: e-Ardhi live in 17 regions (Oct 2026); central digital land register, remote case tracking.
+The Guardian reported on 30 October 2026 that Tanzania aims to roll out the e-Ardhi land system nationwide by June 2027. Under e-Ardhi, applications are processed electronically and records sit in a central digital register. Anthony Sanga briefed editors on the system, the review of the 1995 National Land Policy and the Mtumba Government City project in Dodoma.
 
 </div>
 

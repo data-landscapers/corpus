@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: LBR
 ledger_rows: 25
 not_held: 6
-record: fc0a5594dacb
+record: fdf7ccf15fbf
 ---
 
 # News, Oct – Nov 2026
@@ -492,7 +492,7 @@ DataReportal published its Digital 2027 report for Liberia on 5 November 2026. I
 
 **[IMPACT BASE FORECAST](https://meteoliberia.com/products/impact-base-forecast/)** — Liberia Meteorological Service, 26 October 2026
 
-Liberia Met Service routine impact-based forecasts by county, product updates dated through 26 October 2026.
+The Liberia Meteorological Service publishes an impact-based forecast that states expected weather and its likely effects on people and infrastructure. Entries listed in October 2026, including those of 7 and 11 October, expected light rainfall across most of the country. The service says the product also gives safety advice for communities and agencies.
 
 </div>
 

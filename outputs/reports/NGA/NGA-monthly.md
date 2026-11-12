@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: NGA
 ledger_rows: 97
 not_held: 9
-record: 5ad79f42d998
+record: 4ba3e6816a03
 ---
 
 # News, Oct – Nov 2026
@@ -246,7 +246,7 @@ TechCabal reported on 6 November 2026 that Nigeria is reviewing its cybersecurit
 
 **[Senate Passes Bill to Regulate Systemically Important Fintechs](https://naltf.gov.ng/senate-passes-bill-to-regulate-systemically-important-fintechs/)** — National Assembly Library Trust Fund (NALTF), 10 November 2026
 
-SB. 959 amends BOFIA 2020; CBN stress tests, data-integrity checks, cybersecurity rules, public SII register.
+Nigeria's Senate passed SB. 959 on third reading on 10 November 2026. The bill amends the Banks and Other Financial Institutions Act 2020 so the Central Bank can designate and register fintechs and other non-bank institutions as Systemically Important Institutions. It requires stress tests, data-integrity assessments, cybersecurity safeguards and a public register of designated institutions.
 
 </div>
 
@@ -698,7 +698,7 @@ ALTON and four Nigerian operators filed a summons at the Federal High Court in A
 
 **[Nigeria’s active telecom lines hit 200m as 5G share crosses 5%](https://www.vanguardngr.com/2026/11/nigerias-active-telecom-lines-hit-200m-as-5g-share-crosses-5/)** — Vanguard, 10 November 2026
 
-200.3m lines in Sept 2026; teledensity 92.41%; broadband 128m (59.05%); 5G 5.05% of mobile connections.
+Nigeria's active telecom subscriptions passed 200 million for the first time since the 2024 NIN-SIM disconnections, reaching 200,337,097 in September 2026, on data from the Nigerian Communications Commission. Teledensity stood at 92.41% and broadband subscriptions at 128 million, or 59.05% penetration. 5G made up 5.05% of mobile connections.
 
 </div>
 

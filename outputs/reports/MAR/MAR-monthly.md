@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: MAR
 ledger_rows: 27
 not_held: 14
-record: d509afb4e4e8
+record: 322feca37cc7
 ---
 
 # News, Oct – Nov 2026
@@ -390,7 +390,7 @@ Samsung Pay launched in Morocco on 5 November 2026 using Mastercard's tokenisati
 
 **[Morocco is making property paperwork a little less complicated](https://lnt.ma/morocco-is-making-property-paperwork-a-little-less-complicated/)** — La Nouvelle Tribune, 11 November 2026
 
-Morocco's land conservation agency, ANCFCC, has introduced an online service for owners of registered property to request and download ownership certificates without visiting a registry office (reported 11 November 2026). The agency says it aims to reduce waiting times and protect personal information.
+Morocco's land conservation agency, ANCFCC, has opened an online service for ownership certificates (reported 11 November 2026). Owners of registered property can request and download them without visiting a registry office. The agency says it aims to cut waiting times and protect personal information.
 
 </div>
 

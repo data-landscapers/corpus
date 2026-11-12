@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: GAB
 ledger_rows: 37
 not_held: 12
-record: c52487131b30
+record: 3178eca34039
 ---
 
 # News, Oct – Nov 2026
@@ -618,7 +618,7 @@ Libreville city hall officially presented e-Taxe municipale, a platform for decl
 
 **[E-Tax : la Mairie de Libreville dresse un premier bilan de la collecte numérique des taxes de marché](https://medias241.ga/e-tax-la-mairie-de-libreville-dresse-un-premier-bilan-de-la-collecte-numerique-des-taxes-de-marche/)** — Medias241, 1 November 2026
 
-Launched 12 Jun 2026, E-Tax covers 15 markets, ~2,000 traders, 4,000+ transactions; ~FCFA 210m via mobile money.
+Libreville's town hall reviewed its E-Tax market tax platform on 30 October 2026, more than three months after launch on 12 June 2026. Mayor Eugène M'ba chaired the session. Nearly 2,000 traders are enrolled, 15 markets are covered and over 4,000 transactions are recorded. Gabonreview reports about 200 million FCFA collected through Airtel Money and 10 million through Moov.
 
 </div>
 
@@ -632,7 +632,7 @@ Launched 12 Jun 2026, E-Tax covers 15 markets, ~2,000 traders, 4,000+ transactio
 
 **[Gabon: Digitalisation des collectivités locales - Le Haut-Ogooué, première étape de l'inventaire national du parc informatique](https://fr.allafrica.com/stories/202610300423.html)** — allAfrica, 29 October 2026
 
-Phase 2 of national inventory of local administrations' ICT equipment from 26 Oct 2026; phase 1 surveyed 9 capitals.
+Gabon's digital economy ministry began a national mission on 26 October 2026 to inventory the IT equipment of local administrations, starting in Haut-Ogooué. Arnaud Ona Ndong leads the team, which visits town halls, prefectures and the governorate. This is phase 2 of a national diagnosis. Phase 1 ran from 22 April to 6 May 2026 in the nine provincial capitals.
 
 </div>
 

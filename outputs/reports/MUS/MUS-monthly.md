@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: MUS
 ledger_rows: 38
 not_held: 7
-record: f50a0184d377
+record: 553843c54be0
 ---
 
 # News, Oct – Nov 2026
@@ -552,7 +552,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[Transport : Osman Mahomed mise sur la modernisation et la sécurité routière](https://lexpress.mu/node/564547)** — L'Express (Maurice), 9 November 2026
 
-NLTA IT overhaul awarded to State Informatics; bus GPS fleet system delayed by review panel; e-ticketing in tender.
+Mauritius awarded the overhaul of the National Land Transport Authority's IT system to State Informatics Ltd. The land transport minister's second annual report says so (reported 9 November 2026). GPS tracking of about 2,000 buses was delayed by an Independent Review Panel challenge and re-evaluation. Bids for a cashless e-ticketing consultancy were still under evaluation.
 
 </div>
 

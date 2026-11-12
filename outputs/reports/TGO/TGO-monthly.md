@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: TGO
 ledger_rows: 28
 not_held: 16
-record: f53304456e23
+record: eddf9c222dee
 ---
 
 # News, Oct – Nov 2026
@@ -230,7 +230,7 @@ BCEAO said on 5 November 2026 that its PI-SPI instant payment platform had proce
 
 **[Foncier : après la nomination de son DG, l'ANDF face au défi de son opérationnalisation](https://www.togofirst.com/fr/gouvernance-economique/1510-20352-foncier-apres-la-nomination-de-son-dg-l-andf-face-au-defi-de-son-operationnalisation)** — Togo First, 15 October 2026
 
-Land agency gets first DG (6 Oct 2026); Grand Lomé issues 35,000 parcel plans a year but about 550 titles.
+Togo's council of ministers named notary Dominique Méméssilé Gnazo as the first director general of the national land agency, ANDF, on 6 October 2026, Togo First reported. The decree creating the agency dates from September 2025. The cadastre and land registry services keep working until the agency is fully operational. The World Bank approved $150 million in December 2025 to support the reform.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: ZMB
 ledger_rows: 26
 not_held: 32
-record: 6410d151ea8b
+record: 248a3d346566
 ---
 
 # News, Oct – Nov 2026
@@ -272,7 +272,7 @@ A University of Zambia study, reported on 8 November 2026, examined the electron
 
 **[982 Properties vanish after ZILMIS to ZILAS transition](https://zambianbusinesstimes.com/982-properties-vanish-after-zilmis-to-zilas-transition/)** — Zambian Business Times, 26 October 2026
 
-Auditor General report for 2025 finds 982 ZILMIS property records missing from ZILAS; outages lasting weeks.
+Zambian Business Times reported on 26 October 2026 that 982 property records in the old ZILMIS land system are missing from its successor, ZILAS. The report cites an official government report and the 2025 Auditor General's report. Property consultant Reuben Chongo said network outages lasting weeks disrupt users. The rest of the article is behind a subscription.
 
 </div>
 
@@ -324,7 +324,7 @@ Zambia's Auditor General reported that the Zambia Revenue Authority fined 393 ta
 
 **[Judiciary rolls out nationwide Electronic Case Management System](https://times.co.zm/judiciary-rolls-out-nationwide-electronic-case-management-system/)** — Times of Zambia, 31 October 2026
 
-Pilot in four registries at Lusaka and Kitwe High Courts; 24-hour e-filing, automated calendars, notifications.
+Zambia's Judiciary launched its nationwide Electronic Case Management System, Times of Zambia reported on 31 October 2026. The first phase is a pilot in four registries at the Lusaka and Kitwe High Courts. Supreme Court judge Nigel Mutuna told a media briefing that the paper filing system had slowed the administration of justice.
 
 </div>
 
@@ -332,7 +332,7 @@ Pilot in four registries at Lusaka and Kitwe High Courts; 24-hour e-filing, auto
 
 **[CHIEF JUSTICE OPENS TRAINING AHEAD OF DIGITAL COURT SYSTEM ROLLOUT](https://diamondtvzambia.com/chief-justice-opens-training-ahead-of-digital-court-system-rollout/)** — Diamond Media, 2 November 2026
 
-Training of trainers for the eCMS opened 2 November 2026; e-filing and real-time case tracking promised.
+Chief Justice Mumba Malila opened a training-of-trainers workshop for Zambia's Electronic Case Management System, Diamond Media reported on 2 November 2026. Malila said the system should allow electronic filing, real-time case tracking and remote access for lawyers. Malila added that some litigants had travelled long distances only to learn their files could not be found.
 
 </div>
 
