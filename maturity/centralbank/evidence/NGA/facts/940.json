@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-senate-passes-bill-to-regulate-systemically-important-fintechs",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "The National Assembly Library Trust Fund reports Nigeria's Senate passed SB. 959 at third reading on 2026-11-10, a bill to let the CBN designate, register and supervise fintechs as systemically important institutions; House concurrence and assent are not reported.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "SB. 959, amending the Banks and Other Financial Institutions Act 2020",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

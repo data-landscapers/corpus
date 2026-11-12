@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-31-lby-alwasat-cbl-ratibak-lahzi-in-house-payroll-platform",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Central Bank of Libya said on 31 July 2025 that it was sending public salaries to commercial bank accounts over the bank's own instant payment network.",
+   "as_of": "2025-07-31",
+   "date_precision": "day",
+   "system": "CBL instant payment network",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CBL instant payment network",
+   "country_label": "Libya",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Central Bank of Libya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
