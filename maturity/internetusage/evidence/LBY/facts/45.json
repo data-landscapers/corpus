@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-06-lby-libya-among-africa-s-most-affected-countries-by-internet-shutdowns-in",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Top10VPN user count",
+   "country_label": "Libya: 6.62 million users, penetration 88.5% (2025, as reported by LibyaReview)",
+   "class": "other",
+   "platform": "",
+   "owner": "Top10VPN",
+   "tiers": ""
+  }
+ ],
+ "note": "Figure is an unattributed user count and penetration rate, not an ITU estimate or national survey."
+}
