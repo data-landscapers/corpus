@@ -20,9 +20,9 @@ The African Charter on Democracy, Elections and Governance and the AU's election
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 11 |
+| 5 Leading | 12 |
 | 4 Operating | 18 |
-| 3 Established | 10 |
+| 3 Established | 9 |
 | 2 Nascent | 3 |
 | 1 Absent | 2 |
 | Unplaced | 6 |
@@ -103,6 +103,15 @@ The voters' roll was drawn from or checked against the ID or civil register in 2
 
 - The Daily Monitor says the national voter register was compiled using biometric data extracted from the National Identification and Registration Authority (Nira) ([source, 2025-10-29](https://www.monitor.co.ug/uganda/news/national/one-man-one-vote-inside-new-ec-biometric-system-5249126)).
 - The Electoral Commission says the National Voters Register was displayed in 2025 and urges the public to use its official website ec.or.ug/register to verify voter registration particulars and polling station ([source, 2025-12-31](https://ec.or.ug/sites/default/files/press/Statement%20by%20EC%20Chairperson%20General%20Election%20Updates.31.12.2025.pdf)).
+
+### Zimbabwe: 5 Leading
+
+Zimbabwe's biometric voters' roll could be checked online or by text in 2025 and was cleaned against the population database in 2026.
+
+- The Civil Registry Department and ZEC began handing voter registration and voters' roll management to the Registrar-General, including Biometric Voter Registration (BVR) kits and network infrastructure, with continuous voter registration continuing ([source, 2026-08-18](https://www.zimbabwesituation.com/news/rg-zec-begin-nationwide-handover-of-voter-registration-mandate/)).
+- The report says the Zimbabwe Electoral Commission maintains biometric voter databases ([source, 2025](https://privacyscorecardreport.com/privacy-scorecard-report-2025/zimbabwe/zimbabwes-data-protection-regime/)).
+- Zimbabwe's electoral commission told voters in the August 2025 by-election wards to check their registration by the NetOne-only *265# code or online inspection, and says it displays the voters' roll two days before polling ([source, 2025-08-02](https://bulawayo24.com/index-id-news-sc-national-byo-255854.html)).
+- Justice Minister Ziyambi said ZEC was already using the Registrar-General's national population database to clean up the voters' roll, since it shows who is alive, dead and of voting age ([source, 2026-07-23](https://www.zbcnews.co.zw/registrar-general-to-take-over-voters-roll-under-constitutional-reforms/)).
 
 ### Cameroon: 4 Operating
 
@@ -288,13 +297,6 @@ The voters' roll was held digitally in 2025; voters checking it is not on record
 
 - An OIF audit mission judged the biometric electoral register, with 4,432,936 voters counted after the 2023 census, reliable enough for the regional and legislative polls ([source, 2023-11-15](https://togoscoop.tg/23015-2/)).
 - A presidential decree of 1 April 2025 opened roll revision from 7 to 23 April 2025, in which the CENI revises the electoral file and issues biometric voter cards ([source, 2025-04](https://togopresse.tg/la-revision-des-listes-electorales-annoncee-du-07-au-23-avril-2025-en-prelude-aux-elections-municipales/)).
-
-### Zimbabwe: 3 Established
-
-Zimbabwe's electoral commission kept a biometric voter database in 2025 and 2026; whether voters could check the roll is not known.
-
-- The Civil Registry Department and ZEC began handing voter registration and voters' roll management to the Registrar-General, including Biometric Voter Registration (BVR) kits and network infrastructure, with continuous voter registration continuing ([source, 2026-08-18](https://www.zimbabwesituation.com/news/rg-zec-begin-nationwide-handover-of-voter-registration-mandate/)).
-- The report says the Zimbabwe Electoral Commission maintains biometric voter databases ([source, 2025](https://privacyscorecardreport.com/privacy-scorecard-report-2025/zimbabwe/zimbabwes-data-protection-regime/)).
 
 ### Botswana: 2 Nascent
 

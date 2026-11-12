@@ -103,3 +103,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,LSO,dpi.registry--electoral-register,ladder,5,3,LSO-011;LSO-006;LSO-007,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-09,MUS,dpi.registry--electoral-register,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
 2026-11-09,ZWE,dpi.registry--electoral-register,ladder,5,3,ZWE-001;ZWE-004,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-12,ZWE,dpi.registry--electoral-register,fact,3,5,ZWE-001;ZWE-004;ZWE-005;ZWE-003,"ZEC told voters in August 2025 to check their registration online or by *265#: question 3 answered, and the population-database check answers 4"

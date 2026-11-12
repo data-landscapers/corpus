@@ -130,6 +130,7 @@ NGA,INEC voter registration system,Nigeria,electoral,,INEC,,2026-10-31-nga-inec-
 NGA,INEC online register portal,NGA,electoral,web,INEC,,2026-10-26-nga-how-to-check-your-name-on-inec-s-voters-register-online
 NGA,Automated Biometric Identification System (ABIS),Nigeria,electoral,,INEC,,2026-11-10-nigeria-biometric-election-cleanup
 NGA,Bimodal Voter Accreditation System (BVAS),Nigeria,other,,INEC,,2026-11-10-nigeria-biometric-election-cleanup
+NGA,Voters' Register,Nigeria,electoral,biometric register with BVAS accreditation,INEC,,2026-11-09-nga-inec-battles-to-clean-voters-register
 RWA,amatora.nec.gov.rw,Rwanda,electoral,,National Electoral Commission,,2024-05-18-rwa-rwandainnigeria-diaspora-voter-registration
 RWA,voter register,Rwanda,electoral,,National Electoral Commission,,2024-06-30-rwa-9-7-mln-people-eligible-to-vote-in-rwanda-election-electoral-body
 SEN,ECOWAS biometric ID card,Senegal,other,,,,2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration
@@ -155,6 +156,7 @@ SWZ,EBC biometric voter registration,Eswatini,electoral,biometric capture,Electi
 SWZ,Continuous Voter Registration,Eswatini,electoral,computers and biometric capture,Elections and Boundaries Commission,,2026-09-11-swz-positivenews-biometric-voter-registration
 SWZ,Optimal Mark Recognition (OMR) System,Eswatini,electoral,OMR,Elections and Boundaries Commission,,2026-08-29-ebc-electoral-process
 SWZ,Electronic voter registration,Electronic voter registration,electoral,mobile phone and registration corners,Elections and Boundaries Commission,,2026-10-13-swz-15-000-emaswati-registered-as-ebc-urges-youth-disabled-to-participate
+SWZ,Election management system (EMS),Eswatini,other,Sionary Investments upgrade of Android EMS,Elections and Boundaries Commission,national,2024-01-01-swz-ebc-elections-and-the-e36-million-scandal
 SYC,voters' register,Seychelles,electoral,,Electoral Commission of Seychelles,,2026-01-01-ecs-voter-registration-faq
 SYC,Online Voter Registration,Seychelles,electoral,ecs.sc,Electoral Commission of Seychelles,,2025-07-14-syc-nation-ecs-encourages-online-registration
 TCD,fichier électoral biométrique,Tchad,electoral,,CONOREC,,2023-08-21-tcd-eisa-revision-fichier-electoral-biometrique
@@ -177,6 +179,7 @@ UGA,National Voters Register,Uganda,electoral,,Electoral Commission,,2025-12-31-
 UGA,Biometric Voter Verification Kit (BVVK),Uganda,other,,Electoral Commission,,2025-12-31-ec-chairperson-statement-roadmap-progress
 UGA,Biometric voter verification system,Uganda,electoral,biometric voter verification kit,Electoral Commission,,2025-12-24-biometric-voter-verification-regulations-2025
 UGA,Biometric Voter Verification System (BVVS),Uganda,electoral,Simi Valley Company kits,Electoral Commission,,2025-10-29-uga-one-man-one-vote-inside-new-ec-biometric-system
+UGA,EC Voters Register,Uganda,electoral,,Electoral Commission,,2025-07-01-uga-national-backbone-infrastructure-project-nbi-egi
 ZAF,IEC WhatsApp registration service,South Africa,other,WhatsApp,Independent Electoral Commission,national,2026-08-07-south-africa-whatsapp-voter-registration
 ZAF,online voter registration portal,South Africa,electoral,online,Electoral Commission (IEC),national,2026-07-30-iec-online-voter-registration-south-africa
 ZAF,online voter registration,South Africa,other,online,IEC,national,2025-03-10-minister-schreiber-iec-electronic-voting
@@ -193,3 +196,4 @@ ZMB,Biometric Voter Registration Kits and ABIS,Zambia,electoral,"BVR kits, ABIS,
 ZWE,Biometric Voter Registration (BVR),ZWE,electoral,BVR kits,Registrar-General (from ZEC),,2026-08-18-zwe-rg-zec-voter-registration-handover
 ZWE,national population database,Zimbabwe,other,,Registrar-General's Office,,2026-07-23-zimbabwe-registrar-general-to-take-over-voters-roll
 ZWE,ZEC biometric voter databases,Zimbabwe,electoral,,Zimbabwe Electoral Commission,,2025-01-01-zwe-zimbabwe-s-data-protection-regime
+ZWE,ZEC voter registration check (*265# and online portal),Zimbabwe,electoral,NetOne USSD and web portal,Zimbabwe Electoral Commission,national,2025-08-02-zwe-bulawayo24-zec-voter-registration-check-netone-only

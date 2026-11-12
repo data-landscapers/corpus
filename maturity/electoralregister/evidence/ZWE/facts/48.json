@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-02-zwe-bulawayo24-zec-voter-registration-check-netone-only",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "Zimbabwe's electoral commission told voters in the August 2025 by-election wards to check their registration by the NetOne-only *265# code or online inspection, and says it displays the voters' roll two days before polling.",
+   "as_of": "2025-08-02",
+   "date_precision": "day",
+   "system": "ZEC voter registration check (*265# and online portal)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZEC voter registration check (*265# and online portal)",
+   "country_label": "Zimbabwe",
+   "class": "electoral",
+   "platform": "NetOne USSD and web portal",
+   "owner": "Zimbabwe Electoral Commission",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

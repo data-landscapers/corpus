@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-09-nga-inec-battles-to-clean-voters-register",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "Vanguard reports Nigeria holds its voters' register in biometric registration and electronic databases, and an INEC source says the commission has carried out three phases of continuous voter registration.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Voters' Register (INEC)",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "An INEC source tells Vanguard the register was displayed at wards and online, and that hundreds of thousands of claims and objections have been received.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Voters' Register (INEC)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voters' Register",
+   "country_label": "Nigeria",
+   "class": "electoral",
+   "platform": "biometric register with BVAS accreditation",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

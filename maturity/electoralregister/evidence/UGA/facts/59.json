@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-uga-national-backbone-infrastructure-project-nbi-egi",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "NITA-U lists the Electoral Commission's EC Voters Register among government services online.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "EC Voters Register",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EC Voters Register",
+   "country_label": "Uganda",
+   "class": "electoral",
+   "platform": "",
+   "owner": "Electoral Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
