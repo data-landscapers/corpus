@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-29-mrt-le-ministre-de-la-transformation-numerique-mon-departement-semploie-a",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "AMI reports that in the National Assembly the minister of Digital Transformation described the national agenda for digital transformation 2022-2025, on four axes covering infrastructure, digital management, sectoral transformation and innovation, which the deputy's question says Mauritania adopted.",
+   "as_of": "2025-05-29",
+   "date_precision": "day",
+   "system": "Agenda national pour la transformation numérique 2022-2025",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2025",
+   "fact": "AMI reports the national digital transformation agenda covers 2022-2025.",
+   "as_of": "2025-05-29",
+   "date_precision": "day",
+   "system": "Agenda national pour la transformation numérique 2022-2025",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

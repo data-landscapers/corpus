@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-nga-transparency-and-accountability-as-trust-builders-in-the-african-data",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "Pollicy says the DRC launched the Plan National du Numérique in 2019 as a strategic framework for the digital economy.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Plan National du Numérique",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plan National du Numérique",
+   "country_label": "Plan National du Numérique",
+   "platform": "",
+   "owner": "",
+   "tiers": "",
+   "class": "national"
+  }
+ ],
+ "note": ""
+}

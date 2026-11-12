@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-31-mus-public-private-people-partnership-ministry-of-ict-kicks-off-first-indu",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "The document says the Digital Transformation Blueprint 2025-2029 was launched in May 2025, setting out the country's vision to use AI for growth and service delivery; it does not say who adopted it.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2029",
+   "fact": "The Digital Transformation Blueprint is named as covering 2025 to 2029.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "country_label": "Mauritius",
+   "class": "national",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
