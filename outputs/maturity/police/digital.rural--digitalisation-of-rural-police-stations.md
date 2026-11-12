@@ -34,7 +34,7 @@ The norm is Corpus's own: the AFRIPOL Statute of 2017 connects national police a
 
 ### South Africa: 4 Operating
 
-Case dockets were captured digitally at 998 of 1,157 police stations in May 2021, 86.3% of all police stations; no source found reports the rural share.
+Case dockets were captured digitally at 998 of 1,157 police stations in May 2021, 86.3% of all police stations; nothing found reports the rural share.
 
 - The Acting Minister of Police replies that when a complaint is taken at the station's Community Service Centre and the elements of a crime exist, a case docket is opened and captured on the Crime Administration System (CAS)/Investigate Case Docket Management System (ICDMS); the reply is undated and the question's date, 31 December 2025, is used ([source, 2025-12-31](https://pmg.org.za/committee-question/35281/)).
 - The Acting Minister of Police replies that the docket is captured on CAS/ICDMS at the station by the Community Service Centre and signed off on the system by the Shift Commander to the Detective Commander, and that Crime Registrar officials at station, provincial and national level verify the registered dockets on the same system, the station checking each 24 hours' registrations; a physical docket is kept beside it; the reply is undated and the question's date, 31 December 2025, is used ([source, 2025-12-31](https://pmg.org.za/committee-question/35281/)).
@@ -51,6 +51,7 @@ Complaints ran digitally from national police stations to the courts by March 20
 - The Ministry of Justice says the SIJ's digital criminal-process subsystem takes in the Polícia Nacional's stations and the Polícia Judiciária's delegations, so that the handling of complaints is essentially digital from the police to the courts, with about 25,000 autos and more than 18,000 cases processed end to end by 16 March 2026 ([source, 2026-03-16](https://justica.gov.cv/w/nosi-entrega-sistema-de-informa%C3%A7%C3%A3o-da-justi%C3%A7a-penal)).
 - The Ministry of Justice says the SIJ solution integrates the Polícia Nacional's stations and the Polícia Judiciária's delegations, complaints being handled digitally from the police through to the courts in the one system; it does not describe how the station enters the complaint ([source, 2026-03-16](https://justica.gov.cv/w/nosi-entrega-sistema-de-informa%C3%A7%C3%A3o-da-justi%C3%A7a-penal)).
 - The Ministry of Justice's account of the SIJ criminal-process subsystem in the Polícia Nacional's stations gives no count or share of stations using it ([source, 2026-03-16](https://justica.gov.cv/w/nosi-entrega-sistema-de-informa%C3%A7%C3%A3o-da-justi%C3%A7a-penal)).
+- The Attorney General's despacho of 16 January 2025 recalls portaria 50/2024 of 27 December 2024, which brings the justice information system SIJ into operation in the Polícia Nacional services of the Praia and São Vicente districts from 30 January 2025 ([source, 2024-12-27](https://boe.incv.cv/Bulletins/DownloadAct?id=73434)).
 
 ### Ghana: 3 Established
 
@@ -65,7 +66,7 @@ Case dockets were held digitally in 55 police stations across seven regions in 2
 
 ### Mauritius: 3 Established
 
-All police stations had computers linked to the headquarters complaint and case system in 2025; no source found says how many stations enter records in it.
+All police stations had computers linked to the headquarters complaint and case system in 2025; nothing found says how many stations enter records in it.
 
 - The Prime Minister, on information from the Commissioner of Police, told the National Assembly that the Crime Occurrence Tracking System is used for the management and tracking of complaints and declarations from initial reporting to final case disposal, and has been operational since 2011 ([source, 2025-06-17](https://mauritiusassembly.govmu.org/mauritiusassembly/index.php/download/472/2025/23646/debate-no-16-of-2025-unrevised-tuesday-17-june-2025.pdf)).
 - The Prime Minister, on information from the Commissioner of Police, described the Crime Occurrence Tracking System as a digital platform connecting all police stations to the main server at Police Headquarters, used on personal computers in the stations ([source, 2025-06-17](https://mauritiusassembly.govmu.org/mauritiusassembly/index.php/download/472/2025/23646/debate-no-16-of-2025-unrevised-tuesday-17-june-2025.pdf)).
@@ -73,7 +74,7 @@ All police stations had computers linked to the headquarters complaint and case 
 
 ### Morocco: 3 Established
 
-Police stations record complaints and cases in connected national systems, cases in 16 of 22 commands in 2025; no source found reports the share of stations.
+Police stations record complaints and cases in connected national systems, cases in 16 of 22 commands in 2025; nothing found reports the share of stations.
 
 *Advancing.*
 
@@ -130,7 +131,7 @@ A criminal records system covering crime report to sentence was still being buil
 
 ### Kenya: 2 Nascent
 
-Seventy-six stations around Nairobi had a digital occurrence book in 2023; no source found reports in 2026 one was still being procured, and its use now.
+Seventy-six stations around Nairobi had a digital occurrence book in 2023; in 2026 a national one was still being procured.
 
 *Advancing.*
 
@@ -143,7 +144,7 @@ Seventy-six stations around Nairobi had a digital occurrence book in 2023; no so
 
 ### Liberia: 2 Nascent
 
-Six officers in the capital's county began entering crime reports on tablets in a 2021 pilot; no source found says whether any station outside it does.
+Six officers in the capital's county began entering crime reports on tablets in a 2021 pilot; nothing found says whether any station outside it does.
 
 - UNDP reports a police officer saying she now inputs information into a tablet as crime reports come in, with suspects' biodata, photos and GPS locations, before any arrest; no date is given for the practice, so the document's published date is used ([source, 2023-03-09](https://www.undp.org/liberia/stories/policewoman-breaks-digital-barrier-new-crime-statistics-and-information-system)).
 - UNDP describes CSIS as an online system of two parts, a smartphone or tablet on which the officer enters the crime report and an online portal that aggregates and analyses the information for Liberia National Police decision-makers; reports are also submitted by email. No date is given for the description, so the document's published date is used ([source, 2023-03-09](https://www.undp.org/liberia/stories/policewoman-breaks-digital-barrier-new-crime-statistics-and-information-system)).
@@ -163,7 +164,7 @@ Tripoli's police stations got a digital system for investigation reports in Dece
 
 ### Malawi: 2 Nascent
 
-Officers were trained in July 2026 for a crime management system's introduction, after a 2022 pilot in six districts; no source found reports stations using it.
+Officers were trained in July 2026 for a crime management system's introduction, after a 2022 pilot in six districts; nothing found reports stations using it.
 
 *Advancing.*
 
@@ -182,7 +183,7 @@ A police information system launched in June 2025 runs in Nouakchott's commissar
 
 ### Niger: 2 Nascent
 
-In 2019 a team of eight in Niamey entered cases into the police database; no source found says whether any station outside the capital records digitally.
+In 2019 a team of eight in Niamey entered cases into the police database; nothing found says whether any station outside the capital records digitally.
 
 - EUCAP Sahel Niger reports that the SIPAO database holds offences, criminals' identities and criminal proceedings, that the team recording criminal acts had entered more than 8,000 cases and that 700 new cases were recorded in the month; the article gives no date for the month, so the date is its publication ([source, 2019-05-23](https://trust-fund-for-africa.europa.eu/news/wapis-sipao-un-fichier-de-police-pour-le-niger-2019-05-23_en)).
 - EUCAP Sahel Niger reports that cases are entered in SIPAO by a team of 8 under the director of the Police Technique et Scientifique in Niamey, who is responsible for recording criminal acts in Niger, while operators are being trained to record data directly from their own service; it does not say from what the team keys, and the date is the article's publication ([source, 2019-05-23](https://trust-fund-for-africa.europa.eu/news/wapis-sipao-un-fichier-de-police-pour-le-niger-2019-05-23_en)).
@@ -212,7 +213,7 @@ A digital case file system was installed and central stations in 23 regions conn
 
 ### Togo: 2 Nascent
 
-Police said in April 2026 all police and gendarmerie stations have the regional police information tool; no source found says whether any enters reports in it.
+Police said in April 2026 all police and gendarmerie stations have the regional police information tool; nothing found says whether any enters reports in it.
 
 - A police divisional commissioner said on 14 April 2026 that all commissariats and gendarmerie brigades in Togo have the SIPAO tool; this is a statement by the police, with no count of stations given ([source, 2026-04-14](https://togoenlive.tg/sipao-reflexions-a-lome-sur-lappropriation-et-la-perennisation-aux-niveaux-national-et-regional)).
 
@@ -283,7 +284,7 @@ Stations made statements, reports and the crime diary by hand in 2021 and 2022; 
 
 ### Sierra Leone: 1 Absent
 
-Police records were paper-based in 2024 and statements still taken on stationery in July 2026; no source found says whether the planned case system has begun.
+Police records were paper-based in 2024 and statements still taken on stationery in July 2026; nothing found says whether the planned case system has begun.
 
 - The Calabash reports that, after the Sierra Leone Police handed 39 laptops to Local Unit Commanders for electronic correspondence, traditional stationery would be kept mainly for operational work such as statement-taking and physical record-keeping; the handover is undated, so the article's published date is used ([source, 2026-07-27](https://thecalabashnewspaper.com/slp-embraces-digital-transformation-with-distribution-of-computers-to-local-unit-commanders/)).
 - The Sierra Leone Police's own Strategic Development Plan 2025-2029 lists among its priorities a transition from a paper-based to a digital records management system, and among its weaknesses that internal records management interventions have not worked and a digital system is necessary; the monitoring framework sets the baseline at 2024 ([source, 2024](https://www.undp.org/sites/g/files/zskgke326/files/2025-04/police_strategy_booklet_29th_jan-2025.pdf)).
@@ -291,7 +292,7 @@ Police records were paper-based in 2024 and statements still taken on stationery
 
 ### Somalia: 1 Absent
 
-Police used paper-based systems in April 2024, when a donor-funded case system was tendered for Mogadishu only; no source found says whether police now use one.
+Police used paper-based systems in April 2024, when a donor-funded case system was tendered for Mogadishu only; nothing found says whether police now use one.
 
 - IDLO's request for proposal of 19 April 2024 states that the Somali Police and the Custodial Corps use paper-based systems and have never made a serious attempt to develop an electronic case management system ([source, 2024-04-19](https://www.idlo.int/sites/default/files/rfp_n-96-2024-som_electronic_case_management_system.pdf)).
 - IDLO's request for proposal of 19 April 2024 states that the Police use paper-based systems, and that the planned IECMS would be the first electronic case management system for Somalia's federal justice institutions ([source, 2024-04-19](https://www.idlo.int/sites/default/files/rfp_n-96-2024-som_electronic_case_management_system.pdf)).
@@ -304,13 +305,13 @@ Police stations took reports on paper in 2022, before the war; no source found s
 
 ### Congo: Unplaced
 
-A 2014 survey of two towns found police stations working by hand; no source found reports the rest of the country, so no stage is set.
+A 2014 survey of two towns found police stations working by hand; nothing found reports the rest of the country, so no stage is set.
 
 Not established: The statement of absence is from 2014 and covers the commissariats of Pointe-Noire and Nkayi only; nothing is held on Brazzaville, on the rest of the country or on the gendarmerie beyond one brigade, and nothing dated since. Governance and the last twelve months are not established. Parent ruling: the absence rests on a 2014 survey of two towns (Pointe-Noire and Nkayi), which does not carry the country; stage 1 is a claim and is not made on it.
 
 ### Egypt: Unplaced
 
-A rights group said in 2021 that stations often lack the means to type reports; no source found reports digital recording, so no stage is set.
+A rights group said in 2021 that stations often lack the means to type reports; nothing found reports digital recording, so no stage is set.
 
 Not established: The one usable fact is from 2021 and says stations often lack the technology to write reports on a computer, which is short of saying every station records on paper; it names no system, no count of stations and no place. EGY-001 to EGY-003 are from the excluded source and set nothing, so the Digital Justice Platform is not established; governance and the last twelve months are not held. Parent ruling: the one admissible fact (2021) says stations often lack the means to write reports on a computer, which is short of a statement that stations record on paper only.
 
@@ -328,7 +329,7 @@ Not established: The newest usable facts are dated 31 March 2021: ten police and
 
 ### Lesotho: Unplaced
 
-An inspection begun in 2023 found posts without stationery keeping registers by hand; no source found says what other stations do, so no stage is set.
+An inspection begun in 2023 found posts without stationery keeping registers by hand; nothing found says what other stations do, so no stage is set.
 
 Not established: The one usable fact, from the Ombudsman's inspection begun in July 2023 and so older than three years, shows five named posts keeping registers and forms by hand; it does not say that stations record on paper only, nor what the other inspected stations do. No records system for stations is named in any evidence row, and nothing has been found on governance, the records made, the stations or the last twelve months. The two rows stating paper recording nationwide are from the excluded source.
 
@@ -340,13 +341,13 @@ Not established: No admitted source says how stations or brigades record today: 
 
 ### Algeria: No evidence
 
-Only public online services, traffic-fine payment and criminal registers are held, to 2026; no source found says how stations record reports, so no stage is set.
+Only public online services, traffic-fine payment and criminal registers are held, to 2026; nothing found says how stations record reports, so no stage is set.
 
 Not established: The only rows held are from a source the study excludes. No held source states whether stations record reports or cases on paper or digitally, in what system, or in how many stations; what is held names systems of noted classes only.
 
 ### Angola: No evidence
 
-Only surveillance, identification and personnel systems are held, to 2026; no source found says whether stations record on paper or digitally, so no stage is set.
+Only surveillance, identification and personnel systems are held, to 2026; nothing found says whether stations record on paper or digitally, so no stage is set.
 
 Not established: The only rows held are from a source the study excludes. No held source states whether stations record reports or cases on paper or digitally, in what system, or in how many stations; what is held names systems of noted classes only.
 
@@ -394,7 +395,7 @@ Not established: The only rows held are from a source the study excludes. No hel
 
 ### Djibouti: No evidence
 
-Only body cameras (2026), a gendarmerie intranet and a fingerprint file are held; no source found says how stations record reports, so no stage is set.
+Only body cameras (2026), a gendarmerie intranet and a fingerprint file are held; nothing found says how stations record reports, so no stage is set.
 
 Not established: The only rows held are from a source the study excludes. No held source states whether stations record reports or cases on paper or digitally, in what system, or in how many stations; what is held names systems of noted classes only.
 
@@ -412,7 +413,7 @@ Not established: The only rows held are from a source the study excludes. No hel
 
 ### Madagascar: No evidence
 
-The police opened an online platform for reporting violence and disappearances in 2026; no source found says how stations record reports, so no stage is set.
+The police opened an online platform for reporting violence and disappearances in 2026; nothing found says how stations record reports, so no stage is set.
 
 Not established: The only rows held are from a source the study excludes. No held source states whether stations record reports or cases on paper or digitally, in what system, or in how many stations; what is held names systems of noted classes only.
 
@@ -430,6 +431,6 @@ Not established: The only rows held are from a source the study excludes. No hel
 
 ### Tunisia: No evidence
 
-Twenty-one model National Guard and National Security centres were under construction in 2025; no source found says how stations record reports, so no stage is set.
+Twenty-one model National Guard and National Security centres were under construction in 2025; nothing found says how stations record reports, so no stage is set.
 
 Not established: The only rows held are from a source the study excludes. No held source states whether stations record reports or cases on paper or digitally, in what system, or in how many stations; what is held names systems of noted classes only.

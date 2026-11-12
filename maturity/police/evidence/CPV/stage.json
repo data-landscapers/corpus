@@ -11,9 +11,10 @@
       "stations": "not-published",
       "cap": "",
       "flags": "justice linked;advancing",
-      "stage_sources": "CPV-003;CPV-004;CPV-009",
-      "gaps": "No count or share of Polícia Nacional stations using the SIJ criminal-process subsystem is published, and no evidence row names a station outside the capital or says how the station enters the complaint; the stations are read as national from the ministry's unqualified wording. No plan or finance is stated, and nothing dated speaks of rural stations.",
-      "note": "The ministry says on 16 March 2026 that complaints run digitally from the Polícia Nacional's stations to the courts in a system past its pilot, about 25,000 autos processed, which meets rung 3. Rung 4 needs more than half of stations on a share or a count with a denominator, and none is published."
+      "stage_sources": "CPV-003;CPV-004;CPV-009;CPV-010",
+      "gaps": "No count or share of Polícia Nacional stations using the SIJ criminal-process subsystem is published; the order of January 2025 names the Praia and São Vicente districts, so stations outside the capital are covered, but not how many. No row says how the station enters the complaint, no plan or finance is stated, and nothing dated speaks of rural stations.",
+      "note": "The ministry says on 16 March 2026 that complaints run digitally from the Polícia Nacional's stations to the courts, about 25,000 autos processed, and the system entered service in Praia and São Vicente from January 2025, which meets rung 3. Rung 4 needs more than half of stations on a share or a count with a denominator, and none is published.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-11-mli-semaine-nationale-de-la-justice-la-delivrance-digitale-du-casier-judic",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital criminal record",
+   "country_label": "Mali",
+   "class": "identification",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": "Criminal records are a justice ministry certificate, nothing about police station records."
+}

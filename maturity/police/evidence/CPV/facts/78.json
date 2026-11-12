@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-22-cpv-despacho-10-2024-2025-pgr-obrigatoriedade-sij",
+ "facts": [
+  {
+   "sub_indicator": "record",
+   "aspect": "stations",
+   "value": "pilot",
+   "fact": "The Attorney General's despacho of 16 January 2025 recalls portaria 50/2024 of 27 December 2024, which brings the justice information system SIJ into operation in the Polícia Nacional services of the Praia and São Vicente districts from 30 January 2025.",
+   "as_of": "2024-12-27",
+   "date_precision": "day",
+   "system": "Sistema de Informação da Justiça (SIJ)",
+   "class": "record"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema de Informação da Justiça (SIJ)",
+   "country_label": "Cabo Verde",
+   "class": "record",
+   "platform": "SIJ with criminal procedure subsystem SIPP",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
