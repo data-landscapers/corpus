@@ -6,9 +6,9 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 194
+sources_cited: 203
 sections_written: 39
-not_established: 2
+not_established: 1
 acquire_lines: 39
 ---
 ## Governance
@@ -79,7 +79,9 @@ On 5 September 2025 [fifteen states adopted a Model Policy Framework for Informa
 
 [Mauritania ranked 5th of 54 African states for media freedom in the 2024 Ibrahim Index, at 73.8 of 100 after a 10.6-point gain over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf). [It ranked 41st for accountability and transparency, its worst governance dimension, at 22.6](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf). [It ranked 41st again for freedom of expression and belief, at 38.4 and down 2.5 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf).
 
-On 9 and 10 April 2026 [the police Cybercrime Unit arrested two opposition members of parliament under the 2021 law on national symbols, over online videos criticising the President](https://mfwa.org/country-highlights/mauritania-two-mps-arrested-for-criticising-president-online/). [A news site was shut down in August 2025 on a complaint from the media regulator](https://mfwa.org/country-highlights/mauritania-authorities-shut-down-news-website-for-damaging-diplomatic-relations/). [A journalist was held in October 2025 over a Facebook call for peaceful protests](https://mfwa.org/country-highlights/mauritania-activist-arrested-for-facebook-post-calling-for-peaceful-protests/).
+On 9 and 10 April 2026 [the police Cybercrime Unit arrested two opposition members of parliament under the 2021 law on national symbols, over online videos criticising the President](https://mfwa.org/country-highlights/mauritania-two-mps-arrested-for-criticising-president-online/). [On 4 May 2026 both were sentenced to four years in prison, with their phones confiscated and their social-media accounts ordered closed](https://afriqueitnews.com/editorial/crise-en-mauritanie-comment-nouakchott-verrouille-la-dissidence-a-lere-du-numerique/). [A news site was shut down in August 2025 on a complaint from the media regulator](https://mfwa.org/country-highlights/mauritania-authorities-shut-down-news-website-for-damaging-diplomatic-relations/). [A journalist was held in October 2025 over a Facebook call for peaceful protests](https://mfwa.org/country-highlights/mauritania-activist-arrested-for-facebook-post-calling-for-peaceful-protests/).
+
+[Mobile data was cut for 22 days after the June 2024 presidential election](https://www.accessnow.org/press-release/mauritania-must-keepiton-at-all-times/). [The government spokesman said the decision to cut the internet followed legal and regulatory procedures](https://ami.mr/fr/archives/250525). [Mobile internet was cut again during the June and July 2025 examinations](https://afrique.le360.ma/afrique-du-nord/mauritanie/mauritanie-coupures-dinternet-lors-des-examens-les-autorites-deconnectees-de-la-realite_5FANYEQDHNFXRLTJAIKMARIRCA/).
 
 [Disclosure of public records is among the country's ten worst measures in the 2024 Ibrahim Index](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf). [Rural representation and participation rose over 2014–2023 and is among the country's best-scoring measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf).
 
@@ -307,7 +309,7 @@ On 13 August 2026 [the minister delegate to the interior minister presented the 
 ### Research institutions
 <!-- capacity.research -->
 
-No public research institution working on digital, data or statistical questions had been found in Mauritania as at September 2026. Nor had a national research programme on them.
+In March 2024 [the think tank Mauritanie Perspectives ran a workshop on digitalisation and citizenship under a Global Development Network project](https://initiativesnews.com/mp-planche-sur-la-digitalisation-et-le-renforcement-de-la-citoyennete-en-mauritanie/). [In December 2025 it was one of two Mauritanian teams in a six-country review of digital and governance research priorities](https://www.gdn.int/contribuer-%C3%A0-la-d%C3%A9finition-de-priorit%C3%A9s-sur-le-num%C3%A9rique-et-la-gouvernance-depuis-et-pour-l%E2%80%99afrique). [In July 2025 the legal research centre CMERJES and the Max Planck Foundation held a workshop for judges and scholars on AI and procedural justice](https://www.mpfpr.de/2025/07/28/workshop-on-innovating-the-rule-of-law-in-the-age-of-ai-in-nouakchott-mauritania/). [In January 2026 the Mabda research centre held a roundtable on AI in education and employability](https://www.rimnow.net/w/?q=ar%2Fnode%2F30244). No public research institution working on digital, data or statistical questions, and no national research programme on them, had been found as at November 2026.
 
 ## Inclusion
 
@@ -349,7 +351,7 @@ From 4 August 2026 [water utility transactions moved onto the « Mes Services »
 
 [In June 2023 Mauritania published 24 open datasets from four providers, against Tunisia's 2,346 datasets from 161 providers](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf). [The government's open-data strategy places Mauritania last on every measure it publishes](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf), against Morocco, Senegal and Tunisia.
 
-[Publication runs through mauritania.opendataforafrica.org, operated by the statistics agency ANSADE](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) (June 2023). [The strategy rests on three axes: an interoperability framework, open-data governance on Open Government Partnership principles, and open data for innovation](https://dig.watch/resource/the-national-strategy-for-open-and-interoperable-data-of-mauritania). [Mauritania is not an OGP member, though all three of its chosen comparators are](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf). [The WARDIP procurement plan of December 2025 scheduled consultant selection for a national portal at data.gov.mr for March and April 2026](https://mtnima.gov.mr/wp-content/uploads/2026/01/PAA_WARDIP_02.01.2026.pdf).
+[Publication runs through mauritania.opendataforafrica.org, operated by the statistics agency ANSADE](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) (June 2023). [The strategy rests on three axes: an interoperability framework, open-data governance on Open Government Partnership principles, and open data for innovation](https://dig.watch/resource/the-national-strategy-for-open-and-interoperable-data-of-mauritania). [Mauritania is not an OGP member, though all three of its chosen comparators are](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf). [The WARDIP procurement plan of December 2025 scheduled consultant selection for a national portal at data.gov.mr for March and April 2026](https://mtnima.gov.mr/wp-content/uploads/2026/01/PAA_WARDIP_02.01.2026.pdf). [On 18 January 2026 the digital ministry launched a portal publishing all its contracts and spending since August 2024, free and without registration](https://press.cridem.org/imprimable.php?article=790434).
 
 [In the 2024 Open Data Inventory, balance of payments scores 7.5 out of ten and money and banking 5.5](https://odin.opendatawatch.com/data). [Government finance, labour and prices sit at 4, and national accounts and international trade at 3](https://odin.opendatawatch.com/data). [Population and vital statistics lead the social statistics at 5.5, and crime and justice is lowest at 2](https://odin.opendatawatch.com/data). [Environmental statistics run between 3 and 4.5](https://odin.opendatawatch.com/data).
 
