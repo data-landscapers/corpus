@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: KEN
-ledger_rows: 89
+ledger_rows: 90
 not_held: 5
-record: cd2ed6e82ff3
+record: 9a83bdffe949
 ---
 
 # News, Oct – Nov 2026
@@ -231,6 +231,28 @@ Kenya's communications regulator said it will set up a central database of recyc
 **[How Absa Bank's employee data leak brought down multi-billion business](https://www.standardmedia.co.ke/article/2001559970/how-absa-bank-s-employee-data-leak-brought-down-multi-billion-business)** — The Standard, 12 October 2026
 
 A former senior manager at a Kenyan bank testified, in a Sh1.5 billion data breach suit against it, that a credit manager disclosed a borrower's loan distress to a third party. He said the bank's legal department recommended no action because it saw no material risk of abuse.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Communications Authority escalated consumer complaints</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Quarter 1 FY 2026/2027 Consumer Complaints Report (complaints escalated to the Authority, July - September 2026)](https://www.ca.go.ke/sites/default/files/2026-11/Consumer%20Complaints%20Report%20for%20Q1%20FY%202026-2027.pdf)** — Communications Authority of Kenya, 5 November 2026
+
+479 escalated Jul-Sep 2026, 88.1% resolved; data 140, mobile money 57, voice resolution lowest at 66.7%.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Where did my bundles go? Data tops telco complaints](https://nation.africa/kenya/business/where-did-my-bundles-go-data-tops-telco-complaints-5664676)** — Daily Nation, 10 November 2026
+
+CA's Jul-Sep 2026 return: 140 of 479 complaints on data, 44 on billing and early depletion; mobile money 57.
 
 </div>
 
@@ -755,6 +777,14 @@ Kenya's Postbank joined the Pesalink network, reported on 4 November 2026, so cu
 **[Why lower transfer fees cannot easily break M-PESA’s mobile money dominance](https://techcabal.com/2026/11/10/pricing-gaps-m-pesa-pesalink-kenya/)** — TechCabal, 10 November 2026
 
 Postbank's entry to PesaLink brings Kenya's interbank payments network to 80 institutions, including all 38 licensed commercial banks. PesaLink says it processes an average of KES 4 billion a day, up 24% on a year earlier. TechCabal compares bank tariffs, with 19 banks on a flat KES 20 fee, and asks whether lower fees can draw users from M-PESA.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Kenya Partners Pesalink to Expand Money Transfers to 30 Financial Institutions](https://techafricanews.com/2026/11/11/airtel-kenya-pesalink-money-transfers-30-financial-institutions/)** — Tech Africa News, 11 November 2026
+
+Airtel Money wallets reach 30 banks, SACCOs and microfinance banks via Pesalink; recipient account check added.
 
 </div>
 
