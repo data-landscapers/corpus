@@ -25,9 +25,9 @@ The norm is Corpus's own: the AFRIPOL Statute of 2017 connects national police a
 | 5 Leading | 0 |
 | 4 Operating | 1 |
 | 3 Established | 6 |
-| 2 Nascent | 17 |
+| 2 Nascent | 16 |
 | 1 Absent | 8 |
-| Unplaced | 6 |
+| Unplaced | 7 |
 | No evidence | 16 |
 
 ## Countries
@@ -108,12 +108,6 @@ A computerised occurrence book for police and gendarmerie stations was over 80% 
 - In late December 2023 the computerised main courante platform of the security ministry (MATDS) was not yet operational: the digital transition ministry put it at more than 80% built, and the MATDS director of information systems said it would be operational by mid-January 2024, once amendments were taken in ([source, 2023-12](https://digitalmagazine.bf/2023/12/30/digital-burkina-faso-main-courante-informatisee-la-fin-du-papier-pour-les-forces-de-lordre/)).
 - The article states that the platform is to replace the physical registers in which main courantes are kept at police commissariats and gendarmerie brigades; at late December 2023 those registers were still the record ([source, 2023-12](https://digitalmagazine.bf/2023/12/30/digital-burkina-faso-main-courante-informatisee-la-fin-du-papier-pour-les-forces-de-lordre/)).
 - At late December 2023 no commissariat or gendarmerie brigade was using the computerised main courante: the platform was over 80% built and due to be operational by mid-January 2024; no number of stations is given ([source, 2023-12](https://digitalmagazine.bf/2023/12/30/digital-burkina-faso-main-courante-informatisee-la-fin-du-papier-pour-les-forces-de-lordre/)).
-
-### Cameroon: 2 Nascent
-
-A digital system for investigation and case information existed in 2020 and was barely used; no source found says which stations use it, if any,.
-
-- GIZ's factsheet on its support to the Cameroonian police, status June 2020, states that a digitised system for processing and transmitting information on investigations, criminal proceedings, arrest warrants, fines and current sanctions is barely used, which it puts down to weak institutional and management capacity; it gives no count of the units using it and does not say where entries are made ([source, 2020-06](https://www.giz.de/en/downloads/giz2020_fr_appui_a_la_police_camerounaise.pdf)).
 
 ### Eswatini: 2 Nascent
 
@@ -302,6 +296,14 @@ Police used paper-based systems in April 2024, when a donor-funded case system w
 Police stations took reports on paper in 2022, before the war; no source found says how they record now.
 
 - A Sudan University of Science and Technology thesis abstract describes the system for reports in Sudanese police stations as the old paper one, proposes converting it to an electronic system, and focuses on the reports that open the legal procedure for medical treatment after incidents, known as Form 8; the abstract gives no date, so the repository record's published year is used ([source, 2022](https://repository.sustech.edu/handle/123456789/27396)).
+
+### Cameroon: Unplaced
+
+A digital system for investigation and case information was barely used in 2020; no source found since says it runs, so no stage is set.
+
+- GIZ's factsheet on its support to the Cameroonian police, status June 2020, states that a digitised system for processing and transmitting information on investigations, criminal proceedings, arrest warrants, fines and current sanctions is barely used, which it puts down to weak institutional and management capacity; it gives no count of the units using it and does not say where entries are made ([source, 2020-06](https://www.giz.de/en/downloads/giz2020_fr_appui_a_la_police_camerounaise.pdf)).
+
+Not established: The only usable fact is from June 2020: a digitised system for investigations and criminal proceedings existed and was barely used. Which units use it, whether any is outside the capital, where and how entries are made and how many stations enter are not established, and nothing is held since 2020; the 2020 ownership fact is outside the 36-month governance window. CMR-001 to CMR-003 are from the excluded source and set nothing.
 
 ### Congo: Unplaced
 
