@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: EGY
-ledger_rows: 53
+ledger_rows: 55
 not_held: 36
-record: d37d3d12b9d0
+record: a14cddc6babc
 ---
 
 # News, Oct – Nov 2026
@@ -42,6 +42,8 @@ record: d37d3d12b9d0
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -233,6 +235,22 @@ Uganda's State Minister for ICT, Joyce Ssebugwawo, held talks in Cairo with Egyp
 **[تنظيم الاتصالات: منظومة لتقييم المدن الذكية والمستدامة وفق معايير دولية](https://www.youm7.com/story/2026/10/15/%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D9%88%D9%81%D9%82-%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A%D8%A9/7580488)** — Youm7, 15 October 2026
 
 Egypt's telecoms regulator described an online system that scores new cities against its smart and sustainable cities code and issues conformity certificates. It is applied with the housing ministry to cities including the New Administrative Capital and New Alamein.
+
+</div>
+
+</div>
+
+### Public debate and participation in policymaking
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Council of State digital transformation plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[رئيس مجلس الدولة: التوسع في التقاضي الإلكتروني يستهدف تحقيق عدالة إدارية ناجزة](https://www.youm7.com/story/2026/11/8/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%B3%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7610749)** — اليوم السابع, 8 November 2026
+
+E-litigation pilot widened to two more administrative courts; disciplinary suits now filed online end to end.
 
 </div>
 
@@ -668,6 +686,22 @@ Egypt's Digital Egypt platform now offers notarisation and real-estate registry 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[22 خدمة إلكترونية للشهر العقاري، أبرزها التوكيلات والإقرارات](https://www.vetogate.com/5767586)** — بوابة فيتو, 9 November 2026
+
+16 notarial and 6 registry services online; remote litigation power of attorney launched 7 Nov 2026 via face match.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[بصمة الوجه وشهادة توقيع.. آلية التحقق من الهوية عند إصدار التوكيلات عن بُعد](https://www.youm7.com/story/2026/11/11/%D8%A8%D8%B5%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D8%AC%D9%87-%D9%88%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A2%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1/7612009)** — Youm7, 11 November 2026
+
+Egypt's remote general power-of-attorney service on the Digital Egypt platform checks a face scan from the digital identity app against state biometric records. It then issues a one-time remote e-signature certificate for each transaction, on infrastructure built by ITIDA, Youm7 reported on 11 November 2026. The launch date has not been stated.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -849,6 +883,20 @@ Youm7 reported that Egypt is in the final drafting stage of a dedicated law to r
 **[Vodacom eyes SA and Kenya for AI data centre hubs after Egypt](https://techcentral.co.za/vodacom-ai-data-centre-hubs-south-africa-kenya-egypt/288232/)** — TechCentral, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Vodacom Group CEO Shameel Joosub spoke to TechCentral on 10 November 2026 about a sovereign AI data centre in Egypt. Vodafone Egypt plans it with Elsewedy Electric and Cassava Technologies, at a total cost of about US$1 billion. It will be built in modules, and Vodafone Egypt will own about 30%. He named South Africa and Kenya as further AI data centre hubs, with planning there at a very early stage.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public Prosecution AI data centre, Rehab</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[النيابة العامة تفتتح مركز بيانات للذكاء الاصطناعى بالرحاب السبت المقبل](https://www.youm7.com/story/2026/11/11/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B1%D9%83%D8%B2-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D8%A8%D8%A7%D9%84%D8%B1%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84/7614923)** — Youm7, 11 November 2026
+
+Egypt's Public Prosecution announced on 11 November 2026 that it will open an AI data centre at the Prosecutor-General's office in Rehab on 14 November. It has invited journalists to register to attend.
 
 </div>
 
