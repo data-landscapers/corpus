@@ -1,12 +1,12 @@
 ---
 title: Central African Republic: status report
-compiled: 2026-11-09
+compiled: 2026-11-12
 place: CAF
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-26
 intersections_read: 6
-sources_cited: 151
+sources_cited: 153
 sections_written: 39
 not_established: 1
 acquire_lines: 27
@@ -64,6 +64,8 @@ ARCEP acquired [spectrum-monitoring and quality-of-service equipment](https://ww
 There is no designed route into digital policymaking. The country has [no national platform through which citizens or businesses can take part in policy decision-making, and no government platform for feedback, complaints or suggestions on service delivery](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [citizens and businesses are not involved in the design of any of the online government services the index assesses](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and there is [no right-to-information law](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) to fall back on (2025). Nor is there much to debate from: the government [publishes no progress, results or spending report for any of the digital domains assessed, and the GovTech institution's own annual report is internal and unpublished](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Disclosure of Public Records rose 33.3 points over 2014–2023 to 33.3 out of 100, the country's second largest ten-year gain of any indicator, while Accessibility of Public Records fell to 5.0 and 51st of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cf.pdf) — more is published, and less can be got hold of.
 
 Participation therefore happens outside the machinery. The overcharging for identity cards was [contested through the courts and on the street, by members of parliament and by a citizens' collective](https://corbeaunews-centrafrique.org/centrafrique-le-prix-des-cartes-didentite-enfin-reduit-apres-cinq-ans-de-violations-criminelle), and stakeholder research records [a perception that the identity system is under foreign control](https://greaterinternetfreedom.org/wp-content/uploads/2023/08/BDI_CAR-FINAL-APPROVED-27.06.2023.pdf), which the [contracting of the card, escaping public-procurement scrutiny](https://greaterinternetfreedom.org/wp-content/uploads/2023/08/BDI_CAR-FINAL-APPROVED-27.06.2023.pdf), does little to dispel. The direction of travel runs the other way: in June 2026 the media regulator framed AI-generated disinformation about the President and officials as cybercrime and proposed [tighter identification of SIM-card holders](https://centranews.org/centrafrique-le-hcc-denonce-lusage-abusif-de-lintelligence-artificielle-pour-la-desinformation/) as the remedy. In September 2026 a presidential decree [created a communication-monitoring cell under the government spokesperson, one of its units dedicated to watching national and international media and social networks and countering rumours](https://www.alwihdainfo.com/centrafrique-le-gouvernement-se-dote-dune-cellule-de-veille-communicationnelle-pour-contrer-les-rumeurs/).
+
+[A press law of 26 May 2025 reintroduced criminal penalties for press offences and added measures against false information, on a civil-society monitor's account](https://monitor.civicus.org/explore/lespace_civique_sous_pression_a_lapproche_des_elections_de_decembre_2025_adoption_dune_loi_sur_la_protection_des_defenseurs_des_droits_humains/). [During the December 2025 campaign the media regulator sanctioned the online outlet Ndjoni Sango for a false report about an opposition candidate](https://nouvellesafrique.com/centrafrique-le-hcc-sanctionne-des-medias-et-professionnels-de-linformation-en-pleine-campagne/).
 
 ## Finance
 
