@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-18-som-somalia-advancing-early-warnings-for-all",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SWALIM",
+   "country_label": "Somalia Water and Land Information Management (SWALIM)",
+   "class": "other",
+   "platform": "",
+   "owner": "FAO",
+   "tiers": ""
+  }
+ ],
+ "note": "SWALIM named for agriculture early warning, but no satellite or remote-sensing data stated."
+}

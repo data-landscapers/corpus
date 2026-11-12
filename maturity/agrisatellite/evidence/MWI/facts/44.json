@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-17-mwi-flash-flood-warnings-what-you-need-to-know-before-it-s-too-late",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Flash Flood Guidance System (FFGS)",
+   "country_label": "FFGS",
+   "class": "other",
+   "platform": "",
+   "owner": "DCCMS",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite rainfall use is for flash flood warnings, with no farming product stated."
+}

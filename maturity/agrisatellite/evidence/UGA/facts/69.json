@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-08-uga-govt-rolls-out-flood-detection-app",
+ "facts": [],
+ "systems": [
+  {
+   "system": "flood detection application",
+   "country_label": "Uganda urban flood warning app (Kampala pilot)",
+   "class": "other",
+   "platform": "web browser",
+   "owner": "Ministry of Water and Environment",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite rainfall used for urban flood warning, not farming."
+}
