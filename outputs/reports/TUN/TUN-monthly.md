@@ -3,9 +3,9 @@ title: Tunisia — News, Oct – Nov 2026
 compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 place: TUN
-ledger_rows: 42
-not_held: 5
-record: e555510635e9
+ledger_rows: 45
+not_held: 4
+record: c033d934014c
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: e555510635e9
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -277,6 +279,42 @@ Tunisia's Sahloul university hospital in Sousse had unified 180,000 patient reco
 **[Numérisation : La Poste Tunisienne valide plus de 1,8 million d’inscriptions scolaires et universitaires en ligne - La Presse de Tunisie](https://www.lapresse.tn/2026/10/09/numerisation-la-poste-tunisienne-valide-plus-de-18-million-dinscriptions-scolaires-et-universitaires-en-ligne/)** — La Presse de Tunisie, 9 October 2026
 
 La Poste Tunisienne said about 1.57 million pupils, some 75%, and about 287,300 university students, some 76%, paid their 2026–2027 registration fees online using its free e-Dinar wallets. The post office also brought a new integrated ERP system into operation and launched the Universal Postal Union's Ecom@africa e-commerce exchange platform at Tunis-Carthage airport.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Active digital wallet count</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paiement mobile : Ouverts & dormants](https://africanmanager.com/paiement-mobile-ouverts-dormants/)** — African Manager, 8 November 2026
+
+End-2025: 113,739 payment-institution accounts, only 11.3% active; 17.3m dinars of losses; diaspora inflows dominate.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paiement mobile en Tunisie : 7,1 millions de transactions et une croissance de 20 % à fin septembre 2026](https://www.tunisienumerique.com/paiement-mobile-en-tunisie-71-millions-de-transactions-et-une-croissance-de-20-a-fin-septembre-2026/)** — Tunisie Numérique, 10 November 2026
+
+719,000 wallets at 30 September 2026, up 53.3%; 20 payment providers processed 1,354.9m dinars.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile payment transactions</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Paiement mobile en Tunisie : 7,1 millions de transactions et une croissance de 20 % à fin septembre 2026](https://www.tunisienumerique.com/paiement-mobile-en-tunisie-71-millions-de-transactions-et-une-croissance-de-20-a-fin-septembre-2026/)** — Tunisie Numérique, 10 November 2026
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
@@ -687,6 +725,28 @@ Google announced a US$2.4 million Google.org grant to INJAZ Al-Arab to take its 
 **[امضاء اتفاقية شراكة إطارية بين وزارة التشغيل و "اتصالات تونس" في مجال الاتصالات والتحول الرقمي](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155931-%D8%A7%D9%85%D8%B6%D8%A7%D8%A1-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A5%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D9%88-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A)** — Assabah News, 14 October 2026
 
 Tunisia's Ministry of Employment and Vocational Training signed a five-year renewable framework agreement with Tunisie Telecom on 14 October. The operator is to connect employment offices and training centres to fibre, install AI labs in vocational-training centres and host a distance-training system in its national data centre.
+
+</div>
+
+</div>
+
+## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+</nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Account ownership and bank accounts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bancarisation en Tunisie : moins de comptes, plus d'agences, quel cap ?](https://www.challenges.tn/economie/bancarisation-en-tunisie-moins-de-comptes-plus-dagences-quel-cap/)** — Challenges TN, 11 November 2026
+
+Bank accounts down 1.8% to 10.5 million in 2025 as branches rise to 2,081; Findex puts account ownership at 37.8%.
 
 </div>
 
