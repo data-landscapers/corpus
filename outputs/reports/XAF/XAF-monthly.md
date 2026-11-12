@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: XAF
-ledger_rows: 71
+ledger_rows: 73
 not_held: 3
-record: 795611c43114
+record: 8d51f93099c4
 ---
 
 # News, Oct – Nov 2026
@@ -377,6 +377,20 @@ BTW Media reviewed version 4 of AFRINIC's proposal to update its policy developm
 **[AFRINIC’s four-pool IPv4 proposal and its post-exhaustion queue](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-four-ipv4-pools-queue)** — BTW Media, 23 October 2026
 
 A draft AFRINIC policy, AFPUB-2026-IPv4-003-DRAFT01, submitted in June 2026 and under discussion, would sort recovered IPv4 space into four pools by origin, cap ordinary requests and open a first-come queue once the two main pools are empty. It is a proposal, not adopted policy.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AFRINIC IPv4 space measured in use outside Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[One Company Accounts for 80% of AFRINIC's IP Addresses Being Used Outside Africa](https://ipinfo.io/blog/80-percent-afrinics-ip-addresses-outside-africa)** — IPinfo, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
+
+AFRINIC 2.43% of measured IPv4 used out of region (24 Oct 2026); 81% of it in four Cloud Innovation blocks.
 
 </div>
 
@@ -993,6 +1007,36 @@ Summarised under [Connectivity](#connectivity).
 **[Budget Practices and Procedures (03) - From budget transparency to accountability: Where the chain breaks down in Africa](https://www.cabri-sbo.org/en/publications/budget-practices-and-procedures-03-from-budget-transparency-to-accountability-where-the-chain-breaks-down-in-africa)** — CABRI (Collaborative Africa Budget Reform Initiative), 12 October 2026
 
 CABRI published a policy brief on its 2025 budget practices survey of 18 African countries. It reports a functional integrated financial management information system in 15 countries, e-audit tools in 7 and open fiscal data portals in 9.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health information system maturity across the WHO African Region</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ECA calls for greater investment in Africa's health data systems to strengthen healthcare financing](https://www.uneca.org/stories/eca-calls-greater-investment-africas-health-data-systems-strengthen-healthcare-financing)** — Economic Commission for Africa, 10 November 2026
+
+Africa spends ~US$145bn a year on health; fewer than 1 in 5 countries fund health data systems domestically.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Un nouveau rapport de l’OMS met en évidence des lacunes majeures des systèmes d’information sanitaire en Afrique](https://afro.who.int/fr/news/un-nouveau-rapport-de-loms-met-en-evidence-des-lacunes-majeures-des-systemes-dinformation)** — WHO Regional Office for Africa, 10 November 2026
+
+40 countries assessed in 2024; maturity 59/100; 18% fund HIS by budget line; 20% have digital patient records.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Why Africa is struggling to turn health data into action](https://www.standardmedia.co.ke/health/health-science/article/2001561986/why-africa-is-struggling-to-turn-health-data-into-action)** — The Standard, 10 November 2026
+
+WHO SCORE assessment of 52 countries; regional maturity 59/100, none sustainable at using data for policy.
 
 </div>
 
