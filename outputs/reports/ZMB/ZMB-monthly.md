@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: ZMB
-ledger_rows: 23
+ledger_rows: 26
 not_held: 32
-record: f80e0a4de09f
+record: 6410d151ea8b
 ---
 
 # News, Oct – Nov 2026
@@ -51,6 +51,20 @@ record: f80e0a4de09f
 **[Zambia unlocks digital earnings for creators](https://itweb.africa/article/zambia-unlocks-digital-earnings-for-creators/wbrpOqg2eyLMDLZn)** — ITWeb Africa, 12 October 2026
 
 Zambia's technology and youth ministries are developing a framework for local content creators to earn from digital platforms, and are talking to Meta, TikTok and Google about the legal and technical arrangements. The President named it a priority when opening the 14th National Assembly, and a national database of creators is being compiled.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ministerial Technology Advisory Panel</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia : Mutati Reaffirms Significance Of Technology](https://www.lusakatimes.com/2026/11/11/mutati-reaffirms-significance-of-technology/)** — Lusaka Times, 11 November 2026
+
+Zambia's government has asked Hobbiton Investments Limited to form a Ministerial Technology Advisory Panel, minister Felix Mutati said (reported 11 November 2026). The panel joins public and private stakeholders. It is to speed the digitisation of public services under the Grow Zambia Agenda.
 
 </div>
 
@@ -165,6 +179,8 @@ Zambia took the first chair of the SADC Regional Computer Incident Response Team
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -246,6 +262,22 @@ A University of Zambia study, reported on 8 November 2026, examined the electron
 
 </div>
 
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zambia Integrated Land Administration System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[982 Properties vanish after ZILMIS to ZILAS transition](https://zambianbusinesstimes.com/982-properties-vanish-after-zilmis-to-zilas-transition/)** — Zambian Business Times, 26 October 2026
+
+Auditor General report for 2025 finds 982 ZILMIS property records missing from ZILAS; outages lasting weeks.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -279,6 +311,28 @@ The Zambia Revenue Authority set out on 19 October 2026 the next steps in moving
 **[393 taxpayers owe ZRA K26m in smart invoicing fines - AG](https://diggers.news/business/2026/10/27/393-taxpayers-owe-zra-k26m-in-smart-invoicing-fines-ag/)** — News Diggers, 27 October 2026
 
 Zambia's Auditor General reported that the Zambia Revenue Authority fined 393 taxpayers more than K26 million for not using the Smart Invoicing System. As at 31 August 2026 it had collected none of the amount.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Judiciary electronic case management system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Judiciary rolls out nationwide Electronic Case Management System](https://times.co.zm/judiciary-rolls-out-nationwide-electronic-case-management-system/)** — Times of Zambia, 31 October 2026
+
+Pilot in four registries at Lusaka and Kitwe High Courts; 24-hour e-filing, automated calendars, notifications.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[CHIEF JUSTICE OPENS TRAINING AHEAD OF DIGITAL COURT SYSTEM ROLLOUT](https://diamondtvzambia.com/chief-justice-opens-training-ahead-of-digital-court-system-rollout/)** — Diamond Media, 2 November 2026
+
+Training of trainers for the eCMS opened 2 November 2026; e-filing and real-time case tracking promised.
 
 </div>
 
