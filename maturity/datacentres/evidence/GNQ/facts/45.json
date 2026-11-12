@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-21-gnq-gitge-drives-fibre-optic-growth-in-equatorial-guinea",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "btw.media states that GITGE offers colocation at its landing stations and data centres, in Equatorial Guinea alongside IP transit from Malabo and Bata and its Malabo and Bata Digital Ports.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "GITGE colocation at landing and data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GITGE data centres and Digital Ports (Malabo, Bata)",
+   "country_label": "GITGE",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "GITGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

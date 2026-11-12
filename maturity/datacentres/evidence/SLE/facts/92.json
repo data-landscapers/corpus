@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-02-sle-orange-sierra-leone-launches-bo-data-centre-to-boost-connectivity-and",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Orange Sierra Leone Bo Data Centre",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": "Bo centre is described as Orange's own disaster-recovery replica; no renting to other organisations or Tier stated."
+}

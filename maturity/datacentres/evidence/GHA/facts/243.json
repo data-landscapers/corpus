@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-31-gha-nita-gets-three-iso-certifications-at-a-go",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "NITA says its certified Tier 3 data centre, managed by its private partner Smart Infraco, serves all public institutions and private businesses and runs a locally hosted cloud in Ghana.",
+   "as_of": "2024-08-31",
+   "date_precision": "day",
+   "system": "NITA data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NITA data centre",
+   "country_label": "Ghana",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NITA",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

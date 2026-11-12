@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-01-bwa-bofinet-s-digital-delta-data-centre-achieves-tier-iii-certification-fr",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "BoFiNet reports its Digital Delta Data Centre in Botswana was awarded Uptime Institute Tier III Certification of Constructed Facility, confirmed on 23 October 2025, and says it serves customers and partners.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "Digital Delta Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Botswana",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Botswana Fibre Networks (BoFiNet)",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

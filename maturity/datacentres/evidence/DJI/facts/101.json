@@ -1,0 +1,34 @@
+{
+ "slug": "2024-05-01-dji-vers-un-hub-numerique-mondial",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Wingu Africa opened a data centre in 2013 inside Djibouti Telecom's 3G tower in the capital, and its business is selling hosting to international operators.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Wingu Africa Djibouti City data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu Africa Djibouti City data centre",
+   "country_label": "Djibouti",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  },
+  {
+   "system": "Wingu Africa Djibouti City 2 (DC2)",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "DC2 is described as about to open, so it is not recorded as in service; no Tier and no cloud region stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-21-egy-egypt-to-establish-three-state-owned-data-centres-to-advance-digital-t",
+ "facts": [],
+ "systems": [
+  {
+   "system": "three government-owned data centres",
+   "country_label": "Egypt",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": "The three centres host government applications; none is stated to rent space to others, and no tier is given."
+}

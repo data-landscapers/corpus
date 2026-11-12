@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-15-cod-rdc-un-centre-de-donnees-du-ministere-de-finances-cree-a-kinshasa-et-l",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Finance Ministry data centre (Kinshasa, Lubumbashi)",
+   "country_label": "DR Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "The Finance Ministry data centre hosts the ministry's own projects; renting to outside organisations is not stated."
+}

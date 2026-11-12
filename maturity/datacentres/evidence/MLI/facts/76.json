@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-17-mli-deploiement-dune-infrastructure-de-cloud-public",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SMTD-SA data centre",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "OpenStack/Ceph cloud planned",
+   "owner": "SMTD-SA",
+   "tiers": ""
+  }
+ ],
+ "note": "Call for a consultant to deploy a public cloud to sell IaaS in SMTD-SA's data centre; selling to customers is a plan, not in service."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-03-mar-morocco-boom-in-data-centers",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Global Finance Magazine reports Morocco has 23 data centres, most owned by telecom companies such as Maroc Telecom and Inwi or by operators such as Medasys and N+One, with smaller banks leasing data storage space.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Moroccan data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N+One Datacenters",
+   "country_label": "Morocco",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "N+One",
+   "tiers": ""
+  },
+  {
+   "system": "Medasys data centre",
+   "country_label": "Morocco",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Medasys",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

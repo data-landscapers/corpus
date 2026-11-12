@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-cmr-digital-sovereignty-public-applauds-strides-of-camtel-s-zamengoue-data",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Camtel's Zamengoue Data Center hosts data for government ministries, state administrations, private enterprises and individual clients, and Camtel says it is open to all sectors, per News Upfront reporting a 9 June 2026 press conference.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Zamengoue Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zamengoue Data Center",
+   "country_label": "Cameroon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

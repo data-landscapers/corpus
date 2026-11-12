@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-16-sdn-projects-sudantax",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The Sudan Tax Authority says it contracted Sudatel's data centre to host its main data centre on a rental co-location basis, with Sudatel providing security, operation, internet and monitoring.",
+   "as_of": "2025-02-16",
+   "date_precision": "day",
+   "system": "Sudatel data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudatel data centre",
+   "country_label": "Sudan",
+   "class": "datacentre",
+   "platform": "co-location",
+   "owner": "Sudatel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

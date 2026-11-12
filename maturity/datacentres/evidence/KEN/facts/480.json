@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-08-ken-nakuru-county-explores-partnership-with-konza-technopolis-data-center",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Kenya News Agency says the Konza Technopolis Data Center serves government departments, state agencies and private enterprises with cloud services (SaaS, IaaS, PaaS).",
+   "as_of": "2024-02-08",
+   "date_precision": "day",
+   "system": "Konza Technopolis Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Kenya News Agency describes the Konza Technology City data centre as Tier III with a capacity of 1.6 petabytes, without naming who certified it.",
+   "as_of": "2024-02-08",
+   "date_precision": "day",
+   "system": "Konza Technopolis Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Konza Technopolis Data Center",
+   "country_label": "Konza Technopolis Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Ministry of ICT through Konza Technopolis Development Authority",
+   "tiers": "Tier III (as stated)"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-01-cog-data-center-market-brief-republic-of-congo",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics estimates about three live commercial data centre facilities leasing colocation space and power to third parties in the Republic of Congo, with about 1MW of live IT load in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "commercial data centres (telecom-controlled)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "commercial data centres",
+   "country_label": "Republic of Congo",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "telecoms providers",
+   "tiers": ""
+  },
+  {
+   "system": "national data center (planned)",
+   "country_label": "Republic of Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "government, initially managed by the telecoms regulator",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

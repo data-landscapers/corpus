@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-25-dza-le-data-center-de-la-bnh-une-infrastructure-cle-pour-la-digitalisation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BNH Data Centre",
+   "country_label": "Data Center de la BNH",
+   "class": "other",
+   "platform": "",
+   "owner": "Banque nationale de l'habitat",
+   "tiers": "Tier III (Uptime, per BNH)"
+  }
+ ],
+ "note": "Hosts the bank's own systems; no renting to outside organisations stated."
+}

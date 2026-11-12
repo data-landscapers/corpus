@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-16-gin-corex-veut-accompagner-la-mise-en-service-du-data-center-national",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center national",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "National data centre is awaiting commissioning; not stated in service or for hire."
+}

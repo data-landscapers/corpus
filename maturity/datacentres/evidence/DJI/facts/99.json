@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-15-dji-paix-data-centres-announces-joint-venture-with-djibouti-sovereign-fund",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAIX Djibouti (JIB1)",
+   "country_label": "PAIX Djibouti JIB1",
+   "class": "datacentre",
+   "platform": "carrier- and cloud-neutral colocation",
+   "owner": "PAIX Data Centres with Djibouti Sovereign Fund (joint venture)",
+   "tiers": ""
+  }
+ ],
+ "note": "JIB1 is announced, with its first phase expected in 2026; not in service."
+}

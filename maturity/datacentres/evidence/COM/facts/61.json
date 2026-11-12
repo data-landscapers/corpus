@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AWS cloud (AMG openIMIS hosting)",
+   "country_label": "AWS",
+   "class": "other",
+   "platform": "AWS",
+   "owner": "Amazon Web Services",
+   "tiers": ""
+  }
+ ],
+ "note": "Comoros health insurance data is on AWS cloud; no data centre or cloud region in the country is stated."
+}

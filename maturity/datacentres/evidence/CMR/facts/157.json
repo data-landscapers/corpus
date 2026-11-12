@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-10-cmr-telecoms-camtel-devoile-le-data-center-de-zamengoe-prouesse-de-souvera",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Camtel's Zamengoé data centre near Yaoundé is certified Tier III by the Uptime Institute and offers cloud services, with more than a hundred public and private bodies hosting their data there, per Camtel's director general and panel on 9 June 2026.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Zamengoé data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zamengoé data centre",
+   "country_label": "Cameroon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Camtel",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

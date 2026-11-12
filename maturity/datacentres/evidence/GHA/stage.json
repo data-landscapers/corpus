@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "datacentre",
-      "stage": "3",
-      "centre": "tier3",
+      "stage": "4",
+      "centre": "two",
       "cloud": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-027",
-      "gaps": "No source found names a second data centre for hire at Tier III or above.",
-      "note": "Rebuild 2026-10-28: every Tier III or IV row names Onix Accra, one facility, so GHA-027 and GHA-024 are not two. No other facility for hire is stated at Tier III, so stage 3, not 4.",
-      "as_at": "2026-10-28"
+      "stage_sources": "GHA-027;GHA-029",
+      "gaps": "No source found says a global cloud provider sells its services from a cloud region in the country.",
+      "note": "Stage 4c 2026-11-12: NITA's certified Tier 3 data centre serves public institutions and private businesses (GHA-029, 2024), a second facility for hire at Tier III beside Onix Accra (GHA-027). No cloud region is stated, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-26-dza-jeune-independant-cerist-cloud-computing-souverainete",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Higher education minister Kamel Baddari inaugurated a national cloud computing platform hosted by Cerist in a data centre said to meet international standards, offering public institutions, companies and researchers hosting and processing at preferential tariffs.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Cerist national cloud computing platform",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cerist national cloud computing platform",
+   "country_label": "Algérie",
+   "class": "datacentre",
+   "platform": "open-source cloud designed in Algeria, Ben Aknoun data centre",
+   "owner": "Cerist",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

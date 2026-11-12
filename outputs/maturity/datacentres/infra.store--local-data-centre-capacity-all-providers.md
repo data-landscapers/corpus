@@ -21,8 +21,8 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that 30 % o
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 17 |
-| 3 Established | 15 |
+| 4 Operating | 18 |
+| 3 Established | 14 |
 | 2 Nascent | 14 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -116,6 +116,13 @@ Two data centres for hire at Tier III or above in service by 2026.
 - Birr Metrics describes Raxio's carrier-neutral Addis Ababa facility, in operation, as Tier III (stated by the publication, no certification body named); no opening date given, so as_of is the article's publication date (2026-09-16) ([source, 2026-09-16](https://birrmetrics.com/ethiopia-bets-on-hydropower-to-enter-africas-ai-data-centre-race/)).
 - Wingu Africa describes its ICT Park data centre hosting ADDIX as tier III-certified (operator statement; certifying body not named) ([source, 2025-09-04](https://www.wingu.africa/latest-news/transforming-connectivity-ethiopias-first-internet-exchange-hosted-at-wingu-africa)).
 
+### Ghana: 4 Operating
+
+Two data centres for hire are at Tier III or above, Onix Accra and the state IT agency's (2024); no global cloud region is known.
+
+- Onix Data Centres says its Accra facility is Tier IV certified by the Uptime Institute ([source, 2026](https://onixdatacentres.com/home/infrastructure/)).
+- NITA says its certified Tier 3 data centre, managed by its private partner Smart Infraco, serves all public institutions and private businesses and runs a locally hosted cloud in Ghana ([source, 2024-08-31](https://techfocus24.com/nita-gets-three-iso-certifications-at-a-go/)).
+
 ### Mauritius: 4 Operating
 
 Two data centres for hire at Tier III or above in service by 2025.
@@ -205,12 +212,6 @@ A data centre for hire at Tier III or above in service by 2023; no second one he
 A data centre for hire at Tier III or above in service by 2026; no second one held.
 
 - Gabon's digital-economy ministry cites the Nkok Sovereign Tier III Datacenter run by ST Digital as strengthening national hosting capacity; Tier III is stated by the government, with no certifier named and no date, so the date is the article's ([source, 2026-09-03](https://agpgabon.ga/gabon-numerique-le-pays-sa-candidature-au-conseil-de-lunion-internationale-des-telecommunications/)).
-
-### Ghana: 3 Established
-
-A data centre for hire at Tier III or above in service by 2026; no second one found.
-
-- Onix Data Centres says its Accra facility is Tier IV certified by the Uptime Institute ([source, 2026](https://onixdatacentres.com/home/infrastructure/)).
 
 ### Guinea: 3 Established
 

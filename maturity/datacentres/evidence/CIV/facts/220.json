@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-16-civ-stockage-de-donnees-les-10-datacenters-en-cote-d-ivoire-pour-un-debut",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "two",
+   "fact": "Digital Mag lists several Tier III data centres in service at VITIB Grand-Bassam that host or colocate for other organisations, including RAXIO (inaugurated 24 September 2024), MainOne (inaugurated 9 November 2023), DataConnect, ST Digital (inaugurated 2 October 2025) and Kaydan Technology.",
+   "as_of": "2025-10-02",
+   "date_precision": "day",
+   "system": "RAXIO, MainOne, DataConnect, ST Digital and Kaydan data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAXIO Datacenter",
+   "country_label": "Cote d'Ivoire",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "RAXIO Group",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "ST Digital Datacenter",
+   "country_label": "Cote d'Ivoire",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

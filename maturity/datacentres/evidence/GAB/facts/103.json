@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-14-gab-gabon-le-logiciel-qui-pilote-le-budget-de-l-etat-est-donc-marocain-dep",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Depeches241 reports that Gabon's first national data centre, run by ST Digital, was inaugurated at Nkok on 3 July 2026 to host data of the state, companies and citizens.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "Nkok data centre (ST Digital)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

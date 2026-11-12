@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-27-ago-data-center-e-cloud-nacional-acelera-transformacao-digital-de-angola",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center e Cloud Nacional do Governo de Angola",
+   "country_label": "Angola",
+   "class": "datacentre",
+   "platform": "208 racks, 13,000 vCPU, Camama, Luanda",
+   "owner": "Government of Angola (MINTTICS)",
+   "tiers": ""
+  }
+ ],
+ "note": "Notice announces the inauguration of 28 April 2026; services to private entities are only foreseen."
+}

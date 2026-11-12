@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-18-mar-data-centers-au-maroc-comment-ca-marche",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "LesEco.ma reports that Maroc Data Center, at its Temara site, has a 300 m2 white room and about a hundred racks supplying IaaS and PaaS cloud infrastructure to enterprises and administrations, and has hosted OVHcloud there since 2024.",
+   "as_of": "2025-07-18",
+   "date_precision": "day",
+   "system": "Maroc Data Center (Temara)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maroc Data Center (Temara)",
+   "country_label": "Morocco",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Maroc Data Center",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

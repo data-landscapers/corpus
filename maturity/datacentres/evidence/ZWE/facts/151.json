@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-01-zwe-telone-data-centres-project",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TelOne data centres (Harare, Mazowe, Bulawayo)",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "TelOne (Pvt) Ltd",
+   "tiers": "Tier III (Harare colocation space, planned expansion)"
+  }
+ ],
+ "note": "An investment prospectus pending validation; it does not state a data centre for hire in service."
+}
