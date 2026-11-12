@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-22-rwa-built-in-rwanda-built-for-you-ishema-platform-frees-up-time-for-work-t",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "KT Press reports the Rwanda Social Security Board launched the Ishema platform on 22 May 2025, letting employers file payroll tax and social security contributions online, with 11,000 of 28,000 employers onboarded.",
+   "as_of": "2025-05-22",
+   "date_precision": "day",
+   "system": "Ishema",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ishema",
+   "country_label": "Rwanda",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Rwanda Social Security Board",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

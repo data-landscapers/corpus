@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-01-bdi-communique-declaration-et-paiement-en-ligne-de-l-impot-foncier",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Burundi Revenue Office (OBR) communiqué says land tax declaration for 2026/2027 must be made online on the UMUTANGAKORI II platform by 30 September 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "UMUTANGAKORI II",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UMUTANGAKORI II",
+   "country_label": "Burundi (umutangakori-dpmc.obr.gov.bi)",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Office Burundais des Recettes",
+   "tiers": ""
+  },
+  {
+   "system": "e-Kori",
+   "country_label": "Burundi (ekori.obr.gov.bi)",
+   "class": "other",
+   "platform": "",
+   "owner": "Office Burundais des Recettes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

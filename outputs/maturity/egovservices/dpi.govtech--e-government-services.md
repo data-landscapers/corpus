@@ -20,12 +20,12 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Leading | 7 |
 | 4 Operating | 5 |
 | 3 Established | 8 |
 | 2 Nascent | 31 |
 | 1 Absent | 0 |
-| Unplaced | 4 |
+| Unplaced | 3 |
 | No evidence | 0 |
 
 ## Countries
@@ -70,6 +70,14 @@ Rwanda's Irembo portal offers 240 services online on one account, and publishes 
 - The Rwanda Development Board's guide says businesses log in with their IremboAccount to apply online for its business and investor services ([source, 2026-01-09](https://www.linkedin.com/posts/rdb-rwanda-development-board_watch-a-step-by-step-guide-to-accessing-business-activity-7415448921734545408-SHlm)).
 - IremboGov says residents must log in to their Irembo account on irembo.gov.rw to apply for Single Digital ID pre-enrollment, listed under the portal's Identification category ([source, 2026-10-16](https://support.new.irembo.gov.rw/en/support/solutions/articles/47001283560-how-to-apply-for-single-digital-id-adult-self-pre-enrollment-)).
 - MINICT says citizens submitted over 5 million applications through Irembo between 2023 and 2024, and more than 400,000 Rwandans had opened personal accounts as of March 2025 ([source, 2024](https://rwandadispatch.com/irembo-platform-transforms-access-to-public-services/)).
+
+### Sudan: 5 Leading
+
+Sudan's national platform carried 141 services from 48 bodies in 2026, with national ID sign-in and 265,785 transactions.
+
+- The Ministry of Digital Transformation's Baldna portal lists 141+ digital services (G2G 4, G2B 102, G2C 35) ([source, 2026-11-11](https://baldna.gov.sd/)).
+- Baldna, the national unified platform for government transactions, serves 48+ government institutions and signs users in with the national number or the Sudapass digital ID ([source, 2026-11-11](https://baldna.gov.sd/)).
+- The Baldna portal shows 265,785+ completed transactions ([source, 2026-11-11](https://baldna.gov.sd/)).
 
 ### Zambia: 5 Leading
 
@@ -130,6 +138,12 @@ Ten or more government services could be completed online in 2026; a single gate
 - The portal provides 95 dematerialized procedures and 1,672 information sheets, and integrates 183 public institutions, per We Are Tech Africa ([source, 2026-05-05](https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-launches-central-portal-to-streamline-e-services)).
 - The government launched a national portal at www.service-public.gov.bf on 5 May 2026 in Ouagadougou to centralize online public services, per We Are Tech Africa ([source, 2026-05-05](https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-launches-central-portal-to-streamline-e-services)).
 
+### Cote d'Ivoire: 3 Established
+
+Côte d'Ivoire had 315 procedures online on its national portal by 2025; how users sign in is not known.
+
+- SNDI's deputy director general said 315 administrative procedures had been digitised and put online as at 31 December 2025, accessible at the portal servicesublics.gouv.ci ([source, 2025-12-31](https://ivoirexpress.ci/2026/07/28/digitalisation-des-services-publics-en-cote-divoire-les-applications-metiers-developpees-par-la-sndi/)).
+
 ### Mauritania: 3 Established
 
 About forty government services could be completed online in 2026; whether one portal with a shared sign-in carries them is not known.
@@ -165,20 +179,18 @@ South Africa's national portal carried 134 services in 2024; sign-in by national
 - DCDT says the National e-Government Portal currently allows access to 134 e-Services, including licensing, e-recruitment and exam queries, out of 255 services identified for digitisation ([source, 2024-10-11](https://www.dcdt.gov.za/media-statements-releases/532-south-africa-s-significant-improvement-in-the-united-nations-e-government-index-2024.html)).
 - The minister says the National e-Government Portal developed through SITA carries 92 digitised government services ([source, 2024-04-05](https://www.sanews.gov.za/index.php/south-africa/government-accelerates-programme-connect-citizens-internet)).
 
-### Sudan: 3 Established
-
-Sudan's national platform carried over 130 services from 46 bodies in 2026; sign-in by national ID or one shared account is not known.
-
-- Columnist Hassan al-Sir reports browsing the Baladna platform and finding 79 digital services from 42 government bodies ([source, 2026-08-18](https://totelnews.com/archives/18347)).
-- SUNA reports the Director General of Sudan's Digital Transformation Authority told the UN Governance Innovation Summit in Baku that the Baladna platform brings together more than 46 government institutions and 134 digital services ([source, 2026-11-06](https://www.suna.sd/posts/alsodan-yokd-mn-km-alamm-almthd-llabtkar-fy-alhokm-an-althol-alrkmy-mhrk-asasy-laaaad-alaaamar)).
-- The Baldna government-institutions and trade category lists 24 services, such as import registration, electronic export contracts and exporter-importer register renewals ([source, 2026-09-19](https://baldna.gov.sd/services/2/list/1)).
-
 ### Angola: 2 Nascent
 
 Government services were going online in 2026; ten or more online are not on record.
 
 - Portal de T.I. reports that the SEPE (Sistema Electrónico de Serviços Públicos) portal is online and functional, with registration and authentication, a service catalogue and electronic services in employment, education, health, transport and business available to citizens and companies ([source, 2026-10-01](https://pti.ao/sepe-mantem-servicos-online-e-acessiveis-ao-publico/)).
 - The article says requests for homologation of higher-education studies currently go through the Portal dos Serviços Públicos Electronicos (SEPE), and that this stays for three years while a new QR-code procedure approved by the Council of Ministers on 27 October 2026 begins ([source, 2026-10-27](https://pti.ao/ensino-estudantes-passam-a-comprovar-diplomas-por-codigo-qr-sem-deslocar-se-ao-inaarees/)).
+
+### Burundi: 2 Nascent
+
+Burundi's revenue office moved the land tax declaration online in 2026; ten or more services online are not on record.
+
+- The Burundi Revenue Office (OBR) communiqué says land tax declaration for 2026/2027 must be made online on the UMUTANGAKORI II platform by 30 September 2026 ([source, 2026-07](https://www.obr.bi/index.php/communiques/2612-communique-declaration-et-paiement-en-ligne-de-l-impot-foncier)).
 
 ### Cameroon: 2 Nascent
 
@@ -218,13 +230,6 @@ Congo's e-Citizen Portal let people file procedures and pay online in 2026; a co
 
 - The Ministry's page says citizens can use the e-Citizen Portal, from computer or mobile, to file administrative procedures, pay taxes and fees, and track their files in real time ([source, 2026-09-02](https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi)).
 - Addinn's director general said at a 19 December 2024 meeting with the minister that the e-gouv platform, started in September 2024 on a 24-month timeline, will be put online for some priority public services, with nationality certificates and birth extracts soon to follow ([source, 2024-12-19](https://www.adiac-congo.com/content/numerique-les-partenaires-appeles-accelerer-le-projet-e-gouv-161844)).
-
-### Cote d'Ivoire: 2 Nascent
-
-Government services were going online in 2025; ten or more online are not on record.
-
-- The document says the e-Justice platform already accepts online applications for nationality certificates, on which a June 2025 decree to digitise the certificate builds ([source, 2025-06](https://www.wearetech.africa/en/fils-uk/news/tech/ivory-coast-strengthens-e-services-with-digital-nationality-certificate)).
-- The GUCE-CI single window lets businesses do import, export and transit formalities online without travelling, and users track their procedures in real time on its website and the GuceMobil app, the ministry says ([source, 2025-05-22](https://www.commerce.gouv.ci/actualite/133)).
 
 ### DR Congo: 2 Nascent
 
@@ -382,12 +387,6 @@ Government services were going online in 2026; ten or more online are not on rec
 
 - NITA-U launched the U-Learn Platform, developed with the Ministry of Education and Sports, on which over 6,600 teachers from 26 Teacher Training Institutions have enrolled and over 380 users have earned verified digital certificates, as one of 14 e-services being rolled out under UDAP-GovNet ([source, 2026-08-12](https://techafricanews.com/2026/08/12/uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cases/)).
 - Justice Musa Ssekaana said Uganda's Judiciary has rolled ECCMIS out to 42 court stations in and around Kampala, where cases are filed electronically and e-payments are handled on the platform ([source, 2026-04-23](https://nilepost.co.ug/news/337016/justice-ssekaana-leads-judiciary-digital-push-as-eccmis-training-rolls-out-for-judicial-officers)).
-
-### Burundi: Unplaced
-
-Nothing found since 2023 names government services online, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether government services can be used online.
 
 ### Djibouti: Unplaced
 

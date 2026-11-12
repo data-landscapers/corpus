@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SDN,eservices,services,coverage,inservice,2026-11-06,SDN-003;SDN-005;SDN-009,SDN-001=underway;SDN-002=underway;SDN-007=underway;SDN-008=underway,
-SDN,eservices,gateway,coverage,,,,,nothing found
-SDN,eservices,usage,coverage,published,2026-09-19,SDN-004;SDN-006,,
+SDN,eservices,services,coverage,inservice,2026-11-11,SDN-003;SDN-005;SDN-009;SDN-010,SDN-001=underway;SDN-002=underway;SDN-007=underway;SDN-008=underway,
+SDN,eservices,gateway,coverage,single,2026-11-11,SDN-011,,
+SDN,eservices,usage,coverage,published,2026-11-11,SDN-004;SDN-006;SDN-012,,

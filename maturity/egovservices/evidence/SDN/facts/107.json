@@ -1,0 +1,54 @@
+{
+ "slug": "2026-11-11-sdn-baldna-portal-home-and-login-national-id-sudapass",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Ministry of Digital Transformation's Baldna portal lists 141+ digital services (G2G 4, G2B 102, G2C 35).",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Baldna",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "Baldna, the national unified platform for government transactions, serves 48+ government institutions and signs users in with the national number or the Sudapass digital ID.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Baldna",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "The Baldna portal shows 265,785+ completed transactions.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Baldna",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Baldna",
+   "country_label": "Sudan",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation and Communications",
+   "tiers": ""
+  },
+  {
+   "system": "Sudapass",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

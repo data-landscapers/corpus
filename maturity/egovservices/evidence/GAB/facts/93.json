@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-14-gab-gabon-le-logiciel-qui-pilote-le-budget-de-l-etat-est-donc-marocain-dep",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Vectis",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "Involys",
+   "owner": "State budget administration",
+   "tiers": ""
+  }
+ ],
+ "note": "Budget back-office system; no online service for citizens or businesses stated."
+}

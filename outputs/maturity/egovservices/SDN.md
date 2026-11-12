@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** On 6 November 2026 the head of the Digital Transformation Authority [said Baladna brings together 134 digital services from more than 46 government bodies](<https://www.suna.sd/posts/alsodan-yokd-mn-km-alamm-almthd-llabtkar-fy-alhokm-an-althol-alrkmy-mhrk-asasy-laaaad-alaaamar>). The platform [lists 24 services in its trade category](<https://baldna.gov.sd/services/2/list/1>), such as import registration and electronic export contracts. On 1 October 2026 the ministry [added company registration and the renewal of lawyers' licences](<https://alghadalsudani.com/34214/>).
+**Services online.** In November 2026 the Baldna portal [listed 141 digital services](<https://baldna.gov.sd/>): 4 between government bodies, 102 for businesses and 35 for citizens. On 6 November 2026 the head of the Digital Transformation Authority [put them at 134 services from more than 46 bodies](<https://www.suna.sd/posts/alsodan-yokd-mn-km-alamm-almthd-llabtkar-fy-alhokm-an-althol-alrkmy-mhrk-asasy-laaaad-alaaamar>). On 1 October 2026 the ministry [added company registration and the renewal of lawyers' licences](<https://alghadalsudani.com/34214/>).
 
-**Single gateway.** Baldna carries services of several bodies: [trade and import-export services](<https://baldna.gov.sd/services/2/list/1>), and [company registration and lawyers' licences](<https://alghadalsudani.com/34214/>). No source found says how users sign in to it. Neither the national ID nor one shared account is named as its sign-in.
+**Single gateway.** In November 2026 [Baldna served more than 48 government bodies](<https://baldna.gov.sd/>). Users sign in with the national number or the Sudapass digital ID. Its services include [trade registration](<https://baldna.gov.sd/services/2/list/1>) and [lawyers' licences](<https://alghadalsudani.com/34214/>).
 
-**Use published.** [Baldna shows a count of requests for each service](<https://baldna.gov.sd/services/2/list/1>). As at September 2026 they included 79,126 for company import registration and 11,174 for electronic export contracts. In August 2026 [the platform showed 181,958 completed transactions](<https://totelnews.com/archives/18347>).
+**Use published.** In November 2026 [the portal showed 265,785 completed transactions](<https://baldna.gov.sd/>). In August 2026 [it had shown 181,958](<https://totelnews.com/archives/18347>). [Baldna also shows a count of requests for each service](<https://baldna.gov.sd/services/2/list/1>): as at September 2026, 79,126 for company import registration.
 
 ***Also on file***. None found.
 
-***Not found***. No source found says how users sign in to Baldna. The national ID and a shared account were looked for.
+***Not found***. How many people hold accounts on Baldna. A count of transactions by year.

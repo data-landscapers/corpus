@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-22-dza-lactualgerie-plateforme-numerique-services-police-qr",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Police services digital platform (QR code)",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "QR code",
+   "owner": "Sûreté nationale / Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Platform is described as a satisfaction-feedback channel for station visitors; no application or payment service is named."
+}

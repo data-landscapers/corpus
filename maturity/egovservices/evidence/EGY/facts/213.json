@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-egy-remote-power-of-attorney-face-biometric-and-remote-e-signature",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Youm7 reports the justice and communications ministries launched a remote general power-of-attorney service on the Digital Egypt platform, where citizens enter transaction data, pay fees online and verify identity by face scan, with no visit to a notary office.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Digital Egypt platform remote power of attorney",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Egypt platform",
+   "country_label": "Egypt",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Justice / MCIT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

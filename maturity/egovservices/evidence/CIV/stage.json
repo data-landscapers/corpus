@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "2",
-      "services": "underway",
+      "stage": "3",
+      "services": "inservice",
       "gateway": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-001;CIV-002",
-      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
-      "note": "Nationality certificates are applied for on e-Justice (CIV-001) and trade formalities are done online on GUCE-CI (CIV-002): yes to question 1. No count of ten or more services is found, so it stops at 2.",
-      "as_at": "2026-11-03"
+      "stage_sources": "CIV-004",
+      "gaps": "No source found says one national portal carries several ministries' services with sign-in by the national ID or one shared account. No source found gives users, applications or transactions through a national portal.",
+      "note": "SNDI says 315 administrative procedures were digitised and put online on the national services portal by 31 December 2025 (CIV-004), so ten or more services can be completed online. Nothing says how users sign in to the portal, so it stops at 3.",
+      "as_at": "2026-11-12"
     }
   ]
 }

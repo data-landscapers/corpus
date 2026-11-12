@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "3",
+      "stage": "5",
       "services": "inservice",
-      "gateway": "",
-      "usage": "",
+      "gateway": "single",
+      "usage": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "SDN-005;SDN-009;SDN-003",
-      "gaps": "No source found says how users sign in to Baldna, whether by the national ID or by one account shared across ministries.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source says Baldna signs users in by the national ID or one shared account; its request counts cannot stand in, so 79 services from 42 bodies give 3.",
-      "as_at": "2026-11-09"
+      "stage_sources": "SDN-010;SDN-011;SDN-012",
+      "gaps": "",
+      "note": "The Baldna portal carries 141 services of more than 48 government bodies and signs users in with the national number or the Sudapass digital ID (SDN-010, SDN-011), which answers question 4 on its own evidence. The portal publishes 265,785 completed transactions (SDN-012), which meets stage 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

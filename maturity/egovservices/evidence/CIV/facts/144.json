@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-28-civ-digitalisation-des-services-publics-en-cote-d-ivoire-les-applications",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "SNDI's deputy director general said 315 administrative procedures had been digitised and put online as at 31 December 2025, accessible at the portal servicesublics.gouv.ci.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "servicesublics.gouv.ci",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail des services publics (www.servicesublics.gouv.ci)",
+   "country_label": "Côte d'Ivoire (www.servicesublics.gouv.ci)",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government / SNDI",
+   "tiers": ""
+  },
+  {
+   "system": "CEPICI one-stop shop system",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "CEPICI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
