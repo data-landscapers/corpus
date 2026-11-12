@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-23-zwe-zimbabwe-intensifies-cybersecurity-awareness-measures",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Zimbabwe's ICT Minister said the government is working on the National Artificial Intelligence Policy to create an enabling environment for AI.",
+   "as_of": "2024-10-23",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

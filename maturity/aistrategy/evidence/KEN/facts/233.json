@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-12-ken-kenya-s-ai-policy-committee-charts-path-for-responsible-innovation",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "KICTANet reports Kenya launched an AI & Emerging Technologies Technical Committee to develop the country's first national AI and Emerging Technologies policy, led by the Ministry of Information Communication and the Digital Economy, with substantial drafts due by March 2026 and finalisation targeted for June 2026.",
+   "as_of": "2026-01-12",
+   "date_precision": "day",
+   "system": "national AI and Emerging Technologies policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI & Emerging Technologies Technical Committee",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information Communication and the Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

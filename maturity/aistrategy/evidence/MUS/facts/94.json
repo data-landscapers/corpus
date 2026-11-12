@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-31-mus-public-private-people-partnership-ministry-of-ict-kicks-off-first-indu",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "On 31 July 2025 the Ministry of Information Technology, Communication and Innovation launched the formulation of the National AI Strategy, with working groups created to draft inputs for its thematic chapters.",
+   "as_of": "2025-07-31",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence (AI) Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence (AI) Strategy",
+   "country_label": "Mauritius",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

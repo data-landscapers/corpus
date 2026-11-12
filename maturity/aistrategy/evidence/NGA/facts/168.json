@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-01-nga-partnerships-will-ensure-inclusivity-for-nigeria-s-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Luminate says Nigeria began developing a National Artificial Intelligence Strategy through a week-long workshop of over 100 Nigerian experts, with the Minister of Communications, Innovation and Digital Economy announcing the AI Collective at its close.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Collective",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Data Science Nigeria, Lagos Business School, CJID; housed in NCAIR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

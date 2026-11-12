@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-07-cmr-bold-initiatives-are-being-undertaken-at-accelerating-digital-transfor",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The PATNUC national coordinator says the Ministry of Posts and Telecommunications has elaborated an AI strategic development plan that is receiving attention at government level and awaits validation by the competent institutions.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "AI strategic development plan",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI strategic development plan",
+   "country_label": "Cameroon",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Posts and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -26,3 +26,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-30,SYC,gov.policy--ai-strategy,fact,2,4,SYC-002;SYC-003,"Cabinet approved the Digital & AI Strategy 2026-2031 and an inter-ministerial coordination committee on 28 October 2026: adopted, body named"
 2026-11-05,GHA,gov.policy--ai-strategy,fact,3,3,GHA-023;GHA-024;GHA-036,"The Vice President spoke on 4 November 2026 of developing a national AI strategy; Cabinet approval in February 2026 and the April 2026 launch stand, so the stage holds."
 2026-11-11,MAR,gov.policy--ai-strategy,fact,2,3,MAR-004;MAR-003,Minister launched Morocco AI 2030 on 10 November 2026: adopted and running; no body tied to it
+2026-11-12,CMR,gov.policy--ai-strategy,fact,3,3,CMR-002;CMR-005,"PATNUC coordinator, May 2026: AI strategic plan awaits validation; the minister's July 2025 launch still meets stage 3"
+2026-11-12,DJI,gov.policy--ai-strategy,fact,3,3,DJI-001,UNESCO page dated by year describes the strategy in drafting; the September 2026 launch report still sets stage 3

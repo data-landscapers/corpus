@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-03-egy-charting-egypt-s-path-to-responsible-ai-insights-from-the-multi-stakeh",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The blog names Egypt's National AI Strategies, 2019 and 2025 editions, as documents discussed at the May 2025 roundtable.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National AI Strategy 2025",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Strategy",
+   "country_label": "National AI Strategy (2025 edition)",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Egyptian Charter for Responsible AI",
+   "country_label": "Egyptian Charter for Responsible AI",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

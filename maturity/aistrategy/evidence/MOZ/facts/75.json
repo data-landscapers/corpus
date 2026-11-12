@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-17-moz-intic-challenges-national-universities-to-lead-public-policy-on-artifi",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "INTIC's chairman said on 14 October 2025 that Mozambique, with UNESCO and UNDP, has begun drafting the National Artificial Intelligence Strategy.",
+   "as_of": "2025-10-14",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy",
+   "country_label": "Mozambique National AI Strategy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
