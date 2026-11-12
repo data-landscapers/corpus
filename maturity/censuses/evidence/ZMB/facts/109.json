@@ -1,0 +1,36 @@
+{
+ "slug": "2024-06-04-zmb-worldpop-zamstats-gridded-population-v2-release-cc-by",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "WorldPop and the Zambia Statistics Agency state that household locations and ward-level population counts were collected during the Zambia 2022 Census of Population and Housing.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "2022 Census of Population and Housing",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "preliminary",
+   "fact": "The release states that ward-level population counts from the 2022 Census preliminary results, published by the Zambia Statistics Agency, were used to build the gridded estimates released on 4 June 2024.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "2022 Census of Population and Housing",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2022 Census of Population and Housing",
+   "country_label": "Census 2022",
+   "class": "census",
+   "platform": "",
+   "owner": "Zambia Statistics Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-ner-consultant-international-en-infrastructure-et-securite-informatique",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "A UNFPA Niger posting says the INS data centre and a replication site are being set up to host data of Niger's fifth census (RGPH5), with application deployment and a field pretest in July 2025 and the start of the general enumeration in December 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RGPH5",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
