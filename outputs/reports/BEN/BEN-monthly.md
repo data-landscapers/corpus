@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: BEN
-ledger_rows: 31
+ledger_rows: 34
 not_held: 4
-record: c9f10690d4c3
+record: acc92241dc7d
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: c9f10690d4c3
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -277,6 +279,8 @@ Benin's National Centre for Digital Investigations, CNIN, which reports to the P
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -468,6 +472,22 @@ Summarised under [New investments](#new-investments).
 
 </div>
 
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-justice information system and court interconnection project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Justice au Bénin : les États-Unis mobilisent 2,3 millions de dollars pour moderniser les tribunaux](https://lanouvelletribune.info/2026/11/justice-au-benin-les-etats-unis-mobilisent-23-millions-de-dollars-pour-moderniser-les-tribunaux/)** — La Nouvelle Tribune, 8 November 2026
+
+USD 2.3m US-funded court equipment for northern Benin via UNDP's PARAJ; online criminal record from 1 Nov 2026.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -540,6 +560,28 @@ Benin's Ministry of Justice and Legislation is the first ministry to apply the g
 
 </div>
 
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
+### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated communal software package (PIAC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique dans les mairies : l’Ancb mise sur la mutualisation](https://www.lanation.bj/decentralisation/numerique-dans-les-mairies-lancb-mise-sur-la-mutualisation)** — La Nation, 9 November 2026
+
+35 municipal apps, 27 vendors, 13 domains found at Dassa-Zoumè session, 5-6 Nov 2026; integrated PIAC package weighed.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -579,6 +621,20 @@ Benin's higher education minister, Sèdami Medegan Fagla, said Benin plans an AI
 </div>
 
 ### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Corporate-tax exemption for labelled startups</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : vers un avantage fiscal des startups décompté à partir de l'obtention du label](https://lamarina.bj/2026/10/14/benin-vers-un-avantage-fiscal-des-startups-decompte-a-partir-de-lobtention-du-label/)** — La Marina BJ, 14 October 2026
+
+2027 finance bill art. 20 amends CGI art. 147: exemption runs from labelling, not creation; tabled 7 Oct 2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
