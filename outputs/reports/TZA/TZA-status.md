@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 12
-sources_cited: 290
+sources_cited: 291
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -73,7 +73,7 @@ The weakness is in publication and in enforcement. The rules governing the insta
 ### Public debate and participation in policymaking
 <!-- gov.discourse -->
 
-[Freedom of association and assembly is Tanzania's lowest score on any of the 96 indicators the Ibrahim Index measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tz.pdf) — 12.5 out of 100 in 2023, down 25.0 points over the decade — with civil society space down 22.2 points to 38.0 and 34th of 54. The picture inside that is not uniform: [media freedom rose 7.7 points to 55.8 and 24th of 54 over the same decade while freedom of expression and belief fell 11.6 points to 60.2](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tz.pdf), and [Tanzanians' own confidence in free speech remains near the top of the continent at 88.1 and 2nd of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tz.pdf), though it has itself fallen 11.9 points since 2014. Around the October 2025 election [censorship, VPN registration requirements and shutdowns](https://www.internetgovernance.org/2026/06/09/tanzania-is-getting-online-its-digital-economy-isnt-following/) carried a substantial economic cost.
+[Freedom of association and assembly is Tanzania's lowest score on any of the 96 indicators the Ibrahim Index measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tz.pdf) — 12.5 out of 100 in 2023, down 25.0 points over the decade — with civil society space down 22.2 points to 38.0 and 34th of 54. The picture inside that is not uniform: [media freedom rose 7.7 points to 55.8 and 24th of 54 over the same decade while freedom of expression and belief fell 11.6 points to 60.2](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tz.pdf), and [Tanzanians' own confidence in free speech remains near the top of the continent at 88.1 and 2nd of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tz.pdf), though it has itself fallen 11.9 points since 2014. Around the October 2025 election [censorship, VPN registration requirements and shutdowns](https://www.internetgovernance.org/2026/06/09/tanzania-is-getting-online-its-digital-economy-isnt-following/) carried a substantial economic cost. [In May 2025 the regulator said it had shut more than 80,000 websites and social media accounts, and the government blocked X](https://www.hrw.org/world-report/2026/country-chapters/tanzania).
 
 The formal machinery exists. [An online platform for public participation in consultation on policy and legislation is in place](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), as is [a citizen feedback and grievance mechanism](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and [an access-to-information law is on the books](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). What is harder is getting the material to argue with: [the accessibility and disclosure of public records are among Tanzania's weakest governance scores](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tz.pdf), inside an accountability and transparency sub-category that fell over the decade, and [digital citizen engagement is the weak pillar of the region's GovTech performance](https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success), Tanzania's top-tier placement notwithstanding.
 
