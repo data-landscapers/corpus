@@ -2,12 +2,12 @@
 
 ## Population uptake
 
-**Adults with an account.** [Finance Minister Ngafuan, citing the World Bank Global Findex, says Liberia reached 52 percent account ownership by 2024](<https://www.thenewdawnliberia.com/liberia-expands-digital-finance/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Adults with an account.** [Finance Minister Augustine Ngafuan, citing the World Bank's Global Findex, said Liberia reached 52% account ownership by 2024](<https://www.thenewdawnliberia.com/liberia-expands-digital-finance/>). The New Dawn reported the statement in July 2026. Findex is a survey of adults. No later survey of Liberian adults has been found.
 
-**Account target met.** No survey held since October 2023 puts adults with an account at 79% or more. The nearest held fact: [the one given above](<https://www.thenewdawnliberia.com/liberia-expands-digital-finance/>).
+**Account target met.** [The Findex share of 52% in 2024](<https://www.thenewdawnliberia.com/liberia-expands-digital-finance/>) is well short of four in five adults. It is also just under half. No survey found since 2023 gives a higher share. Four in five would need 27 points more than [the 2024 share](<https://www.thenewdawnliberia.com/liberia-expands-digital-finance/>).
 
-**Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://www.thenewdawnliberia.com/liberia-expands-digital-finance/>).
+**Paying digitally.** No survey found gives the share of adults who made or received a digital payment. The nearest fact found is [the 2024 Findex account share of 52%](<https://www.thenewdawnliberia.com/liberia-expands-digital-finance/>). The Findex share counts accounts, not the payments made from them.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: do over half hold one.
+***Not found***. No survey found since 2023 puts adults with an account at 53% or more. No survey found gives the share of adults who made or received a digital payment.

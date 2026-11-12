@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "2",
-   "share": "quarter",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-001",
-   "gaps": "No source found since October 2023 says: do over half hold one.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "2",
+      "share": "quarter",
+      "target": "",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-001",
+      "gaps": "No survey found since November 2023 puts adults with an account at 53% or more.",
+      "note": "The finance minister, citing Global Findex, puts account ownership at 52% in 2024, a quarter or more. It falls just short of 53%.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

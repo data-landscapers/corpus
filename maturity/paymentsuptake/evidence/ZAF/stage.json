@@ -1,17 +1,18 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "4",
-   "share": "half",
-   "target": "target",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-003",
-   "gaps": "No survey held since October 2023 puts adults paying digitally at 79% or more.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "4",
+      "share": "half",
+      "target": "target",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-003",
+      "gaps": "No survey found since November 2023 puts adults who made or received a digital payment at 79% or more.",
+      "note": "ASAPP, citing FinScope surveys of 2024 and 2025, puts South African adults with a bank account at 89%, four in five or more. No survey found gives the share paying digitally.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

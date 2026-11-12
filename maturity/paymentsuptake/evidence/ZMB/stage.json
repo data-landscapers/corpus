@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "3",
-   "share": "half",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-002",
-   "gaps": "No survey held since October 2023 puts adults with an account at 79% or more.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "3",
+      "share": "half",
+      "target": "",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-002",
+      "gaps": "The 80.1% inclusion rate is not shown to count only bank or mobile money accounts; no survey found puts account holding at 79% or more.",
+      "note": "FinScope 2025 puts mobile money use at 76.2%, over half. Its 80.1% financial inclusion rate is not shown to be account holding, so not stage 4.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

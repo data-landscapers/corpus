@@ -1,17 +1,18 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "3",
-   "share": "half",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-002",
-   "gaps": "No survey held since October 2023 puts adults with an account at 79% or more.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "3",
+      "share": "half",
+      "target": "",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-002",
+      "gaps": "No survey found since November 2023 puts adults with an account at 79% or more.",
+      "note": "Global Findex puts the financial inclusion rate at 58% in 2024, over half. Nothing found puts it at 79% or more.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

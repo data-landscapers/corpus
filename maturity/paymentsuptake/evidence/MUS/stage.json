@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 gives a survey share of adults with an account.",
-      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
-      "as_at": "2026-10-18"
+      "gaps": "The newest figure found, a 2021 COMESA report of 90% of adults with a bank account, is older than three years; no survey since November 2023 gives a share.",
+      "note": "A 2021 COMESA report puts Mauritian adults with a bank account at 90%, but it predates the three-year window. Nothing newer sets a rung.",
+      "as_at": "2026-11-12"
     }
   ]
 }

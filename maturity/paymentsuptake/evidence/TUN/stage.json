@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 gives a survey share of adults with an account.",
-      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
-      "as_at": "2026-10-18"
+      "gaps": "The newest survey found, Global Findex 2021, is older than three years; no survey since November 2023 gives a share of adults with an account.",
+      "note": "Global Findex 2021 puts Tunisian adults with an account at 37%, but it predates the three-year window. Nothing newer sets a rung.",
+      "as_at": "2026-11-12"
     }
   ]
 }

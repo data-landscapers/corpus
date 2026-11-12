@@ -2,12 +2,12 @@
 
 ## Population uptake
 
-**Adults with an account.** [The Central Bank of Kenya's 2024 FinAccess Household Survey puts formal financial access (an active account in own name with a formal provider, covering banks, mobile money, SACCOs and other formal providers) at 84.8 percent of adults, up from 83.7 percent in 2021](<https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Adults with an account.** [The Central Bank of Kenya's 2024 FinAccess Household Survey puts formal financial access at 84.8% of adults](<https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf>). It was 83.7% in 2021. Formal access means an active account in the adult's own name with a formal provider. Providers include banks, mobile money and SACCOs.
 
-**Account target met.** [The Central Bank of Kenya's 2024 FinAccess Household Survey puts formal financial access (an active account in own name with a formal provider, covering banks, mobile money, SACCOs and other formal providers) at 84.8 percent of adults](<https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf>).
+**Account target met.** [The 2024 share of 84.8%](<https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf>) is above four in five adults. It comes from a household survey, so it counts people, not accounts. [The 2021 survey gave 83.7%](<https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf>), also above four in five.
 
-**Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf>).
+**Paying digitally.** No survey found gives the share of Kenyan adults who made or received a digital payment. The nearest fact found is [the FinAccess share of 84.8%](<https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf>). [The survey counts adults with an active account in their own name](<https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf>), at banks, mobile money providers and SACCOs.
 
 ***Also on file***. [M-PESA](<https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf>).
 
-***Not found***. No survey held since October 2023 puts adults paying digitally at 79% or more.
+***Not found***. No survey found gives the share of adults who made or received a digital payment.

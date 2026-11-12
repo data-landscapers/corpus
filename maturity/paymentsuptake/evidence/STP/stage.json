@@ -1,17 +1,18 @@
 {
- "iso3": "STP",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "2",
-   "share": "quarter",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "STP-001",
-   "gaps": "No source found since October 2023 says: do over half hold one.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "2",
+      "share": "quarter",
+      "target": "",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "STP-001",
+      "gaps": "No survey share of adults with a mobile money account, or with any account, has been found, so 53% is not shown.",
+      "note": "The central bank's second demand-side survey, of early 2025, puts adults with a bank account at 38%, a quarter or more. It gives no share with mobile money, so over half is not shown.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 gives a survey share of adults with an account.",
-      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
-      "as_at": "2026-10-18"
+      "gaps": "The newest figure found, for 2021, is older than three years; no survey since November 2023 gives a share of adults with an account.",
+      "note": "A UNDP report puts adults with an account under 6% in 2021, but that predates the three-year window. Nothing newer sets a rung.",
+      "as_at": "2026-11-12"
     }
   ]
 }

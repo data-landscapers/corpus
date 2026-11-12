@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "3",
-      "share": "half",
+      "stage": "2",
+      "share": "quarter",
       "target": "",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-002",
-      "gaps": "No survey held since October 2023 puts adults with an account at 79% or more.",
-      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MWI-001",
+      "gaps": "Two surveys disagree: FinScope 2023 puts adults using mobile money at 69%, and the newer Global Findex puts adults with an account at 50% in 2024. No survey found puts it at 53% or more.",
+      "note": "The newest survey, Global Findex 2025, puts adults with a financial account at 50% in 2024, a quarter or more but under 53%. It replaces FinScope 2023's 69% using mobile money, which had set stage 3.",
+      "as_at": "2026-11-12"
     }
   ]
 }

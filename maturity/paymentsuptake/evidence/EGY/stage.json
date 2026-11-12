@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "EGY-001",
-      "gaps": "No survey held since October 2023 puts adults with an account at 79% or more.",
-      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
-      "as_at": "2026-10-18"
+      "gaps": "The source does not attribute the 74.8% to a survey; no survey share of adults with an account has been found, and none at 79% or more.",
+      "note": "The Central Bank of Egypt puts Egyptians aged 15 and over actively using financial accounts at 74.8% at the end of 2024, over half. The bank does not say the figure comes from a survey; staged on it as the ladder is read now.",
+      "as_at": "2026-11-12"
     }
   ]
 }

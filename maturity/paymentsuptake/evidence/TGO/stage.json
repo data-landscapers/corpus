@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 gives a survey share of adults with an account.",
-      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
-      "as_at": "2026-10-18"
+      "gaps": "The newest survey found, Afrobarometer's of March 2022, is older than three years; no survey since November 2023 gives a share of adults with an account.",
+      "note": "Afrobarometer's March 2022 survey found 78% of Togolese adults with a mobile money account, but it predates the three-year window. Nothing newer sets a rung.",
+      "as_at": "2026-11-12"
     }
   ]
 }

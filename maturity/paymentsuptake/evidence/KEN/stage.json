@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "KEN-002",
-      "gaps": "No survey held since October 2023 puts adults paying digitally at 79% or more.",
-      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No survey found since November 2023 puts adults who made or received a digital payment at 79% or more.",
+      "note": "The 2024 FinAccess Household Survey puts adults with an active formal account at 84.8%, four in five or more. No survey found gives the share paying digitally.",
+      "as_at": "2026-11-12"
     }
   ]
 }

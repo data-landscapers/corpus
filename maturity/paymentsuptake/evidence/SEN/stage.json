@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SEN-002",
-      "gaps": "No survey held since October 2023 puts adults paying digitally at 79% or more.",
-      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
-      "as_at": "2026-10-18"
+      "gaps": "The 83.3% is not attributed to a survey; no survey found puts adults who made or received a digital payment at 79% or more.",
+      "note": "The BCEAO puts adults holding a bank, postal, treasury, microfinance or e-money account at 83.3% in 2023, four in five or more. The figure is not attributed to a survey; staged on it as the ladder is read now.",
+      "as_at": "2026-11-12"
     }
   ]
 }

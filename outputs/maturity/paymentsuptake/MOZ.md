@@ -2,12 +2,12 @@
 
 ## Population uptake
 
-**Adults with an account.** [The Banco de Moçambique report, citing the World Bank Global Findex Database 2025 (face-to-face survey in Mozambique 15 October to 16 December 2024, excluding Cabo Delgado and some districts, 11% of the population), says 46% of adults hold an electronic money account and 25% a traditional bank account](<https://www.bancomoc.mz/media/nvelycjp/relatorio-inclusao-finaceira-maio031025pt-f.pdf>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Adults with an account.** [A Banco de Moçambique report cites Global Findex 2025: 46% of adults hold an electronic money account and 25% a traditional bank account](<https://www.bancomoc.mz/media/nvelycjp/relatorio-inclusao-finaceira-maio031025pt-f.pdf>). The survey was face to face, from 15 October to 16 December 2024. It left out Cabo Delgado and some other districts, about 11% of the population.
 
-**Account target met.** No survey held since October 2023 puts adults with an account at 79% or more. The nearest held fact: [the one given above](<https://www.bancomoc.mz/media/nvelycjp/relatorio-inclusao-finaceira-maio031025pt-f.pdf>).
+**Account target met.** [The Findex share of 46% with an electronic money account](<https://www.bancomoc.mz/media/nvelycjp/relatorio-inclusao-finaceira-maio031025pt-f.pdf>) is well short of four in five adults. The report does not give the share holding either kind of account. [Adults with a traditional bank account were 25%](<https://www.bancomoc.mz/media/nvelycjp/relatorio-inclusao-finaceira-maio031025pt-f.pdf>).
 
-**Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://www.bancomoc.mz/media/nvelycjp/relatorio-inclusao-finaceira-maio031025pt-f.pdf>).
+**Paying digitally.** No survey found gives the share of adults who made or received a digital payment. The nearest fact found is [the Findex share of 46% with an electronic money account](<https://www.bancomoc.mz/media/nvelycjp/relatorio-inclusao-finaceira-maio031025pt-f.pdf>).
 
 ***Also on file***. [M-Pesa](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>); [Adianta-La](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>).
 
-***Not found***. No source found since October 2023 says: do over half hold one.
+***Not found***. No share of adults holding either a bank or an electronic money account has been found. No survey found gives the share of adults who made or received a digital payment.

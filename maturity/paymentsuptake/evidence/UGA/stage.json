@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "UGA-001",
-      "gaps": "No survey held since October 2023 puts adults with an account at 79% or more.",
-      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No survey found since November 2023 puts adults with a bank or mobile money account at 79% or more.",
+      "note": "FinScope Uganda 2023 puts adults registered for mobile money at 64%, over half. Nothing found puts account holding at 79% or more.",
+      "as_at": "2026-11-12"
     }
   ]
 }

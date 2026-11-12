@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MDG-001",
-      "gaps": "No source found since October 2023 says: does a quarter of adults hold an account.",
-      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No survey found since November 2023 puts adults with an account at 26% or more.",
+      "note": "Global Findex 2025, cited by AfricaNenda in November 2025, puts adults with a formal account at 24%, under a quarter. That dated survey share is what stage 1 needs.",
+      "as_at": "2026-11-12"
     }
   ]
 }

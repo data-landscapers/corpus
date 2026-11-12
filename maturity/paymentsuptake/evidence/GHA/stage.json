@@ -9,10 +9,10 @@
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-001;GHA-002",
-      "gaps": "No survey held since October 2023 puts adults who made or received a digital payment at 79% or more; the survey behind the 81% is not named or dated.",
-      "note": "The Bank of Ghana's governor said in November 2026 that recent global surveys put adults with a financial account at about 81% (GHA-001, GHA-002), so stage 4. No survey share of adults paying digitally is held.",
-      "as_at": "2026-11-03"
+      "stage_sources": "GHA-002;GHA-003",
+      "gaps": "No survey found since November 2023 puts adults who made or received a digital payment at 79% or more.",
+      "note": "The Bank of Ghana's governor said in November 2026 that recent global surveys put adults with an account at about 81%, and the deputy finance minister cited Global Findex 2025 at above 80%. No survey found gives the share paying digitally.",
+      "as_at": "2026-11-12"
     }
   ]
 }

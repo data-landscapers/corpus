@@ -4,4 +4,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing found since October 2023 gives a survey share of adults with an account.
+***Not found***. No survey since 2023 gives a share of adults with an account. The newest found is FinScope Zimbabwe 2022.

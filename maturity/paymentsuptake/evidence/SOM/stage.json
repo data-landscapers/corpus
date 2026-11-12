@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "unplaced",
-   "share": "",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 gives a survey share of adults with an account.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "unplaced",
+      "share": "",
+      "target": "",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "SOM-FAS2026, as an opinion writer describes it, puts bank penetration at about 19% of adults and the reach of mobile money infrastructure at 87%; neither is the share holding a bank or mobile money account.",
+      "note": "The 19% counts bank accounts alone and the 87% describes the reach of mobile money infrastructure, not adults holding an account. Neither sets a rung.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

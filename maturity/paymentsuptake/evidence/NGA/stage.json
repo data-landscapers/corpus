@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "3",
-   "share": "half",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-004;NGA-002",
-   "gaps": "No survey held since October 2023 puts adults with an account at 79% or more.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "3",
+      "share": "half",
+      "target": "",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-004;NGA-002",
+      "gaps": "No survey found since November 2023 puts adults with an account at 79% or more.",
+      "note": "EFInA's 2026 survey, weighted by the statistics bureau, puts formal financial inclusion at 73% of adults, over half. Nothing found puts it at 79% or more.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

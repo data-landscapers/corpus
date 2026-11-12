@@ -21,3 +21,54 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,SLE,dpi.pay--population-uptake,fact,no evidence,2,SLE-001,WTO TPR summary (2025): about 29% of adults hold a formal or mobile money account; staged at 2
 2026-10-30,GAB,dpi.pay--population-uptake,fact,2,3,GAB-002,"GSMA October 2026 report: 62% of adults hold a mobile money account, over half: stage 3"
 2026-11-03,GHA,dpi.pay--population-uptake,fact,no evidence,4,GHA-001;GHA-002,"BoG governor (Nov 2026): recent global surveys put adults with an account at about 81%, so stage 4"
+2026-11-12,AGO,dpi.pay--population-uptake,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,BDI,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,BEN,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,BFA,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,BWA,dpi.pay--population-uptake,review,3,3,BWA-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,CAF,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,CIV,dpi.pay--population-uptake,review,3,3,CIV-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,CMR,dpi.pay--population-uptake,review,3,3,CMR-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,COD,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,COG,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,COM,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,CPV,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,DZA,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,EGY,dpi.pay--population-uptake,review,3,3,EGY-001,"Rebuild: first-pass cell read afresh; the central bank's figure is not attributed to a survey, held on the ladder as read now; stage held"
+2026-11-12,ERI,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,ETH,dpi.pay--population-uptake,review,2,2,ETH-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,GHA,dpi.pay--population-uptake,review,4,4,GHA-002;GHA-003,Rebuild: Global Findex 2025 at above 80% (GHA-003) added to the stage's sources; stage held
+2026-11-12,GIN,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,GMB,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,GNB,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,GNQ,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,KEN,dpi.pay--population-uptake,review,4,4,KEN-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,LBR,dpi.pay--population-uptake,review,2,2,LBR-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,LBY,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,LSO,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,MAR,dpi.pay--population-uptake,review,3,2,MAR-004,"Rebuild: the report's Global Findex 2024 survey puts adults with an account at 44% (MAR-004); its own 58% is a count from banks' reporting, not a survey: 3->2"
+2026-11-12,MDG,dpi.pay--population-uptake,review,1,1,MDG-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,MLI,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,MOZ,dpi.pay--population-uptake,review,2,2,MOZ-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,MRT,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,MUS,dpi.pay--population-uptake,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,MWI,dpi.pay--population-uptake,review,3,2,MWI-001,"Rebuild: the newest survey, Global Findex 2025, puts adults with an account at 50% in 2024 (MWI-001), replacing FinScope 2023's 69% using mobile money: 3->2"
+2026-11-12,NAM,dpi.pay--population-uptake,review,3,3,NAM-002;NAM-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,NER,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,NGA,dpi.pay--population-uptake,review,3,3,NGA-004;NGA-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,RWA,dpi.pay--population-uptake,review,3,3,RWA-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,SDN,dpi.pay--population-uptake,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,SEN,dpi.pay--population-uptake,review,4,4,SEN-002,"Rebuild: first-pass cell read afresh; the central bank's figure is not attributed to a survey, held on the ladder as read now; stage held"
+2026-11-12,SOM,dpi.pay--population-uptake,review,unplaced,unplaced,,"Rebuild: SOM-FAS2026's 87% is the reach of mobile money infrastructure and its 19% banks alone, neither adults holding an account; unplaced held"
+2026-11-12,SSD,dpi.pay--population-uptake,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,STP,dpi.pay--population-uptake,review,2,2,STP-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,SWZ,dpi.pay--population-uptake,review,3,3,SWZ-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,SYC,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,TCD,dpi.pay--population-uptake,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,TGO,dpi.pay--population-uptake,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,TUN,dpi.pay--population-uptake,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,TZA,dpi.pay--population-uptake,review,3,3,TZA-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,UGA,dpi.pay--population-uptake,review,3,3,UGA-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,ZAF,dpi.pay--population-uptake,review,4,4,ZAF-003,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,ZMB,dpi.pay--population-uptake,review,3,3,ZMB-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-12,ZWE,dpi.pay--population-uptake,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held

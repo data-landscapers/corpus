@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MOZ-001",
-      "gaps": "No source found since October 2023 says: do over half hold one.",
-      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No share of adults holding either a bank or an electronic money account has been found, so 53% is not shown; the Findex fieldwork left out Cabo Delgado and some districts.",
+      "note": "The Banco de Moçambique report, citing Global Findex 2025, puts adults with an electronic money account at 46% and with a bank account at 25%. The overlap is not given, so the share holding either is not shown to reach 53%.",
+      "as_at": "2026-11-12"
     }
   ]
 }

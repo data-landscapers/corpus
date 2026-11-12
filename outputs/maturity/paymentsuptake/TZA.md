@@ -2,12 +2,12 @@
 
 ## Population uptake
 
-**Adults with an account.** [The FinScope Tanzania 2023 survey showed mobile money adoption at 72% in 2023, up from 60% in 2017](<https://www.thecitizen.co.tz/tanzania/news/national/mobile-money-surge-fuels-cashless-growth-5578364>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Adults with an account.** [The Citizen reported in September 2026 that the FinScope Tanzania 2023 survey put mobile money adoption at 72%, up from 60% in 2017](<https://www.thecitizen.co.tz/tanzania/news/national/mobile-money-surge-fuels-cashless-growth-5578364>). A mobile money account counts towards the frame's measure. No newer survey of Tanzanian adults has been found.
 
-**Account target met.** No survey held since October 2023 puts adults with an account at 79% or more. The nearest held fact: [the one given above](<https://www.thecitizen.co.tz/tanzania/news/national/mobile-money-surge-fuels-cashless-growth-5578364>).
+**Account target met.** [The 2023 adoption rate of 72%](<https://www.thecitizen.co.tz/tanzania/news/national/mobile-money-surge-fuels-cashless-growth-5578364>) is short of four in five. No survey found gives the share of Tanzanian adults holding a bank or mobile money account. [Adoption rose from 60% in 2017](<https://www.thecitizen.co.tz/tanzania/news/national/mobile-money-surge-fuels-cashless-growth-5578364>), twelve points in six years.
 
-**Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://www.thecitizen.co.tz/tanzania/news/national/mobile-money-surge-fuels-cashless-growth-5578364>).
+**Paying digitally.** No survey found gives the share of adults who made or received a digital payment. The nearest fact found is [FinScope's 72% mobile money adoption](<https://www.thecitizen.co.tz/tanzania/news/national/mobile-money-surge-fuels-cashless-growth-5578364>). FinScope's figure counts adoption of mobile money, not the share of adults paying digitally.
 
 ***Also on file***. None found.
 
-***Not found***. No survey held since October 2023 puts adults with an account at 79% or more.
+***Not found***. No survey found gives the share of adults holding a bank or mobile money account. No survey found gives the share of adults who made or received a digital payment.
