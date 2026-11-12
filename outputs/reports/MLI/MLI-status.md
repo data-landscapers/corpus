@@ -317,7 +317,7 @@ On 28 August 2026 [the health insurance fund CANAM closed a staff session on per
 
 Mali ranked [131st in the Global Innovation Index in 2024](https://www.wipo.int/edocs/gii-ranking/2024/ml.pdf), in the bottom quartile of the ranked economies.
 
-In March 2025 [the Bamako Forum on digital technology and social cohesion published a comparison of cybercrime, data-protection and telecommunications law in Mali, Burkina Faso and Niger, written with a Bamako law faculty academic](https://www.sfcg.org/wp-content/uploads/2025/03/Regulation-du-numerique-au-Sahel-Etat-des-lieux-et-perspectives-pour-un-modele-centre-sur-lhumain.pdf).
+In March 2025 [the Bamako Forum on digital technology and social cohesion published a comparison of cybercrime, data-protection and telecommunications law in Mali, Burkina Faso and Niger](https://www.sfcg.org/wp-content/uploads/2025/03/Regulation-du-numerique-au-Sahel-Etat-des-lieux-et-perspectives-pour-un-modele-centre-sur-lhumain.pdf). [It was written with a Bamako law faculty academic](https://www.sfcg.org/wp-content/uploads/2025/03/Regulation-du-numerique-au-Sahel-Etat-des-lieux-et-perspectives-pour-un-modele-centre-sur-lhumain.pdf).
 
 ## Inclusion
 

@@ -311,7 +311,7 @@ Behind that sits about US$4.5 billion of external and private commitment to Nige
 
 [In May 2025 NITDA commissioned a National Cybersecurity Centre at Bayero University, Kano, for cyber education, research and talent development](https://techafricanews.com/2025/05/28/nigeria-takes-bold-step-in-cybersecurity-with-new-national-centre-in-kano/).
 
-[In April 2024 Data Science Nigeria, Lagos Business School and a journalism centre formed an AI Collective at the national AI and robotics centre, with US$1.5m over three years from Luminate](https://luminategroup.com/posts/news/partnerships-nigeria-ai-strategy).
+[In April 2024 Data Science Nigeria, Lagos Business School and a journalism centre formed an AI Collective at the national AI and robotics centre](https://luminategroup.com/posts/news/partnerships-nigeria-ai-strategy). [Luminate gave it US$1.5m over three years](https://luminategroup.com/posts/news/partnerships-nigeria-ai-strategy).
 
 ## Inclusion
 
