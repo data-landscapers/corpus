@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-southwood-chad-landlocked-one-international-fibre-exit",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Russell Southwood says the Ndjamena Internet Exchange (DJAMIX) has nine members, down from 11 in 2024, about half of them ISPs; local traffic is not available.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Ndjamena Internet Exchange (DJAMIX)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

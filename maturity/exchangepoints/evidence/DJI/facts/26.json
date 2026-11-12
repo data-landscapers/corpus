@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-01-dji-vers-un-hub-numerique-mondial",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Djibouti Internet Exchange",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Names the Djibouti Internet Exchange and a 2023 AMS-IX agreement to replace it, but does not say networks exchange traffic there; hopes of Facebook, Google or Amazon are aspirations."
+}
