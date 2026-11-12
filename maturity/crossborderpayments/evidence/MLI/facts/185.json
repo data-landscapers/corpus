@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-mli-mali-nouvelles-regles-pour-les-transferts-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "APA says fourteen Malian institutions were authorised to open PI-SPI services to the public per a September 2026 list, including BNDA, BDM, Ecobank, Coris Bank and Orange Finances Mobiles Mali.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": "Cross-country tariff alignment is planned for 1 June 2027."
+}

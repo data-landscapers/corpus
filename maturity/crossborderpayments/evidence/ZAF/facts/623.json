@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-zaf-end-of-an-era-for-south-africa-s-payments-system",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "eriinfo reports that banks in the Common Monetary Area, including South Africa's, are directed to move low-value cross-border payments off the SADC real-time gross settlement system onto TCIB by March 2027.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "SADC-RTGS / TCIB",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TCIB",
+   "country_label": "South Africa",
+   "class": "crossborder",
+   "platform": "regional real-time low-value scheme",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
