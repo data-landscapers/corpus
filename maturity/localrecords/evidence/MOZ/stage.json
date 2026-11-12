@@ -3,17 +3,18 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "2",
+      "stage": "3",
       "governance": "owner:ministry",
       "recorded": "register",
-      "held": "",
-      "last12": "no-change",
-      "authorities": "",
+      "held": "local",
+      "last12": "",
+      "authorities": "count:1",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-002",
-      "gaps": "The only recording stated is Maputo municipality's property tax system, on a September 2020 assessment; no fact says where the record is held, how many municipalities record, or that e-SGA, specified with a revenue module (MOZ-001), is in use anywhere. No plan or finance is stated and no dated event falls inside the twelve months.",
-      "note": "Only the capital's municipality is shown recording, with a national system specified and not shown live: both are stage 2. Stage 3 needs a system live in local governments outside the capital."
+      "stage_sources": "MOZ-004;MOZ-005;MOZ-006",
+      "gaps": "Beira is the one municipality outside the capital shown recording (March 2025), with no total of municipalities; Nampula had no electronic system for its personal municipal tax in 2025 (MOZ-003). e-SGA is specified with a revenue module (MOZ-001) and not shown in use. No plan or finance is stated and nothing is dated inside the twelve months.",
+      "note": "Beira municipality bills property tax from a digitised land registry linked to its tax collection (MOZ-004, MOZ-005, March 2025): a register live outside the capital, on a count of one, stage 3. Stage 4 needs more than half of municipalities on a share or a count with a denominator.",
+      "as_at": "2026-11-12"
     }
   ]
 }

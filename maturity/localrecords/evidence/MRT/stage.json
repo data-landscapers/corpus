@@ -3,17 +3,18 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "2",
-      "governance": "",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
       "recorded": "register",
       "held": "local",
-      "last12": "no-change",
-      "authorities": "pilot",
+      "last12": "",
+      "authorities": "count:30",
       "cap": "",
       "flags": "register survey",
-      "stage_sources": "MRT-004;MRT-006;MRT-008",
-      "gaps": "El Mouhassil is stated live in one commune, Sebkha in Nouakchott, since April 2019; eight others were installing it in April 2020, Rosso held a training on it in July 2023 and Zouerate launched its own programme in May 2023, and no fact says any of them records. Every row is older than the 36 months to the as-at, so governance holds nothing and nothing is dated inside the twelve months; no count of communes is given.",
-      "note": "One commune recording, with others installing, trained or launching, is a pilot. Stage 3 needs the system past its pilot and live in communes outside the capital, which no fact states."
+      "stage_sources": "MRT-012;MRT-015;MRT-016;MRT-006",
+      "gaps": "About 30 municipalities use El Mouhassil (April 2025), with no total of communes given, so the count is a floor. Each commune holds its own database; nothing says it reports to the centre. No plan is stated and nothing is dated inside the twelve months.",
+      "note": "The decentralisation directorate says El Mouhassil, in use since 2020, now serves about 30 municipalities (MRT-012, April 2025), recording a census of taxpayers in each commune's database (MRT-015, MRT-016): live past its pilot, a count with no total, stage 3. Stage 4 needs more than half of communes on a share or a count with a denominator.",
+      "as_at": "2026-11-12"
     }
   ]
 }

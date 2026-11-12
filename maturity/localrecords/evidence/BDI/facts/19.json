@@ -1,0 +1,46 @@
+{
+ "slug": "2026-02-22-bdi-communes-bubanza-bukinanyana-kayanza-ngozi-kirundo-muyinga-cankuzo-ruy",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "receipts",
+   "fact": "ACO Burundi reports the Ministry of Interior's permanent secretary saying the E-TAXE reform, begun on 23 August 2024 in twelve pilot communes with CRDB Bank's digital collection terminals, is functional and gives traceability of communal revenue.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "E-TAXE",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "held",
+   "value": "shared",
+   "fact": "ACO Burundi reports the Ministry of Interior's permanent secretary citing centralisation of data as a result of E-TAXE in the twelve pilot communes.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "E-TAXE",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "E-TAXE for communal revenue runs in twelve pilot communes since 23 August 2024, with national extension still to be prepared, per the 20 February 2026 Gitega workshop reported by ACO Burundi.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "E-TAXE",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-TAXE",
+   "country_label": "Burundi",
+   "class": "revenue",
+   "platform": "CRDB Bank digital collection terminals",
+   "owner": "Ministry of Interior with CRDB Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

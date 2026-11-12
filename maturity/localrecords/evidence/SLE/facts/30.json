@@ -1,0 +1,56 @@
+{
+ "slug": "2026-09-29-sle-impact-in-sierra-leone-from-city-pilot-to-national-reform-model",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "LoGRI says Freetown City Council runs the Moptax property tax system, with a tax register of about 110,000 properties and digital billing, collecting over $2.3M in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Mobile Property Tax System (Moptax)",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "LoGRI says Kenema's property roll doubled from 14,682 to 27,545 properties on Moptax, with compliance at 45% and mobile money integration added.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Mobile Property Tax System (Moptax)",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:3",
+   "fact": "LoGRI says Moptax runs in Freetown, Kenema and Makeni, the last since 2024 with the valuation roll up from 12,835 to 15,917 properties, and that the platform was adopted as the national Municipal Property Tax System with nationwide rollout planned.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Municipal Property Tax System (MPTS SL)",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "LoGRI says that by 2025 Freetown City Council was running the platform itself with minimal external support.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Mobile Property Tax System (Moptax)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile Property Tax System (Moptax)",
+   "country_label": "Moptax",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Freetown City Council",
+   "tiers": "Freetown, Kenema, Makeni"
+  }
+ ],
+ "note": ""
+}

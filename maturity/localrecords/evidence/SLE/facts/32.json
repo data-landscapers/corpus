@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-20-sle-public-accounts-committee-holds-local-councils-accountable-over-2-mill",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PETRA",
+   "country_label": "Sierra Leone",
+   "class": "accounts",
+   "platform": "financial management system",
+   "owner": "Ministry of Finance (PFMRD)",
+   "tiers": ""
+  }
+ ],
+ "note": "PETRA is a financial management system; the text does not say councils record payers and payments of their own revenue in it."
+}

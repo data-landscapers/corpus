@@ -23,12 +23,12 @@ The norm is the African Union's Digital Transformation Strategy, with the decent
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 1 |
-| 3 Established | 15 |
-| 2 Nascent | 24 |
+| 4 Operating | 2 |
+| 3 Established | 17 |
+| 2 Nascent | 22 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 12 |
+| No evidence | 11 |
 
 ## Countries
 
@@ -44,6 +44,18 @@ By February 2023, 169 of 184 councils had started using a centrally hosted billi
 - PO-RALG's minister told the National Assembly that by February 2023, 169 councils had started to use TAUSI, which replaced LGRCIS in 2022/23; no total of councils is given in this document ([source, 2023-02](https://dailynews.co.tz/how-usaid-ps3-project-increased-efficiency-in-govt-systems/)).
 - The CAG says there is no budget for system implementation in 137 LGAs and recommends PO-RALG secure funding for the full rollout of TAUSI in all 184 LGAs ([source, 2024](https://www.nao.go.tz/uploads/Annual_General_Report_for_Audit_of_PO-RALG__Regional_Administrations_and_Local_Government_Authorities_FY_2023-24.pdf)).
 
+### Uganda: 4 Operating
+
+A shared revenue register is in use in 166 of 176 local governments (2025); a published share for all is not known.
+
+*Advancing.*
+
+- Habari Daily reports the finance ministry's Lugoloobi saying IRAS, a digital revenue system, has been rolled out to all 176 local governments and holds 3,101,290 registered taxpayers, with bills, payments and arrears recorded ([source, 2026-10](https://habaridaily.com/the-grizzly-wall-behind-governments-heavy-burden-in-funding-local-governments/)).
+- Habari Daily reports the finance ministry's Lugoloobi saying IRAS, a digital revenue system, has been rolled out to all 176 local governments, giving them a common database that reports to the centre ([source, 2026-10](https://habaridaily.com/the-grizzly-wall-behind-governments-heavy-burden-in-funding-local-governments/)).
+- IRAS is in use in 166 vote-level local governments, according to the National Building Review Board; no total is given ([source, 2025-04-10](https://nbrb.go.ug/bims-and-iras-integrated-to-boost-compliance-and-revenue-generation-in-local-governments/)).
+- The Independent reports the Auditor General's FY2024/25 review of 30 local governments found staff using IRAS for assessment, receipting, reconciliation and reporting of local revenue, with shortfalls in skills, connectivity and POS devices ([source, 2025](https://www.independent.co.ug/system-failures-blamed-for-shs52-billion-local-revenue-shortfall/)).
+- The Local Government Finance Commission describes IRAS as an online and mobile platform through which local governments collect revenue by registration, assessment, billing and payment ([source, 2024-03-26](https://thecooperator.news/kikuube-district-leaders-urged-to-utilise-automated-revenue-collection-system/)).
+
 ### Angola: 3 Established
 
 A finance ministry system recording municipal payers and fees reached all 164 municipalities by 2021; no source found says how many use it.
@@ -54,14 +66,14 @@ A finance ministry system recording municipal payers and fees reached all 164 mu
 
 ### Burundi: 3 Established
 
-Thirty communes collect local revenue electronically by 2026, recording payments only; no source found says where the record is held and the share of communes.
+Thirty communes collect revenue electronically and one keeps a register of payers (2026); the share of communes is not known.
 
 *Advancing.*
 
 - The catalogue note on the Interior ministry's Q3 FY2025/26 execution report lists 30 communes digitalised in communal revenue, with the digitalisation of collection being extended; no total of communes is given and the document dates only by its 2026-07 publication ([source, 2026-07](https://finances.gov.bi/wp-content/uploads/2026/07/CANEVAS-RAPPORT_MIDCSP_2025-2026_T3.xlsx)).
 - IBB M+ takes payments from traders by phone or from agents who convert cash to electronic money paid into the commune's account, with a notification per transaction to a commune officer, and keeps the data to follow revenue ([source, 2026-05-05](https://communebutihinda.gov.bi/butihinda-en-marche-vers-la-digitalisation-des-recettes-communales-grace-a-la-plateforme-ibb-m/)).
 - Kayanza's accountant said 48 of the commune's 54 collectors use POS machines to collect, with the revenue transferred digitally to the commune's account and staff only monitoring ([source, 2025-06](https://burundi-eco.com/recettes-communales-la-commune-kayanza-plus-productive-au-cours-de-lexercice-2024-%e2%80%90-2025/)).
-- UNDP's mission of 16-20 June 2025 reported the E-Taxe system operational in communes such as Kayanza; only Kayanza is named and no total is given ([source, 2025-06](https://www.undp.org/fr/burundi/actualites/le-pnud-et-le-gouvernement-evaluent-conjointement-les-interventions-sur-terrain)).
+- VNG International reports that the commune of Nyanza, in Burunga, integrated the taxpayer information it collected into its accounting software, and that eight communes were trained in bookkeeping software ([source, 2026-09-17](https://www.vng-international.nl/project/sdlg-burundi/)).
 
 ### Eswatini: 3 Established
 
@@ -114,6 +126,17 @@ Five of 35 local governments recorded revenue digitally by 2025, three with regi
 - UNDP Malawi describes LORMIS as a system built and run by the Mwanza District Council's own systems analyst, working on an Android application and a second platform, with supervisors at the council office tracing transactions; it states no reporting to a national system ([source, 2025-02](https://www.undp.org/malawi/stories/digital-tool-improves-how-mwanza-collects-revenue)).
 - UNDP Malawi states that Mwanza is using all components of LORMIS; its developer hopes more districts will adopt it, and no other council or total of councils is given ([source, 2025-02](https://www.undp.org/malawi/stories/digital-tool-improves-how-mwanza-collects-revenue)).
 
+### Mauritania: 3 Established
+
+About 30 municipalities record taxpayers in a revenue system in use since 2020 (2025); the share of all communes is not known.
+
+*Register survey.*
+
+- Mauritania's decentralisation directorate says the municipal collector application, in use since 2020, now benefits about 30 municipalities and will be extended to the rest ([source, 2025-04](https://www.rimtoday.net/?q=node%2F45609)).
+- The mayor of Ksar says the El Mouhassil programme runs a full taxpayer census whose data go into the municipal database, with the commune's office then applying council decisions on the municipal tax, set on 14 criteria per taxpayer ([source, 2023-12](https://ami.mr/fr/archives/235987)).
+- The mayor says the census data are entered in the Ksar municipal database, managed by an office the commune created ([source, 2023-12](https://ami.mr/fr/archives/235987)).
+- In Sebkha, a seven-week census of taxpayers found 10,564 taxpayers instead of the 2,000 officially recognised; the El Mouhassil software, launched in April 2019, issues numbered barcoded fiscal stamps, tracks each stamp from stock to sale to its payment into the commune's Treasury account, and 13 agents with tablets cover 16 sectors and scan each trader's stamp for paid, paid-this-month or overdue status ([source, 2020-04](https://www.cridem.org/C_Info.php?article=735039)).
+
 ### Morocco: 3 Established
 
 Communes issue local tax bills in a national system, in more than 100 large municipalities in August 2025; no source found reports the share recording.
@@ -124,6 +147,14 @@ Communes issue local tax bills in a national system, in more than 100 large muni
 - The World Bank status report says GIR-CT operationalisation is complete in more than 100 large municipalities (target of at least 100 large municipalities), still to be verified; it gives no total of municipalities ([source, 2025-08-06](https://documents1.worldbank.org/curated/en/099091725093035764/pdf/P169330-2f57d0eb-443d-4f4f-8ece-fd23a0d3699f.pdf)).
 - Hespress, citing unnamed informed sources, reports that communal tax officials issue annual orders de recettes (bills) for local taxes in GIR-CT and, in a next phase, recovery of those orders is to run through the same system, sent electronically to the Treasury accountants; payments are collected by the accountants, not recorded in the commune's system ([source, 2025-05-29](https://fr.hespress.com/426411-casablanca-settat-mobilisation-des-autorites-pour-renforcer-la-collecte-des-taxes-locales-et-eviter-la-prescription.html)).
 - The Local Finance Directorate of the Interior Ministry's DGCT instructed prefecture and province services to have the collectivities' authorising officers use GIR-CT exclusively to upload revenue orders, and to abandon software the collectivities had bought or built; the orders pass electronically to the Treasury's accountants ([source, 2025-05-29](https://fr.hespress.com/426411-casablanca-settat-mobilisation-des-autorites-pour-renforcer-la-collecte-des-taxes-locales-et-eviter-la-prescription.html)).
+
+### Mozambique: 3 Established
+
+One municipality outside the capital bills property tax from a digital register (2025); how many others record is not known.
+
+- Partners for Water reports that Beira municipality linked its digitised land registry to its tax collection system, so it knows who owns what and who must pay property tax ([source, 2025-03-25](https://partnersforwater.nl/news/beiras-land-registry-the-key-to-the-system-change-that-will-support-a-climate-resilient-city/)).
+- Partners for Water reports the linked registry and tax collection run in the municipality of Beira ([source, 2025-03-25](https://partnersforwater.nl/news/beiras-land-registry-the-key-to-the-system-change-that-will-support-a-climate-resilient-city/)).
+- Partners for Water reports Beira as the one municipality running the linked registry and tax system, with other municipalities only showing interest at a December 2024 seminar ([source, 2025-03-25](https://partnersforwater.nl/news/beiras-land-registry-the-key-to-the-system-change-that-will-support-a-climate-resilient-city/)).
 
 ### Niger: 3 Established
 
@@ -144,6 +175,18 @@ Two local government areas in one state registered payers digitally from 2017; n
 
 - The article describes an app in which LGA revenue agents register payers, businesses and vehicles and collect and print receipts, on a taxpayers' database, in Oredo and Egor LGAs, Edo State ([source, 2017-03](https://www.akamai.university/uploads/1/2/7/7/127725089/pjst19_2_242.pdf)).
 - The authors say 2 of Edo State's 18 LGAs (Oredo and Egor) use the automated collection system, introduced in March 2017; the text elsewhere says 19 LGAs ([source, 2017-03](https://www.akamai.university/uploads/1/2/7/7/127725089/pjst19_2_242.pdf)).
+
+### Sierra Leone: 3 Established
+
+Three of 22 councils run a property tax register, two outside the capital (2026); the rest are not yet on it.
+
+*Register survey; Advancing.*
+
+- LoGRI says Kenema's property roll doubled from 14,682 to 27,545 properties on Moptax, with compliance at 45% and mobile money integration added ([source, 2026-09-29](https://logri.org/story/impact-in-sierra-leone/)).
+- LoGRI says Moptax runs in Freetown, Kenema and Makeni, the last since 2024 with the valuation roll up from 12,835 to 15,917 properties, and that the platform was adopted as the national Municipal Property Tax System with nationwide rollout planned ([source, 2024](https://logri.org/story/impact-in-sierra-leone/)).
+- The Ministry of Finance says Freetown City Council was upgraded from MOPTAX 1.0 to 2.0 in December 2025, becoming the third local council after Kenema and Makeni to have the upgraded system; the country has 22 local councils ([source, 2025-12](https://mof.gov.sl/wp-content/uploads/2026/06/Public-Financial-Management-Report-2025.pdf)).
+- The notice says the Municipal Property Tax System covers the full property tax life cycle, from a georeferenced property roll through valuation, billing, demand notices and payment reconciliation, and was first deployed in Kenema City Council ([source, 2026-05-20](https://mof.gov.sl/wp-content/uploads/2026/05/REoI-for-Tax-System_RUSLP.pdf)).
+- The notice says MOPTAX 2.0 is integrated with the Central Government Monitoring and Reporting System and, through the Government Service Bus, with national systems, so council records report to the centre ([source, 2026-05-20](https://mof.gov.sl/wp-content/uploads/2026/05/REoI-for-Tax-System_RUSLP.pdf)).
 
 ### Somalia: 3 Established
 
@@ -174,18 +217,11 @@ Communes entered their business-tax rolls in a system shared with the Ministry o
 - The GRB entry made by the commune is visible on the GRB network to the regional treasurer and the municipal receiver of the Ministry of Finance, who follow collection ([source, 2022-03](https://www.giz.de/sites/default/files/media/els-document/2025-08/giz-idm-2203-les-revenus-municipaux-et-les-circuit-paiements-fr.pdf)).
 - The study describes the GRB system as the communes' system and recommends adapting it to hold more types of municipal revenue and digital payment, but gives no count or share of communes using it ([source, 2022-03](https://www.giz.de/sites/default/files/media/els-document/2025-08/giz-idm-2203-les-revenus-municipaux-et-les-circuit-paiements-fr.pdf)).
 
-### Uganda: 3 Established
-
-A revenue system was in use in nine cities in late 2024; no source found reports the share of local governments recording in it.
-
-- Nansana's mayor says the system fixes assessment so that no assessor discretion enters, helps taxpayers keep records and records payments against a catalogue of fees, with an undefined 'other revenue' line open to under-recording; article of March 2024 ([source, 2024-03](https://www.independent.co.ug/shift-to-online-payment-boosts-local-revenue-by-nearly-80/)).
-- MoFPED's monitoring covered IRAS in nine cities, the tenth city, Jinja, still using e-LogRev, in the first half of FY2024/25; the report also says IRAS is being rolled out in all LGs but gives no count ([source, 2024-12](https://finance.go.ug/sites/default/files/reports/Domestic%20Revenue%20Mobilisation%20Strategy%20Semi%20Annual%20Report%20FY%202024-25.pdf)).
-- The Independent, citing the IRAS website, says IRAS was rolled out in 98 districts, 21 municipalities and 9 cities (128 local governments) at a cost of UGX 20.07 billion to date; no national total is given. Date is the article's March 2024 ([source, 2024-03](https://www.independent.co.ug/shift-to-online-payment-boosts-local-revenue-by-nearly-80/)).
-- The article says the Ministry of Local Government's E-LogRev was operational in 48 local governments; no total is given. Date is the article's March 2024 ([source, 2024-03](https://www.independent.co.ug/shift-to-online-payment-boosts-local-revenue-by-nearly-80/)).
-
 ### Zimbabwe: 3 Established
 
 In 2024 about 83 of 92 local authorities used a shared digital system; no source found says whether most record revenue payers in it.
+
+*Advancing.*
 
 - HIT told the Harare Commission of Inquiry that around 83 of Zimbabwe's 92 local authorities use at least one LADS module; which modules, and whether any records revenue, is not stated ([source, 2024-11-25](https://www.heraldonline.co.zw/hit-offers-affordable-erp-system-to-harare/)).
 - HIT says LADS links local authorities' services, including financials and billing, to the national public financial management system ([source, 2024-11-25](https://www.heraldonline.co.zw/hit-offers-affordable-erp-system-to-harare/)).
@@ -201,6 +237,17 @@ Twelve of 77 communes were selected in 2019 for cash-desk software that records 
 - The PAACOL project (started 2017, three years) selected 12 communes of Benin's 77 to be equipped with single cash windows for non-tax revenue during 2019/2020; the page is undated, so its 2019-09-19 publication date is used ([source, 2019-09-19](https://www.ancb.bj/index.php/projet/paacol.html)).
 - The cash desk is equipped with software that records each payment, networked so information is shared with the communal actors concerned; no register of payers is described ([source, 2019-09-19](https://www.ancb.bj/index.php/projet/paacol.html)).
 - The software is networked within the commune among its actors; no link to a national system is stated ([source, 2019-09-19](https://www.ancb.bj/index.php/projet/paacol.html)).
+
+### Burkina Faso: 2 Nascent
+
+Only the capital records market traders and their tax payments digitally (2025); no commune outside it is known to record.
+
+*Centrally collected.*
+
+- SYCOTAX, a card-terminal (TPE) tax collection system, lets the Commune of Ouagadougou census market traders by phone number and track who has paid what, with a paper receipt and an electronic message per payment, per its communal tax-base director (19 November 2025) ([source, 2025-11-19](https://libreinfo.net/ouagadougou-la-commune-sensibilise-les-commercants-au-paiement-electronique-des-taxes/)).
+- The SYCOTAX pilot covers the Gounghin and Koukin Yaar markets in Ouagadougou, with extension to 23 more markets planned, per the commune's finance commission chair (19 November 2025) ([source, 2025-11-19](https://libreinfo.net/ouagadougou-la-commune-sensibilise-les-commercants-au-paiement-electronique-des-taxes/)).
+- Digital Magazine Burkina reports that the commune of Ouagadougou collects market taxes with electronic payment terminals through SYSCOTAX, operational since 2020, with collection said to exceed 1.2 billion FCFA against 400 to 600 million before ([source, 2024-03-19](https://digitalmagazine.bf/2024/03/23/paiement-digital-des-taxes-ouagadougou-lance-la-syscotax-dans-4-marches/)).
+- Digital Magazine Burkina reports that on 19 March 2024 the commune of Ouagadougou launched digital tax collection with SYSCOTAX in four pilot markets: Dassasgho, Cite An2, Larle and the theatre populaire market ([source, 2024-03-19](https://digitalmagazine.bf/2024/03/23/paiement-digital-des-taxes-ouagadougou-lance-la-syscotax-dans-4-marches/)).
 
 ### Cameroon: 2 Nascent
 
@@ -228,9 +275,9 @@ Bangui agreed with a private firm in December 2025 to digitise its municipal rev
 
 ### Chad: 2 Nascent
 
-One commune, Mongo, began a taxpayer census for a digital tax system in April 2025; no source found says whether any commune records payments digitally.
+Two communes, the capital among them, began taxpayer censuses for digital collection in 2025 and 2026; whether any records payments is not known.
 
-*Register survey.*
+*Register survey; Advancing.*
 
 - On 2 April 2025 the commune of Mongo, with the firm IT Solution Center, launched a ten-day taxpayer census of shops, bakeries and restaurants, described as the start of a digital tax system in which payments are to be recorded directly in the commune's management system; no other commune is named ([source, 2025-04-02](https://tchadvision.com/mongo-le-recensement-fiscal-se-modernise-pour-optimiser-la-gestion-des-contribuables-decouvrez-les-enjeux-cles-aujourdhui/)).
 
@@ -287,11 +334,13 @@ A revenue tool was presented in March 2025 for a pilot in communes of Conakry, C
 
 ### Liberia: 2 Nascent
 
-A pilot revenue database was planned in June 2023 for two city corporations; no source found says whether it was built.
+Only the capital bills businesses digitally, and a property tax system is a pilot (2026); no other local government records past a pilot.
 
 *Register survey; Centrally collected.*
 
-- The June 2023 terms of reference plan a pilot GIS-based revenue collection database and a digital payment system in two city corporations, Monrovia and Paynesville, within a 36-month advisor contract; it describes no local government as recording on such a system yet ([source, 2023-06](https://www.emansion.gov.lr/sites/default/files/documents/REOI%20-%20REVENUE%20and%20PFM%20ADVISOR.pdf)).
+- UNDP Liberia reports that the Real Property Tax Expansion pilot, with the Liberia Revenue Authority and Sweden, uses digital tools for property mapping, tax assessment and bill generation, with over 2,000 tax bills printed in District 3 of Grand Bassa County ([source, 2026-06-03](https://www.undp.org/liberia/press-releases/advancing-fiscal-decentralization-and-local-revenue-liberia)).
+- UNDP Liberia describes the Real Property Tax Expansion Project as a pilot, observed on a joint mission to Grand Bassa, Margibi and Nimba Counties ([source, 2026-06-03](https://www.undp.org/liberia/press-releases/advancing-fiscal-decentralization-and-local-revenue-liberia)).
+- The Liberian Investigator reports Monrovia City Corporation's Ewallie revenue platform holds business invoices with paid and pending status, and a joint inspection found only 143 of 846 billed businesses had paid ([source, 2026-06-01](https://liberianinvestigator.com/townships-say-mcc-owes-18-months-revenue/)).
 
 ### Libya: 2 Nascent
 
@@ -320,22 +369,6 @@ Communes tested tax registers in 2023 and Koutiala began a pilot in March 2026; 
 - The note says ReCoDe was deployed in 680 communes for testing, 13 of them Pro-ARIDES partners; it gives no denominator and does not say how many use the local tax module ([source, 2024-07](https://proarides.org/wp-content/uploads/2025/11/Pro-ARIDES_2024_NT_Mali_Digitalisation-taxes.pdf)).
 - After training in 27 Pro-ARIDES communes, only Kava showed willingness to carry the tax digitalisation through; the note recommends a pilot phase in two to four communes, and says Bamako Commune VI's 2017 experience was not renewed in 2018 ([source, 2024-07](https://proarides.org/wp-content/uploads/2025/11/Pro-ARIDES_2024_NT_Mali_Digitalisation-taxes.pdf)).
 
-### Mauritania: 2 Nascent
-
-One commune, Sebkha, kept a digital register of taxpayers in 2020 and eight were installing it; no source found says how many communes record now.
-
-*Register survey.*
-
-- On 23 May 2023 the commune of Zouerate launched its 'municipal collector' programme, a digitised tax collection programme built on a census of all commercial activities in the town; the report names no other commune and no counts ([source, 2023-05-23](https://ami.mr/fr/archives/222389)).
-- In Sebkha, a seven-week census of taxpayers found 10,564 taxpayers instead of the 2,000 officially recognised; the El Mouhassil software, launched in April 2019, issues numbered barcoded fiscal stamps, tracks each stamp from stock to sale to its payment into the commune's Treasury account, and 13 agents with tablets cover 16 sectors and scan each trader's stamp for paid, paid-this-month or overdue status ([source, 2020-04](https://www.cridem.org/C_Info.php?article=735039)).
-- El Mouhassil is live in one commune, Sebkha (Nouakchott), since April 2019; eight others are installing it in April 2020: Tevragh Zeina, Timbedra, Nouadhibou, Boghé, Ksar, Toujounine, Arafat and Rosso; no national count of communes is given ([source, 2020-04](https://www.cridem.org/C_Info.php?article=735039)).
-
-### Mozambique: 2 Nascent
-
-Only Maputo's municipality is shown keeping a taxpayer register, on a 2020 assessment; no source found says whether any other municipality records its revenue digitally.
-
-- A September 2020 rapid assessment for the Ministry of Economy and Finance describes SISPGIA, a municipal property tax system in the Maputo municipality built in 2009, with modules for a taxpayer register, taxpayer queries and payment of taxes and fees ([source, 2020-09](https://www.pdul.gov.mz/content/download/513/2779/file/Avaliacao%20Rapida%20do%20SIGEF%20Municipal.pdf)).
-
 ### Namibia: 2 Nascent
 
 The capital billed water accounts to named customers in its own system in 2024; no source found says other local authorities record revenue.
@@ -352,19 +385,6 @@ More than 20 communes were equipped with a vendor's municipal software by Novemb
 
 - The vendor Linking Development says its Terlink municipal software includes accounting and taxation modules covering recovery and management of communal taxes; what is recorded (payers or payments only) is not stated ([source, 2025-11](https://www.linking-development.fr/realisations/projet-terlink-la-digitalisation-des-communes-senegalaises/)).
 - Linking Development states that more than 20 communes in Senegal are equipped with Terlink; no total of communes is given and use is not stated. Dated to the publication month ([source, 2025-11](https://www.linking-development.fr/realisations/projet-terlink-la-digitalisation-des-communes-senegalaises/)).
-
-### Sierra Leone: 2 Nascent
-
-Three of 22 councils had a property tax system by December 2025, billing only in the capital; no source found reports wider use.
-
-*Register survey; Advancing.*
-
-- The Ministry of Finance says MOPTAX 2.0, built by Baloosoft, is a digital property tax management system supporting the full cycle of property tax administration and was deployed in Makeni in April 2025 ([source, 2025-04](https://mof.gov.sl/wp-content/uploads/2026/06/Public-Financial-Management-Report-2025.pdf)).
-- The Ministry of Finance says Freetown City Council was upgraded from MOPTAX 1.0 to 2.0 in December 2025, becoming the third local council after Kenema and Makeni to have the upgraded system; the country has 22 local councils ([source, 2025-12](https://mof.gov.sl/wp-content/uploads/2026/06/Public-Financial-Management-Report-2025.pdf)).
-- The notice says the Municipal Property Tax System covers the full property tax life cycle, from a georeferenced property roll through valuation, billing, demand notices and payment reconciliation, and was first deployed in Kenema City Council ([source, 2026-05-20](https://mof.gov.sl/wp-content/uploads/2026/05/REoI-for-Tax-System_RUSLP.pdf)).
-- The notice says MOPTAX 2.0 is integrated with the Central Government Monitoring and Reporting System and, through the Government Service Bus, with national systems, so council records report to the centre ([source, 2026-05-20](https://mof.gov.sl/wp-content/uploads/2026/05/REoI-for-Tax-System_RUSLP.pdf)).
-- The Ministry of Finance says the first deployment was a pilot in Kenema City Council and seeks a firm to roll out in Bo and Koidu New Sembehun City Councils as the next step, laying the foundation for all 22 local councils; the notice is a procurement, not evidence the system is live in Bo or Koidu ([source, 2026-05-20](https://mof.gov.sl/wp-content/uploads/2026/05/REoI-for-Tax-System_RUSLP.pdf)).
-- Freetown City Council says its new digital property database holds more than 160,000 properties against 60,000 in the old one, and bills each property and business a Rate Demand Notice with a unique property or business number; the page is undated and the year 2020 is taken from its references to the 2020 tax year ([source, 2020](https://fcc.gov.sl/property-reform-faq/)).
 
 ### South Sudan: 2 Nascent
 
@@ -424,14 +444,6 @@ Not established: The two rows, on 2020 fiscal data, say local authorities are no
 One city council takes rates payments online (2024); no source found says any council keeps a digital record, so no stage is set.
 
 Not established: No evidence row has been found on local government revenue records. What is held instead is the national tax system of the Botswana Unified Revenue Service (Lekgetho Live), which systems.csv does not say collects any council revenue, and PayRates, an online property-rates payment platform for Gaborone City Council classed as a web service. Whether any council keeps a digital revenue register or receipt record is not established.
-
-### Burkina Faso: No evidence
-
-State tax services run tax billing and collection (2021); no source found says any local authority keeps a digital record, so no stage is set.
-
-*Centrally collected.*
-
-Not established: No evidence row has been found on local government revenue records. What is held instead is two central systems: the DGI's micro-enterprise registration and payment software, whose tax is passed back to the collectivités territoriales, and the tax-administration chain run by the State's deconcentrated tax and treasury services. Whether any collectivité keeps its own digital revenue record is not established.
 
 ### Comoros: No evidence
 

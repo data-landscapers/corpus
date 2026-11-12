@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-20-nga-abeokuta-north-lg-overhauls-revenue-system-sets-up-digital-tracking",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "Abeokuta North Local Government's chairman said a digital revenue collection system would start on the Wednesday after a Monday press conference, onboarding petrol stations on a pump-based levy and later markets, with all levies and taxes paid digitally.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Abeokuta North LG digital revenue collection system",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "Only Abeokuta North Local Government is named as starting the digital revenue collection system, onboarding payers from the week after the press conference.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Abeokuta North LG digital revenue collection system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Abeokuta North LG digital revenue collection system",
+   "country_label": "Nigeria (Abeokuta North LGA, Ogun)",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Abeokuta North Local Government",
+   "tiers": "one local government"
+  }
+ ],
+ "note": ""
+}

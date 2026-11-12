@@ -1,0 +1,23 @@
+{
+ "slug": "2025-02-13-civ-expanding-the-property-tax-base-innovations-in-property-identification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DGI cadastral property register (DCAD)",
+   "country_label": "Cote d'Ivoire",
+   "class": "central",
+   "platform": "",
+   "owner": "Directorate General of Taxation",
+   "tiers": "national"
+  },
+  {
+   "system": "CORIF",
+   "country_label": "Abidjan",
+   "class": "central",
+   "platform": "",
+   "owner": "Directorate General of Taxation",
+   "tiers": "national"
+  }
+ ],
+ "note": "Property identification and registration is run by the central tax directorate, not by local government staff."
+}

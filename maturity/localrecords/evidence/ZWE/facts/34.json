@@ -1,0 +1,46 @@
+{
+ "slug": "2026-06-28-zwe-cscn-peer-learning-clinic-highlights-mutare-s-digital-transformation-j",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "Mutare City Council's LADS, begun in 2019 with a revenue module, gives digital billing and automated debtor management, lifting revenue collection efficiency from 33 per cent in 2019 to an average 65 per cent in 2026, per the Town Clerk as reported by CLGF.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "LADS",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "held",
+   "value": "local",
+   "fact": "LADS is a locally designed platform run by Mutare City Council, with no national or shared system stated.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "LADS",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:1",
+   "fact": "Only Mutare City Council is named as using LADS for revenue administration.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "LADS",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LADS (Local Authorities Digital System)",
+   "country_label": "Zimbabwe (Mutare)",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Mutare City Council",
+   "tiers": "city"
+  }
+ ],
+ "note": ""
+}

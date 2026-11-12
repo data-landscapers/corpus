@@ -1,0 +1,46 @@
+{
+ "slug": "2025-04-10-uga-bims-and-iras-integrated-to-boost-compliance-and-revenue-generation-in",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "receipts",
+   "fact": "The National Building Review Board says IRAS automated revenue collection and payment processes in 166 vote-level local governments, and is now the payment gateway for building fees; what it records of payers is not stated.",
+   "as_of": "2025-04-10",
+   "date_precision": "day",
+   "system": "IRAS",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:166",
+   "fact": "IRAS is in use in 166 vote-level local governments, according to the National Building Review Board; no total is given.",
+   "as_of": "2025-04-10",
+   "date_precision": "day",
+   "system": "IRAS",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "IRAS was developed by the Ministry of Local Government through the Local Government Finance Commission.",
+   "as_of": "2025-04-10",
+   "date_precision": "day",
+   "system": "IRAS",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IRAS",
+   "country_label": "Integrated Revenue Administration System",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Local Government Finance Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

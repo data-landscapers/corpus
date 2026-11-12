@@ -1,0 +1,46 @@
+{
+ "slug": "2025-04-01-mrt-workshop-validates-el-mouhassil-municipal-collector-user-guide",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:30",
+   "fact": "Mauritania's decentralisation directorate says the municipal collector application, in use since 2020, now benefits about 30 municipalities and will be extended to the rest.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "El Mouhassil",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Interior Ministry's decentralisation directorate organised the workshop validating the user guide of the El Mouhassil municipal collector system.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "El Mouhassil",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The Mudun project, supported by the World Bank, has funded training, equipment, technical support and collectors' bonuses for El Mouhassil in municipalities.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "El Mouhassil",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "El Mouhassil",
+   "country_label": "Mauritania",
+   "class": "revenue",
+   "platform": "municipal collector application",
+   "owner": "Ministry of Interior, Directorate General of Decentralisation",
+   "tiers": "about 30 municipalities"
+  }
+ ],
+ "note": ""
+}

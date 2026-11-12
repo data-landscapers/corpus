@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,revenue,governance,qualifier,owner:vendor;plan:current,2020,KEN-007;KEN-008,KEN-012=owner:vendor,nothing dated since 2023-09-28
-KEN,revenue,recorded,coverage,receipts,2020,KEN-004;KEN-010,,nothing dated since 2023-09-28
-KEN,revenue,held,coverage,local,2020,KEN-005;KEN-011,KEN-002=paper;KEN-006=paper;KEN-013=paper,
-KEN,revenue,last12,qualifier,,,,,nothing held
-KEN,revenue,authorities,coverage,share:70%,2020,KEN-003,KEN-001=count:5;KEN-009=equipped:72%,
+KEN,revenue,governance,qualifier,owner:vendor;plan:current,2026-10-09,KEN-014;KEN-015,KEN-016=owner:vendor;KEN-021=owner:vendor;KEN-007=owner:vendor;KEN-008=plan:current;KEN-012=owner:vendor,not stated: finance
+KEN,revenue,recorded,coverage,receipts,2024-03,KEN-004;KEN-010;KEN-019,,
+KEN,revenue,held,coverage,local,2024-11-06,KEN-005;KEN-011;KEN-017,KEN-002=paper;KEN-018=paper;KEN-006=paper;KEN-013=paper,
+KEN,revenue,last12,qualifier,,,,,nothing found
+KEN,revenue,authorities,coverage,share:70%,2020,KEN-003,KEN-001=count:5;KEN-020=count:33;KEN-009=equipped:72%,

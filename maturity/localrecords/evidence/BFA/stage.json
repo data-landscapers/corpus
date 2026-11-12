@@ -3,18 +3,18 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "no evidence",
-      "governance": "",
-      "recorded": "",
+      "stage": "2",
+      "governance": "owner:ministry",
+      "recorded": "register",
       "held": "",
       "last12": "",
-      "authorities": "",
+      "authorities": "pilot",
       "cap": "",
       "flags": "centrally collected",
-      "stage_sources": "",
-      "gaps": "No evidence row has been found on local government revenue records. What is held instead is two central systems: the DGI's micro-enterprise registration and payment software, whose tax is passed back to the collectivités territoriales, and the tax-administration chain run by the State's deconcentrated tax and treasury services. Whether any collectivité keeps its own digital revenue record is not established.",
-      "note": "No row on the sub-indicator, so no rung can be set. The central systems are noted and place nothing.",
-      "as_at": "2026-10-13"
+      "stage_sources": "BFA-001;BFA-002;BFA-003;BFA-004",
+      "gaps": "Only the capital records: SYCOTAX runs in Ouagadougou's markets, in pilot markets in March 2024 and November 2025, and no other commune is named. Where the record is held is not stated, and no plan, finance or count of communes is given. State tax services also run tax billing and collection for the collectivités territoriales.",
+      "note": "Ouagadougou's SYCOTAX records market traders and their payments (BFA-001, BFA-003), but only the capital records, which the ladder places at stage 2. Stage 3 needs a system live in local governments outside the capital.",
+      "as_at": "2026-11-12"
     }
   ]
 }

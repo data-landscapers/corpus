@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,revenue,governance,qualifier,owner:vendor;plan:current;finance:domestic,2026-05-05,BDI-003;BDI-006;BDI-012,BDI-004=owner:ministry;BDI-020=owner:ministry,
-BDI,revenue,recorded,coverage,receipts,2026-05-26,BDI-007;BDI-011;BDI-014;BDI-017,,
-BDI,revenue,held,coverage,paper,2021,BDI-018,,nothing dated since 2023-09-28
+BDI,revenue,governance,qualifier,owner:partner;plan:current;finance:domestic,2026-09-17,BDI-003;BDI-006;BDI-030,BDI-012=owner:vendor;BDI-004=owner:ministry;BDI-025=owner:ministry;BDI-026=finance:donor;BDI-032=finance:donor;BDI-020=owner:ministry,
+BDI,revenue,recorded,coverage,register,2026-09-17,BDI-027,BDI-007=receipts;BDI-011=receipts;BDI-021=receipts;BDI-014=receipts;BDI-017=receipts,
+BDI,revenue,held,coverage,shared,2026-02-20,BDI-022,BDI-028=local;BDI-018=paper,
 BDI,revenue,last12,qualifier,advancing,2026-05-05,BDI-002;BDI-013,,
-BDI,revenue,authorities,coverage,count:30,2026-07,BDI-001,BDI-008=count:1;BDI-010=pilot;BDI-005=pilot;BDI-015=count:1;BDI-016=count:1;BDI-009=count:2;BDI-019=none,
+BDI,revenue,authorities,coverage,count:1,2026-09-17,BDI-008;BDI-015;BDI-016;BDI-029,BDI-001=count:30;BDI-010=pilot;BDI-005=pilot;BDI-023=pilot;BDI-024=pilot;BDI-031=pilot;BDI-009=count:2;BDI-019=none,

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-01-cod-retour-sur-la-matinee-fiscale-d-information-et-de-presentation-de-deux",
+ "facts": [],
+ "systems": [
+  {
+   "system": "irms-dgrk platform",
+   "country_label": "IRMS-DGRK Kinshasa",
+   "class": "upper-tier",
+   "platform": "",
+   "owner": "Kinshasa provincial revenue authority (DGRK)",
+   "tiers": "city-province"
+  }
+ ],
+ "note": "Kinshasa is a city-province and its revenue agencies are upper tier; no basic-tier local government system stated."
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2025-12-09-civ-cote-divoire-aip-la-dgddl-lance-la-sensibilisation-des-contribuables-a",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "The DGDDL says its PAMREC pilot gives communes software to identify taxpayers and mobilise own revenue electronically, and on 9 December 2025 it handed Assinie-Mafia the taxpayer census databases (2,009 taxpayers, up 20%) with a taxpayer portal and digital payments.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "PAMREC software",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "The AIP describes PAMREC as a pilot project to support communes' own revenue mobilisation, with Assinie-Mafia the commune named.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "PAMREC software",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The director general of decentralisation says the DGDDL developed the software, which is made available to communes, with Revenue Development Foundation as technical partner.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "PAMREC software",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAMREC software",
+   "country_label": "Cote d'Ivoire (Assinie-Mafia)",
+   "class": "revenue",
+   "platform": "",
+   "owner": "DGDDL",
+   "tiers": "commune"
+  }
+ ],
+ "note": ""
+}

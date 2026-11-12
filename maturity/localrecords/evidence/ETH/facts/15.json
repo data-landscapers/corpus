@@ -1,0 +1,36 @@
+{
+ "slug": "2024-05-01-eth-property-taxes-in-yirgalem",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "The VNG International-backed ULGE project piloted e-billing and e-payment for property and land lease in Yirgalem city, under an April 2022 agreement with the Sidama Regional State and the municipality; the city then collected only 3 per cent of its potential tax.",
+   "as_of": "2022-04",
+   "date_precision": "month",
+   "system": "AGM CityRev",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "The project page says property and land lease processes in Yirgalem were overhauled with e-billing and e-payment after a comprehensive update of property assessments.",
+   "as_of": "2022-04",
+   "date_precision": "month",
+   "system": "AGM CityRev",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AGM CityRev Revenue Management solution",
+   "country_label": "Ethiopia (Yirgalem)",
+   "class": "revenue",
+   "platform": "AGM Core Digital Framework",
+   "owner": "All Government Matters, vendor, with VNG International",
+   "tiers": "city / woreda"
+  }
+ ],
+ "note": ""
+}

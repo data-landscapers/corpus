@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-01-mdg-antsiranana-des-efforts-pour-booster-les-recettes-fiscales",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "L'Express reports that the PIC project funds the G-IFPB property-tax software to be used by Antsiranana commune and the DGI centre once addressing and census data are collected, and the training of commune staff.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "G-IFPB",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "G-IFPB",
+   "country_label": "Madagascar",
+   "class": "revenue",
+   "platform": "",
+   "owner": "DGI with PIC",
+   "tiers": "Antsiranana commune, planned"
+  }
+ ],
+ "note": "System planned, not stated live."
+}

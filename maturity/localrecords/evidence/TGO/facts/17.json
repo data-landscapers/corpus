@@ -1,0 +1,15 @@
+{
+ "slug": "2023-12-29-tgo-contribution-des-systemes-d-information-geographique-sig-dans-la-mobil",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GIS taxpayer geolocation (Commune des Lacs 1)",
+   "country_label": "Lacs 1 GIS",
+   "class": "survey",
+   "platform": "GIS",
+   "owner": "Commune des Lacs 1",
+   "tiers": "commune"
+  }
+ ],
+ "note": "A one-off GIS count geolocating 1,272 taxpayers in Commune des Lacs 1; no system recording payers and payments as routine is stated."
+}

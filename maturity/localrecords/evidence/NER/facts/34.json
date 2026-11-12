@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-06-ner-journee-portes-ouvertes-a-l-hotel-de-ville-de-niamey-faire-decouvrir-l",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "The delegated administrator of Niamey city said the Naneye Yarda project has enumerated 35,000 taxpayers and issues QR-coded, geolocated tax notices through which taxpayers are followed to payment, with 8,083,061,350 FCFA assessed and 2 billion collected.",
+   "as_of": "2026-01-05",
+   "date_precision": "day",
+   "system": "Naneye Yarda",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Naneye Yarda",
+   "country_label": "Niger",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ville de Niamey",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

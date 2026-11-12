@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-18-zwe-harare-residents-can-now-score-their-council-in-real-time-here-s-how",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "receipts",
+   "fact": "Gemnation reports LADS, with mobile revenue collection, the e-Musika app and e-business licensing, is deployed to 53 councils, with better revenue collection and less leakage reported in Mutare, Masvingo and Chinhoyi.",
+   "as_of": "2026-06-18",
+   "date_precision": "day",
+   "system": "Local Authorities Digital Systems (LADS)",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:53",
+   "fact": "Gemnation reports LADS has been deployed to 53 councils, with no total number of councils given.",
+   "as_of": "2026-06-18",
+   "date_precision": "day",
+   "system": "Local Authorities Digital Systems (LADS)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Local Authorities Digital Systems (LADS)",
+   "country_label": "Zimbabwe",
+   "class": "revenue",
+   "platform": "LADS",
+   "owner": "Harare Institute of Technology",
+   "tiers": "53 councils"
+  }
+ ],
+ "note": ""
+}

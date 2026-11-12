@@ -2,16 +2,16 @@
 
 ## Revenue records
 
-**Governance, planning, finance.** Terms of reference of June 2023 put a revenue advisor [under the project unit of the Ministry of Public Works](<https://www.emansion.gov.lr/sites/default/files/documents/REOI%20-%20REVENUE%20and%20PFM%20ADVISOR.pdf>), and the work is [financed by the World Bank under the Liberia Urban Resilience Project](<https://www.emansion.gov.lr/sites/default/files/documents/REOI%20-%20REVENUE%20and%20PFM%20ADVISOR.pdf>).
+**Governance, planning, finance.** The firm KWARECOM [runs the Real Property Tax Expansion pilot with UNDP and Sweden](<https://www.undp.org/liberia/press-releases/advancing-fiscal-decentralization-and-local-revenue-liberia>), with the Liberia Revenue Authority, UNDP reported in June 2026. No plan or domestic budget line is given.
 
-**What is recorded.** The June 2023 terms of reference plan [a revenue collection database built on a map, and a digital payment system](<https://www.emansion.gov.lr/sites/default/files/documents/REOI%20-%20REVENUE%20and%20PFM%20ADVISOR.pdf>).
+**What is recorded.** The pilot [uses digital tools for property mapping, assessment and bill generation](<https://www.undp.org/liberia/press-releases/advancing-fiscal-decentralization-and-local-revenue-liberia>), with over 2,000 bills printed in Grand Bassa. Monrovia City Corporation's Ewallie platform [holds business invoices marked paid or pending](<https://liberianinvestigator.com/townships-say-mcc-owes-18-months-revenue/>).
 
-**Where the record is held.** The data collected is [to be owned by the municipalities and the Republic of Liberia](<https://www.emansion.gov.lr/sites/default/files/documents/REOI%20-%20REVENUE%20and%20PFM%20ADVISOR.pdf>), by the terms of reference of June 2023.
+**Where the record is held.** Ewallie [is held by Monrovia City Corporation](<https://liberianinvestigator.com/townships-say-mcc-owes-18-months-revenue/>). Three neighbouring local governments say they have no access to it.
 
-**Last twelve months.** The terms of reference, of June 2023, set the pilot [within an advisor's contract of 36 months](<https://www.emansion.gov.lr/sites/default/files/documents/REOI%20-%20REVENUE%20and%20PFM%20ADVISOR.pdf>).
+**Last twelve months.** In June 2026 a joint mission [visited the pilot in Grand Bassa, Margibi and Nimba](<https://www.undp.org/liberia/press-releases/advancing-fiscal-decentralization-and-local-revenue-liberia>). That month an inspection found [only 143 of 846 billed Monrovia businesses had paid](<https://liberianinvestigator.com/townships-say-mcc-owes-18-months-revenue/>).
 
-**Local governments recording.** The pilot planned in June 2023 is for [two city corporations, Monrovia and Paynesville](<https://www.emansion.gov.lr/sites/default/files/documents/REOI%20-%20REVENUE%20and%20PFM%20ADVISOR.pdf>).
+**Local governments recording.** Only the capital records past a pilot: [Monrovia bills businesses on Ewallie](<https://liberianinvestigator.com/townships-say-mcc-owes-18-months-revenue/>). Outside it the property tax system is [a pilot](<https://www.undp.org/liberia/press-releases/advancing-fiscal-decentralization-and-local-revenue-liberia>).
 
 ***Also on file***. The Liberia Revenue Authority's [Real Property Tax Project](<https://revenue.lra.gov.lr/wp-content/uploads/2025/09/Liberia-DRM-Strategy-2025-2029.pdf>), which shares half of the revenue with the county; its [property tax pilot](<https://documents1.worldbank.org/curated/en/099052924164514688/pdf/BOSIB-0aa50b62-6e1c-4715-bcbb-a6d38f4bdc2e.pdf>) in Margibi and Grand Bassa counties; the Liberia Land Authority's [Real Property Valuation Software and Mobile App](<https://frontpageafricaonline.com/liberia-land-authority-launches-real-property-valuation-training-in-nimba-ushering-in-digital-era-for-land-governance/>); [eWallie](<https://www.thenewdawnliberia.com/mcc-unveils-mobile-platform/>), a mobile money app adopted by Monrovia for tax payments.
 
-***Not found***. Whether the pilot database was built, and whether any local government records on it. Nothing is dated after June 2023.
+***Not found***. A local government outside Monrovia recording past a pilot, and any plan or domestic budget line.

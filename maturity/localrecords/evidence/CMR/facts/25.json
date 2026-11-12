@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-02-cmr-recouvrement-des-impots-locaux-le-coup-de-pouce-salutaire-de-l-adminis",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "held",
+   "value": "paper",
+   "fact": "An editorial says communes had always done local tax collection manually, never digitising their financial services, and that direct communal taxes such as stamps, parking and market rents could still usefully be digitised in future.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "Communal revenue collection",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

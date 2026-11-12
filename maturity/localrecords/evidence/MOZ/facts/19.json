@@ -1,0 +1,46 @@
+{
+ "slug": "2025-03-25-moz-beira-s-land-registry-the-key-to-the-system-change-that-will-support-a",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "Partners for Water reports that Beira municipality linked its digitised land registry to its tax collection system, so it knows who owns what and who must pay property tax.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Beira land registry linked to property tax",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "held",
+   "value": "local",
+   "fact": "Partners for Water reports the linked registry and tax collection run in the municipality of Beira.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Beira land registry linked to property tax",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:1",
+   "fact": "Partners for Water reports Beira as the one municipality running the linked registry and tax system, with other municipalities only showing interest at a December 2024 seminar.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Beira land registry linked to property tax",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Beira land registry linked to property tax collection",
+   "country_label": "Mozambique",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Municipality of Beira",
+   "tiers": "one municipality"
+  }
+ ],
+ "note": ""
+}

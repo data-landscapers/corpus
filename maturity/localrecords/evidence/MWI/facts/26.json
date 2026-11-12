@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-01-mwi-digital-system-to-boost-revenue-in-kasungu",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "receipts",
+   "fact": "Kasungu District Council's finance director presented electronic ticketing devices to market revenue collectors at Nkhamenya, which let the council monitor collections in real time with money banked immediately through bank agents; a test day collected about K90,000 against about K17,000 a day on paper receipts.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Electronic ticketing devices for Kasungu markets",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "The Kasungu district council's electronic ticketing for market fees is at the test stage at Nkhamenya Market, with no other council named.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Electronic ticketing devices for Kasungu markets",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic ticketing devices for Kasungu markets",
+   "country_label": "Malawi",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Kasungu District Council",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2024-11-06-ken-kra-why-counties-are-losing-billions-in-own-source-revenue",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:vendor",
+   "fact": "The Star reports KRA telling the Senate that some Kenyan counties contract financial technology firms to automate and collect revenue on their behalf, vendors charging a percentage of collections.",
+   "as_of": "2024-11-06",
+   "date_precision": "day",
+   "system": "county revenue systems run by vendors",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "held",
+   "value": "local",
+   "fact": "KRA's commissioner general says most counties use the Local Authority Integrated Financial Operations Management System inherited from the defunct local authorities, which operates independently of other systems.",
+   "as_of": "2024-11-06",
+   "date_precision": "day",
+   "system": "Local Authority Integrated Financial Operations Management System",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "held",
+   "value": "paper",
+   "fact": "The Star reports some Kenyan counties have yet to automate and still collect revenue manually.",
+   "as_of": "2024-11-06",
+   "date_precision": "day",
+   "system": "manual county revenue collection",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Local Authority Integrated Financial Operations Management System",
+   "country_label": "Kenya",
+   "class": "revenue",
+   "platform": "",
+   "owner": "counties",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

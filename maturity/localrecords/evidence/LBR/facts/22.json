@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-19-lbr-liberia-townships-near-monrovia-say-mcc-owes-them-18-months-of-collect",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "The Liberian Investigator reports Monrovia City Corporation's Ewallie revenue platform holds business invoices with paid and pending status, and a joint inspection found only 143 of 846 billed businesses had paid.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "Ewallie revenue platform",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "held",
+   "value": "local",
+   "fact": "The Liberian Investigator reports the Ewallie platform is held by Monrovia City Corporation, and three neighbouring local governments say they have no access to it.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Ewallie revenue platform",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ewallie revenue platform",
+   "country_label": "Liberia",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Monrovia City Corporation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

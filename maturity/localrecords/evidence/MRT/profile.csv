@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,revenue,governance,qualifier,owner:ministry;finance:donor,2023-05-23,MRT-005;MRT-010,MRT-002=owner:ministry;MRT-009=owner:ministry,nothing dated since 2023-09-28
-MRT,revenue,recorded,coverage,register,2020-04,MRT-006,,nothing dated since 2023-09-28
-MRT,revenue,held,coverage,local,2020-04,MRT-007,,nothing dated since 2023-09-28
-MRT,revenue,last12,qualifier,advancing,2023-07-11,MRT-003;MRT-011,,nothing dated since 2025-09-28
-MRT,revenue,authorities,coverage,pilot,2023-05-23,MRT-004;MRT-008,,nothing dated since 2023-09-28
+MRT,revenue,governance,qualifier,owner:ministry;finance:donor,2025-04,MRT-013;MRT-014,MRT-017=owner:ministry;MRT-005=owner:ministry;MRT-002=owner:ministry;MRT-009=owner:ministry;MRT-010=finance:donor,not stated: plan
+MRT,revenue,recorded,coverage,register,2023-12,MRT-006;MRT-015,,
+MRT,revenue,held,coverage,local,2023-12,MRT-007;MRT-016,,
+MRT,revenue,last12,qualifier,advancing,2023-07-11,MRT-003;MRT-011,,nothing dated since 2025-11-12
+MRT,revenue,authorities,coverage,count:30,2025-04,MRT-012,MRT-004=pilot;MRT-008=pilot,

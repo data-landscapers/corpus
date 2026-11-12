@@ -1,0 +1,54 @@
+{
+ "slug": "2024-03-22-ken-how-fintechs-are-making-millions-from-counties-in-revenue-collection",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "receipts",
+   "fact": "The Star reports the Commission on Revenue Allocation told the Senate ICT committee that more than 33 counties contracted fintechs to set up systems and collect revenue, automating only a small share of revenue streams, with Nairobi's e-JijiPay running parking, market fees and permits.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "e-JijiPay and other county revenue systems",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:33",
+   "fact": "The Commission on Revenue Allocation said more than 33 counties had contracted fintechs to set up systems and collect revenue, a floor with no stated number live.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "county revenue systems",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:vendor",
+   "fact": "Fintechs such as JamboPay, River Bank and Sense Networks set up and run the county revenue systems for one-off fees and commissions of about 4 to 15 per cent of collections.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "county revenue systems",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-JijiPay",
+   "country_label": "Kenya (Nairobi)",
+   "class": "revenue",
+   "platform": "revenue collection system",
+   "owner": "JamboPay (WebTribe), vendor",
+   "tiers": "county"
+  },
+  {
+   "system": "Public-Sector Revenue Management system",
+   "country_label": "Kenya (Kakamega)",
+   "class": "revenue",
+   "platform": "revenue automation",
+   "owner": "vendor",
+   "tiers": "county"
+  }
+ ],
+ "note": ""
+}

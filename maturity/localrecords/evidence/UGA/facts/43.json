@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-26-uga-system-failures-blamed-for-shs52-billion-local-revenue-shortfall",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "The Independent reports the Auditor General's FY2024/25 review of 30 local governments found staff using IRAS for assessment, receipting, reconciliation and reporting of local revenue, with shortfalls in skills, connectivity and POS devices.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "IRAS",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:30",
+   "fact": "The Independent reports the Auditor General reviewed IRAS implementation in a sample of 30 local governments for FY2024/25, out of 124 local governments budgeted for local revenue.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "IRAS",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IRAS",
+   "country_label": "Uganda",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministry of Finance and Ministry of Local Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

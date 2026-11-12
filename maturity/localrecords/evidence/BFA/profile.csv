@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BFA,revenue,governance,qualifier,owner:ministry,2024-03-19,BFA-005,,"not stated: plan, finance"
+BFA,revenue,recorded,coverage,register,2025-11-19,BFA-001,BFA-003=receipts,
+BFA,revenue,held,coverage,,,,,nothing found
+BFA,revenue,last12,qualifier,,,,,nothing found
+BFA,revenue,authorities,coverage,pilot,2025-11-19,BFA-002;BFA-004,,

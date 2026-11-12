@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-01-mwi-expression-of-interest-eoi-development-of-property-management-informat",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "Lilongwe City Council's expression of interest says it maintains a rates database of about 47,000 properties and an existing property rates management system, with ratepayer accounts and the IRMS as its primary revenue collection system, and plans a new system.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Lilongwe City Council property rates system and IRMS",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IRMS",
+   "country_label": "Lilongwe City Council",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Lilongwe City Council",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2024-03-23-bfa-paiement-digital-des-taxes-ouagadougou-lance-la-syscotax-dans-4-marche",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "receipts",
+   "fact": "Digital Magazine Burkina reports that the commune of Ouagadougou collects market taxes with electronic payment terminals through SYSCOTAX, operational since 2020, with collection said to exceed 1.2 billion FCFA against 400 to 600 million before.",
+   "as_of": "2024-03-19",
+   "date_precision": "day",
+   "system": "SYSCOTAX",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "Digital Magazine Burkina reports that on 19 March 2024 the commune of Ouagadougou launched digital tax collection with SYSCOTAX in four pilot markets: Dassasgho, Cite An2, Larle and the theatre populaire market.",
+   "as_of": "2024-03-19",
+   "date_precision": "day",
+   "system": "SYSCOTAX",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The commune of Ouagadougou, through its special delegation and tax base office, runs SYSCOTAX for local taxes.",
+   "as_of": "2024-03-19",
+   "date_precision": "day",
+   "system": "SYSCOTAX",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYSCOTAX",
+   "country_label": "SYSCOTAX",
+   "class": "revenue",
+   "platform": "electronic payment terminals, mobile payment",
+   "owner": "Commune de Ouagadougou",
+   "tiers": "Ouagadougou markets"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "2026-06-03-lbr-advancing-fiscal-decentralization-and-local-revenue-in-liberia",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "UNDP Liberia reports that the Real Property Tax Expansion pilot, with the Liberia Revenue Authority and Sweden, uses digital tools for property mapping, tax assessment and bill generation, with over 2,000 tax bills printed in District 3 of Grand Bassa County.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "Real Property Tax Expansion Project",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "UNDP Liberia describes the Real Property Tax Expansion Project as a pilot, observed on a joint mission to Grand Bassa, Margibi and Nimba Counties.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "Real Property Tax Expansion Project",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:partner",
+   "fact": "The pilot is implemented by the firm KWARECOM with UNDP support, per UNDP Liberia.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "Real Property Tax Expansion Project",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The pilot is implemented with support from Sweden and UNDP under the Liberia Decentralization Support Programme, per UNDP Liberia.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "Real Property Tax Expansion Project",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Real Property Tax Expansion Project",
+   "country_label": "Liberia",
+   "class": "revenue",
+   "platform": "digital mapping and billing tools",
+   "owner": "KWARECOM (implementing firm) with the Liberia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

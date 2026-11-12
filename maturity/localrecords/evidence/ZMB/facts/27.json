@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-zmb-an-assessment-of-the-effect-of-revenue-collection-on-local-authority-s",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "none",
+   "fact": "A 2026 journal case study of Kalulushi Municipal Council found its revenue collection mainly relies on manual systems, with inadequate IT infrastructure a challenge.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Kalulushi Municipal Council revenue collection",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": "One council only; the study's own survey date is not given."
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2024-10-08-som-challenges-of-automating-the-property-tax-system-in-garowe-city-puntla",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "LoGRI says Garowe city's IFMIS, adopted in 2020, records property data and issues property tax bills, with 20,000 properties registered by 2021 and payments matched to property numbers.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "IFMIS",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:1",
+   "fact": "The document describes the revenue system for one local government only, Garowe municipality in Puntland.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "IFMIS",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IFMIS (Garowe municipality)",
+   "country_label": "IFMIS Garowe 2020",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Garowe municipality",
+   "tiers": "city"
+  },
+  {
+   "system": "GIS property identification (Garowe)",
+   "country_label": "GIS Garowe 2020",
+   "class": "survey",
+   "platform": "",
+   "owner": "Garowe municipality",
+   "tiers": "city"
+  },
+  {
+   "system": "AIMS and BIMS (Garowe)",
+   "country_label": "AIMS/BIMS Garowe 2015",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Garowe municipality",
+   "tiers": "city"
+  }
+ ],
+ "note": ""
+}
