@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: LBR
-ledger_rows: 24
+ledger_rows: 25
 not_held: 6
-record: 6f39fdb1d6df
+record: fc0a5594dacb
 ---
 
 # News, Oct – Nov 2026
@@ -483,6 +483,20 @@ DataReportal published its Digital 2027 report for Liberia on 5 November 2026. I
 </nav>
 
 ### Geospatial data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Common Alerting Protocol warnings and impact-based forecasts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IMPACT BASE FORECAST](https://meteoliberia.com/products/impact-base-forecast/)** — Liberia Meteorological Service, 26 October 2026
+
+Liberia Met Service routine impact-based forecasts by county, product updates dated through 26 October 2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
