@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-11-10
+compiled: 2026-11-12
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 246
+sources_cited: 248
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -209,7 +209,7 @@ In 2025 [rural clinics recorded on paper, with Health Passports as the primary m
 
 In 2025 [the financial management system was in use on commercial software, covering treasury and budget preparation, at central government level only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [There was a debt management system but no public investment management system](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The system reached every ministry, department and agency in July 2021, and most were still transacting outside it in real time](https://documents1.worldbank.org/curated/en/099050624155539128/pdf/BOSIB185002b6a025182841b566248dd77c.pdf) (2024).
 
-In 2025 [the social insurance system did not use the national identity number and did not exchange data with other government systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Neither the judiciary's electronic case management system, in place since 2015, nor its 2024 e-court pilot is documented as linked to the national data exchange](https://www.judiciary.mw/sites/default/files/2024-04/E-COURT%20LAUNCH.pdf). In May 2026 [government retook full control of the traffic information system from its foreign vendor to enable integration with tax, law enforcement and the national ID](https://times.mw/government-on-rescue-operation/).
+In 2025 [the social insurance system did not use the national identity number and did not exchange data with other government systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Neither the judiciary's electronic case management system, in place since 2015, nor its 2024 e-court pilot is documented as linked to the national data exchange](https://www.judiciary.mw/sites/default/files/2024-04/E-COURT%20LAUNCH.pdf). In May 2026 [government retook full control of the traffic information system from its foreign vendor to enable integration with tax, law enforcement and the national ID](https://times.mw/government-on-rescue-operation/). [On 20 May 2026 the agriculture ministry launched a sanitary and phytosanitary information system issuing certificates and permits for plant and animal products](https://satcp.mw/2026/05/22/malawi-unveils-digital-spsis-to-transform-agricultural-trade/). [In June 2026 the gender ministry launched an upgraded child protection case system on DHIS2](https://www.projecthope.org/news-stories/press-release/malawi-launches-upgraded-national-child-protection-system/).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
