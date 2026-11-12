@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "2",
-      "rule": "underway",
-      "hosted": "",
+      "stage": "4",
+      "rule": "inservice",
+      "hosted": "national",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-002;SEN-003",
-      "gaps": "No source found since October 2023 says the law adopted in August 2026 is in force, or that government data is hosted in the national data centres; the 2021 migration order (SEN-001) is older than the window.",
-      "note": "The National Assembly adopted bill 25/2026 in August 2026 to keep sensitive state data on national territory (SEN-003), and the Prime Minister said cloud services are being set up in the national data centres (SEN-005), so stage 2. No source says the law is in force or that state data is hosted there now, so not 3.",
-      "as_at": "2026-10-31"
+      "stage_sources": "SEN-011;SEN-012",
+      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The rule in force is the 2021 policy requiring state agencies to move their data to the Diamniadio data centre, stated in force by MFWA in 2024 (SEN-011); bill 25/2026 (SEN-003) is adopted, not said to be in force, and 10 to 20 per cent of public data was still held abroad in October 2026 (SEN-007).",
+      "note": "MFWA (2024) states a policy in force since 2021 requiring state agencies to transfer their data to the Diamniadio national data centre (SEN-011), and agencies have been moving data there since November 2023, the health ministry over 80% by January 2024 (SEN-012), so stage 4. No contract with data terms is on file, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

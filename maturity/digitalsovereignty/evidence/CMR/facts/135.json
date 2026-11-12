@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-10-cmr-telecoms-camtel-devoile-le-data-center-de-zamengoe-prouesse-de-souvera",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Camtel says its Zamengoé data centre guarantees local hosting of sensitive national data, and that more than a hundred public and private administrations host their data there.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Zamengoé data centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

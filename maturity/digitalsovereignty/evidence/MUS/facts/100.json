@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-31-mus-mauritius-itci-minister-tours-mauritius-telecom-s-tier-iv-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "TechReviewAfrica reports the ICT minister toured Mauritius Telecom's Rose Belle data centre as preparations advance to host government data, including sensitive eHealth information, there.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Rose Belle data centre for government data",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": "Hosting is only in preparation, so no hosted fact."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The webinar record says Cameroon's universal health coverage (openIMIS) data is hosted at CAMTEL's national data centre in the country, chosen for digital sovereignty, with MINSANTE governing data and access.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "CSU openIMIS",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

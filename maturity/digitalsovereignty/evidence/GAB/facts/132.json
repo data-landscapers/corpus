@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-04-gab-gabon-transformation-numerique-paule-marie-gondjout-et-mark-alexandre",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "AGP reports that the La Poste S.A. data centre in Gabon hosts critical services of the public administration, secure data exchange and the state's digital platforms, though it needs complete modernisation.",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "Data Center de La Poste S.A.",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

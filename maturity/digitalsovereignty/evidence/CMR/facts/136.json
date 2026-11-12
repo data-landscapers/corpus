@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-cmr-digital-sovereignty-public-applauds-strides-of-camtel-s-zamengoue-data",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Key government ministries and state administrations host their data at Camtel's Zamengoue Data Center in Cameroon, which also hosts the call centres of numerous state administrations, per Camtel's General Manager as reported by News Upfront.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Zamengoue Data Center",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zamengoue Data Center",
+   "country_label": "Cameroon",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

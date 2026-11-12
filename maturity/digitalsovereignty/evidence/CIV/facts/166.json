@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-02-civ-forum-club-sante-2026-la-disd-fixe-le-cap-de-l-intelligence-artificiel",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The DISD (Direction de l'Informatique et de la Sante Digitale) states that the patient records of its Dossier Patient Informatise, over 2 million files in more than 541 health facilities, are hosted exclusively in the State's National Datacenter Tier III.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Dossier Patient Informatise (DPI)",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dossier Patient Informatise (DPI)",
+   "country_label": "DPI",
+   "class": "other",
+   "platform": "",
+   "owner": "DISD, Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-01-egy-egypt-s-premier-inspects-new-capital-command-centre-managing-middle-ea",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The New Capital centre's director says government entities access technological services from the state's main data centre at the Strategic Command over the government G-cloud and P-cloud.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "G-cloud and P-cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "G-cloud and P-cloud",
+   "country_label": "Egypt",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "Egyptian state",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-16-civ-stockage-de-donnees-les-10-datacenters-en-cote-d-ivoire-pour-un-debut",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Digital Mag reports the Ministry of Digital Transition is building a national data centre at VITIB Grand-Bassam, due by end-2026, with a 26 billion FCFA investment and Tier 3 certification.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "Datacenter national",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Digital Mag reports five public data centres managed by ANSUT, including SNDI's, the Presidency's and the education ministry's, host sensitive state data and support e-government services.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "ANSUT public data centres",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

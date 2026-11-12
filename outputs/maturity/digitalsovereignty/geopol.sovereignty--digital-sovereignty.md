@@ -21,9 +21,9 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 7 |
+| 4 Operating | 8 |
 | 3 Established | 1 |
-| 2 Nascent | 32 |
+| 2 Nascent | 31 |
 | 1 Absent | 1 |
 | Unplaced | 9 |
 | No evidence | 4 |
@@ -70,6 +70,13 @@ Nigeria's 2025 cloud policy keeps sensitive government data at home and its iden
 
 - The Nigeria Sovereign Investment Authority's release says the National Cloud Policy 2025 mandates in-country hosting for sensitive government and financial data ([source, 2026-05-19](https://nsia.com.ng/kasi-cloud-datacenters-commissions-west-africas-first-hyperscaleready-ai-capable-data-centre-campus-in-lagos/)).
 - The director of NIMC's Strategic Programme Office said the national identity database is hosted entirely in Nigeria, maintained internally and managed by NIMC employees, has never been hosted abroad and does not use cloud hosting for its core database; the date is the article's published date ([source, 2026-10-16](https://guardian.ng/business-services/nimc-onboards-63-biometric-agents-reaffirms-local-hosting-of-national-database/)).
+
+### Senegal: 4 Operating
+
+State agencies moved their data to the national data centre under a 2021 policy, by 2024 reports; contract terms on data are not on record.
+
+- MFWA says a policy in force since 2021 requires state agencies to transfer the data they hold to the national Diamniadio data centre ([source, 2021](https://mfwa.org/impact-stories/senegal-state-agencies-comply-with-policy-on-public-data-management-after-mfwa-fellows-report/)).
+- MFWA says state agencies have been moving their data to the Diamniadio national storage centre since November 2023, the health ministry reportedly over 80% of its data by January 2024 ([source, 2024-01](https://mfwa.org/impact-stories/senegal-state-agencies-comply-with-policy-on-public-data-management-after-mfwa-fellows-report/)).
 
 ### South Africa: 4 Operating
 
@@ -238,13 +245,6 @@ Keeping state data under national control was a stated goal in 2025; a rule in f
 Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
 
 - The Niger government has mentioned plans to enhance its national data center capacity and cybersecurity architecture and build domestic expertise to reduce external dependence, as part of a digital sovereignty push alongside the new AES biometric ID ([source, 2026-03](https://www.biometricupdate.com/202603/focus-on-sahel-digital-sovereignty)).
-
-### Senegal: 2 Nascent
-
-Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
-
-- Senegal's Presidency confirmed a proposed Cybastion partnership, with $300 million to be mobilised and financing not finalised, that includes a planned sovereign data center to host and manage critical digital systems within Senegal's borders ([source, 2026-09-14](https://panafricanvisions.com/2026/09/cybastion-targets-300-million-investment-to-strengthen-senegals-digital-sovereignty/)).
-- Seneweb reports the National Assembly unanimously adopted bill n° 25/2026, which enshrines the principle of keeping data considered sensitive for the State on national territory (127 votes in favour, none against) ([source, 2026-08-20](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html)).
 
 ### Seychelles: 2 Nascent
 

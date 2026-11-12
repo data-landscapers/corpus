@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-01-sen-senegal-state-agencies-comply-with-policy-on-public-data-management-af",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "MFWA says a policy in force since 2021 requires state agencies to transfer the data they hold to the national Diamniadio data centre.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Diamniadio data centre transfer policy",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "MFWA says state agencies have been moving their data to the Diamniadio national storage centre since November 2023, the health ministry reportedly over 80% of its data by January 2024.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Diamniadio data centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Diamniadio data centre",
+   "country_label": "Senegal",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "Government of Senegal",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

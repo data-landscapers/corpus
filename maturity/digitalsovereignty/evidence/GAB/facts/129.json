@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-14-gab-gabon-le-logiciel-qui-pilote-le-budget-de-l-etat-est-donc-marocain-dep",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Depeches241 reports that President Oligui Nguema presented the Nkok national data centre, inaugurated 3 July 2026, as aimed at bringing hosting of strategic state data back to Gabon.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "Nkok national data centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

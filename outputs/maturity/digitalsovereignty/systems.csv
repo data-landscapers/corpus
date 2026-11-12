@@ -2,6 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Cloud unificada governamental (cloud nacional),Angola,sovereignty,Camama main data centre (204 server cabinets) and Rangel backup data centre,State of Angola,"three levels: organs of sovereignty, State administration, information society",2024-12-17-ago-menosfios-dois-centros-de-dados-camama-rangel
 AGO,Angola National Cloud,Angola National Cloud,sovereignty,government cloud,Government of Angola,,2026-11-10-ago-angola-seeks-stronger-technology-investment-ties-with-qatar
 AGO,Government Cloud,Angola,sovereignty,,Government of Angola,,2025-11-19-ago-expansao-ia-banca-assembleia-nacional-ende
+AGO,Government's Data Center and Cloud,Angola,sovereignty,,Government,national,2026-04-28-ago-new-government-data-center-reinforces-the-country-s-digital-sovereignt
 BDI,Setic data center,Burundi,sovereignty,,Secretariat executif des technologies de l'information et de la communication (Setic),,2026-04-22-lia-au-coeur-de-la-strategie-numerique-burundi
 BEN,Comité national du Numérique,Benin,other,,Presidency of the Republic,,2026-10-20-ben-presidence-de-la-republique-un-comite-national-du-numerique-cree
 BFA,"Two modular government datacenters, Ouagadougou",BFA,other,government cloud,Ministry of Digital Transition (state),,2026-01-25-gouvernement-inaugure-deux-datacenters
@@ -14,6 +15,7 @@ BFA,public administration datacentres,Burkina Faso,sovereignty,,public administr
 BFA,nouveaux datacenters nationaux (two modular datacenters built in 2025),Burkina Faso,sovereignty,,government,,2026-03-23-casem-2026-transition-digitale-souverainete-numerique
 BFA,Two modular government datacentres (Cloud gouvernemental),Burkina Faso,other,government cloud,"State, Ministry of Digital Transition",,2026-02-20-bfa-burkina-faso-zoom-sur-les-12-chantiers-strategiques-du-ministere-de-la
 BFA,National cloud and fibre optic project,Burkina Faso,other,government cloud platform,Ministry of Finance,,2024-01-01-crs-3-2014001355-2024-dsif-burkina-faso-national-cloud-and-fibre-optic-c
+BFA,"Two modular government data centres (3,000 TB, sites about 100 km apart)",Burkina Faso,other,,ANPTIC / State,state use; not stated for hire,2026-01-23-bfa-souverainete-numerique-le-burkina-faso-inaugure-deux-data-center-de-3
 BWA,Data Protection Act,Data Protection Act,other,,Government of Botswana,,2025-11-25-govt-moves-to-in-house-local-data
 BWA,Delta Digital Data Centre,Bofinet Delta Digital Data Centre,other,Tier 3 certified data centre,Bofinet,government services to migrate from the Department of Shared Digital Services,2025-11-25-govt-moves-to-in-house-local-data
 BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),other,,BoFiNet (100% government-owned),,2025-11-25-govt-moves-to-in-house-local-data
@@ -28,16 +30,19 @@ CIV,PKI nationale (PKI Racine),Cote d Ivoire,other,,ANSSI CI,,2026-07-25-cote-di
 CIV,Sovereign and Secure Cloud in Côte d'Ivoire (DataConnect Africa / Clever Cloud Africa),Côte d'Ivoire,other,"PaaS cloud, TIER III datacenter",DataConnect Africa (New Digital Africa) with Clever Cloud,,2024-11-28-clever-cloud-dataconnect-africa-sovereign-cloud-civ
 CIV,Data Center national,Cote d'Ivoire,other,,"State (builders CYBASTION, BNETD, APL)",,2025-12-01-civ-grand-bassam-ibrahim-kalil-konate-met-la-pression-pour-accelerer-le-ch
 CIV,national sovereign data centre,Cote d'Ivoire,sovereignty,,state,,2025-05-21-civ-la-cote-d-ivoire-prepare-le-lancement-de-son-datacenter-national-souve
+CIV,Dossier Patient Informatise (DPI),DPI,other,,"DISD, Ministry of Health",,2026-07-02-civ-forum-club-sante-2026-la-disd-fixe-le-cap-de-l-intelligence-artificiel
 CMR,Zamengoe Data Centre,Zamengoe Data Centre,other,,CAMTEL,,2026-06-12-camtel-zamengoe-data-centre-sovereignty-sago-techreviewafrica
 CMR,Zamengoé Datacenter,Zamengoé Datacenter,other,,Camtel,government agencies and businesses,2025-12-11-camtel-unveils-performance-of-its-zamengoe-datacenter
 CMR,Zamengoe Datacenter,Zamengoe Datacenter,other,,Camtel,,2025-12-11-camtel-unveils-performance-of-its-zamengoe-datacenter
 CMR,Camtel Zamengoe data centre,Cameroon,sovereignty,"data centre, Tier III certified",Camtel (state),Tier III,2026-06-12-lejour-camtel-zamengoe-datacenter-digital-sovereignty
 CMR,Government Cloud,Government Cloud,sovereignty,,CAMTEL,,2025-12-05-cmr-camtel-et-ethio-telecom-unissent-leurs-forces-pour-accelerer-la-transf
+CMR,Zamengoue Data Center,Cameroon,sovereignty,,Camtel,,2026-06-01-cmr-digital-sovereignty-public-applauds-strides-of-camtel-s-zamengoue-data
 COD,Data center du Gouvernement,Data center du Gouvernement,other,,"Government (Kinshasa-Gombe, Government building)",public administration,2025-07-24-sgptntic-visite-data-center-gouvernement
 COD,ANCE (Autorité nationale de certification électronique),COD,other,,state,,2026-07-31-drc-tribune-digital-sovereignty-ance-ancy-x-road-proposal
 COD,ANCY (Agence nationale de la cybersécurité),COD,other,,state,,2026-07-31-drc-tribune-digital-sovereignty-ance-ancy-x-road-proposal
 COD,Registre Social Unique (RSU) / MIS-DRC (SIG RDC),Registre Social Unique,other,MIS-DRC web server and Android app,"MINAS, UTG-RSU",,2026-07-19-cod-minas-registre-social-unique
 COD,sovereign data centre,sovereign data centre (Kinshasa extension zone),sovereignty,,state,,2026-10-20-cod-cooperation-rdc-russie-s-e-augustin-kibassa-maliba-mobilise-des-parten
+COD,GovNet,Democratic Republic of the Congo,other,central hub in Kinshasa,UG PTN,,2026-06-02-cod-connectivite-des-batiments-administratifs-de-gouvernorats-et-de-145-te
 COG,Datacenter national,Congo,sovereignty,TIER III+ data centre,"Government of Congo, financed mainly by AfDB",,2026-02-12-congo-datacenter-national-operationnel-mai-2026
 COG,Datacenter national,Congo,sovereignty,"data centre, Bacongo, Brazzaville","Government of Congo, cofinanced by AfDB",,2025-08-06-datacenter-national-inaugure-novembre-ldb
 COG,Datacenter national,Congo,sovereignty,"data centre, Bacongo, Brazzaville","Government of Congo, financed by AfDB",,2025-03-01-adiac-datacenter-national-siege-inaugure-novembre-80pc
@@ -75,6 +80,7 @@ EGY,Karnak Chat / Karnak LLM,Egypt,sovereignty,Egyptian data centres,"Applied In
 EGY,Digital Egypt,Egypt,other,,,,2026-10-12-egy-technotime-ehab-said-digital-transformation-beyond-services
 EGY,biometric electronic-verification (digital identity) system and integration platform,Egypt,sovereignty,integration platform with the Civil Status Organisation,Ministry of Communications and Information Technology with Ministry of Interior,national,2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch
 EGY,Government Data and Cloud Computing Center (P1),Egypt,sovereignty,cloud,Government of Egypt,Ain El-Sokhna Road,2024-04-28-egypt-government-data-cloud-computing-center-p1-inauguration
+EGY,G-cloud and P-cloud,Egypt,sovereignty,,Egyptian state,,2026-04-01-egy-egypt-s-premier-inspects-new-capital-command-centre-managing-middle-ea
 ERI,ASYCUDA World,Eritrea,other,UNCTAD ASYCUDA World,Government of Eritrea,,2026-01-08 Eritrea launches ASYCUDA World digital customs system
 ETH,Personal Data Protection Proclamation (Proclamation No. 1321/2024),Personal Data Protection Proclamation,other,,Parliament of Ethiopia,data controllers and processors,2024-07-24-data-localisation-requirement-proclamation-1321-2024
 ETH,Fayda,Fayda,other,MOSIP,National ID Program,,2024-01-01-eth-fayda-digital-id-ethiopia-status-update
@@ -147,6 +153,7 @@ MRT,Système national de cloud,Mauritania,sovereignty,,Government,,2025-08-05-mr
 MRT,cloud gouvernemental national,Mauritania,sovereignty,,Ministry of Digital Transformation and Modernisation of Administration,,2026-09-28-mrt-mauritanie-unification-des-normes-de-l-architecture-numerique-de-l-eta
 MRT,national cloud,Mauritania national cloud,sovereignty,cloud,state,,2026-10-28-la-mauritanie-explore-l-exp-rience-marocaine-pour-interconnecter-ses-a
 MRT,Cloud gouvernemental,Mauritania,sovereignty,,Government of Mauritania,,2024-01-01-mrt-avis-general-de-passation-des-marches-du-projet-regional-d-integration
+MRT,National cloud service,Mauritania,sovereignty,cloud,Government of Mauritania,,2026-11-11-civ-semafor-distant-wars-pose-risks-for-africas-digital-services
 MUS,Mauritius Telecom Rose-Belle data centre,data centre de Rose-Belle,other,,Mauritius Telecom,,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,"Government Online Centre (GOC), Ebene",GOC,other,,Government of Mauritius,government only; about 80 racks,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,National Sovereign Cloud,Mauritius,sovereignty,VMware Cloud Foundation,government,,2026-04-26-mus-maurice-veut-lancer-un-national-sovereign-cloud-pour-proteger-ses-donn
@@ -224,6 +231,7 @@ SEN,Stellarix sovereign cloud,Senegal,other,cloud,Stellarix,,2026-10-15-sen-stel
 SEN,Data Center national de Diamniadio,Data Center national de Diamniadio,other,,Government of Senegal,,2026-10-21-sen-donnees-publiques-jusqu-a-20-des-donnees-senegalaises-encore-hebergees
 SEN,Cloud souverain,Senegal,sovereignty,,government,,2026-03-24-sen-new-deal-technologique-le-portail-e-senegal-desormais-operationnel
 SEN,Dakar 2026 private cloud (Alibaba Cloud Apsara Stack),Senegal,other,Alibaba Cloud Apsara Stack,Dakar 2026 Organizing Committee; to be handed to Senegal after the Games,,2026-11-02-alibaba-cloud-ai-dakar-youth-olympic-games
+SEN,Diamniadio data centre,Senegal,sovereignty,,Government of Senegal,,2024-10-01-sen-senegal-state-agencies-comply-with-policy-on-public-data-management-af
 SLE,Government Data Centre,Sierra Leone,sovereignty,NatCA Tower,"Ministry of Communication, Technology and Innovation",redundancy site planned at State House,2026-09-05-sierra-leone-moctii-un-data-governance-framework
 SOM,Government Data and Cybersecurity Center,Somaliland,sovereignty,government data centre (under construction),Ministry of Information and Communication Technology,,2025-10-20-taiwanicdf-somaliland-government-data-center
 SOM,S-Road,Somaliland,other,e-governance system,,,2025-10-20-taiwanicdf-somaliland-government-data-center

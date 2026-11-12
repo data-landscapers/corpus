@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-03-nam-namibia-moves-closer-to-secure-digital-identity-and-online-verificatio",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "CRAN's Elton Witbooi says the Office of the Prime Minister is leading plans to establish a dedicated government data centre.",
+   "as_of": "2025-11-03",
+   "date_precision": "day",
+   "system": "Government data centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

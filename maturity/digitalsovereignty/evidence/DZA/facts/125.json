@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-26-dza-jeune-independant-cerist-cloud-computing-souverainete",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The minister said the national cloud platform at Cerist, inaugurated as part of the digital transformation and technological sovereignty strategy, is meant to host national data in Algeria, reduce dependence on foreign infrastructure and give better control of strategic data.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Cerist national cloud computing platform",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

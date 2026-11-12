@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-09-egy-dostor-p1-government-data-centre-disaster-recovery-ramses-fire",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Al-Dostour reports that the government data and cloud centre P1 took over running government services and routing data after the July 2025 Ramses exchange fire in Cairo.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "government data and cloud centre P1",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
