@@ -1,6 +1,6 @@
 ---
 title: São Tomé and Príncipe: finance
-compiled: 2026-11-06
+compiled: 2026-11-12
 place: STP
 ---
 
@@ -10,8 +10,8 @@ place: STP
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">25</td><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num total">30</td></tr>
+<tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num total">3</td></tr>
-<tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
@@ -19,7 +19,7 @@ place: STP
 <tr><th scope="row">Legislation and regulation</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">3</td><td class="num">25</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">8</td><td class="num total">37</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">3</td><td class="num">25</td><td class="num">3</td><td class="num">1</td><td class="num">8</td><td class="num total">40</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/STP/all-finance.html">Full table &mdash; 55 rows, all 12 fields &rarr;</a>
@@ -50,15 +50,15 @@ place: STP
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">25</td><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num total">30</td></tr>
+<tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num total">3</td></tr>
-<tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Legislation and regulation</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">3</td><td class="num">25</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">8</td><td class="num total">36</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">3</td><td class="num">25</td><td class="num">3</td><td class="num">&lt;1</td><td class="num">8</td><td class="num total">39</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
