@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-29-zaf-innovative-new-swims-app-a-game-changer-for-social-workers",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Western Cape Government states that its Social Work Integrated Management System (SWIMS) went live in April 2024 and was used by 1,054 provincial Department of Social Development practitioners, who capture case management forms for clients on it, with 2,157 cases opened in June 2024.",
+   "as_of": "2024-07-25",
+   "date_precision": "day",
+   "system": "SWIMS",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social Work Integrated Management System (SWIMS)",
+   "country_label": "South Africa (Western Cape)",
+   "class": "socialmis",
+   "platform": "mobile and desktop app",
+   "owner": "Western Cape Department of Social Development and Department of the Premier",
+   "tiers": ""
+  }
+ ],
+ "note": "SWIMS is a provincial social-work case management app; the source states no beneficiary payments or other programmes."
+}
