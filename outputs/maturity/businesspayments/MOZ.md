@@ -10,4 +10,4 @@
 
 ***Also on file***. [M-Pesa](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>); [Adianta-La](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>).
 
-***Not found***. A source newer than the April 2025 launch saying tenders are published or bid online through a system in service.
+***Not found***. A source since the April 2025 launch saying tenders are published or bid on a system in service.

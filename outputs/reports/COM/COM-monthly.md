@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: COM
 ledger_rows: 9
 not_held: 22
-record: 3b2a52fba118
+record: 00a7e25328b3
 ---
 
 # News, Oct – Nov 2026
@@ -182,7 +182,7 @@ Comoros's statistics institute INSEED has set up a digital mapping laboratory ah
 
 **[Alertes](https://meteocomores.km/alertes/)** — Météo Comores (ANACM), 27 October 2026
 
-Severity-graded wind warnings by district, July to October 2026; no active alert at capture.
+Météo Comores, run by ANACM, listed no active weather alert on 27 October 2026. Its most recent alerts were moderate-severity wind warnings issued that day for north-east winds on 28 October. Earlier expired alerts date from July and August 2026.
 
 </div>
 

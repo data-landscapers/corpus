@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: DZA
 ledger_rows: 36
 not_held: 5
-record: 20ac75b2707f
+record: ae2d532b50cc
 ---
 
 # News, Oct – Nov 2026
@@ -442,7 +442,7 @@ Algeria's commercial register (CNRC) sets out the steps to create each type of c
 
 **[Fadaeldjazair : livret foncier, cadastre et actes, ce que change la nouvelle version du portail](https://www.algerie360.com/fadaeldjazair-livret-foncier-cadastre-en-ligne/)** — Algérie360, 2 November 2026
 
-New geoportal version from 1 November 2026; 27m documents from 217 land offices, NIN login, SATIM card payment.
+Algeria's national property directorate, DGDN, launched a new version of the Fadaeldjazair land geoportal on 1 November 2026. Users can request land booklets, negative certificates, copies of deeds and cadastral extracts remotely and follow requests online. The portal has existed since March 2024.
 
 </div>
 

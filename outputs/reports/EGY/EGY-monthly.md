@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: EGY
 ledger_rows: 55
 not_held: 36
-record: a14cddc6babc
+record: 2a440e5cda17
 ---
 
 # News, Oct – Nov 2026
@@ -250,7 +250,7 @@ Egypt's telecoms regulator described an online system that scores new cities aga
 
 **[رئيس مجلس الدولة: التوسع في التقاضي الإلكتروني يستهدف تحقيق عدالة إدارية ناجزة](https://www.youm7.com/story/2026/11/8/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%B3%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7610749)** — اليوم السابع, 8 November 2026
 
-E-litigation pilot widened to two more administrative courts; disciplinary suits now filed online end to end.
+Mahmoud Ibrahim Abu al-Dahab, president of Egypt's Council of State, said on 8 November 2026 that the electronic litigation pilot is widening. It will now cover the administrative court for education and its annexes, and the disciplinary court for health. The announcement came during a session of the administrative judiciary court's ninth circuit.
 
 </div>
 
@@ -690,7 +690,7 @@ Egypt's Digital Egypt platform now offers notarisation and real-estate registry 
 
 **[22 خدمة إلكترونية للشهر العقاري، أبرزها التوكيلات والإقرارات](https://www.vetogate.com/5767586)** — بوابة فيتو, 9 November 2026
 
-16 notarial and 6 registry services online; remote litigation power of attorney launched 7 Nov 2026 via face match.
+Vetogate reported on 9 November 2026 that Egypt's Digital Egypt platform offers about 22 notarial and real estate registry services. Of these, 16 are notarisation services and 6 are real estate registry services, including official powers of attorney and declarations. The Ministry of Justice is expanding the mechanisation of these transactions to cut crowding at notary offices.
 
 </div>
 

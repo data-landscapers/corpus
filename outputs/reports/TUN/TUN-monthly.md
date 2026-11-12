@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: TUN
 ledger_rows: 42
 not_held: 5
-record: a30d8eee13c4
+record: e555510635e9
 ---
 
 # News, Oct – Nov 2026
@@ -336,7 +336,7 @@ Summarised under [Registries](#registries).
 
 **[Justice budget: Digitalisation, court delays and enforcement of rulings at the centre of debate](https://news-tunisia.tunisienumerique.com/justice-budget-digitalisation-court-delays-and-enforcement-of-rulings-at-the-centre-of-debate/)** — News Tunisia, 30 October 2026
 
-Oct 2026: Administrative Court advisory services fully digitised, litigation partly; MPs press for faster e-justice.
+Two parliamentary committees reviewed the 2027 budget of Tunisia's Provisional Supreme Council of the Judiciary on 29 October 2026. The Council proposed keeping its 2026 level of 1.525 million dinars. MPs asked for a permanent council, faster digitalisation of judicial services and ways to enforce court rulings.
 
 </div>
 
@@ -344,7 +344,7 @@ Oct 2026: Administrative Court advisory services fully digitised, litigation par
 
 **[Justice : le Tribunal administratif passe à l'audience électronique avec le système « Sélim »](https://www.lapresse.tn/2026/11/04/justice-le-tribunal-administratif-passe-a-laudience-electronique-avec-le-systeme-selim/)** — La Presse de Tunisie, 4 November 2026
 
-Central chambers hold first Selim e-hearings; system stated generalised to all chambers and procedure phases.
+Tunisia's Administrative Tribunal held its first pleading hearings in the central first-instance chambers on the Sélim electronic justice system (reported 4 November 2026). The tribunal says Sélim already runs in the regional first-instance chambers. It now covers all chambers and every stage of procedure.
 
 </div>
 
@@ -358,7 +358,7 @@ Central chambers hold first Selim e-hearings; system stated generalised to all c
 
 **[Terres domaniales : 11.000 hectares mis à la disposition des sociétés communautaires](https://www.lapresse.tn/2026/11/07/terres-domaniales-11-000-hectares-mis-a-la-disposition-des-societes-communautaires/)** — La Presse de Tunisie, 7 November 2026
 
-Cadastral geoportal due within two years with OTC and CNCT; 11,271 state properties inventoried by September 2026.
+Tunisia's minister of state domains, Wajdi Hedhili, briefed a joint parliamentary committee on 6 November 2026. Hedhili said 24 state farmland plots, over 11,000 hectares, have been given to community companies. 3,000 hectares are reserved for renewable energy projects, and a second list of plots is in preparation. State farmland totals 500,000 hectares, 38% of it leased.
 
 </div>
 

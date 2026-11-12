@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: CIV
 ledger_rows: 43
 not_held: 9
-record: ae1d8454265b
+record: 130183ac86de
 ---
 
 # News, Oct – Nov 2026
@@ -174,7 +174,7 @@ Italy's development agency AICS disbursed EUR 2.695 million through UNDP on 14 O
 
 **[Forfait internet Côte d'Ivoire : Orange, MTN, Moov (prix)](https://tech-toolsafrique.com/meilleur-forfait-internet-cote-divoire/)** — tech-toolsafrique.com, 1 October 2026
 
-Per-GB mobile data ~160 to ~2,000 FCFA across Moov, MTN, Orange (Oct 2026); fibre from 15,000 FCFA a month.
+Tech-Tools Afrique published a price comparison of mobile and home internet plans in Côte d'Ivoire on 1 October 2026. Moov plans cost about 250 FCFA per gigabyte. MTN monthly packs start at 2,000 FCFA for 3 GB. Orange or Moov fibre starts at 15,000 FCFA a month. The site says offers change and prices need checking.
 
 </div>
 

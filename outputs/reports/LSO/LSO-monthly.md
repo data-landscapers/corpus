@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-12
 place: LSO
 ledger_rows: 10
 not_held: 4
-record: 11600e2766ac
+record: ec9f6f0df804
 ---
 
 # News, Oct – Nov 2026
@@ -86,7 +86,7 @@ Paratus Group launched Paratus Lesotho, a joint venture with Real Image Lesotho,
 
 **[Lesotho Mobile Data Cost](https://datamatrix.co.ls/research/data-cost/)** — Data Matrix, 6 November 2026
 
-1 GB at M32.75 on flagship bundles, November 2026; small bundles 24% dearer per GB.
+Data Matrix reported on 6 November 2026 that one gigabyte of mobile data in Lesotho cost M32.75 on average across the flagship 30-day bundles of Vodacom and Econet. Vodacom charged M660 for 20 GB and Econet M650. Per gigabyte, the smallest bundle costs 24% more than the largest. The site has tracked prices since 13 October 2023.
 
 </div>
 
