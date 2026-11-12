@@ -25,8 +25,8 @@ The norm is Corpus's own: the AFRIPOL Statute of 2017 connects national police a
 | 5 Leading | 0 |
 | 4 Operating | 1 |
 | 3 Established | 6 |
-| 2 Nascent | 16 |
-| 1 Absent | 8 |
+| 2 Nascent | 17 |
+| 1 Absent | 7 |
 | Unplaced | 7 |
 | No evidence | 16 |
 
@@ -125,7 +125,7 @@ A criminal records system covering crime report to sentence was still being buil
 
 ### Kenya: 2 Nascent
 
-Seventy-six stations around Nairobi had a digital occurrence book in 2023; in 2026 a national one was still being procured.
+Five Eldoret stations had a digital occurrence book in March 2026, but in May the police chief said the service had none yet.
 
 *Advancing.*
 
@@ -135,6 +135,7 @@ Seventy-six stations around Nairobi had a digital occurrence book in 2023; in 20
 - Interior Cabinet Secretary Kipchumba Murkomen said on 28 August 2026 that digital occurrence books would be introduced, linked to police communication centres, so that the public can report crime remotely; he spoke of them as still to come and gave no station in which one was in use ([source, 2026-08-28](https://www.kenyans.co.ke/news/126592-police-use-ai-tools-assess-police-deployment-cs-murkomen-announces)).
 - The Star reports that 76 police stations in and around Nairobi had their Occurrence Books digitised by 30 June 2023, with the Deputy Inspector General of Administration Police telling the President the service planned to roll it out to other parts of the country; no total of stations is given ([source, 2023-06-30](https://www.the-star.co.ke/news/2023-07-03-76-police-occurrence-books-digitised-in-modernisation-drive)).
 - The Deputy Inspector General of Administration Police said on 30 June 2023 that reports entered in the digital OB at the station are open to monitoring by ward, county and regional commanders and the Inspector General, and the Cabinet Secretary called it real-time reporting of crimes ([source, 2023-06-30](https://www.the-star.co.ke/news/2023-07-03-76-police-occurrence-books-digitised-in-modernisation-drive)).
+- The Star reports that the digitised OB system has been rolled out at five Eldoret police stations, Eldoret Central, Langas, Sukunanga, Ainabtich and Kamkunji, with more stations to follow ([source, 2026-03-12](https://www.the-star.co.ke/counties/rift-valley/2026-03-12-eldoret-police-shift-to-digital-ob-system-to-boost-crime-reporting)).
 
 ### Liberia: 2 Nascent
 
@@ -181,6 +182,16 @@ In 2019 a team of eight in Niamey entered cases into the police database; nothin
 
 - EUCAP Sahel Niger reports that the SIPAO database holds offences, criminals' identities and criminal proceedings, that the team recording criminal acts had entered more than 8,000 cases and that 700 new cases were recorded in the month; the article gives no date for the month, so the date is its publication ([source, 2019-05-23](https://trust-fund-for-africa.europa.eu/news/wapis-sipao-un-fichier-de-police-pour-le-niger-2019-05-23_en)).
 - EUCAP Sahel Niger reports that cases are entered in SIPAO by a team of 8 under the director of the Police Technique et Scientifique in Niamey, who is responsible for recording criminal acts in Niger, while operators are being trained to record data directly from their own service; it does not say from what the team keys, and the date is the article's publication ([source, 2019-05-23](https://trust-fund-for-africa.europa.eu/news/wapis-sipao-un-fichier-de-police-pour-le-niger-2019-05-23_en)).
+
+### Nigeria: 2 Nascent
+
+Gombe opened the first digital police station, with case files managed digitally, in 2026; no station elsewhere is shown recording digitally.
+
+*Advancing.*
+
+- Daily Trust reports Gombe State has become the first beneficiary of a digital police station project, with Galaxy Backbone saying case files can now be managed digitally on a cloud-based system ([source, 2026-06](https://dailytrust.com/gombe-gets-nigerias-first-digital-police-station/)).
+- Daily Trust reports Gombe is the first state to receive the Galaxy Backbone and Nigeria Police Trust Fund digital police station, with no other station named ([source, 2026-06](https://dailytrust.com/gombe-gets-nigerias-first-digital-police-station/)).
+- Nigeria Communications Week reports that on 25 September 2025 the Inspector-General opened nationwide training on the newly introduced Criminal Database Systems, saying complaints will be captured and tracked and every case documented, with trainees as custodians of crime data at divisional, zonal and state levels ([source, 2025-09-25](https://nigeriacommunicationsweek.com.ng/2025/09/25/police-launches-database-to-curb-missing-case-files-others)).
 
 ### Rwanda: 2 Nascent
 
@@ -234,10 +245,13 @@ Stations recorded on paper in 2024; network equipment for 40 arrived by February
 
 ### Zimbabwe: 2 Nascent
 
-An electronic docket system was announced in December 2025 as coming soon; no source found says whether any station yet records digitally.
+A crime reporting system was being tested at Warren Park and a couple of other stations in 2026; none elsewhere has been found recording digitally.
 
-- The Officer Commanding Harare Province, Commissioner Maxwell Chikunguru, said the police would 'soon' transition to an electronic system for processing all dockets, a plan announced and not a deployment; no station is named as using it, and the remarks at the Mbare District headquarters carry no date, so dated by publication ([source, 2025-12-09](https://stalliontimes.com/zimbabwe-police-embrace-electronic-docket-system/)).
-- The Home Affairs minister said on 17 January 2024 that computerisation of police operations, the ZRP Integrated Information System covering crime management, electronic traffic management, forensics and human resources, is part of the ministry's integrated ICT strategy approved by Cabinet in 2022 and a flagship of its 100-day cycle; the police had finished a needs assessment and were looking for a partner, which he expected within 2024 ([source, 2024-01-17](https://nehandaradio.com/2024/01/17/police-in-zimbabwe-looking-for-computerization-partner-kazembe/)).
+*Advancing.*
+
+- Home Affairs Minister Kazembe told the National Assembly that the crime management system built by the Harare Institute of Technology is running as a proof of concept at Warren Park Police Station and 'a couple of other' stations, with wider deployment to follow once it is seen to work; no sitting date is given, so dated by the Herald's publication ([source, 2026-10-08](https://www.heraldonline.co.zw/zrp-pilots-digital-crime-reporting-system-developed-by-harare-institute-of-technology-at-warren-park-police-station/)).
+- The Herald describes the system piloted at Warren Park and other stations as a digital crime reporting system, a crime management subsystem of the ZRP Integrated Information System; it does not name the occurrence book or the docket, and the date is the publication date ([source, 2026-10-08](https://www.heraldonline.co.zw/zrp-pilots-digital-crime-reporting-system-developed-by-harare-institute-of-technology-at-warren-park-police-station/)).
+- Newsreel Zimbabwe reports that Minister Kazembe said an Electronic Crime Management System developed by Array Institute of Technology with the ZRP IC team has a prototype being tested at Warren Park Police Station ([source, 2025-06-14](https://newsreelzimbabwe.co.zw/2025/06/14/brick-by-brick-strategy-will-benefit-the-police-minister-kazembe/)).
 
 ### DR Congo: 1 Absent
 
@@ -266,15 +280,6 @@ Police kept almost no digital records in 2007 and stations used no computers; no
 - The UNDP outcome evaluation mission, visiting PRM stations and commands in September 2007, verified the almost complete absence of digital records of autos, case files or any other procedure across the PRM ([source, 2007-09](https://erc.undp.org/evaluation/documents/download/3514)).
 - The evaluation mission found in September 2007 that IT use was mainly confined to the Central Command, limited in provincial commands and non-existent at district and police station level, with piles of paper serving as case file archives and stations lacking paper and typewriter ribbons ([source, 2007-09](https://erc.undp.org/evaluation/documents/download/3514)).
 - The evaluation mission reported in September 2007 that IT use was non-existent at district and police station level, and that most stations it visited had either a non-functional computer or outdated typewriters; it gives no count of stations ([source, 2007-09](https://erc.undp.org/evaluation/documents/download/3514)).
-
-### Nigeria: 1 Absent
-
-Stations made statements, reports and the crime diary by hand in 2021 and 2022; no source found says whether that still holds.
-
-- Jimoh, Wajiga and Garba report that an onsite observation at Nigerian police stations found criminal records managed manually in a crime diary or ledger, and describe crime reporting and detailing in stations as a manual method; they give neither the number of stations observed nor the date, so the date is the paper's publication ([source, 2022-06](https://journals.ui.edu.ng/index.php/uijslictr/article/download/773/681)).
-- Jimoh, Wajiga and Garba state that Nigerian police stations they observed keep criminal records by hand in a crime diary or ledger, with no digital record named; the observation is undated and its sample is not given, so the date is the paper's publication ([source, 2022-06](https://journals.ui.edu.ng/index.php/uijslictr/article/download/773/681)).
-- The Ministry of Police Affairs' press unit states that writing a statement, generating a report for citizens and entering biodata in police stations are done manually, and that divisional police stations lack basic ICT infrastructure; it gives no date, so the date is the article's publication (a proxy date) ([source, 2021-06-08](https://fmino.gov.ng/enhancing-effective-policing-with-infrastructural-supportas-wapis-database-centre-debuts/)).
-- The Ministry of Police Affairs' press unit states that statements and reports in police stations are made manually and that most criminal records of offenders and property across the country are not made electronically; it gives no date, so the date is the article's publication (a proxy date) ([source, 2021-06-08](https://fmino.gov.ng/enhancing-effective-policing-with-infrastructural-supportas-wapis-database-centre-debuts/)).
 
 ### Sierra Leone: 1 Absent
 
@@ -333,7 +338,7 @@ Not established: The newest usable facts are dated 31 March 2021: ten police and
 
 An inspection begun in 2023 found posts without stationery keeping registers by hand; nothing found says what other stations do, so no stage is set.
 
-Not established: The one usable fact, from the Ombudsman's inspection begun in July 2023 and so older than three years, shows five named posts keeping registers and forms by hand; it does not say that stations record on paper only, nor what the other inspected stations do. No records system for stations is named in any evidence row, and nothing has been found on governance, the records made, the stations or the last twelve months. The two rows stating paper recording nationwide are from the excluded source.
+Not established: The Inspector of Police's 2024/25 report, reported in March 2026, describes an officer stitching loose pages into a makeshift incident book and cases poorly documented; the Ombudsman's inspection begun in July 2023 found five posts keeping registers by hand. Neither says that stations record on paper only. No records system for stations is named in any evidence row, and nothing has been found on governance, the records made, the stations or the last twelve months. The two rows stating paper recording nationwide are from the excluded source.
 
 ### Senegal: Unplaced
 

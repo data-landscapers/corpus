@@ -1,0 +1,27 @@
+{
+ "slug": "2024-09-02-zwe-police-yet-to-embrace-technology-matanga",
+ "facts": [
+  {
+   "sub_indicator": "record",
+   "aspect": "records",
+   "value": "none",
+   "fact": "Police Commissioner General Godwin Matanga said on 2 September 2024 that the Zimbabwe Republic Police is not computerised, the only force in the region in that state.",
+   "as_of": "2024-09-02",
+   "date_precision": "day",
+   "system": "Zimbabwe Republic Police",
+   "class": "record"
+  },
+  {
+   "sub_indicator": "record",
+   "aspect": "made",
+   "value": "paper",
+   "fact": "Commissioner General Matanga said the ZRP is uncomputerised, which the report ties to the quality of its investigations; he gave no detail on how stations record cases.",
+   "as_of": "2024-09-02",
+   "date_precision": "day",
+   "system": "Zimbabwe Republic Police",
+   "class": "record"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

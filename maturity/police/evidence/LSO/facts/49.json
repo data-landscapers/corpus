@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-06-lso-matsoso-tears-into-politicians",
+ "facts": [
+  {
+   "sub_indicator": "record",
+   "aspect": "made",
+   "value": "paper",
+   "fact": "The Inspector of Police's 2024/25 report describes officers stitching loose pages into a makeshift 'LMPS 5' book for daily incidents, and poorly documented cases and non-existent exhibit books, so station records are paper.",
+   "as_of": "2026-03-06",
+   "date_precision": "day",
+   "system": "LMPS 5 occurrence book",
+   "class": "record"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LMPS 5 occurrence book",
+   "country_label": "Lesotho",
+   "class": "record",
+   "platform": "paper",
+   "owner": "Lesotho Mounted Police Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

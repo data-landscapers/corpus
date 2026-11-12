@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-28-ken-kenya-police-to-install-cctv-cameras-in-1-200-stations-roll-out-digita",
+ "facts": [
+  {
+   "sub_indicator": "record",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "Interior Cabinet Secretary Kipchumba Murkomen announced on 28 August 2026 a programme to equip all 1,200 police stations with digital occurrence books and CCTV by the end of 2026, saying it was already underway.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "digital occurrence book",
+   "class": "record"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital occurrence book (OB)",
+   "country_label": "Digital OB",
+   "class": "record",
+   "platform": "",
+   "owner": "Ministry of Interior / National Police Service",
+   "tiers": ""
+  },
+  {
+   "system": "Integrated Command and Control Centre",
+   "country_label": "Integrated Command and Control Centre",
+   "class": "surveillance",
+   "platform": "",
+   "owner": "National Police Service",
+   "tiers": ""
+  },
+  {
+   "system": "Station CCTV",
+   "country_label": "CCTV in 1,200 stations",
+   "class": "surveillance",
+   "platform": "",
+   "owner": "National Police Service",
+   "tiers": ""
+  }
+ ],
+ "note": "No station is said to make digital records yet; the digital OB is announced for rollout by end 2026 and no pilot is stated."
+}

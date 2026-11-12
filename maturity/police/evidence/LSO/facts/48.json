@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-21-lso-lehokela-application-advancing-community-driven-crime-prevention-and-p",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lehokela App",
+   "country_label": "Lesotho",
+   "class": "public",
+   "platform": "mobile app",
+   "owner": "Lesotho Mounted Police Service (developed by UNDP Accelerator Lab, NUL, Econet)",
+   "tiers": ""
+  }
+ ],
+ "note": "Lehokela is a community and public reporting app; the document does not say stations make their records in it."
+}

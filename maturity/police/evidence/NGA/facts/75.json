@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-11-nga-gombe-gets-nigeria-s-first-digital-police-station",
+ "facts": [
+  {
+   "sub_indicator": "record",
+   "aspect": "records",
+   "value": "C",
+   "fact": "Daily Trust reports Gombe State has become the first beneficiary of a digital police station project, with Galaxy Backbone saying case files can now be managed digitally on a cloud-based system.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Digital police station project",
+   "class": "record"
+  },
+  {
+   "sub_indicator": "record",
+   "aspect": "stations",
+   "value": "pilot",
+   "fact": "Daily Trust reports Gombe is the first state to receive the Galaxy Backbone and Nigeria Police Trust Fund digital police station, with no other station named.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Digital police station project",
+   "class": "record"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital police station project",
+   "country_label": "Nigeria",
+   "class": "record",
+   "platform": "cloud",
+   "owner": "Nigeria Police Trust Fund with Galaxy Backbone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

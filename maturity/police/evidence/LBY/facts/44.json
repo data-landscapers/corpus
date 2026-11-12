@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-05-lby-tripoli-security-directorate-digital-police-report-system-review",
+ "facts": [
+  {
+   "sub_indicator": "record",
+   "aspect": "records",
+   "value": "O",
+   "fact": "Febrayer newspaper reports that on 5 October 2025 the Tripoli Security Directorate's committee overseeing the digital system for evidence-gathering reports at police centres held a technical meeting on data-entry difficulties faced by the staff entering reports through the system.",
+   "as_of": "2025-10-05",
+   "date_precision": "day",
+   "system": "Digital system for evidence-gathering reports (Tripoli Security Directorate)",
+   "class": "record"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital system for evidence-gathering reports",
+   "country_label": "Libya",
+   "class": "record",
+   "platform": "",
+   "owner": "Tripoli Security Directorate",
+   "tiers": ""
+  }
+ ],
+ "note": "The source gives no station count and does not say how the entered reports are held."
+}

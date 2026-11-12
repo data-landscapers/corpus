@@ -3,4 +3,4 @@ MRT,record,governance,qualifier,owner:ministry,2025-06-19,MRT-006,,"not stated: 
 MRT,record,records,coverage,O,2025-06-19,MRT-003,,
 MRT,record,made,coverage,connected,2025-06-19,MRT-004,,
 MRT,record,last12,qualifier,advancing,2025-06-19,MRT-007,,nothing dated since 2025-11-12
-MRT,record,stations,coverage,count:34,2025-06-19,MRT-005,,
+MRT,record,stations,coverage,count:34,2025-06-19,MRT-005,MRT-008=count:10,

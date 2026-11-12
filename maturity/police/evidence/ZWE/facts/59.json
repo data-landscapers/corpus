@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-14-zwe-brick-by-brick-strategy-will-benefit-the-police-minister-kazembe",
+ "facts": [
+  {
+   "sub_indicator": "record",
+   "aspect": "stations",
+   "value": "pilot",
+   "fact": "Newsreel Zimbabwe reports that Minister Kazembe said an Electronic Crime Management System developed by Array Institute of Technology with the ZRP IC team has a prototype being tested at Warren Park Police Station.",
+   "as_of": "2025-06-14",
+   "date_precision": "day",
+   "system": "Electronic Crime Management System",
+   "class": "record"
+  },
+  {
+   "sub_indicator": "record",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "Newsreel Zimbabwe reports that Minister Kazembe said a Zimbabwe Republic Police Integrated Information Management System Strategy has been developed, comprising the Crime Management System, Forensic Laboratory Management System and Electronic Traffic Management System.",
+   "as_of": "2025-06-14",
+   "date_precision": "day",
+   "system": "ZRP Integrated Information Management System Strategy",
+   "class": "record"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Crime Management System",
+   "country_label": "Zimbabwe",
+   "class": "record",
+   "platform": "",
+   "owner": "Zimbabwe Republic Police",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

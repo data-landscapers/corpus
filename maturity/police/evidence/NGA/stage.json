@@ -1,9 +1,20 @@
 {
   "iso3": "NGA",
   "cells": [
-    {"sub_indicator": "record", "stage": "1", "governance": "", "records": "none", "made": "paper",
-     "last12": "", "stations": "", "cap": "", "flags": "", "stage_sources": "NGA-006;NGA-007;NGA-008;NGA-009",
-     "gaps": "The newest statements that stations record on paper are from 2021 and 2022, older than three years at the as-at; nothing dated since says whether that still holds. systems.csv lists a Smart Police Station in Gombe State (one station, 'digital reporting mechanisms', source of June 2026) with no evidence row, so no dated act on a station record system has been found; governance, the last twelve months and a station count are not held.",
-     "note": "The Ministry of Police Affairs (2021) and an onsite observation published in 2022 both say stations make statements, reports and the crime diary by hand. Rung 2 needs an evidence row dating an act on a named station system inside 36 months, and none is held."}
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "",
+      "records": "C",
+      "made": "",
+      "last12": "advancing",
+      "stations": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "NGA-012;NGA-013;NGA-015",
+      "gaps": "No station outside Gombe is shown recording cases digitally, and no count of stations using the Criminal Database Systems is given. How the record is made is not stated inside three years: the paper statements of 2021 and 2022 are older. Governance and a station total have not been found.",
+      "note": "Gombe State received the first digital police station in June 2026, with case files managed digitally, and the Inspector-General opened nationwide training on the new Criminal Database Systems in September 2025. Both are preparation or pilot; rung 3 needs a system live in stations beyond its pilot.",
+      "as_at": "2026-11-12"
+    }
   ]
 }

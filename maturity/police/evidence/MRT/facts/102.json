@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-04-mrt-rosso-wapis-awareness-days-50-station-expansion",
+ "facts": [
+  {
+   "sub_indicator": "record",
+   "aspect": "stations",
+   "value": "count:10",
+   "fact": "AMI reports that the national police data centre said on 4 March 2024 that 10 stations were already linked to the West African Police Information System and giving tangible results, with 50 more planned including all Nouakchott police stations and gendarmerie brigades in Nouadhibou and Rosso.",
+   "as_of": "2024-03-04",
+   "date_precision": "day",
+   "system": "WAPIS",
+   "class": "record"
+  }
+ ],
+ "systems": [
+  {
+   "system": "West African Police Information System (WAPIS)",
+   "country_label": "Mauritania",
+   "class": "record",
+   "platform": "",
+   "owner": "Direction generale de la Surete nationale data centre",
+   "tiers": ""
+  }
+ ],
+ "note": "The 50-station expansion is a plan; the source does not say stations enter their cases in the system."
+}
