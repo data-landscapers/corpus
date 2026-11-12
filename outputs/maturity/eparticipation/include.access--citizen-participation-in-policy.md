@@ -25,8 +25,8 @@ The African Charter on Democracy, Elections and Governance asks for citizen part
 | 3 Established | 9 |
 | 2 Nascent | 21 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
-| No evidence | 16 |
+| Unplaced | 8 |
+| No evidence | 15 |
 
 ## Countries
 
@@ -264,6 +264,12 @@ The standards bureau posted draft standards for comment in 2026; no draft law or
 
 Not established: No source found names a draft law, policy or regulation put online for comment; the standards bureau's drafts are technical standards, answered on a downloadable form.
 
+### Zimbabwe: Unplaced
+
+One city council took budget views online in 2026; nothing found shows a national consultation online, so no stage is set.
+
+Not established: Mutare City Council took budget views online in 2026, but one city does not carry the country; nothing found says a ministry, parliament or regulator has asked the public for views online.
+
 ### Burkina Faso: No evidence
 
 Nothing found names online participation in making policy or says there is none, so no stage is set.
@@ -349,12 +355,6 @@ Nothing found names online participation in making policy or says there is none,
 Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Uganda: No evidence
-
-Nothing found names online participation in making policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the public takes part in making policy online.
-
-### Zimbabwe: No evidence
 
 Nothing found names online participation in making policy or says there is none, so no stage is set.
 

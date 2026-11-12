@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eparticipation",
-      "stage": "no evidence",
+      "stage": "unplaced",
       "online": "",
       "published": "",
       "required": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found says whether the public takes part in making policy online.",
-      "note": "Reassessed 2026-11-03: no row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-03"
+      "gaps": "Mutare City Council took budget views online in 2026, but one city does not carry the country; nothing found says a ministry, parliament or regulator has asked the public for views online.",
+      "note": "Stage 4c 2026-11-12: ZWE-001 shows one city council consulting online on its budget (2026), which does not carry the country, so no rung is set.",
+      "as_at": "2026-11-12"
     }
   ]
 }
