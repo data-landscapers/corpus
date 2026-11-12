@@ -3,9 +3,9 @@ title: Nigeria — News, Oct – Nov 2026
 compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 place: NGA
-ledger_rows: 97
+ledger_rows: 98
 not_held: 9
-record: 4ba3e6816a03
+record: 0d548f4ca6d1
 ---
 
 # News, Oct – Nov 2026
@@ -1665,6 +1665,20 @@ Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcom
 </nav>
 
 ### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile internet disruption in Zamfara North</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Freedom on the Net 2026: Nigeria](https://freedomhouse.org/country/nigeria/freedom-net/2026)** — Freedom House, 1 October 2026
+
+Score 56/100, partly free; access score cut over Zamfara disruptions; DSS bid to take down critic's posts.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
