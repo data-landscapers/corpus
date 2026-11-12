@@ -1,2 +1,15 @@
-{"slug":"project bridge","facts":[],"systems":[{"system":"Project BRIDGE","country_label":"Project BRIDGE","class":"other","platform":"","owner":"Government of Nigeria","tiers":""}],
-"note":"Only a proposed assessment of Nigeria-Niger-Burkina Faso routes; no Niger national backbone statement."}
+{
+ "slug": "2026-08-13-nigeria-and-burkina-faso-explore-project-bridge-to-cut-internet-costs-by-50",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Project BRIDGE",
+   "country_label": "Project BRIDGE",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a proposed assessment of Nigeria-Niger-Burkina Faso routes; no Niger national backbone statement."
+}
