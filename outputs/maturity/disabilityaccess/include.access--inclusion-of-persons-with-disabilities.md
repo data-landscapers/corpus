@@ -287,9 +287,9 @@ Not established: No source found says whether public information or digital serv
 
 ### Ethiopia: Unplaced
 
-Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
+Early warnings reached persons with disabilities in accessible formats in 2025; no accessibility law or policy since 2023 is known, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
+Not established: No source found since October 2023 says a government body drafted or adopted a law, policy or programme on accessible information or digital services.
 
 ### Sudan: Unplaced
 
