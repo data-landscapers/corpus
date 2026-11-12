@@ -1,12 +1,12 @@
 ---
 title: Lesotho: status report
-compiled: 2026-11-10
+compiled: 2026-11-12
 place: LSO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 234
+sources_cited: 236
 sections_written: 39
 not_established: 0
 acquire_lines: 31
@@ -137,7 +137,7 @@ Lesotho had [no operating AI data centre in June 2026](https://www.connectingafr
 
 Vodacom Lesotho's service page [names two data centres of its own, at Maseru West and Lekokoaneng](https://www.vodacom.co.ls/business/fixed-solutions/), which host its business services (August 2026). [Commercial hosting runs to small-scale facilities in Maseru](https://baxtel.com/data-centers/vodacom-business) (2026). The nearest hyperscale cloud region is in South Africa, where [Google sited its first African region in 2022](https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/). A national government data centre is [a commitment in the National Digital Transformation Strategy 2024–2030](https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/), not a facility in service.
 
-The government [had three data centres of its own by October 2021, when a contract was awarded to assess them for interoperability and bring the Mohale's Hoek facility into operation](https://www.afdb.org/en/documents/contract-awards-lesotho-operationalisation-mohales-hoek-data-centre-and-integration-three-government-data-centres). An [African Development Bank supervision mission found the Mohale's Hoek facility still unused in September 2024, and at risk of becoming obsolete](https://www.afdb.org/sites/default/files/documents/projects-and-operations/lesotho_-_e-government_infrastructure_phase_ii_-_p-ls-gb0-003_-_ipr_september_2024.pdf). In September 2025 the finance ministry [awarded a three-year LSL 35.6m contract to replace end-of-life government data-hosting equipment and build a business-continuity framework](https://www.lesothotenders.com/blogs/mapota-technologies-wins-lsl-356-million-contract-to-modernize-lesothos-government-data-132/).
+The government [had three data centres of its own by October 2021, when a contract was awarded to assess them for interoperability and bring the Mohale's Hoek facility into operation](https://www.afdb.org/en/documents/contract-awards-lesotho-operationalisation-mohales-hoek-data-centre-and-integration-three-government-data-centres). An [African Development Bank supervision mission found the Mohale's Hoek facility still unused in September 2024, and at risk of becoming obsolete](https://www.afdb.org/sites/default/files/documents/projects-and-operations/lesotho_-_e-government_infrastructure_phase_ii_-_p-ls-gb0-003_-_ipr_september_2024.pdf). In September 2025 the finance ministry [awarded a three-year LSL 35.6m contract to replace end-of-life government data-hosting equipment and build a business-continuity framework](https://www.lesothotenders.com/blogs/mapota-technologies-wins-lsl-356-million-contract-to-modernize-lesothos-government-data-132/). [In August 2026 a World Bank-financed request for bids sought IT equipment for a recovery site for the identity systems](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452505).
 
 The internet exchange has [hosted two content delivery networks](https://www.thereporter.co.ls/2026/02/02/lesotho-revamps-internet-exchange-infrastructure/) since its February 2026 relaunch. The ICT ministry and the United Nations in Lesotho [began drafting a National AI Strategy and a Data Centre Blueprint together at a five-day workshop in Maseru in August 2026](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/).
 
@@ -374,7 +374,7 @@ In the 2025/26 season a [satellite weather-index insurance pilot covered more th
 
 In June 2026 FEWS NET's [food security outlook for Lesotho drew on satellite rainfall and other remote-sensing indicators](https://fews.net/southern-africa/lesotho/food-security-outlook/june-2026) to assess crop conditions and drought. A [public land cover dashboard built from satellite imagery since 2017](https://renoka.org/resource/what-is-the-land-cover-dashboard/) serves the ReNOKA catchment programme at national, district and community council level (March 2026). It rests on an FAO [land cover monitoring system that produced five standardised annual maps for 2017–2021](https://www.mdpi.com/2072-4292/14/14/3294) (2022).
 
-In May 2023 the government [launched a GIS platform in the prime minister's office with the World Food Programme](https://www.wfp.org/stories/lesotho-keep-one-step-ahead-climate-shocks-and-hunger-wfp-powered-gis), layering climate, soil, poverty and other data for planning. A consultancy's project page describes a [nowcasting system for the weather service that integrates satellite data with observations and model output](https://wisconsultancy.com/projects/) (2026). In September 2025 the [meteorological observing network was described as fragmented across more than ninety stations](https://www.ctc-n.org/technical-assistance/projects/accessing-ews4all-lesotho), with modernisation help under way for multi-hazard early warning.
+In May 2023 the government [launched a GIS platform in the prime minister's office with the World Food Programme](https://www.wfp.org/stories/lesotho-keep-one-step-ahead-climate-shocks-and-hunger-wfp-powered-gis), layering climate, soil, poverty and other data for planning. A consultancy's project page describes a [nowcasting system for the weather service that integrates satellite data with observations and model output](https://wisconsultancy.com/projects/) (2026). In September 2025 the [meteorological observing network was described as fragmented across more than ninety stations](https://www.ctc-n.org/technical-assistance/projects/accessing-ews4all-lesotho), with modernisation help under way for multi-hazard early warning. [In September 2026 the meteorological service adopted MetApp, built by the National University of Lesotho, giving hourly readings from more than 50 automated weather stations](https://lestimes.com/?p=91477).
 
 Officials told a national planning meeting in May 2026 that [the country has no policy guiding spatial data](https://www.lena.gov.ls/mountain-areas-are-project-based-areas-mahooana/). They proposed a National Spatial Development Infrastructure Policy to fill the gap.
 
