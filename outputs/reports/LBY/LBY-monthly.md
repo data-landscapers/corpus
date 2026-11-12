@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: LBY
-ledger_rows: 21
+ledger_rows: 24
 not_held: 3
-record: 0ca7d1692cbc
+record: df4c129ed4e7
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: 0ca7d1692cbc
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
@@ -286,6 +288,20 @@ Libya's Health Minister chaired a consultative meeting on a 2026-2030 plan for d
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Judicial and prosecution case records</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[المحامي العام ورئيس مكتب التفتيش القضائي بمكتب النائب العام الليبي لـ "فيتو": الاشتباه في تزوير 34 ألف قيد بالأحوال المدنية في ليبيا.. وإدراج 1.2 مليون قضية بمنظومة التحول الرقمي](https://www.vetogate.com/5764136)** — فيتو, 4 November 2026
+
+Attorney General's Office: 1.2m cases since 1994 in its digital system; 34,000 civil-registry records suspected forged.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -311,6 +327,20 @@ Libya's Audit Bureau presented its Athar platform for managing and following up 
 **[مصلحة الجوازات تتلقى 773 طلباً للحصول على التأشيرات الإلكترونية خلال أسبوع](https://lana.gov.ly/post.php?id=368841&lang=ar)** — Libyan News Agency (LANA), 29 October 2026
 
 Libya's Passports, Nationality and Foreigners Affairs Authority received 773 e-visa applications from 78 nationalities between 23 and 29 October 2026. It approved 610 and refused 65, and 98 were still pending.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National trade facilitation enquiry point (LTFU)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[إطلاق منصة إلكترونية جديدة لتسهيل التجارة الخارجية في ليبيا](https://alwasat.ly/news/484587)** — Alwasat (Bawabat Al-Wasat), 10 November 2026
+
+Single LTFU access point after pilot; 53 procedures, 140 laws, 1,030 standards, 10 customs ports; online complaints.
 
 </div>
 
@@ -373,6 +403,28 @@ Libya's Ministry of Social Affairs and the Minister of State for Digital Economy
 **[#اتفاقية_وتعاون](https://www.aonsrt.ly/2026/10/21/%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9_%d9%88%d8%aa%d8%b9%d8%a7%d9%88%d9%86/)** — Libyan Authority for Scientific Research and Technology, 21 October 2026
 
 Libya's Authority for Scientific Research signed a memorandum with the office of the Minister of State for Digital Economy and AI, launching a national programme of Libyan experts and researchers in the digital economy and AI. It also covers a national database of experts, links with the diaspora, an annual forum to review digital transformation plans and a joint implementation team; the signing date is not stated.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#open-data">Open data</a>
+</nav>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GIA Open Data Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الشروط والأحكام | منصة البيانات المفتوحة](https://opendata.gia.gov.ly/terms.html)** — General Information Authority (Libya), 11 November 2026
+
+The terms of Libya's open data platform, run by the General Information Authority, allow reuse of its data for lawful purposes with attribution to the platform and dataset. They bar re-identification of individuals, provide the data without warranty, and allow datasets to be changed or withdrawn without notice. The page names no standard licence (checked 11 November 2026).
 
 </div>
 
