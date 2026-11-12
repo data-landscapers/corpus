@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: GNB
-ledger_rows: 5
+ledger_rows: 6
 not_held: 2
-record: 04056d107a7b
+record: 935c7617b63e
 ---
 
 # News, Oct – Nov 2026
@@ -123,6 +123,20 @@ Guinea-Bissau scored 0.53 out of 4 on the Africa AI Governance Index 2026, in th
 **[26 técnicos capacitados para reforçar o acompanhamento dos projetos de desenvolvimento na Guiné-Bissau](https://www.imvf.org/2026/10/20/26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolvimento-na-guine-bissau/)** — Instituto Marquês de Valle Flôr (IMVF), 20 October 2026
 
 The Boa Governação project trained 26 regional planning delegates, regional secretaries and civil-society staff in Bissau on 1-3 September 2026 to enter and update data in Guinea-Bissau's Plans and Projects Information System (SIPP). Anyone can consult the system's public side to see regional development plans, ongoing projects and who runs them.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Guinea-Bissau Data Portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinea-Bissau Data Portal - Terms of use](https://guinebissau.opendataforafrica.org/legal/TermsOfUse)** — African Development Bank — Guinea-Bissau Data Portal, 11 November 2026
+
+The terms of use for Guinea-Bissau's data on the African Development Bank's High Fives application allow free copying and reuse, commercial or not, with attribution in the metadata. The Bank gives no warranty and may withdraw access at any time. No standard licence is named (checked 11 November 2026).
 
 </div>
 

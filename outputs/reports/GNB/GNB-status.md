@@ -1,12 +1,12 @@
 ---
 title: Guinea-Bissau: status report
-compiled: 2026-11-06
+compiled: 2026-11-12
 place: GNB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-27
 intersections_read: 22
-sources_cited: 176
+sources_cited: 177
 sections_written: 39
 not_established: 2
 acquire_lines: 31
@@ -373,7 +373,7 @@ In 2018 the strategy described sectoral statistical production outside education
 
 [Disclosure of public records rose 12.5 points over 2014–2023 to 25.0 of 100, 38th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gw.pdf). [Accessibility of public records, whether citizens can obtain government records and data, fell 6.0 points to 6.7 of 100 in 2023, 50th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gw.pdf). [It is among the country’s ten worst and ten most deteriorated indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gw.pdf). In October 2024 Guinea-Bissau had [no access-to-information law in force](https://www.unesco.org/fr/articles/guinee-bissau-validation-du-projet-de-loi-sur-lacces-linformation).
 
-[On 8 July 2024 Guinea-Bissau launched its National Summary Data Page under the IMF’s enhanced General Data Dissemination System](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system). [At launch it published national accounts and prices, government operations and debt, the monetary and financial sector and the external sector](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system). [It publishes in human-readable and machine-readable form, with data from INE, the Ministry of Finance and the regional central bank BCEAO](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system). [The page is hosted on a national Open Data Platform provided by the African Development Bank](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system), and [participation in the standard is voluntary](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system).
+[On 8 July 2024 Guinea-Bissau launched its National Summary Data Page under the IMF’s enhanced General Data Dissemination System](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system). [At launch it published national accounts and prices, government operations and debt, the monetary and financial sector and the external sector](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system). [It publishes in human-readable and machine-readable form, with data from INE, the Ministry of Finance and the regional central bank BCEAO](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system). [The page is hosted on a national Open Data Platform provided by the African Development Bank](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system), and [participation in the standard is voluntary](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system). [The platform's terms allow free commercial and non-commercial reuse of its data with attribution, without naming a licence](https://guinebissau.opendataforafrica.org/legal/TermsOfUse) (as at November 2026).
 
 [In September 2026, 26 regional planners and civil-society staff were trained on the Plans and Projects Information System](https://www.imvf.org/2026/10/20/26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolvimento-na-guine-bissau/). [It lets citizens consult regional development plans, ongoing projects, the bodies responsible and the sums involved](https://www.imvf.org/2026/10/20/26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolvimento-na-guine-bissau/). [Entry is reserved to regional planners and authorised civil-society staff](https://www.imvf.org/2026/10/20/26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolvimento-na-guine-bissau/).
 
