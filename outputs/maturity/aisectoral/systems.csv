@@ -36,6 +36,7 @@ COD,Voyage Santé,Democratic Republic of the Congo,other,digital points-of-entry
 COD,SnapiForm,DRC,sectorai,DHIS2,SnapiForm with PATH,,2026-01-02-cod-use-case-snapiform
 COD,Etoile Bleue,DR Congo,sectorai,"digital platform with geolocation and AI-assisted alert handling, 199 line, mobile app",Ministry of Health,,2026-11-09-rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medical
 COD,"AI radiology equipment, PNLT",PNLT AI radiology,sectorai,,Programme national de lutte contre la tuberculose,,2025-03-25-cod-acp-pnlt-tuberculose-radiologie-ia
+COD,IRMS-DGRK,DRC (Kinshasa),sectorai,,Direction générale des recettes de Kinshasa,city,2026-08-12-cod-dgrk-apres-la-vignette-kinshasa-veut-digitaliser-les-impots-et-taxes
 COM,DHIS2 (malaria case data),Comoros,other,DHIS2,,,2026-05-11-dhis2-community-ai-predictive-epidemiology-malaria-comoros
 COM,EIOS,Comoros,sectorai,Epidemic Intelligence from Open Sources,WHO with Ministry of Health,,2025-04-24-com-comores-l-oms-forme-sur-l-initiative-d-intelligence-epidemique-a-parti
 CPV,Monitoring Tools and Artificial Intelligence for Smart Agriculture,Cabo Verde,other,"sensors, drones and AI models","University of Cape Verde with UNDP Accelerator Lab, Primebotics and a producers' association",,2024-03-15-cpv-agricultural-transition-using-the-internet-of-things-and-artificial-in
@@ -87,6 +88,7 @@ GIN,Plateforme numerique de suivi des alertes du COU-SP,Guinee,other,,ANSS / Min
 GMB,National Misinformation and Disinformation Response Centre (NMDRC),The Gambia,other,AI-powered platform built by Dundal Systems,Ministry of Information,,2026-04-27-grts-gambia-national-misinformation-disinformation-response-centre
 GMB,Rental Tax Compliance System (rTCS),Rental Tax Compliance System,sectorai,RippleNami ML model,Ministry of Finance and Economic Affairs / Gambia Revenue Authority,,2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study
 GMB,TITA App,The Gambia,sectorai,mobile app with admin panel,MoHERST; developed by TITA Universal Services Ltd.,"students, lecturers (Lecti), management (TITA Admin Panel)",2025-04-25-gmb-kerrfatou-moherst-tita-ai-app
+GMB,CUBE AI Tutor,The Gambia,other,,,pilot at three secondary schools,2026-11-10-gmb-gambia-to-gain-38m-gdp-boost-if-it-capitalises-on-ai-revolution
 GNQ,AI-integrated meteorological station,Equatorial Guinea,sectorai,,"Ministry of Transport, Telecommunications and AI Systems",,2025-07-24-gnq-equatorial-guinea-launches-climate-innovation-project-students-to-buil
 KEN,Smart Delinquency Predictor,Kenya,other,IronOne Technologies LLC,"IronOne Technologies (vendor), offered to commercial banks",,2026-08-09-predicting-loan-default-ai-aims-to-save-kenyan-banks-debt-crisis
 KEN,Taifa Care,Kenya,sectorai,Taifa Care,Digital Health Agency,,2026-08-25-ken-kenyans-taifa-care-ai-rmncah-system
@@ -172,6 +174,7 @@ SEN,kSanté,Senegal,sectorai,offline phone app with AI assistant,Kajou (social e
 SEN,WhatsApp teacher support assistant (MOHEBS),Senegal,sectorai,WhatsApp,Ministry of Education with IDinsight,,2026-07-09-sen-ai-driven-support-for-bilingual-education-in-senegal
 SEN,national DHIS2 platform,Senegal,sectorai,DHIS2,Ministry of Health and Public Hygiene,,2026-05-01-sen-projet-de-declaration-dsiss-ams79-point-12-10
 SEN,Plateforme 3S One Health,Senegal,sectorai,AI-based surveillance platform,AI4PEP Senegal,,2025-02-25-sen-ai4pep-senegal-launches-plateforme-3s-one-health
+SEN,Kera Health platform,Senegal,other,AI health data platform,Kera Health (private),,2025-06-18-sen-senegal-la-startup-e-sante-kera-health-leve-10-millions-de-dollars-aup
 SLE,Medicine allocation decision-support system,Sierra Leone medicine allocation tool,sectorai,,Government of Sierra Leone,,2026-06-22-sle-penn-today-healthcare-logistics-ai
 SLE,BabyChecker,Sierra Leone,sectorai,smartphone AI ultrasound,Delft Imaging,,2026-02-16-sle-how-ai-ultrasound-babychecker-is-strengthening-pregnancy-monitoring-in
 SOM,SAADAAL,Somalia,sectorai,AI-powered early warning system,"Shaqodoon Organization, deployed with the Ministry of Humanitarian Affairs and Disaster Management of Southwest State",sub-national,2026-04-29-somalia-shaqodoon-saadaal-ai-early-warning
@@ -206,12 +209,14 @@ TZA,IDRAS,Tanzania,sectorai,,Tanzania Revenue Authority,,2026-01-27-tza-mfumo-wa
 TZA,Electronic Tax Stamps AI,Tanzania,sectorai,SICPA digital platform,Tanzania Revenue Authority,,2025-05-30-tza-ai-transforms-tra-s-measures-to-curb-falsified-electronic-stamps
 TZA,AI TB chest X-ray screening,Tanzania,sectorai,,Ministry of Health,,2026-08-31-tza-watafiti-waja-na-ai-kubaini-tb-kwa-wenye-vvu
 TZA,AI diabetic retinopathy screening trial,Tanzania,sectorai,,,,2026-11-06-why-africa-should-build-trust-in-ai-differently-newsroom
+TZA,NeST,Tanzania,sectorai,,PPRA,,2026-05-11-tza-from-bureaucracy-to-bytes-digitalization-reshaping-tanzania-s-procurem
 UGA,GAINAfrica crop-disease app,Uganda,sectorai,,GAINAfrica project,,2026-08-25-aimnews-gainafrica-generative-ai-pilot
 UGA,CAD4TB,Uganda,sectorai,"AI-assisted digital chest X-ray, computer-aided diagnosis",TB screening programme,,2025-11-24-uga-cad4tb-s-precision-play-threshold-45-optimizes-tb-screening-in-westnil
 UGA,VectorCam,Uganda,sectorai,smartphone app; posts data to DHIS2,"Makerere University, Johns Hopkins University, Ministry of Health",,2025-09-09-uga-vectorcam-project-makerere-johns-hopkins-and-moh-to-scale-up-ai-powere
 UGA,URA AI revenue-leakage analysis,Uganda,sectorai,,Uganda Revenue Authority,,2025-04-08-uga-ura-cg-launches-university-ai-and-robotics-laboratory
 UGA,ISBAT University AI and Robotics Laboratory,Uganda,other,,ISBAT University,,2025-04-08-uga-ura-cg-launches-university-ai-and-robotics-laboratory
 UGA,tool for predicting miscarriages among women in Uganda,Uganda,other,,"Hub for Artificial Intelligence in Maternal, Sexual and Reproductive Health",,2024-12-31-iati-xm-dac-301-2-110552-001-ai4d-fcdo-innovation-scaling-and-sustaining-ai-solutions-to
+UGA,ULII AI feature,Uganda Legal Information Institute,sectorai,,,,2026-03-26-uga-judiciary-goes-paperless-rolls-out-ai-systems
 ZAF,AI fraud-risk detection and verification,South Africa,sectorai,,South African Revenue Service,,2025-09-29-zaf-sars-strategic-plan-end-term-report-2020-2025
 ZAF,Lwazi AI Assistant,South Africa,other,SARS website and SARS MobiApp,South African Revenue Service,,2025-10-07-zaf-ask-lwazi-sars-ai-assistant-our-upgraded-artificial-intelligence-assis
 ZAF,MomConnect,South Africa,sectorai,SMS and WhatsApp,,,2025-09-03-zaf-update-to-our-catalogue-of-ai-public-sector-use-cases

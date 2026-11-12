@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-26-uga-judiciary-goes-paperless-rolls-out-ai-systems",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Observer reports that Ugandan judicial officers now use AI-enabled platforms for legal research and case analysis, including a ULII feature that summarises judgments.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "ULII AI summarisation feature",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ULII AI feature",
+   "country_label": "Uganda Legal Information Institute",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-11-tza-from-bureaucracy-to-bytes-digitalization-reshaping-tanzania-s-procurem",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The World Bank says NeST, Tanzania's public procurement system run by PPRA since July 2023, uses AI-driven red flags and real-time KPI reporting across the procurement cycle.",
+   "as_of": "2026-05-11",
+   "date_precision": "day",
+   "system": "NeST",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NeST",
+   "country_label": "Tanzania",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "PPRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

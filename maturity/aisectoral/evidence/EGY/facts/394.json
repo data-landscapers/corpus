@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-egy-remote-power-of-attorney-face-biometric-and-remote-e-signature",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Youm7 reports that the Ministry of Justice and MCIT remote power-of-attorney service verifies applicants' identity with AI techniques, matching a face scan against state biometric records.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Remote general power-of-attorney service (Digital Egypt platform)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
