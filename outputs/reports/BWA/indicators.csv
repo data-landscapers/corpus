@@ -271,7 +271,9 @@ No capacity figure, utilisation figure or government backup policy is held.
 
 2026-03-17 - the communications minister said that [once migration to the Digital Delta facility is complete, government intends a second accredited data centre outside Gaborone for redundancy](2026-03-17-bwa-mci-committee-of-supply-speech); no site, cost or date is given.
 
-Agencies already buy recovery hosting from the state operator: [the skills council extended its BoFiNet disaster-recovery hosting contract in July 2025](2025-07-08-bwa-hrdc-disaster-recovery-hosting-bofinet).",BWA-infra.store-bocra-bc-dr-guidelines|BWA-infra.store-digital-delta-data-centre|BWA-infra.store-mascom-innovation-centre|BWA-infra.store-second-government-data-centre|BWA-infra.store-hrdc-disaster-recovery-hosting,,,,,,,,,2026-08-31,0,BC/DR guidelines and commercial DR offers; no government backup site or contract on record
+Agencies already buy recovery hosting from the state operator: [the skills council extended its BoFiNet disaster-recovery hosting contract in July 2025](2025-07-08-bwa-hrdc-disaster-recovery-hosting-bofinet).
+
+2020-03-16 - the statistics office's ICT strategy [recorded no disaster recovery plan or site and provided P4.5 million for one](2020-03-16-bwa-statistics-botswana-ict-strategy); no later account of the site has been found.",BWA-infra.store-bocra-bc-dr-guidelines|BWA-infra.store-digital-delta-data-centre|BWA-infra.store-mascom-innovation-centre|BWA-infra.store-second-government-data-centre|BWA-infra.store-hrdc-disaster-recovery-hosting|BWA-infra.store-statistics-botswana-dr-site,,,,,,,,,2026-08-31,0,BC/DR guidelines and commercial DR offers; no government backup site or contract on record
 infra.energy--sufficient-energy-and-water-for-data-centres,Movement,"The operating data centre [runs on on-site gas supplemented by solar](2026-08-03-itweb-tlou-energy-kala-data-centre-botswana), and its expansion is gated on [a gas gathering extension subject to funding](2026-08-03-itweb-tlou-energy-kala-data-centre-botswana).","2026-08-03 — [on-site gas-fired generation is now supplemented by solar, with battery and compressed-gas storage under review](2026-08-03-itweb-tlou-energy-kala-data-centre-botswana), where renewables had been named for future phases only. Solar is specified as firming for gas, which is the reverse of the usual diesel-backup pattern.
 
 The constraint on growth is upstream. [An extension of the gas gathering network to connect a further production well is stated as subject to funding, and it gates the data centre's capacity expansion](2026-08-03-itweb-tlou-energy-kala-data-centre-botswana), while [an initial 5MW solar development has been assessed with no capital cost, approval or date](2026-08-03-itweb-tlou-energy-kala-data-centre-botswana). The company states these are work-programme items rather than guidance.
@@ -308,7 +310,9 @@ infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems
 
 2026-02-10 — [52 public services are fully available online with a further 179 in integration testing](2026-02-10-botswana-doubles-down-on-digital-transformation-2026-budget).
 
-No establishment figure, vacancy rate or skills audit for government ICT staff is held.",BWA-dpi.govtech-1gov-1citizen-platform|BWA-infra.store-government-migration-digital-delta,,,,,,,,,2026-08-31,0,rows show e-services and migration but not who builds or maintains them
+No establishment figure, vacancy rate or skills audit for government ICT staff is held.
+
+2023-10 - the developer of the livestock traceability system [sued the government for P100 million, saying it never ceded rights to the system](2023-10-06-bwa-p100m-baits-intellectual-property-infringement-lawsuit-hits-govt).",BWA-dpi.govtech-1gov-1citizen-platform|BWA-infra.store-government-migration-digital-delta|BWA-dpi.mis-baits-livestock-traceability,,,,,,,,,2026-08-31,0,rows show e-services and migration but not who builds or maintains them
 infra.cybersec--national-cybersecurity-readiness,Regressed,"A four-day national cyber drill [was held](2026-03-09-cyber-drill-sounds-alarm-ai-iot-quantum-threats) and police [recorded 399 cyber threat cases in 2025, up 25%](2026-06-08-bwa-cybercrime-cases-on-the-rise); the cybersecurity authority is not yet established.","An international police assessment flagged cyber threats against both institutions and individuals in Botswana ([assessment](2026-08-28-bwa-mmegi-interpol-cyber-threats)).
 
 2026-03 — [a four-day national cyber drill was held](2026-03-09-cyber-drill-sounds-alarm-ai-iot-quantum-threats).
@@ -503,7 +507,9 @@ dpi.registry--land-register,No change,"The deeds registry [remains substantially
 
 [About 70% of the country's land is tribal land, brought into registration by the 2018 Tribal Land Act](2025-10-15-botswana-registry-faces-backlog), so the workload the manual registry carries is the product of a deliberate widening of what must be registered.
 
-It is the clearest untouched administrative system in this report: every other registry described here is either being built, tested or funded, and this one is not on anybody's list.",BWA-dpi.registry-deeds-registry-processing,,,,,,,,,2026-08-31,0,deeds registry backlog with no digitisation programme; no cadastre statement either way
+It is the clearest untouched administrative system in this report: every other registry described here is either being built, tested or funded, and this one is not on anybody's list.
+
+2026-08 - [4,668 of 24,506 customary land grants were awaiting secure title certificates, with deeds printed only in Gaborone](2026-08-19-bwa-over-4-000-await-secure-title-certificates).",BWA-dpi.registry-deeds-registry-processing|BWA-dpi.registry-customary-grants-awaiting-secure-title,,,,,,,,,2026-08-31,0,deeds registry backlog with no digitisation programme; no cadastre statement either way
 dpi.mis--health,"Movement, on several fronts at once","[DHIS2 is the selected aggregate-data platform](2026-05-27-who-botswana-biennial-report-2024-2025), with an [intelligence centre, a supplies system and an electronic record all in train](2026-03-05-ministry-of-health-committee-of-supply-speech).","2026-05-27 — [DHIS2 is named as the government’s selected aggregate-data platform, alongside VigiFlow, with persistent reporting-quality problems recorded](2026-05-27-who-botswana-biennial-report-2024-2025).
 
 2026-01-26 — [the health emergency project’s core digital component is a logistics management system to track medical supplies in real time from central warehouses to remote health posts](2026-01-26-world-bank-heprr-project-botswana).
@@ -531,7 +537,9 @@ dpi.mis--justice,"Regressed, with a replacement under way","The [court records s
 
 2026-03-16 — [the Industrial Court’s electronic case management system was developed, with a soft launch planned for the first quarter of 2026/27](2026-03-16-industrial-court-deploys-new-strategy-to-eradicate-case-backlog).
 
-No case-disposal or backlog figure is published.",BWA-dpi.mis-court-records-management-system|BWA-dpi.mis-industrial-court-case-management,3,BWA-dpi.mis-court-records-management-system,,,,,,,2026-08-31,0,court records system in service but malfunctioning per the Chief Justice
+No case-disposal or backlog figure is published.
+
+2026-03 - the justice ministry [told MPs the courts' case management system was not operational because of system errors](2026-05-13-bwa-paper-shortage-crisis-hits-courts).",BWA-dpi.mis-court-records-management-system|BWA-dpi.mis-industrial-court-case-management,3,BWA-dpi.mis-court-records-management-system,,,,,,,2026-08-31,0,court records system in service but malfunctioning per the Chief Justice
 dpi.mis--tax,Movement,"[Lekgetho Live is to bring real-time taxpayer accounts, automated risk scoring and third-party data integration](2026-02-26-ministry-of-finance-committee-of-supply-speech-2026) to the revenue service.","2026-02-26 — [the finance ministry described the modernisation programme as covering real-time taxpayer accounts, automated risk scoring and third-party data integration, alongside an electronic VAT invoicing solution](2026-02-26-ministry-of-finance-committee-of-supply-speech-2026).
 
 2026-06-29 — [the Tax Administration Act supplies the statutory framework the system administers](2026-06-29-tax-administration-act-2026).
@@ -752,7 +760,11 @@ data.geospatial--meteorological-use-of-satellite-data,"Movement, in research rat
 
 2026-03-25 — [a second study linked satellite-derived drought indices to crop-yield variability for agricultural monitoring](2026-03-25-crop-yield-drought-indices-agricultural-monitoring).
 
-Both studies recommend operational use; the repository holds no early-warning system that has adopted either.",BWA-data.geospatial-meteorological-ground-station|BWA-data.geospatial-agriwatch-dashboard,2,BWA-data.geospatial-meteorological-ground-station,,,,,,,2026-08-31,0,ground station operating at the met service; forecasting use not on record
+Both studies recommend operational use; the repository holds no early-warning system that has adopted either.
+
+2024 - the meteorological department [ran 28 automatic weather stations, 106 automatic rain gauges and about 500 manual rainfall stations](2024-07-01-bwa-weather-monitoring-key-in-policymaking).
+
+2025-12-10 - its [ISO 9001 certification for all meteorological and climate services runs to June 2028](2025-12-01-bwa-system-certification-register).",BWA-data.geospatial-meteorological-ground-station|BWA-data.geospatial-agriwatch-dashboard|BWA-data.geospatial-weather-observation-network|BWA-data.geospatial-met-services-iso-9001,2,BWA-data.geospatial-meteorological-ground-station,,,,,,,2026-08-31,0,ground station operating at the met service; forecasting use not on record
 geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,Movement,"Botswana [signed the Artemis Accords as the 68th signatory in June 2026](2026-06-30-botswana-signs-artemis-accords-techreviewafrica), about fifteen months after its satellite launch.","2026-06-25 — [the accords were signed at the American space agency's headquarters, making the country the 68th signatory](2026-06-30-botswana-signs-artemis-accords-techreviewafrica), about fifteen months after the national satellite launch. It is a wire account and the signed instrument is not held.
 
 It is the only United States engagement on this ledger and it concerns space rather than digital infrastructure. No American technology vendor, cloud provider or financing instrument appears in the record for the country at any date, which is unusual for a middle-income economy with a certified data centre and a listed incumbent operator.",BWA-geopol.usa-artemis-accords-accession,,,,,,,,,,,
