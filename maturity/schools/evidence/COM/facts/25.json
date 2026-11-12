@@ -1,0 +1,56 @@
+{
+ "slug": "2025-12-30-com-connaissez-vous-la-plateforme-e-msomo",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "e-Msomo was developed by the Ministry of National Education with ANADEN and UNICEF support, according to UNICEF Comores.",
+   "as_of": "2025-12-30",
+   "date_precision": "day",
+   "system": "e-Msomo",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "levels",
+   "value": "P;S",
+   "fact": "UNICEF Comores says e-Msomo covers all school levels, from pre-school to the final year.",
+   "as_of": "2025-12-30",
+   "date_precision": "day",
+   "system": "e-Msomo",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "kept",
+   "value": "routine",
+   "fact": "The post says e-Msomo lets the ministry follow pupil attendance and evaluations at any time, and parents follow their children in real time.",
+   "as_of": "2025-12-30",
+   "date_precision": "day",
+   "system": "e-Msomo",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "schools",
+   "value": "count:700",
+   "fact": "More than 700 schools are on e-Msomo as at the December 2025 post, with schools integrated progressively.",
+   "as_of": "2025-12-30",
+   "date_precision": "day",
+   "system": "e-Msomo",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Msomo",
+   "country_label": "e-Msomo 2025",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

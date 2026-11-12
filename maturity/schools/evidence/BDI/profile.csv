@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,emis,governance,qualifier,,,,,nothing held
-BDI,emis,levels,coverage,,,,,nothing held
-BDI,emis,kept,coverage,,,,,nothing held
-BDI,emis,last12,qualifier,,,,,nothing held
-BDI,emis,schools,coverage,,,,,nothing held
+BDI,emis,governance,qualifier,,,,,nothing found
+BDI,emis,levels,coverage,,,,,nothing found
+BDI,emis,kept,coverage,,,,,nothing found
+BDI,emis,last12,qualifier,,,,,nothing found
+BDI,emis,schools,coverage,,,,,nothing found

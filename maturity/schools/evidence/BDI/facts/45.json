@@ -1,0 +1,15 @@
+{
+ "slug": "2024-12-05-bdi-l-unesco-recherche-un-e-consultant-e-international-e-sige-burundi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGE Burundi (GRH MENRS module)",
+   "country_label": "SIGE Burundi",
+   "class": "single-function",
+   "platform": "Angular, Java 17, Spring Boot",
+   "owner": "MENRS",
+   "tiers": ""
+  }
+ ],
+ "note": "The module is teacher HR management, not learner records."
+}
