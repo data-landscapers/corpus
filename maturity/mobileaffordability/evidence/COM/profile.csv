@@ -1,2 +1,2 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COM,price,cost,coverage,share:7.36,2025,COM-004,COM-003=share:8.29;COM-002=share:8.61;COM-001=share:15.55,
+COM,price,cost,coverage,price:KMF:20000:40,2026-07,COM-006,COM-007=price:KMF:25000:50;COM-004=share:7.36;COM-005=share:7.36;COM-003=share:8.29;COM-002=share:8.61;COM-001=share:15.55,

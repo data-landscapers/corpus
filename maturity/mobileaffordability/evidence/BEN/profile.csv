@@ -1,2 +1,2 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,price,cost,coverage,share:6.89,2025,BEN-005,BEN-004=share:7.77;BEN-001=price:XOF:995:1;BEN-003=share:8.93;BEN-002=share:9.19,
+BEN,price,cost,coverage,price:XOF:5000:11,2026-08-06,BEN-006,BEN-005=share:6.89;BEN-007=price:XOF:5000:5;BEN-004=share:7.77;BEN-001=price:XOF:995:1;BEN-003=share:8.93;BEN-002=share:9.19,

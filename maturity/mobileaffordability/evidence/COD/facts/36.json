@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-cod-tarifs-des-services-internet-rdc",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:USD:10:10",
+   "fact": "ARPTC's 2026 tariff page lists 30-day mobile data bundles of USD 10 for 10 GB (Orange, Airtel) and for 13 GB (Vodacom) and 16 GB (Africell), the cheapest 30-day plans of 5 GB or more.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ARPTC mobile data tariffs",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

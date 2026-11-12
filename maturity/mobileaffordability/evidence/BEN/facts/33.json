@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-01-ben-observatoire-des-tarifs-de-l-internet-mobile-au-30-juin-2025",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:XOF:5000:5",
+   "fact": "ARCEP Benin's mobile internet tariff observatory lists a 30-day Moov bundle of 5,120 MB at 5,000 FCFA at 30 June 2025, from operator data.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Moov mobile data bundle",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

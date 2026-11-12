@@ -1,15 +1,16 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "price",
-   "stage": "2",
-   "cost": "share:8.68",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-004",
-   "gaps": "The newest figure, 8.68 per cent for 2025, is above 5 per cent.",
-   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "price",
+      "stage": "2",
+      "cost": "price:GMD:65:1",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-007",
+      "gaps": "The newest figure, 5.99 per cent for 2026, is above 5 per cent.",
+      "note": "Reassessed 2026-11-12, stays 2: three operators' D65 a gigabyte in January 2026 (GMB-007) comes to 5.99 per cent for 5 GB, the dearer of two figures that day, within 10 per cent and above 5.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

@@ -200,9 +200,9 @@ In 2025, 5 GB of mobile data for a month cost 3.18 per cent of average monthly i
 
 ### Benin: 2 Nascent
 
-In 2025, 5 GB of mobile data for a month cost 6.89 per cent of average monthly income, on international price figures.
+In 2026, 5 GB of mobile data for a month cost 6.29 per cent of average monthly income, on operators' monthly bundles.
 
-- The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Benin cost 6.89 per cent of average monthly income in 2025, on the International Telecommunication Union's price figures ([source, 2025](https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx)).
+- La Marina BJ reports the monthly 5,000 FCFA mobile data bundles of MTN, Moov Africa and Celtiis give over 11 GB, still in the catalogues per ARCEP after the unlimited versions were withdrawn on 4 August 2026 ([source, 2026-08-06](https://lamarina.bj/2026/08/06/hausse-des-tarifs-data-au-benin-la-reponse-de-larcep-qui-pose-encore-question/)).
 
 ### Burkina Faso: 2 Nascent
 
@@ -236,9 +236,9 @@ In 2025, 5 GB of mobile data for a month cost 5.74 per cent of average monthly i
 
 ### Gambia: 2 Nascent
 
-In 2025, 5 GB of mobile data for a month cost 8.68 per cent of average monthly income, on international price figures.
+In 2026, 5 GB of mobile data cost 5.99 per cent of average monthly income, at three operators' January price per gigabyte.
 
-- The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Gambia cost 8.68 per cent of average monthly income in 2025, on the International Telecommunication Union's price figures ([source, 2025](https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx)).
+- Askanwi reports Comium, Africell and QCell charged D65 for 1 GB of standard data in January 2026 ([source, 2026-01-08](https://www.askanwi.com/news/after-askanwi-spotlight-all-telecoms-fall-in-line-with-d75-data-cap)).
 
 ### Guinea: 2 Nascent
 
@@ -302,15 +302,15 @@ In 2025, 5 GB of mobile data for a month cost 53.7 per cent of average monthly i
 
 ### Chad: 1 Absent
 
-In 2025, 5 GB of mobile data for a month cost 11.81 per cent of average monthly income, on international price figures.
+In 2026, the government put 5 GB of mobile data for a month at 11.8 per cent of average monthly income.
 
-- The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Chad cost 11.81 per cent of average monthly income in 2025, on the International Telecommunication Union's price figures ([source, 2025](https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx)).
+- Russell Southwood reports that the Chad government said at a meeting in June 2026 that a 5 GB data package costs 11.8% of average monthly income ([source, 2026-06](https://russellsouthwood.substack.com/p/chad-living-in-a-landlocked-dangerous)).
 
 ### DR Congo: 1 Absent
 
-In 2025, 5 GB of mobile data for a month cost 18.75 per cent of average monthly income, on international price figures.
+In 2026, 5 GB of mobile data for a month cost 16.67 per cent of average monthly income, on the regulator's tariff list.
 
-- The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in DR Congo cost 18.75 per cent of average monthly income in 2025, on the International Telecommunication Union's price figures ([source, 2025](https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx)).
+- ARPTC's 2026 tariff page lists 30-day mobile data bundles of USD 10 for 10 GB (Orange, Airtel) and for 13 GB (Vodacom) and 16 GB (Africell), the cheapest 30-day plans of 5 GB or more ([source, 2026](https://www.arptc-solution.cd/license_list/tarifview/1)).
 
 ### Guinea-Bissau: 1 Absent
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-06-ben-hausse-des-tarifs-data-au-benin-la-reponse-de-l-arcep-qui-pose-encore",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:XOF:5000:11",
+   "fact": "La Marina BJ reports the monthly 5,000 FCFA mobile data bundles of MTN, Moov Africa and Celtiis give over 11 GB, still in the catalogues per ARCEP after the unlimited versions were withdrawn on 4 August 2026.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "monthly mobile data bundles",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

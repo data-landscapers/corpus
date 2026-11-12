@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-27-ner-le-niger-aborde-une-nouvelle-ere-de-connectivite-avec-la-dorsale-trans",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:8.5",
+   "fact": "Agence Ecofin, citing the ITU, says 2 GB of mobile broadband in Niger still costs about 8.5% of average monthly income per person (2 GB, not 5 GB; 2024 ITU basis stated for the African figures).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ITU price basket",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

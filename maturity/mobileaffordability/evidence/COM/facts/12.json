@@ -1,0 +1,37 @@
+{
+ "slug": "2026-07-03-com-comoros-consumers-launch-boycott-over-higher-mobile-data-prices",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:7.36",
+   "fact": "Ecofin Agency, citing the International Telecommunication Union, says a 5 GB mobile data package cost the equivalent of 7.36% of gross national income per capita in the Comoros in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ITU 5 GB mobile data price",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:KMF:20000:40",
+   "fact": "Ecofin Agency reports that state-owned Comores Telecom offers 40 GB for 20,000 Comorian francs.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Comores Telecom 40 GB package",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:KMF:25000:50",
+   "fact": "Ecofin Agency reports that Yas Telecom markets an unlimited plan including 50 GB for 25,000 Comorian francs, about USD 58.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Yas Telecom 50 GB plan",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": "Plan validity period is not stated; taken as monthly packages."
+}

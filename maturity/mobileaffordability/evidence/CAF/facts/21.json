@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-26-caf-orange-car-switches-on-4g-network-in-several-cities",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:XAF:11000:15",
+   "fact": "Telecompaper reports Orange Central African Republic's 4G data plans valid 30 days are priced from XAF 11,000 for 15 GB to XAF 22,000 for 33 GB.",
+   "as_of": "2025-05-26",
+   "date_precision": "day",
+   "system": "Orange CAR 4G data plans",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

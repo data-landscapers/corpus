@@ -1,15 +1,16 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "price",
-   "stage": "2",
-   "cost": "share:6.89",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-005",
-   "gaps": "The newest figure, 6.89 per cent for 2025, is above 5 per cent.",
-   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "price",
+      "stage": "2",
+      "cost": "price:XOF:5000:11",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-006",
+      "gaps": "The newest figure, 6.29 per cent for 2026, is above 5 per cent.",
+      "note": "Reassessed 2026-11-12, stays 2: the 5,000 CFA franc monthly bundles of over 11 GB in August 2026 (BEN-006) come to 6.29 per cent, the newest figure, within 10 per cent and above 5.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

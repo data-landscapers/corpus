@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-mar-digital-development-dashboard-morocco-infrastructure-access",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:1.0",
+   "fact": "The ITU Digital Development Dashboard gives Morocco's mobile broadband basket at 1.0% of GNI per capita in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ITU Digital Development Dashboard",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

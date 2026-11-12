@@ -1,2 +1,2 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GMB,price,cost,coverage,share:8.68,2025,GMB-004,GMB-003=share:10.26;GMB-002=share:21.02;GMB-001=share:22.02,
+GMB,price,cost,coverage,share:8.68,2026-11,GMB-004;GMB-005,GMB-006=price:GMD:60:1;GMB-007=price:GMD:65:1;GMB-003=share:10.26;GMB-002=share:21.02;GMB-008=share:11;GMB-001=share:22.02,

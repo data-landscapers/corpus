@@ -1,15 +1,16 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "price",
-   "stage": "1",
-   "cost": "share:11.81",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-004",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "price",
+      "stage": "1",
+      "cost": "share:11.8",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-005",
+      "gaps": "",
+      "note": "Reassessed 2026-11-12, stays 1: the government's June 2026 figure of 11.8 per cent for 5 GB (TCD-005) is the newest, above 10 per cent.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

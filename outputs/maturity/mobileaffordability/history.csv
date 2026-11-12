@@ -2,3 +2,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,MWI,infra.connect--mobile-affordability,fact,2,3,MWI-005,Arrivals added MWI-005; stage 2 -> 3.
 2026-10-17,UGA,infra.connect--mobile-affordability,fact,2,3,UGA-007,Arrivals added UGA-007; stage 2 -> 3.
 2026-10-17,ZWE,infra.connect--mobile-affordability,fact,unplaced,2,ZWE-003,Arrivals added ZWE-003; ZWE-004; stage unplaced -> 2.
+2026-11-12,BEN,infra.connect--mobile-affordability,fact,2,2,BEN-006,"5,000 CFA franc monthly bundles of over 11 GB in August 2026 come to 6.29 per cent, the newest figure; stays 2"
+2026-11-12,COD,infra.connect--mobile-affordability,fact,1,1,COD-005,"The regulator's 2026 tariff list gives USD 10 for 10 GB, 16.67 per cent; stays 1"
+2026-11-12,GMB,infra.connect--mobile-affordability,fact,2,2,GMB-007,Three operators' D65 a gigabyte in January 2026 comes to 5.99 per cent for 5 GB; the Ayre figure repeats the ITU's 2025 one and is removed; stays 2
+2026-11-12,TCD,infra.connect--mobile-affordability,fact,1,1,TCD-005,The government's June 2026 figure of 11.8 per cent for 5 GB is the newest; stays 1

@@ -1,15 +1,16 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "price",
-   "stage": "1",
-   "cost": "share:18.75",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-004",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "price",
+      "stage": "1",
+      "cost": "price:USD:10:10",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-005",
+      "gaps": "",
+      "note": "Reassessed 2026-11-12, stays 1: the regulator's 2026 tariff list gives USD 10 for 10 GB (COD-005), 16.67 per cent of average monthly income, above 10 per cent.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }
