@@ -29,6 +29,8 @@ CMR,GOV-AI,Cameroon,govai,nGomna,CENADI,,2025-07-09-dgb-gov-ai-cenadi-intelligen
 CMR,CNPS AI tools,Cameroon,govai,MA CNPS A MOI,CNPS,,2026-02-26-cmr-at-gov-t-artificial-intelligence-workshop-cnps-director-general-showca
 COD,ONEM AI job-matching platform,DRC,govai,ONEM digital platform,ONEM,,2026-08-01-drc-enabel-onem-ai-digital-platform-tender
 COD,Etoile Bleue,DR Congo,other,"digital platform with geolocation and AI-assisted alert handling, 199 line, mobile app",Ministry of Health,,2026-11-09-rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medical
+COD,Assistant Mimpa,DRC,govai,,Ministry of Land Affairs,,2026-08-31-cod-rdc-16-622-dossiers-fonciers-assainis-en-dix-jours-et-146-bureaux-a-eq
+COD,IRMS-DGRK,DRC (Kinshasa),other,,Direction générale des recettes de Kinshasa,city,2026-08-12-cod-dgrk-apres-la-vignette-kinshasa-veut-digitaliser-les-impots-et-taxes
 COG,DGPME AI information platform and chatbot,Congo,govai,,Direction Generale des Petites et Moyennes Entreprises,,2024-09-22-cog-dgpme-chatbot-ia-experimentation
 CPV,Portal da Justica - Inteligencia Artificial Integrada,Cabo Verde,govai,web portal with AI chat,"IMIJ, I.P.",,2025-10-23-cabo-verde-justica-portal-inteligencia-artificial-integrada
 CPV,NOSi and SINTAXY AI financial and accounting management application,AI financial and accounting app,govai,,NOSi,,2024-11-19-cpv-mf-nosi-ai-financial-accounting-app
@@ -46,6 +48,9 @@ EGY,Consumer Protection Agency AI analysis,Egypt,govai,,Consumer Protection Agen
 EGY,Chat Egypt,Chat Egypt,govai,AI rumour monitoring and verification platform,Cabinet Media Center,,2026-10-20-egy-launch-of-chat-egypt-platform-to-monitor-verify-rumors
 EGY,Ask the Ministry of Labour,Egypt,govai,WhatsApp,Ministry of Labour,,2026-06-30-egy-egypt-moves-citizen-complaints-beyond-hotlines-with-whatsapp-digital-p
 EGY,Trade regulatory lab,Egypt,govai,,Ministry of Investment and Foreign Trade,,2026-11-07-egy-youm7-cairo-ict-ministers-1gw-power-data-centres
+EGY,Public Prosecution AI data centre,Egypt,other,,Public Prosecution,,2026-11-11-egy-prosecution-opens-ai-data-centre-in-rehab
+EGY,Remote general litigation power of attorney,Digital Egypt platform,govai,Digital Egypt platform,Ministry of Justice; Ministry of Communications and Information Technology,,2026-11-09-egy-22-electronic-notarial-and-real-estate-registry-services
+EGY,AI tools at the Information and Decision Support Centre (IDSC),Egypt,govai,,"Information and Decision Support Centre, Cabinet",,2023-11-23-egy-idsc-hyve-jigsaw-data-platform-mou
 ETH,AI-enriched integrated digital civil registration and resident services system,Ethiopia,other,,Addis Ababa City Administration,,2025-12-06-eth-ebc-addis-ai-civil-registration-system
 ETH,AI-based Customs Chatbot,Ethiopia,govai,,Ethiopian Customs Commission,,2025-10-12-eth-addisfortune-revenue-customs-eight-tech-systems
 ETH,AI-powered Passenger Risk Management System,Ethiopia,other,,Ethiopian Customs Commission,,2025-10-12-eth-addisfortune-revenue-customs-eight-tech-systems
@@ -177,6 +182,8 @@ TZA,Msaada AI,Tanzania,govai,Tanzania Tourist Board website; e-Mrejesho,e-Govern
 TZA,Muhtasari AI,Tanzania,govai,,e-Government Authority (e-GA),,2026-07-25-tza-e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde
 TZA,Tafsiri AI,Tanzania,govai,,e-Government Authority (e-GA),,2026-07-25-tza-e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde
 TZA,AI and Data Innovation Hub,Tanzania,other,,Bank of Tanzania,,2026-10-29-tza-bot-instructs-institutions-to-embrace-ai-and-data-analytics-for-operat
+TZA,NeST,Tanzania,govai,,PPRA,,2026-05-11-tza-from-bureaucracy-to-bytes-digitalization-reshaping-tanzania-s-procurem
+TZA,Origami,Tanzania (Zanzibar),govai,Origami,Maxbit,,2024-06-01-tza-maxbit-has-signed-a-digital-transformation-contract-with-the-governmen
 UGA,entervo V3,Uganda,govai,Scheidt & Bachmann,Uganda Civil Aviation Authority,,2026-10-09-uga-monitor-ucaa-entebbe-ai-parking-digital-payments
 UGA,UCC AI content filtering system,Uganda,govai,,Uganda Communications Commission,,2026-09-25-uga-ucc-ai-content-moderation-tool
 UGA,UPF chatbot,Uganda,govai,,Uganda Police Force,,2026-09-03-uga-police-ai-chatbot-announced
@@ -203,3 +210,6 @@ ZMB,SMART Zambia AI chatbot,Zambia,other,chatbot,SMART Zambia,planned,2025-01-30
 ZWE,National Budget Automation System (Blue Book System),Zimbabwe,govai,,,,2026-09-23-zwe-sirdc-budget-automation-pilot
 ZWE,Learner's Hub Chatbot,Zimbabwe,govai,UChat Africa,Ministry of Primary and Secondary Education,,2026-04-23-zwe-government-launches-learner-s-hub-chatbot-at-zitf
 ZWE,Pangolin AI,Zimbabwe,other,national AI and data platform,"Ministry of ICT, Postal and Courier Services",,2026-10-28-zimbabwe-to-fully-operationalise-pangolin-ai-platform-by-q1-2027
+ZWE,Mutare WhatsApp chatbot,Zimbabwe (Mutare),govai,WhatsApp,Mutare City Council,city,2026-06-28-zwe-cscn-peer-learning-clinic-highlights-mutare-s-digital-transformation-j
+ZWE,Citizens Engagement and Scoring Platform,Zimbabwe,govai,LADS,Ministry of Local Government and Public Works / Harare Institute of Technology,,2026-06-18-zwe-harare-residents-can-now-score-their-council-in-real-time-here-s-how
+ZWE,Local Authorities Digital Systems (LADS),Zimbabwe,other,,LADS Africa/Ndarama Tech Agency,local authorities,2024-05-16-zwe-hit-researcher-develops-app-to-automate-local-authorities

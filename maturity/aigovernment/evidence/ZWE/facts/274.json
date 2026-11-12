@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-18-zwe-harare-residents-can-now-score-their-council-in-real-time-here-s-how",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Gemnation reports that the Citizens Engagement and Scoring Platform, launched by President Mnangagwa on 18 June 2026, has a built-in AI model that analysed live Harare council scores and produced a recommendation.",
+   "as_of": "2026-06-18",
+   "date_precision": "day",
+   "system": "Citizens Engagement and Scoring Platform",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Citizens Engagement and Scoring Platform",
+   "country_label": "Zimbabwe",
+   "class": "govai",
+   "platform": "LADS",
+   "owner": "Ministry of Local Government and Public Works / Harare Institute of Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

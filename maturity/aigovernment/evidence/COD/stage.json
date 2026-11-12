@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "no evidence",
-      "use": "",
+      "stage": "2",
+      "use": "underway",
       "bodies": "",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether government bodies use AI.",
-      "note": "Rebuild 2026-10-20: the ONEM job-matching tender is Enabel's, not a government body's, so question 1 is not answered.",
-      "as_at": "2026-10-20"
+      "stage_sources": "COD-002",
+      "gaps": "No source found since October 2023 says an AI system is in service in a government body.",
+      "note": "Reassessed 2026-11-12, no evidence to 2: the land ministry was deploying its Assistant Mimpa chatbot in August 2026 (COD-002), a yes to question 1. Deploying is not shown in service, so not 3.",
+      "as_at": "2026-11-12"
     }
   ]
 }

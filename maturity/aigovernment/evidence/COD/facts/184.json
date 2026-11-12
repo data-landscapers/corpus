@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-31-cod-rdc-16-622-dossiers-fonciers-assainis-en-dix-jours-et-146-bureaux-a-eq",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The DRC Ministry of Land Affairs, reporting to the Council of Ministers of 28 August 2026, says it is deploying a chatbot, \"Assistant Mimpa\", to explain the land law to the public.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Assistant Mimpa",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Assistant Mimpa",
+   "country_label": "DRC",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Land Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

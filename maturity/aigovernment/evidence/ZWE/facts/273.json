@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-28-zwe-cscn-peer-learning-clinic-highlights-mutare-s-digital-transformation-j",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Mutare City Council's Town Clerk told a CLGF clinic that residents take part in the council's annual budget consultations through a WhatsApp chatbot and an online consultation platform, with more than 20,000 participants.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Mutare WhatsApp chatbot",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mutare WhatsApp chatbot",
+   "country_label": "Zimbabwe (Mutare)",
+   "class": "govai",
+   "platform": "WhatsApp",
+   "owner": "Mutare City Council",
+   "tiers": "city"
+  }
+ ],
+ "note": ""
+}

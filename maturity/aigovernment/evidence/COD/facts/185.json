@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-12-cod-dgrk-apres-la-vignette-kinshasa-veut-digitaliser-les-impots-et-taxes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IRMS-DGRK",
+   "country_label": "DRC (Kinshasa)",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction générale des recettes de Kinshasa",
+   "tiers": "city"
+  }
+ ],
+ "note": "AI mentioned only inside a tax platform, a sector system, not general administration."
+}

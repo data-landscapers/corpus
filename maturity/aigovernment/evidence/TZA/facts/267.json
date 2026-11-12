@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-01-tza-maxbit-has-signed-a-digital-transformation-contract-with-the-governmen",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Maxbit says it won a contract, worth $35 million over ten years, with the Zanzibar e-Government Authority (eGAZ) for its AI-integrated Origami platform to deliver government services.",
+   "as_of": "2024-06-01",
+   "date_precision": "day",
+   "system": "Origami",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Origami",
+   "country_label": "Tanzania (Zanzibar)",
+   "class": "govai",
+   "platform": "Origami",
+   "owner": "Maxbit",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

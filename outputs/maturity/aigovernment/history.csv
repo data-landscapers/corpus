@@ -63,3 +63,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,AGO,tech.ai--use-of-ai-in-government-administration,fact,3,3,AGO-004,"National Assembly's AI transcription read: a legislature is not an administration body; INACOM still the one body, stays 3"
 2026-11-11,AGO,tech.ai--use-of-ai-in-government-administration,ladder,3,4,AGO-004;AGO-006,"Bill's ruling, message 121"
 2026-11-11,DZA,tech.ai--use-of-ai-in-government-administration,ladder,3,4,DZA-001;DZA-002,"Bill's ruling, message 121"
+2026-11-12,COD,tech.ai--use-of-ai-in-government-administration,fact,no evidence,2,COD-002,"The land ministry was deploying its Assistant Mimpa chatbot in August 2026: question 1 answered, not shown in service"
+2026-11-12,ZWE,tech.ai--use-of-ai-in-government-administration,fact,3,4,ZWE-002;ZWE-004,The Citizens Engagement and Scoring Platform's AI model in service from June 2026 is a second body beside the education ministry's chatbot

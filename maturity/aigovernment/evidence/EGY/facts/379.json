@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-11-egy-prosecution-opens-ai-data-centre-in-rehab",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Public Prosecution AI data centre",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Public Prosecution",
+   "tiers": ""
+  }
+ ],
+ "note": "A data centre opening notice states no AI system in use in administration."
+}

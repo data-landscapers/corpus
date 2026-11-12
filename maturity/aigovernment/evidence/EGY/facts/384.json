@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-23-egy-idsc-hyve-jigsaw-data-platform-mou",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The head of the Cabinet's Information and Decision Support Centre says the centre currently relies on AI techniques to follow and evaluate strategy implementation, measure public opinion and strengthen communication with its partners.",
+   "as_of": "2023-11-23",
+   "date_precision": "day",
+   "system": "AI tools at the Information and Decision Support Centre",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI tools at the Information and Decision Support Centre (IDSC)",
+   "country_label": "Egypt",
+   "class": "govai",
+   "platform": "",
+   "owner": "Information and Decision Support Centre, Cabinet",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

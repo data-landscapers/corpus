@@ -21,12 +21,12 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 13 |
-| 3 Established | 21 |
-| 2 Nascent | 5 |
+| 4 Operating | 14 |
+| 3 Established | 20 |
+| 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 13 |
+| No evidence | 12 |
 
 ## Countries
 
@@ -119,6 +119,13 @@ The aviation authority and NITA-U used AI in services in 2026; no source found r
 
 - The Daily Monitor reported on 9 October 2026 that the Uganda Civil Aviation Authority runs Entebbe airport car parks on entervo V3 with AI and machine-learning number-plate recognition, installed by Samanga Utilities Limited, per UCAA's Vianney Luggya ([source, 2026-10-09](https://www.monitor.co.ug/uganda/news/national/smarter-parking-at-entebbe-ucaa-rolls-out-ai-camera-system-digital-payments-5625876)).
 - NITA-U's Julian Rweju said government is using AI on its core platforms to generate predictive reports from National ID logins on the portal and e-services, to customise services ([source, 2026-10-01](https://www.newvision.co.ug/category/news/govt-to-launch-national-ai-strategy-this-year-NV_241670_102026)).
+
+### Zimbabwe: 4 Operating
+
+Zimbabwe's education ministry and a local government scoring platform used AI in 2026; whether rules govern government AI is not known.
+
+- The Ministry of Primary and Secondary Education launched the Learner's Hub Chatbot at the Zimbabwe International Trade Fair, giving learners, teachers and parents academic and psychosocial support, with an AI academic assistant, built by consultants UChat Africa ([source, 2026-04-22](https://www.heraldonline.co.zw/government-launches-learners-hub-chatbot-at-zitf/)).
+- Gemnation reports that the Citizens Engagement and Scoring Platform, launched by President Mnangagwa on 18 June 2026, has a built-in AI model that analysed live Harare council scores and produced a recommendation ([source, 2026-06-18](https://gemnation.co.zw/harare-residents-can-now-score-their-council-in-real-time-heres-how/)).
 
 ### Cape Verde: 3 Established
 
@@ -244,12 +251,6 @@ Zambia's revenue authority has run an AI chatbot since 2026; no source found rep
 
 - Zambia Monitor quotes the Zambia Revenue Authority's Commissioner-General saying that on 16 July 2026 the ZRA already has an Artificial Intelligence Unit and has introduced an AI-powered chatbot, an HS Code search engine and a taxpayer nudging system ([source, 2026-07-16](https://www.zambiamonitor.com/techbytes-zra-turns-to-ai-research-to-strengthen-tax-administration/)).
 
-### Zimbabwe: 3 Established
-
-Zimbabwe's education ministry has run an AI chatbot for learners since 2026; no source found says whether other government bodies use AI.
-
-- The Ministry of Primary and Secondary Education launched the Learner's Hub Chatbot at the Zimbabwe International Trade Fair, giving learners, teachers and parents academic and psychosocial support, with an AI academic assistant, built by consultants UChat Africa ([source, 2026-04-22](https://www.heraldonline.co.zw/government-launches-learners-hub-chatbot-at-zitf/)).
-
 ### Burkina Faso: 2 Nascent
 
 AI for public administration was under way in 2025; none in service is on record.
@@ -262,6 +263,12 @@ AI for public administration was under way in 2025; none in service is on record
 AI for public administration was under way in 2024; none in service is on record.
 
 - The DGPME says it opened an AI-based interactive information platform on the business-support schemes to users for testing, ahead of launching its chatbot ([source, 2024-09-22](https://www.linkedin.com/feed/update/urn:li:activity:7243556420925759490)).
+
+### DR Congo: 2 Nascent
+
+The land ministry was deploying a chatbot on the land law in 2026; whether any AI system is in service is not known.
+
+- The DRC Ministry of Land Affairs, reporting to the Council of Ministers of 28 August 2026, says it is deploying a chatbot, "Assistant Mimpa", to explain the land law to the public ([source, 2026-08-28](https://beto.cd/cadastre-numerisation-archives-foncieres-rntfi/)).
 
 ### Djibouti: 2 Nascent
 
@@ -315,12 +322,6 @@ Not established: Nothing found says whether government bodies use AI.
 ### Comoros: No evidence
 
 Nothing found names AI in public administration or says there is none, so no stage is set.
-
-Not established: Nothing found says whether government bodies use AI.
-
-### DR Congo: No evidence
-
-A donor tendered AI work for the employment office, but no government body is shown testing AI, so no stage is set.
 
 Not established: Nothing found says whether government bodies use AI.
 

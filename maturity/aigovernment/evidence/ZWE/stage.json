@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "bodies": "",
+      "bodies": "several",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZWE-002",
-      "gaps": "No source found shows AI in service in a second government body, or rules or a register for the government's own use of AI.",
-      "note": "Fact 2026-10-21: the education ministry's Learner's Hub chatbot is AI in service in one body; the budget automation system is in pilot, so no second body has been found.",
-      "as_at": "2026-10-21"
+      "stage_sources": "ZWE-002;ZWE-004",
+      "gaps": "No source found since October 2023 says the government has issued rules or a register for its own use of AI.",
+      "note": "Reassessed 2026-11-12, 3 to 4: the Citizens Engagement and Scoring Platform's AI model was in service in June 2026 (ZWE-004), beside the education ministry's chatbot (ZWE-002), two bodies in two sectors. No rules or register is held, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }
