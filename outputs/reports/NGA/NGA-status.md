@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-09
 intersections_read: 16
-sources_cited: 367
+sources_cited: 372
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -67,7 +67,7 @@ acquire_lines: 41
 ### Public debate and participation in policymaking
 <!-- gov.discourse -->
 
-[Omoyele Sowore, a presidential candidate, is being prosecuted at the Federal High Court in Abuja under section 24 of the Cybercrimes (Amendment) Act 2024](https://www.vanguardngr.com/2026/08/cybercrime-charge-sowore-kicks-as-dss-moves-to-foreclose-his-defence/). [The charge concerns social-media posts of 25 August 2025, and he pleaded not guilty on 2 December 2025](https://www.vanguardngr.com/2026/08/cybercrime-charge-sowore-kicks-as-dss-moves-to-foreclose-his-defence/). [In August 2026 the case stood adjourned to 28 September, with the Department of State Services applying to foreclose his defence](https://www.vanguardngr.com/2026/08/cybercrime-charge-sowore-kicks-as-dss-moves-to-foreclose-his-defence/). [The service had demanded that X and Meta remove the posts; both were co-defendants until the amended charge](https://www.vanguardngr.com/2026/08/cybercrime-charge-sowore-kicks-as-dss-moves-to-foreclose-his-defence/). [In February 2026 section 24 was still being used against journalists](https://www.dataphyte.com/topic/technology/who-protects-nigerias-digital-citizens/). [Nigeria's digital freedom score in the Ibrahim Index fell 14.6 points over the decade to 2023, leaving it 26th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf). [Its media freedom score, 32nd, fell 4.8 points, and formal freedom of expression held flat](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf).
+[Omoyele Sowore, a presidential candidate, is being prosecuted at the Federal High Court in Abuja under section 24 of the Cybercrimes (Amendment) Act 2024](https://www.vanguardngr.com/2026/08/cybercrime-charge-sowore-kicks-as-dss-moves-to-foreclose-his-defence/). [The charge concerns social-media posts of 25 August 2025, and he pleaded not guilty on 2 December 2025](https://www.vanguardngr.com/2026/08/cybercrime-charge-sowore-kicks-as-dss-moves-to-foreclose-his-defence/). [In August 2026 the case stood adjourned to 28 September, with the Department of State Services applying to foreclose his defence](https://www.vanguardngr.com/2026/08/cybercrime-charge-sowore-kicks-as-dss-moves-to-foreclose-his-defence/). [The service had demanded that X and Meta remove the posts; both were co-defendants until the amended charge](https://www.vanguardngr.com/2026/08/cybercrime-charge-sowore-kicks-as-dss-moves-to-foreclose-his-defence/). [In February 2026 section 24 was still being used against journalists](https://www.dataphyte.com/topic/technology/who-protects-nigerias-digital-citizens/). [Nigeria's digital freedom score in the Ibrahim Index fell 14.6 points over the decade to 2023, leaving it 26th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf). [Its media freedom score, 32nd, fell 4.8 points, and formal freedom of expression held flat](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf). [From about May 2025 mobile internet was cut in at least four local government areas of Zamfara North, with no official explanation](https://www.accessnow.org/press-release/keepiton-authorities-in-nigeria-must-reconnect-people-in-zamfara-north-now/).
 
 [The Senate held its public hearing on SB.648, the platform-offices bill, on 23 July 2026](https://www.vanguardngr.com/2026/07/project-sprint-rallies-senate-support-for-data-protection-bill/). [Its sponsor opened a public consultation on Facebook on 27 July 2026](https://www.digitalbusiness.africa/nigeria-souverainete-numerique-le-senateur-ned-nwoko-veut-obliger-les-reseaux-sociaux-a-ouvrir-des-bureaux-dans-le-pays/), four days after the hearing. [On 18 July 2026 civil-society groups warned that the bill's enforcement powers could be used to block platforms](https://saharareporters.com/2026/07/19/rulaac-warns-data-protection-bill-could-give-nigerian-govt-sweeping-powers-over-social). [A youth-led coalition backed it at the hearing without contesting any provision](https://www.vanguardngr.com/2026/07/project-sprint-rallies-senate-support-for-data-protection-bill/).
 
@@ -239,7 +239,7 @@ Behind that sits about US$4.5 billion of external and private commitment to Nige
 
 [In January 2026 Niger State had 21 identity enrolment centres for about 7.5 million people, a round trip costing around ₦3,000](https://www.techcityng.com/the-gender-gap-in-rural-niger-states-digital-identity/). [Without a number a woman cannot reach maternal care funded by the Basic Health Care Provision Fund](https://www.techcityng.com/the-gender-gap-in-rural-niger-states-digital-identity/). [In January 2026 rural women's phone ownership stood at 42%, against 78% in urban areas](https://www.techcityng.com/the-gender-gap-in-rural-niger-states-digital-identity/). [In May 2026 poor rural broadband limited the reach of GovGuide, the AI assistant aimed at rural and low-literacy users](https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/).
 
-[A police data centre opened at Force headquarters in May 2021, while divisional stations still took statements by hand](https://fmino.gov.ng/enhancing-effective-policing-with-infrastructural-supportas-wapis-database-centre-debuts/). [The European Union and INTERPOL handed the platform to the federal government in April 2025, with eight agencies connected](https://policeaffairs.gov.ng/fg-receives-wapis-platform-and-infrastructure-from-european-union/).
+[A police data centre opened at Force headquarters in May 2021, while divisional stations still took statements by hand](https://fmino.gov.ng/enhancing-effective-policing-with-infrastructural-supportas-wapis-database-centre-debuts/). [The European Union and INTERPOL handed the platform to the federal government in April 2025, with eight agencies connected](https://policeaffairs.gov.ng/fg-receives-wapis-platform-and-infrastructure-from-european-union/). [In September 2025 the Inspector-General opened nationwide training of officers on newly introduced criminal database systems](https://nigeriacommunicationsweek.com.ng/2025/09/25/police-launches-database-to-curb-missing-case-files-others).
 
 ## Technology
 
@@ -311,6 +311,8 @@ Behind that sits about US$4.5 billion of external and private commitment to Nige
 
 [In May 2025 NITDA commissioned a National Cybersecurity Centre at Bayero University, Kano, for cyber education, research and talent development](https://techafricanews.com/2025/05/28/nigeria-takes-bold-step-in-cybersecurity-with-new-national-centre-in-kano/).
 
+[In April 2024 Data Science Nigeria, Lagos Business School and a journalism centre formed an AI Collective at the national AI and robotics centre, with US$1.5m over three years from Luminate](https://luminategroup.com/posts/news/partnerships-nigeria-ai-strategy).
+
 ## Inclusion
 
 ### Access to services
@@ -358,6 +360,8 @@ Behind that sits about US$4.5 billion of external and private commitment to Nige
 [The gazetted text of the NIMC Act 2026 had not been published by 29 July 2026, six weeks after assent](https://www.vanguardngr.com/2026/08/nimc-act-2026-experts-demand-transparency-stronger-data-protection/). [In August 2026 the circular said to order ministries to comply with the data protection law could not be found on the Secretary to the Government's portal](https://fij.ng/article/ndpc-claimed-fg-ordered-mdas-to-obey-data-protection-law-nigerians-search-but-cant-find-order/). [The portal did not answer a written request to explain why](https://fij.ng/article/ndpc-claimed-fg-ordered-mdas-to-obey-data-protection-law-nigerians-search-but-cant-find-order/).
 
 [In March 2026 the US State Department put a subset of the health memoranda online, then removed public access](https://www.citizen.org/wp-content/uploads/2026.04.02-Complaint.pdf). [Appendix 5 of the United States-Nigeria memorandum, its Data Sharing Agreement, has not been published](https://www.citizen.org/wp-content/uploads/2026.04.02-Complaint.pdf). [Nor have the remaining memoranda or the related agreements](https://www.citizen.org/wp-content/uploads/2026.04.02-Complaint.pdf).
+
+[In October 2023 the communications ministry described data.gov.ng as the portal where agencies routinely publish non-sensitive datasets](https://fmcide.gov.ng/initiative/e-government-initiative/). [In October 2025 Kaduna State launched the first portal in Nigeria to publish infrastructure data under the OC4IDS standard, covering almost 1,500 projects](https://infrastructuretransparency.org/news/cost-kaduna-oc4ids-portal/).
 
 ### Geospatial data
 <!-- data.geospatial -->
