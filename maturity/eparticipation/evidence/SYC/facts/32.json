@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-16-syc-cbs-opens-public-consultation-on-proposed-amendments-to-the-national-p",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The Central Bank of Seychelles posted a consultation paper on its website on proposed amendments to the payment system licensing regulations and invited comments by email until 29 February 2024.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "CBS public consultation",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

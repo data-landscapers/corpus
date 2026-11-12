@@ -23,10 +23,10 @@ The African Charter on Democracy, Elections and Governance asks for citizen part
 | 5 Leading | 0 |
 | 4 Operating | 1 |
 | 3 Established | 9 |
-| 2 Nascent | 21 |
+| 2 Nascent | 22 |
 | 1 Absent | 0 |
 | Unplaced | 8 |
-| No evidence | 15 |
+| No evidence | 14 |
 
 ## Countries
 
@@ -204,6 +204,12 @@ The regulator posted the cybersecurity strategy online for consultation in 2025,
 
 - AGER posted the National Cybersecurity Strategy of Sao Tome and Principe 2024-2028 and its action plan on its website for public consultation, with contributions to be sent within 30 days by the telephone and email contacts given ([source, 2025-09](https://www.ager.st/index.php/pt/actualidades/19-annonces/106-estrategia-nacional-de-ciberseguranca-de-sao-tome-e-principe)).
 
+### Seychelles: 2 Nascent
+
+The central bank put draft payment regulations online for comment in February 2024; no standing consultation portal has been found.
+
+- The Central Bank of Seychelles posted a consultation paper on its website on proposed amendments to the payment system licensing regulations and invited comments by email until 29 February 2024 ([source, 2024-02](https://www.nation.sc/articles/21119/cbs-opens-public-consultation-on-proposed-amendments-to-the-national-payment-system-licensing-and-authorisation-regulations-2014)).
+
 ### Somalia: 2 Nascent
 
 Somalia opened a digital platform for views on proposed constitutional amendments in 2024; a portal taking comments on more than one draft is not known.
@@ -325,12 +331,6 @@ Nothing found names online participation in making policy or says there is none,
 Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Mali: No evidence
-
-Nothing found names online participation in making policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the public takes part in making policy online.
-
-### Seychelles: No evidence
 
 Nothing found names online participation in making policy or says there is none, so no stage is set.
 

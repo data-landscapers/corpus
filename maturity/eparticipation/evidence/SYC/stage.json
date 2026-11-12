@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eparticipation",
-      "stage": "no evidence",
-      "online": "",
+      "stage": "2",
+      "online": "asked",
       "published": "",
       "required": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether the public takes part in making policy online.",
-      "note": "Reassessed 2026-11-03: no row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-03"
+      "stage_sources": "SYC-001",
+      "gaps": "No source found shows a standing online consultation portal, published comments or a rule requiring online consultation.",
+      "note": "Stage 4c 2026-11-12: In February 2024 the Central Bank of Seychelles posted proposed payment regulations online for public comment, which answers question 1. No standing portal taking comments online is on record.",
+      "as_at": "2026-11-12"
     }
   ]
 }
