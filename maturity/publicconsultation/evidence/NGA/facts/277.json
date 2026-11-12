@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-senate-passes-bill-to-regulate-systemically-important-fintechs",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The National Assembly Library Trust Fund says the Senate held a public hearing on 2026-03-04 on the fintech regulation bill SB. 959, with support from agencies, regulators and industry operators.",
+   "as_of": "2026-03-04",
+   "date_precision": "day",
+   "system": "SB. 959 public hearing",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
