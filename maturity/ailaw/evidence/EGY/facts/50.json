@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-03-egy-charting-egypt-s-path-to-responsible-ai-insights-from-the-multi-stakeh",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The MENA Observatory says the first roundtable, on 14 January 2025, explored Egypt's proposed AI bill.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "proposed AI bill",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Proposed AI bill",
+   "country_label": "Egypt AI bill",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

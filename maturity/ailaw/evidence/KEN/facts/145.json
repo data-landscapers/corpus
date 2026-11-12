@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-ken-kenya-s-digital-rights-journey-half-year-scorecard",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Amnesty International Kenya says the Artificial Intelligence Bill is currently before the Senate.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Artificial Intelligence Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Artificial Intelligence Bill",
+   "country_label": "Kenya AI Bill",
+   "class": "law",
+   "platform": "",
+   "owner": "Senate",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states nothing on this for Kenya."
+}

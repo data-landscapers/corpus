@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-uga-advancing-inclusive-and-contextually-relevant-ai-policies-in-uganda",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "The CfMA policy brief says specific AI-focused regulations in Uganda are either absent or in formative stages, and recommends developing comprehensive AI legislation.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Uganda AI regulation",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
