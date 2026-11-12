@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-07-gab-espace-des-donnees-a-telecharger",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "The page lists the second-generation national strategy for statistical development SNDS-II with a presentation of its roadmap; it gives no adoption date or period.",
+   "as_of": "2025-02-07",
+   "date_precision": "day",
+   "system": "SNDS-II",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNDS-II",
+   "country_label": "SNDS-II",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Direction Generale de la Statistique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

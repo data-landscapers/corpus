@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-caf-icasees-le-directeur-general-de-l-icasees-recoit-une-mission-d-evaluat",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The 23 July 2026 ICASEES release says partners support the implementation of the national strategy for the development of statistics (SNDS); no period or adoption date is given.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "SNDS",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

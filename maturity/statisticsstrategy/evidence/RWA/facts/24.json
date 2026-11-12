@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-rwa-rwanda-advancing-science-through-the-development-of-artificial-intelli",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The chapter cites NISR's Fourth National Strategy for the Development of Statistics (2024-2029), which stresses intensive use of AI for data analysis.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NSDS4",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NSDS4",
+   "country_label": "NSDS4 2024-2029",
+   "class": "strategy",
+   "platform": "",
+   "owner": "NISR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
