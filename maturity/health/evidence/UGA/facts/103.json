@@ -1,0 +1,46 @@
+{
+ "slug": "2026-04-07-uga-u-s-backed-health-systems-transition-to-ugandan-control-in-major-digit",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Independent reports the METS-built health data systems, including the national data warehouse and electronic medical records, were formally handed over to the Ministry of Health on 31 March 2026, with the Ministry assuming full responsibility.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "METS health data systems",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "Permanent Secretary Diana Atwine is quoted saying the digital health space has been largely partner funded, with the programme costing nearly US$104 million over 15 years.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "METS health data systems",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The Independent reports the handover of the METS systems to the Ministry of Health on 31 March 2026, with electronic medical records described as widespread but not yet universal.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "METS health data systems",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "METS electronic medical records",
+   "country_label": "Uganda",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health (handed over from Makerere University School of Public Health METS)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

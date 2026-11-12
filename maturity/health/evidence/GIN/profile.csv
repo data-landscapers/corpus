@@ -3,9 +3,9 @@ GIN,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-03,
 GIN,hmis,tiers,coverage,T1;T2;T3;T4,2026-03,GIN-009,GIN-033=T2;T3;GIN-036=T1;T2;T3,
 GIN,hmis,digitised,coverage,district,2025,GIN-025;GIN-028;GIN-038,GIN-005=paper;GIN-024=paper;GIN-034=facility;GIN-037=facility,
 GIN,hmis,last12,qualifier,advancing,2026-03,GIN-013,,
-GIN,hmis,clinics,coverage,,,,,nothing held
+GIN,hmis,clinics,coverage,,,,,nothing found
 GIN,emr,governance,qualifier,owner:vendor;finance:donor,2026-08,GIN-003;GIN-007,GIN-020=owner:partner;GIN-021=finance:donor,not stated: plan
 GIN,emr,tiers,coverage,T2;T3,2026-08,GIN-001;GIN-006;GIN-019,,
 GIN,emr,digitised,coverage,point-of-care,2026-08,GIN-002;GIN-008;GIN-018,GIN-017=paper,
 GIN,emr,last12,qualifier,advancing,2026-01,GIN-004;GIN-022,,
-GIN,emr,clinics,coverage,,,,,nothing held
+GIN,emr,clinics,coverage,,,,,nothing found

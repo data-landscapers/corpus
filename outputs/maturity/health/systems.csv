@@ -172,6 +172,8 @@ BWA,Interoperability platform,"Botswana eHealth Interoperability Platform; middl
 BWA,Unique identifier and Master Patient Index,health unique identifier (UID) and Master Patient Index (MPI),exchange,,Ministry of Health and Wellness,planned for all people in Botswana by end 2023; options to be investigated in 2020/21,2019-01-01-bwa-botswana-health-data-collaborative-roadmap-2020-2025
 BWA,National facility register,electronic national facility register,exchange,,Ministry of Health and Wellness,"planned for 2020/21, PEPFAR-funded",2019-01-01-bwa-botswana-health-data-collaborative-roadmap-2020-2025
 BWA,Disease surveillance system,disease surveillance system,single-function,,,not integrated with the routine reporting system; to be reported onto DHIS2,2019-01-01-bwa-botswana-health-data-collaborative-roadmap-2020-2025
+BWA,EMR,electronic medical record (EMR) to be linked to the HIE,emr,,Ministry of Health,,2026-01-26-wb-bwa-heprr-information-systems-2026
+BWA,eIDSR,eIDSR,single-function,,Ministry of Health,,2026-01-26-wb-bwa-heprr-information-systems-2026
 CAF,DHIS2 (SNIS),Système National d'Information Sanitaire (SNIS),hmis,DHIS2,Ministère de la Santé et de la Population,"all 35 health districts; central, regional and district levels named as SNIS actors",2026-05-26-dhis2-community-snis-reconstruction-rca
 CAF,DHIS2,HMIS,hmis,DHIS2,,piloted only in Bangui; no routine use in rural health centres or posts,2026-03-31 Africa we have a data problem
 CAF,DHIS2-based immunization micro-planning,,single-function,DHIS2,donor-driven pilot (HISP Rwanda cited),isolated pilots,2026-03-31 Africa we have a data problem
@@ -244,6 +246,7 @@ CIV,Dossier Patient Informatise (DPI),Cote d'Ivoire,emr,,ministry,T3;T4,2025-11-
 CIV,OpenELIS,Cote d'Ivoire,single-function,OpenELIS Global,"ministry of health (DIS, DISD), with I-TECH CIV",,2025-01-01-civ-renforcement-du-systeme-d-information-de-sante
 CIV,SIGDEP-3,Cote d'Ivoire,tracker,,ministry of health,,2025-01-01-civ-renforcement-du-systeme-d-information-de-sante
 CIV,Patient Identity Management (PIM),Cote d'Ivoire,exchange,,I-TECH CIV,,2025-01-01-civ-renforcement-du-systeme-d-information-de-sante
+CIV,Dossier Patient Informatise (DPI),DPI,emr,,"DISD, Ministry of Health",,2026-07-02-civ-forum-club-sante-2026-la-disd-fixe-le-cap-de-l-intelligence-artificiel
 CMR,Digitalised community surveillance (Pandemic Fund project),digitalisation de la surveillance communautaire,single-function,,Ministry of Public Health,"community level, 42 municipalities (planned, 2026-2029)",2026-08-01-pandemic-fund-cmr-2026-record
 CMR,DHIS2,National DHIS2,hmis,DHIS2,,entered at district level from clinics' manual compilations; described as scaled nationally,2026-03-31 Africa we have a data problem
 CMR,OpenMRS / GNU Health pilots,,tracker,OpenMRS; GNU Health,,"pilots in specific regions (East, Centre) for HIV and TB",2026-03-31 Africa we have a data problem
@@ -490,6 +493,7 @@ DZA,Dossier medical electronique,DME,emr,,Ministry of Health,,2026-09-08-dza-elw
 DZA,plateforme numérique de suivi à distance des dossiers médicaux des patients,Remote patient-record monitoring platform,emr,,ministry,,2026-04-11-dz-aps-plateforme-suivi-distance-dossiers-medicaux
 DZA,dossier électronique du patient,Algeria,emr,,Ministry of Health,,2025-10-18-dz-aps-dossier-electronique-patient
 DZA,dossier médical électronique,Algeria,emr,central national database,Ministry of Health,,2026-07-20-dza-l-algerie-fixe-la-date-de-la-generalisation-du-dossier-medical-numeriq
+DZA,dossier medical electronique,Algeria,emr,,Ministry of Health,,2026-07-26-dza-reveildalgerie-dossier-medical-electronique-deploiement-formation
 EGY,Egypt Smart Healthcare Platform,Egypt Smart Healthcare Platform,emr,,Ministry of Health and Population (proposed; discussed with MTS and Inspur),Proposed only: to connect health facilities through a unified network; no tiers stated,2026-09-14-egy-dailynews-unified-platform-patient-records
 EGY,Hospital EMRs,EMR,emr,,,314 hospitals (reports of 2024-2026),2026-03-31 Africa we have a data problem
 EGY,Electronic medical information system at Alexandria primary health care units,,emr,,,Primary health care units in Alexandria (2014),2026-03-31 Africa we have a data problem
@@ -685,6 +689,7 @@ GIN,Interoperabilite DHIS2 - eLMIS / cadre d'interoperabilite du SNIS,Cadre d'in
 GIN,Dossier patient a Sino-Guineen,Le dossier patient a Sino-Guineen,emr,,,"One site, cited as an isolated case",2021-01-01-strategie-nationale-sante-numerique-2021-2025-guinee
 GIN,Telemedecine Donka,Unite de telemedecine de l'hopital de Donka (projet Inde/Union Africaine),enabling,,,"Donka hospital, pilot",2021-01-01-strategie-nationale-sante-numerique-2021-2025-guinee
 GIN,Telemedecine Faranah,"Plateforme de telemedecine de l'hopital regional de Faranah (GIZ/PASA2, VSAT)",enabling,,,"Faranah regional hospital; installed, not operational",2021-01-01-strategie-nationale-sante-numerique-2021-2025-guinee
+GIN,eLMIS,Guinea,single-function,,"Ministry of Health (SMSI, DNPM)",,2024-03-01-gin-guinean-computer-scientists-trained-to-manage-health-logistics-system
 GMB,DHIS2,HMIS/DHIS2,hmis,DHIS2,,data entered at district or regional level from clinics' paper,2026-03-31 Africa we have a data problem
 GMB,Smart Paper Technology (SPT),Smart Paper Technology,tracker,"Smart Paper Technology, synchronised to DHIS2",,scaled nationally for the Expanded Programme on Immunization; piloted in urban facilities such as Bundung Maternal and Child Hospital,2026-03-31 Africa we have a data problem
 GMB,TB e-Tracker,TB e-Tracker,tracker,,,limited pilots in some rural sites,2026-03-31 Africa we have a data problem
@@ -1230,6 +1235,7 @@ MWI,Electronic Health Information Network (eHIN),eHIN,single-function,,,"20% of 
 MWI,Warehouse management system at CMST,,single-function,,Central Medical Stores Trust,central and regional stores,2024-04-22-mwi-audit-report-global-fund-grants-in-malawi-gf-oig-24-007
 MWI,DHIS2 HMIS,Malawi,hmis,DHIS2,Ministry of Health,,2026-01-01-mwi-malawi-dhis2
 MWI,iCHIS,Malawi,community,DHIS2,Ministry of Health,,2026-01-01-mwi-malawi-dhis2
+MWI,Child Protection Management Information System (CPMIS),CPMIS,tracker,DHIS2,"Ministry of Gender, Children, Disability and Social Welfare",,2026-06-01-mwi-malawi-launches-upgraded-national-child-protection-system
 NAM,Digital Community System (DCS),Digital Community System (DCS),community,,Ministry of Health and Social Services,"community health workers at household level, on phones or tablets; to share patient information with clinics and hospitals; not yet rolled out (national training held, no rollout date, phased, paper registers kept in parallel)",2026-07-29-namibia-digital-community-system-health-rollout
 NAM,DHIS2,national DHIS2 systems,hmis,DHIS2,,entered at district or regional level from clinics' manual records; not entered at rural clinics,2026-03-31 Africa we have a data problem
 NAM,HIV/TB-specific systems,,tracker,,,"not stated; given as examples of fragmented, vertical EMR/EHR systems",2026-03-31 Africa we have a data problem
@@ -1999,6 +2005,7 @@ UGA,mTRAC,mTRAC,single-function,,,"Maternal death notification: 853 of 1,192 dea
 UGA,TB and leprosy case-based surveillance system,,tracker,,National TB and Leprosy Programme,Under development and planning in FY 2019/20,2020-01-01-uga-annual-health-sector-performance-report-financial-year-2019-20
 UGA,VHT/ICCM quarterly report; community health information system,,community,,Ministry of Health,104 districts (76%) submitted VHT/ICCM quarterly reports in FY 2019/20; community health information system guidelines in draft; the report does not say whether reporting is digital,2020-01-01-uga-annual-health-sector-performance-report-financial-year-2019-20
 UGA,Health data inter-operability framework (draft),,exchange,,Ministry of Health,Draft framework developed in FY 2019/20,2020-01-01-uga-annual-health-sector-performance-report-financial-year-2019-20
+UGA,METS electronic medical records,Uganda,emr,,Ministry of Health (handed over from Makerere University School of Public Health METS),,2026-04-07-uga-u-s-backed-health-systems-transition-to-ugandan-control-in-major-digit
 ZAF,Health Patient Record System (HPRS),Health Patient Record System (HPRS),emr,,National Department of Health,,2026-08-26-ndoh-chief-directorate-health-systems-digital-information
 ZAF,Healthforce,Healthforce,emr,Healthforce practice management software with an electronic medical record and decision support,Healthforce (private; acquired by Dis-Chem in 2021),private nurse-led clinics,2026-08-20-itweb-nhi-telemedicine
 ZAF,Turn.io,Turn.io,enabling,WhatsApp-based telemedicine consultations,Turn.io (private),,2026-08-20-itweb-nhi-telemedicine

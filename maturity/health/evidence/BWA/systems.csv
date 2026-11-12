@@ -44,3 +44,5 @@ BWA,Interoperability platform,"Botswana eHealth Interoperability Platform; middl
 BWA,Unique identifier and Master Patient Index,health unique identifier (UID) and Master Patient Index (MPI),exchange,,Ministry of Health and Wellness,planned for all people in Botswana by end 2023; options to be investigated in 2020/21,2019-01-01-bwa-botswana-health-data-collaborative-roadmap-2020-2025
 BWA,National facility register,electronic national facility register,exchange,,Ministry of Health and Wellness,"planned for 2020/21, PEPFAR-funded",2019-01-01-bwa-botswana-health-data-collaborative-roadmap-2020-2025
 BWA,Disease surveillance system,disease surveillance system,single-function,,,not integrated with the routine reporting system; to be reported onto DHIS2,2019-01-01-bwa-botswana-health-data-collaborative-roadmap-2020-2025
+BWA,EMR,electronic medical record (EMR) to be linked to the HIE,emr,,Ministry of Health,,2026-01-26-wb-bwa-heprr-information-systems-2026
+BWA,eIDSR,eIDSR,single-function,,Ministry of Health,,2026-01-26-wb-bwa-heprr-information-systems-2026

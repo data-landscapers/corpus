@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-01-mwi-malawi-launches-upgraded-national-child-protection-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Child Protection Management Information System (CPMIS)",
+   "country_label": "CPMIS",
+   "class": "tracker",
+   "platform": "DHIS2",
+   "owner": "Ministry of Gender, Children, Disability and Social Welfare",
+   "tiers": ""
+  }
+ ],
+ "note": "CPMIS is a child protection case system, not health facility reporting or patient records."
+}

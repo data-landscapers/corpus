@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-02-civ-forum-club-sante-2026-la-disd-fixe-le-cap-de-l-intelligence-artificiel",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Dossier Patient Informatise (DPI)",
+   "country_label": "DPI",
+   "class": "emr",
+   "platform": "",
+   "owner": "DISD, Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "The DPI is stated in more than 541 health facilities with over 2 million patient files, but no tiers, point of digitisation, primary-clinic share, owner or finance of the system is stated."
+}
