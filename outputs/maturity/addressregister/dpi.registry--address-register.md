@@ -23,10 +23,10 @@ The Universal Postal Union's Addressing the World asks every country for a natio
 | 5 Leading | 0 |
 | 4 Operating | 2 |
 | 3 Established | 8 |
-| 2 Nascent | 25 |
+| 2 Nascent | 26 |
 | 1 Absent | 3 |
 | Unplaced | 9 |
-| No evidence | 7 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -173,6 +173,12 @@ An addressing system was under way in 2026; none in service is on record.
 An addressing system was under way in 2026; none in service is on record.
 
 - The first Libyan Experts Forum (23-25 August 2026, Tripoli) recommended expediting implementation of the "Digital Addressing Platform" project, which the Libya Herald reports as a project already being implemented ([source, 2026-08-25](https://libyaherald.com/2026/08/libyan-experts-forum-makes-several-wide-ranging-recommendations-to-support-libya)).
+
+### Madagascar: 2 Nascent
+
+Addressing was under way in Antsiranana in 2024; nothing found says an addressing system is in service.
+
+- L'Express reports the DGI training Antsiranana commune staff in setting up addressing and tax census operations, with drones to be used before building the database ([source, 2024-07](https://www.lexpress.mg/2024/07/antsiranana-des-efforts-pour-booster.html)).
 
 ### Malawi: 2 Nascent
 
@@ -342,12 +348,6 @@ Nothing found names a national addressing system or says there is none, so no st
 Not established: Nothing found names an addressing system, or says there is none.
 
 ### Eritrea: No evidence
-
-Nothing found names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing found names an addressing system, or says there is none.
-
-### Madagascar: No evidence
 
 Nothing found names a national addressing system or says there is none, so no stage is set.
 

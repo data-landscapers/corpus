@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "address",
-   "stage": "no evidence",
-   "addressing": "",
-   "national": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names an addressing system, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "address",
+      "stage": "2",
+      "addressing": "underway",
+      "national": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-001",
+      "gaps": "No source found says an address register or digital addressing system is in service; the only fact is one commune's addressing operation, and nothing says addressing covers the country or is used by other services.",
+      "note": "In July 2024 the tax directorate was training Antsiranana commune staff to set up addressing, so digital addressing is under way in a city, rung 2. Nothing found says a system is in service, which rung 3 needs.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

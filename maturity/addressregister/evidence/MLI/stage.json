@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MLI-001",
-      "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
-      "note": "Reassessed in the rebuild: the tax directorate's addressing application is at its design phase (January 2026); nothing found says it is in service.",
-      "as_at": "2026-10-18"
+      "gaps": "The sources disagree: the land reform secretary said in March 2025 that Ninacad-Adresse covers about 1,500,000 plots, but the tax directorate put the application at its design phase in January 2026. No source found says it is in service, nationwide or used by other services.",
+      "note": "Reassessed on a March 2025 report: the newest fact, the tax directorate's of January 2026, puts the addressing application at its design phase, so it stands at rung 2. Rung 3 needs a system in service, which the newer source does not say.",
+      "as_at": "2026-11-12"
     }
   ]
 }

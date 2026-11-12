@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MLI,address,addressing,coverage,underway,2026-01-08,MLI-001,,
-MLI,address,national,coverage,,,,,nothing held
-MLI,address,used,coverage,,,,,nothing held
+MLI,address,addressing,coverage,inservice,2025-03-10,MLI-002,MLI-001=underway,
+MLI,address,national,coverage,,,,,nothing found
+MLI,address,used,coverage,,,,,nothing found
