@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-04-ken-makueni-county-projects-monitoring-and-tracking-system-pmts-success-st",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "inservice",
+   "fact": "Makueni County Government says its Projects Monitoring and Tracking System, launched in March 2024, has a public dashboard with a feedback tool for citizens to raise concerns or submit comments, managed from the internal dashboard; no count of feedback is given.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Projects Monitoring and Tracking System (PMTS)",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projects Monitoring and Tracking System (PMTS)",
+   "country_label": "Kenya",
+   "class": "feedback",
+   "platform": "web dashboard with SMS and email",
+   "owner": "County Government of Makueni",
+   "tiers": "county"
+  }
+ ],
+ "note": ""
+}

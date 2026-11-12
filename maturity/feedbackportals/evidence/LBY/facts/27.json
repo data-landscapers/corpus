@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-lby-launch-of-national-trade-facilitation-enquiry-platform",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Alwasat reports Libya's Ministry of Economy and Trade launched the National Trade Facilitation Enquiry Point platform (LTFU) after its pilot phase, offering an enquiry and complaints service on obstacles to trade transactions with digital follow-up.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "National Trade Facilitation Enquiry Point (LTFU)",
+   "class": "feedback"
+  }
+ ],
+ "systems": [],
+ "note": "No number of complaints received is given, so no in-service fact."
+}
