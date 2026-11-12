@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-04-tgo-lipdcp-participe-a-linitiative-dipes",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The IPDCP states that law no. 2019-014 on personal data protection (2019) is a law the workshop reviewed and that the IPDCP implements.",
+   "as_of": "2025-07-02",
+   "date_precision": "day",
+   "system": "Loi n°2019-014 sur la protection des données personnelles",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The IPDCP, Togo's personal data protection authority, took part in the workshop on 2 July 2025 and says it ensures implementation of law 2019-014.",
+   "as_of": "2025-07-02",
+   "date_precision": "day",
+   "system": "Instance de Protection des Données à Caractère Personnel (IPDCP)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

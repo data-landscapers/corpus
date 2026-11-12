@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-01-tza-tanzania-public-procurement-regulatory-authority-ppra",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Open Contracting Data Standard publication page for Tanzania's PPRA says personal data protected under the Personal Data Protection Act is excluded from its published data.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Personal Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

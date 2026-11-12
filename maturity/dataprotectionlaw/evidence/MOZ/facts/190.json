@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-23-moz-nao-ha-vazio-legal-para-proteger-direitos-digitais-de-cidadaos-mocambi",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "INTIC's chairman Lourino Chemane said INTIC is coordinating the drafting of proposals including a Personal Data Protection bill.",
+   "as_of": "2024-08-22",
+   "date_precision": "day",
+   "system": "Proposta de Lei de Protecção de Dados Pessoais",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei n.º 3/2017 sobre Transações Eletrónicas",
+   "country_label": "Mozambique",
+   "class": "sectoral",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

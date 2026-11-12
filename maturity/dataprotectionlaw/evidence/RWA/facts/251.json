@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-01-rwa-rwanda-s-suppression-of-information-dissemination",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The ARM project policy brief lists a law on data protection among the laws governing information and communication technologies in Rwanda, saying data protection and localisation laws allow the state access to personal information.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Law on data protection",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "No authority, regulations or application stated."
+}

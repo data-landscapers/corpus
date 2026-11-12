@@ -51,3 +51,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,GAB,gov.legislate--data-protection-legislation,fact,5,5,GAB-012;GAB-013;GAB-014;GAB-016,"AGP, Nov 2026: APDPVP awareness campaign in Port-Gentil; activity, last12 not set, stays 5"
 2026-11-12,KEN,gov.legislate--data-protection-legislation,fact,5,5,KEN-022;KEN-002;KEN-004;KEN-015;KEN-018;KEN-001,"Capital FM, 10 Nov 2026: outgoing Data Commissioner; activity only, no new bulletin, stays 5"
 2026-11-12,UGA,gov.legislate--data-protection-legislation,fact,4,4,UGA-002;UGA-019;UGA-006;UGA-020;UGA-001,"Nile Post, 10 Nov 2026: Auditor General flags URSB date-of-birth exposure as contrary to the Act; no PDPO decision or count, stays 4"
+2026-11-12,KEN,gov.legislate--data-protection-legislation,fact,5,5,KEN-022;KEN-002;KEN-004;KEN-015;KEN-053;KEN-018;KEN-001,"Amnesty Kenya reports ODPC orders against a hospital and an events company in February 2026; stage 5 held, application gap closed"

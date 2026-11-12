@@ -1,0 +1,27 @@
+{
+ "slug": "2024-01-12-ben-contribution-a-la-relecture-du-code-du-numerique",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The lecturer says the Code du numerique (Loi 2017-20 of 20 April 2018, amended 2020, 647 articles) regulates personal data protection in Book 5 and has been applied for five years.",
+   "as_of": "2024-01-12",
+   "date_precision": "day",
+   "system": "Code du numerique",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The deck says the Code names the Autorite de protection des donnees personnelles (APDP) as supervisory authority.",
+   "as_of": "2024-01-12",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-17-zwe-how-zimbabwe-is-suppressing-journalism",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "GroundUp refers to Zimbabwe's Cybersecurity and Data Protection Act (2021), which regulates data and online crime.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Cybersecurity and Data Protection Act 2021",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
