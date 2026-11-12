@@ -5,14 +5,14 @@
       "sub_indicator": "business",
       "stage": "2",
       "system": "underway",
-      "endtoend": "",
+      "endtoend": "endtoend",
       "reported": "",
       "cap": "",
       "flags": "",
       "stage_sources": "MOZ-001;MOZ-002",
-      "gaps": "No source found since October 2023 says: is an e-procurement system in service.",
-      "note": "Rebuild: the government launched an e-GP project in April 2025, to be delivered in phases (MOZ-001, MOZ-002); nothing found says it is in service.",
-      "as_at": "2026-10-23"
+      "gaps": "No source found since the April 2025 e-GP launch says tenders are published or bid online through a system in service. The December 2024 report that most e-procurement in e-SISTAFE is operational (MOZ-006, MOZ-007) is older than the launch and does not say tenders are published or bid online.",
+      "note": "Rebuild: the government launched an e-GP project in April 2025, to be delivered in phases (MOZ-001, MOZ-002), and the newest fact stands over the December 2024 e-SISTAFE statement (MOZ-006); nothing found says tenders are online, so 2.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-09-ben-compte-rendu-du-conseil-des-ministres-du-9-avril-2025",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Council of Ministers of 9 April 2025 adopted the texts for an electronic information and management system for public procurement (commande publique), which the government is putting in place; ministers were instructed to ensure their application.",
+   "as_of": "2025-04-09",
+   "date_precision": "day",
+   "system": "Systeme d'information et de gestion electronique de la commande publique",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Systeme d'information et de gestion electronique de la commande publique",
+   "country_label": "Electronic public procurement system",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Government of Benin",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

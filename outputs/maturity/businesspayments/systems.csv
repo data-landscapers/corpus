@@ -12,6 +12,7 @@ BEN,e-Procurement,Benin,procurement,,DGTCP,,2025-12-29-ben-dgtcp-vendredi-reform
 BEN,SIGMAP,Benin,procurement,,,,2025-12-29-ben-dgtcp-vendredi-reformes-e-procurement
 BEN,SIGMaP,Benin,procurement,web,ARMP,national,2025-10-27-ben-armp-dematerialisation-commande-publique
 BEN,Solution de gestion electronique de la commande publique,Benin,procurement,,ARMP,,2025-06-24-ben-armp-aoi-solution-e-procurement
+BEN,Systeme d'information et de gestion electronique de la commande publique,Electronic public procurement system,procurement,,Government of Benin,,2025-04-09-ben-compte-rendu-du-conseil-des-ministres-du-9-avril-2025
 BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
 BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
 BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques
@@ -58,10 +59,12 @@ ETH,e-GP,electronic government procurement platform,procurement,e-GP,Public Proc
 ETH,e-procurement portal,e-procurement portal,other,,Government of Ethiopia,,2024-09-18-eth-ethiopia-digital-economy
 GAB,Journal des marchés publics,Gabon,procurement,www.lejmp.ga,Direction générale des marchés publics,,2021-12-28-gab-gabonreview-etat-dematerialise-marches-publics
 GAB,SIGFiP,Gabon,procurement,,Ministry of Economy and Finance,,2026-02-01-gab-dgmp-journal-marches-publics-n9-sigfip
+GAB,SIGFiP (Système Intégré de Gestion des Finances Publiques),Gabon,procurement,,Ministry of Economy and Finance,,2025-11-10-gab-copil-sigfip-deuxieme-reunion-module-1
 GHA,GHANEPS,Ghana Electronic Procurement System,procurement,,Public Procurement Authority,,2024-04-26-gha-ppa-clarification-ghaneps-contracts
 GHA,GHANEPS,Ghana Electronic Procurement System,procurement,,Public Procurement Authority,,2023-11-23-gha-ppa-mandatory-use-ghaneps
 GHA,GHANEPS,Ghana,procurement,,Public Procurement Authority,,2025-10-23-gha-icn-finance-ministry-ghaneps-mandatory-from-2026
 GHA,GHANEPS,Ghana Electronic Procurement System,other,,Government of Ghana,,2025-12-11-gha-2026-budget-through-lens-of-communication-digital-transformation
+GHA,GHANEPS,Ghana,procurement,Ghana Electronic Procurement System,Public Procurement Authority,,2025-06-01-gha-ppa-2024-annual-report
 GIN,Telemo,Guinea,procurement,national e-GP platform,Guinean State,,2026-10-08-gin-armp-dgcmp-banque-mondiale-telemo-maps-ii
 GIN,TELEMO,Guinea,procurement,,Government of Guinea,,"2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap"
 GIN,e-Procurement,e-Procurement,procurement,,,,2025-01-14-tcd-rwanda-leads-africa-s-digital-public-finance-transformation
@@ -92,6 +95,7 @@ LBR,e-GP (Electronic Government Procurement),e-GP,procurement,European Dynamics,
 LBR,Electronic Government Procurement (e-GP) System,Liberia,procurement,,PPCC,,2025-10-06-lbr-an-overview-of-the-public-procurement-and-concessions-commission-ppcc
 LBR,e-Government Procurement (e-GP) System,Liberia,procurement,,Public Procurement and Concessions Commission,,2025-09-24-lbr-liberian-companies-benefit-contracts-valued-over-us-12-million
 LBR,Electronic Government Procurement (e-GP) System,Liberia,procurement,,Public Procurement and Concessions Commission,pilot in six entities,2025-01-01-lbr-ppcc-summary-annual-report-year-end-report-2024-as-prepared-for-the-so
+LBR,PPCC e-procurement platform,PPCC e-procurement platform,procurement,,PPCC,,2025-08-19-lbr-liberian-ict-firms-warn-of-sovereignty-risk-in-foreign-dominated-contr
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-cbl-electronic-transactions-865-billion-dinars
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-lby-cbl-governor-banks-moamalat-liquidity-epayment
 LBY,CIPS,Libya,other,China's Cross-Border Interbank Payment System,PBoC,,2026-08-16-chinese-yuan-africa-cips-payment-network
@@ -184,6 +188,7 @@ SLE,Salone e-GP,Sierra Leone,procurement,,National Public Procurement Authority,
 SLE,e-GP Portal,Sierra Leone,procurement,,National Public Procurement Authority,,2026-01-06-sle-nppa-launches-online-e-gp-portal-to-streamline-government-procurement
 SLE,Salone Electronic Government Procurement (e-GP) System,Sierra Leone,procurement,,NPPA,,2026-07-10-sle-nppa-afdb-review-progress-on-sierra-leone-s-public-procurement-reforms
 SLE,eProcurement,eProcurement,procurement,,Government of Sierra Leone,,2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government
+SLE,e-GP system,Sierra Leone,procurement,,Government of Sierra Leone,,2023-12-04-sle-specific-procurement-notice-design-development-customization-supply-in
 SOM,SIPS,Somalia,other,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
 SOM,SOMQR,Somalia,other,QR code standard,,,2026-07-27-somalia-expand-instant-payment-system-hiiraan
 SOM,PAPSS,Somalia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
@@ -223,6 +228,7 @@ TZA,NeST,Tanzania,procurement,,PPRA,,2026-10-28-tza-tanzanias-push-toward-paperl
 TZA,e-procurement,Tanzania,procurement,,,,2025-06-01-tza-wsis-20-country-report-tanzania
 TZA,NeST,Tanzania,procurement,National e-Procurement System of Tanzania,Public Procurement Regulatory Authority,,2026-10-30-tza-digital-shift-boosts-access-to-sh42-6-trillion-tender-market
 TZA,TANePS,Tanzania,procurement,,Government of Tanzania,,2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip
+TZA,NeST,Tanzania,procurement,,PPRA,,2026-05-11-tza-from-bureaucracy-to-bytes-digitalization-reshaping-tanzania-s-procurem
 UGA,e-GP,Electronic Government Procurement (e-GP),procurement,egpuganda.go.ug,PPDA with Ministry of Finance and NITA-U,central,2026-04-01-uga-ppda-press-statement-e-gp-rollout-july-2026
 UGA,eGP 2.0,Uganda,procurement,,"Ministry of Finance, Planning and Economic Development and PPDA",,2026-08-05-uga-monitor-firms-lose-out-egp-online
 UGA,Electronic Government Procurement (EGP),Uganda,procurement,,PPDA,,2026-04-18-uga-monitor-govt-fully-automate-procurement
@@ -251,3 +257,4 @@ ZMB,electronic Government Procurement (e-GP) System,Zambia,procurement,,,,2023-1
 ZWE,electronic Government Procurement (eGP) System,eGP,procurement,eGP platform,Procurement Regulatory Authority of Zimbabwe (PRAZ),,2024-04-21-zwe-herald-10000-register-egp-platform
 ZWE,electronic Government Procurement (e-GP),Zimbabwe,procurement,,PRAZ,,2024-01-18-zwe-herald-egp-system-revolutionises-procurement
 ZWE,electronic Government Procurement (e-GP) system,ZWE,procurement,,Procurement Regulatory Authority of Zimbabwe (PRAZ),all public entities,2025-02-04-zwe-egp-system-upgraded
+ZWE,LADS procurement module,Zimbabwe (Mutare),other,,Mutare City Council,city,2026-06-28-zwe-cscn-peer-learning-clinic-highlights-mutare-s-digital-transformation-j

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-04-sle-specific-procurement-notice-design-development-customization-supply-in",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Government of Sierra Leone's World Bank-funded project issued a procurement notice on 4 December 2023 inviting proposals to design, supply and install an e-GP system, with key features due within 52 weeks.",
+   "as_of": "2023-12-04",
+   "date_precision": "day",
+   "system": "e-GP system",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-GP system",
+   "country_label": "Sierra Leone",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Government of Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-11-tza-from-bureaucracy-to-bytes-digitalization-reshaping-tanzania-s-procurem",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The World Bank says PPRA launched the National e-Procurement System NeST on 1 July 2023, and it is in use.",
+   "as_of": "2023-07-01",
+   "date_precision": "day",
+   "system": "NeST",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "endtoend",
+   "value": "endtoend",
+   "fact": "The World Bank says NeST automates every stage of the procurement cycle, from advertising to contract completion, and links 21 other government systems.",
+   "as_of": "2026-05-11",
+   "date_precision": "day",
+   "system": "NeST",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NeST",
+   "country_label": "Tanzania",
+   "class": "procurement",
+   "platform": "",
+   "owner": "PPRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-10-gab-copil-sigfip-deuxieme-reunion-module-1",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry of Economy and Finance says public procurement management is among the SIGFiP module 1 functions developed to date and due to be deployed from early January 2026.",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "SIGFiP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGFiP (Système Intégré de Gestion des Finances Publiques)",
+   "country_label": "Gabon",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "Not stated in service or online tendering; deployment is due January 2026."
+}

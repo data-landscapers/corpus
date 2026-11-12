@@ -114,3 +114,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-05,KEN,dpi.pay--b2b-and-b2g-functionality,fact,5,5,KEN-013;KEN-002,Treasury said in November 2026 that about KSh 18.3 billion of contracts went through e-GP; stage 5 holds on a value figure
 2026-11-05,MAR,dpi.pay--b2b-and-b2g-functionality,fact,unplaced,3,MAR-004,The October 2026 suspension of the Treasury procurement portal shows bids filed through a portal in service; unplaced to 3
 2026-11-11,EGY,dpi.pay--b2b-and-b2g-functionality,fact,no evidence,2,EGY-001,"Finance minister, Aug 2025: national e-procurement platform nearly complete, not yet operational; being built"
+2026-11-12,MOZ,dpi.pay--b2b-and-b2g-functionality,fact,2,2,MOZ-001;MOZ-002,"Jornal Noticias, Dec 2024: most e-procurement in e-SISTAFE operational and linked to payment; older than the Apr 2025 e-GP launch, and not tenders online; stays 2"
