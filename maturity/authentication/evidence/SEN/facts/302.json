@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-24-sen-digitalisation-de-la-justice-des-services-desormais-accessibles-en-lig",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Justice minister Yacine Fall said the e-justice platform used by Senegal's courts integrates the electronic signature of magistrates and clerks, with traceability and checks of document authenticity.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "e-justice",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-justice",
+   "country_label": "Sénégal",
+   "class": "authentication",
+   "platform": "court case application with e-signature",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

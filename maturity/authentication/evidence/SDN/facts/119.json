@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-sdn-baldna-portal-home-and-login-national-id-sudapass",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Ministry of Digital Transformation and Communications' Baldna platform offers sign-in with the Sudapass digital ID, and its login page opens and signs in accounts via the digital ID.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Sudapass",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudapass",
+   "country_label": "Sudan",
+   "class": "authentication",
+   "platform": "digital ID login",
+   "owner": "Ministry of Digital Transformation and Communications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-tun-sofiene-hemissi-annonce-la-numerisation-de-plusieurs-services-administ",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Tunisia's ICT minister said the El Khadamat app, launched end of August 2026, gives secure unified access to over 40 administrative services through the digital identity.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "El Khadamat digital identity access",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "El Khadamat",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

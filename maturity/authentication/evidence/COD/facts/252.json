@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-19-cod-dr-congo-contracts-trident-to-implement-national-digital-govt-project",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Biometric Update reports Trident signed a collaboration agreement, through the National Intelligence Agency for the Office of the President, to integrate its blockchain-based digital authentication platform into DR Congo's administrative mechanism.",
+   "as_of": "2024-12-19",
+   "date_precision": "day",
+   "system": "Trident digital authentication platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Trident digital authentication platform",
+   "country_label": "DR Congo",
+   "class": "authentication",
+   "platform": "blockchain",
+   "owner": "Trident (vendor), for the Office of the President",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

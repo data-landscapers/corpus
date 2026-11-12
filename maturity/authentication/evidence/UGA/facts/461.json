@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-31-uga-jinja-land-office-backlog-exposes-staffing-infrastructure-gaps-despite",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Monitor quotes the Jinja Registrar of Titles saying UgNLIS is integrated with NIRA's system, which has reduced impersonation in land registration.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "UgNLIS integration with NIRA",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-26-sen-senegal-procasef-sgf-promogef-cadastre-le-futur-de-la-gouvernance-fonc",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "allAfrica reports that the SGF land management system, contracted to ModelSis in December 2023 for an 18-month build, will include an electronic signature mechanism among its modules.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "SGF electronic signature module",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-26-mar-plateforme-epolice-comment-la-dgsn-amorce-sa-transformation-digitale-p",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Le360 reports that the DGSN's Mon identité numérique platform, in use since 2022, authenticates holders of the new NFC-chip CNIE and is integrated into the Epolice portal, where citizens sign in with their card number.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Mon identité numérique",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mon identité numérique",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "NFC chip on CNIE",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

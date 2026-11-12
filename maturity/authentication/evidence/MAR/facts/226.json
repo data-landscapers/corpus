@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-15-mar-morocco-s-justice-ministry-to-integrate-artificial-intelligence-in-cou",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Morocco's Justice Minister said applicants for a nationality certificate can verify their identity online, in a written answer to Parliament reported July 2024.",
+   "as_of": "2024-07-15",
+   "date_precision": "day",
+   "system": "Nationality certificate online service",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nationality certificate online service",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

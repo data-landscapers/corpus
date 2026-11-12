@@ -20,8 +20,8 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 14 |
-| 4 Operating | 14 |
+| 5 Leading | 15 |
+| 4 Operating | 13 |
 | 3 Established | 9 |
 | 2 Nascent | 10 |
 | 1 Absent | 1 |
@@ -50,6 +50,16 @@ People could prove who they are online with a digital ID in 2026.
 
 - The Interior Ministry says Mobile ID, a smartphone digital identity, lets citizens carry out administrative procedures remotely ([source, 2026-02-10](https://interieur.gouv.dj/forum-sur-lidentite-numerique-et-lancement-du-projet-mobile-id/)).
 - The Interior Ministry says partner administrations use Mobile ID's authentication services, without direct access to the databases ([source, 2026-02-10](https://interieur.gouv.dj/forum-sur-lidentite-numerique-et-lancement-du-projet-mobile-id/)).
+
+### Egypt: 5 Leading
+
+From November 2026 citizens proved who they are online in a state identity app for a justice service; how many use it is not known.
+
+- Vetogate reports that citizens prove identity online in the digital identity app by a face scan matched to the biometric record in state databases, to obtain a remote power of attorney through the Digital Egypt platform from 7 November 2026 ([source, 2026-11-07](https://www.vetogate.com/5767586)).
+- Vetogate reports that the Ministries of Justice and of Communications launched on 7 November 2026 a remote power of attorney service that verifies identity through the digital identity app and completes it with an approved electronic signature ([source, 2026-11-07](https://www.vetogate.com/5767586)).
+- Egypt's Public Prosecution announced on 10 September 2026 that access to its electronic portal's personal-status document copy services is limited to users whose identity is verified through the Digital Egypt portal's digital identity ([source, 2026-09-10](https://www.youm7.com/story/2026/9/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A8%D9%88%D8%A7%D8%A8%D8%AA%D9%87%D8%A7/7541763)).
+- The Ministry of Social Solidarity launched on 29 August 2026 phase one of its digital foster-family services system, which the ICT ministry says is linked to the digital identity system so citizens can sign in securely ([source, 2026-08-29](https://www.youm7.com/story/2026/8/29/التضامن-تطلق-أولى-مراحل-منظومة-الخدمات-الرقمية-الخاصة-بالأسر-البديلة/7529204)).
+- The Public Prosecution says its criminal-judgment enquiry service is provided through the enquirer's digital identity system, with the Ministry of Communications and IT, to verify the identity of the person asking ([source, 2026-07-27](https://gate.ahram.org.eg/News/5838334.aspx)).
 
 ### Ethiopia: 5 Leading
 
@@ -176,14 +186,6 @@ Authentication was used across services in 2026; the ID app released in 2025 is 
 - The Directorate for the Modernisation of Administrative Organisation (DMOA) enrolled the mayor of Marcory and the municipality's secretary-general into the public administration electronic signature system on 15 September 2026, with ANSSI present to validate the enrolments ([source, 2026-09-15](https://techafricanews.com/2026/09/18/cote-divoire-expands-electronic-signature-paperless-administration/)).
 - ANSSI CI announced on 24 July 2026 that the national public key infrastructure (PKI) is in service, at the top of the issuing tree for electronic certificates ([source, 2026-07-24](https://www.anssi.ci/)).
 - ANSSI CI states the national PKI is the trust base for all certification authorities operating in Cote d'Ivoire and supports the national electronic trust service providers ([source, 2026-07-24](https://www.anssi.ci/)).
-
-### Egypt: 4 Operating
-
-In 2026 a national digital identity verified users of several government services; no source found reports proving identity online with an app or wallet.
-
-- Egypt's Public Prosecution announced on 10 September 2026 that access to its electronic portal's personal-status document copy services is limited to users whose identity is verified through the Digital Egypt portal's digital identity ([source, 2026-09-10](https://www.youm7.com/story/2026/9/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A8%D9%88%D8%A7%D8%A8%D8%AA%D9%87%D8%A7/7541763)).
-- The Ministry of Social Solidarity launched on 29 August 2026 phase one of its digital foster-family services system, which the ICT ministry says is linked to the digital identity system so citizens can sign in securely ([source, 2026-08-29](https://www.youm7.com/story/2026/8/29/التضامن-تطلق-أولى-مراحل-منظومة-الخدمات-الرقمية-الخاصة-بالأسر-البديلة/7529204)).
-- The Public Prosecution says its criminal-judgment enquiry service is provided through the enquirer's digital identity system, with the Ministry of Communications and IT, to verify the identity of the person asking ([source, 2026-07-27](https://gate.ahram.org.eg/News/5838334.aspx)).
 
 ### Kenya: 4 Operating
 

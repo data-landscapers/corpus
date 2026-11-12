@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-09-egy-22-electronic-notarial-and-real-estate-registry-services",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Vetogate reports that the Ministries of Justice and of Communications launched on 7 November 2026 a remote power of attorney service that verifies identity through the digital identity app and completes it with an approved electronic signature.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Digital identity app",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "Vetogate reports that citizens prove identity online in the digital identity app by a face scan matched to the biometric record in state databases, to obtain a remote power of attorney through the Digital Egypt platform from 7 November 2026.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Digital identity app",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital identity app",
+   "country_label": "Digital identity app",
+   "class": "authentication",
+   "platform": "Digital Egypt platform",
+   "owner": "Ministry of Communications and Information Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

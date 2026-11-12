@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-09-mar-l-ancfcc-fer-de-lance-d-un-cadastre-intelligent-au-service-d-un-etat-p",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "BTPnews reports the land agency ANCFCC has generalised electronic signature in its work, as set out at its board of 8 July 2025.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "ANCFCC electronic signature",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCFCC electronic signature",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "",
+   "owner": "ANCFCC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

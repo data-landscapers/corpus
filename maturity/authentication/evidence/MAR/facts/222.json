@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-24-mar-lematin-bac-2026-validation-donnees-massar",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Moutamadris Tadqiq",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "online education portal",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  }
+ ],
+ "note": "The login is a school portal identity via an institutional email, not stated to be an online check of the national ID."
+}

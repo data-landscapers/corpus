@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-mus-upcoming-projects",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Registrar General's Department says that after the implementation of MAUPASS, the national digital identity platform for individuals, it will extend MAUPASS to give corporate entities a secure identifier for its online systems.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "MAUPASS",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MAUPASS",
+   "country_label": "Mauritius",
+   "class": "authentication",
+   "platform": "national digital identity platform",
+   "owner": "Government of Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
