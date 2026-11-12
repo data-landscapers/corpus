@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-04-mrt-ami-ministerial-meeting-justice-digitisation-projects",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "AMI reports that the justice ministry, the digital transformation ministry and ANRPTS are jointly working on digitising the criminal justice chain and the commercial justice chain from case registration to judgment, appeal and cassation.",
+   "as_of": "2025-02-04",
+   "date_precision": "day",
+   "system": "Criminal and commercial justice chain digitisation",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Criminal and commercial justice chain digitisation",
+   "country_label": "Digitisation of the criminal and commercial justice chains",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

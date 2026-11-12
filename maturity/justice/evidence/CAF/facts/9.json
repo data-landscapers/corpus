@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-30-caf-la-cour-penale-speciale-accelere-la-modernisation-de-sa-gestion-docume",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GED",
+   "country_label": "Electronic document management chain, Cour penale speciale",
+   "class": "other",
+   "platform": "",
+   "owner": "Cour penale speciale",
+   "tiers": ""
+  }
+ ],
+ "note": "The handed-over system is electronic document management for the Special Criminal Court's archives, not case registration or scheduling."
+}

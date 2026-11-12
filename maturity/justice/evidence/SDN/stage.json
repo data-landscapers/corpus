@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "unplaced",
-      "cases": "",
+      "stage": "1",
+      "cases": "none",
       "filing": "",
       "public": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "The only rows, a court computerisation project, date from 2016. Nothing since November 2023 says how courts manage their cases.",
-      "note": "SDN-001 and SDN-002 are from 2016, outside the window, and no later row says anything on the questions. Unplaced.",
-      "as_at": "2026-11-11"
+      "stage_sources": "SDN-003",
+      "gaps": "The 2016 court computerisation rows are outside the window; nothing since says a system was rebuilt after the war.",
+      "note": "In July 2024 a former prosecutor said the judiciary keeps paper registers and forms with no electronic archive, and a former judge that courts hold no scans of case files (SDN-003). That is the dated statement of absence stage 1 asks for.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -22,11 +22,11 @@ The African Commission's Fair Trial Principles ask for systems recording proceed
 |---|---|
 | 5 Leading | 7 |
 | 4 Operating | 6 |
-| 3 Established | 7 |
-| 2 Nascent | 20 |
-| 1 Absent | 0 |
+| 3 Established | 8 |
+| 2 Nascent | 21 |
+| 1 Absent | 1 |
 | Unplaced | 4 |
-| No evidence | 10 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -135,6 +135,12 @@ Some courts handled cases electronically in 2024, though use was limited; online
 Courts had a case management system by 2024; online filing is not on record.
 
 - UNDP says SIGAJ, a system for managing judicial cases, was among four digital systems introduced in DRC's justice sector over 2020-2024 ([source, 2024](https://www.undp.org/fr/drcongo/actualites/transition-de-la-justice-congolaise-lalliance-onu-suede-au-service-de-letat-de-droit)).
+
+### Libya: 3 Established
+
+Prosecutors had entered 1.2 million cases, with hearings and judgments, in a digital system by 2026; no online filing has been found.
+
+- Dr Khalifa Ashour of the Attorney General's Office says over 1.2 million cases since 1994 are entered with all documents in its digital transformation system, and since 2025 hearings, judgments and appeals are entered too ([source, 2026-11-04](https://www.vetogate.com/5764136)).
 
 ### Madagascar: 3 Established
 
@@ -273,6 +279,12 @@ An e-justice platform served certificates in 2026, with case files to follow; no
 - UNDP, with Dutch support, handed Mali's Ministry of Justice laptops, tablets and modems worth USD 493,193 on 5 November 2026 to equip the operationalisation of its e-justice platform ([source, 2026-11-05](https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html)).
 - Justice Minister Mamoudou Kassogue said on 5 November 2026 that the ministry is operationalising a national e-justice platform whose first services are digital criminal-record extracts and nationality certificates, with later features to cover case processing ([source, 2026-11-05](https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html)).
 
+### Mauritania: 2 Nascent
+
+Ministries were digitising criminal and commercial case handling in 2025; no court is known to run cases on it yet.
+
+- AMI reports that the justice ministry, the digital transformation ministry and ANRPTS are jointly working on digitising the criminal justice chain and the commercial justice chain from case registration to judgment, appeal and cassation ([source, 2025-02-04](https://www.ami.mr/archives/219925)).
+
 ### Namibia: 2 Nascent
 
 The Supreme Court was still on paper in 2025, with e-justice being extended; none in service there is on record.
@@ -298,6 +310,12 @@ A case system for all court levels was being built in 2025; none in service is o
 
 - Synergy International Systems says the Judiciary of Zambia is developing, with Treasury funding, an Electronic Case Management System to connect the Supreme, Constitutional, Appeal, High and Subordinate Courts, and that it currently relies on manual processes ([source, 2025-01-20](https://www.synisys.com/news/zambia-electronic-case-management-system/)).
 
+### Sudan: 1 Absent
+
+In 2024 Sudan's courts kept paper registers and no scanned case files; no later case management system has been found.
+
+- Atar reports a former prosecutor saying Sudan's judiciary has not adopted electronic archiving and still keeps paper registers and forms, and a former judge saying the courts hold no scans of case files, only litigant names and case numbers and types ([source, 2024-07-18](https://atarnetwork.com/?p=2097)).
+
 ### Cameroon: Unplaced
 
 Nothing found since 2023 says how courts manage their cases, so no stage is set.
@@ -310,17 +328,17 @@ Nothing found since 2023 says how courts manage their cases, so no stage is set.
 
 Not established: The only row, a High Court case management system, dates from 2001. Nothing since November 2023 says how courts manage their cases.
 
+### Mozambique: Unplaced
+
+The Supreme Court launched an online portal of court decisions in 2026; nothing found on court case management, so no stage is set.
+
+Not established: No source found since November 2023 says a court case management system is under way or in service; the only row is the Supreme Court's portal of decisions.
+
 ### Sierra Leone: Unplaced
 
 Nothing found since 2023 says how courts manage their cases, so no stage is set.
 
 Not established: The Justice App's case figures are dated 2022 and the 2017 app pilot is older. Nothing since November 2023 says how courts manage their cases.
-
-### Sudan: Unplaced
-
-Nothing found since 2023 says how courts manage their cases, so no stage is set.
-
-Not established: The only rows, a court computerisation project, date from 2016. Nothing since November 2023 says how courts manage their cases.
 
 ### Central African Republic: No evidence
 
@@ -347,24 +365,6 @@ Nothing found names a court case management system or says there is none, so no 
 Not established: Nothing found says how courts manage their cases.
 
 ### Guinea-Bissau: No evidence
-
-Nothing found names a court case management system or says there is none, so no stage is set.
-
-Not established: Nothing found says how courts manage their cases.
-
-### Libya: No evidence
-
-Nothing found names a court case management system or says there is none, so no stage is set.
-
-Not established: Nothing found says how courts manage their cases.
-
-### Mauritania: No evidence
-
-Nothing found names a court case management system or says there is none, so no stage is set.
-
-Not established: Nothing found says how courts manage their cases.
-
-### Mozambique: No evidence
 
 Nothing found names a court case management system or says there is none, so no stage is set.
 

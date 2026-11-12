@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-16-tgo-plateforme-saisine-en-ligne-cour-arbitrage-du-togo-cato",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CATO online filing platform",
+   "country_label": "Plateforme de saisine en ligne de la CATO",
+   "class": "other",
+   "platform": "",
+   "owner": "Cour d'Arbitrage et de mediation du Togo",
+   "tiers": ""
+  }
+ ],
+ "note": "The platform serves the arbitration and mediation court, not the state courts' case management, so it is other."
+}

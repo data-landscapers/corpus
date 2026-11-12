@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-lby-vetogate-attorney-general-1-2m-cases-digital-system",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Dr Khalifa Ashour of the Attorney General's Office says over 1.2 million cases since 1994 are entered with all documents in its digital transformation system, and since 2025 hearings, judgments and appeals are entered too.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "digital transformation system (Attorney General's Office)",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital transformation system (Attorney General's Office)",
+   "country_label": "Libya",
+   "class": "justice",
+   "platform": "",
+   "owner": "Attorney General's Office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

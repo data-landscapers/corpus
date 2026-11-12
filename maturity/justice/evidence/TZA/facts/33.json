@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-17-tza-gn-609-2025-electronic-filing-amendment-rules",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "Government Notice 609 of 2025, signed by the Chief Justice on 16 October 2025, amends the Electronic Filing Rules so a document filed electronically is deemed filed on its filing date once the court fee is paid within seven days of the bill, and is otherwise rejected.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "Electronic filing",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic filing",
+   "country_label": "Judiciary electronic filing under the Electronic Filing Rules",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

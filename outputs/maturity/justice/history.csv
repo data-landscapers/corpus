@@ -82,3 +82,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,EGY,dpi.mis--justice,fact,3,4,EGY-001;EGY-002;EGY-004,A disciplinary suit filed fully electronically under the Council of State's e-litigation pilot answers question 3
 2026-11-12,GHA,dpi.mis--justice,fact,2,4,GHA-003;GHA-004,"About 75,829 cases on e-justice by January 2025 and lawyers filing online answer questions 2 and 3"
 2026-11-12,TUN,dpi.mis--justice,fact,2,3,TUN-003,The Administrative Tribunal's Selim system in all its chambers answers question 2
+2026-11-12,LBY,dpi.mis--justice,fact,no evidence,3,LBY-001,"Attorney General's Office says 1.2 million cases, hearings and judgments are in its digital system (Nov 2026): case management in service in one tier"
+2026-11-12,MOZ,dpi.mis--justice,fact,no evidence,unplaced,,"Supreme Court launched a portal of court decisions (Oct 2026); no case management row, so unplaced"
+2026-11-12,MRT,dpi.mis--justice,fact,no evidence,2,MRT-001,Ministries digitising the criminal and commercial justice chains (Feb 2025): a system being built
+2026-11-12,SDN,dpi.mis--justice,fact,unplaced,1,SDN-003,Former prosecutor and judge say courts keep paper registers and no scanned files (Jul 2024): dated statement of absence

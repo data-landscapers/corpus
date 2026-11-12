@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "no evidence",
-   "cases": "",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says how courts manage their cases.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "3",
+      "cases": "inservice",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-001",
+      "gaps": "No source found since November 2023 says cases can be filed with the courts online, or that judgments or case status are published online.",
+      "note": "The Attorney General's Office says in November 2026 that over 1.2 million cases, and since 2025 hearings and judgments, are entered in its digital system (LBY-001), so case management is in service in one tier. Nothing found on online filing, so stage 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

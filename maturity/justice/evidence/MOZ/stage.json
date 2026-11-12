@@ -1,17 +1,18 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "no evidence",
-   "cases": "",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says how courts manage their cases.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "unplaced",
+      "cases": "",
+      "filing": "",
+      "public": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found since November 2023 says a court case management system is under way or in service; the only row is the Supreme Court's portal of decisions.",
+      "note": "MOZ-001 answers question 4 alone; with no case management system under way, no step of the ladder is met. Unplaced.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }
