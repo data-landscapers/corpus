@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-03-egy-charting-egypt-s-path-to-responsible-ai-insights-from-the-multi-stakeh",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "A2K4D at the American University in Cairo, through its MENA Observatory on Responsible AI, held a multistakeholder roundtable on responsible AI in Egypt on 4 May 2025.",
+   "as_of": "2025-05-04",
+   "date_precision": "day",
+   "system": "MENA Observatory on Responsible AI",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MENA Observatory on Responsible AI",
+   "country_label": "A2K4D, American University in Cairo",
+   "class": "research",
+   "platform": "",
+   "owner": "American University in Cairo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

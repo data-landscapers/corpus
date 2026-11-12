@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "research",
-   "stage": "no evidence",
-   "research": "",
-   "policy": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether local institutions research digital policy.",
-   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "research",
+      "stage": "2",
+      "research": "begun",
+      "policy": "",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-004;EGY-003",
+      "gaps": "No source found since November 2023 says a local institution has published research on digital policy.",
+      "note": "Reassessed 2026-11-12, no evidence to 2: A2K4D at the American University in Cairo held a roundtable on responsible AI in Egypt on 4 May 2025 through its MENA Observatory (EGY-004), so question 1 is met. No research on digital policy published by a local institution since November 2023 is held, so not 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

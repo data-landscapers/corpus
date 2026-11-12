@@ -5,13 +5,13 @@
       "sub_indicator": "research",
       "stage": "2",
       "research": "begun",
-      "policy": "",
+      "policy": "contributed",
       "standing": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-001",
-      "gaps": "No source found since October 2023 says: does a local institution publish on it.",
-      "note": "The July 2026 West Africa Feminist Data Summit, inside the window, shows digital policy research begun. No research published by a local institution since October 2023 is held, so not 3.",
+      "stage_sources": "BEN-001;BEN-002;BEN-004",
+      "gaps": "No source found since November 2023 says a local institution has published research on digital policy.",
+      "note": "Reassessed 2026-11-12, stays 2: a University of Abomey-Calavi researcher's critique of the Code du numerique at the National Assembly's workshop of 12 January 2024 (BEN-003) answers question 3, but no research published by a local institution is held, so question 2 is not met and each step must be met to progress.",
       "as_at": "2026-11-12"
     }
   ]

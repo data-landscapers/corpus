@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-13-egy-egypt-s-pm-overhauls-decision-making-centre-with-high-profile-expert-b",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "Prime Minister Moustafa Madbouly appointed a new board for the Information and Decision Support Centre (IDSC), described as a think tank affiliated with the Cabinet, to guide its research agenda with an emphasis on digital transformation and AI-driven policy analysis.",
+   "as_of": "2025-03-13",
+   "date_precision": "day",
+   "system": "Information and Decision Support Centre (IDSC)",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": "The IDSC is a Cabinet body; no publication on digital policy is stated."
+}

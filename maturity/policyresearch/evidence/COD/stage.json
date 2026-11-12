@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "research",
-      "stage": "2",
-      "research": "begun",
+      "stage": "3",
+      "research": "publishing",
       "policy": "",
       "standing": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-003;COD-001",
-      "gaps": "No source found since October 2023 says: does a local institution publish on it.",
-      "note": "The CRESH conference of July 2024 and the CES-UDPS morning of September 2025, inside the window, shows digital policy research begun. No research published by a local institution since October 2023 is held, so not 3.",
+      "stage_sources": "COD-004;COD-003;COD-001",
+      "gaps": "No source found since November 2023 says local research fed a digital policy, law or strategy.",
+      "note": "Reassessed 2026-11-12, 2 to 3: Think Tank Law and Technologies published its study of the DRC's data protection law in Kinshasa on 6 August 2024 (COD-004), so question 2 is met. Its recommendations to government were made in public, not to a consultation or on commission, so not 4.",
       "as_at": "2026-11-12"
     }
   ]

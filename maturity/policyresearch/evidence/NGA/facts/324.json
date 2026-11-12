@@ -1,0 +1,27 @@
+{
+ "slug": "2024-04-01-nga-partnerships-will-ensure-inclusivity-for-nigeria-s-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "Luminate says the AI Collective, run by Data Science Nigeria, Lagos Business School and the Centre for Journalism, Innovation and Development, covers governance, research and innovation, with CJID coordinating AI governance work and LBS leading knowledge building and the National AI Research Scheme.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "AI Collective",
+   "class": "research"
+  },
+  {
+   "sub_indicator": "research",
+   "aspect": "policy",
+   "value": "contributed",
+   "fact": "The AI Collective of local institutions is described as charged with supporting development of Nigeria's national AI strategy, with LBS saying it will support evidence-based AI policies.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "AI Collective",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

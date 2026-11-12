@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "research",
-   "stage": "no evidence",
-   "research": "",
-   "policy": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether local institutions research digital policy.",
-   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "research",
+      "stage": "2",
+      "research": "begun",
+      "policy": "",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-001",
+      "gaps": "No source found since November 2023 says a local institution has published research on digital policy.",
+      "note": "Reassessed 2026-11-12, no evidence to 2: the University of Seychelles' research institute ESRI held a workshop on 22 October 2026 on AI's role in educational policy (SYC-001), so question 1 is met. No published research by a local institution is held, so not 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

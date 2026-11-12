@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-uga-advancing-inclusive-and-contextually-relevant-ai-policies-in-uganda",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "The Centre for Multilateral Affairs, a Kampala-based think tank, published a January 2025 policy brief on inclusive AI governance in Uganda.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "CfMA policy brief on AI governance",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

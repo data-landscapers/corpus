@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-12-dji-atelier-scientifique-sur-l-intelligence-artificielle-l-innovation-au-c",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "The University of Djibouti's Faculty of Engineering hosted a scientific workshop on 9 July 2026, organised by its AI Research Laboratory (LaRIA), on research applications of AI in health, environment and climate resilience.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "Laboratoire de Recherche en Intelligence Artificielle (LaRIA)",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": "The workshop is on AI applications, not stated to concern digital policy."
+}
