@@ -1,12 +1,12 @@
 ---
 title: Madagascar: status report
-compiled: 2026-11-10
+compiled: 2026-11-12
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 268
+sources_cited: 270
 sections_written: 39
 not_established: 1
 acquire_lines: 25
@@ -239,7 +239,7 @@ Madagascar's national data exchange went live on 28 April 2026: [Rahaka is built
 
 [On 5 February 2026 the social registry's technical committee set a September 2026 completion target](https://prea.gov.mg/prea/rsu-reunion-du-comite-technique-une-etape-cle-pour-la-poursuite-du-projet/). [By September 2026 the registry covered about 2.7 million households, nearly 12 million people](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/). [A new survey was extending it into urban areas](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/). [Its designed linkage to the identity system is not operational](https://www.worldbank.org/en/news/press-release/2023/02/06/madagascar-to-expand-access-to-social-protection-for-extremely-poor-households-thanks-to-250-million-in-world-bank-finan).
 
-[Only around 7% of the country is formally titled](https://tenuresecurity.org/country-profile/madagascar/), and [1,518,000 local land certificates had been registered as at October 2024](https://newsmada.com/2024/10/31/nouveau-pnf-ii-1-518-000-certificats-fonciers-enregistres/). [The National Land Programme's 2026 documentation confirms that no integrated national land information system exists](https://observatoire-territoire.mg/publications/programme-national-foncier-ii/).
+[Only around 7% of the country is formally titled](https://tenuresecurity.org/country-profile/madagascar/), and [1,518,000 local land certificates had been registered as at October 2024](https://newsmada.com/2024/10/31/nouveau-pnf-ii-1-518-000-certificats-fonciers-enregistres/). [The National Land Programme's 2026 documentation confirms that no integrated national land information system exists](https://observatoire-territoire.mg/publications/programme-national-foncier-ii/). [In April 2025 the land ministry announced one for five pilot regions](https://newsmada.com/2025/04/17/mdat-deploiement-progressif-du-systeme-dinformation-fonciere/).
 
 [The electoral commission is rebuilding the voter register under Decree No. 2026-942 of April 2026, for completion by April 2027](https://www.ceni-madagascar.mg/election/). [By 16 October 2026 it had provisionally registered 7,163,714 adults, 93.23% of them door to door](https://www.lexpress.mg/2026/10/refonte-de-la-liste-electorale-plus-de.html). [In October 2026 Japan and UNDP gave it US$750,000 of data equipment to prepare a biometric list](https://newsmada.com/2026/10/24/liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-terrain/). [The Gendarmerie is building a secure digital Fichier Central with UNDP support, with fingerprint comparison and facial recognition planned](https://www.undp.org/fr/madagascar/blog/quand-le-numerique-renforce-letat-de-droit-le-nouveau-fichier-central-de-la-gendarmerie-transforme-les-enquetes-madagascar).
 
@@ -279,7 +279,7 @@ At least six distinct sectoral information systems are in service or in rollout 
 
 [The World Bank-financed MIONJO project launched its District 2.0 arrangement in Anosy and Androy on 1 June 2026, and in Atsimo Andrefana on 4 June](https://fr.linkedin.com/posts/mionjo_projetmionjo-transformationnumerique-gouvernancelocale-activity-7469094232499052544-AIzm). [It handed servers to territorial authorities and trained communal officials in digital literacy and the e-Zaha platform](https://fr.linkedin.com/posts/mionjo_projetmionjo-transformationnumerique-gouvernancelocale-activity-7469094232499052544-AIzm). [The stated purpose of e-Zaha is better quality, reliability and completeness of commune-level data](https://fr.linkedin.com/posts/mionjo_projetmionjo-transformationnumerique-gouvernancelocale-activity-7469094232499052544-AIzm).
 
-[On 19 February 2025 PRODUIR's MATAC/Hanorina phase 2 put computers, printers, scanners and internet boxes into 38 communes of Greater Antananarivo](https://www.produir-madagascar.mg/remise-des-materiels-informatiques-et-techniques-dans-le-cadre-de-matac-hanorina-phase-2/). [The equipment served one process, digitalised building-permit authorisation](https://www.produir-madagascar.mg/remise-des-materiels-informatiques-et-techniques-dans-le-cadre-de-matac-hanorina-phase-2/).
+[On 19 February 2025 PRODUIR's MATAC/Hanorina phase 2 put computers, printers, scanners and internet boxes into 38 communes of Greater Antananarivo](https://www.produir-madagascar.mg/remise-des-materiels-informatiques-et-techniques-dans-le-cadre-de-matac-hanorina-phase-2/). [The equipment served one process, digitalised building-permit authorisation](https://www.produir-madagascar.mg/remise-des-materiels-informatiques-et-techniques-dans-le-cadre-de-matac-hanorina-phase-2/). [In February 2024 the urban commune of Mahajanga began using local-revenue and taxpayer-registration software](https://www.lexpress.mg/2024/02/commune-urbaine-de-mahajanga-logiciel.html).
 
 [The Orinasa online business-creation platform has run at EDBM's Manakara office since July 2025](https://newsmada.com/2026/05/26/investissement-prive-ledbm-sinstalle-a-manakara/). [By December 2025 SIECM civil-registration digitisation had covered a minority of its target communes](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). [SII-CSB user training began at Fianarantsoa on 18 February 2026 for three regions, with a national rollout announced but not dated](https://prea.gov.mg/dotation-csb/lancement-officiel-atelier-de-renforcement-de-la-gestion-des-dotations-csb-et-subgrant/).
 
