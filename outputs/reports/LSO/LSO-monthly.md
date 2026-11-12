@@ -1,11 +1,11 @@
 ---
 title: Lesotho — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: LSO
-ledger_rows: 9
+ledger_rows: 10
 not_held: 4
-record: 6a3c414973e9
+record: 11600e2766ac
 ---
 
 # News, Oct – Nov 2026
@@ -73,6 +73,20 @@ Vodacom Lesotho launched a managed satellite internet service for businesses and
 **[Paratus Lesotho opens for business with Starlink](https://www.itweb.africa/article/paratus-lesotho-opens-for-business-with-starlink/mQwkoM6Y5yX73r9A)** — ITWeb Africa, 5 November 2026
 
 Paratus Group launched Paratus Lesotho, a joint venture with Real Image Lesotho, on 5 November 2026. It is an authorised Starlink reseller. It offers satellite connectivity to businesses outside fibre coverage.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Observed price of a gigabyte of mobile data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lesotho Mobile Data Cost](https://datamatrix.co.ls/research/data-cost/)** — Data Matrix, 6 November 2026
+
+1 GB at M32.75 on flagship bundles, November 2026; small bundles 24% dearer per GB.
 
 </div>
 
