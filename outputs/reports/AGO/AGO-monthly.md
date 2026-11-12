@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: AGO
-ledger_rows: 27
+ledger_rows: 29
 not_held: 6
-record: f44f80ca6d56
+record: 547838835bb9
 ---
 
 # News, Oct – Nov 2026
@@ -38,6 +38,8 @@ record: f44f80ca6d56
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -127,6 +129,44 @@ Angola's data protection agency publishes its register of fines: 15 sanctions be
 **[Tanzania expresses interest in using Angola’s ANGOSAT-2 satellite services](https://techreviewafrica.com/news/8072/tanzania-expresses-interest-in-using-angolas-angosat-2-satellite-services)** — Tech Review Africa, 31 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
 Angola and Tanzania signed a memorandum of understanding on telecommunications and ICT in Dar es Salaam during Angolan President João Lourenço's state visit (reported October 2026). Tanzania seeks access to ANGOSAT-2 satellite services and to Angolan Earth-observation and geospatial applications for mining, agriculture and logistics. No value was published.
+
+</div>
+
+</div>
+
+### Public debate and participation in policymaking
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet disruption on the 19 July 2025 protest day</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa's governments already treat the internet as protest infrastructure. Its courts have not caught up](https://globalvoices.org/2026/10/07/africas-governments-already-treat-the-internet-as-protest-infrastructure-its-courts-have-not-caught-up/)** — Global Voices, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+ECOWAS Court's 2025 Senegal ruling never reached the assembly claim; Angola's first shutdown came ten weeks later.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Criminal defamation prosecutions of journalists</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Criminal defamation threat hangs over dozens of Angolan journalists ahead of 2027 vote](https://cpj.org/2026/10/criminal-defamation-threat-hangs-over-dozens-of-angolan-journalists-ahead-of-2027-vote/)** — Committee to Protect Journalists, 8 October 2026
+
+38 journalists probed for defamation since 2015, over 200 cases; Reporter Angola editor given 14 months on 2 Oct 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Law on False Information on the Internet adopted; use of criminal defamation to intimidate journalists](https://monitor.civicus.org/explore/law-on-false-information-on-the-internet-adopted-activists-and-journalists-detained-prosecuted/)** — CIVICUS Monitor, 31 October 2026
+
+Fake-news law adopted 21 May 2026, in force 4 Aug; Constitutional Court struck parts of 2024 vandalism law, Dec 2025.
 
 </div>
 
