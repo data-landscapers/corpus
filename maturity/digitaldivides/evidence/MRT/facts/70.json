@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-23-mrt-porte-parole-du-gouvernement-la-decision-de-couper-l-internet-est-soum",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Mauritania's digital transformation minister said in July 2024 that the border-area coverage project, covering more than 200 villages and inaugurated by the President at Kaedi, had all four components completed; the document's date is used, as its completion date reads 26 July of an unstated year.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "Border-area coverage project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Border-area coverage project",
+   "country_label": "Mauritania",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
