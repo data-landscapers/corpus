@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d454df564b0e
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: b8019693ecc8
 ---
 
 # News, Oct – Nov 2026
@@ -88,6 +88,8 @@ record: d454df564b0e
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-sudan">South Sudan</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
@@ -156,6 +158,20 @@ The Ministry of Internal Trade opened an online consumer portal at tawassol.comm
 **[High Commission for Digitization Trains Officials in Electronic Verification](https://dzwatch.dz/en/algeria/high-commission-for-digitization-trains-officials-in-electronic-verification)** — DZ Watch, 3 November 2026
 
 Algeria's High Commission for Digitization trained information system officials in verifying documents issued through the national government services portal. Administrations can then accept those documents without asking citizens for new paper copies.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Dzair Digital Services national portal (single window)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Portail numérique: Les documents en ligne désormais reconnus](https://www.echoroukonline.com/portail-numerique-les-documents-en-ligne-desormais-reconnus)** — Echorouk El Yawmi, 11 November 2026
+
+Algeria's High Commission for Digitisation said all public administrations now accept documents issued on the Dzair Digital Services portal. A decision of Prime Minister Sifi Ghrieb requires it. The portal has grown from 21 services at its July 2026 launch to 68. It had over two million registered users on 10 November 2026.
 
 </div>
 
@@ -517,6 +533,20 @@ Afrimag reported on Côte d'Ivoire's digital administration plans to 2029. It ci
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital one-stop window for tourism and leisure (SGAT)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Administration touristique : Les opérateurs pourront désormais effectuer leurs démarches en ligne](https://www.linfodrome.com/societe/127482-administration-touristique-les-operateurs-pourront-desormais-effectuer-leurs-demarches-en-ligne)** — Linfodrome, 11 November 2026
+
+Côte d'Ivoire's Ministry of Tourism and Leisure launched a digital one-stop shop for tourism operators on 10 November 2026. Operators can file and pay for administrative procedures online and track them against a 45-day maximum processing time. It is the first component of the tourism activity management system, piloted in four regional directorates (Linfodrome, 11 November 2026).
+
+</div>
+
+</div>
+
 ## Djibouti
 
 <div class="monthly-story" markdown="1">
@@ -660,6 +690,22 @@ Egypt's electricity distribution companies lost sight of citizens' service reque
 **[أبرز خدمات الشهر العقاري أونلاين، استخراج التوكيلات والاستعلام عن المعاملات وحجز موعد عبر مصر الرقمية](https://www.vetogate.com/5748525)** — فيتو (Vetogate), 11 October 2026
 
 Egypt's Digital Egypt platform now offers notarisation and real-estate registry services online. Citizens can draft powers of attorney, check the status of computerised transactions, look up registered contracts, book appointments at notary offices and request a mobile notary unit.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[22 خدمة إلكترونية للشهر العقاري، أبرزها التوكيلات والإقرارات](https://www.vetogate.com/5767586)** — بوابة فيتو, 9 November 2026
+
+Vetogate reported on 9 November 2026 that Egypt's Digital Egypt platform offers about 22 notarial and real estate registry services. Of these, 16 are notarisation services and 6 are real estate registry services, including official powers of attorney and declarations. The Ministry of Justice is expanding the mechanisation of these transactions to cut crowding at notary offices.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[بصمة الوجه وشهادة توقيع.. آلية التحقق من الهوية عند إصدار التوكيلات عن بُعد](https://www.youm7.com/story/2026/11/11/%D8%A8%D8%B5%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D8%AC%D9%87-%D9%88%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A2%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1/7612009)** — Youm7, 11 November 2026
+
+Egypt's remote general power-of-attorney service on the Digital Egypt platform checks a face scan from the digital identity app against state biometric records. It then issues a one-time remote e-signature certificate for each transaction, on infrastructure built by ITIDA, Youm7 reported on 11 November 2026. The launch date has not been stated.
 
 </div>
 
@@ -1040,6 +1086,20 @@ Ghana will require every arriving traveller to file an online Mandatory Health D
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Petroleum Commission digital permit application platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana Petroleum Commission introduces Digital Permit Platform to improve oil sector operations](https://www.myjoyonline.com/ghana-petroleum-commission-introduces-digital-permit-platform-to-improve-oil-sector-operations/)** — MyJoyOnline, 11 November 2026
+
+Ghana's Petroleum Commission introduced a Digital Permit Application Platform to replace paper permit applications in the upstream petroleum sector. Chief executive Emeafa Hardcastle announced it at the Commission's 2026 Local Content Conference in Takoradi (MyJoyOnline, 11 November 2026).
+
+</div>
+
+</div>
+
 ## Guinea
 
 <div class="monthly-story" markdown="1">
@@ -1370,6 +1430,20 @@ Libya's Audit Bureau presented its Athar platform for managing and following up 
 **[مصلحة الجوازات تتلقى 773 طلباً للحصول على التأشيرات الإلكترونية خلال أسبوع](https://lana.gov.ly/post.php?id=368841&lang=ar)** — Libyan News Agency (LANA), 29 October 2026
 
 Libya's Passports, Nationality and Foreigners Affairs Authority received 773 e-visa applications from 78 nationalities between 23 and 29 October 2026. It approved 610 and refused 65, and 98 were still pending.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National trade facilitation enquiry point (LTFU)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[إطلاق منصة إلكترونية جديدة لتسهيل التجارة الخارجية في ليبيا](https://alwasat.ly/news/484587)** — Alwasat (Bawabat Al-Wasat), 10 November 2026
+
+Libya's Ministry of Economy and Trade launched the National Trade Facilitation Enquiry Point platform after its pilot phase, reported on 10 November 2026. It is run with the Libya Trade Network. It covers 53 import, export and transit procedures, 140 laws and decisions, 32 international agreements, 1,030 standards and 10 customs ports, and takes online enquiries and complaints.
 
 </div>
 
@@ -2209,6 +2283,22 @@ South Africa's Electoral Commission used 56,000 voter management devices in the 
 
 </div>
 
+## South Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">eServices.gov.ss single government account</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[eServices Account: Government Services \[South Sudan\] - Government Ministries & Agencies and their services](https://accounts.eservices.gov.ss/mdas)** — Government of South Sudan (eServices portal), 11 November 2026
+
+South Sudan's eServices portal listed 14 ministries and agencies on 11 November 2026. The National Communication Authority offered 22 online services, including licence and type-approval applications, and the Revenue Authority's customs division offered permit and licence applications.
+
+</div>
+
+</div>
+
 ## Sudan
 
 <div class="monthly-story" markdown="1">
@@ -2221,6 +2311,14 @@ South Africa's Electoral Commission used 56,000 voter management devices in the 
 **[السودان يؤكد من قمة الأمم المتحدة للابتكار في الحوكمة أن التحول الرقمي محرك أساسي لإعادة الإعمار](https://www.suna.sd/posts/alsodan-yokd-mn-km-alamm-almthd-llabtkar-fy-alhokm-an-althol-alrkmy-mhrk-asasy-laaaad-alaaamar)** — Sudan News Agency (SUNA), 6 November 2026
 
 Sudan's Digital Transformation Authority told the UN Governance Innovation Summit in Baku on 6 November 2026 that the Baladna platform carries 134 digital services from more than 46 government institutions (SUNA). It described a services-first, legislation-second approach. It presented digital transformation as part of post-war reconstruction.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[منصة بلدنا - الرئيسية وصفحة تسجيل الدخول (Baldna platform home and login pages)](https://baldna.gov.sd/)** — وزارة التحول الرقمي والاتصالات (Ministry of Digital Transformation and Communications, Sudan), 11 November 2026
+
+Sudan's Baldna portal is run by the Ministry of Digital Transformation and Communications. Users log in with the national digital identity, SudaPass. On 11 November 2026 its home page showed 48 government institutions and 141 digital services. It reported more than 265,000 completed transactions.
 
 </div>
 

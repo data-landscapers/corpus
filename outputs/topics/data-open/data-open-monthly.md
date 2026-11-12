@@ -1,10 +1,10 @@
 ---
 title: Open data — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: data.open
-places: BFA; TCD; GMB; GNB; KEN; MDG; MUS; SLE; TUN; ZWE
-record: 0022142f3b71
+places: BFA; TCD; GMB; GNB; KEN; LBY; MDG; MUS; SEN; SLE; TGO; TUN; ZWE
+record: 449d8681940e
 ---
 
 # News, Oct – Nov 2026
@@ -20,11 +20,17 @@ record: 0022142f3b71
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -95,6 +101,20 @@ The Boa Governação project trained 26 regional planning delegates, regional se
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Guinea-Bissau Data Portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinea-Bissau Data Portal - Terms of use](https://guinebissau.opendataforafrica.org/legal/TermsOfUse)** — African Development Bank — Guinea-Bissau Data Portal, 11 November 2026
+
+The terms of use for Guinea-Bissau's data on the African Development Bank's High Fives application allow free copying and reuse, commercial or not, with attribution in the metadata. The Bank gives no warranty and may withdraw access at any time. No standard licence is named (checked 11 November 2026).
+
+</div>
+
+</div>
+
 ## Kenya
 
 <div class="monthly-story" markdown="1">
@@ -106,6 +126,22 @@ The Boa Governação project trained 26 regional planning delegates, regional se
 **[Who owns Indigenous data? Kenyan communities demand more control](https://nation.africa/kenya/climate/who-owns-indigenous-data-kenyan-communities-demand-more-control-5641966)** — Daily Nation, 22 October 2026
 
 Indigenous communities from northern Kenya presented a community-based monitoring and information system at the biodiversity COP17 in Yerevan, developed with the organisation IMPACT, to record traditional knowledge of grazing, water and wildlife digitally. They want that data recognised in national biodiversity reporting while staying under community control.
+
+</div>
+
+</div>
+
+## Libya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GIA Open Data Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الشروط والأحكام | منصة البيانات المفتوحة](https://opendata.gia.gov.ly/terms.html)** — General Information Authority (Libya), 11 November 2026
+
+The terms of Libya's open data platform, run by the General Information Authority, allow reuse of its data for lawful purposes with attribution to the platform and dataset. They bar re-identification of individuals, provide the data without warranty, and allow datasets to be changed or withdrawn without notice. The page names no standard licence (checked 11 November 2026).
 
 </div>
 
@@ -157,6 +193,22 @@ Statistics Mauritius trained staff on Phase 2 of its MauStats platform, built wi
 
 </div>
 
+## Senegal
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics agency open data licence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accord de licence de données ouvertes — ODP de l'ANSD du Sénégal](https://nso-senegal.opendataforafrica.org/hiwidxb)** — Agence Nationale de la Statistique et de la Démographie (ANSD), Sénégal, 11 November 2026
+
+The open data licence of Senegal's national statistics agency, ANSD, grants a free, worldwide, non-exclusive licence to copy, adapt and distribute its data, including commercially. Users must carry a prescribed source statement (checked 11 November 2026).
+
+</div>
+
+</div>
+
 ## Sierra Leone
 
 <div class="monthly-story" markdown="1">
@@ -168,6 +220,22 @@ Statistics Mauritius trained staff on Phase 2 of its MauStats platform, built wi
 **[Sierra Leone establishes IFAP National Committee during IDUAI 2026, UNESCO celebrates 25 years of Information for All work - Gleaner Newspaper SL](https://gleanersl.com/sierra-leone-establishes-ifap-national-committee-during-iduai-2026-unesco-celebrates-25-years-of-information-for-all-work/)** — Gleaner Newspaper SL, 18 October 2026
 
 Sierra Leone has set up a national committee for UNESCO's Information for All Programme to align national policy with it, the Foreign Ministry announced. A UNESCO-government conference on information integrity held in Freetown on 28 September 2026 drew delegates from 41 countries.
+
+</div>
+
+</div>
+
+## Togo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open government data portal or policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Conditions Générales d'Utilisation — opendata.gouv.tg](https://opendata.gouv.tg/pages/legal/cgu)** — opendata.gouv.tg — Plateforme ouverte des données publiques togolaises (Agence Togo Digital), 11 November 2026
+
+The terms of use of Togo's open data platform, opendata.gouv.tg, make registration free. Published data is under an open licence unless stated otherwise. The page names no specific licence and carries no date (checked 11 November 2026).
 
 </div>
 

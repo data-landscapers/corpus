@@ -1,16 +1,18 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: dpi.mis
-places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f52bc4786bcc
+places: AGO; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 91986f3da669
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -29,6 +31,8 @@ record: f52bc4786bcc
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#eritrea">Eritrea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -70,6 +74,8 @@ record: f52bc4786bcc
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#seychelles">Seychelles</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#somalia">Somalia</a>
@@ -108,6 +114,22 @@ President João Lourenço said Angola is implementing SINGERH, an integrated hum
 **[Mais de 31 mil funcionários públicos suspeitos de serem 'fantasma' terão de provar efectividade, diz MAPTSS](https://www.novojornal.co.ao/sociedade/detalhe/mais-de-31-mil-funcionarios-publicos-suspeitos-de-serem-fantasma-terao-de-provar-efectividade-diz-maptss-75684.html)** — Novo Jornal, 28 October 2026
 
 Angola's Ministry of Public Administration, Labour and Social Security launched SINGERH, a single human-resources database for the civil service, on 28 October 2026. Minister Teresa Rodrigues Dias said more than 31,000 staff listed as active could not be validated and are suspected of being 'ghost' workers. Over 300,000 public servants were registered between January and September 2026.
+
+</div>
+
+</div>
+
+## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-justice information system and court interconnection project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Justice au Bénin : les États-Unis mobilisent 2,3 millions de dollars pour moderniser les tribunaux](https://lanouvelletribune.info/2026/11/justice-au-benin-les-etats-unis-mobilisent-23-millions-de-dollars-pour-moderniser-les-tribunaux/)** — La Nouvelle Tribune, 8 November 2026
+
+Benin's justice ministry received equipment worth $2.3 million funded by the United States in Cotonou on 6 November 2026. The equipment is meant to modernise courts in the north of the country. Minister Yvon Détchénou said the criminal record certificate has been available online in three clicks since 1 November and that all jurisdictions are connected to the internet.
 
 </div>
 
@@ -409,6 +431,22 @@ The Tax Authority contracted eTax to build and run a platform that analyses elec
 **[التضامن: ربط بيانات 13 مليون أسرة بـ27 قاعدة حكومية لتعزيز دقة استهداف مستحقي الدعم](https://almessa.gomhuriaonline.com/764443/)** — جريدة المساء, 6 November 2026
 
 Assabah reported on 6 November 2026 that Egypt's national social registry holds 13 million households, about half the country's total. Raafat Shafik, assistant to the social solidarity minister, said it links to 27 government databases. He spoke at an Arab conference in Tunisia and described its use in the Takaful and Karama cash programme.
+
+</div>
+
+</div>
+
+## Eritrea
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National List of Medicines offline mobile application</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Integrating Skills for Digitalized Future to improve Healthcare Service](https://shabait.com/2026/11/04/integrating-skills-for-digitalized-future-to-improve-healthcare-service/)** — Eritrea Ministry of Information (Shabait), 4 November 2026
+
+Shabait, the Eritrean information ministry's outlet, published an interview on 4 November 2026 with pharmacist Nuru Abdu Ahmed and computer engineer Bilal Adem Shelogay. The two have developed an Android application for healthcare and describe it and their plans. Ahmed works on the national formulary at the Ministry of Health.
 
 </div>
 
@@ -783,6 +821,20 @@ Libya's Health Minister chaired a consultative meeting on a 2026-2030 plan for d
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Judicial and prosecution case records</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[المحامي العام ورئيس مكتب التفتيش القضائي بمكتب النائب العام الليبي لـ "فيتو": الاشتباه في تزوير 34 ألف قيد بالأحوال المدنية في ليبيا.. وإدراج 1.2 مليون قضية بمنظومة التحول الرقمي](https://www.vetogate.com/5764136)** — فيتو, 4 November 2026
+
+Khalifa Ashour coordinates the Libyan Public Prosecution's digital transformation unit. Ashour told Vetogate on 4 November 2026 that 34,000 civil registry entries are suspected of forgery. Ashour said 1.2 million cases have been entered into the digital system. The remarks came at the third Public Prosecution international book fair in Tripoli.
+
+</div>
+
+</div>
+
 ## Madagascar
 
 <div class="monthly-story" markdown="1">
@@ -908,6 +960,20 @@ Morocco's justice minister criticised the banks on 4 November 2026 for not respo
 </div>
 
 ## Mozambique
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Supreme Court legislation and case-law portals</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[OAM destaca importância dos Portais de Legislação e Jurisprudência para a transparência e confiança na Justiça](https://oam.org.mz/oam-destaca-importancia-dos-portais-de-legislacao-e-jurisprudencia-para-a-transparencia-e-confianca-na-justica/)** — Ordem dos Advogados de Moçambique, 2 October 2026
+
+The Mozambique Bar Association (OAM) welcomed the Supreme Court's launch of a legislation portal and a case-law portal, in a statement of 2 October 2026. Its president, Thera Tobias Dai, attended the public presentation. The association called the portals a step in modernising justice and widening access to legal information, and said they help lawyers consult the law.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1054,6 +1120,22 @@ Senegal's land programme PROCASEF and the Seen Suuf project held a workshop in F
 **[Homologation des médicaments : l’ARP fait le pari de la dématérialisation des procédures](https://aps.sn/homologation-des-medicaments-larp-fait-le-pari-de-la-dematerialisation-des-procedures/)** — APS, 23 October 2026
 
 Senegal's pharmaceutical regulator, the Agence sénégalaise de réglementation pharmaceutique (ARP), launched an online platform for medicines marketing authorisation on 23 October 2026, on which applicants file CTD-format dossiers and follow their progress on a single portal with each step traced. The module is the first part of an integrated regulatory information system meant to connect imports, clinical trials, licensing, batch release and pharmacovigilance.
+
+</div>
+
+</div>
+
+## Seychelles
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online register of court decisions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Decisions from the Courts](https://www.judiciary.sc/resources/court-decisions/)** — The Judiciary of Seychelles, 1 October 2026
+
+The Judiciary of Seychelles keeps a public list of decisions of the Court of Appeal, Constitutional Court and Supreme Court. The page in October 2026 lists 2026 Constitutional Court judgments in the Valabhji cases, the latest dated 25 June 2026, and Supreme Court criminal bail rulings from January 2026. Each case name links to the decision.
 
 </div>
 
@@ -1225,6 +1307,43 @@ Tunisia's religious affairs ministry has launched a platform to manage mosque st
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Selim e-justice system of the Administrative Court</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Justice budget: Digitalisation, court delays and enforcement of rulings at the centre of debate](https://news-tunisia.tunisienumerique.com/justice-budget-digitalisation-court-delays-and-enforcement-of-rulings-at-the-centre-of-debate/)** — News Tunisia, 30 October 2026
+
+Two parliamentary committees reviewed the 2027 budget of Tunisia's Provisional Supreme Council of the Judiciary on 29 October 2026. The Council proposed keeping its 2026 level of 1.525 million dinars. MPs asked for a permanent council, faster digitalisation of judicial services and ways to enforce court rulings.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Justice : le Tribunal administratif passe à l'audience électronique avec le système « Sélim »](https://www.lapresse.tn/2026/11/04/justice-le-tribunal-administratif-passe-a-laudience-electronique-avec-le-systeme-selim/)** — La Presse de Tunisie, 4 November 2026
+
+Tunisia's Administrative Tribunal held its first pleading hearings in the central first-instance chambers on the Sélim electronic justice system (reported 4 November 2026). The tribunal says Sélim already runs in the regional first-instance chambers. It now covers all chambers and every stage of procedure.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitisation of the state property inventory</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Terres domaniales : 11.000 hectares mis à la disposition des sociétés communautaires](https://www.lapresse.tn/2026/11/07/terres-domaniales-11-000-hectares-mis-a-la-disposition-des-societes-communautaires/)** — La Presse de Tunisie, 7 November 2026
+
+Tunisia's minister of state domains, Wajdi Hedhili, briefed a joint parliamentary committee on 6 November 2026. Hedhili said 24 state farmland plots, over 11,000 hectares, have been given to community companies. 3,000 hectares are reserved for renewable energy projects, and a second list of plots is in preparation. State farmland totals 500,000 hectares, 38% of it leased.
+
+</div>
+
+</div>
+
 ## Uganda
 
 <div class="monthly-story" markdown="1">
@@ -1274,6 +1393,28 @@ The Zambia Revenue Authority set out on 19 October 2026 the next steps in moving
 **[393 taxpayers owe ZRA K26m in smart invoicing fines - AG](https://diggers.news/business/2026/10/27/393-taxpayers-owe-zra-k26m-in-smart-invoicing-fines-ag/)** — News Diggers, 27 October 2026
 
 Zambia's Auditor General reported that the Zambia Revenue Authority fined 393 taxpayers more than K26 million for not using the Smart Invoicing System. As at 31 August 2026 it had collected none of the amount.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Judiciary electronic case management system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Judiciary rolls out nationwide Electronic Case Management System](https://times.co.zm/judiciary-rolls-out-nationwide-electronic-case-management-system/)** — Times of Zambia, 31 October 2026
+
+Zambia's Judiciary launched its nationwide Electronic Case Management System, Times of Zambia reported on 31 October 2026. The first phase is a pilot in four registries at the Lusaka and Kitwe High Courts. Supreme Court judge Nigel Mutuna told a media briefing that the paper filing system had slowed the administration of justice.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[CHIEF JUSTICE OPENS TRAINING AHEAD OF DIGITAL COURT SYSTEM ROLLOUT](https://diamondtvzambia.com/chief-justice-opens-training-ahead-of-digital-court-system-rollout/)** — Diamond Media, 2 November 2026
+
+Chief Justice Mumba Malila opened a training-of-trainers workshop for Zambia's Electronic Case Management System, Diamond Media reported on 2 November 2026. Malila said the system should allow electronic filing, real-time case tracking and remote access for lawyers. Malila added that some litigants had travelled long distances only to learn their files could not be found.
 
 </div>
 

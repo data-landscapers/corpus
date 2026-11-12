@@ -1,10 +1,10 @@
 ---
 title: Energy — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: infra.energy
-places: BDI; CMR; COG; TZA
-record: 9ab57fca712a
+places: BDI; CMR; COG; MOZ; TZA
+record: cb7e0942a01e
 ---
 
 # News, Oct – Nov 2026
@@ -15,6 +15,8 @@ record: 9ab57fca712a
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#congo">Congo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 </nav>
@@ -70,6 +72,30 @@ Congo's communications regulator Arpce presented the second edition of its white
 **[Crise du carburant : les réseaux télécoms à bout de souffle](https://www.adiac-congo.com/content/crise-du-carburant-les-reseaux-telecoms-bout-de-souffle-172163)** — Les Dépêches de Brazzaville (ADIAC), 27 October 2026
 
 Congo's telecoms regulator reported voice, internet and mobile-money outages on 27 October 2026. They hit all or part of the country. A diesel shortage caused them by leaving backup generators without fuel. Operators average nine hours of grid power a day against six hours of battery autonomy. Helios Towers needs about 100,000 litres of diesel a week for its 550 sites.
+
+</div>
+
+</div>
+
+## Mozambique
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Geospatial Least-Cost Electrification Plan 2026-2030 and Integrated Electrification Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Plano Nacional Geoespacial de Electrificação de Menor Custo (PNGE-MC), 2026-2030 — Planeamento Integrado de Acesso à Energia para Moçambique](https://www.seforall.org/system/files/2026-11/whitepaper-national-geospatial-least-cost-electrification-plan_PT.pdf)** — Ministério dos Recursos Minerais e Energia (MIREME), Mozambique (hosted by SEforALL), 1 October 2026
+
+Mozambique's energy ministry, MIREME, published the National Geospatial Least-Cost Electrification Plan for 2026-2030 in October 2026. The plan carries a foreword from minister Estevão Pale and sets out how to guide investment in electricity access. The plan was launched at an event on 6 November 2026, covered in the Estevão Pale item.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique: Estevão Pale unveils geospatial plan and integrated platform to guide electrification investment](https://clubofmozambique.com/news/mozambique-estevao-pale-unveils-geospatial-plan-and-integrated-platform-to-guide-electrification-investment/)** — Club of Mozambique, 9 November 2026
+
+Mozambique's energy ministry launched the National Geospatial Least-Cost Electrification Plan 2026-2030 and the Integrated Electrification Platform in Maputo on 6 November 2026. The plan uses geospatial data to choose between grid extension and off-grid solutions for each settlement. The platform pools sector data from MIREME, ARENE, EDM and FUNAE. The World Bank funded the work, with technical assistance from SEforALL.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: e90aac129cd0
+record: 2c80b997e614
 ---
 
 # News, Oct – Nov 2026
@@ -230,6 +230,21 @@ Botswana's labour and home affairs minister Pius Mokgware said the backlog of Om
 </div>
 
 ## Burkina Faso
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unique electronic identifier</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[Opération d’enregistrement de masse de l’identifiant unique : Le Capitaine Ibrahim TRAORÉ lance l’opération d’enrôlement](https://www.sidwaya.info/2026/11/11/operation-denregistrement-de-masse-de-lidentifiant-unique-le-capitaine-ibrahim-traore-lance-loperation-denrolement/)** — Sidwaya, 11 November 2026
+
+Burkina Faso's President launched mass enrolment in the electronic unique identifier register in Ouagadougou on 11 November 2026. Each person receives a free, random 12-digit number after photograph, fingerprint and iris capture at 160 sites and by mobile teams. The digital transition ministry says it replaces no existing identity document.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

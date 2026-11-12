@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 01282bb80a14
+record: a62d77ce0f6f
 ---
 
 # News, Oct – Nov 2026
@@ -491,6 +491,20 @@ Congo Telecom said a repair vessel was due on 11 November 2026 at the WACS fault
 </div>
 
 ## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Displayed retail mobile data tariffs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Forfait internet Côte d'Ivoire : Orange, MTN, Moov (prix)](https://tech-toolsafrique.com/meilleur-forfait-internet-cote-divoire/)** — tech-toolsafrique.com, 1 October 2026
+
+Tech-Tools Afrique published a price comparison of mobile and home internet plans in Côte d'Ivoire on 1 October 2026. Moov plans cost about 250 FCFA per gigabyte. MTN monthly packs start at 2,000 FCFA for 3 GB. Orange or Moov fibre starts at 15,000 FCFA a month. The site says offers change and prices need checking.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1134,6 +1148,20 @@ Paratus Group launched Paratus Lesotho, a joint venture with Real Image Lesotho,
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Observed price of a gigabyte of mobile data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lesotho Mobile Data Cost](https://datamatrix.co.ls/research/data-cost/)** — Data Matrix, 6 November 2026
+
+Data Matrix reported on 6 November 2026 that one gigabyte of mobile data in Lesotho cost M32.75 on average across the flagship 30-day bundles of Vodacom and Econet. Vodacom charged M660 for 20 GB and Econet M650. Per gigabyte, the smallest bundle costs 24% more than the largest. The site has tracked prices since 13 October 2023.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -1712,6 +1740,28 @@ ALTON and four Nigerian operators filed a summons at the Federal High Court in A
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile and broadband subscriber base</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria’s active telecom lines hit 200m as 5G share crosses 5%](https://www.vanguardngr.com/2026/11/nigerias-active-telecom-lines-hit-200m-as-5g-share-crosses-5/)** — Vanguard, 10 November 2026
+
+Nigeria's active telecom subscriptions passed 200 million for the first time since the 2024 NIN-SIM disconnections, reaching 200,337,097 in September 2026, on data from the Nigerian Communications Commission. Teledensity stood at 92.41% and broadband subscriptions at 128 million, or 59.05% penetration. 5G made up 5.05% of mobile connections.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria’s active mobile subscriptions hit 200 million after NIN-SIM purge](https://techcabal.com/2026/11/11/nigerias-mobile-subscriptions/)** — TechCabal, 11 November 2026
+
+Nigeria's active mobile subscriptions reached 200.3 million in September 2026, Nigerian Communications Commission data show. That is up 29 per cent in two years. MTN had 104.6 million and Airtel 68 million, about 86 per cent of the total. In 2024 lines fell from 224.7 million to 164.9 million when SIMs without a verified NIN were cut off.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -1767,6 +1817,20 @@ At the opening of Senegal's 2026–2027 parliamentary session on 13 October 2026
 **[SENUM and Univers Telecom Group sign strategic partnership to accelerate Senegal’s digital transformation](https://techreviewafrica.com/news/8155/senum-and-univers-telecom-group-sign-strategic-partnership-to-accelerate-senegal-s-digital-transformation)** — Tech Review Africa, 6 November 2026
 
 Senegal's state digital company SENUM signed a partnership agreement with Univers Telecom Group, reported on 6 November 2026. The stated aims are a more resilient state digital infrastructure and the digitisation of the administration. The work is already under way through the PRODAP programme on the national backbone.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Starlink fixed satellite internet licence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Starlink suspended in Senegal](https://thepoint.gm/africa/gambia/headlines/starlink-suspended-in-senegal)** — The Point, 11 November 2026
+
+Senegal's Supreme Court rejected the State's appeal on 3 November 2026. The suspension of Starlink's licence stays in place. It is the State's second loss in the case in two months. A final ruling is still to come (The Point, 11 November 2026).
 
 </div>
 
@@ -2036,6 +2100,20 @@ Bayobab, an MTN Group company, said on 22 October 2026 that civil works and fibr
 **[#NoExamShutdown: One step forward, another step back](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)** — Access Now, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
 Access Now reviewed exam-related internet shutdowns in the Middle East and North Africa in 2026. Algeria confined restrictions to exam centres, and Syria held exams with no recorded shutdown. Tunisia restricted mobile messaging apps during both baccalaureate sessions in June and July, a first in the campaign's tracking. Sudan ordered 10 shutdowns between 13 and 23 April.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile internet bundle prices</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[تفاصيل الزيادة الجديدة على باقات الإنترنت](https://rtmediasd.net/2026/11/09/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%b2%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%b9%d9%84%d9%89-%d8%a8%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%86/)** — ارتي ميديا, 9 November 2026
+
+Rtmediasd reported on 9 November 2026 that Zain, Sudani and MTN raised internet bundle prices in Sudan. The companies cite the rising dollar and the cost of fuel for towers. Zain's 100 GB bundle went from 68,900 to 115,000 pounds, up 67%, and its 300 GB bundle from 93,000 to 137,000, up 47%. Zain increases range from 44% to 130%.
 
 </div>
 

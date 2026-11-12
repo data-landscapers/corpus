@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f4d614ed9e9f
+record: d3430e69a262
 ---
 
 # News, Oct – Nov 2026
@@ -604,6 +604,20 @@ Youm7 reported that Egypt is in the final drafting stage of a dedicated law to r
 **[Vodacom eyes SA and Kenya for AI data centre hubs after Egypt](https://techcentral.co.za/vodacom-ai-data-centre-hubs-south-africa-kenya-egypt/288232/)** — TechCentral, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Vodacom Group CEO Shameel Joosub spoke to TechCentral on 10 November 2026 about a sovereign AI data centre in Egypt. Vodafone Egypt plans it with Elsewedy Electric and Cassava Technologies, at a total cost of about US$1 billion. It will be built in modules, and Vodafone Egypt will own about 30%. He named South Africa and Kenya as further AI data centre hubs, with planning there at a very early stage.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public Prosecution AI data centre, Rehab</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[النيابة العامة تفتتح مركز بيانات للذكاء الاصطناعى بالرحاب السبت المقبل](https://www.youm7.com/story/2026/11/11/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B1%D9%83%D8%B2-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D8%A8%D8%A7%D9%84%D8%B1%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84/7614923)** — Youm7, 11 November 2026
+
+Egypt's Public Prosecution announced on 11 November 2026 that it will open an AI data centre at the Prosecutor-General's office in Rehab on 14 November. It has invited journalists to register to attend.
 
 </div>
 

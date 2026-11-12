@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: gov.protect
 places: AGO; BEN; BFA; CMR; COG; COD; EGY; GHA; KEN; LBY; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1a8fd6591c4a
+record: 08bc47db0c82
 ---
 
 # News, Oct – Nov 2026
@@ -279,6 +279,28 @@ Kenya's communications regulator said it will set up a central database of recyc
 **[How Absa Bank's employee data leak brought down multi-billion business](https://www.standardmedia.co.ke/article/2001559970/how-absa-bank-s-employee-data-leak-brought-down-multi-billion-business)** — The Standard, 12 October 2026
 
 A former senior manager at a Kenyan bank testified, in a Sh1.5 billion data breach suit against it, that a credit manager disclosed a borrower's loan distress to a third party. He said the bank's legal department recommended no action because it saw no material risk of abuse.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Communications Authority escalated consumer complaints</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Quarter 1 FY 2026/2027 Consumer Complaints Report (complaints escalated to the Authority, July - September 2026)](https://www.ca.go.ke/sites/default/files/2026-11/Consumer%20Complaints%20Report%20for%20Q1%20FY%202026-2027.pdf)** — Communications Authority of Kenya, 5 November 2026
+
+The Communications Authority of Kenya reported 479 consumer complaints escalated to it between July and September 2026. It resolved 422, a rate of 88.1%, and 57 remain under follow-up. Data services drew 140 complaints (29.2%), and the authority also logged 47 on fraud and scams and 49 on cybercrime.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Where did my bundles go? Data tops telco complaints](https://nation.africa/kenya/business/where-did-my-bundles-go-data-tops-telco-complaints-5664676)** — Daily Nation, 10 November 2026
+
+Data services drew 140 of the 479 consumer complaints escalated to the Communications Authority of Kenya in July to September 2026, or 29.2%, Daily Nation reported on 10 November 2026. Mobile money followed with 57. Billing and premature bundle depletion made up 44 complaints, of which the authority resolved 37.
 
 </div>
 

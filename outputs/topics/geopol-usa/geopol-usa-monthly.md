@@ -1,10 +1,10 @@
 ---
 title: US / hyperscaler activities — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: geopol.usa
 places: LBY; MDG; MUS; ZMB
-record: b5e81cb54685
+record: 2ac5cc0aba92
 ---
 
 # News, Oct – Nov 2026

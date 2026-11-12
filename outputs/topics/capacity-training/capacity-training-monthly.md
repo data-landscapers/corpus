@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: capacity.training
 places: BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN
-record: 4aa97d9bd381
+record: 2a2360c18113
 ---
 
 # News, Oct – Nov 2026
@@ -506,6 +506,20 @@ UNDP and Cisco signed a memorandum in Abuja giving up to 50,000 fellows and alum
 **[Nigeria Data Protection Commission calls for stronger public-private partnerships at Data Protection Africa Summit 2026](https://techreviewafrica.com/news/8144/nigeria-data-protection-commission-calls-for-stronger-public-private-partnerships-at-data-protection-africa-summit-2026)** — Tech Review Africa, 6 November 2026
 
 Vincent Olatunji, head of the Nigeria Data Protection Commission, opened the 8th Data Protection Africa Summit in Lagos on 6 November 2026. He urged data protection authorities to form public-private partnerships. He said the approach had helped the Commission create more than 27,000 jobs and raise certified data protection officers from under 1,000 to over 10,000 (his figures).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Three-million technology talent programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Opens ₦4 Billion Funding Applications for 3MTT Cohort 5 Delivery Partners](https://techafricanews.com/2026/11/11/nigeria-3mtt-cohort-5-opens-4-billion-funding-applications/)** — Tech Africa News, 11 November 2026
+
+Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcome-linked funding for delivery partners of 3MTT Cohort 5. The EU and Denmark fund it through GIZ, HAUS and ESTDEV, with a MacArthur Foundation grant. Applications close on 30 November 2026.
 
 </div>
 

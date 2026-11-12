@@ -1,10 +1,10 @@
 ---
 title: China activities — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: geopol.china
 places: BWA; GAB; LBY; TGO; UGA; ZMB
-record: 3c9a15bf9f3b
+record: 59718d6aa11c
 ---
 
 # News, Oct – Nov 2026

@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 86e578bc5d85
+record: 70e9a21f90ea
 ---
 
 # News, Oct – Nov 2026
@@ -1104,6 +1104,20 @@ A bill before Nigeria's House of Representatives, sponsored by Lanre Okunlola, w
 **[Nigeria is rewriting its cyber laws, but can it secure its systems against hackers?](https://techcabal.com/2026/11/06/nigeria-is-rewriting-its-cyber-laws/)** — TechCabal, 6 November 2026
 
 TechCabal reported on 6 November 2026 that Nigeria is reviewing its cybersecurity laws. It is considering a national cybersecurity architecture with baseline standards. It says the Cybercrimes Act of 2015 was amended in February 2024 and the 2021 national strategy is due for review. A House committee chair gave January to June 2027 as the expected enactment window for the bills.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bill on systemically important fintechs (SB. 959)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senate Passes Bill to Regulate Systemically Important Fintechs](https://naltf.gov.ng/senate-passes-bill-to-regulate-systemically-important-fintechs/)** — National Assembly Library Trust Fund (NALTF), 10 November 2026
+
+Nigeria's Senate passed SB. 959 on third reading on 10 November 2026. The bill amends the Banks and Other Financial Institutions Act 2020 so the Central Bank can designate and register fintechs and other non-bank institutions as Systemically Important Institutions. It requires stress tests, data-integrity assessments, cybersecurity safeguards and a public register of designated institutions.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: dpi.pay
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1e6885f1f5ea
+record: cb1ee8840c3a
 ---
 
 # News, Oct – Nov 2026
@@ -871,6 +871,14 @@ Kenya's Postbank joined the Pesalink network, reported on 4 November 2026, so cu
 **[Why lower transfer fees cannot easily break M-PESA’s mobile money dominance](https://techcabal.com/2026/11/10/pricing-gaps-m-pesa-pesalink-kenya/)** — TechCabal, 10 November 2026
 
 Postbank's entry to PesaLink brings Kenya's interbank payments network to 80 institutions, including all 38 licensed commercial banks. PesaLink says it processes an average of KES 4 billion a day, up 24% on a year earlier. TechCabal compares bank tariffs, with 19 banks on a flat KES 20 fee, and asks whether lower fees can draw users from M-PESA.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Kenya Partners Pesalink to Expand Money Transfers to 30 Financial Institutions](https://techafricanews.com/2026/11/11/airtel-kenya-pesalink-money-transfers-30-financial-institutions/)** — Tech Africa News, 11 November 2026
+
+Airtel Kenya and Integrated Payment Systems Limited, which operates Pesalink, signed an agreement on 10 November 2026. It lets Airtel Money users send funds from their wallets to accounts at 30 banks, SACCOs and microfinance banks on the Pesalink network. An account-confirmation check runs before each transfer (reported 11 November 2026).
 
 </div>
 

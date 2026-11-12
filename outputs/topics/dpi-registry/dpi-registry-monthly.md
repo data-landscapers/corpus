@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: dpi.registry
-places: DZA; AGO; BEN; BFA; CMR; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MLI; MRT; MUS; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZWE
-record: 81436e5b1094
+places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MLI; MRT; MUS; MAR; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 88a1034a838f
 ---
 
 # News, Oct – Nov 2026
@@ -19,6 +19,8 @@ record: 81436e5b1094
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cape-verde">Cape Verde</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -50,6 +52,8 @@ record: 81436e5b1094
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#morocco">Morocco</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#niger">Niger</a>
@@ -68,9 +72,13 @@ record: 81436e5b1094
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#togo">Togo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zambia">Zambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
@@ -108,6 +116,20 @@ Algeria's commercial register runs a single online portal for creating a company
 **[Création d'entreprise : Personne morale](https://sidjilcom-entreprise.cnrc.dz/creation-d-entreprise-personne-morale)** — Centre National du Registre du Commerce (CNRC), 17 October 2026
 
 Algeria's commercial register (CNRC) sets out the steps to create each type of company online, from reserving a name to registration. For a single-member limited company, it notes that the owner is liable only up to the share capital.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fadaeldjazair land and property geoportal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fadaeldjazair : livret foncier, cadastre et actes, ce que change la nouvelle version du portail](https://www.algerie360.com/fadaeldjazair-livret-foncier-cadastre-en-ligne/)** — Algérie360, 2 November 2026
+
+Algeria's national property directorate, DGDN, launched a new version of the Fadaeldjazair land geoportal on 1 November 2026. Users can request land booklets, negative certificates, copies of deeds and cadastral extracts remotely and follow requests online. The portal has existed since March 2024.
 
 </div>
 
@@ -181,6 +203,20 @@ AES Insider reported that Burkina Faso's social registry committee met on 27 Oct
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Lands ministry and Orange Cameroun land digitisation roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Foncier : le MINDCAF et Orange Cameroun préparent la mutation numérique de l'administration](https://loeilrepublicain.info/2026/10/16/foncier-le-mindcaf-et-orange-cameroun-preparent-la-mutation-numerique-de-ladministration/)** — L'Oeil républicain, 16 October 2026
+
+Cameroon's lands ministry, MINDCAF, and Orange Cameroun held a workshop in Yaoundé on 15 October 2026 to scope a land administration digitisation project. The plan runs to 2030. The ministry aims to bring the average time to obtain a land title under 30 days and to raise state land revenue by 40% over three years.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Digitalisation of civil registration</p>
 
 <div class="bulletin-item" markdown="1">
@@ -196,6 +232,22 @@ Cameroon's civil-registration office, BUNEC, sent a study mission to Côte d'Ivo
 **[État civil : le Cameroun s’inspire de la Côte d’Ivoire pour interconnecter ses données](https://www.wearetech.africa/fr/fils/actualites/tech/etat-civil-le-cameroun-s-inspire-de-la-cote-d-ivoire-pour-interconnecter-ses-donnees)** — We Are Tech Africa, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 Cameroon's civil registration bureau BUNEC visited Côte d'Ivoire's ONECI in Abidjan from 26 to 30 October 2026. Cameroon plans to computerise and interconnect 432 main registry centres by 2029. ONECI reported its CityWeb software in every centre, online e-certified birth extracts, and weak connectivity in some centres.
+
+</div>
+
+</div>
+
+## Cape Verde
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Land Management, Information and Technology System (LMITS) and the property cadastre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Retoma do cadastro predial no Tarrafal e São Salvador do Mundo](https://www.inforpress.cv/en/article-11888)** — Inforpress, 9 October 2026
+
+Cabo Verde resumed its building cadastre survey in Tarrafal and São Salvador do Mundo on 9 October 2026, Inforpress reported. Infrastructure minister Carlos Tavares said the work covers about 32,000 buildings: roughly 26,000 in Tarrafal and 6,000 in São Salvador do Mundo. Tavares said the cadastre supports legal security of property and land management.
 
 </div>
 
@@ -398,7 +450,49 @@ The Gambia's electoral commission will give parties the final voter register, co
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Land Administration System and Land Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministry Updates Public on National Land Policy Implementation](https://senigambia.com/ministry-updates-public-on-national-land-policy-implementation/)** — Senigambia, 9 November 2026
+
+The Gambia's lands ministry briefed the press on National Land Policy implementation on 9 November 2026. Dr Samba Sowe heads the Land Policy Implementation Unit. Sowe said work began in January 2026, after President Adama Barrow launched the policy in December 2025. The alpha version of a National Land Information System is complete and in testing. A contractor is setting up a centre to digitise historical land records.
+
+</div>
+
+</div>
+
 ## Ghana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Lands Commission online services portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lands Commission outlines four steps for conducting online land searches](https://www.citinewsroom.com/2026/10/lands-commission-outlines-four-steps-for-conducting-online-land-searches/)** — Citi Newsroom, 14 October 2026
+
+Ghana's Lands Commission said on 14 October 2026 that buyers can search land details online before a purchase. Deputy executive secretary Raphael Hokey described four steps: open the portal, upload the site plan, pay by mobile money and receive the report by email. Hokey said the service covers 10 of 16 regions, with Ashanti due to start that week.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strategic Land Administration Reform Project (SLARP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lands Commission's Digital Reform: gamechanger for Land Administration in Ghana](https://gna.org.gh/2026/10/lands-commissions-digital-reform-gamechanger-for-land-administration-in-ghana/)** — Ghana News Agency, 28 October 2026
+
+Ghana's Lands Commission plans to spend GH¢1.8 billion by 2030 on its Strategic Land Administration Reform Project, Ghana News Agency reported on 28 October 2026. National coordinator Jones Ofori-Boadu said 67% of the Commission's revenue is ring-fenced for it. The project has eight components, including a land information system. Its management unit was inaugurated on 1 July 2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -593,6 +687,22 @@ Mauritania's Ministry of Digital Transformation presented a national digital add
 **[État civil : nouveau format pour les actes de naissance, de mariage et de décès dès le 19 octobre](https://defimedia.info/etat-civil-nouveau-format-pour-les-actes-de-naissance-de-mariage-et-de-deces-des-le-19-octobre)** — Le Defi Media Group, 13 October 2026
 
 Mauritius's Civil Status Division, under the Prime Minister's Office, introduces new birth, stillbirth, marriage and death certificates from 19 October 2026, on standard light-grey security paper with serial numbers generated by the civil status database. Old-format certificates keep their legal value; a certificate required to be under three months old will be issued in the new format.
+
+</div>
+
+</div>
+
+## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Land agency online services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Morocco is making property paperwork a little less complicated](https://lnt.ma/morocco-is-making-property-paperwork-a-little-less-complicated/)** — La Nouvelle Tribune, 11 November 2026
+
+Morocco's land conservation agency, ANCFCC, has opened an online service for ownership certificates (reported 11 November 2026). Owners of registered property can request and download them without visiting a registry office. The agency says it aims to cut waiting times and protect personal information.
 
 </div>
 
@@ -958,6 +1068,28 @@ Tanzania's Deputy Minister for Industry and Trade Denis Londo said on 11 October
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">e-Ardhi land services system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kamati ya Bunge yasisitiza wananchi kuelimishwa umuhimu wa hatimiliki za ardhi](https://www.lands.go.tz/news/kamati-ya-bunge-yasisitiza-wananchi-kuelimishwa-umuhimu-wa-hatimiliki-za-ardhi)** — Wizara ya Ardhi, Nyumba na Maendeleo ya Makazi, 26 October 2026
+
+Tanzania's parliamentary committee on Lands, Natural Resources and Tourism met in Dodoma on 21 October 2026 and discussed the land survey and titling report of the lands ministry. Deputy minister Kaspar Mmuya presented the report. Committee members asked citizens to be educated on the value of land titles. They also asked the ministry to extend the e-Ardhi land management system to all regions.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania targets nationwide rollout of e-Ardhi land system by June 2027](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/tanzania-targets-nationwide-rollout-of-e-ardhi-land-system-by-june-2027-2026-10-30-124103)** — The Guardian (IPP Media), 30 October 2026
+
+The Guardian reported on 30 October 2026 that Tanzania aims to roll out the e-Ardhi land system nationwide by June 2027. Under e-Ardhi, applications are processed electronically and records sit in a central digital register. Anthony Sanga briefed editors on the system, the review of the 1995 National Land Policy and the Mtumba Government City project in Dodoma.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Jamii Wezeshi registration platform</p>
 
 <div class="bulletin-item" markdown="1">
@@ -979,6 +1111,22 @@ Officials and motorcycle-taxi associations met in Dodoma to discuss Jamii Wezesh
 **[Zanzibar to link identity card with land ownership records to curb disputes](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-to-link-identity-card-with-land-ownership-records-to-curb-disputes-5650378)** — The Citizen (Tanzania), 29 October 2026
 
 Zanzibar plans to link Zan ID card details to land ownership records through LARIS, a land registration system being built by the French firm IGN FI. The project coordinator said on 29 October 2026 that the project runs from June 2026 to May 2028. Its nine components include digitising land documents.
+
+</div>
+
+</div>
+
+## Togo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National land and domain agency (ANDF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Foncier : après la nomination de son DG, l'ANDF face au défi de son opérationnalisation](https://www.togofirst.com/fr/gouvernance-economique/1510-20352-foncier-apres-la-nomination-de-son-dg-l-andf-face-au-defi-de-son-operationnalisation)** — Togo First, 15 October 2026
+
+Togo's council of ministers named notary Dominique Méméssilé Gnazo as the first director general of the national land agency, ANDF, on 6 October 2026, Togo First reported. The decree creating the agency dates from September 2025. The cadastre and land registry services keep working until the agency is fully operational. The World Bank approved $150 million in December 2025 to support the reform.
 
 </div>
 
@@ -1101,6 +1249,22 @@ Uganda's minister of state for lands, Harriet Ntabazi, said new digital systems 
 **[URSB launches mobile app for business registration services](https://pmldaily.com/news/2026/11/ursb-launches-mobile-app-for-business-registration-services.html)** — PML Daily, 5 November 2026
 
 Uganda's Registration Services Bureau launched URSB Connect, a mobile app, on 5 November 2026. It covers company and business-name registration, name searches, annual returns, trademarks and the SIMPO chattels registry. It runs alongside the bureau's eRegistry platform.
+
+</div>
+
+</div>
+
+## Zambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zambia Integrated Land Administration System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[982 Properties vanish after ZILMIS to ZILAS transition](https://zambianbusinesstimes.com/982-properties-vanish-after-zilmis-to-zilas-transition/)** — Zambian Business Times, 26 October 2026
+
+Zambian Business Times reported on 26 October 2026 that 982 property records in the old ZILMIS land system are missing from its successor, ZILAS. The report cites an official government report and the 2025 Auditor General's report. Property consultant Reuben Chongo said network outages lasting weeks disrupt users. The rest of the article is behind a subscription.
 
 </div>
 

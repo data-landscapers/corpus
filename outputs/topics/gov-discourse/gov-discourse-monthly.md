@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: gov.discourse
-places: DZA; CIV; GAB; MWI; NGA; TUN; ZMB; ZWE
-record: d550bd225963
+places: DZA; CIV; EGY; GAB; MWI; NGA; TUN; ZMB; ZWE
+record: f06a91319488
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: d550bd225963
 <a href="#algeria">Algeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -54,6 +56,22 @@ Access Now reviewed exam-related internet shutdowns in the Middle East and North
 **[L’ANP et l’ANSSI s’accordent sur une feuille de route contre la désinformation](https://www.aip.ci/cote-divoire-aip-lanp-et-lanssi-saccordent-sur-une-feuille-de-route-contre-la-desinformation/)** — Agence Ivoirienne de Presse, 4 November 2026
 
 Côte d'Ivoire's press regulator ANP and cybersecurity agency ANSSI agreed on 21 October 2026 to prepare a joint roadmap against disinformation and digital threats. It covers prevention capacity and the protection of the ANP's information systems.
+
+</div>
+
+</div>
+
+## Egypt
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Council of State digital transformation plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[رئيس مجلس الدولة: التوسع في التقاضي الإلكتروني يستهدف تحقيق عدالة إدارية ناجزة](https://www.youm7.com/story/2026/11/8/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%B3%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7610749)** — اليوم السابع, 8 November 2026
+
+Mahmoud Ibrahim Abu al-Dahab, president of Egypt's Council of State, said on 8 November 2026 that the electronic litigation pilot is widening. It will now cover the administrative court for education and its annexes, and the disciplinary court for health. The announcement came during a session of the administrative judiciary court's ninth circuit.
 
 </div>
 

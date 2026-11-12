@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: cbd90f7d04c5
+record: ffd6e80bc2b8
 ---
 
 # News, Oct – Nov 2026
@@ -1046,6 +1046,20 @@ The Uganda Bureau of Statistics publicly rejected the ICT ministry's National Da
 **[Zambia unlocks digital earnings for creators](https://itweb.africa/article/zambia-unlocks-digital-earnings-for-creators/wbrpOqg2eyLMDLZn)** — ITWeb Africa, 12 October 2026
 
 Zambia's technology and youth ministries are developing a framework for local content creators to earn from digital platforms, and are talking to Meta, TikTok and Google about the legal and technical arrangements. The President named it a priority when opening the 14th National Assembly, and a national database of creators is being compiled.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ministerial Technology Advisory Panel</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia : Mutati Reaffirms Significance Of Technology](https://www.lusakatimes.com/2026/11/11/mutati-reaffirms-significance-of-technology/)** — Lusaka Times, 11 November 2026
+
+Zambia's government has asked Hobbiton Investments Limited to form a Ministerial Technology Advisory Panel, minister Felix Mutati said (reported 11 November 2026). The panel joins public and private stakeholders. It is to speed the digitisation of public services under the Grow Zambia Agenda.
 
 </div>
 

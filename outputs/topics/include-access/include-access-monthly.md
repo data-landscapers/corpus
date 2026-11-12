@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: include.access
 places: BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
-record: 0076cf7db7c5
+record: ba950a6845d2
 ---
 
 # News, Oct – Nov 2026
@@ -380,6 +380,20 @@ The 2026 Access to Financial Services survey by EFInA and Nigeria's statistics b
 **[The jargon problem keeping public participation out of DPI design](https://govinsider.asia/intl-en/article/the-jargon-problem-keeping-public-participation-out-of-dpi-design-1)** — GovInsider, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 Speakers at an Open Government Partnership webinar on 15 October 2026 said the label 'digital public infrastructure' keeps the public out of designing digital ID, payment and data systems, and urged governments to make clear where people can take part. Nigeria's open-government plan carries a DPI commitment led by NITDA, including a pilot of accessibility standards in 10 federal agencies.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Identity enrolment of refugees and displaced people</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[10 states get mobile centres to tackle documentation crisis among 3.7m displaced Nigerians](https://www.vanguardngr.com/2026/11/10-states-get-mobile-centres-to-tackle-documentation-crisis-among-3-7m-displaced-nigerians/)** — Vanguard, 11 November 2026
+
+Nigeria's Humanitarian Affairs ministry, UNHCR and Germany handed mobile one-stop-shop vehicles to 10 states (reported 11 November 2026). The vehicles bring NIN enrolment, birth registration, BVN and SIM registration to displaced people. Nigeria has 3.7 million of them.
 
 </div>
 

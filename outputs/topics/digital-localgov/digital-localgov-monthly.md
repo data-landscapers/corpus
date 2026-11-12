@@ -1,15 +1,17 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: digital.localgov
-places: BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
-record: 46915ba8c41c
+places: BEN; BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
+record: 71657a883a33
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#benin">Benin</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
@@ -38,6 +40,22 @@ record: 46915ba8c41c
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 </nav>
+
+## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated communal software package (PIAC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique dans les mairies : l’Ancb mise sur la mutualisation](https://www.lanation.bj/decentralisation/numerique-dans-les-mairies-lancb-mise-sur-la-mutualisation)** — La Nation, 9 November 2026
+
+Benin's association of communes, ANCB, counted 35 software applications from 27 providers across 13 functional areas in municipal administrations. Its digital commission reported this at a session in Dassa-Zoumè on 5 and 6 November 2026, citing interconnection failures, duplication and maintenance costs. It weighed the integrated communal software package PIAC as the remedy.
+
+</div>
+
+</div>
 
 ## Burundi
 
@@ -88,6 +106,20 @@ Cabo Verde began applying the Simpol municipal information system in all 22 muni
 </div>
 
 ## DR Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kinshasa revenue directorate online tax platform (irms-dgrk.com)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Retour sur la matinée fiscale d'information et de présentation de deux nouvelles régies provinciales chargées de percevoir les impôts, droits, taxes et redevances de la ville de Kinshasa](https://fec-rdc.com/retour-sur-la-matinee-fiscale-dinformation-et-de-presentation-de-deux-nouvelles-regies-provinciales-chargees-de-percevoir-les-impots-droits-taxes-et-redevances-de-la-ville-de-kinshasa/)** — Fédération des Entreprises du Congo, 1 October 2026
+
+The Fédération des Entreprises du Congo held a tax briefing for its Kinshasa members (reported 1 October 2026). Two new provincial revenue bodies, DGIPK and DGTK, presented their duties beside the provincial finance minister. The federation wanted members to know which bodies may collect taxes and run audits. A provincial order of 17 September 2026 sets the transition.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -182,6 +214,28 @@ Four months after Libreville's mayor launched collection of market fees by Airte
 **[Gabon : Libreville digitalise la collecte de ses taxes](https://fr.infosgabon.com/gabon-libreville-digitalise-la-collecte-de-ses-taxes/)** — Infos Gabon, 31 October 2026
 
 Libreville city hall officially presented e-Taxe municipale, a platform for declaring and paying municipal taxes and fees online, on 30 October 2026. It was prototyped in January 2026 and put into service on 12 June 2026. The municipality described it as 95% operational.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-Tax : la Mairie de Libreville dresse un premier bilan de la collecte numérique des taxes de marché](https://medias241.ga/e-tax-la-mairie-de-libreville-dresse-un-premier-bilan-de-la-collecte-numerique-des-taxes-de-marche/)** — Medias241, 1 November 2026
+
+Libreville's town hall reviewed its E-Tax market tax platform on 30 October 2026, more than three months after launch on 12 June 2026. Mayor Eugène M'ba chaired the session. Nearly 2,000 traders are enrolled, 15 markets are covered and over 4,000 transactions are recorded. Gabonreview reports about 200 million FCFA collected through Airtel Money and 10 million through Moov.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National inventory of local administrations' ICT equipment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon: Digitalisation des collectivités locales - Le Haut-Ogooué, première étape de l'inventaire national du parc informatique](https://fr.allafrica.com/stories/202610300423.html)** — allAfrica, 29 October 2026
+
+Gabon's digital economy ministry began a national mission on 26 October 2026 to inventory the IT equipment of local administrations, starting in Haut-Ogooué. Arnaud Ona Ndong leads the team, which visits town halls, prefectures and the governorate. This is phase 2 of a national diagnosis. Phase 1 ran from 22 April to 6 May 2026 in the nine provincial capitals.
 
 </div>
 

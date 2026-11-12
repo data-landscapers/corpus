@@ -1,15 +1,17 @@
 ---
 title: Geospatial data — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: data.geospatial
-places: COM; CIV; DJI; LSO; LBR; SYC; TGO; ZWE
-record: 7c9f3d35b7a7
+places: BDI; COM; CIV; DJI; LSO; LBR; SYC; TGO; ZWE
+record: 05a6537de65e
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#burundi">Burundi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
@@ -27,6 +29,22 @@ record: 7c9f3d35b7a7
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
 
+## Burundi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Satellite data in meteorology and early warning</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Alertes](https://www.igebu.bi/alerte/)** — Institut Géographique du Burundi (IGEBU), 4 November 2026
+
+Burundi's meteorological institute, IGEBU, issued a moderate-severity heavy rain alert on 4 November 2026 for parts of the country, including Mugamba and Buyenzi. It had issued a similar alert on 27 October 2026. Both appear on its page as expired.
+
+</div>
+
+</div>
+
 ## Comoros
 
 <div class="monthly-story" markdown="1">
@@ -38,6 +56,20 @@ record: 7c9f3d35b7a7
 **[Cartographie numérique : Les Comores passent à la cartographie numérique](https://www.lagazettedescomores.com/société/cartographie-numérique-les-comores-passent-à-la-cartographie-numérique-.html)** — La Gazette des Comores, 13 October 2026
 
 Comoros's statistics institute INSEED has set up a digital mapping laboratory ahead of the fifth population census, with GIS software bought under a World Bank statistics project. The pilot census covers 50 enumeration areas, and the government has yet to fund the public awareness campaign.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Meteorological observation and forecasting capability</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Alertes](https://meteocomores.km/alertes/)** — Météo Comores (ANACM), 27 October 2026
+
+Météo Comores, run by ANACM, listed no active weather alert on 27 October 2026. Its most recent alerts were moderate-severity wind warnings issued that day for north-east winds on 28 October. Earlier expired alerts date from July and August 2026.
 
 </div>
 
@@ -95,6 +127,20 @@ The Reporter, on 16 October 2026, covered a weather-index agricultural insurance
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Common Alerting Protocol warnings and impact-based forecasts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IMPACT BASE FORECAST](https://meteoliberia.com/products/impact-base-forecast/)** — Liberia Meteorological Service, 26 October 2026
+
+The Liberia Meteorological Service publishes an impact-based forecast that states expected weather and its likely effects on people and infrastructure. Entries listed in October 2026, including those of 7 and 11 October, expected light rainfall across most of the country. The service says the product also gives safety advice for communities and agencies.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Climate information systems project (GCF SAP018)</p>
 
 <div class="bulletin-item" markdown="1">
@@ -118,6 +164,20 @@ The Green Climate Fund approved project SAP018 on 13 November 2020, with the Afr
 **[Investment Phase pipeline – Seychelles](https://www.un-soff.org/wp-content/uploads/2026/10/Seychelles-IFR-FINAL.pdf)** — Systematic Observations Financing Facility, 2 October 2026
 
 A World Bank-led request asks SOFF for US$3.3m for 2027 to 2031. It rebuilds the surface and upper-air stations at Mahé airport. It also restores the automatic stations on the outer islands. An upper-air station on Aldabra waits for a second phase.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ISO 9001 certification of the Meteorological Authority for aviation services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SMA Successfully Passes Surveillance Audit, Setting the Stage for Broader ISO Certification](https://www.meteo.sc/news/sma-successfully-passes-surveillance-audit-setting-the-stage-for-broader-iso-certification/)** — Seychelles Meteorological Authority, 4 November 2026
+
+The Seychelles Meteorological Authority said on 4 November 2026 that it passed an annual surveillance audit by the British Standards Institution, held on 3 and 4 November. The audit confirms its ISO 9001:2015 certification for aeronautical meteorological services. The authority plans to extend certification to its non-aviation services.
 
 </div>
 

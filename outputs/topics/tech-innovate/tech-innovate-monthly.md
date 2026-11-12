@@ -1,16 +1,18 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 subject: tech.innovate
-places: DZA; BFA; CIV; COD; SWZ; MWI; NAM; NGA; SLE; ZAF; TZA; TUN; ZWE
-record: c7e6ac75dab3
+places: DZA; BEN; BFA; CIV; COD; SWZ; MWI; NAM; NGA; SLE; ZAF; TZA; TUN; ZWE
+record: e662b5348f1c
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -48,6 +50,22 @@ record: c7e6ac75dab3
 **[Algeria reaches preliminary partnership agreement with Roblox to train video game developers](https://techreviewafrica.com/news/7752/algeria-reaches-preliminary-partnership-agreement-with-roblox-to-train-video-game-developers)** — Tech Review Africa, 16 October 2026
 
 Algeria has reached a preliminary agreement with Roblox on a programme to train Algerian video game developers, announced by Sid Ali Zerrouki. It comes with child-protection conditions: wider parental controls, fast-track reporting channels, and the platform's chat feature kept switched off in Algeria until safeguards are judged sufficient.
+
+</div>
+
+</div>
+
+## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Corporate-tax exemption for labelled startups</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : vers un avantage fiscal des startups décompté à partir de l'obtention du label](https://lamarina.bj/2026/10/14/benin-vers-un-avantage-fiscal-des-startups-decompte-a-partir-de-lobtention-du-label/)** — La Marina BJ, 14 October 2026
+
+Benin's 2027 finance bill would count the tax exemption of labelled startups from the year after the startup label is issued. Article 20 of the bill, sent to the National Assembly by decree of 7 October 2026, amends article 147 of the tax code. The exemption would keep two full years and a third at 50%. The bill was tabled and not yet adopted when reported on 14 October 2026.
 
 </div>
 
