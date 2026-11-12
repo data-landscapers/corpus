@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-19
 intersections_read: 8
-sources_cited: 209
+sources_cited: 210
 sections_written: 39
 not_established: 0
 acquire_lines: 33
@@ -72,7 +72,7 @@ In September 2025 [a system integrator, Ooru, was contracted to design a new ide
 
 [São Tomé and Príncipe's civil society space scores 91.2 out of 100 in the 2023 Ibrahim Index, first of 54 African states and unchanged over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf). [Deliberative and participatory governance, how far policy is made through consultation, scores 61.5, 22nd of 54, after falling 4.0 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf). The country scores [93.1 for freedom of expression and belief, second of 54, and 70.4 for media freedom, sixth of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf) (2023). [Both fell slightly over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf). [Public perception of freedom of speech rose 14.2 points to 86.8, third of 54 and one of the ten most improved indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf). [Digital Freedom, covering online censorship, internet shutdowns and surveillance, scores 88.9, first of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf) (2023).
 
-The country scores poorly on the [accessibility of public records and online government services](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf) (2023). It scores higher, but still low, on [disclosure of budgets, asset declarations and official documents](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf). [Representation of rural people in decisions that affect them is among its most deteriorated measures of the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf) (2023).
+The country scores poorly on the [accessibility of public records and online government services](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf) (2023). It scores higher, but still low, on [disclosure of budgets, asset declarations and official documents](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf). [Representation of rural people in decisions that affect them is among its most deteriorated measures of the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf) (2023). In 2023 [libel remained a criminal offence, and no restriction of the internet or online censorship was reported](https://2021-2025.state.gov/reports/2023-country-reports-on-human-rights-practices/sao-tome-and-principe/).
 
 The [reform of the electoral system was designed to answer the recommendations of the European Union's 2022 election observation mission](https://rstp.st/2025/09/02/stp-encerra-o-projeto-de-reforma-do-sistema-eleitoral-financiado-pela-uniao-europeia/). The [new registration system was declared ready in February 2026 for the general elections held that July and September](https://jornaleconomico.sapo.pt/noticias/sao-tome-e-principe-pronto-para-um-novo-sistema-de-recenseamento-eleitoral/).
 
