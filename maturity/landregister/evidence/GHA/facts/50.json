@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-14-gha-lands-commission-outlines-four-steps-for-conducting-online-land-search",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "The Lands Commission says applicants can upload a site plan, pay the search fee by mobile money and receive a search report by email through its online services portal, available in 10 of Ghana's 16 regions with Ashanti being added.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "Lands Commission online services portal",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lands Commission online services portal",
+   "country_label": "Ghana",
+   "class": "land",
+   "platform": "onlineservices.lc.gov.gh",
+   "owner": "Lands Commission",
+   "tiers": "10 of 16 regions"
+  }
+ ],
+ "note": ""
+}

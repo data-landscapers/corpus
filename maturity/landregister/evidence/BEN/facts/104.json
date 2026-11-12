@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-ben-transformer-les-donnees-geospatiales-du-benin-en-levier-de-politique-p",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Numericite lists a cadastre platform among Benin's GIS platforms developed in silos and calls their maintenance complex.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "cadastre platform",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

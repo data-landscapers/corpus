@@ -88,6 +88,7 @@ EGY,Electronic property registration application,Egypt,land,,Real Estate Publici
 EGY,Real Estate Registry and Notarization Authority G2G integration,Egypt,land,G2G digital hub,Ministry of Justice,,2025-01-01-egy-ahramonline-new-alamein-real-estate-registry-complex
 EGY,Real Estate Registry and Notarization Authority / New Urban Communities Authority integration system,Egypt,land,G2G digital hub,Ministry of Justice,16 real estate registry offices in new urban communities,2025-07-17-egy-ahram-real-estate-registry-complex-alamein
 EGY,Real Estate Registry network and unified digital platform,Egypt,land,unified digital platform with electronic audit centre,Ministry of Justice,,2026-10-28-youm7-egypt-justice-property-registry-digital
+EGY,National ownership database,Ownership database project of the Egyptian Survey Authority,other,,Egyptian Survey Authority,,2024-10-05-egy-almasryalyoum-mwri-survey-authority-national-property-database
 ERI,Cadastral Office registration system,Eritrea,land,,"Cadastral Office, Ministry of Land, Water and Environment",,2023-05-28-eri-fig-recent-developments-cadastral-activities
 ETH,eLand,Ethiopia,land,CRPRS cloud platform,eLand Platform,city,2025-01-01-land-et-digital-land-platform
 ETH,National Rural Land Administration Information System (NRLAIS),Ethiopia,land,,Ministry of Agriculture,rural,2024-01-01-reila-advancing-sustainable-land-management-ethiopia
@@ -115,6 +116,7 @@ GHA,Enterprise Land Information System (ELIS),GHA,land,,Lands Commission,,2026-1
 GHA,ELIS,Ghana,land,,Lands Commission,,2025-11-01-gha-the-digital-transformation-of-ghana-s-lands-commission
 GHA,Enterprise Land Information System,Ghana,land,,Lands Commission,,2025-08-28-gha-lands-commission-backs-digital-reforms-to-boost-affordable-housing
 GHA,Lands Commission digitised titles,Ghana,land,,Lands Commission,,2024-11-25-gha-bawumia-hails-lands-commission-s-digital-transformation-as-new-office
+GHA,Lands Commission online services portal,Ghana,land,onlineservices.lc.gov.gh,Lands Commission,10 of 16 regions,2026-10-14-gha-lands-commission-outlines-four-steps-for-conducting-online-land-search
 GIN,e-Foncier rural,Guinea,land,digital platform (future),Ministere de l'Agriculture,national,2025-10-14-cartographie-terres-agricoles-e-foncier-rural
 GIN,"Projet de Modernisation, Securisation et Simplification du Cadastre Foncier",Guinea,other,,"Ministry of Urbanism, Housing and Land Planning; IGNFI offer under review",,2024-08-09-gin-projet-de-modernisation-securisation-et-simplification-du-cadastre-fon
 GIN,DAMANDA,Guinea,other,digital mining cadastre,Ministry of Mines and Geology with the Simandou strategic committee,,2025-12-22-gin-mines-la-guinee-lance-damanda-sa-plateforme-digitale-de-gestion-des-ti
@@ -279,11 +281,15 @@ UGA,UgNLIS,Uganda National Land Information System,land,,,,2025-04-10-uga-bims-a
 ZAF,Mining Cadastre System,South Africa,other,,Department of Mineral and Petroleum Resources,,2025-11-25-parliament-mining-cadastre-system-pilot
 ZAF,electronic Deeds Registration System (eDRS),South Africa,land,eDRS Information Provisioning Module,Department of Land Reform and Rural Development,,2025-11-26-zaf-pmg-nw6636-edrs-deeds-registered
 ZAF,Cadastral Information System (CIS),CIS,land,,Department of Land Reform and Rural Development,,2026-07-24-zaf-question-to-the-minister-of-land-reform-and-rural-development-nw3407
+ZAF,Electronic Deeds Registration System (eDRS),South Africa,land,,Deeds Registration Trading Entity (implementing agent SITA),,2026-05-22-zaf-internal-question-paper-no-19-2026
+ZAF,Deeds Registration System (DRS),South Africa,land,,Deeds Registration Trading Entity,,2026-05-22-zaf-internal-question-paper-no-19-2026
 ZMB,National Land Titling Project (NLTP),Zambia,other,,Ministry of Lands and Natural Resources,,2026-01-08-fixing-land-records-central-zambia-development-agenda
 ZMB,ZILAS (Zambia Integrated Land Administration System),Zambia,land,Government Service Bus (gsb.gov.zm),SMART Zambia Institute,,2024-09-13 ZILAS - Your Gateway to Modern Land Administration (SMART Zambia)
 ZMB,ZILAS (Zambia Integrated Land Administration System),Zambia,land,Government Service Bus,SMART Zambia Institute,,2024-09-13 Ministry of Lands and Natural Resources Goes Digital (SMART Zambia)
 ZMB,Zamportal,Zambia,other,,SMART Zambia Institute,,2024-09-13 Ministry of Lands and Natural Resources Goes Digital (SMART Zambia)
 ZMB,Mining Cadastre Licensing System,Mining Cadastre Licensing System,other,Landfolio,Ministry of Mines and Minerals Development,,2025-06-10-zmb-mining-cadastre-licensing-system-restored
+ZMB,ZILAS,Zambia Integrated Land Management System,land,,Ministry of Lands,,2026-10-26-zmb-982-properties-vanish-after-zilmis-to-zilas-transition
+ZMB,ZILMIS,Zambia Integrated Land Management Information System (legacy),land,,Ministry of Lands,,2026-10-26-zmb-982-properties-vanish-after-zilmis-to-zilas-transition
 ZWE,Digital Land Administration Platform (DLAP),Zimbabwe,land,,"Ministry of Justice, Legal and Parliamentary Affairs / Deeds Registry",,2026-09-11-zwe-openparly-unvalidated-title-deeds-digital-land-platform
 ZWE,Presidential Deeds Digitisation Programme,Zimbabwe,land,,"Ministry of Justice, Legal and Parliamentary Affairs / Deeds Registry",,2026-08-29-presidential-deeds-digitisation-scam-masvingomirror
 ZWE,Digital Land Administration Platform (DLAP),Zimbabwe,land,,"Ministry of Justice, Legal and Parliamentary Affairs / Deeds Registry",,2026-05-04-zimbabwe-title-deeds-validation-nationwide

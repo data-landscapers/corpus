@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-22-zaf-internal-question-paper-no-19-2026",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Minister of Land Reform's written reply of 22 May 2026 says the department is implementing the Electronic Deeds Registration System (eDRS) under the 2019 Act, expected fully functional by 31 March 2029, while SITA, its implementing agent, is causing challenges.",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "Electronic Deeds Registration System (eDRS)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Deeds Registration System (eDRS)",
+   "country_label": "South Africa",
+   "class": "land",
+   "platform": "",
+   "owner": "Deeds Registration Trading Entity (implementing agent SITA)",
+   "tiers": ""
+  },
+  {
+   "system": "Deeds Registration System (DRS)",
+   "country_label": "South Africa",
+   "class": "land",
+   "platform": "",
+   "owner": "Deeds Registration Trading Entity",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
