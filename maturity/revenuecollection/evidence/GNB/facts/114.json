@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-03-gnb-presidente-da-camara-municipal-de-bissau-suspende-reversao-de-terrenos",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "ANG reports that by Despacho 01/GP/CMB/2026, signed on 1 June 2026 for 90 days, Bissau's municipal council requires payments of 1,000 FCFA or more for fees, licences, fines, taxes and other municipal services to be made only by deposit or transfer to its bank accounts.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "Despacho 01/GP/CMB/2026",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": "The rule is municipal and says deposit or transfer, without stating that payment is online or by mobile money."
+}

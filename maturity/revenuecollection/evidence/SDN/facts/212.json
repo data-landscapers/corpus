@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-08-sdn-ebs-ceo-to-sudanhorizon-new-national-payment-switch-launching-soon-mar",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The article says EBS enables government service payments across Sudan, without naming the taxes or fees or giving figures.",
+   "as_of": "2026-07-08",
+   "date_precision": "day",
+   "system": "EBS payment services",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

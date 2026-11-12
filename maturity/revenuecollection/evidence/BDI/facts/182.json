@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-bdi-communique-declaration-et-paiement-en-ligne-de-l-impot-foncier",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Burundi Revenue Office (OBR) communiqué says land tax is now managed by OBR and its 2026/2027 declaration must be filed online on UMUTANGAKORI II by 30 September 2026, with payments already made taken into account in the system.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "UMUTANGAKORI II",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UMUTANGAKORI II",
+   "country_label": "Burundi (umutangakori-dpmc.obr.gov.bi)",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Office Burundais des Recettes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-05-nga-directive-to-disconnect-switches-payment-solution-service-providers-an",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "NIBSS's circular says licensed non-deposit-taking providers may use NIP outward transfers to pay salaries, taxes and pensions, under CBN guidelines on electronic payment of such items.",
+   "as_of": "2023-12-05",
+   "date_precision": "day",
+   "system": "NIBSS Instant Payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
