@@ -1,12 +1,12 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 10-11-2026 at 20:27 — Covering sources published on 10 November 2026
-window_start: 2026-11-10
-window_end: 2026-11-10
-items: 60
-collected_to: 2026-11-10 20:27
-compiled: 2026-11-10 21:00
+subtitle: Last updated 11-11-2026 at 20:41 — Covering sources published on 11 November 2026
+window_start: 2026-11-11
+window_end: 2026-11-12
+items: 39
+collected_to: 2026-11-11 20:41
+compiled: 2026-11-12 02:06
 ---
 
 # Bulletin
@@ -38,63 +38,33 @@ compiled: 2026-11-10 21:00
 <optgroup label="Regions">
 <option value="XAF">Africa</option>
 <option value="XEA">East Africa</option>
-<option value="XSA">Southern Africa</option>
+<option value="XGL">Global</option>
+<option value="XWA">West Africa</option>
 </optgroup>
 <optgroup label="Countries">
 <option value="DZA">Algeria</option>
-<option value="AGO">Angola</option>
 <option value="BEN">Benin</option>
-<option value="BWA">Botswana</option>
 <option value="BFA">Burkina Faso</option>
-<option value="BDI">Burundi</option>
-<option value="CAF">CAR</option>
-<option value="CMR">Cameroon</option>
 <option value="CPV">Cape Verde</option>
 <option value="TCD">Chad</option>
-<option value="COM">Comoros</option>
-<option value="COG">Congo</option>
 <option value="CIV">Côte d'Ivoire</option>
-<option value="COD">DRC</option>
-<option value="DJI">Djibouti</option>
 <option value="EGY">Egypt</option>
-<option value="GNQ">Eq. Guinea</option>
-<option value="ERI">Eritrea</option>
-<option value="SWZ">Eswatini</option>
-<option value="ETH">Ethiopia</option>
 <option value="GAB">Gabon</option>
-<option value="GMB">Gambia</option>
 <option value="GHA">Ghana</option>
-<option value="GIN">Guinea</option>
 <option value="GNB">Guinea-Bissau</option>
 <option value="KEN">Kenya</option>
 <option value="LSO">Lesotho</option>
-<option value="LBR">Liberia</option>
 <option value="LBY">Libya</option>
-<option value="MDG">Madagascar</option>
-<option value="MWI">Malawi</option>
-<option value="MLI">Mali</option>
-<option value="MRT">Mauritania</option>
-<option value="MUS">Mauritius</option>
 <option value="MAR">Morocco</option>
-<option value="MOZ">Mozambique</option>
-<option value="NAM">Namibia</option>
-<option value="NER">Niger</option>
 <option value="NGA">Nigeria</option>
 <option value="RWA">Rwanda</option>
 <option value="SEN">Senegal</option>
-<option value="SYC">Seychelles</option>
-<option value="SLE">Sierra Leone</option>
-<option value="SOM">Somalia</option>
 <option value="ZAF">South Africa</option>
 <option value="SSD">South Sudan</option>
 <option value="SDN">Sudan</option>
-<option value="STP">São Tomé</option>
-<option value="TZA">Tanzania</option>
 <option value="TGO">Togo</option>
-<option value="TUN">Tunisia</option>
 <option value="UGA">Uganda</option>
 <option value="ZMB">Zambia</option>
-<option value="ZWE">Zimbabwe</option>
 </optgroup>
 </select>
 <span class="bulletin-filter__count" aria-live="polite"></span>
@@ -104,301 +74,179 @@ compiled: 2026-11-10 21:00
 
 ### Strategies, plans and policies
 
-<div class="bulletin-item" data-places="MAR" markdown="1">
+<div class="bulletin-item" data-places="ZMB" markdown="1">
 
-**[بـ”الدارجة” ولجميع المغاربة.. الحكومة توظف الذكاء الاصطناعي لتبسيط 2800 مسطرة إدارية](https://al3omk.com/1208688.html)** — Al3omk, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
+**[Zambia : Mutati Reaffirms Significance Of Technology](https://www.lusakatimes.com/2026/11/11/mutati-reaffirms-significance-of-technology/)** — Lusaka Times, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
 
-Ahmed Rahhou is Morocco's Minister of AI, Digital Transition and Administrative Reform. On 10 November 2026 he presented his ministry's 2027 sub-budget to the House of Representatives' Interior Committee. He said the ministry is using AI to find which of about 2,800 administrative procedures can be simplified. Al3omk reports he also said the 1918–2026 Official Gazette archive will be opened to AI tools to speed legal drafting and research. <span class="bulletin-item__also">*Also under [AI](#ai) and [Legislation and regulation](#legislation-and-regulation).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="UGA" markdown="1">
-
-**[Who are the new Permanent Secretaries?](https://www.monitor.co.ug/uganda/news/national/who-are-the-new-permanent-secretaries--5664738)** — Daily Monitor (Uganda), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
-
-President Museveni appointed Prof Stephen Akandwanaho, a professor of artificial intelligence, as Permanent Secretary for ICT and National Guidance, the Daily Monitor reported on 10 November 2026. In an interview on 9 November he named his priorities. They are digital services, connectivity and digital skills in every sub-county, a Uganda-first approach to AI and sovereign technology, and cybersecurity. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="TGO" markdown="1">
-
-**[Réseaux sociaux : la HARC recense les créateurs de contenus](https://www.republiquetogolaise.tg/tic/1011-12481-reseaux-sociaux-la-harc-recense-les-createurs-de-contenus)** — République togolaise (site officiel), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
-
-Togo's communication regulator, HARC, called on content creators, bloggers and influencers to register in its database, in a communiqué of 9 November 2026. A QR-code form collects identity, residence, field of activity, and electronic and telephone contacts. The regulator says it wants an up-to-date directory of people active on digital platforms, the government portal reported on 10 November 2026.
-
-</div>
-
-<div class="bulletin-item" data-places="NGA" markdown="1">
-
-**[Osun State Enters Partnership with UK on Digital Transformation Drive](https://www.osunstate.gov.ng/2026/11/osun-state-enters-partnership-with-uk-on-digital-transformation-drive/)** — osunstate.gov.ng, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-The Osun State governor's office announced on 10 November 2026 an agreement on SPRIRET, a project of the UK-funded Digital Access Programme. It covers digital-economy policy, connectivity, digital public infrastructure and civic technology, and will be implemented by the Initiative for Digital Inclusion. No amount was stated. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Connectivity](#connectivity).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="COD" markdown="1">
-
-**[Nation Digitale 2030 : à Kinshasa, les DSI de l'État s'imposent comme les artisans de la transformation numérique - MEDD-NEC](https://medd.gouv.cd/nation-digitale-2030-a-kinshasa-les-dsi-de-letat-simposent-comme-les-artisans-de-la-transformation-numerique/)** — Ministère de l'Environnement et Développement durable (RDC), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
-
-The DRC's Agence pour le Développement du Numérique organised the second Journées des DSI in Kinshasa on 9–11 November 2026. GIZ and Huawei Technologies RDC were among its supporters. The first day's sessions covered the national fibre backbone and the universal connectivity strategy for 2026–2035. The agency's deputy coordinator named digital identity, e-government and a sovereign data-hosting space among its priorities. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="MAR" markdown="1">
-
-**[Morocco develops national AI roadmap as government seeks to regulate technology use](https://en.hespress.com/148882-morocco-develops-national-ai-roadmap-as-government-seeks-to-regulate-technology-use.html)** — Hespress English, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
-
-Morocco's AI, Digital Transition and Administrative Reform Ministry presented its 2027 budget to the House of Representatives' Interior Committee on 10 November 2026. For sovereign AI services, it is structuring about 2,800 administrative procedures, nearly 10,000 legal texts and a first national corpus of 85,000 documents. Its data programme covers 10,000 hours of transcribed Darija audio and the roughly 90,000-text Adala legal base. It has opened four Jazari institutes. <span class="bulletin-item__also">*Also under [AI](#ai) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="NAM" markdown="1">
-
-**[ITU PP-26 Doha: Namibia reaffirms commitment to inclusive digital transformation at ITU Conference](https://techreviewafrica.com/news/8239/itu-pp-26-doha-namibia-reaffirms-commitment-to-inclusive-digital-transformation-at-itu-conference)** — TechReviewAfrica, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a>
-
-Namibia's ICT ministry told the ITU Plenipotentiary Conference in Doha on 8 November 2026 that it will connect all public schools and clinics by 2030. It put mobile broadband population coverage above 89% in 2026. It named affordability, digital literacy, device access and local content as the remaining gaps, TechReviewAfrica reports. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services) and [Connectivity](#connectivity).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="MOZ" markdown="1">
-
-**[Governo apresenta em Doha prioridades para acelerar digitalização do país](https://aimnews.org/2026/11/10/governo-apresenta-em-doha-prioridades-para-acelerar-digitalizacao-do-pais/)** — AIM, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
-
-Mozambique's Minister of Communications and Digital Transformation, Américo Muchanga, spoke at the ITU Plenipotentiary Conference in Doha, held from 9 to 12 November 2026, AIM reports. He set out the country's digital priorities: broadband expansion, 5G, cybersecurity and data protection. He also named AI and big data for disaster prevention and management. He met Saudi and Estonian representatives on cooperation in communications and digital transformation. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity), [AI](#ai), [Cybersecurity](#cybersecurity) and [Data protection](#data-protection).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="ETH" markdown="1">
-
-**[Ethiopia presses public institutions to consolidate infrastructure under national cloud strategy](https://techreviewafrica.com/news/8212/x)** — Tech Review Africa, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
-
-Ethiopia's Innovation and Technology Minister, Frehiwot Tamru, ordered faster completion of the National Cloud Data Center at the Addis Ababa ICT Park, Tech Review Africa reported on 10 November 2026. She repeated federal directives that public institutions move from their own server rooms onto shared national infrastructure. The centre is still under construction. <span class="bulletin-item__also">*Also under [Data Storage](#data-storage) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="GHA XAF" markdown="1">
-
-**[Bringing more voices into the room: RIA at the Africa IGF 2026](https://researchictafrica.net/2026/11/10/bringing-more-voices-into-the-room-ria-at-the-africa-igf-2026/)** — Research ICT Africa, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
-
-Research ICT Africa reports on its ten sessions at the 15th Africa Internet Governance Forum in Accra, held from 2 to 5 November 2026. They covered an African AI safety agenda and the gap in implementing data policy. They also covered exclusion when ID is linked to SIM cards, banking and health insurance. RIA says it has supported validation of national data policies for The Gambia, Somalia and the Comoros. <span class="bulletin-item__also">*Also under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking) and [AI](#ai).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="COD" markdown="1">
-
-**[Augustin Kibassa Maliba appelle les DSI à devenir les architectes de la transformation numérique de l’État - Actu7.cd](https://actu7.cd/2026/11/10/augustin-kibassa-maliba-appelle-les-dsi-a-devenir-les-architectes-de-la-transformation-numerique-de-letat/)** — Actu7.cd, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
-
-The DRC's digital economy minister, Augustin Kibassa Maliba, opened the second Journées des DSI in Kinshasa on 9 November 2026. The event is for public-sector IT directors. He listed his ministry's instruments, including the digital economy sector policy, the national data governance strategy, work on a national AI strategy and a plan to digitise the administration. Actu7.cd reported that he set the IT directors strategic, technical and transformational responsibilities. <span class="bulletin-item__also">*Also under [Data Exchange](#data-exchange).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="MAR" markdown="1">
-
-**[Ahmed Rahhou annonce une IA en darija en commission parlementaire](https://telquel.ma/instant-t/2026/11/10/ahmed-rahou-annonce-une-ia-en-darija-en-commission-parlementaire_2017563/)** — TelQuel, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
-
-Morocco's minister for AI, digital transition and administrative reform, Ahmed Rahhou, presented his department's AI projects to a parliamentary committee on 10 November 2026. Reports by Al3omk and Alyaoum24, relayed by TelQuel, list voice services in Darija, a first open-source national language model and a speech-recognition model built with Mistral. The ministry expects to launch the programme in 2027. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="AGO BDI BEN CIV CMR COD DZA EGY ETH GAB GHA GMB GNB KEN LBY LSO MAR MLI MOZ MRT MUS NAM NGA RWA SDN SEN SOM SWZ TCD TGO TUN TZA UGA ZAF ZMB ZWE XAF" markdown="1">
-
-**[Africa Technology Policy Tracker (2026-11-10)](https://5.carnegieendowment.org/features/africa-digital-regulations)** — Carnegie Endowment for International Peace, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNB/GNB-monthly.html" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
-
-The Carnegie Endowment's Africa Technology Policy Tracker, as fetched on 10 November 2026, lists 595 digital laws, policies and regulations. It covers 36 countries and the African Union, with instruments dated from 1988 to 2025. <span class="bulletin-item__also">*Also under [Legislation and regulation](#legislation-and-regulation) and [Data protection](#data-protection).*</span>
+Zambia's government has asked Hobbiton Investments Limited to form a Ministerial Technology Advisory Panel, minister Felix Mutati said (reported 11 November 2026). The panel joins public and private stakeholders. It is to speed the digitisation of public services under the Grow Zambia Agenda. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
 
 </div>
 
 ### Legislation and regulation
 
-<div class="bulletin-item" data-places="SLE" markdown="1">
-
-**[Information Minister Tables Two Major Information Bills In Parliament | Sierra Leone Monitor](https://www.sierraleonemonitor.com/information-minister-tables-bills-parliament/)** — Sierra Leone Monitor, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
-
-Sierra Leone's Minister of Information and Civic Education, Chernor Bah, tabled two bills in Parliament on 5 November 2026. Both completed First Reading. The Data Protection and Right to Access Information Bill, 2026 would set up one independent authority for data protection and access to information. The National Records and Archives Bill, 2026 would replace colonial-era records laws, Sierra Leone Monitor reports. <span class="bulletin-item__also">*Also under [Data protection](#data-protection).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="AGO BDI BEN BFA BWA CAF CIV CMR COD COG COM CPV DJI DZA EGY ERI ETH GAB GHA GIN GMB GNB GNQ KEN LBR LBY LSO MAR MDG MLI MOZ MRT MUS MWI NAM NER NGA RWA SDN SEN SLE SOM SSD STP SWZ SYC TCD TGO TUN TZA UGA ZAF ZMB ZWE" markdown="1">
-
-**[ICT Regulatory Tracker (2026-11-10)](https://app.gen5.digital/tracker/metrics)** — International Telecommunication Union (ITU), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CPV/CPV-monthly.html" title="CPV">Cape Verde</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ERI/ERI-monthly.html" title="ERI">Eritrea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNB/GNB-monthly.html" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNQ/GNQ-monthly.html" title="GNQ">Eq. Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/STP/STP-monthly.html" title="STP">São Tomé</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
-
-The ITU's ICT Regulatory Tracker, as fetched on 10 November 2026, gives 2024-round values for 54 African states. Its 50 indicators cover the regulatory authority, its mandate, the regulatory regime and competition, and all are self-reported by governments. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="AGO BDI BEN BFA BWA CAF CIV CMR COD COG COM CPV DJI DZA EGY ERI ETH GAB GHA GIN GMB GNB GNQ KEN LBR LBY LSO MAR MDG MLI MOZ MRT MUS MWI NAM NER NGA RWA SDN SEN SLE SOM SSD STP SWZ SYC TCD TGO TUN TZA UGA ZAF ZMB ZWE" markdown="1">
-
-**[Global Cyberlaw Tracker (2026-11-10)](https://unctad.org/topic/ecommerce-and-digital-economy/ecommerce-law-reform/summary-adoption-e-commerce-legislation-worldwide)** — UN Trade and Development (UNCTAD), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CPV/CPV-monthly.html" title="CPV">Cape Verde</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ERI/ERI-monthly.html" title="ERI">Eritrea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNB/GNB-monthly.html" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNQ/GNQ-monthly.html" title="GNQ">Eq. Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/STP/STP-monthly.html" title="STP">São Tomé</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
-
-UNCTAD's Global Cyberlaw Tracker, as fetched on 10 November 2026, records the position of 54 African states on five kinds of law. These are e-transactions, consumer protection, data protection, cybercrime and indirect taxation. <span class="bulletin-item__also">*Also under [Data protection](#data-protection) and [Cybersecurity](#cybersecurity).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="AGO" markdown="1">
-
-**[Angola apresenta à UIT projectos de fibra óptica, satélite e cloud](https://pti.ao/angola-apresenta-a-uit-projectos-de-fibra-optica-satelite-e-cloud/)** — Portal de T.I., 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a>
-
-Angola's telecommunications minister, Mário Oliveira, addressed the ITU Plenipotentiary Conference in Doha in November 2026. He described the national fibre backbone, the ANGOSAT-2 satellite and the Cloud Nacional government cloud. He said an electronic signatures regime, a national cybersecurity strategy and a national cybersecurity council had been approved. An AI law and a national AI strategy are in preparation with no completion date given, Portal de T.I. reported. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity), [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [AI](#ai).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="CMR" markdown="1">
-
-**[Agence de Régulation des Télécommunications, Communiqué n° 0000166/ART/DG du 10 novembre 2026 (contrôle pluridisciplinaire des opérateurs CAMTEL, MTN Cameroon et Orange Cameroun)](https://art.cm/sites/default/files/documents/COMMUNIQUE%20ART%2010%20NOV%202026.pdf)** — Agence de Régulation des Télécommunications (ART), Cameroun, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
-
-Cameroon's regulator ART reported on 10 November 2026 on its quality-of-service control of 13 July to 10 August 2026. It found 93 breaches of licence obligations: 41 for CAMTEL, valued at FCFA 8.2 billion, 29 for Orange Cameroun at FCFA 5.8 billion and 23 for MTN Cameroon at FCFA 4.6 billion. Each operator received a 15-day formal notice. An audit of CAMTEL's national fibre network found significant degradation. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="MAR" markdown="1">
-
-**[بـ”الدارجة” ولجميع المغاربة.. الحكومة توظف الذكاء الاصطناعي لتبسيط 2800 مسطرة إدارية](https://al3omk.com/1208688.html)** — Al3omk, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="AGO BDI BEN CIV CMR COD DZA EGY ETH GAB GHA GMB GNB KEN LBY LSO MAR MLI MOZ MRT MUS NAM NGA RWA SDN SEN SOM SWZ TCD TGO TUN TZA UGA ZAF ZMB ZWE XAF" markdown="1">
-
-**[Africa Technology Policy Tracker (2026-11-10)](https://5.carnegieendowment.org/features/africa-digital-regulations)** — Carnegie Endowment for International Peace, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNB/GNB-monthly.html" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-### Data protection
-
 <div class="bulletin-item" data-places="KEN" markdown="1">
 
-**[Kenya Nominates Lydia Sitienei as Second Data Commissioner](https://techafricanews.com/2026/11/10/kenya-nominates-lydia-sitienei-second-data-commissioner/)** — Tech Africa News, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+**[Telkom opposes proposed internet metering rules](https://www.standardmedia.co.ke/national/article/2001562098/telkom-opposes-proposed-internet-metering-rules)** — The Standard, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
-President Ruto nominated Lydia Sitienei, director of legal services at the Communications Authority of Kenya, as the country's second Data Commissioner, Tech Africa News reported on 10 November 2026. The nomination has gone to the National Assembly for approval. She would succeed Immaculate Kassait, the first commissioner, at the end of her six-year term.
+Telkom Kenya addressed the National Assembly communication committee on 10 November 2026. It said the Kenya Information and Communications (Amendment) Bill should set a billing-transparency standard, not one metering model. Chief executive Mugo Kibati warned that persistent subscriber identifiers could expose personal data. Telkom backed Kenya's proposed accession to the Budapest Convention, with safeguards on foreign requests. <span class="bulletin-item__also">*Also under [Data protection](#data-protection), [Cybersecurity](#cybersecurity) and [Connectivity](#connectivity).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="SEN" markdown="1">
+
+**[Starlink suspended in Senegal](https://thepoint.gm/africa/gambia/headlines/starlink-suspended-in-senegal)** — The Point, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+Senegal's Supreme Court rejected the State's appeal on 3 November 2026. The suspension of Starlink's licence stays in place. It is the State's second loss in the case in two months. A final ruling is still to come (The Point, 11 November 2026). <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="GAB" markdown="1">
+
+**[Restoring social media access comes at a cost in Gabon](https://globalvoices.org/2026/11/11/estoring-social-media-access-comes-at-a-cost-in-gabon/)** — Global Voices, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
+
+An analysis published on 11 November 2026 reviews the end of Gabon's social media ban. The media regulator HAC suspended Facebook, Instagram, TikTok and YouTube on 17 February 2026. It lifted the suspension on 24 October, after 248 days. The author says access came with identity rules and cooperation agreements with platforms. The author raises concerns for free expression and privacy. <span class="bulletin-item__also">*Also under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking), [Data protection](#data-protection) and [Access to services](#access-to-services).*</span>
 
 </div>
 
 <div class="bulletin-item" data-places="BEN" markdown="1">
 
-**[Dr Luciano Hounkponou re-elected President of Benin’s Data Protection Authority](https://techreviewafrica.com/news/8202/x)** — Tech Review Africa, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
+**[Protection des données personnelles : l’APDP met en garde les créateurs de contenus](https://fraternite.bj/protection-des-donnees-personnelles-lapdp-met-en-garde-les-createurs-de-contenus/)** — Fraternite, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
-The eight councillors of Benin's Personal Data Protection Authority (APDP) were sworn in before the Supreme Court. At their first elective plenary of the authority's fourth term, they unanimously re-elected Luciano Hounkponou as president. Tech Review Africa reported this on 10 November 2026.
+Benin's data protection authority, APDP, warned content creators on 11 November 2026. Recording or publishing identifying data on Facebook, WhatsApp or TikTok needs the person's consent under the Code du numérique. It cited penalties of up to seven years in prison and a fine of FCFA 100 million. It said it may act without a complaint. <span class="bulletin-item__also">*Also under [Data protection](#data-protection).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="SLE" markdown="1">
+### Data protection
 
-**[Information Minister Tables Two Major Information Bills In Parliament | Sierra Leone Monitor](https://www.sierraleonemonitor.com/information-minister-tables-bills-parliament/)** — Sierra Leone Monitor, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
+<div class="bulletin-item" data-places="EGY" markdown="1">
+
+**[النيابة العامة تطلق برنامجًا متخصصًا لحماية البيانات الشخصية](https://www.youm7.com/story/2026/11/11/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%D9%8B%D8%A7-%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D9%8B%D8%A7-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9/7614234)** — Youm7, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Egypt's Public Prosecution opened a training course on 8 November 2026 for 22 staff of the Personal Data Protection Centre. It is held at the Institute of Criminal Research and Training and runs to 12 November. It trains them as judicial officers, with 60 per cent given to practical work. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="UGA" markdown="1">
+
+**[URSB Defends System Failures, Data Exposure as MPs Probe Shs1bn Financial Gap](https://nilepost.co.ug/news/386416/ursb-defends-system-failures-data-exposure-as-mps-probe-shs1bn-financial-gap)** — Nile Post, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+The Uganda Registration Services Bureau answered Parliament's COSASE committee on 10 November 2026. The Auditor General had found long downtime in its online business registration system from August 2023 to September 2025. The audit also found personal data exposed in business records. The Bureau said it had raised storage to about 50 TB and added backup power and a second internet provider. It put availability at 99 per cent (Nile Post, 11 November 2026). <span class="bulletin-item__also">*Also under [Registries](#registries) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
+
+**[Telkom opposes proposed internet metering rules](https://www.standardmedia.co.ke/national/article/2001562098/telkom-opposes-proposed-internet-metering-rules)** — The Standard, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="MOZ" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="GAB" markdown="1">
 
-**[Governo apresenta em Doha prioridades para acelerar digitalização do país](https://aimnews.org/2026/11/10/governo-apresenta-em-doha-prioridades-para-acelerar-digitalizacao-do-pais/)** — AIM, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="AGO BDI BEN BFA BWA CAF CIV CMR COD COG COM CPV DJI DZA EGY ERI ETH GAB GHA GIN GMB GNB GNQ KEN LBR LBY LSO MAR MDG MLI MOZ MRT MUS MWI NAM NER NGA RWA SDN SEN SLE SOM SSD STP SWZ SYC TCD TGO TUN TZA UGA ZAF ZMB ZWE" markdown="1">
-
-**[Global Cyberlaw Tracker (2026-11-10)](https://unctad.org/topic/ecommerce-and-digital-economy/ecommerce-law-reform/summary-adoption-e-commerce-legislation-worldwide)** — UN Trade and Development (UNCTAD), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CPV/CPV-monthly.html" title="CPV">Cape Verde</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ERI/ERI-monthly.html" title="ERI">Eritrea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNB/GNB-monthly.html" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNQ/GNQ-monthly.html" title="GNQ">Eq. Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/STP/STP-monthly.html" title="STP">São Tomé</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+**[Restoring social media access comes at a cost in Gabon](https://globalvoices.org/2026/11/11/estoring-social-media-access-comes-at-a-cost-in-gabon/)** — Global Voices, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="AGO BDI BEN CIV CMR COD DZA EGY ETH GAB GHA GMB GNB KEN LBY LSO MAR MLI MOZ MRT MUS NAM NGA RWA SDN SEN SOM SWZ TCD TGO TUN TZA UGA ZAF ZMB ZWE XAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="BEN" markdown="1">
 
-**[Africa Technology Policy Tracker (2026-11-10)](https://5.carnegieendowment.org/features/africa-digital-regulations)** — Carnegie Endowment for International Peace, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNB/GNB-monthly.html" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+**[Protection des données personnelles : l’APDP met en garde les créateurs de contenus](https://fraternite.bj/protection-des-donnees-personnelles-lapdp-met-en-garde-les-createurs-de-contenus/)** — Fraternite, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
 ### Regional collaboration
 
-<div class="bulletin-item" data-places="ZMB XEA XSA" markdown="1">
+<div class="bulletin-item" data-places="BEN XWA" markdown="1">
 
-**[Regional Digital Inclusion Strategy and Action Plan Validated](https://www.comesa.int/regional-digital-inclusion-strategy-and-action-plan-validated/)** — COMESA, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
+**[The Third Group of the ECOWAS Trade Liberalisation Scheme (ETLS) Task Force Holds Its Inaugural Meeting on 5 and 6 November 2026 in Cotonou](https://www.ecowas.int/the-third-group-of-the-ecowas-trade-liberalisation-scheme-etls-task-force-holds-its-inaugural-meeting-on-5-and-6-november-2026-in-cotonou/)** — ECOWAS Commission, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Fifteen COMESA member states validated a Regional Digital Inclusion Strategy and Action Plan, with a Situational Analysis Report, at a workshop in Lusaka on 3–5 November 2026. Zambia hosted the workshop, with World Bank support under the IDEA programme. COMESA said on 10 November 2026 that the outcomes will guide the documents' finalisation, adoption and implementation. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services) and [Literacy](#literacy).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="GHA" markdown="1">
-
-**[Ghana - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/ghana/)** — International Telecommunication Union (statement by Ghana), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
-
-Ghana's communications minister, Samuel Nartey George, addressed the ITU Plenipotentiary Conference in Doha in November 2026. He said 5G will reach more than 70% of Ghanaians by March 2027. He cited 2,016 rural telephony sites being completed, 5G spectrum licensing and a National AI Compute Centre under construction. Ghana is standing for re-election to the ITU Council and has nominated NCA Director-General Edmund Yirenkyi Fianko for the Radio Regulations Board. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity) and [AI](#ai).*</span>
+TradeMark Africa gave IT equipment to Benin's customs directorate in Cotonou. It is meant to cut downtime on the SIGMAT customs node. The handover came beside the first meeting of the third ECOWAS ETLS Task Force, on 5 and 6 November 2026. <span class="bulletin-item__also">*Also under [Data Exchange](#data-exchange).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="CMR" markdown="1">
+<div class="bulletin-item" data-places="XAF XGL" markdown="1">
 
-**[CEMAC : A CALL FOR FINANCIAL INCLUSION FOR ALL AT APIDE 2026](https://seasonmedia.net/cemac-a-call-for-financial-inclusion-for-all-at-apide-2026/)** — Season Media, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
+**[Note 77: Openness Alibi — How the RIR System Closed the Door on Its Own Legitimacy](https://heng.lu/openness-alibi/)** — Lu Heng (heng.lu), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Pierre Kam is secretary general of Cameroon's banking association APECCAM. At APIDE 2026 in Douala on 9–10 November 2026, he proposed a common merchant identification system across CEMAC. He said a six-month work programme with the regional central bank BEAC is envisaged on merchant payment interoperability. A feasibility report and a pilot framework are expected by the end of June 2027, Season Media reported. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
+An essay by Lu Heng, dated 11 November 2026, criticises the participation requirements for candidates in the five regional internet registries. It argues that the claim of openness does not give those bodies a mandate over people outside their meetings. It notes that the AFRINIC co-chair slate has one candidate. <span class="bulletin-item__also">*Also under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="KEN XAF" markdown="1">
+
+**[Kenya Backs 50 African Proposals on AI and Digital Infrastructure at ITU Meeting](https://tukio.co.ke/kenya-backs-50-african-proposals-on-ai-and-digital-infrastructure-at-itu-meeting/)** — Tukio, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Kenya said it would back the 50 African Common Proposals at the ITU Plenipotentiary Conference in Doha. They were adopted in Abidjan in September 2026. Cabinet Secretary William Kabogo spoke to African Telecommunications Union heads of delegation (reported 11 November 2026). Africa has put forward Dominic Ooko of the Communications Authority of Kenya to chair Committee 3 on Budget Control. <span class="bulletin-item__also">*Also under [AI](#ai) and [Connectivity](#connectivity).*</span>
 
 </div>
 
 <div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[AfDB backs local tech assembly](https://itweb.africa/article/afdb-backs-local-tech-assembly/j5alrvQAXgxvpYQk)** — ITWeb Africa, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+**[ITU PP-26 Doha: Ethel Cofie calls for stronger African influence in ITU digital policy negotiations at PP-26](https://www.techreviewafrica.com/news/8236/itu-pp-26-doha-ethel-cofie-calls-for-stronger-african-influence-in-itu-digital-policy-negotiations-at-pp-26)** — TechReviewAfrica, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Nicholas Williams manages the African Development Bank's ICT operations division. He said in November 2026 that African tech investment should extend to local hardware manufacturing and assembly. He gave the bank's tech portfolio as 47% digital entrepreneurship and skills, 23% connectivity and data infrastructure, 18% tech hubs and 12% digital policy and regulation. He named Ethiopia's device assembly base as an example, ITWeb Africa reported. <span class="bulletin-item__also">*Also under [ICT Industry](#ict-industry).*</span>
-
-</div>
-
-### Standards
-
-<div class="bulletin-item" data-places="LBR" markdown="1">
-
-**[ISO - LiSA - Liberia Standards Authority](https://www.iso.org/member/11464839.html)** — International Organization for Standardization, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
-
-The International Organization for Standardization lists the Liberia Standards Authority (LiSA) as a correspondent member, as read on 10 November 2026. ISO's page says LiSA was established by law in 2022 and began operating in 2024.
+Technology policy expert Ethel Cofie sits on the ITU Plenipotentiary Conference working group on public policies in Doha. Cofie urged African countries to press for firm wording on financing, cybersecurity, AI and connectivity (reported 11 November 2026). Cofie said the choice between shall and may decides whether commitments bind. Draft resolutions include 130 on ICT security and 179 on child online protection. <span class="bulletin-item__also">*Also under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking), [Cybersecurity](#cybersecurity) and [AI](#ai).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="CIV" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[Côte d'Ivoire : un cadre en préparation pour encadrer les réseaux de fibre optique](https://www.wearetech.africa/fr/fils/actualites/tech/cote-divoire-un-cadre-en-preparation-pour-encadrer-les-reseaux-de-fibre-optique)** — wearetech.africa, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+**[ITU PP-26 Doha: African Union calls for integrated energy and digital infrastructure planning to support Africa’s AI ambitions](https://www.techreviewafrica.com/news/8241/itu-pp-26-doha-african-union-calls-for-integrated-energy-and-digital-infrastructure-planning-to-support-africas-ai-ambitions)** — TechReviewAfrica, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Côte d'Ivoire's regulator ARTCI drafted fibre-optic deployment standards and a quality-of-service measurement protocol for fixed networks at a seminar in Assinie on 4–6 November 2026. A third draft sets conditions for activating VoLTE and VoWiFi. The three drafts go to the ARTCI regulatory council for adoption, WeAreTech reported. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
+African Union Commissioner for Infrastructure and Energy Lerato Mataboge spoke at MWC Doha (reported 11 November 2026). Mataboge said energy, digital infrastructure, skills and capital must be planned together for Africa's role in the AI economy. Mataboge spoke with the GSMA's John Giusti, alongside the ITU Plenipotentiary Conference. <span class="bulletin-item__also">*Also under [Energy](#energy) and [AI](#ai).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="XEA" markdown="1">
+
+**[EAC digital recruitment system to save more than Sh1.3 billion](https://www.thecitizen.co.tz/tanzania/news/national/eac-digital-recruitment-system-to-save-more-than-sh1-3-billion-5666644)** — The Citizen, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
+
+The East African Community Council of Ministers approved an electronic recruitment system, according to a Council report from Mombasa cited by The Citizen on 11 November 2026. The report estimates a saving of USD 495,624 against USD 955,257 for recruiting 88 posts by the paper process. The first phase covers 69 priority positions in the 2026/27 financial year. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
 
 </div>
 
 ### Public debate and participation in policymaking
 
-<div class="bulletin-item" data-places="ZWE" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[Zimbabwe’s Smart Traffic System Built On A Broken Database](https://www.zimeye.net/2026/11/10/zimbabwes-smart-traffic-system-built-on-a-broken-database/)** — ZimEye, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+**[Souveraineté numérique : l’Afrique peut-elle s’inspirer de l’expérience nord-coréenne ?](https://www.lanation.bj/numerique/souverainete-numerique-lafrique-peut-elle-sinspirer-de-lexperience-nord-coreenne)** — La Nation, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Engineer Jacob Kudzayi Mutisi argues in ZimEye, on 10 November 2026, that Zimbabwe's Smart Traffic Management System needs accurate vehicle ownership records before it relies on camera fines. He proposes free online ownership transfers through the Central Vehicle Registry. He also proposes driver identification with privacy safeguards. He calls for an independent vulnerability assessment and penetration test of the whole system. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Cybersecurity](#cybersecurity).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="NAM" markdown="1">
-
-**[When technology outpaces education](https://thebrief.com.na/2026/11/when-technology-outpaces-education/)** — The Brief, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a>
-
-Dr Etuna Simon argues in The Brief, in November 2026, that Namibian higher education lags behind AI. The article points to curricula, lecturer readiness and unequal student access. It calls for sustained training for lecturers, assessment that tests judgement as well as recall, and continuous curriculum work with industry. It also asks for wider use of labour-market data, such as vacancy trends and graduate destination studies. <span class="bulletin-item__also">*Also under [Literacy](#literacy) and [Digital divides](#digital-divides).*</span>
+A commentary published on 11 November 2026 asks whether Africa should build a separate national internet, as North Korea did with Kwangmyong, or seek sovereignty through control of digital resources. It cites the filtering systems of China and Russia and India's public digital infrastructure as other approaches. The author is Mariama Salifou. <span class="bulletin-item__also">*Also under [Digital sovereignty](#digital-sovereignty).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="TZA" markdown="1">
+<div class="bulletin-item" data-places="RWA" markdown="1">
 
-**[Mwinyi cautions against overreliance on AI in public service](https://www.thecitizen.co.tz/tanzania/zanzibar/mwinyi-cautions-against-overreliance-on-ai-in-public-service-5665962)** — The Citizen, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+**[Rwanda’s skills-first path to AI governance](https://www.newtimes.co.rw/article/40360/opinions/rwandas-skills-first-path-to-ai-governance)** — The New Times, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
 
-Zanzibar President Hussein Ali Mwinyi told the 11th annual meeting of the Africa Public Service Human Resource Managers Network in Unguja on 9 November 2026 that AI should remain a tool under human judgement and accountability. First Vice-President Othman Masoud Othman read the speech for him. The Citizen reports 1,140 participants from 21 African countries. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
+An opinion piece by Moses Mugisha, published on 11 November 2026, reviews Rwanda's 2023 National AI Policy. Mugisha says about 70 per cent of it concerns skills. Mugisha argues that rules should now cover physical AI, such as humanoid robots, because the policy's principles are not statutory duties. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="GHA XAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="GAB" markdown="1">
 
-**[Bringing more voices into the room: RIA at the Africa IGF 2026](https://researchictafrica.net/2026/11/10/bringing-more-voices-into-the-room-ria-at-the-africa-igf-2026/)** — Research ICT Africa, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+**[Restoring social media access comes at a cost in Gabon](https://globalvoices.org/2026/11/11/estoring-social-media-access-comes-at-a-cost-in-gabon/)** — Global Voices, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
 
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XAF XGL" markdown="1">
+
+**[Note 77: Openness Alibi — How the RIR System Closed the Door on Its Own Legitimacy](https://heng.lu/openness-alibi/)** — Lu Heng (heng.lu), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
+
+**[ITU PP-26 Doha: Ethel Cofie calls for stronger African influence in ITU digital policy negotiations at PP-26](https://www.techreviewafrica.com/news/8236/itu-pp-26-doha-ethel-cofie-calls-for-stronger-african-influence-in-itu-digital-policy-negotiations-at-pp-26)** — TechReviewAfrica, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
@@ -406,19 +254,11 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 ### New investments
 
-<div class="bulletin-item" data-places="ZAF" markdown="1">
+<div class="bulletin-item" data-places="NGA" markdown="1">
 
-**[South Africa’s Yoco Secures $100 Million Credit Facility to Expand SME Financing](https://techafricanews.com/2026/11/10/south-africa-yoco-secures-100-million-credit-facility-sme-financing/)** — Tech Africa News, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+**[Nigeria Opens ₦4 Billion Funding Applications for 3MTT Cohort 5 Delivery Partners](https://techafricanews.com/2026/11/11/nigeria-3mtt-cohort-5-opens-4-billion-funding-applications/)** — Tech Africa News, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-South African fintech Yoco secured a US$100 million credit facility from Victory Park Capital Advisors to expand its Yoco Capital merchant financing, Tech Africa News reported on 10 November 2026. Offers are pre-approved on merchants' sales data and repaid from daily takings. Yoco says it has provided more than R6.5 billion to over 40,000 merchants since 2018. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="XAF" markdown="1">
-
-**[DFC Approves Largest Equity Deal in West Indian Ocean Cable Company](https://nexusmedia.ug/dfc-approves-largest-equity-deal-in-west-indian-ocean-cable-company/)** — Nexus Media, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
-
-Jim Kelly of the US International Development Finance Corporation briefed the press on 9 November 2026. He said DFC's equity investment in the West Indian Ocean Cable Company is its largest to date. He expects the deal to mobilise up to USD 400 million of private capital and expand networks in more than 30 African countries. DFC's commitments across Africa exceed USD 14.5 billion, Nexus Media reported. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity) and [US / hyperscaler activities](#us-hyperscaler-activities).*</span>
+Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcome-linked funding for delivery partners of 3MTT Cohort 5. The EU and Denmark fund it through GIZ, HAUS and ESTDEV, with a MacArthur Foundation grant. Applications close on 30 November 2026. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills).*</span>
 
 </div>
 
@@ -426,201 +266,137 @@ Jim Kelly of the US International Development Finance Corporation briefed the pr
 
 ### Connectivity
 
-<div class="bulletin-item" data-places="ZAF KEN" markdown="1">
+<div class="bulletin-item" data-places="NGA" markdown="1">
 
-**[Vodacom Revenue Rises 25.6% to R102.5bn as Safaricom Boosts Fintech Growth](https://techafricanews.com/2026/11/10/vodacom-revenue-rises-25-6-to-r102-5bn-as-safaricom-boosts-fintech-growth/)** — Tech Africa News, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+**[Nigeria’s active mobile subscriptions hit 200 million after NIN-SIM purge](https://techcabal.com/2026/11/11/nigerias-mobile-subscriptions/)** — TechCabal, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-Vodacom Group reported revenue of R102.5 billion for the six months to 30 September 2026, up 25.6% after it consolidated Safaricom, Tech Africa News reported on 10 November 2026. Financial services revenue rose 99% to R15.9 billion, with 108 million financial services customers. Transactions worth US$575.5 billion passed across Vodacom and Safaricom, and smartphone penetration reached 69.8%. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="ZAF KEN EGY TZA COD" markdown="1">
-
-**[Vodacom Group reviewed interim results and cash dividend declaration for the six months ended 30 September 2026](https://www.vodacom.com/news-article.php?articleID=17107)** — Vodacom Group, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
-
-Vodacom Group reported 250 million customers, up 11.8%, in its interim results for the six months to 30 September 2026, published on 10 November. It holds 55% of Safaricom. Kenya's High Court declared the acquisition null and void, but the Court of Appeal ordered the status quo kept pending an expedited appeal. The interim dividend is 355 cents a share, up 7.6%. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
+Nigeria's active mobile subscriptions reached 200.3 million in September 2026, Nigerian Communications Commission data show. That is up 29 per cent in two years. MTN had 104.6 million and Airtel 68 million, about 86 per cent of the total. In 2024 lines fell from 224.7 million to 164.9 million when SIMs without a verified NIN were cut off. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="GHA" markdown="1">
+<div class="bulletin-item" data-places="CIV XAF" markdown="1">
 
-**[NCA Hosts Helios Towers Delegation for Stakeholder Engagement](https://nca.org.gh/2026/11/10/nca-hosts-helios-towers-delegation-for-stakeholder-engagement/)** — National Communications Authority, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+**[Distant wars pose risks for Africa’s digital services](https://www.semafor.com/article/11/11/2026/distant-wars-pose-risks-for-africas-digital-services)** — Semafor, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Ghana's National Communications Authority met a Helios Towers Ghana delegation on 3 November 2026. The tower company raised delays in environmental permits, community approvals for towers and the disconnection of sites from the electricity grid. The NCA's Director-General offered to broker talks with the environmental regulators, according to the authority's release. <span class="bulletin-item__also">*Also under [Energy](#energy).*</span>
+Yango users in Côte d'Ivoire had intermittent booking and delivery failures in October 2026 after the company moved operations between data centres. Its Dubai-based spokesperson told Semafor on 11 November 2026 that a partner said in September that Gulf infrastructure hit by Iranian attacks could no longer support it. The partner and new location were not named. <span class="bulletin-item__also">*Also under [Data Storage](#data-storage) and [Digital sovereignty](#digital-sovereignty).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="CPV" markdown="1">
+
+**[CVTelecom restabelece serviços de telecomunicações no Fogo, Brava, Sal e Boa Vista](https://www.anacao.cv/noticia/2026/11/11/cvtelecom-restabelece-servicos-de-telecomunicacoes-no-fogo-brava-sal-e-boa-vista/)** — A Nacao, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CPV/CPV-monthly.html" title="CPV">Cape Verde</a>
+
+A fire at CVTelecom's Mindelo station on São Vicente on the night of 10 November 2026 disrupted telecommunications on several Cabo Verde islands. On 11 November the operator reported services fully restored on Fogo and Brava, and mobile and fixed internet restored on Sal and Boa Vista. Other services remained affected (A Nação, 11 November 2026).
+
+</div>
+
+<div class="bulletin-item" data-places="TCD" markdown="1">
+
+**[Chad – Living in a landlocked, dangerous neighbourhood with only one international fibre exit](https://russellsouthwood.substack.com/p/chad-living-in-a-landlocked-dangerous)** — Russell Southwood (Substack), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
+
+An analysis by Russell Southwood of Balancing Act, dated November 2026, describes Chad's telecoms market. It reports an Airtel and Moov mobile duopoly and a single international transit route through Camtel to Kribi in Cameroon. It also covers Starlink licensing and Moov's first fibre-to-the-home offer. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services), [ICT Industry](#ict-industry) and [Data Storage](#data-storage).*</span>
 
 </div>
 
 <div class="bulletin-item" data-places="ZAF" markdown="1">
 
-**[ICASA invites stakeholder input on the planned licensing of high-demand spectrum](https://www.icasa.org.za/news/2026/icasa-invites-stakeholder-input-on-the-planned-licensing-of-high-demand-spectrum)** — ICASA, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+**[Beyond Access: Closing South Africa's Digital Participation Gap](https://www.cigionline.org/publications/beyond-access-closing-south-africas-digital-participation-gap/)** — Centre for International Governance Innovation (CIGI), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-ICASA opened a stakeholder questionnaire on 10 November 2026 on the second phase of licensing high-demand IMT spectrum. It covers the IMT750, IMT800, IMT1500, IMT2300, IMT3300 and IMT3500 bands. It may also cover the 80 MHz once reserved for the Wireless Open Access Network. Responses are due by 16h00 on 30 November 2026, before an Information Memorandum and an Invitation to Apply.
-
-</div>
-
-<div class="bulletin-item" data-places="AGO" markdown="1">
-
-**[Angola seeks stronger technology, investment ties with Qatar: Minister](https://thepeninsulaqatar.com/article/10/11/2026/angola-seeks-stronger-technology-investment-ties-with-qatar-minister)** — The Peninsula Qatar, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a>
-
-Angola's minister Mário Oliveira invited Qatari investors into Angola's technology sector in November 2026. He spoke in an interview at the ITU Plenipotentiary Conference in Doha, The Peninsula reported. He said the Conecta Angola programme involves 71 small internet service providers, and ANGOSAT-2 serves Mozambique, Namibia, Zambia and South Africa. He added that the SADC Shared Satellite Programme, led by Angola, has secured eight ITU orbital positions. <span class="bulletin-item__also">*Also under [Gulf/UAE activities](#gulfuae-activities) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+Policy Brief No. 246 by Luke Boyle, published in November 2026, says about 17 million people in South Africa remain unconnected. It argues that private providers' consumption-driven models risk reinforcing inequality. It makes the case for community-centred connectivity projects, backed by supportive regulation and finance. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services) and [Digital divides](#digital-divides).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
-**[Osun State Enters Partnership with UK on Digital Transformation Drive](https://www.osunstate.gov.ng/2026/11/osun-state-enters-partnership-with-uk-on-digital-transformation-drive/)** — osunstate.gov.ng, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="NAM" markdown="1">
-
-**[ITU PP-26 Doha: Namibia reaffirms commitment to inclusive digital transformation at ITU Conference](https://techreviewafrica.com/news/8239/itu-pp-26-doha-namibia-reaffirms-commitment-to-inclusive-digital-transformation-at-itu-conference)** — TechReviewAfrica, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="AGO BDI BEN BFA BWA CAF CIV CMR COD COG COM CPV DJI DZA EGY ERI ETH GAB GHA GIN GMB GNB GNQ KEN LBR LBY LSO MAR MDG MLI MOZ MRT MUS MWI NAM NER NGA RWA SDN SEN SLE SOM SSD STP SWZ SYC TCD TGO TUN TZA UGA ZAF ZMB ZWE" markdown="1">
-
-**[ICT Regulatory Tracker (2026-11-10)](https://app.gen5.digital/tracker/metrics)** — International Telecommunication Union (ITU), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CPV/CPV-monthly.html" title="CPV">Cape Verde</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ERI/ERI-monthly.html" title="ERI">Eritrea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNB/GNB-monthly.html" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNQ/GNQ-monthly.html" title="GNQ">Eq. Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/STP/STP-monthly.html" title="STP">São Tomé</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+**[Telkom opposes proposed internet metering rules](https://www.standardmedia.co.ke/national/article/2001562098/telkom-opposes-proposed-internet-metering-rules)** — The Standard, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="MOZ" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="SEN" markdown="1">
 
-**[Governo apresenta em Doha prioridades para acelerar digitalização do país](https://aimnews.org/2026/11/10/governo-apresenta-em-doha-prioridades-para-acelerar-digitalizacao-do-pais/)** — AIM, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
+**[Starlink suspended in Senegal](https://thepoint.gm/africa/gambia/headlines/starlink-suspended-in-senegal)** — The Point, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN XAF" markdown="1">
 
-**[Ghana - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/ghana/)** — International Telecommunication Union (statement by Ghana), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+**[Kenya Backs 50 African Proposals on AI and Digital Infrastructure at ITU Meeting](https://tukio.co.ke/kenya-backs-50-african-proposals-on-ai-and-digital-infrastructure-at-itu-meeting/)** — Tukio, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
-
-**[DFC Approves Largest Equity Deal in West Indian Ocean Cable Company](https://nexusmedia.ug/dfc-approves-largest-equity-deal-in-west-indian-ocean-cable-company/)** — Nexus Media, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
-
-Summarised under [New investments](#new-investments).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="CIV" markdown="1">
-
-**[Côte d'Ivoire : un cadre en préparation pour encadrer les réseaux de fibre optique](https://www.wearetech.africa/fr/fils/actualites/tech/cote-divoire-un-cadre-en-preparation-pour-encadrer-les-reseaux-de-fibre-optique)** — wearetech.africa, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
-
-Summarised under [Standards](#standards).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="AGO" markdown="1">
-
-**[Angola apresenta à UIT projectos de fibra óptica, satélite e cloud](https://pti.ao/angola-apresenta-a-uit-projectos-de-fibra-optica-satelite-e-cloud/)** — Portal de T.I., 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="CMR" markdown="1">
-
-**[Agence de Régulation des Télécommunications, Communiqué n° 0000166/ART/DG du 10 novembre 2026 (contrôle pluridisciplinaire des opérateurs CAMTEL, MTN Cameroon et Orange Cameroun)](https://art.cm/sites/default/files/documents/COMMUNIQUE%20ART%2010%20NOV%202026.pdf)** — Agence de Régulation des Télécommunications (ART), Cameroun, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-</div>
-
 ### Data Storage
 
-<div class="bulletin-item" data-places="EGY ZAF KEN" markdown="1">
+<div class="bulletin-item" data-places="EGY" markdown="1">
 
-**[Vodacom eyes SA and Kenya for AI data centre hubs after Egypt](https://techcentral.co.za/vodacom-ai-data-centre-hubs-south-africa-kenya-egypt/288232/)** — TechCentral, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+**[النيابة العامة تفتتح مركز بيانات للذكاء الاصطناعى بالرحاب السبت المقبل](https://www.youm7.com/story/2026/11/11/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B1%D9%83%D8%B2-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D8%A8%D8%A7%D9%84%D8%B1%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84/7614923)** — Youm7, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Vodacom Group CEO Shameel Joosub spoke to TechCentral on 10 November 2026 about a sovereign AI data centre in Egypt. Vodafone Egypt plans it with Elsewedy Electric and Cassava Technologies, at a total cost of about US$1 billion. It will be built in modules, and Vodafone Egypt will own about 30%. He named South Africa and Kenya as further AI data centre hubs, with planning there at a very early stage. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="NGA" markdown="1">
-
-**[Nigeria turns to hybrid cloud infrastructure for its postcode database](https://techcabal.com/2026/11/10/nigeria-hybrid-cloud-storage-postcode/)** — TechCabal, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-NIPOST said Nigeria's digital postcode database is hosted in the country on Galaxy Backbone, under the Level 3 controls of the National Digital Cloud Policy of August 2026, TechCabal reported on 10 November 2026. AWS serves only the public website. NIPOST said its data protection impact assessment with the NDPC is still in progress. <span class="bulletin-item__also">*Also under [Registries](#registries) and [Digital sovereignty](#digital-sovereignty).*</span>
+Egypt's Public Prosecution announced on 11 November 2026 that it will open an AI data centre at the Prosecutor-General's office in Rehab on 14 November. It has invited journalists to register to attend. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="CAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="CIV XAF" markdown="1">
 
-**[Awarded tender — CAR- Public Sector Digital Governance Project: Travaux d'aménagement de la salle serveur de l'ACCT et la réhabilitation des bureaux des experts Sim-Ba — for Central African Republic by WB in Civil Engineering sector —](https://www.developmentaid.org/tenders/view/1744954/car-public-sector-digital-governance-project-travaux-damenagement-de-la-salle-serveur-de-lacct-et-la)** — DevelopmentAid, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a>
-
-An award notice under the World Bank-funded Public Sector Digital Governance Project in the Central African Republic was posted on 10 November 2026. It covers works to fit out the ACCT server room and rehabilitate the Sim-Ba experts' offices, under bid reference 137. The listing names no contractor, value or award date. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="ETH" markdown="1">
-
-**[Ethiopia presses public institutions to consolidate infrastructure under national cloud strategy](https://techreviewafrica.com/news/8212/x)** — Tech Review Africa, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-### Energy
-
-<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
-
-**[NCA Hosts Helios Towers Delegation for Stakeholder Engagement](https://nca.org.gh/2026/11/10/nca-hosts-helios-towers-delegation-for-stakeholder-engagement/)** — National Communications Authority, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+**[Distant wars pose risks for Africa’s digital services](https://www.semafor.com/article/11/11/2026/distant-wars-pose-risks-for-africas-digital-services)** — Semafor, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Summarised under [Connectivity](#connectivity).
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="TCD" markdown="1">
+
+**[Chad – Living in a landlocked, dangerous neighbourhood with only one international fibre exit](https://russellsouthwood.substack.com/p/chad-living-in-a-landlocked-dangerous)** — Russell Southwood (Substack), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+### Energy
+
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
+
+**[ITU PP-26 Doha: African Union calls for integrated energy and digital infrastructure planning to support Africa’s AI ambitions](https://www.techreviewafrica.com/news/8241/itu-pp-26-doha-african-union-calls-for-integrated-energy-and-digital-infrastructure-planning-to-support-africas-ai-ambitions)** — TechReviewAfrica, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
 ### Cybersecurity
 
-<div class="bulletin-item" data-places="MRT" markdown="1">
+<div class="bulletin-item" data-places="TGO" markdown="1">
 
-**[موريتانيا توقع مذكرة تفاهم مع شركة أمريكية لتعزيز الأمن السيبراني - صحيفة تقدمي الألكترونية](https://ar.taqadoumy.mr/archives/89284)** — Taqadoumy, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a>
+**[Togo Rallies Digital Sector Against Cyber Threats at Inaugural Cyber Arena](https://www.togofirst.com/en/itc/1111-20607-togo-rallies-digital-sector-against-cyber-threats-at-inaugural-cyber-arena)** — Togo First, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
 
-Mauritania's Ministry of Digital Transformation signed a memorandum of understanding with the US company Cybashon in Nouakchott on 10 November 2026. It covers protection of state systems and networks, digitisation of administrative procedures, and public services in remote areas. It also covers skills training through the Africa Digi Empower programme, with Cisco Networking Academy certification, Taqadoumy reports. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Training and skills](#training-and-skills).*</span>
+Togo's National Cybersecurity Agency (ANCy) announced on 10 November 2026 that it will hold the first Togo Cyber Arena in Lomé on 19 and 20 November. Government agencies, businesses and cybersecurity specialists are invited. The programme includes talks, a national student contest and a live security demonstration (Togo First, 11 November 2026).
 
 </div>
 
 <div class="bulletin-item" data-places="KEN" markdown="1">
 
-**[Launch of the SecureKE/Konza Sovereign Security Operations Centre (SOC)](https://ict.go.ke/launch-securekekonza-sovereign-security-operations-centre-soc)** — Ministry of Information, Communications and the Digital Economy (Kenya), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+**[New Konza centre to boost fight against cyber-attacks](https://nation.africa/kenya/business/new-konza-centre-to-boost-fight-against-cyber-attacks--5666060)** — Daily Nation, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
-Kenya's ICT Principal Secretary, John Tanui, launched the SecureKE/Konza Sovereign Security Operations Centre, reported on 10 November 2026. The centre is a partnership between the Konza Technopolis Development Authority and SecureKE. It offers public and private institutions continuous monitoring, threat detection, incident investigation and coordinated response, according to the ICT ministry.
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="ZWE" markdown="1">
-
-**[Zimbabwe’s Smart Traffic System Built On A Broken Database](https://www.zimeye.net/2026/11/10/zimbabwes-smart-traffic-system-built-on-a-broken-database/)** — ZimEye, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+Kenya's government launched a security operations centre at Konza Technopolis that monitors networks with AI and coordinates responses to incidents. Private firms pay an annual fee based on the assets monitored. The Communications Authority reported 2.7 billion detected threat events from July to September 2026, up 14.45 per cent on the previous quarter (reported 11 November 2026).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="MOZ" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
-**[Governo apresenta em Doha prioridades para acelerar digitalização do país](https://aimnews.org/2026/11/10/governo-apresenta-em-doha-prioridades-para-acelerar-digitalizacao-do-pais/)** — AIM, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="AGO BDI BEN BFA BWA CAF CIV CMR COD COG COM CPV DJI DZA EGY ERI ETH GAB GHA GIN GMB GNB GNQ KEN LBR LBY LSO MAR MDG MLI MOZ MRT MUS MWI NAM NER NGA RWA SDN SEN SLE SOM SSD STP SWZ SYC TCD TGO TUN TZA UGA ZAF ZMB ZWE" markdown="1">
-
-**[Global Cyberlaw Tracker (2026-11-10)](https://unctad.org/topic/ecommerce-and-digital-economy/ecommerce-law-reform/summary-adoption-e-commerce-legislation-worldwide)** — UN Trade and Development (UNCTAD), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CPV/CPV-monthly.html" title="CPV">Cape Verde</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ERI/ERI-monthly.html" title="ERI">Eritrea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNB/GNB-monthly.html" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNQ/GNQ-monthly.html" title="GNQ">Eq. Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/STP/STP-monthly.html" title="STP">São Tomé</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+**[Telkom opposes proposed internet metering rules](https://www.standardmedia.co.ke/national/article/2001562098/telkom-opposes-proposed-internet-metering-rules)** — The Standard, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
+
+**[ITU PP-26 Doha: Ethel Cofie calls for stronger African influence in ITU digital policy negotiations at PP-26](https://www.techreviewafrica.com/news/8236/itu-pp-26-doha-ethel-cofie-calls-for-stronger-african-influence-in-itu-digital-policy-negotiations-at-pp-26)** — TechReviewAfrica, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
@@ -628,85 +404,61 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 ### Data Exchange
 
-<div class="bulletin-item" data-places="SEN" markdown="1">
+<div class="bulletin-item" data-places="DZA" markdown="1">
 
-**[Sénégal : une plateforme numérique pour dématérialiser les procédures minières](https://lemarche.finance/senegal-une-plateforme-numerique-pour-dematerialiser-les-procedures-minieres/)** — Le Marché Finance, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+**[Portail numérique: Les documents en ligne désormais reconnus](https://www.echoroukonline.com/portail-numerique-les-documents-en-ligne-desormais-reconnus)** — Echorouk El Yawmi, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
 
-Senegal's Ministry of Mines and Geology validated its integrated mining-sector data platform, PIDSM, Le Marché Finance reported on 10 November 2026; the workshop date is not given. The one-stop portal shows mining perimeters in real time, publishes geological data and takes title applications online. It links LandFolio, SIGEOS, E-Gouv, SenTax and SenTrésor through APIs. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Open data](#open-data).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="SEN" markdown="1">
-
-**[Sénégal : la Justice accélère la digitalisation des entreprises](https://fr.apanews.net/technologies/senegal-la-justice-accelere-la-digitalisation-des-entreprises/)** — APAnews, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
-
-Senegal's Justice Minister, Moussa Sarr, agreed on 10 November 2026 to deploy APIX's online company-creation platform in the courts, APAnews reports. The court registries that keep the RCCM trade and movable-credit register would be interconnected with other agencies, so that a company can be created in hours. He asked for a governance framework that brings together the institutions involved. <span class="bulletin-item__also">*Also under [Registries](#registries).*</span>
+Algeria's High Commission for Digitisation said all public administrations now accept documents issued on the Dzair Digital Services portal. A decision of Prime Minister Sifi Ghrieb requires it. The portal has grown from 21 services at its July 2026 launch to 68. It had over two million registered users on 10 November 2026. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="NGA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="BEN XWA" markdown="1">
 
-**[Nigeria Integrates 17m Migration Records, Advances EU Deal](https://thefact.ng/nigeria-integrates-17m-migration-records-advances-eu-deal/)** — TheFact Daily, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+**[The Third Group of the ECOWAS Trade Liberalisation Scheme (ETLS) Task Force Holds Its Inaugural Meeting on 5 and 6 November 2026 in Cotonou](https://www.ecowas.int/the-third-group-of-the-ecowas-trade-liberalisation-scheme-etls-task-force-holds-its-inaugural-meeting-on-5-and-6-november-2026-in-cotonou/)** — ECOWAS Commission, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Nigeria's Interior Minister, Olubunmi Tunji-Ojo, said on 10 November 2026 that over 17 million migration records had been integrated into the automated migration management system. TheFact Daily reported this and compares it with over 15 million in October. He spoke at a meeting in Abuja with EU Commissioner Magnus Brunner on the readmission agreement. An EU delegate there said almost EUR 100 million in additional funding had been made available. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="NGA" markdown="1">
-
-**[FG integrates 17bn migration records, close readmission talks with EU](https://www.vanguardngr.com/2026/11/fg-integrates-17bn-migration-records-close-readmission-talks-with-eu/)** — Vanguard, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-Nigeria's Interior Ministry said on 10 November 2026 that more than 17 billion migration records had been moved into an integrated system, Vanguard reports. The system is used to verify the nationality of returnees. The ministry said this as it closed negotiations with the EU on a readmission agreement, which had run for about a decade. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="NGA" markdown="1">
-
-**[Export processing on National Single Window begins December 14 - Businessday NG](https://businessday.ng/news/article/export-processing-on-national-single-window-begins-december-14/)** — BusinessDay NG, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-Nigeria's National Single Window will open export processing on 14 December 2026, its secretariat said on 10 November 2026. A first group of permit-issuing agencies goes live then: NAQS, SON, NAFDAC, NACCIMA, FPIS and REX. CBN, Customs, NEPZA and four ministries follow in the first quarter of 2027. Customs' regulatory HS-code list is due by 1 December 2026 and will be enforced from 1 January 2027.
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="COD" markdown="1">
-
-**[Augustin Kibassa Maliba appelle les DSI à devenir les architectes de la transformation numérique de l’État - Actu7.cd](https://actu7.cd/2026/11/10/augustin-kibassa-maliba-appelle-les-dsi-a-devenir-les-architectes-de-la-transformation-numerique-de-letat/)** — Actu7.cd, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
 ### Digital Identity and CRVS
 
+<div class="bulletin-item" data-places="SDN" markdown="1">
+
+**[منصة بلدنا - الرئيسية وصفحة تسجيل الدخول (Baldna platform home and login pages)](https://baldna.gov.sd/)** — وزارة التحول الرقمي والاتصالات (Ministry of Digital Transformation and Communications, Sudan), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
+
+Sudan's Baldna portal is run by the Ministry of Digital Transformation and Communications. Users log in with the national digital identity, SudaPass. On 11 November 2026 its home page showed 48 government institutions and 141 digital services. It reported more than 265,000 completed transactions. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="EGY" markdown="1">
+
+**[بصمة الوجه وشهادة توقيع.. آلية التحقق من الهوية عند إصدار التوكيلات عن بُعد](https://www.youm7.com/story/2026/11/11/%D8%A8%D8%B5%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D8%AC%D9%87-%D9%88%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A2%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1/7612009)** — Youm7, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Egypt's remote general power-of-attorney service on the Digital Egypt platform checks a face scan from the digital identity app against state biometric records. It then issues a one-time remote e-signature certificate for each transaction, on infrastructure built by ITIDA, Youm7 reported on 11 November 2026. The launch date has not been stated. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="BFA" markdown="1">
+
+**[Opération d’enregistrement de masse de l’identifiant unique : Le Capitaine Ibrahim TRAORÉ lance l’opération d’enrôlement](https://www.sidwaya.info/2026/11/11/operation-denregistrement-de-masse-de-lidentifiant-unique-le-capitaine-ibrahim-traore-lance-loperation-denrolement/)** — Sidwaya, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
+
+Burkina Faso's President launched mass enrolment in the electronic unique identifier register in Ouagadougou on 11 November 2026. Each person receives a free, random 12-digit number after photograph, fingerprint and iris capture at 160 sites and by mobile teams. The digital transition ministry says it replaces no existing identity document. <span class="bulletin-item__also">*Also under [Registries](#registries).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="NGA" markdown="1">
 
-**[Suspected AI-generated photos, duplicates trigger Nigeria biometric election cleanup](https://www.biometricupdate.com/202611/suspected-ai-generated-photos-duplicate-records-trigger-nigeria-biometric-election-cleanup)** — Biometric Update, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+**[10 states get mobile centres to tackle documentation crisis among 3.7m displaced Nigerians](https://www.vanguardngr.com/2026/11/10-states-get-mobile-centres-to-tackle-documentation-crisis-among-3-7m-displaced-nigerians/)** — Vanguard, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-Nigeria's electoral commission, INEC, said it had removed more than 1.6 million invalid voter records after screening with its automated biometric identification system. Biometric Update reported this on 10 November 2026. Of 268,000 records adjudicated, 217,722 were confirmed invalid. INEC also identified 54 staff in 10 states implicated in registration irregularities, including AI-generated photographs, ahead of certifying the final register on 15 December 2026. <span class="bulletin-item__also">*Also under [Registries](#registries) and [AI](#ai).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="ZAF" markdown="1">
-
-**[Home Affairs launches first phase of Digital Asylum System to cut delays, clear backlogs, and combat abuse](https://www.gov.za/news/media-statements/home-affairs-launches-first-phase-digital-asylum-system-cut-delays-clear)** — South African Government (Department of Home Affairs), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
-
-South Africa's Department of Home Affairs opened the first phase of its Digital Asylum System to test cases on 10 November 2026. The portal on Myhomeaffairsonline records intentions to apply for asylum, with facial biometrics, personal details and documents. Public intake follows the next weekend software release. The department says later phases will add biometric checks and AI tools for the appeals backlog. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+Nigeria's Humanitarian Affairs ministry, UNHCR and Germany handed mobile one-stop-shop vehicles to 10 states (reported 11 November 2026). The vehicles bring NIN enrolment, birth registration, BVN and SIM registration to displaced people. Nigeria has 3.7 million of them. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
 
 </div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
-**[Nigeria Integrates 17m Migration Records, Advances EU Deal](https://thefact.ng/nigeria-integrates-17m-migration-records-advances-eu-deal/)** — TheFact Daily, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+**[Nigeria’s active mobile subscriptions hit 200 million after NIN-SIM purge](https://techcabal.com/2026/11/11/nigerias-mobile-subscriptions/)** — TechCabal, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-Summarised under [Data Exchange](#data-exchange).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
-
-**[FG integrates 17bn migration records, close readmission talks with EU](https://www.vanguardngr.com/2026/11/fg-integrates-17bn-migration-records-close-readmission-talks-with-eu/)** — Vanguard, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-Summarised under [Data Exchange](#data-exchange).
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
@@ -714,215 +466,109 @@ Summarised under [Data Exchange](#data-exchange).
 
 <div class="bulletin-item" data-places="KEN" markdown="1">
 
-**[Why lower transfer fees cannot easily break M-PESA’s mobile money dominance](https://techcabal.com/2026/11/10/pricing-gaps-m-pesa-pesalink-kenya/)** — TechCabal, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+**[Airtel Kenya Partners Pesalink to Expand Money Transfers to 30 Financial Institutions](https://techafricanews.com/2026/11/11/airtel-kenya-pesalink-money-transfers-30-financial-institutions/)** — Tech Africa News, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
-Postbank's entry to PesaLink brings Kenya's interbank payments network to 80 institutions, including all 38 licensed commercial banks. PesaLink says it processes an average of KES 4 billion a day, up 24% on a year earlier. TechCabal compares bank tariffs, with 19 banks on a flat KES 20 fee, and asks whether lower fees can draw users from M-PESA.
-
-</div>
-
-<div class="bulletin-item" data-places="SLE" markdown="1">
-
-**[Sierra Leone Advances FinTech Innovation as UniPod Becomes Startup Acceleration Hub](https://spearnewssl.com/sierra-leone-advances-fintech-innovation-as-unipod-becomes-startup-acceleration-hub/)** — The Spear News SL, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
-
-A FinTech Innovation Lab has been set up at Sierra Leone's University Innovation Pod (UniPod) by UNCDF, the EU and the Bank of Sierra Leone, The Spear News SL reported on 10 November 2026. It gives early-stage fintech startups acceleration support and access to the central bank's regulatory sandbox. The date it was set up is not stated. <span class="bulletin-item__also">*Also under [Innovation ecosystem](#innovation-ecosystem).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="GIN" markdown="1">
-
-**[Mojaloop Foundation's Open-Source Technology Powers Launch of NimbaPay, Guinea's National Instant Payment System](https://mojaloop.io/mojaloop-foundations-open-source-technology-powers-launch-of-nimbapay-guineas-national-instant-payment-system/)** — Mojaloop Foundation, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a>
-
-The Mojaloop Foundation said on 10 November 2026 that NimbaPay went live on 22 July 2026. NimbaPay is Guinea's national instant payment system, built on the foundation's open-source software. It reported 24,064 transactions worth GNF 19.151 billion between June and August 2026, rising from 5,542 in July to 18,459 in August. The central bank BCRG and the national switch GuiM run the system.
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="ZAF KEN" markdown="1">
-
-**[Vodacom Revenue Rises 25.6% to R102.5bn as Safaricom Boosts Fintech Growth](https://techafricanews.com/2026/11/10/vodacom-revenue-rises-25-6-to-r102-5bn-as-safaricom-boosts-fintech-growth/)** — Tech Africa News, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
-
-Summarised under [Connectivity](#connectivity).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="ZAF KEN EGY TZA COD" markdown="1">
-
-**[Vodacom Group reviewed interim results and cash dividend declaration for the six months ended 30 September 2026](https://www.vodacom.com/news-article.php?articleID=17107)** — Vodacom Group, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
-
-Summarised under [Connectivity](#connectivity).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
-
-**[South Africa’s Yoco Secures $100 Million Credit Facility to Expand SME Financing](https://techafricanews.com/2026/11/10/south-africa-yoco-secures-100-million-credit-facility-sme-financing/)** — Tech Africa News, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
-
-Summarised under [New investments](#new-investments).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="CMR" markdown="1">
-
-**[CEMAC : A CALL FOR FINANCIAL INCLUSION FOR ALL AT APIDE 2026](https://seasonmedia.net/cemac-a-call-for-financial-inclusion-for-all-at-apide-2026/)** — Season Media, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
-
-Summarised under [Regional collaboration](#regional-collaboration).
+Airtel Kenya and Integrated Payment Systems Limited, which operates Pesalink, signed an agreement on 10 November 2026. It lets Airtel Money users send funds from their wallets to accounts at 30 banks, SACCOs and microfinance banks on the Pesalink network. An account-confirmation check runs before each transfer (reported 11 November 2026).
 
 </div>
 
 ### Registries
 
-<div class="bulletin-item bulletin-item--xref" data-places="SEN" markdown="1">
+<div class="bulletin-item" data-places="MAR" markdown="1">
 
-**[Sénégal : la Justice accélère la digitalisation des entreprises](https://fr.apanews.net/technologies/senegal-la-justice-accelere-la-digitalisation-des-entreprises/)** — APAnews, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+**[Morocco is making property paperwork a little less complicated](https://lnt.ma/morocco-is-making-property-paperwork-a-little-less-complicated/)** — La Nouvelle Tribune, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
 
-Summarised under [Data Exchange](#data-exchange).
+Morocco's land conservation agency, ANCFCC, has opened an online service for ownership certificates (reported 11 November 2026). Owners of registered property can request and download them without visiting a registry office. The agency says it aims to cut waiting times and protect personal information.
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="UGA" markdown="1">
 
-**[Suspected AI-generated photos, duplicates trigger Nigeria biometric election cleanup](https://www.biometricupdate.com/202611/suspected-ai-generated-photos-duplicate-records-trigger-nigeria-biometric-election-cleanup)** — Biometric Update, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+**[URSB Defends System Failures, Data Exposure as MPs Probe Shs1bn Financial Gap](https://nilepost.co.ug/news/386416/ursb-defends-system-failures-data-exposure-as-mps-probe-shs1bn-financial-gap)** — Nile Post, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+Summarised under [Data protection](#data-protection).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="BFA" markdown="1">
+
+**[Opération d’enregistrement de masse de l’identifiant unique : Le Capitaine Ibrahim TRAORÉ lance l’opération d’enrôlement](https://www.sidwaya.info/2026/11/11/operation-denregistrement-de-masse-de-lidentifiant-unique-le-capitaine-ibrahim-traore-lance-loperation-denrolement/)** — Sidwaya, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
 
 Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
-
-**[Nigeria turns to hybrid cloud infrastructure for its postcode database](https://techcabal.com/2026/11/10/nigeria-hybrid-cloud-storage-postcode/)** — TechCabal, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-Summarised under [Data Storage](#data-storage).
-
-</div>
-
-### Sectoral management information systems
-
-<div class="bulletin-item" data-places="MRT" markdown="1">
-
-**[L’Université de Nouakchott lance une plateforme numérique de certification et d’authentification des diplômes et attestations basée sur la technologie blockchain](https://ami.mr/fr/archives/305997)** — AMI, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a>
-
-Université de Nouakchott launched a blockchain-based platform on 10 November 2026 to issue and verify its diplomas and certificates electronically. It was built with UNDP support and the Tunisian firm Kalis. AMI reports that it is meant to curb forgery and let employers and institutions in Mauritania and abroad check qualifications.
 
 </div>
 
 ### Other GovTech and e-Gov
 
-<div class="bulletin-item" data-places="ZWE" markdown="1">
+<div class="bulletin-item" data-places="GHA" markdown="1">
 
-**[Zimbabwe Wants Citizen Feedback to Drive AI in Public Services](https://zimbabwenow.co.zw/articles/zimbabwe-wants-citizen-feedback-to-drive-ai-in-public-services)** — Zim Now, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+**[Ghana Petroleum Commission introduces Digital Permit Platform to improve oil sector operations](https://www.myjoyonline.com/ghana-petroleum-commission-introduces-digital-permit-platform-to-improve-oil-sector-operations/)** — MyJoyOnline, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
-Zimbabwe's Minister of Public Service, Labour and Social Welfare, Edgar Moyo, called for citizen satisfaction surveys to set a baseline for AI in government services. He spoke at the UN Governance Innovation Summit in Baku, Zim Now reported on 10 November 2026. He named welfare case management and forecasting demand for assistance as uses. The ministry named no specific AI platform or programme. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="ZMB" markdown="1">
-
-**[World Bank calls on Zambia to step up investment in digital infrastructure, skills | Zambia Monitor](https://www.zambiamonitor.com/world-bank-calls-on-zambia-to-step-up-investment-in-digital-infrastructure-skills/)** — Zambia Monitor, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
-
-Zambia launched its National ICT Survey in Lusaka on 9 November 2026. World Bank representative Luke Mate said at the launch that internet access had risen from 25.2% to 29.7%. Individual use of financial services rose from 49% in 2022 to 60% in 2025. Technology and Science Minister Felix Mutati said the Government Service Bus recorded 1.2 million transactions last year and hosts 532 services. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services) and [National statistics](#national-statistics).*</span>
+Ghana's Petroleum Commission introduced a Digital Permit Application Platform to replace paper permit applications in the upstream petroleum sector. Chief executive Emeafa Hardcastle announced it at the Commission's 2026 Local Content Conference in Takoradi (MyJoyOnline, 11 November 2026).
 
 </div>
 
-<div class="bulletin-item" data-places="NGA" markdown="1">
+<div class="bulletin-item" data-places="SSD" markdown="1">
 
-**[Nigerian Central Bank Digitalises Fiscal Data Collection - Voice of Nigeria](https://von.gov.ng/nigerian-central-bank-digitalises-fiscal-data-collection/)** — Voice of Nigeria, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+**[eServices Account: Government Services \[South Sudan\] - Government Ministries & Agencies and their services](https://accounts.eservices.gov.ss/mdas)** — Government of South Sudan (eServices portal), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
 
-The Central Bank of Nigeria is moving its Sub-National Fiscal Survey of the 36 states, the FCT and 774 local governments from paper to a digital platform. Its Statistics Department said returns will be quarterly instead of twice a year. Training had reached 16 states by 6 November 2026. The remaining states are due by 4 December, and the FCT on 9 and 10 December 2026. <span class="bulletin-item__also">*Also under [National statistics](#national-statistics).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="CMR" markdown="1">
-
-**[Consulting, Technical IT Training (Tax System)](https://www.gtai.de/en/trade/cameroon/tenders/consulting-technical-it-training-tax-system--2040762)** — gtai.de, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
-
-Cameroon's tax directorate has issued a tender for technical IT training for its IT staff, financed by KfW under the programme to modernise the directorate's information system. The training covers networks, security, virtualisation, backup, data centres and programming. Bids close on 10 December 2026, and no value is stated, according to the GTAI notice. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills).*</span>
+South Sudan's eServices portal listed 14 ministries and agencies on 11 November 2026. The National Communication Authority offered 22 online services, including licence and type-approval applications, and the Revenue Authority's customs division offered permit and licence applications. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="MRT" markdown="1">
+<div class="bulletin-item" data-places="CIV" markdown="1">
 
-**[موريتانيا توقع مذكرة تفاهم مع شركة أمريكية لتعزيز الأمن السيبراني - صحيفة تقدمي الألكترونية](https://ar.taqadoumy.mr/archives/89284)** — Taqadoumy, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a>
+**[Administration touristique : Les opérateurs pourront désormais effectuer leurs démarches en ligne](https://www.linfodrome.com/societe/127482-administration-touristique-les-operateurs-pourront-desormais-effectuer-leurs-demarches-en-ligne)** — Linfodrome, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
-Summarised under [Cybersecurity](#cybersecurity).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="ZWE" markdown="1">
-
-**[Zimbabwe’s Smart Traffic System Built On A Broken Database](https://www.zimeye.net/2026/11/10/zimbabwes-smart-traffic-system-built-on-a-broken-database/)** — ZimEye, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+Côte d'Ivoire's Ministry of Tourism and Leisure launched a digital one-stop shop for tourism operators on 10 November 2026. Operators can file and pay for administrative procedures online and track them against a 45-day maximum processing time. It is the first component of the tourism activity management system, piloted in four regional directorates (Linfodrome, 11 November 2026).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="SEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="SDN" markdown="1">
 
-**[Sénégal : une plateforme numérique pour dématérialiser les procédures minières](https://lemarche.finance/senegal-une-plateforme-numerique-pour-dematerialiser-les-procedures-minieres/)** — Le Marché Finance, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
-
-Summarised under [Data Exchange](#data-exchange).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
-
-**[Osun State Enters Partnership with UK on Digital Transformation Drive](https://www.osunstate.gov.ng/2026/11/osun-state-enters-partnership-with-uk-on-digital-transformation-drive/)** — osunstate.gov.ng, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="COD" markdown="1">
-
-**[Nation Digitale 2030 : à Kinshasa, les DSI de l'État s'imposent comme les artisans de la transformation numérique - MEDD-NEC](https://medd.gouv.cd/nation-digitale-2030-a-kinshasa-les-dsi-de-letat-simposent-comme-les-artisans-de-la-transformation-numerique/)** — Ministère de l'Environnement et Développement durable (RDC), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="MAR" markdown="1">
-
-**[Morocco develops national AI roadmap as government seeks to regulate technology use](https://en.hespress.com/148882-morocco-develops-national-ai-roadmap-as-government-seeks-to-regulate-technology-use.html)** — Hespress English, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
-
-**[Home Affairs launches first phase of Digital Asylum System to cut delays, clear backlogs, and combat abuse](https://www.gov.za/news/media-statements/home-affairs-launches-first-phase-digital-asylum-system-cut-delays-clear)** — South African Government (Department of Home Affairs), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+**[منصة بلدنا - الرئيسية وصفحة تسجيل الدخول (Baldna platform home and login pages)](https://baldna.gov.sd/)** — وزارة التحول الرقمي والاتصالات (Ministry of Digital Transformation and Communications, Sudan), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
 
 Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="ETH" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
 
-**[Ethiopia presses public institutions to consolidate infrastructure under national cloud strategy](https://techreviewafrica.com/news/8212/x)** — Tech Review Africa, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
+**[بصمة الوجه وشهادة توقيع.. آلية التحقق من الهوية عند إصدار التوكيلات عن بُعد](https://www.youm7.com/story/2026/11/11/%D8%A8%D8%B5%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D8%AC%D9%87-%D9%88%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A2%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1/7612009)** — Youm7, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZMB" markdown="1">
+
+**[Zambia : Mutati Reaffirms Significance Of Technology](https://www.lusakatimes.com/2026/11/11/mutati-reaffirms-significance-of-technology/)** — Lusaka Times, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="CAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="UGA" markdown="1">
 
-**[Awarded tender — CAR- Public Sector Digital Governance Project: Travaux d'aménagement de la salle serveur de l'ACCT et la réhabilitation des bureaux des experts Sim-Ba — for Central African Republic by WB in Civil Engineering sector —](https://www.developmentaid.org/tenders/view/1744954/car-public-sector-digital-governance-project-travaux-damenagement-de-la-salle-serveur-de-lacct-et-la)** — DevelopmentAid, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a>
+**[URSB Defends System Failures, Data Exposure as MPs Probe Shs1bn Financial Gap](https://nilepost.co.ug/news/386416/ursb-defends-system-failures-data-exposure-as-mps-probe-shs1bn-financial-gap)** — Nile Post, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
-Summarised under [Data Storage](#data-storage).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="AGO" markdown="1">
-
-**[Angola seeks stronger technology, investment ties with Qatar: Minister](https://thepeninsulaqatar.com/article/10/11/2026/angola-seeks-stronger-technology-investment-ties-with-qatar-minister)** — The Peninsula Qatar, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a>
-
-Summarised under [Connectivity](#connectivity).
+Summarised under [Data protection](#data-protection).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="AGO" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="DZA" markdown="1">
 
-**[Angola apresenta à UIT projectos de fibra óptica, satélite e cloud](https://pti.ao/angola-apresenta-a-uit-projectos-de-fibra-optica-satelite-e-cloud/)** — Portal de T.I., 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a>
+**[Portail numérique: Les documents en ligne désormais reconnus](https://www.echoroukonline.com/portail-numerique-les-documents-en-ligne-desormais-reconnus)** — Echorouk El Yawmi, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
 
-Summarised under [Legislation and regulation](#legislation-and-regulation).
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XEA" markdown="1">
+
+**[EAC digital recruitment system to save more than Sh1.3 billion](https://www.thecitizen.co.tz/tanzania/news/national/eac-digital-recruitment-system-to-save-more-than-sh1-3-billion-5666644)** — The Citizen, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
@@ -930,189 +576,83 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 ### AI
 
-<div class="bulletin-item" data-places="BWA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
 
-**[Botswana’s AI Paradox: Rich in Connectivity, Poor in Opportunity - Weekend Post](https://weekendpost.co.bw/botswanas-ai-paradox-rich-in-connectivity-poor-in-opportunity/)** — Weekend Post, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a>
-
-The Ayre Index of youth AI readiness was launched at the November 2026 Commonwealth Heads of Government Meeting. It ranks Botswana 45th of 56 Commonwealth states, scoring 38.9 out of 100 against a benchmark of 53. Botswana scores 7.2 of 10 for access to technology and 2.9 for decent work and enterprise. Weekend Post reported the study's moderate estimate of AI's possible GDP gain after ten years: USD 289 million. <span class="bulletin-item__also">*Also under [Literacy](#literacy) and [Digital divides](#digital-divides).*</span>
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="MAR" markdown="1">
-
-**[بـ”الدارجة” ولجميع المغاربة.. الحكومة توظف الذكاء الاصطناعي لتبسيط 2800 مسطرة إدارية](https://al3omk.com/1208688.html)** — Al3omk, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="ZWE" markdown="1">
-
-**[Zimbabwe Wants Citizen Feedback to Drive AI in Public Services](https://zimbabwenow.co.zw/articles/zimbabwe-wants-citizen-feedback-to-drive-ai-in-public-services)** — Zim Now, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
-
-Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="UGA" markdown="1">
-
-**[Who are the new Permanent Secretaries?](https://www.monitor.co.ug/uganda/news/national/who-are-the-new-permanent-secretaries--5664738)** — Daily Monitor (Uganda), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="EGY ZAF KEN" markdown="1">
-
-**[Vodacom eyes SA and Kenya for AI data centre hubs after Egypt](https://techcentral.co.za/vodacom-ai-data-centre-hubs-south-africa-kenya-egypt/288232/)** — TechCentral, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+**[النيابة العامة تفتتح مركز بيانات للذكاء الاصطناعى بالرحاب السبت المقبل](https://www.youm7.com/story/2026/11/11/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B1%D9%83%D8%B2-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D8%A8%D8%A7%D9%84%D8%B1%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84/7614923)** — Youm7, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
 Summarised under [Data Storage](#data-storage).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="RWA" markdown="1">
 
-**[Suspected AI-generated photos, duplicates trigger Nigeria biometric election cleanup](https://www.biometricupdate.com/202611/suspected-ai-generated-photos-duplicate-records-trigger-nigeria-biometric-election-cleanup)** — Biometric Update, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="TZA" markdown="1">
-
-**[Mwinyi cautions against overreliance on AI in public service](https://www.thecitizen.co.tz/tanzania/zanzibar/mwinyi-cautions-against-overreliance-on-ai-in-public-service-5665962)** — The Citizen, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+**[Rwanda’s skills-first path to AI governance](https://www.newtimes.co.rw/article/40360/opinions/rwandas-skills-first-path-to-ai-governance)** — The New Times, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
 
 Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="MAR" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN XAF" markdown="1">
 
-**[Morocco develops national AI roadmap as government seeks to regulate technology use](https://en.hespress.com/148882-morocco-develops-national-ai-roadmap-as-government-seeks-to-regulate-technology-use.html)** — Hespress English, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="MOZ" markdown="1">
-
-**[Governo apresenta em Doha prioridades para acelerar digitalização do país](https://aimnews.org/2026/11/10/governo-apresenta-em-doha-prioridades-para-acelerar-digitalizacao-do-pais/)** — AIM, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
-
-**[Ghana - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/ghana/)** — International Telecommunication Union (statement by Ghana), 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+**[Kenya Backs 50 African Proposals on AI and Digital Infrastructure at ITU Meeting](https://tukio.co.ke/kenya-backs-50-african-proposals-on-ai-and-digital-infrastructure-at-itu-meeting/)** — Tukio, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="GHA XAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[Bringing more voices into the room: RIA at the Africa IGF 2026](https://researchictafrica.net/2026/11/10/bringing-more-voices-into-the-room-ria-at-the-africa-igf-2026/)** — Research ICT Africa, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+**[ITU PP-26 Doha: Ethel Cofie calls for stronger African influence in ITU digital policy negotiations at PP-26](https://www.techreviewafrica.com/news/8236/itu-pp-26-doha-ethel-cofie-calls-for-stronger-african-influence-in-itu-digital-policy-negotiations-at-pp-26)** — TechReviewAfrica, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="AGO" markdown="1">
-
-**[Angola apresenta à UIT projectos de fibra óptica, satélite e cloud](https://pti.ao/angola-apresenta-a-uit-projectos-de-fibra-optica-satelite-e-cloud/)** — Portal de T.I., 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="MAR" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[Ahmed Rahhou annonce une IA en darija en commission parlementaire](https://telquel.ma/instant-t/2026/11/10/ahmed-rahou-annonce-une-ia-en-darija-en-commission-parlementaire_2017563/)** — TelQuel, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
+**[ITU PP-26 Doha: African Union calls for integrated energy and digital infrastructure planning to support Africa’s AI ambitions](https://www.techreviewafrica.com/news/8241/itu-pp-26-doha-african-union-calls-for-integrated-energy-and-digital-infrastructure-planning-to-support-africas-ai-ambitions)** — TechReviewAfrica, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
 ### ICT Industry
 
-<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="TCD" markdown="1">
 
-**[AfDB backs local tech assembly](https://itweb.africa/article/afdb-backs-local-tech-assembly/j5alrvQAXgxvpYQk)** — ITWeb Africa, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+**[Chad – Living in a landlocked, dangerous neighbourhood with only one international fibre exit](https://russellsouthwood.substack.com/p/chad-living-in-a-landlocked-dangerous)** — Russell Southwood (Substack), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
-Summarised under [Regional collaboration](#regional-collaboration).
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
 ### Innovation ecosystem
 
-<div class="bulletin-item bulletin-item--xref" data-places="SLE" markdown="1">
+<div class="bulletin-item" data-places="LSO" markdown="1">
 
-**[Sierra Leone Advances FinTech Innovation as UniPod Becomes Startup Acceleration Hub](https://spearnewssl.com/sierra-leone-advances-fintech-innovation-as-unipod-becomes-startup-acceleration-hub/)** — The Spear News SL, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
+**[Lesotho Startup Funding: Hundreds Incubated, Little Equity](https://theafricacapitalreport.com/lesotho-startup-funding/)** — The Africa Capital Report, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a>
 
-Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+An analysis published on 11 November 2026 draws on the Lesotho Entrepreneurship Hub's October 2026 newsletter. It reports 260 enterprises incubated, including 144 women-owned and 174 youth-owned, and a co-investment fund of more than M45 million announced. The author says no public record shows how much private equity has reached these businesses.
 
 </div>
 
 ## Capacity
 
-### Literacy
-
-<div class="bulletin-item bulletin-item--xref" data-places="NAM" markdown="1">
-
-**[When technology outpaces education](https://thebrief.com.na/2026/11/when-technology-outpaces-education/)** — The Brief, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="ZMB XEA XSA" markdown="1">
-
-**[Regional Digital Inclusion Strategy and Action Plan Validated](https://www.comesa.int/regional-digital-inclusion-strategy-and-action-plan-validated/)** — COMESA, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
-
-Summarised under [Regional collaboration](#regional-collaboration).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="BWA" markdown="1">
-
-**[Botswana’s AI Paradox: Rich in Connectivity, Poor in Opportunity - Weekend Post](https://weekendpost.co.bw/botswanas-ai-paradox-rich-in-connectivity-poor-in-opportunity/)** — Weekend Post, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a>
-
-Summarised under [AI](#ai).
-
-</div>
-
 ### Training and skills
 
-<div class="bulletin-item" data-places="XAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
 
-**[Google Targets 3m Africans With Offline Digital Skills Platform](https://independent.ng/google-targets-3m-africans-with-offline-digital-skills-platform/)** — Independent Newspaper Nigeria, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+**[النيابة العامة تطلق برنامجًا متخصصًا لحماية البيانات الشخصية](https://www.youm7.com/story/2026/11/11/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%D9%8B%D8%A7-%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D9%8B%D8%A7-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9/7614234)** — Youm7, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Google's Skilling Africa with Google platform aims to train three million Africans in digital and AI skills by 2030. It targets 250,000 graduates by the end of 2026. It offers more than 15 programmes, with materials that can be downloaded over Wi-Fi for offline use. The figures come from a Google West Africa statement, the Independent Newspaper Nigeria reported on 10 November 2026.
-
-</div>
-
-<div class="bulletin-item" data-places="TZA UGA" markdown="1">
-
-**[Call for Expressions of Interest: Local implementation of the Innovation Hub & Toolkit model in Tanzania and Uganda](https://www.enabel.be/app/uploads/2026/11/BEL23004-Call_for_Expressions_of_Interest_DI4E-2.pdf)** — Enabel, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
-
-Enabel, Belgium's development agency, invited expressions of interest on 10 November 2026 in running its Innovation Hub and Toolkit model for teachers in Tanzania and Uganda. The model sits in the Digital Innovation for Education Scaling Project, funded by the EU and Belgium. The call is a mapping exercise and awards no funding. Responses are due by 11 January 2027, ahead of a call for proposals planned for March 2027.
+Summarised under [Data protection](#data-protection).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="MRT" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
-**[موريتانيا توقع مذكرة تفاهم مع شركة أمريكية لتعزيز الأمن السيبراني - صحيفة تقدمي الألكترونية](https://ar.taqadoumy.mr/archives/89284)** — Taqadoumy, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a>
+**[Nigeria Opens ₦4 Billion Funding Applications for 3MTT Cohort 5 Delivery Partners](https://techafricanews.com/2026/11/11/nigeria-3mtt-cohort-5-opens-4-billion-funding-applications/)** — Tech Africa News, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-Summarised under [Cybersecurity](#cybersecurity).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="CMR" markdown="1">
-
-**[Consulting, Technical IT Training (Tax System)](https://www.gtai.de/en/trade/cameroon/tenders/consulting-technical-it-training-tax-system--2040762)** — gtai.de, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
-
-Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+Summarised under [New investments](#new-investments).
 
 </div>
 
@@ -1120,53 +660,53 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 ### Access to services
 
-<div class="bulletin-item" data-places="CIV" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="GAB" markdown="1">
 
-**[MWC Doha 26: Côte d’Ivoire and GSMA sign MoU to improve smartphone affordability](https://techreviewafrica.com/news/8242/x)** — Tech Review Africa, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+**[Restoring social media access comes at a cost in Gabon](https://globalvoices.org/2026/11/11/estoring-social-media-access-comes-at-a-cost-in-gabon/)** — Global Voices, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
 
-Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone affordability at MWC Doha 2026, Tech Review Africa reported on 10 November 2026. The universal-service agency ANSUT will lead implementation under the GSMA Handset Affordability Coalition. The report gives no targets, prices or funding, and no signing date.
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="ZMB" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="SSD" markdown="1">
 
-**[World Bank calls on Zambia to step up investment in digital infrastructure, skills | Zambia Monitor](https://www.zambiamonitor.com/world-bank-calls-on-zambia-to-step-up-investment-in-digital-infrastructure-skills/)** — Zambia Monitor, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
+**[eServices Account: Government Services \[South Sudan\] - Government Ministries & Agencies and their services](https://accounts.eservices.gov.ss/mdas)** — Government of South Sudan (eServices portal), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
 
 Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="ZMB XEA XSA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="TCD" markdown="1">
 
-**[Regional Digital Inclusion Strategy and Action Plan Validated](https://www.comesa.int/regional-digital-inclusion-strategy-and-action-plan-validated/)** — COMESA, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
+**[Chad – Living in a landlocked, dangerous neighbourhood with only one international fibre exit](https://russellsouthwood.substack.com/p/chad-living-in-a-landlocked-dangerous)** — Russell Southwood (Substack), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
-Summarised under [Regional collaboration](#regional-collaboration).
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="NAM" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
-**[ITU PP-26 Doha: Namibia reaffirms commitment to inclusive digital transformation at ITU Conference](https://techreviewafrica.com/news/8239/itu-pp-26-doha-namibia-reaffirms-commitment-to-inclusive-digital-transformation-at-itu-conference)** — TechReviewAfrica, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a>
+**[Beyond Access: Closing South Africa's Digital Participation Gap](https://www.cigionline.org/publications/beyond-access-closing-south-africas-digital-participation-gap/)** — Centre for International Governance Innovation (CIGI), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+
+**[10 states get mobile centres to tackle documentation crisis among 3.7m displaced Nigerians](https://www.vanguardngr.com/2026/11/10-states-get-mobile-centres-to-tackle-documentation-crisis-among-3-7m-displaced-nigerians/)** — Vanguard, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 </div>
 
 ### Digital divides
 
-<div class="bulletin-item bulletin-item--xref" data-places="NAM" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
-**[When technology outpaces education](https://thebrief.com.na/2026/11/when-technology-outpaces-education/)** — The Brief, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a>
+**[Beyond Access: Closing South Africa's Digital Participation Gap](https://www.cigionline.org/publications/beyond-access-closing-south-africas-digital-participation-gap/)** — Centre for International Governance Innovation (CIGI), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="BWA" markdown="1">
-
-**[Botswana’s AI Paradox: Rich in Connectivity, Poor in Opportunity - Weekend Post](https://weekendpost.co.bw/botswanas-ai-paradox-rich-in-connectivity-poor-in-opportunity/)** — Weekend Post, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a>
-
-Summarised under [AI](#ai).
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
@@ -1174,60 +714,72 @@ Summarised under [AI](#ai).
 
 ### National statistics
 
-<div class="bulletin-item bulletin-item--xref" data-places="ZMB" markdown="1">
+<div class="bulletin-item" data-places="GNB" markdown="1">
 
-**[World Bank calls on Zambia to step up investment in digital infrastructure, skills | Zambia Monitor](https://www.zambiamonitor.com/world-bank-calls-on-zambia-to-step-up-investment-in-digital-infrastructure-skills/)** — Zambia Monitor, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
+**[Guinea-Bissau Data Portal - Terms of use](https://guinebissau.opendataforafrica.org/legal/TermsOfUse)** — African Development Bank — Guinea-Bissau Data Portal, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNB/GNB-monthly.html" title="GNB">Guinea-Bissau</a>
 
-Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+The terms of use for Guinea-Bissau's data on the African Development Bank's High Fives application allow free copying and reuse, commercial or not, with attribution in the metadata. The Bank gives no warranty and may withdraw access at any time. No standard licence is named (checked 11 November 2026). <span class="bulletin-item__also">*Also under [Open data](#open-data).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+<div class="bulletin-item" data-places="SEN" markdown="1">
 
-**[Nigerian Central Bank Digitalises Fiscal Data Collection - Voice of Nigeria](https://von.gov.ng/nigerian-central-bank-digitalises-fiscal-data-collection/)** — Voice of Nigeria, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+**[Accord de licence de données ouvertes — ODP de l'ANSD du Sénégal](https://nso-senegal.opendataforafrica.org/hiwidxb)** — Agence Nationale de la Statistique et de la Démographie (ANSD), Sénégal, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
-Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+The open data licence of Senegal's national statistics agency, ANSD, grants a free, worldwide, non-exclusive licence to copy, adapt and distribute its data, including commercially. Users must carry a prescribed source statement (checked 11 November 2026). <span class="bulletin-item__also">*Also under [Open data](#open-data).*</span>
 
 </div>
 
 ### Open data
 
+<div class="bulletin-item" data-places="LBY" markdown="1">
+
+**[الشروط والأحكام | منصة البيانات المفتوحة](https://opendata.gia.gov.ly/terms.html)** — General Information Authority (Libya), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+
+The terms of Libya's open data platform, run by the General Information Authority, allow reuse of its data for lawful purposes with attribution to the platform and dataset. They bar re-identification of individuals, provide the data without warranty, and allow datasets to be changed or withdrawn without notice. The page names no standard licence (checked 11 November 2026).
+
+</div>
+
+<div class="bulletin-item" data-places="TGO" markdown="1">
+
+**[Conditions Générales d'Utilisation — opendata.gouv.tg](https://opendata.gouv.tg/pages/legal/cgu)** — opendata.gouv.tg — Plateforme ouverte des données publiques togolaises (Agence Togo Digital), 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
+
+The terms of use of Togo's open data platform, opendata.gouv.tg, make registration free. Published data is under an open licence unless stated otherwise. The page names no specific licence and carries no date (checked 11 November 2026).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="GNB" markdown="1">
+
+**[Guinea-Bissau Data Portal - Terms of use](https://guinebissau.opendataforafrica.org/legal/TermsOfUse)** — African Development Bank — Guinea-Bissau Data Portal, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNB/GNB-monthly.html" title="GNB">Guinea-Bissau</a>
+
+Summarised under [National statistics](#national-statistics).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="SEN" markdown="1">
 
-**[Sénégal : une plateforme numérique pour dématérialiser les procédures minières](https://lemarche.finance/senegal-une-plateforme-numerique-pour-dematerialiser-les-procedures-minieres/)** — Le Marché Finance, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+**[Accord de licence de données ouvertes — ODP de l'ANSD du Sénégal](https://nso-senegal.opendataforafrica.org/hiwidxb)** — Agence Nationale de la Statistique et de la Démographie (ANSD), Sénégal, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
-Summarised under [Data Exchange](#data-exchange).
+Summarised under [National statistics](#national-statistics).
 
 </div>
 
 ## Geopolitics
 
-### US / hyperscaler activities
+### Digital sovereignty
 
 <div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[DFC Approves Largest Equity Deal in West Indian Ocean Cable Company](https://nexusmedia.ug/dfc-approves-largest-equity-deal-in-west-indian-ocean-cable-company/)** — Nexus Media, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+**[Souveraineté numérique : l’Afrique peut-elle s’inspirer de l’expérience nord-coréenne ?](https://www.lanation.bj/numerique/souverainete-numerique-lafrique-peut-elle-sinspirer-de-lexperience-nord-coreenne)** — La Nation, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Summarised under [New investments](#new-investments).
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
 </div>
 
-### Gulf/UAE activities
+<div class="bulletin-item bulletin-item--xref" data-places="CIV XAF" markdown="1">
 
-<div class="bulletin-item bulletin-item--xref" data-places="AGO" markdown="1">
-
-**[Angola seeks stronger technology, investment ties with Qatar: Minister](https://thepeninsulaqatar.com/article/10/11/2026/angola-seeks-stronger-technology-investment-ties-with-qatar-minister)** — The Peninsula Qatar, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a>
+**[Distant wars pose risks for Africa’s digital services](https://www.semafor.com/article/11/11/2026/distant-wars-pose-risks-for-africas-digital-services)** — Semafor, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Summarised under [Connectivity](#connectivity).
-
-</div>
-
-### Digital sovereignty
-
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
-
-**[Nigeria turns to hybrid cloud infrastructure for its postcode database](https://techcabal.com/2026/11/10/nigeria-hybrid-cloud-storage-postcode/)** — TechCabal, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-Summarised under [Data Storage](#data-storage).
 
 </div>
