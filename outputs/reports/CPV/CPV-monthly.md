@@ -3,9 +3,9 @@ title: Cape Verde — News, Oct – Nov 2026
 compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 place: CPV
-ledger_rows: 11
+ledger_rows: 13
 not_held: 23
-record: 2e2e6bd416fa
+record: 98becb56d177
 ---
 
 # News, Oct – Nov 2026
@@ -27,6 +27,8 @@ record: 2e2e6bd416fa
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
 
@@ -37,6 +39,20 @@ record: 2e2e6bd416fa
 </nav>
 
 ### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Aviso 6/2019, minimum capital of payment and electronic-money institutions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Capital mínimo trava novas empresas tecnológicas no setor bancário, diz consultor](https://caboverde24.info/2026/10/14/capital-minimo-trava-novas-empresas-tecnologicas-no-setor-bancario-diz-consultor/)** — Caboverde24, 14 October 2026
+
+2019 notice sets 2m-20m escudo capital floors by payment activity; 20m for e-money institutions.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -241,6 +257,28 @@ Cabo Verde's economy and digital transition minister, António Baptista, said at
 **[Nova plataforma digital da IGT permite apresentar queixas laborais e solicitar serviços on-line – ministra](https://www.inforpress.cv/en/nova-plataforma-digital-da-igt-permite-apresentar-queixas-laborais-e-solicitar-servicos-on-line-ministra)** — Inforpress, 3 November 2026
 
 Cabo Verde launched an online portal for its labour inspectorate on 3 November 2026. Workers and employers can file complaints, request interventions and submit declarations on it. The minister said the portal includes AI features and accessibility tools.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#open-data">Open data</a>
+</nav>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open-data portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Decreto-Lei n.º 45/2026 (Boletim Oficial, I Série, n.º 109)](https://faolex.fao.org/docs/pdf/cvi248337.pdf)** — Boletim Oficial da República de Cabo Verde, 8 October 2026
+
+Organic law of new state-reform ministry; DNME given open data, public-documents portal and Chave Móvel Digital.
 
 </div>
 
