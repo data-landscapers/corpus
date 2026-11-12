@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-05-sdn-sudan-cima-research-foundation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "myDewetra.world",
+   "country_label": "myDewetra decision support platform",
+   "class": "other",
+   "platform": "",
+   "owner": "CIMA Research Foundation / Sudan authorities",
+   "tiers": ""
+  }
+ ],
+ "note": "WRF model and warning bulletins described; no satellite data stream stated."
+}

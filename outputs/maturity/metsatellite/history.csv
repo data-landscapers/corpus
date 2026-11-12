@@ -108,3 +108,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,BFA,data.geospatial--meteorological-use-of-satellite-data,fact,4,5,BFA-002;BFA-003;BFA-005,ANAM deck: ISO 9001:2015 certification obtained in 2025: 4->5
 2026-11-12,MWI,data.geospatial--meteorological-use-of-satellite-data,fact,2,4,MWI-004;MWI-005,"DCCMS (Apr 2025): flash flood warnings from FFGS, which uses satellite rainfall estimates: questions 2 and 3; 2->4"
 2026-11-12,CIV,data.geospatial--meteorological-use-of-satellite-data,fact,no evidence,4,CIV-001;CIV-002,NMS director (2024): Meteosat nowcasts underpin early warning platform; orange alert for Abidjan June 2024: no evidence->4
+2026-11-12,DZA,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,3,DZA-004,ONM official (Mar 2026): new-generation satellite data received daily and refining numerical models; used in forecasts

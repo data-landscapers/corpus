@@ -22,10 +22,10 @@ The Integrated African Strategy on Meteorology asks for sustained access to geos
 |---|---|
 | 5 Leading | 4 |
 | 4 Operating | 7 |
-| 3 Established | 11 |
+| 3 Established | 12 |
 | 2 Nascent | 26 |
 | 1 Absent | 0 |
-| Unplaced | 4 |
+| Unplaced | 3 |
 | No evidence | 2 |
 
 ## Countries
@@ -106,6 +106,12 @@ The national weather service issued warnings drawing on satellite data in 2026; 
 The national weather service issued warnings drawing on satellite data in 2024; ISO 9001 certification is not on record.
 
 - The Institut National de la Meteorologie presented the role of EUMETSAT products in supporting Tunisia's flood and drought early warning systems ([source, 2024-09-16](https://www-cdn.eumetsat.int/files/2025-01/Report%20of%20the%2016th%20EUMETSAT%20User%20Forum%20in%20Africa%20-%20EN%20-%20FINAL_1.pdf)).
+
+### Algeria: 3 Established
+
+In 2026 the weather office used satellite data in its forecast models; no source ties its warnings to satellite data.
+
+- An ONM official said Algeria daily exchanges millions of data with the WMO network, including from new-generation satellites, which help track clouds and storm zones and make its numerical models finer ([source, 2026-03-23](https://algeriezoom.com/algerie-l-onm-muscle-ses-moyens-pour-des-previsions-meteo-plus-precises/)).
 
 ### Chad: 3 Established
 
@@ -331,12 +337,6 @@ The national weather service was receiving or installing a satellite data stream
 The national weather service was receiving a satellite data stream in 2026; its use in forecasts is not on record.
 
 - The Zimbabwe Meteorological Services Department's newsletter says the PUMA 2025 station for METEOSAT Third Generation was installed with reception confirmed satisfactory and the station 'fully operational and capable of receiving satellite data', with an EUMETCAST licence request submitted ([source, 2026-03](https://www.weatherzw.org.zw/documents/776/MSD_Newsletter_February_-_March_2026.pdf)).
-
-### Algeria: Unplaced
-
-Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Cape Verde: Unplaced
 

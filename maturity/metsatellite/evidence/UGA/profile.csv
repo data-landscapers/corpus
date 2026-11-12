@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 UGA,metsat,stream,coverage,inservice,2026,UGA-001,UGA-002=underway,
 UGA,metsat,warnings,coverage,,,,,nothing found
-UGA,metsat,certified,coverage,,,,,nothing found
+UGA,metsat,certified,coverage,certified,2024-06-18,UGA-003;UGA-004,,

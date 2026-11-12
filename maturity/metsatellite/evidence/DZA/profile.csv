@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,metsat,stream,coverage,inservice,2018-03,DZA-001,,nothing dated since 2023-11-12
+DZA,metsat,stream,coverage,inservice,2026-03-23,DZA-001;DZA-004,,
 DZA,metsat,warnings,coverage,,,,,nothing found
 DZA,metsat,certified,coverage,certified,2026-04,DZA-002;DZA-003,,

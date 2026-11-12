@@ -42,6 +42,7 @@ KEN,PUMA-2025,Kenya,metsat,MTG receiving station,EUMETSAT with the African Union
 LBR,ClimSA/PUMA2025 Meteosat Third Generation (MTG) system,Liberia,metsat,PUMA station (Meteosat Third Generation reception),Liberia Meteorological Service,national,2025-10-31-liberia-lms-climsa-puma2025-meteosat-third-generation-ria
 LBR,SAP018 Liberia Climate Information Systems,"GCF-funded project improving hydrometeorological services and impact-based forecasting, completion October 2027",other,,African Development Bank as entity,national,2026-11-05-lbr-gcf-sap018-liberia-climate-information-systems
 LSO,Nowcasting system,Lesotho,metsat,NWP and HPC,Lesotho Meteorological Service,national,2026-04-08-wis-lesotho-climate-weather-enhancement-initiative
+LSO,MetApp,MetApp,other,mobile app,Lesotho Meteorological Services,,2026-09-10-lso-nul-developed-weather-app-adopted-by-lms
 MAR,Amtar supercomputer,Morocco,other,high-performance computer,DGM,,2025-12-21-mar-le360-dgm-observation-aux-alertes
 MAR,Meteosat Third Generation,Maroc,metsat,Eumetcast Europe (Ku-band),DGM,,2025-01-07-mar-aujourdhui-dgm-meteosat-troisieme-generation
 MAR,vigilance.ma,Morocco,other,digital alert platform,Ministry of Equipment and Water,,2026-07-14-mar-map-bulletins-de-vigilance-generalises-collectivites-baraka
@@ -74,11 +75,13 @@ RWA,EUMETSAT ground-based satellite receiver,Rwanda,metsat,EUMETSAT,Meteo Rwanda
 RWA,PUMA system (ECMWF products),Rwanda,other,PUMA,Meteo Rwanda,,2023-10-21-rwa-fmi-country-hydromet-diagnostics
 RWA,PUMA-2025 / MTG,Rwanda,metsat,"MTG, PUMA-2025 reception stations",Meteo Rwanda,,2026-05-01-rwa-weather-from-space-a-game-changer-for-africa-the-use-of-mtg-and-radar
 SDN,APIS WRF forecasting chain,Sudan,other,"WRF model, 3 km, 72-hour",Sudan Meteorological Authority,,2026-03-13-sdn-advancing-multi-risk-early-warning-in-fragile-contexts-methodological
+SDN,myDewetra.world,myDewetra decision support platform,other,,CIMA Research Foundation / Sudan authorities,,2025-05-05-sdn-sudan-cima-research-foundation
 SEN,Meteosat Third Generation data,ANACIM (Senegal),metsat,,ANACIM,,2026-05-18-eumetsat-amsaf-anacim-nowcasting-afrique-ouest
 SEN,AgData Hub,Senegal,other,,ANACIM,,2026-02-25-sen-information-to-action-nationally-integrated-agdata-hub-is-a-turning-po
 SEN,RIICE,Senegal,other,"Sentinel-1A, Landsat 8/9, Sentinel-2 with ORYZA model","IRRI, ISRA and sarmap",,2025-10-06-irri-isra-riice-senegal-rice-satellite-monitoring
 SLE,Multi-Hazard Impact-based Forecasting and Early Warning and Early Action System,Sierra Leone,other,,"Government of Sierra Leone (GCF-funded, AfDB Accredited Entity)",,2023-10-25-gcf-sle-sap033-2023-climate-information-systems
 SLE,CAP Composer on the SLMet website,Sierra Leone,other,open source,Sierra Leone Meteorological Agency,,2026-03-05-sle-sierra-leone-publishes-first-cap-warning-advancing-early-warning-syste
+SLE,Weather Index Insurance,Weather Index Insurance scheme,other,,Ministry of Agriculture and Food Security,,2025-05-16-sle-sierra-leone-launches-first-weather-index-insurance-for-farmers
 SOM,Hydro Meteorological Working Group (HWG),Somalia,other,,Ministry of Energy and Water Resources,,2025-04-01-somalia-country-hydromet-diagnostics
 SOM,MTG receiver and PUMA-2025 workstation,Somalia,metsat,ClimSA,Somali Civil Aviation Authority,,2025-07-02-som-spaceinafrica-scaa-satellite-weather-system
 SOM,DRIVE pasture index insurance,Somalia,other,satellite pasture index,ZEP-RE with World Bank and governments,,2026-04-07-som-no-one-filed-a-claim-71-290-pastoralist-families-got-paid-anyway

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-08-uga-uganda-aviation-could-lose-key-iso-certification-as-meteorological-aut",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "certified",
+   "value": "certified",
+   "fact": "ChimpReports states UNMA achieved ISO 9001:2015 certification in 2020 for its aviation weather services, and that the 2024 merger into the ministry puts it at risk.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "UNMA Quality Management System (ISO 9001:2015)",
+   "class": "metsat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

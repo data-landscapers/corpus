@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "unplaced",
-      "stream": "",
+      "stage": "3",
+      "stream": "inservice",
       "warnings": "",
-      "certified": "",
+      "certified": "certified",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data.",
-      "note": "The only facts, of March 2018, are older than three years. Nothing newer is held.",
-      "as_at": "2026-11-11"
+      "stage_sources": "DZA-004",
+      "gaps": "No source found since November 2023 says ONM's warnings draw on satellite data; the official spoke of better observation improving early warnings in general.",
+      "note": "In March 2026 an ONM official said data from new-generation satellites reach it daily through the WMO network and refine its numerical models (DZA-004): satellite data used in forecasts. No source ties its warnings to satellite data, so 3; the ISO 9001 renewal of April 2026 waits on that step.",
+      "as_at": "2026-11-12"
     }
   ]
 }

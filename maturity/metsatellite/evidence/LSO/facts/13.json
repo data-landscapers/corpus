@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-10-lso-nul-developed-weather-app-adopted-by-lms",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MetApp",
+   "country_label": "MetApp",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Lesotho Meteorological Services",
+   "tiers": ""
+  }
+ ],
+ "note": "MetApp reports automated weather station readings; no satellite data stated."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-23-dza-algerie-l-onm-muscle-ses-moyens-pour-des-previsions-meteo-plus-precise",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "An ONM official said Algeria daily exchanges millions of data with the WMO network, including from new-generation satellites, which help track clouds and storm zones and make its numerical models finer.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "ONM data exchange with WMO network",
+   "class": "metsat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
