@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 196
+sources_cited: 198
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -336,13 +336,13 @@ MTC has reported that [much of its 4G capacity in the Kunene region goes unused]
 
 [The statistical system scores 50.9 out of 100 and ranks 25th of 54 in 2023, after a gain of 4.4 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf). [It is among the weakest of Namibia's public administration measures, in a country ranked 6th for governance overall](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf) (2023).
 
-[In the decade to 2023 Namibia ran no agricultural survey and no business survey, one health survey and one household survey, and three or more labour surveys](https://www.worldbank.org/en/programs/statistical-performance-indicators). [All three census types the World Bank tracks, population, agricultural and business, were conducted in the same decade](https://www.worldbank.org/en/programs/statistical-performance-indicators). [Data products score in the 70-89% band and data use, services and infrastructure in the 50-69% band](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). [Data sources, from censuses and surveys to administrative and geospatial collection, fall to the 20-49% band](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023).
+[In the decade to 2023 Namibia ran no agricultural survey and no business survey, one health survey and one household survey, and three or more labour surveys](https://www.worldbank.org/en/programs/statistical-performance-indicators). [All three census types the World Bank tracks, population, agricultural and business, were conducted in the same decade](https://www.worldbank.org/en/programs/statistical-performance-indicators). [Data products score in the 70-89% band and data use, services and infrastructure in the 50-69% band](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). [Data sources, from censuses and surveys to administrative and geospatial collection, fall to the 20-49% band](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). [In August 2026 the statistics agency released a public-use microdata sample of about 20% of the 2023 census records, on registration](https://nsa.org.na/wp-content/uploads/2026/10/Media-Release_2023-Public-Use-Microdata-Sample-05.08.2026.pdf).
 
 [In September 2025 the statistics agency issued five national statistics system standards, on quality indicators, metadata, leave no one behind, presentation and dissemination](https://nsa.org.na/nss/?page_id=13885). They govern how statistics are described and published, not how they are collected.
 
 [Birth registration completeness fell sharply in 2021, on the statistics agency's own reporting](https://nsa.org.na/wp-content/uploads/2024/07/2018-2021_Namibia-Vital-Statistics-Report_April-2024.pdf). [The agency compiles mortality and cause-of-death statistics from civil registration records, the latest edition covering 2018-2021](https://nsa.org.na/wp-content/uploads/2025/01/Report-on-Mortality-and-Causes-of-Deaths-in-Namibia-2018-2021.pdf).
 
-There is [no dedicated government entity for data governance or data management, and no data governance strategy or policy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [The Bank of Namibia publishes national payment system figures quarterly, each edition within days of quarter-end](https://www.bon.com.na/Publications/Quarterly-Bulletins/Quarterly-Bulletins-Publication.aspx) (2026).
+There is [no dedicated government entity for data governance or data management, and no data governance strategy or policy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [The Bank of Namibia publishes national payment system figures quarterly, each edition within days of quarter-end](https://www.bon.com.na/Publications/Quarterly-Bulletins/Quarterly-Bulletins-Publication.aspx) (2026). [In August 2025 it launched Datasphere, a free online dashboard of economic data](https://www.linkedin.com/posts/bank-of-namibia_the-bank-of-namibia-has-launched-the-datasphere-activity-7363871173497053186-_nwN).
 
 ### Open data
 <!-- data.open -->
