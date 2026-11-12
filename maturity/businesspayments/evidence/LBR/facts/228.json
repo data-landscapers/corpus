@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-01-lbr-liberia-public-procurement-and-concessions-commission-ppcc",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Open Contracting Partnership registry says PPCC's open contracting data is collected through the e-Government Procurement System, covering tenders and awards.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "e-Government Procurement System",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The registry reports 1,492 tenders and 364 awards in PPCC's OCDS data from the e-procurement system, as retrieved on 3 November 2026.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "e-Government Procurement System",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Government Procurement System",
+   "country_label": "e-Government Procurement System (PPCC)",
+   "class": "procurement",
+   "platform": "",
+   "owner": "PPCC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

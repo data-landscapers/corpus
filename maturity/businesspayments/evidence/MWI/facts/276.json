@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-mwi-govt-hails-progress-on-open-governance",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Deputy Secretary to the President and Cabinet Janet Banda said the integrated Malawi e-procurement system was successfully developed under the 2023-2025 OGP action plan, its portal publishing contracting data to an international standard; no tenders or bids online are stated.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "integrated Malawi e-procurement system",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "integrated Malawi e-procurement system",
+   "country_label": "Malawi",
+   "class": "procurement",
+   "platform": "portal",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
