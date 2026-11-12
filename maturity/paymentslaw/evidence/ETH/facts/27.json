@@ -1,0 +1,44 @@
+{
+ "slug": "2025-05-27-eth-nbe-mandates-interoperability-among-mobile-wallets",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The National Bank of Ethiopia issued a revised Licensing and Authorization of Payment Instrument Issuer Directive in late May 2025, raising daily e-money transaction limits and issuer capital to 100 million Birr.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Payment Instrument Issuer Directive",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "The revised directive makes interoperability among mobile wallets mandatory and requires financial institutions to participate in the Ethiopian Instant Payment System, per the National Bank of Ethiopia via Ethiopian Monitor.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Payment Instrument Issuer Directive",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Licensing and Authorization of Payment Instrument Issuer Directive",
+   "country_label": "Ethiopia",
+   "class": "law",
+   "platform": "",
+   "owner": "National Bank of Ethiopia",
+   "tiers": ""
+  },
+  {
+   "system": "Ethiopian Instant Payment System (EIPS)",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,70 @@
+{
+ "slug": "2026-06-29-bfa-reglementation-bancaire-au-faso-des-innovations-en-reponse-aux-mutatio",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "BCEAO instruction n008-05-2015 of 21 May 2015 sets the e-money framework applying in Burkina Faso, per L'Economiste du Faso.",
+   "as_of": "2015-05-21",
+   "date_precision": "day",
+   "system": "BCEAO instruction n008-05-2015",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Burkina's legislative assembly adopted on 26 June 2026 a bank regulation bill extending banking law to payment institutions and e-money institutions, awaiting promulgation and entry into force.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Projet de loi portant reglementation bancaire",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "L'Economiste du Faso says non-bank actors such as fintechs can obtain a BCEAO e-money institution approval, and Orange Money Burkina Faso holds it.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "Orange Money Burkina Faso",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "e-money institution",
+   "owner": "Orange Money Burkina Faso",
+   "tiers": ""
+  },
+  {
+   "system": "Moov Money",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "bank partnership",
+   "owner": "UBA Burkina / Ecobank with Moov Africa",
+   "tiers": ""
+  },
+  {
+   "system": "Wave",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "bank partnership",
+   "owner": "UBA Burkina and Orabank with Wave SA",
+   "tiers": ""
+  },
+  {
+   "system": "Coris-Money",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "bank partnership",
+   "owner": "Coris Bank International with TagPay",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-sle-regulatory-framework-for-digital-financial-services-in-sierra-leone-df",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "NatCA states the Bank of Sierra Leone regulates mobile money operators under Section 2 of the National Payment Systems Act 2022, alongside a Draft Non-Bank Led Mobile Money Regulation of 2024.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "National Payment Systems Act 2022",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payment Systems Act 2022",
+   "country_label": "Sierra Leone",
+   "class": "law",
+   "platform": "",
+   "owner": "Bank of Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": "Draft Non-Bank Led Mobile Money Regulation 2024 noted as draft; non-bank licensing not stated."
+}

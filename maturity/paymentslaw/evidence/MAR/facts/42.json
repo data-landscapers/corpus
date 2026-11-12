@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-21-mar-paiement-electronique-les-etablissements-de-paiement-et-les-filiales-d",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "MAP, relaying a Competition Council communiqué, says payment institutions duly authorised under the regulation in force may operate in card acquiring from 1 May 2025.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "payment institutions regime",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "MAP, relaying a Competition Council communiqué, says authorised payment institutions (EDP) and bank acquiring subsidiaries may operate on the electronic payment acquiring market from 1 May 2025.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "payment institutions regime",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-28-tcd-tchad-moov-money-decroche-son-agrement-d-etablissement-de-paiement",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article says the Cobac regulation of 21 December 2018 replaced the 2011 e-money framework and created the payment institution status for CEMAC states including Chad.",
+   "as_of": "2018-12-21",
+   "date_precision": "day",
+   "system": "Cobac payment services regulation",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "Moov Money Tchad SA obtained payment institution approval in the first half of 2026, joining Airtel Money (March 2022) and Konoom (October 2025), per Maroc Telecom's half-year report cited by Ecomatin.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Moov Money Tchad",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moov Money",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "Moov Money Tchad SA",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "Airtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

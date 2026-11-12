@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-03-cog-journal-officiel-de-la-republique-du-congo-du-jeudi-3-juillet-2025-arr",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Congolese finance ministry's arretes of 20 June 2025 cite CEMAC/UMAC/COBAC Regulation No. 04/18 of 21 December 2018 on payment services as the governing text for payment institutions.",
+   "as_of": "2025-06-20",
+   "date_precision": "day",
+   "system": "Regulation 04/18/CEMAC/UMAC/COBAC",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "Arrete No. 2708/MFBPP-CAB of 27 May 2022 approved Mobile Money Congo S.a as a payment institution (etablissement de paiement), per the Journal officiel of 3 July 2025.",
+   "as_of": "2022-05-27",
+   "date_precision": "day",
+   "system": "Mobile Money Congo S.a payment institution approval",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile Money Congo S.a",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "MTN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

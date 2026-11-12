@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-27-sen-bceao-licenses-nine-fintechs-for-digital-payments-in-waemu",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "BCEAO Instruction No. 001-01-2024 of 23 January 2024 requires payment service providers in WAEMU to hold a licence after a transition that ended 1 May 2025, per Ecofin Agency.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "BCEAO Instruction 001-01-2024",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "i-FUTURE announced on 19 May 2025 that it had received its payment institution licence in Niger under the instruction.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "BCEAO Instruction 001-01-2024",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BCEAO Instruction 001-01-2024",
+   "country_label": "Niger",
+   "class": "law",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

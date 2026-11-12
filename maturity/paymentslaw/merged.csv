@@ -2,7 +2,9 @@ iso3,source_slug,read,merged_on
 AGO,2014-07-10-ago-decreto-presidencial-166-14-regulamento-partilha-infra-estruturas,,2026-11-11
 AGO,2017-09-12-bna-aviso-8-17-classificacao-dos-subsistemas-de-compensacao-e-liquidacao,,2026-10-19
 AGO,2022-02-02-aviso-2-22-bna-prestacao-de-servicos-de-pagamento,,2026-10-19
+AGO,2024-08-29-ago-dezasseis-empresas-autorizadas-pelo-bna-a-emitir-moeda-electronica,,2026-11-12
 AGO,2025-01-11-ago-fas-kwenda-transferencia-contas-cabinda,,2026-10-19
+AGO,2025-05-12-ago-bna-submete-a-consulta-publica-projecto-sobre-conta-fiduciaria-para-mo,,2026-11-12
 AGO,2025-05-21-ago-aviso-n-o-3-25-de-21-de-maio,,2026-10-25
 AGO,2025-08-13-bna-instrutivo-02-2025-limites-de-valor-sistema-de-pagamentos,,2026-10-19
 AGO,2025-08-22-aviso-4-25-bna-contas-de-moeda-electronica,,2026-10-19
@@ -11,6 +13,7 @@ AGO,2026-07-09-nova-etapa-estrategia-nacional-de-inclusao-financeira,,2026-10-27
 AGO,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 BDI,2018-05-11-loi-1-07-systeme-national-paiement,,2026-10-19
 BDI,2025-11-20-brb-cadre-surveillance-paiement,,2026-10-19
+BDI,2026-02-09-bdi-liste-des-etablissements-de-paiements,,2026-11-12
 BDI,2026-04-23-brb-lancement-burundipay,,2026-10-19
 BDI,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 BEN,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system,,2026-10-27
@@ -33,7 +36,13 @@ BEN,2026-11-02-ben-communique-de-mtn-mobile-money-benin,,2026-11-03
 BEN,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 BFA,2023-12-12-bfa-findev-paiements-sociaux-mobile-money,,2026-10-19
 BFA,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system,,2026-10-27
+BFA,2024-10-03-bfa-bceao-le-burkina-faso-va-adopter-une-nouvelle-loi,,2026-11-12
+BFA,2025-05-27-sen-bceao-licenses-nine-fintechs-for-digital-payments-in-waemu,,2026-11-12
+BFA,2025-06-02-xwa-services-de-paiement-umoa-les-fintech-ont-jusqu-au-31-aout-pour-se-reg,,2026-11-12
+BFA,2025-06-04-civ-instruction-n001-01-2024-bceao-les-fintech-ont-jusqu-au-31-aout-2025-p,,2026-11-12
 BFA,2026-02-28-xwa-bceao-etablissements-monnaie-electronique,,2026-10-25
+BFA,2026-06-29-bfa-listes-des-etablissements-de-paiement-et-de-monnaie-electronique-burki,,2026-11-12
+BFA,2026-06-29-bfa-reglementation-bancaire-au-faso-des-innovations-en-reponse-aux-mutatio,,2026-11-12
 BFA,2026-07-07-bceao-prolonge-delais-pi-spi,,2026-10-19
 BFA,2026-08-18-uemoa-pi-spi-104-etablissements-autorises,,2026-10-19
 BFA,2026-08-27-horonyafinance-umoa-monnaie-electronique-2025,,2026-10-19
@@ -55,6 +64,9 @@ CAF,2025-02-01-beac-strategie-regionale-inclusion-financiere-cemac,,2026-10-19
 CAF,2026-07-30-cemac-gimac-norme-qr-code-interoperable,,2026-10-19
 CAF,2026-07-30-cemac-gimacpay-transactions-2025,,2026-10-19
 CIV,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system,,2026-10-27
+CIV,2025-05-27-sen-bceao-licenses-nine-fintechs-for-digital-payments-in-waemu,,2026-11-12
+CIV,2025-06-02-xwa-services-de-paiement-umoa-les-fintech-ont-jusqu-au-31-aout-pour-se-reg,,2026-11-12
+CIV,2025-06-04-civ-instruction-n001-01-2024-bceao-les-fintech-ont-jusqu-au-31-aout-2025-p,,2026-11-12
 CIV,2025-06-29-civ-amelioration-de-la-gouvernance-economique-l-observatoire-de-la-qualite,,2026-10-26
 CIV,2025-09-26-monnaie-electronique-4e-etablissement-djogana-pay-fratmat,,2026-10-19
 CIV,2026-02-17-techcabal-semoa-bceao-licence,,2026-10-19
@@ -74,6 +86,7 @@ CIV,2026-11-09-civ-cote-d-ivoire-ce-que-la-nouvelle-loi-bancaire-change-pour-les
 CIV,2026-11-09-sen-wave-precise-l-acces-a-pi-spi-au-senegal-et-en-cote-d-ivoire,,2026-11-10
 CIV,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 CMR,2025-05-28-cmr-arrete-n080-cab-pm-du-28-mai-2025-instituant-une-plateforme-electroniq,,2026-11-11
+CMR,2025-06-13-cmr-wave-entre-officiellement-sur-le-marche-des-paiements-mobiles-au-camer,,2026-11-12
 CMR,2025-07-16-cmr-worldbank-findex-account-ownership,,2026-10-19
 CMR,2026-05-13-cmr-depense-publique-l-ere-du-paiement-digital,,2026-11-07
 CMR,2026-07-30-cemac-gimacpay-transactions-2025,,2026-10-19
@@ -86,10 +99,12 @@ COD,2023-12-01-cod-cartographie-des-systemes-et-services-de-paiement-des-prestat
 COD,2024-09-04-cod-instruction-no-58-on-the-interoperability-of-electronic-payment-system,,2026-10-25
 COD,2025-10-31-rdc-bcc-instruction-60-grille-tarifaire,,2026-10-19
 COD,2026-01-01-cod-surveillance-des-systemes-de-paiement,,2026-10-25
+COD,2026-07-21-cod-dr-congo-clears-myriad-to-operate-as-a-payment-aggregator,,2026-11-12
 COD,2026-09-04-cod-le-pari-de-la-banque-centrale-pour-moderniser-le-systeme-de,,2026-10-19
 COD,2026-10-22-cod-rdc-le-papss-ouvre-son-reseau-aux-banques-et-fintechs,,2026-10-26
 COD,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 COG,2024-03-28-cog-creation-de-l-association-professionnelle-des-etablissements-de-paieme,,2026-10-25
+COG,2025-07-03-cog-journal-officiel-de-la-republique-du-congo-du-jeudi-3-juillet-2025-arr,,2026-11-12
 COG,2026-06-11-cog-arrete-1009-plateforme-fouta-recettes-publiques,,2026-10-19
 COG,2026-07-30-cemac-gimacpay-transactions-2025,,2026-10-19
 COG,2026-10-07-cog-aci-artf-transferts-de-fonds-plateforme-numerique,,2026-10-19
@@ -103,6 +118,7 @@ COM,2026-04-16-tax-administration-teleprocedures-digitisation-pagf-lagazette,,20
 CPV,2018-06-22-cabo-verde-decreto-legislativo-3-2018-operacoes-cambiais-exterior,,2026-10-19
 CPV,2018-11-28-cabo-verde-decreto-legislativo-7-2018-sistema-pagamentos,,2026-10-19
 CPV,2025-01-01-bcv-sistema-de-pagamentos,,2026-10-19
+CPV,2026-10-14-cpv-capital-minimo-trava-novas-empresas-tecnologicas-no-setor-bancario-diz,,2026-11-12
 DJI,2016-07-16-djibouti-loi-118-systeme-paiement-national,,2026-10-19
 DJI,2021-07-15-bcd-infrastructures-ats-syrad,,2026-10-19
 DJI,2025-01-01-dji-les-etablissements-agrees,,2026-10-25
@@ -128,6 +144,7 @@ EGY,2026-08-08-fra-approves-testing-first-2-projects-by-sandbox-digital-ecosyste
 EGY,2026-08-23-cbe-digital-financial-identity-platform-ekyc-regulations,,2026-10-19
 EGY,2026-09-01-techafricanews-egypt-fra-fintech-sandbox,,2026-10-19
 EGY,2026-09-14-egy-maspero-fra-otp-sharikat-tamwil-qarar-2735,,2026-10-19
+EGY,2026-10-05-egy-halan-payments-and-halan-technology-apply-for-cbe-psp-licences,,2026-11-12
 EGY,2026-10-22-egy-egypts-souhoola-secures-fra-approval-for-fintech-based-consu,,2026-10-25
 EGY,2026-11-07-egy-cairo-ict-2026-fra-chairman-highlights-digital-transformation-in-non-b,,2026-11-10
 EGY,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
@@ -138,6 +155,7 @@ ERI,2026-07-02 Eritrea's banking ultimatum - deposit cash by 31 July 2026,,2026-
 ERI,2026-09-18-eri-martinplaut-new-cash-restrictions,,2026-10-19
 ETH,2024-11-05-eth-ethiopian-payment-system-landscape,,2026-10-25
 ETH,2025-01-01-eth-dpa-digital-digest-ethiopia-2025,,2026-10-21
+ETH,2025-05-27-eth-nbe-mandates-interoperability-among-mobile-wallets,,2026-11-12
 ETH,2026-07-23-reporter-nbe-reaffirms-ban-virtual-assets,,2026-10-19
 ETH,2026-07-25-reporter-economic-execution-ethiopia-fintechs-tax-crackdown,,2026-10-19
 ETH,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
@@ -247,6 +265,7 @@ LSO,2025-08-01-lso-report-of-the-portfolio-committee-on-the-economic-and-develop
 LSO,2025-09-15-lso-ecocash-unlocks-new-global-remittance-avenues-with-thunes-partnership,,2026-10-27
 LSO,2026-01-16-lso-elderly-pensioners-under-siege,,2026-11-07
 LSO,2026-04-24-lso-government-urges-elderly-to-utilise-electronical-devices-to-receive-gr,,2026-11-07
+LSO,2026-05-04-lso-order-paper-for-monday-04th-may-2026,,2026-11-12
 LSO,2026-05-05-lesotho-finance-minister-payment-system-bill,,2026-10-19
 LSO,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 MAR,2014-12-24-morocco-loi-103-12-etablissements-credit,,2026-10-19
@@ -254,9 +273,11 @@ MAR,2020-04-23-cndp-deliberation-d-108-eus-2020-reconnaissance-faciale-compte-a-
 MAR,2024-02-20-mar-medias24-aides-sociales-directes-etablissements-paiement,,2026-10-19
 MAR,2024-07-26-mar-bank-al-maghrib-repense-le-cadre-reglementaire-des-etablissements-de-p,,2026-10-25
 MAR,2025-05-01-mar-rapport-d-activite-2024,,2026-10-26
+MAR,2025-05-21-mar-paiement-electronique-les-etablissements-de-paiement-et-les-filiales-d,,2026-11-12
 MAR,2025-07-13-mar-acquisition-monetique-11-operateurs-agrees-de-nouvelles-demandes-en-co,,2026-10-25
 MAR,2025-10-31-morocco-communique-cmi-desengagement,,2026-10-19
 MAR,2026-02-18-cmi-fatourati-agregateur-fintechs-editeurs,,2026-10-19
+MAR,2026-06-01-mar-adhesion-swam-switch-al-maghrib,,2026-11-12
 MAR,2026-07-10-morocco-communique-conjoint-interchange-cap,,2026-10-19
 MAR,2026-09-27-mar-instant-payment-mfc-talks,,2026-10-19
 MDG,2017-01-27-decision-hcc-loi-2016-056-monnaie-electronique,,2026-10-19
@@ -277,6 +298,9 @@ MDG,2026-10-27-mdg-acces-a-internet-une-nouvelle-legislation-en-faveur-des-inves
 MLI,2023-12-12-mli-worldbank-jigisemejiri-mobile-money-pilot,,2026-10-19
 MLI,2024-01-08-mli-orange-finances-money-mali-et-terrapay-etablissent-un-partenariat-stra,,2026-10-27
 MLI,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system,,2026-10-27
+MLI,2025-05-27-sen-bceao-licenses-nine-fintechs-for-digital-payments-in-waemu,,2026-11-12
+MLI,2025-06-02-xwa-services-de-paiement-umoa-les-fintech-ont-jusqu-au-31-aout-pour-se-reg,,2026-11-12
+MLI,2025-06-04-civ-instruction-n001-01-2024-bceao-les-fintech-ont-jusqu-au-31-aout-2025-p,,2026-11-12
 MLI,2026-02-28-bceao-liste-etablissements-paiement-agrees-umoa,,2026-10-19
 MLI,2026-02-28-xwa-bceao-etablissements-monnaie-electronique,,2026-10-25
 MLI,2026-06-25-bceao-pi-spi-prolongation-delai-communique-web,,2026-10-19
@@ -287,6 +311,7 @@ MLI,2026-08-31-xwa-bceao-liste-etablissements-paiement-agrees-umoa,,2026-10-19
 MLI,2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline,,2026-10-19
 MLI,2026-10-08-ben-beninwebtv-quatre-etablissements-paiement-agrees,,2026-10-19
 MLI,2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes,,2026-10-27
+MLI,2026-11-02-mli-mali-nouvelles-regles-pour-les-transferts-numeriques,,2026-11-12
 MLI,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 MOZ,2024-07-24-moz-fmi-sugere-a-mocambique-pagar-apoios-traves-de-carteiras-digitais,,2026-11-06
 MOZ,2026-02-18-national-payments-system-bill-parliament-clubofmozambique,,2026-10-19
@@ -306,6 +331,7 @@ MOZ,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 MRT,2021-07-30-mauritanie-loi-2021-014-texte-integral-droit-afrique,,2026-10-19
 MRT,2021-07-30-mtnima-loi-2021-014-services-moyens-paiement-electronique,,2026-10-19
 MRT,2022-03-31-bcm-instruction-03-gr-2022-reglementation-etablissements-de-paiement,,2026-10-19
+MRT,2024-03-03-mrt-la-bcm-fixe-le-montant-quotidien-autorise-pour-les-transferts-au-nivea,,2026-11-12
 MRT,2024-03-05-mrt-bcm-de-nouvelles-mesures-pour-assainir-le-systeme-des-transactions,,2026-10-25
 MRT,2024-07-01-strategie-nationale-intelligence-artificielle-ar,,2026-11-11
 MRT,2025-10-30-mrt-digilab-sandbox,,2026-10-26
@@ -316,6 +342,7 @@ MRT,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 MUS,2003-07-30-mus-computer-misuse-and-cybercrime-act-2003,,2026-11-11
 MUS,2018-11-29-national-payment-systems-act-2018,,2026-10-19
 MUS,2019-01-31-national-payment-systems-act-2018,,2026-10-19
+MUS,2024-08-28-mus-public-notice-ez-dash-limited,,2026-11-12
 MUS,2024-10-19-mus-national-payment-systems-authorisation-and-licensing-amendment-regulat,,2026-10-25
 MUS,2025-03-01-rfp-feasibility-study-payment-services-directive-africa,,2026-10-19
 MUS,2025-09-11-mus-public-notice-nanosaio-ltd,,2026-10-25
@@ -353,6 +380,9 @@ NAM,2026-09-18-nam-economist-namfisa-fintech-square-2026,,2026-10-19
 NAM,2026-09-21-nam-newera-fintech-jobs-namfisa,,2026-10-19
 NAM,2026-11-04-nam-cabinet-briefs,,2026-11-09
 NER,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system,,2026-10-27
+NER,2025-05-27-sen-bceao-licenses-nine-fintechs-for-digital-payments-in-waemu,,2026-11-12
+NER,2025-06-02-xwa-services-de-paiement-umoa-les-fintech-ont-jusqu-au-31-aout-pour-se-reg,,2026-11-12
+NER,2025-06-04-civ-instruction-n001-01-2024-bceao-les-fintech-ont-jusqu-au-31-aout-2025-p,,2026-11-12
 NER,2025-12-17-ner-lesahel-atelier-risques-sfn,,2026-10-19
 NER,2026-02-28-bceao-liste-etablissements-paiement-agrees-umoa,,2026-11-11
 NER,2026-02-28-xwa-bceao-etablissements-monnaie-electronique,,2026-10-25
@@ -406,7 +436,11 @@ SEN,2022-04-21-wave-emoney-license-bceao,,2026-10-19
 SEN,2023-01-01-sen-mcten-strategie-nationale-ia-2028-version-resumee,,2026-11-11
 SEN,2024-07-03-sen-orbit-taux-inclusion-financiere-bceao,,2026-10-19
 SEN,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system,,2026-10-27
+SEN,2025-03-25-sen-senegal-apres-wave-quickpay-obtient-l-agrement-d-etablissement-de-monn,,2026-11-12
 SEN,2025-05-21-sen-l-umoa-sanctionne-un-etablissement-de-monnaie-electronique-implante-au,,2026-10-26
+SEN,2025-05-27-sen-bceao-licenses-nine-fintechs-for-digital-payments-in-waemu,,2026-11-12
+SEN,2025-06-02-xwa-services-de-paiement-umoa-les-fintech-ont-jusqu-au-31-aout-pour-se-reg,,2026-11-12
+SEN,2025-06-04-civ-instruction-n001-01-2024-bceao-les-fintech-ont-jusqu-au-31-aout-2025-p,,2026-11-12
 SEN,2025-12-03-sen-aps-taux-inclusion-financiere-83,,2026-10-19
 SEN,2026-02-17-techcabal-semoa-bceao-licence,,2026-10-19
 SEN,2026-02-28-bceao-liste-etablissements-paiement-agrees-umoa,,2026-10-19
@@ -433,6 +467,7 @@ SLE,2022-06-23-sierra-leone-national-payment-systems-act-2022,,2026-10-19
 SLE,2023-06-23-sierra-leone-financial-inclusion-project-isr-national-payment-switch,,2026-10-19
 SLE,2024-12-17-sle-bank-of-sierra-leone-issues-national-payment-switch-directives-for-202,,2026-10-25
 SLE,2025-07-01-sle-deep-dive-on-quality-assessment-of-dfs-a-regulatory-perspective,,2026-10-25
+SLE,2025-07-01-sle-regulatory-framework-for-digital-financial-services-in-sierra-leone-df,,2026-11-12
 SLE,2026-07-23-whatsapp-scam-emptying-orange-money-sierra-leone,,2026-10-19
 SLE,2026-08-18-sierraloaded-sierra-leone-finance-law-digital-payments,,2026-10-19
 SLE,2026-11-04-sle-sierra-leone-s-data-protection-bill-reaches-parliament-after-chrdi-led-advocacy,,2026-11-06
@@ -446,6 +481,7 @@ SOM,2025-11-08-somalia-house-of-people-national-payment-system-bill-passed,,2026
 SOM,2025-11-27 Somalia's Digital ID - A Milestone on the Roadmap Towards Effective Governance,,2026-11-11
 SOM,2025-12-08-first-reading-of-the-cybercrimes-bill,,2026-11-11
 SOM,2026-01-11-somalia-upper-house-national-payment-system-bill-passed,,2026-10-19
+SOM,2026-01-12-som-somali-upper-house-approves-national-payment-system-bill,,2026-11-12
 SOM,2026-01-29 Somali Parliament approves Cybersecurity Law amid rising threats,,2026-11-11
 SOM,2026-06-22-somalia-ifc-submarine-cable-working-group,,2026-11-11
 SOM,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation,,2026-11-11
@@ -476,6 +512,7 @@ SWZ,2025-03-01-swz-cma-eft-payments-directive-no-1-of-2025,,2026-10-27
 SWZ,2025-04-01-lso-south-african-reserve-bank-act-directive-no-1-of-2025-execution-of-low,,2026-10-27
 SWZ,2025-05-23-swz-eswatini-to-migrate-low-value-cross-border-transfers-to-regional-syste,,2026-10-25
 SWZ,2025-11-13-inside-eswatini-tackling-big-payments-challenges,,2026-10-19
+SWZ,2026-05-13-swz-deltapay-secures-full-mobile-money-licence,,2026-11-12
 SWZ,2026-07-23-eswatini-cabinet-approves-major-reforms,,2026-10-19
 SWZ,2026-09-21-swz-observer-eswatini-payment-switch-live,,2026-10-19
 SWZ,2026-10-12-swz-deltapay-brings-instant-payments-closer-to-home-eswatini-pos,,2026-10-19
@@ -494,24 +531,29 @@ TCD,2023-12-29-tcd-lf-2024-loi-031-pt-2023-companion,,2026-10-19
 TCD,2024-01-10-tcd-circulaire-portant-instructions-relatives-a-l-execution-du-budget-gene,,2026-10-27
 TCD,2026-02-17-atpe-flux-financiers-etat-paiement-electronique,,2026-10-19
 TCD,2026-02-18-tchadinfos-finances-convention-operateurs-mobile-money,,2026-10-19
+TCD,2026-07-28-tcd-tchad-moov-money-decroche-son-agrement-d-etablissement-de-paiement,,2026-11-12
 TCD,2026-07-29-leconomie-tchad-moov-money-etablissement-paiement-agree,,2026-10-19
 TCD,2026-07-30-cemac-gimacpay-transactions-2025,,2026-10-19
 TCD,2026-09-02-beac-registre-instructions-circulaires-reglements-paiement,,2026-10-19
 TCD,2026-10-09-ecomatin-cemac-mobile-money-44000-milliards-2025,,2026-10-19
 TCD,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 TGO,2024-06-20-tgo-la-banque-centrale-lance-la-phase-pilote-du-systeme-de-paiement-instan,,2026-10-27
+TGO,2024-06-27-tgo-87-1-c-est-le-taux-atteint-au-togo-dans-l-utilisation-des-services-fin,,2026-11-12
 TGO,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system,,2026-10-27
+TGO,2025-09-23-tgo-mixx-togo-premier-etablissement-de-monnaie-electronique-agree-par-la-b,,2026-11-12
 TGO,2026-01-31-tgo-fintech-semoa-obtient-l-agrement-etablissement-de-paiement-de-la-bceao,,2026-10-25
 TGO,2026-02-17-techcabal-semoa-bceao-licence,,2026-11-11
 TGO,2026-02-28-bceao-liste-etablissements-paiement-agrees-umoa,,2026-11-11
 TGO,2026-02-28-xwa-bceao-etablissements-monnaie-electronique,,2026-10-25
 TGO,2026-04-03-bceao-adhesion-pi-spi-30-juin,,2026-11-11
+TGO,2026-06-29-tgo-listes-des-etablissements-de-paiement-et-de-monnaie-electronique-togo,,2026-11-12
 TGO,2026-07-21-xwa-agenceecofin-bceao-pilote-papss-80-banques,,2026-10-25
 TGO,2026-07-28-uemoa-interoperabilite-paiements-forbesafrique,,2026-10-19
 TGO,2026-08-18-uemoa-pi-spi-104-etablissements-autorises,,2026-10-19
 TGO,2026-08-27-horonyafinance-umoa-monnaie-electronique-2025,,2026-10-19
 TGO,2026-08-31-xwa-bceao-liste-etablissements-paiement-agrees-umoa,,2026-11-11
 TGO,2026-09-07-cadreco-umoa-mobile-money-2025-transactions,,2026-10-19
+TGO,2026-09-08-tgo-banques-monnaie-electronique-paiements-le-togo-adapte-son-cadre-reglem,,2026-11-12
 TGO,2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline,,2026-10-19
 TGO,2026-10-02-xwa-bceao-communique-pi-spi-e-money-transfers-tariffs,,2026-10-19
 TGO,2026-10-08-ben-beninwebtv-quatre-etablissements-paiement-agrees,,2026-11-11
@@ -530,6 +572,8 @@ TUN,2026-05-05-bct-note-2026-132-label-national-tunpay,,2026-10-19
 TUN,2026-05-07-wearetech-central-bank-tunpay-label,,2026-10-19
 TUN,2026-09-25-bct-tun-circulaire-2026-10-etablissements-paiement,,2026-10-19
 TUN,2026-09-29-tun-challenges-cybersecurite-deux-circulaires,,2026-10-19
+TUN,2026-11-08-tun-paiement-mobile-ouverts-dormants,,2026-11-12
+TUN,2026-11-10-tun-paiement-mobile-en-tunisie-7-1-millions-de-transactions-et-une-croissa,,2026-11-12
 TZA,2015-05-22-national-payment-systems-act-2015,,2026-10-19
 TZA,2023-12-01-tza-cloud-computing-guidelines-for-financial-service-providers-2023,,2026-10-30
 TZA,2024-01-01-tanzania-digital-economy-strategic-framework,,2026-11-11
@@ -547,6 +591,7 @@ UGA,2024-04-29-uga-bou-details-redress-procedure-for-aggrieved-bank-customers,,2
 UGA,2025-07-23-mtn-uganda-shareholders-approve-momo-separation,,2026-10-19
 UGA,2025-10-06 BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%,,2026-10-19
 UGA,2025-10-09-uga-bou-s-switch-that-will-control-bank-mobile-money-and-fintech-charges,,2026-10-25
+UGA,2025-12-03-uga-issuance-of-licences-under-the-national-payment-systems-act-cap-59-pub,,2026-11-12
 UGA,2025-12-23 URA Launches Enhanced Tax Payment Services on MTN MoMo to Boost Digital Compliance,,2026-10-19
 UGA,2025-12-30-nala-receives-uganda-payment-licenses,,2026-10-19
 UGA,2026-01-20-mobile-money-restored-after-election-shutdown,,2026-10-19
@@ -573,6 +618,7 @@ ZAF,2026-08-05-sa-treasury-cross-border-crypto-draft-manual,,2026-10-19
 ZAF,2026-08-19-south-africa-cross-border-crypto-rules,,2026-10-19
 ZAF,2026-09-01-national-payment-system-bill-techcentral,,2026-10-19
 ZAF,2026-09-01-zaf-psmb-transition,,2026-10-25
+ZAF,2026-09-09-zaf-end-of-an-era-for-south-africa-s-payments-system,,2026-11-12
 ZAF,2026-09-28-zaf-asapp-payment-challengers-proposals-payshap-interchange,,2026-10-19
 ZAF,2026-10-17-zaf-sarb-nps-regulation-page,,2026-10-19
 ZAF,2026-10-20-postbank-full-service-banking-licence-still-miles-off,,2026-10-22

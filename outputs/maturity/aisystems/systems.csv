@@ -44,6 +44,7 @@ COG,Lingala and Kituba digital corpus,Congo,localai,,"Ministry of Posts, Telecom
 COG,Qwen-VL Lingala OCR Dataset,Congo,localai,Hugging Face,Congo Digital Services,,2026-08-01-cog-qwen-vl-lingala-ocr-dataset
 COG,Llama-3.1-8B-Instruct-Lingala-QLoRA-merged-v2,Congo,localai,"Llama 3.1 8B, QLoRA, vLLM",Congo Digital Services,,2026-07-27-cog-llama-3-1-8b-instruct-lingala-qlora-merged-v2
 COG,Brazzaville data center,Congo,localai,,Congolese state; financed largely by the African Development Bank,,2025-11-20-cog-le-congo-brazzaville-s-equipe-d-un-data-center-pour-repondre-au-defi-d
+COG,African Centre for Research in Artificial Intelligence,CARIA,localai,,Government of Congo,,2026-01-17-cog-congo-mps-review-aden-and-caria-viability
 COM,Komori TTS,Comoros,localai,web application (Komori IA site),Soilahoudine Mohamed (individual),,2026-08-04-alwatwan-komori-tts-synthese-vocale-shikomori
 COM,CNDRS AI early-warning models,Comoros,localai,,CNDRS,,2026-08-25-comores-ia-mariama-madi-american-corner-lagazettedescomores
 COM,"Press-IA, Agro-IA, Health-IA",Comoros,localai,,Komor-IA,,2025-09-06-com-komor-ia-un-jeune-comorien-lance-une-startup-d-intelligence-artificiel
@@ -58,6 +59,7 @@ DJI,HOOM,Djibouti,localai,mobile and web education application,"HOOM, Djiboutian
 DJI,"AIDC (intelligent computing centre), LinkWise Group project",Djibouti,localai,NVIDIA H and B series GPUs (planned),Shanghai LinkWise and Shanghai Nenghui Technology,national,2026-07-23-lanation-djibouti-linkwise-interview-mariam-hamadou-ali
 DJI,LinkWise AI compute infrastructure,Djibouti,localai,,LinkWise,,2026-10-14-dji-adi-linkwise-ai-compute-infrastructure-jobs
 DJI,MAZU-Djibouti 2.0,Djibouti,other,,Chinese Meteorological Administration (provider),national,2026-07-22-djibouti-mazu-2-0-alerte-meteo-ia
+DJI,Somali-Language AI & Innovation Lab (SAIL),SAIL,localai,,University of Djibouti and Jamhuuriya University,,2026-04-12-dji-djibouti-and-somalia-launch-joint-initiative-to-advance-ai-in-the-soma
 DZA,LLM for university lecturers,Algeria,localai,,Ministry of Higher Education and Scientific Research,,2026-07-25-echorouk-parcours-pedagogique-ia-universite
 DZA,APN-CERIST dialect speech-to-text,Algeria,localai,,CERIST / Assemblee Populaire Nationale,,2024-10-01-dza-contribution-de-m-salim-djalal-secretaire-general-de-l-assemblee-popul
 DZA,"AI high-performance computing centre, Oran",AI high-performance computing centre,localai,,Ministry of Post and Telecommunications,,2025-03-17-dza-lancement-du-premier-centre-de-calcul-haute-performance-dedie-a-l-ia-e
@@ -77,6 +79,7 @@ EGY,"Egypt sovereign AI data centre (Vodafone Egypt, Elsewedy Electric, Cassava)
 EGY,Public Prosecution AI data centre,Egypt,localai,,Public Prosecution,,2026-11-11-egy-prosecution-opens-ai-data-centre-in-rehab
 EGY,EMA supercomputer,Egypt,other,,Egyptian Meteorological Authority,,2026-01-14-egy-ema-2025-year-in-review-radars-supercomputer
 EGY,JIGSAW central data and AI platform,Egypt,localai,,Hyve Technology Consulting; localised at the Information and Decision Support Centre,,2023-11-23-egy-idsc-hyve-jigsaw-data-platform-mou
+EGY,MENA AI Observatory,Egypt,other,,"A2K4D, American University in Cairo",,2024-02-04-egy-artificial-intelligence-data-and-platform-work-mena-cases-studies-and
 ERI,Dahlak LMs,Eritrea,localai,research.geezlab.com,GeezLab (GLaRe),,2026-01-01-eri-geezlab-glare-eritrean-language-ai-research
 ERI,Tigrigna speech to text,Eritrea,localai,speech recognition model,EIT Mai-Nefhi graduates,,2021-11-06-eri-shabait-tigrigna-speech-to-text-ai
 ERI,DESTA-1B,DESTA-1B,localai,Hugging Face,mewaeltsegay,,2026-01-01-eri-desta-1b-dedicated-eritrean-semitic-text-autoregressor
@@ -90,6 +93,7 @@ ETH,Ethiopian Artificial Intelligence Institute (EAII),Ethiopia,localai,,EAII,,2
 ETH,Ethiopian AI Institute language technologies,Ethiopia,localai,,Ethiopian Artificial Intelligence Institute,,2025-11-17-eth-ethiopian-ai-institute-becoming-africa-s-most-visible-influential-inst
 ETH,Ethiopian Artificial Intelligence Institute,Ethiopia,localai,,government,,2026-11-08-eth-digital-sovereignty-priority-for-africa-s-future-innovation-technology-state-m
 ETH,AI UniPod,Ethiopia,localai,GPUs via UNDP EDGE,"EAII, UNDP and Addis Ababa University",,2026-11-09-ethiopia-eaii-ai-hub-2030-medemer-unipod
+GAB,Obone AI,Obone AI,localai,,CSGR-IA,,2026-07-07-gab-institutions-consultatives-le-csgr-ia-recu-en-audience-par-le-2eme-vic
 GHA,national AI compute centre,Ghana,localai,,"Government of Ghana (Ministry of Communication, Digital Technology and Innovations)",,2026-10-15-gha-myjoyonline-sam-george-ai-5bn-compute-centre
 GHA,Twi language model,Ghana,localai,,KNUST,,2026-10-12-gha-myjoyonline-sam-george-knust-twi-ai-model
 GHA,National AI and Computing Centre,Ghana,localai,high-performance computing and AI infrastructure,"Ministry of Communication, Digital Technology and Innovation",national,2026-09-15-citinewsroom-ghana-200m-digitalisation-250m-ai-computing-centre
@@ -231,6 +235,8 @@ SOM,whisper-som-small,Somalia,localai,Hugging Face; fine-tuned from OpenAI Whisp
 SOM,SomNLP-STT-Corpus,Somalia,localai,,Goobo Labs,,2026-05-27-som-goobolabs-whisper-som-small-release
 SOM,Natural Language Processing for Somalia,Somalia,localai,,SIMAD AI Institute,,2026-01-09-som-simad-ai-institute-somali-nlp-project
 SOM,Himilo 7B,Somalia,localai,,Sykli Intelligence,,2025-03-13-som-himilo-7b-our-pioneering-somali-language-model
+SOM,Somali-Language AI & Innovation Lab (SAIL),SAIL,localai,,Jamhuuriya University and University of Djibouti,,2026-04-12-dji-djibouti-and-somalia-launch-joint-initiative-to-advance-ai-in-the-soma
+SOM,SomBERTa,Somalia,localai,,Jamhuriya University of Science and Technology,,2026-04-07-som-jamhuriya-university-launches-somalia-s-first-somali-language-ai-lab-t
 SSD,YoGage AI,South Sudan,localai,Juba Arabic dataset for AI,Go Girl ICT Initiative,,2025-06-20-ssd-eyeradio-yogage-ai-juba-arabic-dataset
 SSD,JunubAI,South Sudan,localai,AI platform for building businesses online,,,2025-07-29-ssd-indabax-south-sudan-2025-igniting-the-future-of-ai-in-south-sudan
 STP,DireitosAoPovo,DireitosAoPovo,localai,AI-augmented access-to-justice platform,UNODC,,2026-06-26-stp-un-convenes-sao-tome-and-principe-s-justice-and-security-leaders-on-cy

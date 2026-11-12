@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-14-cpv-capital-minimo-trava-novas-empresas-tecnologicas-no-setor-bancario-diz",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article says Aviso n.6/2019 of 18 July 2019 on payment institutions and e-money institutions stands, and that no later changes were found in the outlet's check.",
+   "as_of": "2019-07-18",
+   "date_precision": "day",
+   "system": "Aviso n.6/2019",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "Aviso n.6/2019 sets minimum capital for payment institutions (2 million escudos for remittance only, 5 million for one service, 10 million for others) and 20 million for e-money institutions.",
+   "as_of": "2019-07-18",
+   "date_precision": "day",
+   "system": "Aviso n.6/2019",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

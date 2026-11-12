@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-13-eth-ai-institute-federal-police-ink-deal-for-smart-station",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Addis Fortune reports that the Ethiopian Artificial Intelligence Institute and the Federal Police Commission signed an agreement for the institute to develop an AI-based Smart Police Station.",
+   "as_of": "2025-07-13",
+   "date_precision": "day",
+   "system": "Smart Police Station",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

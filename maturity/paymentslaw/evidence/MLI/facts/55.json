@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-02-mli-mali-nouvelles-regles-pour-les-transferts-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "New BCEAO rules on fees and wallet limits for e-money transfers apply in Mali from 2 November 2026, per APA.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "BCEAO transfer reform",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "APA says interoperable transfers from wallets to banks, e-money institutions, microfinance institutions or payment institutions must now go through PI-SPI.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

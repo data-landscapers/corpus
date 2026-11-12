@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-som-simad-university-breaks-ground-on-building-to-host-somalia-s-national",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Dawan Africa reports that SIMAD University laid the foundation stone on 5 November 2026 for a building to host Somalia's National AI Hub, with the communications minister, built by Hadiid Group, to offer AI research and training on building AI-powered systems.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "National AI Hub",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

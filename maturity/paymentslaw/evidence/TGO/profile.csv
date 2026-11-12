@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,law,standing,coverage,in-force,2026-11-02,TGO-001;TGO-007;TGO-008;TGO-010;TGO-012;TGO-014;TGO-017,,
-TGO,law,reach,coverage,connect,2026-11-02,TGO-002;TGO-003;TGO-006;TGO-009;TGO-016,TGO-011=non-bank;TGO-013=non-bank;TGO-015=non-bank;TGO-018=non-bank;TGO-005=non-bank;TGO-004=non-bank,
+TGO,law,standing,coverage,in-force,2026-11-02,TGO-001;TGO-007;TGO-008;TGO-010;TGO-012;TGO-014;TGO-017,TGO-021=draft,
+TGO,law,reach,coverage,connect,2026-11-02,TGO-002;TGO-003;TGO-006;TGO-009;TGO-016,TGO-011=non-bank;TGO-013=non-bank;TGO-019=non-bank;TGO-015=non-bank;TGO-018=non-bank;TGO-005=non-bank;TGO-004=non-bank;TGO-020=non-bank,

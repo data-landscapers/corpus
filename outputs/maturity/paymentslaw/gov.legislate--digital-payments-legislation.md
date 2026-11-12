@@ -20,8 +20,8 @@ Article 15 of the AfCFTA Digital Trade Protocol and its Annex on Cross-Border Di
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 17 |
-| 4 Operating | 30 |
+| 5 Leading | 18 |
+| 4 Operating | 29 |
 | 3 Established | 6 |
 | 2 Nascent | 0 |
 | 1 Absent | 0 |
@@ -72,6 +72,15 @@ Eswatini's 2023 payment system act licenses mobile money providers, and since De
 - The Central Bank of Eswatini Governor said, at the 11 December 2024 launch of Fast Payments on the Eswatini Payment Switch, that participation is mandated for all payment service providers offering local payments, with the remaining participants expected to be live by the end of January 2025 (BIS Review published the speech 2025-01-14) ([source, 2024-12-11](https://www.bis.org/review/r250114f.htm)).
 - The article names three mobile money operators, including MTN MoMo and Instacash, in the interoperable system and the central bank says a new mobile money provider must go through its licensing process, with non-bank providers driving most financial inclusion gains ([source, 2025-11](https://techcabal.com/2025/11/13/how-a-small-country-is-tackling-big-payments-challenges/)).
 - The Central Bank of Eswatini's payments deputy director said the National Payment Systems Act of 2023 sets the bank's powers and the obligations of payment system providers and participants, and that licensing runs now under the bank's mobile money guidelines while detailed regulations are being finalised ([source, 2025-11](https://techcabal.com/2025/11/13/how-a-small-country-is-tackling-big-payments-challenges/)).
+
+### Ethiopia: 5 Leading
+
+Ethiopia licenses non-bank payment firms under 2020 central bank directives, and a May 2025 directive makes mobile wallets interoperable.
+
+- The revised directive makes interoperability among mobile wallets mandatory and requires financial institutions to participate in the Ethiopian Instant Payment System, per the National Bank of Ethiopia via Ethiopian Monitor ([source, 2025-05](https://ethiopianmonitor.com/2025/05/27/nbe-mandates-interoperability-among-mobile-wallets/)).
+- The National Bank of Ethiopia issued a revised Licensing and Authorization of Payment Instrument Issuer Directive in late May 2025, raising daily e-money transaction limits and issuer capital to 100 million Birr ([source, 2025-05](https://ethiopianmonitor.com/2025/05/27/nbe-mandates-interoperability-among-mobile-wallets/)).
+- The Reporter says the 2020 Payment Systems Operators directive created four licence categories (switch, POS, ATM and payment gateway operators) under which non-bank firms such as Chapa, Arifpay, Santimpay and Kacha were licensed, and the Payment Instrument Issuers directives enabled telecom operators to launch mobile wallets such as Telebirr and M-Pesa ([source, 2020](https://www.thereporterethiopia.com/52044/)).
+- Digital Policy Alert states that the National Bank's April 2020 directive allowed non-financial institutions such as mobile operators and fintech companies to offer mobile money ([source, 2020-04](https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia)).
 
 ### Ghana: 5 Leading
 
@@ -239,8 +248,10 @@ Chad is under the 2018 regional payment services regulation, with three non-bank
 
 ### Congo: 4 Operating
 
-Congo has two licensed payment institutions that are not banks, reported for 2025; the rules they are licensed under are not named.
+Congo licenses non-bank payment institutions under the 2018 regional payment services regulation, one since 2022; no rule to connect providers has been found.
 
+- The Congolese finance ministry's arretes of 20 June 2025 cite CEMAC/UMAC/COBAC Regulation No. 04/18 of 21 December 2018 on payment services as the governing text for payment institutions ([source, 2025-06-20](https://www.sgg.cg/textes-officiels/arretes/2025/congo-arrete-2025-1672.pdf)).
+- Arrete No. 2708/MFBPP-CAB of 27 May 2022 approved Mobile Money Congo S.a as a payment institution (etablissement de paiement), per the Journal officiel of 3 July 2025 ([source, 2022-05-27](https://www.sgg.cg/textes-officiels/arretes/2025/congo-arrete-2025-1672.pdf)).
 - COBAC's 2025 annual report, as reported 2026-10-09, covers payment institutions (non-bank) licensed in the CEMAC, and names Mobile Money Congo SA and Mobile Commerce Congo SA as the payment institutions operating in Congo, whose revenues rose 28.1% to FCFA 20.6 billion in 2025 ([source, 2025](https://ecomatin.net/cemac-le-mobile-money-brasse-44-000-milliards-fcfa-en-2025-et-genere-47-milliards-de-benefices-aux-operateurs)).
 
 ### Djibouti: 4 Operating
@@ -264,14 +275,6 @@ Equatorial Guinea is under the 2018 regional payment services regulation, which 
 
 - The strategy says the 2018 CEMAC payment services regulation created payment establishments, licensed to provide payment services without being tied to a bank, and that mobile operator subsidiaries and fintechs can be licensed if they meet its requirements; it lists six licensed by July 2023 (2 Cameroon, 1 Chad, 2 Congo, 1 Gabon), none in the Central African Republic ([source, 2023-07](https://www.beac.int/wp-content/uploads/2025/02/Strat%C3%A9gie-R%C3%A9gionale-dInclusion-Financi%C3%A8re-de-la-CEMAC.pdf)).
 - The BEAC strategy says CEMAC regulation No 04/18/CEMAC/UMAC/COBAC of 21 December 2018 on payment services governs payment establishments and mobile money across the CEMAC, which includes Equatorial Guinea ([source, 2018-12-21](https://www.beac.int/wp-content/uploads/2025/02/Strat%C3%A9gie-R%C3%A9gionale-dInclusion-Financi%C3%A8re-de-la-CEMAC.pdf)).
-
-### Ethiopia: 4 Operating
-
-Ethiopia's 2020 central bank directives license payment operators and wallet issuers that are not banks; no rule requiring providers to connect is known.
-
-- The Reporter says the 2020 Payment Systems Operators directive created four licence categories (switch, POS, ATM and payment gateway operators) under which non-bank firms such as Chapa, Arifpay, Santimpay and Kacha were licensed, and the Payment Instrument Issuers directives enabled telecom operators to launch mobile wallets such as Telebirr and M-Pesa ([source, 2020](https://www.thereporterethiopia.com/52044/)).
-- Digital Policy Alert states that the National Bank's April 2020 directive allowed non-financial institutions such as mobile operators and fintech companies to offer mobile money ([source, 2020-04](https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia)).
-- Digital Policy Alert states that Ethiopia amended the National Payment System Proclamation in February 2023 and the National Bank issued an October 2023 directive on licensing payment instruments including electronic money ([source, 2023-10](https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia)).
 
 ### Gabon: 4 Operating
 

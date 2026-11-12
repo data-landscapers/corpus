@@ -1,16 +1,17 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "reach": "non-bank",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-002;ETH-004;ETH-003",
-   "gaps": "No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.",
-   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "connect",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-006;ETH-005;ETH-002;ETH-004",
+      "gaps": "",
+      "note": "The National Bank's revised issuer directive of May 2025 makes mobile wallets interoperable and obliges financial institutions to join the Ethiopian Instant Payment System, a rule to connect on top of non-bank licensing. All four questions are answered yes.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

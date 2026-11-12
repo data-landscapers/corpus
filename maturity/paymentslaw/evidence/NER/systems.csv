@@ -6,3 +6,4 @@ NER,MyNITA,Niger,other,,NITA with 2ISOFT,,2026-10-20-ner-pi-spi-impact-economiqu
 NER,PI-SPI,Plateforme Interopérable du Système de Paiement Instantané,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-04-02-bceao-connexion-pispi-communique
 NER,Airtel Money,Airtel Money Niger,other,"MyAirtel app, USSD 4361*2#",Airtel Money Niger SA,,2026-08-25-actuniger-airtel-money-transfert-international
 NER,iFUTUR,iFUTUR,other,,iFUTUR,payment institution,2026-08-31-xwa-bceao-liste-etablissements-paiement-agrees-umoa
+NER,BCEAO Instruction 001-01-2024,Niger,law,,BCEAO,,2025-05-27-sen-bceao-licenses-nine-fintechs-for-digital-payments-in-waemu

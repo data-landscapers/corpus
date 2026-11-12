@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "no evidence",
-      "build": "",
+      "stage": "2",
+      "build": "underway",
       "compute": "",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether AI is built or hosted in the country.",
-      "note": "No evidence row has been found on AI built or hosted in the country.",
-      "as_at": "2026-10-22"
+      "stage_sources": "GAB-001",
+      "gaps": "No source found says a Gabonese AI model has been released, a dataset for AI published, or AI computing put in service. No facility with GPUs or AI accelerators has been found.",
+      "note": "The CSGR-IA, a scientific committee, is developing Obone AI, a model that processes and answers in Fang (GAB-001, July 2026): a model being built with a named builder, stage 2. No release is stated, so not stage 3.",
+      "as_at": "2026-11-12"
     }
   ]
 }

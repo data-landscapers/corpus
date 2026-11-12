@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-08-tun-paiement-mobile-ouverts-dormants",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The BCT's circular no. 2026-10 of 25 September 2026 raised payment-account ceilings (level 1 from 500 to 1,500 dinars, level 2 to 5,000, level 3 to 20,000), allowed remote opening and created an uncapped merchant account, per African Manager.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Circular 2026-10",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "African Manager says the BCT's report covers non-bank payment institutions authorised to open payment accounts, six authorised at end-2025 with 113,739 accounts.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Payment institutions",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-06-04-civ-instruction-n001-01-2024-bceao-les-fintech-ont-jusqu-au-31-aout-2025-p",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "BCEAO Instruction No. 001-01-2024 of 23 January 2024 governs payment services in UMOA, and from 1 September 2025 only licensed entities may provide them, per Agence Ecofin via Digital Mag.",
+   "as_of": "2025-05-27",
+   "date_precision": "day",
+   "system": "BCEAO Instruction 001-01-2024",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "The instruction licenses fintechs with capital of 10 to 100 million FCFA, and four providers were licensed in Cote d'Ivoire by 27 May 2025.",
+   "as_of": "2025-05-27",
+   "date_precision": "day",
+   "system": "BCEAO Instruction 001-01-2024",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

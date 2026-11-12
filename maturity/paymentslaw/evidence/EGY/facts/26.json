@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-05-egy-halan-payments-and-halan-technology-apply-for-cbe-psp-licences",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article says rules for licensing payment system operators and payment service providers were issued in June 2025 by the Central Bank of Egypt.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "CBE rules on payment system operators and PSPs",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "Applications by Halan companies are pending; no licensee named."
+}

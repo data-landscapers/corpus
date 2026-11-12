@@ -23,10 +23,10 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 | 5 Leading | 4 |
 | 4 Operating | 10 |
 | 3 Established | 27 |
-| 2 Nascent | 10 |
+| 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 3 |
+| No evidence | 2 |
 
 ## Countries
 
@@ -320,6 +320,12 @@ A national AI model, dataset or computing facility was under way in 2024; none i
 
 - The Institute for AI of Serbia, Science and Technology Park Novi Sad, the Royal Science and Technology Park of Eswatini and the University of Eswatini signed an MoU whose key focus is developing language models and generative AI in siSwati ([source, 2024-10-19](https://ivi.ac.rs/en/news/memorandum-of-understanding-signed-between-serbia-and-eswatini-to-strengthen-cooperation-in-artificial-intelligence/)).
 
+### Gabon: 2 Nascent
+
+A Gabonese research committee was developing a Fang-language AI system in 2026; whether any model is released is not known.
+
+- The CSGR-IA, the Gabonese scientific committee on AI research, told the CESEC of its work developing Obone AI, described as the first Gabonese AI system able to process and answer in the Fang language; no release is stated ([source, 2026-07-07](https://www.csgria.ga/actualites/article/le-csgr-ia-recu-en-audience/)).
+
 ### Ghana: 2 Nascent
 
 A national AI model, dataset or computing facility was under way in 2026; none in service is on record.
@@ -353,12 +359,6 @@ A national AI model, dataset or computing facility was under way in 2025; none i
 - Go Girl ICT Initiative, led by executive director Eva Yayi Mawa, is leading research under the YoGage AI project on Juba Arabic, and says dialectal variation and inconsistent pronunciation make it hard to standardize a training dataset ([source, 2025-06-20](https://www.eyeradio.org/ai-blind-spot-local-languages-fuel-hate-speech-in-south-sudan/)).
 
 ### Equatorial Guinea: No evidence
-
-Nothing found names an AI model, dataset or computing facility or says there is none, so no stage is set.
-
-Not established: Nothing found says whether AI is built or hosted in the country.
-
-### Gabon: No evidence
 
 Nothing found names an AI model, dataset or computing facility or says there is none, so no stage is set.
 

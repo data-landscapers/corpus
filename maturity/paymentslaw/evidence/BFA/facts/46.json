@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-03-bfa-bceao-le-burkina-faso-va-adopter-une-nouvelle-loi",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Burkina Faso's Council of Ministers examined a banking-law bill on 2 October 2024 that would widen the banking law's scope to payment institutions and e-money institutions.",
+   "as_of": "2024-10-02",
+   "date_precision": "day",
+   "system": "Banking law bill",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Banking law bill (UMOA bank law revision)",
+   "country_label": "Burkina Faso",
+   "class": "law",
+   "platform": "",
+   "owner": "Council of Ministers",
+   "tiers": ""
+  }
+ ],
+ "note": "Bill only; nothing in force stated."
+}

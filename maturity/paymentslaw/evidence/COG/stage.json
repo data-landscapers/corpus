@@ -8,10 +8,10 @@
       "reach": "non-bank",
       "cap": "",
       "flags": "",
-      "stage_sources": "COG-001",
+      "stage_sources": "COG-004;COG-005;COG-001",
       "gaps": "No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.",
-      "note": "Counted from the four questions by study-ladder-paymentslaw.py.",
-      "as_at": "2026-11-09"
+      "note": "The CEMAC payment services regulation 04/18 is in force and Mobile Money Congo has held a payment institution licence under it since 2022, which answers the third question. No rule is held that requires providers to connect.",
+      "as_at": "2026-11-12"
     }
   ]
 }

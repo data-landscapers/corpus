@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-12-dji-atelier-scientifique-sur-l-intelligence-artificielle-l-innovation-au-c",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The University of Djibouti's AI research laboratory LaRIA held a workshop on 9 July 2026 exhibiting its AI projects, including cancer-cell detection and demonstrations of early-warning systems for disasters and epidemics.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "LaRIA projects",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

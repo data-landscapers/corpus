@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SOM,localai,build,coverage,inservice,2026-05-27,SOM-001,SOM-002=underway;SOM-003=underway,
+SOM,localai,build,coverage,inservice,2026-05-27,SOM-001,SOM-004=underway;SOM-006=underway;SOM-005=underway;SOM-002=underway;SOM-003=underway,
 SOM,localai,compute,coverage,,,,,nothing found
 SOM,localai,shared,coverage,,,,,nothing found

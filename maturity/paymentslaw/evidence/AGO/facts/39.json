@@ -1,0 +1,27 @@
+{
+ "slug": "2024-08-29-ago-dezasseis-empresas-autorizadas-pelo-bna-a-emitir-moeda-electronica",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Expansão reports that BNA's Instrutivo n.º 07/24 sets the rules for e-money accounts (who may open them, five account types, limits).",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Instrutivo 07/24",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "Expansão reports that 16 payment service providers, including telecom operators Africell and Unitel, are authorised by BNA to issue e-money.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Instrutivo 07/24",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

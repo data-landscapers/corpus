@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-07-som-jamhuriya-university-launches-somalia-s-first-somali-language-ai-lab-t",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Jamhuriya University of Science and Technology, with the University of Djibouti, launched the Somali-language AI and Innovation Lab (SAIL) on 7 April 2026, and its researchers unveiled the SomBERTa model for detecting fake Somali news at 98 per cent accuracy, said to be available to media organisations and policymakers soon.",
+   "as_of": "2026-04-07",
+   "date_precision": "day",
+   "system": "SomBERTa / SAIL",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SomBERTa",
+   "country_label": "Somalia",
+   "class": "localai",
+   "platform": "",
+   "owner": "Jamhuriya University of Science and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

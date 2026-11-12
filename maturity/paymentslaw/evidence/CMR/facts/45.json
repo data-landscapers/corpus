@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-13-cmr-wave-entre-officiellement-sur-le-marche-des-paiements-mobiles-au-camer",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CBC-Wave mobile payment service",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "mobile",
+   "owner": "Commercial Bank Cameroun with Wave Transfer S.A.",
+   "tiers": ""
+  }
+ ],
+ "note": "No fact: the duty to interconnect to GIMAC is a condition COBAC set on one authorisation (CBC with Wave), not a rule requiring providers to connect; dropped by the parent."
+}
