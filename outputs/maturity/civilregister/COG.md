@@ -2,11 +2,11 @@
 
 ## Civil register
 
-**Births digital.** [ACSI, which designed and built SIFEC, handed its operating technical documents to the territorial administration directorate on 22 September 2026, with data centralisation, user training and deployment still listed as next steps (Dépêches de Brazzaville/ADIAC)](<https://www.adiac-congo.com/content/digitalisation-de-letat-civil-ladministration-du-territoire-receptionne-les-documents>). [ACSI project lead Alban Gildas Loundou Obela told the National Assembly's Ecofin committee that the Sifec project aims to computerise the national civil-status system, automating ten civil-status events including births, marriages and deaths, among applications ACSI is developing for the State](<https://www.adiac-congo.com/content/systemes-dinformation-de-letat-les-differentes-plateformes-presentees-aux-deputes-171166>).
+**Births digital.** In September 2026 ACSI, which built the SIFEC civil-status software, [handed its technical documents to the territorial administration directorate](<https://www.adiac-congo.com/content/digitalisation-de-letat-civil-ladministration-du-territoire-receptionne-les-documents>). Data centralisation, user training and deployment were still to come. In August 2026 the project head [told the National Assembly's Ecofin committee](<https://fr.allafrica.com/stories/202608110263.html>) that SIFEC computerises the national civil register. It automates ten civil-status events, among them births, marriages and deaths.
 
-**Deaths digital.** No source found since October 2023 says deaths are registered in the digital system. The nearest held fact: [the one given above](<https://www.adiac-congo.com/content/digitalisation-de-letat-civil-ladministration-du-territoire-receptionne-les-documents>).
+**Deaths digital.** No source found since October 2023 says deaths are registered in the digital system. The nearest held fact is [the project head's account](<https://fr.allafrica.com/stories/202608110263.html>), which lists deaths among the events SIFEC is to automate.
 
-**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://www.adiac-congo.com/content/digitalisation-de-letat-civil-ladministration-du-territoire-receptionne-les-documents>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact is a World Bank figure of [95.9% complete in 2015](<https://datacatalog.worldbank.org/search/dataset/0037712/world-development-indicators>), not tied to a digital system.
 
 ***Also on file***. None found.
 

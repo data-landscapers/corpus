@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-11-eth-addis-ababa-embarking-on-smart-city-transformation",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Addis Ababa's Innovation and Technology Development Office head says the City Net initiative, over 280 million birr across 58 institutions and 120 districts, aims to modernise vital event registration in the capital.",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "City Net",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "City Net",
+   "country_label": "Ethiopia (Addis Ababa)",
+   "class": "civil",
+   "platform": "Ethio Telecom network",
+   "owner": "Addis Ababa city administration",
+   "tiers": "city"
+  }
+ ],
+ "note": ""
+}
