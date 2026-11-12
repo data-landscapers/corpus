@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: BFA
 ledger_rows: 42
 not_held: 6
-record: 59e82daecd01
+record: 71baf97d4c5e
 ---
 
 # News, Oct – Nov 2026
@@ -361,6 +361,14 @@ At the 8th annual meeting of the UEMOA credit information bureau, speakers said 
 **[JEPPC 2026/Transformation digitale : 10 milliards de francs CFA investis pour les premières « Maisons du citoyen »](https://lefaso.net/spip.php?article149856)** — leFaso.net, 9 October 2026
 
 Summarised under [Data Storage](#data-storage).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Opération d’enregistrement de masse de l’identifiant unique : Le Capitaine Ibrahim TRAORÉ lance l’opération d’enrôlement](https://www.sidwaya.info/2026/11/11/operation-denregistrement-de-masse-de-lidentifiant-unique-le-capitaine-ibrahim-traore-lance-loperation-denrolement/)** — Sidwaya, 11 November 2026
+
+Burkina Faso's President launched mass enrolment in the electronic unique identifier register in Ouagadougou on 11 November 2026. Each person receives a free, random 12-digit number after photograph, fingerprint and iris capture at 160 sites and by mobile teams. The digital transition ministry says it replaces no existing identity document.
 
 </div>
 
