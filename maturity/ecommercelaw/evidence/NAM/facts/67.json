@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-03-nam-namibia-moves-closer-to-secure-digital-identity-and-online-verificatio",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Electronic Transactions Act No. 4 of 2019 is the law under which CRAN has been appointed Root Certification Authority for the PKI framework.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Electronic Transactions Act No. 4 of 2019",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

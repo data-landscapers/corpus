@@ -2,7 +2,7 @@
 
 ## E-commerce law
 
-**Law in force.** [Law no. 2008-08 of 25 January 2008 on electronic transactions](<https://www.vie-publique.sn/docs/e39e7d8a-b4c7-41f7-b3e5-eb3429a364d6/loi-n-2008-08-du-25-janvier-2008-sur-les-transactions-electroniques-au-senegal.pdf>) gives electronic records and signatures equivalence with paper and sets rules for electronic commerce. The National Assembly adopted it on 30 November 2007. It is the law that gives electronic contracts and signatures their legal effect in Senegal, and the decree below is made to apply it.
+**Law in force.** [Law no. 2008-08 of 25 January 2008 on electronic transactions](<https://www.vie-publique.sn/docs/e39e7d8a-b4c7-41f7-b3e5-eb3429a364d6/loi-n-2008-08-du-25-janvier-2008-sur-les-transactions-electroniques-au-senegal.pdf>) gives electronic records and signatures equivalence with paper. It also sets rules for electronic commerce. The National Assembly adopted it on 30 November 2007. In March 2026 [the justice minister named it in Senegal's legal framework](<https://senego.com/digitalisation-de-la-justice-des-services-desormais-accessibles-en-ligne-pour-les-citoyens_1941148.html>), as the law that recognises the legal value of digital documents.
 
 **Rules made under the law and the law applied.** [Decree no. 2008-718 of 30 June 2008 on electronic commerce](<https://www.osiris.sn/Decret-no-2008-718-du-30-juin-2008.html>) was made to apply law no. 2008-08. It sets supplier information duties on what sellers must tell buyers, contractual liability, electronic advertising and electronic contract rules. The nearest held fact on application is that the decree was made in 2008; nothing found dates an application of the rules since.
 
