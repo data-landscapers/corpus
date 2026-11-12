@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: SDN
-ledger_rows: 29
+ledger_rows: 30
 not_held: 5
-record: 4afb04ed48c9
+record: 71aa1dd24fcd
 ---
 
 # News, Oct – Nov 2026
@@ -207,6 +207,20 @@ Proparco announced on 9 November 2026 a EUR 600,000 investment in Cashi, a finte
 **[#NoExamShutdown: One step forward, another step back](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)** — Access Now, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
 Access Now reviewed exam-related internet shutdowns in the Middle East and North Africa in 2026. Algeria confined restrictions to exam centres, and Syria held exams with no recorded shutdown. Tunisia restricted mobile messaging apps during both baccalaureate sessions in June and July, a first in the campaign's tracking. Sudan ordered 10 shutdowns between 13 and 23 April.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile internet bundle prices</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[تفاصيل الزيادة الجديدة على باقات الإنترنت](https://rtmediasd.net/2026/11/09/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%b2%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%b9%d9%84%d9%89-%d8%a8%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%86/)** — ارتي ميديا, 9 November 2026
+
+Zain 100 GB bundle up from SDG 68,900 to 115,000; MTN 1 GB doubled to SDG 11,000; dollar and diesel blamed.
 
 </div>
 
@@ -477,6 +491,14 @@ Summarised under [Registries](#registries).
 **[السودان يؤكد من قمة الأمم المتحدة للابتكار في الحوكمة أن التحول الرقمي محرك أساسي لإعادة الإعمار](https://www.suna.sd/posts/alsodan-yokd-mn-km-alamm-almthd-llabtkar-fy-alhokm-an-althol-alrkmy-mhrk-asasy-laaaad-alaaamar)** — Sudan News Agency (SUNA), 6 November 2026
 
 Sudan's Digital Transformation Authority told the UN Governance Innovation Summit in Baku on 6 November 2026 that the Baladna platform carries 134 digital services from more than 46 government institutions (SUNA). It described a services-first, legislation-second approach. It presented digital transformation as part of post-war reconstruction.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[منصة بلدنا - الرئيسية وصفحة تسجيل الدخول (Baldna platform home and login pages)](https://baldna.gov.sd/)** — وزارة التحول الرقمي والاتصالات (Ministry of Digital Transformation and Communications, Sudan), 11 November 2026
+
+Sudan's Baldna portal is run by the Ministry of Digital Transformation and Communications. Users log in with the national digital identity, SudaPass. On 11 November 2026 its home page showed 48 government institutions and 141 digital services. It reported more than 265,000 completed transactions.
 
 </div>
 
