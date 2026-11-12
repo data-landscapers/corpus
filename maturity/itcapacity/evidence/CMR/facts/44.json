@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The webinar record says MINSANTE's Cellule Informatique and the national universal health coverage technical cell govern and administer the CSU openIMIS platform, with day-to-day operations mastered and advanced interventions still needing outside support.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "CSU openIMIS",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

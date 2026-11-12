@@ -1,18 +1,19 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "no evidence",
-   "inhouse": "",
-   "agency": "",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says who builds or runs the government's computer systems.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "1",
+      "inhouse": "outsourced",
+      "agency": "",
+      "built": "",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-001",
+      "gaps": "No source found from 2023 or later says government staff run or maintain any of its systems.",
+      "note": "Counted from the four questions by study-ladder-itcapacity.py. An EU-funded project recruits outside IT experts to run the tax directorate's servers and SIGICA, with its publisher and a contractor delivering modules (September 2026), so 1.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

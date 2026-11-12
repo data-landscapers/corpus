@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-25-lbr-csa-launches-automated-testing-and-online-recruitment-portal-for-civil",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The Civil Service Agency launched its online testing and recruitment portal on 20 December 2023, which its Director-General said was developed by agency employees in partnership with the Liberian firm Mwentana, development having begun in May 2023.",
+   "as_of": "2023-12-20",
+   "date_precision": "day",
+   "system": "CSA automated testing and recruitment portal",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSA automated testing and recruitment portal",
+   "country_label": "CSA automated testing and recruitment portal",
+   "class": "staff",
+   "platform": "",
+   "owner": "Civil Service Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

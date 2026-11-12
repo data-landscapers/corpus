@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-uga-national-backbone-infrastructure-project-nbi-egi",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "NITA-U, the government's IT authority, completed and operates the National Backbone Infrastructure connecting 603 ministries, departments, agencies, local government sites and service centres.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "National Backbone Infrastructure (NBI/EGI)",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

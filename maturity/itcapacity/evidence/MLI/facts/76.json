@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-01-mli-troisieme-edition-de-la-semaine-de-la-justice-le-logiciel-de-gestion-d",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Justice minister Kassogué says the national judicial case-management software was developed at the state Agence des technologies de l'information et de la communication (Agetic) for the justice ministry.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Logiciel de gestion des dossiers judiciaires",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The article reports the launch of the Agetic-developed national case-management software for courts at the 3rd Semaine de la justice, with UEMOA funding under PRDEN pilot projects and no contractor named.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Logiciel de gestion des dossiers judiciaires",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Logiciel de gestion des dossiers judiciaires",
+   "country_label": "Logiciel de gestion des dossiers judiciaires",
+   "class": "staff",
+   "platform": "",
+   "owner": "Agetic for the Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

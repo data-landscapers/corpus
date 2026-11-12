@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-mus-cisd-milestones",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Central Information Systems Division, a government unit, lists maintaining government email services and developing and maintaining government websites among its work, and e-Payroll revamped in 2023.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Government Email Services",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The Central Information Systems Division was created as a centralized service bureau for the civil service, parastatal bodies and local authorities and lists about 70 application systems developed, the government intranet and the government portal.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Central Information Systems Division",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Central Information Systems Division",
+   "country_label": "Mauritius",
+   "class": "staff",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

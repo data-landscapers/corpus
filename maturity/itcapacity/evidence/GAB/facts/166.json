@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-15-gab-le-gabon-reprend-la-main-sur-sa-souverainete-financiere-et-numerique",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Gabon Info quotes the delegate budget minister saying SIGFIP was developed in-house and that the Gabonese administration now owns its source codes, with ANINF's deputy director general presenting the system.",
+   "as_of": "2026-01-15",
+   "date_precision": "day",
+   "system": "SIGFIP",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "Gabon Info reports the launch of SIGFIP, which the delegate budget minister says was developed in-house.",
+   "as_of": "2026-01-15",
+   "date_precision": "day",
+   "system": "SIGFIP",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGFIP",
+   "country_label": "Gabon",
+   "class": "staff",
+   "platform": "Treasury data centre",
+   "owner": "Ministry of Budget / ANINF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

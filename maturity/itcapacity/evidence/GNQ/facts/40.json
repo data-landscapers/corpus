@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-19-gnq-la-corte-suprema-de-justicia-presenta-su-pagina-web-institucional",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "Ahora EG reports that the Supreme Court launched its institutional website on 19 November 2025, designed by the court's own Directorate General of Archives.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Supreme Court website (poderjudicial-gq.com)",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Supreme Court website (poderjudicial-gq.com)",
+   "country_label": "CSJ website",
+   "class": "staff",
+   "platform": "",
+   "owner": "Supreme Court of Equatorial Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

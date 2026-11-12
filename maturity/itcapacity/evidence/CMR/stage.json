@@ -1,18 +1,19 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "no evidence",
-   "inhouse": "",
-   "agency": "",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says who builds or runs the government's computer systems.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "2",
+      "inhouse": "yes",
+      "agency": "",
+      "built": "",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-001",
+      "gaps": "No source found from 2023 or later says a government body builds or runs systems for the rest of government.",
+      "note": "Counted from the four questions by study-ladder-itcapacity.py. The health ministry's IT unit administers the CSU openIMIS platform (May 2026), so 2; no body that runs systems for the rest of government is found.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

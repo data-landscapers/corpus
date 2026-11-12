@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-20-tcd-tchad-la-sonemic-devoile-son-nouveau-systeme-numerique",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Tchadinfos reports that SONEMIC, the state mining and control company, presented on 20 April 2026 an integrated operations management system in use at the institution, designed internally exclusively by Chadian engineers.",
+   "as_of": "2026-04-20",
+   "date_precision": "day",
+   "system": "SONEMIC integrated operations management system",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "Tchadinfos reports that SONEMIC engineers unveiled on 20 April 2026 a new in-house digital system in use, plus mapping, document management, operational control, workflow and dashboard tools built by its teams.",
+   "as_of": "2026-04-20",
+   "date_precision": "day",
+   "system": "SONEMIC integrated operations management system",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SONEMIC integrated operations management system",
+   "country_label": "SONEMIC system",
+   "class": "staff",
+   "platform": "",
+   "owner": "SONEMIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

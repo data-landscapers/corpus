@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-22-dza-lactualgerie-plateforme-numerique-services-police-qr",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "L'Actualgerie reports the Interior Ministry launched on 22 March 2025 a police-services digital platform designed and developed by engineers and staff of the Sûreté nationale.",
+   "as_of": "2025-03-22",
+   "date_precision": "day",
+   "system": "Police services digital platform (QR code)",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Police services digital platform (QR code)",
+   "country_label": "Algeria",
+   "class": "staff",
+   "platform": "",
+   "owner": "Sûreté nationale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

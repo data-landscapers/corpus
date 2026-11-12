@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-27-nga-fg-launches-digital-hr-system-ends-manual-staff-postings-across-civil",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IPPIS HR modules",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "SoftAlliance and Resources Limited",
+   "owner": "Office of the Head of the Civil Service of the Federation",
+   "tiers": "federal"
+  }
+ ],
+ "note": "Platform was built by an indigenous private company, SoftAlliance, not government staff; no statement on who runs it."
+}

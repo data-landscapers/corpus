@@ -1,0 +1,36 @@
+{
+ "slug": "2024-04-02-bfa-dematerialisation-des-procedures-de-l-administration-la-plateforme-ati",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The minister said the ATI platform launched on 2 April 2024 was developed in-house, and congratulated the ministry's information systems directorate and the digital transformation directorate general.",
+   "as_of": "2024-04-02",
+   "date_precision": "day",
+   "system": "ATI platform",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "The minister said the ATI platform was developed in-house by the ministry's own directorates, naming no contractor.",
+   "as_of": "2024-04-02",
+   "date_precision": "day",
+   "system": "ATI platform",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ATI platform",
+   "country_label": "Burkina Faso",
+   "class": "staff",
+   "platform": "ati.gov.bf",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

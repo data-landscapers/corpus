@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-26-mar-plateforme-epolice-comment-la-dgsn-amorce-sa-transformation-digitale-p",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Le360 reports that the DGSN's own information systems directorate has digital, development, systems and security teams that run the Epolice platform.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Epolice",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "Le360 reports that Epolice, built and run by DGSN's own teams with no contractor named, was launched in December 2024.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Epolice",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Epolice",
+   "country_label": "Epolice",
+   "class": "staff",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-04-sle-specific-procurement-notice-design-development-customization-supply-in",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "The 2023 procurement notice says the contracted firm will be responsible for operations and support of the government-owned e-GP system, including quarterly releases and fixes.",
+   "as_of": "2023-12-04",
+   "date_precision": "day",
+   "system": "e-GP system",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

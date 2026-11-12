@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COM-001,COM,inhouse,inhouse,outsourced,"The AMG Comoros SIG lead says the health insurance openIMIS system still depends heavily on external developers, with only two local developers trained and the local firm ETECH not operating.",2026-05-18,day,AMG openIMIS,staff,2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques,https://openimis.atlassian.net/wiki/spaces/OP/pages/5154603013/Webinaire+Souverainet+Appropriation+des+syst+mes+de+sant+num+riques

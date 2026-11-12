@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-20-lby-libya-launches-unified-digital-system-to-monitor-migration-operations",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "LibyaReview reports that the Agency for Combating Illegal Migration launched a unified digital system linking its headquarters and branches, unveiled in Benghazi in August 2026 and developed entirely by engineers inside the agency, according to the agency.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "Unified digital system of the Agency for Combating Illegal Migration",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified digital system of the Agency for Combating Illegal Migration",
+   "country_label": "Migration agency unified system",
+   "class": "staff",
+   "platform": "",
+   "owner": "Agency for Combating Illegal Migration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

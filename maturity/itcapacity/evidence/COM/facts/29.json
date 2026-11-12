@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "The AMG Comoros SIG lead says the health insurance openIMIS system still depends heavily on external developers, with only two local developers trained and the local firm ETECH not operating.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "AMG openIMIS",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

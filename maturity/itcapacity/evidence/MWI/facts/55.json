@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-02-mwi-major-information-communications-technology-ict-and-digitilization-dev",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Case Management Statistics System",
+   "country_label": "Case Management Statistics System",
+   "class": "staff",
+   "platform": "",
+   "owner": "Malawi Judiciary ICT Department",
+   "tiers": ""
+  }
+ ],
+ "note": "The judiciary's in-house system is 90% developed and only piloted, not live."
+}

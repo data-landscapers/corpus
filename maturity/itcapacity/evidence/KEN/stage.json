@@ -1,19 +1,19 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "3",
-   "inhouse": "yes",
-   "agency": "operating",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001;KEN-002",
-   "gaps": "No source found says a system built by government staff went live since October 2023.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-   "as_at": "2026-10-17"
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "4",
+      "inhouse": "yes",
+      "agency": "operating",
+      "built": "live",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-004;KEN-001;KEN-002",
+      "gaps": "No sources found since October 2023 name three systems run wholly by government staff.",
+      "note": "Counted from the four questions by study-ladder-itcapacity.py. Makueni County's own ICT team built its projects tracking system without vendors, live from March 2024, and the ICT Authority runs systems for government, so 4. Only that one system is named as run wholly in-house.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

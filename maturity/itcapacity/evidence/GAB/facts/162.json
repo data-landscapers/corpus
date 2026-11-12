@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-24-gab-dgbfip-involys-sa-vectis-4-92-milliards-entente-directe",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "Dépêches 241 reports that the budget directorate paid Involys SA FCFA 4.92 billion under five direct-award contracts for 2021 to 2025 for technical support, maintenance and extension of the Vectis budget system.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Vectis",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vectis",
+   "country_label": "Gabon budget and expenditure system",
+   "class": "staff",
+   "platform": "Involys SA software",
+   "owner": "Involys SA (vendor)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

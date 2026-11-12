@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-11-mli-semaine-nationale-de-la-justice-la-delivrance-digitale-du-casier-judic",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Le Soir de Bamako reports that the justice minister said three platforms for criminal records, nationality certificates and judicial case files were set up with AGETIC, the state ICT agency, whose staff demonstrated them at the 10 February 2026 launch.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "AGETIC",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The digital issue of criminal records and nationality certificates, built with the state agency AGETIC, was officially launched on 10 February 2026, with UEMOA Commission funding noted.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "E-Justice casier judiciaire and certificat de nationalite",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Justice casier judiciaire and certificat de nationalite",
+   "country_label": "E-Justice casier judiciaire and certificat de nationalite",
+   "class": "staff",
+   "platform": "",
+   "owner": "Ministry of Justice with AGETIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

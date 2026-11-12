@@ -1,19 +1,19 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "3",
-   "inhouse": "yes",
-   "agency": "operating",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-007;ZAF-003",
-   "gaps": "No source found says a system built by government staff went live since October 2023.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-   "as_at": "2026-10-17"
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "4",
+      "inhouse": "yes",
+      "agency": "operating",
+      "built": "live",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-017;ZAF-007;ZAF-003",
+      "gaps": "No sources found since October 2023 name three systems run wholly by government staff.",
+      "note": "Counted from the four questions by study-ladder-itcapacity.py. The Western Cape's Centre for e-Innovation built SWIMS, live from April 2024, and SITA runs systems for government, so 4. No three systems are named as run wholly in-house.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

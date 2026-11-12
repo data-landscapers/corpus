@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-26-dza-reveildalgerie-dossier-medical-electronique-deploiement-formation",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Reveil d'Algerie reports the health minister said the electronic medical record platform was designed and developed by engineers and staff of the ministry's information systems directorate, with no contractor named.",
+   "as_of": "2026-07-26",
+   "date_precision": "day",
+   "system": "dossier medical electronique",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "dossier medical electronique",
+   "country_label": "Algeria",
+   "class": "staff",
+   "platform": "",
+   "owner": "Ministry of Health (DSII)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

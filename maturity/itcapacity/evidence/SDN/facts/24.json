@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-01-sdn-customs-launches-electronic-container-tracking-system-at-southern-port",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Sudan Events reports the Customs Authority launched an electronic container tracking system at Southern Port Customs, developed with Zain Telecom, the customs General Directorate of ICT and the Customs Risk Division.",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "electronic container tracking system",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic container tracking system",
+   "country_label": "Sudan",
+   "class": "staff",
+   "platform": "GPS and SIM-based tracking",
+   "owner": "Customs Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

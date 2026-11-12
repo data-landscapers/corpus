@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,inhouse,inhouse,coverage,,,,,nothing held
-RWA,inhouse,agency,coverage,operating,2024-02,RWA-001,,
-RWA,inhouse,built,coverage,,,,,nothing held
-RWA,inhouse,cadre,coverage,,,,,nothing held
+RWA,inhouse,inhouse,coverage,yes,2024-02,RWA-002,,
+RWA,inhouse,agency,coverage,operating,2025-01-23,RWA-001;RWA-003,,
+RWA,inhouse,built,coverage,,,,,nothing found
+RWA,inhouse,own,coverage,,,,,nothing found

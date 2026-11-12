@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-18-mli-secteur-minier-le-president-de-la-transition-preside-la-presentation-d",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "Mali Actuel reports the Mines Minister said the new mining cadastre was designed and developed 100% by Malian public administration staff and is fully functional with 631 mining titles, presented on 17 April 2026.",
+   "as_of": "2026-04-17",
+   "date_precision": "day",
+   "system": "Cadastre minier",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "Mali Actuel reports the Mines Minister said the new mining cadastre replaced an old system that depended on foreign companies, and is now entirely developed by Malians.",
+   "as_of": "2026-04-17",
+   "date_precision": "day",
+   "system": "Cadastre minier",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cadastre minier",
+   "country_label": "Cadastre minier",
+   "class": "staff",
+   "platform": "",
+   "owner": "Ministère des Mines",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

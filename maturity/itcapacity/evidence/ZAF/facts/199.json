@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-04-zaf-south-africa-s-home-affairs-taken-offline-by-mainframe-failure",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The State Information Technology Agency (SITA), a government-owned organisation, provides IT services to public sector bodies and runs Home Affairs on IBM System Z mainframes.",
+   "as_of": "2024-01-04",
+   "date_precision": "day",
+   "system": "SITA mainframe serving Home Affairs",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Department of Home Affairs says SITA technicians and engineers were attending to a fault on the SITA mainframe that affects access to the National Population Register.",
+   "as_of": "2024-01-04",
+   "date_precision": "day",
+   "system": "National Population Register mainframe",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SITA mainframe serving Home Affairs",
+   "country_label": "South Africa",
+   "class": "staff",
+   "platform": "IBM System Z",
+   "owner": "State Information Technology Agency (SITA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

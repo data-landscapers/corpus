@@ -1,19 +1,19 @@
 {
- "iso3": "GNQ",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "3",
-   "inhouse": "yes",
-   "agency": "operating",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNQ-004;GNQ-003",
-   "gaps": "No source found says a system built by government staff went live since October 2023.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-   "as_at": "2026-10-18"
-  }
- ]
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "4",
+      "inhouse": "yes",
+      "agency": "operating",
+      "built": "live",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNQ-008;GNQ-005;GNQ-003",
+      "gaps": "No sources found since October 2023 name three systems run wholly by government staff.",
+      "note": "Counted from the four questions by study-ladder-itcapacity.py. CNIAPGE's own team built GEX and the centre serves the administration, and the Supreme Court's website, built by its own archives directorate, went live in November 2025, so 4. Fewer than three systems are named as run wholly in-house.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

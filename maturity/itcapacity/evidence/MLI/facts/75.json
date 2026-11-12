@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-25-mli-operationnalisation-du-sigrh-tres-bientot-un-outil-efficace-de-gestion",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "Nouveau Réveil reports that SIGRH, the civil-service HR system, was designed and developed by IT staff of the Malian public administration and financed exclusively from the national budget.",
+   "as_of": "2025-06-20",
+   "date_precision": "day",
+   "system": "SIGRH",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGRH",
+   "country_label": "Mali civil-service HR and payroll system",
+   "class": "staff",
+   "platform": "in-house software, server hosted in Mali",
+   "owner": "Government of Mali",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

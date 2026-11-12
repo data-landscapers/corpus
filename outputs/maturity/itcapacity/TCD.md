@@ -2,14 +2,14 @@
 
 ## In-house capacity
 
-**Government staff.** [The World Bank diagnostic states that ANATS developed a mobile application that lets the RNBP population register be used for identity verification with the NNI (2023, before the three-year window)](<https://documents1.worldbank.org/curated/en/099062923114552178/txt/P17712007468b1040987f0e2e23aeb2064.txt>). [The World Bank diagnostic states that the SIGPTS system is provided by IDEMIA and that knowledge transfer for system maintenance is needed for its operational sustainability (2023, before the three-year window)](<https://documents1.worldbank.org/curated/en/099062923114552178/txt/P17712007468b1040987f0e2e23aeb2064.txt>).
+**Government staff.** In 2023 the World Bank said [the identity agency ANATS developed a mobile app for checking the population register against the national ID number](<https://documents1.worldbank.org/curated/en/099062923114552178/txt/P17712007468b1040987f0e2e23aeb2064.txt>). The same diagnostic said IDEMIA provides the SIGPTS system, and that maintenance skills must be passed on. On 20 April 2026 the state mining company SONEMIC [presented an operations management system its own engineers designed](<https://tchadinfos.com/2026/04/20/tchad-la-sonemic-devoile-son-nouveau-systeme-numerique/>). It is in use there.
 
-**A technology body for government.** No source found from 2023 or later says a government agency or state company builds, hosts or runs systems for ministries and the rest of government; the stage rests on [the source that sets it](<https://documents1.worldbank.org/curated/en/099062923114552178/txt/P17712007468b1040987f0e2e23aeb2064.txt>).
+**A technology body for government.** No source found from 2023 or later says a government agency or state company runs systems for the rest of government. [SONEMIC built its system for its own use](<https://tchadinfos.com/2026/04/20/tchad-la-sonemic-devoile-son-nouveau-systeme-numerique/>).
 
-**Built in-house.** No source found says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://documents1.worldbank.org/curated/en/099062923114552178/txt/P17712007468b1040987f0e2e23aeb2064.txt>).
+**Built in-house.** [SONEMIC's teams also built mapping, document management, workflow and dashboard tools](<https://tchadinfos.com/2026/04/20/tchad-la-sonemic-devoile-son-nouveau-systeme-numerique/>), unveiled in April 2026 with the main system.
 
-**Systems run wholly in-house.** No source found since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://documents1.worldbank.org/curated/en/099062923114552178/txt/P17712007468b1040987f0e2e23aeb2064.txt>).
+**Systems run wholly in-house.** No source found since October 2023 names three systems run wholly by government staff. [SONEMIC's system is the one found](<https://tchadinfos.com/2026/04/20/tchad-la-sonemic-devoile-son-nouveau-systeme-numerique/>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found from 2023 or later says a government body builds or runs systems for the rest of government.
+***Not found***. No government body is found building or running systems for the rest of government since 2023.

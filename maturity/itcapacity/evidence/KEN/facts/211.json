@@ -1,0 +1,46 @@
+{
+ "slug": "2025-09-04-ken-makueni-county-projects-monitoring-and-tracking-system-pmts-success-st",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Makueni County Government says its own ICT directorate gives ongoing technical support to the Projects Monitoring and Tracking System and its in-house ICT Systems Development team built and deployed it.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Projects Monitoring and Tracking System (PMTS)",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "Makueni County Government says its in-house ICT team built the Projects Monitoring and Tracking System without external vendors and it was launched in March 2024.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Projects Monitoring and Tracking System (PMTS)",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "Makueni County Government says the Projects Monitoring and Tracking System was developed by the county's ICT and M&E teams without external vendors and is supported by the ICT directorate, with only cloud hosting, SSL, bulk SMS and email hosting bought as services.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Projects Monitoring and Tracking System (PMTS)",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projects Monitoring and Tracking System (PMTS)",
+   "country_label": "Kenya",
+   "class": "staff",
+   "platform": "web-based, cloud hosted",
+   "owner": "County Government of Makueni",
+   "tiers": "county"
+  }
+ ],
+ "note": ""
+}

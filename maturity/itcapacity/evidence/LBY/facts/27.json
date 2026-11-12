@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-31-lby-alwasat-cbl-ratibak-lahzi-in-house-payroll-platform",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Central Bank of Libya said on 31 July 2025 that it developed and operates the Ratibak Lahzi public payroll platform in-house.",
+   "as_of": "2025-07-31",
+   "date_precision": "day",
+   "system": "Ratibak Lahzi",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ratibak Lahzi",
+   "country_label": "Ratibak Lahzi",
+   "class": "staff",
+   "platform": "",
+   "owner": "Central Bank of Libya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

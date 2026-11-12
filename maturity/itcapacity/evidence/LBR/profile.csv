@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,inhouse,inhouse,coverage,yes,2026-05-01,LBR-001,,
-LBR,inhouse,agency,coverage,,,,,nothing held
+LBR,inhouse,inhouse,coverage,yes,2026-05-01,LBR-001,LBR-004=outsourced,
+LBR,inhouse,agency,coverage,,,,,nothing found
 LBR,inhouse,built,coverage,live,2026-05-01,LBR-002;LBR-003,,
-LBR,inhouse,own,coverage,,,,,nothing held
+LBR,inhouse,own,coverage,,,,,nothing found

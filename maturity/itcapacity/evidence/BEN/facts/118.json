@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-24-ben-souverainete-tech-comment-la-sbin-s-est-fait-evincer-d-un-contrat-cle",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "La Marina BJ reports ASIN awarded private integrator MAPCOM Technologies a two-year XOF 154.7 million contract to maintain operational condition and renew software licences of the state data centre, PNI and PNS.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "State data centre; PNI; PNS",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "La Marina BJ says ASIN manages the state data centre that hosts ministries' application architectures, the PNI and the PNS.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "State data centre (ASIN)",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "State data centre (ASIN)",
+   "country_label": "BEN",
+   "class": "staff",
+   "platform": "",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

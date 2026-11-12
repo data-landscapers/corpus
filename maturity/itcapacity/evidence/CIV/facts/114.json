@@ -1,0 +1,37 @@
+{
+ "slug": "2026-07-28-civ-digitalisation-des-services-publics-en-cote-d-ivoire-les-applications",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Ivoirexpress reports SNDI, a state company, develops and deploys business applications for the Ivorian government and operates a national satellite network used by government bodies.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "SNDI",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "Ivoirexpress reports SNDI developed version 1 of SIGOMAP, which recently replaced SIGMAP for public procurement by ministries.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SIGOMAP",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "Ivoirexpress reports SNDI built SIGFIP, SIGMAP and SIGOMAP, the CEPICI one-stop shop system, the building-permit one-stop system, and the government roadmap and decision tracking platforms, naming no contractor.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "SNDI-built systems",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-31-gha-nita-gets-three-iso-certifications-at-a-go",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "NITA, described as the host of government data, provides IT services from its Tier 3 data centre, managed with its private partner Smart Infraco, to all public institutions, per its Director General in August 2024.",
+   "as_of": "2024-08-31",
+   "date_precision": "day",
+   "system": "NITA data centre",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

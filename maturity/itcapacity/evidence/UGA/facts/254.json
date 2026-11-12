@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-04-uga-police-probe-nita-over-shs700b-internet-project",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Monitor says NITA-U is the statutory body mandated to coordinate government IT services, and that its central data centre at Statistics House manages e-government services, which agencies such as UCC and NIRA found unreliable.",
+   "as_of": "2024-11-04",
+   "date_precision": "day",
+   "system": "NITA-U central data centre, Statistics House",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NITA-U central data centre, Statistics House",
+   "country_label": "Statistics House data centre",
+   "class": "staff",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

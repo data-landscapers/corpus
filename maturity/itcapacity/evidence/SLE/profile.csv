@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,inhouse,inhouse,coverage,yes,2026-11-09,SLE-002;SLE-004,,
-SLE,inhouse,agency,coverage,operating,2026-11-09,SLE-001;SLE-003,,
+SLE,inhouse,inhouse,coverage,yes,2026-11-09,SLE-002;SLE-004,SLE-006=outsourced,
+SLE,inhouse,agency,coverage,operating,2026-11-09,SLE-001;SLE-003;SLE-005,,
 SLE,inhouse,built,coverage,,,,,nothing found
 SLE,inhouse,own,coverage,,,,,nothing found

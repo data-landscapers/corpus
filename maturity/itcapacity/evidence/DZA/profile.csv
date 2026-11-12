@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,inhouse,inhouse,coverage,yes,2026-09-17,DZA-001;DZA-002;DZA-003,,
-DZA,inhouse,agency,coverage,,,,,nothing held
-DZA,inhouse,built,coverage,,,,,nothing held
-DZA,inhouse,cadre,coverage,,,,,nothing held
+DZA,inhouse,inhouse,coverage,yes,2026-09-17,DZA-001;DZA-002;DZA-003;DZA-009,,
+DZA,inhouse,agency,coverage,operating,2026-10-18,DZA-007,,
+DZA,inhouse,built,coverage,live,2026-07-26,DZA-008;DZA-010;DZA-012,,
+DZA,inhouse,own,coverage,entire,2026-09-17,DZA-004;DZA-005;DZA-006;DZA-011,,

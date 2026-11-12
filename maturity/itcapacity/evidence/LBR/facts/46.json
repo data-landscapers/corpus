@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-03-lbr-liberia-frontpageafrica-s-latest-investigation-unveils-procurement-bre",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "FrontPageAfrica reports that the Ministry of Finance's Budget Management System is reconfigured and run under annual contracts with the vendor RoviaGate Technology, at US$180,000 in 2021 to 2023 and US$200,000 in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Budget Management System (BMS)",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Budget Management System (BMS)",
+   "country_label": "Liberia",
+   "class": "staff",
+   "platform": "vendor RoviaGate Technology",
+   "owner": "Ministry of Finance and Development Planning",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-31-tza-digital-financial-governance-in-tanzania-set-for-a-makeover",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Citizen reports that the Bank of Tanzania's Integrated Core Banking System was fully designed, built and deployed by local Bank of Tanzania experts over three years.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Integrated Core Banking System (iCBS)",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The Citizen reports that Vice President Philip Mpango officially launched the Bank of Tanzania's in-house Integrated Core Banking System, built by the bank's own staff.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Integrated Core Banking System (iCBS)",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Core Banking System (iCBS)",
+   "country_label": "Integrated Core Banking System (iCBS)",
+   "class": "staff",
+   "platform": "",
+   "owner": "Bank of Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

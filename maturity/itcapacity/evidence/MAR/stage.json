@@ -1,18 +1,19 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "no evidence",
-   "inhouse": "",
-   "agency": "",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says who builds or runs the government's computer systems.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "2",
+      "inhouse": "yes",
+      "agency": "",
+      "built": "live",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-001",
+      "gaps": "No source found from 2023 or later says a government body builds or runs systems for the rest of government.",
+      "note": "Counted from the four questions by study-ladder-itcapacity.py. The national police's own teams built and run Epolice, launched December 2024, so 2; no body that runs systems for the rest of government is found, so not 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

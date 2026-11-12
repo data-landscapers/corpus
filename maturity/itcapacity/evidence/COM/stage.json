@@ -1,18 +1,19 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "no evidence",
-   "inhouse": "",
-   "agency": "",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says who builds or runs the government's computer systems.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "1",
+      "inhouse": "outsourced",
+      "agency": "",
+      "built": "",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-001",
+      "gaps": "No source found from 2023 or later says government staff run or maintain any of its systems.",
+      "note": "Counted from the four questions by study-ladder-itcapacity.py. The health insurer's openIMIS system still depends heavily on external developers (May 2026), so 1.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

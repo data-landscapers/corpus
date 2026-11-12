@@ -2,7 +2,7 @@
 
 ## In-house capacity
 
-**Government staff.** [In August 2024 the French Treasury's sheet on Congo's digital sector said the tax system E-TAX was built in-house](<https://www.tresor.economie.gouv.fr/Pays/CG/le-secteur-du-numerique>). The finance ministry's information systems directorate built it.
+**Government staff.** [In August 2024 the French Treasury's sheet on Congo's digital sector said the tax system E-TAX was built in-house](<https://www.tresor.economie.gouv.fr/Pays/CG/le-secteur-du-numerique>). The finance ministry's information systems directorate built it. On 22 July 2025 the ministry [installed 18 heads and assistants in that directorate](<https://www.finances.gouv.cg/fr/articles/direction-des-syst%C3%A8mes-d%E2%80%99information-dsi-du-minist%C3%A8re-des-finances>) to lead systems including SIGFIP, SIPAE, SYSPACE and SFEC.
 
 **A technology body for government.** [In December 2024 Les Dépêches de Brazzaville said the digital economy agency Aden ensures the technical management of the government portal gouvernement.cg](<https://www.adiac-congo.com/content/numerique-laden-examine-ses-documents-cadres-161959>). Aden is the Agence de développement de l'économie numérique.
 

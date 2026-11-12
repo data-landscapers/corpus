@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-05-tza-tcra-cak-and-kra-exchange-expertise-on-communication-systems",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "TCRA says it replaced the vendor-implemented TTMS with its own in-house CMS system, which its ICT staff manage and which runs across 12 modules covering mobile networks, internet providers, towers, broadcasting and postal services.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "TCRA CMS",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TCRA CMS",
+   "country_label": "Communications Systems Management (CMS) system",
+   "class": "staff",
+   "platform": "",
+   "owner": "Tanzania Communications Regulatory Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

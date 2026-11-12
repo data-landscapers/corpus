@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-04-caf-safe-rca-expert-e-local-e-en-informatique-h-f",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "Expertise France's posting of 4 September 2026 says the EU-funded SAFE project recruits local IT experts to run the DGID servers and administer SIGICA for the finance ministry, with the SIGICA publisher and an outside contractor delivering SIGICA modules and SIM_ba.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "SIGICA",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGICA",
+   "country_label": "Central African Republic tax system",
+   "class": "staff",
+   "platform": "eTax suite by IKA",
+   "owner": "DGID",
+   "tiers": ""
+  },
+  {
+   "system": "SIM_ba",
+   "country_label": "Central African Republic budget system",
+   "class": "other",
+   "platform": "",
+   "owner": "DGB, DGTCP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

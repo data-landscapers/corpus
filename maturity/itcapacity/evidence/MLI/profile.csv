@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MLI,inhouse,inhouse,coverage,yes,2022,MLI-003,,nothing dated since 2023-11-04
-MLI,inhouse,agency,coverage,operating,2026-02-10,MLI-001;MLI-002;MLI-004;MLI-006,,
-MLI,inhouse,built,coverage,live,2026-02-10,MLI-007,,
-MLI,inhouse,own,coverage,entire,2023-10-26,MLI-005,,nothing dated since 2023-11-04
+MLI,inhouse,inhouse,coverage,yes,2025-12-30,MLI-003;MLI-008,,
+MLI,inhouse,agency,coverage,operating,2026-02-10,MLI-001;MLI-002;MLI-004;MLI-006;MLI-011;MLI-014,,
+MLI,inhouse,built,coverage,live,2026-04-17,MLI-007;MLI-009;MLI-012;MLI-015,,
+MLI,inhouse,own,coverage,entire,2026-04-17,MLI-005;MLI-010;MLI-013;MLI-016,,
