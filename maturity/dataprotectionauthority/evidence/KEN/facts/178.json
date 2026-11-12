@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-01-ken-kenya-s-digital-rights-journey-half-year-scorecard",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Amnesty Kenya says the Office of the Data Protection Commissioner is at work as the regulator under the Data Protection Act, 2019.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "Amnesty Kenya says in February 2026 the ODPC ruled against a hospital, an insurance company, a school, a SACCO and digital lenders, ordering St Luke's Orthopaedic Hospital to compensate patients.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": "The document states nothing on this for Kenya."
+}

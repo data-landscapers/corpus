@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-12-ben-contribution-a-la-relecture-du-code-du-numerique",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The lecturer's deck says the Code du numerique (arts 392, 411, 467) provides for the Autorite de protection des donnees personnelles (APDP), whose powers the Council of Ministers' authorisation role weakens and for which no mechanism covers a prolonged vacancy of a member or the president.",
+   "as_of": "2024-01-12",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
