@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-02-bdi-bancobu-launches-instant-international-transfers-enoti",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "BANCOBU launched instant international transfers on its eNoti platform on 1 August 2025 with Thunes, letting holders of a foreign-currency account send and receive money in 48 countries, with a Bank of the Republic of Burundi payment systems director present.",
+   "as_of": "2025-08-01",
+   "date_precision": "day",
+   "system": "BANCOBU eNoti with Thunes",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BANCOBU eNoti with Thunes",
+   "country_label": "Burundi",
+   "class": "crossborder",
+   "platform": "Thunes",
+   "owner": "BANCOBU (Commercial Bank of Burundi)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

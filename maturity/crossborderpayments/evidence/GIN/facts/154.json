@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-29-gin-this-fintech-has-a-fix-for-the-biggest-cross-border-payments-issues-in",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "TechCrunch reports that Guinea-based Cauridor operates remittance corridors to Ghana and Nigeria, with an agent network across Guinea, Senegal, Ivory Coast, Sierra Leone and Liberia.",
+   "as_of": "2025-01-29",
+   "date_precision": "day",
+   "system": "Cauridor",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Cauridor told TechCrunch its total payment volume across its payment rails was USD 300 million in 2023 and USD 500 million in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Cauridor",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cauridor",
+   "country_label": "Guinea",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Cauridor (private)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

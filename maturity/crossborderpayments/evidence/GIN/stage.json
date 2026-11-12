@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GIN-002",
-      "gaps": "No source found since October 2023 gives a figure for cross-border digital payments.",
-      "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py.",
-      "as_at": "2026-10-25"
+      "gaps": "No source found since October 2023 gives a figure for Guinea's own corridors: Cauridor's 2024 payment volume (GIN-005) covers its whole network across several countries.",
+      "note": "Corridors and PAPSS membership are held. Reassessed 2026-11-12 on Cauridor's $500 million 2024 volume: a company-wide figure, not one for the country's corridors, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

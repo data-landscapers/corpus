@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "crossborder",
-      "stage": "unplaced",
-      "corridor": "",
-      "regional": "",
+      "stage": "4",
+      "corridor": "inservice",
+      "regional": "regional",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a cross-border digital payment channel is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "GNB-008;GNB-007;GNB-002",
+      "gaps": "No source found since October 2023 gives a figure for cross-border digital payments.",
+      "note": "Revolut has sent to Orange Money and MTN wallets in Guinea-Bissau since May 2024, a named corridor in service, and the country is on PI-SPI. No figure is held, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

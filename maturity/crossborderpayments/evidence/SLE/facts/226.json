@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-28-gnb-revolut-mobile-wallets-airtel-orange-money-mtn",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Revolut says that from 28 May 2024 its UK and EEA customers can send money to Orange Money wallets in Sierra Leone.",
+   "as_of": "2024-05-28",
+   "date_precision": "day",
+   "system": "Revolut Mobile Wallets to Orange Money",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

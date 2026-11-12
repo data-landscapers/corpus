@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "crossborder",
-      "stage": "2",
-      "corridor": "underway",
-      "regional": "",
+      "stage": "4",
+      "corridor": "inservice",
+      "regional": "regional",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BDI-002;BDI-003",
-      "gaps": "No source found since October 2023 says: is a corridor in service.",
-      "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "BDI-007;BDI-005",
+      "gaps": "No source found since October 2023 gives a figure for cross-border digital payments.",
+      "note": "BANCOBU launched international transfers through Thunes to 48 countries in August 2025, so a corridor is in service, and the BRB has acceded to PAPSS with four banks authorised. No figure is held, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

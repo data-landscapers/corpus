@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,crossborder,corridor,coverage,underway,2026-10-08,BDI-001;BDI-002;BDI-003;BDI-004;BDI-006,,
+BDI,crossborder,corridor,coverage,inservice,2025-08-01,BDI-007,BDI-001=underway;BDI-002=underway;BDI-003=underway;BDI-004=underway;BDI-006=underway,
 BDI,crossborder,regional,coverage,regional,2026-08-04,BDI-005,,
-BDI,crossborder,reported,coverage,,,,,nothing held
+BDI,crossborder,reported,coverage,,,,,nothing found

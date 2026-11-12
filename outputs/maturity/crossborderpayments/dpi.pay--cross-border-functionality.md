@@ -1,6 +1,6 @@
 # Cross-border functionality: cross-border functionality
 
-*As at 2026-08-31.*
+*As at 2026-09-30.*
 
 ## The norm
 
@@ -21,11 +21,11 @@ The African Union's Digital Transformation Strategy and the Pan-African Payment 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 12 |
-| 4 Operating | 24 |
+| 4 Operating | 26 |
 | 3 Established | 6 |
-| 2 Nascent | 6 |
+| 2 Nascent | 5 |
 | 1 Absent | 0 |
-| Unplaced | 3 |
+| Unplaced | 2 |
 | No evidence | 3 |
 
 ## Countries
@@ -112,6 +112,13 @@ The country took part in a regional payment system in 2026; cross-border volumes
 
 - Botswana is now a live corridor of TCIB, the cross-border scheme PayInc operates as SADC Regional Settlement Operator for the SADC region, per TechAfrica News ([source, 2026-03-02](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/)).
 
+### Burundi: 4 Operating
+
+A bank launched international transfers in 2025 and the central bank joined PAPSS; figures for cross-border payments are not known.
+
+- BANCOBU launched instant international transfers on its eNoti platform on 1 August 2025 with Thunes, letting holders of a foreign-currency account send and receive money in 48 countries, with a Bank of the Republic of Burundi payment systems director present ([source, 2025-08-01](https://andikamagazine.net/bancobu-launches-instant-international-money-transfers-via-enoti/)).
+- The BRB has acceded to PAPSS, with four Burundian banks authorised to take part, says BRB's Nduwimana Libere ([source, 2026-08-04](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/)).
+
 ### Cameroon: 4 Operating
 
 The country took part in a regional payment system in 2026; cross-border volumes are not reported.
@@ -186,6 +193,14 @@ The country took part in a regional payment system in 2026; cross-border volumes
 The country took part in a regional payment system in 2024; cross-border volumes are not reported.
 
 - UBA Guinée integrated PAPSS from 9 September 2024, letting its clients make cross-border payments in local currencies across participating African countries ([source, 2024-09-09](https://www.guinee360.com/10/09/2024/uba-guinee-adopte-le-papss-une-nouvelle-ere-pour-les-transactions-financieres-en-afrique-2/)).
+
+### Guinea-Bissau: 4 Operating
+
+Mobile wallets have received transfers from Europe since 2024 and the country is on the regional instant payment system; payment figures are not known.
+
+- Revolut says that from 28 May 2024 its UK and EEA customers can send money to Orange Money and MTN wallets in Guinea-Bissau ([source, 2024-05-28](https://www.finextra.com/pressarticle/100931/revolut-connects-mobile-wallets-to-african-telcos-airtel-orange-money-and-mtn)).
+- Guinea-Bissau takes part in BCEAO's regional PI-SPI instant-payment platform, with 5 authorised institutions at 31 July 2026 ([source, 2026-07-31](https://financesao.com/uemoa-pi-spi-atteint-104-etablissements-autorises/)).
+- Guinea-Bissau is a UEMOA member covered by PI-SPI, the regional instant payment system in service since 30 September 2025 ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
 
 ### Kenya: 4 Operating
 
@@ -309,13 +324,6 @@ A cross-border digital payment corridor was in service in 2025; no source found 
 
 - ITWeb Africa reports MTN MoMo in South Sudan, with Onafriq, now offers inbound international remittances into MoMo wallets from 15 countries including the UAE, Uganda, Kenya, the US and Australia ([source, 2025-05-29](https://itweb.africa/article/mtn-momo-onafriq-partner-on-remittances-in-south-sudan/kYbe97XbmYYqAWpG)).
 
-### Burundi: 2 Nascent
-
-Burundi is connecting to COMESA's and the EAC's regional payment systems in 2026; no source found names a cross-border corridor in service.
-
-- The Bank of the Republic of Burundi hosted training for local banks and the Post Office on connecting to COMESA's Regional Payment and Settlement System and Digital Regional Payment Platform, with connection under way and not yet stated in service ([source, 2026-08-19](https://www.channelafrica.co.za/channelafrica/news/burundi-integrates-comesa-payment-systems-to-boost-cross-border-trade/)).
-- The Bank of the Republic of Burundi told EAC governors in July 2026 that Burundi's integration into the East African Payment System is targeted for completion by December 2026 ([source, 2026-07](https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616)).
-
 ### Libya: 2 Nascent
 
 A cross-border digital payment corridor was under way in 2026; none in service is on record.
@@ -349,12 +357,6 @@ A cross-border digital payment corridor was under way in 2026; none in service i
 ### Cape Verde: Unplaced
 
 Nothing found since 2023 names a cross-border digital payment channel, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a cross-border digital payment channel is in service.
-
-### Guinea-Bissau: Unplaced
-
-Guinea-Bissau takes part in West Africa's regional instant-payment system, but no source found names a cross-border payment corridor, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether a cross-border digital payment channel is in service.
 

@@ -16,6 +16,7 @@ BDI,PAPSS,Burundi,crossborder,,,,2026-08-06-burundi-burundipay-instant-payment-u
 BDI,EAC regional cross-border payment system (Masterplan),Burundi,crossborder,,EAC Monetary Affairs Committee,,2026-07-27-burundi-eac-regional-payment-system-acceleration
 BDI,EARDIP,Burundi,other,,EAC,,2026-07-27-burundi-eac-regional-payment-system-acceleration
 BDI,PAPSS,Burundi,other,,Afreximbank and African Union,,2026-05-08-brb-interoperabilite-paiements-papss
+BDI,BANCOBU eNoti with Thunes,Burundi,crossborder,Thunes,BANCOBU (Commercial Bank of Burundi),,2025-08-02-bdi-bancobu-launches-instant-international-transfers-enoti
 BEN,PI-SPI,Benin,crossborder,,BCEAO,,2025-10-07-lancement-pi-spi-uemoa
 BEN,PI-SPI,UEMOA (Benin),other,instant payment platform,BCEAO,"banks, microfinance, e-money issuers, payment institutions",2026-05-29-pi-spi-banques-mobile-money-interconnectes
 BEN,PI-SPI,Benin,other,regional instant payment platform,BCEAO,,2026-04-02-bceao-connexion-pi-spi
@@ -52,6 +53,7 @@ CMR,Gimacpay,Cameroon,other,Gimac interbank platform,Gimac,"53 banks, 13 microfi
 CMR,CEMAC interoperable QR code,CEMAC,crossborder,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
 CMR,Grey corridor to MTN MoMo and Orange Money,Grey,crossborder,,Grey (Nigerian fintech),,2026-09-25-cmr-nigerian-fintech-grey-opens-direct-transfers-to-mtn-momo-and-orange-mo
 CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
+CMR,REasy,Cameroon,crossborder,trade finance app,REasy,,2025-10-09-cmr-cameroon-s-reasy-raises-1-8m-to-fix-how-africa-s-importers-pay-supplie
 COD,"Visa, M-PESA Africa and Onafriq stablecoin pilot",DR Congo,crossborder,stablecoin,"Visa, M-PESA Africa, Onafriq",,2026-07-06-visa-mpesa-onafriq-stablecoin-pilot-drc-techafricanews
 COD,Visa Pay,DR Congo,crossborder,Onafriq API,Visa,,2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)
 COD,PAPSS,Democratic Republic of the Congo,crossborder,,Afreximbank,,2026-09-22-cod-standard-drc-joins-papss
@@ -130,6 +132,7 @@ GIN,PAPSS,Guinea,other,,,possible future link,2026-07-28-guinea-ecofin-nimbapay-
 GIN,NimbaPay,Guinea,crossborder,Mojaloop,BCRG,,2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique
 GIN,Orange Money,Orange Money,crossborder,USSD *144# and app,Orange Finances Mobiles Guinée,,2022-12-12-gin-guineematin-orange-money-transfert-international
 GIN,"CIPS (indirect, via Bank of China)",Guinea,crossborder,,Ecobank Guinea,,2026-11-02-tgo-ecobank-togo-cips-payments-to-china-faster-cheaper
+GIN,Cauridor,Guinea,crossborder,,Cauridor (private),,2025-01-29-gin-this-fintech-has-a-fix-for-the-biggest-cross-border-payments-issues-in
 GMB,PAPSS,Gambia,crossborder,pan-African payment and settlement system,Pan-African Payment and Settlement System,,2026-04-01-papss-list-of-live-commercial-banks-april-2026
 GMB,Yonna Global Wallet,Gambia,crossborder,mobile wallet,Yonna Group,,2026-03-02 Gambia Gov't payments now digitalised live on Yonna Wallet app
 GMB,PAPSS,Gambia,crossborder,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
@@ -151,6 +154,7 @@ KEN,Wise,KEN,crossborder,,,,2026-09-08-techcabal-kenya-payment-platforms-changin
 KEN,M-Pesa Global,Kenya,crossborder,mobile money,Safaricom,,2024-10-14-ken-safaricom-enables-m-pesa-transfers-between-kenya-ethiopia
 KEN,East African Payment System (EAPS),Kenya,crossborder,RTGS link,EAC central banks,,2026-11-04-uga-uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-de
 KEN,IPSL payment scheme,Kenya,other,Tazama,Integrated Payment Services Limited,,2024-11-27-iati-dac-1601-inv-076412-tazama-poc-ipsl-kenya
+KEN,HoneyCoin,HoneyCoin,crossborder,stablecoin settlement rails,HoneyCoin (private),,2025-08-12-ken-kenya-s-honeycoin-raises-4-9-million-to-expand-stablecoin-cross-border
 LBR,PAPSS,PAPSS,crossborder,Afreximbank,Afreximbank,,2025-04-02-cbl-eg-saamoi-remarks-papss-rollout-financial-education-launch
 LBR,Orange Money,Orange Money Liberia,other,,Orange Liberia,,2026-06-10-lbr-bnb-liberia-and-orange-money-launch-cross-border-mobile-remittance-ser
 LBR,Lonestar Cell MTN MoMo,Liberia,other,,Lonestar Cell MTN,,2024-08-05-lbr-new-partnership-aims-to-boost-liberia-s-mobile-money-transfer-services
@@ -250,6 +254,7 @@ RWA,TIPS-RSwitch link,TIPS-RSwitch proof of concept,crossborder,,EAC,,2025-11-11
 RWA,East African Payment System (EAPS),Rwanda,crossborder,RTGS link,EAC central banks,,2026-11-04-uga-uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-de
 SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds
 SDN,electronic payment framework linked to Saudi mobile banking apps,Sudan,crossborder,,"Ministry of Finance, with Ministry of Digital Transformation and Telecommunications",,2026-08-30-sdn-businessinsider-saudi-remittance-payment-framework
+SDN,Elevate,"Sudan (Sudanese-founded fintech, operations moved abroad)",other,,Elevate,,2024-06-06-sdn-sudanese-fintech-startup-elevate-escapes-unrest-lands-5m-for-global-pl
 SEN,Sendwave Wallet,Senegal,crossborder,,,,2026-10-10-osiris-sen-pi-spi-orange-money-bocoum
 SEN,PI-SPI,Senegal,crossborder,instant payment,BCEAO,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,PI-SPI,PI-SPI,other,,BCEAO,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
