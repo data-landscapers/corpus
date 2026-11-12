@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-11-10
+compiled: 2026-11-12
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 239
+sources_cited: 241
 sections_written: 39
 not_established: 0
 acquire_lines: 67
@@ -222,7 +222,7 @@ On declared arrangements the country scores well, in [Tier 2, Advancing, of the 
 
 [The trade ministry delivered more than 2.9 million business registration and licensing services online in the first nine months of 2025/26](https://birrmetrics.com/quarter-of-ethiopian-businesses-fail-compliance-checks-amid-2-9mn-online-registrations/). [Its integrated company creation service, launched in September 2025, cut registration from 11 steps to two, on its own account](https://birrmetrics.com/motri-launches-online-business-registration-and-licensing-platform/). [The taxpayer register is computerised and centralised, with a full countrywide view](https://www.tadat.org/content/dam/tadat/en/assessments/Ethiopia_Final_PAR_2025.pdf) (2025). [Since 10 July 2026 legal persons must file their beneficial owners with the trade ministry](https://justice.gov.et/wp-content/uploads/2026/09/%E1%8B%B0%E1%8A%95%E1%89%A5-%E1%89%81%E1%8C%A5%E1%88%AD-592-2018.pdf). [The first filings are due on 11 January 2027](https://www.dentons.com/en/insights/articles/2026/october/12/no-disclosure-no-licence-ethiopias-beneficial-ownership-deadlines-are-here).
 
-[In 2025 the eLand land administration platform listed three cities using it: Bishoftu, Adama and Shagar](https://land.et). [The digital addressing system had been implemented in 73 cities by December 2025](https://ssgi.gov.et/edas-for-three-cities/). [A national farmer database is being joined to Fayda and rural land systems, first across 311 woredas](https://ati.gov.et/farmer-profile-initiative/) (2025).
+[In 2025 the eLand land administration platform listed three cities using it: Bishoftu, Adama and Shagar](https://land.et). [By June 2026 about 34 million rural parcels had been certified in 562 woredas, with 5 million transactions recorded](https://um.fi/results-of-development-cooperation/-/asset_publisher/o2A1dCQquJyC/content/miljoonille-etiopialaisille-oikeus-omaan-maahan/35732). [The digital addressing system had been implemented in 73 cities by December 2025](https://ssgi.gov.et/edas-for-three-cities/). [A national farmer database is being joined to Fayda and rural land systems, first across 311 woredas](https://ati.gov.et/farmer-profile-initiative/) (2025).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->
@@ -284,7 +284,7 @@ On declared arrangements the country scores well, in [Tier 2, Advancing, of the 
 ### ICT Industry
 <!-- tech.industry -->
 
-[Safaricom Ethiopia's service revenue rose 54.2 per cent to KSh 9.68 billion in the quarter to December 2025](https://itweb.africa/article/m-pesa-ethiopia-surges-258-as-ethswitch-fuels-growth/). [Its mobile money arm earns a fraction of what the same product earns in Kenya](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles) (June 2026). [Ethio Telecom's revenue grew by a third in 2025/26](https://www.fanamc.com/english/215-8-billion-birr-revenue-and-9-13-trillion-birr-in-digital-transactions-ethio-telecoms-new-economic-footprint/). [Data overtook voice as its largest earner that year](https://www.thereporterethiopia.com/52133/). [The deadline for its 10 per cent public share offer, sold through Telebirr, was extended to 14 February 2025](https://www.thereporterethiopia.com/43299/).
+[Safaricom Ethiopia's service revenue rose 54.2 per cent to KSh 9.68 billion in the quarter to December 2025](https://itweb.africa/article/m-pesa-ethiopia-surges-258-as-ethswitch-fuels-growth/). [Its mobile money arm earns a fraction of what the same product earns in Kenya](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles) (June 2026). [Ethio Telecom's revenue grew by a third in 2025/26](https://www.fanamc.com/english/215-8-billion-birr-revenue-and-9-13-trillion-birr-in-digital-transactions-ethio-telecoms-new-economic-footprint/). [Data overtook voice as its largest earner that year](https://www.thereporterethiopia.com/52133/). [The deadline for its 10 per cent public share offer, sold through Telebirr, was extended to 14 February 2025](https://www.thereporterethiopia.com/43299/). [On 26 May 2026 it became the first state-owned company listed on the Ethiopian Securities Exchange](https://africancapitalmarketsnews.com/ethio-telecom-lists-on-ethiopian-securities-exchange/).
 
 [At MWC 2026 Ethio Telecom signed network expansion agreements with Ericsson, ZTE, Huawei and Nokia](https://addisstandard.com/ethio-telecom-announces-strategic-network-expansion-agreements-with-ericsson-zte-huawei-nokia-at-barcelona/). [Under Directive 792/2021 the Communications Authority must approve in advance any shareholding change to 25 per cent or more](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf). [It must refuse one it judges anti-competitive](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf).
 
