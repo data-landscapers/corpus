@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-nga-mra-records-86-attacks-on-journalists-citizens-in-2025-report",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Media Rights Agenda's report refers to the Cybercrimes (Prohibition, Prevention, Etc.) Act of 2015, as amended.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Cybercrimes (Prohibition, Prevention, Etc.) Act 2015",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "regular",
+   "fact": "Media Rights Agenda says the Cybercrimes Act was continually weaponised against journalists and government critics in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Cybercrimes (Prohibition, Prevention, Etc.) Act 2015",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

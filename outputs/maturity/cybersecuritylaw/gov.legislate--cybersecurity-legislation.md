@@ -20,9 +20,9 @@ The Malabo Convention's third chapter commits each party to legal measures again
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Leading | 7 |
 | 4 Operating | 12 |
-| 3 Established | 32 |
+| 3 Established | 31 |
 | 2 Nascent | 3 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -66,6 +66,17 @@ A cybercrime law has been in force since 2021; 37 cases under it were on court r
 
 - The NPA had 37 cases on court rolls nationally with 88 charges under the Cyber Crimes Act of 2020, per a parliamentary reply of 29 November 2024 ([source, 2024-11-29](https://www.protectionweb.co.za/cyber-security/specialist-police-investigate-cyber-fraud-prosecutions-remain-low/)).
 - The authors Fritz and Limpitlaw state that South Africa's Cybercrimes Act criminalises a range of online wrongdoing and provides investigative powers, evidence preservation and international co-operation ([source, 2026-10-12](https://www.businessday.co.za/lifestyle/2026-10-12-we-regulate-cybercriminals-now-its-time-to-regulate-the-platforms-they-use/)).
+
+### Sudan: 5 Leading
+
+A cybercrime law is in force and was used repeatedly in 2025 and 2026, including 17 arrest warrants against journalists in July 2026.
+
+- RSF says the Red Sea State cybercrime prosecutor issued 17 arrest warrants on 21 July 2026 against 15 journalists and two outlet editors for defamation, privacy invasion and false information ([source, 2026-07-21](https://rsf.org/en/sudan-army-backed-authorities-are-prosecuting-15-journalists-and-two-media-outlets-under-anti)).
+- The syndicate says complaints were filed under the Cybercrime Act against 47 journalists and media organisations in a single instance, and 18 journalists were declared wanted ([source, 2026-11-02](https://www.dabangasudan.org/en/all-news/article/sudanese-journalists-syndicate-documents-673-violations-and-calls-for-end-to-impunity)).
+- A criminal court in El Obeid sentenced pharmacist Ahmed Suleiman Ahmed Al-Waqi to six years, two of them under Article 19 and one under Article 24 of the Cybercrime Law, after a phone search found anti-war messages (per his lawyer) ([source, 2026-08-16](https://thesudantimes.com/sudan/sudanese-army-accused-of-using-courts-to-silence-anti-war-voices/)).
+- Criminal investigation police arrested journalist Gurashi Awad in River Nile State on a complaint by a General Intelligence Service lieutenant colonel under the 2007 Cybercrime Act, the Sudanese Journalists Syndicate said; he was held at Berber police station ([source, 2026-08-13](https://theweeklyvisionews.net/2026/08/17/journalist-detained-in-sudan-following-cybercrime-complaint-by-intelligence-officer-syndicate-says/)).
+- Front Line Defenders reports that on 20 October 2025 the Criminal Court in Port Sudan convicted lawyer Montaser Abdullah under the Cybercrimes Act and sentenced him to one year and four months in prison and a fine of one million Sudanese pounds ([source, 2025-10-20](https://www.frontlinedefenders.org/en/case/human-rights-defender-montaser-abdullah-may-face-death-penalty)).
+- Sudan's Justice Minister Abdallah Daraf said the Criminal Code amendment was not made to the Cybercrimes Law, which stands as a separate law ([source, 2026-10-23](https://sudantribune.com/article/320352)).
 
 ### Tunisia: 5 Leading
 
@@ -112,6 +123,14 @@ Cybercrime law in force since 2026; used in September 2026 to arrest a commentat
 - Police announced four charges under the Cybercrime Act against Jerry Nyantee Wrato, arrested over allegedly manipulated digital content involving Vice President Koung; he was later released from custody after court intervention (arrest date not given; article published 2026-09-24 used) ([source, 2026-09-24](https://www.thenewdawnliberia.com/justice-ministry-pressed-to-clarify-cybercrime-act-enforcement/)).
 - Senator Cyrus cited Liberia's Cybercrime Act of 2025 as an important step in its legal framework, warning that legislation alone will not secure the country without funding and capable institutions ([source, 2026-10-27](https://liberianinvestigator.com/senator-cyrus-urges-stronger-cybersecurity-protection-of-citizens-rights/)).
 
+### Madagascar: 4 Operating
+
+A 2014 cybercrime law is in force; in January 2026 the Presidency cited it announcing prosecutions for online insults. Regular use is not known.
+
+- The Presidency recalled that article 20 of law 2014-006 on cybercrime, as amended by law 2016-031, sets fines of Ar 2 million to 100 million for insulting officials ([source, 2026-01-08](https://fr.allafrica.com/stories/202601090348.html)).
+- UNCTAD's Cyberlaw Tracker lists Law No. 2016-031 among Madagascar's cybercrime legislation (law year 2016; survey round 2026-11-10) ([source, 2016](https://unctad.org/topic/ecommerce-and-digital-economy/ecommerce-law-reform/summary-adoption-e-commerce-legislation-worldwide)).
+- The Presidency said on 8 January 2026 that prosecutions were under way against people, accounts or pages for online insults and hate against senior officials ([source, 2026-01-08](https://fr.allafrica.com/stories/202601090348.html)).
+
 ### Malawi: 4 Operating
 
 Malawi's 2016 cyber law is in force; a man was charged under it in 2026 for hacking phones. No regular use is on record.
@@ -122,10 +141,11 @@ Malawi's 2016 cyber law is in force; a man was charged under it in 2026 for hack
 
 ### Niger: 4 Operating
 
-A 2019 cybercrime law is in force; it was used to charge six journalists in October 2025 and a lawyer in September 2026.
+A 2019 cybercrime law is in force; it was used against journalists in 2025 and a lawyer in 2026. Regular use is not known.
 
 - Human Rights Watch says Lirwana was charged under the cybercrime law and detained from 21 September 2026, with prosecutors seeking five years at a 6 October hearing, and that the junta has detained journalists under it ([source, 2026-09-21](https://www.hrw.org/news/2026/10/08/nigers-junta-tightens-its-grip-on-free-expression)).
 - Per Human Rights Watch, police in Niamey arrested six journalists on 30 October 2025 and the authorities charged them with complicity in disseminating a document likely to disturb public order under the 2019 cybercrime law, for sharing an invitation to a state press conference; three were detained at Kollo prison. The law was used against journalists ([source, 2025-10-30](https://www.hrw.org/fr/news/2025/11/06/des-journalistes-nigeriens-arretes-en-vertu-de-la-loi-sur-la-cybercriminalite)).
+- CPJ reports Niger's State Court on 3 December 2025 upheld journalist Samira Sabou's 2020 conviction over a Facebook post, ruling the cybercrime law applied because the offence was by electronic means ([source, 2025-12-03](https://cpj.org/2026/01/niger-arrests-dw-correspondent-over-report-on-nigerian-refugees/)).
 - Human Rights Watch says a Niamey prosecutor charged lawyer Abrourahamane Lirwana with spreading data likely to disturb public order under Niger's cybercrime law, which shows the law is in force ([source, 2026-09-21](https://www.hrw.org/news/2026/10/08/nigers-junta-tightens-its-grip-on-free-expression)).
 
 ### Senegal: 4 Operating
@@ -142,14 +162,6 @@ A cybercrime law has been in force since 2021; people were charged under it in 2
 - Sierraloaded reports a Freetown councillor charged with cyberstalking and cyberbullying under the Cybersecurity and Crime Act 2021, prosecuted at Pademba Road Court, pleading not guilty on a first appearance with bail granted ([source, 2025-11-25](https://sierraloaded.sl/local/councillor-court-alleged-cyber-charges-mp/)).
 - Joseph Sesay was arraigned at Pademba Road Court on 5 August 2025 on two counts of cyberstalking under Section 44(1)(a) of the Cyber Security and Crime Act, 2021, and granted bail ([source, 2025-08-05](https://www.premiermedia-sl.com/man-arraigned-for-alleged-cyberbullying-in-freetown/)).
 - Premier News SL reports a man charged under Section 44(1)(a) of Sierra Leone's Cyber Security and Crime Act, 2021, which the court is applying ([source, 2025-08-05](https://www.premiermedia-sl.com/man-arraigned-for-alleged-cyberbullying-in-freetown/)).
-
-### Sudan: 4 Operating
-
-A cybercrime law is in force and was used in 2026 to jail a pharmacist over anti-war messages and to arrest a journalist.
-
-- A criminal court in El Obeid sentenced pharmacist Ahmed Suleiman Ahmed Al-Waqi to six years, two of them under Article 19 and one under Article 24 of the Cybercrime Law, after a phone search found anti-war messages (per his lawyer) ([source, 2026-08-16](https://thesudantimes.com/sudan/sudanese-army-accused-of-using-courts-to-silence-anti-war-voices/)).
-- El Obeid Criminal Court convicted pharmacist Ahmed Suleiman Ahmed al-Waqi under Articles 19 and 24 of the 2008 Cybercrime Law, adding two years and one year to a three-year Criminal Act sentence, six years in total (per his lawyer) ([source, 2026-08-16](https://thesudantimes.com/sudan/sudan-court-jails-pharmacist-for-six-years-over-anti-war-message/)).
-- Sudan's Justice Minister Abdallah Daraf said the Criminal Code amendment was not made to the Cybercrimes Law, which stands as a separate law ([source, 2026-10-23](https://sudantribune.com/article/320352)).
 
 ### Uganda: 4 Operating
 
@@ -298,13 +310,6 @@ A cybersecurity law is in force; in 2025 the media regulator said it will be use
 A 2022 cybercrime law was cited as in force in July 2026; no use of it is known.
 
 - Cabinet Decision 358 of 2026 cites Law No. 5 of 2022 on combating cybercrime among its legal bases, and the page lists that law as in force ([source, 2026-07-15](https://lawsociety.ly/legislation/%d9%82%d8%b1%d8%a7%d8%b1-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%b1%d9%82%d9%85-358-%d9%84%d8%b3%d9%86%d8%a9-2026-%d9%85-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a5%d9%86%d8%b4/)).
-
-### Madagascar: 3 Established
-
-A 2014 cybercrime law is in force; a replacement bill was postponed in September 2026. No use of the law is known.
-
-- The document says Madagascar already has a national legal framework on cybercrime; it names no law or date, so the published date is used ([source, 2026-09-10](https://newsmada.com/2026/09/10/lutte-contre-la-cybercriminalite-madagascar-signe-le-traite-de-lonu/)).
-- The document says the existing cybercrime texts were adopted ten years earlier and are to be adapted; it gives no exact date, so the published date is used ([source, 2026-07-08](https://www.2424.mg/cadre-juridique-le-gouvernement-propose-une-mise-a-jour-de-la-loi-sur-la-lutte-contre-la-cybercriminalite/)).
 
 ### Mauritania: 3 Established
 

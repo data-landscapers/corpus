@@ -3,14 +3,15 @@
  "cells": [
   {
    "sub_indicator": "law",
-   "stage": "3",
+   "stage": "4",
    "standing": "in-force",
-   "use": "",
+   "use": "used",
    "cap": "",
    "flags": "",
-   "stage_sources": "MDG-011;MDG-013",
-   "gaps": "No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
+   "stage_sources": "MDG-023;MDG-021;MDG-024",
+   "gaps": "No source found shows the law in regular use in the last two years.",
+   "note": "Reassessed on MDG-024 (8 January 2026): the Presidency said prosecutions were under way for online insults against senior officials, citing article 20 of the 2014 cybercrime law, so the law has been used. One announcement is not regular use, so not 5.",
+   "as_at": "2026-11-12"
   }
  ]
 }

@@ -1,0 +1,37 @@
+{
+ "slug": "2026-09-03-tun-neither-free-nor-imprisoned-tunisia-s-journalists-in-legal-limbo",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CPJ describes Decree-Law 54 as Tunisia's cybercrime law, under which prosecutions of journalists proceeded in 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Decree-Law 54",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "CPJ says Ghassen Ben Khelifa was sentenced to two years on 30 March 2026 under Decree-Law 54 for false news and harming public security.",
+   "as_of": "2026-03-30",
+   "date_precision": "day",
+   "system": "Decree-Law 54",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "regular",
+   "fact": "CPJ reports a run of Decree-Law 54 convictions from July 2025 to 2026, including Ramla Dahmani, Khaoula Boukrim (four years, 26 February 2026), Ben Khelifa and Sonia Dahmani.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Decree-Law 54",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

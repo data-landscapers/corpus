@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-31-ssd-authorities-tighten-media-and-online-restrictions",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CIVICUS Monitor says President Kiir signed the Cybercrime and Computer Misuse Act into law in February 2026, passed by the legislature in November 2025.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Cybercrime and Computer Misuse Act",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

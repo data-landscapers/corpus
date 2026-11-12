@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-26-ner-niger-arrests-dw-correspondent-over-report-on-nigerian-refugees",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "CPJ reports Niger's State Court on 3 December 2025 upheld journalist Samira Sabou's 2020 conviction over a Facebook post, ruling the cybercrime law applied because the offence was by electronic means.",
+   "as_of": "2025-12-03",
+   "date_precision": "day",
+   "system": "cybercrime law",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

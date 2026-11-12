@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-01-bdi-enabling-environment-snapshot-burundi-march-2026",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Eu SEE snapshot says Burundi's 2022 Cybercrime Act criminalises dissemination of 'false' or 'harmful' information.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Cybercrime Act 2022",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrime Act 2022",
+   "country_label": "Burundi",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

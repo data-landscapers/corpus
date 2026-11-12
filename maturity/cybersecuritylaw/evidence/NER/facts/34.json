@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-12-ner-il-est-desormais-prevu-une-peine-d-emprisonnement-et-une-amende-pour-t",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Niger's Justice Ministry says the head of state signed Ordinance 2024-28 on 7 June 2024 amending the cybercrime law of 3 July 2019.",
+   "as_of": "2024-06-07",
+   "date_precision": "day",
+   "system": "Law of 3 July 2019 on cybercrime, amended by Ordinance 2024-28",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

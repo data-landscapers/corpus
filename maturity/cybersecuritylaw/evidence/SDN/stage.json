@@ -3,14 +3,15 @@
  "cells": [
   {
    "sub_indicator": "law",
-   "stage": "4",
+   "stage": "5",
    "standing": "in-force",
-   "use": "used",
+   "use": "regular",
    "cap": "",
    "flags": "",
-   "stage_sources": "SDN-001;SDN-003;SDN-010",
-   "gaps": "No source found shows the law in regular use in the last two years.",
-   "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
+   "stage_sources": "SDN-019;SDN-021;SDN-001;SDN-005;SDN-014;SDN-010",
+   "gaps": "",
+   "note": "Reassessed on SDN-019 and SDN-021: RSF reports 17 arrest warrants under the law on 21 July 2026, and the journalists' syndicate counts complaints under it against 47 journalists and outlets. With a conviction in October 2025, another in August 2026 and an arrest that month, the law is used again and again, so 5.",
+   "as_at": "2026-11-12"
   }
  ]
 }

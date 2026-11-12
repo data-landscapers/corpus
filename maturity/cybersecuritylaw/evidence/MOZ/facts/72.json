@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-23-moz-ciberseguranca-e-proteccao-de-dados",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "Cibercidadaos says the Assembly of the Republic has approved in general the bills on Cyber Security and on Combating Cyber Crimes, which go on to detailed debate.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Propostas de lei de Segurança Cibernética e de Combate aos Crimes Cibernéticos",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

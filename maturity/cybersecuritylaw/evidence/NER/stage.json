@@ -8,10 +8,10 @@
       "use": "used",
       "cap": "",
       "flags": "",
-      "stage_sources": "NER-004;NER-002;NER-003",
+      "stage_sources": "NER-004;NER-002;NER-013;NER-003",
       "gaps": "No source found shows the law in regular use in the last two years.",
-      "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py.",
-      "as_at": "2026-10-17"
+      "note": "Reassessed on NER-012 and NER-013: the October 2025 charges against journalists and the State Court's December 2025 ruling upholding Samira Sabou's conviction under the law join the 2026 case against the lawyer Lirwana. Three cases are not regular use, so 4.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-10-zaf-cpj-welcomes-south-africa-s-abolition-of-criminal-defamation-calls-for",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CPJ names South Africa's Cybercrimes Act as a law that remains, lacking a public-interest override for journalists.",
+   "as_of": "2024-04-10",
+   "date_precision": "day",
+   "system": "Cybercrimes Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrimes Act",
+   "country_label": "South Africa",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

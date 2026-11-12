@@ -1,0 +1,37 @@
+{
+ "slug": "2026-09-04-mli-mali-s-shrinking-civic-space-imprisonments-bans-and-the-silencing-of-i",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Media Foundation for West Africa describes Mali's 2019 Cybercrime Law as in application, with a National Cybercrime Unit and Court enforcing it.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "2019 Cybercrime Law",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "MFWA says the National Cybercrime Court sentenced editor Youssouf Sissoko in March 2026 to two years and a CFA 1 million fine for 'false information', and the Bamako Court of Appeal sentenced Ras Bath and Rose Vie Chère on 17 August 2026 on charges under information and communication technologies.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "2019 Cybercrime Law",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "regular",
+   "fact": "MFWA says authorities have systematically used the 2019 Cybercrime Law against journalists, naming cases from November 2024 to June 2026 (Joliba TV guest, Sissoko, Takiou, Keita, Bathily and Doumbia).",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "2019 Cybercrime Law",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
