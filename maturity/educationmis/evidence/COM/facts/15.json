@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-30-com-connaissez-vous-la-plateforme-e-msomo",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNICEF Comores says e-Msomo, the national education management platform built by the ministry with ANADEN, is in use and holds over 80,000 pupils, 700 schools and 3,000 teachers in one national database.",
+   "as_of": "2025-12-30",
+   "date_precision": "day",
+   "system": "e-Msomo",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "The post says e-Msomo covers all school levels and tracks each pupil's school path, attendance and evaluations, with schools being added progressively.",
+   "as_of": "2025-12-30",
+   "date_precision": "day",
+   "system": "e-Msomo",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Msomo",
+   "country_label": "e-Msomo 2025",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

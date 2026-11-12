@@ -7,6 +7,7 @@ BDI,Système d'Information pour la Gestion de l'Éducation (SIGE),Burundi,emis,M
 BDI,Système d'Information pour la Gestion de l'Education (SIGE) Central,Burundi,emis,,MENRS,,2024-08-01-bdi-atelier-d-appropriation-et-de-revue-de-la-planification-des-activites
 BDI,STATEDUC,Burundi,emis,,MENRS,,2024-08-01-bdi-atelier-d-appropriation-et-de-revue-de-la-planification-des-activites
 BDI,Education Management Information System,Burundi,emis,,Ministry of Education,,2026-06-09-au-iped-supports-burundi-strengthening-education-data
+BDI,SIGE Burundi (GRH MENRS module),SIGE Burundi,emis,"Angular, Java 17, Spring Boot",MENRS,,2024-12-05-bdi-l-unesco-recherche-un-e-consultant-e-international-e-sige-burundi
 BEN,EducMaster (SIGE),Benin,emis,EducMaster-Primaire and EducMaster-Secondaire,Ministries in charge of Education,"maternal and primary; secondary, technical and professional",2026-08-28-educmaster-portail-sige
 BFA,Système d'Information de Gestion de l'Éducation (SIGE),SIGE,emis,,"Ministry of Basic Education, Literacy and National Languages (MEBAPLN)",,2024-12-30-bfa-faso7-jsena-statistiques-education-sige
 BFA,SIGE,SIGE (with education-in-emergencies data tools),emis,,Ministry of Education,,2024-09-06-bfa-iiep-donnees-esu-sige
@@ -28,11 +29,14 @@ COD,e-SIGE-DRC,DR Congo,emis,automated data collection and transmission applicat
 COD,SIGE-RDC,DR Congo,emis,,Ministry of National Education and New Citizenship,,2025-03-01-cod-termes-de-reference-pour-le-recrutement-d-une-assistance-technique-pou
 COG,Education Management Information System,Republic of Congo,emis,,Ministry of Education,,2026-05-19-congo-modernize-education-data-systems-au-iped
 COG,Annuaires statistiques de l'education 2022-2023,Annuaires statistiques de l'education et de la formation,other,,UNESCO handover to three ministries,,2024-12-22-cog-congo-education-remise-des-annuaires-statistiques-de-gestion-du-system
+COG,Sige,Congo-Brazzaville,emis,,ACSI,,2026-08-11-cog-congo-brazzaville-systemes-d-information-de-l-etat-les-differentes-pla
 COM,SIGE,Comoros,emis,,Ministère de l'Éducation Nationale,,2019-11-22-com-afd-pgec-projet-gouvernance-education
 COM,SIGE,Systeme d information pour la gestion de l education,other,,ministry,,2026-10-20-com-le-projet-rehema-s-attaque-a-la-fragmentation-des-donnees-aux-comores
+COM,e-Msomo,e-Msomo 2025,emis,,Ministry of National Education,,2025-12-30-com-connaissez-vous-la-plateforme-e-msomo
 CPV,Sistema Integrado de Gestão Escolar (SIGE),Cabo Verde,emis,,Ministério da Educação,,2026-04-08-cabo-verde-gpe-subvencao-prise-expansao-modernizacao-sige
 CPV,Sistema Integrado de Gestão Escolar (SIGE),Cabo Verde,emis,,Direção Nacional da Educação,,2025-07-15-cpv-direcao-nacional-da-educacao-realiza-acao-formativa-no-novo-modulo-de
 CPV,Sistema Integrado de Gestão Escolar (SIGE),Cabo Verde,emis,,Ministério da Educação,,2026-04-08-gpe-cpv-2026-cabo-verde-prise-education-system-capacity-grant
+CPV,SIGE,Sistema integrado de Gestão Escolar,other,,NOSi,,2024-06-22-cpv-nosi-e-os-seus-25-anos
 DJI,SIGE,Système d'Information pour la Gestion de l'Éducation,emis,GOSE and SMIS,MENFOP,,2025-09-02-lanation-rentree-scolaire-gose-smis
 DZA,système d'information pour le secteur de l'éducation nationale,Algeria,emis,,Ministère de l'Éducation nationale,,2024-11-18-dza-elwatan-numerisation-education-evaluation
 EGY,Digital Identity Project,Egypt,emis,,MOETE,,2025-01-01-egy-obp-zayed-digital-transformation-edtech
@@ -123,6 +127,7 @@ RWA,SDMS,School Data Management System,emis,,,,2023-06-21-rwa-gpe-camis-sdms-uni
 RWA,CA-MIS,Comprehensive Assessment Management Information System,other,USSD and web,NESA,,2023-06-21-rwa-gpe-camis-sdms-unique-id
 RWA,Comprehensive Assessment Management Information System,CAMIS,other,Apache Superset dashboards,National Examination and School Inspection Authority,,2026-10-29-mwi-how-can-education-systems-build-education-data-systems-that-enable-bet
 RWA,School Data Management System (SDMS),School Data Management System,emis,web-based,Ministry of Education,,2025-06-23-rwa-student-research-spotlight-ayo-arowolo-bridging-education-and-technolo
+RWA,EMIS,Rwanda,other,,MINEDUC,,2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity
 SDN,Education Management and Information System Pilot Project (EMIS),Sudan (Red Sea State),emis,,"Ministry of Education, Red Sea State",,2026-05-13-unesco-red-sea-state-emis-digital-transformation
 SDN,Transitional Education Plan Monitoring & Evaluation Application (TEP) and TEP Dashboard,Sudan,other,,,,2026-05-13-unesco-red-sea-state-emis-digital-transformation
 SDN,Education Management and Information System (EMIS),Sudan,emis,,Ministry of Education,,2026-04-26-sudan-unesco-year-of-tvet-declaration
@@ -134,6 +139,7 @@ SLE,Situation Room,Sierra Leone,other,,MBSSE Planning and Policy Directorate,sam
 SLE,Unique Learner ID (ULID) System and Data Warehouse,Sierra Leone,emis,,"UNICEF tender, beneficiary Sierra Leone",,2025-10-15-sierra-leone-unicef-unique-learner-id-system-rfp
 SLE,National education data hub,Sierra Leone,emis,DHIS2,MBSSE,"national, district, school",2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub
 SLE,Unique Learner ID (ULID),Sierra Leone,emis,web and Android app,MBSSE,school,2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub
+SLE,Open Data Kit and School Connect (school feeding monitoring),Sierra Leone,other,,WFP / MBSSE / National School Feeding Secretariat,,2026-11-09-sle-eu-wfp-school-feeding-data
 SOM,Education Management Information System (EMIS),Somalia,emis,,Ministry of Education,,2026-02-06-somalia-emis-effectiveness-study-springer
 SOM,Education Management Information System (EMIS),Somalia,emis,,Recipient (Federal Republic of Somalia) / MoECHE,all levels of the education system,2025-10-01-somalia-worldbank-emis-tmis-financing-amendment
 SOM,Teacher Management Information System (TMIS),Somalia,other,,,,2025-10-01-somalia-worldbank-emis-tmis-financing-amendment

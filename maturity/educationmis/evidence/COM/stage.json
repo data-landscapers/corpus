@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "emis",
-      "stage": "unplaced",
-      "system": "",
-      "learners": "",
+      "stage": "3",
+      "system": "inservice",
+      "learners": "individual",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether an education information system is under way or in service.",
-      "note": "Reassessed in the rebuild: the only fact held is a 2019 project that listed deploying the SIGE. It predates October 2023, so it sets no rung.",
-      "as_at": "2026-11-02"
+      "stage_sources": "COM-002",
+      "gaps": "No source found since October 2023 says learner records are in service for schools across the country: e-Msomo was still adding schools in December 2025. Nothing says the records are linked to another system.",
+      "note": "UNICEF says e-Msomo, the ministry's national platform, is in use and holds data on 80,000 pupils, 700 schools and 3,000 teachers (December 2025), so 3. It was still adding schools, so question 3 is not shown nationally.",
+      "as_at": "2026-11-12"
     }
   ]
 }

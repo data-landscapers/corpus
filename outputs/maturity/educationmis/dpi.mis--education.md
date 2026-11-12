@@ -22,10 +22,10 @@ The AU Digital Education Strategy asks for education management information syst
 |---|---|
 | 5 Leading | 4 |
 | 4 Operating | 5 |
-| 3 Established | 17 |
+| 3 Established | 18 |
 | 2 Nascent | 20 |
 | 1 Absent | 0 |
-| Unplaced | 5 |
+| Unplaced | 4 |
 | No evidence | 3 |
 
 ## Countries
@@ -119,6 +119,12 @@ Education statistics were published through an online information system in 2024
 The school census was run through an education information system in 2026; a record for each learner is not on record.
 
 - UNICEF Innocenti says Chad's EMIS has routinely collected data from schools since 2009, analysed centrally with a statistical yearbook produced annually ([source, 2026-03-23](https://www.unicef.org/innocenti/stories/supporting-middle-tier-actors-chad-access-and-use-data-decision-making)).
+
+### Comoros: 3 Established
+
+A national education platform held data on 80,000 pupils and 700 schools in 2025; whether every school is on it is not known.
+
+- UNICEF Comores says e-Msomo, the national education management platform built by the ministry with ANADEN, is in use and holds over 80,000 pupils, 700 schools and 3,000 teachers in one national database ([source, 2025-12-30](https://fr.linkedin.com/posts/unicef-comores_anaden-scolaires-%C3%A9l%C3%A8ves-activity-7411757191952580608-VR1Z)).
 
 ### Egypt: 3 Established
 
@@ -333,12 +339,6 @@ Nothing found since 2023 names a national education information system, so no st
 Not established: Nothing found since October 2023 says whether an education information system is under way or in service.
 
 ### Central African Republic: Unplaced
-
-Nothing found since 2023 names a national education information system, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether an education information system is under way or in service.
-
-### Comoros: Unplaced
 
 Nothing found since 2023 names a national education information system, so no stage is set.
 

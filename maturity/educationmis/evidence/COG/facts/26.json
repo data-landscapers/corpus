@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-11-cog-congo-brazzaville-systemes-d-information-de-l-etat-les-differentes-pla",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ACSI's director general presented the Systeme integre de gestion de l'education (Sige) project, among applications ACSI is developing for the State under the 2025 finance law, to the National Assembly's Ecofin committee.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Sige",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sige",
+   "country_label": "Congo-Brazzaville",
+   "class": "emis",
+   "platform": "",
+   "owner": "ACSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
