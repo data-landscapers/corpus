@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 248
+sources_cited: 250
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -354,6 +354,8 @@ Malawi ranks [3rd of 54 African states on disclosure of public records, scoring 
 In 2025 an [access to information law was in force and assessed as effective](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [It gives the public a right to request government records](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). In September 2026 [65 per cent of 30 requesters surveyed said they had no answer inside the statutory 15 days, and 46.7 per cent gave up](https://malawi24.com/2026/09/16/when-information-requests-go-nowhere/). [Requests filed with ten public institutions for the same investigation produced the information sought in no case](https://malawi24.com/2026/09/16/when-information-requests-go-nowhere/).
 
 On Open Data Watch's 2024 inventory, Malawi's [economic and financial statistics all sit in the 3-5 out of 10 band](https://odin.opendatawatch.com/data). [Population statistics score best, at 5.5, ahead of health outcomes and reproductive health at 5](https://odin.opendatawatch.com/data). [Agriculture and land use and natural resources score 3.5, and the built environment 4.5](https://odin.opendatawatch.com/data). Where publication is routine it is sectoral, as with the Reserve Bank's [quarterly national payment systems reports](https://times.mw/national-payment-system-registers-growth-in-2024-quarter-3/) (2024). On 31 July 2026 the Ministry of Local Government and Rural Development [opened a real-time Constituency Development Fund dashboard, letting government and the public track CDF project implementation and spending nationally](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/).
+
+[The planning commission runs a public dashboard tracking the first Malawi 2063 implementation plan from an indicator data warehouse, with downloadable charts](https://mip1dashboard.mw/about) (2025). [The digital plant health service publishes weather-station observations as csv and xls files under a CC BY-SA licence](https://ckan.madiphs.org/tl/plant-health-dataset/weather-observations--rainfall/resource/05df7041-e5b4-41be-b063-c7e621d9c2dd?inner_span=True) (2024).
 
 ### Geospatial data
 <!-- data.geospatial -->
