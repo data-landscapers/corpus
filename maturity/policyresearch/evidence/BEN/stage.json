@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "research",
-   "stage": "2",
-   "research": "begun",
-   "policy": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-001",
-   "gaps": "No source found since October 2023 says: does a local institution publish on it.",
-   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "research",
+      "stage": "2",
+      "research": "begun",
+      "policy": "",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-001",
+      "gaps": "No source found since October 2023 says: does a local institution publish on it.",
+      "note": "The July 2026 West Africa Feminist Data Summit, inside the window, shows digital policy research begun. No research published by a local institution since October 2023 is held, so not 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

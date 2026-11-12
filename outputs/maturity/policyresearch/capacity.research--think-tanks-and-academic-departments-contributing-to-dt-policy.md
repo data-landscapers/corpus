@@ -1,6 +1,6 @@
 # Think tanks and academic departments contributing to DT policy: digital policy research
 
-*As at 2026-09-30.*
+*As at 2026-11-12.*
 
 ## The norm
 

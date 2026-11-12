@@ -2,7 +2,7 @@
 
 ## Digital policy research
 
-**Research published.** [Authors from the Universite du Burundi published a study in the Open Journal of Social Sciences surveying 343 students on ICT services and e-learning in Burundian higher education](<https://doi.org/10.4236/jss.2023.1111019>). [AERC reports that CURDES, the University of Burundi's research centre, held a workshop on 25 August 2023 in Bujumbura presenting three research papers on mobile money and financial inclusion to the central bank, finance ministry and banks (2023, before the three-year window)](<https://aercafrica.org/curdes-hosts-a-dissemination-workshop-on-digital-financial-services-in-burundi/>).
+**Research published.** In November 2023 [University of Burundi authors published a survey of 343 students](<https://doi.org/10.4236/jss.2023.1111019>) on ICT services and e-learning. In August 2023, before the window, [the CURDES centre presented three papers on mobile money](<https://aercafrica.org/curdes-hosts-a-dissemination-workshop-on-digital-financial-services-in-burundi/>). Its audience was the central bank, the finance ministry and banks. No news story or official notice read for this study says more about it. The documents the earlier cell cited were not read.
 
 **Feeding policy.** No source found since October 2023 says local research fed a digital policy, law or strategy. The nearest held fact: [the one given above](<https://doi.org/10.4236/jss.2023.1111019>).
 
@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says local research fed a digital policy, law or strategy.
+***Not found***. No source found since October 2023 says local research fed a digital policy, law or strategy. None gives a local institution a standing advisory role, or reports a national research agenda adopted.

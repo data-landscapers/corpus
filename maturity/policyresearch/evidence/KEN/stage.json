@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "research",
-   "stage": "4",
-   "research": "publishing",
-   "policy": "contributed",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-002;KEN-004",
-   "gaps": "No source found since October 2023 says a local research institution holds a standing advisory role in digital policy.",
-   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "research",
+      "stage": "4",
+      "research": "publishing",
+      "policy": "contributed",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-002;KEN-004",
+      "gaps": "No source found since October 2023 says a local research institution holds a standing advisory role in digital policy.",
+      "note": "KICTANet's memorandum to the Senate on the AI Bill of May 2026 meets question 3, on top of its published reports. No standing advisory role or adopted national research agenda is held, so not 5.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }
