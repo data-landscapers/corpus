@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-10-gha-communication-ministry-saddled-with-debt-strangulating-contracts-minis",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Communication Minister Samuel Nartey George said the ministry would launch the One Million Coders programme with a pilot in Greater Accra, Ashanti, Bono and Upper East regions on 16 April, with over 500 participants expected at the launch and a standardised beginner-to-advanced curriculum.",
+   "as_of": "2025-04-16",
+   "date_precision": "day",
+   "system": "One Million Coders Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Million Coders Programme",
+   "country_label": "Ghana",
+   "class": "publicskills",
+   "platform": "training programme with MTN Group MoU",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
