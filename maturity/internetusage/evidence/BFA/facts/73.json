@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-14-bfa-burkina-faso-to-extend-telecom-access-to-1-52-million-people",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:28.3",
+   "fact": "Ecofin, citing ITU data, says internet use in Burkina Faso was estimated at 28.3% of the population in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ITU",
+   "class": "use"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Regulator subscription count, 78.61% mobile internet penetration, March 2026",
+   "country_label": "78.61",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

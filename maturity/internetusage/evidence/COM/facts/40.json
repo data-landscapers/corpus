@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-03-com-comoros-consumers-launch-boycott-over-higher-mobile-data-prices",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:32.5",
+   "fact": "Ecofin Agency, citing the International Telecommunication Union, reports that only 32.5% of the Comorian population used the internet in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ITU internet use",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-24-mrt-mauritania-opens-digital-service-centers-to-expand-access-to-online-pu",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:37.4",
+   "fact": "Ecofin, citing the ITU ICT Development Index 2025, puts internet penetration in Mauritania at 37.4%.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ITU ICT Development Index 2025",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-02-bfa-burkina-faso-to-step-up-justice-system-digitalisation-this-year",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:17",
+   "fact": "The International Telecommunication Union estimates internet usage in Burkina Faso at 17% in 2023, per Ecofin Agency.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ITU",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
