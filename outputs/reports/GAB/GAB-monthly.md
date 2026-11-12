@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: GAB
-ledger_rows: 36
+ledger_rows: 37
 not_held: 12
-record: 6dfe06f8d56d
+record: c52487131b30
 ---
 
 # News, Oct – Nov 2026
@@ -611,6 +611,28 @@ Four months after Libreville's mayor launched collection of market fees by Airte
 **[Gabon : Libreville digitalise la collecte de ses taxes](https://fr.infosgabon.com/gabon-libreville-digitalise-la-collecte-de-ses-taxes/)** — Infos Gabon, 31 October 2026
 
 Libreville city hall officially presented e-Taxe municipale, a platform for declaring and paying municipal taxes and fees online, on 30 October 2026. It was prototyped in January 2026 and put into service on 12 June 2026. The municipality described it as 95% operational.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-Tax : la Mairie de Libreville dresse un premier bilan de la collecte numérique des taxes de marché](https://medias241.ga/e-tax-la-mairie-de-libreville-dresse-un-premier-bilan-de-la-collecte-numerique-des-taxes-de-marche/)** — Medias241, 1 November 2026
+
+Launched 12 Jun 2026, E-Tax covers 15 markets, ~2,000 traders, 4,000+ transactions; ~FCFA 210m via mobile money.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National inventory of local administrations' ICT equipment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon: Digitalisation des collectivités locales - Le Haut-Ogooué, première étape de l'inventaire national du parc informatique](https://fr.allafrica.com/stories/202610300423.html)** — allAfrica, 29 October 2026
+
+Phase 2 of national inventory of local administrations' ICT equipment from 26 Oct 2026; phase 1 surveyed 9 capitals.
 
 </div>
 
