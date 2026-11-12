@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-18-sle-chief-minister-sengeh-highlights-progress-in-land-reforms-under-presid",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Sierra Leone's Chief Minister said in April 2025 that the lands ministry anticipates the launch of a land management information system, under the Sierra Leone Land Administration Project.",
+   "as_of": "2025-04-18",
+   "date_precision": "day",
+   "system": "Land management information system",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Land management information system",
+   "country_label": "Sierra Leone",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands, Housing and Country Planning",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

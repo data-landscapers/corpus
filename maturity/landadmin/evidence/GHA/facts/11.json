@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-02-gha-mahama-directs-lands-commission-to-undertake-audit-of-state-lands-allo",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Ghana News Agency reports that on 2 September 2025 President Mahama told the Lands Commission to integrate services across its Registries, Valuation and Survey departments, building on the enterprise land information system; in-service use of the system is not stated.",
+   "as_of": "2025-09-02",
+   "date_precision": "day",
+   "system": "Enterprise Land Information System (ELIS)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enterprise Land Information System (ELIS)",
+   "country_label": "ELIS",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Lands Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

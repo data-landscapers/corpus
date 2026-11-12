@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-10-eth-ethiopia-turns-to-3d-digital-mapping-and-cybersecurity-to-secure-prope",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "AMECO reports that Ethiopia's urban ministry and INSA signed an agreement to combine legal, physical and cadastral data in one unified digital land system and to expand e-Land digital services.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "e-Land",
+   "class": "landmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

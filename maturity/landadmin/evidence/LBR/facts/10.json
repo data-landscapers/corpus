@@ -1,0 +1,44 @@
+{
+ "slug": "2025-10-27-lbr-lla-deepens-land-reforms-launches-new-deed-form-guidelines-digital-sys",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Analyst reports the Liberia Land Authority chairman listed the stabilisation and operationalisation of the Land Administration System (LAS) among achievements under the Swedish-supported SLSL project.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Land Administration System (LAS)",
+   "class": "landmis"
+  },
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The LLA signed a three-year memorandum on 16 October 2025 with All for Land and Lee Metrics to develop and implement the Liberia Land Information System.",
+   "as_of": "2025-10-16",
+   "date_precision": "day",
+   "system": "Liberia Land Information System",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Land Administration System (LAS)",
+   "country_label": "Liberia",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Liberia Land Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Liberia Land Information System",
+   "country_label": "Liberia",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Liberia Land Authority with All for Land and Lee Metrics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

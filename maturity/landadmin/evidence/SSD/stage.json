@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "landmis",
-      "stage": "unplaced",
-      "system": "",
+      "stage": "2",
+      "system": "underway",
       "joined": "",
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Only the August 2023 launch of Juba's Digital Land Registry is held, before the three years.",
-      "note": "Nothing in the last three years says how land transactions are processed, so no stage is set.",
-      "as_at": "2026-11-11"
+      "stage_sources": "SSD-002",
+      "gaps": "No source since 2023 says land transactions are processed in a system in service; Juba's registry launch of August 2023 is older.",
+      "note": "FAO sought consultants in September 2025 to develop a Land Information System for South Sudan, so stage 2.",
+      "as_at": "2026-11-12"
     }
   ]
 }

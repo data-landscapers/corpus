@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-15-uga-igad-land-governance-twinning-exercise-between-uganda-and-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "An Ethiopian directorate official says the country has a current National Land Administration Information System (NLIAS) that is to be enhanced.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "National Land Administration Information System (NLIAS)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Land Administration Information System (NLIAS)",
+   "country_label": "ETH",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Agriculture, Rural Land Administration and Use Directorate",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

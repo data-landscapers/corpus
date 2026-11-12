@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "landmis",
-      "stage": "no evidence",
-      "system": "",
+      "stage": "2",
+      "system": "underway",
       "joined": "",
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says how land transactions are processed.",
-      "note": "No row on a land information system is held for this country, so no stage is set.",
-      "as_at": "2026-11-11"
+      "stage_sources": "COM-001",
+      "gaps": "No source says land transactions are processed in a system in service.",
+      "note": "A land information system was being set up with World Bank money in April 2026, so stage 2. Nothing says it is in service.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-28-nga-lagos-revolutionises-land-acquisition-as-sanwo-olu-launches-automated",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "BusinessDay reports Lagos State launched its e-GIS portal in January 2024, through which land title applications moved from paper to digital processing.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Lagos e-GIS portal",
+   "class": "landmis"
+  },
+  {
+   "sub_indicator": "landmis",
+   "aspect": "joined",
+   "value": "joined",
+   "fact": "BusinessDay says Lagos's e-GIS merged archived land records with land titles and holds transaction history for every parcel in the state's cadastre, with surveys requestable on it.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Lagos e-GIS portal",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lagos e-GIS portal",
+   "country_label": "Nigeria (Lagos State)",
+   "class": "landmis",
+   "platform": "Momentum Land Administration Solution",
+   "owner": "Lagos State Lands Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

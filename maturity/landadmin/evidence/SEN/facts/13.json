@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-27-sen-fidak-2025-panel-sur-la-dematerialisation-des-procedures-foncieres-le",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "PROCASEF reports that its communal land information system SIFCOM is planned to be operational in the 136 communal land offices of the project, with an electronic land book announced to replace paper registers.",
+   "as_of": "2025-12-23",
+   "date_precision": "day",
+   "system": "SIFCOM",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIFCOM",
+   "country_label": "Senegal",
+   "class": "landmis",
+   "platform": "",
+   "owner": "PROCASEF",
+   "tiers": "communal land offices"
+  }
+ ],
+ "note": ""
+}

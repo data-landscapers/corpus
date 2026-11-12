@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-29-eth-finnish-supported-reila-project-enabled-to-certify-30-million-land-par",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ethiopian News Agency reports the National Rural Land Administration Information System (NRLAIS) has been operational in 450 woredas and has certified some 30 million land parcels.",
+   "as_of": "2024-10-29",
+   "date_precision": "day",
+   "system": "NRLAIS (National Rural Land Administration Information System)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NRLAIS (National Rural Land Administration Information System)",
+   "country_label": "Ethiopia",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Agriculture",
+   "tiers": "450 woredas"
+  }
+ ],
+ "note": ""
+}

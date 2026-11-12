@@ -1,0 +1,46 @@
+{
+ "slug": "2024-02-15-uga-igad-land-governance-twinning-exercise-between-uganda-and-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "IGAD says Uganda's Land Information System is in service, interoperable with physical planning, land administration, valuation, surveys and mapping, and land registration.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Land Information System",
+   "class": "landmis"
+  },
+  {
+   "sub_indicator": "landmis",
+   "aspect": "joined",
+   "value": "joined",
+   "fact": "IGAD says Uganda's Land Information System is interoperable with land valuation, surveys and mapping.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Land Information System",
+   "class": "landmis"
+  },
+  {
+   "sub_indicator": "landmis",
+   "aspect": "tax",
+   "value": "linked",
+   "fact": "IGAD says Uganda's Land Information System integrates land records with taxation (Uganda Revenue Authority).",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Land Information System",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Land Information System",
+   "country_label": "UGA",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands, Housing and Urban Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

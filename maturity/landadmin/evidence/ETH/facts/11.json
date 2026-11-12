@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-eth-land-rights-for-millions-of-ethiopians",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Finland's Ministry for Foreign Affairs says more than 5 million formal land transactions, including inheritances, gifts, exchanges and consolidations, had been recorded in Ethiopia's digital land registry by the end of June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Digital land registry (REILA)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital land registry (REILA)",
+   "country_label": "REILA digital land registry",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Agriculture, rural land administration and use directorate",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-14-tza-assessing-the-effectiveness-of-integrated-information-management-syste",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "A journal study of 350 respondents in Dar es Salaam City Council finds the Integrated Land Management Information System (ILMIS) has reduced land disputes and transaction times where fully implemented.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ILMIS",
+   "class": "landmis"
+  },
+  {
+   "sub_indicator": "landmis",
+   "aspect": "tax",
+   "value": "linked",
+   "fact": "The journal study says ILMIS is integrated with other government functions such as tax administration.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ILMIS",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ILMIS",
+   "country_label": "Integrated Land Management Information System",
+   "class": "landmis",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

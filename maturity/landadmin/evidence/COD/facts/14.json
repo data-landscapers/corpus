@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-26-cod-rdc-restitution-des-etudes-sur-l-evaluation-des-initiatives-de-numeris",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Fonaredd reports a workshop on 26 February 2026 presented an evaluation of pilot initiatives for the land information system and proposed an e-SIF 2.0 architecture of digitised archives, a GIS digital cadastre and digitised transactions, with deployment still to come.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Systeme d'Information Fonciere (SIF) / e-SIF 2.0",
+   "class": "landmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

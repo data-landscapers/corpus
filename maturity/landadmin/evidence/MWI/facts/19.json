@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-mwi-new-hope-for-malawi-s-farmers-as-agcom-ii-launches-to-modernise-agricu",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of Agriculture's spokesperson says the Land Information Management System (LIMS) has been used to register about 130,000 customary land parcels, and AGCOM II is supporting its upscaling.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "LIMS",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LIMS",
+   "country_label": "Malawi",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Agriculture / Lands",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

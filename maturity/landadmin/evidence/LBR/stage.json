@@ -9,10 +9,10 @@
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-001",
-      "gaps": "No source in the last three years says land transactions are processed in a system in service.",
-      "note": "The Liberia Land Authority signed an agreement in October 2025 to develop a land information system, with pilots in two counties to follow, so stage 2.",
-      "as_at": "2026-11-11"
+      "stage_sources": "LBR-004;LBR-001",
+      "gaps": "The Land Administration System was introduced and made operational under the Swedish project, but no source says deeds or transfers are registered in it.",
+      "note": "The Liberia Land Information System was contracted in October 2025, so stage 2. The older Land Administration System is said to be operational, not that transactions are processed in it.",
+      "as_at": "2026-11-12"
     }
   ]
 }

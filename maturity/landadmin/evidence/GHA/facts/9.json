@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-15-gha-lands-commission-targets-one-month-land-registration",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Graphic Online reports that on 15 July 2026 the Lands Minister said the Enterprise Land Information System is operational in nine regional offices, with digital processing of the commission's major services in those regions.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "Enterprise Land Information System (ELIS)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enterprise Land Information System (ELIS)",
+   "country_label": "ELIS",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Lands Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

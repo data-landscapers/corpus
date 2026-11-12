@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-11-cmr-appel-a-manifestation-d-interet-n0124-e-2-ami-minhdu-sg-pvgfd-maitrise",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry of Housing and Urban Development's call of 11 September 2026, financed by an IDA credit, seeks a supervisor for a provider building a land information system (SIF) in Yaounde and Douala for the Ministry of State Property, Surveys and Land Tenure.",
+   "as_of": "2026-09-11",
+   "date_precision": "day",
+   "system": "Land information system (SIF), Yaounde and Douala",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Land information system (SIF), Yaounde and Douala",
+   "country_label": "Cameroon",
+   "class": "landmis",
+   "platform": "",
+   "owner": "MINDCAF",
+   "tiers": "Yaounde, Douala"
+  }
+ ],
+ "note": ""
+}

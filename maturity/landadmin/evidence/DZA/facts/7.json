@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-11-dza-algeriezoom-amlak-livret-foncier-electronique",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Algérie Zoom reports the Direction Générale du Domaine National generalised the Amlak information system to all its cadastre, land conservation and state property offices on 11 January 2026, giving immediate answers to counter requests.",
+   "as_of": "2026-01-11",
+   "date_precision": "day",
+   "system": "Amlak",
+   "class": "landmis"
+  },
+  {
+   "sub_indicator": "landmis",
+   "aspect": "joined",
+   "value": "joined",
+   "fact": "Algérie Zoom reports Amlak is a unified national system joining cadastre, land conservation and state property functions on one central national database.",
+   "as_of": "2026-01-11",
+   "date_precision": "day",
+   "system": "Amlak",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Amlak",
+   "country_label": "Amlak",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Direction Générale du Domaine National",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

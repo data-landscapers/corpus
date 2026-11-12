@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-04-ken-why-ardhisasa-expansion-has-fallen-behind-ps-korir",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Radio Generation reports PS Generali Nixon Korir told the Public Accounts Committee that Ardhisasa has been rolled out in Nairobi, Murang'a, Mombasa Island and Isiolo, with digitisation under way in Machakos, Kajiado and Baringo.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Ardhisasa (National Land Information Management System)",
+   "class": "landmis"
+  },
+  {
+   "sub_indicator": "landmis",
+   "aspect": "tax",
+   "value": "linked",
+   "fact": "PS Korir said the department rolled out ArdhiPay for land-related payments and a National Stamp Duty Module to support transactions across the country.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "ArdhiPay / National Stamp Duty Module",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ardhisasa (National Land Information Management System)",
+   "country_label": "Kenya",
+   "class": "landmis",
+   "platform": "",
+   "owner": "State Department for Lands and Physical Planning",
+   "tiers": "4 of 83 registries rolled out"
+  }
+ ],
+ "note": ""
+}

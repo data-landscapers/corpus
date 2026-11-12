@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-10-uga-bims-and-iras-integrated-to-boost-compliance-and-revenue-generation-in",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UgNLIS",
+   "country_label": "Uganda National Land Information System",
+   "class": "landmis",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "UgNLIS is named only as used for land verification; processing of transactions is not stated."
+}

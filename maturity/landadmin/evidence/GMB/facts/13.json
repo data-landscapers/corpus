@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-gmb-ministry-updates-public-on-national-land-policy-implementation",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Dr Samba Sowe of the Land Policy Implementation Unit said the alpha version of the National Land Information System is complete and in testing before full rollout.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "National Land Information System",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Land Information System",
+   "country_label": "The Gambia",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands, Local Government and Religious Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

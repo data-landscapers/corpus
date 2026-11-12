@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "landmis",
-      "stage": "4",
+      "stage": "5",
       "system": "inservice",
       "joined": "joined",
-      "tax": "",
+      "tax": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-003;UGA-001",
-      "gaps": "No source says land tax or stamp duty is paid through UgNLIS; online payment of fees and stamp duty was only an objective of the 2023-24 enhancement.",
-      "note": "The Ministry of Lands' 2024 page says UgNLIS runs registration and transfers through 22 zonal offices and integrates surveying, mapping and valuation, so stage 4, dated by the source as the ladder reads. Stamp-duty payment online is an objective, not a fact.",
-      "as_at": "2026-11-11"
+      "stage_sources": "UGA-010;UGA-003;UGA-001",
+      "gaps": "The tax link rests on one IGAD account of February 2024; nothing says how stamp duty is paid.",
+      "note": "UgNLIS runs registration and transfers through 22 zonal offices, joined to surveys and valuation, and IGAD says in 2024 it integrates land records with the Uganda Revenue Authority, so stage 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-15-tgo-foncier-apres-la-nomination-de-son-dg-l-andf-face-au-defi-de-son-opera",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Togo First reports that the land process has been digitised through the Guichet unique du foncier, and that since 17 August 2026 surveyors must send georeferenced parcel plans online to it via the OTR site.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "Guichet unique du foncier (GUF)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet unique du foncier (GUF)",
+   "country_label": "GUF",
+   "class": "landmis",
+   "platform": "OTR website",
+   "owner": "Office togolais des recettes",
+   "tiers": ""
+  },
+  {
+   "system": "Agence nationale du domaine et du foncier (ANDF)",
+   "country_label": "ANDF",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of land affairs and Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "landmis",
-      "stage": "2",
-      "system": "underway",
+      "stage": "3",
+      "system": "inservice",
       "joined": "",
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BWA-002;BWA-001",
-      "gaps": "No source in the last three years says land transactions are processed in a system in service.",
-      "note": "The 2026/27 budget begins a four-year upgrade of the Land Information System and an Electronic Deeds Registration Systems Act is planned, so stage 2.",
-      "as_at": "2026-11-11"
+      "stage_sources": "BWA-003",
+      "gaps": "No source says the Land Information System joins records with survey maps or valuation. In November 2025 conveyancing and title registration were still manual.",
+      "note": "Land Board officers across the country process Secure Land Title transactions in the Land Information System, per the minister in August 2026, so stage 3. Nothing says it joins records to maps or valuation.",
+      "as_at": "2026-11-12"
     }
   ]
 }

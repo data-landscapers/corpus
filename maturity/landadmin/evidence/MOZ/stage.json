@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "landmis",
-      "stage": "unplaced",
-      "system": "",
+      "stage": "1",
+      "system": "none",
       "joined": "",
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Only 2020 and 2021 accounts of SiGIT are held, before the three years.",
-      "note": "Nothing in the last three years says how land transactions are processed, so no stage is set.",
-      "as_at": "2026-11-11"
+      "stage_sources": "MOZ-003",
+      "gaps": "Nothing since 2023 says any land office processes transactions in the land information system.",
+      "note": "MCC's 2024 evaluation says use of the land information system has largely not been sustained and land offices still rely on paper records, so stage 1.",
+      "as_at": "2026-11-12"
     }
   ]
 }

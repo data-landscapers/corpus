@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-08-zwe-digital-land-system-to-boost-transparency",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Lands Permanent Secretary Prosper Matondi told The Herald the ministry is implementing a land information management system, with the rollout of a digital land management system expected to improve administration within six months.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "land information management system",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "land information management system",
+   "country_label": "Zimbabwe",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands and Rural Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

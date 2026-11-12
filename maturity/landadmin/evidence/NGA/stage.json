@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-003;NGA-001",
-      "gaps": "Only Kwara State's system is held; nothing on a federal or another state's system.",
-      "note": "Kwara State's KW-GIS system, launched in October 2025, registers land, maps parcels and takes land payments through the state revenue service's integrated platform, so stage 5 on one state.",
-      "as_at": "2026-11-11"
+      "gaps": "Only Kwara State's system is shown linked to tax; Lagos and Cross River systems are joined to maps, and the federal repository is still being built.",
+      "note": "Kwara State's KW-GIS system registers land, maps parcels and takes land payments through the state revenue service, so stage 5 on one state. Lagos and Cross River run state systems joined to survey maps.",
+      "as_at": "2026-11-12"
     }
   ]
 }

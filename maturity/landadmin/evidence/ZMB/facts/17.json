@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-12-zmb-the-zambia-integrated-land-administration-system-progress-or-setback",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Law Association of Zambia president Lungisani Zulu describes ZILAS as the Ministry of Lands system in which land documents are submitted, tracked and processed online, producing digital title deeds.",
+   "as_of": "2025-03-12",
+   "date_precision": "day",
+   "system": "ZILAS",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zambia Integrated Land Administration System (ZILAS)",
+   "country_label": "ZILAS",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-13-mdg-redynamisation-des-guichets-fonciers-vers-la-mise-en-place-d-un-system",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Newsmada reports that on 12 December 2023 computers, printers and solar kits were handed to the land offices of 291 communes under the World Bank-funded CASEF project as part of setting up a Land Information System.",
+   "as_of": "2023-12-12",
+   "date_precision": "day",
+   "system": "Systeme d'information fonciere (SIF)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

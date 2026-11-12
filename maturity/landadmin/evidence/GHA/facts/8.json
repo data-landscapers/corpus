@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-28-gha-lands-commission-s-digital-reform-gamechanger-for-land-administration",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Ghana News Agency quotes the Lands Commission's Executive Secretary saying ELIS is operational in Greater Accra and nine other regions, cutting official land searches from about a month to seven working days.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Enterprise Land Information System (ELIS)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enterprise Land Information System (ELIS)",
+   "country_label": "GHA",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Lands Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

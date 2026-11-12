@@ -2,12 +2,12 @@
 
 ## Land
 
-**System in service.** [Acting Minister Dikoloti told Parliament that under NDP 12 the Ministry of Lands and Agriculture will upgrade the Land Information System and the Integrated Geographic Information System (IGIS), and announced a planned Electronic Deeds Registration Systems Act to give a legal framework for digital registration](<https://dailynews.gov.bw/news-detail/90382>). [Vice President and Finance Minister Gaolathe said in the 2026/27 Budget Speech that Government will begin, through the Geospatial Information Centre, the first phase of a four-year programme to upgrade the Land Information System and strengthen the Integrated Geographic Information System](<https://dailynews.gov.bw/news-detail/89882>).
+**System in service.** [The Assistant Minister of Lands told Parliament on 18 August 2026 that Land Board officers across the country can process Secure Land Title transactions electronically](<https://dailynews.gov.bw/news-detail/92827>). They do so in the web-based Land Information System. [In November 2025 a minister had said conveyancing, title registration and land transactions were still done by hand](<https://dailynews.gov.bw/news-detail/89144>), because of gaps in the system. [The 2026/27 budget begins a four-year upgrade of the Land Information System](<https://dailynews.gov.bw/news-detail/89882>).
 
-**Maps or valuation.** No source found since October 2023 says the land system joins records to survey maps or valuation. The nearest held fact: [the one given above](<https://dailynews.gov.bw/news-detail/90382>).
+**Maps or valuation.** No source found since October 2023 says the land system joins records to survey maps or valuation. [Parliament heard that the Integrated Geographic Information System will be upgraded beside the Land Information System](<https://dailynews.gov.bw/news-detail/90382>), under NDP 12.
 
-**Linked to tax.** No source found since October 2023 says land or property tax is assessed or paid through the land system. The nearest held fact: [the one given above](<https://dailynews.gov.bw/news-detail/90382>).
+**Linked to tax.** No source found since October 2023 says land or property tax is assessed or paid through the land system. The nearest fact: [the electronic processing of Secure Land Title transactions in 2026](<https://dailynews.gov.bw/news-detail/92827>).
 
 ***Also on file***. [Integrated Geographic Information System (IGIS)](<https://dailynews.gov.bw/news-detail/90382>); [Integrated Geographic Information System](<https://dailynews.gov.bw/news-detail/89882>).
 
-***Not found***. No source found since October 2023 says: are land transactions processed electronically.
+***Not found***. Nothing says the Land Information System joins records to survey maps or valuation.

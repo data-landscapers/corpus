@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-28-uga-ugandans-abroad-welcome-digitalisation-of-land-titles",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Lands Permanent Secretary Okalany said the digitalised system handles land acquisition, transfer, surveying and planning, with titles processed within ten days when documents are in order.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "digitalised land titles system",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digitalised land titles system",
+   "country_label": "Uganda",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands, Housing and Urban Development",
+   "tiers": ""
+  }
+ ],
+ "note": "No join to survey maps or valuation, or to tax, is stated."
+}

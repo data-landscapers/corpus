@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-26-bfa-burkina-gestion-du-foncier-le-coordonnateur-du-projet-d-appui-au-renfo",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The PARGFM land-component coordinator told leFaso.net that development and deployment of a national land information system is in progress, with land services of 20 communes interconnected ahead of it.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "National land information system (PARGFM)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

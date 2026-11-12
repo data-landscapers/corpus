@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-20-ben-tribune-de-haut-niveau-des-experts-du-numerique-et-du-foncier",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ANDF's information systems director Alidou Saré says the E-TERRE platform manages the process of issuing land titles and related administrative procedures, and is connected to the National Public Services Portal, for parcels whose registration is already under way.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "E-TERRE",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-TERRE",
+   "country_label": "Benin",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Agence Nationale du Domaine et du Foncier (ANDF)",
+   "tiers": ""
+  },
+  {
+   "system": "e-Foncier Bénin",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "LADM",
+   "owner": "Agence Nationale du Domaine et du Foncier (ANDF)",
+   "tiers": ""
+  }
+ ],
+ "note": "E-TERRE and e-Foncier are not stated as joined to each other, and no tax link is stated."
+}

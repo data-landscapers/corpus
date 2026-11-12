@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "landmis",
-      "stage": "2",
-      "system": "underway",
+      "stage": "3",
+      "system": "inservice",
       "joined": "",
-      "tax": "",
+      "tax": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-002;TZA-001",
-      "gaps": "No source in the last three years says land transactions are processed in a system in service. Nothing is held on mainland Tanzania's land system.",
-      "note": "Zanzibar's LARIS was launched in July 2026 and is being built to May 2028, so stage 2 on Zanzibar alone.",
-      "as_at": "2026-11-11"
+      "stage_sources": "TZA-003",
+      "gaps": "No source says ILMIS joins land records with survey maps or valuation, so its tax link cannot count. The one mainland source is a study of Dar es Salaam.",
+      "note": "A 2025 journal study finds ILMIS has cut transaction times in Dar es Salaam, so stage 3. Nothing says it joins records to maps or valuation.",
+      "as_at": "2026-11-12"
     }
   ]
 }

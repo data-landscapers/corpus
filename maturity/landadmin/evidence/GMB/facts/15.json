@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-30-gmb-land-reforms-gather-pace-as-government-weighs-new-agency-and-sweeping",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Minister Hamat Bah said a tender for the National Land Information System attracted nine firms, with evaluation and contract signing expected in early 2026.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "National Land Information System",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Land Information System",
+   "country_label": "The Gambia",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

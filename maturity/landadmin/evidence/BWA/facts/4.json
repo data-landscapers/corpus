@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-19-bwa-over-4-000-await-secure-title-certificates",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Botswana Daily News reports the Assistant Minister of Lands told Parliament on 18 August 2026 that Land Board officers across the country can now process Secure Land Title transactions electronically through the web-based Land Information System (LIS).",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "Land Information System (LIS)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Land Information System (LIS)",
+   "country_label": "Botswana",
+   "class": "landmis",
+   "platform": "web-based",
+   "owner": "Ministry of Lands and Agriculture",
+   "tiers": "Land Boards"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-31-uga-jinja-land-office-backlog-exposes-staffing-infrastructure-gaps-despite",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Monitor reports that Uganda's digital land registration system, UgNLIS, is in service and processes transactions, with 12,748 registered transactions and thousands pending at the Jinja zonal office.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "UgNLIS",
+   "class": "landmis"
+  },
+  {
+   "sub_indicator": "landmis",
+   "aspect": "joined",
+   "value": "joined",
+   "fact": "The Monitor quotes the Jinja Registrar of Titles saying digital mapping links titles to surveys, though physical verification is still needed where maps differ.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "UgNLIS",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UgNLIS",
+   "country_label": "Uganda",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands, Housing and Urban Development",
+   "tiers": ""
+  }
+ ],
+ "note": "Integration with URA is stated for payment receipts only, not land tax."
+}

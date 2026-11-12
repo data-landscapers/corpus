@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "landmis",
-      "stage": "unplaced",
-      "system": "",
+      "stage": "3",
+      "system": "inservice",
       "joined": "",
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Only a June 2023 account of ZILAS is held, before the three years.",
-      "note": "Nothing in the last three years says how land transactions are processed, so no stage is set.",
-      "as_at": "2026-11-11"
+      "stage_sources": "ZMB-002;ZMB-003",
+      "gaps": "No source says ZILAS joins land records with survey maps or valuation.",
+      "note": "Land documents are submitted, tracked and processed online in ZILAS, per the Law Association in March 2025, so stage 3. Nothing says it joins records to maps or valuation.",
+      "as_at": "2026-11-12"
     }
   ]
 }

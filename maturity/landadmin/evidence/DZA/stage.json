@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "landmis",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "joined": "",
+      "joined": "joined",
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-001;DZA-003",
-      "gaps": "No source in the last three years says the land system joins records with survey maps or valuation.",
-      "note": "Algeria's finance minister said in December 2024 that land transactions in the conservation offices are managed digitally, and Amlak was being extended to every cadastre and conservation directorate in 2026, so stage 3.",
-      "as_at": "2026-11-11"
+      "stage_sources": "DZA-005;DZA-004;DZA-001",
+      "gaps": "No source says land or property tax is assessed or paid through Amlak.",
+      "note": "Amlak, generalised in January 2026, runs cadastre and land conservation on one national database, and land transactions are managed digitally, so stage 4. No tax link is held.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-ken-the-long-road-to-digitization-in-kenya",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "GIM International reported in 2025 that Kenya's land information system Ardhisasa (NLIMS) has been operational in only two counties since its 2021 launch.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Ardhisasa (NLIMS)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ardhisasa (NLIMS)",
+   "country_label": "Kenya",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands",
+   "tiers": "two counties live"
+  }
+ ],
+ "note": ""
+}

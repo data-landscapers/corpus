@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "landmis",
-      "stage": "unplaced",
-      "system": "",
-      "joined": "",
+      "stage": "4",
+      "system": "inservice",
+      "joined": "joined",
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Only a 2022 working paper on eCADASTRE is held, before the three years.",
-      "note": "Nothing in the last three years says how land transactions are processed, so no stage is set.",
-      "as_at": "2026-11-11"
+      "stage_sources": "BFA-004;BFA-003",
+      "gaps": "No source says land tax is assessed or paid through SYC@D, though the tax directorate runs it.",
+      "note": "SYC@D, launched in March 2025, takes transfer orders online and integrates the cadastral and geographic databases, so stage 4. No tax link is stated.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-20-nga-tech-firm-to-tackle-delays-in-c-of-o-processing",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Nugi Technologies says Cross River State's 360Lands digital registry has processed 330 applications, 188 Certificates of Occupancy and 142 consent applications, since implementation.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "360Lands",
+   "class": "landmis"
+  },
+  {
+   "sub_indicator": "landmis",
+   "aspect": "joined",
+   "value": "joined",
+   "fact": "Nugi Technologies says 360Lands integrates the state Ministry of Lands, the Geographic Information Agency, the Surveyor General's Office and Physical Planning, with parcels viewable on satellite maps through a GIS.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "360Lands",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "360Lands",
+   "country_label": "Nigeria (Cross River State)",
+   "class": "landmis",
+   "platform": "Nugi Technologies",
+   "owner": "Cross River State Government",
+   "tiers": "state"
+  }
+ ],
+ "note": "Link to tax is only an expectation of the company, not stated in service."
+}

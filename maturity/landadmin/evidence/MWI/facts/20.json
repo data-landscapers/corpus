@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-mwi-gumba-speaks-progress-in-land-records-digitalisation",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Malawi's Minister of Lands said at a Zomba training for lands officers and registrars that the Land Information Management System (LIMS) has been introduced and lets Malawians access land information digitally.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Land Information Management System (LIMS)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Land Information Management System (LIMS)",
+   "country_label": "Malawi",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "landmis",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "joined": "",
+      "joined": "joined",
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-002;BEN-003;BEN-004",
-      "gaps": "No source says e-Foncier joins land records with survey maps or valuation in so many words, and no tax link is held.",
-      "note": "Sales are recorded directly in e-Foncier Bénin, operational with mairies, notaries and surveyors since January 2025, so stage 3. Its cadastral certificates are not said to join records with survey maps.",
-      "as_at": "2026-11-11"
+      "stage_sources": "BEN-008;BEN-002;BEN-003",
+      "gaps": "No source says land or property tax is assessed or paid through e-Foncier Bénin.",
+      "note": "Sales are recorded in e-Foncier Bénin, and its implementer says in 2025 that it maps plot boundaries and links them to legal records, so stage 4. No tax link is held.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -83,3 +83,16 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,ZAF,dpi.mis--land,review,2,2,ZAF-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
 2026-11-11,ZMB,dpi.mis--land,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
 2026-11-11,ZWE,dpi.mis--land,review,3,3,ZWE-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-12,BEN,dpi.mis--land,fact,3,4,BEN-008;BEN-002;BEN-003,"MDF says e-Foncier Benin maps plot boundaries and links them to legal records (2025): records joined to maps, so stage 4."
+2026-11-12,BFA,dpi.mis--land,fact,unplaced,4,BFA-004;BFA-003,"SYC@D launched March 2025 takes transfer orders online and integrates cadastral databases: in service and joined, so stage 4."
+2026-11-12,BWA,dpi.mis--land,fact,2,3,BWA-003,"Minister told Parliament in August 2026 that Land Board officers process Secure Land Title transactions in the LIS: in service, so stage 3."
+2026-11-12,COM,dpi.mis--land,fact,no evidence,2,COM-001,"A land information system is being set up with World Bank finance (April 2026): under way, so stage 2."
+2026-11-12,DZA,dpi.mis--land,fact,3,4,DZA-005;DZA-004;DZA-001,"Amlak, generalised January 2026, joins cadastre and land conservation on one national database: joined, so stage 4."
+2026-11-12,LBR,dpi.mis--land,fact,2,2,LBR-004;LBR-001,"Land Administration System said introduced and operational (2025-2026), but no transactions stated as processed in it: stage holds at 2."
+2026-11-12,LSO,dpi.mis--land,fact,unplaced,unplaced,,Community Council allocation records kept on paper (2025) do not carry the country: stays unplaced.
+2026-11-12,MOZ,dpi.mis--land,fact,unplaced,1,MOZ-003,"MCC 2024 evaluation: land information system largely unused, land offices rely on paper records: stage 1."
+2026-11-12,NGA,dpi.mis--land,fact,5,5,NGA-003;NGA-001,"Lagos e-GIS and Cross River 360Lands in service and joined to maps: adds states, stage holds at 5."
+2026-11-12,SSD,dpi.mis--land,fact,unplaced,2,SSD-002,"FAO sought consultants in September 2025 to develop a Land Information System: under way, so stage 2."
+2026-11-12,TZA,dpi.mis--land,fact,2,3,TZA-003,"Journal study (2025) finds ILMIS in service in Dar es Salaam; no join to maps held, so stage 3."
+2026-11-12,UGA,dpi.mis--land,fact,4,5,UGA-010;UGA-003;UGA-001,"IGAD (February 2024) says the Land Information System integrates land records with the Uganda Revenue Authority: tax linked, so stage 5."
+2026-11-12,ZMB,dpi.mis--land,fact,unplaced,3,ZMB-002;ZMB-003,"ZILAS processes land documents online (March 2025) and replaced ZILMIS (2026): in service, so stage 3."

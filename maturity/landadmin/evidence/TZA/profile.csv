@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,landmis,system,coverage,underway,2026-10-29,TZA-001;TZA-002,,
+TZA,landmis,system,coverage,inservice,2025,TZA-003,TZA-002=underway;TZA-001=underway,
 TZA,landmis,joined,coverage,,,,,nothing found
-TZA,landmis,tax,coverage,,,,,nothing found
+TZA,landmis,tax,coverage,linked,2025,TZA-004,,

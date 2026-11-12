@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-08-ken-operationalization-of-digital-land-records-in-murang-a-registry-launch",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Kenya News Agency reports that Lands Cabinet Secretary Alice Wahome launched the Ardhisasa national land management system in Murang'a, the second county after Nairobi, with records ready for transactions.",
+   "as_of": "2024-07-08",
+   "date_precision": "day",
+   "system": "Ardhisasa",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ardhisasa",
+   "country_label": "Kenya",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
