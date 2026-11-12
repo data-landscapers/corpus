@@ -24,6 +24,7 @@ BFA,Zéro zone blanche,Burkina Faso,ruralaccess,,"Ministry of Digital Transition
 BFA,FASU,Burkina Faso,other,,,,2026-02-19-zero-zone-blanche-66-localites-tannounyan
 BFA,Universal Access and Service Fund (FASU),FASU,ruralaccess,,government,,2026-08-19-dcd-burkina-faso-800-telecom-towers
 BFA,FASU (Fonds pour l'acces et le service universels),Burkina Faso,ruralaccess,,Government of Burkina Faso,,2024-08-30-bfa-le-burkina-faso-veut-couvrir-1-000-zones-blanches-en-trois-ans
+BFA,PACTDigital,Burkina Faso,ruralaccess,,Government of Burkina Faso,,2026-07-14-bfa-burkina-faso-to-extend-telecom-access-to-1-52-million-people
 BWA,Village Connectivity Project,Botswana,ruralaccess,,Ministry of Communications and Innovation,,2026-05-08-botswana-huawei-ict-congress-2026-itweb
 BWA,Universal Access and Service Fund (UASF),Botswana,ruralaccess,,BOCRA (Secretariat),,2025-03-01-uasf-annual-report-2024-25
 BWA,BoFiNet,Botswana,ruralaccess,national broadband provider,Government of Botswana,,2025-05-22-bwa-giga-school-connectivity-botswana
@@ -61,6 +62,7 @@ COD,Fonds de développement du service universel (FDSU),RDC,ruralaccess,,"State,
 COD,Orange-Vodacom rural towerco joint venture,DRC,other,solar-powered 2G/4G base stations,Orange and Vodacom,,2025-01-14-orange-vodacom-bolster-drc-rural-network-coverage-telecomreviewafrica
 COD,FDSU universal connectivity programme,DR Congo,other,,FDSU,,2026-08-08-cod-rdc-le-fdsu-passe-du-diagnostic-a-l-action-avec-les-premieres-conventi
 COD,FDSU pilot roaming and site acquisition programme,COD,ruralaccess,,Fonds de Développement du Service Universel,,2025-10-22-cod-phase-pilote-d-itinerance-et-d-acquisition-de-sites-au-kongo-central
+COD,Mbuji-Mayi–Mwene-Ditu fibre optic project,RDC,ruralaccess,fibre optic,"Ministry of Posts, Telecommunications and Digital",,2026-08-06-cod-kasai-oriental-ministre-des-postes-et-telecommunications-presente-au-g
 COG,FASUCE,Fonds pour l'accès et le service universel des communications électroniques,ruralaccess,,Government of Congo,,2026-01-28-congo-fasuce-connects-miaba-ehota-techafricanews
 COG,FASUCE,Fonds pour l'accès et le service universel des communications électroniques,ruralaccess,,Government of Congo,,2025-12-31-cog-2026-cst-fasuce
 COG,PATN,Digital Transformation Acceleration Project,ruralaccess,,"Government of Congo, World Bank, EU",,2025-10-20-congo-boosts-internet-access-rural-areas-connectingafrica
@@ -127,6 +129,7 @@ MDG,Digital and Energy Connectivity for Inclusion in Madagascar Project (DECIM),
 MDG,national telecom expansion programme,Madagascar,ruralaccess,,"Ministry of Digital Development, Posts and Telecommunications","district, commune, fokontany",2026-07-07-madagascar-parliament-network-rollout-underserved-areas
 MDG,Intelsat and AMN rural sites,Madagascar,other,,Africa Mobile Networks,,2024-02-27-mdg-intelsat-amn-expand-rural-connectivity-in-madagascar
 MDG,DECIM,DECIM,ruralaccess,,Ministry of Digital Development,,2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development
+MDG,DECIM subsidised digital equipment sales,Madagascar,other,,Government (DECIM Fund),,2026-02-24-mdg-inclusion-numerique-madagascar-finance-la-distribution-de-664-000-equi
 MLI,AGEFAU,Mali,other,,Primature,,2026-07-27-maliweb-fonds-acces-universel-captation-agefau
 MLI,AGEFAU,Mali,other,,Primature,,2026-07-26-mali-agefau-11e-conseil-administration-budget-revise
 MLI,AGEFAU,Mali,other,,Primature,,2026-07-23-agefau-11e-session-ordinaire-conseil-administration
@@ -145,6 +148,7 @@ MRT,Fonds d'accès universel aux services (FAUS),Mauritanie,other,,Government of
 MRT,Projet de couverture integrale des services de communication electronique dans les zones frontalieres,Mauritania,ruralaccess,fibre optic backbone with solar-powered coverage sites and radio links,Ministry of Digital Transformation and Regulatory Authority,phases 1 to 3,2024-12-28-mrt-ami-couverture-zones-frontalieres-phases-2-3
 MRT,southern border zones communication coverage project,Mauritania,ruralaccess,,Ministry of Digital Transformation,,2023-12-28-mrt-ami-couverture-zones-frontalieres-sud-axe-1
 MRT,WARCIP,Mauritanie,other,fibre-optic backbone,Government of Mauritania with World Bank (IDA),,2022-12-16-mrt-banquemondiale-warcip-resultats-haut-debit
+MRT,digital service centers,Mauritania,ruralaccess,,Ministry of Digital Transformation,,2026-02-24-mrt-mauritania-opens-digital-service-centers-to-expand-access-to-online-pu
 MUS,Universal Service Fund,Mauritius,ruralaccess,,ICT Authority,,2022-06-01-mus-icta-wsis-statement-bridging-digital-divides
 MWI,Digital Malawi Acceleration Project (DMAP),Malawi,ruralaccess,,MACRA,,2026-03-26-dmap-90-telecom-towers-rural-connectivity-techafricanews
 MWI,Universal Service Fund,Malawi,ruralaccess,,MACRA,,2026-03-26-dmap-90-telecom-towers-rural-connectivity-techafricanews
@@ -246,6 +250,7 @@ ZAF,Sentech and Broadband Infraco Wi-Fi hotspots,South Africa,ruralaccess,Wi-Fi 
 ZAF,SA Connect,South Africa,ruralaccess,Wi-Fi hotspots,DCDT,,2024-03-01-zaf-minster-mondli-gungubele-launch-of-national-digital-skills-forum
 ZAF,SA Connect,South Africa,ruralaccess,Wi-Fi hotspots,Department of Communications and Digital Technologies,,2024-04-05-zaf-government-accelerates-programme-to-connect-citizens-to-internet
 ZAF,SA Connect,South Africa,ruralaccess,,Broadband Infraco and SITA,,2025-03-15-zaf-the-technically-insolvent-state-owned-broadband-company-that-lost-r459
+ZAF,Eastern Cape Fibre Project,South Africa,ruralaccess,,"SITA, Liquid and Eastern Cape Provincial Government",provincial government sites,2024-12-03-zaf-liquid-spends-r1bn-on-fibre-network-expansion-across-sa
 ZMB,UASF,Zambia,ruralaccess,,ZICTA,,2026-06-17-zicta-assesses-uasf-projects-muchinga
 ZMB,Universal Access and Service Fund (UASF),Zambia,ruralaccess,,ZICTA,,2025-09-01-zicta-uasf-copperbelt-northwestern
 ZMB,national broadband mapping system,Zambia,other,geospatial system,ZICTA (system custodian),,2026-02-01-africa-broadband-mapping-zambia-national-event-report
@@ -258,3 +263,4 @@ ZWE,Presidential Internet Scheme,Zimbabwe,ruralaccess,,Government of Zimbabwe,,2
 ZWE,Universal Service Fund,Zimbabwe,ruralaccess,,POTRAZ,,2026-08-16-zimbabwe-internet-affordability-access-misa
 ZWE,Universal Service Fund,Zimbabwe,other,,POTRAZ,,2025-10-10-zimbabwe-postal-and-telecommunications-amendment-bill-hb-10-2025
 ZWE,Tower Relocation Project,Tower Relocation Project (TRP),ruralaccess,Universal Services Fund,POTRAZ,,2025-09-16-zwe-tower-relocation-project-brings-mobile-connectivity-to-marginalised-co
+ZWE,Presidential Internet Scheme,Zimbabwe,ruralaccess,,"Ministry of ICT, Postal and Courier Services",,2025-07-24-zwe-ict-ministry-donates-250-starlink-kits-to-local-authorities

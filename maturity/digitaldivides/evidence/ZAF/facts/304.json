@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-03-zaf-liquid-spends-r1bn-on-fibre-network-expansion-across-sa",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Liquid Intelligent Technologies CEO Deon Geyser told ITWeb that under the Eastern Cape Fibre Project with SITA and the provincial government, all almost 2,700 contracted government properties in the least-connected province are connected, 2,000 by fibre and 700 by interim 4G and 5G.",
+   "as_of": "2024-12-03",
+   "date_precision": "day",
+   "system": "Eastern Cape Fibre Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eastern Cape Fibre Project",
+   "country_label": "South Africa",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "SITA, Liquid and Eastern Cape Provincial Government",
+   "tiers": "provincial government sites"
+  }
+ ],
+ "note": ""
+}

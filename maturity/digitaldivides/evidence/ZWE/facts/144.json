@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-zwe-ict-ministry-donates-250-starlink-kits-to-local-authorities",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "ICT Minister Tatenda Mavetera said the Presidential Internet Scheme is rolling out free Wi-Fi hotspots in town centres, post offices and community halls, with Manicaland and Mashonaland East having received and deployed kits.",
+   "as_of": "2025-07-23",
+   "date_precision": "day",
+   "system": "Presidential Internet Scheme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Presidential Internet Scheme",
+   "country_label": "Zimbabwe",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
