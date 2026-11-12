@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-10-mar-evaluation-actuelle-du-tribunal-numerique-au-maroc",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Village de la Justice, a legal analysis, cites Morocco's law 09-08 on the protection of personal data as setting the regime for electronic data.",
+   "as_of": "2024-10-10",
+   "date_precision": "day",
+   "system": "Law 09-08",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

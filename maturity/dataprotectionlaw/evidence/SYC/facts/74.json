@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-09-syc-travizory-in-seychelles",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Travizory, a vendor, states on its own fact-checker page that it acts as data processor for the Seychelles Electronic Border System in accordance with the Seychelles National Data Protection Act, without giving the Act's date or text.",
+   "as_of": "2025-09-09",
+   "date_precision": "day",
+   "system": "Seychelles National Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

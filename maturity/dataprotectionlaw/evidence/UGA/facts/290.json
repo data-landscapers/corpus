@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-uga-ursb-defends-system-failures-data-exposure-as-mps-probe-shs1bn-fin",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Auditor General flagged URSB's exposure of full dates of birth in business records as contrary to the requirements of the Data Protection and Privacy Act, as heard by Parliament's COSASE committee on 10 November 2026.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

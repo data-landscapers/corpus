@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-10-ken-kassait-making-data-protection-a-national-conversation-was-my-key-achi",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Capital FM reports that Immaculate Kassait is the outgoing Data Commissioner after six years leading Kenya's Office of the Data Protection Commissioner.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner (ODPC)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The outgoing Data Commissioner says the ODPC assesses complaints, investigates alleged breaches and sets penalties by repeat offending, seriousness, number affected and remedy, and has issued guidance on artificial intelligence; no named decision or count is given.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner (ODPC)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

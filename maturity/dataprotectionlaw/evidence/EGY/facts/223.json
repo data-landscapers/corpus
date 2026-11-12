@@ -1,0 +1,47 @@
+{
+ "slug": "2026-11-11-egy-prosecution-launches-personal-data-protection-training",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Youm7 reports that the Public Prosecution's course covers the rules and offences of Egypt's Personal Data Protection Law 151 of 2020 and its executive regulations.",
+   "as_of": "2026-11-08",
+   "date_precision": "day",
+   "system": "Law 151/2020",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "Youm7 names the executive regulations of Law 151 of 2020 among the texts taught in the Public Prosecution course of 8-12 November 2026.",
+   "as_of": "2026-11-08",
+   "date_precision": "day",
+   "system": "Law 151/2020",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Youm7 reports that the Personal Data Protection Centre, with an acting chief executive, has 22 staff trained as judicial officers in the 8-12 November 2026 course.",
+   "as_of": "2026-11-08",
+   "date_precision": "day",
+   "system": "Personal Data Protection Centre",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "Youm7 reports a five-day Public Prosecution training course for 22 Personal Data Protection Centre staff on enforcing Law 151 of 2020, with no decision reported.",
+   "as_of": "2026-11-08",
+   "date_precision": "day",
+   "system": "Law 151/2020",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-01-cog-data-center-market-brief-republic-of-congo",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "passed",
+   "fact": "Xalam Analytics says Congo passed a data privacy law in 2019.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "data privacy law",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "Xalam Analytics says the establishment of a data commission was approved in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "data commission",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

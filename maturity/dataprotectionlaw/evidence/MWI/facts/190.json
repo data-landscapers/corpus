@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-01-mwi-provision-of-consultancy-services-for-the-development-of-a-court-case",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "MACRA's tender requires the court case management system to comply with the Malawi Data Protection Act (2024) and its experts to know how to implement it.",
+   "as_of": "2025-08-01",
+   "date_precision": "day",
+   "system": "Malawi Data Protection Act (2024)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
