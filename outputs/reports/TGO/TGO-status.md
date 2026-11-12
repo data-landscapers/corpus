@@ -1,12 +1,12 @@
 ---
 title: Togo: status report
-compiled: 2026-11-10
+compiled: 2026-11-12
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 267
+sources_cited: 269
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -224,7 +224,7 @@ A [decree of 26 December 2024, gazetted 23 April 2025, requires telecom operator
 ### Registries
 <!-- dpi.registry -->
 
-[Togo reports that more than 99% of its land titles have been digitised and that land procedures can be completed online](https://www.togofirst.com/en/economic-governance/1503-2766-togo-project-to-digitalize-land-titles-completed) (2022). [Only about 46,183 titles have ever been granted since colonial times, with customary tenure covering most of the country](https://landportal.org/book/narratives/2023/togo) (2023).
+[Togo reports that more than 99% of its land titles have been digitised and that land procedures can be completed online](https://www.togofirst.com/en/economic-governance/1503-2766-togo-project-to-digitalize-land-titles-completed) (2022). [Only about 46,183 titles have ever been granted since colonial times, with customary tenure covering most of the country](https://landportal.org/book/narratives/2023/togo) (2023). [The digitised land books were delivered in December 2025, and the land directorate stopped issuing manual titles](https://lomegazette.com/transformation-numerique-au-togo-lotr-et-le-pagdsp-saluent-lexcellence-operationnelle-de-cagecfi-et-sesa-technologies-lors-de-la-reception-des-livres-fonciers-numerises/). [A national land agency created in September 2025 received its first director general in October 2026](https://www.togofirst.com/fr/gouvernance-economique/1510-20352-foncier-apres-la-nomination-de-son-dg-l-andf-face-au-defi-de-son-operationnalisation).
 
 [A decree of 24 April 2023 sets up the social registry, held electronically](https://jo.gouv.tg/sites/default/files/JO/JOS_24_04_2023%20-%2068%20E%20ANNEE%20N%C2%B030%20BIS.pdf). [Each entry carries a person's identity number and a household number](https://jo.gouv.tg/sites/default/files/JO/JOS_24_04_2023%20-%2068%20E%20ANNEE%20N%C2%B030%20BIS.pdf). [The identity agency manages, maintains and verifies it](https://jo.gouv.tg/sites/default/files/JO/JOS_24_04_2023%20-%2068%20E%20ANNEE%20N%C2%B030%20BIS.pdf). [Administrations must base aid programmes on it and keep electronic beneficiary registers, and it is audited each year against the targeting rules](https://jo.gouv.tg/sites/default/files/JO/JOS_24_04_2023%20-%2068%20E%20ANNEE%20N%C2%B030%20BIS.pdf). [Coverage was effectively zero as at September 2024, against a target of half the population registered by December 2028](https://documents1.worldbank.org/curated/en/099103024111041029/pdf/P178835-e634417e-785f-4b55-bb2c-063c891f286b.pdf). It remains [partially deployed](https://anid.gouv.tg/en/personal-and-household-social-register-rspm/) (2025). [Novissi was targeted through the voter register and telephone records for want of a social registry](https://documents1.worldbank.org/curated/en/099092023102014635/pdf/P169171063a1b804c0b7d30b0be4505043e.pdf). [The voter register covered 93% of the population in 2020](https://documents.worldbank.org/curated/en/099092023102014635), and [more than 4.2 million voters were registered for the April 2024 elections](https://www.togofirst.com/fr/politique/0204-16058-elections-municipales-au-togo-la-revision-des-listes-electorales-debute-le-7-avril). [An external audit by the Francophonie in October 2023 judged the biometric roll reliable enough for the regional and legislative polls](https://togoscoop.tg/23015-2/).
 

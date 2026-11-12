@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: TGO
-ledger_rows: 26
+ledger_rows: 28
 not_held: 16
-record: ccacdd5f433a
+record: f53304456e23
 ---
 
 # News, Oct – Nov 2026
@@ -221,6 +221,20 @@ BCEAO said on 5 November 2026 that its PI-SPI instant payment platform had proce
 </div>
 
 ### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National land and domain agency (ANDF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Foncier : après la nomination de son DG, l'ANDF face au défi de son opérationnalisation](https://www.togofirst.com/fr/gouvernance-economique/1510-20352-foncier-apres-la-nomination-de-son-dg-l-andf-face-au-defi-de-son-operationnalisation)** — Togo First, 15 October 2026
+
+Land agency gets first DG (6 Oct 2026); Grand Lomé issues 35,000 parcel plans a year but about 550 titles.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -467,8 +481,26 @@ Togo's personal data protection authority (IPDCP) and the University of Kara sig
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#open-data">Open data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geospatial-data">Geospatial data</a>
 </nav>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open government data portal or policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Conditions Générales d'Utilisation — opendata.gouv.tg](https://opendata.gouv.tg/pages/legal/cgu)** — opendata.gouv.tg — Plateforme ouverte des données publiques togolaises (Agence Togo Digital), 11 November 2026
+
+The terms of use of Togo's open data platform, opendata.gouv.tg, make registration free. Published data is under an open licence unless stated otherwise. The page names no specific licence and carries no date (checked 11 November 2026).
+
+</div>
+
+</div>
 
 ### Geospatial data
 
