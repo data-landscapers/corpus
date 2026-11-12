@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-18-bwa-specialised-commercial-courts-in-offing",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Chief Registrar Beaulah Mguni told the Public Accounts Committee that the Court Record Management System is outdated and obsolete except in Gaborone, and that the department is procuring a service provider to expand it and to build the e-filing component, which is not operational.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Court Record Management System",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Court Record Management System",
+   "country_label": "Botswana",
+   "class": "justice",
+   "platform": "case records management",
+   "owner": "Administration of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

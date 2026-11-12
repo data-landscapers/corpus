@@ -2,12 +2,12 @@
 
 ## Justice
 
-**Case management in service.** Ghana's eJustice system is still being rolled out. [The Labari Journal reported in December 2025](<https://labarijournal.com/is-ghanas-3-million-ejustice-system-is-underdelivering/>) that it was meant to automate the court registry through to execution of decisions. An IMF governance report of 2024 said it had stalled. A 2022 Judicial Service document [put 61,000 cases on it](<https://labarijournal.com/is-ghanas-3-million-ejustice-system-is-underdelivering/>).
+**Case management in service.** [Ghana's e-justice system registers cases and allocates them to courts and judges](<https://3news.com/news/e-justice-ghanas-judiciary-leverages-dpi-to-enhance-justice-delivery>), 3News reported in February 2025. It also manages judges' calendars at the court registries. The Judicial Service put the cases filed on it at about 75,829 by January 2025. [The Labari Journal reported in December 2025 that it was still being rolled out](<https://labarijournal.com/is-ghanas-3-million-ejustice-system-is-underdelivering/>). An IMF governance report of 2024 said it had stalled.
 
-**Online filing.** No source since November 2023 says cases can be filed online. The nearest fact is [the eJustice rollout](<https://labarijournal.com/is-ghanas-3-million-ejustice-system-is-underdelivering/>). The World Bank funds the system, which is meant to automate filing at the court registry.
+**Online filing.** [Lawyers file cases and legal processes online through the e-justice platform](<https://3news.com/news/e-justice-ghanas-judiciary-leverages-dpi-to-enhance-justice-delivery>), 3News reported in February 2025. They need a Ghana Card to do so. [The system is meant to automate the court registry through to execution of decisions](<https://labarijournal.com/is-ghanas-3-million-ejustice-system-is-underdelivering/>).
 
-**Open online.** No source since November 2023 says judgments or case status are online. The nearest fact is [the same report](<https://labarijournal.com/is-ghanas-3-million-ejustice-system-is-underdelivering/>). The 2022 Judicial Service document counted over 61,000 cases on the system, up from 58,495.
+**Open online.** No source since November 2023 says judgments or case status are online. The nearest fact is [the e-justice platform](<https://3news.com/news/e-justice-ghanas-judiciary-leverages-dpi-to-enhance-justice-delivery>), which serves lawyers and the court registries. The World Bank's e-Transform project paid USD 3.3 million for it.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since November 2023 says a court case management system is in service in any court. A 2022 count of cases on eJustice is outside the window.
+***Not found***. No source found since November 2023 says judgments or case status are open to the public online.

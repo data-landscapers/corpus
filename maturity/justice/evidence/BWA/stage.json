@@ -9,10 +9,10 @@
       "public": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BWA-001",
-      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
-      "note": "The Industrial Court has developed an electronic case management system with a soft launch planned for mid-2026 (BWA-001), so it is being built. No source says it went live.",
-      "as_at": "2026-11-11"
+      "stage_sources": "BWA-001;BWA-002",
+      "gaps": "No source found since November 2023 shows a court case management system working in any court: the newest, March 2026, says the Case Management System was not working.",
+      "note": "Reassessed 2026-11-12, stays 2: the Gaborone record system (BWA-003, May 2025) is older than the March 2026 statement that the Case Management System was not working (BWA-002), and the newest stands. The Industrial Court's system is built but not launched (BWA-001).",
+      "as_at": "2026-11-12"
     }
   ]
 }

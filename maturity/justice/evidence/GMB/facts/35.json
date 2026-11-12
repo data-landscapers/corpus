@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-19-gmb-the-integrated-digital-case-management-system-consolidated-report-has",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The Judiciary of The Gambia said on 19 December 2025 that the EU-UNDP GREAT project supported validation of the Integrated Case Management System report, a joint initiative of the Judiciary, Ministry of Justice and Ministry of Interior.",
+   "as_of": "2025-12-19",
+   "date_precision": "day",
+   "system": "Integrated Digital Case Management System",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Digital Case Management System",
+   "country_label": "Gambia",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary, Ministry of Justice and Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

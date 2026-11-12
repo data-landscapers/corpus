@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "2",
-      "cases": "underway",
-      "filing": "",
+      "stage": "4",
+      "cases": "inservice",
+      "filing": "online",
       "public": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-001",
-      "gaps": "No source found since November 2023 says a court case management system is in service in any court. A 2022 count of cases on eJustice is outside the window.",
-      "note": "A December 2025 report says eJustice is still being rolled out and the IMF called it stalled (GHA-001), so it stands as under way. The 2022 case count (GHA-002) is outside the window and cannot show it in service now.",
-      "as_at": "2026-11-11"
+      "stage_sources": "GHA-003;GHA-004",
+      "gaps": "No source found since November 2023 says judgments or case status are open to the public online.",
+      "note": "Reassessed 2026-11-12, 2 to 4: the Judicial Service counted about 75,829 cases filed on e-justice by January 2025 (GHA-003), and lawyers file online through it (GHA-004). The December 2025 rollout report (GHA-001) does not say it stopped, and nothing says the public can look cases up.",
+      "as_at": "2026-11-12"
     }
   ]
 }

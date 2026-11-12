@@ -1,0 +1,36 @@
+{
+ "slug": "2023-11-23-zwe-plc-adverse-report-si-153-of-2023-high-court-amendment-rules",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The Parliamentary Legal Committee's report says the Judicial Service Commission's Integrated Electronic Case Management System, adopted in February 2022, is in use in the High Court and Superior Courts, but not yet in the Magistrates Courts.",
+   "as_of": "2023-11-23",
+   "date_precision": "day",
+   "system": "IECMS",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "Under Statutory Instrument 153 of 2023, High Court litigants file and serve pleadings, notices and orders electronically on the IECMS platform, which the committee reported as adverse.",
+   "as_of": "2023-08-25",
+   "date_precision": "day",
+   "system": "IECMS",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Electronic Case Management System (IECMS)",
+   "country_label": "IECMS",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judicial Service Commission",
+   "tiers": "High Court"
+  }
+ ],
+ "note": ""
+}

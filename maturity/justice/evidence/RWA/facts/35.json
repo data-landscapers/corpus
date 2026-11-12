@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-rwa-enhancing-legal-practice-through-iecms-cja-staff-and-pro-bono-lawyers",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Certa Foundation says the updated Integrated Electronic Case Management System (IECMS) manages cases from investigation to execution, with case tracking and a block on duplicate registrations.",
+   "as_of": "2025-01-23",
+   "date_precision": "day",
+   "system": "IECMS",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "Certa Foundation says lawyers trained on 23 January 2025 create IECMS accounts and file civil and criminal cases and submit documents digitally.",
+   "as_of": "2025-01-23",
+   "date_precision": "day",
+   "system": "IECMS",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Electronic Case Management System (IECMS)",
+   "country_label": "IECMS",
+   "class": "justice",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

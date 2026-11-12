@@ -2,7 +2,7 @@
 
 ## Justice
 
-**Case management in service.** Chad is piloting a digital exchange platform for its courts. [The Ministry of Justice and UNDP launched it](<https://tribuneechos.com/e-justice-tchad-le-ministere-de-la-justice-lance-une-plateforme-dechange-numerique/>) in October 2025, with N'Djamena as the pilot court. It links litigants, lawyers and the judicial system. It is to hold a database of judicial activity. UNDP's systems consultant presented it to ministry staff.
+**Case management in service.** Chad is piloting a digital exchange platform for its courts. [The Ministry of Justice and UNDP launched it](<https://tribuneechos.com/e-justice-tchad-le-ministere-de-la-justice-lance-une-plateforme-dechange-numerique/>) in October 2025, with N'Djamena as the pilot court. It links litigants, lawyers and the judicial system. It is to hold a database of judicial activity. [A UNDP report says it sought a firm to build the platform in June 2024](<https://undpngddlsprod01.blob.core.windows.net/pdc/00105936-PPMR%C3%A9alisations_rapport.PDF>).
 
 **Online filing.** No source since November 2023 says cases can be filed online. The nearest fact is [the pilot platform](<https://tribuneechos.com/e-justice-tchad-le-ministere-de-la-justice-lance-une-plateforme-dechange-numerique/>). The platform has a public extranet and an intranet for court staff. Lawyers are among its intended users.
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-10-dza-reforme-judiciaire-la-numerisation-au-cur-de-la-modernisation-de-la-ju",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The president of the Cour d'Alger said on 10 November 2025 that, on Ministry of Justice instruction, the court has begun implementing an electronic exchange system for requests and documents in civil cases, a first step.",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "Electronic exchange of civil requests and documents",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic exchange of civil requests and documents",
+   "country_label": "Algeria",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": "Cour d'Alger"
+  }
+ ],
+ "note": ""
+}

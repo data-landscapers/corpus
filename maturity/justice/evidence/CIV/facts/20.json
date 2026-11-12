@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-20-civ-16-nouvelles-juridictions-connectees-a-la-plateforme-e-justice-ci",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-justice.ci",
+   "country_label": "Cote d'Ivoire (e-justice.ci)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": "28 courts of first instance connected"
+  }
+ ],
+ "note": "e-justice.ci issues judicial records and nationality certificates online; case management, filing of cases or case status is not stated."
+}

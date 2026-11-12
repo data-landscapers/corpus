@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "2",
-      "cases": "underway",
+      "stage": "3",
+      "cases": "inservice",
       "filing": "",
       "public": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-001",
-      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
-      "note": "The African Development Bank notice of September 2025 is for a contract to build an e-Justice portal and business application (TUN-001), so it is being procured. The 2023 Jshare pilot is outside the window.",
-      "as_at": "2026-11-11"
+      "stage_sources": "TUN-003",
+      "gaps": "No source found since November 2023 says lawyers or litigants can file with the courts online.",
+      "note": "Reassessed 2026-11-12, 2 to 3: the Administrative Tribunal's Selim system covers all its chambers and every phase of procedure (TUN-003, November 2026), so case management is in service in one jurisdiction. Nothing says cases are filed online, so not 4.",
+      "as_at": "2026-11-12"
     }
   ]
 }

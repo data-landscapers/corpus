@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-01-mwi-provision-of-consultancy-services-for-the-development-of-a-court-case",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "MACRA, at the High Court Zomba District Registry's request, issued an expression of interest for consultants to develop a court case management system, to be piloted at the registry before adoption, with e-filing, scheduling, case tracking and a public portal in scope.",
+   "as_of": "2025-08-01",
+   "date_precision": "day",
+   "system": "Court Case Management System for the Zomba High Court",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "none",
+   "fact": "The tender states that all court records are currently managed manually and that an earlier automation effort relying on servers at the Blantyre Principal Registry was unsuccessful.",
+   "as_of": "2025-08-01",
+   "date_precision": "day",
+   "system": "Court records at the Zomba High Court",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Court Case Management System for the Zomba High Court",
+   "country_label": "Malawi",
+   "class": "justice",
+   "platform": "",
+   "owner": "High Court Zomba District Registry; MACRA procuring",
+   "tiers": "High Court"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-28-nga-nigeria-federal-high-court-launches-e-filing-system-in-lagos",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Judicial IT Policy Committee chair Kashim Zannah said Borno, Bayelsa, Delta, Niger and Taraba state judiciaries had already adopted similar electronic systems, and that Borno's court documents were kept safe in the cloud through the 2024 Maiduguri flood.",
+   "as_of": "2026-04-27",
+   "date_precision": "day",
+   "system": "state judiciary e-filing systems",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "Federal High Court Chief Judge John Tsoho said the court launched its electronic filing system in the Lagos Division, where litigants can file from any location with internet access and fees go through integrated gateways.",
+   "as_of": "2026-04-27",
+   "date_precision": "day",
+   "system": "Federal High Court e-filing system",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Federal High Court e-filing system",
+   "country_label": "Nigeria",
+   "class": "justice",
+   "platform": "electronic filing with e-Affidavit platform",
+   "owner": "Federal High Court",
+   "tiers": "Lagos Division"
+  }
+ ],
+ "note": ""
+}

@@ -77,3 +77,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,ZWE,dpi.mis--justice,review,5,5,ZWE-004;ZWE-003,"Rebuild: The IECMS runs in the Constitutional, Supreme, Labour and High Courts (ZWE-001), litigants and practitioners file on it (ZWE-003), and court users can track their cases (ZWE-004). Every step is met, so stage 5."
 2026-11-11,MUS,dpi.mis--justice,ladder,3,4,MUS-005;MUS-001,"Bill's ruling, message 123"
 2026-11-11,MAR,dpi.mis--justice,ladder,4,5,MAR-003;MAR-007;MAR-005,"Bill's ruling, message 123"
+2026-11-12,BWA,dpi.mis--justice,fact,2,2,BWA-001;BWA-002,"Two arrivals: the Case Management System not working in March 2026 and the Gaborone record system of 2025; the newest stands, stays 2"
+2026-11-12,DZA,dpi.mis--justice,fact,3,5,DZA-002;DZA-003;DZA-001,Electronic exchange of civil briefs compulsory for lawyers from January 2026 answers question 3; the window's judgments answer 4
+2026-11-12,EGY,dpi.mis--justice,fact,3,4,EGY-001;EGY-002;EGY-004,A disciplinary suit filed fully electronically under the Council of State's e-litigation pilot answers question 3
+2026-11-12,GHA,dpi.mis--justice,fact,2,4,GHA-003;GHA-004,"About 75,829 cases on e-justice by January 2025 and lawyers filing online answer questions 2 and 3"
+2026-11-12,TUN,dpi.mis--justice,fact,2,3,TUN-003,The Administrative Tribunal's Selim system in all its chambers answers question 2

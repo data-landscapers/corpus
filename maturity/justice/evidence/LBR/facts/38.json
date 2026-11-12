@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-lbr-vacancy-announcement-electronic-case-management-system-ecms-administra",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The Judiciary of Liberia's vacancy notice says it is implementing and deploying an Electronic Case Management System that will streamline case filing, tracking and management for all courts.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Electronic Case Management System (ECMS)",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ECMS",
+   "country_label": "Electronic Case Management System",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

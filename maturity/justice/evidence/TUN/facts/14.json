@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-30-tun-justice-budget-digitalisation-court-delays-and-enforcement-of-rulings",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "News Tunisia reports the Provisional Supreme Council of the Judiciary's first vice-president said on 29 October 2026 that the programme to digitise the Administrative Court's services had begun in part.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Administrative Court digitisation programme",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Administrative Court digitisation programme",
+   "country_label": "Tunisia",
+   "class": "justice",
+   "platform": "",
+   "owner": "Administrative Court",
+   "tiers": "advisory services fully digitised"
+  }
+ ],
+ "note": ""
+}

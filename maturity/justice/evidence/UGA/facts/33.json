@@ -1,0 +1,46 @@
+{
+ "slug": "2026-03-26-uga-judiciary-goes-paperless-rolls-out-ai-systems",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The Observer reports that the judiciary's Electronic Court Case Management Information System (ECCMIS) is in use, with courts operating largely on digital systems and a 1 July 2026 paperless deadline set by the Chief Justice's circular.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "ECCMIS",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "The Observer reports that through ECCMIS lawyers and litigants can file cases and pleadings, submit documents and request hearing dates online, per the High Court deputy registrar.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "ECCMIS",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "public",
+   "value": "open",
+   "fact": "The Observer reports that ULII hosts more than 41,000 decisions from the High Court, Court of Appeal, Supreme Court and tribunals, searchable online, with 350,000 users a month.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "ULII",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ECCMIS",
+   "country_label": "Electronic Court Case Management Information System",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

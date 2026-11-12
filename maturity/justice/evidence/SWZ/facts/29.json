@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-swz-court-services",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The Judiciary of Eswatini says it is implementing the Integrated Electronic Case Management System (IECMS) across all courts.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Integrated Electronic Case Management System (IECMS)",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "public",
+   "value": "open",
+   "fact": "The Judiciary of Eswatini says notable recent court decisions are published with links to full text on the Eswatini Legal Information Institute.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Eswatini Legal Information Institute",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IECMS",
+   "country_label": "SWZ",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Eswatini",
+   "tiers": "all courts"
+  }
+ ],
+ "note": ""
+}

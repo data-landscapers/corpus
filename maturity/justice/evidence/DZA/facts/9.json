@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-18-dza-justice-numerique-l-echange-electronique-des-documents-et-le-paiement",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "Fildalgerie reports that the Ministry of Justice is making electronic exchange of civil requests and reply briefs exclusive for lawyers at the Cours de justice from 18 January 2026, after wide uptake by lawyers.",
+   "as_of": "2025-12-18",
+   "date_precision": "day",
+   "system": "Electronic exchange of requests and briefs (civil, Cours de justice)",
+   "class": "justice"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

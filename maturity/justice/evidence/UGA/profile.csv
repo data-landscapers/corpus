@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,justice,cases,coverage,inservice,2026-10-26,UGA-001;UGA-003;UGA-004;UGA-005;UGA-006;UGA-007;UGA-010,,
-UGA,justice,filing,coverage,online,2026-06,UGA-002;UGA-008,,
-UGA,justice,public,coverage,open,2026-06,UGA-009,,
+UGA,justice,cases,coverage,inservice,2026-10-26,UGA-001;UGA-003;UGA-004;UGA-005;UGA-006;UGA-007;UGA-010;UGA-011;UGA-014;UGA-018,UGA-017=underway,
+UGA,justice,filing,coverage,online,2026-06,UGA-002;UGA-008;UGA-012;UGA-015;UGA-019,,
+UGA,justice,public,coverage,open,2026-06,UGA-009;UGA-013;UGA-016,,

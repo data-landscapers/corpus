@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-19-gha-e-justice-ghana-s-judiciary-leverages-dpi-to-enhance-justice-delivery",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Ghana's e-justice system, a USD 3.3 million part of the World Bank-funded e-Transform project, registers cases, allocates them to courts and judges and manages judges' calendars at court registries, with about 75,829 cases filed as of January 2025 per the Judicial Service, per 3News.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "e-Justice",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "Lawyers file cases and legal processes online through the e-justice platform, with the Ghana Card required, per 3News.",
+   "as_of": "2025-02-19",
+   "date_precision": "day",
+   "system": "e-Justice",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Justice",
+   "country_label": "Ghana",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judicial Service of Ghana",
+   "tiers": "registries of the higher courts; Greater Accra"
+  }
+ ],
+ "note": ""
+}

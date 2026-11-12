@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "3",
+      "stage": "5",
       "cases": "inservice",
-      "filing": "",
-      "public": "",
+      "filing": "online",
+      "public": "open",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-002",
-      "gaps": "No source found since November 2023 says lawyers or litigants can file with the courts online. The national electronic window opens administrative case tracking and judgments online, which counts only once online filing is shown.",
-      "note": "The national electronic window lets parties follow their cases from any administrative court (DZA-002), so the administrative courts manage cases electronically. Each step must be met: no source says cases can be filed online, so case tracking and judgments online (DZA-001) cannot lift it to stage 5.",
-      "as_at": "2026-11-11"
+      "stage_sources": "DZA-002;DZA-003;DZA-001",
+      "gaps": "",
+      "note": "Reassessed 2026-11-12, 3 to 5: electronic exchange of civil requests and briefs is compulsory for lawyers at the courts of justice from January 2026 (DZA-003), a yes to question 3. The national window's case tracking and judgments (DZA-001) then answer 4.",
+      "as_at": "2026-11-12"
     }
   ]
 }

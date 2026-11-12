@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-10-mar-evaluation-actuelle-du-tribunal-numerique-au-maroc",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Village de la Justice says ICT give Moroccan magistrates and clerks instant access to files and real-time tracking, with the Ministry of Justice's mahakim.ma as the main e-justice platform.",
+   "as_of": "2024-10-10",
+   "date_precision": "day",
+   "system": "mahakim.ma",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "public",
+   "value": "open",
+   "fact": "Village de la Justice says the Ministry of Justice's mahakim.ma app lets citizens follow the processing of their cases remotely.",
+   "as_of": "2024-10-10",
+   "date_precision": "day",
+   "system": "mahakim.ma",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mahakim.ma",
+   "country_label": "Morocco",
+   "class": "justice",
+   "platform": "web portal and app",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

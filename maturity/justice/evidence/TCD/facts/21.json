@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-tcd-projet-d-appui-au-renforcement-des-institutions-de-la-chaine-penale-20",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "UNDP Chad's report says UNDP launched a tender on 5 June 2024 for a firm to build a platform between litigants, lawyers and the judicial system, for online complaints and requests, case notifications and document filing, with bids then before the RACP.",
+   "as_of": "2024-06-05",
+   "date_precision": "day",
+   "system": "Justice ministry litigant-lawyer-court exchange platform",
+   "class": "justice"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

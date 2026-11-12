@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-02-mwi-major-information-communications-technology-ict-and-digitilization-dev",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The Malawi Judiciary's ICT Department reported on 2 February 2024 that its in-house Case Management Statistics System, 90% developed, was installed in a pilot phase in ten magistrate courts, with later deployment to all district magistrate courts.",
+   "as_of": "2024-02-02",
+   "date_precision": "day",
+   "system": "Case Management Statistics System",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Case Management Statistics System",
+   "country_label": "Malawi",
+   "class": "justice",
+   "platform": "",
+   "owner": "Malawi Judiciary ICT Department",
+   "tiers": "magistrate courts"
+  }
+ ],
+ "note": ""
+}

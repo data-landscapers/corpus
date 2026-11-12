@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-sen-senegal-633-equipements-pour-la-justice-numerique",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "APAnews reports that the justice ministry equipped courts and central services with 633 computers, scanners and printers to support the deployment of the e-Justice platform for processing, tracking and digitising case files, with Dakar's appeal court area getting 278 items and Thies 191.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "e-Justice platform",
+   "class": "justice"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

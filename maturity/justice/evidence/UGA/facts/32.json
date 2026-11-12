@@ -1,0 +1,46 @@
+{
+ "slug": "2026-05-18-uga-mbarara-high-court-ushers-in-digital-transformation-as-eccmis-goes-liv",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Kalisho Info reports that Uganda's Judiciary rolled out the Electronic Court Case Management Information System (ECCMIS) across the Cluster Eight courts of the Mbarara High Court Circuit on 18 May 2026, after a national launch in 2022 and earlier clusters.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "ECCMIS",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "Kalisho Info reports that ECCMIS lets litigants and lawyers file documents electronically through a public portal.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "ECCMIS",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "public",
+   "value": "open",
+   "fact": "Kalisho Info reports that ECCMIS gives real-time case status updates and the public portal gives access to case information across all jurisdictions.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "ECCMIS",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Court Case Management Information System (ECCMIS)",
+   "country_label": "ECCMIS",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

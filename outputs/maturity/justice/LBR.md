@@ -2,7 +2,7 @@
 
 ## Justice
 
-**Case management in service.** Liberia plans a case system for its circuit courts. [The Finance Minister said in July 2026](<https://informernewspaperliberia.com/ngafuan-hails-sovereign-ownership-of-pmtp-as-govt-funds-90-of-magistrate-training/>) that the Judiciary's 2026-2030 Strategic Plan puts an electronic case management system in all of them. The Judiciary's budget rose by 80% to US$33.3 million in 2026. Part of it goes to digitising legal records. The plan was newly drafted in 2026.
+**Case management in service.** Liberia plans a case system for its circuit courts. [The Finance Minister said in July 2026](<https://informernewspaperliberia.com/ngafuan-hails-sovereign-ownership-of-pmtp-as-govt-funds-90-of-magistrate-training/>) that the Judiciary's 2026-2030 Strategic Plan puts an electronic case management system in all of them. The Judiciary's budget rose by 80% to US$33.3 million in 2026. Part of it goes to digitising legal records. [A May 2025 Judiciary vacancy notice said it was deploying an electronic case system for all courts](<http://judiciary.gov.lr/wp-content/uploads/2025/05/ICT-Vacancy-Announcement.pdf>).
 
 **Online filing.** No source since November 2023 says cases can be filed online. [The same plan brings in e-filing](<https://informernewspaperliberia.com/ngafuan-hails-sovereign-ownership-of-pmtp-as-govt-funds-90-of-magistrate-training/>) and virtual hearings. The Finance Minister pledged continued government backing for the plan.
 

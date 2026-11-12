@@ -2,7 +2,7 @@
 
 ## Justice
 
-**Case management in service.** Mali is putting its e-Justice platform into operation. [The Ministry of Justice said in July 2026](<http://news.abamako.com/h/305410.html>) that its first services are nationality certificates and criminal records. A second phase is to manage judicial files. On 5 November 2026 [UNDP handed over equipment worth USD 493,193](<https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html>) to run it. The equipment comprised laptops, tablets and modems.
+**Case management in service.** Mali is putting its e-Justice platform into operation. [The Ministry of Justice said in July 2026](<http://news.abamako.com/h/305410.html>) that its first services are nationality certificates and criminal records. A second phase is to manage judicial files. On 5 November 2026 [UNDP handed over equipment worth USD 493,193](<https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html>) to run it. [In February 2026 the minister said an integrated case system was in pilot, with eight courts already linked](<https://lesoirdebamako.com/2026/02/11/semaine-nationale-de-la-justice-la-delivrance-digitale-du-casier-judiciaire-et-du-certificat-de-nationalite-lancee-hier/>).
 
 **Online filing.** No source since November 2023 says cases can be filed online. [The minister said in November 2026](<https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html>) that case processing comes later. The platform was built by Malian teams, and users were trained in July 2026.
 

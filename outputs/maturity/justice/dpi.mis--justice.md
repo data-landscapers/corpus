@@ -1,6 +1,6 @@
 # Justice: justice
 
-*As at 2026-11-11.*
+*As at 2026-11-12.*
 
 ## The norm
 
@@ -20,15 +20,23 @@ The African Commission's Fair Trial Principles ask for systems recording proceed
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
-| 4 Operating | 4 |
-| 3 Established | 8 |
-| 2 Nascent | 22 |
+| 5 Leading | 7 |
+| 4 Operating | 6 |
+| 3 Established | 7 |
+| 2 Nascent | 20 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
 | No evidence | 10 |
 
 ## Countries
+
+### Algeria: 5 Leading
+
+Algerian lawyers filed civil briefs online from 2026, and administrative court parties could track cases and read judgments online.
+
+- The Minister of Justice said on 22 September 2026 that the national electronic window lets litigants and their lawyers follow the progress of their cases from any administrative court or administrative court of appeal in the country ([source, 2026-09-22](https://www.lejourdalgerie.com/extension-des-services-du-guichet-electronique-national-aux-cours-administratives-dappel-et-au-conseil-detat/)).
+- Fildalgerie reports that the Ministry of Justice is making electronic exchange of civil requests and reply briefs exclusive for lawyers at the Cours de justice from 18 January 2026, after wide uptake by lawyers ([source, 2025-12-18](https://fildalgerie.dz/justice-numerique-lechange-electronique-des-documents-et-le-paiement-en-ligne-obligatoires-des-janvier-2026/)).
+- Algeria's Minister of Justice announced on 22 September 2026 that the national electronic window for administrative jurisdictions now covers the administrative courts of appeal and the Council of State, letting litigants and their lawyers consult and track their cases and read the operative parts of judgments and decisions online from any administrative jurisdiction ([source, 2026-09-22](https://www.lejourdalgerie.com/extension-des-services-du-guichet-electronique-national-aux-cours-administratives-dappel-et-au-conseil-detat/)).
 
 ### Kenya: 5 Leading
 
@@ -73,6 +81,21 @@ The higher courts ran an electronic case system in 2026, with online filing and 
 - The Minister says IECMS incorporates case tracking for litigants, and the JSC says court users can monitor cases electronically ([source, 2026-09-26](https://www.heraldonline.co.zw/electronic-case-management-system-iecms-brings-justice-closer-to-gweru-residents/)).
 - The Minister of State for Midlands and the JSC say IECMS includes electronic filing so litigants and legal practitioners can file documents electronically, with e-filing offices and internet hubs set up to help users ([source, 2026-09-26](https://www.heraldonline.co.zw/electronic-case-management-system-iecms-brings-justice-closer-to-gweru-residents/)).
 
+### Egypt: 4 Operating
+
+Egyptian courts served digital case files in 2026, and a disciplinary court took suits filed online; whether judgments are public online is not known.
+
+- Ministry of Justice technical office head Wadie Hanna Nashed said a lawyers' platform gives digital PDF copies of court case files sent electronically, free hearing-date enquiries and SMS notice of court decisions ([source, 2026-09-14](https://www.youm7.com/story/2026/9/14/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B6%D9%8A-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8B%D8%A7-%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF/7546339)).
+- Al Manassa reports the Ministry of Justice launched the E-Court platform on 31 August 2026, with a lawyers' services platform for first-instance criminal courts giving certified digital case-file copies, online fee payment and SMS of hearing decisions and dates ([source, 2026-08-31](https://manassa.news/en/news/33836)).
+- A link between the Health Disciplinary Court and the Administrative Prosecution Authority lets a disciplinary suit be filed fully electronically, with documents attached, and hearing dates and judgments notified ([source, 2026-11-08](https://www.youm7.com/story/2026/11/8/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%B3%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7610749)).
+
+### Ghana: 4 Operating
+
+Ghana's e-justice system held about 75,829 cases by 2025 and lawyers filed online; whether judgments or case status are public online is not known.
+
+- Ghana's e-justice system, a USD 3.3 million part of the World Bank-funded e-Transform project, registers cases, allocates them to courts and judges and manages judges' calendars at court registries, with about 75,829 cases filed as of January 2025 per the Judicial Service, per 3News ([source, 2025-01](https://3news.com/news/e-justice-ghanas-judiciary-leverages-dpi-to-enhance-justice-delivery)).
+- Lawyers file cases and legal processes online through the e-justice platform, with the Ghana Card required, per 3News ([source, 2025-02-19](https://3news.com/news/e-justice-ghanas-judiciary-leverages-dpi-to-enhance-justice-delivery)).
+
 ### Mauritius: 4 Operating
 
 Attorneys filed online at the Commercial Division and the Children's Court had a case system in 2025; public online access is not on record.
@@ -101,12 +124,6 @@ Nineteen High Courts ran an online case system with e-filing in 2025; public cas
 - The directive requires process to be uploaded for issuing on Court Online and supporting documents uploaded once the case number is allocated, by legal practitioners and litigants ([source, 2026-06](https://www.judiciary.org.za/images/Directives/Directives_2026/KZN%20Court%20Online%20Directives%20(Final%20June%202026).pdf)).
 - Nel said Court Online, now live for the Eastern Cape High Court, is powered by Microsoft for e-filing and case management ([source, 2025-07-16](https://justice.gov.za/m_speeches/2025/20250716-CourtOnline-DMin.html)).
 
-### Algeria: 3 Established
-
-Administrative courts let parties track cases online in 2026; online filing is not on record.
-
-- The Minister of Justice said on 22 September 2026 that the national electronic window lets litigants and their lawyers follow the progress of their cases from any administrative court or administrative court of appeal in the country ([source, 2026-09-22](https://www.lejourdalgerie.com/extension-des-services-du-guichet-electronique-national-aux-cours-administratives-dappel-et-au-conseil-detat/)).
-
 ### Cape Verde: 3 Established
 
 Some courts handled cases electronically in 2024, though use was limited; online filing is not on record.
@@ -118,13 +135,6 @@ Some courts handled cases electronically in 2024, though use was limited; online
 Courts had a case management system by 2024; online filing is not on record.
 
 - UNDP says SIGAJ, a system for managing judicial cases, was among four digital systems introduced in DRC's justice sector over 2020-2024 ([source, 2024](https://www.undp.org/fr/drcongo/actualites/transition-de-la-justice-congolaise-lalliance-onu-suede-au-service-de-letat-de-droit)).
-
-### Egypt: 3 Established
-
-Criminal courts served digital case files in 2026; online filing is not on record.
-
-- Ministry of Justice technical office head Wadie Hanna Nashed said a lawyers' platform gives digital PDF copies of court case files sent electronically, free hearing-date enquiries and SMS notice of court decisions ([source, 2026-09-14](https://www.youm7.com/story/2026/9/14/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B6%D9%8A-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8B%D8%A7-%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF/7546339)).
-- Al Manassa reports the Ministry of Justice launched the E-Court platform on 31 August 2026, with a lawyers' services platform for first-instance criminal courts giving certified digital case-file copies, online fee payment and SMS of hearing decisions and dates ([source, 2026-08-31](https://manassa.news/en/news/33836)).
 
 ### Madagascar: 3 Established
 
@@ -152,6 +162,12 @@ A justice-sector case system linking courts was launched in 2025; online filing 
 
 - Goobjoog reports the Federal Government launched the Justice Sector Integrated Electronic Case Management System (IECMS) in Mogadishu on 9 October 2025, linking the CID, the Office of the Prosecutor, the courts and the prison service in one electronic workflow that officials say replaces the paper-based process ([source, 2025-10-09](https://en.goobjoog.com/somalia-launches-digital-case-management-system-to-modernize-justice-sector/)).
 
+### Tunisia: 3 Established
+
+Tunisia's Administrative Tribunal ran its hearings and procedure on the Selim e-justice system in 2026; whether cases can be filed online is not known.
+
+- La Presse, citing an Administrative Tribunal communique, reports the tribunal's central first-instance chambers held their first hearings on the Selim e-justice system, which is stated generalised to all chambers and all phases of procedure after regional chambers were digitised ([source, 2026-11-04](https://www.lapresse.tn/2026/11/04/justice-le-tribunal-administratif-passe-a-laudience-electronique-avec-le-systeme-selim/)).
+
 ### Angola: 2 Nascent
 
 A court case system was being built in 2025; none in service is on record.
@@ -166,9 +182,10 @@ An e-justice system was at feasibility study in 2024; whether courts manage case
 
 ### Botswana: 2 Nascent
 
-The Industrial Court built a case system for launch in 2026; whether it went live is not on record.
+Botswana's court case system was not working in March 2026, and the Industrial Court's had not launched; whether any court uses one is not known.
 
 - Minister of Justice Nelson Ramaotwana told Parliament in the 2026/27 budget debate that the Industrial Court had developed an electronic Case Management System to digitise operations, with a soft launch planned within Q1 2026/27 after procurement of necessary software ([source, 2026-03-16](https://allafrica.com/stories/202603170027.html)).
+- The Botswana Gazette reports the Ministry of Justice and Correctional Services told the Committee of Supply in March 2026 that the Case Management System, designed for case registration and status checks, had not been operational due to system errors ([source, 2026-03](https://www.thegazette.news/news/paper-shortage-crisis-hits-courts/)).
 
 ### Burkina Faso: 2 Nascent
 
@@ -229,12 +246,6 @@ The court case system was still a pilot in 2026; whether courts run cases on it 
 - The Chief Justice said at the 2026 Legal Year opening that donor funding suspension slowed expansion of the judiciary's electronic case management system, whose implementation he looks forward to ([source, 2026-01-28](https://thepoint.gm/africa/gambia/headlines/judiciary-still-faces-shortage-of-courtrooms-and-office-space)).
 - The Office of the Chief Justice said the electronic Case Management System developed with ABA ROLI support is in its pilot phase; online payment of court fees is expected ([source, 2024-08-22](https://thepoint.gm/africa/gambia/headlines/judiciary-receives-vital-support-from-usaid)).
 
-### Ghana: 2 Nascent
-
-The court case system was still being rolled out in 2025; whether it is in service now is not on record.
-
-- The Labari Journal reports that Ghana's World Bank-funded eJustice system, meant to automate court registry filing through to execution of decisions, is still being rolled out and an IMF 2024 governance report says it has "stalled" ([source, 2025-12-01](https://labarijournal.com/is-ghanas-3-million-ejustice-system-is-underdelivering/)).
-
 ### Guinea: 2 Nascent
 
 A system for the Conakry commercial court was commissioned in 2026; none in service is on record.
@@ -280,12 +291,6 @@ Electronic court case processing was being built in 2024; none in service is on 
 Lawyers filed submissions online from 2025, but no court case management system in service is on record.
 
 - The Judiciary said on 26 November 2025 that the e-Service Platform is phase one of a phased digital rollout, with further services to integrate digital tools into judicial administration to follow ([source, 2025-11-26](https://www.judiciary.sc/news/judiciary-launches-new-e-service-platform-to-streamline-access-to-justice/)).
-
-### Tunisia: 2 Nascent
-
-An e-justice system was being procured in 2025; none in service is on record.
-
-- The African Development Bank notice says Tunisia intends to use loan funds for a contract to set up an e-Justice services portal and a business application for the Ministry of Justice ([source, 2025-09-18](https://www.afdb.org/en/documents/aoi-tunisie-mise-en-place-dun-portail-de-services-e-justice-et-dune-application-metier-du-ministere-de-la-justice-tunisie-digitale-2020)).
 
 ### Zambia: 2 Nascent
 

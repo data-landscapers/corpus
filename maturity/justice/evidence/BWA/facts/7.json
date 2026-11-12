@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-13-bwa-paper-shortage-crisis-hits-courts",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "none",
+   "fact": "The Botswana Gazette reports the Ministry of Justice and Correctional Services told the Committee of Supply in March 2026 that the Case Management System, designed for case registration and status checks, had not been operational due to system errors.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Case Management System (CMS)",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Case Management System (CMS)",
+   "country_label": "Botswana",
+   "class": "justice",
+   "platform": "case management",
+   "owner": "Administration of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

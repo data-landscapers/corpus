@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "3",
+      "stage": "4",
       "cases": "inservice",
-      "filing": "",
+      "filing": "online",
       "public": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-001;EGY-002",
-      "gaps": "No source found since November 2023 says lawyers or litigants can file with the courts online.",
-      "note": "The E-Court platform launched in August 2026 serves certified digital copies of case files and hearing decisions by SMS (EGY-001, EGY-002), so case management is in service in the criminal courts. Nothing says lawyers can file cases online.",
-      "as_at": "2026-11-11"
+      "stage_sources": "EGY-001;EGY-002;EGY-004",
+      "gaps": "No source found since November 2023 says judgments or case status are open to the public online.",
+      "note": "Reassessed 2026-11-12, 3 to 4: under the Council of State's e-litigation pilot a disciplinary suit is filed fully electronically at the Health Disciplinary Court (EGY-004, November 2026), a yes to question 3. Hearing dates reach lawyers only, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

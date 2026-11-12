@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-EGY,justice,cases,coverage,inservice,2026-09-14,EGY-001;EGY-002,,
-EGY,justice,filing,coverage,,,,,nothing held
-EGY,justice,public,coverage,,,,,nothing held
+EGY,justice,cases,coverage,inservice,2026-11-08,EGY-001;EGY-002;EGY-003,,
+EGY,justice,filing,coverage,online,2026-11-08,EGY-004,,
+EGY,justice,public,coverage,,,,,nothing found

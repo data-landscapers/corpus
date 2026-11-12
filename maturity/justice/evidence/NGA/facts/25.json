@@ -1,0 +1,62 @@
+{
+ "slug": "2026-04-23-nga-from-analogue-to-digital-the-judiciary-s-slow-but-steady-push",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The Nigerian Case Management System was introduced at the Supreme Court in 2012 and, per the Chief Justice in the 2025/2026 legal year, is being progressively adopted as an official nationwide platform developed under the National Judicial Council.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Nigerian Case Management System (NCMS)",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The Chief Justice says all backlog cases in the High Courts are being uploaded into the NCMS, and the Supreme Court is moving to e-filing integrated with it, with a module still being developed and no launch date.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Nigerian Case Management System (NCMS)",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "The Federal High Court said manual filing of new cases in its Lagos Division ends April 24 and the e-filing platform becomes operational from April 27, with all new filings exclusively electronic.",
+   "as_of": "2026-04-27",
+   "date_precision": "day",
+   "system": "Federal High Court e-filing platform",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigerian Case Management System (NCMS)",
+   "country_label": "Nigeria",
+   "class": "justice",
+   "platform": "",
+   "owner": "National Judicial Council",
+   "tiers": "Supreme Court, Court of Appeal, High Courts"
+  },
+  {
+   "system": "Federal High Court e-filing platform",
+   "country_label": "Nigeria",
+   "class": "justice",
+   "platform": "",
+   "owner": "Federal High Court",
+   "tiers": "Federal High Court, Lagos Division"
+  },
+  {
+   "system": "Nigerian Legal Email System (NILES)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Supreme Court",
+   "tiers": "Supreme Court"
+  }
+ ],
+ "note": ""
+}
