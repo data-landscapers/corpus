@@ -1,12 +1,12 @@
 ---
 title: Cape Verde: status report
-compiled: 2026-11-06
+compiled: 2026-11-12
 place: CPV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 230
+sources_cited: 232
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -196,7 +196,7 @@ For households the digital channels are real but narrow. [A-Pay, certified by SI
 ### Registries
 <!-- dpi.registry -->
 
-Cabo Verde's digital land register [runs on Sal, Boavista, Maio and the rural area of São Vicente](https://www.mf.gov.cv/documents/20126/0/TDR+TA+LMITS_ingfinal.pdf/03dfd947-4990-a9f8-5927-71919b6352bd) (2022). It operates under the [Regime Jurídico do Cadastro Predial, reformed in March 2024, which gives every cadastred property a unique identification number](https://boe.incv.cv/Bulletins/Download/5659).
+[In 2022 Cabo Verde's digital land register ran on Sal, Boavista, Maio and the rural area of São Vicente](https://www.mf.gov.cv/documents/20126/0/TDR+TA+LMITS_ingfinal.pdf/03dfd947-4990-a9f8-5927-71919b6352bd). [A joint order of March 2025 declared all of São Vicente a cadastred area, making land registration compulsory there](https://boe.incv.cv/Bulletins/DownloadAct?id=74399). [In October 2026 the government put national cadastral coverage at about 33 per cent, as cadastre work resumed on Santiago](https://www.inforpress.cv/en/article-11888). It operates under the [Regime Jurídico do Cadastro Predial, reformed in March 2024, which gives every cadastred property a unique identification number](https://boe.incv.cv/Bulletins/Download/5659).
 
 [Birth registration stands at roughly 99 per cent, driven by the link between the civil register and the identity system](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration) (2026). The country takes [a maximum 100.0 on the 2024 Ibrahim Index measure of civil registration, first of 54 African states and unchanged over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cv.pdf). A [WHO-supported assessment in April 2025](https://www.afro.who.int/countries/cabo-verde/news/cabo-verde-takes-historic-step-mortality-management-support-who-and-portuguese-cooperation) found almost all deaths certified by a doctor and recommended real-time digitisation of notifications. Births, marriages, deaths and stillbirths are [recorded in a data stream connecting the civil registries to SNIAC and other government systems](https://www.nosi.cv/en/solu%C3%A7%C3%B5es-egov) (2025).
 
