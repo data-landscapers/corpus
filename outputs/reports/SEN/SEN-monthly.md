@@ -3,9 +3,9 @@ title: Senegal — News, Oct – Nov 2026
 compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 place: SEN
-ledger_rows: 39
+ledger_rows: 42
 not_held: 2
-record: 42a7a6f30efd
+record: bf14bbe5b11b
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: 42a7a6f30efd
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -40,6 +42,8 @@ record: 42a7a6f30efd
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -151,6 +155,36 @@ The president of Senegal's data protection commission, the CDP, said the state's
 **[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 Burkina Faso's telecoms regulator signed bilateral roaming agreements with its counterparts in Benin, Côte d'Ivoire and Senegal in Ouagadougou on 23 October 2026, under the WAEMU framework. The WAEMU Commission and the regulators called for the commitments to be put into effect so users get cheaper, clearer roaming terms.
+
+</div>
+
+</div>
+
+### Public debate and participation in policymaking
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS Court judgment on the 2023 internet shutdowns</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa's governments already treat the internet as protest infrastructure. Its courts have not caught up](https://globalvoices.org/2026/10/07/africas-governments-already-treat-the-internet-as-protest-infrastructure-its-courts-have-not-caught-up/)** — Global Voices, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+ECOWAS Court's 2025 Senegal ruling never reached the assembly claim; Angola's first shutdown came ten weeks later.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Prosecution of online speech for false news and offending the head of state</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senegal: Columnist facing prosecution for disseminating false news](https://mfwa.org/country-highlights/senegal-columnist-facing-prosecution-for-disseminating-false-news/)** — Media Foundation for West Africa, 20 October 2026
+
+Cybersecurity Division custody over Sen Téranga YouTube remarks on influencer Nourah Ba's arrest; false-news charge.
 
 </div>
 
@@ -631,6 +665,28 @@ A delegation from Senegal's telecoms and digital ministry visited SunuCorp's com
 **[Un partenariat de près de 88 milliards FCFA pour développer la production locale de solutions technologiques](https://aps.sn/un-partenariat-de-pres-de-88-milliards-fcfa-pour-developper-la-production-locale-de-solutions-technologiques/)** — APS, 6 October 2026
 
 Senegal's telecommunications ministry signed a US$150 million partnership convention, nearly CFA 88 billion, with an Africa investment council and the Indian firm Blue Cloud Softech Solutions under the Senegal Digital Factory project. It covers local assembly of electronic devices, quality control, certification and intellectual property; the ministry puts computer hardware imports at CFA 419 billion a year.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#research-institutions">Research institutions</a>
+</nav>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National digital-policy research agenda</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Avant le Forum régional de Dakar, une journée pour poser les bonnes questions](https://fr.linkedin.com/posts/laspad-ugb_laspad-gdn-crdi-activity-7518645942200369152-maiW)** — LASPAD UGB, 21 October 2026
+
+GDN, ministry and IDRC convene Dakar workshop, 19 Oct 2026, to co-design a national digital-policy research agenda.
 
 </div>
 
