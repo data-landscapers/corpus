@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: MUS
-ledger_rows: 36
+ledger_rows: 38
 not_held: 7
-record: 4b4f5777fb29
+record: f50a0184d377
 ---
 
 # News, Oct – Nov 2026
@@ -539,6 +539,34 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[Highlights of Cabinet Meeting - Friday 06 November 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2006%20November%202026.pdf)** — Prime Minister's Office, Mauritius, 6 November 2026
 
 Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bus fleet management system (GPS tracking)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transport : Osman Mahomed mise sur la modernisation et la sécurité routière](https://lexpress.mu/node/564547)** — L'Express (Maurice), 9 November 2026
+
+NLTA IT overhaul awarded to State Informatics; bus GPS fleet system delayed by review panel; e-ticketing in tender.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Land Transport Authority IT system overhaul</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Transport : Osman Mahomed mise sur la modernisation et la sécurité routière](https://lexpress.mu/node/564547)** — L'Express (Maurice), 9 November 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 
