@@ -1,0 +1,54 @@
+{
+ "slug": "2026-10-05-mli-statistiques-du-commerce-exterieur",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "INSTAT lists its quarterly foreign trade bulletins, nine of them from Q1 2024 to Q1 2026, and annual international goods trade yearbooks for 2017 to 2025, all for download.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "Bulletin trimestriel des statistiques du commerce extérieur; Annuaire du Commerce International des Marchandises",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "customs",
+   "fact": "INSTAT says the bulletin's goods trade data are valued from information collected on customs declarations.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "Bulletin trimestriel des statistiques du commerce extérieur",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "series",
+   "value": "customs",
+   "fact": "INSTAT's customs-declaration trade statistics appear as quarterly bulletins for Q1 2024 to Q1 2026 and as yearbooks for 2023, 2024 and 2025, so more than two editions fall after October 2023 on the listing's labels.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "Bulletin trimestriel des statistiques du commerce extérieur; Annuaire du Commerce International des Marchandises",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bulletin trimestriel des statistiques du commerce extérieur",
+   "country_label": "Mali",
+   "class": "admin",
+   "platform": "instat-mali.org",
+   "owner": "INSTAT",
+   "tiers": ""
+  },
+  {
+   "system": "Annuaire du Commerce International des Marchandises",
+   "country_label": "Mali",
+   "class": "admin",
+   "platform": "instat-mali.org",
+   "owner": "INSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-26-zmb-faqs-zambia-statistics-agency",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "civil-registration",
+   "fact": "ZamStats's FAQ says administrative data, information people gave government while using public services, is used to produce statistics such as annual births and deaths statistics.",
+   "as_of": "2023-11-26",
+   "date_precision": "day",
+   "system": "Zambia Statistics Agency FAQs",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

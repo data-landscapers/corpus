@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-04-gmb-pamp-dli-5-1-mobse-datasets",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Annual statistical yearbook data 2023 and 2024 (MoBSE)",
+   "country_label": "Gambia",
+   "class": "other",
+   "platform": "edugambia.gm download folder",
+   "owner": "Ministry of Basic and Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": "The page lists dataset files only and does not say the figures are drawn from school records."
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-02-gmb-the-gambia-launches-education-data-center-to-publicly-share-education-data",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "The DHIS2 for Education report says the Ministry of Basic and Secondary Education has published education data in its Statistical Yearbook since 2014, compiled from questionnaires collected at schools each November and published the following May, and refers to the 2026 Statistical Yearbook.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "MoBSE Statistical Yearbook",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "education",
+   "fact": "The report says the Statistical Yearbook is compiled from questionnaires collected at schools.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "MoBSE Statistical Yearbook",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "series",
+   "value": "education",
+   "fact": "The report says the ministry has published the yearbook annually since 2014 and its minister wrote a preface to the 2026 edition.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "MoBSE Statistical Yearbook",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MoBSE Statistical Yearbook",
+   "country_label": "Statistical Yearbook 2026",
+   "class": "admin",
+   "platform": "",
+   "owner": "Ministry of Basic and Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

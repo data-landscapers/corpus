@@ -21,12 +21,12 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 25 |
+| 4 Operating | 27 |
 | 3 Established | 10 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 5 |
-| No evidence | 7 |
+| No evidence | 5 |
 
 ## Countries
 
@@ -101,6 +101,13 @@ Statistics from civil registration records were published twice in three years, 
 - The 2025 CRVS Annual Report, covering 2025 and giving birth registration completeness of 61% and death registration of 62%, was launched at the 9th Africa CRVS Day event; the article gives no event date, so the publication date is used ([source, 2026-08-25](https://eswatinipositivenews.online/eswatinis-crvs-gains-put-every-citizen-on-the-map/)).
 - The Eswatini Observer reports the Minister of Home Affairs launched the 2024 Annual Civil Registration and Vital Statistics Report, with deaths by cause ([source, 2025-08](https://www.eswatiniobserver.com/hiv-leading-killer-among-eswatini-men-diabetes-among-women/)).
 
+### Gambia: 4 Operating
+
+The education ministry publishes a statistical yearbook from school returns every year, the latest in 2026; no other source is known.
+
+- The report says the ministry has published the yearbook annually since 2014 and its minister wrote a preface to the 2026 edition ([source, 2026](https://education.dhis2.org/the-gambia-launches-online-education-data-centre/)).
+- The report says the Statistical Yearbook is compiled from questionnaires collected at schools ([source, 2026](https://education.dhis2.org/the-gambia-launches-online-education-data-centre/)).
+
 ### Ghana: 4 Operating
 
 Statistics from civil registration records were published twice in three years, the latest in 2024; no source found reports three sources published twice.
@@ -133,6 +140,13 @@ Statistics from civil registration records were published twice in three years, 
 
 - The National Statistics Office, National Registration Bureau and Ministry of Health published Malawi's first vital statistics report from civil registration records (births 2015-2022, deaths 2017-2022, with causes of death), launched in April 2025; the date is the month of publication, not the years the figures cover ([source, 2025-04](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/malawi-vital-statistics-report-2024.pdf)).
 - Malawi's Minister of Homeland Security launched a Vital Statistics Report on 23 April 2025, developed with the National Statistical Office and the Ministry of Health, with UNDP backing ([source, 2025-04-23](https://www.nyasatimes.com/chingoma-unveils-groundbreaking-vital-statistics-and-verbal-autopsy-reports/)).
+
+### Mali: 4 Operating
+
+INSTAT has published trade statistics from customs declarations every quarter since 2024; health statistics are known in one edition.
+
+- INSTAT's customs-declaration trade statistics appear as quarterly bulletins for Q1 2024 to Q1 2026 and as yearbooks for 2023, 2024 and 2025, so more than two editions fall after October 2023 on the listing's labels ([source, 2026-10-05](https://www.instat-mali.org/fr/publications/statistiques-du-commerce-exterieur)).
+- INSTAT says its quarterly foreign trade bulletin values goods from the information collected on customs declarations ([source, 2026-10-05](https://www.instat-mali.org/fr/publications/statistiques-du-commerce-exterieur)).
 
 ### Namibia: 4 Operating
 
@@ -211,12 +225,6 @@ Statistics from education records were published in 2023; no administrative sour
 
 - The Ministry of Education's EMIS and ICT Executive Office released the Education Statistics Annual Abstract 2022/2023 (2015 E.C.), dated October 2023, covering general education from records collected by EMIS; the foreword text names the 2021/22 year, but the cover says 2022/23 ([source, 2023-10](https://moe.gov.et/storage/Books/ESAA%202022-23%20Final.pdf)).
 
-### Mali: 3 Established
-
-Statistics from health records were published in 2025; no administrative source is known to have been published twice since 2023.
-
-- The health and social sector planning unit (CPS/SSDSPF) published the Annuaire 2023 of the SNISS, compiled from the 2023 SISo, SIH and SLIS yearbooks and validated documents of the sector's structures, with tables on CANAM insurance, pensions and mutuelle coverage; the publication date of 1 May 2025 is the source's published date and the figures cover 2023 ([source, 2025-05-01](https://bibliostat.instat.ml/greenstone3/library/collection/sant/document/HASH01915e0cf9b388acc96f8e9e?ed=1)).
-
 ### Mauritius: 3 Established
 
 Statistics from civil registration records were published in 2026; no administrative source is known to have been published twice since 2023.
@@ -254,6 +262,12 @@ Statistics from education records were published in 2026; no administrative sour
 Statistics from police records were published in 2026; no administrative source is known to have been published twice since 2023.
 
 - The Uganda Police Force published its Annual Crime Report 2025 on 2026-04-02 (figures cover 2025), reporting 196,405 cases reported to Police, 115,301 submitted to the Office of the Director of Public Prosecutions, 79,291 taken to court and 24,899 cases with convictions ([source, 2026-04-02](https://upf.go.ug/wp-content/uploads/2026/04/2025-Official-Annual-Crime-Report-Web-Version.pdf)).
+
+### Zambia: 3 Established
+
+In 2023 the statistics agency said it produces annual births and deaths statistics from administrative data; no edition is dated.
+
+- ZamStats's FAQ says administrative data, information people gave government while using public services, is used to produce statistics such as annual births and deaths statistics ([source, 2023-11-26](https://www.zamstats.gov.zm/faqs/)).
 
 ### Chad: 2 Nascent
 
@@ -333,12 +347,6 @@ Nothing found says whether the country draws statistics from administrative reco
 
 Not established: Nothing found names statistics drawn from administrative records, or says there are none.
 
-### Gambia: No evidence
-
-Nothing found says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing found names statistics drawn from administrative records, or says there are none.
-
 ### Guinea: No evidence
 
 Nothing found says whether the country draws statistics from administrative records, so no stage is set.
@@ -358,12 +366,6 @@ Nothing found says whether the country draws statistics from administrative reco
 Not established: Nothing found names statistics drawn from administrative records, or says there are none.
 
 ### Sudan: No evidence
-
-Nothing found says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing found names statistics drawn from administrative records, or says there are none.
-
-### Zambia: No evidence
 
 Nothing found says whether the country draws statistics from administrative records, so no stage is set.
 
