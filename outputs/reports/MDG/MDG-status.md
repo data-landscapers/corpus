@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 270
+sources_cited: 271
 sections_written: 39
 not_established: 1
 acquire_lines: 25
@@ -76,6 +76,8 @@ The statute is [loi n° 2014-038, adopted on 16 December 2014 and dated 9 Januar
 [i-Toroka, the anti-corruption bureau's anonymous whistleblowing platform, received 242 reports in 2024, up 27.36% year on year](http://www.bianco-mg.org/uploads/report/Rapport-annuel-2024.pdf). [In 2024, 80.53% of them could be investigated, while the count converted into a first-information report fell 5.83%](http://www.bianco-mg.org/uploads/report/Rapport-annuel-2024.pdf).
 
 [Digital Freedom scores 73.6 out of 100 in the 2024 Ibrahim Index, 17th of 54 African states and down 4.0 points over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mg.pdf). [Media Freedom stands at 54.9, 27th and down 3.4 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mg.pdf). [The 2026 order to block obscene sites at internet-service-provider level came with no route of appeal](https://www.wearetech.africa/fr/fils/actualites/madagascar-annonce-le-blocage-des-sites-diffusant-des-contenus-obscenes). [The access-to-information bill was left off the order paper of the extraordinary session opened on 25 August 2026](https://www.rfi.fr/fr/afrique/20260827-madagascar-une-session-extraordinaire-de-l-assembl%C3%A9e-nationale-sans-le-projet-de-loi-sur-l-information-publique). [Deputies had promised at the close of committee work to reschedule it](https://www.rfi.fr/fr/afrique/20260827-madagascar-une-session-extraordinaire-de-l-assembl%C3%A9e-nationale-sans-le-projet-de-loi-sur-l-information-publique).
+
+[On 8 January 2026 the Presidency announced prosecutions of online insults under article 20 of the cybercrime law, with fines of Ar 2 million to Ar 100 million](https://fr.allafrica.com/stories/202601090348.html).
 
 ## Finance
 
