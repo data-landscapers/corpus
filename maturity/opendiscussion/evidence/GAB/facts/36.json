@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-gab-restoring-social-media-access-comes-at-a-cost-in-gabon",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Global Voices reports that on 17 February 2026 Gabon's media regulator HAC suspended Facebook, Instagram, TikTok and YouTube until further notice, and lifted the suspension on 24 October 2026 after 248 days.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "HAC suspension of social media networks",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-01-sen-senegal-state-agencies-comply-with-policy-on-public-data-management-af",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "PressAfrik journalist Fana Cisse's award-winning story criticised state agencies for not transferring their data to the Diamniadio data centre as required, and MFWA says it pressured them into compliance.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "PressAfrik story on the Diamniadio data centre",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
