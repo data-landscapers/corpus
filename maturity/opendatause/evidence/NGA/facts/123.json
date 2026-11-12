@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-07-nga-cost-kaduna-launches-nigeria-s-first-ever-oc4ids-infrastructure-data-p",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "CoST reports Kaduna State Government launched its Infrastructure Portal (ipdata.kdsg.gov.ng) on 7 October 2025, publishing data on almost 1,500 projects in the OC4IDS standard and open to all.",
+   "as_of": "2025-10-07",
+   "date_precision": "day",
+   "system": "Kaduna State Infrastructure Portal",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kaduna State Infrastructure Portal",
+   "country_label": "Nigeria (ipdata.kdsg.gov.ng)",
+   "class": "open",
+   "platform": "OC4IDS",
+   "owner": "Kaduna State Government",
+   "tiers": "state"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-26-zmb-faqs-zambia-statistics-agency",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "ZamStats says most of its products are free and accessible through its website and data portal, and that it keeps an archive of data and publications on the portal.",
+   "as_of": "2023-11-26",
+   "date_precision": "day",
+   "system": "ZamStats data portal (zamstats.gov.zm)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZamStats data portal",
+   "country_label": "zamstats.gov.zm",
+   "class": "open",
+   "platform": "",
+   "owner": "Zambia Statistics Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

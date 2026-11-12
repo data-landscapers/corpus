@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-28-som-somalia-open-data-day-2025-unlocking-transparency-for-a-better-future",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "Bareedo Platform reports that the Federal Ministry of Finance and Puntland's Ministry of Finance publicly released income and expenditure reports, driven by World Bank-supported financial reforms.",
+   "as_of": "2025-03-05",
+   "date_precision": "day",
+   "system": "Ministry of Finance income and expenditure reports",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "data.gov.so",
+   "country_label": "data.gov.so",
+   "class": "open",
+   "platform": "",
+   "owner": "Somalia Open Government Initiative",
+   "tiers": "federal"
+  }
+ ],
+ "note": ""
+}

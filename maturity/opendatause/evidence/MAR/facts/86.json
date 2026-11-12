@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-mar-strengthening-open-data-practices-mo0034",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The IRM report says the national portal data.gov.ma held over 500 datasets by end 2023 with over 70,000 downloads, according to the Digital Development Agency.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "data.gov.ma",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "breadth",
+   "value": "many",
+   "fact": "The IRM report says 37 institutions were updating datasets on the data.gov.ma platform by end 2023, and over 180 open data officers had been designated.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "data.gov.ma",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "data.gov.ma",
+   "country_label": "Morocco (www.data.gov.ma)",
+   "class": "open",
+   "platform": "",
+   "owner": "Digital Development Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

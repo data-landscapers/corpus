@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-19-sen-senegal-advances-agricultural-statistics-with-release-of-eaa-2024-25-d",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "FAO says Senegal's agricultural statistics directorate DAPSA released the 2024-25 annual agricultural survey data, with open data tables on the Senegal Data Portal and microdata on the ANADS catalogue.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "Senegal Data Portal and ANADS microdata catalogue",
+   "class": "open"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

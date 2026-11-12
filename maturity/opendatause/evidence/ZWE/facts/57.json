@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-05-zwe-zim-committed-to-modernising-data-collection",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The Herald reports that ZIMSTAT's open data portal disseminates key socio-economic indicators including GDP, inflation and trade statistics, and that ZIMSTAT is migrating official statistics to a single Open Data Portal expected to launch in 2026.",
+   "as_of": "2026-06-05",
+   "date_precision": "day",
+   "system": "ZIMSTAT Open Data Portal",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZIMSTAT Open Data Portal",
+   "country_label": "ZIMSTAT Open Data Portal",
+   "class": "open",
+   "platform": "",
+   "owner": "ZIMSTAT",
+   "tiers": ""
+  },
+  {
+   "system": "OpenSDG Platform",
+   "country_label": "OpenSDG",
+   "class": "other",
+   "platform": "OpenSDG",
+   "owner": "ZIMSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": "No open licence stated; publishing bodies other than ZIMSTAT not named."
+}

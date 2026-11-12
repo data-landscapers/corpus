@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-16-sen-comment-acceder-aux-donnees-de-l-ansd",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "Senegal's statistics agency ANSD says its Senegal Open Data Platform lets users explore its data and download it in open formats such as CSV and JSON.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Plateforme Open Data du Senegal",
+   "class": "open"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-07-gab-espace-des-donnees-a-telecharger",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The Direction Generale de la Statistique's download page offers reports, bulletins, price indices and the 2017 statistical yearbook for download and links to an open data database.",
+   "as_of": "2025-02-07",
+   "date_precision": "day",
+   "system": "statgabon.ga data download page",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "statgabon.ga data download page",
+   "country_label": "statgabon.ga/donnee_a_telecharcher",
+   "class": "open",
+   "platform": "",
+   "owner": "Direction Generale de la Statistique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

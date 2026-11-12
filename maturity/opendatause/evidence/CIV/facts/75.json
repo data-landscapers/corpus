@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-04-civ-open-data-cote-divoire-la-carte-didentite-des-realisations-du-gouverne",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "Digital Mag says the Open Data Cote d'Ivoire portal, started in 2014 by the CICG, was refreshed in 2024 and lists datasets such as 54 in economy, 24 in education and 22 in energy.",
+   "as_of": "2024-07-04",
+   "date_precision": "day",
+   "system": "Open Data Côte d'Ivoire",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data Côte d'Ivoire",
+   "country_label": "Open Data Côte d'Ivoire (CICG portal)",
+   "class": "open",
+   "platform": "",
+   "owner": "CICG",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

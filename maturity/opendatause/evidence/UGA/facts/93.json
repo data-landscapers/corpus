@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-11-uga-uganda-s-sdg-open-data-portal-advancing-transparency-and-sustainable-d",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The Office of the Prime Minister's SDG Secretariat says the Uganda Bureau of Statistics hosts the SDG Open Data Portal, where users can download datasets of Uganda's official SDG indicators.",
+   "as_of": "2025-08-11",
+   "date_precision": "day",
+   "system": "SDG Open Data Portal (sdgs.opm.go.ug)",
+   "class": "open"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

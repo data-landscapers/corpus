@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-03-eth-ethiopia-s-national-open-data-exchange-platform",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "A vendor case study says Ethiopia's National Open Data Exchange platform, run by the Ministry of Innovation and Technology, offers bulk dataset downloads and serves city administrations in Dire Dawa, Bahir Dar and Adama.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "National Open Data Exchange (ODE)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Open Data Exchange (ODE)",
+   "country_label": "ETH",
+   "class": "open",
+   "platform": "",
+   "owner": "Ministry of Innovation and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

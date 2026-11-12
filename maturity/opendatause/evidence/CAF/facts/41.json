@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-23-caf-icasees-du-nouveau-sur-le-site-web-de-licasees-le-portail-open-data-et",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The Central African statistics institute ICASEES says that on its ODIN RCA space each indicator now offers direct access to data in CSV, JSON and SDMX, and that its open data portal ODP 1.0 gives access to statistical datasets.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Portail Open Data de la Republique Centrafricaine (ODP 1.0) and ODIN RCA",
+   "class": "open"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

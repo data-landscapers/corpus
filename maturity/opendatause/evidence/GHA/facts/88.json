@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-27-gha-ghana-and-morocco-advance-in-open-data",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "Statistics Denmark says the launch of the StatsBank at statsbank.statsghana.gov.gh has greatly improved access to Ghana's data from 2023 onwards.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "StatsBank (statsbank.statsghana.gov.gh)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "StatsBank",
+   "country_label": "StatsBank (statsbank.statsghana.gov.gh)",
+   "class": "open",
+   "platform": "",
+   "owner": "Ghana Statistical Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

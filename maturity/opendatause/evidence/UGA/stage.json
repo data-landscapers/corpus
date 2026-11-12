@@ -1,16 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "2",
-   "access": "published",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-003;UGA-004",
-   "gaps": "No source found since October 2023 states an open licence for the data.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "access": "licensed",
+      "breadth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-008;UGA-007",
+      "gaps": "No source found since November 2023 names two or more public bodies publishing data.",
+      "note": "Reassessed 2026-11-12, 2 to 3: the procurement authority PPDA's open contracting datasets carry the Open Data Commons Attribution Licence (UGA-008, October 2026), a yes to question 2. The statistics bureau's portals state no licence, so no second body publishes that way and the cell is not 4.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

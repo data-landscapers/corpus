@@ -4,3 +4,5 @@ BEN,Portail national de données ouvertes,Benin national open data portal (no ad
 BEN,AfDB data portal (INStaD datasets),African Development Bank data portal,other,,African Development Bank,,2022-12-23-worldbank-odra-benin
 BEN,"Base de donnees financiere de la DGB (open-data API, opendata.budgetbenin.bj)",opendata.budgetbenin.bj; API at https://backdata.budgetbenin.bj/public/api/agregats,open,Angular single-page app over a JSON API,"Direction generale du Budget, Ministere de l'Economie et des Finances",,2026-07-25-ben-dgb-opendata-budget-classifications
 BEN,UXP Directory (Benin national data-exchange dashboard),statistiques.xroad.bj,other,UXP / X-Road (Cybernetica),Government of Benin,,2026-07-11 UXP Directory
+BEN,Open Data portal of the National Statistical System,BEN (INStaD),open,SDMX 2.0,INStaD,,2025-07-11-ben-diffusion-des-donnees-statistiques-au-benin-l-instad-et-la-commission
+BEN,data.gouv.bj,data.gouv.bj,open,,ASIN,,2025-01-01-ben-transformer-les-donnees-geospatiales-du-benin-en-levier-de-politique-p

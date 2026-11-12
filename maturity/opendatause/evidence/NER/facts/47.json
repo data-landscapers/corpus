@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-28-tcd-improving-access-to-quality-data-in-fragility-and-conflict-contexts-th",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The World Bank says the national Open Data Portal, with some of its data, is accessible on the Niger national statistics office website.",
+   "as_of": "2025-05-28",
+   "date_precision": "day",
+   "system": "National Open Data Portal on the statistics office website",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Open Data Portal",
+   "country_label": "National Open Data Portal on the statistics office website",
+   "class": "open",
+   "platform": "",
+   "owner": "National statistics office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2025-11-24-cmr-35e-journee-africaine-de-la-statistique-le-littoral-mise-sur-l-innovat",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "INS Cameroun reports that at the Littoral region's African Statistics Day an INS officer presented its data platforms, the Portail Open Data, Open SDG and ANADOC, for making national statistics accessible.",
+   "as_of": "2025-11-18",
+   "date_precision": "day",
+   "system": "Portail Open Data (INS Cameroun)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail Open Data",
+   "country_label": "INS Cameroun Open Data portal",
+   "class": "open",
+   "platform": "",
+   "owner": "INS Cameroun",
+   "tiers": ""
+  },
+  {
+   "system": "Open SDG",
+   "country_label": "INS Cameroun Open SDG",
+   "class": "open",
+   "platform": "",
+   "owner": "INS Cameroun",
+   "tiers": ""
+  },
+  {
+   "system": "ANADOC",
+   "country_label": "INS Cameroun ANADOC",
+   "class": "open",
+   "platform": "",
+   "owner": "INS Cameroun",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

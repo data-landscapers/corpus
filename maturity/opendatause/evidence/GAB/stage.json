@@ -1,16 +1,17 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "no evidence",
-   "access": "",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names government data published for download, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "access": "published",
+      "breadth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-001",
+      "gaps": "No source found since November 2023 states an open licence for the data.",
+      "note": "Reassessed 2026-11-12, no evidence to 2: the statistics office's download page, captured February 2025, offers price indices, bulletins and the yearbook for download (GAB-001), a yes to question 1. No source states an open licence, so not 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

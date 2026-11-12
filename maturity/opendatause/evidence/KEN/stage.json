@@ -1,16 +1,17 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "unplaced",
-   "access": "",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No government data published for download is on record since October 2023.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "access": "published",
+      "breadth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-003",
+      "gaps": "No source found since November 2023 states an open licence for the data. The OGP record (KEN-002) says the 2011 portal went offline; the 2025 brief (KEN-003) says the portal gives free access.",
+      "note": "Reassessed 2026-11-12, unplaced to 2: a 2025 Pollicy brief says the Kenya Open Data Initiative portal gives free access to government data in machine-readable formats (KEN-003), a yes to question 1 inside the window. No source states an open licence, so not 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

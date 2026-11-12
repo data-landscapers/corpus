@@ -1,16 +1,17 @@
 {
- "iso3": "COG",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "2",
-   "access": "published",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COG-001",
-   "gaps": "No source found since October 2023 states an open licence for the data.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "access": "licensed",
+      "breadth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COG-004;COG-003;COG-001",
+      "gaps": "No source found since November 2023 names two or more public bodies publishing data.",
+      "note": "Reassessed 2026-11-12, 2 to 3: the forest ministry's SYNA-MNV programme publishes five datasets for download under an open licence with attribution (COG-003, COG-004, 2024), a yes to question 2. No source names a second body publishing under an open licence, so not 4.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

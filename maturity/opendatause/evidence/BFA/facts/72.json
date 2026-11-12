@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-12-bfa-odp-les-donnees-de-lannuaire-2022-accessibles",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "INSD says a working session updated the Open Data Platform of Burkina (ODP) to make all data of the 2022 national statistical yearbook available, in reusable formats such as Word and Excel.",
+   "as_of": "2024-04-12",
+   "date_precision": "day",
+   "system": "Open Data Platform of Burkina (ODP)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data Platform of Burkina (ODP)",
+   "country_label": "Open Data Platform (ODP)",
+   "class": "open",
+   "platform": "",
+   "owner": "INSD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-06-bfa-odp-une-session-pour-ameliorer-le-score-odin-du-burkina-faso",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "INSD, the national statistics institute, says it held a session on disseminating indicators on the open data portal (ODP) at burkinafaso.opendataforafrica.org, with sector ministry staff taking part.",
+   "as_of": "2024-05-06",
+   "date_precision": "day",
+   "system": "Open data portal (ODP)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open data portal (ODP)",
+   "country_label": "Burkina Faso (burkinafaso.opendataforafrica.org)",
+   "class": "open",
+   "platform": "web portal",
+   "owner": "INSD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

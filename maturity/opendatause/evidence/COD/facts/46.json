@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-cod-donnees-ouvertes-itie-rdc",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "ITIE-RDC, the DR Congo's extractive industries transparency body, publishes extractive revenue, mining production, mining-rights and contract datasets for download in CSV, Excel and JSON, with a public API.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Donnees ouvertes ITIE-RDC (itierdc.net/open-data)",
+   "class": "open"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

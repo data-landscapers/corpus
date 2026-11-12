@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-01-tza-tanzania-public-procurement-regulatory-authority-ppra",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "licensed",
+   "fact": "The Public Procurement Regulatory Authority publishes daily open contracting data on the NeST Open Contracting Data Portal under a CC BY-SA 4.0 licence.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "NeST Open Contracting Data Portal",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NeST Open Contracting Data Portal",
+   "country_label": "TZA (data.nest.go.tz/ocds)",
+   "class": "open",
+   "platform": "",
+   "owner": "Public Procurement Regulatory Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

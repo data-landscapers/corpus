@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GAB-001,GAB,use,access,published,"The Direction Generale de la Statistique's download page offers reports, bulletins, price indices and the 2017 statistical yearbook for download and links to an open data database.",2025-02-07,day,statgabon.ga data download page,open,2025-02-07-gab-espace-des-donnees-a-telecharger,https://statgabon.ga/donnee_a_telecharcher/

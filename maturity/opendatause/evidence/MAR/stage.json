@@ -1,16 +1,17 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "2",
-   "access": "published",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-002;MAR-006",
-   "gaps": "No source found since October 2023 states an open licence for the data.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "access": "published",
+      "breadth": "many",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-002;MAR-006;MAR-014",
+      "gaps": "No source found since November 2023 states an open licence for the data.",
+      "note": "Reassessed 2026-11-12, stays 2: the IRM counts 37 institutions updating datasets on data.gov.ma at the end of 2023 (MAR-012), which would answer question 3, but no source states an open licence, so question 2 is not met and each step must be met to progress.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

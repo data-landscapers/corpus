@@ -22,11 +22,11 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 |---|---|
 | 5 Leading | 3 |
 | 4 Operating | 3 |
-| 3 Established | 8 |
+| 3 Established | 11 |
 | 2 Nascent | 29 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
-| No evidence | 9 |
+| Unplaced | 1 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -90,6 +90,14 @@ Government data was published under an open licence on the Plateforme de Donnée
 
 - INSBU's Accord de Licence Ouverte grants a free, worldwide, non-exclusive licence to use, copy, modify, distribute and build derivative products from the platform's data, commercially or not, with attribution; dated by the proxy capture date 2025-06-10 ([source, 2025-06-10](https://www.insbu.bi/useragreement)).
 
+### Congo: 3 Established
+
+The forest ministry published datasets under an open licence in 2024; no second public body publishing that way has been found.
+
+- The SYNA-MNV programme states its datasets are published under an open licence, with reuse requiring the credit 'Source : SYNA-MNV - Republique du Congo' ([source, 2024](https://syna-mnv.cg/donnees-ouvertes)).
+- The SYNA-MNV programme of Congo's forest economy ministry publishes five datasets for download on its open data page, the newest dated 2024 ([source, 2024](https://syna-mnv.cg/donnees-ouvertes)).
+- The director general of the Institut national de la statistique said on 5 June 2026 that the Open Data Portal is at work and anyone can access and download data from it in Excel, PDF and Word formats ([source, 2026-06-05](https://www.vox.cg/le-congo-et-ses-partenaires-signent-un-accord-de-partenariat-pour-capitaliser-les-donnees-statistiques/)).
+
 ### Madagascar: 3 Established
 
 Government data was published under an open licence on the Open Data Parlementaire in 2026; several publishing bodies are not on record.
@@ -132,6 +140,20 @@ Government data was published under an open licence on the NBS Open Data Portal 
 
 - The NBS page states its Public Data tier is freely available to be accessed, used and shared without restrictions for any purpose; the page is undated, so its 2026-08-29 capture date is used ([source, 2026-08-29](https://www.nbs.gov.ss/resources/Data_Portal.php)).
 
+### Tanzania: 3 Established
+
+The procurement authority published its contracting data under an open licence in 2026; no second public body publishing that way has been found.
+
+- The Public Procurement Regulatory Authority publishes daily open contracting data on the NeST Open Contracting Data Portal under a CC BY-SA 4.0 licence ([source, 2026-02](https://data.open-contracting.org/en/publication/152)).
+- The Public Procurement Regulatory Authority publishes procurement data from procuring entities through the NeST Open Contracting Data Portal (data.nest.go.tz), updated daily with bulk JSON, CSV and Excel downloads updated weekly; the date is the policy's 2025 copyright year ([source, 2025](https://data.nest.go.tz/assets/docs/OCDS_Publication_Policy_PPRA.pdf)).
+
+### Uganda: 3 Established
+
+The procurement authority published its contracting data under an open licence in 2026; no second public body publishing that way has been found.
+
+- The Open Contracting Partnership registry states that PPDA's open contracting datasets in Uganda carry the Open Data Commons Attribution License, which lets anyone share, adapt and build on the data with attribution ([source, 2026-10](https://data.open-contracting.org/en/publication/130)).
+- The Open Contracting Partnership registry says Uganda's procurement authority PPDA publishes open contracting datasets from July 2015 to October 2026, updated monthly and downloadable as JSON, Excel or CSV ([source, 2026-10](https://data.open-contracting.org/en/publication/130)).
+
 ### Angola: 2 Nascent
 
 Government data was published for download on the Portal do Censo 2024 in 2026; no open licence is on record.
@@ -171,12 +193,6 @@ Government data was published for download on the Archive nationale de microdonn
 - INSEED, the national statistics institute, runs a national microdata archive (NADA) whose catalogue held 15 datasets on 23 August 2026, including the 2025 agricultural census and the 2024 household survey; the page states no open licence ([source, 2026-08-23](https://www.nada.inseed-comores.org/index.php/home)).
 - INSEED, the national statistics institute, lists the RGA-2 2025 agricultural census (73,818 family holdings enumerated, 11,454-holding sample) as an entry in its NADA microdata catalogue; no date of release is given in the body, so the document's published date is used ([source, 2026-05-20](https://www.nada.inseed-comores.org/index.php/catalog/16)).
 
-### Congo: 2 Nascent
-
-Government data was published for download on the Open Data Portal in 2026; no open licence is on record.
-
-- The director general of the Institut national de la statistique said on 5 June 2026 that the Open Data Portal is at work and anyone can access and download data from it in Excel, PDF and Word formats ([source, 2026-06-05](https://www.vox.cg/le-congo-et-ses-partenaires-signent-un-accord-de-partenariat-pour-capitaliser-les-donnees-statistiques/)).
-
 ### Cote d'Ivoire: 2 Nascent
 
 Government data was published for download on the portail Open Data de la Côte d'Ivoire in 2025; no open licence is on record.
@@ -201,6 +217,12 @@ Government data was published for download on the Page Nationale Recapitulative 
 Government data was published for download on the STATBANK in 2026; no open licence is on record.
 
 - The Ethiopian Statistics Service says its dissemination office manages the national data dissemination platforms including STATBANK, microdata repositories and web portals, and provides Public Use Files for public access; as_of is the document's published date, as it describes the service running ([source, 2026-05-06](https://ess.gov.et/about-ess/departments/statistical-data-dissemination-and-access/)).
+
+### Gabon: 2 Nascent
+
+The statistics office offered data files for download on its website in 2025; no open licence for them has been found.
+
+- The Direction Generale de la Statistique's download page offers reports, bulletins, price indices and the 2017 statistical yearbook for download and links to an open data database ([source, 2025-02-07](https://statgabon.ga/donnee_a_telecharcher/)).
 
 ### Gambia: 2 Nascent
 
@@ -228,6 +250,12 @@ The statistics office and partners launched a data page on the national open dat
 
 - The IMF reports Guinea-Bissau launched the National Summary Data Page on its national Open Data Platform, giving macroeconomic data in human- and machine-readable form; dated to the release date as no launch date is given ([source, 2024-07-08](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system)).
 - The National Institute of Statistics communique says the National Summary Data Page, hosted on the national Open Data Portal, was launched on 14 June 2024 giving public access to key economic information ([source, 2024-06-14](http://stat-guinebissau.com/Menu_principal/IV_RGPH/rgph1/COMUNICADO/Comunicado_Divulga%C3%A7%C3%A3o_Dados_e_GDDS_INE_FMI.pdf)).
+
+### Kenya: 2 Nascent
+
+A national open data portal gave free access to government data in 2025; no open licence for it has been found.
+
+- Pollicy says the Kenya Open Data Initiative portal, supported by the Kenya National Bureau of Statistics, gives free access to government data in machine-readable formats ([source, 2025](https://pollicy.org/wp-content/uploads/2025/04/Policy-brief-13-Mar.pdf)).
 
 ### Lesotho: 2 Nascent
 
@@ -260,6 +288,7 @@ Government data was published for download on the data.gov.ma national open data
 
 - The portal's own documentation page says the Agence de Developpement du Digital (ADD) manages Morocco's national open data portal and monitors the national Open Data action plan, which the Open Data steering committee (set up December 2019) oversees; no published date, so the page's retrieval date of 2026-08-08 is used ([source, 2026-08-08](https://data.gov.ma/fr/documentations)).
 - The national Open Data steering committee (COPIL), meeting at the Agence de Développement du Digital (ADD), debated a 2026 action plan of the government's Open Data programme that includes enriching and maintaining the national open data portal www.data.gov.ma; the document names no open data policy, strategy or law behind the portal and gives no dataset or publisher count ([source, 2025-12-23](https://data.gov.ma/fr/actualites/11eme-reunion-du-comite-de-pilotage-national-open-data)).
+- The Agence de Developpement du Digital says that connected APIs now publish Haut-Commissariat au Plan statistics on employment, price indices and national accounts automatically on the national Open Data portal ([source, 2024-12-27](https://data.gov.ma/fr/actualites/publication-automatiques-des-donnees-des-apis-du-hcp)).
 
 ### Namibia: 2 Nascent
 
@@ -292,19 +321,11 @@ Government data was published for download on the Open Data Sierra Leone data po
 
 - Statistics Sierra Leone says its publications, metadata and microdata are released free of charge on its website, including an Open Data Sierra Leone data portal, with unrestricted datasets available online to all ([source, 2024-02-06](https://www.statistics.sl/images/2023_Stats_SL_Proactive_Publication_Scheme.pdf)).
 
-### Tanzania: 2 Nascent
+### Tunisia: 2 Nascent
 
-Government data was published for download on the Tanzania Integrated Statistical Portal (TISP) in 2026; no open licence is on record.
+A national open data portal was running in 2025; no open licence for its data has been found.
 
-- The National Bureau of Statistics and the Office of the Chief Government Statistician run the Tanzania Integrated Statistical Portal, which lets users explore and analyse administrative, demographic and survey data; no dataset count or open licence is stated, and the date is the document's publication date ([source, 2026-08-28](https://tisp.nbs.go.tz/)).
-- The Public Procurement Regulatory Authority publishes procurement data from procuring entities through the NeST Open Contracting Data Portal (data.nest.go.tz), updated daily with bulk JSON, CSV and Excel downloads updated weekly; the date is the policy's 2025 copyright year ([source, 2025](https://data.nest.go.tz/assets/docs/OCDS_Publication_Policy_PPRA.pdf)).
-
-### Uganda: 2 Nascent
-
-Government data was published for download on the National SDG Open Data Portal in 2026; no open licence is on record.
-
-- The Data Technical Working Group chaired by the Uganda Bureau of Statistics reported that all 155 reported SDG indicators and their metadata have been uploaded to the National SDG Open Data Portal, of 201 SDG indicators ([source, 2026-07-15](https://sdgs.opm.go.ug/2026/07/17/july-2026-national-sdg-task-force-accelerated-action-as-uganda-enters-final-stretch-to-2030/)).
-- CoST Uganda says that since July 2025 a project with the PPDA has worked to reverse the decline in infrastructure data disclosures on the Government Procurement Portal and to upgrade it; the date is the document's publication date ([source, 2025-12-24](https://www.cost.or.ug/2025/12/24/prioritized-data-points-cost-uganda-leads-major-upgrade-to-prioritize-sustainability-and-climate-finance-data-on-gpp/)).
+- The OGP Tunisia notice describes the national portal data.gov.tn as a major advance, interconnected with several sector portals ([source, 2025-03-19](http://www.ogptunisie.gov.tn/fr/index.php/2025/03/19/lancement-de-lenquete-publique-en-ligne-sur-lelaboration-de-la-strategie-nationale-de-promotion-de-louverture-et-de-la-reutilisation-des-donnees-publiques/)).
 
 ### Zambia: 2 Nascent
 
@@ -320,12 +341,6 @@ Government data was published for download on the ZIMSTAT Open Data Portal (ODP 
 - ZIMSTAT (Zimbabwe National Statistics Agency) states that the OpenSDG portal, a hub for national SDG indicators giving the public access to Zimbabwe's SDG progress, was officially launched on 9 July 2025 ([source, 2025-07-09](https://zimstat.co.zw/odp2-0-tutorial-guide/)).
 
 ### Algeria: Unplaced
-
-No government data published for download since 2023 is on record, so no stage is set.
-
-Not established: No government data published for download is on record since October 2023.
-
-### Kenya: Unplaced
 
 No government data published for download since 2023 is on record, so no stage is set.
 
@@ -361,12 +376,6 @@ Nothing found says whether a public body publishes data for anyone to download, 
 
 Not established: Nothing found names government data published for download, or says there is none.
 
-### Gabon: No evidence
-
-Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
-
-Not established: Nothing found names government data published for download, or says there is none.
-
 ### Sao Tome and Principe: No evidence
 
 Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
@@ -374,12 +383,6 @@ Nothing found says whether a public body publishes data for anyone to download, 
 Not established: Nothing found names government data published for download, or says there is none.
 
 ### Sudan: No evidence
-
-Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
-
-Not established: Nothing found names government data published for download, or says there is none.
-
-### Tunisia: No evidence
 
 Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
 

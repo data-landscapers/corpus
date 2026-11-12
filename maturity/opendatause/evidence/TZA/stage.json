@@ -1,16 +1,17 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "2",
-   "access": "published",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-002;TZA-003",
-   "gaps": "No source found since October 2023 states an open licence for the data.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "access": "licensed",
+      "breadth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-005;TZA-003",
+      "gaps": "No source found since November 2023 names two or more public bodies publishing data.",
+      "note": "Reassessed 2026-11-12, 2 to 3: the procurement authority's NeST open contracting data are published under CC BY-SA 4.0 (TZA-005, February 2026), a yes to question 2. No source names a second body publishing under an open licence, so not 4.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-18-mrt-communique-transparence-des-depenses-et-marches-du-ministere-de-la-tra",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "Mauritania's Ministry of Digital Transformation says it launched a portal publishing all its contracts and expenditure since 7 August 2024, free to use with no registration and open to a search and statistics section.",
+   "as_of": "2026-01-18",
+   "date_precision": "day",
+   "system": "transparence.mtnima.gov.mr",
+   "class": "open"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

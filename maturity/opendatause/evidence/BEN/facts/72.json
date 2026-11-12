@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-ben-transformer-les-donnees-geospatiales-du-benin-en-levier-de-politique-p",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "Numericite says the national portal data.gouv.bj is run by ASIN as part of Benin's open data effort.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "data.gouv.bj",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "data.gouv.bj",
+   "country_label": "data.gouv.bj",
+   "class": "open",
+   "platform": "",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

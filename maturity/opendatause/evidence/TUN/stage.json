@@ -1,16 +1,17 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "no evidence",
-   "access": "",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names government data published for download, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "access": "published",
+      "breadth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-002",
+      "gaps": "No source found since November 2023 states an open licence for the data.",
+      "note": "Reassessed 2026-11-12, no evidence to 2: the government's OGP notice of March 2025 names the national portal data.gov.tn as working and linked to sector portals (TUN-002), read as a yes to question 1 as Cameroon's and Nigeria's portal facts are. No source states an open licence, so not 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

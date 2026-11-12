@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-nga-transparency-and-accountability-as-trust-builders-in-the-african-data",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "Pollicy says the DRC open data portal, supported by the AfDB's Open Data for Africa with contributions from the National Statistics Institute, has not been updated recently.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "drcongo.opendataforafrica.org",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "drcongo.opendataforafrica.org",
+   "country_label": "drcongo.opendataforafrica.org",
+   "platform": "",
+   "owner": "",
+   "tiers": "",
+   "class": "open"
+  }
+ ],
+ "note": ""
+}

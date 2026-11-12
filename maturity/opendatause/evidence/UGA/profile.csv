@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,use,access,coverage,published,2026-07-15,UGA-001;UGA-002;UGA-003;UGA-004;UGA-005,,
+UGA,use,access,coverage,licensed,2026-10,UGA-008,UGA-007=published;UGA-003=published;UGA-005=published;UGA-004=published;UGA-002=published;UGA-006=published;UGA-001=published,
 UGA,use,breadth,coverage,,,,,nothing found

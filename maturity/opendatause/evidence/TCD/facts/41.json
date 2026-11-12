@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-28-tcd-improving-access-to-quality-data-in-fragility-and-conflict-contexts-th",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The World Bank says an open data portal platform exists at the Chad statistics office but needs to be revitalised to improve data accessibility.",
+   "as_of": "2025-05-28",
+   "date_precision": "day",
+   "system": "Open Data Portal platform at the statistics office",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data Portal",
+   "country_label": "Open Data Portal platform at the statistics office",
+   "class": "open",
+   "platform": "",
+   "owner": "National statistics office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

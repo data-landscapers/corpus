@@ -1,4 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NER,use,access,coverage,licensed,2024-10-30,NER-002,,
-NER,use,breadth,coverage,,,,,nothing held
-NER,use,reuse,coverage,,,,,nothing held
+NER,use,access,coverage,licensed,2024-10-30,NER-002,NER-003=published;NER-004=published,
+NER,use,breadth,coverage,,,,,nothing found

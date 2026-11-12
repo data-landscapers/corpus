@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-24-civ-open-data-un-pilier-de-la-gouvernance-ouverte-en-cote-d-ivoire",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "225.ci reports the CICG, which launched the data.gouv.ci portal in 2014, said it lets users consult, reuse and redistribute data on health, education, the economy and the environment, with a content update planned.",
+   "as_of": "2025-05-22",
+   "date_precision": "day",
+   "system": "data.gouv.ci",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "data.gouv.ci",
+   "country_label": "Côte d'Ivoire (www.data.gouv.ci)",
+   "class": "open",
+   "platform": "",
+   "owner": "CICG",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
