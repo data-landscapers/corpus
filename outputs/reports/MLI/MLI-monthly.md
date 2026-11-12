@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: MLI
-ledger_rows: 13
+ledger_rows: 16
 not_held: 1
-record: ed84d0e611e9
+record: c2270538fcbf
 ---
 
 # News, Oct – Nov 2026
@@ -167,10 +167,28 @@ Mali's computer incident response centre ML-CERT launched a web platform for rep
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Digital Payments and Fintech
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional instant payment platform participation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mali : nouvelles règles pour les transferts numériques](https://fr.apanews.net/business/mali-nouvelles-regles-pour-les-transferts-numeriques/)** — APAnews, 2 November 2026
+
+Orange Finances Mobiles Mali lifts wallet cap to CFA 4 million; 14 Malian PI-SPI participants; usage 61.9% (2025).
+
+</div>
+
+</div>
 
 ### Registries
 
@@ -280,6 +298,20 @@ Eighty-four councillors and local government staff from 21 communes began a five
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">International merchandise trade yearbook</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Statistiques du commerce extérieur](https://www.instat-mali.org/fr/publications/statistiques-du-commerce-exterieur)** — Institut National de la Statistique (INSTAT), Mali, 5 October 2026
+
+INSTAT quarterly trade bulletins Q1 2013 to Q1 2026 and annual trade yearbooks 2017-2025, free to download.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Fourth Schéma Directeur de la Statistique and its 2026-2030 action plan</p>
 
 <div class="bulletin-item" markdown="1">
@@ -287,6 +319,20 @@ Eighty-four councillors and local government staff from 21 communes began a five
 **[Mali : Communiqué du conseil des ministres du vendredi 9 octobre 2026 - CM N°2026-40/SGG](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/)** — Icimali (communiqué du Secrétariat Général du Gouvernement), 10 October 2026
 
 Mali's Council of Ministers on 9 October 2026 took note of the country's fourth statistics master plan and its 2026-2030 action plan, presented by the economy and finance minister. It rests on four axes: managing the national statistical system, building its capacity, statistical production and analysis, and modernised dissemination. No cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Agricultural situation survey (Enquête Agricole de Conjoncture)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mali releases 2023–24 agricultural data under the 50x2030 Initiative](https://www.fao.org/in-action/agrisurvey/news/news-detail/mali-releases-2023-24-agricultural-data-under-the-50x2030-initiative/en)** — FAO, 3 November 2026
+
+First 50x2030 results for Mali: 7.45m ha cultivated, 8.84m t cereals; tables on national open data portal.
 
 </div>
 

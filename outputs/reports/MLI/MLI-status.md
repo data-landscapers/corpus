@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 197
+sources_cited: 198
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -316,6 +316,8 @@ On 28 August 2026 [the health insurance fund CANAM closed a staff session on per
 <!-- capacity.research -->
 
 Mali ranked [131st in the Global Innovation Index in 2024](https://www.wipo.int/edocs/gii-ranking/2024/ml.pdf), in the bottom quartile of the ranked economies.
+
+In March 2025 [the Bamako Forum on digital technology and social cohesion published a comparison of cybercrime, data-protection and telecommunications law in Mali, Burkina Faso and Niger, written with a Bamako law faculty academic](https://www.sfcg.org/wp-content/uploads/2025/03/Regulation-du-numerique-au-Sahel-Etat-des-lieux-et-perspectives-pour-un-modele-centre-sur-lhumain.pdf).
 
 ## Inclusion
 
