@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-caf-icasees-le-directeur-general-de-l-icasees-recoit-une-mission-d-evaluat",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ICASEES's director general stressed UNDP support for the process of updating the existing statistics law (actualisation de la loi statistique), in a 23 July 2026 ICASEES release.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "loi statistique",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

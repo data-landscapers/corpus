@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-30-tza-tanzania-national-bureau-of-statistics-microdata-catalog-1988",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "DataFirst's record says the Tanzania National Bureau of Statistics was established as an autonomous agency by the Statistics Act, 2015, to provide official statistics and coordinate the national statistical system.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Statistics Act, 2015",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
