@@ -1,6 +1,6 @@
 # Use of open data: use of open data
 
-*As at 2026-10-25.*
+*As at 2026-11-12.*
 
 ## The norm
 
@@ -21,11 +21,11 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 3 |
-| 4 Operating | 2 |
-| 3 Established | 9 |
-| 2 Nascent | 28 |
+| 4 Operating | 3 |
+| 3 Established | 8 |
+| 2 Nascent | 29 |
 | 1 Absent | 0 |
-| Unplaced | 3 |
+| Unplaced | 2 |
 | No evidence | 9 |
 
 ## Countries
@@ -35,6 +35,7 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 More than five national agencies published open-licensed data on one portal in 2026.
 
 - CITADEL says its portal holds more than 145 datasets from more than 5 national agencies and official portals ([source, 2026-06-17](https://data.citadel.bf/)).
+- Burkina Faso's INSD states it grants a worldwide, free, non-exclusive licence to copy, modify and distribute its data, including for commercial use, with attribution, for data on its website and open data portal ([source, 2026-10-16](https://www.insd.bf/fr/licence-data-insd)).
 
 ### Libya: 5 Leading
 
@@ -55,6 +56,14 @@ Data from 23 ministries was on the national geoportal in 2025, and the open data
 - INSEED reports that in April 2026 a national workshop in Lome trained about thirty statistical-system staff to migrate datasets from Togo's existing Open Data Portal 1.0 to ODP 2.0, the national open data platform for INSEED and sector ministries; no dataset count or licence is stated ([source, 2026-04](https://inseed.tg/atelier-national-de-formation-sur-la-modelisation-sdmx-et-la-mise-en-place-dune-plateforme-odp2-0-au-profit-des-points-focaux-du-togo/)).
 - The article states the Geoportail centralises data from 23 ministries and more than 550 administrative units, drawn from a 2021-2022 collection under the PRISE project; the article is dated 2025-01-08 and gives no date for the figure, so that date is used ([source, 2025-01-08](https://lavoixdelanation.tg/index.php/2025/01/08/democratisation-de-lacces-aux-donnees-publiques-au-togo/)).
 - CIOMAG reports the Ministry of Digital Economy launched the geoportail.gouv.tg government geoportal on 6 May 2025 with an open-data version, geodata.gouv.tg, for the public, researchers and investors; no open licence is mentioned ([source, 2025-05-06](https://cio-mag.com/au-togo-le-ministere-de-leconomie-numerique-lance-une-plateforme-geoportail/)).
+
+### Central African Republic: 4 Operating
+
+The statistics institute, regional central bank and finance ministry published data in 2025, with an open licence held; four or more publishers are not known.
+
+- The IMF reports that CAR launched its National Summary Data Page, a one-stop portal disseminating macroeconomic data (national accounts, prices, government operations, debt, monetary and external sectors) compiled by multiple statistical agencies, hosted by ICASEES with BEAC and the Ministry of Finance and Budget; no licence or dataset count is given ([source, 2025-05](https://www.imf.org/en/News/Articles/2025/05/19/pr-25153-central-african-republic-car-implements-enhanced-general-data-dissemination-system)).
+- ICASEES's education data page offers yearbook and key-indicator files for download, each marked licence CC BY 4.0 ([source, 2026-08-05](https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale)).
+- ICASEES confirmed at a regional meeting that a new open licence is integrated on its Open Data portal and institutional website ([source, 2026-06](https://www.icasees.org/index.php/actualites/364-icasees-participation-de-la-republique-centrafricaine-a-la-reunion-regionale-de-suivi-des-mises-a-jour-odin-odp)).
 
 ### Liberia: 4 Operating
 
@@ -80,13 +89,6 @@ The statistics agency put its data under an open licence by 2026 and two bodies 
 Government data was published under an open licence on the Plateforme de Données Ouvertes (INSBU) in 2025; several publishing bodies are not on record.
 
 - INSBU's Accord de Licence Ouverte grants a free, worldwide, non-exclusive licence to use, copy, modify, distribute and build derivative products from the platform's data, commercially or not, with attribution; dated by the proxy capture date 2025-06-10 ([source, 2025-06-10](https://www.insbu.bi/useragreement)).
-
-### Central African Republic: 3 Established
-
-The statistics institute published data under an open licence in 2026; no other publishing body is on record.
-
-- ICASEES's education data page offers yearbook and key-indicator files for download, each marked licence CC BY 4.0 ([source, 2026-08-05](https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale)).
-- ICASEES confirmed at a regional meeting that a new open licence is integrated on its Open Data portal and institutional website ([source, 2026-06](https://www.icasees.org/index.php/actualites/364-icasees-participation-de-la-republique-centrafricaine-a-la-reunion-regionale-de-suivi-des-mises-a-jour-odin-odp)).
 
 ### Madagascar: 3 Established
 
@@ -265,6 +267,12 @@ Government data was published for download on the NSA Central Data Catalog (NADA
 
 - The Namibia Statistics Agency runs a NADA microdata catalogue (microdata.nsanamibia.com) listing 16 Namibian studies, most marked Open data access, including the 2023 census PUMS last modified 21 July 2026; the document is a capture dated 9 August 2026 ([source, 2026-08-09](https://nsa.org.na/data-portals/)).
 
+### Nigeria: 2 Nascent
+
+Anambra State's website offered open data in 2026; no open licence is known.
+
+- Anambra State Government launched a redesigned official website at anambrastate.gov.ng whose Open Government section gives access to budgets, audit reports, procurement plans, contract awards and open data; no dataset count is given and the document's date, 2026-10-01, is used as the launch date ([source, 2026-10-01](https://techtrends.africa/anambra-launches-digital-gateway-to-unify-government-services-open-data-and-citizen-engagement/)).
+
 ### Rwanda: 2 Nascent
 
 Procurement data was published for download from 2024; its licence bars commercial reuse, so no open licence is known.
@@ -318,12 +326,6 @@ No government data published for download since 2023 is on record, so no stage i
 Not established: No government data published for download is on record since October 2023.
 
 ### Kenya: Unplaced
-
-No government data published for download since 2023 is on record, so no stage is set.
-
-Not established: No government data published for download is on record since October 2023.
-
-### Nigeria: Unplaced
 
 No government data published for download since 2023 is on record, so no stage is set.
 

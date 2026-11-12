@@ -1,16 +1,17 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "unplaced",
-   "access": "",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No government data published for download is on record since October 2023.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "access": "published",
+      "breadth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-002",
+      "gaps": "No source found since November 2023 states an open licence for the data.",
+      "note": "Rebuild 2026-11-12, unplaced to 2: Anambra State's website of October 2026 gives access to budgets, procurement plans, contract awards and open data (NGA-002), a yes to question 1, read as Cameroon's and Seychelles' are. No licence is on record, so not 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

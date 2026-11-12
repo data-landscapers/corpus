@@ -26,3 +26,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,LBY,data.open--use-of-open-data,fact,2,5,LBY-006;LBY-002;LBY-004;LBY-005;LBY-003,"GIA open data platform terms let anyone reuse and republish with attribution, answering question 2; nine bodies publishing answer 3 and 4"
 2026-11-12,SEN,data.open--use-of-open-data,fact,2,4,SEN-006;SEN-003;SEN-005;SEN-002;SEN-004,ANSD open data licence agreement answers question 2; two bodies on the Geoportail answer 3
 2026-11-12,TGO,data.open--use-of-open-data,fact,2,5,TGO-006;TGO-002;TGO-005;TGO-003;TGO-007,"opendata.gouv.tg terms put its data under an open licence, answering question 2; 23 ministries on the Geoportail answer 3 and 4"
+2026-11-12,CAF,data.open--use-of-open-data,review,3,4,CAF-006;CAF-007;CAF-003,"IMF names ICASEES, the BEAC and the finance ministry on the summary data page (CAF-006), answering question 3 as Guinea-Bissau's does; licence held (CAF-007), 3 to 4"
+2026-11-12,NGA,data.open--use-of-open-data,review,unplaced,2,NGA-002,"Anambra State's website gives access to open data (NGA-002, October 2026), a yes to question 1 read as Cameroon's and Seychelles' are; no licence, unplaced to 2"
+2026-11-12,BFA,data.open--use-of-open-data,review,5,5,BFA-007;BFA-005,"Stays 5: CITADEL's count of five agencies (BFA-007) with INSD's licence (BFA-005), now named in the sources"
