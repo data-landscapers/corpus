@@ -3,9 +3,9 @@ title: Ghana — News, Oct – Nov 2026
 compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 place: GHA
-ledger_rows: 68
+ledger_rows: 70
 not_held: 9
-record: 664a51700b8d
+record: 42ee1ca5219c
 ---
 
 # News, Oct – Nov 2026
@@ -42,6 +42,8 @@ record: 664a51700b8d
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -323,6 +325,22 @@ Ghana's communications minister said the government has committed US$270 million
 **[Sam George announces national data exchange hub to connect 48 public registries - MyJoyOnline](https://www.myjoyonline.com/sam-george-announces-national-data-exchange-hub-to-connect-48-public-registries/)** — MyJoyOnline, 21 October 2026
 
 Ghana's communications minister Samuel Nartey George announced a national data exchange hub to connect 48 public registries, so that developers can query several institutions in one request while each keeps ownership of its database. NITA will set common data-classification standards, and private firms wanting government data will have to share their own.
+
+</div>
+
+</div>
+
+### Public debate and participation in policymaking
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Supreme Court challenge to the false-news provisions of Act 29 and Act 775</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Afenyo-Markin calls for repeal of Section 208 of Criminal Offences Act](https://gna.org.gh/2026/11/afenyo-markin-calls-for-repeal-of-section-208-of-criminal-offences-act/)** — Ghana News Agency, 8 November 2026
+
+Minority Leader at 30th GJA awards, 7 Nov 2026; Minority also weighing repeal of s.76 Electronic Communications Act.
 
 </div>
 
@@ -1227,6 +1245,20 @@ Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in 
 **[Financial inclusion expands, but economic well-being remains low at 22%](https://www.citinewsroom.com/2026/11/financial-inclusion-expands-but-economic-well-being-remains-low-at-22/)** — Citi Newsroom, 6 November 2026
 
 Ghana's Ministry of Finance inaugurated a National Technical Working Committee on 5 November 2026. It will draft the second National Financial Inclusion and Development Strategy for 2027 to 2031. Launch is targeted for the first half of 2027, and a Financial Inclusion Council is proposed. The deputy minister cited account ownership above 80% (Global Findex 2025). He also cited 22% of adults financially healthy (FinScope 2021).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Adult account ownership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Eight in 10 Ghanaian adults have an account, but only 22% are financially healthy](https://3news.com/economy/ghana-financial-health-inclusion-strategy)** — 3News, 7 November 2026
+
+Findex puts account ownership at 81% (2024), up from 29% in 2011; strategy launch due H1 2027; health framework planned.
 
 </div>
 
