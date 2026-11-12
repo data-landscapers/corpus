@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 214
+sources_cited: 215
 sections_written: 39
 not_established: 2
 acquire_lines: 51
@@ -224,7 +224,7 @@ South Sudan had [no human resource management system for the public service and 
 
 [A programme-specific biometric beneficiary system has run under World Bank-financed safety nets since 2014, and authenticated 100% of programme payments by 2024](https://documents1.worldbank.org/curated/en/220671548682108567/pdf/Final-South-Sudan-SP-Stocktaking-Report.pdf). [There is no unified national social registry](https://documents1.worldbank.org/curated/en/220671548682108567/pdf/Final-South-Sudan-SP-Stocktaking-Report.pdf). It runs [its own biometric registration and deduplication, not the national ID](https://documents1.worldbank.org/curated/en/108181587397967837/pdf/South-Sudan-Safety-Net-Project.pdf). [A social insurance system is in use but does not interoperate with other government systems and does not use the national identification number](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The social insurance fund opened contributor registration on 1 October 2026 and began talks with a bank on linking its digital platform](https://radioyei.org/news/business/insurance/nsif-ecobank-explore-digital-integration-as-contributor-registration-nears/). [An education-in-emergencies information system was launched on the DHIS2 platform, with 12 county education departments equipped](https://www.unesco.org/en/articles/south-sudan-launches-new-education-emergencies-data-system-strengthen-crisis-education-response) (August 2026).
 
-[A UN agency reports 10,836 cases recorded in 2021 through a case monitoring system for the judiciary, the justice ministry and the national police in Juba](https://rolhr.undp.org/annualreport/2021/africa/south-sudan.html).
+[A UN agency reports 10,836 cases recorded in 2021 through a case monitoring system for the judiciary, the justice ministry and the national police in Juba](https://rolhr.undp.org/annualreport/2021/africa/south-sudan.html). [On 5 December 2025 a UN mission handed a crime management database to the national police's ICT directorate in Juba](https://cand.vn/canh-sat-viet-nam-thiet-ke-thanh-cong-he-thong-quan-ly-toi-pham-tai-nam-sudan-post790283.html).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
