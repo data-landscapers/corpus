@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-15-sdn-shutdown-sudan-internet-connectivity-curtailed-during-examination-peri",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Sudan",
+      "class": "satellite",
+      "platform": "satellite",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Parent check: the report says Starlink traffic continued through the shutdowns and gives its market share; it states no sale or licence, and SDN-006 already holds Pulse's statement that Starlink is not legally available."
+}

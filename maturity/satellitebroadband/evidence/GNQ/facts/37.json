@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-01-gnq-keepiton-las-autoridades-de-guinea-ecuatorial-deben-poner-fin-al-bloqu",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "The #KeepItOn coalition says Equatorial Guinea's government banned the sale and use of unauthorised satellite internet services and equipment on 2 August 2024 and on 5 August ordered Starlink to suspend all services and apply for a licence.",
+   "as_of": "2024-08-05",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Equatorial Guinea",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
