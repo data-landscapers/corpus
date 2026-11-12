@@ -98,3 +98,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,TGO,dpi.id--use-by-other-systems,fact,2,3,TGO-005;TGO-001,World Bank 2026: the social registry RSPM ingests the e-ID number automatically; 2 to 3
 2026-11-09,NGA,dpi.id--use-by-other-systems,fact,4,4,NGA-006;NGA-007;NGA-010;NGA-013;NGA-008;NGA-016,"President: NIMC linked with 125 agencies including the tax service (2025); tax use now shown in practice, no matching figure, stays 4"
 2026-11-09,BEN,dpi.id--use-by-other-systems,ladder,3,4,BEN-001;BEN-007;BEN-003;BEN-008,"Bill, message 107: the window counts from the source's date; the tax file's link (La Marina BJ, Nov 2026) is a third main register"
+2026-11-12,SDN,dpi.id--use-by-other-systems,fact,no evidence,3,SDN-001,"Ayin (October 2026): Omdurman land records searchable by national number and deed applications carry it; one public register keyed on the ID, so stage 3."

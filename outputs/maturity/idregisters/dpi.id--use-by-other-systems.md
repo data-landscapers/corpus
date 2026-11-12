@@ -22,11 +22,11 @@ The African Union's interoperability framework and Data Policy Framework ask tha
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 6 |
-| 3 Established | 15 |
+| 3 Established | 16 |
 | 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 21 |
+| No evidence | 20 |
 
 ## Countries
 
@@ -179,6 +179,12 @@ Government payroll was linked to the national ID number by 2024; no source found
 
 - Vibbie says the NIN is linked to government payroll, among other government services, under the parliament's ratification and directives ([source, 2024-04-11](https://www.biometricupdate.com/202404/sierra-leone-putting-digital-id-at-the-center-of-its-digital-transformation-agenda)).
 - The Electoral Commission said on 10 August 2026 that linking its voter registration with the NCRA identity system would help verify eligible voters and reduce duplication ahead of the 2028 elections ([source, 2026-08-10](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/)).
+
+### Sudan: 3 Established
+
+The land registry used the national number to find records in 2026; whether tax, payroll or the electoral roll use it is unknown.
+
+- Ayin Network quotes an Omdurman land-registration employee saying the electronic land records can be searched by owner name and national number, and applications for replacement deeds carry the national number ([source, 2026-10-12](https://3ayin.com/real-estate-ownership-dispute-/)).
 
 ### Togo: 3 Established
 
@@ -364,12 +370,6 @@ Nothing found names a public register using the national ID number or says there
 Not established: Nothing found says whether public registers use the national ID number.
 
 ### South Sudan: No evidence
-
-Nothing found names a public register using the national ID number or says there is none, so no stage is set.
-
-Not established: Nothing found says whether public registers use the national ID number.
-
-### Sudan: No evidence
 
 Nothing found names a public register using the national ID number or says there is none, so no stage is set.
 

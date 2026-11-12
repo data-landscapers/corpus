@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-15-uga-igad-land-governance-twinning-exercise-between-uganda-and-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "IGAD says Uganda's Land Information System integrates land records with the National ID.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Land Information System",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

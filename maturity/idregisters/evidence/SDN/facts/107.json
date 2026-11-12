@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-12-sdn-3ayin-recovering-property-deeds-after-war",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Ayin Network quotes an Omdurman land-registration employee saying the electronic land records can be searched by owner name and national number, and applications for replacement deeds carry the national number.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "Land registration electronic database",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "registers",
-      "stage": "no evidence",
-      "register": "",
+      "stage": "3",
+      "register": "inservice",
       "several": "",
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether public registers use the national ID number.",
-      "note": "No row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-07"
+      "stage_sources": "SDN-001",
+      "gaps": "The one register shown is the land registry, from an Omdurman office in October 2026. No electoral, tax, payroll, social protection or business register is shown using the national number.",
+      "note": "Electronic land records can be searched by national number and deed applications carry it, so a public register uses the number: stage 3. No main register is shown, so not 4.",
+      "as_at": "2026-11-12"
     }
   ]
 }

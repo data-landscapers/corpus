@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-28-gha-lands-commission-backs-digital-reforms-to-boost-affordable-housing",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Dr Benjamin Quaye of the Lands Commission says the Commission is integrating the Ghana Card into its land system for identity-based transactions.",
+   "as_of": "2025-08-28",
+   "date_precision": "day",
+   "system": "Enterprise Land Information System",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enterprise Land Information System",
+   "country_label": "Ghana",
+   "class": "register",
+   "platform": "",
+   "owner": "Lands Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "The integration is stated as in progress, not as a register keyed on the number in service."
+}
