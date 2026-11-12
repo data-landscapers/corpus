@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 213
+sources_cited: 214
 sections_written: 39
 not_established: 2
 acquire_lines: 48
