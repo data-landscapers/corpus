@@ -129,6 +129,7 @@ The national authority ran the ID system day to day in 2026; no source found say
 
 The national authority ran the ID system day to day in 2026; no source found says who maintains it.
 
+- The Presidency's release says the unique-identifier enrolment, launched 11 November 2026, is run by the ministry in charge of digital transition, with everything done by Burkinabè engineers and Burkina's public bodies ([source, 2026-11-11](https://www.sidwaya.info/2026/11/11/operation-denregistrement-de-masse-de-lidentifiant-unique-le-capitaine-ibrahim-traore-lance-loperation-denrolement/)).
 - The Office national d'identification (ONI) runs the enrolment of the AES biometric identity card (CIB-AES), opening nine extra sites in Ouagadougou beside its main centre and setting delivery at 48 hours, per an ONI communiqué ([source, 2026-09-14](https://www.fasoamazone.net/2026/09/15/id-day-2026-loni-ouvre-plusieurs-sites-denrolement-a-ouagadougou-face-a-laffluence-pour-la-cib-aes/)).
 - The ONI, the national identification office, runs CIB-AES enrolment and production, with its own production centres in regional capitals ([source, 2026-09-09](https://www.sidwaya.info/carte-didentite-biometrique-aes-les-operations-detablissement-lancees-a-koudougou/)).
 

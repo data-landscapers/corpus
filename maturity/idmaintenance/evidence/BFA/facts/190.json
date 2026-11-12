@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-11-bfa-operation-d-enregistrement-de-masse-de-l-identifiant-unique-le-capitaine-ibrah",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The Presidency's release says the unique-identifier enrolment, launched 11 November 2026, is run by the ministry in charge of digital transition, with everything done by Burkinabè engineers and Burkina's public bodies.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Registre de l'identifiant unique électronique",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "President Traoré says the identifier system is purely Burkinabè, made by Burkinabè engineers and public bodies, with data hosting centres in Burkina Faso.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Registre de l'identifiant unique électronique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre de l'identifiant unique électronique",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry in charge of digital transition",
+   "tiers": ""
+  }
+ ],
+ "note": "Who maintains the system after launch is not stated."
+}

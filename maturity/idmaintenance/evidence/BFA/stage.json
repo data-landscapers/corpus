@@ -6,13 +6,13 @@
       "stage": "3",
       "operation": "national",
       "maintenance": "",
-      "ownership": "",
+      "ownership": "owned",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-003;BFA-004",
-      "gaps": "No source found says national staff maintain the system or the foreign contract has ended.",
-      "note": "The ONI runs the ID system day to day. Nothing says its own staff maintain and upgrade it.",
-      "as_at": "2026-11-07"
+      "stage_sources": "BFA-007;BFA-003;BFA-004",
+      "gaps": "No source found says national staff maintain the system or the foreign contract has ended. The unique identifier system is said to be built by Burkinabè engineers and hosted in the country (BFA-008), but who maintains it is not stated.",
+      "note": "Reassessed 2026-11-12: the unique identifier launched on 11 November 2026 is run by the digital ministry and built in the country (BFA-007, BFA-008), and the ONI runs the card day to day. Nothing says who maintains either, so not 4.",
+      "as_at": "2026-11-12"
     }
   ]
 }
