@@ -1,12 +1,12 @@
 ---
 title: Niger: status report
-compiled: 2026-11-07
+compiled: 2026-11-12
 place: NER
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 195
+sources_cited: 196
 sections_written: 39
 not_established: 1
 acquire_lines: 33
@@ -240,7 +240,7 @@ That single licence is the joint-smallest payment-institution sector in the unio
 ### Digitalisation of sub-national government
 <!-- digital.localgov -->
 
-[Niamey launched Naneye Yarda, its digital municipal tax platform, in January 2025](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/). [Fifty field agents geolocate taxpayers as they collect, and more than two thousand had been located by the launch](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/). [ANSI, the national digital agency, built the system](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/). [Every transaction is audited automatically](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/). [Collection runs through the mobile-money operators Al Izza and Nita](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/).
+[Niamey launched Naneye Yarda, its digital municipal tax platform, in January 2025](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/). [Fifty field agents geolocate taxpayers as they collect, and more than two thousand had been located by the launch](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/). [ANSI, the national digital agency, built the system](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/). [Every transaction is audited automatically](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/). [Collection runs through the mobile-money operators Al Izza and Nita](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/). [By January 2026, 35,000 Niamey taxpayers were registered on it, with CFA 8.08 billion assessed and CFA 2 billion collected](https://www.lesahel.org/journee-portes-ouvertes-a-lhotel-de-ville-de-niamey-faire-decouvrir-linstitution-et-expliquer-le-fonctionnement-du-projet-naneye-yarda/).
 
 [In 2022 the commercial and moveable-credit register was held electronically only for enterprises registered in Niamey](https://eiti.org/document/21647). [Regional tribunals processed registrations by hand, outside the national database](https://eiti.org/document/21647). [In 2025 civil-status computerisation reached a minority of the 266 communes, with roll-out continuing under a 2023-2027 plan](https://actuniger.com/societe/20979-etat-civil-le-niger-revoit-sa-strategie-2023-2027-pour-eradiquer-linvisibilite-de-32-des-enfants.html). [The WURI project's 2026 account of its digital civil-status platform matches that picture](https://www.wuri.ne/etat-civil/). [Enrolment in the National Population Register is to begin in Niamey's five arrondissements communaux before reaching the other regions](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/).
 
