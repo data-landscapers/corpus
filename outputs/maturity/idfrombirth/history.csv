@@ -77,3 +77,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,ZAF,dpi.id--digital-id-from-birth,fact,no evidence,3,ZAF-001,"Home Affairs reply NW4978, Nov 2025: an ID number is allocated when a birth is registered through health facilities; no evidence to 3"
 2026-11-09,KEN,dpi.id--digital-id-from-birth,fact,2,2,KEN-002;KEN-005;KEN-004,"Kenya ID4Africa deck, May 2026, shows the UPI in use by civil registration; older than the October 2026 statements that issue at birth is still to roll out, so 2 holds"
 2026-11-10,KEN,dpi.id--digital-id-from-birth,fact,2,2,KEN-010;KEN-002;KEN-005,"Daily Nation, Nov 2026: UPI at birth piloted via e-notification in Nairobi and Bomet, national issue to follow; a pilot, stays 2"
+2026-11-12,MDG,dpi.id--digital-id-from-birth,fact,2,3,MDG-002,"World Bank PRODIGY report: pilot in Antananarivo and Toamasina registered 3,000+ newborns with a unique identification number (Oct 2023), so the number is given in part of the country"

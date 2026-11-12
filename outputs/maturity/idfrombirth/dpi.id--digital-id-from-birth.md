@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy asks for a digital legal ide
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 5 |
-| 3 Established | 10 |
-| 2 Nascent | 14 |
+| 3 Established | 11 |
+| 2 Nascent | 13 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
 | No evidence | 23 |
@@ -103,6 +103,12 @@ Birth certificates have carried a unique national ID number since a 2022-23 camp
 Children were given a unique ID number at birth registration in 2026, at least in part of the country.
 
 - Lesotho's NICR says a unique personal identification number is issued upon birth registration ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-lesotho.pdf)).
+
+### Madagascar: 3 Established
+
+Newborns in two cities were given a unique ID number at birth registration in a 2023 pilot; national issue is not known.
+
+- The World Bank PRODIGY report says the pilot solution in Antananarivo and Toamasina registered over 3,000 newborns and issued birth certificate copies with a unique identification number ([source, 2023-10-23](https://documents1.worldbank.org/curated/en/099122123130031407/pdf/P1694131558e640e51a145152595653587b.pdf)).
 
 ### Malawi: 3 Established
 
@@ -184,12 +190,6 @@ A unique number at birth was piloted in two counties by November 2026; whether c
 Liberia began enrolling children under six with ID numbers in a 2023 programme piloted in three counties; no source ties a number to birth registration.
 
 - The Liberian Investigator reports that in June 2023 the NIR modified its system to assign unique identification numbers to children under six, in a programme now called 'Enrolment at Birth', with a pilot in Montserrado, Grand Bassa and Gbarpolu ([source, 2023-06](https://liberianinvestigator.com/nir-partners-launch-national-id-documents-for-children-under-six/)).
-
-### Madagascar: 2 Nascent
-
-A unique number at birth was provided for or piloted in 2025; none given in service is on record.
-
-- Newsmada reports the Cneci project aims to deliver birth certificates containing a unique authentic biometric identification number ([source, 2025-01](https://newsmada.com/2025/01/20/etat-civil-et-identite-nationale-lancement-des-activites-du-cneci/)).
 
 ### Morocco: 2 Nascent
 

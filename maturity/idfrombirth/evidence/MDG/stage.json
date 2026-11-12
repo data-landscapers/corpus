@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "frombirth",
-      "stage": "2",
-      "number": "underway",
+      "stage": "3",
+      "number": "inservice",
       "national": "",
       "complete": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MDG-001",
-      "gaps": "No source found since October 2023 says children receive a number when their birth is registered.",
-      "note": "Rebuild: the Cneci programme aims to deliver birth certificates carrying a unique identification number (2025), stage 2. Nothing says one is given yet.",
-      "as_at": "2026-11-07"
+      "stage_sources": "MDG-002",
+      "gaps": "No source found says every birth registered across the country receives the number; the PRODIGY pilot covered Antananarivo and Toamasina only.",
+      "note": "The World Bank reports that a PRODIGY pilot in Antananarivo and Toamasina registered over 3,000 newborns and issued birth certificates with a unique identification number (October 2023): the number given at registration in part of the country, stage 3. Nothing shows it given nationally, so not stage 4.",
+      "as_at": "2026-11-12"
     }
   ]
 }

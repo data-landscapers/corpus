@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MDG,frombirth,number,coverage,underway,2025-01,MDG-001,,
-MDG,frombirth,national,coverage,,,,,nothing held
-MDG,frombirth,complete,coverage,,,,,nothing held
+MDG,frombirth,number,coverage,inservice,2023-10-23,MDG-002,MDG-001=underway,
+MDG,frombirth,national,coverage,,,,,nothing found
+MDG,frombirth,complete,coverage,,,,,nothing found
