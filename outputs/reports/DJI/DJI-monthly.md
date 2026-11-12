@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: DJI
 ledger_rows: 10
-not_held: 11
-record: 6a20c9ac1712
+not_held: 10
+record: 0939c8facc57
 ---
 
 # News, Oct – Nov 2026

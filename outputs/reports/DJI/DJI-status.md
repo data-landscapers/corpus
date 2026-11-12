@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 25
-sources_cited: 220
+sources_cited: 222
 sections_written: 39
 not_established: 0
 acquire_lines: 21
@@ -358,6 +358,8 @@ Djibouti's research connectivity is being arranged at corridor level: the memora
 The domestic base is institutional rather than large. The [Centre d'Étude et de Recherche de Djibouti is the principal data user of the national space programme HYDROSAT, which flies two 1U CubeSats supervised by MENSUR through the Agence Spatiale Djiboutienne](https://spatialdjiboutien.net/hydrosat/), and [ten Djiboutian students were sent to the Centre Spatial Universitaire de Montpellier to train in designing and building space systems](https://spatialdjiboutien.net/hydrosat/). [CRIPEN, the educational research and production institution, is attached directly to the education ministry](https://www.journalofficiel.dj/texte-juridique/loi-n113-an-24-9eme-l-portant-reorganisation-du-ministere-de-leducation-nationale-et-de-la-formation-professionnelle/) under the 2024 reorganisation law.
 
 University research capacity in digital fields is being built from a low base and with external money: the [Université de Djibouti opened its first master's in artificial intelligence and data modelling in September 2025](https://www.lanation.dj/intelligence-artificielle-ou-en-est-reellement-djibouti/), and the [digitalisation and professionalisation of higher education is financed on concessional terms through to 2027](https://www.afd.fr/fr/carte-des-projets/numerisation-et-professionnalisation-de-lenseignement-superieur). Academics were among the constituencies at the [January 2026 consultation on a national AI strategy](https://www.unesco.org/fr/articles/djibouti-sengage-dans-lelaboration-dune-strategie-nationale-en-matiere-dia-alignee-aux-directives), and [Italy's minister for universities and research visited Djibouti's submarine-cable landing station](https://www.med-or.org/news/il-ministro-bernini-a-gibuti-e-il-progetto-promosso-da-med-or-sullunderwater) (August 2026).
+
+[In April 2026 the university's mathematics and digital technology research centre and a Mogadishu university launched a Somali-language AI and innovation lab](https://www.africa-insight.org/en/article/djibouti-and-somalia-launch-joint-initiative-to-advance-ai-in-the-soma). [Their joint project on detecting Somali-language fake news on social media won a best-paper award at an African language-technology workshop](https://www.africa-insight.org/en/article/djibouti-and-somalia-launch-joint-initiative-to-advance-ai-in-the-soma). [In July 2026 the university's artificial-intelligence research laboratory, which has a joint AI and cybersecurity unit, presented work on cancer-cell detection and on early warning of disasters and epidemics](https://fr.linkedin.com/posts/universit%C3%A9-de-djibouti-656b05294_universit%C3%A9dedjibouti-laria-intelligenceartificielle-activity-7482020728016556032-kbrN).
 
 ## Inclusion
 
