@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-09-ago-uniprime-empresa-chinesa-controla-dados-de-milhoes-de-angolanos-sem-co",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Diario dos Negocios, republishing Imparcial Press, says a 2021 presidential despacho authorised over USD 63 million for production of identity cards and biometric equipment, and that national civil identification coverage remains low four years on.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Bilhete de Identidade",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Angola",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

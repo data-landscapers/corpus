@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-20-uga-nilepost-sage-eligibility-65-bank-accounts",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The minister urged older persons to register for national IDs and said payments require bank accounts linked to National Identification Numbers, implying NINs are in use.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "National Identification Number",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

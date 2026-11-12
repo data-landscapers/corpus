@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-26-cod-identification-numerique-97-1-millions-dinvestissements-pour-deployer",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "DRCPass, the DRC's national digital identification system, is being developed under a PPP signed June 2025 with Trident Digital Tech, with capex needs of USD 97.1 million per a Ministry of Plan document.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "DRCPass",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DRCPass",
+   "country_label": "DRC",
+   "class": "other",
+   "platform": "Trident Digital Tech (Web 3.0 / blockchain)",
+   "owner": "Ministry of Posts, Telecommunications and ICT (PPP with Trident)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

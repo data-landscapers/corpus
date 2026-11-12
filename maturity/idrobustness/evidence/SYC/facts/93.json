@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-09-syc-travizory-in-seychelles",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Seychelles Electronic Border System (SEBS)",
+   "country_label": "SEBS",
+   "class": "other",
+   "platform": "Travizory",
+   "owner": "Department of Immigration",
+   "tiers": ""
+  }
+ ],
+ "note": "SEBS is a border and travel authorisation system, not a national ID system."
+}

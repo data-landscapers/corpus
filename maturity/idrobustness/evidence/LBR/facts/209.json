@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-19-lbr-liberian-ict-firms-warn-of-sovereignty-risk-in-foreign-dominated-contr",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Eight Liberian ICT firms say in their letter that Liberia's National Biometric Identification System was launched in 2012 and designed by Liberian experts.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "National Biometric Identification System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Biometric Identification System",
+   "country_label": "National Biometric Identification System",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

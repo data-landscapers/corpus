@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-nga-10-states-get-mobile-centres-documentation-crisis-displaced",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Vanguard reports the Humanitarian Affairs minister saying that 'every NIN issued' from the mobile vehicles moves a person into the system, with the units equipped for biometric registration.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN)",
+   "country_label": "NIN",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

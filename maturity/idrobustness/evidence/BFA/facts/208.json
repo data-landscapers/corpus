@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-11-bfa-operation-d-enregistrement-de-masse-de-l-identifiant-unique-le-capitaine-ibrah",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "On 11 November 2026 President Traoré launched mass enrolment in the register of the electronic unique identifier, issuing a free random 12-digit number per person, through 160 enrolment sites and mobile teams.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Registre de l'identifiant unique électronique",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The Presidency's release says enrolment collects photograph, fingerprints and iris data to eliminate multiple records, so each person holds a single number.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Registre de l'identifiant unique électronique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre de l'identifiant unique électronique",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry in charge of digital transition",
+   "tiers": ""
+  }
+ ],
+ "note": "No certification, audit or assurance level stated, and no population share enrolled."
+}

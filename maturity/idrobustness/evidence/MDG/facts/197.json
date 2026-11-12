@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-21-mdg-implementation-status-and-results-report-digital-governance-and-identi",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The World Bank PRODIGY report says a decree on the unique identity number was adopted in April 2023, the ID system architecture is validated, scale-up contracts are about to be launched and biometric enrolment procurement is due in coming months.",
+   "as_of": "2023-10-16",
+   "date_precision": "day",
+   "system": "PRODIGY identity management system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

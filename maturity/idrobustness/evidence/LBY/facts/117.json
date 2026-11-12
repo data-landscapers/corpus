@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-lby-vetogate-attorney-general-1-2m-cases-digital-system",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Attorney General's Office advocate-general says the Intilaqa project, with the Civil Registry Authority and the government, is building a secured digital system to protect the national number, to be announced on launch.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "Intilaqa project (secured national ID digital system)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Intilaqa project",
+   "country_label": "Libya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Civil Registry Authority with Attorney General's Office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
