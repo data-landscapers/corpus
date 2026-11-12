@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: SOM
-ledger_rows: 20
+ledger_rows: 23
 not_held: 1
-record: 43946fa98820
+record: 4242bf0b9edb
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: 43946fa98820
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -256,6 +258,20 @@ A digital Ebola travel health pass began on 22 October 2026. Arrivals must file 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Analysis Centre for security data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia Plans Central Security Data System to Fill Reporting Gaps](https://www.dawan.africa/news/somalia-plans-central-security-data-system-to-fill-reporting-gaps)** — Dawan Africa, 11 November 2026
+
+Data Analysis Centre to pool police, NISA and immigration data; funding, timeline and data protection unstated.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -317,6 +333,20 @@ Somalia's House of the People will suspend sessions for two weeks from 31 Octobe
 **[Country Profile on AI Governance: Somalia](https://www.aipolicy.africa/country-profiles/somalia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 19 of 54 states, in a country profile version 1.2 dated 7 October 2026, with 56 of 80 indicators scored. Its strongest pillar is Infrastructure and Data (2.22) and its weakest is Implementation and Impact (0.44); it has no published AI strategy but a Data Protection Act 2023 with rules on transfers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI Hub at the SIMAD AI Institute</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SIMAD University Breaks Ground on Building to Host Somalia's National AI Hub](https://www.dawan.africa/news/simad-university-breaks-ground-on-building-to-host-somalias-national-ai-hub)** — Dawan Africa, 6 November 2026
+
+Ministry places the four-university National AI Hub at SIMAD AI Institute; G+5 building begun 5 November 2026.
 
 </div>
 
@@ -389,6 +419,28 @@ Tabaarak ICT Solutions and the Somali National Artificial Intelligence Centre si
 **[Somalia enrolls citizens returning from Yemen for biometric national IDs](https://www.biometricupdate.com/202610/somalia-enrolls-citizens-returning-from-yemen-for-biometric-national-ids)** — Biometric Update, 22 October 2026
 
 Somalia's National Identification and Registration Authority began enrolling citizens returning from Yemen for biometric national ID cards, working with the National Commission for Refugees and IDPs at its reception camp. NIRA puts national enrolment at about two million against a target of 15 million by 2029, and the Halmeel unified government services platform, covering about 70 services, is due by the end of March 2027.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#open-data">Open data</a>
+</nav>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Finance ministry fiscal data portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministry of Finance | Federal Government of Somalia](https://mof.gov.so/)** — Ministry of Finance, Federal Government of Somalia, 10 November 2026
+
+MoF transparency portal and fiscal dashboard: debt stock US$1.48bn (Q2 2026), figures still being checked.
 
 </div>
 
