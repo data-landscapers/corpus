@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-24-bdi-mauvaise-piece-a-la-mfp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MFP information system",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "integrated software",
+   "owner": "Mutuelle de la Fonction Publique",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a health insurance mutual's own information system, not the national health reporting system."
+}

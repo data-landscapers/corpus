@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-16-tun-la-tunisie-lance-une-plateforme-numerique-innovante-pour-l-agence-nati",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANMPS administrative digital platform",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "web platform",
+   "owner": "Agence nationale des médicaments et des produits de santé",
+   "tiers": ""
+  }
+ ],
+ "note": "Platform is a medicines agency's administrative system, not routine health reporting."
+}

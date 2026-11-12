@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-02-gmb-the-gambia-launches-education-data-center-to-publicly-share-education-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2 national health information system",
+   "country_label": "National health information system (DHIS2)",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Dropped by the parent, stage 4c 2026-11-12: the education story's mention of DHIS2 as the national health system since 2009 repeats GMB-003 and states nothing new on health."
+}
