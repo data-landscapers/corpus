@@ -3,8 +3,8 @@ title: Open data — News, October – November 2026
 compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 subject: data.open
-places: BFA; TCD; GMB; GNB; KEN; LBY; MDG; MUS; SEN; SLE; TGO; TUN; ZWE
-record: 449d8681940e
+places: BFA; CPV; TCD; CIV; GMB; GNB; KEN; LBY; MDG; MUS; SEN; SLE; SOM; ZAF; TGO; TUN; UGA; ZWE
+record: 4031ef0777bf
 ---
 
 # News, Oct – Nov 2026
@@ -12,7 +12,11 @@ record: 449d8681940e
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cape-verde">Cape Verde</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#chad">Chad</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gambia">Gambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -30,9 +34,15 @@ record: 449d8681940e
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#somalia">Somalia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#uganda">Uganda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
@@ -53,6 +63,22 @@ Burkina Faso's national statistics institute, INSD, publishes an open data licen
 
 </div>
 
+## Cape Verde
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open-data portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Decreto-Lei n.º 45/2026 (Boletim Oficial, I Série, n.º 109)](https://faolex.fao.org/docs/pdf/cvi248337.pdf)** — Boletim Oficial da República de Cabo Verde, 8 October 2026
+
+Organic law of new state-reform ministry; DNME given open data, public-documents portal and Chave Móvel Digital.
+
+</div>
+
+</div>
+
 ## Chad
 
 <div class="monthly-story" markdown="1">
@@ -64,6 +90,22 @@ Burkina Faso's national statistics institute, INSD, publishes an open data licen
 **[Tchad : le CDIG lance des outils numériques pour moderniser la gestion de l’eau](https://lendjampost.com/tchad-le-cdig-lance-des-outils-numeriques-pour-moderniser-la-gestion-de-leau/)** — Le N'Djam Post, 27 October 2026
 
 Chad's Centre de Documentation et d'Information Géographique presented a water-resources geoportal and the SITEAU-APP mobile application on 27 October 2026. The tools are meant to give ministries, projects, NGOs and partners in the water sector a shared data source with checks on data quality. A field test is planned at Bongor in Mayo-Kebbi Est.
+
+</div>
+
+</div>
+
+## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open Data Cote d'Ivoire initiative and data.gouv.ci</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Données - Portail officiel des données ouvertes](https://data.gouv.ci/datasets)** — CICG, Gouvernement de Côte d'Ivoire, 20 October 2026
+
+211 datasets as captured 2026-11-12, economy 73 and society 39 leading; newest update 20 October 2026.
 
 </div>
 
@@ -225,6 +267,38 @@ Sierra Leone has set up a national committee for UNESCO's Information for All Pr
 
 </div>
 
+## Somalia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Finance ministry fiscal data portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministry of Finance | Federal Government of Somalia](https://mof.gov.so/)** — Ministry of Finance, Federal Government of Somalia, 10 November 2026
+
+MoF transparency portal and fiscal dashboard: debt stock US$1.48bn (Q2 2026), figures still being checked.
+
+</div>
+
+</div>
+
+## South Africa
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Treasury eTender transparency portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transparency Portal Beta - National Treasury](https://data.etenders.gov.za/home/index)** — National Treasury, 11 November 2026
+
+OCDS procurement data from May 2021 under CC BY 4.0, with REST API; 169,559 tenders, 73,447 awards (Nov 2026).
+
+</div>
+
+</div>
+
 ## Togo
 
 <div class="monthly-story" markdown="1">
@@ -252,6 +326,22 @@ The terms of use of Togo's open data platform, opendata.gouv.tg, make registrati
 **[Portail National des Données Ouvertes en Tunisie](https://data.gov.tn/fr/)** — Présidence du Gouvernement, Tunisie, 16 October 2026
 
 Tunisia's national open data portal lists datasets by theme and publisher, with agriculture the largest theme, and shows nine recorded reuse cases. Its latest news item, from March 2026, is a workshop on the final draft of a national strategy for the governance and opening of public data.
+
+</div>
+
+</div>
+
+## Uganda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public procurement authority open contracting data feed</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda: Public Procurement and Disposal of Public Assets Authority (PPDA)](https://data.open-contracting.org/en/publication/130)** — Open Contracting Partnership, OCP Data Registry, 1 October 2026
+
+OCDS feed Jul 2015 to Oct 2026 under ODC-By; 210 entities enrolled; 71,639 tenders, 142,168 contracts.
 
 </div>
 

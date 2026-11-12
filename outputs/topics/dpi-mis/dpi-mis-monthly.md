@@ -4,7 +4,7 @@ compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 subject: dpi.mis
 places: AGO; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 91986f3da669
+record: 4e18a9ac0913
 ---
 
 # News, Oct – Nov 2026
@@ -1168,6 +1168,20 @@ The EU is giving EUR 2 million over two years through WFP for Sierra Leone's sch
 **[Somalia launches digital Ebola travel health pass](https://horneconomicreview.com/2026/10/25/somalia-launches-digital-ebola-travel-health-pass)** — Horn Economic Review, 25 October 2026
 
 A digital Ebola travel health pass began on 22 October 2026. Arrivals must file an online health declaration before travel. It was built by the National Institute of Health and starts at Aden Adde International Airport, with extension to other airports, seaports and land borders on no stated timeline.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Analysis Centre for security data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia Plans Central Security Data System to Fill Reporting Gaps](https://www.dawan.africa/news/somalia-plans-central-security-data-system-to-fill-reporting-gaps)** — Dawan Africa, 11 November 2026
+
+Data Analysis Centre to pool police, NISA and immigration data; funding, timeline and data protection unstated.
 
 </div>
 

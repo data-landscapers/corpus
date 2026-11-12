@@ -3,8 +3,8 @@ title: Access to services — News, October – November 2026
 compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 subject: include.access
-places: BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
-record: ba950a6845d2
+places: BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
+record: a8dae207c6b2
 ---
 
 # News, Oct – Nov 2026
@@ -46,12 +46,29 @@ record: ba950a6845d2
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tunisia">Tunisia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
 </nav>
 
 ## Burkina Faso
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial inclusion rate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inclusion financière : avec 79,7 % à fin 2024, le Burkina en avance de 6,1 points sur le taux global de l'UEMOA](https://cfinance.news/article/inclusion-financiere-avec-797-a-fin-2024-le-burkina-en-avance-de-61-points-sur-le-taux-global-de-luemoa/)** — C'Finance, 21 October 2026
+
+Expert talk: half of those included through e-money leave accounts unused; strict banking only 23.4% (2024).
+
+</div>
+
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -191,6 +208,20 @@ Ghana's Ministry of Finance inaugurated a National Technical Working Committee o
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Adult account ownership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Eight in 10 Ghanaian adults have an account, but only 22% are financially healthy](https://3news.com/economy/ghana-financial-health-inclusion-strategy)** — 3News, 7 November 2026
+
+Findex puts account ownership at 81% (2024), up from 29% in 2011; strategy launch due H1 2027; health framework planned.
+
+</div>
+
+</div>
+
 ## Kenya
 
 <div class="monthly-story" markdown="1">
@@ -312,6 +343,20 @@ Mauritius's Cabinet on 23 October 2026 noted the setting up of a Mauritius Digit
 </div>
 
 ## Nigeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile internet disruption in Zamfara North</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Freedom on the Net 2026: Nigeria](https://freedomhouse.org/country/nigeria/freedom-net/2026)** — Freedom House, 1 October 2026
+
+Score 56/100, partly free; access score cut over Zamfara disruptions; DSS bid to take down critic's posts.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -526,6 +571,22 @@ Tanzania's communications regulator (TCRA) said its project to adopt assistive t
 **[UCSAF to improve mobile network coverage on SGR](https://www.thecitizen.co.tz/tanzania/news/national/ucsaf-to-improve-mobile-network-coverage-on-sgr-5657830)** — The Citizen, 4 November 2026
 
 Tanzania's UCSAF said on 3 November 2026 that it is preparing a project to fix mobile coverage along the Dar es Salaam-Dodoma railway within a year. Of 2,324 planned towers, 2,199 are complete, reaching 2,053 of 2,306 targeted wards. A further 82 sites are due for tender in January-February 2027.
+
+</div>
+
+</div>
+
+## Tunisia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Account ownership and bank accounts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bancarisation en Tunisie : moins de comptes, plus d'agences, quel cap ?](https://www.challenges.tn/economie/bancarisation-en-tunisie-moins-de-comptes-plus-dagences-quel-cap/)** — Challenges TN, 11 November 2026
+
+Bank accounts down 1.8% to 10.5 million in 2025 as branches rise to 2,081; Findex puts account ownership at 37.8%.
 
 </div>
 

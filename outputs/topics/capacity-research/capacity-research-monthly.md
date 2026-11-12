@@ -3,8 +3,8 @@ title: Research institutions — News, October – November 2026
 compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 subject: capacity.research
-places: BFA; ETH; LBY; MWI; SLE; ZAF; UGA
-record: b9143a59d9a9
+places: BFA; ETH; LBY; MWI; SEN; SLE; ZAF; UGA
+record: ebcda165243c
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: b9143a59d9a9
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#malawi">Malawi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -84,6 +86,22 @@ Libya's Authority for Scientific Research signed a memorandum with the office of
 **[Ubuntu in Action: MAREN and RENU Sign MoU to Advance Research and Education in Africa!](https://maren.ac.mw/ubuntu-in-action-maren-and-renu-sign-mou-to-advance-research-and-education-in-africa/)** — MAREN, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
 The research and education networks of Malawi (MAREN) and Uganda (RENU) signed a memorandum of understanding at UbuntuNet-Connect 2026 in Lilongwe. The chief executives, Solomon Dindi and Nicholas Mbonimpa, signed it. It covers institutional collaboration and the sharing of knowledge and experience.
+
+</div>
+
+</div>
+
+## Senegal
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National digital-policy research agenda</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Avant le Forum régional de Dakar, une journée pour poser les bonnes questions](https://fr.linkedin.com/posts/laspad-ugb_laspad-gdn-crdi-activity-7518645942200369152-maiW)** — LASPAD UGB, 21 October 2026
+
+GDN, ministry and IDRC convene Dakar workshop, 19 Oct 2026, to co-design a national digital-policy research agenda.
 
 </div>
 

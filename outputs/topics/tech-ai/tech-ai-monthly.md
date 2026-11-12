@@ -4,7 +4,7 @@ compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d3430e69a262
+record: c5e724c98afd
 ---
 
 # News, Oct – Nov 2026
@@ -1519,6 +1519,20 @@ Sierra Leone scored 0.72 out of 4 on the Africa AI Governance Index 2026, in the
 **[Country Profile on AI Governance: Somalia](https://www.aipolicy.africa/country-profiles/somalia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 19 of 54 states, in a country profile version 1.2 dated 7 October 2026, with 56 of 80 indicators scored. Its strongest pillar is Infrastructure and Data (2.22) and its weakest is Implementation and Impact (0.44); it has no published AI strategy but a Data Protection Act 2023 with rules on transfers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI Hub at the SIMAD AI Institute</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SIMAD University Breaks Ground on Building to Host Somalia's National AI Hub](https://www.dawan.africa/news/simad-university-breaks-ground-on-building-to-host-somalias-national-ai-hub)** — Dawan Africa, 6 November 2026
+
+Ministry places the four-university National AI Hub at SIMAD AI Institute; G+5 building begun 5 November 2026.
 
 </div>
 

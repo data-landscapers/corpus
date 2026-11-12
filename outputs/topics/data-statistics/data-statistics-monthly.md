@@ -4,7 +4,7 @@ compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 subject: data.statistics
 places: DZA; BDI; CAF; COG; COD; EGY; GNQ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
-record: 1e5a8d353800
+record: 39c5119762ef
 ---
 
 # News, Oct – Nov 2026
@@ -323,6 +323,20 @@ WorldPop and the UK Office for National Statistics ran a five-day workshop in Bl
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">International merchandise trade yearbook</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Statistiques du commerce extérieur](https://www.instat-mali.org/fr/publications/statistiques-du-commerce-exterieur)** — Institut National de la Statistique (INSTAT), Mali, 5 October 2026
+
+INSTAT quarterly trade bulletins Q1 2013 to Q1 2026 and annual trade yearbooks 2017-2025, free to download.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Fourth Schéma Directeur de la Statistique and its 2026-2030 action plan</p>
 
 <div class="bulletin-item" markdown="1">
@@ -330,6 +344,20 @@ WorldPop and the UK Office for National Statistics ran a five-day workshop in Bl
 **[Mali : Communiqué du conseil des ministres du vendredi 9 octobre 2026 - CM N°2026-40/SGG](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/)** — Icimali (communiqué du Secrétariat Général du Gouvernement), 10 October 2026
 
 Mali's Council of Ministers on 9 October 2026 took note of the country's fourth statistics master plan and its 2026-2030 action plan, presented by the economy and finance minister. It rests on four axes: managing the national statistical system, building its capacity, statistical production and analysis, and modernised dissemination. No cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Agricultural situation survey (Enquête Agricole de Conjoncture)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mali releases 2023–24 agricultural data under the 50x2030 Initiative](https://www.fao.org/in-action/agrisurvey/news/news-detail/mali-releases-2023-24-agricultural-data-under-the-50x2030-initiative/en)** — FAO, 3 November 2026
+
+First 50x2030 results for Mali: 7.45m ha cultivated, 8.84m t cereals; tables on national open data portal.
 
 </div>
 

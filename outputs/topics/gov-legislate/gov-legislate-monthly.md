@@ -4,7 +4,7 @@ compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 70e9a21f90ea
+record: 34c4a273255d
 ---
 
 # News, Oct – Nov 2026
@@ -214,6 +214,20 @@ Burundi's mandatory SIM and eSIM registration, begun in mid-June, was about 70 p
 </div>
 
 ## Cape Verde
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Aviso 6/2019, minimum capital of payment and electronic-money institutions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Capital mínimo trava novas empresas tecnológicas no setor bancário, diz consultor](https://caboverde24.info/2026/10/14/capital-minimo-trava-novas-empresas-tecnologicas-no-setor-bancario-diz-consultor/)** — Caboverde24, 14 October 2026
+
+2019 notice sets 2m-20m escudo capital floors by payment activity; 20m for e-money institutions.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1368,6 +1382,20 @@ Rights groups and activists warn that a temporary decree issued by army commande
 **[مجلس الوزراء يدين الاعتداءات المتكررة على المنشآت الخدمية عبر المسيرات التي تنطلق دولة إثيوبيا](https://suna.sd/posts/mgls-alozraaa-ydyn-alaaatdaaaat-almtkrr-aal-almnshat-alkhdmy-aabr-almsyrat-alty-tntlk-mn-dakhl-dol-athyobya)** — Sudan News Agency (SUNA), 1 November 2026
 
 Sudan's Council of Ministers approved three draft laws from the Ministry of Digital Transformation and Communications on 1 November 2026. They are a Cybersecurity Regulation Bill, a Data and Artificial Intelligence Regulation Bill and a Digital Transformation Regulation Bill. The bill texts were not published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybercrime law prosecutions for speech</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sudanese Journalists' Syndicate documents 673 violations and calls for end to impunity](https://www.dabangasudan.org/en/all-news/article/sudanese-journalists-syndicate-documents-673-violations-and-calls-for-end-to-impunity)** — Dabanga Radio TV Online, 2 November 2026
+
+673 violations to June 2026; Cybercrime Act complaints against 47 journalists, 18 declared wanted; repeal demanded.
 
 </div>
 

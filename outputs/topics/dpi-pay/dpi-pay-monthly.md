@@ -3,8 +3,8 @@ title: Digital Payments and Fintech — News, October – November 2026
 compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 subject: dpi.pay
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: cb1ee8840c3a
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MLI; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 34d24593db3f
 ---
 
 # News, Oct – Nov 2026
@@ -53,6 +53,8 @@ record: cb1ee8840c3a
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -1002,6 +1004,22 @@ Madagascar's development intervention fund FID is tendering for mobile-money pro
 
 </div>
 
+## Mali
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional instant payment platform participation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mali : nouvelles règles pour les transferts numériques](https://fr.apanews.net/business/mali-nouvelles-regles-pour-les-transferts-numeriques/)** — APAnews, 2 November 2026
+
+Orange Finances Mobiles Mali lifts wallet cap to CFA 4 million; 14 Malian PI-SPI participants; usage 61.9% (2025).
+
+</div>
+
+</div>
+
 ## Mauritius
 
 <div class="monthly-story" markdown="1">
@@ -1511,6 +1529,20 @@ Le Soleil reports from the BCEAO's 2025 financial inclusion report that Senegal'
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Third-party payment provider public register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[TPPP Public Register](https://www.resbank.co.za/content/dam/sarb/what-we-do/payments-and-settlements/regulation/public-lists/public-list-tppp-13-10-2026.pdf)** — South African Reserve Bank, 13 October 2026
+
+554 numbered TPPP entries by sponsoring bank and stream as at 13 Oct 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Postbank authorisation as a bank</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1844,6 +1876,21 @@ BCEAO said on 5 November 2026 that its PI-SPI instant payment platform had proce
 La Poste Tunisienne said about 1.57 million pupils, some 75%, and about 287,300 university students, some 76%, paid their 2026–2027 registration fees online using its free e-Dinar wallets. The post office also brought a new integrated ERP system into operation and launched the Universal Postal Union's Ecom@africa e-commerce exchange platform at Tunis-Carthage airport.
 
 </div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Active digital wallet count</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paiement mobile : Ouverts & dormants](https://africanmanager.com/paiement-mobile-ouverts-dormants/)** — African Manager, 8 November 2026
+
+End-2025: 113,739 payment-institution accounts, only 11.3% active; 17.3m dinars of losses; diaspora inflows dominate.
+
+</div>
+
 
 </div>
 
