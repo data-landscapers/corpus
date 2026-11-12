@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-rwa-declare-your-immovable-property-tax-today-to-avoid-procrastination",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Rwanda Revenue Authority says taxpayers log in to its website with their TIN and password to declare property tax, which implies a computerised register keyed on TIN.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "RRA online declaration system",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

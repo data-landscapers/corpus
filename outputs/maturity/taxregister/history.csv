@@ -53,3 +53,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-08,ETH,dpi.registry--tax-register,fact,unplaced,3,ETH-003,"ICTD (May 2024) says the Ministry of Revenue registers TINs with biometric data: register in service, so unplaced to 3"
 2026-11-11,MOZ,dpi.registry--tax-register,fact,unplaced,4,MOZ-003;MOZ-002,CEDSIF lists e-Tributacao NUIT registration module (2026-09): register in service; NUIT used for customs; unplaced->4
 2026-11-11,SEN,dpi.registry--tax-register,fact,unplaced,3,SEN-001;SEN-002,Online NINEA registration for foreign suppliers (2024-04) with SENTAX online registration: register in service; unplaced->3
+2026-11-12,RWA,dpi.registry--tax-register,fact,unplaced,3,RWA-003,The RRA's 2024 notice has owners declare property tax online with their TIN and password: unplaced to 3. The RDB single-TIN page is dated only to 2026.

@@ -8,6 +8,7 @@ BDI,easybusiness.bi,Burundi,other,online business registration site,Agence de de
 BDI,e-KORI,Burundi,tax,online platform for internal taxes and non-tax revenue,Office Burundais des Recettes (OBR),"natural persons, legal persons, cooperative societies",2026-08-04-obr-e-kori-plateforme-immatriculation-en-ligne
 BDI,Easy Business,Burundi,other,online business registration platform,Agence de Developpement du Burundi (ADB),,2026-08-04-obr-e-kori-plateforme-immatriculation-en-ligne
 BDI,e-KORI,Burundi,tax,ekori.obr.gov.bi,Office burundais des Recettes (OBR),,2026-08-04-bdi-burundi-toutes-les-demandes-d-immatriculation-desormais-digitalisees-e
+BDI,UMUTANGAKORI II,UMUTANGAKORI II,tax,,Office Burundais des Recettes,,2026-07-01-bdi-communique-declaration-et-paiement-en-ligne-de-l-impot-foncier
 BEN,Registre national des personnes physiques,Benin,other,,Anip,,2026-07-16-adjinacou-maternite-identite-legale
 BEN,Registre National des Personnes Physiques (RNPP),Benin,other,,ANIP,,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben
 BEN,IFU,Bénin,tax,ifu.impots.bj,Direction générale des impôts,,2020-10-01-ben-gouv-tout-savoir-ifu
@@ -84,9 +85,12 @@ SDN,Commercial Register,Sudan,other,,,,2026-04-27-sudan-tax-chamber-tax-procedur
 SEN,Répertoire national des Entreprises et Associations (RNEA),Senegal,other,,ANSD,,2026-02-09-ansd-bulletin-trimestriel-immatriculations-ninea
 SEN,SENTAX,Senegal,other,sentax.dgid.sn,Direction générale des Impôts et des Domaines,,2026-01-01-sen-dgid-sentax-teledeclaration-immatriculation
 SEN,Etax,Senegal (eservices.dgid.sn),tax,,Direction Generale des Impots et des Domaines,,2024-07-01-sen-dgid-order-article-355-bis-digital-vat
+SEN,SIGUIL,Senegal,tax,,DGID,national,2025-01-21-sen-optimizing-property-tax-administration-the-importance-of-an-effective
 SLE,ITAS,Integrated Tax Administration System,tax,NRA website,National Revenue Authority,domestic tax,2023-05-01-sle-nra-online-tin-application
 SSD,eTax,South Sudan,tax,,South Sudan Revenue Authority,,2024-01-01-eservices-account-government-services-south-sudan
 SSD,eServices Account,South Sudan,other,,"Ministry of Information, Communication Technology and Postal Services",,2024-01-01-eservices-account-government-services-south-sudan
+SSD,eTax,South Sudan,tax,,South Sudan Revenue Authority,,2026-11-11-ssd-eservices-portal-ministries-and-services-catalogue
+SSD,Electronic TIN registration system; Domestic Tax Integrated System,South Sudan,tax,,South Sudan Revenue Authority,,2026-06-13-ssd-radioyei-ssra-arrears-file-pay-online
 SWZ,ASYCUDA,ASYCUDA,other,,,,2024-01-01-eswatini-tin-registration-procedure
 SYC,TIN Registration (e-Service Gateway),Seychelles,tax,eservice.egov.sc,Government of Seychelles,company,2025-01-01-seychelles-tin-registration-company
 TCD,E.Tax platform,Chad,tax,,Direction Generale des Impots,,2024-08-12-pwc-worldwide-tax-summaries-chad-significant-developments

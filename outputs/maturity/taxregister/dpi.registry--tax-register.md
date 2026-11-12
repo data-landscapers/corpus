@@ -22,10 +22,10 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 12 |
-| 3 Established | 20 |
+| 3 Established | 21 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 12 |
+| Unplaced | 11 |
 | No evidence | 7 |
 
 ## Countries
@@ -205,6 +205,12 @@ Since 2026 a tax platform registers foreign digital-service providers and issues
 - The Direction generale des impots launched in May 2026 the electronic platform 'Taxation on Digital Services' for non-resident foreign providers to register, declare their Moroccan turnover and pay VAT, under decree 2.25.862 of 27 November 2025 ([source, 2026-05](https://fr.hespress.com/489385-publicite-meta-applique-la-tva-au-maroc-des-octobre.html)).
 - Decree 2.25.862 of 27 November 2025 requires non-resident remote service suppliers to register on an electronic platform set up by the tax administration, which then issues them a tax identification number electronically; it enters into force six months after publication ([source, 2025-11-27](https://ecoactu.ma/wp-content/uploads/2025/12/decret-pour-la-TVA-sur-les-services-a-distance-au-Maroc-fournis-par-des-prestataires-non-residents-Art-115-Bis-du-CGI.pdf)).
 
+### Rwanda: 3 Established
+
+Taxpayers declared tax online with their tax number in 2024; no source dated so far says the number is shared with business registration.
+
+- Rwanda Revenue Authority says taxpayers log in to its website with their TIN and password to declare property tax, which implies a computerised register keyed on TIN ([source, 2024](https://www.rra.gov.rw/en/home?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=2415&cHash=ed34adc0d34fabbccdf4972aa88585f1)).
+
 ### Senegal: 3 Established
 
 Taxpayers registered online and received a tax number in 2024 and 2026; whether customs or business registration use the same number is not known.
@@ -313,12 +319,6 @@ Nothing found since 2023 names a computerised taxpayer register, so no stage is 
 Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
 
 ### Niger: Unplaced
-
-Nothing found since 2023 names a computerised taxpayer register, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
-
-### Rwanda: Unplaced
 
 Nothing found since 2023 names a computerised taxpayer register, so no stage is set.
 

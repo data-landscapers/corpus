@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-21-sen-optimizing-property-tax-administration-the-importance-of-an-effective",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "LoGRI says Senegal's tax directorate DGID uses an IT system, SIGUIL, to manage taxpayer data for property taxation, with a successor SIGUIL 2 deployed in ongoing property censuses.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "SIGUIL",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGUIL",
+   "country_label": "Senegal",
+   "class": "tax",
+   "platform": "",
+   "owner": "DGID",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}
