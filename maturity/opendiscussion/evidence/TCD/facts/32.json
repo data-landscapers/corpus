@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-27-tcd-internet-shutdowns-won-t-solve-central-africa-s-political-crises",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "ISS Africa says that since November 2024 mobile internet has been cut in Chad's Lake Province after a Boko Haram attack and the counter-offensive.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

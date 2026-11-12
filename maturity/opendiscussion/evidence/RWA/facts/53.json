@@ -1,0 +1,27 @@
+{
+ "slug": "2024-07-10-rwa-rwanda-rsf-sounds-the-alarm-on-president-kagame-s-horrific-press-freed",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "RSF states that journalist Dieudonne Niyonsenga (Ishema TV) was sentenced to seven years in prison for 'humiliating' state officials in 2021, and was still jailed in July 2024.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Ishema TV",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "RSF states that Theoneste Nsengimana, director of Umubavu TV, was arrested in October 2021 while organising an event with opposition leader Victoire Ingabire, and was still held in July 2024.",
+   "as_of": "2021-10",
+   "date_precision": "month",
+   "system": "Umubavu TV",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

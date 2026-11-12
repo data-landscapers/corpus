@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-27-tcd-internet-shutdowns-won-t-solve-central-africa-s-political-crises",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "ISS Africa says Equatorial Guinea had a 14-month targeted internet shutdown on Annobon Island from August 2024.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

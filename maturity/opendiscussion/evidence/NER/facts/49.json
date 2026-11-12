@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-01-ner-niger-journalist-released-after-nearly-ten-months-in-detention",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "MFWA says journalist Ibro Chaibou was freed on 28 August 2026 after nearly ten months in detention, charged over sharing an invitation to a press conference.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "MFWA says authorities suspended nine international media outlets in Niger in May 2026, including France 24, RFI and AFP.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

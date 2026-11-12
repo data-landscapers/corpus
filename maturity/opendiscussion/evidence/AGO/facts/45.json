@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-07-ago-africa-s-governments-already-treat-the-internet-as-protest-infrastruct",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Global Voices says Angola shut down its internet for the first time in late July 2025 during fuel-price protests.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

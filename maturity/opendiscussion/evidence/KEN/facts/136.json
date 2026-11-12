@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-01-ken-kenya-s-digital-rights-journey-half-year-scorecard",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "repealed",
+   "fact": "Amnesty Kenya says the Court of Appeal struck down Sections 22 and 23 of the Computer Misuse and Cybercrimes Act, the false-information offences, on 6 March 2026.",
+   "as_of": "2026-03-06",
+   "date_precision": "day",
+   "system": "Computer Misuse and Cybercrimes Act ss 22-23",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "Amnesty International Kenya criticises the Artificial Intelligence Bill before the Senate as having no meaningful child protections, and says the Law Society of Kenya, BAKE, Article 19 and the Kenya Union of Journalists asked the Supreme Court in May 2026 to strike down the Act's surveillance provisions.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Artificial Intelligence Bill",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "The document states nothing on this for Kenya."
+}

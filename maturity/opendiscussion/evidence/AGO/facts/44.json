@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-31-xaf-resilience-and-resistance-internet-shutdowns-in-africa-in-2025",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Access Now says Angola shut down the internet for the first time in July 2025, for at least three hours, in response to planned anti-government protests against rising fuel prices.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Access Now #KeepItOn",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

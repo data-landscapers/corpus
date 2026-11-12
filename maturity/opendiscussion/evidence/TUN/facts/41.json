@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-10-tun-tunisia-jams-signals-around-exam-centres-as-baccalaureate-cheating-bat",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "The Times of Tunis reports that authorities jammed signals around baccalaureate exam venues from 4 June 2026, disrupting WhatsApp and Messenger in several regions, while officials said no nationwide internet cut was decided.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Exam-centre signal jamming",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

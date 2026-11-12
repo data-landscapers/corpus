@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-17-zwe-how-zimbabwe-is-suppressing-journalism",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "GroundUp says Zimbabwe Independent editor Faith Zaba was arrested in July 2025 on insult charges over a satirical column on President Mnangagwa and held three nights.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "GroundUp says HSTV head Blessed Mhlanga spent 72 days in pretrial detention in 2025 after interviewing a war veteran who accused the president of corruption.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

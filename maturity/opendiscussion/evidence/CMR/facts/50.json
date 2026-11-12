@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-07-ago-africa-s-governments-already-treat-the-internet-as-protest-infrastruct",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Global Voices says Cameroon's Anglophone regions lost internet access for more than a year from January 2017 to clamp down on dissent.",
+   "as_of": "2017-01",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

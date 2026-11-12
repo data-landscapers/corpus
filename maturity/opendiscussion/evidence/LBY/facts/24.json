@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-lby-freedom-on-the-net-2025-libya",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Freedom House reports a localized internet shutdown in Tripoli in May 2025 amid antigovernment protests, lasting around 12 hours, with at least one provider reporting a total outage; the source does not name who ordered it.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Tripoli internet shutdown",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Freedom House, citing Libya Crimes Watch, reports that Faisal Rajab al-Shikhi was detained in Benghazi in January 2025 by armed men of the Libyan Arab Armed Forces over a Facebook video critical of Khalifa Haftar, and his whereabouts were unknown at period end.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Libyan Arab Armed Forces",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

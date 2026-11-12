@@ -1,0 +1,37 @@
+{
+ "slug": "2026-07-20-som-escalating-crackdown-on-freedom-of-expression-in-somalia-as-journalist",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Geeska Freedom Centre reports that police arrested journalist Abdukadir Abukar Ali on 25 June 2026 after he published a video questioning the fairness of a trial, accusing him of insulting judicial institutions; he was bailed on 28 June with charges pending.",
+   "as_of": "2026-06-25",
+   "date_precision": "day",
+   "system": "Somali Police Force",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Geeska Freedom Centre reports that police arrested Iftiimiye TV reporter Mohamed Ali Mohamud on 26 June 2026 after he reported a police officer's claim that senior officers had unlawfully suspended his salary, and held him three days without charge.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Somali Police Force",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Geeska Freedom Centre reports that NISA officers forcibly disappeared Xogbile founder Mascuud Warsame on 30 June 2026, an outlet that has published reporting critical of the South West State administration, and that he remained in custody without charge.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "National Intelligence and Security Agency",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "The 28 June arrests of ten influencers were for alleged indecent content, not speech about the government."
+}

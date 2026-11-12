@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-01-gin-guinea-s-media-regulator-suspends-four-web-tvs-bans-france-24-and-revo",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports that on 17 September 2026 Guinea's HAC revoked France 24's broadcasting licence and banned it nationwide after a presenter called President Doumbouya a 'putschist'.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "France 24",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "CIVICUS Monitor reports that on 17 September 2026 the HAC instructed the telecoms regulator ARPT to block digital access to France 24 and ordered Canal+ Guinea to cut its signal.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "France 24",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports that Seydouba Soumah was arrested on 1 September 2026 and charged with 'attempted disturbance of public order' over a taxi conversation about possible social tensions, and released on 30 September after the court found the charges not established.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "The four web TVs were suspended for operating without authorisation, and the Bella Bah conviction concerns criticism of a chief imam, so neither is recorded."
+}

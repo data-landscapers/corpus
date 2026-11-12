@@ -1,0 +1,27 @@
+{
+ "slug": "2025-04-11-tun-snjt-contre-les-articles-liberticides-du-decret-loi-54",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "The journalists' union SNJT, on 11 April 2025, called on MPs to annul the 'liberticide' articles of decree-law 54 and in February 2025 adopted a motion demanding its cancellation.",
+   "as_of": "2025-04-11",
+   "date_precision": "day",
+   "system": "Decree-law 54",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "SNJT president Zied Dabbar says journalists, lawyers, bloggers and citizens are being prosecuted under decree-law 54, and the report notes lawyer and columnist Sonia Dahmani is accused under its Article 24.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Decree-law 54",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "Cassation ruling of 3 February 2025 limits decree-law 54 away from audiovisual media; it is not a repeal or strike-down of an offence."
+}

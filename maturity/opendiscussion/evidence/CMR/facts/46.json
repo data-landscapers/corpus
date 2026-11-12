@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-31-xaf-resilience-and-resistance-internet-shutdowns-in-africa-in-2025",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Access Now lists Cameroon among 15 African countries where internet shutdowns were implemented in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Access Now #KeepItOn",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,6 +1,6 @@
 # Open discussion of government policy: freedom to discuss policy online and in the press
 
-*As at 2026-09-30.*
+*As at 2026-11-12.*
 
 ## The norm
 
@@ -23,19 +23,19 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 0 |
-| 2 Nascent | 27 |
-| 1 Absent | 14 |
-| Unplaced | 7 |
-| No evidence | 6 |
+| 2 Nascent | 28 |
+| 1 Absent | 16 |
+| Unplaced | 8 |
+| No evidence | 2 |
 
 ## Countries
 
 ### Angola: 2 Nascent
 
-In 2026 journalists, the opposition and the bar association criticised Angola's new false-information law; no source found says whether anyone has been punished under it.
+In 2026 journalists, the opposition and the bar criticised Angola's false-information law, and in October a court jailed a news editor for defamation.
 
 - Leaders of the Sindicato dos Jornalistas Angolanos, the Comissao de Carteira e Etica and the Forum das Mulheres Jornalistas called the penalties of the new Law Against False Information on the Internet excessive and inhibiting, warning of a chilling effect on free debate; no event date is given, so the document's published date is used ([source, 2026-08-22](https://www.novojornal.co.ao/politica/detalhe/jornalistas-advertem-que-lei-vai-inibir-jornalismo-de-cidadania-erro-jornalistico-dependera-da-interpretacao-dos-tribunais-e-do-lesado-74134.html)).
-- Jaime Domingos, a jurist and member of the civic movement Mudei, said the false-information law's definition is unclear and was created to deter citizens from taking part in public life, and several NGOs plan a court challenge with the bar association; no event date is given, so the document's published date is used ([source, 2026-08-10](https://www.rfi.fr/fr/afrique/20260810-angola-une-loi-sur-les-fausses-informations-suscite-des-craintes-pour-la-libert%C3%A9-d-expression)).
+- CIVICUS Monitor, citing CPJ, reports the Luanda District Court sentenced Reporter Angola editor Daniel Frederico in absentia on 2 October 2026 to 14 months in prison for slander and defamation, over a case dating to 2022 involving corruption allegations against a prosecutor ([source, 2026-10-02](https://monitor.civicus.org/explore/law-on-false-information-on-the-internet-adopted-activists-and-journalists-detained-prosecuted/)).
 
 ### Benin: 2 Nascent
 
@@ -70,13 +70,6 @@ Police arrested a journalist over a Facebook post in November 2025; no source fo
 - Mayotte Hebdo says the Comorian press mobilised in December 2025 against a ministry and CNPA proposal to amend article 169 of the Information Code on source protection, and the journalists' union SNJC obtained its withdrawal ([source, 2025-12](https://www.mayottehebdo.com/actualite/societe/comores-une-journaliste-entendue-par-la-police-a-cause-dun-post-facebook/)).
 - Mayotte Hebdo says police arrested Al-Watwan correspondent Abdou Moustoifa on 17 November 2025 over a Facebook post about migrants held in a Moroni police station and questioned him for over two hours to learn his source ([source, 2025-11-17](https://www.mayottehebdo.com/actualite/societe/comores-une-journaliste-entendue-par-la-police-a-cause-dun-post-facebook/)).
 
-### Congo: 2 Nascent
-
-In May 2026 police arrested a rights defender after a passport campaign and held him in pre-trial detention; no source says how his case ends.
-
-- The Congolese civil-society platform Congo Droit et Justice pour Tous et par Tous ran a campaign, including through members' social media, denouncing the difficulty citizens have in obtaining a passport, and announced a press conference for 29 May 2026 on the causes of the passport problem ([source, 2026-05-29](https://www.fidh.org/fr/themes/defenseurs-des-droits-humains/congo-poursuite-du-harcelement-judiciaire-et-ouverture-du-proces-de-m-33088)).
-- Police in plain clothes arrested human rights defender Ghislain Ondele Kanga of the platform Congo Droit et Justice pour Tous et par Tous at his home on 30 May 2026 and took him to the intelligence service (CID) in Brazzaville; he was referred to the prosecutor 56 days later, charged reportedly with false dissemination and declaration of an unauthorised demonstration under ordonnance 62-3 of 1962 and law 19/60 on associations, and held in pre-trial detention in Brazzaville after a campaign on social media denouncing difficulty in getting a passport ([source, 2026-05-30](https://www.fidh.org/fr/themes/defenseurs-des-droits-humains/congo-poursuite-du-harcelement-judiciaire-et-ouverture-du-proces-de-m-33088)).
-
 ### Cote d'Ivoire: 2 Nascent
 
 In 2025 Côte d'Ivoire's opposition denounced an activist's arrest and courts jailed people for social-media speech; no source found says whether any internet cut occurred.
@@ -95,6 +88,13 @@ A rights group criticised government policy in public in 2026, but a journalist 
 In April 2026 an outlet published an investigation holding the ICT ministry to account; a 2009 speech charge still stands untried.
 
 - An opinion piece in Independent News Eswatini says the Swazi Bridge outlet published an investigation on 12 April 2026 holding the ICT ministry to account for how its Google Cloud EMEA memorandum of understanding was communicated, which it calls a failure of communication ([source, 2026-04-12](https://independentnews.co.sz/42365/opinion/the-real-google-problem-in-eswatini-is-not-the-mou/)).
+
+### Ethiopia: 2 Nascent
+
+In November 2026 the regulator suspended The Reporter after its editorial criticised the authorities; who ordered the 2026 regional outages is not stated.
+
+- CPJ reports that two days before the 2 November 2026 suspension The Reporter published an editorial, 'Press Freedom Is Not A Luxury!', criticising authorities for treating independent reporting as a national security threat and calling for release of journalists held without charge ([source, 2026-10-31](https://cpj.org/2026/11/ethiopia-suspends-the-reporter-indefinitely-in-escalating-assault-on-independent-media/)).
+- CPJ reports that on 2 November 2026 the Ethiopian Media Authority suspended the registration of The Reporter's publisher indefinitely, covering its Amharic and English editions and digital platforms, for reports it said undermine national interests ([source, 2026-11-02](https://cpj.org/2026/11/ethiopia-suspends-the-reporter-indefinitely-in-escalating-assault-on-independent-media/)).
 
 ### Gambia: 2 Nascent
 
@@ -135,24 +135,17 @@ An activist was arrested over online posts in August 2026 and a draft cybercrime
 
 ### Madagascar: 2 Nascent
 
-In September 2026 a news site questioned the cybercrime bill's digital police powers; no source found reports it whether anyone was punished for speech.
+In 2026 a news site questioned the cybercrime bill, and the Presidency said people were being prosecuted for insulting senior officials online.
 
 - Madagascar-Tribune, a Madagascar news site, published a piece questioning the government's cybercrime bill n°042/2026, saying the permanent access powers of its new digital police (article 75) raise issues of public freedoms and of balance with freedom of expression, and contrasting it with the stalled access-to-information bill; the document is dated 2026-09-03 and gives no earlier date ([source, 2026-09-03](https://www.madagascar-tribune.com/Loi-sur-la-cybercriminalite-l-Etat-renforce-les-controles-alors-que-l-acces-a-l.html)).
+- The Presidency said on 8 January 2026 that judicial proceedings were under way against people, accounts or pages accused of insulting and inciting hatred against senior state officials online ([source, 2026-01-08](https://fr.allafrica.com/stories/202601090348.html)).
 
 ### Malawi: 2 Nascent
 
-Civil society criticised budget and surveillance plans in 2026; no source found says whether anyone was punished for speech in the last twelve months.
+Civil-society groups criticised policy before parliament in 2026; a contributor was arrested over posts in December 2025, though criminal defamation was struck down.
 
 - The Civil Society Education Coalition (CSEC) with ActionAid Malawi, Oxfam in Malawi, FAWEMA and Sightsavers told parliamentary committees the government's proposed K1.3 trillion 2026/27 education budget falls short of the 20 percent UNESCO benchmark, and ActionAid criticised the cut to early childhood development funding in it ([source, 2026-03-09](https://csecmalawi.com/2026/03/10/civil-society-coalition-engages-parliamentarians-to-lobby-for-increased-education-financing-in-the-2026-27-national-budget/)).
-- A group calling itself the Concerned Citizens of Malawi People Power Movement publicly criticised MACRA by January 2026 for failing to brief the public on the monitoring system procurement ([source, 2026-01](https://moz24h.co.mz/part-2-a-ghanaian-contractor-a-1-5-million-contract-and-a-surveillance-system-that-remains-unexplained/)).
-
-### Mali: 2 Nascent
-
-In 2026 Mali's press bodies criticised journalists' arrests while two journalists were sentenced and a radio programme suspended; no source says whether any cut occurred.
-
-- RSF says the Maison de la Presse sharply criticised the detention of the two journalists in June 2026, saying the judiciary had fallen short of creating a space of peace and understanding ([source, 2026-06](https://rsf.org/en/broadcast-suspension-and-arrests-journalists-mali-nearly-six-years-transition-marked-repression)).
-- The Southern Africa Litigation Centre says a journalist in Mali was imprisoned "last month" for criticising the authorities ([source, 2026-09](https://www.southernafricalitigationcentre.org/oral-statement-under-item-3-the-human-rights-situation-in-africa/)).
-- Mali's specialised cybercrime tribunal sentenced journalist Abdrahamane Keita, publication director of Le Temoin, to two years in prison and 1 million CFA francs damages for a remark about Kidal on a TV programme on 4 June 2026, on charges of regionalist remarks, undermining the State's credit and national unity, and spreading false information through an information system; he had been detained since June and the defence intends to appeal ([source, 2026-09-14](https://www.maliweb.net/societe/justice/cybercriminalite-le-journaliste-abdrahamane-keita-condamne-a-deux-ans-de-prison-ferme-3119923.html)).
+- The Maravi Post states that police arrested its contributor Jones Gadama on 5 December 2025 over two documents posted online alleging misconduct by an MBC employee, and he was on fortnightly police bail; the body names no charge ([source, 2025-12-05](https://www.maravipost.com/maravi-post-contributor-jones-gadama-in-court-over-mbc-employee-mwandiras-cooked-cybercrime-claims/)).
 
 ### Mauritius: 2 Nascent
 
@@ -173,6 +166,12 @@ In March 2026 civil society and opposition criticised telecommunications regulat
 
 - Club of Mozambique (AIM) reports that the government's new telecommunications regulations were strongly criticised by unnamed civil society bodies and opposition parties as allowing internet shutdowns on national security grounds, and that named journalist and press freedom activist Tomas Vieira Mario publicly condemned the minister's defence on Facebook and called for the regulations to be overhauled; as_of is the document's published date, the minister having spoken the day before ([source, 2026-03-13](https://clubofmozambique.com/news/mozambique-minister-denies-attempt-to-restrict-use-of-internet/)).
 
+### Namibia: 2 Nascent
+
+In May 2026 a media foundation criticised the government for not bringing the access-to-information law into force; whether anyone was punished is not found.
+
+- The NMT Media Foundation's director, as African Media Barometer rapporteur, publicly criticised the government's failure to make the Access to Information Act operative ([source, 2026-05-05](https://www.namibian.com.na/namibias-press-freedom-reputation-is-realbut-the-fine-print-tells-a-different-story/)).
+
 ### Nigeria: 2 Nascent
 
 In 2026 the State Services department prosecuted Omoyele Sowore for criticising the president, then paused the case; other recent arrests are not dated.
@@ -183,9 +182,16 @@ In 2026 the State Services department prosecuted Omoyele Sowore for criticising 
 
 ### Senegal: 2 Nascent
 
-In 2026 23 MPs challenged the media regulator law in court; no source found says whether anyone was punished for speech last year.
+Press bodies and commentators criticised policy in 2026, and a columnist was charged with false news in October 2026 for criticising the police.
 
 - The Association of Online Press Publishers and Professionals (APPEL), a Senegalese professional body, with Paradigm Initiative, backed 23 MPs' constitutional challenge lodged on 10 March 2026 against the media regulator law (CNRM law) over risks of administrative censorship; the document is Paradigm Initiative's account ([source, 2026-03-10](https://paradigmhq.org/paradigm-initiative-welcomes-landmark-ruling-against-repressive-media-legislation-in-senegal/)).
+- MFWA reports Cisse was taken into custody by the Special Cybersecurity Division on 15 October 2026 and charged on 16 October with disseminating false news over those comments, then released provisionally pending a 21 October hearing ([source, 2026-10-16](https://mfwa.org/country-highlights/senegal-columnist-facing-prosecution-for-disseminating-false-news/)).
+
+### Sierra Leone: 2 Nascent
+
+In 2025 the journalists' association objected to the regulator withdrawing two broadcasters' frequencies; whether anyone was punished since is not found.
+
+- The Sierra Leone Association of Journalists raised concerns with the information minister and the regulator NaTCA over NaTCA's July 2025 withdrawal of broadcast frequencies from Truth Media and G8 Media Group, warning it could undermine press freedom ([source, 2025-07](https://africapublicity.com/sierra-leones-press-freedom-under-pressure-mrcg-flags-arrests-assaults-and-digital-threats-against-journalists/)).
 
 ### Somalia: 2 Nascent
 
@@ -227,6 +233,13 @@ In October 2025 Cameroon restricted internet access during its presidential elec
 Internet access in Lac province has been cut since October 2024 and was still limited in September 2026; no source found says who ordered it.
 
 - A citizen's open letter to the president, reported 2026-09-10, says internet connectivity in Chad's Lac province has been heavily limited for nearly two years on security grounds and was still limited at that date; the source does not name the body that ordered it and gives no end date. As_of is the report's published date ([source, 2026-09-10](https://www.toumaiwebmedias.com/lac-un-citoyen-appelle-a-un-reexamen-de-la-connectivite-internet/)).
+
+### Congo: 1 Absent
+
+The internet was shut down nationwide on the March 2026 election day, and a rights defender was jailed in May after a passport campaign.
+
+- telecoms.com, citing NetBlocks, reports a nation-scale internet disruption on Congo's March 2026 presidential election day that appears to have been imposed; no operator or the regulator ARPCE commented ([source, 2026-03-15](https://www.telecoms.com/telecoms-law/internet-goes-down-in-congo-in-time-for-the-election)).
+- ISS Africa says an ad hoc internet shutdown occurred in Congo-Brazzaville during its March 2026 presidential polls ([source, 2026-03](https://issafrica.org/iss-today/internet-shutdowns-won-t-solve-central-africa-s-political-crises)).
 
 ### Djibouti: 1 Absent
 
@@ -275,6 +288,13 @@ On 26 November 2025, the day the military took power, social media access was re
 
 - On 26 November 2025, the day the military seized power, citizens reported widespread restrictions on Facebook, YouTube, TikTok and Instagram, which the Media Foundation for West Africa (MFWA) says the military imposed; the source gives no end date ([source, 2025-11-26](https://mfwa.org/country-highlights/guinea-bissau-military-takeover-triggers-media-suspension-online-restrictions/)).
 
+### Mali: 1 Absent
+
+Mali banned the online circulation of Jeune Afrique in January 2026 and blocked its website, while journalists were jailed for criticism.
+
+- MFWA says Mali's government formally banned distribution, sale and online circulation of Jeune Afrique in January 2026 ([source, 2026-01](https://mfwa.org/issues-in-focus/malis-shrinking-civic-space-imprisonments-bans-and-the-silencing-of-independent-media/)).
+- Jeune Afrique says Malian readers report its website has been blocked since late January 2026, and that the authorities have not officially announced the block ([source, 2026-01](https://www.jeuneafrique.com/1762043/politique/jeune-afrique-suspendu-au-mali-comment-contourner-la-censure/)).
+
 ### Niger: 1 Absent
 
 In 2026 Niger suspended nine foreign outlets and charged journalists and a lawyer for their words; no source found reports public criticism of policy.
@@ -307,17 +327,23 @@ The government cut the internet for four days in January 2026, and Facebook stay
 - Access Now's #KeepItOn report describes Uganda's January 2026 blackout as a cut of internet and social media ([source, 2026-01](https://www.accessnow.org/internet-shutdowns-2025/)).
 - A nationwide internet shutdown in January 2026 ahead of the general elections lasted nearly 100 hours; authorities said it was to prevent misinformation and electoral violence ([source, 2026-01](https://www.newvision.co.ug/category/health/csos-raise-alarm-over-digital-violations-affe-NV_229061_092026)).
 
+### Algeria: Unplaced
+
+Journalists were held and convicted over their work in 2025 and 2026, but nothing found shows policy criticised in public, so no stage is set.
+
+Not established: Nothing found says a paper, broadcaster, party or group inside the country criticised a government policy in public in the last three years. The June 2025 block of social networks falls before the twelve months.
+
 ### Burundi: Unplaced
 
 A journalist was jailed over messages in 2024-2025 and a media coalition suspended in 2025; criticism of policy and internet cuts are unknown.
 
 Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
 
-### Ethiopia: Unplaced
+### Central African Republic: Unplaced
 
-Journalists were abducted or suspended in 2025 and 2026; nothing found shows policy criticism or an internet cut, so no stage is set.
+Two counts list a 2025 internet shutdown without a month, and nothing found shows policy criticised in public, so no stage is set.
 
-Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public; Access Now reports new shutdowns in Tigray in October 2026 but does not say who ordered them.
+Not established: Access Now and ISS Africa list a shutdown in 2025 with no month, so it is not shown inside the twelve months. Nothing found says government policy is criticised in public inside the country.
 
 ### Lesotho: Unplaced
 
@@ -331,41 +357,23 @@ Two MPs were arrested in 2026 and a news site closed in 2025; policy criticism a
 
 Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
 
-### Namibia: Unplaced
+### Rwanda: Unplaced
 
-A think tank criticised a draft data bill in 2022; nothing found shows internet cuts or punishment for speech, so no stage is set.
+The only records are journalists jailed or arrested in 2021, and nothing found shows policy criticised in public, so no stage is set.
 
-Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
+Not established: Nothing found says government policy is criticised in public inside the country, or that the internet was cut. The journalists held are recorded from 2021.
 
-### Sierra Leone: Unplaced
+### South Africa: Unplaced
 
-Parliament repealed the criminal libel provisions in 2020, but nothing recent is known on public criticism or internet cuts, so no stage is set.
+Parliament repealed criminal defamation in 2024, but nothing found shows policy criticised in public in the last three years, so no stage is set.
 
-Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
+Not established: Nothing found says a paper, broadcaster, party or group inside the country criticised a government policy in public in the last three years, so question 1 is not met.
 
 ### Togo: Unplaced
 
 Access Now reports 2025 protest throttling in Togo, but not where, who ordered it or when it ended, so no stage is set.
 
 Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
-
-### Algeria: No evidence
-
-Algeria confined its exam internet measures to exam centres in 2026, which is not a cut; no stage is set.
-
-Not established: Nothing found says government policy is criticised in public inside the country, that the internet was cut, or that anyone was punished for what they said.
-
-### Central African Republic: No evidence
-
-The government set up a communications monitoring unit in 2026; no source says whether criticism, cuts or speech punishments occurred, so no stage is set.
-
-Not established: Nothing found says government policy is criticised in public inside the country, that the internet was cut, or that anyone was punished for what they said.
-
-### Rwanda: No evidence
-
-Nothing found says whether policy is criticised in public, the internet was cut, or anyone was punished for speech, so no stage is set.
-
-Not established: Nothing found says government policy is criticised in public inside the country, that the internet was cut, or that anyone was punished for what they said.
 
 ### Sao Tome and Principe: No evidence
 
@@ -374,12 +382,6 @@ Nothing found says whether policy is criticised in public, the internet was cut,
 Not established: Nothing found says government policy is criticised in public inside the country, that the internet was cut, or that anyone was punished for what they said.
 
 ### Seychelles: No evidence
-
-Nothing found says whether policy is criticised in public, the internet was cut, or anyone was punished for speech, so no stage is set.
-
-Not established: Nothing found says government policy is criticised in public inside the country, that the internet was cut, or that anyone was punished for what they said.
-
-### South Africa: No evidence
 
 Nothing found says whether policy is criticised in public, the internet was cut, or anyone was punished for speech, so no stage is set.
 

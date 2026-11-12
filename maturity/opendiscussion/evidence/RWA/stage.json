@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "discussion",
-   "stage": "no evidence",
-   "debate": "",
-   "connection": "",
-   "penalty": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says government policy is criticised in public inside the country, that the internet was cut, or that anyone was punished for what they said.",
-   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "discussion",
+      "stage": "unplaced",
+      "debate": "",
+      "connection": "",
+      "penalty": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says government policy is criticised in public inside the country, or that the internet was cut. The journalists held are recorded from 2021.",
+      "note": "The only rows are journalists sentenced or arrested in 2021, before the twelve months; unplaced.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

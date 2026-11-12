@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COD,discussion,debate,coverage,criticised,2026-10-17,COD-003,,
-COD,discussion,connection,coverage,cut,2025,COD-001,,
-COD,discussion,penalty,coverage,punished,2026-09-15,COD-002,,
+COD,discussion,connection,coverage,cut,2026-07,COD-001;COD-007;COD-008;COD-009;COD-010,,
+COD,discussion,penalty,coverage,punished,2026-09-15,COD-002;COD-004;COD-005;COD-006,,

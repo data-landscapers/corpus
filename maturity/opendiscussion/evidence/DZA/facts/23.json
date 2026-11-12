@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-13-dza-algerie-les-autorites-doivent-liberer-les-journalistes-detenus-arbitra",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Amnesty International says Algerian authorities have detained, prosecuted or convicted seven journalists and media workers since November 2025 over their work or opinions, including journalist Hassan Bouras held in pretrial detention since 12 April 2026.",
+   "as_of": "2026-04-12",
+   "date_precision": "day",
+   "system": "Amnesty International statement",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Amnesty International says an Algerian court sentenced the director of the online channel Vision TV to a suspended one-year term and ordered the channel closed and its equipment seized, after journalist Saad Bouakba was convicted on 4 December 2025 over an interview given to it.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Vision TV closure",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,47 @@
+{
+ "slug": "2026-09-21-cod-rdc-l-olpa-alerte-sur-la-multiplication-des-atteintes-a-la-liberte-de",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "OLPA reports that journalist Tresor Muntu was arrested on 15 September 2026 and prosecuted for defaming a provincial assembly vice-president over a WhatsApp-shared post accusing her of using influence in a land dispute, and was released on 18 September.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "OLPA reports that two Radio Ndenga News technicians in Kalemie were detained by people presenting as ANR agents from 14 to 16 September 2026 after refusing to stop the rebroadcast of a programme on protests against the constitutional change project.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "ANR",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "OLPA reports that journalist Michael Tenende was held by the ANR from 30 August to 8 September 2026 over a social media message calling for a boycott of the Lomami governor's rally, which he denied writing.",
+   "as_of": "2026-08-30",
+   "date_precision": "day",
+   "system": "ANR",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "OLPA says the main mobile phone networks in Fizi have been cut since July 2026; the source names no order for it.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Fizi mobile networks",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

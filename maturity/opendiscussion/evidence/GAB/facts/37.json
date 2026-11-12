@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-27-tcd-internet-shutdowns-won-t-solve-central-africa-s-political-crises",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "ISS Africa says social media access in Gabon has been blocked since February 2026, cutting off at least 800,000 users from Facebook, WhatsApp, Instagram, YouTube and TikTok; the government announced gradual lifting on 1 April but access remains hindered.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

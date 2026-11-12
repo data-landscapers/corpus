@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-01-mus-mauritius-social-media-ban",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "The regulator ICTA directed all internet service providers on 31 October 2024 to suspend access to social media platforms until 11 November 2024, and Emtel and Mauritius Telecom blocked TikTok, X and YouTube, with the directive reversed on 2 November.",
+   "as_of": "2024-11-01",
+   "date_precision": "day",
+   "system": "ICTA social media suspension directive",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

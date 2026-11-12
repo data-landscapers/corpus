@@ -1,0 +1,27 @@
+{
+ "slug": "2025-04-30-mwi-when-truth-becomes-a-target",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "The op-ed says Malawi24 journalist Macmillan Mhone was arrested in April 2024 and charged with extortion and causing public alarm after publishing an article accusing a businessman of corruption.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "The op-ed says investigative journalist Gregory Gondwe was detained in April 2022 after reporting on government dealings with a businessman, and his equipment was confiscated.",
+   "as_of": "2022-04",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

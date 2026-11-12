@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-13-gab-gabon-s-online-news-outlet-info241-suspended-for-publishing-allegation",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CPJ reports that on 10 August 2026 the High Authority for Communication suspended the news site Info241 until further notice over its 9 August article relaying an activist's allegations about President Oligui Nguema.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "Info241",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "CPJ states that in February 2026 it asked Gabonese authorities to reverse the High Authority for Communication's ongoing shutdown of social media, which the regulator said aims to prevent the 'spread of false information'.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "High Authority for Communication (HAC)",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

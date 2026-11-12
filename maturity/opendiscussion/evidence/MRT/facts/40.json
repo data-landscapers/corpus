@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-23-mrt-porte-parole-du-gouvernement-la-decision-de-couper-l-internet-est-soum",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Government spokesman Nani Ould Chrouga defended the July 2024 internet cut as subject to legal procedures and a security necessity, and the digital minister said he hoped service would soon be restored.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Mobile internet shutdown",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

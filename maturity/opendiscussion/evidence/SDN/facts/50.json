@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-11-sdn-sudan-the-army-backed-authorities-are-prosecuting-15-journalists-and-t",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "RSF says the cybercrime prosecutor in Red Sea State charged at least 15 journalists and two outlets, Sudafax and Sudan Tomorrow, and issued 17 arrest warrants on 21 July 2026 over reporting on alleged corruption.",
+   "as_of": "2026-07-21",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "RSF says journalist Rishan Oshi was arrested in May 2026 over a Facebook post, held 45 days and released on 1 July after the Supreme Court overturned her conviction.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

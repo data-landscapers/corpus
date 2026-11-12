@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mar-freedom-on-the-net-2025-morocco",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Freedom House reports that journalist Hamid el-Mahdaoui was sentenced in November 2024 to 18 months in prison and a fine over a 2023 video accusing the justice minister, on charges of spreading false statements and defaming him.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "Report also says no websites were blocked for political, social or religious content in the coverage period; no value in the study fits that."
+}

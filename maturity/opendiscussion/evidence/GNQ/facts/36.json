@@ -1,0 +1,37 @@
+{
+ "slug": "2024-08-01-gnq-intervencion-de-eg-justice-libertad-de-expresion-y-derechos-digitales",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "EG Justice, IPI and Small Media Foundation say six activists were convicted over a conversation in a private WhatsApp group; the date is not given.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "The same submission says at least 11 journalists were detained or dismissed for their work between 2019 and 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "The same submission says the government cut internet temporarily, in Annobon and nationally; the dates are not given.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

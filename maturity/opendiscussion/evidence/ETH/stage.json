@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "discussion",
-      "stage": "unplaced",
-      "debate": "",
+      "stage": "2",
+      "debate": "criticised",
       "connection": "",
       "penalty": "punished",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public; Access Now reports new shutdowns in Tigray in October 2026 but does not say who ordered them.",
-      "note": "Rows on journalists punished cannot set a rung alone, and the October 2026 Tigray shutdowns are put down to no one's order, so they place nothing; unplaced.",
-      "as_at": "2026-10-30"
+      "stage_sources": "ETH-008;ETH-007",
+      "gaps": "A person was arrested, charged or jailed, or an outlet suspended or closed, for what was said or published, inside the last twelve months, so question 2 is a no. The 2026 shutdowns in Tigray and outages in Amhara are put down to no one's order.",
+      "note": "The Reporter's editorial of 31 October 2026 criticised the authorities' treatment of the press, a yes to question 1. The Media Authority's suspension of its publisher on 2 November 2026 answers question 2 no, so stage 2.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-09-01-gnq-equatorial-guinea-enforces-yearlong-internet-outage-for-island-that-pr",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "AP reports, from residents and rights groups, that internet access to Annobon island has been cut off since the residents' July 2024 complaint to the government and was still in effect at publication; the government did not respond and the exact mechanism is unclear.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Annobon internet outage",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "AP reports, from residents and rights groups, that dozens of signatories of the July 2024 letter complaining to the government about quarry explosions were imprisoned for nearly a year.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,47 @@
+{
+ "slug": "2026-10-30-gab-restrictive-regulation-on-social-media-use-adopted-amid-ongoing-suspen",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Civicus Monitor reports that on 17 February 2026 the media regulator HAC suspended Facebook, TikTok, YouTube and other social media networks across the country until further notice, and lifted the suspension on 24 October 2026.",
+   "as_of": "2026-10-24",
+   "date_precision": "day",
+   "system": "HAC suspension of social media networks",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Civicus Monitor reports that on 10 August 2026 the HAC indefinitely suspended the online news site Info 241 after it published allegations against President Oligui Nguema.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "Info 241 suspension",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Civicus Monitor reports that activist Bob Mengome was arrested on 19 January 2026 and charged with defamation and outrageous remarks against state authorities after a voice message criticising the president's power management.",
+   "as_of": "2026-01-19",
+   "date_precision": "day",
+   "system": "Arrest of Bob Mengome",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "Civicus Monitor reports that civil society figure Marcel Libama described Ordinance n° 0011/PR/2026 as marking the collapse of freedom of expression, and that Info 241 criticised the HAC's suspension as decided without reading the article.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Ordinance n° 0011/PR/2026",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "The ban on pseudonyms, the NIP requirement and the age-16 rule are not cuts or punishments; the Constitutional Court declined a complaint on 11 March 2026 and barred nothing."
+}

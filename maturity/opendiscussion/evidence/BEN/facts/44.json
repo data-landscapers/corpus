@@ -1,0 +1,67 @@
+{
+ "slug": "2025-10-29-ben-suspension-of-media-outlets-journalists-detained-and-prosecuted",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports that on 12 March 2025 the HAAC indefinitely suspended Benin Web TV and revoked its director's press card after its reports on inconsistencies in the HAAC's 2025 budget, lifting the suspension on 20 May 2025.",
+   "as_of": "2025-03-12",
+   "date_precision": "day",
+   "system": "Benin Web TV",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports that on 2 June 2025 digital activist Steve Amoussou was sentenced to two years and a two million CFA franc fine for 'politically motivated insult' and 'spreading false information' linked to a Facebook page critical of the government.",
+   "as_of": "2025-06-02",
+   "date_precision": "day",
+   "system": "Digital Code",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports that on 6 June 2025 Les Democrates communications member Julien Kande Kansou was arrested over statements on an 'electoral revolution' and economic monopolies, and on 12 June placed in pretrial detention accused of publishing false news and electronic harassment.",
+   "as_of": "2025-06-06",
+   "date_precision": "day",
+   "system": "Digital Code",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports that on 10 July 2025 journalist Comlan Hugues Sossoukpe, known for criticism of President Talon, was arrested in Abidjan, extradited to Benin on 11 July and charged on 12 July with incitement to rebellion and hatred, cyberstalking and praising terrorism.",
+   "as_of": "2025-07-10",
+   "date_precision": "day",
+   "system": "CRIET",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports that on 15 July 2025 La Boussole editor Cosme Hounsa was arrested and charged with harassment by electronic means after a minister's complaint over a report on a dispute between ministers.",
+   "as_of": "2025-07-15",
+   "date_precision": "day",
+   "system": "Digital Code",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "CIVICUS Monitor reports that on 22 February 2025 the opposition party Les Democrates condemned the police ban on its 9 February rally and announced plans for legal action against those responsible.",
+   "as_of": "2025-02-22",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

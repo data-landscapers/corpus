@@ -1,0 +1,37 @@
+{
+ "slug": "2026-09-04-mli-mali-s-shrinking-civic-space-imprisonments-bans-and-the-silencing-of-i",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "MFWA says the Bamako Court of Appeal on 17 August 2026 sentenced radio commentator Ras Bath and activist Rose Vie Chère to ten years, three suspended, over broadcast comments on inflation and power outages.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "MFWA says editor Abdrahamane Keita was detained by the National Cybercrime Unit on 9 June 2026 after a television appearance and remanded in custody on charges including 'dissemination of false information'.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "MFWA says Mali's government formally banned distribution, sale and online circulation of Jeune Afrique in January 2026.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

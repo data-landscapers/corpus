@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-31-mrt-government-of-mauritania-must-commit-to-keepiton-at-all-times",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "The #KeepItOn coalition states that after protests following the 29 June 2024 election, authorities disrupted mobile internet for 22 days from 2 July to 24 July 2024, shutting down Mattel and Chinguitel, which a government spokesperson reportedly justified as necessary for security.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "Mattel and Chinguitel mobile internet",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "Earlier 2023 mobile blocks are named without exact dates."
+}

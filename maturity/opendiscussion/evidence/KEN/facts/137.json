@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-14-ken-genz-uprising-court-blocks-government-from-shutting-internet",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Petitioners ICJ-Kenya, BAKE and KUJ say the government shut down the internet on 25 June 2024 during Finance Bill protests, for several days, with no law or court order behind it.",
+   "as_of": "2024-06-25",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "The petition says Telegram was blocked during the 2023 and 2024 KCSE examinations.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Telegram",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

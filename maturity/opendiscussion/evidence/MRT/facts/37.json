@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-08-mrt-mauritanie-coupures-d-internet-lors-des-examens-les-autorites-deconnec",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Le360 reports that mobile internet was cut in Mauritania during the 2025 exam period (23 June to 10 July), disrupting traders' mobile-money and online sales, according to traders it interviewed.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Mobile internet exam cut",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

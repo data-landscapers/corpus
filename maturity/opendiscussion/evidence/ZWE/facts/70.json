@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-zwe-zimbabwe-freedom-on-the-net-2025-country-report",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Freedom House says journalist Blessed Mhlanga was arrested and charged with inciting violence in February 2025 over an interview calling for the president's resignation, and was held nearly three months.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Freedom on the Net 2025",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

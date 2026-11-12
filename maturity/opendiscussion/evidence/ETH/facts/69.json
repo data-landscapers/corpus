@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-eth-ethiopia-freedom-on-the-net-2026-country-report",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Freedom House reports localised connectivity restrictions continued in Amhara Region, citing Addis Standard's February 2026 report of phone and internet outages in North Shewa Zone.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Freedom on the Net 2026",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Freedom House reports Ethiopian authorities revoked independent digital outlet Addis Standard's licence in February 2026, citing CPJ, and an Addis Standard editor was seized from its newsroom in April 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Freedom on the Net 2026",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

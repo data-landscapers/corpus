@@ -1,0 +1,37 @@
+{
+ "slug": "2025-11-04-nga-keepiton-authorities-in-nigeria-must-reconnect-people-in-zamfara-north",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Access Now, citing the Nigeria Union of Journalists, says internet connectivity in Zamfara North was disconnected on MTN, Airtel and Glo for about three months from late May 2025, with no official explanation from government or providers.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Zamfara North shutdown",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Access Now says Nigeria's government ordered ISPs in September 2021 to shut down phone and internet services across Kaduna, Katsina, Sokoto and Zamfara states, extended from two weeks to 12 weeks.",
+   "as_of": "2021-09",
+   "date_precision": "month",
+   "system": "Northwest states shutdown",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Access Now says Nigerian authorities shut down the platform X across the country for seven months in 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "X platform block",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

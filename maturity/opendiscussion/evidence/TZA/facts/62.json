@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-31-xaf-resilience-and-resistance-internet-shutdowns-in-africa-in-2025",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Access Now says Tanzania shut down the internet eight times in 2025, including twice during the election period.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Access Now #KeepItOn",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-21-ben-rsf-s-ten-recommendations-to-benin-s-new-president-for-strengthening-p",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "RSF states that journalist Pascal Mitowade of La Tribune de la Capitale was sentenced on 24 March 2026 to five years in prison and a 10 million CFA franc fine for 'apology of crimes against state security' over Facebook posts about the 7 December 2025 coup attempt.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "RSF states that journalist Angela Kpeidja is being prosecuted for 'harassment via electronic communication' over Facebook posts on the December 2025 coup attempt, and on 11 May 2026 prosecutors sought two years, one to be served.",
+   "as_of": "2026-05-11",
+   "date_precision": "day",
+   "system": "Digital Code article 550",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "RSF's 113th rank is an index rank and places nothing; the 17 suspensions since 2016 are undated."
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-05-egy-report-warns-of-expanded-blocking-and-surveillance-of-egypt-s-online-m",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Al Manassa reports that on 27 October 2026 New Cairo Misdemeanor Court fined Mada Masr editor Lina Attalah EGP 3 million and ordered the news website closed, on charges of operating a website without a license.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "The Egyptian Human Rights Forum report, via Al Manassa, says Al Manassa has been blocked 13 times, most recently in July 2022, and the Journalists Syndicate criticised the continued blocking in March 2024.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

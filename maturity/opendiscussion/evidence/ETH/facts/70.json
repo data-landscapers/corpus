@@ -1,0 +1,47 @@
+{
+ "slug": "2025-08-15-eth-ethiopia-political-bans-media-raids-as-fragile-peace-faces-risk",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports that on 22 May 2025 a Fafen Zone court sentenced Jigjiga Television Network founder Ahmed Awga to two years under the 2020 anti-hate speech law after he aired an interview alleging police brutality.",
+   "as_of": "2025-05-22",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports that Harari editor Muhyidin Abdullahi Omar was arrested on 5 April 2025 and charged on 28 April with defamation and disinformation over Facebook posts alleging corruption.",
+   "as_of": "2025-04-28",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports that journalist Tesfalem Waldyes was arrested on 8 June 2025 in Addis Ababa and accused by police of spreading false information.",
+   "as_of": "2025-06-08",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor reports that police arrested seven Ethiopian Broadcasting Service journalists on 26-28 March 2025 over an aired episode and accused them of inciting conflict.",
+   "as_of": "2025-03-26",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

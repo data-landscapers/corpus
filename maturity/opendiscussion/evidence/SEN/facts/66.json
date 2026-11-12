@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-20-sen-senegal-columnist-facing-prosecution-for-disseminating-false-news",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "MFWA reports Sen TV columnist Mamadou Cisse criticised, on the Sen Teranga YouTube channel, the police handling of influencer Nourah Ba's arrest and the way the prosecutor initiated proceedings.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Sen Teranga YouTube channel",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "MFWA reports Cisse was taken into custody by the Special Cybersecurity Division on 15 October 2026 and charged on 16 October with disseminating false news over those comments, then released provisionally pending a 21 October hearing.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Special Cybersecurity Division",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

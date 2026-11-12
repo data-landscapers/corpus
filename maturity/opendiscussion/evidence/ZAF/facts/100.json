@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-10-zaf-cpj-welcomes-south-africa-s-abolition-of-criminal-defamation-calls-for",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "repealed",
+   "fact": "CPJ reports President Ramaphosa signed the Judicial Matters Amendment Act on 3 April 2024, repealing the common-law crime of defamation, which Parliament voted for on 6 December 2023.",
+   "as_of": "2024-04-03",
+   "date_precision": "day",
+   "system": "Judicial Matters Amendment Act (2023)",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

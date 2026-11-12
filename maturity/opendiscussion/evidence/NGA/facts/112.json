@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-nga-mra-records-86-attacks-on-journalists-citizens-in-2025-report",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Media Rights Agenda recorded 38 arrests and detentions of journalists and citizens in 2025, plus the shutdown of one media outlet.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

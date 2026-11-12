@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-23-moz-ciberseguranca-e-proteccao-de-dados",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "Cibercidadaos with MISA Mozambique submitted a position to the Assembly of the Republic on 23 April 2026 criticising the cybersecurity and cybercrime bills for provisions allowing seizure without a judicial warrant and irreversible data deletion.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "Propostas de lei de Segurança Cibernética e de Combate aos Crimes Cibernéticos",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

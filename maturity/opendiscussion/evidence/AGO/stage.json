@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "discussion",
-   "stage": "2",
-   "debate": "criticised",
-   "connection": "",
-   "penalty": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-001;AGO-002",
-   "gaps": "No source says the country went the last twelve months with no one punished for what they said or published.",
-   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "discussion",
+      "stage": "2",
+      "debate": "criticised",
+      "connection": "",
+      "penalty": "punished",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-001;AGO-007",
+      "gaps": "A person was arrested, charged or jailed, or an outlet suspended or closed, for what was said or published, inside the last twelve months, so question 2 is a no. The July 2025 shutdown falls before the twelve months.",
+      "note": "Journalists, UNITA and the bar association criticised the false-information law in 2026, a yes to question 1. The Luanda court's sentence of 2 October 2026 on the Reporter Angola editor answers question 2 no, so stage 2.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

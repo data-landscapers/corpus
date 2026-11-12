@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-15-sdn-shutdown-sudan-internet-connectivity-curtailed-during-examination-peri",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "Internet Society Pulse reports that from 13 April 2026 MTN Sudan suspended internet daily from 13:45 to 17:15, except banking, under Cabinet directives during the Sudanese Certificate Examinations, with Cloudflare data showing the drop on 13, 14 and 15 April.",
+   "as_of": "2026-04-13",
+   "date_precision": "day",
+   "system": "MTN Sudan",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

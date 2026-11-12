@@ -1,0 +1,27 @@
+{
+ "slug": "2024-08-01-gnq-keepiton-las-autoridades-de-guinea-ecuatorial-deben-poner-fin-al-bloqu",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "The #KeepItOn coalition says mobile service and internet access in Annobon have been restricted since 20 July 2024, after the government's security forces responded to protests there with arrests.",
+   "as_of": "2024-07-20",
+   "date_precision": "day",
+   "system": "Annobon shutdown",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "The #KeepItOn coalition says 16 people who signed a letter to the government asking it to stop dynamite use were detained, and security forces held at least 33 people in connection with the Annobon protests.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Annobon protest detentions",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

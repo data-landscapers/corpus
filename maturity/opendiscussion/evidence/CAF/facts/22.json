@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-27-tcd-internet-shutdowns-won-t-solve-central-africa-s-political-crises",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "ISS Africa lists the Central African Republic among six Central African countries with an internet shutdown recorded in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-03-25-ben-benin-added-to-human-rights-watchlist-as-repression-intensifies-ahead",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CIVICUS Monitor states that since the December 2025 failed coup, opposition politicians, journalists, activists and social media users have been arrested and prosecuted on charges including incitement to rebellion and electronic harassment, particularly those critical of the government's handling of the crisis.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Digital Code article 550",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "CIVICUS Monitor states that Benin's authorities have suspended digital platforms and social media channels, citing unverified misinformation concerns; the release gives no dates or names.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "CIVICUS 'Obstructed' rating is an index rating and places nothing."
+}

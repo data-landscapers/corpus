@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-12-ben-contribution-a-la-relecture-du-code-du-numerique",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "A University of Abomey-Calavi law lecturer, presenting to MPs on 12 January 2024, lists artificial intelligence among the missed appointments of the Code du numerique, which does not address it.",
+   "as_of": "2024-01-12",
+   "date_precision": "day",
+   "system": "Code du numerique",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-23-sen-senegal-tv-commentator-detained-for-disputing-prosecutor-s-statement",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "MFWA reports that SEN TV columnist Abdou Nguer was charged on 18 February 2026 with spreading false information and remanded in custody after contesting the Justice Ministry's statement on a student's death.",
+   "as_of": "2026-02-18",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "MFWA reports that on 12 November 2025 a court convicted Abdou Nguer of insulting the Head of State and sentenced him to six months, three to be served, and a 200,000 CFA franc fine.",
+   "as_of": "2025-11-12",
+   "date_precision": "day",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

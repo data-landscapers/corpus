@@ -1,0 +1,27 @@
+{
+ "slug": "2025-06-03-sen-will-the-ecowas-judgment-on-senegal-redefine-digital-rights-in-francop",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "CIPESA says Mauritania restricted mobile internet for 22 days from 2 July 2024 after the 29 June presidential election and protests disputing the result.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "CIPESA analysis",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "CIPESA says Mauritania cut mobile internet for nearly a week during protests in May and June 2023.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "CIPESA analysis",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
