@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MDG-001,MDG,standards,use,checked,"The World Bank PRODIGY report counts eight systems compliant with DGU interoperability standards, integrated through the interoperability platform.",2023-10-16,day,DGU interoperability standards,standards,2023-12-21-mdg-implementation-status-and-results-report-digital-governance-and-identi,https://documents1.worldbank.org/curated/en/099122123130031407/pdf/P1694131558e640e51a145152595653587b.pdf

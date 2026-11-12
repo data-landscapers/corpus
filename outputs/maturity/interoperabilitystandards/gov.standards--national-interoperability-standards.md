@@ -25,8 +25,8 @@ The African Union's Digital Transformation Strategy asks for technical standards
 | 3 Established | 8 |
 | 2 Nascent | 8 |
 | 1 Absent | 1 |
-| Unplaced | 1 |
-| No evidence | 33 |
+| Unplaced | 2 |
+| No evidence | 32 |
 
 ## Countries
 
@@ -163,6 +163,12 @@ Guinea's digital agency lists interoperability rules at version 0.2.2 on a page 
 
 Not established: No standards or draft are on record, and no source dated in the last three years says the country has neither.
 
+### Madagascar: Unplaced
+
+Eight systems met the digital governance unit's standards in 2023; whether the standards are published is not known, so no stage is set.
+
+Not established: No source found says the standards were drafted, published or made compulsory. A World Bank report counts eight systems compliant with DGU interoperability standards in October 2023 (MDG-001), which lifts nothing without published standards.
+
 ### Algeria: No evidence
 
 Nothing found names technical standards for government systems to exchange data or says there are none, so no stage is set.
@@ -266,12 +272,6 @@ Nothing found names technical standards for government systems to exchange data 
 Not established: Nothing found names technical standards for government systems to exchange data, or says there are none.
 
 ### Liberia: No evidence
-
-Nothing found names technical standards for government systems to exchange data or says there are none, so no stage is set.
-
-Not established: Nothing found names technical standards for government systems to exchange data, or says there are none.
-
-### Madagascar: No evidence
 
 Nothing found names technical standards for government systems to exchange data or says there are none, so no stage is set.
 

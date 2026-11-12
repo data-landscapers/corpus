@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-21-mdg-implementation-status-and-results-report-digital-governance-and-identi",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "use",
+   "value": "checked",
+   "fact": "The World Bank PRODIGY report counts eight systems compliant with DGU interoperability standards, integrated through the interoperability platform.",
+   "as_of": "2023-10-16",
+   "date_precision": "day",
+   "system": "DGU interoperability standards",
+   "class": "standards"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,16 +1,17 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names technical standards for government systems to exchange data, or says there are none.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "unplaced",
+      "standing": "",
+      "use": "checked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found says the standards were drafted, published or made compulsory. A World Bank report counts eight systems compliant with DGU interoperability standards in October 2023 (MDG-001), which lifts nothing without published standards.",
+      "note": "Reassessed 2026-11-12: the only row is a count of systems compliant with DGU standards (MDG-001); each rung must be met in turn, and nothing shows the standards drafted or published, so no rung is set.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }
