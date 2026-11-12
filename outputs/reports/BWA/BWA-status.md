@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-11-06
+compiled: 2026-11-12
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 211
+sources_cited: 213
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -85,6 +85,8 @@ The standing channels are real and mostly statutory. The [Local Government Act, 
 None of the country's documented channels for citizen participation publishes a figure for its reach or its uptake.
 
 Public accountability has held better in the press than in committee. [No body was identified as accountable for the stalled national public key infrastructure when the responsible ministry's permanent secretary pointed the Public Accounts Committee on to the Directorate of Intelligence and Security](https://weekendpost.co.bw/p420-million-digital-bombshell/), and [lawmakers' demands to know how the investment would be recovered and who would be held responsible went unanswered](https://weekendpost.co.bw/p420-million-digital-bombshell/). Meanwhile [the value of data is being argued in the national press through a "data colonialism" lens](https://www.mmegi.bw/blogs/african-politics/the-new-era-of-data-colonialism), and Absa Botswana's managing director used the [Directorate of Public Service Management's 2026 leadership conference to argue that government should simplify processes before digitising them and stop asking citizens for information it already holds](https://businessweekly.co.bw/companies-markets/absas-barclays-separation-offers-lessons-for-botswanas-public-service-reform).
+
+[In October 2024 a charge against a publisher over a Facebook post was withdrawn and his challenge to section 59(1) of the Penal Code was referred to the High Court](https://dailynews.gov.bw/news-detail/82198). [The 2025 LONDA digital rights index scored Botswana 35 of 60, up from 28, and recorded no internet shutdowns](https://paradigmhq.org/londa2025/countries/botswana.html).
 
 ## Finance
 
