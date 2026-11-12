@@ -1,16 +1,17 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "5",
-   "standing": "in-force",
-   "reach": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-001;NAM-002",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-002;NAM-001",
+      "gaps": "A May 2026 op-ed by the African Media Barometer rapporteur says the Act remains inoperative and its information commissioner unappointed (NAM-005, NAM-006). No commencement notice, decision on a request or published figures of requests have been found.",
+      "note": "Held at 5 on the ladder as worded: regulations made under the Act in December 2024 answer questions 3 and 4. A May 2026 source says the Act is inoperative and its commissioner unappointed, which on the other reading of question 4 would leave the cell at 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

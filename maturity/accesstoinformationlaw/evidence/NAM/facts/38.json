@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-05-nam-namibia-s-press-freedom-reputation-is-real-but-the-fine-print-tells-a",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Namibian op-ed by the African Media Barometer rapporteur says the Access to Information Act of 2022 was passed, signed and gazetted but remains inoperative.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Access to Information Act 2022",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "none",
+   "fact": "The op-ed says the Act's information commissioner is unappointed, and its proactive disclosure obligations and fee protections are without legal force.",
+   "as_of": "2026-05-05",
+   "date_precision": "day",
+   "system": "Access to Information Act 2022",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Access to Information Act 2022",
+   "country_label": "Access to Information Act 2022",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

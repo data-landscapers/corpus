@@ -63,10 +63,10 @@ Malawi's Access to Information Act has run since 2020; its oversight body report
 
 ### Namibia: 5 Leading
 
-Namibia's 2022 Access to Information Act has regulations of December 2024 for choosing its commissioner; no source found says whether the Act has started.
+Namibia's 2022 Access to Information Act has regulations of 2024 for choosing its commissioner; in May 2026 the Act was still not in operation.
 
-- Government Notice 380 of 9 December 2024 gazettes regulations made by the Minister of Information and Communication Technology under section 6(9) of the Access to Information Act, 2022, on the terms of the Selection Committee and the process for appointing the Information Commissioner and Deputy ([source, 2024-12-09](https://www.lac.org.na/laws/2024/8530.pdf)).
 - The document is the text of the Access to Information Act, 2022 (Act No. 8 of 2022), promulgated in Government Gazette 7986 on 28 December 2022; it gives a right of access to information held by public and private entities, and commences on a date the Minister sets by Gazette notice (section 86), with no commencement date stated as of the page's 2026-08-09 check ([source, 2022-12-28](http://www.lac.org.na/laws/2022/7986.pdf)).
+- Government Notice 380 of 9 December 2024 gazettes regulations made by the Minister of Information and Communication Technology under section 6(9) of the Access to Information Act, 2022, on the terms of the Selection Committee and the process for appointing the Information Commissioner and Deputy ([source, 2024-12-09](https://www.lac.org.na/laws/2024/8530.pdf)).
 
 ### Nigeria: 5 Leading
 

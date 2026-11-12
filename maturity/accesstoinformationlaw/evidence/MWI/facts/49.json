@@ -1,0 +1,27 @@
+{
+ "slug": "2025-04-30-mwi-when-truth-becomes-a-target",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "WAN-IFRA op-ed by Sellina Nyankowani Kainja says Malawi has an Access to Information Act overseen by the Malawi Human Rights Commission.",
+   "as_of": "2025-04-30",
+   "date_precision": "day",
+   "system": "Access to Information Act",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The op-ed says the Malawi Human Rights Commission oversees the Access to Information Act but received no funding for its activities in the 2022-2023 national budget.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Malawi Human Rights Commission",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

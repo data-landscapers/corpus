@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-01-lbr-liberia-public-procurement-and-concessions-commission-ppcc",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Open Contracting Partnership registry page refers to Liberia's Freedom of Information Act 2010 as a law under which disclosure of procurement information is excluded in some cases.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "Freedom of Information Act 2010",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
