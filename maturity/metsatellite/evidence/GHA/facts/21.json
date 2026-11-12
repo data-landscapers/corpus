@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-21-gha-ghana-meteorological-agency-enhances-forecasting-capabilities-with-new",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "TechReviewAfrica reports the Ghana Meteorological Agency received the PUMA-2025 and ClimSA stations under the EU-funded ClimSA project, giving access to Meteosat Third Generation data with images every 10 minutes, and that its staff were trained in forecasting and system administration.",
+   "as_of": "2025-11-21",
+   "date_precision": "day",
+   "system": "PUMA-2025 and ClimSA stations (Meteosat Third Generation)",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PUMA-2025 and ClimSA stations",
+   "country_label": "PUMA-2025 / ClimSA stations",
+   "class": "metsat",
+   "platform": "Meteosat Third Generation data",
+   "owner": "Ghana Meteorological Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

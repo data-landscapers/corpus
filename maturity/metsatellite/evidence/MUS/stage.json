@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "unplaced",
-      "stream": "",
+      "stage": "3",
+      "stream": "inservice",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data.",
-      "note": "Reassessed 2026-11-06 against the GCF FP161 row: a regional early-warning project, approved 2021, that names no satellite data; still unplaced.",
-      "as_at": "2026-11-06"
+      "stage_sources": "MUS-005",
+      "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data. The 2007 account of cyclone warnings from satellite imagery is older than three years; ISO certification is stated without naming ISO 9001.",
+      "note": "The acting director lists MSG and MTG satellite imagery among the service's working tools (September 2026): displaying satellite products is using them (Bill, message 125). No source in the window ties its warnings to them.",
+      "as_at": "2026-11-12"
     }
   ]
 }

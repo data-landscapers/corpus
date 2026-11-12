@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-09-tun-cinq-radars-des-satellites-et-des-systemes-connectes-la-tunisie-muscle",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Third-generation satellite image receiving station (planned)",
+   "country_label": "Tunisie",
+   "class": "other",
+   "platform": "",
+   "owner": "Institut national de la meteorologie",
+   "tiers": ""
+  }
+ ],
+ "note": "The receiving-station tender, five radars and ISO 9001 extension are all announced plans, not delivered."
+}

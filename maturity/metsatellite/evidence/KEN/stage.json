@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "unplaced",
-      "stream": "",
+      "stage": "2",
+      "stream": "underway",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source found since November 2023 says the national weather service receives satellite data.",
-      "note": "EUMETSAT's SEWA project upgrades a regional ground station in Kenya without naming the national weather service. Nothing held says the department receives or uses satellite data.",
-      "as_at": "2026-11-11"
+      "stage_sources": "KEN-002;KEN-003",
+      "gaps": "No source found since October 2023 says the Kenya Meteorological Department uses satellite data in its forecasts.",
+      "note": "KMD says the AUC installed PUMA 2025 and ClimSA stations at the department in August 2024, receiving MTG data, so question 1 is answered. Nothing says its forecasts use the data.",
+      "as_at": "2026-11-12"
     }
   ]
 }

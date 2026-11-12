@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "unplaced",
-      "stream": "",
+      "stage": "2",
+      "stream": "underway",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data.",
-      "note": "The only fact, of 2019, is older than three years. Nothing newer is held.",
-      "as_at": "2026-11-11"
+      "stage_sources": "MDG-002",
+      "gaps": "No source found since October 2023 says the weather service uses satellite data in its forecasts.",
+      "note": "The African Union Commission lists a PUMA station installed in Madagascar as at May 2026, so question 1 is answered. Use in cyclone forecasting rests on a 2019 fact, outside the window.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 ## Satellite data in weather services
 
-**Satellite data stream.** [IGEBU's Images satellitaires viewer shows Meteosat Second Generation layers over the Indian Ocean (precipitation rate, SEVIRI IR3.9, convection RGB) on automatic update](<https://www.igebu.bi/data-tools/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Satellite data stream.** Burundi's weather institute IGEBU [runs a satellite imagery viewer](<https://www.igebu.bi/data-tools/>) on its site. It shows Meteosat Second Generation layers over the Indian Ocean, among them precipitation rate and convection, and updates itself. In May 2026 the African Union Commission listed Burundi among eight member states [still waiting for a PUMA station](<https://www-cdn.eumetsat.int/files/2026-05/7-%20Infrastructure%20and%20Capacity%20Building_AUC_PDF.pdf>). They are supplied under a continental contract signed in November 2023. No other source on the subject was found.
 
 **Warnings issued.** No source found since October 2023 says the weather service issues warnings drawing on satellite data. The nearest held fact: [the one given above](<https://www.igebu.bi/data-tools/>).
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-12-xaf-auc-status-of-deployment-of-puma-and-climsa-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "underway",
+   "fact": "The African Union Commission's ClimSA deck lists Niger among 41 of 49 member states with a PUMA station installed as at 12 May 2026; the station carries satellite imagery.",
+   "as_of": "2026-05-12",
+   "date_precision": "day",
+   "system": "PUMA station",
+   "class": "metsat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

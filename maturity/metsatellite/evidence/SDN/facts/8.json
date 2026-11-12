@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-13-sdn-advancing-multi-risk-early-warning-in-fragile-contexts-methodological",
+ "facts": [],
+ "systems": [
+  {
+   "system": "APIS WRF forecasting chain",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "WRF model, 3 km, 72-hour",
+   "owner": "Sudan Meteorological Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a WRF model forecasting chain and bulletins; it never says satellite data is received or used."
+}

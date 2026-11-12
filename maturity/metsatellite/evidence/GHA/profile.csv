@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,metsat,stream,coverage,inservice,2022-07-06,GHA-001,,nothing dated since 2023-10-21
-GHA,metsat,warnings,coverage,issued,2022-07-06,GHA-002,,nothing dated since 2023-10-21
-GHA,metsat,certified,coverage,,,,,nothing held
+GHA,metsat,stream,coverage,inservice,2025-11-21,GHA-001;GHA-003,,
+GHA,metsat,warnings,coverage,issued,2022-07-06,GHA-002,,nothing dated since 2023-11-12
+GHA,metsat,certified,coverage,certified,2025-03-20,GHA-004,,

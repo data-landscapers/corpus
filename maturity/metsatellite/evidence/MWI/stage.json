@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "2",
-      "stream": "underway",
-      "warnings": "",
+      "stage": "4",
+      "stream": "inservice",
+      "warnings": "issued",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-001",
-      "gaps": "No source found since October 2023 says: does it use it in forecasts.",
-      "note": "DCCMS installed PUMA 2025 at Blantyre in August 2025, giving access to MTG products. Nothing says its forecasts use them.",
-      "as_at": "2026-11-11"
+      "stage_sources": "MWI-004;MWI-005",
+      "gaps": "No source found since October 2023 says the weather service holds ISO 9001 certification.",
+      "note": "DCCMS says its flash flood warnings come from tools including the Flash Flood Guidance System, which uses satellite rainfall estimates (April 2025). No source says it holds ISO 9001, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

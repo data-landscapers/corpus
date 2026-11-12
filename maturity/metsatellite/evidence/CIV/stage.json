@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "no evidence",
-      "stream": "",
-      "warnings": "",
+      "stage": "4",
+      "stream": "inservice",
+      "warnings": "issued",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether the national weather service uses satellite data.",
-      "note": "Nothing held states whether the national weather service receives satellite data.",
-      "as_at": "2026-11-11"
+      "stage_sources": "CIV-001;CIV-002",
+      "gaps": "No source found since October 2023 says the weather service holds ISO 9001 certification.",
+      "note": "The service's director says Meteosat data drive the nowcasts behind its early warning platform, and an orange alert went out for Abidjan in June 2024. No source says it holds ISO 9001, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

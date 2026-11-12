@@ -88,3 +88,23 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,NER,data.geospatial--meteorological-use-of-satellite-data,ladder,2,3,NER-001,"Bill's ruling, message 125"
 2026-11-11,SSD,data.geospatial--meteorological-use-of-satellite-data,ladder,3,2,SSD-001,"Bill's ruling, message 125"
 2026-11-11,LSO,data.geospatial--meteorological-use-of-satellite-data,ladder,3,unplaced,,"Bill's ruling, message 125"
+2026-11-12,AGO,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,2,AGO-002,AUC ClimSA deck (May 2026) lists a PUMA station installed: question 1 answered; unplaced/no evidence->2
+2026-11-12,COG,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,2,COG-002,AUC ClimSA deck (May 2026) lists a PUMA station installed: question 1 answered; unplaced/no evidence->2
+2026-11-12,COM,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,2,COM-003,AUC ClimSA deck (May 2026) lists a PUMA station installed: question 1 answered; unplaced/no evidence->2
+2026-11-12,STP,data.geospatial--meteorological-use-of-satellite-data,fact,no evidence,2,STP-001,AUC ClimSA deck (May 2026) lists a PUMA station installed: question 1 answered; unplaced/no evidence->2
+2026-11-12,SWZ,data.geospatial--meteorological-use-of-satellite-data,fact,no evidence,2,SWZ-001,AUC ClimSA deck (May 2026) lists a PUMA station installed: question 1 answered; unplaced/no evidence->2
+2026-11-12,TGO,data.geospatial--meteorological-use-of-satellite-data,fact,no evidence,2,TGO-001,AUC ClimSA deck (May 2026) lists a PUMA station installed: question 1 answered; unplaced/no evidence->2
+2026-11-12,MDG,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,2,MDG-002,AUC ClimSA deck (May 2026) lists a PUMA station installed: question 1 answered; unplaced/no evidence->2
+2026-11-12,NAM,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,2,NAM-003,AUC ClimSA deck (May 2026) lists a PUMA station installed: question 1 answered; unplaced/no evidence->2
+2026-11-12,LSO,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,2,LSO-002,AUC ClimSA deck (May 2026) lists a PUMA station installed: question 1 answered; unplaced/no evidence->2
+2026-11-12,ERI,data.geospatial--meteorological-use-of-satellite-data,fact,no evidence,2,ERI-001,"AUC ClimSA deck (May 2026) lists the PUMA station pending under a signed contract for all 49 states: station contracted, question 1; no evidence->2"
+2026-11-12,SLE,data.geospatial--meteorological-use-of-satellite-data,fact,no evidence,2,SLE-001,"AUC ClimSA deck (May 2026) lists the PUMA station pending under a signed contract for all 49 states: station contracted, question 1; no evidence->2"
+2026-11-12,KEN,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,2,KEN-002;KEN-003,KMD and EUMETSAT: PUMA 2025 and ClimSA stations installed at KMD in August 2024: question 1 answered; unplaced->2
+2026-11-12,GHA,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,3,GHA-003,"GMet received PUMA-2025/ClimSA stations giving MTG data for forecasts, forecasters trained (Nov 2025): question 2; unplaced->3"
+2026-11-12,MUS,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,3,MUS-005,MMS deck (Sep 2026) lists MSG/MTG satellite imagery among its working tools: question 2; unplaced->3
+2026-11-12,EGY,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,5,EGY-002;EGY-003;EGY-004,EMA forecasting director (Sep 2026): satellites feed forecasts and the early warning system; ISO 9001:2015 renewed 2025: unplaced->5
+2026-11-12,MAR,data.geospatial--meteorological-use-of-satellite-data,fact,3,5,MAR-001;MAR-003;MAR-004;MAR-005,DGM: satellite receivers serve accurate warning bulletins (Mar 2025); audit ordered to keep ISO 9001:2015 (Oct 2025): 3->5
+2026-11-12,RWA,data.geospatial--meteorological-use-of-satellite-data,fact,3,5,RWA-004;RWA-005;RWA-006,"Meteo Rwanda deck (May 2026): MTG data lengthen warning lead times, impact-based warnings; operations ISO 9001:2015 certified: 3->5"
+2026-11-12,BFA,data.geospatial--meteorological-use-of-satellite-data,fact,4,5,BFA-002;BFA-003;BFA-005,ANAM deck: ISO 9001:2015 certification obtained in 2025: 4->5
+2026-11-12,MWI,data.geospatial--meteorological-use-of-satellite-data,fact,2,4,MWI-004;MWI-005,"DCCMS (Apr 2025): flash flood warnings from FFGS, which uses satellite rainfall estimates: questions 2 and 3; 2->4"
+2026-11-12,CIV,data.geospatial--meteorological-use-of-satellite-data,fact,no evidence,4,CIV-001;CIV-002,NMS director (2024): Meteosat nowcasts underpin early warning platform; orange alert for Abidjan June 2024: no evidence->4

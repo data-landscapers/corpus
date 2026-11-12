@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SWZ,metsat,stream,coverage,underway,2026-05-12,SWZ-001,,
+SWZ,metsat,warnings,coverage,,,,,nothing found
+SWZ,metsat,certified,coverage,,,,,nothing found

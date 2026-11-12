@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CMR,AMSAF,African Meteorological Satellite Applications Facility,other,,African Union Commission / SEWA,,2026-05-23-meteocameroon-sewa-amsaf-launch-addis-abeba
 CMR,NWCSAF via ADAguc,Cameroon,metsat,ADAguc,EUMETSAT (provider); DMN (access page),,2026-01-20-meteocameroon-nwcsaf-eumetsat
+CMR,PUMA-2025 satellite data reception station,Cameroon,metsat,EUMETSAT PUMA-2025 (Meteosat Third Generation),National Meteorological Directorate,,2025-07-24-cmr-cameroon-takes-major-leap-in-weather-forecasting-with-puma-2025-statio

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "unplaced",
-      "stream": "",
+      "stage": "3",
+      "stream": "inservice",
       "warnings": "",
-      "certified": "",
+      "certified": "certified",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data.",
-      "note": "The only facts, of July 2022, are older than three years. Nothing newer is held.",
-      "as_at": "2026-11-11"
+      "stage_sources": "GHA-003",
+      "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data. The 2022 account of nowcasts for early warning is older than three years.",
+      "note": "GMet received PUMA-2025 and ClimSA stations giving MTG data for its forecasts, with forecasters trained (November 2025), as Mali-Meteo (MLI-001) is read. Warnings from satellite data rest on a 2022 source, so not 4; its ISO 9001 re-certification (2025) cannot count until then.",
+      "as_at": "2026-11-12"
     }
   ]
 }

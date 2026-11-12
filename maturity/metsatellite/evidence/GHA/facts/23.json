@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-20-gha-gmet-receives-international-organization-for-standardization-re-certif",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "certified",
+   "value": "certified",
+   "fact": "The Ghana Meteorological Agency received ISO 9001 re-certification from the International Certification Group of the UK, with the audit closing the gaps found at the initial stage, per the Ghana News Agency.",
+   "as_of": "2025-03-20",
+   "date_precision": "day",
+   "system": "GMet ISO 9001 certification",
+   "class": "metsat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

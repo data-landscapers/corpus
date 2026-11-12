@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-23-dza-onm-iso-9001-2015-renewal-tenth-year",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "certified",
+   "value": "certified",
+   "fact": "The Office National de la Météorologie announced renewal of its ISO 9001:2015 certification, for its aeronautical meteorological services, for the tenth consecutive year after an external audit on 6-8 April 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "ONM ISO 9001:2015 certification",
+   "class": "metsat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

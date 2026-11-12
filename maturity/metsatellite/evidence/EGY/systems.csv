@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 EGY,MSG and HRPT units,Egypt,metsat,MSG; HRPT,Egyptian Meteorological Authority,,2014-12-01-egy-ema-wmo-rtc-cairo-training-book
 EGY,NARSS winter crop map,Egypt,other,remote sensing and AI,National Authority for Remote Sensing and Space Sciences with Ministry of Agriculture,,2024-11-05-egy-narss-agriculture-ministry-launch-map-of-winter-crops
+EGY,Early warning system,Egypt,metsat,"120 stations, 3 radars, satellites, 8 global models",Egyptian Meteorological Authority,,2026-09-24-egy-ema-early-warning-120-stations-3-radars

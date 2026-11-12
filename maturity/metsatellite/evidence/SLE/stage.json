@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "no evidence",
-      "stream": "",
+      "stage": "2",
+      "stream": "underway",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether the national weather service uses satellite data.",
-      "note": "Nothing held states whether the national weather service receives satellite data.",
-      "as_at": "2026-11-11"
+      "stage_sources": "SLE-001",
+      "gaps": "Nothing found says the PUMA station has been installed or that the weather service uses satellite data.",
+      "note": "The African Union Commission lists Sierra Leone pending under a signed contract for all 49 member states (May 2026): a station contracted answers question 1. Nothing says it is installed or used.",
+      "as_at": "2026-11-12"
     }
   ]
 }

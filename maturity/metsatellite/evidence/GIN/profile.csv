@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,metsat,stream,coverage,inservice,2026,GIN-001,,
-GIN,metsat,warnings,coverage,,,,,nothing held
-GIN,metsat,certified,coverage,,,,,nothing held
+GIN,metsat,stream,coverage,inservice,2026,GIN-001,GIN-002=underway,
+GIN,metsat,warnings,coverage,,,,,nothing found
+GIN,metsat,certified,coverage,,,,,nothing found

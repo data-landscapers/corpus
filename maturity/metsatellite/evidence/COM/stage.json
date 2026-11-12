@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "unplaced",
-      "stream": "",
+      "stage": "2",
+      "stream": "underway",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data.",
-      "note": "The only facts, of November 2019, are older than three years. Nothing newer is held.",
-      "as_at": "2026-11-11"
+      "stage_sources": "COM-003",
+      "gaps": "No source found since October 2023 says the weather service uses satellite data in its forecasts. The 2019 account of warnings from EUMETCast is older than three years.",
+      "note": "The African Union Commission lists a PUMA station installed in Comoros as at May 2026, so question 1 is answered. Use in forecasts and warnings rests on 2019 facts, outside the window.",
+      "as_at": "2026-11-12"
     }
   ]
 }

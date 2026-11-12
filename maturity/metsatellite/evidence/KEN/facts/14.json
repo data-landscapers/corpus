@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-28-ken-eumetsat-installs-receiving-stations-for-kenya-s-meteosat-third-genera",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "underway",
+   "fact": "EUMETSAT installed the first PUMA-2025 receiving station for Meteosat Third Generation data in Nairobi, Kenya, under the 2022 African Union-EUMETSAT agreement.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "PUMA-2025 receiving station",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PUMA-2025",
+   "country_label": "Kenya",
+   "class": "metsat",
+   "platform": "MTG receiving station",
+   "owner": "EUMETSAT with the African Union Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

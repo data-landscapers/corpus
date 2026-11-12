@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-14-egy-ema-2025-year-in-review-radars-supercomputer",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "certified",
+   "value": "certified",
+   "fact": "The Egyptian Meteorological Authority renewed its ISO 9001:2015 quality management certification in 2025, per the Ministry of Civil Aviation's year-in-review.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ISO 9001:2015",
+   "class": "metsat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

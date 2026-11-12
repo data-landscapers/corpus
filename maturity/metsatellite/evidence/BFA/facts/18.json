@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-01-bfa-presenation-de-l-anam-du-burkina-faso",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "certified",
+   "value": "certified",
+   "fact": "ANAM's slide deck states that the agency obtained ISO 9001 (2015 version) certification in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ANAM",
+   "class": "metsat"
+  }
+ ],
+ "systems": [],
+ "note": "No satellite reception or use is stated."
+}

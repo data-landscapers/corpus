@@ -2,7 +2,7 @@
 
 ## Satellite data in weather services
 
-**Satellite data stream.** [The Zimbabwe Meteorological Services Department's newsletter says the PUMA 2025 station for METEOSAT Third Generation was installed with reception confirmed satisfactory and the station 'fully operational and capable of receiving satellite data', with an EUMETCAST licence request submitted](<https://www.weatherzw.org.zw/documents/776/MSD_Newsletter_February_-_March_2026.pdf>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Satellite data stream.** The Meteorological Services Department's newsletter for February and March 2026 says [its PUMA 2025 station is installed and fully operational](<https://www.weatherzw.org.zw/documents/776/MSD_Newsletter_February_-_March_2026.pdf>). Reception of Meteosat Third Generation data was confirmed, and a EUMETCast licence was requested. In January 2024 a Techzim columnist wrote that the department [receives data from China's Fengyun-3 satellites](<https://www.techzim.co.zw/2024/01/has-access-to-chinese-satellites-helped-zim-agric-revival/>) under a 2016 deal. The same column says the country cannot make proper use of it.
 
 **Warnings issued.** No source found since October 2023 says the weather service issues warnings drawing on satellite data. The nearest held fact: [the one given above](<https://www.weatherzw.org.zw/documents/776/MSD_Newsletter_February_-_March_2026.pdf>).
 

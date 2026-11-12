@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-22-mar-snrt-early-warning-how-meteorology-monitors-extreme-weather",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "SNRT News reports a Moroccan General Directorate of Meteorology spokesman saying it acquired third-generation satellite receivers, with 400 automatic stations and 12 radars, to improve forecast accuracy.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "DGM satellite receivers",
+   "class": "metsat"
+  },
+  {
+   "sub_indicator": "metsat",
+   "aspect": "warnings",
+   "value": "issued",
+   "fact": "SNRT News reports the General Directorate of Meteorology saying its observation upgrade, including satellite receivers, enables accurate warning bulletins.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "DGM early warning",
+   "class": "metsat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

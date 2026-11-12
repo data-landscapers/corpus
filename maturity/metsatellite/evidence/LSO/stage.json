@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "unplaced",
-      "stream": "",
+      "stage": "2",
+      "stream": "underway",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data. The nowcasting system (LSO-001) was a 2023 consultancy deployment, and no later source says it still works.",
-      "note": "Restaged 2026-11-11 on Bill's ruling (message 125): a consultancy project in 2023 with no later reference does not show a system still working, so unplaced.",
-      "as_at": "2026-11-11"
+      "stage_sources": "LSO-002",
+      "gaps": "No source found since October 2023 says the weather service uses satellite data in its forecasts. The 2023 nowcasting system (LSO-001) has no later source saying it still works.",
+      "note": "The African Union Commission lists a PUMA station installed in Lesotho as at May 2026, so question 1 is answered. The 2023 consultancy nowcasting system has no later source, so not 3 (Bill, message 125).",
+      "as_at": "2026-11-12"
     }
   ]
 }

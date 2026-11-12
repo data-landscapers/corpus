@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MOZ,Sistema de alerta antecipado,Moçambique,metsat,"satellite imagery, radar and observation network",INAM (with INGD and ICS),warning by INAM; dissemination by ICS radios and brigades; coordination by INGD,2023-09-11-moz-worldbank-sistema-alerta-antecipado-salva-vidas
 MOZ,Mozambique early warning system,Mozambique,metsat,,,,2025-03-17-moz-wmo-life-saving-early-warning-systems
+MOZ,ActionFirst,Mozambique,other,impact-based early warning platform,INAM with UK Met Office,,2026-05-14-moz-lancamento-da-inciativa-actionfirst

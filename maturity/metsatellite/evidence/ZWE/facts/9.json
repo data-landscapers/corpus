@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-29-zwe-has-access-to-chinese-satellites-helped-zimbabwe-s-agric-revival",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "underway",
+   "fact": "A Techzim columnist writes that under a 2016 deal Zimbabwe's Meteorological Services Department receives and processes data from China's Fengyun-3 polar-orbiting satellites, beside Eumetsat geostationary access, but that the country cannot properly use the data.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Fengyun-3 satellite data reception",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fengyun-3 data reception",
+   "country_label": "Zimbabwe",
+   "class": "metsat",
+   "platform": "Fengyun-3 polar orbiters; Eumetsat geostationary",
+   "owner": "Meteorological Services Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

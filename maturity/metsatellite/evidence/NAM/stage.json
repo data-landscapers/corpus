@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "unplaced",
-      "stream": "",
+      "stage": "2",
+      "stream": "underway",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data.",
-      "note": "The only facts, of July 2018, are older than three years. Nothing newer is held.",
-      "as_at": "2026-11-11"
+      "stage_sources": "NAM-003",
+      "gaps": "No source found since October 2023 says the weather service uses satellite data in its forecasts.",
+      "note": "The African Union Commission lists a PUMA station installed in Namibia as at May 2026, so question 1 is answered. Nothing since 2018 says how the service uses satellite data.",
+      "as_at": "2026-11-12"
     }
   ]
 }

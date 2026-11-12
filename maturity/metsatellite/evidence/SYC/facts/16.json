@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-22-syc-sma-world-meteorological-day-2026-geosphere-mou",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The Minister said at the 20 March 2026 event that observations from weather stations, satellites and ocean monitoring form the foundation of the Seychelles Meteorological Authority's forecasts and warnings.",
+   "as_of": "2026-03-20",
+   "date_precision": "day",
+   "system": "Seychelles Meteorological Authority forecasts",
+   "class": "metsat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

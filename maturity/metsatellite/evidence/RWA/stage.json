@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "3",
+      "stage": "5",
       "stream": "inservice",
-      "warnings": "",
-      "certified": "",
+      "warnings": "issued",
+      "certified": "certified",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-001;RWA-002",
-      "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data.",
-      "note": "Meteo Rwanda's forecasting draws on EUMETSAT imagery (2023 and 2026). No source ties its warnings to satellite data, so its ISO 9001 certification cannot raise it.",
-      "as_at": "2026-11-11"
+      "stage_sources": "RWA-004;RWA-005;RWA-006",
+      "gaps": "The 2026 warning lead-time figure is the service's own projection.",
+      "note": "Meteo Rwanda says MTG data lengthened its thunderstorm warning lead times and feed impact-based warnings, and that its operations are ISO 9001:2015 certified (May 2026). Each step is met on its own evidence.",
+      "as_at": "2026-11-12"
     }
   ]
 }

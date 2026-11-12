@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "no evidence",
-      "stream": "",
+      "stage": "2",
+      "stream": "underway",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether the national weather service uses satellite data.",
-      "note": "Nothing held states whether the national weather service receives satellite data.",
-      "as_at": "2026-11-11"
+      "stage_sources": "SWZ-001",
+      "gaps": "No source found since October 2023 says the weather service uses satellite data in its forecasts.",
+      "note": "The African Union Commission lists a PUMA station installed in Eswatini as at May 2026, so question 1 is answered. Nothing says the service uses the data.",
+      "as_at": "2026-11-12"
     }
   ]
 }

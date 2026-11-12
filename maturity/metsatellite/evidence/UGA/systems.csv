@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 UGA,Synergie,Synergie satellite imagery reception system,metsat,,"National Meteorological Centre, Ministry of Water and Environment",,2026-01-01-uga-mwe-forecasting-services-satellite-station
+UGA,KijaniSpace Space-IoT Box pilot,Greater Hope Farm,other,,KijaniSpace,,2026-08-03-kijanispace-greater-hope-farm-uganda
+UGA,Flood detection application,Uganda,metsat,"browser-based; Meteosat Third Generation, nowcasting, NWP, SFINCS",Ministry of Water and Environment,,2026-04-08-uga-govt-rolls-out-flood-detection-app

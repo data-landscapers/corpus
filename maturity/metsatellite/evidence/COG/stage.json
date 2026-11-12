@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "unplaced",
-      "stream": "",
+      "stage": "2",
+      "stream": "underway",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data.",
-      "note": "The only fact, a PUMA station inaugurated in 2004, is older than three years. Nothing newer is held.",
-      "as_at": "2026-11-11"
+      "stage_sources": "COG-002",
+      "gaps": "No source found since October 2023 says the weather service uses satellite data in its forecasts.",
+      "note": "The African Union Commission lists a PUMA station installed in Congo as at May 2026, so question 1 is answered. Nothing since 2004 says how the service uses the data.",
+      "as_at": "2026-11-12"
     }
   ]
 }

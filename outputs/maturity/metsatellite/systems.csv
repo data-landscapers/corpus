@@ -5,8 +5,10 @@ BEN,PUMA station,Benin,metsat,Meteosat Third Generation,,,2024-09-17-ben-gouvbj-
 BFA,PUMA 2025,Burkina Faso,metsat,MTG satellite reception station,ANAM,national,2025-08-30-meteoburkina-anam-modernisation-infrastructures-puma-climsa
 BFA,CLIMSA station,Burkina Faso,other,climate data analysis station,ANAM,national,2025-08-30-meteoburkina-anam-modernisation-infrastructures-puma-climsa
 CAF,images satellitaires METEOSAT (MSG),Centrafrique,metsat,METEOSAT MSG,ASECNA (CMP Bangui/M'Poko),,2025-08-07-asecna-eaip-feff-bangui-mpoko-met
+CIV,Multi-sectoral risk management platform,Côte d'Ivoire,metsat,early warning platform,National Meteorology Service with local authorities and relief agencies,,2024-01-01-civ-towards-early-warnings-for-all-in-africa
 CMR,AMSAF,African Meteorological Satellite Applications Facility,other,,African Union Commission / SEWA,,2026-05-23-meteocameroon-sewa-amsaf-launch-addis-abeba
 CMR,NWCSAF via ADAguc,Cameroon,metsat,ADAguc,EUMETSAT (provider); DMN (access page),,2026-01-20-meteocameroon-nwcsaf-eumetsat
+CMR,PUMA-2025 satellite data reception station,Cameroon,metsat,EUMETSAT PUMA-2025 (Meteosat Third Generation),National Meteorological Directorate,,2025-07-24-cmr-cameroon-takes-major-leap-in-weather-forecasting-with-puma-2025-statio
 COD,SOFF RDC,RDC,other,,METTELSAT,,2026-06-04-meteordcongo-lancement-soff-rdc
 COD,PUMA,METTELSAT,metsat,EUMETCast,METTELSAT,,2024-07-01-cod-meteoswiss-mettelsat-country-hydromet-diagnostics
 COG,PUMA receiving station (MTAP/PUMA),Republic of Congo,metsat,Meteosat Second Generation via EUMETCast,"National Meteorological Services, Republic of Congo",,2004-01-01-cog-eumetsat-6th-user-forum-africa-brazzaville-puma
@@ -21,36 +23,46 @@ DJI,MSG receiving station / PUMA workstation,Djibouti,metsat,"Meteosat Second Ge
 DZA,"Satellite image reception systems (Oran, Constantine)",Algeria,metsat,,Office national de la Meteorologie,,2018-03-23-dza-algerieeco-meteorologie-service-economie
 EGY,MSG and HRPT units,Egypt,metsat,MSG; HRPT,Egyptian Meteorological Authority,,2014-12-01-egy-ema-wmo-rtc-cairo-training-book
 EGY,NARSS winter crop map,Egypt,other,remote sensing and AI,National Authority for Remote Sensing and Space Sciences with Ministry of Agriculture,,2024-11-05-egy-narss-agriculture-ministry-launch-map-of-winter-crops
+EGY,Early warning system,Egypt,metsat,"120 stations, 3 radars, satellites, 8 global models",Egyptian Meteorological Authority,,2026-09-24-egy-ema-early-warning-120-stations-3-radars
 ETH,EMI Satellite Imagery,Satellite Imagery,metsat,"Meteosat SEVIRI, NWC-SAF",Ethiopian Meteorological Institute,,2026-08-28-emi-satellite-imagery
 ETH,Urban Flash Flood Forecasting System (UFFFS),Ethiopia (Addis Abeba pilot city),other,satellite observations with PySTEPS nowcasting,"WMO project WHCA, with HKV and Deltares","pilot, not yet operational",2026-04-02-wmo-urban-flash-flood-forecasting-eastern-africa
 GAB,PUMA reception station (Transition Météorologique en Afrique),Gabon,metsat,Meteosat Second Generation,Direction de la Météorologie Nationale,,2009-10-27-gab-annales-uob-reseaux-mesures-meteo-puma
 GAB,Libreville weather radar,Gabon,other,radar,Direction de la Météorologie Nationale,,2009-10-27-gab-annales-uob-reseaux-mesures-meteo-puma
 GHA,NWCSAF,Ghana,metsat,"EUMETSAT MSG via Atlantic Bird 2, Tellicast",GMet and KNUST,,2022-07-06-gha-authorea-nwcsaf-high-impact-weather-forecasting
 GHA,GEOMAIZE,GEOMAIZE,other,,GSSTI with VITO,,2026-03-17-gha-geoglam-geomaize-yield
+GHA,PUMA-2025 and ClimSA stations,PUMA-2025 / ClimSA stations,metsat,Meteosat Third Generation data,Ghana Meteorological Agency,,2025-11-21-gha-ghana-meteorological-agency-enhances-forecasting-capabilities-with-new
 GIN,WIS2box website with CAP composer,Guinea,other,WIS2box,ANM,,2026-02-05-crews-project-improves-meteorological-service-guinea
 GMB,MTG PUMA station,The Gambia,metsat,Meteosat Third Generation,"Department of Water Resources, meteorology unit",national,2024-08-30-dwr-gambia-receives-meteosat-third-generation-puma-climsa-stations
 GMB,ClimSA station,The Gambia,metsat,ClimSA,"Department of Water Resources, meteorology unit",national,2024-08-30-dwr-gambia-receives-meteosat-third-generation-puma-climsa-stations
 GNB,Common Alerting Protocol (CAP),Guiné-Bissau,other,CAP / Google Public Alerts,INM-GB,,2026-05-07-inm-gb-operacionalizacao-do-cap-sistemas-de-alerta
 GNB,CLIMSA/PUMA2025,Guinea-Bissau,metsat,Meteosat Third Generation,INM-GB,,2026-09-08-gnb-inm-nova-estacao-climsa-puma2025
 KEN,Regional ATOVS Retransmission Services (RARS),Kenya,metsat,polar-orbiting satellite data reception ground station,EUMETSAT,,2025-10-24-sewa-strengthening-early-warning-africa
+KEN,PUMA 2025 and ClimSA stations,Kenya,metsat,satellite data reception,Kenya Meteorological Department with the AUC and EUMETSAT,,2024-11-04-ken-puma-and-climsa-stations-tot-workshop
+KEN,PUMA-2025,Kenya,metsat,MTG receiving station,EUMETSAT with the African Union Commission,,2024-08-28-ken-eumetsat-installs-receiving-stations-for-kenya-s-meteosat-third-genera
 LBR,ClimSA/PUMA2025 Meteosat Third Generation (MTG) system,Liberia,metsat,PUMA station (Meteosat Third Generation reception),Liberia Meteorological Service,national,2025-10-31-liberia-lms-climsa-puma2025-meteosat-third-generation-ria
+LBR,SAP018 Liberia Climate Information Systems,"GCF-funded project improving hydrometeorological services and impact-based forecasting, completion October 2027",other,,African Development Bank as entity,national,2026-11-05-lbr-gcf-sap018-liberia-climate-information-systems
 LSO,Nowcasting system,Lesotho,metsat,NWP and HPC,Lesotho Meteorological Service,national,2026-04-08-wis-lesotho-climate-weather-enhancement-initiative
 MAR,Amtar supercomputer,Morocco,other,high-performance computer,DGM,,2025-12-21-mar-le360-dgm-observation-aux-alertes
 MAR,Meteosat Third Generation,Maroc,metsat,Eumetcast Europe (Ku-band),DGM,,2025-01-07-mar-aujourdhui-dgm-meteosat-troisieme-generation
+MAR,vigilance.ma,Morocco,other,digital alert platform,Ministry of Equipment and Water,,2026-07-14-mar-map-bulletins-de-vigilance-generalises-collectivites-baraka
+MAR,vigilance.ma,Morocco,other,digital alert platform,Ministry of Equipment and Water,,2026-07-14-mar-morocco-extends-weather-alerts-to-all-municipalities-sends-daily-forec
 MDG,PUMA 2015 station,Madagascar,metsat,MSG-3 IODC imagery,Direction Generale de la Meteorologie,,2019-01-01-mdg-wmo-tc-monitoring-forecasting-wfo-madagascar
 MLI,PUMA 2025 / ClimSA station,Mali,metsat,Meteosat Third Generation,Mali-Meteo,,2026-03-11-mli-apanews-mali-meteo-systeme-satellitaire-puma2025
 MLI,RIICE,Mali,other,Sentinel-1/2,AfricaRice/Ministry of Agriculture,,2026-05-14-aiccra-institutionnalisation-outil-riice-mali
 MOZ,Sistema de alerta antecipado,Moçambique,metsat,"satellite imagery, radar and observation network",INAM (with INGD and ICS),warning by INAM; dissemination by ICS radios and brigades; coordination by INGD,2023-09-11-moz-worldbank-sistema-alerta-antecipado-salva-vidas
 MOZ,Mozambique early warning system,Mozambique,metsat,,,,2025-03-17-moz-wmo-life-saving-early-warning-systems
+MOZ,ActionFirst,Mozambique,other,impact-based early warning platform,INAM with UK Met Office,,2026-05-14-moz-lancamento-da-inciativa-actionfirst
 MRT,AGRIFEMIA,Mauritania,other,AI-based agro-hydro-meteorological early warning platform,Office national de meteorologie,,2026-09-08-ami-onm-ai-agro-hydro-early-warning-workshop
 MRT,ClimSA and PUMA stations,"Nouakchott, Mauritania",metsat,MSG/MTG reception and processing,African Union Commission (ClimSA programme),,2025-09-23-auc-climsa-puma-nouakchott-satellite-reception-inspection
 MUS,"Meteosat satellite data system (MDD, HRPT, PDUS)",Mauritius,metsat,Meteosat / polar orbiters,Mauritius Meteorological Services,,2026-01-01-mus-mms-historical-background
 MUS,NOAA HRPT reception,Mauritius,metsat,HRPT,Mauritius Meteorological Services,,2008-01-01-mus-mms-cyclone-season-technical-report-2006-2007
 MUS,Meteosat Second Generation (MSG),Mauritius,metsat,Meteosat/RETIM,Mauritius Meteorological Services,,2008-01-01-mus-mms-cyclone-season-technical-report-2006-2007
 MUS,GCF FP161 regional early warning project,Mauritius,other,multi-hazard early warning system (in development),Indian Ocean Commission; AFD,regional,2021-03-19-gcf-building-regional-resilience-through-strengthened-meteorological-hydrologica
+MUS,MSG/MTG satellite imagery,Mauritius,metsat,"MSG, MTG",Mauritius Meteorological Services,,2026-09-25-mus-mauritius-meteorological-services
 MWI,PUMA 2025 (Skyceiver),Malawi,other,web-based data reception platform for Meteosat Third Generation data,African Union / EUMETSAT / ClimSA,regional,2025-12-01-zanyengo-e-newsletter-edition-iv
 MWI,PUMA 2025,Malawi,metsat,Meteosat satellite reception system,DCCMS,national,2025-08-02-dccms-climsa-satellite-upgrade
 MWI,PRISM,Malawi,metsat,geospatial analytics,"DCCMS with WFP, Norway-funded",pilot in five districts,2025-08-14-mwi-malawi-pilots-prism-drought-monitoring-tool-to-strengthen-climate-resi
+MWI,Flash Flood Guidance System,FFGS,metsat,,Department of Climate Change and Meteorological Services,,2025-04-17-mwi-flash-flood-warnings-what-you-need-to-know-before-it-s-too-late
 NAM,FY-3 satellite data receiving and processing systems,Namibia,metsat,FY-3,Namibian Meteorological Service,,2018-07-11-nam-china-embassy-meteorological-equipment-handover
 NAM,FY-3 satellite data collecting and processing system,Namibia,metsat,FY-3,Namibia Meteorological Service,,2018-07-09-nam-economist-meteorological-equipment-donation
 NER,EUMETView,Image Satelitaire,metsat,EUMETSAT EUMETView (Meteosat SEVIRI),Direction de la Météorologie Nationale du Niger (DMN),national,2026-03-01-dmn-niger-image-satellite
@@ -60,23 +72,35 @@ NGA,MSG 2015 station,NGA,metsat,Meteosat Second Generation,Nigerian Meteorologic
 RWA,EUMETCast (MSG/MTG),Rwanda,metsat,EUMETCast,METEO Rwanda,,2026-07-13-rwa-undp-ai-ml-weather-feasibility-study
 RWA,EUMETSAT ground-based satellite receiver,Rwanda,metsat,EUMETSAT,Meteo Rwanda,,2023-10-21-rwa-fmi-country-hydromet-diagnostics
 RWA,PUMA system (ECMWF products),Rwanda,other,PUMA,Meteo Rwanda,,2023-10-21-rwa-fmi-country-hydromet-diagnostics
+RWA,PUMA-2025 / MTG,Rwanda,metsat,"MTG, PUMA-2025 reception stations",Meteo Rwanda,,2026-05-01-rwa-weather-from-space-a-game-changer-for-africa-the-use-of-mtg-and-radar
+SDN,APIS WRF forecasting chain,Sudan,other,"WRF model, 3 km, 72-hour",Sudan Meteorological Authority,,2026-03-13-sdn-advancing-multi-risk-early-warning-in-fragile-contexts-methodological
 SEN,Meteosat Third Generation data,ANACIM (Senegal),metsat,,ANACIM,,2026-05-18-eumetsat-amsaf-anacim-nowcasting-afrique-ouest
 SEN,AgData Hub,Senegal,other,,ANACIM,,2026-02-25-sen-information-to-action-nationally-integrated-agdata-hub-is-a-turning-po
 SEN,RIICE,Senegal,other,"Sentinel-1A, Landsat 8/9, Sentinel-2 with ORYZA model","IRRI, ISRA and sarmap",,2025-10-06-irri-isra-riice-senegal-rice-satellite-monitoring
 SLE,Multi-Hazard Impact-based Forecasting and Early Warning and Early Action System,Sierra Leone,other,,"Government of Sierra Leone (GCF-funded, AfDB Accredited Entity)",,2023-10-25-gcf-sle-sap033-2023-climate-information-systems
+SLE,CAP Composer on the SLMet website,Sierra Leone,other,open source,Sierra Leone Meteorological Agency,,2026-03-05-sle-sierra-leone-publishes-first-cap-warning-advancing-early-warning-syste
 SOM,Hydro Meteorological Working Group (HWG),Somalia,other,,Ministry of Energy and Water Resources,,2025-04-01-somalia-country-hydromet-diagnostics
 SOM,MTG receiver and PUMA-2025 workstation,Somalia,metsat,ClimSA,Somali Civil Aviation Authority,,2025-07-02-som-spaceinafrica-scaa-satellite-weather-system
 SOM,DRIVE pasture index insurance,Somalia,other,satellite pasture index,ZEP-RE with World Bank and governments,,2026-04-07-som-no-one-filed-a-claim-71-290-pastoralist-families-got-paid-anyway
 SOM,ARC drought insurance parametric indices,Somalia,other,satellite data and agro-meteorological indicators,African Risk Capacity,,2025-04-01-som-somalia-drought-insurance-payout-bulletin-2024-25-deyr-season
+SSD,Joint Food Security Monitor,World Bank monthly food-security alerts using satellite NDVI and rainfall for 78 admin-2 areas,other,,World Bank,sub-national,2025-10-20-south-sudan-joint-food-security-monitor
+SSD,HUSIKA,HUSIKA early-warning dissemination platform (South Sudan Meteorological Service access),other,,ICPAC,,2026-11-09-govstack-built-to-evolve-what-husika-shows-about-modular-digital-infrastructure
+SSD,EumetCast Satellite Ground Station,South Sudan,metsat,"EumetCast ground station, Juba",Ministry of Water Resources and Irrigation,,2025-12-01-ssd-specific-procurement-notice-supply-installation-commissioning-and-afte
 SYC,EUMETSAT satellite products,Seychelles,metsat,internet access,Seychelles Meteorological Authority,,2025-06-12-syc-saws-country-hydromet-diagnostics
 SYC,GCF FP161 regional early warning project,Seychelles,other,multi-hazard early warning system (in development),Indian Ocean Commission; AFD,regional,2021-03-19-gcf-building-regional-resilience-through-strengthened-meteorological-hydrologica
 TCD,NWCSAF RDT nowcasting,Chad,metsat,EUMETSAT / AEMET,ANAM,,2026-02-03-tcd-wmo-strengthening-early-warning-chad
 TGO,Togo Data Lab MOSAIKS,Togo,other,MOSAIKS satellite imagery models,Ministry of Digital Economy with CEGA,,2025-07-25-tgo-togo-and-uc-berkeley-a-data-science-alliance-to-build-a-dynamic-west-a
 TUN,Meteosat receiving and exploitation systems,Tunisia,metsat,Meteosat,Institut National de la Meteorologie,national,2024-09-16-eumetsat-user-forum-africa-tunisie-inm-meteosat
+TUN,Third-generation satellite image receiving station (planned),Tunisie,other,,Institut national de la meteorologie,,2025-03-09-tun-cinq-radars-des-satellites-et-des-systemes-connectes-la-tunisie-muscle
 TZA,Data Processing and Forecasting System (DPFS),Tanzania,other,"statistical and NWP techniques, SYNERGIE, WRF and HRM models",Tanzania Meteorological Authority,,2025-03-01-tza-nao-performance-audit-meteorological-services
 TZA,EUMETSAT satellite imagery,Tanzania,metsat,EUMETSAT,Tanzania Meteorological Authority (user),,2024-02-01-tza-soff-country-hydromet-diagnostics
 TZA,Weather radars,Tanzania,other,,Tanzania Meteorological Authority,,2024-02-01-tza-soff-country-hydromet-diagnostics
 UGA,Synergie,Synergie satellite imagery reception system,metsat,,"National Meteorological Centre, Ministry of Water and Environment",,2026-01-01-uga-mwe-forecasting-services-satellite-station
+UGA,KijaniSpace Space-IoT Box pilot,Greater Hope Farm,other,,KijaniSpace,,2026-08-03-kijanispace-greater-hope-farm-uganda
+UGA,Flood detection application,Uganda,metsat,"browser-based; Meteosat Third Generation, nowcasting, NWP, SFINCS",Ministry of Water and Environment,,2026-04-08-uga-govt-rolls-out-flood-detection-app
 ZAF,EUMETSAT Meteosat Second Generation (MSG),South Africa,metsat,MSG satellite,EUMETSAT,,2024-11-06-zaf-saws-early-warning-systems-webinar
 ZMB,advanced satellite receiving systems,Zambia,metsat,,Zambia Meteorological Department,,2025-10-02-zmb-parliament-seasonal-forecast-statement
 ZWE,PUMA 2025,Zimbabwe,metsat,METEOSAT Third Generation receiving station,Meteorological Services Department,,2026-03-01-zwe-msd-newsletter-puma-2025-installation
+ZWE,third satellite,Zimbabwe,other,,"Ministry of Higher and Tertiary Education, Innovation, Science and Technology Development",,2026-10-28-zim-to-launch-a-third-satellite-newsday
+ZWE,PUMA 2025 / Meteosat-12 imagery (training),Zimbabwe,other,EUMETSAT PUMA 2025,Meteorological Services Department,,2025-05-01-zwe-empowering-african-forecasters-with-meteosat-third-generation-for-enha
+ZWE,Fengyun-3 data reception,Zimbabwe,metsat,Fengyun-3 polar orbiters; Eumetsat geostationary,Meteorological Services Department,,2024-01-29-zwe-has-access-to-chinese-satellites-helped-zimbabwe-s-agric-revival

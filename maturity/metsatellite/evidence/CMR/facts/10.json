@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-cmr-cameroon-takes-major-leap-in-weather-forecasting-with-puma-2025-statio",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "underway",
+   "fact": "TechReviewAfrica reports Cameroon's National Meteorological Directorate began installing a PUMA-2025 satellite data reception station on 22 July 2025, to receive Meteosat Third Generation data every 10 minutes.",
+   "as_of": "2025-07-22",
+   "date_precision": "day",
+   "system": "PUMA-2025 satellite data reception station",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PUMA-2025 satellite data reception station",
+   "country_label": "Cameroon",
+   "class": "metsat",
+   "platform": "EUMETSAT PUMA-2025 (Meteosat Third Generation)",
+   "owner": "National Meteorological Directorate",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

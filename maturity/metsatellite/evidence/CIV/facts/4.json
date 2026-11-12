@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-civ-towards-early-warnings-for-all-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "Daouda Konaté, director of Côte d'Ivoire's national meteorology service, says Meteosat data enable forecasters to deliver the nowcasts that underpin its early warning platforms.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Meteosat nowcasting",
+   "class": "metsat"
+  },
+  {
+   "sub_indicator": "metsat",
+   "aspect": "warnings",
+   "value": "issued",
+   "fact": "Konaté says an orange alert was issued when unprecedented rainfall was predicted in Abidjan in June 2024, on early warning platforms underpinned by Meteosat nowcasts.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Meteosat nowcasting",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Multi-sectoral risk management platform",
+   "country_label": "Côte d'Ivoire",
+   "class": "metsat",
+   "platform": "early warning platform",
+   "owner": "National Meteorology Service with local authorities and relief agencies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

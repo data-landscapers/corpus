@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-01-zwe-empowering-african-forecasters-with-meteosat-third-generation-for-enha",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PUMA 2025 / Meteosat-12 imagery (training)",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "EUMETSAT PUMA 2025",
+   "owner": "Meteorological Services Department",
+   "tiers": ""
+  }
+ ],
+ "note": "Reports a forecaster attending a training; does not say Zimbabwe receives or uses MTG data."
+}

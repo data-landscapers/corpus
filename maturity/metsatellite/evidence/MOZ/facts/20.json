@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-14-moz-lancamento-da-inciativa-actionfirst",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ActionFirst",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "impact-based early warning platform",
+   "owner": "INAM with UK Met Office",
+   "tiers": ""
+  }
+ ],
+ "note": "The launch of an impact-based warning platform; the text never mentions satellite data."
+}

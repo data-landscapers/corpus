@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "unplaced",
-      "stream": "",
-      "warnings": "",
-      "certified": "",
+      "stage": "5",
+      "stream": "inservice",
+      "warnings": "issued",
+      "certified": "certified",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data.",
-      "note": "The only fact, of 2014, is older than three years. Nothing newer is held.",
-      "as_at": "2026-11-11"
+      "stage_sources": "EGY-002;EGY-003;EGY-004",
+      "gaps": "Nothing found shows how far satellite data shapes each warning.",
+      "note": "The authority's forecasting and early warning director says satellite images feed its forecasts and its early warning system (September 2026), and it renewed ISO 9001:2015 in 2025. Each step is met on its own evidence.",
+      "as_at": "2026-11-12"
     }
   ]
 }

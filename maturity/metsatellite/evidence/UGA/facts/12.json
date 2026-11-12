@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-08-uga-govt-rolls-out-flood-detection-app",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "underway",
+   "fact": "The Daily Monitor reports that the Ministry of Water and Environment's flood detection application, using Meteosat Third Generation rainfall estimates and satellite nowcasting with numerical weather models, is being piloted in Kampala and will later be scaled to other cities.",
+   "as_of": "2026-04-08",
+   "date_precision": "day",
+   "system": "Flood detection application",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Flood detection application",
+   "country_label": "Uganda",
+   "class": "metsat",
+   "platform": "browser-based; Meteosat Third Generation, nowcasting, NWP, SFINCS",
+   "owner": "Ministry of Water and Environment",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

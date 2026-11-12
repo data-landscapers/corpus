@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TGO-001,TGO,metsat,stream,underway,The African Union Commission's ClimSA deck lists Togo among 41 of 49 member states with a PUMA station installed as at 12 May 2026; the station carries satellite imagery.,2026-05-12,day,PUMA station,metsat,2026-05-12-xaf-auc-status-of-deployment-of-puma-and-climsa-infrastructure,https://www-cdn.eumetsat.int/files/2026-05/7-%20Infrastructure%20and%20Capacity%20Building_AUC_PDF.pdf
