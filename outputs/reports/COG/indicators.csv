@@ -342,13 +342,15 @@ gov.standards--national-interoperability-standards,Movement,"A general informati
 gov.discourse--non-governmental-contribution-to-national-policy,Movement,A national consultation [issued inclusive recommendations in February 2026](2026-02-20-aci-concertation-nationale-djambala-recommandations-inclusives).,"2026-02-20 — [the national consultation at Djambala issued recommendations described as inclusive](2026-02-20-aci-concertation-nationale-djambala-recommandations-inclusives).
 
 The ledger's other entries on this subject are a citizen election-monitoring report and a published assessment of internet development, both non-governmental. What is absent is any record of such contributions being taken up in a policy instrument.",COG-gov.discourse-citizen-election-monitoring-report|COG-gov.discourse-public-debate-data-governance,,,,,,,,,2026-08-31,0,civil-society reports only; no consultation on a digital instrument on record
-infra.store--off-site-backup-capacity,Movement,"The national data centre [was put at 82% complete in September 2026](2026-09-24-cog-aci-data-center-82-pourcent), a year after its contractor [threatened to abandon the site](2025-10-16-datacenter-national-sumec-menace-abandonner-chantier).","2025-09-13 — [the minister visited the national data centre, with state archives among the purposes named](2025-09-13-e2c-visite-ministre-data-center-archives).
+infra.store--off-site-backup-capacity,Movement,"The national data centre [was put at 82% complete in September 2026](2026-09-24-cog-aci-data-center-82-pourcent), a year after its contractor [threatened to abandon the site](2025-10-16-datacenter-national-sumec-menace-abandonner-chantier).","2022-02-11 - [bids were opened for the Brazzaville national data centre and for a secondary site at Oyo](2022-02-11-cog-congo-numerique-vers-la-construction-du-datacenter-national-principal), which the designer [describes as the backup site, about 300 km away](2023-02-03-cog-boosting-innovation-and-artificial-intelligence-in-the-republic-of-con).
 
-2025-10-16 — [the contractor threatened to abandon the works](2025-10-16-datacenter-national-sumec-menace-abandonner-chantier).
+2025-09-13 - [the minister visited the national data centre, with state archives among the purposes named](2025-09-13-e2c-visite-ministre-data-center-archives).
 
-2026-09-24 — [works were put at 82% at a ministerial inspection, with operation expected at the end of 2026 or early 2027](2026-09-24-cog-aci-data-center-82-pourcent).
+2025-10-16 - [the contractor threatened to abandon the works](2025-10-16-datacenter-national-sumec-menace-abandonner-chantier).
 
-No second site holding a copy of state data, and no recovery objective for any system, is recorded. The primary facility is itself unfinished, which is the more immediate finding.",COG-infra.store-data-centre|COG-infra.store-sovereign-data-centre,,,,,,,,,2026-08-31,0,operator's three sites asserted in passing; none stated as a backup or recovery site
+2026-09-24 - [works were put at 82% at a ministerial inspection, with operation expected at the end of 2026 or early 2027](2026-09-24-cog-aci-data-center-82-pourcent).
+
+No construction at Oyo has been found since 2023, and no recovery objective for any system is recorded.",COG-infra.store-data-centre|COG-infra.store-sovereign-data-centre|COG-infra.store-oyo-secondary-data-centre,,,,,,,,,2026-08-31,0,operator's three sites asserted in passing; none stated as a backup or recovery site
 infra.energy--sufficient-energy-and-water-for-data-centres,Movement,"A [12 MW solar farm at Kintélé is to back the national data centre](2026-09-24-cog-aci-data-center-82-pourcent), the digital minister saying [grid supply alone would deter clients](2026-09-24-cog-vox-vpm-inspecte-data-center-solaire).","2026-09-24 — [the vice-prime minister inspected the national data centre with the 12 MW Kintélé solar farm meant to back it](2026-09-24-cog-aci-data-center-82-pourcent), and [the digital minister said that relying on the national grid alone would risk deterring clients worried about the centre's resilience](2026-09-24-cog-vox-vpm-inspecte-data-center-solaire).
 
 2026-10-17 — [the regulator said operators' sites get grid power for only 10 hours a day](2026-10-17-cog-aci-arpce-livre-blanc-indicateurs-marche).
@@ -474,7 +476,11 @@ dpi.registry--land-register,Movement,"[Registration creates a land title inscrib
 
 2026-06-04 — [orders recognised customary lands at Oyo](2026-06-04-jo-2026-23-arretes-911-912-reconnaissance-terres-coutumieres-oyo), which brings land into the register that was previously outside it.
 
-No count of registered parcels or titles issued is published.",COG-dpi.registry-land-register,,,,,,,,,2026-08-31,0,Paper title register under the 2000 statute; no digitisation or cited paper-only statement
+No count of registered parcels or titles issued is published.
+
+2020-09-29 - [loi 52-2020 made the national cadastre the civil register of land and sole keeper of property information](2020-10-15-cog-loi-n-52-2020-du-29-septembre-2020-portant-institution-du-cadastre-nat).
+
+2022-05-25 - [an organic law allowed land titles to be issued electronically, through one-stop land offices](2022-07-14-cog-journal-officiel-de-la-republique-du-congo-n-28-loi-n-26-2022-du-25-ma).",COG-dpi.registry-land-register|COG-gov.legislate-loi-52-2020-cadastre-national-foncier|COG-gov.legislate-loi-organique-26-2022-land-registration,,,,,,,,,2026-08-31,0,Paper title register under the 2000 statute; no digitisation or cited paper-only statement
 dpi.mis--social-protection,Movement,"A ministerial working visit [gave the period's clearest beneficiary administration figures](2026-05-30-securite-prevoyance-sociales-ebouka-babackas-contact-collaborateurs), alongside [the project's tenth status report](2025-12-22-world-bank-isr-10-social-protection-youth-productive-inclusion-p174178).","2025-12-22 — [the tenth implementation status report was issued](2025-12-22-world-bank-isr-10-social-protection-youth-productive-inclusion-p174178).
 
 2026-05-30 — [a new minister's working visit across the social security, solidarity and health insurance bodies carried the period's clearest figures on beneficiary administration](2026-05-30-securite-prevoyance-sociales-ebouka-babackas-contact-collaborateurs).
