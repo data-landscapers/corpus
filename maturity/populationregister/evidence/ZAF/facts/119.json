@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-04-zaf-south-africa-s-home-affairs-taken-offline-by-mainframe-failure",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "A Home Affairs statement says a SITA mainframe fault affects access to the National Population Register, which Home Affairs services depend on.",
+   "as_of": "2024-01-04",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "IBM System Z mainframe",
+   "owner": "Department of Home Affairs; operated by SITA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

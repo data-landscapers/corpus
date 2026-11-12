@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-01-syc-dict-development-of-the-land-valuation-system-lvs",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The National Tender Board listing says the new Land Valuation System is to interface with the existing National Population Database (NPD), which implies it is in service.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "National Population Database (NPD)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Database (NPD)",
+   "country_label": "SYC",
+   "class": "population",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

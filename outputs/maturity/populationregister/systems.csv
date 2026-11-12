@@ -35,6 +35,7 @@ CIV,City Web,Côte d'Ivoire,other,,ONECI,,2024-07-16-civ-le-dg-de-l-oneci-echang
 CIV,RNPP,Côte d'Ivoire,population,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
 CIV,City Web,Côte d'Ivoire,other,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
 CIV,CNI / NNI,Côte d'Ivoire,other,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
+CIV,RNPP,Cote d'Ivoire,population,,ONECI,,2026-10-27-civ-cote-d-ivoire-le-logiciel-national-d-etat-civil-deploye-la-connectivit
 COD,registre de la population de Kinshasa,RD Congo (Kinshasa province),population,compilation server,"Ville-province de Kinshasa, provincial Interior Ministry",provincial,2025-11-04-radiookapi-debut-digitalisation-registre-population-kinshasa
 COD,Fichier general de la population (FGP),RDC,other,,ONIP,,2024-08-11-cod-acp-etat-civil-communication-onip-fgp
 COD,"Digital population register, commune of Kintambo (pilot)",DR Congo,population,,Commune de Kintambo,commune; Ville-Province de Kinshasa,2024-01-01-crs-2-2024009283-2024-projet-pilote-de-digitalisation-du-registre-de-la
@@ -106,6 +107,7 @@ NER,Registre National de la Population (RNP),Niger,population,,Ministry of the I
 RWA,National Population Registry,Rwanda,population,,,,2026-06-03-rwanda-integrated-civil-registration-system-launch
 SLE,national population registry,Sierra Leone,population,,NCRA,,2024-01-11-sle-sierra-leone-urges-citizens-to-obtain-biometric-id-cards-for-security
 SYC,National Population Database,Seychelles,population,,"Civil Status Division, Department of Immigration and Civil Status",,2026-01-01-ics-civil-status-division
+SYC,National Population Database (NPD),SYC,population,,,,2025-03-01-syc-dict-development-of-the-land-valuation-system-lvs
 TCD,registre national biométrique des populations,Chad,population,,ANATS,,2026-03-10-atpe-finances-anats-protocole-consultation-donnees
 TUN,Registre National Unifié de la Population,Tunisia,population,,INS / Ministry of the Interior,,2025-07-16-unfpa-atelier-registre-national-population
 TUN,Registre national des entreprises,Tunisia,other,,,,2026-08-15-tunisia-conseil-ministeriel-restreint-interoperabilite-tunisienumerique
@@ -140,6 +142,7 @@ ZAF,national population database,South Africa,population,,Department of Home Aff
 ZAF,National Population Register,South Africa,population,,Department of Home Affairs,,2025-12-01-zaf-home-affairs-tackles-duplicate-ids-with-new-digital-verification
 ZAF,National Population Register,South Africa,population,,Department of Home Affairs,,2025-11-05-zaf-question-nw4978-to-the-minister-of-home-affairs
 ZAF,Intelligent Population Register,South Africa,population,,Department of Home Affairs,,2026-02-23-zaf-home-affairs-eta-machine-learning-reforms
+ZAF,National Population Register,South Africa,population,IBM System Z mainframe,Department of Home Affairs; operated by SITA,,2024-01-04-zaf-south-africa-s-home-affairs-taken-offline-by-mainframe-failure
 ZWE,national population registry,Zimbabwe,population,,Registrar-General,,2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform
 ZWE,Zimbabwe Population Registry System (ZPRS),ZWE,population,,Civil Registry Department,,2023-11-12-zwe-herald-issuance-of-id-cards-going-on-smoothly-rg
 ZWE,Zimbabwe Population Registry System (ZPRS),Zimbabwe,population,,Civil Registry Department,,2024-06-16-zwe-passport-id-applications-go-online

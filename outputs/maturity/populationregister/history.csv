@@ -31,3 +31,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-10,CIV,dpi.registry--population-register,ladder,3,5,CIV-002,Restaged under message 114 (housekeeping 57): a held source shows births or deaths entered in the register; 3 to 5.
 2026-11-10,DZA,dpi.registry--population-register,ladder,3,5,DZA-004,Restaged under message 114 (housekeeping 57): a held source shows births or deaths entered in the register; 3 to 5.
 2026-11-10,TCD,dpi.registry--population-register,ladder,3,5,TCD-002,Restaged under message 114 (housekeeping 57): a held source shows births or deaths entered in the register; 3 to 5.
+2026-11-12,SYC,dpi.registry--population-register,fact,unplaced,3,SYC-002,A March 2025 tender has the Land Valuation System interface with the existing National Population Database: unplaced to 3.

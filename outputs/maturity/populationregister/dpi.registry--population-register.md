@@ -22,10 +22,10 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 |---|---|
 | 5 Leading | 9 |
 | 4 Operating | 0 |
-| 3 Established | 10 |
+| 3 Established | 11 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
-| Unplaced | 4 |
+| Unplaced | 3 |
 | No evidence | 25 |
 
 ## Countries
@@ -138,6 +138,12 @@ A population register was in service in 2026; no source found reports updating f
 
 - MINALOC says the new civil registration system is interoperable with the National Population Registry, which it names among the databases linked ([source, 2026-06-03](https://www.minaloc.gov.rw/news-detail/rwanda-launches-new-integrated-civil-registration-system)).
 
+### Seychelles: 3 Established
+
+A national population database was in service in 2025; no source found says births or deaths are entered in it.
+
+- The National Tender Board listing says the new Land Valuation System is to interface with the existing National Population Database (NPD), which implies it is in service ([source, 2025-03](https://www.ntb.sc/2-stage-tender/consultancy-2-stage/dict-development-of-the-land-valuation-system-lvs)).
+
 ### Sierra Leone: 3 Established
 
 A national population registry held ID card holders' details in 2024; whether births and deaths are entered in it is not known.
@@ -203,12 +209,6 @@ Nothing found since 2023 names a population register, so no stage is set.
 Not established: Nothing found since October 2023 says whether a population register is under way or in service.
 
 ### Egypt: Unplaced
-
-Nothing found since 2023 names a population register, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a population register is under way or in service.
-
-### Seychelles: Unplaced
 
 Nothing found since 2023 names a population register, so no stage is set.
 
