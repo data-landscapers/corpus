@@ -21,8 +21,8 @@ Article 15 of the AfCFTA Digital Trade Protocol and its Annex on Cross-Border Di
 | Stage | Countries |
 |---|---|
 | 5 Leading | 17 |
-| 4 Operating | 29 |
-| 3 Established | 7 |
+| 4 Operating | 30 |
+| 3 Established | 6 |
 | 2 Nascent | 0 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -366,6 +366,13 @@ Seychelles' 2014 payment system act and 2022 e-money regulations license issuers
 - The 2022 e-money regulations set capital (SCR 1,000,000 initial) and liquidity rules for electronic money issuers other than banks, and treat issuers that are banks, credit unions or other issuers as separate cases, so non-bank issuers operate under them ([source, 2022-12-12](https://www.gazette.sc/sites/default/files/2023-01/SI%20128%202022%20-%20National%20Payment%20System%20%28Electronic%20Money%29%20Regulations%2C%202022.pdf)).
 - The Central Bank of Seychelles made the National Payment System (Licensing and Authorisation) (Amendment) Regulations, 2025 (S.I. 99 of 2025) on 15 December 2025 under the National Payment System Act, 2014 (Act 14 of 2014), amending the 2014 licensing regulations; they take effect on the 30th day after Gazette publication ([source, 2025-12-15](https://www.gazette.sc/sites/default/files/2025-12/SI%2099%202025%20No%202%20-%20National%20Payment%20System%20%28Licensing%20and%20Authorisation%29%20%28Amendment%29%20Regulations%202025.pdf)).
 
+### Somalia: 4 Operating
+
+Somalia's 2020 mobile money regulations license mobile money providers; no rule making providers connect to each other is known.
+
+- The Central Bank of Somalia made the Mobile Money Regulations, Amended 2020 (CBS/NBS/REG/06), under the Central Bank of Somalia Act 2012, setting out licensing, conduct of business and supervision of mobile money service providers; the document is dated 2020 and states no end date ([source, 2020](https://centralbank.gov.so/wp-content/uploads/2025/06/Mobile-Money-Regulation-2020_amended_2021.pdf)).
+- African Business reports the Central Bank of Somalia moved to regulate mobile money providers in 2021, per the governor's interview ([source, 2021](https://www.african.business/2026/11/long-reads/meet-the-man-building-somalias-central-bank-from-the-ground-up)).
+
 ### South Africa: 4 Operating
 
 South Africa's 1998 payment system act is in force and non-banks are designated under it; no rule requiring providers to connect is known.
@@ -414,12 +421,6 @@ Lesotho's 2014 payment systems act is in force; a bill to replace it and license
 Liberia's central bank mobile money regulations were in force in 2024; no source found says whether they license companies that are not banks.
 
 - The Central Bank of Liberia's Mobile Money Regulations are described as the regulatory framework governing electronic money and mobile-money operators in Liberia, with more than 11 million mobile wallets operating; the document gives no date for the regulations, so its 2024 published date (a year-level proxy) is used ([source, 2024](https://www.cbl.org.lr/sites/default/files/documents/MobileMoneyRegulations.pdf)).
-
-### Somalia: 3 Established
-
-Somalia's 2020 mobile money regulations are in force, and both houses had passed a payment system bill by January 2026; its signing is not known.
-
-- The Central Bank of Somalia made the Mobile Money Regulations, Amended 2020 (CBS/NBS/REG/06), under the Central Bank of Somalia Act 2012, setting out licensing, conduct of business and supervision of mobile money service providers; the document is dated 2020 and states no end date ([source, 2020](https://centralbank.gov.so/wp-content/uploads/2025/06/Mobile-Money-Regulation-2020_amended_2021.pdf)).
 
 ### Tanzania: 3 Established
 
