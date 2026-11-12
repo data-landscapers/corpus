@@ -1,12 +1,12 @@
 ---
 title: Rwanda: status report
-compiled: 2026-11-10
+compiled: 2026-11-12
 place: RWA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 9
-sources_cited: 258
+sources_cited: 260
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -296,7 +296,7 @@ In 2021 [no identity-specific judicial oversight existed, and grievances ran thr
 
 [Kigali Innovation City, a 60-hectare technopark built as a public-private partnership, broke ground in September 2024](https://www.africa50.com/investing-for-growth/projects-investments/kigali-innovation-city/). [The EU funds Hanga Hubs in Muhanga, Nyagatare, Rubavu and Rusizi to 2026](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2021-PCC-420559). [JICA set up the 250STARTUPS incubation mechanism and three secondary-city hubs](https://www.jica.go.jp/oda/project/1700493/index.html), and [runs a follow-on project to 2026](https://www.jica.go.jp/oda/project/202005081/index.html). [The AIIB-financed acceleration project carries a digital innovation and entrepreneurship component](https://www.aiib.org/en/projects/details/2021/approved/Rwanda-Digital-Acceleration-Project-Digital-Investment-for-Recovery-Resilience-and-Connectivity.html).
 
-[The World Bank recorded in 2025 a public-sector innovation programme with an established institution behind it](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [eKash was developed domestically on an open-source architecture](https://www.wearetech.africa/en/fils-uk/news/tech/rwanda-launches-ekash-to-enable-nationwide-instant-interoperable-payments).
+[The World Bank recorded in 2025 a public-sector innovation programme with an established institution behind it](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [eKash was developed domestically on an open-source architecture](https://www.wearetech.africa/en/fils-uk/news/tech/rwanda-launches-ekash-to-enable-nationwide-instant-interoperable-payments). In June 2025 [the Startup Act, announced about five years earlier, had still not been tabled in Cabinet](https://www.newtimes.co.rw/article/26957/news/technology/how-far-are-we-from-having-a-startup-act).
 
 ## Capacity
 
@@ -338,7 +338,7 @@ In 2021 [no identity-specific judicial oversight existed, and grievances ran thr
 
 [Equal access to public services scored 27.3 of 100 in the 2024 Ibrahim Index, 41st of 54 (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-rw.pdf). [Equal socioeconomic opportunity scored 20.4, 47th, down 10.2 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-rw.pdf). [Enrolment in Mutuelle de Santé, the community health insurance scheme, fell to 51% in August 2026 from 63% a year earlier](https://www.newtimes.co.rw/article/37878/news/rwanda/360000-claimsin-new-social-registryhandled-since-2024).
 
-[In 2020 the ID card was required to open a bank account, join community health insurance and register for social protection](https://documents1.worldbank.org/curated/en/279741611941779893/pdf/People-s-Perspectives-on-ID-and-Civil-Registration-in-Rwanda-Research-Report.pdf). [It was not issued free of charge](https://documents1.worldbank.org/curated/en/279741611941779893/pdf/People-s-Perspectives-on-ID-and-Civil-Registration-in-Rwanda-Research-Report.pdf). [The digital ID covers residents, refugees, asylum seekers, migrants and stateless people](https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees). [Enrolment reached the roughly 70,000 residents of Mahama refugee camp in June 2026](https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees). [The immigration authority ran a registration drive for foreigners and refugees in Kigali on 7–15 February 2026](https://www.newtimes.co.rw/article/33209/news/technology/where-can-refugees-foreigners-register-for-digital-id).
+[In 2020 the ID card was required to open a bank account, join community health insurance and register for social protection](https://documents1.worldbank.org/curated/en/279741611941779893/pdf/People-s-Perspectives-on-ID-and-Civil-Registration-in-Rwanda-Research-Report.pdf). [It was not issued free of charge](https://documents1.worldbank.org/curated/en/279741611941779893/pdf/People-s-Perspectives-on-ID-and-Civil-Registration-in-Rwanda-Research-Report.pdf). [The digital ID covers residents, refugees, asylum seekers, migrants and stateless people](https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees). [Enrolment reached the roughly 70,000 residents of Mahama refugee camp in June 2026](https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees). The same month the government reported [93% of eligible refugees holding refugee identity cards](https://www.minema.gov.rw/news-detail/rwanda-reaffirms-commitment-to-refugee-inclusion-and-durable-solutions-during-grf-progress-review-meeting). [The immigration authority ran a registration drive for foreigners and refugees in Kigali on 7–15 February 2026](https://www.newtimes.co.rw/article/33209/news/technology/where-can-refugees-foreigners-register-for-digital-id).
 
 [In July 2026 MINICT published USSD codes letting any subscriber check whether a SIM is 4G-capable](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027). [eKash runs over existing USSD, app and internet-banking channels, with no new app needed](https://www.wearetech.africa/en/fils-uk/news/tech/rwanda-launches-ekash-to-enable-nationwide-instant-interoperable-payments). [Field agents transact for citizens who cannot use the service platform (2026)](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy). [More than nine in ten adults are financially included, the central bank's deputy governor said](https://itweb.africa/article/rwanda-strengthens-african-fintech-hub-role/kYbe9MXba5bvAWpG). [Formal banking access remains one of the country's weakest measures (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-rw.pdf).
 
