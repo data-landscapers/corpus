@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-11-10
+compiled: 2026-11-12
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 192
+sources_cited: 196
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -132,7 +132,7 @@ Namibia's digital-sector financing from 2016 to 2026 runs to 38 commitments, wor
 ### Data Storage
 <!-- infra.store -->
 
-[There is no shared cloud platform available to all government entities, no policy on where government cloud data may be hosted, and no monitoring of government cloud usage, security or savings (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The country's single Tier 3 facility is privately operated](https://mict.gov.na/documents/869282/6089169/MICT_2025_2026_Budget_Speech+Full+Version.pdf) (2025). [The nearest hyperscale regions are Amazon Web Services' Cape Town region and Microsoft Azure's South Africa North and West (2025)](https://learn.microsoft.com/en-us/azure/reliability/regions-list). [Namibia sets no data localisation requirement and does not regulate cross-border personal data flows](https://www.uneca.org/sites/default/files/ATPC/cp/Digital%20trade%20regulatory%20integration%20-%20Country%20profile%20-%20Namibia-%20ENG.pdf) (2026). [In 2015 the Office of the Prime Minister's IT department ran a unified government data centre and a disaster recovery centre](https://neweralive.na/e-government-project-reform-initiative/). [In 2013 the central bank built its own off-site recovery site at Prosperita to keep settlement running after a disaster](https://economist.com.na/central-bank-s-back-up-plans-for-continuity-after-disaster/).
+[There is no shared cloud platform available to all government entities, no policy on where government cloud data may be hosted, and no monitoring of government cloud usage, security or savings (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The country's single Tier 3 facility is privately operated](https://mict.gov.na/documents/869282/6089169/MICT_2025_2026_Budget_Speech+Full+Version.pdf) (2025). [The nearest hyperscale regions are Amazon Web Services' Cape Town region and Microsoft Azure's South Africa North and West (2025)](https://learn.microsoft.com/en-us/azure/reliability/regions-list). [Namibia sets no data localisation requirement and does not regulate cross-border personal data flows](https://www.uneca.org/sites/default/files/ATPC/cp/Digital%20trade%20regulatory%20integration%20-%20Country%20profile%20-%20Namibia-%20ENG.pdf) (2026). [In 2015 the Office of the Prime Minister's IT department ran a unified government data centre and a disaster recovery centre](https://neweralive.na/e-government-project-reform-initiative/). In August 2023 [the government had no fully operational data centre of its own](https://neweralive.na/bots-data-centre-impresses-mushelenga/). For 2024/25 the Auditor-General [found no approved IT disaster recovery plan at the transport department](https://observer24.com.na/transport-department-lacks-it-disaster-recovery-plan/). [In 2013 the central bank built its own off-site recovery site at Prosperita to keep settlement running after a disaster](https://economist.com.na/central-bank-s-back-up-plans-for-continuity-after-disaster/).
 
 [Paratus's Armada data centre outside Windhoek has operated since September 2022, with multi-carrier connectivity including the Equiano submarine cable and Trans-Kalahari fibre](https://armada.paratus.africa/). [Its co-location space, with room for 104 client organisations, was 62% occupied in the year to June 2025](https://paratus.africa/docs/Paratus-Annual-Report-2025-online.pdf).
 
@@ -244,7 +244,7 @@ Of the 32 core public sector digital capabilities the GovTech Maturity Index che
 ### Digitalisation of sub-national government
 <!-- digital.localgov -->
 
-[In September 2025 Cabinet directed that a legal framework be developed for a Windhoek smart city, working with the Ministry of Urban and Rural Development](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO). [The Windhoek People-Centred Smart City Strategy runs from 2026 to 2036](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m).
+[In September 2025 Cabinet directed that a legal framework be developed for a Windhoek smart city, working with the Ministry of Urban and Rural Development](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO). [The Windhoek People-Centred Smart City Strategy runs from 2026 to 2036](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m). In July 2023 the urban and rural development ministry [found the financial systems at most local authorities obsolete](https://murd.gov.na/documents/1179298/2274798/MURD+Strategic+Plan+%28Extended%29+2023-2025+-+July+2023.pdf/2d3fdd76-c431-463e-9d24-302c2ca01eab?t=1697102344828). In July 2025 the City of Windhoek [confirmed billing faults on 387 accounts](https://www.namibiansun.com/social-issues/387-accounts-affected-by-billing-faults-city-admits2025-07-09162710).
 
 [On 4 August 2026 Rodney Cloete of the Independent Patriots for Change argued against accepting a Chinese smart-city grant without enforceable safeguards](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/). [He is the party's shadow minister of international relations and trade](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/). [He put the grant at N$245 million and noted that no data-protection statute is in force to bind a foreign supplier](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/) (2026).
 
