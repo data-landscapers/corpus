@@ -1,0 +1,62 @@
+{
+ "slug": "2026-07-01-zwe-zimbabwe-geoportal",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The Zimbabwe Geoportal lists a ZimSTATS dataset described as an extract from the 2023 National Census findings for district populations.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "2023 National Census",
+       "class": "census"
+      },
+      {
+       "sub_indicator": "census",
+       "aspect": "results",
+       "value": "final",
+       "fact": "The Zimbabwe Geoportal lists a ZimSTATS dataset, 2023 Adm2 (District) Population by Age Group, an extract from the 2023 National Census findings, dated 28 January 2026.",
+       "as_of": "2026-01-28",
+       "date_precision": "day",
+       "system": "2023 National Census",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "2023 National Census",
+       "country_label": "Census 2023",
+       "class": "census",
+       "platform": "",
+       "owner": "ZimSTATS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a municipal cadastral layer dataset for Marondera is listed; no land register system stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states no local government office connection."
+    }
+   }
+  }
+ }
+}

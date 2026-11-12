@@ -1,0 +1,17 @@
+{"slug": "2025-12-03-uga-issuance-of-licences-under-the-national-payment-systems-act-cap-59-pub", "studies": {
+"businesspayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "Bank of Uganda's public notice says it has licensed 54 payment system operators, payment service providers and issuers of payment instruments since March 2021 under the National Payment Systems Act, Cap 59.", "as_of": "2025-12-03", "date_precision": "day", "system": "National Payment Systems Act, Cap 59", "class": "oversight"}
+], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states nothing on cross-border corridors."}}},
+"g2ppayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"localgov": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states nothing on local government connection."}}},
+"paymentslaw": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Bank of Uganda says it licenses under the National Payment Systems Act, Cap 59 and the National Payment Systems Regulations, 2021, and that offering a payment service without a licence is an offence.", "as_of": "2025-12-03", "date_precision": "day", "system": "National Payment Systems Act, Cap 59", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Bank of Uganda lists licensees under the Act that are not banks, including Airtel Mobile Commerce Uganda and MTN Mobile Money Uganda as large electronic money issuers.", "as_of": "2025-12-03", "date_precision": "day", "system": "National Payment Systems Act, Cap 59", "class": "law"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey figure."}}},
+"retailpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document lists licences but does not say a service is in service."}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}}
+}}

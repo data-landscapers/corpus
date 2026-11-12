@@ -1,0 +1,14 @@
+{"slug": "2025-07-21-egy-world-bank-findex-43-of-egyptian-adults-hold-a-formal-account", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on central bank role."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"internetusage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The 55% internet figure is for adults only, which the study does not stage."}}},
+"mobilepenetration": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The 85% phone figure comes from the adult-based Global Findex; adults-only figures are not staged."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "uptake", "aspect": "share", "value": "quarter", "fact": "Al Borsa News, relaying the World Bank's Global Findex 2025, says 43% of Egyptian adults hold a formal financial account.", "as_of": "2024", "date_precision": "year", "system": "Global Findex 2025", "class": "survey"}
+], "systems": [{"system": "Global Findex 2025", "country_label": "Egypt", "class": "survey", "platform": "", "owner": "World Bank", "tiers": ""}], "note": "36% made or received digital payments, below the 79% line."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document names no mobile money or e-money service."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}}
+}}

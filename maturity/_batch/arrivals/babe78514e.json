@@ -1,14 +1,1 @@
-{
- "slug": "2026-10-02-moz-oam-destaca-importancia-dos-portais-de-legislacao-e-jurisprudencia-par",
- "studies": {
-  "businesspayments": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "Legal portals only; no e-procurement stated."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-10-02-moz-oam-destaca-importancia-dos-portais-de-legislacao-e-jurisprudencia-par", "studies": {"justice": {"countries": {"MOZ": {"facts": [{"sub_indicator": "justice", "aspect": "public", "value": "open", "fact": "The Mozambican Bar Association says the Supreme Court launched a Portal de Jurisprudencia that gives structured online access to decisions produced by the judicial courts.", "as_of": "2026-10-02", "date_precision": "day", "system": "Portal de Jurisprudencia dos Tribunais Judiciais", "class": "justice"}], "systems": [{"system": "Portal de Jurisprudencia dos Tribunais Judiciais", "country_label": "Portal de Jurisprudencia", "class": "justice", "platform": "", "owner": "Tribunal Supremo", "tiers": ""}, {"system": "Portal de Legislacao", "country_label": "Portal de Legislacao", "class": "other", "platform": "", "owner": "Tribunal Supremo", "tiers": ""}], "note": ""}}}, "businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Legal portals only; no e-procurement stated."}}}}}

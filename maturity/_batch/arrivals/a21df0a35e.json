@@ -1,3 +1,1 @@
-{"slug": "2026-11-04-eri-integrating-skills-for-digitalized-future-to-improve-healthcare-servic", "studies": {
-"qualitystandards": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Nothing on a national standards body, an IT standard or certification."}}}
-}}
+{"slug": "2026-11-04-eri-integrating-skills-for-digitalized-future-to-improve-healthcare-servic", "studies": {"healthmis": {"countries": {"ERI": {"facts": [], "systems": [{"system": "ENLM offline Android app", "country_label": "Eritrea", "class": "other", "platform": "Android app", "owner": "Ministry of Health", "tiers": ""}], "note": "The app is a medicines-list reference tool, not facility reporting to the ministry."}}}, "qualitystandards": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Nothing on a national standards body, an IT standard or certification."}}}}}

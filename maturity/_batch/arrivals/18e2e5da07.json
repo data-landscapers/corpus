@@ -1,0 +1,79 @@
+{
+ "slug": "2026-05-07-mrt-crise-en-mauritanie-comment-nouakchott-verrouille-la-dissidence-a-l-er",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "AfriqueITNews reports a court on 4 May 2026 sentenced two opposition MPs, Mariem Cheikh Dieng and Ghamou Achour, to four years in prison for social media videos denouncing 'apartheid', and ordered their accounts closed; a lawyer was also arrested after a Facebook Live.",
+       "as_of": "2026-05-04",
+       "date_precision": "day",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Cybercrime brigade arrest named, but no law or offence named; nothing for this study."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "APDP",
+       "country_label": "Mauritania",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "A journalist filed a complaint with the APDP; no appointment, ruling or figures stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law fact stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on station records."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on school internet."
+    }
+   }
+  }
+ }
+}

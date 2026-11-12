@@ -1,0 +1,7 @@
+{"slug": "2026-10-23-syc-ai-in-education-takes-centre-stage-at-national-workshop", "studies": {
+"aiabuse": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on AI rules or authority."}}},
+"aigovernment": {"countries": {"SYC": {"facts": [], "systems": [], "note": "A workshop only; no government AI system stated."}}},
+"aisectoral": {"countries": {"SYC": {"facts": [], "systems": [], "note": "A workshop only; no AI tool in an education system stated."}}},
+"aisystems": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No AI built at home stated."}}},
+"policyresearch": {"countries": {"SYC": {"facts": [{"sub_indicator": "research", "aspect": "research", "value": "begun", "fact": "Seychelles Nation reports that the Education and Socio-economic Research Institute (ESRI) of the University of Seychelles hosted a one-day workshop on 22 October 2026 on the role of AI in educational policy, with Ministry of Education policymakers and teachers.", "as_of": "2026-10-22", "date_precision": "day", "system": "ESRI, University of Seychelles", "class": "research"}], "systems": [], "note": "Article is paywalled after the lede."}}}
+}}

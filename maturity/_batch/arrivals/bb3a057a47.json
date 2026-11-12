@@ -1,0 +1,11 @@
+{"slug":"2026-05-04-lso-order-paper-for-monday-04th-may-2026","studies":{
+"businesspayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"centralbank":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"consumerprotection":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"crossborderpayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"g2ppayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"paymentslaw":{"countries":{"LSO":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"draft","fact":"The Lesotho National Assembly order paper for 4 May 2026 lists the Payment Systems Bill, 2025 for adoption of the committee report (tabled 21 August 2025) and second and third readings.","as_of":"2026-05-04","date_precision":"day","system":"Payment Systems Bill, 2025","class":"law"}],"systems":[],"note":"An order paper lists scheduled business and does not record that the readings took place."}}},
+"paymentsuptake":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"retailpayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"revenuecollection":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Not addressed."}}}
+}}

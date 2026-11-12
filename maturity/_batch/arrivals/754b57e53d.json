@@ -1,0 +1,100 @@
+{
+ "slug": "2024-10-01-tcd-unesco-sdg-16-10-2-access-to-information-survey-2023-chad",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Chad's reply to UNESCO's 2023 SDG 16.10.2 survey names Ordonnance 16/PR/2018 and Law 10-017 on the press regime as primary legislation guaranteeing access to information.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Ordonnance 16/PR/2018",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "rules",
+       "fact": "The survey reply says the law provides a dedicated national oversight body, a converged data protection and access to information body, which in 2022 published an annual report, gave guidance and training, and raised awareness.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Converged oversight body (ONAMA)",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Converged oversight body (ONAMA)",
+       "country_label": "ONAMA",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The survey reply says a national converged body combining data protection and access to information oversight exists, its head appointed by a college of executive, judiciary, legislature and journalists, and it was active in 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Converged oversight body (ONAMA)",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey marks any open government or open data strategy as N/A; no policy stated."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

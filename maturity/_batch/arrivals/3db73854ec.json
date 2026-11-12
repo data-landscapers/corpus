@@ -1,0 +1,99 @@
+{
+ "slug": "2025-03-01-som-open-data-archives-bareedo-platform-somalia",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only Puntland census data publication mentioned; subnational, no national census stated."
+    }
+   }
+  },
+  "ictjobs": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No ICT employment or graduate unemployment figure stated."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "data.gov.so",
+       "country_label": "data.gov.so",
+       "class": "open",
+       "platform": "",
+       "owner": "Somalia Open Government Initiative",
+       "tiers": "federal"
+      }
+     ],
+     "note": "Names the 2018 Somalia Open Government Initiative and data.gov.so but no adopted open data policy."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "Bareedo Platform reports that the Federal Ministry of Finance and Puntland's Ministry of Finance publicly released income and expenditure reports, driven by World Bank-supported financial reforms.",
+       "as_of": "2025-03-05",
+       "date_precision": "day",
+       "system": "Ministry of Finance income and expenditure reports",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "data.gov.so",
+       "country_label": "data.gov.so",
+       "class": "open",
+       "platform": "",
+       "owner": "Somalia Open Government Initiative",
+       "tiers": "federal"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "begun",
+       "fact": "Bareedo Platform, a Somali civil-society and think-tank organisation, hosted the Somalia Open Data Day conference in Garowe on 5 March 2025 where its researcher presented a study of the open data landscape.",
+       "as_of": "2025-03-05",
+       "date_precision": "day",
+       "system": "Bareedo Platform Somalia",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Open-data conference names no digital law or policy put to outside participants."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "2026-03-01-bdi-enabling-environment-snapshot-burundi-march-2026",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "The Hivos-led Eu SEE snapshot says journalist Sandra Muhoza received a four-year prison sentence on 14 January 2026 after arrest for 'undermining national territorial integrity' and 'inciting racial hatred' over information shared in a private press group, and was paroled on 4 March 2026.",
+       "as_of": "2026-01-14",
+       "date_precision": "day",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Eu SEE snapshot says Burundi's 2022 Cybercrime Act criminalises dissemination of 'false' or 'harmful' information.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Cybercrime Act 2022",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cybercrime Act 2022",
+       "country_label": "Burundi",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Says only that data protection mechanisms are weak; no law, authority or application stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The 11.1% figure is DataReportal's, which the study notes and never uses."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,8 @@
+{"slug": "2025-01-01-gmb-the-gambia-freedom-on-the-net-2025-country-report", "studies": {
+"aisystems": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on AI built at home."}}},
+"opendiscussion": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Freedom House says an opposition member was arrested and charged with sedition in June 2024 over a WhatsApp audio message that allegedly said President Barrow knows nothing.", "as_of": "2024-06", "date_precision": "month", "system": "Sedition charge over WhatsApp audio", "class": "discussion"},
+{"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "Freedom House says the Gambia Press Union described the false-publication and broadcasting provisions of the Criminal Offences Bill, passed by the National Assembly in March 2025, as potentially harmful to journalists and media workers.", "as_of": "2025", "date_precision": "year", "system": "Criminal Offences Bill", "class": "discussion"}
+], "systems": [], "note": "Index scores place nothing; the Criminal Offences Act's false-publication offence is a law with no charge reported under it."}}},
+"policyresearch": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No local research institution on digital policy named."}}}
+}}

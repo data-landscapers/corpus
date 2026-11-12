@@ -1,0 +1,146 @@
+{
+ "slug": "2026-05-13-swz-deltapay-secures-full-mobile-money-licence",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Eswatini that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "Eswatini Observer reports that DeltaPay has secured a full Mobile Money Service Provider licence from the Central Bank of Eswatini.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "DeltaPay",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DeltaPay",
+       "country_label": "Eswatini",
+       "class": "oversight",
+       "platform": "mobile money",
+       "owner": "DeltaPay",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Eswatini that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Eswatini that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Eswatini that answers this study."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Eswatini that answers this study."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "non-bank",
+       "fact": "Eswatini Observer reports that DeltaPay has secured a full Mobile Money Service Provider licence from the Central Bank of Eswatini.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "DeltaPay",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Eswatini that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Eswatini Observer reports that DeltaPay, a licensed mobile money provider, offers 0.4% cashback on purchases at participating merchants, and its users pay digitally.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "DeltaPay",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DeltaPay",
+       "country_label": "Eswatini",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "DeltaPay",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Eswatini that answers this study."
+    }
+   }
+  }
+ }
+}

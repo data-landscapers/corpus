@@ -1,0 +1,63 @@
+{
+ "slug": "2024-04-10-zaf-cpj-welcomes-south-africa-s-abolition-of-criminal-defamation-calls-for",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "repealed",
+       "fact": "CPJ reports President Ramaphosa signed the Judicial Matters Amendment Act on 3 April 2024, repealing the common-law crime of defamation, which Parliament voted for on 6 December 2023.",
+       "as_of": "2024-04-03",
+       "date_precision": "day",
+       "system": "Judicial Matters Amendment Act (2023)",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "CPJ names South Africa's Cybercrimes Act as a law that remains, lacking a public-interest override for journalists.",
+       "as_of": "2024-04-10",
+       "date_precision": "day",
+       "system": "Cybercrimes Act",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cybercrimes Act",
+       "country_label": "South Africa",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Names the Protection of Personal Information Act only as a law affecting media; states nothing on its standing, authority or application."
+    }
+   }
+  }
+ }
+}

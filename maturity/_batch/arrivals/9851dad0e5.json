@@ -1,3 +1,1 @@
-{"slug": "2026-10-26-lbr-impact-base-forecast", "studies": {
-"metsatellite": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Impact-based forecasts are issued but the page does not mention satellite data."}}}
-}}
+{"slug": "2026-10-26-lbr-impact-base-forecast", "studies": {"agrisatellite": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Impact-based weather forecast; no satellite data use stated."}}}, "metsatellite": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Impact-based forecasts are issued but the page does not mention satellite data."}}}}}

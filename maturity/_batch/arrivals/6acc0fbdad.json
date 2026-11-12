@@ -1,0 +1,94 @@
+{
+ "slug": "2025-04-30-mwi-when-truth-becomes-a-target",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "WAN-IFRA op-ed by Sellina Nyankowani Kainja says Malawi has an Access to Information Act overseen by the Malawi Human Rights Commission.",
+       "as_of": "2025-04-30",
+       "date_precision": "day",
+       "system": "Access to Information Act",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "rules",
+       "fact": "The op-ed says the Malawi Human Rights Commission oversees the Access to Information Act but received no funding for its activities in the 2022-2023 national budget.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Malawi Human Rights Commission",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The op-ed says the Electronic Transactions and Cyber Security Act of 2016 is in use against journalists and criminalises publishing 'offensive' content online.",
+       "as_of": "2016",
+       "date_precision": "year",
+       "system": "Electronic Transactions and Cyber Security Act 2016",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The 2016 Act is described only as restricting online speech; no source statement on e-transactions or online selling."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "The op-ed says Malawi24 journalist Macmillan Mhone was arrested in April 2024 and charged with extortion and causing public alarm after publishing an article accusing a businessman of corruption.",
+       "as_of": "2024-04",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      },
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "The op-ed says investigative journalist Gregory Gondwe was detained in April 2022 after reporting on government dealings with a businessman, and his equipment was confiscated.",
+       "as_of": "2022-04",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

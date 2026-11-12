@@ -1,0 +1,10 @@
+{"slug": "2026-06-05-zwe-zim-committed-to-modernising-data-collection", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "ZIMSTAT is said only to adopt emerging technologies such as AI, with no system named."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No locally built AI stated."}}},
+"internationalstandards": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "SDMX is a statistical data standard and a system built to a standard; no ISO or IEC adoption or membership stated."}}},
+"localgov": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A localised SDG data collection system is rolled out through local authorities; no office connection is stated."}}},
+"opendatapolicy": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No open data policy mentioned; the ZIMSTAT portal is a statistics office portal."}}},
+"opendatause": {"countries": {"ZWE": {"facts": [{"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The Herald reports that ZIMSTAT's open data portal disseminates key socio-economic indicators including GDP, inflation and trade statistics, and that ZIMSTAT is migrating official statistics to a single Open Data Portal expected to launch in 2026.", "as_of": "2026-06-05", "date_precision": "day", "system": "ZIMSTAT Open Data Portal", "class": "open"}], "systems": [{"system": "ZIMSTAT Open Data Portal", "country_label": "ZIMSTAT Open Data Portal", "class": "open", "platform": "", "owner": "ZIMSTAT", "tiers": ""}, {"system": "OpenSDG Platform", "country_label": "OpenSDG", "class": "other", "platform": "OpenSDG", "owner": "ZIMSTAT", "tiers": ""}], "note": "No open licence stated; publishing bodies other than ZIMSTAT not named."}}}
+}}

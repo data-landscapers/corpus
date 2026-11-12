@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-01-sdn-customs-launches-electronic-container-tracking-system-at-southern-port",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic container tracking system",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "GPS/SIM",
+   "owner": "Sudan Customs Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "GPS container tracking is not a declaration-clearance system."
+}

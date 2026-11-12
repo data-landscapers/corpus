@@ -1,0 +1,61 @@
+{
+ "slug": "2026-07-14-caf-icasees-atelier-national-de-mise-a-jour-des-indicateurs-odin-et-d-actu",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Names RGPH-4 officials only; no mapping, date, enumeration or results stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop report is about open statistics, not local government connection."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "States no open data policy, only ODIN preparation."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "ICASEES states it has built the national open data portal ODP-RCA, administered by a named focal point, and is updating its dashboards and datasets, per its 14 July 2026 workshop report.",
+       "as_of": "2026-07-14",
+       "date_precision": "day",
+       "system": "Portail National Open Data (ODP-RCA)",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portail National Open Data (ODP-RCA)",
+       "country_label": "ODP-RCA",
+       "class": "open",
+       "platform": "",
+       "owner": "ICASEES",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

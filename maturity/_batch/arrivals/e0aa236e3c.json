@@ -1,0 +1,9 @@
+{"slug": "2026-01-01-egy-egypt-freedom-on-the-net-2026-country-report", "studies": {
+"gridreliability": {"countries": {"EGY": {"facts": [], "systems": [], "note": "States only that load shedding was not repeated; no outage count."}}},
+"internetusage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No share of people using the internet is stated."}}},
+"mobileaffordability": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Reports a 15% price rise on internet packages but gives no price."}}},
+"opendiscussion": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Freedom House says Egyptian authorities blocked communications platforms in the coverage period as part of a crackdown on online mobilisation.", "as_of": "2026", "date_precision": "year", "system": "Freedom on the Net 2026", "class": "discussion"},
+{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Freedom House says Egyptian authorities arrested people for joining political groups organised on social media, citing Amnesty International's July 2026 call to release dozens detained over a Gen Z online group.", "as_of": "2026-07", "date_precision": "month", "system": "Freedom on the Net 2026", "class": "discussion"}
+], "systems": [], "note": ""}}}
+}}

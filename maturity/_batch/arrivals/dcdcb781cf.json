@@ -1,0 +1,97 @@
+{
+ "slug": "2025-10-17-moz-intic-challenges-national-universities-to-lead-public-policy-on-artifi",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "INTIC offers regulatory sandboxes and cites UNESCO principles; no rule is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "INTIC's chairman said on 14 October 2025 that Mozambique, with UNESCO and UNDP, has begun drafting the National Artificial Intelligence Strategy.",
+       "as_of": "2025-10-14",
+       "date_precision": "day",
+       "system": "National Artificial Intelligence Strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Artificial Intelligence Strategy",
+       "country_label": "Mozambique National AI Strategy",
+       "class": "strategy",
+       "platform": "",
+       "owner": "INTIC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "National data centres are mentioned only as important; none is stated in service."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "INTIC's chairman speaks of data centres for sovereignty; no plan or rule on state data is stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "National data centres are mentioned only as important; none is stated in service."
+    }
+   }
+  }
+ }
+}

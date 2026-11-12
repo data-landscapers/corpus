@@ -1,0 +1,50 @@
+{
+ "slug": "2026-10-08-caf-un-centre-de-donnees-criminelles-pour-renforcer-la-lutte-contre-la-cri",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Criminal data centre serves only the security forces; not for hire."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No court case management system named."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Criminal data centre serves only the security forces; not for hire."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "criminal data processing centre",
+       "country_label": "CAF",
+       "class": "identification",
+       "platform": "",
+       "owner": "Ministry of Interior, funded by MINUSCA and UNODC",
+       "tiers": ""
+      }
+     ],
+     "note": "Criminal data centre is identification, noted not assessed; no station-level record stated."
+    }
+   }
+  }
+ }
+}

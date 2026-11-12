@@ -1,0 +1,77 @@
+{
+ "slug": "2025-12-05-rwa-a-look-into-the-development-of-university-of-rwanda-s-ai-strategy-deve",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI harm rule or authority is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI system is described."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Working groups on health, agriculture and environment are discussed; no AI tool is stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "RISA presented national AI guidelines with five pillars, but the document gives no adoption, body or funding; the AI policy being drafted is the university's own."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing is stated."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "NCSA is named only as a workshop participant; its creation or work is not stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on government technical staff."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The workshop is a university policy workshop of officials and university staff, on no named national law or policy put to outsiders."
+    }
+   }
+  }
+ }
+}

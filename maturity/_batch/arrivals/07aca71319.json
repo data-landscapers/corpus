@@ -1,0 +1,17 @@
+{"slug": "2025-06-17-mli-mali-s-military-government-outlaws-political-parties-and-suppresses-pu", "studies": {
+"businesspayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on central bank role."}}},
+"consumerprotection": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"localgov": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on local government connection."}}},
+"opendiscussion": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "CIVICUS Monitor reports that civil society leader Aliou Badra Sacko's Front Touche pas a mon argent was meeting to counter the newly introduced mobile money and telecommunications taxes when he was abducted.", "as_of": "2025-03-14", "date_precision": "day", "system": "Front Touche pas a mon argent", "class": "discussion"},
+{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "CIVICUS Monitor reports opposition leader Mamadou Traore was arrested by law enforcement after the Cybercrime Unit alleged false information over an online interview criticising the junta-appointed council.", "as_of": "2025-04-24", "date_precision": "day", "system": "Cybercrime Unit", "class": "discussion"},
+{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "CIVICUS Monitor reports the Cybercrime Court sentenced Imam Sekou Sidibe to two years in prison and a 1.5 million FCFA fine over a viral sermon criticising army leadership.", "as_of": "2025-04-03", "date_precision": "day", "system": "Cybercrime Court", "class": "discussion"},
+{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "CIVICUS Monitor reports the High Authority for Communication suspended and withdrew TV5-Monde from distributors' packages for its coverage of the suspension of political parties.", "as_of": "2025-05-09", "date_precision": "day", "system": "High Authority for Communication", "class": "discussion"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey figure."}}},
+"retailpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document mentions only a mobile money tax, not a service in service."}}},
+"revenuecollection": {"countries": {"MLI": {"facts": [], "systems": [], "note": "A tax on mobile money is not electronic payment of taxes."}}}
+}}

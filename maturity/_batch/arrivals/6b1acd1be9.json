@@ -1,3 +1,1 @@
-{"slug": "2025-10-07-dji-djibouti-successfully-issues-first-common-alerting-protocol-cap-warnin", "studies": {
-"metsatellite": {"countries": {"DJI": {"facts": [], "systems": [], "note": "A CAP warning on rainfall; no satellite data stated."}}}
-}}
+{"slug": "2025-10-07-dji-djibouti-successfully-issues-first-common-alerting-protocol-cap-warnin", "studies": {"agrisatellite": {"countries": {"DJI": {"facts": [], "systems": [], "note": "CAP weather warning; no satellite use in farming stated."}}}, "metsatellite": {"countries": {"DJI": {"facts": [], "systems": [], "note": "A CAP warning on rainfall; no satellite data stated."}}}}}

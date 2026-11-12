@@ -1,0 +1,56 @@
+{"slug":"2025-05-27-sen-bceao-licenses-nine-fintechs-for-digital-payments-in-waemu","studies":{
+"businesspayments":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"No procurement content."},
+"CIV":{"facts":[],"systems":[],"note":"No procurement content."},
+"MLI":{"facts":[],"systems":[],"note":"No procurement content."},
+"NER":{"facts":[],"systems":[],"note":"No procurement content."},
+"SEN":{"facts":[],"systems":[],"note":"No procurement content."}}},
+"centralbank":{"countries":{
+"BFA":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"The BCEAO approved InTouch as a payment institution in Burkina Faso, per Ecofin Agency.","as_of":"2025-05","date_precision":"month","system":"BCEAO Instruction 001-01-2024","class":"oversight"}],"systems":[],"note":""},
+"CIV":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"The BCEAO approved SycaPay, Firstcom Global Payments, Julaya and InTouch as payment institutions in Cote d'Ivoire, per Ecofin Agency.","as_of":"2025-05","date_precision":"month","system":"BCEAO Instruction 001-01-2024","class":"oversight"}],"systems":[],"note":""},
+"MLI":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"The BCEAO approved InTouch as a payment institution in Mali, per Ecofin Agency.","as_of":"2025-05","date_precision":"month","system":"BCEAO Instruction 001-01-2024","class":"oversight"}],"systems":[],"note":""},
+"NER":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"i-FUTURE announced on 19 May 2025 that it had received its BCEAO payment institution licence in Niger.","as_of":"2025-05-19","date_precision":"day","system":"BCEAO Instruction 001-01-2024","class":"oversight"}],"systems":[],"note":""},
+"SEN":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"The BCEAO authorised five providers in Senegal: PayDunya and Bictorys as payment institutions, Mikaty and Flutterwave Senegal as payment service providers, and InTouch as an e-money institution.","as_of":"2025-05","date_precision":"month","system":"BCEAO Instruction 001-01-2024","class":"oversight"}],"systems":[],"note":""}}},
+"consumerprotection":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"Only a stated aim of user protection, no rule or body."},
+"CIV":{"facts":[],"systems":[],"note":"Only a stated aim of user protection, no rule or body."},
+"MLI":{"facts":[],"systems":[],"note":"Only a stated aim of user protection, no rule or body."},
+"NER":{"facts":[],"systems":[],"note":"Only a stated aim of user protection, no rule or body."},
+"SEN":{"facts":[],"systems":[],"note":"Only a stated aim of user protection, no rule or body."}}},
+"crossborderpayments":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"No cross-border payments content."},
+"CIV":{"facts":[],"systems":[],"note":"No cross-border payments content."},
+"MLI":{"facts":[],"systems":[],"note":"No cross-border payments content."},
+"NER":{"facts":[],"systems":[],"note":"No cross-border payments content."},
+"SEN":{"facts":[],"systems":[],"note":"No cross-border payments content."}}},
+"g2ppayments":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"No government payments content."},
+"CIV":{"facts":[],"systems":[],"note":"No government payments content."},
+"MLI":{"facts":[],"systems":[],"note":"No government payments content."},
+"NER":{"facts":[],"systems":[],"note":"No government payments content."},
+"SEN":{"facts":[],"systems":[],"note":"No government payments content."}}},
+"paymentslaw":{"countries":{
+"BFA":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"BCEAO Instruction No. 001-01-2024 of 23 January 2024 requires payment service providers in WAEMU to hold a licence after a transition that ended 1 May 2025, per Ecofin Agency.","as_of":"2025-05-01","date_precision":"day","system":"BCEAO Instruction 001-01-2024","class":"law"},{"sub_indicator":"law","aspect":"reach","value":"non-bank","fact":"The BCEAO approved InTouch as a payment institution in Burkina Faso under the instruction.","as_of":"2025-05","date_precision":"month","system":"BCEAO Instruction 001-01-2024","class":"law"}],"systems":[{"system":"BCEAO Instruction 001-01-2024","country_label":"Burkina Faso","class":"law","platform":"","owner":"BCEAO","tiers":""}],"note":""},
+"CIV":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"BCEAO Instruction No. 001-01-2024 of 23 January 2024 requires payment service providers in WAEMU to hold a licence after a transition that ended 1 May 2025, per Ecofin Agency.","as_of":"2025-05-01","date_precision":"day","system":"BCEAO Instruction 001-01-2024","class":"law"},{"sub_indicator":"law","aspect":"reach","value":"non-bank","fact":"The BCEAO approved SycaPay, Firstcom Global Payments, Julaya and InTouch as payment institutions in Cote d'Ivoire under the instruction.","as_of":"2025-05","date_precision":"month","system":"BCEAO Instruction 001-01-2024","class":"law"}],"systems":[{"system":"BCEAO Instruction 001-01-2024","country_label":"Cote d'Ivoire","class":"law","platform":"","owner":"BCEAO","tiers":""}],"note":""},
+"MLI":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"BCEAO Instruction No. 001-01-2024 of 23 January 2024 requires payment service providers in WAEMU to hold a licence after a transition that ended 1 May 2025, per Ecofin Agency.","as_of":"2025-05-01","date_precision":"day","system":"BCEAO Instruction 001-01-2024","class":"law"},{"sub_indicator":"law","aspect":"reach","value":"non-bank","fact":"The BCEAO approved InTouch as a payment institution in Mali under the instruction.","as_of":"2025-05","date_precision":"month","system":"BCEAO Instruction 001-01-2024","class":"law"}],"systems":[{"system":"BCEAO Instruction 001-01-2024","country_label":"Mali","class":"law","platform":"","owner":"BCEAO","tiers":""}],"note":""},
+"NER":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"BCEAO Instruction No. 001-01-2024 of 23 January 2024 requires payment service providers in WAEMU to hold a licence after a transition that ended 1 May 2025, per Ecofin Agency.","as_of":"2025-05-01","date_precision":"day","system":"BCEAO Instruction 001-01-2024","class":"law"},{"sub_indicator":"law","aspect":"reach","value":"non-bank","fact":"i-FUTURE announced on 19 May 2025 that it had received its payment institution licence in Niger under the instruction.","as_of":"2025-05-19","date_precision":"day","system":"BCEAO Instruction 001-01-2024","class":"law"}],"systems":[{"system":"BCEAO Instruction 001-01-2024","country_label":"Niger","class":"law","platform":"","owner":"BCEAO","tiers":""}],"note":""},
+"SEN":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"BCEAO Instruction No. 001-01-2024 of 23 January 2024 requires payment service providers in WAEMU to hold a licence after a transition that ended 1 May 2025, per Ecofin Agency.","as_of":"2025-05-01","date_precision":"day","system":"BCEAO Instruction 001-01-2024","class":"law"},{"sub_indicator":"law","aspect":"reach","value":"non-bank","fact":"The BCEAO licensed PayDunya and Bictorys as payment institutions, Mikaty and Flutterwave Senegal as payment service providers and InTouch as an e-money institution in Senegal.","as_of":"2025-05","date_precision":"month","system":"BCEAO Instruction 001-01-2024","class":"law"}],"systems":[{"system":"BCEAO Instruction 001-01-2024","country_label":"Senegal","class":"law","platform":"","owner":"BCEAO","tiers":""}],"note":""}}},
+"paymentsuptake":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"No survey figure."},
+"CIV":{"facts":[],"systems":[],"note":"No survey figure."},
+"MLI":{"facts":[],"systems":[],"note":"No survey figure."},
+"NER":{"facts":[],"systems":[],"note":"No survey figure."},
+"SEN":{"facts":[],"systems":[],"note":"No survey figure."}}},
+"retailpayments":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"Licences stated, no service stated in operation."},
+"CIV":{"facts":[],"systems":[],"note":"Licences stated, no service stated in operation."},
+"MLI":{"facts":[],"systems":[],"note":"Licences stated, no service stated in operation."},
+"NER":{"facts":[],"systems":[],"note":"Licences stated, no service stated in operation."},
+"SEN":{"facts":[],"systems":[],"note":"Licences stated, no service stated in operation."}}},
+"revenuecollection":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"No revenue content."},
+"CIV":{"facts":[],"systems":[],"note":"No revenue content."},
+"MLI":{"facts":[],"systems":[],"note":"No revenue content."},
+"NER":{"facts":[],"systems":[],"note":"No revenue content."},
+"SEN":{"facts":[],"systems":[],"note":"No revenue content."}}}
+}}

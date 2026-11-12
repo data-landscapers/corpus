@@ -1,0 +1,16 @@
+{"slug": "2026-01-12-som-somali-upper-house-approves-national-payment-system-bill", "studies": {
+"businesspayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document is about a Ministry of Finance bill; it states no central bank role."}}},
+"consumerprotection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Only an official aim of safeguarding consumers under a bill not yet law; no consumer rules stated as drafted or in force."}}},
+"crossborderpayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"internationalstandards": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Only a general aim to align regulations with international standards; no standard or membership named."}}},
+"paymentslaw": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Hiiraan Online reports Somalia's Upper House approved the National Payment System Bill, drafted by the Ministry of Finance, by 28 votes to none after the House of the People passed it with 154 votes in November 2025; it awaits the president's signature.", "as_of": "2026-01-12", "date_precision": "day", "system": "National Payment System Bill", "class": "law"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document gives no survey share of adults with an account."}}},
+"retailpayments": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Hiiraan Online says mobile money plays a central role in daily economic life in Somalia and the payments sector is rapidly expanding.", "as_of": "2026-01-12", "date_precision": "day", "system": "mobile money", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}}
+}}

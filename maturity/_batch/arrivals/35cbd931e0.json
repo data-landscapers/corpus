@@ -1,0 +1,119 @@
+{
+ "slug": "2026-09-22-sen-validation-du-blueprint-national-sur-la-valorisation-des-donnees",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "AI use cases were identified with ministries; no system is stated as piloted or in service."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "AI use cases were identified with ministries; no tool is stated as built or in service."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The SNIA is named as a framework with no status, body or funding stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The ministry says its DTIC held a national validation workshop on 21-22 September 2026 for the draft National Blueprint on Data Valorisation, to be refined before finalisation.",
+       "as_of": "2026-09-22",
+       "date_precision": "day",
+       "system": "Blueprint National sur la Valorisation des Donnees",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Blueprint National sur la Valorisation des Donnees",
+       "country_label": "National Blueprint on Data Valorisation",
+       "class": "policy",
+       "platform": "",
+       "owner": "Ministere des Telecommunications et du Numerique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The ministry says national consultations on 1-2 July 2026 and a validation workshop on 21-22 September 2026 on the National Blueprint on Data Valorisation involved ministries, universities, companies, civil society and partners.",
+       "as_of": "2026-09-22",
+       "date_precision": "day",
+       "system": "National Blueprint on Data Valorisation",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The ministry says Senegal is a pilot country with Kenya and Lesotho in Smart Africa's Data Governance in Africa programme, under way since June 2026.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Data Governance in Africa programme",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

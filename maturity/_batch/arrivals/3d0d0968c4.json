@@ -1,0 +1,10 @@
+{"slug": "2024-03-02-mrt-mp-planche-sur-la-digitalisation-et-le-renforcement-de-la-citoyennete", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "AI mentioned in a speech only; no rule or authority stated."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Online public services FEDDAM and HOUWIYETI are named, but nothing says they use AI."}}},
+"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No locally built AI stated."}}},
+"digitalstrategy": {"countries": {"MRT": {"facts": [{"sub_indicator": "national", "aspect": "period", "value": "to:2025", "fact": "Initiatives News reports that a workshop speaker raised the stakes of the digital agenda 2022-2025 for citizenship in Mauritania; the scope, adoption and text of the agenda are not described.", "as_of": "2024-03-02", "date_precision": "day", "system": "Agenda numérique 2022-2025", "class": "national"}], "systems": [], "note": "Standing, text and plan are not stated."}}},
+"eparticipation": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No government online consultation stated."}}},
+"policyresearch": {"countries": {"MRT": {"facts": [{"sub_indicator": "research", "aspect": "research", "value": "begun", "fact": "Initiatives News reports that the think tank Mauritanie Perspectives, with Global Development Network support, held a workshop in Nouakchott on 2 March 2024 on digitalisation and citizenship, with recommendations for the authorities to follow.", "as_of": "2024-03-02", "date_precision": "day", "system": "Mauritanie Perspectives", "class": "research"}], "systems": [], "note": ""}}},
+"publicconsultation": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The workshop was a think tank's, not the government asking for views on a named law or policy."}}}
+}}

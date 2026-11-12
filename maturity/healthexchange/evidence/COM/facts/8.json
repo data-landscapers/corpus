@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AMG openIMIS instance",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "openIMIS on AWS",
+   "owner": "UTGAM",
+   "tiers": ""
+  }
+ ],
+ "note": "Webinar on a health insurance (AMG) system in 7 pilot zones; insurance systems and pilots are not assessed here."
+}

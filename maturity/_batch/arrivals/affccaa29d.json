@@ -1,0 +1,12 @@
+{"slug":"2025-11-20-nam-new-united-paypoint-to-make-payments-easier","studies":{
+"businesspayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"NAM":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"New Era reports United PayPoint is a licensed Payment Service Provider with Bank of Namibia authorisation to issue e-money and provide payment intermediary services, as stated by the company.","as_of":"2025-11-19","date_precision":"day","system":"Bank of Namibia PSP authorisation","class":"oversight"}],"systems":[],"note":""}}},
+"consumerprotection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Only a general central bank aim to protect consumers; no rules or complaints body stated."}}},
+"crossborderpayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document states nothing on government payments."}}},
+"paymentsuptake":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No survey figure given."}}},
+"retailpayments":{"countries":{"NAM":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"underway","fact":"New Era reports United PayPoint launched on 19 November 2025 as a licensed e-money and wallet provider, with its services set to launch in early 2026.","as_of":"2025-11-19","date_precision":"day","system":"United PayPoint","class":"retail"}],"systems":[{"system":"United PayPoint","country_label":"Namibia","class":"retail","platform":"mobile wallet and USSD","owner":"United Africa Group","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document states nothing on revenue collection."}}},
+"startups":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document states nothing on startup law or funding."}}},
+"techhubs":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document states nothing on technology hubs."}}}
+}}

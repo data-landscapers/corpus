@@ -1,0 +1,135 @@
+{
+ "slug": "2025-08-19-dza-algeria-opens-for-fintech-new-psp-rules-create-a-playbook-for-payments",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DZA."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DZA."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "Launchbase Africa reports Instruction 06-2025 requires payment service providers to integrate with the national payment and clearing systems overseen by the Bank of Algeria.",
+       "as_of": "2025-08-17",
+       "date_precision": "day",
+       "system": "national payment and clearing systems",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "inforce",
+       "fact": "Launchbase Africa reports Bank of Algeria Instruction 06-2025 of 17 August 2025 requires payment service providers to hold customer funds in segregated escrow accounts, carry a bank guarantee or liability insurance, and give users contracts setting out fees and dispute resolution procedures.",
+       "as_of": "2025-08-17",
+       "date_precision": "day",
+       "system": "Bank of Algeria Instruction 06-2025",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DZA."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DZA."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DZA."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DZA."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DZA."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DZA."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DZA."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DZA."
+    }
+   }
+  }
+ }
+}

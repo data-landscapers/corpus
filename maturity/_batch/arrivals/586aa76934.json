@@ -1,0 +1,4 @@
+{"slug": "2024-06-18-uga-fate-of-meteorology-staff-in-the-balance-after-merger", "studies": {
+"agrisatellite": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states nothing on satellite data in farming."}}},
+"metsatellite": {"countries": {"UGA": {"facts": [{"sub_indicator": "metsat", "aspect": "certified", "value": "certified", "fact": "The Daily Monitor reports UNMA's Executive Director and a parliamentary committee chair saying UNMA holds ISO 9001:2015 certification that the dissolution into the ministry may cost it.", "as_of": "2024-06-18", "date_precision": "day", "system": "UNMA ISO 9001:2015 certification", "class": "metsat"}], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,11 @@
+{"slug":"2026-10-05-egy-halan-payments-and-halan-technology-apply-for-cbe-psp-licences","studies":{
+"businesspayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"centralbank":{"countries":{"EGY":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"The article, citing an MNT-Halan prospectus, says Central Bank of Egypt rules for licensing payment system operators and payment service providers were issued in June 2025, and two Halan companies have applied for a licence.","as_of":"2025-06","date_precision":"month","system":"CBE PSP licensing rules","class":"oversight"}],"systems":[],"note":"Licences not yet granted."}}},
+"consumerprotection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"crossborderpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"g2ppayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Earned wage access is an employer-contract advance, not government payment."}}},
+"paymentslaw":{"countries":{"EGY":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The article says rules for licensing payment system operators and payment service providers were issued in June 2025 by the Central Bank of Egypt.","as_of":"2025-06","date_precision":"month","system":"CBE rules on payment system operators and PSPs","class":"law"}],"systems":[],"note":"Applications by Halan companies are pending; no licensee named."}}},
+"paymentsuptake":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"retailpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Not addressed."}}},
+"revenuecollection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Not addressed."}}}
+}}

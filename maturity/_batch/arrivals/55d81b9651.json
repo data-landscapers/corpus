@@ -1,0 +1,26 @@
+{"slug": "2025-06-03-sen-will-the-ecowas-judgment-on-senegal-redefine-digital-rights-in-francop", "studies": {
+"gridreliability": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"MRT": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"SEN": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"TGO": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."}
+}},
+"opendiscussion": {"countries": {
+"GIN": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "CIPESA says Guinea blocked access to Facebook, WhatsApp, Instagram and TikTok in May 2023 ahead of nationwide demonstrations.", "as_of": "2023-05", "date_precision": "month", "system": "CIPESA analysis", "class": "discussion"}], "systems": [], "note": ""},
+"MRT": {"facts": [
+{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "CIPESA says Mauritania restricted mobile internet for 22 days from 2 July 2024 after the 29 June presidential election and protests disputing the result.", "as_of": "2024-07", "date_precision": "month", "system": "CIPESA analysis", "class": "discussion"},
+{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "CIPESA says Mauritania cut mobile internet for nearly a week during protests in May and June 2023.", "as_of": "2023-06", "date_precision": "month", "system": "CIPESA analysis", "class": "discussion"}
+], "systems": [], "note": ""},
+"SEN": {"facts": [
+{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "CIPESA says mobile data was blocked nationwide in Senegal in early February 2024 after the presidential election was postponed, the country's third disruption in under 12 months.", "as_of": "2024-02", "date_precision": "month", "system": "CIPESA analysis", "class": "discussion"},
+{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "CIPESA reports that the ECOWAS Court of Justice ruled on 14 May 2025 that Senegal's internet and social media shutdowns of June and July 2023 violated fundamental rights.", "as_of": "2023-07", "date_precision": "month", "system": "ECOWAS Court judgment, ASUTIC and Ndiaga Gueye v. Senegal", "class": "discussion"}
+], "systems": [], "note": ""},
+"TGO": {"facts": [], "systems": [], "note": "Mentions only the 2020 ECOWAS ruling that ordered Togo to pay a fine over protest-time shutdowns; no dated cut is stated."}
+}},
+"policyresearch": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "States nothing on local digital policy research."},
+"MRT": {"facts": [], "systems": [], "note": "States nothing on local digital policy research."},
+"SEN": {"facts": [], "systems": [], "note": "CIPESA is a regional body and the document names no Senegalese research institution's work on digital policy."},
+"TGO": {"facts": [], "systems": [], "note": "States nothing on local digital policy research."}
+}}
+}}

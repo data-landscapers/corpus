@@ -1,0 +1,130 @@
+{
+ "slug": "2024-12-01-eth-the-role-of-data-localization-laws-of-ethiopia-in-realizing-digitaliza",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "An Addis Ababa University thesis says Ethiopia's 2024 Personal Data Protection Proclamation prohibits offshore processing and storage of specified data sets.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Personal Data Protection Proclamation 2024",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "enacted",
+       "fact": "An Addis Ababa University thesis says Ethiopia enacted a comprehensive Personal Data Protection Proclamation in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Personal Data Protection Proclamation 2024",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "An Addis Ababa University thesis examines the conditions for cross-border transfer of data set out in the 2024 Personal Data Protection Proclamation.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Personal Data Protection Proclamation 2024",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2025",
+       "fact": "An Addis Ababa University thesis refers to the Digital Ethiopia Agenda 2025 as the government's digitalisation policy document.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "Digital Ethiopia Agenda 2025",
+       "class": "national"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the AfCFTA digital trade protocol only as a test, no signature or ratification."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

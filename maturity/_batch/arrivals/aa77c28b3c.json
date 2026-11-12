@@ -1,0 +1,128 @@
+{
+ "slug": "2023-12-15-sen-produire-de-la-valeur-en-termes-de-bonne-gouvernance-et-renforcer-la-c",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "Consultant Alexandre Guibert Lette, quoted by News Day, says Senegal has no general access to information legislation, only sectoral laws.",
+       "as_of": "2023-12-15",
+       "date_precision": "day",
+       "system": "",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "News Day reports the Open Data Census finds ANSD's data accessible on its website, in PDF format only, with no licence stating terms of use.",
+       "as_of": "2023-12-15",
+       "date_precision": "day",
+       "system": "ANSD website",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANSD website",
+       "country_label": "ANSD website",
+       "class": "open",
+       "platform": "",
+       "owner": "ANSD",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "News Day says the Parc technologique num\u00e9rique is being finalised.",
+       "as_of": "2023-12-15",
+       "date_precision": "day",
+       "system": "Parc technologique num\u00e9rique",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Parc technologique num\u00e9rique",
+       "country_label": "Parc technologique num\u00e9rique",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

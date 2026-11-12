@@ -1,0 +1,110 @@
+{
+ "slug": "2023-12-05-nga-directive-to-disconnect-switches-payment-solution-service-providers-an",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "NIBSS's circular says the CBN licenses switches, payment solution service providers, super agents and deposit-taking institutions, and that their licences do not permit them to hold customer funds.",
+       "as_of": "2023-12-05",
+       "date_precision": "day",
+       "system": "CBN payment service provider licences",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "NIBSS's circular concerns NIBSS Instant Payment transfers through bank mobile apps, online banking and USSD channels, with mobile money operators among the institutions addressed.",
+       "as_of": "2023-12-05",
+       "date_precision": "day",
+       "system": "NIBSS Instant Payment",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "NIBSS's circular says licensed non-deposit-taking providers may use NIP outward transfers to pay salaries, taxes and pensions, under CBN guidelines on electronic payment of such items.",
+       "as_of": "2023-12-05",
+       "date_precision": "day",
+       "system": "NIBSS Instant Payment",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

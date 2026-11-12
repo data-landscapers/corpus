@@ -1,0 +1,50 @@
+{
+ "slug": "2026-07-16-som-somali-national-university-launches-country-s-first-national-artificia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body's AI system is described."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No sector AI tool is described."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No national AI strategy is stated; the centre is a university AI centre, noted as other."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "A university AI centre was launched with no model, dataset or AI computing stated."
+    }
+   }
+  }
+ }
+}

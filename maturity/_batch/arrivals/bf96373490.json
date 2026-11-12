@@ -1,0 +1,189 @@
+{
+ "slug": "2026-11-08-egy-egypt-s-financial-inclusion-rate-rises-to-79-in-june-2026",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "A CBE credit-scoring test in its sandbox is a financial-sector project, not a named public sector system using AI."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The CBE is developing an AI strategy for the central bank and banking sector only, not a national AI strategy."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The CBE sandbox and fintech support are described; no licensing, switch oversight or PAPSS is stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "CBE Deputy Governor Rami Aboul Naga said Egypt's financial inclusion rate was 79% at end-June 2026, with about 56.4 million citizens holding active accounts.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "CBE financial inclusion rate",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "target",
+       "value": "target",
+       "fact": "CBE Deputy Governor Rami Aboul Naga said the financial inclusion rate was 79% at end-June 2026, up from 77.6% at end-2025 among people aged 15 and over.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "CBE financial inclusion rate",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": "The 79% is a central bank figure built on active accounts; the document does not name a survey."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The CBE Deputy Governor said mobile wallets, including Meeza Digital wallets, numbered about 67 million by September 2026, with transactions above EGP 4 trillion.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Meeza Digital mobile wallets",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "InstaPay / Instant Payment Network",
+       "country_label": "InstaPay (IPN)",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Meeza Digital",
+       "country_label": "Meeza Digital wallets",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The Nclude fintech fund is said to be supported by the CBE, with no startup law or strategy behind it."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  }
+ }
+}

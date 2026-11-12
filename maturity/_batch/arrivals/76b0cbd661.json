@@ -1,0 +1,16 @@
+{"slug": "2024-06-20-rwa-96-of-rwandans-are-financially-included-finscope-survey-2024", "studies": {
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on central bank role."}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"localgov": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on local government connection."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "uptake", "aspect": "share", "value": "half", "fact": "MINECOFIN, launching the FinScope 2024 survey, says the share of adults holding registered mobile money accounts rose from 60% in 2020 to 77% in 2024, with 22% banked.", "as_of": "2024", "date_precision": "year", "system": "FinScope 2024", "class": "survey"}
+], "systems": [{"system": "FinScope 2024", "country_label": "Rwanda", "class": "survey", "platform": "", "owner": "MINECOFIN, NISR, BNR, Access to Finance Rwanda", "tiers": ""}], "note": "Digital financial services use is 73%, not stated as digital payments."}}},
+"retailpayments": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "MINECOFIN says about 86% of Rwandans (6.9 million) used mobile money in 2024, per the FinScope 2024 survey.", "as_of": "2024", "date_precision": "year", "system": "mobile money", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}},
+"ruralelectrification": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on rural electrification."}}}
+}}

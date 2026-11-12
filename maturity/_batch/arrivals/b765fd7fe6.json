@@ -1,0 +1,142 @@
+{
+ "slug": "2024-07-04-civ-open-data-cote-divoire-la-carte-didentite-des-realisations-du-gouverne",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CAIDP",
+       "country_label": "Commission d'accès à l'information d'intérêt public et aux documents publics",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Document only says the CAIDP collaborates on the open data portal; no law or oversight work stated."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Portal report only; no open data policy stated."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "Digital Mag says the Open Data Cote d'Ivoire portal, started in 2014 by the CICG, was refreshed in 2024 and lists datasets such as 54 in economy, 24 in education and 22 in energy.",
+       "as_of": "2024-07-04",
+       "date_precision": "day",
+       "system": "Open Data Côte d'Ivoire",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Open Data Côte d'Ivoire",
+       "country_label": "Open Data Côte d'Ivoire (CICG portal)",
+       "class": "open",
+       "platform": "",
+       "owner": "CICG",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

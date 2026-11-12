@@ -1,0 +1,204 @@
+{
+ "slug": "2026-09-23-stp-financial-inclusion-in-sao-tome-and-principe",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview states nothing for Sao Tome and Principe that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "Banco Central de S\u00e3o Tom\u00e9 e Pr\u00edncipe's financial inclusion director told the Alliance for Financial Inclusion that it is implementing interoperability requirements for all market players and expanding the Dobra24 domestic interoperable retail payment infrastructure.",
+       "as_of": "2026-09",
+       "date_precision": "year",
+       "system": "Dobra24",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Dobra24",
+       "country_label": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+       "class": "oversight",
+       "platform": "domestic interoperable retail payment infrastructure",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview states nothing for Sao Tome and Principe that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview states nothing for Sao Tome and Principe that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview states nothing for Sao Tome and Principe that answers this study."
+    }
+   }
+  },
+  "gendergap": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview states nothing for Sao Tome and Principe that answers this study."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview states nothing for Sao Tome and Principe that answers this study."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "ownership",
+       "aspect": "owners",
+       "value": "survey:78",
+       "fact": "Banco Central de S\u00e3o Tom\u00e9 e Pr\u00edncipe's financial inclusion director told the Alliance for Financial Inclusion that 78% of people own a mobile phone, from the 2025 demand-side survey.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "BCSTP demand-side survey 2025",
+       "class": "ownership"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "Banco Central de S\u00e3o Tom\u00e9 e Pr\u00edncipe's financial inclusion director told the Alliance for Financial Inclusion that bank account ownership was 38% in 2025, against 39% in 2017, from the central bank's demand-side surveys.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "BCSTP demand-side survey 2025",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview states nothing for Sao Tome and Principe that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Banco Central de S\u00e3o Tom\u00e9 e Pr\u00edncipe's financial inclusion director told the Alliance for Financial Inclusion that the Dobra24 network, a domestic interoperable retail payment infrastructure, is being expanded.",
+       "as_of": "2026-09",
+       "date_precision": "year",
+       "system": "Dobra24",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Dobra24",
+       "country_label": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+       "class": "retail",
+       "platform": "domestic interoperable retail payment infrastructure",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview states nothing for Sao Tome and Principe that answers this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Interview states nothing for Sao Tome and Principe that answers this study."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Banco Central de S\u00e3o Tom\u00e9 e Pr\u00edncipe's financial inclusion director told the Alliance for Financial Inclusion that in 2025 it launched an incubator to support entrepreneurs with innovative technology-based financial ideas, with no programme or cohort described.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "BCSTP regulatory sandbox and incubator for fintech startups",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,14 +1,1 @@
-{
- "slug": "2024-09-19 Algeria Digital Economy (US Country Commercial Guide)",
- "studies": {
-  "feedbackportals": {
-   "countries": {
-    "DZA": {
-     "facts": [],
-     "systems": [],
-     "note": "No citizen feedback channel stated."
-    }
-   }
-  }
- }
-}
+{"slug": "2024-09-19 Algeria Digital Economy (US Country Commercial Guide)", "studies": {"offsitebackup": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The guide covers data localisation and cybersecurity and names no backup or disaster-recovery site for government systems."}}}, "feedbackportals": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No citizen feedback channel stated."}}}}}

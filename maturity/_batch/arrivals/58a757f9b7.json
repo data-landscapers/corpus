@@ -1,0 +1,70 @@
+{
+ "slug": "2025-06-22-lby-annir-internet-impact-assessment-digital-laws",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no general data protection law; it discusses a 1990 information law and notes weak explicit privacy rules."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The civil initiative Annir's 2025 assessment says Libya issued Electronic Transactions Law No. 6 of 2022, which gives legal recognition to electronic transactions.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Electronic Transactions Law No. 6 of 2022",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no government online service."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names a power to suspend international communications and a cybercrime law, with no cut or charge reported."
+    }
+   }
+  }
+ }
+}

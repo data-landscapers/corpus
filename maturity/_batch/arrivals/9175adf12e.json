@@ -1,0 +1,36 @@
+{"slug": "2026-03-31-xaf-resilience-and-resistance-internet-shutdowns-in-africa-in-2025", "studies": {
+"gridreliability": {"countries": {
+"AGO": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"CAF": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"CMR": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"COD": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"ETH": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"GIN": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"GNB": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"GNQ": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"KEN": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"NGA": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"SSD": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"TCD": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"TGO": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"TZA": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."},
+"UGA": {"facts": [], "systems": [], "note": "Document covers internet shutdowns, not the power grid."}
+}},
+"opendiscussion": {"countries": {
+"AGO": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now says Angola shut down the internet for the first time in July 2025, for at least three hours, in response to planned anti-government protests against rising fuel prices.", "as_of": "2025-07", "date_precision": "month", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"CAF": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now lists the Central African Republic among 15 African countries where internet shutdowns were implemented in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"CMR": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now lists Cameroon among 15 African countries where internet shutdowns were implemented in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"COD": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now says the Democratic Republic of the Congo shut down the internet across Goma throughout a humanitarian crisis in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"ETH": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now lists Ethiopia among 15 African countries where internet shutdowns were implemented in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"GIN": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now lists Guinea among 15 African countries where internet shutdowns were implemented in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"GNB": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now lists Guinea-Bissau among 15 African countries where internet shutdowns were implemented in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"GNQ": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now says the Government of Equatorial Guinea continued to effectively cut the island of Annobon off from the rest of the world in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"KEN": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now lists Kenya among 15 African countries where internet shutdowns were implemented in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"NGA": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now lists Nigeria among 15 African countries where internet shutdowns were implemented in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"SSD": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now lists South Sudan among 15 African countries where internet shutdowns were implemented in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"TCD": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now lists Chad among 15 African countries where internet shutdowns were implemented in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"TGO": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now lists Togo among 15 African countries where internet shutdowns were implemented in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"TZA": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now says Tanzania shut down the internet eight times in 2025, including twice during the election period.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""},
+"UGA": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now says Uganda continued to block Facebook for the fifth year running in 2025.", "as_of": "2025", "date_precision": "year", "system": "Access Now #KeepItOn", "class": "discussion"}], "systems": [], "note": ""}
+}}
+}}

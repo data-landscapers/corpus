@@ -1,0 +1,6 @@
+{"slug": "2025-09-10-nga-futminna-ncc-professorial-chair-endowment-host-workshop-on-ai-data-gov", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A workshop where a foreign academic proposed a four-pillar AI policy roadmap; no rule, draft or authority stated."}}},
+"aistrategy": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A roadmap was proposed by a workshop keynote speaker, not the government; no government AI strategy stated."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A Digital Consumer Protection Handbook was launched by a university chair endowment; no rule, complaints body or enforcement for digital finance stated."}}},
+"policyresearch": {"countries": {"NGA": {"facts": [{"sub_indicator": "research", "aspect": "research", "value": "begun", "fact": "The Federal University of Technology, Minna, through the NCC Professorial Chair Endowment, hosted a two-day workshop from 9 September 2025 on AI and data governance for consumer protection, and launched a Digital Consumer Protection Handbook.", "as_of": "2025-09-09", "date_precision": "day", "system": "NCC Professorial Chair Endowment, FUTMINNA", "class": "research"}], "systems": [], "note": ""}}}
+}}

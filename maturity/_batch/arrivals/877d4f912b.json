@@ -1,0 +1,163 @@
+{
+ "slug": "2025-06-03-egy-charting-egypt-s-path-to-responsible-ai-insights-from-the-multi-stakeh",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Egypt."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The roundtables were hosted by A2K4D at AUC, not asked by government or a regulator."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The MENA Observatory says the first roundtable, on 14 January 2025, explored Egypt's proposed AI bill.",
+       "as_of": "2025-01-14",
+       "date_precision": "day",
+       "system": "proposed AI bill",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Proposed AI bill",
+       "country_label": "Egypt AI bill",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The blog names Egypt's National AI Strategies, 2019 and 2025 editions, as documents discussed at the May 2025 roundtable.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "National AI Strategy 2025",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National AI Strategy",
+       "country_label": "National AI Strategy (2025 edition)",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Egyptian Charter for Responsible AI",
+       "country_label": "Egyptian Charter for Responsible AI",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "begun",
+       "fact": "A2K4D at the American University in Cairo, through its MENA Observatory on Responsible AI, held a multistakeholder roundtable on responsible AI in Egypt on 4 May 2025.",
+       "as_of": "2025-05-04",
+       "date_precision": "day",
+       "system": "MENA Observatory on Responsible AI",
+       "class": "research"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MENA Observatory on Responsible AI",
+       "country_label": "A2K4D, American University in Cairo",
+       "class": "research",
+       "platform": "",
+       "owner": "American University in Cairo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

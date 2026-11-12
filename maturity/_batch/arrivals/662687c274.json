@@ -1,0 +1,55 @@
+{
+ "slug": "2026-11-02-sdn-sudanese-journalists-syndicate-documents-673-violations-and-calls-for",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Sudanese Journalists' Syndicate says the Cybercrime Act was recently amended, with Article 51/A of the 1991 Criminal Act, to cover electronic and media publishing.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "Cybercrime Act",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "The syndicate says complaints were filed under the Cybercrime Act against 47 journalists and media organisations in a single instance, and 18 journalists were declared wanted.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "Cybercrime Act",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "The Sudanese Journalists' Syndicate says that by end June 2026 it had documented 116 arrests, detentions or enforced disappearances of journalists and 64 prosecutions since April 2023.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

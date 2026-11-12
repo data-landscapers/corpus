@@ -1,0 +1,64 @@
+{
+ "slug": "2026-03-31-ssd-authorities-tighten-media-and-online-restrictions",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "CIVICUS Monitor says President Kiir signed the Cybercrime and Computer Misuse Act into law in February 2026, passed by the legislature in November 2025.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Cybercrime and Computer Misuse Act",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "CIVICUS Monitor says the Media Authority suspended the online outlet Hot in Juba on 6 October 2025 for publishing allegedly reckless and defamatory content.",
+       "as_of": "2025-10-06",
+       "date_precision": "day",
+       "system": "",
+       "class": "discussion"
+      },
+      {
+       "sub_indicator": "discussion",
+       "aspect": "debate",
+       "value": "criticised",
+       "fact": "CIVICUS Monitor says the online outlet Hot in Juba publicly criticised the Media Authority's suspension of it as unfair and a violation of media freedom, on 20 November 2025.",
+       "as_of": "2025-11-20",
+       "date_precision": "day",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives only a count of displaced people, no registration or digital service."
+    }
+   }
+  }
+ }
+}

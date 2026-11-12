@@ -1,0 +1,23 @@
+{"slug": "2025-06-02-zaf-opening-remarks-by-the-deputy-minister-of-communications-and-digital-t", "studies": {
+"authentication": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only a target to roll out digital ID within three years; no service stated."}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on a civil register and ID link."}}},
+"businesspayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"cloudstrategy": {"countries": {"ZAF": {"facts": [{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Deputy Minister Mondli Gungubele said South Africa published the National Data and Cloud Policy in 2024 to accelerate digital infrastructure rollout while ensuring data privacy and security and preserving data sovereignty.", "as_of": "2024", "date_precision": "year", "system": "National Data and Cloud Policy", "class": "policy"}], "systems": [], "note": "No hosting rule, named hosting or moves stated."}}},
+"consumerprotection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datagovernance": {"countries": {"ZAF": {"facts": [{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Deputy Minister Mondli Gungubele said South Africa published the National Data and Cloud Policy in 2024, promoting open data and data interoperability.", "as_of": "2024", "date_precision": "year", "system": "National Data and Cloud Policy", "class": "policy"}], "systems": [], "note": "No body or rule issued under the policy stated."}}},
+"digitalsovereignty": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Sovereignty is named as an aim of the data and cloud policy; the speech does not say it covers government data, so nothing is recorded."}}},
+"digitalstrategy": {"countries": {"ZAF": {"facts": [{"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Deputy Minister Gungubele said the National Digital Transformation Roadmap was launched on 12 May 2025 to give a single view of the citizen across all e-services; he did not say who adopted it.", "as_of": "2025-05-12", "date_precision": "day", "system": "National Digital Transformation Roadmap", "class": "national"}], "systems": [], "note": "No period, text, plan or reporting stated."}}},
+"egovservices": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only a roadmap aim of a single view of e-services; no service or portal stated."}}},
+"g2ppayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No ID enrolment figure stated."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on ID numbers at birth."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only a target to roll out digital ID within three years; no system stated."}}},
+"opendatause": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Open data is named as an aim of a policy; no data publication stated."}}},
+"paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No account survey figure stated."}}},
+"retailpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only a target to roll out digital payment; no service stated."}}},
+"revenuecollection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on paying taxes electronically."}}}
+}}

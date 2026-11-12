@@ -1,0 +1,5 @@
+{"slug": "2025-01-01-ben-le-cdsp-un-outil-performant-pour-une-police-republicaine-plus-efficace", "studies": {
+"idrobustness": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Describes police files including a fingerprint file, not a national ID system."}}},
+"police": {"countries": {"BEN": {"facts": [], "systems": [{"system": "CDSP national police and judicial files", "country_label": "Benin", "class": "other", "platform": "national automated files", "owner": "Centre de Document de Sécurité Publique, Ministry of Justice", "tiers": ""}], "note": "Files and terminals for units are described, but not stations recording reports or cases as they are taken."}}},
+"populationregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Says nothing on a population register."}}}
+}}

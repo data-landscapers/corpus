@@ -1,0 +1,15 @@
+{
+ "slug": "2023-12-04-lby-national-electronic-inquiry-service-launched",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National electronic inquiry service (1415 call centre)",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "call centre",
+   "owner": "Ministry of Local Government",
+   "tiers": ""
+  }
+ ],
+ "note": "The service launched polls citizens' views on projects and runs through a local call centre; the document describes no channel for complaints about public services."
+}

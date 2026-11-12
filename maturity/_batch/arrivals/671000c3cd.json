@@ -1,0 +1,109 @@
+{
+ "slug": "2024-04-23-zaf-finscope-consumer-2023-south-africa-media-release",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "FinMark Trust says 46% of adults received government social grants in 2023, and that the government's preferred channel was digital.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "social grants",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "FinMark Trust's FinScope Consumer 2023 puts adults with bank accounts at 84%, up from 52% in 2003.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "FinScope Consumer South Africa 2023",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "target",
+       "value": "target",
+       "fact": "FinMark Trust's FinScope Consumer 2023 puts adults with bank accounts at 84%.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "FinScope Consumer South Africa 2023",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  }
+ }
+}

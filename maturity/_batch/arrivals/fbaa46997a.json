@@ -1,0 +1,52 @@
+{
+ "slug": "2025-07-11-ben-diffusion-des-donnees-statistiques-au-benin-l-instad-et-la-commission",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "INStaD, Benin's statistics institute, runs the Open Data portal of the national statistical system, which a July 2025 workshop prepared to migrate to the SDMX 2.0 version.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Open Data portal of the Benin National Statistical System",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Open Data portal of the National Statistical System",
+       "country_label": "BEN (INStaD)",
+       "class": "open",
+       "platform": "SDMX 2.0",
+       "owner": "INStaD",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "2026-07-30-zaf-media-release-finscope-consumer-south-africa-2025",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey release states nothing for South Africa that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey release states nothing for South Africa that answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey release states nothing for South Africa that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey release states nothing for South Africa that answers this study."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey release states nothing for South Africa that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "FinMark Trust's FinScope 2025 survey says South Africans open additional bank accounts mostly to receive social grants or government payments, and social grant recipients are among those who withdraw received money at once.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "social grants paid into bank accounts",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "FinMark Trust's FinScope Consumer South Africa 2025 survey of 5,600 adults puts bank account ownership at 89% of adults (40.8 million).",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "FinScope Consumer South Africa 2025",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "target",
+       "value": "target",
+       "fact": "FinMark Trust's FinScope Consumer South Africa 2025 survey of 5,600 adults puts bank account ownership at 89% of adults (40.8 million).",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "FinScope Consumer South Africa 2025",
+       "class": "survey"
+      }
+     ],
+     "systems": [
+      {
+       "system": "FinScope Consumer South Africa 2025",
+       "country_label": "South Africa",
+       "class": "survey",
+       "platform": "",
+       "owner": "FinMark Trust",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey release states nothing for South Africa that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey release states nothing for South Africa that answers this study."
+    }
+   }
+  }
+ }
+}

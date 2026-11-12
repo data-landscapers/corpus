@@ -1,0 +1,10 @@
+{"slug": "2025-11-19-egy-cbe-grants-flash-app-a-license-to-provide-e-payment-services", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "entARABI reports the Central Bank of Egypt approved Flash for a licence to operate as a facilitator of electronic payment services and card transactions, per the company's own statement.", "as_of": "2025-11-19", "date_precision": "day", "system": "CBE e-payment facilitator licence", "class": "oversight"}], "systems": [], "note": "Licence date not given; publication date used."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Regional expansion is an aim only."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Gives no survey figure."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Card and QR facilitator, not mobile money or wallet interoperability."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}}
+}}

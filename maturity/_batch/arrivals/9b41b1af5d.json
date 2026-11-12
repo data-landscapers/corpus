@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-16-mar-morocco-digital-news-report-2026",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Reuters Institute page states nothing on a census or household survey."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives only an unsourced Internet penetration 91%, not a stated share of people using the internet."
+    }
+   }
+  }
+ }
+}

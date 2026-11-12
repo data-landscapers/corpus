@@ -1,0 +1,137 @@
+{
+ "slug": "2024-02-16-syc-cbs-opens-public-consultation-on-proposed-amendments-to-the-national-p",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Seychelles that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "Seychelles Nation, carrying a Central Bank of Seychelles press release, says the 2014 National Payment System (Licensing and Authorisation) Regulations guide the central bank's granting of payment service provider licences and authorisation to operate payment, clearing or securities systems.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "National Payment System (Licensing and Authorisation) Regulations, 2014",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Seychelles that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Seychelles that answers this study."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "asked",
+       "fact": "The Central Bank of Seychelles posted a consultation paper on its website on proposed amendments to the payment system licensing regulations and invited comments by email until 29 February 2024.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "CBS public consultation",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Seychelles that answers this study."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Seychelles that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Seychelles that answers this study."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The Central Bank of Seychelles opened a public consultation on proposed amendments to the payment system licensing regulations, inviting comments from the public by 29 February 2024.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "CBS public consultation",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Seychelles that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Seychelles that answers this study."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{"slug": "2026-07-07-gab-institutions-consultatives-le-csgr-ia-recu-en-audience-par-le-2eme-vic", "studies": {
+"aiabuse": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {"GAB": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "The CSGR-IA, the Gabonese scientific committee on AI research, presents Obone AI, described as the first Gabonese AI system able to process and answer in the Fang language.", "as_of": "2026-07-07", "date_precision": "day", "system": "Obone AI", "class": "localai"}], "systems": [{"system": "Obone AI", "country_label": "Obone AI", "class": "localai", "platform": "", "owner": "CSGR-IA", "tiers": ""}], "note": "Release is not dated; the document describes the system as existing."}}},
+"digitalsovereignty": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Cites the personal data law 025/2023 and ordinance 0006/PR/2025 on digitalisation without saying they cover state data."}}}
+}}

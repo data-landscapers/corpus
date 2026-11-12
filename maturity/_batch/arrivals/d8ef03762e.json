@@ -1,0 +1,41 @@
+{
+ "slug": "2025-03-01-gab-gabon",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states no business register registration or beneficial-owner register; only no BO disclosure law."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "EITI page does not cover local government connection."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "EITI page does not cover local government revenue records."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "EITI page states no consultation on a digital law or policy."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-bfa-renforcement-du-cadre-de-collaboration-numerique-en-matiere-d-enseigne",
+ "facts": [],
+ "systems": [
+  {
+   "system": "FasoREN",
+   "country_label": "FasoREN",
+   "class": "other",
+   "platform": "ANPTIC national fibre",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No STEM graduate figure is given, and FasoREN's link to the WACREN network is stated as still partial, with no statement that it connects the public universities in service."
+}

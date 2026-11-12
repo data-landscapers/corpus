@@ -1,0 +1,9 @@
+{"slug": "2024-11-01-mus-mauritius-social-media-ban", "studies": {
+"aiabuse": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Mentions suspected AI-generated audio but states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No sectoral AI system stated."}}},
+"aisystems": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No locally built AI stated."}}},
+"cybersecurity": {"countries": {"MUS": {"facts": [], "systems": [{"system": "Computer Emergency Response Team of Mauritius", "country_label": "CERT-MU", "class": "other", "platform": "", "owner": "Ministry of ICT", "tiers": ""}], "note": "CERT-MU only asked platforms to remove accounts; no incident handled or alert stated."}}},
+"itcapacity": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No government IT staff or systems stated."}}},
+"opendiscussion": {"countries": {"MUS": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The regulator ICTA directed all internet service providers on 31 October 2024 to suspend access to social media platforms until 11 November 2024, and Emtel and Mauritius Telecom blocked TikTok, X and YouTube, with the directive reversed on 2 November.", "as_of": "2024-11-01", "date_precision": "day", "system": "ICTA social media suspension directive", "class": "discussion"}], "systems": [], "note": ""}}}
+}}

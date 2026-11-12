@@ -1,0 +1,217 @@
+{
+ "slug": "2026-01-01-ken-east-african-ai-policy-hub",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a Judiciary AI adoption policy framework and training are described; no AI system in use or piloted."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "CIPIT says an NCAJ ICT Committee workshop covered the implications of Kenya's proposed National AI Act for the justice sector.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "National AI Act (proposed)",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National AI Act (proposed)",
+       "country_label": "Kenya National AI Act",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No draft text is named; the Act is called proposed."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions a contribution to Kenya's National AI Strategy process only; no status of the strategy is stated."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for this country."
+    }
+   }
+  }
+ }
+}

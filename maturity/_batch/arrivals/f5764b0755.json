@@ -1,0 +1,197 @@
+{
+ "slug": "2026-09-09-zaf-end-of-an-era-for-south-africa-s-payments-system",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for South Africa that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "eriinfo reports that licensing, authorisation and registration of payment institutions moved to the South African Reserve Bank when its recognition of the Payments Association of South Africa lapsed on 2 September 2026.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "South African Reserve Bank payment system functions",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "eriinfo reports that the Reserve Bank took over the clearing houses for card and high-value payments and holds 50% of PayInc, which now runs low-value payments including instant payments.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PayInc",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "eriinfo reports that a directive requires banks in the Common Monetary Area to migrate low-value cross-border payments from the SADC real-time gross settlement system to TCIB by March 2027.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "TCIB",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PayInc",
+       "country_label": "South Africa",
+       "class": "oversight",
+       "platform": "payments infrastructure company",
+       "owner": "Reserve Bank 50%, banks 50%",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for South Africa that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "eriinfo reports that banks in the Common Monetary Area, including South Africa's, are directed to move low-value cross-border payments off the SADC real-time gross settlement system onto TCIB by March 2027.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "SADC-RTGS / TCIB",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TCIB",
+       "country_label": "South Africa",
+       "class": "crossborder",
+       "platform": "regional real-time low-value scheme",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for South Africa that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for South Africa that answers this study."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "eriinfo reports that the National Payment System Bill was released for public comment on 1 September 2026, with amendments to the National Payment System Act in the work programme.",
+       "as_of": "2026-09-01",
+       "date_precision": "day",
+       "system": "National Payment System Bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for South Africa that answers this study."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "eriinfo reports that the Reserve Bank released the National Payment System Bill for public comment on 1 September 2026 and received 'multiple hundreds of pages' of industry feedback on the draft authorisation framework.",
+       "as_of": "2026-09-01",
+       "date_precision": "day",
+       "system": "National Payment System Bill",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "eriinfo reports that electronic transfers, debit orders and instant payments, which most South Africans use daily, are run by PayInc, and PayShap is being standardised.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PayShap",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for South Africa that answers this study."
+    }
+   }
+  }
+ }
+}

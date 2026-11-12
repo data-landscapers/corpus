@@ -1,0 +1,10 @@
+{"slug": "2026-02-17-tun-ooredoo-fintech-tunisie-obtient-l-agrement-de-la-bct-et-lance-walletii", "studies": {
+"businesspayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"TUN": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "Ooredoo Fintech Tunisie announced it obtained the Central Bank of Tunisia's authorisation to launch the walletii digital wallet, as reported by THD from the company communique.", "as_of": "2026-02-17", "date_precision": "day", "system": "BCT authorisation of walletii", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"paymentsuptake": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Gives no survey figure."}}},
+"retailpayments": {"countries": {"TUN": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "underway", "fact": "Ooredoo Fintech Tunisie says it has the central bank's authorisation to officially launch walletii by Ooredoo, a wallet for bill payments, transfers and cash withdrawals, per THD.", "as_of": "2026-02-17", "date_precision": "day", "system": "walletii by Ooredoo", "class": "retail"}], "systems": [{"system": "walletii by Ooredoo", "country_label": "Tunisia", "class": "retail", "platform": "", "owner": "Ooredoo Fintech Tunisie", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Bill payments are not stated to include taxes or fees."}}}
+}}

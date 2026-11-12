@@ -1,0 +1,18 @@
+{"slug": "2025-11-01-eri-terms-and-conditions-of-service", "studies": {
+"authentication": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Only customer ID documents and account registration for a private wallet; no state authentication service."}}},
+"birthidlink": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Nothing on a civil register and ID link."}}},
+"businesspayments": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ERI": {"facts": [], "systems": [], "note": "The provider's licence is issued by the Ministry of Trade and Industry under Bank of Eritrea oversight; the Bank is not said to license it."}}},
+"consumerprotection": {"countries": {"ERI": {"facts": [], "systems": [], "note": "A provider's own terms; no consumer rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Inward remittances via named partners are described; no digital corridor in service or volume stated."}}},
+"dataprotectionlaw": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Only the provider's own confidentiality clause; no data protection law stated."}}},
+"g2ppayments": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idcoverage": {"countries": {"ERI": {"facts": [], "systems": [], "note": "No ID enrolment figure stated."}}},
+"idfrombirth": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Nothing on ID numbers at birth."}}},
+"idmaintenance": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID."}}},
+"idrobustness": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"paymentsuptake": {"countries": {"ERI": {"facts": [], "systems": [], "note": "No account survey figure stated."}}},
+"retailpayments": {"countries": {"ERI": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Himbol Community Financial Services' terms effective November 2025 describe the M-Nakfa mobile money wallet as in operation for cash-in, cash-out, person-to-person transfers, merchant payments and utility bill settlements, under Bank of Eritrea oversight.", "as_of": "2025-11", "date_precision": "month", "system": "M-Nakfa", "class": "retail"}], "systems": [{"system": "M-Nakfa", "country_label": "M-Nakfa", "class": "retail", "platform": "", "owner": "Himbol Community Financial Services", "tiers": ""}], "note": "Interoperability and a national switch are not stated."}}},
+"revenuecollection": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Utility bill settlements through the wallet are not tax or fee payments to the state."}}}
+}}

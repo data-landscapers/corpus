@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-ben-transformer-les-donnees-geospatiales-du-benin-en-levier-de-politique-p",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Interoperability scheme (X-Road)",
+   "country_label": "Benin X-Road interoperability scheme",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "An X-Road based interoperability scheme is called a solid base; the document does not say it is live."
+}

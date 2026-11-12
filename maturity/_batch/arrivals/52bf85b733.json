@@ -1,0 +1,8 @@
+{"slug": "2026-06-07-lby-the-general-authority-for-information-reviews-the-national-open-data-p", "studies": {
+"internationalstandards": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Says data follows unnamed international standards; no standards body membership or named standard."}}},
+"opendatapolicy": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Describes a platform; no open data policy is mentioned."}}},
+"opendatause": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The General Information Authority says its National Open Data Platform gives access to official data issued by state institutions in CSV and JSON formats.", "as_of": "2026-06-01", "date_precision": "day", "system": "National Open Data Platform", "class": "open"}
+], "systems": [{"system": "National Open Data Platform", "country_label": "Libya", "class": "open", "platform": "web platform", "owner": "General Information Authority", "tiers": ""}], "note": ""}}},
+"techhubs": {"countries": {"LBY": {"facts": [], "systems": [{"system": "Libyan Digital Innovation Lab", "country_label": "Libya", "class": "other", "platform": "innovation lab", "owner": "General Information Authority", "tiers": ""}], "note": "The lab is said only to aim at providing an incubation environment; no programme, cohort or opening is stated."}}}
+}}

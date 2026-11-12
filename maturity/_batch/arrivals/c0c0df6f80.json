@@ -1,0 +1,10 @@
+{"slug": "2025-01-01-zwe-zimbabwe-freedom-on-the-net-2025-country-report", "studies": {
+"gridreliability": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Mentions frequent outages and rationing but gives no count."}}},
+"mobileaffordability": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Says access is expensive and ISPs cut prices after Starlink, with no price stated."}}},
+"opendiscussion": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Freedom House says journalist Blessed Mhlanga was arrested and charged with inciting violence in February 2025 over an interview calling for the president's resignation, and was held nearly three months.", "as_of": "2025-02", "date_precision": "month", "system": "Freedom on the Net 2025", "class": "discussion"}
+], "systems": [], "note": ""}}},
+"satellitebroadband": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "Freedom House says Starlink's satellite internet service became available in Zimbabwe in September 2024 and its terminals sold out shortly after.", "as_of": "2024-09", "date_precision": "month", "system": "Starlink", "class": "satellite"}
+], "systems": [{"system": "Starlink", "country_label": "Zimbabwe", "class": "satellite", "platform": "low-orbit satellite", "owner": "Starlink", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,43 @@
+{
+ "slug": "2025-05-05-gab-liberte-de-la-presse-l-acces-aux-sources-publiques-d-informations-un-v",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "Journalist Herton-Sena Omoungou writes in a Convergence Afrique op-ed that no law sets out access to administrative documents in Gabon, and a bill announced in 2023 remains a rough draft not yet submitted to Parliament.",
+       "as_of": "2025-05-05",
+       "date_precision": "day",
+       "system": "",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Op-ed describes limited access to public information, with no named policy criticised, no cut and no punishment stated."
+    }
+   }
+  }
+ }
+}

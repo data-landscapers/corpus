@@ -1,0 +1,277 @@
+{
+ "slug": "2026-01-01-dji-djibouti-global-hub",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "UNESCO says no framework dedicated to AI was identified, but names the Digital Code and the ANC as relevant; no AI-harm rule or absence is stated outright."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the CorridorVision AI project and the port community system are named, as a potential testbed; no government body's AI use is stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "CorridorVision AI is named as a logistics initiative with no status stated; the document calls the sector a potential testbed, not evidence of adoption."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "UNESCO says Djibouti undertook its AI Readiness Assessment while developing its first National AI Strategy (SNIA, 2026-2030).",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "SNIA 2026-2030",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SNIA",
+       "country_label": "SNIA 2026-2030",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Government of Djibouti",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The assessment found no inventory of GPU capacity or AI computing; no AI model or dataset is stated as built."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "UNESCO lists the National Cybersecurity Authority (ANC) among Djibouti's institutional foundations relevant to AI governance.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "National Cybersecurity Authority (ANC)",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "UNESCO lists the National Cybersecurity Strategy 2024-2030 among Djibouti's legal and institutional foundations.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "National Cybersecurity Strategy 2024-2030",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANC",
+       "country_label": "National Cybersecurity Authority (ANC)",
+       "class": "response",
+       "platform": "",
+       "owner": "Government of Djibouti",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Data hosting infrastructure is mentioned only in general; no data centre is named."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Submarine cable connectivity is mentioned only as an advantage, with no cable or route stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "users",
+       "value": "estimate:65.3",
+       "fact": "UNESCO's profile reports the ITU figure of 65.3% of Djibouti's population using the internet as of 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "ITU internet use",
+       "class": "use"
+      }
+     ],
+     "systems": [],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "UNESCO says a national consultation on 22 January 2026 brought together about 80 participants from public administration, the UN, higher education, the private sector and civil society during development of the national AI strategy.",
+       "as_of": "2026-01-22",
+       "date_precision": "day",
+       "system": "National AI Strategy consultation",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the national electricity access share (69.2%, 2024) is given, not a rural figure."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "UNESCO says the Djibouti Startup Act provides a legal framework favourable to innovative entrepreneurship.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Djibouti Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Djibouti Startup Act",
+       "country_label": "Djibouti Startup Act",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Government of Djibouti",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Djibouti."
+    }
+   }
+  }
+ }
+}

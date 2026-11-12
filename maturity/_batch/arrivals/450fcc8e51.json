@@ -1,3 +1,1 @@
-{"slug": "2026-09-10-lso-nul-developed-weather-app-adopted-by-lms", "studies": {
-"localgov": {"countries": {"LSO": {"facts": [], "systems": [], "note": "A weather app; nothing on local government offices."}}}
-}}
+{"slug": "2026-09-10-lso-nul-developed-weather-app-adopted-by-lms", "studies": {"agrisatellite": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document states no satellite data in farming."}}}, "metsatellite": {"countries": {"LSO": {"facts": [], "systems": [{"system": "MetApp", "country_label": "MetApp", "class": "other", "platform": "mobile app", "owner": "Lesotho Meteorological Services", "tiers": ""}], "note": "MetApp reports automated weather station readings; no satellite data stated."}}}, "localgov": {"countries": {"LSO": {"facts": [], "systems": [], "note": "A weather app; nothing on local government offices."}}}}}

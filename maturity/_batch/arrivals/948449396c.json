@@ -1,3 +1,1 @@
-{"slug": "2025-11-19-lbr-liberia-meteorological-service-operationalises-the-common-alerting-pro", "studies": {
-"metsatellite": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The service operationalised the Common Alerting Protocol for alerts; no satellite data reception or use is stated."}}}
-}}
+{"slug": "2025-11-19-lbr-liberia-meteorological-service-operationalises-the-common-alerting-pro", "studies": {"agrisatellite": {"countries": {"LBR": {"facts": [], "systems": [], "note": "CAP weather alerts; no satellite use in farming stated."}}}, "metsatellite": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The service operationalised the Common Alerting Protocol for alerts; no satellite data reception or use is stated."}}}}}

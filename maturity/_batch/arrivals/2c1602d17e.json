@@ -1,0 +1,99 @@
+{
+ "slug": "2024-10-28-tgo-togocom-launches-new-subsidiary-to-manage-mobile-money-segment",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "Togo First says BCEAO rules require institutions issuing e-money to hold a licence or partner with a licensed bank, and that Tmoney S.A. will be directly supervised by the BCEAO.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "BCEAO e-money licensing",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Togo First reports 3.55 million mobile money users in Togo in Q1 2024, on Tmoney and Flooz.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "Tmoney; Flooz",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing a study asks for this country."
+    }
+   }
+  }
+ }
+}

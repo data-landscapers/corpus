@@ -1,0 +1,7 @@
+{"slug": "2025-11-05-tza-how-an-internet-blackout-affected-tanzania-s-election", "studies": {
+"gridreliability": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document covers an internet shutdown, not the power grid."}}},
+"opendiscussion": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Context reports the Tanzanian government restricted internet access nationwide from 29 October 2025 when polls opened, blocking Facebook, WhatsApp and other platforms; NetBlocks said services were restored on 3 November with social media restrictions remaining.", "as_of": "2025-10-29", "date_precision": "day", "system": "Election-day internet shutdown", "class": "discussion"}
+], "systems": [], "note": ""}}},
+"policyresearch": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on local digital policy research."}}}
+}}

@@ -1,0 +1,194 @@
+{
+ "slug": "2024-08-29-ago-dezasseis-empresas-autorizadas-pelo-bna-a-emitir-moeda-electronica",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "Expans\u00e3o reports that Banco Nacional de Angola (BNA) has authorised 16 payment service providers, including Africell (Afrimoney) and Unitel (Unitel Money), to issue electronic money, and individuals and firms can already open e-money accounts with them.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "BNA e-money authorisation",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "Expans\u00e3o reports that BNA launched the KWiK instant payment arrangement, which operates e-money and links the payment service providers.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "KWiK",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "KWiK",
+       "country_label": "Angola",
+       "class": "oversight",
+       "platform": "instant payment arrangement",
+       "owner": "BNA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Expans\u00e3o reports that BNA's Instrutivo n.\u00ba 07/24 sets the rules for e-money accounts (who may open them, five account types, limits).",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "Instrutivo 07/24",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "non-bank",
+       "fact": "Expans\u00e3o reports that 16 payment service providers, including telecom operators Africell and Unitel, are authorised by BNA to issue e-money.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "Instrutivo 07/24",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Expans\u00e3o reports that Banco Nacional de Angola (BNA) has authorised 16 payment service providers, including Africell (Afrimoney) and Unitel (Unitel Money), to issue electronic money, and individuals and firms can already open e-money accounts with them.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "e-money accounts at 16 authorised PSPs",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Expans\u00e3o reports that BNA's KWiK instant payment arrangement is the official mechanism for e-money and guarantees interoperability among the payment service providers.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "KWiK",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "KWiK",
+       "country_label": "Angola",
+       "class": "retail",
+       "platform": "instant payment arrangement",
+       "owner": "BNA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  }
+ }
+}

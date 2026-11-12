@@ -1,0 +1,5 @@
+{"slug": "2023-11-22-bdi-insbu-la-publication-des-donnees-statistiques", "studies": {
+"admindata": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Ministry statistics services produce sectoral data, but the document does not say figures are drawn from administrative records."}}},
+"opendatause": {"countries": {"BDI": {"facts": [{"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "INSBU's acting director-general said Burundi has a data portal where all national statistics are published and anyone can consult it, with some survey-based indicators not yet updated.", "as_of": "2023-11-17", "date_precision": "day", "system": "portail des données (INSBU)", "class": "open"}], "systems": [{"system": "portail des données", "country_label": "INSBU data portal", "class": "open", "platform": "", "owner": "INSBU", "tiers": ""}], "note": ""}}},
+"schools": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states nothing on school records."}}}
+}}

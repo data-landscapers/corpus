@@ -1,0 +1,10 @@
+{"slug": "2026-04-30-dza-les-chiffres-l-attestent-l-epargne-dort-un-potentiel-inexploite", "studies": {
+"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on central bank payments role."}}},
+"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"paymentsuptake": {"countries": {"DZA": {"facts": [{"sub_indicator": "uptake", "aspect": "share", "value": "quarter", "fact": "Maghreb Emergent, reporting a Global Findex presentation by Dr Mohamed Amine Kessouri, puts Algerian adult bank or mobile account ownership at 35.3% in 2024.", "as_of": "2024", "date_precision": "year", "system": "Global Findex", "class": "survey"}], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on retail payment services."}}},
+"revenuecollection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}}
+}}

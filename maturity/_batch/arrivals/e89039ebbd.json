@@ -1,0 +1,10 @@
+{"slug": "2025-07-16-eth-findex-2025-ethiopia-s-financial-inclusion-by-the-numbers", "studies": {
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on central bank role."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [{"sub_indicator": "uptake", "aspect": "share", "value": "quarter", "fact": "Shega's infographic on Global Findex 2025 puts Ethiopian adult account ownership at 48.8% in 2024, up from 34.8% in 2017.", "as_of": "2024", "date_precision": "year", "system": "Global Findex 2025", "class": "survey"}], "systems": [], "note": "Digital payments at 20.7% is below the 79% bar, so no payments fact."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Mobile money account ownership of 9.5% is a survey share, not a service status; no retail payment service stated."}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}}
+}}

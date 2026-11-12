@@ -1,0 +1,88 @@
+{
+ "slug": "2026-04-01-cmr-droits-numeriques-au-cameroun-ou-en-sommes-nous-en-2026",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Post states nothing for this study."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "enacted",
+       "fact": "PROTEGE QV, with APC, says in its April 2026 white paper that a specific legal framework for personal data protection was recently adopted, with effective implementation still needing resources.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "personal data protection law",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Post notes only a digital skills deficit and recommends digital education."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Post notes access difficulties for disabled people; no rule or delivery stated."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Post states nothing for this study."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Post says only that court procedures are weakly digitised; no system named."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Post lists internet access restrictions and media pressure as risks without dated events."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Post states nothing for this study."
+    }
+   }
+  }
+ }
+}

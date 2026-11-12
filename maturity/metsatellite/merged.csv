@@ -4,6 +4,7 @@ AGO,2025-11-19-wmo-crews-central-africa-seamless-forecasting-and-warning,,2026-1
 AGO,2026-05-12-xaf-auc-status-of-deployment-of-puma-and-climsa-infrastructure,,2026-11-12
 BDI,2026-05-12-xaf-auc-status-of-deployment-of-puma-and-climsa-infrastructure,,2026-11-12
 BDI,2026-08-28-igebu-images-satellitaires-calques-dynamiques,,2026-10-19
+BDI,2026-11-04-bdi-alertes,,2026-11-12
 BEN,2024-09-17-ben-gouvbj-meteo-benin-systeme-satellitaire-eumetsat,,2026-10-19
 BEN,2026-05-18-au-int-amsaf-sewa-kickoff,,2026-10-19
 BFA,2024-07-01-bfa-snv-garbal-satellite-agrifood,,2026-10-19
@@ -15,6 +16,7 @@ BFA,2025-12-12-bfa-meteorologie-nationale-l-experience-du-burkina-faso-sur-l-ale
 BFA,2026-05-12-xaf-auc-status-of-deployment-of-puma-and-climsa-infrastructure,,2026-11-12
 BFA,2026-10-20-bfa-bulletin-agrometeorologique-decadaire,,2026-10-21
 BWA,2020-11-11-bwa-dailynews-china-pledges-meteorological-satellite-system,,2026-10-19
+BWA,2024-07-01-bwa-weather-monitoring-key-in-policymaking,,2026-11-12
 BWA,2026-05-12-xaf-auc-status-of-deployment-of-puma-and-climsa-infrastructure,,2026-11-12
 CAF,2025-08-07-asecna-eaip-feff-bangui-mpoko-met,,2026-10-19
 CAF,2025-11-19-wmo-crews-central-africa-seamless-forecasting-and-warning,,2026-10-19
@@ -47,6 +49,7 @@ COM,2025-11-18-wmo-crews-swio-project-comoros,,2026-10-19
 COM,2026-02-23-meteocomores-atelier-transformation-digitale-wigos-wis2,,2026-10-19
 COM,2026-05-12-xaf-auc-status-of-deployment-of-puma-and-climsa-infrastructure,,2026-11-12
 COM,2026-10-13-com-lagazette-inseed-laboratoire-cartographie-numerique,,2026-10-19
+COM,2026-10-27-com-meteo-comores-alertes,,2026-11-12
 CPV,2023-12-01-cpv-knmi-inmg-country-hydromet-diagnostics,,2026-10-19
 CPV,2025-04-30-soff-cabo-verde-soff-investment-phase-annual-report-2024,,2026-11-12
 CPV,2025-12-16-cabo-verde-maa-lancamento-alertas-precoces-para-todos-ew4all,,2026-10-19
@@ -64,9 +67,11 @@ DJI,2026-09-16-dji-lanation-previsions-meteo-wiser-action-first,,2026-10-19
 DZA,2018-03-23-dza-algerieeco-meteorologie-service-economie,,2026-10-19
 DZA,2019-06-01-dza-eu-twinning-fiche-onm-capacities,,2026-10-19
 DZA,2023-12-12-dza-asal-cntga-2023-geospatial-agriculture-conference,,2026-10-21
+DZA,2026-03-23-dza-algerie-l-onm-muscle-ses-moyens-pour-des-previsions-meteo-plus-precise,,2026-11-12
 DZA,2026-04-23-dza-onm-iso-9001-2015-renewal-tenth-year,,2026-11-12
 EGY,2014-12-01-egy-ema-wmo-rtc-cairo-training-book,,2026-10-19
 EGY,2022-01-24-egy-ahram-narss-satellite-receiving-station,,2026-10-19
+EGY,2024-01-20-egy-direct-line-between-early-warning-centre-cabinet-to-speed-up-warnings,,2026-11-12
 EGY,2024-06-11-egy-egypt-introduces-new-satellite-image-analysis-application-to-enhance-i,,2026-10-22
 EGY,2024-11-05-egy-narss-agriculture-ministry-launch-map-of-winter-crops,,2026-10-22
 EGY,2025-06-01-mcit-national-real-estate-id-press-release,,2026-10-21
@@ -125,6 +130,7 @@ GNB,2026-08-27-gnb-capacitacao-dos-quadros-de-sistemas-de-informacao-da-guine-bi
 GNB,2026-09-08-gnb-inm-nova-estacao-climsa-puma2025,,2026-10-19
 GNQ,2025-11-19-wmo-crews-central-africa-seamless-forecasting-and-warning,,2026-10-19
 GNQ,2026-02-12-wmo-strengthening-collaboration-central-africa-early-warnings,,2026-10-19
+GNQ,2026-09-17-gnq-guinea-ecuatorial-impulsa-una-iniciativa-estrategica-para-dotarse-de-s,,2026-11-12
 KEN,2024-08-28-ken-eumetsat-installs-receiving-stations-for-kenya-s-meteosat-third-genera,,2026-11-12
 KEN,2024-11-04-ken-puma-and-climsa-stations-tot-workshop,,2026-11-12
 KEN,2025-10-24-sewa-strengthening-early-warning-africa,,2026-10-19
@@ -142,6 +148,7 @@ LSO,2026-05-08-lesotho-national-spatial-development-infrastructure-policy-mahooa
 LSO,2026-05-12-xaf-auc-status-of-deployment-of-puma-and-climsa-infrastructure,,2026-11-12
 LSO,2026-06-25-lesotho-fews-net-food-security-outlook-june-2026,,2026-11-12
 LSO,2026-09-03-lso-lesotho-s-key-stakeholders-and-climate-technical-experts-gathered-to-d,,2026-11-12
+LSO,2026-09-10-lso-nul-developed-weather-app-adopted-by-lms,,2026-11-12
 LSO,2026-10-16-lso-beyond-the-harvest-can-agricultural-insurance-protect-lesotho-s-smallh,,2026-11-12
 MAR,2025-01-07-mar-aujourdhui-dgm-meteosat-troisieme-generation,,2026-10-19
 MAR,2025-03-22-mar-snrt-early-warning-how-meteorology-monitors-extreme-weather,,2026-11-12
@@ -213,6 +220,7 @@ RWA,2026-07-01-soff-rwanda-semi-annual-narrative-report-investment-phase-progres
 RWA,2026-07-13-rwa-undp-ai-ml-weather-feasibility-study,,2026-10-19
 SDN,2024-12-10-sdn-brazil-took-part-in-sudan-data-project,,2026-11-12
 SDN,2025-04-03-sdn-wmo-advancing-early-warnings-sudan,,2026-10-19
+SDN,2025-05-05-sdn-sudan-cima-research-foundation,,2026-11-12
 SDN,2025-09-05-sdn-meteosudan-jebel-marra-satellite-rainfall-analysis,,2026-11-12
 SDN,2026-03-13-sdn-advancing-multi-risk-early-warning-in-fragile-contexts-methodological,,2026-11-12
 SDN,2026-07-06-sdn-early-warning-systems-in-fragile-contexts-the-sudan-experience-where-h,,2026-11-12
@@ -223,11 +231,17 @@ SEN,2026-03-01-crews-senegal,,2026-11-12
 SEN,2026-05-18-eumetsat-amsaf-anacim-nowcasting-afrique-ouest,,2026-10-19
 SEN,2026-09-17-sen-centre-de-prevision-immediate-pour-l-afrique-de-l-ouest-abrite-par-l-a,,2026-11-12
 SLE,2023-10-25-gcf-sle-sap033-2023-climate-information-systems,,2026-10-19
+SLE,2024-04-10-sierra-leone-land-administration-project-isr-seq-4,,2026-11-12
 SLE,2025-01-16-sle-appropriation-act-2025-act-no-2-of-2025-companion,,2026-11-12
+SLE,2025-01-31-starlink-university-internet-elcome,,2026-11-12
+SLE,2025-05-16-sle-sierra-leone-launches-first-weather-index-insurance-for-farmers,,2026-11-12
 SLE,2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-climate-prog,,2026-11-12
 SLE,2026-03-01-crews-sierra-leone-2-0,,2026-11-12
 SLE,2026-03-05-sle-sierra-leone-publishes-first-cap-warning-advancing-early-warning-syste,,2026-11-12
+SLE,2026-03-13-natca-spectrum-pricing-mwc-barcelona,,2026-11-12
+SLE,2026-05-05-sierra-leone-400m-telecom-usage-gap,,2026-11-12
 SLE,2026-05-12-xaf-auc-status-of-deployment-of-puma-and-climsa-infrastructure,,2026-11-12
+SLE,2026-06-30-dsti-crs-geospatial-data-mou,,2026-11-12
 SOM,2025-02-20-gcf-multi-country-project-advancing-early-warnings-for-all-ew4all,,2026-11-12
 SOM,2025-04-01-som-somalia-drought-insurance-payout-bulletin-2024-25-deyr-season,,2026-10-22
 SOM,2025-04-01-somalia-country-hydromet-diagnostics,,2026-10-19
@@ -288,12 +302,16 @@ TGO,2026-01-01-tgo-anamet-satellite-products,,2026-10-19
 TGO,2026-05-12-xaf-auc-status-of-deployment-of-puma-and-climsa-infrastructure,,2026-11-12
 TUN,2024-09-16-eumetsat-user-forum-africa-tunisie-inm-meteosat,,2026-10-19
 TUN,2025-03-09-tun-cinq-radars-des-satellites-et-des-systemes-connectes-la-tunisie-muscle,,2026-11-12
+TUN,2025-04-22-tun-risques-climatiques-ahmed-hmam-appelle-a-renforcer-lalerte-precoce,,2026-11-12
 TZA,2024-02-01-tza-soff-country-hydromet-diagnostics,,2026-10-19
 TZA,2025-03-01-tza-nao-performance-audit-meteorological-services,,2026-10-19
 TZA,2025-04-23-soff-united-republic-of-tanzania-soff-investment-phase-annual-report-2024,,2026-11-12
 TZA,2026-05-12-xaf-auc-status-of-deployment-of-puma-and-climsa-infrastructure,,2026-11-12
 TZA,2026-10-31-tza-tanzania-expresses-interest-in-angosat-2,,2026-11-12
+UGA,2024-01-01-uga-unma-amendment-act-2024,,2026-11-12
 UGA,2024-04-01-uganda-country-hydromet-diagnostics,,2026-10-19
+UGA,2024-05-08-uga-uganda-aviation-could-lose-key-iso-certification-as-meteorological-aut,,2026-11-12
+UGA,2024-06-18-uga-fate-of-meteorology-staff-in-the-balance-after-merger,,2026-11-12
 UGA,2026-01-01-uga-mwe-forecasting-services-satellite-station,,2026-10-19
 UGA,2026-04-08-uga-govt-rolls-out-flood-detection-app,,2026-11-12
 UGA,2026-04-09-soff-uganda-soff-investment-phase-annual-narrative-report-2025,,2026-11-12

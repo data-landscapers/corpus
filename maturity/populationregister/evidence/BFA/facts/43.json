@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-11-bfa-operation-d-enregistrement-de-masse-de-l-identifiant-unique-le-capitaine-ibrah",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre de l'identifiant unique électronique",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "biometric unique-ID register",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": "The register is an ID register; the document does not say it serves as the population register."
+}

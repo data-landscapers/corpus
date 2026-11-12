@@ -1,0 +1,327 @@
+{
+ "slug": "2026-10-07-ago-africa-s-governments-already-treat-the-internet-as-protest-infrastruct",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "Global Voices says the co-founder of Jamii Forums was prosecuted under Tanzania's Cybercrimes Act in 2016.",
+       "as_of": "2016",
+       "date_precision": "year",
+       "system": "Cybercrimes Act",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Global Voices says Angola shut down its internet for the first time in late July 2025 during fuel-price protests.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "Global Voices cites Benin's Ignace Sossou as prosecuted for his posts in 2019.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Global Voices says Cameroon's Anglophone regions lost internet access for more than a year from January 2017 to clamp down on dissent.",
+       "as_of": "2017-01",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Global Voices says Fizi territory in South Kivu was offline for over a month from July 2026; the source gives no order.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Global Voices says Algeria has cut the national internet every year during the baccalaureate exams.",
+       "as_of": "2026-10-07",
+       "date_precision": "day",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "Global Voices cites Ethiopia's Zone 9 bloggers as prosecuted for their posts in 2014.",
+       "as_of": "2014",
+       "date_precision": "year",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Global Voices says Kenya blocked Telegram during its national examinations in 2023 and 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "Global Voices says two more journalists in Mali were prosecuted for their posts in June 2026.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Global Voices says Senegal's government cut mobile internet during the protests of June and July 2023.",
+       "as_of": "2023-06",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Global Voices says Togo's 2017 internet shutdown was held unlawful by the ECOWAS Court in June 2020 because Togo conceded no law authorised it.",
+       "as_of": "2017",
+       "date_precision": "year",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Global Voices says Tanzania cut the internet during its October 2025 election.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Global Voices says Uganda ordered a blackout before the January 2026 vote.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for the country."
+    },
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Global Voices says Zimbabwe's January 2019 shutdown directives were set aside by the High Court on the ground that the minister lacked power to issue them.",
+       "as_of": "2019-01",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

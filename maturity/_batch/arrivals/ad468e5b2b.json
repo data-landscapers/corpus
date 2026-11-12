@@ -1,0 +1,23 @@
+{
+ "slug": "2024-12-21-ssd-conflict-funding-gaps-hinder-data-collection-nbs",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Names only a MICS, Household Budget Survey and Labour Force Survey under way, none published, and no census."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "NBS head mentions NSDS-2 only as the framework for building the system, with no drafting, adoption or period stated."
+    }
+   }
+  }
+ }
+}

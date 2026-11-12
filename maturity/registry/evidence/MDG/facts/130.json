@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-17-mdg-mdat-deploiement-progressif-du-systeme-d-information-fonciere",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Systeme d'information foncier (SIF)",
+   "country_label": "Madagascar",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Decentralisation and Land Use Planning",
+   "tiers": "five pilot regions"
+  }
+ ],
+ "note": "Land system only; no civil registration stated."
+}

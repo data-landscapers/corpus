@@ -1,0 +1,8 @@
+{"slug": "2025-05-13-bfa-statistiques-le-burkina-faso-occupe-le-premier-rang-en-afrique-de-l-ou", "studies": {
+"internationalstandards": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Reports an ODIN rating; no standards body membership or adopted standard."}}},
+"opendatapolicy": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Mentions a portal and a rating but no open data policy."}}},
+"opendatause": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "leFaso.net reports INSD presented the Burkina open data platform, set up in 2016 with African Development Bank funding, where data is available in machine-readable Excel format.", "as_of": "2025-05-13", "date_precision": "day", "system": "Open data du Burkina platform", "class": "open"},
+{"sub_indicator": "use", "aspect": "breadth", "value": "several", "fact": "leFaso.net reports the Burkina open data platform brings together in one place the statistical outputs of the different ministries, with data on health, education and household living standards.", "as_of": "2025-05-13", "date_precision": "day", "system": "Open data du Burkina platform", "class": "open"}
+], "systems": [{"system": "Open data du Burkina platform", "country_label": "Burkina Faso (burkinafaso.opendataforafrica.org)", "class": "open", "platform": "web portal", "owner": "INSD", "tiers": ""}], "note": ""}}}
+}}

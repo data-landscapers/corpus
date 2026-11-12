@@ -1,0 +1,636 @@
+{
+ "slug": "2025-01-01-nga-transparency-and-accountability-as-trust-builders-in-the-african-data",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Pollicy says a proposed Law on Access to Information introduced by Senator Moise Nyarugabo remains pending approval by Parliament in the DRC.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Proposed Law on Access to Information",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Pollicy says Kenya's Access to Information Act of 2016 sets the process for requesting and handling information applications.",
+       "as_of": "2016",
+       "date_precision": "year",
+       "system": "Access to Information Act 2016",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Pollicy says Morocco's Law No. 31-13 on the right to access information came into full effect in 2020.",
+       "as_of": "2020",
+       "date_precision": "year",
+       "system": "Law No. 31-13",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Pollicy says Nigeria's Freedom of Information Act, enacted in 2011, grants citizens access to public records.",
+       "as_of": "2011",
+       "date_precision": "year",
+       "system": "Freedom of Information Act",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Pollicy says South Africa has the Promotion of Access to Information Act 2 of 2000, which requires public and private entities to disclose information on request.",
+       "as_of": "2000",
+       "date_precision": "year",
+       "system": "PAIA",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "rules",
+       "fact": "Pollicy says South Africa established the Information Regulator to oversee, promote and enforce compliance with the Act.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Information Regulator",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "admindata": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "Pollicy says the Kenya Open Data Initiative portal provides data such as the 2019 census.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "2019 census",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "announced",
+       "fact": "Pollicy says the DRC launched the Plan National du Num\u00e9rique in 2019 as a strategic framework for the digital economy.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "Plan National du Num\u00e9rique",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Plan National du Num\u00e9rique",
+       "country_label": "Plan National du Num\u00e9rique",
+       "platform": "",
+       "owner": "",
+       "tiers": "",
+       "class": "national"
+      }
+     ],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ITIE-RDC Open Data Policy",
+       "country_label": "ITIE-RDC Open Data Policy",
+       "platform": "",
+       "owner": "",
+       "tiers": "",
+       "class": "other"
+      }
+     ],
+     "note": "ITIE-RDC policy of December 2017 covers the extractive sector only, so is not a national open data policy."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Pollicy says Nigeria's Open Data Policy was introduced in 2018 and treats government information as a national asset.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Open Data Policy",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Open Data Policy",
+       "country_label": "Open Data Policy",
+       "platform": "",
+       "owner": "",
+       "tiers": "",
+       "class": "policy"
+      }
+     ],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "Pollicy says the DRC open data portal, supported by the AfDB's Open Data for Africa with contributions from the National Statistics Institute, has not been updated recently.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "drcongo.opendataforafrica.org",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "drcongo.opendataforafrica.org",
+       "country_label": "drcongo.opendataforafrica.org",
+       "platform": "",
+       "owner": "",
+       "tiers": "",
+       "class": "open"
+      }
+     ],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "Pollicy says the Kenya Open Data Initiative portal, supported by the Kenya National Bureau of Statistics, gives free access to government data in machine-readable formats.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "kenya.opendataforafrica.org",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "kenya.opendataforafrica.org",
+       "country_label": "kenya.opendataforafrica.org",
+       "platform": "",
+       "owner": "",
+       "tiers": "",
+       "class": "open"
+      }
+     ],
+     "note": ""
+    },
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "Pollicy says Morocco's data.gov.ma portal, managed by the Digital Development Agency, provides access to public sector data.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "data.gov.ma",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "data.gov.ma",
+       "country_label": "data.gov.ma",
+       "platform": "",
+       "owner": "",
+       "tiers": "",
+       "class": "open"
+      }
+     ],
+     "note": ""
+    },
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "Pollicy says the Nigeria Data Portal, managed by the National Bureau of Statistics, offers data on health, agriculture, education, trade and investment.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Nigeria Data Portal",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nigeria Data Portal",
+       "country_label": "Nigeria Data Portal",
+       "platform": "",
+       "owner": "",
+       "tiers": "",
+       "class": "open"
+      }
+     ],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "Pollicy says South Africa's National Data Portal (data.gov.za), led by the Department of Public Service and Administration, is a government open data portal.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "data.gov.za",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "data.gov.za",
+       "country_label": "data.gov.za",
+       "platform": "",
+       "owner": "",
+       "tiers": "",
+       "class": "open"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

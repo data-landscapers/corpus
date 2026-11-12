@@ -1,14 +1,1 @@
-{
- "slug": "2026-07-08 China funds Namibia digital infrastructure",
- "studies": {
-  "offsitebackup": {
-   "countries": {
-    "NAM": {
-     "facts": [],
-     "systems": [],
-     "note": "No backup or disaster-recovery site stated; the data centre named is the primary site."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-07-08 China funds Namibia digital infrastructure", "studies": {"localgov": {"countries": {"NAM": {"facts": [], "systems": [{"system": "Windhoek People-Centred Smart City Strategy (2026-2036)", "country_label": "Windhoek smart city programme", "class": "city-systems", "platform": "Huawei", "owner": "Ministry of Home Affairs / MICT", "tiers": ""}], "note": "The document covers a funded smart city programme and states no connection at a local government office."}}}, "offsitebackup": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No backup or disaster-recovery site stated; the data centre named is the primary site."}}}}}

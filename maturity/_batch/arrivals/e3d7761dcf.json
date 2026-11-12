@@ -1,0 +1,4 @@
+{"slug": "2025-10-09-tcd-securite-le-tchad-franchit-un-cap-decisif-dans-la-modernisation-de-son", "studies": {
+"idrobustness": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Describes a police information system and a fingerprint tool, not a national ID system."}}},
+"police": {"countries": {"TCD": {"facts": [], "systems": [{"system": "SIPT (Système d'Information Policière du Tchad)", "country_label": "Chad", "class": "other", "platform": "national police data platform", "owner": "Ministry of Public Security, supported by EU and INTERPOL", "tiers": ""}, {"system": "SAED fingerprint system", "country_label": "Chad", "class": "other", "platform": "AFIS", "owner": "CREDOP", "tiers": ""}], "note": "Document describes information sessions and a phased rollout to courts; it does not say stations enter reports or cases in the system."}}}
+}}

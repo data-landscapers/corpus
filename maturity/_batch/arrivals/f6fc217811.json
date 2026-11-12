@@ -1,0 +1,137 @@
+{
+ "slug": "2025-05-12-ago-bna-submete-a-consulta-publica-projecto-sobre-conta-fiduciaria-para-mo",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "drafting",
+       "fact": "Portal de TI reports that Banco Nacional de Angola is drafting a notice on trust accounts of e-money issuing payment service providers, now in public consultation.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "Projecto de Aviso sobre Contas Fiduci\u00e1rias",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Portal de TI reports that Banco Nacional de Angola put out for public consultation a draft notice setting the rules for trust accounts held by payment service providers that issue e-money.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "Projecto de Aviso sobre Contas Fiduci\u00e1rias",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "Portal de TI reports that Banco Nacional de Angola opened a public consultation on its draft notice on e-money trust accounts, and ran one on the National Financial Inclusion Strategy from 31 March to 30 April 2025.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "BNA public consultation",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing for Angola that answers this study."
+    }
+   }
+  }
+ }
+}

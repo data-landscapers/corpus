@@ -1,0 +1,15 @@
+{"slug": "2025-07-27-tun-inclusion-financiere-mondiale-un-record-historique-de-titulaires-de-co", "studies": {
+"businesspayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document gives central bank data but does not say the bank licenses or oversees anything."}}},
+"consumerprotection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a global remark on consumer protection; nothing on Tunisia."}}},
+"crossborderpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"mobilepenetration": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The 86% phone ownership figure is global, not for Tunisia."}}},
+"paymentsuptake": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "uptake", "aspect": "share", "value": "quarter", "fact": "Tunisie Numerique, citing the World Bank, says 37% of Tunisians held a financial account in 2024, 29% of women and 32% of low-income people.", "as_of": "2024", "date_precision": "year", "system": "Global Findex 2025", "class": "survey"}
+], "systems": [{"system": "Global Findex 2025", "country_label": "Tunisia", "class": "survey", "platform": "", "owner": "World Bank", "tiers": ""}], "note": ""}}},
+"retailpayments": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Tunisie Numerique, citing Central Bank data for the first half of 2025, says Tunisia had 371,000 e-wallets across 16 authorised mobile service providers, used for transfers, payments and cash withdrawals.", "as_of": "2025-06", "date_precision": "month", "system": "e-wallets", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}}
+}}

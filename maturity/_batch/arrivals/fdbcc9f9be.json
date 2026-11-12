@@ -1,4 +1,1 @@
-{"slug": "2024-10-16-tgo-plateforme-saisine-en-ligne-cour-arbitrage-du-togo-cato", "studies": {
-"schoolinternet": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing stated on schools; the story is an arbitration court platform."}}},
-"taxadmin": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing stated on tax filing or payment."}}}
-}}
+{"slug": "2024-10-16-tgo-plateforme-saisine-en-ligne-cour-arbitrage-du-togo-cato", "studies": {"justice": {"countries": {"TGO": {"facts": [], "systems": [{"system": "CATO online filing platform", "country_label": "Plateforme de saisine en ligne de la CATO", "class": "other", "platform": "", "owner": "Cour d'Arbitrage et de mediation du Togo", "tiers": ""}], "note": "The platform serves the arbitration and mediation court, not the state courts' case management, so it is other."}}}, "schoolinternet": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing stated on schools; the story is an arbitration court platform."}}}, "taxadmin": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing stated on tax filing or payment."}}}}}

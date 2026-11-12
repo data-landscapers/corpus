@@ -1,0 +1,4 @@
+{"slug": "2026-11-04-bdi-alertes", "studies": {
+"agrisatellite": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Rain alerts archive; no satellite use in farming stated."}}},
+"metsatellite": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Graded rain alerts listed; no satellite data named as their basis."}}}
+}}

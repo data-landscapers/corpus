@@ -1,0 +1,10 @@
+{"slug": "2025-12-10-com-communique-de-la-banque-centrale-des-comores-sur-l-exercice-illegal-d", "studies": {
+"businesspayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"COM": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "The Banque Centrale des Comores states that authorising banks and financial institutions is its exclusive remit and lists Telco Money SA and Hury Money SA as the legally established e-money institutions.", "as_of": "2025-12-10", "date_precision": "day", "system": "BCC list of authorised institutions", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"COM": {"facts": [], "systems": [], "note": "Warning against fake offshore banks; no consumer-protection rules for digital finance stated."}}},
+"crossborderpayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"paymentsuptake": {"countries": {"COM": {"facts": [], "systems": [], "note": "Gives no survey figure."}}},
+"retailpayments": {"countries": {"COM": {"facts": [], "systems": [{"system": "Telco Money SA", "country_label": "Comoros", "class": "retail", "platform": "", "owner": "", "tiers": ""}, {"system": "Hury Money SA", "country_label": "Comoros", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": "E-money institutions are listed as established, not stated to be in service."}}},
+"revenuecollection": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}}
+}}

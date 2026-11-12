@@ -1,0 +1,14 @@
+{"slug": "2026-11-11-tun-bancarisation-en-tunisie-moins-de-comptes-plus-d-agences-quel-cap", "studies": {
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on a rule or authority against AI harms."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on AI used by a government body."}}},
+"aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on AI in a sector's public system."}}},
+"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on AI built or hosted."}}},
+"businesspayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Article cites the central bank's supervision report; no payments mandate, licensing or switch stated."}}},
+"consumerprotection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payment channels."}}},
+"g2ppayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+"paymentsuptake": {"countries": {"TUN": {"facts": [{"sub_indicator": "uptake", "aspect": "share", "value": "quarter", "fact": "Challenges TN, citing Global Findex, says 37.8 per cent of Tunisian adults held an account with a financial institution or mobile money service in 2024.", "as_of": "2024", "date_precision": "year", "system": "Global Findex 2024", "class": "survey"}], "systems": [{"system": "Central Bank of Tunisia bank accounts count 2025", "country_label": "10.5 million accounts", "class": "other", "platform": "", "owner": "Central Bank of Tunisia", "tiers": ""}], "note": ""}}},
+"retailpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a sidebar headline mentions wallets rising; no service statement in the article itself."}}},
+"revenuecollection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated on electronic revenue payment."}}}
+}}

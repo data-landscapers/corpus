@@ -1,0 +1,209 @@
+{
+ "slug": "2026-01-01-rwa-rwanda-advancing-science-through-the-development-of-artificial-intelli",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Rwanda."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The International Science Council chapter says Rwanda's National AI Policy, developed by MINICT and RISA, was approved in April 2023.",
+       "as_of": "2023-04",
+       "date_precision": "month",
+       "system": "National AI Policy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National AI Policy",
+       "country_label": "National AI Policy (2023)",
+       "class": "strategy",
+       "platform": "",
+       "owner": "MINICT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "begun",
+       "fact": "The chapter says the University of Rwanda's ACEIoT hosts a Transformative AI Research and Innovation Lab, funded by IDRC, that links research to policy and practice.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "TAIRI Lab, University of Rwanda",
+       "class": "research"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TAIRI Lab",
+       "country_label": "University of Rwanda ACEIoT",
+       "class": "research",
+       "platform": "",
+       "owner": "University of Rwanda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The chapter cites NISR's Fourth National Strategy for the Development of Statistics (2024-2029), which stresses intensive use of AI for data analysis.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "NSDS4",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NSDS4",
+       "country_label": "NSDS4 2024-2029",
+       "class": "strategy",
+       "platform": "",
+       "owner": "NISR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{"slug":"2024-03-03-mrt-la-bcm-fixe-le-montant-quotidien-autorise-pour-les-transferts-au-nivea","studies":{
+"businesspayments":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"MRT":{"facts":[],"systems":[],"note":"BCM decisions set limits but the document does not state licensing of providers, a switch or PAPSS."}}},
+"consumerprotection":{"countries":{"MRT":{"facts":[],"systems":[],"note":"No consumer protection or complaints rule stated."}}},
+"crossborderpayments":{"countries":{"MRT":{"facts":[],"systems":[],"note":"No cross-border payments mentioned."}}},
+"g2ppayments":{"countries":{"MRT":{"facts":[],"systems":[],"note":"No government payments to people mentioned."}}},
+"paymentslaw":{"countries":{"MRT":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The Central Bank of Mauritania adopted decisions organising electronic payment services and means, setting daily transfer, withdrawal and balance limits for mobile payment accounts and due-diligence duties on providers.","as_of":"2024-03-03","date_precision":"day","system":"BCM decisions on electronic payment services","class":"law"}],"systems":[{"system":"BCM electronic payment decisions","country_label":"Mauritania","class":"law","platform":"","owner":"Banque centrale de Mauritanie","tiers":""}],"note":"Non-bank licensing and connection duty not stated."}}},
+"paymentsuptake":{"countries":{"MRT":{"facts":[],"systems":[],"note":"No survey account share stated."}}},
+"retailpayments":{"countries":{"MRT":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Per Sahara Medias, BCM set limits on money transfers, merchant payments, airtime and bill payments made through phone-based payment applications, which implies these services run.","as_of":"2024-03-03","date_precision":"day","system":"mobile payment applications","class":"retail"}],"systems":[{"system":"mobile payment applications","country_label":"Mauritania","class":"retail","platform":"mobile","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Bill payments for water and electricity mentioned, but no tax or fee payment to the state stated."}}}
+}}

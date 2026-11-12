@@ -1,0 +1,176 @@
+{
+ "slug": "2025-01-01-ben-transformer-les-donnees-geospatiales-du-benin-en-levier-de-politique-p",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Numericite says Benin's digital transformation is carried by its National AI and Big Data Strategy (SNIAM 2023-2027).",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "SNIAM 2023-2027",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SNIAM",
+       "country_label": "SNIAM 2023-2027",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for the country."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Interoperability scheme (X-Road)",
+       "country_label": "Benin X-Road interoperability scheme",
+       "class": "exchange",
+       "platform": "X-Road",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "An X-Road based interoperability scheme is called a solid base; the document does not say it is live."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Numericite lists a cadastre platform among Benin's GIS platforms developed in silos and calls their maintenance complex.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "cadastre platform",
+       "class": "land"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns national geospatial platforms, not local government office connections."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Numericite says a legal framework on opening public data is in the course of being adopted in Benin.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "open public data legal framework",
+       "class": "policy"
+      },
+      {
+       "sub_indicator": "policy",
+       "aspect": "use",
+       "value": "portal",
+       "fact": "Numericite says the data.gouv.bj open data portal, run by ASIN, is a national device of Benin's open data policy.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "data.gouv.bj",
+       "class": "policy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "Numericite says the national portal data.gouv.bj is run by ASIN as part of Benin's open data effort.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "data.gouv.bj",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "data.gouv.bj",
+       "country_label": "data.gouv.bj",
+       "class": "open",
+       "platform": "",
+       "owner": "ASIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

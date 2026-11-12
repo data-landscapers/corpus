@@ -1,0 +1,65 @@
+{
+ "slug": "2024-08-01-gnq-intervencion-de-eg-justice-libertad-de-expresion-y-derechos-digitales",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "EG Justice, IPI and Small Media Foundation refer to Equatorial Guinea's Data Protection Law of 2016 and call for rules to guide its application.",
+       "as_of": "2016",
+       "date_precision": "year",
+       "system": "Data Protection Law of 2016",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "EG Justice, IPI and Small Media Foundation say six activists were convicted over a conversation in a private WhatsApp group; the date is not given.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      },
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "The same submission says at least 11 journalists were detained or dismissed for their work between 2019 and 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "",
+       "class": "discussion"
+      },
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "The same submission says the government cut internet temporarily, in Annobon and nationally; the dates are not given.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

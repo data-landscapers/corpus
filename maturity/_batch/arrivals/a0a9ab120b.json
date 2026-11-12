@@ -1,0 +1,12 @@
+{"slug": "2024-08-01-gnq-keepiton-las-autoridades-de-guinea-ecuatorial-deben-poner-fin-al-bloqu", "studies": {
+"ictstrategy": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Document is about an internet shutdown; says nothing on an ICT sector policy."}}},
+"opendatause": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Says nothing on published open data."}}},
+"opendiscussion": {"countries": {"GNQ": {"facts": [
+{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The #KeepItOn coalition says mobile service and internet access in Annobon have been restricted since 20 July 2024, after the government's security forces responded to protests there with arrests.", "as_of": "2024-07-20", "date_precision": "day", "system": "Annobon shutdown", "class": "discussion"},
+{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "The #KeepItOn coalition says 16 people who signed a letter to the government asking it to stop dynamite use were detained, and security forces held at least 33 people in connection with the Annobon protests.", "as_of": "2024-07", "date_precision": "month", "system": "Annobon protest detentions", "class": "discussion"}
+], "systems": [], "note": ""}}},
+"policyresearch": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Says nothing on local digital policy research."}}},
+"satellitebroadband": {"countries": {"GNQ": {"facts": [
+{"sub_indicator": "satellite", "aspect": "service", "value": "none", "fact": "The #KeepItOn coalition says Equatorial Guinea's government banned the sale and use of unauthorised satellite internet services and equipment on 2 August 2024 and on 5 August ordered Starlink to suspend all services and apply for a licence.", "as_of": "2024-08-05", "date_precision": "day", "system": "Starlink", "class": "satellite"}
+], "systems": [{"system": "Starlink", "country_label": "Equatorial Guinea", "class": "satellite", "platform": "low-orbit satellite", "owner": "Starlink", "tiers": ""}], "note": ""}}}
+}}

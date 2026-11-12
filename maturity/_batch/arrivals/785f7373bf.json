@@ -1,0 +1,64 @@
+{
+ "slug": "2026-08-05-nam-nsa-releases-2023-census-public-use-microdata-sample-pums-for-public-a",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The Namibia Statistics Agency states it has released the 2023 Population and Housing Census Report and a 2023 census public use microdata sample.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "2023 Population and Housing Census",
+       "class": "census"
+      },
+      {
+       "sub_indicator": "census",
+       "aspect": "results",
+       "value": "final",
+       "fact": "The Namibia Statistics Agency says census summary tables were released in October 2024, January 2025 and July 2026, following the 2023 Population and Housing Census Report.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "2023 Population and Housing Census",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "2023 Population and Housing Census",
+       "country_label": "Census 2023",
+       "class": "census",
+       "platform": "",
+       "owner": "Namibia Statistics Agency",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Namibia Statistics Agency cites section 44(2) of the Statistics Act no 9 of 2011 as the law governing release of census records.",
+       "as_of": "2011",
+       "date_precision": "year",
+       "system": "Statistics Act no 9 of 2011",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

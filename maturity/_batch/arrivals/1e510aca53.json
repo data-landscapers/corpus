@@ -1,0 +1,316 @@
+{
+ "slug": "2026-04-27-tcd-internet-shutdowns-won-t-solve-central-africa-s-political-crises",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    }
+   }
+  },
+  "ictjobs": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "ISS Africa lists the Central African Republic among six Central African countries with an internet shutdown recorded in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "ISS Africa lists Cameroon among six Central African countries with an internet shutdown recorded in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "ISS Africa lists the Democratic Republic of the Congo among six Central African countries with an internet shutdown recorded in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "ISS Africa says an ad hoc internet shutdown occurred in Congo-Brazzaville during its March 2026 presidential polls.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "ISS Africa says social media access in Gabon has been blocked since February 2026, cutting off at least 800,000 users from Facebook, WhatsApp, Instagram, YouTube and TikTok; the government announced gradual lifting on 1 April but access remains hindered.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "ISS Africa says Equatorial Guinea had a 14-month targeted internet shutdown on Annobon Island from August 2024.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "ISS Africa says that since November 2024 mobile internet has been cut in Chad's Lake Province after a Boko Haram attack and the counter-offensive.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on internet shutdowns; states nothing for this study."
+    }
+   }
+  }
+ }
+}

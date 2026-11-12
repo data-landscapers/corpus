@@ -1,0 +1,13 @@
+{"slug": "2026-04-14-lby-governor-of-the-central-bank-of-libya-discusses-with-the-international", "studies": {
+"businesspayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "The Central Bank of Libya says it holds a licensing regulation for electronic payment companies, which it intends to update with IMF technical support to prepare initial drafts.", "as_of": "2026-04-14", "date_precision": "day", "system": "Licensing regulation for electronic payment companies", "class": "oversight"}
+], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection rules or redress."}}},
+"crossborderpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"internationalstandards": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only FATF and cybersecurity standards are mentioned as alignment aims; no ISO/IEC standard or membership stated."}}},
+"paymentsuptake": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document gives no survey share of adults with an account."}}},
+"retailpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document does not state a mobile money or e-money service in service."}}},
+"revenuecollection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}}
+}}

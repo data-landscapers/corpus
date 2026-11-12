@@ -1,0 +1,6 @@
+{"slug": "2025-01-01-civ-a-feat-achieved-through-the-use-of-sdmx", "studies": {
+"agrisatellite": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document states nothing on satellite data in farming."}}},
+"opendatapolicy": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document states no open data policy."}}},
+"opendatause": {"countries": {"CIV": {"facts": [{"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "ANStat's Open Data Portal coordinator reports that for the 2024/25 ODIN assessment the agency centralised its data categories as datasets on its Open Data Portal, downloadable in several formats such as Excel, PDF and PNG.", "as_of": "2025", "date_precision": "year", "system": "ANStat Open Data Portal", "class": "open"}], "systems": [{"system": "Open Data Portal (ODP)", "country_label": "ANStat Open Data Portal, Côte d'Ivoire", "class": "open", "platform": "SDMX-based ODP", "owner": "ANStat", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document states nothing on school internet or curriculum."}}}
+}}

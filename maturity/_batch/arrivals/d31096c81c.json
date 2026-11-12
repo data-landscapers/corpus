@@ -1,0 +1,97 @@
+{
+ "slug": "2024-09-05-mar-morocco-s-dgsn-strengthens-it-system-with-9-2-million-equipment-purcha",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states only equipment purchases and a police station system pilot; nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states only equipment purchases and a police station system pilot; nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states only equipment purchases and a police station system pilot; nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states only equipment purchases and a police station system pilot; nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states only equipment purchases and a police station system pilot; nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states only equipment purchases and a police station system pilot; nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states only equipment purchases and a police station system pilot; nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "record",
+       "aspect": "stations",
+       "value": "pilot",
+       "fact": "Morocco World News reports the DGSN's Police District Management Information System (GESTARR) is in experimental use in 350 police stations in the prefectures of Kenitra, Tangier, Meknes, Marrakech, Settat and the provincial security of Safi.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "GESTARR",
+       "class": "record"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GESTARR",
+       "country_label": "Morocco",
+       "class": "record",
+       "platform": "",
+       "owner": "DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

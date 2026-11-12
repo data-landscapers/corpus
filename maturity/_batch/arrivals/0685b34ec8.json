@@ -1,0 +1,104 @@
+{
+ "slug": "2024-08-07-cod-law-and-technologies-fait-des-recommandations-au-gouvernement-et-au-se",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "Think Tank Law and Technologies said on 6 August 2024 that the data protection authority created by article 262 of the digital code is not yet operational and needs a decree fixing its organisation.",
+       "as_of": "2024-08-06",
+       "date_precision": "day",
+       "system": "Data protection authority, article 262 of the digital code",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Think Tank Law and Technologies' study of the legal framework for personal data protection in the DRC, presented on 6 August 2024, treats the digital code as the law in force.",
+       "as_of": "2024-08-06",
+       "date_precision": "day",
+       "system": "Digital code (code du numérique)",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "Think Tank Law and Technologies' study, presented 6 August 2024, treats the digital code's personal data rules as the law in force.",
+       "as_of": "2024-08-06",
+       "date_precision": "day",
+       "system": "Digital code (code du numérique)",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "none",
+       "fact": "Think Tank Law and Technologies said on 6 August 2024 that the authority created by article 262 of the digital code still has to be made operational by decree.",
+       "as_of": "2024-08-06",
+       "date_precision": "day",
+       "system": "Data protection authority",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "publishing",
+       "fact": "Think Tank Law and Technologies, a Kinshasa study bureau, published its first study on the legal framework for personal data protection in the DRC on 6 August 2024.",
+       "as_of": "2024-08-06",
+       "date_precision": "day",
+       "system": "Think Tank Law and Technologies",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says Malabo ratification must still be finalised by depositing instruments; no signature or ratification date is stated."
+    }
+   }
+  }
+ }
+}

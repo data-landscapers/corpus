@@ -1,0 +1,32 @@
+{
+ "slug": "2026-02-27-civ-cote-divoire-faut-il-une-agence-pour-organiser-et-valoriser-les-donnee",
+ "studies": {
+  "datagovernance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document mentions a national data governance strategy without saying whether it is adopted or a draft."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

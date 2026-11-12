@@ -1,0 +1,9 @@
+{"slug": "2026-05-07-cmr-bold-initiatives-are-being-undertaken-at-accelerating-digital-transfor", "studies": {
+"aiabuse": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing stated on a rule or authority against AI harms."}}},
+"aigovernment": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing stated on AI in use in government."}}},
+"aisectoral": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing stated on AI in a sector's public system."}}},
+"aistrategy": {"countries": {"CMR": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The PATNUC national coordinator says the Ministry of Posts and Telecommunications has elaborated an AI strategic development plan that is receiving attention at government level and awaits validation by the competent institutions.", "as_of": "2026-05-07", "date_precision": "day", "system": "AI strategic development plan", "class": "strategy"}], "systems": [{"system": "AI strategic development plan", "country_label": "Cameroon", "class": "strategy", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing stated on AI built or hosted in the country."}}},
+"dataprotectionlaw": {"countries": {"CMR": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "The PATNUC national coordinator says the Parliament debated and validated and the Head of State promulgated into law legislation on personal data protection, prepared by the Ministry of Posts and Telecommunications.", "as_of": "2026-05-07", "date_precision": "day", "system": "personal data protection law", "class": "general"}], "systems": [], "note": ""}}},
+"opendatause": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Only a draft open data bill is mentioned; no data published for download is stated."}}}
+}}

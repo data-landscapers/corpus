@@ -1,0 +1,83 @@
+{
+ "slug": "2025-11-10-gha-inside-gimpa-law-school-s-landmark-submission-on-ghana-s-misinformatio",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Desmond Israel of GIMPA Law School, in Adomonline, refers to Ghana's Right to Information Act as an existing law with which the draft bill's defences should be harmonised.",
+       "as_of": "2025-11-10",
+       "date_precision": "day",
+       "system": "Right to Information Act",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "debate",
+       "value": "criticised",
+       "fact": "GIMPA Law School's Department of Public Law and Governance filed a submission on 10 November 2025 criticising the draft Misinformation, Disinformation, Hate Speech and Publication of Other Information Bill 2025 as strict liability for speech and executive overreach.",
+       "as_of": "2025-11-10",
+       "date_precision": "day",
+       "system": "MDHI Bill 2025",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "Adomonline says the Ministry of Communication, Digital Technology and Innovations invited public comments on the draft MDHI Bill 2025, and GIMPA Law School filed a submission on 10 November 2025.",
+       "as_of": "2025-11-10",
+       "date_precision": "day",
+       "system": "MDHI Bill 2025",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

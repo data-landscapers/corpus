@@ -1,0 +1,7 @@
+{"slug": "2026-11-11-sdn-aljazeera-criminal-act-article-51a-electronic-publishing-reactions", "studies": {
+"internationalstandards": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Document is about a criminal law amendment; says nothing on IT standards."}}},
+"opendiscussion": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "Al Jazeera Net reports that the General Union of Sudanese Journalists and the Emergency Lawyers group criticised a temporary constitutional decree amending Article 51/A of the 1991 Criminal Act to cover electronic publishing, the union saying the press was not consulted.", "as_of": "2026-11", "date_precision": "month", "system": "Article 51/A amendment", "class": "discussion"}
+], "systems": [], "note": "The amendment widens an offence to electronic publishing, but no one is reported charged under it."}}},
+"regionallaw": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Says nothing on a shared African digital law."}}}
+}}

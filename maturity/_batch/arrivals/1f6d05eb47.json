@@ -1,0 +1,20 @@
+{"slug": "2026-04-12-dji-djibouti-and-somalia-launch-joint-initiative-to-advance-ai-in-the-soma", "studies": {
+"aiabuse": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "A research project on fake-news detection is not a rule or authority."},
+"SOM": {"facts": [], "systems": [], "note": "A research project on fake-news detection is not a rule or authority."}}},
+"aigovernment": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "No government AI use stated."},
+"SOM": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."},
+"SOM": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {
+"DJI": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Africa Insight reports that on 6 April 2026 the University of Djibouti (CRMN and CEALT) and Jamhuuriya University launched the Somali-Language AI & Innovation Lab (SAIL) and a Somali fake-news detection research project using NLP and deep learning, with machine translation and voice assistants as long-term aims.", "as_of": "2026-04-06", "date_precision": "day", "system": "Somali-Language AI & Innovation Lab (SAIL)", "class": "localai"}], "systems": [{"system": "Somali-Language AI & Innovation Lab (SAIL)", "country_label": "SAIL", "class": "localai", "platform": "", "owner": "University of Djibouti and Jamhuuriya University", "tiers": ""}], "note": ""},
+"SOM": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Africa Insight reports that the Somali-Language AI & Innovation Lab (SAIL) and a Somali fake-news detection project were launched in Mogadishu on 6 April 2026 with Jamhuuriya University of Science and Technology as partner.", "as_of": "2026-04-06", "date_precision": "day", "system": "Somali-Language AI & Innovation Lab (SAIL)", "class": "localai"}], "systems": [{"system": "Somali-Language AI & Innovation Lab (SAIL)", "country_label": "SAIL", "class": "localai", "platform": "", "owner": "Jamhuuriya University and University of Djibouti", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "Sovereignty mentioned in general terms only."},
+"SOM": {"facts": [], "systems": [], "note": "Sovereignty mentioned in general terms only."}}},
+"refugees": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "Nothing on refugees in this document."},
+"SOM": {"facts": [], "systems": [], "note": "Nothing on refugees in this document."}}}
+}}

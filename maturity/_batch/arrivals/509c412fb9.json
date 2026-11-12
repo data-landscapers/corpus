@@ -1,0 +1,11 @@
+{"slug":"2026-11-10-tun-paiement-mobile-en-tunisie-7-1-millions-de-transactions-et-une-croissa","studies":{
+"businesspayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document gives BCT data but does not say the BCT licenses, oversees a switch or is on PAPSS."}}},
+"consumerprotection":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on consumer rules or complaints."}}},
+"crossborderpayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on government payments to people."}}},
+"paymentslaw":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states no law or rules; only usage data."}}},
+"paymentsuptake":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Wallet counts only, no survey of adults."}}},
+"retailpayments":{"countries":{"TUN":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Tunisie Numerique, citing BCT data to end-September 2026, reports 719,000 e-wallets and 7.1 million wallet transactions, 64.2% of them payments.","as_of":"2026-09-30","date_precision":"day","system":"e-wallets (BCT Paiement Mobile data)","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing on tax or fee payment."}}}
+}}

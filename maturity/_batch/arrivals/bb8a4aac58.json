@@ -1,0 +1,6 @@
+{"slug": "2024-02-04-egy-artificial-intelligence-data-and-platform-work-mena-cases-studies-and", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated on a rule or authority against AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated on AI in use in government."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated on AI in a sector's public system."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [{"system": "MENA AI Observatory", "country_label": "Egypt", "class": "other", "platform": "", "owner": "A2K4D, American University in Cairo", "tiers": ""}], "note": "The MENA AI Observatory is a resource hub, not an AI model, dataset or computing."}}}
+}}

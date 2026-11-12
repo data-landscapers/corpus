@@ -1,0 +1,102 @@
+{
+ "slug": "2026-10-01-tcd-tchad-la-protection-des-donnees-au-cur-des-echanges-a-n-djamena",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "At a 30 September to 1 October 2026 workshop in N'Djamena, participants reviewed Chad's personal data protection law, and ACSIS-Tchad said the country's problem is that existing laws are not applied.",
+       "as_of": "2026-10-01",
+       "date_precision": "day",
+       "system": "Personal data protection law",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "At a 30 September to 1 October 2026 workshop, participants reviewed Chad's personal data protection law, and ACSIS-Tchad said existing laws are not applied.",
+       "as_of": "2026-10-01",
+       "date_precision": "day",
+       "system": "Personal data protection law",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "ratified",
+       "fact": "ACSIS-Tchad's representative said Chad was among the first African countries to ratify the Malabo Convention.",
+       "as_of": "2026-10-01",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document mentions only a future digital code, no strategy."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Event was run by Paradigm Initiative with ACSIS-Tchad; no local research institution or study is stated."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "ratified",
+       "fact": "ACSIS-Tchad's representative said Chad was among the first African countries to ratify the Malabo Convention.",
+       "as_of": "2026-10-01",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}
