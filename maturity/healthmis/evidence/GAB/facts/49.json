@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-24-gab-egabon-sis-une-reussite-collective-portee-par-l-expertise-technique-na",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ANINF says the eGabon-SIS project, closed on 24 June 2026 with World Bank support, deployed the Health Information System (Systeme d'Information Sanitaire) in 13 pilot civil and military hospitals.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "eGabon-SIS Health Information System",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

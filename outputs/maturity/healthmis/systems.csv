@@ -52,6 +52,7 @@ COD,DHIS2 (national HMIS),DRC,hmis,DHIS2,Ministry of Health,"zonal, provincial, 
 COD,DHIS2 EVD Tracker,DRC,other,DHIS2 Tracker,Ministry of Health with HISP DRC and RTI,national,2025-12-22-dhis2-drc-ebola-response-2025
 COD,eIDSR on national DHIS2 platform,DRC,hmis,DHIS2,"Ministry of Public Health, DSNIS and Directorate of Disease Surveillance","health centre, health zone, province",2024-07-01-rti-real-time-disease-surveillance-drc
 COD,DHIS2,DRC,hmis,DHIS2,Ministry of Health,,2025-10-15-cod-path-snapiform-ai-health-data-reporting
+COD,Etoile Bleue,Etoile Bleue emergency response,other,,Ministry of Health,,2026-11-09-rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medical
 COG,DHIS-2,Congo,hmis,DHIS2,Ministère de la Santé et de la Population,52 health districts to central,2022-08-12-cog-santetropicale-formation-cadres-dhis2
 COG,Systeme d'Information Communautaire (SIC),Congo,other,,Ministry of Health and Population,,2026-10-28-cog-talangai-lancement-de-la-formation-des-relais-communautaires-sur-lutil
 COM,DHIS2,Comoros national HMIS,hmis,DHIS2,Ministry of Health,national,2026-07-01-dhis2-comores-climate-health-country-profile
@@ -90,6 +91,7 @@ GAB,DHIS2,Gabon,hmis,DHIS2,,,2025-06-03-dhis2-officially-launched-gabon
 GAB,DHIS2 Tracker,Gabon,hmis,DHIS2,Ministry of Health,,2026-06-18-gabon-premier-pays-afrique-francophone-dhis2-tracker
 GAB,eGabon-SIS,Gabon,hmis,,,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
 GAB,DHIS2 logistics dashboard,Gabon,other,DHIS2,Ministry of Health DCSE,,2025-12-01-gab-gabon-hisp-renforce-le-systeme-d-information-sanitaire-pour-une-meille
+GAB,National Health Information System (NHIS),Gabon,other,,Gabonese Republic,,2026-07-16-gab-p175987-amendment-letter-loan-agreement-digital-gabon
 GHA,Ghana Health Information Management System (GHIMS),Ghana,hmis,,Ministry of Health,,2025-10-29-ghana-ghims-replaces-lhims-health-data-system
 GHA,Lightwave Health Information Management System (LHIMS),Ghana,hmis,Lightwave,Ministry of Health (vendor-owned software),450 of 950 contracted facilities connected,2025-10-29-ghana-ghims-replaces-lhims-health-data-system
 GHA,Lightwave Health Information Management System (LHIMS),Ghana,hmis,Lightwave,Ministry of Health,450 of 950 targeted facilities connected,2025-10-29-ghana-77m-health-data-contract-scandal-graphic
@@ -105,6 +107,7 @@ GIN,OpenClinic,logiciel SIH Openclinic,other,OpenClinic,"five health facilities 
 GIN,SNIS,Système National d'Information Sanitaire,hmis,,Ministry of Health and Public Hygiene,,2025-11-27 Interoperability - key workshop to modernize Guinea's health information system
 GIN,REC maternité,REC maternité,other,,Terre des Hommes with MSHP,15 health centres,2025-11-27 Interoperability - key workshop to modernize Guinea's health information system
 GIN,SNIS/DHIS2,SNIS on DHIS2,hmis,DHIS2,"Ministry of Health (SNIS, ANSS)","facility, district, region",2025-01-01-pasa2-gestion-analyse-validation-donnees-snis-dhis2
+GIN,eLMIS,Guinea,other,,"Ministry of Health (SMSI, DNPM)",,2024-03-01-gin-guinean-computer-scientists-trained-to-manage-health-logistics-system
 GMB,Smart Paper Technology (SPT),The Gambia,hmis,"hybrid paper-digital, synchronised with DHIS2","Ministry of Health with MRCG at LSHTM, Shifo Foundation, US CDC","facility (Bundung, Fajikunda)",2025-12-22 Smart Paper Technology is Transforming Community Health Data Capture in The Gambia
 GMB,Health Management Information System,HMIS,hmis,,Ministry of Health,,2026-07-01-mobse-health-ministry-data-systems
 GMB,RF-NDP tracking system,The Gambia,other,DHIS2,Government of The Gambia (Ministry of Finance and Economic Affairs),"ministries, departments and agencies",2026-04-02-eeas-eu-supports-digital-tracking-system-rf-ndp
@@ -158,6 +161,7 @@ MOZ,SIRCEV,Mozambique,other,,Ministry of Justice,,2026-08-28-sisma-interoperabil
 MOZ,upSCALE,Mozambique,hmis,mobile eCHIS,Malaria Consortium / Ministry of Health,community,2025-03-31-iati-gb-chc-1099776-2u-mz-mozambique-upscale-echis
 MOZ,SISMA (DHIS2),Mozambique,hmis,DHIS2,Ministry of Health,,2026-08-03-moz-mocambique-dhis2-clima-e-saude
 MOZ,iMISS,Mozambique,other,DHIS2,National Malaria Control Programme,,2026-08-03-moz-mocambique-dhis2-clima-e-saude
+MOZ,PAAD,Advanced Data Analytics Platform (PAAD),other,Zenysis Harmony,Ministry of Health (MISAU),,2026-11-04-moz-how-ai-is-helping-mozambique-to-boost-vaccine-decision-making
 MRT,National Health Information System (SNIS),Mauritania,hmis,DHIS2,,district,2025-11-19-mrt-strengthening-the-use-of-srmnia-nutrition-data-for-action-in-mauritani
 MRT,DHIS2 / SNIS,Mauritanie,hmis,DHIS2,Ministere de la Sante,"facility, district, region, national",2025-01-01-mrt-rapport-d-analyse-analyse-des-indicateurs-de-sante-reproductive-matern
 MWI,DHIS2-based HMIS,Malawi,hmis,DHIS2,Ministry of Health,,2026-02-26-mwi-dhis2-climate-health-surveillance-project
@@ -171,6 +175,7 @@ MWI,MaHIS,Malawi,other,,Ministry of Health,,2026-06-21-ichis-community-health-in
 MWI,DHIS2-based national health information system,Malawi,hmis,DHIS2,Ministry of Health,,2026-04-27-mwi-dhis2-diabetes-compass-project
 MWI,iCHIS,Malawi,other,DHIS2,Ministry of Health,community,2026-04-27-mwi-dhis2-diabetes-compass-project
 MWI,MaHIS,Malawi,other,OpenMRS,Ministry of Health,facility,2026-04-27-mwi-dhis2-diabetes-compass-project
+MWI,Child Protection Management Information System (CPMIS),CPMIS,other,DHIS2,"Ministry of Gender, Children, Disability and Social Welfare",,2026-06-01-mwi-malawi-launches-upgraded-national-child-protection-system
 NAM,DHIS2,DHIS2,hmis,DHIS2,,"facility, district, national",2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn
 NAM,DHIS2,national health information management system (District Health Information System or DHIS2),hmis,DHIS2,Ministry of Health and Social Services,"facility, national",2024-10-04-nam-u-s-cdc-namibia
 NER,DHIS2,Niger,hmis,DHIS2,"Ministry of Health, Directorate of Statistics","national, districts, health workers",2025-02-06-ner-how-dhis2-and-a-brand-new-vaccine-helped-niger-beat-a-major-meningitis

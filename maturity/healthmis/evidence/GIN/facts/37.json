@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-01-gin-guinean-computer-scientists-trained-to-manage-health-logistics-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eLMIS",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health (SMSI, DNPM)",
+   "tiers": ""
+  }
+ ],
+ "note": "A logistics system with no stated link to routine health reporting."
+}
