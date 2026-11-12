@@ -1,16 +1,17 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "satellite",
-   "stage": "3",
-   "service": "sale",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-012",
-   "gaps": "No source found says services on two different satellite networks are on sale.",
-   "note": "Counted from the four questions by study-ladder-satellitebroadband.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "satellite",
+      "stage": "3",
+      "service": "sale",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-012;NAM-008;NAM-039",
+      "gaps": "No source found names a second satellite network on sale: the network behind Paratus's Yursat Adapt packages is not named.",
+      "note": "Reassessed 2026-11-12, stays 3: CRAN approved Paratus's Yursat Adapt satellite packages in November 2025 (NAM-039), but the source names no network, and every named sale is Eutelsat OneWeb.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

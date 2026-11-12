@@ -172,6 +172,8 @@ Satellite broadband licensed and on sale by 2026, on one satellite network.
 Satellite broadband licensed and on sale by 2026, on one satellite network.
 
 - Eutelsat OneWeb LEO satellite services, branded Twoobii-OneWeb by Q-KON, launched commercially in Namibia on 19 June 2026 through licensed partners Echo Namibia and Oblixx Communication Networks, aimed at businesses, with up to 100 Mbps and 2TB per site ([source, 2026-06-19](https://www.qkon.com/2026/07/22/q-kon-and-partners-launch-fully-compliant-eutelsat-oneweb/)).
+- Paratus Namibia launched a Eutelsat OneWeb LEO satellite internet service for residential and commercial customers countrywide, with capped and uncapped packages (article of 2026-10-08 gives no other date) ([source, 2026-10-08](https://techafricanews.com/2026/10/08/paratus-namibia-eutelsat-oneweb-leo-satellite-service/)).
+- The Brief reports CRAN approved Paratus Namibia's Yursat Adapt satellite packages in Government Gazette No. 8795 of 28 November 2025, with 10-20 Mbps speeds and monthly prices of N$1,550 to N$3,350 ([source, 2025-11-28](https://thebrief.com.na/2025/12/cran-approves-revised-tariff-structures-for-telecom-operators/)).
 
 ### Niger: 3 Established
 

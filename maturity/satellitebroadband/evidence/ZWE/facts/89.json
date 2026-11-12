@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-zwe-ict-ministry-donates-250-starlink-kits-to-local-authorities",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ICT Minister Tatenda Mavetera said the President personally approved the licensing of low-earth-orbit satellite technology in Zimbabwe, which made the Starlink kit deployment possible.",
+   "as_of": "2025-07-23",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Zimbabwe",
+   "class": "satellite",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

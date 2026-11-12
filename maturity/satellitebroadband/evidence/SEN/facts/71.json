@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-sen-starlink-suspended-in-senegal",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The Point reports Starlink was granted an ISP licence in Senegal for FCFA 100 million and that the Supreme Court left it suspended on 3 November 2026, pending a final ruling.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Senegal",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

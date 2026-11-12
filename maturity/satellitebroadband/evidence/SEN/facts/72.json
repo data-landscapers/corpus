@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-sen-licence-starlink-100-millions-de-fcfa-un-montant-reste-confidentiel",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Seneweb's opinion writer says Starlink holds an ISP licence in Senegal for FCFA 100 million, which the Supreme Court left suspended on 3 November 2026 when it rejected the State's request to retract the suspension.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Senegal",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
