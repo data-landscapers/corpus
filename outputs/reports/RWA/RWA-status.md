@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 9
-sources_cited: 260
+sources_cited: 263
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -330,6 +330,8 @@ In 2021 [no identity-specific judicial oversight existed, and grievances ran thr
 [In 2022 the Mastercard Foundation committed $275.7 million to a partnership with Carnegie Mellon University and the government, running to 2035](https://www.cmu.edu/news/stories/archives/2022/september/carnegie-mellon-university-and-mastercard-foundation-partner-to-drive-youth-led-digital). [It gives CMU-Africa in Kigali a $175 million endowment and the Upanzi Network, a centre for inclusive digital transformation, $100.7 million](https://www.cmu.edu/news/stories/archives/2022/september/carnegie-mellon-university-and-mastercard-foundation-partner-to-drive-youth-led-digital) (2022). [It targets 10,000 young Africans in digital skills and careers](https://www.cmu.edu/news/stories/archives/2022/september/carnegie-mellon-university-and-mastercard-foundation-partner-to-drive-youth-led-digital). [The same campus holds a $6 million Gates Foundation grant for 2021–2026 on scaling the digital stack in Africa](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DAC-1601-INV-032036).
 
 [In 2022 the University of Rwanda and its predecessor institutions carried the national research base](https://ipar.org.rw/fileadmin/publications/Documents_PDF/Social_Development/yes_rwanda_country_report_-_2022_final_1_2_.pdf). [Rwanda placed 104th of 133 economies in the WIPO Global Innovation Index 2024, ahead of every other low-income country](https://www.wipo.int/edocs/gii-ranking/2024/rw.pdf).
+
+[The Centre for the Fourth Industrial Revolution Rwanda reviewed the draft data protection law for the ICT ministry, its managing director said in October 2024](https://www.brookings.edu/articles/advancing-tech-innovation-and-ai-governance-in-africa/). [The Certa Foundation's Center for Law and Innovation in Kigali became the first East African member of the Berkman Klein-coordinated Network of Centers](https://www.certafoundation.rw/resource/partnerships) (2024). [In 2026 the director of the University of Rwanda's IoT centre of excellence mapped the country's AI-for-science institutions, among them the centre's IDRC-funded TAIRI Lab](https://council.science/wp-content/uploads/2026/02/Rwanda-AI.pdf).
 
 ## Inclusion
 
