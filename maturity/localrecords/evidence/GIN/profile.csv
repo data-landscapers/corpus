@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,revenue,governance,qualifier,finance:not-stated,2025-03-25,GIN-002,,"not stated: owner, plan"
-GIN,revenue,recorded,coverage,,,,,nothing held
-GIN,revenue,held,coverage,,,,,nothing held
-GIN,revenue,last12,qualifier,advancing,2025-03-25,GIN-003,,nothing dated since 2025-09-28
-GIN,revenue,authorities,coverage,pilot,2025-03-25,GIN-001,,
+GIN,revenue,governance,qualifier,finance:donor,2025-11,GIN-007,GIN-002=finance:not-stated,"not stated: owner, plan"
+GIN,revenue,recorded,coverage,register,2026-08-05,GIN-004,,
+GIN,revenue,held,coverage,,,,,nothing found
+GIN,revenue,last12,qualifier,advancing,2026-08-05,GIN-003;GIN-006,,
+GIN,revenue,authorities,coverage,count:1,2026-08-05,GIN-005,GIN-001=pilot,

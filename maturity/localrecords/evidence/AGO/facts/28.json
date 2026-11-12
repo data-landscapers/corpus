@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-02-ago-actos-administrativos-e-servicos-municipais-passam-a-ser-pedidos-no-po",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "receipts",
+   "fact": "An administrator quoted by Expansao says the Portal do Municipe, implemented in 2018, gives local administrations real-time control of the payments citizens make and so of the revenue collected, with municipal service payments through RUPE due to move onto it from October 2024.",
+   "as_of": "2024-08-02",
+   "date_precision": "day",
+   "system": "Portal do Municipe",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portal do Municipe",
+   "country_label": "Portal do Municipe",
+   "class": "revenue",
+   "platform": "RUPE",
+   "owner": "Local administration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,18 +3,18 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "2",
-      "governance": "",
+      "stage": "3",
+      "governance": "finance:donor",
       "recorded": "register",
       "held": "local",
-      "last12": "",
-      "authorities": "pilot",
+      "last12": "advancing",
+      "authorities": "count:1",
       "cap": "",
-      "flags": "centrally collected",
-      "stage_sources": "MDG-004;MDG-005;MDG-006",
-      "gaps": "The one source inside the as-at, of September 2021, reports the property-tax software handed over that day in one commune, Toamasina, with staff trained to replicate it; nothing says the commune went on to bill from it or that any other commune was equipped. Nothing is dated between then and the as-at, so governance and the last twelve months hold nothing; the partner ownership of 2021 falls outside the 36 months. Rows MDG-001 to MDG-003 are dated 7 October 2026, after the as-at, and set nothing.",
-      "note": "Software handed over in one commune, on the day of the handover, is read as a pilot. Stage 3 needs a system past its pilot and live in communes outside the capital, and no fact shows routine use after the handover.",
-      "as_at": "2026-10-13"
+      "flags": "advancing;centrally collected",
+      "stage_sources": "MDG-010;MDG-011",
+      "gaps": "Only Mahajanga is shown recording its taxpayers in a live system outside the capital, in February 2024; no share or total of communes is published.",
+      "note": "Mahajanga commune put its own SIGRL taxpayer and revenue software into use in February 2024 (MDG-010, MDG-011): a register live outside the capital, a count with no total, so 3. Antananarivo's market cards of October 2026 are an advance inside the twelve months.",
+      "as_at": "2026-11-12"
     }
   ]
 }

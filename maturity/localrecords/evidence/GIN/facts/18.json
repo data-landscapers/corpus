@@ -1,0 +1,56 @@
+{
+ "slug": "2026-08-05-gin-projet-revis-la-digitalisation-au-service-des-ressources-locales-a-mam",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "The consortium implementing Enabel's REVIS project says it digitised the census and collection of market taxes and motorcycle-taxi parking taxes in Mamou, with taxi collection running since June 2026.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "REVIS",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:1",
+   "fact": "The post names one local authority, Mamou, where the REVIS digitised census and collection of local taxes was carried out.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "REVIS",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The implementing consortium says Mamou's market revenues were multiplied by four, and weekly motorcycle-taxi parking collections since June 2026 equal a full year's collection before the project.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "REVIS",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The REVIS project in Mamou was commissioned and funded by Enabel and awarded to a Global Itec and Le Partenariat consortium in November 2025.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "REVIS",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "REVIS",
+   "country_label": "Projet REVIS, Mamou",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Enabel project consortium",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

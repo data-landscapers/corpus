@@ -24,8 +24,8 @@ The norm is the African Union's Digital Transformation Strategy, with the decent
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 2 |
-| 3 Established | 17 |
-| 2 Nascent | 22 |
+| 3 Established | 18 |
+| 2 Nascent | 21 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 11 |
@@ -114,6 +114,15 @@ Thirty-three of 47 counties had automated revenue collection by 2020, issuing el
 - Automation is described as the move from paper receipts to an electronic system for data entry, processing and reporting, with point-of-sale machines in use; counties mostly collect unstructured revenues (markets, parking, cess), and a taxpayer database linked to the national identifier is listed only as a feature of the proposed integrated system ([source, 2020](https://eujournal.org/index.php/esj/article/view/13419/13560)).
 - The survey of 24 of 47 counties found most counties cannot host their revenue data, so it is hosted by the vendor, and a majority of counties still use LAIFOMS in parallel instead of a system integrated with IFMIS ([source, 2020](https://eujournal.org/index.php/esj/article/view/13419/13560)).
 - The counties' systems are used almost wholly for the revenue collection module (97 per cent of the 34 counties with systems); Nairobi uses E-Jiji Pay for electronic revenue collection and LAIFOMS to generate bill numbers, and the brief does not describe a payer register (document gives no event date, brief dated 2018) ([source, 2018](https://cegkenya.org/wp-content/uploads/2019/11/Policy-Brief-Brochure2.pdf)).
+
+### Madagascar: 3 Established
+
+Mahajanga commune has recorded taxpayers and their payments in its own software since 2024; no count of communes doing so has been published.
+
+*Advancing; Centrally collected.*
+
+- L'Express reports the commune urbaine of Mahajanga put in place SIGRL and a taxpayer registration program, holding each taxpayer's revenues, registration and payment order, with staff trained and the software implemented ([source, 2024-02](https://www.lexpress.mg/2024/02/commune-urbaine-de-mahajanga-logiciel.html)).
+- The article names one local government, the commune urbaine of Mahajanga, where SIGRL is in use ([source, 2024-02](https://www.lexpress.mg/2024/02/commune-urbaine-de-mahajanga-logiciel.html)).
 
 ### Malawi: 3 Established
 
@@ -328,9 +337,12 @@ Libreville's mayor said in July 2026 the city runs its own digital revenue syste
 
 ### Guinea: 2 Nascent
 
-A revenue tool was presented in March 2025 for a pilot in communes of Conakry, Coyah and Kindia; no source found says the pilot began.
+A donor project digitised market and taxi tax collection in one town in 2026; no commune is known to record payers outside a project.
 
-- A revenue-management digitalisation tool proven in Benin was presented on 25 March 2025 for a pilot in Conakry's 13 urban communes plus Coyah and Kindia; the article says the communes will experiment with it, so it is announced, not live ([source, 2025-03-25](https://guineematin.com/2025/03/25/guinee-vers-une-digitalisation-des-services-communaux-de-conakry-coyah-et-kindia/)).
+*Advancing.*
+
+- The consortium implementing Enabel's REVIS project says it digitised the census and collection of market taxes and motorcycle-taxi parking taxes in Mamou, with taxi collection running since June 2026 ([source, 2026-08-05](https://fr.linkedin.com/posts/le-partenariat-centre-ga%C3%AFa_revis-atelier-de-capitalisation-sur-la-activity-7490784325500710912-r9-L)).
+- The post names one local authority, Mamou, where the REVIS digitised census and collection of local taxes was carried out ([source, 2026-08-05](https://fr.linkedin.com/posts/le-partenariat-centre-ga%C3%AFa_revis-atelier-de-capitalisation-sur-la-activity-7490784325500710912-r9-L)).
 
 ### Liberia: 2 Nascent
 
@@ -348,16 +360,6 @@ A 2024 ministry programme signed by 27 municipalities includes electronic collec
 
 - The Ministry of Local Government of the Government of National Unity runs the National Programme for Activating Local Revenues, under which 27 municipalities signed a sponsorship document on 10 June 2024; its projects include an electronic collection system and a database of municipal economic activities ([source, 2024-06-10](https://alwasat.ly/news/libya/441789)).
 - The programme director said it targets both municipalities where the local revenue system is already activated and those where it is not and still needs activating; no count of either group is given, and the 27 signatories are not said to be using the system ([source, 2024-06-10](https://alwasat.ly/news/libya/441789)).
-
-### Madagascar: 2 Nascent
-
-One commune outside the capital was handed property-tax software in 2021; no source found says whether it or any other commune records payers digitally since.
-
-*Centrally collected.*
-
-- UNDP states the G-IFPB software, fed by a 2019 taxpayer census, was handed over on 2021-09-13 to manage collection of the built-property tax in Toamasina ([source, 2021-09-13](https://www.undp.org/fr/madagascar/communiques/g-ifpb-le-logiciel-de-gestion-de-limpot-foncier-sur-la-propriete-batie-operationnel-toamasina)).
-- The software was installed at the Commune Urbaine de Toamasina and at the Direction Régionale des Impôts Atsinanana, per UNDP ([source, 2021-09-13](https://www.undp.org/fr/madagascar/communiques/g-ifpb-le-logiciel-de-gestion-de-limpot-foncier-sur-la-propriete-batie-operationnel-toamasina)).
-- Only Toamasina commune uses G-IFPB; UNDP says staff were trained to replicate the process in the city's other arrondissements, and communes later equipped may use it ([source, 2021-09](https://www.undp.org/fr/madagascar/communiques/g-ifpb-le-logiciel-de-gestion-de-limpot-foncier-sur-la-propriete-batie-operationnel-toamasina)).
 
 ### Mali: 2 Nascent
 

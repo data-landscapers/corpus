@@ -4,16 +4,17 @@
     {
       "sub_indicator": "revenue",
       "stage": "2",
-      "governance": "",
-      "recorded": "",
+      "governance": "finance:donor",
+      "recorded": "register",
       "held": "",
-      "last12": "",
+      "last12": "advancing",
       "authorities": "pilot",
       "cap": "",
-      "flags": "",
-      "stage_sources": "GIN-001",
-      "gaps": "One source, of 25 March 2025: a tool presented for a pilot in Conakry's 13 communes, Coyah and Kindia, with financing still to be found. Nothing says the pilot began, what the tool records or where it is held, and nothing is dated inside the twelve months or names an owner or plan.",
-      "note": "A system presented ahead of a pilot is preparation. Stage 3 needs a system past its pilot and live in local governments outside the capital, and none is recorded."
+      "flags": "advancing",
+      "stage_sources": "GIN-004;GIN-005",
+      "gaps": "Mamou's digitised collection is a donor project ending in 2026, with its replication elsewhere still being studied; nothing says where its record is held, or that any commune records outside a project.",
+      "note": "Enabel's REVIS project digitised the census and collection of market and motorcycle-taxi taxes in one town, Mamou, in 2026 (GIN-004, GIN-005), a time-limited project whose replication is under study: a pilot. Its results in August 2026 are an advance inside the twelve months.",
+      "as_at": "2026-11-12"
     }
   ]
 }

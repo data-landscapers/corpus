@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-01-mdg-commune-urbaine-de-mahajanga-logiciel-sigrl-pour-ameliorer-les-recette",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "L'Express reports the commune urbaine of Mahajanga put in place SIGRL and a taxpayer registration program, holding each taxpayer's revenues, registration and payment order, with staff trained and the software implemented.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "SIGRL",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:1",
+   "fact": "The article names one local government, the commune urbaine of Mahajanga, where SIGRL is in use.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "SIGRL",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGRL",
+   "country_label": "Systeme informatise de gestion de ressources locales",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Commune urbaine de Mahajanga",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
