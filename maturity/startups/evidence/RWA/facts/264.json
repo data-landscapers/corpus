@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-06-rwa-de-l-ambition-a-l-action-au-rwanda-aider-les-entrepreneurs-du-numeriqu",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "funded",
+   "value": "funded",
+   "fact": "Under the government's Rwanda Digital Acceleration Programme, backed by World Bank and AIIB finance, the Development Bank of Rwanda says it selected and funded 22 startups in 2025 and committed over EUR 1.53 million of EUR 3 million allocated, per a World Bank blog.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Rwanda Digital Acceleration Programme (RDAP)",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rwanda Digital Acceleration Programme (RDAP)",
+   "country_label": "Rwanda",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Government of Rwanda; Development Bank of Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

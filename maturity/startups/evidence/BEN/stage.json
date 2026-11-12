@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "startuppolicy",
-      "stage": "unplaced",
-      "law": "",
-      "labelled": "",
+      "stage": "4",
+      "law": "adopted",
+      "labelled": "labelled",
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.",
-      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "BEN-003;BEN-004",
+      "gaps": "No source found says FAEN or another public fund under the label decree has financed startups with investments named; FAEN's October 2025 launch names none.",
+      "note": "Decree 2023-095 sets the startup label, the tax code exempts labelled startups, and fifteen firms were labelled in December 2024, so 4. FAEN is to finance labelled startups but no investment is named, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

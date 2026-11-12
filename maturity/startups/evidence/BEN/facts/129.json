@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-14-ben-lamarina-avantage-fiscal-startups-label",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "La Marina BJ reports that Benin's startup label rests on decree 2023-095 and that article 147 of the tax code already gives labelled startups two years of corporate tax and payroll levy exemption, then 50% in year three.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "Startup label (decree 2023-095) and CGI article 147",
+   "class": "startuppolicy"
+  },
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "La Marina BJ reports the first startup label session, 2 to 12 December 2024, drew 95 applications and labelled fifteen firms, with the tax exemption applying to labelled startups.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Startup label (decree 2023-095)",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": "The 2027 finance bill amendment is tabled, not adopted."
+}

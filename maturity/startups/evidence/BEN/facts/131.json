@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-03-ben-accord-adpme-biic-un-fonds-pour-propulser-l-entrepreneuriat-numerique",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "La Nation reports that ADPME and BIIC launched the digital entrepreneurship support fund FAEN on 1 October 2025 at a ceremony attended by labelled start-ups (jeunes pousses labellisees); no investment is named.",
+   "as_of": "2025-10-01",
+   "date_precision": "day",
+   "system": "FAEN",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

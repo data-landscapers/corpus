@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "startuppolicy",
-      "stage": "unplaced",
-      "law": "",
+      "stage": "2",
+      "law": "draft",
       "labelled": "",
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.",
-      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "RWA-002",
+      "gaps": "No startup act or strategy adopted is on record: in June 2025 the act had not been tabled in Cabinet. The Rwanda Innovation Fund backs firms, but under no startup law.",
+      "note": "Rwanda's Startup Act was still in drafting in June 2025, with several drafts and validations under way, so 2. Stage 3 needs the act passed or a startup strategy adopted.",
+      "as_at": "2026-11-12"
     }
   ]
 }

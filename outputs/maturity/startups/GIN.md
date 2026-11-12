@@ -2,11 +2,11 @@
 
 ## Startup law and funding
 
-**Law or strategy.** [The Ministry of Commerce, Industry and SMEs of Guinea says its Secretary General chaired a review session on the draft startup law on 29 April 2025, with the higher education and posts and telecommunications ministries](<https://www.mipme.gov.gn/seance-de-relecture-du-projet-de-loi-sur-les-startups/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Law or strategy.** On 29 April 2025 the commerce ministry [held a review of the draft startup law](<https://www.mipme.gov.gn/seance-de-relecture-du-projet-de-loi-sur-les-startups/>). The higher education and telecoms ministries took part. In August 2026 the head of the payments firm Lengo Pay [said Guinea has no Startup Act](<https://business360.media/startups-guinee-diagnostic-dg-lengo-pay/>). He set it against Senegal, Côte d'Ivoire and Tunisia, which have one.
 
-**Labelling.** No source found since October 2023 says startups are labelled or registered under a startup law or strategy. The nearest held fact: [the one given above](<https://www.mipme.gov.gn/seance-de-relecture-du-projet-de-loi-sur-les-startups/>).
+**Labelling.** No source found since October 2023 says startups are labelled or registered under a startup law or strategy. [The startup law was still a draft under review in April 2025](<https://www.mipme.gov.gn/seance-de-relecture-du-projet-de-loi-sur-les-startups/>), and no label scheme outside it has been found.
 
-**Funded.** No source found since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the one given above](<https://www.mipme.gov.gn/seance-de-relecture-du-projet-de-loi-sur-les-startups/>).
+**Funded.** No public fund under a startup law or strategy has been found financing startups. In August 2026 [the head of Lengo Pay said Guinea has no Startup Act](<https://business360.media/startups-guinee-diagnostic-dg-lengo-pay/>). He compared it with Senegal and Tunisia.
 
 ***Also on file***. None found.
 
