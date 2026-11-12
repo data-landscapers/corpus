@@ -1,12 +1,12 @@
 ---
 title: Zimbabwe: status report
-compiled: 2026-11-10
+compiled: 2026-11-12
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 7
-sources_cited: 213
+sources_cited: 214
 sections_written: 39
 not_established: 1
 acquire_lines: 37
@@ -375,6 +375,8 @@ Nor is there [any online facility through which the public can request governmen
 <!-- data.geospatial -->
 
 Zimbabwe's first national space regime is being written into a telecoms Act, not a space Act: [Clause 12 of the Postal and Telecommunications (Amendment) Bill](https://www.veritaszim.net/sites/veritas_d/files/Postal%20and%20Telecommunications%20Amendment%20Bill.%20H.B.%2010%2C%202025%20.pdf) was published in October 2025. [It would create a licensing gate over the country's ITU orbital resources and over the launch of space objects in Zimbabwe's name](https://www.veritaszim.net/sites/veritas_d/files/Postal%20and%20Telecommunications%20Amendment%20Bill.%20H.B.%2010%2C%202025%20.pdf). The Bill is not in force, and no national space or geospatial data policy had been adopted as at August 2026. Satellite data reaches government through programmes rather than policy. [The second phase of the EOSTAT programme was launched with the agriculture ministry in June 2025](https://www.fao.org/africa/news-stories/news-detail/zimbabwe-scales-up-satellite-based-agricultural-data-systems-with-launch-of-eostat-phase-ii/en). [It scales satellite data into crop-type mapping, drought and flood monitoring and the farmer registry](https://www.fao.org/africa/news-stories/news-detail/zimbabwe-scales-up-satellite-based-agricultural-data-systems-with-launch-of-eostat-phase-ii/en). [The meteorological services department installed a PUMA 2025 station to receive METEOSAT Third Generation data](https://www.weatherzw.org.zw/documents/776/MSD_Newsletter_February_-_March_2026.pdf) (March 2026). [In October 2026 the higher education and innovation ministry said Zimbabwe is preparing to launch a third satellite, to draw on its own earth-observation data](https://newsday.co.zw/article/zim-to-launch-a-third-satellite).
+
+[In July 2026 the national geoportal listed 87 datasets, among them statistics-agency boundaries and census extracts, some under open licences and some with none stated](https://zimgeoportal.org.zw/datasets/).
 
 ## Geopolitics
 
