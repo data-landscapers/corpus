@@ -1,12 +1,12 @@
 ---
 title: Equatorial Guinea: status report
-compiled: 2026-11-10
+compiled: 2026-11-12
 place: GNQ
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 17
-sources_cited: 227
+sources_cited: 228
 sections_written: 39
 not_established: 1
 acquire_lines: 23
@@ -362,7 +362,7 @@ On 8 May 2026 the [Senate unanimously passed the Proyecto de Ley de Transparenci
 ### Geospatial data
 <!-- data.geospatial -->
 
-[An ECCAS Situation Room has operated at Douala since September 2024 under the continental AMHEWAS early-warning system](https://wmo.int/activities/projects/project-portfolio/seamless-approach-forecasting-and-warning-meteorological-hydrological-and-climate-extremes-crews). [As an ECCAS member, Equatorial Guinea is also covered by a sub-regional WIGOS observing network and a regional meteorological centre at Yaoundé](https://wmo.int/activities/projects/project-portfolio/seamless-approach-forecasting-and-warning-meteorological-hydrological-and-climate-extremes-crews) (November 2025). [On 10–12 February 2026 the ten ECCAS states' meteorological, hydrological and disaster-risk institutions met at N'Djamena](https://wmo.int/media/news/strengthening-collaboration-central-africa-production-and-dissemination-of-early-warnings). [They formalised communication with the regional centres under CREWS Central Africa and Early Warnings for All](https://wmo.int/media/news/strengthening-collaboration-central-africa-production-and-dissemination-of-early-warnings).
+[An ECCAS Situation Room has operated at Douala since September 2024 under the continental AMHEWAS early-warning system](https://wmo.int/activities/projects/project-portfolio/seamless-approach-forecasting-and-warning-meteorological-hydrological-and-climate-extremes-crews). [As an ECCAS member, Equatorial Guinea is also covered by a sub-regional WIGOS observing network and a regional meteorological centre at Yaoundé](https://wmo.int/activities/projects/project-portfolio/seamless-approach-forecasting-and-warning-meteorological-hydrological-and-climate-extremes-crews) (November 2025). [On 10–12 February 2026 the ten ECCAS states' meteorological, hydrological and disaster-risk institutions met at N'Djamena](https://wmo.int/media/news/strengthening-collaboration-central-africa-production-and-dissemination-of-early-warnings). [They formalised communication with the regional centres under CREWS Central Africa and Early Warnings for All](https://wmo.int/media/news/strengthening-collaboration-central-africa-production-and-dissemination-of-early-warnings). [On 17 September 2026 a workshop at Riaba began formulating a national hydrometeorological and early-warning project for Green Climate Fund financing](https://guineaecuatorial.un.org/es/322834-guinea-ecuatorial-impulsa-una-iniciativa-estrat%C3%A9gica-para-dotarse-de-su-primera-red-nacional). [The country had no modern integrated national hydrometeorological network](https://guineaecuatorial.un.org/es/322834-guinea-ecuatorial-impulsa-una-iniciativa-estrat%C3%A9gica-para-dotarse-de-su-primera-red-nacional) (September 2026).
 
 [Ley 4/2009 substitutes a document-by-document concession inquiry for a cadastre and creates no systematic land survey](https://faolex.fao.org/docs/pdf/eqg158220.pdf).
 
