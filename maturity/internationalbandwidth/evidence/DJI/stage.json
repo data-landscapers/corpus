@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "routes",
-      "stage": "4",
+      "stage": "5",
       "routes": "independent",
-      "access": "",
+      "access": "open",
       "cap": "",
       "flags": "",
-      "stage_sources": "DJI-005;DJI-017",
-      "gaps": "No source found says other operators buy capacity at the landing station or on the international routes, or that they run on open-access or wholesale terms.",
-      "note": "Counted from the four questions by study-ladder-internationalbandwidth.py. Question 3a: 2Africa (DJI-017).",
-      "as_at": "2026-10-30"
+      "stage_sources": "DJI-005;DJI-017;DJI-037",
+      "gaps": "No source found says capacity is sold on open-access or regulated wholesale terms; Djibouti Telecom holds the landing stations alone (Telecom Review Africa, La Nation).",
+      "note": "Reassessed 2026-11-12: Djibouti Telecom says its cable stations serve more than 50 telecom operators who switch between cables there (DJI-037), so other operators buy capacity at the landing station, beside two independent routes and 2Africa (DJI-005, DJI-017). Top rung.",
+      "as_at": "2026-11-12"
     }
   ]
 }

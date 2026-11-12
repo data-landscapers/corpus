@@ -20,10 +20,10 @@ The African Union's Digital Transformation Strategy 2020–2030 asks every membe
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 10 |
-| 4 Operating | 11 |
-| 3 Established | 21 |
-| 2 Nascent | 10 |
+| 5 Leading | 11 |
+| 4 Operating | 10 |
+| 3 Established | 22 |
+| 2 Nascent | 9 |
 | 1 Absent | 1 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -45,6 +45,14 @@ Two independent fibre routes abroad by 2026, and other operators buy capacity on
 - Paratus Group (press release republished by ITWeb Africa) says it switched on on 2026-02-09 the 2,000km protected terrestrial G2M fibre route from Goma in eastern DRC via Kigali (Rwanda), Kampala (Uganda) and Nairobi (Kenya) to Mombasa on the coast, now live and carrying traffic, linking DRC to coastal subsea cable capacity ([source, 2026-02-09](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn)).
 - Airtel Congo RDC SA says it became the first operator in DRC to put the first phase of the 2Africa submarine cable into service, activating an initial 200 Gbps on 2025-12-18; the document names no landing station ([source, 2025-12-18](https://fr.linkedin.com/posts/airteldrc_airtel-congo-rdc-sa-1er-r%C3%A9seau-%C3%A0-mettre-activity-7407828782549655552-0p5z)).
 - Paratus says the G2M Goma-Mombasa route is already carrying traffic for its first wholesale customers and is designed for carriers, ISPs and enterprises, i.e. operators other than the owner buy capacity on it ([source, 2026-02-09](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn)).
+
+### Djibouti: 5 Leading
+
+Two independent routes and a high-capacity cable by 2024, with over 50 operators buying capacity at the landing stations; open-access terms are not known.
+
+- Djibouti Telecom operates two landing stations: YAC A (AAE1, ADEN-DJIBOUTI, SEACOM, SMW3, DARE1) and Haramous (EIG, EASSy, SMW5), 8 submarine systems in service, plus terrestrial cables to Ethiopia and Somalia ([source, 2021-10-18](https://www.submarinenetworks.com/en/nv/news/djibouti-telecom-builds-a-new-cable-landing-station-in-djibouti-city)).
+- DCD states Djibouti City is a landing station for several cable systems including 2Africa, Seacom, Sea-Me-We-6, AAE-1 and DARE (Djibouti Africa Regional Express), all at the one city (not recorded as independent) ([source, 2026-02](https://www.datacenterdynamics.com/en/news/ethio-telecom-djibouti-telecom-and-sudatel-group-sign-strategic-fiber-agreement/)).
+- Djibouti Telecom says its cable infrastructure serves more than 50 telecom operators with connections to more than 90 countries, who can switch between cables there ([source, 2024-05](https://magazinedelafrique.com/african-business/vers-un-hub-numerique-mondial/)).
 
 ### Egypt: 5 Leading
 
@@ -138,13 +146,6 @@ Congo has two submarine cables and fibre links to five neighbours (2025); whethe
 - Minister Léon Juste Ibombo said on 14 May 2025 that Congo is interconnected by fibre optic cable with DRC, Gabon, Central African Republic, Cameroon and Angola, and has landed the 2Africa submarine cable off Pointe-Noire ([source, 2025-05-14](https://labreveonline.com/osiane-le-congo-et-5-pays-voisins-desormais-interconnectes-par-fibre-optique/)).
 - DCD reports President Sassou N'Guesso activated Congo's connection to the 2Africa cable at Pointe-Noire on 28 February 2024 ([source, 2024-02-28](https://www.datacenterdynamics.com/en/news/republic-of-congo-launches-data-center-in-pointe-noire-for-2africa-cable)).
 
-### Djibouti: 4 Operating
-
-Two independent fibre routes abroad by 2021; no source found says whether other operators buy capacity on them.
-
-- Djibouti Telecom operates two landing stations: YAC A (AAE1, ADEN-DJIBOUTI, SEACOM, SMW3, DARE1) and Haramous (EIG, EASSy, SMW5), 8 submarine systems in service, plus terrestrial cables to Ethiopia and Somalia ([source, 2021-10-18](https://www.submarinenetworks.com/en/nv/news/djibouti-telecom-builds-a-new-cable-landing-station-in-djibouti-city)).
-- DCD states Djibouti City is a landing station for several cable systems including 2Africa, Seacom, Sea-Me-We-6, AAE-1 and DARE (Djibouti Africa Regional Express), all at the one city (not recorded as independent) ([source, 2026-02](https://www.datacenterdynamics.com/en/news/ethio-telecom-djibouti-telecom-and-sudatel-group-sign-strategic-fiber-agreement/)).
-
 ### Gabon: 4 Operating
 
 Gabon has four submarine cables and fibre links to three neighbours (2026); whether other operators buy capacity is not known.
@@ -221,6 +222,13 @@ Two independent fibre routes abroad by 2026; no cable of more than 100 Tbps is k
 
 - Agence Ecofin (12 Oct 2026) states the Central African Republic has two terrestrial fibre links to neighbours today, through Cameroon and through Congo-Brazzaville, carried on the Central African Backbone (about 935 km of fibre) and reaching the submarine cables ([source, 2026-10-12](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique)).
 - Africa Business Insight (25 May 2026) states that under the Central African Backbone the Central African Republic established fibre links with Cameroon (five submarine cables) and the Republic of the Congo (two), two different neighbours; date is the article's, which gives none for the links ([source, 2026-05-25](https://africabusinessinsight.com/central-african-republic-seeks-new/)).
+
+### Chad: 3 Established
+
+Two fibre routes through Cameroon to one landing station by 2026; no route avoiding Cameroon is known.
+
+- Russell Southwood says landlocked Chad has two routes through Cameroon to Camtel's Kribi landing station, a third is planned, and its Port Sudan link ended in 2023 ([source, 2026-11-11](https://russellsouthwood.substack.com/p/chad-living-in-a-landlocked-dangerous)).
+- Tchadinfos reports Chad's international capacity is supplied from Kribi in Cameroon over Camtel's fibre, with second routes Nana-Mberé and Yagoua-Bongor still to be completed ([source, 2025-05-16](https://tchadinfos.com/2025/05/16/technologie-le-ministre-boukar-michel-renegocie-les-accords-avec-camtel-pour-une-connectivite-plus-sure/)).
 
 ### Comoros: 3 Established
 
@@ -327,14 +335,6 @@ Two or more fibre routes abroad by 2025; no source found says whether two are in
 Two independent fibre routes abroad by 2025, through Kenya and Tanzania; no high-capacity cable is known to carry its traffic.
 
 - Xalam Analytics states Uganda's landlocked wholesale connectivity runs through a small number of routes, primarily Seacom and EASSY cables via Tanzania and Kenya ([source, 2025-07](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Uganda.pdf)).
-
-### Chad: 2 Nascent
-
-One fibre route abroad in service by 2026; no second route is known.
-
-- Chad's telecoms minister said at the Seoul summit that Chad has only one active international internet access, via Cameroon ([source, 2026-10-20](https://www.digitalbusiness.africa/tchad-le-plan-de-connexion-au-reseau-internet-mondial-presente-au-gaids-a-seoul/)).
-- Chad told ITU-D that a 35 km fibre link to Cameroon, interconnected with the CAMTEL network and the SAT3 cable, is the only operational link connecting the country to the Internet ([source, 2026-03](https://www.itu.int/md/D26-SG01-C-0040/en)).
-- Connecting Africa reports the N'Djamena-Mberé fibre route to the Cameroonian border is currently Chad's only entry point for international capacity from submarine cables, which all land in Cameroon; a revised Sotel-Airtel MoU (suspended by ARCEP) is still needed before the route is adopted ([source, 2026-02-09](https://www.connectingafrica.com/fiber-networking/chad-tells-operators-to-fast-track-fiber-link-to-cameroon)).
 
 ### Ethiopia: 2 Nascent
 

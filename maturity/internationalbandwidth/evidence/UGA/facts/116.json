@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-uga-national-backbone-infrastructure-project-nbi-egi",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "NITA-U says Phase III fibre created an alternative route to the undersea cables via Mutukula to Dar es Salaam, with 7 border points connected to the NBI.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NBI Mutukula route to Dar es Salaam",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

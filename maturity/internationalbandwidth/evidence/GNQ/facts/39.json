@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-21-gnq-gitge-drives-fibre-optic-growth-in-equatorial-guinea",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "btw.media states that GITGE connects Equatorial Guinea through the ACE submarine cable via Ceiba-1, online since 2012; SAIL is named beside it as a landing system GITGE links, without being stated in service.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "ACE via Ceiba-1",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "btw.media states that GITGE sells capacity to internet service providers on equal terms.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "GITGE wholesale capacity",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ACE via Ceiba-1",
+   "country_label": "ACE",
+   "class": "route",
+   "platform": "",
+   "owner": "GITGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

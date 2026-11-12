@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-southwood-chad-landlocked-one-international-fibre-exit",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Russell Southwood says landlocked Chad has two routes through Cameroon to Camtel's Kribi landing station, a third is planned, and its Port Sudan link ended in 2023.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Chad-Cameroon routes to Kribi (Camtel)",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

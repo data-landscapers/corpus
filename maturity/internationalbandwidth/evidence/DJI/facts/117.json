@@ -1,0 +1,36 @@
+{
+ "slug": "2024-05-01-dji-vers-un-hub-numerique-mondial",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Djibouti Telecom says twelve submarine cables pass through Djibouti and on land connect to four separate self-powered stations watched round the clock.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Twelve submarine cables at Djibouti",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Djibouti Telecom says its cable infrastructure serves more than 50 telecom operators with connections to more than 90 countries, who can switch between cables there.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Djibouti Telecom submarine cable stations",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Djibouti Telecom submarine cable stations",
+   "country_label": "Djibouti",
+   "class": "route",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Sea-Me-We-6 is an investment, not stated in service; no design capacity above 100 Tbps stated."
+}

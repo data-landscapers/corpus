@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-30-moz-vodacom-realca-ligacao-a-inovacao-e-ao-futuro-de-mocambique-vai-invest",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "O.Economico reported on 30 April 2024 that Vodacom Mozambique's partnership with the 2Africa consortium had its submarine cable landing done at Maputo and Nampula, said by its chair to improve network capacity and quality.",
+   "as_of": "2024-04-30",
+   "date_precision": "day",
+   "system": "2Africa cable",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa cable",
+   "country_label": "Mozambique",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "2Africa consortium",
+   "tiers": "landings at Maputo and Nampula"
+  }
+ ],
+ "note": ""
+}

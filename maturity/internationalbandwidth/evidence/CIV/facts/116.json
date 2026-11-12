@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-16-civ-stockage-de-donnees-les-10-datacenters-en-cote-d-ivoire-pour-un-debut",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Digital Mag says MainOne opened its first data centre in Cote d'Ivoire in 2019 with the installation of its submarine cable.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "MainOne submarine cable",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

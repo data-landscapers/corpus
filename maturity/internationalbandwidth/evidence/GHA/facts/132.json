@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-31-gha-nita-gets-three-iso-certifications-at-a-go",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "NITA says that when four undersea cables were cut in March 2024 it reconnected all state institutions within 24 hours over other redundant subsea cables entering Ghana from different directions.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "subsea cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

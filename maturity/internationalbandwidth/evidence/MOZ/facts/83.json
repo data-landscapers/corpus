@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-21-moz-ceo-talks-queremos-garantir-95-de-cobertura-de-rede-ate-2030-simon-kar",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Vodacom Mozambique's CEO says the company installed a submarine cable landing station at Nacala, Nampula, giving direct connectivity with Europe and the Americas.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Nacala cable landing station",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nacala cable landing station",
+   "country_label": "Mozambique",
+   "class": "route",
+   "platform": "",
+   "owner": "Vodacom Mozambique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
