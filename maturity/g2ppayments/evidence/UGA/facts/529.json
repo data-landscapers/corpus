@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-20-uga-nilepost-sage-eligibility-65-bank-accounts",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Minister of State for Elderly Affairs Dominic Mafwabi Gidudu said SAGE gives senior citizens a monthly cash transfer, and that its payments require bank accounts linked to National Identification Numbers.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "SAGE",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Gidudu said SAGE and SEGOP payments require bank accounts linked to National Identification Numbers, so older persons without a national ID will struggle to access them.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "SAGE",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Senior Citizens Grant for Empowerment (SAGE)",
+   "country_label": "Uganda",
+   "class": "g2p",
+   "platform": "monthly cash transfer paid into bank accounts",
+   "owner": "Ministry of Gender, Labour and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": "Only one programme is shown paid digitally; SEGOP is an enterprise grant with no payment channel stated."
+}

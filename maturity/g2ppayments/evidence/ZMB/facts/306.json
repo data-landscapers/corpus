@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-08-zmb-zambia-efisp-digital-farm-inputs-gaps",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "AgriTech Insights, reporting a University of Zambia study, says the government's electronic Farmer Input Support Programme delivers input subsidies to small-scale farmers in Chongwe District through a digital voucher system redeemed at private agro-dealers.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "e-FISP",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-FISP",
+   "country_label": "Zambia",
+   "class": "g2p",
+   "platform": "digital voucher",
+   "owner": "Ministry of Agriculture",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

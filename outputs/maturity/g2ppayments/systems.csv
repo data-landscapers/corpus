@@ -32,6 +32,7 @@ CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extend
 CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
 CMR,G2Px,"World Bank G2Px initiative, awareness workshop in Yaounde 12 May 2026",other,,World Bank with the Ministry of Finance,,2026-05-13-cmr-depense-publique-l-ere-du-paiement-digital
 CMR,Projet filets sociaux,Cameroun,other,,government,,2024-01-29-cmr-renforcer-la-resilience-comment-l-argent-mobile-a-transforme-la-repons
+CMR,TRESOR PAY,TRESOR PAY,other,state electronic platform for receipts and spending,Government of Cameroon,,2025-05-28-cmr-arrete-n080-cab-pm-du-28-mai-2025-instituant-une-plateforme-electroniq
 COD,paie de proximite,RDC,g2p,CADECO branches and ATMs,CADECO / Comite de suivi de la paie,,2026-07-24-actualitecd-cadeco-csp-paie-proximite-milieu-rural
 COD,CADECO,RDC,other,public savings bank,State,,2026-07-24-actualitecd-cadeco-csp-paie-proximite-milieu-rural
 COD,FlashApp,DRC,other,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
@@ -98,6 +99,7 @@ LBY,Ratibak Lahzi,,g2p,,Central Bank of Libya,,2026-09-07-libya-cbl-governor-fin
 LBY,Digitisation of government payments,Libya,g2p,,Central Bank of Libya,,2025-06-15-cbl-governor-launches-national-financial-inclusion-strategy-epaix
 LBY,Instant Salary,Instant Salary,g2p,,Central Bank of Libya,,2025-09-01-lby-gnu-starts-paying-public-sector-wages-through-new-treasury-system
 LBY,Wives and children's allowance e-payment cards,Libya,g2p,e-payment card,Ministry of Social Affairs,,2023-12-30-lby-dbeibah-orders-immediate-disbursement-of-wives-and-children-s-allowanc
+LBY,Ratibak Lahzi,Libya,g2p,CBL instant payment network,Central Bank of Libya,,2025-07-31-lby-alwasat-cbl-ratibak-lahzi-in-house-payroll-platform
 LSO,Child Grants Programme,Lesotho,g2p,mobile network providers,"Ministry of Gender, Youth and Social Development",,2025-01-01-lso-social-assistance-in-lesotho-moving-from-manual-to-digital-payments-po
 LSO,M-Pesa,Lesotho,other,,Vodacom Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment
 LSO,Tsetela,Lesotho,other,USSD,Vodacom Lesotho with Stanlib Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment
@@ -126,6 +128,7 @@ MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-m
 MOZ,PASD-PE,Programa de Apoio Social Directo Pos-Emergencia,g2p,"M-PESA wallets, Offline Payment Application",INAS-IP,,2022-09-01-moz-ipcig-inas-registration-payments-emergency
 MOZ,PASD-PE,Post-Emergency Direct Social Assistance Program,g2p,"SPA, M-Pesa wallets",INAS,,2023-09-20-moz-worldbank-g2px-gradual-transition
 MOZ,campaign worker databases for digital payment,Mozambique,other,,Dimagi Inc. (implementer),,2024-12-19-crs-1601-2024012782-09-2024-campaign-worker-databases-to-facilitate-rapid-digi
+MOZ,Sistema de Pagamentos Automatizados (SPA),SPA,other,e-money institutions,CEDSIF,,2026-09-01-moz-cedsif-modulos-e-sistafe
 MRT,TEKAVOUL,Mauritania,g2p,,Taazour (Delegation Generale a la Solidarite Nationale et a la Lutte contre l'Exclusion),regular conditional transfers; Tekavoul Choc temporary unconditional transfers,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
 MRT,Registre Social,Mauritania,other,,,,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
 MUS,Independence Allowance,Mauritius,g2p,MRA e-services,Mauritius Revenue Authority,,2025-01-01-mus-independence-allowance
@@ -225,6 +228,7 @@ UGA,Integrated Financial Management Information System,Uganda,other,,Government 
 UGA,Zaidi,Uganda,other,,Government of Uganda,,2026-09-18-uga-kampalareport-parish-development-model-3-5-million-beneficiaries
 UGA,SAGE,Uganda,g2p,payment points; mobile money pilot,"Ministry of Gender, Labour and Social Development",,2026-10-19-uga-43-000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors
 UGA,national central data hub for credit reference bureaus,Uganda,other,,,,2024-07-09-crs-1601-2024011309-01-2024-uganda-central-data-hub
+UGA,Senior Citizens Grant for Empowerment (SAGE),Uganda,g2p,monthly cash transfer paid into bank accounts,"Ministry of Gender, Labour and Social Development",,2025-11-20-uga-nilepost-sage-eligibility-65-bank-accounts
 ZAF,MTN MoMo,ZAF,other,,,,2026-09-04-techcabal-mtn-fintech-serigne-dioum-momo-vision
 ZAF,PayShap,South Africa,other,,,,2026-07-13-sarb-qr-plus-checkout
 ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout
@@ -237,6 +241,7 @@ ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-
 ZMB,Social Cash Transfer,Zambia,other,,Ministry of Community Development and Social Services,,2026-07-31-civil-society-condemns-alleged-sms-linking-cash-transfers-to-voting-for-ruling-upnd
 ZMB,ZamPay,Zambia,g2p,,Smart Zambia Institute,,2024-12-11-zmb-smart-zambia-dzap-general-procurement-notice
 ZMB,OpenG2P,OpenG2P,g2p,OpenG2P,,,2024-01-01-zmb-codevelop-zambia-ekyc-openg2p
+ZMB,e-FISP,Zambia,g2p,digital voucher,Ministry of Agriculture,,2026-11-08-zmb-zambia-efisp-digital-farm-inputs-gaps
 ZWE,NSSA pension payment to mobile money wallet,Zimbabwe,g2p,mobile money wallet,National Social Security Authority of Zimbabwe (NSSA),,2026-05-22-zwe-nssa-mobile-money-pension-payments
 ZWE,Urban Cash Transfer and Movement of Grain Programme,cash to 1.7 million urban beneficiaries by phone number,g2p,NetOne,"Ministry of Public Service, Labour and Social Welfare",urban,2024-10-01-zwe-urban-cash-transfers-to-benefit-1-7m
 ZWE,Harmonised Social Cash Transfer (HSCT),Zimbabwe,g2p,EcoCash,"Ministry of Public Service, Labour and Social Welfare",30 districts,2024-07-02-zwe-cash-transfer-scheme-lacks-transparency

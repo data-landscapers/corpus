@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-31-lby-alwasat-cbl-ratibak-lahzi-in-house-payroll-platform",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Central Bank of Libya announced on 31 July 2025 its Ratibak Lahzi platform to transfer public-sector salaries into bank accounts, with bank links still being completed and national launch set for end of August.",
+   "as_of": "2025-07-31",
+   "date_precision": "day",
+   "system": "Ratibak Lahzi",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ratibak Lahzi",
+   "country_label": "Libya",
+   "class": "g2p",
+   "platform": "CBL instant payment network",
+   "owner": "Central Bank of Libya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

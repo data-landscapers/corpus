@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "UGA-002",
-      "gaps": "No source found since October 2023 shows a government transfer, salary or pension paid digitally in service; SAGE mobile money payment is a pilot.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 89): stage 5 needs stage 4 on its own evidence. SAGE mobile money payment is a pilot, so 2; the ID check on SAGE eligibility does not answer the earlier questions.",
-      "as_at": "2026-11-09"
+      "gaps": "No source found since October 2023 shows a government transfer, salary or pension paid digitally in service beyond dispute. In November 2025 a minister said SAGE payments require bank accounts linked to the NIN (UGA-004), but the newer October 2026 statement (UGA-002) calls SAGE mobile money a pilot beside the existing payment points, and the newest stands.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 89): stage 5 needs stage 4 on its own evidence. SAGE mobile money payment is a pilot on the newest fact (October 2026), so 2; the 2025 bank-account statement is older and the ID check does not answer the earlier questions.",
+      "as_at": "2026-11-12"
     }
   ]
 }

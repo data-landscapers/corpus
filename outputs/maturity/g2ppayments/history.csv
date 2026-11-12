@@ -107,3 +107,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,MUS,dpi.pay--g2p-functionality,ladder,5,3,MUS-002;MUS-001,"Bill, message 89: stage 5 only through stage 4; one stream paid digitally, so 3"
 2026-11-09,STP,dpi.pay--g2p-functionality,ladder,5,3,STP-001;STP-004,"Bill, message 89: stage 5 only through stage 4; one stream paid digitally, so 3"
 2026-11-09,TZA,dpi.pay--g2p-functionality,ladder,5,3,TZA-004;TZA-002,"Bill, message 89: stage 5 only through stage 4; one stream paid digitally, so 3"
+2026-11-12,UGA,dpi.pay--g2p-functionality,fact,2,2,UGA-002,"Nile Post, Nov 2025: minister says SAGE payments require bank accounts linked to the NIN; older than the Oct 2026 statement that SAGE mobile money is a pilot, which stands; stays 2"
