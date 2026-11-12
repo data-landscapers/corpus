@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,census,census,coverage,taken,2023,NAM-001;NAM-002;NAM-004;NAM-005;NAM-006;NAM-007;NAM-008;NAM-009;NAM-010;NAM-011,,
-NAM,census,results,coverage,final,2025-01-20,NAM-003;NAM-012,,
-NAM,census,survey,coverage,published,2015,NAM-013;NAM-014,,nothing dated since 2023-11-11
+NAM,census,census,coverage,taken,2023,NAM-001;NAM-002;NAM-004;NAM-005;NAM-006;NAM-007;NAM-008;NAM-009;NAM-010;NAM-011;NAM-015,,
+NAM,census,results,coverage,final,2025-01-20,NAM-003;NAM-012;NAM-016,,
+NAM,census,survey,coverage,published,2015,NAM-013;NAM-014,,nothing dated since 2023-11-12

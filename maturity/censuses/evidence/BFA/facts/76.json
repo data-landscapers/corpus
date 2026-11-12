@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-28-tcd-improving-access-to-quality-data-in-fragility-and-conflict-contexts-th",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The World Bank says innovative data collection systems made it possible to estimate the population of conflict-affected areas during Burkina Faso's 2019 population census.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Population census 2019",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Population census",
+   "country_label": "Population census 2019",
+   "class": "census",
+   "platform": "",
+   "owner": "INSD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

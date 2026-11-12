@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BFA,census,census,coverage,taken,2019-12,BFA-001;BFA-003;BFA-004;BFA-005,,nothing dated since 2023-11-11
-BFA,census,results,coverage,final,2022-06,BFA-002,,nothing dated since 2023-11-11
-BFA,census,survey,coverage,published,2021,BFA-006;BFA-007,,nothing dated since 2023-11-11
+BFA,census,census,coverage,taken,2019-12,BFA-001;BFA-003;BFA-004;BFA-005;BFA-008,,nothing dated since 2023-11-12
+BFA,census,results,coverage,final,2022-06,BFA-002,,nothing dated since 2023-11-12
+BFA,census,survey,coverage,published,2021,BFA-006;BFA-007,,nothing dated since 2023-11-12

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GAB,census,census,coverage,taken,2026-08-21,GAB-001;GAB-002;GAB-005,,
+GAB,census,census,coverage,taken,2026-08-21,GAB-001;GAB-002;GAB-005;GAB-006,,
 GAB,census,results,coverage,,,,,nothing found
-GAB,census,survey,coverage,published,2021,GAB-003;GAB-004,,nothing dated since 2023-11-11
+GAB,census,survey,coverage,published,2022-02,GAB-003;GAB-004;GAB-007,,nothing dated since 2023-11-12

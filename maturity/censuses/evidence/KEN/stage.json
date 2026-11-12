@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "census",
-      "stage": "3",
+      "stage": "5",
       "census": "taken",
-      "results": "",
-      "survey": "",
+      "results": "final",
+      "survey": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-003",
-      "gaps": "No source found reports preliminary or final results of the census published.",
-      "note": "Counted from the four questions by study-ladder-censuses.py.",
-      "as_at": "2026-10-25"
+      "stage_sources": "KEN-006;KEN-005;KEN-002",
+      "gaps": "",
+      "note": "The 2019 census was counted (KEN-003, KEN-005) and its data are on the open data portal (KEN-006, 2025), and the 2022 DHS was published in December 2024 (KEN-002). Every step is met, so stage 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

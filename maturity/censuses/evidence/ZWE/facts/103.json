@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-01-zwe-zimbabwe-geoportal",
+  "facts": [],
+  "systems": [
+    {
+      "system": "2023 National Census",
+      "country_label": "Census 2023",
+      "class": "census",
+      "platform": "",
+      "owner": "ZimSTATS",
+      "tiers": ""
+    }
+  ],
+  "note": "Parent check: the geoportal labels a ZimStat district extract '2023 National Census'; it dates no count and states no release of results, so no fact is taken."
+}

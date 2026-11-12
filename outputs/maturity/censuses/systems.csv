@@ -52,6 +52,7 @@ BFA,RGPH 2019,RGPH 2019,census,,,,2024-06-02-bfa-burkina24-oni-banfora-cnib
 BFA,RGPH 2019,RGPH 2019,census,,,,2024-02-02-bfa-oni-antenne-centre-ouest-cnib
 BFA,Enquête Démographique et de Santé 2021,EDS 2021,survey,,,,2026-10-08-world-development-indicators-selection-2026-11-10
 BFA,Core Welfare Indicator Questionnaire Survey (CWIQ) 2014,CWIQ 2014,survey,,,,2026-10-08-world-development-indicators-selection-2026-11-10
+BFA,Population census,Population census 2019,census,,INSD,,2025-05-28-tcd-improving-access-to-quality-data-in-fragility-and-conflict-contexts-th
 BWA,BMTHS 2024/25,BMTHS 2024/25,survey,,Statistics Botswana,,2026-03-01-bmths-2024-25-labour-force-preliminary-stats-brief
 BWA,BMTHS 2015/16,BMTHS 2015/16,survey,,Statistics Botswana,,2026-03-01-bmths-2024-25-labour-force-preliminary-stats-brief
 BWA,PHC 2022,PHC 2022,census,,Statistics Botswana,,2026-03-01-bmths-2024-25-labour-force-preliminary-stats-brief
@@ -215,6 +216,7 @@ GAB,Population census 2013,RGPH 2013,census,,,,2026-10-08-world-development-indi
 GAB,Troisieme Enquete Demographique et de Sante 2019-2021,EDS III 2019-2021,survey,,,,2026-10-08-world-development-indicators-selection-2026-11-10
 GAB,LSMS/Integrated household survey (IHS) 2017,LSMS/IHS 2017,survey,,,,2026-10-08-world-development-indicators-selection-2026-11-10
 GAB,Population census 2013,RGPH 2013,census,,,,2025-12-09-statistical-performance-indicators-2026-11-10
+GAB,Recensement General de la Population et des Logements,RGPL 2013,census,,Direction Generale de la Statistique,,2025-02-07-gab-espace-des-donnees-a-telecharger
 GHA,National school census,National school census (Ghana),other,,Ministry of Education,,2025-12-20-education-ministry-updates-emis-indicators-to-strengthen-ict-integration-in-schools
 GHA,DPI Inclusivity Survey,DPI Inclusivity Survey 2026,other,,Global Development Network,,2026-09-07-gdn-dpi-inclusivity-survey-deployment-linkedin
 GHA,Governance Series (Wave 3 panel survey),Governance Series Wave 3 2025,other,,Ghana Statistical Service,,2026-08-06-governance-reforms-yielding-results-but-remain-fragile-government-statistician
@@ -459,6 +461,7 @@ NAM,2023 Population and Housing Census,Census 2023,census,,Namibia Statistics Ag
 NAM,Namibia Census of Agriculture,Namibia Census of Agriculture,other,,FAO (supporter),,2024-01-01-crs-932-2024001934-2024-development-of-spars-in-namibia-and-the-developmen
 NAM,Demographic and Health Survey 2013,Namibia,survey,,,,2026-10-08-world-development-indicators-selection-2026-11-10
 NAM,Expenditure survey/budget survey (ES/BS) 2015,Namibia,survey,,,,2026-10-08-world-development-indicators-selection-2026-11-10
+NAM,2023 Population and Housing Census,Census 2023,census,,Namibia Statistics Agency,,2026-08-05-nam-nsa-releases-2023-census-public-use-microdata-sample-pums-for-public-a
 NER,5e RGPH,RGPH-5,census,,Institut National de la Statistique,,2026-07-29-lesahel-diffa-chefs-traditionnels-5e-rgph
 NER,5e RGPH,RGPH-5,census,,Institut National de la Statistique,,2025-10-09-niger-lesahel-synpis-congres-recensement
 NER,5e RGPH,RGPH-5,census,,Institut National de la Statistique,,2025-09-24-ins-niger-regen-rapport-general
@@ -697,3 +700,4 @@ ZWE,ICT Access by Households and Use by Individuals Survey 2025,ICT Households S
 ZWE,2025 ICT Household Survey,ICT Household Survey 2025,census,,ZIMSTAT and POTRAZ,,2026-10-28-zwe-it-must-create-jobs-improve-services-minister
 ZWE,National Agricultural Census,National Agricultural Census,other,,FAO (supporter),,2024-01-01-crs-932-2024002447-2024-technical-assistance-on-the-preparation-of-nationa
 ZWE,National Agricultural Census (NAC),NAC,other,,FAO,,2024-09-30-iati-xm-dac-41301-753658-technical-assistance-on-the-preparation-of-national-agricult
+ZWE,2023 National Census,Census 2023,census,,ZimSTATS,,2026-07-01-zwe-zimbabwe-geoportal

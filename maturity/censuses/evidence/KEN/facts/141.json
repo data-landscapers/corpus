@@ -1,0 +1,27 @@
+{
+  "slug": "2025-01-01-nga-transparency-and-accountability-as-trust-builders-in-the-african-data",
+  "facts": [
+    {
+      "sub_indicator": "census",
+      "aspect": "census",
+      "value": "taken",
+      "fact": "Pollicy says the Kenya Open Data Initiative portal provides data such as the 2019 census.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "2019 census",
+      "class": "census"
+    },
+    {
+      "sub_indicator": "census",
+      "aspect": "results",
+      "value": "final",
+      "fact": "Pollicy says Kenya's open data portal gives free access in machine-readable formats to government data such as the 2019 census; the report is undated, so its year stands.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "2019 census",
+      "class": "census"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

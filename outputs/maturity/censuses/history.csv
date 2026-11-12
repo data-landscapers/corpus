@@ -55,3 +55,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,DZA,data.statistics--censuses-and-surveys,fact,no evidence,3,DZA-001;DZA-004,External claims (housekeeping 58): WDI and SPI list a census inside ten years; restaged to 3
 2026-11-11,EGY,data.statistics--censuses-and-surveys,fact,2,3,EGY-004;EGY-006,External claims (housekeeping 58): WDI and SPI list a census inside ten years; restaged to 3
 2026-11-11,BEN,data.statistics--censuses-and-surveys,fact,2,2,BEN-004;BEN-005,"External claims (housekeeping 58): WDI and SPI list a 2023 census, but INStaD began RGPH5 mapping in March 2024; both rows removed, stays 2"
+2026-11-12,KEN,data.statistics--censuses-and-surveys,fact,3,5,KEN-006;KEN-005;KEN-002,"Pollicy (2025) says the open data portal serves the 2019 census: results published; with the 2022 DHS published in 2024, every step is met"

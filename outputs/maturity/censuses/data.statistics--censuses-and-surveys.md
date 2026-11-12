@@ -20,9 +20,9 @@ The African Charter on Statistics (2009) and SHaSA 2 ask each country to produce
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 9 |
+| 5 Leading | 10 |
 | 4 Operating | 12 |
-| 3 Established | 22 |
+| 3 Established | 21 |
 | 2 Nascent | 8 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
@@ -44,6 +44,14 @@ The 2024 census's preliminary report came out in September 2024, and a 2026 labo
 
 - The Gambia Bureau of Statistics lists the Gambia Labour Force Survey GLFS 2026 (Q1), alongside the 2019/20 DHS, MICS6 and IHS 2020, with reports and microdata for download ([source, 2026-10-16](https://www.gbosdata.org/downloads)).
 - UNFPA The Gambia reports that the Gambia Bureau of Statistics launched the preliminary report of the 2024 digital population and housing census on 17 September 2024, giving a population of 2.4 million, over 300,000 more than in 2013 ([source, 2024-09-17](https://gambia.unfpa.org/en/news/unfpa-joins-gambia-bureau-statistics-and-partners-launch-2024-digital-population-and-housing)).
+
+### Kenya: 5 Leading
+
+Kenya's 2019 census data were on its open data portal in 2025, and its 2022 household health survey was published in 2024.
+
+- Pollicy says Kenya's open data portal gives free access in machine-readable formats to government data such as the 2019 census; the report is undated, so its year stands ([source, 2025](https://pollicy.org/wp-content/uploads/2025/04/Policy-brief-13-Mar.pdf)).
+- Pollicy says the Kenya Open Data Initiative portal provides data such as the 2019 census ([source, 2019](https://pollicy.org/wp-content/uploads/2025/04/Policy-brief-13-Mar.pdf)).
+- The Communications Authority and KNBS released an analytical report on ICT uptake based on the 2022 Kenya Demographic and Health Survey, covering 42,022 households in 1,692 clusters ([source, 2024-12-17](http://www.ca.go.ke/households-electricity-have-higher-internet-usage-and-ict-device-ownership-survey-shows)).
 
 ### Morocco: 5 Leading
 
@@ -248,12 +256,6 @@ The Population and Housing Census 2017 was counted in 2017; no results of it are
 The RGPL 2026 was counted in 2026; no results of it are known to be out.
 
 - The national population and housing census (RGPL) has been enumerated, with the Estuaire governor reporting coverage above 95% in her province; the document gives no enumeration date, so the document's published date is used ([source, 2026-08-21](https://www.gabonreview.com/rgpl-la-cour-constitutionnelle-lance-la-verification-des-chiffres-dans-les-neuf-provinces/)).
-
-### Kenya: 3 Established
-
-Kenya counted its 2019 Population and Housing Census in 2019; no results of it are known to be out.
-
-- KNBS's director general said on 31 January 2025, after a court cancelled the 2019 census results for parts of Wajir, Mandera and Garissa, that groundwork had been laid for the 2029 census, Kenya's seventh ([source, 2025-01-31](https://www.kenyans.co.ke/news/108566-knbs-rules-out-new-census-garissa-wajir-mandera-citing-4-year-preparation-time)).
 
 ### Lesotho: 3 Established
 

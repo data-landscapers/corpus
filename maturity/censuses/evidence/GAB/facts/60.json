@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-07-gab-espace-des-donnees-a-telecharger",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The statistics directorate's page says Gabon carried out its sixth general population census in October 2013.",
+   "as_of": "2013-10",
+   "date_precision": "month",
+   "system": "Recensement General de la Population et des Logements 2013",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The page lists reports of household COVID-19 impact survey waves, the latest for February 2022 (wave 9), and the EGEP II (2017) poverty survey.",
+   "as_of": "2022-02",
+   "date_precision": "month",
+   "system": "Impact de la covid-19 sur les conditions de vie des menages (wave 9)",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Recensement General de la Population et des Logements",
+   "country_label": "RGPL 2013",
+   "class": "census",
+   "platform": "",
+   "owner": "Direction Generale de la Statistique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
