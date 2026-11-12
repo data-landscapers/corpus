@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-11-cog-congo-brazzaville-systemes-d-information-de-l-etat-les-differentes-pla",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sifec",
+   "country_label": "Congo-Brazzaville",
+   "class": "other",
+   "platform": "",
+   "owner": "ACSI",
+   "tiers": ""
+  }
+ ],
+ "note": "Interoperability with other systems is a stated requirement, with no link to an ID system named."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-21-mdg-implementation-status-and-results-report-digital-governance-and-identi",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The World Bank PRODIGY report says the pilot birth registration solution run by CNECI and UGD in Antananarivo and Toamasina registered over 3,000 newborns and issued birth certificate copies carrying a unique identification number.",
+   "as_of": "2023-10-23",
+   "date_precision": "day",
+   "system": "PRODIGY birth registration pilot",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
