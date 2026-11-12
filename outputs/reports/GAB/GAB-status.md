@@ -6,7 +6,7 @@ region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 235
+sources_cited: 238
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -313,6 +313,8 @@ In 2025 the public distance-learning [Université Numérique du Gabon](https://u
 
 [The Université des Sciences et Techniques de Masuku has awarded diplomas from technician to doctoral level under the licence-master-doctorate system since 2007](https://univ-masuku.org/). [It was founded in 1986, when the science faculty and the Libreville engineering school moved to Franceville](https://univ-masuku.org/). [It calls itself the country's first scientific establishment](https://univ-masuku.org/).
 
+[In July 2026 the Gabonese Scientific Committee for AI Research sought a seat in the economic and social council's digital commissions](https://www.csgria.ga/actualites/article/le-csgr-ia-recu-en-audience/).
+
 ## Inclusion
 
 ### Access to services
@@ -351,7 +353,7 @@ In 2025 the public distance-learning [Université Numérique du Gabon](https://u
 ### Open data
 <!-- data.open -->
 
-[In 2025 the World Bank found no open data portal publishing government datasets for reuse](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Disclosure of public records scored 11.7 of 100 in 2023, 49th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf). [It is one of Gabon's ten worst governance indicators and barely changed across the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf). [Accessibility of public records reached 21.2 of 100 in 2023, up 7.7 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf).
+[In 2025 the World Bank found no open data portal publishing government datasets for reuse](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In January 2026 the President instructed two ministers to accelerate a public-data portal for journalists, researchers and citizens](https://gabonmediatime.com/voeux-a-la-presse-mark-doumba-et-germain-bihadjow-sommes-de-faciliter-lacces-aux-donnees-gouvernementales/). [The National Herbarium has published 41,973 specimen records under a public-domain dedication since 2019](https://ipt-gabon.gbif.fr/resource?r=herbier_national_gabon). [Disclosure of public records scored 11.7 of 100 in 2023, 49th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf). [It is one of Gabon's ten worst governance indicators and barely changed across the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf). [Accessibility of public records reached 21.2 of 100 in 2023, up 7.7 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf).
 
 [In Open Data Watch's 2024 inventory, government finance is Gabon's strongest category at 6 out of 10](https://odin.opendatawatch.com/data). [National accounts, trade, labour, prices, poverty, population, education and health facilities score between 3 and 5, and energy 2.5](https://odin.opendatawatch.com/data). [Four categories score zero: digital connectivity, built environment, pollution and food security](https://odin.opendatawatch.com/data). [In those four, nothing meeting the inventory's coverage and openness tests is published](https://odin.opendatawatch.com/data).
 
