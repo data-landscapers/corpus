@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-egy-remote-power-of-attorney-face-biometric-and-remote-e-signature",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Youm7 reports that the remote power-of-attorney service of the justice and communications ministries checks applicants against the state's biometric records, linking the Digital Egypt platform, the digital identity app and ITIDA's signing infrastructure.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Remote general power-of-attorney service",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

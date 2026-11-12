@@ -36,6 +36,7 @@ BEN,Registre national des personnes physiques (RNPP) / NPI,Benin,relying,"API, X
 BEN,service-public.bj,Benin,relying,,Ministry of Justice and Legislation,,2026-11-02-ben-digitization-in-benin-criminal-records-now-issued-instantly-and-withou
 BEN,Xroad-BJ,Benin,other,,ASIN,,2026-07-28-lanation-interoperabilite-regles-acces-xroad-bj
 BEN,UXP,Benin,other,Cybernetica UXP,Government of Benin,,2026-07-11 UXP Directory
+BEN,Carte Nationale d'Identité Biométrique (CNIB),Benin,other,,ANIP,,2025-03-01-ben-anip-carte-identite-biometrique-prestations
 BFA,SIM and cybercafe subscriber identification,Burkina Faso,relying,operators' subscriber identification databases,electronic communications providers; regulator ARCEP,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office National d'Identification database,Burkina Faso,other,,Office National d'Identification,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,identité digitale pour tous,Burkina Faso,other,,Ministry of Digital Transition,,2026-10-09-bfa-lefaso-zama-tche-maisons-du-citoyen-transition-digitale-bilan
@@ -180,6 +181,7 @@ EGY,Government digital exchange,Egypt,other,,,,2026-08-29-egypte-solidarite-serv
 EGY,Digital identity system,Egypt,other,,,,2026-08-29-egypte-solidarite-services-numeriques-familles-adoptives
 EGY,Digital Egypt,Egypt,relying,"misr.gov.eg, mobile app, 15999 hotline",Government of Egypt,,2026-08-02-egy-your-guide-to-navigating-egypt-s-online-government-services
 EGY,Haweya,Egypt,relying,,Haweya,,2026-09-22-egy-fintechgate-haweya-digital-id-five-banks-18-months
+EGY,Remote general litigation power of attorney,Digital Egypt platform,relying,Digital Egypt platform,Ministry of Justice,,2026-11-09-egy-22-electronic-notarial-and-real-estate-registry-services
 ERI,Eritel mobile prepaid service application,Eritrea,other,,Eritel (Eritrean Telecommunication Services Corporation),,2025-01-01-eritel-apply-for-services
 ERI,Eritrean National ID (embassy application via Consular Affairs Processing System),Eritrea,other,Consular Affairs Processing System (CAPS),"Embassy of the State of Eritrea, Washington DC",National ID; Underage ID; Temporary ID,2024-10-17-eritrea-embassy-national-id
 ERI,Eritrean national identity card (new electronic card),Eritrea,other,,Department of Immigration and Nationality,,2018-09-26-eritrea-national-id-card-ecoi
@@ -206,6 +208,7 @@ ETH,Farmer Profile Project,Ethiopia,relying,,Agricultural Transformation Institu
 ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
 ETH,teleSign,Ethiopia,relying,mobile app and website,Ethio Telecom,,2026-03-31-eth-ethio-telecom-launches-telesign-to-transform-document-authentication
 ETH,Fayda,Fayda,other,MOSIP,National ID Program,,2024-01-01-eth-fayda-digital-id-ethiopia-status-update
+ETH,Farmers Profile Registration (Fayda-linked),Ethiopia,relying,Fayda,Agricultural Transformation Institute,,2026-11-08-ethiopia-farmers-profile-registration-four-million
 GAB,Declaration unique des salaires (DUS),Gabon,relying,Gabon Connect (built with Ika Technology),"DGI, CNSS, CNAMGS",,2026-04-29-gabon-dus-tournant-numerique-transparence-salariale
 GAB,plateforme de consultation de la liste électorale (www.consultation.listelectorale.ga),Gabon,other,,Ministère de l'Intérieur,,2025-09-01-gabon-interieur-verifiez-inscription-liste-electorale-nip
 GHA,NIA Identity Verification System,Ghana,other,,National Identification Authority,,2026-07-23-graphic-ghana-card-photocopying-november-2-deadline
@@ -302,6 +305,7 @@ KEN,Maisha Namba,Kenya,other,,,,2026-06-15-expands-digital-id-minors-health-biom
 KEN,Biometric Health Identification (BHI),Kenya,other,,Ministry of Health,,2025-08-05 Kenya Ministry of Health Launches Biometric Health Identification
 KEN,e-Citizen SMS notification,KEN,other,e-Citizen,State Department for Immigration and Citizen Services,,2026-11-06-ken-state-turns-to-chiefs-e-citizen-to-trace-owners-of-uncollected-ids
 KEN,IPRS,Kenya,relying,,Government of Kenya,,2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital
+KEN,Digital ID (eCitizen),Kenya,other,eCitizen Gava Mkononi app,,,2025-01-01-kenya-digital-id
 LBR,SIM registration linked to national ID,Liberia,relying,,Liberia Telecommunications Authority,,2024-10-10 Liberia sets July 2025 deadline for SIM registration linked to national ID (LTA-NIR MoU)
 LBR,NIR national ID database,Liberia,other,,National Identification Registry,,2024-10-10 Liberia sets July 2025 deadline for SIM registration linked to national ID (LTA-NIR MoU)
 LBR,National Biometric Identification System (NBIS),Liberia,other,,National Identification Registry,,2025-07-09 Liberia appoints steering committee for NBIS rollout by April 2026
@@ -576,6 +580,7 @@ NGA,NIN-SIM linkage,Nigeria,relying,,,,2024-08-28-nga-press-statement-ncc-announ
 NGA,NIN-SIM linkage,Nigeria,relying,,NCC,,2026-11-04-nga-nin-fraud-arrests-data-scandal-renew-security-concerns
 NGA,NIN,Nigeria,other,,NIMC,,2025-10-12-nga-nigeria-intends-to-boost-universal-health-coverage-drive-with-digital
 NGA,Border Control and Immigration Management System,Nigeria Immigration Service border system,other,,Nigeria Immigration Service,,2026-11-10-nga-thefact-nigeria-integrates-17m-migration-records-advances-eu-deal
+NGA,NIN-SIM linkage,Nigeria,relying,,NCC with mobile operators,telecoms,2026-11-11-nga-mobile-subscriptions-200-million-after-nin-sim-purge
 RWA,Single Digital ID (SDID) authentication system,Rwanda,other,Irembo account and digital wallet,NIDA,,2026-03-26-govt-sets-2027-deadline-digital-id-newtimes
 RWA,Biometric SIM card registration and verification,Rwanda,relying,NIDA database,RURA; telecom operators,,"2024-09-17 Rwanda conducts pilot to implement biometric SIM registration, verification"
 RWA,SIM card registration (RURA Regulation 18/2024),Rwanda,relying,national-ID database,RURA,,2024-08-09 Regulation Governing SIM Card Registration in Rwanda (RURA No.18-2024)
@@ -695,10 +700,14 @@ SYC,monServis,Seychelles,relying,,DICT,,2023-04-19-sla-online-services-seyid-mon
 SYC,SeyID,Seychelles,other,,DICT,,2023-04-19-sla-online-services-seyid-monservis
 SYC,CertExpress,Seychelles,other,,,,2022-11-01 Seychelles Civil Status Act Cap 34 (as at 1 Nov 2022)
 SYC,SeyID,Seychelles,relying,,Department of Information Communications Technology,banks and payment providers,2025-04-04-syc-directive-on-the-adoption-and-acceptance-of-the-national-digital-ident
+SYC,monServis,Seychelles,relying,,Government of Seychelles (DICT),,2024-01-01-monservis-government-services-portal
+SYC,SeyID,Seychelles,other,accredited identity app,DICT,,2024-01-01-monservis-government-services-portal
+SYC,Biz Auth,Seychelles,other,,,,2024-01-01-monservis-government-services-portal
 TCD,ANATS-Airtel Tchad subscriber identification partnership,Chad,relying,,Airtel Tchad; ANATS,,2026-05-09-tchadinfos-anats-airtel-partenariat-securisation-donnees
 TGO,Identification systématique et obligatoire des abonnés (SIM registration),Togo,relying,,"Telecom operators, regulated by ARCEP",,2025-04-23-togo-jo-decret-2024-071-identification-abonnes
 TGO,NIU / carte d'identification unique,Togo,other,,Agence Nationale d'Identification (ANID),,2025-04-23-togo-jo-decret-2024-071-identification-abonnes
 TGO,Registre social des personnes et des ménages,Togo,other,,Ministère de l'Economie Numérique et de la Transformation Digitale,,2024-09-30-togo-jo-arrete-007-acces-partage-donnees-rspm
+TGO,e-ID Togo (NIU),Togo,other,,ANID,,2025-01-01-anid-togo-e-id-enrolment-steps-benefits
 TUN,E-Houwiya,Tunisia,relying,mobile ID,Ministry of Communication Technologies,,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
 TUN,E-Bawaba,Tunisia,relying,government portal,,,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
 TUN,E-CNAM,Tunisia,relying,government portal,,,2025-03-01 Tunisia drives digitization agenda forward while navigating risks

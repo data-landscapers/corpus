@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-egy-22-electronic-notarial-and-real-estate-registry-services",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Vetogate reports that the remote power of attorney service, launched 7 November 2026, checks the citizen's face against the biometric record held in state databases before the document is signed.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Remote general litigation power of attorney (Digital Egypt platform)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Remote general litigation power of attorney",
+   "country_label": "Digital Egypt platform",
+   "class": "relying",
+   "platform": "Digital Egypt platform",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
