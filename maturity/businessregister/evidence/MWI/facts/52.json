@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-29-mwi-all-set-for-launch-of-lims-mbrs",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "Malawi Broadcasting Corporation reported on 29 February 2024 that the Ministry of Trade's Malawi Business Registration System (MBRS) was being launched, letting people register a business entity, update information and access certifications digitally.",
+   "as_of": "2024-02-29",
+   "date_precision": "day",
+   "system": "Malawi Business Registration System (MBRS)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi Business Registration System (MBRS)",
+   "country_label": "Malawi",
+   "class": "business",
+   "platform": "online portal",
+   "owner": "Ministry of Trade",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

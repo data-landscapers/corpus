@@ -13,6 +13,7 @@ BFA,e-RCCM (e-actes-rccm.gov.bf),Burkina Faso,business,e-actes-rccm.gov.bf,Minis
 BFA,Beneficial owners register (Tribunal de commerce de Ouagadougou),Burkina Faso,other,,Commercial courts,,2025-05-08-bfa-transparence-dans-les-industries-extractives-la-chambre-des-mines-du-b
 BFA,plateforme de declaration des beneficiaires effectifs,BO declaration platform,other,,Ministry of Justice,national,2024-09-23-bfa-assechement-des-sources-de-financement-des-groupes-armes-le-gouverneme
 BFA,registre des beneficiaires effectifs,BO register of the Ouagadougou commercial court,other,,Tribunal de commerce de Ouagadougou,mining title holders,2025-03-24-bfa-declaration-des-beneficiaires-reels-des-entreprises-minieres-un-dispos
+BFA,e-RCCM,Burkina Faso,business,e-acte-rccm.gov.bf,Ministry of Justice,,2025-12-16-bfa-burkina-trois-plateformes-numeriques-lancees-pour-faciliter-les-demarc
 BWA,Online Business Registration System (OBRS),Botswana,business,Foster Moore software,CIPA,,2025-02-05-bwa-businessweekly-cipa-obrs-it-system
 BWA,VERNE-BO beneficial ownership register,Botswana,business,Foster Moore,CIPA,,2025-02-05-bwa-businessweekly-cipa-obrs-it-system
 CAF,Guichet Unique de Formalisation des Entreprises (GUFE),Central African Republic,business,,GUFE RCA,"branches at Bangui, Bambari, Berberati",2026-02-03-gufe-antenne-berberati-operationnelle
@@ -25,6 +26,7 @@ CIV,Identifiant Unique (IDU),Cote d'Ivoire,business,,CEPICI,,2025-01-01-civ-cepi
 CIV,Guichet Unique de Formalites d'Entreprise,Cote d'Ivoire,business,,CEPICI,,2026-08-11-civ-cote-d-ivoire-le-delai-de-creation-d-entreprise-en-ligne-ramene-a-2-4
 CIV,GUDIP,Cote d'Ivoire,other,,CEPICI / Direction generale de l'Economie,,2026-08-11-civ-cote-d-ivoire-le-delai-de-creation-d-entreprise-en-ligne-ramene-a-2-4
 CIV,Annuaire IDU,Annuaire IDU (Identifiant Unique),business,www.annuaireidu.ci,CEPICI,,2025-07-10-civ-environnement-des-affaires-le-cepici-lance-l-annuaire-idu-un-registre
+CIV,CEPICI guichet unique,Cote d'Ivoire,business,,"CEPICI, built by SNDI",,2026-07-28-civ-digitalisation-des-services-publics-en-cote-d-ivoire-les-applications
 CMR,Registre du commerce et du crédit mobilier (RCCM),Cameroun,business,RCCM management software solution,Ministère de la Justice du Cameroun,30 sites (greffes and centres de formalités des entreprises) and national file,2024-04-03-ohada-informatisation-rccm-cameroun-point-etape
 CMR,RCCM,Cameroon,business,,,,2025-01-01-immatriculation-taxpayer-registration-directorate-general-taxation-cameroon
 COD,Guichet Unique de Création d'Entreprise (GUCE),DRC,business,website and mobile app,GUCE,,2026-07-28-cd-guce-formalisation-numerique
@@ -121,6 +123,7 @@ MWI,Malawi Business Registration System (MBRS),Malawi,business,,Department of Re
 MWI,Malawi Business Registration System (MBRS),Malawi,business,,Government of Malawi,,2024-02-29-mwi-247malawi-chakwera-launches-mbrs-lims
 MWI,Malawi Business Registration System (MBRS),Malawi,business,,Registrar of Companies,,2025-09-01-mwi-beneficial-ownership-disclosure-in-malawi
 MWI,Malawi Business Registration System,Malawi,business,,"Companies, Registrations and Intellectual Property Centre",,2026-05-29-mwi-minister-of-justice-urges-professionalism
+MWI,Malawi Business Registration System (MBRS),Malawi,business,online portal,Ministry of Trade,,2024-02-29-mwi-all-set-for-launch-of-lims-mbrs
 NAM,ITAS,Namibia,other,,NamRA,,2024-02-01-namra-bipa-explore-integrating-business-registration-and-tax-systems
 NAM,BIPA system,Namibia,business,,BIPA,,2024-02-01-namra-bipa-explore-integrating-business-registration-and-tax-systems
 NAM,BIPA register,Namibia,business,,BIPA,,2024-01-01-business-registration
@@ -179,6 +182,7 @@ TUN,Registre national des entreprises (RNE),Tunisia,business,RNE online platform
 TUN,Registre national des entreprises,Tunisia,business,CNRE digital platform,Centre national du registre des entreprises,,2026-01-13-tun-arrete-beneficiaire-effectif-procedure-acces
 TUN,Registre National des Entreprises (RNE),Tunisia,business,,Presidency of the Government,,2025-04-18-tun-le-rne-accelere-la-digitalisation-des-entreprises-tunisiennes
 TUN,Registre national des entreprises (RNE),Tunisia,business,,RNE,,2026-10-29-tun-thomas-denfer-un-registre-fiable-permet-de-renforcer-lentrepreneuriat
+TUN,Registre national des entreprises,Tunisia,business,,,,2026-11-06-tun-sofiene-hemissi-annonce-la-numerisation-de-plusieurs-services-administ
 TZA,BRELA Online Registration System (ORS),Tanzania,business,,BRELA,,2026-01-01-tza-brela-usajili-wa-kampuni-online
 TZA,BRELA Online Service (BOS),Tanzania,business,,BRELA,,2026-05-28-tza-brela-rolls-out-an-upgraded-online-system-to-speed-up-company-registra
 TZA,BRELA beneficial ownership system,Tanzania,business,,BRELA,,2026-01-06-tza-brela-taarifa-kwa-umma-umiliki-manufaa-kampuni
@@ -191,6 +195,7 @@ UGA,Online Business Registration System (OBRS),Uganda,business,,Uganda Registrat
 UGA,Online Business Registration System (OBRS),Uganda,business,,Uganda Registration Services Bureau,,2025-09-02-uga-ursb-s-digital-transformation-enhances-service-access-and-transparency
 UGA,eRegistry,URSB eRegistry,business,,URSB,,2026-11-05-uga-ursb-launches-mobile-app-for-business-registration-services
 UGA,URSB Connect,URSB Connect app 2026,business,mobile app,URSB,,2026-11-05-uga-ursb-launches-mobile-app-for-business-registration-services
+UGA,OBRS (Online Business Registration System),Uganda,business,,URSB,,2026-11-11-uga-ursb-defends-system-failures-data-exposure-as-mps-probe-shs1bn-fin
 ZAF,Beneficial Ownership Disclosure Module,South Africa,business,,Companies and Intellectual Property Commission,,2026-09-29-zaf-new-tools-from-cipc-to-strengthen-sa-s-fight
 ZAF,Optimized Beneficial Ownership Declaration,South Africa,business,,Companies and Intellectual Property Commission,,2025-09-04-cipc-optimised-beneficial-ownership-declaration
 ZAF,CIPC e-Services,South Africa,business,,Companies and Intellectual Property Commission,,2026-03-31-cipc-external-company-registration

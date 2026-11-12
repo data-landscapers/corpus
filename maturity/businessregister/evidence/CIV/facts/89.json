@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-civ-digitalisation-des-services-publics-en-cote-d-ivoire-les-applications",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Ivoirexpress reports SNDI says it built the information system of the CEPICI one-stop shop, which allows companies to be created in 24 hours.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "CEPICI guichet unique system",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CEPICI guichet unique",
+   "country_label": "Cote d'Ivoire",
+   "class": "business",
+   "platform": "",
+   "owner": "CEPICI, built by SNDI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

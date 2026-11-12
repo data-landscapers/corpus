@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-16-bfa-burkina-trois-plateformes-numeriques-lancees-pour-faciliter-les-demarc",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Libreinfo.net reports that on 15 December 2025 the government launched the e-acte-rccm.gov.bf platform, through which extracts, registration certificates and non-bankruptcy certificates from the commerce and mobile credit register can be obtained online.",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "e-acte-rccm.gov.bf",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-RCCM",
+   "country_label": "Burkina Faso",
+   "class": "business",
+   "platform": "e-acte-rccm.gov.bf",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

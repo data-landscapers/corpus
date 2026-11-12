@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,business,registration,coverage,inservice,2026-07,CIV-001;CIV-002;CIV-004,,
+CIV,business,registration,coverage,inservice,2026-07,CIV-001;CIV-002;CIV-004,CIV-006=underway,
 CIV,business,shared,coverage,shared,2025,CIV-003;CIV-005,,
-CIV,business,owners,coverage,,,,,nothing held
+CIV,business,owners,coverage,,,,,nothing found
