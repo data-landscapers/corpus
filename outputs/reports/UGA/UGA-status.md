@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 13
-sources_cited: 315
+sources_cited: 317
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -335,6 +335,8 @@ Inside government, [a digital skills strategy and a running training programme f
 Research on Uganda's most-used digital system runs into a wall at the data: [mobile-money operators declined to give researchers real transaction data, leaving the work to proceed on a synthetic set (April 2026)](https://www.ictworks.org/african-mobile-money-program-problems/).
 
 The compute, at least, is now domestic — [a national AI research cloud launched at Makerere with the research and education network in March 2026](https://www.newvision.co.ug/category/science/minister-musenero-launches-national-ai-resear-NV_229938_032026) hosts model training in the country rather than abroad. What is produced there struggles to leave the building: [innovations from academic and technical institutions fail to secure intellectual-property protection, manufacturing capacity, investment and the industry partnerships large-scale production needs](https://www.newvision.co.ug/category/news/govt-moves-to-commercialise-homegrown-digital-NV_238066_072026), which is consistent with Uganda's [bottom-quartile standing on the global innovation index (2024)](https://www.wipo.int/edocs/gii-ranking/2024/ug.pdf). A Ugandan rural women's organisation is [one of twelve participants in GAINAfrica, a Horizon Europe action on locally adapted generative AI signed in May 2026 and running from October 2026 to September 2029](https://cordis.europa.eu/project/id/101298559).
+
+In January 2025 [the Centre for Multilateral Affairs found the country's AI rules absent or formative and called for an AI law and an inclusive task force](https://thecfma.org/wp-content/uploads/2025/01/Policy-brief-AI-governance_CfMA_2025_Final.pdf). In September 2025 [CIPESA's country report found no AI strategy or AI-specific law](https://cipesa.org/wp-content/files/reports/State_of_Internet_Freedom_in_Africa_2025__Navigating_the_Implications_of_AI_on_Digital_Democracy_in_Uganda_.pdf).
 
 ## Inclusion
 

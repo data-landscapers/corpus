@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: UGA
-ledger_rows: 40
+ledger_rows: 41
 not_held: 12
-record: 95b8812198b2
+record: 57bc6f919fa3
 ---
 
 # News, Oct – Nov 2026
@@ -788,6 +788,8 @@ Summarised under [Digital divides](#digital-divides).
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#open-data">Open data</a>
 </nav>
 
 ### National statistics
@@ -801,6 +803,22 @@ Summarised under [Digital divides](#digital-divides).
 **[Technical Assistance for Capacity Building in Gender-Disaggregated Data Collection on Women's Entrepreneurship and Digitalization and Development of a Women's Digital Entrepreneurship Barometer Methodology (TZA25001-10032)](https://www.enabel.be/app/uploads/2026/11/TZA25001-10032_Tender-Specifications.pdf)** — Enabel, 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
 Enabel published tender TZA25001-10032 on 6 November 2026 for technical assistance on gender-disaggregated data on women's entrepreneurship and digitalisation. The work includes a women's digital entrepreneurship barometer methodology for Tanzania and Uganda, under a 730-day contract. Bids close on 27 November 2026 at 16:00 East Africa Time.
+
+</div>
+
+</div>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public procurement authority open contracting data feed</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda: Public Procurement and Disposal of Public Assets Authority (PPDA)](https://data.open-contracting.org/en/publication/130)** — Open Contracting Partnership, OCP Data Registry, 1 October 2026
+
+OCDS feed Jul 2015 to Oct 2026 under ODC-By; 210 entities enrolled; 71,639 tenders, 142,168 contracts.
 
 </div>
 
