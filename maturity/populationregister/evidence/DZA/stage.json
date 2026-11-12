@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "DZA-004",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-populationregister.py.",
-      "as_at": "2026-11-10"
+      "note": "Stage 5: the civil-status register is the population database, holds births and deaths, and 23 bodies consulted it. Every question of the ladder is met inside the window.",
+      "as_at": "2026-11-12"
     }
   ]
 }

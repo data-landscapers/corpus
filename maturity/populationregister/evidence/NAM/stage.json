@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "NAM-010;NAM-002",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-populationregister.py.",
-      "as_at": "2026-11-10"
+      "note": "Stage 5: the NPRS takes births and deaths from 135 health facilities, and social grants are checked against it. Every question of the ladder is met inside the window.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "population",
-      "stage": "5",
+      "stage": "3",
       "register": "inservice",
-      "vital": "updated",
-      "used": "source",
+      "vital": "",
+      "used": "",
       "cap": "",
       "flags": "",
       "stage_sources": "TCD-002",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-populationregister.py.",
-      "as_at": "2026-11-10"
+      "gaps": "In July 2026 ANATS's director general said the births a national campaign collects will be entered in the biometric register (TCD-004); that is an intention, and no source says births or deaths are entered now. The finance ministry's March 2026 protocol to consult the register (TCD-002) answers question 4 but cannot count while question 3 is unmet.",
+      "note": "Stage 3 on ANATS's statement of March 2026 that an integrated population system based on the biometric register is deployed. Stage 4 needs births or deaths entered in it, and the July 2026 statement says only that campaign births will be.",
+      "as_at": "2026-11-12"
     }
   ]
 }

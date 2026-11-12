@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BEN-006;BEN-012",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-populationregister.py.",
-      "as_at": "2026-10-17"
+      "note": "Stage 5: the RNPP holds 13.8 million people, takes births and deaths, and feeds 19 public services. Every question of the ladder is met inside the window.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -10,4 +10,4 @@
 
 ***Also on file***. [Fichier general de la population (FGP)](<https://acp.cd/genre/enregistrement-a-letat-civil-le-renforcement-de-la-communication-recommande-a-la-rdc-2/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says the general population file is in service.

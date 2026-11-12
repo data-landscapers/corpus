@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "population",
-   "stage": "3",
-   "register": "inservice",
-   "vital": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-001",
-   "gaps": "No source found since October 2023 says births or deaths are entered in the population register.",
-   "note": "First pass: counted from the four questions by study-ladder-populationregister.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "population",
+      "stage": "3",
+      "register": "inservice",
+      "vital": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-001",
+      "gaps": "No source found since October 2023 says births or deaths are entered in the population register.",
+      "note": "Stage 3 on the DGPF's use of the population database for each ID applicant (July 2026). Stage 4 needs births or deaths entered in the register, and no source since October 2023 says so.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

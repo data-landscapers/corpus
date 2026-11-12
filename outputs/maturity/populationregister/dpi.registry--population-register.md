@@ -1,6 +1,6 @@
 # Population register: population register
 
-*As at 2026-11-10.*
+*As at 2026-11-12.*
 
 ## The norm
 
@@ -20,10 +20,10 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 9 |
-| 4 Operating | 0 |
-| 3 Established | 11 |
-| 2 Nascent | 6 |
+| 5 Leading | 7 |
+| 4 Operating | 2 |
+| 3 Established | 10 |
+| 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
 | No evidence | 25 |
@@ -43,23 +43,11 @@ Other systems drew on the population register in 2026.
 - Banouto reports the ANIP eServices portal's Explorez votre identite service takes its data from the RNPP ([source, 2026-09-18](https://www.banouto.bj/societe/article/20260918-anip-voici-comment-decouvrir-combien-de-beninois-partagent-votre-nom-prenom-ou-date-de-naissance)).
 - ANIP says the RNPP is the only source for identity cards, passports and driving licences, and that phone SIM acquisition and public service platforms authenticate against the NPI ([source, 2026-05](https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf)).
 
-### Chad: 5 Leading
-
-The biometric population register was in service in 2026, takes the births a national campaign registers, and the finance ministry consults it.
-
-- The Ministry of Finance and ANATS signed a protocol giving the ministry a secured channel to consult data from the registre national biométrique des populations for identification and verification in administrative, budgetary and financial processes, and the ANATS director-general says all public and private administrations will be able to connect to it ([source, 2026-03-10](https://atpe.td/donnees-securisees-le-ministere-des-finances-dispose-dun-cadre-securise/)).
-
 ### Cote d'Ivoire: 5 Leading
 
 The national register of persons was in service in 2026, fed from the digitised civil-status registers and drawn on by the social registry.
 
 - BCPFS and ONECI signed a convention on 2 April 2026 interconnecting the Registre Social Unique with ONECI's databases, so beneficiaries are identified through the Registre National des Personnes Physiques run by ONECI ([source, 2026-04-02](https://filetsociaux-ci.org/registre-social-unique-des-menages-pauvres-et-vulnerables-rsu-signature-dune-convention-entre-le-bureau-de-coordination-du-programme-filets-sociaux-bcpfs-et-loffice-nation/)).
-
-### DR Congo: 5 Leading
-
-Other systems drew on the population register in 2024.
-
-- ONIP's legal expert said the FGP is the single data source for producing all secure titles and documents ([source, 2024-08-09](https://acp.cd/genre/enregistrement-a-letat-civil-le-renforcement-de-la-communication-recommande-a-la-rdc-2/)).
 
 ### Kenya: 5 Leading
 
@@ -87,17 +75,31 @@ Other systems drew on the population register in 2026.
 
 - The playbook says the register is the pivot for sectoral identifiers and that its data are exchanged with state structures through the national interoperability platform ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
+### Eswatini: 4 Operating
+
+Births and deaths registered in 2025 went into the National Population Register; no other system is known to draw on it.
+
+- Eswatini's Home Affairs ministry says its mopping exercise, registering births and deaths and converting manual birth certificates in Manzini and Hhohho in the second quarter of 2025/26, has improved the National Population Register ([source, 2025-10-27](https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/)).
+
+### Mauritania: 4 Operating
+
+The population register held over 5.1 million citizens in 2026 and enrols children at birth; no other system is known to draw on it.
+
+- The government procedures portal (last updated 2023-11-21) describes a standing procedure to enrol a child born to Mauritanian parents in the population register (national biometric register) run by the ANRPTS, free of charge at citizen reception centres ([source, 2023-11-21](https://procedures.gov.mr/fr/procedure/1105)).
+- A magistrates' club official refers to civil-status facts recorded in the population register, which the national population register and secure documents agency runs ([source, 2025-03](https://ami.mr/fr/archives/267622)).
+- The interior minister told the National Assembly that the Registre national de la population grew from 3.4 million registered citizens in 2019 to over 5.1 million, with enrolment now a permanent public service ([source, 2026-06-18](https://kassataya.com/ministre-de-linterieur-lenrolement-de-la-population-est-devenu-un-service-public-permanent-qui-garantit-le-droit-de-tous-les-citoyens-a-lenregistrement/)).
+
+### Chad: 3 Established
+
+The biometric population register was in service in 2026; births a 2026 campaign collects are to be entered in it, which none says has begun.
+
+- The Ministry of Finance and ANATS signed a protocol giving the ministry a secured channel to consult data from the registre national biométrique des populations for identification and verification in administrative, budgetary and financial processes, and the ANATS director-general says all public and private administrations will be able to connect to it ([source, 2026-03-10](https://atpe.td/donnees-securisees-le-ministere-des-finances-dispose-dun-cadre-securise/)).
+
 ### Djibouti: 3 Established
 
 A population register was in service in 2026; no source found reports updating from births and deaths.
 
 - La Nation reports that the DGPF searches the national population database for each ID applicant and integrates each file into the Registre national des personnes physiques platform, with data recorded there before biometric enrolment ([source, 2026-07-23](https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/)).
-
-### Eswatini: 3 Established
-
-A population register was in service in 2025; no source found reports updating from births and deaths.
-
-- Eswatini's Home Affairs ministry says its mopping exercise, registering births and deaths and converting manual birth certificates in Manzini and Hhohho in the second quarter of 2025/26, has improved the National Population Register ([source, 2025-10-27](https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/)).
 
 ### Lesotho: 3 Established
 
@@ -111,13 +113,6 @@ A population register was in service in 2025; no source found reports updating f
 
 - DNEC says a biometric file of the population has been built from civil status under RAVEC, administered by ANSAEC ([source, 2025-05](https://www.id4africa.com/2025/files/T2-P1-S2-3-MALI_FINAL.pdf)).
 - The Malian authorities launched the new Mali Kura Biométrie system managing the RAVEC (administrative census for civil-status purposes) data of the Malian population at a ceremony on 13 February 2024, saying the population data had been recovered and secured ([source, 2024-02-13](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/)).
-
-### Mauritania: 3 Established
-
-A population register was in service in 2026; no source found reports updating from births and deaths.
-
-- The interior minister told the National Assembly that the Registre national de la population grew from 3.4 million registered citizens in 2019 to over 5.1 million, with enrolment now a permanent public service ([source, 2026-06-18](https://kassataya.com/ministre-de-linterieur-lenrolement-de-la-population-est-devenu-un-service-public-permanent-qui-garantit-le-droit-de-tous-les-citoyens-a-lenregistrement/)).
-- The interior minister told the National Assembly that the Registre national de la population grew from 3.4 million registered citizens in 2019 to over 5.1 million, with enrolment now a permanent public service ([source, 2026-06-18](https://www.ami.mr/archives/261951)).
 
 ### Morocco: 3 Established
 
@@ -168,6 +163,14 @@ In 2025 the registration law was being amended to introduce a population registe
 A population register was under way in 2024; none in service is on record.
 
 - Law 027-2024/ALT of 11 October 2024 provides for a national register of the unique identifier of natural persons, centralising their biographic and biometric data, with the body in charge to be created by decree and enrolment to follow the system's set-up ([source, 2024-10-11](https://assembleenationale.bf/loip/117)).
+
+### DR Congo: 2 Nascent
+
+The general population file was still being built in 2025, with Kinshasa digitising its register; none in service is known.
+
+- ONIP, created in 2011, was entrusted with building the general population file (fichier général de la population), and a 2022 decree organised identification and census operations, per BBC News Afrique ([source, 2024-05-14](https://www.bbc.com/afrique/articles/cy633p6ezq1o)).
+- Radio Okapi reports that Kinshasa's provincial Interior Minister launched on 4 November 2025 a project to digitise the Kinshasa population register, with census agents collecting household data into a compilation server, supported by UNICEF among partners ([source, 2025-11-04](https://www.radiookapi.net/2025/11/04/actualite/politique/debut-du-projet-de-digitalisation-de-registre-de-la-population-de)).
+- Belgium (Brussels) funded a USD 43,262 pilot project in 2024 to give the commune of Kintambo in Kinshasa a digital, secured population register linked to the Ville-Province ([source, 2024](https://data-explorer.oecd.org/vis?lc=en&df[ds]=DcdDisseminateFinalDMZ&df[id]=DSD_CRS%40DF_CRS&df[ag]=OECD.DCD.FSD&dq=BEL.COD.1000.._T._T.C.Q._T..&pd=2024%2C2024&to[TIME_PERIOD]=false)).
 
 ### Guinea: 2 Nascent
 

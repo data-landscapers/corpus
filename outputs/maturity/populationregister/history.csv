@@ -32,3 +32,26 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-10,DZA,dpi.registry--population-register,ladder,3,5,DZA-004,Restaged under message 114 (housekeeping 57): a held source shows births or deaths entered in the register; 3 to 5.
 2026-11-10,TCD,dpi.registry--population-register,ladder,3,5,TCD-002,Restaged under message 114 (housekeeping 57): a held source shows births or deaths entered in the register; 3 to 5.
 2026-11-12,SYC,dpi.registry--population-register,fact,unplaced,3,SYC-002,A March 2025 tender has the Land Valuation System interface with the existing National Population Database: unplaced to 3.
+2026-11-12,COD,dpi.registry--population-register,review,5,2,COD-005;COD-001;COD-006,"Rebuild: FGP's role in law is not service; being built (ONIP mandate 2024, Kinshasa digitisation 2025)"
+2026-11-12,TCD,dpi.registry--population-register,review,5,3,TCD-002,Rebuild: births 'will be entered' is intent; step rule holds the cell at 3
+2026-11-12,BFA,dpi.registry--population-register,review,2,2,BFA-001,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,LBR,dpi.registry--population-register,review,2,2,LBR-001,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,MDG,dpi.registry--population-register,review,2,2,MDG-001,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,NER,dpi.registry--population-register,review,2,2,NER-007;NER-008,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,DJI,dpi.registry--population-register,review,3,3,DJI-001,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,MAR,dpi.registry--population-register,review,3,3,MAR-002;MAR-009,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,MLI,dpi.registry--population-register,review,3,3,MLI-002;MLI-001,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,MOZ,dpi.registry--population-register,review,3,3,MOZ-001,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,ZWE,dpi.registry--population-register,review,3,3,ZWE-001;ZWE-003,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,BEN,dpi.registry--population-register,review,5,5,BEN-006;BEN-012,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,CIV,dpi.registry--population-register,review,5,5,CIV-002,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,DZA,dpi.registry--population-register,review,5,5,DZA-004,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,KEN,dpi.registry--population-register,review,5,5,KEN-002,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,NAM,dpi.registry--population-register,review,5,5,NAM-010;NAM-002,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,TUN,dpi.registry--population-register,review,5,5,TUN-004,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,ZAF,dpi.registry--population-register,review,5,5,ZAF-012;ZAF-006,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,BDI,dpi.registry--population-register,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,CPV,dpi.registry--population-register,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,EGY,dpi.registry--population-register,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder and window; stage held
+2026-11-12,MRT,dpi.registry--population-register,review,3,4,MRT-004;MRT-003;MRT-001,Rebuild: procedures portal (Nov 2023) enrols newborns in the register; question 3 met
+2026-11-12,SWZ,dpi.registry--population-register,review,3,4,SWZ-001,Rebuild: 2025 birth and death registration entered in the NPR; question 3 met

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "ZAF-012;ZAF-006",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-populationregister.py.",
-      "as_at": "2026-10-18"
+      "note": "Stage 5: the National Population Register records births and deaths, and banks verify against it. Every question of the ladder is met inside the window.",
+      "as_at": "2026-11-12"
     }
   ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "population",
-      "stage": "5",
-      "register": "inservice",
-      "vital": "updated",
-      "used": "source",
+      "stage": "2",
+      "register": "underway",
+      "vital": "",
+      "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-004",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-populationregister.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "COD-005;COD-001;COD-006",
+      "gaps": "ONIP's legal expert described the general population file in August 2024 as the single reference fed by civil-status events and used for all secure titles (COD-002 to COD-004), but that is the file's role in law: in May 2024 ONIP was still entrusted with building it (COD-005), and in 2024 and 2025 Kintambo and Kinshasa were only beginning to digitise their registers (COD-006, COD-001). No source says the file is in service.",
+      "note": "Stage 2 because the general population file is being built: ONIP's mandate to build it (2024), the Kintambo pilot (2024) and Kinshasa's digitisation launched in November 2025. Stage 3 needs the register in service, and the legal expert's account states what the file is for, not that it runs.",
+      "as_at": "2026-11-12"
     }
   ]
 }

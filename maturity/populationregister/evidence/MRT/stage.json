@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "population",
-      "stage": "3",
+      "stage": "4",
       "register": "inservice",
-      "vital": "",
+      "vital": "updated",
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-001;MRT-002",
-      "gaps": "No source found since October 2023 says births or deaths are entered in the population register.",
-      "note": "First pass: counted from the four questions by study-ladder-populationregister.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "MRT-004;MRT-003;MRT-001",
+      "gaps": "No source found since October 2023 says other registers or services take people's records from the population register.",
+      "note": "Stage 4: the register is in service with 5.1 million citizens, and the procedures portal (November 2023) enrols children born to Mauritanian parents in it, as a magistrates' official confirms civil-status facts are recorded there. Stage 5 needs other systems taking records from it, and none is held.",
+      "as_at": "2026-11-12"
     }
   ]
 }
