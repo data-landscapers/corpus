@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: SYC
-ledger_rows: 14
+ledger_rows: 16
 not_held: 6
-record: 4f157cd0954a
+record: 439d83cfcfc2
 ---
 
 # News, Oct – Nov 2026
@@ -199,8 +199,26 @@ Seychelles' national computer emergency response team designed and delivered the
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online register of court decisions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Decisions from the Courts](https://www.judiciary.sc/resources/court-decisions/)** — The Judiciary of Seychelles, 1 October 2026
+
+Online register of Constitutional and Supreme Court decisions with neutral citations, dated to 2026.
+
+</div>
+
+</div>
 
 ### Other GovTech and e-Gov
 
@@ -315,6 +333,20 @@ A second cohort of 27 Seychelles civil servants was sent off at the Indian High 
 **[Investment Phase pipeline – Seychelles](https://www.un-soff.org/wp-content/uploads/2026/10/Seychelles-IFR-FINAL.pdf)** — Systematic Observations Financing Facility, 2 October 2026
 
 A World Bank-led request asks SOFF for US$3.3m for 2027 to 2031. It rebuilds the surface and upper-air stations at Mahé airport. It also restores the automatic stations on the outer islands. An upper-air station on Aldabra waits for a second phase.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ISO 9001 certification of the Meteorological Authority for aviation services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SMA Successfully Passes Surveillance Audit, Setting the Stage for Broader ISO Certification](https://www.meteo.sc/news/sma-successfully-passes-surveillance-audit-setting-the-stage-for-broader-iso-certification/)** — Seychelles Meteorological Authority, 4 November 2026
+
+BSI audit of 3-4 Nov 2026 keeps aviation ISO 9001 scope; marine forecasting next in line for certification.
 
 </div>
 
