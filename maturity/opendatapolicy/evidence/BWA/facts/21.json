@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-07-bwa-open-data-innovation-challenge-2",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The BDIH page says Botswana is actively shaping its own Open Data Policy through the National Open Data Forum process and that the work is not yet finished.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "Open Data Policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data Policy (in preparation)",
+   "country_label": "Botswana",
+   "class": "policy",
+   "platform": "",
+   "owner": "Ministry of Communications and Innovation (Open Data Technical Working Group)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

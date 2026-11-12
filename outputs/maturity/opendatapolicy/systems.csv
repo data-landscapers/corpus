@@ -19,6 +19,7 @@ BFA,Open Data portal (burkinafaso.opendataforafrica.org),Open Data portal,other,
 BWA,SmartBots Lab,SmartBots Lab,other,,Botswana Digital Innovation Hub (BDIH),,2026-03-14-bwa-haus-open-data-hackathon-tor-phase2
 BWA,National Open Data Hackathons,National Open Data Hackathon,other,,"EU Support to Digital Transformation in Botswana project (Expertise France, ESTDEV, HAUS) with BDIH and SmartBots",,2026-03-14-bwa-haus-open-data-hackathon-tor-phase2
 BWA,Open Data portal (botswana.opendataforafrica.org),Open Data portal,other,Open Data for Africa,,,2025-12-18-worldbank-govtech-dataset-dec2025
+BWA,Open Data Policy (in preparation),Botswana,policy,,Ministry of Communications and Innovation (Open Data Technical Working Group),,2026-09-07-bwa-open-data-innovation-challenge-2
 CAF,Portail Open Data (ODP),Portail Open Data de l'ICASEES,other,ODP 1.0 (African Development Bank / Open Data Watch programme),ICASEES (statistics office),national,2026-06-10-caf-icasees-odp-portal-odin-modernisation
 CAF,plateforme Open Data,Plateforme Open Data de l'ICASEES,other,,ICASEES (statistics office),national,2026-05-21-caf-icasees-webinaire-bad-open-data-watch
 CAF,NADA,Plateforme NADA de l'ICASEES,other,NADA,ICASEES (statistics office),national,2026-05-21-caf-icasees-webinaire-bad-open-data-watch
@@ -32,6 +33,7 @@ CAF,National Summary Data Page (NSDP),National Summary Data Page,other,IMF e-GDD
 CAF,Portail Open Data (ODP RCA),Portail Open Data (ODP RCA),other,,ICASEES,,2026-08-07-car-icasees-rgph4-census-data-cleaning
 CAF,Open Data Platform (ODP),national statistical dissemination platform (ODP 1.0),other,African Development Bank Open Data Platform,national statistics institute (CAF delegation attends),,2026-09-15-xca-7joursinfo-cemac-sdmx-odp2-cemac-data
 CAF,Portail Open Data de la République centrafricaine (ODP-RCA),CAF,other,,ICASEES,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
+CAF,Portail Open Data de la République centrafricaine (ODP RCA),ODP RCA,policy,,ICASEES,,2026-07-23-caf-icasees-le-directeur-general-de-l-icasees-recoit-une-mission-d-evaluat
 CIV,portail Open Data de la Côte d'Ivoire,portail open data,policy,,,national,2025-01-01-cote-divoire-plan-daction-national-gouvernement-ouvert-2024-2026-pan5
 CIV,"Engagement 6 : promotion de l'open data (hackathons, renforcement de capacités, campagne digitale)",Engagement 6 du PAN 2024-2026,other,,"CICG (responsible), June 2026 end",national,2025-01-01-cote-divoire-plan-daction-national-gouvernement-ouvert-2024-2026-pan5
 CIV,e-mining cadastre portal,e-mining cadastre,other,Landfolio,"Ministry of Mines, Petroleum and Energy",national,2025-09-23-e-mining-cadastre-portal-wearetech
@@ -41,6 +43,7 @@ CIV,Géoportail d'urbanisme du Grand Abidjan,Géoportail du Grand Abidjan,other,
 COD,data.gouv.cd,plateforme nationale des données ouvertes,policy,Rhinoceros Software (host site),Institut National de la Statistique (INS),national,2026-02-23-rhinoceros-data-gouv-cd-lancement
 COD,BCC website 2.0 (economic data pages),Site internet de la Banque Centrale du Congo,other,,Banque Centrale du Congo,,2026-08-17-numerico-bcc-nouveau-site-donnees-economiques
 COD,national geological databank,Congo (DRC),other,,National Geological Survey of Congo (SGNC),"free basic data, fee-based sensitive data",2026-09-08-thecitizen-congo-locks-down-geological-data
+COD,ITIE-RDC Open Data Policy,ITIE-RDC Open Data Policy,other,,,,2025-01-01-nga-transparency-and-accountability-as-trust-builders-in-the-african-data
 COG,Open Data Portal,Open Data Portal,other,,Institut national de la statistique (INS),national; INS and sectoral ministries and other agencies load statistics onto it,2026-06-05-vox-congo-accord-partenariat-capitaliser-donnees-statistiques-open-data-portal
 COG,Hiswaca,plateforme numérique Hiswaca,other,,"NGO Pratic, built by startup Génération numérique, World Bank-funded Hiswaca statistics project",,2026-01-09-congo-hiswaca-plateforme-statistiques
 COG,plateforme Open Data,plateforme Open Data,other,,,,2025-11-29-adiac-ins-atelier-validation-indicateurs-rgph-5
@@ -90,6 +93,7 @@ GMB,Online Information Access Portal,Gambia,other,,National Records Commission,,
 GNB,National Summary Data Page on the national Open Data Platform,National Summary Data Page,other,African Development Bank Open Data Platform,"Provided by the African Development Bank; data supplied by the National Institute of Statistics, the Ministry of Finance and the BCEAO",national,2024-07-08-imf-pr24262-guinea-bissau-implements-egdds-national-summary-data-page
 GNB,Dados Abertos (portal da Assembleia Nacional Popular),Dados Abertos,other,Plone (Interlegis),Assembleia Nacional Popular,,2015-04-01-anp-guine-bissau-portal-dados-abertos
 GNB,Portal de dados aberto da Guine-Bissau (ODP),"Portal de dados aberto da Guine-Bissau, ODP",other,"African Development Bank Africa Information Highway, SDMX",African Development Bank; hosts the INE National Summary Data Page,national,2024-06-14-gnb-ine-egdds-portal-dados-abertos
+GNB,Guinea-Bissau Data Portal,Guinea-Bissau (guinebissau.opendataforafrica.org),other,Open Data for Africa,African Development Bank,,2026-11-11-gnb-guinea-bissau-data-portal-terms-of-use
 KEN,Kenya Data Marketplace (proposed),National data marketplace,other,,"Ministry of Information, Communications and the Digital Economy (draft policy)",national,2026-07-23-kenya-wants-to-monetize-its-data-but-at-what-cost
 KEN,Kenya Data Marketplace (proposed),National data marketplace,other,,"Ministry of Information, Communications and the Digital Economy; Data Governance Office",national,2026-06-08 Kenya proposes marketplace for State data
 KEN,Kenya Data Marketplace (proposed),National data marketplace,other,,"Ministry of Information, Communication and ICT and the Digital Economy; Data Governance Office",national,2026-06-07-state-plans-ecitizen-data-sale-nation
@@ -117,6 +121,7 @@ MAR,portail national de données ouvertes (data.gov.ma),Ouverture des données p
 MAR,portail national Open Data (data.gov.ma),portail national Open Data,policy,,"not stated; the manual is issued by the Agence de Développement du Digital (ADD), which with the Comité de Pilotage Open Data sets the framework and follows implementation",national; public bodies publish on it directly or connect their own portals to it,2021-04-01-add-maroc-ouverture-donnees-publiques-manuel-responsables-open-data
 MAR,Portail national des données ouvertes (data.gov.ma),Portail national des données ouvertes,policy,,"Agence de Développement du Digital (ADD), with World Bank support",national,2021-12-13-mar-add-nouveau-portail-donnees-ouvertes
 MAR,Plan d'actions Open Data,plan d'actions Open Data,other,,"ADD, with a national Open Data steering committee",national,2021-12-13-mar-add-nouveau-portail-donnees-ouvertes
+MAR,National action plan for open data development,Morocco,other,,Digital Development Agency,,2024-01-01-mar-strengthening-open-data-practices-mo0034
 MDG,Open Data Parlementaire (parlement.mg/opendata),Open Data - Assemblée Nationale de Madagascar,other,read-only REST API with JSON and CSV exports,Assemblée nationale de Madagascar (supported by EISA),national (parliament),2026-08-09-madagascar-assemblee-nationale-open-data-api
 MDG,INSTAT Madagascar microdata sharing platform (microdata.instat.mg),Microdonnees INSTAT Madagascar,other,,Institut National de la Statistique (INSTAT),national,2026-08-09-madagascar-instat-microdata-platform
 MDG,OpenData Madagascar (opendata.mg),MADA OPENDATA,other,Radias|IT (footer credit),not named; the page names no ministry or agency,,2026-08-09-madagascar-opendata-mg-portal
@@ -150,6 +155,7 @@ NER,ILLIMI,Illimi Niger,other,,UN Resident Coordinator's Office in Niger with th
 NER,Plateforme Nationale d'Information pour la Nutrition (PNIN) web portal,PNIN,other,,Institut National de la Statistique (INS),national,2025-09-18-anp-pnin-portail-web-renove
 NGA,Nigeria Open Data Policy,Nigeria Open Data Policy,policy,,Federal Ministry of Communications,federal,2018-07-01-nigeria-open-data-policy
 NGA,Data.gov.ng,Data.gov.ng,policy,,,federal,2018-07-01-nigeria-open-data-policy
+NGA,Open Data Policy,Open Data Policy,policy,,,,2025-01-01-nga-transparency-and-accountability-as-trust-builders-in-the-african-data
 RWA,Data sharing platform,data sharing platform,other,,National Institute of Statistics of Rwanda (Data Governance Unit),central government institutions,2026-05-07 What will determine the success of Rwanda’s data governance push
 RWA,Data Sharing Platform,Data Sharing Platform,other,,Rwanda Information Society Authority,government agencies,2025-10-27 Introduction to the Rwanda National Data Sharing Policy
 RWA,Umucyo e-procurement system and RPPA open contracting portal,Rwanda,other,OCDS,Rwanda Public Procurement Authority,,2024-11-13-rwa-ocp-umucyo-open-contracting-portal
@@ -165,6 +171,8 @@ SLE,opendata.gov.sl,national Open Data Portal,policy,,"Government of Sierra Leon
 SLE,Open Data Council,Open Data Council,other,,Ministry of Information and Communications / Right to Access Information Commission,national,2016-01-01-sle-worldbank-open-data-readiness-assessment
 SLE,Open Data Portal,Open Data Portal,other,,Ministry of Information and Communications (host); National Open Data Council of Sierra Leone (manager),,2019-11-01-sle-ogp-nap-iii-2019-2021
 SOM,Open Data Portal / Open Data Platform of the SNBS (Data portal of Somalia),Somalia Open Data Portal,other,,Somali National Bureau of Statistics (SNBS),,2024-07-13-somalia-open-data-portal-terms-of-use
+SOM,data.gov.so,data.gov.so,other,,Somalia Open Government Initiative,federal,2025-03-28-som-somalia-open-data-day-2025-unlocking-transparency-for-a-better-future
+SOM,data.gov.so,data.gov.so,other,,Somalia Open Government Initiative,federal,2025-03-01-som-open-data-archives-bareedo-platform-somalia
 SSD,Open Data Portal (National Bureau of Statistics),Open Data Portal,other,,"National Bureau of Statistics, South Sudan",national,2026-08-29-south-sudan-nbs-open-data-portal
 SSD,CLIMIS,CLIMIS Data Warehouse (Climate Information and Early Warning / food security dashboard),other,,South Sudan IPC Technical Working Group / CLIMIS Data Warehouse,,2026-05-09-south-sudan-climis-ipc-population-dashboard
 SSD,National Bureau of Statistics website,National Bureau of Statistics website,other,,National Bureau of Statistics,,2026-04-21-south-sudan-mics7-national-survey-released
@@ -227,3 +235,4 @@ ZWE,National AI and Data Platform,National AI and Data Platform,other,,"Governme
 ZWE,Zimbabwe eCadastre,eCadastre Portal Zimbabwe,other,,"Department of the Surveyor General (Ministry of Lands, Agriculture, Water, Fisheries and Rural Settlement)",national,2026-01-01-zimbabwe-ecadastre-portal
 ZWE,Zimbabwe data portal on Open Data for Africa,Zimbabwe Data Portal,other,Open Data for Africa,African Development Bank,national,2022-08-12-zwe-frma-feasibility-open-data-policy
 ZWE,Zimbabwe Open Data Initiative (ZODI),Zimbabwe Open Data Initiative,other,,"Institute of Data Science Management, Data Management Society and Pan African Business Council",,2022-08-12-zwe-frma-feasibility-open-data-policy
+ZWE,OpenSDG Data Portal,Zimbabwe,other,OpenSDG,ZIMSTAT,,2025-07-10-zwe-zim-launches-sdgs-open-data-portal

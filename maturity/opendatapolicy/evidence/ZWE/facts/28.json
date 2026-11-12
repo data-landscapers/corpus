@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-10-zwe-zim-launches-sdgs-open-data-portal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OpenSDG Data Portal",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "OpenSDG",
+   "owner": "ZIMSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": "A statistics agency's portal is described; no open data policy is named."
+}

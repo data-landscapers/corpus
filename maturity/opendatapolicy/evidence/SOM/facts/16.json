@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-01-som-open-data-archives-bareedo-platform-somalia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "data.gov.so",
+   "country_label": "data.gov.so",
+   "class": "other",
+   "platform": "",
+   "owner": "Somalia Open Government Initiative",
+   "tiers": "federal"
+  }
+ ],
+ "note": "Names the 2018 Somalia Open Government Initiative and data.gov.so but no adopted open data policy."
+}

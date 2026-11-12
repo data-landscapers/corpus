@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-18-mar-hackathon-open-data-le-maroc-est-pleinement-conscient-de-l-importance",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Morocco's digital transition minister Amal El Fallah Seghrouchni said on 18 February 2025 that a draft decree setting the rules for organising, publishing and governing open public data has been prepared, covering all institutions named in law 31-13.",
+   "as_of": "2025-02-18",
+   "date_precision": "day",
+   "system": "Draft open data decree",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

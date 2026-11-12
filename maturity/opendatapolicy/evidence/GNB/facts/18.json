@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-11-gnb-guinea-bissau-data-portal-terms-of-use",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Guinea-Bissau Data Portal",
+   "country_label": "Guinea-Bissau (guinebissau.opendataforafrica.org)",
+   "class": "other",
+   "platform": "Open Data for Africa",
+   "owner": "African Development Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "The page is a development bank's portal terms of use and states no government open data policy."
+}

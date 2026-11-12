@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-ben-transformer-les-donnees-geospatiales-du-benin-en-levier-de-politique-p",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Numericite says a legal framework on opening public data is in the course of being adopted in Benin.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "open public data legal framework",
+   "class": "policy"
+  },
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "portal",
+   "fact": "Numericite says the data.gouv.bj open data portal, run by ASIN, is a national device of Benin's open data policy.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "data.gouv.bj",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
