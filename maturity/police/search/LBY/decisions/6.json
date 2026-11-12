@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "records;stations",
+ "fact": "On 29 October 2023 the Tripoli security director and the Interior Ministry information centre head discussed building an archiving and registration system for evidence-gathering reports at police stations.",
+ "title": "اجتماع بمديرية أمن طرابلس من أجل مواكبة التطور الرقمي ورفع مستوى الأداء الأمني",
+ "publisher": "وكالة الأنباء الليبية",
+ "published": "2023-10-29",
+ "date_source": "source",
+ "why_not": ""
+}

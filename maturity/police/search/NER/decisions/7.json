@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "stations;made",
+ "fact": "INTERPOL's April 2019 newsletter states that 30 WAPIS stations were deployed in Ghana, 20 in Mali and 26 in Niger, with a network connection being established to link the sites to the central DACORE server.",
+ "title": "Lettre d'information SIPAO, Number 11",
+ "publisher": "INTERPOL",
+ "published": "2019-04",
+ "date_source": "source",
+ "why_not": ""
+}

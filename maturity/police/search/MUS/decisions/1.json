@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "stations;made;governance",
+ "fact": "The Commissioner of Police stated on 17 June 2025 that all police stations are equipped with personal computers for the Crime Occurrence Tracking System (COTS), and that the police have begun replacing COTS with a new case management platform with a consultant to be hired on Central Informatics Bureau advice.",
+ "title": "Le PM détaille le plan de transformation informatique de la police",
+ "publisher": "Defimedia",
+ "published": "2025-06-18",
+ "date_source": "source",
+ "why_not": ""
+}

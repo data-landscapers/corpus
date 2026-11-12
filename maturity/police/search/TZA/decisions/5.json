@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "stations;governance",
+ "fact": "On 27 November 2023 the Zanzibar Police Commissioner opened training on a digital reporting system for shehia inspectors in Zanzibar's regions, with UNDP supplying computers and phones for collecting information in shehias.",
+ "title": "Jeshi la Polisi Zanzibar kutumia vifaa vya kidijitali",
+ "publisher": "Zenj FM",
+ "published": "2023-11-27",
+ "date_source": "source",
+ "why_not": ""
+}

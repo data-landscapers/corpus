@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "made;stations",
+ "fact": "The PARP 3 programme (Enabel, DCAF, Coginta), aligned to the 2024-2029 government action plan presented in June 2024, lists support to extending the FCICAP criminal file to Kinshasa and three provinces (Equateur, Ituri, Kasai).",
+ "title": "Programme d'appui à la réforme de la police en RDC (PARP 3)",
+ "publisher": "Coginta",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

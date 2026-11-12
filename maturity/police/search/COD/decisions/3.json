@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "made;stations",
+ "fact": "ACP reported on 10 January 2021 that information on suspects and victims of offences recorded by judicial police officers across Kinshasa is encoded into a database by trained operators, and that the 52 Kinshasa commissariats are now able to feed the FCICAP file, with over 1,400 officers trained.",
+ "title": "Renforcement du partenariat RDC-France sur le fichier criminel des infractions constatées en RDC",
+ "publisher": "ACP",
+ "published": "2021-01-10",
+ "date_source": "source",
+ "why_not": ""
+}

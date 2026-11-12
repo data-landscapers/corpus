@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "stations;made",
+ "fact": "INTERPOL's August 2019 newsletter, quoting Niger, lists 26 sites established in Niamey connected to the DACORE and plans to expand the network to sites in the regions; pilot countries were expanding beyond the capital.",
+ "title": "Lettre d'information SIPAO, Number 12",
+ "publisher": "INTERPOL",
+ "published": "2019-08",
+ "date_source": "source",
+ "why_not": ""
+}

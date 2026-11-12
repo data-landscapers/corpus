@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "stations",
+ "fact": "By the 19 May 2020 report, procurement to renovate Senegal's WAPIS DACORE had been launched and IT equipment had been delivered to Senegal.",
+ "title": "WAPIS Progress Report - Executive Summary",
+ "publisher": "WAPIS Programme (INTERPOL / European Commission)",
+ "published": "2020-05-19",
+ "date_source": "source",
+ "why_not": ""
+}

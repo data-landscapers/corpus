@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.interpol.int/fr/content/download/18784/file/WAPIS%20Newsletter%20no.%2021%20December%202022%20FR.pdf?inLanguage=fre-FR&version=4,held,held as raw/2022/2022-12-01-mli-sipao-lettre-d-information-numero-21.md,,0,,
+2,https://www.interpol.int/en/content/download/18589/file/21COM1242-WAPIS-Mid%20Term%20Repport_EN_paysage04.pdf,fetched,,scripts/.workroot/study/police/cache/NER/2.txt,891,pdf,
+3,https://www.lesahel.org/lutte-contre-la-fraude-documentaire-et-le-trafic-illicite-de-migrants-et-la-traite-des-etres-humains-dix-10-agents-de-police-de-leci-niger-formes-sur-les-techniques-de-lenregistr/,fetched,,scripts/.workroot/study/police/cache/NER/3.txt,621,html,Lutte contre la fraude documentaire et le trafic illicite de migrants et la traite des êtres humains : Dix (10) agents de police de l’ECI-Niger formés sur les techniques de l’enregistrement biométrique
+4,https://www.interpol.int/en/content/download/14921/file/20COM0094%20-%20WAPIS_Newsletter%2013_EN_04_LR.pdf?inLanguage=eng-GB&version=3,fetched,,scripts/.workroot/study/police/cache/NER/4.txt,3877,pdf,
+5,https://privacyinternational.org/sites/default/files/2025-08/3%5F8%20WAPIS_ExecutiveSummaryProgressReport%204_pdf.pdf,fetched,,scripts/.workroot/study/police/cache/NER/5.txt,2583,pdf,
+6,https://trust-fund-for-africa.europa.eu/news/wapis-sipao-un-fichier-de-police-pour-le-niger-2019-05-23_en,held,held as raw/2019/2019-05-23-ner-wapis-sipao-un-fichier-de-police-pour-le-niger.md,,0,,
+7,https://www.interpol.int/en/content/download/13479/file/WAPIS_SIPAO_Newsletter-11_EN_LR.pdf?inLanguage=eng-GB&version=2,fetched,,scripts/.workroot/study/police/cache/NER/7.txt,3947,pdf,
+8,https://www.interpol.int/en/content/download/14327/file/WAPIS_SIPAO_Newsletter-12_EN_LR.pdf?inLanguage=eng-GB&version=3,fetched,,scripts/.workroot/study/police/cache/NER/8.txt,3557,pdf,

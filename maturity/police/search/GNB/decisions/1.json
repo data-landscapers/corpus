@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "records;made",
+ "fact": "The dissertation states Guinea-Bissau has no structured system for recording police data and that procedures are carried out mostly by hand, with frequent loss or inconsistency of information.",
+ "title": "A Polícia de Ordem Pública da Guiné-Bissau: Desafios na Investigação dos Crimes de Furto e Roubo",
+ "publisher": "Instituto Superior de Ciências Policiais e Segurança Interna",
+ "published": "2026-05-11",
+ "date_source": "source",
+ "why_not": ""
+}

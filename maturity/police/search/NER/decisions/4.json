@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "records;made",
+ "fact": "INTERPOL's December 2019 newsletter reports that Niger's WAPIS national system was connected to I-24/7 after an awareness session in Niamey on 9-11 September 2019 that covered officers entering information in the database daily and how existing remote outposts operate.",
+ "title": "Lettre d'information SIPAO, Number 13",
+ "publisher": "INTERPOL",
+ "published": "2019-12",
+ "date_source": "source",
+ "why_not": ""
+}

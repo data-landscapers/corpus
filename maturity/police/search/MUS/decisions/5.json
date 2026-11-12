@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "made;stations",
+ "fact": "Traffic offender data is to be made available in all police stations through COTS, with training in all divisions ahead of rollout planned for the following year.",
+ "title": "Traffic Branch : Les données relatives aux usagers de la route désormais consultables directement",
+ "publisher": "Le Mauricien",
+ "published": "2022-12-25",
+ "date_source": "source",
+ "why_not": ""
+}

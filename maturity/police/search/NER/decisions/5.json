@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "stations;made",
+ "fact": "The WAPIS progress report of 19 May 2020 states that the extension of the system beyond the DACORE in Niger has been implemented, with 9 remote sites connected and 31 more expected once the country installs the national intranet.",
+ "title": "WAPIS Executive Summary Progress Report",
+ "publisher": "INTERPOL WAPIS Programme (EU)",
+ "published": "2020-05-19",
+ "date_source": "source",
+ "why_not": ""
+}

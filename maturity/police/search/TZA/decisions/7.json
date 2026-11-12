@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "records;stations",
+ "fact": "The 2019 report states the Statistics Unit's electronic Crime Statistics Management Information System (CSMIS) began operating at 20 main stations of the Dar es Salaam zone and regional CID offices, to be extended later to all police stations.",
+ "title": "Takwimu za Hali ya Uhalifu na Matukio ya Usalama Barabarani Januari - Desemba 2019",
+ "publisher": "Jeshi la Polisi Tanzania / Ofisi ya Taifa ya Takwimu",
+ "published": "2020-01",
+ "date_source": "source",
+ "why_not": ""
+}

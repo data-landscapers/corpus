@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "stations;made",
+ "fact": "On 25 September 2019 the deputy planning minister said the project of writing the police-station report and sending it electronically to prosecution and court had been applied initially in Port Said and New Cairo, with national roll-out intended.",
+ "title": "التخطيط: مشروع لتحويل محاضر أقسام الشرطة إلكترونيا للنيابات والمحاكم",
+ "publisher": "الوطن",
+ "published": "2019-09-25",
+ "date_source": "source",
+ "why_not": ""
+}

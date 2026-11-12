@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "stations;made",
+ "fact": "The WAPIS data centre planned to connect 50 stations to the system, including all Nouakchott police commissariats and some others plus gendarmerie units in Nouadhibou and Rosso, in addition to the ten already connected.",
+ "title": "روصو: افتتاح الأيام التحسيسية حول منظومة المعلومات الشرطية لغرب افريقيا",
+ "publisher": "الوكالة الموريتانية للأنباء",
+ "published": "2024-03-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

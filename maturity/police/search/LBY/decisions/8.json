@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "records;stations",
+ "fact": "On 23 January 2023 Interior Ministry and Tripoli Security Directorate officials agreed to begin establishing the unified reports system at police stations.",
+ "title": "مديرية أمن طرابلس: الاتفاق على تأسيس منظومة البلاغات الموحدة بمراكز الشرطة",
+ "publisher": "بوابة الوسط",
+ "published": "2023-01-23",
+ "date_source": "source",
+ "why_not": ""
+}

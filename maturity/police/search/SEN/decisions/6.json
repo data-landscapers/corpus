@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "records;stations",
+ "fact": "In March 2022 INTERPOL trained 20 officers of the Senegalese National Police and Gendarmerie in Dakar on the WAPIS police information system, and the Senegal DACORE was due to become operational within weeks.",
+ "title": "WAPIS Newsletter No. 19",
+ "publisher": "INTERPOL",
+ "published": "2022-04",
+ "date_source": "source",
+ "why_not": ""
+}

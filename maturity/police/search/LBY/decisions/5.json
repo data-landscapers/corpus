@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "records;made;stations;governance",
+ "fact": "The UNDP PSJP final report of May 2023 states the Integrated Case Management and Tracking System for Greater Tripoli was specified but could not be fully developed for lack of funds, and IT equipment went to 16 Tripoli police stations.",
+ "title": "Final PSJP Report 15 May 2023",
+ "publisher": "UNDP Libya",
+ "published": "2023-05",
+ "date_source": "source",
+ "why_not": ""
+}

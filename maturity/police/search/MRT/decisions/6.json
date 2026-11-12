@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "stations;governance",
+ "fact": "At the second WAPIS national committee meeting of 19 May 2023, the data centre reported seven training courses for 55 police and 30 gendarmerie staff and ten police and gendarmerie services connected, five in each.",
+ "title": "انطلاق أعمال الاجتماع الثاني للجنة الوطنية لبرنامج وابيس",
+ "publisher": "زهرة شنقيط",
+ "published": "2023-05-19",
+ "date_source": "source",
+ "why_not": ""
+}

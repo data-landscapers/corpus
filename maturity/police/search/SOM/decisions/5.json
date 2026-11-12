@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "stations",
+ "fact": "The Joint Police Programme final report of 6 February 2025 states ICT equipment was provided to four police stations in Galmudug (Guriel, Adado, Hobyo) and HirShabelle (Bulo Burte).",
+ "title": "Joint Police Programme Final Report",
+ "publisher": "UNOPS, Joint Police Programme",
+ "published": "2025-02-06",
+ "date_source": "source",
+ "why_not": ""
+}
