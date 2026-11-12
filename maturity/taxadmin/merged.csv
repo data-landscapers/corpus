@@ -4,10 +4,12 @@ AGO,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 AGO,2026-09-08-ago-modernisation-of-general-tax-administration-over-the-last-10-years-a-t,,2026-10-27
 BDI,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 BDI,2026-01-20-burundi-revenue-authority-e-kori-digital-tax-platform,,2026-10-19
+BDI,2026-08-01-bdi-budget-law-2026-2027-burundi-legal-alert,,2026-11-12
 BDI,2026-10-15-bdi-primature-rgeb-2026-recensement-entreprises-lancement,,2026-10-21
 BEN,2020-02-04-ben-gouvbj-declaration-unique-impots-salaires-cnss,,2026-10-19
 BEN,2024-05-25-ben-digitalbusinessafrica-dgi-e-services-launch,,2026-10-19
 BEN,2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms,,2026-10-29
+BEN,2025-09-19-ben-benin-la-dgi-dematerialise-les-timbres-fiscaux-et-l-enregistrement-des,,2026-11-12
 BEN,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 BEN,2026-02-13-ben-lamarina-tcc-trois-e-services,,2026-10-21
 BFA,2019-12-30-bfa-burkina24-dgi-esintax-teledeclaration-obligatoire,,2026-10-19
@@ -21,6 +23,7 @@ BWA,2020-08-20-bwa-dailynews-burs-tax-return-threshold-efiling,,2026-10-19
 BWA,2025-05-18-bwa-specialised-commercial-courts-in-offing,,2026-11-12
 BWA,2025-07-08-bwa-dailynews-tax-filing-season-commences,,2026-10-19
 BWA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
+BWA,2026-01-21-judiciary-tackles-case-backlog,,2026-11-12
 BWA,2026-01-22-judges-courts-must-embrace-ai-driven-cases,,2026-10-19
 BWA,2026-05-13-bwa-paper-shortage-crisis-hits-courts,,2026-11-12
 CAF,2024-06-24-caf-mfb-discours-ministre-digitalisation-ecadastre,,2026-10-19
@@ -66,6 +69,7 @@ COM,2025-12-26-loi-de-finances-2026-teledeclaration-telepaiement,,2026-10-19
 COM,2026-02-02-alwatwan-bulletin-unique-taux-adhesion-e-msomo,,2026-10-27
 COM,2026-04-15-com-dgi-atelier-teleprocedures-fiscales-cadre-juridique,,2026-10-19
 COM,2026-04-15-com-dgi-validation-cadre-juridique-teleprocedures-fiscales,,2026-10-19
+COM,2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques,,2026-11-12
 COM,2026-10-30-com-lagazette-sante-et-numerique-onze-projets,,2026-11-04
 CPV,2019-03-08-cpv-dnre-novo-meio-pagamento-impostos-online,,2026-10-19
 CPV,2024-05-28-cpv-dnre-funcionamento-portal-declaracoes,,2026-10-19
@@ -250,6 +254,8 @@ MWI,2025-05-23-mwi-ict-projects-running-at-satcp,,2026-11-08
 MWI,2025-08-01-mwi-provision-of-consultancy-services-for-the-development-of-a-court-case,,2026-11-12
 MWI,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 MWI,2026-01-08-mwi-digitising-hiv-testing-registers-to-support-national-scale-up-of-three,,2026-10-24
+MWI,2026-05-22-mwi-malawi-unveils-digital-spsis-to-transform-agricultural-trade,,2026-11-12
+MWI,2026-06-01-mwi-malawi-launches-upgraded-national-child-protection-system,,2026-11-12
 MWI,2026-07-22-mwi-nation-mra-digital-tax-stamps-ai,,2026-10-19
 MWI,2026-08-13-mwi-mra-hails-automation-of-cargo-clearance,,2026-11-08
 MWI,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements,,2026-10-19
@@ -323,6 +329,7 @@ STP,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 STP,2026-11-03-stp-tribunal-de-contas-vai-lancar-em-2027-o-sistema-digital-de-prestacao-de-contas-s,,2026-11-05
 SWZ,2024-02-29-swz-epn-ers-launches-tax-ease-portal,,2026-10-19
 SWZ,2024-09-19-swz-edn-ers-tax-filing-season-taxease,,2026-10-19
+SWZ,2025-01-01-swz-court-services,,2026-11-12
 SWZ,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 SWZ,2026-10-17-swz-positivenews-hhukwini-elmis-cmis-digital-health,,2026-10-21
 SWZ,2026-10-24-swz-govt-restores-13-online-services-website-still-down,,2026-10-27
@@ -387,6 +394,7 @@ UGA,2024-08-01-uga-accountability-systems-and-compliance,,2026-10-27
 UGA,2025-05-27-uga-taking-stock-of-the-impact-of-maps-in-africa-including-the-e-gp-system,,2026-10-24
 UGA,2025-07-01-uga-national-backbone-infrastructure-project-nbi-egi,,2026-11-12
 UGA,2025-07-17-nam-namibian-e-justice-supreme-court,,2026-10-19
+UGA,2025-08-21-uga-e-justice-strategy,,2026-11-12
 UGA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 UGA,2026-03-03-ura-non-tax-revenues,,2026-10-19
 UGA,2026-07-01-uga-ura-file-a-return-e-filing,,2026-11-11
@@ -410,6 +418,7 @@ ZAF,2026-08-07-nsfas-says-ict-is-its-biggest-operational-risk,,2026-10-19
 ZAF,2026-10-23-zaf-sars-s-expanded-auto-assessments-pay-off,,2026-10-24
 ZMB,2013-07-29-zmb-tcs-taxonline-contract,,2026-10-19
 ZMB,2019-04-01-zmb-gdi-case-study-taxonline,,2026-10-19
+ZMB,2025-01-20-zmb-synergy-judiciary-ecms,,2026-11-12
 ZMB,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 ZMB,2026-10-15-ssd-ssra-zambian-delegation-digital-tax,,2026-10-19
 ZMB,2026-10-27-zmb-393-taxpayers-owe-zra-k26m-in-smart-invoicing-fines-ag,,2026-10-29

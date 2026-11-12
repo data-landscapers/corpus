@@ -7,6 +7,7 @@ BDI,SIGTAS - Standard Integrated Government Tax System,Burundi,taxsystem,,OBR,,2
 BEN,e-services Bénin (e-services.impots.bj),Bénin,taxsystem,DGI tax portal,Direction générale des impôts,"Pro, Particuliers, Expert-Comptable",2024-05-25-ben-digitalbusinessafrica-dgi-e-services-launch
 BEN,eservices.impots.bj,Benin,taxsystem,,Direction Generale des Impots,,2020-02-04-ben-gouvbj-declaration-unique-impots-salaires-cnss
 BEN,Integrated Tax and Assimilated Management System (SIGTAS),Benin,taxsystem,,,,2025-12-18-worldbank-govtech-dataset-dec2025
+BEN,e-services.impots.bj,Benin,taxsystem,web portal,Direction generale des Impots,,2025-09-19-ben-benin-la-dgi-dematerialise-les-timbres-fiscaux-et-l-enregistrement-des
 BFA,eSINTAX,Burkina Faso,taxsystem,,Direction generale des impots,"DGE, DME",2019-12-30-bfa-burkina24-dgi-esintax-teledeclaration-obligatoire
 BFA,SECeF,Burkina Faso,other,certified electronic invoicing system,Direction générale des impôts,large and medium enterprises,2026-11-04-bfa-communiqu-dgi-facturation-lectronique-certifi-e-obligatoire-pour-les-g
 BFA,eSINTAX JAVA,portail de teleprocedures fiscales,taxsystem,,Direction generale des impots,national,2026-11-05-bfa-burkina-economie-la-dgi-renforce-les-capacites-de-ses-agents-pour-accelerer-sa-d
@@ -50,6 +51,7 @@ COG,E-Tax,Congo,taxsystem,online declaration portal,"Ministere des finances, du 
 COG,E-Tax (SYSTAF),Republic of the Congo,taxsystem,Oracle PSRM,,,2025-12-18-worldbank-govtech-dataset-dec2025
 COM,Plateforme fiscale (télé procédures),COM,taxsystem,"official tax administration platform, not named",Direction Générale des Impôts,mandatory by stages for large and medium enterprises,2025-12-26-loi-de-finances-2026-teledeclaration-telepaiement
 COM,SIGIT,Comoros,taxsystem,,Direction generale des impots,,2024-01-02-com-gazette-interconnexion-sigit-sydonia
+COM,AMG openIMIS instance,Comoros,other,openIMIS on AWS,UTGAM,,2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques
 CPV,portondinosilhas.gov.cv,Cabo Verde,taxsystem,web portal,Direção Nacional das Receitas de Estado,,2024-05-28-cpv-dnre-funcionamento-portal-declaracoes
 CPV,Portal do Cidadao online tax payment (DUC),Cabo Verde,taxsystem,www.portondinosilhas.cv,DNRE with Casa do Cidadao,,2019-03-08-cpv-dnre-novo-meio-pagamento-impostos-online
 CPV,GRE - Gestão de Receitas do Estado,Cabo Verde,taxsystem,,DNRE,,2025-12-18-worldbank-govtech-dataset-dec2025
@@ -161,6 +163,7 @@ MWI,ASYCUDA World,ASYCUDA World,other,UNCTAD,Malawi Revenue Authority,,2026-08-1
 MWI,ASYCUDA World,ASYCUDA World 4.4.0,other,UNCTAD,Malawi Revenue Authority,,2025-05-23-mwi-ict-projects-running-at-satcp
 MWI,ITAS,Malawi,,,Malawi Revenue Authority,,2025-12-18-worldbank-govtech-dataset-dec2025
 MWI,Msonkho Online,Malawi,taxsystem,,Malawi Revenue Authority,,2025-12-18-worldbank-govtech-dataset-dec2025
+MWI,SPSIS,Malawi,other,,Ministry of Agriculture,,2026-05-22-mwi-malawi-unveils-digital-spsis-to-transform-agricultural-trade
 NAM,Integrated Tax Administration System (ITAS),Namibia,taxsystem,,Namibia Revenue Agency,,2025-01-01-integrated-tax-administration-system-e-portal
 NAM,ITAS (Integrated Tax Administration System),Integrated Tax Administration System,taxsystem,,Namibia Revenue Agency,,2026-06-18-nam-economist-itas-deadline-extended
 NAM,Integrated Tax Administration System,Namibia,taxsystem,,Namibia Revenue Agency,,2025-04-22-nam-namra-sets-four-year-target-to-fully-digitize-services
