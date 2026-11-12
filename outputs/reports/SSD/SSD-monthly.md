@@ -1,11 +1,11 @@
 ---
 title: South Sudan — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: SSD
-ledger_rows: 6
+ledger_rows: 7
 not_held: 8
-record: 6e2164d8dc87
+record: 0e55661dec60
 ---
 
 # News, Oct – Nov 2026
@@ -68,6 +68,8 @@ The Bank of South Sudan and the National Communication Authority signed an updat
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
 ### Digital Payments and Fintech
@@ -81,6 +83,22 @@ The Bank of South Sudan and the National Communication Authority signed an updat
 **[MTN, Government Discuss Reopening of MoMo Services](https://radioyei.org/news/technology/mtn-government-discuss-reopening-of-momo-services/)** — Access Radio, 8 October 2026
 
 South Sudan's caretaker trade minister Labanya Margaret Mathya held a virtual meeting with MTN's senior management on reopening Mobile Money transactions, connectivity problems and digital banking, and said the government would urgently address the company's difficulties. The report does not say when or why Mobile Money transactions were halted.
+
+</div>
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">eServices.gov.ss single government account</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[eServices Account: Government Services \[South Sudan\] - Government Ministries & Agencies and their services](https://accounts.eservices.gov.ss/mdas)** — Government of South Sudan (eServices portal), 11 November 2026
+
+South Sudan's eServices portal listed 14 ministries and agencies on 11 November 2026. The National Communication Authority offered 22 online services, including licence and type-approval applications, and the Revenue Authority's customs division offered permit and licence applications.
 
 </div>
 
