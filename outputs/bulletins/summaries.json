@@ -19358,5 +19358,10 @@
     "published": "2026-11-11",
     "written": "2026-11-12",
     "summary": "Zambia's government has asked Hobbiton Investments Limited to form a Ministerial Technology Advisory Panel, minister Felix Mutati said (reported 11 November 2026). The panel joins public and private stakeholders. It is to speed the digitisation of public services under the Grow Zambia Agenda."
+  },
+  "2026-11-12-cod-donnees-ouvertes-itie-rdc": {
+    "published": "2026-11-12",
+    "written": "2026-11-12",
+    "summary": "The DRC's Extractive Industries Transparency Initiative office publishes its sector data in open formats. Files in CSV, Excel and JSON, and a public API, cover revenue, mining output and the active mining-rights register. The mining, oil and forestry contracts are listed too."
   }
 }
