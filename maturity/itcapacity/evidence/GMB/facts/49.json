@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-17-gmb-gpa-advances-port-digitalization-with-successful-completion-of-pmis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Posidonia PMIS",
+   "country_label": "Port Management Information System",
+   "class": "other",
+   "platform": "AWS",
+   "owner": "Gambia Ports Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The PMIS was led and built by contractor Prodevelop with GPA's IT team alongside; the document does not say government staff built or run it."
+}

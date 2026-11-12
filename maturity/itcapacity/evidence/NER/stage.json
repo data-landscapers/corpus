@@ -3,16 +3,17 @@
  "cells": [
   {
    "sub_indicator": "inhouse",
-   "stage": "no evidence",
+   "stage": "unplaced",
    "inhouse": "",
-   "agency": "",
-   "built": "",
+   "agency": "operating",
+   "built": "live",
    "own": "",
    "cap": "",
    "flags": "",
    "stage_sources": "",
-   "gaps": "Nothing found says who builds or runs the government's computer systems.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
+   "gaps": "No source found from 2023 or later says government staff run a system. ANSI built SIGEPAP-GNN for the National Guard in 2025 (NER-001, NER-002), which answers questions 2 and 3 but not question 1.",
+   "note": "Each step must be met: ANSI built and handed over a system in April 2025, but no row says government staff run one. Unplaced.",
+   "as_at": "2026-11-12"
   }
  ]
 }

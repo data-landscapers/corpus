@@ -1,18 +1,19 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "unplaced",
-   "inhouse": "",
-   "agency": "",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No source found from 2023 or later says government staff run or maintain any of its systems.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "1",
+      "inhouse": "outsourced",
+      "agency": "",
+      "built": "",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-003",
+      "gaps": "No source found from 2023 or later says government staff run or maintain any of its systems; SICOM was built by finance ministry staff (GIN-002) but no source says who runs it.",
+      "note": "In December 2023 a USAID project was still training health ministry staff to administer the national eLMIS, with no administrators yet named to take it over (GIN-003): a body needing outside help. Question 1 has no yes, so 1.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

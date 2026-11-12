@@ -78,6 +78,7 @@ CIV,GUCE Mobile,Cote d'Ivoire,staff,,GUCE CI,,2024-07-30-civ-innovation-et-demat
 CIV,ANSUT public data centres,Cote d'Ivoire,staff,,ANSUT,,2026-07-16-civ-stockage-de-donnees-les-10-datacenters-en-cote-d-ivoire-pour-un-debut
 CMR,train.patnucelearning.cm,Cameroon,other,online training platform,Ministry of Posts and Telecommunications (PATNUC),,2026-09-24-digitalbusiness-africa-cameroon-patnuc-training-platform
 CMR,Learning Management System (MINFOPRA-KOICA project),Cameroon,other,LMS,MINFOPRA,,2026-08-20-globalinfosnews-smart-campus-minfopra-koica
+CMR,Camtel information systems,Camtel information systems,other,Huawei,Camtel,,2025-08-28-cmr-cameroun-la-chambre-des-comptes-accuse-camtel-d-avoir-brade-son-indepe
 COD,Kinshasa government network (GovNet pilot),Kinshasa government network,other,,,,2025-07-18-worldbank-ptn-rdc-mission-appui-aide-memoire
 COG,portail e-douanes,e-douanes,other,,Direction générale des douanes et des droits indirects,,2019-02-08-dsi-douaniers-operateurs-sensibilises-e-douanes-dpi
 COG,Déclaration préalable à l'importation (DPI),DPI,other,,Direction générale des douanes et des droits indirects,,2019-02-08-dsi-douaniers-operateurs-sensibilises-e-douanes-dpi
@@ -158,6 +159,7 @@ EGY,NOSI digital transformation system (pensions),NOSI digital transformation sy
 EGY,e-Finance government payments network,e-Finance,staff,,e-Finance (state-owned enterprise),,2021-06-23-worldbank-g2p-payment-arrangements-in-egypt-and-covid-19
 EGY,Unified National Registry,Unified National Registry,staff,,Administrative Control Authority,,2021-06-23-worldbank-g2p-payment-arrangements-in-egypt-and-covid-19
 EGY,Takaful and Karama beneficiary database,TKP database,other,,Ministry of Social Solidarity,,2021-06-23-worldbank-g2p-payment-arrangements-in-egypt-and-covid-19
+EGY,"Control, Command and Technical Support Centre",New Capital Government District command centre,staff,G-cloud / P-cloud,Government of Egypt,,2026-04-01-egy-egypt-s-premier-inspects-new-capital-command-centre-managing-middle-ea
 ETH,Fayda national ID,Ethiopia national ID,other,,NIDP,,2025-10-03 Zambia plans domestic digital ID development with help from international partners
 ETH,livestock information systems,Ethiopia livestock information systems,other,,,,2026-05-26 A Year After USAID Reclaiming Control of Data Systems – Development Gateway An IREX Venture – Data and digital solutions for international development
 ETH,Ergamail,Ergamail,staff,government email client,INSA,,2025-07-08-eth-ebr-insa-local-platforms
@@ -219,6 +221,9 @@ GIN,FUGAS (fichier unique de gestion administrative et de la solde),FUGAS,other,
 GIN,State intranet,State intranet,other,,ANDE,,2022-04-12-ande-missions-et-attributions
 GIN,Integrated financial and administrative management system,Integrated state financial/administrative system,other,,ANDE,,2022-04-12-ande-missions-et-attributions
 GIN,SICOM,SICOM,staff,web application,"Ministry of Economy, Finance and Budget (DNSI)",,2026-05-20-gin-modernisation-des-finances-publiques-la-guinee-lance-sicom-son-nouvel
+GIN,DAMANDA,DAMANDA,other,mining cadastre platform,Comite strategique de Simandou with Ministry of Mines and Geology,,2025-12-22-gin-mines-la-guinee-lance-damanda-sa-plateforme-digitale-de-gestion-des-ti
+GIN,eLMIS,National electronic health logistics management information system,other,,Ministry of Health,,2024-03-01-gin-guinean-computer-scientists-trained-to-manage-health-logistics-system
+GMB,Posidonia PMIS,Port Management Information System,other,AWS,Gambia Ports Authority,,2025-07-17-gmb-gpa-advances-port-digitalization-with-successful-completion-of-pmis
 GNB,SIGDAJ,Guinea-Bissau,staff,,Ministry of Justice and Human Rights,,2023-03-09-undp-e-justice-guinea-bissau-learning-what-works
 GNB,DHIS2 justice adaptation,Guinea-Bissau,other,DHIS2,,,2023-03-09-undp-e-justice-guinea-bissau-learning-what-works
 GNB,SIGDAJ,Guinea-Bissau,staff,,Ministry of Justice and Human Rights,,2023-03-03-undp-e-justice-guinea-bissau
@@ -316,10 +321,12 @@ NAM,Office of the Prime Minister ICT systems and network,Namibia,staff,,Office o
 NAM,Namibia Integrated Employment Information System (NIEIS),Namibia,other,,Ministry of Justice and Labour Relations,,2025-10-20-mol-nieis-rfp-employment-information-system
 NAM,Integrated Financial Management System (IFMS),IFMS,other,,Ministry of Finance,,2025-06-13-nam-cpbn-eoi-ifms-support-five-years
 NAM,Onyofi,Onyofi,staff,,Namibia Revenue Agency,,2025-11-17-nam-revenue-agency-launches-customer-service-system
+NAM,Namcor ERP,Namcor ERP system,other,Oracle,Namcor,,2024-01-10-nam-namcor-splashes-n-68m-on-misfiring-software-system
 NER,SIGRHEP,SIGRHEP,other,,Ministere de la Fonction publique,,2026-07-31-niger-sigrhep-biometrie-fonction-publique
 NER,Solde2Budget,Solde2Budget,other,,,,2026-07-31-niger-sigrhep-biometrie-fonction-publique
 NER,SIGRHEP,SIGRHEP,other,,Ministere de la Fonction publique,,2026-07-29-lesahel-ccr-sigrhep-gestion-ressources-humaines-etat
 NER,SIGRHEP,SIGRHEP,other,,Ministere de la Fonction publique,,2026-07-27-niger-sigrhep-16500-agent-files-digitised-payroll
+NER,SIGEPAP-GNN,"Systeme Integre de Gestion du personnel, des affectations et des pensions de la Garde Nationale",staff,,ANSI / Garde Nationale du Niger,,2025-04-23-ner-l-ansi-lance-le-systeme-integre-de-gestion-des-ressources-humaines-de
 NGA,GBB paperless approval platform,GBB paperless approval platform,staff,,Galaxy Backbone,,2026-10-11-nga-thisday-galaxy-backbone-digitalised-mdas
 NGA,Government Service Portal,Government Service Portal,staff,,Galaxy Backbone,,2026-08-04-nigeria-galaxy-backbone-koica-government-service-portal
 NGA,Government Service Portal,Government Service Portal,staff,,Galaxy Backbone,,2026-07-28-nigeria-unveils-unified-government-service-platform
@@ -418,7 +425,9 @@ SLE,e-Parliament,Sierra Leone,other,,MoCTI Directorate of Technology,,2024-04-17
 SLE,IFMIS,IFMIS,other,,Ministry of Finance DFMST,,2026-10-16-sle-mof-dfmst-tier-iii-data-centre-co-location
 SLE,gov.sl,gov.sl government websites,staff,shared hosting,"Ministry of Communication, Technology and Innovation",,2026-11-09-sierra-leone-begins-training-government-ict-officers-on-website-manage
 SLE,National Energy Dashboard,National Energy Dashboard,other,,Ministry of Energy; built by DSTI,,2025-07-10-sle-dsti-and-ministry-of-energy-launch-development-of-core-energy-sector-s
+SLE,WASH Information Management System (WIMS),WIMS,other,,Ministry of Water Resources,,2026-07-21-sle-ministry-of-water-resources-engages-dsti-to-strengthen-national-wash-i
 SSD,e-Government system,South Sudan,staff,,"Ministry of Information, Communication Technology and Postal Services",,2023-09-06-empowering-digital-transformation-e-government-south-sudan
+SSD,Crime management system,Crime management system,other,,South Sudan National Police Service ICT Directorate,,2025-12-06-ssd-canh-sat-viet-nam-thiet-ke-thanh-cong-he-thong-quan-ly-toi-pham-tai-na
 STP,Sistema de Registo de Embarcações de Pesca,STP,other,Android application feeding a central database,Direção das Pescas e Aquicultura,,2026-05-08-sao-tome-telanon-fao-sistema-registo-embarcacoes-formacao
 SWZ,Digital Eswatini Project,Digital Eswatini Project,other,,Ministry of ICT with World Bank financing,,2026-09-24-swz-positivenews-change-readiness-digital-eswatini
 SWZ,Digital Eswatini Project,Digital Eswatini Project,other,,Ministry of ICT with World Bank loan,,2026-06-24-ict-trains-change-agents-e1-2bn-digitization
@@ -588,6 +597,7 @@ ZMB,SMART Office Management System,SMART Office Management System,other,,SMART Z
 ZMB,Property Management Information System (PMIS),PMIS,other,integrated with ZamPortal and ZamPay,"Ministry of Infrastructure, Housing and Urban Development",,2026-05-13-zambia-launches-pmis-property-management
 ZMB,Lipila,Lipila,other,,Hobbiton Technologies,,2026-10-14-zmb-timesofzambia-hobbiton-lipila-nrfa-mobile-money-tolls
 ZMB,Government Wide Area Network (GWAN),Zambia,staff,,SMART Zambia Institute,,2025-09-08-zmb-smart-zambia-unveils-six-milestones-in-drive-toward-a-digitally-empowe
+ZMB,Mining Cadastre Licensing System,Mining Cadastre Licensing System,other,,Ministry of Mines and Minerals Development,,2025-06-10-zmb-mining-cadastre-licensing-system-restored
 ZWE,ZRP ICT infrastructure,ZRP ICT infrastructure,staff,,Zimbabwe Republic Police ICT Directorate,,2024-03-14-zwe-zrp-support-sections-ict-directorate
 ZWE,Citizen Engagement and Scoring Platform,Citizen Engagement and Scoring Platform,other,,Ministry of Local Government and Public Works (launched by the President),,2026-06-19-hit-lads-africa-citizen-engagement-platform
 ZWE,Government Internet Service Provider (GISP),GISP,staff,,Government of Zimbabwe,,2026-01-01-zwe-gisp-about

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-21-sle-ministry-of-water-resources-engages-dsti-to-strengthen-national-wash-i",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WASH Information Management System (WIMS)",
+   "country_label": "WIMS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Water Resources",
+   "tiers": ""
+  }
+ ],
+ "note": "WIMS was developed in 2022 with UNICEF support and DSTI hosting is only being explored; the document states no government staff running it and no supplier running it."
+}

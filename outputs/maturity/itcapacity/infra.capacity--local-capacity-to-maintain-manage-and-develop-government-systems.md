@@ -24,9 +24,9 @@ The African Charter on the Values and Principles of Public Service and Administr
 | 4 Operating | 9 |
 | 3 Established | 9 |
 | 2 Nascent | 10 |
-| 1 Absent | 3 |
+| 1 Absent | 4 |
 | Unplaced | 5 |
-| No evidence | 6 |
+| No evidence | 5 |
 
 ## Countries
 
@@ -356,15 +356,15 @@ A 2026 source says a government body relies on outside suppliers to run its syst
 
 - Independent News reports the Digital Landscape Assessment Report found 15 ministries have no in-house ICT officers and depend entirely or substantially on RSTP for technical functions, with only 18 dedicated ICT professionals supporting the whole government digital estate assessed ([source, 2026-05-21](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/)).
 
+### Guinea: 1 Absent
+
+In 2023 the health ministry still needed a donor project to run its supply system; no system run by government staff is known.
+
+- The document says the USAID GHSC-PSM project is still transferring the skills to administer the national eLMIS to government staff, with administrators yet to be identified to take over its management from the project ([source, 2023-12](https://www.ghsupplychain.org/news/guinean-computer-scientists-trained-manage-health-logistics-system)).
+
 ### Burundi: Unplaced
 
 The government ICT secretariat runs systems for public institutions in 2026, but no source shows government staff running a system, so no stage is set.
-
-Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
-
-### Guinea: Unplaced
-
-No source found from 2023 or later says government staff run its systems, so no stage is set.
 
 Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
 
@@ -373,6 +373,12 @@ Not established: No source found from 2023 or later says government staff run or
 No source found from 2023 or later says government staff run its systems, so no stage is set.
 
 Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
+
+### Niger: Unplaced
+
+The state ICT agency built a National Guard personnel system in 2025; no source shows staff running a system, so no stage is set.
+
+Not established: No source found from 2023 or later says government staff run a system. ANSI built SIGEPAP-GNN for the National Guard in 2025 (NER-001, NER-002), which answers questions 2 and 3 but not question 1.
 
 ### South Sudan: Unplaced
 
@@ -405,12 +411,6 @@ Nothing found says who builds or runs the government's systems, so no stage is s
 Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Lesotho: No evidence
-
-Nothing found says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing found says who builds or runs the government's computer systems.
-
-### Niger: No evidence
 
 Nothing found says who builds or runs the government's systems, so no stage is set.
 

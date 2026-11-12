@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-01-egy-egypt-s-premier-inspects-new-capital-command-centre-managing-middle-ea",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Control, Command and Technical Support Centre",
+      "country_label": "New Capital Government District command centre",
+      "class": "staff",
+      "platform": "G-cloud / P-cloud",
+      "owner": "Government of Egypt",
+      "tiers": ""
+    }
+  ],
+  "note": "Parent check: the centre monitors the Government District's network and infrastructure, which the study does not count as a system, and the document does not say who employs its engineers; no fact."
+}

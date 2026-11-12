@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-23-ner-l-ansi-lance-le-systeme-integre-de-gestion-des-ressources-humaines-de",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "ANSI, the national information society agency, designed SIGEPAP-GNN, the personnel, postings and pensions system of the National Guard, presented on 23 April 2025 under an ANSI-National Guard memorandum of August 2024.",
+   "as_of": "2025-04-23",
+   "date_precision": "day",
+   "system": "SIGEPAP-GNN",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "ANSI's technical teams designed and developed SIGEPAP-GNN, which was presented and handed to the National Guard on 23 April 2025 and is described as deployed.",
+   "as_of": "2025-04-23",
+   "date_precision": "day",
+   "system": "SIGEPAP-GNN",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGEPAP-GNN",
+   "country_label": "Systeme Integre de Gestion du personnel, des affectations et des pensions de la Garde Nationale",
+   "class": "staff",
+   "platform": "",
+   "owner": "ANSI / Garde Nationale du Niger",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

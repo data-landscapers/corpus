@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-28-cmr-cameroun-la-chambre-des-comptes-accuse-camtel-d-avoir-brade-son-indepe",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "The Chambre des comptes audit says Huawei has supplied and maintained state operator Camtel's information systems since 2011, directly manages the equipment and holds the access codes without a written agreement or real Camtel control.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Camtel information systems",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Camtel information systems",
+   "country_label": "Camtel information systems",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

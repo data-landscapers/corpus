@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,inhouse,inhouse,coverage,yes,2026-05-18,CMR-001,,
+CMR,inhouse,inhouse,coverage,yes,2026-05-18,CMR-001,CMR-002=outsourced,
 CMR,inhouse,agency,coverage,,,,,nothing found
 CMR,inhouse,built,coverage,,,,,nothing found
 CMR,inhouse,own,coverage,,,,,nothing found

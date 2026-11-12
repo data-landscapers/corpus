@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NER,inhouse,inhouse,coverage,,,,,nothing found
+NER,inhouse,agency,coverage,operating,2025-04-23,NER-001,,
+NER,inhouse,built,coverage,live,2025-04-23,NER-002,,
+NER,inhouse,own,coverage,,,,,nothing found
