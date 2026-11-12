@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-11-10
+compiled: 2026-11-12
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 192
+sources_cited: 195
 sections_written: 39
 not_established: 1
 acquire_lines: 29
@@ -208,7 +208,7 @@ In 2025 the World Bank recorded [a financial management information system on co
 
 [Online applications for the State Age Pension opened on 7 October 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2009.10.2026.pdf). [A pension estimate app was launched alongside them on the KOREK! super-app, built by the social security, ICT and finance ministries](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2009.10.2026.pdf). [Close to 500,000 people had registered on the KOREK! app by October 2026, 250,000 of them with identity verification, on the ICT minister's count](https://topfm.mu/actualites/services-publics-numeriques-pres-dun-demi-million-de-mauriciens-desormais-enregistres-sur). [Cabinet recorded that online payment of fines for non-penalty offences was to go live through the Supreme Court website on 30 October 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20-%20Friday%2030%20October%202026.pdf). [It also recorded that development of a Unified Government Web Portal is ongoing](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20-%20Friday%2030%20October%202026.pdf).
 
-Mauritius scores [42.2 out of 100 for ease of resolving a commercial dispute in the World Bank's Business Ready 2025 assessment, against Singapore's 73.3](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867). [Singapore is the comparator Mauritius sets for itself](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867). [It scores 49.0 against 66.0 on the quality of dispute-resolution regulation and 46.4 against 62.8 on the public services supporting it](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867). [Statistics Mauritius reported more than 70,000 cases pending before the courts at the end of 2025, over 13,000 of them civil](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867).
+Mauritius scores [42.2 out of 100 for ease of resolving a commercial dispute in the World Bank's Business Ready 2025 assessment, against Singapore's 73.3](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867). [Singapore is the comparator Mauritius sets for itself](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867). [It scores 49.0 against 66.0 on the quality of dispute-resolution regulation and 46.4 against 62.8 on the public services supporting it](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867). [Statistics Mauritius reported more than 70,000 cases pending before the courts at the end of 2025, over 13,000 of them civil](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867). [In February 2024 remote hearings were limited to judge-in-chambers matters, and electronic filing ran only at the Supreme Court's commercial division](https://defimedia.info/justice-en-ligne-quand-maurice-se-tournera-t-il-vers-ce-systeme).
 
 [A central e-services portal at govmu.org carries ministry services and electronic payments to government](https://govmu.org/EN/Pages/eservices.aspx) (2025). [The national online service portal is transactional at level 3 or 4, and citizens complete transactions on it](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [An online tax portal covers taxpayer registration, filing, payment and further services](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [The revenue authority runs individual income tax e-filing and a File and Pay service](https://www.mra.mu/eservices1/individual/individual-e-filing-season) (2025). [An online social protection portal covers registration, benefit information and payments](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [A separate public employment job portal handles recruitment, selection and online applications](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Mauritius scored 0.7506 on the UN E-Government Development Index in 2024, in the very high band and among the leading African states](https://www.ecofinagency.com/telecom/2309-45916-south-africa-mauritius-and-tunisia-lead-e-government-progress-in-africa). [A dedicated GovTech institution responsible for digital government is established](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
@@ -330,6 +330,8 @@ In 2025 the World Bank recorded [a digital skills strategy and programme for the
 <!-- data.geospatial -->
 
 [The cadastral database of the Land Administration, Valuation and Information Management System was built between 2006 and 2011](https://sinergise.com/sites/default/files/attachments/2016-03-LAVIMS-WorldBankConference.pdf). [It covers the whole island in digital aerial imagery](https://sinergise.com/sites/default/files/attachments/2016-03-LAVIMS-WorldBankConference.pdf). [Every land deed carries a mandatory Parcel Identification Number](https://sinergise.com/sites/default/files/attachments/2016-03-LAVIMS-WorldBankConference.pdf).
+
+[On 23 September 2026 the meteorological service validated a five-year plan for weather, climate and early-warning services](https://wmo.int/media/project-update/mauritius-meteorological-service-validates-five-year-strategic-plan-strengthen-weather-climate-and). [Its weather radar, built with Japanese grant aid to monitor cyclones, was evaluated after completion in 2022](https://www2.jica.go.jp/en/evaluation/pdf/2021_1560400_4_f.pdf).
 
 ## Geopolitics
 
