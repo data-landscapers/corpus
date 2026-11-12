@@ -1,12 +1,12 @@
 ---
 title: Djibouti: status report
-compiled: 2026-11-09
+compiled: 2026-11-12
 place: DJI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 25
-sources_cited: 219
+sources_cited: 220
 sections_written: 39
 not_established: 0
 acquire_lines: 21
@@ -407,7 +407,7 @@ Some rights exist on paper: the [2018 land-property law gives the public the rig
 ### Geospatial data
 <!-- data.geospatial -->
 
-The China Meteorological Administration [handed MAZU-Djibouti 2.0 to Djibouti on 17 July 2026](https://wmo.int/media/news-from-members/mazu-djibouti-20-delivered-republic-of-djibouti), an AI-driven monitoring and alerting system supporting port activities. The upgrade [sharpened forecast resolution from 9km to 3km, with three-day forecasts refreshed every six hours](https://wmo.int/media/news-from-members/mazu-djibouti-20-delivered-republic-of-djibouti), and [added a terminal with integrated meteorological chips](https://wmo.int/media/news-from-members/mazu-djibouti-20-delivered-republic-of-djibouti). It builds on MAZU-Urban, [commissioned on 18 December 2025](https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xqxyw/202512/t20251226_7514696.html), which [supports aviation weather services at the international airport and operational safety at ports such as Doraleh,](https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xqxyw/202512/t20251226_7514696.html). The national meteorological agency itself [ran four automatic weather stations, all in the south and none compliant with the global basic observing network, and its PUMA satellite workstation was not operational, imagery and model output being taken from the web](https://alliancehydromet.org/wp-content/uploads/2025/04/Djibouti-CHD.pdf) (March 2025).
+The China Meteorological Administration [handed MAZU-Djibouti 2.0 to Djibouti on 17 July 2026](https://wmo.int/media/news-from-members/mazu-djibouti-20-delivered-republic-of-djibouti), an AI-driven monitoring and alerting system supporting port activities. The upgrade [sharpened forecast resolution from 9km to 3km, with three-day forecasts refreshed every six hours](https://wmo.int/media/news-from-members/mazu-djibouti-20-delivered-republic-of-djibouti), and [added a terminal with integrated meteorological chips](https://wmo.int/media/news-from-members/mazu-djibouti-20-delivered-republic-of-djibouti). It builds on MAZU-Urban, [commissioned on 18 December 2025](https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xqxyw/202512/t20251226_7514696.html), which [supports aviation weather services at the international airport and operational safety at ports such as Doraleh,](https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xqxyw/202512/t20251226_7514696.html). The national meteorological agency itself [ran four automatic weather stations, all in the south and none compliant with the global basic observing network, and its PUMA satellite workstation was not operational, imagery and model output being taken from the web](https://alliancehydromet.org/wp-content/uploads/2025/04/Djibouti-CHD.pdf) (March 2025). [On 16 September 2025 it issued its first warning in the Common Alerting Protocol, through a new website built on the WMO's ClimWeb template](https://wmo.int/media/project-update/djibouti-successfully-issues-first-common-alerting-protocol-cap-warning).
 
 Djibouti's own programme is a different kind of asset. [HYDROSAT flies two 1U CubeSats](https://spatialdjiboutien.net/hydrosat/) supervised by MENSUR through the Agence Spatiale Djiboutienne, and its [primary mission is store-and-forward data collection rather than imaging](https://spatialdjiboutien.net/hydrosat/): the payload interrogates ground stations and collects up to 4.2MB of data, received by the national research centre several times a day. The [secondary imaging payload resolves at 1km per pixel with files capped at 40KB](https://spatialdjiboutien.net/hydrosat/), too coarse for crop-level or land-parcel observation. [DJIBOUTI-1A launched in November 2023](https://spatialdjiboutien.net/hydrosat/) into a 525km sun-synchronous orbit giving two overflights a day and DJIBOUTI-1B on 21 December 2024 into a 550km orbit giving roughly four, both with a [two-year nominal mission life against a five-year orbital lifetime](https://spatialdjiboutien.net/hydrosat/).
 
