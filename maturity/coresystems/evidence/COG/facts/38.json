@@ -1,0 +1,23 @@
+{
+ "slug": "2025-07-22-cog-direction-des-systemes-d-information-dsi-du-ministere-des-finances",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGFIP",
+   "country_label": "Congo public finance system",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  },
+  {
+   "system": "SIPAE",
+   "country_label": "Congo state payroll system",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "The document installs project heads for these systems and does not state that any is in use."
+}

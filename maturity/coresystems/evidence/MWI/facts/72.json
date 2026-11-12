@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-01-mwi-expression-of-interest-eoi-development-of-property-management-informat",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "IFMIS is named only as a Lilongwe City Council reporting platform, not stated in use across central government."
+}

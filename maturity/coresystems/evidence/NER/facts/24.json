@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-23-ner-l-ansi-lance-le-systeme-integre-de-gestion-des-ressources-humaines-de",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGEPAP-GNN",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "National Guard of Niger; designed by ANSI",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGEPAP-GNN is the National Guard's own personnel and pensions system, not central government payroll."
+}

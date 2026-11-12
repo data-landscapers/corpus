@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-14-gab-gabon-le-logiciel-qui-pilote-le-budget-de-l-etat-est-donc-marocain-dep",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "Depeches241 reports that Vectis, an Involys system used by Gabon since 2012, runs the state's whole budget process from preparation to spending commitment.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Vectis",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vectis",
+   "country_label": "Vectis",
+   "class": "core",
+   "platform": "Involys (Morocco)",
+   "owner": "Involys",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

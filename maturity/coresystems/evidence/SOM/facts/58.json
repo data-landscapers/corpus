@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-08-som-challenges-of-automating-the-property-tax-system-in-garowe-city-puntla",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IFMIS (Garowe municipality)",
+   "country_label": "IFMIS Garowe 2020",
+   "class": "other",
+   "platform": "",
+   "owner": "Garowe municipality",
+   "tiers": "city"
+  }
+ ],
+ "note": "IFMIS is one city's system, not central government's."
+}

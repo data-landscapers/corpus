@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-10-gab-copil-sigfip-deuxieme-reunion-module-1",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGFiP (Système Intégré de Gestion des Finances Publiques)",
+   "country_label": "SIGFiP",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGFiP module 1 (revenue, spending, procurement) is due 15 December 2025 and deployment from January 2026, so it is not stated in use; no paper statement and no architecture stated."
+}

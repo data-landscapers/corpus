@@ -1,19 +1,20 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "unplaced",
-   "finance": "",
-   "revenue": "",
-   "payroll": "",
-   "renewed": "",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No source found from 2023 or later says the government's financial management system is in use.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "2",
+      "finance": "inuse",
+      "revenue": "",
+      "payroll": "",
+      "renewed": "",
+      "architecture": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-002",
+      "gaps": "No source found from 2023 or later says both the tax system and the payroll are in use.",
+      "note": "Stage 4c 2026-11-12: a July 2026 SNDI account of state budget execution at Katiola run on the computer system answers the first question. No source from 2023 or later says tax or payroll runs on one, so not stage 3.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-09-moz-e-sistafe-passa-a-ser-ferramenta-de-auditoria",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "Jornal Noticias reports CEDSIF's chair describing e-SISTAFE, in use since November 2004, as the state financial administration platform, with the Treasury Single Account for public money flows and the taxpayer number required in its transactions.",
+   "as_of": "2024-12-09",
+   "date_precision": "day",
+   "system": "e-SISTAFE",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-SISTAFE",
+   "country_label": "e-SISTAFE",
+   "class": "core",
+   "platform": "",
+   "owner": "CEDSIF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

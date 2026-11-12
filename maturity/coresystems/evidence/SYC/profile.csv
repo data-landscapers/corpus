@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SYC,core,finance,coverage,inuse,2024-04,SYC-001,,
+SYC,core,finance,coverage,inuse,2025-03,SYC-001;SYC-002,,
 SYC,core,revenue,coverage,,,,,nothing found
 SYC,core,payroll,coverage,,,,,nothing found
 SYC,core,renewed,coverage,,,,,nothing found

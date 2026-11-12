@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-20-gha-local-government-service-embracing-digitisation-to-enhance-operations",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ghana Integrated Financial Management System",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Local Government Service",
+   "tiers": ""
+  }
+ ],
+ "note": "The document says the Local Government Service introduced the system for local government units, not that it runs central government's finances."
+}

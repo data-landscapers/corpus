@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-29-ago-angop-agt-asy5-porto-luanda-ia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ASY5 (Sistema Automatizado de Processamento de Dados Aduaneiros)",
+   "country_label": "ASY5",
+   "class": "other",
+   "platform": "UNCTAD",
+   "owner": "AGT",
+   "tiers": ""
+  }
+ ],
+ "note": "The article is about the customs system ASY5, which is not a core system for this study; nothing on the financial, tax or payroll systems."
+}

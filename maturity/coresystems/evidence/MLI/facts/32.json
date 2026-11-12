@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-25-mli-operationnalisation-du-sigrh-tres-bientot-un-outil-efficace-de-gestion",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGRH",
+   "country_label": "Mali civil-service HR and payroll system",
+   "class": "other",
+   "platform": "in-house software, server hosted in Mali",
+   "owner": "Government of Mali",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGRH is described as about to be launched after a ministerial inspection on 20 June 2025, not as in use."
+}

@@ -13,6 +13,7 @@ AGO,SINGERH,SINGERH,core,,MAPTSS,,2026-10-29-ago-sistema-integrado-de-gestao-de-
 AGO,SIGFE,SIGFE,core,,Ministry of Finance,,2026-10-29-ago-sistema-integrado-de-gestao-de-recursos-humanos-da-funcao-publica-sing
 AGO,SINGERH,Sistema Integrado de Gestao de Recursos Humanos da Funcao Publica (SINGERH),core,,MAPTSS,,2026-11-04-ago-vera-daves-pede-celeridade-na-actualizacao-de-dados-cadastrais-de-funcionarios-f
 AGO,SIGFE,SIGFE,core,,Ministerio das Financas,,2026-10-30-ago-proposta-de-oge-2027-resumo-da-dotacao-orcamental-por-orgao-companion
+AGO,ASY5 (Sistema Automatizado de Processamento de Dados Aduaneiros),ASY5,other,UNCTAD,AGT,,2026-06-29-ago-angop-agt-asy5-porto-luanda-ia
 BDI,SIGFP_BI,Burundi,other,"custom-built open-source modules, Microsoft Server 2019 or later","Ministere des Finances, du Budget et de l'Economie Numerique (via PAFEN)","central and deconcentrated administration; tendered, not in use",2026-03-25-pafen-aao-sigfp-systeme-integre-gestion-finances-publiques
 BDI,SIGFP_BI,Burundi,other,Microsoft Server 2019 or later,"Ministere des Finances, du Budget et de l'Economie Numerique","all ministries and constitutional institutions; contract awarded, not in use",2026-04-20-digital-business-africa-burundi-sigfp-bi-gre-a-gre
 BDI,SIGFP,Burundi,other,,"Ministere des Finances, du Budget et de l'Economie Numerique","public administrations; deployment being prepared, not in use",2026-04-08-mfben-burundi-prepare-mise-en-place-sigfp
@@ -44,6 +45,12 @@ CIV,e-GOUV (Microsoft licences and support),e-GOUV,other,Microsoft,Ministère de
 CIV,"Ministry of Economy, Planning and Development 2026-2030 Information System Master Plan",Information System Master Plan 2026-2030,other,,"Ministry of Economy, Planning and Development",national,2025-12-17-economy-ministry-it-master-plan-wearetech
 CIV,e-GOUV (Microsoft licences and support),e-GOUV,other,Microsoft,Ministère des Finances et du Budget,national,2024-12-18-civ-2025-322-78010200285
 CIV,payroll module (DSIB),Cote d'Ivoire,other,,"DSIB, Direction Generale du Budget et des Finances",,2025-11-26-civ-reecriture-du-systeme-de-remuneration-des-fonctionnaires-et-agents-de
+CIV,Système d'information budgétaire,Côte d'Ivoire,other,,Ministère des Finances et du Budget,,2025-12-19-civ-2026-322-78011202017
+CIV,Système d'information budgétaire (DSIB),Côte d'Ivoire,other,,Ministère des Finances et du Budget,,2025-12-19-civ-2026-322-78011202283
+CIV,Système d'information budgétaire,Côte d'Ivoire,other,,Ministère des Finances et du Budget,,2024-12-18-civ-2025-322-78011202017
+CIV,Système d'information budgétaire (DSIB),Côte d'Ivoire,other,,Ministère des Finances et du Budget,,2024-12-18-civ-2025-322-78011202283
+CIV,Système d'information budgétaire,Côte d'Ivoire,other,,Ministère des Finances et du Budget,,2023-12-18-civ-2024-322-78011202017
+CIV,SIGFIP,Cote d'Ivoire,other,,SNDI,,2026-07-28-civ-digitalisation-des-services-publics-en-cote-d-ivoire-les-applications
 CMR,SIGIPES,SIGIPES,other,,MINFOPRA,,2022-06-15-minfopra-camtel-convention-partenariat
 CMR,ANTILOPE,ANTILOPE,other,,MINFOPRA,,2022-06-15-minfopra-camtel-convention-partenariat
 CMR,PROBMIS,PROBMIS,core,,Ministry of Finance,all ministries connected,2020-06-01-worldbank-cameroon-digital-economy-assessment
@@ -65,6 +72,8 @@ COG,SIGHRE,Système intégré de gestion des ressources humaines de l'État,othe
 COG,SIGFIP,Congo,other,,,,2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu
 COG,SIGFIP,SIGFIP,core,,Ministry of Economy and Finance,,2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville
 COG,E-TAX,E-TAX,core,,Ministry of Economy and Finance,,2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville
+COG,SIGFIP,Congo public finance system,other,,Ministry of Finance,,2025-07-22-cog-direction-des-systemes-d-information-dsi-du-ministere-des-finances
+COG,SIPAE,Congo state payroll system,other,,Ministry of Finance,,2025-07-22-cog-direction-des-systemes-d-information-dsi-du-ministere-des-finances
 COM,Portail Unique du Citoyen (PUC),Portail Unique du Citoyen,other,,ANADEN / Union des Comores,,2026-08-31-puc-gouv-km-portail-unique-citoyen-note-conceptuelle
 COM,E-Government Modernisation Project (COM 1026) digital platforms,COM,other,,ANADEN,,2026-07-30-isdb-anaden-eoi-digitalisation-supervision-cabinet
 COM,plateforme d'administration numérique (portail gouvernemental),COM,other,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
@@ -101,6 +110,9 @@ DZA,Second National Data Centre (Blida),Deuxième Centre national des données,o
 DZA,Système Intégré de Gestion Budgétaire (SIGB),SIGB,core,,Ministry of Finance,,2024-12-01-dza-sentinelle-sigb-premiere-phase-deploiement
 DZA,SIGB/SIGBUD/MSB,"SIGB, SIGBUD, MSB",other,,Ministry of Finance,,2024-02-19-dza-jnae-public-finance-digitization-sigb-sigbud
 DZA,ALCES,ALCES customs information system,other,,Douanes algeriennes,,2024-09-22-dza-algerieaujourdhui-alces-168000-declarations
+DZA,Centre national des services numériques,Centre national des services numériques,other,data centre,Government of Algeria,,2026-07-06-national-digital-services-centre-inaugurated-elmoudjahid
+DZA,Centre national des services numériques,Centre national des services numériques,other,data centre,Government of Algeria,,2026-07-05-jeune-independant-centre-national-services-numeriques
+DZA,Système intégré de gestion budgétaire (SIGB),Algeria,other,budget and accounting platform,Ministry of Finance,,2024-03-01-dza-ouest-tribune-numerisation-finances-systeme-information-tresor
 EGY,Digital treasury system,Egypt,other,Digital Egypt,MCIT,,2026-07-29-egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform
 EGY,Public Shop Licensing System,Egypt,other,Digital Egypt,Ministry of Local Development and Environment,,2026-07-29-egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform
 EGY,Institutional memory system (manzumat al-dhakira al-mu'assasiyya),Egypt,other,,Cabinet Information and Decision Support Centre; Ministry of Social Solidarity,,2026-08-19-dostor-social-solidarity-institutional-memory
@@ -171,6 +183,10 @@ GAB,SIGFiP,"integrated budget, accounting and financial management system (contr
 GAB,SIGFiP,SIGFiP,other,,Ministry of Digital Economy,"interconnection of financial administrations, said to be already being deployed",2025-10-31-gab-gabon-launches-pilot-phase-to-digitize-social-and-fiscal-funds
 GAB,SIGRH,Gabon,other,,Ministry of Public Service,,2026-11-06-gin-a-bakou-le-gabon-et-la-guinee-se-rapprochent-pour-moderniser
 GAB,HRMIS modules and payroll management system,Gabon,other,,Gabonese Republic,,2026-07-16-gab-p175987-amendment-letter-loan-agreement-digital-gabon
+GAB,SIGFiP (Système Intégré de Gestion des Finances Publiques),SIGFiP,other,,Ministry of Economy and Finance,,2025-11-10-gab-copil-sigfip-deuxieme-reunion-module-1
+GAB,Vectis,Gabon budget and expenditure system,core,Involys SA software,Involys SA (vendor),,2026-07-24-gab-dgbfip-involys-sa-vectis-4-92-milliards-entente-directe
+GAB,Vectis,Vectis,core,Involys (Morocco),Involys,,2026-07-14-gab-gabon-le-logiciel-qui-pilote-le-budget-de-l-etat-est-donc-marocain-dep
+GAB,SIGFIP,Gabon,core,Treasury data centre,Ministry of Budget / ANINF,,2026-01-15-gab-le-gabon-reprend-la-main-sur-sa-souverainete-financiere-et-numerique
 GHA,Integrated Tax Administration System (ITAS),Integrated Tax Administration System (ITAS),core,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,Ghana Integrated Tax Management and Information System (GITMIS),Ghana Integrated Tax Management and Information System (GITMIS),core,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,Integrated Customs Management System (ICUMS),Integrated Customs Management System (ICUMS),other,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
@@ -206,6 +222,7 @@ GHA,"Sentinel System (Real-Time VAT, RTVAT)",Sentinel System,other,,Ghana Revenu
 GHA,GIFMIS,GIFMIS,other,,Government of Ghana,,2025-12-11-gha-2026-budget-through-lens-of-communication-digital-transformation
 GHA,Ghana.gov,Ghana,other,eGovernment Digital Services platform,"Ministry of Communication, Digital Technology and Innovations",,2026-11-03-gha-refonte-ghana-gov-cbrain-omni-strategies-contract
 GHA,e-Payslip platform,GHA,core,,Controller and Accountant-General's Department,,2026-02-15-gha-cagd-verify-ghana-card-details-by-march-15-or-face-salary-suspension
+GHA,Ghana Integrated Financial Management System,Ghana,other,,Local Government Service,,2024-06-20-gha-local-government-service-embracing-digitisation-to-enhance-operations
 GIN,GEDA,GEDA,other,,Presidency,,2026-08-14-guinea-geda-doumbouya-decrets-arretes
 GIN,GEME,GEME,other,,Government,,2026-08-13-guinea-geme-digitalisation-missions-etat
 GIN,RTGS,RTGS,other,,BCRG,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
@@ -270,6 +287,7 @@ KEN,IFMIS,Kenya,other,,,,2023-11-11-ken-gov-t-launches-phase-4-5-of-the-last-mil
 KEN,eGP,Kenya eGP system,other,,National Treasury,,2026-11-04-ken-ipf-and-treasury-review-kenya-s-electronic-government-procurement-e-gp-progress
 KEN,IFMIS,Integrated Financial Management Information System,other,,National Treasury and Planning,county,2026-11-06-ken-from-paper-files-to-fingertips-vihiga-unleashes-digital-revolution
 KEN,IFMIS,Kenya,other,,Government of Kenya,,2026-11-04-ken-nyota-agpo-digital-training-for-600000-entrepreneurs
+KEN,iTax,Kenya,core,,Kenya Revenue Authority,,2024-07-30-ken-stamp-duty-payments-simplified-by-ardhipay
 LBR,IFMIS,IFMIS,core,,Ministry of Finance and Development Planning,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
 LBR,integrated tax administration system,integrated tax administration system components (revenue administration systems),other,,,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
 LBR,customs management information system,customs management information system,other,,,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
@@ -280,6 +298,7 @@ LBR,Integrated Financial Management Information System (IFMIS),IFMIS,core,,Minis
 LBR,Automated System for Customs Data (ASYCUDA) version 4.4,ASYCUDA,other,ASYCUDA 4.4,Liberia Revenue Authority,,2026-05-20-mfdp-lra-cbl-joint-press-conference-gac-revenue-collection-audit
 LBR,Telecommunications traffic monitoring platform (TIA concession; NUMTEL proposed replacement),Liberia,other,,Liberia Telecommunications Authority,,2026-07-30-liberia-lacc-weighs-investigation-into-lta
 LBR,Liberia Integrated Tax Administration System (LITAS),Liberia,other,,Liberia Revenue Authority,,2025-08-21-lbr-lra-trains-staff-on-new-digital-tax-payment-system
+LBR,Budget Management System (BMS),Liberia,other,vendor RoviaGate Technology,Ministry of Finance and Development Planning,,2024-06-03-lbr-liberia-frontpageafrica-s-latest-investigation-unveils-procurement-bre
 LBY,Libya e-payment system (card/POS),e-payment system,other,,Central Bank of Libya,,2026-05-27-cbl-epayment-system-crash-2m-pos-libyaherald
 LBY,LYPay,LYPay,other,,,,2026-03-03-cbl-record-epayment-qr-launch-alwasat
 LBY,OnePay,OnePay,other,,,,2026-03-03-cbl-record-epayment-qr-launch-alwasat
@@ -325,6 +344,7 @@ MLI,SIGRH,Système intégré de gestion des ressources humaines,other,,Governmen
 MLI,SIGRH,Systeme Integre de Gestion des Ressources Humaines,other,,Ministere de l'Economie et des Finances,,2025-08-28-mli-mali-le-gouvernement-suspend-les-salaires-de-36-151-agents-publics-apr
 MLI,Système Intégré de Gestion des Ressources Humaines de l'Etat et des Collectivités territoriales,SIGRH project,other,,State,,2023-11-24-mli-decret-2023-0679-identification-agents-fonctions-publiques
 MLI,SIGRH,Systeme Integre de Gestion des Ressources Humaines,other,,Government,,2023-11-13-mli-fonctions-publiques-de-l-etat-et-des-collectivites-territoriales-mise
+MLI,SIGRH,Mali civil-service HR and payroll system,other,"in-house software, server hosted in Mali",Government of Mali,,2025-06-25-mli-operationnalisation-du-sigrh-tres-bientot-un-outil-efficace-de-gestion
 MOZ,Sistema de Gestão Autárquico (SGA) / e-SISTAFE Autárquico,"SGA, e-SISTAFE Autárquico",other,,"CEDSIF, IP",municipal,2020-02-21-moz-lancado-o-sistema-de-gestao-autarquico-sga-na-componente-e-sistafe-aut
 MOZ,e-SISTAFE,e-SISTAFE (State Financial Administration System),core,,,,2026-10-12-moz-consulting-co-mz-ai-public-finance-management-strategy
 MOZ,e-SISTAFE,e-SISTAFE,core,,Ministry of Finance,central;provincial;municipal,2025-11-01-mef-cge-2024-discurso-sespe
@@ -339,6 +359,7 @@ MOZ,e-SISTAFE,e-SISTAFE,core,,Ministry of Economy and Finance (CEDSIF),,2024-11-
 MOZ,e-SNGRHE,State Human Resources Management System,core,BioPV mobile app,Ministry of Finance,,2025-10-09-moz-biometric-verification-removes-over-18-000-nonexistent-employees-from
 MOZ,e-SISTAFE,e-SISTAFE,core,,CEDSIF,,2026-09-01-moz-cedsif-modulos-e-sistafe
 MOZ,e-Tributação,e-Tributação,core,,CEDSIF,,2026-09-01-moz-cedsif-modulos-e-sistafe
+MOZ,e-SISTAFE,e-SISTAFE,core,,CEDSIF,,2024-12-09-moz-e-sistafe-passa-a-ser-ferramenta-de-auditoria
 MRT,RIAD,Réseau Intranet Administratif haut Débit,other,,Ministère de la Transformation Numérique et de la Modernisation de l'Administration,,2024-09-20-mtnima-riad-reseau-intranet-administratif-haut-debit
 MRT,public finance management platform,plateformes pour la gestion des finances publiques,other,,,,2025-02-01-banque-mondiale-diagnostic-economie-numerique-mauritanie
 MRT,tax declaration platform,plateformes pour les déclarations fiscales,other,,,,2025-02-01-banque-mondiale-diagnostic-economie-numerique-mauritanie
@@ -358,6 +379,7 @@ MUS,Government Payroll System (e-payroll),Mauritius,core,,Central Information Sy
 MUS,New Government payroll system,Government payroll system,core,Mokloud platform for payslips,CISD,,2025-04-04-mus-cisd-enewsletter-issue-6
 MUS,Treasury Accounting System (TAS),Mauritius,core,,The Treasury,,2024-11-01-mus-cib-list-of-operational-systems
 MUS,Payroll System,Mauritius,core,,Central Information Systems Division,,2024-11-01-mus-cib-list-of-operational-systems
+MUS,e-Payroll,Mauritius,core,,Central Information Systems Division,,2025-01-01-mus-cisd-milestones
 MWI,Integrated Tax Administration System II (ITAS II),ITAS II,other,in-house,Malawi Revenue Authority,,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements
 MWI,Electronic Invoicing System,EIS,other,,Malawi Revenue Authority,,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements
 MWI,New Local Authority Integrated Financial Management Information System,NEW LA-IFMIS,other,,Accountant General's Department,local authorities,2025-05-08-mwi-request-for-expression-of-interest-design-development-deployment-train
@@ -375,6 +397,7 @@ MWI,Ifmis,Integrated Financial Management Information System,core,SAP,Accountant
 MWI,IFMIS human capital module,Malawi,other,,Accountant General's Department,,2024-03-01-mwi-k3-5-billion-needed-for-ifmis-upgrade
 MWI,ASYCUDA World,ASYCUDA World,other,UNCTAD,Malawi Revenue Authority,,2026-08-13-mwi-mra-hails-automation-of-cargo-clearance
 MWI,ASYCUDA World,ASYCUDA World 4.4.0,other,UNCTAD,Malawi Revenue Authority,,2025-05-23-mwi-ict-projects-running-at-satcp
+MWI,IFMIS,Malawi,other,,,,2026-08-01-mwi-expression-of-interest-eoi-development-of-property-management-informat
 NAM,Integrated Tax Administration System (ITAS),Namibia,core,,Namibia Revenue Agency,,2025-01-01-integrated-tax-administration-system-e-portal
 NAM,integrated Tax Administration System (ITAS),Namibia,core,,,,2026-01-01-consolidation-of-social-grants-and-the-food-bank
 NAM,integrated Financial Management System (IFMS),Namibia,core,,,,2026-01-01-consolidation-of-social-grants-and-the-food-bank
@@ -391,6 +414,7 @@ NAM,Integrated Tax Administration System (ITAS),Namibia,other,CSS-CA Technology,
 NER,SIGRHEP (Système Intégré de Gestion des Ressources Humaines de l'État et de la Paie),Niger,other,,"Ministry of Public Service, Labour and Employment",central,2026-07-29-lesahel-ccr-sigrhep-gestion-ressources-humaines-etat
 NER,SIGRHEP (Système Intégré de Gestion des Ressources Humaines de l'État et de la Paie),Niger,other,,"Ministry of Public Service, Labour and Employment",central,2026-07-27-niger-sigrhep-16500-agent-files-digitised-payroll
 NER,DUNE-RH,Niger education ministry HR platform,other,,Ministère de l'Éducation nationale,,2026-10-15-ner-wassika-men-plateformes-numeriques-dune-rh
+NER,SIGEPAP-GNN,Niger,other,,National Guard of Niger; designed by ANSI,,2025-04-23-ner-l-ansi-lance-le-systeme-integre-de-gestion-des-ressources-humaines-de
 NGA,IPPIS,Integrated Personnel and Payroll Information System,core,,Office of the Accountant-General of the Federation,federal,2026-08-29-thisday-tinubu-ippis-forensic-audit
 NGA,GIFMIS,GIFMIS,core,,,federal,2026-08-29-thisday-tinubu-ippis-forensic-audit
 NGA,Remita,Remita,other,,,,2026-08-29-thisday-tinubu-ippis-forensic-audit
@@ -409,6 +433,7 @@ NGA,IPPIS,Integrated Personnel and Payroll Information System (IPPIS),core,,Offi
 NGA,IPPIS,Integrated Personnel and Payroll Information System,core,,Office of the Accountant-General of the Federation,,2024-12-05-nga-mdas-without-ippis-won-t-get-2025-budget-approval-fg
 NGA,GIFMIS,Government Integrated Financial Management Information System,core,,Office of the Accountant-General of the Federation,,2024-12-05-nga-mdas-without-ippis-won-t-get-2025-budget-approval-fg
 NGA,Revenue Assurance and Central Disbursement Solutions,Revenue Assurance and Central Disbursement Solutions,other,GIFMIS,Federal Ministry of Finance,,2024-06-25-nga-fg-tackles-revenue-leakage-deploys-central-disbursement-solutions
+NGA,IPPIS,Nigeria,core,SoftAlliance and Resources platform,Office of the Accountant-General of the Federation,federal,2026-07-27-nga-fg-launches-digital-hr-system-ends-manual-staff-postings-across-civil
 RWA,Irembo,Irembo public-services portal,other,,,,2026-08-31-wearetech-gabon-rwanda-digital-transformation
 RWA,Integrated Personnel and Payroll Information System (IPPIS),Rwanda,other,,"Rwanda Standards Board (site menu link, Employee Self-Service Portal)",,2026-03-06-rsb-mutual-recognition-arrangements-aconoq-saz-2026
 RWA,IFMIS,Rwanda,core,,Ministry of Finance and Economic Planning,across government,2018-10-23-wb-rwa-003-rwanda-public-finance-management-reform-project
@@ -503,6 +528,7 @@ SOM,SFMIS,Somalia,core,PFM Smart,Ministry of Finance,,2026-09-08-som-pfm-smart-s
 SOM,BISAN,Somalia,other,,Federal Member States,,2026-09-08-som-pfm-smart-signs-contract-with-the-federal-government-of-somalia-to-enh
 SOM,ITAS,Somalia,other,,,,2026-09-08-som-pfm-smart-signs-contract-with-the-federal-government-of-somalia-to-enh
 SOM,HRMIS,Somalia,other,,,,2026-09-08-som-pfm-smart-signs-contract-with-the-federal-government-of-somalia-to-enh
+SOM,IFMIS (Garowe municipality),IFMIS Garowe 2020,other,,Garowe municipality,city,2024-10-08-som-challenges-of-automating-the-property-tax-system-in-garowe-city-puntla
 SSD,Government Enterprise Architecture (GEA) and Implementation Plan,Government Enterprise Architecture (GEA),other,,"Ministry of Information, Communication Technology and Postal Services",,2026-05-25-gea-consulting-tender-eardip-south-sudan
 SSD,National e-Tax System,National e-Tax System,core,,South Sudan Revenue Authority,,2026-03-13-manual-revenue-collection-banned-mandatory-etax
 SSD,Government Enterprise Architecture (GEA),GEA,other,,"Ministry of Information, Communication Technology and Postal Services",,2024-06-07-south-sudan-eardip-implementation-support-mission
@@ -538,6 +564,7 @@ SYC,Integrated Financial Management Information System (IFMIS),IFMIS (in procure
 SYC,Human Resource Management System (HRMS),Seychelles HRMS,other,FreeBalance,Department of Public Administration,,2026-10-19-syc-seychelles-targets-2027-start-for-digital-system-to-modernise-public-service
 SYC,Integrated Financial Management Information System,Seychelles new IFMIS,other,,Government of Seychelles,,2026-10-19-syc-seychelles-targets-2027-start-for-digital-system-to-modernise-public-service
 SYC,Tax Management System,Seychelles Tax Management System,other,,Government of Seychelles,,2026-10-19-syc-seychelles-targets-2027-start-for-digital-system-to-modernise-public-service
+SYC,IFMIS,SYC,core,,,,2025-03-01-syc-dict-development-of-the-land-valuation-system-lvs
 TCD,SIGFiP,SIGFiP,core,,Ministry of Finance,,2026-08-04-tchad-budget-2027-numerique-finances-publiques
 TCD,"Tax, customs and Treasury platforms","Tax, customs and Treasury platforms",other,,Ministry of Finance,,2026-08-04-tchad-budget-2027-numerique-finances-publiques
 TCD,SIGFIP,SIGFIP,core,,Ministry of Finance,,2026-05-05-mandoul-autorites-formees-au-sigfip-outils-numeriques-fiscaux

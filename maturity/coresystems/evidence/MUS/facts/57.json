@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-mus-cisd-milestones",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The Central Information Systems Division's milestones page lists the E-Payroll system from 2020 and a revamped e-Payroll system in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "e-Payroll",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Payroll",
+   "country_label": "Mauritius",
+   "class": "core",
+   "platform": "",
+   "owner": "Central Information Systems Division",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

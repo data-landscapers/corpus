@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-01-dza-ouest-tribune-numerisation-finances-systeme-information-tresor",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "Finance Minister Laaziz Faid told the National People's Assembly that the Treasury services' information system was adapted and put into service for expenditure execution under the programme budget from 1 January 2023.",
+   "as_of": "2023-01-01",
+   "date_precision": "day",
+   "system": "Treasury services information system",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "Faid said the Djibayatic tax system covered 40 centres, with 43 tax centres, 37 proximity centres and the large-enterprise directorate digitised as of February 2024, and the Moussahamatic portal was extended to 242 tax offices in 31 wilaya directorates by end-2023.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Djibayatic and Moussahamatic",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système intégré de gestion budgétaire (SIGB)",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "budget and accounting platform",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "No payroll system is named; the SIGB is said only to be in the course of publication."
+}

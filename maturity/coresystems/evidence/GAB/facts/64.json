@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-15-gab-le-gabon-reprend-la-main-sur-sa-souverainete-financiere-et-numerique",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "Gabon Info reports the launch of SIGFIP, the integrated public finance management system, which centralises processing of the state's expenditure and revenue on one platform, per the delegate budget minister and ANINF's deputy director general.",
+   "as_of": "2026-01-15",
+   "date_precision": "day",
+   "system": "SIGFIP",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "renewed",
+   "value": "live",
+   "fact": "Gabon Info reports the launch of the new SIGFIP public finance system in January 2026, which the minister says the administration developed in-house and whose source code it owns.",
+   "as_of": "2026-01-15",
+   "date_precision": "day",
+   "system": "SIGFIP",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGFIP",
+   "country_label": "Gabon",
+   "class": "core",
+   "platform": "Treasury data centre",
+   "owner": "Ministry of Budget / ANINF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
