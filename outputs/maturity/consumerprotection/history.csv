@@ -58,3 +58,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,ZAF,dpi.pay--consumer-protection,ladder,4,2,ZAF-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
 2026-11-09,CIV,dpi.pay--consumer-protection,ladder,4,4,CIV-002,"Recounted under message 114 (each step met on its own evidence): later rows answer every step, so the stage holds."
 2026-11-11,CPV,dpi.pay--consumer-protection,ladder,unplaced,5,CPV-002;CPV-001;CPV-003,Restaged under message 114 (housekeeping 57): the central bank's 2024 conduct report applies the payment-services law to digital-banking refunds and counts internet-banking complaints; unplaced to 5.
+2026-11-12,ZAF,dpi.pay--consumer-protection,fact,2,4,ZAF-005;ZAF-003;ZAF-002,"Financial Regulation Journal (February 2026): the National Credit Act affordability assessment is a conduct rule binding digital lenders; with the ombud's digital banking complaints, stage 4."

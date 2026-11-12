@@ -52,6 +52,7 @@ GMB,Consumer Protection Tribunal,The Gambia,protection,,Gambia Competition and C
 GNB,PAPSS,Guinea-Bissau,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 KEN,CBK digital credit provider licensing,Kenya,protection,,Central Bank of Kenya,,2026-09-30-ken-itweb-cbk-licenses-29-digital-lenders
 KEN,Financial Consumer Protection Framework (draft),Kenya,protection,,"Consumer Protection Framework Technical Working Group (CBK, CMA, IRA, RBA, SASRA, CA, CAK)",,2026-03-01-ken-draft-financial-consumer-protection-framework
+KEN,IPSL payment scheme,Kenya,other,Tazama,Integrated Payment Services Limited,,2024-11-27-iati-dac-1601-inv-076412-tazama-poc-ipsl-kenya
 LBR,Liberia Telecommunications Authority consumer protection services,Liberia,other,,LTA,,2026-09-05-liberia-lta-decentralizes-consumer-services-buchanan
 LBR,Guidelines Concerning Digital Credit for Financial Institutions,Liberia,protection,,Central Bank of Liberia,,2022-03-17-lbr-cbl-digital-credit-guidelines
 LBR,Consumer Protection and Market Conduct Regulations No. CBL/RSD/004/2020,Liberia,protection,,Central Bank of Liberia,,2022-03-17-lbr-cbl-digital-credit-guidelines
@@ -80,6 +81,7 @@ MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-m
 MOZ,Aviso 9/GBM/2020 Regulamento de Tratamento de Reclamações,Mozambique,protection,,Banco de Moçambique,,2026-02-25-mocambique-aviso-1-gbm-2026-sistema-pagamentos-instantaneos
 MOZ,Vodafone M-Pesa,Mozambique,other,mobile money,"Vodafone M-Pesa, SA",,2026-08-31-moz-statistics-on-complaints-received-by-banco-de-mocambique-against-finan
 MOZ,M-Mola,Mozambique,other,mobile money,"M-Mola, SA",,2026-08-31-moz-statistics-on-complaints-received-by-banco-de-mocambique-against-finan
+MOZ,campaign worker databases for digital payment,Mozambique,other,,Dimagi Inc. (implementer),,2024-12-19-crs-1601-2024012782-09-2024-campaign-worker-databases-to-facilitate-rapid-digi
 MRT,Himaya,Mauritania,protection,call centre 1973,Banque Centrale de Mauritanie,,2026-04-22-mrt-pafiid-himaya-consumer-complaints-platform-pilot
 MWI,Social cash transfer programmes,MWI,other,,,,2026-09-04-mwi-macra-digital-scams-alert
 MWI,Malawi Police electronic traffic fine payment,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
@@ -143,6 +145,7 @@ UGA,"National Payment Systems Act, 2020",Uganda,protection,,Bank of Uganda,,2020
 UGA,Financial Consumer Empowerment Mechanism,Uganda,protection,,Bank of Uganda,,2024-04-29-uga-bou-details-redress-procedure-for-aggrieved-bank-customers
 UGA,National Payments Act,National Payments Act (2022 update),protection,,Bank of Uganda,,2024-08-05-uga-navigating-the-pitfalls-3-consumer-challenges-in-uganda-s-financial-co
 UGA,Digital Lending Guidelines Vol.1 (2024),Uganda,protection,,Uganda Microfinance Regulatory Authority,,2024-06-03-uga-online-lenders-harassing-borrowers-risk-closure
+UGA,national central data hub for credit reference bureaus,Uganda,other,,,,2024-07-09-crs-1601-2024011309-01-2024-uganda-central-data-hub
 ZAF,National Opt-Out Registry,South Africa,other,,National Consumer Commission,,2026-10-07-gov-national-consumer-commission-launches-national-opt-out-registry
 ZAF,"Consumer Protection Act Amendment Regulations, 2026",South Africa,other,,National Consumer Commission,,2026-04-20-cpa-direct-marketing-optout-regs
 ZAF,MTN MoMo,ZAF,other,,,,2026-09-04-techcabal-mtn-fintech-serigne-dioum-momo-vision
@@ -154,5 +157,6 @@ ZAF,SARB Directive X of 2025 (draft) on specific payment activities,South Africa
 ZAF,National Financial Ombud Scheme,South Africa,protection,,NFO,,2026-03-16-zaf-fraud-complaints-at-the-banking-ombud-nearly-double-in-a-year-as-digit
 ZAF,National Financial Ombud South Africa,South Africa,protection,,National Financial Ombud South Africa,,2025-12-15-zaf-nfo-banking-division-returns-r60-million-to-consumers-in-2025
 ZAF,"National Financial Ombud Scheme (NFO), Banking Division",South Africa,protection,,National Financial Ombud Scheme,,2025-06-26-zaf-fraud-floods-complaints-as-banking-ombud-speeds-up-resolutions
+ZAF,"National Credit Act affordability assessment (ss 81-82, Regulation 23A)",National Credit Act affordability assessment,protection,,National Credit Regulator,,2026-02-18-zaf-frj-credit-risk-affordability-digital-credit
 ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-payment-system-china-cips
 ZWE,Consumer Protection Commission,Zimbabwe,protection,regulator,Government of Zimbabwe,,2024-10-23 Electronic Transactions A Consumer Right - Consumer Protection Commission

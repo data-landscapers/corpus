@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-18-zaf-frj-credit-risk-affordability-digital-credit",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The article (Magolego, Financial Regulation Journal, 2026-02-18) states that the National Credit Act affordability assessment, sections 81 and 82 read with Regulation 23A, is a conduct and consumer protection requirement applying to credit providers including digital lenders, with debt review and reckless lending findings as remedies.",
+   "as_of": "2026-02-18",
+   "date_precision": "day",
+   "system": "National Credit Act affordability assessment",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Credit Act affordability assessment (ss 81-82, Regulation 23A)",
+   "country_label": "National Credit Act affordability assessment",
+   "class": "protection",
+   "platform": "",
+   "owner": "National Credit Regulator",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

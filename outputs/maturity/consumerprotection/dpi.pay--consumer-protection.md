@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy asks for consumer protection
 | Stage | Countries |
 |---|---|
 | 5 Leading | 8 |
-| 4 Operating | 9 |
+| 4 Operating | 10 |
 | 3 Established | 12 |
-| 2 Nascent | 4 |
+| 2 Nascent | 3 |
 | 1 Absent | 1 |
 | Unplaced | 10 |
 | No evidence | 10 |
@@ -126,6 +126,14 @@ A body took complaints about digital financial services in 2026; enforcement is 
 A financial-services mediator took complaints in 2025; enforcement on digital financial services is not on record.
 
 - The Observatoire de la qualité des services financiers, under the Ministry of Finance since 2009, handled 475 new disputed files in 2025 (379 in 2024) through mediation, 357 of them banking, microfinance, financial institutions and La Poste ([source, 2025](https://aps.sn/mediation-financiere-475-dossiers-traites-en-2025-contre-379-en-2024-oqsf/)).
+
+### South Africa: 4 Operating
+
+Credit rules bound digital lenders and the financial ombud took digital banking complaints in 2026; no fine or sanction under them is on record.
+
+- The article (Magolego, Financial Regulation Journal, 2026-02-18) states that the National Credit Act affordability assessment, sections 81 and 82 read with Regulation 23A, is a conduct and consumer protection requirement applying to credit providers including digital lenders, with debt review and reckless lending findings as remedies ([source, 2026-02-18](https://financialregulationjournal.co.za/2026/02/18/credit-risk-and-affordability-in-south-african-credit-regulation-distinguishing-two-assessments-in-a-digital-credit-environment/)).
+- The National Financial Ombud South Africa Banking Division resolved disputes in 2025 and reports that mobile banking and internet banking fraud were the highest complaint generators, 39% of all cases received ([source, 2025-12-15](https://nfosa.co.za/nfo-banking-division-returns-r60-million-to-consumers-in-2025/)).
+- The National Financial Ombud Scheme takes consumer complaints about banking fraud, most of it mobile and digital banking, and closed 3,651 fraud cases in 2025, per the ombud ([source, 2025](https://www.citizen.co.za/business/fraud-complaints-at-the-banking-ombud-nearly-double-in-a-year-as-digital-scams-surge/)).
 
 ### Uganda: 4 Operating
 
@@ -231,12 +239,6 @@ The consumer-protection Acts were being revised for digital markets in 2025; no 
 Consumer-protection rules for digital finance were being drafted in 2025; none in force is on record.
 
 - The National Payment System Bill, passed by the House of the People, is stated to ensure consumer protection; it awaits the Senate ([source, 2025-11-08](https://golekaab.so/en/bill/15)).
-
-### South Africa: 2 Nascent
-
-South Africa's conduct regulator planned a draft conduct standard for payment services in 2025; no digital-finance consumer rule is known in force.
-
-- The FSCA's 2025 Regulation Plan says that, with the SARB National Payment System Department's draft Directive X of 2025 (14 March 2025) proposing a payment-provider authorisation framework, the FSCA will in the coming year develop a draft Conduct Standard applicable to payment services activities, timed with the NPSD ([source, 2025](https://www2.fsca.co.za/Regulatory%20Frameworks/Regulatory%20Frameworks%20Documents/2025%20FSCA%203-year%20Regulation%20Plan.pdf)).
 
 ### Niger: 1 Absent
 
