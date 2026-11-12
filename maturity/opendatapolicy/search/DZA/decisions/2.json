@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "policy",
+ "aspect": "",
+ "fact": "",
+ "title": "Le Premier ministre préside le lancement officiel du dispositif national de gouvernance des données",
+ "publisher": "Algérie Presse Service",
+ "published": "2026-02-09",
+ "date_source": "source",
+ "why_not": "no-development: text is a headline and one sentence, adds nothing beyond the launch of a data governance system, not an open data policy"
+}

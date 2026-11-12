@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 22 May 2023 the INSD opened a training on putting about 175 regional indicators per region onto the Burkina open data portal (ODP).",
+ "title": "Diffusion des données statistiques : les indicateurs régionaux bientôt accessibles sur le portail des données ouvertes",
+ "publisher": "INSD",
+ "published": "2023-05-22",
+ "date_source": "source",
+ "why_not": ""
+}

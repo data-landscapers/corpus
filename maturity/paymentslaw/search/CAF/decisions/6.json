@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing",
+ "fact": "BEAC's 2024 report on payment services in the CEMAC states that Regulation 04/18 gives the central bank power over interoperability of payment systems (article 18) and that Instruction 001/GR/2024 of 22 January 2024 sets technical norms for electronic payment instruments.",
+ "title": "RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2024",
+ "publisher": "Banque des États de l'Afrique centrale",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

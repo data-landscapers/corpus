@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://microdata.worldbank.org/catalog/7944",
+  "title": "Mauritius - The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy",
+  "publisher": "World Bank",
+  "published": "2025-09-24",
+  "sub_indicator": "uptake",
+  "why": "survey share of adults with an account / digital payment"
+ },
+ {
+  "url": "https://digitalfinance.worldbank.org/country/mauritius",
+  "title": "Global snapshot of indicators and enabling regulations: Mauritius",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "uptake",
+  "why": "survey share of adults with an account / digital payment"
+ },
+ {
+  "url": "https://businessfront.com/finance/insights/cash-digital-banked-african-countries/",
+  "title": "From cash to digital: The 10 most banked sub-Saharan African countries in 2024",
+  "publisher": "Businessfront",
+  "published": "2025-07-23",
+  "sub_indicator": "uptake",
+  "why": "survey share of adults with an account / digital payment"
+ },
+ {
+  "url": "https://finobservatory.org/inclusion/MUS",
+  "title": "Mauritius Financial Inclusion",
+  "publisher": "FinObservatory",
+  "published": "",
+  "sub_indicator": "uptake",
+  "why": "survey share of adults with an account / digital payment"
+ },
+ {
+  "url": "https://data.finstatglobe.com/mauritius/account-ownership-statistics",
+  "title": "Account Ownership Statistics in Mauritius (2026)",
+  "publisher": "FinStatGlobe",
+  "published": "",
+  "sub_indicator": "uptake",
+  "why": "survey share of adults with an account / digital payment"
+ },
+ {
+  "url": "https://invokely.ai/en/account-ownership-adults/mauritius",
+  "title": "Account ownership, adults aged 15 and over in Mauritius (2024)",
+  "publisher": "Invokely",
+  "published": "2026-10-08",
+  "sub_indicator": "uptake",
+  "why": "survey share of adults with an account / digital payment"
+ },
+ {
+  "url": "https://invokely.ai/en/digital-payment-participation-adults/mauritius",
+  "title": "Made or received a digital payment, adults in Mauritius",
+  "publisher": "Invokely",
+  "published": "2025-10-06",
+  "sub_indicator": "uptake",
+  "why": "survey share of adults with an account / digital payment"
+ },
+ {
+  "url": "https://africanenda.org/wp-content/uploads/siips_2024_MauCas_CaseStudy_en.pdf",
+  "title": "The State of Inclusive Instant Payment Systems in Africa, SIIPS 2024: MauCAS Mauritius",
+  "publisher": "AfricaNenda",
+  "published": "2024",
+  "sub_indicator": "uptake",
+  "why": "survey share of adults with an account / digital payment"
+ }
+]

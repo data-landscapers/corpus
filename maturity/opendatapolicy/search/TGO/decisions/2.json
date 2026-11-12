@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 6 May 2025 the digital ministry launched the national Geoportail, with a public interface (geodata.gouv.tg) offering over 800 map layers across 15 sectors for viewing and download.",
+ "title": "Numérique : le Togo lance son géoportail national, une carte digitale des données socioéconomiques",
+ "publisher": "République Togolaise (Togo Officiel)",
+ "published": "2025-05-07",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share",
+ "fact": "A World Bank blog of June 2024 states that, according to Findex, the share of Burkina Faso adults with an account fell from 43% in 2017 to 36% in 2021.",
+ "title": "Burkina Faso : quand le Trésor Public rejoint l'ère du paiement numérique",
+ "publisher": "World Bank Blogs",
+ "published": "2024-06-11",
+ "date_source": "source",
+ "why_not": ""
+}

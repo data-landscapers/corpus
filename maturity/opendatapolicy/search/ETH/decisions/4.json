@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "The Ministry of Innovation and Technology partnered with 360Ground to upgrade the National Open Data Exchange platform and roll out city data hubs for Dire Dawa, Bahir Dar and Adama.",
+ "title": "Ethiopia's National Open Data Exchange Platform",
+ "publisher": "360Ground",
+ "published": "2025-07-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

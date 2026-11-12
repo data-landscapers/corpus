@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share",
+ "fact": "Afrobarometer's March 2022 survey found 78% of Togolese respondents had a mobile money account, 32% a microfinance account and 24% a bank account, while 17% had none; published March 2024.",
+ "title": "AD790: Le mobile money : Une alternative pour l'inclusion financière au Togo ?",
+ "publisher": "Afrobarometer",
+ "published": "2024-03-26",
+ "date_source": "source",
+ "why_not": ""
+}

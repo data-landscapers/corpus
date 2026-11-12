@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.ubos.org/datasets-2/",
+  "title": "Datasets",
+  "publisher": "Uganda Bureau of Statistics",
+  "published": "2025-11-27",
+  "sub_indicator": "use",
+  "why": "Q1: UBOS micro datasets for download"
+ },
+ {
+  "url": "https://uganda.opendataforafrica.org/dqgjtcb",
+  "title": "Uganda Data Portal",
+  "publisher": "Uganda Bureau of Statistics",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q2: CC-BY 4.0 licence on UBOS portal"
+ },
+ {
+  "url": "https://opendata.ug/institutions",
+  "title": "Publishing institutions | Uganda Open Data Platform",
+  "publisher": "Uganda Open Data Platform",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q3/Q4: ministries publishing datasets"
+ },
+ {
+  "url": "https://data.open-contracting.org/en/publication/130",
+  "title": "Uganda: Public Procurement and Disposal of Public Assets Authority (PPDA)",
+  "publisher": "Open Contracting Partnership",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1/Q2: PPDA OCDS data, ODC-By"
+ },
+ {
+  "url": "https://sdgs.opm.go.ug/2025/08/11/ugandas-sdg-open-data-portal-advancing-transparency-and-sustainable-development/",
+  "title": "Uganda's SDG Open Data Portal",
+  "publisher": "Office of the Prime Minister",
+  "published": "2025-08-11",
+  "sub_indicator": "use",
+  "why": "Q1: SDG portal with downloads"
+ },
+ {
+  "url": "https://www.budget.finance.go.ug/dataportal",
+  "title": "Excel Downloads",
+  "publisher": "Ministry of Finance, Planning and Economic Development",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1: budget data downloads"
+ },
+ {
+  "url": "https://www.ubos.org/data-portals-2/",
+  "title": "Data Portals",
+  "publisher": "Uganda Bureau of Statistics",
+  "published": "2022-10-05",
+  "sub_indicator": "use",
+  "why": "Q1: UBOS portals list"
+ },
+ {
+  "url": "https://opendata.ug/licence",
+  "title": "Licence information | Uganda Open Data Platform",
+  "publisher": "Uganda Open Data Platform",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q2: publisher licences"
+ }
+]

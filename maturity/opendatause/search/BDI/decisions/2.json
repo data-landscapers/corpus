@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access;breadth",
+ "fact": "On 10 April 2023 the IMF reported Burundi's National Summary Data Page on the national Open Data Platform, with data provided by the statistics office, the finance ministry and the central bank, in human- and machine-readable formats.",
+ "title": "Burundi Implements the International Monetary Fund's Enhanced General Data Dissemination System",
+ "publisher": "International Monetary Fund",
+ "published": "2023-04-10",
+ "date_source": "source",
+ "why_not": ""
+}

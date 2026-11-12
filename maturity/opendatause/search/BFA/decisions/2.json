@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The INSD's quarterly journal no. 0017 (2nd quarter 2025) states that more than 4,700 datasets are available on the national open data portal ODP.",
+ "title": "Journal Burkinabè de la Statistique N°0017",
+ "publisher": "Institut national de la statistique et de la démographie",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

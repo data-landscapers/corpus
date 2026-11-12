@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing;use",
+ "fact": "As of 2019 the Ministry of Communication and Information Technology had produced a draft open data policy and guideline that were not yet operational, and the data.gov.et portal launched in 2016 was down three years on.",
+ "title": "Perspectives on Open Data: Ethiopia",
+ "publisher": "Local Development",
+ "published": "2019-08-26",
+ "why_not": "",
+ "date_source": "source"
+}

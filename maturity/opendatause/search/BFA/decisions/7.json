@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The SP-CPSA (agriculture ministry) page lists agricultural survey datasets for download, the latest updated 7 February 2024, with download counts.",
+ "title": "Données d'enquêtes",
+ "publisher": "SP-CPSA",
+ "published": "2024-02-07",
+ "date_source": "source",
+ "why_not": ""
+}

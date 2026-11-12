@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Herbier National du Gabon published a downloadable dataset of 41,973 specimen records on 12 June 2019 under a CC0 1.0 public-domain dedication.",
+ "title": "Herbier National du Gabon",
+ "publisher": "Herbier National du Gabon",
+ "published": "2019-06-12",
+ "date_source": "source",
+ "why_not": ""
+}

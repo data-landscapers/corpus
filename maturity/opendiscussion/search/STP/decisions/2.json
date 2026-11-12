@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "discussion",
+ "aspect": "",
+ "fact": "",
+ "title": "Sao Tome and Principe Internet Freedom Report 2026",
+ "publisher": "Internet Freedom Index",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": "no-development: a scored internet-freedom index summarising other sources (Freedom House, OONI, V-Dem), not a primary report"
+}

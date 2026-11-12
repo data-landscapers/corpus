@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access;breadth",
+ "fact": "The South African National Biodiversity Institute published the 2025 National Species Checklist as a downloadable Darwin Core Archive under a CC-BY 4.0 licence on 17 September 2025.",
+ "title": "South African National Species Checklist (Catalogue of Life in South Africa, COLSA)",
+ "publisher": "South African National Biodiversity Institute",
+ "published": "2025-09-17",
+ "date_source": "source",
+ "why_not": ""
+}

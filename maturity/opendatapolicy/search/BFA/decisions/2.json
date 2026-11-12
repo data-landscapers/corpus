@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 6 May 2024 the INSD held a session on disseminating the ODIN data-matrix indicators on the Burkina open data portal (ODP).",
+ "title": "ODP : une session pour améliorer le score ODIN du Burkina Faso",
+ "publisher": "INSD",
+ "published": "2024-05-06",
+ "date_source": "source",
+ "why_not": ""
+}

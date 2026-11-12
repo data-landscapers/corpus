@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access;breadth",
+ "fact": "ITIE-RDC offers extractive datasets (revenues, mining titles from CAMI, 280 contracts, hydrocarbon and forestry contracts) for download in CSV, Excel and JSON, with an API.",
+ "title": "Données ouvertes ITIE-RDC",
+ "publisher": "ITIE-RDC",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

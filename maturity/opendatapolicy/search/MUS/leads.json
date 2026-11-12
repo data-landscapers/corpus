@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://dataprotection.govmu.org/Documents/NDS_final.pdf",
+  "title": "Mauritius National Data Strategy 2025-2029",
+  "publisher": "Data Protection Office",
+  "published": "2026",
+  "sub_indicator": "policy",
+  "why": "Open data policy of May 2017 is the governing policy; to be reviewed"
+ },
+ {
+  "url": "https://www.unesco.org/sites/default/files/medias/files/2021/12/4th_consolidated_report_multilingualism_mauritius.pdf",
+  "title": "Fourth Consultation on the 2003 Recommendation (Mauritius)",
+  "publisher": "Ministry of Technology, Communication and Innovation",
+  "published": "2021",
+  "sub_indicator": "policy",
+  "why": "Policy approved; portal running with 185+ datasets"
+ },
+ {
+  "url": "https://mdpa.govmu.org/mdpa/index.php/open-data-portals/",
+  "title": "Open Data Portals",
+  "publisher": "Mauritius Digital Promotion Agency",
+  "published": "",
+  "sub_indicator": "policy",
+  "why": "Portal run since 2018 under 2017 policy, 500+ datasets"
+ },
+ {
+  "url": "https://data.govmu.org/",
+  "title": "Mauritius OpenData portal",
+  "publisher": "MDPA",
+  "published": "",
+  "sub_indicator": "policy",
+  "why": "Portal running with 853 datasets"
+ },
+ {
+  "url": "https://data.govmu.org/about",
+  "title": "Mauritius OpenData portal - About",
+  "publisher": "MITCI",
+  "published": "",
+  "sub_indicator": "policy",
+  "why": "Portal in line with Open Data Policy"
+ },
+ {
+  "url": "https://www.lemauricien.com/actualites/societe/cybersecurite-maurice-structure-sa-gouvernance-numerique/698099/",
+  "title": "Cybersecurite : Maurice structure sa gouvernance numerique",
+  "publisher": "Le Mauricien",
+  "published": "2026-01-30",
+  "sub_indicator": "policy",
+  "why": "National data strategy launch"
+ },
+ {
+  "url": "https://lexpress.mu/node/553938",
+  "title": "Gouvernance numerique : Une strategie nationale",
+  "publisher": "L'express",
+  "published": "2026-02-01",
+  "sub_indicator": "policy",
+  "why": "National data strategy launch"
+ },
+ {
+  "url": "https://www.africadataprotection.org/en/actualites/Mauritius-Launch-of-the-National-Data-Strategy-2025-2029.html",
+  "title": "Launch of the National Data Strategy 2025-2029",
+  "publisher": "Africa Data Protection",
+  "published": "2026-04",
+  "sub_indicator": "policy",
+  "why": "Strategy includes open public data pillar"
+ }
+]

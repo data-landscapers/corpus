@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share;target;payments",
+ "fact": "An interview with the Banco Central de São Tomé e Príncipe's financial inclusion director reports the 2025 demand-side survey found 38% of adults own a bank account (39% in 2017), only 24% use digital financial services, and the inclusion index reached 0.41.",
+ "title": "Financial inclusion in São Tomé and Príncipe",
+ "publisher": "Alliance for Financial Inclusion",
+ "published": "2026-09-23",
+ "date_source": "proxy",
+ "why_not": ""
+}

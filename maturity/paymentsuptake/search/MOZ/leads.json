@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/progress-in-closing-the-mobile-money-gender-gap-has-stalled-latest-evidence-from-findex-2025/",
+  "title": "Progress in closing the mobile money gender gap has stalled: Latest evidence from Findex 2025",
+  "publisher": "GSMA Mobile for Development",
+  "published": "2025-11-17",
+  "sub_indicator": "uptake",
+  "why": "share: Findex 2025 mobile money account ownership 46% in Mozambique"
+ },
+ {
+  "url": "https://microdata.worldbank.org/catalog/7950",
+  "title": "Mozambique - The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy",
+  "publisher": "World Bank",
+  "published": "2025-10-01",
+  "sub_indicator": "uptake",
+  "why": "share/payments: Findex 2024 survey record"
+ },
+ {
+  "url": "https://www.africanenda.org/uploads/files/siips2025/siips_2025_SIMO-Mozambique_CaseStudy_en.pdf",
+  "title": "SIMO Mozambique (SIIPS 2025 case study)",
+  "publisher": "AfricaNenda",
+  "published": "2025",
+  "sub_indicator": "uptake",
+  "why": "share: Findex 2024 account ownership 54%"
+ },
+ {
+  "url": "https://mznews.co.mz/en/enif%CB%90-ate-2031-60-da-populacao-deve-ter-conta-bancaria/",
+  "title": "ENIF: Até 2031, 60% da população deve ter conta bancária",
+  "publisher": "MZ News",
+  "published": "2025-08-06",
+  "sub_indicator": "uptake",
+  "why": "share: bank account ownership 32.3% in Q1 2025 supply side, target 60%"
+ },
+ {
+  "url": "https://www.bancomoc.mz/media/av0iziyx/enif-2025-2031-_-portugu%C3%AAs.pdf",
+  "title": "Estratégia Nacional de Inclusão Financeira 2025-2031",
+  "publisher": "Banco de Moçambique",
+  "published": "2025",
+  "sub_indicator": "uptake",
+  "why": "share/payments: 48% bank account, 83% mobile money account 2022 survey"
+ },
+ {
+  "url": "https://www.bancomoc.mz/media/ag5o0v2n/resultados-do-inqu%C3%A9rito-sobre-literacia-financeira-em-mo%C3%A7ambique-outubro-de-2023.pdf",
+  "title": "Resultados do Inquérito sobre Literacia Financeira em Moçambique",
+  "publisher": "Banco de Moçambique",
+  "published": "2023-10",
+  "sub_indicator": "uptake",
+  "why": "share: 48% bank account and 83% mobile money account, survey 2022-23"
+ },
+ {
+  "url": "https://www.bancomoc.mz/media/wn0jhtef/financial-inclusion-report-2025.pdf",
+  "title": "Financial Inclusion Report 2025",
+  "publisher": "Banco de Moçambique",
+  "published": "2025",
+  "sub_indicator": "uptake",
+  "why": "share: supply-side mobile money accounts per 1,000 adults"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing",
+ "fact": "The UN DESA baseline study lists a Sierra Leone Open Data Policy 2017 among national data governance documents.",
+ "title": "Sierra Leone Data Governance Framework Baseline Study Findings",
+ "publisher": "UN DESA Division for Public Institutions and Digital Government",
+ "published": "2024-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing;use",
+ "fact": "A November 2025 CSEA brief states that Malawi has no centralised open data portal or standardised open data framework and no central authority to enforce open standards, its open data vision resting on the National ICT Policy (2013), Digital Transformation Strategy and other instruments.",
+ "title": "Advancing Open Data Governance in Malawi",
+ "publisher": "CSEA - Centre for the Study of the Economics of Africa",
+ "published": "2025-11",
+ "date_source": "source",
+ "why_not": ""
+}

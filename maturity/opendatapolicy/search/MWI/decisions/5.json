@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "The National Planning Commission runs the MIP-1 Dashboard, which describes itself as an open data portal giving access to cross-sectoral socioeconomic indicator data.",
+ "title": "About Us - MIP-1 Dashboard",
+ "publisher": "National Planning Commission, Malawi",
+ "published": "2025-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

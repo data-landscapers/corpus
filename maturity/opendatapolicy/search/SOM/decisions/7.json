@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "policy",
+ "aspect": "",
+ "fact": "",
+ "title": "About - SoDMA Open Data Portal",
+ "publisher": "Somali Disaster Management Authority",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: portal about page with no date and no policy or publishing fact beyond its own description"
+}

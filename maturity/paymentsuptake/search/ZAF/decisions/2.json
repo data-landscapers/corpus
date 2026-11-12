@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share",
+ "fact": "Citing the Global Findex Database 2025, the page says account ownership among adults in 2024 was 81% in South Africa.",
+ "title": "Financial Inclusion in Sub-Saharan Africa",
+ "publisher": "FinDev Gateway",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

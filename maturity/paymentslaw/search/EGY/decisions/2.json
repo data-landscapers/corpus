@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing;reach",
+ "fact": "The CBE Rules Regulating Services for the Instant Payment Network apply to all banks operating in Egypt, with licensed applications such as InstaPay connecting through participating banks and per-transaction limits of EGP 70,000.",
+ "title": "Egypt's Instant Payment Network",
+ "publisher": "Andersen Egypt",
+ "published": "2026-07-27",
+ "date_source": "source",
+ "why_not": ""
+}

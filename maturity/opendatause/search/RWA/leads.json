@@ -1,0 +1,8 @@
+[
+{"url":"https://geospatial.space.gov.rw/","title":"Geospatial Data Portal","publisher":"Rwanda Space Agency","published":"2026-11","sub_indicator":"use","why":"Agency portal with downloadable datasets from RSA, RAB and others (published for download, breadth)"},
+{"url":"https://statistics.gov.rw/terms-use","title":"Terms of use","publisher":"National Institute of Statistics of Rwanda","published":"","sub_indicator":"use","why":"NISR data released under CC BY 4.0 (open licence)"},
+{"url":"https://huggingface.co/datasets/electricsheepafrica/africa-rwanda-eicv7-household-ded0eb3c","title":"EICV7: Household (Rwanda Data Sharing Platform - NISR)","publisher":"Electric Sheep Africa","published":"2026-07-18","sub_indicator":"use","why":"Shows NISR dataset downloadable under CC BY 4.0 from data.gov.rw"},
+{"url":"https://nhic.moh.gov.rw/public/datasets","title":"NHIC Health Intelligence Datasets","publisher":"Ministry of Health, Rwanda","published":"","sub_indicator":"use","why":"Second public body with a data platform; public-access datasets downloadable"},
+{"url":"https://statistics.gov.rw/data-portals-e-gddssdds","title":"Data Portals & E-GDDS/SDDS","publisher":"National Institute of Statistics of Rwanda","published":"","sub_indicator":"use","why":"NISR portals with API access to data"},
+{"url":"https://minict.prod.risa.rw/news-detail/a-rwandan-open-data-portal","title":"A Rwandan Open Data Portal","publisher":"MINICT","published":"2025-01-31","sub_indicator":"use","why":"Open data portal aims for open licences, many bodies"}
+]

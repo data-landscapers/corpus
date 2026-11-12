@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.bceao.int/sites/default/files/2026-10/Communiqu%C3%A9%20du%202%20octobre%202026.pdf",
+  "title": "Communiqué du 2 octobre 2026",
+  "publisher": "BCEAO",
+  "published": "2026-10-02",
+  "sub_indicator": "law",
+  "why": "Interoperable e-money transactions must go through PI-SPI from 2 November 2026"
+ },
+ {
+  "url": "https://ns2.bceao.int/fr/reglementations/instruction-ndeg-020-portant-modification-de-linstruction-ndeg-008-05-2015-du-21",
+  "title": "Instruction n° 020 portant modification de l'Instruction n° 008-05-2015",
+  "publisher": "BCEAO",
+  "published": "2026-10-08",
+  "sub_indicator": "law",
+  "why": "Amended e-money issuer rules in force"
+ },
+ {
+  "url": "https://cb-umoa.org/sites/default/files/_Liste%20EP%20ET%20EME%20Mali_2026.pdf",
+  "title": "LISTES DES ETABLISSEMENTS DE MONNAIE ELECTRONIQUE ET DES ETABLISSEMENTS DE PAIEMENT DE L'UMOA - Mali",
+  "publisher": "Commission Bancaire de l'UMOA",
+  "published": "2026-06-29",
+  "sub_indicator": "law",
+  "why": "Licensed payment institutions and e-money institutions in Mali"
+ },
+ {
+  "url": "https://fr.apanews.net/business/mali-nouvelles-regles-pour-les-transferts-numeriques/",
+  "title": "Mali : nouvelles règles pour les transferts numériques",
+  "publisher": "APAnews",
+  "published": "2026-11-02",
+  "sub_indicator": "law",
+  "why": "New BCEAO rules apply to Mali from 2 November 2026"
+ },
+ {
+  "url": "https://malijet.com/actualite_economique_du_mali/312284-umoa-la-bceao-releve-les-plafonds-de-monnaie-electronique.html",
+  "title": "UMOA : la BCEAO relève les plafonds de monnaie électronique et encadre les placements",
+  "publisher": "Malijet",
+  "published": "2026-10-12",
+  "sub_indicator": "law",
+  "why": "Instruction signed 8 October 2026 in force 2 November"
+ },
+ {
+  "url": "https://www.bceao.int/sites/default/files/inline-files/Instruction-No001-01-2024_relative_aux_services_de_paiement_dans_l-UMOA.pdf",
+  "title": "Instruction n°001-01-2024 relative aux services de paiement dans l'UMOA",
+  "publisher": "BCEAO",
+  "published": "2024",
+  "sub_indicator": "law",
+  "why": "Payment institutions licensed under central bank rules"
+ },
+ {
+  "url": "https://www.bceao.int/fr/communique-presse/prolongation-du-delai-de-connexion-a-pi-spi",
+  "title": "Prolongation du délai de connexion à la Plateforme PI-SPI",
+  "publisher": "BCEAO",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Connection deadline for banks, e-money and payment institutions"
+ },
+ {
+  "url": "https://mali24.info/communique-du-conseil-des-ministres-du-mercredi-10-juillet-2024/",
+  "title": "Communiqué du Conseil des Ministres du mercredi 10 juillet 2024",
+  "publisher": "Mali24",
+  "published": "2024-07-10",
+  "sub_indicator": "law",
+  "why": "Draft decree on digitalising payments in public services adopted"
+ }
+]

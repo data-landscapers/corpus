@@ -1,0 +1,10 @@
+[
+{"url":"https://sis.cnredd.medd.gouv.cd/sis/ressources/donnees-ouvertes","title":"Registre National REDD+ RDC - Open Data","publisher":"Coordination Nationale REDD+ RDC","published":"","sub_indicator":"use","why":"Public body publishes data via open API under CC BY 4.0"},
+{"url":"https://www.mines.gouv.cd/public/statistique/pdf","title":"MINISTÈRE DES MINES - RDC-Statistiques","publisher":"Ministère des Mines","published":"","sub_indicator":"use","why":"Ministry publishes downloadable statistical files"},
+{"url":"https://datawarehouse.ctcpm.cd/public/","title":"Mining-Data warehouse - Accueil","publisher":"CTCPM","published":"","sub_indicator":"use","why":"Mining data warehouse publishing public data"},
+{"url":"https://www.ins.gouv.cd/portail-statistique","title":"Portail Statistique","publisher":"Institut National de la Statistique","published":"","sub_indicator":"use","why":"INS data portal export of indicators"},
+{"url":"https://data.rhinocerosoftware.co/organizations/","title":"Organisations - data.gouv.cd","publisher":"data.gouv.cd","published":"","sub_indicator":"use","why":"Counts public bodies registered on national portal"},
+{"url":"https://sg-mines-rdc.cd/archives/2187","title":"SECRÉTARIAT GÉNÉRAL DES MINES - PROJET PAAJ : atelier de mutualisation des plateformes numériques","publisher":"Secrétariat Général des Mines","published":"","sub_indicator":"use","why":"Names ministry data publishing platforms"},
+{"url":"https://caid.cd/?page_id=15176","title":"Base de données - CAID","publisher":"Cellule d'Analyses des Indicateurs de Développement","published":"","sub_indicator":"use","why":"Government unit publishing sector indicator databases"},
+{"url":"https://www.itierdc.net/open-data/","title":"Données ouvertes ITIE-RDC","publisher":"ITIE-RDC","published":"","sub_indicator":"use","why":"Downloadable datasets CSV/XLSX/JSON, 280 contracts"}
+]

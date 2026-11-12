@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share",
+ "fact": "The FinScope Uganda 2023 survey found 81 percent of adults financially included and 68 percent formally served, up from 58 percent in 2018.",
+ "title": "FinScope Uganda 2023 Findings",
+ "publisher": "FSD Uganda",
+ "published": "2024-04-11",
+ "date_source": "source",
+ "why_not": ""
+}

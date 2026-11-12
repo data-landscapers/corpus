@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://infrastructuretransparency.org/news/from-contracts-to-invoices-mozambique-opens-infrastructure-data/",
+  "title": "From contracts to invoices: Mozambique opens infrastructure data",
+  "publisher": "CoST - Infrastructure Transparency Initiative",
+  "published": "2026-04-14",
+  "sub_indicator": "use",
+  "why": "Q2/Q4: Road Fund portal publishes OC4IDS data"
+ },
+ {
+  "url": "https://www.dadosinfra.co.mz/",
+  "title": "IPDP - Mozambique | Sobre",
+  "publisher": "Fundo de Estradas",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q2/Q3: Road Fund data under Creative Commons licence"
+ },
+ {
+  "url": "https://clubofmozambique.com/news/mozambique-launches-infrastructure-data-portal-to-strengthen-transparency-and-road-sector-governance/",
+  "title": "Mozambique launches infrastructure data portal",
+  "publisher": "Club of Mozambique (AIM)",
+  "published": "2026-04-14",
+  "sub_indicator": "use",
+  "why": "Q2: government launch of infrastructure data disclosure portal"
+ },
+ {
+  "url": "https://www.incm.gov.mz/estatisticas/",
+  "title": "Estatísticas - INCM",
+  "publisher": "INCM",
+  "published": "2025-11-23",
+  "sub_indicator": "use",
+  "why": "Q2/Q4: INCM Acervo Estatístico of official telecom and postal data"
+ },
+ {
+  "url": "https://mozdata.ine.gov.mz/index.php/home",
+  "title": "Arquivo Nacional de Dados",
+  "publisher": "Instituto Nacional de Estatística",
+  "published": "2026-02-05",
+  "sub_indicator": "use",
+  "why": "Q2/Q4: INE archive holding datasets of several ministries, public use files"
+ },
+ {
+  "url": "https://intic.gov.mz/wp-content/uploads/2025/04/Mozambique-Data-Diagnostic-Prelim-Summary-April-2025-2.pdf",
+  "title": "Data Governance in Mozambique: Findings and Recommendations Based on a Rapid Diagnostic",
+  "publisher": "INTIC / World Bank",
+  "published": "2025-04",
+  "sub_indicator": "use",
+  "why": "Q1/Q2: Open Data Portal data not always maintained, scope could be broader"
+ },
+ {
+  "url": "https://www.linkedin.com/posts/africa-information-highway_mozambique-odp-data-activity-7191022208083783683-DoFo",
+  "title": "AfDB Africa Information Highway: Mozambique ODP training",
+  "publisher": "African Development Bank",
+  "published": "2024-04-30",
+  "sub_indicator": "use",
+  "why": "Q2/Q4: nearly 100 datasets uploaded to Mozambique ODP"
+ },
+ {
+  "url": "https://infra-data.fe.gov.mz/public/open-data",
+  "title": "Plataforma de Transparência em Infraestrutura de Moçambique: Dados Abertos",
+  "publisher": "Fundo de Estradas",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q2/Q3: downloadable CSV/JSON/Excel under open licence"
+ }
+]

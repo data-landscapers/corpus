@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://srid.mofa.gov.gh/node/31,fetched,,scripts/.workroot/study/opendatause/cache/GHA/1.txt,81,html,Agricultural Production Estimates
+2,https://srid.mofa.gov.gh/datasets,fetched,,scripts/.workroot/study/opendatause/cache/GHA/2.txt,104,html,Datasets
+3,https://www.bog.gov.gh/wp-content/uploads/2024/02/Press-Release-Launch-of-Beta-Version-BOG-Database-Portal-05-02-2024.pdf,fetched,,scripts/.workroot/study/opendatause/cache/GHA/3.txt,210,pdf,
+4,https://dial.global/wp-content/uploads/2024/08/Ghana-final.pdf,fetched,,scripts/.workroot/study/opendatause/cache/GHA/4.txt,3836,pdf,Ghana_01
+5,https://www.dst.dk/en/consulting/news-from-international-consulting/2025/27-05-2025-Ghana-and-Morocco-Advance-In-Open-Data,fetched,,scripts/.workroot/study/opendatause/cache/GHA/5.txt,340,html,Ghana and Morocco advance in Open Data
+6,https://www.opengovpartnership.org/wp-content/uploads/2024/01/Ghana_Action-Plan_2024-2028_Refresh_Jun2026_EN.pdf,fetched,,scripts/.workroot/study/opendatause/cache/GHA/6.txt,27041,pdf,
+7,https://data.gov.gh/search/type/dataset?page=0%2C&q=search%2Ftype%2Fdataset&sort_by=changed,fetched,,scripts/.workroot/study/opendatause/cache/GHA/7.txt,117,html,Content Types
+8,https://www.opengovpartnership.org/members/ghana/commitments/GH0041/,fetched,,scripts/.workroot/study/opendatause/cache/GHA/8.txt,2306,html,Publishing Open Data on Public Service Delivery (GH0041)

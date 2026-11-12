@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access;breadth",
+ "fact": "In July 2025 INStaD ran a workshop to migrate Benin's official open data portal to SDMX 2.0, bringing together the Open Data network of INStaD, nineteen ministerial statistical authorities and six directorates general.",
+ "title": "Diffusion des données statistiques au Bénin : l'INStaD et la commission de l'UEMOA se donnent la main pour la migration vers la nouvelle version du portail Open Data",
+ "publisher": "INStaD",
+ "published": "2025-07-11",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Direction Générale de la Statistique runs a data download area offering survey reports such as the 2021 Covid-19 household impact reports.",
+ "title": "Espace des données à Télécharger",
+ "publisher": "Direction Générale de la Statistique",
+ "published": "2025-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

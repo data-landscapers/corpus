@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Government of Uganda through UBOS developed the SDG Open Data Portal, where users can download datasets for each goal, hosting data on 149 SDG indicators as of 2025.",
+ "title": "Uganda's SDG Open Data Portal: Advancing Transparency and Sustainable Development",
+ "publisher": "Office of the Prime Minister, GOU SDG Secretariat",
+ "published": "2025-08-11",
+ "date_source": "source",
+ "why_not": ""
+}

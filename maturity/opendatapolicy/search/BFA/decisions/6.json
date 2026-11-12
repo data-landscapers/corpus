@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing;use",
+ "fact": "The EITI 2020 report (signed 9 June 2022) states Burkina Faso has adopted an open data policy, with BODI created by joint order 2015-0043 of 15 February 2015 and a national open data portal data.gov.bf.",
+ "title": "Rapport ITIE 2020",
+ "publisher": "Initiative pour la Transparence dans les Industries Extractives au Burkina Faso",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

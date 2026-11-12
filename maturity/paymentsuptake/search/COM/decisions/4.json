@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share",
+ "fact": "The Banque Centrale des Comores' national financial inclusion strategy puts the share of adults with at least one account at a bank, microfinance institution or e-money operator at 49.2% in 2024, and the expanded banking rate at 39.23%.",
+ "title": "Stratégie Nationale d'Inclusion Financière 2025-2030",
+ "publisher": "Banque Centrale des Comores",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

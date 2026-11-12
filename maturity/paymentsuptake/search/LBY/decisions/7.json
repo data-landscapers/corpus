@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "uptake",
+ "aspect": "",
+ "fact": "",
+ "title": "Bank Account Ownership Statistics in Libya (2026)",
+ "publisher": "FinStatGlobe",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: aggregator restating Findex 2024 (33.1%); second-hand and no date of its own."
+}

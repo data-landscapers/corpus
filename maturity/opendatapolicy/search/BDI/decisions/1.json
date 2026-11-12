@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 8 April 2026 Burundi's national statistics institute took part, with seven other countries, in an AfDB meeting of focal points of the national open data portal (ODP 1.0) on open data licences.",
+ "title": "ODP 1.0 : Réunion des Points Focaux Open Data d'Afrique francophone en préparation de l'évaluation ODIN 2026",
+ "publisher": "ICASEES",
+ "published": "2026-04-08",
+ "date_source": "source",
+ "why_not": ""
+}

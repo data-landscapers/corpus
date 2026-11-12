@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://instat.mg/p/presentation-de-la-plateforme-de-partage-des-microdonnees-issues-du-rgph-3-et-des-enquetes-realisees-par-linstat,fetched,,scripts/.workroot/study/opendatause/cache/MDG/1.txt,375,html,INSTAT Madagascar
+2,https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf,held,held as raw/2025/2025-12-01-madagascar-digital-readiness-assessment-undp.md,,0,,
+3,https://www.undp.org/fr/madagascar/actualites/portes-transparence-des-donnees-et-informations-socioeconomiques-madagascar,fetched,,scripts/.workroot/study/opendatause/cache/MDG/3.txt,448,html,PortES : transparence des données et informations socioéconomiques à Madagascar
+4,https://assemblee-nationale.mg/mg/opendata/licence/,fetched,,scripts/.workroot/study/opendatause/cache/MDG/4.txt,200,html,Licence Open Data
+5,https://seam.meah.gov.mg/v2/,fetched,,scripts/.workroot/study/opendatause/cache/MDG/5.txt,319,html,SE&AM;
+6,https://dataviz.instat.mg/plateforme,fetched,,scripts/.workroot/study/opendatause/cache/MDG/6.txt,379,html,Plateforme
+7,https://www.resiliencemada.gov.mg/,fetched,,scripts/.workroot/study/opendatause/cache/MDG/7.txt,60,html,GeoNode
+8,https://eitimadagascar.mg/en/donnees-ouvertes-eiti/,fetched,,scripts/.workroot/study/opendatause/cache/MDG/8.txt,3982,html,EITI Open Data

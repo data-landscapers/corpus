@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://data.etenders.gov.za/home/index,fetched,,scripts/.workroot/study/opendatause/cache/ZAF/1.txt,207,html,Transparency Portal Beta - National Treasury
+2,https://www.dffe.gov.za/egis,fetched,,scripts/.workroot/study/opendatause/cache/ZAF/2.txt,794,html,Regulatory Compliance and Sector Monitoring
+3,https://ipt.sanbi.org.za/resource?r=zanationaltaxon,fetched,,scripts/.workroot/study/opendatause/cache/ZAF/3.txt,622,html,"South African National Species Checklist (Catalogue of Life in South Africa, COLSA)"
+4,https://www.tshwane.gov.za/?p=82573,unfetchable,SSLError; Wayback ConnectionError,,0,,
+5,https://www.opengovpartnership.org/documents/south-africa-action-plan-review-2024-2026/,fetched,,scripts/.workroot/study/opendatause/cache/ZAF/5.txt,1146,html,South Africa Action Plan Review 2024-2026 - Open Government Partnership
+6,https://www.statssa.gov.za/?page_id=1847,unfetchable,empty extraction; Wayback ConnectionError,,0,,
+7,https://codera.co.za/how-does-sas-data-ecosystem-stack-up-internationally/,unfetchable,ConnectionError; Wayback ConnectionError,,0,,

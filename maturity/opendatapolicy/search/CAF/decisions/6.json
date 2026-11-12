@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 19 May 2025 the IMF reported the Central African Republic launched its National Summary Data Page, a portal disseminating macroeconomic data compiled by multiple statistical agencies.",
+ "title": "Central African Republic Implements the Enhanced General Data Dissemination System (e-GDDS)",
+ "publisher": "IMF",
+ "published": "2025-05-19",
+ "date_source": "source",
+ "why_not": ""
+}

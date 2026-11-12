@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.monitor.co.ug/uganda/business/technology/banks-turn-to-agents-to-compete-with-mobile-money-5660952",
+  "title": "Banks turn to agents to compete with mobile money",
+  "publisher": "Daily Monitor",
+  "published": "2026-11-06",
+  "sub_indicator": "uptake",
+  "why": "Q1/Q2: FinScope 2023 figures"
+ },
+ {
+  "url": "https://fsduganda.or.ug/connected-but-not-included/",
+  "title": "Connected But Not Included: Is Owning a Mobile Phone Enough to Enter the Digital Economy?",
+  "publisher": "FSD Uganda",
+  "published": "2026-05-14",
+  "sub_indicator": "uptake",
+  "why": "Q2: Findex 2025, 73% have an account"
+ },
+ {
+  "url": "https://softpower.ug/atingi-ego-urges-stability-and-transformation-at-tumusiime-mutebile-lecture/",
+  "title": "Atingi-Ego Urges Stability and Transformation at Tumusiime-Mutebile Lecture",
+  "publisher": "SoftPower News",
+  "published": "2025-12-05",
+  "sub_indicator": "uptake",
+  "why": "Q2: Findex 73% of adults have an account"
+ },
+ {
+  "url": "https://fsduganda.or.ug/fostering-data-protection-and-cybersecurity-in-uganda-to-advance-data-usage/",
+  "title": "Fostering data protection, and cybersecurity in Uganda to advance data usage",
+  "publisher": "FSD Uganda",
+  "published": "2025-04-30",
+  "sub_indicator": "uptake",
+  "why": "Q1: FinScope 2023 mobile money usage 66%"
+ },
+ {
+  "url": "https://microdata.worldbank.org/catalog/7991",
+  "title": "The Global Findex Database 2025: Uganda, 2024",
+  "publisher": "World Bank",
+  "published": "2025-09-24",
+  "sub_indicator": "uptake",
+  "why": "Q1-Q4: Findex 2024 microdata record"
+ },
+ {
+  "url": "https://fsduganda.or.ug/wp-content/uploads/2024/04/FinScope-Uganda-2023-Findings-Summary.pdf",
+  "title": "FinScope Uganda 2023 Findings",
+  "publisher": "FSD Uganda",
+  "published": "2024-04-11",
+  "sub_indicator": "uptake",
+  "why": "Q1/Q2: 81% financially included, 68% formal"
+ },
+ {
+  "url": "https://bouganda.com/bouwebsite/bouwebsitecontent/FinancialInclusion/Final-Finscope-Uganda-2023-Survey.pdf",
+  "title": "FinScope Uganda 2023 Survey Report",
+  "publisher": "Bank of Uganda",
+  "published": "2024",
+  "sub_indicator": "uptake",
+  "why": "Q1/Q2: financial inclusion findings"
+ },
+ {
+  "url": "https://digitalfinance.worldbank.org/country/uganda",
+  "title": "Global snapshot of indicators and enabling regulations: Uganda",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "uptake",
+  "why": "Q2/Q4: Findex account and digital payments"
+ }
+]

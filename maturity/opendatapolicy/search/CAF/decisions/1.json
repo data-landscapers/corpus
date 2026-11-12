@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "The ICASEES Open Data Portal of the Central African Republic (ODP 1.0) was running in June 2026, with data, metadata, SDMX, CSV and JSON access and a distribution licence for each indicator.",
+ "title": "ICASEES : Du nouveau sur le site web de l’ICASEES, le portail Open Data et l’espace ODIN !",
+ "publisher": "ICASEES",
+ "published": "2026-06-23",
+ "date_source": "source",
+ "why_not": ""
+}

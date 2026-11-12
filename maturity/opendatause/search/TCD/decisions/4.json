@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The INSEED website and observatoire.td serve as Chad's main data portals with basic socio-economic and public finance statistics, and open data is not supported by any public policy or mandated agency.",
+ "title": "Chad DE4A Country Diagnostic (Digital Economy for Chad Country Diagnostic)",
+ "publisher": "World Bank Group",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

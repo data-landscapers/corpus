@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.swam.ma/devenir-membre/",
+  "title": "Adhésion - SWAM Switch Al Maghrib",
+  "publisher": "Switch Al Maghrib",
+  "published": "2026-06-19",
+  "sub_indicator": "law",
+  "why": "connect membership of national switch conditional on Bank Al-Maghrib licence"
+ },
+ {
+  "url": "https://medias24.com/2025/07/13/acquisition-monetique-11-acteurs-demandes-bank-al-maghrib/",
+  "title": "Acquisition monétique : 11 opérateurs agréés par Bank Al-Maghrib",
+  "publisher": "Médias24",
+  "published": "2025-07-13",
+  "sub_indicator": "law",
+  "why": "non-bank payment institutions licensed"
+ },
+ {
+  "url": "https://www.maroc.ma/index%2Ephp/fr/actualites/paiement-electronique-les-etablissements-de-paiement-et-les-filiales-des-banques-autorises-operer-des",
+  "title": "Paiement électronique : les établissements de paiement et les filiales des banques autorisés à opérer dès le 1er mai 2025",
+  "publisher": "Maroc.ma (Conseil de la Concurrence)",
+  "published": "2025-05-20",
+  "sub_indicator": "law",
+  "why": "non-bank payment institutions authorised"
+ },
+ {
+  "url": "https://www.bkam.ma/content/download/757666/8545663/loi%20bancaire%20fr.pdf",
+  "title": "Loi n° 103-12 relative aux établissements de crédit et organismes assimilés (version consolidée au 31 mars 2022)",
+  "publisher": "Bank Al-Maghrib",
+  "published": "2022-03-31",
+  "sub_indicator": "law",
+  "why": "law in force: payment institutions, e-money"
+ },
+ {
+  "url": "https://www.bkam.ma/Trouvez-l-information-concernant/Reglementation/Activite-des-etablissements-de-credit-et-assimiles/Conditions-d-exercice-agrement",
+  "title": "Conditions d'exercice (Agrément)",
+  "publisher": "Bank Al-Maghrib",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "circulars 2W2024 of 20 Dec 2024 on payment services"
+ },
+ {
+  "url": "https://www.bkam.ma/Trouvez-l-information-concernant/Reglementation/Systemes-et-moyens-de-paiement",
+  "title": "Systèmes et moyens de paiement",
+  "publisher": "Bank Al-Maghrib",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "legal framework, decision 392/W/2018 mobile payment"
+ },
+ {
+  "url": "https://afriset.com/morocco/etablissement-de-paiement-offrant-des-produits-et-services-de-paiement/",
+  "title": "Établissement de paiement offrant des produits et services de paiement - Morocco",
+  "publisher": "Afriset",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "16 licensed payment institutions at 2024-12-31"
+ },
+ {
+  "url": "https://www.swam.ma/activites/switch/mobile/",
+  "title": "Switch Mobile",
+  "publisher": "Switch Al Maghrib",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "interconnection of all licensed institutions"
+ }
+]

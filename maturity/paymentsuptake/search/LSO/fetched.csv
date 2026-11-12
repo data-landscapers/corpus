@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://microdata.worldbank.org/index.php/catalog/7934,fetched,,scripts/.workroot/study/paymentsuptake/cache/LSO/1.txt,1656,html,The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy
+2,https://microdata.worldbank.org/catalog/7934/variable/F1/V16?name=account,fetched,,scripts/.workroot/study/paymentsuptake/cache/LSO/2.txt,145,html,The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy
+3,https://microdata.worldbank.org/catalog/7934/variable/F1/V27?name=anydigpayment,fetched,,scripts/.workroot/study/paymentsuptake/cache/LSO/3.txt,145,html,The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy
+4,https://finobservatory.org/inclusion/LSO,fetched,,scripts/.workroot/study/paymentsuptake/cache/LSO/4.txt,796,html,Lesotho Financial Inclusion
+5,https://finmark.org.za/knowledge-hub/blog/microfinance-services-as-a-tool-to-enhance-financial-inclusion-in-lesotho?entity=blog,fetched,,scripts/.workroot/study/paymentsuptake/cache/LSO/5.txt,1127,html,Microfinance services as a tool to enhance financial inclusion in Lesotho
+6,https://finmark.org.za/Publications/FinScope_Lesotho_2021_FI_Report.pdf,fetched,,scripts/.workroot/study/paymentsuptake/cache/LSO/6.txt,17630,pdf,

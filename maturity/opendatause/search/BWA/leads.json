@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://datafirst.uct.ac.za/dataportal/index.php/catalog/993",
+  "title": "Statistics Botswana Microdata Portal 1995-",
+  "publisher": "DataFirst, University of Cape Town",
+  "published": "2024-10-18",
+  "sub_indicator": "use",
+  "why": "Public data under CC-BY licence"
+ },
+ {
+  "url": "https://www.statsbots.org.bw/data-portal",
+  "title": "Data Portal",
+  "publisher": "Statistics Botswana",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Statistics body portal publishing data for download"
+ },
+ {
+  "url": "https://microdata.statsbots.org.bw:4443/index.php/catalog",
+  "title": "Data Catalog",
+  "publisher": "Statistics Botswana",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Datasets listed for download"
+ },
+ {
+  "url": "https://www.statsbots.ote.bw/terms-use",
+  "title": "Terms of Use",
+  "publisher": "Statistics Botswana",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Reuse terms for data"
+ },
+ {
+  "url": "https://www.bih.co.bw/programs/open-data-innovation-challenge-2-botswana-digital-innovation-hub/",
+  "title": "Open Data Innovation Challenge 2",
+  "publisher": "Botswana Digital & Innovation Hub",
+  "published": "2026",
+  "sub_indicator": "use",
+  "why": "Open government data and data holders"
+ },
+ {
+  "url": "https://www.linkedin.com/posts/hausfi_botswanaopendatahackathon-opendatabotswana-activity-7442057616547241984-lFBV",
+  "title": "Botswana National Open Data Hackathon",
+  "publisher": "HAUS Finnish Institute of Public Management",
+  "published": "2026-03-24",
+  "sub_indicator": "use",
+  "why": "Open data use in hackathon"
+ },
+ {
+  "url": "https://landportal.org/news/2023/07/state-land-information-reports-unveil-insights-botswana-and-zambia",
+  "title": "State of Land Information Reports Unveil Insights on Botswana and Zambia",
+  "publisher": "Land Portal",
+  "published": "2023-07",
+  "sub_indicator": "use",
+  "why": "Limited open land data in Botswana"
+ },
+ {
+  "url": "https://bankofbotswana.bw/content/national-summary-data-page-nsdp",
+  "title": "National Summary Data Page (NSDP)",
+  "publisher": "Bank of Botswana",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Download data from several producers"
+ }
+]

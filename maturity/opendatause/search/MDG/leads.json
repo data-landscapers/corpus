@@ -1,0 +1,10 @@
+[
+{"url":"https://instat.mg/p/presentation-de-la-plateforme-de-partage-des-microdonnees-issues-du-rgph-3-et-des-enquetes-realisees-par-linstat","title":"Présentation de la plateforme de partage des microdonnées issues du RGPH-3 et des enquêtes réalisées par l'INSTAT","publisher":"INSTAT Madagascar","published":"2025-08-06","sub_indicator":"use","why":"Public body publishes microdata for download (Q2)"},
+{"url":"https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf","title":"Madagascar Digital Readiness Assessment","publisher":"UNDP","published":"2025-12","sub_indicator":"use","why":"State of open data portal and publication (Q1, Q2)"},
+{"url":"https://www.undp.org/fr/madagascar/actualites/portes-transparence-des-donnees-et-informations-socioeconomiques-madagascar","title":"PortES : transparence des données et informations socioéconomiques à Madagascar","publisher":"UNDP Madagascar","published":"2025-02-04","sub_indicator":"use","why":"Ministry publishes data portal (Q2)"},
+{"url":"https://assemblee-nationale.mg/mg/opendata/licence/","title":"Licence Open Data","publisher":"Assemblée Nationale de Madagascar","published":"","sub_indicator":"use","why":"Open licence on parliament datasets (Q3)"},
+{"url":"https://seam.meah.gov.mg/v2/","title":"SE&AM Système de Suivi de l'Eau, de l'Assainissement et de l'Hygiène","publisher":"Ministère de l'Eau, de l'Assainissement et de l'Hygiène","published":"2024","sub_indicator":"use","why":"Second public body publishing data (Q4)"},
+{"url":"https://dataviz.instat.mg/plateforme","title":"Visualisation Données INSTAT","publisher":"INSTAT Madagascar","published":"","sub_indicator":"use","why":"INSTAT indicators exportable as CSV/JSON (Q2)"},
+{"url":"https://www.resiliencemada.gov.mg/","title":"Resilience.mada","publisher":"CPGU Madagascar","published":"","sub_indicator":"use","why":"Government open geospatial data base (Q4)"},
+{"url":"https://eitimadagascar.mg/en/donnees-ouvertes-eiti/","title":"Données Ouvertes ITIE","publisher":"EITI Madagascar","published":"","sub_indicator":"use","why":"Bodies publishing mining data (Q4/Q5)"}
+]

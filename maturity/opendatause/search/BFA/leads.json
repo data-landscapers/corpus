@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.insd.bf/fr/node/2221",
+  "title": "Migration des données vers ODP 2.0 : l'INSD forme ses techniciens aux méthodes de formatage et de migration des données",
+  "publisher": "INSD",
+  "published": "2025-08-28",
+  "sub_indicator": "use",
+  "why": "more than 2,000 indicators on ODP since 2016"
+ },
+ {
+  "url": "https://www.insd.bf/sites/default/files/journal-2025-07/JBS%20017.pdf",
+  "title": "Journal Burkinabè de la Statistique N°0017",
+  "publisher": "INSD",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "ODP holds more than 4,700 datasets"
+ },
+ {
+  "url": "https://lefaso.net/spip.php?article138090=",
+  "title": "Statistiques : Le Burkina Faso occupe le premier rang en Afrique de l'Ouest en termes de production et de diffusion de données",
+  "publisher": "leFaso.net",
+  "published": "2025-05-13",
+  "sub_indicator": "use",
+  "why": "ODP gathers statistics of several ministries"
+ },
+ {
+  "url": "https://libreinfo.net/statistiques-le-burkina-classe-parmi-les-meilleurs-pays-insd/",
+  "title": "Statistiques : le Burkina classé parmi les meilleurs pays (INSD)",
+  "publisher": "Libreinfo.net",
+  "published": "2025-05-13",
+  "sub_indicator": "use",
+  "why": "ODP data published by INSD"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099070523103510029/txt/BOSIB17046fe2f151f0141591bf53105d7a876beb4.txt",
+  "title": "Implementation Completion and Results Report, Burkina Faso e-government project",
+  "publisher": "World Bank",
+  "published": "2023",
+  "sub_indicator": "use",
+  "why": "106 public entities providing open data on data.gov.bf"
+ },
+ {
+  "url": "https://www.insd.bf/fr/licence-data-insd",
+  "title": "Licence de données ouvertes",
+  "publisher": "INSD",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "INSD open data licence terms"
+ },
+ {
+  "url": "https://www.spcpsa.bf/donnees-denquetes/",
+  "title": "Données d'enquêtes - SP-CPSA",
+  "publisher": "SP-CPSA (Ministry of Agriculture)",
+  "published": "2024",
+  "sub_indicator": "use",
+  "why": "downloadable survey data, updated Feb 2024"
+ },
+ {
+  "url": "https://microdata.insd.bf/index.php/catalog/83",
+  "title": "Enquête Permanente Agricole 2023-2024",
+  "publisher": "DGESS / INSD microdata catalogue",
+  "published": "2025-07-18",
+  "sub_indicator": "use",
+  "why": "downloads by licence"
+ }
+]

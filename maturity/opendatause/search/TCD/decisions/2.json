@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The customs directorate DGDDI's public data page offers downloadable trade statistics documents dated 2025, authored by the Conseil des Chargeurs du Tchad.",
+ "title": "Données publiques | DGDDI",
+ "publisher": "Direction Générale des Douanes et Droits Indirects du Tchad",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

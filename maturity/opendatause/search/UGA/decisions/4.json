@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Public Procurement and Disposal of Public Assets Authority publishes its procurement data as OCDS datasets for download in JSON, Excel and CSV under the Open Data Commons Attribution License, with 210 government entities enrolled on the portal and data from July 2015 to October 2026, last retrieved 24 October 2026.",
+ "title": "Uganda: Public Procurement and Disposal of Public Assets Authority (PPDA)",
+ "publisher": "Open Contracting Partnership, OCP Data Registry",
+ "published": "2026-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

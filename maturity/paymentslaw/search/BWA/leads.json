@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.bankofbotswana.bw/sites/default/files/press-release-files/Implementation%20of%20the%20Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf",
+  "title": "Implementation of the Electronic Payment Services (Amendment) Regulations, 2026",
+  "publisher": "Bank of Botswana",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "E-money rules in force 2 April 2026"
+ },
+ {
+  "url": "https://www.bankofbotswana.bw/sites/default/files/Electronic-Payment-Services-Regulations-2019.pdf",
+  "title": "Electronic Payment Services Regulations, 2019",
+  "publisher": "Bank of Botswana",
+  "published": "2019-01-04",
+  "sub_indicator": "law",
+  "why": "Licensing of e-money issuers, interoperability regulation"
+ },
+ {
+  "url": "https://bankofbotswana.bw/sites/default/files/Register%20of%20Licensed%20Electronic%20Payment%20Service%20(EPS)%20Providers%20as%20at%20%20May%202023_0.pdf",
+  "title": "Register of Licensed Electronic Payment Service (EPS) Providers as at May 2023",
+  "publisher": "Bank of Botswana",
+  "published": "2023-05",
+  "sub_indicator": "law",
+  "why": "Non-banks licensed"
+ },
+ {
+  "url": "https://bankofbotswana.bw/sites/default/files/Fintech%20Analytical%20Assessment%20Framework%20-%20October%2015,%202025_2.pdf",
+  "title": "Fintech Analytical Assessment Framework",
+  "publisher": "Bank of Botswana",
+  "published": "2025-10-15",
+  "sub_indicator": "law",
+  "why": "National Payment System Law drafting underway"
+ },
+ {
+  "url": "https://www.bwtechzone.com/2025/07/national-payments-switch-act-drafted.html",
+  "title": "National Payments Switch Act Drafted",
+  "publisher": "BW Tech Zone",
+  "published": "2025-07-29",
+  "sub_indicator": "law",
+  "why": "Switch act drafted"
+ },
+ {
+  "url": "https://www.linkedin.com/posts/ipa-xl-consulting_botswana-fintech-payments-activity-7488684273970089984-4TX8",
+  "title": "Interoperability has been a legal requirement in Botswana since January 2019",
+  "publisher": "IPA XL Consulting",
+  "published": "2026-07-30",
+  "sub_indicator": "law",
+  "why": "Interoperability rule regulation 16(2)(c)"
+ },
+ {
+  "url": "https://www.bankofbotswana.bw/sites/default/files/publications/Annual%20Report%202025_0.pdf",
+  "title": "Annual Report 2025",
+  "publisher": "Bank of Botswana",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "22 licensed EPS providers"
+ },
+ {
+  "url": "https://www.bankofbotswana.bw/sites/default/files/Natioal%20Payments%20System%20Vision%20and%20Strategy%202020-2024.pdf",
+  "title": "National Payments System Vision and Strategy 2020-2024",
+  "publisher": "Bank of Botswana",
+  "published": "2020",
+  "sub_indicator": "law",
+  "why": "Need for comprehensive payments law, NRPS switch"
+ }
+]

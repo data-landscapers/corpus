@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.imf.org/fr/news/articles/2025/06/18/pr-25205-djibouti-djibouti-implements-the-e-gdds,fetched,,scripts/.workroot/study/opendatause/cache/DJI/1.txt,345,html,Djibouti adopte le système général de diffusion des données amélioré (SGDD-a)
+2,https://www.imf.org/en/news/articles/2025/06/18/pr-25205-djibouti-djibouti-implements-the-e-gdds,fetched,,scripts/.workroot/study/opendatause/cache/DJI/2.txt,314,html,Djibouti Implements the Enhanced General Data Dissemination System (e-GDDS)
+3,https://djibouti.opendataforafrica.org/grbaomc,fetched,,scripts/.workroot/study/opendatause/cache/DJI/3.txt,41,html,Djibouti Data Portal
+4,https://djibouti.opendataforafrica.org/data/,fetched,,scripts/.workroot/study/opendatause/cache/DJI/4.txt,41,html,Data Catalog - Djibouti Data Portal
+5,https://marchespublics.gouv.dj/,fetched,,scripts/.workroot/study/opendatause/cache/DJI/5.txt,309,html,"Transparence, Efficacité & Égalité d'Accès aux Marchés Publics de Djibouti"
+6,https://instad.dj/indice/annuaire_statistique,unfetchable,ConnectionError; no usable Wayback capture,,0,,

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access;breadth",
+ "fact": "A May 2026 audit found Togo's opendata.gouv.tg portal held 1,550 datasets from many ministries (INSEED 479, Agriculture 26, Public Works among them), published under the portal's declared CC-BY 4.0 open licence.",
+ "title": "Togo open data audit: 1,550 datasets, 18 months, 0 governance? | Gausoft.dev",
+ "publisher": "Gausoft.dev",
+ "published": "2026-05-08",
+ "date_source": "source",
+ "why_not": ""
+}

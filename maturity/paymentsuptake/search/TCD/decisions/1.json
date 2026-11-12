@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share;payments",
+ "fact": "The Global Findex 2025, from a survey run in Chad from 17 October to 11 November 2024, puts adults with an account at 21% and adults who made or received a digital payment at 18%.",
+ "title": "The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy",
+ "publisher": "World Bank",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Ministry of Food and Agriculture's SRID publishes Agricultural Production Estimates as a public csv download under the Open Data Commons Attribution licence, modified 17 December 2025.",
+ "title": "Agricultural Production Estimates",
+ "publisher": "MoFA SRID",
+ "published": "2025-12-17",
+ "date_source": "source",
+ "why_not": ""
+}

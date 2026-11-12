@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "On 28 August 2025 the INSD stated that since 2016 more than 2,000 indicators on demography, economy, nutrition, health and education are made available through the open data portal ODP.",
+ "title": "Migration des données vers ODP 2.0 : l’INSD forme ses techniciens aux méthodes de formatage et de migration des données",
+ "publisher": "INSD",
+ "published": "2025-08-28",
+ "date_source": "source",
+ "why_not": ""
+}

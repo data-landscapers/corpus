@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The official open data portal data.gouv.ci lists 211 datasets, with datasets updated as recently as 20 October 2026.",
+ "title": "Données - Portail officiel des données ouvertes",
+ "publisher": "CICG, Gouvernement de Côte d'Ivoire",
+ "published": "2026-10-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

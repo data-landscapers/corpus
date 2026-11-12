@@ -1,0 +1,6 @@
+[
+{"url":"https://blog.okfn.org/2019/03/05/how-open-is-government-data-in-africa/","title":"How open is government data in Africa?","publisher":"Open Knowledge Foundation","published":"2019-03-05","sub_indicator":"use","why":"Names the Eritrea portal among those using open licence terms (licence question)."},
+{"url":"https://opendataforafrica.org/atlas/sources/NSEO","title":"National Statistics and Evaluation Office, Eritera - NSEO","publisher":"Knoema","published":"","sub_indicator":"use","why":"Lists NSEO datasets published for download (published-data question)."},
+{"url":"https://shabait.com/2021/01/16/an-agricultural-strategic-information-system-sis-in-eritrea/","title":"An Agricultural Strategic Information System (SIS) in Eritrea","publisher":"Eritrea Ministry of Information","published":"2021-01-16","sub_indicator":"use","why":"Ministry of Agriculture data base and what is distributed (published-data question)."},
+{"url":"https://odin.opendatawatch.com/country-profiles","title":"Open Data Inventory country profiles","publisher":"Open Data Watch","published":"","sub_indicator":"use","why":"Openness and licence scoring of official statistics (licence/breadth questions)."}
+]

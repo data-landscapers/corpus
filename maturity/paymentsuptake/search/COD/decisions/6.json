@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share;target",
+ "fact": "The Deloitte 2024 banking study states the DRC financial inclusion rate rose from about 22% in 2021 to 38% in 2023, against a national strategy target of 65% in 2028.",
+ "title": "Secteur bancaire congolais - Étude du secteur bancaire en République Démocratique du Congo, Édition 2024",
+ "publisher": "Deloitte",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

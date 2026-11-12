@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Reserve Bank of Malawi publishes downloadable economic datasets (inflation, national accounts, balance of payments, government finance) with upload dates, the latest listed being 18 September 2026.",
+ "title": "Economic Data - Reserve Bank of Malawi",
+ "publisher": "Reserve Bank of Malawi",
+ "published": "2026-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

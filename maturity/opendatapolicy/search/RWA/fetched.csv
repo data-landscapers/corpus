@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,http://www.risa.gov.rw/news-detail/risa-convenes-stakeholders-to-advance-rwandas-national-data-hub,fetched,,scripts/.workroot/study/opendatapolicy/cache/RWA/1.txt,393,html,RISA convenes stakeholders to advance Rwanda’s National Data Hub
+2,https://cenfri.org/articles/introduction-to-the-rwanda-national-data-sharing-policy-2/,held,held as raw/2025/2025-10-27 Introduction to the Rwanda National Data Sharing Policy.md,,0,,
+3,https://www.newtimes.co.rw/article/26988/news/technology/what-you-should-know-about-the-new-govt-data-sharing-policy,fetched,,scripts/.workroot/study/opendatapolicy/cache/RWA/3.txt,44,html,What you should know about the new govt data sharing policy
+4,https://www.risa.gov.rw/news-detail/national-data-sharing-policy-approved,held,held as raw/2025/2025-05-26-national-data-sharing-policy-approved.md,,0,,
+5,https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Policies/The_National_Data_Sharing_Policy_-_Final.pdf,rejected,rejected 2026-09-02: duplicate-raw,,0,,
+6,https://minict.prod.risa.rw/news-detail/a-rwandan-open-data-portal,unfetchable,ConnectTimeout; no usable Wayback capture,,0,,
+7,https://minictnew.prod.risa.rw/programs/projects/open-data-portal,fetched,,scripts/.workroot/study/opendatapolicy/cache/RWA/7.txt,282,html,Open Data Portal
+8,https://prod.open-data.risa.gov.rw/dataset/?tags=Census+2022&tags=Population+density&tags=Evolution,unfetchable,SSLError; no usable Wayback capture,,0,,

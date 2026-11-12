@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "breadth",
+ "fact": "A 2024 paper reports an SDMX statistical database that allows more than ten Benin public organisations to produce, publish and share statistical data, and cites the Benin open data portal.",
+ "title": "Statistical data governance based on the SDMX",
+ "publisher": "CEUR Workshop Proceedings",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

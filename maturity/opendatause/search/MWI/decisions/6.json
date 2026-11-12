@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "Hourly temperature observations from the Department of Climate Change and Meteorological Services stations are published for download in xls/csv under a Creative Commons Attribution Share-Alike licence, created 31 July 2024.",
+ "title": "Observed Temperature for Malawi",
+ "publisher": "MaDiPHS Knowledge Library",
+ "published": "2024-07-31",
+ "date_source": "source",
+ "why_not": ""
+}

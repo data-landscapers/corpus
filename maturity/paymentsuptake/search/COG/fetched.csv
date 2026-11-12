@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://microdata.worldbank.org/catalog/7888,held,held as raw/2025/2025-10-01-global-findex-2025-congo-rep-catalogue-record.md,,0,,
+2,https://digitalfinance.worldbank.org/country/congo-rep,fetched,,scripts/.workroot/study/paymentsuptake/cache/COG/2.txt,1439,html,Global snapshot of indicators and enabling regulations
+3,https://invokely.ai/en/account-ownership-adults/republic-of-the-congo,fetched,,scripts/.workroot/study/paymentsuptake/cache/COG/3.txt,955,html,"Account ownership, adults aged 15 and over in Republic of the Congo (2024)"
+4,https://invokely.ai/en/digital-payment-participation-adults/republic-of-the-congo,fetched,,scripts/.workroot/study/paymentsuptake/cache/COG/4.txt,862,html,"Made or received a digital payment, adults in Republic of the Congo (2024)"
+5,https://data.finstatglobe.com/republic-of-the-congo/account-ownership-statistics,fetched,,scripts/.workroot/study/paymentsuptake/cache/COG/5.txt,777,html,Account Ownership Statistics in Republic of the Congo (2026) - FinStatGlobe
+6,https://data.finstatglobe.com/republic-of-the-congo/digital-payment-adoption-statistics,fetched,,scripts/.workroot/study/paymentsuptake/cache/COG/6.txt,852,html,Digital Payment Adoption Statistics in Republic of the Congo (2026) - FinStatGlobe

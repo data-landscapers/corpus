@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "discussion",
+ "aspect": "connection",
+ "fact": "A 24 October 2025 fact-check found no order to cut internet access before the 25 October presidential election and that the connection worked normally in Abidjan.",
+ "title": "L'accès Internet est-il interrompu en Côte d'Ivoire avant la présidentielle du 25 octobre ?",
+ "publisher": "Dubawa",
+ "published": "2025-10-24",
+ "date_source": "source",
+ "why_not": ""
+}

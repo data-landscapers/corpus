@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "uptake",
+ "aspect": "",
+ "fact": "",
+ "title": "Made or received a digital payment, adults in Algeria",
+ "publisher": "Invokely",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: aggregator republishing the Findex digital payment figure, no document date"
+}

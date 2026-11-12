@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 15 March 2022 the national economic, social and environmental council (CNESE) launched TAHAT, an open data portal for tracking the SDGs, with UNICEF Algeria.",
+ "title": "Le Conseil National Economique Social et Environnemental (CNESE) a lancé ... la plateforme numérique TAHAT",
+ "publisher": "UNICEF Algérie",
+ "published": "2022-03-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

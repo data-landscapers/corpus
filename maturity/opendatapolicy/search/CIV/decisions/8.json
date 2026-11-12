@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing;use",
+ "fact": "The October 2019 ODRA report states the CICG published an open data strategy and the national portal listed over 300 datasets, but open data activities appeared halted since 2017 and the portal was offline until November 2018.",
+ "title": "Etat de Préparation de la République de Côte d’Ivoire en vue d’une initiative d’ouverture des données publiques",
+ "publisher": "Ministère du Plan et du Développement; SBC4D",
+ "published": "2019-10",
+ "date_source": "source",
+ "why_not": ""
+}

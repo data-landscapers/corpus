@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 1 June 2026 the General Authority for Information presented the National Open Data Platform, which provides official state data in CSV and JSON formats.",
+ "title": "The General Authority for Information Reviews the National Open Data Platform During the Activities of the National Information Technology Day at the Faculty of Science – University of Tripoli",
+ "publisher": "General Information Authority (GIA)",
+ "published": "2026-06-01",
+ "date_source": "source",
+ "why_not": ""
+}

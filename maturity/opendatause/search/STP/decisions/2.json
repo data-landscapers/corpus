@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The 2025 E-Budget Index gave São Tomé and Príncipe 0 points on open data, meaning the Ministry of Finance provides no information in editable, reusable formats such as .CSV or .XLSX.",
+ "title": "Portal de Monitoria Cidadã: Finanças Públicas & Crise Energética em STP",
+ "publisher": "Centro de Integridade Pública de STP",
+ "published": "2026-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "The Ministry of Basic and Secondary Education launched its Education Data Centre, a public real-time DHIS2 portal open to anyone with a browser.",
+ "title": "Gambia pone en marcha un centro de datos educativos para compartir públicamente información sobre educación",
+ "publisher": "DHIS2",
+ "published": "2026-09-02",
+ "date_source": "source",
+ "why_not": ""
+}

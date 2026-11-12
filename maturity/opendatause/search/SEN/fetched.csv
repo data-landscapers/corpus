@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.fao.org/in-action/agrisurvey/news/news-detail/senegal-advances-agricultural-statistics-with-release-of-eaa-2024-25-data/en,fetched,,scripts/.workroot/study/opendatause/cache/SEN/1.txt,356,html,News-detail
+2,https://fr.linkedin.com/posts/agence-nationale-de-la-statistique-et-de-la-d%C3%A9mographie-ansd_ansd-mefp-opendata-activity-7505966440878047233-vBXE,fetched,,scripts/.workroot/study/opendatause/cache/SEN/2.txt,141,html,Accéder aux données de l’ANSD : guide pratique et plateforme Open Data du Sénégal | Agence Nationale de la Statistique et de la Démographie - ANSD a publié du contenu sur ce sujet | LinkedIn
+3,https://agridata.ansd.sn/fr/dataset/quantitetotaledeauvendueparan/resource/8937bcf3-782e-435c-891c-fea9bde17bab,unfetchable,SSLError; no usable Wayback capture,,0,,
+4,https://nso-senegal.opendataforafrica.org/hiwidxb,held,held as raw/2026/2026-11-11-sen-ansd-accord-licence-donnees-ouvertes.md,,0,,
+5,https://www.ansd.sn/bases-de-donnees,fetched,,scripts/.workroot/study/opendatause/cache/SEN/5.txt,562,html,Toutes les bases de donnees | Agence Nationale de la Statistique et de la Démographie (ANSD) du Sénégal
+6,https://www.ansd.sn/node/27727,unfetchable,SSLError; no usable Wayback capture,,0,,
+7,https://geosenegal.gouv.sn/+-agence-nationale-de-la-statistique-et-de-la-demographie-+,unfetchable,HTTP 404; no usable Wayback capture,,0,,
+8,https://www.orbit.sn/produire-de-la-valeur-en-termes-de-bonne-gouvernance-et-renforcer-la-confiance-du-public/,fetched,,scripts/.workroot/study/opendatause/cache/SEN/8.txt,776,html,Produire de la valeur en termes de bonne gouvernance et renforcer la confiance du public

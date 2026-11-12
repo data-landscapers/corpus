@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://blog.okfn.org/2019/03/05/how-open-is-government-data-in-africa/,unfetchable,HTTP 429; no usable Wayback capture,,0,,
+2,https://opendataforafrica.org/atlas/sources/NSEO,fetched,,scripts/.workroot/study/opendatause/cache/ERI/2.txt,41,html,"National Statistics and Evaluation Office, Eritera - NSEO | Data and Statistics - knoema.com"
+3,https://shabait.com/2021/01/16/an-agricultural-strategic-information-system-sis-in-eritrea/,held,held as raw/2021/2021-01-16-shabait-agricultural-strategic-information-system-eritrea-ai.md,,0,,
+4,https://odin.opendatawatch.com/country-profiles,unfetchable,empty extraction; Wayback ConnectionError,,0,,

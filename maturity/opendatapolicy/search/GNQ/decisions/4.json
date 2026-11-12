@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 28 May 2019 INEGE launched the Página Nacional de Datos Resumidos, authorised by Orden Ministerial 2/2019 of 20 May, which consolidates the country's essential official statistics with links to sources.",
+ "title": "Lanzamiento de la Página Nacional de Datos Resumidos de Guinea Ecuatorial",
+ "publisher": "Página Oficial del Gobierno de la República de Guinea Ecuatorial",
+ "published": "2019-05-29",
+ "date_source": "source",
+ "why_not": ""
+}

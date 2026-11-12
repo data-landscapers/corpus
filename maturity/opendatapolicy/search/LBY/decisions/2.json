@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 9 July 2026 the General Information Authority said public institutions were increasingly taking part in publishing high-value datasets on its Open Data Platform.",
+ "title": "General Information Authority: Open Data Platform Continues to Advance Government Transparency and Data Accessibility",
+ "publisher": "General Information Authority (GIA)",
+ "published": "2026-07-09",
+ "date_source": "source",
+ "why_not": ""
+}

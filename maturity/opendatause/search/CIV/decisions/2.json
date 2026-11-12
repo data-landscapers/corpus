@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Open Data Côte d'Ivoire portal updated its data in 2024 and lists datasets by sector: 54 in economy, 24 in education, 22 in energy, 18 in health, 11 in security.",
+ "title": "Open Data Côte d’Ivoire, la carte d’identité des réalisations du gouvernement",
+ "publisher": "Digital Mag Côte d'Ivoire",
+ "published": "2024-07-04",
+ "date_source": "source",
+ "why_not": ""
+}

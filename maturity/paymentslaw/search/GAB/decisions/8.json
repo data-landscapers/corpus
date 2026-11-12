@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing;reach",
+ "fact": "The World Bank's digital economy diagnostic says Gabon's payment law obliges all payment service providers to route their transactions through the regional switch and keep them interoperable.",
+ "title": "Diagnostic de l'économie numérique - Gabon",
+ "publisher": "Banque mondiale",
+ "published": "2019",
+ "date_source": "source",
+ "why_not": ""
+}

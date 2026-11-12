@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "payments",
+ "fact": "Per the World Bank Global Findex 2025, 68% of Namibian adults made or received a digital payment in 2024, with 72.9% owning an account.",
+ "title": "From cash to digital: The 10 most banked sub-Saharan African countries in 2024",
+ "publisher": "Businessfront",
+ "published": "2025-07-23",
+ "date_source": "source",
+ "why_not": ""
+}

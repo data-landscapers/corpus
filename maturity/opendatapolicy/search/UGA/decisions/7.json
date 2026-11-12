@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing",
+ "fact": "The first draft of the Open Data Policy was released in May 2017 and was still in draft version as of 2019.",
+ "title": "State of Land Information Uganda: Uncovering Uganda's Land Information Ecosystem",
+ "publisher": "Land Portal",
+ "published": "2019-03",
+ "date_source": "source",
+ "why_not": ""
+}

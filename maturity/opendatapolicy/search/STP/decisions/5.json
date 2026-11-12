@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "policy",
+ "aspect": "",
+ "fact": "",
+ "title": "Barómetro de Dados Abertos STP",
+ "publisher": "Centro de Integridade Pública de STP",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: an archived 2023 Global Data Barometer score summary with estimates, no policy fact"
+}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://hararepost.com/2025/12/03/zimstat-pushes-for-stronger-data-partnerships/,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://zimstat.co.zw/national-accounts/,fetched,,scripts/.workroot/study/opendatause/cache/ZWE/2.txt,651,html,National Accounts - ZIMSTAT
+3,https://zimstat.co.zw/consumer-price-index/,fetched,,scripts/.workroot/study/opendatause/cache/ZWE/3.txt,2102,html,Consumer Price Index - ZIMSTAT
+4,https://zimstat.co.zw/health-statistics/,fetched,,scripts/.workroot/study/opendatause/cache/ZWE/4.txt,313,html,Health Statistics - ZIMSTAT
+5,https://zimstat.co.zw/opd2-0-notify/,fetched,,scripts/.workroot/study/opendatause/cache/ZWE/5.txt,93,html,ODP2.0 Notification - ZIMSTAT
+6,https://zimgeoportal.org.zw/datasets/,fetched,,scripts/.workroot/study/opendatause/cache/ZWE/6.txt,544,html,Zimbabwe Geoportal
+7,https://zimbabwe.opendataforafrica.org/data/,fetched,,scripts/.workroot/study/opendatause/cache/ZWE/7.txt,41,html,Data Catalog - Zimbabwe Data Portal
+8,https://www.imf.org/en/news/articles/2023/03/14/pr2370-zimbabwe-implements-the-imf-egdd-system,fetched,,scripts/.workroot/study/opendatause/cache/ZWE/8.txt,434,html,Zimbabwe Implements the International Monetary Fund’s Enhanced General Data Dissemination System

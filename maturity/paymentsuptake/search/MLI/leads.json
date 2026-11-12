@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://bankfinancemag.com/a-la-une/mali-22-309-milliards-en-mobile-money-mais-1-adulte-sur-6-bancarise/",
+  "title": "Mali : 22 309 milliards en mobile money, mais 1 adulte sur 6 bancarisé",
+  "publisher": "Banque Finance Magazine",
+  "published": "2026-11-09",
+  "sub_indicator": "uptake",
+  "why": "BCEAO 2025 dashboard: inclusion rate 61.9%"
+ },
+ {
+  "url": "https://malijet.com/actualite_economique_du_mali/312670-inclusion-financiere-au-mali-entre-demaillage-territorial.html",
+  "title": "Inclusion financière au Mali : entre démaillage territorial et progression de l'utilisation des services",
+  "publisher": "Malijet",
+  "published": "2026-11-04",
+  "sub_indicator": "uptake",
+  "why": "BCEAO annual report 2025: inclusion rate 61.9 percent"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/0311-60420-senegal-mali-see-financial-service-point-closures-in-2025-but-inclusion-rates-still-rise-data-show",
+  "title": "Senegal, Mali See Financial Service-Point Closures in 2025, but Inclusion Rates Still Rise, Data Show",
+  "publisher": "Ecofin Agency",
+  "published": "2026-11-03",
+  "sub_indicator": "uptake",
+  "why": "Mali inclusion rate 61.9% in 2025"
+ },
+ {
+  "url": "https://malijet.com/actualite_economique_du_mali/312530-inclusion-financiere-le-mali-recule-malgre-la-hausse-des-i.html",
+  "title": "Inclusion financière : le Mali recule malgré la hausse des indicateurs d'accès",
+  "publisher": "Malijet",
+  "published": "2026-10-27",
+  "sub_indicator": "uptake",
+  "why": "BCEAO 2025 dashboard figures"
+ },
+ {
+  "url": "https://microdata.worldbank.org/index.php/catalog/7941",
+  "title": "Mali - The Global Findex Database 2025",
+  "publisher": "World Bank",
+  "published": "2025-10-01",
+  "sub_indicator": "uptake",
+  "why": "Findex 2024 survey for Mali"
+ },
+ {
+  "url": "https://microdata.worldbank.org/catalog/7903/download/352280",
+  "title": "The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "uptake",
+  "why": "Table B.1: Mali account 55 percent, digital payment 52 percent"
+ }
+]

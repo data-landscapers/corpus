@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share",
+ "fact": "The BCEAO's 2025 annual report on financial inclusion in the UEMOA gives Burkina's overall financial inclusion rate as 81.8% in 2025, up 2.1 points.",
+ "title": "Rapport annuel sur la situation de l'inclusion financière dans l'UEMOA au titre de l'année 2025",
+ "publisher": "BCEAO",
+ "published": "2026-10",
+ "date_source": "source",
+ "why_not": ""
+}

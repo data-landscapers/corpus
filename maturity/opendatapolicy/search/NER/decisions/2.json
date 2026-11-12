@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 18 July 2023 Niger's statistics institute announced adoption of the enhanced General Data Dissemination System, with a machine-readable data portal hosted on the AfDB open data platform to be published by 30 September 2023.",
+ "title": "Le Niger adopte le Système Général de Diffusion des Données amélioré (SGDD-a)",
+ "publisher": "Institut National de la Statistique du Niger",
+ "published": "2023-07-18",
+ "date_source": "source",
+ "why_not": ""
+}

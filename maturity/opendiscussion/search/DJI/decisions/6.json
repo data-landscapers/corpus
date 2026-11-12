@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "discussion",
+ "aspect": "connection",
+ "fact": "The report states the government has never cut the internet in Djibouti, while the state-owned ISP regularly blocks La Voix de Djibouti and ARDHD websites and Facebook was reportedly blocked on mobile from August to December 2021.",
+ "title": "Rapport sur les libertés numériques dans les pays francophones d'Afrique",
+ "publisher": "Agence française de développement (AFD)",
+ "published": "2023-05",
+ "date_source": "source",
+ "why_not": ""
+}

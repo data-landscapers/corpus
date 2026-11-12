@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The April 2025 summary of the data governance diagnostic says data in the Open Data Portal is not always maintained and its scope could be broader.",
+ "title": "Data Governance in Mozambique: Findings and Recommendations based on a Rapid Diagnostic",
+ "publisher": "INTIC (with the World Bank and African Development Bank)",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

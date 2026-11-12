@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing;reach",
+ "fact": "BEAC's report on e-money services in 2020 states that Règlement 04/18 on payment services has applied since 1 January 2019, with COBAC rules R-2019/01 and R-2019/02, and creates the établissement de paiement category that lets telecom operators and fintechs provide payment services.",
+ "title": "Services de paiement par monnaie électronique dans la CEMAC en 2020",
+ "publisher": "Banque des États de l'Afrique Centrale (BEAC)",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

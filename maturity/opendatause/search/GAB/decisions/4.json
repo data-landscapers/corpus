@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Gabon EITI website includes an open data platform disclosing information for each module in searchable open format (xlsx), per the EITI validation published after March 2025.",
+ "title": "Gabon",
+ "publisher": "EITI",
+ "published": "2025-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

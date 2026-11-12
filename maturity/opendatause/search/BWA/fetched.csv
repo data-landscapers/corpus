@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://datafirst.uct.ac.za/dataportal/index.php/catalog/993,unfetchable,ReadTimeout; Wayback ConnectionError,,0,,
+2,https://www.statsbots.org.bw/data-portal,fetched,,scripts/.workroot/study/opendatause/cache/BWA/2.txt,274,html,Data Portal
+3,https://microdata.statsbots.org.bw:4443/index.php/catalog,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+4,https://www.statsbots.ote.bw/terms-use,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+5,https://www.bih.co.bw/programs/open-data-innovation-challenge-2-botswana-digital-innovation-hub/,fetched,,scripts/.workroot/study/opendatause/cache/BWA/5.txt,1442,html,"Open Data Innovation Challenge 2 | Botswana Digital & Innovation Hub - BDIH, Botswana Digital & Innovation Hub, Innovation, Technology, Science and Technology Park"
+6,https://www.linkedin.com/posts/hausfi_botswanaopendatahackathon-opendatabotswana-activity-7442057616547241984-lFBV,fetched,,scripts/.workroot/study/opendatause/cache/BWA/6.txt,427,html,#botswanaopendatahackathon #opendatabotswana #digitaltransformationbw #bdih #smartbots #hausfi #euinbotswana | HAUS kehittämiskeskus Oy / HAUS Finnish Institute of Public Management Ltd
+7,https://landportal.org/news/2023/07/state-land-information-reports-unveil-insights-botswana-and-zambia,fetched,,scripts/.workroot/study/opendatause/cache/BWA/7.txt,175,html,Making sure you're not a bot!
+8,https://bankofbotswana.bw/content/national-summary-data-page-nsdp,fetched,,scripts/.workroot/study/opendatause/cache/BWA/8.txt,213,html,National Summary Data Page (NSDP)

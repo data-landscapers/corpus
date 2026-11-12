@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Ministry of Finance's website lists published budget and fiscal documents as downloadable PDFs, including the Budget Appropriation 2027 submitted to Parliament on 9 November 2026 and the Budget Performance Report January-September 2026 on 31 October 2026, and an Open Budget Initiative page for machine-readable releases.",
+ "title": "Ministry of Finance | Federal Government of Somalia",
+ "publisher": "Ministry of Finance, Federal Government of Somalia",
+ "published": "2026-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

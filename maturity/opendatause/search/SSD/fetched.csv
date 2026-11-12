@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.onecitizendaily.com/index.php/2024/12/21/conflict-funding-gaps-hinder-data-collection-nbs/,fetched,,scripts/.workroot/study/opendatause/cache/SSD/1.txt,929,html,"Conflict, funding gaps hinder data collection-NBS"
+2,https://southsudan.opendataforafrica.org/legal/termsofuse,fetched,,scripts/.workroot/study/opendatause/cache/SSD/2.txt,41,html,South Sudan Open Data Portal - Terms of use
+3,https://nbs.gov.ss/statistics/Education_Indicators.php,fetched,,scripts/.workroot/study/opendatause/cache/SSD/3.txt,949,html,Education Indicators
+4,http://www.nbs.gov.ss/statistics/Health_Statistics.php,held,held as raw/2024/2024-01-01-ssd-health-statistics.md,,0,,
+5,https://mogei.gov.ss/super/assets/documents/resources/2023%20Nat-Education%20Census%20Report_Final.pdf,held,held as raw/2023/2023-01-01-mogei-national-education-census-report-2023.md,,0,,
+6,http://beta.nbs.gov.ss/FAQs/,fetched,,scripts/.workroot/study/opendatause/cache/SSD/6.txt,821,html,Frequently Asked Questions
+7,https://idataportal.afro.who.int/group/SSD,unfetchable,HTTP 502; no usable Wayback capture,,0,,

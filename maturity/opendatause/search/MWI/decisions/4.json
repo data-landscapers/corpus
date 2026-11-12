@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The National Planning Commission's MIP-1 DFA Visualiser lets users download any data set from the national indicator data warehouse in Excel.",
+ "title": "MIP-1 data Visualizer",
+ "publisher": "National Planning Commission, Malawi",
+ "published": "2025-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

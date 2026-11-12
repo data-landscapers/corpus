@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://regalert.today/document/circular-no-13-2026-58d812b9-32cf-4291-8cf0-d2f9bb895a55",
+  "title": "Circular No. 13/2026",
+  "publisher": "RegAlert (CBL circular text)",
+  "published": "2026-08-19",
+  "sub_indicator": "law",
+  "why": "reach: circular requiring providers to integrate with national payment systems"
+ },
+ {
+  "url": "https://www.cbl.gov.ly/en/governor-of-the-central-bank-of-libya-discusses-with-the-international-monetary-fund-strengthening-the-legal-frameworks-for-financial-governance-and-combating-financial-crimes/",
+  "title": "Governor of the Central Bank of Libya discusses with the IMF strengthening the legal frameworks",
+  "publisher": "Central Bank of Libya",
+  "published": "2026-04-14",
+  "sub_indicator": "law",
+  "why": "standing: update of e-payment company licensing regulation"
+ },
+ {
+  "url": "https://libyaobserver.ly/economy/libya-allows-e-wallets-foreigners-and-sets-transfer-limits",
+  "title": "Libya allows e-wallets for foreigners and sets transfer limits",
+  "publisher": "The Libya Observer",
+  "published": "2026-03-12",
+  "sub_indicator": "law",
+  "why": "standing/reach: CBL rules regulating e-payment services, licensed companies"
+ },
+ {
+  "url": "https://alwasat.ly/news/libya/511044",
+  "title": "«المركزي» يسمح للأجانب بفتح محافظ إلكترونية ويحدد سقوف التحويلات",
+  "publisher": "بوابة الوسط",
+  "published": "2026-03-11",
+  "sub_indicator": "law",
+  "why": "standing/reach: circular 9/2026 to banks and payment companies (Arabic)"
+ },
+ {
+  "url": "https://libyaherald.com/2026/03/aldabaiba-government-and-cbl-take-further-actions-to-encourage-increased-e-payments-use-cbl-reduces-new-fx-bureaux-commission",
+  "title": "Libya Mandates E-Payments for State Revenue and Reduces FX Fees",
+  "publisher": "Libya Herald",
+  "published": "2026-03-06",
+  "sub_indicator": "law",
+  "why": "reach: CBL letter requiring banks to activate LYPay"
+ },
+ {
+  "url": "https://cbl.gov.ly/en/electronic-payment/",
+  "title": "Electronic Payment - The Central Bank of Libya",
+  "publisher": "Central Bank of Libya",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "non-bank: directory of licensed e-payment companies, latest licence Jan 2026"
+ },
+ {
+  "url": "https://cbl.gov.ly/micifaf/2024/01/%D9%84%D8%A7%D8%A6%D8%AD%D8%A9-%D8%AA%D9%86%D8%B7%D9%8A%D9%85-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9.pdf",
+  "title": "Regulations of The Libyan National Payment Network",
+  "publisher": "Central Bank of Libya",
+  "published": "2023-03",
+  "sub_indicator": "law",
+  "why": "reach: national payment network regulation, CBL may impose participation"
+ },
+ {
+  "url": "https://cbl.gov.ly/en/wp-content/uploads/2022/08/%D9%84%D8%A7%D9%8A%D9%94%D8%AD%D8%A9-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D8%A7%D9%84%D8%A7%D9%95%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A.pdf",
+  "title": "لائحة خدمات الدفع الإلكتروني",
+  "publisher": "مصرف ليبيا المركزي - مجلس المدفوعات الوطني",
+  "published": "2020-03",
+  "sub_indicator": "law",
+  "why": "standing/non-bank: e-payment services regulation in force"
+ }
+]

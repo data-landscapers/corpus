@@ -1,0 +1,9 @@
+[
+{"url":"https://fmdrc-zambia.com/zambia-eiti-online-fusion-portal-goes-live/","title":"Zambia EITI Online Fusion portal goes live","publisher":"FMDRCZ","published":"2024-04-30","sub_indicator":"use","why":"Ministry of Mines PS launches data portal for download; access"},
+{"url":"https://www.zppa.org.zm/ocds-license","title":"OCDS License","publisher":"Zambia Public Procurement Authority","published":"","sub_indicator":"use","why":"ZPPA publishes e-GP data under ODC PDDL open licence"},
+{"url":"https://www.infrastructuretransparencyzambia.org/opendata","title":"Download the data - NCC Infrastructure Publication Portal","publisher":"National Council for Construction","published":"","sub_indicator":"use","why":"NCC project data downloadable under CC BY 4.0"},
+{"url":"https://data.open-contracting.org/en/publication/3","title":"Zambia: Public Procurement Authority (ZPPA)","publisher":"Open Contracting Partnership","published":"2026-11","sub_indicator":"use","why":"ZPPA data downloadable, CC BY 4.0, Aug 2016-May 2026"},
+{"url":"https://z360dasp.moh.gov.zm/research","title":"Zambia 360 Data Access Portal","publisher":"Ministry of Health Zambia","published":"","sub_indicator":"use","why":"Ministry of Health datasets by request, CSV download"},
+{"url":"https://www.zamstats.gov.zm/faqs/","title":"FAQs - Zambia Statistics Agency","publisher":"Zambia Statistics Agency","published":"2023-11-26","sub_indicator":"use","why":"ZamStats says its data are free via website and data portal, reuse allowed"},
+{"url":"https://data.worldpop.org/repo/wopr/ZMB/population/v2.0/ZMB_population_2022_v2_0_README.pdf","title":"Release Statement: gridded population estimates for Zambia v2.0","publisher":"WorldPop / Zambia Statistics Agency","published":"2024-06-04","sub_indicator":"use","why":"Census-based data released under CC BY 4.0 with ZamStats"}
+]

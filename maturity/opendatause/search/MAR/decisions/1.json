@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "Interfaces were activated with the High Commission for Planning's statistical database so that its open data on employment, indices and national accounts are published automatically on the national open data portal.",
+ "title": "Publication automatiques des données via des APIs du HCP",
+ "publisher": "Agence de Développement du Digital - Portail de l'Open Data au Maroc",
+ "published": "2024-12-27",
+ "date_source": "source",
+ "why_not": ""
+}

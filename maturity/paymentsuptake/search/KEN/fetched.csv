@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://microdata.worldbank.org/index.php/catalog/7926/pdf-documentation,fetched,,scripts/.workroot/study/paymentsuptake/cache/KEN/1.txt,27749,pdf,
+2,https://finobservatory.org/inclusion/KEN,fetched,,scripts/.workroot/study/paymentsuptake/cache/KEN/2.txt,780,html,Kenya Financial Inclusion
+3,https://data.worldbank.org.cn/indicator/FX.OWN.TOTL.ZS?locations=KE,fetched,,scripts/.workroot/study/paymentsuptake/cache/KEN/3.txt,184,html,World Bank Open Data
+4,https://www.centralbank.go.ke/2024/12/13/10960/,fetched,,scripts/.workroot/study/paymentsuptake/cache/KEN/4.txt,186,html,2024 FinAccess Household Survey Report
+5,https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf,held,held as raw/2024/2024-12-01-ken-cbk-2024-finaccess-household-survey.md,,0,,
+6,https://www.fsdkenya.org/blogs-publications/2024-finaccess-household-survey-key-insights-into-kenyas-financial-landscape/,fetched,,scripts/.workroot/study/paymentsuptake/cache/KEN/6.txt,1019,html,2024 FinAccess Household Survey: Key insights into Kenya's financial landscape - Financial Sector Deepening Kenya (FSD Kenya)
+7,https://www.knbs.or.ke/reports/2024-finacess-household-survey-report/,unfetchable,SSLError; Wayback ConnectionError,,0,,
+8,https://digitalfinance.worldbank.org/country/kenya,unfetchable,HTTP 403; Wayback ConnectionError,,0,,

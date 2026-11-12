@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Ministry of Basic and Secondary Education's site offers eight downloadable xlsx datasets (national assessment tests and Basic Certificate Examination data for 2023-2024 and yearbook data), uploaded 4 and 11 March 2026.",
+ "title": "PAMP DLI 5.1 - MoBSE Datasets",
+ "publisher": "Ministry of Basic and Secondary Education (MoBSE)",
+ "published": "2026-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

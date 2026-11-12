@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://huggingface.co/datasets/electricsheepafrica/africa-ethiopia-official-open-data-catalog/blob/main/README.md,fetched,,scripts/.workroot/study/opendatause/cache/ETH/1.txt,1268,html,README.md · electricsheepafrica/africa-ethiopia-official-open-data-catalog at main
+2,https://data.moa.gov.et/dataset/,fetched,,scripts/.workroot/study/opendatause/cache/ETH/2.txt,950,html,Search datasets
+3,https://data.moa.gov.et/organization/ethiopian-statistical-service,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+4,https://www.africanewschannel.org/featured/open-by-default-ethiopias-open-data-push-stalled-by-secrecy-skills-gap-and-political-caution/,fetched,,scripts/.workroot/study/opendatause/cache/ETH/4.txt,748,html,"“Open by Default?” Ethiopia’s Open Data Push Stalled by Secrecy, Skills Gap, and Political Caution - Africa News Channel قناة أفريقيا الإخبارية"" Chaîne d'information africaine"
+5,https://sdg.mopd.gov.et/data/,unfetchable,ConnectionError; Wayback ConnectionError,,0,,
+6,https://nbe.gov.et/publications-statistics/statistics/statistical-data-series/,fetched,,scripts/.workroot/study/opendatause/cache/ETH/6.txt,52,html,Statistical Data Series - National Bank of Ethiopia
+7,https://ember-energy.org/app/uploads/2024/10/African-Electricity-Data-Transparency.pdf,fetched,,scripts/.workroot/study/opendatause/cache/ETH/7.txt,9991,pdf,African Electricity Data Transparency.pptx

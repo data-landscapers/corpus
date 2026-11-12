@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Government Open Data Strategy 2024-2027 states that open data is sporadically made public, mostly in non-machine-readable formats, that no government open data portal exists, and that the statistics bureau's portal only publishes statistics.",
+ "title": "Government Open Data Strategy 2024 - 2027",
+ "publisher": "Ministry of Communications and Digital Economy, The Gambia",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

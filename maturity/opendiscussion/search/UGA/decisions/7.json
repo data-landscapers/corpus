@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "discussion",
+ "aspect": "connection",
+ "fact": "The Uganda Communications Commission ordered a shutdown of public internet access from 13 January 2026 until 18 January 2026, and after restoration access to WhatsApp, Facebook, Instagram and Twitter/X remained blocked.",
+ "title": "Uganda blocked social media following 2026 general election",
+ "publisher": "OONI",
+ "published": "2026-01-23",
+ "date_source": "source",
+ "why_not": ""
+}

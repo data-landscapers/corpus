@@ -1,0 +1,7 @@
+[
+{"url":"https://digitalidentityindex.com/countries/eritrea/govtech/","title":"Eritrea - The Global Digital Identity Index","publisher":"Digital Identity Index","published":"","sub_indicator":"policy","why":"Records an open data portal and no open government portal (portal question)."},
+{"url":"https://digitaldevelopmentcompass.undp.org/country/ERI","title":"UNDP Digital Development Compass | Eritrea","publisher":"UNDP","published":"","sub_indicator":"policy","why":"Open government dimension at lowest stage, no info sharing (no policy question)."},
+{"url":"https://eritrea.opendataforafrica.org/","title":"Eritrea Data Portal","publisher":"African Development Bank","published":"","sub_indicator":"policy","why":"Donor-run portal (portal question; likely does not count)."},
+{"url":"https://reservoirs.earth/transparency-index/eritrea","title":"Eritrea Reservoir Transparency","publisher":"reservoirs.earth","published":"","sub_indicator":"policy","why":"States no national open data portal or tradition (no policy question)."},
+{"url":"https://github.com/OSINT-for-countries/OSINT_in_Eritrea","title":"OSINT in Eritrea","publisher":"OSINT-for-countries","published":"","sub_indicator":"policy","why":"States no national open data portal (no policy question)."}
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://afriquinfos.com/article/uemoa-paiements-digitaux-innovants-comprendre-la-pi-spi-obligatoire",
+  "title": "UEMOA/Paiements digitaux innovants : Comprendre la PI-SPI obligatoire depuis ce 02 novembre",
+  "publisher": "Afriquinfos",
+  "published": "2026-11-05",
+  "sub_indicator": "law",
+  "why": "connect: interoperable e-money transfers must route through PI-SPI from 2 Nov 2026"
+ },
+ {
+  "url": "https://www.bceao.int/sites/default/files/2026-10/Communiqu%C3%A9%20du%202%20octobre%202026.pdf",
+  "title": "Communiqué du 2 octobre 2026",
+  "publisher": "BCEAO",
+  "published": "2026-10-02",
+  "sub_indicator": "law",
+  "why": "connect: mandatory use of PI-SPI"
+ },
+ {
+  "url": "https://ns2.bceao.int/fr/reglementations/instruction-ndeg-020-portant-modification-de-linstruction-ndeg-008-05-2015-du-21",
+  "title": "Instruction n° 020 portant modification de l'Instruction n° 008-05-2015",
+  "publisher": "BCEAO",
+  "published": "2026-10-08",
+  "sub_indicator": "law",
+  "why": "standing: e-money rules amended"
+ },
+ {
+  "url": "https://leconomistedufaso.com/2026/06/29/reglementation-bancaire-au-faso-des-innovations-en-reponse-aux-mutations-du-secteur/",
+  "title": "Réglementation bancaire au Faso : des innovations en réponse aux mutations du secteur",
+  "publisher": "L'Economiste du Faso",
+  "published": "2026-06-29",
+  "sub_indicator": "law",
+  "why": "standing: banking law extends to payment and e-money institutions"
+ },
+ {
+  "url": "https://www.assembleenationale.bf/762",
+  "title": "Réglementation bancaire au Burkina Faso",
+  "publisher": "Assemblée législative de Transition",
+  "published": "2026-06",
+  "sub_indicator": "law",
+  "why": "standing: law adopted 26 June 2026"
+ },
+ {
+  "url": "https://www.cb-umoa.org/sites/default/files/_Liste%20EME%20ET%20EP%20Burkina_2026.pdf",
+  "title": "Liste des établissements de paiement et de monnaie électronique, Burkina",
+  "publisher": "Commission Bancaire de l'UMOA",
+  "published": "2026-06-29",
+  "sub_indicator": "law",
+  "why": "non-bank: licensed payment and e-money institutions"
+ },
+ {
+  "url": "https://www.bceao.int/sites/default/files/inline-files/Instruction-No001-01-2024_relative_aux_services_de_paiement_dans_l-UMOA.pdf",
+  "title": "Instruction n°001-01-2024 relative aux services de paiement dans l'UMOA",
+  "publisher": "BCEAO",
+  "published": "2024-01-23",
+  "sub_indicator": "law",
+  "why": "standing/non-bank: payment institutions licensed"
+ },
+ {
+  "url": "https://yop.l-frii.com/bceao-le-burkina-faso-va-adopter-une-nouvelle-loi/",
+  "title": "BCEAO : le Burkina Faso va adopter une nouvelle loi",
+  "publisher": "YOP L-FRII",
+  "published": "2024-10-03",
+  "sub_indicator": "law",
+  "why": "standing: bill before Council of Ministers"
+ }
+]

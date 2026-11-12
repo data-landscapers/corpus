@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.undp.org/sites/g/files/zskgke326/files/2024-12/dra_report_eswatini.pdf,held,held as raw/2024/2024-11-01-eswatini-digital-readiness-assessment.md,,0,,
+2,https://eusee.hivos.org/assets/2025/10/Final-CFR_Eswatini_JW-9.pdf,held,held as raw/2025/2025-10-01-swz-hivos-eusee-country-focus-report-2025.md,,0,,
+3,https://cdie.ndrma.org.sz/,fetched,,scripts/.workroot/study/opendatause/cache/SWZ/3.txt,65,html,ABOUT EDM
+4,https://wiki.cloud.akvo.org/books/droughtmap-hub/page/operational-handbook,held,held as raw/2025/2025-01-01-swz-akvo-droughtmap-hub-handbook.md,,0,,
+5,https://mof-swaziland.opendataforafrica.org/uhzofbc/national-summary-data-page-nsdp,fetched,,scripts/.workroot/study/opendatause/cache/SWZ/5.txt,41,html,"National Summary Data Page (NSDP) - OpenData for the Ministry of Finance, Eswatini"
+6,https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20PLANNING%202025.pdf,held,held as raw/2025/2025-02-17-swz-ministry-of-economic-planning-and-development-annual-report-2024-25.md,,0,,
+7,https://odin.opendatawatch.com/country-profiles/SWZ?year=2024,unfetchable,empty extraction; no usable Wayback capture,,0,,
+8,https://www.swazimet.gov.sz/index.php?page=data,fetched,,scripts/.workroot/study/opendatause/cache/SWZ/8.txt,36,html,

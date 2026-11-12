@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "uptake",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: data aggregator repeating World Bank Findex 2024 series already held"
+}

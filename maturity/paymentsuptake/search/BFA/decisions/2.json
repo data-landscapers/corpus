@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share;target",
+ "fact": "An ANPFI expert stated on 20 October 2026 that Burkina Faso's overall financial inclusion rate was 79.7% at the end of 2024, with half of those included through e-money and half of those e-money accounts inactive.",
+ "title": "Inclusion financière : avec 79,7 % à fin 2024, le Burkina en avance de 6,1 points sur le taux global de l'UEMOA",
+ "publisher": "C'Finance",
+ "published": "2026-10-21",
+ "date_source": "source",
+ "why_not": ""
+}

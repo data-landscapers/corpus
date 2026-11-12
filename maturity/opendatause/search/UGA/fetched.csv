@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.ubos.org/datasets-2/,unfetchable,SSLError; Wayback ConnectionError,,0,,
+2,https://uganda.opendataforafrica.org/dqgjtcb,fetched,,scripts/.workroot/study/opendatause/cache/UGA/2.txt,41,html,Uganda Data Portal
+3,https://opendata.ug/institutions,fetched,,scripts/.workroot/study/opendatause/cache/UGA/3.txt,176,html,"Uganda Open Data Platform - Uganda's Open Data, Verified and Reusable"
+4,https://data.open-contracting.org/en/publication/130,fetched,,scripts/.workroot/study/opendatause/cache/UGA/4.txt,717,html,Uganda: Public Procurement and Disposal of Public Assets Authority (PPDA) | OCP Data Registry
+5,https://sdgs.opm.go.ug/2025/08/11/ugandas-sdg-open-data-portal-advancing-transparency-and-sustainable-development/,fetched,,scripts/.workroot/study/opendatause/cache/UGA/5.txt,531,html,Leave a Comment or Cancel reply
+6,https://www.budget.finance.go.ug/dataportal,fetched,,scripts/.workroot/study/opendatause/cache/UGA/6.txt,55,html,Excel Downloads
+7,https://www.ubos.org/data-portals-2/,unfetchable,SSLError; Wayback ConnectionError,,0,,
+8,https://opendata.ug/licence,fetched,,scripts/.workroot/study/opendatause/cache/UGA/8.txt,113,html,"Uganda Open Data Platform - Uganda's Open Data, Verified and Reusable"

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.fao.org/in-action/agrisurvey/news/news-detail/mali-releases-2023-24-agricultural-data-under-the-50x2030-initiative/en",
+  "title": "Mali releases 2023–24 agricultural data under the 50x2030 Initiative",
+  "publisher": "FAO",
+  "published": "2026-11-03",
+  "sub_indicator": "use",
+  "why": "INSTAT and CPS/SDR release agricultural survey data with tables on the national open data portal"
+ },
+ {
+  "url": "https://www.instat-mali.org/fr/publications/statistiques-du-commerce-exterieur",
+  "title": "STATISTIQUES DU COMMERCE EXTÉRIEUR",
+  "publisher": "INSTAT",
+  "published": "2026-10-05",
+  "sub_indicator": "use",
+  "why": "Statistics office publishes downloadable bulletins"
+ },
+ {
+  "url": "https://instat-mali.org/fr/publications/indice-des-materiaux-et-produits-de-construction-imc",
+  "title": "INDICE DES MATERIAUX ET PRODUITS DE CONSTRUCTION (IMC)",
+  "publisher": "INSTAT",
+  "published": "2026-10-20",
+  "sub_indicator": "use",
+  "why": "Statistics office publishes downloadable monthly indices"
+ },
+ {
+  "url": "https://eiti.org/countries/mali",
+  "title": "Mali | EITI",
+  "publisher": "EITI",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Licence register downloadable as csv and Ministry of Budget csv data; two bodies publishing"
+ },
+ {
+  "url": "https://www.instat-mali.org/laravel-filemanager/files/shares/doc/Conditions%20d'utilisation.pdf",
+  "title": "Conditions d'utilisation des portails et des jeux de données accessibles",
+  "publisher": "INSTAT",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "CC-BY 4.0 licence on INSTAT portal datasets"
+ },
+ {
+  "url": "https://mali.opendataforafrica.org/tejrcyg/odin-mali",
+  "title": "ODIN-Mali - Mali Data Portal",
+  "publisher": "INSTAT",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "National ODIN page centralising SSN data"
+ },
+ {
+  "url": "https://db.dnds.ml/",
+  "title": "Plateforme DNDS/DNPSES",
+  "publisher": "Ministère de la Santé et du Développement social",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Social data platform publishing bulletins and maps monthly"
+ },
+ {
+  "url": "https://aiccra.cgiar.org/events/launch-agdata-hub-mali",
+  "title": "Launch: AgData Hub in Mali",
+  "publisher": "AICCRA",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "National AgData Hub hosted by the meteorological agency connects ministry data"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing;reach",
+ "fact": "The World Bank's June 2022 financial sector assessment lists the Payment Systems Act (2016) and the Regulation of Mobile Money Services (2011) as the payments framework, operational since 2011, with only two mobile money providers licensed.",
+ "title": "The Gambia: Financial Sector Assessment",
+ "publisher": "World Bank",
+ "published": "2022-06",
+ "date_source": "source",
+ "why_not": ""
+}

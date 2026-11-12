@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.imf.org/en/news/articles/2019/12/03/pr19439-guinea-guinea-implements-the-imfs-enhanced-general-data-dissemination-system-guinea/index.md,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://guinea.opendataforafrica.org/data/,fetched,,scripts/.workroot/study/opendatause/cache/GIN/2.txt,41,html,Data Catalog - Guinea Data Portal
+3,https://ipt-guinee.gbif.fr/resource?r=cvprepguinea,fetched,,scripts/.workroot/study/opendatause/cache/GIN/3.txt,1462,html,Checklist of the Vascular Plants of the Republic of Guinea
+4,https://rnde.kumascience.com/,fetched,,scripts/.workroot/study/opendatause/cache/GIN/4.txt,167,html,Explorez les données ouvertes de l'énergie
+5,https://guinea.dataforall.org/about,fetched,,scripts/.workroot/study/opendatause/cache/GIN/5.txt,351,html,À propos
+6,https://mpcid.gov.gn/index.php/mpci-lancement-officiel-de-publication-des-comptes-nationaux-trimestriels-de-la-guinee/,fetched,,scripts/.workroot/study/opendatause/cache/GIN/6.txt,671,html,MPCI : Lancement officiel de publication des comptes nationaux trimestriels de la Guinée - MPCI
+7,https://open.africa/organization/ministere-des-peches-de-l-aquaculture-et-economie-maritime-mpaem,unfetchable,HTTP 403; Wayback ConnectionError,,0,,
+8,https://cseaafrica.org/images/posts/47281988.pdf,held,held as raw/2025/2025-11-01-cseaafrica-data-driven-public-sector-guinea-roadmap.md,,0,,

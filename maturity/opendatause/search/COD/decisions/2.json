@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Ministry of Mines publishes annual mining statistics files for 2017 to 2025 as free downloads, stating they are published in open access and updated each quarter.",
+ "title": "MINISTÈRE DES MINES - RDC-Statistiques",
+ "publisher": "Ministère des Mines",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

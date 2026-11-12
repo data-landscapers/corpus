@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "breadth",
+ "fact": "The Ghana Open Data Initiative holds 315 data catalogs from 22 government ministries and agencies.",
+ "title": "Ghana: national data exchange case study",
+ "publisher": "Digital Impact Alliance (DIAL)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

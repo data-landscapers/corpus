@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.ons.dz/,fetched,,scripts/.workroot/study/opendatause/cache/DZA/1.txt,448,html,ONS
+2,https://dgpp.mf.gov.dz/en/social-indicators/,unfetchable,ConnectTimeout; no usable Wayback capture,,0,,
+3,https://www.oilmines.gov.dz/?article=bilan-energetique-national-du-secteur,fetched,,scripts/.workroot/study/opendatause/cache/DZA/3.txt,390,html,الجمهورية الجزائرية الديمقراطية الشعبية
+4,https://tahat.cnese.dz/en/data-visualiser,unfetchable,HTTP 500; no usable Wayback capture,,0,,
+5,https://algeriatech.news/open-data-government-portals-algeria/,fetched,,scripts/.workroot/study/opendatause/cache/DZA/5.txt,1263,html,Algeria's Open Data Deficit: What Government Data Is
+6,https://www.jeuneafrique.com/1413241/politique/en-algerie-black-out-sur-les-donnees-socio-economiques/,fetched,,scripts/.workroot/study/opendatause/cache/DZA/6.txt,397,html,"En Algérie, black-out total sur les données socio-économiques"
+7,https://doi.org/10.13140/rg.2.2.27128.35846,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+8,https://odin.opendatawatch.com/country-profiles/DZA?year=2024,unfetchable,empty extraction; no usable Wayback capture,,0,,

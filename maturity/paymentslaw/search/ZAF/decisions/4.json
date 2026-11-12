@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing;reach",
+ "fact": "The Reserve Bank's Directive No. 2 of 2024, gazetted on 15 November 2024 under the National Payment System Act, bars any person issuing EFT credit payment instructions for a payer unless registered with the SARB or exempted.",
+ "title": "Directive in respect of issuing of electronic funds transfer credit payment instructions on behalf of the payer in the national payment system",
+ "publisher": "South African Reserve Bank (Government Gazette 51556)",
+ "published": "2024-11-15",
+ "date_source": "source",
+ "why_not": ""
+}

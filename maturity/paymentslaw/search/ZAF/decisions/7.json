@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "reach",
+ "fact": "The Reserve Bank's public register of 13 October 2026 lists non-bank entities registered as third party payment providers through sponsoring banks for services such as EFT credit, debit card and rapid payments.",
+ "title": "TPPP Public Register",
+ "publisher": "South African Reserve Bank",
+ "published": "2026-10-13",
+ "date_source": "proxy",
+ "why_not": ""
+}

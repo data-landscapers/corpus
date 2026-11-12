@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://censusinfo.capmas.gov.eg/Metadata-ar-v4.2/index.php/catalog/1918/overview,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+2,https://censusinfo.capmas.gov.eg/metadata-ar-v4.2/index.php/catalog/1919/overview,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+3,https://www.capmas.gov.eg/about/laws-frameworks,fetched,,scripts/.workroot/study/opendatause/cache/EGY/3.txt,9,html,Ø§ÙØ¬ÙØ§Ø² Ø§ÙÙ Ø±ÙØ²Ù ÙÙØªØ¹Ø¨Ø¦Ø© Ø§ÙØ¹Ø§Ù Ø© ÙØ§ÙØ¥ØØµØ§Ø¡
+4,https://www.capmas.gov.eg/servicestools/10,fetched,,scripts/.workroot/study/opendatause/cache/EGY/4.txt,9,html,Ø§ÙØ¬ÙØ§Ø² Ø§ÙÙ Ø±ÙØ²Ù ÙÙØªØ¹Ø¨Ø¦Ø© Ø§ÙØ¹Ø§Ù Ø© ÙØ§ÙØ¥ØØµØ§Ø¡
+5,https://egypt.opendataforafrica.org/data/,fetched,,scripts/.workroot/study/opendatause/cache/EGY/5.txt,41,html,Data Catalog - Egypt Data Portal
+6,https://egypt.opendataforafrica.org/legal/termsofuse,fetched,,scripts/.workroot/study/opendatause/cache/EGY/6.txt,41,html,Egypt Data Portal - Terms of use
+7,http://www.minia.gov.eg/open-data-policy.aspx,fetched,,scripts/.workroot/study/opendatause/cache/EGY/7.txt,98,html,الموقع الرسمي لمحافظة المنيا
+8,https://mped.gov.eg/Analytics?lang=en,fetched,,scripts/.workroot/study/opendatause/cache/EGY/8.txt,218,html,Ministry of Planning and Economic Development

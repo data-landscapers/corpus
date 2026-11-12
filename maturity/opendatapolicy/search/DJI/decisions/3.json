@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "In the World Bank GovTech data for 2022, Djibouti did not maintain an open government portal but did have an open data portal.",
+ "title": "Djibouti - Digital Trade Acceleration Initiative",
+ "publisher": "Digital Cooperation Organization",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

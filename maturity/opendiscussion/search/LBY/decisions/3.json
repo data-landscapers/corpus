@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "discussion",
+ "aspect": "connection;penalty",
+ "fact": "Freedom House reported a localized internet shutdown of about 12 hours in Tripoli in May 2025 amid antigovernment demonstrations, and continued arbitrary detention of journalists, bloggers and activists for their online content.",
+ "title": "Freedom on the Net 2025 - Libya",
+ "publisher": "Freedom House",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

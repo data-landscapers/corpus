@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The World Bank's Country Economic Memorandum of December 2024 states that the Finance Ministry's website carries a summary table of state financial operations (TOFE) for 2015 to 2020, while quarterly and annual budget execution data are not accessible to the public.",
+ "title": "Guinea Ecuatorial: Construyendo las bases para un crecimiento renovado, más diversificado e inclusivo. Memorando Económico del País",
+ "publisher": "Banco Mundial",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

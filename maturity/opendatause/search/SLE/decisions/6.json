@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "Statistics Sierra Leone offers the SLIHS 2018 survey datasets for download in Stata and CSV formats on its website.",
+ "title": "Sierra Leone Integrated Household Survey (SLIHS)",
+ "publisher": "Statistics Sierra Leone",
+ "published": "2018",
+ "date_source": "proxy",
+ "why_not": ""
+}

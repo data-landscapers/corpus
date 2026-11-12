@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://anp.gw/index.php/dados-abertos/,fetched,,scripts/.workroot/study/opendatause/cache/GNB/1.txt,165,html,Dados Abertos - Assembleia Nacional Popular
+2,https://www.parlamento.gw/transparencia/dados-abertos,held,held as raw/2015/2015-04-01-anp-guine-bissau-portal-dados-abertos.md,,0,,
+3,https://guinebissau.opendataforafrica.org/data?lang=en,fetched,,scripts/.workroot/study/opendatause/cache/GNB/3.txt,41,html,Data Catalog - Guinea-Bissau Data Portal
+4,https://www.inasa.gw/anuario-estatistico-2022/,unfetchable,ConnectTimeout; Wayback ConnectionError,,0,,
+5,https://internationalbudget.org/sites/default/files/2024-05/guinea-bissau-202405131333.pdf,fetched,,scripts/.workroot/study/opendatause/cache/GNB/5.txt,70173,pdf,Country Questionnaire: Guinea-Bissau
+6,https://www.inasa.gw/be-se-2022-24-2/,unfetchable,ConnectTimeout; Wayback ConnectionError,,0,,
+7,http://stat-guinebissau.com/Menu_principal/Pubica%C3%A7%C3%B5es/relatorios.html,fetched,,scripts/.workroot/study/opendatause/cache/GNB/7.txt,1423,html,Pagina estatisticas
+8,https://www.paloptl-ebudgets.org/static/reports/results_guinea-bissau_2021_pt.3f297cbcd414.pdf,fetched,,scripts/.workroot/study/opendatause/cache/GNB/8.txt,1091,pdf,

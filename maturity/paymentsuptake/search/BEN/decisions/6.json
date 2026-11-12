@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share",
+ "fact": "BCEAO reports that in 2024 Benin's strict banking rate, the share of adults with an account at a bank, post office, national savings fund or treasury, was 38.2%, and its broad rate including microfinance accounts was 89.3%.",
+ "title": "Rapport sur la situation de l'inclusion financière dans l'UEMOA au cours de l'année 2024",
+ "publisher": "BCEAO",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

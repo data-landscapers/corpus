@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share;target;payments",
+ "fact": "The Global Findex Database 2025 reports that in 2024, 81% of Ghanaian adults had an account and 80% made or received a digital payment.",
+ "title": "The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy",
+ "publisher": "World Bank",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

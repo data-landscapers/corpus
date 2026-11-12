@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "discussion",
+ "aspect": "connection",
+ "fact": "In January 2024 authorities in Comoros cut access to the internet after protests against the re-election of President Azali Assoumani, with some sites inaccessible and WhatsApp calls blocked.",
+ "title": "Comoros election: Internet cut after protests",
+ "publisher": "BBC News",
+ "published": "2024-01-19",
+ "date_source": "source",
+ "why_not": ""
+}

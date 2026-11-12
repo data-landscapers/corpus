@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share",
+ "fact": "The Banco de Moçambique national financial literacy survey, fielded March 2022 to February 2023 with 10,988 respondents aged 15 and over, found 48% of adults have a bank account and about 83% have a mobile money or e-money account.",
+ "title": "Resultados do Inquérito sobre Literacia Financeira em Moçambique",
+ "publisher": "Banco de Moçambique",
+ "published": "2023-10",
+ "date_source": "source",
+ "why_not": ""
+}

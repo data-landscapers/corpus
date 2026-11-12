@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Department of Forestry, Fisheries and the Environment offers free downloadable geospatial data for which it is custodian, including 2022 national land cover data published May 2024.",
+ "title": "Environmental Geographic Information Systems (EGIS)",
+ "publisher": "Department of Forestry, Fisheries and the Environment",
+ "published": "2026-05-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

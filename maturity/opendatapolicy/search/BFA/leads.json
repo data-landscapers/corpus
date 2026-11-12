@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.insd.bf/fr/node/2169",
+  "title": "Diffusion des données ouvertes : le Burkina migre vers la version 2.0 de l'ODP",
+  "publisher": "INSD",
+  "published": "2025-02-24",
+  "sub_indicator": "policy",
+  "why": "ODP 2.0 open data portal migration training"
+ },
+ {
+  "url": "https://www.insd.bf/fr/node/1995",
+  "title": "ODP : une session pour améliorer le score ODIN du Burkina Faso",
+  "publisher": "INSD",
+  "published": "2024-05-06",
+  "sub_indicator": "policy",
+  "why": "portal running; ODIN indicators published"
+ },
+ {
+  "url": "https://www.insd.bf/fr/node/1979",
+  "title": "ODP : les données de l'annuaire 2022 accessibles",
+  "publisher": "INSD",
+  "published": "2024-04-12",
+  "sub_indicator": "policy",
+  "why": "data published on ODP"
+ },
+ {
+  "url": "https://www.insd.bf/index.php/fr/node/1754",
+  "title": "Diffusion des données statistiques : les indicateurs régionaux bientôt accessibles sur le portail des données ouvertes",
+  "publisher": "INSD",
+  "published": "2023-05-22",
+  "sub_indicator": "policy",
+  "why": "data published on ODP"
+ },
+ {
+  "url": "https://www.fonction-publique.gov.bf/accueil/actualites/details?cHash=e34fd566a9dc66be6b9f1193b9d38956&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1742",
+  "title": "Partenariat pour un gouvernement ouvert : Le quatrième plan d'action national 2023-2025 en cours de validation",
+  "publisher": "Ministère de la Fonction publique",
+  "published": "2023-12-21",
+  "sub_indicator": "policy",
+  "why": "OGP plan under validation"
+ },
+ {
+  "url": "https://www.finances.gov.bf/fileadmin/user_upload/Rapport_ITIE-BF_2020_version_finale__09_06_22_.pdf",
+  "title": "Rapport ITIE Burkina Faso 2020",
+  "publisher": "ITIE Burkina Faso",
+  "published": "2022",
+  "sub_indicator": "policy",
+  "why": "states Burkina adopted an open data policy; data.gov.bf portal"
+ },
+ {
+  "url": "https://www.openburkina.bf/body/trois-jours-datelier-pour-elaborer-une-strategie-douverture-des-donnees-au-burkina-faso/",
+  "title": "Trois jours d'atelier pour élaborer une stratégie d'ouverture des données au Burkina Faso",
+  "publisher": "Open Burkina",
+  "published": "2019-02-21",
+  "sub_indicator": "policy",
+  "why": "open data strategy drafted at workshop"
+ },
+ {
+  "url": "https://www.expertisefrance.fr/sites/expertise/files/documents/20182/706401/Liste%2Bdes%2Bjeux%2Bde%2Bdonn%C3%A9es%2Bpubli%C3%A9s%2Bet%2Bliens.pdf/910b80f4-2a01-44d4-a17a-845abe1a1fbd.pdf",
+  "title": "Annexe 1 Liste des jeux de données publiés",
+  "publisher": "Expertise France",
+  "published": "2019",
+  "sub_indicator": "policy",
+  "why": "ministries publishing on data.gov.bf"
+ }
+]

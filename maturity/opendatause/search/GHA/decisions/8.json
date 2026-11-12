@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access;breadth",
+ "fact": "As of January 2022 the Ghana open data portal held 315 datasets from 22 ministries and agencies, with almost all published before the 2021-2023 action plan period.",
+ "title": "Publishing Open Data on Public Service Delivery (GH0041)",
+ "publisher": "Open Government Partnership, Independent Reporting Mechanism",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

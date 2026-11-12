@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "The Ministère des pêches, de l'aquaculture et Economie Maritime had datasets (fisheries statistics yearbook 2019, catch series) created on openAFRICA on 9 March 2023 and updated on 22 March 2023, downloadable as CSV.",
+ "title": "Ministère des pêches, de l'aquaculture et Economie Maritime (MPAEM)",
+ "publisher": "openAFRICA",
+ "published": "2023-03-22",
+ "date_source": "source",
+ "why_not": ""
+}

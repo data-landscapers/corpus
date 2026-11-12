@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share",
+ "fact": "The BEAC baseline of financial inclusion indicators for the Central African Republic for 2021 puts the overall rate of access to financial services at 9%, strict banking at 6% and the financial inclusion rate at 4%.",
+ "title": "Indicateurs d'Inclusion Financière_Centrafrique (Année 2021)",
+ "publisher": "Banque des États de l'Afrique centrale",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

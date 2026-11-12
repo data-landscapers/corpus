@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing;use",
+ "fact": "The IRM found Ghana's National Data Sharing Policy still in draft since 2019 and, as of January 2022, an open data portal holding 315 datasets from 22 ministries and agencies.",
+ "title": "Publishing Open Data on Public Service Delivery (GH0041)",
+ "publisher": "Open Government Partnership, Independent Reporting Mechanism",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "uptake",
+ "aspect": "",
+ "fact": "",
+ "title": "Data360 Economy Snapshot: Central African Republic",
+ "publisher": "World Bank Group",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "no-development: shows no 2024 account reading and only the 2017 digital payment figure, older than the three-year window"
+}

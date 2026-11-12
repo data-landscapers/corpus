@@ -1,0 +1,9 @@
+[
+{"url":"https://www.opengovpartnership.org/wp-content/uploads/2026/07/Seychelles_Results-Report_2023%E2%80%932025_EN.pdf","title":"Independent Reporting Mechanism: Seychelles Results Report 2023-2025","publisher":"Open Government Partnership","published":"2026-07","sub_indicator":"use","why":"Q2/Q4: SFA released data and FIMS public database"},
+{"url":"https://www.nbs.gov.sc/","title":"National Bureau of Statistics Seychelles","publisher":"National Bureau of Statistics","published":"2026-11-05","sub_indicator":"use","why":"Q2: NBS publishes XLSX time series for download"},
+{"url":"https://www.nbs.gov.sc/downloads/38-economic-statistics/40-annual-national-accounts","title":"Annual National Accounts","publisher":"National Bureau of Statistics","published":"2025-12-31","sub_indicator":"use","why":"Q2: downloadable statistics"},
+{"url":"https://www.cbs.sc/Statistics/StatisticsData.html","title":"Central Bank of Seychelles | Statistics Data","publisher":"Central Bank of Seychelles","published":"","sub_indicator":"use","why":"Q2/Q4: second public body publishing data"},
+{"url":"https://www.opengovpartnership.org/wp-content/uploads/2020/12/Seychelles_Design_Report_2019-2021.pdf","title":"IRM Seychelles Design Report 2019-2021","publisher":"Open Government Partnership","published":"2020-12","sub_indicator":"use","why":"Q2: MDAs publish some data online"},
+{"url":"https://www.nbs.gov.sc/statistics/merchandise-trade","title":"Merchandise Trade","publisher":"National Bureau of Statistics","published":"2023-04-23","sub_indicator":"use","why":"Q2: monthly Excel series published"},
+{"url":"https://corpus.data-landscapers.io/reports/SYC/SYC-status-2026-10-24.pdf","title":"Seychelles: status report","publisher":"Data Landscapers","published":"2026-10-24","sub_indicator":"use","why":"summary of open data state"}
+]

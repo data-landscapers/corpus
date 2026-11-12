@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://microdata.worldbank.org/catalog/7875/",
+  "title": "The Global Findex Database 2025: Botswana",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "uptake",
+  "why": "Findex 2025 account ownership"
+ },
+ {
+  "url": "https://finobservatory.org/inclusion/BWA",
+  "title": "Botswana Financial Inclusion",
+  "publisher": "FinObservatory",
+  "published": "",
+  "sub_indicator": "uptake",
+  "why": "Findex 2024 account 61.4%, digital payment 56.9%"
+ },
+ {
+  "url": "https://finmark.org.za/Publications/2024_FinScope_Consumer_Botswana.pdf",
+  "title": "FinScope Botswana 2024 Consumer Survey",
+  "publisher": "FinMark Trust",
+  "published": "2024",
+  "sub_indicator": "uptake",
+  "why": "Financial inclusion 94%, mobile money 74%"
+ },
+ {
+  "url": "https://policycommons.net/artifacts/59869204/finscope-consumer-survey-botswana-2024-report/60767269/",
+  "title": "FinScope Consumer Survey Botswana 2024 Report",
+  "publisher": "Policy Commons",
+  "published": "2025-02-01",
+  "sub_indicator": "uptake",
+  "why": "Formal inclusion 1.43 million adults"
+ },
+ {
+  "url": "https://invokely.ai/en/digital-payment-participation-adults/botswana",
+  "title": "Made or received a digital payment, adults in Botswana",
+  "publisher": "Invokely",
+  "published": "",
+  "sub_indicator": "uptake",
+  "why": "Digital payment 56.95% in 2024"
+ },
+ {
+  "url": "https://invokely.ai/en/account-ownership-adults/botswana",
+  "title": "Account ownership, adults aged 15 and over in Botswana",
+  "publisher": "Invokely",
+  "published": "",
+  "sub_indicator": "uptake",
+  "why": "Account ownership 61.44% in 2024"
+ },
+ {
+  "url": "https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/State_of_ICTs%2C_2026_%28v2.pdf",
+  "title": "State of ICTs, 2026",
+  "publisher": "BOCRA",
+  "published": "2026",
+  "sub_indicator": "uptake",
+  "why": "Mobile money subscriptions"
+ },
+ {
+  "url": "https://www.bankofbotswana.bw/sites/default/files/publications/Annual%20Report%202025_0.pdf",
+  "title": "Annual Report 2025",
+  "publisher": "Bank of Botswana",
+  "published": "2026",
+  "sub_indicator": "uptake",
+  "why": "Agents and EPS providers"
+ }
+]

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.fao.org/in-action/agrisurvey/news/news-detail/mali-releases-2023-24-agricultural-data-under-the-50x2030-initiative/en,fetched,,scripts/.workroot/study/opendatause/cache/MLI/1.txt,494,html,News-detail
+2,https://www.instat-mali.org/fr/publications/statistiques-du-commerce-exterieur,fetched,,scripts/.workroot/study/opendatause/cache/MLI/2.txt,865,html,STATISTIQUES DU COMMERCE EXTÉRIEUR
+3,https://instat-mali.org/fr/publications/indice-des-materiaux-et-produits-de-construction-imc,fetched,,scripts/.workroot/study/opendatause/cache/MLI/3.txt,806,html,INDICE DES MATERIAUX ET PRODUITS DE CONSTRUCTION (IMC)
+4,https://eiti.org/countries/mali,fetched,,scripts/.workroot/study/opendatause/cache/MLI/4.txt,1016,html,Mali
+5,https://www.instat-mali.org/laravel-filemanager/files/shares/doc/Conditions%20d'utilisation.pdf,fetched,,scripts/.workroot/study/opendatause/cache/MLI/5.txt,926,pdf,
+6,https://mali.opendataforafrica.org/tejrcyg/odin-mali,fetched,,scripts/.workroot/study/opendatause/cache/MLI/6.txt,41,html,ODIN-Mali - Mali Data Portal
+7,https://db.dnds.ml/,fetched,,scripts/.workroot/study/opendatause/cache/MLI/7.txt,59,html,Plateforme DNDS / DNPSES
+8,https://aiccra.cgiar.org/events/launch-agdata-hub-mali,fetched,,scripts/.workroot/study/opendatause/cache/MLI/8.txt,351,html,Launch: AgData Hub in Mali

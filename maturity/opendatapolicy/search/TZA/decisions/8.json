@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "The Public Procurement Regulatory Authority publishes daily open contracting data (Feb 2022-Feb 2026) on the NeST portal under CC BY-SA 4.0 under a publication policy.",
+ "title": "Tanzania: Public Procurement Regulatory Authority (PPRA)",
+ "publisher": "Open Contracting Partnership Data Registry",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

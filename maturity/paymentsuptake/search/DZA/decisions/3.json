@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share;payments",
+ "fact": "Citing the Global Findex 2025, the paper says financial inclusion in Algeria stands at 35%, against a world average of 79%, and 13% of adults made or received digital payments.",
+ "title": "Selon Global Findex 2025, le numérique ouvre de nouvelles perspectives pour la finance en Algérie",
+ "publisher": "La Voix de l'Algérie",
+ "published": "2025-08-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The NBS microdata catalog, updated to 2024, makes national micro-datasets available as public use files under a Creative Commons CC-BY (Attribution-only) licence.",
+ "title": "Tanzania National Bureau of Statistics Microdata Catalog 1988-",
+ "publisher": "DataFirst, University of Cape Town",
+ "published": "2024-10-30",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 12 April 2024 the INSD updated the open data portal (ODP) to make the whole 2022 national statistical yearbook available in reusable formats.",
+ "title": "ODP : les données de l’annuaire 2022 accessibles",
+ "publisher": "INSD",
+ "published": "2024-04-12",
+ "date_source": "source",
+ "why_not": ""
+}

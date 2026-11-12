@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://fr.le360.ma/economie/banques-398-millions-de-comptes-ouverts-et-le-taux-de-bancarisation-grimpe-a-62-en-2025_45JYSMLPBJE3LKMBDFTNP4TOOA/",
+  "title": "Banques: 39,8 millions de comptes ouverts et le taux de bancarisation grimpe à 62% en 2025",
+  "publisher": "le360",
+  "published": "2026-07-06",
+  "sub_indicator": "uptake",
+  "why": "bank account holding rate 62% 2025"
+ },
+ {
+  "url": "https://lematin.ma/economie/plus-de-15-millions-de-marocains-adultes-sans-compte-bancaire/291772",
+  "title": "Plus de 15 millions de Marocains adultes sans compte bancaire !",
+  "publisher": "Le Matin",
+  "published": "2025-07-17",
+  "sub_indicator": "uptake",
+  "why": "Findex 2025: 44% account, 32% digital payment"
+ },
+ {
+  "url": "https://fr.expresstv.ma/2025/07/banque-mondiale-linclusion-financiere-au-maroc-ne-suit-pas-le-rythme-de-la-vague-numerique-malgre-laugmentation-de-lutilisation-des-telephones-et-dinternet/",
+  "title": "Banque mondiale : L'inclusion financière au Maroc ne suit pas le rythme de la vague numérique",
+  "publisher": "Express TV",
+  "published": "2025-07-17",
+  "sub_indicator": "uptake",
+  "why": "Findex 2025 44%"
+ },
+ {
+  "url": "https://en.walaw.press/country/transparency/QWSP/articles/financial_exclusion_remains_high_in_morocco_despite_digital_progress/GQXXMWLMMFRS",
+  "title": "Financial exclusion remains high in Morocco despite digital progress",
+  "publisher": "Walaw",
+  "published": "2025-07-18",
+  "sub_indicator": "uptake",
+  "why": "Findex 2025 44%"
+ },
+ {
+  "url": "https://www.leconomiste.com/1138209-inclusion-financiere-des-chiffres-en-hausse-mais-un-fosse-combler/",
+  "title": "Inclusion financière: Des chiffres en hausse, mais un fossé à combler",
+  "publisher": "L'Economiste",
+  "published": "2025-07-09",
+  "sub_indicator": "uptake",
+  "why": "bank account holding 58% end 2024"
+ },
+ {
+  "url": "https://microdata.worldbank.org/catalog/7949",
+  "title": "Morocco - The Global Findex Database 2025",
+  "publisher": "World Bank Microdata Library",
+  "published": "2025-10-01",
+  "sub_indicator": "uptake",
+  "why": "Findex 2025 Morocco survey record"
+ },
+ {
+  "url": "https://www.bkam.ma/content/download/844040/9139542/Rapport%20annuel%20sur%20l'Inclusion%20financie%CC%80re%202024.pdf",
+  "title": "Rapport annuel sur l'inclusion financière 2024",
+  "publisher": "Bank Al-Maghrib",
+  "published": "2025",
+  "sub_indicator": "uptake",
+  "why": "Findex 2024: 44% adults account"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/145df06f1b02813f508616d49c7d37d3-0050012026/original/Findex-Note-Arab-World.pdf",
+  "title": "Digital Connectivity and Financial Inclusion in Arab Countries",
+  "publisher": "World Bank",
+  "published": "2026",
+  "sub_indicator": "uptake",
+  "why": "Morocco 32% digital payment"
+ }
+]

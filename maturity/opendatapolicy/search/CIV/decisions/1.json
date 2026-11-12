@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "A 5 February 2026 panel reported that data.gouv.ci is an operational government data-sharing portal offering data from economy, health, education, energy, security and employment.",
+ "title": "Côte d’Ivoire / Faut-il une agence pour organiser et valoriser les données ?",
+ "publisher": "Digital Mag Côte d'Ivoire",
+ "published": "2026-02-27",
+ "date_source": "source",
+ "why_not": ""
+}

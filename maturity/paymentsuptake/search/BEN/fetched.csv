@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.bceao.int/sites/default/files/2026-10/Tableau%20de%20bord%20de%20l%27inclusion%20financi%C3%A8re%20dans%20l%27UEMOA-2025.pdf,held,held as raw/2026/2026-10-20-xwa-bceao-tableau-de-bord-inclusion-financiere-uemoa-2025.md,,0,,
+2,https://www.ezo.app/blog/2025-global-findex-financial-inclusion-and-mobile-tech-in-sub-saharan-africa,fetched,,scripts/.workroot/study/paymentsuptake/cache/BEN/2.txt,1130,html,2025 Global Findex: Financial Inclusion and Mobile Tech in Sub-Saharan Africa
+3,https://microdata.worldbank.org/catalog/7872,fetched,,scripts/.workroot/study/paymentsuptake/cache/BEN/3.txt,1656,html,The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy
+4,https://digitalfinance.worldbank.org/country/benin,fetched,,scripts/.workroot/study/paymentsuptake/cache/BEN/4.txt,1439,html,Global snapshot of indicators and enabling regulations
+5,https://www.worldbank.org/en/publication/globalfindex,rejected,rejected 2026-09-07: not-a-document,,0,,
+6,https://www.bceao.int/sites/default/files/2026-06/Rapport_Annuel_Inclusion_Financiere_2024.pdf,fetched,,scripts/.workroot/study/paymentsuptake/cache/BEN/6.txt,11308,pdf,
+7,https://datos.bancomundial.org/indicador/FX.OWN.TOTL.ZS?locations=BJ,fetched,,scripts/.workroot/study/paymentsuptake/cache/BEN/7.txt,184,html,World Bank Open Data

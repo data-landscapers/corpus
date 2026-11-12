@@ -1,0 +1,10 @@
+[
+{"url":"https://www.stat-niger.org/?page_id=4877","title":"Licence de données ouvertes","publisher":"Institut National de la Statistique du Niger","published":"2024-10-30","sub_indicator":"use","why":"Open licence on INS data"},
+{"url":"https://www.fao.org/in-action/agrisurvey/news/news-detail/first-data-release-under-50x2030-in-niger--the-2024-agricultural-loss-survey-is-now-online/en","title":"First data release under 50x2030 in Niger","publisher":"FAO","published":"2025-10-10","sub_indicator":"use","why":"Second public body (Ministry of Agriculture directorate) releasing public-use data"},
+{"url":"https://pnin-niger.org/web/?p=3641","title":"La Plateforme Nationale d'Information pour la Nutrition lance son portail web rénové","publisher":"PNIN Niger","published":"2025-09-18","sub_indicator":"use","why":"Portal with download space for nutrition data"},
+{"url":"https://www.stat-niger.org/?p=3987","title":"Le Niger adopte le SGDD-a","publisher":"Institut National de la Statistique du Niger","published":"2023-07-18","sub_indicator":"use","why":"Machine-readable data portal by INS with Ministry of Finance and BCEAO"},
+{"url":"https://centif.ne/rapports","title":"Rapports Trimestriels/Annuels","publisher":"CENTIF Niger","published":"","sub_indicator":"use","why":"Public body download page of statistics"},
+{"url":"https://simaniger.net/ressources/open-data","title":"Open Data / Téléchargements","publisher":"SIMA Niger","published":"","sub_indicator":"use","why":"Downloadable price series with reuse terms"},
+{"url":"http://ins.ne/","title":"Institut National de la Statistique du Niger","publisher":"INS Niger","published":"","sub_indicator":"use","why":"Open Data Portal link and sectoral data from ministries"},
+{"url":"https://www.stat-niger.org/?page_id=500","title":"Publications sectorielles","publisher":"Institut National de la Statistique du Niger","published":"","sub_indicator":"use","why":"Ministries' statistical yearbooks published by INS, many bodies"}
+]

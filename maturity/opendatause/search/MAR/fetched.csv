@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://data.gov.ma/fr/actualites/publication-automatiques-des-donnees-des-apis-du-hcp,fetched,,scripts/.workroot/study/opendatause/cache/MAR/1.txt,249,html,Publication automatiques des données via des APIs du HCP
+2,https://www.maroc24.com/fr/105055-hackathon-open-data-le-maroc-est-pleinement-conscient-de-limportance-de-lopen-data-mme-seghrouchni/,fetched,,scripts/.workroot/study/opendatause/cache/MAR/2.txt,534,html,Hackathon Open Data: Le Maroc est pleinement conscient de l'importance de l'Open Data (Mme Seghrouchni)
+3,https://doi.org/10.5281/zenodo.10143830,fetched,,scripts/.workroot/study/opendatause/cache/MAR/3.txt,276,html,"Unlocking the Potential of Open Data Morocco: Implementation, Use, Observations and Perspectives"
+4,https://odin.opendatawatch.com/country-profiles/MAR?year=2024,unfetchable,empty extraction; no usable Wayback capture,,0,,
+5,https://data.gov.ma/fr/la-licence,fetched,,scripts/.workroot/study/opendatause/cache/MAR/5.txt,305,html,La licence
+6,https://data.gov.ma/fr/node/13,fetched,,scripts/.workroot/study/opendatause/cache/MAR/6.txt,1821,html,Conditions Générales d’Utilisation et Mentions Légales
+7,https://data.gov.ma/data/organization/,fetched,,scripts/.workroot/study/opendatause/cache/MAR/7.txt,276,html,Organisations - Portail Open Data
+8,https://www.hcp.ma/Bases-de-donnees_r631.html,fetched,,scripts/.workroot/study/opendatause/cache/MAR/8.txt,148,html,Les bases de données du Haut Commissariat aux compte du Maroc

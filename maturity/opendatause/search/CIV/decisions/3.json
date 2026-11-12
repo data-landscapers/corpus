@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The National Statistics Agency reports that in the 2024/2025 Open Data Inventory it rose from 20 to 62 out of 100 by centralising official statistics indicators on the national Open Data Portal.",
+ "title": "A feat achieved through the use of SDMX",
+ "publisher": "National Statistics Agency of Côte d'Ivoire (SDMX Global Conference 2025)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

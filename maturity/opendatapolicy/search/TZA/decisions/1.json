@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing",
+ "fact": "A peer-reviewed article of April 2026 says Tanzania lacks a formal national open government data policy framework (while also stating a National Open Data Policy was adopted in 2017).",
+ "title": "Open government data as a driver of climate resilience and digital transformation in Tanzania agriculture",
+ "publisher": "Frontiers in Climate",
+ "published": "2026-04-02",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 24 November 2022 Niger's statistics institute launched an online migration data platform, with data available to the general public.",
+ "title": "Niamey : L'INS lance la plateforme des données migratoires",
+ "publisher": "Agence Nigérienne de Presse",
+ "published": "2022-11-24",
+ "date_source": "source",
+ "why_not": ""
+}

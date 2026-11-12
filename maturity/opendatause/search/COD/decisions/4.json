@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The INS statistical portal offers 15 official indicator series to explore and export, with updates dated up to 31 December 2025 and 1 February 2026.",
+ "title": "Portail Statistique",
+ "publisher": "Institut National de la Statistique",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

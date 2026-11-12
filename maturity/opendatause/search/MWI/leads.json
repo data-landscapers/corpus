@@ -1,0 +1,10 @@
+[
+{"url":"https://ppda.mw/newsdetail/88","title":"PPDA ORIENTS STAFF ON OPEN CONTRACTING DATA STANDARD","publisher":"PPDA","published":"2026-09-08","sub_indicator":"use","why":"Procurement open data portal being launched"},
+{"url":"https://dms.hiv.health.gov.mw/en/dataset/","title":"Datasets - The Document Management System","publisher":"Department of HIV and AIDS, Ministry of Health","published":"","sub_indicator":"use","why":"Downloadable CSV/XLSX datasets by a public body"},
+{"url":"https://www.rbm.mw/statistics/economicdata/Home","title":"Economic Data - Reserve Bank of Malawi","publisher":"Reserve Bank of Malawi","published":"","sub_indicator":"use","why":"Downloadable economic data from a public body"},
+{"url":"https://mip1dashboard.mw/index.php/dfa-visualizer","title":"MIP-1 data Visualizer","publisher":"National Planning Commission","published":"","sub_indicator":"use","why":"Download any dataset from the data warehouse"},
+{"url":"https://tested.ppda.mw/open-data/","title":"Open Data","publisher":"PPDA","published":"","sub_indicator":"use","why":"Open contracting data from MDAs"},
+{"url":"https://ckan.madiphs.org/tl/plant-health-dataset/weather-observations--rainfall/resource/05df7041-e5b4-41be-b063-c7e621d9c2dd?inner_span=True","title":"Observed Temperature for Malawi","publisher":"MaDiPHS Knowledge Library (DCCMS data)","published":"2024-07-31","sub_indicator":"use","why":"Open licence CC BY-SA on public body data"},
+{"url":"https://www.ogp.gov.mw/index.php/documents/malawi-ogp-national-action-plan-2025-2028/download","title":"Malaŵi National Action Plan for the Open Government Partnership 2025-2028","publisher":"Office of the President and Cabinet","published":"2025","sub_indicator":"use","why":"OCDS portal and public data commitments"},
+{"url":"https://corpus.data-landscapers.io/reports/MWI/MWI-status-2026-09-25.pdf","title":"Malawi: status report","publisher":"Data Landscapers","published":"2026-09-25","sub_indicator":"use","why":"aggregator, expected rejected"}
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing;use",
+ "fact": "The Ministry of Communications and Digital Economy's Government Open Data Strategy 2024-2027 states that the country has no legal framework for open data and no government open data portal, with 0 institutions and 0 datasets published at a government portal.",
+ "title": "Government Open Data Strategy 2024 - 2027",
+ "publisher": "Ministry of Communications and Digital Economy, The Gambia",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

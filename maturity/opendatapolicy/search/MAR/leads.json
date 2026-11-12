@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://data.gov.ma/fr/actualites/11eme-reunion-du-comite-de-pilotage-national-open-data",
+  "title": "11ème Réunion du Comité de Pilotage national Open Data",
+  "publisher": "Agence de Développement du Digital / data.gov.ma",
+  "published": "2025-12-23",
+  "sub_indicator": "policy",
+  "why": "Open data action plan 2025 results, portal enriched, ROD/GdD designated in public bodies"
+ },
+ {
+  "url": "https://www.opengovpartnership.org/documents/morocco-action-plan-review-2024-2028/",
+  "title": "Morocco Action Plan Review 2024-2028",
+  "publisher": "Open Government Partnership (IRM)",
+  "published": "2025-05-27",
+  "sub_indicator": "policy",
+  "why": "Third action plan; open data commitment and legal framework status"
+ },
+ {
+  "url": "https://www.opengovpartnership.org/wp-content/uploads/2024/06/Morocco_Action-Plan_2024-2028_Revised_EN.pdf",
+  "title": "Open Government National Action Plan 2024-2028",
+  "publisher": "Government of Morocco / OGP",
+  "published": "2024-06",
+  "sub_indicator": "policy",
+  "why": "Adoption of open data regulatory framework planned to Dec 2025; no specific legal framework yet"
+ },
+ {
+  "url": "https://data.gov.ma/index%2Ephp/fr/actualites/organisation-dune-rencontre-de-concertation-avec-les-acteurs-de-la-societe-civile-au",
+  "title": "Organisation d'une rencontre de concertation avec les acteurs de la société civile au sujet de l'Open Data",
+  "publisher": "Agence de Développement du Digital / data.gov.ma",
+  "published": "2024-07-26",
+  "sub_indicator": "policy",
+  "why": "Open Data action plan 2025 consultation"
+ },
+ {
+  "url": "https://www.opengovpartnership.org/members/morocco/commitments/MO0034/",
+  "title": "Strengthening Open Data Practices (MO0034)",
+  "publisher": "Open Government Partnership (IRM)",
+  "published": "2024",
+  "sub_indicator": "policy",
+  "why": "Draft decree on open data; portal over 500 datasets by end 2023"
+ },
+ {
+  "url": "https://www.data.gov.ma/fr/actualites/6eme-reunion-du-comite-de-pilotage-national-open-data",
+  "title": "6ème Réunion du Comité de Pilotage national Open Data",
+  "publisher": "Agence de Développement du Digital / data.gov.ma",
+  "published": "2022-12-16",
+  "sub_indicator": "policy",
+  "why": "Draft open data decree presented"
+ },
+ {
+  "url": "https://data.gov.ma/data/organization/",
+  "title": "Organisations - Portail Open Data",
+  "publisher": "Agence de Développement du Digital / data.gov.ma",
+  "published": "",
+  "sub_indicator": "policy",
+  "why": "50 producers listed with dataset counts"
+ },
+ {
+  "url": "https://datafromgov.com/countries/ma",
+  "title": "Morocco: open government data by subject and publisher",
+  "publisher": "datafromgov.com",
+  "published": "",
+  "sub_indicator": "policy",
+  "why": "62 bodies publishing on national portal"
+ }
+]

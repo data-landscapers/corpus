@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "discussion",
+ "aspect": "connection",
+ "fact": "Freedom House's Freedom on the Net 2025, covering June 2024 to May 2025, records no restricted networks and no blocked social media or websites in South Africa.",
+ "title": "South Africa: Freedom on the Net 2025 Country Report",
+ "publisher": "Freedom House",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

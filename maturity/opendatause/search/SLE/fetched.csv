@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.statistics.sl/images/2023_Stats_SL_Proactive_Publication_Scheme.pdf,held,held as raw/2024/2024-02-06-sle-statssl-proactive-publication-scheme.md,,0,,
+2,https://sierraleone.opendataforafrica.org/gfadqed,fetched,,scripts/.workroot/study/opendatause/cache/SLE/2.txt,41,html,Sierra Leone Data Portal
+3,https://www.statistics.sl/index.php/open-license-agreement.html,fetched,,scripts/.workroot/study/opendatause/cache/SLE/3.txt,458,html,Open Licence Agreement
+4,https://www.statistics.sl/index.php/what-we-offer/open-data-free-datasets.html,fetched,,scripts/.workroot/study/opendatause/cache/SLE/4.txt,356,html,Open data / Free datasets
+5,https://microdata.statistics.sl/index.php/catalog,unfetchable,ConnectTimeout; Wayback ConnectionError,,0,,
+6,https://www.statistics.sl/index.php/sierra-leone-integrated-household-survey-slihs.html,fetched,,scripts/.workroot/study/opendatause/cache/SLE/6.txt,511,html,Sierra Leone Integrated Household Survey 2018 (SLIHS)
+7,https://publicadministration.desa.un.org/sites/default/files/list-of-files/2024/presentation%204%29%20UN-DESA-ADGF-Pretoria-2024.pdf,held,held as raw/2024/2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government.md,,0,,
+8,https://mof.gov.sl/data/,fetched,,scripts/.workroot/study/opendatause/cache/SLE/8.txt,175,html,Data

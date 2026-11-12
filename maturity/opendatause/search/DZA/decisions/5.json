@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access;breadth",
+ "fact": "As of January 2026 Algeria has no central open data portal; ONS, ANDI, ARPCE, customs, the finance ministry and the Banque d'Algérie each publish partial data, mostly as PDF with some ONS Excel tables and no bulk download or API.",
+ "title": "Algeria's Open Data Deficit: What Government Data Is",
+ "publisher": "ALGERIATECH",
+ "published": "2026-01-23",
+ "date_source": "source",
+ "why_not": ""
+}

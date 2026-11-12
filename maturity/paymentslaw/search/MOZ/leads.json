@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.noticiasaominuto.com/mundo/3022990/nova-lei-reforca-supervisao-do-banco-de-mocambique-sobre-pagamentos",
+  "title": "Nova lei reforça supervisão do Banco de Moçambique sobre pagamentos",
+  "publisher": "Lusa / Notícias ao Minuto",
+  "published": "2026-07-17",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: Law 15/2026 in force August, BdM licenses operators"
+ },
+ {
+  "url": "https://www.bancomoc.mz/en/media/highlights/law-no-15-2026-of-2-july-approves-the-national-payment-system-law/",
+  "title": "Law No. 15/2026 of 2 July - Approves the National Payment System Law",
+  "publisher": "Banco de Moçambique",
+  "published": "2026-07-16",
+  "sub_indicator": "law",
+  "why": "Q3: new payments law repeals Law 2/2008"
+ },
+ {
+  "url": "https://www.bancomoc.mz/en/media/highlights/notice-no-2-gbm-2026-of-2-june-establishes-the-rules-for-connection-to-the-single-payments-network-national-switch-and-revokes-notice-no-2-gbm-2015-of-22-april/",
+  "title": "Notice No. 2/GBM/2026 of 2 June - rules for connection to the Single Payments Network (National Switch)",
+  "publisher": "Banco de Moçambique",
+  "published": "2026-06-10",
+  "sub_indicator": "law",
+  "why": "Q5: connection to national switch rules"
+ },
+ {
+  "url": "https://www.oeconomico.com/banco-de-mocambique-da-60-minutos-as-instituicoes-financeiras-para-reportarem-falhas-nos-pagamentos-electronicos/",
+  "title": "Banco De Moçambique Dá 60 Minutos Às Instituições Financeiras Para Reportarem Falhas Nos Pagamentos Electrónicos",
+  "publisher": "O Económico",
+  "published": "2026-06-16",
+  "sub_indicator": "law",
+  "why": "Q5: connection to Rede Única Nacional mandatory incl. mobile financial service providers"
+ },
+ {
+  "url": "https://www.rsm.global/mozambique/pt-pt/news/criacao-do-sistema-de-pagamentos-instantaneos-de-mocambique-spim",
+  "title": "Criação do Sistema de Pagamentos Instantâneos de Moçambique (SPIM)",
+  "publisher": "RSM Mozambique",
+  "published": "2026-03-23",
+  "sub_indicator": "law",
+  "why": "Q5: mandatory participation of e-money institutions"
+ },
+ {
+  "url": "https://bancomoc.mz/media/1bwihts1/aviso-1-gbm-2026.pdf",
+  "title": "Aviso n.º 1/GBM/2026: Cria o Sistema de Pagamentos Instantâneos de Moçambique",
+  "publisher": "Banco de Moçambique / Imprensa Nacional",
+  "published": "2026-02-25",
+  "sub_indicator": "law",
+  "why": "Q5: mandatory SPIM participation for e-money institutions"
+ },
+ {
+  "url": "https://clubofmozambique.com/news/mozambiques-new-national-payments-system-bill-on-its-way-to-parliament/",
+  "title": "Mozambique's new National Payments System bill on its way to Parliament",
+  "publisher": "Club of Mozambique",
+  "published": "2026-02-18",
+  "sub_indicator": "law",
+  "why": "Q2: bill approved by Council of Ministers"
+ },
+ {
+  "url": "https://www.parlamento.mz/?p=15569",
+  "title": "AR aprova Proposta de Lei do Sistema Nacional de Pagamentos",
+  "publisher": "Assembleia da República",
+  "published": "2026-04-14",
+  "sub_indicator": "law",
+  "why": "Q2: parliament approved bill in generality"
+ }
+]

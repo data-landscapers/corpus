@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "An audit published in May 2026 found Togo's opendata.gouv.tg portal, launched in November 2024, held 1,550 datasets from many ministries (INSEED 479), with only 5 added between April 2025 and May 2026.",
+ "title": "Togo open data audit: 1,550 datasets, 18 months, 0 governance? | Gausoft.dev",
+ "publisher": "Gausoft.dev",
+ "published": "2026-05-08",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access;breadth",
+ "fact": "UNECA verified in April 2025 that Tanzania's Integrated Statistical Portal (TISP) is accessible to the public and links the NBS to the data portals of eight ministries and agencies, though only TISP is accessible to users outside government.",
+ "title": "Verification Report-Final, Eastern Africa Regional Statistics Program-for-Results, United Republic of Tanzania, April 2025",
+ "publisher": "UN Economic Commission for Africa",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

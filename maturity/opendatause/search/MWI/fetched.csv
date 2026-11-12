@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ppda.mw/newsdetail/88,fetched,,scripts/.workroot/study/opendatause/cache/MWI/1.txt,344,html,PPDA ORIENTS STAFF ON OPEN CONTRACTING DATA STANDARD
+2,https://dms.hiv.health.gov.mw/en/dataset/,fetched,,scripts/.workroot/study/opendatause/cache/MWI/2.txt,697,html,Datasets
+3,https://www.rbm.mw/statistics/economicdata/Home,fetched,,scripts/.workroot/study/opendatause/cache/MWI/3.txt,687,html,Economic Data
+4,https://mip1dashboard.mw/index.php/dfa-visualizer,fetched,,scripts/.workroot/study/opendatause/cache/MWI/4.txt,222,html,MIP-1 data Visualizer
+5,https://tested.ppda.mw/open-data/,unfetchable,ConnectionError; Wayback ConnectionError,,0,,
+6,https://ckan.madiphs.org/tl/plant-health-dataset/weather-observations--rainfall/resource/05df7041-e5b4-41be-b063-c7e621d9c2dd?inner_span=True,fetched,,scripts/.workroot/study/opendatause/cache/MWI/6.txt,192,html,Weather Observations for Malawi - Observed Temperature for Malawi - MaDiPHS Knowledge Library
+7,https://www.ogp.gov.mw/index.php/documents/malawi-ogp-national-action-plan-2025-2028/download,held,held as raw/2025/2025-06-01-malawi-ogp-national-action-plan-2025-2028.md,,0,,
+8,https://corpus.data-landscapers.io/reports/MWI/MWI-status-2026-09-25.pdf,fetched,,scripts/.workroot/study/opendatause/cache/MWI/8.txt,12039,pdf,Malawi: status report — Data Landscapers

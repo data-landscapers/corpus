@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share",
+ "fact": "The World Bank's Global Findex 2025 regional note puts account ownership among adults in Comoros at around 45 percent in 2024.",
+ "title": "Digital Connectivity and Financial Inclusion in Arab Countries: Data from the Global Findex 2025",
+ "publisher": "World Bank",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

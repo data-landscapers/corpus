@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share",
+ "fact": "A study of Global Findex data 2014-2024 reports bank account ownership in Algeria fell to 35% in 2024.",
+ "title": "Evolution of Financial Inclusion in Algeria: A Global Findex Database Analysis (2014-2024)",
+ "publisher": "Journal of Research in Finance and Accounting",
+ "published": "2026-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing;use",
+ "fact": "As of January 2026 Algeria has no central open data portal and government data sits on ministry sites as static PDFs, and the policy mandate to open data is still missing.",
+ "title": "Algeria's Open Data Deficit: What Government Data Is",
+ "publisher": "ALGERIATECH",
+ "published": "2026-01-23",
+ "date_source": "source",
+ "why_not": ""
+}

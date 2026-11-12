@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share",
+ "fact": "Bank Al-Maghrib's 2024 financial inclusion report states that the Findex 2024 survey finds 44% of Moroccan adults hold a bank or payment account, against 29% in 2017.",
+ "title": "Rapport annuel sur l'inclusion financière 2024",
+ "publisher": "Bank Al-Maghrib",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

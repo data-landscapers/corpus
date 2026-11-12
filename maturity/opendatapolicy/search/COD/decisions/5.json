@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "The ITIE-RDC open data page offers extractive-sector datasets (revenues, mining titles, 280 contracts) for download in CSV, Excel and JSON.",
+ "title": "Données ouvertes ITIE-RDC",
+ "publisher": "ITIE-RDC",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "uptake",
+ "aspect": "share;payments",
+ "fact": "The World Bank's Global Findex 2025 showed 43% of Egyptian adults with an account and 36% having made or received a digital payment.",
+ "title": "البنك الدولى: 43% من البالغين المصريين يمتلكون حسابًا ماليًا رسميًا",
+ "publisher": "البورصة نيوز",
+ "published": "2025-07-21",
+ "date_source": "source",
+ "why_not": ""
+}

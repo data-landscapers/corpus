@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The Central Bank of Libya publishes monthly revenue and expenditure statements for download on its website, the latest listed being for September 2026.",
+ "title": "بيانات الإيراد والإنفاق",
+ "publisher": "مصرف ليبيا المركزي",
+ "published": "2026-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

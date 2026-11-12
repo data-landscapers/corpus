@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "The MICS6 report says the anonymised survey data files are available on the Instituto Nacional de Estatística website and can be downloaded free of charge for legitimate research, with users required to submit their final research to the entities named in the readme file.",
+ "title": "São Tomé e Príncipe / Inquérito aos Indicadores Múltiplos 2019, Relatório final",
+ "publisher": "Instituto Nacional de Estatística e UNICEF",
+ "published": "2020-12",
+ "date_source": "source",
+ "why_not": ""
+}

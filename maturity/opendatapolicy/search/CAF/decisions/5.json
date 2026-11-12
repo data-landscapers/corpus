@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "policy",
+ "aspect": "",
+ "fact": "",
+ "title": "Validation of the Central African Republic",
+ "publisher": "EITI International Secretariat",
+ "published": "2024-10-08",
+ "date_source": "source",
+ "why_not": "off-topic: the open data policy is the CAR EITI's own, for extractives data, not a government open data policy"
+}

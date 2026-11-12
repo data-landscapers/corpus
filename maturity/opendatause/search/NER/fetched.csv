@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.stat-niger.org/?page_id=4877,held,held as raw/2024/2024-10-30-ner-ins-licence-donnees-ouvertes.md,,0,,
+2,https://www.fao.org/in-action/agrisurvey/news/news-detail/first-data-release-under-50x2030-in-niger--the-2024-agricultural-loss-survey-is-now-online/en,fetched,,scripts/.workroot/study/opendatause/cache/NER/2.txt,217,html,News-detail
+3,https://pnin-niger.org/web/?p=3641,fetched,,scripts/.workroot/study/opendatause/cache/NER/3.txt,467,html,LA PLATEFORME NATIONALE D’INFORMATION POUR LA NUTRITION DU NIGER LANCE OFFICIELLEMENT SON PORTAIL WEB RENOVE - PNIN
+4,https://www.stat-niger.org/?p=3987,fetched,,scripts/.workroot/study/opendatause/cache/NER/4.txt,572,html,Le Niger adopte le Système Général de Diffusion des Données amélioré (SGDD-a)
+5,https://centif.ne/rapports,fetched,,scripts/.workroot/study/opendatause/cache/NER/5.txt,330,html,Rapports Trimestriels/Annuels
+6,https://simaniger.net/ressources/open-data,fetched,,scripts/.workroot/study/opendatause/cache/NER/6.txt,163,html,Open Data / Téléchargements
+7,http://ins.ne/,fetched,,scripts/.workroot/study/opendatause/cache/NER/7.txt,1605,html,home_page_072026
+8,https://www.stat-niger.org/?page_id=500,fetched,,scripts/.workroot/study/opendatause/cache/NER/8.txt,1222,html,Publications sectorielles

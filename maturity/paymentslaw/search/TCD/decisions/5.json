@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing;reach",
+ "fact": "Chad has a law on payment services but no payment institutions were registered in the country as of 2021, the World Bank diagnostic reports.",
+ "title": "Digital Economy for Chad Country Diagnostic (Chad DE4A Country Diagnostic)",
+ "publisher": "World Bank Group",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

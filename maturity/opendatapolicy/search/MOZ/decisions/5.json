@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing",
+ "fact": "Mozambique has no overarching data policy framework and the World Bank diagnostic says a national policy for open data is now being considered.",
+ "title": "Data Governance in Mozambique: Findings and Recommendations Based on a Rapid Diagnostic",
+ "publisher": "World Bank",
+ "published": "2025-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

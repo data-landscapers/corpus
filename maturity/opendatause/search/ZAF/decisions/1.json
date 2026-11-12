@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access",
+ "fact": "National Treasury's Transparency Portal offers monthly public procurement data from May 2021 for download in OCDS CSV, JSON and Excel under a Creative Commons BY 4.0 licence.",
+ "title": "Transparency Portal Beta - National Treasury",
+ "publisher": "National Treasury",
+ "published": "2026-11-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

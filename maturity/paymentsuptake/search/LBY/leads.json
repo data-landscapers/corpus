@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://alwasat.ly/news/477516",
+  "title": "«المركزي» يعلن حجم المدفوعات الإلكترونية خلال 8 أشهر",
+  "publisher": "بوابة الوسط",
+  "published": "2026-09-10",
+  "sub_indicator": "uptake",
+  "why": "payments: 8.2m LYPay/ONEPAY individual subscribers"
+ },
+ {
+  "url": "https://lana.gov.ly/post.php?id=351529&lang=ar",
+  "title": "معاملات تتجاوز 313 مليار دينار… قفزة تاريخية في الدفع الإلكتروني بليبيا خلال 2025",
+  "publisher": "وكالة الأنباء الليبية",
+  "published": "2026-02-22",
+  "sub_indicator": "uptake",
+  "why": "payments: e-payment counts"
+ },
+ {
+  "url": "https://microdata.worldbank.org/catalog/7936",
+  "title": "Libya - The Global Findex Database 2025",
+  "publisher": "World Bank",
+  "published": "2025-10-01",
+  "sub_indicator": "uptake",
+  "why": "share: Findex 2024 survey record for Libya"
+ },
+ {
+  "url": "https://digitalfinance.worldbank.org/country/libya",
+  "title": "Libya - Global snapshot of indicators and enabling regulations",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "uptake",
+  "why": "share/payments: Findex indicators for Libya"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/145df06f1b02813f508616d49c7d37d3-0050012026/original/Findex-Note-Arab-World.pdf",
+  "title": "Digital Connectivity and Financial Inclusion in Arab Countries",
+  "publisher": "World Bank",
+  "published": "2026",
+  "sub_indicator": "uptake",
+  "why": "share: Arab region Findex 2025 note incl. Libya"
+ },
+ {
+  "url": "https://cbl.gov.ly/micifaf/2025/11/Libyan-Financial-Inclusion-Strategy.pdf",
+  "title": "Vision for Building and Implementing the National Financial Inclusion Strategy 2025-2029",
+  "publisher": "Central Bank of Libya",
+  "published": "2025",
+  "sub_indicator": "uptake",
+  "why": "share: account ownership cited from Findex"
+ },
+ {
+  "url": "https://data.finstatglobe.com/libya/bank-account-ownership-statistics",
+  "title": "Bank Account Ownership Statistics in Libya (2026)",
+  "publisher": "FinStatGlobe",
+  "published": "2026",
+  "sub_indicator": "uptake",
+  "why": "share: 33.1% in 2024 (aggregator)"
+ },
+ {
+  "url": "https://finobservatory.org/inclusion/LBY",
+  "title": "Libya Financial Inclusion",
+  "publisher": "FinObservatory",
+  "published": "",
+  "sub_indicator": "uptake",
+  "why": "share/payments: Findex 33.1% and 23.5% (aggregator)"
+ }
+]

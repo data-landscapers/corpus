@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "access;breadth",
+ "fact": "Togo launched its national Géoportail on 6 May 2025, aggregating data from 23 ministries and 550 administrative units, with an interface open to citizens, researchers and firms.",
+ "title": "Open Data : le Togo lance un Géoportail national avec plus d'1,2 million de données disponibles",
+ "publisher": "Togo First",
+ "published": "2025-05-06",
+ "date_source": "source",
+ "why_not": ""
+}

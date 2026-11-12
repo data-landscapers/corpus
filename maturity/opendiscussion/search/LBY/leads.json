@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.agenzianova.com/en/news/Libya%3A-Internet-blackout-in-Fezzan-after-the-killing-of-Saif-al-Islam-Gaddafi/",
+  "title": "Libya, sources: Internet blackout in Fezzan after killing of Saif al-Islam Gaddafi",
+  "publisher": "Agenzia Nova",
+  "published": "2026-02-06",
+  "sub_indicator": "discussion",
+  "why": "connection: internet cut ordered by security service, Feb 2026"
+ },
+ {
+  "url": "https://libyareview.com/62342/libya-among-africas-most-affected-countries-by-internet-shutdowns-in-2025/",
+  "title": "Libya Among Africa's Most Affected Countries by Internet Shutdowns in 2025",
+  "publisher": "LibyaReview",
+  "published": "2026-01-06",
+  "sub_indicator": "discussion",
+  "why": "connection: 11-hour nationwide outage in 2025"
+ },
+ {
+  "url": "https://www.ecoi.net/en/document/2133575.html",
+  "title": "Freedom on the Net 2025 - Libya",
+  "publisher": "Freedom House (via ecoi.net)",
+  "published": "2025-11-13",
+  "sub_indicator": "discussion",
+  "why": "connection/penalty: Tripoli shutdown May 2025, arbitrary detentions"
+ },
+ {
+  "url": "https://lcw.ngo/en/blog/arbitrary-arrest-of-a-journalist-and-his-brother-in-ghat/",
+  "title": "ARBITRARY ARREST OF A JOURNALIST AND HIS BROTHER IN GHAT",
+  "publisher": "Libya Crimes Watch",
+  "published": "2026-09-23",
+  "sub_indicator": "discussion",
+  "why": "penalty: journalist arrested Sept 2026"
+ },
+ {
+  "url": "https://ar.libyaobserver.ly/article/39326",
+  "title": "رصد الجرائم: الاعتقال والتعذيب والاختفاء القسري يلاحق الصحفيين في ليبيا",
+  "publisher": "ليبيا أوبزيرفر",
+  "published": "2026-11-03",
+  "sub_indicator": "discussion",
+  "why": "penalty: arrests of journalists east and west (Arabic)"
+ },
+ {
+  "url": "https://thearabweekly.com/un-urges-libya-protect-journalists-amid-reports-intimidation-arrests",
+  "title": "UN urges Libya to protect journalists amid reports of intimidation, arrests",
+  "publisher": "The Arab Weekly",
+  "published": "2026-05-04",
+  "sub_indicator": "discussion",
+  "why": "penalty: UNSMIL on arbitrary detention of journalists"
+ },
+ {
+  "url": "https://sada.ly/en/the-near-complete-disappearance-of-economic-influencers-platforms-in-libya/",
+  "title": "The Near-Complete Disappearance of Economic Influencers' Platforms in Libya",
+  "publisher": "Sada Newspaper",
+  "published": "2026-08-03",
+  "sub_indicator": "discussion",
+  "why": "connection: platforms of commentators shut down Aug 2026"
+ },
+ {
+  "url": "https://alwasat.ly/news/483748",
+  "title": "تنسيقية الأحزاب تحذر من مماطلة البقاء في السلطة",
+  "publisher": "الوسط",
+  "published": "2026-11-03",
+  "sub_indicator": "discussion",
+  "why": "debate: parties publicly criticise authorities (Arabic)"
+ }
+]

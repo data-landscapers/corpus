@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://nexusmedia.ug/upc-opposes-governments-charcoal-ban-says-it-hits-the-poor/",
+  "title": "UPC Opposes Government's Charcoal Ban, Says it Hits the Poor",
+  "publisher": "Nexus Media",
+  "published": "2026-10-15",
+  "sub_indicator": "discussion",
+  "why": "Q1: party criticises named policy"
+ },
+ {
+  "url": "https://cpj.org/2026/08/ugandan-journalist-remmy-asiteza-detained-on-fake-news-charges/",
+  "title": "Ugandan journalist Remmy Asiteza detained on 'fake news' charges",
+  "publisher": "Committee to Protect Journalists",
+  "published": "2026-08-27",
+  "sub_indicator": "discussion",
+  "why": "Q2: journalist charged August 2026"
+ },
+ {
+  "url": "https://www.newvision.co.ug/category/news/fdc-urges-govt-to-withdraw-medical-interns-ul-NV_238579_082026",
+  "title": "FDC urges govt to withdraw medical interns' ultimatum",
+  "publisher": "New Vision",
+  "published": "2026-08-10",
+  "sub_indicator": "discussion",
+  "why": "Q1: FDC criticises ministry directive"
+ },
+ {
+  "url": "https://www.hrw.org/news/2026/07/16/uganda-military-seizing-government-critics",
+  "title": "Uganda: Military Seizing Government Critics",
+  "publisher": "Human Rights Watch",
+  "published": "2026-07-16",
+  "sub_indicator": "discussion",
+  "why": "Q2: critics seized, media company besieged"
+ },
+ {
+  "url": "https://rsf.org/en/uganda-army-chief-orders-unprecedented-shutdown-leading-media-group-rsf-calls-its-immediate",
+  "title": "Uganda: Army chief orders unprecedented shutdown of leading media group",
+  "publisher": "Reporters Without Borders",
+  "published": "2026-06-30",
+  "sub_indicator": "discussion",
+  "why": "Q2: Nation Media Group closed June 2026"
+ },
+ {
+  "url": "https://cpj.org/2026/03/uganda-declares-criminal-defamation-unconstitutional-strikes-down-cybercrime-law/",
+  "title": "Uganda declares criminal defamation unconstitutional, strikes down cybercrime law",
+  "publisher": "Committee to Protect Journalists",
+  "published": "2026-03-19",
+  "sub_indicator": "discussion",
+  "why": "Q3: Constitutional Court ruling"
+ },
+ {
+  "url": "https://explorer.ooni.org/findings/2026-uganda-blocked-social-media-following-2026-general-election",
+  "title": "Uganda blocked social media following 2026 general election",
+  "publisher": "OONI",
+  "published": "2026-01-23",
+  "sub_indicator": "discussion",
+  "why": "Q1 ladder: internet shutdown and social media block Jan 2026"
+ },
+ {
+  "url": "https://www.reuters.com/sustainability/society-equity/uganda-partially-restores-internet-after-ageing-president-wins-seventh-term-2026-01-18/",
+  "title": "Uganda partially restores internet after ageing president wins seventh term",
+  "publisher": "Reuters",
+  "published": "2026-01-18",
+  "sub_indicator": "discussion",
+  "why": "Q4/cut: internet restored, social media blocked"
+ }
+]

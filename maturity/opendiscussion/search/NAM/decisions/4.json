@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "discussion",
+ "aspect": "connection;penalty",
+ "fact": "The 2026 African Media Barometer panel found no centralised blocking of foreign broadcasters, news sites or platforms and no nationwide internet shutdowns, and could not identify recent arbitrary arrests of journalists.",
+ "title": "African Media Barometer Namibia 2026",
+ "publisher": "NMT Media Foundation",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

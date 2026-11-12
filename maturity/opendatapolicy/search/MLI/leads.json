@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://instat-mali.org/fr/actualites-et-evenements/atelier-national-sur-la-modelisation-sdmx-et-la-migration-vers-la-plateforme-open-data-portal-odp-20",
+  "title": "Atelier national sur la modélisation SDMX et la migration vers la plateforme Open Data Portal (ODP) 2.0",
+  "publisher": "INSTAT",
+  "published": "2026-06-30",
+  "sub_indicator": "policy",
+  "why": "Portal (ODP 2.0) migration by the statistics institute; portal and publishing aspect"
+ },
+ {
+  "url": "https://instat-mali.org/fr/actualites-et-evenements/session-ordinaire-du-conseil-national-de-la-statistique-cns-",
+  "title": "Session ordinaire du Conseil National de la Statistique (CNS)",
+  "publisher": "INSTAT",
+  "published": "2026-02-18",
+  "sub_indicator": "policy",
+  "why": "Data-opening roadmap adopted (anonymisation); policy standing"
+ },
+ {
+  "url": "https://www.icasees.org/index.php/actualites/330-odp-1-0-reunion-des-points-focaux-open-data-dafrique-francophone-en-preparation-de-levaluation-odin-2026",
+  "title": "ODP 1.0 : Réunion des Points Focaux Open Data d'Afrique francophone en préparation de l'évaluation ODIN 2026",
+  "publisher": "ICASEES",
+  "published": "2026-04-08",
+  "sub_indicator": "policy",
+  "why": "Mali's statistics office runs an ODP portal; open data licence model"
+ },
+ {
+  "url": "https://www.instat-mali.org/fr/publications/calendrier-de-diffusion-des-structures-du-systeme-statistique-national-du-mali-ssn",
+  "title": "Calendrier de diffusion des Structures du Système Statistique National du Mali (SSN)",
+  "publisher": "INSTAT",
+  "published": "2022-10-07",
+  "sub_indicator": "policy",
+  "why": "Data inventory and release calendar for publication on the open data platform"
+ },
+ {
+  "url": "https://www.instat-mali.org/laravel-filemanager/files/shares/doc/conditions-utilisation-donnees-ouvertes_doc.pdf",
+  "title": "Accord de licence de données ouvertes",
+  "publisher": "INSTAT",
+  "published": "",
+  "sub_indicator": "policy",
+  "why": "Open data licence of the statistics institute"
+ },
+ {
+  "url": "https://www.undp.org/fr/mali/blog/vers-une-ouverture-de-donnees-publiques-open-data-pour-faciliter-la-creation-de-services-applicatifs-innovants",
+  "title": "Vers une ouverture de données publiques (Open Data) pour faciliter la création de services applicatifs innovants",
+  "publisher": "PNUD Mali",
+  "published": "2021-04-12",
+  "sub_indicator": "policy",
+  "why": "State of open data dynamics in the national statistical system"
+ },
+ {
+  "url": "https://www.digitaldevelopment.org/library/mali-digital-ecosystem-country-assessment-deca/",
+  "title": "Mali Digital Ecosystem Country Assessment (DECA)",
+  "publisher": "USAID Digital Development",
+  "published": "2023-04-09",
+  "sub_indicator": "policy",
+  "why": "No central digital government policy; absence statement"
+ },
+ {
+  "url": "https://www.maliweb.net/societe/donnees-statistiques-la-plateforme-malikunnafoni-lancee-2916428.html",
+  "title": "Données statistiques : La plateforme Malikunnafoni lancée",
+  "publisher": "Le Républicain / Maliweb",
+  "published": "2021-02-15",
+  "sub_indicator": "policy",
+  "why": "Statistics data platform launch"
+ }
+]

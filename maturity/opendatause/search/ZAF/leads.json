@@ -1,0 +1,9 @@
+[
+{"url":"https://data.etenders.gov.za/home/index","title":"Transparency Portal Beta - National Treasury","publisher":"National Treasury","published":"","sub_indicator":"use","why":"Procurement data downloadable under CC BY 4.0"},
+{"url":"https://www.dffe.gov.za/egis","title":"Environmental geographic information systems (EGIS)","publisher":"Department of Forestry, Fisheries and the Environment","published":"2026-05-08","sub_indicator":"use","why":"Free downloadable geospatial data from a department"},
+{"url":"https://ipt.sanbi.org.za/resource?r=zanationaltaxon","title":"South African National Species Checklist (COLSA)","publisher":"South African National Biodiversity Institute","published":"2025-09-17","sub_indicator":"use","why":"Agency dataset downloadable under CC-BY 4.0"},
+{"url":"https://www.tshwane.gov.za/?p=82573","title":"City of Tshwane launches Open Data Portal to promote data access","publisher":"City of Tshwane","published":"2025-01-23","sub_indicator":"use","why":"Municipal open data portal launched"},
+{"url":"https://www.opengovpartnership.org/documents/south-africa-action-plan-review-2024-2026/","title":"South Africa Action Plan Review 2024-2026","publisher":"Open Government Partnership","published":"2025-02-11","sub_indicator":"use","why":"Open data commitments across three levels of government"},
+{"url":"https://www.statssa.gov.za/?page_id=1847","title":"Time series data - Excel and ASCII format","publisher":"Statistics South Africa","published":"","sub_indicator":"use","why":"Stats SA downloadable data"},
+{"url":"https://codera.co.za/how-does-sas-data-ecosystem-stack-up-internationally/","title":"How does SA's data ecosystem stack up internationally?","publisher":"Codera Analytics","published":"2023-11-08","sub_indicator":"use","why":"Open Data Barometer view of public data openness"}
+]

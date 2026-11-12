@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "uptake",
+ "aspect": "",
+ "fact": "",
+ "title": "Algeria Account Ownership",
+ "publisher": "DataStats",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: aggregator republishing the Findex figure, no document date"
+}

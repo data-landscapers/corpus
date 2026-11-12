@@ -1,0 +1,8 @@
+[
+{"url":"https://www.imf.org/fr/news/articles/2025/06/18/pr-25205-djibouti-djibouti-implements-the-e-gdds","title":"Djibouti adopte le systeme general de diffusion des donnees ameliore (SGDD-a)","publisher":"FMI","published":"2025-06-18","sub_indicator":"use","why":"Portal publishing data compiled by several statistical bodies"},
+{"url":"https://www.imf.org/en/news/articles/2025/06/18/pr-25205-djibouti-djibouti-implements-the-e-gdds","title":"Djibouti Implements the Enhanced General Data Dissemination System (e-GDDS)","publisher":"IMF","published":"2025-06-18","sub_indicator":"use","why":"NSDP launched; macro data published by multiple statistical agencies"},
+{"url":"https://djibouti.opendataforafrica.org/grbaomc","title":"Djibouti Data Portal terms","publisher":"INSTAD","published":"","sub_indicator":"use","why":"CC-BY 4.0 licence on data published by Djibouti on the portal"},
+{"url":"https://djibouti.opendataforafrica.org/data/","title":"Djibouti Data Portal dataset browser","publisher":"INSTAD / AfDB Open Data Platform","published":"","sub_indicator":"use","why":"Lists publishing bodies (INSTAD, ministries, meteorology agency)"},
+{"url":"https://marchespublics.gouv.dj/","title":"Portail Officiel des Marches Publics de Djibouti","publisher":"CNMP / ONEAD Commande Publique","published":"","sub_indicator":"use","why":"Public body publishing tender data online"},
+{"url":"https://instad.dj/indice/annuaire_statistique","title":"Annuaire statistique","publisher":"INSTAD","published":"","sub_indicator":"use","why":"Statistics office publishing statistical yearbook; no document for 2026"}
+]
