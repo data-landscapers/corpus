@@ -3,9 +3,9 @@ title: Cote d'Ivoire — News, Oct – Nov 2026
 compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 place: CIV
-ledger_rows: 43
+ledger_rows: 44
 not_held: 9
-record: 130183ac86de
+record: 2c2beb295c24
 ---
 
 # News, Oct – Nov 2026
@@ -773,8 +773,26 @@ Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone a
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#open-data">Open data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geospatial-data">Geospatial data</a>
 </nav>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open Data Cote d'Ivoire initiative and data.gouv.ci</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Données - Portail officiel des données ouvertes](https://data.gouv.ci/datasets)** — CICG, Gouvernement de Côte d'Ivoire, 20 October 2026
+
+211 datasets as captured 2026-11-12, economy 73 and society 39 leading; newest update 20 October 2026.
+
+</div>
+
+</div>
 
 ### Geospatial data
 
