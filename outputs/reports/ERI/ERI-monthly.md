@@ -1,11 +1,11 @@
 ---
 title: Eritrea — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: ERI
-ledger_rows: 1
+ledger_rows: 2
 not_held: 22
-record: df817ea59608
+record: 267c7c1a1c46
 ---
 
 # News, Oct – Nov 2026
@@ -13,8 +13,32 @@ record: df817ea59608
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 </nav>
+
+## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+</nav>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National List of Medicines offline mobile application</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Integrating Skills for Digitalized Future to improve Healthcare Service](https://shabait.com/2026/11/04/integrating-skills-for-digitalized-future-to-improve-healthcare-service/)** — Eritrea Ministry of Information (Shabait), 4 November 2026
+
+Offline Android app for the eighth national medicines list, built free by volunteer MoH and ERITEL staff.
+
+</div>
+
+</div>
 
 ## Technology
 
