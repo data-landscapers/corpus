@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-dji-djibouti-global-hub",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "UNESCO lists the National Cybersecurity Authority (ANC) among Djibouti's institutional foundations relevant to AI governance.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "National Cybersecurity Authority (ANC)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "UNESCO lists the National Cybersecurity Strategy 2024-2030 among Djibouti's legal and institutional foundations.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Cybersecurity Strategy 2024-2030",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANC",
+   "country_label": "National Cybersecurity Authority (ANC)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Djibouti",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states nothing on this for Djibouti."
+}

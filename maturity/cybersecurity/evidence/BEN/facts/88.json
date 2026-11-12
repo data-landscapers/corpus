@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-12-ben-contribution-a-la-relecture-du-code-du-numerique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Agence des Systemes d'Information et du Numerique (ASIN)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Benin",
+   "tiers": ""
+  }
+ ],
+ "note": "ASIN, created by decree 2022-324 of 1 June 2022 merging ADN, ASSI, ANSSI and ABSUCEP, is named but its cybersecurity role is not described."
+}

@@ -44,6 +44,7 @@ BEN,Centre national d'investigations numeriques (CNIN),CNIN,other,,,,2026-10-22-
 BEN,bjCSIRT,bjCSIRT - National CSIRT of the Republic of Benin,response,,,,2024-10-14-ben-rfc-2350-declaration-english-version
 BEN,National CERT,National CERT,response,,,,2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms
 BEN,bjCSIRT,bjCSIRT,response,,ASIN Benin,national,2025-07-31-ben-oju-plateforme-de-surveillance-concue-au-sein-de-bjcsirt
+BEN,Agence des Systemes d'Information et du Numerique (ASIN),Benin,other,,Government of Benin,,2024-01-12-ben-contribution-a-la-relecture-du-code-du-numerique
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),ANSSI,response,,State,,2026-02-25-arcep-decision-attribution-oid-anssi
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),ANSSI,response,,State,,2026-08-02-100-visages-du-burkina-digital-michael-folane
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),ANSSI,response,,State,,2025-12-27-bfa-2026-31-anssi
@@ -202,6 +203,7 @@ DJI,DJ-CERT,DJ-CERT,response,,,,2025-05-11-dji-le-dj-cert-renforce-son-engagemen
 DJI,Stratégie Nationale de Cybersécurité (SNC) 2024-2030,Stratégie Nationale de Cybersécurité,response,,Ministère délégué chargé de l'Economie Numérique et de l'Innovation,,2025-05-28-dji-le-chef-de-letat-preside-la-10eme-seance-du-conseil-des-ministres
 DJI,CERT,DJI,response,,ANSIE,,2025-01-14-dji-travaux-de-la-2ieme-seance-du-mardi-14-janvier-2025
 DJI,ANC,Autorite Nationale de Cybersecurite (ANC),other,,Government of Djibouti,,2026-11-09-djibouti-anc-cybersecurity-campaign-assembly
+DJI,ANC,National Cybersecurity Authority (ANC),response,,Government of Djibouti,,2026-01-01-dji-djibouti-global-hub
 DZA,MPT-CERT,"MPT-CERT (Sectoral Center for Vigilance, Detection and Response to Cyber Incidents)",other,,Ministry of Posts and Telecommunications,,2026-06-15-mpt-cert-cyber-incident-response--techafricanews
 DZA,MPT-CERT,"MPT-CERT (sectoral centre for vigilance, alert and response to IT incidents)",other,,Ministry of Posts and Telecommunications,,2026-06-15-mpt-cert-cyber-incident-response-centre-echorouk
 DZA,Information Systems Security Agency,Information Systems Security Agency,response,,Ministry of National Defence,,2026-03-05-national-cybersecurity-strategy-2025-2029--wearetech
@@ -313,6 +315,7 @@ GHA,Cyber Security Authority,Ghana Cyber Security Authority,other,,,,2026-09-30-
 GHA,Cyber Security Authority,Cyber Security Authority,response,,Government of Ghana,,2025-10-30-gha-data-protection-commission-probes-indian-owned-data-management-system
 GHA,Cyber Security Authority,Cyber Security Authority,response,,government,,2026-11-02-gha-sensitive-data-must-be-hosted-on-secure-infrastructure-sam-george
 GHA,Cybersecurity Authority,Ghana,response,,,,2026-05-21-gha-labari-imani-nita-bill-data-harmonisation-bill-afcfta
+GHA,Cyber Security Authority,Ghana,response,,,,2026-05-08-gha-actpol-submits-comments-on-the-draft-cybersecurity-amendment-bill
 GIN,ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information),ANSSI Guinée,response,,"Ministry of Posts, Telecommunications and the Digital Economy",,2025-09-12-anssi-guinee-alerte-manipulations-par-ia
 GIN,ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information),ANSSI Guinée,response,,"Ministry of Posts, Telecommunications and the Digital Economy",,2025-04-18-anssi-atelier-validation-pssie
 GIN,ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information),ANSSI Guinée,response,,"Ministry of Posts, Telecommunications and the Digital Economy",,2016-01-01-guinea-loi-l2016-037-an-cybersecurite-protection-donnees
@@ -379,6 +382,7 @@ KEN,National Cybersecurity Agency,National Cybersecurity Agency,response,,Govern
 KEN,National KE-CIRT/CC,National KE-CIRT/CC,response,,Communications Authority of Kenya,,2026-11-05-ken-kenya-moves-to-operationalise-cybersecurity-agency
 KEN,National Cybersecurity Agency,National Cybersecurity Agency,response,,Government of Kenya,,2026-11-06-ken-kenyas-ai-ambitions-face-infrastructure-test-as-subsea-cable-takes-shape
 KEN,National KE-CIRT/CC,National Kenya Computer Incident Response Team Coordination Centre (KE-CIRT/CC),response,,,,2019-05-01-ken-national-broadband-strategy-2018-2023
+KEN,National KE-CIRT/CC,National KE-CIRT/CC,response,,Communications Authority,,2025-04-25-ken-memorandum-on-the-draft-kenya-cybersecurity-strategy-2025-2029
 LBR,computer security incident response team (Cybaston Digital Fast Track),Liberia,response,,"Cybaston Institute of Technology, handover to Ministry of Posts and Telecommunications in September 2029",,2024-09-24-liberia-cybaston-five-year-digital-fast-track-agreement
 LBR,National Cybersecurity Strategy (2024-2029),Liberia,response,,Ministry of Posts and Telecommunications,,2026-03-01-liberia-national-data-governance-policy
 LBR,Liberia National CERT (proposed),Liberia,other,,,,2026-03-01-liberia-national-data-governance-policy
@@ -487,6 +491,7 @@ MUS,National Cybersecurity Committee,National Cybersecurity Committee,response,,
 MUS,MAUSHIELD,Mauritius Cyber Threat Information Sharing System,other,,,,2023-01-01-mus-national-cybersecurity-strategy-2023-2026-for-a-more-secure-and-resili
 MUS,MAUCORS,Mauritian Cybercrime Online Reporting System,other,,,,2023-01-01-mus-national-cybersecurity-strategy-2023-2026-for-a-more-secure-and-resili
 MUS,Government Security Operations Centre,Security Operations Centre for the Government,other,,,to be widened to a national SOC,2023-01-01-mus-national-cybersecurity-strategy-2023-2026-for-a-more-secure-and-resili
+MUS,Computer Emergency Response Team of Mauritius,CERT-MU,other,,Ministry of ICT,,2024-11-01-mus-mauritius-social-media-ban
 MWI,Malawi Computer Emergency Response Team (MwCERT),MwCERT,response,,MACRA,,2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews
 MWI,Malawi CERT (MCERT),Malawi CERT,response,,Malawi Communications Regulatory Authority,,2016-11-04-malawi-electronic-transactions-and-cyber-security-act
 MWI,Malawi national CIRT,Malawi national CIRT,response,,,,2018-09-13-sadc-media-statement-cybersecurity-workshop-cyber-drill
@@ -627,6 +632,7 @@ SOM,National Communications Authority (NCA),Somalia,other,,NCA,,2026-07-21-somal
 SOM,National Communications Authority (NCA),Somalia,other,,NCA,,2026-04-25-somalia-cybersecurity-framework-consultation
 SOM,SOMCIRT,Somalia Computer Incident Response Team (SOMCIRT),response,,National Communications Authority,,2026-10-27-som-somalia-opens-fourth-national-cybersecurity-forum-in-mogadishu
 SOM,Computer Emergency Response Team,Computer Emergency Response Team (CERT),response,,"Ministry of Post, Telecommunications and Technology","planned under the 2019 ICT policy, with a cybersecurity and privacy group to oversee national policy",2019-11-01-somalia-national-ict-policy-strategy-2019-2024
+SOM,SOMCIRT,Somali Computer Emergency Response Team (SOMCIRT),response,,,national,2025-12-17-som-policy-brief-strengthening-governance-and-responsible-use-of-social-me
 SSD,National Computer Incident Response Team Coordination Centre (SS-CIRT/CC),South Sudan,response,,designated authority under the Cybercrime and Computer Misuse Act 2026,,2026-03-24-explainer-cybercrime-computer-misuse-act-2026-chapter-v
 SSD,South Sudan Computer Incident Response Team (SS-CIRT),South Sudan,response,,National Communication Authority,,2025-11-06-nca-national-cyber-incident-management-framework
 SSD,NCA DFS Security Lab,South Sudan,other,,National Communication Authority,,2026-03-17-itu-dfs-security-lab-eyeradio

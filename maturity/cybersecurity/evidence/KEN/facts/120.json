@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-25-ken-memorandum-on-the-draft-kenya-cybersecurity-strategy-2025-2029",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "KICTANet's memorandum says Kenya already has the National KE-CIRT/CC (Kenya Computer Incident Response Team - Coordination Centre) under the Communications Authority, alongside the National Computer and Cybercrimes Coordination Committee (NC4).",
+   "as_of": "2025-04-25",
+   "date_precision": "day",
+   "system": "National KE-CIRT/CC",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National KE-CIRT/CC",
+   "country_label": "National KE-CIRT/CC",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The Draft Kenya Cybersecurity Strategy 2025-2029 is a draft and is noted, not recorded."
+}

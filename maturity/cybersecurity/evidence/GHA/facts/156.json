@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-08-gha-actpol-submits-comments-on-the-draft-cybersecurity-amendment-bill",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ACTPOL's submission to Parliament's Communications Committee on the draft Cybersecurity (Amendment) Bill says the amendments would enlarge the mandate of Ghana's existing Cyber Security Authority.",
+   "as_of": "2026-05-08",
+   "date_precision": "day",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority",
+   "country_label": "Ghana",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

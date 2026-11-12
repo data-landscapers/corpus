@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-01-mus-mauritius-social-media-ban",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Computer Emergency Response Team of Mauritius",
+   "country_label": "CERT-MU",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": "CERT-MU only asked platforms to remove accounts; no incident handled or alert stated."
+}
