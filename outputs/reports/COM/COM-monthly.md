@@ -1,11 +1,11 @@
 ---
 title: Comoros — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: COM
-ledger_rows: 8
+ledger_rows: 9
 not_held: 22
-record: b9994d0f260e
+record: 3b2a52fba118
 ---
 
 # News, Oct – Nov 2026
@@ -169,6 +169,20 @@ Comoros presented its UNESCO AI readiness assessment, RAM 2.0, prepared with UNE
 **[Cartographie numérique : Les Comores passent à la cartographie numérique](https://www.lagazettedescomores.com/société/cartographie-numérique-les-comores-passent-à-la-cartographie-numérique-.html)** — La Gazette des Comores, 13 October 2026
 
 Comoros's statistics institute INSEED has set up a digital mapping laboratory ahead of the fifth population census, with GIS software bought under a World Bank statistics project. The pilot census covers 50 enumeration areas, and the government has yet to fund the public awareness campaign.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Meteorological observation and forecasting capability</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Alertes](https://meteocomores.km/alertes/)** — Météo Comores (ANACM), 27 October 2026
+
+Severity-graded wind warnings by district, July to October 2026; no active alert at capture.
 
 </div>
 
