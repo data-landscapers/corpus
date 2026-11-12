@@ -1,0 +1,27 @@
+{
+  "slug": "2024-07-30-ben-mtn-benin-un-reseau-encore-plus-performant-a-l-horizon",
+  "facts": [
+    {
+      "sub_indicator": "private",
+      "aspect": "money",
+      "value": "committed",
+      "fact": "Journal du Benin reports that BOAD, MTN Benin and Banque Atlantique Benin signed a FCFA 20 billion financing agreement on 29 July 2024 for MTN Benin's 5G, fibre and platform upgrade.",
+      "as_of": "2024-07-29",
+      "date_precision": "day",
+      "system": "BOAD and Banque Atlantique financing of MTN Benin",
+      "class": "private"
+    },
+    {
+      "sub_indicator": "private",
+      "aspect": "home",
+      "value": "raised",
+      "fact": "Journal du Benin reports that Banque Atlantique Benin, MTN Benin's mandated lead arranger, signed the FCFA 20 billion financing agreement of 29 July 2024 with BOAD and MTN Benin, so part of the money came from a bank of Benin.",
+      "as_of": "2024-07-29",
+      "date_precision": "day",
+      "system": "BOAD and Banque Atlantique financing of MTN Benin",
+      "class": "private"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

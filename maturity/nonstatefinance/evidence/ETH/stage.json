@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "private",
-   "stage": "3",
-   "money": "committed",
-   "home": "",
-   "state": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-005;ETH-006",
-   "gaps": "No source from 2024 on names an amount put in by a bank, pension fund, insurer, investor or company of the country itself, or raised on the country's own market.",
-   "note": "Counted from the four questions by study-ladder-nonstatefinance.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "private",
+      "stage": "4",
+      "money": "committed",
+      "home": "raised",
+      "state": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-010;ETH-005;ETH-006",
+      "gaps": "No source found says the government brought private money into a public digital project.",
+      "note": "Private money went in during 2024 and 2026 (ETH-006, ETH-005), and some 45,000 shareholders paid ETB 3 billion for Ethio Telecom shares on Ethiopia's own exchange in 2024-25 (ETH-010). The offering sold part of a state operator and is not a public project, so 4.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }

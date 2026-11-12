@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-26-eth-ethio-telecom-lists-on-ethiopian-securities-exchange",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "African Capital Markets News reports that Ethiopian retail investors paid about ETB 3 billion at ETB 300 a share in Ethio Telecom's initial public offering, run from October 2024 to February 2025.",
+   "as_of": "2025-02-14",
+   "date_precision": "day",
+   "system": "Ethio Telecom initial public offering",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "African Capital Markets News reports that about 45,000 Ethiopian shareholders paid some ETB 3 billion in Ethio Telecom's share offering on the Ethiopian Securities Exchange, which listed the shares on 26 May 2026.",
+   "as_of": "2025-02-14",
+   "date_precision": "day",
+   "system": "Ethio Telecom initial public offering",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

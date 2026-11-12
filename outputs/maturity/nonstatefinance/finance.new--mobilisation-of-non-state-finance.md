@@ -1,6 +1,6 @@
 # Mobilisation of non-state finance: private money for digital businesses
 
-*As at 2026-10-17.*
+*As at 2026-11-12.*
 
 ## The norm
 
@@ -21,14 +21,31 @@ Agenda 2063, Goal 20, asks that Africa pay for its own development and that its 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 6 |
-| 3 Established | 16 |
-| 2 Nascent | 21 |
+| 4 Operating | 9 |
+| 3 Established | 15 |
+| 2 Nascent | 19 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 10 |
 
 ## Countries
+
+### Angola: 4 Operating
+
+Private money went into Angolan digital firms in 2025 and 2026, some from a Luanda fund; no public project with private money is known.
+
+- The $1.2 million put into Anda came from BFA Asset Management of Luanda, an Angolan firm spun off from Banco de Fomento Angola, so the financier is from Angola itself; announced March 2026 ([source, 2026-03](https://techcabal.com/2026/03/30/angola-bfa/)).
+- Diario dos Negocios, citing Valor Economico, reports that Elsewedy Electric, entering Movicel with over 60% of its capital, has an agreement for a total investment of USD 400 million in phases, the first already under way in Luanda ([source, 2025-08-27](https://diariodosnegocios.com/egipcios-da-elsewedy-electric-injectam-400-milhoes-de-dolares-para-salvar-operadora-movicel/)).
+- Diario dos Negocios, citing Forbes Africa Lusofona, reports that CAP Capital acquired 100% of TSMARTS and announced a EUR 50 million investment plan for the next three years ([source, 2025-12-10](https://diariodosnegocios.com/cap-capital-investe-50-milhoes-tsmarts-infraestruturas-angola/)).
+- BFA Asset Management, the Luanda-based asset-management spin-off of Banco de Fomento Angola, invested $1.2 million from its Kimbo Fund in Anda, an Angolan motorcycle-taxi mobility start-up, announced in March 2026 (TechCabal interview) ([source, 2026-03](https://techcabal.com/2026/03/30/angola-bfa/)).
+
+### Benin: 4 Operating
+
+Banks including one of Benin's own lent to MTN Benin in 2024, and MTN invested in 2025; no public project with private money is known.
+
+- Journal du Benin reports that Banque Atlantique Benin, MTN Benin's mandated lead arranger, signed the FCFA 20 billion financing agreement of 29 July 2024 with BOAD and MTN Benin, so part of the money came from a bank of Benin ([source, 2024-07-29](https://journaldubenin.com/mtn-benin-un-reseau-encore-plus-performant-a-lhorizon/)).
+- Journal du Benin reports that BOAD, MTN Benin and Banque Atlantique Benin signed a FCFA 20 billion financing agreement on 29 July 2024 for MTN Benin's 5G, fibre and platform upgrade ([source, 2024-07-29](https://journaldubenin.com/mtn-benin-un-reseau-encore-plus-performant-a-lhorizon/)).
+- MTN Group says it has committed over USD 215 million in new investment in Benin through 2026 (5G rollout, fibre expansion, a new MTN Benin headquarters), its own money; MTN is a South African group and the document gives no signing year, so 2025 is the publication date ([source, 2025](https://www.mtn.com/mtn-group-backs-benin-investment-forum-2025-driving-digital-and-economic-progress-in-west-africa/)).
 
 ### Egypt: 4 Operating
 
@@ -38,6 +55,14 @@ Private money came into Egyptian digital firms in 2024 to 2026, led by 2026 roun
 - Blnk raised US$24.6m in local-currency debt from Egyptian banks and non-bank financial institutions, including National Bank of Egypt, Suez Canal Bank and Bank Al Baraka Egypt; the document is dated 2026-06-08 ([source, 2026-06](https://techcabal.com/2026/06/08/egypts-blnk-raises-37-million-to-expand-lending/)).
 - Finance tables: Partech Africa committed USD 13 million (Equity, Completed) to Synapse Analytics, starting 2026: Partech - Synapse Analytics Series A, 2026 ([source, 2026](https://www.globenewswire.com/news-release/2026/09/14/3360726/0/en/synapse-analytics-secures-us-13m-led-by-partech-to-drive-ai-powered-decisioning-for-financial-institutions.html)).
 - Fawry, an Egyptian listed private fintech, raised its stake in software provider Codezone to 51% for EGP 31.3 million (USD 603,270) in Q1 2025, per TechCabal; the financier is Egyptian ([source, 2025](https://techcabal.com/2026/04/20/how-fawry-built-a-profitable-fintech/)).
+
+### Ethiopia: 4 Operating
+
+About 45,000 shareholders bought Ethio Telecom shares on Ethiopia's own exchange in 2025; no public project with private money is known.
+
+- African Capital Markets News reports that about 45,000 Ethiopian shareholders paid some ETB 3 billion in Ethio Telecom's share offering on the Ethiopian Securities Exchange, which listed the shares on 26 May 2026 ([source, 2025-02-14](https://africancapitalmarketsnews.com/ethio-telecom-lists-on-ethiopian-securities-exchange/)).
+- Safaricom PLC of Kenya injected KES 21.3 billion into Safaricom Ethiopia during the year to March 2026, lifting its stake from 51.3% to 54.1% (Tech-ish); the financier is Kenyan, the recipient a private telecoms operator in Ethiopia ([source, 2026](https://tech-ish.com/2026/09/14/safaricom-ethiopia-passes-15-million-subscribers-five-years-after-getting-its-licence/)).
+- Finance tables: International Finance Corporation (IFC) committed USD 200 million (Commercial Loan, Active) to Safaricom Telecommunications Ethiopia Private Limited Company (STEP), starting 2024: Safaricom Ethiopia — IFC Second Debt Facility (2024) ([source, 2024](https://disclosures.ifc.org/project-detail/SII/49097/safaricom-ethiopia-debt-ii)).
 
 ### Morocco: 4 Operating
 
@@ -109,13 +134,6 @@ Private firms put money into DRC towers and digital services in 2025 and 2026; n
 
 - Finance tables: Helios Towers committed USD 100 million (Self Funded, Approved) to a private digital beneficiary, starting 2026: Helios Towers — DRC telecom tower infrastructure investment, 2026 ([source, 2026](https://actualite.cd/2026/03/31/rdc-signature-dun-investissement-de-plus-de-100-millions-usd-entre-lanapi-et-helios)).
 - Trident Digital Tech Holdings said on 16 September 2025 it had raised USD 2.6 million, to be used mainly to expand and commercialise DRCPass in the DRC ([source, 2025-09-16](https://bankable.africa/fr/numerique/2601-2297-identification-numerique-97-1-millions-d-investissements-pour-deployer-le-drcpass)).
-
-### Ethiopia: 3 Established
-
-Foreign investors put money into Ethiopian digital firms in 2024 to 2026, mainly Safaricom Ethiopia; no domestic or government-brought private money is known.
-
-- Safaricom PLC of Kenya injected KES 21.3 billion into Safaricom Ethiopia during the year to March 2026, lifting its stake from 51.3% to 54.1% (Tech-ish); the financier is Kenyan, the recipient a private telecoms operator in Ethiopia ([source, 2026](https://tech-ish.com/2026/09/14/safaricom-ethiopia-passes-15-million-subscribers-five-years-after-getting-its-licence/)).
-- Finance tables: International Finance Corporation (IFC) committed USD 200 million (Commercial Loan, Active) to Safaricom Telecommunications Ethiopia Private Limited Company (STEP), starting 2024: Safaricom Ethiopia — IFC Second Debt Facility (2024) ([source, 2024](https://disclosures.ifc.org/project-detail/SII/49097/safaricom-ethiopia-debt-ii)).
 
 ### Gambia: 3 Established
 
@@ -199,18 +217,6 @@ Investors put money into Zambian digital firms in 2024 and 2026; no source found
 Private investors put about USD 5 million into one Algerian start-up in December 2025; no source found reports private money in government digital projects.
 
 - A group of private investors led by Tell Group, a financial services company, with Groupe Industriel Babahoum Algerie (GIBA, Algerian conglomerate) taking part, put 600 million dinars (about USD 5 million) into the Algerian travel-tech start-up VOLZ in a funding round announced in December 2025, per TechCabal ([source, 2025-12](https://techcabal.com/2025/12/16/volz-raises-5-million/)).
-
-### Angola: 2 Nascent
-
-Private money reached Anda and Africell in 2026, but no source found says whether earlier years saw any.
-
-- Finance tables: EXIM Bank (Export-Import Bank of the United States) committed USD 100 million (Buyer's Credit, Approved) to Africell, starting 2026: EXIM Bank dos EUA anuncia empréstimo de 99,6 milhões de dólares à Africell para investimento em tecnologia em Angola ([source, 2026](https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html)).
-
-### Benin: 2 Nascent
-
-MTN Group committed over USD 215 million in 2025, but no money raised inside Benin or brought in by the government is known.
-
-- MTN Group says it has committed over USD 215 million in new investment in Benin through 2026 (5G rollout, fibre expansion, a new MTN Benin headquarters), its own money; MTN is a South African group and the document gives no signing year, so 2025 is the publication date ([source, 2025](https://www.mtn.com/mtn-group-backs-benin-investment-forum-2025-driving-digital-and-economic-progress-in-west-africa/)).
 
 ### Botswana: 2 Nascent
 

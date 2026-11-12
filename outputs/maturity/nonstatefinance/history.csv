@@ -15,3 +15,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,SWZ,finance.new--mobilisation-of-non-state-finance,fact,no evidence,2,SWZ-001,Swoop's USD 7.3 million seed round of April 2026 is the first amount held: no evidence to 2.
 2026-11-12,TUN,finance.new--mobilisation-of-non-state-finance,fact,2,4,TUN-002;TUN-006;TUN-003;TUN-005,Attijari's TND 310 million 5G loan to Ooredoo of December 2024 adds a second year and a Tunisian lender: 2 to 4.
 2026-11-12,ZMB,finance.new--mobilisation-of-non-state-finance,fact,2,3,ZMB-003;ZMB-007,"Bosso's US$400,000 pre-seed round of May 2024 adds a second year to 2026's deals: 2 to 3."
+2026-11-12,AGO,finance.new--mobilisation-of-non-state-finance,fact,2,4,AGO-002;AGO-006;AGO-005;AGO-001,"Elsewedy into Movicel and CAP Capital into TSMARTS (2025) give a second year beside 2026; with a Luanda fund's money, question 3 is met"
+2026-11-12,BEN,finance.new--mobilisation-of-non-state-finance,fact,2,4,BEN-005;BEN-004;BEN-001,FCFA 20bn loan to MTN Benin with Banque Atlantique Benin (Jul 2024): a second year and money of Benin's own
+2026-11-12,ETH,finance.new--mobilisation-of-non-state-finance,fact,3,4,ETH-010;ETH-005;ETH-006,"Ethio Telecom IPO, ETB 3bn from 45,000 shareholders on Ethiopia's exchange: money raised at home"

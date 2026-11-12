@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "private",
-   "stage": "2",
-   "money": "committed",
-   "home": "raised",
-   "state": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-004",
-   "gaps": "Every amount held from 2024 on was signed or started in the same year.",
-   "note": "Counted from the four questions by study-ladder-nonstatefinance.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "private",
+      "stage": "4",
+      "money": "committed",
+      "home": "raised",
+      "state": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-002;AGO-006;AGO-005;AGO-001",
+      "gaps": "No source found says the government brought private money into a public digital project.",
+      "note": "Private money went in during 2025 (Elsewedy into Movicel, CAP Capital into TSMARTS: AGO-006, AGO-005) and 2026 (AGO-001), and BFA Asset Management of Luanda put money into Anda (AGO-002). Nothing shows the government bringing private money into a public project, so 4.",
+      "as_at": "2026-11-12"
+    }
+  ]
 }
