@@ -6,7 +6,7 @@
 
 **Shared number.** [The Business Registration Service sends a firm's details to the ministry for approval](<https://brs.eservices.gov.ss>). No source found says registration gives a firm one number shared with the tax authority or social security.
 
-**Beneficial owners.** [The New E-Business Portal is run by the Ministry of Justice](<https://accounts.eservices.gov.ss/mdas>). No source found says the register holds the beneficial owners of companies.
+**Beneficial owners.** [The New E-Business Portal, run by the Ministry of Justice, registers businesses, partnerships and companies](<https://accounts.eservices.gov.ss/mdas>). No source found says the register holds the beneficial owners of companies.
 
 ***Also on file***. [eServices.gov.ss](<https://brs.eservices.gov.ss>).
 
