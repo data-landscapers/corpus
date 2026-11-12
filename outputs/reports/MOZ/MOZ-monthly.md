@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: MOZ
-ledger_rows: 34
+ledger_rows: 36
 not_held: 18
-record: a6e6ea568a7c
+record: fd722dbf4354
 ---
 
 # News, Oct – Nov 2026
@@ -223,6 +223,8 @@ Mozambique's parliament and Portugal's parliament signed a cooperation memorandu
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
@@ -273,6 +275,30 @@ Mozambique's Communications and Digital Transformation Minister, Américo Muchan
 **[Digital 2027: Mozambique](https://datareportal.com/reports/digital-2027-mozambique)** — DataReportal, 5 November 2026
 
 DataReportal published its Digital 2027 report for Mozambique on 5 November 2026. It counts 7.57 million internet users at the end of 2026, a penetration of 20.5 per cent. It also counts 18.4 million mobile connections, equal to 49.9 per cent of the population, and 4.39 million social media identities.
+
+</div>
+
+</div>
+
+### Energy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Geospatial Least-Cost Electrification Plan 2026-2030 and Integrated Electrification Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Plano Nacional Geoespacial de Electrificação de Menor Custo (PNGE-MC), 2026-2030 — Planeamento Integrado de Acesso à Energia para Moçambique](https://www.seforall.org/system/files/2026-11/whitepaper-national-geospatial-least-cost-electrification-plan_PT.pdf)** — Ministério dos Recursos Minerais e Energia (MIREME), Mozambique (hosted by SEforALL), 1 October 2026
+
+60.1% access end-2024; ~5m connections for universal access by 2030, 51% grid, 47% solar home systems; USD 4.9bn.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique: Estevão Pale unveils geospatial plan and integrated platform to guide electrification investment](https://clubofmozambique.com/news/mozambique-estevao-pale-unveils-geospatial-plan-and-integrated-platform-to-guide-electrification-investment/)** — Club of Mozambique, 9 November 2026
+
+Launched 6 Nov 2026; grid vs off-grid chosen per settlement; shared MIREME-ARENE-EDM-FUNAE dashboards; World Bank-funded.
 
 </div>
 
@@ -431,6 +457,20 @@ The governor of Banco de Moçambique said on 28 October 2026 that the METIX inst
 </div>
 
 ### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Supreme Court legislation and case-law portals</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[OAM destaca importância dos Portais de Legislação e Jurisprudência para a transparência e confiança na Justiça](https://oam.org.mz/oam-destaca-importancia-dos-portais-de-legislacao-e-jurisprudencia-para-a-transparencia-e-confianca-na-justica/)** — Ordem dos Advogados de Moçambique, 2 October 2026
+
+Bar association welcomes Supreme Court legislation and case-law portals; impact hinges on regular updating.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
