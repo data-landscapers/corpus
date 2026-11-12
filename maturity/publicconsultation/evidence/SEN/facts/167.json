@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-22-sen-validation-du-blueprint-national-sur-la-valorisation-des-donnees",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The ministry says national consultations on 1-2 July 2026 and a validation workshop on 21-22 September 2026 on the National Blueprint on Data Valorisation involved ministries, universities, companies, civil society and partners.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "National Blueprint on Data Valorisation",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

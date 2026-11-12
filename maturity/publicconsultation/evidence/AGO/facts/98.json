@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-12-ago-bna-submete-a-consulta-publica-projecto-sobre-conta-fiduciaria-para-mo",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "Portal de TI reports that Banco Nacional de Angola opened a public consultation on its draft notice on e-money trust accounts, and ran one on the National Financial Inclusion Strategy from 31 March to 30 April 2025.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "BNA public consultation",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

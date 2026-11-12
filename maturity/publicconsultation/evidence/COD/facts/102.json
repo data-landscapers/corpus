@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-01-cod-mission-de-consultance-scientifique-harmonisation-des-textes-legislati",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The consultant's mission page states that, for the telecoms regulator ARPTC's harmonisation of Law 20/017 on telecoms and ICT and the Digital Code, consultation meetings were held from 1 to 6 October 2025 with FDSU, Airtel, Raxio, Africell, CATI, Orange, RENATELSAT and the Reseau des Acteurs du Numerique.",
+   "as_of": "2025-10-01",
+   "date_precision": "day",
+   "system": "ARPTC harmonisation mission",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": "The meeting minutes and interim report are posted on the consultant's own page, not stated as published by the regulator."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-09-zaf-end-of-an-era-for-south-africa-s-payments-system",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "eriinfo reports that the Reserve Bank released the National Payment System Bill for public comment on 1 September 2026 and received 'multiple hundreds of pages' of industry feedback on the draft authorisation framework.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "National Payment System Bill",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

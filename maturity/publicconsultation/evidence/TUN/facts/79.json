@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-24-tun-organisation-d-un-atelier-de-presentation-des-resultats-du-diagnostic",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The OGP Tunisia notice says a workshop on 23 September 2025 presented the diagnostic results for the national open data reuse strategy to open data officers of ministries and public bodies and to end reusers of data, to set priorities together.",
+   "as_of": "2025-09-23",
+   "date_precision": "day",
+   "system": "National open data reuse strategy workshop",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
