@@ -4,8 +4,8 @@ compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 place: GAB
 ledger_rows: 37
-not_held: 12
-record: 3178eca34039
+not_held: 11
+record: d1c1ea186ca5
 ---
 
 # News, Oct – Nov 2026
