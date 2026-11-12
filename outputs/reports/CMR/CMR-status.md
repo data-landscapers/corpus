@@ -1,12 +1,12 @@
 ---
 title: Cameroon: status report
-compiled: 2026-11-10
+compiled: 2026-11-12
 place: CMR
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 265
+sources_cited: 266
 sections_written: 39
 not_established: 1
 acquire_lines: 59
@@ -72,7 +72,7 @@ Standards do bind where an external party sets them: the regional payment switch
 ### Public debate and participation in policymaking
 <!-- gov.discourse -->
 
-Cameroon scores [zero out of 100 on Freedom of Association & Assembly](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf) (2023). [It is the lowest of its Ibrahim Index indicator scores, down 12.5 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf). [Media Freedom fell 7.6 points to 40.4](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf), and [Freedom of Expression & Belief fell 13.4 points to the same score](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf). [Deliberative & Participatory Governance stands at 22.1 out of 100, 49th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf).
+Cameroon scores [zero out of 100 on Freedom of Association & Assembly](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf) (2023). [It is the lowest of its Ibrahim Index indicator scores, down 12.5 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf). [Media Freedom fell 7.6 points to 40.4](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf), and [Freedom of Expression & Belief fell 13.4 points to the same score](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf). [Deliberative & Participatory Governance stands at 22.1 out of 100, 49th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf). In August 2026 [a journalist in Buea was held incommunicado over a Facebook post, and an activist in Douala was charged with defamation on social media](https://monitor.civicus.org/explore/cameroon-wave-of-arrests-and-restrictions-targets-journalists-activists-and-civil-society-members/).
 
 In 2025 Cameroon had [no national platform on which citizens or businesses can take part in policy decisions, submit petitions or give anonymous feedback](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). It does [operate platforms for complaints, suggestions and information requests about service delivery](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [It does not demonstrate acting on that feedback, and publishes no service standards such as response times or procedures](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). There is [no right-to-information law in force](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Accessibility and disclosure of public records have both improved from a low base over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf).
 
