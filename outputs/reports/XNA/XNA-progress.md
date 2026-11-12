@@ -3,18 +3,18 @@ title: North Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-12
 period: 2025-11-01 to 2026-11-12
 place: XNA
-ledger_rows: 19
+ledger_rows: 20
 not_held: 0
-record: 42247f889dbc
+record: 22d662002d67
 ---
 
 # North Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-12 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 19 bodies, instruments and systems on this place's ledger, 10 changed position between 2025-11-01 and 2026-11-12, 3 did not, 6 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 20 bodies, instruments and systems on this place's ledger, 10 changed position between 2025-11-01 and 2026-11-12, 3 did not, 7 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 20 sources for this place in the window — 7 in the earlier half (2025-12 to 2026-07), 13 in the later (2026-08 to 2026-11). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 21 sources for this place in the window — 8 in the earlier half (2025-12 to 2026-07), 13 in the later (2026-08 to 2026-11). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -80,6 +80,7 @@ Two Arab-League AI-ethics instruments sit on the ledger, adopted within weeks of
 | Arab Payment Systems Commission (29th ordinary meeting) | Did not exist | [Regulators set an agenda covering use of biometric data to limit payment fraud, security of the payments digital space and AI in payment-verification services, alongside instant payments and interoperability; no instrument, target date or funding figure is stated](https://www.dknews-dz.com/article/193186-banque-dalgerie-debut-a-alger-de-la-29e-reunion-ordinaire-de-la-commission-arabe-des-systemes-de-paiement-et-de-reglement.html) | Movement |
 | PAPSS membership in North Africa | Tunisia, Egypt and Morocco members | [Tunisia, Egypt, Morocco and Algeria all members — four of North Africa's five states — within a continental network the operator puts at 18 countries, 150+ commercial banks and 14 switches](https://www.afreximbank.com/bank-of-algeria-joins-papss-network-accelerating-financial-integration-in-africa-as-algeria-prepares-to-host-iatf-2025) | Movement |
 | VaulFi stablecoin-powered neobank | Did not exist | [Algerian- and Egyptian-founded startup building a stablecoin-based neobank offering euro-denominated digital accounts across North Africa with cross-border settlement in minutes rather than days; live user accounts at the time of report, with stablecoin-powered cards stated to launch within weeks](https://techcabal.com/2026/02/24/francophone-weekly-by-techcabal-013/) | Movement |
+| Account ownership in low- and middle-income Arab economies | ***Baseline not held*** | [Around 40% of adults in the low- and middle-income Arab economies held an account of any kind in 2024, below the global average, with growth slower and more variable than in other regions](https://thedocs.worldbank.org/en/doc/145df06f1b02813f508616d49c7d37d3-0050012026/original/Findex-Note-Arab-World.pdf) | ***Baseline not held*** |
 
 ### National statistics
 
