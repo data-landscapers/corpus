@@ -6,7 +6,7 @@ region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 183
+sources_cited: 186
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -68,6 +68,8 @@ Congo's digital programme is being built without any channel through which the p
 The associational conditions around policy debate have narrowed sharply. Freedom of association and assembly and civil society space are [the country's two most deteriorated governance measures over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cg.pdf), each down more than twenty points. Against that, [media freedom remains one of its stronger measures while freedom of expression and belief has fallen](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cg.pdf), and [deliberative and participatory governance is its strongest participation measure and rose over the same decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cg.pdf) even as the rest of the participation sub-category fell.
 
 Where digital policy direction comes from is stated openly rather than consulted on: the finance minister, opening the committee steering the digital transformation of public finances, [presented the digitalisation of the revenue agencies as a demand the president set out in his March 2026 election campaign](https://www.finances.gouv.cg/fr/articles/ouverture-du-copil-de-la-transformation-num%C3%A9rique-de-la-gestion-des-finances-publiques). There is also no independent read on how any of it lands: [none of the governance index's public-perception indicators, which draw on Afrobarometer surveys, carry data for Congo](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cg.pdf). Even the electoral roll stands apart from the identity estate — [a government minister said in October 2025 that the prerequisites for biometric voter registration had not been met](https://societe.cg/actualites/gouvernance-electorale-reduire-les-couts-des-frais-de-participation-aux-differents-scrutins/).
+
+[Network measurements logged a nation-scale internet outage on the 15 March 2026 presidential election day, after a three-day blackout around the 2021 vote](https://www.telecoms.com/telecoms-law/internet-goes-down-in-congo-in-time-for-the-election). [The telecoms regulator made no statement on it](https://www.telecoms.com/telecoms-law/internet-goes-down-in-congo-in-time-for-the-election).
 
 ## Finance
 
@@ -316,7 +318,7 @@ On the World Bank's Statistical Performance Indicators the weakest showing is on
 ### Open data
 <!-- data.open -->
 
-Congo's open data channel is statistical: [the statistics institute's director general said in June 2026 that it had begun loading its own data and that of sectoral ministries and other agencies onto an Open Data Portal, for download and re-use](https://www.vox.cg/le-congo-et-ses-partenaires-signent-un-accord-de-partenariat-pour-capitaliser-les-donnees-statistiques/), after [a dissemination platform launched in January 2026](https://fr.allafrica.com/stories/202601090277.html) under a donor-financed statistics project. A year earlier there was [no central open data platform publishing government datasets or offering them by public API](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and no open data policy or founding instrument for either channel is on file.
+Congo's main open data channel is statistical: [the statistics institute's director general said in June 2026 that it had begun loading its own data and that of sectoral ministries and other agencies onto an Open Data Portal, for download and re-use](https://www.vox.cg/le-congo-et-ses-partenaires-signent-un-accord-de-partenariat-pour-capitaliser-les-donnees-statistiques/), after [a dissemination platform launched in January 2026](https://fr.allafrica.com/stories/202601090277.html) under a donor-financed statistics project. A year earlier there was [no central open data platform publishing government datasets or offering them by public API](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and no open data policy or founding instrument for either channel is on file. [In August 2026 the institute's draft terms of use, not yet validated, allowed free re-use of its statistics with attribution](https://www.ins-congo.cg/conditions-utilisation.html). [The forest ministry's monitoring programme publishes five forest datasets for 2022 to 2024 under an open licence with attribution](https://syna-mnv.cg/donnees-ouvertes).
 
 What the statistical system does publish is scored low and capped low. Open Data Watch's 2024 inventory puts the country's best categories at [national accounts and food security on 5 out of 10, then the built environment and population and vital statistics on 4.5, with nothing above 5](https://odin.opendatawatch.com/data). Five categories score [zero — digital development, labour, money and banking, pollution and poverty — meaning nothing usable is published in any of them](https://odin.opendatawatch.com/data).
 
