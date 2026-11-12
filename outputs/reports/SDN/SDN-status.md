@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 198
+sources_cited: 201
 sections_written: 39
 not_established: 3
 acquire_lines: 49
@@ -62,6 +62,8 @@ Sudan [signed the African Union's Malabo Convention on Cyber Security and Person
 [In August 2026 bankers pressed for flexibility in the compulsory customer-data update](https://sudanhorizon.com/bankers-customer-data-updates-essential-but-flexibility-needed-for-financial-inclusion/). [They argued that it should be measured by customers retained and updated, not by accounts closed](https://sudanhorizon.com/bankers-customer-data-updates-essential-but-flexibility-needed-for-financial-inclusion/). Their case was made on financial-inclusion and anti-money-laundering grounds.
 
 [Participation was Sudan's lowest-scoring governance sub-category in 2023, at 10.5 of 100 and 53rd of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). [It fell 4.8 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). [Deliberative & Participatory Governance stood at 19.1 and Civil Society Space at 20.0](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). [Over the same decade Media Freedom fell 5.0 points to 27.8 of 100, 51st of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). [Freedom of Expression & Belief rose 14.6 points to 37.9](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). In May 2026 Amnesty International reported that [journalists have been targeted by both sides with arrests, detentions, abductions and killings](https://www.amnesty.org/en/latest/news/2026/05/east-and-southern-africa-media-freedom-under-attack-amid-prevailing-impunity/). The electoral register [has not been updated since 2015](https://www.idea.int/data-tools/data/country?country=212&database_theme=293).
+
+[In July 2026 the Red Sea State cybercrime prosecutor charged at least 15 journalists and two news sites over online reporting on alleged public-sector corruption](https://rsf.org/en/sudan-army-backed-authorities-are-prosecuting-15-journalists-and-two-media-outlets-under-anti). [The journalists' syndicate counted 64 prosecutions of journalists from April 2023 to June 2026, among them Cybercrime Act complaints against 47 journalists and outlets in a single instance, after which 18 were declared wanted](https://www.dabangasudan.org/en/all-news/article/sudanese-journalists-syndicate-documents-673-violations-and-calls-for-end-to-impunity).
 
 ## Finance
 
@@ -314,7 +316,7 @@ Sudan has run [neither an agricultural census nor a business census in the past 
 
 Sudan's [Accountability & Transparency score fell 7.5 points over the decade to 2023, to 14.5 of 100 and 49th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). [Disclosure of public records stood at 7.5, 52nd, and accessibility of public records at 10.7, 46th](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). [The Right to Access Information Law 2015 gives citizens a right to obtain information from public institutions](https://cyrilla.org/api/files/1566991640451x872tchicz.pdf), through a commission with powers to compel publication.
 
-[The central bank publishes the business operating rules for its real-time gross settlement system, downloadable without registration](https://cbos.gov.sd/sites/default/files/srag_business_operating_rules.pdf). [SudaPass publishes a privacy policy setting out the personal and biometric data it collects and the rights attached](https://sudapass.gov.sd/privacy?lang=en). [Since late 2025 the ministry has reported its platform rollout through recurring press conferences](https://allafrica.com/stories/202602020893.html). No open government data portal had been found as at September 2026.
+[The central bank publishes the business operating rules for its real-time gross settlement system, downloadable without registration](https://cbos.gov.sd/sites/default/files/srag_business_operating_rules.pdf). [SudaPass publishes a privacy policy setting out the personal and biometric data it collects and the rights attached](https://sudapass.gov.sd/privacy?lang=en). [Since late 2025 the ministry has reported its platform rollout through recurring press conferences](https://allafrica.com/stories/202602020893.html). [The Sea Ports Corporation posts annual port statistics for 2007 to 2025 as downloadable files, the latest added in April 2026](https://sudanports.gov.sd/portal/statistics/statistics_list.php?menuItemId=2&q=%28Type%7Eequals%7EStatistics%29). No open government data portal had been found as at September 2026.
 
 ### Geospatial data
 <!-- data.geospatial -->

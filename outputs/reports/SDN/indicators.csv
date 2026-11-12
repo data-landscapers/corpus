@@ -3,8 +3,6 @@ gov.policy--digital-transformation-strategy,Movement,"A [Digital Transformation 
 
 No account held connects the institutional decree to the platform launches recorded through 2026 — the national platform, the identity credential, the payment switch — so which authority owns which system, and under what powers, is not established anywhere in this repository.
 
-That gap runs through the whole unit: institutions are announced by decree, systems are announced by ministry, and nothing published links the two.
-
 The ministry launched phase two of its 3x3 transformation plan, naming consular, visa, university, business-registry and identity services and an interoperability gateway as its pathways ([phase two](2026-01-01-sudan-3x3-digital-transformation-plan-phase-two)). No text of the plan is held.
 
 A development partner's country programme records no digital public infrastructure policy framework in place at 2025 and targets one by 2028 ([programme](2025-10-30-sudan-country-programme-document-2026-2028)).
@@ -372,17 +370,17 @@ The telecommunications regulator [lists linking SIM registrations to national ID
 2026-09-26 - [Omdurman National Bank became the first bank to let customers update their data through the national digital identity](2026-09-26-sdn-suna-omdurman-bank-sudapass-ekyc), from inside or outside the country; no other bank had followed on the record.",SDN-dpi.id-national-number-bank-kyc|SDN-dpi.id-sudapass|SDN-dpi.id-sim-national-number-linkage,,,,,,,,,2026-08-31,0,Unplaced: bank use is not a public register; no register keyed on the national ID on record and no cited absence
 dpi.pay--governance-role-of-central-bank,Movement,"The [national payment switch](2026-08-06-suna-central-bank-launches-national-payment-switch-services) launched with one bank connected, and a [rival payment-switch licence was revoked](2026-07-04-cbos-revokes-al-asjad-payment-switch-licence) days after that platform's launch with no breach disclosed.","The central bank launched an electronic capital-flows system on 26 August 2026, replacing manual processing ([launch](2026-08-27-sudan-cbos-electronic-capital-flows)).
 
-The switch went live connecting one bank as its first and only participant, with the first cash-machine withdrawal completed over it; the central bank's own framing is restoration rather than a greenfield rail ([switch](2026-08-06-suna-central-bank-launches-national-payment-switch-services), [tender](2026-04-20-cbos-nips-national-instant-payment-system-tender)).
+The switch went live connecting one bank as its first and only participant ([switch](2026-08-06-suna-central-bank-launches-national-payment-switch-services), [tender](2026-04-20-cbos-nips-national-instant-payment-system-tender)).
 
-A separate payment-switch licence was revoked days after the platform launched, with no specific breach disclosed; a Gulf linkage was reported by domestic outlets and not confirmed by the central bank ([revocation](2026-07-04-cbos-revokes-al-asjad-payment-switch-licence)).
-
-A regulator that licenses and then revokes without stating a reason, and simultaneously operates the competing rail, is a market-structure fact the record states without explaining.
+A separate payment-switch licence was revoked days after the platform launched, with no specific breach disclosed ([revocation](2026-07-04-cbos-revokes-al-asjad-payment-switch-licence)).
 
 2025-12-31 - the central bank [published a five-year plan for 2026 to 2030 whose digital axis commits to a banking disaster-recovery centre, a wider data-centre network and a hybrid cloud project](2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030); a banker's September 2026 review [finds no implementation programmes, budgets or indicators attached and would put payment continuity ahead of larger digital projects](2026-09-21-sdn-dabanga-cbos-strategy-digital-transformation).
 
 2026-09-28 - the governor [revoked Sudan Pay Digital's mobile-payment and switching licence by Administrative Decision No. 65 of 2026](2026-09-28-sdn-sudanhorizon-cbos-revokes-sudan-pay-digital-licence), citing the 2026 banking act and the 2020 and 2013 payment regulations and stating no reason.
 
-2026-11 - the central bank [restored interbank clearing on every day of the week with no cheque ceiling](2026-11-09-sdn-cbs-full-week-clearing); its policy director [said the Siraj settlement system had been reactivated and the national switch partly reinstated](2026-11-09-sdn-cbs-restoring-banking-systems).",SDN-dpi.pay-nips|SDN-dpi.pay-al-asjad|SDN-dpi.exchange-central-bank-electronic-application-system|SDN-gov.policy-cbos-strategic-plan-2026-2030|SDN-dpi.pay-sudan-pay-digital|SDN-dpi.pay-interbank-electronic-clearing|SDN-dpi.pay-siraj-rtgs,3,SDN-dpi.pay-nips|SDN-dpi.pay-al-asjad,,,,,,,2026-08-31,0,Switch live with one bank; no published oversight statistics or consumer-protection function on record
+2026-11 - the central bank [restored interbank clearing on every day of the week with no cheque ceiling](2026-11-09-sdn-cbs-full-week-clearing); its policy director [said the Siraj settlement system had been reactivated and the national switch partly reinstated](2026-11-09-sdn-cbs-restoring-banking-systems).
+
+2024-12-06 - the central bank [ordered banks to interlink their apps by 15 December 2024, capping transfers at SDG 1 million a day](2024-12-06-sdn-cbos-circular-2-2024-bank-app-interlinking).",SDN-dpi.pay-nips|SDN-dpi.pay-al-asjad|SDN-dpi.exchange-central-bank-electronic-application-system|SDN-gov.policy-cbos-strategic-plan-2026-2030|SDN-dpi.pay-sudan-pay-digital|SDN-dpi.pay-interbank-electronic-clearing|SDN-dpi.pay-siraj-rtgs|SDN-gov.legislate-cbos-circular-2-2024-app-interlinking,3,SDN-dpi.pay-nips|SDN-dpi.pay-al-asjad,,,,,,,2026-08-31,0,Switch live with one bank; no published oversight statistics or consumer-protection function on record
 dpi.pay--g2p-functionality,Movement,"A closed project's rails [reached 8.7 million people](2026-01-01-sudan-family-support-program-delivering-hope); a successor safety net made a [first payment to 172,388](2025-09-19-sudan-sanad-safety-net-project-isr) in August 2025.","The retrospective on the earlier programme records a unified registration platform and payment infrastructure reaching 8.7 million people, built in collaboration with the national civil registry and suspended after the 2021 coup, with its registries and rails reported still usable by successor programmes ([retrospective](2026-01-01-sudan-family-support-program-delivering-hope)).
 
 The successor's implementation report of September 2025 records targeting, identification and registration completed in five localities and a first cash payment reaching 172,388 people, over a quarter of a 602,000 caseload target, with biometric registration tracked as a management indicator ([report](2025-09-19-sudan-sanad-safety-net-project-isr)).
@@ -597,7 +595,7 @@ The land registrar is separately restoring the electronic system across state an
 
 [Sennar State launched the Esali electronic collection system in May 2026](2026-05-12-sdn-almndra-sennar-esali-e-collection-launch), [after White Nile's finance ministry adopted it in December 2025 as an anti-corruption measure](2025-12-03-sdn-sudanspost-white-nile-esali-e-collection).
 
-2026-10-20 — [Khartoum's localities are to take all government transactions digital from 1 January 2027, staff training first](2026-10-20-sdn-item); no system or service list is named.
+2026-10-20 — [Khartoum's localities are to take all government transactions digital from 1 January 2027](2026-10-20-sdn-item); no system or service list is named.
 
 2026-10-05 - the Northern State government [arranged restoration of its finance ministry's resource-management system, in use from 2017 until the war stopped it in 2023](2026-10-05-sdn-northern-state-wafi-finance-systems-restoration), with the next budget to run on it.
 
@@ -753,12 +751,16 @@ data.statistics--statistics-from-administrative-data,Movement,"A [hospital manag
 
 The health ministry reports routine reporting coverage up from 13 per cent at the onset of the crisis to over 56 per cent by the end of 2025, and calls for coordination with the civil registry and the statistics bureau ([declaration](2026-02-10-sudan-health-ministry-digital-transformation-year)).
 
-In education, an information system pilot and monitoring dashboard began in Red Sea State ([handover](2026-05-13-unesco-red-sea-state-emis-digital-transformation)).",SDN-dpi.mis-hms|SDN-dpi.mis-dhis2|SDN-dpi.mis-emis,2,SDN-dpi.mis-dhis2,,,,,,,2026-08-31,0,routine health reporting in service; no statistical product from registers on record
+In education, an information system pilot and monitoring dashboard began in Red Sea State ([handover](2026-05-13-unesco-red-sea-state-emis-digital-transformation)).
+
+2025 - the central bank's [foreign trade digest carries customs data from 2015 to September 2025](2025-10-01-sdn-foreign-trade-statistical-digest-january-september-2025).",SDN-dpi.mis-hms|SDN-dpi.mis-dhis2|SDN-dpi.mis-emis|SDN-data.statistics-foreign-trade-statistical-digest,2,SDN-dpi.mis-dhis2,,,,,,,2026-08-31,0,routine health reporting in service; no statistical product from registers on record
 data.open--use-of-open-data,No change,"Land governance data are [not open and none has been online since 2023](2023-12-19-sudan-state-of-land-information-soli); the last inventory assessment scored Sudan 24, ranking 159th worldwide.","The assessment finds land governance data and information are not open, no open data has been available online since the 2023 conflict escalation, and Sudan's last Open Data Inventory assessment, in 2018, scored 24 and ranked 159th worldwide ([assessment](2023-12-19-sudan-state-of-land-information-soli)).
 
 No open-government-data portal or policy was located. The access-to-information law of 2015 is the closest instrument, and the commission it requires was never effectively established ([law](2015-01-27-sudan-right-to-access-information-law-2015)).
 
-What data does reach the public reaches it through partners: survey microdata catalogues and humanitarian data platforms rather than a national portal.",SDN-dpi.mis-land-information|SDN-data.open-right-to-information-law,,,,,,,,,2026-08-31,0,land data closed and ODIN score 24; no cited absence of all publication
+What data does reach the public reaches it through partners: survey microdata catalogues and humanitarian data platforms rather than a national portal.
+
+2026-04-02 - the ports corporation [posted annual port statistics for 2007 to 2025 as downloadable files](2026-04-02-sdn-data-statistics-and-tariff-system).",SDN-dpi.mis-land-information|SDN-data.open-right-to-information-law|SDN-data.open-sea-ports-statistics,,,,,,,,,2026-08-31,0,land data closed and ODIN score 24; no cited absence of all publication
 data.geospatial--agricultural-use-of-satellite-data,Movement,"Satellite data now substitutes for destroyed ground stations: [2025 cereal production at 5.2 million tonnes](2026-03-01-fao-cfsam-sudan-2025-special-report), and [nearly 40,000 square kilometres of farmland degraded](2026-07-08-world-vision-hollowed-earth-satellite-farmland-loss).","The 2025 crop and food supply assessment covered all 18 states using satellite-derived rainfall and vegetation health data to compensate for destroyed ground weather stations, estimating national cereal production at 5.2 million tonnes, 22 per cent below the prior year ([report](2026-03-01-fao-cfsam-sudan-2025-special-report)).
 
 A satellite land-health comparison between early 2023 and 2025 finds nearly 40,000 square kilometres of farmland degraded since the conflict began, including severe damage to a major irrigation scheme ([analysis](2026-07-08-world-vision-hollowed-earth-satellite-farmland-loss)).

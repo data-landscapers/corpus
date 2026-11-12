@@ -3,9 +3,9 @@ title: Sudan — News, Oct – Nov 2026
 compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 place: SDN
-ledger_rows: 30
+ledger_rows: 31
 not_held: 5
-record: 393d885b1671
+record: 19a4ee380de4
 ---
 
 # News, Oct – Nov 2026
@@ -103,6 +103,20 @@ Rights groups and activists warn that a temporary decree issued by army commande
 **[مجلس الوزراء يدين الاعتداءات المتكررة على المنشآت الخدمية عبر المسيرات التي تنطلق دولة إثيوبيا](https://suna.sd/posts/mgls-alozraaa-ydyn-alaaatdaaaat-almtkrr-aal-almnshat-alkhdmy-aabr-almsyrat-alty-tntlk-mn-dakhl-dol-athyobya)** — Sudan News Agency (SUNA), 1 November 2026
 
 Sudan's Council of Ministers approved three draft laws from the Ministry of Digital Transformation and Communications on 1 November 2026. They are a Cybersecurity Regulation Bill, a Data and Artificial Intelligence Regulation Bill and a Digital Transformation Regulation Bill. The bill texts were not published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybercrime law prosecutions for speech</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sudanese Journalists' Syndicate documents 673 violations and calls for end to impunity](https://www.dabangasudan.org/en/all-news/article/sudanese-journalists-syndicate-documents-673-violations-and-calls-for-end-to-impunity)** — Dabanga Radio TV Online, 2 November 2026
+
+673 violations to June 2026; Cybercrime Act complaints against 47 journalists, 18 declared wanted; repeal demanded.
 
 </div>
 
