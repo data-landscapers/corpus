@@ -1,0 +1,27 @@
+{
+ "slug": "2023-12-24-nam-namibia-s-unfolding-identity-crisis",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "none",
+   "fact": "The IPPR blog says Namibia has no communications privacy or data protection framework in place as of late December 2023.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "ratified",
+   "fact": "The IPPR blog says Namibia has ratified the African Union Malabo Convention.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2024-08-07-cod-law-and-technologies-fait-des-recommandations-au-gouvernement-et-au-se",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Think Tank Law and Technologies' study, presented 6 August 2024, treats the digital code's personal data rules as the law in force.",
+   "as_of": "2024-08-06",
+   "date_precision": "day",
+   "system": "Digital code (code du numérique)",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "Think Tank Law and Technologies said on 6 August 2024 that the authority created by article 262 of the digital code still has to be made operational by decree.",
+   "as_of": "2024-08-06",
+   "date_precision": "day",
+   "system": "Data protection authority",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

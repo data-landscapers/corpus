@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-23-zwe-zimbabwe-intensifies-cybersecurity-awareness-measures",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Zimbabwe's ICT Minister said the country enacted the Cyber and Data Protection Act in 2021, and the article says the country has created mandatory requirements and guidelines for data protection officers and data handling.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Cyber and Data Protection Act",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
