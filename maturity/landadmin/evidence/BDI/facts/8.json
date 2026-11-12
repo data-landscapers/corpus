@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-16-bdi-le-permis-de-construire-digitalise",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BPS",
+   "country_label": "Building Permit System",
+   "class": "other",
+   "platform": "",
+   "owner": "OBUHA",
+   "tiers": ""
+  }
+ ],
+ "note": "The document covers an online building permit system, not processing of land transactions, so it is other."
+}

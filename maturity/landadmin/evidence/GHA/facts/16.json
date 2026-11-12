@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-14-gha-lands-commission-outlines-four-steps-for-conducting-online-land-search",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lands Commission online services portal",
+   "country_label": "Ghana",
+   "class": "landmis",
+   "platform": "onlineservices.lc.gov.gh",
+   "owner": "Lands Commission",
+   "tiers": "10 of 16 regions"
+  }
+ ],
+ "note": "The document describes online searches only; it does not say transactions are processed electronically, or that records are joined to maps, valuation or tax."
+}

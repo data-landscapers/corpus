@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-23-eth-south-korea-funds-land-title-digitisation-in-four-cities",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Addis Fortune reports a USD 30 million pilot, financed by a Korea Exim Bank loan through the Ministry of Urban and Infrastructure, kicked off in March 2024 to bring drone cadastre mapping and integrated land title registration to Hawassa, Bahir Dar, Welayta Sodo and Adama.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Integrated land title registration pilot",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated land title registration pilot",
+   "country_label": "Land title and cadastre pilot, four cities",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Urban and Infrastructure",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-07-tun-terres-domaniales-11-000-hectares-mis-a-la-disposition-des-societes-co",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "La Presse reports the minister of state domains said the cadastral geoportal, built with the survey and cadastre office (OTC) and the national cartography centre (CNCT), should be finalised within two years to locate state properties and update their data.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Geoportail cadastral",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Geoportail cadastral",
+   "country_label": "Cadastral geoportal",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of State Domains and Land Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
