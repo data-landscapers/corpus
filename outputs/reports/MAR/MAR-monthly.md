@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: MAR
-ledger_rows: 26
+ledger_rows: 27
 not_held: 14
-record: 7a827b9f7dc3
+record: d509afb4e4e8
 ---
 
 # News, Oct – Nov 2026
@@ -243,6 +243,8 @@ Morocco's draft 2027 finance bill includes MAD 1.34 billion for digital sovereig
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -373,6 +375,22 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[Samsung Pay Launches in Morocco with Mastercard Tokenization Technology](https://techafricanews.com/2026/11/05/samsung-pay-launches-in-morocco-with-mastercard-tokenization-technology/)** — Tech Africa News, 5 November 2026
 
 Samsung Pay launched in Morocco on 5 November 2026 using Mastercard's tokenisation service. Eligible Mastercard cardholders at participating banks can pay with compatible Samsung devices. The banks were not named.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Land agency online services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Morocco is making property paperwork a little less complicated](https://lnt.ma/morocco-is-making-property-paperwork-a-little-less-complicated/)** — La Nouvelle Tribune, 11 November 2026
+
+Morocco's land conservation agency, ANCFCC, has introduced an online service for owners of registered property to request and download ownership certificates without visiting a registry office (reported 11 November 2026). The agency says it aims to reduce waiting times and protect personal information.
 
 </div>
 
