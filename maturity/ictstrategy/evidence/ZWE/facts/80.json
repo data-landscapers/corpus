@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-zwe-telone-data-centres-project",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2027",
+   "fact": "The ZIDA project page names the National ICT Policy 2022-2027 as the policy its TelOne data centre project aligns to, in a mapping it calls illustrative and pending validation.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "National ICT Policy 2022-2027",
+   "class": "sector"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

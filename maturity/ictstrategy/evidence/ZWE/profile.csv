@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZWE,sector,governance,qualifier,body:mandated;finance:not-stated,2022,ZWE-008;ZWE-009,ZWE-013=body:mandated;ZWE-014=finance:not-stated,nothing dated since 2023-11-02
+ZWE,sector,governance,qualifier,body:mandated;finance:not-stated,2022,ZWE-008;ZWE-009,ZWE-013=body:mandated;ZWE-014=finance:not-stated,nothing dated since 2023-11-12
 ZWE,sector,standing,coverage,adopted,2026-07,ZWE-002;ZWE-004;ZWE-010;ZWE-016;ZWE-018;ZWE-020,ZWE-015=announced,
-ZWE,sector,text,coverage,public,2022,ZWE-005;ZWE-011,,nothing dated since 2023-11-02
-ZWE,sector,period,coverage,to:2027,2026-07,ZWE-003;ZWE-006;ZWE-017;ZWE-019;ZWE-021,ZWE-001=to:2030,
-ZWE,sector,plan,coverage,actions,2022,ZWE-007;ZWE-012,,nothing dated since 2023-11-02
+ZWE,sector,text,coverage,public,2022,ZWE-005;ZWE-011,,nothing dated since 2023-11-12
+ZWE,sector,period,coverage,to:2027,2026-07,ZWE-003;ZWE-006;ZWE-017;ZWE-019;ZWE-021;ZWE-022,ZWE-001=to:2030,
+ZWE,sector,plan,coverage,actions,2022,ZWE-007;ZWE-012,,nothing dated since 2023-11-12
 ZWE,sector,reporting,coverage,,,,,nothing found
 ZWE,sector,last12,qualifier,,,,,nothing found
