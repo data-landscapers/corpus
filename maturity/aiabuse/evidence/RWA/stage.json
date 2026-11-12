@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "aiharm",
-      "stage": "no evidence",
-      "rule": "",
+      "stage": "unplaced",
+      "rule": "none",
       "authority": "",
       "enforced": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found says whether anything addresses harms from AI.",
-      "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
-      "as_at": "2026-10-18"
+      "gaps": "A November 2026 op-ed says no binding AI rule binds developers or deployers, but names a National AI Agency approved by Cabinet in June 2026, so absence of any authority is not shown. No draft rule on AI harms is found.",
+      "note": "The one row says the 2023 AI policy's principles are not statutory duties, which falls short of the stage 1 claim that nothing addresses AI harms. Nothing shows a draft or a rule in force, so no stage is set.",
+      "as_at": "2026-11-12"
     }
   ]
 }

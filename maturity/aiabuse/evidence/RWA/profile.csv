@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,aiharm,rule,coverage,,,,,nothing held
-RWA,aiharm,authority,coverage,designated,2026-06-08,RWA-001;RWA-002,,
-RWA,aiharm,enforced,coverage,,,,,nothing held
+RWA,aiharm,rule,coverage,none,2026-11-11,RWA-003,,
+RWA,aiharm,authority,coverage,,,,,nothing found
+RWA,aiharm,enforced,coverage,,,,,nothing found

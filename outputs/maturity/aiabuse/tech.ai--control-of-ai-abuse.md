@@ -25,8 +25,8 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 | 3 Established | 12 |
 | 2 Nascent | 11 |
 | 1 Absent | 12 |
-| Unplaced | 0 |
-| No evidence | 14 |
+| Unplaced | 1 |
+| No evidence | 13 |
 
 ## Countries
 
@@ -283,6 +283,12 @@ A 2025 source says nothing addresses harms from AI.
 
 - Dubawa says Sierra Leone currently has no specific legislation regulating the use or attribution of AI-generated images, though Section 6 of the Independent Media Commission Regulations 2022, which prohibits broadcasting untrue information, may apply in some contexts ([source, 2025-08-03](https://dubawa.org/facebook-user-posts-ai-generated-images-to-portray-non-existent-tourist-side-of-sierra-leone/)).
 
+### Rwanda: Unplaced
+
+Rwanda's AI principles were policy, not binding rules, in 2026; whether any rule or authority addresses AI harms is unclear, so no stage is set.
+
+Not established: A November 2026 op-ed says no binding AI rule binds developers or deployers, but names a National AI Agency approved by Cabinet in June 2026, so absence of any authority is not shown. No draft rule on AI harms is found.
+
 ### Botswana: No evidence
 
 Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
@@ -344,12 +350,6 @@ Nothing found names a rule or authority against harms from AI or says there is n
 Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Niger: No evidence
-
-Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing found says whether anything addresses harms from AI.
-
-### Rwanda: No evidence
 
 Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 

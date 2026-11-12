@@ -4,6 +4,7 @@ AGO,Plataforma de Interoperabilidade da Administração Pública,AGO,other,,Inst
 AGO,Agência de Protecção de Dados (APD),Agência de Protecção de Dados (APD),aiharm,,Government of Angola,,2026-06-01-ago-regulacao-da-ia-em-angola-quem-regula-e-o-que-ja-vincula-hoje
 BEN,référentiel national de cybersécurité des systèmes d'intelligence artificielle,Bénin,aiharm,,ASIN,four risk tiers,2026-10-09-ben-cadreco-cdsi-ia-talents
 CMR,ANTIC toll-free hotline 8202,Cameroon,other,telephone hotline,ANTIC,national,2026-07-10-stopblablacam-digital-shield-cybercrime-victims
+CMR,National Artificial Intelligence Strategy (SNIA),Cameroon,other,,Ministry of Posts and Telecommunications,,2025-07-08-snia-2040-ai-roadmap-seven-pillars-techafricanews
 COG,ARPCE (Regulatory Postal and Electronic Communications Agency),Congo,other,,ARPCE,,2026-01-09-congo-arpce-seminar-digital-regulation-ai-governance-techafricanews
 COM,Code de l'information et de la communication,Comores,aiharm,,Union des Comores,,2026-02-27-cnpa-comores-nouveau-souffle-code-information-communication
 COM,Conseil national de la presse et de l'audiovisuel (CNPA),Comores,other,,CNPA,,2026-02-27-cnpa-comores-nouveau-souffle-code-information-communication
@@ -12,6 +13,9 @@ EGY,"National Council for Artificial Intelligence, Quantum Computing and Emergin
 EGY,Egyptian Responsible AI Center,Egypt,aiharm,,Ministry of Communications and Information Technology,national,2026-06-10-egypt-ai-national-security-strategy-karnak-ahram
 EGY,Egyptian Center for Responsible AI (ECRAI),Egypt,other,,proposed in the draft AI law,,2026-06-23-egy-people-of-internet-misinformation-laws-deepfake-gap
 EGY,AI governance bill,Egypt,aiharm,,MP Amira Saber,,2024-06-29-egy-almasryalyoum-amira-saber-ai-governance-bill
+EGY,Egyptian Charter for Responsible AI,Egypt,other,,National Council for Artificial Intelligence,,2025-03-01-egy-mcit-yearbook-2024
+EGY,Draft AI law,Egypt,aiharm,,MCIT,,2025-03-01-egy-mcit-yearbook-2024
+EGY,National Council for Artificial Intelligence,Egypt,other,,ICT Minister,,2025-03-01-egy-mcit-yearbook-2024
 ETH,Draft AI Proclamation,Ethiopia,aiharm,,Ethiopian Artificial Intelligence Institute,,2026-05-01-eth-kas-ai-cybersecurity-mapping-interface
 GAB,Comité National Technique pour l'IA (CTN-IA),Gabon,other,,Government of Gabon with UNESCO support,,2024-08-02-unesco-global-ai-ethics-governance-observatory-gabon
 GAB,Ordonnance n°0011/PR/2026,Gabon,aiharm,,Presidency of Gabon,,2026-04-16-gab-village-justice-droit-reseaux-sociaux-ordonnances-analyse
@@ -24,11 +28,13 @@ GIN,Haute Autorite de la Communication (HAC),Guinea,other,,HAC,,2025-11-28-hac-i
 GNQ,"Ley Núm. 7/2024 regulating social media use, computer crimes and cybercrime",Guinea Ecuatorial,other,,Government of Equatorial Guinea,,2026-07-01-gobierno-recuerda-plena-vigencia-ley-7-2024-redes-sociales
 GNQ,ANIAD,Autoridad Nacional de Inteligencia Artificial y Datos,aiharm,,"Ministerio de Transportes, Telecomunicaciones y Sistemas de Inteligencia Artificial",,2025-08-27-guinea-ecuatorial-ley-inteligencia-artificial-aniad
 KEN,"Artificial Intelligence Bill, 2026",Kenya,other,,Senate of Kenya,,2026-10-15-ken-thestar-senate-committee-rejects-ai-bill-2026
+KEN,Kenya National AI Strategy 2025-2030 (draft),Kenya,other,,"Ministry of Information, Communications and the Digital Economy",,2025-01-01-kenya-national-ai-strategy-2025-2030-draft-for-public-validation
 LBY,National Charter for AI Ethics,Libya,other,,General Information Authority,,2026-07-22-lby-smex-libya-ai-strategy-built-without-participation
 LBY,National oversight body for AI ethics (proposed),Libya,aiharm,,Council of Ministers,,2026-07-22-lby-smex-libya-ai-strategy-built-without-participation
 MAR,CNDP,Morocco,other,,,,2025-03-18-mar-cndp-communique-ia-protection-donnees-auditions
 MDG,vbg.pn.gov.mg reporting platform,Madagascar,other,web and Android app,Police nationale (DSIT),,2026-07-30-madagascar-police-digital-platform-gbv-disappearances
 MOZ,National Commission for Artificial Intelligence (CNIA),Mozambique,aiharm,,Council of Ministers,,2026-05-06-cnia-begins-advising-government-on-ai-clubofmozambique
+MRT,National Artificial Intelligence Strategy of Mauritania 2024-2029 (Draft),Mauritania,other,,MTNIMA,,2024-04-01-mauritania-national-artificial-intelligence-strategy-2024-2029-draft
 MUS,FAIR guidelines,Mauritius,other,,AI Unit,,2026-04-12-national-ai-strategy-fair-guidelines-launch-lexpress
 MWI,AI Bill,Malawi,aiharm,,Ministry of ICT,,2026-08-10-malawi-drafts-ai-bill
 MWI,National AI Strategy,Malawi,other,,Ministry of ICT,,2026-08-10-malawi-drafts-ai-bill
@@ -43,6 +49,7 @@ RWA,National AI Agency,Rwanda,other,,Government of Rwanda,national,2026-09-25-rw
 RWA,National Artificial Intelligence Agency,Rwanda,aiharm,,Government of Rwanda,,2026-06-08-ai-agency-cabinet-approves-ktpress
 RWA,National Artificial Intelligence Agency,Rwanda,aiharm,,Cabinet of Rwanda,national,2026-06-10 Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation
 RWA,Guidelines No 52/2026 on Artificial Intelligence Risk Management for Financial Institutions,Rwanda,aiharm,,National Bank of Rwanda,,2026-06-04-rwa-bnr-guidelines-52-2026-ai-risk-financial-institutions
+RWA,National AI Agency,Rwanda,other,,Cabinet-approved June 2026,,2026-11-11-rwa-rwandas-skills-first-path-to-ai-governance
 SDN,Sudanese Data and Artificial Intelligence Authority,Sudan,aiharm,,Government of Sudan,,2026-07-19-sudan-scps-privacy-gap-intro
 SEN,Commission de protection des donnees personnelles (CDP),Senegal,other,,CDP,,2025-10-08-seneweb-cdp-communique-usage-abusif-ia-deepfakes
 SLE,Cyber Security and Crime Act 2021,Sierra Leone,other,,,,2026-09-17-itweb-africa-sierra-leone-ai-deepfake-awareness-campaign
@@ -53,8 +60,10 @@ TCD,MCENDA,Chad,other,,Ministry of digital economy (MCENDA),,2026-06-05-unesco-t
 TCD,ADETIC,Chad,other,,,,2026-06-05-unesco-tchad-profil-ia-ram
 TCD,ANSICE,Chad,other,,,,2026-06-05-unesco-tchad-profil-ia-ram
 TUN,Draft organic law on personal data protection,Tunisia,aiharm,,Assembly of the People's Representatives,,2026-02-20-africanmanager-data-protection-law-parliament
+TUN,Tunisia national AI strategy (draft),Tunisia,other,,Ministry of Communication Technologies,,2025-02-06-tun-ia-une-strategie-nationale-tunisienne-sera-soumise-a-une-large-consult
 TZA,Data Protection Commission,Tanzania,other,,,,2025-07-29-tanzania-charts-path-responsible-ai
 TZA,Guidelines for the Secure and Ethical Use of Artificial Intelligence in Tanzania (Draft),Tanzania,aiharm,,MICIT,,2024-06-01-tza-micit-draft-guidelines-secure-ethical-ai
 ZAF,Electoral Code of Conduct Countering Disinformation in the Local Government Elections,South Africa,aiharm,,Electoral Commission of South Africa,,2026-09-04-zaf-electoral-code-countering-disinformation-gn4138
 ZAF,"IEC partnership with Google, Meta, Microsoft, TikTok and Moxii Africa on election disinformation",South Africa,other,,Electoral Commission (IEC),,2026-10-30-ai-exacerbates-election-disinformation-say-experts
+ZAF,National AI Policy Framework,South Africa,other,,DCDT,,2024-10-01-zaf-dcdt-national-ai-policy-framework
 ZWE,"Zimbabwe AI Ethics Framework (committed, to be tabled by end of Q1 2027)",Zimbabwe,other,,"Ministry of ICT, Postal and Courier Services",,2026-07-30-zimbabwe-ndarama-launch-ai-sovereignty-digital-gold

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-gab-restoring-social-media-access-comes-at-a-cost-in-gabon",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Global Voices, citing Gabon Review, says a law enacted on 5 October 2026 ratifies the social media ordinance and establishes a regulatory framework for AI-generated and AI-amplified content.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "Law ratifying the social media ordinance (AI-generated and AI-amplified content)",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
