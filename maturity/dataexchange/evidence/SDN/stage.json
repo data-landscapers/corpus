@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "3",
+      "stage": "5",
       "platform": "inservice",
-      "reach": "",
-      "usage": "",
+      "reach": "wide",
+      "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "SDN-001;SDN-003",
-      "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
-      "note": "Rebuild 2026-10-28: the Baladna needs-disclosure service passes data from the industry, transport and agriculture bodies to Customs, live in September 2026. No count of ten is held.",
-      "as_at": "2026-10-28"
+      "stage_sources": "SDN-006;SDN-007;SDN-008",
+      "gaps": "The Baldna counts are the platform's own home page; most of its 265,785 transactions are services to the public, and only 148 are between government bodies.",
+      "note": "On 11 November 2026 the Baldna home page counts 48 or more government institutions on the national exchange platform and 265,785 completed transactions. That answers the count of ten and the figure for use, so every rung is met.",
+      "as_at": "2026-11-12"
     }
   ]
 }

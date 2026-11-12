@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-21-mdg-implementation-status-and-results-report-digital-governance-and-identi",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The World Bank PRODIGY report says the DGU-managed interoperability platform has integrated and interconnected eight information systems and databases (nine in the narrative) from public entities.",
+   "as_of": "2023-10-16",
+   "date_precision": "day",
+   "system": "DGU interoperability platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DGU interoperability platform",
+   "country_label": "Madagascar",
+   "class": "exchange",
+   "platform": "",
+   "owner": "DGU",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

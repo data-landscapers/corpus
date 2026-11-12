@@ -20,9 +20,9 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Leading | 6 |
 | 4 Operating | 2 |
-| 3 Established | 8 |
+| 3 Established | 7 |
 | 2 Nascent | 23 |
 | 1 Absent | 3 |
 | Unplaced | 3 |
@@ -51,6 +51,14 @@ Use of the government data exchange platform was reported in 2024.
 
 - The ADD says GISRE processed more than 95 million transactions in 2024, affecting 18 million citizens ([source, 2024](https://www.lavieeco.com/tech/add-silence-on-digitalise/)).
 - The ADD says more than 76 organisations are connected to GISRE ([source, 2025-04](https://www.lavieeco.com/tech/add-silence-on-digitalise/)).
+
+### Sudan: 5 Leading
+
+Sudan's exchange platform counted over 48 institutions and 265,785 transactions in November 2026, 148 of them between government bodies.
+
+- The Ministry of Digital Transformation and Communications describes Baldna as the national unified platform for data exchange and government transactions, live with 4 government-to-government services ([source, 2026-11-11](https://baldna.gov.sd/)).
+- The Baldna home page counts 48+ government institutions and 141+ digital services on the platform ([source, 2026-11-11](https://baldna.gov.sd/)).
+- The Baldna home page reports 265,785+ completed transactions, of which 148 are government-to-government ([source, 2026-11-11](https://baldna.gov.sd/)).
 
 ### Uganda: 5 Leading
 
@@ -121,13 +129,6 @@ A government data exchange platform was in service in 2024; no source found says
 
 - Cybernetica says an ESTDEV-funded project begun in 2024 continues scaling the Nam-X platform, developing two digital services for it, and was expected to end in March 2025; no count of connected bodies is given ([source, 2024](https://cyber.ee/resources/case-studies/namibia/)).
 - Cybernetica says that in 2014 it and the e-Governance Academy introduced an interoperability platform, known locally as Nam-X, connecting databases of different entities, and that Namibia has implemented it for secure data exchange between organisations ([source, 2014](https://cyber.ee/resources/case-studies/namibia/)).
-
-### Sudan: 3 Established
-
-A government data exchange platform was in service in 2026; no source found says how many systems it connects.
-
-- The Ministry of Digital Transformation and Communications and the National Investment Authority announced the needs-disclosure service live on the Baladna platform, linking the industry, transport and agriculture bodies and passing approved items to the Customs Authority, with data moving between them electronically ([source, 2026-09-03](https://atheernews.net/222149/)).
-- The Ministry of Digital Transformation and Telecommunications is said to offer the UNIVERSAL SECURE (CONSOLEX) unified API gateway, which integrates government systems and enables secure data exchange among institutions; no connected-body count or volume is given ([source, 2026](https://www.sudanembassyberlin.com/index.php/de/news-tt/706-ministry-of-digital-transformation-launches-phase-two-of-the-3-3-digital-transformation-plan)).
 
 ### Tunisia: 3 Established
 

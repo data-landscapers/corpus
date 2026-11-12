@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-18-com-avis-general-de-passation-de-marches-projet-d-appui-a-la-digitalisatio",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "ANADEN's general procurement notice for the AfDB-funded PADEC project lists the implementation of an interoperability and data exchange platform among its components, with first bidding documents expected from July 2025.",
+   "as_of": "2025-06-18",
+   "date_precision": "day",
+   "system": "PADEC interoperability and data exchange platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PADEC interoperability and data exchange platform",
+   "country_label": "Comoros",
+   "class": "exchange",
+   "platform": "",
+   "owner": "ANADEN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

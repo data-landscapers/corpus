@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-26-lby-local-government-secure-government-network-project",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Secure Government Network",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Local Government",
+   "tiers": ""
+  }
+ ],
+ "note": "A network being scoped to enable data exchange; no exchange platform is built or piloted."
+}

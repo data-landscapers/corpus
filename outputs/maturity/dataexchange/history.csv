@@ -79,3 +79,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,TUN,dpi.exchange--national-data-exchange-system,ladder,5,3,TUN-009;TUN-001;TUN-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-11,TZA,dpi.exchange--national-data-exchange-system,fact,4,4,TZA-011;TZA-001,"e-GA counts more than 180 institutions and 200 systems on GovESB in June 2025; stays at 4, no exchange figure"
 2026-11-11,ZMB,dpi.exchange--national-data-exchange-system,fact,5,5,ZMB-024;ZMB-023,minister: 532 services on the Government Service Bus and 1.2 million transactions in 2025; stays at 5 on newer figures
+2026-11-12,SDN,dpi.exchange--national-data-exchange-system,fact,3,5,SDN-006;SDN-007;SDN-008,"Baldna home page of 11 November 2026 counts 48+ institutions and 265,785 transactions: 3 to 5"
