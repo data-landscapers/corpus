@@ -3,9 +3,9 @@ title: Burkina Faso — News, Oct – Nov 2026
 compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 place: BFA
-ledger_rows: 42
+ledger_rows: 44
 not_held: 6
-record: 71baf97d4c5e
+record: 66eeb7ced6e9
 ---
 
 # News, Oct – Nov 2026
@@ -720,6 +720,28 @@ A four-year research project on the digital transition of university work in Bur
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Financial inclusion rate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inclusion financière : avec 79,7 % à fin 2024, le Burkina en avance de 6,1 points sur le taux global de l'UEMOA](https://cfinance.news/article/inclusion-financiere-avec-797-a-fin-2024-le-burkina-en-avance-de-61-points-sur-le-taux-global-de-luemoa/)** — C'Finance, 21 October 2026
+
+Expert talk: half of those included through e-money leave accounts unused; strict banking only 23.4% (2024).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina : 44,2 milliards de FCFA mobilisés pour atteindre 90 % d'inclusion financière en 2031](https://lefaso.net/spip.php?article150583=)** — leFaso.net, 6 November 2026
+
+SNFI 2 for 2027-2031 in validation; inclusion 79.04% (2023) and 81.8% (end 2025) against a 75% first target.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Lafiako health complaints platform</p>
 
 <div class="bulletin-item" markdown="1">
@@ -727,6 +749,20 @@ A four-year research project on the digital transition of university work in Bur
 **[Burkina/Santé : 'Lafiako', une plateforme numérique pour traiter les plaintes dans le système de santé](https://lefaso.net/spip.php?article150463)** — leFaso.net, 2 November 2026
 
 Burkina Faso's Ministry of Health has launched Lafiako, a digital platform for complaints, information requests and suggestions, leFaso.net reported on 2 November 2026. It covers public and private health facilities. Each request is logged and passed to the responsible body, with a target of an answer within ten days. The platform works alongside 108 reception services, the toll-free line 3535 and a WhatsApp number.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Second national inclusive finance strategy 2027-2031</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Burkina : 44,2 milliards de FCFA mobilisés pour atteindre 90 % d'inclusion financière en 2031](https://lefaso.net/spip.php?article150583=)** — leFaso.net, 6 November 2026
+
+Summarised under [Access to services](#access-to-services).
 
 </div>
 
