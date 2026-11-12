@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 236
+sources_cited: 238
 sections_written: 39
 not_established: 0
 acquire_lines: 31
@@ -258,7 +258,7 @@ In May 2026 Lesotho's [Department of Agricultural Research was validating agrono
 
 In 2026 rural primary schools [recorded enrolment, attendance and administrative data entirely on paper](https://education.dhis2.org/building-a-smarter-education-data-system-in-lesotho-with-dhis2/). District offices verify and key in the annual census forms by hand. The education information system on DHIS2 [had reached only ministry and district level](https://education.dhis2.org/building-a-smarter-education-data-system-in-lesotho-with-dhis2/). Staff at facilities using the electronic patient register [kept paper records alongside it](https://doi.org/10.1136/bmjopen-2024-093878) (2024). Police stations [are to be equipped with desktop computers for case monitoring](https://lestimes.com/?p=90165) (2026). In the mountain districts civil registration [depends on transport to move applications between councils and the district office](https://www.lena.gov.ls/sekete-champions-civil-registration-access-in-hard-to-reach-qachas-nek/) (January 2026).
 
-In 2026 tablet-based birth registration [operated in selected community councils](https://lesotho.un.org/en/296588-every-child-counts-linking-nutrition-water-and-identity-better-future) through village health workers. The electronic patient register [covers five programmes, among them tuberculosis, antenatal care and cervical cancer](https://doi.org/10.1136/bmjopen-2024-093878). The Lehokela community-policing platform [went national in April 2026](https://www.undp.org/lesotho/blog/lehokela-seven-years-making-one-national-platform), with rollout to stations phased from June.
+In 2026 tablet-based birth registration [operated in selected community councils](https://lesotho.un.org/en/296588-every-child-counts-linking-nutrition-water-and-identity-better-future) through village health workers. The electronic patient register [covers five programmes, among them tuberculosis, antenatal care and cervical cancer](https://doi.org/10.1136/bmjopen-2024-093878). The Lehokela community-policing platform [went national in April 2026](https://www.undp.org/lesotho/blog/lehokela-seven-years-making-one-national-platform), with rollout to stations phased from June. [In March 2026 the police inspectorate reported officers stitching loose pages into makeshift incident books](https://lestimes.com/?p=89913). [In 2026 the police service was handed a digital transformation policy and a digital strategy](https://lesotho.un.org/en/315992-lehokela-application-advancing-community-driven-crime-prevention-and-peacebuilding-lesotho).
 
 The [rural economy scored 61.9 of 100 in 2023 and ranked 27th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ls.pdf), up 3.0 points over 2014–2023. Rural economy support rose 23.7 points to 68.7, the third most improved of Lesotho's 96 indicators. Rural market access [fell 11.7 points to 28.3 of 100 and 35th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ls.pdf).
 
