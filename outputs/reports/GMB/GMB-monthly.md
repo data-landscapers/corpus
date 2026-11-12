@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: GMB
-ledger_rows: 15
+ledger_rows: 16
 not_held: 2
-record: 042984982f8e
+record: 368178cab97c
 ---
 
 # News, Oct – Nov 2026
@@ -165,6 +165,20 @@ The Gambia's United Democratic Party asked the electoral commission to explain a
 **[IEC Chairman Declares Final Voter Register Will Be Released Only After Revising Courts Finish Work](https://standard.gm/iec-chairman-declares-final-voter-register-will-be-released-only-after-revising-courts-finish-work/)** — The Standard, 23 October 2026
 
 The Gambia's electoral commission will give parties the final voter register, combining the 2021 register with the 2026 supplementary registration, only after the revising courts finish and names ordered removed are expunged. The opposition UDP had asked why the commission announced 212,095 new registrations when the dataset it received held 183,163.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Land Administration System and Land Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministry Updates Public on National Land Policy Implementation](https://senigambia.com/ministry-updates-public-on-national-land-policy-implementation/)** — Senigambia, 9 November 2026
+
+Land information system alpha in testing; records conversion centre contracted; Kombo East titling pilot January 2027.
 
 </div>
 
