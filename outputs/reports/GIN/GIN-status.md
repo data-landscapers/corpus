@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 230
+sources_cited: 231
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -118,7 +118,7 @@ Guinea's digital sector has drawn 34 external commitments, worth about USD 567 m
 <!-- derived -->
 Guinea has moved from one submarine cable landing to two further cables under commitment within roughly a year (June 2026).
 
-[Facebook, YouTube and TikTok were blocked from 28 July 2026, with no authority acknowledging it](https://www.guinee360.com/28/07/2026/perturbation-de-lacces-a-internet-en-guinee-lablogui-denonce-un-blocage-cible-de-facebook-youtube-et-tiktok/). [The block was still in place on 7 August 2026](https://www.jeuneafrique.com/1830582/politique/guinee-des-reseaux-sociaux-coupes-alors-que-mamadi-doumbouya-est-a-letranger/). [In August 2026 providers and operators said the decision was not theirs, and a consumer union reported WhatsApp restricted too](https://www.guinee114.com/2026/08/04/guinee-bany-sidibe-denonce-les-restrictions-sur-les-reseaux-sociaux-et-la-degradation-de-linternet/).
+[Facebook, YouTube and TikTok were blocked from 28 July 2026, with no authority acknowledging it](https://www.guinee360.com/28/07/2026/perturbation-de-lacces-a-internet-en-guinee-lablogui-denonce-un-blocage-cible-de-facebook-youtube-et-tiktok/). [The block was still in place on 7 August 2026](https://www.jeuneafrique.com/1830582/politique/guinee-des-reseaux-sociaux-coupes-alors-que-mamadi-doumbouya-est-a-letranger/). [In August 2026 providers and operators said the decision was not theirs, and a consumer union reported WhatsApp restricted too](https://www.guinee114.com/2026/08/04/guinee-bany-sidibe-denonce-les-restrictions-sur-les-reseaux-sociaux-et-la-degradation-de-linternet/). On 15 August 2026 a bloggers' association [announced the restrictions lifted after more than 20 days, with no official explanation given](https://ablogui.org/wp-content/uploads/2026/08/Communique-03_2026_ABLOGUI_DroitALInternet.pdf).
 
 In November 2026 [the ministry's deputy national telecoms director put the national fibre network at 4,350 km, with 10,000 km targeted by 2030](https://www.sikafinance.com/marches/connectivite-en-afrique-la-24e-reunion-du-fratel-explore-les-grands-defis-de-l-investissement-public-et-de-la-regulation_65417). [More than 600 unserved white zones are the priority for 2026](https://www.wearetech.africa/en/fils-uk/news/tech/guinea-reviews-2025-digital-sector-gains-targets-faster-rollout-in-2026). [In June 2025 it was linked to Sierra Leone's at Pamelap at 42.5 Gbps, with a 100 Gbps upgrade planned](https://www.telecomreviewafrica.com/articles/general-news/12188-guinea-and-sierra-leone-link-national-fibre-networks-for-regional-digital-integration/). [On 20 May 2026 the backbone's first loop was raised to 400 Gb/s from 200 Gb/s](https://www.agenceecofin.com/actualites-numerique/2205-138703-la-guinee-augmente-la-capacite-de-son-reseau-internet-de-700-en-un-an-et-demi). [The target is 600 Gb/s across the network by the end of 2026](https://www.agenceecofin.com/actualites-numerique/2205-138703-la-guinee-augmente-la-capacite-de-son-reseau-internet-de-700-en-un-an-et-demi).
 
