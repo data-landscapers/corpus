@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: DZA
-ledger_rows: 34
+ledger_rows: 36
 not_held: 5
-record: a87614a4814a
+record: 20ac75b2707f
 ---
 
 # News, Oct – Nov 2026
@@ -434,6 +434,20 @@ Algeria's commercial register (CNRC) sets out the steps to create each type of c
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fadaeldjazair land and property geoportal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fadaeldjazair : livret foncier, cadastre et actes, ce que change la nouvelle version du portail](https://www.algerie360.com/fadaeldjazair-livret-foncier-cadastre-en-ligne/)** — Algérie360, 2 November 2026
+
+New geoportal version from 1 November 2026; 27m documents from 217 land offices, NIN login, SATIM card payment.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -503,6 +517,20 @@ The Ministry of Internal Trade opened an online consumer portal at tawassol.comm
 **[High Commission for Digitization Trains Officials in Electronic Verification](https://dzwatch.dz/en/algeria/high-commission-for-digitization-trains-officials-in-electronic-verification)** — DZ Watch, 3 November 2026
 
 Algeria's High Commission for Digitization trained information system officials in verifying documents issued through the national government services portal. Administrations can then accept those documents without asking citizens for new paper copies.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Dzair Digital Services national portal (single window)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Portail numérique: Les documents en ligne désormais reconnus](https://www.echoroukonline.com/portail-numerique-les-documents-en-ligne-desormais-reconnus)** — Echorouk El Yawmi, 11 November 2026
+
+Algeria's High Commission for Digitisation said all public administrations now accept documents issued on the Dzair Digital Services portal. A decision of Prime Minister Sifi Ghrieb requires it. The portal has grown from 21 services at its July 2026 launch to 68. It had over two million registered users on 10 November 2026.
 
 </div>
 
