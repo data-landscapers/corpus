@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-mus-upcoming-projects",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MeRS disaster recovery site",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "secondary DR site",
+   "owner": "Government of Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": "The DR site is scheduled for installation in September 2025 and no place is named."
+}

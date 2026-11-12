@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-28-egy-egypt-s-c-bank-conducts-annual-crisis-drill-to-test-continuity-systems",
+ "facts": [
+  {
+   "sub_indicator": "backup",
+   "aspect": "plan",
+   "value": "tested",
+   "fact": "The Central Bank of Egypt said it completed its annual drill testing business continuity and disaster recovery, simulating a full working day from alternative sites and branches linked to its disaster recovery facility; no place is named for the facility.",
+   "as_of": "2025-09-28",
+   "date_precision": "day",
+   "system": "Central Bank of Egypt disaster recovery facility",
+   "class": "backupsite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Central Bank of Egypt disaster recovery facility",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

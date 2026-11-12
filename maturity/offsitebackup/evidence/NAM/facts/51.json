@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-01-nam-terms-of-reference-disaster-recovery-centre-site",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NamibRe disaster recovery site at BCX",
+   "country_label": "NamibRe DR site",
+   "class": "other",
+   "platform": "",
+   "owner": "Namibia National Reinsurance Corporation (state-owned enterprise)",
+   "tiers": ""
+  }
+ ],
+ "note": "A state-owned reinsurer's own recovery site within 1 km of its main one, with a consultancy to plan a farther site; not a public body, under 200 km."
+}

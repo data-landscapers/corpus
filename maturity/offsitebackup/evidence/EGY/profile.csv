@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 EGY,backup,site,coverage,shared,2024-04-28,EGY-001,,
-EGY,backup,plan,coverage,,,,,nothing held
-EGY,backup,tier,coverage,,,,,nothing held
+EGY,backup,plan,coverage,tested,2025-09-28,EGY-002;EGY-003,,
+EGY,backup,tier,coverage,,,,,nothing found

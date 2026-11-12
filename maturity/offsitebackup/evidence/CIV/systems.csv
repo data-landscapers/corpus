@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CIV,Data Center National,Côte d'Ivoire,backupsite,,Ministère de la Transition Numérique,,2024-02-16-cote-divoire-lancement-construction-data-center-national
 CIV,3R Technologie Security Operation Center (SOC),Côte d'Ivoire,other,,3R Technologie (private company),,2026-05-19-cybersecurite-centre-soc-cybermenaces-temps-reel-fratmat
+CIV,"State-owned data center (Cybastion, EXIM-backed)",Cote d'Ivoire,other,"1.73MW IT, 228 racks, 10PB",Government of Cote d'Ivoire,,2026-09-09-dcd-ivory-coast-state-owned-data-center-2027

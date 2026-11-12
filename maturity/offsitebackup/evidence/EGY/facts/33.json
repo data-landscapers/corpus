@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-09-egy-dostor-p1-government-data-centre-disaster-recovery-ramses-fire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "government data and cloud centre P1",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "disaster-recovery centre for the main centre in the New Administrative Capital",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": "P1 is described as the disaster-recovery site for the main centre in the New Administrative Capital, but P1's place is not named, so distance is unknown."
+}

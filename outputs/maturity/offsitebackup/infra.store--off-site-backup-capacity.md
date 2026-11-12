@@ -110,7 +110,7 @@ Not established: No source found names a backup site 200 km or more from the mai
 
 ### Namibia: Unplaced
 
-The government ran a disaster recovery centre in 2015; no source found says where it stands, and whether it still runs,, so no stage is set.
+The government ran a disaster recovery centre in 2015; whether it still runs, and where, is not on record, so no stage is set.
 
 Not established: No source found names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
 

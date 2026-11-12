@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-25-sdn-business-continuity-and-disaster-recovery-protocol-for-sudanese-banks",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Central Bank of Sudan Disaster Recovery Centre",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": "The Central Bank's recovery centre is placed only in one of the states and said not fully ready when the war began, so no distant site in service; the continuity protocol is an analyst's opinion and no test is stated."
+}

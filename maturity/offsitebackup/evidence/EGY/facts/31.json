@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-15-egy-central-bank-of-egypt-completes-the-annual-drill-for-business-continui",
+ "facts": [
+  {
+   "sub_indicator": "backup",
+   "aspect": "plan",
+   "value": "tested",
+   "fact": "The Central Bank of Egypt held its annual ISO 22301 business continuity drill on 5 December 2024, operating from alternative sites and branches and remotely connected to its Disaster Recovery site; no place is named for the site.",
+   "as_of": "2024-12-05",
+   "date_precision": "day",
+   "system": "Central Bank of Egypt Disaster Recovery site",
+   "class": "backupsite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Central Bank of Egypt Disaster Recovery site",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
