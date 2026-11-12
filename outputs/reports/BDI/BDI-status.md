@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 257
+sources_cited: 259
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -400,7 +400,7 @@ Statistical output rests on administrative records rather than survey rounds: th
 <!-- derived -->
 Across the 23 data categories assessed for Burundi in the 2024 Open Data Inventory the average score is 5.7 out of 10, and no category reaches 8.
 
-[On 8 May 2026 INSBU validated a communication strategy for the national statistical system, aligned to East African Community guidelines](https://lerenouveau.bi/linsbu-procede-a-la-validation-de-la-strategie-de-communication-du-ssn-du-burundi/). [Material on INSBU's open data platform carries a licence giving a worldwide, free and non-exclusive right to use, copy, modify, translate, publish, adapt and distribute it](https://www.insbu.bi/useragreement). [Derivative products, commercial or otherwise, are allowed, subject to attribution](https://www.insbu.bi/useragreement). [On 7 November 2025 a first national data governance strategy was validated at a workshop with UN Economic Commission for Africa support](https://www.uneca.org/eca-events/burundi-validates-its-first-national-data-governance-strategy). [Practitioners describe a country with a great deal of information but very little structured, consented and usable data, and name this as the limit on artificial intelligence](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/).
+[On 8 May 2026 INSBU validated a communication strategy for the national statistical system, aligned to East African Community guidelines](https://lerenouveau.bi/linsbu-procede-a-la-validation-de-la-strategie-de-communication-du-ssn-du-burundi/). [Material on INSBU's open data platform carries a licence giving a worldwide, free and non-exclusive right to use, copy, modify, translate, publish, adapt and distribute it](https://www.insbu.bi/useragreement). [Derivative products, commercial or otherwise, are allowed, subject to attribution](https://www.insbu.bi/useragreement). [On 7 November 2025 a first national data governance strategy was validated at a workshop with UN Economic Commission for Africa support](https://www.uneca.org/eca-events/burundi-validates-its-first-national-data-governance-strategy). [Practitioners describe a country with a great deal of information but very little structured, consented and usable data, and name this as the limit on artificial intelligence](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/). [In November 2023 the institute's head said its national data portal was open to all, with some survey indicators not updated yearly](https://lerenouveau.bi/insbu-la-publication-des-donnees-statistiques/). [A national summary data page under the IMF's enhanced dissemination system went live in April 2023](https://www.imf.org/en/news/articles/2023/04/10/pr23114-burundi-burundi-implements-the-imf-enhanced-general-data-dissemination-system).
 
 ### Geospatial data
 <!-- data.geospatial -->

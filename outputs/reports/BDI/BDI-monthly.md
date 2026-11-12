@@ -4,8 +4,8 @@ compiled: 2026-11-12
 period: 2026-10-01 to 2026-11-12
 place: BDI
 ledger_rows: 19
-not_held: 10
-record: 1daeab7f652b
+not_held: 9
+record: ceb099e50f8a
 ---
 
 # News, Oct – Nov 2026
