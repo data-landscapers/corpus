@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 358
+sources_cited: 362
 sections_written: 39
 not_established: 1
 acquire_lines: 49
@@ -336,6 +336,8 @@ In June 2026 a development bank's review with the higher education department [f
 [Gross spending on research and development reached R44.2 billion in 2024/25 but fell from 0.62 to 0.60 per cent of GDP, while ICT research spending rose R853 million to R5.7 billion](https://www.itweb.co.za/article/sas-ict-sector-records-largest-increase-in-rd-spend/G98YdqLGAAGMX2PD).
 
 [The University of Cape Town and the Global Center on AI Governance launched the African Hub on AI Safety, Peace and Security on 28 September 2025](https://ai.uct.ac.za/events/launch-african-hub-ai-safety-peace-and-security). [The hub sits under the AI4D programme, financed by the UK's FCDO and Canada's IDRC](https://ai.uct.ac.za/events/launch-african-hub-ai-safety-peace-and-security). [It is to carry African priorities into a global AI-safety debate set elsewhere](https://ai.uct.ac.za/events/launch-african-hub-ai-safety-peace-and-security). The same programme is funding [a GPU cluster for AI research at the university, to be live within a year of March 2026](https://www.news.uct.ac.za/images/userfiles/downloads/media/2026_03_26_AI.pdf). [The science minister stated that no government-backed home-grown large language model is under development](https://pmg.org.za/committee-question/32962/) (October 2025). [The department funds language resources instead](https://pmg.org.za/committee-question/32962/). [Four universities are building models for isiXhosa, isiZulu and Sepedi](https://www.news.uct.ac.za/article/-2026-03-18-uct-researchers-join-national-effort-to-build-ai-tools-for-african-languages). [Cape Town researchers released MzansiLM, trained from scratch on all 11 official written languages](https://www.news.uct.ac.za/article/-2026-05-04-uct-researchers-develop-ai-model-for-11-south-african-languages) (May 2026).
+
+In October 2023 [the Wits School of Governance's Tayarisha research group, which studies digital transformation and governance, took on an ICESCO Chair on innovation and futures in Africa](https://www.wits.ac.za/news/latest-news/research-news/2023/2023-10/icesco-chair-for-innovation-and-futures-in-africa-launched-at-wits.html). In October 2024 [Research ICT Africa filed 20 comments and three recommendations on the draft digital government policy framework](https://researchictafrica.net/research/comment-on-south-africas-draft-digital-policy-framework/). In February 2026 [Stellenbosch University's Policy Innovation Lab hosted senior officials on regulatory sandboxes for the three national DPI priorities](https://www.su.ac.za/en/news/su-workshop-helps-shape-thinking-digital-public-infrastructure-sa). On 17 April 2026 [the University of Johannesburg signed a memorandum on digital policy with the communications minister, alongside a new UNESCO Chair on digital inclusion for 2026 to 2030](https://news.uj.ac.za/news/uj-anchors-national-digital-strategy-with-unesco-chair-and-government-partnership/).
 
 ## Inclusion
 

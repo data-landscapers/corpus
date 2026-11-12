@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: ZAF
-ledger_rows: 96
+ledger_rows: 98
 not_held: 19
-record: 8527bf2cecd9
+record: 9376fdadb167
 ---
 
 # News, Oct – Nov 2026
@@ -930,6 +930,20 @@ In The Citizen, Johan van Graan argued that SIM cards registered in bulk to fals
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Third-party payment provider public register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[TPPP Public Register](https://www.resbank.co.za/content/dam/sarb/what-we-do/payments-and-settlements/regulation/public-lists/public-list-tppp-13-10-2026.pdf)** — South African Reserve Bank, 13 October 2026
+
+554 numbered TPPP entries by sponsoring bank and stream as at 13 Oct 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Postbank authorisation as a bank</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1726,6 +1740,8 @@ KwaZulu-Natal's premier launched a fibre pre-provisioning proof of concept at th
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#open-data">Open data</a>
 </nav>
 
 ### National statistics
@@ -1739,6 +1755,22 @@ KwaZulu-Natal's premier launched a fibre pre-provisioning proof of concept at th
 **[Keynotes address by Deputy Minister in The Presidency, Nonceba Mhlauli, on the occasion of celebrating the Stats SA Census 30th Anniversary in South Africa, Isibalo House, Pretoria](https://www.presidency.gov.za/keynotes-address-deputy-minister-presidency-nonceba-mhlauli-occasion-celebrating-stats-sa-census)** — The Presidency of the Republic of South Africa, 9 October 2026
 
 South Africa's deputy minister in the Presidency, Nonceba Mhlauli, marked 30 years of censuses by Statistics South Africa in Pretoria, in a speech published on 9 October 2026. She said Census 2031 is already in development, called statistical independence a constitutional safeguard, and said South Africa, as chair of the SADC Statistics Council, seeks to share experience with the region.
+
+</div>
+
+</div>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Treasury eTender transparency portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transparency Portal Beta - National Treasury](https://data.etenders.gov.za/home/index)** — National Treasury, 11 November 2026
+
+OCDS procurement data from May 2021 under CC BY 4.0, with REST API; 169,559 tenders, 73,447 awards (Nov 2026).
 
 </div>
 
