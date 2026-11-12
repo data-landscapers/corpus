@@ -2,11 +2,11 @@
 
 ## Business register
 
-**Online registration.** [The Ministry of Justice and Constitutional Affairs' Business Registration Service (BRS) is an online platform, reached with an eServices account, where owners validate and submit business or company details for approval](<https://brs.eservices.gov.ss>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Online registration.** [The Ministry of Justice and Constitutional Affairs runs the Business Registration Service online, reached with a government eServices account](<https://brs.eservices.gov.ss>). Owners use it to validate and submit business or company details for approval. [In November 2026 the government's eServices portal listed the ministry's New E-Business Portal](<https://accounts.eservices.gov.ss/mdas>). The portal lets users register and manage a business, partnership or company online.
 
-**Shared number.** No source found since October 2023 says registration gives one number shared with tax or social security. The nearest held fact: [the one given above](<https://brs.eservices.gov.ss>).
+**Shared number.** [The Business Registration Service sends a firm's details to the ministry for approval](<https://brs.eservices.gov.ss>). No source found says registration gives a firm one number shared with the tax authority or social security.
 
-**Beneficial owners.** No source found since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<https://brs.eservices.gov.ss>).
+**Beneficial owners.** [The New E-Business Portal is run by the Ministry of Justice](<https://accounts.eservices.gov.ss/mdas>). No source found says the register holds the beneficial owners of companies.
 
 ***Also on file***. [eServices.gov.ss](<https://brs.eservices.gov.ss>).
 
