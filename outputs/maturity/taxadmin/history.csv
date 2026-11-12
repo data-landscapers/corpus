@@ -40,3 +40,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,TZA,dpi.mis--tax,fact,2,3,TZA-003,"External claims (housekeeping 58): Tanzania told GovTech (2025) e-filing is in use; filing in service, 3"
 2026-11-11,UGA,dpi.mis--tax,fact,2,3,UGA-003,"External claims (housekeeping 58): URA's File a Return page (July 2026) sets out filing returns on the URA web portal; filing in service, 3"
 2026-11-11,RWA,dpi.mis--tax,fact,4,5,RWA-004,"External claims (housekeeping 58): RRA's tax statistics (2023/24) put e-filing at 96-100% across the main taxes; most filings online, 5"
+2026-11-12,KEN,dpi.mis--tax,fact,3,4,KEN-001;KEN-002;KEN-008,ANO Advocates (Jul 2024): capital gains tax paid on KRA's iTax system: electronic payment through the authority's system; 3->4

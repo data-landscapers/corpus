@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxsystem",
-      "stage": "3",
+      "stage": "4",
       "filing": "inservice",
-      "payment": "",
+      "payment": "electronic",
       "uptake": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001;KEN-002",
-      "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "KEN-001;KEN-002;KEN-008",
+      "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
+      "note": "Returns are filed on iTax (2026), and capital gains tax is paid through iTax (July 2024), so taxes are paid through the authority's system. Nothing says online filing is mandatory or most used, so not 5.",
+      "as_at": "2026-11-12"
     }
   ]
 }

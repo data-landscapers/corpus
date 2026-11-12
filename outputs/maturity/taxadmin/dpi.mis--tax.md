@@ -21,8 +21,8 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 18 |
-| 3 Established | 13 |
+| 4 Operating | 19 |
+| 3 Established | 12 |
 | 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 5 |
@@ -143,6 +143,14 @@ Taxes could be filed and paid online through the eTax platform in 2026; how many
 - The eTax platform also allows online payment (télépaiement) of taxes, according to We are Tech ([source, 2026-05](https://www.wearetech.africa/fr/fils/actualites/tech/la-guinee-lance-neuf-chantiers-numeriques-pour-moderniser-l-administration)).
 - The government has launched the eTax platform for online tax declaration (télédéclaration), according to We are Tech ([source, 2026-05](https://www.wearetech.africa/fr/fils/actualites/tech/la-guinee-lance-neuf-chantiers-numeriques-pour-moderniser-l-administration)).
 
+### Kenya: 4 Operating
+
+Tax returns were filed online and taxes paid through the tax system in 2026; whether most returns are filed online is not known.
+
+- The Star column says KRA's iTax portal takes electronically submitted returns, with VAT returns filed on iTax from mid-August 2026 after moving off the offline Excel template ([source, 2026-08](https://www.the-star.co.ke/opinion/star-blogs/2026-09-01-monari-when-itax-fails-the-taxpayer-still-pays)).
+- KRA's public notice of 23 April 2026 says that from May 2026 validated export values from iCMS are prefilled in the VAT return in iTax, which taxpayers file there ([source, 2026-05](https://www.kra.go.ke/news-center/public-notices/2368-integration-of-the-export-process-in-icms-with-the-vat-return-in-itax)).
+- ANO Advocates says capital gains tax is paid on the Kenya Revenue Authority's iTax system and that stamp duty payment on iTax no longer needs the CGT acknowledgement number ([source, 2024-07-30](https://anoadvocates.com/insights/stamp-duty-payments-simplified-by-ardhipay)).
+
 ### Lesotho: 4 Operating
 
 Taxes could be filed online and paid electronically in 2025; no source found reports mandatory or majority online filing.
@@ -213,13 +221,6 @@ Tax returns could be filed online in 2024; no source found reports electronic pa
 
 - The ICTD paper uses tax administrative records to examine the adoption rate trend of the e-filing system among large and medium taxpayers in Ethiopia, including timeliness of VAT and corporate income tax return filing ([source, 2024-01](https://www.ictd.ac/publication/e-tax-system-adoption-tax-compliance-ethiopia)).
 - The ICTD paper uses tax administrative records to examine the adoption rate trend of the e-filing system among large and medium taxpayers in Ethiopia, including timeliness of VAT and corporate income tax return filing ([source, 2024-01](https://www.ictd.ac/publication/e-tax-system-adoption-and-tax-compliance-in-ethiopia-large-and-medium-taxpayers-experience/)).
-
-### Kenya: 3 Established
-
-Tax returns could be filed online in 2026; no source found reports electronic payment.
-
-- The Star column says KRA's iTax portal takes electronically submitted returns, with VAT returns filed on iTax from mid-August 2026 after moving off the offline Excel template ([source, 2026-08](https://www.the-star.co.ke/opinion/star-blogs/2026-09-01-monari-when-itax-fails-the-taxpayer-still-pays)).
-- KRA's public notice of 23 April 2026 says that from May 2026 validated export values from iCMS are prefilled in the VAT return in iTax, which taxpayers file there ([source, 2026-05](https://www.kra.go.ke/news-center/public-notices/2368-integration-of-the-export-process-in-icms-with-the-vat-return-in-itax)).
 
 ### Malawi: 3 Established
 
