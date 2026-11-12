@@ -3,18 +3,18 @@ title: East Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-12
 period: 2025-11-01 to 2026-11-12
 place: XEA
-ledger_rows: 79
+ledger_rows: 80
 not_held: 0
-record: 7be04ccb9d8e
+record: 409156457d0b
 ---
 
 # East Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-12 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 79 bodies, instruments and systems on this place's ledger, 43 changed position between 2025-11-01 and 2026-11-12, 10 did not, 26 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 80 bodies, instruments and systems on this place's ledger, 43 changed position between 2025-11-01 and 2026-11-12, 10 did not, 27 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 144 sources for this place in the window — 27 in the earlier half (2025-11 to 2026-04), 117 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 145 sources for this place in the window — 28 in the earlier half (2025-11 to 2026-04), 117 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -215,6 +215,12 @@ The EAC Customs Bond [went from a Ugandan pilot in August 2025 to a Community-wi
 | Body, instrument or system | At 2025-11-01 | At 2026-11-12 | Progress |
 |---|---|---|---|
 | EAC AI Alliance and AI-in-education harmonisation | EAC AI Alliance launched March 2026 with an invitation to universities to join a regional network | [In October 2026 the education ministers approved the establishment and operationalisation of a Regional AI Network of Universities, endorsed three regional AI instruments for teacher education and directed the development of AI certification benchmarks for Kiswahili. In April 2026 partner states had agreed to work toward harmonising AI-related curricula and regional certification and accreditation frameworks, and on 17 September 2026 the science commission and the German state of Hessen launched a cooperation through the alliance, with no sum, instrument or duration stated](https://www.eac.int/press-releases/138-education,-science-technology-news/3612-eac-ministers-adopt%20-regional-artificial-intelligence-and-digital-transformation-strategies,-approves-establishment-of-regional-ai-foundational-module-for-universities) | Movement |
+
+### Research institutions
+
+| Body, instrument or system | At 2025-11-01 | At 2026-11-12 | Progress |
+|---|---|---|---|
+| East African AI Policy Hub | ***Baseline not held*** | [A Nairobi law-and-technology centre's hub covering Kenya, Uganda, Rwanda and Tanzania, which has run two policymaker fellowship cohorts, worked with the Kenyan judiciary on an AI adoption framework and held a regional forum in Kigali in May 2026](https://cipit.strathmore.edu/east-african-ai-policy-hub/) | ***Baseline not held*** |
 
 ### Digital divides
 
