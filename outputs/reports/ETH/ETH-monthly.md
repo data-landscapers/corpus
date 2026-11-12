@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: ETH
-ledger_rows: 33
+ledger_rows: 34
 not_held: 5
-record: 083b9643c7b6
+record: f66755ae7702
 ---
 
 # News, Oct – Nov 2026
@@ -40,6 +40,8 @@ record: 083b9643c7b6
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -85,6 +87,22 @@ Ethiopia's Minister of Innovation and Technology, Frehiwot Tamru, told the Ethio
 **[Authorities' Bid for Digital Quality Sparks Fury Among Cash-strapped Businesses](https://addisfortune.news/authorities-bid-for-digital-quality-sparks-fury-among-cash-strapped-businesses)** — Addis Fortune, 31 October 2026
 
 The Institute of Ethiopian Standards is building scannable digital marks, with the Ethiopian Artificial Intelligence Institute, to replace manual watermarks on essential products. The marks will become mandatory for those products. Revised fees reach up to 0.5% of revenue, and businesses have pushed back.
+
+</div>
+
+</div>
+
+### Public debate and participation in policymaking
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Media authority licensing of independent outlets</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia suspends The Reporter indefinitely in escalating assault on independent media](https://cpj.org/2026/11/ethiopia-suspends-the-reporter-indefinitely-in-escalating-assault-on-independent-media/)** — Committee to Protect Journalists, 5 November 2026
+
+EMA suspends publisher indefinitely on 2 November 2026, print and digital platforms alike, under the 2021 media law.
 
 </div>
 

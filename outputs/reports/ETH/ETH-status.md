@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 241
+sources_cited: 242
 sections_written: 39
 not_established: 0
 acquire_lines: 67
@@ -77,7 +77,7 @@ On 23 July 2026 the National Bank [defined a virtual asset as any digital repres
 ### Public debate and participation in policymaking
 <!-- gov.discourse -->
 
-[The media authority revoked Addis Standard's online media registration on 24 February 2026, a decision under court challenge](https://cpj.org/2026/08/ethiopian-security-detain-addis-standard-editor-raid-newsroom-seize-equipment/). [In August 2026 security forces detained the outlet's editor-in-chief and raided its newsroom](https://cpj.org/2026/08/ethiopian-security-detain-addis-standard-editor-raid-newsroom-seize-equipment/). [Wazema Radio's licence was also revoked, and Addis Standard's managing editor was held incommunicado for two weeks in April 2026](https://www.amnesty.org/en/latest/news/2026/05/east-and-southern-africa-media-freedom-under-attack-amid-prevailing-impunity/). [In December 2025 the media authority permanently suspended two Deutsche Welle correspondents covering Amhara and Tigray](https://www.hrw.org/news/2025/12/15/another-blow-to-media-freedom-in-ethiopia).
+[The media authority revoked Addis Standard's online media registration on 24 February 2026, a decision under court challenge](https://cpj.org/2026/08/ethiopian-security-detain-addis-standard-editor-raid-newsroom-seize-equipment/). [In August 2026 security forces detained the outlet's editor-in-chief and raided its newsroom](https://cpj.org/2026/08/ethiopian-security-detain-addis-standard-editor-raid-newsroom-seize-equipment/). [Wazema Radio's licence was also revoked, and Addis Standard's managing editor was held incommunicado for two weeks in April 2026](https://www.amnesty.org/en/latest/news/2026/05/east-and-southern-africa-media-freedom-under-attack-amid-prevailing-impunity/). [In December 2025 the media authority permanently suspended two Deutsche Welle correspondents covering Amhara and Tigray](https://www.hrw.org/news/2025/12/15/another-blow-to-media-freedom-in-ethiopia). [On 2 November 2026 it suspended the registration of The Reporter's publisher indefinitely, print and digital editions alike](https://cpj.org/2026/11/ethiopia-suspends-the-reporter-indefinitely-in-escalating-assault-on-independent-media/).
 
 [Internet and telephone services were severely disrupted across Tigray as fighting escalated in September 2026](https://wardheernews.com/tigray-cut-off-again-as-communications-blackout-deepens-civilian-misery/). [The state operator's services were completely down and the second operator's partly running](https://wardheernews.com/tigray-cut-off-again-as-communications-blackout-deepens-civilian-misery/). [Responsibility for the shutdown was contested between the regional and federal authorities](https://wardheernews.com/tigray-cut-off-again-as-communications-blackout-deepens-civilian-misery/).
 
