@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-01-ago-executivo-quer-garantir-continuidade-dos-servicos-digitais-do-estado",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center principal do Estado",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": "Presidential order authorises simplified procurement to upgrade the state data centre and build a disaster-recovery site; a plan, no hosting rule or localisation rule stated."
+}

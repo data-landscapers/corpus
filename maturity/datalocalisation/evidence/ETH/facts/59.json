@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-01-eth-the-role-of-data-localization-laws-of-ethiopia-in-realizing-digitaliza",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "An Addis Ababa University thesis says Ethiopia's 2024 Personal Data Protection Proclamation prohibits offshore processing and storage of specified data sets.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Personal Data Protection Proclamation 2024",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
