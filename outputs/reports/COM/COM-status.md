@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 10
-sources_cited: 176
+sources_cited: 177
 sections_written: 39
 not_established: 1
 acquire_lines: 24
@@ -344,7 +344,7 @@ Budget reporting has the same shape. The [Compte administratif for 2024 is dated
 
 None of it rests on a right. [No access-to-information law has been adopted](https://upr-info.org/sites/default/files/country-document/2026-01/UNESCO_org_UPR46_COM_E_Main.pdf), the code de l'information et de la communication being a press law (January 2026). The Ibrahim Index puts Comoros [53rd of 54 for Disclosure of Public Records at 1.4 out of 100, down 18.3 points over 2014-2023, and 52nd for Accessibility of Public Records at 3.1](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-km.pdf) (2023).
 
-Published statistics thin sharply by category. The 2024 Open Data Inventory's best Comorian scores are [the built environment at 7.5 out of ten, trade and poverty at 7 and balance of payments at 6.5, with national accounts, prices, labour and reproductive health at 6](https://odin.opendatawatch.com/data); among categories with anything published, [education facilities rate 2, health facilities 3 and government finance 4](https://odin.opendatawatch.com/data). [Energy, pollution, natural resources, crime, food security, gender and health outcomes score zero](https://odin.opendatawatch.com/data), as does [the digital economy category covering ICT and telecommunications statistics](https://odin.opendatawatch.com/data) — nothing there meets ODIN's criteria (2024).
+Published statistics thin sharply by category. The 2024 Open Data Inventory's best Comorian scores are [the built environment at 7.5 out of ten, trade and poverty at 7 and balance of payments at 6.5, with national accounts, prices, labour and reproductive health at 6](https://odin.opendatawatch.com/data); among categories with anything published, [education facilities rate 2, health facilities 3 and government finance 4](https://odin.opendatawatch.com/data). [Energy, pollution, natural resources, crime, food security, gender and health outcomes score zero](https://odin.opendatawatch.com/data), as does [the digital economy category covering ICT and telecommunications statistics](https://odin.opendatawatch.com/data) — nothing there meets ODIN's criteria (2024). [An official data portal, Open Data Comores, was presented at a UN country team meeting on 29 August 2024](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/acc%C3%A9l%C3%A9ration-des-odd-pr%C3%A9sentation-du-portail-des-donn%C3%A9es-.html); no dataset count or licence for it has been found.
 
 ### Geospatial data
 <!-- data.geospatial -->
