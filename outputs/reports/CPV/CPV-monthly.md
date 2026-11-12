@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-12
+period: 2026-10-01 to 2026-11-12
 place: CPV
-ledger_rows: 10
+ledger_rows: 11
 not_held: 23
-record: 516a17631db0
+record: 5cd77be4a118
 ---
 
 # News, Oct – Nov 2026
@@ -114,6 +114,8 @@ In an interview printed on 28 October 2026, outgoing CVTelecom chief executive J
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
 </nav>
 
 ### Digital Payments and Fintech
@@ -135,6 +137,22 @@ Banco de Cabo Verde governor Óscar Santos said in Mindelo on 23 October 2026 th
 **[BCV volta a prometer projecto-piloto de pagamento Speed](https://mindelinsite.com/economia/bcv-volta-a-prometer-projecto-piloto-de-pagamento-speed/)** — Mindel Insite, 24 October 2026
 
 Banco de Cabo Verde governor Óscar Santos again promised a pilot of the Speed mobile payment system before the end of 2026, on one island or remote locality; the system was first announced in December 2025 to start in the first quarter of this year. He said the launch still depends on agreement with banks, telecom operators and the regulator over running costs, which the central bank will cover at first.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Land Management, Information and Technology System (LMITS) and the property cadastre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Retoma do cadastro predial no Tarrafal e São Salvador do Mundo](https://www.inforpress.cv/en/article-11888)** — Inforpress, 9 October 2026
+
+Cadastre resumes on Santiago: some 32,000 parcels to survey; national cadastral coverage put at about 33%.
 
 </div>
 
