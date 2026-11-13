@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "NAM-002;NAM-001",
       "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: NamRA's ITAS portal takes returns online (NAM-001, NAM-002, 2026); no payment through NamRA's system is shown, so 3 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

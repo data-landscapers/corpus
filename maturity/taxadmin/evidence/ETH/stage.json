@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "3",
-   "filing": "inservice",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-003;ETH-004",
-   "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "3",
+      "filing": "inservice",
+      "payment": "",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-003;ETH-004",
+      "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
+      "note": "Rebuild 2026-11-13: The ICTD paper of January 2024 measures e-filing adoption among large and medium taxpayers (ETH-003, ETH-004); no payment through the Ministry of Revenues' system is shown, so 3 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

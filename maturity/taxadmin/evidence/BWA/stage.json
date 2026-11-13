@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BWA-001",
       "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: BURS takes 2025 individual returns through e-services and the Mtax app (BWA-001); no payment through BURS's system is shown in the window and the 2020 mandatory rule is older than three years, so 3 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

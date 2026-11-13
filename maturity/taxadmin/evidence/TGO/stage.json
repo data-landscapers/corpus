@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "5",
-   "filing": "inservice",
-   "payment": "electronic",
-   "uptake": "most",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "5",
+      "filing": "inservice",
+      "payment": "electronic",
+      "uptake": "most",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-003",
+      "gaps": "",
+      "note": "Rebuild 2026-11-13: OTR statistics put VAT returns filed online at 100% for the DGE and DME in 2025 (TGO-003), read as online filing in full use by those taxpayers, so 5 holds. The share across all directorates is not given (26% outside DGE and DME).",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

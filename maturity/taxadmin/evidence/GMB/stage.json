@@ -1,17 +1,18 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "2",
-   "filing": "underway",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-001;GMB-003",
-   "gaps": "No source found since October 2023 says: can tax returns be filed online.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "2",
+      "filing": "underway",
+      "payment": "",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-001;GMB-003",
+      "gaps": "No source found since October 2023 says: can tax returns be filed online.",
+      "note": "Rebuild 2026-11-13: GRA signed a World Bank-funded ITAS contract in October 2025 and is implementing it (GMB-001, GMB-003); nothing shows returns filed online, so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

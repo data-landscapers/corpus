@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BEN-002",
       "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: The DGI e-services portal takes income returns online from May 2024 (BEN-001) and payment online (BEN-002, BEN-005); no source in the window makes online filing mandatory or puts its share, so 4 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

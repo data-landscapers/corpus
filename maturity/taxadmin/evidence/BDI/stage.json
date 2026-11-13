@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "2",
-   "filing": "underway",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-001",
-   "gaps": "No source found since October 2023 says: can tax returns be filed online.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "2",
+      "filing": "underway",
+      "payment": "",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001",
+      "gaps": "No source found since October 2023 says: can tax returns be filed online.",
+      "note": "Rebuild 2026-11-13: OBR launched the implementation phase of E-KORI in January 2026 (BDI-001); nothing says returns can yet be filed online, so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

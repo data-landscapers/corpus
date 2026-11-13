@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "LBY-001",
       "gaps": "No source found since October 2023 says: can tax returns be filed online.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: The Tax Authority began running its Unified Tax System in December 2025 with digital platforms due in 2026 (LBY-001); nothing shows returns filed online, so 2 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

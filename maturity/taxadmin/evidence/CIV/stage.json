@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether tax returns can be filed online.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: Every fact on e-impots dates from 2017 or 2018, older than three years, so none can set a rung. The cell stays unplaced.",
+      "as_at": "2026-11-13"
     }
   ]
 }

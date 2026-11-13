@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "2",
-   "filing": "underway",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-001",
-   "gaps": "No source found since October 2023 says: can tax returns be filed online.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "2",
+      "filing": "underway",
+      "payment": "",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001",
+      "gaps": "No source found since October 2023 says: can tax returns be filed online.",
+      "note": "Rebuild 2026-11-13: The World Bank ISR has the ITAS contract signed in late 2025 and online filing by large taxpayers at 0% (SOM-001), so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

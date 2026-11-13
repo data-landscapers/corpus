@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "3",
-   "filing": "inservice",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001;COD-003",
-   "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "3",
+      "filing": "inservice",
+      "payment": "",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001;COD-003",
+      "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
+      "note": "Rebuild 2026-11-13: The finance minister says VAT e-filing is generalised at the DGI (COD-001, COD-003, 2026); no national online payment through the DGI is shown, Kinshasa's provincial platform aside, so 3 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

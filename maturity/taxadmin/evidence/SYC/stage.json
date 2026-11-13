@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SYC-001",
       "gaps": "No source found since October 2023 says: can tax returns be filed online.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: In March 2024 the SRC was migrating to a new online platform while returns were lodged on paper (SYC-001, SYC-002); nothing shows the new portal live, so 2 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

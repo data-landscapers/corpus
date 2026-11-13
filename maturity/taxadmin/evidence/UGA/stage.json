@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "UGA-003",
       "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-11-11"
+      "note": "Rebuild 2026-11-13: The URA web portal takes returns uploaded on a template (UGA-003, 2026); the non-tax fee payment was removed and no tax payment through URA's system is shown, so 3 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

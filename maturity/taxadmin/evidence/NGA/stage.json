@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "NGA-005",
       "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: TaxPro Max takes returns and all payments must originate from its assessments (NGA-004, NGA-005, 2025); the 2021 rule making it the filing channel is older than three years, so 4 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

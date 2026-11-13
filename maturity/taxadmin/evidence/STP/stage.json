@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether tax returns can be filed online.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: The only fact, SIT-IVA under development in April 2022, is older than three years, so it sets nothing. The cell stays unplaced.",
+      "as_at": "2026-11-13"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "4",
-   "filing": "inservice",
-   "payment": "electronic",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-003;GHA-007",
-   "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "4",
+      "filing": "inservice",
+      "payment": "electronic",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-003;GHA-007",
+      "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
+      "note": "Rebuild 2026-11-13: The ITAS pilot takes filing and payment of PAYE and VAT for selected taxpayers in 2026 (GHA-002, GHA-003, GHA-007); nothing makes online filing mandatory, so 4 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

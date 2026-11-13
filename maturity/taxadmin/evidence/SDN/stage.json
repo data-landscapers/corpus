@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "no evidence",
-   "filing": "",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says how taxes are filed and paid.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "no evidence",
+      "filing": "",
+      "payment": "",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says how taxes are filed and paid.",
+      "note": "Rebuild 2026-11-13: No evidence row on the sub-indicator, so no evidence holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

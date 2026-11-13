@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "3",
-   "filing": "inservice",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-001",
-   "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "3",
+      "filing": "inservice",
+      "payment": "",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-001",
+      "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
+      "note": "Rebuild 2026-11-13: ZIMRA's E-Taxes platform takes returns for selected tax heads online (ZWE-001, 2025); no payment through ZIMRA's system is shown, so 3 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

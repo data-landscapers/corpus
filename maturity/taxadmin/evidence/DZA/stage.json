@@ -1,17 +1,18 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "5",
-   "filing": "inservice",
-   "payment": "electronic",
-   "uptake": "most",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "5",
+      "filing": "inservice",
+      "payment": "electronic",
+      "uptake": "most",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-003",
+      "gaps": "",
+      "note": "Rebuild 2026-11-13: Jibayatic filing is mandatory for DGE and, under instruction 31/2026, for real-profit taxpayers (DZA-003), with remote payment opened in May 2026 (DZA-002), so 5 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

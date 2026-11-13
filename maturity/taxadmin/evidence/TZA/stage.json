@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "TZA-003",
       "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-11-11"
+      "note": "Rebuild 2026-11-13: The government told the 2025 GovTech survey that e-filing is in use (TZA-003); IDRAS payment was scheduled, not shown live, so 3 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

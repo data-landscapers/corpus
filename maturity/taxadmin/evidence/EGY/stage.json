@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "4",
-   "filing": "inservice",
-   "payment": "electronic",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-002",
-   "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "4",
+      "filing": "inservice",
+      "payment": "electronic",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-002",
+      "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
+      "note": "Rebuild 2026-11-13: The ETA takes returns electronically (EGY-001, EGY-003) and real estate transactions tax is paid by card online (EGY-002, 2026); the 2020 mandatory rule for large firms is older than three years, so 4 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

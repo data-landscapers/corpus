@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "RWA-004",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-11-11"
+      "note": "Rebuild 2026-11-13: RRA statistics put electronic filings at 96 to 100 percent across the main taxes to 2023/24 (RWA-004), with E-Tax filing and payment in the 2025 handbook, so 5 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

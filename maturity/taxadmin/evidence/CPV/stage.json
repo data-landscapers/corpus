@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CPV-001",
       "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: The DNRE took 2024 returns through its portal (CPV-001); the card-payment fact dates from 2019, older than three years, so 3 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

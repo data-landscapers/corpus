@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SWZ-003",
       "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: ERS's TaxEase took 54,842 returns by September 2024 and provides integrated payments (SWZ-001, SWZ-003); no mandate or share of returns is given, so 4 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

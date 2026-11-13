@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SSD-003;SSD-004",
       "gaps": "No source found since October 2023 says: can tax returns be filed online.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-11-09"
+      "note": "Rebuild 2026-11-13: SSRA is rolling out e-Tax and directs that taxes be paid through it (SSD-001, SSD-003, 2026); no source says returns are filed online, and each rung must be shown, so 2 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "2",
-   "filing": "underway",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COM-001;COM-002",
-   "gaps": "No source found since October 2023 says: can tax returns be filed online.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "2",
+      "filing": "underway",
+      "payment": "",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-001;COM-002",
+      "gaps": "No source found since October 2023 says: can tax returns be filed online.",
+      "note": "Rebuild 2026-11-13: The DGI held an AFD-funded workshop in April 2026 to prepare e-filing and e-payment (COM-001, COM-002); nothing shows filing online yet, so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

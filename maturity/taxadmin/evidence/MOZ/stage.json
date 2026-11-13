@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MOZ-002;MOZ-003",
       "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: The eDeclaracao platform and Contribuinte Portal take returns online (MOZ-002, 2026); payment is made at the taxpayer's bank on a reference, not through the authority's system, so 3 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

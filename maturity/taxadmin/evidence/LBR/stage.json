@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "4",
-   "filing": "inservice",
-   "payment": "electronic",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-003",
-   "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "4",
+      "filing": "inservice",
+      "payment": "electronic",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-003",
+      "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
+      "note": "Rebuild 2026-11-13: LITAS takes online filing and payment by mobile money and bank (LBR-005, LBR-006, 2025) and e-payment is in growing use (LBR-003, 2026); nothing makes online filing mandatory, so 4 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

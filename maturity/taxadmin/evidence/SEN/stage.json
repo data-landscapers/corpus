@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SEN-006;SEN-003",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: SENTAX is mandatory for DGE returns and payments from September 2026, with paper refused (SEN-003, SEN-006), so 5 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

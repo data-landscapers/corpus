@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "2",
-   "filing": "underway",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-001;DJI-002",
-   "gaps": "No source found since October 2023 says: can tax returns be filed online.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "2",
+      "filing": "underway",
+      "payment": "",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-001;DJI-002",
+      "gaps": "No source found since October 2023 says: can tax returns be filed online.",
+      "note": "Rebuild 2026-11-13: The World Bank project builds ITAS and puts returns filed through it at 0 in January 2026 (DJI-001, DJI-002), so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

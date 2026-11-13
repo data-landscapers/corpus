@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "TCD-005;TCD-007",
       "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: The DGI's E-Tax takes online filing and payment through eight banks and mobile operators (TCD-005, TCD-007, 2024-2025); the finance-law provision was removed, so 4 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

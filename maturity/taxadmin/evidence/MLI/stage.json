@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MLI-003",
       "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild 2026-11-13: E-Impot telefiling covers all taxpayers and telepayment by bank transfer runs in the computerised centres (MLI-002, MLI-003, 2025); coverage is not a mandate or a share, so 4 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

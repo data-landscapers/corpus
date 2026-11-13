@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "5",
-   "filing": "inservice",
-   "payment": "electronic",
-   "uptake": "most",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "5",
+      "filing": "inservice",
+      "payment": "electronic",
+      "uptake": "most",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-003",
+      "gaps": "",
+      "note": "Rebuild 2026-11-13: Electronic VAT returns are required of foreign digital-service suppliers (MUS-003, 2026) and the MRA reports e-filing in almost all cases in 2022/23 (MUS-007), so 5 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }
