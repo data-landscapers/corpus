@@ -2,11 +2,11 @@
 
 ## Digital policy research
 
-**Research published.** On 7 August 2024 [researchers from the Policy Studies Institute, Addis Ababa University and Ethiopian IT Park presented findings](<https://psi.org.et/index.php/blog/324-it-governance-in-ethiopian-public-sectors-the-need-for-policy-intervention>). Their project studied IT governance in the public sector. It is the only fact held on the subject. No news story or official notice read for this study says more about it. The documents the earlier cell cited were not read.
+**Research published.** [On 7 August 2024 researchers from the Policy Studies Institute, Addis Ababa University and Ethiopian IT Park presented findings](<https://psi.org.et/index.php/blog/324-it-governance-in-ethiopian-public-sectors-the-need-for-policy-intervention>). [Their project studied IT governance in the public sector](<https://psi.org.et/index.php/blog/324-it-governance-in-ethiopian-public-sectors-the-need-for-policy-intervention>).
 
-**Feeding policy.** No source found since October 2023 says local research fed a digital policy, law or strategy. No source found says the government commissioned or used it. The nearest held fact: [the one given above](<https://psi.org.et/index.php/blog/324-it-governance-in-ethiopian-public-sectors-the-need-for-policy-intervention>).
+**Feeding policy.** No source found since October 2023 says local research fed a digital policy, law or strategy. No source found says the government commissioned or used it. The nearest held fact: [in August 2024 Ethiopian IT Park took part in research on public-sector IT governance](<https://psi.org.et/index.php/blog/324-it-governance-in-ethiopian-public-sectors-the-need-for-policy-intervention>).
 
-**Standing role.** No source found since October 2023 says a local research institution holds a standing advisory role in digital policy. The nearest held fact: [the one given above](<https://psi.org.et/index.php/blog/324-it-governance-in-ethiopian-public-sectors-the-need-for-policy-intervention>).
+**Standing role.** No source found since October 2023 says a local research institution holds a standing advisory role in digital policy. The nearest held fact: [in August 2024 the Policy Studies Institute presented research findings](<https://psi.org.et/index.php/blog/324-it-governance-in-ethiopian-public-sectors-the-need-for-policy-intervention>).
 
 ***Also on file***. None found.
 
