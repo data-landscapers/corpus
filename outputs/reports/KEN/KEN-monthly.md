@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: KEN
 ledger_rows: 92
 not_held: 5
-record: 60f7e200e40d
+record: 3d6068b5b27c
 ---
 
 # News, Oct – Nov 2026
@@ -1007,6 +1007,14 @@ Kenya's Auditor-General found that the NEMIS learner database, replaced by KEMIS
 **[Education ministry sued over ‘flaws’ in KEMIS Portal](https://nation.africa/kenya/news/education/education-ministry-sued-over-flaws-in-kemis-portal-5640290)** — Daily Nation, 21 October 2026
 
 Two petitioners have asked a Kenyan court to stop the education ministry finalising senior-school placements, saying the KEMIS portal shows at most 1,000 schools for any subject combination without saying the list is cut. They say 26 combinations are affected, one of them listing 1,000 of 10,515 schools, and that some combinations show no schools at all.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghost students? Puzzle of 2 million primary school learners missing from ministry records](https://nation.africa/kenya/news/education/ghost-students-puzzle-of-2-million-primary-school-learners-missing-from-ministry-records-5667184)** — Daily Nation, 12 November 2026
+
+KEMIS holds 5.057m primary learners against 7.2m expected (10 Nov 2026); uncaptured pupils lose capitation.
 
 </div>
 

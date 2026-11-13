@@ -3,9 +3,9 @@ title: Eswatini — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: SWZ
-ledger_rows: 34
+ledger_rows: 35
 not_held: 3
-record: 1ba15ec96f56
+record: 23fea6879fe0
 ---
 
 # News, Oct – Nov 2026
@@ -401,6 +401,28 @@ Summarised under [Registries](#registries).
 </div>
 
 ### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EMIS Data Use Action Brief, October 2026-December 2027</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Consultancy to consolidate education data management and data use in Lesotho and Eswatini (Phase 2)](https://jmerc.org/careers/consultancy-to-consolidate-education-data-management-and-data-use-in-lesotho-and-eswatini-phase)** — JMERC, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a>
+
+DHIS2 education manual validated 29 Sep 2026; Lesotho still lacks a national EMIS policy; Eswatini data-use brief.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ESWATINI TARGETS EDUCATION DATA GAPS WITH 15-MONTH ACTION PLAN](https://eswatinipositivenews.online/eswatini-targets-education-data-gaps-with-15-month-action-plan/)** — Eswatini Positive News, 16 October 2026
+
+Draft plan Oct 2026-Dec 2027: EMIS validation checks, revised instruments, manager dashboard, data-sharing protocol.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

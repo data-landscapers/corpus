@@ -3,9 +3,9 @@ title: Zimbabwe — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: ZWE
-ledger_rows: 34
+ledger_rows: 35
 not_held: 5
-record: 5ef30d4bb3ec
+record: efb7f924b331
 ---
 
 # News, Oct – Nov 2026
@@ -463,6 +463,20 @@ Zimbabwe's Judicial Service Commission took its electronic case management syste
 **[ZRP pilots digital crime reporting system developed by Harare Institute of Technology at Warren Park Police Station](https://www.heraldonline.co.zw/zrp-pilots-digital-crime-reporting-system-developed-by-harare-institute-of-technology-at-warren-park-police-station/)** — The Herald, 8 October 2026
 
 Zimbabwe's home affairs minister told the National Assembly that a crime management system built by the Harare Institute of Technology is running as a proof of concept at Warren Park and a few other police stations. Reporting crime by mobile phone is to follow, and wider deployment depends on the test.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Education management information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data systems transform Zimbabwe's schools](https://www.globalpartnership.org/blog/data-systems-transform-zimbabwes-schools)** — Global Partnership for Education, 11 November 2026
+
+Revised EMIS: 12,324 schools equipped, all 1,444 in Masvingo using it; GPE US$2.9m system grant 2023-2026.
 
 </div>
 

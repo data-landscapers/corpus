@@ -3,10 +3,10 @@ title: Malawi — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: MWI
-ledger_rows: 373
+ledger_rows: 375
 not_held: 30
 indicators: 115
-record: 0e7c8f182b83
+record: e664512e7dc8
 ---
 
 # Malawi: progress report, November 2025 – November 2026

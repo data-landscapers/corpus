@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 231
+sources_cited: 232
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -300,7 +300,7 @@ The [Royal Science and Technology Park Business Incubator is the country's AfriL
 
 [Eswatini's Equality in Education score fell 7.6 points over the decade to 2023, to 37.1 out of 100, 42nd of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sz.pdf). [It was the weakest of the education indicators measured for the country](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sz.pdf). [Education Enrolment scored 77.3 out of 100 in 2023, third in Africa and up 2.8 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sz.pdf).
 
-[In 2024 the education management information system ran nationwide on DHIS2](https://education.dhis2.org/implementation/eswatini/). [Most rural primary schools still recorded enrolment and attendance on paper for later entry, on personal laptops where there was a device at all](https://education.dhis2.org/implementation/eswatini/).
+[In 2024 the education management information system ran nationwide on DHIS2](https://education.dhis2.org/implementation/eswatini/). [Most rural primary schools still recorded enrolment and attendance on paper for later entry, on personal laptops where there was a device at all](https://education.dhis2.org/implementation/eswatini/). [On 16 October 2026 an education data workshop validated a draft plan to December 2027 adding validation checks to termly EMIS reporting](https://eswatinipositivenews.online/eswatini-targets-education-data-gaps-with-15-month-action-plan/).
 
 [In 2025 Eswatini had a digital skills strategy and a programme focused on basic digital skills](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In October 2025 the Prime Minister opened Cybersecurity Awareness Month under a "Secure Eswatini" banner](https://itweb.africa/article/eswatini-calls-for-collaboration-to-protect-cyber-space/DZQ58vV8DV6MzXy2).
 

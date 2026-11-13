@@ -3,10 +3,10 @@ title: Burkina Faso — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: BFA
-ledger_rows: 306
+ledger_rows: 307
 not_held: 6
 indicators: 115
-record: 5fda586abe71
+record: 51fca7cc0814
 ---
 
 # Burkina Faso: progress report, November 2025 – November 2026

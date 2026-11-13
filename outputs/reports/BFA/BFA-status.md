@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 9
-sources_cited: 217
+sources_cited: 218
 sections_written: 39
 not_established: 0
 acquire_lines: 62
@@ -296,13 +296,13 @@ Money to grow them is thin: [the Agence Française de Développement's AFIDBA ca
 ### Literacy
 <!-- capacity.literacy -->
 
-Burkina Faso ranks [second to last in the world on ICT skills](https://documents1.worldbank.org/curated/en/099090723122531370/pdf/P17702208db8b704099b50bf8ded727946.pdf) (2023), and the digital literacy sub-score in [UNCDF's Inclusive Digital Economy Scorecard stood at 9%](https://www.uncdf.org/Download/AdminFileWithFilename?cultureId=127&filename=170521idesburkinafasoidepdf&id=14300) (2020). That is the floor under every service the state is now moving online.
+In 2023 the World Bank ranked Burkina Faso [second to last in the world on ICT skills](https://documents1.worldbank.org/curated/en/099090723122531370/pdf/P17702208db8b704099b50bf8ded727946.pdf). [UNCDF's Inclusive Digital Economy Scorecard put its digital literacy sub-score at 9%](https://www.uncdf.org/Download/AdminFileWithFilename?cultureId=127&filename=170521idesburkinafasoidepdf&id=14300) (2020).
 
-The schooling beneath it is thin at both ends. The country scores [25.7 out of 100 on education enrolment, 46th of 54 African countries, 26.5 on education quality, 43rd, and 39.7 on education completion, a score that fell over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf) (2023). What the system scores well on is staffing: on the same index [Human Resources in Education is Burkina Faso's second best-scoring indicator of all, at 90.6 and 16th of 54, up 10.4 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf) (2023). Provision has also grown more equal, with [equality in education up 14.2 points to 52.2, 24th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf) (2023). Staffed schools, in a system whose completion score is falling.
+In the 2024 Ibrahim Index Burkina Faso [scored 25.7 out of 100 on education enrolment, 46th of 54 African countries](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf) (2023). [It scored 26.5 on education quality, 43rd, and 39.7 on completion, a score that fell over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf). [Human Resources in Education scored 90.6, 16th of 54, up 10.4 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf). [Equality in education rose 14.2 points to 52.2, 24th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf) (2023).
 
-The pupils are about to be counted. [A national pupil file with online enrolment and school identity cards was under review in June 2025, progressive enrolment due from the following school year](https://www.latribunedufaso.net/?p=21538).
+[In June 2025 a national pupil file with online enrolment and school identity cards was under review, with enrolment to begin the following school year](https://www.latribunedufaso.net/?p=21538). [In May 2026 a university-run pilot in Manga and Bingo reported tracking more than 12,000 pupils by unique identifier](https://seeds.bf/post_detail/4d824034-e6d1-4182-acf5-b8088d4a5a42).
 
-Adult work on the literacy that digital systems actually demand runs largely through payments. The national inclusive finance agency and Wave Burkina [opened a financial education and consumer protection campaign at Bobo-Dioulasso on 28 July 2026](https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/), part of a partnership running since 2025 that is being extended in 2026 to Ouagadougou, Bobo-Dioulasso, Kaya and Tenkodogo, with 72 hours of sessions on budgeting, savings, credit and consumer protection and participants going back to their communities as relays.
+[On 28 July 2026 the national inclusive finance agency and Wave Burkina opened a financial education and consumer protection campaign at Bobo-Dioulasso](https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/). [Their partnership has run since 2025 and is extending in 2026 to Ouagadougou, Bobo-Dioulasso, Kaya and Tenkodogo](https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/). [Its 72 hours of sessions cover budgeting, savings, credit and consumer protection, and participants return to their communities as relays](https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/).
 
 ### Training and skills
 <!-- capacity.training -->

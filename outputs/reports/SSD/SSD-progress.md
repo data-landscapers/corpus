@@ -3,10 +3,10 @@ title: South Sudan — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: SSD
-ledger_rows: 196
+ledger_rows: 197
 not_held: 7
 indicators: 115
-record: ceb4f1c7dad8
+record: 42c6f3b5ed38
 ---
 
 # South Sudan: progress report, November 2025 – November 2026

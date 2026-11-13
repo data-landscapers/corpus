@@ -3,10 +3,10 @@ title: Angola — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: AGO
-ledger_rows: 309
+ledger_rows: 310
 not_held: 6
 indicators: 115
-record: ccc79f7f4bf6
+record: 9c05a5133598
 ---
 
 # Angola: progress report, November 2025 – November 2026

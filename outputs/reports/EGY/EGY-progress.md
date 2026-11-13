@@ -3,10 +3,10 @@ title: Egypt — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: EGY
-ledger_rows: 450
+ledger_rows: 451
 not_held: 35
 indicators: 115
-record: e46b559edbfb
+record: aaccd44fb5c9
 ---
 
 # Egypt: progress report, November 2025 – November 2026

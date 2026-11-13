@@ -3,10 +3,10 @@ title: Sierra Leone — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: SLE
-ledger_rows: 282
+ledger_rows: 284
 not_held: 4
 indicators: 115
-record: b6183a51712c
+record: 3d31f0993d66
 ---
 
 # Sierra Leone: progress report, November 2025 – November 2026

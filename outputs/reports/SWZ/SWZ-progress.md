@@ -3,10 +3,10 @@ title: Eswatini — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: SWZ
-ledger_rows: 277
+ledger_rows: 278
 not_held: 3
 indicators: 115
-record: 2e8dc19a2d5d
+record: 2b9300aa3619
 ---
 
 # Eswatini: progress report, November 2025 – November 2026

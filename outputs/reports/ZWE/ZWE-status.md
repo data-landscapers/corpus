@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 7
-sources_cited: 216
+sources_cited: 217
 sections_written: 39
 not_established: 1
 acquire_lines: 37
@@ -225,7 +225,7 @@ In 2025 [ZIMSTAT and the labour ministry launched a household survey to build a 
 
 [Zimbabwe's Impilo electronic health record was running at 1,254 of roughly 1,900 public health facilities, about two thirds, as of August 2025](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf). [Expansion is under way, and Global Fund financing is extending solar power, internet connectivity and digital diagnostics to last-mile facilities](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf).
 
-In the 2025 annual school census [school heads certified the returns and submitted them as electronic questionnaires to district offices](https://www.mopse.gov.zw/wp-content/uploads/2026/02/2025-Annual-Statistical-Report.pdf). [The districts verified them and uploaded them to the ministry's central server](https://www.mopse.gov.zw/wp-content/uploads/2026/02/2025-Annual-Statistical-Report.pdf). The same census [found internet access at 38.57% of primary schools and 55.75% of secondary schools in 2025](https://www.mopse.gov.zw/wp-content/uploads/2026/02/2025-Annual-Statistical-Report.pdf).
+In the 2025 annual school census [school heads certified the returns and submitted them as electronic questionnaires to district offices](https://www.mopse.gov.zw/wp-content/uploads/2026/02/2025-Annual-Statistical-Report.pdf). [The districts verified them and uploaded them to the ministry's central server](https://www.mopse.gov.zw/wp-content/uploads/2026/02/2025-Annual-Statistical-Report.pdf). The same census [found internet access at 38.57% of primary schools and 55.75% of secondary schools in 2025](https://www.mopse.gov.zw/wp-content/uploads/2026/02/2025-Annual-Statistical-Report.pdf). [By November 2026 12,324 schools had been equipped to use the revised EMIS, and all 1,444 public schools in Masvingo used it](https://www.globalpartnership.org/blog/data-systems-transform-zimbabwes-schools).
 
 [The Judicial Service Commission took its Integrated Electronic Case Management System to more superior courts on 1 February and 1 September 2023](https://www.veritaszim.net/sites/veritas_d/files/JSC%202023%20ANNUAL%20REPORT%20FINAL%20APPROVED%20.pdf). [It reported the superior courts clearing 30,179 of the 31,560 cases before them that year](https://www.veritaszim.net/sites/veritas_d/files/JSC%202023%20ANNUAL%20REPORT%20FINAL%20APPROVED%20.pdf). [Sixteen magistrates' courts in Manicaland and Mashonaland East went live on the system in June 2026](https://www.masvingomirror.com/justice-gwaunza-launches-phase-4-3-iecms/), and [Midlands and Mashonaland West followed on 1 October 2026](https://www.heraldonline.co.zw/paperless-courts-spread-to-midlands-mashonaland-west/). That leaves [only Harare and Bulawayo, planned by the end of the year](https://www.heraldonline.co.zw/electronic-case-management-system-iecms-brings-justice-closer-to-gweru-residents/). The home affairs minister told the National Assembly that [the police are piloting a crime management system built by a state technology institute at Warren Park and other stations](https://www.heraldonline.co.zw/zrp-pilots-digital-crime-reporting-system-developed-by-harare-institute-of-technology-at-warren-park-police-station/) (2026).
 

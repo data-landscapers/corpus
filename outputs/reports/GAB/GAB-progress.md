@@ -3,10 +3,10 @@ title: Gabon — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: GAB
-ledger_rows: 286
+ledger_rows: 288
 not_held: 11
 indicators: 115
-record: 42ce262b1807
+record: 478d09d9dbc7
 ---
 
 # Gabon: progress report, November 2025 – November 2026

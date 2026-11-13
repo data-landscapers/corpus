@@ -3,9 +3,9 @@ title: Senegal — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: SEN
-ledger_rows: 46
+ledger_rows: 47
 not_held: 2
-record: 2e960025fe05
+record: 305f1bb17026
 ---
 
 # News, Oct – Nov 2026
@@ -517,6 +517,20 @@ Senegal's agriculture ministry launched an app on 9 October for distributing sub
 **[Gestion des terres, le Sénégal mise sur la numérisation des données communales](https://www.seneplus.com/article/gestion-des-terres-le-senegal-mise-sur-la-numerisation-des-donnees-communales)** — SenePlus (APS), 12 October 2026
 
 Senegal's land programme PROCASEF and the Seen Suuf project held a workshop in Fatick on 6–9 October 2026 to prepare the roll-out of SIFCOM, the communal land information system, which is still in preproduction. They agreed a protocol for migrating and standardising communal land data and set a training calendar for land and municipal staff in the groundnut basin communes.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PLANETE 3 school management platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PLANETE 3 : l’Inspection d’Académie de Pikine-Guédiawaye appelle à une mise à jour rigoureuse des données](https://www.pressafrik.com/PLANETE-3-l-Inspection-d-Academie-de-Pikine-Guediawaye-appelle-a-une-mise-a-jour-rigoureuse-des-donnees_a312980.html)** — PressAfrik, 13 October 2026
+
+Pikine-Guédiawaye inspectorate orders PLANETE 3 data updates; every pupil must hold an IEN identifier.
 
 </div>
 

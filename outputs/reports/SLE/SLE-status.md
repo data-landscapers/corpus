@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 229
+sources_cited: 230
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -111,7 +111,7 @@ The state's own money is 88.6% of the digital lines of the 2026 estimates, NLe63
 
 [MIGA's USD 97.2 million political risk guarantee of 2018 runs to 2033 over SONATEL's 50% stake in Orange Sierra Leone](https://www.miga.org/press-release/miga-guarantees-investment-orange-sierra-leone-ltd). [A USD 13.5 million MIGA guarantee of 2021 covers solar-hybrid power at around 600 Orange tower sites](https://www.miga.org/project/escotel-africa-0).
 
-[UNICEF and the Islamic Development Bank are connecting 523 schools under Giga Phase 2, the bank taking 403 and UNICEF 120](https://www.dsti.gov.sl/general-procurement-notice-digital-connectivity-in-schools/). [An African Development Bank facility for digital interoperability across the West African Monetary Zone does not size Sierra Leone's part](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-Z1-H00-098).
+[UNICEF and the Islamic Development Bank are connecting 523 schools under Giga Phase 2, the bank taking 403 and UNICEF 120](https://www.dsti.gov.sl/general-procurement-notice-digital-connectivity-in-schools/). [A UNICEF pilot had connected 42 schools by July 2024](https://mocti.gov.sl/sierra-leone-sends-tech-team-to-advance-global-educational-connectivity/). [An African Development Bank facility for digital interoperability across the West African Monetary Zone does not size Sierra Leone's part](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-Z1-H00-098).
 
 <!-- derived -->
 Forty-seven digital-sector commitments are on record for Sierra Leone as at November 2026, starting from 2015 with windows out to 2033 and worth about USD 318 million in all. By instrument (November 2026), 39 grants are worth about USD 49 million, three concessional loans about USD 105 million and two MIGA guarantees cover USD 112 million of private investment. An operator's self-funded network upgrade accounts for USD 50 million, its self-funded Bo data centre carries no dollar amount, and one USD 2 million payment has no instrument recorded (November 2026). Over a third of the November 2026 total is guarantee cover rather than money flowing in, and two of the 47 are approved or in pipeline, not yet under way. Connectivity takes much the largest share as at November 2026, about USD 251 million across eight commitments, with land registries next at about USD 21 million and every other subsector far behind. MIGA is the largest source by value as at November 2026, ahead of the World Bank at about USD 86 million across three operations.

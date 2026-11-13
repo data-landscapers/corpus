@@ -3,10 +3,10 @@ title: Tanzania — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: TZA
-ledger_rows: 398
+ledger_rows: 400
 not_held: 4
 indicators: 115
-record: aa8a555c8211
+record: 0cb7b4d9104d
 ---
 
 # Tanzania: progress report, November 2025 – November 2026
