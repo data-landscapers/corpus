@@ -14,3 +14,8 @@ UGA,011,register,underway,removed,"Stage 4c: the NIN-as-TIN approval and mapping
 SOM,003,register,inservice,revalued: register:underway,"Stage 4c: the ID card made mandatory for business services does not show the business register keyed on the number"
 TZA,010,register,inservice,revalued: register:underway,"Stage 4c: the government is moving from insurance cards to the national ID; not yet in service"
 KEN,004,register,inservice,removed,"civil registration, where the number is issued at birth, and the registration bureau that holds the ID register are not among the registers the study counts"
+BEN,008,register,inservice,revalued: several:several,"Housekeeping 73: the tax file attached to the NPI is a third main register beside the electoral list (BEN-001, BEN-007) and the public pension fund (BEN-003), as the cell reads it (Bill, 2026-11-09, message 107)"
+CMR,001,register,underway,classed other,"Housekeeping 73: BUNEC's planned links concern civil registration records, not the national ID number, so it answers no question"
+EGY,006,register,inservice,revalued: several:several,"Housekeeping 73: the social registry keyed on the national number is a third main register beside the electoral roll (EGY-003) and the tax and state payroll systems (EGY-007, EGY-004), as the cell reads it"
+NGA,016,register,inservice,revalued: several:several,"Housekeeping 73: the tax service linked to the NIN is a third main register beside the social register (NGA-006, NGA-007) and online voter registration (NGA-010), as the cell reads it"
+UGA,003,register,inservice,revalued: several:several,"Housekeeping 73: tax records linked to the NIN are a third main register beside the SAGE grant (UGA-001) and the voter register (UGA-010), as the cell reads it"

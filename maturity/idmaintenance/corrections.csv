@@ -4,3 +4,7 @@ MAR,001,ownership,owned,removed,First pass: being first to implement MOSIP does 
 UGA,007,ownership,owned,removed,"First pass: the OpenCRVS module is the civil register, not the ID system"
 GMB,003,maintenance,national,removed,"Top-stage check, arrivals of 2026-10-17: lost access to Semlex data, not national maintenance"
 GMB,013,maintenance,national,removed,"Stage 4c 2026-11-08: Semlex's own account of handing over the old system; officials say parts stayed under its control (GMB-002) and the Margins system now replaces it, so not national maintenance"
+CIV,003,maintenance,national,removed,"Housekeeping 73: ONECI's budget paying for maintenance does not say who maintains the system; ONECI said in May 2026 that Semlex runs the RNPP as PPP operator (CIV-004)"
+COD,003,operation,transfer,removed,"Housekeeping 73: ONIP's March 2024 plan to run the population file is superseded by the May 2024 report of the IDEMIA/Afritech consortium managing it under its 20-year contract (COD-001); no transfer is shown under way since"
+LSO,002,operation,supplier,classed other,"Housekeeping 73: Pangea's maintenance contract ended in December 2024, so the row no longer shows a supplier running the system and answers no question; a foreign supplier replacing another is not a national yes either (Bill, 2026-11-11, message 105)"
+MRT,002,maintenance,national,removed,"Housekeeping 73: a maintenance outage the agency announced does not show its own staff maintain the system, as with Eswatini's upgrades"

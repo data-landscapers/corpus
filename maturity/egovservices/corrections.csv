@@ -34,3 +34,4 @@ MUS,013,usage,published,revalued: services:underway,"Bill, 2026-11-04, messages-
 MUS,010,services,inservice,revalued: underway,"Bill, 2026-11-04, messages-for-bill 74: MUS stays at 2; an audit of 123 services, fewer than ten used, is not read as ten or more in service"
 GAB,007,services,inservice,revalued: underway,"Stage 4c: one service, the pension fund's school-allowance certificates, is not ten or more"
 MAR,018,services,inservice,revalued: underway,Stage 4c: three services through Mon e-ID are not ten or more
+BDI,003,services,inservice,revalued: services:underway,"Housekeeping 73: building-permit applications taken online are one service applied for online, not ten or more government services"

@@ -16,3 +16,5 @@ MWI,010,linked,linked,removed,An ID card as the sole identification to register 
 BDI,003,linked,linked,removed,An ID card required to register is not a link to the register
 SEN,005,linked,linked,removed,An ID card required to register is not a link to the register
 COD,004,linked,linked,removed,"Stage 4c: CENI handing its 2022 voter file to ONIP feeds the ID register from the roll, not the roll from the ID register"
+CPV,004,linked,linked,removed,"Housekeeping 73: the ReDiaspora page's link to SNIAC is the consular portal's, for voters abroad; it does not carry the national roll"
+MWI,002,linked,linked,removed,"Housekeeping 73: the national ID as the single source of truth for registration is the ID card as the only proof of identity, not a link to the register"

@@ -3,3 +3,11 @@ NER,006,used,source,removed,First pass: an intended link read as use
 GIN,002,used,source,removed,First pass: a convention for future use read as use
 BFA,002,used,source,removed,First pass: a law's provision read as use
 BDI,001,register,underway,classed other,"Housekeeping 73: texts still to be adopted to institute the national identification file say no register is being built or provided for in a law, so it answers no question"
+BFA,003,register,underway,revalued: register:inservice,"Housekeeping 73: mass enrolment into the unique identifier register launched after a pilot that enrolled over 16,000 people is the register in service, as the cell reads it"
+COD,002,register,inservice,revalued: register:underway,"Housekeeping 73: the legal expert describes the general population file's role in law; ONIP was still building it in 2024 (COD-005), so it is not shown in service"
+COD,003,vital,updated,removed,"Housekeeping 73: civil-status events feeding the general population file is the file's role in law, said of a file not yet in service"
+COD,004,used,source,removed,"Housekeeping 73: the file as the single source for secure titles is its role in law, said of a file not yet in service"
+GIN,009,register,inservice,revalued: register:underway,"Housekeeping 73: 9,010,181 people after de-duplication of the 2025 census is a census count; the texts constituting the register were still in draft in January 2026 (GIN-003)"
+GIN,011,register,inservice,revalued: register:underway,"Housekeeping 73: nearly 10 million people is a census figure; in July 2026 the register was still to be set up (GIN-010)"
+MRT,003,register,inservice,revalued: vital:updated,"Housekeeping 73: a magistrates' official confirming civil-status facts are recorded in the population register says vital events are entered in it, as the cell reads it"
+TCD,004,vital,updated,removed,"Housekeeping 73: births a campaign collects that will be entered in the register is an intention; no source says births or deaths are entered now"

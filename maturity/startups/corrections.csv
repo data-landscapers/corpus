@@ -6,3 +6,6 @@ MUS,001,funded,funded,removed,First pass: a competition's seed prize read as a f
 DZA,006,funded,funded,removed,A state fund the source does not tie to a startup law read as a fund under it
 RWA,003,funded,funded,removed,A donor-backed programme with no startup law in force read as a fund under one
 EGY,008,funded,funded,removed,"Housekeeping 73: Egypt Ventures and the MSMEDA fund of funds predate the February 2026 charter and are not set up under the startup law or strategy"
+DJI,005,labelled,labelled,removed,"Housekeeping 73: the founders' guide says only that a firm can apply for the Startup label, not that any startup holds it"
+STP,001,law,adopted,classed other,"Housekeeping 73: the national entrepreneurship strategy names no startup measure, which the study counts as other"
+STP,002,law,draft,classed other,"Housekeeping 73: the draft national entrepreneurship strategy names no startup measure, which the study counts as other"
