@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-18-ami-dgsn-wapis-62-mahatta-farliya-shurta-darak-jamarik",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Mauritania's Director General of National Security said on 18 December 2025 that the WAPIS police data system has been connected to law enforcement bodies at 62 sub-stations (47 police, 11 gendarmerie, 4 customs), with its operating manual due to enter service at the start of the following year.",
+   "as_of": "2025-12-18",
+   "date_precision": "day",
+   "system": "WAPIS",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WAPIS",
+   "country_label": "Mauritania",
+   "class": "exchange",
+   "platform": "police data system",
+   "owner": "National Security (DGSN), Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

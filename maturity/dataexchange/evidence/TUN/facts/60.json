@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-19-tun-tunisie-transformation-digitale-l-etat-accelere-les-chantiers-numeriqu",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "A March 2024 ministerial council set up a commission to propose, among other things, generalising the national interoperability platform, reported by allAfrica.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Plateforme nationale d'interoperabilite",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme nationale d'interoperabilite",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

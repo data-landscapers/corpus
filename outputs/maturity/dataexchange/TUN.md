@@ -2,7 +2,7 @@
 
 ## National data exchange system
 
-**Exchange platform built and in service.** [The Centre National Informatique runs the national interoperability platform, which carries citizen register data to civil status, schools, universities, training and health bodies](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>). [Cybernetica says phase 1 brought UXP to five key ministries and institutions](<https://cyber.ee/resources/news/phase-2-tunisia-interoperability/>). [A phase 2 contract extends it to six more bodies, among them the Ministry of Finance and the Central Bank, by 2027](<https://cyber.ee/resources/news/phase-2-tunisia-interoperability/>).
+**Exchange platform built and in service.** [The Centre National Informatique runs the national interoperability platform, which carries citizen register data to civil status, schools, universities, training and health bodies](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>). [Cybernetica says phase 1 brought UXP to five key ministries and institutions](<https://cyber.ee/resources/news/phase-2-tunisia-interoperability/>). [A phase 2 contract extends it to six more bodies, among them the Ministry of Finance and the Central Bank, by 2027](<https://cyber.ee/resources/news/phase-2-tunisia-interoperability/>). [In March 2024 a ministerial council set up a commission to propose extending the platform across government](<https://fr.allafrica.com/stories/202403190330.html>).
 
 **Many systems connected.** No source found since October 2023 counts ten or more bodies connected. [Phase 2 is to add RNE, TIA, APII, CEPEX, the Ministry of Finance and the Central Bank to the five of phase 1](<https://cyber.ee/resources/news/phase-2-tunisia-interoperability/>).
 

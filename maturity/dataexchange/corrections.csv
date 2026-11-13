@@ -10,3 +10,4 @@ SEN,007,platform,inservice,revalued: underway,"Rebuild 2026-10-28: the portal's 
 SOM,001,platform,none,revalued: underway,"Ruled 2026-10-28 (Bill, 2026-10-25, method §3.8): a planned central data exchange platform is intent, which reaches stage 2"
 DZA,015,platform,inservice,removed,"Stage 4c 2026-11-10: IRIES is a fibre network outside the internet, not an exchange platform; the same release says the interoperability platform was still being prepared"
 DZA,016,reach,wide,removed,"Stage 4c 2026-11-10: the 33 bodies are connected to the IRIES network, not to an exchange platform, so they are not a count for question 3"
+MRT,001,platform,underway,removed,"4c 2026-11-13: WAPIS is a police records system shared by law-enforcement bodies under a regional programme, not a platform carrying data between government systems; noted as other"
