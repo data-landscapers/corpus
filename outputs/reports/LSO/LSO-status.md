@@ -1,12 +1,12 @@
 ---
 title: Lesotho: status report
-compiled: 2026-11-12
+compiled: 2026-11-13
 place: LSO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 238
+sources_cited: 239
 sections_written: 39
 not_established: 0
 acquire_lines: 31
@@ -240,7 +240,7 @@ The revenue authority's e-filing and e-payment platforms [went live in 2023](htt
 
 In May 2025 the Auditor-General [gave an adverse opinion on the 2022/23 consolidated accounts, finding the IFMIS expenditure of eight ministries M140 million below the statements](https://auditorgeneral.org.ls/wp-content/uploads/2026/03/REPORT-OF-THE-AUDITOR-GENERAL-ENDED-MARCH-2023.pdf). In September 2026 a [draft National Data Value Creation Blueprint was validated at a national workshop in Maseru with Smart Africa and GIZ](https://www.gov.ls/ict/the-government-of-lesotho-tabled-a-national-data-value-creation-blueprint-draft-to-position-lesotho-competitively-on-the-international-digital-landscape/). [Lesotho is the first country in Africa to validate one](https://lestimes.com/?p=91596). It has not been adopted, and its text has not been published. At the launch of the interim CSIRT in August 2026, officials said the government [plans to move ICT services out of the civil service into a separate agency](https://lesothotribune.co.ls/interim-csirt-lesotho-cybersecurity-launch/).
 
-The Lehokela crime-reporting application, built with UNDP, the National University of Lesotho and Econet, was [launched nationally in April 2026 after a multi-year pilot, with phased rollout to police stations from June 2026](https://www.undp.org/lesotho/blog/lehokela-seven-years-making-one-national-platform). A [Digital Outreach Studio opened under Phase II of the African Development Bank-backed e-Government Infrastructure project](https://lestimes.com/?p=90715) (June 2026). That phase is [designed to improve access to reliable digital services for rural and unserved citizens](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-LS-GB0-003). The UN's 2024 E-Government Survey [places Lesotho 145th of 193 countries](https://desapublications.un.org/sites/default/files/publications/2024-10/Chapter%203%20%20E-Government%20Survey%202024.pdf).
+The Lehokela crime-reporting application, built with UNDP, the National University of Lesotho and Econet, was [launched nationally in April 2026 after a multi-year pilot, with phased rollout to police stations from June 2026](https://www.undp.org/lesotho/blog/lehokela-seven-years-making-one-national-platform). A [Digital Outreach Studio opened under Phase II of the African Development Bank-backed e-Government Infrastructure project](https://lestimes.com/?p=90715) (June 2026). That phase is [designed to improve access to reliable digital services for rural and unserved citizens](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-LS-GB0-003). [In October 2026 the development bank recorded its 17 eGovernment services, cut from 150 planned, as built but not yet public, with launch planned between 15 November and 1 December 2026](https://www.afdb.org/en/documents/lesotho-egovernment-infrastructure-phase-ii-ipr-98493). The UN's 2024 E-Government Survey [places Lesotho 145th of 193 countries](https://desapublications.un.org/sites/default/files/publications/2024-10/Chapter%203%20%20E-Government%20Survey%202024.pdf).
 
 ## Digitalisation
 

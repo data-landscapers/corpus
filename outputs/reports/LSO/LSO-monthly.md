@@ -1,11 +1,11 @@
 ---
 title: Lesotho — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: LSO
-ledger_rows: 10
+ledger_rows: 12
 not_held: 4
-record: ec9f6f0df804
+record: 4e48e5c0eb86
 ---
 
 # News, Oct – Nov 2026
@@ -27,8 +27,26 @@ record: ec9f6f0df804
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Emergency Telecommunications Plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lesotho Calls for Affordable International Connectivity for Landlocked Countries to Ensure They Are Not Left Behind in the Digital Transformation Agenda](https://www.gov.ls/development/lesotho-calls-for-affordable-international-connectivity-for-landlocked-countries-to-ensure-they-are-not-left-behind-in-the-digital-transformation-agenda/)** — Government of Lesotho, 12 November 2026
+
+Lesotho's ICT minister, Nthati Moorosi, asked the ITU to prioritise affordable connectivity for landlocked states, the government reported on 12 November 2026. The minister spoke at the ITU conference in Doha. Lesotho has approved a digital transformation strategy, an AI policy and a data policy. With ITU support, it is building an emergency telecoms plan and a farmers' registry.
+
+</div>
+
+</div>
 
 ### Regional collaboration
 
@@ -114,6 +132,8 @@ Opening Lesotho's third National Science, Technology and Innovation Week, ICT an
 <a href="#data-exchange">Data Exchange</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
 ### Data Exchange
@@ -157,6 +177,22 @@ A World Bank urban and land team told Lesotho's communications ministry it is in
 **[Movable assets unlock loans for businesses](https://www.thereporter.co.ls/2026/10/30/movable-assets-unlock-loans-for-businesses/)** — The Reporter Lesotho, 30 October 2026
 
 The Central Bank of Lesotho and the CAFI project launched campaigns urging small businesses to pledge movable assets as loan collateral. Assets worth M3.7bn have been registered on LERIMA, the electronic registry of interests in movable assets. CAFI also named an electronic data reporting and supervision system among the partnership's results.
+
+</div>
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">eGovernment Infrastructure Project Phase II</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lesotho - eGovernment Infrastructure Phase II - IPR October 2026](https://www.afdb.org/en/documents/lesotho-egovernment-infrastructure-phase-ii-ipr-98493)** — African Development Bank, 29 October 2026
+
+Rated satisfactory, 85% disbursed; 17 e-services built, unlaunched, go-live by 1 Dec 2026; weak sustainability outlook.
 
 </div>
 
