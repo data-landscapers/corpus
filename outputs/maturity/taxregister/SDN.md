@@ -2,11 +2,11 @@
 
 ## Tax register
 
-**Computerised register.** No source found says a computerised taxpayer register is under way or in service. The nearest held fact: [The Sudan Taxation Chamber states it issues each taxpayer, upon registration, a single tax identification number for all types of taxes, including customs duties](<https://tax.gov.sd/en/tax-procedures/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Computerised register.** No source found since October 2023 says a computerised taxpayer register is under way or in service. The nearest held fact: [in April 2026 the Sudan Taxation Chamber issued each taxpayer a number on registration](<https://tax.gov.sd/en/tax-procedures/>).
 
-**Shared with firms or customs.** [The Sudan Taxation Chamber states it issues each taxpayer, upon registration, a single tax identification number for all types of taxes, including customs duties](<https://tax.gov.sd/en/tax-procedures/>).
+**Shared with firms or customs.** [In April 2026 the Sudan Taxation Chamber said it issues each taxpayer a single tax identification number on registration](<https://tax.gov.sd/en/tax-procedures/>). [The one number serves all types of taxes, including customs duties](<https://tax.gov.sd/en/tax-procedures/>).
 
-**Tied to ID.** No source found since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://tax.gov.sd/en/tax-procedures/>).
+**Tied to ID.** No source found since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [each taxpayer holds one number for all taxes](<https://tax.gov.sd/en/tax-procedures/>).
 
 ***Also on file***. [Commercial Register](<https://tax.gov.sd/en/tax-procedures/>).
 

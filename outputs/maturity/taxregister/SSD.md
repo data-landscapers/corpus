@@ -6,7 +6,7 @@
 
 **Shared with firms or customs.** No source found since November 2023 says the taxpayer number is shared with business registration or customs. The nearest held fact is [the online TIN application on eTax](<https://www.eservices.gov.ss/>).
 
-**Tied to ID.** No source found since November 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://www.eservices.gov.ss/>).
+**Tied to ID.** No source found since November 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [citizens and foreigners alike apply online for a TIN on eTax](<https://www.eservices.gov.ss/>).
 
 ***Also on file***. [eServices Account](<https://www.eservices.gov.ss/>).
 

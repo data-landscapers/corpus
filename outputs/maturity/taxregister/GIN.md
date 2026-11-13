@@ -6,7 +6,7 @@
 
 **Shared with firms or customs.** [APIP says its one-stop shop issues the NIF tax number together with the RCCM at business creation, within 72 hours](<https://apip.gov.gn/guichet-unique-de-la-creation-dentreprise/>). [A budget ministry arrete of 24 July 2019 makes the national register of active permanent tax numbers the sole reference for taxpayers dealing with customs, public procurement, the budget and the treasury (2019, before the three-year window)](<https://guineelex.com/decrets-arretes/arrete-a-2019-4860-mb-cab-sgg>).
 
-**Tied to ID.** No source found since November 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://apip.gov.gn/guichet-unique-de-la-creation-dentreprise/>).
+**Tied to ID.** No source found since November 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [APIP issues the NIF together with the RCCM at business creation](<https://apip.gov.gn/guichet-unique-de-la-creation-dentreprise/>).
 
 ***Also on file***. None found.
 
