@@ -21,8 +21,8 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 14 |
-| 3 Established | 20 |
+| 4 Operating | 15 |
+| 3 Established | 19 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
@@ -63,6 +63,13 @@ The social insurance fund and the state IT centre ran AI systems by 2026; no sou
 AI was in service in several government bodies in 2026; no source found reports rules or a register for it.
 
 - The same report counts more than 40 AI applications across government and banking ([source, 2026-06](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)).
+
+### Kenya: 4 Operating
+
+The tax authority and a government security centre used AI in service in 2026; rules for government use of AI are not known.
+
+- The Kenya Revenue Authority says it has unveiled a WhatsApp tax filing service powered by an AI chatbot, Shuru, through which taxpayers access pre-filled details, file returns, generate invoices and obtain compliance certificates ([source, 2026-04-07](https://www.kra.go.ke/news-center/press-release/2362-kra-surpasses-ksh-2-trillion-revenue-milestone,-records11-4-growth-in-nine-months)).
+- The Technopolis Development Authority with the State Department for ICT launched the SecureKE Sovereign SOC, which uses AI-enabled analytics to identify suspicious activity across government networks, servers, endpoints and cloud ([source, 2026-11-10](https://www.kbc.co.ke/kenya-launches-sovereign-cybersecurity-centre-to-shield-govt-systems-from-threats/)).
 
 ### Madagascar: 4 Operating
 
@@ -170,12 +177,6 @@ A government body used an AI system in service in 2026; AI in several bodies is 
 
 - NCA Deputy Director-General Salifu Suleman said AI is increasingly becoming an integral tool in the NCA's processes and activities ([source, 2026-09-15](https://www.techreviewafrica.com/news/7222/us-commerce-department-engages-ghanas-nca-on-ai-regulation)).
 - UNESCO handed over an AI-powered multi-hazard chatbot to Ghana's National Disaster Management Organization (NADMO) on 26 May 2026, now owned and run by the agency, answering public questions on seven hazards and delivering automated responses during emergencies in several languages ([source, 2026-05-26](https://www.unesco.org/en/articles/ghanas-disaster-agency-turns-ai-reach-people-water-does)).
-
-### Kenya: 3 Established
-
-A government body used an AI system in service in 2026; AI in several bodies is not on record.
-
-- The Kenya Revenue Authority says it has unveiled a WhatsApp tax filing service powered by an AI chatbot, Shuru, through which taxpayers access pre-filled details, file returns, generate invoices and obtain compliance certificates ([source, 2026-04-07](https://www.kra.go.ke/news-center/press-release/2362-kra-surpasses-ksh-2-trillion-revenue-milestone,-records11-4-growth-in-nine-months)).
 
 ### Lesotho: 3 Established
 

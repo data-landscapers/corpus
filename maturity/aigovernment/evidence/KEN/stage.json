@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "bodies": "",
+      "bodies": "several",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-002",
-      "gaps": "No source found since October 2023 says AI is in service in two or more government bodies.",
-      "note": "First pass: counted from the four questions by study-ladder-aigovernment.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "KEN-002;KEN-009",
+      "gaps": "No source found since October 2023 says the government's digital governance authority has issued rules for government bodies' use or purchase of AI, or published a register of its AI systems.",
+      "note": "Stage 4c 2026-11-13: the Kenya Revenue Authority's Shuru chatbot (KEN-002) and the Technopolis Development Authority's SecureKE security operations centre, launched with AI-enabled analytics over government networks in November 2026 (KEN-009), put AI in service in two bodies in different sectors. No cross-government rules or register for AI is held, so not 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

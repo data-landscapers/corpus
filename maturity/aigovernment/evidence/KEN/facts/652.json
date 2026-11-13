@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-kenya-sovereign-soc-konza-kbc",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Technopolis Development Authority with the State Department for ICT launched the SecureKE Sovereign SOC, which uses AI-enabled analytics to identify suspicious activity across government networks, servers, endpoints and cloud.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "SecureKE Sovereign SOC",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SecureKE Sovereign SOC",
+   "country_label": "Kenya",
+   "class": "govai",
+   "platform": "Konza Technopolis",
+   "owner": "Technopolis Development Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
