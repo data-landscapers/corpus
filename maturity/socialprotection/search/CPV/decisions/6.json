@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "socialmis",
+ "aspect": "",
+ "fact": "",
+ "title": "Social Protection",
+ "publisher": "ILO",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: fetched text is a 2023 web-archive capture of a country profile that states no dated fact on the system beyond general summary"
+}

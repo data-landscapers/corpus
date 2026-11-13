@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "payments;integrated",
+ "fact": "The LSSNP-developed MIS supports beneficiary recruitment and enables electronic payments, and the Social Registry and MIS are used by three government-led social protection programmes.",
+ "title": "Building Liberia Household Social Registry",
+ "publisher": "Social Protection Liberia (Ministry of Gender, Children and Social Protection)",
+ "published": "2024-05-20",
+ "date_source": "source",
+ "why_not": ""
+}

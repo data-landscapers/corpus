@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "payments;system",
+ "fact": "In 2022 the CGP paid about 47,000 households, 85% by cash-in-transit and 15% (7,120) through mobile money, supported by an updated MISSA that allows automatic payroll generation and reconciliation.",
+ "title": "Evaluation of the Child Grants Programme (CGP) in Lesotho (2014-2022)",
+ "publisher": "UNICEF Lesotho",
+ "published": "2022-12",
+ "date_source": "source",
+ "why_not": ""
+}

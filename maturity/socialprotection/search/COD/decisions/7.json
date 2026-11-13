@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system",
+ "fact": "The IMF paper states that DRC had no flagship safety net programme and lacked management information systems to identify and verify individuals when STEP-KIN was run, which relied on mobile phone data and mobile payments.",
+ "title": "Expanding and Improving Social Safety Nets Through Digitalization: Conceptual Framework and Review of Country Experiences",
+ "publisher": "International Monetary Fund",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": ""
+}

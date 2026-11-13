@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;payments;integrated",
+ "fact": "The ICR says the PTMP MIS was fully operational by 2018, all cash-transfer payments were digital through mobile money (94% on time), the first RSU MIS version was delivered in December 2023, and the registry and targeting tools serve other programmes such as the CMU's RAM.",
+ "title": "Implementation Completion and Results Report, Côte d'Ivoire - Productive Social Safety Net Project (ICR00006568)",
+ "publisher": "World Bank",
+ "published": "2024-06-25",
+ "date_source": "source",
+ "why_not": ""
+}

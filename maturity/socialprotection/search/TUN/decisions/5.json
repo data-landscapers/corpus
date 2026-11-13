@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;payments",
+ "fact": "The April 2024 brief states 44.4% of AMEN cash transfers are digitalized via Tunisian Post e-wallet cards, and that the AMEN management information system has been strengthened and interoperability with government agencies facilitated.",
+ "title": "Enhancing the Social Protection System to Better Serve Vulnerable Populations",
+ "publisher": "World Bank",
+ "published": "2024-04-26",
+ "date_source": "source",
+ "why_not": ""
+}

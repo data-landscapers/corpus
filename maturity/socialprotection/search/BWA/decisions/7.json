@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;payments",
+ "fact": "The World Bank review states social benefits are paid through the Payment and Reconciliation System (SOBERS) via banks, post offices or payment-provider pay points, and that the Single Social Registry pilot covered several programmes in four districts.",
+ "title": "Botswana Social Protection Programs and Systems Review: Policy Brief",
+ "publisher": "World Bank Group",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

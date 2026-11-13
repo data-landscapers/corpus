@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system",
+ "fact": "A training session from 22 March to 23 April 2026 taught 1,356 implementers to use the updated version of the Système d'Information et de Gestion du Registre Social Unique (SIG-RSU), ahead of registering over 250,000 new households.",
+ "title": "Registre Social Unique (RSU) des ménages pauvres et vulnérables : plus de 250 000 ménages en cours d'enregistrement",
+ "publisher": "BCP Filets Sociaux",
+ "published": "2026-04-24",
+ "date_source": "proxy",
+ "why_not": ""
+}

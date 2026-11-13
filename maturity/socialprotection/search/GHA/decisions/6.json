@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "payments",
+ "fact": "LEAP payments are made electronically with the e-zwich card and biometric verification through participating financial institutions, with GhanaPay and mobile money under consideration.",
+ "title": "Qualitative Assessment of the Livelihood Empowerment Against Poverty (LEAP) and Integrated Social Services (ISS): Midline Report",
+ "publisher": "Government of Ghana / UNICEF Ghana",
+ "published": "2025-08",
+ "date_source": "source",
+ "why_not": ""
+}

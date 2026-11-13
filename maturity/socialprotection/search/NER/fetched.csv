@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://cash-hub.org/wp-content/uploads/sites/3/2024/01/Note-de-cadrage-PS_Niger.pdf,held,held as raw/2022/2022-11-01-ner-keyaid-note-cadrage-protection-sociale.md,,0,,
+2,https://www.worldbank.org/en/programs/sahel-adaptive-social-protection-program-trust-fund/country-work/niger,fetched,,scripts/.workroot/study/socialprotection/cache/NER/2.txt,737,html,Niger
+3,https://rsu.gouv.ne/presentation,held,held as raw/2026/2026-10-17-ner-rsu-presentation.md,,0,,
+4,https://documents1.worldbank.org/curated/en/777931546830037773/pdf/SECPO-project-appraisal-document-pad-P166602-Board-12112018-636824088300101969.pdf,fetched,,scripts/.workroot/study/socialprotection/cache/NER/4.txt,21728,pdf,World Bank Document
+5,https://documents1.worldbank.org/curated/en/099845306302225625/pdf/P1593410e8778109a0af2d0a35d43011b68.pdf,fetched,,scripts/.workroot/study/socialprotection/cache/NER/5.txt,11225,pdf,World Bank Document
+6,https://www.worldbank.org/en/results/2021/07/13/rapid-cash-assistance-to-get-through-the-crisis,fetched,,scripts/.workroot/study/socialprotection/cache/NER/6.txt,1293,html,Rapid Cash Assistance to Get Through the Crisis
+7,https://www.uncdf.org/fr/projet-de-digitalisation-des-transferts-sociaux-du-pam-au-niger,fetched,,scripts/.workroot/study/socialprotection/cache/NER/7.txt,221,html,Related Content
+8,https://documents1.worldbank.org/curated/en/099537205152414878/pdf/IDU1e4dac7e017d0e143d41ad6e135f99a5041d0.pdf,fetched,,scripts/.workroot/study/socialprotection/cache/NER/8.txt,30243,pdf,World Bank Document

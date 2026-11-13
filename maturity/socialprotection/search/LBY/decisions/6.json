@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;payments",
+ "fact": "The World Bank and WFP April 2022 diagnostic says Libya's Social Solidarity Fund intake and registration is in person and paper-based with no integrated beneficiary database, while its cash benefits are paid by bank transfer into beneficiaries' accounts.",
+ "title": "Social Assistance Programs and Delivery in Libya: An Assessment Based on the IPSA Core Diagnostic Instrument (CODI)",
+ "publisher": "World Bank Group and World Food Programme",
+ "published": "2022-04",
+ "date_source": "source",
+ "why_not": ""
+}

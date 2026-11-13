@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "integrated",
+ "fact": "The national social protection policy states that each institution has its own database, these are not interoperable, and an interoperable information system for the sector is needed.",
+ "title": "Politique Nationale de Protection Sociale au Burundi 2024-2033",
+ "publisher": "République du Burundi",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": ""
+}

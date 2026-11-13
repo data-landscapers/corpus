@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system",
+ "fact": "UNICEF states that the third phase of the Kinshasa cash transfer project plans to build capacity for a national social protection system including the establishment of a social registry and a management information system (MIS).",
+ "title": "Lancement de la 3eme phase du projet conjoint de transferts monétaires humanitaires aux populations vulnérables à Kinshasa",
+ "publisher": "UNICEF RDC",
+ "published": "2022-03-01",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;integrated",
+ "fact": "The paper reports that the Ministry of Gender Equality, Poverty Eradication and Social Welfare and the Ministry of Defence and Veterans Affairs each run a separate, un-integrated social grants information system, with electronic eligibility checks and payment runs, and calls for integration.",
+ "title": "Factors influencing the integration of social grants information systems in the Namibian government: Actor-Network Theory analysis",
+ "publisher": "IADIS International Conference Information Systems 2023",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

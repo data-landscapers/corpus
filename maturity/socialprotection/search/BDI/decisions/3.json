@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;payments",
+ "fact": "The World Bank note states that the Merankabandi project moved its beneficiary data to the CORE-MIS, pays beneficiaries by mobile money, and is working to establish a unified social registry with CORE-MIS as its starting point.",
+ "title": "Implementing CORE-MIS to Strengthen Social Protection Delivery in Burundi: Lessons from the Cash for Jobs Project",
+ "publisher": "World Bank Social Protection & Jobs",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;payments",
+ "fact": "The March 2022 UNICEF/UNHCR/REACH study found the Ministry of Social Affairs registered the wife-and-children grant electronically through the civil registry's national number system while the Social Solidarity Fund's information management was widely paper-based.",
+ "title": "Libya: Blueprint Initiative - Social protection systems for children - Overall Findings Report, March 2022",
+ "publisher": "REACH, UNICEF and UNHCR",
+ "published": "2022-03",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;payments;integrated",
+ "fact": "The SFSP management information system, with real-time National Civil Registry validation and an automated payment module, was in service, and a unified registration form was used to standardise beneficiary data across the SFSP and the Sudan Social Safety Net Project.",
+ "title": "Delivering Hope in Fragile Times: The Story of the Sudan Family Support Program",
+ "publisher": "World Bank",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

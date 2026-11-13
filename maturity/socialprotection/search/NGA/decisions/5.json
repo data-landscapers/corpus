@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;payments",
+ "fact": "The appraisal document says the project will strengthen interoperability between the MISs supporting the NSR, the RRR and the National Beneficiary Registry, and that beneficiaries will receive funds directly into interoperable transactional accounts.",
+ "title": "Project Appraisal Document, National Social Safety Net Program - Scale Up (PAD4674)",
+ "publisher": "World Bank",
+ "published": "2021-11-23",
+ "date_source": "source",
+ "why_not": ""
+}

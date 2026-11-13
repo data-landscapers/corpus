@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;payments",
+ "fact": "The World Bank project paper of 13 May 2026 states the Baxnaano programme is underpinned by the Unified Social Registry and Social Protection Delivery System, enabling targeting, digital payments, monitoring and grievance redress.",
+ "title": "Building Opportunities and Outcomes in Social Protection and Youth Employment (Project Paper)",
+ "publisher": "World Bank",
+ "published": "2026-05-13",
+ "date_source": "source",
+ "why_not": ""
+}

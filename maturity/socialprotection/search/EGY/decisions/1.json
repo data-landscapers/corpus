@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;payments;integrated",
+ "fact": "As of the Aug 2026 report, the MOSS social registry covers 12.95 million households, Meeza cards and SIMs have been distributed to over 4.66 million households for digital payments, and work to strengthen the Takaful and Karama MIS and data integration across government continues.",
+ "title": "Implementation Status & Results Report: Takaful and Karama Cash Transfer Expansion and Systems Building Project (P179665)",
+ "publisher": "World Bank",
+ "published": "2026-08-31",
+ "date_source": "source",
+ "why_not": ""
+}

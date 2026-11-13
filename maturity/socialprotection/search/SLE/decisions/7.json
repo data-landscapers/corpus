@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;integrated",
+ "fact": "The SPRINT platform runs the household registry, the SSN programme beneficiary registry and payroll generation, while the report recommends it become the standard platform for all social assistance programmes; paper forms remain the primary means of village-level data gathering.",
+ "title": "A Retrospective Assessment of the Evolution of the Social Protection Sector and Programmes in Sierra Leone 2002-2023",
+ "publisher": "UNICEF Sierra Leone",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": ""
+}

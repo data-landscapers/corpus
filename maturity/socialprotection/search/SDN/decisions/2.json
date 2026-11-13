@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;payments",
+ "fact": "The Sudan Family Support Project's MIS registration, enrollment and payment modules were deployed with links to payment providers, and about 1 million beneficiaries were enrolled in mobile money and 1.6 million in bank accounts before the October 2021 pause.",
+ "title": "Implementation Completion and Results Report, Sudan Family Support Project (ICR00006326)",
+ "publisher": "World Bank",
+ "published": "2025-02-28",
+ "date_source": "source",
+ "why_not": ""
+}

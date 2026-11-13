@@ -106,7 +106,7 @@ satellitebroadband,satellite,infra.connect--satellite-broadband-licensing-and-av
 schoolinternet,schools,capacity.training--dt-related-training-in-secondary-education,2026-11-13,100,50,118
 schools,emis,digital.rural--digitalisation-of-rural-primary-schools,2026-11-13,100,55,161
 socialexchange,exchange,dpi.exchange--interoperability-of-social-protection-systems,2026-11-13,110,55,148
-socialprotection,socialmis,dpi.mis--social-protection,,,,
+socialprotection,socialmis,dpi.mis--social-protection,2026-11-13,75,4800000,119
 socialregistry,social,dpi.registry--social-protection-register,,,,
 startups,startuppolicy,tech.innovate--tech-startup-ecosystem,,,,
 statisticslaw,law,gov.legislate--statistics-legislation,,,,

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;integrated",
+ "fact": "MISSA administers payments for the CGP and the GOLSABS system is used by the Old Age Pension; the two MoSD systems are not integrated and operate in parallel.",
+ "title": "Project Appraisal Document: Lesotho Pathways to Sustainable Livelihoods Project (PAD4937)",
+ "publisher": "World Bank",
+ "published": "2022-06-01",
+ "date_source": "source",
+ "why_not": ""
+}

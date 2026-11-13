@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;integrated",
+ "fact": "The SP-MEMIS dashboard went live in February 2023, with the PI and LIPW management information systems integrated and integration of LEAP, SWCES and GNHR still ongoing.",
+ "title": "Scaling What Works: Integrated Social Protection Reforms for Poverty Reduction and Upward Mobility in Ghana",
+ "publisher": "World Bank",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": ""
+}

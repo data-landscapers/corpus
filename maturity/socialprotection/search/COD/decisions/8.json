@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system",
+ "fact": "The World Bank states that STEP addressed the lack of a social registry in DRC by using satellite imagery and mobile phone data to identify beneficiaries of the STEP-KIN emergency cash transfer, and built the MARTA remote supervision system.",
+ "title": "Providing safety nets for the most vulnerable in the Democratic Republic of Congo: Incremental steps with a large footprint",
+ "publisher": "World Bank",
+ "published": "2023-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

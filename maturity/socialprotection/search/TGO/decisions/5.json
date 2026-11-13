@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "why_not": "",
+ "date_source": "proxy",
+ "aspect": "system;payments",
+ "fact": "On 20 July 2023 Togo signed a US$100 million IDA financing for the non-contributive social protection programme, to establish a social registry of persons and households and an integrated payment system for cash transfers.",
+ "title": "Programme d’Assistance Sociale Transformatrice pour la Résilience",
+ "publisher": "Ministère des Finances et du Budget (Togo)",
+ "published": "2023-07-21"
+}

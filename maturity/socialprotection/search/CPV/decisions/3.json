@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system",
+ "fact": "The CSU runs on an integrated set of applications (ArcGIS-based collection form, georeferenced and relational databases, web application, dashboard, query app, APIs) hosted on a remote cloud server under an annual maintenance contract, and the ministry commissions a cost-benefit analysis of options for a CSU server.",
+ "title": "Termos de Referência: Assistência Técnica para a Análise do Custo-Benefício das Diferentes Opções para a Criação do Servidor Do Cadastro Social Único (CSU)",
+ "publisher": "Coordenação Nacional do Cadastro Social Único / Ministério das Finanças",
+ "published": "2023-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

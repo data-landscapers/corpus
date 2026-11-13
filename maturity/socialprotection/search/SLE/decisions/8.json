@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;integrated",
+ "fact": "SPRINT is the information system supporting NaCSA and the SSN programme, acting as a social registry, but many processes remain tied to single programmes and paper-based, and sub-national processes are largely manual.",
+ "title": "National Social Protection Strategy for Sierra Leone 2022-2026",
+ "publisher": "Government of Sierra Leone",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

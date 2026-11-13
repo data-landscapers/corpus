@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "payments",
+ "fact": "All payments of the third-cohort Emergency Cash Transfer, begun 25 January 2024 for 35,005 households in 11 districts, were made electronically through Orange Money.",
+ "title": "Orange Money facilitates payment to 35,000 beneficiary households",
+ "publisher": "The Satellite News",
+ "published": "2024-02-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

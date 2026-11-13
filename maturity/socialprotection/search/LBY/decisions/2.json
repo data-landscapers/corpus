@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "payments",
+ "fact": "On 13 May 2026 Libya's Ministry of Social Affairs deposited the Q2 2026 wife-and-children grant funds at the Central Bank and said it would send beneficiary lists to banking operations to transfer the amounts to beneficiaries' accounts at commercial banks.",
+ "title": "إيداع مخصصات منحة الزوجة والأولاد بحساب الشؤون الاجتماعية بالمصرف المركزي",
+ "publisher": "وكالة الأنباء الليبية",
+ "published": "2026-05-13",
+ "date_source": "source",
+ "why_not": ""
+}

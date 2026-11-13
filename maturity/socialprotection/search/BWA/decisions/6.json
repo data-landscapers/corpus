@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "payments",
+ "fact": "In December 2022 the World Bank found 72 percent of Botswana's social grants paid in cash and 20 percent into bank accounts, with PosoMoney mobile money and pre-paid cards available as options.",
+ "title": "Republic of Botswana Financial Sector Assessment Program Technical Note: Financial Inclusion and Digital Financial Services",
+ "publisher": "World Bank Group",
+ "published": "2022-12",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "payments",
+ "fact": "The Q3 2024 AMEN fact sheet states 44.4% of transfers use Tunisian Post Office wallets for electronic payment.",
+ "title": "AMEN PROGRAM Q3 2024",
+ "publisher": "World Bank",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

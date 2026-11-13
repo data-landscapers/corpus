@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "system;integrated;payments",
+ "fact": "On 18 June 2025 the government launched the Registre Social Unique, made available to all social-action actors, together with payment of transfers to 70,000 new Filets Sociaux households, bringing active beneficiaries to 300,000.",
+ "title": "Cérémonie de lancement du Registre Social Unique, du paiement de transferts monétaires à 70 000 nouveaux ménages bénéficiaires des filets sociaux et du projet « Popote Familiale »",
+ "publisher": "BCP Filets Sociaux",
+ "published": "2025-06-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "socialmis",
+ "aspect": "integrated",
+ "fact": "In 2019 the Ministry of Social Affairs brought its social assistance programmes (PNAFN, AMG1, AMG2) under the single Amen Social programme, with beneficiaries mapped into one database supported by the social identifier number.",
+ "title": "Social Protection: Tunisia",
+ "publisher": "SDG16+ Pathfinders",
+ "published": "2023-10-09",
+ "date_source": "proxy",
+ "why_not": ""
+}
