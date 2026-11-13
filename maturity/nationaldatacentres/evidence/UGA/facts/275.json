@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-12-workonline-extends-into-uganda-raxio-kampala",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Raxio UG1 (Kampala)",
+   "country_label": "Raxio UG1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "The document does not state who owns Raxio UG1 in Uganda."
+}
