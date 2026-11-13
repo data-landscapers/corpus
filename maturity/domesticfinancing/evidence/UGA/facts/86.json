@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-uga-what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "PML Daily says the ICT ministry's programme budget is about UGX 490 billion this financial year, up from about UGX 104 billion in FY2022/23.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ICT ministry programme budget",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
