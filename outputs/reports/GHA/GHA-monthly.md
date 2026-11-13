@@ -3,9 +3,9 @@ title: Ghana — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: GHA
-ledger_rows: 72
+ledger_rows: 73
 not_held: 9
-record: 3b46aaa03cfb
+record: 17e0cb84b33e
 ---
 
 # News, Oct – Nov 2026
@@ -696,6 +696,14 @@ Ghana's National Identification Authority, with the National Health Insurance Au
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[National Identification Authority](https://nia.gov.gh/)** — National Identification Authority, 11 November 2026
+
+Date-of-birth updates on Ghana Card suspended 9 Nov 2026; enrolment of children 6–14 reaches Upper West and Savannah.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -743,6 +751,20 @@ Ghana's National Identification Authority opened an online Ghana Card replacemen
 **[NIA Taskforce launches nationwide crackdown on Ghana card photocopying from November 2](https://www.graphic.com.gh/news/general-news/nia-taskforce-launches-nationwide-crackdown-on-ghana-card-photocopying-from-november-2.html)** — Graphic Online, 1 November 2026
 
 Ghana's National Identification Authority began nationwide enforcement of L.I. 2523 on 2 November 2026 through a Biometric Verification Taskforce. Photocopying or visually inspecting a Ghana Card for a transaction is now an offence; institutions must verify through the authority's verification platform. Fines run from GH¢6,000 to GH¢24,000 for organisations and GH¢600 to GH¢6,000 for individuals.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ghana Card date-of-birth updates</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[National Identification Authority](https://nia.gov.gh/)** — National Identification Authority, 11 November 2026
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 </div>
 
