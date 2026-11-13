@@ -292,7 +292,7 @@ Not established: Nothing found since October 2023 says whether a social programm
 
 ### Togo: Unplaced
 
-Nothing found since 2023 names a social programme management information system, so no stage is set.
+Togo's minister said in 2023 a social information system was being built; nothing since October 2023 shows one, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether a social programme runs on an information system.
 
