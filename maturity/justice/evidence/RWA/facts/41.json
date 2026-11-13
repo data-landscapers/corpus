@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-12-rwanda-explores-ai-and-science-driven-innovation-to-improve-justice-se",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Tech Review Africa says Rwanda has made significant progress digitising justice services, particularly through the Integrated Electronic Case Management System (IECMS).",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Integrated Electronic Case Management System (IECMS)",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Electronic Case Management System (IECMS)",
+   "country_label": "Rwanda",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
