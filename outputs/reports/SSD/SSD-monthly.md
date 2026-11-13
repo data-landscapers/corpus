@@ -1,11 +1,11 @@
 ---
 title: South Sudan — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: SSD
 ledger_rows: 7
-not_held: 8
-record: 0e55661dec60
+not_held: 7
+record: 0f31ae7a5378
 ---
 
 # News, Oct – Nov 2026

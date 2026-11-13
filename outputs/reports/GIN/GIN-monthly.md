@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: GIN
 ledger_rows: 22
-not_held: 3
-record: c6d8ea4a5945
+not_held: 2
+record: 4f6aeb965107
 ---
 
 # News, Oct – Nov 2026

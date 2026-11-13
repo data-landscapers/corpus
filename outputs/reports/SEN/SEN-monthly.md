@@ -3,9 +3,9 @@ title: Senegal — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: SEN
-ledger_rows: 45
+ledger_rows: 46
 not_held: 2
-record: 0b320c0da72c
+record: caefdcf5477f
 ---
 
 # News, Oct – Nov 2026
@@ -223,6 +223,20 @@ Visa and Senegal's ministry of telecommunications and digital affairs signed a t
 </nav>
 
 ### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulatory regime for satellite operators (ARTP consultation)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Satellite et réseaux terrestres : le Sénégal ajuste son cadre réglementaire](https://www.osiris.sn/satellite-et-reseaux-terrestres-le-senegal-ajuste-son-cadre-reglementaire.html)** — OSIRIS, 5 October 2026
+
+ARTP consults to 21 October 2026 on a licence, authorisation or declaration regime for satellite operators.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
