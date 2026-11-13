@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept;levels;schools",
+ "fact": "UNICEF reports e-Msomo, a digital school-management system with online entry of marks and a unique identifier per pupil, launched on 5 June 2025 and in a pilot phase in several public schools, with national extension planned.",
+ "title": "e-Shiyo et e-Msomo, deux plateformes pour transformer l'éducation grâce au numérique aux Comores",
+ "publisher": "UNICEF Comores",
+ "published": "2025-08-05",
+ "date_source": "source",
+ "why_not": ""
+}

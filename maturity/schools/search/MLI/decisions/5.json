@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept",
+ "fact": "School census questionnaires are printed by the teaching academies, filled in on paper by head teachers and then entered on the StatEduc platform at academy level, with the EMIS holding school-level data for 2015/16 to 2018/19 and no attendance data.",
+ "title": "Unpacking Factors Influencing School Performance",
+ "publisher": "UNICEF Innocenti (Data Must Speak, Mali)",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

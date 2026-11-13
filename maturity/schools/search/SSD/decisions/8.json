@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept",
+ "fact": "Learner admission data is collected annually on a paper Pupil Admission Register filled at school and keyed in at state level, with daily attendance sent by SMS, and some schools not yet included in SAMS.",
+ "title": "Strengthening Education Management Information Systems (EMIS) and Data for Increased Resilience to Crisis: Country Case Study South Sudan",
+ "publisher": "UNESCO and NORCAP (David Mwaniki)",
+ "published": "2021",
+ "date_source": "source",
+ "why_not": ""
+}

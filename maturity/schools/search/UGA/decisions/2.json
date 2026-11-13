@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "schools;kept;governance",
+ "fact": "As of 3 October 2024, 43,892 primary schools (12,579 government, 31,313 private) were registered on the web-based EMIS, which captures learner details; the primary non-response rate was 0.2% for public and 59.6% for private schools.",
+ "title": "Private schools on the spot for delayed digital registration",
+ "publisher": "The Observer",
+ "published": "2024-10-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "governance",
+ "fact": "The MIQRA project (2021-2027, IDA and GPE funded, USD 140.7 million) finances a pilot-phase extension of the integrated management system to basic education and the linking of existing education information systems.",
+ "title": "Projet d'amélioration de la qualité et des résultats de l'éducation pour tous au Mali (MIQRA)",
+ "publisher": "MIQRA",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

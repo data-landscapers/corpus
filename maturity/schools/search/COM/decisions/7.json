@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "governance;kept",
+ "fact": "A 2022 UNESCO UIS diagnostic of the SIGE was not completed with an integrated information system, and the joint sector review recommends acquiring standard software (Stateduc, Epidata) for data entry.",
+ "title": "Rapport final, Revue Sectorielle Conjointe de l'Education 2023",
+ "publisher": "MENERSFIP, Union des Comores",
+ "published": "2023-06",
+ "date_source": "source",
+ "why_not": ""
+}

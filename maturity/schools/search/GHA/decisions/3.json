@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept;schools",
+ "fact": "The paper states that paper-based record keeping dominates schools in Ghana and that a team study (not official data) found fewer than 10% of schools nationwide use digital school management tools.",
+ "title": "A Sustainable Approach to School Management: Introducing the Bold School Management System",
+ "publisher": "International Journal of Computer Applications",
+ "published": "2024-01",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "governance;kept",
+ "fact": "The 2022-2023 primary statistical yearbook, published May 2024, states that the ministry's BSD scaled up the digital data collection piloted since 2017 with UNICEF support, and that the 2022-23 school census was held only in the first half of 2024 for lack of funding, with AFD, GPE and UNICEF financing the yearbook.",
+ "title": "Annuaire statistique Enseignement Primaire 2022-2023",
+ "publisher": "Ministère de l'Enseignement Pré-universitaire et de l'Alphabétisation, Bureau de Stratégie et de Développement",
+ "published": "2024-05",
+ "date_source": "source",
+ "sub_indicator": "emis",
+ "why_not": ""
+}

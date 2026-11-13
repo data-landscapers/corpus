@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept;governance",
+ "fact": "UNICEF states that the Ministry of Education introduced a digital Education Management Information System in early 2022, and that a digital data-collection tool piloted in Senanga and Katete districts was taught in 2022 and 2023 to eight more districts.",
+ "title": "Driving Change for Children through Data",
+ "publisher": "UNICEF Zambia",
+ "published": "2023-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

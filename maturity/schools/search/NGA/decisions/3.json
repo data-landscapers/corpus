@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "emis",
+ "aspect": "",
+ "fact": "",
+ "title": "Nigeria's Education Minister Details Nationwide Data System Reaching More Than 200,000 Schools",
+ "publisher": "DHIS2",
+ "published": "2026-06-23",
+ "date_source": "source",
+ "why_not": "already-held: the paper census replaced by DNEMIS is the story already held from the DHIS2 launch article of 2026-08-14"
+}

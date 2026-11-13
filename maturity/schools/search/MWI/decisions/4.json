@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "schools;governance",
+ "fact": "Malawi's DHIS2-based cohort tracking prototype is running in four pilot schools using KoboCollect for offline entry, with validation expected by end of June before scaling to the rest of Machinga and Dedza; a draft EMIS governance framework was co-created with the EMIS Unit and UNICEF in May.",
+ "title": "Unlocking DATA Newsletter May edition",
+ "publisher": "Unlocking Data Initiative (OpenDevEd)",
+ "published": "2026-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "emis",
+ "aspect": "",
+ "fact": "",
+ "title": "EMIS Ghana | Education Management Information System",
+ "publisher": "Ministry of Education, Ghana",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: portal home page, no date; says schools submit annual census online but gives no dated fact or per-learner records."
+}

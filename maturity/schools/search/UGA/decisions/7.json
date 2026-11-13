@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept;schools",
+ "fact": "The annual school census, last held in 2017, used paper forms filled in by head teachers and entered centrally; a 2020 census with tablet-based collection and a new web-based EMIS were planned.",
+ "title": "Strengthening Education Management Information Systems (EMIS) and Data for Increased Resilience to Crisis: Uganda Country Case Study",
+ "publisher": "UNESCO and NORCAP",
+ "published": "2021",
+ "date_source": "source",
+ "why_not": ""
+}

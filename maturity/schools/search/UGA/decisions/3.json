@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "schools;kept",
+ "fact": "As of September 2024, 14,177 of 14,241 government schools (over 99%) and 31,464 of 61,572 private schools (50%) had uploaded at least one learner on EMIS; 10,638,144 government-school and 2,952,062 private-school learners were uploaded.",
+ "title": "Government to license, register private schools through EMIS",
+ "publisher": "Daily Monitor",
+ "published": "2024-10-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

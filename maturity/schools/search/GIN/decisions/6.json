@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "governance;kept",
+ "fact": "In May 2023 the GPE independent panel reported that Guinea's 2020/21 statistical yearbooks state data collection is computerised, that computerisation began on a pilot basis in 2017, and that the country's own self-analysis says there is no EMIS.",
+ "title": "Assessment of Enabling Factors, Guinea (Report of the Independent Technical Advisory Panel)",
+ "publisher": "Global Partnership for Education",
+ "published": "2023-05",
+ "date_source": "source",
+ "sub_indicator": "emis",
+ "why_not": ""
+}

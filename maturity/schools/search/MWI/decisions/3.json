@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "schools;kept",
+ "fact": "UDI Malawi and HISP-UNIMA are piloting a DHIS2-based EMIS in Dedza and Machinga with an offline Android app and live modules for teacher/learner attendance, enrolment and transfers, replacing paper-based reporting.",
+ "title": "Transforming Education Data Systems in Malawi: UDI Implements a DHIS2-Based EMIS Platform",
+ "publisher": "Unlocking Data Initiative (UDI) Malawi",
+ "published": "2026-07-30",
+ "date_source": "proxy",
+ "why_not": ""
+}

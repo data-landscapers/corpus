@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "governance;kept;schools",
+ "fact": "The 17 June 2019 World Bank appraisal states the BSD piloted tablet-based school data collection, and that approximately 80 percent of directors of public pre-primary and primary schools would receive a tablet to enter census data, with manual entry continuing in parallel.",
+ "title": "Project Appraisal Document on a proposed grant to the Republic of Guinea for a Project for Results in Early Childhood and Basic Education",
+ "publisher": "World Bank",
+ "published": "2019-06-17",
+ "date_source": "source",
+ "sub_indicator": "emis",
+ "why_not": ""
+}

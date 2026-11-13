@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept",
+ "fact": "The panel states that Ghana's data system is only partly digitalised and relies mainly on a school census which is not digital, that a digitised EMIS portal for the education data survey was introduced in 2022, and that student attendance data are a gap.",
+ "title": "Report of the Independent Technical Advisory Panel (ITAP): Assessment of Enabling Factors, Ghana",
+ "publisher": "Global Partnership for Education",
+ "published": "2023-07",
+ "date_source": "source",
+ "why_not": ""
+}

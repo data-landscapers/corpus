@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "emis",
+ "aspect": "",
+ "fact": "",
+ "title": "2,6 millions de cartes scolaires sécurisées en Côte d'Ivoire",
+ "publisher": "IBSF",
+ "published": "2026-11-04",
+ "date_source": "source",
+ "why_not": "no-development: vendor PR on ID card production, no fact on school-level record keeping",
+ "select": false
+}

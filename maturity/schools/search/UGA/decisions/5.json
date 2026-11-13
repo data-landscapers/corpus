@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept;levels;schools",
+ "fact": "About 9.7 million students were recorded on the EMIS launched in July 2022, over 77% of 2022 PLE candidates were entered by primary schools, which assign each learner a LIN, and about 6 million students were still to be recorded.",
+ "title": "S.1 entrants to submit Learner Identification Numbers before admission",
+ "publisher": "The Independent",
+ "published": "2023-02-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

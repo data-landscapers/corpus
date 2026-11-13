@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept;levels;schools",
+ "fact": "In the March 2020 assessment, the DHIS2-EMIS pilot in Gulu and Mayuge districts covered primary and pre-primary schools, whose paper annual census forms were entered at district level, and the pilot recommended piloting online submission by schools.",
+ "title": "Uganda DHIS2 for EMIS: Pilot in Gulu and Mayuge District, Assessment Report",
+ "publisher": "Ministry of Education and Sports / HISP Uganda / University of Oslo",
+ "published": "2020-03",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept",
+ "fact": "GESS distributed physical Pupils' Admission Registers to schools between 2013 and 2022, and in 2023 began collecting enrolment data through tablets syncing with SAMS, operated by GESS staff.",
+ "title": "Using EdTech to Monitor Enrolment",
+ "publisher": "Girls' Education South Sudan",
+ "published": "2024-05-08",
+ "date_source": "source",
+ "why_not": ""
+}

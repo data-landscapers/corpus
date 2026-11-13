@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept;levels;schools",
+ "fact": "From 2017 to 2020 Impact Network used fingerprint-based daily attendance with unique learner IDs in eight of its rural primary schools in eastern Zambia, with teachers also keeping the manual paper register.",
+ "title": "Case Study of the Use of Biometrics in Impact Network Schools in Rural Zambia",
+ "publisher": "American Institutes for Research",
+ "published": "2023-10",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "governance;kept;levels",
+ "fact": "Jigitugu, an education MIS collecting real-time learner enrolment, attendance and performance data, was piloted in PASCOFI schools (cash programme in 200 schools in 2024/25) and formally handed over to the Ministry of Education in October 2025.",
+ "title": "Le Projet d'appui à la scolarisation des filles affectées par le conflit au Mali (PASCOFI)",
+ "publisher": "CGA Technologies",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

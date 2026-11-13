@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept",
+ "fact": "The 2023-2024 school census ran on printed questionnaires (ST1, ST2, ST3) distributed to provinces, collected from schools at sub-division gathering centres, and keyed by data-entry operators in the provinces.",
+ "title": "Annuaire statistique de l'enseignement préscolaire, primaire et secondaire 2023-2024",
+ "publisher": "Direction de l'Information pour la Gestion de l'Education (DIGE), Ministère de l'Éducation Nationale et Nouvelle Citoyenneté",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": ""
+}

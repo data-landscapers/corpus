@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept;governance",
+ "fact": "The Ministry states that it has long collected school data on paper and that the 2024 annual school census was filled in by one nominated teacher per school on a soft-copy tool (CS Pro 7.7) and sent up through districts and provinces.",
+ "title": "Education Statistics Bulletin 2024",
+ "publisher": "Ministry of Education, Directorate of Planning and Information, Zambia",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

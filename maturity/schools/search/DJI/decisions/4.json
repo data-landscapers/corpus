@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "date_source": "source",
+ "why_not": "",
+ "aspect": "kept;levels",
+ "fact": "The World Bank project paper of 28 April 2025 says a digital EMIS has been deployed nationally, starting with all public primary schools, and that its unique student identifier allows digitized, real-time monitoring of student enrolment and attendance by school principals.",
+ "title": "Project Paper on a Proposed Additional Grant ... Expanding Opportunities for Learning",
+ "publisher": "World Bank (IDA)",
+ "published": "2025-04-28"
+}

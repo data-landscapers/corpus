@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "schools",
+ "fact": "The OpenEMIS Survey pilot in Lesotho was tested offline in 48 schools in August 2018 and expanded to 179 institutions in November 2018, ahead of planned rollout to all schools.",
+ "title": "Leveraging OpenEMIS Survey to Collect, Manage and Disseminate Education Data in Lesotho",
+ "publisher": "Community Systems Foundation",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

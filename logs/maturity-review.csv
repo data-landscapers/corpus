@@ -104,7 +104,7 @@ revenuecollection,revenue,dpi.pay--revenue-collection,2026-11-13,100,60,184
 ruralelectrification,rural,infra.energy--rural-electrification,2026-11-13,110,60,147
 satellitebroadband,satellite,infra.connect--satellite-broadband-licensing-and-availability,,,,
 schoolinternet,schools,capacity.training--dt-related-training-in-secondary-education,,,,
-schools,emis,digital.rural--digitalisation-of-rural-primary-schools,,,,
+schools,emis,digital.rural--digitalisation-of-rural-primary-schools,2026-11-13,100,55,161
 socialexchange,exchange,dpi.exchange--interoperability-of-social-protection-systems,,,,
 socialprotection,socialmis,dpi.mis--social-protection,,,,
 socialregistry,social,dpi.registry--social-protection-register,,,,

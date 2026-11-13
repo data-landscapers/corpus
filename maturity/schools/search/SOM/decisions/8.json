@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept;governance",
+ "fact": "For 2020-21 school data were stored via the online EMIS system, entered from the head teacher up through district, regional and member-state offices, with formal primary and secondary schools covered.",
+ "title": "Annual Statistics Yearbook 2020-2021",
+ "publisher": "Federal Government of Somalia, Ministry of Education, Culture and Higher Education",
+ "published": "2022-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

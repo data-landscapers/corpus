@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://corus.org/fr/blog/2026/case-scaling-education-data-drc,fetched,,scripts/.workroot/study/schools/cache/COD/1.txt,2230,html,Arguments en faveur d'une utilisation à plus grande échelle des données sur l'éducation en RDC
+2,https://edu-nc.gouv.cd/documentation/annuaire-statistique-de-lenseignement-prescolaire-primaire-et-secondaire-pour-lannee-scolaire-2023-2024/download,fetched,,scripts/.workroot/study/schools/cache/COD/2.txt,79111,pdf,
+3,https://au.int/en/pressreleases/20260512/au-iped-supports-education-data-systems-self-assessment-drc,held,held as raw/2026/2026-05-12-au-iped-emis-self-assessment-drc.md,,0,,
+4,https://www.journaldekinshasa.com/sernie-trois-jours-daudit-pour-renforcer-eduser-le-coeur-numerique-de-lecole-congolaise/,fetched,,scripts/.workroot/study/schools/cache/COD/4.txt,481,html,"SERNIE : trois jours d’audit pour renforcer « EDUSER », le cœur numérique de l’école congolaise - Journal de Kinshasa"
+5,https://rtnc.cd/tshikapa-vers-lutilisation-du-systeme-eduser/,fetched,,scripts/.workroot/study/schools/cache/COD/5.txt,270,html,Tshikapa : Vers l'utilisation du système EDUSER - Rtnc
+6,https://edu-nc.gouv.cd/news/kongo-central-towards-school-management-20-with-the-deployment-of-educ-app,fetched,,scripts/.workroot/study/schools/cache/COD/6.txt,350,html,Kongo Central: Towards school management 2.0 with the deployment of Educ-App
+7,https://edu-nc.gouv.cd/news/sernie-workshop-on-functionalities-for-modernizing-the-education-system,fetched,,scripts/.workroot/study/schools/cache/COD/7.txt,395,html,SERNIE: Workshop on functionalities for modernizing the education system
+8,https://documents1.worldbank.org/curated/en/099121724060523706/txt/P172341-54806169-ac97-4144-8f26-c20d06662f3c.txt,unfetchable,empty extraction; no usable Wayback capture,,0,,

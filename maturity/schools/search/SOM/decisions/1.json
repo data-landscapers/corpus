@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "kept;levels;governance",
+ "fact": "Since its nationwide rollout in 2019 the ministry's online EMIS covers primary grades 4-8 only, secondary and ABE; primary grades 1-3 and individual student-level data are not yet captured, and a revision is being commissioned.",
+ "title": "Terms of Reference (TOR) For Revision and Expansion of the Education Management Information System (EMIS)",
+ "publisher": "Ministry of Education, Culture and Higher Education, Directorate of Basic Education, EMIS Department",
+ "published": "2025-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

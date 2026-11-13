@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "governance",
+ "fact": "The Ministry of Education's Anuário Estatístico da Educação 2019 (February 2019) states that school data were collected through the SIGE circuit from school directorates upward, and that the SIGE platform, though running, is not a finished product and GEPE had to use Excel to complete data verification.",
+ "title": "Anuário Estatístico da Educação 2019",
+ "publisher": "Ministério da Educação, Gabinete de Estudos, Planeamento e Estatística (GEPE)",
+ "published": "2019-02",
+ "date_source": "source",
+ "why_not": ""
+}

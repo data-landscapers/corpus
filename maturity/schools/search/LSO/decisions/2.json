@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "governance",
+ "fact": "Lesotho's DHIS2 for Education training reached three districts at school level only, district education officers have not been trained, and there is no consolidated national EMIS policy (Phase 1 ran August to October 2026).",
+ "title": "Consultancy to consolidate education data management and data use in Lesotho and Eswatini (Phase 2)",
+ "publisher": "JMERC",
+ "published": "2026-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

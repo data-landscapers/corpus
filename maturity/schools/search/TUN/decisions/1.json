@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "aspect": "governance;last12",
+ "fact": "On 27 July 2026 the Ministry of Education activated the national 'Vie scolaire' portal, a unified digital system with a parent account linked to the pupil file and a space for school heads, with regional staff training 20-30 July 2026.",
+ "title": "Ministère de l'Éducation : le portail \"Vie scolaire\" entre en service pour une gestion numérique centralisée",
+ "publisher": "Le Temps News (d'après TAP)",
+ "published": "2026-07-27",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emis",
+ "date_source": "source",
+ "why_not": "",
+ "aspect": "kept;schools",
+ "fact": "The World Bank status report of 13 July 2025 says that at 31 October 2024 90% of public primary schools used GOSE to register students and report school changes, that schools register students at the start of each year and manage enrolment changes in the platform, and that all public schools and French private schools were then using it.",
+ "title": "Implementation Status & Results Report: Expanding Opportunities for Learning (P166059), Seq No 12",
+ "publisher": "World Bank",
+ "published": "2025-07-13"
+}
