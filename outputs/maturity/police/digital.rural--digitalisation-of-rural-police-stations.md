@@ -203,10 +203,13 @@ The investigation bureau processes criminal case files in the justice ministry's
 
 ### South Sudan: 2 Nascent
 
-A case system shared by courts, justice ministry and police ran in Juba only in 2021; no source found says how many stations use it.
+Police case and crime systems ran in Juba only, the newest from 2025; use in stations outside the capital is not known.
+
+*Advancing.*
 
 - UNDP reports that 10,836 cases, 2,508 of them brought by female claimants, were recorded in 2021 through the new Case Monitoring Information Management System set up in Juba for the judiciary, the Ministry of Justice and Constitutional Affairs and the South Sudan National Police Service; it does not say how many were entered by the police or at which stations ([source, 2021](https://rolhr.undp.org/annualreport/2021/africa/south-sudan.html)).
 - UNDP's report on 2021 places the unified case management system in Juba only, for the courts, the justice ministry and the South Sudan National Police Service, and gives no count of police stations using it ([source, 2021](https://rolhr.undp.org/annualreport/2021/africa/south-sudan.html)).
+- A crime management system built by a UNMISS police officer was handed over to the South Sudan National Police ICT directorate in Juba on 5 December 2025, recording incidents and reports, with a commitment to bring it into official nationwide operation still to be met ([source, 2025-12-05](https://cand.vn/canh-sat-viet-nam-thiet-ke-thanh-cong-he-thong-quan-ly-toi-pham-tai-nam-sudan-post790283.html)).
 
 ### Tanzania: 2 Nascent
 

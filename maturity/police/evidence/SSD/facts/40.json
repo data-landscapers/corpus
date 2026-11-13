@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-06-ssd-canh-sat-viet-nam-thiet-ke-thanh-cong-he-thong-quan-ly-toi-pham-tai-na",
+ "facts": [
+  {
+   "sub_indicator": "record",
+   "aspect": "records",
+   "value": "O",
+   "fact": "A crime management system built by a UNMISS police officer was handed over to the South Sudan National Police ICT directorate in Juba on 5 December 2025, recording incidents and reports, with a commitment to bring it into official nationwide operation still to be met.",
+   "as_of": "2025-12-05",
+   "date_precision": "day",
+   "system": "Crime management system",
+   "class": "record"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Crime management system",
+   "country_label": "Hệ thống quản lý tội phạm (Crime Management System) 2025",
+   "class": "record",
+   "platform": "",
+   "owner": "South Sudan National Police Service ICT directorate",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

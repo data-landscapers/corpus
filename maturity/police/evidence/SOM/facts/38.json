@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-11-som-somalia-plans-central-security-data-system-to-fill-reporting-gaps",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Analysis Centre (DAC)",
+   "country_label": "SOM",
+   "class": "statistics",
+   "platform": "",
+   "owner": "Ministry of Internal Security",
+   "tiers": ""
+  }
+ ],
+ "note": "A central security data system for reports to cabinet, being designed at a workshop; it does not say stations make a digital record when a report is taken, so it is not a station record system."
+}
