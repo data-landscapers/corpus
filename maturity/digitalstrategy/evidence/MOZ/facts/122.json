@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-moz-co-creating-mozambique-s-national-digital-transformation-strategy-2027",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "validated",
+   "fact": "The ITU reports that Mozambique's National Digital Transformation Strategy (ENTD) 2027-2036, launched by the government in February 2026 and refined through regional validation in May 2026, awaits approval by the Council of Ministers.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Estrategia Nacional de Transformacao Digital (ENTD) 2027-2036",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2036",
+   "fact": "The ITU says the ENTD covers 2027-2036, with measurable checkpoints and 14 flagship commitments to 2031.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Estrategia Nacional de Transformacao Digital (ENTD) 2027-2036",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

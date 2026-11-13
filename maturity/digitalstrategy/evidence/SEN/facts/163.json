@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-14-sen-cloture-de-la-consultation-publique-pour-la-strategie-numerique-du-sen",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "Le Tech Observateur reports that the digital ministry closed a public consultation in August 2024 for Senegal's Digital Strategy 2025-2035, is analysing the contributions, and promised to unveil the strategy by the end of August 2024.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Stratégie numérique du Sénégal 2025-2035",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie numérique du Sénégal 2025-2035",
+   "country_label": "Senegal Digital Strategy 2025-2035",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

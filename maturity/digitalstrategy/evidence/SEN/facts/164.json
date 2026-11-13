@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-01-sen-un-conseil-national-du-numerique-pour-eclairer-les-decisions-de-l-etat",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "Communications minister Alioune Sall referred to the digital roadmap, the New Deal technologique, launched in February 2025 and tied to the national transformation agenda Senegal 2050.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "New Deal technologique",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "Prime Minister Ousmane Sonko installed the 20-member Conseil national du numerique under the Primature's strategic coordination to support coordinated implementation of the New Deal technologique.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Conseil national du numerique",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

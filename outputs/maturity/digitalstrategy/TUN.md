@@ -8,7 +8,7 @@
 
 **Text.** The [La Presse report of November 2025](<https://www.lapresse.tn/2025/11/19/comite-general-du-controle-des-depenses-publiques-la-strategie-digitale-nationale-un-pari-pour-moderniser-letat/>) gives the strategy's axes and no text.
 
-**Period.** The [EBRD board report of July 2024](<https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/54140/54140-board-report.pdf>) gives the earlier National Digital Strategy a period of 2021 to 2025. [In September 2025 the minister said that strategy had ended and was being evaluated](<https://www.erembusiness.com/technology/fbz71cp>).
+**Period.** The [EBRD board report of July 2024](<https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/54140/54140-board-report.pdf>) gives the earlier National Digital Strategy a period of 2021 to 2025. [In September 2025 the minister said that strategy had ended and was being evaluated](<https://www.erembusiness.com/technology/fbz71cp>). [In March 2024 the government said it wanted to make up delays in carrying out the strategy ending in 2025](<https://fr.allafrica.com/stories/202403190330.html>).
 
 **Delivery plan.** No delivery plan has been found. The [minister's five axes](<https://www.erembusiness.com/technology/fbz71cp>) include public service digitalisation and digital sovereignty.
 

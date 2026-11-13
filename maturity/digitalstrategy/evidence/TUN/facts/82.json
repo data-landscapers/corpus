@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-19-tun-tunisie-transformation-digitale-l-etat-accelere-les-chantiers-numeriqu",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2025",
+   "fact": "The article refers to the new digital strategy 2022-2025, whose delays in implementation the Hachani government says it wants to make up.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Strategie numerique 2022-2025",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Strategie numerique 2022-2025",
+   "country_label": "Tunisia",
+   "class": "national",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Adoption, text and reporting are not stated."
+}
