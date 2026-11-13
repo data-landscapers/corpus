@@ -20,15 +20,15 @@
       "stage": "3",
       "governance": "owner:ministry;plan:current;finance:not-stated",
       "tiers": "T1;T2;T3;T4",
-      "digitised": "",
+      "digitised": "shared",
       "last12": "advancing",
       "clinics": "count:265",
       "cap": "",
       "flags": "advancing",
       "stage_sources": "EGY-015;EGY-009;EGY-007",
-      "gaps": "The Egypt Healthcare Authority's count of 265 primary care centres and units running its health information system (July 2026, EGY-015) covers the six first-phase Universal Health Insurance governorates only and gives no denominator; it postdates the compact's early pilots of December 2025 (EGY-006), so the newer stands. No national share of primary clinics, no dated fact after 2019 on where the record is entered, and nothing on a unique patient identifier or retrieval at another facility. The advancing flag rests on a proposal discussed in September 2026, with no timetable.",
+      "gaps": "The Egypt Healthcare Authority's count of 265 primary care centres and units running its health information system (July 2026, EGY-015) covers the six first-phase Universal Health Insurance governorates only and gives no denominator; it postdates the compact's early pilots of December 2025 (EGY-006), so the newer stands. Records shared across governorates (November 2026, EGY-016) reach only the insurance system's governorates. No national share of primary clinics. The advancing flag rests on a proposal discussed in September 2026, with no timetable.",
       "note": "Electronic records run in 265 primary care centres and units across six governorates (July 2026), primary clinics in some districts, which meets stage 3. Stage 4 needs more than half of primary clinics nationally on records retrievable at another facility, and nothing shows that.",
-      "as_at": "2026-11-08"
+      "as_at": "2026-11-13"
     }
   ]
 }

@@ -22,7 +22,7 @@
 
 **Tiers in use.** In the Universal Health Insurance governorates, the Authority said in August 2024, [its hospitals are fully computerised and its primary care units fully digitised](<https://eha.gov.eg/en/news/highlights-transformation/>). Referral from those units is electronic. CIPIT reported in June 2025 that [public hospitals run electronic health records](<https://aiconference.cipit.org/documents/the-state-of-ai-in-africa-report.pdf>).
 
-**Where data is digitised.** A Cairo University study of one Giza family health centre, observed to December 2019, found [patient records kept as paper family files](<https://meddocsonline.org/journal-of-community-medicine/a-model-for-computerization-and-implementation-of-electronic-health-records-in-primary-healthcare-in-egypt.html>). A clerk fetched each file for the physician.
+**Where data is digitised.** A Cairo University study of one Giza family health centre, observed to December 2019, found [patient records kept as paper family files](<https://meddocsonline.org/journal-of-community-medicine/a-model-for-computerization-and-implementation-of-electronic-health-records-in-primary-healthcare-in-egypt.html>). A clerk fetched each file for the physician. [On 9 November 2026 the Authority's chairman said a unified platform lets patients be treated in any governorate it covers](<https://cairoict.com/news/from-digital-records-to-home-grown-medical-ai>). It held about 6.2 million electronic health files.
 
 **Last twelve months.** In September 2026 the health minister [discussed a proposed "Egypt Smart Healthcare Platform" with MTS and Inspur](<https://www.dailynewsegypt.com/2026/09/14/egypt-plans-unified-digital-platform-to-link-patient-records-across-health-facilities/>). It would hold unified patient records shared between facilities, starting with a pilot.
 
@@ -30,4 +30,4 @@
 
 ***Also on file***. Trackers: [DHIS2, as part of the national health information system](<https://dhis2.org/egypt-launches-dhis2-in-health-information-system>). Enabling: the Egypt Healthcare Authority's [telemedicine and remote diagnosis](<https://eha.gov.eg/en/news/highlights-transformation/>) and the [telemedicine and telehealth solutions](<https://www.100millionseha.eg/download/1730977238.pdf>) planned in the National Health Strategy 2024-2030.
 
-***Not found***. No national share of primary clinics has been found; the July 2026 count covers six governorates. Nothing after 2019 shows where the record is entered, or that it can be retrieved at another facility.
+***Not found***. No national share of primary clinics has been found; the July 2026 count covers six governorates. The shared record of November 2026 covers only the insurance system's governorates.

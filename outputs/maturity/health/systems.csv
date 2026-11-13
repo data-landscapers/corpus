@@ -516,6 +516,7 @@ EGY,DHIS2 patient registry for Gaza referrals,Egypt,tracker,DHIS2,Ministry of He
 EGY,HIS,Health Information System (Egypt Healthcare Authority),emr,,Egypt Healthcare Authority,,2026-07-22-egy-265
 EGY,LIS,"Laboratory information system, 299 facilities",single-function,,Egypt Healthcare Authority,,2026-07-22-egy-265
 EGY,RIS/PACS,"Radiology information and archiving, 94 facilities",single-function,,Egypt Healthcare Authority,,2026-07-22-egy-265
+EGY,Unified digital platform (Health Care Authority),Egypt,emr,,Health Care Authority,,2026-11-10-egy-cairo-ict-digital-records-medical-ai-panel
 ERI,DHIS2,DHIS2,hmis,DHIS2,,"342 facilities including rural ones (2018), offline decentralised entry",2026-03-31 Africa we have a data problem
 ERI,DHIS2 tracker program,tracker program,tracker,DHIS2,,not stated; implementation described as unclear,2026-03-31 Africa we have a data problem
 ERI,national electronic reporting system (USSD-based),national electronic reporting system,single-function,USSD over mobile networks,Ministry of Health and Ministry of Agriculture,"not stated; recommended for development and deployment, not yet in use (August 2025)",2025-08-16-who-jee-eritrea-mission-report-2025
@@ -718,6 +719,7 @@ GMB,HMIS (DHIS2),Health Management Information System (HMIS),hmis,DHIS2,Ministry
 GMB,Electronic Logistics Management Information System (eLMIS),eLMIS,single-function,,Government with the Global Fund,"pilot in 50 facilities, expected to cover all health facilities by July 2023",2023-07-01-gmb-the-primary-health-care-system-of-the-gambia-a-primary-health-care-per
 GMB,Integrated Disease Surveillance and Response (IDSR),IDSR,single-function,,Ministry of Health,electronic system not interoperable with DHIS2; facility-level data collection needs further digitalisation,2023-07-01-gmb-the-primary-health-care-system-of-the-gambia-a-primary-health-care-per
 GMB,Health Management Information System (DHIS2),HMIS,hmis,DHIS2 (District Health Information System version 2),"HMIS Unit, Directorate of Planning and Information, Ministry of Health","data reported from hospitals, district hospitals, major and minor health centres, community clinics and health posts, NGO and private facilities and the village health service",2022-07-01-gmb-service-statistics-report-2021
+GMB,DHIS2 national health information system,National health information system (DHIS2),hmis,DHIS2,,,2026-09-02-gmb-the-gambia-launches-education-data-center-to-publicly-share-education-data
 GNB,DHIS2,national health management information system (HMIS),hmis,DHIS2,Ministry of Health; technical support Saudigitus (HISP Mozambique),"not stated; national, in use since 2013",2026-08-03-dhis2-guinea-bissau-climate-health-country-profile
 GNB,DHIS2 disease surveillance,,single-function,DHIS2,Ministry of Health,not stated,2026-08-03-dhis2-guinea-bissau-climate-health-country-profile
 GNB,DHIS2 ITN campaign planning and management,,single-function,DHIS2,Ministry of Health; National Malaria Control Programme,not stated,2026-08-03-dhis2-guinea-bissau-climate-health-country-profile

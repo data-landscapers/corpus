@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-egy-cairo-ict-digital-records-medical-ai-panel",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "digitised",
+   "value": "shared",
+   "fact": "Health Care Authority chairman Ahmed El Sobky said on 9 November 2026 that a unified digital platform lets patients be treated in any governorate the system covers, with about 6.2 million electronic health files and hospital automation above 85%.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Unified digital platform (Health Care Authority)",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified digital platform (Health Care Authority)",
+   "country_label": "Egypt",
+   "class": "emr",
+   "platform": "",
+   "owner": "Health Care Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
