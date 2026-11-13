@@ -3,9 +3,9 @@ title: Zambia — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: ZMB
-ledger_rows: 28
+ledger_rows: 29
 not_held: 32
-record: 45c08f07cb3c
+record: ebfea58f6a83
 ---
 
 # News, Oct – Nov 2026
@@ -38,6 +38,8 @@ record: 45c08f07cb3c
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
@@ -107,6 +109,22 @@ COMESA announced on 30 October 2026 a regional meeting in Chongwe, Zambia, from 
 **[Zambia: First Regional Validation Workshop on Digital Inclusion](https://www.africa-newsroom.com/press/zambia-first-regional-validation-workshop-on-digital-inclusion?lang=en)** — Africa Newsroom (Ministry of Technology and Science, Zambia), 4 November 2026
 
 Zambia, COMESA and the World Bank held the first regional validation workshop of the IDEA programme in Chongwe on 3-5 November 2026. Member states reviewed a draft regional digital inclusion strategy and action plan; validation is not reported. Zambia put its fibre backbone at over 42,000 km, against about 15,000 km in 2021.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT (Type Approval) Guidelines</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Public Notice: Draft Revised Type Approval Guidelines for Electronic Communications Equipment](https://ib-lenhardt.com/media/pages/news/consultation-on-draft-revised-type-approval-guidelines/3220b471e8-1792662126/public-notice-draft-revised-type-approval-guidelines_20102026.pdf)** — Zambia Information and Communications Technology Authority, 21 October 2026
+
+ZICTA consults to 20 November 2026 on risk-based type-approval guidelines replacing the 2022 set.
 
 </div>
 
