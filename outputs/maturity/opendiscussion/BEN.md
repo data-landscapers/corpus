@@ -2,7 +2,7 @@
 
 ## Freedom to discuss policy online and in the press
 
-**Public criticism of government policy.** On 3 November 2026 [the media professionals' union UPMB and Amnesty International Bénin called for a review of articles 550 and following of the Code du numérique](<https://quotidienlexpress.bj/2026/11/04/code-du-numerique-lupmb-et-amnesty-international-benin-plaident-pour-une-relecture-des-textes/>). They cited what the articles mean for journalists, bloggers and citizens.
+**Public criticism of government policy.** On 3 November 2026 [the media professionals' union UPMB and Amnesty International Bénin called for a review of articles 550 and following of the Code du numérique](<https://quotidienlexpress.bj/2026/11/04/code-du-numerique-lupmb-et-amnesty-international-benin-plaident-pour-une-relecture-des-textes/>). They cited what the articles mean for journalists, bloggers and citizens. [At an Assembly workshop in November 2024, an opposition deputy and Internet Sans Frontières criticised Article 550 of the code](<https://assemblee-nationale.bj/index.php/2024/11/07/atelier-parlementaire-organise-avec-long-internet-sans-frontiere-les-deputes-de-la-9eme-legislature-mieux-outilles-en-vue-dune-relecture-du-code-du-numerique/>).
 
 **Cuts and blocks, and a bar on them.** No cut to internet access or block on a platform in Benin has been found. No bar against one has been found either. The nearest fact found is [the authorisation of 89 online media outlets by the Haute autorité de l'audiovisuel et de la communication](<https://www.lanation.bj/actualites/regulation-des-medias-en-ligne-89-organes-autorises-par-la-haac>).
 
