@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-11-bdi-saudi-support-digital-id-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National data centre (PAFEN)",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Burundi",
+   "tiers": ""
+  }
+ ],
+ "note": "The national data centre is a planned project with a 2028 completion target; none in service for hire is stated."
+}

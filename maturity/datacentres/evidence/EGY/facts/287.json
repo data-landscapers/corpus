@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-12-egy-hyperscalers-want-clear-rules-data-centers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Atlas AI data center (INCOME)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "INCOME Group",
+   "tiers": ""
+  }
+ ],
+ "note": "Capacity of 15 to 60 MW and licensing by NTRA are stated, but no facility is said to rent to others in service, and no Tier or cloud region."
+}

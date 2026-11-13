@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-12-botswana-positions-data-as-diamonds",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Orange Botswana tier three facility, Gaborone",
+   "country_label": "Botswana",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange Botswana",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "The Orange facility is named with a $5.2 million cost but not stated in service or for hire."
+}

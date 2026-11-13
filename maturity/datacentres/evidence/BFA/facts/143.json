@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-11-bfa-registre-identifiant-unique-lefaso",
+ "facts": [],
+ "systems": [
+  {
+   "system": "State data centres",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": "State data centres host the ID platform; none is said to rent to others."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-10-ago-itu-pp26-policy-statement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Unified Government Cloud",
+   "country_label": "Angola National Cloud",
+   "class": "other",
+   "platform": "government data centres",
+   "owner": "Government of Angola",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centres behind the National Cloud are not said to rent capacity to others."
+}

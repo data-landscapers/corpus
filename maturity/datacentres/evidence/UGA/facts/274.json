@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-12-workonline-extends-into-uganda-raxio-kampala",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Workonline and Raxio describe Raxio's UG1 in Kampala as a Tier III, carrier-neutral data centre hosting 25 carriers and ISPs.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Raxio UG1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Raxio UG1 in Kampala is a carrier-neutral facility open to competing network providers, hosting 25 carriers, ISPs and the UIXP, per Workonline.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Raxio UG1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio UG1 (Kampala)",
+   "country_label": "Raxio UG1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

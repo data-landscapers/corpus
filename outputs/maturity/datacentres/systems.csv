@@ -60,6 +60,7 @@ AGO,national data center and government cloud,national data center and governmen
 AGO,Cloud Nacional,Cloud Nacional,other,unified government cloud on government data centres,Government of Angola,,2026-11-10-ago-angola-apresenta-a-uit-projectos-de-fibra-optica-satelite-e
 AGO,Government's Data Center and Cloud,Angola,other,,Government,,2026-04-28-ago-new-government-data-center-reinforces-the-country-s-digital-sovereignt
 AGO,Data Center e Cloud Nacional do Governo de Angola,Angola,datacentre,"208 racks, 13,000 vCPU, Camama, Luanda",Government of Angola (MINTTICS),,2026-04-27-ago-data-center-e-cloud-nacional-acelera-transformacao-digital-de-angola
+AGO,Unified Government Cloud,Angola National Cloud,other,government data centres,Government of Angola,,2026-11-10-ago-itu-pp26-policy-statement
 BDI,ADB data center (server room),data center de l'ADB,other,,Agence de Développement du Burundi,,2026-02-18-adb-appel-offres-racks-data-center-stabilisateurs-projecteurs
 BDI,BBS national data center,national data center,datacentre,,Burundi Backbone System (BBS),level-3 (not stated as Uptime or TIA-942),2020-01-01-world-bank-burundi-digital-economy-assessment
 BDI,Burundi IXP,Burundi Internet Exchange Point,other,,BBS,,2020-01-01-world-bank-burundi-digital-economy-assessment
@@ -67,6 +68,7 @@ BDI,OBR data center,,other,,Burundi Revenue Authority (OBR),,2020-01-01-world-ba
 BDI,Central Bank data center,,other,,Central Bank of Burundi,,2020-01-01-world-bank-burundi-digital-economy-assessment
 BDI,Presidency data center,,other,,Presidency,,2020-01-01-world-bank-burundi-digital-economy-assessment
 BDI,Ministry of Health data center (PNDIS II plan),,other,,Ministry of Health,,2020-01-01-world-bank-burundi-digital-economy-assessment
+BDI,National data centre (PAFEN),Burundi,other,,Government of Burundi,,2026-11-11-bdi-saudi-support-digital-id-data-centre
 BEN,"National data centre, Abomey-Calavi",Benin national data center,other,,SBIM (state-owned),,2026-03-27-benin-secondary-national-data-center
 BEN,Alink Telecom data centre,,other,,Alink Telecom,,2026-03-27-benin-secondary-national-data-center
 BEN,MTN Data Center,MTN Data Center,datacentre,,MTN Bénin,,2023-09-27-data-center-mtn-benin
@@ -118,6 +120,7 @@ BFA,IKA Cloud,IKA Cloud,datacentre,,IKA Solution LTD,,2026-07-31-burkina-souvera
 BFA,Orange Burkina Faso data centre,data center majeur au Burkina Faso,other,,Orange,,2025-04-15-orange-ci-rapport-annuel-integre-2024
 BFA,"Two modular government data centres (3,000 TB, sites about 100 km apart)",Burkina Faso,other,,ANPTIC / State,state use; not stated for hire,2026-01-23-bfa-souverainete-numerique-le-burkina-faso-inaugure-deux-data-center-de-3
 BFA,PARGFM land datacenter,Burkina Faso,other,,"Government (land services, World Bank project)",,2025-05-26-bfa-burkina-gestion-du-foncier-le-coordonnateur-du-projet-d-appui-au-renfo
+BFA,State data centres,Burkina Faso,other,,State,,2026-11-11-bfa-registre-identifiant-unique-lefaso
 BWA,Kala Data Centre,Kala Data Centre,other,,Kala Data FZCO (equipment); Tlou Energy supplies gas,,2026-10-05-itweb-tlou-kala-data-centre-expansion
 BWA,Kala Data Centre,Kala Data Centre,other,,Kala Data FZCO (equipment); Tlou Energy supplies gas,,2026-08-03-itweb-tlou-energy-kala-data-centre-botswana
 BWA,Palapye solar data centre campus (ChillMine/AAAS Energy),,other,,ChillMine; AAAS Energy,,2025-10-06-dutch-us-firms-solar-powered-data-centre-palapye
@@ -153,6 +156,7 @@ BWA,Lesedi high-density computational facility,Botswana,other,,Kala Data FZCO wi
 BWA,Digital Delta Data Centre,Digital Delta Data Centre,datacentre,,BoFiNet,internationally accredited (stated by the minister),2024-03-14-bwa-more-funds-for-ict-infrastructure-segokgo
 BWA,Orange Botswana data centre,Botswana,datacentre,,Orange Botswana,Tier III,2026-11-04-bwa-huawei-orange-partner-to-accelerate-digital-transformation
 BWA,Digital Delta Data Centre,Botswana,datacentre,,Botswana Fibre Networks (BoFiNet),Tier III,2025-10-01-bwa-bofinet-s-digital-delta-data-centre-achieves-tier-iii-certification-fr
+BWA,"Orange Botswana tier three facility, Gaborone",Botswana,datacentre,,Orange Botswana,Tier III,2026-11-12-botswana-positions-data-as-diamonds
 CAF,ECCAS regional data centre project,,other,,ECCAS,,2026-08-25-pida-eccas-data-centre-infrastructures-digital-economy
 CAF,National Tier III data centre (Huawei),centre de données national,other,Huawei,State,state,2026-06-03-huawei-egovernance-partnership-four-axes-mbetimedia
 CAF,National Tier III data centre (Huawei),centre de données national,other,Huawei,State,state,2026-05-27-huawei-tier-iii-data-centre-egov-modernisation-agenceecofin
@@ -666,6 +670,7 @@ EGY,Benya-Khazna Maadi data centre,Egypt,other,,Benya and Khazna,,2026-10-26-egy
 EGY,Raya Data Center Services,Egypt,datacentre,,Raya Holding (via Raya Systems),,2026-10-27-egy-raya-ventures-venture-capital-arm-pidima-data-centre
 EGY,three government-owned data centres,Egypt,datacentre,,government,,2025-10-21-egy-egypt-to-establish-three-state-owned-data-centres-to-advance-digital-t
 EGY,P1 data and computing centre,Egypt,other,,Armed Forces Signal Department,,2026-11-08-egy-council-of-state-expands-e-litigation-pilot
+EGY,Atlas AI data center (INCOME),Egypt,other,,INCOME Group,,2026-11-12-egy-hyperscalers-want-clear-rules-data-centers
 ERI,National Statistics Office data centre,National Statistics Office data centre,other,,Eritrea National Statistics Office,,2016-07-04-afdb-eri-001-eritrea-pfm-statistics-capacity-building
 ERI,Eritel Datacenters,Eritel's Datacenters,datacentre,,Eritel Telecom Corporation,,2026-08-31-eritel-private-cloud-services
 ERI,Eritel Nextcloud,Eritel Private Cloud Services,other,Nextcloud,Eritel Telecom Corporation,Platinum; Gold; Silver,2026-08-31-eritel-private-cloud-services
@@ -2014,6 +2019,7 @@ UGA,New data centre presented at NBI Phase V launch,Uganda,other,,NITA-U,,2024-1
 UGA,National Data Centre,Uganda,other,,Government,,2024-11-01-uga-manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penet
 UGA,"National Data Centre, Statistics House, Kampala",Uganda,other,,Government of Uganda (NITA-U),,2024-10-28-uga-dubai-firm-takes-digital-deal-from-nita-u-s-jaws
 UGA,"NITA-U central data centre, Statistics House",Statistics House data centre,other,,NITA-U,,2024-11-04-uga-police-probe-nita-over-shs700b-internet-project
+UGA,Raxio UG1 (Kampala),Raxio UG1,datacentre,,Raxio Group,Tier III,2026-11-12-workonline-extends-into-uganda-raxio-kampala
 ZAF,"Equinix King Air Industria, Cape Town",ZAF,other,,Equinix,,2026-10-12-zaf-dailymaverick-foxglove-cape-town-data-centre-appeal
 ZAF,Continent 8 Johannesburg data center,ZAF,datacentre,,Continent 8 Technologies,,2026-10-05-dcd-continent-8-johannesburg-data-center
 ZAF,"Equinix King Air Industria, Cape Town",ZAF,other,,Equinix,,2026-09-17-zaf-techcentral-cape-town-data-centre-planning-rules-equinix
