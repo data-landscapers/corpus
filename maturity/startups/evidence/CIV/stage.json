@@ -1,17 +1,18 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "startuppolicy",
-   "stage": "4",
-   "law": "adopted",
-   "labelled": "labelled",
-   "funded": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-002",
-   "gaps": "No source found since October 2023 says a public fund under the startup law or strategy has financed startups.",
-   "note": "First pass: counted from the four questions by study-ladder-startups.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "startuppolicy",
+      "stage": "4",
+      "law": "adopted",
+      "labelled": "labelled",
+      "funded": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-006;CIV-002",
+      "gaps": "No source found since October 2023 says a public fund under the startup law or strategy has financed startups.",
+      "note": "Rebuild 2026-11-13: Law 2023-901 of November 2023 is the Startup Act, and in November 2026 the state named 14 startups for support under it (CIV-006); no public fund is shown financing startups under it, so 4 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

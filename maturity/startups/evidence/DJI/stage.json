@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "startuppolicy",
-      "stage": "4",
+      "stage": "3",
       "law": "adopted",
-      "labelled": "labelled",
+      "labelled": "",
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DJI-005",
-      "gaps": "No source found since October 2023 says a public fund under the startup law or strategy has financed startups.",
-      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "DJI-004;DJI-003",
+      "gaps": "No source found since October 2023 says startups are labelled or registered under a startup law or strategy.",
+      "note": "Rebuild 2026-11-13: The Startup Act is listed as in force in 2026 (DJI-003, DJI-004), but the founders' guide says only that a firm can apply for the label, not that any startup holds it; stage 4 needs startups labelled, so 4 to 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

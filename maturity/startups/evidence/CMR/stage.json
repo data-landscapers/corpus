@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CMR-003",
       "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: The startup law has been in preparation since 2021 (CMR-003, November 2023); the October 2023 tax-code reading falls outside the three years, so 2 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

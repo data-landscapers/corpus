@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BFA-001;BFA-002",
       "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: AFP-PME's draft startup bill was validated in July 2025 (BFA-001, BFA-002) and is not shown adopted, so 2 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

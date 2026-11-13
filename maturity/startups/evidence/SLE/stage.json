@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "startuppolicy",
-   "stage": "2",
-   "law": "draft",
-   "labelled": "",
-   "funded": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-001",
-   "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-   "note": "First pass: counted from the four questions by study-ladder-startups.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "startuppolicy",
+      "stage": "2",
+      "law": "draft",
+      "labelled": "",
+      "funded": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-001",
+      "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
+      "note": "Rebuild 2026-11-13: Invest Salone said in November 2025 the Startup Act is in development (SLE-001), so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

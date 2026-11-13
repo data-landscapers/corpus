@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "ZWE-001",
       "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: Cabinet adopted the principles of the start-up bill in September 2024 (ZWE-001); the Universal Service Fund grants are not under a startup law, so 2 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

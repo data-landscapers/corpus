@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "startuppolicy",
-   "stage": "3",
-   "law": "adopted",
-   "labelled": "",
-   "funded": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001",
-   "gaps": "No source found since October 2023 says startups are labelled or registered under a startup law or strategy.",
-   "note": "First pass: counted from the four questions by study-ladder-startups.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "startuppolicy",
+      "stage": "3",
+      "law": "adopted",
+      "labelled": "",
+      "funded": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001",
+      "gaps": "No source found since October 2023 says startups are labelled or registered under a startup law or strategy.",
+      "note": "Rebuild 2026-11-13: Ordonnance-loi 22/030 of 2022 and the Digital Code's article 384 are adopted (COD-001); its tax measures are still being put into decrees, so no startup is shown labelled and 3 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "COG",
- "cells": [
-  {
-   "sub_indicator": "startuppolicy",
-   "stage": "3",
-   "law": "adopted",
-   "labelled": "",
-   "funded": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COG-001",
-   "gaps": "No source found since October 2023 says startups are labelled or registered under a startup law or strategy.",
-   "note": "First pass: counted from the four questions by study-ladder-startups.py."
-  }
- ]
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "startuppolicy",
+      "stage": "3",
+      "law": "adopted",
+      "labelled": "",
+      "funded": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COG-001",
+      "gaps": "No source found since October 2023 says startups are labelled or registered under a startup law or strategy.",
+      "note": "Rebuild 2026-11-13: Law 71-2022 on the startup label stands and its labelling commission decree was adopted in July 2025 (COG-001); no startup is shown labelled, so 3 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

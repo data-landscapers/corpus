@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CAF-001",
       "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: The finance minister said in July 2024 the state is perfecting the startup legal framework (CAF-001); nothing adopted is shown, so 2 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

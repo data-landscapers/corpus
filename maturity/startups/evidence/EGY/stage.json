@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "EGY-002",
       "gaps": "No source found since October 2023 says a public fund under the startup law or strategy has financed startups.",
-      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: The Startup Charter of February 2026 is adopted and startups hold its label (EGY-002, EGY-007). Egypt Ventures and the MSMEDA fund of funds predate the charter and are not set up under it, so 4 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

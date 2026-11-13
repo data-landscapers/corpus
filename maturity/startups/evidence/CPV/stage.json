@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CPV-001",
       "gaps": "No source found since October 2023 says startups are labelled or registered under a startup law or strategy.",
-      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
-      "as_at": "2026-11-09"
+      "note": "Rebuild 2026-11-13: The secretary of state said in May 2025 that a startup law with tax benefits exists (CPV-001); state funding of startups is not tied to that law and no labelling is shown, so 3 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

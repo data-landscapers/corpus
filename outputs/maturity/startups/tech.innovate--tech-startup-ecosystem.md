@@ -1,6 +1,6 @@
 # Tech startup ecosystem: startup law and funding
 
-*As at 2026-09-30.*
+*As at 2026-11-13.*
 
 ## The norm
 
@@ -21,11 +21,11 @@ The Digital Transformation Strategy and the AU Startup Model Law Framework ask f
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 8 |
+| 4 Operating | 7 |
 | 3 Established | 9 |
 | 2 Nascent | 17 |
 | 1 Absent | 2 |
-| Unplaced | 2 |
+| Unplaced | 3 |
 | No evidence | 16 |
 
 ## Countries
@@ -48,13 +48,8 @@ A 2023 decree sets a startup label with tax exemptions and fifteen firms were la
 
 Startups were labelled under the startup law or strategy in 2025; no source found reports a public fund under it.
 
+- On 4 November 2026 the government named 14 start-ups under Ivoire Tech Next 15 and 18 SMEs under Ivoire Tech Scale Up for 24 months of state support, as a step in implementing the Startup Act ([source, 2026-11-04](https://www.aip.ci/cote-divoire-aip-le-ministre-djibril-ouattara-annonce-24-mois-daccompagnement-de-letat-pour-32-entreprises-du-secteur-du-numerique/)).
 - Diallo says a 'levelisation' process grants certified startups access to public markets ([source, 2025-07-01](https://techcabal.com/2025/07/01/cote-divoire-cyber-africa-forum/)).
-
-### Djibouti: 4 Operating
-
-Startups were labelled under the startup law or strategy in 2026; no source found reports a public fund under it.
-
-- The guide says an innovative, high-growth firm can apply for the Startup label to obtain reinforced tax and social advantages ([source, 2026-01](https://entreprendre.dj/portals/g2b/guide)).
 
 ### Egypt: 4 Operating
 
@@ -107,6 +102,13 @@ A startup law or strategy was adopted by 2026; startups labelled under it are no
 
 - Article 384 of the Congolese Digital Code makes digital start-ups with entrepreneur status eligible for the tax, para-fiscal, customs and exchange advantages of the legislation on entrepreneurship and start-ups, per We are Tech ([source, 2026-08-06](https://www.wearetech.africa/fr/fils/actualites/tech/la-rdc-confirme-les-nouvelles-taxes-numeriques-mais-exonere-les-start-up)).
 
+### Djibouti: 3 Established
+
+Djibouti's Startup Act, presented to parliament in 2025, is listed as in force in 2026; no startup holding its label has been found.
+
+- La Nation, citing the UNESCO-backed readiness report, lists the Start-Up Act among Djibouti's existing foundations ([source, 2026-09-06](https://www.lanation.dj/premier-forum-national-sur-lintelligence-artificielle-djibouti-devoile-sa-strategie-nationale-2026-2030/)).
+- Dr Houssein Ahmed Assoweh lists the Startup Act among the texts Djibouti already has, and the roadmap recommends adapting its mechanisms to AI-using firms ([source, 2026-09-01](https://www.adi.dj/article/138857)).
+
 ### Ethiopia: 3 Established
 
 A startup law was passed in 2025; startups labelled under it are not on record.
@@ -124,21 +126,15 @@ A startup law or strategy was adopted by 2025; startups labelled under it are no
 
 A startup law or strategy was adopted by 2024; startups labelled under it are not on record.
 
+- Tawassoul reports the Mauritanian digital ministry is speeding publication of the legal framework completing the existing start-up law ([source, 2025-11-25](https://fr.tawassoul.net/mauritanie-ue-reunion-pour-evaluer-le-niveau-de-cooperation-numerique-bilaterale/)).
 - Webmanagercenter states Mauritania has Law No. 2024-002 on technological and innovative startups ([source, 2024](https://www.webmanagercenter.com/2026/09/25/573435/mauritanie-fintech-la-mauritanie-peut-elle-devenir-un-laboratoire-numerique-regional/)).
-- The digital ministry's page lists Loi n° 2024-002 P.R on technological and innovative startups, dated 2 January 2024 ([source, 2024-01-02](https://mtnima.gov.mr/fr/loi-de-startup/)).
-
-### Sao Tome and Principe: 3 Established
-
-A startup law or strategy was adopted by 2024; startups labelled under it are not on record.
-
-- Resolution No. 39/2024 approves the National Strategy for Entrepreneurship in Sao Tome and Principe, 2024-2030, covering regulation, skills, innovation and access to finance ([source, 2024-12-05](https://www.informea.org/en/content/legislation/resolution-no-392024-approving-national-strategy-entrepreneurship-sao-tome-and)).
 
 ### Senegal: 3 Established
 
 A startup law or strategy was adopted by 2025; startups labelled under it are not on record.
 
-- APS reports the startup law was adopted 'in January last', granting three years of tax exemption and easing access to finance and public procurement, with its implementing decree and the Ecosysteme Startup platform launched on 20 November 2025 ([source, 2025-01](https://aps.sn/ecosysteme-startup-un-nouveau-dispositif-pour-accompagner-linnovation/)).
-- Senegal's government adopted the implementing decree for Startup Law No. 2020-01 of 6 January 2020, setting criteria (one-third Senegalese capital) and incentives ([source, 2025-01-29](https://www.wearetech.africa/en/fils-uk/news/tech/senegals-startup-law-advances-into-implementation-phase)).
+- Prime Minister Ousmane Sonko highlighted the implementation of the Startup Act and support measures for tech entrepreneurs ([source, 2026-03-24](https://aps.sn/ousmane-sonko-prone-une-coordination-renforcee-pour-reussir-la-transformation-digitale-de-letat/)).
+- President Faye's speech commits to updating and operationalising Senegal's existing Startup Act, including labelling and an incentive framework ([source, 2025-02-24](https://www.presidence.sn/en/actualites/new-deal-technologique-a-national-ambition-to-make-senegal-a-leader-in-the-digital-economy-in-africa-1/)).
 
 ### Burkina Faso: 2 Nascent
 
@@ -176,6 +172,7 @@ A startup law or strategy was being prepared in 2026; none adopted is on record.
 A startup law or strategy was being prepared in 2026; none adopted is on record.
 
 - Ghana's Communication minister Samuel Nartey George said the government's forthcoming Innovation and Startup legislative framework will set eligibility criteria for startups and give a legal foundation to a planned national fintech fund ([source, 2026-07-07](https://techafricanews.com/2026/07/07/ghana-and-undp-strengthen-partnership-on-digital-transformation-projects/)).
+- The Labari Journal lists the Ghana Innovation and Startup Bill among 15 ICT-related bills to be laid before or being considered by Ghana's Parliament, with no confirmation they will pass ([source, 2026-05-21](https://labarijournal.com/ghana-is-considering-passing-a-host-of-new-ict-related-laws-an-analyst-says-they-would-hamper-africa-digital-trade/)).
 
 ### Guinea: 2 Nascent
 
@@ -216,10 +213,10 @@ A startup law or strategy was being prepared in 2025; none adopted is on record.
 
 ### Tanzania: 2 Nascent
 
-A startup law or strategy was being prepared in 2026; none adopted is on record.
+Tanzania began drafting a national startup policy in 2024 and consulted on it in 2025; no adopted startup law or strategy has been found.
 
-- Zanzibar's communication minister Mudrik Ramadhan Soraga said the draft startups bill is complete and due for first reading in November or December 2026, to create a startup fund of grants and low-cost loans ([source, 2026-10-02](https://www.mwananchi.co.tz/mw/zanzibar/habari/smz-yatenga-sh53-bilioni-kuendesha-miradi-ya-tehama-5618282)).
 - The government has begun formulating Tanzania's first national startup policy through a consultative process and baseline study, The Citizen reports ([source, 2025-03-15](https://www.thecitizen.co.tz/tanzania/news/national/government-kicks-off-consultations-for-tanzania-s-first-startup-policy-4966048)).
+- The Tanzania Startup Association reports that in 2024 Tanzania advanced preparations for its first National Startup Policy, coordinated by the Ministry of Communications and Information Technology, with the drafting phase under way and consultations still to begin ([source, 2024](https://tsa.co.tz/storage/documents/w9Fsk1RQDCUKtfNiUXxOGijbCajKBHeuB8SNKwxx.pdf)).
 
 ### Togo: 2 Nascent
 
@@ -263,6 +260,12 @@ A 2023 source says no startup law, strategy or public support exists.
 A public innovation fund financed a startup in 2025, but no startup law or strategy since October 2023 is known, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.
+
+### Sao Tome and Principe: Unplaced
+
+Sao Tome and Principe adopted an entrepreneurship strategy for 2024-2030 in 2024; no startup law or strategy has been found, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted; the 2024-2030 entrepreneurship strategy names no startup measure.
 
 ### South Africa: Unplaced
 

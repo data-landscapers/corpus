@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "startuppolicy",
-   "stage": "2",
-   "law": "draft",
-   "labelled": "",
-   "funded": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-001",
-   "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-   "note": "First pass: counted from the four questions by study-ladder-startups.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "startuppolicy",
+      "stage": "2",
+      "law": "draft",
+      "labelled": "",
+      "funded": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-001",
+      "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
+      "note": "Rebuild 2026-11-13: The Council of Ministers approved the startup bill in 2023 and it awaits ratification (TGO-001), so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

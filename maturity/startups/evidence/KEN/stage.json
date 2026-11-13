@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "KEN-001;KEN-002",
       "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: The Start-up Bill 2024 is posted and the bill missed its April 2024 enactment target (KEN-001, KEN-002), so 2 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

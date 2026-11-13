@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "startuppolicy",
-   "stage": "2",
-   "law": "draft",
-   "labelled": "",
-   "funded": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-001;UGA-002",
-   "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-   "note": "First pass: counted from the four questions by study-ladder-startups.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "startuppolicy",
+      "stage": "2",
+      "law": "draft",
+      "labelled": "",
+      "funded": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001;UGA-002",
+      "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
+      "note": "Rebuild 2026-11-13: Stakeholders named advancing the Startup Bill a priority in August 2026 (UGA-001); nothing adopted is shown, so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

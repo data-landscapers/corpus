@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says a public fund under the startup law or strategy has financed startups.
+***Not found***. No source found since October 2023 says any startup holds the label. None says a public fund under the act has financed startups.

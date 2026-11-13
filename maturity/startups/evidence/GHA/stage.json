@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "startuppolicy",
-   "stage": "2",
-   "law": "draft",
-   "labelled": "",
-   "funded": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-001",
-   "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-   "note": "First pass: counted from the four questions by study-ladder-startups.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "startuppolicy",
+      "stage": "2",
+      "law": "draft",
+      "labelled": "",
+      "funded": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-001;GHA-002",
+      "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
+      "note": "Rebuild 2026-11-13: The Innovation and Startup Bill is listed for Parliament in May 2026 and the minister called it forthcoming in July 2026 (GHA-001, GHA-002), so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

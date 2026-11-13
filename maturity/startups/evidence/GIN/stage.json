@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "startuppolicy",
-   "stage": "2",
-   "law": "draft",
-   "labelled": "",
-   "funded": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-001",
-   "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-   "note": "First pass: counted from the four questions by study-ladder-startups.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "startuppolicy",
+      "stage": "2",
+      "law": "draft",
+      "labelled": "",
+      "funded": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-001",
+      "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
+      "note": "Rebuild 2026-11-13: The draft startup law was reviewed in April 2025 (GIN-001) and a founder said in August 2026 no Startup Act exists (GIN-002); a draft without an act is stage 2.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

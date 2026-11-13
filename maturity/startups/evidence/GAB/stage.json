@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GAB-001",
       "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: The minister announced in May 2026 that the Start-up Act is being finalised (GAB-001); nothing adopted is shown, so 2 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }
