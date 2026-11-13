@@ -39,7 +39,7 @@ def stage(study: dict, rows: list[dict], as_at: dt.date, gaps: dict, empty: str,
                   key=lambda p: p[0], reverse=True)
 
     def pick(aspect: str, token: str) -> list[str]:
-        return [r["row_id"] for d, r in live if d >= three and r["aspect"] == aspect
+        return [r["row_id"] for d, r in live if (d >= three or r.get("carried")) and r["aspect"] == aspect
                 and token in {t.strip() for t in r["value"].split(";")}]
     inservice, underway, none = pick("registry", "inservice"), pick("registry", "underway"), pick("registry", "none")
     several, linked, paid = pick("programmes", "several"), pick("linked", "linked"), pick("linked", "paid")

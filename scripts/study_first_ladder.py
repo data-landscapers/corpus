@@ -22,8 +22,8 @@ the last question answered in an unbroken run from question 1. `inservice` still
 `underway`: they are one aspect. A study whose higher yes truly implies a lower one sets
 `"later_yes": true`, and then **`"must_show": [n, ...]`** lists the questions a later yes still
 does not answer; the stage's sources are that question's own rows, else the later yes that
-answered it. Stage 1 is the first aspect at `none` with no other yes. Every window is three years; a fact dated after the as-at
-sets nothing, and a year or a month stands for its last day. `corrections.csv` (`removed`, or `revalued: aspect:value`)
+answered it. Stage 1 is the first aspect at `none` with no other yes. Every window is three years, except for the rows the held cell cites (`carried`); a fact dated after the as-at
+sets nothing, and a year or a month stands for its last day; a row of class `other` answers nothing. `corrections.csv` (`removed`, or `revalued: aspect:value`)
 is applied to `evidence.csv` first, once, as `study-ladder-opendatause.py` does. Writes each
 `stage.json` and `ladder-test.csv`.
 
@@ -94,6 +94,15 @@ def held(study: dict, r: dict, as_at: dt.date) -> bool:
     return False
 
 
+def carried(rows: list[dict], cell: dict | None) -> list[dict]:
+    """Marks the rows the held cell stands on, which count however old: **age does not expire a
+    stage** *(Bill; MATURITY-UPDATE.md, reassessment rule 3)*. A ladder lowers no cell because its
+    window closed; a reader who lowers one by judgement cites other rows (housekeeping 70: BFA's
+    tax register rests on an October 2023 FAQ)."""
+    ids = {x for x in ((cell or {}).get("stage_sources") or "").split(";") if x}
+    return [{**r, "carried": True} if r["row_id"] in ids else r for r in rows]
+
+
 def keys(study: dict) -> tuple[str, str, str, str, str]:
     """`(first, second, third, second's value, third's value)` from `study.json`."""
     a1, a2, a3 = study["aspects"]
@@ -109,11 +118,13 @@ def firsts(study: dict) -> tuple[str, str, str]:
 def stage(study: dict, rows: list[dict], as_at: dt.date, gaps: dict, empty: str, unplaced: str) -> dict:
     k1, k2, k3, v2, v3 = keys(study)
     top, mid, low = firsts(study)
-    live = [(seen(study, r), r) for r in rows if r.get("as_of") and held(study, r, as_at)]
+    # A row `classed other` in corrections.csv is outside the study and answers nothing (housekeeping 70).
+    live = [(seen(study, r), r) for r in rows
+            if r.get("as_of") and r.get("class") != "other" and held(study, r, as_at)]
     live.sort(key=lambda p: p[0], reverse=True)
     three = study_lib.months_back(as_at, 36)
     pick = lambda aspect, value: [  # noqa: E731
-        r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] == value and d >= three]
+        r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] == value and (d >= three or r.get("carried"))]
     if not rows:
         return {"stage": "no evidence", "sources": [], "gaps": empty}
     p3 = pick(k1, top)
@@ -169,7 +180,9 @@ def run(study_id: str, sub: str, gaps: dict, empty: str, unplaced: str, argv=Non
         rows, changed = correct(study_lib.read_csv(path), [f for f in fixes if f["iso3"] == iso])
         if changed and not a.dry:
             study_lib.write_csv(path, study_lib.EVIDENCE_FIELDS, rows)
-        cell = (stager or stage)(study, rows, study_lib.counted_at(os.path.join(base, iso, "stage.json"), as_at, sub), gaps, empty, unplaced)
+        sp = os.path.join(base, iso, "stage.json")
+        cell = (stager or stage)(study, carried(rows, study_lib.held_cells(sp).get(sub)),
+                                 study_lib.counted_at(sp, as_at, sub), gaps, empty, unplaced)
         s = cell["stage"]
         count[s] = count.get(s, 0) + 1
         line = {"sub_indicator": sub, "stage": s,

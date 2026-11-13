@@ -9,10 +9,10 @@
       "enforced": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-001",
+      "stage_sources": "SEN-004;SEN-001",
       "gaps": "No source found since October 2023 reports a fine, sanction, licence withdrawal or complaint figures for digital financial services.",
-      "note": "The OQSF mediates financial-service disputes; its 2025 count covers banking, microfinance and insurance, so stage 4. Complaint figures across all financial services do not answer question 4, which is digital only (Bill, 2026-10-25).",
-      "as_at": "2026-10-25"
+      "note": "Housekeeping 70: the cell held stage 4 with no rule in force on file, which the ladder needs (message 114). The regional central bank's fee cap on PI-SPI transfers, in force in Senegal from 2 November 2026 to protect consumers, is that rule, and the OQSF mediates financial-service disputes, so stage 4. Its 2025 complaint count covers all financial services and does not answer question 4, which is digital only (Bill, 2026-10-25).",
+      "as_at": "2026-11-13"
     }
   ]
 }

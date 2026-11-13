@@ -123,8 +123,9 @@ A body took complaints about digital financial services in 2026; enforcement is 
 
 ### Senegal: 4 Operating
 
-A financial-services mediator took complaints in 2025; enforcement on digital financial services is not on record.
+Fee caps protect users of instant transfers from 2026 and a mediator takes financial complaints; enforcement on digital finance is not known.
 
+- Launch Base Africa reports the BCEAO capped PI-SPI transfer fees to protect consumers, free under 8,000 CFA francs a day and 0.8 per cent above, in force from 2 November 2026 and applying in Senegal ([source, 2026-11-02](https://launchbaseafrica.com/2026/11/03/failed-transfers-hidden-fees-and-phantom-aliases-inside-the-messy-birth-of-west-africas-unified-payments-network/)).
 - The Observatoire de la qualité des services financiers, under the Ministry of Finance since 2009, handled 475 new disputed files in 2025 (379 in 2024) through mediation, 357 of them banking, microfinance, financial institutions and La Poste ([source, 2025](https://aps.sn/mediation-financiere-475-dossiers-traites-en-2025-contre-379-en-2024-oqsf/)).
 
 ### South Africa: 4 Operating

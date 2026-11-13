@@ -61,3 +61,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,ZAF,dpi.pay--consumer-protection,fact,2,4,ZAF-005;ZAF-003;ZAF-002,"Financial Regulation Journal (February 2026): the National Credit Act affordability assessment is a conduct rule binding digital lenders; with the ombud's digital banking complaints, stage 4."
 2026-11-12,DZA,dpi.pay--consumer-protection,fact,2,3,DZA-003;DZA-001,Bank of Algeria Instruction 06-2025 (August 2025) puts conduct rules for payment providers in force: question 2 answered
 2026-11-12,SLE,dpi.pay--consumer-protection,fact,unplaced,2,SLE-005,NatCA's proposed DFS framework of July 2025 carries consumer-protection provisions: question 1 answered
+2026-11-13,SEN,dpi.pay--consumer-protection,fact,4,4,SEN-004;SEN-001,"The BCEAO's PI-SPI fee cap, in force in Senegal from 2 November 2026 to protect consumers, is a rule in force; with the OQSF's mediation, stage 4 holds on rows that show each rung (housekeeping 70)."

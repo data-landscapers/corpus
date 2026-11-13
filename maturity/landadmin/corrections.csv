@@ -1,2 +1,5 @@
 iso3,n,aspect,value,action,why
 MWI,003,joined,joined,removed,First pass: what the system is designed to do read as in service
+LBR,002,system,inservice,revalued: system:underway,"Housekeeping 70: the project introduced a Digital Land Administration System; nothing says deeds or transfers are registered in it, as the published cell says"
+LBR,003,system,inservice,revalued: system:underway,"Housekeeping 70: the chairman lists the system's stabilisation and operationalisation as an achievement; nothing says transactions are processed in it, as the published cell says"
+LSO,002,system,none,removed,"Housekeeping 70: Community Council allocation records kept by hand say nothing of how the Land Administration Authority processes leases, so they do not show land transactions run on paper, as the published cell says"
