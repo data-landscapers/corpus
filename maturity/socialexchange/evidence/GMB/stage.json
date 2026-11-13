@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GMB-002",
       "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
-      "note": "First pass: counted from the four questions by study-ladder-socialexchange.py.",
-      "as_at": "2026-11-09"
+      "note": "Rebuild: registry interoperability work progressed in November 2025 (GMB-002). The registry fed programmes in 2024 (GMB-001), but no exchange in use is held and every rung must be met, so not 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

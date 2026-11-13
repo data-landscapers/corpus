@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "COG-003",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-socialexchange.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: the 2024 arrete says the RSU holds civil-status and ID-number data (COG-003) and in April 2026 the minister said three programmes draw on it (COG-001). Every rung is met, so 5 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

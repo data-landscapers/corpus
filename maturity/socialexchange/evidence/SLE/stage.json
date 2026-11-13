@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-002",
-   "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-002",
+      "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
+      "note": "Rebuild: a 2023 technical note says SPRINT would upload existing programme data (SLE-002), and its import module had not been used (SLE-001). No exchange in use is held, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

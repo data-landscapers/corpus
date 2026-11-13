@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-001",
-   "gaps": "No source found since October 2023 says two or more programmes share one registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "exchange": "inservice",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-001",
+      "gaps": "No source found since October 2023 says two or more programmes share one registry.",
+      "note": "Rebuild: the February 2025 completion report records an MIS linked to the civil registry and payment providers (SDN-001), for a project closed in June 2024. No shared registry is held, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

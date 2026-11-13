@@ -1,17 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "4",
-   "exchange": "inservice",
-   "registry": "shared",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-002",
-   "gaps": "No source found since October 2023 says the registry is linked to the national ID and to another sector.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "4",
+      "exchange": "inservice",
+      "registry": "shared",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-002",
+      "gaps": "No source found since October 2023 says the registry is linked to the national ID and to another sector.",
+      "note": "Rebuild: five programmes used the registry in March 2025 (MWI-002) and about 75 per cent of its households are linked to the national ID (MWI-005, MWI-007). No link to a second sector is held, so not 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

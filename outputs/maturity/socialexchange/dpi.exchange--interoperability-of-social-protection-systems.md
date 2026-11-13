@@ -1,6 +1,6 @@
 # Interoperability of social protection systems: interoperability of social protection systems
 
-*As at 2026-10-17.*
+*As at 2026-11-13.*
 
 ## The norm
 

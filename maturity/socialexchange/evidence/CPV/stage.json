@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 names social protection systems exchanging data.",
-      "note": "First pass: counted from the four questions by study-ladder-socialexchange.py.",
-      "as_at": "2026-11-09"
+      "note": "Rebuild: about 16 programmes drew on the CSU in 2024 (CPV-003), but no source names an exchange under way or in use. Every rung must be met, so unplaced holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

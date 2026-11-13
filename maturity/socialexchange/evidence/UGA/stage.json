@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-004;UGA-005",
-   "gaps": "No source found since October 2023 says two or more programmes share one registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "exchange": "inservice",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-004;UGA-005",
+      "gaps": "No source found since October 2023 says two or more programmes share one registry.",
+      "note": "Rebuild: PDMIS registers beneficiaries, pays through IFMIS and Wendi (UGA-004) and checks NINs against NIRA (UGA-006). The national social registry is still being set up (UGA-003), so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-002",
-   "gaps": "No source found since October 2023 says two or more programmes share one registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "exchange": "inservice",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-002",
+      "gaps": "No source found since October 2023 says two or more programmes share one registry.",
+      "note": "Rebuild: digital birth registration was integrated with NISSA in real time in June 2025 (LSO-002). The only source on programmes sharing NISSA is from 2016, outside the window, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

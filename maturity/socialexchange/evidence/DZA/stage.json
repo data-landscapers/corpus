@@ -1,17 +1,18 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-001",
-   "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-001",
+      "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
+      "note": "Rebuild: the solidarity ministry's unified platform was in pilot to March 2026, with database integration under verification (DZA-001). No exchange in use is held, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-003;NAM-001",
-   "gaps": "No source found since October 2023 says two or more programmes share one registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "exchange": "inservice",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-003;NAM-001",
+      "gaps": "No source found since October 2023 says two or more programmes share one registry.",
+      "note": "Rebuild: in June 2026 old-age grants were checked against the population registry (NAM-003) and grants paid over the instant payment network (NAM-001). The shared beneficiary registry source is from 2022, outside the window, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

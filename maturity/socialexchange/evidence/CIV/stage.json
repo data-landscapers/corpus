@@ -1,17 +1,18 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-001;CIV-003",
-   "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-001;CIV-003",
+      "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
+      "note": "Rebuild: BCPFS and ONECI signed a convention in April 2026 to connect the RSU to the ID databases (CIV-001), and a 2025 workshop set the SIG-RSU exchange framework (CIV-003). No exchange in use is held, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

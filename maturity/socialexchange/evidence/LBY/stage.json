@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "LBY-001",
       "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
-      "note": "First pass: counted from the four questions by study-ladder-socialexchange.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: in July 2025 the ministry followed up activation of the grant's electronic link with the Civil Status Authority (LBY-001). The link is not stated to be in use, so not 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

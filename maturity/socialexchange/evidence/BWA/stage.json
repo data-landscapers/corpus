@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 names social protection systems exchanging data.",
-      "note": "First pass: counted from the four questions by study-ladder-socialexchange.py.",
-      "as_at": "2026-11-09"
+      "note": "Rebuild: the registry held five programmes' beneficiaries in 2025 (BWA-001), but the only source for the ID link is from 2022 and no link under way since November 2023 is held. Every rung must be met, so unplaced holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

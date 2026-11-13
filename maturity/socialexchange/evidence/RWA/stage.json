@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "5",
-   "exchange": "inservice",
-   "registry": "shared",
-   "linked": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-009;RWA-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "5",
+      "exchange": "inservice",
+      "registry": "shared",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-009;RWA-004",
+      "gaps": "",
+      "note": "Rebuild: the March 2026 World Bank paper says Imibereho is anchored in the national ID and interoperates with health and other databases (RWA-009), and serves VUP and health insurance (RWA-008). Every rung is met, so 5 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

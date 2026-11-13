@@ -20,3 +20,48 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,BWA,dpi.exchange--interoperability-of-social-protection-systems,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
 2026-11-09,CPV,dpi.exchange--interoperability-of-social-protection-systems,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
 2026-11-09,GMB,dpi.exchange--interoperability-of-social-protection-systems,ladder,4,2,GMB-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-13,COG,dpi.exchange--interoperability-of-social-protection-systems,review,5,5,COG-003,Rebuild: 2024 arrete links RSU to civil status and ID; three programmes draw on it 2026; 5 holds
+2026-11-13,RWA,dpi.exchange--interoperability-of-social-protection-systems,review,5,5,RWA-009;RWA-004,"Rebuild: Imibereho anchored in national ID and health MIS 2026, serves several programmes; 5 holds"
+2026-11-13,BDI,dpi.exchange--interoperability-of-social-protection-systems,review,4,4,BDI-001,"Rebuild: CORE-MIS paying via providers 2026, registry serves a second project; no ID link; 4 holds"
+2026-11-13,GIN,dpi.exchange--interoperability-of-social-protection-systems,review,4,4,GIN-001;GIN-004,Rebuild: RSU served several programmes 2026; ID link only intended; 4 holds
+2026-11-13,LBR,dpi.exchange--interoperability-of-social-protection-systems,review,4,4,LBR-005;LBR-002,"Rebuild: five programmes on the registry 2025, REALISE pays through it; no ID link; 4 holds"
+2026-11-13,MRT,dpi.exchange--interoperability-of-social-protection-systems,review,4,4,MRT-008;MRT-005,"Rebuild: 17 registry users 2025, AOUN platform in use 2026; civil-registry link a pilot; 4 holds"
+2026-11-13,MUS,dpi.exchange--interoperability-of-social-protection-systems,review,4,4,MUS-002;MUS-003,"Rebuild: several schemes keyed to the Social Register 2026, checked in use; no ID link; 4 holds"
+2026-11-13,MWI,dpi.exchange--interoperability-of-social-protection-systems,review,4,4,MWI-002,"Rebuild: five programmes on the registry 2025, linked to national ID; no second sector; 4 holds"
+2026-11-13,STP,dpi.exchange--interoperability-of-social-protection-systems,review,4,4,STP-003,"Rebuild: Kenon serves two programmes 2025, pays via bank; civil registry but no ID link; 4 holds"
+2026-11-13,LSO,dpi.exchange--interoperability-of-social-protection-systems,review,3,3,LSO-002,Rebuild: birth registration integrated with NISSA 2025; shared-registry source is 2016; 3 holds
+2026-11-13,MLI,dpi.exchange--interoperability-of-social-protection-systems,review,3,3,MLI-002;MLI-003,Rebuild: CMSS and CANAM exchanges in use 2026; shared RSU sources before window; 3 holds
+2026-11-13,NAM,dpi.exchange--interoperability-of-social-protection-systems,review,3,3,NAM-003;NAM-001,Rebuild: grants checked against population registry and paid over IPS 2026; shared registry 2022; 3 holds
+2026-11-13,NGA,dpi.exchange--interoperability-of-social-protection-systems,review,3,3,NGA-002,"Rebuild: NSR linked to NIN and BVN 2025, NERSI draws on it 2026; one programme only; 3 holds"
+2026-11-13,SDN,dpi.exchange--interoperability-of-social-protection-systems,review,3,3,SDN-001,Rebuild: Feb 2025 report records MIS linked to civil registry and payers; no shared registry; 3 holds
+2026-11-13,SYC,dpi.exchange--interoperability-of-social-protection-systems,review,3,3,SYC-002,Rebuild: ASP Connect via SeyID since Oct 2025; no shared registry; 3 holds
+2026-11-13,TUN,dpi.exchange--interoperability-of-social-protection-systems,review,3,3,TUN-001;TUN-002,Rebuild: Khadamet digital-ID access to CNAM and CNSS 2026; no shared registry; 3 holds
+2026-11-13,UGA,dpi.exchange--interoperability-of-social-protection-systems,review,3,3,UGA-004;UGA-005,Rebuild: PDMIS linked to NIRA and Wendi in use 2026; social registry still being set up; 3 holds
+2026-11-13,AGO,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,AGO-001;AGO-002,"Rebuild: Kwenda-SIGAS integration under way, CSU relaunched 2026; no exchange in use; 2 holds"
+2026-11-13,BFA,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,BFA-001;BFA-003,Rebuild: 2026 project funds RSU links; data still separate; 2 holds
+2026-11-13,CAF,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,CAF-001;CAF-002,"Rebuild: RSU MIS and cross-checks funded, not in use; 2 holds"
+2026-11-13,CIV,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,CIV-001;CIV-003,Rebuild: RSU-ONECI convention signed April 2026; no exchange in use; 2 holds
+2026-11-13,DJI,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,DJI-003;DJI-002,Rebuild: registry interoperability funded and being built; no exchange in use; 2 holds
+2026-11-13,DZA,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,DZA-001,Rebuild: unified platform in pilot to March 2026; 2 holds
+2026-11-13,GAB,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,GAB-001,"Rebuild: shared wage declaration begun, CNAM-GS ID link funded 2026; none in use; 2 holds"
+2026-11-13,GMB,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,GMB-002,Rebuild: interoperability work 2025; no exchange in use; 2 holds
+2026-11-13,LBY,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,LBY-001,"Rebuild: civil-status link being activated July 2025, not stated in use; 2 holds"
+2026-11-13,MDG,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,MDG-001,Rebuild: FID interoperability work funded 2026; none in use; 2 holds
+2026-11-13,MOZ,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,MOZ-003;MOZ-004,"Rebuild: INGD system in pilot 2026, INAS link planned; 2 holds"
+2026-11-13,SLE,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,SLE-002,Rebuild: SPRINT data upload planned 2023; import module unused; 2 holds
+2026-11-13,SWZ,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,SWZ-001,Rebuild: Imbeleko MIS funded 2025; none in use; 2 holds
+2026-11-13,TCD,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,TCD-001;TCD-002,Rebuild: RSU-ID link under discussion 2026; 2 holds
+2026-11-13,ZMB,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,ZMB-001,Rebuild: GBV MIS link in procurement 2025; 2 holds
+2026-11-13,ZWE,dpi.exchange--interoperability-of-social-protection-systems,review,2,2,ZWE-001,Rebuild: ZISO being built for BEAM 2026; 2 holds
+2026-11-13,BWA,dpi.exchange--interoperability-of-social-protection-systems,review,unplaced,unplaced,,Rebuild: registry serves five programmes 2025; ID link source 2022; unplaced holds
+2026-11-13,CPV,dpi.exchange--interoperability-of-social-protection-systems,review,unplaced,unplaced,,Rebuild: CSU serves programmes 2024; no exchange named; unplaced holds
+2026-11-13,NER,dpi.exchange--interoperability-of-social-protection-systems,review,unplaced,unplaced,,Rebuild: only rows are from 2018; unplaced holds
+2026-11-13,BEN,dpi.exchange--interoperability-of-social-protection-systems,review,no evidence,no evidence,,Rebuild: no evidence row; no evidence holds
+2026-11-13,COD,dpi.exchange--interoperability-of-social-protection-systems,review,no evidence,no evidence,,"Rebuild: decree rows removed, nothing else held; no evidence holds"
+2026-11-13,COM,dpi.exchange--interoperability-of-social-protection-systems,review,no evidence,no evidence,,Rebuild: no evidence row; no evidence holds
+2026-11-13,ERI,dpi.exchange--interoperability-of-social-protection-systems,review,no evidence,no evidence,,Rebuild: no evidence row; no evidence holds
+2026-11-13,GNB,dpi.exchange--interoperability-of-social-protection-systems,review,no evidence,no evidence,,Rebuild: no evidence row; no evidence holds
+2026-11-13,GNQ,dpi.exchange--interoperability-of-social-protection-systems,review,no evidence,no evidence,,Rebuild: no evidence row; no evidence holds
+2026-11-13,SSD,dpi.exchange--interoperability-of-social-protection-systems,review,no evidence,no evidence,,Rebuild: no evidence row; no evidence holds
+2026-11-13,TZA,dpi.exchange--interoperability-of-social-protection-systems,review,no evidence,no evidence,,Rebuild: no evidence row; no evidence holds
+2026-11-13,ZAF,dpi.exchange--interoperability-of-social-protection-systems,review,no evidence,no evidence,,Rebuild: no evidence row; no evidence holds

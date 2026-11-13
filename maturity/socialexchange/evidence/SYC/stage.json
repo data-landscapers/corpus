@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "inservice",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SYC-002",
-   "gaps": "No source found since October 2023 says two or more programmes share one registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "exchange": "inservice",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-002",
+      "gaps": "No source found since October 2023 says two or more programmes share one registry.",
+      "note": "Rebuild: ASP Connect has been reached through the SeyID portal since October 2025 (SYC-002), an ID link in use, as for the Khadamet app in Tunisia. No registry shared by programmes is held, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

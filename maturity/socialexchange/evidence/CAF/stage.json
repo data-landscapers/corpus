@@ -1,17 +1,18 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CAF-001;CAF-002",
-   "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-001;CAF-002",
+      "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
+      "note": "Rebuild: the Safety Nets Project funds the RSU MIS and payment platform (CAF-002) and a 2026 registration system will cross-check registries (CAF-001). No exchange in use is held, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "4",
-   "exchange": "inservice",
-   "registry": "shared",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-001",
-   "gaps": "No source found since October 2023 says the registry is linked to the national ID and to another sector.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "4",
+      "exchange": "inservice",
+      "registry": "shared",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001",
+      "gaps": "No source found since October 2023 says the registry is linked to the national ID and to another sector.",
+      "note": "Rebuild: CORE-MIS connects with payment providers in use (BDI-002) and the Merankabandi registry also serves the solar-kit project (BDI-001). No link to the ID and another sector is held, so not 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

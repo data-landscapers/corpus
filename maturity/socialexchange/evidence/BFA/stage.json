@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BFA-001;BFA-003",
       "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
-      "note": "First pass: counted from the four questions by study-ladder-socialexchange.py.",
-      "as_at": "2026-11-09"
+      "note": "Rebuild: a June 2026 World Bank project funds linking the RSU to IDP and health-insurance databases (BFA-001, BFA-003), and the RSU and IDP data were still managed apart (BFA-005). No exchange in use is held, so not 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

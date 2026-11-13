@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "4",
-   "exchange": "inservice",
-   "registry": "shared",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-002;MUS-003",
-   "gaps": "No source found since October 2023 says the registry is linked to the national ID and to another sector.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "4",
+      "exchange": "inservice",
+      "registry": "shared",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-002;MUS-003",
+      "gaps": "No source found since October 2023 says the registry is linked to the national ID and to another sector.",
+      "note": "Rebuild: Internet Gratis and a wastewater-fee exemption are both keyed to the Social Register in 2026 (MUS-002), with providers checking it in use (MUS-001). No link to the ID and another sector is held, so not 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

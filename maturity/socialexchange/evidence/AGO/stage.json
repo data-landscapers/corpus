@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-001;AGO-002",
-   "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-001;AGO-002",
+      "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
+      "note": "Rebuild: Kwenda integration with SIGAS was being built in 2024 (AGO-003) and the Cadastro Social Unico relaunched in July 2026 (AGO-001, AGO-002). No exchange in use is held, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

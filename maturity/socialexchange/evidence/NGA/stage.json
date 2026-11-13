@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "NGA-002",
       "gaps": "No source found since October 2023 says two or more programmes share one registry.",
-      "note": "First pass: counted from the four questions by study-ladder-socialexchange.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: NIN and BVN are integrated into the NSR (NGA-002), and in 2026 NERSI selects relief recipients from it (NGA-003). No second programme is said to draw on the register, so not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }
