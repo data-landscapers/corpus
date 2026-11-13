@@ -1,0 +1,46 @@
+{
+ "slug": "2025-05-24-eth-ethiopia-doubles-capital-threshold-for-mobile-money-providers-as-centr",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Birr Metrics reports that on 12 May 2025 the National Bank of Ethiopia repealed its previous directive on Payment Instrument Issuers and replaced it with a new regulation, with the capital requirement in force immediately.",
+   "as_of": "2025-05-12",
+   "date_precision": "day",
+   "system": "Payment Instrument Issuers directive",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "Birr Metrics reports that Payment Instrument Issuers under the National Bank of Ethiopia's May 2025 regulation are entities licensed to issue electronic money without being banks, with minimum paid-up capital raised from 50 to 100 million birr.",
+   "as_of": "2025-05-12",
+   "date_precision": "day",
+   "system": "Payment Instrument Issuers directive",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "Birr Metrics reports that the new directive requires all Payment Instrument Issuers to let users transfer across competing wallets, and from November 2025 to do so only through EthSwitch or other NBE-licensed operators.",
+   "as_of": "2025-05-12",
+   "date_precision": "day",
+   "system": "Payment Instrument Issuers directive",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EthSwitch",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

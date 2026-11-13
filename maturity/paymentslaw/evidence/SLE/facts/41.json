@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-10-sle-bank-of-sierra-leone-extends-national-switch-integration-deadline",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "The Bank of Sierra Leone announced on 10 April 2025 that all financial institutions and fintechs, mandated to route all domestic transactions through the National Switch, now have until 30 June 2025 instead of 31 March 2025 to integrate.",
+   "as_of": "2025-04-10",
+   "date_precision": "day",
+   "system": "National Switch",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Switch",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

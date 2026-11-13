@@ -69,6 +69,7 @@ EGY,Mobile Wallet Regulations,Egypt,law,,,,2026-11-10-africa-technology-policy-t
 ERI,EriTel-linked mobile wallets,mobile wallets linked to the state-owned telecom operator EriTel,other,,EriTel,,2026-03-30-eritreas-fintech-ecosystem-2026-financial-inclusion
 ETH,Licensing and Authorization of Payment Instrument Issuer Directive,Ethiopia,law,,National Bank of Ethiopia,,2025-05-27-eth-nbe-mandates-interoperability-among-mobile-wallets
 ETH,Ethiopian Instant Payment System (EIPS),Ethiopia,other,,,,2025-05-27-eth-nbe-mandates-interoperability-among-mobile-wallets
+ETH,EthSwitch,Ethiopia,other,,,,2025-05-24-eth-ethiopia-doubles-capital-threshold-for-mobile-money-providers-as-centr
 GAB,GIMACPAY,GIMACPAY,other,,GIMAC (Groupement interbancaire monétique de l'Afrique centrale),"BEAC, two Treasuries, 56 banks, 26 microfinance institutions, 16 payment institutions and mobile money operators, 52 aggregators",2026-07-30-cemac-gimacpay-transactions-2025
 GHA,Sentinel (Real-Time VAT framework),Sentinel / RTVAT,other,Sentinel,Ghana Revenue Authority,"banks, payment service providers, electronic money issuers, third-party payment providers",2026-09-27-gha-real-time-vat-cross-border-digital
 GHA,Electronic Transfer Levy Management and Assurance System (ELMAS),ELMAS,other,,Ghana Revenue Authority,"electronic money issuers, payment service providers, banks, specialised deposit-taking institutions",2023-08-08-gra-electronic-transfer-levy-administrative-guidelines
@@ -83,6 +84,7 @@ GIN,Nimba Pay,Nimba Pay,other,,BCRG,"banks, e-money establishments, microfinance
 GIN,NimbaPay,NimbaPay,other,,Guinéenne de la Monétique (GuiM) under the BCRG,"banks, e-money establishments, microfinance institutions",2026-07-22-bcrg-guim-lancement-nimbapay-paiement-instantane
 GIN,NimbaPay,Guinea,other,Mojaloop,Guineenne de Monetique (GuiM),,2026-10-26-gin-guinee-nimbapay-traite-7-6-millions-de-transactions-et-connecte-7-etab
 GMB,GAMSWITCH,GAMSWITCH,other,,Central Bank of The Gambia,commercial banks and service providers,2013-07-11-cbg-pricing-policy-electronic-payment-settlement-credit-reference-systems
+GMB,Gamswitch,Gambia,other,Mojaloop,,,2026-06-11-gmb-gambia-s-financial-inclusion-reaches-82-central-bank-targets-full-cove
 GNB,PI-SPI (Plateforme Interopérable du Système de Paiement Instantané),PI-SPI,other,,BCEAO,"banks, e-money issuers, payment institutions, microfinance institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
 GNB,PI-SPI (Plateforme interopérable du Système de paiement instantané),PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-08-18-uemoa-pi-spi-104-etablissements-autorises
 GNQ,GIMACPAY,GIMACPAY,other,,GIMAC (Groupement interbancaire monétique de l'Afrique centrale),"banks, microfinance institutions, payment institutions and mobile money operators, aggregators, BEAC, public treasuries (CEMAC-wide)",2026-07-30-cemac-gimacpay-transactions-2025
@@ -150,6 +152,7 @@ SEN,BCEAO Instruction 001-01-2024,Senegal,law,,BCEAO,,2025-05-27-sen-bceao-licen
 SLE,National Payment Switch,National Payment Switch (NPS),other,,Bank of Sierra Leone,"commercial banks, mobile money operators, deposit-taking MFIs",2023-06-23-sierra-leone-financial-inclusion-project-isr-national-payment-switch
 SLE,Orange Money,Orange Money,other,,Orange Sierra Leone,mobile money wallet holders and cash-out agents,2026-07-23-whatsapp-scam-emptying-orange-money-sierra-leone
 SLE,National Payment Systems Act 2022,Sierra Leone,law,,Bank of Sierra Leone,,2025-07-01-sle-regulatory-framework-for-digital-financial-services-in-sierra-leone-df
+SLE,National Switch,Sierra Leone,other,,Bank of Sierra Leone,,2025-04-10-sle-bank-of-sierra-leone-extends-national-switch-integration-deadline
 SSD,"National Payment System Bill, 2025","Draft National Payment System Bill, 2025",law,,Bank of South Sudan,,2026-08-17-south-sudan-digital-payments-bill
 SSD,"National Payment System Bill, 2025",Draft National Payment System Bill,law,,Bank of South Sudan,,2026-08-17-south-sudan-pushes-cashless-transition
 SSD,"National Payment System Bill, 2025","National Payment System Bill, 2025",law,,Bank of South Sudan,,2026-08-10-south-sudan-boss-payment-system-bill-workshop

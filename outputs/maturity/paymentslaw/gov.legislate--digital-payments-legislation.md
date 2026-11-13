@@ -21,8 +21,8 @@ Article 15 of the AfCFTA Digital Trade Protocol and its Annex on Cross-Border Di
 | Stage | Countries |
 |---|---|
 | 5 Leading | 18 |
-| 4 Operating | 29 |
-| 3 Established | 6 |
+| 4 Operating | 30 |
+| 3 Established | 5 |
 | 2 Nascent | 0 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -246,6 +246,14 @@ Chad is under the 2018 regional payment services regulation, with three non-bank
 - Tchadinfos reports that on 18 February 2026 the Finance ministry signed conventions with Moov Money, Airtel Money, Konoom and Cashi, describing two as mobile telephone operators and two (Konoom and Cashi) as payment establishments; it does not name the licensing rules or state licensing ([source, 2026-02-18](https://tchadinfos.com/2026/02/18/digitalisation-des-paiements-publics-le-ministere-des-finances-signe-des-partenariats-avec-des-operateurs-de-mobile-money/)).
 - The CEMAC regulation of 21 December 2018 on payment services replaced the 2011 e-money rules, which had covered e-money issuance only, and is the framework under which Chad's payment establishments are licensed (L'Economie, 29 July 2026) ([source, 2018-12-21](https://leconomie.info/tchad-moov-money-rejoint-le-club-restreint-des-etablissements-de-paiement-agrees/)).
 
+### Comoros: 4 Operating
+
+The Comoros has had e-money rules since 2017 and two licensed e-money firms by 2025; no rule requiring providers to connect is known.
+
+- The Central Bank of the Comoros issued Regulation n°01/2017/BCC/DSBR setting the conditions and modalities for exercising e-money activity; the document gives only the year 2017 (published date used) ([source, 2017](https://banque-comores.km/uploads/Loi%20et%20textes%20reglementaire/REGLEMENTS/2017/R%C3%A8glement%20n%C2%B001_2017_BCC_DSBR%20sur%20la%20monnaie%20%C3%A9lectronique.pdf)).
+- The regulation cites as a legal basis decree n°15-026/PR of 3 March 2015 on payment systems, means and incidents of payment ([source, 2015-03-03](https://banque-comores.km/uploads/Loi%20et%20textes%20reglementaire/REGLEMENTS/2017/R%C3%A8glement%20n%C2%B001_2017_BCC_DSBR%20sur%20la%20monnaie%20%C3%A9lectronique.pdf)).
+- The Banque Centrale des Comores lists Telco Money SA and Hury Money SA among the legally established electronic money institutions in the Union of the Comoros as at its December 2025 communique ([source, 2025-12-10](https://finances.gouv.km/actualite_post/communique-de-la-banque-centrale-des-comores-sur-lexercice-illegal-dactivites-bancaires-offshores/)).
+
 ### Congo: 4 Operating
 
 Congo licenses non-bank payment institutions under the 2018 regional payment services regulation, one since 2022; no rule to connect providers has been found.
@@ -405,13 +413,6 @@ Uganda's 2020 National Payment Systems Act is in force, and the central bank lic
 
 - Bank of Uganda's payment systems director said on 2026-09-14 that the wallet providers it supervises and that it licenses are MTN and Airtel, non-bank mobile money operators, under the National Payment Systems Act, 2020 ([source, 2026-09-14](https://kikubolane.com/2026/09/15/ugandas-central-bank-to-probe-claims-mobile-money-users-are-paying-off-strangers-loans/)).
 - The Daily Monitor says Uganda currently relies on a regulatory framework including the National Payment Systems Act and guidelines issued by financial regulators ([source, 2026-10-16](https://www.monitor.co.ug/uganda/news/national/uganda-champions-au-single-digital-market-plan-to-boost-cross-border-trade-5634362)).
-
-### Comoros: 3 Established
-
-The Comoros has had central bank e-money rules since 2017, under a 2015 payments decree; no source found says whether they license non-banks.
-
-- The Central Bank of the Comoros issued Regulation n°01/2017/BCC/DSBR setting the conditions and modalities for exercising e-money activity; the document gives only the year 2017 (published date used) ([source, 2017](https://banque-comores.km/uploads/Loi%20et%20textes%20reglementaire/REGLEMENTS/2017/R%C3%A8glement%20n%C2%B001_2017_BCC_DSBR%20sur%20la%20monnaie%20%C3%A9lectronique.pdf)).
-- The regulation cites as a legal basis decree n°15-026/PR of 3 March 2015 on payment systems, means and incidents of payment ([source, 2015-03-03](https://banque-comores.km/uploads/Loi%20et%20textes%20reglementaire/REGLEMENTS/2017/R%C3%A8glement%20n%C2%B001_2017_BCC_DSBR%20sur%20la%20monnaie%20%C3%A9lectronique.pdf)).
 
 ### Lesotho: 3 Established
 

@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SLE,law,standing,coverage,in-force,2025-07-01,SLE-001;SLE-002;SLE-003;SLE-006,,
-SLE,law,reach,coverage,connect,2024-12-17,SLE-005,SLE-004=non-bank,
+SLE,law,reach,coverage,connect,2025-04-10,SLE-005;SLE-007,SLE-004=non-bank,
