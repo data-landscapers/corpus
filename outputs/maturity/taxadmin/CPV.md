@@ -2,11 +2,11 @@
 
 ## Tax
 
-**Online filing.** [The DNRE says tax returns are submitted electronically through its portal, with the deadline moved from 31 May to 14 June 2024 after an outage was cleared](<https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Online filing.** [In May 2024 the tax directorate (DNRE) said tax returns are submitted electronically through its portal](<https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal>). [It moved the 2024 deadline from 31 May to 14 June after an outage was cleared](<https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal>).
 
-**Electronic payment.** [The DNRE with the Casa do Cidadao made bank-card payment of taxes online available on the citizen portal from 11 February 2019, producing the DUC payment document and taking payment, 24 hours a day (2019, before the three-year window)](<https://www.mf.gov.cv/web/dnre/-/dnre-apresenta-novo-meio-de-pagamento-de-impostos-online>).
+**Electronic payment.** [From 11 February 2019 the DNRE and the Casa do Cidadao offered online payment of taxes by bank card on the citizen portal](<https://www.mf.gov.cv/web/dnre/-/dnre-apresenta-novo-meio-de-pagamento-de-impostos-online>). [The portal produces the DUC payment document and takes payment 24 hours a day](<https://www.mf.gov.cv/web/dnre/-/dnre-apresenta-novo-meio-de-pagamento-de-impostos-online>).
 
-**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [in May 2024 the DNRE extended the deadline for returns submitted through its portal](<https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal>).
 
 ***Also on file***. None found.
 

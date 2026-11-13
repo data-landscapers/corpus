@@ -2,11 +2,11 @@
 
 ## Tax
 
-**Online filing.** [AlgerieZoom reports that the DGI's Jibayatic tele-declaration and tele-payment system, in which only large-enterprise (DGE) taxpayers were previously required to file electronically, is generalised to all local tax structures under DGI instruction 31/2026 of 6 May 2026](<https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/>). 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Online filing.** [In May 2026 the tax directorate (DGI) extended its Jibayatic tele-declaration and tele-payment system to all local tax offices](<https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/>). [It did so under DGI instruction 31/2026 of 6 May 2026, AlgerieZoom reported](<https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/>). [Until that instruction, only large-enterprise (DGE) taxpayers had to file electronically](<https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/>).
 
-**Electronic payment.** [AlgerieZoom reports that taxpayers of tax centres, proximity centres and inspections can pay taxes remotely through Jibayatic for the first time, as an optional method](<https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/>).
+**Electronic payment.** [From May 2026 taxpayers of tax centres, proximity centres and inspections can pay taxes remotely through Jibayatic](<https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/>). [It is the first time they can do so, and the method is optional](<https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/>).
 
-**Mostly online.** [AlgerieZoom reports that electronic filing is mandatory for DGE taxpayers and, under instruction 31/2026, for real-profit regime and simplified non-commercial-profession taxpayers, though 2025 returns other than series G n°50 may still be filed on paper](<https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/>).
+**Mostly online.** [In 2026 AlgerieZoom reported that electronic filing is mandatory for DGE taxpayers](<https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/>). [Instruction 31/2026 also makes it mandatory for real-profit regime taxpayers and simplified non-commercial professions](<https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/>). [Returns for 2025, other than series G n°50, may still be filed on paper](<https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/>).
 
 ***Also on file***. None found.
 
