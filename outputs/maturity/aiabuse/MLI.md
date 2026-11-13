@@ -6,7 +6,7 @@
 
 **Authority.** No source found since October 2023 says a body is designated with a mandate over AI. [The October 2026 account of the gaps in Mali's rules on AI and disinformation names no such body](<https://amap.ml/2026/10/23/intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-defis-de-la-gouvernance-et-de-la-desinformation/>).
 
-**Enforced.** No source found since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://voixdemopti.com/deepfakes-et-chantage-sexuel-le-nouveau-visage-des-violences-numeriques/>).
+**Enforced.** No source found since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest fact: [in October 2025 La Voix de Mopti said the 2024 Penal Code does not specifically recognise deepfakes](<https://voixdemopti.com/deepfakes-et-chantage-sexuel-le-nouveau-visage-des-violences-numeriques/>).
 
 ***Also on file***. None found.
 

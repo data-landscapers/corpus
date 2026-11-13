@@ -6,7 +6,7 @@
 
 **Several cities.** [The minister said the 24 innovation centres are spread across the governorates](<https://www.tafsela.net/98622>).
 
-**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://english.ahram.org.eg/News/577224.aspx>).
+**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest fact: [the investment ministry planned to open the TradeTech sandbox and innovation hub for startups in October 2026](<https://english.ahram.org.eg/News/577224.aspx>).
 
 ***Also on file***. None found.
 

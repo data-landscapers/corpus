@@ -6,7 +6,7 @@
 
 **Gap measured.** [The policy cites the Somalia ICT Survey 2023, run to inform it](<https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf>). [In rural areas 22.7% had access to internet connections, against 47.1% in urban areas](<https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf>).
 
-**Gap narrow.** No source found since October 2023 gives rural internet use of 80 per cent or more of the urban rate. The nearest held fact: [the one given above](<https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf>).
+**Gap narrow.** No source found since October 2023 gives rural internet use of 80 per cent or more of the urban rate. The nearest fact: [the 2023 ICT Survey found internet access of 47.1% in urban and 22.7% in rural areas](<https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf>).
 
 ***Also on file***. None found.
 

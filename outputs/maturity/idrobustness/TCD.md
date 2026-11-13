@@ -6,7 +6,7 @@
 
 **Biometric checks.** [The SIGPTS assigns each person a unique NNI only after enrolment and deduplication, the ANATS site says in 2026](<https://www.anats.td/>). [The system launched in 2020 able to deduplicate biometrics against 15 million records](<https://www.biometricupdate.com/202505/chad-issues-biometric-ids-to-thousands-of-refugees-with-idemia-tech-unhcrs-help>). [Each search took ten seconds, Biometric Update reported in 2025](<https://www.biometricupdate.com/202505/chad-issues-biometric-ids-to-thousands-of-refugees-with-idemia-tech-unhcrs-help>).
 
-**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.wearetech.africa/en/fils-uk/news/tech/chad-n-djamena-launches-civil-registry-digitization-drive>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest fact: [in September 2026 SIGPTS assigned a unique National Identification Number after enrolment and deduplication](<https://www.wearetech.africa/en/fils-uk/news/tech/chad-n-djamena-launches-civil-registry-digitization-drive>).
 
 ***Also on file***. [biometric ID cards for refugees](<https://www.biometricupdate.com/202603/chad-uses-national-biometric-registry-to-boost-govt-systems-interoperability>).
 

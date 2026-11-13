@@ -6,7 +6,7 @@
 
 **Across government.** [Zimbabwe's government is set to make digital skills training in AI, cybersecurity and data management mandatory for all civil servants, with at least 10 000 public employees trained each year, per Finance Minister Mthuli Ncube](<http://www.businessdaily.co.zw/index-id-National-zk-52741.html>).
 
-**Share published.** No source found since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [the one given above](<http://www.businessdaily.co.zw/index-id-National-zk-52741.html>).
+**Share published.** No source found since October 2023 gives the share of the civil service trained in digital skills. The nearest fact: [in November 2025 the Finance Minister said at least 10,000 public employees would be trained each year](<http://www.businessdaily.co.zw/index-id-National-zk-52741.html>).
 
 ***Also on file***. None found.
 

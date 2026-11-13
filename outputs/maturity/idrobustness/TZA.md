@@ -6,7 +6,7 @@
 
 **Biometric checks.** [The Deputy Minister said the centre can verify applicants and match fingerprints so that each applicant is uniquely identified](<https://dailynews.co.tz/national-ids-to-stay-under-centralised-printing/>).
 
-**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://dailynews.co.tz/national-ids-to-stay-under-centralised-printing/>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest fact: [in May 2026 the Deputy Minister said the main data processing centre matches fingerprints so each applicant is uniquely identified](<https://dailynews.co.tz/national-ids-to-stay-under-centralised-printing/>).
 
 ***Also on file***. None found.
 

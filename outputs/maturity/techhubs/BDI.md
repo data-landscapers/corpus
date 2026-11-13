@@ -6,7 +6,7 @@
 
 **Several cities.** [BujaHub has offices in Bujumbura and Gitega](<https://bujahub.bi/moonshot-program/>), with 80 and 30 coworking places. [It ran its incubation with entrepreneurs from Bujumbura, Gitega and Ngozi, including sessions in the provinces](<https://bujahub.bi/moonshot-program/>).
 
-**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://bujahub.bi/moonshot-program/>).
+**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest fact: [in February 2026 BujaHub offered 80 coworking places in Bujumbura and 30 in Gitega](<https://bujahub.bi/moonshot-program/>).
 
 ***Also on file***. None found.
 

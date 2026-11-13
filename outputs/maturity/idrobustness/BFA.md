@@ -6,7 +6,7 @@
 
 **Biometric checks.** [The ONI system checks for duplicate identities by matching fingerprints, the national police's 2026 CNIB page says](<https://www.police.gov.bf/index.php/infos-utiles/cnib>). [It has matched faces too since 2009](<https://www.police.gov.bf/index.php/infos-utiles/cnib>). Enrolment for the new identifier [takes a photograph, fingerprints and iris to eliminate multiple records](<https://www.sidwaya.info/2026/11/11/operation-denregistrement-de-masse-de-lidentifiant-unique-le-capitaine-ibrahim-traore-lance-loperation-denrolement/>), the Presidency says.
 
-**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.sidwaya.info/journee-internationale-de-lidentite-la-securisation-des-diplomes-au-coeur-de-la-viie-edition/>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest fact: [in September 2026 the Office national d'identification ran special enrolment operations in all regions](<https://www.sidwaya.info/journee-internationale-de-lidentite-la-securisation-des-diplomes-au-coeur-de-la-viie-edition/>).
 
 ***Also on file***. None found.
 

@@ -6,7 +6,7 @@
 
 **Biometric checks.** [The World Bank says teams collect fingerprints and iris scans](<https://www.worldbank.org/en/news/feature/2026/07/01/no-longer-invisible-unlocking-legal-identity-for-millions-in-madagascar>). Identity is confirmed against a de-duplicated biometric database. [TechAfrica News reported in January 2026 that the programme captures fingerprints, face and iris to remove duplicate identities](<https://techafricanews.com/2026/01/30/national-biometric-enrolment-begins-paving-way-for-digital-inclusion-in-madagascar/>).
 
-**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.worldbank.org/en/news/feature/2026/07/01/no-longer-invisible-unlocking-legal-identity-for-millions-in-madagascar>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest fact: [in June 2026 the World Bank said identity is confirmed against a de-duplicated biometric database](<https://www.worldbank.org/en/news/feature/2026/07/01/no-longer-invisible-unlocking-legal-identity-for-millions-in-madagascar>).
 
 ***Also on file***. None found.
 

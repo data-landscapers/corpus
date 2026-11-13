@@ -6,7 +6,7 @@
 
 **Biometric checks.** [The Director-General says the NCRA's biometric identity system has registered about 93 per cent of the population, each with a unique NIN he calls non-duplicable](<https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/>). [He says no NIN is ever duplicated, reassigned or reused](<https://sierraleoneconcordtimes.com/93-of-sierra-leone-registered-with-unique-nins-2/>).
 
-**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest fact: [in August 2026 the NCRA's National Biometric Identity Management System had registered about 93 per cent of the population](<https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/>).
 
 ***Also on file***. None found.
 

@@ -6,7 +6,7 @@
 
 **Authority.** [Prime Ministerial Decree No. 207 of 2026, published in the Official Gazette on 18 January 2026, establishes the National Council for Artificial Intelligence, Quantum Computing and Emerging Technologies under the Prime Minister, chaired by the ICT minister](<https://www.elwatannews.com/news/details/8210438>).
 
-**Enforced.** No source found since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://www.elwatannews.com/news/details/8210438>).
+**Enforced.** No source found since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest fact: [in January 2026 Decree 207 set up a National Council for Artificial Intelligence under the Prime Minister](<https://www.elwatannews.com/news/details/8210438>).
 
 ***Also on file***. [Egyptian Center for Responsible AI (ECRAI)](<https://peopleofinternet.com/articles/egypt-reaches-for-misinformation-laws-to-fill-its-deepfake-g.html>).
 

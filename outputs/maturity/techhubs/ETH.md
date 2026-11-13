@@ -6,7 +6,7 @@
 
 **Several cities.** No source found since October 2023 says hubs with programmes are in service in two or more cities. The nearest held fact: [the residency held at the AI UniPod in Addis Ababa](<https://www.ena.et/web/eng/w/eng_9899270>).
 
-**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://www.connectingafrica.com/ai/ethiopia-launches-ai-unipod-to-drive-innovation>).
+**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest fact: [in February 2026 Ethiopia launched the AI UniPod in Addis Ababa as a national AI innovation centre](<https://www.connectingafrica.com/ai/ethiopia-launches-ai-unipod-to-drive-innovation>).
 
 ***Also on file***. [timbuktoo Ethiopia](<https://open.undp.org/projects/01003093>).
 

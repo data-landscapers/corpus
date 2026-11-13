@@ -6,7 +6,7 @@
 
 **Across government.** No source found since October 2023 says digital-skills training reaches civil servants across government. [Of 138 government employees surveyed in 2025, 55.1% said their ministry had an ICT training programme or coordinator, and 70.3% said they had attended ICT or digital-skills training](<https://doi.org/10.70806/jkhtfx87>).
 
-**Share published.** No source found since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [the one given above](<https://moct.gov.so/en/director-general-inaugurates-training-program-on-website-development/>).
+**Share published.** No source found since October 2023 gives the share of the civil service trained in digital skills. The nearest fact: [in June 2024 the communications ministry began website design training for Ministry of Labour staff](<https://moct.gov.so/en/director-general-inaugurates-training-program-on-website-development/>).
 
 ***Also on file***. None found.
 

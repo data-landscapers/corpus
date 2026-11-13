@@ -6,7 +6,7 @@
 
 **Biometric checks.** Fingerprints and faces are captured at registration. In February 2025 the World Bank said the National Registration Bureau [runs an automated biometric identification system for authentication and fraud prevention](<https://documents1.worldbank.org/curated/en/099100325093520180/pdf/P505095-a4c66f94-3385-4c95-b175-bfa83f2438df.pdf>). It said the system was short of capacity.
 
-**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.maravipost.com/malawis-digital-id-must-earn-public-trust/>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest fact: [in September 2026 the national identity system held names, photographs and fingerprints of more than 13.5 million people](<https://www.maravipost.com/malawis-digital-id-must-earn-public-trust/>).
 
 ***Also on file***. [Nzika Digital ID Wallet](<https://malawi24.com/2026/09/16/malawi-drops-expiry-dates-on-national-ids/>); [National ID](<https://mwnation.com/nrb-under-scrutiny/>).
 

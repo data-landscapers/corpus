@@ -6,7 +6,7 @@
 
 **Several cities.** [Yasika incubates its startups in Brazzaville](<https://www.eni.com/joule/en-IT/media/2026/05/yasika-second-edition-is-brought-to-life-with-bootcamp.html>). [The TotalEnergies incubator that took Noki Noki into a two-year programme in May 2024 is in Pointe-Noire](<https://afriqueitnews.com/startups/la-start-up-noki-noki-leve-3-millions-de-dollars-en-seed-pour-revolutionner-la-livraison-de-proximite-en-afrique/>).
 
-**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://www.eni.com/joule/en-IT/media/2026/05/yasika-second-edition-is-brought-to-life-with-bootcamp.html>).
+**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest fact: [in May 2026 Eni and Joule's Yasika programme in Brazzaville incubated 13 selected startups](<https://www.eni.com/joule/en-IT/media/2026/05/yasika-second-edition-is-brought-to-life-with-bootcamp.html>).
 
 ***Also on file***. None found.
 

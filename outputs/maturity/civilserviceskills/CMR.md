@@ -6,7 +6,7 @@
 
 **Across government.** [The programme is stated to be open to agents of all ministries, including deconcentrated services, and to staff of public establishments and enterprises](<https://www.digitalbusiness.africa/cameroun-train-patnucelearning-cm-la-plateforme-numerique-lancee-pour-former-15-000-agents-publics-a-lia-la-blockchain-et-la-transformation-digitale/>).
 
-**Share published.** No source found since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [the one given above](<https://www.digitalbusiness.africa/cameroun-train-patnucelearning-cm-la-plateforme-numerique-lancee-pour-former-15-000-agents-publics-a-lia-la-blockchain-et-la-transformation-digitale/>).
+**Share published.** No source found since October 2023 gives the share of the civil service trained in digital skills. The nearest fact: [in September 2026 the government's PATNUC platform set a target of 15,000 civil servants and public-enterprise staff](<https://www.digitalbusiness.africa/cameroun-train-patnucelearning-cm-la-plateforme-numerique-lancee-pour-former-15-000-agents-publics-a-lia-la-blockchain-et-la-transformation-digitale/>).
 
 ***Also on file***. [AILGLES](<https://www.biometricupdate.com/202608/cameroon-when-birth-certificates-represent-children-who-do-not-exist>); [GOV-AI](<https://www.dgb.cm/gov-ai-lintelligence-artificielle-gouvernementale-en-vitrine-au-sago-2025/>).
 
