@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "5",
-   "registration": "documented",
-   "access": "open",
-   "counted": "counted",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-005",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "5",
+      "registration": "documented",
+      "access": "open",
+      "counted": "counted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001;SOM-003;SOM-004;SOM-005",
+      "gaps": "The count is of the Baidoa pilot only; no national count of displaced people with the national ID is held.",
+      "note": "Stage 5: NIRA opened the national ID to displaced people in 2026, and UNDP counts 38,026 displaced people enrolled in the Baidoa pilot. The count is one city's, but the ladder asks for a number, which is given.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

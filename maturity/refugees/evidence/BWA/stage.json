@@ -1,17 +1,18 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "3",
-   "registration": "documented",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-001",
-   "gaps": "No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "3",
+      "registration": "documented",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-001",
+      "gaps": "No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 3: the minister handed citizenship documents to 64 refugees at Dukwi in June 2026, documents issued with a number. Nothing says refugees may use SIM cards, accounts or digital ID, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

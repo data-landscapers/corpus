@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-10-18"
+      "gaps": "The one row says The Gambia joined regional initiatives on digital identity for displaced people; nothing since October 2023 says it plans or runs their registration.",
+      "note": "Unplaced: engagement in regional initiatives is not a plan to register displaced people in The Gambia, so question 1 is unmet. No statement of absence is held either, so not 1.",
+      "as_at": "2026-11-13"
     }
   ]
 }

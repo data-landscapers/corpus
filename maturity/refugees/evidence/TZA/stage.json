@@ -1,17 +1,18 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "1",
-   "registration": "none",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-001;TZA-002",
-   "gaps": "No source found since October 2023 says: is registration or digital inclusion under way.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "1",
+      "registration": "none",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-001;TZA-002",
+      "gaps": "No source since October 2023 says refugees are being registered or documented. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 1: GSMA says in 2026 that identity rules leave refugee women registering SIMs through citizens. Nothing says refugees are being registered or documented, so not 2.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

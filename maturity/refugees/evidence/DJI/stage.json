@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "DJI-001",
-      "gaps": "No source found since October 2023 says: is registration or digital inclusion under way.",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source since October 2023 says registration of refugees has resumed. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 1: the US State Department says asylum and refugee status claims were not considered for most of 2024. Nothing says registration resumed, so not 2.",
+      "as_at": "2026-11-13"
     }
   ]
 }

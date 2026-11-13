@@ -1,6 +1,6 @@
 # Inclusion of refugees and IDPs: refugees and displaced people
 
-*As at 2026-10-17.*
+*As at 2026-11-13.*
 
 ## The norm
 
@@ -21,11 +21,11 @@ The Kampala Convention asks for registers and documents for internally displaced
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 6 |
-| 3 Established | 17 |
-| 2 Nascent | 10 |
-| 1 Absent | 5 |
-| Unplaced | 4 |
+| 4 Operating | 5 |
+| 3 Established | 11 |
+| 2 Nascent | 17 |
+| 1 Absent | 6 |
+| Unplaced | 3 |
 | No evidence | 8 |
 
 ## Countries
@@ -34,31 +34,40 @@ The Kampala Convention asks for registers and documents for internally displaced
 
 The number of refugees or displaced people using digital services was published in 2026.
 
-- The World Bank mission gives approximately 170,000 digital ID issuances to refugees ([source, 2026-03](https://documents1.worldbank.org/curated/en/099051826153515642/pdf/P179040-74a164c1-0bb2-49b6-8b5f-2da36395da02.pdf)).
+- The World Bank ISR reports 191,335 refugees had received a Fayda ID by 23 March 2026, up from 120,765 at 30 September 2025 ([source, 2026-03-23](https://documents1.worldbank.org/curated/en/099051826154014658/pdf/P179040-a6dcbb64-0dbc-48cc-9c1d-eecfc41d1d44.pdf)).
+- The World Bank ISR reports refugees holding Fayda IDs, 191,335 by 23 March 2026 ([source, 2026-03-23](https://documents1.worldbank.org/curated/en/099051826154014658/pdf/P179040-a6dcbb64-0dbc-48cc-9c1d-eecfc41d1d44.pdf)).
 - The World Bank ISR gives 191,335 refugees with a Fayda ID at 23 March 2026 ([source, 2026-03-23](https://documents1.worldbank.org/curated/en/099051826154014658/pdf/P179040-a6dcbb64-0dbc-48cc-9c1d-eecfc41d1d44.pdf)).
 
 ### Mauritania: 5 Leading
 
 The number of refugees or displaced people using digital services was published in 2023.
 
+- UNHCR states around 185,000 refugees were registered in the national population registry by December 2025 ([source, 2025-12](https://reliefweb.int/attachments/a6553726-0803-553f-8c28-d41f409e0d65/UNHCR%20Mauritania_Hodh%20Chargui%20Factsheet%20-%20January%202026%20%281%29.pdf)).
+- UNHCR states refugees in the camp have access to financial products including bank accounts ([source, 2023](https://reliefweb.int/attachments/f7061047-915e-4e87-a705-a8682c49a725/Mauritania%20Factsheet%20-%20March%202024%20%281%29.pdf)).
 - UNHCR states the number of refugees in the camp with access to financial products, including bank accounts, rose from 2,400 in 2022 to 5,600 in 2023 ([source, 2023](https://reliefweb.int/attachments/f7061047-915e-4e87-a705-a8682c49a725/Mauritania%20Factsheet%20-%20March%202024%20%281%29.pdf)).
 
 ### Nigeria: 5 Leading
 
 The number of refugees or displaced people using digital services was published in 2026.
 
+- NIMC's director-general says over 206,000 refugees and internally displaced persons have been enrolled into the national identity database ([source, 2026-05-15](https://www.vanguardngr.com/2026/05/nimc-enrolls-206000-refugees-idps-32000-inmates/)).
+- NIMC's director-general says refugees and internally displaced persons have been enrolled into the national identity database so that no one is left behind ([source, 2026-05-15](https://www.vanguardngr.com/2026/05/nimc-enrolls-206000-refugees-idps-32000-inmates/)).
 - NIMC's director-general puts refugees and internally displaced persons enrolled in the national identity database at over 206,000 ([source, 2026-05-15](https://www.vanguardngr.com/2026/05/nimc-enrolls-206000-refugees-idps-32000-inmates/)).
 
 ### Somalia: 5 Leading
 
 The number of refugees or displaced people using digital services was published in 2026.
 
+- NIRA launched a National ID Registration Initiative for IDPs so they can obtain the National Identity Card, funded by Switzerland and implemented with the Norwegian Refugee Council ([source, 2026-06-25](https://nira.gov.so/news/nira-launches-national-id-registration-initiative-for-internally-displaced-persons-in-somalia)).
+- UNDP says the Baidoa pilot registered 38,026 IDPs with biometric technology, against a target of 25,000, and they obtained the national ID ([source, 2026-01-13](https://undpsom.medium.com/baidoas-fast-tracked-cost-effective-and-scalable-legal-id-model-for-idps-0dbb909900eb)).
+- UNDP says IDPs in Baidoa could enrol in the national ID free of charge, the $5 registration fee being waived ([source, 2026-01-13](https://undpsom.medium.com/baidoas-fast-tracked-cost-effective-and-scalable-legal-id-model-for-idps-0dbb909900eb)).
 - UNDP says 38,026 IDPs were enrolled in the national ID in Baidoa, of over 500,000 IDPs there ([source, 2026-01-13](https://undpsom.medium.com/baidoas-fast-tracked-cost-effective-and-scalable-legal-id-model-for-idps-0dbb909900eb)).
 
 ### Burkina Faso: 4 Operating
 
 Refugees or displaced people could use SIM cards, mobile money or digital ID in 2023; how many do is not counted.
 
+- The Ministry of Territorial Administration reported more than 121,000 civil-status documents issued to internally displaced people in 2025 against 65,000 planned, per the Primature evaluation of its 2025 contract of objectives ([source, 2025](https://lefaso.net/spip.php?article144154)).
 - ANOTEL, applying decree 2023-1721 of 15 December 2023, states that the refugee identity card and refugee attestation issued by CONAREF are the only documents accepted for refugees to buy a SIM card ([source, 2023-12-15](https://burkina24.com/2024/05/13/communique-de-lassociation-nationale-des-operateurs-telecommunications-anotel/)).
 
 ### Chad: 4 Operating
@@ -90,12 +99,6 @@ Over 650,000 refugees held identity cards in 2024 and may register SIMs since 20
 - Biometric Update, citing SOS Media Burundi, says refugees who have received their ID cards have been able to open bank accounts and buy SIM cards ([source, 2026-06](https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees)).
 - NIDA says the national digital ID registration exercise covers refugees, with camp refugees registering at camp level and urban refugees at sector or cell offices, on presenting a refugee ID or proof of registration ([source, 2026-02-07](https://www.newtimes.co.rw/article/33156/news/technology/digital-id-nearly-15m-enrolled-registration-reaches-kigali)).
 
-### South Sudan: 4 Operating
-
-Refugees or displaced people could use SIM cards, mobile money or digital ID in 2026; how many do is not counted.
-
-- A GSMA, REACH and UNHCR survey of 2,135 households in four refugee-hosting locations found about 78% of respondents (refugee and host community together) had SIM cards registered in their own name, though focus groups revealed barriers to registration in certain locations ([source, 2026-02](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/wp-content/uploads/2026/06/GSMA_M4H_Digital-Access-and-Connectivity-in-South-Sudan-Barriers-for-Refugees-and-Host-Communities_06_2026.pdf)).
-
 ### Angola: 3 Established
 
 Refugees or displaced people were registered and documented in 2026; their access to digital services is not on record.
@@ -107,24 +110,6 @@ Refugees or displaced people were registered and documented in 2026; their acces
 Refugees or displaced people were registered and documented in 2026; their access to digital services is not on record.
 
 - Minister of Labour and Home Affairs Pius Mokgware handed citizenship documents to 64 refugees at the World Refugee Day commemoration at Dukwi, reported by BOPA ([source, 2026-06](https://dailynews.gov.bw/news-detail/91946)).
-
-### Burundi: 3 Established
-
-Refugees or displaced people were registered and documented in 2026; their access to digital services is not on record.
-
-- ONPRA and UNHCR Burundi announced completion of level-2 biometric registration of 54,343 Congolese refugees at the Busuma site ([source, 2026-07-06](https://data.unhcr.org/en/documents/details/123171)).
-
-### Central African Republic: 3 Established
-
-Refugees or displaced people were registered and documented in 2026; their access to digital services is not on record.
-
-- UNHCR states that as of June 2026, 37,389 Sudanese refugees have been registered in the Central African Republic since April 2023, in collaboration with the National Commission for Refugees (CNR) ([source, 2026-06](https://data.unhcr.org/en/documents/download/123755)).
-
-### Comoros: 3 Established
-
-Refugees or displaced people were registered and documented in 2025; their access to digital services is not on record.
-
-- UNHCR SAMCO's monthly statistical report, sourced to the UNHCR Joint Registration Exercise, lists Comoros as country of asylum with 17 asylum-seekers and 7 refugees, 24 in total, as of 30 November 2025 ([source, 2025-11-30](https://reliefweb.int/attachments/0d7e8995-cff6-5bdb-8af2-ca7661bb6e36/Monthly%20Protection%20Dashboard%20-%2030%20NOV%202025.pdf)).
 
 ### Congo: 3 Established
 
@@ -138,12 +123,6 @@ Refugees or displaced people were registered and documented in 2026; their acces
 
 - UNHCR says it and the Government registered 3,619 new arrivals (684 households) in northern Cote d'Ivoire from April to June 2026, and registered new arrivals receive refugee attestations or other documents that provide proof of identity ([source, 2026-06](https://data.unhcr.org/fr/documents/download/123738)).
 - UNHCR reports 29,233 refugees registered on an individual basis with DAARA in 2024 and 5,014 people assisted with civil status documents ([source, 2024-12](https://data.unhcr.org/en/documents/download/116174)).
-
-### Egypt: 3 Established
-
-Refugees or displaced people were registered and documented in 2026; their access to digital services is not on record.
-
-- UNHCR Egypt states 1,100,600 refugees and asylum-seekers were registered with it as of 30 April 2026, Sudanese over three-quarters ([source, 2026-04-30](https://data.unhcr.org/en/documents/download/122361)).
 
 ### Libya: 3 Established
 
@@ -164,12 +143,6 @@ Refugees or displaced people were registered and documented in 2024; their acces
 
 - UNHCR's 2024 results report says 79 refugees and asylum-seekers were registered individually in Mauritius, by remote registration, and protection documents were issued to them ([source, 2024](https://www.unhcr.org/sites/default/files/2025-06/South%20Africa%20MCO%20ARR%202024.pdf)).
 
-### Morocco: 3 Established
-
-Refugees or displaced people were registered and documented in 2024; their access to digital services is not on record.
-
-- UNHCR states it had registered 18,900 individuals from 64 countries in Morocco by the end of 2024, including 4,679 new registrations in the year, primarily Sudanese ([source, 2024-12](https://www.unhcr.org/where-we-work/countries/morocco)).
-
 ### Mozambique: 3 Established
 
 Refugees or displaced people were registered and documented in 2025; their access to digital services is not on record.
@@ -183,12 +156,6 @@ Namibia issued 682 identity cards to refugees in 2025; whether refugees may hold
 - Minister Iipumbu said 682 African guest identity cards were issued to refugees in 2025 to ease access to education, employment and financial services ([source, 2025](http://www.namibiansun.com/nmh-hub/over-117-000-ids-issued-in-2025-nmh006942-1-7902)).
 - UNHCR, with the government of Namibia, launched cash-based interventions delivered through MTC Namibia's mobile money service for refugees and asylum-seekers in Osire settlement, benefiting around 6,000 individuals and over 1,000 households ([source, 2025-02](https://namibia.un.org/en/289948-cash-based-interventions-provide-ray-hope-refugees-namibia-amid-severe-drought-and-funding)).
 
-### Sudan: 3 Established
-
-Refugees or displaced people were registered and documented in 2026; their access to digital services is not on record.
-
-- The Commission for Refugees states the registry approved by UNHCR exceeds 950,000 refugees, and that the Foreign Number system had previously been implemented ([source, 2026-05-24](https://www.fananews.com/language/en/refugees-commission-announces-foreign-number-system-to-strengthen-national-security/)).
-
 ### Togo: 3 Established
 
 Refugees or displaced people were registered and documented in 2025; their access to digital services is not on record.
@@ -201,6 +168,7 @@ Refugees or displaced people were registered and documented in 2025; their acces
 Refugees or displaced people were registered and documented in 2026; their access to digital services is not on record.
 
 - UNHCR says that by 31 March 2026, 22,474 individuals and 7,746 births were registered through mobile and continuous registration in Uganda ([source, 2026-03-31](https://data.unhcr.org/en/documents/download/123053)).
+- The Office of the Prime Minister says its Department of Refugees receives and documents refugees and issues refugee identity cards, household attestation forms, asylum seeker certificates and conventional travel documents ([source, 2025-12-04](https://opm.go.ug/refugees/)).
 
 ### Benin: 2 Nascent
 
@@ -208,6 +176,14 @@ Registration or a digital service for refugees or displaced people was under way
 
 - Decryptage reports that UNHCR and the Beninese authorities are working on the biometric integration of displaced people into the national register of natural persons (RNPP), with SP-CNRA annexes opened at Natitingou and Kandi, while 16,463 recognised refugees lack valid ID cards and about 12,400 asylum-seekers await formal registration ([source, 2026-08-24](https://decryptage.bj/2026/08/24/deplacements-forces-le-benin-accueille-8-400-nouveaux-refugies-en-6-mois/)).
 - UNHCR's RIMAP page says the National Commission for Refugees and Stateless Persons (SP-CNRA) oversees the registration process, which is currently being piloted in the north-western regions ([source, 2025](https://rimap.unhcr.org/countries/benin)).
+- ANIP said it plans to enrol about 30,000 refugees in November 2026 ([source, 2026-10-30](https://lematinal.bj/modernisation-des-services-didentification-au-benin-lanip-accelere-sa-revolution-numerique/)).
+
+### Burundi: 2 Nascent
+
+54,343 Congolese refugees were biometrically registered in 2026; whether they were issued identity documents is not known.
+
+- ONPRA and UNHCR Burundi announced completion of level-2 biometric registration of 54,343 Congolese refugees at the Busuma site ([source, 2026-07-06](https://data.unhcr.org/en/documents/details/123171)).
+- SOS Médias Burundi reports the Merankabandi programme (government, World Bank, WFP) paid selected refugees 73,600 BIF every two months via their mobile phones for two years, reaching nearly 8,000 refugee households in five camps ([source, 2025-09](https://www.sosmediasburundi.org/2025/09/22/buhumuza-clap-de-fin-pour-merankabandi-deux-annees-de-transferts-monetaires-qui-ont-transforme-la-vie-des-refugies/)).
 
 ### Cameroon: 2 Nascent
 
@@ -215,13 +191,34 @@ Registration or a digital service for refugees or displaced people was under way
 
 - GIZ states UNHCR registered more than 32,600 internally displaced persons in five West Region municipalities under the PESOP project, with a survey of about 2,800 households ([source, 2026-03](https://www.giz.de/en/regions/africa/cameroon/news/yaounde-presentation-socio-economic-profiling-results-internally)).
 - Biometric Update reports joint efforts by the Cameroon government and UNHCR are in progress to issue biometric ID cards to refugees ([source, 2025-08-07](https://www.biometricupdate.com/202508/new-biometric-id-card-center-opens-for-citizens-in-northern-cameroon)).
+- ID Tech Wire reports DGSN launched a rapid biometric ID enrolment campaign in the Far North, inaugurated in Maroua, to extend legal identification to displaced people ([source, 2025-08-02](https://idtechwire.com/cameroon-launches-rapid-biometric-id-program-in-far-north-to-address-displacement-and-delays)).
+
+### Central African Republic: 2 Nascent
+
+37,389 Sudanese refugees had been registered by 2026; whether they hold identity documents is not known.
+
+- UNHCR states that as of June 2026, 37,389 Sudanese refugees have been registered in the Central African Republic since April 2023, in collaboration with the National Commission for Refugees (CNR) ([source, 2026-06](https://data.unhcr.org/en/documents/download/123755)).
+- UNHCR reports 737 Sudanese refugees were registered individually in the April-June 2026 quarter, and 1,958 new arrivals in Manou were registered while several thousand more were not yet registered ([source, 2026-06](https://data.unhcr.org/en/documents/download/123755)).
+
+### Comoros: 2 Nascent
+
+UNHCR listed 24 registered asylum-seekers and refugees in 2025; whether they hold identity documents is not known.
+
+- UNHCR SAMCO's monthly statistical report, sourced to the UNHCR Joint Registration Exercise, lists Comoros as country of asylum with 17 asylum-seekers and 7 refugees, 24 in total, as of 30 November 2025 ([source, 2025-11-30](https://reliefweb.int/attachments/0d7e8995-cff6-5bdb-8af2-ca7661bb6e36/Monthly%20Protection%20Dashboard%20-%2030%20NOV%202025.pdf)).
 
 ### DR Congo: 2 Nascent
 
 Registration or a digital service for refugees or displaced people was under way in 2025; documents issued are not on record.
 
-- The interior minister told the Senate that the ONIP will identify the population by strata, province by province starting with Kinshasa, with refugees and stateless people and internally displaced people named as two of ten strata ([source, 2025-11-12](https://acp.cd/nation/rdc-le-senat-informe-de-la-delivrance-lannee-prochaine-de-la-carte-didentite/)).
 - ONIP and the CNR signed a protocol on 20 November 2024 for the systematic identification of refugees in the DRC, and both parties committed to start work immediately, mobilising experts to plan and run identification operations ([source, 2024-11-20](https://b-onetv.cd/protocole-daccord-entre-lonip-et-la-cnr-pour-lidentification-des-refugies-en-rdc/)).
+- The interior minister told the Senate that the ONIP will identify the population by strata, province by province starting with Kinshasa, with refugees and stateless people and internally displaced people named as two of ten strata ([source, 2025-11-12](https://acp.cd/nation/rdc-le-senat-informe-de-la-delivrance-lannee-prochaine-de-la-carte-didentite/)).
+
+### Egypt: 2 Nascent
+
+Over 1.1 million refugees and asylum-seekers were registered with UNHCR in 2026; how many hold identity documents is not known.
+
+- UNHCR Egypt states 1,100,600 refugees and asylum-seekers were registered with it as of 30 April 2026, Sudanese over three-quarters ([source, 2026-04-30](https://data.unhcr.org/en/documents/download/122361)).
+- Egypt's Ministry of Interior told all foreign nationals, with the National Committee chair naming refugees and migrants in particular, to register with GAPIN and obtain an ID card before 30 June 2024 or lose access to state services ([source, 2024-06](https://english.ahram.org.eg/NewsContent/50/1201/526564/AlAhram-Weekly/Egypt/Foreign-residents-status-regulated.aspx)).
 
 ### Ghana: 2 Nascent
 
@@ -242,6 +239,12 @@ Registration or a digital service for refugees or displaced people was under way
 
 - The RAMCO (formerly LRRRC) Executive Director said the Commission signed an MoU with the National Identification Registry and the Liberia Immigration Service to enhance identity management and legal documentation for persons of concern, especially refugees opting for integration ([source, 2026-06-24](https://lina.micat.gov.lr/lrrrc-rebrands-to-ramco-expands-mandate-to-cover-all-human-mobility/)).
 - Biometric Update reports, citing an LRRRC statement, that the LRRRC, NIR and LIS signed an MoU under which the NIR is to enrol eligible refugees, including integrated Ivorian refugees, in the National Biometric Identification System and issue biometric Refugee Identification cards ([source, 2026-03-04](https://www.biometricupdate.com/202603/liberia-govt-agencies-agree-on-framework-for-refugee-biometric-id)).
+
+### Morocco: 2 Nascent
+
+UNHCR had registered 18,900 refugees and asylum-seekers by 2024; whether they hold identity documents is not known.
+
+- UNHCR states it had registered 18,900 individuals from 64 countries in Morocco by the end of 2024, including 4,679 new registrations in the year, primarily Sudanese ([source, 2024-12](https://www.unhcr.org/where-we-work/countries/morocco)).
 
 ### Niger: 2 Nascent
 
@@ -264,12 +267,26 @@ Home Affairs began testing an online asylum intention portal in 2026; how many r
 - Minister Leon Schreiber said Home Affairs is developing a biometric online platform for asylum applications, expected to be operational by 10 November 2026, requiring applicants to submit biometrics to verify identity and detect earlier rejected claims ([source, 2026-10-11](https://www.sanews.gov.za/south-africa/home-affairs-digitise-asylum-applications-speed-processing)).
 - The Inter-Ministerial Committee on Migration said Home Affairs is expected to introduce a phased online intention-registration and appointment system for asylum applicants by 10 November 2026, issuing a receipt recording personal particulars, biometrics, a reference number and an appointment ([source, 2026-10-11](https://www.sanews.gov.za/south-africa/government-seek-court-guidance-asylum-ruling-introduce-registration-system)).
 
+### South Sudan: 2 Nascent
+
+448,243 refugees and asylum-seekers were registered by 2024; whether they were issued identity documents is not known.
+
+- The World Bank project paper states 448,243 refugees and asylum-seekers were registered in South Sudan as of March 2024, in over 21 locations ([source, 2024-03](https://documents1.worldbank.org/curated/en/099082324105031932/pdf/BOSIB1e1f76b710ba19bb915ace2051e7ff.pdf)).
+- The World Bank project paper says targeting and registration of beneficiaries of the SNSOP cash transfers, which expects 7,000 refugee households, has started using an MIS linked to a biometric registration tool and payment application ([source, 2024-08-21](https://documents1.worldbank.org/curated/en/099082324105031932/pdf/BOSIB1e1f76b710ba19bb915ace2051e7ff.pdf)).
+
+### Sudan: 2 Nascent
+
+Sudan held a registry of over 950,000 refugees in 2026 and planned smart cards; how many hold documents is not known.
+
+- Sudan's Commission for Refugees announced a plan to review refugee records and reactivate the "Foreign Number" system from June 2026, with smart cards issued to refugees, together with UNHCR and the Passports and Civil Registry Authority ([source, 2026-05-24](https://www.fananews.com/language/en/refugees-commission-announces-foreign-number-system-to-strengthen-national-security/)).
+- The Commission for Refugees states the registry approved by UNHCR exceeds 950,000 refugees, and that the Foreign Number system had previously been implemented ([source, 2026-05-24](https://www.fananews.com/language/en/refugees-commission-announces-foreign-number-system-to-strengthen-national-security/)).
+
 ### Zambia: 2 Nascent
 
 Registration or a digital service for refugees or displaced people was under way in 2025; documents issued are not on record.
 
-- The Home Affairs Minister announced that applications for refugee travel documents can now be made online through the ZamPortal, integrated into the Government Service Bus ([source, 2025-12-11](https://znbc.co.zm/?p=9752)).
 - Zambia's Ministry of Home Affairs is launching the Zambia Refugee and Host Communities Project, funded with $30 million by the World Bank with UNHCR support, under which biometric national registration cards will be issued to refugees and former refugees ([source, 2025-10-03](https://www.biometricupdate.com/202510/zambia-plans-domestic-digital-id-development-with-help-from-international-partners)).
+- The Home Affairs Minister announced that applications for refugee travel documents can now be made online through the ZamPortal, integrated into the Government Service Bus ([source, 2025-12-11](https://znbc.co.zm/?p=9752)).
 
 ### Djibouti: 1 Absent
 
@@ -282,6 +299,12 @@ A 2024 source says refugees or displaced people are not registered or are barred
 A 2026 source says refugees or displaced people are not registered or are barred from digital services.
 
 - UNHCR's Rights Mapping and Analysis Platform states Equatorial Guinea has no domestic framework for refugee status determination, so there are no formal procedures for asylum seekers to apply for refugee status and no established rights or entitlements for refugees ([source, 2026-09-02](https://rimap.unhcr.org/countries/equatorial-guinea)).
+
+### Eritrea: 1 Absent
+
+A 2026 source says Eritrea has no legal framework for refugees and withdrew their status; any registration is not known.
+
+- UNHCR's RIMAP profile says Eritrea has no national legal framework for refugees or asylum seekers and that, since the Elite Camp closed in 2012, the government withdrew refugee status from refugees living in urban areas, leaving their legal status unclear ([source, 2026](https://rimap.unhcr.org/countries/eritrea)).
 
 ### Lesotho: 1 Absent
 
@@ -302,29 +325,23 @@ A 2026 source says refugees or displaced people are not registered or are barred
 - GSMA research cited by Biometric Update says refugee women in Tanzania are more likely than men to rely on relatives or citizens to register SIM cards in third-party names because of identity documentation requirements ([source, 2026-09-14](https://www.biometricupdate.com/202609/digital-inclusion-for-refugee-women-must-go-beyond-connectivity-gsma)).
 - GSMA states that in Tanzania national identity requirements mean refugee women often rely on local citizens or intermediaries to register SIMs ([source, 2026-09-10](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/)).
 
-### Eritrea: Unplaced
-
-Nothing found since 2023 names registration of refugees and displaced people, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.
-
 ### Gambia: Unplaced
 
 Nothing found since 2023 names registration of refugees and displaced people, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.
+Not established: The one row says The Gambia joined regional initiatives on digital identity for displaced people; nothing since October 2023 says it plans or runs their registration.
 
 ### Guinea-Bissau: Unplaced
 
 Nothing found since 2023 names registration of refugees and displaced people, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.
+Not established: Every row dates from 2017 or 2018, outside the three-year window; nothing since October 2023 says whether refugees are registered or can use digital services.
 
 ### Malawi: Unplaced
 
 Nothing found since 2023 names registration of refugees and displaced people, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.
+Not established: The NRB statement that it may not register refugees dates from June 2023 and the plan from 2019, both outside the window; nothing since October 2023 is held.
 
 ### Algeria: No evidence
 

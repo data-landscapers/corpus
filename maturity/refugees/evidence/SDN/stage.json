@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "3",
-      "registration": "documented",
-      "access": "",
+      "stage": "2",
+      "registration": "underway",
+      "access": "open",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SDN-002",
-      "gaps": "No source found since October 2023 says refugees or displaced people may hold SIM cards, mobile money or bank accounts as a rule; the one account held (SDN-004) is of a single displaced woman using a banking app in 2024, which does not carry the country. No count of displaced people with such services is held.",
-      "note": "The Commission for Refugees' UNHCR-approved registry exceeds 950,000 refugees under the Foreign Number system (SDN-002), so 3. A single displaced person paid through a banking app (SDN-004) does not show that displaced people may use such services, so not 4.",
-      "as_at": "2026-11-06"
+      "stage_sources": "SDN-001;SDN-002",
+      "gaps": "The registry of over 950,000 refugees is registered with a number, but no source says identity documents were issued to them; smart cards are planned from June 2026. One displaced woman paid through a banking app in 2024 does not carry the country. No source since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.",
+      "note": "Stage 2: the Commission for Refugees holds a registry of over 950,000 refugees and plans smart cards from June 2026. No source says documents were issued with a number, so question 2 is unmet.",
+      "as_at": "2026-11-13"
     }
   ]
 }

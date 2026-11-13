@@ -9,10 +9,10 @@
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-001;BEN-002",
-      "gaps": "No source found since October 2023 says: are they registered and documented.",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "BEN-001;BEN-002;BEN-003",
+      "gaps": "No source since October 2023 says refugees were issued documents with a number; 16,463 recognised refugees lacked valid ID cards in 2026.",
+      "note": "Stage 2: UNHCR and the authorities are integrating displaced people into the national register, and ANIP planned to enrol about 30,000 refugees in November 2026. No issue of documents with a number is held, so not 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

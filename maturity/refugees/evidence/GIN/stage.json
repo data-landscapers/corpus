@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "2",
-   "registration": "underway",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-001",
-   "gaps": "No source found since October 2023 says: are they registered and documented.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "2",
+      "registration": "underway",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-001",
+      "gaps": "No source since October 2023 says refugees were issued documents with a number; the 2018 asylum law's refugee ID cards await an implementing decree.",
+      "note": "Stage 2: the CNISR registers asylum seekers with UNHCR. The refugee ID cards the 2018 law provides await a decree, and no number documented is held, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

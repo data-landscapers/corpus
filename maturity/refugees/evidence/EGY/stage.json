@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "3",
-   "registration": "documented",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-001",
-   "gaps": "No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "2",
+      "registration": "underway",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-001;EGY-002",
+      "gaps": "The 1,100,600 refugees and asylum-seekers of April 2026 are registered with a number, but no source says identity documents were issued to them. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 2: 1,100,600 refugees and asylum-seekers were registered with UNHCR by April 2026, and the government told them to register for an ID card in 2024. No source says documents were issued with a number, so question 2 is unmet.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

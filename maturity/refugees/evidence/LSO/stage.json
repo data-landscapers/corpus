@@ -1,17 +1,18 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "1",
-   "registration": "none",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-001",
-   "gaps": "No source found since October 2023 says: is registration or digital inclusion under way.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "1",
+      "registration": "none",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-001",
+      "gaps": "No source since October 2023 says the freeze on refugee documents has ended. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 1: the government's freeze on refugee identity cards and travel documents, begun in July 2025, was still in force in 2026. Nothing says issue has resumed, so not 2.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

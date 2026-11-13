@@ -9,10 +9,10 @@
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-002;COD-001",
-      "gaps": "No source found since October 2023 says: are they registered and documented.",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "COD-001;COD-002",
+      "gaps": "No source since October 2023 says refugees or displaced people were issued documents with a number. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 2: ONIP and the CNR agreed in 2024 to identify refugees, and in 2025 the minister named refugees and displaced people among the population to be identified. Nothing says documents were issued, so not 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

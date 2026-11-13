@@ -9,10 +9,10 @@
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-004",
-      "gaps": "No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "BFA-001;BFA-004",
+      "gaps": "No source since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.",
+      "note": "Stage 4: over 121,000 civil-status documents went to displaced people in 2025, and decree 2023-1721 lets refugees buy a SIM with their refugee card. No count of refugees or displaced people with a SIM, an account or an ID is held, so not 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

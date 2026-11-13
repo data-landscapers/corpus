@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "2",
-   "registration": "underway",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-001",
-   "gaps": "No source found since October 2023 says: are they registered and documented.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "2",
+      "registration": "underway",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-001",
+      "gaps": "No source since October 2023 says how many refugees are registered and documented. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 2: asylum applicants are registered by the national commission and given a renewable receipt. No number of people registered and documented is held, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

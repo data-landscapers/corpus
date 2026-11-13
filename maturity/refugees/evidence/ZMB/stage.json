@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "2",
-   "registration": "underway",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-002;ZMB-001",
-   "gaps": "No source found since October 2023 says: are they registered and documented.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "2",
+      "registration": "underway",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-001;ZMB-002",
+      "gaps": "No source since October 2023 says refugees were issued documents with a number. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 2: a 2025 World Bank project will issue national registration cards to refugees, and refugee travel documents can be applied for online. No issue of documents with a number is held, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

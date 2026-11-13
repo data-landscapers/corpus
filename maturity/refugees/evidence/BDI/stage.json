@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "3",
-   "registration": "documented",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-001",
-   "gaps": "No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "2",
+      "registration": "underway",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001;BDI-002",
+      "gaps": "The 54,343 Congolese refugees of July 2026 are registered with a number, but no source says identity documents were issued to them. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 2: ONPRA and UNHCR completed biometric registration of 54,343 refugees at Busuma in 2026, which shows registration under way. No source says documents were issued to them, so question 2 is unmet.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -9,10 +9,10 @@
       "counted": "counted",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-003",
+      "stage_sources": "NGA-001;NGA-002;NGA-003",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-10-18"
+      "note": "Stage 5: NIMC counts over 206,000 refugees and displaced people enrolled in the national identity database in May 2026, which answers registration, access and the count.",
+      "as_at": "2026-11-13"
     }
   ]
 }

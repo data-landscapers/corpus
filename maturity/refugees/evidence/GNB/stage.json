@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-10-18"
+      "gaps": "Every row dates from 2017 or 2018, outside the three-year window; nothing since October 2023 says whether refugees are registered or can use digital services.",
+      "note": "Unplaced: the registration and ID cards for Senegalese refugees are from 2017 and 2018 and can set no stage. Nothing inside the window is held.",
+      "as_at": "2026-11-13"
     }
   ]
 }

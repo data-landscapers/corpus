@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "3",
-   "registration": "documented",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-001",
-   "gaps": "No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "3",
+      "registration": "documented",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001;UGA-003",
+      "gaps": "No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID. NIRA says refugees cannot apply for the national ID.",
+      "note": "Stage 3: 22,474 people were registered by March 2026, and the Office of the Prime Minister issues refugee identity cards to those it registers. NIRA says refugees cannot apply for the national ID, and nothing opens SIMs or accounts to them, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -9,10 +9,10 @@
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CMR-001;CMR-002",
-      "gaps": "No source found since October 2023 says: are they registered and documented.",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "CMR-001;CMR-002;CMR-003",
+      "gaps": "The 32,600 displaced people of the West Region are registered with a number, but no source says identity documents were issued to them. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 2: UNHCR registered over 32,600 displaced people in the West Region, and biometric ID cards for refugees and displaced people are in progress. No source says documents were issued with a number, so not 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

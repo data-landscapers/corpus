@@ -9,10 +9,10 @@
       "counted": "counted",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-006;ETH-009",
+      "stage_sources": "ETH-007;ETH-008;ETH-009",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-10-17"
+      "note": "Stage 5: the World Bank counts 191,335 refugees holding a Fayda digital ID in March 2026, which answers registration, access and the count. GSMA's 2026 account of refugee women registering SIMs in others' names is a barrier, not a bar.",
+      "as_at": "2026-11-13"
     }
   ]
 }

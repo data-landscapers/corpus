@@ -1,17 +1,18 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "4",
-   "registration": "documented",
-   "access": "open",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SSD-001",
-   "gaps": "No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "2",
+      "registration": "underway",
+      "access": "open",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-003;SSD-004",
+      "gaps": "The 448,243 refugees and asylum-seekers of March 2024 are registered with a number, but no source says identity documents were issued to them; the World Bank says refugees are disproportionately without recognised ID. The 78% SIM share mixes refugees and hosts.",
+      "note": "Stage 2: refugees are registered and biometric registration for cash transfers has begun, but no source says documents were issued, so question 2 is unmet. Refugees hold SIMs in their own name, but each step must be met, so not 3 or 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

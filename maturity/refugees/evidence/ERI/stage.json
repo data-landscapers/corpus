@@ -1,17 +1,18 @@
 {
- "iso3": "ERI",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "unplaced",
-   "registration": "",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "ERI",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "1",
+      "registration": "none",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ERI-001",
+      "gaps": "No source since October 2023 says registration of refugees is planned or under way. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 1: UNHCR says in 2026 that Eritrea has no legal framework for refugees and withdrew status from urban refugees, the kind of statement that sets Equatorial Guinea and Madagascar at 1. Nothing says registration is planned, so not 2.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

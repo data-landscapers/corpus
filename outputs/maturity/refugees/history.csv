@@ -24,3 +24,50 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,KEN,include.access--inclusion-of-refugees-and-idps,fact,2,4,KEN-004;KEN-001,"A February 2024 count of over 650,000 registered refugees with ID cards issued answers registration; with the 2025 SIM rule the cell reaches stage 4"
 2026-11-12,RWA,include.access--inclusion-of-refugees-and-idps,fact,2,4,RWA-007;RWA-002;RWA-004,MINEMA's June 2026 figure of 93% of eligible refugees issued ID cards answers registration; with refugee access to the digital ID and accounts the cell reaches stage 4
 2026-11-12,GHA,include.access--inclusion-of-refugees-and-idps,fact,2,2,GHA-003;GHA-002,"About 800 displaced people helped to register for the Ghana Card in the past year: registration under way, issuance not stated; stage unchanged"
+2026-11-13,ETH,include.access--inclusion-of-refugees-and-idps,review,5,5,ETH-007;ETH-008;ETH-009,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,MRT,include.access--inclusion-of-refugees-and-idps,review,5,5,MRT-001;MRT-004;MRT-005,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,NGA,include.access--inclusion-of-refugees-and-idps,review,5,5,NGA-001;NGA-002;NGA-003,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,SOM,include.access--inclusion-of-refugees-and-idps,review,5,5,SOM-001;SOM-003;SOM-004;SOM-005,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,BFA,include.access--inclusion-of-refugees-and-idps,review,4,4,BFA-001;BFA-004,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,SSD,include.access--inclusion-of-refugees-and-idps,review,4,2,SSD-003;SSD-004,"Rebuild: 448,243 registered (2024) with no documents stated; question 2 unmet, step rule holds the cell at 2"
+2026-11-13,AGO,include.access--inclusion-of-refugees-and-idps,review,3,3,AGO-001,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,BDI,include.access--inclusion-of-refugees-and-idps,review,3,2,BDI-001;BDI-002,"Rebuild: 54,343 biometrically registered (2026) with no documents stated; question 2 unmet"
+2026-11-13,BWA,include.access--inclusion-of-refugees-and-idps,review,3,3,BWA-001,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,CAF,include.access--inclusion-of-refugees-and-idps,review,3,2,CAF-001;CAF-002,"Rebuild: 37,389 registered (2026) with no documents stated; question 2 unmet"
+2026-11-13,CIV,include.access--inclusion-of-refugees-and-idps,review,3,3,CIV-001;CIV-003,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,COG,include.access--inclusion-of-refugees-and-idps,review,3,3,COG-001,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,COM,include.access--inclusion-of-refugees-and-idps,review,3,2,COM-001,Rebuild: 24 registered (2025) with no documents stated; question 2 unmet
+2026-11-13,EGY,include.access--inclusion-of-refugees-and-idps,review,3,2,EGY-001;EGY-002,"Rebuild: 1,100,600 registered with UNHCR (2026) with no documents stated; question 2 unmet"
+2026-11-13,LBY,include.access--inclusion-of-refugees-and-idps,review,3,3,LBY-001;LBY-004,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,MAR,include.access--inclusion-of-refugees-and-idps,review,3,2,MAR-001,"Rebuild: 18,900 registered (2024) with no documents stated; question 2 unmet"
+2026-11-13,MLI,include.access--inclusion-of-refugees-and-idps,review,3,3,MLI-001,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,MOZ,include.access--inclusion-of-refugees-and-idps,review,3,3,MOZ-003,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,MUS,include.access--inclusion-of-refugees-and-idps,review,3,3,MUS-001,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,SDN,include.access--inclusion-of-refugees-and-idps,review,3,2,SDN-001;SDN-002,"Rebuild: registry of 950,000 with no documents stated, smart cards planned; question 2 unmet"
+2026-11-13,TGO,include.access--inclusion-of-refugees-and-idps,review,3,3,TGO-003;TGO-004,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,UGA,include.access--inclusion-of-refugees-and-idps,review,3,3,UGA-001;UGA-003,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,BEN,include.access--inclusion-of-refugees-and-idps,review,2,2,BEN-001;BEN-002;BEN-003,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,CMR,include.access--inclusion-of-refugees-and-idps,review,2,2,CMR-001;CMR-002;CMR-003,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,COD,include.access--inclusion-of-refugees-and-idps,review,2,2,COD-001;COD-002,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,GIN,include.access--inclusion-of-refugees-and-idps,review,2,2,GIN-001,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,LBR,include.access--inclusion-of-refugees-and-idps,review,2,2,LBR-001;LBR-002,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,NER,include.access--inclusion-of-refugees-and-idps,review,2,2,NER-001;NER-002,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,SEN,include.access--inclusion-of-refugees-and-idps,review,2,2,SEN-001,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,ZMB,include.access--inclusion-of-refugees-and-idps,review,2,2,ZMB-001;ZMB-002,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,DJI,include.access--inclusion-of-refugees-and-idps,review,1,1,DJI-001,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,GNQ,include.access--inclusion-of-refugees-and-idps,review,1,1,GNQ-001,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,LSO,include.access--inclusion-of-refugees-and-idps,review,1,1,LSO-001,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,MDG,include.access--inclusion-of-refugees-and-idps,review,1,1,MDG-001,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,TZA,include.access--inclusion-of-refugees-and-idps,review,1,1,TZA-001;TZA-002,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,ERI,include.access--inclusion-of-refugees-and-idps,review,unplaced,1,ERI-001,"Rebuild: RIMAP 2026 says no refugee framework and status withdrawn, as GNQ and MDG at 1"
+2026-11-13,GMB,include.access--inclusion-of-refugees-and-idps,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,GNB,include.access--inclusion-of-refugees-and-idps,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,MWI,include.access--inclusion-of-refugees-and-idps,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,CPV,include.access--inclusion-of-refugees-and-idps,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,DZA,include.access--inclusion-of-refugees-and-idps,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,GAB,include.access--inclusion-of-refugees-and-idps,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,SLE,include.access--inclusion-of-refugees-and-idps,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,STP,include.access--inclusion-of-refugees-and-idps,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,SYC,include.access--inclusion-of-refugees-and-idps,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,TUN,include.access--inclusion-of-refugees-and-idps,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held
+2026-11-13,ZWE,include.access--inclusion-of-refugees-and-idps,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder and its neighbours; stage held

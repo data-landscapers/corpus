@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "1",
-   "registration": "none",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MDG-001",
-   "gaps": "No source found since October 2023 says: is registration or digital inclusion under way.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "1",
+      "registration": "none",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-001",
+      "gaps": "No source since October 2023 says registration of refugees is planned or under way. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 1: UNHCR says Madagascar has no working asylum system and refugees receive no legal status. Nothing says registration is planned, so not 2.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

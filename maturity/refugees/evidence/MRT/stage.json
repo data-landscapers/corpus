@@ -9,10 +9,10 @@
       "counted": "counted",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-005",
+      "stage_sources": "MRT-001;MRT-004;MRT-005",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-10-18"
+      "note": "Stage 5: around 185,000 refugees were in the national population registry by December 2025, and UNHCR counts 5,600 camp refugees with bank accounts or other financial products in 2023. Every question of the ladder is met inside the window.",
+      "as_at": "2026-11-13"
     }
   ]
 }

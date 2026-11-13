@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "3",
-      "registration": "documented",
+      "stage": "2",
+      "registration": "underway",
       "access": "",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CAF-001",
-      "gaps": "No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "CAF-001;CAF-002",
+      "gaps": "The 37,389 Sudanese refugees of June 2026 are registered with a number, but no source says identity documents were issued to them. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 2: UNHCR and the CNR had registered 37,389 Sudanese refugees by June 2026, and registration of new arrivals goes on. No source says documents were issued to them, so question 2 is unmet.",
+      "as_at": "2026-11-13"
     }
   ]
 }

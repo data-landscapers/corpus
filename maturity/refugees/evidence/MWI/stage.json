@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.",
-      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
-      "as_at": "2026-10-18"
+      "gaps": "The NRB statement that it may not register refugees dates from June 2023 and the plan from 2019, both outside the window; nothing since October 2023 is held.",
+      "note": "Unplaced: both rows predate October 2023 and can set no stage. Nothing inside the window says refugees are registered or barred.",
+      "as_at": "2026-11-13"
     }
   ]
 }
