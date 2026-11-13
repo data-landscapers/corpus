@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: NAM
-ledger_rows: 17
+ledger_rows: 19
 not_held: 9
-record: 0814b77e3aea
+record: 1e8ca21c117f
 ---
 
 # News, Oct – Nov 2026
@@ -29,6 +29,8 @@ record: 0814b77e3aea
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
@@ -45,6 +47,22 @@ record: 0814b77e3aea
 **[Cabinet Briefs](https://neweralive.na/cabinet-briefs-15/)** — New Era, 4 November 2026
 
 Namibia's Cabinet announced on 3 November 2026 that it had approved a revised National Broadband Policy and delayed the e-ID card launch. The ICT ministry is to tackle gaps in access, usage, affordability and skills. The e-ID launch, set for September 2026, now awaits regulations under a 2024 Act.
+
+</div>
+
+</div>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Communications regulator's regulatory sandbox framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CRAN develops regulatory framework for AI, satellite internet and blockchain](https://thebrief.com.na/2026/11/cran-develops-regulatory-framework-for-ai-satellite-internet-and-blockchain/)** — The Brief (Namibia), 12 November 2026
+
+Namibia's Communications Regulatory Authority is developing a regulatory sandbox, The Brief reported on 12 November 2026. It would let operators, start-ups, universities and government projects test AI, satellite broadband, direct-to-cell, drones, blockchain and digital-identity services under set conditions. A steering committee would recommend changes to regulation; the framework is still at stakeholder consultation.
 
 </div>
 
@@ -315,6 +333,20 @@ Namibia scored 1.11 out of 4 on the Africa AI Governance Index 2026, in the Emer
 **[Government directs AI policy for civil servants as ICT Summit opens in Ongwediva](https://economist.com.na/government-directs-ai-policy-for-civil-servants-as-ict-summit-opens-in-ongwediva/)** — Namibia Economist, 13 October 2026
 
 Namibia's Cabinet has directed the Office of the Prime Minister and the ICT ministry to develop an internal policy on civil servants' use of artificial intelligence, the ICT minister announced at the National ICT Summit. No timeline or draft was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Ayre Index of AI readiness</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibia Could Gain US$219 Million from AI, but Youth Face Readiness Challenges - Namibia Daily News](https://namibiadailynews.info/namibia-could-gain-us219-million-from-ai-but-youth-face-readiness-challenges/)** — Namibia Daily News, 10 November 2026
+
+Ayre Index 2026: 36th of 56 Commonwealth states, 42.7/100; 47% youth unemployment, 59.3% electricity access.
 
 </div>
 
