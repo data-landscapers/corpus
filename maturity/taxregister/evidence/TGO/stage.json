@@ -9,10 +9,10 @@
       "nationalid": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-003",
-      "gaps": "No source found since October 2023 says the taxpayer number is tied to the national ID.",
-      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "TGO-002;TGO-003",
+      "gaps": "No source found since November 2023 says the taxpayer number is tied to the national ID.",
+      "note": "Rebuild: the OTR creates the NIF online or at tax offices, and the NIF is required for customs clearance (TGO-002, TGO-003, 2025); nothing ties it to the national ID, so 4 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

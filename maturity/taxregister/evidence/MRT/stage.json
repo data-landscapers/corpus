@@ -9,10 +9,10 @@
       "nationalid": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-002",
-      "gaps": "No source found since October 2023 says the taxpayer number is tied to the national ID.",
-      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MRT-001;MRT-002",
+      "gaps": "No source found since November 2023 says the taxpayer number is tied to the national ID.",
+      "note": "Rebuild: since April 2025 the APIM portal gives tax registration with the commerce register in one procedure (MRT-001, MRT-002); nothing ties the number to the national ID, so 4 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

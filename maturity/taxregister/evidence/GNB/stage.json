@@ -1,17 +1,18 @@
 {
- "iso3": "GNB",
- "cells": [
-  {
-   "sub_indicator": "taxpayers",
-   "stage": "3",
-   "register": "inservice",
-   "shared": "",
-   "nationalid": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNB-001;GNB-004",
-   "gaps": "No source found since October 2023 says the taxpayer number is shared with business registration or customs.",
-   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
-  }
- ]
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "taxpayers",
+      "stage": "4",
+      "register": "inservice",
+      "shared": "shared",
+      "nationalid": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNB-001;GNB-003",
+      "gaps": "No source found since November 2023 says the taxpayer number is tied to the national ID.",
+      "note": "Rebuild: the DGCI issues the NIF only through Kontaktu (GNB-001, December 2025), and the CFE issues it as part of company registration (GNB-003, dated 2026, from a source published by the as-at). 3 to 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

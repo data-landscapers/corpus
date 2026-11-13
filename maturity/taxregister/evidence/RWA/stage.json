@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxpayers",
-      "stage": "3",
+      "stage": "4",
       "register": "inservice",
-      "shared": "",
+      "shared": "shared",
       "nationalid": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-003",
-      "gaps": "No source dated by the as-at says the taxpayer number is shared with business registration or customs: the RRA page that says RDB registration gives a single TIN (RWA-002) is dated only to 2026, which stands for the year's end. Nothing ties the number to the national ID.",
-      "note": "Reassessed 2026-11-12: the RRA's 2024 notice has property owners declare online with their TIN and password (RWA-003), so numbers come from a computerised register in service. The shared-number row is dated only to 2026 and is not yet inside the as-at, so not 4.",
-      "as_at": "2026-11-12"
+      "stage_sources": "RWA-003;RWA-002",
+      "gaps": "No source found since November 2023 says the taxpayer number is tied to the national ID.",
+      "note": "Rebuild: the RRA's 2024 notice has taxpayers declare online with their TIN (RWA-003), and its registration page says RDB registration gives a single TIN (RWA-002). That page is dated only 2026, from a source published by the as-at, so inside the window: 3 to 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

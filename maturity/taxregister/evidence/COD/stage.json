@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "taxpayers",
-   "stage": "4",
-   "register": "inservice",
-   "shared": "shared",
-   "nationalid": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-002",
-   "gaps": "No source found since October 2023 says the taxpayer number is tied to the national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "taxpayers",
+      "stage": "4",
+      "register": "inservice",
+      "shared": "shared",
+      "nationalid": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001;COD-002",
+      "gaps": "No source found since November 2023 says the taxpayer number is tied to the national ID.",
+      "note": "Rebuild: the DGI issues the NIF online through e-NIF and at the business-creation one-stop shop (COD-001, COD-002, December 2025); nothing ties it to the national ID, so 4 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

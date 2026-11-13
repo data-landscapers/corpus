@@ -1,55 +1,55 @@
 iso3,stage,register,shared,nationalid,stage_sources
-AGO,3,inservice,,,AGO-001
+AGO,3,inservice,,,AGO-003;AGO-001
 BDI,3,inservice,,,BDI-001;BDI-002
-BEN,5,inservice,shared,linked,BEN-001;BEN-005
-BFA,4,inservice,shared,,BFA-002
+BEN,3,inservice,,,BEN-006;BEN-004
+BFA,unplaced,,,,
 BWA,no evidence,,,,
 CAF,unplaced,,,,
 CIV,no evidence,,,,
 CMR,3,inservice,,,CMR-001;CMR-003
 COD,4,inservice,shared,,COD-002
-COG,unplaced,,,,
+COG,4,inservice,shared,,COG-004
 COM,no evidence,,,,
-CPV,unplaced,,,,
-DJI,4,inservice,shared,,DJI-001
-DZA,3,inservice,,,DZA-002;DZA-001
+CPV,4,inservice,shared,,CPV-003
+DJI,unplaced,,,,
+DZA,4,inservice,shared,,DZA-003
 EGY,unplaced,,,,
 ERI,no evidence,,,,
-ETH,unplaced,,,,
+ETH,3,inservice,,,ETH-003
 GAB,3,inservice,,,GAB-001
-GHA,4,inservice,shared,,GHA-002
+GHA,5,inservice,shared,linked,GHA-003;GHA-005
 GIN,4,inservice,shared,,GIN-003
 GMB,4,inservice,shared,,GMB-002
-GNB,3,inservice,,,GNB-001;GNB-004
+GNB,4,inservice,shared,,GNB-003
 GNQ,2,underway,,,GNQ-001
 KEN,3,inservice,,,KEN-001
-LBR,5,inservice,shared,linked,LBR-001
+LBR,unplaced,,,,
 LBY,no evidence,,,,
 LSO,3,inservice,,,LSO-001;LSO-002
-MAR,no evidence,,,,
+MAR,3,inservice,,,MAR-002
 MDG,3,inservice,,,MDG-001
 MLI,unplaced,,,,
 MOZ,4,inservice,shared,,MOZ-002;MOZ-001
 MRT,4,inservice,shared,,MRT-002
-MUS,unplaced,,,,
+MUS,4,inservice,shared,,MUS-002
 MWI,3,inservice,,,MWI-003
 NAM,4,inservice,shared,,NAM-001
 NER,unplaced,,,,
-NGA,5,inservice,shared,linked,NGA-001;NGA-004
-RWA,unplaced,,,,
-SDN,4,inservice,shared,,SDN-001
-SEN,unplaced,,,,
+NGA,5,inservice,shared,linked,NGA-008;NGA-001
+RWA,4,inservice,shared,,RWA-002
+SDN,unplaced,,,,
+SEN,3,inservice,,,SEN-001;SEN-003
 SLE,unplaced,,,,
 SOM,no evidence,,,,
-SSD,3,inservice,,,SSD-001
+SSD,3,inservice,,,SSD-002;SSD-003
 STP,no evidence,,,,
-SWZ,4,inservice,shared,,SWZ-001
-SYC,5,inservice,shared,linked,SYC-002
-TCD,3,inservice,,,TCD-001
+SWZ,unplaced,,,,
+SYC,3,inservice,,,SYC-001
+TCD,4,inservice,shared,,TCD-003
 TGO,4,inservice,shared,,TGO-003
 TUN,4,inservice,shared,,TUN-001
 TZA,3,inservice,,,TZA-001
-UGA,5,inservice,shared,linked,UGA-003;UGA-013
+UGA,3,inservice,,,UGA-014;UGA-015
 ZAF,3,inservice,,,ZAF-001
 ZMB,3,inservice,,,ZMB-001
-ZWE,3,inservice,,,ZWE-001;ZWE-002
+ZWE,3,inservice,,,ZWE-001;ZWE-004

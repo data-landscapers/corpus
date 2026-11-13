@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether taxpayers are registered on computer.",
-      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: the one row (CAF-001, 2022) has GUFE issue the NIF at company registration but names no computerised register inside three years, so unplaced stands.",
+      "as_at": "2026-11-13"
     }
   ]
 }

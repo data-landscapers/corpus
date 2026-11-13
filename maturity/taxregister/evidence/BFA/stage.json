@@ -9,9 +9,10 @@
    "nationalid": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "BFA-002",
-   "gaps": "No source found since October 2023 says the taxpayer number is tied to the national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
+   "stage_sources": "BFA-001;BFA-002",
+   "gaps": "No source found since November 2023 ties the taxpayer number to the national ID. None restates the 2023 FAQ.",
+   "note": "Rebuild: both rows come from the DGI's October 2023 FAQ (BFA-001, BFA-002), now just over three years old. Age does not expire a stage and nothing later contradicts it, so 4 holds.",
+   "as_at": "2026-11-13"
   }
  ]
 }

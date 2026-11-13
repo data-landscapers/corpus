@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "taxpayers",
-   "stage": "3",
-   "register": "inservice",
-   "shared": "",
-   "nationalid": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-001;BDI-002",
-   "gaps": "No source found since October 2023 says the taxpayer number is shared with business registration or customs.",
-   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "taxpayers",
+      "stage": "3",
+      "register": "inservice",
+      "shared": "",
+      "nationalid": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001;BDI-002",
+      "gaps": "No source found since November 2023 says the taxpayer number is shared with business registration or customs.",
+      "note": "Rebuild: the OBR's e-KORI platform has taken all new registrations online since 4 August 2026 (BDI-002); nothing shows the number shared with business registration or customs, so 3 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

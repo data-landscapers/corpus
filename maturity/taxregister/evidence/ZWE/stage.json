@@ -9,10 +9,10 @@
       "nationalid": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZWE-001;ZWE-002",
-      "gaps": "No source found since October 2023 says the taxpayer number is shared with business registration or customs.",
-      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "ZWE-001;ZWE-004",
+      "gaps": "No source found since November 2023 says the taxpayer number is shared with business registration or customs.",
+      "note": "Rebuild: ZIMRA allocates TINs through the TaRMS portal (ZWE-001, ZWE-004); nothing shows the TIN shared with business registration or customs, so 3 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

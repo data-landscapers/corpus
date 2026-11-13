@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether taxpayers are registered on computer.",
-      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: the one row (MLI-001) is from 2018, older than three years, and nothing later says how taxpayers are registered; unplaced stands.",
+      "as_at": "2026-11-13"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "taxpayers",
-   "stage": "no evidence",
-   "register": "",
-   "shared": "",
-   "nationalid": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says how taxpayers are registered.",
-   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "taxpayers",
+      "stage": "no evidence",
+      "register": "",
+      "shared": "",
+      "nationalid": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says how taxpayers are registered.",
+      "note": "Rebuild: no row on the tax register has been found, so no stage is set.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

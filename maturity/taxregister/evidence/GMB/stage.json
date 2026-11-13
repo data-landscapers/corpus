@@ -9,10 +9,10 @@
       "nationalid": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GMB-002",
-      "gaps": "No source found since October 2023 says the taxpayer number is tied to the national ID.",
-      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "GMB-001;GMB-002",
+      "gaps": "No source found since November 2023 says the taxpayer number is tied to the national ID.",
+      "note": "Rebuild: GRA issues TINs online and the TIN is used for customs transactions (GMB-001, GMB-002, July 2024); the ITAS link to the ID database is still to come (GMB-003), so 4 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

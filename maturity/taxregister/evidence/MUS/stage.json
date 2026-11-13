@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxpayers",
-      "stage": "unplaced",
-      "register": "",
-      "shared": "",
+      "stage": "4",
+      "register": "inservice",
+      "shared": "shared",
       "nationalid": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether taxpayers are registered on computer.",
-      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MUS-001;MUS-002",
+      "gaps": "No source found since November 2023 says the taxpayer number is tied to the national ID.",
+      "note": "Rebuild: the MRA issues a Tax Account Number at registration in its databases and gives firms one on receipt of their business registration number (MUS-001, MUS-002). Both are dated only 2026, from a source published by the as-at, so inside the window: unplaced to 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

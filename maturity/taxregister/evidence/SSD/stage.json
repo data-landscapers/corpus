@@ -1,17 +1,18 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "taxpayers",
-   "stage": "3",
-   "register": "inservice",
-   "shared": "",
-   "nationalid": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SSD-001",
-   "gaps": "No source found since October 2023 says the taxpayer number is shared with business registration or customs.",
-   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "taxpayers",
+      "stage": "3",
+      "register": "inservice",
+      "shared": "",
+      "nationalid": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-002;SSD-003",
+      "gaps": "No source found since November 2023 says the taxpayer number is shared with business registration or customs.",
+      "note": "Rebuild: the SSRA's eTax portal takes TIN applications online (SSD-002, November 2026); nothing shows the TIN shared with business registration or customs, so 3 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

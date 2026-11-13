@@ -21,11 +21,11 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 12 |
-| 3 Established | 21 |
+| 4 Operating | 16 |
+| 3 Established | 19 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 11 |
+| Unplaced | 9 |
 | No evidence | 7 |
 
 ## Countries
@@ -42,8 +42,9 @@ In 2025 Ghana's national ID card served as the tax number, issued online and at 
 
 The taxpayer number was tied to the national ID in 2026.
 
+- The Nigeria Revenue Service article says a system-generated 13-digit Tax ID is automatically generated when a new company registers, and existing businesses retrieve theirs from the NRS Portal ([source, 2026-01-01](https://nrsportal.ng/corporate-tax-in-2026-using-cac-numbers-as-nrs-identifiers/)).
+- The article says a company's CAC RC number functions as its NRS identifier and the NRS database is integrated with the CAC from 1 January 2026, so no separate TIN application is needed ([source, 2026-01-01](https://nrsportal.ng/corporate-tax-in-2026-using-cac-numbers-as-nrs-identifiers/)).
 - TechCabal says the Tax Identification Number, issued by the Nigeria Revenue Service and the Joint Revenue Board, is generated from the National Identification Number for individuals ([source, 2026-01-12](https://techcabal.com/2026/01/12/nigeria-crypto-tax-tin-nin/)).
-- The article says an individual's National Identification Number serves as the NRS identifier, giving a 13-digit Tax ID ([source, 2026-01-01](https://nrsportal.ng/corporate-tax-in-2026-using-cac-numbers-as-nrs-identifiers/)).
 
 ### Algeria: 4 Operating
 
@@ -57,7 +58,15 @@ Firms got one number shared by the commercial register and the tax office in 202
 
 The taxpayer number was shared with business registration or customs in 2023; no source found reports a tie to the national ID.
 
+- The Direction Générale des Impôts FAQ says taxpayers are registered in the registre des contribuables or the software for Identifiants financiers uniques (IFU), and that salaried users can use the eSintax platform to file declarations ([source, 2023-10-17](https://dgi.bf/faq-immatriculation-des-contribuables/)).
 - The Direction Générale des Impôts FAQ says customs clearance procedures linked to foreign trade cannot be carried out without an IFU, the single number issued to users of the financial administration ([source, 2023-10-17](https://dgi.bf/faq-immatriculation-des-contribuables/)).
+
+### Cape Verde: 4 Operating
+
+The tax number was requested online and issued with company registration in 2026; no source found ties it to the national ID.
+
+- The GOV.CV portal page says a tax identification number (NIF) can be requested online through the portal or app, first issue free, issued within up to 2 working days ([source, 2026](https://www.gov.cv/nif-pessoa-singular)).
+- The NIF is obtained within the same PEO package as commercial registry formalisation and social security enrolment ([source, 2026](https://peo.gov.cv/sobre-nos)).
 
 ### Chad: 4 Operating
 
@@ -79,25 +88,43 @@ One taxpayer number served tax, business registration and customs in 2025; wheth
 
 The taxpayer number was shared with business registration or customs in 2025; no source found reports a tie to the national ID.
 
+- The DGI says NIF registration is free and that applicants should request the NIF online via the e-NIF platform or else at tax offices ([source, 2025-12-02](https://dgi.gouv.cd/wp-content/uploads/2025/12/COMMUNIQUE%CC%81-OFFICIEL-N%C2%B001_061.pdf)).
 - The DGI lists the Guichet Unique de Création d'Entreprise among the places where a NIF can be requested ([source, 2025-12-02](https://dgi.gouv.cd/wp-content/uploads/2025/12/COMMUNIQUE%CC%81-OFFICIEL-N%C2%B001_061.pdf)).
 
 ### Gambia: 4 Operating
 
 The taxpayer number was shared with business registration or customs in 2024; no source found reports a tie to the national ID.
 
+- The Gambia Revenue Authority brochure describes online TIN e-registration through its web portal, with an instant e-acknowledgement and a printable TIN certificate on approval ([source, 2024-07](https://www.gra.gm/download-file/235e4301-48f2-11ef-b086-029254d29bb1)).
 - The brochure lists customs transactions (imports and exports) among the uses of the TIN, alongside tax filing and payment ([source, 2024-07](https://www.gra.gm/download-file/235e4301-48f2-11ef-b086-029254d29bb1)).
 
 ### Guinea: 4 Operating
 
 The taxpayer number was shared with business registration or customs in 2025; no source found reports a tie to the national ID.
 
+- The Direction generale des impots announced on 21 June 2025 that tax registration in Guinea is done exclusively online, with APIP's portal collecting the data and the eTax portal completing it ([source, 2025-06-21](https://www.guinee360.com/22/06/2025/immatriculation-en-ligne-la-direction-nationale-des-impots-fixe-les-regles/)).
 - APIP says its one-stop shop issues the NIF tax number together with the RCCM at business creation, within 72 hours ([source, 2025-02-17](https://apip.gov.gn/guichet-unique-de-la-creation-dentreprise/)).
+
+### Guinea-Bissau: 4 Operating
+
+The tax number was issued on computer and with company registration in 2026; no source found ties it to the national ID.
+
+- DGCI Instruction 25/2025 states that production, validation and issue of the NIF may be done only through the module in the DGCI's Kontaktu system, and bans issue through SIGEF ([source, 2025-12-03](https://kontaktu.mef.gw/instructions)).
+- The CFE page states that the NIF is issued as part of company registration at the CFE, the data being sent automatically to the DGCI, so applicants need not go to the DGCI ([source, 2026](https://cfe.gw/numero-de-identificacao-fiscal/)).
 
 ### Mauritania: 4 Operating
 
 The taxpayer number was shared with business registration or customs in 2025; no source found reports a tie to the national ID.
 
+- Since 4 April 2025 a tax registration can be obtained through the APIM 'Mes services' portal as part of company creation ([source, 2025-04-04](https://ami.mr/fr/archives/268316)).
 - The portal gives commerce register, tax registration and social security affiliation in one procedure at company creation ([source, 2025-04-04](https://ami.mr/fr/archives/268316)).
+
+### Mauritius: 4 Operating
+
+Firms got a tax number from a computerised register on business registration in 2026; no source found ties it to the national ID.
+
+- The Mauritius Revenue Authority says it issues a Tax Account Number at registration in its databases to individuals with a tax obligation and to entities ([source, 2026](https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/mauritius-tin.pdf)).
+- The Mauritius Revenue Authority says it allocates a TAN to entities and business individuals as soon as they receive their Business Registration Number ([source, 2026](https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/mauritius-tin.pdf)).
 
 ### Mozambique: 4 Operating
 
@@ -113,10 +140,18 @@ Taxpayer numbers were issued online and required on customs declarations in 2026
 - The Namibia Revenue Agency's notice of 1 April 2026 says stakeholders can apply for a Taxpayers Identification Number through its ITAS link ([source, 2026-04-01](https://www.namra.org.na/documents/cms/uploaded/public-notice-asycudaworld-golive-date-extended-e62d0a7fe7.pdf)).
 - NamRA says the Trader Identification Number it issues is mandatory on every customs declaration in ASYCUDAWorld from 1 April 2026, with declarations lacking a valid TIN rejected automatically ([source, 2026-04-01](https://www.namra.org.na/documents/cms/uploaded/public-notice--mandatory-tin-on-asycudaworld--9-dec-2025-7d1548a64e.pdf)).
 
+### Rwanda: 4 Operating
+
+Firms registering with the business registry got a single tax number in 2026; no source found ties it to the national ID.
+
+- Rwanda Revenue Authority says taxpayers log in to its website with their TIN and password to declare property tax, which implies a computerised register keyed on TIN ([source, 2024](https://www.rra.gov.rw/en/home?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=2415&cHash=ed34adc0d34fabbccdf4972aa88585f1)).
+- The Rwanda Revenue Authority says business registration through the RDB portal, integrated with RRA systems, provides a single unique TIN ([source, 2026](https://www.rra.gov.rw/en/domestic-tax-services/registration-de-registration/default-title)).
+
 ### Togo: 4 Operating
 
 The taxpayer number was shared with business registration or customs in 2025; no source found reports a tie to the national ID.
 
+- OTR says individuals can create a NIF particulier online at nif.otr.tg or at tax offices, the platform also searching existing NIFs and issuing a registration sheet ([source, 2025](https://www.otr.tg/index.php/fr/blog/otr-actu/598-magazine-otr-actu-n-18-janvier-juin-2025/file.html)).
 - OTR says article 7 of the tax procedures book requires one unique NIF per taxpayer, and the individual NIF is required for customs clearance of personal goods and for property registration ([source, 2025](https://www.otr.tg/index.php/fr/blog/otr-actu/598-magazine-otr-actu-n-18-janvier-juin-2025/file.html)).
 
 ### Tunisia: 4 Operating
@@ -166,13 +201,6 @@ Taxpayers were registered on computer in 2025; no source found reports a number 
 
 - The Direction Générale des Impôts' e-tax guide says taxpayers can start registration online through the 'Je m'immatricule' button, with a taxpayer number (NIF) held by enrolled taxpayers and DGI agents completing checks at a tax office ([source, 2025-10-22](https://e-tax.dgi.ga/_espaces/ECONTRIBUABLEDGIGA/domain/engine/application/guides/guide-utilisateur-adhesion-et-connexion.pdf)).
 
-### Guinea-Bissau: 3 Established
-
-Taxpayers were registered on computer in 2025; no source found reports a number shared with business registration or customs.
-
-- DGCI Instruction 25/2025 states that production, validation and issue of the NIF may be done only through the module in the DGCI's Kontaktu system, and bans issue through SIGEF ([source, 2025-12-03](https://kontaktu.mef.gw/instructions)).
-- The Kontaktu portal reproduces DGCI Instruction 25/2025, which confines production, validation and issue of the NIF to the Kontaktu module and bans SIGEF for it ([source, 2025-12-03](https://kontaktu.mef.gw/)).
-
 ### Kenya: 3 Established
 
 Taxpayers were registered on computer in 2025; no source found reports a number shared with business registration or customs.
@@ -205,12 +233,6 @@ Since 2026 a tax platform registers foreign digital-service providers and issues
 - The Direction generale des impots launched in May 2026 the electronic platform 'Taxation on Digital Services' for non-resident foreign providers to register, declare their Moroccan turnover and pay VAT, under decree 2.25.862 of 27 November 2025 ([source, 2026-05](https://fr.hespress.com/489385-publicite-meta-applique-la-tva-au-maroc-des-octobre.html)).
 - Decree 2.25.862 of 27 November 2025 requires non-resident remote service suppliers to register on an electronic platform set up by the tax administration, which then issues them a tax identification number electronically; it enters into force six months after publication ([source, 2025-11-27](https://ecoactu.ma/wp-content/uploads/2025/12/decret-pour-la-TVA-sur-les-services-a-distance-au-Maroc-fournis-par-des-prestataires-non-residents-Art-115-Bis-du-CGI.pdf)).
 
-### Rwanda: 3 Established
-
-Taxpayers declared tax online with their tax number in 2024; no source dated so far says the number is shared with business registration.
-
-- Rwanda Revenue Authority says taxpayers log in to its website with their TIN and password to declare property tax, which implies a computerised register keyed on TIN ([source, 2024](https://www.rra.gov.rw/en/home?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=2415&cHash=ed34adc0d34fabbccdf4972aa88585f1)).
-
 ### Senegal: 3 Established
 
 Taxpayers registered online and received a tax number in 2024 and 2026; whether customs or business registration use the same number is not known.
@@ -233,9 +255,10 @@ Taxpayers were registered on computer in 2026; no source found reports a number 
 
 ### South Sudan: 3 Established
 
-Taxpayers were registered on computer in 2024; no source found reports a number shared with business registration or customs.
+Taxpayers could apply for a tax number online in 2026; no source found reports a number shared with business registration or customs.
 
-- The eServices portal says all taxpayers, citizens, foreigners, businesses and NGOs can now apply online for a Taxpayer Identification Number on eTax from the South Sudan Revenue Authority ([source, 2024](https://www.eservices.gov.ss/)).
+- The eServices portal says all taxpayers, citizens, foreigners, businesses and NGOs can now apply for a Taxpayer Identification Number on eTax online through the South Sudan Revenue Authority Domestic Division ([source, 2026-11-11](https://accounts.eservices.gov.ss/mdas)).
+- The South Sudan Revenue Authority's notice of 12 June 2026, as reported by Radio Yei, tells taxpayers to update contact details in the electronic TIN registration system and records arrears in its Domestic Tax Integrated System ([source, 2026-06-12](https://radioyei.org/news/business/economy/revenue-authority-hunts-unregistered-businesses/)).
 
 ### Tanzania: 3 Established
 
@@ -262,19 +285,13 @@ Taxpayers were registered on computer in 2024; no source found reports a number 
 Taxpayers were registered on computer in 2026; no source found reports a number shared with business registration or customs.
 
 - ZIMRA states taxpayers register online through its TaRMS Self-Service Portal, where a Taxpayer Identification Number is allocated once an official approves the application ([source, 2026-01](https://www.zimra.co.zw/news/2346:taxpayer-registration)).
-- ZIMRA Public Notice 75 of 2024 says taxpayers are held in TaRMS under a Taxpayer Identity Number (TIN) that banks validate against payments, with tax clearance certificates issued automatically ([source, 2024-10-07](https://www.zimra.co.zw/public-notices?download=4100%3Apublic-notice-75-of-2024-submission-of-outstanding-returns-and-payment-of-tax)).
+- ZIMRA says more than 1.2 million Taxpayer Identification Numbers have been issued through TaRMS, which handles TIN registration, with over 184,000 active taxpayers ([source, 2025-08-18](https://www.techzim.co.zw/2025/08/zimra-commissions-tarms-digital-tax-system/)).
 
 ### Equatorial Guinea: 2 Nascent
 
 A computerised taxpayer register was under way in 2026; none in service is on record.
 
 - The Consejo Interministerial of Equatorial Guinea, reported by the government press office, took up a draft decree establishing a new codification of the Número de Identificación Fiscal (NIF) for natural persons, legal persons and entities without legal personality ([source, 2026-08-10](https://www.guineaecuatorialpress.com/noticias/el_consejo_interministerial_analiza_nuevas_medidas_para_reforzar_el_empleo_la_fiscalidad_y_la_cooperacion_internacional)).
-
-### Cape Verde: Unplaced
-
-Nothing found since 2023 names a computerised taxpayer register, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
 
 ### Central African Republic: Unplaced
 
@@ -307,12 +324,6 @@ The ID registry connected new taxpayers to the Revenue Authority in 2024, but no
 Not established: Nothing found since October 2023 says whether taxpayers are registered on computer, or that the TIN is shared with business registration or customs.
 
 ### Mali: Unplaced
-
-Nothing found since 2023 names a computerised taxpayer register, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
-
-### Mauritius: Unplaced
 
 Nothing found since 2023 names a computerised taxpayer register, so no stage is set.
 

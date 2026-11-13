@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "taxpayers",
-   "stage": "3",
-   "register": "inservice",
-   "shared": "",
-   "nationalid": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001",
-   "gaps": "No source found since October 2023 says the taxpayer number is shared with business registration or customs.",
-   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "taxpayers",
+      "stage": "3",
+      "register": "inservice",
+      "shared": "",
+      "nationalid": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001",
+      "gaps": "No source found since November 2023 says the taxpayer number is shared with business registration or customs.",
+      "note": "Rebuild: KRA's iTax registration module issues PINs online, by app and by USSD (KEN-001, December 2025); nothing shows the PIN shared with business registration or customs, so 3 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

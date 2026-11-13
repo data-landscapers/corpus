@@ -9,10 +9,10 @@
       "nationalid": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-001;NGA-004",
+      "stage_sources": "NGA-002;NGA-003;NGA-001",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: the NRS generates a Tax ID when a company registers, uses the CAC number for firms and the NIN for individuals (NGA-002, NGA-003, NGA-001, January 2026); every rung is shown, so 5 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }
