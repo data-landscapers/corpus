@@ -3,9 +3,9 @@ title: Eswatini — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: SWZ
-ledger_rows: 33
+ledger_rows: 34
 not_held: 3
-record: 8b696c74eb6f
+record: 055d4746b96b
 ---
 
 # News, Oct – Nov 2026
@@ -351,6 +351,20 @@ DeltaPay has gone live on the Eswatini Payment Switch, the Central Bank of Eswat
 **[ShareSha users can send money to any mobile number](https://times.co.sz/47252/news/sharesha-users-can-send-money-to-any-mobile-number/)** — Times of Eswatini, 27 October 2026
 
 Eswatini Bank trained agents and residents in Nhlangano, Shiselweni, on its ShareSha digital wallet. The wallet lets users send money to any mobile number, including recipients not registered on the platform. Sign-up is by national ID, through the app, USSD or a branch, and no bank account is needed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mandatory electronic filing of tax returns</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ERS targets multiple-income earners ahead of deadline](https://swazidailynews.com/11962/business/ers-targets-multiple-income-earners-ahead-of-deadline/)** — Eswatini Daily News, 10 November 2026
+
+2025/26 returns eFiling-only, other channels non-compliant; kiosks, MoMo payment; deadline 30 Nov 2026.
 
 </div>
 

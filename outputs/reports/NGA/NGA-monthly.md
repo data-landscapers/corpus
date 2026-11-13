@@ -4,8 +4,8 @@ compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: NGA
 ledger_rows: 105
-not_held: 9
-record: 2a7256c13888
+not_held: 8
+record: 30472ee6f074
 ---
 
 # News, Oct – Nov 2026

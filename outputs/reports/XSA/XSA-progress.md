@@ -3,16 +3,16 @@ title: Southern Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: XSA
-ledger_rows: 59
+ledger_rows: 61
 not_held: 2
-record: b6f0c03b8bda
+record: 3c08fce2d2ac
 ---
 
 # Southern Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-13 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 59 bodies, instruments and systems on this place's ledger, 28 changed position between 2025-11-01 and 2026-11-13, 14 did not, 15 carry no stated baseline, and 2 are ***Not held*** at both ends.*
+*Of 61 bodies, instruments and systems on this place's ledger, 28 changed position between 2025-11-01 and 2026-11-13, 14 did not, 17 carry no stated baseline, and 2 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 103 sources for this place in the window — 17 in the earlier half (2025-11 to 2026-05), 86 in the later (2026-06 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -76,6 +76,7 @@ The regulators' association's own year opened on process. It held the [first Fin
 | Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
 |---|---|---|---|
 | SADC Data Protection Model Law | The 2012 model law, unrevised, with a modernisation consultancy tendered February 2022 | [Unchanged; no revised text and no outcome of the 2022 revision on record](https://www.itu.int/en/ITU-D/Projects/ITU-EC-ACP/HIPSSA/Documents/FINAL%20DOCUMENTS/FINAL%20DOCS%20ENGLISH/sadc_model_law_data_protection.pdf) | No change |
+| CRASA as regional data-governance authority | ***Baseline not held*** | [A sub-group of the regulators' association drafted a framework for it to act as SADC's regional data-governance authority; no adoption found](https://www.techreviewafrica.com/news/2133/crasa-legal-and-policy-committee-meeting-advances-regional-data-governance-and-ai-regulation-in-sadc) | ***Baseline not held*** |
 | SADC Regional Working Group on Data Protection | ***Baseline not held*** | [A regional working group on harmonising data-protection policy, law and institutions, to which ministers asked member states to name representatives in June 2026; Mozambique's appointment of its data-protection institute is the one on file (2026-10)](https://techreviewafrica.com/news/7857/mozambique-joins-sadc-regional-working-group-on-data-protection) | ***Baseline not held*** |
 
 ### Standards
@@ -85,6 +86,7 @@ The regulators' association's own year opened on process. It held the [first Fin
 | Lilongwe Declaration on Collaborative Regulation | Did not exist | [Adopted with six shared principles and seven areas of collaborative action; CRASA has not published the text (2026-08-05)](https://researchictafrica.net/2026/05/04/how-do-we-move-the-crasa-summits-commitment-to-collaborative-regulation-from-intent-to-evidence-led-action/) | Movement |
 | Regional data governance harmonisation roadmap | A first regional workshop devoted to digital, held at Antananarivo in September 2025 on data governance and electronic commerce | [Policymakers, regulators and technical experts from eight Southern African states worked towards a roadmap for harmonising data governance frameworks, at a workshop convened by a UN agency with a continental digital body and a member state ministry, working from a data governance toolkit and undertaking national self-assessments](https://www.unesco.org/en/articles/unesco-supports-southern-africa-harmonise-data-governance) | Movement |
 | SADC One Network Area roaming framework | Reduced rates between Botswana and Namibia only (2024-08) | [Six states applying harmonised tariffs, with cuts between 10% and 98.6%](https://techafricanews.com/2026/03/13/botswana-and-five-sadc-countries-slash-roaming-tariffs-under-one-network-area-framework/) | Movement |
+| SADC strategic framework for data governance | ***Baseline not held*** | [Member states validated the region's first unified strategic framework for data governance at a forum in Seychelles under an EU- and German-backed initiative; the framework text has not been found](https://intic.gov.mz/sadc-avanca-para-quadro-regional-unificado-de-governacao-de-dados/) | ***Baseline not held*** |
 
 ### AI
 

@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 7
-sources_cited: 212
+sources_cited: 215
 sections_written: 39
 not_established: 1
 acquire_lines: 37
@@ -53,6 +53,8 @@ The fee schedule falls hardest on the smallest holders: mandatory officer certif
 Zimbabwe's reach across its borders is physical before it is institutional. Its [regional integration score rose 9.0 points over the decade to 2023, to 49.5 out of 100 and 22nd of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zw.pdf), on a measure of trade, movement and infrastructure rather than of digital instruments; the country sits in both COMESA and SADC.
 
 The clearest cross-border digital link is fibre. Powertel and Paratus have lit the first phase of a [corridor from Plumtree to Bulawayo](https://www.newsday.co.zw/local-news/article/200057978/powertel-join-paratus-zimbabwe-to-launch-new-digital-highway), the Zimbabwean leg of a Botswana–Zimbabwe–Zambia spine, with a second phase northward scheduled. Traffic exchange is more local than the labels suggest: the [Harare Internet Exchange Point](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Documents/2020/contributions/RI2_POTRAZ-Zimbabwe-IXP_RDFAFR2020.pdf), built with an African Union grant, had every national access provider connected by October 2020 but only a handful of international peers, and the domestic instant payment switch [has no cross-border capability](https://www.africanenda.org/uploads/files/siips_2024_ZIPIT_CaseStudy_en.pdf).
+
+[In early 2026 Zimbabwe was one of six SADC states that cut and harmonised mobile roaming tariffs under the One Network Area framework](https://www.bocra.org.bw/sites/default/files/BOCRA_ONA_Press_Release.pdf). [On 1 July 2026 the ICT minister pledged to fast-track ratification of the African Union's Malabo Convention](https://gemnation.co.zw/zimbabwe-moves-to-criminalise-malicious-ai-generated-deepfakes/), which Zimbabwe has not ratified. [In July 2025 the telecommunications regulator signed a data-protection memorandum with South Africa's Information Regulator](https://www.heraldonline.co.zw/zim-sa-sign-data-protection-agreement/), described as SADC's first bilateral one.
 
 What Zimbabwe does export is practice rather than rules. It [presented its e-passport and civil registration model](https://www.zbcnews.co.zw/african-registrars-look-to-replicate-zimbabwes-e-passport-success/) to the Annual Expert Group Meeting for African Registrars General and the Africa CRVS Board in July 2026. CIPESA's assessment finds the [National AI Strategy's six pillars](https://cipesa.org/2026/05/zimbabwes-national-ai-strategy-policy-lessons-for-africa/) — talent; infrastructure and computational sovereignty; adoption; governance and ethics; research and development; international collaboration — aligned with the African Union's Continental AI Strategy and Agenda 2063.
 
