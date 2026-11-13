@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: RWA
 ledger_rows: 35
 not_held: 7
-record: a9f549ee70c1
+record: c82ba409b59a
 ---
 
 # News, Oct – Nov 2026
@@ -196,7 +196,7 @@ FAO reported a USD 100,000 grant to Rwanda in its IATI file, committed on 31 Oct
 
 **[ICT Sector Statistics Report as of the Second Quarter of 2026](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Sectors/ICT/Statistics/Quarterly_publication/ICT_Sector_Statistics_Report_as_of_the_Second_Quarter_of_the_year_2026.pdf)** — Rwanda Utilities Regulatory Authority, 14 October 2026
 
-Satellite 4.8% of fixed broadband, 4,002 subscriptions at June 2026; Starlink traffic 7.1 million GB in the quarter.
+Rwanda's utilities regulator, RURA, reported ICT statistics for April to June 2026. Satellite accounted for 4,002 fixed broadband subscriptions at June 2026, or 4.8% of the total. Starlink carried 7.1 million GB of traffic in the quarter.
 
 </div>
 

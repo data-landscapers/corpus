@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: NGA
 ledger_rows: 106
 not_held: 8
-record: c750f15117d5
+record: 4cc3ca2ac61e
 ---
 
 # News, Oct – Nov 2026
@@ -1930,7 +1930,7 @@ NITDA and the National Bureau of Statistics launched the Nigeria Tech Outlook Re
 
 **[Ground Segment](https://ncc.gov.ng/ground-segment)** — Nigerian Communications Commission, 13 November 2026
 
-Starlink holds 19 gateway earth-station licences from July 2022; OneWeb, Yahsat, Avanti and Rascom capacity also listed.
+Nigeria's communications regulator lists the licensed ground segment operators for satellite services. Starlink Internet Services Nigeria holds 19 gateway earth station licences, each effective from July 2022. Capacity from OneWeb, Yahsat, Avanti and Rascom is also listed. The latest entry is effective 2 September 2026.
 
 </div>
 
@@ -1938,7 +1938,7 @@ Starlink holds 19 gateway earth-station licences from July 2022; OneWeb, Yahsat,
 
 **[Internet Service Provider Data](https://www.ncc.gov.ng/market-data-reports/internet-service-provider-data)** — Nigerian Communications Commission, 13 November 2026
 
-Per-operator Q2 2026 table: Spectranet 111,384, Starlink 98,642 on one point of presence; Q3 fibre led by MTN at 242,916.
+Nigeria's communications regulator lists subscribers for each internet service provider. For the second quarter of 2026, Spectranet shows 111,384 and Starlink 98,642. The page also carries third quarter 2026 fibre figures, led by MTN with 242,916.
 
 </div>
 

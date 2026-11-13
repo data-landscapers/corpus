@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: SEN
 ledger_rows: 46
 not_held: 2
-record: caefdcf5477f
+record: 2e960025fe05
 ---
 
 # News, Oct – Nov 2026
@@ -232,7 +232,7 @@ Visa and Senegal's ministry of telecommunications and digital affairs signed a t
 
 **[Satellite et réseaux terrestres : le Sénégal ajuste son cadre réglementaire](https://www.osiris.sn/satellite-et-reseaux-terrestres-le-senegal-ajuste-son-cadre-reglementaire.html)** — OSIRIS, 5 October 2026
 
-ARTP consults to 21 October 2026 on a licence, authorisation or declaration regime for satellite operators.
+Senegal's telecoms regulator, ARTP, opened a national consultation on satellite services that ran to 21 October 2026. It asks whether satellite operators should hold a licence, an authorisation or a declaration. It also asks whether they should meet rules on coverage, service quality, data location and local presence, and how they should work with terrestrial operators.
 
 </div>
 

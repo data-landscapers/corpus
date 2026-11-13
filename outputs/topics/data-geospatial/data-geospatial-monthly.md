@@ -3,8 +3,8 @@ title: Geospatial data — News, October – November 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: data.geospatial
-places: BDI; COM; CIV; DJI; LSO; LBR; SYC; TGO; ZWE
-record: e4e8c8876cbb
+places: BDI; COM; CIV; DJI; LSO; LBR; NGA; SYC; TGO; ZWE
+record: 3fa703f0c5b8
 ---
 
 # News, Oct – Nov 2026
@@ -21,6 +21,8 @@ record: e4e8c8876cbb
 <a href="#lesotho">Lesotho</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#liberia">Liberia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -148,6 +150,30 @@ The Liberia Meteorological Service publishes an impact-based forecast that state
 **[SAP018: Enhancing Climate Information Systems for Resilient Development in Liberia (Liberia CIS)](https://www.greenclimate.fund/project/sap018)** — Green Climate Fund, 5 November 2026
 
 The Green Climate Fund approved project SAP018 on 13 November 2020, with the African Development Bank as accredited entity. It funds climate information and early-warning services in Liberia, aiming to reach 7.7 million people. The grant is USD 10 million of a USD 11.4 million total, and completion is set for October 2027.
+
+</div>
+
+</div>
+
+## Nigeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Starlink Nigeria service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ground Segment](https://ncc.gov.ng/ground-segment)** — Nigerian Communications Commission, 13 November 2026
+
+Nigeria's communications regulator lists the licensed ground segment operators for satellite services. Starlink Internet Services Nigeria holds 19 gateway earth station licences, each effective from July 2022. Capacity from OneWeb, Yahsat, Avanti and Rascom is also listed. The latest entry is effective 2 September 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Internet Service Provider Data](https://www.ncc.gov.ng/market-data-reports/internet-service-provider-data)** — Nigerian Communications Commission, 13 November 2026
+
+Nigeria's communications regulator lists subscribers for each internet service provider. For the second quarter of 2026, Spectranet shows 111,384 and Starlink 98,642. The page also carries third quarter 2026 fibre figures, led by MTN with 242,916.
 
 </div>
 

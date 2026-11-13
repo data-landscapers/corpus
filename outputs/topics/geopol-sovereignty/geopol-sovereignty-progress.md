@@ -4,7 +4,7 @@ compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 subject: geopol.sovereignty
 places: DZA; ERI; MUS; NAM; NGA; SLE; ZWE
-record: b4517fcfb97a
+record: 57c6a3825f0e
 ---
 
 # Digital sovereignty: progress report, November 2025 – November 2026
@@ -12,8 +12,6 @@ record: b4517fcfb97a
 *7 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Digital sovereignty
 

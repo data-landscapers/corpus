@@ -8654,6 +8654,11 @@
     "written": "2026-10-27",
     "summary": "Sudan's Northern State met the National Technology Company on 5 October 2026 to restore the finance ministry's Wafi resource-management system, in use since 2017 and stopped by the war in 2023. The state says next year's budget will run through the system, with procurement, stores and budget modules to follow."
   },
+  "2026-10-05-sen-satellite-et-reseaux-terrestres-le-senegal-ajuste-son-cadre-reglementa": {
+    "published": "2026-10-05",
+    "written": "2026-11-13",
+    "summary": "Senegal's telecoms regulator, ARTP, opened a national consultation on satellite services that ran to 21 October 2026. It asks whether satellite operators should hold a licence, an authorisation or a declaration. It also asks whether they should meet rules on coverage, service quality, data location and local presence, and how they should work with terrestrial operators."
+  },
   "2026-10-05-sle-slmonitor-slrsa-cyber-intrusion-fake-vehicle-licences": {
     "published": "2026-10-05",
     "written": "2026-10-16",
@@ -11784,6 +11789,11 @@
     "written": "2026-10-14",
     "summary": "Nigeria's identity agency NIMC said the national identity database is hosted wholly in Nigeria, not in the cloud, and run by its own staff. It said about 63 government agencies have integrated with the database and 142 million people held a NIN in September 2026."
   },
+  "2026-10-14-rwa-ict-sector-statistics-report-as-of-the-second-quarter-of-2026": {
+    "published": "2026-10-14",
+    "written": "2026-11-13",
+    "summary": "Rwanda's utilities regulator, RURA, reported ICT statistics for April to June 2026. Satellite accounted for 4,002 fixed broadband subscriptions at June 2026, or 4.8% of the total. Starlink carried 7.1 million GB of traffic in the quarter."
+  },
   "2026-10-14-sdn-digital-transformation-authority-first-federal-state-council-meetings": {
     "published": "2026-10-14",
     "written": "2026-11-11",
@@ -13668,6 +13678,11 @@
     "published": "2026-10-21",
     "written": "2026-10-24",
     "summary": "Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou on 15-16 October 2026, set 1 January 2027 for national company lists to support a regional identification code and 31 January for a technical unit to supervise interconnected customs data. Nine of the 18 recommendations from their 2025 meeting have been implemented, six are under way and three are outstanding."
+  },
+  "2026-10-21-nam-amutse-sets-80-electricity-access-target": {
+    "published": "2026-10-21",
+    "written": "2026-11-13",
+    "summary": "Namibia's energy minister, Modestus Amutse, said in October 2026 that the country can reach 80% electricity access by 2030. The government's official target is 70% by 2030. The 2023 census put access at just under 60%, and more than 300,000 households still lack power."
   },
   "2026-10-21-nam-ijg-pitches-mobile-savings": {
     "published": "2026-10-21",
@@ -19653,5 +19668,15 @@
     "published": "2026-11-12",
     "written": "2026-11-13",
     "summary": "In a Herald column of 12 November 2026, Louis Mondo argues that Zimbabwe should connect its existing government systems so citizens submit information once. The column names TaRMS, ZimConnect, the e-Cadastre and the Digital Land Administration Platform as the base. It says TaRMS already links to the company registrar, the deeds office and civil registry."
+  },
+  "2026-11-13-nga-ground-segment": {
+    "published": "2026-11-13",
+    "written": "2026-11-13",
+    "summary": "Nigeria's communications regulator lists the licensed ground segment operators for satellite services. Starlink Internet Services Nigeria holds 19 gateway earth station licences, each effective from July 2022. Capacity from OneWeb, Yahsat, Avanti and Rascom is also listed. The latest entry is effective 2 September 2026."
+  },
+  "2026-11-13-nga-internet-service-provider-data": {
+    "published": "2026-11-13",
+    "written": "2026-11-13",
+    "summary": "Nigeria's communications regulator lists subscribers for each internet service provider. For the second quarter of 2026, Spectranet shows 111,384 and Starlink 98,642. The page also carries third quarter 2026 fibre figures, led by MTN with 242,916."
   }
 }

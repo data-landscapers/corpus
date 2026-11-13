@@ -4,7 +4,7 @@ compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: ffcf2352ff4d
+record: 30824e586d7d
 ---
 
 # News, Oct – Nov 2026
@@ -1831,6 +1831,20 @@ Nigeria's active mobile subscriptions reached 200.3 million in September 2026, N
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Starlink satellite service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICT Sector Statistics Report as of the Second Quarter of 2026](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Sectors/ICT/Statistics/Quarterly_publication/ICT_Sector_Statistics_Report_as_of_the_Second_Quarter_of_the_year_2026.pdf)** — Rwanda Utilities Regulatory Authority, 14 October 2026
+
+Rwanda's utilities regulator, RURA, reported ICT statistics for April to June 2026. Satellite accounted for 4,002 fixed broadband subscriptions at June 2026, or 4.8% of the total. Starlink carried 7.1 million GB of traffic in the quarter.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">LTE network joint venture with KT</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1844,6 +1858,20 @@ Rwanda filed a $386 million counterclaim against South Korea's KT Corporation at
 </div>
 
 ## Senegal
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulatory regime for satellite operators (ARTP consultation)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Satellite et réseaux terrestres : le Sénégal ajuste son cadre réglementaire](https://www.osiris.sn/satellite-et-reseaux-terrestres-le-senegal-ajuste-son-cadre-reglementaire.html)** — OSIRIS, 5 October 2026
+
+Senegal's telecoms regulator, ARTP, opened a national consultation on satellite services that ran to 21 October 2026. It asks whether satellite operators should hold a licence, an authorisation or a declaration. It also asks whether they should meet rules on coverage, service quality, data location and local presence, and how they should work with terrestrial operators.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

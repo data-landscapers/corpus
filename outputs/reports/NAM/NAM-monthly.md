@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: NAM
 ledger_rows: 21
 not_held: 9
-record: 54eb2653e1a5
+record: 02c20b519890
 ---
 
 # News, Oct – Nov 2026
@@ -136,7 +136,7 @@ Paratus Namibia launched Eutelsat's OneWeb low-earth-orbit satellite internet se
 
 **[Amutse sets 80% electricity access target](https://neweralive.na/amutse-sets-80-electricity-access-target/)** — New Era, 21 October 2026
 
-Minister targets 80% access by 2030 against official 70%; 2023 census: 46.9% grid, 12.6% off-grid solar.
+Namibia's energy minister, Modestus Amutse, said in October 2026 that the country can reach 80% electricity access by 2030. The government's official target is 70% by 2030. The 2023 census put access at just under 60%, and more than 300,000 households still lack power.
 
 </div>
 
