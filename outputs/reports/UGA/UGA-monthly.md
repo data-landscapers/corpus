@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: UGA
 ledger_rows: 45
 not_held: 12
-record: 1622cf53a25b
+record: 81744d459000
 ---
 
 # News, Oct – Nov 2026
@@ -258,7 +258,7 @@ Uganda's parliamentary Committee on Foreign Affairs said only Uganda and Rwanda 
 
 **[Uganda - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/uganda/)** — International Telecommunication Union (statement by Uganda), 11 November 2026
 
-96% coverage claimed; 100,000+ youth trained, 10,000+ free smartphones; UG-CERT; ITU Council 2027-2030 bid.
+Uganda's ICT minister told the ITU Plenipotentiary Conference in Doha on 11 November 2026 that network coverage reached 96% of the population (GSMA, 2025). The minister cited digital-skills training for over 100,000 young people in three years and over 10,000 free smartphones in a trial. Uganda stood for re-election to the ITU Council for 2027–2030.
 
 </div>
 
@@ -266,7 +266,7 @@ Uganda's parliamentary Committee on Foreign Affairs said only Uganda and Rwanda 
 
 **[UGANDA HIGHLIGHTS DIGITAL TRANSFORMATION AGENDA AT ITU CONFERENCE](https://www.ucc.co.ug/uganda-highlights-digital-transformation-agenda-at-itu-conference/)** — Uganda Communications Commission, 11 November 2026
 
-UCC account of the minister's Doha statement, delivered 11 Nov 2026; delegation lobbying for an ITU Council seat.
+The Uganda Communications Commission reported that ICT minister Justine Kasule Lumumba delivered Uganda's policy statement at the ITU Plenipotentiary Conference in Doha on 11 November 2026. The minister cited 96% population network coverage (GSMA, 2025) and digital-skills training for over 100,000 young people in three years. The minister also cited the UCC's e-Booster Programme for homegrown ICT solutions.
 
 </div>
 
@@ -688,7 +688,7 @@ Uganda's National Bureau for NGOs plans to move registration, document submissio
 
 **[What Dr Aminah Zawedde leaves behind at the ICT ministry](https://pmldaily.com/news/world/2026/11/what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry.html)** — PML Daily, 10 November 2026
 
-PS redeployed 9 Nov 2026; registry counts 743 government systems; ICT budget UGX 104bn to 490bn.
+Uganda's President moved ICT Permanent Secretary Aminah Zawedde to the Office of the Prime Minister on 9 November 2026, PML Daily reported. The profile relays ministry figures. The Government Digital Registry listed about 743 systems in May 2026. The ICT budget rose from about UGX 104bn in FY2022/23 to about UGX 490bn this year.
 
 </div>
 
@@ -890,7 +890,7 @@ Enabel published tender TZA25001-10032 on 6 November 2026 for technical assistan
 
 **[Uganda: Public Procurement and Disposal of Public Assets Authority (PPDA)](https://data.open-contracting.org/en/publication/130)** — Open Contracting Partnership, OCP Data Registry, 1 October 2026
 
-OCDS feed Jul 2015 to Oct 2026 under ODC-By; 210 entities enrolled; 71,639 tenders, 142,168 contracts.
+The Open Contracting Partnership's registry lists Uganda's PPDA procurement data, published monthly from July 2015 to October 2026 under ODC-By. As retrieved on 24 October 2026, it held 71,639 tenders and 142,168 contracts from 210 enrolled entities. A December 2022 review found inconsistent organisation identifiers and some filler dates.
 
 </div>
 

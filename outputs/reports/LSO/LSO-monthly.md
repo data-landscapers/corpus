@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: LSO
 ledger_rows: 12
 not_held: 4
-record: 4e48e5c0eb86
+record: 5ccabac0f136
 ---
 
 # News, Oct – Nov 2026
@@ -192,7 +192,7 @@ The Central Bank of Lesotho and the CAFI project launched campaigns urging small
 
 **[Lesotho - eGovernment Infrastructure Phase II - IPR October 2026](https://www.afdb.org/en/documents/lesotho-egovernment-infrastructure-phase-ii-ipr-98493)** — African Development Bank, 29 October 2026
 
-Rated satisfactory, 85% disbursed; 17 e-services built, unlaunched, go-live by 1 Dec 2026; weak sustainability outlook.
+An AfDB supervision report of 29 October 2026 rated Lesotho's eGovernment Infrastructure Phase II satisfactory, with 85.21% of the loan disbursed. Its 17 eGovernment services were not yet public and were due to go live from 15 November to 1 December. Broadband penetration reached 70.8% against a 57.54% target; financial management stayed unsatisfactory.
 
 </div>
 

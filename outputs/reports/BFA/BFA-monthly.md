@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: BFA
 ledger_rows: 44
 not_held: 6
-record: b8f0b20f10c8
+record: 66d03f7a65e0
 ---
 
 # News, Oct – Nov 2026
@@ -376,7 +376,7 @@ Burkina Faso's President launched mass enrolment in the electronic unique identi
 
 **[Registre de l'identifiant unique : Le Burkina Faso engage l'identification de sa population](https://lefaso.net/spip.php?article150706=)** — leFaso.net, 11 November 2026
 
-Pilot enrolled 16,000+; ten fingers and both irises deduplicated; foreigners included; first count due end-Dec 2026.
+Burkina Faso launched mass enrolment in its Unique Identifier Register on 11 November 2026, Lefaso.net reported. Every resident, including foreigners in transit, is to receive an electronic identifier. Enrolment captures ten fingerprints and both irises. A pilot enrolled over 16,000 people, and a first count is due at the end of December 2026.
 
 </div>
 
@@ -734,7 +734,7 @@ A four-year research project on the digital transition of university work in Bur
 
 **[Inclusion financière : avec 79,7 % à fin 2024, le Burkina en avance de 6,1 points sur le taux global de l'UEMOA](https://cfinance.news/article/inclusion-financiere-avec-797-a-fin-2024-le-burkina-en-avance-de-61-points-sur-le-taux-global-de-luemoa/)** — C'Finance, 21 October 2026
 
-Expert talk: half of those included through e-money leave accounts unused; strict banking only 23.4% (2024).
+At a talk reported by C'Finance on 21 October 2026, expert Corinne Nikièma put Burkina Faso's financial inclusion at 79.7% at end 2024. That is 6.1 points above the UEMOA rate, while strict bank account ownership stood at 23.4%. Nikièma said half of those included through e-money do not use their accounts.
 
 </div>
 
@@ -742,7 +742,7 @@ Expert talk: half of those included through e-money leave accounts unused; stric
 
 **[Burkina : 44,2 milliards de FCFA mobilisés pour atteindre 90 % d'inclusion financière en 2031](https://lefaso.net/spip.php?article150583=)** — leFaso.net, 6 November 2026
 
-SNFI 2 for 2027-2031 in validation; inclusion 79.04% (2023) and 81.8% (end 2025) against a 75% first target.
+Burkina Faso's draft second national inclusive finance strategy, for 2027 to 2031, went to a validation workshop in Ouagadougou on 6 November 2026. It is costed at 44.2 billion CFA francs and targets 90% financial inclusion by 2031. ANPFI says inclusion reached 79.04% in 2023, above the 75% first target, and 81.8% at end 2025.
 
 </div>
 

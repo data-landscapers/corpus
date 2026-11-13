@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: MWI
 ledger_rows: 28
 not_held: 30
-record: bf0aa013962f
+record: 16fe58f0af30
 ---
 
 # News, Oct – Nov 2026
@@ -84,7 +84,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[DPA Reviews Proposed Data Protection Registration Fees](https://www.dpa.mw/dpa-reviews-proposed-data-protection-registration-fees/)** — Data Protection Authority (MACRA), Malawi, 11 November 2026
 
-Risk-based fees on revenue and data-subject count, K50,000 to K7m, expected from 4 January 2027.
+Malawi's Data Protection Authority, MACRA, reviewed proposed registration fees for major data controllers and processors at a workshop in Blantyre, reported on 11 November 2026. The proposal weighs annual revenue and the number of data subjects, replacing a revenue-only model. Fees of K50,000 to K7 million are expected to take effect on 4 January 2027.
 
 </div>
 

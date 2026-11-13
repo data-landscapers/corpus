@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: SYC
 ledger_rows: 17
 not_held: 6
-record: 8067ba6262c7
+record: 123e0c22da5d
 ---
 
 # News, Oct – Nov 2026
@@ -216,7 +216,7 @@ Seychelles' national computer emergency response team designed and delivered the
 
 **[Blue economy department signs MoUs with SRC, registration division to strengthen data sharing](https://www.nation.sc/articles/33129/blue-economy-department-signs-mous-with-src-registration-division-to-strengthen-data-sharing)** — Seychelles Nation, 11 November 2026
 
-Two open-ended MoUs signed 10 Nov 2026; signatories named; terms behind paywall.
+Seychelles' Department of Blue Economy signed two open-ended data-sharing memoranda of understanding on 10 November 2026, Seychelles Nation reported. The partners are the Seychelles Revenue Commission and the Registration Division. Principal Secretary Veronique Nibourette, Acting Commissioner General Fred Morel and Registrar General Suleiman Athanasius signed them.
 
 </div>
 

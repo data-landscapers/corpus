@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: SOM
 ledger_rows: 23
 not_held: 1
-record: 4242bf0b9edb
+record: bc3e4c4b430c
 ---
 
 # News, Oct – Nov 2026
@@ -266,7 +266,7 @@ A digital Ebola travel health pass began on 22 October 2026. Arrivals must file 
 
 **[Somalia Plans Central Security Data System to Fill Reporting Gaps](https://www.dawan.africa/news/somalia-plans-central-security-data-system-to-fill-reporting-gaps)** — Dawan Africa, 11 November 2026
 
-Data Analysis Centre to pool police, NISA and immigration data; funding, timeline and data protection unstated.
+Somalia's internal security ministry has begun designing a Data Analysis Centre to pool police, intelligence and immigration data, Dawan Africa reported on 11 November 2026. Director General Mohamed Shire said the system will replace paper filing. The ministry did not say who funds it, when it will operate or how personal data will be protected.
 
 </div>
 
@@ -346,7 +346,7 @@ Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emer
 
 **[SIMAD University Breaks Ground on Building to Host Somalia's National AI Hub](https://www.dawan.africa/news/simad-university-breaks-ground-on-building-to-host-somalias-national-ai-hub)** — Dawan Africa, 6 November 2026
 
-Ministry places the four-university National AI Hub at SIMAD AI Institute; G+5 building begun 5 November 2026.
+SIMAD University laid the foundation stone on 5 November 2026 for a building to host Somalia's National AI Hub. The hub links four universities; the minister of communications and technology laid the stone with the rector, Dawan Africa reports. Hadiid Group is building the ground-plus-five steel structure.
 
 </div>
 
@@ -440,7 +440,7 @@ Somalia's National Identification and Registration Authority began enrolling cit
 
 **[Ministry of Finance | Federal Government of Somalia](https://mof.gov.so/)** — Ministry of Finance, Federal Government of Somalia, 10 November 2026
 
-MoF transparency portal and fiscal dashboard: debt stock US$1.48bn (Q2 2026), figures still being checked.
+The Federal Government of Somalia's Ministry of Finance website, captured on 12 November 2026, carries a transparency portal of budget, debt, procurement and audit publications. Its Open Budget Initiative section promises open data and machine-readable releases. A fiscal dashboard puts the public debt stock at US$1.48bn in Q2 2026, figures the ministry says are still being checked.
 
 </div>
 

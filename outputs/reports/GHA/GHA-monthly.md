@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: GHA
 ledger_rows: 72
 not_held: 9
-record: e75731767b0f
+record: 3b46aaa03cfb
 ---
 
 # News, Oct – Nov 2026
@@ -98,7 +98,7 @@ At Digital Economy Live 2026 in Accra, Ghana's communications minister urged Afr
 
 **[Ghana calls for stronger digital infrastructure resilience at ITU PP-26](https://www.citinewsroom.com/2026/11/ghana-calls-for-stronger-digital-infrastructure-resilience-at-itu-pp-26/)** — Citi Newsroom, 11 November 2026
 
-Dig Once Policy before Cabinet; national emergency telecoms plan; ITU resilience programme proposed at Doha.
+Ghana's proposed Dig Once Policy is before Cabinet, minister Samuel Nartey George told an ITU session in Doha. Citi Newsroom reported the remarks on 11 November 2026. A National Emergency Telecommunications Plan is being developed. Ghana proposed an ITU Programme of Action on Resilience with timelines and measurable indicators.
 
 </div>
 
@@ -354,7 +354,7 @@ Ghana's communications minister Samuel Nartey George announced a national data e
 
 **[Afenyo-Markin calls for repeal of Section 208 of Criminal Offences Act](https://gna.org.gh/2026/11/afenyo-markin-calls-for-repeal-of-section-208-of-criminal-offences-act/)** — Ghana News Agency, 8 November 2026
 
-Minority Leader at 30th GJA awards, 7 Nov 2026; Minority also weighing repeal of s.76 Electronic Communications Act.
+Minority Leader Alexander Afenyo-Markin called for repeal of Section 208 of Ghana's Criminal Offences Act on 7 November 2026, GNA reported. The section covers false news likely to cause alarm. The Minority is also weighing repeal of Section 76 of the Electronic Communications Act. The Minority Leader said defamation should be handled through civil action.
 
 </div>
 
@@ -648,7 +648,7 @@ Ghana's Cyber Security Authority and NITA issued a joint alert on 22 October 202
 
 **[Address by Dr Johnson P. Asiama, Governor, Bank of Ghana, at the Chartered Institute of Bankers Ghana 30th National Banking and Ethics Conference](https://www.bog.gov.gh/wp-content/uploads/2026/11/Speech-by-Dr-Johnson-P-Asiama-at-Chartered-Institute-of-Bankers-Ghana-30th-National-Banking-and-Ethics-Conference.pdf)** — Bank of Ghana, 10 November 2026
 
-Governor frames cyber risk as governance; FICSOC threat intelligence to 23 banks; AI credit-scoring safeguards.
+Bank of Ghana Governor Johnson Asiama addressed the 30th National Banking and Ethics Conference, held 9–10 November 2026. Communications Director Bernard Otabil delivered the text. It said the bank's security operations centre, FICSOC, supplies threat intelligence to 23 banks. It also said AI in credit assessment needs safeguards against bias and unfair outcomes.
 
 </div>
 
@@ -1286,7 +1286,7 @@ Ghana's Ministry of Finance inaugurated a National Technical Working Committee o
 
 **[Eight in 10 Ghanaian adults have an account, but only 22% are financially healthy](https://3news.com/economy/ghana-financial-health-inclusion-strategy)** — 3News, 7 November 2026
 
-Findex puts account ownership at 81% (2024), up from 29% in 2011; strategy launch due H1 2027; health framework planned.
+Ghana's Ministry of Finance opened work on a 2027–2031 financial inclusion strategy on 5 November 2026, 3News reported. Deputy Finance Minister Thomas Nyarko Ampem cited 81% account ownership in 2024, from the Global Findex. The 2021 FinScope survey found 22% of adults financially healthy. The ministry expects to launch the strategy in the first half of 2027.
 
 </div>
 

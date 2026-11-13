@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: LBR
 ledger_rows: 27
 not_held: 6
-record: df172b010316
+record: 6ea3c1719035
 ---
 
 # News, Oct – Nov 2026
@@ -120,7 +120,7 @@ Liberia became the 43rd member of the Smart Africa Alliance, the admission compl
 
 **[Liberia and Rwanda Sign Five-Year Deal to Bring Services Closer to Citizens](https://www.cooperation.rw/updates/newsroom-1/news-detail/liberia-and-rwanda-sign-five-year-deal-to-bring-services-closer-to-citizens)** — Rwanda Cooperation, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
 
-County Service Centers to be digitised on the Irembo model; revenue systems; implementation plan due in 90 days.
+Rwanda Cooperation and Liberia's Ministry of Local Government signed a five-year memorandum of understanding in Kigali on 10 November 2026. Its first area is digitising Liberia's 15 County Service Centers, drawing on Rwanda's Irembo experience; it also covers local revenue administration and tax registries. Focal persons are due within 30 days and a joint implementation plan within 90.
 
 </div>
 

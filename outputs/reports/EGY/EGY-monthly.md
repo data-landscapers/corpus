@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: EGY
 ledger_rows: 63
 not_held: 36
-record: 1b4642366dab
+record: 28cb72e0c56f
 ---
 
 # News, Oct – Nov 2026
@@ -174,7 +174,7 @@ Egypt's Financial Regulatory Authority reported over 1.727 million e-KYC verific
 
 **[Health Minister at Cairo ICT: New Health Data Law, Faster Treatment Decisions](https://cairoict.com/news/health-minister-at-cairo-ict-new-health-data-law-faster-treatment-decisions)** — Cairo ICT 2026 (Tradefairs International), 10 November 2026
 
-Draft health-database law heads to parliament; Nephro Egypt tracks 60,000 dialysis patients, saves 20-25%.
+Egypt's health ministry will send parliament a draft law bringing health databases into one system, minister Khaled Abdel Ghaffar said on 8 November 2026. The minister spoke at Cairo ICT 2026. The Nephro Egypt platform follows about 60,000 dialysis patients. Automated state-funded treatment decisions now take at most 24 hours.
 
 </div>
 
@@ -724,7 +724,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[From Digital Records to Home-Grown Medical AI: Cairo ICT Panel Maps the Future of Egyptian Healthcare](https://cairoict.com/news/from-digital-records-to-home-grown-medical-ai)** — Cairo ICT 2026 (Tradefairs International), 10 November 2026
 
-6.2m electronic health files, 85%+ hospital automation; officials call for health data to stay in Egypt.
+A Cairo ICT 2026 panel on 9 November 2026 discussed medical AI in Egypt. Health Care Authority chairman Ahmed El Sobky cited about 6.2 million electronic health files. Hospital automation in the authority exceeds 85%, the chairman said. Noha Adly of the Applied Innovation Center called for sensitive health data to stay in Egypt.
 
 </div>
 
@@ -806,7 +806,7 @@ Mahmoud Badawi, Egypt's assistant ICT minister for digital transformation, told 
 
 **[Prime Minister Opens the 30th Cairo ICT as Egypt Sets Out Its AI Targets for 2030](https://cairoict.com/news/prime-minister-opens-the-30th-cairo-ict-as-egypt-sets-out-its-ai-targets)** — Cairo ICT 2026 (Tradefairs International), 10 November 2026
 
-Digital Egypt at 261 services and 13.7m active users; Karnak LLM past 300,000 downloads; data-centre strategy due 2026.
+Prime Minister Mostafa Madbouly opened Cairo ICT 2026 on 7 November 2026. ICT Minister Raafat Hendy set 2030 targets of 200,000 jobs, 250 AI start-ups and US$12bn in digital exports. Digital Egypt offers 261 services in 29 packages, with 13.7m active users against 10.4m a year earlier. A National Data Centre Strategy is expected before the end of 2026.
 
 </div>
 

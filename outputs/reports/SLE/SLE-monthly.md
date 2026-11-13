@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: SLE
 ledger_rows: 24
 not_held: 4
-record: 348d309cba8c
+record: d6eb80fbbb00
 ---
 
 # News, Oct – Nov 2026
@@ -278,7 +278,7 @@ Sierra Leone's National Investment Board showed its new Online Business Registra
 
 **[President Bio Launches Online Business Registration System](https://www.sierraleonemonitor.com/bio-launches-online-business-registration/)** — Sierra Leone Monitor, 11 November 2026
 
-Launched 10 November 2026; 24-hour processing pledged for complete applications, seven days for related services.
+President Julius Maada Bio launched Sierra Leone's Online Business Registration System in Freetown on 10 November 2026, Sierra Leone Monitor reported. The President pledged to process complete, lawful applications within 24 hours and to deliver related registration services within seven days. The National Investment Board runs the system and says earlier records have been moved into it.
 
 </div>
 
@@ -286,7 +286,7 @@ Launched 10 November 2026; 24-hour processing pledged for complete applications,
 
 **[Sierra Leone Digitizes Business Registration as 75% of Firms Remain Unregistered](https://www.ecofinagency.com/news-digital/1111-60716-sierra-leone-digitizes-business-registration-as-75-of-firms-remain-unregistered)** — Ecofin Agency, 11 November 2026
 
-66 NIB services online; about 75% of firms unregistered per World Bank; 90-day performance report ordered.
+Sierra Leone's online business registration system, launched on 10 November 2026, puts 66 National Investment Board services on one platform, Ecofin Agency reported. The NIB's director set an eight-working-hour target for complete applications. At an October 2026 roundtable, a Finance Ministry official cited World Bank 2025 estimates that about 75% of enterprises are unregistered.
 
 </div>
 

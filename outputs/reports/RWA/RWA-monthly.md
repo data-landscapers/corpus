@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: RWA
 ledger_rows: 34
 not_held: 7
-record: c7b4d36e8aec
+record: 84e4cd554dbc
 ---
 
 # News, Oct – Nov 2026
@@ -104,7 +104,7 @@ Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cros
 
 **[Liberia and Rwanda Sign Five-Year Deal to Bring Services Closer to Citizens](https://www.cooperation.rw/updates/newsroom-1/news-detail/liberia-and-rwanda-sign-five-year-deal-to-bring-services-closer-to-citizens)** — Rwanda Cooperation, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
 
-County Service Centers to be digitised on the Irembo model; revenue systems; implementation plan due in 90 days.
+Rwanda Cooperation and Liberia's Ministry of Local Government signed a five-year memorandum of understanding in Kigali on 10 November 2026. Its first area is digitising Liberia's 15 County Service Centers, drawing on Rwanda's Irembo experience; it also covers local revenue administration and tax registries. Focal persons are due within 30 days and a joint implementation plan within 90.
 
 </div>
 
@@ -134,7 +134,7 @@ The Rwanda Standards Board lists the regional and international technical commit
 
 **[Rwanda National DPI Guidelines, Version 1.0]()** — Ministry of ICT and Innovation (MINICT) and Rwanda Information Society Authority (RISA), 1 November 2026
 
-121 pages; Rwanda Stack building blocks, domain rules, component catalogue; principle-based, mandates to follow.
+Rwanda's ICT ministry and RISA published the National DPI Guidelines, Version 1.0, in November 2026. The RISA-owned guidelines set a DPI classification framework and the Rwanda Stack building blocks. They cover interoperability, registries, identity, consent and procurement, with a seven-step roadmap ending in mandated instruments.
 
 </div>
 

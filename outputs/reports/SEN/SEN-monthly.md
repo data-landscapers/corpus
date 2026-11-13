@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: SEN
 ledger_rows: 45
 not_held: 2
-record: 8ffe12106f7b
+record: 0b320c0da72c
 ---
 
 # News, Oct – Nov 2026
@@ -170,7 +170,7 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 
 **[Africa's governments already treat the internet as protest infrastructure. Its courts have not caught up](https://globalvoices.org/2026/10/07/africas-governments-already-treat-the-internet-as-protest-infrastructure-its-courts-have-not-caught-up/)** — Global Voices, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-ECOWAS Court's 2025 Senegal ruling never reached the assembly claim; Angola's first shutdown came ten weeks later.
+Lawyer Ephraim Percy Kenyanito argues in Global Voices, on 7 October 2026, that internet shutdowns should be litigated as assembly cases. Kenyanito notes that the ECOWAS Court's May 2025 Senegal ruling turned on expression and never decided the assembly claim. Angola cut its internet for the first time in July 2025, during fuel-price protests.
 
 </div>
 
@@ -184,7 +184,7 @@ ECOWAS Court's 2025 Senegal ruling never reached the assembly claim; Angola's fi
 
 **[Senegal: Columnist facing prosecution for disseminating false news](https://mfwa.org/country-highlights/senegal-columnist-facing-prosecution-for-disseminating-false-news/)** — Media Foundation for West Africa, 20 October 2026
 
-Cybersecurity Division custody over Sen Téranga YouTube remarks on influencer Nourah Ba's arrest; false-news charge.
+Senegal's Special Cybersecurity Division detained Sen TV columnist Mamadou 'Momo' Cissé on 15 October 2026, MFWA reports. Cissé had discussed influencer Nourah Ba's arrest on the Sen Téranga YouTube channel, and was charged with spreading false news on 16 October. Cissé was released pending a hearing set for 21 October; MFWA condemned the prosecution.
 
 </div>
 
@@ -458,7 +458,7 @@ Senegal's Justice Minister, Moussa Sarr, agreed on 10 November 2026 to deploy AP
 
 **[Les instances de gouvernance de l’audit physique et biométrique des agents territoriaux installées - APS](https://aps.sn/les-instances-de-gouvernance-de-laudit-physique-et-biometrique-des-agents-territoriaux-installees/)** — Agence de presse sénégalaise (APS), 10 November 2026
 
-Governance bodies installed 10 Nov 2026; 18,716 agents in 601 local authorities (2022); HR database to follow.
+Senegal launched a physical and biometric audit of local-government staff on 10 November 2026, installing the bodies that will govern it, APS reported. The aim is a secure database of agents, interoperable with territorial HR information systems, with lists certified by local executives. Minister Moussa Balla Fofana cited a 2022 diagnostic counting 18,716 agents in 601 local authorities.
 
 </div>
 
@@ -574,7 +574,7 @@ Senegal's Ministry of Mines and Geology validated its integrated mining-sector d
 
 **[Diaspora : Vers un nouveau système sécurisé de délivrance des cartes consulaires sénégalaises](https://www.seneweb.com/fr/news/Societe/diaspora-towards-a-new-secure-system-for-issuing-senegalese-consular-cards_n_999003334.html)** — Seneweb, 11 November 2026
 
-MIAAESE-CDC convention 9 Nov 2026; Synapsys Conseil to build secure issuance and tracking for diaspora cards.
+Senegal's foreign ministry (MIAAESE) and the Caisse des Dépôts et Consignations signed a convention on 9 November 2026 to build a secure system for issuing and tracking consular cards for Senegalese abroad, Seneweb reported. The CDC's digital subsidiary, Synapsys Conseil, will deliver it. The stated aim is simpler procedures and traceable, authentic consular documents.
 
 </div>
 
@@ -728,7 +728,7 @@ Senegal's telecommunications ministry signed a US$150 million partnership conven
 
 **[Avant le Forum régional de Dakar, une journée pour poser les bonnes questions](https://fr.linkedin.com/posts/laspad-ugb_laspad-gdn-crdi-activity-7518645942200369152-maiW)** — LASPAD UGB, 21 October 2026
 
-GDN, ministry and IDRC convene Dakar workshop, 19 Oct 2026, to co-design a national digital-policy research agenda.
+The Global Development Network held a workshop in Dakar on 19 October 2026 to draft a national digital-policy research agenda. The Ministry of Telecommunications and Digital Affairs was a partner and IDRC gave support, LASPAD UGB reports. The workshop opened a regional forum on research in francophone Africa, held 20 to 23 October.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: AGO
 ledger_rows: 29
 not_held: 6
-record: 547838835bb9
+record: 64cc5a62b940
 ---
 
 # News, Oct – Nov 2026
@@ -144,7 +144,7 @@ Angola and Tanzania signed a memorandum of understanding on telecommunications a
 
 **[Africa's governments already treat the internet as protest infrastructure. Its courts have not caught up](https://globalvoices.org/2026/10/07/africas-governments-already-treat-the-internet-as-protest-infrastructure-its-courts-have-not-caught-up/)** — Global Voices, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-ECOWAS Court's 2025 Senegal ruling never reached the assembly claim; Angola's first shutdown came ten weeks later.
+Lawyer Ephraim Percy Kenyanito argues in Global Voices, on 7 October 2026, that internet shutdowns should be litigated as assembly cases. Kenyanito notes that the ECOWAS Court's May 2025 Senegal ruling turned on expression and never decided the assembly claim. Angola cut its internet for the first time in July 2025, during fuel-price protests.
 
 </div>
 
@@ -158,7 +158,7 @@ ECOWAS Court's 2025 Senegal ruling never reached the assembly claim; Angola's fi
 
 **[Criminal defamation threat hangs over dozens of Angolan journalists ahead of 2027 vote](https://cpj.org/2026/10/criminal-defamation-threat-hangs-over-dozens-of-angolan-journalists-ahead-of-2027-vote/)** — Committee to Protect Journalists, 8 October 2026
 
-38 journalists probed for defamation since 2015, over 200 cases; Reporter Angola editor given 14 months on 2 Oct 2026.
+CPJ reported on 8 October 2026 that 38 Angolan journalists have faced criminal defamation investigations since 2015, over 200 in all. One, Reporter Angola editor Daniel Frederico, was sentenced in absentia to 14 months on 2 October 2026 over another outlet's article. Defamation in Angola carries prison terms of up to 18 months.
 
 </div>
 
@@ -166,7 +166,7 @@ ECOWAS Court's 2025 Senegal ruling never reached the assembly claim; Angola's fi
 
 **[Law on False Information on the Internet adopted; use of criminal defamation to intimidate journalists](https://monitor.civicus.org/explore/law-on-false-information-on-the-internet-adopted-activists-and-journalists-detained-prosecuted/)** — CIVICUS Monitor, 31 October 2026
 
-Fake-news law adopted 21 May 2026, in force 4 Aug; Constitutional Court struck parts of 2024 vandalism law, Dec 2025.
+Angola's National Assembly adopted Law 6/26 against false information online on 21 May 2026, CIVICUS Monitor reported. The law took effect on 4 August and sets fines and criminal penalties; media report prison terms of up to ten years. The update also records a 14-month defamation sentence passed on editor Daniel Frederico on 2 October 2026.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: ETH
 ledger_rows: 34
 not_held: 5
-record: f66755ae7702
+record: e22da30d53af
 ---
 
 # News, Oct – Nov 2026
@@ -102,7 +102,7 @@ The Institute of Ethiopian Standards is building scannable digital marks, with t
 
 **[Ethiopia suspends The Reporter indefinitely in escalating assault on independent media](https://cpj.org/2026/11/ethiopia-suspends-the-reporter-indefinitely-in-escalating-assault-on-independent-media/)** — Committee to Protect Journalists, 5 November 2026
 
-EMA suspends publisher indefinitely on 2 November 2026, print and digital platforms alike, under the 2021 media law.
+Ethiopia's Media Authority suspended the publisher of The Reporter indefinitely on 2 November 2026, covering its print editions and digital platforms. The regulator cited reports harming national interests but named no specific article, CPJ reported on 5 November. CPJ called for the suspension to be lifted.
 
 </div>
 

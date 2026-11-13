@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: CPV
 ledger_rows: 14
 not_held: 23
-record: 7886d47f88ea
+record: d6addcff38a4
 ---
 
 # News, Oct – Nov 2026
@@ -48,7 +48,7 @@ record: 7886d47f88ea
 
 **[Capital mínimo trava novas empresas tecnológicas no setor bancário, diz consultor](https://caboverde24.info/2026/10/14/capital-minimo-trava-novas-empresas-tecnologicas-no-setor-bancario-diz-consultor/)** — Caboverde24, 14 October 2026
 
-2019 notice sets 2m-20m escudo capital floors by payment activity; 20m for e-money institutions.
+On 13 October 2026, Samuel Silva of PD Consult told RTC that minimum capital deters tech firms from banking. Caboverde24 notes that the central bank's 2019 notice sets floors by activity, from 2 million escudos for money transfer alone. E-money institutions need 20 million escudos.
 
 </div>
 
@@ -134,7 +134,7 @@ In an interview printed on 28 October 2026, outgoing CVTelecom chief executive J
 
 **[Fogo: Ilha sem serviço de telecomunicações e de internet desde a noite de terça-feira](https://www.inforpress.cv/en/article-12372)** — Inforpress (Cabo Verde), 11 November 2026
 
-Fogo on backup cable via Sao Vicente since March Santiago-Fogo fault; Mindelo fire also cut Brava and Santo Antao.
+Fogo island in Cabo Verde lost telephone and internet services overnight on 10 November 2026, Inforpress reported. A CVTelecom source blamed a fire at its São Vicente station, which also cut Brava and Santo Antão. Since March, Fogo has used a backup submarine cable after a fault on the Santiago–Fogo link, due for repair in late November.
 
 </div>
 
@@ -292,7 +292,7 @@ Cabo Verde launched an online portal for its labour inspectorate on 3 November 2
 
 **[Decreto-Lei n.º 45/2026 (Boletim Oficial, I Série, n.º 109)](https://faolex.fao.org/docs/pdf/cvi248337.pdf)** — Boletim Oficial da República de Cabo Verde, 8 October 2026
 
-Organic law of new state-reform ministry; DNME given open data, public-documents portal and Chave Móvel Digital.
+Cabo Verde's Decreto-Lei 45/2026 of 8 October 2026 sets out the structure of the new state-reform ministry. Its National Directorate for State Modernisation is charged with the digital-services portal, the public-documents portal, open data and the Chave Móvel Digital. A service within it covers data, interoperability and AI in the public sector.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: NGA
 ledger_rows: 105
 not_held: 9
-record: ee9dbc2ec147
+record: 2a7256c13888
 ---
 
 # News, Oct – Nov 2026
@@ -124,7 +124,7 @@ Nigeria's NITDA launched a public dashboard tracking its Strategic Roadmap and A
 
 **[NITDA Seeks Stakeholders Input to Review Digital Strategy](https://von.gov.ng/nitda-seeks-stakeholders-input-to-review-digital-strategy/)** — Voice of Nigeria, 11 November 2026
 
-Eight pillars, 37 indicators, ~78 initiatives under review; new strategy due 2027; N-ATLAS adoption still early.
+Nigeria's NITDA opened a stakeholder review of its Strategic Roadmap and Action Plan 2.0 (2024–2026), Voice of Nigeria reported on 11 November 2026. The review, held at DNICE in Abuja, prepares a new strategy for 2027. SRAP 2.0 has eight pillars, 37 aggregate success indicators and about 78 initiatives.
 
 </div>
 
@@ -1564,7 +1564,7 @@ A Nigerian opposition movement called on the electoral commission to abandon its
 
 **[Google Opens New Opportunity for Nigerians to Teach AI Yoruba, Igbo, Hausa and Pidgin](https://www.nigeriastartupact.ng/google-opens-new-opportunity-for-nigerians-to-teach-ai-yoruba-igbo-hausa-and-pidgin/)** — Nigeria Startup Act, 10 November 2026
 
-Data Science Nigeria's National AI Glossary Project with Google support; contributors and reviewers sought, unpaid.
+Data Science Nigeria, with Google support, opened registration for contributors to a National AI Glossary Project, reported on 10 November 2026. The project builds AI language resources in Yoruba, Igbo, Hausa and Nigerian Pidgin. The call states no payment or grant.
 
 </div>
 
@@ -1686,7 +1686,7 @@ Nigeria's NITDA launched a National Digital Literacy Dashboard to track training
 
 **[Google commits $600,000 to map online risks facing Nigerian teenagers - Businessday NG](https://businessday.ng/technology/article/google-commits-600000-to-map-online-risks-facing-nigerian-teenagers/)** — BusinessDay NG, 11 November 2026
 
-Google.org grant to TechSocietal for 2,000-teen baseline survey; Meet LEO pilot via Tech Hive Advisory in four states.
+Google.org committed US$600,000 to the TechSocietal Development Foundation for Nigeria's first nationwide study of teenagers' online risks, Businessday reported on 11 November 2026. The sum is US$550,000 in funding and US$50,000 in Ad Grants. The study will survey 2,000 adolescents and train 5,000 teachers, alongside a child online-safety pilot in four states.
 
 </div>
 
@@ -1744,7 +1744,7 @@ Vincent Olatunji, head of the Nigeria Data Protection Commission, opened the 8th
 
 **[Federal Ministry Opens 3MTT Delivery Network, with N4 Billion in Partner Funding to Train Nigerians for Real Economic Opportunities | The Federal Ministry of Communications, Innovation and Digital Economy](https://fmcide.gov.ng/federal-ministry-opens-3mtt-delivery-network-with-n4-billion-in-partner-funding-to-train-nigerians-for-real-economic-opportunities/)** — Federal Ministry of Communications, Innovation & Digital Economy, 11 November 2026
 
-Ministry release; Enabled and Funded Delivery Partner tracks; 1.8m registered, 179,000 trained since 2023; closes 30 Nov.
+Nigeria's digital economy ministry opened the 3MTT Delivery Network to training organisations and experts on 11 November 2026. About ₦4 billion is earmarked for results-based funding of Cohorts 5 and 6, and applications close on 30 November 2026. The EU and Denmark fund Cohort 5 through GIZ, HAUS and ESTDEV, with a MacArthur Foundation grant.
 
 </div>
 
@@ -1774,7 +1774,7 @@ Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcom
 
 **[Freedom on the Net 2026: Nigeria](https://freedomhouse.org/country/nigeria/freedom-net/2026)** — Freedom House, 1 October 2026
 
-Score 56/100, partly free; access score cut over Zamfara disruptions; DSS bid to take down critic's posts.
+Freedom House's Freedom on the Net 2026, released in October 2026, rates Nigeria partly free at 56 out of 100. Freedom House cut its score on state control of infrastructure from 6 to 4 over months of disruption in Zamfara State. It also reports an official bid to remove a critic's posts, and DDoS attacks on an investigative outlet.
 
 </div>
 
@@ -1868,7 +1868,7 @@ Nigeria's Humanitarian Affairs ministry, UNHCR and Germany handed mobile one-sto
 
 **[Doro Launches Mobile One-Stop Shop, Hands Over 10 Vehicles To States, Appreciates Germany's Support For Vulnerable Nigerians - Federal Ministry of Information and National Orientation](https://fmino.gov.ng/doro-launches-mobile-one-stop-shop-hands-over-10-vehicles-to-states-appreciates-germanys-support-for-vulnerable-nigerians/)** — Federal Ministry of Information and National Orientation, 11 November 2026
 
-Government release; ten vehicles via UNHCR with German funding for NIN, birth, BVN, SIM and social-register enrolment.
+Nigeria's humanitarian affairs minister, Bernard Doro, handed ten Mobile One-Stop Shop vehicles to state governments in Abuja on 11 November 2026. The units, provided through UNHCR with German funding, offer NIN enrolment, birth, SIM and BVN registration, and bank accounts. Bernard Doro said the scheme should later reach all 36 states and the Federal Capital Territory.
 
 </div>
 
@@ -1904,7 +1904,7 @@ The Central Bank of Nigeria is moving its Sub-National Fiscal Survey of the 36 s
 
 **[NITDA Unveils Nigeria Tech Outlook Report](https://von.gov.ng/nitda-unveils-nigeria-tech-outlook-report/)** — Voice of Nigeria, 11 November 2026
 
-2,147 households surveyed; 86.5% hold accounts, 12% digital credit, 17.9% use e-government; 8 of 105 indicators no data.
+NITDA launched the Nigeria Tech Outlook Report 2026 as an annual digital-economy baseline, Voice of Nigeria reported on 11 November 2026. The report finds that 86.5% of adults hold a financial account and 12% used digital credit. It finds 40.6% personally use a smartphone and 17.9% used government services online in the previous 12 months.
 
 </div>
 

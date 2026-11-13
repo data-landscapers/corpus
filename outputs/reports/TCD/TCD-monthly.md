@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: TCD
 ledger_rows: 19
 not_held: 22
-record: a4aad21602ad
+record: a0dc1a659980
 ---
 
 # News, Oct – Nov 2026
@@ -180,7 +180,7 @@ Chad's digital minister Haliki Choua Mahamat told German, EU and GIZ representat
 
 **[Chad - PP-26 policy statement](https://pp.itu.int/2026/en/itu_policy_statements/chad/)** — International Telecommunication Union, 11 November 2026
 
-4,400 of 14,000 km fibre built; 79% mobile, 30% internet (end-2025); Digital Code and data governance strategy.
+Chad's statement to the ITU Plenipotentiary Conference in Doha, posted by 11 November 2026, says 4,400 km of a planned 14,000 km fibre network is built. A further 2,700 km is under way and 6,900 km has no financing. Minister Haliki Choua Mahamat cited 15 million mobile subscriptions (79%) and 5.6 million internet subscriptions (30%) at end-2025.
 
 </div>
 

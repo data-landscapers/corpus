@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: MLI
 ledger_rows: 17
 not_held: 1
-record: 58c93a4aee5d
+record: 945336ce83fc
 ---
 
 # News, Oct – Nov 2026
@@ -184,7 +184,7 @@ Mali's computer incident response centre ML-CERT launched a web platform for rep
 
 **[Mali : nouvelles règles pour les transferts numériques](https://fr.apanews.net/business/mali-nouvelles-regles-pour-les-transferts-numeriques/)** — APAnews, 2 November 2026
 
-Orange Finances Mobiles Mali lifts wallet cap to CFA 4 million; 14 Malian PI-SPI participants; usage 61.9% (2025).
+New BCEAO rules on interoperable transfers took effect in Mali on 2 November 2026, APAnews reports. Orange Finances Mobiles Mali raised the balance cap on identified wallets from two to four million CFA francs. Transfers between individuals are free up to 8,000 CFA francs a day, and 14 Malian institutions are authorised on PI-SPI.
 
 </div>
 
@@ -230,7 +230,7 @@ Summarised under [New investments](#new-investments).
 
 **[Digitalisation des Attestations d’importation de Véhicules : La Phase pilote lancée](https://gouvernement.ml/digitalisation-des-attestations-dimportation-de-vehicules-la-phase-pilote-lancee/)** — Information Gouvernementale du Mali, 11 November 2026
 
-DGCC pilot from 9 Nov 2026; first certificate no. 2026000001001 issued in the system ahead of generalisation.
+Mali's trade directorate, the DGCC, launched the pilot phase of digital import certificates for private vehicles on 9 November 2026. The first certificate, no. 2026000001001, was entered and printed in the new system. Customs, the tax services and licensed customs brokers are taking part before the system is extended.
 
 </div>
 
@@ -318,7 +318,7 @@ Eighty-four councillors and local government staff from 21 communes began a five
 
 **[Statistiques du commerce extérieur](https://www.instat-mali.org/fr/publications/statistiques-du-commerce-exterieur)** — Institut National de la Statistique (INSTAT), Mali, 5 October 2026
 
-INSTAT quarterly trade bulletins Q1 2013 to Q1 2026 and annual trade yearbooks 2017-2025, free to download.
+On a page dated 5 October 2026, Mali's statistics institute INSTAT lists quarterly trade bulletins from 2013 to early 2026. Annual trade yearbooks for 2017 to 2025 are also free to download. The list shows no bulletin for the fourth quarter of 2023 or the first quarter of 2020.
 
 </div>
 
@@ -346,7 +346,7 @@ Mali's Council of Ministers on 9 October 2026 took note of the country's fourth 
 
 **[Mali releases 2023–24 agricultural data under the 50x2030 Initiative](https://www.fao.org/in-action/agrisurvey/news/news-detail/mali-releases-2023-24-agricultural-data-under-the-50x2030-initiative/en)** — FAO, 3 November 2026
 
-First 50x2030 results for Mali: 7.45m ha cultivated, 8.84m t cereals; tables on national open data portal.
+FAO reported on 3 November 2026 that Mali published results of its 2023–24 agricultural survey, the first under the 50x2030 Initiative. The survey puts cultivated area at about 7.45 million hectares and cereal output at 8.84 million tonnes. Interactive tables are on Mali's national open data portal.
 
 </div>
 

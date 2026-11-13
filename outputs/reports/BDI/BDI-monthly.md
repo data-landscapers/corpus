@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: BDI
 ledger_rows: 21
 not_held: 9
-record: 046251f7898a
+record: d46a157e3826
 ---
 
 # News, Oct – Nov 2026
@@ -232,7 +232,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[Burundi begins groundwork for paperless COMESA trade certificates](https://lionweek.com/burundi-begins-groundwork-for-paperless-comesa-trade-certificates/)** — LIONWEEK, 11 November 2026
 
-Bujumbura meeting 9-12 Nov 2026 opens eCO action plan; no timetable or cost; five member states already live.
+Burundi and the COMESA secretariat met in Bujumbura on 9–12 November 2026 to prepare Burundi's connection to the regional electronic certificate of origin platform. The meeting feeds a national implementation action plan. No timetable or cost has been published.
 
 </div>
 
@@ -422,7 +422,7 @@ Burundi's meteorological institute, IGEBU, issued a moderate-severity heavy rain
 
 **[Burundi seeks Saudi support for digital ID and data centre at Doha telecoms summit](https://lionweek.com/burundi-seeks-saudi-support-for-digital-id-and-data-centre-at-doha-telecoms-summit/)** — LIONWEEK, 11 November 2026
 
-Ask made in Doha, no pledge; biometric card awaits a law; PAFEN USD 92m, 61% committed by March.
+Burundi's finance and digital economy minister, Alain Ndikumana, asked Saudi Arabia to consider backing a national digital ID card and data centre, Lionweek reported on 11 November 2026. The talks took place in Doha on the sidelines of ITU PP-26, and the ministry's statement mentions no agreement, pledge or timetable. Both projects sit in the World Bank's US$92m PAFEN project, 61% committed by March 2026. The biometric card still awaits a law on its use.
 
 </div>
 

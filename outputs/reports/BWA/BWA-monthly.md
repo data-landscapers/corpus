@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: BWA
 ledger_rows: 16
 not_held: 5
-record: 1227a6e67364
+record: 8cf71282c281
 ---
 
 # News, Oct – Nov 2026
@@ -276,7 +276,7 @@ The Ayre Index of youth AI readiness was launched at the November 2026 Commonwea
 
 **[Reliable statistics essential for growth](https://dailynews.gov.bw/news-detail/94087)** — Botswana Press Agency (BOPA) / Daily News, 11 November 2026
 
-Four pillars incl. data use and innovation; launched in Tlokweng by Acting President Gaolathe; tied to BETP and NDP 12.
+Acting President Ndaba Gaolathe launched Statistics Botswana's 2026–2030 corporate strategic plan in Tlokweng, the Daily News reported on 11 November 2026. The plan has four pillars: statistical excellence and leadership, data use and impact, institutional resilience, and innovation. The Acting President tied it to monitoring the Botswana Economic Transformation Programme.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: XAF
 ledger_rows: 76
 not_held: 3
-record: 3ae29b773e0b
+record: 72c0cf8456b7
 ---
 
 # News, Oct – Nov 2026
@@ -554,7 +554,7 @@ At a UNDP-backed event in Rome on 3 November 2026, the AI Hub and Moroccan firm 
 
 **[Meet the 10 startups joining the first Google Africa Applied AI Lab cohort](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/meet-the-10-startups-joining-the-first-google-africa-applied-ai-lab-cohort/)** — Google Africa Blog, 11 November 2026
 
-10 startups picked from 45+ countries' entries; Crane AI Labs, Intron, Tolbi among them; Accra demo day December 2026.
+Google named the ten start-ups in the first cohort of its Africa Applied AI Lab on 11 November 2026. They include Crane AI Labs (Uganda), Intron, Termii and Vendy (Nigeria), Satlyt (Kenya) and Tolbi (Senegal). Entrants came from more than 45 African countries, and a demo day is set for December 2026 in Accra.
 
 </div>
 

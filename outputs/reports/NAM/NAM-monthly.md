@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: NAM
 ledger_rows: 19
 not_held: 9
-record: 1e8ca21c117f
+record: 900d86d68847
 ---
 
 # News, Oct – Nov 2026
@@ -346,7 +346,7 @@ Namibia's Cabinet has directed the Office of the Prime Minister and the ICT mini
 
 **[Namibia Could Gain US$219 Million from AI, but Youth Face Readiness Challenges - Namibia Daily News](https://namibiadailynews.info/namibia-could-gain-us219-million-from-ai-but-youth-face-readiness-challenges/)** — Namibia Daily News, 10 November 2026
 
-Ayre Index 2026: 36th of 56 Commonwealth states, 42.7/100; 47% youth unemployment, 59.3% electricity access.
+The Ayre Think Tank's 2026 Commonwealth Youth AI Readiness Index ranks Namibia 36th of 56 countries, with 42.7 out of 100, Namibia Daily News reported on 10 November 2026. The index estimates AI could add US$219m to GDP over ten years in a moderate scenario. It records youth unemployment of 47% and electricity access of 59.3%.
 
 </div>
 

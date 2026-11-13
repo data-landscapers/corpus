@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: KEN
 ledger_rows: 92
 not_held: 5
-record: 6ae3a1fbc822
+record: 60f7e200e40d
 ---
 
 # News, Oct – Nov 2026
@@ -430,7 +430,7 @@ Namelok Wireless announced on 4 November 2026 a community internet network in Ki
 
 **[General Procurement Notice: Lake Victoria Basin Connectivity and Development Project (LVBCDP), P520201](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479589)** — Kenya National Highways Authority (World Bank procurement notice OP00479589), 6 November 2026
 
-USD 1bn World Bank financing sought; 815 km of roads with matching fibre optic cable, five design-build packages.
+Kenya intends to seek USD 1 billion of World Bank financing for a Lake Victoria Basin connectivity project. KeNHA's notice of 6 November 2026 covers about 815 km of road upgrades with fibre-optic cable along them. The roads fall into five design-build packages across eight counties.
 
 </div>
 
@@ -438,7 +438,7 @@ USD 1bn World Bank financing sought; 815 km of roads with matching fibre optic c
 
 **[Government seeks Sh129.92 billion World Bank loan to upgrade 815km of roads in eight counties | The Eastleigh Voice](https://eastleighvoice.co.ke/news/421770/government-seeks-sh12992-billion-world-bank-loan-to-upgrade-815km-of-roads-in-eight-counties)** — The Eastleigh Voice, 10 November 2026
 
-KeNHA seeks USD 1bn IDA loan for 815 km of roads with matching fibre optic cable across eight counties.
+Kenya's KeNHA issued a procurement notice for the Lake Victoria Basin Connectivity and Development Project, The Eastleigh Voice reported on 10 November 2026. It seeks US$1bn (Sh129.92bn) in IDA financing. The money covers about 815 km of roads and a similar length of fibre across eight counties. Procurement is expected in October–December 2026.
 
 </div>
 

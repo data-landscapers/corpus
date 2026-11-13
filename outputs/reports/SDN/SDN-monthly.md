@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: SDN
 ledger_rows: 32
 not_held: 5
-record: 753ec833cc1a
+record: 3e68dfc3933b
 ---
 
 # News, Oct – Nov 2026
@@ -118,7 +118,7 @@ Sudan's Council of Ministers approved three draft laws from the Ministry of Digi
 
 **[Sudanese Journalists' Syndicate documents 673 violations and calls for end to impunity](https://www.dabangasudan.org/en/all-news/article/sudanese-journalists-syndicate-documents-673-violations-and-calls-for-end-to-impunity)** — Dabanga Radio TV Online, 2 November 2026
 
-673 violations to June 2026; Cybercrime Act complaints against 47 journalists, 18 declared wanted; repeal demanded.
+The Sudanese Journalists' Syndicate counted 673 violations against journalists from April 2023 to end June 2026, including 34 killings. It recorded 64 prosecutions, among them Cybercrime Act complaints against 47 journalists and outlets, after which 18 were declared wanted. The syndicate demanded repeal of restrictive laws, Dabanga reported on 2 November 2026.
 
 </div>
 

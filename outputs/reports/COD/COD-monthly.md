@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: COD
 ledger_rows: 49
 not_held: 6
-record: d4855ad59c0f
+record: eb1659bf4445
 ---
 
 # News, Oct – Nov 2026
@@ -182,7 +182,7 @@ The justice minister spoke at a press briefing. He said several people prosecute
 
 **[«La Nation digitale 2030 : faire de la collaboration un principe de gouvernance »(Ministre de l’Economie numérique) - ACP](https://acp.cd/nation/la-nation-digitale-2030-faire-de-la-collaboration-un-principe-de-gouvernance-ministre-de-leconomie-numerique/)** — Agence congolaise de presse (ACP), 11 November 2026
 
-Donor coordination group set up July 2026; USD 510m WB-AFD project, USD 1bn presidential pledge cited.
+DR Congo's digital economy minister, Augustin Kibassa, closed a meeting of state IT directors in Kinshasa on 11 November 2026, ACP reported. Augustin Kibassa cited a USD 510 million World Bank and AFD digital project and a presidential pledge of about USD 1 billion. A donor group set up in July 2026 aligns funders to avoid duplicate projects.
 
 </div>
 
@@ -764,7 +764,7 @@ The DRC's digital economy minister visited the Skolkovo innovation centre near M
 
 **[Recrutement d'une Structure d'Appui à l'Ecosystème (SAE) chargée de la pré-incubation, de l'incubation et de l'accélération des startups - Programme « Akili Digital » Pilote Kinshasa](https://www.congoquotidien.com/2026/11/11/actualite-rdc-recrutement-sae-akili-digital/)** — Congo Quotidien, 11 November 2026
 
-World Bank credit 7602-ZR with AFD co-financing; addendum of 10 Nov 2026 sets criterion 3 at 25 points; CQS selection.
+DR Congo's digital transformation project unit, UG PTN, is recruiting a body to incubate and accelerate start-ups under the Akili Digital pilot in Kinshasa. An addendum of 10 November 2026 gives 25 points to knowledge of the Kinshasa ecosystem, Congo Quotidien reported. The World Bank finances the project under credit 7602-ZR, with AFD co-financing.
 
 </div>
 
@@ -788,7 +788,7 @@ World Bank credit 7602-ZR with AFD co-financing; addendum of 10 Nov 2026 sets cr
 
 **[Haut-Katanga : une classe mobile pour rapprocher les jeunes des métiers d’avenir](https://open.enabel.be/en/update/id/3814)** — Enabel (Open.Enabel), 11 November 2026
 
-Edubase truck with computers and internet tours the Lobito corridor; ICB certification prep, solar skills; GIZ partner.
+Enabel, GIZ and the Centre de Ressources du Haut-Katanga presented a mobile digital classroom, Njia ya Ujuzi, to provincial authorities in Lubumbashi, Enabel reported on 11 November 2026. The truck carries computers and an internet connection under the Edubase project. It will travel the Lobito corridor offering digital-skills training, ICB certification preparation and solar-technology courses.
 
 </div>
 

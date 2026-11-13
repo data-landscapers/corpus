@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: TUN
 ledger_rows: 46
 not_held: 4
-record: f41b06f6910e
+record: 3334fb2c4aaa
 ---
 
 # News, Oct – Nov 2026
@@ -292,7 +292,7 @@ La Poste Tunisienne said about 1.57 million pupils, some 75%, and about 287,300 
 
 **[Paiement mobile : Ouverts & dormants](https://africanmanager.com/paiement-mobile-ouverts-dormants/)** — African Manager, 8 November 2026
 
-End-2025: 113,739 payment-institution accounts, only 11.3% active; 17.3m dinars of losses; diaspora inflows dominate.
+African Manager analysed the Central Bank of Tunisia's 2025 banking supervision report on 8 November 2026. At end-2025 payment institutions held 113,739 accounts, 44% more than a year earlier. Only 12,843 (11.3%) were active, against 23,830 at end-2024. Transactions rose from 1,632m to 3,775m dinars, about 60% of it inflows from abroad.
 
 </div>
 
@@ -300,7 +300,7 @@ End-2025: 113,739 payment-institution accounts, only 11.3% active; 17.3m dinars 
 
 **[Paiement mobile en Tunisie : 7,1 millions de transactions et une croissance de 20 % à fin septembre 2026](https://www.tunisienumerique.com/paiement-mobile-en-tunisie-71-millions-de-transactions-et-une-croissance-de-20-a-fin-septembre-2026/)** — Tunisie Numérique, 10 November 2026
 
-719,000 wallets at 30 September 2026, up 53.3%; 20 payment providers processed 1,354.9m dinars.
+Tunisie Numérique reported Central Bank of Tunisia data showing 719,000 e-wallets at end-September 2026, up 53.3% on a year earlier. Wallet transactions rose 20% to 7.1 million, 64.2% of them payments. Twenty payment providers processed 1,354.9m dinars, up 6.6%.
 
 </div>
 
@@ -760,7 +760,7 @@ Tunisia's Ministry of Employment and Vocational Training signed a five-year rene
 
 **[Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+) - Tunisia (Global Findex Database)](https://api.worldbank.org/v2/country/TUN/indicator/FX.OWN.TOTL.FE.ZS?format=json)** — World Bank (Global Findex Database), 11 November 2026
 
-Findex: 26.6% of Tunisian women 15+ held an account in 2024, down from 28.7% (2021); World Bank API series.
+The World Bank's Global Findex series shows that 26.6% of Tunisian women aged 15 and over held an account at a financial institution or mobile-money provider in 2024. The share was 28.7% in 2021, 28.4% in 2017 and 20.7% in 2014. The World Bank updated the series on 11 November 2026.
 
 </div>
 
@@ -768,7 +768,7 @@ Findex: 26.6% of Tunisian women 15+ held an account in 2024, down from 28.7% (20
 
 **[Bancarisation en Tunisie : moins de comptes, plus d'agences, quel cap ?](https://www.challenges.tn/economie/bancarisation-en-tunisie-moins-de-comptes-plus-dagences-quel-cap/)** — Challenges TN, 11 November 2026
 
-Bank accounts down 1.8% to 10.5 million in 2025 as branches rise to 2,081; Findex puts account ownership at 37.8%.
+The Central Bank of Tunisia's banking supervision report shows bank accounts fell 1.8% in 2025 to 10.5 million, Challenges TN reported on 11 November 2026. The branch network grew by 17, from 2,064 to 2,081. Special savings accounts fell 5.9% and current accounts rose 1.2%; the Global Findex puts adult account ownership at 37.8% in 2024.
 
 </div>
 
