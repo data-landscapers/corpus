@@ -4,7 +4,7 @@ title: Bulletin
 subtitle: Last updated 12-11-2026 at 20:32 — Covering sources published on 12 November 2026
 window_start: 2026-11-12
 window_end: 2026-11-13
-items: 50
+items: 51
 collected_to: 2026-11-12 20:32
 compiled: 2026-11-12 21:20
 ---
@@ -401,6 +401,14 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 ### Data Storage
 
+<div class="bulletin-item" data-places="SDN" markdown="1">
+
+**[السجل المدني يستعيد قاعدة البيانات بالكامل رغم خسائر الحرب ويعلن بدء التقديم الإلكتروني للأطفال](https://alwatannewssd.com/79500/)** — الوطن اليوم, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
+
+Sudan's General Directorate of Civil Registry says its engineers have restored the registry database in full. The war damaged its archives and offices in Khartoum, Gezira and Sennar. The directorate is widening electronic registration and will take applications for children online. <span class="bulletin-item__also">*Also under [Registries](#registries) and [Digital Identity and CRVS](#digital-identity-and-crvs).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="ZAF XAF" markdown="1">
 
 **[SA’s data centre boom brings fresh power demands](https://www.itweb.co.za/article/sas-data-centre-boom-brings-fresh-power-demands/lLn14MmQ9QVMJ6Aa)** — ITWeb South Africa, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
@@ -512,6 +520,14 @@ South Africa's Department of Home Affairs has begun testing a digital asylum pla
 **[Facephi and Egypt Trust partner on digital identity and fraud prevention](https://www.biometricupdate.com/202611/facephi-and-egypttrust-partner-on-digital-identity-and-fraud-prevention)** — Biometric Update, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
 Egypt Trust is adding Facephi's identity-verification and fraud-detection technology to its locally hosted platform. Egypt Trust was among the first electronic signature and e-seal providers licensed by ITIDA. The partnership was announced at Cairo ICT and reported by Biometric Update on 12 November 2026.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="SDN" markdown="1">
+
+**[السجل المدني يستعيد قاعدة البيانات بالكامل رغم خسائر الحرب ويعلن بدء التقديم الإلكتروني للأطفال](https://alwatannewssd.com/79500/)** — الوطن اليوم, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
+
+Summarised under [Data Storage](#data-storage).
 
 </div>
 
@@ -628,6 +644,14 @@ Summarised under [Data protection](#data-protection).
 **[Données ouvertes ITIE-RDC](https://www.itierdc.net/open-data/)** — ITIE-RDC, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
 
 The DRC's Extractive Industries Transparency Initiative office publishes its sector data in open formats. Files in CSV, Excel and JSON, and a public API, cover revenue, mining output and the active mining-rights register. The mining, oil and forestry contracts are listed too. <span class="bulletin-item__also">*Also under [Open data](#open-data).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="SDN" markdown="1">
+
+**[السجل المدني يستعيد قاعدة البيانات بالكامل رغم خسائر الحرب ويعلن بدء التقديم الإلكتروني للأطفال](https://alwatannewssd.com/79500/)** — الوطن اليوم, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
+
+Summarised under [Data Storage](#data-storage).
 
 </div>
 
