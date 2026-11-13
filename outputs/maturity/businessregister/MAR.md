@@ -2,11 +2,11 @@
 
 ## Business register
 
-**Online registration.** [OMPIC states its electronic company-creation platform is now in service nationwide, with over 12,000 firms created electronically since the February 2023 Rabat pilot](<http://www.ompic.ma/fr/actualites/ompic-generalisation-de-la-plateforme-de-creation-dentreprises-par-voie-electronique-sur>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Online registration.** [In March 2025 OMPIC said its electronic company-creation platform was in service nationwide](<http://www.ompic.ma/fr/actualites/ompic-generalisation-de-la-plateforme-de-creation-dentreprises-par-voie-electronique-sur>). [Over 12,000 firms had been created electronically since the Rabat pilot of February 2023](<http://www.ompic.ma/fr/actualites/ompic-generalisation-de-la-plateforme-de-creation-dentreprises-par-voie-electronique-sur>).
 
-**Shared number.** [OMPIC says the 15-digit Identifiant Commun de l'Entreprise is one number used by all administrations alongside the commercial register, tax and CNSS numbers, mandatory on official documents from 1 July 2016 (2016, before the three-year window)](<http://www.ompic.ma/fr/content/identifiant-commun-de-lentreprise>).
+**Shared number.** [In 2016 OMPIC said the 15-digit Identifiant Commun de l'Entreprise (ICE) is one number used by all administrations](<http://www.ompic.ma/fr/content/identifiant-commun-de-lentreprise>). [It sits alongside the commercial register, tax and CNSS numbers](<http://www.ompic.ma/fr/content/identifiant-commun-de-lentreprise>). [It has been mandatory on official documents since 1 July 2016](<http://www.ompic.ma/fr/content/identifiant-commun-de-lentreprise>).
 
-**Beneficial owners.** No source found since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<http://www.ompic.ma/fr/actualites/ompic-generalisation-de-la-plateforme-de-creation-dentreprises-par-voie-electronique-sur>).
+**Beneficial owners.** No source found since October 2023 says the register collects beneficial owners. The nearest held fact: [OMPIC runs the platform through which firms are created](<http://www.ompic.ma/fr/actualites/ompic-generalisation-de-la-plateforme-de-creation-dentreprises-par-voie-electronique-sur>).
 
 ***Also on file***. None found.
 
