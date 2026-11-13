@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-uga-what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "PML Daily relaying the ministry says 5,587 officers have passed through the Uganda Institute of ICT, 843 of them completing a national artificial intelligence programme in the last financial year.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Uganda Institute of ICT",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
