@@ -1,6 +1,6 @@
 ---
 title: Chad: status report
-compiled: 2026-11-10
+compiled: 2026-11-13
 place: TCD
 region: XCA
 built_by: STATUS-INIT
@@ -116,7 +116,7 @@ In February 2026 the government was pressing Sotel Tchad and Airtel to fast-trac
 
 The state's answer is PMICE, the connectivity modernisation programme [launched in July 2020 with Huawei as contractor](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/) and financed by a [111 billion FCFA China Eximbank loan](https://cio-mag.com/tchad-un-pret-de-111-milliards-fcfa-pour-developper-les-tic/). Operators were [ordered under a seven-day ultimatum in September 2025 to connect to the national fibre network](https://afriqueitnews.com/tech-media/tchad-ordonne-operateurs-connecter-reseau-national-fibre-optique/). The first phase, covering the national data centre, a 1,200 km backbone and the state operator's mobile sites, [was provisionally accepted at Sarh on 20 December 2025](https://www.ecofinagency.com/news-digital/2212-51602-chad-completes-first-phase-of-205mln-digital-connectivity-project). Starlink runs on [a multiservice ISP licence granted on application without a public tender](https://www.toumaiwebmedias.com/assemblee-nationale-adoption-de-la-loi-sur-la-regulation-des-communications-electroniques-et-des-activites-postales/). In June 2026 the government [rejected fuel supply as a justification for the deteriorating quality of Airtel's and Moov's mobile services](https://www.connectingafrica.com/connectivity/chad-pushes-telcos-for-network-upgrades). [Around 500 localities remain cut off from the network or without basic digital services](https://salaminfo.com/2026/06/02/le-gouvernement-tchadien-et-la-banque-mondiale-accelerent-le-deploiement-des-routes-virtuelles/), the outstanding challenge named for the World Bank-financed PATN programme in June 2026.
 
-[The minister told German, European and cooperation-agency representatives on 9 October 2026 that the country has about 6,000 km of optical fibre and aims for 14,000 km](https://www.tachad.com/tchad-le-ministre-des-telecommunications-echange-avec-les-partenaires-europeens-sur-la-transformation-numerique/).
+[In November 2026 the minister told the ITU conference that 4,400 km of a targeted 14,000 km of optical fibre was built, 2,700 km under way and 6,900 km unfinanced](https://pp.itu.int/2026/en/itu_policy_statements/chad/). [He put mobile subscriptions at 15 million and internet subscriptions at 5.6 million at end-2025](https://pp.itu.int/2026/en/itu_policy_statements/chad/).
 
 ### Data Storage
 <!-- infra.store -->

@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: TCD
-ledger_rows: 17
+ledger_rows: 19
 not_held: 22
-record: a00d3608b55f
+record: a4aad21602ad
 ---
 
 # News, Oct – Nov 2026
@@ -142,6 +142,20 @@ An unnamed Libyan project official said Libya's fibre link to the Chadian border
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chad-Rwanda digital cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ITU PP-26 Doha: Chad and Rwanda explore stronger digital cooperation at ITU PP-26](https://www.techreviewafrica.com/news/8254/itu-pp-26-doha-chad-and-rwanda-explore-stronger-digital-cooperation-at-itu-pp-26)** — TechReviewAfrica, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
+
+Chad's telecoms minister, Haliki Choua Mahamat, met Rwanda's ICT minister at ITU PP-26 in Doha on 10 November 2026. The Chadian minister asked ADETIC and ARCEP Chad to prepare a study mission to Rwanda. ARCEP Chad is looking at cooperation with RURA on spectrum management, quality of service, competition and consumer protection.
+
+</div>
+
+</div>
+
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
@@ -159,6 +173,14 @@ An unnamed Libyan project official said Libya's fibre link to the Chadian border
 **[Tchad : le ministre des Télécommunications échange avec les partenaires européens sur la transformation numérique](https://www.tachad.com/tchad-le-ministre-des-telecommunications-echange-avec-les-partenaires-europeens-sur-la-transformation-numerique/)** — tachad.com, 9 October 2026
 
 Chad's digital minister Haliki Choua Mahamat told German, EU and GIZ representatives on 9 October 2026 that the country has about 6,000 km of optical fibre and aims for 14,000 km, citing the Trans-Saharan backbone and links with Libya and Nigeria. He also named a World Bank-funded project for uncovered areas and a national data centre, and said a digital code is still being drafted.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Chad - PP-26 policy statement](https://pp.itu.int/2026/en/itu_policy_statements/chad/)** — International Telecommunication Union, 11 November 2026
+
+4,400 of 14,000 km fibre built; 79% mobile, 30% internet (end-2025); Digital Code and data governance strategy.
 
 </div>
 
@@ -187,6 +209,20 @@ Chad's telecoms minister told the Global AI and Digital Summit in Seoul that the
 **[IXP Tracker - Tchad](https://pulse.internetsociety.org/fr/ixp-tracker/country/TD/)** — ISOC Pulse, 1 November 2026
 
 Internet Society Pulse lists one active internet exchange point in Chad in November 2026, N'Djamena IX, with nine members. It counts 11 active networks and scores the country 28 out of 100 for resilience.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile and internet subscriptions</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Chad - PP-26 policy statement](https://pp.itu.int/2026/en/itu_policy_statements/chad/)** — International Telecommunication Union, 11 November 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
