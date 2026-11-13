@@ -36,7 +36,8 @@ otherwise never reach `evidence.csv`.
 the same aspect and value from the same source, or about the same system - is not taken, and
 `maturity/{id}/refused.csv` records it: the fact's document, sub-indicator, aspect, value, date
 and system, the removed row it repeats and the `rule` that matched (`source`, `system`, or
-`unrecovered` where the removed row is in no facts file and aspect and value alone decide). Every
+`as_of` where the removed row is in no facts file but `evidence.csv`'s git history gives its date,
+or `unrecovered` where neither gives its source and aspect and value alone decide). Every
 `--merge` reads the file back and tests each refusal again, so one a correction no longer
 supports is taken. `ruled: {why}` marks one refused by hand, which stands; `held: {why}` one
 kept back because taking it moves a stage, which waits for `MATURITY-UPDATE.md` Level 2: the
@@ -77,8 +78,40 @@ def _norm(s) -> str:
     return " ".join(str(s or "").split()).casefold()
 
 
+def history_rows(path: str) -> dict[int, dict]:
+    """Row number -> the newest version git holds of each row ever in this `evidence.csv`.
+
+    A removed row whose facts file is gone is still in the file's history, with its source, date
+    and system, so a refusal need not fall back on aspect and value alone (housekeeping 62:
+    four genuine facts refused on 2026-11-12). One `git log -p` per country, read only when a
+    removed row is otherwise unrecovered."""
+    import csv
+    import subprocess
+    try:
+        out = subprocess.run(["git", "log", "-p", "--format=", "--", os.path.basename(path)],
+                             cwd=os.path.dirname(os.path.abspath(path)), capture_output=True,
+                             text=True, encoding="utf-8", errors="replace").stdout
+    except OSError:
+        return {}
+    rows: dict[int, dict] = {}
+    for line in out.splitlines():
+        if line[:1] not in "+-" or line[:3] in ("+++", "---"):
+            continue
+        try:
+            cells = next(csv.reader([line[1:]]))
+        except (csv.Error, StopIteration):
+            continue
+        if len(cells) != len(study_lib.EVIDENCE_FIELDS) or "-" not in cells[0]:
+            continue
+        tail = cells[0].split("-", 1)[1]
+        if tail.isdigit() and int(tail) not in rows:
+            rows[int(tail)] = dict(zip(study_lib.EVIDENCE_FIELDS, cells))
+    return rows
+
+
 def removed_rows(iso: str, fixes: list[dict], existing: list[dict], listed: dict[str, dict],
-                 files: dict[str, dict], done: set[str], refused: set[tuple] = frozenset()) -> list[dict]:
+                 files: dict[str, dict], done: set[str], refused: set[tuple] = frozenset(),
+                 history=None) -> list[dict]:
     """The rows `corrections.csv` removed, found again in the facts files they were merged from.
 
     A correction names a row by id, aspect and value, not by source or system, and the ladder has
@@ -143,6 +176,14 @@ def removed_rows(iso: str, fixes: list[dict], existing: list[dict], listed: dict
                             and (src["slug"], *said) not in refused and (not near or placed(src["slug"], texts, p)):
                         found.append({"row_id": rid, "source_slug": src["slug"], "sub_indicator": said[0],
                                       "aspect": aspect, "value": value, "system": _norm(said[4])})
+        if not found and history is not None and k is not None:
+            # No facts file answers it: the row as git last held it, if its claim agrees.
+            h = history().get(k)
+            if h and (h["aspect"].strip(), h["value"].strip()) == (aspect, value):
+                found.append({"row_id": rid, "source_slug": h["source_slug"].strip(),
+                              "sub_indicator": h["sub_indicator"].strip(), "aspect": aspect,
+                              "value": value, "system": _norm(h["system"]),
+                              "as_of": h["as_of"].strip()})
         out += found or [{"row_id": rid, "source_slug": "", "sub_indicator": "", "aspect": aspect,
                           "value": value, "system": ""}]
     return out
@@ -164,12 +205,15 @@ def refusal(gone: list[dict], slug: str, f: dict) -> tuple[str, str] | None:
             return g["row_id"], "source"
         if system and g["system"] == system and g["sub_indicator"] == sub:
             return g["row_id"], "system"
+        if g.get("as_of") and g["as_of"] == str(f.get("as_of", "") or "").strip()                 and g["sub_indicator"] == sub:
+            return g["row_id"], "as_of"
     return None
 
 
 def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
           existing: list[dict], fixes: list[dict] | None = None,
           merged: dict[str, str] | None = None, refused: list[dict] | None = None,
+          evidence_path: str | None = None,
           ) -> tuple[list[dict], list[dict], list[str], dict[str, str], list[dict]]:
     """`(new evidence rows, systems rows, problems, documents taken, refusals)` from one country's
     facts files.
@@ -223,14 +267,23 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
     standing = {(r["source_slug"], r["sub_indicator"], r["aspect"], r["value"], r["as_of"], r["system"]): r
                 for r in refused or []}
     still, today = {}, dt.date.today().isoformat()
+    cache: dict = {}
+
+    def history() -> dict[int, dict]:
+        if "rows" not in cache:
+            cache["rows"] = history_rows(evidence_path) if evidence_path else {}
+        return cache["rows"]
     gone = removed_rows(iso, fixes or [], existing, listed, files, done,
-                        {k for k in standing if k[0] in done})
+                        {k for k in standing if k[0] in done}, history)
 
     def refuse(n: str, slug: str, f: dict) -> bool:
         k = fkey(slug, f)
-        if standing.get(k, {}).get("rule", "").startswith(("ruled", "held")):
+        rule = standing.get(k, {}).get("rule", "")
+        if rule.startswith(("ruled", "held")):
             still[k] = standing[k]          # refused or held back by hand: not tested again
             return True
+        if rule.strip() == "release":
+            return False                    # released by a reassessment: taken, not tested again
         hit = refusal(gone, slug, f)
         if hit:
             still[k] = dict(zip(REFUSED_FIELDS, (iso, n, *k, *hit,
@@ -462,7 +515,8 @@ def main(argv=None) -> int:
             new, systems, more, taken, mine = merge(study, iso, study_lib.read_csv(
                 os.path.join(base, iso, "readlist.csv")), files, existing,
                 [f for f in fixes if f.get("iso3") == iso or f.get("row_id", "").startswith(f"{iso}-")],
-                before, [r for r in refusals if r["iso3"] == iso])
+                before, [r for r in refusals if r["iso3"] == iso],
+                os.path.join(base, iso, "evidence.csv"))
             refusals = [r for r in refusals if r["iso3"] != iso] + mine
             # Withdrawn before `merged.csv` existed: the hand-kept form of the same record.
             new = [r for r in new if (iso, r["source_slug"]) not in withdrawn]
