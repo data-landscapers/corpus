@@ -51,7 +51,7 @@ def shorten(cell: dict, y: str, top: dict) -> str:
     s, name = cell["stage"], strategy_name(top)
     if s == "1":
         return f"A {y} source says the country has no current statistics strategy and none in preparation."
-    if s == "2" and top["value"] == "adopted":
+    if s == "2" and top["value"] in ("adopted", "extended"):
         return f"{name[:1].upper() + name[1:]} was adopted by {y} and its period has ended; no current successor is known."
     if s == "2":
         return f"A national statistics strategy was being prepared in {y}; none adopted is known to be current."

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "strategy",
-      "stage": "2",
-      "standing": "preparing",
+      "stage": "unplaced",
+      "standing": "",
       "review": "",
       "evaluation": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GIN-003",
-      "gaps": "No source found shows an adopted strategy whose period is still running.",
-      "note": "Counted from the four questions by study-ladder-statisticsstrategy.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "",
+      "gaps": "The SNDS 2021-2025 ended in 2025 and no successor in preparation or adopted has been found; its adoption date has not been found, and no source dated in the last three years says the country has no strategy.",
+      "note": "GIN-002 and GIN-003 are later mentions of the SNDS 2021-2025, not its adoption, and its period ended in 2025, so questions 1 and 2 get no yes; GIN-004's December 2024 mid-term evaluation is of a strategy no longer current, and GIN-001's 2018 adoption of SNDS 2016-2020 is outside the window. No source states an absence, so the cell is unplaced, not stage 1.",
+      "as_at": "2026-11-13"
     }
   ]
 }

@@ -10,7 +10,8 @@ does it. The ladder is `maturity-study-statisticsstrategy.md` §2 and §3:
 1. **Preparing or adopted**: a `standing` of `preparing` dated inside three years of the
    as-at, or of `adopted` whose stated period opens inside them. A status table that lists a
    2017-2021 strategy in 2026 dates the listing, not the adoption. An extension issued inside them
-   is an adoption inside them, whatever period the strategy it extends was given.
+   is an adoption inside them, whatever period the strategy it extends was given: its row is
+   valued `extended`, which also counts as `adopted` everywhere below.
 2. **Current**: a `standing` of `adopted` whose stated period includes the as-at. The period
    is read from the row's `system`, then its `fact`: a range such as `2021-2025` or
    `2022/23-2026/27` runs to the last day of its final year. An adoption with no period
@@ -109,11 +110,13 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     pick = lambda aspect, values, since=None: [  # noqa: E731
         r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] in values
         and (since is None or d >= since)]
-    adopted = [(d, r) for d, r in live if r["aspect"] == "standing" and r["value"] == "adopted"]
+    adopted = [(d, r) for d, r in live if r["aspect"] == "standing" and r["value"] in ("adopted", "extended")]
     current = [r["row_id"] for d, r in adopted if period_end(r, d) >= as_at]
+    # An extension counts from the day it was issued, whatever period the strategy it extends had
+    # (housekeeping 66: the value says so, not the word "extend" anywhere in the fact).
     recent = pick("standing", ("preparing",), three) + [
         r["row_id"] for d, r in adopted if d >= three
-        and ((period_start(r) or d) >= three or "extend" in r["fact"].lower())]
+        and (r["value"] == "extended" or (period_start(r) or d) >= three)]
     reviewed = pick("review", ("reviewed",), three)
     evaluated = pick("evaluation", ("evaluated",), three) if (current or not adopted) else []
     none = pick("standing", ("none",), three)

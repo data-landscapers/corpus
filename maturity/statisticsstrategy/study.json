@@ -93,10 +93,12 @@
    ],
    "prefer": [
     "adopted",
+    "extended",
     "preparing"
    ],
    "values": [
     "adopted",
+    "extended",
     "preparing",
     "none"
    ]

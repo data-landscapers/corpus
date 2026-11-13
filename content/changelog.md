@@ -1,6 +1,7 @@
 ## 13 November 2026
 
 - Botswana, Eswatini and Chad now stand at 2 on the national data exchange system, where none had a stage, on UCL's DPI Map entries for their exchange systems. Botswana's entry says its system is in use but names no connected bodies, so it stays below 3.
+- Guinea's statistics strategy cell falls from 2 to unplaced: its SNDS 2021-2025 ended in 2025 and no successor has been found. The 2 had rested on a 2015 extension of an older strategy, misread as a recent one.
 - Madagascar's 2027 draft is in the tables: 114 lines read from the finance bill, MGA 14.0bn wholly and 107.4bn partly digital, most of the latter two fee-funded accounts, customs IT (MGA 46.1bn) and electronic passports (MGA 30.4bn); MGA 648bn of digital projects paid for by loans and grants is left out. 2026 gains 17 lines the first reading missed, among them the data-protection commission (MGA 971m revised), the passport account (26.6bn) and the civil-registration centre (1.7bn), taking its revised budget to MGA 3.2bn wholly and 83.9bn partly digital.
 
 ## 11 November 2026

@@ -23,9 +23,9 @@ The African Charter on Statistics (2009) and the Strategy for the Harmonisation 
 | 5 Leading | 1 |
 | 4 Operating | 4 |
 | 3 Established | 30 |
-| 2 Nascent | 11 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
-| Unplaced | 6 |
+| Unplaced | 7 |
 | No evidence | 2 |
 
 ## Countries
@@ -305,12 +305,6 @@ A national statistics strategy was being prepared in 2026; none adopted is known
 
 - PARIS21's January 2026 NSDS status table lists a strategy as being designed or awaiting adoption: NSDS (successor to NSDS 2018-2022) ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 
-### Guinea: 2 Nascent
-
-The SNDS 2021-2025 was adopted by 2024 and its period has ended; no current successor is known.
-
-- Guinea's INS says SNDS 2021-2025 is the country's third national statistics development strategy, after 2008-2013 (extended 2015) and 2016-2020 ([source, 2024-12-03](https://www.stat-guinee.org/index.php/actu/382-atelier-de-restitution-et-de-validation-du-rapport-de-mise-a-jour-de-la-strategie-nationale-de-developpement-de-la-statistique-snds-2021-2025)).
-
 ### Sierra Leone: 2 Nascent
 
 The E-NSDS-II (extension of NSDS II 2016-2020) was adopted by 2023 and its period has ended; no current successor is known.
@@ -341,6 +335,12 @@ A national statistics strategy was being prepared in 2026; none adopted is known
 No source found shows a current statistics strategy or one in preparation, so no stage is set.
 
 Not established: No strategy current or in preparation is on record, and no source dated in the last three years says the country has none.
+
+### Guinea: Unplaced
+
+The statistics strategy for 2021-2025 ended in 2025, and no successor has been found, so no stage is set.
+
+Not established: The SNDS 2021-2025 ended in 2025 and no successor in preparation or adopted has been found; its adoption date has not been found, and no source dated in the last three years says the country has no strategy.
 
 ### Guinea-Bissau: Unplaced
 

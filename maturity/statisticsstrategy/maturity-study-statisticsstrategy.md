@@ -52,7 +52,7 @@ Asked in order. Each is answered with a date and a link.
 - **The final evaluation of the strategy just ended counts for its successor** only where the successor is current; otherwise it is noted.
 - **Changes from the row as it stands.** Stage 4 asked for a costed plan, funding and a monitoring report together, and stage 5 for alignment with SHaSA and the Charter ratified. Costing needs the strategy's text read, and alignment is a statement of intent, so both go; the review and the evaluation are the two facts a notice states. Tanzania's stage 4 rests on a steering committee review and holds.
 
-`study.json` holds this as three aspects: `standing` (`adopted`, `preparing`, `none`) for questions 1 and 2, `review` (`reviewed`) for 3 and `evaluation` (`evaluated`) for 4. **For the drafter**: the strategy's period goes in `country_label` (e.g. *SNDS 2021-2025*).
+`study.json` holds this as three aspects: `standing` (`adopted`, `extended`, `preparing`, `none`; `extended` is an extension, counted as adopted from the day it was issued) for questions 1 and 2, `review` (`reviewed`) for 3 and `evaluation` (`evaluated`) for 4. **For the drafter**: the strategy's period goes in `country_label` (e.g. *SNDS 2021-2025*).
 
 ## 4. The norm
 
