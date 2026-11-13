@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: SLE
 ledger_rows: 24
 not_held: 4
-record: b0ba1debdc6a
+record: 348d309cba8c
 ---
 
 # News, Oct – Nov 2026
@@ -271,6 +271,22 @@ Sierra Leone's National Investment Board says its online one-stop business platf
 **[Communication Minister Explores NIB’s New Online Business Registration System](https://sierraloaded.sl/news/salima-nib-online-business-registration/)** — SierraLoaded, 6 November 2026
 
 Sierra Leone's National Investment Board showed its new Online Business Registration System to Communication Minister Salima Bah, SierraLoaded reported on 6 November 2026. Applicants can reserve a name, upload identification and download certificates online. The Board is working with the National Civil Registration Authority to bring the National Identification Number into registration.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[President Bio Launches Online Business Registration System](https://www.sierraleonemonitor.com/bio-launches-online-business-registration/)** — Sierra Leone Monitor, 11 November 2026
+
+Launched 10 November 2026; 24-hour processing pledged for complete applications, seven days for related services.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone Digitizes Business Registration as 75% of Firms Remain Unregistered](https://www.ecofinagency.com/news-digital/1111-60716-sierra-leone-digitizes-business-registration-as-75-of-firms-remain-unregistered)** — Ecofin Agency, 11 November 2026
+
+66 NIB services online; about 75% of firms unregistered per World Bank; 90-day performance report ordered.
 
 </div>
 
