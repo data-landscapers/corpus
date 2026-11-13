@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: XAF
-ledger_rows: 73
+ledger_rows: 76
 not_held: 3
-record: 22db25bf65af
+record: 3ae29b773e0b
 ---
 
 # News, Oct – Nov 2026
@@ -546,6 +546,20 @@ At a UNDP-backed event in Rome on 3 November 2026, the AI Hub and Moroccan firm 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google Africa Applied AI Lab</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Meet the 10 startups joining the first Google Africa Applied AI Lab cohort](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/meet-the-10-startups-joining-the-first-google-africa-applied-ai-lab-cohort/)** — Google Africa Blog, 11 November 2026
+
+10 startups picked from 45+ countries' entries; Crane AI Labs, Intron, Tolbi among them; Accra demo day December 2026.
+
+</div>
+
+</div>
+
 ### Open data
 
 <div class="monthly-story" markdown="1">
@@ -566,6 +580,8 @@ AUDA-NEPAD and the Science for Africa Foundation invited stakeholders, in a noti
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -661,6 +677,22 @@ MTN Group's update for the nine months to 30 September 2026 put service revenue 
 **[IXPs list — The African IXP Association](https://af-ix.org/ixps-list)** — African IXP Association (AF-IX), 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
 
 The African IXP Association's page, on file under 9 November 2026, lists Internet exchange points by country and city with the year each opened. Entries include Angola-IXP in Luanda (2006), Benin IX in Cotonou (2013) and the Kinshasa exchange KINIX in the DRC (2012). The page carries no date of its own.
+
+</div>
+
+</div>
+
+### Energy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data-centre electricity consumption in Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SA’s data centre boom brings fresh power demands](https://www.itweb.co.za/article/sas-data-centre-boom-brings-fresh-power-demands/lLn14MmQ9QVMJ6Aa)** — ITWeb South Africa, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Electron Intelligence forecasts that South African data centres will add 7.77 TWh of power demand by 2035, ITWeb reported on 12 November 2026. The firm projects Africa's data centre use rising from 2.55 TWh in 2025 to 12.60 TWh in 2035. It finds that only 337 MW of 647 MW announced has a commissioning date by 2035.
 
 </div>
 
@@ -921,6 +953,14 @@ ICBC and Standard Bank Group, authorised in June as joint renminbi clearing bank
 **[FINAL COMMUNIQUÉ OF THE TWENTY FIFTH SUMMIT OF THE COMESA AUTHORITY OF HEADS OF STATE AND GOVERNMENT](https://www.comesa.int/final-communique-of-the-twenty-fifth-summit-of-the-comesa-authority-of-heads-of-state-and-government/)** — COMESA, 26 October 2026
 
 Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Central Bank Governors’ Bureau Strengthen Regional Monetary and Payments Institutions](https://www.comesa.int/central-bank-governors-bureau-strengthen-regional-monetary-and-payments-institutions/)** — Common Market for Eastern and Southern Africa (COMESA), 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
+
+The bureau of COMESA's central bank governors met in Lilongwe on 11 November 2026 to review revised charters for the COMESA Clearing House and the COMESA Monetary Institute. COMESA said its Digital Retail Payment Platform, a cross-border retail system in local currencies, was nearing user trials. Live transactions are to be piloted between Malawi and Zambia.
 
 </div>
 
@@ -1281,6 +1321,20 @@ The AU Commission and Russia signed a non-binding Action Plan for 2027-2029 in M
 **[План действий Форума партнерства Россия – Африка на 2027–2029 годы](http://kremlin.ru/supplement/6590)** — President of Russia (Kremlin), 29 October 2026
 
 Russia and African states adopted the Russia–Africa Partnership Forum Action Plan for 2027–2029 at the third Russia–Africa Summit in Moscow on 29 October 2026. Its ICT and security chapters cover personal and biometric data protection, an AI capacity programme, compute and data-centre infrastructure, and sovereign communications platforms. The plan states what the parties intend to do.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfDB-AFD partnership memorandum 2026-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Groupe de la Banque africaine de développement et l'Agence française de développement renouvellent leur partenariat pour accélérer le financement des priorités de développement en Afrique](https://www.afd.fr/fr/commmuniques-de-presse/le-groupe-de-la-banque-africaine-de-developpement-et-lagence-francaise-de)** — Agence Française de Développement, 12 November 2026
+
+The African Development Bank Group and the Agence française de développement signed a memorandum of understanding for 2026-2031 in Paris on 10 November 2026. Its areas include digital infrastructure, data governance and the responsible use of AI. Energy and transport are also covered. No sum is attached; the two lenders have co-financed 17 projects in 14 countries since 2021.
 
 </div>
 
