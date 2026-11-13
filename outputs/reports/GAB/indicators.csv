@@ -239,7 +239,7 @@ No tariff basket, price index or income-share measure is published at any date, 
 2026-06 - Moov Africa [sold 9 GB for FCFA 10,000 over 30 days](2026-06-01-gab-pass-waz).",GAB-gov.legislate-finance-law-2026-digital-measures|GAB-gov.policy-infrastructure-sharing-decision|GAB-infra.connect-internet-penetration|GAB-infra.connect-mobile-internet-usage-gap|GAB-infra.connect-mobile-data-bundle-prices,3,,2.65,% of monthly GNI per capita,2025,ref:itu-price-basket-5gb-gni@2025-12-10,,,2026-08-31,0,published tariffs; no primary in the base
 infra.connect--national-fibre-backbone,Movement,"[2,000 km of backbone](2026-07-27-agp-gabon-communications-spatiales-11-recommandations-souverainete) is deployed, with 88 per cent forest cover cited as the physical limit on extending it further.","The figure is ministry-stated at a satellite seminar in July 2026 rather than a regulator or operator return, and extension works are said to be under way ([backbone](2026-07-27-agp-gabon-communications-spatiales-11-recommandations-souverainete)).
 
-On access, the incumbent announced nine new fibre-to-the-home localities for 2025 on top of eight opened in 2024, and the repository holds a plan and never a completion ([access programme](2025-01-29-gabon-moov-ftth-coverage-leader)).
+On access, the incumbent announced nine new fibre-to-the-home localities for 2025 on top of eight opened in 2024; no completion has been found ([access programme](2025-01-29-gabon-moov-ftth-coverage-leader)).
 
 The first technology-neutral fixed authorisation was signed with the regulator in January 2025 carrying no build obligation or coverage target, and nothing is on record of what has been built under it since ([fixed authorisation](2025-01-07-gabon-airtel-fixed-services)).
 
@@ -505,7 +505,7 @@ dpi.mis--health,"Mixed, a national health information platform launched while th
 
 No facility count beyond the pilots, interconnection figure or national deployment plan is published, and the project that funds it entered its closure phase in June 2026 with no outcome rating held.
 
-A separate national platform was [launched at national scale on 6 December 2024 at a ceremony presided over by the interim prime minister, with the World Health Organization country office and a global health fund providing financial and technical support, a national medical research centre contributing, and a regional implementing partner designing the system and training staff](2025-06-03-dhis2-officially-launched-gabon). The account is the implementing partner's own; no facility count, reporting rate or government statement of the deployment is held.
+A separate national platform was [launched at national scale on 6 December 2024 at a ceremony presided over by the interim prime minister, with WHO and a global health fund supporting it and a regional partner building the system](2025-06-03-dhis2-officially-launched-gabon). The account is the implementing partner's own; no facility count, reporting rate or government statement of the deployment is held.
 
 Two health information systems, one donor-launched at national scale and one project-funded and stuck at thirteen sites, are described in the repository with nothing stating how they relate.
 
@@ -554,15 +554,15 @@ dpi.govtech--e-government-services,Movement,"A [public finance system went live]
 
 2026-10-02 - the digital-infrastructure agency [handed the PROXIGAB platform to the small-business directorate](2026-10-02-plateforme-numerique-proxigab-officiellement-presentee).
 
-2026-10-09 - the postal company [presented a Gabon-hosted application combining payments, public and postal services and insurance](2026-10-09-gab-gabonreview-poste-sa-akiba-super-app).
+2026-10-09 - the postal company [presented a Gabon-hosted app for payments, public and postal services](2026-10-09-gab-gabonreview-poste-sa-akiba-super-app).
 
-2026-10-12 — [the civil-service ministry prepared a tender for an integrated human resources system interoperable with payroll, budget and national identification](2026-10-13-gab-fonction-publique-sigrh-preparatifs); on 25 October its [terms of reference were drafted and FCFA 5.38bn requested for 2027](2026-10-26-gab-fonction-publique-5-38-milliards-de-fcfa-pour-accelerer-la-modernisation-en-2027).
+2026-10-12 — [the civil-service ministry prepared a tender for an integrated human resources system](2026-10-13-gab-fonction-publique-sigrh-preparatifs); on 25 October [FCFA 5.38bn was requested for it for 2027](2026-10-26-gab-fonction-publique-5-38-milliards-de-fcfa-pour-accelerer-la-modernisation-en-2027).
 
 2026-10-22 — the single window [entered deployment with its payroll-declaration and TresorPay portals, full deployment due by December 2027](2026-10-22-gab-gabon-connect-tresorpay-dus-le-gabon-mise-sur-le-numerique-p).
 
 2026-04-22 - [a national catalogue of more than 300 public services, stated 80% complete, was presented](2026-04-23-gab-gabon-catalogue-national-presentation-de-l-interface-de-la-future-plat).
 
-2026-11-05 - [the civil-service pension and family fund moved school-allowance certificates online through its BAANA platform, paper-free in Greater Libreville](2026-11-06-gab-allocation-de-rentree-scolaire-2027-2028-la-cppf-accelere-sa-revolutio).
+2026-11-05 - [the civil-service pension fund moved school-allowance certificates online](2026-11-06-gab-allocation-de-rentree-scolaire-2027-2028-la-cppf-accelere-sa-revolutio).
 
 2026-11-03 - two ministries [signed a protocol for AGRI-TRACK 241, a farm-data platform whose first module serves 150 poultry farms](2026-11-07-gab-gabon-agriculture-agri-track-241-une-plateforme-num-rique-pour-accompa).
 
