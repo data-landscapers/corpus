@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-rwa-rwandas-data-governance-navigating-data-governance-in-the-public-secto",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "Brookings' Foresight Africa 2024 viewpoint says the formulation of Rwanda's Law on Data Privacy and Protection, enacted 15 October 2021, involved multistakeholder consultation with input from the private sector, public sector, academia, civil society and industry.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Law on Data Privacy and Protection",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

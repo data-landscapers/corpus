@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "consultation",
-      "stage": "2",
-      "hearing": "held",
+      "stage": "3",
+      "hearing": "answered",
       "standing": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GNB-001",
-      "gaps": "The October 2025 workshop on the universal access texts published its twelve comments and answers, but its participants are not shown to come from outside government; no rule-required consultation or standing body.",
-      "note": "ARN-TIC put the draft Electronic Transactions Law out for written comment in May 2026, a consultation held. The only published answers, to the October 2025 universal access workshop, come from a workshop whose participants are not named, so not stage 3.",
-      "as_at": "2026-11-01"
+      "stage_sources": "GNB-003;GNB-001",
+      "gaps": "No source from the last three years says a consultation on a digital law or policy was held because a law, decree or published procedure required it. No standing body is shown giving a view.",
+      "note": "ARN published in July 2026 its report on the consultation on the draft spectrum fees order, naming Orange Bissau's contribution and what it accepted, a yes to questions 1 and 2. The report cites a law but does not say it required the consultation, so not stage 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

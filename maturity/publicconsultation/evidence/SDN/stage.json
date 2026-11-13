@@ -1,16 +1,17 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "consultation",
-   "stage": "no evidence",
-   "hearing": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says people outside government were asked for their views on a digital law or policy, or that they were not.",
-   "note": "Counted from the four questions by study-ladder-publicconsultation.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "consultation",
+      "stage": "1",
+      "hearing": "none",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-001",
+      "gaps": "No source from the last three years says people outside government were asked for their views on a digital law or policy.",
+      "note": "Skyline International says the Cabinet approved the October 2025 cybercrime law amendments without public consultation. No yes to question 1 is held inside three years.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

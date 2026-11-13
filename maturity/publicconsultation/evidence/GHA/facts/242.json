@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-17-gha-mocdti-engages-stakeholders-on-draft-misinformation-disinformation-hat",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The Ministry of Communication, Digital Technology and Innovations says it began a two-day stakeholder meeting on 10 February 2026 in Accra to discuss, clause by clause, the inputs received in public consultations on the Draft Misinformation, Disinformation, Hate Speech and Publication of Other Information Bill.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "Draft Misinformation, Disinformation, Hate Speech and Publication of Other Information Bill",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

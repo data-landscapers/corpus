@@ -1,16 +1,17 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "consultation",
-   "stage": "2",
-   "hearing": "held",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-003;TUN-001",
-   "gaps": "No published report of a consultation on a digital law or policy, comments received or written answer to them from the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-publicconsultation.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "consultation",
+      "stage": "3",
+      "hearing": "answered",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-006;TUN-001",
+      "gaps": "No source from the last three years says a consultation on a digital law or policy was held because a law, decree or published procedure required it.",
+      "note": "INT published in January 2026 a synthesis and the full contributions to its consultation on value-added telecommunications services, a yes to questions 1 and 2. No source says a consultation was held because a rule required it, so not stage 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

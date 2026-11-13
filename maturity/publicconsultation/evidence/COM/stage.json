@@ -1,16 +1,17 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "consultation",
-   "stage": "no evidence",
-   "hearing": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says people outside government were asked for their views on a digital law or policy, or that they were not.",
-   "note": "Counted from the four questions by study-ladder-publicconsultation.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "consultation",
+      "stage": "2",
+      "hearing": "held",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-001",
+      "gaps": "No published report of a consultation on a digital law or policy, comments received or written answer to them from the last three years is held. Private, community and island media say they were not invited to the workshop.",
+      "note": "The August 2025 validation workshop on the new information and communication code, which reaches online platforms, had the journalists' union in the room, a yes to question 1. Nothing found shows what was said being published.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

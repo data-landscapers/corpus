@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-civ-public-consultation-on-the-development-of-guidelines-for-the-implement",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The telecoms regulator ARTCI opened a public consultation from 6 July to 6 August 2026 on guidelines for net neutrality, inviting all stakeholders and interested individuals or entities; it says it will publish all responses with a summary report.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "ARTCI net neutrality consultation",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": "Publication of responses is promised, not yet reported."
+}

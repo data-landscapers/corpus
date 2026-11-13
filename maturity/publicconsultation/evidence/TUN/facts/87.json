@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-27-tun-synthese-des-reponses-a-la-consultation-publique-sur-le-developpement",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "answered",
+   "fact": "Tunisia's telecoms authority INT says on 27 January 2026 that it published a synthesis of responses and the full contributions to its public consultation on developing value-added telecommunications services.",
+   "as_of": "2026-01-27",
+   "date_precision": "day",
+   "system": "INT consultation on value-added telecommunications services",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

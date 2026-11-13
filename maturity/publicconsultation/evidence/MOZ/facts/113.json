@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-18-moz-consultas-publicas-sobre-transformacao-digital-entram-em-fase-de-valid",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "INTIC's validation workshop in Nampula on 18 May 2026 on the proposed National Digital Transformation Strategy brought together government, private sector, academia and civil society, after public consultations in Maputo, Zambezia and Cabo Delgado and debates in Inhambane and Sofala.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "National Digital Transformation Strategy consultations",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

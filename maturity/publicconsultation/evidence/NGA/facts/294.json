@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-nga-public-inquiries-on-the-draft-internet-code-of-practice-and-draft-regu",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The Nigerian Communications Commission published its draft Internet Code of Practice, Regulation on Licensing and Enforcement Process Regulations on its website for comment, with written submissions due by 31 October 2025 and virtual public inquiries set under section 57 of the Act for 11 and 12 November 2025.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Draft Internet Code of Practice (as amended)",
+   "class": "consultation"
+  },
+  {
+   "sub_indicator": "consultation",
+   "aspect": "standing",
+   "value": "required",
+   "fact": "The notice says the public inquiries on the draft subsidiary legislation are held in accordance with section 57 of the Nigerian Communications Act 2003.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Public inquiries under section 57, Nigerian Communications Act 2003",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

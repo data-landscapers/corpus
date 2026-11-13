@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-15-lbr-lta-seeks-stake-holder-input-on-draft-telecommunications-infrastructur",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The Liberia Telecommunications Authority held its first public consultation on draft telecommunications infrastructure regulations on 9 October 2026 with mobile operators, ISPs and other stakeholders.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "LTA infrastructure regulations consultation",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
