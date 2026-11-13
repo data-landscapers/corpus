@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: ZMB
-ledger_rows: 26
+ledger_rows: 28
 not_held: 32
-record: 248a3d346566
+record: 45c08f07cb3c
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: 248a3d346566
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -262,6 +264,20 @@ A University of Zambia study, reported on 8 November 2026, examined the electron
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional digital retail payments platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Central Bank Governors’ Bureau Strengthen Regional Monetary and Payments Institutions](https://www.comesa.int/central-bank-governors-bureau-strengthen-regional-monetary-and-payments-institutions/)** — Common Market for Eastern and Southern Africa (COMESA), 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+The bureau of COMESA's central bank governors met in Lilongwe on 11 November 2026 to review revised charters for the COMESA Clearing House and the COMESA Monetary Institute. COMESA said its Digital Retail Payment Platform, a cross-border retail system in local currencies, was nearing user trials. Live transactions are to be piloted between Malawi and Zambia.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -377,6 +393,28 @@ Zambia's meteorological department and Ministry of Agriculture began building a 
 **[ZAMBIA STRIVES TO BRIDGE DIGITAL GAP - Zambia 24](https://zambia24.com/2026/11/09/zambia-strives-to-bridge-digital-gap/)** — Zambia 24, 9 November 2026
 
 Zambia released its 2025 national survey on access and use of ICTs on 9 November 2026. Individual internet access was 29.7% in 2025, up from 25.2% in 2022. Only 7.7% of respondents knew of ZamPortal.
+
+</div>
+
+</div>
+
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#rural-digital-data-capture">Rural digital data capture</a>
+</nav>
+
+### Rural digital data capture
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Satellite terminals in rural public facilities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia Deploys 751 Starlink Kits to Health Facilities with UNDP Support](https://techafricanews.com/2026/11/12/zambia-deploys-751-starlink-kits-to-health-facilities-with-undp-support/)** — Tech Africa News, 12 November 2026
+
+Smart Zambia Institute has begun deploying 751 Starlink kits to health facilities in all 10 provinces, Tech Africa News reported on 12 November 2026. The Global Fund pays for the kits through the Ministry of Health, and UNDP supports the rollout. The first 90 kits went to the Western Province health office.
 
 </div>
 
