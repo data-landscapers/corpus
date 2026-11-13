@@ -1,17 +1,18 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "3",
-   "hubs": "inservice",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SSD-001",
-   "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "3",
+      "hubs": "inservice",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-001",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "Rebuild 2026-11-13: Orange Corners South Sudan runs six months of training and mentorship, with 24 entrepreneurs pitching in Juba in September 2025 (SSD-001), so 3 holds. The Rumbek hub has no programme on record, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -9,10 +9,10 @@
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-001;TCD-002",
+      "stage_sources": "TCD-003;TCD-001",
       "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: the N'Djamena technology innovation centre launched in October 2025 with no programme (TCD-001), and Chad Innovation Hub's tenants name no cohort (TCD-003), so 2 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

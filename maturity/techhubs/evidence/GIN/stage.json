@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "2",
-      "hubs": "underway",
+      "stage": "3",
+      "hubs": "inservice",
       "cities": "",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GIN-001",
-      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "Stage 4c 2026-11-12: GIN-003 is a general comment on incubators naming no hub or cohort; Saboutech's own page (GIN-002) is dated only 2026, so it is not counted as a dated programme. No dated cohort is held, so not 3.",
-      "as_at": "2026-11-12"
+      "stage_sources": "GIN-002;GIN-003",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "Rebuild 2026-11-13: Saboutech's own 2026 page, published by the as-at, says it runs a one-year incubation and a 12-24 month acceleration and has incubated over 35 startups (GIN-002), read as Comoros's Innov'Lab (COM-006) is, so 2 to 3. Nothing places hubs in a second city, so not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

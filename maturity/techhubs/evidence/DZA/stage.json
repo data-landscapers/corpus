@@ -1,17 +1,18 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "2",
-   "hubs": "underway",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-002;DZA-001",
-   "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "2",
+      "hubs": "underway",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-001;DZA-002",
+      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
+      "note": "Rebuild 2026-11-13: Algeria's AI start-up cluster opened in April 2026 with no cohort named (DZA-001), and the drone platform's intake is a target (DZA-003), so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

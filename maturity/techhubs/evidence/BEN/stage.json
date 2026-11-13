@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "3",
-   "hubs": "inservice",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-001;BEN-003",
-   "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "3",
+      "hubs": "inservice",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-003;BEN-001",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "Rebuild 2026-11-13: the Cyber Incub programme at L'Envol has supported ten startup teams since November 2025 (BEN-003), so 3 holds. No fact places hubs with programmes in a second city, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

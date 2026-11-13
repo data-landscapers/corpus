@@ -1,17 +1,18 @@
 {
- "iso3": "ERI",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "3",
-   "hubs": "inservice",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ERI-001",
-   "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "ERI",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "2",
+      "hubs": "underway",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ERI-001",
+      "gaps": "No source shows a hub running an incubation or acceleration programme for startups: the NUEYS hub's training is for school students.",
+      "note": "Rebuild 2026-11-13: the NUEYS hub's six-month training levels are for Grade 9-11 students (ERI-001, April 2025), not a cohort of startups, so 3 to 2. The hub is open, which is stage 2.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

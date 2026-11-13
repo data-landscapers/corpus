@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "4",
-   "hubs": "inservice",
-   "cities": "several",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-004",
-   "gaps": "No source found since October 2023 says a science or technology park is in service with tenants.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "4",
+      "hubs": "inservice",
+      "cities": "several",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-003;CMR-004",
+      "gaps": "No source found since October 2023 says a science or technology park is in service with tenants.",
+      "note": "Rebuild 2026-11-13: TechCabal names accelerators in Douala and Yaounde and hubs in Buea in July 2025 (CMR-003, CMR-004), so 4 holds. Douala Tech Park has no startup tenants on record, so not 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

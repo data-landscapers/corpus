@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "3",
-   "hubs": "inservice",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-002;SDN-003",
-   "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "3",
+      "hubs": "inservice",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-002;SDN-003",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "Rebuild 2026-11-13: 249Startups ran the sixth Orange Corners Sudan demo day for eight startups in December 2025 (SDN-003), so 3 holds. No fact places hubs with programmes in a second city, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

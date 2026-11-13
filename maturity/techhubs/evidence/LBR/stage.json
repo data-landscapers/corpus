@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "2",
-   "hubs": "underway",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-001",
-   "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "2",
+      "hubs": "underway",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-001",
+      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
+      "note": "Rebuild 2026-11-13: LiYEPA, a six-month pilot accelerator, was launched in June 2026 with applications open and no cohort on record (LBR-001), so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

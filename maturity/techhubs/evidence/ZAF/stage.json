@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "ZAF-004;ZAF-001",
       "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: Google's accelerator took a cohort of 15 startups in October 2026 (ZAF-004), so 3 holds. The facts placing hubs in Pretoria, Cape Town and Durban date from 2017, outside the three years, so not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

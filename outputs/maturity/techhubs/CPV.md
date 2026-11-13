@@ -10,4 +10,4 @@
 
 ***Also on file***. [NOSi Akademia](<https://expressodasilhas.cv/eitec/2025/01/15/digital-awards-cabo-verde-anuncia-finalistas-da-sua-primeira-edicao/95141>).
 
-***Not found***. No source found since October 2023 says hubs with programmes are in service in two or more cities.
+***Not found***. No source has been found showing a hub running an incubation or acceleration programme with a cohort of startups.

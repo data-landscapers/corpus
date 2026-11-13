@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "3",
-   "hubs": "inservice",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MDG-001",
-   "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "3",
+      "hubs": "inservice",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-001",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "Rebuild 2026-11-13: Orange Digital Center Madagascar incubated ten startups over nine months (MDG-001, January 2026), so 3 holds. The second Digital Center is still to be built, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

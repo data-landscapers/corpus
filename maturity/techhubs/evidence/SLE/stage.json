@@ -9,10 +9,10 @@
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-001;SLE-004",
+      "stage_sources": "SLE-007;SLE-006",
       "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: the FinTech Innovation Lab at Fourah Bay College was launched in November 2026 with no cohort yet on record (SLE-007), so 2 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

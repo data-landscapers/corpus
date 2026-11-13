@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "3",
-      "hubs": "inservice",
+      "stage": "2",
+      "hubs": "underway",
       "cities": "",
-      "park": "",
+      "park": "tenants",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-006",
-      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "CPV-008;CPV-011",
+      "gaps": "No source has been found showing a hub running an incubation or acceleration programme with a cohort of startups; TechPark CV's tenants do not meet that rung.",
+      "note": "Rebuild 2026-11-13: AfriLabs's listing of Maio Business Center's programmes (CPV-006) and the BOOST.CV sessions (CPV-008) name no cohort, read as Kenya's BetaLab (KEN-006) is, so 3 to 2. The parks' tenants cannot carry the cell past the rung it misses.",
+      "as_at": "2026-11-13"
     }
   ]
 }

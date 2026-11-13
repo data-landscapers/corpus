@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "2",
-   "hubs": "underway",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NER-001;NER-002",
-   "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "2",
+      "hubs": "underway",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-002;NER-001",
+      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
+      "note": "Rebuild 2026-11-13: UNIPOD Niger called for its first incubation cohort in August 2026 (NER-002), an intake not yet made, so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

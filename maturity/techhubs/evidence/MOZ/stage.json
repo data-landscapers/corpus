@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "3",
+      "stage": "4",
       "hubs": "inservice",
-      "cities": "",
+      "cities": "several",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-001;MOZ-004",
-      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MOZ-004;MOZ-006",
+      "gaps": "No source found since October 2023 says a science or technology park is in service with tenants.",
+      "note": "Rebuild 2026-11-13: ThinkLab in Maputo took 12 startups in its first cycle (MOZ-004) and the ATDI incubator in Nampula runs a pre-incubation cohort of seven (MOZ-006, July 2026), so hubs with programmes run in two cities: 3 to 4. The science parks have no tenants on record, so not 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "COD-002;COD-003",
       "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: Silikin Village in Kinshasa runs incubation and a first acceleration cohort of five (COD-002, COD-003), so 3 holds. No hub with programmes is on record outside Kinshasa, so not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MLI-001",
       "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: Orange Corners Mali, run by DoniLab, closed its fourth six-month cohort of 21 in June 2026 (MLI-001), so 3 holds. The cohort came from three towns, but no hub with programmes is placed outside Bamako, so not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

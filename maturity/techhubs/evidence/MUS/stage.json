@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MUS-004;MUS-001",
       "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: the National SME Incubator Scheme's six incubators run incubation and acceleration (MUS-004) and Turbine runs cohorts (MUS-001), so 3 holds. No fact places them in two or more cities, so not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

@@ -10,4 +10,4 @@
 
 ***Also on file***. [Dreams Tech Hub](<https://new.afrilabs.com/index.php/hub_country/guinea/>); [Data Center national](<https://horoya.net/2026/07/15/transformation-numerique-le-mceni-accelere-les-projets-de-data-center-national-et-de-technopole-avec-le-groupe-corex/>).
 
-***Not found***. No source found since October 2023 says: does a hub run programmes for startups.
+***Not found***. No source found since October 2023 says hubs with programmes are in service in two or more cities.

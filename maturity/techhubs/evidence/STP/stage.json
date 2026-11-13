@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "STP-002",
       "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: REINA's second Empreende+ round gave 33 applicants five weeks of training and funded four (STP-002, November 2025), so 3 holds. Every programme on record is in Sao Tome, so not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

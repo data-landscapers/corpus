@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "2",
-   "hubs": "underway",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-001;AGO-002",
-   "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "2",
+      "hubs": "underway",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-001;AGO-002",
+      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
+      "note": "Rebuild 2026-11-13: the Luanda Science and Technology Park was inaugurated in June 2026 (AGO-001) and a decree set up its managing company (AGO-002); the incubation and acceleration schemes on record name no cohort of startups, so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

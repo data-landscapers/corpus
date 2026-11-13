@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GNQ-001",
       "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: Fundacion IDENTIC signed incubation agreements with six projects in March 2026 (GNQ-001), so 3 holds. The Malabo and Bata incubator ran in 2022, outside the three years, so not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

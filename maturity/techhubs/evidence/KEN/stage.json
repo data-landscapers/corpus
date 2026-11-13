@@ -9,10 +9,10 @@
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001;KEN-002",
+      "stage_sources": "KEN-003;KEN-001",
       "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-11-13: the Kenya AI Accelerator call (KEN-003) and Konza's AWS centre (KEN-001) are under way, and BetaLab's incubation focus names no cohort (KEN-006), so 2 holds.",
+      "as_at": "2026-11-13"
     }
   ]
 }

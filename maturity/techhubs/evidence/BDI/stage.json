@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "4",
-   "hubs": "inservice",
-   "cities": "several",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-002",
-   "gaps": "No source found since October 2023 says a science or technology park is in service with tenants.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "4",
+      "hubs": "inservice",
+      "cities": "several",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001;BDI-002",
+      "gaps": "No source found since October 2023 says a science or technology park is in service with tenants.",
+      "note": "Rebuild 2026-11-13: BujaHub ran a three-month incubation for 70 entrepreneurs (BDI-001) from offices in Bujumbura and Gitega, with sessions in Ngozi (BDI-002), so 4 holds. No park with tenants is on record, so not 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "2",
-   "hubs": "underway",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-001",
-   "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "2",
+      "hubs": "underway",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-002;SEN-001",
+      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
+      "note": "Rebuild 2026-11-13: the Diamniadio digital park is being built (SEN-001) and the AI Scaling Hub launched in October 2026 names no cohort (SEN-002), so 2 holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

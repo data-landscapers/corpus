@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "4",
-   "hubs": "inservice",
-   "cities": "several",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-005",
-   "gaps": "No source found since October 2023 says a science or technology park is in service with tenants.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "4",
+      "hubs": "inservice",
+      "cities": "several",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-002;SOM-005",
+      "gaps": "No source found since October 2023 says a science or technology park is in service with tenants.",
+      "note": "Rebuild 2026-11-13: the BIC Somali Project's three incubation cohorts ran through hubs in Mogadishu and Hargeisa (SOM-002, SOM-005, July 2026), so 4 holds. No park with tenants is on record, so not 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }
