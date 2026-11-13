@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-11-12
+compiled: 2026-11-13
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 195
+sources_cited: 197
 sections_written: 39
 not_established: 1
 acquire_lines: 29
@@ -275,7 +275,7 @@ In May 2026 [digital awareness work aimed at young people on Rodrigues](https://
 
 Mauritius Telecom [launched a mytGPT Education pilot in January 2026](https://techreviewafrica.com/news/3721/mauritius-telecom-launches-mytgpt-educational-project-to-drive-ai-powered-learning), [tested in ten schools](https://lexpress.mu/node/559426). [After resistance from teachers and parents, the operator narrowed it from a student-facing tutor to a teacher coach](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) (July 2026). [It now aims at a personal AI assistant for every secondary school teacher by 2027](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/).
 
-In 2025 the World Bank recorded [a digital skills strategy and programme for the public service, covering basic digital skills and data literacy, partly on a fee-paying basis](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A UNESCO-supported programme for education ministry staff](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/) trained administrators to enter data directly into the national education management system (2022).
+In 2025 the World Bank recorded [a digital skills strategy and programme for the public service, covering basic digital skills and data literacy, partly on a fee-paying basis](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A UNESCO-supported programme for education ministry staff](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/) trained administrators to enter data directly into the national education management system (2022). [On 6 November 2026 the incumbent operator and Amazon Web Services launched the myt Learning Hub, a free portal of 16 courses in AI, cloud, cybersecurity and data](https://gisnews.govmu.org/GalleryFile/GetCommuniqueDocument?communiquesFileName=Myt+Learning+platfom+%281%29.pdf&newsId=2908). [It serves a government target of training 50,000 people in digital and AI skills within a year](https://gisnews.govmu.org/GalleryFile/GetCommuniqueDocument?communiquesFileName=Myt+Learning+platfom+%281%29.pdf&newsId=2908).
 
 ### Research institutions
 <!-- capacity.research -->
@@ -309,7 +309,7 @@ In 2025 the World Bank recorded [a digital skills strategy and programme for the
 
 [Statistical capacity scored 78.1 out of 100 in 2023, third in Africa and down 11.4 points since 2014](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mu.pdf). [The World Bank's Statistical Performance Indicators score data use above 89% and data sources only 50-69%](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). Services, products and infrastructure [score between the two, at 70-89%](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023).
 
-[In March 2026 Mauritius adopted the enhanced tier of the IMF's data dissemination standard, the first African country to join it](https://gis.govmu.org/gis/?page_id=4008). [It had graduated to the standard itself in February 2012](https://gis.govmu.org/gis/?page_id=4008). [The central bank launched a central statistical database on 3 September 2026, built with the IMF and the African Development Bank](https://gis.govmu.org/gis/?page_id=4008). No series list, update cadence or licence is stated for it. [Statistics Mauritius trained users on the second phase of its MauStats platform, built with UNDP, from 19 to 28 October 2026](https://www.undp.org/mauritius-seychelles/press-releases/undp-and-statistics-mauritius-collaborate-strengthen-mauritius-statistical-capabilities-and-data-management). [The phase adds 14 statistical modules, among them prices, wage rates and tourism, and data exchange through APIs](https://www.undp.org/mauritius-seychelles/press-releases/undp-and-statistics-mauritius-collaborate-strengthen-mauritius-statistical-capabilities-and-data-management).
+[In March 2026 Mauritius adopted the enhanced tier of the IMF's data dissemination standard, the first African country to join it](https://gis.govmu.org/gis/?page_id=4008). [It had graduated to the standard itself in February 2012](https://gis.govmu.org/gis/?page_id=4008). [The central bank launched a central statistical database on 3 September 2026, built with the IMF and the African Development Bank](https://gis.govmu.org/gis/?page_id=4008). No series list, update cadence or licence is stated for it. [Statistics Mauritius trained users on the second phase of its MauStats platform, built with UNDP, from 19 to 28 October 2026](https://www.undp.org/mauritius-seychelles/press-releases/undp-and-statistics-mauritius-collaborate-strengthen-mauritius-statistical-capabilities-and-data-management). [The phase adds 14 statistical modules, among them prices, wage rates and tourism, and data exchange through APIs](https://www.undp.org/mauritius-seychelles/press-releases/undp-and-statistics-mauritius-collaborate-strengthen-mauritius-statistical-capabilities-and-data-management). [The Finance Act 2025, assented on 8 August 2025, made the statistics office, the central bank and the health ministry a National Statistical System whose members must share statistical data, and barred its use for enforcement or surveillance](https://www.mra.mu/download/FinanceAct2025.pdf).
 
 [A population census, an agricultural census and a business census have all been run within the past ten years](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). [The 2022 census enumerated 1,235,260 residents, against 1,237,090 in 2011](https://statsmauritius.govmu.org/Documents/Statistics/ESI/2022/EI1687/2022%20Population%20Census_Main%20Results_18112022.pdf). [Over that decade there were three or more household and labour force surveys and one health survey, but no agricultural or business survey](https://www.worldbank.org/en/programs/statistical-performance-indicators).
 
