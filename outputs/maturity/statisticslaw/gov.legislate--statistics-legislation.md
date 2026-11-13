@@ -134,7 +134,7 @@ Benin's June 2022 statistics law is in force and was cited by a 2026 decree; no 
 
 ### Botswana: 3 Established
 
-The Statistics Act has been in force since 2010 and its board sat in 2023/24; no regulation or order made under it is known.
+Botswana's 2009 Statistics Act is in force and its board was constituted in 2023/24; no source found names rules made under it.
 
 - The document is the text of Botswana's Statistics Act (Cap. 17:01, Act No. 15 of 2009), which establishes Statistics Botswana and the National Statistical System and states a commencement date of 1 December 2010 ([source, 2010-12-01](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Act%202009.pdf)).
 - Statistics Botswana's annual report says the body is established under the Statistics Act of 2009 and is guided by it in carrying out its mandate ([source, 2009](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Botswana%20Annual%20Report%202023-24.pdf)).
@@ -298,7 +298,7 @@ Niger's 2004 statistics law is in force; cabinet adopted a replacement draft ord
 
 ### Nigeria: 3 Established
 
-Nigeria's 2007 Statistics Act is in force; no source found reports a replacement bill passed the House in December 2025, and rules under the Act.
+Nigeria's 2007 Statistics Act is in force; the House passed a replacement bill in December 2025, and no source found reports rules under the Act.
 
 - The Guardian describes the 2007 Statistics Act as the current Act, enacted 18 years earlier and still in place until the Bill repeals it ([source, 2007](https://guardian.ng/featured/reps-begin-review-of-statistics-act-link-reform-to-1tn-economy-drive/)).
 - NALTF refers to the existing Statistics Act, No. 9, 2007, which the Bill would repeal ([source, 2007](https://naltf.gov.ng/house-of-representatives-moves-to-modernize-nigerias-statistical-system-with-new-bill/)).
@@ -379,7 +379,7 @@ Uganda's 1998 statistics act is in force and its board chairman invoked it in Au
 
 ### Zambia: 3 Established
 
-The 2018 Statistics Act is in force and its release calendar was issued in December 2025; no regulation or order made under it is known.
+Zambia's 2018 Statistics Act is in force and its release calendar was issued in December 2025; no source found names rules made under it.
 
 - The 2026 release calendar cites Statistics Act No 13 of 2018 as the law under which the Zambia Statistics Agency acts ([source, 2018](https://www.zamstats.gov.zm/wp-content/uploads/2026/03/2026-NSRC-1.12.2025.pdf)).
 - At the 2025-09-15 hub launch the Minister of Finance and National Planning cited Statistics Act No. 13 of 2018 as a policy framework the hub aligns with ([source, 2018](https://www.zambiamonitor.com/zamstats-launches-national-data-science-hub-to-boost-evidence-based-decision-making/)).
