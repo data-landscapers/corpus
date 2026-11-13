@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://cb-umoa.org/sites/default/files/Liste%20EP%20ET%20EME%20Niger_2026.pdf",
+  "title": "Liste EP ET EME Niger_2026",
+  "publisher": "Commission Bancaire de l'UMOA",
+  "published": "2026-06",
+  "sub_indicator": "retail",
+  "why": "Register of e-money institutions in Niger (Airtel Money): service licensed. Q1-2."
+ },
+ {
+  "url": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+  "title": "Etablissements de Monnaie Electronique",
+  "publisher": "BCEAO",
+  "published": "2026-02",
+  "sub_indicator": "retail",
+  "why": "E-money issuers and bank-telco wallet partnerships in Niger at 28 Feb 2026. Q1-2."
+ },
+ {
+  "url": "https://bceao.int/fr/communique-presse/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de",
+  "title": "Connexion a la Plateforme Interoperable du Systeme de Paiement Instantane (PI-SPI)",
+  "publisher": "BCEAO",
+  "published": "2025-09-30",
+  "sub_indicator": "retail",
+  "why": "Regional switch PI-SPI in service connecting banks and e-money issuers. Q3-4."
+ },
+ {
+  "url": "https://tekrur.com/article/1149-niger-financement-bceao-introduit-un-nouveau-systeme-de-paiement-instantane/",
+  "title": "Niger : Financement : BCEAO introduit un nouveau systeme de paiement instantane",
+  "publisher": "Tekrur (ANP)",
+  "published": "2026-11-03",
+  "sub_indicator": "retail",
+  "why": "PI-SPI mandatory from 2 Nov 2026 for transfers between mobile operators and banks. Q3-4."
+ },
+ {
+  "url": "https://fr.linkedin.com/posts/i-futur_imoney-ifutur-pispi-activity-7524048900295450625-CH76",
+  "title": "COMMUNIQUE | iMoney est desormais connecte a PI-SPI BCEAO",
+  "publisher": "iFUTUR",
+  "published": "2026-11-05",
+  "sub_indicator": "retail",
+  "why": "Niger provider connected to PI-SPI since 2 Nov 2026, wallet to bank and wallet to wallet. Q3-4."
+ },
+ {
+  "url": "https://oeildusahel.com/pi-spi-mobile-money-impact-economique-aes/",
+  "title": "PI-SPI : impact economique sur le mobile money dans l'AES",
+  "publisher": "L'Oeil du Sahel",
+  "published": "2026-10-20",
+  "sub_indicator": "retail",
+  "why": "13 Niger participants authorised to open PI-SPI at 30 Sep 2026; NITA, Amana not yet. Q3-4."
+ },
+ {
+  "url": "https://www.bceao.int/sites/default/files/2025-08/Communique%2BAnnexe-Lancement_du_Syste%CC%80me_de_paiement_instantane%CC%81_31_Juillet_2025.pdf",
+  "title": "Lancement de la Plateforme Interoperable du Systeme de Paiement Instantane de l'UEMOA",
+  "publisher": "BCEAO",
+  "published": "2025-07-31",
+  "sub_indicator": "retail",
+  "why": "PI-SPI live-test participants list incl. Niger banks. Q3-4."
+ },
+ {
+  "url": "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
+  "title": "Liste Niger_2026",
+  "publisher": "BCEAO",
+  "published": "2026-06",
+  "sub_indicator": "retail",
+  "why": "Licensed institutions in Niger incl. e-money and payment institutions. Q1-2."
+ }
+]

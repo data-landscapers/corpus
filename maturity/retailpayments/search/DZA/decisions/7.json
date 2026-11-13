@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "Banque Nationale d'Algérie launched the interbank version of its WIMPAY mobile payment app, connected to the national mobile switch of SATIM, allowing intra- and interbank payments and transfers.",
+ "title": "Lancement de la version interbancaire de l'application de paiement mobile « WIMPAY DZ BNA »",
+ "publisher": "Banque Nationale d'Algérie",
+ "published": "2025-03-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

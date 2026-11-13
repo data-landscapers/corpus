@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service;switch",
+ "fact": "In 2024 registered e-money customers grew from 66.3 million to 72.9 million, and the gh-link national switch recorded 1,047,806 transactions worth GH¢865.42 million.",
+ "title": "Annual Report and Financial Statements 2024",
+ "publisher": "Bank of Ghana",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

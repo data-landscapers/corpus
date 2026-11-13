@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service",
+ "fact": "UNCDF states Gabon's mobile money market rests on Airtel Gabon, the only operator with a payment institution licence, and Gabon Telecom's Moov Money via partner bank UGB; account activity was 33 percent.",
+ "title": "État du marché des services financiers numériques au Gabon",
+ "publisher": "UNCDF",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "The Central Bank of Liberia announced the Inclusive Instant Payment System, a national platform to launch on 16 December 2025, principally enabling mobile money transfers between Lone Star MTN and Orange Liberia, with rollout to banks and other providers to follow.",
+ "title": "Liberia Advances Toward Cashless Future with Launch of Inclusive Instant Payment System (IIPS)",
+ "publisher": "Central Bank of Liberia",
+ "published": "2025-12-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

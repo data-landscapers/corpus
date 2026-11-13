@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "The Bank of Tanzania governor said 39 banks and six telecoms were integrated with TIPS by end January 2024, enabling instant transfers between bank accounts and mobile wallets.",
+ "title": "BoT connects all payment providers to TIPS",
+ "publisher": "Daily News",
+ "published": "2024-03-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

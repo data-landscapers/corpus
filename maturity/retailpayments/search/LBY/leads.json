@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://ar.libyaobserver.ly/article/39448",
+  "title": "المركزي يبحث مستجدات التوسع في خدمات الدفع الإلكتروني",
+  "publisher": "ليبيا أوبزيرفر",
+  "published": "2026-11-12",
+  "sub_indicator": "retail",
+  "why": "Governor discusses technical linkage and integration among e-payment providers and Moamalat."
+ },
+ {
+  "url": "https://cbl.gov.ly/en/wp-content/uploads/sites/4/2026/08/Central-Bank-of-Libyas-National-Strategy-for-Accelerating-Digital-Payments-and-Enhancing-Financial-Inclusion-in-Libya-1.pdf",
+  "title": "National Strategy for Accelerating Digital Payments and Enhancing Financial Inclusion in Libya",
+  "publisher": "Central Bank of Libya",
+  "published": "2026-08",
+  "sub_indicator": "retail",
+  "why": "National switch and instant payments initiatives as planned."
+ },
+ {
+  "url": "https://lypay.gov.ly/terms-and-conditions/",
+  "title": "الشروط و الأحكام - خدمة لي باي",
+  "publisher": "Central Bank of Libya / LYPay",
+  "published": "2025-06",
+  "sub_indicator": "retail",
+  "why": "LYPay links bank accounts of participating banks via the NAMO switch and RTGS settlement."
+ },
+ {
+  "url": "https://lypay.gov.ly/about-us/",
+  "title": "عن لي باي - خدمة لي باي",
+  "publisher": "Central Bank of Libya / LYPay",
+  "published": "2025-06",
+  "sub_indicator": "retail",
+  "why": "LYPay interbank instant transfers and National Switch components."
+ },
+ {
+  "url": "https://central-bank-of-libya.gitbook.io/devportal/lypay/lypay-instant-payment-system-technical-overview",
+  "title": "LYPay Instant Payment System Technical Overview",
+  "publisher": "Central Bank of Libya",
+  "published": "",
+  "sub_indicator": "retail",
+  "why": "LYPay P2P, P2M, M2M between participating institutions; fintech access coming soon."
+ },
+ {
+  "url": "https://cbl.gov.ly/en/governor-of-the-central-bank-of-libya-discusses-the-strategy-for-developing-electronic-payment-services/",
+  "title": "Governor of the Central Bank of Libya Discusses the Strategy for Developing Electronic Payment Services",
+  "publisher": "Central Bank of Libya",
+  "published": "2024-11-06",
+  "sub_indicator": "retail",
+  "why": "National Switch moves from Moamalat to CBL; LYPay and OnePay."
+ },
+ {
+  "url": "https://cbl.gov.ly/en/central-bank-of-libya-announces-the-launching-of-an-instant-payment-service-between-individuals-and-merchants-of-commercial-banks/",
+  "title": "Central Bank of Libya announces the launching of an instant payment service between individuals and merchants of commercial banks",
+  "publisher": "Central Bank of Libya",
+  "published": "2024-08-01",
+  "sub_indicator": "retail",
+  "why": "Instant payment launched across four banks."
+ },
+ {
+  "url": "https://cbl.gov.ly/en/governor-of-the-central-bank-of-libya-met-with-the-general-managers-of-commercial-banks-and-moamalat-the-national-payment-switch-operator-for-the-purpose-of-expanding-financial-inclusion/",
+  "title": "Governor met with commercial banks and Moamalat the National Payment Switch Operator",
+  "publisher": "Central Bank of Libya",
+  "published": "2024-05-07",
+  "sub_indicator": "retail",
+  "why": "All local payment networks, including mobile-phone networks, to be connected to the national switch."
+ }
+]

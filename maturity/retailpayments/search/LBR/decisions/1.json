@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "retail",
+ "aspect": "",
+ "fact": "",
+ "title": "Liberia's Instant Payment Switch Passed 5.3 Million Transactions Since Its December 2025 Launch",
+ "publisher": "ClearingPost",
+ "published": "2026-10-05",
+ "date_source": "source",
+ "why_not": "already-held: the 5.3 million transactions story is in evidence.csv from the Liberian Observer"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop",
+ "fact": "Bank to wallet and wallet to bank mobile money transfers operate through bilateral arrangements between players, merchant interoperability is yet to be realised, and Bank of Uganda is working on a national switch.",
+ "title": "Central Bank Digital Currency Consultation Paper",
+ "publisher": "Bank of Uganda",
+ "published": "2024-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

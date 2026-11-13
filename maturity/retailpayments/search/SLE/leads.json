@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://bsl.gov.sl/2025 FINANCIAL STABILITY REPORT FINAL.pdf",
+  "title": "Financial Stability Report 2025",
+  "publisher": "Bank of Sierra Leone",
+  "published": "2026",
+  "sub_indicator": "retail",
+  "why": "mobile money accounts, instant payments connection count"
+ },
+ {
+  "url": "https://bsl.gov.sl/SaPS INSTANT PAYMENT SERVICE FREQUENTLY ASKED QUESTIONS.pdf",
+  "title": "SaPS Instant Payment Service Frequently Asked Questions",
+  "publisher": "Bank of Sierra Leone",
+  "published": "2025-02",
+  "sub_indicator": "retail",
+  "why": "instant payments between banks and wallets, P2P/P2B/P2G"
+ },
+ {
+  "url": "https://www.sierraleonemonitor.com/bank-of-sierra-leone-issues-national-payment-switch-directives-for-2024/",
+  "title": "Bank Of Sierra Leone Issues National Payment Switch Directives For 2024",
+  "publisher": "Sierra Leone Monitor",
+  "published": "2024-12-17",
+  "sub_indicator": "retail",
+  "why": "mandatory routing of MMO instant payments through national switch"
+ },
+ {
+  "url": "https://moice.gov.sl/mobile-money-companies-praise-central-banks-instant-payment-system/",
+  "title": "Mobile Money Companies Praise Central Bank's Instant Payment System",
+  "publisher": "Ministry of Information and Civic Education",
+  "published": "2025-02-13",
+  "sub_indicator": "retail",
+  "why": "switch connects mobile money and bank accounts"
+ },
+ {
+  "url": "https://moice.gov.sl/bank-of-sierra-leone-implements-president-bios-plan/",
+  "title": "Bank of Sierra Leone Implements President Bio's Plan",
+  "publisher": "Ministry of Information and Civic Education",
+  "published": "2025-02-13",
+  "sub_indicator": "retail",
+  "why": "national switch rollout"
+ },
+ {
+  "url": "https://www.slena.gov.sl/post/afrimoney-ceo-announced-that-instant-payment-switch-will-drastically-reduce-the-cost-of-doing-busine",
+  "title": "Afrimoney CEO announced that Instant Payment Switch Will Drastically Reduce the Cost of Doing Business",
+  "publisher": "Sierra Leone News Agency",
+  "published": "2025-02-24",
+  "sub_indicator": "retail",
+  "why": "wallet-bank transfers"
+ },
+ {
+  "url": "https://www.financialstandardsl.com/article.php?title=sierra-leone-introduces-instant-payment-service-for-seamless-transaction",
+  "title": "Sierra Leone introduces instant payment service",
+  "publisher": "Financial Standard",
+  "published": "2025-02-24",
+  "sub_indicator": "retail",
+  "why": "real-time banks and MMOs"
+ },
+ {
+  "url": "https://thecalabashnewspaper.com/salone-payment-switch-sets-new-standard-for-banking-efficiency/",
+  "title": "Salone Payment Switch Sets New Standard for Banking Efficiency",
+  "publisher": "The Calabash Newspaper",
+  "published": "2025-08-11",
+  "sub_indicator": "retail",
+  "why": "switch adopted by banks, MMOs, fintechs"
+ }
+]

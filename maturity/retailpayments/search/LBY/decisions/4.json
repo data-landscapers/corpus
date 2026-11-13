@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "The LYPay page says the Central Bank of Libya's LYPay instant payment service connects commercial banks to one another through a central system linked to their mobile apps, operated by Moamalat within the National Switch.",
+ "title": "عن لي باي - خدمة لي باي",
+ "publisher": "مصرف ليبيا المركزي - خدمة لي باي",
+ "published": "2025-06-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

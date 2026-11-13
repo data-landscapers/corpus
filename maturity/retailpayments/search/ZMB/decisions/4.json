@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "The NFS is an interoperable real-time payment system connecting banks and non-banks including mobile money operators, with 30 participants including three MMOs, and the integration of non-bank participants happened in 2020.",
+ "title": "The State of Inclusive Instant Payment Systems in Africa, SIIPS 2023 Case Study: Zambia",
+ "publisher": "AfricaNenda",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

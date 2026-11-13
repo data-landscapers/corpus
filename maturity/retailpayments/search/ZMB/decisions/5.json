@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "retail",
+ "aspect": "switch",
+ "fact": "",
+ "title": "National Financial Switch (NFS)",
+ "publisher": "Zambia Electronic Clearing House Limited",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: undated marketing page with no dated fact"
+}

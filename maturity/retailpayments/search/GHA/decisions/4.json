@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop",
+ "fact": "Mobile money interoperability across networks recorded 19,896,273 transactions worth GH¢3,071.74 million in 2024, against 16,738,328 in 2023.",
+ "title": "Annual Statistical Bulletin 2024",
+ "publisher": "Bank of Ghana",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

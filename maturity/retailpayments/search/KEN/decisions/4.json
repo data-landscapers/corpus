@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "switch;interop",
+ "fact": "TechCabal reports Kenya's payments landscape is fragmented, with mobile money platforms operating in silos from other institutions, and that Pesalink transfers among 39 KBA members cannot pay into mobile money wallets.",
+ "title": "Kenyan banks push for Pesalink upgrade as CBK eyes new real-time payment system",
+ "publisher": "TechCabal",
+ "published": "2025-01-06",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "The CBK said on 18 October 2024 that Kenya's existing interoperability (P2P in 2018, merchant in 2022) lacks a centralised switching mechanism and relies on costly bilateral arrangements, and it announced a Fast-Payment System working group.",
+ "title": "Progression toward Financial Sector-Wide Interoperability Solution and Formation of an Industry Technical Working Group",
+ "publisher": "Central Bank of Kenya",
+ "published": "2024-10-18",
+ "date_source": "source",
+ "why_not": ""
+}

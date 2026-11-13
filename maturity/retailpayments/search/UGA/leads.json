@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.ceo.co.ug/can-ugandas-national-payment-switch-bring-down-digital-transaction-costs/",
+  "title": "Can Uganda's National Payment Switch Bring Down Digital Transaction Costs?",
+  "publisher": "CEO East Africa",
+  "published": "2026-10-31",
+  "sub_indicator": "retail",
+  "why": "Q3/Q4: wallet-bank links exist; switch still planned"
+ },
+ {
+  "url": "https://www.newvision.co.ug/category/blogs/infrastructure-behind-ugandas-digital-payment-NV_237955_072026",
+  "title": "Infrastructure behind Uganda's digital payments future",
+  "publisher": "New Vision",
+  "published": "2026-07-30",
+  "sub_indicator": "retail",
+  "why": "Q4: national switch not yet live"
+ },
+ {
+  "url": "https://ugmirror.com/index.php/2026/04/21/bou-pushes-digital-payments-to-unlock-youth-sme-growth/",
+  "title": "BoU Pushes Digital Payments To Unlock Youth SME Growth",
+  "publisher": "Uganda Mirror",
+  "published": "2026-04-21",
+  "sub_indicator": "retail",
+  "why": "Q3: Digital Drive project interoperability between mobile money platforms"
+ },
+ {
+  "url": "https://ubc.go.ug/2025/10/06/bous-new-payment-system-cuts-delays-and-boosts-e-money-by-28-6/",
+  "title": "BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%",
+  "publisher": "Uganda Broadcasting Corporation",
+  "published": "2025-10-06",
+  "sub_indicator": "retail",
+  "why": "Q2/Q4: e-money in service; switch in progress"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/business/technology/bou-s-switch-that-will-control-bank-mobile-money-and-fintech-charges--5221284",
+  "title": "BoU's switch that will control bank, mobile money and fintech charges",
+  "publisher": "Daily Monitor",
+  "published": "2025-10-09",
+  "sub_indicator": "retail",
+  "why": "Q4: switch planned"
+ },
+ {
+  "url": "https://bou.or.ug/uploads/Integrated_Annual_Report_2024_2025_9bfa4a9ed6.pdf",
+  "title": "Integrated Annual Report 2024/25",
+  "publisher": "Bank of Uganda",
+  "published": "2025",
+  "sub_indicator": "retail",
+  "why": "Q1/Q2: licensed e-money issuers and e-money volumes"
+ },
+ {
+  "url": "https://migrantmoney.uncdf.org/wp-content/uploads/2025/05/Uganda-Infrastructure-Assessment-Report_April2025.pdf",
+  "title": "Uganda Infrastructure Assessment Report",
+  "publisher": "UNCDF",
+  "published": "2025-04",
+  "sub_indicator": "retail",
+  "why": "Q3/Q4: MOMO interoperability via bilateral agreements; switch early stage"
+ },
+ {
+  "url": "https://www.bouganda.com/export/sites/default/gallery/CBDC-Consultations/BoU-CBDC-Consultation-Paper-Septmber-2024-Final-Issued.pdf",
+  "title": "Central Bank Digital Currency Consultation Paper",
+  "publisher": "Bank of Uganda",
+  "published": "2024-09",
+  "sub_indicator": "retail",
+  "why": "Q3/Q4: bilateral interoperability, switch being established"
+ }
+]

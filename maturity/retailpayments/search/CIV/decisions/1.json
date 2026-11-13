@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "From 2 November 2026 use of the BCEAO PI-SPI platform became mandatory for interoperable e-money transfers between MTN, Orange, Moov and Wave and between bank accounts and e-money wallets in Côte d'Ivoire.",
+ "title": "Monnaie électronique: les transactions interopérables désormais soumises à la plateforme PI-SPI de la BCEAO",
+ "publisher": "Agence Ivoirienne de Presse (AIP)",
+ "published": "2026-11-02",
+ "date_source": "source",
+ "why_not": ""
+}

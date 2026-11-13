@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service;switch",
+ "fact": "Active mobile money accounts rose from 69,587 in 2020 to 154,587 in 2023; instant payments are not yet established and interoperability is hindered by the lack of a national switch, which is still being developed.",
+ "title": "Stratégie Nationale d'Inclusion Financière 2025-2030",
+ "publisher": "Banque Centrale des Comores",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

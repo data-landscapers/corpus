@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service;interop",
+ "fact": "The central bank's guide states the M-wallet is in service and interoperable, allowing P2P transfers, MarocPay merchant payments and bill payments regardless of the beneficiary's issuing institution.",
+ "title": "Paiement mobile au Maroc : tout ce que vous devez savoir",
+ "publisher": "Bank Al-Maghrib",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service",
+ "fact": "A banker states that no private payment service provider has yet been approved by the Bank of Algeria, and that no technology operator is licensed to run e-wallets outside a partnership with an approved bank.",
+ "title": "مزوّدو خدمات الدفع (PSPs): دعوة مصرفي إلى وضوح تنظيمي",
+ "publisher": "CARE",
+ "published": "2026-03-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

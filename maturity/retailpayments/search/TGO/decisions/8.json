@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop",
+ "fact": "As of March 2024 the main operators (Moov Africa Togo, Tmoney, Coris Money) operated in isolation without effective interoperability, and the TogoPAY project announced in 2018 had been significantly delayed.",
+ "title": "Au Togo, le Mobile Money face au défi de l'interopérabilité et de la standardisation",
+ "publisher": "Togo First",
+ "published": "2024-03-22",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop",
+ "fact": "As of the diagnostic (figures to December 2022), integrations between non-bank providers and banks, such as SAB and D-Money, were negotiated bilaterally and allowed bank-to-wallet transfers and vice versa; the second phase of the ATS, planned for 2024, was expected to enable systematic interoperability between bank and non-bank payment providers.",
+ "title": "Diagnostic de l'économie numérique de Djibouti",
+ "publisher": "Groupe de la Banque mondiale",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

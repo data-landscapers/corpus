@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop",
+ "fact": "LESWITCH enables transactions between mobile money accounts including Mpesa, Ecocash, My Wallet, C-Pay and Khetsi, letting users send or withdraw money to other wallets from their phones.",
+ "title": "Central Bank of Lesotho and Fintech Launch LESWITCH",
+ "publisher": "Lesotho Tribune",
+ "published": "2024-03-26",
+ "date_source": "source",
+ "why_not": ""
+}

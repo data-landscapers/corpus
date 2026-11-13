@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service;switch",
+ "fact": "The National Financial Switch enabled interoperability of commercial banks, payment service providers and mobile money service providers, and active e-wallets grew to 11,229,737 at 31 December 2022.",
+ "title": "National Payment System Vision and Strategy 2023 - 2027",
+ "publisher": "Bank of Zambia",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

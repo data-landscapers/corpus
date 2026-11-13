@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "switch",
+ "fact": "Gamswitch's CEO message says that in 2025 all banks were connected to its instant funds transfer service Bantaba, and that integration of mobile wallet operators via Mojaloop, for transfers between bank accounts and wallets in both directions, is planned for 2026.",
+ "title": "2026 New Year's message from the CEO",
+ "publisher": "Gamswitch",
+ "published": "2026-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

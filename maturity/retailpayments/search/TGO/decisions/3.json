@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "switch;interop",
+ "fact": "From 2 November 2026 interoperable e-money transactions between individuals in the UEMOA must go through the BCEAO's PI-SPI platform, which links banks, e-money issuers, microfinance institutions and payment institutions.",
+ "title": "Monnaie électronique : la BCEAO rend PI-SPI obligatoire à partir de novembre",
+ "publisher": "Togo First",
+ "published": "2026-10-05",
+ "date_source": "source",
+ "why_not": ""
+}

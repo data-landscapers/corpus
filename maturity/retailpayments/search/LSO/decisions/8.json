@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop",
+ "fact": "The Central Bank of Lesotho and all licensed mobile money issuers announced that from 14 October 2022 users can transfer funds between wallets of different providers and withdraw at another provider's agent through the national payment switch.",
+ "title": "Media Statement on the Introduction of the National Payment Switch",
+ "publisher": "Central Bank of Lesotho",
+ "published": "2022-10-06",
+ "date_source": "source",
+ "why_not": ""
+}

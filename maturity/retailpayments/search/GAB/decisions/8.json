@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop",
+ "fact": "Moov Money is interoperable with GIMACPAY, giving wallet holders transactions with operators across the CEMAC including Gabon, as stated on the page dated 26 May 2022.",
+ "title": "Interopérabilité GIMACPAY",
+ "publisher": "Moov Money Gabon",
+ "published": "2022-05-26",
+ "date_source": "source",
+ "why_not": ""
+}

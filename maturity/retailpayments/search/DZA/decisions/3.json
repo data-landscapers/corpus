@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "The Bank of Algeria's updated register of authorised banking products, as of 14 May 2026, introduces interbank mobile QR-code payments for individuals, professionals and merchants (P2P, P2B and B2P).",
+ "title": "Modernisation du paysage bancaire - Publication du recueil actualisé des produits et services autorisés",
+ "publisher": "Banque d'Algérie",
+ "published": "2026-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

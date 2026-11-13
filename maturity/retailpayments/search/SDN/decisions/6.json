@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service",
+ "fact": "The Ministry of Digital Transformation and Telecommunications announced USSD access to banking services, starting with person-to-person (P2P) bank transfers, balance inquiries and transaction summaries.",
+ "title": "Telecommunications Ministry Launches Service Allowing Citizens to Access Banking Apps Without Internet",
+ "publisher": "Telecommunications and Post Regulatory Authority (TPRA)",
+ "published": "2025-03-15",
+ "date_source": "source",
+ "why_not": ""
+}

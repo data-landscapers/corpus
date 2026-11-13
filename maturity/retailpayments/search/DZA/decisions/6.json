@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service",
+ "fact": "The Bank of Algeria issued Instruction No. 06-2025 in August 2025 setting rules for payment service providers, including payment accounts and wallets, completing Regulation No. 25-02 of 14 April 2025.",
+ "title": "La Banque d'Algérie renforce l'encadrement des prestataires de services de paiement",
+ "publisher": "La Voix de l'Algérie",
+ "published": "2025-08-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

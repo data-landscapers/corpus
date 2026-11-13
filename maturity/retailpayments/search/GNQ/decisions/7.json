@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop",
+ "fact": "Moov Money (Gabon) states GIMACPAY interoperability lets wallet holders transact between operators and across CEMAC states including Equatorial Guinea.",
+ "title": "Interopérabilité GIMACPAY",
+ "publisher": "Moov Money",
+ "published": "2022-05-26",
+ "date_source": "source",
+ "why_not": ""
+}

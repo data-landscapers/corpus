@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "The Bank of Tanzania's 2023 payment systems report says TIPS, operational since 2021, interconnected 45 licensed payment service providers and moved retail interoperability from bilateral to multilateral.",
+ "title": "National Payment System Annual Report for 2023",
+ "publisher": "Bank of Tanzania",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

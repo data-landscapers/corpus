@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "GhIPSS's mobile money interoperability service connects to GhIPSS Instant Pay, giving interoperability between mobile money wallets and bank accounts, with all 23 banks and 25 payment service providers onboarded.",
+ "title": "The State of Instant and Inclusive Payment Systems in Africa: SIIPS 2022 case study, GhIPSS Instant Pay",
+ "publisher": "AfricaNenda",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

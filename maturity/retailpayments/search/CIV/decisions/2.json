@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "At the 30 September 2026 deadline Wave and Moov Money joined PI-SPI, so all four main wallets (Orange, MTN, Moov, Wave) and 38 participants in Côte d'Ivoire are connected.",
+ "title": "Paiement instantané : Wave et Moov Money rejoignent la plateforme de la BCEAO, la Côte d'Ivoire passe à 38 acteurs connectés",
+ "publisher": "Abidjan4All",
+ "published": "2026-10-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

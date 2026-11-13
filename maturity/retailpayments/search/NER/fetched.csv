@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://cb-umoa.org/sites/default/files/Liste%20EP%20ET%20EME%20Niger_2026.pdf,held,held as raw/2026/2026-06-29-ner-liste-des-etablissements-de-paiement-et-de-monnaie-electronique-niger.md,,0,,
+2,https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique,held,held as raw/2026/2026-02-28-xwa-bceao-etablissements-monnaie-electronique.md,,0,,
+3,https://bceao.int/fr/communique-presse/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de,held,held as raw/2026/2026-04-02-bceao-connexion-pi-spi.md,,0,,
+4,https://tekrur.com/article/1149-niger-financement-bceao-introduit-un-nouveau-systeme-de-paiement-instantane/,fetched,,scripts/.workroot/study/retailpayments/cache/NER/4.txt,203,html,Niger : Financement : BCEAO introduit un nouveau système de paiement instantané
+5,https://fr.linkedin.com/posts/i-futur_imoney-ifutur-pispi-activity-7524048900295450625-CH76,fetched,,scripts/.workroot/study/retailpayments/cache/NER/5.txt,157,html,#imoney #ifutur #pispi #bceao #niger #uemoa | iFUTUR
+6,https://oeildusahel.com/pi-spi-mobile-money-impact-economique-aes/,held,held as raw/2026/2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes.md,,0,,
+7,https://www.bceao.int/sites/default/files/2025-08/Communique%2BAnnexe-Lancement_du_Syste%CC%80me_de_paiement_instantane%CC%81_31_Juillet_2025.pdf,held,held as raw/2025/2025-08-01-bfa-bceao-communique-lancement-pi-spi.md,,0,,
+8,https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf,fetched,,scripts/.workroot/study/retailpayments/cache/NER/8.txt,325,pdf,6 - Liste Niger_2026

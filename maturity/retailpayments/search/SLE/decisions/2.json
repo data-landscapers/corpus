@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "The SaPS Instant Payment Service links bank accounts and mobile money accounts on the national switch, runs 24/7, and handles P2P, B2B, C2B and government payments.",
+ "title": "SaPS Instant Payment Service Frequently Asked Questions",
+ "publisher": "Bank of Sierra Leone",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "Text carries no date; year proxied from the February 2025 launch of the service it describes."
+}

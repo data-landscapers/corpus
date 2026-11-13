@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service;interop;switch",
+ "fact": "As of the September 2024 disclosure, HPS Switch routes wallet transactions nationally for all banks and payment institutions; in 2023 the M-wallet market reached 6.94 million accounts and interoperable transactions had a 78% approval rate.",
+ "title": "Cadre d'information pour les infrastructures de marchés financiers",
+ "publisher": "HPS Switch",
+ "published": "2024-09",
+ "date_source": "source",
+ "why_not": ""
+}

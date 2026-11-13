@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "switch",
+ "fact": "BCEAO announced the official launch of PI-SPI for 30 September 2025 after real-conditions tests began on 5 June 2025, with Côte d'Ivoire participants including Orange Money.",
+ "title": "Lancement de la Plateforme Interopérable du Système de Paiement Instantané de l'Union Economique et Monétaire Ouest Africaine",
+ "publisher": "Banque Centrale des Etats de l'Afrique de l'Ouest (BCEAO)",
+ "published": "2025-08-01",
+ "date_source": "source",
+ "why_not": ""
+}

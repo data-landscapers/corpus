@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "The Bank of Sierra Leone launched an instant payments platform in October 2024, now connecting twelve banks and mobile money operators for real-time transfers between bank accounts and mobile wallets.",
+ "title": "Financial Stability Report 2025",
+ "publisher": "Bank of Sierra Leone",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

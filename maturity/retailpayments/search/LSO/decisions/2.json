@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "The Central Bank of Lesotho launched its national payment switch, Leswitch, in March 2024, enabling different mobile money issuers' platforms to interact and letting users withdraw at an agent of a different provider.",
+ "title": "CBL launches national payment switch",
+ "publisher": "Lesotho Times",
+ "published": "2024-03-20",
+ "date_source": "source",
+ "why_not": ""
+}

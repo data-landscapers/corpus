@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service;interop;switch",
+ "fact": "The CBK strategy states mobile money has been in service since M-Pesa in 2007, cross-network P2P interoperability began in April 2018, Pesalink offers instant transfers between bank accounts, and CBK would guide development of a national switch.",
+ "title": "National Payments Strategy, 2022 - 2025",
+ "publisher": "Central Bank of Kenya",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

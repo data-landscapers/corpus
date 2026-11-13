@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service;interop",
+ "fact": "In May 2024 ARCEP Gabon stated that Airtel Money and Moov Money operate with COBAC-licensed partner banks, GIMACPAY provides CEMAC interoperability, and national mobile payment interoperability was still being handled.",
+ "title": "Mobile money au Gabon (TR3, ARCEP Gabon)",
+ "publisher": "ARCEP Gabon (FRATEL, Lomé)",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": ""
+}

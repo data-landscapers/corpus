@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://prisma-reports.com/interview-ahmed-osman-ali-governor-central-bank-of-djibouti/,held,held as raw/2024/2024-11-26-dji-prisma-interview-governor-bcd.md,,0,,
+2,https://banque-centrale.dj/wp-content/uploads/2024/10/AMI-SERVICES-DE-CONSULTANT-Projet-dappui-a-la-reforme-du-secteur-bancaire-et-financier-de-Djibouti-PAREFID.pdf,fetched,,scripts/.workroot/study/retailpayments/cache/DJI/2.txt,2737,pdf,
+3,https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Djibouti-Infrastructure-Assessment-Report-ENG.pdf,held,held as raw/2023/2023-04-01-dji-uncdf-payment-infrastructure-assessment.md,,0,,
+4,https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Djibouti-Diagnostic-Report-ENG.pdf,held,held as raw/2023/2023-02-01-dji-uncdf-remittance-diagnostic.md,,0,,
+5,https://thedocs.worldbank.org/en/doc/eb73f7a1d9f611ceecfed51b1bf667d4-0400072024/related/P1784611a050540f218c4c11bcae7dd96ba.pdf,fetched,,scripts/.workroot/study/retailpayments/cache/DJI/5.txt,53633,pdf,World Bank Document
+6,https://www.d-money.dj/en/services/banks,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+7,https://banque-centrale.dj/les-etablissements-agrees/,held,held as raw/2025/2025-01-01-dji-les-etablissements-agrees.md,,0,,
+8,https://d-money.dj/signature-dun-accord-dinterconnexion-entre-djibouti-telecom-d-money-et-la-banque-pour-le-commerce-et-lindustrie-mer-rouge-bcimr/,fetched,,scripts/.workroot/study/retailpayments/cache/DJI/8.txt,625,html,Signature d’un Accord d’Interconnexion entre Djibouti Télécom/ D-Money et la Banque pour le Commerce et l’Industrie – Mer Rouge (BCIMR)

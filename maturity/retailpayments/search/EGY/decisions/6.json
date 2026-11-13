@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service;switch",
+ "fact": "AmCham Egypt reports, citing the CBE, at least 29 e-wallets in the market backed by 21 local banks, and that the IPN launched in March 2022 links all banks operating in Egypt, with InstaPay QR payments added in June 2024.",
+ "title": "Financial Digitization",
+ "publisher": "American Chamber of Commerce in Egypt",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

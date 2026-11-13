@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service",
+ "fact": "Equatorial Guinea had no licensed e-money operator until mid-2023, when BEAC/COBAC licensed one operator (Muni Dinero); as of the 2023 diagnostic no mobile money operator was yet active and launch was expected.",
+ "title": "Equatorial Guinea Digital Economy Diagnostic",
+ "publisher": "World Bank Group",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop",
+ "fact": "EBS has enabled Basic Bank Account Number (BBAN) payments between different banks, and is attempting to include mobile money transactions through the BBAN system.",
+ "title": "Digital inclusion interrupted: Sudan's uneven financial transformation",
+ "publisher": "ATAR Network (Issue 46)",
+ "published": "2026-03-02",
+ "date_source": "source",
+ "why_not": ""
+}

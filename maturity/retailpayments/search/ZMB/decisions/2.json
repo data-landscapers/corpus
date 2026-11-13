@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "interop;switch",
+ "fact": "At 31 December 2024 the National Financial Switch had 26 participants live in production for Bank to Wallet, 27 for Wallet to Bank and 13 for Wallet to Wallet.",
+ "title": "Annual Report 2024",
+ "publisher": "Bank of Zambia",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

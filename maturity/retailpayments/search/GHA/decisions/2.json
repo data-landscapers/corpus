@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service",
+ "fact": "As of March 2026 Bank of Ghana lists 63 approved fintech entities, 8% of them dedicated electronic money issuers, with 82.6m registered wallets in the 2026 Q1 overview.",
+ "title": "FinTech Sector Report 2026 Q1",
+ "publisher": "Bank of Ghana",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service;interop;switch",
+ "fact": "The FSAP assessment says two major mobile money providers operate, mobile money transactions reached L$384 billion and US$4.3 billion in 2025, and a National Electronic Payment Switch to enable interoperability across all banks and non-banks is a scheduled reform.",
+ "title": "Liberia Financial Sector Assessment",
+ "publisher": "World Bank Group",
+ "published": "2026-02",
+ "date_source": "source",
+ "why_not": ""
+}

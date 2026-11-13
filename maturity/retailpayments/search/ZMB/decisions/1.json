@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "retail",
+ "aspect": "service",
+ "fact": "In 2024 Zambia had 14,650,368 registered and 12,328,755 active mobile money wallets, and mobile payments of K486.3 billion across 2,990,936,749 transactions.",
+ "title": "National Payment Systems in Zambia, Annual Report for the Year 2024",
+ "publisher": "Bank of Zambia",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}
