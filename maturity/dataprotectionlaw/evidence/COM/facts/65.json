@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Database record states only a no, which is never a fact.",
+  "claims": {
+    "dpimap-1e661cbc0d": "nothing: a database's no",
+    "dpimap-a6d900072f": "nothing: a database's no"
+  }
+}
