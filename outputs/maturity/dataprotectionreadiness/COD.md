@@ -2,7 +2,7 @@
 
 ## Data protection system
 
-**Law in force.** The [Digital Code, Ordinance-Law No. 23/010 of 13 March 2023](<https://droitnumerique.cd/arptic-arptc-investie-des-missions-de-lautorite-de-protection-des-donnees-en-rd-congo/>), entered into force in 2023. It provides for the Autorité de Protection des Données.
+**Law in force.** The [Digital Code, Ordinance-Law No. 23/010 of 13 March 2023](<https://droitnumerique.cd/arptic-arptc-investie-des-missions-de-lautorite-de-protection-des-donnees-en-rd-congo/>), entered into force in 2023. It provides for the Autorité de Protection des Données. [In August 2025 a UNESCO workshop in Kinshasa reviewed the data protection texts in force, the Code among them](<https://www.unesco.org/fr/articles/droits-numeriques-en-rdc-entre-protection-et-regulation>).
 
 **Malabo Convention.** The [African Union status list of 2 February 2026](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) records ratification on 6 March 2025. The instrument was deposited on 27 June 2025.
 

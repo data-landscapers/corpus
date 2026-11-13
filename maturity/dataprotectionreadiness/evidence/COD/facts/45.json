@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-15-cod-droits-numeriques-en-rdc-entre-protection-et-regulation",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "UNESCO reports that a 12-13 August 2025 Kinshasa workshop examined the legal texts in force on personal data protection, including Ordonnance-loi no 23/010 of 13 March 2023, the Code du Numerique.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "Code du Numerique (Ordonnance-loi 23/010)",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

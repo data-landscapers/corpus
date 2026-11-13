@@ -1,0 +1,27 @@
+{
+ "slug": "2024-01-01-rwa-rwandas-data-governance-navigating-data-governance-in-the-public-secto",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Brookings' Foresight Africa 2024 viewpoint says Rwanda enacted its Law on Data Privacy and Protection on 15 October 2021, which mandates protection of personal data of Rwandan residents.",
+   "as_of": "2021-10-15",
+   "date_precision": "day",
+   "system": "Law on Data Privacy and Protection",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The same viewpoint says the National Cyber Security Authority (NCSA) plays a crucial role in ensuring adherence to data protection laws.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Cyber Security Authority (NCSA)",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
