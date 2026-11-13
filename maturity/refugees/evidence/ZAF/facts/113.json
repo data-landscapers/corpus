@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-12-zaf-biometricupdate-asylum-registration-testing",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "South Africa's Home Affairs has begun testing a digital asylum system in which people register an intention to apply for asylum with facial biometrics, biographic data and documents, which is not yet a formal application or status.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Home Affairs digital asylum platform",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital asylum platform",
+   "country_label": "South Africa",
+   "class": "displaced",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
