@@ -22,8 +22,8 @@ The Digital Transformation Strategy asks for a technology park and incubation hu
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 5 |
-| 3 Established | 37 |
-| 2 Nascent | 12 |
+| 3 Established | 38 |
+| 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 0 |
@@ -286,6 +286,13 @@ A hub ran a programme for startups in 2026; hubs in more than one city are not o
 
 - Tunisie.fr says The Dot's Dot Landing programme has supported 35 startups across two cohorts (27 with Region Ile-de-France, FIPA and MEET Africa 2; 8 with GIZ Tunisia) and opened applications for further cohorts ([source, 2026-08-27](https://www.tunisie.fr/the-dot-lance-un-programme-dedie-aux-entrepreneurs-de-la-diaspora-tunisienne/)).
 
+### Uganda: 3 Established
+
+The national innovation hub in Kampala has supported 133 start-ups since 2024; programmes at hubs in other towns are not known.
+
+- PML Daily relaying the ministry says the National ICT Innovation Hub at Nakawa reopened in January 2024 and supported 133 start-ups, taking 102 products to market ([source, 2024-01](https://pmldaily.com/news/world/2026/11/what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry.html)).
+- The ministry says a National ICT Innovation Hub with capacity for over 500 innovators has been constructed in Nakawa, and UNDP supported ICT Business Incubation Hubs at public universities, with no programme cohort stated (Zawedde, via Business Focus) ([source, 2024-11](https://businessfocus.co.ug/manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penetration-increases-to-67/)).
+
 ### Zambia: 3 Established
 
 A hub ran a programme for startups in 2026; hubs in more than one city are not on record.
@@ -370,10 +377,3 @@ A technology hub or park was under way in 2026; none running programmes is on re
 
 - UNDP reports UniPod Sierra Leone officially launched at Fourah Bay College with design and fabrication labs, a media studio and mobile e-waste facilities, with no incubation cohort described ([source, 2026-07-13](https://www.undp.org/sierra-leone/stories/where-innovative-ideas-take-root-unipod-sierra-leone-launches-fourah-bay-college)).
 - MoCTI says Felei Tech City, a smart city and innovation hub in Bo District, has land secured and AfDB-funded feasibility studies under way ([source, 2026-02-05](https://mocti.gov.sl/mocti-holds-its-inaugural-meeting-of-the-technology-innovation-and-entrepreneurship-advisory-council-tieac/)).
-
-### Uganda: 2 Nascent
-
-A technology hub or park was under way in 2026; none running programmes is on record.
-
-- The Makerere Innovation and Incubation Center is stated to provide mentorship, research support and business development to technology startups, with no cohort programme described, as it launched Fintech Fridays with Afriventia Group ([source, 2026-07-13](https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026)).
-- We Are Tech Africa says the state established the National ICT Innovation Hub, providing internet connectivity and workspace for tech entrepreneurs, with no programme or cohort described ([source, 2025-04-02](https://www.wearetech.africa/en/fils-uk/news/public-management/uganda-bets-on-tax-cuts-to-support-startups)).

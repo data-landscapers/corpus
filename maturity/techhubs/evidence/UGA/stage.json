@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "2",
-   "hubs": "underway",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-001;UGA-002",
-   "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "3",
+      "hubs": "inservice",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-005;UGA-004",
+      "gaps": "No source says hubs with programmes run in a second city: the Kabale, Soroti, Muni and Busitema hubs are named with no programme described. No technology park with tenants is on record.",
+      "note": "Stage 4c 2026-11-13: the ministry reports the National ICT Innovation Hub at Nakawa, reopened in January 2024, supported 133 start-ups and took 102 products to market (UGA-005), so a hub runs programmes. The hubs in other towns have no programme on record, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

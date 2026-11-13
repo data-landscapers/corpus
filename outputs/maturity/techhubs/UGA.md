@@ -2,12 +2,12 @@
 
 ## Technology hubs
 
-**Hub programmes.** [The Makerere Innovation and Incubation Center is stated to provide mentorship, research support and business development to technology startups, with no cohort programme described, as it launched Fintech Fridays with Afriventia Group](<https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026>). [We Are Tech Africa says the state established the National ICT Innovation Hub, providing internet connectivity and workspace for tech entrepreneurs, with no programme or cohort described](<https://www.wearetech.africa/en/fils-uk/news/public-management/uganda-bets-on-tax-cuts-to-support-startups>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Hub programmes.** [The ministry reports that the National ICT Innovation Hub at Nakawa supported 133 start-ups and took 102 products to market](<https://pmldaily.com/news/world/2026/11/what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry.html>). The hub was rebuilt with UNDP support and reopened in January 2024. Firms based there created 726 verified jobs, the ministry says. [It has room for over 500 innovators](<https://businessfocus.co.ug/manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penetration-increases-to-67/>). [The Makerere Innovation and Incubation Center offers technology startups mentorship and business development](<https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026>), and launched Fintech Fridays in July 2026.
 
-**Several cities.** No source found since October 2023 says hubs with programmes are in service in two or more cities. The nearest held fact: [the one given above](<https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026>).
+**Several cities.** [Hubs followed the national hub at Kabale in June 2023 and Soroti in March 2024](<https://pmldaily.com/news/world/2026/11/what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry.html>), then at Muni and Busitema universities. No programme for startups is described at any of them. [UNDP supported ICT business incubation hubs at public universities](<https://businessfocus.co.ug/manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penetration-increases-to-67/>).
 
-**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026>).
+**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest fact is [the National ICT Innovation Hub at Nakawa](<https://pmldaily.com/news/world/2026/11/what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry.html>), a hub rather than a park.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: does a hub run programmes for startups.
+***Not found***. No source says the hubs outside Kampala run programmes for startups. No technology park with tenants is on record.

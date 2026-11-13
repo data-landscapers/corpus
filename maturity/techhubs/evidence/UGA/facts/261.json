@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-10-uga-what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "PML Daily relaying the ministry says the National ICT Innovation Hub at Nakawa reopened in January 2024 and supported 133 start-ups, taking 102 products to market.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "National ICT Innovation Hub, Nakawa",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "cities",
+   "value": "several",
+   "fact": "PML Daily says hubs followed at Kabale (June 2023) and Soroti (March 2024), then Muni and Busitema universities; programmes are not described for them.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Kabale, Soroti, Muni and Busitema hubs",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
