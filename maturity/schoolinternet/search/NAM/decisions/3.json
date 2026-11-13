@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "Of Namibia's 1,946 schools about 1,300 have internet access, per Giga's school map, with 7 identified as unconnected and 623 undetermined.",
+ "title": "Eduvision, Giga poog om skole aan die internet te verbind",
+ "publisher": "Republikein",
+ "published": "2025-03-31",
+ "date_source": "proxy",
+ "why_not": ""
+}

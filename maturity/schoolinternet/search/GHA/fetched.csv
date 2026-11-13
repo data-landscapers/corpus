@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.unesco.org/ethics-ai/en/ghana,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://download.uis.unesco.org/SDG4/SDG4-Profile-Ghana.pdf,fetched,,scripts/.workroot/study/schoolinternet/cache/GHA/2.txt,3045,pdf,SDG 4 – Country Profiles
+3,https://curriculumresources.edu.gh/wp-content/uploads/2024/11/ICT-Curriculum.pdf,fetched,,scripts/.workroot/study/schoolinternet/cache/GHA/3.txt,20150,pdf,
+4,https://nacca.gov.gh/curriculum/,fetched,,scripts/.workroot/study/schoolinternet/cache/GHA/4.txt,599,html,Development of the Ghanaian Curriculum - NaCCA
+5,https://www.fact-checkghana.com/fact-check-has-govt-provided-free-wifi-for-over-700-shss/,fetched,,scripts/.workroot/study/schoolinternet/cache/GHA/5.txt,794,html,FACT-CHECK: Has Gov’t provided free WiFi for over 700 SHSs?

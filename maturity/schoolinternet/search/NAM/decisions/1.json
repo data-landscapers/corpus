@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "According to the Ministry of Education, Arts and Culture, 1,300 schools in Namibia are connected to the internet and 671 are not.",
+ "title": "From Remote Schools to Real-Time Monitoring",
+ "publisher": "Giga",
+ "published": "2026-03-30",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "schools",
+ "aspect": "",
+ "fact": "",
+ "title": "The Giga 2025 report",
+ "publisher": "ITU and UNICEF (Giga)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": "no-development: Malawi section describes the baseline survey without stating a share of schools connected"
+}

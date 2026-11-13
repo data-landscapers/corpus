@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "UIS SDG 4 profile lists 24.8 per cent of secondary schools (ISCED 2-3) with internet for pedagogical purposes in 2021 (11.1 in 2017), with no later figure.",
+ "title": "SDG 4 – Country Profiles: Comoros",
+ "publisher": "UNESCO Institute for Statistics",
+ "published": "2025-06",
+ "date_source": "source",
+ "why_not": ""
+}

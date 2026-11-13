@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "schools",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "off-topic: counts all schools (3,500 of 7,000), not secondary schools"
+}

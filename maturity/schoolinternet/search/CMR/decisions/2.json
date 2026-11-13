@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "Only 15.6 per cent of secondary establishments had an internet connection in 2022/2023.",
+ "title": "Rapport d'analyse MINESEC 2019/2020 - 2022/2023",
+ "publisher": "MINESEC, Division des Projets, de la Planification et de la Coopération",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

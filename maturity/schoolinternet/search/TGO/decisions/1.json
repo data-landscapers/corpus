@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "UNESCO UIS data show 14.2 per cent of Togo's secondary schools (ISCED 2 to 3) had internet for pedagogical purposes in 2023, up from 10.4 per cent in 2022.",
+ "title": "SDG 4 – Country Profiles: Togo",
+ "publisher": "UNESCO Institute for Statistics",
+ "published": "2025-06-10",
+ "date_source": "source",
+ "why_not": ""
+}

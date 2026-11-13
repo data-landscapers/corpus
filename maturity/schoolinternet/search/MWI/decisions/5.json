@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "Malawi has 9,442 schools and only 14% are connected to the internet, with ~7-10% in large rural districts and 20-30% in urban areas (as of end of May 2026 pilot status).",
+ "title": "Malawi demonstrates sustainable business model with Connectivity Credits",
+ "publisher": "Connectivity Credits (unconnected.org)",
+ "published": "2026-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

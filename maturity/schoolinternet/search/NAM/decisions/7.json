@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "Namibia's national benchmark for SDG 4.a.1 is 70 per cent of secondary schools with internet for pedagogical purposes by 2025 and 100 per cent by 2030; no baseline value is shown.",
+ "title": "SDG 4 – Country Profiles: Namibia",
+ "publisher": "UNESCO Institute for Statistics",
+ "published": "2025-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

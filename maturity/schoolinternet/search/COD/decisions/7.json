@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "The UIS SDG 4 profile shows internet for pedagogical purposes in secondary schools (ISCED 2 to 3) at 0.0 per cent in 2015, with no figure for 2023 or later.",
+ "title": "SDG 4 – Country Profiles: Democratic Republic of the Congo",
+ "publisher": "UNESCO Institute for Statistics",
+ "published": "2025-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

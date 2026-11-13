@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "internet",
+ "fact": "A 2025 study of 42 Kampala Metropolitan Area schools found secondary schools had internet access at 87.5% (a metropolitan sample, not national).",
+ "title": "Policy Brief: Assessing the State of Internet Use in Uganda Schools: A Case of Kampala Metropolitan Area (KMA)",
+ "publisher": "Internet Society Uganda Chapter",
+ "published": "2025-05",
+ "date_source": "source",
+ "sub_indicator": "schools",
+ "why_not": ""
+}

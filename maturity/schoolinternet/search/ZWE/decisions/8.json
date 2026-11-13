@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "UIS SDG 4.a.1 profile gives 80.4 per cent of upper secondary schools with internet for pedagogical purposes in 2023; the combined secondary series ends in 2020 at 39.6 per cent and lower secondary at 21.2 per cent.",
+ "title": "SDG 4 – Country Profiles: Zimbabwe",
+ "publisher": "UNESCO Institute for Statistics",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

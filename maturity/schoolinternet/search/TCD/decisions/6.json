@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "schools",
+ "aspect": "",
+ "fact": "",
+ "title": "Technologie",
+ "publisher": "Education Profiles (GEM Report)",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: aggregator summary of plans, no document date, no dated fact on aspects since 2023"
+}

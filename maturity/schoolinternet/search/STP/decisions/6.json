@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "schools",
+ "aspect": "curriculum",
+ "fact": "",
+ "title": "Technology",
+ "publisher": "Education Profiles (UNESCO GEM Report)",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: policy summary of the 2012 roadmap, no document date and no current figure."
+}

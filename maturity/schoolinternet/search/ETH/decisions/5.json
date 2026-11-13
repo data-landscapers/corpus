@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "schools",
+ "aspect": "",
+ "fact": "",
+ "title": "Ethiopia Education and Skills Country Profile",
+ "publisher": "ADEA Knowledge Hub",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": "no-development: aggregator restating ESAA; internet figure is all schools (15.8%), not secondary"
+}

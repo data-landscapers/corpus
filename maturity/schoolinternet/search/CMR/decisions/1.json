@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "In 2023, 21.7 per cent of secondary schools in Cameroon had internet access (public 13.3, private 37.1), by MINESEC data in Table 151.",
+ "title": "Statistical Yearbook of Posts, Telecommunications and ICT in Cameroon, 2024 edition",
+ "publisher": "Ministry of Posts and Telecommunications (MINPOSTEL), with the National Institute of Statistics",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

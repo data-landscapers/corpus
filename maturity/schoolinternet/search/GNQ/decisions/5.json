@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "For the pilot phase of the Learning Passport, 16 schools (8 in Bata, 8 in Malabo) already have a computer room and internet connection.",
+ "title": "Presentación del pasaporte de aprendizaje Guinea Ecuatorial",
+ "publisher": "UNICEF Guinea Ecuatorial",
+ "published": "2024-06-25",
+ "date_source": "source",
+ "why_not": ""
+}

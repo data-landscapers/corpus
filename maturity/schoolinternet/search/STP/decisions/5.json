@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet;curriculum",
+ "fact": "The World Bank states poor internet connectivity in schools constrains digital skills, that some schools lack access entirely, and that STP needs to add digital literacy to the primary and secondary curriculum; the project will connect unconnected schools.",
+ "title": "Digital Sao Tome and Principe Project (Project Appraisal Document)",
+ "publisher": "World Bank",
+ "published": "2022-05-24",
+ "date_source": "source",
+ "why_not": ""
+}

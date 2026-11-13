@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "The Ministry of Communication Technologies announced the start of works to connect 2,192 educational establishments to an internal internet network through computer labs, under EDUNET10, which targets fibre for 3,307 primary schools, collèges and lycées.",
+ "title": "Lancement du projet de raccordement de 2192 établissements éducatifs au réseau de fibre optique à haut débit",
+ "publisher": "Tunisie Numérique",
+ "published": "2025-10-27",
+ "date_source": "proxy",
+ "why_not": ""
+}

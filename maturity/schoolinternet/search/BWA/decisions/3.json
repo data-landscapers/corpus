@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "UIS SDG 4 profile gives internet for pedagogical purposes in 94.9 per cent of secondary (ISCED 2 to 3) schools, 99.5 lower and 94.3 upper secondary, for 2022.",
+ "title": "SDG 4 - Country Profiles: Botswana",
+ "publisher": "UNESCO Institute for Statistics",
+ "published": "2025-06-08",
+ "date_source": "source",
+ "why_not": ""
+}

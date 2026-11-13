@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "ITU data cited in the article shows 49 per cent of Zimbabwe's secondary schools have internet access.",
+ "title": "Digital Inclusion and Gender Equity in Zimbabwe: Opportunities and Gaps",
+ "publisher": "MISA Zimbabwe",
+ "published": "2026-07-09",
+ "date_source": "source",
+ "why_not": ""
+}

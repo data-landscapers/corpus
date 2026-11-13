@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "schools",
+ "aspect": "",
+ "fact": "",
+ "title": "National programmes",
+ "publisher": "MINEDU-NC",
+ "published": "",
+ "date_source": "source",
+ "why_not": "off-topic: programme list places ICT inside the sciences domain, undated, and does not say compulsory"
+}

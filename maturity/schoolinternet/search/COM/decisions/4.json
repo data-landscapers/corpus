@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "curriculum",
+ "fact": "As at 15 August 2022 the national commitments report proposes introducing informatique as a discipline in secondary education, so it is not yet in the curriculum.",
+ "title": "Union des Comores: rapport des engagements nationaux (Moroni, 15 août 2022)",
+ "publisher": "Union des Comores",
+ "published": "2022-08-15",
+ "date_source": "source",
+ "why_not": ""
+}

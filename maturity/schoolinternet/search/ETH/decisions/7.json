@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "curriculum",
+ "fact": "In grades 9 and 10 students take 10 compulsory subjects, including Information Technology (2 periods a week), and ICT is a general subject in grades 11 and 12.",
+ "title": "General Education Curriculum Framework",
+ "publisher": "The Federal Democratic Republic of Ethiopia",
+ "published": "2020-12",
+ "date_source": "source",
+ "why_not": ""
+}

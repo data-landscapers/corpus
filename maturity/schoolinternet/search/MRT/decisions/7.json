@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "curriculum",
+ "fact": "The national teacher guide describes Informatique as a discipline taught for the first time in the first year of secondary (1AS), with 30 lessons across domains including network and internet.",
+ "title": "INFORMATIQUE Guide du professeur 1AS",
+ "publisher": "Institut Pédagogique National (IPN), Ministère de l'Education et de la Réforme du Système de l'Enseignement",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

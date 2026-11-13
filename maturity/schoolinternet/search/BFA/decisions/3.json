@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "schools",
+ "aspect": "curriculum",
+ "fact": "",
+ "title": "Formation TICE pour encadreurs au Burkina",
+ "publisher": "MENAPLN",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: fetch returned only a Scribd bot-challenge page, no document text"
+}

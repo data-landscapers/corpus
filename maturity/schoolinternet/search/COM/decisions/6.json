@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "curriculum",
+ "fact": "Comores Numériques 2028 states that no ICT learning programme is available in the educational curriculum from primary to lycée.",
+ "title": "Comores Numériques 2028",
+ "publisher": "Union des Comores",
+ "published": "2018",
+ "date_source": "proxy",
+ "why_not": ""
+}

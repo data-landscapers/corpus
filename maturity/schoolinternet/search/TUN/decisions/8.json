@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "schools",
+ "aspect": "",
+ "fact": "",
+ "title": "Interdisciplinaridade e dificuldade de aprendizagem de métodos numéricos em programação",
+ "publisher": "Tangram",
+ "published": "2023-09-30",
+ "date_source": "source",
+ "why_not": "off-topic: a Portuguese-language abstract on numerical algorithms; the fetched text does not state that computing is compulsory."
+}

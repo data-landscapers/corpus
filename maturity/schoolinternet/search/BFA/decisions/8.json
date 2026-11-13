@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "In 2019-2020, only 2 per cent of post-primary and secondary establishments in Burkina Faso had access to internet, according to DGESS data cited in the diagnostic.",
+ "title": "Rapport diagnostic de la chaîne des ressources éducatives au Burkina Faso",
+ "publisher": "UNESCO",
+ "published": "2022-03",
+ "date_source": "source",
+ "why_not": ""
+}

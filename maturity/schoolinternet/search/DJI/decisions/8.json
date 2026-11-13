@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "In 2022, 76% of Djibouti's 77 collèges had internet access (INSTAD 2022), against 33% of 204 primary schools; the report calls broadband penetration in schools and lycées low.",
+ "title": "Rapport du diagnostic de l'économie numérique de Djibouti",
+ "publisher": "Groupe de la Banque mondiale",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

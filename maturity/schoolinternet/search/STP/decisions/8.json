@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "schools",
+ "aspect": "internet",
+ "fact": "The report states that Central African Backbone project resources guaranteed five years of internet connection to all secondary schools, and that a significant portion of schools is now connected.",
+ "title": "Implementation Completion and Results Report: Quality Education for All Project",
+ "publisher": "World Bank",
+ "published": "2019-12-24",
+ "date_source": "source",
+ "why_not": ""
+}

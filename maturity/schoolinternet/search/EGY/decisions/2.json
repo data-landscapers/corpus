@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "schools",
+ "aspect": "",
+ "fact": "",
+ "title": "Monitoring equity through verified data",
+ "publisher": "GEM Report",
+ "published": "2025-12-22",
+ "date_source": "proxy",
+ "why_not": "off-topic: gives a count of schools with reliable internet across all schools, no secondary share"
+}
