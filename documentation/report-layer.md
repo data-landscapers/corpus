@@ -64,7 +64,7 @@ status: in force; Corpus-owned
 
 **Nothing is ever closed to new evidence.** A record belongs in the window its **publication date** falls in, whenever ingested; past that window it still moves the ledger.
 
-**A pile of new sources earns a whole re-read of what it touches** *(review 5, R76)*. Over 15 sources touching a unit's status sub-sections since its last whole read (unit review, status initialisation or last such re-read) and those sub-sections are re-read whole that build, by the unit review's method. `report-scan.py --sections` names them and `--sections-read` resets the clock. The drift measure is `unit-review.py`'s rolling mean of sections revised, which should fall under two.
+**A pile of new sources earns a whole re-read of what it touches** *(review 5, R76)*. Over 15 news sources touching a unit's status sub-sections since its last whole read (unit review, status initialisation or last such re-read), and at least 14 days since that read, and those sub-sections are re-read whole that build, by the unit review's method. **News is a source ingested within 7 days of publication** *(housekeeping 61, 2026-11-13)*: the maturity rebuild stages old documents by the hundred, which were 88% of a week's arrivals, so counting everything put every unit over the line every night. The gap makes the re-read fall about once a fortnight between unit reviews. `report-scan.py --sections` names them and `--sections-read` resets the clock. The drift measure is `unit-review.py`'s rolling mean of sections revised, which should fall under two.
 
 **The scan is a labour-saving gate, not the limit of BUILD's authority.** BUILD revises any document that can be made better, nominated or not.
 

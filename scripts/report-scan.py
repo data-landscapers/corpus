@@ -27,7 +27,8 @@ put it in front of every pass until the hold cleared, and it reappears on its ow
 **The set difference never looks back, so a count does it** *(strategic review 5, R76)*. A unit's
 sources ingested since its last whole read that touch a status sub-section are counted; past
 `REREAD_AFTER`, the sub-sections those sources' `topics:` name are owed a whole re-read in this
-build. The last whole read is the latest of the unit's review (`logs/unit-review.csv`), its last
+build. Only news counts, and nothing is owed within `REREAD_GAP` days of the last whole read
+(`sections_owed`). The last whole read is the latest of the unit's review (`logs/unit-review.csv`), its last
 sub-section re-read (`sections-read.txt`), its status initialisation
 (`logs/status-init-progress.csv`) and `CLOCK_FLOOR`, so every whole read resets the clock and a
 unit never re-reads the same pile twice.
@@ -65,6 +66,8 @@ ROOT = os.path.dirname(os.path.realpath(HERE))   # through the .workroot junctio
 UNIT_REVIEW = os.path.join(ROOT, "logs", "unit-review.csv")
 STATUS_INIT = os.path.join(ROOT, "logs", "status-init-progress.csv")
 REREAD_AFTER = 15      # sources since the last whole read past which touched sub-sections are re-read
+REREAD_LAG = 7         # days from publication to ingest within which a source counts: news, not a backfill
+REREAD_GAP = 14        # days a whole read stands before another can be owed
 # The clock never starts before the rule did. A pile that formed before 2026-09-25 is the
 # monthly rotation's to clear: counted from the start, KEN, NGA and ZAF each owed 30-plus
 # sub-sections, which is a unit review run inside the build, not a re-read.
@@ -209,6 +212,26 @@ def status_sections(unit):
     return re.findall(r"^<!-- ([a-z]+\.[a-z]+) -->\s*$", io.open(p, encoding="utf-8").read(), re.M)
 
 
+def _date(v):
+    import datetime
+    try:
+        return datetime.date.fromisoformat(str(v)[:10])
+    except ValueError:
+        return None
+
+
+def _is_news(published, ingested):
+    """Published at most `REREAD_LAG` days before ingest; undated records are not news."""
+    p, i = _date(published), _date(ingested)
+    return bool(p and i and (i - p).days <= REREAD_LAG)
+
+
+def _days_since(day):
+    import datetime
+    d = _date(day)
+    return (datetime.date.today() - d).days if d else 10 ** 6
+
+
 def sections_owed(unit, by_place=None, rows=None):
     """`(since, count, {section: sources})` — the re-read a unit owes; empty under the threshold.
 
@@ -217,7 +240,14 @@ def sections_owed(unit, by_place=None, rows=None):
     `ingested:` is not counted, since it cannot be placed after anything. Nor is a deal record
     (one carrying `deal_id:`): what it can change is the non-state count, which a derived
     paragraph states and check K holds to the table, so a dataset backfill of thousands of
-    commitments does not make every sub-section it tags owe a whole re-read (2026-11-06)."""
+    commitments does not make every sub-section it tags owe a whole re-read (2026-11-06).
+
+    **Only news counts, and a whole read stands a fortnight** *(housekeeping 61, 2026-11-13)*. A
+    source counts when it was published at most `REREAD_LAG` days before it was ingested: the
+    maturity rebuild stages old documents by the hundred, and in the week to 2026-11-13 they were
+    88% of what touched a status sub-section, so every unit crossed the threshold every night. And
+    nothing is owed inside `REREAD_GAP` days of the last whole read, so a re-read falls on a unit
+    about once a fortnight between unit reviews. A record with no `published:` date does not count."""
     by_place = sources_by_place() if by_place is None else by_place
     rows = vault_lib.load_index() if rows is None else rows
     since = last_whole_read(unit)
@@ -231,11 +261,13 @@ def sections_owed(unit, by_place=None, rows=None):
             continue
         if (d.get("slug") or os.path.basename(r["path"])[:-3]) not in mine:
             continue
+        if not _is_news(fm.get("published"), ing):
+            continue
         secs = {str(t) for t in (fm.get("topics") or [])} & have
         if secs:
             touched.append(secs)
     owed = {}
-    if len(touched) > REREAD_AFTER:
+    if len(touched) > REREAD_AFTER and _days_since(since) >= REREAD_GAP:
         for secs in touched:
             for s in secs:
                 owed[s] = owed.get(s, 0) + 1
@@ -282,8 +314,8 @@ def main():
                          "initialisation owes, because it has already read the base")
     ap.add_argument("--month-due", action="store_true")
     ap.add_argument("--sections", metavar="UNIT",
-                    help=f"status sub-sections owed a whole re-read (past {REREAD_AFTER} sources "
-                         "since the unit's last whole read)")
+                    help=f"status sub-sections owed a whole re-read (past {REREAD_AFTER} news sources "
+                         f"and {REREAD_GAP} days since the unit's last whole read)")
     ap.add_argument("--sections-read", metavar="UNIT",
                     help="stamp today as the unit's last sub-section re-read")
     ap.add_argument("--gate", action="store_true",
@@ -310,9 +342,9 @@ def main():
             print(f"{a.sections}: no status report")
             return
         since, n, owed = sections_owed(a.sections)
-        head = f"{a.sections}: {n} source(s) since the last whole read ({since or 'never'})"
+        head = f"{a.sections}: {n} news source(s) since the last whole read ({since or 'never'})"
         if not owed:
-            print(f"{head}; re-read owed past {REREAD_AFTER}: none")
+            print(f"{head}; owed past {REREAD_AFTER} and {REREAD_GAP} days: none")
             return
         print(f"{head}; re-read these {len(owed)} sub-section(s) whole:")
         order = status_sections(a.sections)
