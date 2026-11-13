@@ -4,7 +4,7 @@ compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MLI; MRT; MUS; MAR; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0adb3118159e
+record: 7510323fb3f5
 ---
 
 # News, Oct – Nov 2026
@@ -1075,6 +1075,20 @@ Sudan's commercial registry has been almost entirely stalled for more than a wee
 **[Terms of Reference and Request for Proposal for the Design, Development, Deployment and Support of a Secure Digital Victims’ Registry for Survivors of Conflict-Related Sexual Violence in Sudan](https://www.globalsurvivorsfund.org/wp-content/uploads/2026/10/VAC_TRF_termofref-sudan-registry_SDN_EN_2026.pdf)** — Global Survivors Fund, 8 October 2026
 
 The Global Survivors Fund opened a tender for a secure, offline-capable digital registry of survivors of conflict-related sexual violence in Sudan, to be run with the AWAFY Sudanese Organization in Darfur, Kordofan, Khartoum, Northern State and Blue Nile. The 18-month project starts on 1 November 2026; bids close on 27 October. No budget is disclosed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National civil registry database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[السجل المدني يستعيد قاعدة البيانات بالكامل رغم خسائر الحرب ويعلن بدء التقديم الإلكتروني للأطفال](https://alwatannewssd.com/79500/)** — الوطن اليوم, 12 November 2026
+
+Sudan's General Directorate of Civil Registry says its engineers have restored the registry database in full. The war damaged its archives and offices in Khartoum, Gezira and Sennar. The directorate is widening electronic registration and will take applications for children online.
 
 </div>
 

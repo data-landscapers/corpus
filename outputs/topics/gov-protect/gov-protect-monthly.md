@@ -3,8 +3,8 @@ title: Data protection — News, October – November 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: gov.protect
-places: AGO; BEN; BFA; CMR; COG; COD; EGY; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5678aa232aac
+places: AGO; BEN; BFA; CMR; COG; COD; EGY; SWZ; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: a4dff4b0ecfe
 ---
 
 # News, Oct – Nov 2026
@@ -23,6 +23,8 @@ record: 5678aa232aac
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#eswatini">Eswatini</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -183,6 +185,22 @@ The justice minister spoke at a press briefing. He said several people prosecute
 **[Egypt: Personal Data Protection Law Update](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)** — Baker McKenzie, 7 October 2026
 
 Egypt's Personal Data Protection Center opened its electronic portal for accreditation, licence and permit applications in early October, weeks before the data-protection law's compliance grace period ends on 31 October 2026, on a law firm's account. Applying needs a Digital Egypt login tied to an Egyptian national ID, so foreign controllers and processors must act through an authorised local representative.
+
+</div>
+
+</div>
+
+## Eswatini
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registration of data controllers and processors (EDPA Notice 1/2024)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[2026 ESCCOM Annual Report](https://esccom.org.sz/wp-content/uploads/2026/10/ESCCOM-Annual-Report-2026_Final_30.10.2026-Compressed.pdf)** — Eswatini Communications Commission, 1 October 2026
+
+The Eswatini Communications Commission has published its 2026 annual report. It covers telecoms and postal market performance, quality of service, spectrum management and the regulator's work on data protection and cybersecurity rules.
 
 </div>
 

@@ -4,7 +4,7 @@ compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: b8aa0dab9726
+record: 3433433a7a0a
 ---
 
 # News, Oct – Nov 2026
@@ -586,6 +586,7 @@ ECOWAS is running public campaigns in Ghana and Nigeria ahead of its December 20
 Ghana's National Identification Authority, with the National Health Insurance Authority, began school-based Ghana Card registration of children aged 6 to 14 in the North East and Upper East regions on 5 October 2026. Children need a birth certificate, passport or citizenship certificate, or an oath of identity by a parent or guardian; those registered in the 2024 pilot should not re-register.
 
 </div>
+
 
 </div>
 

@@ -3,8 +3,8 @@ title: Standards — News, October – November 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: gov.standards
-places: DZA; BEN; BFA; BDI; CMR; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; ZAF; SDN
-record: 7cb0ea527488
+places: DZA; BEN; BFA; BDI; CMR; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; ZAF; SDN; ZMB
+record: d5d549c9d8a0
 ---
 
 # News, Oct – Nov 2026
@@ -47,6 +47,8 @@ record: 7cb0ea527488
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sudan">Sudan</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zambia">Zambia</a>
 </nav>
 
 ## Algeria
@@ -514,6 +516,22 @@ Sudan News Agency reported on 2 October 2026 that the Sudanese Standards and Met
 **[ISO - SSMO - Sudanese Standards and Metrology Organization](https://www.iso.org/member/2078.html)** — International Organization for Standardization, 9 November 2026
 
 The ISO membership page, on file under 9 November 2026, lists the Sudanese Standards and Metrology Organization as a member body. It describes a government body set up in 1993, with headquarters in Khartoum, state offices and 15 laboratories, and lists its memberships of regional and international standards bodies. The page carries no date of its own.
+
+</div>
+
+</div>
+
+## Zambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT (Type Approval) Guidelines</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Public Notice: Draft Revised Type Approval Guidelines for Electronic Communications Equipment](https://ib-lenhardt.com/media/pages/news/consultation-on-draft-revised-type-approval-guidelines/3220b471e8-1792662126/public-notice-draft-revised-type-approval-guidelines_20102026.pdf)** — Zambia Information and Communications Technology Authority, 21 October 2026
+
+ZICTA, Zambia's ICT regulator, wants comments on revised type approval rules for telecoms equipment by 20 November 2026. The draft splits equipment into high-risk and low-risk classes. Some goods could leave customs before approval.
 
 </div>
 
