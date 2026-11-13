@@ -1,3 +1,7 @@
+## 13 November 2026
+
+- Madagascar's 2027 draft is in the tables: 114 lines read from the finance bill, MGA 14.0bn wholly and 107.4bn partly digital, with the data-protection commission (MGA 1.1bn) held for the first time. Most of the partly digital money is two fee-funded accounts, customs IT (MGA 46.1bn) and electronic passports (MGA 30.4bn); MGA 648bn of digital projects paid for by loans and grants is left out.
+
 ## 11 November 2026
 
 - Seven maturity cells move on rulings about what counts: Angola and Algeria rise to 4 for AI in administration, a parliament now counting as a government body, and Morocco reaches 5 and Mauritius 4 on court systems, a running service dated by its source. Niger rises to 3 for satellite data in weather services, South Sudan's forecasting pilot falls to 2, and Lesotho's 2023 system, with nothing since, is unplaced.

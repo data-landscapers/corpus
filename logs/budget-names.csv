@@ -910,7 +910,7 @@ MDG,hosting,Defence,,Ministère des Forces armées,line,mdg-2024-12-122-103-00-1
 MDG,hosting,Police,,Police nationale (Ministère de la Sécurité publique),no line,
 MDG,hosting,Justice,,Ministère de la Justice,line,mdg-2024-16-160-012-00-16-0-480
 MDG,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie et des Finances,line,mdg-2024-21-220-013-00-21-f-01m
-MDG,hosting,Revenue Service,revenue-systems,Direction générale des impôts,no line,
+MDG,hosting,Revenue Service,revenue-systems,Direction générale des impôts,line,mdg-2027-21-220-115-393-p47
 MDG,hosting,Customs,,Direction générale des douanes,line,mdg-2024-21-220-116-00-23-0-322
 MDG,hosting,Interior / Home Affairs,,Ministère de l'Intérieur et de la Décentralisation,line,mdg-2024-60-670-043-ba
 MDG,hosting,Central Bank,,Banky Foiben'i Madagasikara,no line,
@@ -925,7 +925,7 @@ MDG,hosting,Energy utility,,JIRAMA,no line,
 MDG,hosting,Ports authority,,Société du port à gestion autonome de Toamasina (SPAT),no line,
 MDG,hosting,State-owned telco / National backbone operator,,Telma (Yas Madagascar),no line,
 MDG,hosting,E-government agency,ict-ministry-egov,Unité de gouvernance digitale (UGD),line,mdg-2024-60-660-023
-MDG,hosting,E-government agency,ict-ministry-egov,Gouvernement malagasy (zone parente),no line,
+MDG,hosting,E-government agency,ict-ministry-egov,Gouvernement malagasy (zone parente),line,mdg-2027-01-010-138-00-01-0-4m0
 MDG,hosting,Cybersecurity agency / National CERT,cybersecurity,CIRT Madagascar,no line,
 MDG,hosting,Communications regulator,communications-regulator,Autorité de régulation des technologies de communication (ARTEC),line,mdg-2024-artec
 MDG,hosting,Audit office,,Cour des comptes,no line,
@@ -1445,7 +1445,6 @@ SYC,hosting,State-owned telco / National backbone operator,,Cable & Wireless Sey
 SYC,hosting,E-government agency,ict-ministry-egov,Department of Information Communications Technology,line,syc-2027-022x000
 SYC,hosting,Anti-corruption commission,,Anti-Corruption Commission of Seychelles,line,syc-2024-150e000-p1-case-management-software
 SYC,hosting,E-government agency,ict-ministry-egov,Department of Information Communications Technology (DICT),line,syc-2024-022x000-p1
-SYC,deal-recipient,Private Sector,,Fusepay,no line,
 TCD,hosting,Presidency,,Présidence de la République du Tchad,no line,
 TCD,hosting,Parliament,,Assemblée nationale,no line,
 TCD,hosting,Parliament,,Sénat,no line,

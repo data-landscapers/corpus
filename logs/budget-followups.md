@@ -27,7 +27,3 @@ One line per country, worst first, written on 2026-10-02 from checks A to C of t
 ## Queued by the budget poll
 
 One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes them; delete a line in the commit that settles it.
-- **MDG FY2027** — budget-estimates adds proposed or appropriated: [[2026-11-11-mdg-plf-2027-tome-1-companion]] (queued 2026-11-13).
-- **MDG FY2027** — budget-estimates adds proposed or appropriated: [[2026-11-11-mdg-plf-2027-tome-2-livre-1-companion]] (queued 2026-11-13).
-- **MDG FY2027** — budget-estimates adds proposed or appropriated: [[2026-11-11-mdg-plf-2027-tome-2-livre-2-companion]] (queued 2026-11-13).
-- **MDG FY2027** — mtef adds proposed: [[2026-11-11-mdg-plf-2027-tome-3-companion]] (queued 2026-11-13).
