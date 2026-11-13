@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-13 16:26 · **REBUILD** · unclocked · taxregister taxpayers: searched 54, staged 126; 6.2M tokens — ok
 2026-11-13 16:13 · **REBUILD** · unclocked · taxadmin taxsystem: searched 54, staged 166; 6.6M tokens — ok
 2026-11-13 15:55 · **REBUILD** · unclocked · stemgraduates graduates: searched 54, staged 104; 5.8M tokens — ok
 2026-11-13 15:16 · **RENDER** · 1h02m · 301/301 reports, home, countries, catalogue 42,245 rendered; deployed 9e93230 — ok

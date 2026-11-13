@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;shared",
+ "fact": "In June 2021 the FMIS provided TIN generation for Inland Revenue, the TIN was obtained by presenting the business registration certificate to IRD, and ITAS was proposed to automate TIN registration and integrate business registration.",
+ "title": "Consultancy Services for Development of Somalia Integrated Tax Administration System, Phase 1 Deliverable 2: Business Systems Architecture - Inland Revenue",
+ "publisher": "Ministry of Finance, Federal Government of Somalia (KPMG Advisory Services and KasmoDev Consulting)",
+ "published": "2021-06",
+ "date_source": "source",
+ "why_not": ""
+}

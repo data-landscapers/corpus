@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "The Guiché Único da Empresa registers taxpayers and issues the Número de Identificação Fiscal (NIF) as part of company incorporation.",
+ "title": "GUE | Quem Somos",
+ "publisher": "Guiché Único da Empresa, Ministério da Justiça e dos Direitos Humanos",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

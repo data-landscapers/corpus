@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;nationalid",
+ "fact": "LRA's FY2024 annual report says the LITAS taxpayer registration system assigns a unique TIN, registration is online for individuals, and LITAS is integrated with the National Identification Registry for real-time verification.",
+ "title": "LRA Annual Report FY2024",
+ "publisher": "Liberia Revenue Authority",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

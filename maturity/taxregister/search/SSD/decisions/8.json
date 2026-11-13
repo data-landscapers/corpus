@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The NRA announced that new taxpayer registration and TIN issuance are done online through the eTax portal, and existing TINs are rendered inactive from 1 July 2021.",
+ "title": "South Sudan implements an electronic tax system",
+ "publisher": "EY",
+ "published": "2021-06-30",
+ "date_source": "source",
+ "why_not": ""
+}

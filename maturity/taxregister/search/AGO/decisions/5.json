@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid;shared",
+ "fact": "A national needs only the BI to form a company at the Guiché Único da Empresa because the NIF has been the BI number since 2019.",
+ "title": "Constituir uma empresa é fácil, licenciar é muito mais complicado",
+ "publisher": "Expansão",
+ "published": "2023-04",
+ "date_source": "source",
+ "why_not": ""
+}

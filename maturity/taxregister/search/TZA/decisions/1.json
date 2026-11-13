@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid",
+ "fact": "The Home Affairs Minister said the NIDA national ID card gives access to services including Taxpayer Identification Numbers (TIN).",
+ "title": "A call for all Tanzanians to register for National Identification system",
+ "publisher": "Daily News",
+ "published": "2026-02-10",
+ "date_source": "source",
+ "why_not": ""
+}

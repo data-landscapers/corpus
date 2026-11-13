@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid;register",
+ "fact": "For the 2025 e-filing season, the MRA states taxpayers can retrieve their TAN online by entering their National Identity Card number, and can apply for a TAN online.",
+ "title": "Step-by-Step Guide for e-Filing",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

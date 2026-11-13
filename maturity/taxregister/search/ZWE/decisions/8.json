@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "Companies are now automatically issued a TIN upon registration with the Registrar, making it easier to begin tax registration with ZIMRA.",
+ "title": "Procedure for Company Registration in Zimbabwe",
+ "publisher": "M&J Consultants",
+ "published": "2025-05-07",
+ "date_source": "source",
+ "why_not": ""
+}

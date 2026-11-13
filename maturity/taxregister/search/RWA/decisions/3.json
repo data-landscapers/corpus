@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The RRA tax register stood at 318,948 active taxpayers at June 2024, up 13.9% from 279,862 at June 2023, after a clean-up under a new tax registry management policy deactivated 172,355 taxpayers.",
+ "title": "RRA Annual Report 2023/24",
+ "publisher": "Rwanda Revenue Authority",
+ "published": "2024-10",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "taxpayers",
+ "aspect": "",
+ "fact": "",
+ "title": "Les services rendus par le CFE Togo",
+ "publisher": "Centre de Formalités des Entreprises du Togo",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: undated service page; states the single card carries RCCM, NIF and CNSS numbers but no date to stage it"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid",
+ "fact": "The paper says Zambia's INRIS national ID is not yet integrated with ZRA's TaxOnline and recommends building an interface to automate taxpayer identification, so the TPIN is not tied to the ID.",
+ "title": "The Key to Efficient Taxes and Expanded Revenue",
+ "publisher": "ICTworks (Jones Bowa)",
+ "published": "2026-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

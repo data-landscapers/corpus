@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The DRM Year 2 report says ITAS phase one, due mid-2022, will deliver taxpayer registration, and the LRA mobile app registers individual taxpayers via SIGTAS.",
+ "title": "Domestic Resource Mobilization (DRM) Year 2 Implementation Report",
+ "publisher": "Liberia Revenue Authority",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The TADAT assessment of the mission of 30 July-16 August 2019 states the taxpayer register is computerised and centralised in the OTR tax management system (SGIO), with the new E-TAX system under test.",
+ "title": "Rapport d'Évaluation de la Performance - République du Togo",
+ "publisher": "TADAT",
+ "published": "2020-04",
+ "date_source": "source",
+ "why_not": ""
+}

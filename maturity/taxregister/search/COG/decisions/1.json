@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;shared",
+ "fact": "On 23 October 2025 the NIU coordinator said the NIU database holds over 600,000 individuals and 28,000 legal entities, enrolled biometrically in Brazzaville and Pointe-Noire, with interfaces to ETAX (taxes) and SYDONIA (customs) still being completed.",
+ "title": "Relance des opérations de production de la carte NIU",
+ "publisher": "Ministère des finances, du budget et du portefeuille public",
+ "published": "2025-10-23",
+ "date_source": "source",
+ "why_not": ""
+}

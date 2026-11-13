@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "shared",
+ "fact": "The National Business Register announced on 16 February 2026 a single online path merging tax registration and company incorporation, in which the tax identification number attributed by the DGI is passed directly to the business register.",
+ "title": "RNE 2.0 : La déclaration d'existence des sociétés passe au 100% en ligne",
+ "publisher": "L'écho Tunisien",
+ "published": "2026-02-16",
+ "sub_indicator": "taxpayers",
+ "date_source": "source",
+ "why_not": ""
+}

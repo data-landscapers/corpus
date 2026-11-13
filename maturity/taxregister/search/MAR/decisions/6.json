@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "The customs administration (ADII) circular n° 5382/312 made the Identifiant Commun de l'Entreprise (ICE) compulsory for naming the consignee on summary declarations from 1 March 2019.",
+ "title": "Douane : L'Identifiant Commun de l'Entreprise obligatoire à partir du 1er mars 2019",
+ "publisher": "Ecoactu",
+ "published": "2019-01-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

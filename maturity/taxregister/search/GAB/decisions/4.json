@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "Registration of legal persons with the tax authorities is done through ANPI, which also handles RCCM registration, and the taxpayer then receives a Tax Identification Number.",
+ "title": "Global Forum on Transparency and Exchange of Information for Tax Purposes: Gabon 2026 (Second Round)",
+ "publisher": "OECD",
+ "published": "2026-04",
+ "date_source": "source",
+ "why_not": ""
+}

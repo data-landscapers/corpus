@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "nationalid",
+ "fact": "Executive decree 23-316 of 6 September 2023 extends the NIN to legal persons, with 13 positions of the NIN carrying the legal person's tax identification, and requires administrations to link their systems to the NIN system and adopt the NIN in all procedures.",
+ "title": "Décret exécutif n° 23-316 du 6 septembre 2023 relatif au numéro d'identification national unique",
+ "publisher": "Journal officiel de la République algérienne (Joradp n°60), via Al-manach",
+ "published": "2023-09-13",
+ "date_source": "source",
+ "sub_indicator": "taxpayers",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "KRA's customs system iCMS is integrated with iTax from May 2026, and exporters must quote their PIN when lodging export documents in iCMS.",
+ "title": "KRA links iCMS, iTax systems to tighten export VAT compliance",
+ "publisher": "Capital FM Kenya",
+ "published": "2026-04-28",
+ "date_source": "source",
+ "why_not": ""
+}

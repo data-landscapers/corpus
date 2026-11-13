@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid",
+ "fact": "TaRMS, due to go live on 12 October 2023, validates taxpayer ID numbers online because it is integrated with the Civil Registry, and company registration numbers against the Registrar of Companies.",
+ "title": "New Tax and Revenue Management System (TaRMS)",
+ "publisher": "Zimbabwe Revenue Authority",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

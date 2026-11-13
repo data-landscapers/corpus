@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;shared",
+ "fact": "The 2023 Code général des impôts (art. 635, law of 24 December 2022) institutes one Identifiant Financier Unique for every user of the financial administration, required for customs clearance, and the customs directorate may deactivate and reactivate a taxpayer's IFU in its own system, alongside the tax directorate's IFU management software.",
+ "title": "Code général des impôts, édition officielle 2023 (à jour de la loi de finances 2023)",
+ "publisher": "Direction générale des impôts (Burkina Faso)",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

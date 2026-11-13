@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid;shared",
+ "fact": "FIRS said in December 2025 that from 2026 the NIN automatically serves as the Tax ID for individuals and the CAC RC number for registered companies, unifying all TINs issued by FIRS and state IRS.",
+ "title": "NIN, CAC numbers to serve as TIN from 2026, says FIRS",
+ "publisher": "The Guardian Nigeria",
+ "published": "2025-12-24",
+ "date_source": "source",
+ "why_not": ""
+}

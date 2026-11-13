@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The Ministry of Budget signed a contract on 15 May 2024 for SAFIG 2, whose first versions automate taxpayer registration and link it with APIP, with deliveries planned from October 2024 to July 2026.",
+ "title": "Termes de référence : assistance en maîtrise d'ouvrage pour le déploiement de SAFIG 2",
+ "publisher": "Expertise France (programme AMRIC)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

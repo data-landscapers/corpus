@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid",
+ "fact": "At least 2.1 million of 5.7 million taxpayers have had their TINs mapped to NINs as Uganda adopts the NIN as the primary tax identifier for individuals.",
+ "title": "2.1 million Taxpayers mapped as URA kicks off one-year transition from TIN to NIN",
+ "publisher": "Monitor",
+ "published": "2026-10-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "shared",
+ "fact": "Under executive decree 23-169 of 24 April 2023, registration through the CNRC company-creation portal, coordinated with the tax authorities, returns the trade register extract and the tax identification number together.",
+ "title": "création d'entreprise",
+ "publisher": "Agence algérienne de promotion de l'investissement (AAPI)",
+ "published": "2023",
+ "date_source": "proxy",
+ "sub_indicator": "taxpayers",
+ "why_not": ""
+}

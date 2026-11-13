@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The tax administration (AGID) said it would use a unique tax file (DFU) that year, with implementation begun the year before, alongside the SIGIT system and the NOSYREG and SYCARFO systems.",
+ "title": "L'AGID envisage de mettre en place le Dossier Fiscal Unique (DFU)",
+ "publisher": "La Gazette des Comores",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

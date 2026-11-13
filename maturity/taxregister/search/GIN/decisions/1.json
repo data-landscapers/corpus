@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "At 30 May 2026 the DGI taxpayer register held 203,723 taxpayers, 76,993 not yet on the new NIF format, with 111,951 taxpayers managed by centres not yet connected to SAFIG 2 and two further files kept manually.",
+ "title": "Rapport d'assistance technique : Consolidation de l'intégrité du répertoire des contribuables",
+ "publisher": "Fonds monétaire international, AFRITAC de l'Ouest",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": ""
+}

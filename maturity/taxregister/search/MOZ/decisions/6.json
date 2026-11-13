@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The tax authority announced a project to restructure the taxpayer register (cadastro) and taxpayer portal, with a new register management model, database clean-up and decentralisation of the Central Register Unit.",
+ "title": "AT reestrutura portal de cadastro de contribuintes",
+ "publisher": "Menos Fios",
+ "published": "2023-05-30",
+ "date_source": "source",
+ "why_not": ""
+}

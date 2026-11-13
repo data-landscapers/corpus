@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://dgi.gouv.cd/wp-content/uploads/2025/12/COMMUNIQUE%CC%81-OFFICIEL-N%C2%B001_061.pdf",
+  "title": "Communiqué officiel DGI sur l'immatriculation au NIF",
+  "publisher": "Direction Générale des Impôts",
+  "published": "2025-12",
+  "sub_indicator": "taxpayers",
+  "why": "NIF requested online via e-NIF, at tax offices or at the Guichet Unique de Création d'Entreprise (Q2, Q3)"
+ },
+ {
+  "url": "https://dgi.cd/wp-content/uploads/2025/09/VERSION-FINALE-DU-RAPPORT-ANNUEL-2023.pdf",
+  "title": "Rapport annuel 2023",
+  "publisher": "Direction Générale des Impôts",
+  "published": "2025-03",
+  "sub_indicator": "taxpayers",
+  "why": "DGIREP database, NIF issued via decentralised entry posts, I-NIF platform (Q1, Q2)"
+ },
+ {
+  "url": "https://www.imfconnect.org/content/dam/CompactwithAfrica/Countries/Democratic-Republic-of-Congo/DRC.pdf",
+  "title": "Democratic Republic of Congo (Compact with Africa)",
+  "publisher": "IMF",
+  "published": "2024",
+  "sub_indicator": "taxpayers",
+  "why": "Plan to automate issuance of tax and national ID numbers at business set-up (Q1, Q3)"
+ },
+ {
+  "url": "https://www.un.org/peacebuilding/sites/default/files/documents/imf_-_first_review_under_article_iv_-_imf.pdf",
+  "title": "DRC First Review, IMF Country Report No. 25/195",
+  "publisher": "IMF",
+  "published": "2025",
+  "sub_indicator": "taxpayers",
+  "why": "Biometric registration of taxpayers, taxpayer registry fragmented (Q1)"
+ },
+ {
+  "url": "https://ctr.izistore.net/nos-activites/fiabilisation-du-repertoire/",
+  "title": "Fiabilisation du répertoire des assujettis",
+  "publisher": "Projet Gouvernance Financière",
+  "published": "2025-07-13",
+  "sub_indicator": "taxpayers",
+  "why": "DGIREP register works under way, census with biometric kits (Q1)"
+ },
+ {
+  "url": "https://fatshimetrie.org/en/africa/2025/11/4/the-implementation-of-the-tax-identification-number-in-the-drc-modernizes-tax-administration-and-poses-accessibility-and-efficiency-challenges/",
+  "title": "The implementation of the Tax Identification Number in the DRC",
+  "publisher": "Fatshimetrie",
+  "published": "2025-11-04",
+  "sub_indicator": "taxpayers",
+  "why": "e-NIF digital NIF (Q2)"
+ },
+ {
+  "url": "https://rdc-monde.com/numero-dimpot-fiscale-nif-la-dgi-reinvente-la-proximite-et-la-transparence-pour-tous-les-citoyens/",
+  "title": "Numéro d'impôt Fiscale (NIF): la DGI réinvente la proximité",
+  "publisher": "RD Congo-Monde",
+  "published": "2025-11-11",
+  "sub_indicator": "taxpayers",
+  "why": "NIF online, babies at civil registration (Q2, Q4)"
+ },
+ {
+  "url": "https://economie.gouv.cd/rubrique_creation_entreprise",
+  "title": "Rubrique création d'entreprise",
+  "publisher": "Ministère de l'Economie Nationale",
+  "published": "",
+  "sub_indicator": "taxpayers",
+  "why": "NIF issued via GUCE alongside RCCM and Id.Nat (Q3)"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid;shared",
+ "fact": "On 15-16 September 2025 the Joint Tax Board endorsed the NIN for individuals and the CAC RC number for companies as tax IDs from January 2026, with a harmonised national tax identification system being developed with FIRS.",
+ "title": "JTB okays NIN, RC as tax IDs",
+ "publisher": "The Nation Newspaper",
+ "published": "2025-09-16",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The terms of reference for an audit of the taxpayer register (tender deadline 25 March 2026) state that the 2022 TADAT assessment found the taxpayer register incomplete and that the first SAFIG2 module (taxpayer management) has been implemented to clean the file.",
+ "title": "Termes de référence : audit du répertoire des contribuables de Guinée et guide de procédures",
+ "publisher": "Expertise France (programme AMRIC)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

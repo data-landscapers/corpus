@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid",
+ "fact": "Salaried workers file annual returns by keying their national identification number into KRA's system, which pre-fills income and tax data.",
+ "title": "KRA removes manual tax filing for salaried workers",
+ "publisher": "Business Daily",
+ "published": "2025-08-27",
+ "date_source": "source",
+ "why_not": ""
+}

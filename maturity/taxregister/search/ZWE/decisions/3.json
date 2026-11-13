@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "ZIMRA announced on 16 October 2023 that the new TaRMS was open to the public, new taxpayers are allocated a TIN through the online Self Service Portal and no manual taxpayer registrations are accepted.",
+ "title": "PUBLIC NOTICE: TaRMS Go-Live (Public Notice 68 of 2023)",
+ "publisher": "Zimbabwe Revenue Authority",
+ "published": "2023-10-16",
+ "date_source": "source",
+ "why_not": ""
+}

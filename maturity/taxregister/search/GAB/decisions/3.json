@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "taxpayers",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "off-topic: says the DUS project uses NIP and NIF to identify employers and insured persons; no statement that the NIF is checked against or is the national ID"
+}

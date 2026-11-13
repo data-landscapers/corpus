@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "Under law N°020/2023 on tax procedures the Registrar General assigns the TIN to a business taxpayer for payment of any tax, and the tax administration assigns TINs only to non-businesses.",
+ "title": "Taxation Procedures",
+ "publisher": "Rwanda Revenue Authority",
+ "published": "2023-08",
+ "date_source": "source",
+ "why_not": ""
+}

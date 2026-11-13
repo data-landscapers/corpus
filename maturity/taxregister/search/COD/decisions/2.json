@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "By end 2023 the DGI had installed decentralised entry posts connected to the central network in all provinces to issue the NIF into the DGIREP database, which held 494,816 registrations at 31 December 2023, and 152,018 NIF were issued in 2023.",
+ "title": "RAPPORT ANNUEL (exercice 2023)",
+ "publisher": "Direction Générale des Impôts (DGI)",
+ "published": "2025-03",
+ "date_source": "source",
+ "why_not": ""
+}

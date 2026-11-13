@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid",
+ "fact": "GRA said 15.99 million Ghana Card records from NIA were migrated to its database and 3.08 million of its 5.74 million TINs were linked to Ghana Cards, automatically or manually.",
+ "title": "10 million Ghana Card holders without TIN",
+ "publisher": "Graphic Online",
+ "published": "2023-06-14",
+ "date_source": "source",
+ "why_not": ""
+}

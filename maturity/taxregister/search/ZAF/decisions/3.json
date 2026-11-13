@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;nationalid",
+ "fact": "SARS Commissioner Kieswetter said the plan is a unique digital identity that would end the need for separate Home Affairs ID and SARS tax numbers.",
+ "title": "Say goodbye to SARS tax numbers in South Africa",
+ "publisher": "Daily Investor",
+ "published": "2026-04-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

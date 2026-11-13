@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;nationalid",
+ "fact": "MRA said Msonkho Online piloting starts 16 January in Blantyre and Mzuzu, and every employee will get a TPIN issued on presentation of their National Identification Card.",
+ "title": "Malawi employees to have taxpayer identification number — MRA",
+ "publisher": "Nyasa Times",
+ "published": "2020-01-14",
+ "date_source": "proxy",
+ "why_not": ""
+}

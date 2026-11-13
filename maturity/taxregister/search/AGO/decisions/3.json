@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;nationalid",
+ "fact": "Since October 2018 the NIF equals the Bilhete de Identidade number, and from the second half of 2023 AGT has run a mass ex officio update of its taxpayer database from civil ID records, reaching 10,849,787 individual taxpayers in January 2024.",
+ "title": "Apenas 2 em cada 10 cidadãos têm oficialmente Número de Identificação Fiscal",
+ "publisher": "Expansão",
+ "published": "2024-04-02",
+ "date_source": "source",
+ "why_not": ""
+}

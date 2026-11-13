@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "The EDBM one-stop shop groups the tax centre (NIF, mandatory before any activity), INSTAT and the commercial register for company registration, with 89 tax centres listed (page updated April 2024).",
+ "title": "Les entités administratives",
+ "publisher": "EDBM (Orinasa)",
+ "published": "2024-04",
+ "date_source": "source",
+ "why_not": ""
+}

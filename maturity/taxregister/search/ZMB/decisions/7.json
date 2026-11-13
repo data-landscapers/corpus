@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid",
+ "fact": "The 2025 National Risk Assessment says INRIS was not fully operational; banks need only a TPIN under Income Tax Act s.45B and no check against the national register is required.",
+ "title": "NRC Verification and TPIN for Bank Accounts in Zambia",
+ "publisher": "Creodata",
+ "published": "2026-10-13",
+ "date_source": "source",
+ "why_not": ""
+}

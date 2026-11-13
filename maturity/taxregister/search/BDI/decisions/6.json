@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "Since October 2022 business registration runs online on easybusiness.bi, and the registration documents issued include the Tax Identification Number (NIF).",
+ "title": "Investment Procedures and Facilitation in the Republic of Burundi",
+ "publisher": "East African Community",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

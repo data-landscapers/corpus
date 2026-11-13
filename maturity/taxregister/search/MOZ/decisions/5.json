@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;nationalid",
+ "fact": "An IMF report said the tax authority had cleaned and updated the taxpayer registry (NUIT), removed duplicates, and that work was ongoing on a unique identification number for individuals for civil and fiscal purposes with the Justice and Interior ministries, due by end-2023.",
+ "title": "Mozambique: Almost half of taxes collected electronically in 2022",
+ "publisher": "Club of Mozambique",
+ "published": "2023-07-19",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The DGI offers the NIU free online through its E-registration service and automatically assigns salaried taxpayers an NIU viewable in the online national taxpayer file, with banks, insurers and utilities given until 30 September 2020 to require it.",
+ "title": "GUIDE PRATIQUE : L'identification fiscale unique",
+ "publisher": "Direction Générale des Impôts (DGI)",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

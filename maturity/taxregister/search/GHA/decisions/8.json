@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid;shared",
+ "fact": "GRA, the Registrar-General's Department and NIA announced that from 1 April 2021 the Ghana Card PIN replaces the GRA-issued TIN for individuals, with NIA staff at GRA offices and TIN centres at RGD and Tema Customs Long Room.",
+ "title": "Commencement of the use of Ghana Card PIN as TIN",
+ "publisher": "Ghana Revenue Authority",
+ "published": "2021-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

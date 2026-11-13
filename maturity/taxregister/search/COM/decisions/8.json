@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The IMF AFRITAC South bulletin for November 2020 to January 2021 says AGID was assisted to advance implementing a tax administration management information system and to streamline taxpayer registration processes and make better use of the taxpayer identification number.",
+ "title": "AFRITAC South Quarterly Bulletin: November 2020-January 2021",
+ "publisher": "IMF AFRITAC South",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

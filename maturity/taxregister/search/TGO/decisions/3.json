@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "On 18 December 2023 the OTR launched the nif.otr.tg platform on which individuals create their tax identification number (NIF) entirely online.",
+ "title": "OTR : La création du numéro d’immatriculation fiscale et le paiement de la TVM désormais digitalisés",
+ "publisher": "AfreePress",
+ "published": "2023-12-18",
+ "date_source": "source",
+ "why_not": ""
+}

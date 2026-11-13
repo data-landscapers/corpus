@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The IMF GPFP proposal of January 2024 states that DNRE modernized its taxpayer register under the RMTF project (FY18-FY24).",
+ "title": "RM II – Revenue Administration, SM I – Spending Policy, SM II – Managing Public Finances (Cabo Verde GPFP proposal)",
+ "publisher": "IMF",
+ "published": "2024-01",
+ "date_source": "source",
+ "why_not": ""
+}

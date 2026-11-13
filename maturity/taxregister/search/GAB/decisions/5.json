@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "A taxpayer can start registration (immatriculation) online from the e-tax portal, which issues a case reference, with DGI agents completing the checks.",
+ "title": "Guide utilisateur de l'adhésion, de l'immatriculation et de la connexion aux espaces e-tax",
+ "publisher": "Direction Générale des Impôts du Gabon",
+ "published": "2025-10-22",
+ "date_source": "source",
+ "why_not": ""
+}

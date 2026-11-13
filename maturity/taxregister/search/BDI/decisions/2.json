@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The OBR reports that the e-KORI registration module, operational since 4 August 2026, registers new and existing taxpayers in a digital tax register with biometric capture to keep each identifier unique.",
+ "title": "Campagne de sensibilisation à l'immatriculation au registre fiscal numérique via e-KORI",
+ "publisher": "Office Burundais des Recettes",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

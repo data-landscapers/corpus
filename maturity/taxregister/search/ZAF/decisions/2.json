@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "SARS Modernisation White Paper 2025/26-2029/30 sets out a programme to establish a unique digital identity for taxpayers and a comprehensive taxpayer account, with build in 2026-27 and rollout from 2028.",
+ "title": "SARS Modernisation White Paper 2025/26 – 2029/30",
+ "publisher": "South African Revenue Service",
+ "published": "2025-10",
+ "date_source": "source",
+ "why_not": ""
+}

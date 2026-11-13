@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "A Ministry of Finance communique of 10 April 2026 put the new ATOM registration application into service, replacing Harmony: new registrations on ATOM only from 1 July 2026 and Harmony-registered taxpayers to re-register by 31 December 2026.",
+ "title": "MODERNISATION DU FICHIER DES CONTRIBUABLES : L'ADMINISTRATION FISCALE LANCE LA PLATEFORME « ATOM »",
+ "publisher": "Ordre National des Experts-Comptables du Cameroun (ONECCA)",
+ "published": "2026-07-15",
+ "date_source": "source",
+ "why_not": ""
+}

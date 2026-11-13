@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The DGCI's filing instructions, version of 3 December 2021, state that the Kontaktu system validates each NIF against the DGCI taxpayer register (cadastro) and rejects a return whose NIF is not in it.",
+ "title": "Instruções de preenchimento da Declaração de Contribuições e Impostos Retidos na Fonte (DECIRF)",
+ "publisher": "Direção-Geral das Contribuições e Impostos",
+ "published": "2021-12-03",
+ "date_source": "source",
+ "why_not": ""
+}

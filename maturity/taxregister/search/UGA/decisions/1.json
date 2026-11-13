@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "nationalid",
+ "fact": "On 31 August 2026 Cabinet approved use of the NIN as the TIN for individual taxpayers, following the FY 2025/26 amendment of Section 4 of the Tax Procedures Code Act, with a phased rollout to January 2027.",
+ "title": "NIN is TIN",
+ "publisher": "Uganda Revenue Authority",
+ "published": "2026-11-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

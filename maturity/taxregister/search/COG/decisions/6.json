@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "Arrêté n°5327 of 12 March 2020 sets that the NIU is attributed by the tax directorate, with commercial companies applying through the ACPCE business-creation agency and all government systems keyed on the NIU.",
+ "title": "Arrêté n°5327 du 12 mars 2020 fixant les modalités d'attribution et d'utilisation du numéro d'identification unique",
+ "publisher": "République du Congo, Ministère des finances",
+ "published": "2020-03-12",
+ "date_source": "source",
+ "why_not": ""
+}

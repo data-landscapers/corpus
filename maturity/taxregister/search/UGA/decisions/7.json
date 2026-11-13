@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "URA issues the 10-digit TIN online, instantly on submitting an Instant TIN form with the National ID number.",
+ "title": "Get a TIN",
+ "publisher": "Uganda Revenue Authority",
+ "published": "2023-08-30",
+ "date_source": "proxy",
+ "why_not": ""
+}

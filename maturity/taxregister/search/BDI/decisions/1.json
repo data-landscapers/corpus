@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;shared",
+ "fact": "The OBR states e-KORI enters service on 4 August 2026, after which all new taxpayer registrations are filed online only, with commercial registrations routed through the ADB Easy Business platform and passed electronically to OBR.",
+ "title": "A partir du 4 août 2026, les nouvelles demandes d'immatriculation s'effectuent exclusivement sur e-KORI",
+ "publisher": "Office Burundais des Recettes",
+ "published": "2026-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "The World Bank's June 2025 completion report says the new tax system ITAS (SIGTAS) was not operational at project close in June 2024, with some modules expected partly operational by end 2025, and only the taxpayer registration module had been completed.",
+ "title": "Public Administration Modernization Project (P162904) Implementation Completion and Results Report",
+ "publisher": "World Bank",
+ "published": "2025-06-16",
+ "date_source": "source",
+ "why_not": ""
+}

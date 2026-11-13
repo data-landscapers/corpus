@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "MRA's April 2025 guide states a company must be registered at MRA Customs before goods are cleared and its Tax Account Number is required for that registration.",
+ "title": "Tax Basics for Newly Incorporated Companies",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

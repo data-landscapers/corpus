@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "SARS has a direct interface with CIPC so that an income tax reference number is generated automatically when a company is incorporated.",
+ "title": "Tax and Employer Registrations After You Incorporate in South Africa",
+ "publisher": "MJ Kotze Inc",
+ "published": "2026-07-16",
+ "date_source": "source",
+ "why_not": ""
+}

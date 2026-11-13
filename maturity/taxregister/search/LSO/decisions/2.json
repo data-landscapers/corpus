@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;shared",
+ "fact": "Individuals can obtain a TIN online through the e-Tax platform, and a company registered with the Ministry of Trade and Industry receives its TIN from RSL.",
+ "title": "Guide on e-Tax Registration",
+ "publisher": "Revenue Services Lesotho",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "undated: only date is the upload folder in the URL (searcher brief); unselected by the driver"
+}

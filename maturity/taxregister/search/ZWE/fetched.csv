@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.afdb.org/en/news-and-events/press-releases/zimbabwe-african-development-bank-group-funds-new-tax-collection-and-revenue-management-system-87072,held,held as raw/2025/2025-09-23-afdb-zimbabwe-tarms-launch.md,,0,,
+2,https://www.techzim.co.zw/2025/08/zimra-commissions-tarms-digital-tax-system/,held,held as raw/2025/2025-08-19-zwe-zimra-commissions-tarms-zimbabwe-s-new-digital-tax-system.md,,0,,
+3,https://www.zimra.co.zw/public-notices?download=3462%3Apublic-notice-68-of-2023-tarms-go-live,fetched,,scripts/.workroot/study/taxregister/cache/ZWE/3.txt,439,pdf,
+4,https://www.zimra.co.zw/news/2263-new-tax-and-revenue-management-system-tarms,fetched,,scripts/.workroot/study/taxregister/cache/ZWE/4.txt,600,html,Categories
+5,https://www.zimra.co.zw/news/20-story/2294-tarms-innovation-heralding-modernity-tax-agent-module-is-live,fetched,,scripts/.workroot/study/taxregister/cache/ZWE/5.txt,375,html,Categories
+6,https://www.zimra.co.zw/news/2267-introducing-the-single-account-concept-in-tax-payments-under-the-new-zimra-tax-revenue-management-system-tarms,fetched,,scripts/.workroot/study/taxregister/cache/ZWE/6.txt,1166,html,Categories
+7,https://zimra.co.zw/domestic-taxes/corporate/new-businesses,fetched,,scripts/.workroot/study/taxregister/cache/ZWE/7.txt,1237,html,Zimbabwe Revenue Authority
+8,https://mjconsultants.co.zw/insights/procedure-for-company-registration-in-zimbabwe/,fetched,,scripts/.workroot/study/taxregister/cache/ZWE/8.txt,662,html,Procedure for Company Registration in Zimbabwe - M&J Consultants

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;nationalid",
+ "fact": "From February 2023 TIN and VAT registration applications are done online through TRA's new taxpayer portal, previously taken physically to TRA offices, with a TIN application option using the NIDA number.",
+ "title": "Upgraded electronic tax systems",
+ "publisher": "BAC Certified Public Accountants",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

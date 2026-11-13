@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "CEDSIF's January 2021 report states all NUIT data from the old assignment system was migrated into e-Tributação, now the single system, and an online NUIT assignment form is in use by authorised entities.",
+ "title": "Balanço da Implementação do Plano Estratégico do CEDSIF 2015-2019",
+ "publisher": "Centro de Desenvolvimento de Sistemas de Informação de Finanças (CEDSIF)",
+ "published": "2021-01",
+ "date_source": "source",
+ "why_not": ""
+}

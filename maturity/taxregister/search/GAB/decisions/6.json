@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "On 10 May 2023 the Minister of Economy opened works on the DIGITAX project to digitalise all DGI business processes including tax base management, integrating the LIIR software and the e-Tax portal on one platform.",
+ "title": "Le projet de digitalisation des processus de l'administration fiscale",
+ "publisher": "Ministère de l'Economie",
+ "published": "2023-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "The NIU, obtainable on the DGI website since 2020, is also valid for the CNPS and the customs services, and was previously issued at the CFCE for new businesses.",
+ "title": "The Generalization of the Unique Identification Number (UIN): Issues and Risks in Cameroon Taxation",
+ "publisher": "Nkafu Policy Institute",
+ "published": "2022-05-10",
+ "date_source": "source",
+ "why_not": ""
+}

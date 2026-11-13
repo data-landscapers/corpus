@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;shared",
+ "fact": "The 2026 SENTAX user guide (v1.1) says taxpayers can register online, with or without a NINEA, and that a NINEA for new taxpayers is created with the ANSD and sent by a DGID agent.",
+ "title": "Guide Utilisateur Adhésion et Connexion SENTAX v.1.1",
+ "publisher": "Direction générale des Impôts et des Domaines (DGID)",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

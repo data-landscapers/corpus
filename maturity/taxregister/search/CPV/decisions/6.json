@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "DNRE's 2019 activity plan schedules a restructured new taxpayer register (Novo Cadastro) with new rules, testing and entry into production in June.",
+ "title": "Plano de Atividades DNRE 2019",
+ "publisher": "Ministério das Finanças, Direção Nacional das Receitas do Estado",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

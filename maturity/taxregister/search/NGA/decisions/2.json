@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register",
+ "fact": "On 18 May 2026 the NRS and JRB announced implementation of the Tax ID system, a single unified taxpayer identity consolidating taxpayer records across federal and state levels and replacing the TIN Validation API.",
+ "title": "NRS, JRB to implement Tax ID system",
+ "publisher": "Premium Times",
+ "published": "2026-05-18",
+ "date_source": "source",
+ "why_not": ""
+}

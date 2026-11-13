@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "register;shared;nationalid",
+ "fact": "In January 2022 URA rolled out the online Instant TIN, which pulls data from NIRA by NIN for individuals and from URSB by business registration number for businesses and issues a TIN instantly.",
+ "title": "Enhancing taxpayer registration with inter-institutional data sharing—evidence from Uganda",
+ "publisher": "Data & Policy, Cambridge University Press",
+ "published": "2025-11-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

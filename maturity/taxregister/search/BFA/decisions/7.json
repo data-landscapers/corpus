@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "One fee at the CEFORE one-stop shop covers the RCCM business registration, the IFU tax identifier and CNSS social security registration, paid online by mobile money.",
+ "title": "CEFORE : Préparer votre création d'entreprise",
+ "publisher": "Maison de l'Entreprise du Burkina Faso (CEFORE)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

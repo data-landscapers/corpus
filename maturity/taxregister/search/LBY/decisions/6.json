@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "taxpayers",
+ "aspect": "",
+ "fact": "",
+ "title": "ACI Registration for Exporters/Exporter Representatives",
+ "publisher": "Libyan Customs Authority",
+ "published": "2024-06",
+ "date_source": "source",
+ "why_not": "off-topic: a user manual that lets a firm without a business licence enter its tax number; not one number issued for both"
+}

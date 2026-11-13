@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "Ministerial Order 11/2020 of 30 April approving the automated customs system requires legal persons to hold a Número de Identificación Fiscal (NIF) for customs procedures.",
+ "title": "Orden Ministerial Núm.11/2020 por el que se Aprueba el Sistema Aduanero Automatizado",
+ "publisher": "Oficina de Información y Prensa de Guinea Ecuatorial",
+ "published": "2020-04-30",
+ "date_source": "source",
+ "why_not": ""
+}

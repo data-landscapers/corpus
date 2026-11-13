@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxpayers",
+ "aspect": "shared",
+ "fact": "A 2020 law makes the Guichet Unique system generate a common enterprise identifier at creation and requires businesses to obtain commercial register, tax registration and social security affiliation there, online if wished.",
+ "title": "Loi n° 86/AN/20/8ème L Portant modification et complétant le Code de Commerce",
+ "publisher": "Journal Officiel de la République de Djibouti",
+ "published": "2020-04",
+ "date_source": "source",
+ "why_not": ""
+}
