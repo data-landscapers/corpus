@@ -2,6 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,INSUTEC,Angola,research,,,,2024-01-01-ago-insutec-desafios-protecao-dados-pessoais
 BDI,CURDES,Burundi,research,,University of Burundi,,2023-08-31-bdi-aerc-curdes-digital-financial-services-workshop
 BFA,CITADEL,Burkina Faso,research,,Université Virtuelle du Burkina Faso,,2025-01-01-crdi-bfa-2025-citadel-ai-research-bw03
+BFA,FasoREN,Burkina Faso,other,,,,2025-01-01-bfa-renforcement-du-cadre-de-collaboration-numerique-en-matiere-d-enseigne
 CIV,Universite Virtuelle de Cote d'Ivoire,Cote d'Ivoire,research,,UVCI,,2023-07-01-civ-uvci-politique-digitalisation-services-publics
 CMR,Nkafu Policy Institute,Cameroon,research,,,,2026-01-06-nkafu-ai-future-of-work-cameroon
 CMR,Digital Empowerment Gateway,Cameroon,research,,,,2026-09-30-cmr-linkedin-ojong-beyond-infrastructure-mel-data-demand
@@ -11,9 +12,11 @@ CPV,Centro de Investigação em Negócio e Governação (CING),Cabo Verde,other,
 DZA,centre national de recherche en intelligence artificielle et en données,Algeria,other,,Ministère de l'Enseignement supérieur et de la Recherche scientifique,,2026-09-08-dza-mesrs-premiere-reunion-coordination-strategie-nationale-ia
 DZA,CARE (Circle for Action and Reflection around Enterprise),Algeria,research,care.dz,CARE,,2025-05-22-dza-care-analysis-sntn-2025-2030
 EGY,MENA Observatory on Responsible AI,Egypt,research,,American University in Cairo,,2024-12-11-crs-301-20240104460001-2024-mena-ai-observatory-observatoire-d-ia-de-la-region
+GAB,Comite Scientifique Gabonais de Recherche sur l'Intelligence Artificielle (CSGR-IA),Gabon,research,,CSGR-IA,,2026-07-07-gab-institutions-consultatives-le-csgr-ia-recu-en-audience-par-le-2eme-vic
 GHA,"Google DeepMind Africa AI Research Centre and AI Community Center, Accra",Ghana,other,,Google,,2025-01-01-google-gha-ai-research-centre-2025-google-ai-research-and-community-centre
 GHA,Africa Centre of Excellence on Data Governance and Digital Rights,Ghana,research,,University of Ghana School of Law,,2024-01-01-gha-ug-law-centre-excellence-data-governance-digital-rights
 GHA,Africa Digital Rights Hub,Ghana,research,,nonprofit think tank,,2024-09-18-crs-1624-2024000183-2024-for-general-operating-support
+GHA,Centre for West African Studies for Digital Public Governance,Ghana,research,,GIMPA,,2026-06-02-gha-chief-of-staff-calls-for-research-driven-digital-transformation-at-lau
 KEN,CIPESA,East and Southern Africa,other,,CIPESA,,2026-09-24-ken-cipesa-kenya-ai-emerging-tech-guidance-notes
 KEN,KICTANet,Kenya,research,,Kenya ICT Action Network,,2026-09-09-kictanet-kenya-alternative-media-election-misinformation-report
 KEN,KICTANet,Kenya,research,,Kenya ICT Action Network,,2026-05-05-kictanet-memorandum-ai-bill-2026
@@ -38,15 +41,20 @@ SLE,Campaign for Human Rights and Development International (CHRDI),Sierra Leone
 SLE,WACREN,WACREN research network backbone,other,,WACREN,,2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-climate-prog
 SLE,"MRCG Report on Press Freedom, Information, Internet and Digital Rights",Sierra Leone,other,,Media Reform Coordinating Group,,2026-01-10-sle-sierra-leone-s-press-freedom-under-pressure-mrcg-flags-arrests-assault
 SOM,SIDRA Institute,Somalia,research,,SIDRA Institute,,2025-12-01-som-sidra-cybersecurity-policy-brief
+SOM,SIMAD AI Institute,Somalia,other,,SIMAD University,,2026-11-06-som-simad-university-breaks-ground-on-building-to-host-somalia-s-national
+SOM,Somali National Artificial Intelligence Centre (SNAIC),Somalia,research,,Somali National University,,2026-07-17-som-ecofin-university-ai-center-launch
 SSD,South Sudan Internet Governance Forum (SS-IGF),South Sudan,other,,SS-IGF Secretariat,,2026-07-04-south-sudan-internet-governance-forum-2026
 SSD,South Sudan Internet Governance Forum (SS-IGF),South Sudan,other,,SS-IGF Secretariat,,2026-02-16-about-south-sudan-internet-governance-forum
+TGO,Chaire UNESCO Defis partages du developpement,Togo,research,,Universite de Lome (focal point),,2026-06-13-tgo-journee-detude-internationale-la-chaire-unesco-fait-de-luniversite-de
 TUN,CEMI (Centre des Etudes Mediterraneennes et Internationales),Tunisia,research,policy papers,CEMI,,2017-01-01-tun-cemi-personal-data-protection-european-standards
 TZA,Open University of Tanzania,Tanzania,research,,,,2025-09-23-tza-afjlp-universities-pdpa-compliance
 TZA,Tanzania State of Internet Governance Series,Tanzania,research,,Tech & Media Convergency (TMC),,2025-04-01-tza-tmc-state-of-internet-governance-2024
 TZA,Internet Governance Tanzania Working Group (IGTWG),Tanzania,research,,Tech & Media Convergency (TMC),,2025-04-01-tza-tmc-state-of-internet-governance-2024
+TZA,UAUT AI Research and Ethics Center,Tanzania,other,,United African University of Tanzania,,2026-06-06-tza-ai-week-to-examine-technology-ethics-and-society
 UGA,Economic Policy Research Centre (EPRC),Uganda,research,,EPRC,,2024-08-01-eprc-strategic-plan-2022-23-2026-27
 UGA,CIPESA,Uganda,research,,CIPESA,,2026-05-11 CIPESA Urges Rights-Centred Approach to Uganda’s AI Strategy
 UGA,Economic Policy Research Centre,Uganda,research,eprcug.org blog,Economic Policy Research Centre,,2026-10-10-uga-eprc-ai-opportunities-fears
 UGA,District Health Information System adapted for education (DHIS2),Uganda,other,DHIS2,University of Oslo (research implementer),,2023-12-18-crs-301-20230103130002-2023-empowering-districts-and-schools-with-data-a-digit
+ZAF,UNESCO Chair in Cultural Inclusivity and Equity in Digital Media in Africa,South Africa,research,,University of Johannesburg,,2026-04-17-zaf-uj-anchors-national-digital-strategy-with-unesco-chair-and-government
 ZWE,National Digital Technologies Policy Research Programme (DTPRP),Zimbabwe,research,,POTRAZ with Research Council of Zimbabwe and SIRDC,,2026-09-09-zwe-applynow-potraz-digital-technologies-policy-research-programme
 ZWE,National Digital Technologies Policy Research Programme (DTPRP),Zimbabwe,research,,POTRAZ with Research Council of Zimbabwe and SIRDC,,2026-09-07-zwe-potraz-dtprp-call-for-policy-research-proposals

@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "research",
-   "stage": "no evidence",
-   "research": "",
-   "policy": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether local institutions research digital policy.",
-   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "research",
+      "policy": "",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage": "2",
+      "research": "begun",
+      "stage_sources": "RWA-003",
+      "gaps": "No source found since October 2023 says a local institution has published research on digital policy, fed a policy process, or holds a standing advisory role.",
+      "note": "The Kigali Center for Law and Innovation joined the Berkman Klein-coordinated Network of Centers on internet research in 2024 (RWA-003), so question 1 is met. No published research on digital policy is held, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

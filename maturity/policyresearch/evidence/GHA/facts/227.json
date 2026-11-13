@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-02-gha-chief-of-staff-calls-for-research-driven-digital-transformation-at-lau",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "GIMPA launched the Centre for West African Studies for Digital Public Governance with China's UESTC, described as a platform for research and policy-relevant knowledge, and signed an MoU for a Digital Public Governance Hub due to be operational within a year.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "Centre for West African Studies for Digital Public Governance",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre for West African Studies for Digital Public Governance",
+   "country_label": "Ghana",
+   "class": "research",
+   "platform": "",
+   "owner": "GIMPA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

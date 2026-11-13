@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-rwa-certa-cli-joins-berkman-klein-network-of-centers",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "Certa Foundation says its Kigali Center for Law and Innovation was appointed a center in the Berkman Klein-coordinated Network of Centers on internet research, the first in East Africa.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Network of Centers",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

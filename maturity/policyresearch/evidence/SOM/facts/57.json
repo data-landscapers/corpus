@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-17-som-ecofin-university-ai-center-launch",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "Somali National University in Mogadishu launched the Somali National Artificial Intelligence Centre as a hub for AI research, training and innovation, with AI ethics among its research areas, per Ecofin Agency.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "Somali National Artificial Intelligence Centre (SNAIC)",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somali National Artificial Intelligence Centre (SNAIC)",
+   "country_label": "Somalia",
+   "class": "research",
+   "platform": "",
+   "owner": "Somali National University",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

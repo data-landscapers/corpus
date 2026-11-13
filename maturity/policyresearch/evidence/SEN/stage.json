@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "research",
-      "stage": "2",
-      "research": "begun",
       "policy": "",
       "standing": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-003",
-      "gaps": "No source from the last three years says a local institution has published research on digital policy; IPAR's 2023 policy paper and strategy work fall before the window.",
-      "note": "The Dakar AI Living Lab, channelled through Université numérique Cheikh Hamidou Kane, was doing scientific work on responsible AI in 2024, so research has begun. Nothing published inside the window is held, so not 3.",
-      "as_at": "2026-11-06"
+      "stage": "3",
+      "research": "publishing",
+      "stage_sources": "SEN-007;SEN-003",
+      "gaps": "No source from the last three years says a local institution fed a digital policy, law or strategy; IPAR's part in the 2023 AI strategy workshops falls before the window.",
+      "note": "Université numérique Cheikh Hamidou Kane's Max Planck Research Partner Group published a report on Senegal's rules for data access and sharing in March 2024 (SEN-007), so question 2 is met. Nothing inside the window shows local research feeding a digital policy, law or strategy, so not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

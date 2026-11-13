@@ -22,11 +22,11 @@ STISA-2034 and Agenda 2063's second ten-year plan ask for research systems funde
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 4 |
-| 3 Established | 18 |
-| 2 Nascent | 9 |
+| 3 Established | 19 |
+| 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
-| No evidence | 17 |
+| No evidence | 14 |
 
 ## Countries
 
@@ -134,6 +134,13 @@ A local institution published research on digital policy in 2024; a part in a po
 
 - The Royal Institute for Strategic Studies (IRES) published its Exponentialite Annual Survey Paper 2024, covering cloud computing and Morocco's 2030 digital strategy and recommending a comprehensive digital policy ([source, 2024-09-30](https://www.ires.ma/iip/en/annual-survey-paper/exponentialite-asp-2024-english-version/)).
 
+### Senegal: 3 Established
+
+A Senegalese university research group published a report on data access rules in 2024; a part in a policy process is not known.
+
+- The Universite numerique Cheikh Hamidou Kane says its Max Planck Research Partner Group published a report, available on SSRN, on Senegal's regulatory framework for data access and sharing in agriculture and financial services ([source, 2024-03-08](https://preprodsite.unchk.sn/le-rapport-de-la-conference-atelier-2022-du-max-planck-research-partner-group-de-lun-chk-disponible/)).
+- IDRC funds the Dakar-based AI Living Lab, which does scientific work on responsible AI, with Universite numerique Cheikh Hamidou Kane as the channel ([source, 2024-09-05](https://data-explorer.oecd.org/vis?lc=en&df[ds]=DcdDisseminateFinalDMZ&df[id]=DSD_CRS%40DF_CRS&df[ag]=OECD.DCD.FSD&dq=CAN.SEN.1000.._T._T.C.Q._T..&pd=2024%2C2024&to[TIME_PERIOD]=false)).
+
 ### Sierra Leone: 3 Established
 
 A local institution published research on digital policy in 2024; a part in a policy process is not on record.
@@ -206,6 +213,12 @@ Research on digital policy had begun in 2024; published research by a local inst
 
 - Researchers from the Policy Studies Institute, Addis Ababa University and Ethiopian IT Park presented findings of a research project on IT governance in Ethiopian public sectors on 7 August 2024 ([source, 2024-08-07](https://psi.org.et/index.php/blog/324-it-governance-in-ethiopian-public-sectors-the-need-for-policy-intervention)).
 
+### Gabon: 2 Nascent
+
+A Gabonese AI research committee presented its work on AI and digital sovereignty in 2026; published local research on digital policy is not known.
+
+- The Comite Scientifique Gabonais de Recherche sur l'Intelligence Artificielle (CSGR-IA), a Gabonese AI research committee, was received at the CESEC to explore regular input to its digital commissions, presenting its research on AI and digital sovereignty including the Obone AI system ([source, 2026-07-07](https://www.csgria.ga/actualites/article/le-csgr-ia-recu-en-audience/)).
+
 ### Madagascar: 2 Nascent
 
 Research on digital policy had begun in 2025; published research by a local institution is not on record.
@@ -218,17 +231,23 @@ Namibia opened a national AI institute with a research centre in 2026; whether l
 
 - The National Commission on Research, Science and Technology launched the National AI Institute in Windhoek, with a research development centre, and CEO Anicia Peters said it will support research on governance approaches to AI ([source, 2026-09-23](https://neweralive.na/ncrst-opens-national-ai-institute/)).
 
-### Senegal: 2 Nascent
+### Rwanda: 2 Nascent
 
-A Dakar lab was researching responsible AI in 2024; published local research on digital policy is not known.
+A Kigali law centre joined an international network of internet research centres in 2024; published local research on digital policy is not known.
 
-- IDRC funds the Dakar-based AI Living Lab, which does scientific work on responsible AI, with Universite numerique Cheikh Hamidou Kane as the channel ([source, 2024-09-05](https://data-explorer.oecd.org/vis?lc=en&df[ds]=DcdDisseminateFinalDMZ&df[id]=DSD_CRS%40DF_CRS&df[ag]=OECD.DCD.FSD&dq=CAN.SEN.1000.._T._T.C.Q._T..&pd=2024%2C2024&to[TIME_PERIOD]=false)).
+- Certa Foundation says its Kigali Center for Law and Innovation was appointed a center in the Berkman Klein-coordinated Network of Centers on internet research, the first in East Africa ([source, 2024](https://www.certafoundation.rw/resource/partnerships)).
 
 ### Seychelles: 2 Nascent
 
 A university research institute held a workshop on AI in education policy in 2026; published research has not been found.
 
 - Seychelles Nation reports that the Education and Socio-economic Research Institute (ESRI) of the University of Seychelles hosted a one-day workshop on 22 October 2026 on the role of AI in educational policy, with Ministry of Education policymakers and teachers ([source, 2026-10-22](https://www.nation.sc/articles/32910/ai-in-education-takes-centre-stage-at-national-workshop)).
+
+### Togo: 2 Nascent
+
+The University of Lomé hosted research workshops on digital technology and AI in 2026; published local research on digital policy is not known.
+
+- The Universite de Lome hosted the 9th international study day of the UNESCO Chair on digital technology and AI in Africa, after doctoral workshops on 9 to 11 June, with academics and researchers discussing digital governance and sovereignty ([source, 2026-06-12](https://atlanticinfos.tg/2026/06/13/journee-detude-internationale-la-chaire-unesco-fait-de-luniversite-de-lome-un-espace-de-reflexion-scientifique-sur-le-numerique-et-lintelligence-artificielle-en-afrique/)).
 
 ### Cote d'Ivoire: Unplaced
 
@@ -314,12 +333,6 @@ Nothing found names research on digital policy or says there is none, so no stag
 
 Not established: Nothing found says whether local institutions research digital policy.
 
-### Gabon: No evidence
-
-Nothing found names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether local institutions research digital policy.
-
 ### Guinea: No evidence
 
 Nothing found names research on digital policy or says there is none, so no stage is set.
@@ -350,19 +363,7 @@ Nothing found names research on digital policy or says there is none, so no stag
 
 Not established: Nothing found says whether local institutions research digital policy.
 
-### Rwanda: No evidence
-
-Nothing found names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether local institutions research digital policy.
-
 ### Sao Tome and Principe: No evidence
-
-Nothing found names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing found says whether local institutions research digital policy.
-
-### Togo: No evidence
 
 Nothing found names research on digital policy or says there is none, so no stage is set.
 

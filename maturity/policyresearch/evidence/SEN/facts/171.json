@@ -1,0 +1,27 @@
+{
+ "slug": "2024-03-08-sen-le-rapport-de-la-conference-atelier-2022-du-max-planck-research-partne",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "The Universite numerique Cheikh Hamidou Kane says its Max Planck Research Partner Group, focused on regulation of the digital economy, held a launch conference-workshop in March 2022 on data governance in emerging economies.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "Max Planck Research Partner Group",
+   "class": "research"
+  },
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "The Universite numerique Cheikh Hamidou Kane says its Max Planck Research Partner Group published a report, available on SSRN, on Senegal's regulatory framework for data access and sharing in agriculture and financial services.",
+   "as_of": "2024-03-08",
+   "date_precision": "day",
+   "system": "Max Planck Research Partner Group",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

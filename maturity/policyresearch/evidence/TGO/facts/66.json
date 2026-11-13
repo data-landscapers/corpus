@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-13-tgo-journee-detude-internationale-la-chaire-unesco-fait-de-luniversite-de",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "The Universite de Lome hosted the 9th international study day of the UNESCO Chair on digital technology and AI in Africa, after doctoral workshops on 9 to 11 June, with academics and researchers discussing digital governance and sovereignty.",
+   "as_of": "2026-06-12",
+   "date_precision": "day",
+   "system": "Chaire UNESCO Defis partages du developpement",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chaire UNESCO Defis partages du developpement",
+   "country_label": "Togo",
+   "class": "research",
+   "platform": "",
+   "owner": "Universite de Lome (focal point)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-17-zaf-uj-anchors-national-digital-strategy-with-unesco-chair-and-government",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "The University of Johannesburg secured a UNESCO Chair in Cultural Inclusivity and Equity in Digital Media in Africa for 2026-2030, held in its Faculty of Humanities, to research digital inclusion and contribute to policy and governance frameworks.",
+   "as_of": "2026-04-17",
+   "date_precision": "day",
+   "system": "UNESCO Chair in Cultural Inclusivity and Equity in Digital Media in Africa",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO Chair in Cultural Inclusivity and Equity in Digital Media in Africa",
+   "country_label": "South Africa",
+   "class": "research",
+   "platform": "",
+   "owner": "University of Johannesburg",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

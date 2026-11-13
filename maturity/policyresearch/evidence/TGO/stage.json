@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "research",
-   "stage": "no evidence",
-   "research": "",
-   "policy": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether local institutions research digital policy.",
-   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "research",
+      "policy": "",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage": "2",
+      "research": "begun",
+      "stage_sources": "TGO-002",
+      "gaps": "No source found since October 2023 says a Togolese institution has published research on digital policy, fed a policy process, or holds a standing advisory role.",
+      "note": "The Université de Lomé hosted a UNESCO Chair study day and doctoral workshops on digital technology and AI in Africa in June 2026 (TGO-002), so question 1 is met. No published research on digital policy is held, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }
