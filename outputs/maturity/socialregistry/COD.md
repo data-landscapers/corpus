@@ -6,7 +6,7 @@
 
 **Several programmes.** [MINAS says the RSU provides lists of eligible households to the different social programmes, including State ones, under data-sharing protocols](<https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/>).
 
-**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest fact: [in 2025 MINAS said the Registre Social Unique had registered about 465,883 households since 2020](<https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/>).
 
 ***Also on file***. None found.
 

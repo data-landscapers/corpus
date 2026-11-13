@@ -6,7 +6,7 @@
 
 **Results published.** No source found reports preliminary or final results of a census counted since October 2016. The nearest held fact: [INSEED states that collection operations of the third general population and housing census (RGPH-3) officially ended on 6 August 2026, the country's first fully digital census](<https://www.inseed.td/>).
 
-**A household survey published.** [Birth-registration rates from MICS6 2019: 25.5% national, 50% urban, 21.1% rural; release date not given, dated to survey year (2019, before the three-year window)](<https://gffklportal.org/staying-connected/enregistrement-des-statistiques-et-faits-detat-civil-au-tchad/>). [UNICEF's deputy representative cites MICS-6 2019 results: 74% of children under five are not registered at civil registration; release date not given, dated to survey year (2019, before the three-year window)](<https://tchadinfos.com/2023/11/16/tchad-la-campagne-denregistrement-universel-a-letat-civil-des-naissances-de-la-ville-de-ndjamena-est-officiellement-lancee/>).
+**A household survey published.** [The 2019 MICS6 survey put birth registration at 25.5% nationally, 50% urban and 21.1% rural](<https://gffklportal.org/staying-connected/enregistrement-des-statistiques-et-faits-detat-civil-au-tchad/>). [UNICEF's deputy representative cited MICS-6 2019: 74% of children under five were not registered](<https://tchadinfos.com/2023/11/16/tchad-la-campagne-denregistrement-universel-a-letat-civil-des-naissances-de-la-ville-de-ndjamena-est-officiellement-lancee/>).
 
 ***Also on file***. None found.
 

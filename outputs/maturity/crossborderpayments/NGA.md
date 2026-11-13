@@ -6,7 +6,7 @@
 
 **Regional system.** [The PAPSS chief executive says Nigeria was the first chair of its Governing Council](<https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with>). [He says Nigeria still leads its rollout](<https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with>). [Remita's consumer app sends instant transfers from Nigerian bank accounts to other African countries through PAPSS](<https://thecondia.com/remita-launches-super-app/>).
 
-**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with>).
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest fact: [in September 2026 the PAPSS chief executive said Nigeria continues to lead its rollout](<https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with>).
 
 ***Also on file***. [Remita](<https://thecondia.com/remita-launches-super-app/>); [MoMo PSB wallet](<https://businessday.ng/technology/article/momo-psb-deepens-diaspora-remittance-on-cross-border-transfer-expansion/>).
 

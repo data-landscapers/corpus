@@ -6,7 +6,7 @@
 
 **Deaths digital.** [In February 2026 the home affairs minister said death records enter the population registry system automatically](<https://www.heraldonline.co.zw/registrar-general-to-get-voters-roll-custody/>). No other source found since October 2023 says deaths are registered in it.
 
-**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://www.heraldonline.co.zw/30-new-vehicles-boost-civil-registry-services/>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest fact: [in September 2026 the home affairs minister said efforts to digitalise civil registration were ongoing](<https://www.heraldonline.co.zw/30-new-vehicles-boost-civil-registry-services/>).
 
 ***Also on file***. None found.
 

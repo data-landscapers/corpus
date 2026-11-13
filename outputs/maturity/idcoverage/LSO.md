@@ -4,9 +4,9 @@
 
 **Share holding an ID.** [A government deck shown at ID4Africa in 2025 puts national ID coverage at 90%](<https://www.id4africa.com/2025/files/T3-P3-S2-4-Lesotho_FINAL.pdf>). The national ID it counts is issued from the country's National Identity and Civil Registration system, the register the deck describes. It is the only such count found. No other news story or official notice read for this study adds to it. The documents the earlier cell cited were not read. The systems themselves were not examined.
 
-**Everyone holds one.** No source found since October 2023 counts 99.9% of the population or more holding a national ID. The nearest held fact: [the one given above](<https://www.id4africa.com/2025/files/T3-P3-S2-4-Lesotho_FINAL.pdf>).
+**Everyone holds one.** No source found since October 2023 counts 99.9% of the population or more holding a national ID. The nearest fact: [in 2025 an ID4Africa presentation put national ID coverage at 90%](<https://www.id4africa.com/2025/files/T3-P3-S2-4-Lesotho_FINAL.pdf>).
 
-**Births and deaths registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest held fact: [the one given above](<https://www.id4africa.com/2025/files/T3-P3-S2-4-Lesotho_FINAL.pdf>).
+**Births and deaths registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [in 2025 an ID4Africa presentation put national ID coverage at 90%](<https://www.id4africa.com/2025/files/T3-P3-S2-4-Lesotho_FINAL.pdf>).
 
 ***Also on file***. [A digital service identification system](<https://www.gov.ls/ict/lesotho-first-introduced-new-digital-service-identification-system/>); [a MOSIP-based national digital identity ecosystem](<https://www.gov.ls/government/micsti-and-unicef-signed-digital-id-work-plan/>).
 

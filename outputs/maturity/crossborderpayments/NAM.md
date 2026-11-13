@@ -6,7 +6,7 @@
 
 **Regional system.** [The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027](<https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf>).
 
-**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf>).
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest fact: [in April 2025 the South African Reserve Bank said low-value transfers within the Common Monetary Area run through SADC-RTGS](<https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf>).
 
 ***Also on file***. [Namclear](<https://technews.com.na/2026/03/31/namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal/>).
 

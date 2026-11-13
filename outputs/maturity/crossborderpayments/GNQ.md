@@ -6,7 +6,7 @@
 
 **Regional system.** [Equatorial Guinea is one of six CEMAC states on GIMACPAY, the regional platform whose interoperable QR Code standard was launched on 29 July 2026](<https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac>). [Equatorial Guinea takes part in GIMACPAY, the CEMAC regional payment platform operated by GIMAC](<https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025>). [AfricaNenda says Equatorial Guinea is one of the six CEMAC states served by GIMACPAY, a regional interoperability platform in service](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 
-**Volumes reported.** [AfricaNenda says GIMACPAY processed about 10 million transactions worth $657 million in 2022 across all six states, domestic and cross-border combined (2022, before the three-year window)](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
+**Volumes reported.** [AfricaNenda says GIMACPAY carried about 10 million transactions worth $657 million in 2022 across the six CEMAC states](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>). [The figure combines domestic and cross-border payments](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 
 ***Also on file***. [BANGE MOBILE GE](<https://realequatorialguinea.com/economia/bange-lanza-bange-mobile-ge-la-nueva-app-que-facilita-pagos-y-servicios-financieros-en-guinea-ecuatorial/>).
 

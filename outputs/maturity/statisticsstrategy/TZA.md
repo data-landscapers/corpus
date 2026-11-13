@@ -6,7 +6,7 @@
 
 **Progress reviewed.** [The fourth meeting of the TSMP II Steering Committee, chaired by the Ministry of Finance Permanent Secretary, met on 15 July 2026 and reviewed implementation for 2025/26, reporting 88.9% implementation since 2022/23, and approved the 2026/27 work plan and budget](<https://www.nbs.go.tz/index.php/events/kamati-ya-uongozi-mof-yapitia-utekelezaji-mradi-wa-tsmp-ii-kupitisha-bajeti-mwaka-wa-fedha-2026-2027>).
 
-**Evaluated.** [TSMP I (2011/12 to 2017/18) was reviewed in 2019 and that its evaluation reports informed the design of TSMP II; the evaluation covers TSMP I, the predecessor strategy, and no TSMP II evaluation is reported as done (mid-term and end-term evaluations are only planned) (2019, before the three-year window)](<https://www.nbs.go.tz/uploads/statistics/documents/en-1734514885-TSMP_II_Strategy.pdf>).
+**Evaluated.** [In December 2021 NBS and OCGS said TSMP I (2011/12 to 2017/18) was reviewed in 2019](<https://www.nbs.go.tz/uploads/statistics/documents/en-1734514885-TSMP_II_Strategy.pdf>). [Its evaluation reports informed the design of TSMP II](<https://www.nbs.go.tz/uploads/statistics/documents/en-1734514885-TSMP_II_Strategy.pdf>). [Mid-term and end-term evaluations of TSMP II are planned](<https://www.nbs.go.tz/uploads/statistics/documents/en-1734514885-TSMP_II_Strategy.pdf>).
 
 ***Also on file***. [Zanzibar Strategy for the Development of Statistics (ZSDS)](<https://www.nbs.go.tz/uploads/statistics/documents/en-1734514885-TSMP_II_Strategy.pdf>).
 

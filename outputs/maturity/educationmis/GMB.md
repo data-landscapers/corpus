@@ -6,7 +6,7 @@
 
 **Learner records.** [In August 2025 DHIS2 said the ministry's digital student registry gives each learner a unique ID](<https://education.dhis2.org/gambia-modernizing-education-data-kix-knowledge-cafe/>). Piloted in 200 schools in 2020, it has since scaled nationwide and holds nearly 80% of Gambian learners. [In September 2026 DHIS2 said learner records and daily attendance reporting had been added to the system since 2018](<https://education.dhis2.org/the-gambia-launches-online-education-data-centre/>).
 
-**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://education.dhis2.org/gambia-modernizing-education-data-kix-knowledge-cafe/>).
+**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest fact: [in August 2025 DHIS2 said the education ministry's student registry gives each learner a unique ID](<https://education.dhis2.org/gambia-modernizing-education-data-kix-knowledge-cafe/>).
 
 ***Also on file***. None found.
 

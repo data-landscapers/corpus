@@ -6,7 +6,7 @@
 
 **Electronic payment.** [The same CIAT article lists a settlement note and payment receipt tool among AGT's tools, and counts the payment of taxes within SIGT's scope](<https://www.ciat.org/modernisation-of-general-tax-administration-over-the-last-10-years-a-tax-and-customs-analysis/?lang=en>).
 
-**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://www.ciat.org/modernisation-of-general-tax-administration-over-the-last-10-years-a-tax-and-customs-analysis/?lang=en>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest fact: [in September 2026 CIAT authors said the SIGT system aims to move the submission of returns online](<https://www.ciat.org/modernisation-of-general-tax-administration-over-the-last-10-years-a-tax-and-customs-analysis/?lang=en>).
 
 ***Also on file***. None found.
 

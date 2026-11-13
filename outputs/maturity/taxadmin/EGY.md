@@ -6,7 +6,7 @@
 
 **Electronic payment.** [Finance minister Ahmed Kouchouk said real estate transactions tax can be paid electronically by bank cards or direct-debit cards, with a final clearance issued online in five steps](<https://www.fintechgate.net/250244>).
 
-**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://www.fintechgate.net/250244>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest fact: [in August 2026 the Egyptian Tax Authority's head said taxpayers had started submitting returns electronically](<https://www.fintechgate.net/250244>).
 
 ***Also on file***. [Electronic invoice system](<https://eta.gov.eg/en/home>); [E-Receipt System](<https://eta.gov.eg/en/home>).
 
