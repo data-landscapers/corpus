@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-uga-what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "use",
+   "value": "systems",
+   "fact": "PML Daily relaying the ministry says the schools register, which replaced software installed in 1999, is used by all 178 local governments; the connection is not described.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "schools register",
+   "class": "connection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
