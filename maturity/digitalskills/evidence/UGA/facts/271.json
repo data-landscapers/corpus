@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-uga-itu-pp26-policy-statement-uganda",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Uganda's ICT minister says digital skills training has reached more than 100,000 young people in the past three years, with attention to women and persons with disabilities; no locations are named.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "digital skills training",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

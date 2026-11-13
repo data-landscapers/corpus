@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "3",
+      "stage": "5",
       "training": "inservice",
-      "measured": "",
-      "half": "",
+      "measured": "measured",
+      "half": "half",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-008;NGA-007",
-      "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
-      "note": "NITDA's national digital-literacy dashboard counts about 2.76 million people trained since 2022 across all states, so a national programme is in service and counted. No survey share of adults with basic digital skills has been found, so not stage 4.",
-      "as_at": "2026-10-31"
+      "stage_sources": "NGA-008;NGA-007;NGA-018;NGA-019",
+      "gaps": "The survey's measure is adults able to perform at least one of eight digital tasks; the eight tasks are not listed in the source held.",
+      "note": "NITDA's dashboard counts about 2.76 million people trained across all states, so a programme is in service and counted. NITDA's Nigeria Tech Outlook Report 2026, from a survey of 2,147 households, finds 77.5 per cent of adults able to perform at least one of eight digital tasks, a measured share above half.",
+      "as_at": "2026-11-13"
     }
   ]
 }

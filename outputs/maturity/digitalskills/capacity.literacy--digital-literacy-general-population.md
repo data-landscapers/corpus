@@ -1,6 +1,6 @@
 # Digital literacy (general population): digital skills of the public
 
-*As at 2026-10-31.*
+*As at 2026-11-13.*
 
 ## The norm
 
@@ -20,15 +20,24 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Leading | 1 |
 | 4 Operating | 4 |
-| 3 Established | 17 |
+| 3 Established | 16 |
 | 2 Nascent | 25 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
 | No evidence | 5 |
 
 ## Countries
+
+### Nigeria: 5 Leading
+
+A 2026 national survey found 77.5 per cent of adults could do at least one of eight digital tasks; which tasks is not known.
+
+- NITDA's National Digital Literacy Dashboard records about 2.76 million training achievements from 248 reporting organisations since January 2022, across all 36 states and the FCT, per the NITDA Director-General ([source, 2026-10-20](https://von.gov.ng/agency-unveils-dashboard-to-track-national-digital-literacy-progress/)).
+- NITDA's National Digital Literacy Dashboard records 2,769,512 reported digital-literacy training achievements from 252 reporting organisations over three years, across all 774 local government areas, per Tech Africa News ([source, 2026-10-21](https://techafricanews.com/2026/10/21/nitda-digital-literacy-dashboard-2-7-million-training-achievements/)).
+- NITDA's Nigeria Tech Outlook Report 2026, from a survey of 2,147 households, says 77.5 per cent of adults can perform at least one of eight identified digital tasks ([source, 2026-11-11](https://von.gov.ng/nitda-unveils-nigeria-tech-outlook-report/)).
+- The same report puts the share of adults able to perform at least one of eight digital tasks at 77.5 per cent, above half ([source, 2026-11-11](https://von.gov.ng/nitda-unveils-nigeria-tech-outlook-report/)).
 
 ### Lesotho: 4 Operating
 
@@ -123,13 +132,6 @@ A government rural digital literacy campaign had trained 350,000 people in all r
 
 - The PVI coordinator says the project has trained 350,000 beneficiaries, a majority women, in digital skills through its digital literacy and financial education campaign, with digital centres open in the 8 regions ([source, 2025-02-03](https://anp.ne/tic-le-projet-villages-intelligents-ambitionne-dassurer-linclusion-numerique-et-financiere-des-ruraux/)).
 - Le Sahel reports that the national digital and financial literacy campaign for rural populations, part of the World Bank-funded PVI project under the national information society agency ANSI, trained nearly 38,000 people nationwide in phase one against a 65,000 target, with phase two launched at a trainers' workshop in Niamey on 20-24 June 2024 ([source, 2024-06](https://www.lesahel.org/atelier-de-formation-et-de-recyclage-lancement-de-la-deuxieme-phase-de-la-campagne-nationale-dalphabetisation-numerique-et-deducation-financiere-des-populations-en-milieu-rura/)).
-
-### Nigeria: 3 Established
-
-A national digital-literacy programme had counted about 2.76 million people trained by 2026; no survey of the share with digital skills has been found.
-
-- NITDA's National Digital Literacy Dashboard records about 2.76 million training achievements from 248 reporting organisations since January 2022, across all 36 states and the FCT, per the NITDA Director-General ([source, 2026-10-20](https://von.gov.ng/agency-unveils-dashboard-to-track-national-digital-literacy-progress/)).
-- NITDA's National Digital Literacy Dashboard records 2,769,512 reported digital-literacy training achievements from 252 reporting organisations over three years, across all 774 local government areas, per Tech Africa News ([source, 2026-10-21](https://techafricanews.com/2026/10/21/nitda-digital-literacy-dashboard-2-7-million-training-achievements/)).
 
 ### Rwanda: 3 Established
 

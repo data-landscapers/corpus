@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-uga-what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "PML Daily relaying the ICT ministry says more than 160,000 citizens and small businesses received digital skills training, and a solar-powered classroom on wheels visited 58 sites across more than 25 districts and trained 8,192 people.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "solar-powered classroom on wheels",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -145,3 +145,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-02,GIN,capacity.literacy--digital-literacy-general-population,fact,2,2,GIN-001;GIN-005,"ANSUTEN said in October 2026 that R-CUN had trained more than 3,200 people since 2022; no location beyond its Hub numerique is stated, so stage 2 stands."
 2026-11-09,BWA,capacity.literacy--digital-literacy-general-population,ladder,5,2,BWA-005;BWA-001;BWA-004,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 2."
 2026-11-09,MUS,capacity.literacy--digital-literacy-general-population,ladder,5,2,MUS-003;MUS-004,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 2."
+2026-11-13,NGA,capacity.literacy--digital-literacy-general-population,fact,3,5,NGA-008;NGA-007;NGA-018;NGA-019,"NITDA's Nigeria Tech Outlook Report 2026 survey: 77.5 per cent of adults can perform at least one of eight digital tasks; a measured share above half, 3 to 5"

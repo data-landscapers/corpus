@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-mus-gis-myt-learning-hub-communique",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "On 6 November 2026 Mauritius launched the myt Learning Hub Portal, built by Mauritius Telecom with AWS, offering 16 free courses in AI, cloud, cybersecurity and data in support of the government's goal of training 50,000 Mauritians in a year; no number trained is given.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "myt Learning Hub Portal",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "myt Learning Hub Portal",
+   "country_label": "Mauritius",
+   "class": "publicskills",
+   "platform": "AWS training content",
+   "owner": "Mauritius Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
