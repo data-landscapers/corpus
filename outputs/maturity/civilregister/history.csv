@@ -113,3 +113,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-13,ZMB,dpi.registry--civil-register,fact,2,2,ZMB-003;ZMB-004,"CRVS core modules procurement covers deployment and enrolment kits (March 2026); still under way, stage 2 held"
 2026-11-13,ZWE,dpi.registry--civil-register,fact,2,2,ZWE-004;ZWE-002,"Minister called ZPRS an integrated real-time birth and death register (February 2026); newer accounts show sub-offices still being computerised, stage 2 held"
 2026-11-13,MUS,dpi.registry--civil-register,fact,4,4,MUS-001;MUS-002,"Housekeeping 71: MUS-003, the SPI's 2024 birth registration at least 90% complete, is a national rate not tied to the digital system (Bill, 2026-10-25), so question 4 is unanswered; held at 4."
+2026-11-13,SWZ,dpi.registry--civil-register,fact,no evidence,unplaced,,Housekeeping 73: CSO's 61% for 2025 and WDI's 2014 rate are held but tied to no digital system; no evidence to unplaced

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "civil",
-      "stage": "no evidence",
+      "stage": "unplaced",
       "births": "",
       "deaths": "",
       "coverage": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found says how births and deaths are registered.",
-      "note": "No evidence row on civil registration has been found.",
-      "as_at": "2026-10-24"
+      "gaps": "Nothing found since October 2023 says whether births are registered digitally.",
+      "note": "Housekeeping 73: the Central Statistical Office's 61% for 2025 and WDI's 2014 rate are held, so this is not no evidence; national rates not tied to a digital system meet no rung, so no stage is set.",
+      "as_at": "2026-11-13"
     }
   ]
 }

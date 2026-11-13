@@ -6,3 +6,8 @@ ETH,031,system,underway,removed,"Stage 4c: a minister naming Fayda's launch, not
 COD,021,system,inservice,removed,"Stage 4c: RDC-PASS launched, with nothing stated of credentials issued to each person"
 COD,022,system,inservice,removed,"Stage 4c: issuance in four pilot Kinshasa communes is a pilot, and repeats COD-012"
 UGA,031,system,inservice,removed,"Stage 4c: the drafter's inference that NINs are in use from a minister's call to register, not a statement that the system issues numbers"
+GIN,009,biometric,checked,removed,"Housekeeping 73: a claim made for enrolment kits on delivery, before enrolment, does not show the register checking people to stop one enrolling twice"
+MAR,002,biometric,checked,removed,"Housekeeping 73: 1:N matching to prove identity in the Mon e-ID app does not show enrolments checked for duplicates"
+MWI,025,biometric,checked,removed,"Housekeeping 73: an ABIS used for authentication and fraud prevention is not said to deduplicate enrolment"
+SLE,002,biometric,checked,removed,"Housekeeping 73: the Director-General's word that NINs are non-duplicable does not show enrolments checked for duplicates, as GIN-009"
+COD,013,system,inservice,removed,"Housekeeping 73: a description of the population file's contents, not cards or numbers issued to each person"

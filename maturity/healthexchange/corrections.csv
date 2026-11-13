@@ -4,3 +4,4 @@ COM,002,breadth,wide,removed,4c: DHIS2 named with the vaccination register and m
 GAB,002,exchange,underway,removed,"4c 2026-11-07: a draft law fixing the interoperability framework is a policy with no exchange in service, other under the study file"
 SEN,001,exchange,underway,removed,"4c 2026-11-07: vendors testing their products against IHE standards at a European connectathon is a standard tested, not an exchange between Senegal's health systems built or piloted"
 EGY,005,exchange,inservice,revalued: exchange:underway,"4c 2026-11-07: a platform presented to D-8 ministers in November 2025 that the ministry was still activating in September 2026 (EGY-001) is under way, not in service"
+CPV,001,exchange,inservice,classed other,"Housekeeping 73: PDEX joins the NhaCard platform to the health system, not two health systems, so it answers no question"

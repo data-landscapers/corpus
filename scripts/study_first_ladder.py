@@ -83,12 +83,13 @@ def seen(study: dict, r: dict) -> dt.date:
 
 def held(study: dict, r: dict, as_at: dt.date) -> bool:
     """Whether a fact is dated by the as-at. A year or a month stands for its last day, except that
-    under `source_dated` a year- or month-only fact of the as-at's own year or month counts once its
-    source is published *(Bill, 2026-10-26, message 39: Mauritania's "2026" from a January 2026
-    guide; housekeeping 69 the month: Burkina Faso's "2026-10" bulletin read on 20 October)*."""
+    a year- or month-only fact of the as-at's own year or month counts once its source is published
+    *(Bill, 2026-10-26, message 39: Mauritania's "2026" from a January 2026 guide; housekeeping 69
+    the month: Burkina Faso's "2026-10" bulletin read on 20 October)*. Housekeeping 73 widened it
+    from `source_dated` aspects to every aspect: Guinea's 2026 Meteosat page had counted nowhere."""
     if last_day(r["as_of"]) <= as_at:
         return True
-    if r["aspect"] in study.get("source_dated", []) and r["as_of"] in (str(as_at.year), as_at.strftime("%Y-%m")):
+    if r["as_of"] in (str(as_at.year), as_at.strftime("%Y-%m")):
         m = re.match(r"(\d{4}-\d{2}-\d{2})-", r.get("source_slug") or "")
         return bool(m) and dt.date.fromisoformat(m.group(1)) <= as_at
     return False

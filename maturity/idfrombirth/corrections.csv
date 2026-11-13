@@ -1,2 +1,10 @@
 iso3,n,aspect,value,action,why
 TZA,011,number,inservice,removed,"Stage 4c: a key factor for success on a NIDA slide, not a statement that newborns are given the number; the 2026 sources say the child pilot awaits its law"
+CIV,003,number,inservice,revalued: number:underway,"Housekeeping 73: a conference remark that the birth registration remains the ID number names no number given at registration; ONECI's later statements (CIV-002, CIV-001) put the NNI at birth still to come, and the newest fact stands"
+GHA,002,number,inservice,revalued: number:underway,"Housekeeping 73: the March 2024 launch was suspended after a technical fault and the NIA was still testing a renewed system in August 2026 (GHA-001); the newest fact stands"
+GHA,005,number,inservice,revalued: number:underway,"Housekeeping 73: the same March 2024 launch as GHA-002, suspended after a technical fault (GHA-001); the newest fact stands"
+KEN,006,number,inservice,revalued: number:underway,"Housekeeping 73: a 2024 statement that newborns are given the Maisha number; in November 2026 issue at birth had been piloted in two counties only (KEN-010), and the newest fact stands"
+KEN,009,number,inservice,revalued: number:underway,"Housekeeping 73: a deck's lifecycle diagram, not children shown receiving the number; in November 2026 issue at birth had been piloted in two counties only (KEN-010)"
+LBR,001,number,inservice,revalued: number:underway,"Housekeeping 73: a pilot of Enrolment at Birth in three counties, separate from birth registration: a programme piloted, question 1"
+RWA,004,number,inservice,revalued: number:underway,"Housekeeping 73: a 2024 remark; the 2026 sources put issue of the number from birth still to come, piloted from October 2025 (RWA-003), and the newest fact stands"
+MLI,001,number,none,classed other,"Housekeeping 73: a paper community chain in remote areas does not say a birth registered in Mali creates no identity number, so it answers no question"
