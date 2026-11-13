@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-20-civ-donnees-portail-officiel-des-donnees-ouvertes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "data.gouv.ci",
+   "country_label": "Portail officiel des donnees ouvertes",
+   "class": "other",
+   "platform": "",
+   "owner": "CICG, Government of Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": "The portal lists 211 datasets but the page ties it to no open data policy, so it places nothing."
+}

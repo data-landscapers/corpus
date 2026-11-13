@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-10-som-ministry-of-finance-federal-government-of-somalia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Transparency Portal",
+   "country_label": "Somalia Ministry of Finance https://mof.gov.so/",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "Ministry home page with a finance transparency portal; no open data policy stated."
+}

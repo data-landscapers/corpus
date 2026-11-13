@@ -40,6 +40,8 @@ CIV,e-mining cadastre portal,e-mining cadastre,other,Landfolio,"Ministry of Mine
 CIV,data.gouv.ci,Open Data Cote d'Ivoire portal,other,,Government Centre for Information and Communication (CICG),national ministries; about 50 datasets added by the petroleum and renewable energies ministry,2020-01-01-civ-ogp-ci0024-open-data-commitment
 CIV,Open Data portal (data.gouv.ci),Open Data portal,policy,,,national,2025-12-18-worldbank-govtech-dataset-dec2025
 CIV,Géoportail d'urbanisme du Grand Abidjan,Géoportail du Grand Abidjan,other,,"Ministère de l'Urbanisme, du Logement et du Cadre de vie, with JICA",national,2026-06-11-geoportail-grand-abidjan-ville-intelligente-fratmat
+CIV,data.gouv.ci,Portail officiel des donnees ouvertes,other,,"CICG, Government of Cote d'Ivoire",,2026-10-20-civ-donnees-portail-officiel-des-donnees-ouvertes
+CMR,INS data platforms,Cameroon INS (address not given),other,,Institut national de la statistique,,2026-04-24-cmr-cameroun-l-ins-simplifie-l-acces-aux-donnees
 COD,data.gouv.cd,plateforme nationale des données ouvertes,policy,Rhinoceros Software (host site),Institut National de la Statistique (INS),national,2026-02-23-rhinoceros-data-gouv-cd-lancement
 COD,BCC website 2.0 (economic data pages),Site internet de la Banque Centrale du Congo,other,,Banque Centrale du Congo,,2026-08-17-numerico-bcc-nouveau-site-donnees-economiques
 COD,national geological databank,Congo (DRC),other,,National Geological Survey of Congo (SGNC),"free basic data, fee-based sensitive data",2026-09-08-thecitizen-congo-locks-down-geological-data
@@ -79,6 +81,7 @@ GAB,Open Data Platform (ODP) 1.0/2.0,plateformes nationales de diffusion statist
 GAB,CEMAC-Data,CEMAC-Data,other,,CEMAC Commission,regional,2026-09-15-xca-7joursinfo-cemac-sdmx-odp2-cemac-data
 GAB,Open Data Platform (ODP) 1.0/2.0,Open Data Platform,other,AfDB Open Data Platform,"national statistics institutes, with AfDB support",national,2026-09-20-cemac-data-governance-roadmap-gabonactu
 GAB,CEMAC-Data,CEMAC-Data,other,,CEMAC Commission,regional,2026-09-20-cemac-data-governance-roadmap-gabonactu
+GAB,Planned public data portal,GAB,other,,Government of Gabon,,2026-01-09-gab-voeux-a-la-presse-mark-doumba-et-germain-bihadjow-sommes-de-faciliter
 GHA,Ghana Open Data Initiative portal (data catalogue),Ghana Open Data Initiative (GODI),policy,"OGPL (first portal, 2012); rebooted and upgraded 2018-2019","National Information Technology Agency (NITA), Ministry of Communications",national; 154 staff from 20 MDAs trained in the revamp,2026-08-29-about-ghana-open-data-initiative
 GHA,GHEITI Open Data Policy,GHEITI Open Data Policy,other,,Ghana Extractive Industries Transparency Initiative Multi-Stakeholder Group,,2016-12-01-ghana-gheiti-open-data-policy
 GHA,GHEITI open data portal,GHEITI open data portal,other,,Ghana Extractive Industries Transparency Initiative,,2016-12-01-ghana-gheiti-open-data-policy
@@ -130,12 +133,14 @@ MLI,Open Data Portal (ODP) 2.0,plateforme Open Data Portal (ODP) 2.0,other,ODP 2
 MOZ,Portal de Divulgação de Dados de Infra-estruturas Públicas (IPDP),IPDP - Mozambique,other,OC4IDS,"Fundo de Estradas, FP",national,2026-08-08-ipdp-portal-dados-infraestruturas-publicas-mocambique
 MOZ,National Data Governance Policy and Implementation Strategy,Politica Nacional de Governacao de Dados,policy,,INTIC,national,2025-11-01-mozambique-zero-draft-2-national-data-governance-policy
 MOZ,Centralized open data portal (planned),,other,,NDGC,national,2025-11-01-mozambique-zero-draft-2-national-data-governance-policy
+MOZ,Open Data Platform (AfDB Africa Information Highway),MOZ,other,ODP,AfDB Africa Information Highway,,2024-04-30-moz-from-22-26-april-the-aih-team-of-the-african-development-bank-group-wa
 MRT,portail national (data.gov.mr),Portail national data.gov.mr,policy,,MTNMA / WARDIP-Mauritanie (procuring),national,2025-12-26-mtnma-wardip-plan-annuel-achats-2026-portail-national-data-gov-mr
 MRT,Data Warehouse portal (Mauritania EITI),Data Warehouse,other,,Mauritania EITI,,2024-11-12-eiti-board-decision-mauritania-moderate-score-2019-eiti-standard
 MRT,2019 decree on systematic disclosure of EITI data,decree mandating systematic disclosure of EITI data,other,,Government of Mauritania,,2024-11-12-eiti-board-decision-mauritania-moderate-score-2019-eiti-standard
 MRT,Stratégie nationale de données ouvertes et interopérables,Stratégie nationale de données ouvertes et interopérables,policy,,MTNIMA,,2023-06-01-mauritania-strategie-nationale-donnees-ouvertes-interoperables
 MRT,Portail des données ouvertes de la Mauritanie (planned),portail de données ouvertes,other,,MTNIMA / AN-ETAT,,2023-06-01-mauritania-strategie-nationale-donnees-ouvertes-interoperables
 MRT,Portail électronique du Journal Officiel,Portail électronique du Journal Officiel,other,,Secrétariat général du Gouvernement (World Bank WARDIP support),,2025-11-24-ami-lancement-portail-electronique-journal-officiel-rim
+MRT,national open data strategy,Mauritania,policy,,Ministry of Digital Transformation and Modernisation of Administration,,2025-05-29-mrt-le-ministre-de-la-transformation-numerique-mon-departement-semploie-a
 MUS,MauStats,MauStats platform,other,"open-source, SDMX-based",Statistics Mauritius with UNDP,national and local,2025-10-22-undp-statistics-mauritius-maustats-platform-launch
 MUS,National Open Data Portal,Mauritius,other,,"Ministry of Information Technology, Communication and Innovation",,2024-11-01-mus-cib-list-of-operational-systems
 MUS,Mauritius open data portal (data.govmu.org),Mauritius,policy,,,,2025-12-18-worldbank-govtech-dataset-dec2025
@@ -173,6 +178,7 @@ SLE,Open Data Portal,Open Data Portal,other,,Ministry of Information and Communi
 SOM,Open Data Portal / Open Data Platform of the SNBS (Data portal of Somalia),Somalia Open Data Portal,other,,Somali National Bureau of Statistics (SNBS),,2024-07-13-somalia-open-data-portal-terms-of-use
 SOM,data.gov.so,data.gov.so,other,,Somalia Open Government Initiative,federal,2025-03-28-som-somalia-open-data-day-2025-unlocking-transparency-for-a-better-future
 SOM,data.gov.so,data.gov.so,other,,Somalia Open Government Initiative,federal,2025-03-01-som-open-data-archives-bareedo-platform-somalia
+SOM,Transparency Portal,Somalia Ministry of Finance https://mof.gov.so/,other,,Ministry of Finance,,2026-11-10-som-ministry-of-finance-federal-government-of-somalia
 SSD,Open Data Portal (National Bureau of Statistics),Open Data Portal,other,,"National Bureau of Statistics, South Sudan",national,2026-08-29-south-sudan-nbs-open-data-portal
 SSD,CLIMIS,CLIMIS Data Warehouse (Climate Information and Early Warning / food security dashboard),other,,South Sudan IPC Technical Working Group / CLIMIS Data Warehouse,,2026-05-09-south-sudan-climis-ipc-population-dashboard
 SSD,National Bureau of Statistics website,National Bureau of Statistics website,other,,National Bureau of Statistics,,2026-04-21-south-sudan-mics7-national-survey-released

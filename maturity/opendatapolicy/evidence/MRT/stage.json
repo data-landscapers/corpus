@@ -1,16 +1,17 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-001",
-   "gaps": "No source found says an open data policy is adopted and still running.",
-   "note": "Counted from the four questions by study-ladder-opendatapolicy.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-003;MRT-001",
+      "gaps": "No source found says a national open data portal is running under the strategy; the government told the World Bank in 2025 that it had none (MRT-002).",
+      "note": "The minister told the National Assembly on 29 May 2025 that the open data and interoperability strategy of June 2023 had been adopted (MRT-003), so a policy is adopted and running: stage 3. Stage 4 needs a government portal running under it, and none is found.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

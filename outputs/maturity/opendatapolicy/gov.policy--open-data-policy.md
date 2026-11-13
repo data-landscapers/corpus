@@ -22,8 +22,8 @@ The African Commission on Human and Peoples' Rights' Declaration of Principles o
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 2 |
-| 3 Established | 3 |
-| 2 Nascent | 12 |
+| 3 Established | 4 |
+| 2 Nascent | 11 |
 | 1 Absent | 1 |
 | Unplaced | 30 |
 | No evidence | 5 |
@@ -64,6 +64,13 @@ Egypt adopted an open data policy in August 2025; no source found says whether a
 The Gambia has an open data strategy for 2024 to 2027; no source found says whether a government portal is running under it.
 
 - A Ministry of Communications and Digital Economy presentation lists the Government Open Data Strategy 2024-2027 among The Gambia's policies, strategies and legal frameworks, and says it was developed with the e-Governance Academy of Estonia under the AU-EU D4D Hub; it gives no approval date and also headlines it as 'Open Data Strategy (2023-2026)', and the document's date is its published year 2025 ([source, 2025](https://publicadministration.desa.un.org/sites/default/files/list-of-files/2025/1.2.1%29%20data%20governance%20-mocde.pdf)).
+
+### Mauritania: 3 Established
+
+Mauritania adopted a national open data strategy by 2025; no national open data portal is known to run under it.
+
+- Mauritania's Minister of Digital Transformation told the National Assembly that complementary national strategies have been adopted, among them open data and interoperability ([source, 2025-05-29](https://ami.mr/fr/archives/272230)).
+- The Ministry of Digital Transformation, Innovation and Administration Modernisation (MTNIMA) strategy document, dated June 2023, sets out a national open data and interoperability strategy with three axes and a roadmap, including open by default for public bodies' data; the passages state no cabinet approval, launch or issue date, and say the open data law and the portal's implementing decree are still to be drafted ([source, 2023-06](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf)).
 
 ### Rwanda: 3 Established
 
@@ -106,12 +113,6 @@ Ghana had a draft data sharing policy covering open data in 2019; no source foun
 Libya presented a draft open government data policy and a portal in November 2025; whether the policy is adopted is not known.
 
 - The GIA revealed the draft national policy for open government data on 27 November 2025, with a national technical guide issued, and said it would distribute both to government entities for official adoption ([source, 2025-11-27](https://www.gia.gov.ly/en/2025/11/27/the-general-authority-for-information-launches-the-open-government-data-platform/)).
-
-### Mauritania: 2 Nascent
-
-Mauritania wrote a national open data strategy in 2023; no source found says whether the government has approved it.
-
-- The Ministry of Digital Transformation, Innovation and Administration Modernisation (MTNIMA) strategy document, dated June 2023, sets out a national open data and interoperability strategy with three axes and a roadmap, including open by default for public bodies' data; the passages state no cabinet approval, launch or issue date, and say the open data law and the portal's implementing decree are still to be drafted ([source, 2023-06](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf)).
 
 ### Morocco: 2 Nascent
 

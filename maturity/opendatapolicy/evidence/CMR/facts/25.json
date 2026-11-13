@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-24-cmr-cameroun-l-ins-simplifie-l-acces-aux-donnees",
+ "facts": [],
+ "systems": [
+  {
+   "system": "INS data platforms",
+   "country_label": "Cameroon INS (address not given)",
+   "class": "other",
+   "platform": "",
+   "owner": "Institut national de la statistique",
+   "tiers": ""
+  }
+ ],
+ "note": "Statistics office platforms only; no open data policy stated."
+}

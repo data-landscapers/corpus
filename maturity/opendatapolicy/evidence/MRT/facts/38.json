@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-29-mrt-le-ministre-de-la-transformation-numerique-mon-departement-semploie-a",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Mauritania's Minister of Digital Transformation told the National Assembly that complementary national strategies have been adopted, among them open data and interoperability.",
+   "as_of": "2025-05-29",
+   "date_precision": "day",
+   "system": "national open data strategy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national open data strategy",
+   "country_label": "Mauritania",
+   "class": "policy",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation and Modernisation of Administration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
