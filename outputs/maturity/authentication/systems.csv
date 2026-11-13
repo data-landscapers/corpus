@@ -237,6 +237,8 @@ EGY,Egyptian Public Key System (PKS),Egypt,authentication,,MCIT,,2005-10-01-egy-
 EGY,Remote e-signature infrastructure,ITIDA remote signing,authentication,,ITIDA,,2026-11-11-egy-remote-power-of-attorney-face-biometric-and-remote-e-signature
 EGY,Digital identity app,Digital identity app,authentication,Digital Egypt,MCIT,,2026-11-11-egy-remote-power-of-attorney-face-biometric-and-remote-e-signature
 EGY,Digital identity app,Digital identity app,authentication,Digital Egypt platform,Ministry of Communications and Information Technology,,2026-11-09-egy-22-electronic-notarial-and-real-estate-registry-services
+EGY,Egypt Trust e-signature and e-seal platform,Egypt,authentication,locally hosted multi-tenant platform,Egypt Trust (ITIDA-licensed),,2026-11-12-facephi-and-egypttrust-partner-on-digital-identity-and-fraud-preventio
+EGY,Egypt Trusted List for Electronic Signatures and Seal Schemes,Egypt,authentication,,Government of Egypt,,2026-11-12-eu-egypt-electronic-signatures-trusted-list
 ETH,VeriFayda eKYC,Ethiopia,other,Fayda (eSignet),Faydaverse,,2026-10-09-eth-biometricupdate-fayda-developer-sandbox
 ETH,Fayda eKYC,Ethiopia,other,Fayda,Ethiopia National ID Program (now Faydaverse),,2026-08-24-fayda-digital-id-49-1m-enrolments-ethiopia-biometricupdate
 ETH,VeriFayda eKYC,Ethiopia,other,Fayda,FaydaVerse,,2026-10-03-banks-baulk-at-a-bill-from-public-id-that-turns-commercial
@@ -286,6 +288,7 @@ ETH,VeriFayda KYC,Ethiopia,authentication,,NIDP,,2026-05-21-tgo-direction-for-op
 ETH,Fayda,Fayda digital ID,authentication,,National ID Programme,,2025-03-24-eth-bbc-amharic-eight-things-to-know-about-fayda-id
 ETH,Ethiopian Government Electronic Services Portal,eservices.gov.et,other,,Government of Ethiopia,,2026-11-01-eth-eservices-portal-landing
 ETH,Fayda national ID,Ethiopia,other,,,,2026-05-26-eth-ethio-telecom-lists-on-ethiopian-securities-exchange
+ETH,"two-factor authentication for e-money transactions above Birr 5,000",Ethiopia,other,,National Bank of Ethiopia (rule),,2025-05-12-eth-nbe-directive-onps-10-2025-payment-instrument-issuers
 GAB,Declaration unique des salaires (DUS),Gabon,other,Gabon Connect (built with Ika Technology),"DGI, CNSS, CNAMGS",,2026-04-29-gabon-dus-tournant-numerique-transparence-salariale
 GAB,Registre biometrique des personnes physiques (RBPP),Gabon,other,,Government of Gabon (Ministry of Interior),,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,Systeme national d'identite digitale (SNID),Gabon,other,,ANINF / Government of Gabon,,2025-06-23-gabon-legal-digital-id-three-projects

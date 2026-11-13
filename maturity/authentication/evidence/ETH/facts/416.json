@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-12-eth-nbe-directive-onps-10-2025-payment-instrument-issuers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "two-factor authentication for e-money transactions above Birr 5,000",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "National Bank of Ethiopia (rule)",
+   "tiers": ""
+  }
+ ],
+ "note": "Two-factor payment authentication is a payment rule, not an identity service."
+}

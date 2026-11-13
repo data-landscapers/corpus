@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-uga-what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "PML Daily, relaying the ICT ministry, says the Parish Development Model register checks beneficiaries against the national identity database before money moves, having paid 3,571,108 people.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Parish Development Model register",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
