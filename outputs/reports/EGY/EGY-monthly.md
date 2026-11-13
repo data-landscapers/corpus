@@ -4,8 +4,8 @@ compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: EGY
 ledger_rows: 63
-not_held: 36
-record: 28cb72e0c56f
+not_held: 35
+record: 0a568f64d95e
 ---
 
 # News, Oct – Nov 2026
