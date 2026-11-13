@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-bfa-burkina-faso-lancement-de-l-operation-d-enregistrement-de-masse-de-la",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "The minister said the unique identifier system was designed by Burkinabe engineers and is hosted in the State's data centres.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Registre de l'identifiant unique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre de l'identifiant unique",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

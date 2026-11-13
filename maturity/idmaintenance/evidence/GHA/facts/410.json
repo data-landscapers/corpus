@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-gha-national-identification-authority-homepage",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The NIA homepage describes the National Identification Authority as a statutory body established by Act 707 to create, maintain, provide and promote the Ghana Card, running registration and verification itself.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "National Identity System (NIS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

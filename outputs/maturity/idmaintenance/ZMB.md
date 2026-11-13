@@ -2,7 +2,7 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [Zambians are implementing the new ID system in a home-grown approach](<https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project>), the Smart Zambia Institute coordinator said in March 2026. An international system integrator is being sought for more expertise. [The institute says Zambians will develop the system with the partner's support](<https://znbc.co.zm/?p=11892>). Open standards are meant to keep Zambia from being locked in to one supplier.
+**Operated nationally.** [Zambians are implementing the new ID system in a home-grown approach](<https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project>), the Smart Zambia Institute coordinator said in March 2026. An international system integrator is being sought for more expertise. [The institute says Zambians will develop the system with the partner's support](<https://znbc.co.zm/?p=11892>). Open standards are meant to keep Zambia from being locked in to one supplier. [ID Tech reported in March 2026 that the core is to be built by Zambians so the state can maintain it](<https://idtechwire.com/zambia-seeks-international-system-integrator-for-mosip-based-digital-id-rollout/>).
 
 **Maintained nationally.** No source found says national staff maintain the system. [In January 2025 SMART Zambia developers were trained on MOSIP](<https://idtechwire.com/zambia-advances-digital-id-system-with-mosip-training-for-healthcare-integration>). The aim was to let them manage and maintain the platform on their own.
 
