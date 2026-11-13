@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-24-lepaystchad-3000-terminaux-paiement-electronique-patn",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The World Bank-financed PATN project, with the Chadian government, provides for financial and digital literacy programmes alongside the hand-over of 3,000 payment terminals on 24 July 2026.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "Projet d'appui a la transformation numerique (PATN)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

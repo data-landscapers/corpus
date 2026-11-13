@@ -9,10 +9,10 @@
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SOM-001",
+      "stage_sources": "SOM-001;SOM-002",
       "gaps": "No source found since October 2023 says a government digital-skills programme for the public is in service and has trained a stated number of people.",
-      "note": "The communications ministry and UNDP held a digital-skills workshop for 73 youth in September 2025, part of a project to train 1,000. No count for the project has been found, so not stage 3.",
-      "as_at": "2026-10-31"
+      "note": "The ministry and UNDP trained 73 youth in Mogadishu in September 2025, and UNDP reported 80 trained with the ministry by April 2026. Neither count is shown in more than one location, so not stage 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

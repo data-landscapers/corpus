@@ -324,9 +324,10 @@ Seychelles' digital strategy, approved by October 2026, plans digital literacy p
 
 ### Somalia: 2 Nascent
 
-The communications ministry began a project to train 1,000 young people in 2025; a count of people trained has not been found.
+The communications ministry and UNDP trained two groups of young people in 2025 and 2026; training in more than one place is not known.
 
 - The Ministry of Communications and Technology and UNDP held a one-day digital-skills workshop in Mogadishu for 73 youth, part of a project aiming to train 1,000 youth ([source, 2025-09](https://undpinsomalia.medium.com/empowering-somali-youth-through-digital-skills-e1626efde8ee)).
+- UNDP says it trained 80 young Somalis in cybersecurity, data analysis, digital marketing and online business in partnership with the Ministry of Communication and Technology ([source, 2026-04-02](https://undpinsomalia.medium.com/promoting-innovation-and-digital-transformation-in-somalia-db2d48bc9643)).
 
 ### South Sudan: 2 Nascent
 
