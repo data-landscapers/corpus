@@ -3,9 +3,9 @@ title: Nigeria — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: NGA
-ledger_rows: 105
+ledger_rows: 106
 not_held: 8
-record: 30472ee6f074
+record: c750f15117d5
 ---
 
 # News, Oct – Nov 2026
@@ -1878,6 +1878,8 @@ Nigeria's humanitarian affairs minister, Bernard Doro, handed ten Mobile One-Sto
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geospatial-data">Geospatial data</a>
 </nav>
 
 ### National statistics
@@ -1913,6 +1915,30 @@ NITDA launched the Nigeria Tech Outlook Report 2026 as an annual digital-economy
 **[NITDA and NBS Launch Nigeria Tech Outlook Report to Support Digital Economy Growth](https://techafricanews.com/2026/11/12/nitda-and-nbs-launch-nigeria-tech-outlook-report-to-support-digital-economy-growth/)** — Tech Africa News, 12 November 2026
 
 NITDA and the National Bureau of Statistics launched the Nigeria Tech Outlook Report at Digital Nigeria 2026 in Abuja, Tech Africa News reported on 12 November 2026. The two bodies present it as a source of technology-sector data for policy and investment. The account gives none of the report's figures.
+
+</div>
+
+</div>
+
+### Geospatial data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Starlink Nigeria service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ground Segment](https://ncc.gov.ng/ground-segment)** — Nigerian Communications Commission, 13 November 2026
+
+Starlink holds 19 gateway earth-station licences from July 2022; OneWeb, Yahsat, Avanti and Rascom capacity also listed.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Internet Service Provider Data](https://www.ncc.gov.ng/market-data-reports/internet-service-provider-data)** — Nigerian Communications Commission, 13 November 2026
+
+Per-operator Q2 2026 table: Spectranet 111,384, Starlink 98,642 on one point of presence; Q3 fibre led by MTN at 242,916.
 
 </div>
 

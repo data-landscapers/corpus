@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 211
+sources_cited: 212
 sections_written: 39
 not_established: 1
 acquire_lines: 39
@@ -143,7 +143,7 @@ On 29 June 2026 [Mauritania launched a national government cloud](https://www.ec
 ### Energy
 <!-- infra.energy -->
 
-[50.3% of Mauritania's population had access to electricity in 2023](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=MR), against [93.5% of the urban population in the same year](https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS?locations=MR). [Access to energy scores 47.2 of 100 in the 2024 Ibrahim Index, 21st of 54 African states and up 7.4 points over 2014–2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf). [It is Mauritania's best infrastructure measure after mobile communications](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf).
+[50.3% of Mauritania's population had access to electricity in 2023](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=MR), against [93.5% of the urban population in the same year](https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS?locations=MR). [The African Development Bank put rural access at 11% in 2023, up from 6% in 2021](https://www.afdb.org/sites/default/files/documents/projects-and-operations/mauritania_csp_2023-2028_mid-term_review_publication_en.pdf). [Access to energy scores 47.2 of 100 in the 2024 Ibrahim Index, 21st of 54 African states and up 7.4 points over 2014–2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf). [It is Mauritania's best infrastructure measure after mobile communications](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf).
 
 [Hydro, wind and solar together supplied close to half of electricity output in 2024](https://countryeconomy.com/energy-and-environment/electricity-generation/mauritania). [Firms reported several outages in a typical month when the measure was last taken, in 2014](https://www.indexmundi.com/facts/mauritania/indicator/IC.ELC.OUTG). [In April 2024 the electricity company sought quotations to connect the national data centre to two 4 x 800 kVA delivery substations](https://somelec.mr/sites/default/files/Avis%20de%20DCCO%2009-CAE-2024.pdf).
 

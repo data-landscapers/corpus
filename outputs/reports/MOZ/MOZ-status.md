@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 263
+sources_cited: 265
 sections_written: 39
 not_established: 1
 acquire_lines: 48
@@ -381,7 +381,7 @@ In 2025 the [rules of the national instant payment scheme were available only to
 
 [WMO credits the meteorology institute's early warning system with holding Cyclone Freddy's 2023 toll under 200](https://wmo.int/site/science-action/weather-forecasts-and-early-warnings/mozambiques-life-saving-early-warning-systems). [The system runs on satellite, radar and surface data relayed by SMS and community radio](https://wmo.int/site/science-action/weather-forecasts-and-early-warnings/mozambiques-life-saving-early-warning-systems). [In May 2026 the institute and the UK Met Office launched ActionFirst, a platform for impact-based early warnings](https://inam.gov.mz/not%C3%ADcias/lan%C3%A7amento-da-inciativa-actionfirst/). [A US$7.89 million Systematic Observations Financing Facility investment through WFP, effective April 2024, is to upgrade the national weather observing network](https://www.un-soff.org/wp-content/uploads/2026/09/SOFF-Investment-Phase-Progress-Update-202607-Mozambique.pdf). [By June 2026 no station had yet been installed or improved](https://www.un-soff.org/wp-content/uploads/2026/09/SOFF-Investment-Phase-Progress-Update-202607-Mozambique.pdf).
 
-In February 2026 [INCM deployed Starlink terminals donated by SpaceX at accommodation and coordination centres in flood-affected areas](https://clubofmozambique.com/news/starlink-vodacom-bring-hope-to-flood-hit-mozambique/). The state operator [began proof-of-concept testing of Angola's ANGOSAT-2 satellite for telecommunications services in August 2026, under a bilateral memorandum signed that June](https://www.itweb.africa/article/tmcel-begins-angosat-2-satellite-trials/JN1gPvOAwolMjL6m).
+[INCM licensed Starlink in February 2022](https://observador.pt/2022/02/22/internet-da-spacex-autorizada-em-mocambique/), and [the service was operating by August 2023](https://intic.gov.mz/internet-via-satelite-starlink-ja-opera-em-mocambique/). In February 2026 [INCM deployed Starlink terminals donated by SpaceX at accommodation and coordination centres in flood-affected areas](https://clubofmozambique.com/news/starlink-vodacom-bring-hope-to-flood-hit-mozambique/). The state operator [began proof-of-concept testing of Angola's ANGOSAT-2 satellite for telecommunications services in August 2026, under a bilateral memorandum signed that June](https://www.itweb.africa/article/tmcel-begins-angosat-2-satellite-trials/JN1gPvOAwolMjL6m).
 
 [In September 2025 a World Bank-commissioned strategy set out a five-year plan to embed satellite crop monitoring in the agriculture ministry](https://doi.org/10.60566/q6wj0-6n223). [Neither the ministry nor the statistics institute held a formal remote-sensing mandate](https://cgspace.cgiar.org/server/api/core/bitstreams/63c4b826-6f85-4010-a394-1bd3cc00bbdb/content) in 2026. No national space or geospatial data policy had been adopted as at August 2026. [On 6 November 2026 the energy ministry launched a geospatial least-cost electrification plan and a platform pooling sector data in shared maps and dashboards](https://clubofmozambique.com/news/mozambique-estevao-pale-unveils-geospatial-plan-and-integrated-platform-to-guide-electrification-investment/).
 

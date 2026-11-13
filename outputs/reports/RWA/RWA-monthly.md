@@ -3,9 +3,9 @@ title: Rwanda — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: RWA
-ledger_rows: 34
+ledger_rows: 35
 not_held: 7
-record: 84e4cd554dbc
+record: a9f549ee70c1
 ---
 
 # News, Oct – Nov 2026
@@ -187,6 +187,20 @@ FAO reported a USD 100,000 grant to Rwanda in its IATI file, committed on 31 Oct
 </nav>
 
 ### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Starlink satellite service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICT Sector Statistics Report as of the Second Quarter of 2026](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Sectors/ICT/Statistics/Quarterly_publication/ICT_Sector_Statistics_Report_as_of_the_Second_Quarter_of_the_year_2026.pdf)** — Rwanda Utilities Regulatory Authority, 14 October 2026
+
+Satellite 4.8% of fixed broadband, 4,002 subscriptions at June 2026; Starlink traffic 7.1 million GB in the quarter.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

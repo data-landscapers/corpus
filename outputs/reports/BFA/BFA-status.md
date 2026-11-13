@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 9
-sources_cited: 215
+sources_cited: 217
 sections_written: 39
 not_established: 0
 acquire_lines: 62
@@ -151,7 +151,7 @@ Who must host where is set mainly by policy. [A Prime Ministerial circular direc
 
 Supply is unreliable where it exists: [firms report about eight electrical outages a month](https://microdata.worldbank.org/catalog/6673) (2024), roughly weekly interruption. It is also dear against income. The national utility SONABEL [charges residential customers on an increasing block tariff, at roughly XOF 75 per kWh for the first 50 kWh each month and about XOF 128 to 138 per kWh above that](https://eis.ecowas.int/assets/front/medias/doc/media_20230913095016.pdf) (2024). [Renewable sources, chiefly hydropower alongside expanding utility-scale solar, accounted for 13.92 per cent of generation](https://data.worldbank.org/indicator/EG.ELC.RNEW.ZS?locations=BF) in 2021.
 
-The framework for decentralised electrification is the strong part of the picture: [Burkina Faso scores highly on RISE for its off-grid and mini-grid enabling environment, with dedicated institutions and a policy framework for decentralised electrification](https://rise.esmap.org/country/burkina-faso) (2024). Set against the [2 per cent of the rural population with access to electricity in 2023](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=BF), that framework has yet to reach the ground.
+The framework for decentralised electrification is the strong part of the picture: [Burkina Faso scores highly on RISE for its off-grid and mini-grid enabling environment, with dedicated institutions and a policy framework for decentralised electrification](https://rise.esmap.org/country/burkina-faso) (2024). [The energy regulator put the rural electrification rate at 7.2 per cent in 2023, up from 1 per cent in 2003, with 615 localities electrified](https://eauburkina.com/images/DGEP/Atelier_International/Regulation_et_monitoring_service_public_eau_potable/National/ARSE/COMMUNICATION_ARSE_Novembre_2024_ppt_.pdf). [The national rural electrification strategy aims at 50 per cent by 2028](https://www.worldenergy.org/assets/downloads/Issues_Monitor_2024_Burkina_Faso_commentary.pdf).
 
 ### Technical Capacity
 <!-- infra.capacity -->

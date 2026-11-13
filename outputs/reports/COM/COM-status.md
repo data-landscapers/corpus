@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 10
-sources_cited: 185
+sources_cited: 186
 sections_written: 39
 not_established: 1
 acquire_lines: 24
@@ -359,7 +359,7 @@ The 2024 Open Data Inventory's best Comorian scores are [the built environment a
 
 ### US / hyperscaler activities
 <!-- geopol.usa -->
-The most consequential American technology arrival in Comoros was stopped at the border: the telecoms regulator ANRTIC [banned the installation, testing, deployment and use of Starlink on 12 June 2025](https://alwatwan.net/societe/d%C3%A9ploiement-de-starlink-i-les-autorit%C3%A9s-interdisent-son-usage-pour-l%E2%80%99instant.html), acting on a ministerial circular signed three days earlier and announcing a field inspection to identify users already on the service. The regulator framed the ban as provisional rather than final, pending the grant of a licence, and required the operator to come into conformity with Comorian law through the same official procedures as any other operator — a licensing question rather than a policy objection to satellite broadband as such.
+The most consequential American technology arrival in Comoros was stopped at the border: the telecoms regulator ANRTIC [banned the installation, testing, deployment and use of Starlink on 12 June 2025](https://alwatwan.net/societe/d%C3%A9ploiement-de-starlink-i-les-autorit%C3%A9s-interdisent-son-usage-pour-l%E2%80%99instant.html), acting on a ministerial circular signed three days earlier and announcing a field inspection to identify users already on the service. The regulator framed the ban as provisional rather than final, pending the grant of a licence, and required the operator to come into conformity with Comorian law through the same official procedures as any other operator — a licensing question rather than a policy objection to satellite broadband as such. [In December 2025 the regulator and customs at the international airport were reported to have seized Starlink equipment](https://www.comoresinfos.net/starlink-interdit-aux-comores-entre-protection-de-letat-et-desir-de-liberte-numerique/).
 
 ### China activities
 <!-- geopol.china -->

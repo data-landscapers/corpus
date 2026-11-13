@@ -3,16 +3,16 @@ title: West Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: XWA
-ledger_rows: 134
+ledger_rows: 135
 not_held: 1
-record: fd2d7f2fc959
+record: c113733d773f
 ---
 
 # West Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-13 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 134 bodies, instruments and systems on this place's ledger, 74 changed position between 2025-11-01 and 2026-11-13, 20 did not, 39 carry no stated baseline, and 1 is ***Not held*** at both ends.*
+*Of 135 bodies, instruments and systems on this place's ledger, 74 changed position between 2025-11-01 and 2026-11-13, 20 did not, 40 carry no stated baseline, and 1 is ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 280 sources for this place in the window — 74 in the earlier half (2025-11 to 2026-04), 206 in the later (2026-05 to 2026-11). The two halves are comparable, so the comparison is made over the whole window.*
 
@@ -54,6 +54,7 @@ PI-SPI, the union's instant-payment rail, [gave more than 38 million people acce
 | Commissioner for Infrastructure, Energy and Digitalisation | ***Baseline not held*** | [The portfolio covering the Digital Economy and Post, Energy and Mines, and Transport directorates, and the implementation of the regional infrastructure development plan whose digital pillar is sub-regional connectivity, is held for the 2026-2030 term by an appointee endorsed with a new management team; the source gives no decision date of its own](https://www.adomonline.com/amin-amidu-sulemani-appointed-ecowas-commissioner-for-infrastructure-energy-and-digitalisation/) | ***Baseline not held*** |
 | ECOWAS Court rulings on internet shutdowns | ***Baseline not held*** | [The regional court of justice held on 14 May 2025 that Senegal's June and July 2023 internet and social-media shutdowns violated the rights to expression, information, assembly and work, building on its 2020 ruling against Togo's 2017 shutdown](https://cipesa.org/2025/06/will-the-ecowas-judgment-on-senegal-redefine-digital-rights-in-francophone-africa/) | ***Baseline not held*** |
 | Mano River Union Internet Governance Forum (MRU-IGF) | ***Baseline not held*** | [The third annual forum brought together stakeholders from Liberia, Sierra Leone, Guinea and Côte d'Ivoire; a Sierra Leonean MP called for stronger personal-data and online-safety laws and harmonised legislation on artificial intelligence across the four states](https://owlpress-sl.com/hon-mariama-bangura-calls-for-stronger-digital-laws-at-mru-internet-governance-forum-2026/) | ***Baseline not held*** |
+| WATRA framework for non-geostationary satellite services | ***Baseline not held*** | [A regional reference comparing how Ghana, Nigeria and Sierra Leone license low-orbit satellite services, recommending that member regulators publish licensing frameworks stating requirements, fees, processing times and licence scope, and address security, privacy and cross-border harmonisation](https://watra.org/wp-content/uploads/2024/09/EN_WATRA-NGSO-Framework.pdf) | ***Baseline not held*** |
 | West Africa Youth Observers Network | ***Baseline not held*** | [A youth election-observers network anchored to the regional body and hosted by a civil-society organisation, with a steering committee, member-state focal points, a digital platform and a proposed biennial cycle, endorsed in the communique of a youth democracy conference in Dakar. The same communique urges the regional body to finalise and operationalise a framework for the use of artificial intelligence by election management bodies, which the base does not hold and which nothing on the record establishes as under way](https://guardian.ng/news/ecowas-urged-to-finalise-regional-ai-election-framework/) | ***Baseline not held*** |
 
 ### Public debate and participation in policymaking

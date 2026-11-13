@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 269
+sources_cited: 270
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -156,7 +156,7 @@ Togo's [mobile communications score rose 35.6 points over 2014-2023 to 71.1 of 1
 
 [In 2023, 86 per cent of Togolese firms experienced power outages, at an average of 2.7 a month](https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Togo-2023.pdf). [Access to energy scored 32.8 of 100 in 2023, 30th of 54, after an 8.1-point gain over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tg.pdf).
 
-[About 59.2% of the population had access to electricity in 2023](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS). [In 2023 access was 95.0% in towns and 30.5% in rural areas](https://tradingeconomics.com/togo/access-to-electricity-rural-percent-of-rural-population-wb-data.html).
+[In December 2025 the energy ministry put national electricity access at 75%, up from 70% in 2024, with rural access below 35%](https://www.republiquetogolaise.tg/energies/1212-11407-energies-le-taux-d-electrification-national-passe-desormais-a-75). [The September 2025 national energy compact targets universal access by 2030](https://www.banquemondiale.org/content/dam/theworldbankgroupasset/document/2026/m300-energy-compacts/Togo-National-Energy-Compact-Mission-300.pdf). [In 2023 access was 95.0% in towns and 30.5% in rural areas](https://tradingeconomics.com/togo/access-to-electricity-rural-percent-of-rural-population-wb-data.html).
 
 [In 2025 the state's off-grid effort ran through the CIZO pay-as-you-go solar programme, with tax exemptions and subsidies for rural households](https://www.ren21.net/gsr-2024/snapshots/togo/). [The rural electrification agency AT2ER builds mini-grids financed by the African Development Bank, the EU-Africa Infrastructure Trust Fund, the Sustainable Energy Fund for Africa and the government](https://www.ren21.net/gsr-2024/snapshots/togo/). [Renewables supplied around a quarter of electricity output in 2021](https://data.worldbank.org/indicator/EG.ELC.RNEW.ZS?locations=TG). [In 2025 the domestic tariff rose to 93 CFA francs per kWh between 31 and 120 kWh, to support the utility's finances](https://www.togofirst.com/en/energy/1605-16346-togo-increases-electricity-prices-to-boost-utility-s-finances).
 

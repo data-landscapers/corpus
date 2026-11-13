@@ -1,12 +1,12 @@
 ---
 title: Cameroon: status report
-compiled: 2026-11-12
+compiled: 2026-11-13
 place: CMR
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 268
+sources_cited: 270
 sections_written: 39
 not_established: 1
 acquire_lines: 59
@@ -138,7 +138,7 @@ The regulator [fined Orange and MTN in July 2025 over quality of service and reg
 
 [National electricity access reached 72% of the population in 2023, up from 71% the year before](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=CM). [In 2023, 95.8% of the urban population had access against roughly 26% of the rural population](https://tradingeconomics.com/cameroon/access-to-electricity-rural-percent-of-rural-population-wb-data.html), a gap of about 70 percentage points. [Cameroon's Access to Energy score rose 8.3 points over 2014-2023 to 46.7 out of 100, 22nd of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf). [Renewables accounted for 73.2% of electricity generated in 2024](https://www.irena.org/Publications/2025/Jul/Renewable-energy-statistics-2025), up from around 60-65% in 2020-2022. [From November 2024 tariffs were harmonised at 50 XAF per kWh for the first 110 kWh a month, rising in bands to 99 XAF above 400 kWh](https://www.businessincameroon.com/energy/3010-14281-cameroon-to-standardize-electricity-rates-for-all-customers-starting-november-2024).
 
-In December 2025 the regulator [granted the first private-sector solar mini-grid authorisation, to REI Cameroon for the Voundou pilot](https://cei-africa.com/news/rei-cameroon-secures-the-first-ever-solar-mini-grid-authorization-in-cameroon/). The 2040 AI roadmap [plans solar-powered edge computing nodes](https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/) to distribute processing capacity. [20,000 smart meters began rolling out in May 2026](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-begins-rollout-of-20-000-smart-meters) under the electricity-sector recovery programme. [A Douala data centre is being built to hold what they collect](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-begins-rollout-of-20-000-smart-meters). Energy is [the weakest of Cameroon's environmental data categories on the Open Data Inventory](https://odin.opendatawatch.com/data) (2024).
+In December 2025 the regulator [granted the first private-sector solar mini-grid authorisation, to REI Cameroon for the Voundou pilot](https://cei-africa.com/news/rei-cameroon-secures-the-first-ever-solar-mini-grid-authorization-in-cameroon/). [The 100 kWp Voundou plant was commissioned in April 2026, supplying more than 100 subscribers](https://www.businessincameroon.com/energy/2404-16074-cameroon-commissions-first-private-solar-mini-grid-under-energy-compact). [In December 2025 Afreximbank approved EUR 55.4m for a third phase of the solar rural electrification programme, covering 200 localities](https://www.businessfront.com/energy/news/afreximbank-approves-cameroon-solar/). The 2040 AI roadmap [plans solar-powered edge computing nodes](https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/) to distribute processing capacity. [20,000 smart meters began rolling out in May 2026](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-begins-rollout-of-20-000-smart-meters) under the electricity-sector recovery programme. [A Douala data centre is being built to hold what they collect](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-begins-rollout-of-20-000-smart-meters). Energy is [the weakest of Cameroon's environmental data categories on the Open Data Inventory](https://odin.opendatawatch.com/data) (2024).
 
 ### Technical Capacity
 <!-- infra.capacity -->

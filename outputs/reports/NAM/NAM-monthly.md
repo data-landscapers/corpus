@@ -3,9 +3,9 @@ title: Namibia — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: NAM
-ledger_rows: 19
+ledger_rows: 21
 not_held: 9
-record: 900d86d68847
+record: 54eb2653e1a5
 ---
 
 # News, Oct – Nov 2026
@@ -105,6 +105,8 @@ ISO lists the Namibian Standards Institution, set up under the Standards Act 200
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
@@ -119,6 +121,36 @@ ISO lists the Namibian Standards Institution, set up under the Standards Act 200
 **[Paratus Namibia launches Eutelsat’s OneWeb LEO connectivity](https://www.itweb.africa/article/paratus-namibia-launches-eutelsats-oneweb-leo-connectivity/dgp45qaBnYVvX9l8)** — ITWeb Africa, 7 October 2026
 
 Paratus Namibia launched Eutelsat's OneWeb low-earth-orbit satellite internet service across Namibia on 7 October 2026, with capped and uncapped packages for homes and businesses. It follows a November 2025 agreement between Paratus and Eutelsat covering South Africa, Angola, Namibia, Botswana and Zambia. No prices are given.
+
+</div>
+
+</div>
+
+### Energy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Household electricity access</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Amutse sets 80% electricity access target](https://neweralive.na/amutse-sets-80-electricity-access-target/)** — New Era, 21 October 2026
+
+Minister targets 80% access by 2030 against official 70%; 2023 census: 46.9% grid, 12.6% off-grid solar.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ministerial 80% electricity access target for 2030</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Amutse sets 80% electricity access target](https://neweralive.na/amutse-sets-80-electricity-access-target/)** — New Era, 21 October 2026
+
+Summarised under [Energy](#energy).
 
 </div>
 

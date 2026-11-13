@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 9
-sources_cited: 270
+sources_cited: 272
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -385,7 +385,7 @@ Across the 23 categories the Open Data Inventory scores for Rwanda in 2024, the 
 ### Geospatial data
 <!-- data.geospatial -->
 
-[In February 2026 the Rwanda Space Agency certified the state-linked Broadband Systems Corporation as a Starlink reseller](https://www.newtimes.co.rw/article/33378/news/featured/bscs-starlink-authorisation-enhances-internet-reliability-in-rwanda). [It runs a GeoHub applying satellite and geospatial data to agriculture and urban planning (2025)](https://interweavegov.substack.com/p/rwandas-digital-transformation-an). [In January 2026 satellite and field data were combined into maps showing where each crop is grown](https://www.bmz-digital.global/en/digital-maps-agriculture-rwanda/). [An AFD package agreed in January 2023 covered the GeoHub, the agency and a drone operations centre at Huye](https://interweavegov.substack.com/p/rwandas-digital-transformation-an). [The meteorological service takes EUMETSAT feeds but uses them mainly as static images for forecasters (July 2026)](https://www.undp.org/sites/g/files/zskgke326/files/2026-09/sh-tracked-d4_final_report_ai_and_ml_integration.pdf).
+[Starlink launched in February 2023 under a Rwanda Space Agency licence](https://www.minict.gov.rw/index.php?eID=dumpFile&f=62656&t=f&token=f8da679abbb05b90f18e46d998c1ab6aa7bb22b9). [In June 2026 satellite links made up 4.8% of fixed broadband, 4,002 subscriptions, against 4,520 a year earlier](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Sectors/ICT/Statistics/Quarterly_publication/ICT_Sector_Statistics_Report_as_of_the_Second_Quarter_of_the_year_2026.pdf). [In February 2026 the Rwanda Space Agency certified the state-linked Broadband Systems Corporation as a Starlink reseller](https://www.newtimes.co.rw/article/33378/news/featured/bscs-starlink-authorisation-enhances-internet-reliability-in-rwanda). [It runs a GeoHub applying satellite and geospatial data to agriculture and urban planning (2025)](https://interweavegov.substack.com/p/rwandas-digital-transformation-an). [In January 2026 satellite and field data were combined into maps showing where each crop is grown](https://www.bmz-digital.global/en/digital-maps-agriculture-rwanda/). [An AFD package agreed in January 2023 covered the GeoHub, the agency and a drone operations centre at Huye](https://interweavegov.substack.com/p/rwandas-digital-transformation-an). [The meteorological service takes EUMETSAT feeds but uses them mainly as static images for forecasters (July 2026)](https://www.undp.org/sites/g/files/zskgke326/files/2026-09/sh-tracked-d4_final_report_ai_and_ml_integration.pdf).
 
 ## Geopolitics
 

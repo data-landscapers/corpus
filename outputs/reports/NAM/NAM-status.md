@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 211
+sources_cited: 212
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -143,7 +143,7 @@ Namibia's digital-sector financing from 2016 to 2026 runs to 38 commitments, wor
 ### Energy
 <!-- infra.energy -->
 
-[Only 56.7 percent of the population had access to electricity in 2023](https://tradingeconomics.com/namibia/access-to-electricity-percent-of-population-wb-data.html). [Renewables supplied 93.37 percent of domestic generation in 2021, principally from the Ruacana hydro plant](https://data.worldbank.org/indicator/EG.ELC.RNEW.ZS). [In 2023, 75.0 percent of the urban population had access against 34.1 percent of the rural population](https://nationstat.com/es/country/namibia/access-to-electricity-urban-of-urban-population).
+[Only 56.7 percent of the population had access to electricity in 2023](https://tradingeconomics.com/namibia/access-to-electricity-percent-of-population-wb-data.html). [Renewables supplied 93.37 percent of domestic generation in 2021, principally from the Ruacana hydro plant](https://data.worldbank.org/indicator/EG.ELC.RNEW.ZS). [In 2023, 75.0 percent of the urban population had access against 34.1 percent of the rural population](https://nationstat.com/es/country/namibia/access-to-electricity-urban-of-urban-population). [The 2023 census found 46.9 percent of households on the grid and 12.6 percent on off-grid solar](https://neweralive.na/amutse-sets-80-electricity-access-target/). [In October 2026 the energy minister set a target of 80 percent access by 2030, above the official 70 percent](https://neweralive.na/amutse-sets-80-electricity-access-target/).
 
 [Only around 37 percent of Namibians said in 2024 that their electricity supply is reliable](https://www.afrobarometer.org/publication/ad849-namibians-grow-more-dissatisfied-with-governments-efforts-on-electricity-provision/). [Dissatisfaction with government performance on electricity provision is rising](https://www.afrobarometer.org/publication/ad849-namibians-grow-more-dissatisfied-with-governments-efforts-on-electricity-provision/) (2024). [The national utility reported transmission availability of 99.81 percent for 2024/25, with no load-shedding or power outages](https://www.nampower.com.na/Media/Document/db33831c-ffd0-4012-8fbe-f87a746b8739.pdf). [It put 4,856 GWh into the system that year, 44.6 percent of it generated locally](https://www.nampower.com.na/Media/Document/db33831c-ffd0-4012-8fbe-f87a746b8739.pdf) (2024/25). [In June 2026 it inaugurated a N$394 million digital substation outside Swakopmund as the main transmission supply point for the coastal network](https://www.nampower.com.na/Media/News/1cc23158-ecd9-4ea6-882f-057103db99df). [Access to energy scores 50.3 out of 100 in the 2024 IIAG, 17th of 54 and up 5.5 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf). [About 12.6 percent of the population was served off-grid in 2023, under an off-grid electrification policy](https://thedocs.worldbank.org/en/doc/8450d99b2d1650281964a1e6125802d8-0010012025/original/Namibia-National-Energy-Compact-Mission-300.pdf).
 
