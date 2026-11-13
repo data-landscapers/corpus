@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Rural access to electricity declined from 32.3 percent in 2020 to 23.9 percent in 2023, while urban access rose from 70.3 to 79 percent.",
+ "title": "SDG 7 - Affordable and Clean Energy Indicators Report",
+ "publisher": "Somali National Bureau of Statistics",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

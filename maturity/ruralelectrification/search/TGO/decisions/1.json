@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Rural areas still have an access rate below 35%, against a national electrification rate of 75% (December 2025).",
+ "title": "Énergies : le taux d'électrification national passe désormais à 75 %",
+ "publisher": "Site officiel du Togo (RTG)",
+ "published": "2025-12-12",
+ "date_source": "source",
+ "why_not": ""
+}

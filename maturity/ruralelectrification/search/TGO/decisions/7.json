@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "In 2021 rural access to electricity was 8.77% against 51.76% urban and 60.53% overall.",
+ "title": "Projet RESPITE, Plan de gestion environnementale et sociale",
+ "publisher": "Gouvernement du Togo / Banque mondiale",
+ "published": "2023-10",
+ "date_source": "source",
+ "why_not": ""
+}

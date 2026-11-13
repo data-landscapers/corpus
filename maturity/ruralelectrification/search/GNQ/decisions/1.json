@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "In the World Bank's 2022-23 household survey (ENH2) rural electricity access trails urban by 45 percentage points, with rural electricity deprivation at 50.2% (national access 82%, up from 66% in 2011).",
+ "title": "De la riqueza a la inclusión: caminos para reducir la pobreza y ampliar la clase media en Guinea Ecuatorial",
+ "publisher": "Banco Mundial",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

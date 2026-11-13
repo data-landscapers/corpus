@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "In rural areas access to electricity is only 10%, against a national rate of 70% in 2024.",
+ "title": "Électrification Rurale au Togo (ProEnergie)",
+ "publisher": "GIZ",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

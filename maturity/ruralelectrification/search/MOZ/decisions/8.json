@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "In the 2022-23 DHS, 15% of the rural population had electricity, against 79% in urban areas and 37% nationally.",
+ "title": "Moçambique Inquérito Demográfico e de Saúde 2022-23 - Relatório de Síntese",
+ "publisher": "Instituto Nacional de Estatística (INE) e ICF",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

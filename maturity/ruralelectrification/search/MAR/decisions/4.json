@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "AfDB execution report dated 20 December 2024 gives Morocco's electrification rate at 99.88% (target 100%).",
+ "title": "Rapport sur l'état d'exécution et sur les résultats PDRTE-ER",
+ "publisher": "African Development Bank",
+ "published": "2024-12-20",
+ "date_source": "source",
+ "why_not": ""
+}

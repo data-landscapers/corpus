@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The 2022 Impact of Access to Sustainable Energy Survey found 86.8 per cent of rural households without electricity access, i.e. about 13.2 per cent with access.",
+ "title": "Impact of Access to Sustainable Energy Survey 2022",
+ "publisher": "Instituto Nacional de Estatística (translation on Statistics Norway)",
+ "published": "2024-09-16",
+ "date_source": "source",
+ "why_not": ""
+}

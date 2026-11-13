@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Per the 2020 survey, overall access to electricity is 78.4 percent in mainland Tanzania, 69.8 percent in rural areas; rural household connectivity is 24.5 percent.",
+ "title": "National Renewable Energy Strategy 2024-2034",
+ "publisher": "Ministry of Energy, United Republic of Tanzania",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": ""
+}

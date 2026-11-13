@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Access rates are 6% in rural areas and 91% in urban areas, with rural access remaining below 10% and relying on isolated diesel mini-grids.",
+ "title": "Pacte national de l'énergie pour la République Islamique de Mauritanie",
+ "publisher": "Gouvernement de la République Islamique de Mauritanie (Mission 300)",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

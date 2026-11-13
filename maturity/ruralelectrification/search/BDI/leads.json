@@ -1,0 +1,9 @@
+[
+{"url":"https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=BI","title":"Access to electricity, rural (% of rural population) - Burundi","publisher":"World Bank","published":"","sub_indicator":"rural","why":"World Bank series, rural access"},
+{"url":"https://trackingsdg7.esmap.org/sites/default/files/data-import/csv/7.1.1-electricity-access-pct-rural.csv","title":"7.1.1 electricity access, rural","publisher":"ESMAP Tracking SDG7","published":"","sub_indicator":"rural","why":"Rural access by country to 2024"},
+{"url":"https://snapshot.derca.org/country/burundi","title":"Burundi: country snapshot","publisher":"DERCA","published":"","sub_indicator":"rural","why":"Rural access 3.6% in 2024"},
+{"url":"https://centreforenergy.org/countries/burundi","title":"Burundi energy profile","publisher":"Centre for Energy","published":"","sub_indicator":"rural","why":"Rural access 2024"},
+{"url":"https://www.dfc.gov/media/press-releases/dfc-announces-31-million-grant-weza-power-expand-electricity-access-and","title":"DFC Announces $3.1 Million Grant for Weza Power","publisher":"DFC","published":"2024-10-15","sub_indicator":"rural","why":"Rural access under 2 percent"},
+{"url":"https://gogla.org/wp-content/uploads/2024/11/Burundi-Country-brief.pdf","title":"Burundi Country brief","publisher":"GOGLA","published":"2024-11","sub_indicator":"rural","why":"Rural electrification rate 3%"},
+{"url":"https://bntic.com/energie/pays/burundi/","title":"Electricite au Burundi : mix, acces, renouvelables","publisher":"BNTIC","published":"","sub_indicator":"rural","why":"Rural access 3.6% 2024"}
+]

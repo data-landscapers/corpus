@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Electricity access is 80.3% among urban households but only 34% among rural households, per the 2023 National Energy Access Survey.",
+ "title": "Expanding electricity access through solar home systems in Zambia",
+ "publisher": "International Growth Centre",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

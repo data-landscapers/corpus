@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.worldbank.org/content/dam/theworldbankgroupasset/document/2026/m300-energy-compacts/Ethiopia-National-Energy-Compact-Mission-300.pdf,fetched,,scripts/.workroot/study/ruralelectrification/cache/ETH/1.txt,10606,pdf,
+2,https://trackingsdg7.esmap.org/sites/default/files/download-documents/Chapter1-AccesstoElectricity.pdf,fetched,,scripts/.workroot/study/ruralelectrification/cache/ETH/2.txt,9817,pdf,
+3,https://www.ena.et/web/amh/w/amh_9824960,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+4,https://www.worldbank.org/en/news/press-release/2025/08/04/new-world-bank-program-to-expand-electricity-access-to-six-million-people-across-ethiopia,fetched,,scripts/.workroot/study/ruralelectrification/cache/ETH/4.txt,765,html,New World Bank Program to Expand Electricity Access to Six Million People Across Ethiopia
+5,https://documents1.worldbank.org/curated/en/099070925154021409/pdf/BOSIB-b16acf78-b05c-4234-b35d-ec4ca80658d2.pdf,fetched,,scripts/.workroot/study/ruralelectrification/cache/ETH/5.txt,20516,pdf,World Bank Document
+6,https://www.worldbank.org/en/news/press-release/2024/04/03/energizing-afe-ethiopia-new-world-bank-program-expands-access-to-electricity,fetched,,scripts/.workroot/study/ruralelectrification/cache/ETH/6.txt,653,html,Energizing Ethiopia: New World Bank Program Expands Access to Electricity
+7,https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=ET,not-a-document,World Bank indicator widget,,0,,

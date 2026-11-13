@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The factsheet states rural areas are severely underserved with only 7% access (urban 57%, national 36%).",
+ "title": "Madagascar Energy Factsheet",
+ "publisher": "African Development Bank",
+ "published": "2025-01-26",
+ "date_source": "source",
+ "why_not": ""
+}

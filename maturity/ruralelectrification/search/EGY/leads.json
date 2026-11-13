@@ -1,0 +1,6 @@
+[
+{"url":"https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=EG","title":"Access to electricity, rural (% of rural population) - Egypt, Arab Rep.","publisher":"World Bank","published":"2023","sub_indicator":"rural","why":"World Bank series: Egypt rural access 100% in 2023"},
+{"url":"https://www.egyin.com/article/99873/%D9%85%D8%B5%D8%B1-%D8%AA%D9%86%D9%81%D8%B0-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-1-000-%D9%85%D8%B4%D8%B1%D9%88%D8%B9","title":"مصر تنفذ أكثر من 1,000 مشروع كهرباء وإنارة في المناطق الريفية","publisher":"إيجي إن","published":"2026-01-23","sub_indicator":"rural","why":"Rural electrification projects delivered 2024/25"},
+{"url":"https://www.masrtimes.com/304165","title":"الكهرباء: الخدمة تصل لـ 99.5% من المصريين","publisher":"مصر تايمز","published":"2023-07-10","sub_indicator":"rural","why":"Ministry official on national connection rate"},
+{"url":"https://trackingsdg7.esmap.org/sites/default/files/data-import/csv/7.1.1-electricity-access-pct-rural.csv","title":"7.1.1 electricity access pct rural","publisher":"ESMAP Tracking SDG7","published":"","sub_indicator":"rural","why":"Rural access series, Egypt 100% latest year"}
+]

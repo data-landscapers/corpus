@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The compact puts rural access to electricity at about 43% in 2025 (30% grid and mini-grids, 13% stand-alone solar), with a 75% target for 2030.",
+ "title": "National Energy Compact for the Republic of Uganda",
+ "publisher": "Government of Uganda (Ministry of Energy and Mineral Development), Mission 300",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

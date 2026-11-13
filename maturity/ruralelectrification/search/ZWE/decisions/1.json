@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Between 2006 and 2024 the Rural Electrification Fund electrified 7,686 rural public institutions, and the Presidential Rural Solarization Scheme targets over one million rural households with 1kW solar systems by 2030.",
+ "title": "National Energy Compact for the Republic of Zimbabwe",
+ "publisher": "Ministry of Energy and Power Development, Government of Zimbabwe",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

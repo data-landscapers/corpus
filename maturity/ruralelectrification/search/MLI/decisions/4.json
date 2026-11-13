@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "In 2023 Mali's rural access to electricity was 18.3% against 99.7% urban and 54.5% overall (IEA et al., 2024; World Bank, 2024).",
+ "title": "Electrification with renewables: Enhancing healthcare delivery in Mali",
+ "publisher": "International Renewable Energy Agency and SELCO Foundation",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

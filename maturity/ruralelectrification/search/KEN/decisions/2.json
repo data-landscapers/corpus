@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Kenya's National Energy Compact states the electricity access rate is 75 per cent as at 2024, with 90 per cent urban and 68 per cent rural access from grid and off-grid solutions.",
+ "title": "National Energy Compact 2025 - 2030 for the Republic of Kenya",
+ "publisher": "Ministry of Energy and Petroleum, State Department for Energy",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

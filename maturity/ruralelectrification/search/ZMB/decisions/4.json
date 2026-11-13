@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The master plan states the rural electrification access rate had increased to 34% according to the 2023 National Energy Access Survey, and revises the 2030 target from 51% to 100%.",
+ "title": "Rural Electrification Master Plan for Zambia (2025 - 2030)",
+ "publisher": "Rural Electrification Authority",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

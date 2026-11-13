@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "In 2022, 15% of Mozambique's rural population had access to electricity against 76% of the urban population.",
+ "title": "Mozambique 2024 - Energy Policy Review",
+ "publisher": "International Energy Agency",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

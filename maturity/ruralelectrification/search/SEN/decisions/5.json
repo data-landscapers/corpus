@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Rural areas: 64% have electricity (2023); national access rate 84% (2023).",
+ "title": "Senegal Energy Fact Sheet",
+ "publisher": "African Development Bank",
+ "published": "2025-02-10",
+ "date_source": "source",
+ "why_not": ""
+}

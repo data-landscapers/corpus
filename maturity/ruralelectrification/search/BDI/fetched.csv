@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=BI,not-a-document,World Bank indicator widget,,0,,
+2,https://trackingsdg7.esmap.org/sites/default/files/data-import/csv/7.1.1-electricity-access-pct-rural.csv,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+3,https://snapshot.derca.org/country/burundi,fetched,,scripts/.workroot/study/ruralelectrification/cache/BDI/3.txt,511,html,Burundi · DERCA country snapshot
+4,https://centreforenergy.org/countries/burundi,fetched,,scripts/.workroot/study/ruralelectrification/cache/BDI/4.txt,1782,html,Burundi energy profile
+5,https://www.dfc.gov/media/press-releases/dfc-announces-31-million-grant-weza-power-expand-electricity-access-and,fetched,,scripts/.workroot/study/ruralelectrification/cache/BDI/5.txt,398,html,DFC Announces $3.1 Million Grant for Weza Power to Expand Electricity Access and Diversify Energy Sources in Burundi
+6,https://gogla.org/wp-content/uploads/2024/11/Burundi-Country-brief.pdf,fetched,,scripts/.workroot/study/ruralelectrification/cache/BDI/6.txt,1767,pdf,
+7,https://bntic.com/energie/pays/burundi/,fetched,,scripts/.workroot/study/ruralelectrification/cache/BDI/7.txt,912,html,"Électricité au Burundi : mix, accès, renouvelables"

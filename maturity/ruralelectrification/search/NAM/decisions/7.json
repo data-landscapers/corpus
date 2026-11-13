@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The outlook lists rural access to electricity at 35% (national 56%, urban 72%) and says rural electrification is only 25%.",
+ "title": "Namibia Country Window: Energy System Transformation Outlook (ESTO)",
+ "publisher": "GET.transform",
+ "published": "2024-08-14",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The compact's access profile gives rural access of about 44% in 2025, against about 60% nationally.",
+ "title": "National Energy Compact for the Republic of Uganda",
+ "publisher": "Government of Uganda, Mission 300 (#PoweringAfrica)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

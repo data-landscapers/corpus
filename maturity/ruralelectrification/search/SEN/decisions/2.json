@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Le taux d'électrification rurale est passé de 42,30 % en 2018 à 65,84 % en 2023.",
+ "title": "Electricité",
+ "publisher": "Ministère de l'Energie, du Pétrole et des Mines",
+ "published": "2024-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

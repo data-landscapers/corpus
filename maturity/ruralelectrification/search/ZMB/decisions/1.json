@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The Authority's 2023 report states cumulative rural household access to electricity increased to 9.1% by 2023.",
+ "title": "REA 2023 Annual Report",
+ "publisher": "Rural Electrification Authority",
+ "published": "2024-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

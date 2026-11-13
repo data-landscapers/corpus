@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/annuaire/annuaire_statistique_ins_2020_2024_vf.pdf,held,held as raw/2025/2025-01-01-ner-ins-annuaire-statistique-2020-2024.md,,0,,
+2,https://thedocs.worldbank.org/en/doc/aa1c1df323bc70ef9a9b0b0aa7ba8144-0010012025/original/M300-AES-Compact-Niger.pdf,fetched,,scripts/.workroot/study/ruralelectrification/cache/NER/2.txt,9532,pdf,Microsoft Word - Pacte Energétique Niger vf 05.12.24.docx
+3,https://www.lesahel.org/mise-en-oeuvre-de-la-strategie-nationale-dacces-a-lelectricite-rehausser-le-taux-dacces-a-lelectricite-au-niger-a-au-moins-80-a-lhorizon-2035/,fetched,,scripts/.workroot/study/ruralelectrification/cache/NER/3.txt,616,html,Mise en œuvre de la Stratégie Nationale d’Accès à l’Électricité : Rehausser le taux d’accès à l’électricité au Niger à au moins 80% à l’horizon 2035
+4,https://www.nigelec.ne/web/sites/default/files/annonce_documents/Rapport%20PAR_%20VF%20CLEAN%20revue%20FFFF.pdf,fetched,,scripts/.workroot/study/ruralelectrification/cache/NER/4.txt,60286,pdf,
+5,https://sie.uemoa.int/sieniger/,fetched,,scripts/.workroot/study/ruralelectrification/cache/NER/5.txt,142,html,Système d'Information Energétique du Niger
+6,https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=NE,not-a-document,World Bank indicator widget,,0,,
+7,https://www.phoenix-ci.fr/en/assessment-of-the-electricity-sector-in-niger/,fetched,,scripts/.workroot/study/ruralelectrification/cache/NER/7.txt,395,html,Assessment of the electricity sector in Niger | Phœnix Consulting International

@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "date_source": "source",
+ "why_not": "",
+ "select": true,
+ "fact": "STEG states Tunisia's rural electrification rate reached 99.5% in 2023.",
+ "title": "Historiques",
+ "publisher": "Société Tunisienne de l'Electricité et du Gaz",
+ "published": "2024-11-11"
+}

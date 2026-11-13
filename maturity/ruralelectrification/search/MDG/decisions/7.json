@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The report states that definitive statistics on urban and rural electrification rates are not available, national rate about 35% (Tracking SDG7 2023).",
+ "title": "Madagascar Integrated Energy Planning: Electrification Report",
+ "publisher": "Sustainable Energy for All",
+ "published": "2024-06",
+ "date_source": "source",
+ "why_not": ""
+}

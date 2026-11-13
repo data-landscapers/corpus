@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "",
+ "title": "Mali Energy Fact Sheet",
+ "publisher": "African Development Bank",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-date: the fact sheet states no publication date (data year 2023, rural 31%) and no proxy is justifiable."
+}

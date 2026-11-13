@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The compact states rural access to electricity was 11% in 2022 against 72% urban, per the latest SDG7 tracking data.",
+ "title": "Pacte energetique national pour Madagascar",
+ "publisher": "Government of Madagascar / Mission 300",
+ "published": "2025-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The electricity access rate in rural areas was 11% in 2023, compared with 6% in 2021, versus 91% in urban areas in 2023.",
+ "title": "Mauritania - Country Strategy Paper 2023-2028 Mid-Term Review",
+ "publisher": "African Development Bank Group",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

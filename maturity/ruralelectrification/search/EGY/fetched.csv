@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=EG,not-a-document,World Bank indicator widget,,0,,
+2,https://www.egyin.com/article/99873/%D9%85%D8%B5%D8%B1-%D8%AA%D9%86%D9%81%D8%B0-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-1-000-%D9%85%D8%B4%D8%B1%D9%88%D8%B9,fetched,,scripts/.workroot/study/ruralelectrification/cache/EGY/2.txt,287,html,"مصر تنفذ أكثر من 1,000 مشروع كهرباء وإنارة في المناطق الريفية - إيجي إن"
+3,https://www.masrtimes.com/304165,fetched,,scripts/.workroot/study/ruralelectrification/cache/EGY/3.txt,141,html,"""الكهرباء"": الخدمة تصل لـ 99.5% من المصريين"
+4,https://trackingsdg7.esmap.org/sites/default/files/data-import/csv/7.1.1-electricity-access-pct-rural.csv,unfetchable,HTTP 403; no usable Wayback capture,,0,,

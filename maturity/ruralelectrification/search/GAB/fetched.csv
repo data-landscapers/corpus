@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.worldbank.org/en/news/press-release/2026/02/05/world-bank-supports-gabon-s-water-supply-sanitation-and-electricity-services,fetched,,scripts/.workroot/study/ruralelectrification/cache/GAB/1.txt,417,html,"World Bank supports Gabon’s Water Supply, Sanitation, and Electricity Services"
+2,https://www.worldbank.org/content/dam/theworldbankgroupasset/document/2026/m300-energy-compacts/Gabon-National-Energy-Compact-Mission-300.pdf,held,held as raw/2026/2026-01-01-gabon-pacte-national-energie-mission-300.md,,0,,
+3,https://www.banque-france.fr/system/files/2024-11/CEMAC_Gabon_2023.pdf,fetched,,scripts/.workroot/study/ruralelectrification/cache/GAB/3.txt,8131,pdf,Monographie Gabon
+4,https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=GA,not-a-document,World Bank indicator widget,,0,,
+5,https://gaboneco.ga/en/donnees/data-stories/acces-electricite-production-hydraulique,fetched,,scripts/.workroot/study/ruralelectrification/cache/GAB/5.txt,1395,html,"Access to electricity is rising, generation remains partly hydro"

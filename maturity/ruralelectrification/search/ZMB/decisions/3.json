@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The compact states rural electricity access at only 34.9% (urban 80.3%) from the 2023 National Energy Access Survey, with a 51 percent rural target under the 2008 master plan.",
+ "title": "National Energy Compact for Zambia",
+ "publisher": "Government of Zambia / World Bank Mission 300",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

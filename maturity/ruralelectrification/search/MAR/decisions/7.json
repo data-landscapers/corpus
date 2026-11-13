@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "",
+ "title": "Bilan Electrique Marocain 2023",
+ "publisher": "ONEE - Branche Electricité",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": "already-held: same 99.88% end-2023 figure as the ONEE 2023 annual report (lead 6)"
+}

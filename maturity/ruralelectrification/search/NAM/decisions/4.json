@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The Compact states national access of 59.5% in 2023 and roughly 212,519 rural households without electricity per the 2023 Census, with urban areas far ahead of rural.",
+ "title": "National Energy Compact",
+ "publisher": "Government of Namibia / World Bank (Mission 300)",
+ "published": "2025-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

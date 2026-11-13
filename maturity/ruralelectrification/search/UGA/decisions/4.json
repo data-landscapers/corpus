@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Afrobarometer's January 2024 survey finds 14% of rural residents connected to the grid and 53% living in grid-served areas.",
+ "title": "Despite government efforts, most Ugandans still lack reliable electricity",
+ "publisher": "Afrobarometer",
+ "published": "2024-11-27",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The Namibia Energy Compact says about 212,519 rural households and 94,005 urban households lack electricity per the 2023 Census, with national access at 59.5%.",
+ "title": "Over 50% of Namibians live without power",
+ "publisher": "Namibia Business Review",
+ "published": "2025-12-22",
+ "date_source": "proxy",
+ "why_not": ""
+}

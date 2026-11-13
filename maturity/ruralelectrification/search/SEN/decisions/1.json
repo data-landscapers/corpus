@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Le taux d'électrification rurale est de 65,6 % fin 2023 contre 60,9 % en 2022 (65,58 % des populations rurales ont accès à l'électricité).",
+ "title": "Rapport annuel 2023, secteur énergie",
+ "publisher": "Ministère de l'Energie, du Pétrole et des Mines",
+ "published": "2025-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

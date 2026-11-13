@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Rural electrification rate of the Kingdom reached 99.88% at end 2023.",
+ "title": "Rapport d'activité 2023",
+ "publisher": "ONEE - Branche Electricité",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The African Development Bank's country strategy states access to electricity is 86.6% in urban and 30.4% in rural areas of Mali.",
+ "title": "Country Strategy Paper 2026-2031 (Mali)",
+ "publisher": "African Development Bank",
+ "published": "2026-04",
+ "date_source": "source",
+ "why_not": ""
+}

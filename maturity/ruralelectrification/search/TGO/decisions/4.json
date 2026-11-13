@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "The annex of key sector indicators gives rural access to electricity as 18% in 2020 and 47.8% in 2024, with a 2030 target of 100%.",
+ "title": "Pacte National Énergie pour la République Togolaise",
+ "publisher": "République Togolaise (Mission 300 energy compact)",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

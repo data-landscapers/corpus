@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Morocco's rural electrification rate is stated as 99.92% at end 2025, per the report on public enterprises accompanying the 2026 Finance Bill.",
+ "title": "Électricité et eau potable : la quasi-totalité des zones rurales désormais raccordée",
+ "publisher": "Le Matin",
+ "published": "2025-10-29",
+ "date_source": "proxy",
+ "why_not": ""
+}

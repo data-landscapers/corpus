@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "date_source": "source",
+ "why_not": "off-topic: gives the household connection rate (99.9% in 2023) for governorates, with no rural figure.",
+ "select": false,
+ "fact": "",
+ "title": "Rapport annuel sur les indicateurs d'infrastructure 2023",
+ "publisher": "Institut National de la Statistique",
+ "published": "2023"
+}

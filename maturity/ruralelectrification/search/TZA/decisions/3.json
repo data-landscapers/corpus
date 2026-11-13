@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "rural",
+ "aspect": "access",
+ "fact": "Rural electricity access in mainland Tanzania is 69.6 percent (NBS 2020), and rural connectivity about 36 percent in 2022.",
+ "title": "National Energy Compact for United Republic of Tanzania",
+ "publisher": "Government of Tanzania",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}
