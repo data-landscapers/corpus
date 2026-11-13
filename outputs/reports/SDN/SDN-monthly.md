@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: SDN
-ledger_rows: 31
+ledger_rows: 32
 not_held: 5
-record: 19a4ee380de4
+record: 753ec833cc1a
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: 19a4ee380de4
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 </nav>
 
 ## Governance
@@ -376,6 +378,14 @@ Bank of Khartoum has opened a USSD transfer service on MTN lines, so customers c
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Sudan traders ‘missing millions’ as hackers target Bankak app](https://www.dabangasudan.org/en/all-news/article/sudan-traders-missing-millions-as-hackers-target-bankak-app)** — Dabanga Radio TV Online, 12 November 2026
+
+More than 50 Bank of Khartoum customers in Kordofan say thieves took money through the Bankak app, Radio Dabanga reported on 12 November 2026. The Dar Hamar Emergency Rooms put losses at SDG 18-45 million each, from thefts on 14 October and 3 November. The group accuses the bank of not freezing accounts and is preparing legal action.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -615,6 +625,28 @@ A joint meeting of Khartoum locality and two Khartoum State councils agreed that
 **[Country Profile on AI Governance: Sudan](https://www.aipolicy.africa/country-profiles/sudan)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Sudan scored 0.23 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 52 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Governance and Regulation (0.50); the profile finds no AI strategy or data protection law, and a Data and AI Authority created by decree in 2025.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+</nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UNDP digital financial literacy assessment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital finance skills urgently needed to keep economic transactions going and protect individual incomes during Sudan's war, UNDP assessment finds](https://www.undp.org/arab-states/press-releases/digital-finance-skills-urgently-needed-keep-economic-transactions-going-and-protect-individual-incomes-during-sudans-war)** — United Nations Development Programme, 12 November 2026
+
+UNDP published an assessment of digital financial literacy in Sudan on 5 November 2026. It surveyed 152 people in River Nile, Kassala and Gedaref; the sample is not nationally representative. Of these, 78% own a phone but only 44% have a bank account, 36% a mobile payment app and 10% a digital wallet. UNDP found that wallets from different providers often cannot pay one another.
 
 </div>
 
