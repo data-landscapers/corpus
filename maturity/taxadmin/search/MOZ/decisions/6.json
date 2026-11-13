@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;uptake",
+ "fact": "IMF report: at end-December 2022, 45 percent of total tax receipts were collected through e-tributação, and at end-March 2023 the Portal do Contribuinte covered 37 percent of VAT and small taxpayers and 72 percent of large taxpayers, working for VAT and simplified tax only.",
+ "title": "Mozambique: Almost half of taxes collected electronically in 2022",
+ "publisher": "Club of Mozambique",
+ "published": "2023-07-19",
+ "date_source": "source",
+ "why_not": ""
+}

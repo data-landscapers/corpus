@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "ZIMRA public notice 5 of 2024 says taxpayers pay by transfer or deposit into ZIMRA single bank accounts in 15 banks, integrated with TaRMS.",
+ "title": "Payment of Taxes in TaRMS",
+ "publisher": "Zimbabwe Revenue Authority",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

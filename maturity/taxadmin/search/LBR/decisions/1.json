@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "A World Bank mission of September 2024 found the Liberia Integrated Tax Administration System (LITAS) fully operational for online tax filing and payment and rolled out to all major tax offices.",
+ "title": "Liberia: Implementation Support Mission for the Public Financial Management Reforms for Institutional Strengthening Project (P165000), Aide-Memoire",
+ "publisher": "World Bank",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

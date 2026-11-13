@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "The NRA announced in August 2025 that all excise taxpayers file and pay electronically, with all income tax and GST filings done electronically through ITAS, fully operational since 2021.",
+ "title": "NRA Introduces Online Tax Filing for Excise Taxpayers in Sierra Leone",
+ "publisher": "Sierraloaded",
+ "published": "2025-08-22",
+ "date_source": "source",
+ "why_not": ""
+}

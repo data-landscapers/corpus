@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "A public tender for implementing and operating an integrated technology platform for managing internal taxes was published on 16 January 2026, with proposals due 21 January 2026.",
+ "title": "Prestação de Serviço de Implementação e Operação de um Sistema Integrado para Administração Tributária - Impostos Internos",
+ "publisher": "MozBids (source UFSA)",
+ "published": "2026-01-16",
+ "date_source": "source",
+ "why_not": ""
+}

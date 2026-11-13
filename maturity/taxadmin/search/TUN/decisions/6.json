@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "By end December 2021, 89,506 companies were members of the tele-declaration and tele-payment system, up 14% on 2020, which recovers 95% of periodically declared taxes.",
+ "title": "Updated Reform Matrix 2022 - Tunisia",
+ "publisher": "World Bank",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

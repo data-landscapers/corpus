@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.rra.gov.rw/fileadmin/Folder_for_2025/ANNUAL_REPORT_2024-2025_Final_version.pdf,held,held as raw/2025/2025-10-01-rra-annual-activity-report-2024-25.md,,0,,
+2,https://www.rra.gov.rw/fileadmin/user_upload/RRA_ANNUAL_REPORT_2023-2024.pdf,fetched,,scripts/.workroot/study/taxadmin/cache/RWA/2.txt,10724,pdf,
+3,https://www.rra.gov.rw/fileadmin/Folder_for_2025/RRA_Tax_Handbook_2025_Final.pdf,held,held as raw/2025/2025-01-01-rwa-rra-tax-handbook-2025.md,,0,,
+4,https://www.rra.gov.rw/fileadmin/Folder_for_2025/15_Technology_and_Tax_Adoption_and_Impacts.pdf,fetched,,scripts/.workroot/study/taxadmin/cache/RWA/4.txt,21361,pdf,
+5,https://www.rra.gov.rw/fileadmin/user_upload/MYRRA_booklet_ENG_2024.pdf,fetched,,scripts/.workroot/study/taxadmin/cache/RWA/5.txt,579,pdf,
+6,https://www.rra.gov.rw/fr/translate-to-french-details?cHash=44e5bbed093f6c298f9cde9e38ed4191&tx_news_pi1=1682&tx_news_pi1=News&tx_news_pi1=detail,unfetchable,HTTP 404; no usable Wayback capture,,0,,
+7,https://www.developmentaid.org/tenders/view/1582372/national-it-architect-for-rra-system-modernization,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+8,https://www.rra.gov.rw/fileadmin/user_upload/RRA_FAQs_INCOME_TAX__2024.pdf,fetched,,scripts/.workroot/study/taxadmin/cache/RWA/8.txt,790,pdf,

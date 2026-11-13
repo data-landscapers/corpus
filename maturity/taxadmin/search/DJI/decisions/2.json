@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "The December 2024 appraisal states the DGI information system (AGIR) does not support online tax filings and payments, the tax system relies on manual processes, and the new project finances the remaining ITAS modules including e-filing and e-payments.",
+ "title": "Project Appraisal Document: Economic and Financial Governance Project",
+ "publisher": "World Bank",
+ "published": "2024-12-16",
+ "date_source": "source",
+ "why_not": ""
+}

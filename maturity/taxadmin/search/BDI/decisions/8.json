@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "The OBR guide dated July 2023 states all e-payments ordered from the Umutangakori portal are executed as interbank transfers confirmed by banks through the eBanque console.",
+ "title": "Console eBanque - Console de gestion des télépaiements - Guide utilisateur",
+ "publisher": "Office Burundais des Recettes (OBR)",
+ "published": "2023-07",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "taxsystem",
+ "aspect": "",
+ "fact": "",
+ "title": "Data Management at the Senegalese Tax Authority",
+ "publisher": "ICTD",
+ "published": "2022-12-07",
+ "date_source": "source",
+ "why_not": "unfetchable: empty extraction"
+}

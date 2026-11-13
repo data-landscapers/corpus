@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment;uptake",
+ "fact": "For the 2025 e-Filing Season the MRA states it is now a legal obligation to submit individual income tax returns and pay any tax electronically, due 15 October 2025.",
+ "title": "Individual e-Filing guide, Season 2025",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

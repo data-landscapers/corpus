@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "DGI's note of 18 February 2026 extended G n°50 deadlines because of the migration of the SI-Jibayatic tax information system to the Finance Ministry data center, allowing paper filing at tax collectors' counters if the online system stays disrupted, and the article states online filing became mandatory on 1 January 2026 for real-regime taxpayers.",
+ "title": "Impôts : la DGI repousse les délais de dépôt de plusieurs déclarations fiscales",
+ "publisher": "Maghreb Emergent",
+ "published": "2026-02-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

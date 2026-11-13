@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "Corporate and personal income tax for 2023 is declared through E-tax or by phone (*800#), with the deadline 31 March 2024, and paid via mobile money (*182*3*6#).",
+ "title": "Frequently asked questions on corporate and personal income tax: 2023 declaration and payment",
+ "publisher": "Rwanda Revenue Authority",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

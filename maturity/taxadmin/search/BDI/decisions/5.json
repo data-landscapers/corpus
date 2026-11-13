@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment;uptake",
+ "fact": "OBR launched the Umutangakori online filing and payment portal on 1 August 2023 and said no manual declaration would be accepted from medium and large taxpayers.",
+ "title": "L'OBR lance officiellement le système de déclaration et de paiement en ligne des impôts et des taxes",
+ "publisher": "Agence Burundaise de Presse (ABP)",
+ "published": "2023-08-02",
+ "date_source": "source",
+ "why_not": ""
+}

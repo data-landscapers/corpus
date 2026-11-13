@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;uptake",
+ "fact": "BURS Commissioner General said 77% of the 38,000 individual tax return filings for the past financial year were submitted online.",
+ "title": "BURS ENCOURAGES ONLINE FILING AFTER FALLING SHORT OF TAX RETURN TARGET",
+ "publisher": "Gabz FM",
+ "published": "2024-07-02",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "On 20 January 2021 the MRA reminded taxpayers that tax payment should be electronic, by direct debit or online credit card, with internet banking phased out from 1 January 2021 and Orange Money mobile money ending 5 April 2021.",
+ "title": "Communique: Payment of Taxes",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2021-01-20",
+ "date_source": "source",
+ "why_not": ""
+}

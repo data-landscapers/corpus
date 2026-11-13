@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.afdb.org/en/news-and-events/press-releases/zimbabwe-african-development-bank-group-funds-new-tax-collection-and-revenue-management-system-87072,held,held as raw/2025/2025-09-23-afdb-zimbabwe-tarms-launch.md,,0,,
+2,https://www.techzim.co.zw/2025/08/zimra-commissions-tarms-digital-tax-system/,held,held as raw/2025/2025-08-19-zwe-zimra-commissions-tarms-zimbabwe-s-new-digital-tax-system.md,,0,,
+3,https://www.zimra.co.zw/public-notices?download=4531%3Apublic-notice-44-of-2026-returns-and-payments-august-2026-due-dates,fetched,,scripts/.workroot/study/taxadmin/cache/ZWE/3.txt,563,pdf,
+4,https://zimra.co.zw/about-us/annual-reports?download=4361%3Azimra-2024-annual-report,held,held as raw/2025/2025-01-01-zwe-zimra-2024-annual-report.md,,0,,
+5,https://www.zimra.co.zw/public-notices?download=4062%3Apublic-notice-69-of-2024-tarms-release-3,held,held as raw/2024/2024-09-13-zimra-public-notice-69-tarms-release-3.md,,0,,
+6,https://www.zimra.co.zw/public-notices?download=3639%3Apublic-notice-5-of-2024-payment-of-taxes-in-tarms,fetched,,scripts/.workroot/study/taxadmin/cache/ZWE/6.txt,596,pdf,
+7,https://zimra.co.zw/public-notices?download=4100%3Apublic-notice-75-of-2024-submission-of-outstanding-returns-and-payment-of-tax&start=140,fetched,,scripts/.workroot/study/taxadmin/cache/ZWE/7.txt,336,pdf,
+8,https://zimra.co.zw/news/20-story/2294-tarms-innovation-heralding-modernity-tax-agent-module-is-live,fetched,,scripts/.workroot/study/taxadmin/cache/ZWE/8.txt,375,html,Categories

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "The terms of reference say the legacy DTIS is being replaced by a new e-Tax application that records payment obligations and reconciles receipts through the banking system, but e-Tax needs significant repair and an integrated tax administration system is only planned.",
+ "title": "Terms of Reference for Development of the NRA ICT Strategy and Policy Framework",
+ "publisher": "South Sudan Revenue Authority",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

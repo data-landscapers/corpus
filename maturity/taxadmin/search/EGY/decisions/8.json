@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "The ETA's October 2022 payments FAQ for the new core system says taxpayers can pay through the portal by credit card, or via bank branches or POS terminals at tax offices using a claim number.",
+ "title": "دليل الأسئلة الشائعة عن منظومة الضريبة الرئيسية الجديدة (SAP) - نشاط المدفوعات",
+ "publisher": "مصلحة الضرائب المصرية",
+ "published": "2022-10",
+ "date_source": "source",
+ "why_not": ""
+}

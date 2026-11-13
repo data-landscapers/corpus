@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment;filing",
+ "fact": "Taxpayers file returns on TaxPro Max and pay through approved payment service providers (Quickteller, Remita, Etranzact, Flutterwave, XpressPay) by online banking, cards, transfers or wallets, or at a bank.",
+ "title": "Pay Taxes in Minutes: The New Simple Process Every Taxpayer Must Know",
+ "publisher": "Legit.ng",
+ "published": "2025-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

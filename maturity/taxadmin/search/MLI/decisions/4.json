@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "In the DGI's Impôt-Com no. 38 (August 2025) the Director General states E-Impôt has been in production since January 2019 and large-enterprise (DGE) and medium-enterprise (CIME) taxpayers file returns electronically.",
+ "title": "Direction générale des Impôts (DGI) : Les avantages de la digitalisation des procédures administratives",
+ "publisher": "Le Challenger (maliweb.net)",
+ "published": "2026-01-21",
+ "date_source": "source",
+ "why_not": ""
+}

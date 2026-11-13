@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "The DGI's March 2025 e-filing guide for the DSF annual return covers large, medium and small taxpayers and lists payment by OTP online, bank transfer, cash at agent counters and mobile phone.",
+ "title": "Guide du contribuable sur le dépôt électronique de la Déclaration Statistique et Fiscale 2025",
+ "publisher": "Direction Générale des Impôts",
+ "published": "2025-03-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

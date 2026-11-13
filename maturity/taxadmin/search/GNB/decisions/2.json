@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "The IMF states that Kontaktu, the electronic tax filing and payment system including electronic payments through mobile platforms, has marked progress in revenue administration reform but its potential is hindered by low capacity in the inland revenue department.",
+ "title": "Domestic Revenue Mobilization in Guinea-Bissau",
+ "publisher": "International Monetary Fund",
+ "published": "2025-08",
+ "date_source": "source",
+ "why_not": ""
+}

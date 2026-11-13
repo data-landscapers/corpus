@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "ERS said on 30 July 2026 that taxpayers upload and file returns into the system and pay by EFT, bank deposits, MoMo Pay and POS at service centres, which no longer accept cash.",
+ "title": "ERS urges taxpayers to file returns early",
+ "publisher": "Swazi24",
+ "published": "2026-08-03",
+ "date_source": "source",
+ "why_not": ""
+}

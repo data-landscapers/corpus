@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "In January 2020 NRA officials said returns were filed manually on paper forms collected from NRA offices and that the Authority was on the verge of launching an e-filing system.",
+ "title": "NRA Meets with Financial Parliamentary Committee",
+ "publisher": "AYV News",
+ "published": "2020-01-10",
+ "date_source": "source",
+ "why_not": ""
+}

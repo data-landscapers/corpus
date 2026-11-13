@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "taxsystem",
+ "aspect": "",
+ "fact": "",
+ "title": "Arrêté N° 911 Adoptant télépaiement comme mode de paiement des impôts et taxes par le Code Général des Impôts",
+ "publisher": "Ministère des Finances",
+ "published": "2023-10",
+ "date_source": "source",
+ "why_not": "headline-only-stub: the page holds only the title and file links, the arrêté text was not fetched"
+}

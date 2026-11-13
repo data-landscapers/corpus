@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "taxsystem",
+ "date_source": "proxy",
+ "why_not": "",
+ "select": true,
+ "aspect": "payment",
+ "fact": "RSL e-Payments platform accepts domestic tax and customs payments by EcoCash, M-Pesa and Standard Lesotho Bank channels.",
+ "title": "Guide on e-Payments",
+ "publisher": "Revenue Services Lesotho",
+ "published": "2026-09"
+}

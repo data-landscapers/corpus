@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "A KfW-financed tender was awarded on 2 December 2022 for implementation consulting in the preparatory phase of modernising the Ministry of Finance's IT systems.",
+ "title": "Consulting Services, Modernisation of the IT Systems of the Ministry of Finance",
+ "publisher": "GTAI",
+ "published": "2022-12-02",
+ "date_source": "source",
+ "why_not": ""
+}

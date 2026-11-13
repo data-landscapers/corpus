@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "On 3 November 2026 the finance minister told parliament's finance committees that the unified tax account, allowing remote viewing of tax files and electronic calculation and payment of taxes, will enter service in the first quarter of 2027.",
+ "title": "وزيرة المالية تفصح عن إطلاق الحساب الجبائي الموحد والانتدابات المباشرة لعام 2027",
+ "publisher": "سبق (Sabbq)",
+ "published": "2026-11-03",
+ "date_source": "source",
+ "why_not": ""
+}

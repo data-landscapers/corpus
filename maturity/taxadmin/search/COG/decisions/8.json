@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "MTN Congo states taxpayers can pay E-Tax tax liabilities through the tax portal with MTN Mobile Money, free of charge for amounts of 1 to 750,000 FCFA.",
+ "title": "E-PAY For E-Tax, E-Douane",
+ "publisher": "MTN Congo",
+ "published": "2024-11-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

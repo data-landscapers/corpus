@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "Art. 561-1 of the Code général des impôts as updated to the 2023 finance law makes electronic filing and electronic payment mandatory for taxpayers of the large and medium enterprise directorates.",
+ "title": "Code général des impôts 2023 (à jour avec la loi de finances 2023)",
+ "publisher": "Direction générale des impôts",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

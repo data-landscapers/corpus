@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "The DGE director states e-filing and e-consultation have been deployed since January 2019 and that e-services are mandatory for Large Enterprise Directorate taxpayers from June 2021 (Article 28 of the Livre de Procédures Fiscales).",
+ "title": "INFORMATION AUX CONTRIBUABLES DE LA DGE",
+ "publisher": "Direction Générale des Impôts du Mali",
+ "published": "2022-03-02",
+ "date_source": "source",
+ "why_not": ""
+}

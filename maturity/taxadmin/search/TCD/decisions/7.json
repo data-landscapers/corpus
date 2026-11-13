@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment;uptake",
+ "fact": "On 30 November 2023 the Director General of Taxes said E-Tax, which allows online declaration and payment including via UBA bank channels, is not much used by firms and individuals.",
+ "title": "Economie : la Direction générale des impôts appelle les contribuables à l'utilisation de E-Tax",
+ "publisher": "Tchadinfos",
+ "published": "2023-11-30",
+ "date_source": "source",
+ "why_not": ""
+}

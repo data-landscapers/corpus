@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "The June 2021 draft says income and sales tax processes are manual, with taxpayers submitting computations to IRD officers and paying at the Central Bank or commercial banks, and recommends designing an ITAS with online filing and payment.",
+ "title": "Consultancy Services for Development of Somalia Integrated Tax Administration System, Phase 1 Deliverable 2: Business Systems Architecture - Inland Revenue",
+ "publisher": "Ministry of Finance, Federal Government of Somalia (KPMG Advisory Services and KasmoDev Consulting)",
+ "published": "2021-06",
+ "date_source": "source",
+ "why_not": ""
+}

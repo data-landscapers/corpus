@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://dgi.bf/wp-content/uploads/2025/12/DGI_TBSI_2023_19-02-2025_VF_DGI.pdf,fetched,,scripts/.workroot/study/taxadmin/cache/BFA/1.txt,19911,pdf,Tableau de bord statistique des impôts
+2,https://dgi.bf/echange-dexperiences-entre-administrations-fiscales-une-delegation-burundaise-a-la-direction-generale-des-impots/,fetched,,scripts/.workroot/study/taxadmin/cache/BFA/2.txt,306,html,Echange d’expériences entre administrations fiscales : une délégation burundaise à la Direction générale des impôts
+3,https://www.cowater.com/project/feasibility-study-for-the-implementation-of-sigtas-at-the-general-tax-directorate/,fetched,,scripts/.workroot/study/taxadmin/cache/BFA/3.txt,154,html,Feasibility study for the implementation of SIGTAS at the General Tax Directorate
+4,https://ictd.ac/publication/electronic-services-and-tax-compliance-evidence-from-medium-and-small-businesses-in-burkina-faso/,fetched,,scripts/.workroot/study/taxadmin/cache/BFA/4.txt,306,html,Electronic Services and Tax Compliance: Evidence from Medium and Small Businesses in Burkina Faso | ICTD
+5,https://thedocs.worldbank.org/en/doc/79e97f4f35d619dbc574b3236f127c44-0630092024/original/Burkina-Faso-Reform-Matrix.pdf,held,held as raw/2024/2024-01-01-bfa-worldbank-reform-matrix.md,,0,,
+6,https://dgi.bf/wp-content/uploads/2023/10/CODE-GENERAL-DES-IMPOTS-2023-A-JOUR-AVEC-LA-LOI-DE-FINANCE-2023.pdf,fetched,,scripts/.workroot/study/taxadmin/cache/BFA/6.txt,194813,pdf,
+7,https://dgi.bf/wp-content/uploads/2023/10/ARRETE-TELEPROCEDURES.pdf,held,held as raw/2021/2021-01-01-dgi-arrete-teleprocedures-esintax.md,,0,,
+8,https://esintax.bf/,rejected,rejected 2026-08-25: not-a-document,,0,,

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment;uptake",
+ "fact": "The Ministry of Finance announced that from 1 November 2026 public entities must make tax declarations and pay taxes, duties and withholdings electronically on the DGI platform.",
+ "title": "وزارة المالية تلزم المؤسسات العمومية باعتماد الفوترة والتصريح والدفع إلكترونياً ابتداءً من نوفمبر",
+ "publisher": "موريتاني بوست",
+ "published": "2026-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

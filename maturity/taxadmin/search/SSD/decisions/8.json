@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "Taxpayers must declare and file returns and pay tax through the eTax portal from 1 July 2021, replacing the manual system.",
+ "title": "South Sudan implements an electronic tax system",
+ "publisher": "EY Tax News",
+ "published": "2021-06-30",
+ "date_source": "source",
+ "why_not": ""
+}

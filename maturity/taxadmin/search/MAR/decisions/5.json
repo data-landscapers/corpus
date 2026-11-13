@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment;filing",
+ "fact": "The DGI 2024 activity report states SIMPL taxpayers file and pay electronically, with 4,905,730 e-filings in 2024 and 91.2% of revenue paid online.",
+ "title": "Rapport d'activité 2024",
+ "publisher": "Direction Générale des Impôts",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

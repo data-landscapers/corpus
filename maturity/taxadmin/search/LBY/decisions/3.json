@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "Finance Minister Decision No. 448 of 2025 accepts bank and postal transfers as official methods of paying income tax and directs the Tax Authority to prepare the infrastructure.",
+ "title": "New decision introduces electronic tax collection system",
+ "publisher": "The Libya Observer",
+ "published": "2025-11-10",
+ "date_source": "source",
+ "why_not": ""
+}

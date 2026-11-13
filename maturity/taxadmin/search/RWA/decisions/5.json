@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "MyRRA was launched as a single portal replacing E-tax, LGT, ESW and NFR, letting taxpayers view and fill declarations and make payments online.",
+ "title": "User guide on navigating MyRRA system",
+ "publisher": "Rwanda Revenue Authority",
+ "published": "2024-02",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "On 11 September 2025 the MRA Director-General said the assessment side is moving from basic digital filing to pre-assessment tools using third-party data.",
+ "title": "Press release: Regional TADAT Workshop marks milestone in tax system reforms",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2025-09-11",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "taxsystem",
+ "date_source": "source",
+ "why_not": "",
+ "select": true,
+ "aspect": "filing;payment",
+ "fact": "AfDB progress report of 14 June 2024 says e-taxation including e-filing, e-registration and e-payment was developed, with payment gateway integrations under testing and the e-filing roll-out for VAT and PAYE delayed by data cleansing and ETPM limits.",
+ "title": "Implementation Progress and Results, Lesotho Tax Modernisation Project (P-LS-KF0-003)",
+ "publisher": "African Development Bank",
+ "published": "2024-06-14"
+}

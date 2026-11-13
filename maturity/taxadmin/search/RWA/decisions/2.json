@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;uptake",
+ "fact": "In FY 2023/24 the share of declarations filed electronically was 99.7% for CIT, 100% for PAYE and PIT, 100% for excise and 96.6% for VAT.",
+ "title": "RRA Annual Report 2023/24",
+ "publisher": "Rwanda Revenue Authority",
+ "published": "2024-10",
+ "date_source": "source",
+ "why_not": ""
+}

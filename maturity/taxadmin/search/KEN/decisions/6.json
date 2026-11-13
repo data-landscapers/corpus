@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;uptake",
+ "fact": "In June 2023 KRA reported 5.6 million taxpayers using iTax against a database of at least 7.0 million registered taxpayers, and Treasury proposed ending manual submission of tax information.",
+ "title": "Manual tax filers put on notice: Inside Kenya Kwanza's chase for tax payers' compliance data",
+ "publisher": "Daily Nation",
+ "published": "2023-06-19",
+ "date_source": "source",
+ "why_not": ""
+}

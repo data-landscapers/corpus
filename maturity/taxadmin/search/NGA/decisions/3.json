@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "In July 2026 the FCT Internal Revenue Service launched Taxporta, through which taxpayers register, file returns, pay taxes and obtain tax clearance certificates online.",
+ "title": "FCT-IRS Unveils Digital Tax Platform, Moves To Simplify Compliance Under New Tax Regime",
+ "publisher": "Independent Newspaper Nigeria",
+ "published": "2026-07",
+ "date_source": "source",
+ "why_not": ""
+}

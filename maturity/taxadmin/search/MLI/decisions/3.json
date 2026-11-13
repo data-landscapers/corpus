@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "On 27 July 2026 the African Development Bank published a tender for equipment and software for the DGI's new business information system for tax payment by bank card and mobile phone.",
+ "title": "AAO - Mali - Acquisition d'équipements et de logiciels informatiques pour soutenir la mise en place du nouveau Système d’Information (SI) métier de la DGI - PASG",
+ "publisher": "African Development Bank",
+ "published": "2026-07-27",
+ "date_source": "source",
+ "why_not": ""
+}

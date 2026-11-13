@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "Since 2015 online filing and online payment of taxes has been mandatory in Rwanda, through E-tax (web) and M-declaration (feature phone, with mobile money payment).",
+ "title": "Technology and Tax: Adoption and Impacts of E-services in Rwanda",
+ "publisher": "Rwanda Revenue Authority and ICTD",
+ "published": "2023-01",
+ "date_source": "source",
+ "why_not": ""
+}

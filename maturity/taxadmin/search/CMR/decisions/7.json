@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "Per a January 2022 Nkafu paper, small simplified-regime taxpayers still file on paper while since 2014 the DGI portal hosts online declaration and payment, and since a 30 December 2020 circular payments run by telepayment, bank, transfer or Mobile Tax.",
+ "title": "The Reform of Income Tax Declaration and Payment Procedures In Cameroon",
+ "publisher": "Nkafu Policy Institute",
+ "published": "2022-01-11",
+ "date_source": "source",
+ "why_not": ""
+}

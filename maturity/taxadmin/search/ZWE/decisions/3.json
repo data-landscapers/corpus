@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "ZIMRA's public notice for August 2026 says all returns must be filed online via the Self-Service Portal except Gaming Operators' and Presumptive Tax on Rental Income returns, and taxes are paid by bank transfer into ZIMRA's single account validated through TaRMS.",
+ "title": "Public Notice: Returns and Payments due August 2026",
+ "publisher": "Zimbabwe Revenue Authority",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

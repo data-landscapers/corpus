@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "taxsystem",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: academic summary, e-filing date 2020 unsupported by primary source"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment;uptake",
+ "fact": "ERS officials said individual income tax returns for 2025/26 must be submitted electronically through eFiling, other channels count as non-compliance, and taxes can be paid by EFT, MoMo and card payments at service centres, with a 30 November 2026 deadline.",
+ "title": "ERS targets multiple-income earners ahead of deadline",
+ "publisher": "Eswatini Daily News",
+ "published": "2026-11-10",
+ "date_source": "source",
+ "why_not": ""
+}

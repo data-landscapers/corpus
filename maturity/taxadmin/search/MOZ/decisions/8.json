@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "",
+ "title": "eDeclaração",
+ "publisher": "Autoridade Tributária de Moçambique",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "headline-only-stub: undated notice page (archive capture), no own publication date"
+}

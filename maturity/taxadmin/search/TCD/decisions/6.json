@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "The Director General of Taxes said E-taxe launched in 2022 and that in 2023 the online declaration and payment module for spontaneous payments went live, with online filing of the statistical and fiscal return still to come in March 2024.",
+ "title": "Réforme fiscale au digitalisation et simplification des procédures",
+ "publisher": "Africa-Press",
+ "published": "2024-03-21",
+ "date_source": "source",
+ "why_not": ""
+}

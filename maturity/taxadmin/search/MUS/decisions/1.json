@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "On 28 August 2026 the MRA announced that individual taxpayers file their income tax returns and pay tax, if any, through the MRA website using a User ID and password.",
+ "title": "Communique: Individual Income Tax Returns e-Filing Season 2026",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2026-08-28",
+ "date_source": "source",
+ "why_not": ""
+}

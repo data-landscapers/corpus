@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;uptake",
+ "fact": "In September 2019 the DGI launched online submission of annual DSF returns via GovIn; over 3,000 of about 11,000 large and medium companies had started and 900 had submitted within a week.",
+ "title": "Cameroon starts e-filing of tax returns using RDF's GovIn system",
+ "publisher": "Revenue Development Foundation",
+ "published": "2019-09-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

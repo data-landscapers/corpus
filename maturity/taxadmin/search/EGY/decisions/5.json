@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "In January 2023 the ETA head said taxpayers of five tax centres must pay arrears by creating a claim on the new core tax system and paying by credit card, bank or CPS, or at government POS terminals linked to it.",
+ "title": "سداد الضريبة عن (المديونيات / المتأخرات)",
+ "publisher": "مصلحة الضرائب المصرية",
+ "published": "2023-01-23",
+ "date_source": "source",
+ "why_not": ""
+}

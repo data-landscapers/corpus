@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "In January 2019 the DGI's user manual described tele-services open to all registered taxpayers to file tax returns online.",
+ "title": "Manuel d'utilisation des télé-services",
+ "publisher": "Direction Générale des Impôts",
+ "published": "2019-01",
+ "date_source": "source",
+ "why_not": ""
+}

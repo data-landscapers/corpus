@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "From July 2020 online filing became mandatory for real-regime taxpayers with turnover of at least 100,000 dinars, with payment by direct debit authorisation on bank or postal accounts.",
+ "title": "Tunisie : Juillet 2020, télédéclaration obligatoire pour ceux dont le chiffre d'affaires est supérieur ou égal à 100 000 dinars",
+ "publisher": "WMC",
+ "published": "2020-06-02",
+ "date_source": "source",
+ "why_not": ""
+}

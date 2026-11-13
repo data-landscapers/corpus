@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "The June 2025 World Bank appraisal says the DGID plans to keep the obsolete SIGTAS running for three years while developing SenTax, a new unified tax administration system covering registration, filing, payment and audit.",
+ "title": "Program Appraisal Document: Strengthening Senegal's Fiscal Sustainability Program",
+ "publisher": "World Bank",
+ "published": "2025-06-02",
+ "date_source": "source",
+ "why_not": ""
+}

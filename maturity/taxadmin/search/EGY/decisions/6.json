@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "In March 2022 the finance minister said taxpayers can file up to 49 electronic return forms under a unified tax registration number and pay electronically by non-cash means, with the core system live since January 2021 and 34% growth in non-cash collections.",
+ "title": "وزير المالية.. في الاحتفال بنجاح المرحلتين الأولى والثانية لمنظومة الإجراءات الضريبية الموحدة المميكنة",
+ "publisher": "وزارة المالية",
+ "published": "2022-03-10",
+ "date_source": "source",
+ "why_not": ""
+}

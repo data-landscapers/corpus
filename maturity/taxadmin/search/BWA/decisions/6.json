@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "Lekgetho Live, BURS's tax management and revenue collection system, enables taxpayers to register, file returns and pay dues online, though stakeholders reported failures leading some to submit returns manually.",
+ "title": "Stakeholders call for system improvement",
+ "publisher": "Daily News (Botswana)",
+ "published": "2022-08-16",
+ "date_source": "source",
+ "why_not": ""
+}

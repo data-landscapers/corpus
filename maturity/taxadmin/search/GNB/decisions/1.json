@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "Since March 2022 all large and medium taxpayers in Guinea-Bissau are required to file electronically through the Kontaktu platform, and electronic payment options rose from zero to six.",
+ "title": "Guinea Bissau: Further Improvements in Tax Compliance; High-Level Summary Technical Assistance Report",
+ "publisher": "International Monetary Fund",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": ""
+}

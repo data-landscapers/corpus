@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "On 17 November 2023 KRA notified that all tax payments by mobile money must go through Government PayBill 222222, using the payment registration number generated in iTax.",
+ "title": "Tax Payment through PayBill Number 222222",
+ "publisher": "Kenya Revenue Authority",
+ "published": "2023-11-17",
+ "date_source": "source",
+ "why_not": ""
+}

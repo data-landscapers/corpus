@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment;filing",
+ "fact": "By end September 2019, 6,441,922 tax payments and over 11.7 million operations had been made online through SIMPL, and from 2018 online filing and payment extended to all taxpayers.",
+ "title": "Le système fiscal marocain fait le pari du digital",
+ "publisher": "Walaw (d'après MAP)",
+ "published": "2019-12-27",
+ "date_source": "source",
+ "why_not": ""
+}

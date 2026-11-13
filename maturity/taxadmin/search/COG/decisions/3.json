@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "Since 3 August 2026 taxpayers can pay taxes online through the Fouta switch after filing on E-Tax, by bank transfer or mobile money, with an electronic receipt.",
+ "title": "Congo : Le paiement des impôts et taxes bascule en ligne",
+ "publisher": "L'Economie",
+ "published": "2026-08-03",
+ "date_source": "source",
+ "why_not": ""
+}

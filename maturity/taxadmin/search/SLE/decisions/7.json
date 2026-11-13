@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "The NRA announced it had begun rolling out ITAS, requiring registered taxpayers to file PAYE, GST, withholding and corporate income tax returns and pay through the ITAS portal, with manual filing and payment no longer allowed for them, and payments through three named banks.",
+ "title": "NRA Announces New Methods of Paying Tax",
+ "publisher": "Sierraloaded",
+ "published": "2021-09-04",
+ "date_source": "source",
+ "why_not": ""
+}

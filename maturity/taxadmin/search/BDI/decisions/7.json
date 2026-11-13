@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "OBR launched tax payment through the CASHTEL mobile-money platform on 6 August 2025, alongside LUMICASH, e-Noti/BANCOBU and FINBANK, for taxpayers not yet on e-KORI.",
+ "title": "Lancement du paiement des impôts et taxes via la plateforme CASHTEL, ce 6 août 2025 à l'Hôtel de Ville, à Bujumbura",
+ "publisher": "Office Burundais des Recettes (OBR)",
+ "published": "2025-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

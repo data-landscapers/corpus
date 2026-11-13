@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "The February 2021 report says Somalia's tax processes are almost entirely manual, the taxpayer registry and tax database are on paper, and tax payments are made directly to tax agents.",
+ "title": "Domestic Resource Mobilization in Somalia",
+ "publisher": "World Bank Group",
+ "published": "2021-02",
+ "date_source": "source",
+ "why_not": ""
+}

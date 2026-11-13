@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "On 17 July 2026 the DGID announced that users of Mon Espace Perso can now pay their taxes online through Orange's Max It app.",
+ "title": "MISE EN SERVICE DU PAIEMENT EN LIGNE DANS L’APPLICATION « MON ESPACE PERSO » (MEP)",
+ "publisher": "DGID Sénégal",
+ "published": "2026-07-17",
+ "date_source": "source",
+ "why_not": ""
+}

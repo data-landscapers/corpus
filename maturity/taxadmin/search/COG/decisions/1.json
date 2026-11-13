@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "From 1 October 2026 taxpayers of the large, medium and oil-and-gas subcontractor units must file returns electronically on E-TAX and pay exclusively through the FOUTA platform, under a Finance Ministry circular of 24 August 2026.",
+ "title": "Congo Republic Sets 1 October Deadline for Mandatory Electronic Tax Filing and Payment",
+ "publisher": "VATupdate",
+ "published": "2026-08-28",
+ "date_source": "source",
+ "why_not": ""
+}

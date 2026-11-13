@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment;uptake",
+ "fact": "In 2025 taxes paid online through SIMPL reached 91.4% of total tax revenue, with 12,304,943 e-payments and 5,031,004 e-filings, and 2,889,312 registered SIMPL users at end 2025.",
+ "title": "Impôts: 91,4% des recettes fiscales encaissées par télépaiement en 2025",
+ "publisher": "le360.ma",
+ "published": "2026-07-04",
+ "date_source": "source",
+ "why_not": ""
+}

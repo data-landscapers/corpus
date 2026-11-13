@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;payment",
+ "fact": "The head of the Algiers tax centre said tax declaration is now done entirely remotely and that tele-payment by direct debit on taxpayers' bank accounts began in May 2023 as a pilot with 150 taxpayer files at the Algiers, Bejaia and Tlemcen tax centres.",
+ "title": "La Direction générale des impôts veut passer au zéro papier",
+ "publisher": "L'Express Algérie",
+ "published": "2023-10-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

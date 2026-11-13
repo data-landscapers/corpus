@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "payment",
+ "fact": "The MRA announced that, effective 1 October 2023, taxpayers can pay the TEVET Levy online through the E-Payment platform, choosing a bank and electronic or manual payment, with the receipt emailed.",
+ "title": "Public Notice: TEVET Levy Payment Now Available Online",
+ "publisher": "Malawi Revenue Authority",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

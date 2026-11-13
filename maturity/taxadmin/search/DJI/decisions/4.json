@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing;uptake",
+ "fact": "At 9 January 2026 the share of tax returns filed and paid on time via ITAS was still 0 percent against a 70 percent target for December 2029.",
+ "title": "Implementation Status and Results Report: Economic and Financial Governance Project",
+ "publisher": "World Bank",
+ "published": "2026-01-27",
+ "date_source": "source",
+ "why_not": ""
+}

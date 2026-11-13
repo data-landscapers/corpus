@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "Decision N°00000294 of 10 April 2026 awards the design, supply and installation of a Système Intégré de Gestion des Impôts et Taxes (SIGIT) to ARABSOFT/C2D/ORADIST/DBS, 24-month delivery.",
+ "title": "Décision N°00000294/D/MINFI/DGI/DAG/SDBME/SB du 10 avril 2026 portant attribution du marché SIGIT",
+ "publisher": "Ministère des Finances (via ARMP)",
+ "published": "2026-04-10",
+ "date_source": "source",
+ "why_not": ""
+}

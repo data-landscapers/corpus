@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "taxsystem",
+ "aspect": "filing",
+ "fact": "ZIMRA says TaRMS Return Management and Payments Management modules went live on 6 December 2023 and Release 2 on 29 February 2024, with 103,859 taxpayers registered.",
+ "title": "TaRMS Innovation Heralding Modernity: Tax Agent Module is live",
+ "publisher": "Zimbabwe Revenue Authority",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}
