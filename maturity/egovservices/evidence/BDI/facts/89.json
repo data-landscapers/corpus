@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-16-bdi-le-permis-de-construire-digitalise",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Burundi Eco reports that OBUHA director-general Leonidas Nibigira announced building-permit applications are taken online from 6 May 2024 through the World Bank-financed Building Permit System, with applications tracked by a system number and SMS or e-mail notice.",
+   "as_of": "2024-05-06",
+   "date_precision": "day",
+   "system": "Building Permit System (BPS)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Building Permit System (BPS)",
+   "country_label": "Burundi",
+   "class": "eservices",
+   "platform": "web portal",
+   "owner": "OBUHA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

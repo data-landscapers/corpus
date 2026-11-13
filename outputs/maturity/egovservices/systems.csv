@@ -9,6 +9,7 @@ BDI,Portail e-Gouv,Burundi,other,national e-government portal (tender),PAFEN / W
 BDI,Portail e-Gouv,Burundi,eservices,,"PAFEN / SETIC, Ministry of Finance, Budget and the Digital Economy",,2026-10-20-bdi-wb-op00476457-pafen-portail-e-gouv-rfp
 BDI,UMUTANGAKORI II,Burundi (umutangakori-dpmc.obr.gov.bi),eservices,,Office Burundais des Recettes,,2026-07-01-bdi-communique-declaration-et-paiement-en-ligne-de-l-impot-foncier
 BDI,e-Kori,Burundi (ekori.obr.gov.bi),other,,Office Burundais des Recettes,,2026-07-01-bdi-communique-declaration-et-paiement-en-ligne-de-l-impot-foncier
+BDI,Building Permit System (BPS),Burundi,eservices,web portal,OBUHA,,2024-05-16-bdi-le-permis-de-construire-digitalise
 BEN,eservices.anip.bj,Benin,eservices,web portal,ANIP,national,2026-01-28 Benin Advances E-Government With Mass Digital ID Adoption
 BEN,ANIP BJ mobile app,Benin,eservices,mobile app,ANIP,national,2026-01-28 Benin Advances E-Government With Mass Digital ID Adoption
 BEN,portail eServices de l'ANIP,Benin,eservices,web portal,ANIP,national,2026-09-18-ben-banouto-anip-eservices-explorez-votre-identite
@@ -143,6 +144,7 @@ EGY,G2G platform,Egypt,other,,MCIT,,2025-03-01-egy-mcit-yearbook-2024
 EGY,Egypt Government Portal (www.Egypt.gov.eg),Egypt,eservices,,MCIT and Ministry of State for Administrative Development,,2005-10-01-egy-mcit-egypts-information-society-fourth-edition
 EGY,Digital Egypt platform,Digital Egypt platform,eservices,,Ministry of Communications and Information Technology,,2026-11-09-egy-22-electronic-notarial-and-real-estate-registry-services
 EGY,Digital Egypt platform,Egypt,eservices,,Ministry of Justice / MCIT,,2026-11-11-egy-remote-power-of-attorney-face-biometric-and-remote-e-signature
+EGY,Digital Egypt,Egypt,eservices,,Ministry of Communications and Information Technology,,2026-11-10-egy-pm-opens-cairo-ict-ai-targets-2030
 ERI,Consular Affairs Processing System (CAPS),Eritrea,eservices,,Ministry of Foreign Affairs,,2024-09-24-eri-embassy-us-launch-caps-online-consular
 ETH,National Rural Land Administration Information System (NRLAIS),ETH,other,,Ministry of Agriculture,,2024-05-30-moa-e-services-nrlais
 ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
@@ -234,6 +236,7 @@ LBR,eLiberia National ePortal,Liberia,eservices,,Ministry of Posts and Telecommu
 LBR,e-Liberia Platform,e-Liberia Platform,other,,Office of the Chief Information Officer,,2026-10-20-lbr-liberia-to-digitalize-16-key-government-services-with-world-bank-s
 LBR,Online Duty-Free Application Platform,Online Duty-Free Application Platform,eservices,,Liberia Revenue Authority,,2025-07-06-lbr-lra-digitizes-rural-customs-offices-rolls-out-online-duty-free-platfor
 LBR,Fatu virtual taxpayer contact center,LRA virtual taxpayer contact center,other,,Liberia Revenue Authority,,2026-11-08-lbr-lra-commissioner-general-highlights-revenue-growth-accountability-and
+LBR,LACC accountability dashboard,Liberia,other,,Liberia Anti-Corruption Commission,,2026-11-12-lbr-lacc-anti-corruption-dashboard
 LBY,e-government portal,Libya,eservices,,"Ministry of Interior, GNU",,2024-03-03-lby-alwasat-e-services-package-launch
 LBY,Electronic visa unit,Libya,eservices,,"Passports, Nationality and Foreigners Affairs Authority",,2026-10-29-lby-lana-passports-authority-773-evisa-applications-week
 LBY,Dawlati platform,Libya,eservices,,Government Communication Centre,,2024-12-26-lby-cabinet-decision-705-2024-dawlati-platform
@@ -267,6 +270,7 @@ MDG,Torolalana,Torolalana,eservices,"multi-channel portal (digital, telephone, p
 MDG,Mahatoky,Mahatoky,eservices,agent-operated helpdesk in post offices,Digital Governance Unit with Paositra Malagasy,pilot in 4 post offices,2024-02-16-mdg-publicdigital-mahatoky-one-stop-counter
 MDG,i-Fanagna,i-Fanagna,eservices,web platform,BIANCO,,2026-10-31-mdg-lutte-contre-la-corruption-le-bianco-lance-i-fanagna-une-plateforme-nu
 MDG,External and domestic financing management platform,Madagascar,other,,Ministry of Economy and Finance (AfDB PREGODI),,2025-01-06-mdg-un-nouvel-outil-national-pour-digitaliser-la-gestion-des-financements
+MDG,Maritime Single Window,"Madagascar, to be deployed",other,digital platform,APMF,,2026-08-07-madagascar-maritime-single-window-indonesia-financing
 MLI,Sigtas / E-Impot,Mali,other,DGI tax management system with teleservices module,Direction generale des impots,,2025-11-26-mali-dgi-recettes-electroniques
 MLI,SIF/GUF,Mali,eservices,,Primature,,2025-05-27-mli-apanews-quatre-plateformes-numeriques
 MLI,SYGOCE,Mali,other,,,,2025-05-27-mli-apanews-quatre-plateformes-numeriques
@@ -388,6 +392,8 @@ SLE,WanGov,Sierra Leone,eservices,mobile app,"Ministry of Communication, Technol
 SLE,WanGov,Sierra Leone,eservices,government portal,Government of Sierra Leone,,2026-07-30-sle-government-launches-online-portal-for-police-clearance-applications
 SLE,Online Business Registration System,Sierra Leone,eservices,,National Investment Board,,2026-11-06-sle-communication-minister-explores-nib-s-new-online-business-re
 SLE,Central Government Service Portal,Unified website and Central Government Service Portal,eservices,,Government of Sierra Leone,,2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government
+SLE,Online Business Registration System (OBRS),Online Business Registration System,eservices,,National Investment Board,,2026-11-11-sle-business-registration-75pct-unregistered
+SLE,Online Business Registration System (OBRS),Online Business Registration System,eservices,,National Investment Board,,2026-11-11-sle-online-business-registration-launch
 SOM,Content Management System (CMS),Somalia,eservices,Typo3,Ministry of Communication and Technology,,2024-09-29-som-govstack-digital-leaders-spotlight-somalia
 SOM,High School Records (HSR),Somalia,eservices,Joget,Ministry of Education,,2024-09-29-som-govstack-digital-leaders-spotlight-somalia
 SOM,Halmeel unified digital government services platform,Halmeel,other,,Unified Public Service Delivery Center (Halmeel),,2026-10-19-som-biometricupdate-halmeel-unified-platform-national-id

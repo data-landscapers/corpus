@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-10-egy-pm-opens-cairo-ict-ai-targets-2030",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Assistant Minister Mahmoud Badawy told the Prime Minister that the Digital Egypt platform offers 261 government services in 29 packages, plus 21 apps.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Digital Egypt",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "The ministry reports Digital Egypt active users grew from 10.4 million to 13.7 million in a year, and transactions from 23.8 million to 36 million.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Digital Egypt",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Egypt",
+   "country_label": "Egypt",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Communications and Information Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

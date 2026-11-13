@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-digitalisation-des-attestations-dimportation-de-vehicules-la-phase-pil",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Mali's trade directorate DGCC started the pilot of digital import certificates for private vehicles on 9 November 2026, with the first certificate entered and issued in the system.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "digital vehicle import certificates",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

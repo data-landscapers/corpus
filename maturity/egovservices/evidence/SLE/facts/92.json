@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-sle-business-registration-75pct-unregistered",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Sierra Leone's President launched the National Investment Board's Online Business Registration System on 10 November 2026, which the document says brings 66 NIB services online (seven registration, 53 post-registration, five document and an appeals service) for applying, uploading documents, tracking and obtaining certificates.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Online Business Registration System (OBRS)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Business Registration System (OBRS)",
+   "country_label": "Online Business Registration System",
+   "class": "eservices",
+   "platform": "",
+   "owner": "National Investment Board",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

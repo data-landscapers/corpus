@@ -2,7 +2,7 @@
 
 ## Government services online
 
-**Services online.** In July 2026 the Burundi Revenue Office said [the land tax declaration for 2026/2027 must be filed online on its UMUTANGAKORI II platform](<https://www.obr.bi/index.php/communiques/2612-communique-declaration-et-paiement-en-ligne-de-l-impot-foncier>). The deadline was 30 September 2026. Taxpayers not yet registered on the platform were asked to visit an office for an access code. In October 2022 the immigration authority had [opened a website for passport, laissez-passer and visa requests](<https://www.burunditimes.com/burundi-travel-document-applications-goes-digital/>).
+**Services online.** In July 2026 the Burundi Revenue Office said [the land tax declaration for 2026/2027 must be filed online on its UMUTANGAKORI II platform](<https://www.obr.bi/index.php/communiques/2612-communique-declaration-et-paiement-en-ligne-de-l-impot-foncier>). The deadline was 30 September 2026. Taxpayers not yet registered on the platform were asked to visit an office for an access code. Since 6 May 2024 the urban planning office has [taken building-permit applications online](<https://burundi-eco.com/le-permis-de-construire-digitalise/>), Burundi Eco reports. In October 2022 the immigration authority had [opened a website for passport, laissez-passer and visa requests](<https://www.burunditimes.com/burundi-travel-document-applications-goes-digital/>).
 
 **Single gateway.** No source found says one national portal carries the services of several ministries. The nearest fact: in October 2026 the World Bank listed [a tender for a national e-Gouv portal](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00476457>) under the PAFEN project.
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-sle-online-business-registration-launch",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Sierra Leone Monitor reports President Bio launched the National Investment Board's Online Business Registration System on 10 November 2026, with complete applications to be processed within 24 hours.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Online Business Registration System (OBRS)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Business Registration System (OBRS)",
+   "country_label": "Online Business Registration System",
+   "class": "eservices",
+   "platform": "",
+   "owner": "National Investment Board",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "2",
-      "services": "underway",
+      "stage": "3",
+      "services": "inservice",
       "gateway": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-003;SLE-001",
-      "gaps": "No source found since October 2023 says ten or more government services can be completed online. No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
-      "note": "WanGov takes applications and payments for a handful of named services (SLE-003, SLE-001), a yes to question 1. The minister's claim of a portal for all services (SLE-002) gives no count, and as in neighbouring cells that is not ten or more, so the cell moves from 3 to 2.",
-      "as_at": "2026-11-03"
+      "stage_sources": "SLE-007;SLE-003",
+      "gaps": "No source found says one national portal carries several ministries' services with one sign-in. No source found gives users, applications or transactions through a national portal.",
+      "note": "The National Investment Board's online registration system, launched on 10 November 2026, puts 66 of its services online, from application to certificate (SLE-007), so ten or more can be completed online. It is one body's system and no shared sign-in across ministries is on record, so it stops at 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

@@ -22,8 +22,8 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 |---|---|
 | 5 Leading | 7 |
 | 4 Operating | 5 |
-| 3 Established | 8 |
-| 2 Nascent | 31 |
+| 3 Established | 9 |
+| 2 Nascent | 30 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
 | No evidence | 0 |
@@ -171,6 +171,13 @@ Ten or more government services could be completed online in 2026; a single gate
 Ten or more government services could be completed online in 2025; a single gateway is not on record.
 
 - New Era says that only 13 public institutions currently offer online services, and NDP6 targets 100% digitalisation of government services by 2029/30 ([source, 2025-08](https://neweralive.na/namibia-targets-full-digital-transformation/)).
+
+### Sierra Leone: 3 Established
+
+The investment board put 66 business services online in 2026; whether one sign-in reaches several ministries is not known.
+
+- Sierra Leone's President launched the National Investment Board's Online Business Registration System on 10 November 2026, which the document says brings 66 NIB services online (seven registration, 53 post-registration, five document and an appeals service) for applying, uploading documents, tracking and obtaining certificates ([source, 2026-11-10](https://www.ecofinagency.com/news-digital/1111-60716-sierra-leone-digitizes-business-registration-as-75-of-firms-remain-unregistered)).
+- The Ministry of Communication, Technology and Innovation launched the WanGov app, where users apply for services, submit documents, track applications and pay, with business registration, tax filings and permits, driver's licences and EDSA meter installations named and more to be added ([source, 2025-02-04](https://sierraloaded.sl/news/ministry-launches-wangov-app/)).
 
 ### South Africa: 3 Established
 
@@ -359,13 +366,6 @@ Seychelles ran an online government services portal from 2024; a count of ten or
 - Seychelles modernised government services through the monServis portal in 2024, and the Import and Export permit online service migrates to it from the E-Services Gateway on 1 May 2026, per the Trade Division and DICT ([source, 2026-05-01](https://www.nation.sc/articles/30391/import-and-export-services-to-transition-to-monservis-portal-on-may-1-2026)).
 - The Government of Seychelles' monServis portal lets users access, communicate and transact with government services online through listed eServices ([source, 2024](https://monservis.gov.sc)).
 - Seychelles Nation reports the government launched a revamped gov.sc, the official Government Portal, designed to give access to services and information ([source, 2026-06-23](https://nation.sc/articles/31239/seychelles-launches-revamped-govsc-portal-to-strengthen-digital-access)).
-
-### Sierra Leone: 2 Nascent
-
-People could apply and pay for some government services by app in 2025; no source found says whether ten or more can be completed online.
-
-- The Ministry of Communication, Technology and Innovation launched the WanGov app, where users apply for services, submit documents, track applications and pay, with business registration, tax filings and permits, driver's licences and EDSA meter installations named and more to be added ([source, 2025-02-04](https://sierraloaded.sl/news/ministry-launches-wangov-app/)).
-- Sierraloaded reports WanGov, deployed at the Gbalamuya border post by the Road Safety Authority and Korlie Ltd, lets people pay online for government services including business registration, permits and licences, with documents collected at the border; no count of services is given ([source, 2025-10-17](https://sierraloaded.sl/news/sierra-leone-digital-platform-border-trade-guinea/)).
 
 ### Somalia: 2 Nascent
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-uga-what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "PML Daily reports Uganda's online business register went live in December 2022 and 279,567 businesses have registered through it, with registration taking about three hours.",
+   "as_of": "2022-12",
+   "date_precision": "month",
+   "system": "online business register (URSB)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
