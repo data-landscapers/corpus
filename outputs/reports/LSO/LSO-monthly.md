@@ -3,9 +3,9 @@ title: Lesotho — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: LSO
-ledger_rows: 12
+ledger_rows: 13
 not_held: 4
-record: 5ccabac0f136
+record: bb4c5bb3cd6b
 ---
 
 # News, Oct – Nov 2026
@@ -133,6 +133,8 @@ Opening Lesotho's third National Science, Technology and Innovation Week, ICT an
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -177,6 +179,22 @@ A World Bank urban and land team told Lesotho's communications ministry it is in
 **[Movable assets unlock loans for businesses](https://www.thereporter.co.ls/2026/10/30/movable-assets-unlock-loans-for-businesses/)** — The Reporter Lesotho, 30 October 2026
 
 The Central Bank of Lesotho and the CAFI project launched campaigns urging small businesses to pledge movable assets as loan collateral. Assets worth M3.7bn have been registered on LERIMA, the electronic registry of interests in movable assets. CAFI also named an electronic data reporting and supervision system among the partnership's results.
+
+</div>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Lesotho Education Management Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From Data Entry to Data Leadership: Lessons from Lesotho's DHIS2 for Education Training](https://www.iped.africa/news-event/from-data-entry-to-data-leadership-lessons-from-lesothos-dhis2-for-education-training)** — AU-IPED (prepared by JMERC), 1 October 2026
+
+All 365 secondary schools report through DHIS2 (LEMIS); 3 of 10 districts trained; no national EMIS policy, Oct 2026.
 
 </div>
 

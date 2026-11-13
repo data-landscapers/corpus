@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: BEN
-ledger_rows: 34
+ledger_rows: 35
 not_held: 4
-record: c8f9416e97aa
+record: e65ead175f79
 ---
 
 # News, Oct – Nov 2026
@@ -77,6 +77,20 @@ Benin's Council of Ministers authorised a pilot of two "Innobox" innovation hous
 **[Pag 2026-2033: Le gouvernement Wadagni définit sa feuille de route](https://lanation.bj/actualites/pag-2026-2033-le-gouvernement-wadagni-definit-sa-feuille-de-route)** — La Nation, 6 November 2026
 
 Benin's Council of Ministers approved the government action programme (PAG) for 2026-2033 on 4 November 2026, La Nation reported. The programme names technology one of two cross-cutting levers. It is to modernise public services, raise productivity and widen market access. The programme targets 7.7% average real growth with 55% private financing. Its projects, overall cost and monitoring indicators were not presented.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National action plan for education and skills data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin Develops National Action Plan to Strengthen Education Data Production and Use](https://www.adeanet.org/en/news/benin-develops-national-action-plan-strengthen-education-data-production-use)** — ADEA, 6 November 2026
+
+Benin action plan: an education data commission, a statistics-law decree and EducMaster interoperability.
 
 </div>
 

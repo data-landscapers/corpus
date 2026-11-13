@@ -3,9 +3,9 @@ title: Mauritania — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: MRT
-ledger_rows: 18
+ledger_rows: 19
 not_held: 3
-record: 806ae4ee1e09
+record: 2f5dfae94114
 ---
 
 # News, Oct – Nov 2026
@@ -301,6 +301,20 @@ Mauritania's health minister and minister of digital transformation met in Nouak
 **[L’Université de Nouakchott lance une plateforme numérique de certification et d’authentification des diplômes et attestations basée sur la technologie blockchain](https://ami.mr/fr/archives/305997)** — AMI, 10 November 2026
 
 Université de Nouakchott launched a blockchain-based platform on 10 November 2026 to issue and verify its diplomas and certificates electronically. It was built with UNDP support and the Tunisian firm Kalis. AMI reports that it is meant to curb forgery and let employers and institutions in Mauritania and abroad check qualifications.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Siraj education platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[تيكنت تحتضن ورشة لتقييم نتائج مسابقة دخول الإعدادية ومراجعة التسجيل عبر منصة «سراج»](https://ainmauritanie.net/archives/4884)** — عين موريتانيا, 11 November 2026
+
+Ministry reviews 2026 lower-secondary entry exam results and candidate registration through Siraj, ahead of 2027.
 
 </div>
 

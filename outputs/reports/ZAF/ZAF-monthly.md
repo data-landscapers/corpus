@@ -4,8 +4,8 @@ compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: ZAF
 ledger_rows: 102
-not_held: 18
-record: c95e574c8c50
+not_held: 17
+record: 86ef9699786a
 ---
 
 # News, Oct – Nov 2026
