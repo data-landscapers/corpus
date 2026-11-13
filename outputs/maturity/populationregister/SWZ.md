@@ -2,11 +2,11 @@
 
 ## Population register
 
-**Register in service.** In October 2025 [Home Affairs said its mopping exercise had improved the National Population Register](<https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/>). It registered births and deaths and converted manual birth certificates in Manzini and Hhohho. It is the only fact held on the subject. No news story or official notice read for this study says more about it. The documents the earlier cell cited were not read. No source found gives the register's size.
+**Register in service.** [In October 2025 Eswatini's Home Affairs ministry said its mopping exercise had improved the National Population Register](<https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/>). [The exercise converted manual birth certificates in Manzini and Hhohho](<https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/>).
 
-**Updated from vital events.** [Home Affairs registered births and deaths in Manzini and Hhohho in the second quarter of 2025/26](<https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/>). It said the exercise improved the National Population Register.
+**Updated from vital events.** [In the second quarter of 2025/26 Home Affairs registered births and deaths in Manzini and Hhohho](<https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/>).
 
-**Source for others.** No source found since October 2023 says other systems take records from the population register. The nearest held fact: [the one given above](<https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/>).
+**Source for others.** No source found since October 2023 says other systems take records from the population register. The nearest held fact: [in October 2025 Home Affairs said the register was improved by converting manual birth certificates](<https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/>).
 
 ***Also on file***. None found.
 

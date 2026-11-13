@@ -2,11 +2,11 @@
 
 ## AI built at home
 
-**Model, dataset or computing.** [Rowe, Gow-Smith and Hepple introduce a new machine translation dataset for Guinea-Bissau Creole (Kiriol) of around 40 thousand parallel sentences with English and Portuguese, and train transformer models on it](<https://arxiv.org/abs/2504.02674>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Model, dataset or computing.** [In April 2025 Rowe, Gow-Smith and Hepple introduced a machine translation dataset for Guinea-Bissau Creole (Kiriol)](<https://arxiv.org/abs/2504.02674>). [It holds around 40 thousand parallel sentences with English and Portuguese](<https://arxiv.org/abs/2504.02674>). [The authors trained transformer models on it](<https://arxiv.org/abs/2504.02674>).
 
-**AI computing.** No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country. The nearest held fact: [the one given above](<https://arxiv.org/abs/2504.02674>).
+**AI computing.** No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country. The nearest held fact: [in April 2025 the authors trained transformer models on the Kiriol dataset](<https://arxiv.org/abs/2504.02674>).
 
-**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://arxiv.org/abs/2504.02674>).
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [in April 2025 the authors introduced Kiriol sentence pairs with English and Portuguese](<https://arxiv.org/abs/2504.02674>).
 
 ***Also on file***. None found.
 
