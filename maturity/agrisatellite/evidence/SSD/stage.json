@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SSD-001;SSD-003",
-      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
-      "note": "Rebuild 2026-10-20: the Joint Food Security Monitor is World Bank-led, not a government service, so it answers question 1 only.",
-      "as_at": "2026-10-20"
+      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use. The Joint Food Security Monitor's monthly alerts (SSD-001, SSD-003) are World Bank-led, not a government service's.",
+      "note": "Housekeeping 68: the Joint Food Security Monitor's monthly NDVI-based alerts (SSD-001, SSD-003) are dated inside the window (July 2026), but question 3 asks it of a government service and the Monitor is World Bank-led. Ruling 114 needs question 2 shown by its own evidence first and no row shows a government service in use, so question 1 only and the cell stays at 2.",
+      "as_at": "2026-11-13"
     }
   ]
 }

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SOM-001;SOM-002",
-      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
-      "note": "Rebuild 2026-10-20: FSNAU is managed by FAO and SWALIM is FAO's, so neither is a government service; question 1 only.",
-      "as_at": "2026-10-20"
+      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use. FSNAU's monthly NDVI maps (SOM-002) are FAO-managed, not a government service's.",
+      "note": "Housekeeping 68: SOM-002's FSNAU NDVI maps are monthly and dated inside the window (August 2026), but question 3 asks it of a government service and FSNAU is managed by FAO. Ruling 114 needs question 2 shown by its own evidence first and no row shows a government service in use, so question 1 only and the cell stays at 2.",
+      "as_at": "2026-11-13"
     }
   ]
 }

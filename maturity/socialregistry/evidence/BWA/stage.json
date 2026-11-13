@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BWA-002",
-      "gaps": "No source found since November 2023 says two or more programmes select from the social registry, or that it is linked to the national ID. The President spoke of its operationalisation in November 2025, after 98% of five programmes' beneficiaries were in it by March 2025.",
-      "note": "Rebuild: by March 2025 the Single Social Registry held 98% of five programmes' beneficiaries (BWA-002); the November 2025 address on its operationalisation does not say it stopped. Inclusion is not selection, so not 4.",
+      "gaps": "No source found since October 2023 says two or more programmes choose who receives support from the social registry, or that it is linked to the national ID. By March 2025 98% of five programmes' beneficiaries were in it, which is enrolment, not selection.",
+      "note": "Housekeeping 68: BWA-002 counts the five programmes' beneficiaries updated in the Single Social Registry, a measure its own report says does not show targeting, and BWA-001 announces operationalisation for beneficiary registration. Neither row, alone or together under ruling 106, says a programme chooses who receives support from the registry, so question 3 is not answered and the cell stays at 3.",
       "as_at": "2026-11-13"
     }
   ]
