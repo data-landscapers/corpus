@@ -1,0 +1,15 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Database record only; every claim is held, outside the study's aspects, or links to a home page.",
+  "claims": {
+    "dpimap-c866bee37e": "nothing: held as ETH-001",
+    "dpimap-5e2d06f1fb": "nothing: held as ETH-001",
+    "dpimap-d4cb8ec341": "nothing: legal validity of the ID is not an aspect assessed",
+    "dpimap-1b275a01e0": "nothing: governing entity is not assessed",
+    "dpimap-fdeac06c82": "nothing: redress mechanism is not assessed",
+    "dpimap-ce0132c47f": "nothing: data storage terms are not assessed",
+    "dpimap-d67413ebb9": "nothing: enrolment rules are not assessed"
+  }
+}

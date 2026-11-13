@@ -1,0 +1,16 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Database record only; the yes is held and the noes are a database's.",
+  "claims": {
+    "dpimap-7d6b87417f": "nothing: held as GHA-001",
+    "dpimap-e9d5741a34": "nothing: a database's no",
+    "dpimap-0eae734ebd": "nothing: a database's no",
+    "dpimap-3944083890": "nothing: governing entity is not assessed",
+    "dpimap-f2406b6a29": "nothing: redress mechanism is not assessed",
+    "dpimap-738a70a747": "nothing: data storage terms are not assessed",
+    "dpimap-47447c7c2d": "nothing: enrolment rules are not assessed",
+    "dpimap-b37460558b": "nothing: a database's no"
+  }
+}

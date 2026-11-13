@@ -1,0 +1,15 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "DPI Map lines for Cote d'Ivoire: the law Yeses are held already; the rest are a no or not assessed.",
+  "claims": {
+    "dpimap-8858a7a016": "nothing: held as CIV-001",
+    "dpimap-1004a8a007": "nothing: held as CIV-001",
+    "dpimap-8e0e3d8905": "nothing: governing body not assessed",
+    "dpimap-0d6328ff4b": "nothing: redress mechanism not assessed",
+    "dpimap-155d60bf69": "nothing: data terms not assessed",
+    "dpimap-e76b43025f": "nothing: a database's no",
+    "dpimap-af974909be": "nothing: data handling terms not assessed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "DPI Map lines are undated 2026-03 checks, superseded by the held NIMC Act 2026 rows or unassessed.",
+  "claims": {
+    "dpimap-559e3a7901": "nothing: held as NGA-001",
+    "dpimap-53340219c2": "nothing: held as NGA-004",
+    "dpimap-acb4c1356c": "nothing: a database's no",
+    "dpimap-06213edf61": "nothing: governing entity not assessed",
+    "dpimap-bcedd256ca": "nothing: redress mechanism not assessed",
+    "dpimap-dae8ae9f40": "nothing: enrolment procedure not assessed",
+    "dpimap-956d7d457f": "nothing: data handling terms not assessed"
+  }
+}

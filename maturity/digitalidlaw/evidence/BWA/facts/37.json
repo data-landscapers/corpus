@@ -1,0 +1,15 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "DPI Map lines for Botswana: its Yes is held already; the rest are Nos or not assessed.",
+  "claims": {
+    "dpimap-ca7526f85f": "nothing: held as BWA-001",
+    "dpimap-af9819acae": "nothing: a database's no",
+    "dpimap-f9a111da5c": "nothing: a database's no",
+    "dpimap-1f8225ec76": "nothing: governing body not assessed",
+    "dpimap-7f8788527d": "nothing: a database's no",
+    "dpimap-63c8a9a471": "nothing: a database's no",
+    "dpimap-a19e34521a": "nothing: a database's no"
+  }
+}

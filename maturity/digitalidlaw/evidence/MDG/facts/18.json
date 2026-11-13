@@ -1,0 +1,16 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "claims": {
+    "dpimap-aa601c1bbf": "nothing: names no law; MDG-001 holds the law as a bill",
+    "dpimap-0e9bc01137": "nothing: names no regulation or year",
+    "dpimap-a34dbcf689": "nothing: not assessed by this study",
+    "dpimap-72f2371a5d": "nothing: not assessed by this study",
+    "dpimap-ed2ce9d63e": "nothing: not assessed by this study",
+    "dpimap-1faf62e4ac": "nothing: a database's no",
+    "dpimap-c77ade03ec": "nothing: names no enrolment rules or year",
+    "dpimap-df560d270e": "nothing: a database's no"
+  },
+  "note": "DPI Map lines state no law, year or system the study's aspects can hold beyond what evidence.csv holds."
+}

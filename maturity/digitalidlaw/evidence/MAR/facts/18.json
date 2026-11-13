@@ -1,0 +1,15 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "claims": {
+    "dpimap-06dd756d81": "nothing: held as MAR-001",
+    "dpimap-9db87fd5f4": "nothing: names no regulation or year",
+    "dpimap-ad18f17c06": "nothing: not assessed by this study",
+    "dpimap-453b823e6d": "nothing: not assessed by this study",
+    "dpimap-bd3db14972": "nothing: not assessed by this study",
+    "dpimap-4edd6b2359": "nothing: names no enrolment rules or year",
+    "dpimap-6f2673d8f1": "nothing: a database's no"
+  },
+  "note": "DPI Map lines state no law, year or system the study's aspects can hold beyond what evidence.csv holds."
+}

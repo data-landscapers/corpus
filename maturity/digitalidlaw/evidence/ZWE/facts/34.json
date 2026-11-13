@@ -1,0 +1,15 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Database record only: the act claim is held already, the rest is a database's no or not assessed by this study.",
+  "claims": {
+    "dpimap-269d79d44c": "nothing: held as ZWE-001",
+    "dpimap-e30c8198f3": "nothing: a database's no",
+    "dpimap-e17fb83b2d": "nothing: a database's no",
+    "dpimap-26f73c48de": "nothing: governing entity not assessed",
+    "dpimap-06e5a5b7aa": "nothing: a database's no",
+    "dpimap-66c1d225d1": "nothing: a database's no",
+    "dpimap-2e5f431607": "nothing: a database's no"
+  }
+}
