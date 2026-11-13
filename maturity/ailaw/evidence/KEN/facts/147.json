@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-kenya-ai-governance-fragmentation",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Bowmans analysis says the AI Bill formally remains before the Senate, though the Senate ICT committee recommended in October 2026 not to proceed until a national AI policy is finalised.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Artificial Intelligence Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "The Media Council code and the Central Bank draft guidance are not stated as law in force."
+}
