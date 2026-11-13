@@ -4,8 +4,8 @@ compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: ZWE
 ledger_rows: 34
-not_held: 6
-record: 8651b2e496ac
+not_held: 5
+record: 5ef30d4bb3ec
 ---
 
 # News, Oct – Nov 2026

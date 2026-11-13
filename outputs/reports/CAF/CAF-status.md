@@ -6,7 +6,7 @@ region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-26
 intersections_read: 6
-sources_cited: 162
+sources_cited: 163
 sections_written: 39
 not_established: 1
 acquire_lines: 27
@@ -139,7 +139,7 @@ Nothing requires the data to sit in the country in the meantime. The [data prote
 
 [Abu Dhabi-based Global South Utilities inaugurated a 50MW solar plant with 15MWh of battery storage at Sakaï on 12 August 2026, reported to raise national generation capacity by more than 60%](https://www.wam.ae/en/article/c1p3six-uae%E2%80%99s-global-south-utilities-delivers-largest), after [a generating unit at the Boali 2 hydroelectric station was repaired and returned to service in January 2026](https://acap-rca.com/2026/01/28/boali-2-le-groupe-g3-de-lusine-hydroelectrique-repare-et-remis-en-service/).
 
-[Electricity reached 17.6% of the population in 2023 - 37.4% in urban areas against 2.3% in rural ones](https://www.theglobaleconomy.com/Central-African-Republic/Access_to_electricity/), among the lowest access rates in the world, and firms that do have a connection recorded [about 28 power cuts in a typical month that year](https://www.ceicdata.com/en/central-african-republic/governance-business-environment/cf-power-outages-in-firms-in-a-typical-month). [Access to Energy scores 6.5 out of 100 in the 2024 Ibrahim Index, 51st of 54 African countries in 2023 and up 2.1 points across the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cf.pdf).
+[The national energy compact put electricity access at 16.8% of the population in 2024, with a target of 50% by 2030](https://www.worldbank.org/content/dam/theworldbankgroupasset/document/2026/m300-energy-compacts/CAR-National-Energy-Compact-Mission-300.pdf). [In 2023 it reached 37.4% in urban areas against 2.3% in rural ones](https://www.theglobaleconomy.com/Central-African-Republic/Access_to_electricity/), among the lowest access rates in the world, and firms that do have a connection recorded [about 28 power cuts in a typical month that year](https://www.ceicdata.com/en/central-african-republic/governance-business-environment/cf-power-outages-in-firms-in-a-typical-month). [Access to Energy scores 6.5 out of 100 in the 2024 Ibrahim Index, 51st of 54 African countries in 2023 and up 2.1 points across the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cf.pdf).
 
 That is the ceiling every digital ambition sits under. [Inadequate electricity supply and a weak national backbone throttle the expansion of telecommunications networks](https://www.itu.int/en/ITU-D/LDCs/Documents/2017/Country%20Profiles/Country%20Profile_Central-African-Republic.pdf), and the constraint is plainest at the mast: provincial relay sites [run off-grid on generators and solar, are stripped by thieves and vandals, and wait on repair crews driving hundreds of kilometres from Bangui over degraded roads](https://corbeaunews-centrafrique.org/centrafrique-a-batangafo-un-mois-sans-reseau-orange-bloque-les-communications-et-les-services-financiers/).
 

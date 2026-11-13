@@ -3,16 +3,16 @@ title: Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: XAF
-ledger_rows: 320
+ledger_rows: 323
 not_held: 3
-record: 5ec302c17927
+record: b49f5f37af34
 ---
 
 # Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-13 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 320 bodies, instruments and systems on this place's ledger, 167 changed position between 2025-11-01 and 2026-11-13, 32 did not, 118 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 323 bodies, instruments and systems on this place's ledger, 167 changed position between 2025-11-01 and 2026-11-13, 32 did not, 121 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 1338 sources for this place in the window — 224 in the earlier half (2025-11 to 2026-04), 1114 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -205,6 +205,7 @@ On standards the work is opening rather than closing: common proposals for the 2
 | Microsoft Africa connectivity commitment | Commitment made in 2022; 2025 target not yet reported met | [Internet access provided to more than 117 million people in Africa through internet service providers, hardware producers and multilateral partners, which the company reports as exceeding its 2025 target](https://news.microsoft.com/source/emea/2025/12/microsoft-achieves-major-connectivity-milestone-in-africa/) | Movement |
 | 5G fixed wireless access operators | ***Baseline not held*** | [40 operators had launched 5G fixed wireless access across 37 African markets by May 2026](https://techafricanews.com/2026/09/10/the-new-last-mile-why-african-broadband-is-moving-outdoors/) | ***Baseline not held*** |
 | Africa Digital Connectivity Infrastructure Report | ***Baseline not held*** | [Phase 1, Country Pilots, put out as an open consultancy tender at a stated budget of US$165,000, funded jointly by the African Development Bank, the Asian Infrastructure Investment Bank and the Multilateral Cooperation Center for Development Finance; the pilot countries and the terms of reference are not established](https://www.developmentaid.org/tenders/view/1694082/aiib-request-for-proposal-the-africa-digital-connectivity-infrastructure-report-the-project-phase-1) | ***Baseline not held*** |
+| African markets with low-earth-orbit satellite broadband live | ***Baseline not held*** | [Live in 24 African markets at 29 September 2025, up ten in a year, with nine listed without a launch date; a market database counted 23 in October 2025](https://resources.telegeography.com/starlink-expanding-in-africa) | ***Baseline not held*** |
 | Internet exchange points listed by the African IXP Association | ***Baseline not held*** | [60 internet exchange points in 36 African states, from Johannesburg's in 1996 to one opened at Dakar in 2026 (November 2026)](https://af-ix.org/ixps-list) | ***Baseline not held*** |
 | IPv6 capability across the AFRINIC service region | 56.2% of AFRINIC members held IPv6 resources, with 10,880 /32s allocated, at 30 June 2025 - a measure of address holding, not of user capability (2025-06) | [Put at 6.1% against a world average of 41.7% in September 2026, on APNIC Labs measurement cited by the telecommunications union (2026-09); in June 2026 a policy proposal had cited 6% against 44%, with only eight African countries above 20%, and three million IPv4 addresses recovered under the soft-landing policy since 2020 without a proven rise in IPv6 deployment](https://atuuat.africa/event/regional-webinar-on-ipv6-national-implementation-accelerating-pan-africa-transition-and-connectivity/) | ***Baseline not held, the earlier figure measures address holding and is not comparable*** |
 | Lagos-Cape Town research and education network interconnection | ***Baseline not held*** | [A 10 Gbps link between the West African research network's Lagos exchange and Cape Town, the first interconnection of African regional research and education networks on African soil, so their traffic no longer routes through Europe](https://wacren.net/en/newsletter/africas-research-and-education-networks-achieve-historic-lagos-cape-town-interconnection/) | ***Baseline not held*** |
@@ -232,6 +233,8 @@ On standards the work is opening rather than closing: common proposals for the 2
 | Digitisation priorities in the national energy compacts | Did not exist | [The smart-metering and grid-optimisation priorities set out in the national energy compacts are argued to be constrained across Africa by a fragmented low-power internet-of-things layer: narrowband deployment reaches only markets such as South Africa, Kenya and Nigeria, while the 2G and 3G networks early smart meters rely on are expected to be retired well inside a meter's ten to fifteen year life; the analysis calls for integrated energy and telecom planning, targeted incentives for low-power wide-area network rollout, and energy-telecom co-investment](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/mapping-mission-300-unpacking-digitisation-priorities/) | Movement |
 | Emergent Grid Project (computing load as a mini-grid anchor customer) | Did not exist | [Demonstrations placing flexible computing load at African mini-grids to test whether selling compute improves their economics: five new solar-plus-storage sites in Kenya for about 50,000 people, an under-used solar plant in DR Congo serving more than 30,000, and three rural sites in Sierra Leone, about 85,000 people in all, with community demand given priority over compute and outcomes independently evaluated](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/) | Movement |
 | Data-centre electricity consumption in Africa | ***Baseline not held*** | [2.55TWh in 2025, projected at 6.95TWh in 2030 and 12.60TWh in 2035; only 337MW, or 52%, of a 647MW announced IT-capacity pipeline has a scheduled commissioning date by 2035](https://www.itweb.co.za/article/sas-data-centre-boom-brings-fresh-power-demands/lLn14MmQ9QVMJ6Aa) | ***Baseline not held*** |
+| Household grid connection across surveyed countries | ***Baseline not held*** | [60% of households connected to the grid across 39 countries, 35% rural against 86% urban (2021/2023)](https://www.afrobarometer.org/wp-content/uploads/2024/04/AD793-PAP13-Slight-and-uneven-progress-still-leaves-many-Africans-without-electricity-Afrobarometer-9april24-1.pdf) | ***Baseline not held*** |
+| People without electricity in sub-Saharan Africa | ***Baseline not held*** | [581 million people without access in 2023, with one rural resident in three connected against more than four in five urban residents](https://data360.worldbank.org/en/atlas/electricity-access/?intcid=ecr_hp_trendingdata_en_ext) | ***Baseline not held*** |
 
 ### Cybersecurity
 

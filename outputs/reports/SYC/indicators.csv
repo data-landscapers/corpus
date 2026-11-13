@@ -338,7 +338,9 @@ infra.energy--grid-reliability,No change,"The utility reports [99.5 per cent ele
 
 The 2024 report holds coverage at 99.5 per cent with 1,279 employees and renewables at 4.2 per cent of supply ([report](2025-05-30-puc-2024-annual-report)).
 
-No outage-duration or interruption-frequency series is published, so reliability is described by coverage and losses rather than measured by downtime.",SYC-infra.energy-puc,4,,0.5136,outages per month,2023,ref:enterprise-surveys-outages@2026-09-24,,,2026-08-31,0,survey figure; no primary in the base
+No outage-duration or interruption-frequency series is published, so reliability is described by coverage and losses rather than measured by downtime.
+
+2025-11 - the utility's terms of reference for the renewable programme [provide for a smart meter pilot on the low-voltage network and a report on nationwide roll-out](2025-11-01-syc-terms-of-reference-for-technical-assistance-team-renewable-energy-acce).",SYC-infra.energy-puc|SYC-infra.energy-smart-meter-pilot,4,,0.5136,outages per month,2023,ref:enterprise-surveys-outages@2026-09-24,,,2026-08-31,0,survey figure; no primary in the base
 infra.energy--rural-electrification,Movement,Coverage is [99.5 per cent](2025-05-30-puc-2024-annual-report); a [renewable acceleration programme](2026-03-05-worldbank-reap-isr-p505856) became effective in February 2026 with every target still at zero.,"The utility reports 99.5 per cent electricity coverage across the islands ([report](2025-05-30-puc-2024-annual-report)), which leaves little rural electrification to do in the ordinary sense.
 
 The Renewable Energy Acceleration Program became effective on 26 February 2026 with the utility advancing procurement; its targets of 18 MW of renewable capacity, 18 MWh of storage enabled, a 7 per cent average reduction in outage duration and 500 grid-connected businesses benefiting by May 2030 all stood at zero at 28 February 2026 ([status](2026-03-05-worldbank-reap-isr-p505856)).

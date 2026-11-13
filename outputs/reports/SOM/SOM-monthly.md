@@ -4,8 +4,8 @@ compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: SOM
 ledger_rows: 23
-not_held: 2
-record: 73b9decca246
+not_held: 1
+record: bc3e4c4b430c
 ---
 
 # News, Oct – Nov 2026

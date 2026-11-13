@@ -264,6 +264,8 @@ infra.energy--sufficient-energy-and-water-for-data-centres,Regressed,"The grid i
 
 A 2026 study documents up to USD 3 billion in war damage to the grid and surging solar adoption, with diesel generators costing up to ten times more to run ([study](2026-05-18-undp-solar-energy-value-chain-study)).
 
+An analysts' brief [put the generation capacity lost to the conflict at up to 40% by 2025](2025-11-01-sdn-rebuilding-sudan-s-energy-sector-pathways-to-equitable-post-conflict-r).
+
 No assessment addresses power or water sufficiency for data centres specifically; the position has to be read off the general grid.",SDN-infra.energy-national-grid,,,,,,,,,,,
 infra.energy--grid-reliability,No change,"No reliability indicator later than the [2019 diagnostic](2019-06-30-sudan-electricity-sector-diagnostic-worldbank) is held, and that diagnostic's own reliability section was not captured.","The diagnostic review of 30 June 2019 records 3,500 MW installed capacity, a 32 per cent electricity access rate and the lowest tariff in sub-Saharan Africa at under one US cent per kilowatt-hour ([review](2019-06-30-sudan-electricity-sector-diagnostic-worldbank)). Its interruption-duration and frequency indicators sit in a section the capture did not reach.
 
@@ -274,7 +276,9 @@ infra.energy--rural-electrification,Regressed,"Rural grid connection [fell to 5 
 
 Three de-risking workshops for rural solar minigrids were held in Port Sudan in January 2026 with the energy ministry and the electricity holding company ([workshops](2026-02-09-amp-sudan-drei-workshops)).
 
-By March 2026 the operation's delivery actuals were still nil ([report](2026-04-13-sudan-ascent-isr-seq2-worldbank)).",SDN-finance.new-ascent-sudan|SDN-infra.energy-national-grid,3,,54.2,% of rural population,2024,ref:wdi-elc-accs-rural@2026-07-13,,,2026-08-31,0,survey figure; no primary in the base
+By March 2026 the operation's delivery actuals were still nil ([report](2026-04-13-sudan-ascent-isr-seq2-worldbank)).
+
+A peer-reviewed study cites [national access of 63.2% and rural access of 49% in 2022](2025-03-11-sdn-electricity-access-linkages-to-sustainable-development-goals-in-rural), before the conflict.",SDN-finance.new-ascent-sudan|SDN-infra.energy-national-grid|SDN-infra.energy-electricity-access-rate,3,,54.2,% of rural population,2024,ref:wdi-elc-accs-rural@2026-07-13,,,2026-08-31,0,survey figure; no primary in the base
 infra.capacity--robustness-of-government-hardware-and-software,Movement,"A [national civil-service human-resources platform](2026-08-06-bayan-digital-civil-service-platform-tears-up-the-paper-files) was launched holding every public employee's record, with no data-protection arrangement disclosed.","The platform was launched as an integrated national database of every public employee's record, held by the civil service authority and replacing paper files ([platform](2026-08-06-bayan-digital-civil-service-platform-tears-up-the-paper-files), [minister](2026-08-05-minister-of-digital-transformation-bayan-platform-creates-clarity-in-state-administrative-structure)).
 
 No data-protection arrangement is disclosed for a national personnel database stood up during an active war, and the country has no data-protection statute in force.
