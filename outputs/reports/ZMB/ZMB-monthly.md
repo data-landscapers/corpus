@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: ZMB
 ledger_rows: 29
 not_held: 32
-record: ebfea58f6a83
+record: 3bc21a25ad95
 ---
 
 # News, Oct – Nov 2026
@@ -124,7 +124,7 @@ Zambia, COMESA and the World Bank held the first regional validation workshop of
 
 **[Public Notice: Draft Revised Type Approval Guidelines for Electronic Communications Equipment](https://ib-lenhardt.com/media/pages/news/consultation-on-draft-revised-type-approval-guidelines/3220b471e8-1792662126/public-notice-draft-revised-type-approval-guidelines_20102026.pdf)** — Zambia Information and Communications Technology Authority, 21 October 2026
 
-ZICTA consults to 20 November 2026 on risk-based type-approval guidelines replacing the 2022 set.
+ZICTA, Zambia's ICT regulator, wants comments on revised type approval rules for telecoms equipment by 20 November 2026. The draft splits equipment into high-risk and low-risk classes. Some goods could leave customs before approval.
 
 </div>
 

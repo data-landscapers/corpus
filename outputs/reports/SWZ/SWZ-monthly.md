@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: SWZ
 ledger_rows: 33
 not_held: 3
-record: db2a18294682
+record: 8b696c74eb6f
 ---
 
 # News, Oct – Nov 2026
@@ -80,7 +80,7 @@ Eswatini's Senate considered a committee report on the National Payment System R
 
 **[2026 ESCCOM Annual Report](https://esccom.org.sz/wp-content/uploads/2026/10/ESCCOM-Annual-Report-2026_Final_30.10.2026-Compressed.pdf)** — Eswatini Communications Commission, 1 October 2026
 
-FY 2025/26 regulator report; 511 data controllers registered by March 2026, sunset and speed rules put to consultation.
+The Eswatini Communications Commission has published its 2026 annual report. It covers telecoms and postal market performance, quality of service, spectrum management and the regulator's work on data protection and cybersecurity rules.
 
 </div>
 

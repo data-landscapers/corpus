@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: GHA
 ledger_rows: 73
 not_held: 9
-record: 17e0cb84b33e
+record: df56d2657fc1
 ---
 
 # News, Oct – Nov 2026
@@ -700,7 +700,7 @@ Ghana's National Identification Authority, with the National Health Insurance Au
 
 **[National Identification Authority](https://nia.gov.gh/)** — National Identification Authority, 11 November 2026
 
-Date-of-birth updates on Ghana Card suspended 9 Nov 2026; enrolment of children 6–14 reaches Upper West and Savannah.
+Ghana's National Identification Authority says L.I. 2523 ends the practice of photocopying or scanning the Ghana Card. Institutions must now verify identity biometrically against the National Identity Register under a direct service agreement with the Authority, and a taskforce has begun monitoring compliance.
 
 </div>
 
