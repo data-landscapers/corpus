@@ -1,0 +1,56 @@
+{
+ "slug": "2026-11-10-liberia-rwanda-five-year-mou-service-delivery",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Land administration appears only as a past exchange topic; no register stated."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Land administration appears only as a past exchange topic; no register stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "County Service Centers digital transformation",
+       "country_label": "LBR",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Local Government",
+       "tiers": ""
+      }
+     ],
+     "note": "An MoU to explore digital transformation of 15 County Service Centers with pilots; no connection of local government offices in use."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Rwanda's IREMBO is named as experience shared with Liberia; nothing on Rwandan local office connection."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The MoU covers local revenue administration and tax registries only as areas of cooperation; no system in use stated."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on Rwandan local government revenue records."
+    }
+   }
+  }
+ }
+}

@@ -1,7 +1,1 @@
-{"slug": "2024-01-01-rwa-certa-cli-joins-berkman-klein-network-of-centers", "studies": {
-"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on AI rules or authority."}}},
-"aigovernment": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on government AI use."}}},
-"aisectoral": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on AI in sector systems."}}},
-"aisystems": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on AI built at home."}}},
-"techhubs": {"countries": {"RWA": {"facts": [], "systems": [], "note": "A law-and-innovation research centre joining a research network; not a hub for startups."}}}
-}}
+{"slug": "2024-01-01-rwa-certa-cli-joins-berkman-klein-network-of-centers", "studies": {"policyresearch": {"countries": {"RWA": {"facts": [{"sub_indicator": "research", "aspect": "research", "value": "begun", "fact": "Certa Foundation says its Kigali Center for Law and Innovation was appointed a center in the Berkman Klein-coordinated Network of Centers on internet research, the first in East Africa.", "as_of": "2024", "date_precision": "year", "system": "Network of Centers", "class": "research"}], "systems": [], "note": ""}}}}}

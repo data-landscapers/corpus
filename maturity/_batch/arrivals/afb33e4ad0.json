@@ -1,30 +1,30 @@
 {
  "slug": "2026-01-09-gab-voeux-a-la-presse-mark-doumba-et-germain-bihadjow-sommes-de-faciliter",
  "studies": {
-  "accesstoinformationlaw": {
+  "datagovernance": {
    "countries": {
     "GAB": {
      "facts": [],
      "systems": [],
-     "note": "President only instructed ministers to finalise reflection on a law; a law called for is not a draft and no absence is stated."
+     "note": "The president instructed ministers to speed a public data portal and finish thinking on an access-to-information law; no data policy stated."
     }
    }
   },
-  "opendatause": {
+  "opendatapolicy": {
    "countries": {
     "GAB": {
      "facts": [],
-     "systems": [],
-     "note": "A public data portal is only ordered to be accelerated; none reported running."
-    }
-   }
-  },
-  "opendiscussion": {
-   "countries": {
-    "GAB": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing this study asks for this country."
+     "systems": [
+      {
+       "system": "Planned public data portal",
+       "country_label": "GAB",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Gabon",
+       "tiers": ""
+      }
+     ],
+     "note": "An instruction to accelerate a public data portal is an intention with no open data policy drafting reported."
     }
    }
   }

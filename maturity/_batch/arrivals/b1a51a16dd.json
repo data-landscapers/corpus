@@ -1,0 +1,9 @@
+{"slug": "2026-11-11-zaf-home-affairs-smart-id-753-bank-branches", "studies": {
+"authentication": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Card application channel only; no authentication service stated."}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Over one million served is a count of replacement applications, not enrolment share."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "South Africa's Department of Home Affairs says Smart ID applications and replacements are processed at 753 bank branches and 967 locations in all, with more than one million people served since 9 March 2026.", "as_of": "2026-11-11", "date_precision": "day", "system": "Smart ID", "class": "idsystem"}], "systems": [{"system": "Smart ID Card", "country_label": "South Africa", "class": "idsystem", "platform": "", "owner": "Department of Home Affairs", "tiers": "ABSA, Capitec, FNB, Standard Bank branches as application channel"}], "note": ""}}}
+}}

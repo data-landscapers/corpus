@@ -1,10 +1,1 @@
-{"slug": "2026-04-24-cmr-cameroun-l-ins-simplifie-l-acces-aux-donnees", "studies": {
-"agrisatellite": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Satellite imagery named only as a statistical collection method; no farming use stated."}}},
-"aiabuse": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules."}}},
-"aigovernment": {"countries": {"CMR": {"facts": [], "systems": [], "note": "AI mentioned as context only; no government AI system stated."}}},
-"aisectoral": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states no sectoral AI tool."}}},
-"aisystems": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states no AI built in the country."}}},
-"dataprotectionlaw": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on a data protection law."}}},
-"eparticipation": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states no online consultation."}}},
-"publicconsultation": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states no consultation on a digital law or policy."}}}
-}}
+{"slug": "2026-04-24-cmr-cameroun-l-ins-simplifie-l-acces-aux-donnees", "studies": {"opendatapolicy": {"countries": {"CMR": {"facts": [], "systems": [{"system": "INS data platforms", "country_label": "Cameroon INS (address not given)", "class": "other", "platform": "", "owner": "Institut national de la statistique", "tiers": ""}], "note": "Statistics office platforms only; no open data policy stated."}}}, "opendatause": {"countries": {"CMR": {"facts": [{"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "Cameroon's national statistics institute (INS) unveiled on 22 April 2026 platforms giving direct access to macroeconomic series and, through a national data archive, survey microdata, with no licence stated.", "as_of": "2026-04-22", "date_precision": "day", "system": "Archive nationale des données du Cameroun", "class": "open"}], "systems": [{"system": "Archive nationale des données du Cameroun", "country_label": "Cameroon INS data platforms (address not given)", "class": "open", "platform": "", "owner": "Institut national de la statistique", "tiers": ""}], "note": ""}}}}}

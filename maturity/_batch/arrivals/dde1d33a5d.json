@@ -1,0 +1,8 @@
+{"slug": "2026-11-11-sen-ia-enseignement-superieur-cadre-national", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "A call for a national framework on AI in higher education; no draft published, no rule in force."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on a government body's AI system."}}},
+"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Generative AI use by teachers and students is not a public sector system."}}},
+"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on AI built in the country."}}},
+"dataprotectionlaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Personal data protection named only as a concern."}}},
+"digitalsovereignty": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Dependence on foreign services named as a challenge; no strategy, rule or hosting stated."}}}
+}}

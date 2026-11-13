@@ -1,0 +1,47 @@
+{"slug": "2026-11-11-google-africa-applied-ai-lab-first-cohort", "studies": {
+"agrisatellite": {"countries": {
+"KEN": {"facts": [], "systems": [], "note": "Satlyt is a company doing in-orbit computing; no farming service stated."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated on satellite data in farming for Nigeria."},
+"SEN": {"facts": [], "systems": [{"system": "Tolbi", "country_label": "Senegal", "class": "other", "platform": "satellite imagery with voice guidance", "owner": "Tolbi (company)", "tiers": ""}], "note": "Tolbi is a startup product with no government part stated."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing stated on satellite data in farming for Uganda."}}},
+"aiabuse": {"countries": {
+"KEN": {"facts": [], "systems": [], "note": "Document states nothing on AI harm rules."},
+"NGA": {"facts": [], "systems": [], "note": "Document states nothing on AI harm rules."},
+"SEN": {"facts": [], "systems": [], "note": "Document states nothing on AI harm rules."},
+"UGA": {"facts": [], "systems": [], "note": "Document states nothing on AI harm rules."}}},
+"aigovernment": {"countries": {
+"KEN": {"facts": [], "systems": [], "note": "No government body using AI is stated."},
+"NGA": {"facts": [], "systems": [], "note": "No government body using AI is stated."},
+"SEN": {"facts": [], "systems": [], "note": "No government body using AI is stated."},
+"UGA": {"facts": [], "systems": [], "note": "No government body using AI is stated."}}},
+"aisectoral": {"countries": {
+"KEN": {"facts": [], "systems": [], "note": "No public sector system using AI is stated."},
+"NGA": {"facts": [], "systems": [], "note": "Intron's clinical speech recognition is a company product with no public body stated."},
+"SEN": {"facts": [], "systems": [], "note": "Tolbi is a company product; no public body stated."},
+"UGA": {"facts": [], "systems": [], "note": "Crane AI Labs tools are a company's product; no public health or school system is stated to use them."}}},
+"aisystems": {"countries": {
+"KEN": {"facts": [], "systems": [], "note": "Satlyt in-orbit computing is not stated as AI built or hosted in the country."},
+"NGA": {"facts": [], "systems": [], "note": "Intron speech recognition is described as built, but no release is stated."},
+"SEN": {"facts": [], "systems": [], "note": "Nothing stated on AI built in Senegal beyond a startup product description."},
+"UGA": {"facts": [], "systems": [], "note": "Crane AI Labs is said to build offline AI tools; no model release is stated."}}},
+"idverification": {"countries": {
+"KEN": {"facts": [], "systems": [], "note": "Nothing on the national ID for Kenya."},
+"NGA": {"facts": [], "systems": [], "note": "Termii verification is not stated to check against the national ID."},
+"SEN": {"facts": [], "systems": [], "note": "Nothing on the national ID for Senegal."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing on the national ID for Uganda."}}},
+"nonstatefinance": {"countries": {
+"KEN": {"facts": [], "systems": [], "note": "No amount is stated."},
+"NGA": {"facts": [], "systems": [], "note": "No amount is stated."},
+"SEN": {"facts": [], "systems": [], "note": "No amount is stated."},
+"UGA": {"facts": [], "systems": [], "note": "No amount is stated."}}},
+"startups": {"countries": {
+"KEN": {"facts": [], "systems": [], "note": "A Google accelerator cohort, no public scheme."},
+"NGA": {"facts": [], "systems": [], "note": "A Google accelerator cohort, no public scheme."},
+"SEN": {"facts": [], "systems": [], "note": "A Google accelerator cohort, no public scheme."},
+"UGA": {"facts": [], "systems": [], "note": "A Google accelerator cohort, no public scheme."}}},
+"techhubs": {"countries": {
+"KEN": {"facts": [], "systems": [], "note": "Pan-African Google programme, no hub in the country stated."},
+"NGA": {"facts": [], "systems": [], "note": "Pan-African Google programme, no hub in the country stated."},
+"SEN": {"facts": [], "systems": [], "note": "Pan-African Google programme, no hub in the country stated."},
+"UGA": {"facts": [], "systems": [], "note": "Pan-African Google programme, no hub in the country stated."}}}
+}}

@@ -1,6 +1,1 @@
-{"slug": "2025-07-28-mrt-workshop-on-innovating-the-rule-of-law-in-the-age-of-ai-in-nouakchott", "studies": {
-"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "A workshop on AI and procedural justice; no rule or authority stated."}}},
-"aigovernment": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing stated on AI in use in government."}}},
-"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing stated on AI tools in the justice system; discussion only."}}},
-"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing stated on AI built or hosted in the country."}}}
-}}
+{"slug": "2025-07-28-mrt-workshop-on-innovating-the-rule-of-law-in-the-age-of-ai-in-nouakchott", "studies": {"policyresearch": {"countries": {"MRT": {"facts": [{"sub_indicator": "research", "aspect": "research", "value": "begun", "fact": "The Max Planck Foundation reports that it and Mauritania's CMERJES legal research centre held a workshop in Nouakchott on 17-18 July 2025 on legal certainty and procedural justice in the age of AI, with scholars and judges from Mauritania.", "as_of": "2025-07-17", "date_precision": "day", "system": "CMERJES", "class": "research"}], "systems": [], "note": ""}}}}}

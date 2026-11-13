@@ -1,16 +1,1 @@
-{"slug": "2025-12-01-dza-selon-global-findex-2025-le-numerique-ouvre-de-nouvelles-perspectives", "studies": {
-"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on a rule or authority against AI harms."}}},
-"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on AI used by a government body."}}},
-"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on AI in a sector's public system."}}},
-"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on AI built or hosted."}}},
-"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
-"centralbank": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on the central bank's role."}}},
-"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on consumer protection in digital finance."}}},
-"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
-"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
-"internetusage": {"countries": {"DZA": {"facts": [], "systems": [{"system": "Global Findex Data 2025: adults using the internet", "country_label": "83% of adults", "class": "other", "platform": "", "owner": "World Bank", "tiers": ""}], "note": "The 83% is for adults only, so it is noted and not recorded."}}},
-"mobilepenetration": {"countries": {"DZA": {"facts": [], "systems": [{"system": "Global Findex Data 2025: adults owning a mobile phone", "country_label": "98% of adults", "class": "other", "platform": "", "owner": "World Bank", "tiers": ""}], "note": "The 98% is for adults only, so it is noted and not recorded."}}},
-"paymentsuptake": {"countries": {"DZA": {"facts": [{"sub_indicator": "uptake", "aspect": "share", "value": "quarter", "fact": "La Voix de l'Algerie, citing The Global Findex Data 2025, reports financial inclusion in Algeria at 35 per cent of adults, against a world average of 79 per cent; the same report puts adults making or receiving digital payments at 13 per cent.", "as_of": "2025", "date_precision": "year", "system": "Global Findex Data 2025", "class": "survey"}], "systems": [], "note": ""}}},
-"retailpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on mobile money or retail payment services."}}},
-"revenuecollection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on electronic revenue payment."}}}
-}}
+{"slug": "2025-12-01-dza-selon-global-findex-2025-le-numerique-ouvre-de-nouvelles-perspectives", "studies": {"localrecords": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Findex financial inclusion article; nothing on local government revenue records."}}}}}

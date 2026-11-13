@@ -1,1 +1,32 @@
-{"slug": "2026-08-15-gin-communique-n003-be-ablogui-2026-relative-a-la-levee-des-perturbations", "studies": {"eparticipation": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on consultation."}}}, "opendiscussion": {"countries": {"GIN": {"facts": [{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "ABLOGUI's monitors say internet restrictions, with Facebook, TikTok and YouTube heavily restricted, began on 27 July 2026 and lasted at least 20 days until lifted by 15 August, with no official explanation from the regulator, government or operators.", "as_of": "2026-07-27", "date_precision": "day", "system": "27 July 2026 internet restrictions", "class": "discussion"}], "systems": [], "note": ""}}}, "publicconsultation": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on consultation."}}}}}
+{
+ "slug": "2026-08-15-gin-communique-n003-be-ablogui-2026-relative-a-la-levee-des-perturbations",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A civil-society communique on a lifted internet restriction; it states nothing on fibre, routes or users."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A civil-society communique on a lifted internet restriction; it states nothing on fibre, routes or users."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A civil-society communique on a lifted internet restriction; it states nothing on fibre, routes or users."
+    }
+   }
+  }
+ }
+}

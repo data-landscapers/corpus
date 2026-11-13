@@ -1,0 +1,129 @@
+{
+ "slug": "2026-11-12-workonline-extends-into-uganda-raxio-kampala",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Workonline and Raxio describe Raxio's UG1 in Kampala as a Tier III, carrier-neutral data centre hosting 25 carriers and ISPs.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "Raxio UG1",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "Raxio UG1 in Kampala is a carrier-neutral facility open to competing network providers, hosting 25 carriers, ISPs and the UIXP, per Workonline.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "Raxio UG1",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Raxio UG1 (Kampala)",
+       "country_label": "Raxio UG1",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Raxio Group",
+       "tiers": "Tier III"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "Workonline and Raxio say the Uganda Internet Exchange Point is on site at Raxio UG1, where networks exchange local internet traffic.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "UIXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UIXP",
+       "country_label": "Uganda Internet Exchange Point",
+       "class": "exchange",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "Workonline says its new Kampala PoP is linked to Nairobi by two physically separate routes, each ending in a different data centre.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "Workonline Kampala-Nairobi routes",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Workonline Kampala-Nairobi routes",
+       "country_label": "Workonline Communications",
+       "class": "route",
+       "platform": "fibre",
+       "owner": "Workonline Communications",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Raxio UG1 (Kampala)",
+       "country_label": "Raxio UG1",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Raxio Group",
+       "tiers": "Tier III"
+      }
+     ],
+     "note": "The document does not state who owns Raxio UG1 in Uganda."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A company's network across borders with no arrangement between national bodies is other."
+    }
+   }
+  }
+ }
+}

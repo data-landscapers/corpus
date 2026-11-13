@@ -1,0 +1,14 @@
+{"slug": "2026-11-11-tcd-chad-pp-26-policy-statement", "studies": {
+"aiabuse": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only an AI strategy being developed; no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"TCD": {"facts": [], "systems": [], "note": "A strategy only; no AI system in use stated."}}},
+"aisectoral": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on sectoral AI."}}},
+"aisystems": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on AI built in the country."}}},
+"datacentres": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Two data centres named in N'Djamena but not stated to rent to others."}}},
+"datagovernance": {"countries": {"TCD": {"facts": [{"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "Minister Haliki Choua Mahamat told the ITU PP-26 that Chad is developing three national strategies, one of them on data governance.", "as_of": "2026-11-11", "date_precision": "day", "system": "national data governance strategy", "class": "policy"}], "systems": [], "note": ""}}},
+"digitaldivides": {"countries": {"TCD": {"facts": [{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "The minister said 500 sites are being deployed with World Bank support to cover white spots, and another 1,000 are planned.", "as_of": "2026-11-11", "date_precision": "day", "system": "white-spot sites programme", "class": "ruralaccess"}], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only a strategy for digitalising administration; no online service stated."}}},
+"exchangepoints": {"countries": {"TCD": {"facts": [{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The minister stated that N'Djamena has an Internet Exchange Point.", "as_of": "2026-11-11", "date_precision": "day", "system": "N'Djamena Internet Exchange Point", "class": "exchange"}], "systems": [], "note": ""}}},
+"internationalbandwidth": {"countries": {"TCD": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "independent", "fact": "The minister said three international fibre links have been completed with Cameroon and Sudan, two different neighbours.", "as_of": "2026-11-11", "date_precision": "day", "system": "fibre links to Cameroon and Sudan", "class": "route"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Owner and hire of the two N'Djamena data centres not stated."}}},
+"regionalinfrastructure": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Links with Cameroon and Sudan named, but no arrangement or party in each country stated."}}}
+}}

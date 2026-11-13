@@ -1,0 +1,7 @@
+{"slug": "2026-04-02-sdn-data-statistics-and-tariff-system", "studies": {
+"accesstoinformationlaw": {"countries": {"SDN": {"facts": [], "systems": [], "note": "A statistics listing page; nothing on an access to information law."}}},
+"opendatapolicy": {"countries": {"SDN": {"facts": [], "systems": [], "note": "A listing of downloadable statistics with no policy stated."}}},
+"opendatause": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "Sudan's Sea Ports Corporation lists annual port statistics for 2007 to 2025 as downloadable files on its website, the latest posted 2 April 2026; no licence is stated.", "as_of": "2026-04-02", "date_precision": "day", "system": "Statistics and Tariff System", "class": "open"}
+], "systems": [{"system": "Statistics and Tariff System", "country_label": "sudanports.gov.sd", "class": "open", "platform": "website", "owner": "Sea Ports Corporation", "tiers": ""}], "note": ""}}}
+}}

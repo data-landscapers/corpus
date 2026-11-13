@@ -1,0 +1,12 @@
+{"slug": "2026-01-27-nga-businesspost-cbn-upgrades-opay-moniepoint-licences-national", "studies": {
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "CBN's Director of Other Financial Institutions Supervision, Yemi Solaja, said the bank upgraded the operating licences of Moniepoint MFB, OPay, Kuda Bank, PalmPay and Paga to national after they met requirements including KYC.", "as_of": "2026-01-27", "date_precision": "day", "system": "CBN licensing of fintech operators", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "KYC and customer-support points are mentioned; no consumer-protection rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitaldivides": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only a general remark on agent networks in rural areas; no government programme or survey."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"idverification": {"countries": {"NGA": {"facts": [], "systems": [], "note": "KYC is named but no check against the national ID is stated."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No account ownership survey figure stated."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Business Post reports OPay, Moniepoint, PalmPay, Kuda and Paga hold CBN licences upgraded to national, with CBN's Yemi Solaja saying their operations are already nationwide.", "as_of": "2026-01-27", "date_precision": "day", "system": "OPay, Moniepoint, PalmPay, Kuda, Paga", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}}
+}}

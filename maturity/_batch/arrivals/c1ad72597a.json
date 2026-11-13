@@ -1,0 +1,27 @@
+{"slug": "2026-11-11-bmz-giz-ai-governance-global-rules", "studies": {
+"aiabuse": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Named only for GIZ support to an AI strategy; nothing on AI harm rules."},
+"KEN": {"facts": [], "systems": [], "note": "Named only for GIZ support to an AI strategy and moderators' voices; no rule stated."},
+"RWA": {"facts": [], "systems": [], "note": "Named only for GIZ support to an AI strategy; nothing on AI harm rules."},
+"SEN": {"facts": [], "systems": [], "note": "Named only for GIZ support to its UN dialogue position; no rule stated."}}},
+"aigovernment": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "No government AI system stated."},
+"KEN": {"facts": [], "systems": [], "note": "No government AI system stated."},
+"RWA": {"facts": [], "systems": [], "note": "No government AI system stated."},
+"SEN": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"ailaw": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "No AI law or draft stated."},
+"KEN": {"facts": [], "systems": [], "note": "No AI law or draft stated."},
+"RWA": {"facts": [], "systems": [], "note": "No AI law or draft stated."},
+"SEN": {"facts": [], "systems": [], "note": "No AI law or draft stated."}}},
+"aisectoral": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "No sector AI tool stated."},
+"KEN": {"facts": [], "systems": [], "note": "No sector AI tool stated."},
+"RWA": {"facts": [], "systems": [], "note": "No sector AI tool stated."},
+"SEN": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
+"aisystems": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."},
+"KEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."},
+"RWA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."},
+"SEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}}
+}}

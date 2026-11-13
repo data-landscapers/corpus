@@ -1,0 +1,13 @@
+{"slug": "2026-11-12-norfund-backed-fund-mnt-halan", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payment channels."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"nonstatefinance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "ADP III's 2021 investment and the October 2026 IPO state no amount for Egypt; 2021 is before 2024."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a company customer count, no survey share."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No mobile money or wallet service stated for Egypt."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No startup law, label or public fund stated."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on hubs or parks."}}}
+}}

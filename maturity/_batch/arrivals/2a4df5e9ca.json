@@ -1,0 +1,17 @@
+{"slug":"2026-11-11-rail-knust-dpc-webinar-ai-data-protection","studies":{
+"aiabuse":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on AI harm rules or an AI authority."}}},
+"aigovernment":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on AI in government administration."}}},
+"aisectoral":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on sectoral AI use."}}},
+"aisystems":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on AI built or hosted in Ghana."}}},
+"authentication":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Ghana Card number named only as an example of personal data."}}},
+"birthidlink":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on civil register and ID links."}}},
+"datacentres":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Data embassy remarks are a concept for attracting data centres, no centre in service stated."}}},
+"dataprotectionauthority":{"countries":{"GHA":{"facts":[{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"Dr. Arnold Kavaarpuo is named as Executive Director of Ghana's Data Protection Commission, which co-organised the webinar with RAIL.","as_of":"2026-11-11","date_precision":"day","system":"Data Protection Commission of Ghana","class":"authority"}],"systems":[],"note":""}}},
+"dataprotectionlaw":{"countries":{"GHA":{"facts":[{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"The Executive Director of the Data Protection Commission of Ghana, Dr. Arnold Kavaarpuo, spoke at the webinar for the Commission.","as_of":"2026-11-11","date_precision":"day","system":"Data Protection Commission of Ghana","class":"general"}],"systems":[],"note":""}}},
+"idcoverage":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on ID numbers at birth."}}},
+"idmaintenance":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on who runs the ID system."}}},
+"idregisters":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Ghana Card number mentioned only as an example of personal data."}}},
+"nationaldatacentres":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No nationally owned data centre stated."}}}
+}}

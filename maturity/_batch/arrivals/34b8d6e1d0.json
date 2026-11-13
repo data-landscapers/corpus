@@ -1,0 +1,11 @@
+{"slug": "2026-11-12-botswana-positions-data-as-diamonds", "studies": {
+"aiabuse": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Adopting AI and ML is a plan in the statistics office's strategy; no system in use stated."}}},
+"aisectoral": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on sectoral AI in service."}}},
+"aisystems": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on AI built in the country."}}},
+"datacentres": {"countries": {"BWA": {"facts": [], "systems": [{"system": "Orange Botswana tier three facility, Gaborone", "country_label": "Botswana", "class": "datacentre", "platform": "", "owner": "Orange Botswana", "tiers": "Tier III"}], "note": "The Orange facility is named with a $5.2 million cost but not stated in service or for hire."}}},
+"egovservices": {"countries": {"BWA": {"facts": [], "systems": [], "note": "E-government rollouts mentioned without a service named."}}},
+"nationaldatacentres": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Ownership and hire of the named facility not stated."}}},
+"startups": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on a start-up programme."}}},
+"techhubs": {"countries": {"BWA": {"facts": [], "systems": [], "note": "The relaunch of the Botswana Digital and Innovation Hub is only mentioned, with no detail."}}}
+}}

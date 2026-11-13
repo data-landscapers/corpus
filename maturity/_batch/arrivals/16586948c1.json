@@ -1,0 +1,10 @@
+{"slug": "2025-05-27-xwa-bceao-avis-006-05-2025-periode-transitoire-services-paiement", "studies": {
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Avis covers the UMOA; Senegal is not named and nothing on e-procurement."}}},
+"centralbank": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Avis addresses the UMOA as a whole and does not name Senegal."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on consumer protection; Senegal not named."}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments; Senegal not named."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Union-wide licensing deadline; Senegal not named."}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

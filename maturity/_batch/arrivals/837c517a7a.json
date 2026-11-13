@@ -1,0 +1,18 @@
+{"slug": "2026-11-11-sle-fintech-innovation-lab-fbc-eu", "studies": {
+"businesspayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Governor names the national payment switch but the report does not say the Bank runs or oversees it; sandbox is not licensing."}}},
+"consumerprotection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"SLE": {"facts": [], "systems": [], "note": "79% is 'access to formal financial services' per the Governor, not stated as a survey share of adults with an account."}}},
+"retailpayments": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Bank of Sierra Leone Governor Ibrahim Stevens refers to mobile money accounts that customers transfer between through the national payment switch.", "as_of": "2026-11-11", "date_precision": "day", "system": "national payment switch", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "The Governor says the national payment switch lets customers transfer money between mobile money accounts and bank accounts across participating financial institutions.", "as_of": "2026-11-11", "date_precision": "day", "system": "national payment switch", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "The Governor describes a national payment switch connecting mobile money accounts and bank accounts across participating institutions.", "as_of": "2026-11-11", "date_precision": "day", "system": "national payment switch", "class": "retail"}
+], "systems": [{"system": "national payment switch", "country_label": "Sierra Leone", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}},
+"startups": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Only a regulatory sandbox and donor-run lab and grants; no startup law, strategy, labelling or public fund."}}},
+"techhubs": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The FinTech Innovation Lab at Fourah Bay College, University of Sierra Leone, was launched under the EU-supported Salone Access to Finance Project, with at least 12 start-ups to receive incubation; no cohort is yet on record.", "as_of": "2026-11-11", "date_precision": "day", "system": "FinTech Innovation Lab", "class": "hub"}
+], "systems": [{"system": "FinTech Innovation Lab", "country_label": "Sierra Leone", "class": "hub", "platform": "", "owner": "Fourah Bay College, UNDP, UNCDF", "tiers": ""}], "note": ""}}}
+}}

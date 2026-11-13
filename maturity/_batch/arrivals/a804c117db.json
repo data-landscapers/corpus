@@ -1,0 +1,10 @@
+{"slug": "2026-11-12-cote-d-ivoire-un-guichet-numerique-pour-moderniser-la-gestion-du-touri", "studies": {
+"authentication": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"egovservices": {"countries": {"CIV": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Cote d'Ivoire's Ministry of Tourism and Leisure launched the digital tourism one-stop shop on 10 November 2026, where operators submit files, pay and track requests online, with a pilot in four regional directorates.", "as_of": "2026-11-10", "date_precision": "day", "system": "Guichet unique numerique du tourisme", "class": "eservices"}], "systems": [{"system": "Guichet unique numerique du tourisme (SGAT component)", "country_label": "Cote d'Ivoire", "class": "eservices", "platform": "SGAT, developed with Cybastion", "owner": "Ministry of Tourism and Leisure", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No ID enrolment figure stated."}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Unique identifier is for tourism operators, not the national ID number."}}},
+"idrobustness": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}}
+}}

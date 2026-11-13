@@ -1,6 +1,1 @@
-{
-  "slug": "2026-08-10-somalia-auditor-general-fmis-systems-fragmentation",
-  "studies": {
-    "paymentslaw": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Audit report on government systems; nothing on a payments law or e-money rules."}}}
-  }
-}
+{"slug": "2026-08-10-somalia-auditor-general-fmis-systems-fragmentation", "studies": {"opendatapolicy": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Audit report on financial systems; no open data policy or portal mentioned."}}}}}

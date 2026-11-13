@@ -1,0 +1,9 @@
+{"slug": "2026-11-11-zwe-zimbabwe-pushes-for-inclusive-digital-future-at-itu-conferen", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only a call for responsible governance of emerging technologies at ITU; no rule or authority."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on AI in administration."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on sectoral AI."}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on AI built in the country."}}},
+"digitalskills": {"countries": {"ZWE": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "ICT minister Tatenda Mavetera cited a digital ambassadors programme and a 1.5 million coders programme among Zimbabwe's initiatives toward 100 percent digital access by 2030.", "as_of": "2026-11-11", "date_precision": "day", "system": "1.5 million coders programme and digital ambassadors programme", "class": "publicskills"}], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only a general call to address digital sovereignty through multilateral cooperation."}}},
+"ictstrategy": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "An ICT policy framework is mentioned without name, date or standing."}}}
+}}

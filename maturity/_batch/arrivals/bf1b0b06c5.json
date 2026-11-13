@@ -1,0 +1,13 @@
+{"slug": "2026-11-12-eu-egypt-electronic-signatures-trusted-list", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The European Commission said on 12 November 2026 that it completed a technical assessment of Egypt's Trusted List for Electronic Signatures and Seal Schemes, and Egypt will join the EU Third Countries Trusted List.", "as_of": "2026-11-12", "date_precision": "day", "system": "Egypt Trusted List for Electronic Signatures and Seal Schemes", "class": "authentication"}], "systems": [{"system": "Egypt Trusted List for Electronic Signatures and Seal Schemes", "country_label": "Egypt", "class": "authentication", "platform": "", "owner": "Government of Egypt", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on civil register or ID links."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Data protection is named only as an EU cooperation area; no Egyptian law is described."}}},
+"digitalstrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No Egyptian national digital strategy is described."}}},
+"ecommercelaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "An electronic signature framework is mentioned but no law is named or described as in force."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"regionalpolicy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The cooperation is with the European Union, not an African body."}}}
+}}

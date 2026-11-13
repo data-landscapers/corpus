@@ -1,0 +1,10 @@
+{"slug": "2026-11-12-mnt-halan-lists-egyptian-business-on-cairo-stock-exchange-in-major-ipo", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a company customer count, not a survey share."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A company offers digital payments but no licence, interoperability or switch is stated."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

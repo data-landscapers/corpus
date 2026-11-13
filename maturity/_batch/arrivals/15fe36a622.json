@@ -1,0 +1,17 @@
+{"slug":"2026-11-12-uga-bou-calls-for-safeguards-as-ai-open-banking-reshape-finance","studies":{
+"aiabuse":{"countries":{"UGA":{"facts":[],"systems":[],"note":"A call for AI safeguards in finance; no rule, authority or enforcement stated."}}},
+"aigovernment":{"countries":{"UGA":{"facts":[],"systems":[],"note":"AI is discussed for finance generally; no government body's AI use stated."}}},
+"aisectoral":{"countries":{"UGA":{"facts":[],"systems":[],"note":"AI for fraud detection is a general statement of potential, no public system named."}}},
+"aisystems":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on AI built or hosted in Uganda."}}},
+"businesspayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Only the Bank of Uganda's AfPI vice-chair role and speech; no licensing, switch or PAPSS statement."}}},
+"civilserviceskills":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on civil service digital skills."}}},
+"consumerprotection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"A call for safeguards and complaint mechanisms; no rule in force, drafting, complaints body or enforcement stated."}}},
+"crossborderpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"digitaldivides":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Exclusion of people without smartphones or connectivity is mentioned; no rural programme or survey figures."}}},
+"digitalskills":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Financial literacy is mentioned; no digital skills programme stated."}}},
+"g2ppayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No survey figure for account ownership stated."}}},
+"retailpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on mobile money or retail payment services."}}},
+"revenuecollection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
+}}

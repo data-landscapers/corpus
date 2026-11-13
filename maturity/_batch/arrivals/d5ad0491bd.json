@@ -1,1 +1,32 @@
-{"slug": "2024-04-30-moz-from-22-26-april-the-aih-team-of-the-african-development-bank-group-wa", "studies": {"opendatause": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "Mozambique ODP", "country_label": "Mozambique", "class": "other", "platform": "Africa Information Highway open data platform", "owner": "African Development Bank", "tiers": ""}], "note": "The portal is run by the AfDB and the post does not say which government body uploaded the nearly 100 datasets."}}}}}
+{
+ "slug": "2024-04-30-moz-from-22-26-april-the-aih-team-of-the-african-development-bank-group-wa",
+ "studies": {
+  "datagovernance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A donor-run open data platform training; no data governance policy stated."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Open Data Platform (AfDB Africa Information Highway)",
+       "country_label": "MOZ",
+       "class": "other",
+       "platform": "ODP",
+       "owner": "AfDB Africa Information Highway",
+       "tiers": ""
+      }
+     ],
+     "note": "A portal run by a development bank with about 100 datasets added after training; no open data policy stated."
+    }
+   }
+  }
+ }
+}

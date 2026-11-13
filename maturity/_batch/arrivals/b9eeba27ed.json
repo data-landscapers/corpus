@@ -1,0 +1,6 @@
+{"slug": "2026-11-11-civ-undp-centre-national-ia-etude-volet-1", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A tender notice for a feasibility study; nothing on AI harm rules."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A tender notice for a feasibility study; no government AI system stated."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A tender notice for a feasibility study; no sector AI tool stated."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [{"system": "Centre national d'intelligence artificielle et d'innovation", "country_label": "Cote d'Ivoire", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "UNDP tender for a feasibility study of a national AI centre; no build, builder or site stated."}}}
+}}

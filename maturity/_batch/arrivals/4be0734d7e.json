@@ -1,0 +1,10 @@
+{"slug": "2026-11-12-tun-e-payments-gain-momentum-in-tunisia", "studies": {
+"businesspayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"TUN": {"facts": [], "systems": [], "note": "BCT is only the data source for card statistics; no mandate, licensing, switch or PAPSS statement."}}},
+"consumerprotection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Transaction counts only, no survey share of adults."}}},
+"retailpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Figures cover card and online card payments, not mobile money or e-money."}}},
+"revenuecollection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

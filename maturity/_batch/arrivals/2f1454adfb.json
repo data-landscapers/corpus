@@ -1,10 +1,10 @@
 {"slug": "2026-09-08-swz-l-eswatini-adopte-sa-premiere-politique-de-gouvernance-des-donnees", "studies": {
-"aiabuse": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "AI named only as a reason for data governance; no rule or authority stated."}}},
-"aigovernment": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
-"aisectoral": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No sectoral AI system stated."}}},
-"aisystems": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No locally built AI stated."}}},
-"datagovernance": {"countries": {"SWZ": {"facts": [{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "iMedias (dpa) reports Eswatini has its first national data governance policy, covering 2027-2031, prepared by the Ministry of ICT with GIZ and Smart Africa, with an implementation roadmap, monitoring framework and change-management plan; no adoption date or adopting body is given.", "as_of": "2026-09-08", "date_precision": "day", "system": "National data governance policy 2027-2031", "class": "policy"}], "systems": [], "note": ""}}},
-"datatransfers": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No rule on sending data abroad stated."}}},
-"internationalstandards": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Mentions international norms only in general terms; no standard or membership named."}}},
-"regionalpolicy": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Smart Africa supported the policy, but no membership, agreement or meeting by Eswatini with an African body is stated."}}}
+"accesstoinformationlaw": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on an access to information law."}}},
+"cloudstrategy": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "A data governance policy is stated; no hosting or cloud rule."}}},
+"datalocalisation": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No data localisation rule stated."}}},
+"digitalstrategy": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The data governance policy is a thematic data policy, not a national digital strategy."}}},
+"ictstrategy": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on an ICT or telecom sector policy."}}},
+"interoperability": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No interoperability framework stated."}}},
+"opendatapolicy": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "A national data governance policy, with no statement that it requires open publication of government data."}}},
+"opendatause": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No data published for download is stated."}}}
 }}

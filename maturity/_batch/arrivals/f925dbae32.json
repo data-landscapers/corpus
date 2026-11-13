@@ -1,6 +1,1 @@
-{"slug": "2026-06-06-tza-ai-week-to-examine-technology-ethics-and-society", "studies": {
-"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "A university AI week on ethics; no rule or authority stated."}}},
-"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing stated on AI used by a government body."}}},
-"aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing stated on AI in a sector's public system."}}},
-"aisystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "A research centre announced; no model, dataset or AI computing stated."}}}
-}}
+{"slug": "2026-06-06-tza-ai-week-to-examine-technology-ethics-and-society", "studies": {"policyresearch": {"countries": {"TZA": {"facts": [], "systems": [{"system": "UAUT AI Research and Ethics Center", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "United African University of Tanzania", "tiers": ""}], "note": "Forward notice of an AI week and a centre to be launched; no research held or delivered is stated."}}}}}

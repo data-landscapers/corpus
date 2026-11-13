@@ -1,1 +1,8 @@
-{"slug": "2025-05-07-tgo-numerique-le-togo-lance-son-geoportail-national-une-carte-digitale-des", "studies": {"digitalstrategy": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document reports a geoportal launch; it names no national digital strategy, its standing or text."}}}, "egovservices": {"countries": {"TGO": {"facts": [], "systems": [{"system": "Géoportail national", "country_label": "Togo", "class": "other", "platform": "geoportail.gouv.tg / geodata.gouv.tg", "owner": "Ministry of Digital Economy", "tiers": "secured institutional tier; open public tier"}], "note": "Geoportal is a data and map platform, not a transactional government service."}}}}}
+{"slug": "2025-05-07-tgo-numerique-le-togo-lance-son-geoportail-national-une-carte-digitale-des", "studies": {
+"agrisatellite": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Agriculture named only as one of 15 sectors of map layers; no satellite data stated."}}},
+"opendatause": {"countries": {"TGO": {
+"facts": [
+{"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The Ministry of Digital Economy launched the national Geoportail on 6 May 2025, with an open public tier at geodata.gouv.tg of over 800 map layers across 15 sectors that users can view, analyse and download.", "as_of": "2025-05-06", "date_precision": "day", "system": "Géoportail national", "class": "open"}],
+"systems": [{"system": "Géoportail national", "country_label": "Géoportail national, geodata.gouv.tg (open) and geoportail.gouv.tg (institutions)", "class": "open", "platform": "geoportal", "owner": "Ministry of Digital Economy and Digital Transformation", "tiers": "secured tier for public institutions; open public tier"}],
+"note": "No licence and no named publishing bodies stated."}}}
+}}

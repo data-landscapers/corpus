@@ -1,0 +1,20 @@
+{"slug": "2026-11-12-egy-fra-approves-10-companies-fintech-nbfi", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Private e-KYC providers are named; no state authentication service is stated."}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on civil register or ID links."}}},
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The regulator is the Financial Regulatory Authority for non-bank finance, not the central bank."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No consumer rules or complaints body for digital finance are stated."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself."}}},
+"idverification": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Firms use named digital identity-verification providers, but the document does not say people are checked against the national ID."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Licensing of fintech startups under financial regulation is stated; no startup law, strategy, labelling or public fund."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No hub, incubator or park is stated."}}}
+}}

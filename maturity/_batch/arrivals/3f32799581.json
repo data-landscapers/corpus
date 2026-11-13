@@ -1,10 +1,1 @@
-{"slug": "2026-01-12-ner-loi-de-finances-2026-au-niger-de-nouvelles-mesures-fiscales-qui-font-d", "studies": {
-"businesspayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
-"centralbank": {"countries": {"NER": {"facts": [], "systems": [], "note": "Tax measure by the finance law; no central bank role stated."}}},
-"consumerprotection": {"countries": {"NER": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
-"crossborderpayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Taxes transfers; names no cross-border corridor."}}},
-"g2ppayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
-"paymentsuptake": {"countries": {"NER": {"facts": [], "systems": [], "note": "Gives no survey figure."}}},
-"retailpayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "A tax on mobile money transfers, not a statement of service status."}}},
-"revenuecollection": {"countries": {"NER": {"facts": [], "systems": [], "note": "Describes a tax on transfers, not electronic payment of taxes."}}}
-}}
+{"slug": "2026-01-12-ner-loi-de-finances-2026-au-niger-de-nouvelles-mesures-fiscales-qui-font-d", "studies": {"paymentslaw": {"countries": {"NER": {"facts": [], "systems": [], "note": "Finance law tax on mobile money transfers, which is a tax, not a payments law."}}}}}

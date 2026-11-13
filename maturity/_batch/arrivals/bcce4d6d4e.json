@@ -1,0 +1,9 @@
+{"slug": "2026-11-10-ia-et-souverainete-numerique-les-deux-angles-morts-de-lambition-marocaine", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "An expert's recommended precautions only; no rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [{"system": "Idarati AI", "country_label": "Morocco", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Idarati AI and a national AI solutions platform are named only as planned projects."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on sectoral AI."}}},
+"aisystems": {"countries": {"MAR": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Le Matin says Morocco's national AI guidelines rely on AI models developed in Morocco, naming the JAZARI institutes, Darija and Amazigh language models and a partnership with Mistral AI.", "as_of": "2026-11-10", "date_precision": "day", "system": "JAZARI institutes and Darija and Amazigh language models", "class": "localai"}], "systems": [], "note": ""}}},
+"datacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Data centres named only as projects, none in service stated."}}},
+"digitalsovereignty": {"countries": {"MAR": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Le Matin says the Digital Morocco 2030 strategy provides for the development of a sovereign cloud.", "as_of": "2026-11-10", "date_precision": "day", "system": "Digital Morocco 2030", "class": "sovereignty"}], "systems": [], "note": "Decree 2-24-921 on cloud services is not stated to cover government data."}}},
+"nationaldatacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire named."}}}
+}}

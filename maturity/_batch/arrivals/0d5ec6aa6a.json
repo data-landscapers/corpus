@@ -1,0 +1,22 @@
+{"slug": "2026-11-11-nga-doro-mobile-one-stop-shop-displaced", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Birth registration and NIN enrolment are offered side by side; no record exchange between the registers is stated."}}},
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"civilregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Birth registration is named as a mobile unit service; no digital register is described."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government payment to people is described."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NIN enrolment is only named as a service the mobile units would provide; nothing on issuance, biometrics or audit."}}},
+"idverification": {"countries": {"NGA": {"facts": [], "systems": [], "note": "SIM registration and BVN are listed as services; no check against the national ID is stated."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No survey figure is given."}}},
+"refugees": {"countries": {"NGA": {"facts": [{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "On 11 November 2026 Minister Doro launched and handed ten Mobile One-Stop Shop vehicles to states with UNHCR and German support, to give displaced people birth registration, NIN enrolment, SIM registration, BVN, bank account opening and National Social Register enrolment.", "as_of": "2026-11-11", "date_precision": "day", "system": "Mobile One-Stop Shop", "class": "displaced"}], "systems": [{"system": "Mobile One-Stop Shop", "country_label": "Nigeria", "class": "displaced", "platform": "", "owner": "Federal Ministry of Humanitarian Affairs and Poverty Reduction with UNHCR", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Birth registration by mobile unit is named; no statement of digital entry at local registry offices."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on retail digital payments."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}},
+"socialregistry": {"countries": {"NGA": {"facts": [{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "Minister Doro said on 11 November 2026 that the new mobile units would give displaced and vulnerable people enrolment into the National Social Register.", "as_of": "2026-11-11", "date_precision": "day", "system": "National Social Register", "class": "social"}], "systems": [{"system": "National Social Register", "country_label": "Nigeria", "class": "social", "platform": "", "owner": "Federal Government", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,32 @@
+{"slug": "2026-11-12-zwe-transforming-public-services-through-one-digital-ecosystem", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on AI harm rules."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "AI uses are hypothetical; no government AI system stated."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "AI uses are hypothetical; no sector AI tool stated."}}},
+"aistrategy": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Herald opinion piece by Louis Mondo refers to Zimbabwe's National Artificial Intelligence Strategy 2026-2030 as the national strategy the digital government ecosystem would advance.", "as_of": "2026-11-12", "date_precision": "day", "system": "National Artificial Intelligence Strategy 2026-2030", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"authentication": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on authentication or e-signature services."}}},
+"birthidlink": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "TaRMS integration with the Civil Registry is not a civil register to ID link."}}},
+"businessregister": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "TaRMS integration with the Registrar of Companies stated; nothing on online registration or shared number."}}},
+"civilregister": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on digital civil registration."}}},
+"coresystems": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "core", "aspect": "revenue", "value": "inuse", "fact": "The Herald opinion piece names the Tax and Revenue Management System (TaRMS) as a platform with established integrations with the Registrar of Companies, the Deeds and Intellectual Property Office and the Department of Civil Registry.", "as_of": "2026-11-12", "date_precision": "day", "system": "Tax and Revenue Management System (TaRMS)", "class": "core"}], "systems": [], "note": "The enterprise architecture is being built, not published."}}},
+"dataexchange": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No exchange platform stated; TaRMS integrations are point links, and the architecture is being built."}}},
+"digitalstrategy": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The Herald opinion piece names the Smart Zimbabwe 2030 Master Plan as the vision of an interconnected government digital ecosystem.", "as_of": "2026-11-12", "date_precision": "day", "system": "Smart Zimbabwe 2030 Master Plan", "class": "national"}], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A unified services portal is hypothetical; no service count stated."}}},
+"idcoverage": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No ID count stated."}}},
+"idfrombirth": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on ID operation."}}},
+"idregisters": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No register stated as keyed on the ID number."}}},
+"idrobustness": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Digital identity management is only listed as part of the architecture being built."}}},
+"interoperability": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "The Herald opinion piece says Zimbabwe is building a Whole of Government enterprise architecture defining interoperability standards, digital identity management, data governance and cybersecurity requirements.", "as_of": "2026-11-12", "date_precision": "day", "system": "Whole of Government enterprise architecture", "class": "framework"}], "systems": [], "note": ""}}},
+"interoperabilitystandards": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "standards", "aspect": "standing", "value": "draft", "fact": "The Herald opinion piece says the Whole of Government enterprise architecture now being built defines interoperability standards, with common data standards and secure APIs to follow.", "as_of": "2026-11-12", "date_precision": "day", "system": "Whole of Government enterprise architecture", "class": "standards"}], "systems": [], "note": ""}}},
+"landregister": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "The Herald opinion piece says the government is modernising cadastral information and land records through the Electronic Cadastre (e-Cadastre), the Digital Land Administration Platform (DLAP) and digitisation of title deeds.", "as_of": "2026-11-12", "date_precision": "day", "system": "e-Cadastre; Digital Land Administration Platform (DLAP)", "class": "land"}], "systems": [], "note": "Described as ongoing digitisation; no service in use stated."}}},
+"localgov": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}},
+"localrecords": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on local revenue records."}}},
+"registry": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on civil registry digital entry."}}}
+}}

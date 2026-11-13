@@ -1,0 +1,14 @@
+{"slug":"2026-11-11-sdn-digital-transformation-minister-itu-pp26","studies":{
+"aiabuse":{"countries":{"SDN":{"facts":[{"sub_indicator":"aiharm","aspect":"authority","value":"designated","fact":"Sudan's digital transformation minister told the ITU Plenipotentiary Conference that Sudan had established three specialised bodies within a year, one of them for artificial intelligence, and enacted legislation governing these areas.","as_of":"2026-11-11","date_precision":"day","system":"Sudan specialised AI body","class":"aiharm"}],"systems":[],"note":""}}},
+"aigovernment":{"countries":{"SDN":{"facts":[],"systems":[{"system":"Baldna","country_label":"Sudan","class":"other","platform":"","owner":"Ministry of Digital Transformation","tiers":""}],"note":"Baldna is a government transactions platform with no AI use stated."}}},
+"aisectoral":{"countries":{"SDN":{"facts":[],"systems":[],"note":"No sectoral AI tool stated."}}},
+"aisystems":{"countries":{"SDN":{"facts":[],"systems":[],"note":"No AI model, dataset or computing stated."}}},
+"authentication":{"countries":{"SDN":{"facts":[],"systems":[],"note":"A digital identity system is named as a launched project with no authentication service stated."}}},
+"birthidlink":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Nothing on civil register and ID links."}}},
+"digitaldivides":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Bridging the divide stated as an aim only; no rural programme or survey figures."}}},
+"idcoverage":{"countries":{"SDN":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Nothing on ID numbers at birth."}}},
+"idmaintenance":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Nothing on who runs the ID system."}}},
+"idregisters":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"SDN":{"facts":[],"systems":[{"system":"digital identity system","country_label":"Sudan","class":"idsystem","platform":"","owner":"","tiers":""}],"note":"A digital identity system is named as a launched project with no issuance or status stated."}}}
+}}

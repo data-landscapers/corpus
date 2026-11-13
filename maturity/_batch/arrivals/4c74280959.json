@@ -1,0 +1,14 @@
+{"slug":"2026-11-12-zaf-biometricupdate-asylum-registration-testing","studies":{
+"aiabuse":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on AI harm rules or an authority."}}},
+"aigovernment":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"AI and machine-learning tools are stated only for later phases of the asylum platform, a plan."}}},
+"aisectoral":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"AI tools for adjudication are planned for later phases, none in service or testing."}}},
+"aisystems":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on AI built or hosted in South Africa."}}},
+"authentication":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Biometric checks are for asylum registration, not an authentication service."}}},
+"birthidlink":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on civil register and ID links."}}},
+"idcoverage":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on ID numbers at birth."}}},
+"idmaintenance":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on who runs the ID system."}}},
+"idregisters":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Smart ID and a national ID prototype are named only in passing, with no issuance, biometric dedup or assurance stated."}}},
+"refugees":{"countries":{"ZAF":{"facts":[{"sub_indicator":"displaced","aspect":"registration","value":"underway","fact":"South Africa's Home Affairs has begun testing a digital asylum system in which people register an intention to apply for asylum with facial biometrics, biographic data and documents, which is not yet a formal application or status.","as_of":"2026-11-12","date_precision":"day","system":"Home Affairs digital asylum platform","class":"displaced"}],"systems":[{"system":"digital asylum platform","country_label":"South Africa","class":"displaced","platform":"","owner":"Department of Home Affairs","tiers":""}],"note":""}}}
+}}

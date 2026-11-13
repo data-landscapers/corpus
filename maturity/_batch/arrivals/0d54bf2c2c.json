@@ -1,0 +1,29 @@
+{"slug": "2026-11-10-sdn-banking-reform-customer-data-protection", "studies": {
+"aiabuse": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The Data and AI Regulation Bill's text is unpublished; nothing says it addresses an AI harm."}}},
+"aigovernment": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"ailaw": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The Council of Ministers approved the Data and Artificial Intelligence Regulation Bill 2026 on 1 November 2026, per Sudan Independent's opinion piece, which says the text is not yet published.", "as_of": "2026-11-01", "date_precision": "day", "system": "Data and Artificial Intelligence Regulation Bill 2026", "class": "law"}], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
+"aisystems": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "The Central Bank of Sudan's website lists 11 fintech entries, mobile payment institutions and payment switch operators, and the bank requires its prior approval for data exchange between banks and fintech firms, per Sudan Independent.", "as_of": "2026-11-10", "date_precision": "day", "system": "Central Bank of Sudan fintech list", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Central bank instructions on data exchange are not consumer-protection rules for digital finance."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No data centre stated."}}},
+"dataexchange": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Only bank-to-fintech data exchange, not a government platform."}}},
+"dataprotectionlaw": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "none", "fact": "Sudan Independent's opinion piece says Sudan has no comprehensive data protection law and no independent data protection authority, citing the World Bank's June 2023 digital economy diagnostic; the 1 November 2026 cabinet-approved data and AI bill is unpublished.", "as_of": "2026-11-10", "date_precision": "day", "system": "", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "none", "fact": "The opinion piece says no independent body regulates data protection and privacy nationally, citing the World Bank's June 2023 diagnostic, and that the gap continues.", "as_of": "2026-11-10", "date_precision": "day", "system": "", "class": "general"}], "systems": [], "note": ""}}},
+"datatransfers": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No rule on cross-border transfers stated."}}},
+"egovservices": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on government online services."}}},
+"feedbackportals": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on feedback channels."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"nationaldatacentres": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No data centre stated."}}},
+"offsitebackup": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No backup site stated."}}},
+"paymentslaw": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Central bank instructions are mentioned without being described as e-money or payment rules."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey figure stated."}}},
+"police": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on police records."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Mobile payment institutions are listed but no service is stated in service."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}}
+}}

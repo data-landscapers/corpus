@@ -1,0 +1,9 @@
+{"slug": "2026-11-10-egy-health-minister-cairo-ict-health-data-law", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on rules against AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on AI in general administration."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [{"system": "Nephro Egypt", "country_label": "Egypt", "class": "other", "platform": "", "owner": "Ministry of Health and Population", "tiers": ""}], "note": "Facial recognition and automated treatment decisions are described without saying AI is used."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on AI built in the country."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Health Minister Khaled Abdel Ghaffar said Egypt already has a personal data protection law from 2020.", "as_of": "2026-11-08", "date_precision": "day", "system": "personal data protection law of 2020", "class": "general"}], "systems": [], "note": ""}}},
+"nonstatefinance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No private amount stated."}}},
+"registry": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Real-time registration of births and deaths is mentioned without saying offices enter it digitally."}}}
+}}

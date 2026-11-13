@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-10-ner-first-data-release-under-50x2030-in-niger-the-2024-agricultural-loss-s",
+ "facts": [],
+ "systems": [
+  {
+   "system": "2024 Agricultural Loss Survey",
+   "country_label": "Enquete sur les pertes agricoles 2024",
+   "class": "other",
+   "platform": "INS Central Data Catalogue",
+   "owner": "Ministry of Agriculture and Livestock",
+   "tiers": ""
+  }
+ ],
+ "note": "An agricultural survey of 720 households by the agriculture ministry, not a statistics-office household survey or census."
+}

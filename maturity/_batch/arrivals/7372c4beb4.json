@@ -1,15 +1,23 @@
-{"slug": "2026-11-06-bfa-burkina-44-2-milliards-de-fcfa-mobilises-pour-atteindre-90-d-inclusion", "studies": {
-"businesspayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
-"centralbank": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Document states nothing on central bank role."}}},
-"consumerprotection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "A consumer-protection axis in a draft strategy is a plan, not rules."}}},
-"crossborderpayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
-"g2ppayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
-"localgov": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Document states nothing on local government connection."}}},
-"paymentsuptake": {"countries": {"BFA": {"facts": [
-{"sub_indicator": "uptake", "aspect": "share", "value": "half", "fact": "The director of ANPFI says Burkina Faso's overall rate of use of financial services was 79.04% in 2023 and 81.8% at end-2025.", "as_of": "2025-12", "date_precision": "month", "system": "Taux global d'utilisation des services financiers", "class": "survey"},
-{"sub_indicator": "uptake", "aspect": "target", "value": "target", "fact": "The director of ANPFI says the overall rate of use of financial services passed the 75% first-strategy target at 79.04% in 2023 and stood at 81.8% at end-2025.", "as_of": "2025-12", "date_precision": "month", "system": "Taux global d'utilisation des services financiers", "class": "survey"}
-], "systems": [], "note": "The rate is an overall rate of use of financial services, not stated to be a survey of adults with accounts."}}},
-"publicconsultation": {"countries": {"BFA": {"facts": [], "systems": [], "note": "SNFI 2 is a financial inclusion strategy, not a named digital law, and the article names no one outside government at the validation workshop."}}},
-"retailpayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Document names no mobile money service."}}},
-"revenuecollection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}}
-}}
+{
+ "slug": "2026-11-06-bfa-burkina-44-2-milliards-de-fcfa-mobilises-pour-atteindre-90-d-inclusion",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "A financial inclusion strategy; nothing on accessibility for persons with disabilities."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a citizen feedback channel."
+    }
+   }
+  }
+ }
+}

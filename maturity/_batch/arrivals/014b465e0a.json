@@ -1,58 +1,21 @@
 {
  "slug": "2026-03-06-lso-matsoso-tears-into-politicians",
  "studies": {
-  "consumerprotection": {
+  "health": {
    "countries": {
     "LSO": {
      "facts": [],
      "systems": [],
-     "note": "Article is about policing; nothing on digital financial services."
+     "note": "A police oversight story; nothing on health."
     }
    }
   },
-  "localgov": {
+  "registry": {
    "countries": {
     "LSO": {
      "facts": [],
      "systems": [],
-     "note": "Article is about policing; nothing on local government connection."
-    }
-   }
-  },
-  "police": {
-   "countries": {
-    "LSO": {
-     "facts": [
-      {
-       "sub_indicator": "record",
-       "aspect": "made",
-       "value": "paper",
-       "fact": "The Inspector of Police's 2024/25 report describes officers stitching loose pages into a makeshift 'LMPS 5' book for daily incidents, and poorly documented cases and non-existent exhibit books, so station records are paper.",
-       "as_of": "2026-03-06",
-       "date_precision": "day",
-       "system": "LMPS 5 occurrence book",
-       "class": "record"
-      }
-     ],
-     "systems": [
-      {
-       "system": "LMPS 5 occurrence book",
-       "country_label": "Lesotho",
-       "class": "record",
-       "platform": "paper",
-       "owner": "Lesotho Mounted Police Service",
-       "tiers": ""
-      },
-      {
-       "system": "Livestock Registration and Marking Information System (LRMIS)",
-       "country_label": "Lesotho",
-       "class": "other",
-       "platform": "",
-       "owner": "",
-       "tiers": ""
-      }
-     ],
-     "note": ""
+     "note": "A police oversight story; nothing on civil registration."
     }
    }
   }

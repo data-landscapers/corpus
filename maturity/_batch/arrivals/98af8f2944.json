@@ -1,0 +1,11 @@
+{"slug": "2026-11-12-facephi-and-egypttrust-partner-on-digital-identity-and-fraud-preventio", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Biometric Update reports Egypt Trust provides electronic signature and e-seal services in Egypt and was among the first companies licensed by ITIDA to do so.", "as_of": "2026-11-12", "date_precision": "day", "system": "Egypt Trust electronic signature and e-seal services", "class": "authentication"}], "systems": [{"system": "Egypt Trust e-signature and e-seal platform", "country_label": "Egypt", "class": "authentication", "platform": "locally hosted multi-tenant platform", "owner": "Egypt Trust (ITIDA-licensed)", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document says nothing on civil register and ID links."}}},
+"ecommercelaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "ITIDA licence named with no law or licence date; no law or rules stated."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the national ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself."}}},
+"idverification": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Facephi verification is a private vendor integration; no check against the national ID is stated."}}}
+}}

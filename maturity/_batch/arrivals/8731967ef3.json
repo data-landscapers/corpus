@@ -1,14 +1,1 @@
-{
- "slug": "2025-10-10-ec-global-gateway-forum-blue-raman-digital-corridor",
- "studies": {
-  "fibrebackbone": {
-   "countries": {
-    "DJI": {
-     "facts": [],
-     "systems": [],
-     "note": "Subsea cable landing; no inland fibre stated."
-    }
-   }
-  }
- }
-}
+{"slug": "2025-10-10-ec-global-gateway-forum-blue-raman-digital-corridor", "studies": {"policyresearch": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Submarine cable announcement; no local institution researching digital policy."}}}}}

@@ -1,0 +1,23 @@
+{"slug": "2026-11-10-egy-pm-opens-cairo-ict-ai-targets-2030", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on AI harm rules."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Digital Egypt services are not said to use AI; Karnak Legal is a justice-sector tool."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The Applied Innovation Center showed Karnak Legal, an app built on its Karnak Arabic language model and developed with the Ministry of Justice, at Cairo ICT; no service use is stated.", "as_of": "2026-11-07", "date_precision": "day", "system": "Karnak Legal", "class": "sectorai"}], "systems": [], "note": "Senna and Seya are not tied to a public body."}}},
+"aistrategy": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Phase two of Egypt's National AI Strategy runs from 2025 to 2030, per the Cairo ICT account of the minister's roadmap.", "as_of": "2026-11-07", "date_precision": "day", "system": "National AI Strategy phase two, 2025-2030", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "The Applied Innovation Center's Arabic large language model Karnak has passed 300,000 downloads, per Cairo ICT 2026.", "as_of": "2026-11-07", "date_precision": "day", "system": "Karnak", "class": "localai"}], "systems": [{"system": "Karnak", "country_label": "Egypt", "class": "localai", "platform": "Arabic large language model", "owner": "Applied Innovation Center", "tiers": ""}], "note": "Five to seven AI data centres are a 2030 target only."}}},
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Central Bank only named as patron of a payments expo."}}},
+"cloudstrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A National Data Centre Strategy is only expected; no drafting stated."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Specialised AI data centres are a 2030 target; none in service stated."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No data centre stated."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No survey figure stated."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on mobile money."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A target of 250 AI startups and a hackathon, but no startup law, strategy or fund."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No hub or park stated."}}}
+}}

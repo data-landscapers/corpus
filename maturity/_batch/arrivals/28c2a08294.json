@@ -1,0 +1,15 @@
+{"slug":"2026-11-11-nga-nitda-review-digital-strategy-consultation","studies":{
+"aiabuse":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on AI harm rules or an authority."}}},
+"aigovernment":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on AI used in government administration."}}},
+"aisectoral":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on AI in a sector's public system."}}},
+"aisystems":{"countries":{"NGA":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"NITDA's interventions supported the development of N-ATLAS, an openly released AI language model with eight billion parameters and four speech recognition models in Nigerian languages, as presented by Raymond Onuoha of Lagos Business School.","as_of":"2026-11-11","date_precision":"day","system":"N-ATLAS","class":"localai"},{"sub_indicator":"localai","aspect":"shared","value":"shared","fact":"N-ATLAS has attracted more than 140 registered collaborators and 18 third-party applications have been certified for integration with it, according to Onuoha; commercialisation and adoption are at an early stage.","as_of":"2026-11-11","date_precision":"day","system":"N-ATLAS","class":"localai"}],"systems":[{"system":"N-ATLAS","country_label":"Nigeria","class":"localai","platform":"","owner":"NITDA","tiers":""}],"note":""}}},
+"civilserviceskills":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Training described is for Nigerians generally, none for civil servants."}}},
+"datacentres":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Data centres are mentioned only as infrastructure needed; no facility stated."}}},
+"digitaldivides":{"countries":{"NGA":{"facts":[],"systems":[],"note":"A call for inclusion in underserved communities only; no rural programme or survey figures."}}},
+"digitalskills":{"countries":{"NGA":{"facts":[{"sub_indicator":"publicskills","aspect":"training","value":"underway","fact":"NITDA reports it has trained and certified approximately 2.8 million Nigerians in digital skills under its SRAP 2.0 strategy, per Raymond Onuoha of Lagos Business School; no locations are stated.","as_of":"2026-11-11","date_precision":"day","system":"NITDA digital skills training","class":"publicskills"}],"systems":[],"note":""}}},
+"digitalstrategy":{"countries":{"NGA":{"facts":[],"systems":[{"system":"Strategic Roadmap and Action Plan (SRAP 2.0) 2024-2026","country_label":"Nigeria","class":"ministry-plan","platform":"","owner":"NITDA","tiers":""}],"note":"SRAP 2.0 is an agency's own plan, noted and not assessed."}}},
+"nationaldatacentres":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No nationally owned data centre stated."}}},
+"schoolinternet":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on school connectivity."}}},
+"startups":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Startup support and money mobilised are stated without a startup act, strategy or public fund under one."}}},
+"techhubs":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on hubs, incubators or parks."}}}
+}}

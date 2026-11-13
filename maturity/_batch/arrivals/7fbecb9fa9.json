@@ -1,0 +1,14 @@
+{
+ "slug": "2026-11-11-inforpress-fogo-telecoms-internet-outage",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The cables named link Cabo Verde's islands to each other, not the country to the rest of the world, and no international route is stated."
+    }
+   }
+  }
+ }
+}

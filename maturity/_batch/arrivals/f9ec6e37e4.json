@@ -1,0 +1,22 @@
+{"slug": "2026-11-11-bdi-saudi-support-digital-id-data-centre", "studies": {
+"authentication": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No authentication, e-signature or PKI service is stated."}}},
+"birthidlink": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No link between civil register and ID system is stated."}}},
+"businesspayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on the central bank or payments."}}},
+"civilregister": {"countries": {"BDI": {"facts": [], "systems": [{"system": "Digital civil registration platform", "country_label": "Burundi", "class": "other", "platform": "", "owner": "Ministry of Interior", "tiers": ""}], "note": "The platform was only presented on 6 May; no pilot or rollout to offices is stated."}}},
+"cloudstrategy": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No hosting or cloud policy is stated."}}},
+"consumerprotection": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"BDI": {"facts": [], "systems": [{"system": "National data centre (PAFEN)", "country_label": "Burundi", "class": "other", "platform": "", "owner": "Government of Burundi", "tiers": ""}], "note": "The national data centre is a planned project with a 2028 completion target; none in service for hire is stated."}}},
+"g2ppayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idcoverage": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on who operates or maintains an ID system."}}},
+"idregisters": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No register keyed on an ID number is stated."}}},
+"idrobustness": {"countries": {"BDI": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "A Burundian interior ministry official said on 6 May 2026 that Burundi was technically ready to produce the new biometric identity cards, with issuance waiting on a law governing their use.", "as_of": "2026-05-06", "date_precision": "day", "system": "Biometric identity card", "class": "idsystem"}], "systems": [{"system": "Biometric national identity card", "country_label": "Burundi", "class": "idsystem", "platform": "", "owner": "Ministry of Interior", "tiers": ""}], "note": ""}}},
+"nationaldatacentres": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire in service is stated."}}},
+"paymentsuptake": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No account survey figure is given."}}},
+"registry": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No statement on local registration offices entering events digitally."}}},
+"retailpayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on retail digital payments."}}},
+"revenuecollection": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}}
+}}

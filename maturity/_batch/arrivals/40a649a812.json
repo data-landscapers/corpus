@@ -1,0 +1,72 @@
+{
+ "slug": "2026-11-11-businessday-google-600k-nigerian-teen-online-risks",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "BusinessDay names Vincent Olatunji as national commissioner of the NDPC, which ran consultations with the communications ministry on children's online risks.",
+       "as_of": "2026-11-11",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nigeria Data Protection Commission",
+       "country_label": "NDPC",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "BusinessDay names Vincent Olatunji as national commissioner of the NDPC, which ran consultations with the communications ministry on children's online risks.",
+       "as_of": "2026-11-11",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of people using the internet is stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of secondary schools with internet and no curriculum fact is stated."
+    }
+   }
+  }
+ }
+}

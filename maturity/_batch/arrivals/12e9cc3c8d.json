@@ -1,0 +1,9 @@
+{"slug": "2026-11-12-gnq-ejecutivo-aprueba-modernizacion-cnedoge", "studies": {
+"authentication": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No enrolment figure stated."}}},
+"idfrombirth": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"GNQ": {"facts": [], "systems": [{"system": "CNEDOGE", "country_label": "Equatorial Guinea", "class": "other", "platform": "", "owner": "state (Vicepresidency oversight)", "tiers": ""}], "note": "Equipment renewal approved; no statement of who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"GNQ": {"facts": [], "systems": [{"system": "CNEDOGE", "country_label": "Equatorial Guinea", "class": "other", "platform": "", "owner": "state", "tiers": ""}], "note": "Document covers an equipment renewal for the identity-document issuer; it does not say unique numbers are issued, biometric deduplication or certification."}}}
+}}

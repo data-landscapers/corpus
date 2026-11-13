@@ -1,9 +1,1 @@
-{"slug": "2026-06-13-tgo-journee-detude-internationale-la-chaire-unesco-fait-de-luniversite-de", "studies": {
-"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Academic study day; no rule or authority on AI harms stated."}}},
-"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
-"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
-"aisystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No locally built AI stated."}}},
-"digitalsovereignty": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Sovereignty is a study day theme only; no policy, rule or hosting on state data stated."}}},
-"eparticipation": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No government online consultation stated."}}},
-"publicconsultation": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No consultation on a named digital law or policy stated."}}}
-}}
+{"slug": "2026-06-13-tgo-journee-detude-internationale-la-chaire-unesco-fait-de-luniversite-de", "studies": {"policyresearch": {"countries": {"TGO": {"facts": [{"sub_indicator": "research", "aspect": "research", "value": "begun", "fact": "The Universite de Lome hosted the 9th international study day of the UNESCO Chair on digital technology and AI in Africa, after doctoral workshops on 9 to 11 June, with academics and researchers discussing digital governance and sovereignty.", "as_of": "2026-06-12", "date_precision": "day", "system": "Chaire UNESCO Defis partages du developpement", "class": "research"}], "systems": [{"system": "Chaire UNESCO Defis partages du developpement", "country_label": "Togo", "class": "research", "platform": "", "owner": "Universite de Lome (focal point)", "tiers": ""}], "note": ""}}}}}

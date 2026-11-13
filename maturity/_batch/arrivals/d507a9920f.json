@@ -1,0 +1,9 @@
+{"slug": "2026-11-11-public-services-guellaa-announces-planned-law-on-data-exchange-and-dig", "studies": {
+"authentication": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only a planned law on digital identification; no service stated."}}},
+"birthidlink": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No enrolment figure stated."}}},
+"idfrombirth": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself."}}}
+}}

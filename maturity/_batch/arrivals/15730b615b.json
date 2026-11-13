@@ -1,12 +1,48 @@
 {
  "slug": "2026-11-11-som-somalia-plans-central-security-data-system-to-fill-reporting-gaps",
  "studies": {
-  "dataprotectionlaw": {
+  "health": {
    "countries": {
     "SOM": {
      "facts": [],
      "systems": [],
-     "note": "Document names no data protection law; it says only the ministry did not say how personal data will be protected."
+     "note": "Nothing on health."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Data Analysis Centre (DAC)",
+       "country_label": "SOM",
+       "class": "statistics",
+       "platform": "",
+       "owner": "Ministry of Internal Security",
+       "tiers": ""
+      }
+     ],
+     "note": "A central security data system for reports to cabinet, being designed at a workshop; it does not say stations make a digital record when a report is taken, so it is not a station record system."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil registration."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
     }
    }
   }

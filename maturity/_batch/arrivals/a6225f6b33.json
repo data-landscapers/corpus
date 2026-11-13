@@ -1,0 +1,19 @@
+{"slug": "2026-11-12-nga-nitda-cbn-national-sovereign-cloud", "studies": {
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "CBN is named only on data localisation and cybersecurity, not as payments licenser or switch overseer."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on consumer rules for digital finance."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A survey of 42 infrastructure providers is cited, but no data centre for hire, tier or cloud region is named."}}},
+"datalocalisation": {"countries": {"NGA": {"facts": [{"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "The CBN Deputy Governor told the NITDA-CBN dialogue that financial institutions must comply with applicable data localisation requirements and a January 1, 2027 implementation timeline for critical payment transaction data.", "as_of": "2026-10-28", "date_precision": "day", "system": "CBN data localisation requirement for critical payment transaction data", "class": "rule"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Protection of critical financial data is mentioned, with no data protection law stated."}}},
+"digitalsovereignty": {"countries": {"NGA": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "NITDA says it and the Central Bank of Nigeria are advancing the National Sovereign Cloud Initiative, with the financial sector to be the first to comply and an assurance framework to guide implementation.", "as_of": "2026-10-28", "date_precision": "day", "system": "National Sovereign Cloud Initiative", "class": "sovereignty"}], "systems": [{"system": "National Sovereign Cloud Initiative", "country_label": "Nigeria", "class": "sovereignty", "platform": "", "owner": "NITDA with CBN", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No national digital strategy is named."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"internationalbandwidth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Submarine cable disruption is raised as a risk only; no cable or route named."}}},
+"nationaldatacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No nationally owned data centre named."}}},
+"offsitebackup": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Disaster recovery is urged on financial institutions; no backup site named."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No account ownership survey figure stated."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Digital payments and mobile money are mentioned only in general terms."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}}
+}}

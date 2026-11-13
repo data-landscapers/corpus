@@ -1,93 +1,32 @@
 {
  "slug": "2026-06-04-mar-morocco-expands-digital-reform-drive-with-police-service-modernization",
  "studies": {
-  "authentication": {
+  "egovservices": {
    "countries": {
     "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Article covers a police reception-services pilot framework and the E-Police online procedures platform; nothing this study asks."
-    }
-   }
-  },
-  "birthidlink": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Article covers a police reception-services pilot framework and the E-Police online procedures platform; nothing this study asks."
-    }
-   }
-  },
-  "dataprotectionlaw": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Article covers a police reception-services pilot framework and the E-Police online procedures platform; nothing this study asks."
-    }
-   }
-  },
-  "digitalstrategy": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Article covers a police reception-services pilot framework and the E-Police online procedures platform; nothing this study asks."
-    }
-   }
-  },
-  "idcoverage": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Article covers a police reception-services pilot framework and the E-Police online procedures platform; nothing this study asks."
-    }
-   }
-  },
-  "idfrombirth": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Article covers a police reception-services pilot framework and the E-Police online procedures platform; nothing this study asks."
-    }
-   }
-  },
-  "idmaintenance": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Article covers a police reception-services pilot framework and the E-Police online procedures platform; nothing this study asks."
-    }
-   }
-  },
-  "idregisters": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Article covers a police reception-services pilot framework and the E-Police online procedures platform; nothing this study asks."
-    }
-   }
-  },
-  "idrobustness": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Article covers a police reception-services pilot framework and the E-Police online procedures platform; nothing this study asks."
-    }
-   }
-  },
-  "police": {
-   "countries": {
-    "MAR": {
-     "facts": [],
-     "systems": [],
-     "note": "Article covers a police reception-services pilot framework and the E-Police online procedures platform; nothing this study asks."
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "We are Tech reports that the DGSN launched the E-Police platform in late 2024, letting citizens request police documents, book appointments and track selected procedures online.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "E-Police",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-Police",
+       "country_label": "E-Police",
+       "class": "eservices",
+       "platform": "",
+       "owner": "DGSN",
+       "tiers": ""
+      }
+     ],
+     "note": "The 2026 framework agreement on reception services is a pilot plan, not a service online."
     }
    }
   }
