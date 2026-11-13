@@ -9,3 +9,8 @@ NER,014,service,underway,removed,Stage 4c: the BCEAO instant payment system's 20
 SEN,018,service,underway,removed,Stage 4c: the BCEAO instant payment system's 2024 pilot is not a mobile money service licensed or piloted with none in service
 TGO,016,service,underway,removed,Stage 4c: the BCEAO instant payment system's 2024 pilot is not a mobile money service licensed or piloted with none in service
 TGO,017,service,underway,removed,Stage 4c: the BCEAO instant payment system's 2024 pilot is not a mobile money service licensed or piloted with none in service
+KEN,029,switch,national,revalued: interop:interop,"Rebuild: Kenswitch's own release; Pesalink also joins banks and wallets and no source shows either serving every service, so no one national switch (Bill, 2026-11-09, message 110)"
+MUS,002,interop,interop,revalued: service:inservice,"Rebuild: MauCAS is described as an instant-payment switch for retail payments, with no wallet or second mobile money provider named"
+MUS,003,interop,interop,revalued: service:inservice,"Rebuild: transfers between bank accounts through fintech platforms, not between wallets or with banks"
+NAM,001,interop,interop,revalued: service:inservice,"Rebuild: the instant payments system's first participants are two banks and Nampost; no wallet is named, and e-money issuers are still to join (NAM-002)"
+LBR,010,interop,interop,revalued: switch:national,"Rebuild: the central bank's own instant payment system carries payments across banks and mobile network operators, as Sierra Leone's does (SLE-018), so it answers question 4"

@@ -20,9 +20,9 @@ The African Union's Digital Transformation Strategy asks for interoperable e-mon
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 27 |
-| 4 Operating | 17 |
-| 3 Established | 9 |
+| 5 Leading | 28 |
+| 4 Operating | 14 |
+| 3 Established | 11 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -144,6 +144,13 @@ A national switch connected mobile money wallets and bank accounts in 2025.
 - LeSwitch, formerly the National Payment Switch, connects banks and mobile money wallets and now carries local ATM and POS debit card transactions, with POS in pilot from 11 May 2025 ([source, 2025-05-11](https://publiceyenews.com/2025/05/20/leswitch-expands-to-pos-transactions)).
 - LeSwitch connects POS terminals, ATMs and mobile money into a single central hub, with its fast-payments phase launched 20 March 2024 ([source, 2024-03-20](https://www.standardlesothobank.co.ls/lesotho/personal/About-us/press-releases/press-release-lesotho-national-payment-switch-leswitch)).
 
+### Liberia: 5 Leading
+
+The central bank's instant payment system connected mobile money wallets and bank accounts in 2026.
+
+- The Central Bank of Liberia deputy governor says the recently launched instant and interoperable payment system enables payments across banks and mobile network operators ([source, 2026-08](https://www.liberianobserver.com/business/cbl-backs-lra-s-move-to-billion-revenue-drive/article_7ef5e649-7ccd-4187-91bc-d17d1a19505c.html)).
+- The speaker says the central bank gave banks and mobile money operators access to its instant payment system to achieve interoperability ([source, 2026-08-16](https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1)).
+
 ### Malawi: 5 Leading
 
 A national switch connected mobile money wallets and bank accounts in 2025.
@@ -258,13 +265,6 @@ Payments between mobile money providers or with banks were in service in 2026; n
 - Pesalink, run by the Kenya Bankers Association's IPSL, connects banks, telcos and microfinance institutions (TechCabal) ([source, 2026-04-03](https://techcabal.com/2026/04/03/kenswitch-visa-deal-stakes-kenya-payments-overhaul/)).
 - The Kenswitch release says its domestic switch enables interoperability among banks, SACCOs, microfinance institutions and mobile money network providers across multiple payment channels ([source, 2026-11-02](https://www.business-standard.com/content/press-releases-ani/kenswitch-partners-with-payu-s-wibmo-to-strengthen-online-card-security-in-kenya-126110200460_1.html)).
 
-### Liberia: 4 Operating
-
-Payments between mobile money providers or with banks were in service in 2026; no source found reports a national switch.
-
-- The Inclusive Instant Payment System lets customers of Lonestar MTN Mobile Money and Orange Money Liberia make real-time interoperable transactions across the two networks, per the Central Bank of Liberia governor ([source, 2026-10-01](https://www.liberianobserver.com/business/liberia-s-instant-payment-system-crosses-5-3m-transactions/article_b75bc316-97ae-459f-840d-c2822b8e7a84.html)).
-- The Central Bank of Liberia deputy governor says the recently launched instant and interoperable payment system enables payments across banks and mobile network operators ([source, 2026-08](https://www.liberianobserver.com/business/cbl-backs-lra-s-move-to-billion-revenue-drive/article_7ef5e649-7ccd-4187-91bc-d17d1a19505c.html)).
-
 ### Madagascar: 4 Operating
 
 Payments between mobile money providers or with banks were in service in 2026; no source found reports a national switch.
@@ -278,20 +278,6 @@ Payments between mobile money providers or with banks were in service in 2026; n
 
 - BCEAO says interoperable e-money transactions in UEMOA, which includes Mali, go through PI-SPI, with 175 connected participants including banks, e-money issuers and payment institutions ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
 - The BCEAO list shows banks and mobile money providers in Mali authorised together on PI-SPI ([source, 2026-09-30](https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf)).
-
-### Mauritius: 4 Operating
-
-Payments between mobile money providers or with banks were in service in 2026; no source found reports a national switch.
-
-- Platform Africa reports Mauritius has made progress on payments and interoperability, and customers can move funds between their bank accounts through fintech platforms ([source, 2026-09-10](https://platformafrica.com/2026/09/17/pulse-of-fintech-2026-why-collaboration-is-the-key-to-unlocking-mauritius-financial-future/)).
-- AfricaNenda's SIIPS 2024 case study profiles MauCAS as Mauritius's national instant-payment switch for interoperable, real-time retail payments ([source, 2024](https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf)).
-
-### Namibia: 4 Operating
-
-Namibia's MTC mobile money is in use and the instant payments system links banks and Nampost since 2026; no national wallet switch is known.
-
-- The UN in Namibia says UNHCR and the government delivered cash to around 6,000 refugees and asylum-seekers in Osire settlement through MTC Namibia's mobile money service ([source, 2025-02](https://namibia.un.org/en/289948-cash-based-interventions-provide-ray-hope-refugees-namibia-amid-severe-drought-and-funding)).
-- The Bank of Namibia's instant payments solution went live in June 2026 with Bank Windhoek, Nampost and Letshego Bank Namibia as first participants, ahead of a phased national rollout, per Deputy Governor Leonie Dunn ([source, 2026-06](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
 
 ### Niger: 4 Operating
 
@@ -353,6 +339,20 @@ Mobile money or e-money was in service in 2026; no source found reports payments
 
 - Governor Issa said digital-wallet transactions rose from 109 million dinars in October 2024 to 703 million dinars in August 2026 ([source, 2026-08](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference)).
 - Circular 9/2026 of the Central Bank of Libya lets licensed e-payment companies issue e-wallets, including to legally resident foreigners, with daily transfer caps of 100,000 dinars person to person, 500,000 person to company and 2 million company to company for citizens ([source, 2026-03-11](https://bankawy.net/banks/mssrf-lebea-almrkze-edta-dtwabtd-jdedtt-llm/bankawy/)).
+
+### Mauritius: 3 Established
+
+Mauritius's banks took QR and instant payments in 2025 and 2026; no source found reports payments between wallets or with banks.
+
+- MCB reported QR payments via the Juice app, including the central bank's MAUCAS QR, grew 67% in 2025 (L'Express) ([source, 2025](https://lexpress.mu/node/553532)).
+- AfricaNenda's SIIPS 2024 case study profiles MauCAS as Mauritius's national instant-payment switch for interoperable, real-time retail payments ([source, 2024](https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf)).
+
+### Namibia: 3 Established
+
+Namibia's MTC mobile money paid refugees in 2025, and a bank instant payments system went live in 2026; no wallet transfers between providers were found.
+
+- The UN in Namibia says UNHCR and the government delivered cash to around 6,000 refugees and asylum-seekers in Osire settlement through MTC Namibia's mobile money service ([source, 2025-02](https://namibia.un.org/en/289948-cash-based-interventions-provide-ray-hope-refugees-namibia-amid-severe-drought-and-funding)).
+- The Bank of Namibia's instant payments solution went live in June 2026 with Bank Windhoek, Nampost and Letshego Bank Namibia as first participants, ahead of a phased national rollout, per Deputy Governor Leonie Dunn ([source, 2026-06](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
 
 ### Sao Tome and Principe: 3 Established
 

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "retail",
-      "stage": "4",
+      "stage": "3",
       "service": "inservice",
-      "interop": "interop",
+      "interop": "",
       "switch": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-003;MUS-002",
-      "gaps": "No source found since October 2023 says a national switch connects wallets and bank accounts.",
-      "note": "First pass: counted from the four questions by study-ladder-retailpayments.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MUS-001;MUS-002",
+      "gaps": "No source found since October 2023 says payments between providers, or between wallets and banks, are in service.",
+      "note": "Rebuild: MCB's Juice app takes QR payments, including the central bank's MAUCAS QR (MUS-001), so 3. MauCAS is described as an instant-payment switch and fintechs move funds between bank accounts, but no source names a wallet or a second provider, so not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

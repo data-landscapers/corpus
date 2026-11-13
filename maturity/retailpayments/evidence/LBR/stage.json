@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "retail",
-      "stage": "4",
+      "stage": "5",
       "service": "inservice",
       "interop": "interop",
-      "switch": "",
+      "switch": "national",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-002;LBR-010",
-      "gaps": "No source found since October 2023 says a national switch connects wallets and bank accounts.",
-      "note": "First pass: counted from the four questions by study-ladder-retailpayments.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "LBR-010;LBR-006",
+      "gaps": "",
+      "note": "Rebuild: the Central Bank of Liberia's instant payment system, launched in December 2025 between the two mobile money networks, carried payments across banks and mobile network operators by August 2026 (LBR-010, LBR-006), so 5, as Sierra Leone's is read.",
+      "as_at": "2026-11-13"
     }
   ]
 }

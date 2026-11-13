@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "retail",
-      "stage": "4",
+      "stage": "3",
       "service": "inservice",
       "interop": "",
       "switch": "",
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-003;NAM-001",
-      "gaps": "No source found since October 2023 says a national switch connects wallets and bank accounts.",
-      "note": "Restaged by hand 2026-11-11 (housekeeping 57): MTC's mobile money service delivered UNHCR cash to about 6,000 refugees in 2025 (NAM-003, the refugees study's source), so a service is in use; the instant payments system live since June 2026 links banks and Nampost (NAM-001). No national switch for wallets is held, so 4.",
-      "as_at": "2026-11-11"
+      "gaps": "No source found since October 2023 says payments between providers, or between wallets and banks, are in service.",
+      "note": "Rebuild: MTC's mobile money service delivered UNHCR cash to about 6,000 refugees in 2025 (NAM-003), so 3. The instant payments system live since June 2026 links two banks and Nampost (NAM-001) and e-money issuers are still to join (NAM-002), so no payment between wallets or with banks is shown and not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }
