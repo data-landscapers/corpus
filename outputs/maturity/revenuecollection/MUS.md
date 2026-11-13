@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 gives a figure for revenue paid electronically.
+***Not found***. No source found since October 2023 says the main taxes and customs duties are all filed and paid electronically. No figure for revenue paid electronically has been found.

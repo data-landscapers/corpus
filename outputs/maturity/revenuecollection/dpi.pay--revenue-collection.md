@@ -21,8 +21,8 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 | Stage | Countries |
 |---|---|
 | 5 Leading | 8 |
-| 4 Operating | 3 |
-| 3 Established | 39 |
+| 4 Operating | 2 |
+| 3 Established | 40 |
 | 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -88,23 +88,15 @@ A figure for revenue paid electronically was reported in 2026.
 
 Chad's main taxes are filed and paid online and customs duties paid electronically since 2024; no source found reports the electronic share of revenue.
 
-- The Director General of Taxes said that through the E-Tax platform, launched in 2022, anyone can declare and pay taxes online, with banks and mobile operators facilitating electronic payments ([source, 2025-08-29](https://tchadinfos.com/2025/08/29/la-direction-generale-des-impots-lance-une-campagne-nationale-de-sensibilisation-sur-le-civisme-fiscal-et-la-plateforme-e-tax/)).
 - The director general of taxes says E-Tax lets taxpayers pay all taxes and duties they owe online, and that the DGI is interconnected with eight banks ([source, 2024-03-20](https://tchadinfos.com/2024/03/20/vulgarisation-de-e-tax-la-direction-des-impots-echange-avec-les-experts-comptables-et-les-conseillers-fiscaux/)).
 - Chad's customs e-payment system, launched 21 February 2024, lets all customs duties and taxes be paid electronically by SYDONIA World tele-payment, bank transfer or mobile money, with an automatic receipt ([source, 2024-02-21](https://douanes.td/e-douane/e-paiement/)).
+- The Director General of Taxes said that through the E-Tax platform, launched in 2022, anyone can declare and pay taxes online, with banks and mobile operators facilitating electronic payments ([source, 2025-08-29](https://tchadinfos.com/2025/08/29/la-direction-generale-des-impots-lance-une-campagne-nationale-de-sensibilisation-sur-le-civisme-fiscal-et-la-plateforme-e-tax/)).
 
 ### Lesotho: 4 Operating
 
 The main taxes and customs duties were filed and paid electronically in 2026; the electronic share is not reported.
 
 - Revenue Services Lesotho says individuals and businesses can pay Corporate Income Tax, PAYE, VAT and customs duties electronically through the new RSL-SLB e-payment system ([source, 2026-02-11](https://www.lena.gov.ls/rsl-slb-launch-e-payment-integration)).
-
-### Mauritius: 4 Operating
-
-Mauritius files income tax and VAT returns online and takes customs duties electronically in 2025; no source found reports the electronic share of revenue.
-
-- The Mauritius Revenue Authority states that VAT charged or collected by foreign digital-service suppliers must be remitted electronically to the MRA, and lists online VAT registration, electronic submission of VAT returns and electronic payment of VAT due as available facilities from 1 January 2026 ([source, 2026-01-01](https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers)).
-- The Mauritius Revenue Authority announces the Individual Income Tax Returns e-Filing Season 2025, in which taxpayers file returns electronically with a User Id (NID, NCID or TAN) and password and pay any tax due by 15 October 2025 ([source, 2025](https://www.mra.mu/eservices1/individual/individual-e-filing-season)).
-- The TradeNet portal page of Mauritius Network Services says commercial banks are linked to it, enabling electronic payment of duties and taxes, and a 10 March 2025 notice says electronic payment instructions are processed on it ([source, 2025-03-10](https://tradenetmns.mu/WEBVEHICLE/Index)).
 
 ### Algeria: 3 Established
 
@@ -251,6 +243,13 @@ Some taxes or fees could be paid electronically in 2025; no source found reports
 Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
 
 - The guide says mobile money is integrated into public service delivery, such as paying Digital ID renewal fees ([source, 2026-06-08](https://www.trade.gov/country-commercial-guides/malawi-digital-economy)).
+
+### Mauritius: 3 Established
+
+In 2025 Mauritian taxpayers filed income tax returns online and paid customs duties electronically; no source found shows all main taxes filed and paid online.
+
+- The Mauritius Revenue Authority states that VAT charged or collected by foreign digital-service suppliers must be remitted electronically to the MRA, and lists online VAT registration, electronic submission of VAT returns and electronic payment of VAT due as available facilities from 1 January 2026 ([source, 2026-01-01](https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers)).
+- The TradeNet portal page of Mauritius Network Services says commercial banks are linked to it, enabling electronic payment of duties and taxes, and a 10 March 2025 notice says electronic payment instructions are processed on it ([source, 2025-03-10](https://tradenetmns.mu/WEBVEHICLE/Index)).
 
 ### Mozambique: 3 Established
 

@@ -45,3 +45,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-04,CIV,dpi.pay--revenue-collection,ladder,3,5,CIV-005;CIV-004,"Bill 2026-11-04, message 75: a reported figure reaches 5 without the main taxes shown; TresorPay collections; 3 to 5"
 2026-11-07,MWI,dpi.pay--revenue-collection,fact,2,3,MWI-004,"MWI-004: a US government guide (June 2026) says mobile money pays public fees such as Digital ID renewals; some fees paid electronically, stage 2 to 3"
 2026-11-11,GNB,dpi.pay--revenue-collection,fact,2,3,GNB-002,External claims (housekeeping 58): DGCI circular of 10 December 2025 requires import VAT to be declared and paid through Kontaktu; 3
+2026-11-13,MUS,dpi.pay--revenue-collection,review,4,3,MUS-001;MUS-004,"Rebuild recount 3, held 4: income tax, foreign-supplier VAT and TradeNet customs shown separately, no source names the main taxes filed and paid online, as BFA, CPV, NAM at 3; 4 to 3"
+2026-11-13,TCD,dpi.pay--revenue-collection,review,4,4,TCD-012;TCD-013;TCD-010,"Rebuild recount 3, held 4: TCD-012 E-Tax pays all taxes and duties and TCD-013 customs takes all duties, revalued main in corrections.csv; stays 4"
+2026-11-13,SDN,dpi.pay--revenue-collection,review,3,3,SDN-002;SDN-009,"Rebuild recount 4, held 3: SDN-010 Isali collects budgeted fees, but SDN-013 says tax e-payment still being activated; SDN-010 revalued to payment in corrections.csv; stays 3"

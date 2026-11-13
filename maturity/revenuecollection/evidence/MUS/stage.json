@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "4",
+      "stage": "3",
       "payment": "inservice",
-      "main": "main",
+      "main": "",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-001;MUS-002;MUS-004",
-      "gaps": "No source found since October 2023 gives a figure for revenue paid electronically.",
-      "note": "First pass, reassessed 2026-10-27: income tax and VAT returns are filed electronically and customs duties paid through TradeNet. No figure for the electronic share has been found.",
-      "as_at": "2026-10-27"
+      "stage_sources": "MUS-001;MUS-004",
+      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically; no figure for revenue paid electronically has been found.",
+      "note": "Reassessed 2026-11-13: some taxes and customs duties are paid electronically, but no source names the main taxes filed and paid online, as Lesotho and Chad have; staged with Burkina Faso, Cabo Verde and Namibia at 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

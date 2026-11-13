@@ -1,18 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "3",
-   "payment": "inservice",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-002;SDN-009",
-   "gaps": "Isali collects all budgeted revenue fees and links to customs, but no source found says the main taxes are filed electronically; no figure for the electronic share has been found.",
-   "note": "First pass, reassessed 2026-10-27: Isali collects public revenue electronically, but the rung asks for filing and payment of the main taxes and no filing is stated. The war has also returned some collection in RSF-held areas to cash.",
-   "as_at": "2026-10-27"
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "payment": "inservice",
+      "main": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-002;SDN-009",
+      "gaps": "Isali collects all budgeted revenue fees and links to customs, but no source found says the main taxes are filed electronically; no figure for the electronic share has been found.",
+      "note": "Reassessed 2026-11-13: Isali collects budgeted fees and links to customs, but the Tax Authority said in February 2025 that tax e-payment channels were still being activated, so the main taxes are not shown filed and paid online. In RSF-held areas some collection has returned to cash.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

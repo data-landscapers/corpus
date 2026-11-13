@@ -9,10 +9,10 @@
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-010;TCD-012;TCD-013",
+      "stage_sources": "TCD-012;TCD-013;TCD-010",
       "gaps": "No source found since October 2023 gives a figure for revenue paid electronically.",
-      "note": "First pass, reassessed 2026-10-27: E-Tax files and pays all taxes online and customs takes all duties electronically since February 2024. No figure for the electronic share has been found.",
-      "as_at": "2026-10-27"
+      "note": "Reassessed 2026-11-13: E-Tax takes declaration and payment of all taxes and duties online (2024, 2025) and customs takes all duties electronically since February 2024. No figure for the electronic share has been found.",
+      "as_at": "2026-11-13"
     }
   ]
 }
