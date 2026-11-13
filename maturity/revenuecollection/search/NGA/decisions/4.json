@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "The NRS transitioned from TaxProMax to Rev360 effective 30 April 2026, a platform for registration, filing and payments in which taxpayers settle obligations through online payment gateways.",
+ "title": "Rev360: NRS Deploys A New Digital Self-Service Administration System",
+ "publisher": "Legal 500 (WTS Blackwoodstone)",
+ "published": "2026-05-04",
+ "date_source": "source",
+ "why_not": ""
+}

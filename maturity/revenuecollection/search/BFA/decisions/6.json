@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main;reported",
+ "fact": "In 2020 electronic payments were 52.23% of VAT payments by number and 93.99% by value, and 83.61% by number and 96.89% by value for large taxpayers across the base taxes; eSINTAX payment has been effective since 2019.",
+ "title": "Rapport d'auto-évaluation TADAT 2020",
+ "publisher": "Direction Générale des Impôts",
+ "published": "2021-03",
+ "date_source": "source",
+ "why_not": ""
+}

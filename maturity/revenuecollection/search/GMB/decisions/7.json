@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "Ecobank Gambia signed an MoU on 22 August 2024 with the Accountant General's Office on a payment gateway through which customers pay government fees and taxes via the Ecobank mobile app and online platforms.",
+ "title": "Gov't, Ecobank launch digital payment gateway for revenue collection",
+ "publisher": "The Point",
+ "published": "2024-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

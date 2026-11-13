@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "Ghana reported that all 24 commercial banks are connected to ICUMS and customs payment options cover visa, internet banking, walk-in banking and mobile money, with payments routinely accepted electronically.",
+ "title": "Ghana: 7.2 Electronic payment, progress reported G/TFA/N/GHA/4",
+ "publisher": "World Trade Organization, Trade Facilitation Agreement Database",
+ "published": "2024-10-14",
+ "date_source": "source",
+ "why_not": ""
+}

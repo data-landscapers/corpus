@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;reported",
+ "fact": "Payment Registration Numbers integrate mobile money and banking platforms, facilitating 25 percent of tax payments digitally.",
+ "title": "Unlocking Uganda's Revenue Mobilisation Potential with Digital Public Infrastructure",
+ "publisher": "Economic Policy Research Centre",
+ "published": "2025-05-30",
+ "date_source": "source",
+ "why_not": ""
+}

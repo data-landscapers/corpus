@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "The ADII 2019 annual report states customs debts can be paid electronically through EDI, bank card, e-banking, m-banking, bank branch, ATM and local service points, and that a direct debit channel was introduced in 2019.",
+ "title": "Rapport d'activité 2019 (Douanes)",
+ "publisher": "Administration des Douanes et Impôts Indirects",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

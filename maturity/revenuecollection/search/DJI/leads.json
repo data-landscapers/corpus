@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://douanes.gouv.dj/module-de-prepaiement/",
+  "title": "Module de prépaiement",
+  "publisher": "DGDDI Djibouti",
+  "published": "2025",
+  "sub_indicator": "revenue",
+  "why": "Customs and stamp fees paid from prepayment accounts in SYDONIAWorld from 2 Sept 2025."
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099122024161040934/txt/BOSIB-28d37d68-d0ab-4355-acca-fed683f4b387.txt",
+  "title": "Project Appraisal Document, Economic and Financial Governance Project",
+  "publisher": "World Bank",
+  "published": "2024-12",
+  "sub_indicator": "revenue",
+  "why": "Tax system lacks online filing and payment; e-filing and e-payment planned."
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099020224094541999/pdf/P169482159291d0c91bc431aa3a05eaf578.pdf",
+  "title": "Djibouti: Digital Customs Administration Using ASYCUDAWorld",
+  "publisher": "World Bank",
+  "published": "2024",
+  "sub_indicator": "revenue",
+  "why": "Customs payment electronic; 45% of declarations filed electronically."
+ },
+ {
+  "url": "https://douanes.gouv.dj/avec-le-projet-de-creation-du-guichet-unique-electronique-la-modernisation-de-la-douane-djiboutienne-saccelere/",
+  "title": "Avec le projet de création du guichet unique électronique",
+  "publisher": "DGDDI Djibouti",
+  "published": "2026",
+  "sub_indicator": "revenue",
+  "why": "Customs e-single window planned; customs payment context."
+ },
+ {
+  "url": "https://www.d-money.dj/en/guides/pay-a-bill",
+  "title": "Pay a bill",
+  "publisher": "D-Money",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "Tax payment via mobile wallet listed as coming soon."
+ },
+ {
+  "url": "https://www.lanation.dj/lexigence-des-resultats-au-coeur-de-la-strategie-numerique-de-la-dgddi/",
+  "title": "L'exigence des résultats au cœur de la stratégie numérique de la DGDDI",
+  "publisher": "La Nation",
+  "published": "2023-01-22",
+  "sub_indicator": "revenue",
+  "why": "Online payment of customs fees, customs receipts up 100% 2012-2021."
+ },
+ {
+  "url": "https://asycuda.org/wp-content/uploads/ASYCUDA-Compendium-2022-Djibouti.pdf",
+  "title": "ASYCUDA Compendium 2022: Djibouti",
+  "publisher": "UNCTAD ASYCUDA",
+  "published": "2022",
+  "sub_indicator": "revenue",
+  "why": "Payment of taxes automatic via prepayment accounts for transit."
+ },
+ {
+  "url": "https://asycuda.org/en/asycuda-delivers-advanced-training-to-djibouti-customs-officers/",
+  "title": "ASYCUDA Delivers Advanced Training to Djibouti Customs Officers",
+  "publisher": "ASYCUDA Programme",
+  "published": "2023",
+  "sub_indicator": "revenue",
+  "why": "Assistance on e-payment and bank interfaces."
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "From 1 January 2021 DGI teleprocedures (online filing, electronic payment) were operational in the Yaoundé and Douala divisional tax centres, to extend to all other centres by 1 July 2021.",
+ "title": "Dématérialisation des obligations déclarative et de paiement des impôts, droits et taxes",
+ "publisher": "Direction Générale des Impôts",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

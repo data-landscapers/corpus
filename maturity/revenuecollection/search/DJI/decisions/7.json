@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "In Djibouti the payment of taxes on transit declarations is handled automatically and instantaneously by ASYCUDAWorld through prepayment accounts (2021 data).",
+ "title": "ASYCUDA Compendium 2022: Digital Interconnectivity for Inclusive Trade - Djibouti",
+ "publisher": "UNCTAD ASYCUDA Programme",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

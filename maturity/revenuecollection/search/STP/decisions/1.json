@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "From 1 September 2026 the AGA put into service electronic payment of customs declarations through participating banks, with bank deposit slips accepted only until 30 September 2026 and electronic channels compulsory from 1 October 2026.",
+ "title": "Pagamento Electrónico Obrigatório nos Serviços Aduaneiros",
+ "publisher": "Autoridade Geral Aduaneira",
+ "published": "2026-09-02",
+ "date_source": "source",
+ "why_not": ""
+}

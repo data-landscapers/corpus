@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "GUCE and APECCAM signed a convention on 28 April 2023 letting foreign-trade operators pay customs and DGI duties, taxes and fees on e-GUCE through member credit institutions with GIMAC; e-Guce Payment has served customs duties since 2012.",
+ "title": "GUICHET UNIQUE-APECCAM",
+ "publisher": "Guichet Unique des Opérations du Commerce Extérieur (GUCE)",
+ "published": "2024-04-29",
+ "date_source": "proxy",
+ "why_not": ""
+}

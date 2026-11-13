@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main;reported",
+ "fact": "The DGI 2025 activity report states that 91.4% of gross tax revenue was telepaid in 2025 (91.2% in 2024), with VAT at 95.4% and corporate tax at 93.5%, via the SIMPL online services for filing and paying taxes.",
+ "title": "Impôts: 91,4% des recettes fiscales encaissées par télépaiement en 2025",
+ "publisher": "le360.ma",
+ "published": "2026-07-04",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;reported",
+ "fact": "Taxpayers can declare and pay taxes online by automated bank transfer or mobile money, and nearly one third of state revenue is now collected through digital channels (25 March 2026).",
+ "title": "Bénin : la digitalisation des paiements publics double les ressources de l'État et accélère l'inclusion financière",
+ "publisher": "ANSSFD",
+ "published": "2026-03-25",
+ "date_source": "source",
+ "why_not": ""
+}

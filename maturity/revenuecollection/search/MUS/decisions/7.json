@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "The CNP provides electronic submission of returns and payment of VAT, TDS, corporate tax, PAYE and other taxes and contributions, with payment instructions given to banks at the time of filing.",
+ "title": "Contributions Network Project (CNP): Instructions to CNP Users",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2019-09-16",
+ "date_source": "source",
+ "why_not": ""
+}

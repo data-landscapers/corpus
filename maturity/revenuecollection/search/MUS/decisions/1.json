@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;reported",
+ "fact": "By the 15 October 2025 deadline 308,286 individual income tax returns had been submitted online, and taxpayers who filed and completed any required payments electronically by 7 October 2025 entered the e-Filing Lucky Draw.",
+ "title": "MRA Newsletter",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2025-10",
+ "date_source": "source",
+ "why_not": ""
+}

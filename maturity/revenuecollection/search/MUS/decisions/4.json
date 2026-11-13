@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "Under section 9A(2)(b) of the Customs Act, declarants, importers and manufacturers of excisable goods must ensure electronic payments of duty, excise duty and taxes on validated bills of entry are cleared and credited to the MRA within three working days.",
+ "title": "Notice to Declarants, Importers and Manufacturers of Excisable Goods: Electronic Payment of Duty, Excise Duty and Taxes",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2022-10-03",
+ "date_source": "source",
+ "why_not": ""
+}

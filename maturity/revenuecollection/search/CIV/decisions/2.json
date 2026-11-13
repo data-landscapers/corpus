@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;reported",
+ "fact": "In 2019 e-impôts let all normal-regime taxpayers file and pay online (telepayment by debit or mobile money), but telepayment was only 0.5% of payments by volume and DGI Mobile 0.5% (990 payments, 106.2 million FCFA).",
+ "title": "Rapport annuel sur l'inclusion financière 2019",
+ "publisher": "APIF",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

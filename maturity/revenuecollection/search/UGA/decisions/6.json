@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "The URA Taxation Handbook FY2023-24 states that the eTAX system serves online registration, filing of returns, assessment and payment of taxes, and that taxes are paid after online payment registration at a bank, through Mobile Money, Payway or Visa/MasterCard.",
+ "title": "Taxation Handbook: A Guide to Taxation in Uganda, Sixth Edition FY 2023-24",
+ "publisher": "Uganda Revenue Authority",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

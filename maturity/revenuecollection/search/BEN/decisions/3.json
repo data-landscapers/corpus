@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "reported;payment",
+ "fact": "At 31 Dec 2024, 95% of VAT revenue and 41% of property tax revenue were collected through digital payments (DLI results, verification cycle completed July 2025).",
+ "title": "Implementation Status & Results Report: Benin Economic Governance for Service Delivery Program for Results (P176763)",
+ "publisher": "The World Bank",
+ "published": "2025-09-23",
+ "date_source": "source",
+ "why_not": ""
+}

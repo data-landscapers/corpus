@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "The National Treasury's Government Digital Payments unit states that government revenue payments are managed by Treasury under Executive Order No. 2 of March 2023, with new paybill 222222 replacing 206206, and that eCitizen payments can be made electronically 24 hours a day.",
+ "title": "E-Citizen",
+ "publisher": "The National Treasury",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

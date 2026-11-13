@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "The eTax portal FAQ states ePayment télépaiement is compulsory under the tax code and no paper declaration is accepted at DGI counters.",
+ "title": "Réponses aux questions fréquentes",
+ "publisher": "Ministère de l'Économie, des Finances, de la Dette et des Participations, Direction Générale des Impôts",
+ "published": "2024-04-16",
+ "date_source": "source",
+ "why_not": ""
+}

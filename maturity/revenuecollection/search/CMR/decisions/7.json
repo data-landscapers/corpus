@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;reported",
+ "fact": "Cameroon Tribune reported on 30 August 2023 that Mobile Tax serves all taxes under the tax code and that 10 billion FCFA of tax was collected by mobile money in fiscal 2021, nearly half of the 25 billion paid at bank counters.",
+ "title": "Système de paiement : la digitalisation en marche",
+ "publisher": "Cameroon Tribune",
+ "published": "2023-08-30",
+ "date_source": "source",
+ "why_not": ""
+}

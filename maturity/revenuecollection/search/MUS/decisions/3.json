@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "The MRA says 100% of individual income tax returns for e-Filing Season 2022 (233,283 received by 17 October 2022) were filed electronically and payments were effected in most cases through online Direct Debit.",
+ "title": "MRA e-Newsletter",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2022-10",
+ "date_source": "source",
+ "why_not": ""
+}

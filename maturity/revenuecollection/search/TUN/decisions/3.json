@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main;reported",
+ "fact": "The tele-declaration and tele-payment system had 89,506 member companies at end December 2021 and allows recovery of 95% of taxes and duties declared periodically (corporate tax, monthly taxes, instalments, income tax); customs duty payment by bank transfer through the TTN platform was in testing.",
+ "title": "Updated Reform Matrix 2022 - Tunisia",
+ "publisher": "World Bank",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;reported",
+ "fact": "In 2019 eSINTAX recorded 7,722 online payment orders worth 559.4 billion FCFA, and motor vehicle tax payment was digitalised via Mobile Money.",
+ "title": "Direction Générale des Impôts : La modernisation se poursuit avec la plateforme eSINTAX",
+ "publisher": "NetAfrique.net",
+ "published": "2020-01-21",
+ "date_source": "source",
+ "why_not": ""
+}

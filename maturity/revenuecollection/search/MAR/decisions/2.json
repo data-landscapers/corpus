@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main;reported",
+ "fact": "The IMF TADAT assessment of October 2025 states that e-filing is mandatory for all taxpayers, over 90% of declarations and payments are electronic, and in 2024 electronic payments were 92.9% of corporate tax, 75.4% of personal income tax and 95.5% of VAT collected by value.",
+ "title": "Maroc: Rapport d'assistance technique - Rapport d'évaluation de la performance, n° 25/108",
+ "publisher": "Fonds monétaire international",
+ "published": "2025-11",
+ "date_source": "source",
+ "why_not": ""
+}

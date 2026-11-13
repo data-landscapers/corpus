@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "Sudan Customs runs electronic bank payment of duties and taxes through ASYCUDA World with 27 banks, and in 2019 28% of remote electronic payments were made out of hours; customs revenue rose 48% in 2018-2019.",
+ "title": "الدفع الإلكتروني السودان لتسهيل التجارة",
+ "publisher": "ASYCUDA (UNCTAD)",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;reported",
+ "fact": "The Minister of Revenues states that 94 percent of taxpayers file returns through e-filing and 64 percent paid their taxes electronically in 2017 (Ethiopian calendar).",
+ "title": "During the past years of reform, efforts have been carried out in the revenue sector to strengthen institutional implementation capacity,",
+ "publisher": "Government Communication Service",
+ "published": "2026-01-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

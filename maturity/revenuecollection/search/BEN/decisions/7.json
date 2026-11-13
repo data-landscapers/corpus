@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "Trade Facilitation and Paperless Trade in Benin",
+ "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": "no-development: fetched text holds only the score summary; the e-payment line is not in the text."
+}

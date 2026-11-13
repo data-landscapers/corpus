@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;reported",
+ "fact": "In FY2022/23 mobile money was 0.3% of tax payments by value (Ug shs 72.21bn), electronic funds transfer 16.4%, card payments 14.3% and bank counter 40.5%.",
+ "title": "Domestic Revenue Mobilization Strategy Annual Monitoring Report, Financial Year 2022/23",
+ "publisher": "Ministry of Finance, Planning and Economic Development",
+ "published": "2023-10",
+ "date_source": "source",
+ "why_not": ""
+}

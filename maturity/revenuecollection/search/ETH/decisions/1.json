@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "Mobile tax payment via telebirr app or USSD is in service for the federal Ministry of Revenues and the revenue authorities of Addis Ababa, Dire Dawa, Oromia, Amhara, Sidama and other regions.",
+ "title": "Ethiopia Expands Mobile Tax Payments Nationwide Through telebirr",
+ "publisher": "TechTrends Africa",
+ "published": "2026-07-14",
+ "date_source": "proxy",
+ "why_not": ""
+}

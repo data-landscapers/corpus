@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mof.gov.so/sites/default/files/Publications/MTRR_V7.pdf",
+  "title": "Medium-Term Revenue Roadmap 2024-2027",
+  "publisher": "Ministry of Finance, Federal Government of Somalia",
+  "published": "2024-06",
+  "sub_indicator": "revenue",
+  "why": "MoF accepts mobile money and digital banking for taxes and fees; ITAS planned"
+ },
+ {
+  "url": "https://mof.gov.so/sites/default/files/Publications/Annual%20Report%20MoF%20-%202024%29.pdf",
+  "title": "Annual Report 2024",
+  "publisher": "Ministry of Finance, Federal Government of Somalia",
+  "published": "2025",
+  "sub_indicator": "revenue",
+  "why": "Digital sales tax collection via mobile money from late 2024; non-tax portal piloted 2025"
+ },
+ {
+  "url": "https://www.mof.gov.so/sites/default/files/Publications/Somali%20Customs%20Strategic%20Plan2024-2027.pdf",
+  "title": "Somali Customs Strategic Plan 2024-2027",
+  "publisher": "Somali Customs, Ministry of Finance",
+  "published": "2024",
+  "sub_indicator": "revenue",
+  "why": "Customs electronic payment still to be introduced"
+ },
+ {
+  "url": "https://regalert.today/document/evolution-of-somalia-s-fiscal-sector-modernizing-revenue-collection-and-tax-admi-6d5268d1-cefe-4863-b5da-ec49a553265e",
+  "title": "Evolution of Somalia's Fiscal Sector: Modernizing Revenue Collection and Tax Administration",
+  "publisher": "Central Bank of Somalia (via RegAlert)",
+  "published": "2025-08",
+  "sub_indicator": "revenue",
+  "why": "Digital 5 percent sales tax mechanism from September 2024"
+ },
+ {
+  "url": "https://us-somalia.com/logistics/customs-and-import-procedures/",
+  "title": "Somalia customs and import procedures",
+  "publisher": "US-Somalia Investment Intelligence",
+  "published": "2026-09-06",
+  "sub_indicator": "revenue",
+  "why": "Port duty paid manually at central bank counters; Jan 2026 circular on digital receipts"
+ },
+ {
+  "url": "https://sombiz.so/insights/mobile-money-government-payments",
+  "title": "Government fees by mobile money: reconciliation",
+  "publisher": "Sombiz",
+  "published": "2026-09-23",
+  "sub_indicator": "revenue",
+  "why": "Government fees by mobile money"
+ },
+ {
+  "url": "https://sombiz.so/insights/somalia-after-the-aid-cliff",
+  "title": "After the aid cliff: Somalia's revenue systems",
+  "publisher": "Sombiz",
+  "published": "2026-10-30",
+  "sub_indicator": "revenue",
+  "why": "Digital sales tax and fees portal; revenue figures"
+ },
+ {
+  "url": "https://goobjoog.com/2024/07/12/wasiirka-maaliyadda-oo-shaaciyay-dhaqangalinta-hannaan-casri-ah-oo-canshuurta-lagu-qaadayo",
+  "title": "Wasiirka Maaliyadda oo Shaaciyay Dhaqangalinta Hannaan Casri ah oo Canshuurta Lagu Qaadayo",
+  "publisher": "Goobjoog",
+  "published": "2024-07-12",
+  "sub_indicator": "revenue",
+  "why": "Electronic sales tax collection system announced"
+ }
+]

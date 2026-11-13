@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "The Direcção dos Impostos says taxes can be paid by bank transfer without travelling, by emailing a deposit form and paying against the liquidation slip it returns.",
+ "title": "Rumo ao IVA",
+ "publisher": "Direcção dos Impostos",
+ "published": "2025-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

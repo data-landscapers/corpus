@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "The DGI's August 2026 guide says any tax, duty or fee declared online on Jibaya'tic can be paid online, mandatory for DGE taxpayers and voluntary for CDI, CPI and inspections taxpayers.",
+ "title": "Paiement des impôts en ligne en Algérie : ce que le guide Jibayatic de la DGI explique",
+ "publisher": "UpGrowth",
+ "published": "2026-10-01",
+ "date_source": "source",
+ "why_not": ""
+}

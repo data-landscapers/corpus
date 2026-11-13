@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;reported",
+ "fact": "The DGI 2020 activity report states that 93% of gross revenue collected by the DGI was telepaid in 2020, 134,968 MDH over 7,293,581 operations.",
+ "title": "Rapport d'activité 2020",
+ "publisher": "Direction Générale des Impôts",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

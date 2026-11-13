@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.vanguardngr.com/2026/09/nrs-reform-inside-the-drive-to-build-a-smarter-simpler-tax-system/",
+  "title": "NRS Reform: Inside the drive to build a smarter, simpler tax system",
+  "publisher": "Vanguard",
+  "published": "2026-09-08",
+  "sub_indicator": "revenue",
+  "why": "Digital filing and payment services (Q2)"
+ },
+ {
+  "url": "https://nextmoneyng.com/customs-says-bodogwu-platform-driving-paperless-trade-strengthening-cargo-clearance/",
+  "title": "Customs Says B'Odogwu Platform Driving Paperless Trade",
+  "publisher": "Next Money",
+  "published": "2026-08-05",
+  "sub_indicator": "revenue",
+  "why": "Customs payments through B'Odogwu (Q3)"
+ },
+ {
+  "url": "https://fmino.gov.ng/nrs-sensitises-federal-mdas-on-rev360-digital-tax-platform-ehcon-highlights-environmental-health-regulatory-mandate/",
+  "title": "NRS Sensitises Federal MDAs On REV360 Digital Tax Platform",
+  "publisher": "Federal Ministry of Information and National Orientation",
+  "published": "2026-07-14",
+  "sub_indicator": "revenue",
+  "why": "REV360 filing and payment of WHT and VAT (Q2, Q3)"
+ },
+ {
+  "url": "https://www.legal500.com/intelligence/nigeria/tax/rev360-nrs-deploys-a-new-digital-self-service-administration-system",
+  "title": "Rev360: NRS Deploys A New Digital Self-Service Administration System",
+  "publisher": "Legal 500",
+  "published": "2026-05-04",
+  "sub_indicator": "revenue",
+  "why": "Rev360 filing and online payment in service (Q2)"
+ },
+ {
+  "url": "https://cbxp-eu.com/integration-beyond-borders-how-nigerias-bodogwu-customs-system-is-setting-a-new-standard/",
+  "title": "Integration beyond borders: B'Odogwu",
+  "publisher": "cb-xp",
+  "published": "2025-05-07",
+  "sub_indicator": "revenue",
+  "why": "Duty payment through 25 banks (Q2, Q3)"
+ },
+ {
+  "url": "https://guardian.ng/business-services/customs-integrates-25-banks-into-platform-to-facilitate-transactions-ports-clearance/",
+  "title": "Customs integrates 25 banks into platform",
+  "publisher": "The Guardian Nigeria",
+  "published": "2024-12-05",
+  "sub_indicator": "revenue",
+  "why": "Customs duty payment via banks; revenue amounts (Q2, Q4)"
+ },
+ {
+  "url": "https://thenationonlineng.net/federation-account-gets-n34-311tr-via-remita-in-7-years/",
+  "title": "Federation Account gets N34.311tr via REMITA in 7 years",
+  "publisher": "The Nation",
+  "published": "2024-02-15",
+  "sub_indicator": "revenue",
+  "why": "Amount of revenue collected electronically via Remita (Q4)"
+ },
+ {
+  "url": "https://cms.customs.gov.ng/wp-content/uploads/2026/07/Frequently-Asked-Questions-14-Jul-2025.docx.pdf",
+  "title": "B'Odogwu Frequently Asked Questions",
+  "publisher": "Nigeria Customs Service",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "Duty assessment and payment on B'Odogwu (Q3)"
+ }
+]

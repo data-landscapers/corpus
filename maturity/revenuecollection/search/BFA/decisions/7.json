@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "From 1 March 2020 all real-regime taxpayers could file and pay taxes online on eSINTAX, by online bank transfer or mobile money (Orange Money, Mobicash) or cash at bank counters.",
+ "title": "Burkina Faso: généralisation des paiements d'impôts en ligne à compter du 1er mars 2020",
+ "publisher": "Direction générale des impôts (communiqué, Laborpresse.net)",
+ "published": "2020-02-28",
+ "date_source": "source",
+ "why_not": ""
+}

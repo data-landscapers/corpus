@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "On 7 July 2021 the DGI announced that the DGI Mobile platform for paying taxes by mobile money (Moov, MTN, Orange USSD) was available again, and urged taxpayers under the telepayment obligation to use it.",
+ "title": "Côte d'Ivoire : paiement des impôts et taxes par téléphone mobile",
+ "publisher": "YECLO.com",
+ "published": "2021-07-07",
+ "date_source": "source",
+ "why_not": ""
+}

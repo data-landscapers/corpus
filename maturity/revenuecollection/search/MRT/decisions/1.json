@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "The finance ministry introduced a digital reform under which taxpayers can file remotely and pay their dues through e-wallets and bank apps, covering all taxes without exception, extending the vehicle-tax e-payment launched three years earlier.",
+ "title": "وزارة المالية تقوم بتبسيط الإجراءات الضريبية عبر إصلاحات رقمية",
+ "publisher": "موريتانيا اليوم",
+ "published": "2026-01-20",
+ "date_source": "source",
+ "why_not": ""
+}

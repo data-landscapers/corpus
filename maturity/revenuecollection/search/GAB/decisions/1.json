@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main;reported",
+ "fact": "The Digitax platform, launched in April 2024, already processes 80 percent of tax revenues, and ASYCUDA World allows electronic declaration and payment of customs duties, with plans in 2026 to fully digitize all customs payments.",
+ "title": "Gabon Public Finance Review 2026: Improving Fiscal Policies to Deliver Better Results for All Gabonese",
+ "publisher": "World Bank",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

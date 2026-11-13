@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "Trade Facilitation and Paperless Trade in Ethiopia",
+ "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "headline-only-stub: fetched text carries scores only, no statement on e-payment of customs duties"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "From 2 September 2025 Djibouti customs deploys prepayment accounts in SYDONIAWorld so free-zone operators and freight forwarders pay customs and stamp fees on IM7 and EX3 declarations electronically without going to the customs cashiers.",
+ "title": "Module de prépaiement",
+ "publisher": "Direction Générale des Douanes et Droits Indirects",
+ "published": "2025-08-31",
+ "date_source": "source",
+ "why_not": ""
+}

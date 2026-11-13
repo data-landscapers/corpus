@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "The Auditor-General's special audit (March 2025) records Gazette Notice 17422 of 14 December 2023 stating the eCitizen digital payments platform is integrated with all electronic payment platforms in Kenya including mobile money, bank payments, RTGS, wallets and cards, and a presidential directive to move all government services to eCitizen by 30 September 2023.",
+ "title": "Special Audit Report of the Auditor-General on Government Digital Payments Platform (eCitizen)",
+ "publisher": "Office of the Auditor-General",
+ "published": "2025-03",
+ "date_source": "source",
+ "why_not": ""
+}

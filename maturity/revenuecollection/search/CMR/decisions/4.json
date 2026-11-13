@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "The GUCE e-PAYMENT platform lets users pay customs duties, taxes and other foreign-trade fees by bank counter, card, bank transfer, wallet and mobile.",
+ "title": "e-PAYMENT",
+ "publisher": "Guichet Unique des Opérations du Commerce Extérieur (GUCE)",
+ "published": "2024-05-31",
+ "date_source": "proxy",
+ "why_not": ""
+}

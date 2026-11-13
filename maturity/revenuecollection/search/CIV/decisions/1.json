@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;reported",
+ "fact": "The e-impôts portal handled over 22% of all DGI revenue in its first year (2017) and more than 78% in 2021, per the head of the DGI tax teleservices centre on 22 March 2022.",
+ "title": "Digitalisation du paiement des impôts et taxes : 74 000 contribuables adhérents enregistrés sur le portail e-impôts depuis 2017",
+ "publisher": "APIF (Ministère des Finances)",
+ "published": "2022-03-23",
+ "date_source": "source",
+ "why_not": ""
+}

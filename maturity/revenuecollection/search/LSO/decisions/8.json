@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "RSL launched its Mobile Office on 10 July 2025, offering eTax, eFiling and ePayments for tax payments through its digital platforms.",
+ "title": "RSL Rolls Out Mobile Services",
+ "publisher": "Revenue Services Lesotho",
+ "published": "2025-07-10",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "The AfDB implementation report of 16 September 2025 lists e-filing for VAT, PAYE and CIT, e-registration and e-payment integration with the payment gateway among the outputs the Lesotho Tax Modernisation Project has developed.",
+ "title": "Implementation Progress and Results: Lesotho Tax Modernisation Project - Supplementary Financing",
+ "publisher": "African Development Bank",
+ "published": "2025-09-16",
+ "date_source": "source",
+ "why_not": ""
+}

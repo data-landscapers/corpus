@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "revenue",
+ "publisher": "Zimbabwe Revenue Authority",
+ "date_source": "source",
+ "why_not": "",
+ "select": true,
+ "aspect": "payment",
+ "fact": "ZIMRA opened the new Tax and Revenue Management System to the public with online self-service registration and a link to a bank's ZIMRA Single Account, with filing and payment staying on the old SAP and e-Services system until 28 October 2023.",
+ "title": "Public Notice 68 of 2023: TaRMS Go-Live",
+ "published": "2023-10-16"
+}

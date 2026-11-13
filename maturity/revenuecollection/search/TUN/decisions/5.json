@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "Espace professionnel - JIBAYA",
+ "publisher": "Direction Générale des Impôts",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: fetched text is an archived page on tax assessment suspension, no payment fact and no date"
+}

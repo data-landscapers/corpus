@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "The DGI announced a remote electronic payment service for taxes and duties on the Jibayatic portal, open to all taxpayers whatever their regime, by CIB or Edahabia card or bank transfer via BNA, CPA, BDL, BADR and BEA.",
+ "title": "Direction générale des impôts : lancement du paiement électronique à distance des impôts via le portail « Jibayatic »",
+ "publisher": "Ouest Tribune",
+ "published": "2026-07-26",
+ "date_source": "source",
+ "why_not": ""
+}

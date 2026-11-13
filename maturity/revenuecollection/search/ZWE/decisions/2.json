@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "revenue",
+ "publisher": "Zimbabwe Revenue Authority",
+ "date_source": "source",
+ "why_not": "",
+ "select": true,
+ "aspect": "payment;main",
+ "fact": "ZIMRA announced that ASYCUDA World pre-payment accounts end at midnight 7 February 2026 and duties and taxes on commercial import, export, excise and transit declarations are paid through banks and approved online payment platforms against an Assessment Notice.",
+ "title": "Public Notice 10 of 2026: Migration from prepayment accounts to payment after assessment for commercial declarations",
+ "published": "2026-02-06"
+}

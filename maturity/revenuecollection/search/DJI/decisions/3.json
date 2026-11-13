@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;reported",
+ "fact": "ASYCUDAWorld lets Djibouti freight forwarders complete all customs steps including payment electronically, and about 45 percent of customs declarations are filed electronically against a PAMAP target of 20 percent (system used in 2022).",
+ "title": "Djibouti: Digital Customs Administration Using ASYCUDAWorld (GovTech Case Studies)",
+ "publisher": "World Bank",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

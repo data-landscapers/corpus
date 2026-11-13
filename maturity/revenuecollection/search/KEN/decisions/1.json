@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "The Star reports KRA is set to integrate its eTIMS invoicing system with payment platforms such as M-Pesa to generate Payment Registration Numbers and enable instant tax settlement, alongside an overhaul of iTax, with registration, filing and payment to be simplified across web, mobile and USSD.",
+ "title": "KRA to link real time tax systems to M-Pesa for easier compliance",
+ "publisher": "The Star",
+ "published": "2026-05-07",
+ "date_source": "source",
+ "why_not": ""
+}

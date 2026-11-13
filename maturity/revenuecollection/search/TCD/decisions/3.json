@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "On 18 February (2026) the Finance Minister signed a five-year framework convention with Moov Money, Airtel Money, Konoom and Cashi-Tchad letting taxes, customs duties and fees be paid by mobile money into the Treasury wallet.",
+ "title": "Le Tchad intègre le paiement numérique dans les opérations financières de l'État",
+ "publisher": "Agence Ecofin",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

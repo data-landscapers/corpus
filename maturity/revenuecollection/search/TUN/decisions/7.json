@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "On 14 May 2019 the Ministry of Finance announced card and mobile electronic payment of dues and taxes remotely and payment terminals in 104 treasury offices as a first phase, under the decashing plan.",
+ "title": "وزارة المالية تطلق خدمات على الخط",
+ "publisher": "Ministère des Finances",
+ "published": "2019-05-14",
+ "date_source": "source",
+ "why_not": ""
+}

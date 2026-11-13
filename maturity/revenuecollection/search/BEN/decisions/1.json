@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main;reported",
+ "fact": "The DGI 2025 activity report shows electronic payments at 96.81% of transactions for corporate tax, 98.43% for business-profit tax and VAT, and 99.28% for payroll tax, with e-filing at 100% for these taxes.",
+ "title": "Fiscalité béninoise: Le numérique révolutionne la mobilisation des recettes",
+ "publisher": "La Nation",
+ "published": "2026-05-12",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "The Commercial Bank of Ethiopia signed an agreement with the Ministry of Revenues to let taxpayers declare and pay taxes electronically through banking channels, with e-filing at a 94 percent implementation rate per the Minister.",
+ "title": "CBE Signs Tax Services Agreement With Ministry of Revenues",
+ "publisher": "Birr Metrics",
+ "published": "2026-01-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

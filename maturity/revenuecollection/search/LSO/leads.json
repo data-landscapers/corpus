@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.rsl.org.ls/sites/default/files/2026-10/2025-2026%20RSL%20ESG%20Report.pdf",
+  "title": "Governance Report (2025-2026 RSL ESG Report)",
+  "publisher": "Revenue Services Lesotho",
+  "published": "2026",
+  "sub_indicator": "revenue",
+  "why": "Q4: whether mobile money share of tax payments is reported; Q2/Q3 channels"
+ },
+ {
+  "url": "https://www.rsl.org.ls/sites/default/files/2025-02/Annual%20report%202024.pdf",
+  "title": "Integrated Annual Report 2024",
+  "publisher": "Revenue Services Lesotho",
+  "published": "2024-06",
+  "sub_indicator": "revenue",
+  "why": "Q1-Q3: e-tax, e-payment channel integration status and e-payment project progress"
+ },
+ {
+  "url": "https://www.rsl.org.ls/sites/default/files/2025-04/Media%20Briefing%20-%20Commissioner%20General%2031032025FINAL%20copy_0.pdf",
+  "title": "Remarks by the RSL Commissioner General",
+  "publisher": "Revenue Services Lesotho",
+  "published": "2025-03",
+  "sub_indicator": "revenue",
+  "why": "Q2: integration with institutions for tax payment collection"
+ },
+ {
+  "url": "https://www.rsl.org.ls/sites/default/files/2026-09/Guide%20on%20e-Payments-_3.pdf",
+  "title": "Guide on e-Payments",
+  "publisher": "Revenue Services Lesotho",
+  "published": "2026",
+  "sub_indicator": "revenue",
+  "why": "Q2/Q3: inland taxes and customs duties payable by mobile money and bank channels"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/projects-and-operations/lesotho_-_lesotho_tax_modernisation_project_-_supplementary_financing_-_ipr_september_2025.pdf",
+  "title": "Implementation Progress and Results: Lesotho Tax Modernisation Project - Supplementary Financing",
+  "publisher": "African Development Bank",
+  "published": "2025-09-16",
+  "sub_indicator": "revenue",
+  "why": "Q1/Q2: e-filing and e-payment integration delivered"
+ },
+ {
+  "url": "https://www.rsl.org.ls/rsl-and-standard-lesotho-bank-integrate-payment-systems",
+  "title": "RSL and Standard Lesotho Bank Integrate Payment Systems",
+  "publisher": "Revenue Services Lesotho",
+  "published": "2024-11-07",
+  "sub_indicator": "revenue",
+  "why": "Q2/Q3: inland and customs payments via bank digital channels"
+ },
+ {
+  "url": "https://newsdayonline.co.ls/rsl-adds-new-digital-tax-payment-platform/",
+  "title": "RSL adds new digital tax payment platform",
+  "publisher": "Newsday",
+  "published": "2024-07-29",
+  "sub_indicator": "revenue",
+  "why": "Q2/Q3: EcoCash payment of taxes and customs duties"
+ },
+ {
+  "url": "https://www.rsl.org.ls/rsl-rolls-out-mobile-services",
+  "title": "RSL Rolls Out Mobile Services",
+  "publisher": "Revenue Services Lesotho",
+  "published": "2025-07-10",
+  "sub_indicator": "revenue",
+  "why": "Q2: eTax, ePayments, eFiling services in service"
+ }
+]

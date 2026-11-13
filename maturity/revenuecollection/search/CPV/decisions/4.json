@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "On 8 November 2022 the DNRE publicly presented its online payment system for customs, generating the DUC single collection document so operators need not attend customs offices in person.",
+ "title": "DNRE implementa Sistema de Efetivação de Pagamento nas Alfândegas",
+ "publisher": "OPAÍS.cv",
+ "published": "2022-11-08",
+ "date_source": "source",
+ "why_not": ""
+}

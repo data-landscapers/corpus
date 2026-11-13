@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "reported",
+ "fact": "The DGI 2024 activity report, released in June 2025, gives the share of telepaid revenue as 91.2% for 2024.",
+ "title": "Le fisc dresse son bilan au titre de 2024",
+ "publisher": "Aujourd'hui le Maroc",
+ "published": "2025-06-24",
+ "date_source": "source",
+ "why_not": ""
+}

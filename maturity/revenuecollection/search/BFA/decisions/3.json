@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "9e Rentrée fiscale de la DGI",
+ "publisher": "Direction Générale des Impôts",
+ "published": "2024-01-12",
+ "date_source": "source",
+ "why_not": "off-topic: reports 2023 collections and 2024 plans on e-invoicing and land digitisation; no tax e-payment fact"
+}

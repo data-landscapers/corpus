@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment;main",
+ "fact": "GRA said payments initiated through ICUMS, ITAS and GITMIS on the Ghana.gov platform were disrupted from 14 August 2026, which shows tax and customs payments are made through them electronically.",
+ "title": "GRA works to resolve payment challenges on Ghana.gov platform",
+ "publisher": "GBC Ghana Online",
+ "published": "2026-08-21",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "The tax directorate launched the e-Tax telepayment module with UBA on 12 September 2023; other banks are to interconnect after UBA.",
+ "title": "Déclaration des impôts en ligne : la direction générale des impôts lance le module de télépaiement",
+ "publisher": "Tchadinfos",
+ "published": "2023-09-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

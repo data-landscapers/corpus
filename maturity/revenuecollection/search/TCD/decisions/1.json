@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "Note circulaire N°004 PR/PM/MFBPEPCI/SG/2025",
+ "publisher": "Ministère des Finances et du Budget",
+ "published": "2025-07-08",
+ "date_source": "source",
+ "why_not": "headline-only-stub: fetched text is the circular's title only, no body"
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "التصريح ودفع الأداء عن بعد",
+ "publisher": "Ministère des Finances",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no date in the fetched text; the service description is undated"
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "Press Release: World Bank Doing Business Report, Ease of Paying Taxes",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2019-10-25",
+ "date_source": "source",
+ "why_not": "no-development: a ranking and satisfaction-survey release; the only fact is a share of returns filed, not payment, and predates the window."
+}

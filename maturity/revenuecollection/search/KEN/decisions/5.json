@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "payment",
+ "fact": "KRA notified taxpayers on 17 November 2023 that all tax payments by mobile money must be made through Government PayBill 222222, using the payment registration number from iTax, iCMS, EGMS or KESRA iStudent as account number.",
+ "title": "Tax Payment through PayBill Number 222222",
+ "publisher": "Kenya Revenue Authority",
+ "published": "2023-11-17",
+ "date_source": "source",
+ "why_not": ""
+}
