@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-nga-nitda-cbn-national-sovereign-cloud",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CBN Deputy Governor told the NITDA-CBN dialogue that financial institutions must comply with applicable data localisation requirements and a January 1, 2027 implementation timeline for critical payment transaction data.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "CBN data localisation requirement for critical payment transaction data",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
