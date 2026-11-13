@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.unhcr.org/sites/default/files/docs/default/2026-08/unhcr-financial-inclusion-summary-findings-2026.pdf,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://egrisstats.org/implementation/case-studies/djibouti/,held,held as raw/2025/2025-04-07-dji-djibouti-putting-grf-pledges-into-action-through-including-refugees-an.md,,0,,
+3,https://reliefweb.int/attachments/01518b42-d753-4211-95f6-39df80609195/Operational%20Update_06%2003%202025.pdf,fetched,,scripts/.workroot/study/refugees/cache/DJI/3.txt,597,pdf,
+4,https://reliefweb.int/attachments/f2697046-462e-4ea3-9eb0-8ec8fa3015f4/Operational%20updates_06%2002%2025.pdf,fetched,,scripts/.workroot/study/refugees/cache/DJI/4.txt,361,pdf,
+5,https://reliefweb.int/attachments/2ff83b2a-c4fa-4507-9e9f-140aceb31c36/UNHCR%20Djibouti_Operational%20Update_May%202024_EN.pdf,fetched,,scripts/.workroot/study/refugees/cache/DJI/5.txt,1313,pdf,
+6,https://reliefweb.int/attachments/cdde8002-a416-4ea1-a6f9-05412c05d89c/HCR%20Djibouti_Operational%20Update_Mars%202024%20.pdf,fetched,,scripts/.workroot/study/refugees/cache/DJI/6.txt,1567,pdf,
+7,https://djibouti.un.org/fr/215463-le-hcr-conclut-un-exercice-innovant-de-v%C3%A9rification-des-r%C3%A9fugi%C3%A9s-et-demandeurs-d%E2%80%99asile,fetched,,scripts/.workroot/study/refugees/cache/DJI/7.txt,863,html,Le HCR conclut un exercice innovant de vérification des réfugiés et demandeurs d’asile
+8,https://microdata.unhcr.org/index.php/catalog/1190/variable/hh/hh_V78?name=BANK05,fetched,,scripts/.workroot/study/refugees/cache/DJI/8.txt,66,html,Results Monitoring Survey (RMS) - 2023
