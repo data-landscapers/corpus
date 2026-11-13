@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-zwe-transforming-public-services-through-one-digital-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Herald opinion piece says Zimbabwe is building a Whole of Government enterprise architecture defining interoperability standards, digital identity management, data governance and cybersecurity requirements.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Whole of Government enterprise architecture",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

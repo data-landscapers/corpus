@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-civ-wb-padci-barometre-service-public",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The notice refers to the interoperability and security reference framework provided for by decrees no. 2021-911 to 2021-916.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "referentiel d'interoperabilite et de securite (decrees 2021-911 to 2021-916)",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
