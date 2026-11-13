@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-12-zwe-potraz-puts-zimbabwe-on-africas-digital-map",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "POTRAZ is reported to be acting as Zimbabwe's data protection authority.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "POTRAZ",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "POTRAZ is reported to have licensed more than 2,500 data controllers, trained and certified over 1,500 Data Protection Officers and developed more than 15 implementation guidelines.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "POTRAZ",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
