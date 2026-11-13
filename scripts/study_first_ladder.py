@@ -142,7 +142,11 @@ def must_show(study: dict) -> set[int]:
     return {int(q) for q in study.get("must_show", [])}   # Bill, 2026-10-23: nationwide is shown
 
 
-def run(study_id: str, sub: str, gaps: dict, empty: str, unplaced: str, argv=None) -> int:
+def run(study_id: str, sub: str, gaps: dict, empty: str, unplaced: str, argv=None,
+        stager=None) -> int:
+    """`stager`, where a study's ladder is not the shared one, replaces `stage` with the same
+    arguments; a cell it returns may carry `aspects`, the values written to `stage.json` in place
+    of those the stage implies (housekeeping 64: socialregistry's stage 4 is reached two ways)."""
     ap = argparse.ArgumentParser(description=f"Stage the {study_id} study from its answers.")
     ap.add_argument("--as-at", required=True)
     ap.add_argument("--dry", action="store_true")
@@ -164,7 +168,7 @@ def run(study_id: str, sub: str, gaps: dict, empty: str, unplaced: str, argv=Non
         rows, changed = correct(study_lib.read_csv(path), [f for f in fixes if f["iso3"] == iso])
         if changed and not a.dry:
             study_lib.write_csv(path, study_lib.EVIDENCE_FIELDS, rows)
-        cell = stage(study, rows, study_lib.counted_at(os.path.join(base, iso, "stage.json"), as_at, sub), gaps, empty, unplaced)
+        cell = (stager or stage)(study, rows, study_lib.counted_at(os.path.join(base, iso, "stage.json"), as_at, sub), gaps, empty, unplaced)
         s = cell["stage"]
         count[s] = count.get(s, 0) + 1
         line = {"sub_indicator": sub, "stage": s,
@@ -172,6 +176,7 @@ def run(study_id: str, sub: str, gaps: dict, empty: str, unplaced: str, argv=Non
                 k2: v2 if s in ("4", "5") else "", k3: v3 if s == "5" else "", "cap": "", "flags": "",
                 "stage_sources": ";".join(dict.fromkeys(cell["sources"])), "gaps": cell["gaps"],
                 "note": f"First pass: counted from the four questions by study-ladder-{study_id}.py."}
+        line.update(cell.get("aspects", {}))
         test.append({"iso3": iso, **{k: line[k] for k in ("stage", k1, k2, k3, "stage_sources")}})
         if not a.dry:
             os.makedirs(os.path.join(base, iso), exist_ok=True)
