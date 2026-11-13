@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "DPI Map lines are a database's no (checked 2025-06-17); a no is never a fact.",
+  "claims": {
+    "dpimap-58d72e2d6d": "nothing: a database's no",
+    "dpimap-5de3247dc5": "nothing: a database's no"
+  }
+}

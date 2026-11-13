@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Both database claims restate SeyID authentication already held in evidence.csv.",
+  "claims": {
+    "dpimap-f985bfdf87": "nothing: held as SYC-004",
+    "dpimap-6ed0de8c7d": "nothing: held as SYC-012"
+  }
+}

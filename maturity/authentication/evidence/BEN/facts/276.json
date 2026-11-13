@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Both yes lines are already held in evidence.csv or link only to an app-store page.",
+  "claims": {
+    "dpimap-6e92d650b4": "nothing: held as BEN-007",
+    "dpimap-2ad2b33919": "nothing: link is a third-party app-store page"
+  }
+}

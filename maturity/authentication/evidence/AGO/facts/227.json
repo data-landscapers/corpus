@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Database record lines are a database's no, which is never a fact.",
+  "claims": {
+    "dpimap-bf11d1ce4b": "nothing: a database's no",
+    "dpimap-f7fdc27e82": "nothing: a database's no"
+  }
+}
