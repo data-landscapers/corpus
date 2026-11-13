@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-gha-national-identification-authority-homepage",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The National Identification Authority's homepage says L.I. 2523 requires identity to be authenticated biometrically against the National Identity Register, with institutions onboarded by direct service agreement and a taskforce monitoring compliance.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "NIA biometric verification against the National Identity Register",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Register (NIR) biometric verification",
+   "country_label": "NIA biometric verification",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

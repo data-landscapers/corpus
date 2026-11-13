@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-08-uga-ura-starts-using-nin-to-profile-taxpayers",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "URA's Christine Mirembe says taxpayer accounts will be accessed by biometric fingerprint once the NIN replaces the TIN, and NIRA's Rosemary Kisembo says release of identity data will require biometric authentication and the owner's consent.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "NIRA identity verification for URA",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

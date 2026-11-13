@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-11-nga-nigeria-tenders-83m-digital-identity-system-upgrade-and-mosip-integrat",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Biometric Update reports the World Bank and the ID4D project revised the project in 2024 partly to upgrade the national identity management system to enable authentication services, with an $83 million integrator tender for NIMS 2.0 open until 3 February 2025.",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "NIMS 2.0",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
