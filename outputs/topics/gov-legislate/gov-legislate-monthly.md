@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 34c4a273255d
+places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
+record: 4f3c0cf19e84
 ---
 
 # News, Oct – Nov 2026
@@ -61,6 +61,8 @@ record: 34c4a273255d
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -223,7 +225,7 @@ Burundi's mandatory SIM and eSIM registration, begun in mid-June, was about 70 p
 
 **[Capital mínimo trava novas empresas tecnológicas no setor bancário, diz consultor](https://caboverde24.info/2026/10/14/capital-minimo-trava-novas-empresas-tecnologicas-no-setor-bancario-diz-consultor/)** — Caboverde24, 14 October 2026
 
-2019 notice sets 2m-20m escudo capital floors by payment activity; 20m for e-money institutions.
+On 13 October 2026, Samuel Silva of PD Consult told RTC that minimum capital deters tech firms from banking. Caboverde24 notes that the central bank's 2019 notice sets floors by activity, from 2 million escudos for money transfer alone. E-money institutions need 20 million escudos.
 
 </div>
 
@@ -501,6 +503,34 @@ Egypt's government will send parliament a bill on classifying and sharing data b
 **[Cairo ICT 2026: FRA Chairman Highlights Digital Transformation in Non-Banking Finance](https://fra.gov.eg/en/fra_news/%d8%ae%d9%84%d8%a7%d9%84-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%A7%d9%84%d9%87%d9%8A%d8%A6%d8%A9-%d8%A7%d9%84%d8%b9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85/)** — Financial Regulatory Authority (Egypt), 7 November 2026
 
 Egypt's Financial Regulatory Authority reported over 1.727 million e-KYC verifications in non-bank finance by late October 2026, against 354,000 at the end of 2025. It put registered digital contracts at 862,000, against 190,000. Presenting at Cairo ICT 2026 on 7 November 2026, it said its sandbox had taken 67 applications and moved two to live testing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft law on national health databases</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Health Minister at Cairo ICT: New Health Data Law, Faster Treatment Decisions](https://cairoict.com/news/health-minister-at-cairo-ict-new-health-data-law-faster-treatment-decisions)** — Cairo ICT 2026 (Tradefairs International), 10 November 2026
+
+Egypt's health ministry will send parliament a draft law bringing health databases into one system, minister Khaled Abdel Ghaffar said on 8 November 2026. The minister spoke at Cairo ICT 2026. The Nephro Egypt platform follows about 60,000 dialysis patients. Automated state-funded treatment decisions now take at most 24 hours.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PDPL Executive Regulations, Decree 816 of 2025</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Hyperscalers want clear rules before they build data centers in Egypt](https://enterpriseam.com/ai/2026/11/12/hyperscalers-want-clear-rules-before-they-build-data-centers-in-egypt/)** — Enterprise (EnterpriseAM), 12 November 2026
+
+Lawyers quoted by Enterprise say Egypt's data rules deter hyperscalers. Each transfer of data abroad needs its own permit, and limits on state access are unclear. Egypt has an estimated 15-60 MW of installed data-centre capacity against an ambition of 400-500 MW. The government plans a national data-centre strategy by the end of 2026 but has set no date for new rules.
 
 </div>
 
@@ -1001,6 +1031,22 @@ Mozambique's INTIC presented a proposed revision of Decree 67/2017, its e-govern
 
 </div>
 
+## Namibia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Communications regulator's regulatory sandbox framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CRAN develops regulatory framework for AI, satellite internet and blockchain](https://thebrief.com.na/2026/11/cran-develops-regulatory-framework-for-ai-satellite-internet-and-blockchain/)** — The Brief (Namibia), 12 November 2026
+
+Namibia's Communications Regulatory Authority is developing a regulatory sandbox, The Brief reported on 12 November 2026. It would let operators, start-ups, universities and government projects test AI, satellite broadband, direct-to-cell, drones, blockchain and digital-identity services under set conditions. A steering committee would recommend changes to regulation; the framework is still at stakeholder consultation.
+
+</div>
+
+</div>
+
 ## Nigeria
 
 <div class="monthly-story" markdown="1">
@@ -1395,7 +1441,7 @@ Sudan's Council of Ministers approved three draft laws from the Ministry of Digi
 
 **[Sudanese Journalists' Syndicate documents 673 violations and calls for end to impunity](https://www.dabangasudan.org/en/all-news/article/sudanese-journalists-syndicate-documents-673-violations-and-calls-for-end-to-impunity)** — Dabanga Radio TV Online, 2 November 2026
 
-673 violations to June 2026; Cybercrime Act complaints against 47 journalists, 18 declared wanted; repeal demanded.
+The Sudanese Journalists' Syndicate counted 673 violations against journalists from April 2023 to end June 2026, including 34 killings. It recorded 64 prosecutions, among them Cybercrime Act complaints against 47 journalists and outlets, after which 18 were declared wanted. The syndicate demanded repeal of restrictive laws, Dabanga reported on 2 November 2026.
 
 </div>
 

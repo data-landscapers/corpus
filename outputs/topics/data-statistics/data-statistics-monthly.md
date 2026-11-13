@@ -1,16 +1,18 @@
 ---
 title: National statistics — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: data.statistics
-places: DZA; BDI; CAF; COG; COD; EGY; GNQ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
-record: 39c5119762ef
+places: DZA; BWA; BDI; CAF; COG; COD; EGY; GNQ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
+record: 7df21551d0d7
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -66,6 +68,30 @@ record: 39c5119762ef
 **[Full Text of the Council of Ministers Meeting Statement](http://news.radioalgerie.dz/en/node/98524)** — Algerian Radio, 8 November 2026
 
 At the Council of Ministers on 8 November 2026, President Abdelmadjid Tebboune told ministers to load their statistics onto a national digital platform. The platform belongs to the High Commission for Digitization. The meeting also ordered a statistics department for agriculture.
+
+</div>
+
+</div>
+
+## Botswana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics Botswana Corporate Strategic Plan 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Reliable statistics essential for growth](https://dailynews.gov.bw/news-detail/94087)** — Botswana Press Agency (BOPA) / Daily News, 11 November 2026
+
+Acting President Ndaba Gaolathe launched Statistics Botswana's 2026–2030 corporate strategic plan in Tlokweng, the Daily News reported on 11 November 2026. The plan has four pillars: statistical excellence and leadership, data use and impact, institutional resilience, and innovation. The Acting President tied it to monitoring the Botswana Economic Transformation Programme.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Botswana positions data as diamonds](https://www.itweb.africa/article/botswana-positions-data-as-diamonds/xnklOqz1Xx3M4Ymz)** — ITWeb Africa, 12 November 2026
+
+Statistics Botswana launched its Corporate Strategic Plan 2026-2030 in Gaborone, ITWeb reported on 12 November 2026; the launch date is not stated. The plan, themed 'From Data Producer to Data Leader', covers data governance, modernised information systems and the use of AI and machine learning. Vice President and Finance Minister Ndaba Gaolathe launched it.
 
 </div>
 
@@ -329,7 +355,7 @@ WorldPop and the UK Office for National Statistics ran a five-day workshop in Bl
 
 **[Statistiques du commerce extérieur](https://www.instat-mali.org/fr/publications/statistiques-du-commerce-exterieur)** — Institut National de la Statistique (INSTAT), Mali, 5 October 2026
 
-INSTAT quarterly trade bulletins Q1 2013 to Q1 2026 and annual trade yearbooks 2017-2025, free to download.
+On a page dated 5 October 2026, Mali's statistics institute INSTAT lists quarterly trade bulletins from 2013 to early 2026. Annual trade yearbooks for 2017 to 2025 are also free to download. The list shows no bulletin for the fourth quarter of 2023 or the first quarter of 2020.
 
 </div>
 
@@ -357,7 +383,7 @@ Mali's Council of Ministers on 9 October 2026 took note of the country's fourth 
 
 **[Mali releases 2023–24 agricultural data under the 50x2030 Initiative](https://www.fao.org/in-action/agrisurvey/news/news-detail/mali-releases-2023-24-agricultural-data-under-the-50x2030-initiative/en)** — FAO, 3 November 2026
 
-First 50x2030 results for Mali: 7.45m ha cultivated, 8.84m t cereals; tables on national open data portal.
+FAO reported on 3 November 2026 that Mali published results of its 2023–24 agricultural survey, the first under the 50x2030 Initiative. The survey puts cultivated area at about 7.45 million hectares and cereal output at 8.84 million tonnes. Interactive tables are on Mali's national open data portal.
 
 </div>
 
@@ -390,6 +416,28 @@ Mozambique's national statistics institute, INE, has about US$60m of the US$110m
 **[Nigerian Central Bank Digitalises Fiscal Data Collection - Voice of Nigeria](https://von.gov.ng/nigerian-central-bank-digitalises-fiscal-data-collection/)** — Voice of Nigeria, 10 November 2026
 
 The Central Bank of Nigeria is moving its Sub-National Fiscal Survey of the 36 states, the FCT and 774 local governments from paper to a digital platform. Its Statistics Department said returns will be quarterly instead of twice a year. Training had reached 16 states by 6 November 2026. The remaining states are due by 4 December, and the FCT on 9 and 10 December 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Nigeria Tech Outlook Report and Dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITDA Unveils Nigeria Tech Outlook Report](https://von.gov.ng/nitda-unveils-nigeria-tech-outlook-report/)** — Voice of Nigeria, 11 November 2026
+
+NITDA launched the Nigeria Tech Outlook Report 2026 as an annual digital-economy baseline, Voice of Nigeria reported on 11 November 2026. The report finds that 86.5% of adults hold a financial account and 12% used digital credit. It finds 40.6% personally use a smartphone and 17.9% used government services online in the previous 12 months.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITDA and NBS Launch Nigeria Tech Outlook Report to Support Digital Economy Growth](https://techafricanews.com/2026/11/12/nitda-and-nbs-launch-nigeria-tech-outlook-report-to-support-digital-economy-growth/)** — Tech Africa News, 12 November 2026
+
+NITDA and the National Bureau of Statistics launched the Nigeria Tech Outlook Report at Digital Nigeria 2026 in Abuja, Tech Africa News reported on 12 November 2026. The two bodies present it as a source of technology-sector data for policy and investment. The account gives none of the report's figures.
 
 </div>
 

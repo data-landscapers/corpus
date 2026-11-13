@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 2a165136ce98
+record: 5c1dbc2a78e4
 ---
 
 # News, Oct – Nov 2026
@@ -323,6 +323,20 @@ An unnamed Libyan project official said Libya's fibre link to the Chadian border
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chad-Rwanda digital cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ITU PP-26 Doha: Chad and Rwanda explore stronger digital cooperation at ITU PP-26](https://www.techreviewafrica.com/news/8254/itu-pp-26-doha-chad-and-rwanda-explore-stronger-digital-cooperation-at-itu-pp-26)** — TechReviewAfrica, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
+
+Chad's telecoms minister, Haliki Choua Mahamat, met Rwanda's ICT minister at ITU PP-26 in Doha on 10 November 2026. The Chadian minister asked ADETIC and ARCEP Chad to prepare a study mission to Rwanda. ARCEP Chad is looking at cooperation with RURA on spectrum management, quality of service, competition and consumer protection.
+
+</div>
+
+</div>
+
 ## Comoros
 
 <div class="monthly-story" markdown="1">
@@ -629,6 +643,20 @@ Liberia became the 43rd member of the Smart Africa Alliance, the admission compl
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Memorandum with Rwanda Cooperation on local government service delivery</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia and Rwanda Sign Five-Year Deal to Bring Services Closer to Citizens](https://www.cooperation.rw/updates/newsroom-1/news-detail/liberia-and-rwanda-sign-five-year-deal-to-bring-services-closer-to-citizens)** — Rwanda Cooperation, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
+
+Rwanda Cooperation and Liberia's Ministry of Local Government signed a five-year memorandum of understanding in Kigali on 10 November 2026. Its first area is digitising Liberia's 15 County Service Centers, drawing on Rwanda's Irembo experience; it also covers local revenue administration and tax registries. Focal persons are due within 30 days and a joint implementation plan within 90.
+
+</div>
+
+</div>
+
 ## Mali
 
 <div class="monthly-story" markdown="1">
@@ -849,6 +877,20 @@ Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cros
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Five-year local-governance memorandum with Liberia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia and Rwanda Sign Five-Year Deal to Bring Services Closer to Citizens](https://www.cooperation.rw/updates/newsroom-1/news-detail/liberia-and-rwanda-sign-five-year-deal-to-bring-services-closer-to-citizens)** — Rwanda Cooperation, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
+
+Rwanda Cooperation and Liberia's Ministry of Local Government signed a five-year memorandum of understanding in Kigali on 10 November 2026. Its first area is digitising Liberia's 15 County Service Centers, drawing on Rwanda's Irembo experience; it also covers local revenue administration and tax registries. Focal persons are due within 30 days and a joint implementation plan within 90.
+
+</div>
+
+</div>
+
 ## Sao Tome and Principe
 
 <div class="monthly-story" markdown="1">
@@ -962,6 +1004,28 @@ Uganda's State Minister for ICT, Joyce Ssebugwawo, held talks in Cairo with Egyp
 **[Uganda MPs push EALA to pressure EAC states on ICT protocol ratification](https://horneconomicreview.com/2026/11/02/uganda-mps-push-eala-to-pressure-eac-states-on-ict-protocol-ratification/)** — Horn Economic Review, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
 
 Uganda's parliamentary Committee on Foreign Affairs said only Uganda and Rwanda have both signed and ratified the EAC Protocol on ICT Networks, Horn Economic Review reported on 2 November 2026. The protocol was adopted in 2013. The committee asked Uganda's members of the East African Legislative Assembly to press the other partner states to ratify it. It covers infrastructure sharing, cross-border connectivity, cybersecurity and common ICT policy.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/uganda/)** — International Telecommunication Union (statement by Uganda), 11 November 2026
+
+Uganda's ICT minister told the ITU Plenipotentiary Conference in Doha on 11 November 2026 that network coverage reached 96% of the population (GSMA, 2025). The minister cited digital-skills training for over 100,000 young people in three years and over 10,000 free smartphones in a trial. Uganda stood for re-election to the ITU Council for 2027–2030.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UGANDA HIGHLIGHTS DIGITAL TRANSFORMATION AGENDA AT ITU CONFERENCE](https://www.ucc.co.ug/uganda-highlights-digital-transformation-agenda-at-itu-conference/)** — Uganda Communications Commission, 11 November 2026
+
+The Uganda Communications Commission reported that ICT minister Justine Kasule Lumumba delivered Uganda's policy statement at the ITU Plenipotentiary Conference in Doha on 11 November 2026. The minister cited 96% population network coverage (GSMA, 2025) and digital-skills training for over 100,000 young people in three years. The minister also cited the UCC's e-Booster Programme for homegrown ICT solutions.
 
 </div>
 

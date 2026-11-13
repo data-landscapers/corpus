@@ -1,10 +1,10 @@
 ---
 title: Digital sovereignty — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: geopol.sovereignty
 places: NGA; SLE
-record: 734c0d2af1c4
+record: 36a39fc1f537
 ---
 
 # News, Oct – Nov 2026

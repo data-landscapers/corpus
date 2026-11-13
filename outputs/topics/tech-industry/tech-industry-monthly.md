@@ -1,15 +1,17 @@
 ---
 title: ICT Industry — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: tech.industry
-places: KEN; NGA; SEN; ZAF
-record: a61f3a0e51ef
+places: EGY; KEN; NGA; SEN; ZAF
+record: d0dcbfba6ccd
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
@@ -18,6 +20,30 @@ record: a61f3a0e51ef
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 </nav>
+
+## Egypt
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MNT-Halan listing on the Egyptian Exchange</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MNT-Halan Lists Egyptian Business on Cairo Stock Exchange in Major IPO](https://techafricanews.com/2026/11/12/mnt-halan-lists-egyptian-business-cairo-stock-exchange-ipo/)** — Tech Africa News, 12 November 2026
+
+MNT-Halan listed its Egyptian business on the Cairo Stock Exchange, Egypt's largest IPO since 2021, Tech Africa News reported on 12 November 2026. The retail tranche was more than 43 times oversubscribed and the institutional tranche more than 19 times. Norfund says the fintech grew from 400,000 customers in 2018 to 10 million across four countries.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Norfund-backed fund helps drive MNT-Halan’s rise from Egyptian startup to regional fintech leader](https://innovation-village.com/norfund-backed-fund-helps-drive-mnt-halans-rise-from-egyptian-startup-to-regional-fintech-leader/)** — Innovation Village, 12 November 2026
+
+MNT-Halan listed its Egyptian business on the Cairo Stock Exchange in Egypt's largest IPO since 2021, Innovation Village reported on 12 November 2026. The retail tranche was more than 43 times oversubscribed and the institutional tranche more than 19 times. Norfund committed USD 40m in 2019 to the DPI fund that invested in MNT-Halan in 2021.
+
+</div>
+
+</div>
 
 ## Kenya
 

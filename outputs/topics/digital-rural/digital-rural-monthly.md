@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: digital.rural
-places: CMR; ETH; NGA; RWA; TGO; ZWE
-record: e80a610c5ebb
+places: CMR; ETH; NGA; RWA; TGO; ZMB; ZWE
+record: a0554be914bf
 ---
 
 # News, Oct – Nov 2026
@@ -19,6 +19,8 @@ record: e80a610c5ebb
 <a href="#rwanda">Rwanda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zambia">Zambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
@@ -112,6 +114,22 @@ Signalytic, a health technology company, has installed solar-powered units suppl
 **[DIGITALISATION AGRICOLE : LE TOGO ACCÉLÈRE LA TRANSFORMATION NUMÉRIQUE DE SON SECTEUR AGRICOLE - Ministère de l’Agriculture de la Pêche, des Ressources Animales et de la Souveraineté Alimentaire](https://agriculture.gouv.tg/digitalisation-agricole-le-togo-accelere-la-transformation-numerique-de-son-secteur-agricole/)** — Ministere de l'Agriculture du Togo, 22 October 2026
 
 Togo's agriculture ministry held a World Bank-supported national consultation on digital public infrastructure for agriculture in Lomé on 12-13 October 2026 and set a first roadmap for its ProDISA-Togo project. The project is to bring the sector onto one central system around subsidies, extension advice, finance and markets, farmer identification and grievances, and goes next to the World Bank for comment.
+
+</div>
+
+</div>
+
+## Zambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Satellite terminals in rural public facilities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia Deploys 751 Starlink Kits to Health Facilities with UNDP Support](https://techafricanews.com/2026/11/12/zambia-deploys-751-starlink-kits-to-health-facilities-with-undp-support/)** — Tech Africa News, 12 November 2026
+
+Smart Zambia Institute has begun deploying 751 Starlink kits to health facilities in all 10 provinces, Tech Africa News reported on 12 November 2026. The Global Fund pays for the kits through the Ministry of Health, and UNDP supports the rollout. The first 90 kits went to the Western Province health office.
 
 </div>
 

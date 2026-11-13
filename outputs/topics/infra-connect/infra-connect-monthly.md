@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: a62d77ce0f6f
+record: ffcf2352ff4d
 ---
 
 # News, Oct – Nov 2026
@@ -392,6 +392,20 @@ In an interview printed on 28 October 2026, outgoing CVTelecom chief executive J
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Santiago-Fogo inter-island cable segment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fogo: Ilha sem serviço de telecomunicações e de internet desde a noite de terça-feira](https://www.inforpress.cv/en/article-12372)** — Inforpress (Cabo Verde), 11 November 2026
+
+Fogo island in Cabo Verde lost telephone and internet services overnight on 10 November 2026, Inforpress reported. A CVTelecom source blamed a fire at its São Vicente station, which also cut Brava and Santo Antão. Since March, Fogo has used a backup submarine cable after a fault on the Santiago–Fogo link, due for repair in late November.
+
+</div>
+
+</div>
+
 ## Central African Republic
 
 <div class="monthly-story" markdown="1">
@@ -429,6 +443,7 @@ The country's international connectivity rests largely on a 935 km fibre segment
 Chad's digital minister Haliki Choua Mahamat told German, EU and GIZ representatives on 9 October 2026 that the country has about 6,000 km of optical fibre and aims for 14,000 km, citing the Trans-Saharan backbone and links with Libya and Nigeria. He also named a World Bank-funded project for uncovered areas and a national data centre, and said a digital code is still being drafted.
 
 </div>
+
 
 </div>
 
@@ -1112,6 +1127,28 @@ Namelok Wireless announced on 4 November 2026 a community internet network in Ki
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Lake Victoria Basin Connectivity and Development Project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[General Procurement Notice: Lake Victoria Basin Connectivity and Development Project (LVBCDP), P520201](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479589)** — Kenya National Highways Authority (World Bank procurement notice OP00479589), 6 November 2026
+
+Kenya intends to seek USD 1 billion of World Bank financing for a Lake Victoria Basin connectivity project. KeNHA's notice of 6 November 2026 covers about 815 km of road upgrades with fibre-optic cable along them. The roads fall into five design-build packages across eight counties.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government seeks Sh129.92 billion World Bank loan to upgrade 815km of roads in eight counties | The Eastleigh Voice](https://eastleighvoice.co.ke/news/421770/government-seeks-sh12992-billion-world-bank-loan-to-upgrade-815km-of-roads-in-eight-counties)** — The Eastleigh Voice, 10 November 2026
+
+Kenya's KeNHA issued a procurement notice for the Lake Victoria Basin Connectivity and Development Project, The Eastleigh Voice reported on 10 November 2026. It seeks US$1bn (Sh129.92bn) in IDA financing. The money covers about 815 km of roads and a similar length of fibre across eight counties. Procurement is expected in October–December 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Seacom Africa-Asia subsea cable</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1282,6 +1319,20 @@ Only about two in ten people in Madagascar use the internet, although 3G and 4G 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile broadband population coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ACCÈS À INTERNET - Madagascar veut réduire la fracture numérique](https://www.lexpress.mg/2026/11/acces-internet-madagascar-veut-reduire.html)** — L'Express de Madagascar, 12 November 2026
+
+A COMESA consultation on financing digital infrastructure met in Antananarivo from 10 to 13 November 2026. GSMA estimates cited there put 3G and 4G coverage at about 81% of Madagascar's population in 2026. Yet 66% of people live in covered areas without using mobile internet. 4G reaches an estimated 67% of rural people against 96% in towns.
+
+</div>
+
+</div>
+
 ## Malawi
 
 <div class="monthly-story" markdown="1">
@@ -1349,6 +1400,20 @@ Malawi's Education Minister Bright Msaka said on 29 October 2026 that 2,000 prim
 **[Airtel Malawi Invests MWK81 Billion in Network Expansion as Data Traffic Surges](https://techafricanews.com/2026/11/06/airtel-malawi-invests-mwk81-billion-in-network-expansion-as-data-traffic-surges/)** — Tech Africa News, 6 November 2026
 
 Airtel Malawi told Parliament's communications committee on 3 November 2026 that it had invested nearly MWK81 billion in the network over ten months. It reported 275 new towers in twelve months, 5G on 123 towers, about 2,800 km of fibre and 87% population coverage (company figures). It named foreign-exchange shortages and diesel for 315 off-grid sites as constraints.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Paratus Malawi Starlink enterprise connectivity</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paratus Group Launches in Malawi with Starlink Enterprise Connectivity Services](https://techafricanews.com/2026/11/12/paratus-group-launches-malawi-starlink-enterprise-connectivity-services/)** — Tech Africa News, 12 November 2026
+
+Paratus Group has launched in Malawi, its 16th market in sub-Saharan Africa, Tech Africa News reported on 12 November 2026. Paratus will first sell Starlink enterprise connectivity to businesses and organisations in Lilongwe, Blantyre and Mzuzu. Local technical partners are to install within 24 to 48 hours.
 
 </div>
 
@@ -2212,6 +2277,20 @@ Uganda's talks with Samanga Utilities now centre on a 1,775 km fibre line run by
 **[MTN Uganda Limited: Unaudited financial results for the nine months ended 30 September 2026](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/11/MTN-Uganda-Limited-Earnings-Release-Q3-2026.pdf)** — MTN Uganda Limited, 4 November 2026
 
 MTN Uganda reports profit after tax of Ush571.2 billion for the nine months to 30 September 2026, up 21.2%. Mobile money transaction value was Ush166.6 trillion, up 18.3%. It had 26.4 million subscribers. Third-quarter data revenue growth slowed to 7.8%, from 17.5% in the second quarter, which MTN attributes to unauthorised public Wi-Fi resellers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Workonline point of presence at Raxio UG1, Kampala</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Our network extends into Uganda at Raxio’s Kampala data centre | Workonline](https://www.workonline.africa/2026/workonline-extends-into-uganda/)** — Workonline Communications, 12 November 2026
+
+Workonline Communications opened its first Ugandan point of presence at Raxio's UG1 data centre in Kampala, the company announced on 12 November 2026. Workonline sells 100GE IP transit under a new Ugandan licence, over two separate routes to Nairobi. UG1 hosts 25 carriers and ISPs and the Uganda Internet Exchange Point, where Workonline plans to peer.
 
 </div>
 

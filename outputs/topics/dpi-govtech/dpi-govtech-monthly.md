@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b8019693ecc8
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 648e51924b99
 ---
 
 # News, Oct – Nov 2026
@@ -54,6 +54,8 @@ record: b8019693ecc8
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#lesotho">Lesotho</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
@@ -61,6 +63,8 @@ record: b8019693ecc8
 <a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#malawi">Malawi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -737,6 +741,7 @@ Mahmoud Badawi, Egypt's assistant ICT minister for digital transformation, told 
 
 </div>
 
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1361,6 +1366,22 @@ Treasury Cabinet Secretary John Mbadi told a partners' meeting with the Institut
 
 </div>
 
+## Lesotho
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">eGovernment Infrastructure Project Phase II</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lesotho - eGovernment Infrastructure Phase II - IPR October 2026](https://www.afdb.org/en/documents/lesotho-egovernment-infrastructure-phase-ii-ipr-98493)** — African Development Bank, 29 October 2026
+
+An AfDB supervision report of 29 October 2026 rated Lesotho's eGovernment Infrastructure Phase II satisfactory, with 85.21% of the loan disbursed. Its 17 eGovernment services were not yet public and were due to go live from 15 November to 1 December. Broadband penetration reached 70.8% against a 57.54% target; financial management stayed unsatisfactory.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -1400,6 +1421,20 @@ Liberia's Office of the Chief Information Officer met ministries and agencies on
 **[LRA Commissioner General Highlights Revenue Growth, Accountability and Digital Reforms at ATAF Meetings](https://knewsonline.com/lra-commissionergeneral-highlights-revenue-growth-accountability-and-digital-reforms-at-ataf-meetings)** — Knews Liberia, 8 November 2026
 
 The Liberia Revenue Authority showed a public revenue dashboard and an AI virtual taxpayer assistant, Fatu, at the African Tax Administration Forum meetings in Cairo, reported on 8 November 2026. The dashboard gives monthly collections by revenue category and tax type. Commissioner General James Dorbor Jallah said collections rose from US$612 million in 2023 to US$848 million in 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Anti-Corruption Commission public accountability dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[LACC Launches Anti-Corruption Dashboard](https://www.thenewdawnliberia.com/lacc-launches-anti-corruption-dashboard/)** — The New Dawn, 12 November 2026
+
+The Liberia Anti-Corruption Commission launched a public accountability dashboard on 11 November 2026, due to become operational in 2027. It is to bring together audit findings, procurement compliance, investigations, prosecutions and asset declarations. The work sits under the World Bank-supported GREAT Project. The PPCC, the General Auditing Commission and the Public Accounts Committee are to be trained to feed it.
 
 </div>
 
@@ -1548,6 +1583,22 @@ Malawi's procurement regulator says vendors not registered on the MANePS e-procu
 **[Request for Proposals: consultancy services for a content delivery application (MACRA)](https://macra.mw/wp-content/uploads/2026/10/MACRA-36X6.pdf)** — Malawi Communications Regulatory Authority (MACRA), 14 October 2026
 
 Malawi's communications regulator MACRA issued a request for proposals on 14 October 2026 for a National Content Delivery and Monetization Platform for broadcasters and creators. The system is to cover streaming, digital rights management, royalty reporting and mobile-money payments, with dashboards for COSOMA and the Censorship Board; proposals open on 3 November 2026.
+
+</div>
+
+</div>
+
+## Mali
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital import certificates for private vehicles</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation des Attestations d’importation de Véhicules : La Phase pilote lancée](https://gouvernement.ml/digitalisation-des-attestations-dimportation-de-vehicules-la-phase-pilote-lancee/)** — Information Gouvernementale du Mali, 11 November 2026
+
+Mali's trade directorate, the DGCC, launched the pilot phase of digital import certificates for private vehicles on 9 November 2026. The first certificate, no. 2026000001001, was entered and printed in the new system. Customs, the tax services and licensed customs brokers are taking part before the system is extended.
 
 </div>
 
@@ -1981,6 +2032,20 @@ Senegal's Ministry of Mines and Geology validated its integrated mining-sector d
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Secure consular card issuance and tracking system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Diaspora : Vers un nouveau système sécurisé de délivrance des cartes consulaires sénégalaises](https://www.seneweb.com/fr/news/Societe/diaspora-towards-a-new-secure-system-for-issuing-senegalese-consular-cards_n_999003334.html)** — Seneweb, 11 November 2026
+
+Senegal's foreign ministry (MIAAESE) and the Caisse des Dépôts et Consignations signed a convention on 9 November 2026 to build a secure system for issuing and tracking consular cards for Senegalese abroad, Seneweb reported. The CDC's digital subsidiary, Synapsys Conseil, will deliver it. The stated aim is simpler procedures and traceable, authentic consular documents.
+
+</div>
+
+</div>
+
 ## Seychelles
 
 <div class="monthly-story" markdown="1">
@@ -2101,6 +2166,14 @@ Minister Leon Schreiber hailed more than one million replacement Smart ID applic
 **[Nedbank gears up for smart ID rollout](https://www.itweb.co.za/article/nedbank-gears-up-for-smart-id-rollout/lLn147mQN8l7J6Aa)** — ITWeb South Africa, 5 November 2026
 
 Nedbank announced a phased rollout of Home Affairs smart-ID services at its branches. It begins with its own staff in November 2026, then nine pilot sites, and reaches all nine provinces in early 2027. Integration with Home Affairs systems is under test, and the fee is waived during the pilot.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister Leon Schreiber announces expansion of Smart ID replacement services](https://www.gov.za/news/media-statements/minister-leon-schreiber-announces-expansion-smart-id-replacement-services-11)** — South African Government (Department of Home Affairs), 11 November 2026
+
+South Africa's Home Affairs had Smart ID replacement services running at 753 bank branches by 11 November 2026, past its target of 750 branches by end-March 2027. Smart ID service points have risen from 214 offices to 967 locations. Home Affairs says more than one million South Africans have been served since 9 March 2026.
 
 </div>
 
@@ -2545,6 +2618,20 @@ The Uganda Printing and Publishing Corporation, the government printer, announce
 **[NGO Bureau to automate registration and service deliv](https://www.newvision.co.ug/category/news/ngo-bureau-to-automate-registration-and-servi-NV_242915_102026)** — New Vision, 24 October 2026
 
 Uganda's National Bureau for NGOs plans to move registration, document submission and payment online, with online registration expected by the end of the financial year. The interior ministry is preparing a platform for agencies handling NGO matters to share information.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government Digital Registry</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[What Dr Aminah Zawedde leaves behind at the ICT ministry](https://pmldaily.com/news/world/2026/11/what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry.html)** — PML Daily, 10 November 2026
+
+Uganda's President moved ICT Permanent Secretary Aminah Zawedde to the Office of the Prime Minister on 9 November 2026, PML Daily reported. The profile relays ministry figures. The Government Digital Registry listed about 743 systems in May 2026. The ICT budget rose from about UGX 104bn in FY2022/23 to about UGX 490bn this year.
 
 </div>
 

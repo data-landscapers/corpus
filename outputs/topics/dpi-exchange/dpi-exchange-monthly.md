@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MRT; MOZ; NAM; NGA; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: 1b79d146bf33
+places: DZA; AGO; BEN; BFA; BDI; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MRT; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
+record: eee33571fd25
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: 1b79d146bf33
 <a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -41,6 +43,8 @@ record: 1b79d146bf33
 <a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -124,6 +128,22 @@ Nigeria Customs Service opened talks with Afreximbank on modernising the Sèmè�
 **[Crédits et gestion du risque : l’engagement et la responsabilité des acteurs pour des données fiables au centre de la 8e Rencontre annuelle du BIC-UEMOA](https://cfinance.news/article/credits-et-gestion-du-risque-lengagement-et-la-responsabilite-des-acteurs-pour-des-donnees-fiables-au-centre-de-la-8e-rencontre-annuelle-du-bic-uemoa/)** — C'Finance, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 At the 8th annual meeting of the UEMOA credit information bureau, speakers said most microfinance institutions fall outside the duty to report to the bureau: in Burkina Faso, 20 of 120 licensed institutions met the FCFA 2bn threshold at the end of 2025. Panellists called for reporting by all microfinance institutions and wider use of client consent, which a banker said is now required for bureau access across the eight UEMOA states.
+
+</div>
+
+</div>
+
+## Burundi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Connection to the COMESA electronic certificate of origin (eCO)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burundi begins groundwork for paperless COMESA trade certificates](https://lionweek.com/burundi-begins-groundwork-for-paperless-comesa-trade-certificates/)** — LIONWEEK, 11 November 2026
+
+Burundi and the COMESA secretariat met in Bujumbura on 9–12 November 2026 to prepare Burundi's connection to the regional electronic certificate of origin platform. The meeting feeds a national implementation action plan. No timetable or cost has been published.
 
 </div>
 
@@ -444,6 +464,22 @@ Nigeria's Border Control and Immigration Management System now holds more than 1
 **[Export processing on National Single Window begins December 14 - Businessday NG](https://businessday.ng/news/article/export-processing-on-national-single-window-begins-december-14/)** — BusinessDay NG, 10 November 2026
 
 Nigeria's National Single Window will open export processing on 14 December 2026, its secretariat said on 10 November 2026. A first group of permit-issuing agencies goes live then: NAQS, SON, NAFDAC, NACCIMA, FPIS and REX. CBN, Customs, NEPZA and four ministries follow in the first quarter of 2027. Customs' regulatory HS-code list is due by 1 December 2026 and will be enforced from 1 January 2027.
+
+</div>
+
+</div>
+
+## Seychelles
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Blue economy department data-sharing memoranda with the revenue commission and the registration division</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Blue economy department signs MoUs with SRC, registration division to strengthen data sharing](https://www.nation.sc/articles/33129/blue-economy-department-signs-mous-with-src-registration-division-to-strengthen-data-sharing)** — Seychelles Nation, 11 November 2026
+
+Seychelles' Department of Blue Economy signed two open-ended data-sharing memoranda of understanding on 10 November 2026, Seychelles Nation reported. The partners are the Seychelles Revenue Commission and the Registration Division. Principal Secretary Veronique Nibourette, Acting Commissioner General Fred Morel and Registrar General Suleiman Athanasius signed them.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: capacity.literacy
-places: AGO; CPV; CIV; EGY; GHA; GIN; MLI; MAR; NAM; NGA; RWA; SYC; SSD; TUN
-record: 8b454a51895a
+places: AGO; CPV; CIV; COD; EGY; GHA; GIN; MLI; MAR; NAM; NGA; RWA; SYC; SSD; SDN; TUN
+record: 1de69ccadecb
 ---
 
 # News, Oct – Nov 2026
@@ -15,6 +15,8 @@ record: 8b454a51895a
 <a href="#cape-verde">Cape Verde</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -35,6 +37,8 @@ record: 8b454a51895a
 <a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-sudan">South Sudan</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
 </nav>
@@ -82,6 +86,22 @@ Cabo Verde's economy and digital transition minister, António Baptista, said at
 **[MTN Côte d’Ivoire inaugure un centre numérique à l’Université Félix Houphouët-Boigny](https://intellivoire.net/mtn-ci-inaugure-centre-numerique-universite-fhb/)** — Intellivoire, 4 November 2026
 
 MTN Côte d'Ivoire opened its first QG Digital centre at Université Félix Houphouët-Boigny on 30 October 2026. It is the first of the digital spaces planned at 20 Ivorian universities under a FCFA 500 million programme.
+
+</div>
+
+</div>
+
+## DR Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Njia ya Ujuzi mobile digital classroom</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Haut-Katanga : une classe mobile pour rapprocher les jeunes des métiers d’avenir](https://open.enabel.be/en/update/id/3814)** — Enabel (Open.Enabel), 11 November 2026
+
+Enabel, GIZ and the Centre de Ressources du Haut-Katanga presented a mobile digital classroom, Njia ya Ujuzi, to provincial authorities in Lubumbashi, Enabel reported on 11 November 2026. The truck carries computers and an internet connection under the Edubase project. It will travel the Lobito corridor offering digital-skills training, ICB certification preparation and solar-technology courses.
 
 </div>
 
@@ -207,6 +227,20 @@ Nigeria's NITDA launched a National Digital Literacy Dashboard to track training
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National study of teenagers' online risks</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Google commits $600,000 to map online risks facing Nigerian teenagers - Businessday NG](https://businessday.ng/technology/article/google-commits-600000-to-map-online-risks-facing-nigerian-teenagers/)** — BusinessDay NG, 11 November 2026
+
+Google.org committed US$600,000 to the TechSocietal Development Foundation for Nigeria's first nationwide study of teenagers' online risks, Businessday reported on 11 November 2026. The sum is US$550,000 in funding and US$50,000 in Ad Grants. The study will survey 2,000 adolescents and train 5,000 teachers, alongside a child online-safety pilot in four states.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -250,6 +284,22 @@ A second cohort of 27 Seychelles civil servants was sent off at the Indian High 
 **[South Sudan's first dedicated Media and Information Literacy Centre is creating opportunities for young people](https://www.unesco.org/en/articles/south-sudans-first-dedicated-media-and-information-literacy-centre-creating-opportunities-young)** — UNESCO, 28 October 2026
 
 UNESCO profiled South Sudan's first media and information literacy centre, at Juba Day Secondary School, on 28 October 2026. UNESCO set it up in 2024 with the Central Equatoria education ministry. It offers computers, internet and verification training; the head teacher estimates about 500 users.
+
+</div>
+
+</div>
+
+## Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UNDP digital financial literacy assessment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital finance skills urgently needed to keep economic transactions going and protect individual incomes during Sudan's war, UNDP assessment finds](https://www.undp.org/arab-states/press-releases/digital-finance-skills-urgently-needed-keep-economic-transactions-going-and-protect-individual-incomes-during-sudans-war)** — United Nations Development Programme, 12 November 2026
+
+UNDP published an assessment of digital financial literacy in Sudan on 5 November 2026. It surveyed 152 people in River Nile, Kassala and Gedaref; the sample is not nationally representative. Of these, 78% own a phone but only 44% have a bank account, 36% a mobile payment app and 10% a digital wallet. UNDP found that wallets from different providers often cannot pay one another.
 
 </div>
 

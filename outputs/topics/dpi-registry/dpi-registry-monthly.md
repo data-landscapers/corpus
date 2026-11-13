@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MLI; MRT; MUS; MAR; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 88a1034a838f
+record: 0adb3118159e
 ---
 
 # News, Oct – Nov 2026
@@ -914,6 +914,20 @@ Senegal's Justice Minister, Moussa Sarr, agreed on 10 November 2026 to deploy AP
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Physical and biometric audit of local-government staff</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Les instances de gouvernance de l’audit physique et biométrique des agents territoriaux installées - APS](https://aps.sn/les-instances-de-gouvernance-de-laudit-physique-et-biometrique-des-agents-territoriaux-installees/)** — Agence de presse sénégalaise (APS), 10 November 2026
+
+Senegal launched a physical and biometric audit of local-government staff on 10 November 2026, installing the bodies that will govern it, APS reported. The aim is a secure database of agents, interoperable with territorial HR information systems, with lists certified by local executives. Minister Moussa Balla Fofana cited a 2022 diagnostic counting 18,716 agents in 601 local authorities.
+
+</div>
+
+</div>
+
 ## Sierra Leone
 
 <div class="monthly-story" markdown="1">
@@ -933,6 +947,22 @@ Sierra Leone's National Investment Board says its online one-stop business platf
 **[Communication Minister Explores NIB’s New Online Business Registration System](https://sierraloaded.sl/news/salima-nib-online-business-registration/)** — SierraLoaded, 6 November 2026
 
 Sierra Leone's National Investment Board showed its new Online Business Registration System to Communication Minister Salima Bah, SierraLoaded reported on 6 November 2026. Applicants can reserve a name, upload identification and download certificates online. The Board is working with the National Civil Registration Authority to bring the National Identification Number into registration.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[President Bio Launches Online Business Registration System](https://www.sierraleonemonitor.com/bio-launches-online-business-registration/)** — Sierra Leone Monitor, 11 November 2026
+
+President Julius Maada Bio launched Sierra Leone's Online Business Registration System in Freetown on 10 November 2026, Sierra Leone Monitor reported. The President pledged to process complete, lawful applications within 24 hours and to deliver related registration services within seven days. The National Investment Board runs the system and says earlier records have been moved into it.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone Digitizes Business Registration as 75% of Firms Remain Unregistered](https://www.ecofinagency.com/news-digital/1111-60716-sierra-leone-digitizes-business-registration-as-75-of-firms-remain-unregistered)** — Ecofin Agency, 11 November 2026
+
+Sierra Leone's online business registration system, launched on 10 November 2026, puts 66 National Investment Board services on one platform, Ecofin Agency reported. The NIB's director set an eight-working-hour target for complete applications. At an October 2026 roundtable, a Finance Ministry official cited World Bank 2025 estimates that about 75% of enterprises are unregistered.
 
 </div>
 

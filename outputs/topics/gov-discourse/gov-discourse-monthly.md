@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: gov.discourse
 places: DZA; AGO; CIV; EGY; ETH; GAB; GHA; MWI; NGA; SEN; TUN; ZMB; ZWE
-record: d11722b5c8d9
+record: 9e655b1dea07
 ---
 
 # News, Oct – Nov 2026
@@ -63,7 +63,7 @@ Access Now reviewed exam-related internet shutdowns in the Middle East and North
 
 **[Africa's governments already treat the internet as protest infrastructure. Its courts have not caught up](https://globalvoices.org/2026/10/07/africas-governments-already-treat-the-internet-as-protest-infrastructure-its-courts-have-not-caught-up/)** — Global Voices, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-ECOWAS Court's 2025 Senegal ruling never reached the assembly claim; Angola's first shutdown came ten weeks later.
+Lawyer Ephraim Percy Kenyanito argues in Global Voices, on 7 October 2026, that internet shutdowns should be litigated as assembly cases. Kenyanito notes that the ECOWAS Court's May 2025 Senegal ruling turned on expression and never decided the assembly claim. Angola cut its internet for the first time in July 2025, during fuel-price protests.
 
 </div>
 
@@ -77,7 +77,7 @@ ECOWAS Court's 2025 Senegal ruling never reached the assembly claim; Angola's fi
 
 **[Criminal defamation threat hangs over dozens of Angolan journalists ahead of 2027 vote](https://cpj.org/2026/10/criminal-defamation-threat-hangs-over-dozens-of-angolan-journalists-ahead-of-2027-vote/)** — Committee to Protect Journalists, 8 October 2026
 
-38 journalists probed for defamation since 2015, over 200 cases; Reporter Angola editor given 14 months on 2 Oct 2026.
+CPJ reported on 8 October 2026 that 38 Angolan journalists have faced criminal defamation investigations since 2015, over 200 in all. One, Reporter Angola editor Daniel Frederico, was sentenced in absentia to 14 months on 2 October 2026 over another outlet's article. Defamation in Angola carries prison terms of up to 18 months.
 
 </div>
 
@@ -85,7 +85,7 @@ ECOWAS Court's 2025 Senegal ruling never reached the assembly claim; Angola's fi
 
 **[Law on False Information on the Internet adopted; use of criminal defamation to intimidate journalists](https://monitor.civicus.org/explore/law-on-false-information-on-the-internet-adopted-activists-and-journalists-detained-prosecuted/)** — CIVICUS Monitor, 31 October 2026
 
-Fake-news law adopted 21 May 2026, in force 4 Aug; Constitutional Court struck parts of 2024 vandalism law, Dec 2025.
+Angola's National Assembly adopted Law 6/26 against false information online on 21 May 2026, CIVICUS Monitor reported. The law took effect on 4 August and sets fines and criminal penalties; media report prison terms of up to ten years. The update also records a 14-month defamation sentence passed on editor Daniel Frederico on 2 October 2026.
 
 </div>
 
@@ -133,7 +133,7 @@ Mahmoud Ibrahim Abu al-Dahab, president of Egypt's Council of State, said on 8 N
 
 **[Ethiopia suspends The Reporter indefinitely in escalating assault on independent media](https://cpj.org/2026/11/ethiopia-suspends-the-reporter-indefinitely-in-escalating-assault-on-independent-media/)** — Committee to Protect Journalists, 5 November 2026
 
-EMA suspends publisher indefinitely on 2 November 2026, print and digital platforms alike, under the 2021 media law.
+Ethiopia's Media Authority suspended the publisher of The Reporter indefinitely on 2 November 2026, covering its print editions and digital platforms. The regulator cited reports harming national interests but named no specific article, CPJ reported on 5 November. CPJ called for the suspension to be lifted.
 
 </div>
 
@@ -173,7 +173,7 @@ Gabon's media regulator, the Haute autorité de la communication, lifted on 24 O
 
 **[Afenyo-Markin calls for repeal of Section 208 of Criminal Offences Act](https://gna.org.gh/2026/11/afenyo-markin-calls-for-repeal-of-section-208-of-criminal-offences-act/)** — Ghana News Agency, 8 November 2026
 
-Minority Leader at 30th GJA awards, 7 Nov 2026; Minority also weighing repeal of s.76 Electronic Communications Act.
+Minority Leader Alexander Afenyo-Markin called for repeal of Section 208 of Ghana's Criminal Offences Act on 7 November 2026, GNA reported. The section covers false news likely to cause alarm. The Minority is also weighing repeal of Section 76 of the Electronic Communications Act. The Minority Leader said defamation should be handled through civil action.
 
 </div>
 
@@ -221,7 +221,7 @@ The Nigeria AI Governance Forum inaugurated a 15-member advisory council chaired
 
 **[Africa's governments already treat the internet as protest infrastructure. Its courts have not caught up](https://globalvoices.org/2026/10/07/africas-governments-already-treat-the-internet-as-protest-infrastructure-its-courts-have-not-caught-up/)** — Global Voices, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-ECOWAS Court's 2025 Senegal ruling never reached the assembly claim; Angola's first shutdown came ten weeks later.
+Lawyer Ephraim Percy Kenyanito argues in Global Voices, on 7 October 2026, that internet shutdowns should be litigated as assembly cases. Kenyanito notes that the ECOWAS Court's May 2025 Senegal ruling turned on expression and never decided the assembly claim. Angola cut its internet for the first time in July 2025, during fuel-price protests.
 
 </div>
 
@@ -235,7 +235,7 @@ ECOWAS Court's 2025 Senegal ruling never reached the assembly claim; Angola's fi
 
 **[Senegal: Columnist facing prosecution for disseminating false news](https://mfwa.org/country-highlights/senegal-columnist-facing-prosecution-for-disseminating-false-news/)** — Media Foundation for West Africa, 20 October 2026
 
-Cybersecurity Division custody over Sen Téranga YouTube remarks on influencer Nourah Ba's arrest; false-news charge.
+Senegal's Special Cybersecurity Division detained Sen TV columnist Mamadou 'Momo' Cissé on 15 October 2026, MFWA reports. Cissé had discussed influencer Nourah Ba's arrest on the Sen Téranga YouTube channel, and was charged with spreading false news on 16 October. Cissé was released pending a hearing set for 21 October; MFWA condemned the prosecution.
 
 </div>
 

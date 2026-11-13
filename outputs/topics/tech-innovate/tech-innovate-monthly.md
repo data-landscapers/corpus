@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: tech.innovate
 places: DZA; BEN; BFA; CIV; COD; SWZ; MWI; NAM; NGA; SLE; ZAF; TZA; TUN; ZWE
-record: e662b5348f1c
+record: dba4122f9b14
 ---
 
 # News, Oct – Nov 2026
@@ -156,6 +156,20 @@ Côte d'Ivoire named 32 digital firms on 4 November 2026 for 24 months of state 
 **[Transformation numérique : Augustin Kibassa Maliba s’inspire du modèle Skolkovo pour le futur Technopark de Kinshasa](https://actu7.cd/2026/10/08/transformation-numerique-augustin-kibassa-maliba-sinspire-du-modele-skolkovo-pour-le-futur-technopark-de-kinshasa/)** — Actu7.cd, 8 October 2026
 
 The DRC's digital economy minister visited the Skolkovo innovation centre near Moscow as a model for a technology park and sovereign data centre planned for Kinshasa's extension zone. No site, cost or timetable is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Akili Digital startup programme, Kinshasa pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Recrutement d'une Structure d'Appui à l'Ecosystème (SAE) chargée de la pré-incubation, de l'incubation et de l'accélération des startups - Programme « Akili Digital » Pilote Kinshasa](https://www.congoquotidien.com/2026/11/11/actualite-rdc-recrutement-sae-akili-digital/)** — Congo Quotidien, 11 November 2026
+
+DR Congo's digital transformation project unit, UG PTN, is recruiting a body to incubate and accelerate start-ups under the Akili Digital pilot in Kinshasa. An addendum of 10 November 2026 gives 25 points to knowledge of the Kinshasa ecosystem, Congo Quotidien reported. The World Bank finances the project under credit 7602-ZR, with AFD co-financing.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c5e724c98afd
+record: 545fd72c3c97
 ---
 
 # News, Oct – Nov 2026
@@ -444,6 +444,28 @@ A second account of the YIRI launch, adding that it aims to build a voice and te
 **[Intelligence artificielle : La plateforme YIRI entend faciliter l’accès au numérique grâce aux langues locales](https://www.linfodrome.com/societe/126771-intelligence-artificielle-la-plateforme-yiri-entend-faciliter-l-acces-au-numerique-grace-aux-langues-locales)** — Linfodrome, 22 October 2026
 
 FuturAfric launched YIRI in Abidjan on 15 October 2026, an AI-based social network and online marketplace working in Ivorian languages, with six covered so far and Baoulé and Dioula 70% complete. Its locally hosted corpus holds about 50,000 translated sentences and 300 annotated audio files, the founders aim to reach 80% of West Africa within three years, and the digital transition ministry was asked to back it.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI and innovation centre feasibility study</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabinet national Étude de faisabilité Volet 2- Options de calcul, d’hébergement](https://www.ungm.org/Public/Notice/322258)** — UNDP (via UNGM), 11 November 2026
+
+UNDP in Côte d'Ivoire tendered on 11 November 2026 for a national firm to run lot 2 of a feasibility study for a national AI and innovation centre. The lot covers computing, hosting and connectivity options, cybersecurity and the technical requirements of the centre's first IT purchase. A first lot covers the centre's positioning and governance.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabinet national Étude de faisabilité Volet1- Positionnement, hub virtuel](https://www.ungm.org/Public/Notice/322234)** — UNDP (via UNGM), 11 November 2026
+
+UNDP in Côte d'Ivoire tendered on 11 November 2026 for a national firm to run lot 1 of a feasibility study for a national AI and innovation centre. The lot covers the centre's positioning, service offer, virtual hub, use cases, institutional model and data governance. The tender documents require a UNDP supplier login.
 
 </div>
 
@@ -1204,6 +1226,20 @@ Namibia's Cabinet has directed the Office of the Prime Minister and the ICT mini
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Ayre Index of AI readiness</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibia Could Gain US$219 Million from AI, but Youth Face Readiness Challenges - Namibia Daily News](https://namibiadailynews.info/namibia-could-gain-us219-million-from-ai-but-youth-face-readiness-challenges/)** — Namibia Daily News, 10 November 2026
+
+The Ayre Think Tank's 2026 Commonwealth Youth AI Readiness Index ranks Namibia 36th of 56 countries, with 42.7 out of 100, Namibia Daily News reported on 10 November 2026. The index estimates AI could add US$219m to GDP over ten years in a moderate scenario. It records youth unemployment of 47% and electricity access of 59.3%.
+
+</div>
+
+</div>
+
 ## Niger
 
 <div class="monthly-story" markdown="1">
@@ -1267,6 +1303,20 @@ Nigeria's IT development agency, NITDA, published an advisory on 5 October 2026 
 **[Obidients Want INEC To Abandon AI Results Verification Plan](https://kapitalfm.gov.ng/2026/10/07/obidients-want-inec-to-abandon-ai-results-verification-plan)** — KapitalFM 92.9 Abuja, 7 October 2026
 
 A Nigerian opposition movement called on the electoral commission to abandon its planned use of AI to verify the 2027 election results until the governance framework is published. It demands independent verification, traceability from polling unit to final collation and publication of the result forms.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI Glossary Project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Google Opens New Opportunity for Nigerians to Teach AI Yoruba, Igbo, Hausa and Pidgin](https://www.nigeriastartupact.ng/google-opens-new-opportunity-for-nigerians-to-teach-ai-yoruba-igbo-hausa-and-pidgin/)** — Nigeria Startup Act, 10 November 2026
+
+Data Science Nigeria, with Google support, opened registration for contributors to a National AI Glossary Project, reported on 10 November 2026. The project builds AI language resources in Yoruba, Igbo, Hausa and Nigerian Pidgin. The call states no payment or grant.
 
 </div>
 
@@ -1448,6 +1498,20 @@ Senegal's data protection commission (CDP) warned on 5 November 2026 of rising A
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National framework for anticipating AI in the world of work</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mamadou Lamine Dianté suggère un cadre d’anticipation et d’accompagnement de l’IA - APS](https://aps.sn/mamadou-lamine-diante-suggere-un-cadre-danticipation-et-daccompagnement-de-lia/)** — Agence de presse sénégalaise (APS), 12 November 2026
+
+Senegal's Minister of the Civil Service, Mamadou Lamine Dianté, proposed on 12 November 2026 that the State, employers and unions draw up a national framework on AI at work, APS reported. The minister made the proposal at a workshop held with the Konrad Adenauer Foundation. The framework would cover changes in jobs and skills, training and workers' rights.
+
+</div>
+
+</div>
+
 ## Seychelles
 
 <div class="monthly-story" markdown="1">
@@ -1532,7 +1596,7 @@ Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emer
 
 **[SIMAD University Breaks Ground on Building to Host Somalia's National AI Hub](https://www.dawan.africa/news/simad-university-breaks-ground-on-building-to-host-somalias-national-ai-hub)** — Dawan Africa, 6 November 2026
 
-Ministry places the four-university National AI Hub at SIMAD AI Institute; G+5 building begun 5 November 2026.
+SIMAD University laid the foundation stone on 5 November 2026 for a building to host Somalia's National AI Hub. The hub links four universities; the minister of communications and technology laid the stone with the rector, Dawan Africa reports. Hadiid Group is building the ground-plus-five steel structure.
 
 </div>
 

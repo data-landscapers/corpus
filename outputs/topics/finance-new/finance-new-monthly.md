@@ -1,15 +1,17 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: finance.new
-places: AGO; BEN; CIV; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
-record: ae92c7e46992
+places: DZA; AGO; BEN; CIV; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
+record: ab64808275de
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
@@ -48,6 +50,22 @@ record: ae92c7e46992
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
 </nav>
+
+## Algeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">World Bank start-up financing initiative</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الجزائر في محادثات متقدمة مع البنك الدولي لتمويل الشركات الناشئة](https://asharqbusiness.com/financing-and-investment/155010/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%A6%D8%A9/)** — Asharq Bloomberg (الشرق بلومبرغ), 8 November 2026
+
+Algeria is in advanced talks with the World Bank on a start-up financing initiative, minister Noureddine Ouadah told Asharq Bloomberg on 8 November 2026. Launch is planned at the African Start-up Conference in Algiers on 5–7 December. Some Algerian start-ups are to raise over US$10m each. The minister said a 2026 research levy now has implementing texts: 1% of profits for firms with revenue above DZD 2bn.
+
+</div>
+
+</div>
 
 ## Angola
 

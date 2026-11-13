@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: include.access
 places: BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: a8dae207c6b2
+record: 47950017daf4
 ---
 
 # News, Oct – Nov 2026
@@ -63,7 +63,7 @@ record: a8dae207c6b2
 
 **[Inclusion financière : avec 79,7 % à fin 2024, le Burkina en avance de 6,1 points sur le taux global de l'UEMOA](https://cfinance.news/article/inclusion-financiere-avec-797-a-fin-2024-le-burkina-en-avance-de-61-points-sur-le-taux-global-de-luemoa/)** — C'Finance, 21 October 2026
 
-Expert talk: half of those included through e-money leave accounts unused; strict banking only 23.4% (2024).
+At a talk reported by C'Finance on 21 October 2026, expert Corinne Nikièma put Burkina Faso's financial inclusion at 79.7% at end 2024. That is 6.1 points above the UEMOA rate, while strict bank account ownership stood at 23.4%. Nikièma said half of those included through e-money do not use their accounts.
 
 </div>
 
@@ -101,6 +101,20 @@ Cabo Verde launched an online portal for its labour inspectorate on 3 November 2
 </div>
 
 ## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitisation of the national public-service quality barometer</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RESULTS ACCELERATION PROGRAM FOR INCLUSIVE DIGITALIZATION IN CÔTE D'IVOIRE - PHASE 1: recrutement d'un cabinet pour la digitalisation du Baromètre national de la qualité du service public](https://projects.banquemondiale.org/fr/projects-operations/procurement-detail/OP00480535)** — World Bank / Ministère de la Transition numérique et de l'Innovation technologique (Côte d'Ivoire), 10 November 2026
+
+Côte d'Ivoire's digital ministry seeks a firm to digitise its National Public Service Quality Barometer, in a call closing 17 November 2026. The work falls under the World Bank-financed PADCI project. The barometer's 2024–2025 survey was run largely by hand. PADCI targets 12 public dashboards and 80% user satisfaction by 2030.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -216,7 +230,7 @@ Ghana's Ministry of Finance inaugurated a National Technical Working Committee o
 
 **[Eight in 10 Ghanaian adults have an account, but only 22% are financially healthy](https://3news.com/economy/ghana-financial-health-inclusion-strategy)** — 3News, 7 November 2026
 
-Findex puts account ownership at 81% (2024), up from 29% in 2011; strategy launch due H1 2027; health framework planned.
+Ghana's Ministry of Finance opened work on a 2027–2031 financial inclusion strategy on 5 November 2026, 3News reported. Deputy Finance Minister Thomas Nyarko Ampem cited 81% account ownership in 2024, from the Global Findex. The 2021 FinScope survey found 22% of adults financially healthy. The ministry expects to launch the strategy in the first half of 2027.
 
 </div>
 
@@ -352,7 +366,7 @@ Mauritius's Cabinet on 23 October 2026 noted the setting up of a Mauritius Digit
 
 **[Freedom on the Net 2026: Nigeria](https://freedomhouse.org/country/nigeria/freedom-net/2026)** — Freedom House, 1 October 2026
 
-Score 56/100, partly free; access score cut over Zamfara disruptions; DSS bid to take down critic's posts.
+Freedom House's Freedom on the Net 2026, released in October 2026, rates Nigeria partly free at 56 out of 100. Freedom House cut its score on state control of infrastructure from 6 to 4 over months of disruption in Zamfara State. It also reports an official bid to remove a critic's posts, and DDoS attacks on an investigative outlet.
 
 </div>
 
@@ -439,6 +453,14 @@ Speakers at an Open Government Partnership webinar on 15 October 2026 said the l
 **[10 states get mobile centres to tackle documentation crisis among 3.7m displaced Nigerians](https://www.vanguardngr.com/2026/11/10-states-get-mobile-centres-to-tackle-documentation-crisis-among-3-7m-displaced-nigerians/)** — Vanguard, 11 November 2026
 
 Nigeria's Humanitarian Affairs ministry, UNHCR and Germany handed mobile one-stop-shop vehicles to 10 states (reported 11 November 2026). The vehicles bring NIN enrolment, birth registration, BVN and SIM registration to displaced people. Nigeria has 3.7 million of them.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Doro Launches Mobile One-Stop Shop, Hands Over 10 Vehicles To States, Appreciates Germany's Support For Vulnerable Nigerians - Federal Ministry of Information and National Orientation](https://fmino.gov.ng/doro-launches-mobile-one-stop-shop-hands-over-10-vehicles-to-states-appreciates-germanys-support-for-vulnerable-nigerians/)** — Federal Ministry of Information and National Orientation, 11 November 2026
+
+Nigeria's humanitarian affairs minister, Bernard Doro, handed ten Mobile One-Stop Shop vehicles to state governments in Abuja on 11 November 2026. The units, provided through UNHCR with German funding, offer NIN enrolment, birth, SIM and BVN registration, and bank accounts. Bernard Doro said the scheme should later reach all 36 states and the Federal Capital Territory.
 
 </div>
 
@@ -584,9 +606,17 @@ Tanzania's UCSAF said on 3 November 2026 that it is preparing a project to fix m
 
 <div class="bulletin-item" markdown="1">
 
+**[Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+) - Tunisia (Global Findex Database)](https://api.worldbank.org/v2/country/TUN/indicator/FX.OWN.TOTL.FE.ZS?format=json)** — World Bank (Global Findex Database), 11 November 2026
+
+The World Bank's Global Findex series shows that 26.6% of Tunisian women aged 15 and over held an account at a financial institution or mobile-money provider in 2024. The share was 28.7% in 2021, 28.4% in 2017 and 20.7% in 2014. The World Bank updated the series on 11 November 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
 **[Bancarisation en Tunisie : moins de comptes, plus d'agences, quel cap ?](https://www.challenges.tn/economie/bancarisation-en-tunisie-moins-de-comptes-plus-dagences-quel-cap/)** — Challenges TN, 11 November 2026
 
-Bank accounts down 1.8% to 10.5 million in 2025 as branches rise to 2,081; Findex puts account ownership at 37.8%.
+The Central Bank of Tunisia's banking supervision report shows bank accounts fell 1.8% in 2025 to 10.5 million, Challenges TN reported on 11 November 2026. The branch network grew by 17, from 2,064 to 2,081. Special savings accounts fell 5.9% and current accounts rose 1.2%; the Global Findex puts adult account ownership at 37.8% in 2024.
 
 </div>
 

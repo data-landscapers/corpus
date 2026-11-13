@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: capacity.training
 places: BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN
-record: 2a2360c18113
+record: 4c93b873d035
 ---
 
 # News, Oct – Nov 2026
@@ -517,6 +517,14 @@ Vincent Olatunji, head of the Nigeria Data Protection Commission, opened the 8th
 
 <div class="bulletin-item" markdown="1">
 
+**[Federal Ministry Opens 3MTT Delivery Network, with N4 Billion in Partner Funding to Train Nigerians for Real Economic Opportunities | The Federal Ministry of Communications, Innovation and Digital Economy](https://fmcide.gov.ng/federal-ministry-opens-3mtt-delivery-network-with-n4-billion-in-partner-funding-to-train-nigerians-for-real-economic-opportunities/)** — Federal Ministry of Communications, Innovation & Digital Economy, 11 November 2026
+
+Nigeria's digital economy ministry opened the 3MTT Delivery Network to training organisations and experts on 11 November 2026. About ₦4 billion is earmarked for results-based funding of Cohorts 5 and 6, and applications close on 30 November 2026. The EU and Denmark fund Cohort 5 through GIZ, HAUS and ESTDEV, with a MacArthur Foundation grant.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
 **[Nigeria Opens ₦4 Billion Funding Applications for 3MTT Cohort 5 Delivery Partners](https://techafricanews.com/2026/11/11/nigeria-3mtt-cohort-5-opens-4-billion-funding-applications/)** — Tech Africa News, 11 November 2026
 
 Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcome-linked funding for delivery partners of 3MTT Cohort 5. The EU and Denmark fund it through GIZ, HAUS and ESTDEV, with a MacArthur Foundation grant. Applications close on 30 November 2026.
@@ -625,6 +633,35 @@ At the CollectiveXChange 2026 summit in Johannesburg on 15 October, The Collecti
 **[Digify Africa brings digital training to unemployed youth via WhatsApp](https://www.itweb.co.za/article/digify-africa-brings-digital-training-to-unemployed-youth-via-whatsapp/RgeVDvPR3x3MKJN3)** — ITWeb South Africa, 5 November 2026
 
 Digify Africa launched the Didi Mobile Academy, a WhatsApp digital-skills course for South Africans aged 18 to 35. The Trevor Noah Foundation's R50 million Kulaninati Innovation Fund pays for it. The first course has five modules of about 15 minutes each.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Research Foundations lecturer programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa launches continent-wide drive to expand advanced AI education](https://www.ednews.africa/p/south-africa-launches-continent-wide)** — ednews.africa, 11 November 2026
+
+AI Research Foundations, a Google.org-funded programme training lecturers to teach advanced AI, launched at Stellenbosch University on 9 November 2026. It targets 30 universities in Ghana, Kenya, Nigeria and South Africa, ten of them South African, and aims to reach 30,000 students. FATE Foundation holds the grant and AIMS South Africa is the academic partner, ednews.africa reported.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed AI Talent Development and Innovation Centre with China</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa and China advance plans for Artificial Intelligence Talent Development and Innovation Centre](https://techreviewafrica.com/news/8273)** — Tech Review Africa, 12 November 2026
+
+South Africa and China are advancing plans for an AI Talent Development and Innovation Centre in South Africa, Tech Review Africa reported on 12 November 2026. Deputy Minister Nomalungelo Gina and Vice Minister Zhang Guangjun discussed it at a China-Africa innovation forum in Wuhan. A Chinese technical team is to visit for a preliminary assessment.
 
 </div>
 

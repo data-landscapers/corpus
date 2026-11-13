@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; ETH; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: 8de60db805e5
+record: 19b9899cb790
 ---
 
 # News, Oct – Nov 2026
@@ -459,6 +459,20 @@ Infragora Global Capital plans to start building two AI-ready AFRIDATA data cent
 **[AFRIDATA, Agency sign $1.87m grant for Nigerian data centre study](https://nannews.ng/afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study/)** — News Agency of Nigeria, 28 October 2026
 
 USTDA and AFRIDATA signed a US$1.87m grant for a Nigerian data centre feasibility study, the News Agency of Nigeria reported on 28 October 2026. The signing marked AFRIDATA Nigeria's launch in Abuja. The study covers a flagship site in Lagos, possibly in the Lagos Free Zone, and a backup site in Delta.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Sovereign Cloud Initiative</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nitda, Cbn Partner To Strengthen Nigeria’S Digital Sovereignty Through National Sovereign Cloud Initiative](https://nitda.gov.ng/nitda-cbn-partner-to-strengthen-nigerias-digital-sovereignty-through-national-sovereign-cloud-initiative/9944/)** — NITDA, 12 November 2026
+
+NITDA and the Central Bank of Nigeria held a dialogue on the National Sovereign Cloud Initiative, NITDA reported on 12 November 2026. Director General Kashifu Inuwa said the two bodies want the financial sector to comply first.
 
 </div>
 

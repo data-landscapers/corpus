@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: gov.policy
-places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: ffd6e80bc2b8
+places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: af80c1d12d15
 ---
 
 # News, Oct – Nov 2026
@@ -38,9 +38,13 @@ record: ffd6e80bc2b8
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#lesotho">Lesotho</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -381,6 +385,20 @@ At Digital Economy Live 2026 in Accra, Ghana's communications minister urged Afr
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Emergency Telecommunications Plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana calls for stronger digital infrastructure resilience at ITU PP-26](https://www.citinewsroom.com/2026/11/ghana-calls-for-stronger-digital-infrastructure-resilience-at-itu-pp-26/)** — Citi Newsroom, 11 November 2026
+
+Ghana's proposed Dig Once Policy is before Cabinet, minister Samuel Nartey George told an ITU session in Doha. Citi Newsroom reported the remarks on 11 November 2026. A National Emergency Telecommunications Plan is being developed. Ghana proposed an ITU Programme of Action on Resilience with timelines and measurable indicators.
+
+</div>
+
+</div>
+
 ## Guinea
 
 <div class="monthly-story" markdown="1">
@@ -449,6 +467,22 @@ Kenya's ICT Cabinet Secretary William Kabogo said at a forum in Naivasha that th
 
 </div>
 
+## Lesotho
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Emergency Telecommunications Plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lesotho Calls for Affordable International Connectivity for Landlocked Countries to Ensure They Are Not Left Behind in the Digital Transformation Agenda](https://www.gov.ls/development/lesotho-calls-for-affordable-international-connectivity-for-landlocked-countries-to-ensure-they-are-not-left-behind-in-the-digital-transformation-agenda/)** — Government of Lesotho, 12 November 2026
+
+Lesotho's ICT minister, Nthati Moorosi, asked the ITU to prioritise affordable connectivity for landlocked states, the government reported on 12 November 2026. The minister spoke at the ITU conference in Doha. Lesotho has approved a digital transformation strategy, an AI policy and a data policy. With ITU support, it is building an emergency telecoms plan and a farmers' registry.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -498,6 +532,22 @@ Madagascar's Minister of Digital Development, Posts and Telecommunications, Mahe
 **[TÉLÉCOMMUNICATIONS - Les réformes au service du développement numérique](https://www.lexpress.mg/2026/11/telecommunications-les-reformes-au.html)** — L'Express de Madagascar, 5 November 2026
 
 L'Express de Madagascar reported on 5 November 2026 that the resignation of Minister Mahefa Andriamampiadana, accepted on 3 November, comes as the telecoms sector awaits regulatory reform. Bill 040/2026 aims to ease entry for new operators in a market of three. See the Madagascar entry on the minister's resignation for the main account.
+
+</div>
+
+</div>
+
+## Mauritania
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National electronic commerce strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Launch of the National E-commerce Strategy of Mauritania](https://unctad.org/meeting/launch-national-e-commerce-strategy-mauritania-0)** — UNCTAD, 12 November 2026
+
+UNCTAD says Mauritania's digital transformation ministry was to launch its National E-commerce Strategy 2026-2030 on 12 November 2026. The strategy builds on a 2023 eTrade Readiness Assessment and was funded by GIZ and UNCTAD's core donors (Australia, Switzerland and the Netherlands). A development partners' roundtable was set for 13 November.
 
 </div>
 
@@ -708,6 +758,20 @@ A Sangmyung University consortium ran a study visit to Korea for Nigerian senior
 **[NITDA Unveils Digital Dashboard To Track Nigeria’s Transformation Progress - Matrix News](https://matrixngr.com/2026/11/09/nitda-unveils-digital-dashboard-to-track-nigerias-transformation-progress/)** — Matrix News, 9 November 2026
 
 Nigeria's NITDA launched a public dashboard tracking its Strategic Roadmap and Action Plan 2.0, as reported on 9 November 2026. It shows implementation updates and digital-economy indicators. GIZ's Digital Transformation Center Nigeria built it, with co-funding from the EU and Denmark.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NITDA Strategic Roadmap and Action Plan 2024-2027 (SRAP 2.0)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITDA Seeks Stakeholders Input to Review Digital Strategy](https://von.gov.ng/nitda-seeks-stakeholders-input-to-review-digital-strategy/)** — Voice of Nigeria, 11 November 2026
+
+Nigeria's NITDA opened a stakeholder review of its Strategic Roadmap and Action Plan 2.0 (2024–2026), Voice of Nigeria reported on 11 November 2026. The review, held at DNICE in Abuja, prepares a new strategy for 2027. SRAP 2.0 has eight pillars, 37 aggregate success indicators and about 78 initiatives.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: dpi.mis
 places: AGO; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4e18a9ac0913
+record: e2f6ab4d8952
 ---
 
 # News, Oct – Nov 2026
@@ -431,6 +431,21 @@ The Tax Authority contracted eTax to build and run a platform that analyses elec
 **[التضامن: ربط بيانات 13 مليون أسرة بـ27 قاعدة حكومية لتعزيز دقة استهداف مستحقي الدعم](https://almessa.gomhuriaonline.com/764443/)** — جريدة المساء, 6 November 2026
 
 Assabah reported on 6 November 2026 that Egypt's national social registry holds 13 million households, about half the country's total. Raafat Shafik, assistant to the social solidarity minister, said it links to 27 government databases. He spoke at an Arab conference in Tunisia and described its use in the Takaful and Karama cash programme.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal Health Insurance system enrolment and digital architecture</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From Digital Records to Home-Grown Medical AI: Cairo ICT Panel Maps the Future of Egyptian Healthcare](https://cairoict.com/news/from-digital-records-to-home-grown-medical-ai)** — Cairo ICT 2026 (Tradefairs International), 10 November 2026
+
+A Cairo ICT 2026 panel on 9 November 2026 discussed medical AI in Egypt. Health Care Authority chairman Ahmed El Sobky cited about 6.2 million electronic health files. Hospital automation in the authority exceeds 85%, the chairman said. Noha Adly of the Applied Innovation Center called for sensitive health data to stay in Egypt.
 
 </div>
 
@@ -1051,6 +1066,20 @@ Google.org gave Nigerian health-technology firm Helium Health a US$2.5 million g
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PlanFeld digital immunisation microplanning</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How eHealth Africa is using tech to close immunisation gaps](https://techcabal.com/2026/11/12/ehealth-africa-using-tech-to-close-gaps/)** — TechCabal, 12 November 2026
+
+TechCabal profiles eHealth Africa, a non-profit that maps settlements and plans and tracks vaccination campaigns in Nigeria. Its 2026 Mid-Year Report says campaigns it supported reached over 23 million children in the first half of 2026. In Kebbi State, missed settlements fell from over 20% to about 6% with a digital microplan, eHealth Africa says.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -1181,7 +1210,7 @@ A digital Ebola travel health pass began on 22 October 2026. Arrivals must file 
 
 **[Somalia Plans Central Security Data System to Fill Reporting Gaps](https://www.dawan.africa/news/somalia-plans-central-security-data-system-to-fill-reporting-gaps)** — Dawan Africa, 11 November 2026
 
-Data Analysis Centre to pool police, NISA and immigration data; funding, timeline and data protection unstated.
+Somalia's internal security ministry has begun designing a Data Analysis Centre to pool police, intelligence and immigration data, Dawan Africa reported on 11 November 2026. Director General Mohamed Shire said the system will replace paper filing. The ministry did not say who funds it, when it will operate or how personal data will be protected.
 
 </div>
 
@@ -1198,6 +1227,20 @@ Data Analysis Centre to pool police, NISA and immigration data; funding, timelin
 **[SARS's expanded auto assessments pay off](https://www.itweb.co.za/article/sarss-expanded-auto-assessments-pay-off/kYbe9MXbjykvAWpG)** — ITWeb South Africa, 23 October 2026
 
 The South African Revenue Service reported more than 6.9 million returns auto-assessed by 30 September 2026, 20% more than a year earlier, after extending auto-assessment to some provisional taxpayers, drawing on more verified third-party data and sending assessment notices by WhatsApp. Between 1 July and 19 October it paid R33 billion in refunds to 3.1 million taxpayers, 85% of them within 72 hours.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated Financial Management System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Question to the Minister of Public Service and Administration - NW5534 | PMG](https://pmg.org.za/committee-question/41761/)** — Parliamentary Monitoring Group (PMG), 10 November 2026
+
+South Africa's public service minister told Parliament on 10 November 2026 that no central portal stores job applicants' data (reply NW5534). A shared HR system depends on National Treasury's IFMS project, now in abeyance. The department and the CPSI are exploring links between existing recruitment platforms.
 
 </div>
 

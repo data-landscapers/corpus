@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: gov.protect
-places: AGO; BEN; BFA; CMR; COG; COD; EGY; GHA; KEN; LBY; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 08bc47db0c82
+places: AGO; BEN; BFA; CMR; COG; COD; EGY; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 5678aa232aac
 ---
 
 # News, Oct – Nov 2026
@@ -29,6 +29,8 @@ record: 08bc47db0c82
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#malawi">Malawi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -331,6 +333,22 @@ President Ruto nominated Lydia Sitienei, director of legal services at the Commu
 **[الوطني للحريات وحقوق الإنسان يستعرض مسودة قانون حماية البيانات الشخصية مع لجنة النواب](https://lana.gov.ly/post.php?id=368592&lang=ar)** — وكالة الأنباء الليبية (LANA), 26 October 2026
 
 A committee of the House of Representatives and Libya's human rights council began a joint review of a draft personal data protection law on 26 October 2026. The council's committee wrote the draft over two and a half years. It had Council of Europe expert review. It added a chapter on artificial intelligence. It sent the draft to the House as an initial proposal.
+
+</div>
+
+</div>
+
+## Malawi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft Data Protection Regulations, Guidelines and Registration Fees</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DPA Reviews Proposed Data Protection Registration Fees](https://www.dpa.mw/dpa-reviews-proposed-data-protection-registration-fees/)** — Data Protection Authority (MACRA), Malawi, 11 November 2026
+
+Malawi's Data Protection Authority, MACRA, reviewed proposed registration fees for major data controllers and processors at a workshop in Blantyre, reported on 11 November 2026. The proposal weighs annual revenue and the number of data subjects, replacing a revenue-only model. Fees of K50,000 to K7 million are expected to take effect on 4 January 2027.
 
 </div>
 

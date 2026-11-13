@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: finance.mou
-places: BWA; BDI; EGY; ETH; MOZ; NGA; SEN; SDN; TZA; UGA
-record: 7166c875b0a1
+places: BWA; BDI; COD; EGY; ETH; MOZ; NGA; SEN; SDN; TZA; UGA
+record: 3642ff216c29
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 7166c875b0a1
 <a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burundi">Burundi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -58,6 +60,22 @@ Orange Botswana and Huawei Technologies Botswana signed a memorandum of understa
 **[Burundi: Bujumbura Seeks South Korean Support for Digital Identity Infrastructure](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-bujumbura-seeks-south-korean-support-for-digital-identity-infrastructure)** — We are Tech, 21 October 2026
 
 Burundi's finance and digital economy minister met South Korea's science and ICT ministry in Seoul in October 2026. They discussed cooperation on digital identity, data centres, secure hosting of public data and links between government agencies. Financing through KOICA and Korea's EDCF fund was explored, with training and cybersecurity support.
+
+</div>
+
+</div>
+
+## DR Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital donor coordination group (Groupe interbailleurs du numérique)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«La Nation digitale 2030 : faire de la collaboration un principe de gouvernance »(Ministre de l’Economie numérique) - ACP](https://acp.cd/nation/la-nation-digitale-2030-faire-de-la-collaboration-un-principe-de-gouvernance-ministre-de-leconomie-numerique/)** — Agence congolaise de presse (ACP), 11 November 2026
+
+DR Congo's digital economy minister, Augustin Kibassa, closed a meeting of state IT directors in Kinshasa on 11 November 2026, ACP reported. Augustin Kibassa cited a USD 510 million World Bank and AFD digital project and a presidential pledge of about USD 1 billion. A donor group set up in July 2026 aligns funders to avoid duplicate projects.
 
 </div>
 

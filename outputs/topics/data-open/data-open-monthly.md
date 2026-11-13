@@ -1,10 +1,10 @@
 ---
 title: Open data — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: data.open
 places: BFA; CPV; TCD; CIV; GMB; GNB; KEN; LBY; MDG; MUS; SEN; SLE; SOM; ZAF; TGO; TUN; UGA; ZWE
-record: 4031ef0777bf
+record: 97e5ef543c9a
 ---
 
 # News, Oct – Nov 2026
@@ -73,7 +73,7 @@ Burkina Faso's national statistics institute, INSD, publishes an open data licen
 
 **[Decreto-Lei n.º 45/2026 (Boletim Oficial, I Série, n.º 109)](https://faolex.fao.org/docs/pdf/cvi248337.pdf)** — Boletim Oficial da República de Cabo Verde, 8 October 2026
 
-Organic law of new state-reform ministry; DNME given open data, public-documents portal and Chave Móvel Digital.
+Cabo Verde's Decreto-Lei 45/2026 of 8 October 2026 sets out the structure of the new state-reform ministry. Its National Directorate for State Modernisation is charged with the digital-services portal, the public-documents portal, open data and the Chave Móvel Digital. A service within it covers data, interoperability and AI in the public sector.
 
 </div>
 
@@ -105,7 +105,7 @@ Chad's Centre de Documentation et d'Information Géographique presented a water-
 
 **[Données - Portail officiel des données ouvertes](https://data.gouv.ci/datasets)** — CICG, Gouvernement de Côte d'Ivoire, 20 October 2026
 
-211 datasets as captured 2026-11-12, economy 73 and society 39 leading; newest update 20 October 2026.
+Côte d'Ivoire's official open data portal, data.gouv.ci, listed 211 datasets when captured on 12 November 2026. Economy led with 73 datasets and society followed with 39; the newest update was dated 20 October 2026.
 
 </div>
 
@@ -277,7 +277,7 @@ Sierra Leone has set up a national committee for UNESCO's Information for All Pr
 
 **[Ministry of Finance | Federal Government of Somalia](https://mof.gov.so/)** — Ministry of Finance, Federal Government of Somalia, 10 November 2026
 
-MoF transparency portal and fiscal dashboard: debt stock US$1.48bn (Q2 2026), figures still being checked.
+The Federal Government of Somalia's Ministry of Finance website, captured on 12 November 2026, carries a transparency portal of budget, debt, procurement and audit publications. Its Open Budget Initiative section promises open data and machine-readable releases. A fiscal dashboard puts the public debt stock at US$1.48bn in Q2 2026, figures the ministry says are still being checked.
 
 </div>
 
@@ -293,7 +293,7 @@ MoF transparency portal and fiscal dashboard: debt stock US$1.48bn (Q2 2026), fi
 
 **[Transparency Portal Beta - National Treasury](https://data.etenders.gov.za/home/index)** — National Treasury, 11 November 2026
 
-OCDS procurement data from May 2021 under CC BY 4.0, with REST API; 169,559 tenders, 73,447 awards (Nov 2026).
+South Africa's National Treasury runs a beta Transparency Portal of eTender procurement data, last updated on 11 November 2026. It counts 169,559 tenders published, 73,447 awards and 8,366 contracts, a subset of eTender data. Monthly OCDS data from May 2021 is downloadable under a CC BY 4.0 licence, with a REST API.
 
 </div>
 
@@ -341,7 +341,7 @@ Tunisia's national open data portal lists datasets by theme and publisher, with 
 
 **[Uganda: Public Procurement and Disposal of Public Assets Authority (PPDA)](https://data.open-contracting.org/en/publication/130)** — Open Contracting Partnership, OCP Data Registry, 1 October 2026
 
-OCDS feed Jul 2015 to Oct 2026 under ODC-By; 210 entities enrolled; 71,639 tenders, 142,168 contracts.
+The Open Contracting Partnership's registry lists Uganda's PPDA procurement data, published monthly from July 2015 to October 2026 under ODC-By. As retrieved on 24 October 2026, it held 71,639 tenders and 142,168 contracts from 210 enrolled entities. A December 2022 review found inconsistent organisation identifiers and some filler dates.
 
 </div>
 

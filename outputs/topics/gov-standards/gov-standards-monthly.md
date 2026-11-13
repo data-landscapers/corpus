@@ -1,10 +1,10 @@
 ---
 title: Standards — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: gov.standards
 places: DZA; BEN; BFA; BDI; CMR; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; ZAF; SDN
-record: 3ce8cdda0178
+record: 7cb0ea527488
 ---
 
 # News, Oct – Nov 2026
@@ -313,6 +313,20 @@ ISO lists the Kenya Bureau of Standards (KEBS), set up under the Standards Act i
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank guidance note on AI for the banking sector</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AI Governance Fragmentation Cause For Concern](https://cioafrica.co/ai-governance-fragmentation-cause-for-concern/)** — CIO Africa, 12 November 2026
+
+Lawyers at Bowmans, writing in CIO Africa on 12 November 2026, warn that Kenya's AI rules risk overlapping mandates. They list the National AI Strategy of March 2025 and a draft AI policy published for comment in July 2026. A draft data governance policy and a private member's AI Bill are also in play. The Central Bank of Kenya published draft guidance on AI in banking in September 2026.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -446,6 +460,20 @@ Nigeria's NITDA began its first IPv6 migration readiness training for federal mi
 **[International and regional technical committees](https://www.rsb.gov.rw/standards/our-technical-committees/rsb-technical-committees/international-and-regional-technical-committees)** — Rwanda Standards Board, 16 October 2026
 
 The Rwanda Standards Board lists the regional and international technical committees it sits on, including EAC standards committees. Among them, it is a participating member of the ISO/IEC JTC 1 subcommittee on IT service management (SC 40), an observer on JTC 1 and its security subcommittee SC 27, and a member of the EAC committee on IT standards.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rwanda National DPI Guidelines, Version 1.0</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda National DPI Guidelines, Version 1.0]()** — Ministry of ICT and Innovation (MINICT) and Rwanda Information Society Authority (RISA), 1 November 2026
+
+Rwanda's ICT ministry and RISA published the National DPI Guidelines, Version 1.0, in November 2026. The RISA-owned guidelines set a DPI classification framework and the Rwanda Stack building blocks. They cover interoperability, registries, identity, consent and procurement, with a seven-step roadmap ending in mandated instruments.
 
 </div>
 

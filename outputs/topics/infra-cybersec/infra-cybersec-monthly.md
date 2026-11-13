@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: infra.cybersec
 places: BEN; BWA; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
-record: fe1e4ae169e5
+record: 7bd06df05d34
 ---
 
 # News, Oct – Nov 2026
@@ -444,6 +444,20 @@ Ghana's Cyber Security Authority recorded GH¢209.7m in losses from 4,938 report
 **[CSA and NITA order government institutions to fix critical PHP vulnerabilities within seven days](https://www.myjoyonline.com/csa-and-nita-order-government-institutions-to-fix-critical-php-vulnerabilities-within-seven-days/)** — MyJoyOnline, 22 October 2026
 
 Ghana's Cyber Security Authority and NITA issued a joint alert on 22 October 2026 ordering all government institutions to patch two critical PHP flaws (CVE-2026-109618 and CVE-2026-109619) within seven days and report what they did. Fixed PHP releases are available, and NITA will coordinate support for government systems under its Government Digital Assurance Programme.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial Industry Command Security Operations Centre (FICSOC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Address by Dr Johnson P. Asiama, Governor, Bank of Ghana, at the Chartered Institute of Bankers Ghana 30th National Banking and Ethics Conference](https://www.bog.gov.gh/wp-content/uploads/2026/11/Speech-by-Dr-Johnson-P-Asiama-at-Chartered-Institute-of-Bankers-Ghana-30th-National-Banking-and-Ethics-Conference.pdf)** — Bank of Ghana, 10 November 2026
+
+Bank of Ghana Governor Johnson Asiama addressed the 30th National Banking and Ethics Conference, held 9–10 November 2026. Communications Director Bernard Otabil delivered the text. It said the bank's security operations centre, FICSOC, supplies threat intelligence to 23 banks. It also said AI in credit assessment needs safeguards against bias and unfair outcomes.
 
 </div>
 

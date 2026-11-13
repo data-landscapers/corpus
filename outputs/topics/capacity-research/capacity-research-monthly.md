@@ -1,10 +1,10 @@
 ---
 title: Research institutions — News, October – November 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 subject: capacity.research
 places: BFA; ETH; LBY; MWI; SEN; SLE; ZAF; UGA
-record: ebcda165243c
+record: b263974eabdf
 ---
 
 # News, Oct – Nov 2026
@@ -101,7 +101,7 @@ The research and education networks of Malawi (MAREN) and Uganda (RENU) signed a
 
 **[Avant le Forum régional de Dakar, une journée pour poser les bonnes questions](https://fr.linkedin.com/posts/laspad-ugb_laspad-gdn-crdi-activity-7518645942200369152-maiW)** — LASPAD UGB, 21 October 2026
 
-GDN, ministry and IDRC convene Dakar workshop, 19 Oct 2026, to co-design a national digital-policy research agenda.
+The Global Development Network held a workshop in Dakar on 19 October 2026 to draft a national digital-policy research agenda. The Ministry of Telecommunications and Digital Affairs was a partner and IDRC gave support, LASPAD UGB reports. The workshop opened a regional forum on research in francophone Africa, held 20 to 23 October.
 
 </div>
 
