@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-28-gab-cnie-3-avril-2024-le-gabon-embarque-dans-l-ere-de-l-identite-numerique",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "Gabonreview reports that citizens enrolled biometrically on the electoral list under the Iboga project since 2013 receive their NIP attestation without re-enrolment, per Interior Minister Hermann Immongault's briefing of 28 March 2024.",
+   "as_of": "2024-03-28",
+   "date_precision": "day",
+   "system": "Iboga biometric electoral list",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Iboga biometric electoral list",
+   "country_label": "Gabon",
+   "class": "electoral",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

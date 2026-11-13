@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GAB,electoral,roll,coverage,inservice,2024-05,GAB-005,GAB-001=underway;GAB-002=underway,
+GAB,electoral,roll,coverage,inservice,2024-05,GAB-005;GAB-006,GAB-001=underway;GAB-002=underway,
 GAB,electoral,checked,coverage,open,2025-09,GAB-003;GAB-004,,
 GAB,electoral,linked,coverage,,,,,nothing found
