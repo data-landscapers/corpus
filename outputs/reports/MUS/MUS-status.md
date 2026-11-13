@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 201
+sources_cited: 202
 sections_written: 39
 not_established: 1
 acquire_lines: 29
@@ -199,7 +199,7 @@ In 2025 the World Bank recorded [a financial management information system on co
 
 [Electronic procurement covers online tendering and contract management](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Only 116 of 205 public bodies used the e-Procurement System in 2023-24](https://ppo.govmu.org/Documents/Annual%20Reports/Annual%20Report%202023-2024.pdf). [An assessment published in June 2024 found its use highly selective, with a small share of procurement value passing through it](https://www.mapsinitiative.org/content/dam/maps-initiative/en/assessments/mauritius/maps-assessment-mauritius-e-proc-report.pdf).
 
-[OpenEMIS is the national education management information system](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/) (2022). [Administrators at national, zonal and school level enter student and staff profiles, attendance, enrolment and performance directly](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/). [DHIS2 was in use at regional and national level, with extension to district and primary care still planned](https://dhis2.org/fr/integration-des-donnees-dhis2-avec-vigiflow-pour-le-signalement-des-cas-daefi-a-maurice/) (2022).
+[In 2022 UNESCO described OpenEMIS as the national education management information system](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/). [Administrators at national, zonal and school level entered student and staff profiles, attendance, enrolment and performance directly](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/). [The education ministry's 2025-2026 annual report still lists a centralised, full-fledged system as work to do](https://education.govmu.org/Documents/2026/Annual%20Report/Annual%20Report%202025-2026%20.pdf). [It approached UNESCO and the Community Systems Foundation and sought UNDP support](https://education.govmu.org/Documents/2026/Annual%20Report/Annual%20Report%202025-2026%20.pdf). [It ties implementation to new frameworks, regulatory approvals and funding](https://education.govmu.org/Documents/2026/Annual%20Report/Annual%20Report%202025-2026%20.pdf). [DHIS2 was in use at regional and national level, with extension to district and primary care still planned](https://dhis2.org/fr/integration-des-donnees-dhis2-avec-vigiflow-pour-le-signalement-des-cas-daefi-a-maurice/) (2022).
 
 [The 2025-2026 budget allocates Rs 43 million to replace the Crime Occurrence Tracking System with a new police case management system](https://newsmoris.com/mauritius-police-to-modernize-systems-with-rs-43-million-budget/). [It adds biometric capability to the Criminal Attribute Database, with tendering from the end of August 2025](https://newsmoris.com/mauritius-police-to-modernize-systems-with-rs-43-million-budget/). [The force's 2021 policing plan put use of the tracking system up from 30% to over 80% of divisions in 2020](https://police.govmu.org/police/?mdocs-file=6214). [A 2023 press account dates the replacement of handwritten occurrence books by computer entries to 2015](https://defimedia.info/police-ce-qui-change-entre-1968-et-2023).
 

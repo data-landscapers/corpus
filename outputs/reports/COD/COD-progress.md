@@ -3,10 +3,10 @@ title: DR Congo — progress report, November 2025 – November 2026
 compiled: 2026-11-13
 period: 2025-11-01 to 2026-11-13
 place: COD
-ledger_rows: 335
+ledger_rows: 336
 not_held: 6
 indicators: 115
-record: 1b1b27e9960c
+record: a45b01fcfb60
 ---
 
 # DR Congo: progress report, November 2025 – November 2026

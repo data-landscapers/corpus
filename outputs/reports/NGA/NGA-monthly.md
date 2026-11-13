@@ -3,9 +3,9 @@ title: Nigeria — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: NGA
-ledger_rows: 106
+ledger_rows: 107
 not_held: 8
-record: 4cc3ca2ac61e
+record: 3a5a3e18fe09
 ---
 
 # News, Oct – Nov 2026
@@ -1762,6 +1762,8 @@ Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcom
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
 <a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
 </nav>
 
 ### Access to services
@@ -1869,6 +1871,22 @@ Nigeria's Humanitarian Affairs ministry, UNHCR and Germany handed mobile one-sto
 **[Doro Launches Mobile One-Stop Shop, Hands Over 10 Vehicles To States, Appreciates Germany's Support For Vulnerable Nigerians - Federal Ministry of Information and National Orientation](https://fmino.gov.ng/doro-launches-mobile-one-stop-shop-hands-over-10-vehicles-to-states-appreciates-germanys-support-for-vulnerable-nigerians/)** — Federal Ministry of Information and National Orientation, 11 November 2026
 
 Nigeria's humanitarian affairs minister, Bernard Doro, handed ten Mobile One-Stop Shop vehicles to state governments in Abuja on 11 November 2026. The units, provided through UNHCR with German funding, offer NIN enrolment, birth, SIM and BVN registration, and bank accounts. Bernard Doro said the scheme should later reach all 36 states and the Federal Capital Territory.
+
+</div>
+
+</div>
+
+### Digital divides
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">School connectivity through the research and education network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG to Digitalise Primary, Secondary Schools Through NgREN by 2027](https://www.ngren.edu.ng/view.php?id=27)** — NgREN - Nigeria Research and Education Network, 15 October 2026
+
+NgREN remit widened to public primary and secondary schools from 2027; UBEC has reached ~2,000 of 200,000+ schools.
 
 </div>
 
