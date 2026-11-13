@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-11-12
+compiled: 2026-11-13
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 213
+sources_cited: 214
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -110,7 +110,7 @@ Botswana's signing year has been with neighbours, Gulf partners and China rather
 The largest agreement by value is not a financing instrument at all. The government and India's KP Group [signed a memorandum of understanding on 17 December 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68fb6ae-1ae1-40de-aff6-4f7102522673.pdf) to develop renewable generation, storage and transmission, an investment the Indian side put to its stock exchange at INR 360 billion, at a capacity it envisaged at around 5GW.
 
 <!-- derived -->
-In all, 35 external commitments to Botswana's digital estate are on record, starting between 2015 and 2024 with windows running to 2030, and worth about USD 16 million together (November 2026). Two are active, one approved and one completed, and 31 carry no recorded status; the KP Group memorandum is an energy agreement and is not among them.
+In all, 36 external commitments to Botswana's digital estate are on record, starting between 2015 and 2026 with windows running to 2030, and worth about USD 31 million together (November 2026). Three are active, one approved and one completed, and 31 carry no recorded status; the KP Group memorandum is an energy agreement and is not among them.
 
 ### New investments
 <!-- finance.new -->
@@ -379,7 +379,7 @@ Skills show the same shape. [Basic ICT and e-skills now reach a majority of indi
 ### National statistics
 <!-- data.statistics -->
 
-[Statistics Botswana and the Botswana Public Service College signed a memorandum of understanding on 6 October 2026 to run a statistical literacy programme for public servants across the National Statistical System and to develop common professional standards for statistical staff in the public service](https://dailynews.gov.bw/news-detail/93566). [The second Botswana Strategy for the Development of Statistics, covering 2026-2030 and aligned with National Development Plan 12, has been launched](https://www.ub.bw/news/ub-joins-statistics-botswana-launch-second-bsds-2026-2030-strategy) (August 2026).
+[Statistics Botswana and the Botswana Public Service College signed a memorandum of understanding on 6 October 2026 to run a statistical literacy programme for public servants across the National Statistical System and to develop common professional standards for statistical staff in the public service](https://dailynews.gov.bw/news-detail/93566). [The second Botswana Strategy for the Development of Statistics, covering 2026-2030 and aligned with National Development Plan 12, has been launched](https://www.ub.bw/news/ub-joins-statistics-botswana-launch-second-bsds-2026-2030-strategy) (August 2026). [In November 2026 Statistics Botswana launched its own Corporate Strategic Plan 2026-2030, covering data governance, modernised information systems and the adoption of AI and machine learning](https://www.itweb.africa/article/botswana-positions-data-as-diamonds/xnklOqz1Xx3M4Ymz).
 
 The World Bank's Statistical Performance Indicators recorded [three or more agricultural surveys in the past ten years but only one household survey and one health survey, and no labour force survey and no business survey at all](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). [Statistics Botswana has since released preliminary labour-force results from the Botswana Multi Topic Household Survey conducted from November 2024 to November 2025, which put unemployment at 21.0% against 17.6% in 2015/16](https://www.statsbots.org.bw/sites/default/files/publications/BOTSWANA%20MULTI%20TOPIC%20HOUSEHOLD%20SURVEY%202024%205%20%20%20%20Labour%20Force%20Preliminary%20Stats%20Brief.pdf) (March 2026). The census programme was complete, with [a population census, an agricultural census and a business census all held within the same ten years](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). The same assessment placed the system in [the 50-69 per cent band for data use, data services, data sources and data infrastructure, and in the 70-89 per cent band for data products](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023).
 
