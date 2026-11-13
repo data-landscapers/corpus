@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-10-mar-acces-a-linformation-la-cdai-ouvre-ses-portes-aux-ong",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Commission president Omar Seghrouchni said at a Kenitra meeting that effective application of Law 31.13 depends on better knowledge of its provisions, and commission member Abderrahim Fakkahi criticised the wording of its Article 10.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Law 31.13",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The Commission du droit d'accès à l'information (CDAI), with a president and members, held a regional meeting at Kenitra on 7 November 2026 as the body overseeing the right of access.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Commission du droit d'accès à l'information (CDAI)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national access to information platform",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "online requests and complaints",
+   "owner": "CDAI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
