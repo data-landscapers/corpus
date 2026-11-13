@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eparticipation",
-      "stage": "unplaced",
-      "online": "",
+      "stage": "2",
+      "online": "asked",
       "published": "",
       "required": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source found names a draft law, policy or regulation put online for comment; the standards bureau's drafts are technical standards, answered on a downloadable form.",
-      "note": "Reassessed 2026-11-03, 3 to unplaced: a site posting drafts with comments on a form sent back is not a portal taking comments online (Bill, 2026-10-26), and draft standards are not a named law, policy or regulation. No other row sets a rung.",
-      "as_at": "2026-11-03"
+      "stage_sources": "ZMB-003",
+      "gaps": "No source found since October 2023 shows a portal taking comments online on more than one draft; the standards bureau's drafts are technical standards.",
+      "note": "ZICTA put its draft revised type approval guidelines online in October 2026 with an online comment form, a yes to question 1. Nothing shows a standing portal taking comments on more than one draft, so it is not stage 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

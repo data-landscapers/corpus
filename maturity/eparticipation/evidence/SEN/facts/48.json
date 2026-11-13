@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-14-sen-cloture-de-la-consultation-publique-pour-la-strategie-numerique-du-sen",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "Le Tech Observateur reports that the digital ministry's public consultation on the 2025-2035 digital strategy, opened on 25 July 2024, drew more than 700 contributions on the dedicated Jubbanti platform.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Jubbanti",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jubbanti",
+   "country_label": "Jubbanti consultation platform",
+   "class": "eparticipation",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

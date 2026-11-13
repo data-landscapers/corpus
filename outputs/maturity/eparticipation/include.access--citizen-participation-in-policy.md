@@ -23,9 +23,9 @@ The African Charter on Democracy, Elections and Governance asks for citizen part
 | 5 Leading | 0 |
 | 4 Operating | 1 |
 | 3 Established | 9 |
-| 2 Nascent | 22 |
+| 2 Nascent | 23 |
 | 1 Absent | 0 |
-| Unplaced | 8 |
+| Unplaced | 7 |
 | No evidence | 14 |
 
 ## Countries
@@ -228,6 +228,12 @@ The finance ministry takes public views on tax online each December, as of 2025;
 
 - Tanzania's Ministry of Finance says its Maoni Portal is open to the public and that each December it opens a digital consultation window on improving the tax system ([source, 2025-06-23](https://www.therespondents.co.tz/2025/06/tanzania-invites-public-input-on-tax.html)).
 
+### Zambia: 2 Nascent
+
+Zambia's telecoms regulator took comments on draft guidelines through an online form in 2026; a portal for more than one draft is not known.
+
+- ZICTA's public notice of 21 October 2026 puts its draft revised ICT (Type Approval) Guidelines on its website and invites written comments through an online comment form until 20 November 2026 ([source, 2026-10-21](https://ib-lenhardt.com/media/pages/news/consultation-on-draft-revised-type-approval-guidelines/3220b471e8-1792662126/public-notice-draft-revised-type-approval-guidelines_20102026.pdf)).
+
 ### Ethiopia: Unplaced
 
 A portal for draft laws was launched in 2025; no draft put to the public on it is known, so no stage is set.
@@ -263,12 +269,6 @@ Not established: No source found since October 2023 names a draft or policy put 
 An online suggestion box on security opened in 2025; no draft or policy put to the public online is known, so no stage is set.
 
 Not established: No source found since October 2023 names a draft law or policy put to the public online; the 2025 suggestion box takes ideas on security.
-
-### Zambia: Unplaced
-
-The standards bureau posted draft standards for comment in 2026; no draft law or policy put online is known, so no stage is set.
-
-Not established: No source found names a draft law, policy or regulation put online for comment; the standards bureau's drafts are technical standards, answered on a downloadable form.
 
 ### Zimbabwe: Unplaced
 

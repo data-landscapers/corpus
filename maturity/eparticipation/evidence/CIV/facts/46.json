@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-civ-public-consultation-on-the-development-of-guidelines-for-the-implement",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "ARTCI posted its call for a public consultation on net neutrality guidelines on its website, open 6 July to 6 August 2026, with responses accepted by email.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "ARTCI net neutrality consultation",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

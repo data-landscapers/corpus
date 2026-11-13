@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-15-mus-public-consultation-on-child-online-safety-draft-report",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "Mauritius's information technology ministry (MITCI) published its draft Online Child Protection Report on its website and on 15 April 2025 invited public comment by email and through its MAIA+ chatbot, with a 30 April 2025 deadline.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "Child Online Safety draft report consultation",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
