@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: CIV
-ledger_rows: 44
+ledger_rows: 47
 not_held: 9
-record: 2c2beb295c24
+record: 81042b800a55
 ---
 
 # News, Oct – Nov 2026
@@ -348,6 +348,20 @@ Côte d'Ivoire's identification office ONECI began a pilot of national identity 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CI Identité app on the national register of natural persons</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DPI Map (2026-11-12)](https://dpimap.org/data/)** — UCL Institute for Innovation and Public Purpose (IIPP), 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CPV/CPV-monthly.html" title="CPV">Cape Verde</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ERI/ERI-monthly.html" title="ERI">Eritrea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNB/GNB-monthly.html" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNQ/GNQ-monthly.html" title="GNQ">Eq. Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/STP/STP-monthly.html" title="STP">São Tomé</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+IIPP's 2026-11-06 release: 1,843 digital-ID, payment and data-exchange indicator rows for 54 states; checks 2024-2026.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
 <div class="monthly-story" markdown="1">
@@ -650,6 +664,28 @@ FuturAfric launched YIRI in Abidjan on 15 October 2026, an AI-based social netwo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI and innovation centre feasibility study</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabinet national Étude de faisabilité Volet 2- Options de calcul, d’hébergement](https://www.ungm.org/Public/Notice/322258)** — UNDP (via UNGM), 11 November 2026
+
+UNDP tender, lot 2: national AI centre compute, hosting, connectivity, cybersecurity, first IT batch.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabinet national Étude de faisabilité Volet1- Positionnement, hub virtuel](https://www.ungm.org/Public/Notice/322234)** — UNDP (via UNGM), 11 November 2026
+
+UNDP tender, lot 1: national AI centre positioning, virtual hub, use cases, institutional model, data governance.
+
+</div>
+
+</div>
+
 ### Innovation ecosystem
 
 <div class="monthly-story" markdown="1">
@@ -755,6 +791,20 @@ Côte d'Ivoire opened a Digital Farmer School at the INP-HB technopole in Yamous
 </nav>
 
 ### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitisation of the national public-service quality barometer</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RESULTS ACCELERATION PROGRAM FOR INCLUSIVE DIGITALIZATION IN CÔTE D'IVOIRE - PHASE 1: recrutement d'un cabinet pour la digitalisation du Baromètre national de la qualité du service public](https://projects.banquemondiale.org/fr/projects-operations/procurement-detail/OP00480535)** — World Bank / Ministère de la Transition numérique et de l'Innovation technologique (Côte d'Ivoire), 10 November 2026
+
+PADCI call to digitise OSEP service-quality barometer; 12 dashboards and 80% satisfaction by 2030; closes 17 Nov.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
