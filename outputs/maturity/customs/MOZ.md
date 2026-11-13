@@ -6,7 +6,7 @@
 
 **Single window.** [In July 2017 customs official Abishek Dewan said the single window, introduced in 2011 and phased in, operated across the country as a centralised electronic trade platform](<https://www.freightnews.co.za/article/single-window-speeds-up-clearance-at-moz-borders>). [He said clearance was down to eight steps](<https://www.freightnews.co.za/article/single-window-speeds-up-clearance-at-moz-borders>). [In December 2012 MCNet said commercial banks took part through the JUE in collecting USD 450 million in customs duties](<https://jue.mcnet.co.mz/mcnet/portal/news/243/link>). [Trained users included clearing agents, shipping and port company staff and bank staff](<https://jue.mcnet.co.mz/mcnet/portal/news/243/link>).
 
-**Exchange with partners.** No source found since October 2023 says customs exchanges data through a system open to its whole regional community. The nearest fact: [in November 2025 the Centro de Integridade Pública said the electronic single window run by MCNet was in operation](<https://www.cipmoz.org/wp-content/uploads/2025/11/Ajuste-Directo-da-JUE-Estaria-o-Governo-a-Legitimar-Carteis-que-Lesam-o-Estado-2.pdf>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data through a system open to its whole regional community. The nearest fact: [in November 2025 the Centro de Integridade Pública said the electronic single window was in operation](<https://www.cipmoz.org/wp-content/uploads/2025/11/Ajuste-Directo-da-JUE-Estaria-o-Governo-a-Legitimar-Carteis-que-Lesam-o-Estado-2.pdf>). [ MCNet runs it](<https://www.cipmoz.org/wp-content/uploads/2025/11/Ajuste-Directo-da-JUE-Estaria-o-Governo-a-Legitimar-Carteis-que-Lesam-o-Estado-2.pdf>).
 
 ***Also on file***. None found.
 

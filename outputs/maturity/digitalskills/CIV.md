@@ -6,7 +6,7 @@
 
 **Share measured.** No source found since October 2023 gives a measured share of people with basic digital skills. The nearest fact: [in September 2026 the Ministry of Digital Transition planned digital-training infrastructure worth an estimated 95 billion FCFA](<https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/>).
 
-**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest fact: [in September 2026 the ministry aimed to train tens of thousands of digital talents across the country](<https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/>).
+**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest fact: [in September 2026 the ministry aimed to train tens of thousands of digital talents](<https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/>). [ The training was to cover the whole country](<https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/>).
 
 ***Also on file***. [PND 2026-2030 digital strategy (seven pillars, 40 structuring projects)](<https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/>).
 

@@ -6,7 +6,7 @@
 
 **Given nationally.** No source found since October 2023 says every registered birth across the country receives the number. The nearest fact: [in May 2026 KT Press said children receive their first digital ID from birth](<https://www.ktpress.rw/2026/05/with-rwandas-new-digital-id-you-will-control-everything-anyone-sees/>).
 
-**All births registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [in May 2026 KT Press said children's facial photos are taken from age four and fingerprints and iris at five](<https://www.ktpress.rw/2026/05/with-rwandas-new-digital-id-you-will-control-everything-anyone-sees/>).
+**All births registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [in May 2026 KT Press said children's facial photos are taken from age four](<https://www.ktpress.rw/2026/05/with-rwandas-new-digital-id-you-will-control-everything-anyone-sees/>). [It said fingerprints and iris are taken at five](<https://www.ktpress.rw/2026/05/with-rwandas-new-digital-id-you-will-control-everything-anyone-sees/>).
 
 ***Also on file***. [Single Digital ID (SDID)](<https://www.ktpress.rw/2026/05/with-rwandas-new-digital-id-you-will-control-everything-anyone-sees/>).
 

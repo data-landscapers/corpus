@@ -6,7 +6,7 @@
 
 **Used across services.** No source found since October 2023 says authentication is used across services or channels. The nearest fact: [in September 2026 the Reserve Bank linked the Civil Registry database with mobile money subscriber records](<https://businesstimes.co.zw/rbz-shuts-down-ghost-wallets/>).
 
-**Remote proof of identity.** No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest fact: [in September 2026 the Reserve Bank shut down ghost and duplicate mobile money wallets using the Civil Registry database](<https://businesstimes.co.zw/rbz-shuts-down-ghost-wallets/>).
+**Remote proof of identity.** No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest fact: [in September 2026 the Reserve Bank shut down ghost and duplicate mobile money wallets](<https://businesstimes.co.zw/rbz-shuts-down-ghost-wallets/>). [ It used the Civil Registry database](<https://businesstimes.co.zw/rbz-shuts-down-ghost-wallets/>).
 
 ***Also on file***. [Voters' roll (Zimbabwe Electoral Commission)](<https://www.zbcnews.co.zw/registrar-general-to-take-over-voters-roll-under-constitutional-reforms/>); [Civil Registry integration for mobile money KYC](<https://www.heraldonline.co.zw/rbz-closes-loopholes-on-mobile-money-illicit-financial-flows-fraud/>); [Digital ID](<https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform>); [Mobile financial services subscriber records](<https://businesstimes.co.zw/rbz-shuts-down-ghost-wallets/>); [Electronic Traffic Management System (ETMS)](<https://www.zimbabwesituation.com/news/electronic-traffic-system-being-finalised/>).
 

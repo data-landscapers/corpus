@@ -6,7 +6,7 @@
 
 **Electronic payment.** No source found since October 2023 says taxes can be paid electronically through the tax authority's system. The nearest fact: [in July 2026 ITWeb said SARS ran its filing season through auto assessments and eFiling](<https://www.itweb.co.za/article/ai-becomes-taxmans-little-helper/KA3Wwqdzpgb7rydZ>).
 
-**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest fact: [in July 2026 SARS issued auto assessments from 1 to 12 July, then took returns until 23 October](<https://www.itweb.co.za/article/ai-becomes-taxmans-little-helper/KA3Wwqdzpgb7rydZ>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest fact: [in July 2026 SARS issued auto assessments from 1 to 12 July](<https://www.itweb.co.za/article/ai-becomes-taxmans-little-helper/KA3Wwqdzpgb7rydZ>). [It then took returns until 23 October](<https://www.itweb.co.za/article/ai-becomes-taxmans-little-helper/KA3Wwqdzpgb7rydZ>).
 
 ***Also on file***. None found.
 

@@ -6,7 +6,7 @@
 
 **Everyone holds one.** No source found since October 2023 counts 99.9% of the population or more holding a national ID. The nearest fact: [in May 2026 the World Bank said nearly 99% of the population was biometrically enrolled](<https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system>).
 
-**Births and deaths registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [by the end of May 2025 more than 7.7 million people held their personal identification number, the World Bank said](<https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system>).
+**Births and deaths registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [by the end of May 2025 more than 7.7 million people held their personal identification number](<https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system>). [The World Bank said so](<https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system>).
 
 ***Also on file***. None found.
 

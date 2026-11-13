@@ -6,7 +6,7 @@
 
 **Share measured.** [A 2023 household survey by the regulator and the statistics bureau found 35.1 per cent of individuals had ICT skills](<https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf>). [In the same survey 58.4 per cent used the internet](<https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf>).
 
-**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest fact: [a 2023 household survey by the LCA and the Bureau of Statistics found 35.1% of individuals had ICT skills](<https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf>).
+**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest fact: [a 2023 household survey by the LCA and the Bureau of Statistics](<https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf>). [ It found 35.1% of individuals had ICT skills](<https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf>).
 
 ***Also on file***. [Universal Service Fund](<https://lca.org.ls/wp-content/uploads/2026/07/STRATEGIC-PLAN-2026-2029.pdf>).
 

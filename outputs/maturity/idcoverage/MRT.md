@@ -6,7 +6,7 @@
 
 **Everyone holds one.** No source found since October 2023 counts 99.9% of the population or more holding a national ID. The nearest fact: [in June 2026 the interior minister said the Registre national de la population held over 5.1 million people](<https://kassataya.com/ministre-de-linterieur-lenrolement-de-la-population-est-devenu-un-service-public-permanent-qui-garantit-le-droit-de-tous-les-citoyens-a-lenregistrement/>).
 
-**Births and deaths registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [in June 2026 the interior minister said the Registre national de la population had grown from 3.4 million in 2019 to over 5.1 million](<https://kassataya.com/ministre-de-linterieur-lenrolement-de-la-population-est-devenu-un-service-public-permanent-qui-garantit-le-droit-de-tous-les-citoyens-a-lenregistrement/>).
+**Births and deaths registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [in June 2026 the interior minister said the Registre national de la population had grown to over 5.1 million](<https://kassataya.com/ministre-de-linterieur-lenrolement-de-la-population-est-devenu-un-service-public-permanent-qui-garantit-le-droit-de-tous-les-citoyens-a-lenregistrement/>). [It stood at 3.4 million in 2019](<https://kassataya.com/ministre-de-linterieur-lenrolement-de-la-population-est-devenu-un-service-public-permanent-qui-garantit-le-droit-de-tous-les-citoyens-a-lenregistrement/>).
 
 ***Also on file***. [Houwiyeti](<https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/>).
 

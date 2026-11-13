@@ -6,7 +6,7 @@
 
 **Electronic payment.** No source found since October 2023 says taxes can be paid electronically through the tax authority's system. The nearest fact: [in January 2026 no tax returns were yet paid through ITAS, a World Bank report said](<https://documents1.worldbank.org/curated/en/099012726115520907/pdf/P180696-28ecf2f4-34e9-4559-9695-f14bd83f8798.pdf>).
 
-**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest fact: [in January 2026 the World Bank set a target of 70% of returns filed on time through ITAS by December 2029](<https://documents1.worldbank.org/curated/en/099012726115520907/pdf/P180696-28ecf2f4-34e9-4559-9695-f14bd83f8798.pdf>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest fact: [in January 2026 the World Bank set a target of 70% of returns filed on time through ITAS](<https://documents1.worldbank.org/curated/en/099012726115520907/pdf/P180696-28ecf2f4-34e9-4559-9695-f14bd83f8798.pdf>). [The target date is December 2029](<https://documents1.worldbank.org/curated/en/099012726115520907/pdf/P180696-28ecf2f4-34e9-4559-9695-f14bd83f8798.pdf>).
 
 ***Also on file***. None found.
 

@@ -6,7 +6,7 @@
 
 **Share measured.** No source found since October 2023 gives a measured share of people with basic digital skills. The nearest fact: [in May 2026 the government launched a feasibility study for Digital Houses in five inland regions under the E-SKILLS programme](<https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-seeks-to-narrow-digital-divide-with-digital-houses-initiative>).
 
-**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest fact: [in May 2026 the E-SKILLS programme aimed to train at least 3,000 young people and women by 2029](<https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-seeks-to-narrow-digital-divide-with-digital-houses-initiative>).
+**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest fact: [in May 2026 the E-SKILLS programme aimed to train at least 3,000 young people and women](<https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-seeks-to-narrow-digital-divide-with-digital-houses-initiative>). [ It set 2029 as the target year](<https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-seeks-to-narrow-digital-divide-with-digital-houses-initiative>).
 
 ***Also on file***. [TechKid 2026](<https://www.lanation.dj/cloture-de-techkid-2026-une-nouvelle-generation-de-techleaders-a-djibouti/>).
 

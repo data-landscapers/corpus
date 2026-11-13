@@ -6,7 +6,7 @@
 
 **Everyone holds one.** No source found since October 2023 counts 99.9% of the population or more holding a national ID. The nearest fact: [in August 2026 the NCRA's Director-General said about 93 per cent of the population was registered with a NIN](<https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/>).
 
-**Births and deaths registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [in August 2026 the NCRA's Director-General said about 8.2 million of 8.8 million people were on its biometric system](<https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/>).
+**Births and deaths registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [in August 2026 the NCRA's Director-General said about 8.2 million people were on its biometric system](<https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/>). [He put the population at 8.8 million](<https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/>).
 
 ***Also on file***. None found.
 

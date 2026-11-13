@@ -6,7 +6,7 @@
 
 **Electronic payment.** [The SSRA Commissioner General directed that all government revenues, including taxes, be paid exclusively through the National e-Tax System, with electronic receipts as proof of payment, per Sudans Post](<https://www.sudanspost.com/south-sudan-bans-manual-revenue-collection-orders-mandatory-e-tax-system-usage/>). [Commissioner General Rizig Dominic Samuel says that under the electronic system taxpayers pay directly through authorised commercial banks, with transactions recorded in the system; e-Tax was demonstrated to the Zambian delegation](<https://radioyei.org/news/business/ssra-hosts-zambian-delegation-on-digital-tax-systems/>).
 
-**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest fact: [in March 2026 the SSRA Commissioner General ordered all government revenues paid only through the National e-Tax System](<https://www.sudanspost.com/south-sudan-bans-manual-revenue-collection-orders-mandatory-e-tax-system-usage/>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest fact: [in March 2026 the SSRA Commissioner General ordered all government revenues paid through one system](<https://www.sudanspost.com/south-sudan-bans-manual-revenue-collection-orders-mandatory-e-tax-system-usage/>). [The order names only the National e-Tax System](<https://www.sudanspost.com/south-sudan-bans-manual-revenue-collection-orders-mandatory-e-tax-system-usage/>).
 
 ***Also on file***. None found.
 

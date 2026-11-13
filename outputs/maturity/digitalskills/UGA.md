@@ -6,7 +6,7 @@
 
 **Share measured.** No source found since October 2023 gives a measured share of people with basic digital skills. The nearest fact: [in September 2026 the ICT ministry was running a Shs4 billion, three-year programme of regional digital innovation hubs](<https://nilepost.co.ug/business/371109/digital-hubs-must-equip-youth-for-jobssays-ps-zawedde>).
 
-**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest fact: [in September 2026 the hubs were expected to give over 20,000 students and community members digital skills training](<https://nilepost.co.ug/business/371109/digital-hubs-must-equip-youth-for-jobssays-ps-zawedde>).
+**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest fact: [in September 2026 the hubs were expected to give digital skills training](<https://nilepost.co.ug/business/371109/digital-hubs-must-equip-youth-for-jobssays-ps-zawedde>). [They were to reach over 20,000 students and community members](<https://nilepost.co.ug/business/371109/digital-hubs-must-equip-youth-for-jobssays-ps-zawedde>).
 
 ***Also on file***. [MTN Ace](<https://techafricanews.com/2026/08/31/mtn-uganda-graduates-503-youth-digital-skills/>); [Kasese ICT Hub](<https://nilepost.co.ug/news/360591/new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills>).
 

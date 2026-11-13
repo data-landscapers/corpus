@@ -6,7 +6,7 @@
 
 **Everyone holds one.** No source found since October 2023 counts 99.9% of the population or more holding a national ID. The nearest fact: [in September 2026 a Diffa official said about three million Nigeriens held a national identity card](<https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/>).
 
-**Births and deaths registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [in September 2026 a Diffa official said about three million of an estimated 13 million eligible held a card](<https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/>).
+**Births and deaths registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [in September 2026 a Diffa official said about three million people held a card](<https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/>). [He put those eligible at an estimated 13 million](<https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/>).
 
 ***Also on file***. [WURI-Niger](<https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/>); [Registre National d'État Civil (planned)](<https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/>).
 

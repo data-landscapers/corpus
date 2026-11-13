@@ -6,7 +6,7 @@
 
 **Given nationally.** No source found since October 2023 says every registered birth across the country receives the number. The nearest held fact is [the pilot of Enrolment at Birth in three counties](<https://liberianinvestigator.com/nir-partners-launch-national-id-documents-for-children-under-six/>). It enrols children with the NIR, not at birth registration.
 
-**All births registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [in June 2023 the NIR began assigning numbers to children under six in an 'Enrolment at Birth' pilot in three counties](<https://liberianinvestigator.com/nir-partners-launch-national-id-documents-for-children-under-six/>).
+**All births registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [in June 2023 the NIR began assigning numbers to children under six](<https://liberianinvestigator.com/nir-partners-launch-national-id-documents-for-children-under-six/>). [The 'Enrolment at Birth' pilot ran in three counties](<https://liberianinvestigator.com/nir-partners-launch-national-id-documents-for-children-under-six/>).
 
 ***Also on file***. [National Identification Registry (NIR) national ID](<https://liberianinvestigator.com/nir-partners-launch-national-id-documents-for-children-under-six/>); [National Identification Registry](<https://liberianinvestigator.com/featured/nec-transfers-biometric-kits-to-nir/>); [NIR ID](<https://techpoint.africa/news/liberia-link-national-id-cards-deadline>).
 
