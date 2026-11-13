@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "feedback",
-      "stage": "unplaced",
-      "channel": "",
+      "stage": "2",
+      "channel": "underway",
       "reach": "",
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.",
-      "note": "The Miliê portal is on record from 2019 and 2022 only, before the three-year window. Nothing inside the window answers question 1.",
-      "as_at": "2026-11-04"
+      "stage_sources": "CIV-003",
+      "gaps": "No source found since October 2023 says: is one in service with cases on record.",
+      "note": "In November 2026 the digital ministry sought a firm to put the national barometer of public service quality online, with web forms and SMS, a yes to question 1. Nothing shows a channel in service with cases on record, so it stops at 2.",
+      "as_at": "2026-11-13"
     }
   ]
 }

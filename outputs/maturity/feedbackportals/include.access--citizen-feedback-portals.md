@@ -23,9 +23,9 @@ The AU Charter on Decentralisation asks that ICT be used so residents can give f
 | 5 Leading | 5 |
 | 4 Operating | 1 |
 | 3 Established | 3 |
-| 2 Nascent | 29 |
+| 2 Nascent | 30 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
+| Unplaced | 6 |
 | No evidence | 9 |
 
 ## Countries
@@ -118,6 +118,12 @@ A digital channel for complaints about public services was under way in 2024; on
 A digital channel for complaints about public services was under way in 2024; one in service is not on record.
 
 - The Ministry of Justice and Human Rights, with UNDP, is preparing an online platform for filing complaints and requests, and its procedure-mapping committee met for the first time on 6 June 2024; nothing is built ([source, 2024-06-06](https://lendjampost.com/tchad-le-ministere-de-la-justice-compte-creer-une-plateforme-virtuelle-de-depot-de-plaintes-et-requetes/)).
+
+### Cote d'Ivoire: 2 Nascent
+
+Work to put the national survey of public service quality online began in 2026; no channel in service with cases on record is known.
+
+- The Ministry of Digital Transition issued a call on 10 November 2026, under the World Bank-financed PADCI, for a firm to digitalise the National Barometer of Public Service Quality, with web forms, offline tablets, phone surveys and USSD/SMS collection planned, after a 2024-2025 national survey run largely by hand ([source, 2026-11-10](https://projects.banquemondiale.org/fr/projects-operations/procurement-detail/OP00480535)).
 
 ### DR Congo: 2 Nascent
 
@@ -270,12 +276,6 @@ A digital channel for complaints about public services was under way in 2025; on
 ### Comoros: Unplaced
 
 A food programme's grievance mechanism was being set up in 2026; no channel for complaints about public services is known, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
-
-### Cote d'Ivoire: Unplaced
-
-Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 

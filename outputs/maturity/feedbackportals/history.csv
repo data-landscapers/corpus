@@ -97,3 +97,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-05,SYC,include.access--citizen-feedback-portals,fact,unplaced,2,SYC-003,"Revenue Commission complaints email, hotline and WhatsApp opened, February 2025; question 1 answered"
 2026-11-09,MRT,include.access--citizen-feedback-portals,ladder,5,3,MRT-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-11,BWA,include.access--citizen-feedback-portals,fact,unplaced,2,BWA-002,"External claims (housekeeping 58): Botswana told GovTech (2025) it runs Botswana Speaks for feedback on services; a channel under way, 2"
+2026-11-13,CIV,include.access--citizen-feedback-portals,fact,unplaced,2,CIV-003,"PADCI tender of 10 Nov 2026 to digitalise the national barometer of public service quality (web forms, USSD/SMS): a channel under way, yes to question 1; unplaced to 2"

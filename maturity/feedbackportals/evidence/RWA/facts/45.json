@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-rwa-rwandas-data-governance-navigating-data-governance-in-the-public-secto",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Irembo",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "Government of Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": "Irembo is a service portal using citizen feedback as an insight; no complaint channel or case count stated."
+}
