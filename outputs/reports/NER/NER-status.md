@@ -1,12 +1,12 @@
 ---
 title: Niger: status report
-compiled: 2026-11-12
+compiled: 2026-11-13
 place: NER
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 198
+sources_cited: 199
 sections_written: 39
 not_established: 1
 acquire_lines: 33
@@ -373,6 +373,8 @@ Niamey's municipal tax platform Naneye Yarda is [worked by 50 field agents who g
 Imagery has steered a public payment once: [a satellite water-requirement index triggered drought cash transfers to 15,400 households in November 2021](https://blogs.worldbank.org/en/climatechange/responding-faster-droughts-satellites-and-adaptive-social-protection-niger). A [2024 World Bank test of three satellite drought indexes as transfer triggers found none best everywhere](https://documents1.worldbank.org/curated/en/099943305072619092/pdf/IDU-63c24804-35f9-40e0-b867-a958698a0cd7.pdf). [Under the first phase of the CREWS early-warning initiative, from 2017, the hydrology agency issued ten-day flood bulletins](https://crews-initiative.org/project/niger-strengthening-early-warning-services/). [The meteorological service issued daily weather bulletins](https://crews-initiative.org/project/niger-strengthening-early-warning-services/). [A second phase prepared in 2024 adds flood forecasting and agrometeorological services in selected areas](https://crews-initiative.org/project/niger-2-0/). Niger hosts [one of four African regional stations receiving meteorological satellite data directly, built with EUR 20m from the African Development Bank](https://www.afdb.org/en/news-and-events/african-development-bank-supports-development-satellite-observations-african-early-warning-systems-44824) (2021).
 
 [A January 2025 peer review found one of the meteorology directorate's 129 stations, an ASECNA station, compliant with the global observing standard](https://www.un-soff.org/wp-content/uploads/2025/03/CHD-Report_Niger-Republic_DMN.pdf). [Its June 2026 contribution plan sets 17 new and 14 upgraded surface stations and four new upper-air sites](https://www.un-soff.org/wp-content/uploads/2026/06/GBON-National-Contribution-Plan-Niger.pdf).
+
+[In February 2024 the meteorology directorate ran the WRF forecast model four times a day at 4 km over Niger on its own 288-core high-performance computer](https://climateservices.it/wp-content/uploads/2026/06/SLAPIS_Rapport-F1_022024_Niamey.pdf), [with power cuts and unstable internet the main difficulties](https://climateservices.it/wp-content/uploads/2026/06/SLAPIS_Rapport-F1_022024_Niamey.pdf).
 
 ## Geopolitics
 
