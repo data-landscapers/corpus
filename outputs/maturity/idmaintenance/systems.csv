@@ -13,6 +13,7 @@ BFA,CIB-AES,Burkina Faso,idsystem,,Office national d'identification (ONI),,2026-
 BFA,CNIB,CNIB,idsystem,,ONI,,2024-02-02-bfa-oni-antenne-centre-ouest-cnib
 BFA,CNIB,Carte Nationale d'Identité Burkinabè,idsystem,,ONI,,2026-01-02-bfa-laborpresse-oni-bilan-2025-cnib
 BFA,Registre de l'identifiant unique électronique,Burkina Faso,idsystem,,Ministry in charge of digital transition,,2026-11-11-bfa-operation-d-enregistrement-de-masse-de-l-identifiant-unique-le-capitaine-ibrah
+BFA,Registre de l'identifiant unique (IUE),Burkina Faso,idsystem,built in-house,Ministry of Digital Transition,,2026-11-11-bfa-registre-identifiant-unique-lefaso
 BWA,Omang,Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-07-29-botswana-national-id-replacement-delays
 BWA,Public Key Infrastructure,Botswana,other,,Directorate of Intelligence and Security,,2026-07-30-botswana-p423m-pki-project-collapse
 BWA,Omang,BWA,idsystem,,Ministry of Labour and Home Affairs,,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
@@ -91,6 +92,7 @@ GNB,Bilhete de Identidade,Guinea-Bissau,idsystem,,DGICRN,,2026-06-08-gnb-ang-bol
 GNB,Guinea-Bissau identity card system (CNI),Guinea-Bissau,idsystem,Semlex,"Directorate of Identification, Ministry of Justice",,2024-07-01-gnb-new-enrollment-center-in-bissau
 GNB,National identity card (CNI) system,Guinea-Bissau,idsystem,Semlex enrolment centres,Ministry of Justice,,2024-09-19-gnb-expansion-of-identification-centers
 GNQ,Documento de identidad personal (DIP),Equatorial Guinea,idsystem,,CNEDOGE,biometric security documents,2024-01-01 On the functioning of Equatorial Guinea's National Centre for the Issuance of Official Documents (CNEDOGE)
+GNQ,CNEDOGE,Equatorial Guinea,other,,state (Vicepresidency oversight),,2026-11-12-gnq-ejecutivo-aprueba-modernizacion-cnedoge
 KEN,IPRS,Kenya,idsystem,,State Department for Immigration and Citizen Services,,2026-06-26-govt-enhances-registration-new-technology
 KEN,Maisha Namba,Kenya,idsystem,,Ministry of Interior,"UPI at birth, national ID at 18",2025-02-25-birth-registration-reforms-automatic-id-biometricupdate
 KEN,Maisha Namba,"Maisha Namba (digital ID, upgrade of foundational ID)",idsystem,,State Department for Immigration and Citizen Services,,2023-11-29-ken-business-rivalry-blamed-for-digital-id-misinformation

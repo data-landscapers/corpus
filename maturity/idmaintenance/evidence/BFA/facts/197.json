@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-11-bfa-registre-identifiant-unique-lefaso",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The minister said on 11 November 2026 that the identifier platform is administered by Burkinabe engineers.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Registre de l'identifiant unique",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "President Traore said on 11 November 2026 that Burkina Faso designed and controls its own identification system, with tools developed by Burkinabe engineers and public structures.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Registre de l'identifiant unique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre de l'identifiant unique (IUE)",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "built in-house",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
