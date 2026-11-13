@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "authentication",
-      "stage": "5",
+      "stage": "3",
       "service": "inservice",
       "reach": "",
       "remote": "wallet",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-008;AGO-007",
-      "gaps": "No source found says how many people use the AngolaID wallet or which services accept it.",
-      "note": "Under Bill's ruling of 23 October 2026 a method counts only where the state accepts it: in October 2026 INFOSI, the state agency, certified and approved AngolaID for nationwide use (AGO-007), so its digital identity wallet (AGO-008) is remote proof of identity in service, and the later yes answers question 3. Stage 5.",
-      "as_at": "2026-10-28"
+      "stage_sources": "AGO-004;AGO-007",
+      "gaps": "No source found shows authentication used across services or channels: the Interior Ministry's ID checks (AGO-004) serve passport issuance. How many people use the AngolaID wallet is not known.",
+      "note": "Reassessed 2026-11-13 under ruling 114: the ID database check for passport issuance (AGO-004) and the state-certified AngolaID platform (AGO-007) answer question 2. No row shows authentication across services or channels, so question 3 fails and the wallet (AGO-008) cannot lift the cell past 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

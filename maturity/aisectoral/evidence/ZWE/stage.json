@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "5",
-   "use": "inservice",
-   "sectors": "several",
-   "results": "reported",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "results": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-001;ZWE-006",
+      "gaps": "No single source found says AI is in service in the public systems of two or more sectors; the traffic and TB screening facts are separate sources.",
+      "note": "Reassessed 2026-11-13 under ruling 114: AI traffic enforcement in Harare (ZWE-001) and TB screening for the health ministry (ZWE-006) answer question 2. No source says AI is in service in two or more sectors, so question 3 fails and the violation count (ZWE-002) cannot lift the cell past 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

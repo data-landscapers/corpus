@@ -89,6 +89,7 @@ The population register was updated on registered deaths and linked to the immig
 Births and deaths registered in 2025 went into the National Population Register; no other system is known to draw on it.
 
 - Eswatini's Home Affairs ministry says its mopping exercise, registering births and deaths and converting manual birth certificates in Manzini and Hhohho in the second quarter of 2025/26, has improved the National Population Register ([source, 2025-10-27](https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/)).
+- Eswatini's Home Affairs ministry says births and deaths registered in its 2025 mopping exercise in Manzini and Hhohho have improved the National Population Register ([source, 2025-10-27](https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/)).
 
 ### Mauritania: 4 Operating
 

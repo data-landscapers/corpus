@@ -81,6 +81,8 @@ The voters' roll was drawn from or checked against the ID or civil register in 2
 
 The voters' roll was checked against civil status death records in 2026.
 
+- The Electoral Commission of Seychelles says its new Online Voter Registration platform at ecs.sc is in service for new registrations, transfers, corrections and changes of name on the voters' register ([source, 2025-07-13](https://www.nation.sc/articles/26766/ecs-encourages-voters-to-register-online)).
+- The Electoral Commission of Seychelles says voters can use its new Online Voter Registration system at ecs.sc to check their registration status or register, transfer, correct, change name or object ([source, 2025-07-13](https://www.nation.sc/articles/26766/ecs-encourages-voters-to-register-online)).
 - The Electoral Commission of Seychelles FAQ says it receives a monthly list of deceased from the Department of Immigration and Civil Status and removes those names from the voters' register at certification, and that the NIN is used to check the register ([source, 2026](https://ecs.sc/faq/)).
 
 ### South Africa: 5 Leading
@@ -186,10 +188,9 @@ Voters could check the digital roll in 2025; no source found reports a link to t
 
 Voters could check the roll by text message and lists were published in 2025; no source shows it checked against the civil registry.
 
-- Libya Review reports that the National High Electoral Commission (HNEC) launched electronic voter-identity verification in municipal council elections, initially in four municipalities (Zliten, Al-Sbiaa, Brak, Al-Abrak), with devices registering voters' biometric data when voter cards are collected ([source, 2024-08-19](https://libyareview.com/47455/libya-implements-biometric-verification-in-municipal-council-elections)).
-- HNEC Decision 253 of 2025 adopts a regulation setting up a digital registration system by SMS and an in-person system for the voter register ([source, 2025-12-08](https://lawsociety.ly/legislation/%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%85%D9%81%D9%88%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D9%84%D9%84%D8%A7/)).
-- HNEC announced publication of voter lists for the second phase of municipal elections, with 560,896 registered as of 13 April 2025 ([source, 2025-04-13](https://libyareview.com/54785/560896-voters-registered-for-libyan-municipal-elections/)).
+- HNEC's notice says voters register in the voter register by sending their national number and polling-centre number by SMS to 17017 ([source, 2025-02-25](https://hnec.ly/2025/02/25/%D9%83%D9%8A%D9%81-%D9%86%D8%AA%D8%A3%D9%83%D8%AF-%D9%85%D9%86-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%D9%8A-%D8%9F/)).
 - HNEC's notice says voters can check their registration by sending their national number by SMS to 17017, and register with national number and polling-centre number ([source, 2025-02-25](https://hnec.ly/2025/02/25/%D9%83%D9%8A%D9%81-%D9%86%D8%AA%D8%A3%D9%83%D8%AF-%D9%85%D9%86-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%D9%8A-%D8%9F/)).
+- HNEC announced publication of voter lists for the second phase of municipal elections, with 560,896 registered as of 13 April 2025 ([source, 2025-04-13](https://libyareview.com/54785/560896-voters-registered-for-libyan-municipal-elections/)).
 
 ### Malawi: 4 Operating
 
@@ -228,6 +229,7 @@ Voters could check the biometric roll online in 2024; no source found reports a 
 
 Voters could check the digital roll in 2023; no source found reports a link to the ID or civil register.
 
+- ISIE said voters could update the electoral register remotely from 20 May 2024 by registering on its website, Touenssa.isie.tn, or at regional offices ([source, 2024-05-20](https://www.leconomistemaghrebin.com/2024/05/06/isie-actualisation-du-registre-electoral-a-partir-du-20-mai-courant/)).
 - The ISIE says that from 13 November 2023 voters can check their registration at voting centres and constituencies via service 195 with the national ID card number, and by SMS, with 1.406 million Tunisians having used SMS to check their polling place ([source, 2023-11-13](https://www.leconomistemaghrebin.com/2023/11/13/isie-debut-derniere-periode-mise-jour/)).
 
 ### Zambia: 4 Operating
@@ -247,8 +249,7 @@ The voters' roll was held digitally in 2023; voters checking it is not on record
 
 Angola's voters' roll was drawn automatically from the identity database in 2026; whether voters could check the roll is not known.
 
-- Intelwatch says Angola's electoral roll is "derived from the civil identity database", and that under the 2025 Law on Ex Officio Electoral Registration in-person registration is replaced by an automatic registration extracted from the identity database ([source, 2026-08-15](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/)).
-- Justice Minister Marcy Lopes says the citizens database is interlinked with the ID database, allowing information exchange to update the electoral register and to regularise voter-card holders without an ID ([source, 2026-07-01](https://angop.ao/noticias/politica/cerca-de-16-milhoes-de-cidadaos-constam-da-base-do-bilhete-de-identidade/)).
+- Intelwatch says Angola's electoral roll is held as a database derived from the civil identity database, and that the 2025 Law on Ex Officio Electoral Registration replaces in-person registration with automatic registration extracted from it ([source, 2026-08-15](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/)).
 
 ### Burundi: 3 Established
 

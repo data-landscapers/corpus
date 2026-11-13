@@ -21,9 +21,9 @@ The AU Charter on the Principles of Public Service and Administration asks for s
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 5 |
+| 4 Operating | 4 |
 | 3 Established | 8 |
-| 2 Nascent | 39 |
+| 2 Nascent | 40 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 0 |
@@ -63,12 +63,6 @@ AI training became mandatory for all public servants in 2026 and nearly 200,000 
 - Apolitical says Rwanda's Ministry of ICT and Innovation and Ministry of Public Service and Labour made its Government AI Campus course mandatory for their entire public service, and nearly 200,000 public servants have completed it ([source, 2026-05-19](https://apolitical.co/en/pages/gov-ai-campus-500k-milestone)).
 - The Ministry of ICT said in its 12 January 2026 communique that the AI training is compulsory for all state employees, whatever their role or starting skill level ([source, 2026-01-12](https://www.agenceecofin.com/actualites-numerique/1301-134789-numerique-le-rwanda-lance-des-formations-en-ia-pour-tous-les-fonctionnaires)).
 - The notice makes the AI training mandatory for all public servants, including those in education and health institutions, with non-compliance subject to disciplinary measures ([source, 2025-12-31](https://fdo.net.rw/mandatory-artificial-intelligence-ai-training-for-all-public-servants-in-rwanda-dont-miss-certificates/)).
-
-### Sierra Leone: 4 Operating
-
-Digital-skills training reached civil servants across government in 2026; the share trained is not published.
-
-- TechReviewAfrica reports the training targets staff across ministries, departments and agencies ([source, 2026-09-20](https://techreviewafrica.com/news/7357/sierra-leone-expands-digital-skills-training-for-civil-servants)).
 
 ### Cote d'Ivoire: 3 Established
 
@@ -328,6 +322,13 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 
 - The National Assembly of Seychelles says a first cohort of Seychelles civil servants, including its own staff, took a two-week NCGG capacity-building programme in India (11-22 May 2026) covering digital public infrastructure and AI, under an MoU to train 250 civil servants, and graduated on 22 May ([source, 2026-05-22](https://www.nationalassembly.sc/media/news/2026-06/delegation-parliamentary-service-participate-first-capacity-building-programme)).
 - India's Press Information Bureau says NCGG began the first two-week programme for 29 senior Seychelles civil servants on 11 May 2026, covering digital public infrastructure, AI-enabled governance, e-Courts and digitisation and digital payments, as the first milestone of a three-year NCGG-Public Service Bureau MoU to train 250 civil servants ([source, 2026-05-11](https://www.ncgg.org.in/sites/default/files/press_releases_document/Press_Release_PIB_12_05_2026.pdf)).
+
+### Sierra Leone: 2 Nascent
+
+Ministries launched digital-skills training for civil servants in 2026 and certified a first cohort; the number trained has not been found.
+
+- The Ministry of Communication, Technology and Innovation and the Ministry of Public Administration and Political Affairs signed an agreement on 24 June 2026 for a nine-month programme to train 1,000 civil servants in digital tools, data, AI and cybersecurity through the Public Service Academy ([source, 2026-06-24](https://www.ecofinagency.com/news-digital/2506-56815-sierra-leone-trains-1-000-civil-servants-to-modernize-public-services)).
+- Sierraloaded reports the Ministry of Communication, Technology and Innovation, with MoPAPA, HRMO and the Public Service Academy, certified the first cohort of its Civil Service Digital Skills Training Programme after three weeks of digital literacy training, with the next cohort due 9 October 2026; no number trained is given ([source, 2026-09](https://sierraloaded.sl/news/mocti-first-cohort-civil-serv-dig-training/)).
 
 ### Somalia: 2 Nascent
 

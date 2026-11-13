@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No national programme teaching the public digital skills has been found; the one project found covers Principe island. No survey share of people with basic digital skills has been found.
+***Not found***. No programme teaching the public digital skills has been found in service with a count of people trained. The Principe project's adult training centres are among its plans. No survey share of people with basic digital skills has been found.

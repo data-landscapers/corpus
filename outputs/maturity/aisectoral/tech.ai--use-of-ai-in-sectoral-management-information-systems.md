@@ -20,9 +20,9 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Leading | 3 |
 | 4 Operating | 0 |
-| 3 Established | 37 |
+| 3 Established | 38 |
 | 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -55,12 +55,6 @@ Customs and tax have used AI since 2024, and customs targeting found 34 million 
 - Minister Faouzi Lekjaa said the Administration of Customs and Indirect Taxes uses data analysis and machine learning algorithms for predictive analysis in customs clearance and fraud detection, and is testing a smart system that adapts to evolving fraud patterns ([source, 2024-09-02](https://en.hespress.com/90558-moroccan-ministry-of-finance-eyes-ai-to-boost-efficiency.html)).
 - Morocco's customs administration (ADII) reports that in 2024 its BADR system, described as applied artificial intelligence, processed 1,540 fraud alerts and was enriched by 434 new rules and 199 updates, alongside predictive algorithms for targeting ([source, 2024](https://fr.hespress.com/438610-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie.html)).
 - The ADII 2024 activity report says algorithm-based targeting detected 34 MDH of evaded duties and taxes (24 MDH in 2023), of which 20 MDH was recovered and 14 MDH levied as fines ([source, 2024](https://fr.hespress.com/438610-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie.html)).
-
-### Zimbabwe: 5 Leading
-
-Measured results of AI in a public sector's system were reported in 2026.
-
-- The system had detected over four million violations by the end of September 2026, up from 2.3 million in mid-August, said police spokesperson Paul Nyathi ([source, 2026-09](https://www.zimbabwesituation.com/news/govt-pursues-traffic-violators-as-4m-offences-caught-on-camera/)).
 
 ### Algeria: 3 Established
 
@@ -305,6 +299,13 @@ Uganda's revenue authority has used AI against tax evasion since 2024, and AI re
 Zambia's revenue authority uses AI to detect trade fraud and set up an AI unit in 2024; no source shows AI in another sector.
 
 - ZRA Commissioner General Dingani Banda says AI helps ZRA detect importer and exporter fraud automatically, and an AI Unit is set up at ZRA headquarters ([source, 2024-06](https://www.mots.gov.zm/?p=3787)).
+
+### Zimbabwe: 3 Established
+
+Police used AI traffic cameras in 2026 and the health ministry AI TB screening; no single source found reports AI across two or more sectors.
+
+- Cameras at Harare intersections run by the AI-powered electronic traffic management system have detected violations, which are verified and then used to contact offenders for fines, said Zimbabwe Republic Police and the Home Affairs ministry ([source, 2026-09-27](https://www.zimbabwesituation.com/news/govt-pursues-traffic-violators-as-4m-offences-caught-on-camera/)).
+- Infervision, a vendor, says that since 2024 Zimbabwe's Ministry of Health and Child Care has used its InferRead AI chest X-ray reading with InferAir portable X-ray in a TB screening project in Gweru, with over 2,600 people screened daily ([source, 2024](https://global.infervision.com/blog/boosting-tb-dectection-in-rural-zimbabwe)).
 
 ### Burundi: 2 Nascent
 

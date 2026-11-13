@@ -9,10 +9,10 @@
       "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "SYC-002",
+      "stage_sources": "SYC-004;SYC-003;SYC-002",
       "gaps": "",
-      "note": "Reassessed 2026-11-03, 4 to 5: the Commission's 2026 FAQ says it removes the dead from the register on the monthly civil status list, a check against the civil register as for Benin. The FAQ is dated 2026 and was published by the as-at.",
-      "as_at": "2026-11-03"
+      "note": "Reassessed 2026-11-13 under ruling 114, each rung on its own row: the Online Voter Registration platform from July 2025 (SYC-004) answers question 2, checks online, by SMS or at centres (SYC-003, SYC-001) answer 3. The monthly removal of the dead on the civil status list (SYC-002) answers 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-001",
-      "gaps": "No source since October 2023 says the roll is drawn from or checked against the ID or civil register.",
-      "note": "Reassessed 2026-11-03: voters could check their registration by SMS and at centres from November 2023. Looking it up by ID card number is not a link to the register.",
-      "as_at": "2026-11-03"
+      "stage_sources": "TUN-004;TUN-001",
+      "gaps": "No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.",
+      "note": "Reassessed 2026-11-13 under ruling 114: registration on ISIE's website from May 2024 (TUN-004) answers question 2, and checks by SMS and service 195 from November 2023 (TUN-001) answer 3. Looking a voter up by ID card number is not a link to the ID register, so not stage 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

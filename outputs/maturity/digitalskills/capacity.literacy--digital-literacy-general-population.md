@@ -22,9 +22,9 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 4 |
-| 3 Established | 16 |
+| 3 Established | 17 |
 | 2 Nascent | 25 |
-| 1 Absent | 1 |
+| 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 5 |
 
@@ -97,6 +97,13 @@ The government's coding programme recorded over 12,000 course completions in 202
 
 - More than 12,000 course completions were recorded in the early weeks of Phase Two of the One Million Coders Programme, per Sukparu ([source, 2026-08-17](https://techafricanews.com/2026/08/20/ghana-opens-2026-national-ict-week-ai-digital-skills/)).
 - Minister Samuel Nartey George said the One Million Coders Programme had recorded 5,812 course completions and 11,683 cumulative attendances across 118 reporting centres between 1 June and 15 August 2026 ([source, 2026-08-15](https://www.myjoyonline.com/one-million-coders-programme-records-141954-registrations-27782-active-learners/)).
+
+### Guinea: 3 Established
+
+Guinea's universal service agency had trained more than 3,200 people across the country in digital skills by 2026; no survey share has been found.
+
+- ANSUTEN, under the Ministry of Posts, Telecommunications and Digital Economy, launched on 7 October 2025 the third edition of its R-CUN digital capacity programme for over 1,500 participants, with 30-day trainings across the country after two earlier editions of 450 ([source, 2025-10-07](https://mediaguinee.com/2025/10/3e-edition-r-cun-ansuten-insere-plus-de-1-500-beneficiaires-dont-60-de-femmes/)).
+- ANSUTEN's director general said the R-CUN digital capacity programme, run since 2022 through the Hub numerique, has trained more than 3,200 people, about 40 per cent women, and launched its fourth edition on 7 October 2026 aiming at over 2,000 beneficiaries ([source, 2026-10-07](https://horoya.net/2026/10/07/renforcement-des-capacites-a-lusage-du-numerique-lansuten-lance-la-quatrieme-edition-du-programme-r-cun/)).
 
 ### Kenya: 3 Established
 
@@ -267,13 +274,6 @@ The government contracted a three-year digital-skills programme in 2026; a count
 - MoTIE signed MoUs with three training institutions to deliver a three-year WARDIP digital skills programme for thousands of Gambians, particularly youth, women and persons with disabilities ([source, 2026-09-29](https://newglobalmedia.net/motie-signs-mous-to-boost-digital-labour-skills/)).
 - The Gambia's Ministry of Communications and Digital Economy and Smart Africa signed a framework agreement to implement the Smart Africa Digital Academy, which will provide digital training for youth and women among others, per TechAfrica News ([source, 2025-12-17](https://techafricanews.com/2025/12/17/the-gambia-partners-with-smart-africa-to-launch-digital-skills-academy/)).
 
-### Guinea: 2 Nascent
-
-Guinea's universal service agency had trained more than 3,200 people in digital skills by 2026; no source places the training in more than one location.
-
-- Guinea inaugurated the Simandou Academy at the Transform Africa Summit, a training institution that will serve as a hub for digital skills and capacity enhancement, per Biometric Update ([source, 2025-11](https://www.biometricupdate.com/202511/major-ai-dpi-initiatives-to-support-africa-single-digital-market-unveiled)).
-- ANSUTEN's director general said the R-CUN digital capacity programme, run since 2022 through the Hub numerique, has trained more than 3,200 people, about 40 per cent women, and launched its fourth edition on 7 October 2026 aiming at over 2,000 beneficiaries ([source, 2026-10-07](https://horoya.net/2026/10/07/renforcement-des-capacites-a-lusage-du-numerique-lansuten-lance-la-quatrieme-edition-du-programme-r-cun/)).
-
 ### Guinea-Bissau: 2 Nascent
 
 The cabinet approved a national digital-skills policy in 2026; a count of people trained has not been found.
@@ -316,6 +316,12 @@ The youth ministry agreed a national digital-skills programme for 40,000 young p
 - The Ministry of Youth and Sports signed an MoU with MyRide Technologies and SoulCode for a national digital-capacity programme to train about 40,000 young people (36,000 in digital literacy, 3,660 in advanced-technology bootcamps), piloting in five provinces ([source, 2026-06-17](https://mznews.co.mz/en/governo-lanca-programa-para-capacitar-40-mil-jovens-em-competencias-digitais/)).
 - The ITU-EU VaMoz Digital project, sponsored by Mozambique's Ministry of Communications and Digital Transformation, ran a Matola pilot training programme that trained 50 youth and 5 teachers, after a National Digital Skills Assessment ([source, 2026-08-08](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx)).
 
+### Sao Tome and Principe: 2 Nascent
+
+Principe's regional government and partners began preparing adult digital training centres in 2025; no programme in service with a count has been found.
+
+- SEGIB reports a triangular cooperation project (Portugal, Argentina, the Autonomous Government of Principe) has started for Principe island, with digital classrooms in schools and adult training centres as two of four identified projects; Principe only, not stated as delivered ([source, 2025-06-24](https://segib.org/pt/digitalizacao-que-cruza-oceanos-a-cooperacao-triangular-que-impulsiona-a-digitalizacao-em-uma-pequena-ilha-africana/)).
+
 ### Seychelles: 2 Nascent
 
 Seychelles' digital strategy, approved by October 2026, plans digital literacy programmes from 2027; no programme in service is known.
@@ -342,12 +348,6 @@ The regulator had set up 800 digital clubs by 2026; a count of people trained ha
 
 - TCRA's Director General says the government, through TCRA, has established 800 digital clubs across the country, promoted from nursery school to university to build digital literacy and practical ICT skills ([source, 2026-08-04](https://dailynews.co.tz/tcra-ups-support-for-mathematics-digital-clubs/)).
 - Minister Angellah Kairuki said the government, through TCRA, has established 800 Digital Clubs aimed at developing ICT skills among citizens ([source, 2026-09-04](https://dailynews.co.tz/tanzania-tells-wtpf-session-how-its-citizens-enjoy-access-to-inclusive-secure-communication-services/)).
-
-### Sao Tome and Principe: 1 Absent
-
-The regulator found in 2025 that the digital policy has no digital-literacy action, and recommended a national programme.
-
-- AGER observes an absence of specific actions on digital literacy in São Tomé and Príncipe's digital policy, and lists a national digital literacy programme only as a 1-5 year recommendation ([source, 2025-11](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2025/11/Dia-3-Sao-Tome-e-Principe-AGER.pdf)).
 
 ### Central African Republic: Unplaced
 

@@ -9,10 +9,10 @@
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-001",
+      "stage_sources": "SWZ-001;SWZ-002",
       "gaps": "No source found since October 2023 says other registers or services take people's records from the population register.",
-      "note": "Stage 4: Home Affairs registered births and deaths in 2025 and says this improved the National Population Register, so vital events are entered in it. Stage 5 needs other systems taking records from it, and none is held.",
-      "as_at": "2026-11-12"
+      "note": "Reassessed 2026-11-13 under ruling 114, with SWZ-001's source split: the National Population Register in service (SWZ-001) answers question 2, and births and deaths from the 2025 mopping exercise entered in it (SWZ-002) answer 3. No source shows another system drawing on it, so not stage 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

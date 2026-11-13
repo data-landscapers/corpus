@@ -23,9 +23,9 @@ The African Union's Digital Transformation Strategy asks for an electronic busin
 | 5 Leading | 0 |
 | 4 Operating | 4 |
 | 3 Established | 30 |
-| 2 Nascent | 16 |
+| 2 Nascent | 17 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
+| Unplaced | 1 |
 | No evidence | 2 |
 
 ## Countries
@@ -319,6 +319,12 @@ A digital business register was under way in 2025; online registration is not on
 - CAFI Managing Director Chaba Mokuku said a Business Facilitation Single Window at the One Stop Business Facilitation Centre (OBFC), designed to simplify business registration and licensing, has been deployed and is to be launched by the end of 2025 or early 2026 ([source, 2025-11-20](https://lestimes.com/?p=89016)).
 - Revenue Services Lesotho says businesses can contact the One Stop Business Facilitation Centre at the Ministry of Trade, Industry and Small Business for help registering with RSL, and that companies register first with the relevant ministries and then obtain a TIN from RSL ([source, 2025-06](https://www.rsl.org.ls/sites/default/files/2025-06/Guide%20on%20Tax%20Registration.pdf)).
 
+### Liberia: 2 Nascent
+
+Liberia launched a business registration digitalisation pilot in seven counties in 2026; no online registration in service has been found.
+
+- DN News Liberia reports the Ministry of Commerce launched a business registration digitalization and decentralization project, piloted in seven counties starting in Ganta, with full electronic submission to follow ([source, 2026-08-14](https://dnnewsliberia.com/liberia-business-registry-launches-digitalization-and-decentralization-project-in-nimba/)).
+
 ### Libya: 2 Nascent
 
 A digital business register was under way in 2025; online registration is not on record.
@@ -355,12 +361,6 @@ A new business register was being built in 2026; beneficial owners were recorded
 Nothing found since 2023 names a digital business register, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether firms can register online.
-
-### Liberia: Unplaced
-
-Online registration was among a trade project's planned reforms in 2026; nothing found shows a register under way, so no stage is set.
-
-Not established: An August 2026 launch decentralises registration to county offices, with digital filing to follow; nothing found says a digital register is procured, records are being digitised, a one-stop counter has opened or registration is on paper.
 
 ### Eritrea: No evidence
 

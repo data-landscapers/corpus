@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "2",
-      "training": "underway",
+      "stage": "3",
+      "training": "inservice",
       "measured": "",
       "half": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GIN-001;GIN-005",
-      "gaps": "R-CUN's trainees, more than 3,200 since 2022 by ANSUTEN's count of October 2026 (GIN-005), are not placed in more than one location; the training runs through ANSUTEN's Hub numérique. No source found since October 2023 gives a measured share of people with basic digital skills.",
-      "note": "ANSUTEN's R-CUN programme had trained more than 3,200 people by October 2026 and launched a fourth edition. No source places the counted training in more than one location, so not stage 3.",
-      "as_at": "2026-11-02"
+      "stage_sources": "GIN-004;GIN-005",
+      "gaps": "No source found since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "Reassessed 2026-11-13 under ruling 61: ANSUTEN's R-CUN programme, 450 trained in two editions, ran its third edition's 30-day trainings across the country from October 2025 (GIN-004), a counted programme in more than one location. No survey share of people with digital skills is held, so not stage 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

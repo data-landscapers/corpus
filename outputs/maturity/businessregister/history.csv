@@ -67,3 +67,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-07,SLE,dpi.registry--business-register,fact,2,2,SLE-004;SLE-001;SLE-002,"NIB's online business registration system demonstrated to the minister in November 2026, not stated open to applicants; stays at 2"
 2026-11-08,UGA,dpi.registry--business-register,fact,3,3,UGA-002;UGA-006,"URA's September 2026 answer: the tax law makes the registration number a firm's tax identifier, with the move from the TIN under way; not yet complete, so stage 3 stands."
 2026-11-13,SLE,dpi.registry--business-register,fact,2,3,SLE-005;SLE-006,"President Bio launched the NIB's Online Business Registration System on 10 November 2026: online registration in service, 2 to 3"
+2026-11-13,LBR,dpi.registry--business-register,fact,unplaced,2,LBR-002,"Housekeeping 73: the Ministry of Commerce launched a registration digitalisation project piloted in seven counties in August 2026 (LBR-002), which answers question 1. Unplaced to 2."

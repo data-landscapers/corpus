@@ -10,4 +10,4 @@
 
 ***Also on file***. [Enterprise Architecture and Digital Service Standards training](<https://mocti.gov.sl/mocti-trains-over-100-ict-professionals-to-strengthen-digital-skills-to-design-develop-and-maintain-robust-enterprise-architecture/>).
 
-***Not found***. No source found since October 2023 gives the share of the civil service trained in digital skills.
+***Not found***. No source found gives the number of civil servants the programme has trained. No source found since October 2023 gives the share of the civil service trained in digital skills.

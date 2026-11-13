@@ -4,15 +4,15 @@
     {
       "sub_indicator": "electoral",
       "stage": "4",
-      "roll": "underway",
+      "roll": "inservice",
       "checked": "open",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBY-001;LBY-002;LBY-004;LBY-005",
-      "gaps": "The 2025 regulation's check against the civil registry is not shown carried out.",
-      "note": "Reassessed 2026-11-05: HNEC published the municipal voter lists in April 2025 and let voters check their registration by SMS from February 2025, which answers the digital-roll rung too. Decision 253's check against the civil registry is a regulation and is not shown carried out, so not stage 5.",
-      "as_at": "2026-11-05"
+      "stage_sources": "LBY-006;LBY-005;LBY-004",
+      "gaps": "Decision 253 of December 2025 sets a check of the roll against the Civil Registry Authority database; no source shows the check carried out.",
+      "note": "Reassessed 2026-11-13 under ruling 114: registration by SMS with the national number from February 2025 (LBY-006) answers question 2, and the SMS check and the April 2025 lists (LBY-005, LBY-004) answer 3. Decision 253's civil-registry check (LBY-003) is a regulation not shown carried out, so not stage 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }
