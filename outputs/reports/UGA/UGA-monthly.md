@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: UGA
-ledger_rows: 41
+ledger_rows: 45
 not_held: 12
-record: 57bc6f919fa3
+record: 1622cf53a25b
 ---
 
 # News, Oct – Nov 2026
@@ -250,6 +250,28 @@ Uganda's parliamentary Committee on Foreign Affairs said only Uganda and Rwanda 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/uganda/)** — International Telecommunication Union (statement by Uganda), 11 November 2026
+
+96% coverage claimed; 100,000+ youth trained, 10,000+ free smartphones; UG-CERT; ITU Council 2027-2030 bid.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UGANDA HIGHLIGHTS DIGITAL TRANSFORMATION AGENDA AT ITU CONFERENCE](https://www.ucc.co.ug/uganda-highlights-digital-transformation-agenda-at-itu-conference/)** — Uganda Communications Commission, 11 November 2026
+
+UCC account of the minister's Doha statement, delivered 11 Nov 2026; delegation lobbying for an ITU Council seat.
+
+</div>
+
+</div>
+
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
@@ -365,6 +387,20 @@ Uganda's talks with Samanga Utilities now centre on a 1,775 km fibre line run by
 **[MTN Uganda Limited: Unaudited financial results for the nine months ended 30 September 2026](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/11/MTN-Uganda-Limited-Earnings-Release-Q3-2026.pdf)** — MTN Uganda Limited, 4 November 2026
 
 MTN Uganda reports profit after tax of Ush571.2 billion for the nine months to 30 September 2026, up 21.2%. Mobile money transaction value was Ush166.6 trillion, up 18.3%. It had 26.4 million subscribers. Third-quarter data revenue growth slowed to 7.8%, from 17.5% in the second quarter, which MTN attributes to unauthorised public Wi-Fi resellers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Workonline point of presence at Raxio UG1, Kampala</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Our network extends into Uganda at Raxio’s Kampala data centre | Workonline](https://www.workonline.africa/2026/workonline-extends-into-uganda/)** — Workonline Communications, 12 November 2026
+
+Workonline Communications opened its first Ugandan point of presence at Raxio's UG1 data centre in Kampala, the company announced on 12 November 2026. Workonline sells 100GE IP transit under a new Ugandan licence, over two separate routes to Nairobi. UG1 hosts 25 carriers and ISPs and the Uganda Internet Exchange Point, where Workonline plans to peer.
 
 </div>
 
@@ -644,6 +680,20 @@ Uganda's National Bureau for NGOs plans to move registration, document submissio
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government Digital Registry</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[What Dr Aminah Zawedde leaves behind at the ICT ministry](https://pmldaily.com/news/world/2026/11/what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry.html)** — PML Daily, 10 November 2026
+
+PS redeployed 9 Nov 2026; registry counts 743 government systems; ICT budget UGX 104bn to 490bn.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -779,6 +829,28 @@ At a dialogue on Uganda's digital skills held by the Uganda Communications Commi
 **[Uganda’s digital skills gap threatens jobs despite expanding connectivity – UCC](https://pmldaily.com/news/2026/10/ugandas-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc.html)** — PML Daily, 22 October 2026
 
 Summarised under [Digital divides](#digital-divides).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Free smartphone proof of concept</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Uganda - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/uganda/)** — International Telecommunication Union (statement by Uganda), 11 November 2026
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[UGANDA HIGHLIGHTS DIGITAL TRANSFORMATION AGENDA AT ITU CONFERENCE](https://www.ucc.co.ug/uganda-highlights-digital-transformation-agenda-at-itu-conference/)** — Uganda Communications Commission, 11 November 2026
+
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
