@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: SWZ
-ledger_rows: 32
+ledger_rows: 33
 not_held: 3
-record: c8c398ca6e7a
+record: db2a18294682
 ---
 
 # News, Oct – Nov 2026
@@ -32,6 +32,8 @@ record: c8c398ca6e7a
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -63,6 +65,22 @@ Eswatini's Senate adopted the ICT portfolio committee's report on the Critical I
 **[Finance Minister warns of cryptocurrency dangers](https://eswatinipositivenews.online/finance-minister-warns-of-cryptocurrency-dangers/)** — Eswatini Positive News, 27 October 2026
 
 Eswatini's Senate considered a committee report on the National Payment System Regulations, 2026 on 27 October 2026. The regulations put the 2023 Act into effect. They cover licensing of payment providers, e-money, central bank oversight and consumer protection; the finance minister urged caution on cryptocurrencies.
+
+</div>
+
+</div>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registration of data controllers and processors (EDPA Notice 1/2024)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[2026 ESCCOM Annual Report](https://esccom.org.sz/wp-content/uploads/2026/10/ESCCOM-Annual-Report-2026_Final_30.10.2026-Compressed.pdf)** — Eswatini Communications Commission, 1 October 2026
+
+FY 2025/26 regulator report; 511 data controllers registered by March 2026, sunset and speed rules put to consultation.
 
 </div>
 
