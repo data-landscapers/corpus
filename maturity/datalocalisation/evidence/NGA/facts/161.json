@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-18-nga-fg-reaffirms-galaxy-backbone-as-official-ict-provider",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Galaxy Backbone",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Government",
+   "tiers": ""
+  }
+ ],
+ "note": "OSGF endorses Galaxy Backbone as designated ICT and data centre host for MDAs and only encourages those hosting abroad to migrate; no stated requirement that data stay in the country."
+}

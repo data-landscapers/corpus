@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-01-sen-l-etat-du-senegal-entre-transformation-numerique-et-renforcement-de-la",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "ENDA Sante says Senegal's health ministry is carrying a draft digital health framework law and implementing decree that cover hosting of data on the national territory.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "projet de loi d'orientation sur la sante numerique",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
