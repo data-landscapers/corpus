@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-zwe-transforming-public-services-through-one-digital-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Herald opinion piece says the government is modernising cadastral information and land records through the Electronic Cadastre (e-Cadastre), the Digital Land Administration Platform (DLAP) and digitisation of title deeds.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "e-Cadastre; Digital Land Administration Platform (DLAP)",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": "Described as ongoing digitisation; no service in use stated."
+}
