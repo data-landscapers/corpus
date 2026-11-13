@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-08-uga-ura-starts-using-nin-to-profile-taxpayers",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "NIRA's Rosemary Kisembo says NIRA will help URA verify that the person registered for tax is the right person against its records, with its database kept separate and data released only on biometric authentication and consent.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "URA taxpayer registration",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-20-lbr-flawed-expensive-and-slow-house-turns-heat-on-national-id-chief",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The article says President Boakai's Executive Order No. 147 of April 2025 makes the national ID mandatory for banking, SIM registration, public employment and voting.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Executive Order No. 147",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": "A mandate is stated; no service is said to verify people against the ID."
+}

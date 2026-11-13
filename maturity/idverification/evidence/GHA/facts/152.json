@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-gha-national-identification-authority-homepage",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The NIA homepage says institutions must verify identity biometrically against the National Identity Register under L.I. 2523, onboarding by service agreement with NIA, and that the NIA taskforce has begun full compliance monitoring.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "NIA biometric verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

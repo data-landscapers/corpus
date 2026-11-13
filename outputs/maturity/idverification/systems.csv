@@ -37,6 +37,8 @@ BEN,service-public.bj,Benin,relying,,Ministry of Justice and Legislation,,2026-1
 BEN,Xroad-BJ,Benin,other,,ASIN,,2026-07-28-lanation-interoperabilite-regles-acces-xroad-bj
 BEN,UXP,Benin,other,Cybernetica UXP,Government of Benin,,2026-07-11 UXP Directory
 BEN,Carte Nationale d'Identité Biométrique (CNIB),Benin,other,,ANIP,,2025-03-01-ben-anip-carte-identite-biometrique-prestations
+BEN,XROAD BJ (National Interoperability Platform),Benin,other,X-Road,ASIN,,2026-09-17-ben-benin-s-national-interoperability-platform-achieves-205m-secure-reques
+BEN,XROAD BJ (UXP),Benin,other,X-Road via UXP,ASIN,,2026-08-12-ben-how-did-you-manage-to-connect-an-entire-state
 BFA,SIM and cybercafe subscriber identification,Burkina Faso,relying,operators' subscriber identification databases,electronic communications providers; regulator ARCEP,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office National d'Identification database,Burkina Faso,other,,Office National d'Identification,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,identité digitale pour tous,Burkina Faso,other,,Ministry of Digital Transition,,2026-10-09-bfa-lefaso-zama-tche-maisons-du-citoyen-transition-digitale-bilan
@@ -657,6 +659,7 @@ SOM,National identification system,Somalia,other,,National Identification and Re
 SOM,Halmeel unified digital government services platform,Halmeel,other,,Unified Public Service Delivery Center (Halmeel),,2026-10-19-som-biometricupdate-halmeel-unified-platform-national-id
 SOM,Hubiye System,Hubiye,relying,,NIRA,,2024-10-17-som-nira-and-central-bank-of-somalia-sign-mou-to-strengthen-financial-serv
 SOM,National Identification System,Somalia,other,,NIRA,,2024-09-07-som-nira-and-nca-host-consultative-meeting-with-telecom-companies-to-integ
+SOM,Hubiye eKYC platform,Hubiye eKYC platform,relying,,NIRA,,2026-04-02-som-promoting-innovation-and-digital-transformation-in-somalia
 SSD,"Integrated civil registry system (births, deaths, marriages)",South Sudan,other,,"Directorate of Civil Registry, Nationality, Passport and Immigration",,2026-08-11-immigration-chief-digital-reform-integrated-registry-mou
 SSD,School-based national ID registration,South Sudan,other,,"Directorate of Civil Registry, Nationality, Passport and Immigration with Central Equatoria State Ministry of General Education",,2026-08-04-school-based-national-id-registration-launched
 SSD,Digital civil registration linked to national ID,South Sudan,other,,"Directorate of Civil Registry, Nationality, Passport and Immigration",,2026-07-31-interoperable-birth-registration-digital-id-plans
