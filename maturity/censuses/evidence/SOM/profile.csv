@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SOM,census,census,coverage,taken,1987,SOM-004,SOM-002=preparing;SOM-003=preparing,
 SOM,census,results,coverage,,,,,nothing found
-SOM,census,survey,coverage,published,2025,SOM-001;SOM-005,,
+SOM,census,survey,coverage,published,2026-04-02,SOM-001;SOM-005;SOM-006,,
