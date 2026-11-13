@@ -1,5 +1,1 @@
-{"slug": "2026-09-22-tcd-l-annuaire-des-statistiques-sanitaires-du-tchad-2025-en-validation", "studies": {
-"admindata": {"countries": {"TCD": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "On 22 September 2026 the health ministry opened validation of the 2025 health statistics yearbook, built on the national DHIS2 base; it is not yet published.", "as_of": "2026-09-22", "date_precision": "day", "system": "Annuaire des statistiques sanitaires 2025", "class": "admin"}], "systems": [], "note": ""}}},
-"health": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Names DHIS2 but states no tiers, digitisation level or clinic coverage."}}},
-"healthmis": {"countries": {"TCD": {"facts": [{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "The health ministry's 2025 health statistics yearbook, in validation on 22 September 2026, rests on the national DHIS2 platform base.", "as_of": "2026-09-22", "date_precision": "day", "system": "national DHIS2", "class": "hmis"}], "systems": [], "note": ""}}}
-}}
+{"slug": "2026-09-22-tcd-l-annuaire-des-statistiques-sanitaires-du-tchad-2025-en-validation", "studies": {"censuses": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Article is about a health statistics yearbook; no census or national household survey stated."}}}}}

@@ -1,0 +1,11 @@
+{"slug": "2025-10-01-gin-constitution-du-registre-national-de-letat-civil-rnec-presentation-des", "studies": {
+"addressregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document does not mention addressing."}}},
+"birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No link between civil register and ID system is stated."}}},
+"businessregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document does not mention business registration."}}},
+"civilregister": {"countries": {"GIN": {"facts": [{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "PN-RAVEC held a workshop on 8-10 October 2025 presenting the first-phase functionality of the electronic national civil register (RNEC), built with Digitech, to civil-status officers of Conakry's 13 communes.", "as_of": "2025-10", "date_precision": "month", "system": "Registre National de l'Etat Civil (RNEC)", "class": "civil"}], "systems": [{"system": "Registre National de l'Etat Civil (RNEC)", "country_label": "Guinea", "class": "civil", "platform": "Digitech", "owner": "PN-RAVEC", "tiers": ""}], "note": ""}}},
+"electoralregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document does not mention a voters' roll."}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No unique ID number at birth is stated."}}},
+"landregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document does not mention land records."}}},
+"localgov": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No local government office connection is stated."}}},
+"populationregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The register described is a civil-status register; no population register serving all persons is stated."}}}
+}}

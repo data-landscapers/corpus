@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-tcd-donnees-publiques-dgddi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DGDDI Données publiques page",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "website",
+   "owner": "DGDDI (customs)",
+   "tiers": ""
+  }
+ ],
+ "note": "A customs statistics page with no open data policy behind it; not a national portal."
+}

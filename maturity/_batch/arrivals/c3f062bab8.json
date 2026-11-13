@@ -1,0 +1,52 @@
+{"slug": "2024-08-09-lso-linking-civil-registration-to-vital-statistics-and-legal-identity-syst", "studies": {
+"admindata": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is only the venue; nothing stated."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on administrative statistics."},
+"LSO": {"facts": [], "systems": [], "note": "Nothing on administrative statistics."},
+"TGO": {"facts": [], "systems": [], "note": "Nothing on administrative statistics."}}},
+"authentication": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"LSO": {"facts": [], "systems": [], "note": "Nothing on authentication."},
+"TGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"birthidlink": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on a link to the ID system."},
+"LSO": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "The director of Lesotho's National Identity and Civil Registry said that in 2013 Lesotho launched an integrated registration system giving each person in the register a unique number, so one body holds both functions.", "as_of": "2013", "date_precision": "year", "system": "National Identity and Civil Registry integrated registration system", "class": "crvslink"}], "systems": [{"system": "National Identity and Civil Registry integrated registration system", "country_label": "integrated registration system", "class": "crvslink", "platform": "", "owner": "National Identity and Civil Registry", "tiers": ""}], "note": ""},
+"TGO": {"facts": [], "systems": [], "note": "Nothing on a link to the ID system."}}},
+"civilregister": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"GHA": {"facts": [], "systems": [], "note": "Only a mobile registration exercise and publicity are stated, no digital register."},
+"LSO": {"facts": [], "systems": [], "note": "The 2023 digital platform is for enrolling marginalized communities; the document does not say it registers births or deaths."},
+"TGO": {"facts": [], "systems": [], "note": "Only an awareness day is stated."}}},
+"idcoverage": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"LSO": {"facts": [], "systems": [], "note": "No enrolment count or share stated."},
+"TGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idfrombirth": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"LSO": {"facts": [], "systems": [], "note": "A unique number is stated, not that it is given at birth registration."},
+"TGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"LSO": {"facts": [], "systems": [], "note": "Who operates or maintains the system is not stated."},
+"TGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idregisters": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"LSO": {"facts": [], "systems": [], "note": "No other register keyed on the number is named."},
+"TGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idrobustness": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"LSO": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The director of Lesotho's National Identity and Civil Registry said that in 2013 Lesotho launched an integrated registration system that uniquely identifies each person in the register with a unique number.", "as_of": "2013", "date_precision": "year", "system": "National Identity and Civil Registry integrated registration system", "class": "idsystem"}], "systems": [], "note": ""},
+"TGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"populationregister": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"LSO": {"facts": [], "systems": [], "note": "The register is not called a population register by the document."},
+"TGO": {"facts": [], "systems": [], "note": "Nothing stated."}}}
+}}

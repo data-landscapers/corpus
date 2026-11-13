@@ -1,12 +1,41 @@
 {
  "slug": "2026-11-12-zaf-etenders-transparency-portal-publication-policy",
  "studies": {
-  "dataprotectionlaw": {
+  "opendatapolicy": {
    "countries": {
     "ZAF": {
      "facts": [],
      "systems": [],
-     "note": "A portal publication policy that mentions POPIA compliance only; it states nothing on the law's standing, authority, regulations or application."
+     "note": "A publication policy for one body's procurement data; National Treasury only says it has committed to open contracting data, not a government open data policy."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "licensed",
+       "fact": "National Treasury's OCPO unit publishes procurement data on data.etenders.gov.za in bulk JSON, CSV and XLSX and an API, and states a licence allowing use for any purpose, commercial or not, with a source link for republication.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "data.etenders.gov.za (eTender transparency portal)",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "data.etenders.gov.za",
+       "country_label": "South Africa",
+       "class": "open",
+       "platform": "OCDS",
+       "owner": "National Treasury OCPO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
     }
    }
   }

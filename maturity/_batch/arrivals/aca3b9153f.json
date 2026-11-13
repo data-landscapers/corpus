@@ -1,0 +1,31 @@
+{"slug": "2026-04-02-som-promoting-innovation-and-digital-transformation-in-somalia", "studies": {
+"admindata": {"countries": {"SOM": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "UNDP Somalia says the Somali National Bureau of Statistics has delivered administrative data reports, with surveys and censuses, across key development sectors; the source records are not named.", "as_of": "2026-04-02", "date_precision": "day", "system": "SNBS administrative data reports", "class": "admin"}], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"SOM": {"facts": [], "systems": [], "note": "AI appears only as a strategy plan and a student app."}}},
+"authentication": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "UNDP says the Hubiye eKYC platform, formalized by Somalia's first eKYC legislation in December 2024, gives real-time identity verification to 1.2 million citizens.", "as_of": "2026-04-02", "date_precision": "day", "system": "Hubiye eKYC platform", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "UNDP says Hubiye eKYC serves 25 integrated services, including the entire commercial banking sector.", "as_of": "2026-04-02", "date_precision": "day", "system": "Hubiye eKYC platform", "class": "authentication"}],
+"systems": [{"system": "Hubiye eKYC platform", "country_label": "Hubiye eKYC platform", "class": "authentication", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on a civil register link."}}},
+"businesspayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"censuses": {"countries": {"SOM": {"facts": [{"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "UNDP Somalia quotes the SNBS Director General listing the Household Budget Survey and the Socioeconomic and Demographic Survey among key outputs the bureau delivered.", "as_of": "2026-04-02", "date_precision": "day", "system": "SNBS household surveys", "class": "survey"}], "systems": [], "note": ""}}},
+"centralbank": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"civilserviceskills": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The economists trained learned modelling, not digital skills."}}},
+"consumerprotection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitaldivides": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on rural internet access."}}},
+"digitalskills": {"countries": {"SOM": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "UNDP says it trained 80 young Somalis in cybersecurity, data analysis, digital marketing and online business in partnership with the Ministry of Communication and Technology.", "as_of": "2026-04-02", "date_precision": "day", "system": "Youth Digital Skills Training", "class": "publicskills"}], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Only a sector mini-grid strategy is named, no national digital strategy."}}},
+"g2ppayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"idcoverage": {"countries": {"SOM": {"facts": [], "systems": [], "note": "1.2 million eKYC users is not an enrolment count or share of the population."}}},
+"idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Who operates and maintains the system is not stated."}}},
+"idregisters": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"SOM": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "UNDP says Somalia has established an operational national identity system, the National Identification and Registration Authority (NIRA).", "as_of": "2026-04-02", "date_precision": "day", "system": "NIRA national ID system", "class": "idsystem"}], "systems": [{"system": "NIRA national ID system", "country_label": "NIRA", "class": "idsystem", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "UNDP says Hubiye eKYC verifies identity in real time across 25 integrated services including the entire commercial banking sector.", "as_of": "2026-04-02", "date_precision": "day", "system": "Hubiye eKYC platform", "class": "relying"},
+{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "UNDP reports Hubiye eKYC serves 1.2 million citizens across 25 integrated services.", "as_of": "2026-04-02", "date_precision": "day", "system": "Hubiye eKYC platform", "class": "relying"}],
+"systems": [{"system": "Hubiye eKYC platform", "country_label": "Hubiye eKYC platform", "class": "relying", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"nonstatefinance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No private amount stated."}}},
+"paymentsuptake": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No account-holding survey share stated."}}},
+"refugees": {"countries": {"SOM": {"facts": [{"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "UNDP says NIRA's mobile registration reached 38,026 displaced persons at less than USD 1 per registration.", "as_of": "2026-04-02", "date_precision": "day", "system": "NIRA mobile registration", "class": "displaced"}], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,14 @@
+{"slug": "2024-06-04-dza-elkhabar-national-forum-draft-digitalisation-law", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Draft law's axes name regulating emerging technology such as AI, but no harm or published draft is stated."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on AI in use in administration."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in the country."}}},
+"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on business payments."}}},
+"centralbank": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Draft law's axis covers e-commerce consumer protection, not rules for digital financial services."}}},
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"DZA": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "At a two-day national forum, the chair of the ministerial drafting committee of the High Commission for Digitalisation said the draft digitalisation law, in nine axes, includes data protection and rules on collecting and processing personal information.", "as_of": "2024-06-04", "date_precision": "day", "system": "draft digitalisation law", "class": "general"}], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The national digital transformation strategy is named only as the law's pillar; no standing, text or plan is stated."}}},
+"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on government-to-person payments."}}},
+"paymentsuptake": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on payments uptake; financial inclusion is only named as a draft-law axis."}}}
+}}

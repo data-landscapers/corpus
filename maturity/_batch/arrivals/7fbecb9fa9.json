@@ -1,14 +1,1 @@
-{
- "slug": "2026-11-11-inforpress-fogo-telecoms-internet-outage",
- "studies": {
-  "internationalbandwidth": {
-   "countries": {
-    "CPV": {
-     "facts": [],
-     "systems": [],
-     "note": "The cables named link Cabo Verde's islands to each other, not the country to the rest of the world, and no international route is stated."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-11-11-inforpress-fogo-telecoms-internet-outage", "studies": {"exchangepoints": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on exchange points."}}}, "fibrebackbone": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Inter-island submarine cables are named in an outage account, but none is stated to link the capital to another region in service."}}}, "internetusage": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No share of people using the internet stated."}}}}}

@@ -1,14 +1,23 @@
-{"slug":"2026-11-10-bog-governor-asiama-banking-ethics-conference-speech","studies":{
-"aiabuse":{"countries":{"GHA":{"facts":[],"systems":[],"note":"The speech says AI in credit assessment needs safeguards against bias; no rule, authority or enforcement stated."}}},
-"aigovernment":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on AI in government administration."}}},
-"aisectoral":{"countries":{"GHA":{"facts":[],"systems":[],"note":"AI in banking is discussed as opportunity and risk, no public system in service stated."}}},
-"aisystems":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on AI built or hosted in Ghana."}}},
-"businesspayments":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
-"centralbank":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Speech covers governance, cyber and virtual assets; no payments mandate, provider licensing, switch or PAPSS statement."}}},
-"consumerprotection":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Consumer protection named as a priority only; no rule, complaints body or enforcement for digital finance stated."}}},
-"crossborderpayments":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
-"g2ppayments":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
-"paymentsuptake":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No survey figure for account ownership stated."}}},
-"retailpayments":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Mobile money mentioned only in passing, no service status stated."}}},
-"revenuecollection":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
-}}
+{
+ "slug": "2026-11-10-bog-governor-asiama-banking-ethics-conference-speech",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a banking-sector threat-intelligence centre (FICSOC) is named; sector only."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No cybersecurity law is stated."
+    }
+   }
+  }
+ }
+}

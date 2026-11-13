@@ -1,3 +1,14 @@
-{"slug": "2026-11-11-sen-cartes-consulaires-systeme-securise", "studies": {
-"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Consular card system; nothing on AI harms."}}}
-}}
+{
+ "slug": "2026-11-11-sen-cartes-consulaires-systeme-securise",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Agreement to create a consular card system; no online service stated."
+    }
+   }
+  }
+ }
+}

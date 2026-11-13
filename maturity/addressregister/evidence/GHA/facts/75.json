@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-28-gha-lands-commission-s-digital-reform-gamechanger-for-land-administration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Enterprise Land Information System (ELIS)",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Lands Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "Land information system is a land cadastre, not an address register; nothing on addressing."
+}

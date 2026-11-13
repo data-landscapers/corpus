@@ -1,6 +1,14 @@
-{"slug": "2026-11-09-sle-eu-wfp-school-feeding-data", "studies": {
-"coresystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on finance, tax or payroll systems."}}},
-"educationmis": {"countries": {"SLE": {"facts": [], "systems": [{"system": "Open Data Kit and School Connect (school feeding monitoring)", "country_label": "Sierra Leone", "class": "other", "platform": "", "owner": "WFP / MBSSE / National School Feeding Secretariat", "tiers": ""}], "note": "ODK and School Connect are to be introduced for one programme's data; no national EMIS or school census is stated."}}},
-"health": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on health data systems."}}},
-"healthmis": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on health data systems."}}}
-}}
+{
+ "slug": "2026-11-09-sle-eu-wfp-school-feeding-data",
+ "studies": {
+  "police": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "School feeding data systems; nothing on police."
+    }
+   }
+  }
+ }
+}

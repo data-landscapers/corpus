@@ -1,1 +1,34 @@
-{"slug": "2026-11-10-cpv-ucid-digitalizacao-risco-micro-pequenas-medias-empresas", "studies": {"civilserviceskills": {"countries": {"CPV": {"facts": [], "systems": [], "note": "An opposition party's statement; no civil-service digital-skills training stated."}}}, "digitalskills": {"countries": {"CPV": {"facts": [], "systems": [], "note": "An opposition party's statement; no public digital-skills programme or measured share stated."}}}, "fibrebackbone": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No fibre backbone stated."}}}}}
+{
+ "slug": "2026-11-10-cpv-ucid-digitalizacao-risco-micro-pequenas-medias-empresas",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "debate",
+       "value": "criticised",
+       "fact": "The opposition party UCID, through deputy Zilda Oliveira at a press conference in Mindelo, questioned the government's digital transition and the move of micro and small firms from the REMPE regime to organised accounting, fearing a higher tax burden.",
+       "as_of": "2026-11-10",
+       "date_precision": "day",
+       "system": "REMPE transition to organised accounting",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "An opposition press conference; no consultation by the government on a digital law or policy."
+    }
+   }
+  }
+ }
+}

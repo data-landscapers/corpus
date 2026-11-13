@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-17-ben-benin-s-national-interoperability-platform-achieves-205m-secure-reques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "XROAD BJ (National Interoperability Platform)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "X-Road",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes an exchange platform only; no interoperability framework named."
+}

@@ -1,14 +1,8 @@
 {"slug": "2026-11-11-sle-business-registration-75pct-unregistered", "studies": {
-"authentication": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
-"birthidlink": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Only an NCRA link to business registration is mentioned, not civil register to ID exchange."}}},
-"businessregister": {"countries": {"SLE": {"facts": [{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "President Bio launched the Online Business Registration System on 10 November 2026, operated by the National Investment Board, letting entrepreneurs apply, upload documents, track status and obtain registration certificates online.", "as_of": "2026-11-10", "date_precision": "day", "system": "Online Business Registration System (OBRS)", "class": "business"}], "systems": [{"system": "Online Business Registration System (OBRS)", "country_label": "Sierra Leone", "class": "business", "platform": "", "owner": "National Investment Board", "tiers": ""}], "note": ""}}},
-"civilregister": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on civil registration of births or deaths."}}},
-"digitaldivides": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No rural connectivity programme or rural-urban internet use figures; only a rural access instruction for the registration platform."}}},
-"idcoverage": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
-"idfrombirth": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
-"idmaintenance": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
-"idregisters": {"countries": {"SLE": {"facts": [], "systems": [], "note": "NIB worked with NCRA to integrate national identification information into registration, but the document does not say the register is keyed on the ID number."}}},
-"idrobustness": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on issuance, biometrics or audit of the ID system."}}},
-"localgov": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
-"registry": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
+"addressregister": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on addressing."}}},
+"coresystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No finance, revenue or payroll core system is stated."}}},
+"egovservices": {"countries": {"SLE": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Sierra Leone's President launched the National Investment Board's Online Business Registration System on 10 November 2026, which the document says brings 66 NIB services online (seven registration, 53 post-registration, five document and an appeals service) for applying, uploading documents, tracking and obtaining certificates.", "as_of": "2026-11-10", "date_precision": "day", "system": "Online Business Registration System (OBRS)", "class": "eservices"}], "systems": [{"system": "Online Business Registration System (OBRS)", "country_label": "Online Business Registration System", "class": "eservices", "platform": "", "owner": "National Investment Board", "tiers": ""}], "note": ""}}},
+"electoralregister": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on a voters' roll."}}},
+"landregister": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on land records."}}},
+"localrecords": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on local government revenue records."}}}
 }}

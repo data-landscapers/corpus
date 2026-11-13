@@ -1,0 +1,25 @@
+{
+ "slug": "2026-06-04-tun-parlement-la-concertation-au-cur-du-debat-sur-la-loi-des-associations",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "tabled",
+       "fact": "The parliament's Committee on Rights and Freedoms continued on 3 June 2026 its examination of a private member's bill on personal data protection, seeking written opinions from ministries and bodies.",
+       "as_of": "2026-06-03",
+       "date_precision": "day",
+       "system": "personal data protection bill",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

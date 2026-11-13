@@ -1,0 +1,8 @@
+{"slug": "2025-08-13-zwe-tech-experts-and-ministries-unite-to-shape-zimbabwe-s-ai-powered-futur", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on AI harm rules."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Government AI use is only a stated vision."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Sector AI uses are only a stated vision."}}},
+"aistrategy": {"countries": {"ZWE": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "TechnoMag reports that the Ministry of ICT, Postal and Courier Services held the First Technical Consultative Workshop to co-create the Zimbabwe National Artificial Intelligence Strategy, with UNESCO support.", "as_of": "2025-08", "date_precision": "month", "system": "Zimbabwe National Artificial Intelligence Strategy", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in the country."}}},
+"mobilepenetration": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "mobile penetration", "country_label": "over 90% mobile penetration (Permanent Secretary, ICT Ministry)", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The over 90% mobile penetration is not stated as a share of people who own a phone."}}}
+}}

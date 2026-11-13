@@ -1,0 +1,63 @@
+{
+ "slug": "2024-11-08-zwe-call-for-transparency-and-stakeholder-consultation-on-new-cyber-and-da",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "regulations",
+       "value": "issued",
+       "fact": "POTRAZ implemented the Cyber and Data Protection Licencing regulations (S.I. 155 of 2024), setting licence fees of USD 50 to 2,500 for data controllers and certification for data protection officers.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "Cyber and Data Protection Licencing regulations (S.I. 155 of 2024)",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The licensing regulations are stated, but not the law, treaty, authority or ruling values."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on an online channel."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "none",
+       "fact": "Jacob Mutisi writes that there appears to have been limited or no consultation with affected groups before the Cyber and Data Protection Licencing regulations (S.I. 155 of 2024) were enacted.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "Cyber and Data Protection Licencing regulations (S.I. 155 of 2024)",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

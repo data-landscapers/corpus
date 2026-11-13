@@ -1,1 +1,44 @@
-{"slug": "2026-03-11-cpv-cabo-verde-transforms-fisheries-transparency-with-new-fisheries-inform", "studies": {"publicconsultation": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The document concerns a fisheries information system, not a consultation on a digital law or policy."}}}}}
+{
+ "slug": "2026-03-11-cpv-cabo-verde-transforms-fisheries-transparency-with-new-fisheries-inform",
+ "studies": {
+  "opendatause": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "FiTI reports that Cabo Verde's national authorities now publish fisheries data (vessel registry, catch data, access agreements, trade, subsidies) publicly through the Fisheries Information System on the DNPA website, handed over after deployment on 27-30 January 2026.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "Fisheries Information System (dnpa.gov.cv/fis)",
+       "class": "open"
+      },
+      {
+       "sub_indicator": "use",
+       "aspect": "breadth",
+       "value": "several",
+       "fact": "Focal points from different government sectors, including the National Directorate of Fisheries and Aquaculture, the Maritime and Port Institute and the National Institute of Statistics, are responsible for updating the Fisheries Information System.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Fisheries Information System (dnpa.gov.cv/fis)",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fisheries Information System",
+       "country_label": "Cabo Verde (dnpa.gov.cv/fis)",
+       "class": "open",
+       "platform": "FiTI / Shellcatch",
+       "owner": "DNPA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

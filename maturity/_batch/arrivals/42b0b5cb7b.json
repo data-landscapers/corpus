@@ -1,4 +1,14 @@
-{"slug": "2024-07-01-sle-undp-annual-report-justice-app", "studies": {
-"educationmis": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Justice app report; no education system stated."}}},
-"schools": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No school learner records stated."}}}
-}}
+{
+ "slug": "2024-07-01-sle-undp-annual-report-justice-app",
+ "studies": {
+  "police": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Court case management app; courts, not police stations."
+    }
+   }
+  }
+ }
+}

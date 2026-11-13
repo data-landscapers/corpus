@@ -1,54 +1,25 @@
-{"slug": "2026-11-10-uga-what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry", "studies": {
-"addressregister": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on an address system."}}},
-"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only a quote on AI ethics; no rule or authority stated."}}},
-"aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only a training programme for officers; no AI system in a government body stated."}}},
-"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on AI in a sector's public system."}}},
-"aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in Uganda."}}},
-"authentication": {"countries": {"UGA": {"facts": [
-{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "PML Daily, relaying the ICT ministry, says the Parish Development Model register checks beneficiaries against the national identity database before money moves, having paid 3,571,108 people.", "as_of": "2026-11-10", "date_precision": "day", "system": "Parish Development Model register", "class": "authentication"}
-], "systems": [], "note": ""}}},
-"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on a link between the civil register and the ID system."}}},
-"businessregister": {"countries": {"UGA": {"facts": [
-{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "The online business register went live in December 2022 and 279,567 businesses have come through it since, with registration taking about three hours, according to PML Daily relaying the ministry.", "as_of": "2022-12", "date_precision": "month", "system": "online business register (URSB)", "class": "business"}
-], "systems": [], "note": ""}}},
-"civilregister": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on civil registration of births or deaths."}}},
-"civilserviceskills": {"countries": {"UGA": {"facts": [
-{"sub_indicator": "csskills", "aspect": "training", "value": "inservice", "fact": "PML Daily relaying the ministry says 5,587 officers have passed through the Uganda Institute of ICT, 843 of them completing a national artificial intelligence programme in the last financial year.", "as_of": "2026-11-10", "date_precision": "day", "system": "Uganda Institute of ICT", "class": "csskills"}
-], "systems": [], "note": ""}}},
-"datagovernance": {"countries": {"UGA": {"facts": [
-{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "PML Daily says Cabinet approved the National Data Strategy on 20 October.", "as_of": "2026-10-20", "date_precision": "day", "system": "National Data Strategy", "class": "policy"}
-], "systems": [], "note": ""}}},
-"digitalskills": {"countries": {"UGA": {"facts": [
-{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "PML Daily relaying the ICT ministry says more than 160,000 citizens and small businesses received digital skills training, and a solar-powered classroom on wheels visited 58 sites across more than 25 districts and trained 8,192 people.", "as_of": "2026-11-10", "date_precision": "day", "system": "solar-powered classroom on wheels", "class": "publicskills"}
-], "systems": [], "note": ""}}},
-"digitalstrategy": {"countries": {"UGA": {"facts": [], "systems": [{"system": "Digital Transformation Roadmap", "country_label": "Uganda", "class": "other", "platform": "", "owner": "ministry of ICT", "tiers": ""}], "note": "The roadmap, launched August 2023, is said to anchor the digital transformation programme in the fourth National Development Plan; no adopting body or scope is stated. The National Data Strategy is a thematic data strategy."}}},
-"domesticfinancing": {"countries": {"UGA": {"facts": [
-{"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "PML Daily says the ICT ministry's programme budget is about UGX 490 billion this financial year, up from about UGX 104 billion in FY2022/23.", "as_of": "2026", "date_precision": "year", "system": "ICT ministry programme budget", "class": "financing"}
-], "systems": [], "note": ""}}},
-"electoralregister": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on the voters' roll."}}},
-"fibrebackbone": {"countries": {"UGA": {"facts": [
-{"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "PML Daily relaying the ministry says the fibre backbone has grown to 5,266 km and reaches 1,682 government sites.", "as_of": "2026-11-10", "date_precision": "day", "system": "national fibre backbone", "class": "backbone"}
-], "systems": [], "note": ""}}},
-"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is stated."}}},
-"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
-"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the national ID system."}}},
-"idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The register is said to check beneficiaries against the identity database; no register is said to be keyed on the ID number."}}},
-"idrobustness": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only the national identity database is named; nothing on its operation, checks or certification."}}},
-"itcapacity": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The 43 national systems are said to be built by Ugandan firms under ministry contracts; no system is said to be run or built by government staff."}}},
-"landregister": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on a land register."}}},
-"localgov": {"countries": {"UGA": {"facts": [
-{"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "PML Daily relaying the ministry says the schools register, which replaced software installed in 1999, is used by all 178 local governments; the connection is not described.", "as_of": "2026-11-10", "date_precision": "day", "system": "schools register", "class": "connection"}
-], "systems": [], "note": ""}}},
-"populationregister": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on a population register."}}},
-"refugees": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only digital skills training of refugees is stated, with no registration or digital service."}}},
-"satellitebroadband": {"countries": {"UGA": {"facts": [
-{"sub_indicator": "satellite", "aspect": "service", "value": "licensed", "fact": "PML Daily says Starlink was licensed in May.", "as_of": "2026-05", "date_precision": "month", "system": "Starlink", "class": "satellite"}
-], "systems": [], "note": ""}}},
-"socialregistry": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The Parish Development Model register is one programme's beneficiary list, not a social registry."}}},
-"startups": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No startup law, labelling or public fund stated."}}},
-"taxregister": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on a taxpayer register."}}},
-"techhubs": {"countries": {"UGA": {"facts": [
-{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "PML Daily relaying the ministry says the National ICT Innovation Hub at Nakawa reopened in January 2024 and supported 133 start-ups, taking 102 products to market.", "as_of": "2024-01", "date_precision": "month", "system": "National ICT Innovation Hub, Nakawa", "class": "hub"},
-{"sub_indicator": "hub", "aspect": "cities", "value": "several", "fact": "PML Daily says hubs followed at Kabale (June 2023) and Soroti (March 2024), then Muni and Busitema universities; programmes are not described for them.", "as_of": "2024-03", "date_precision": "month", "system": "Kabale, Soroti, Muni and Busitema hubs", "class": "hub"}
-], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-11-10-uga-what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "PML Daily reports Uganda's online business register went live in December 2022 and 279,567 businesses have registered through it, with registration taking about three hours.",
+       "as_of": "2022-12",
+       "date_precision": "month",
+       "system": "online business register (URSB)",
+       "class": "eservices"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

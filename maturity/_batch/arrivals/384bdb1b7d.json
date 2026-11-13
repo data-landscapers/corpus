@@ -1,0 +1,7 @@
+{"slug": "2024-01-13-eth-critics-fear-comms-authority-personal-data-dominion-impartiality-in-le", "studies": {
+"cybersecurity": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on a national cyber body or strategy."}}},
+"dataprotectionauthority": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The Communications Authority is only designated in a final draft proclamation, not in an enacted law."}}},
+"dataprotectionlaw": {"countries": {"ETH": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "tabled", "fact": "Ethiopanorama reports that a parliamentary session on 10 January 2024 discussed the final draft Personal Data Protection proclamation, drafted by the Ministry of Innovation and Technology and first floated in 2020.", "as_of": "2024-01-10", "date_precision": "day", "system": "Personal Data Protection proclamation (draft)", "class": "general"}], "systems": [], "note": ""}}},
+"disabilityaccess": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Disability rights is raised only on the age limit of the data draft; nothing on accessible information or services."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}}
+}}

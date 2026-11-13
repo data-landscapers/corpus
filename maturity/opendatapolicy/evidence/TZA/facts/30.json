@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-01-tza-tanzania-public-procurement-regulatory-authority-ppra",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NeST OCDS portal",
+   "country_label": "NeST Open Contracting Data Portal (data.nest.go.tz/ocds)",
+   "class": "other",
+   "platform": "",
+   "owner": "PPRA",
+   "tiers": ""
+  }
+ ],
+ "note": "A procurement authority's own publication policy and portal is one body's, not a national open data policy."
+}

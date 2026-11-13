@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-12-ehealth-africa-using-tech-to-close-gaps",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Logistics Management Information System (LoMIS)",
+   "country_label": "LoMIS",
+   "class": "other",
+   "platform": "",
+   "owner": "eHealth Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Vaccine logistics and campaign tools run by a nonprofit; no national health management information system is described."
+}

@@ -1,6 +1,1 @@
-{"slug": "2026-11-06-sle-information-minister-tables-two-major-bills-in-parliament", "studies": {
-"datacentres": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Bills on data protection and archives; no data centre stated."}}},
-"nationaldatacentres": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No data centre stated."}}},
-"offsitebackup": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No backup site stated."}}},
-"opendatause": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No data published for download stated."}}}
-}}
+{"slug": "2026-11-06-sle-information-minister-tables-two-major-bills-in-parliament", "studies": {"datagovernance": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The Data Protection and Right to Access Information Bill is a data protection and access law, not a national data policy."}}}, "opendatapolicy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on an open data policy."}}}}}

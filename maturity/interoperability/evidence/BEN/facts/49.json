@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-12-ben-how-did-you-manage-to-connect-an-entire-state",
+ "facts": [],
+ "systems": [
+  {
+   "system": "XROAD BJ (UXP)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "X-Road via UXP",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes an exchange platform and a legal framework for data exchange; no interoperability framework named."
+}

@@ -1,0 +1,7 @@
+{"slug": "2026-02-01-nam-rundu-consultation-calls-for-tougher-penalties-in-cybercrime-bill", "studies": {
+"civilserviceskills": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on civil servant training."}}},
+"cybersecuritylaw": {"countries": {"NAM": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "nbc reports the Ministry of Information and Communication Technology is consulting on a draft Cybercrime Bill, with written submissions due by 10 February 2026.", "as_of": "2026-02", "date_precision": "month", "system": "Cybercrime Bill", "class": "law"}], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"NAM": {"facts": [], "systems": [], "note": "A learner raised a digital skills gap; no programme is stated."}}},
+"paymentsuptake": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+"publicconsultation": {"countries": {"NAM": {"facts": [{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "nbc reports the Ministry of Information and Communication Technology held a consultation at Rundu on the draft Cybercrime Bill, with law enforcement and community members taking part and written submissions invited until 10 February 2026.", "as_of": "2026-02", "date_precision": "month", "system": "Cybercrime Bill consultation", "class": "consultation"}], "systems": [], "note": ""}}}
+}}

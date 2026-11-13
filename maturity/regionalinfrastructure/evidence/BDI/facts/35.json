@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-11-bdi-paperless-comesa-trade-certificates",
+ "facts": [],
+ "systems": [
+  {
+   "system": "COMESA electronic certificate of origin platform",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "COMESA",
+   "tiers": ""
+  }
+ ],
+ "note": "The eCO platform is a regional trade-document system, not a link, exchange or storage facility; Burundi's connection is only at preparation."
+}

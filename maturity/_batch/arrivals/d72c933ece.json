@@ -1,0 +1,241 @@
+{
+ "slug": "2026-04-21-cmr-afrique-centrale-l-afrique-centrale-en-conclave-a-yaounde-pour-rationa",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a civil register to ID link."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a civil register to ID link."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a civil register to ID link."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a civil register to ID link."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only among six CEMAC states at a regional guide workshop; no country-specific digital system stated."
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "Cameroon's INS director general says the December 2024 law organising civil registration creates a national civil-status file, and an interoperability experiment between the civil register, the health information system and the INS central system is under way.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "fichier national d'etat-civil",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "fichier national d'etat-civil",
+       "country_label": "Cameroon",
+       "class": "civil",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only among six CEMAC states at a regional guide workshop; no country-specific digital system stated."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only among six CEMAC states at a regional guide workshop; no country-specific digital system stated."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a remark that dead voters remain on rolls; no digital roll stated."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a remark that dead voters remain on rolls; no digital roll stated."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a remark that dead voters remain on rolls; no digital roll stated."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a remark that dead voters remain on rolls; no digital roll stated."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on health systems."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on health systems."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on health systems."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on health systems."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The interoperability experiment does not name the national health reporting system."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The interoperability experiment does not name the national health reporting system."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The interoperability experiment does not name the national health reporting system."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The interoperability experiment does not name the national health reporting system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a number at birth."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a number at birth."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a number at birth."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a number at birth."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No population register stated."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No population register stated."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No population register stated."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "No population register stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Expert and donor workshop only; no consultation of people outside government."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Expert and donor workshop only; no consultation of people outside government."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Expert and donor workshop only; no consultation of people outside government."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Expert and donor workshop only; no consultation of people outside government."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "2025-12-12-gha-communication-ministry-seeks-private-sector-input-on-cybersecurity-act",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "The CSA's acting Director-General Divine Selasie Agbetsi issued a public caution on 11 December 2025 about links and a festive-season rise in cybercrime.",
+       "as_of": "2025-12-11",
+       "date_precision": "day",
+       "system": "Cyber Security Authority (CSA)",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cyber Security Authority (CSA)",
+       "country_label": "Ghana",
+       "class": "response",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "Minister Sam George said on 11 December 2025 that over 272 memos were received on the amendment bill to Act 1038, to be incorporated before it goes to Cabinet.",
+       "as_of": "2025-12-11",
+       "date_precision": "day",
+       "system": "Cybersecurity (Amendment) Bill, 2025",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Memos received are not stated to have come through an online channel."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The Ministry of Communication, Digital Technology and Innovations received over 272 stakeholder memos on the draft amendment to the Cyber Security Act, 1038, in a public consultation from October to November 2025, and inaugurated a Cybersecurity Industry Forum on 11 December 2025.",
+       "as_of": "2025-12-11",
+       "date_precision": "day",
+       "system": "Cybersecurity (Amendment) Bill, 2025",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

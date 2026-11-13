@@ -1,31 +1,4 @@
 {"slug": "2026-11-10-ago-itu-pp26-policy-statement", "studies": {
-"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The Law Against False Information on the Internet is not said to address AI; the AI Law is only being prepared, no draft published."}}},
-"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
-"ailaw": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Angola's communications minister told the ITU PP-26 that the Artificial Intelligence Law is currently being prepared.", "as_of": "2026-11-10", "date_precision": "day", "system": "Artificial Intelligence Law", "class": "law"}], "systems": [], "note": ""}}},
-"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
-"aistrategy": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Angola's communications minister told the ITU PP-26 that the National Artificial Intelligence Strategy is currently being prepared.", "as_of": "2026-11-10", "date_precision": "day", "system": "National Artificial Intelligence Strategy", "class": "strategy"}], "systems": [], "note": ""}}},
-"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing stated."}}},
-"civilserviceskills": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only 200 telecoms professionals trained and certified, not civil servants."}}},
-"cybersecurity": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "Angola's communications minister listed the National Cybersecurity Strategy among new legislative instruments approved.", "as_of": "2026-11-10", "date_precision": "day", "system": "National Cybersecurity Strategy", "class": "response"},
-{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Angola's communications minister listed the National Cybersecurity Council among new legislative instruments approved.", "as_of": "2026-11-10", "date_precision": "day", "system": "National Cybersecurity Council", "class": "response"}], "systems": [], "note": ""}}},
-"datacentres": {"countries": {"AGO": {"facts": [], "systems": [{"system": "Unified Government Cloud", "country_label": "Angola National Cloud", "class": "other", "platform": "government data centres", "owner": "Government of Angola", "tiers": ""}], "note": "Government data centres behind the National Cloud are not said to rent capacity to others."}}},
-"dataprotectionlaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only an aim to raise data protection standards; no law or authority stated."}}},
-"digitaldivides": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Angola's communications minister said the Iluminar Angola Project, on national roaming and infrastructure sharing, is being implemented to reach more than one million citizens in 70 localities by 2027.", "as_of": "2026-11-10", "date_precision": "day", "system": "Iluminar Angola Project", "class": "ruralaccess"}], "systems": [], "note": ""}}},
-"digitalskills": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No public digital skills training stated."}}},
-"digitalsovereignty": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Angola's communications minister said the National Cloud, a Unified Government Cloud on the government's data centres, has been implemented to ensure digital sovereignty and data security.", "as_of": "2026-11-10", "date_precision": "day", "system": "Unified Government Cloud", "class": "sovereignty"}], "systems": [], "note": ""}}},
-"ecommercelaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The electronic signature framework is not stated to cover e-commerce."}}},
-"fibrebackbone": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "Angola's communications minister said the National Broadband Network is being expanded, with about 31,000 km of terrestrial fibre installed including 815 km of new routes this year.", "as_of": "2026-11-10", "date_precision": "day", "system": "National Broadband Network", "class": "backbone"}], "systems": [], "note": "No statement of every region reached or of open access."}}},
-"internationalbandwidth": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Angola's communications minister said four international submarine cable systems land in Luanda: SAT-3, WACS, SACS and 2Africa.", "as_of": "2026-11-10", "date_precision": "day", "system": "SAT-3, WACS, SACS, 2Africa", "class": "route"}], "systems": [], "note": "Landing stations are not distinguished, so independence is not stated."}}},
-"nationaldatacentres": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire is stated."}}},
-"opendiscussion": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The Law Against False Information on the Internet is named only as approved; no debate, cut or penalty stated."}}},
-"regionalinfrastructure": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Angola's communications minister said a contract was signed this year to link Angola and Namibia through the South Atlantic Regional Submarine System (SARSSY), now at the study and preparation stage.", "as_of": "2026", "date_precision": "year", "system": "SARSSY", "class": "shared"}], "systems": [], "note": ""}}},
-"schoolinternet": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No school internet figure stated."}}}
+"digitalstrategy": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The statement names a cybersecurity strategy and an AI strategy in preparation, which are thematic; no national digital strategy is stated."}}},
+"ictstrategy": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No ICT sector policy is named."}}}
 }}

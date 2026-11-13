@@ -1,4 +1,14 @@
-{"slug": "2025-10-06-cpv-nota-de-esclarecimento-ao-comunicado-da-anmcv-que-diz-estar-indignada", "studies": {
-"itcapacity": {"countries": {"CPV": {"facts": [{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "NOSi, the state public enterprise, says in its own communique that it has supplied Local Digital Governance services under signed contracts with all 22 municipalities since 2022, with 21 receiving regular service in October 2025.", "as_of": "2025-10-06", "date_precision": "day", "system": "NOSi Local Digital Governance services", "class": "staff"}], "systems": [{"system": "NOSi Local Digital Governance services", "country_label": "Cabo Verde", "class": "staff", "platform": "", "owner": "NOSi, E.P.E.", "tiers": ""}], "note": ""}}},
-"localgov": {"countries": {"CPV": {"facts": [{"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "NOSi, E.P.E., a state public enterprise, says it supplies the municipalities' digital services under service contracts signed with all 22 councils in 2022.", "as_of": "2025-10-06", "date_precision": "day", "system": "NOSi Local Digital Governance services", "class": "connection"}], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2025-10-06-cpv-nota-de-esclarecimento-ao-comunicado-da-anmcv-que-diz-estar-indignada",
+ "studies": {
+  "localrecords": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "NOSi serves all 22 municipalities under local digital governance contracts, but the services are not said to record local revenue."
+    }
+   }
+  }
+ }
+}

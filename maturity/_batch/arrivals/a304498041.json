@@ -1,1 +1,4 @@
-{"slug": "2025-04-09-caf-decret-25-104-modification-statuts-acdd", "studies": {"digitalstrategy": {"countries": {"CAF": {"facts": [], "systems": [{"system": "Agence Centrafricaine de Développement du Digital (ACDD) statutes decree 25.104", "country_label": "Central African Republic", "class": "directive", "platform": "", "owner": "Presidency", "tiers": ""}], "note": "Decree amends an agency's statutes; no national digital strategy stated."}}}}}
+{"slug": "2025-04-09-caf-decret-25-104-modification-statuts-acdd", "studies": {
+"cybersecuritylaw": {"countries": {"CAF": {"facts": [], "systems": [], "note": "A decree on the digital development agency's statutes; nothing on cybercrime law."}}},
+"dataprotectionlaw": {"countries": {"CAF": {"facts": [], "systems": [], "note": "A decree on the digital development agency's statutes; nothing on data protection."}}}
+}}

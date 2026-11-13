@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-15-mus-public-consultation-on-child-online-safety-draft-report",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MAIA+",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "chatbot",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "The ministry chatbot MAIA+ takes consultation input; the notice does not say it uses AI."
+}

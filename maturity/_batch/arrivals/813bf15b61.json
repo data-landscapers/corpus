@@ -1,0 +1,5 @@
+{"slug": "2026-04-22-cog-numerique-des-echanges-a-brazzaville-sur-le-referentiel-de-securite-de", "studies": {
+"cybersecurity": {"countries": {"COG": {"facts": [], "systems": [{"system": "Agence nationale de securite des systemes d'information (ANSSI)", "country_label": "ANSSI", "class": "response", "platform": "", "owner": "ANSSI", "tiers": ""}], "note": "ANSSI is named but its creation by law, decree or order is not stated."}}},
+"digitalsovereignty": {"countries": {"COG": {"facts": [], "systems": [], "note": "The RGSSI is an information security standard, with nothing on where state data is held."}}},
+"publicconsultation": {"countries": {"COG": {"facts": [], "systems": [], "note": "The workshop's participants are called experts and stakeholders, none named as outside government."}}}
+}}

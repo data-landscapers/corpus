@@ -1,0 +1,12 @@
+{"slug": "2025-07-01-nga-consultation-paper-on-the-review-of-the-internet-code-of-practice-2019", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The paper only proposes governance principles on deepfakes and AI tools ahead of rulemaking; no draft rule is published."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government AI system is stated."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No locally built AI is stated."}}},
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only a proposal to deepen data protection in the sector Internet Code; no general data protection law is stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"internationalstandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A proposal to align the Code with NIST or ISO 27001 is not adoption or a rule to meet a standard."}}},
+"internetusage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No internet usage figure is stated."}}},
+"publicconsultation": {"countries": {"NGA": {"facts": [{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Nigerian Communications Commission issued a July 2025 consultation paper with seven regulatory proposals for reviewing its Internet Code of Practice 2019, open for 30 days to licensees, consumers, government agencies and civil society organisations, with comments due by 29 August 2025.", "as_of": "2025-07", "date_precision": "month", "system": "Consultation Paper on the Review of the Internet Code of Practice 2019", "class": "consultation"}], "systems": [], "note": ""}}},
+"qualitystandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No national standards body or standard is stated."}}}
+}}

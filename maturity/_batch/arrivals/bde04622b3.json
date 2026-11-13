@@ -1,0 +1,16 @@
+{"slug": "2025-05-01-tza-jamiiafrica-convenes-stakeholders-to-shape-a-national-citizen-centered", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Stakeholders called for liability mechanisms and safeguards; no rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No government AI system is stated."}}},
+"aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Sector applications are named only as priorities, none in service or piloted."}}},
+"aistrategy": {"countries": {"TZA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "JamiiAfrica says that after a directive from the Prime Minister, Kassim Majaliwa, at World Press Freedom Day 2025 it convened stakeholders in May 2025 to review and strengthen the Draft National Artificial Intelligence Strategy, ahead of its official launch later in 2025.", "as_of": "2025-05", "date_precision": "month", "system": "Draft National AI Strategy", "class": "strategy"}], "systems": [{"system": "Draft National AI Strategy", "country_label": "Tanzania Draft National Artificial Intelligence Strategy", "class": "strategy", "platform": "", "owner": "Government of Tanzania", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+"businesspayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"internationalstandards": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Stakeholders asked for alignment with international standards; no adoption or membership is stated."}}},
+"opendiscussion": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Stakeholder input to a draft is not criticism of a named policy, and no cut or punishment is stated."}}},
+"paymentsuptake": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No account-holding survey figure is stated."}}},
+"policyresearch": {"countries": {"TZA": {"facts": [], "systems": [], "note": "JamiiAfrica is not described as a research institution, and no research is stated."}}}
+}}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-06-sle-statssl-proactive-publication-scheme",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sierra Leone Data Portal (Opendata / Freedata)",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "data portal",
+   "owner": "Statistics Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": "A statistics office portal and an access to information publication scheme; no open data policy stated."
+}

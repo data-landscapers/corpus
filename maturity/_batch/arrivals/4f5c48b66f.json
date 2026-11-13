@@ -1,0 +1,14 @@
+{"slug": "2026-03-05-ken-gov-t-moves-to-modernise-civil-registration-as-stakeholders-validate-b", "studies": {
+"admindata": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on statistics from administrative records."}}},
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No link between the civil register and the ID system is stated."}}},
+"civilregister": {"countries": {"KEN": {"facts": [{"sub_indicator": "civil", "aspect": "births", "value": "none", "fact": "Civil Registration Service Secretary Paul Mwangemi said the current Births and Deaths Registration Act (Cap 149) is outdated and largely based on a paper-driven registration system.", "as_of": "2026-03-05", "date_precision": "day", "system": "Births and Deaths Registration Act (Cap 149)", "class": "civil"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The bill touches data protection issues only; no general data protection law is stated."}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "The article says the Births and Deaths Registration Bill 2025, still in validation, is to align civil registration with the proposed allocation of a Unique Personal Identifier at birth.", "as_of": "2026-03-05", "date_precision": "day", "system": "Unique Personal Identifier (UPI) at birth", "class": "birthnumber"}], "systems": [], "note": ""}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on who runs or owns the ID system."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No national ID system is described."}}},
+"populationregister": {"countries": {"KEN": {"facts": [{"sub_indicator": "population", "aspect": "register", "value": "underway", "fact": "The article says the Births and Deaths Registration Bill 2025, in validation, is to align civil registration with the establishment of a national population database.", "as_of": "2026-03-05", "date_precision": "day", "system": "national population database", "class": "population"}], "systems": [{"system": "national population database", "country_label": "national population database", "class": "population", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The validation workshop names only government and development partners; public participation is still to come."}}}
+}}

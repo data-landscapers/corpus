@@ -1,4 +1,23 @@
-{"slug": "2026-10-04-bfa-burkina-faso-le-droit-des-donnees-personnelles-change-de-visage", "studies": {
-"statisticslaw": {"countries": {
-"BFA": {"facts": [], "systems": [], "note": "The laws described govern personal data and a regulator, not official statistics."}}}
-}}
+{
+ "slug": "2026-10-04-bfa-burkina-faso-le-droit-des-donnees-personnelles-change-de-visage",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Data protection authority only; no national cyber body or strategy."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Data protection laws only; no cybercrime or cybersecurity law."
+    }
+   }
+  }
+ }
+}

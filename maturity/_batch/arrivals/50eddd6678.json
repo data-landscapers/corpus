@@ -1,0 +1,133 @@
+{
+ "slug": "2024-03-28-gab-cnie-3-avril-2024-le-gabon-embarque-dans-l-ere-de-l-identite-numerique",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned chip card with digital identity only; no authentication service stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "No link between civil register and ID stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil registration."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Online services mentioned only as a promise of the new card."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "Gabonreview reports that citizens enrolled biometrically on the electoral list under the Iboga project since 2013 receive their NIP attestation without re-enrolment, per Interior Minister Hermann Immongault's briefing of 28 March 2024.",
+       "as_of": "2024-03-28",
+       "date_precision": "day",
+       "system": "Iboga biometric electoral list",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Iboga biometric electoral list",
+       "country_label": "Gabon",
+       "class": "electoral",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Campaign for the number only starts; no count of people enrolled."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The NIP is requested from age 16, not given at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who runs or maintains the ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "No public register keyed on the ID number stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on biometric checks or certification."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Police stations are enrolment sites only; no records system."
+    }
+   }
+  }
+ }
+}

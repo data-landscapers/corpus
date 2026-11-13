@@ -1,0 +1,11 @@
+{"slug": "2025-06-20-lbr-flawed-expensive-and-slow-house-turns-heat-on-national-id-chief", "studies": {
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on an authentication service."}}},
+"birthidlink": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"electoralregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Director says the registry does not control voter registration; nothing on the roll itself."}}},
+"idcoverage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a processing rate of 5,000 cards a day is given, no count or share enrolled."}}},
+"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The director says data is shared with agencies; no register is named as keyed on the ID number."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Liberian Investigator reports the National Identification Registry runs the biometric national ID system set up under the 2011 NIR Act, and its director told the House on 19 June 2025 it processes 5,000 ID cards a day.", "as_of": "2025-06-19", "date_precision": "day", "system": "National Biometric Identification Program (NIR)", "class": "idsystem"}], "systems": [{"system": "National Biometric Identification Program (NIR)", "country_label": "Liberia", "class": "idsystem", "platform": "", "owner": "National Identification Registry", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"LBR": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "The article says President Boakai's Executive Order No. 147 of April 2025 makes the national ID mandatory for banking, SIM registration, public employment and voting.", "as_of": "2025-04", "date_precision": "month", "system": "Executive Order No. 147", "class": "relying"}], "systems": [], "note": "A mandate is stated; no service is said to verify people against the ID."}}}
+}}

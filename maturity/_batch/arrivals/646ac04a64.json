@@ -1,0 +1,11 @@
+{"slug": "2026-07-01-mus-cybersecurite-une-nouvelle-reglementation-pour-proteger-les-infrastruc", "studies": {
+"authentication": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Digital identity is only mentioned as a possible age-check aid."}}},
+"birthidlink": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"cybersecurity": {"countries": {"MUS": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "L'Express reports the minister said the Cybersecurity and Cybercrime Act of 2021 established the Computer Emergency Response Team of Mauritius and the National Cybersecurity Committee.", "as_of": "2021", "date_precision": "year", "system": "Computer Emergency Response Team of Mauritius", "class": "response"}], "systems": [{"system": "Computer Emergency Response Team of Mauritius", "country_label": "CERT-MU", "class": "response", "platform": "", "owner": "Ministry of ICT", "tiers": ""}, {"system": "National Cybersecurity Committee", "country_label": "NCC", "class": "response", "platform": "", "owner": "Prime Minister appoints chair", "tiers": ""}], "note": ""}}},
+"cybersecuritylaw": {"countries": {"MUS": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "L'Express reports the minister said Mauritius adopted the Cybersecurity and Cybercrime Act in 2021, and that Critical Information Infrastructure Designation Regulations 2026 were promulgated on 20 June 2026.", "as_of": "2021", "date_precision": "year", "system": "Cybersecurity and Cybercrime Act 2021", "class": "law"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on ID enrolment."}}},
+"idfrombirth": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on the ID system."}}},
+"idregisters": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}}
+}}

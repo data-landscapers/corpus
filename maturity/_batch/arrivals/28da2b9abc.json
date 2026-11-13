@@ -1,68 +1,12 @@
 {
  "slug": "2025-05-19-moz-ciuem-destaca-papel-da-internet-como-espaco-publico-e-inclusivo-no-for",
  "studies": {
-  "dataprotectionlaw": {
+  "opendiscussion": {
    "countries": {
     "MOZ": {
      "facts": [],
      "systems": [],
-     "note": "Document names data protection only as a challenge, no law."
-    }
-   }
-  },
-  "digitaldivides": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing on this."
-    }
-   }
-  },
-  "digitalsovereignty": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "Document mentions CIUEM's sovereignty efforts in general, no state data rule."
-    }
-   }
-  },
-  "exchangepoints": {
-   "countries": {
-    "MOZ": {
-     "facts": [
-      {
-       "sub_indicator": "exchange",
-       "aspect": "exchange",
-       "value": "service",
-       "fact": "CIUEM's director said in May 2025 that CIUEM operates Mozambique's only internet traffic exchange point, MozIX.",
-       "as_of": "2025-05",
-       "date_precision": "month",
-       "system": "MozIX",
-       "class": "exchange"
-      }
-     ],
-     "systems": [
-      {
-       "system": "MozIX",
-       "country_label": "MOZ",
-       "class": "exchange",
-       "platform": "",
-       "owner": "CIUEM (Eduardo Mondlane University)",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "publicconsultation": {
-   "countries": {
-    "MOZ": {
-     "facts": [],
-     "systems": [],
-     "note": "Document reports a national internet governance forum, which places nothing."
+     "note": "Internet governance forum remarks; no criticism of a named policy, cut or punishment."
     }
    }
   }

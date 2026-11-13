@@ -1,0 +1,8 @@
+{"slug": "2024-12-17-lbr-stakeholders-to-validate-draft-data-privacy-legislation-today", "studies": {
+"aiabuse": {"countries": {"LBR": {"facts": [], "systems": [], "note": "AI is mentioned only as a reason for the data law; no AI rule or authority is stated."}}},
+"aigovernment": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No government AI system is stated."}}},
+"aisectoral": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No locally built AI is stated."}}},
+"cybersecuritylaw": {"countries": {"LBR": {"facts": [], "systems": [], "note": "An assistant minister says the ministry is pushing forward with a Cybercrime Act, but no bill, draft or law is described."}}},
+"dataprotectionlaw": {"countries": {"LBR": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "The Liberian Observer reports that stakeholders met on 17 December 2024 to validate the draft Personal Data Protection and Privacy Act of 2024, written by the Ministry of Posts and Telecommunications with Internews and EU funding, and says Liberia has no standalone data protection law.", "as_of": "2024-12-17", "date_precision": "day", "system": "Personal Data Protection and Privacy Act of 2024 (draft)", "class": "general"}], "systems": [], "note": ""}}}
+}}

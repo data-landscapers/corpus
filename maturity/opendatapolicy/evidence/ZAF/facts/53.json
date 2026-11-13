@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-11-zaf-transparency-portal-beta-national-treasury",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Transparency Portal Beta",
+   "country_label": "National Treasury eTender transparency portal (data.etenders.gov.za)",
+   "class": "other",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": "A treasury procurement portal with no policy behind it is stated."
+}
