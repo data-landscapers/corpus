@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-egy-pm-opens-cairo-ict-ai-targets-2030",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Applied Innovation Center showed Karnak Legal, an app built on its Karnak Arabic language model and developed with the Ministry of Justice, at Cairo ICT; no service use is stated.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Karnak Legal",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": "Senna and Seya are not tied to a public body."
+}

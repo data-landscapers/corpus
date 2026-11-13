@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-10-egy-cairo-ict-digital-records-medical-ai-panel",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Dr. Noha Adly of the Applied Innovation Center said the centre has built a system for detecting diabetic retinopathy with university professors and an early breast cancer detection model with the Baheya Foundation; no deployment in a public health system is stated.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Applied Innovation Center diabetic retinopathy detection system",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Diabetic retinopathy detection system",
+   "country_label": "Egypt",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Applied Innovation Center",
+   "tiers": ""
+  },
+  {
+   "system": "Early breast cancer detection model",
+   "country_label": "Egypt",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Applied Innovation Center with Baheya Foundation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
