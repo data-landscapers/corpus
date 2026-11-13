@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-12-kenyan-fixed-internet-outpaces-sa",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "ITWeb Africa, citing the Internet Society's IXP Tracker, says Kenya has five active internet exchange points, and that the Kenya Internet Exchange Point in Nairobi has 146 members.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Kenya Internet Exchange Point",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "ITWeb Africa, citing the Internet Society's IXP Tracker, says Kenya's five active exchange points are in Nairobi and Mombasa.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Kenya Internet Exchange Point",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya Internet Exchange Point",
+   "country_label": "Kenya",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
