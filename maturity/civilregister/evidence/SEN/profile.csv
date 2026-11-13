@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SEN,civil,births,coverage,inservice,2025-07-05,SEN-006,SEN-001=underway;SEN-003=underway;SEN-004=underway;SEN-005=underway;SEN-002=underway;SEN-007=underway;SEN-009=underway;SEN-008=underway,
 SEN,civil,deaths,coverage,,,,,nothing found
-SEN,civil,coverage,coverage,general,2019,SEN-010,,nothing dated since 2023-11-11
+SEN,civil,coverage,coverage,general,2019,SEN-010,,nothing dated since 2023-11-13

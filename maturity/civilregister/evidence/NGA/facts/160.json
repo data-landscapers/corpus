@@ -1,0 +1,46 @@
+{
+ "slug": "2026-08-04-nga-npc-launches-vitalreg-digital-birth-and-death-registration-platform-ac",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "Nigeria 24 reports that the National Population Commission has launched VitalReg, a fully digital platform for birth registration replacing paper, usable through a self-service portal or any of 4,011 NPC centres across the 774 local government areas.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "VitalReg",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "Nigeria 24 reports that VitalReg handles death and stillbirth notifications digitally, alongside birth registration.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "VitalReg",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "Nigeria 24 states that roughly 43 per cent of annual births and over 80 per cent of deaths in Nigeria go unregistered, a national rate not tied to the digital system.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "VitalReg",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VitalReg",
+   "country_label": "VitalReg (selfservice.nationalpopulation.gov.ng)",
+   "class": "civil",
+   "platform": "",
+   "owner": "National Population Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

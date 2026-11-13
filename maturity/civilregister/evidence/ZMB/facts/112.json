@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-30-zmb-zambia-seeks-international-system-integrator-for-mosip-based-digital-i",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The Smart Zambia Institute procurement covers development, deployment and integration of civil registration and vital statistics core modules and enrolment kits, with full digital ID rollout targeted by the end of 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "civil registration and vital statistics core modules",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

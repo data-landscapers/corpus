@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SDN,civil,births,coverage,inservice,2024-08,SDN-003,SDN-001=underway;SDN-002=underway,
+SDN,civil,births,coverage,inservice,2024-08,SDN-003,SDN-006=underway;SDN-001=underway;SDN-002=underway,
 SDN,civil,deaths,coverage,digital,2024-08,SDN-004,,
-SDN,civil,coverage,coverage,general,2014,SDN-005,,nothing dated since 2023-11-11
+SDN,civil,coverage,coverage,general,2014,SDN-005,,nothing dated since 2023-11-13

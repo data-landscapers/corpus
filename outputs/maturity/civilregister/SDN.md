@@ -2,7 +2,7 @@
 
 ## Civil register
 
-**Births digital.** Sudan's war disrupted its digital civil registry. [In August 2024 a police spokesman said the registry system for births and deaths had been recovered and was running](<https://awalalnahar.net/archives/22743>). Its data had been restored up to 13 April 2023. Registration is restarting locally. [On 17 May 2026 the Al-Hosh office in South Gezira issued its first electronic birth certificate since the suspension](<https://alnawrs.com/212689>). [In May 2026 a hospital system with a civil registration module started in two facilities](<https://www.sudanakhbar.com/1784876>), in Khartoum and Gedaref.
+**Births digital.** Sudan's war disrupted its digital civil registry. [In August 2024 a police spokesman said the registry system for births and deaths had been recovered and was running](<https://awalalnahar.net/archives/22743>). Its data had been restored up to 13 April 2023. Registration is restarting locally. [On 17 May 2026 the Al-Hosh office in South Gezira issued its first electronic birth certificate since the suspension](<https://alnawrs.com/212689>). [In May 2026 a hospital system with a civil registration module started in two facilities](<https://www.sudanakhbar.com/1784876>), in Khartoum and Gedaref. [On 12 November 2026 the civil registry said its database was fully restored after war damage](<https://alwatannewssd.com/79500/>). It is widening electronic registration and keeps paper records for reference.
 
 **Deaths digital.** [The police spokesman said in August 2024 that the recovered system includes death certificates](<https://awalalnahar.net/archives/22743>). No source found since then says deaths are being registered in it.
 

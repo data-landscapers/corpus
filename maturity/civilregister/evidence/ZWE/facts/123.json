@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-20-zwe-zim-s-digital-population-registry-sets-benchmark-for-africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Zimbabwe Population Registration System (ZPRS)",
+   "country_label": "Zimbabwe",
+   "class": "civil",
+   "platform": "",
+   "owner": "Registrar General",
+   "tiers": ""
+  }
+ ],
+ "note": "ZPRS is called the backbone of civil registration but births or deaths registered digitally are not stated."
+}

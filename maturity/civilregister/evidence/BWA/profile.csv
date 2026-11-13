@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 BWA,civil,births,coverage,inservice,2019,BWA-004,BWA-001=underway,
-BWA,civil,deaths,coverage,digital,2019,BWA-005,,nothing dated since 2023-11-11
+BWA,civil,deaths,coverage,digital,2019,BWA-005,,nothing dated since 2023-11-13
 BWA,civil,coverage,coverage,target,2024-12-11,BWA-002,BWA-003=general;BWA-008=general;BWA-006=general;BWA-007=general,

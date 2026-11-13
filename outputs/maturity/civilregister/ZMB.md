@@ -2,11 +2,11 @@
 
 ## Civil register
 
-**Births digital.** [The Smart Zambia Institute issued a request for proposals on 3 December 2025, financed by IDA under the Digital Zambia Acceleration Project, to procure a system integrator for the CRVS core modules, backend infrastructure and enrolment kits](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00412626>). [INRIS, the civil registration and legal identity information management system, has been rolled out in 79 districts, covering all city and municipal councils, with some district councils pending, per the INRIS deputy project manager](<https://dailynationzambia.com/2023/10/govt-digitises-nrcs/>).
+**Births digital.** [In December 2025 the Smart Zambia Institute sought a system integrator for the civil registration core modules](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00412626>). The World Bank's IDA finances it. [In March 2026 ID Tech reported the work covers deployment, integration and enrolment kits](<https://idtechwire.com/zambia-seeks-international-system-integrator-for-mosip-based-digital-id-rollout/>), with full digital ID rollout due by the end of 2026. [In October 2023 the civil registration system INRIS ran in 79 districts](<https://dailynationzambia.com/2023/10/govt-digitises-nrcs/>). It covered all city and municipal councils, with some district councils pending.
 
-**Deaths digital.** [The same official said the exercise run on INRIS covers securing death certificates as well as birth registration (Lusaka Times, 3 September 2026)](<https://www.lusakatimes.com/2026/09/03/govt-implements-digital-civil-registration/>).
+**Deaths digital.** [In September 2026 an INRIS official said the system covers death certificates as well as births](<https://www.lusakatimes.com/2026/09/03/govt-implements-digital-civil-registration/>).
 
-**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00412626>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. [The World Bank's indicators put completeness of birth registration at 14% for 2018](<https://datacatalog.worldbank.org/search/dataset/0037712/world-development-indicators>). That is a national rate not tied to the digital system.
 
 ***Also on file***. [Sample Based Registration System with Vital Statistics (SRS-VS)](<https://www.zambiamonitor.com/zambia-launches-sample-based-registration-system-to-capture-silent-deaths-outside-health-facilities/>).
 

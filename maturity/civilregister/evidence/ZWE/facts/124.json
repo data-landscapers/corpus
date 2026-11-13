@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-01-zwe-registrar-general-to-get-voters-roll-custody",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "The Herald quotes Minister Kazembe saying the Zimbabwe Population Registry System is an integrated digital platform that updates birth and death records automatically in real time.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Zimbabwe Population Registry System (ZPPRS)",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "Minister Kazembe says updates on death registration enter the Zimbabwe Population Registry System automatically and in real time.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Zimbabwe Population Registry System (ZPPRS)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe Population Registry System (ZPPRS)",
+   "country_label": "Zimbabwe",
+   "class": "civil",
+   "platform": "",
+   "owner": "Registrar-General's Office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

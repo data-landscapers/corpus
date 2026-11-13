@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-21-cmr-afrique-centrale-l-afrique-centrale-en-conclave-a-yaounde-pour-rationa",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Cameroon's INS director general says the December 2024 law organising civil registration creates a national civil-status file, and an interoperability experiment between the civil register, the health information system and the INS central system is under way.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "fichier national d'etat-civil",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "fichier national d'etat-civil",
+   "country_label": "Cameroon",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

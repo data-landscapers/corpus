@@ -5,14 +5,14 @@
       "sub_indicator": "civil",
       "stage": "2",
       "births": "underway",
-      "deaths": "",
+      "deaths": "digital",
       "coverage": "",
       "cap": "",
       "flags": "",
       "stage_sources": "ZWE-004;ZWE-002",
-      "gaps": "No source found since October 2023 says births are registered digitally across the country.",
-      "note": "All provinces and districts are computerised but only about 20 of 209 sub-offices (2026). Nothing found says births are registered digitally nationwide.",
-      "as_at": "2026-10-24"
+      "gaps": "No source found since October 2023 says births are registered digitally across the country. The minister's February 2026 claim of a real-time integrated register is older than the July and September 2026 accounts of computerisation still under way.",
+      "note": "All provinces and districts are computerised but only about 20 of 209 sub-offices (July 2026), and digitalisation was still ongoing in September 2026; the newest facts stand, so stage 2. Question 2 needs its own evidence, so the death fact does not lift it.",
+      "as_at": "2026-11-13"
     }
   ]
 }
