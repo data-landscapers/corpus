@@ -1,12 +1,12 @@
 ---
 title: Madagascar: status report
-compiled: 2026-11-12
+compiled: 2026-11-13
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 271
+sources_cited: 272
 sections_written: 39
 not_established: 1
 acquire_lines: 25
@@ -138,7 +138,7 @@ The June 2025 development policy operation and PRODUIRE2 are not among them: dig
 
 [In February 2026 one exchange point, MGIX, was active, with four members](https://pulse.internetsociety.org/en/ixp-tracker/country/MG/). [Under 1% of the country's networks were reachable through an exchange point, against 65% for Africa](https://pulse.internetsociety.org/en/ixp-tracker/country/MG/) (February 2026). [The same measurement put internet resilience at 41 out of 100](https://pulse.internetsociety.org/en/ixp-tracker/country/MG/). [MGIX had been suspended since 2019 until the Internet Society Foundation gave iRENALA USD 49,958 to restart it](https://www.isocfoundation.org/2025/01/meet-the-new-grantees-improving-peering-and-interconnection-around-the-globe/) (January 2025).
 
-[4G reached 34.6% of the population in 2024, against an African average of 75.2%](https://www.ecofinagency.com/news-digital/0707-57146-madagascar-s-parliament-calls-for-faster-network-rollout-in-underserved-areas). [2G reached 88.5% in 2023 and 3G 69.2% in 2024](https://www.ecofinagency.com/news-digital/0707-57146-madagascar-s-parliament-calls-for-faster-network-rollout-in-underserved-areas). [18.68% of the population used the internet in 2024](https://api.worldbank.org/v2/country/MDG/indicator/IT.NET.USER.ZS?date=2024:2025&format=json), against [24.6 million cellular connections, equal to 72.9% of the population, in late 2026](https://www.datareportal.com/reports/digital-2027-madagascar). [The GSMA put unique mobile internet penetration at 14.3% in 2025](https://www.gsma.com/newsroom/press-release/gsma-digital-reforms-could-connect-1-12-million-more-people-in-madagascar-and-add-mga-4-1-trillion-to-gdp-by-2031/). [It found 66% of the population inside mobile broadband coverage without using it](https://www.gsma.com/newsroom/press-release/gsma-digital-reforms-could-connect-1-12-million-more-people-in-madagascar-and-add-mga-4-1-trillion-to-gdp-by-2031/) (October 2026).
+[4G reached 34.6% of the population in 2024, against an African average of 75.2%](https://www.ecofinagency.com/news-digital/0707-57146-madagascar-s-parliament-calls-for-faster-network-rollout-in-underserved-areas). [2G reached 88.5% in 2023 and 3G 69.2% in 2024](https://www.ecofinagency.com/news-digital/0707-57146-madagascar-s-parliament-calls-for-faster-network-rollout-in-underserved-areas). [GSMA estimates put 3G and 4G coverage at about 81% of the population in 2026](https://www.lexpress.mg/2026/11/acces-internet-madagascar-veut-reduire.html). [18.68% of the population used the internet in 2024](https://api.worldbank.org/v2/country/MDG/indicator/IT.NET.USER.ZS?date=2024:2025&format=json), against [24.6 million cellular connections, equal to 72.9% of the population, in late 2026](https://www.datareportal.com/reports/digital-2027-madagascar). [The GSMA put unique mobile internet penetration at 14.3% in 2025](https://www.gsma.com/newsroom/press-release/gsma-digital-reforms-could-connect-1-12-million-more-people-in-madagascar-and-add-mga-4-1-trillion-to-gdp-by-2031/). [It found 66% of the population inside mobile broadband coverage without using it](https://www.gsma.com/newsroom/press-release/gsma-digital-reforms-could-connect-1-12-million-more-people-in-madagascar-and-add-mga-4-1-trillion-to-gdp-by-2031/) (October 2026).
 
 [Mobile internet cost 6.28% of GNI per capita a month in 2023, more than three times the 2% affordability target](https://www.ecofinagency.com/news-digital/2410-49797-madagascar-presses-telecoms-to-slash-high-mobile-data-prices). [The regulator ARTEC pressed operators to cut rates from late 2024 and again in October 2025](https://www.ecofinagency.com/news-digital/2410-49797-madagascar-presses-telecoms-to-slash-high-mobile-data-prices). [In October 2026 operators put taxes at 47% of an entry smartphone's cost, with an 8% excise on mobile services](https://fr.allafrica.com/stories/202610170043.html).
 

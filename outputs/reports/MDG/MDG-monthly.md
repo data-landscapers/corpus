@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: MDG
-ledger_rows: 26
+ledger_rows: 27
 not_held: 5
-record: 65b33f255393
+record: 94f449ed5ff7
 ---
 
 # News, Oct – Nov 2026
@@ -155,6 +155,20 @@ At the launch of a GSMA report on Madagascar's digital economy, operators said t
 **[TECHNOLOGIE - Deux Malgaches sur dix connectés à Internet](https://www.lexpress.mg/2026/10/technologie-deux-malgaches-sur-dix.html)** — L'Express de Madagascar, 17 October 2026
 
 Only about two in ten people in Madagascar use the internet, although 3G and 4G networks cover more than 80% of the population. Operators blame the cost of handsets, and the 2026 finance law keeps the taxes on them.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile broadband population coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ACCÈS À INTERNET - Madagascar veut réduire la fracture numérique](https://www.lexpress.mg/2026/11/acces-internet-madagascar-veut-reduire.html)** — L'Express de Madagascar, 12 November 2026
+
+A COMESA consultation on financing digital infrastructure met in Antananarivo from 10 to 13 November 2026. GSMA estimates cited there put 3G and 4G coverage at about 81% of Madagascar's population in 2026. Yet 66% of people live in covered areas without using mobile internet. 4G reaches an estimated 67% of rural people against 96% in towns.
 
 </div>
 
