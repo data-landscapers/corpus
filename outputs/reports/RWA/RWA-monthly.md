@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: RWA
-ledger_rows: 32
+ledger_rows: 34
 not_held: 7
-record: 50c9ff1344cf
+record: c7b4d36e8aec
 ---
 
 # News, Oct – Nov 2026
@@ -96,6 +96,20 @@ Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cros
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Five-year local-governance memorandum with Liberia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia and Rwanda Sign Five-Year Deal to Bring Services Closer to Citizens](https://www.cooperation.rw/updates/newsroom-1/news-detail/liberia-and-rwanda-sign-five-year-deal-to-bring-services-closer-to-citizens)** — Rwanda Cooperation, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
+
+County Service Centers to be digitised on the Irembo model; revenue systems; implementation plan due in 90 days.
+
+</div>
+
+</div>
+
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -107,6 +121,20 @@ Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cros
 **[International and regional technical committees](https://www.rsb.gov.rw/standards/our-technical-committees/rsb-technical-committees/international-and-regional-technical-committees)** — Rwanda Standards Board, 16 October 2026
 
 The Rwanda Standards Board lists the regional and international technical committees it sits on, including EAC standards committees. Among them, it is a participating member of the ISO/IEC JTC 1 subcommittee on IT service management (SC 40), an observer on JTC 1 and its security subcommittee SC 27, and a member of the EAC committee on IT standards.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rwanda National DPI Guidelines, Version 1.0</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda National DPI Guidelines, Version 1.0]()** — Ministry of ICT and Innovation (MINICT) and Rwanda Information Society Authority (RISA), 1 November 2026
+
+121 pages; Rwanda Stack building blocks, domain rules, component catalogue; principle-based, mandates to follow.
 
 </div>
 
