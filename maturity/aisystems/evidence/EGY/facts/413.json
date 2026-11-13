@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-17-egy-egypt-s-mcit-and-unesco-launch-national-ai-readiness-assessment-stakeh",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The ICT Minister said the Applied Innovation Center is carrying out projects building systems for Arabic language recognition, speech-to-text and multilingual translation.",
+   "as_of": "2025-02-17",
+   "date_precision": "day",
+   "system": "Applied Innovation Center",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

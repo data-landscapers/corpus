@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-18-ken-kenya-builds-ai-policy-framework-through-multi-stakeholder-collaborati",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Dr. George Musumba, who chairs the policy's technical committee, says local language model development has early work visible in Swahili and Kikuyu.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "local language models (Swahili, Kikuyu)",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
