@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "satellite",
-      "stage": "4",
-      "service": "choice",
+      "stage": "3",
+      "service": "sale",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-011;AGO-010",
-      "gaps": "No source found gives a subscriber count for satellite broadband published by the regulator in the last three years.",
-      "note": "Counted from the four questions by study-ladder-satellitebroadband.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "AGO-011",
+      "gaps": "No source found says services on two different satellite networks are on sale; the Eutelsat low-earth-orbit service Mercury sells and Twoobii are both OneWeb, and no sale over ANGOSAT-2 has been found.",
+      "note": "Reassessed 2026-11-13, 4 -> 3: Eutelsat's low-earth-orbit service (AGO-010) is OneWeb, the network Twoobii sells (AGO-011), so one network is on sale, not two. ANGOSAT-2 is licensed for resale (AGO-008) but no sale on it has been found.",
+      "as_at": "2026-11-13"
     }
   ]
 }

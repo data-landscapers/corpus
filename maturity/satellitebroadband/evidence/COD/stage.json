@@ -1,16 +1,17 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "satellite",
-   "stage": "3",
-   "service": "sale",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-002",
-   "gaps": "No source found says services on two different satellite networks are on sale.",
-   "note": "Counted from the four questions by study-ladder-satellitebroadband.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "satellite",
+      "stage": "3",
+      "service": "sale",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-002",
+      "gaps": "No source found says services on two different satellite networks are on sale; the regulator's 2026 tariff page lists Konnect Africa, but with no tariff, so not as a service on sale.",
+      "note": "Reassessed 2026-11-13, stays 3: Starlink is licensed and on sale. Konnect Africa appears on ARPTC's 2026 tariff list with no tariff (COD-018), which shows a provider listed, not a service on sale, so not stage 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

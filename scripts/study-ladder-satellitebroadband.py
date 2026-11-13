@@ -55,7 +55,8 @@ GAPS = {
 # A satellite network, by the words a drafter's `system` uses for it or for its resellers.
 NETWORKS = [
     ("starlink", re.compile(r"starlink", re.I)),
-    ("oneweb", re.compile(r"one\s*web", re.I)),
+    # Eutelsat's low-earth-orbit service is OneWeb; Konnect is its geostationary one.
+    ("oneweb", re.compile(r"one\s*web|eutelsat\W*(?:leo|low[- ]earth)", re.I)),
     ("konnect", re.compile(r"konnect|eutelsat(?!.*one\s*web)", re.I)),
     ("yahsat", re.compile(r"yah\s*(?:click|sat)|thuraya", re.I)),
     ("kuiper", re.compile(r"kuiper|amazon", re.I)),
