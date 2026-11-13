@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-27-nga-businesspost-cbn-upgrades-opay-moniepoint-licences-national",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Business Post reports OPay, Moniepoint, PalmPay, Kuda and Paga hold CBN licences upgraded to national, with CBN's Yemi Solaja saying their operations are already nationwide.",
+   "as_of": "2026-01-27",
+   "date_precision": "day",
+   "system": "OPay, Moniepoint, PalmPay, Kuda, Paga",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

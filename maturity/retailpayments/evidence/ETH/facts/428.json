@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-12-eth-nbe-directive-onps-10-2025-payment-instrument-issuers",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The National Bank of Ethiopia's directive of 12 May 2025 sets limits on Level 2 electronic money accounts, person-to-person transfers (Birr 75,000 daily) and QR merchant payments (Birr 250,000 daily), and sets a deadline for existing licensed issuers to raise capital.",
+   "as_of": "2025-05-12",
+   "date_precision": "day",
+   "system": "e-money accounts of licensed payment instrument issuers",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

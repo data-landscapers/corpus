@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-11-sle-fintech-innovation-lab-fbc-eu",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Bank of Sierra Leone Governor Ibrahim Stevens refers to mobile money accounts that customers transfer between through the national payment switch.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "national payment switch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Governor says the national payment switch lets customers transfer money between mobile money accounts and bank accounts across participating financial institutions.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "national payment switch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Governor describes a national payment switch connecting mobile money accounts and bank accounts across participating institutions.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "national payment switch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national payment switch",
+   "country_label": "Sierra Leone",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

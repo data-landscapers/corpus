@@ -398,6 +398,7 @@ GNQ,SelBa24,Guiné Equatorial,other,,,,2026-08-18-sapo-guine-equatorial-pretende
 GNQ,Muni Dinero,Equatorial Guinea,retail,mobile wallet,Muni S.A.,,2026-05-28-gnq-paiement-mobile-au-bas-du-classement-en-zone-cemac-la-guinee-equatoria
 GNQ,BGFIMoney,Equatorial Guinea,retail,mobile banking,BGFIBank,,2026-05-28-gnq-paiement-mobile-au-bas-du-classement-en-zone-cemac-la-guinee-equatoria
 GNQ,Getesa Money,Equatorial Guinea,retail,mobile wallet,Getesa,,2026-05-28-gnq-paiement-mobile-au-bas-du-classement-en-zone-cemac-la-guinee-equatoria
+GNQ,Getesa Money,Equatorial Guinea,retail,,GETESA,,2026-05-25-getesa-modernizacion-5g-wifi-getesa-money-reg
 KEN,PesaLink,Kenya,retail,instant bank-to-bank switch,Integrated Payment Systems Limited (Kenya Bankers Association),"banks, microfinance banks and Saccos",2026-10-08-pesalink-s-new-id-makes-bank-transfers-easier-the-bigger-question-is-w
 KEN,M-PESA,Kenya,retail,mobile money,Safaricom,,2026-10-08-pesalink-s-new-id-makes-bank-transfers-easier-the-bigger-question-is-w
 KEN,EMMA,Kenya,retail,"Android app, USSD, Equitel SIM toolkit",Finserve Africa (Equity Group),,2026-10-06-ken-techcabal-equity-finserve-emma-wallet
@@ -746,6 +747,7 @@ SLE,Afrimoney,Sierra Leone,retail,Afrimoney,Africell,,2026-06-26-gmb-afrimoney-c
 SLE,Orange Mobile Money,Sierra Leone,retail,,Orange,,2024-09-01-sle-ministry-of-labour-embarks-on-cash-transfer-of-nle1-018-to-poor-sierra
 SLE,GovPay Sierra Leone,Sierra Leone,retail,mobile money USSD,GovPay SL,,2025-04-24-sle-bo-district-council-launches-electronic-tax-payment
 SLE,National Payment Switch Instant Payment Service,Sierra Leone,retail,,Bank of Sierra Leone,,2025-02-12-sle-ministry-of-information-and-civic-education-s-press-conference
+SLE,national payment switch,Sierra Leone,retail,,,,2026-11-11-sle-fintech-innovation-lab-fbc-eu
 SOM,Somalia Instant Payment System,Somalia,retail,ISO 20022,Central Bank of Somalia,,2026-10-05-som-itweb-mobile-money-silos
 SOM,EVC Plus,Somalia,retail,,Hormuud Telecom,,2026-10-05-som-itweb-mobile-money-silos
 SOM,SIPS,Somalia,retail,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
