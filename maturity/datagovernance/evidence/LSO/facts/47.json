@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-09-lso-validation-workshop-for-the-recommendations-made-to-lesotho-s-draft-da",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "CIPESA reports that Lesotho's Draft Data Management Policy 2025 was the subject of a stakeholder workshop on 28-30 July 2025 and a validation workshop set for 13-14 October 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Draft Data Management Policy 2025",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
