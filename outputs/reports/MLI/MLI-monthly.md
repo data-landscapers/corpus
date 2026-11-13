@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: MLI
-ledger_rows: 16
+ledger_rows: 17
 not_held: 1
-record: c2270538fcbf
+record: 58c93a4aee5d
 ---
 
 # News, Oct – Nov 2026
@@ -217,6 +217,20 @@ Mali's annual revision of the electoral lists runs from 1 October to 31 December
 **[Modernisation de la justice, renforcement de l’État de droit : Le PNUD offre des équipements et des codes au département de la Justice](https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html)** — Le Challenger via Maliweb, 9 November 2026
 
 Summarised under [New investments](#new-investments).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital import certificates for private vehicles</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation des Attestations d’importation de Véhicules : La Phase pilote lancée](https://gouvernement.ml/digitalisation-des-attestations-dimportation-de-vehicules-la-phase-pilote-lancee/)** — Information Gouvernementale du Mali, 11 November 2026
+
+DGCC pilot from 9 Nov 2026; first certificate no. 2026000001001 issued in the system ahead of generalisation.
 
 </div>
 
