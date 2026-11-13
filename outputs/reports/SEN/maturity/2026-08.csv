@@ -71,7 +71,7 @@ dpi.registry--electoral-register,2,SEN-dpi.registry-feb,,,,,,,2026-08-31,0,Digit
 dpi.registry--tax-register,2,SEN-dpi.registry-ninea|SEN-dpi.mis-sentaxe,,,,,,,2026-08-31,0,Computerised register issuing NINEA; integrity and linkage not assessed,
 dpi.registry--land-register,2,SEN-dpi.registry-parcels|SEN-dpi.mis-sifcom,,,,,,,2026-08-31,0,Parcels surveyed under a project; land information system in preproduction,
 dpi.mis--health,,,,,,,,,2026-08-31,0,Digital-health bill and a mortality tool pilot only; no HMIS evidence in rows,
-dpi.mis--education,2,SEN-dpi.mis-simen|SEN-dpi.exchange-planet3,,,,,,,2026-08-31,0,SIMEN reaches about a fifth of schools; published annual census not on record,
+dpi.mis--education,2,SEN-dpi.mis-simen|SEN-dpi.mis-planete-3-school-management-platform,,,,,,,2026-08-31,0,SIMEN reaches about a fifth of schools; published annual census not on record,
 dpi.mis--social-protection,2,SEN-dpi.mis-cfsmis,,,,,,,2026-08-31,0,MIS in development; payment digitisation pilot outstanding,
 dpi.mis--justice,2,SEN-dpi.govtech-e-justice,,,,,,,2026-08-31,0,e-Justice piloted in Dakar with UNDP support; no court coverage or case volume published,
 dpi.mis--tax,3,SEN-dpi.mis-sentaxe|SEN-dpi.govtech-sentimbre,,,,,,,2026-08-31,0,E-filing and payment on separate platforms; uptake not published,

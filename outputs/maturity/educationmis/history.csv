@@ -78,3 +78,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,MWI,dpi.mis--education,ladder,2,4,MWI-003;MWI-001,"Restaged under message 114 (housekeeping 57): the 2023/24 Education Statistics Report comes from the Annual School Census through the EMIS; with learner numbers in the EMIS, 2 to 4."
 2026-11-11,TZA,dpi.mis--education,ladder,2,5,TZA-004;TZA-003;TZA-005,"Restaged under message 114 (housekeeping 57): PO-RALG published Basic Education Statistics 2025, and its School Information System shares learner data with NECTA; 2 to 5."
 2026-11-12,COM,dpi.mis--education,fact,unplaced,3,COM-002,"UNICEF (Dec 2025): e-Msomo national platform in use, 80,000 pupils, 700 schools, 3,000 teachers; schools still being added: unplaced->3"
+2026-11-13,GAB,dpi.mis--education,fact,2,2,GAB-001;GAB-002,"2020/2021 education yearbook (Feb 2023, census on tablets 2021) and July 2024 yearbook workshop read: not tied to the SIGE and pre-window, so stage 2 stands; gap and summary corrected"

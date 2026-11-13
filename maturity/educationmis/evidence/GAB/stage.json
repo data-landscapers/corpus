@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GAB-001;GAB-002",
-      "gaps": "No source found since October 2023 says: is the school census run through it.",
-      "note": "Reassessed in the rebuild: the ministry is adding school-health indicators to the SIGE (August 2025) and began assigning learner identifiers in October 2024. Nothing found says the school census was run through it, so not 3.",
-      "as_at": "2026-11-02"
+      "gaps": "A census-based yearbook is held for 2020/2021 (published February 2023, before the window), from a census entered on tablets that it does not tie to the SIGE; no source since October 2023 says a school census was run through the system.",
+      "note": "Reassessed on the 2020/2021 yearbook: the ministry published census statistics in February 2023, from a World Bank-backed census entered on tablets, and a July 2024 workshop planned a further edition; neither says the census ran through the SIGE, and the yearbook predates the window, so not 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

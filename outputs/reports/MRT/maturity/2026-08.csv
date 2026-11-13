@@ -72,7 +72,7 @@ dpi.registry--electoral-register,,,,,,,,,2026-08-31,0,2024 roll of 1.94 million 
 dpi.registry--tax-register,,,,,,,,,2026-08-31,0,TIN provided in the tax procedures book; no computerised register described,
 dpi.registry--land-register,2,MRT-dpi.registry-cadastral-reference,,,,,,,2026-08-31,0,Referential and parcel identifier before Council of Ministers; no cadastre in service or parcel count on record,
 dpi.mis--health,2,MRT-dpi.mis-health-information-system,,,,,,,2026-08-31,0,electronic register in two wilayas on WHO's account; no national HMIS in service stated,
-dpi.mis--education,2,MRT-dpi.mis-sirage-education-information-system,,,,,,,2026-08-31,0,SIRAGE regional staff trained; no annual census or coverage published,
+dpi.mis--education,2,MRT-dpi.mis-siraj-education-platform,,,,,,,2026-08-31,0,SIRAGE regional staff trained; no annual census or coverage published,
 dpi.mis--social-protection,3,MRT-dpi.registry-registre-social|MRT-dpi.pay-gimtel-card-switch,,,,,,,2026-08-31,0,AOUN run on the register with digital payment; no disaggregated data published,
 dpi.mis--justice,2,MRT-dpi.mis-justice-modernisation-programme,,,,,,,2026-08-31,0,Digitisation of procedure still programmed; criminal-record system is a register not case management,
 dpi.mis--tax,2,MRT-dpi.govtech-jibaya-online-tax,,,,,,,2026-08-31,0,"online filing for large enterprises only, 39 per cent on the financier's figure",
