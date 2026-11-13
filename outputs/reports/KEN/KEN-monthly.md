@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: KEN
-ledger_rows: 90
+ledger_rows: 92
 not_held: 5
-record: 3e1b34068b65
+record: 6ae3a1fbc822
 ---
 
 # News, Oct – Nov 2026
@@ -288,6 +288,20 @@ ISO lists the Kenya Bureau of Standards (KEBS), set up under the Standards Act i
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank guidance note on AI for the banking sector</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AI Governance Fragmentation Cause For Concern](https://cioafrica.co/ai-governance-fragmentation-cause-for-concern/)** — CIO Africa, 12 November 2026
+
+Lawyers at Bowmans, writing in CIO Africa on 12 November 2026, warn that Kenya's AI rules risk overlapping mandates. They list the National AI Strategy of March 2025 and a draft AI policy published for comment in July 2026. A draft data governance policy and a private member's AI Bill are also in play. The Central Bank of Kenya published draft guidance on AI in banking in September 2026.
+
+</div>
+
+</div>
+
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
@@ -403,6 +417,28 @@ Bayobab, an MTN Group company, said on 22 October 2026 that civil works and fibr
 **[Namelok Wireless Launches Community Internet Network in Kimuka, Kenya](https://techafricanews.com/2026/11/04/namelok-wireless-launches-community-internet-network-in-kimuka-kenya/)** — Tech Africa News, 4 November 2026
 
 Namelok Wireless announced on 4 November 2026 a community internet network in Kimuka, on Kenya's Ngong-Suswa Road. It serves public schools, government offices, health facilities and small businesses. No subscriber, coverage or price figures were published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Lake Victoria Basin Connectivity and Development Project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[General Procurement Notice: Lake Victoria Basin Connectivity and Development Project (LVBCDP), P520201](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479589)** — Kenya National Highways Authority (World Bank procurement notice OP00479589), 6 November 2026
+
+USD 1bn World Bank financing sought; 815 km of roads with matching fibre optic cable, five design-build packages.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government seeks Sh129.92 billion World Bank loan to upgrade 815km of roads in eight counties | The Eastleigh Voice](https://eastleighvoice.co.ke/news/421770/government-seeks-sh12992-billion-world-bank-loan-to-upgrade-815km-of-roads-in-eight-counties)** — The Eastleigh Voice, 10 November 2026
+
+KeNHA seeks USD 1bn IDA loan for 815 km of roads with matching fibre optic cable across eight counties.
 
 </div>
 
