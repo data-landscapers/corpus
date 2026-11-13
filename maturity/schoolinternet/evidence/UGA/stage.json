@@ -1,17 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "schools",
-   "stage": "4",
-   "internet": "official:63",
-   "curriculum": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-001",
-   "gaps": "No source found since October 2023 says digital literacy or computing is a compulsory subject in the national secondary curriculum.",
-   "note": "First pass: counted from the four questions by study-figure.py schoolinternet.",
-   "as_at": "2026-10-18"
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "schools",
+      "stage": "4",
+      "internet": "official:63",
+      "curriculum": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001",
+      "gaps": "No source found since October 2023 says digital literacy or computing is a compulsory subject in the national secondary curriculum.",
+      "note": "Rebuild: 63 per cent for 2026 (UNICEF and Ministry assessment) is at or above 50, so stage 4. No row says digital literacy or computing is compulsory in the secondary curriculum, so not 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

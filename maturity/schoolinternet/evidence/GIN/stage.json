@@ -1,16 +1,17 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "schools",
-   "stage": "unplaced",
-   "internet": "",
-   "curriculum": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No figure for 2023 or later has been found for secondary schools with internet for teaching.",
-   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "schools",
+      "stage": "unplaced",
+      "internet": "",
+      "curriculum": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No figure for 2023 or later has been found for secondary schools with internet for teaching.",
+      "note": "Rebuild: the latest figure held is 0 per cent for 2016 (UNESCO series), before 2023, so it cannot set a rung. Unplaced until a figure for 2023 or later arrives.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

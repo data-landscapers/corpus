@@ -1,16 +1,17 @@
 {
- "iso3": "ERI",
- "cells": [
-  {
-   "sub_indicator": "schools",
-   "stage": "no evidence",
-   "internet": "",
-   "curriculum": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found gives secondary schools with internet for teaching.",
-   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
-  }
- ]
+  "iso3": "ERI",
+  "cells": [
+    {
+      "sub_indicator": "schools",
+      "stage": "no evidence",
+      "internet": "",
+      "curriculum": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found gives secondary schools with internet for teaching.",
+      "note": "Rebuild: no row on secondary schools with internet for teaching or on the curriculum is held. Nothing sets a rung.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

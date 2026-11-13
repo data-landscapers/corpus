@@ -1,16 +1,17 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "schools",
-   "stage": "1",
-   "internet": "official:4.0457",
-   "curriculum": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "schools",
+      "stage": "1",
+      "internet": "official:4.0457",
+      "curriculum": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-003",
+      "gaps": "",
+      "note": "Rebuild: 4.05 per cent for 2024 (UNESCO series) is below the 17 per cent line, so stage 1.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

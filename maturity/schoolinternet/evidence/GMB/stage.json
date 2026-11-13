@@ -1,16 +1,17 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "schools",
-   "stage": "1",
-   "internet": "official:12.1559",
-   "curriculum": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "schools",
+      "stage": "1",
+      "internet": "official:12.1559",
+      "curriculum": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-004",
+      "gaps": "",
+      "note": "Rebuild: 12.2 per cent for 2025 (UNESCO series) is below the 17 per cent line, so stage 1.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

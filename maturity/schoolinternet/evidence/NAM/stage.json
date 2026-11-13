@@ -1,16 +1,17 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "schools",
-   "stage": "5",
-   "internet": "official:81.25",
-   "curriculum": "compulsory",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-005;NAM-001",
-   "gaps": "All four questions are answered.",
-   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "schools",
+      "stage": "5",
+      "internet": "official:81.25",
+      "curriculum": "compulsory",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-005;NAM-001",
+      "gaps": "All four questions are answered.",
+      "note": "Rebuild: 81.2 per cent for 2024 (UNESCO series) is at or above 50, and NAM-001 (December 2024) makes the Information and Communication subject compulsory, so stage 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

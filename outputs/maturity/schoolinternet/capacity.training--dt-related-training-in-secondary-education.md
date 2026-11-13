@@ -1,6 +1,6 @@
 # DT-related training in secondary education: internet in secondary schools
 
-*As at 2026-09-30.*
+*As at 2026-11-13.*
 
 ## The norm
 
