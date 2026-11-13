@@ -6,7 +6,7 @@
 
 **Hosted nationally.** [L'Express reports](<https://lexpress.mu/node/552966>) that Mauritius Telecom's Rose-Belle data centre hosts government projects. They include e-Health, Mobile ID and the government portal, as seen on a minister's visit on 29 December 2025.
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://lexpress.mu/node/552966>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact: [in September 2025 the ICT ministry sought suppliers for a sovereign cloud under Mauritian law](<https://publicnotice.govmu.org/publicnotice/?p=28880>).
 
 ***Also on file***. [Mauritius Telecom Rose-Belle data centre](<https://lexpress.mu/node/552966>); [Government Online Centre (GOC), Ebene](<https://lexpress.mu/node/552966>).
 

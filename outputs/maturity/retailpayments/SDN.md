@@ -6,7 +6,7 @@
 
 **Between providers.** Wallets in Sudan now reach bank accounts. [Sudani Fintech launched Sah on 14 April 2026](<https://www.sudatel.sd/en/news-and-announcement/sudani-fintech-launches-sah-platform/>), a licensed app and USSD service that gives each user a basic bank account number. Users can send and receive money to and from all banks in Sudan. [Zain's Bede wallet added the same bank account number service in October 2026](<https://sudanhorizon.com/bede-sudan-launches-bban-service-to-strengthen-banking-integration-and-expand-digital-transaction/>), Sudan Horizon reports, for transfers across all Sudanese banks.
 
-**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://thesudantimes.com/sudan/dagalo-orders-unified-cash-digital-payment-prices-in-darfur/>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest fact: [in October 2026 Bede wallet users could send and receive funds across all Sudanese banks](<https://sudanhorizon.com/bede-sudan-launches-bban-service-to-strengthen-banking-integration-and-expand-digital-transaction/>).
 
 ***Also on file***. [Baladna Bibasata](<https://alwijha24.com/83548>).
 

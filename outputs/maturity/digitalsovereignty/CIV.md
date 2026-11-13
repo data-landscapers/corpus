@@ -6,7 +6,7 @@
 
 **Hosted nationally.** In July 2026 Digital Mag [counted five public data centres run by ANSUT that host sensitive state data](<https://digitalmag.ci/stockage-de-donnees-les-10-datacenters-en-cote-divoire-pour-un-debut-de-souverainete-numerique/>). The Presidency has one of them. The health ministry's IT directorate [hosts its patient records only in the State's national data centre](<https://disd.ci/forum-club-sante-2026-la-disd-fixe-le-cap-de-lintelligence-artificielle-en-cote-divoire/>). They cover over 2 million files from more than 541 facilities.
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://www.telecom.gouv.ci/new/uploads/publications/174196707541.pdf>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact: [the 2024 data governance strategy says critical data must be processed and stored in Côte d'Ivoire](<https://www.telecom.gouv.ci/new/uploads/publications/174196707541.pdf>).
 
 ***Also on file***. [Data Center National / Cloud National](<https://www.telecom.gouv.ci/new/uploads/publications/174196707541.pdf>); [National PKI (root certification authority)](<https://www.biometricupdate.com/202607/cote-divoire-launches-national-pki-to-strengthen-digital-sovereignty>); [DataConnect Africa sovereign cloud](<https://www.clever-cloud.com/blog/company/2024/11/28/clever-cloud-dataconnect-africa/>).
 

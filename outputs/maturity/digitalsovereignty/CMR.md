@@ -6,7 +6,7 @@
 
 **Hosted nationally.** [CAMTEL said at the SAGO conference of 9 June 2026](<https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde>) that its Zamengoe Data Centre is a critical national asset. It said the centre ensures the security, continuity and local control of government data.
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact: [in December 2025 CAMTEL signed an agreement with Ethio Telecom to set up a sovereign Government Cloud](<https://bluetechchallenge.camtel.cm/documentation/download/17>).
 
 ***Also on file***. [Zamengoe Data Centre](<https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde>); [Zamengoé Datacenter](<https://lavoixdesentreprises.info/2025/12/11/digital-sovereignty-camtel-unveils-the-performance-of-its-zamengoe-datacenter-to-businesses-and-government-agencies/>); [Zamengoe Datacenter](<https://lavoixdesentreprises.info/2025/12/11/digital-sovereignty-camtel-unveils-the-performance-of-its-zamengoe-datacenter-to-businesses-and-government-agencies/>).
 

@@ -6,7 +6,7 @@
 
 **AI computing.** [In October 2026 Vodacom's technology chief said ground had been broken on Africa Data Centres Egypt](<https://www.businessday.co.za/companies/2026-10-18-vodacoms-technology-chief-outlines-regional-data-centre-strategy/>), built with Elsewedy Electric and Cassava Technologies. It will run its own GPUs for internal and outside users. The Public Prosecution [was to open its own AI data centre in Rehab on 14 November 2026](<https://www.youm7.com/story/2026/11/11/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B1%D9%83%D8%B2-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D8%A8%D8%A7%D9%84%D8%B1%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84/7614923>). No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.
 
-**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/>).
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest fact: [in September 2026 the Karnak LLM was homegrown](<https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/>).
 
 ***Also on file***. [Huawei Ascend 950-series AI training cloud offer](<https://enterpriseam.com/ai/2026/10/20/egypts-play-to-become-an-exporter-of-computing-power/>).
 

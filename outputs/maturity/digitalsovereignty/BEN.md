@@ -6,7 +6,7 @@
 
 **Hosted nationally.** In October 2026 a Benin official [said Beninese data stays in Benin](<https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne>). He said the country's systems ran for two years without a maintenance contract and without a break in service.
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact: [in June 2026 ASIN proposed contractual reversibility and full data return for public administration's AI use](<https://www.lanation.bj/actualites/usages-de-lia-dans-ladministration-publique-un-cadre-de-gouvernance-envisage>).
 
 ***Also on file***. [Comité national du Numérique](<https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree>).
 

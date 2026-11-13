@@ -6,7 +6,7 @@
 
 **Both ways.** No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers. In November 2026 the Immigration Principal Secretary told MPs that [the number given at birth would become the national ID number at 18](<https://nation.africa/kenya/news/how-kenya-s-digital-birth-registration-system-will-work--5663174>). [A registered death would remove the record from active identification systems](<https://nation.africa/kenya/news/how-kenya-s-digital-birth-registration-system-will-work--5663174>), he said.
 
-**Exchange reported.** No source found since October 2023 gives a figure for records exchanged between the two. The nearest held fact: [the one given above](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-kenya.pdf>).
+**Exchange reported.** No source found since October 2023 gives a figure for records exchanged between the two. The nearest fact: [in July 2026 Civil Registration Services said birth records are used to verify identity at ID registration](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-kenya.pdf>).
 
 ***Also on file***. [IPRS (Integrated Population Registration System)](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-kenya.pdf>); [Maisha Namba](<https://www.biometricupdate.com/202502/kenyas-birth-registration-reforms-set-the-stage-for-automatic-national-id-issuance>); [Unique Personal Identifier (UPI)](<https://www.kenyans.co.ke/news/127644-state-expand-digital-birth-registration-sha-hospitals-within-3-months>); [IPRS](<https://www.kenyanews.go.ke/govt-enhances-registration-of-persons-through-new-technology/>).
 

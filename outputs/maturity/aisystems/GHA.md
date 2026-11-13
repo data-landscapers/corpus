@@ -6,7 +6,7 @@
 
 **AI computing.** No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country. [In October 2026 the minister said a national data centre and computing infrastructure was in procurement](<https://www.citinewsroom.com/2026/10/phase-one-of-ghanas-first-data-centre-to-be-ready-in-24-months-sam-george/>). [Its first phase is due within 24 months, for researchers, industry and universities](<https://www.citinewsroom.com/2026/10/phase-one-of-ghanas-first-data-centre-to-be-ready-in-24-months-sam-george/>).
 
-**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://www.myjoyonline.com/ghana-targets-5bn-in-annual-economic-gains-from-ai-sam-george/>).
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest fact: [in September 2026 the minister said the AI computing centre would give researchers, start-ups and universities access](<https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/>).
 
 ***Also on file***. None found.
 

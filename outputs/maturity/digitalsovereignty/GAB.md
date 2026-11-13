@@ -6,7 +6,7 @@
 
 **Hosted nationally.** In November 2025 AGP reported that [the La Poste data centre hosts critical public administration services and the state's digital platforms](<https://agpgabon.ga/gabon-transformation-numerique-paule-marie-gondjout-et-mark-alexandre-doumba-en-visite-au-data-center-de-la-poste/>). It said the centre needs complete modernisation.
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://www.gabonreview.com/hebergement-des-donnees-le-gabon-met-fin-a-sa-dependance-aux-serveurs-etrangers-avec-son-premier-datacenter/>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact: [in January 2025 the government signed an agreement with Cybastion for a national data centre](<https://dcmag.fr/gabon-aura-son-datacenter-national-20-mw-construit-par-lamericain-cybastion/>).
 
 ***Also on file***. [GABIX](<https://www.gabonreview.com/souverainete-numerique-le-gabon-relance-gabix-son-point-dechange-internet-local/>); [SIGFIP](<https://presidence.ga/2026/02/19/audience-accordee-a-ika-technology-acceleration-de-la-digitalisation-de-ladministration-publique-et-consolidation-de-la-souverainete-numerique/>); [Gabon Connect](<https://presidence.ga/2026/02/19/audience-accordee-a-ika-technology-acceleration-de-la-digitalisation-de-ladministration-publique-et-consolidation-de-la-souverainete-numerique/>).
 

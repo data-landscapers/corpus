@@ -6,7 +6,7 @@
 
 **Between providers.** [The BCEAO's PI-SPI instant payment platform, launched on 30 September 2025, links banks, e-money and payment institutions](<https://lefaso.net/spip.php?article147670>). [By the end of October 2026 it connected 17 providers in Togo, from banks to microfinance institutions, for instant transfers between them](<https://www.togofirst.com/en/economic-governance/0511-20563-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-transactions-by-end-october>). [Mixx users can send money through it to wallets, banks and microfinance institutions in all eight WAEMU countries](<https://www.togofirst.com/fr/finance/1404-18708-mixx-togo-lance-les-paiements-et-virements-instantanes-dans-luemoa-via-la-plateforme-pi-spi>).
 
-**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://lefaso.net/spip.php?article147670>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest fact: [in April 2026 Mixx users could send money between wallets, banks and microfinance institutions through PI-SPI](<https://www.togofirst.com/fr/finance/1404-18708-mixx-togo-lance-les-paiements-et-virements-instantanes-dans-luemoa-via-la-plateforme-pi-spi>).
 
 ***Also on file***. [PI-SPI](<https://www.togofirst.com/en/itc/1811-17593-bceao-launches-developer-sandbox-for-instant-payments>).
 

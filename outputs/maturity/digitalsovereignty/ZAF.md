@@ -6,7 +6,7 @@
 
 **Hosted nationally.** [The DCDT states](<http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf>) that SITA, the State IT Agency, operates the Centurion data centre, the primary of two national facilities. It hosts mission-critical systems and sensitive government data. Both facilities are National Key Points.
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact: [in September 2026 the minister said the department was drafting data classification guidelines for the public service](<https://pmg.org.za/committee-question/40222/>).
 
 ***Also on file***. [SITA data centres (Centurion and Beta)](<http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf>); [Teraco Isando](<http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf>); [Teraco Bredell](<http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf>); [Africa Data Centres Midrand](<http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf>); [Africa Data Centres Samrand](<http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf>).
 

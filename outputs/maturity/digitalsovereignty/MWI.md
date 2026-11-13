@@ -6,7 +6,7 @@
 
 **Hosted nationally.** [A request for bids says](<https://api.pppc.mw/api/download/722>) that the Department of e-Government runs the National Data Centre in Lilongwe. It hosts systems of ministries, departments and agencies. It is being expanded to meet government institutions' demand over at least five years.
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://api.pppc.mw/api/download/722>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact: [in June 2026 the Department of e-Government sought bids to expand the National Data Centre in Lilongwe](<https://api.pppc.mw/api/download/722>).
 
 ***Also on file***. [Blantyre Data Centre (disaster recovery site)](<https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf>); [Bomalathu Digital Services Platform](<https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf>).
 

@@ -6,7 +6,7 @@
 
 **Hosted nationally.** [Al-Watwan reports the recent opening](<https://alwatwan.net/societe/gouvernance-des-donn%C3%A9es-i-les-comores-se-dotent-d%E2%80%99une-strat%C3%A9gie-nationale.html>) of the public administration's first data centre. Minister Oumouri Mmadi Hassani calls it an important advance for digital sovereignty. A May 2025 page says [the Data Center of the Public Administration](<http://web.archive.org/web/20260824175002/https://dig.watch/countries/comoros>) is co-managed by state agency ANADEN and Comores Câbles. Its critical services let ANADEN take over technical management of the national .km domain. It is also meant to host public platforms and secure administrative data.
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://alwatwan.net/societe/gouvernance-des-donn%C3%A9es-i-les-comores-se-dotent-d%E2%80%99une-strat%C3%A9gie-nationale.html>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact: [in May 2025 the state agency ANADEN and Comores Câbles co-managed the public administration's data centre](<http://web.archive.org/web/20260824175002/https://dig.watch/countries/comoros>).
 
 ***Also on file***. [Stratégie nationale de gouvernance des données](<https://alwatwan.net/societe/gouvernance-des-donn%C3%A9es-i-les-comores-se-dotent-d%E2%80%99une-strat%C3%A9gie-nationale.html>); [Data Center of the Public Administration](<http://web.archive.org/web/20260824175002/https://dig.watch/countries/comoros>).
 

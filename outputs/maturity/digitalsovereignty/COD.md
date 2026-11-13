@@ -6,7 +6,7 @@
 
 **Hosted nationally.** [The Ministry of Social Affairs (MINAS) says](<https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/>) the Registre Social Unique is a 100% sovereign system. Its data are hosted nationally, and the ministry has full control of infrastructure and source code.
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact: [in July 2026 MINAS said it fully controls the Registre Social Unique's infrastructure and source code](<https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/>).
 
 ***Also on file***. [Data center du Gouvernement](<https://sgptntic.gouv.cd/transition-numerique-le-ministre-augustin-kibassa-maliba-visite-le-data-center-du-gouvernement/>); [ANCE, the certification authority](<https://numerico.cd/2026/07/31/tribune-souverainete-numerique-en-rdc-ance-ancy-alpha-kazadi-md-calculus-system/>); [ANCY, the cybersecurity agency](<https://numerico.cd/2026/07/31/tribune-souverainete-numerique-en-rdc-ance-ancy-alpha-kazadi-md-calculus-system/>); [Registre Social Unique (RSU)](<https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/>).
 
