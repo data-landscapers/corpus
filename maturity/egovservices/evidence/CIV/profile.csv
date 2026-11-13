@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,eservices,services,coverage,inservice,2025-12-31,CIV-004,CIV-003=underway;CIV-001=underway;CIV-002=underway,
+CIV,eservices,services,coverage,inservice,2025-12-31,CIV-004,CIV-003=underway;CIV-005=underway;CIV-001=underway;CIV-002=underway,
 CIV,eservices,gateway,coverage,,,,,nothing found
 CIV,eservices,usage,coverage,,,,,nothing found

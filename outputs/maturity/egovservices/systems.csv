@@ -54,6 +54,8 @@ CIV,e-Justice platform,Cote d'Ivoire,eservices,,Ministry of Justice,,2025-06-19 
 CIV,Guichet unique numerique du tourisme et des loisirs (SGAT component),CIV,eservices,SIVIS,Ministry of Tourism and Leisure (DIDDS),,2026-11-11-civ-guichet-unique-numerique-du-tourisme-et-des-loisirs
 CIV,Portail des services publics (www.servicesublics.gouv.ci),Côte d'Ivoire (www.servicesublics.gouv.ci),eservices,,Government / SNDI,,2026-07-28-civ-digitalisation-des-services-publics-en-cote-d-ivoire-les-applications
 CIV,CEPICI one-stop shop system,Côte d'Ivoire,other,,CEPICI,,2026-07-28-civ-digitalisation-des-services-publics-en-cote-d-ivoire-les-applications
+CIV,Guichet unique numerique du tourisme (SGAT component),Cote d'Ivoire,eservices,"SGAT, developed with Cybastion",Ministry of Tourism and Leisure,,2026-11-12-cote-d-ivoire-un-guichet-numerique-pour-moderniser-la-gestion-du-touri
+CIV,servicepublic.gouv.ci,Cote d'Ivoire,other,,,,2026-11-10-civ-wb-padci-barometre-service-public
 CMR,Tresor Pay,Cameroon,eservices,www.tresorpublic.cm,Ministry of Finance,,2023-08-08-cmr-cna-tresor-pay-platform
 CMR,Cameroon Online E-Procurement System (Coleps),Coleps,other,,Ministry of Public Contracts,,2025-12-04-cmr-ecomatin-coleps-attribution-en-ligne
 CMR,servicepublic.gov.cm,Cameroon,other,web portal and mobile app,MINFOPRA,,2026-10-20-cmr-servicepublic-gov-cm-minfopra-seeks-homepage-redesign-and-new-portal-id
@@ -259,6 +261,7 @@ MAR,Portail e-services,Maroc,eservices,,Ministry of Digital Transition,,2025-02-
 MAR,Epolice,Morocco,eservices,DGSN online police services portal,General Directorate of National Security (DGSN),,2026-11-09-mar-moroccans-abroad-can-now-apply-online-for-criminal-record-certificates
 MAR,ANCFCC online services,Morocco,eservices,ancfcc.gov.ma,ANCFCC,,2024-04-07-mar-services-en-ligne
 MAR,Epolice,Morocco,eservices,epolice.ma,DGSN,,2025-01-26-mar-plateforme-epolice-comment-la-dgsn-amorce-sa-transformation-digitale-p
+MAR,E-Police,E-Police,eservices,,DGSN,,2026-06-04-mar-morocco-expands-digital-reform-drive-with-police-service-modernization
 MDG,Torolalana,Madagascar,eservices,portal,Unite de Gouvernance Digitale,,2024-05-15-mdg-ugd-torolalana-portal-releases
 MDG,Torolalana,Torolalana,eservices,"multi-channel portal (digital, telephone, post-office counter)","Digital Governance Unit, Ministry of Digital Development","digital channel, telephone channel, physical channel (Mahatoky)",2024-02-16-mdg-publicdigital-mahatoky-one-stop-counter
 MDG,Mahatoky,Mahatoky,eservices,agent-operated helpdesk in post offices,Digital Governance Unit with Paositra Malagasy,pilot in 4 post offices,2024-02-16-mdg-publicdigital-mahatoky-one-stop-counter

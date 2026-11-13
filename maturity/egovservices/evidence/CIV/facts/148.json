@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-10-civ-wb-padci-barometre-service-public",
+ "facts": [],
+ "systems": [
+  {
+   "system": "servicepublic.gouv.ci",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The portal is named with no service count, sign-in or use figures."
+}
