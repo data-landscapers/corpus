@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "harmonisation",
+ "aspect": "accepted",
+ "fact": "The register lists the AU Convention on Cyber Security and Personal Data Protection for Congo as signed 2015-06-12, ratified 2020-09-24 and deposited 2020-10-23.",
+ "title": "Republic of the Congo",
+ "publisher": "AfricanLII",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: the text carries no date of its own (parent withdrew)"
+}

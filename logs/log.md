@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-13 06:38 · **REBUILD** · unclocked · regionallaw harmonisation: reassessed 11-13 01:59 (1 cell, 1 moved); 54 searched, 67 staged; ~90M tokens, window shared with regionalpolicy — ok
 2026-11-13 06:21 · **REBUILD** · unclocked · refugees displaced: reassessed 11-13 02:07 (47 cells, 8 moved); 54 searched, 171 staged (UNHCR PDFs widely 403); ~95M tokens, window shared with regionallaw — ok
 2026-11-13 06:08 · **REBUILD** · unclocked · qualitystandards standards: reassessed 11-12; 54 searched, 92 staged; ~90M tokens, window shared with refugees searches — ok
 2026-11-13 05:52 · **REBUILD** · 24m · publicconsultation consultation: reassessed 11-12; 54 searched, 125 staged; 95.2M tokens, window shared with qualitystandards searches — ok

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "harmonisation",
+ "aspect": "accepted",
+ "fact": "The Secretariat General's list shows the AU Convention on cybersecurity and personal data protection ratified by Decree no. 2020-286 of 20 August 2020.",
+ "title": "Conventions et accords",
+ "publisher": "Secrétariat Général du Gouvernement du Congo",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: the text carries no date of its own (parent withdrew)"
+}
