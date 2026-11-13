@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-sle-business-registration-75pct-unregistered",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "President Bio launched the Online Business Registration System on 10 November 2026, operated by the National Investment Board, letting entrepreneurs apply, upload documents, track status and obtain registration certificates online.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Online Business Registration System (OBRS)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Business Registration System (OBRS)",
+   "country_label": "Sierra Leone",
+   "class": "business",
+   "platform": "",
+   "owner": "National Investment Board",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

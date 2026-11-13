@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy asks for an electronic busin
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 4 |
-| 3 Established | 29 |
-| 2 Nascent | 17 |
+| 3 Established | 30 |
+| 2 Nascent | 16 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 2 |
@@ -190,6 +190,13 @@ Firms could register online in 2026; no source found reports a number shared wit
 
 - The Registration Division of Seychelles publishes an online business registration form on registry.gov.sc capturing entity name, registration type, business type, addresses, partners or owners, supporting documents, tax-related information and share capital ([source, 2026](https://www.registry.gov.sc/BizRegistration/WebBusinessRegsitration.aspx)).
 
+### Sierra Leone: 3 Established
+
+Firms could register online from November 2026; whether the registration number is shared with tax or social security is not known.
+
+- President Bio launched the Online Business Registration System on 10 November 2026, operated by the National Investment Board, letting entrepreneurs apply, upload documents, track status and obtain registration certificates online ([source, 2026-11-10](https://www.ecofinagency.com/news-digital/1111-60716-sierra-leone-digitizes-business-registration-as-75-of-firms-remain-unregistered)).
+- President Bio launched Sierra Leone's Online Business Registration System, run by the National Investment Board, on 10 November 2026, and the Board says previously held documents and files have been moved into it ([source, 2026-11-10](https://www.sierraleonemonitor.com/bio-launches-online-business-registration/)).
+
 ### Somalia: 3 Established
 
 Firms could register online in 2026; no source found reports a number shared with tax.
@@ -335,14 +342,6 @@ A new business registration system was being built in 2026; beneficial owners we
 A one-stop company registration counter was open in 2026; online registration is not on record.
 
 - The DGRN page of Sao Tome and Principe presents a one-stop company counter (Guiche Unico para Empresa) handling company formation, alteration, dissolution, branch and sole-trader registration, with fees in dobras ([source, 2026](https://dgrn.gov.st/reg_gue.php)).
-
-### Sierra Leone: 2 Nascent
-
-An online business registration system was built and demonstrated to a minister in November 2026; whether applicants can use it is not known.
-
-- SierraLoaded reports the National Investment Board's newly developed Online Business Registration System lets applicants reserve a name, register, upload documents and download business certificates online, as demonstrated to the Communication Minister ([source, 2026-11-06](https://sierraloaded.sl/news/salima-nib-online-business-registration/)).
-- Chief Minister Sengeh said the National Investment Board's One-Stop Digital Business Service Platform, built through a joint venture, is nearly complete and expected to be operational by November 2026, cutting business registration from about 24 hours to minutes ([source, 2026-10-07](https://ayvnews.com/sengeh-highlights-bios-business-transformation/)).
-- Parliament ratified a 15-year build-operate-transfer concession under which Multi GIS E-Services SL Ltd will develop, operate and maintain the Online Business Registration System, per Sierraloaded ([source, 2026-05-31](https://sierraloaded.sl/news/parliament-online-business-registration/)).
 
 ### Zambia: 2 Nascent
 

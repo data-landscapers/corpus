@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-sle-online-business-registration-launch",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "President Bio launched Sierra Leone's Online Business Registration System, run by the National Investment Board, on 10 November 2026, and the Board says previously held documents and files have been moved into it.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Online Business Registration System (OBRS)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Business Registration System (OBRS)",
+   "country_label": "OBRS 2026",
+   "class": "business",
+   "platform": "",
+   "owner": "National Investment Board",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
