@@ -151,7 +151,7 @@ def carry(sid: str, dry: bool) -> int:
     study_lib.load(sid)
     slugs, urls = study_lib.reference_held()
     held = [r for r in study_lib.read_csv(os.path.join(study_lib.CORPUS, "reference", "measures.csv"))
-            if r["dataset"] == c["dataset"]]
+            if r["dataset"] == c["dataset"] and r.get("nature") != "suspect"]
     names = study_lib.countries()
     base = os.path.join(study_lib.study_dir(sid), "evidence")
     count: collections.Counter = collections.Counter()
