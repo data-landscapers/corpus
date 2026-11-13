@@ -9,3 +9,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-02,TGO,gov.regional--regional-legal-harmonisation,fact,3,4,TGO-004;TGO-003;TGO-002,"OTR notice 004/2025 applies the 2024 customs IT interconnection protocol with the AES; a national rule giving effect, 3 to 4"
 2026-11-05,UGA,gov.regional--regional-legal-harmonisation,fact,1,3,UGA-004,Parliamentary committee says Uganda signed and ratified the EAC Protocol on ICT Networks; 1 to 3
 2026-11-07,TZA,gov.regional--regional-legal-harmonisation,fact,1,3,TZA-002,"Parliament approved accession to the Malabo Convention on 5 November 2026: ratified by parliament, stage 3"
+2026-11-13,CAF,gov.regional--regional-legal-harmonisation,review,1,2,CAF-002,"Rebuild: the CEMAC QR-code payment standard of April 2026, launched for the six CEMAC states and staged as binding in Cameroon, names the Central African Republic; added as CAF-002, so bound by a community text and not stage 1. No ratification, so 2."

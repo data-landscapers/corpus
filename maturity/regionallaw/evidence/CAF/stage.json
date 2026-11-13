@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "harmonisation",
-      "stage": "1",
-      "accepted": "none",
+      "stage": "2",
+      "accepted": "signed",
       "effect": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CAF-001",
-      "gaps": "No other shared African text on a digital matter is recorded for the country.",
-      "note": "A September 2026 brief, citing the African Union's register of 2 February 2026, says the country has taken no action on the Malabo Convention, and no other shared text is on record. That dated statement of no signature is stage 1.",
-      "as_at": "2026-10-30"
+      "stage_sources": "CAF-002",
+      "gaps": "No ratification of a shared African text on a digital matter is recorded; the Malabo Convention is neither signed nor ratified. No national law or rule giving effect to a shared text is recorded.",
+      "note": "The CEMAC QR-code payment standard of April 2026 is launched for the six CEMAC states, the Central African Republic named among them, so the country is bound by a community text and a statement that it has not signed Malabo is not stage 1. Nothing says it has ratified a shared text, so not 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

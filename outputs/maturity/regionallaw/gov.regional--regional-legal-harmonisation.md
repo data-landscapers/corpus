@@ -23,8 +23,8 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 | 5 Leading | 0 |
 | 4 Operating | 1 |
 | 3 Established | 25 |
-| 2 Nascent | 9 |
-| 1 Absent | 19 |
+| 2 Nascent | 10 |
+| 1 Absent | 18 |
 | Unplaced | 0 |
 | No evidence | 0 |
 
@@ -206,6 +206,12 @@ Cameroon signed the African Union cyber security and data protection convention 
 - The article says the CEMAC interoperable QR-code payment standard was validated by the UMAC Ministerial Committee in April 2026 and launched by GIMAC on 29 July 2026 for the six CEMAC states including Cameroon; it names no ratification step ([source, 2026-04](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
 - GabonReview reports the BEAC launched the interoperable QR Code for the CEMAC on 29 July 2026 in Douala, following adoption of CEMAC/UMAC regulation No. 02/26 of 8 April 2026, a community text covering the six member states including Cameroon ([source, 2026-04-08](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/)).
 
+### Central African Republic: 2 Nascent
+
+The Central African Republic is bound by a 2026 regional payments standard but has not signed the African Union convention; a ratification is not known.
+
+- L'Economie reports that the CEMAC interoperable QR-code payment standard, validated by the UMAC Ministerial Committee in April 2026, was launched by GIMAC on 29 July 2026 for the six CEMAC states, naming the Central African Republic among them ([source, 2026-04](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
+
 ### Chad: 2 Nascent
 
 Chad signed the African Union's cyber security and data protection convention in 2015 and has not ratified it.
@@ -281,12 +287,6 @@ Burundi had not signed the African Union's cyber security and data protection co
 
 - Participants in the Paradigm Initiative and Dukingire Isi Yacu workshop in Bujumbura on 18-19 February 2026 called on the Government of Burundi to ratify the Malabo Convention, which the article treats as not yet ratified ([source, 2026-02](https://communityvoice.bi/1489-2/)).
 - The African Union Commission's status list of 02/02/2026 shows Burundi with no date of signature, ratification/accession or deposit for the Convention on Cyber Security and Personal Data Protection (21 signatures and 20 deposits across 55 states) ([source, 2026-02-02](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
-
-### Central African Republic: 1 Absent
-
-The Central African Republic had not signed the African Union's cyber security and data protection convention by February 2026; no other shared text is known.
-
-- ACTPOL, citing the African Union status list of 2 February 2026, says the Central African Republic has taken no action on the Malabo Convention ([source, 2026-02-02](https://www.actpol.org/research/central-africa-laws-before-regulators-cameroon)).
 
 ### Egypt: 1 Absent
 
