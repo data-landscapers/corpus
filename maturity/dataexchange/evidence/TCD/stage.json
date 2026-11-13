@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "no evidence",
-      "platform": "",
+      "stage": "2",
+      "platform": "underway",
       "reach": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found names a government data exchange platform, or says there is none.",
-      "note": "Rebuild 2026-10-28: no evidence row on the subject.",
-      "as_at": "2026-10-28"
+      "stage_sources": "TCD-001",
+      "gaps": "UCL IIPP's DPI Map lists a data exchange system as planned or piloted (checked October 2024). No source found says a platform is in service, and none names the bodies it would connect.",
+      "note": "DPI Map (2026-11): a data exchange system planned or piloted is work towards a platform, which reaches stage 2. Nothing says it is in service.",
+      "as_at": "2026-11-13"
     }
   ]
 }

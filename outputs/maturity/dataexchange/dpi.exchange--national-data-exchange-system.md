@@ -23,10 +23,10 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 | 5 Leading | 6 |
 | 4 Operating | 2 |
 | 3 Established | 7 |
-| 2 Nascent | 23 |
+| 2 Nascent | 26 |
 | 1 Absent | 3 |
 | Unplaced | 3 |
-| No evidence | 10 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -145,6 +145,18 @@ A government data exchange platform was under way in 2026; none in service is on
 - Presidential Despacho 344/26 of 27 August 2026 authorised USD 13 million to acquire and implement the Plataforma de Interoperabilidade da Administracao Publica, a secure data exchange channel and API layer between state and private-sector systems, and ordered a public tender for its implementation ([source, 2026-08-27](https://pti.ao/pr-autoriza-13-milhoes-de-dolares-para-plataforma-de-interoperabilidade-da-administracao-publica/)).
 - IMA formally started the USD 150 million, 12-month Public Digital Infrastructure Project with the implementation contract with TIS Angola on 31 July 2026, aiming to strengthen interoperability of public systems, digital identity and e-service security ([source, 2026-07-31](https://lidermagazine.ao/revolucao-digital-em-marcha-ima-inicia-projecto-que-vai-mudar-a-administracao-publica/)).
 
+### Botswana: 2 Nascent
+
+UCL's DPI Map listed a government data exchange system as in use in 2024; no source found names the bodies it connects.
+
+- The DPI Map (UCL IIPP) lists Botswana's data exchange system as implemented, fully operational and in use, linking the Department of Shared Digital Services page, checked 1 October 2024; the line gives no date for the system, so as_of is the check date ([source, 2024-10-01](https://dpimap.org/data/)).
+
+### Chad: 2 Nascent
+
+UCL's DPI Map listed a government data exchange system as planned or piloted in 2024; none in service has been found.
+
+- The DPI Map (UCL IIPP) lists Chad's data exchange system as planned or piloted, checked 1 October 2024; the record gives no year for the stated thing, so the check date is used ([source, 2024-10-01](https://dpimap.org/data/)).
+
 ### Comoros: 2 Nascent
 
 A government data exchange platform was under way in 2026; none in service is on record.
@@ -170,6 +182,12 @@ A data warehouse linking the three revenue agencies was being loaded in 2026; no
 A government data exchange platform was under way in 2026; none in service is on record.
 
 - The director general of the population directorate says it is working on an interoperability system that will let public administrations, and some institutions such as banks and social protection bodies, check a national ID card's authenticity in real time; no launch is stated ([source, 2026-07-23](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/)).
+
+### Eswatini: 2 Nascent
+
+UCL's DPI Map listed a government data exchange system as planned or piloted in 2024; none in service has been found.
+
+- The DPI Map (UCL IIPP) lists Eswatini's data exchange system as planned or piloted, checked 1 October 2024; the record gives no year for the stated thing, so the check date is used ([source, 2024-10-01](https://dpimap.org/data/)).
 
 ### Ethiopia: 2 Nascent
 
@@ -330,12 +348,6 @@ Mauritius's InfoHighway exchange has run since 2016, but no source since 2023 sa
 
 Not established: No source since October 2023 dates InfoHighway's service, connections or use; its only facts carry the page's 2016 date.
 
-### Botswana: No evidence
-
-Nothing found names a government data exchange platform or says there is none, so no stage is set.
-
-Not established: Nothing found names a government data exchange platform, or says there is none.
-
 ### Burkina Faso: No evidence
 
 Nothing found names a government data exchange platform or says there is none, so no stage is set.
@@ -348,19 +360,7 @@ Nothing found names a government data exchange platform or says there is none, s
 
 Not established: Nothing found names a government data exchange platform, or says there is none.
 
-### Chad: No evidence
-
-Nothing found names a government data exchange platform or says there is none, so no stage is set.
-
-Not established: Nothing found names a government data exchange platform, or says there is none.
-
 ### Equatorial Guinea: No evidence
-
-Nothing found names a government data exchange platform or says there is none, so no stage is set.
-
-Not established: Nothing found names a government data exchange platform, or says there is none.
-
-### Eswatini: No evidence
 
 Nothing found names a government data exchange platform or says there is none, so no stage is set.
 

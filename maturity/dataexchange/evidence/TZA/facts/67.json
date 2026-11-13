@@ -1,0 +1,20 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {"system": "Jamii X-Change", "country_label": "TZA", "class": "exchange", "platform": "ESB", "owner": "e-Government Agency (eGA)", "tiers": ""}
+ ],
+ "note": "Database record only: its answers are held, contradicted by a primary, or not aspects the study holds.",
+ "claims": {
+  "dpimap-185688ede6": "nothing: held as TZA-006",
+  "dpimap-f2d77eb2d9": "nothing: not an aspect the study assesses",
+  "dpimap-795058b2fb": "nothing: not an aspect the study assesses",
+  "dpimap-ea25fc61e8": "nothing: not an aspect the study assesses",
+  "dpimap-8b42ebcf50": "nothing: not an aspect the study assesses",
+  "dpimap-7e8df75e79": "nothing: not an aspect the study assesses",
+  "dpimap-0e9229fe80": "nothing: not an aspect the study assesses",
+  "dpimap-ca72c0d7e4": "nothing: not an aspect the study assesses",
+  "dpimap-1f0c0c86eb": "nothing: not an aspect the study assesses",
+  "dpimap-d65630e3f2": "nothing: not an aspect the study assesses"
+ }
+}

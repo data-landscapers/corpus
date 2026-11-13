@@ -1,0 +1,21 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {"system": "SITA", "country_label": "ZAF", "class": "exchange", "platform": "ESB", "owner": "Government Information Technology Officer's Council (GITOC) and SITA", "tiers": ""}
+ ],
+ "note": "Database record only: its link is a home page, and the other answers are not aspects the study holds.",
+ "claims": {
+  "dpimap-34560ab662": "nothing: the link is a home page",
+  "dpimap-3a4416f132": "nothing: not an aspect the study assesses",
+  "dpimap-1fa91e5ee1": "nothing: not an aspect the study assesses",
+  "dpimap-2de769ae57": "nothing: not an aspect the study assesses",
+  "dpimap-a17cae37be": "nothing: not an aspect the study assesses",
+  "dpimap-ca67719c1d": "nothing: not an aspect the study assesses",
+  "dpimap-3f55419104": "nothing: not an aspect the study assesses",
+  "dpimap-8dd6b2134e": "nothing: not an aspect the study assesses",
+  "dpimap-90a45b0758": "nothing: not an aspect the study assesses",
+  "dpimap-348635cfcd": "nothing: not an aspect the study assesses",
+  "dpimap-8b255396b5": "nothing: the link is a home page"
+ }
+}

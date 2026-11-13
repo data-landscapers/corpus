@@ -1,0 +1,19 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {"system": "UG Hub Systems Integration Platform", "country_label": "UGA", "class": "exchange", "platform": "WSO2", "owner": "National Information Technology Authority - Uganda", "tiers": ""}
+ ],
+ "note": "Database record only: its answers are held, contradicted by a primary, or not aspects the study holds.",
+ "claims": {
+  "dpimap-8ad9f58fce": "nothing: held as UGA-001",
+  "dpimap-1070dfb087": "nothing: not an aspect the study assesses",
+  "dpimap-8a33eeb585": "nothing: not an aspect the study assesses",
+  "dpimap-86befed4dd": "nothing: not an aspect the study assesses",
+  "dpimap-87c7aa7741": "nothing: not an aspect the study assesses",
+  "dpimap-47c1019b45": "nothing: not an aspect the study assesses",
+  "dpimap-874c69f70d": "nothing: not an aspect the study assesses",
+  "dpimap-d684cdd9c2": "nothing: not an aspect the study assesses",
+  "dpimap-b0e000e8d5": "nothing: held as UGA-014"
+ }
+}

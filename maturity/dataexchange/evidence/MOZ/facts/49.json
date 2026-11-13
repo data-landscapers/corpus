@@ -1,0 +1,21 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Exchange System",
+   "country_label": "Mozambique",
+   "class": "exchange",
+   "platform": "ESB",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": "Underway already held as MOZ-004.",
+ "claims": {
+  "dpimap-5970052d37": "nothing: aspect not assessed",
+  "dpimap-e2eee8cb5b": "nothing: aspect not assessed",
+  "dpimap-be89b4c875": "nothing: aspect not assessed",
+  "dpimap-a6964f0b4f": "nothing: held as MOZ-004"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The DPI Map (UCL IIPP) lists Mauritania's data exchange system as planned or piloted; checked 2024-10, so as_of is that check date.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Data Exchange System",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Exchange System",
+   "country_label": "Mauritania",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministere de la Transformation Numerique",
+   "tiers": ""
+  }
+ ],
+ "note": "",
+ "claims": {
+  "dpimap-e710f4aa20": "nothing: aspect not assessed",
+  "dpimap-1461ab1dff": "nothing: aspect not assessed",
+  "dpimap-83675b9f9d": "fact"
+ }
+}

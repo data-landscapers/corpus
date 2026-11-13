@@ -1,0 +1,38 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The DPI Map (UCL IIPP) lists Nigeria's NGEA data exchange system, an API gateway, as implemented and fully operational; checked 2024-10, so as_of is that check date.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "NGEA (Nigeria Government Enterprise Architecture)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NGEA (Nigeria Government Enterprise Architecture)",
+   "country_label": "Nigeria",
+   "class": "exchange",
+   "platform": "API Gateway",
+   "owner": "NGEA Governing Committee",
+   "tiers": ""
+  }
+ ],
+ "note": "",
+ "claims": {
+  "dpimap-663dd955ad": "nothing: aspect not assessed",
+  "dpimap-b516c3a8e6": "nothing: aspect not assessed",
+  "dpimap-3ead736f63": "nothing: aspect not assessed",
+  "dpimap-b288d212ea": "nothing: aspect not assessed",
+  "dpimap-a6a2643c80": "nothing: aspect not assessed",
+  "dpimap-50003e6297": "nothing: aspect not assessed",
+  "dpimap-c983edeb97": "nothing: aspect not assessed",
+  "dpimap-b6ca6102b2": "nothing: aspect not assessed",
+  "dpimap-70861a1b18": "nothing: aspect not assessed",
+  "dpimap-d6b623ce8b": "fact"
+ }
+}

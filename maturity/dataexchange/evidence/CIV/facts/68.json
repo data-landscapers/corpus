@@ -1,0 +1,15 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "IAN (Integrated Administration Network)", "country_label": "Cote d'Ivoire", "class": "exchange", "platform": "", "owner": "Public", "tiers": ""}
+  ],
+  "note": "DPI Map's planned status is overtaken by primary rows showing the platform launched; other lines are not aspects.",
+  "claims": {
+    "dpimap-a127f66279": "nothing: contradicted by CIV-001",
+    "dpimap-4ae261ae8a": "nothing: scope not an aspect",
+    "dpimap-1a4e66f783": "nothing: governing entity not an aspect",
+    "dpimap-6d4c301afe": "nothing: ownership not an aspect",
+    "dpimap-9720d3226f": "nothing: audit mechanism not an aspect"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Database record only; its 'implemented' line links a government network operations page, not an exchange platform.",
+  "claims": {
+    "dpimap-f0409dc88b": "nothing: link is a network operations page, not the exchange platform",
+    "dpimap-9f8c28b1b4": "nothing: sector scope is not a study aspect",
+    "dpimap-f130c32ed3": "nothing: governing entity is not a study aspect",
+    "dpimap-4be48fe114": "nothing: ownership is not a study aspect",
+    "dpimap-9da32bbe33": "nothing: resting on a network operations page, and not a count of connected systems"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice",
+     "fact": "The DPI Map (UCL IIPP) lists Botswana's data exchange system as implemented, fully operational and in use, linking the Department of Shared Digital Services page, checked 1 October 2024; the line gives no date for the system, so as_of is the check date.",
+     "as_of": "2024-10-01", "date_precision": "day", "system": "Data Exchange System", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Data Exchange System", "country_label": "Botswana", "class": "exchange", "platform": "", "owner": "Public", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "dpimap-33f042579c": "The DPI Map (UCL IIPP) lists Botswana's data exchange system as implemented, fully operational and in use, linking the Department of Shared Digital Services page, checked 1 October 2024; the line gives no date for the system, so as_of is the check date.",
+    "dpimap-4010a41694": "nothing: scope not an aspect",
+    "dpimap-1f76b1d2e9": "nothing: governing entity not an aspect",
+    "dpimap-057a0f23a2": "nothing: ownership not an aspect",
+    "dpimap-ed94bc5b44": "nothing: no count of connected bodies, so not reach"
+  }
+}

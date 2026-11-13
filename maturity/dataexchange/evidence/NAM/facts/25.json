@@ -1,0 +1,25 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NamX",
+   "country_label": "Namibia",
+   "class": "exchange",
+   "platform": "UXP",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  }
+ ],
+ "note": "In service already held as NAM-001.",
+ "claims": {
+  "dpimap-5e60f5707e": "nothing: aspect not assessed",
+  "dpimap-3bcc17d8cb": "nothing: aspect not assessed",
+  "dpimap-eea10ea350": "nothing: aspect not assessed",
+  "dpimap-4e09b59ec8": "nothing: aspect not assessed",
+  "dpimap-ae991f29d2": "nothing: aspect not assessed",
+  "dpimap-dae64240ce": "nothing: aspect not assessed",
+  "dpimap-8fa250fa50": "nothing: aspect not assessed",
+  "dpimap-895a4359ce": "nothing: held as NAM-001"
+ }
+}

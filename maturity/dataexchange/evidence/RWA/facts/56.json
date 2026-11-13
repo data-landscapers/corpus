@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RGEA",
+   "country_label": "Rwanda",
+   "class": "exchange",
+   "platform": "ESB",
+   "owner": "RISA",
+   "tiers": ""
+  }
+ ],
+ "note": "In service already held as RWA-009.",
+ "claims": {
+  "dpimap-d82c6f2eec": "nothing: aspect not assessed",
+  "dpimap-cba6c1d459": "nothing: aspect not assessed",
+  "dpimap-79c92f4d54": "nothing: aspect not assessed",
+  "dpimap-6b9b6622f4": "nothing: aspect not assessed",
+  "dpimap-46c48a3ab6": "nothing: aspect not assessed",
+  "dpimap-89b704c7b5": "nothing: aspect not assessed",
+  "dpimap-34183ccdcc": "nothing: aspect not assessed",
+  "dpimap-826b53d960": "nothing: aspect not assessed",
+  "dpimap-84f0ed8f2c": "nothing: held as RWA-009"
+ }
+}

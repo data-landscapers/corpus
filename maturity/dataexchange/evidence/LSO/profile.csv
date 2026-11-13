@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,exchange,platform,coverage,underway,2026-10-20,LSO-001;LSO-002,,
+LSO,exchange,platform,coverage,inservice,2024-10-01,LSO-003,LSO-002=underway;LSO-001=underway,
 LSO,exchange,reach,coverage,,,,,nothing found
 LSO,exchange,usage,coverage,,,,,nothing found

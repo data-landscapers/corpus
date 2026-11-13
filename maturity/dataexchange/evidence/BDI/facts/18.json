@@ -1,0 +1,13 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Data Exchange System", "country_label": "Burundi", "class": "exchange", "platform": "", "owner": "Public", "tiers": ""}
+  ],
+  "note": "DPI Map status is Planned/Piloted, already held from the World Bank appraisal it links; other lines are not aspects.",
+  "claims": {
+    "dpimap-541a6d4a98": "nothing: held as BDI-002",
+    "dpimap-88794f9d76": "nothing: governing entity not an aspect",
+    "dpimap-8de5ba26be": "nothing: ownership not an aspect"
+  }
+}

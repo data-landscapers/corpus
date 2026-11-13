@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rahaka",
+   "country_label": "Madagascar",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only database line; platform in service already held as MDG-005.",
+ "claims": {
+  "dpimap-b664fb3b40": "nothing: aspect not assessed",
+  "dpimap-bb23eaa7c3": "nothing: aspect not assessed",
+  "dpimap-67a9a86460": "nothing: aspect not assessed",
+  "dpimap-c7cb5662c5": "nothing: aspect not assessed",
+  "dpimap-b533f29eeb": "nothing: aspect not assessed",
+  "dpimap-d0c6351918": "nothing: enrolment not assessed",
+  "dpimap-7845265fad": "nothing: aspect not assessed",
+  "dpimap-4f99a95596": "nothing: aspect not assessed",
+  "dpimap-d3b3f1c26d": "nothing: held as MDG-005"
+ }
+}

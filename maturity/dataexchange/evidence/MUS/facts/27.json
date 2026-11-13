@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Infohighway",
+   "country_label": "Mauritius",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "E-Government Task Force",
+   "tiers": ""
+  }
+ ],
+ "note": "InfoHighway in service already held as MUS-001.",
+ "claims": {
+  "dpimap-a49515390e": "nothing: aspect not assessed",
+  "dpimap-21420c38c5": "nothing: aspect not assessed",
+  "dpimap-90647a32d4": "nothing: aspect not assessed",
+  "dpimap-345d9ba7ba": "nothing: aspect not assessed",
+  "dpimap-f18814ce17": "nothing: aspect not assessed",
+  "dpimap-01b8ab520b": "nothing: aspect not assessed",
+  "dpimap-33febde6df": "nothing: aspect not assessed",
+  "dpimap-4d66d8af57": "nothing: held as MUS-001",
+  "dpimap-c2c7d18cae": "nothing: held as MUS-003"
+ }
+}

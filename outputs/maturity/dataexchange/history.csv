@@ -80,3 +80,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,TZA,dpi.exchange--national-data-exchange-system,fact,4,4,TZA-011;TZA-001,"e-GA counts more than 180 institutions and 200 systems on GovESB in June 2025; stays at 4, no exchange figure"
 2026-11-11,ZMB,dpi.exchange--national-data-exchange-system,fact,5,5,ZMB-024;ZMB-023,minister: 532 services on the Government Service Bus and 1.2 million transactions in 2025; stays at 5 on newer figures
 2026-11-12,SDN,dpi.exchange--national-data-exchange-system,fact,3,5,SDN-006;SDN-007;SDN-008,"Baldna home page of 11 November 2026 counts 48+ institutions and 265,785 transactions: 3 to 5"
+2026-11-13,LSO,dpi.exchange--national-data-exchange-system,fact,2,2,LSO-002;LSO-001,"DPI Map (2026-11): lists a data exchange system as implemented (checked October 2024); the October 2026 workshop planning an X-Road pilot is newer and stands, so stays at 2"
+2026-11-13,NGA,dpi.exchange--national-data-exchange-system,fact,2,2,NGA-003;NGA-001,"DPI Map (2026-11): lists the NGEA API gateway as implemented (checked October 2024); the 2025-2026 primaries on NGDX being rolled out are newer and stand, so stays at 2"
+2026-11-13,BWA,dpi.exchange--national-data-exchange-system,fact,no evidence,2,BWA-001,"DPI Map (2026-11): a data exchange system implemented and in use (checked October 2024), no connected bodies named: no evidence to 2"
+2026-11-13,SWZ,dpi.exchange--national-data-exchange-system,fact,no evidence,2,SWZ-001,DPI Map (2026-11): a data exchange system planned or piloted (checked October 2024): no evidence to 2
+2026-11-13,TCD,dpi.exchange--national-data-exchange-system,fact,no evidence,2,TCD-001,DPI Map (2026-11): a data exchange system planned or piloted (checked October 2024): no evidence to 2

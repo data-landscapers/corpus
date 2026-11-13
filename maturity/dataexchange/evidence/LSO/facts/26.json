@@ -1,0 +1,16 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "UCL IIPP's DPI Map lists Lesotho's data exchange system as Implemented (fully operational and in use), citing an AfDB e-government infrastructure completion report, as checked on 2024-10-01; the date is the check date, the line gives no other.", "as_of": "2024-10-01", "date_precision": "day", "system": "Data Exchange System", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Data Exchange System", "country_label": "Lesotho", "class": "exchange", "platform": "", "owner": "Public", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "dpimap-1b43fbda14": "fact",
+    "dpimap-f25b5ec957": "nothing: sector scope not assessed",
+    "dpimap-97145b6736": "nothing: governing entity not assessed",
+    "dpimap-8f01d960ec": "nothing: ownership not assessed"
+  }
+}

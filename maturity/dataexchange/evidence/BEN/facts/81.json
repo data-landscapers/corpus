@@ -1,0 +1,20 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "X-Road BJ", "country_label": "Benin", "class": "exchange", "platform": "UXP", "owner": "Public", "tiers": ""}
+  ],
+  "note": "Everything the DPI Map lists for Benin on the study's aspects is already held from primaries.",
+  "claims": {
+    "dpimap-b6450d6d52": "nothing: held as BEN-001",
+    "dpimap-95feb3c877": "nothing: architecture not an aspect",
+    "dpimap-d774fdb139": "nothing: scope not an aspect",
+    "dpimap-754ef63885": "nothing: real-time sharing not an aspect",
+    "dpimap-92a12d6b62": "nothing: governing entity not an aspect",
+    "dpimap-e63d2697fe": "nothing: enrolment information not an aspect",
+    "dpimap-06fabf67ff": "nothing: participants not an aspect",
+    "dpimap-d16471b551": "nothing: audit mechanism not an aspect",
+    "dpimap-ba6bfe34ee": "nothing: held as BEN-003",
+    "dpimap-c8d693c56c": "nothing: held as BEN-004"
+  }
+}

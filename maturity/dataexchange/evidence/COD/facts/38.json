@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Data Exchange System", "country_label": "DR Congo", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The DPI Map's Implemented status links a third-party consultation brief, not the system; no aspect fact taken.",
+  "claims": {
+    "dpimap-d2db3c7730": "nothing: link is a third-party consultation brief",
+    "dpimap-c99f84e792": "nothing: single-sector health scope not an aspect"
+  }
+}

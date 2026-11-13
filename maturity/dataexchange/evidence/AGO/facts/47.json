@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "SEPE", "country_label": "Angola", "class": "exchange", "platform": "ESB", "owner": "Public", "tiers": ""}
+  ],
+  "note": "The DPI Map's status line links only the SEPE home page, not the system; no aspect fact taken.",
+  "claims": {
+    "dpimap-ebb403f700": "nothing: link is a home page",
+    "dpimap-29d63a7cbe": "nothing: architecture not an aspect",
+    "dpimap-3e2d8888b9": "nothing: scope not an aspect",
+    "dpimap-94b9087c47": "nothing: governing entity not an aspect",
+    "dpimap-a752eb2b46": "nothing: ownership not an aspect",
+    "dpimap-59db66cdd4": "nothing: enrolment information not an aspect",
+    "dpimap-65abad4316": "nothing: participants not an aspect",
+    "dpimap-4d2f69792f": "nothing: no count of connected bodies, so not reach"
+  }
+}

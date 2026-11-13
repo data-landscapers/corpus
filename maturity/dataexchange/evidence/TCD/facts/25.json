@@ -1,0 +1,16 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The DPI Map (UCL IIPP) lists Chad's data exchange system as planned or piloted, checked 1 October 2024; the record gives no year for the stated thing, so the check date is used.", "as_of": "2024-10-01", "date_precision": "day", "system": "Data Exchange System", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Data Exchange System", "country_label": "Chad", "class": "exchange", "platform": "", "owner": "Ministry of Telecommunications and Digital Economy", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "dpimap-9e79759124": "fact",
+    "dpimap-efebea8321": "nothing: sector scope is not a study aspect",
+    "dpimap-b857197ec7": "nothing: governing entity is not a study aspect",
+    "dpimap-07d2ba812d": "nothing: ownership is not a study aspect"
+  }
+}

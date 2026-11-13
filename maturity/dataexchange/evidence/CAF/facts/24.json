@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Data Exchange System", "country_label": "Central African Republic", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "DPI Map says Planned/Piloted, which cannot tell an intention from a platform being built.",
+  "claims": {
+    "dpimap-075e4551e9": "nothing: planned or piloted does not say underway"
+  }
+}

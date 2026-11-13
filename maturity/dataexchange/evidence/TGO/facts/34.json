@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Database record only; the platform status is already held.",
+  "claims": {
+    "dpimap-7ab19e3dbd": "nothing: held as TGO-001",
+    "dpimap-ab07fec7fc": "nothing: governing entity is not a study aspect",
+    "dpimap-ccf6f3ba31": "nothing: ownership is not a study aspect"
+  }
+}

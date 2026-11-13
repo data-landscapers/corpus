@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-003;NGA-001",
-      "gaps": "No source found since October 2023 says the platform is in service.",
-      "note": "Rebuild 2026-10-28: NGDX was being rolled out in 2025 and the Government Service Portal pilot integrates with it in 2026. Nothing says it is in service across agencies.",
-      "as_at": "2026-10-28"
+      "gaps": "No source found since October 2023 says the platform is in service. UCL IIPP's DPI Map lists the NGEA API gateway as implemented (checked October 2024), but names no bodies connected, and the 2025 and 2026 primaries describe NGDX as being set up and rolled out.",
+      "note": "Reassessed 2026-11-13 on DPI Map's line that the NGEA API gateway is implemented (checked October 2024): the newer primaries of 2025 and 2026 describe NGDX as being rolled out, with its first X-Road instance not yet live, and stand. Nothing says a platform carries data between agencies.",
+      "as_at": "2026-11-13"
     }
   ]
 }

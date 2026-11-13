@@ -1,0 +1,16 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {"system": "Data Exchange System", "country_label": "ZMB", "class": "exchange", "platform": "", "owner": "SMART Zambia Institute in Office of the President", "tiers": ""}
+ ],
+ "note": "Database record only: its answers are contradicted by a primary or are not aspects the study holds.",
+ "claims": {
+  "dpimap-1877766fa4": "nothing: contradicted by ZMB-001",
+  "dpimap-781a91c2c6": "nothing: not an aspect the study assesses",
+  "dpimap-c1ec0a20e2": "nothing: not an aspect the study assesses",
+  "dpimap-c141f60d22": "nothing: not an aspect the study assesses",
+  "dpimap-1559d67903": "nothing: not an aspect the study assesses",
+  "dpimap-be006d4060": "nothing: not an aspect the study assesses"
+ }
+}

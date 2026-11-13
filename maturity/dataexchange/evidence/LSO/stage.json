@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "LSO-002;LSO-001",
-      "gaps": "No source found since October 2023 says the platform is in service.",
-      "note": "Rebuild 2026-10-28: an X-Road pilot was being planned in October 2026. Nothing says it is in service.",
-      "as_at": "2026-10-28"
+      "gaps": "No source found since October 2023 says the platform is in service. UCL IIPP's DPI Map lists a data exchange system as implemented (checked October 2024), but names no bodies connected, and the ministry's October 2026 workshop was still planning an X-Road pilot.",
+      "note": "Reassessed 2026-11-13 on DPI Map's line that a data exchange system is implemented (checked October 2024): the ministry's October 2026 workshop planning an X-Road pilot is newer and from a primary, so it stands. Nothing says a platform carries data between public bodies.",
+      "as_at": "2026-11-13"
     }
   ]
 }

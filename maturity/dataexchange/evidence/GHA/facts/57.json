@@ -1,0 +1,17 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Data Exchange System", "country_label": "Ghana", "class": "exchange", "platform": "", "owner": "Public", "tiers": ""}
+  ],
+  "note": "Database record only; its status claim is already held and the other lines are not aspects of this study.",
+  "claims": {
+    "dpimap-a27daf0c3d": "nothing: held as GHA-002",
+    "dpimap-86c3d1b29e": "nothing: sector scope not assessed",
+    "dpimap-a159938bbb": "nothing: governing entity not assessed",
+    "dpimap-24b5b5b8a9": "nothing: ownership not assessed",
+    "dpimap-dc42f65022": "nothing: enrolment information not assessed",
+    "dpimap-111598d8c9": "nothing: permitted participants not assessed",
+    "dpimap-3177d63cdf": "nothing: audit mechanism not assessed"
+  }
+}

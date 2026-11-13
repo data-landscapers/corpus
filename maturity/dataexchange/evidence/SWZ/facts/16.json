@@ -1,0 +1,15 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The DPI Map (UCL IIPP) lists Eswatini's data exchange system as planned or piloted, checked 1 October 2024; the record gives no year for the stated thing, so the check date is used.", "as_of": "2024-10-01", "date_precision": "day", "system": "Data Exchange System", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Data Exchange System", "country_label": "Eswatini", "class": "exchange", "platform": "", "owner": "e-Government Unit", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "dpimap-fcb7b8b72c": "fact",
+    "dpimap-76b9d18e06": "nothing: governing entity is not a study aspect",
+    "dpimap-eb937ed5c0": "nothing: ownership is not a study aspect"
+  }
+}

@@ -1,0 +1,21 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Exchange System",
+   "country_label": "Malawi",
+   "class": "exchange",
+   "platform": "ESB",
+   "owner": "Ministry of Information and Digitalization",
+   "tiers": ""
+  }
+ ],
+ "note": "Underway already held as MWI-001.",
+ "claims": {
+  "dpimap-3b31a52455": "nothing: aspect not assessed",
+  "dpimap-b58fa28c3c": "nothing: aspect not assessed",
+  "dpimap-582fc9297d": "nothing: aspect not assessed",
+  "dpimap-ae6b1585bc": "nothing: held as MWI-001"
+ }
+}

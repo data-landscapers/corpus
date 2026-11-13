@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Database record only; its status line links a services portal and the platform is already held.",
+  "claims": {
+    "dpimap-f1ca630f90": "nothing: held as SEN-001",
+    "dpimap-1f4bae31b0": "nothing: sector scope is not a study aspect",
+    "dpimap-43c939aeae": "nothing: governing entity is not a study aspect",
+    "dpimap-647552e19e": "nothing: ownership is not a study aspect"
+  }
+}

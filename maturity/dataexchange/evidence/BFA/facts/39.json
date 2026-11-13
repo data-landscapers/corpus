@@ -1,0 +1,16 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Data Exchange System", "country_label": "Burkina Faso", "class": "exchange", "platform": "", "owner": "Public", "tiers": ""}
+  ],
+  "note": "The DPI Map's Implemented status links a World Bank project page, not the system; no aspect fact taken.",
+  "claims": {
+    "dpimap-1ade665b42": "nothing: link is a World Bank project page",
+    "dpimap-53a8a13382": "nothing: scope not an aspect",
+    "dpimap-c0cbe5eb15": "nothing: governing entity not an aspect",
+    "dpimap-6f1a0391ea": "nothing: ownership not an aspect",
+    "dpimap-0b29a8fbab": "nothing: audit mechanism not an aspect",
+    "dpimap-f2ab111a68": "nothing: no count of connected bodies, so not reach"
+  }
+}
