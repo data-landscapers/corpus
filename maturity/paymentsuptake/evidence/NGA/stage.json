@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "3",
+      "stage": "4",
       "share": "half",
-      "target": "",
+      "target": "target",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-004;NGA-002",
-      "gaps": "No survey found since November 2023 puts adults with an account at 79% or more.",
-      "note": "EFInA's 2026 survey, weighted by the statistics bureau, puts formal financial inclusion at 73% of adults, over half. Nothing found puts it at 79% or more.",
-      "as_at": "2026-11-12"
+      "stage_sources": "NGA-010;NGA-009",
+      "gaps": "NITDA's 2026 household survey (86.5%) and EFInA's 2026 survey (73% formally included) disagree, and NITDA says financial accounts without naming bank or mobile money; no survey found gives the share of adults paying digitally.",
+      "note": "Reassessed 2026-11-13, 3 to 4: NITDA's Tech Outlook survey of November 2026 puts adults holding financial accounts at 86.5% (NGA-010), the newest survey and over four in five. No survey gives the share paying digitally at 79% or more, so not 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

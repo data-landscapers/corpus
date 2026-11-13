@@ -85,3 +85,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,TUN,dpi.pay--population-uptake,fact,unplaced,2,TUN-002;TUN-003,Global Findex puts adults with an account at 37.8% in 2024 (TUN-002/003)
 2026-11-12,RWA,dpi.pay--population-uptake,fact,3,4,RWA-003;RWA-002,"FinScope 2024 finds formal inclusion at 92% of adults (RWA-003, hand-read) and registered mobile money at 77% (RWA-002); formal figure read as account holding as Nigeria's"
 2026-11-12,UGA,dpi.pay--population-uptake,fact,3,3,UGA-002,"Global Findex 2025 puts adults with an account at 73% in 2024 (UGA-002), newer than FinScope 2023; stage held"
+2026-11-13,NGA,dpi.pay--population-uptake,fact,3,4,NGA-010;NGA-009,"NITDA Tech Outlook Report 2026 household survey: 86.5% of adults hold financial accounts, newest survey, over four in five: 3 to 4"

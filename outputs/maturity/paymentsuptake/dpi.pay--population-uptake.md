@@ -21,8 +21,8 @@ The World Bank's Global Findex 2025 puts account ownership at 79% of adults worl
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 10 |
-| 3 Established | 10 |
+| 4 Operating | 11 |
+| 3 Established | 9 |
 | 2 Nascent | 12 |
 | 1 Absent | 1 |
 | Unplaced | 7 |
@@ -71,6 +71,13 @@ The regional central bank put access to financial services at 79.5% at the end o
 A 2024 central bank survey found 84.8% of adults with a formal account; the share paying digitally was not found.
 
 - The Central Bank of Kenya's 2024 FinAccess Household Survey puts formal financial access (an active account in own name with a formal provider, covering banks, mobile money, SACCOs and other formal providers) at 84.8 percent of adults ([source, 2024](https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf)).
+
+### Nigeria: 4 Operating
+
+A 2026 government household survey put adults holding financial accounts at 86.5%; the share paying digitally was not found.
+
+- The same report puts adults holding financial accounts at 86.5 per cent, above four in five; the document says accounts, not bank or mobile money accounts specifically ([source, 2026-11-11](https://von.gov.ng/nitda-unveils-nigeria-tech-outlook-report/)).
+- NITDA's Nigeria Tech Outlook Report 2026, from a survey of 2,147 households, says 86.5 per cent of Nigerian adults hold financial accounts ([source, 2026-11-11](https://von.gov.ng/nitda-unveils-nigeria-tech-outlook-report/)).
 
 ### Rwanda: 4 Operating
 
@@ -134,13 +141,6 @@ A 2025 national survey found 75.6% of adults with a bank account; no survey foun
 
 - The Namibia Statistics Agency's 2025 Namibia Financial Inclusion Survey (fieldwork October-November 2025) finds 75.6 percent of adults aged 15 and over hold a bank account, with 18.3 percent holding a smart card account ([source, 2025](https://nsa.org.na/wp-content/uploads/2026/07/2025-Namibia-Financial-Inclusion-Survey-Report.web_.pdf)).
 - World Bank lead economist Leora Klapper says 73% of Namibian adults now own a financial account, citing Global Findex 2025 figures as reported by The Brief ([source, 2025-10-22](https://thebrief.com.na/2025/10/most-namibians-struggle-to-access-emergency-funds-world-bank/)).
-
-### Nigeria: 3 Established
-
-EFInA's 2026 survey put formal financial inclusion at 73% of adults; no survey found puts account holding at four in five.
-
-- EFInA's A2F 2026 survey, released 16 September 2026, puts formal financial inclusion of Nigerian adults at 73%, about 87.2 million people ([source, 2026-09-16](https://independent.ng/nigerias-financial-inclusion-reaches-79-as-efinas-a2f-2026-survey-points-to-next-challenge/)).
-- The same EFInA A2F 2026 survey, fieldwork April-June 2026, puts formal financial inclusion at 73% of adults, above half ([source, 2026-06](https://nairametrics.com/2026/10/05/nigeria-hits-73-financial-inclusion-target-but-60-4-million-adults-remain-vulnerable/)).
 
 ### Tanzania: 3 Established
 
