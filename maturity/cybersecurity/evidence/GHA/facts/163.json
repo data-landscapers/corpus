@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-01-gha-csa-cybersecurity-amendment-bill-2025-consultation-page",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Cyber Security Authority is named as the body regulating Ghana's cybersecurity ecosystem under the Cybersecurity Act, 2020 (Act 1038).",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Cyber Security Authority (CSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority (CSA)",
+   "country_label": "Ghana",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

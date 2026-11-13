@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-rwa-rwandas-data-governance-navigating-data-governance-in-the-public-secto",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Brookings' Foresight Africa 2024 viewpoint says Rwanda's National Cyber Security Authority (NCSA) plays a crucial role in ensuring adherence to data protection laws and securing cross-border data flows.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Cyber Security Authority (NCSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cyber Security Authority (NCSA)",
+   "country_label": "Rwanda",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

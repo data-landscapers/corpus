@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-12-gha-communication-ministry-seeks-private-sector-input-on-cybersecurity-act",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "The CSA's acting Director-General Divine Selasie Agbetsi issued a public caution on 11 December 2025 about links and a festive-season rise in cybercrime.",
+   "as_of": "2025-12-11",
+   "date_precision": "day",
+   "system": "Cyber Security Authority (CSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority (CSA)",
+   "country_label": "Ghana",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

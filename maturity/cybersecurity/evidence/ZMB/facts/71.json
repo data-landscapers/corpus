@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-02-zmb-gni-statement-on-zambia-s-new-cyber-laws-a-blow-to-freedom-of-expressi",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Global Network Initiative says Zambia's Cyber Security Act of 2025, signed by President Hichilema on 8 April 2025, sets up a Cyber Security Agency under the President and Cyber Incident Response Teams.",
+   "as_of": "2025-04-08",
+   "date_precision": "day",
+   "system": "Cyber Security Agency",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Agency",
+   "country_label": "Zambia Cyber Security Agency",
+   "class": "response",
+   "platform": "",
+   "owner": "Office of the President",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

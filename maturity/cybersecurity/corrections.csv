@@ -45,3 +45,9 @@ TUN,002,revalued: recorded,"A count of incidents declared to it: recording, not 
 TUN,004,revalued: recorded,"A count of attacks recorded: recording, not dealing with incidents (question 4, Bill 2026-10-30)."
 TUN,014,revalued: recorded,"A count of incidents declared: recording, not dealing with incidents (question 4, Bill 2026-10-30)."
 TUN,022,revalued: recorded,"A count of attacks recorded: recording, not dealing with incidents (question 4, Bill 2026-10-30)."
+GHA,057,removed,Stage 4c: a CSA caution of December 2025; the authority's alerts are held and the cell rests on later ones
+GHA,058,removed,"Stage 4c: the CSA named as regulator under Act 1038, a body held"
+MUS,020,removed,"Stage 4c: the 2021 Act creating CERT-MU, a body held as MUS-013"
+NGA,032,removed,"Stage 4c: the 2024 amendment's reporting duty to the national CERT; a body held, and designation held"
+RWA,015,removed,"Stage 4c: a viewpoint naming the NCSA, a body held"
+ZMB,013,removed,"Stage 4c: the 2025 Act setting up the agency, a body held as ZMB-008"

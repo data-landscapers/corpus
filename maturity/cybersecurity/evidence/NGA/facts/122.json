@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-16-nga-cybercrimes-amendment-act-exposes-lapses-in-legislative-process",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "PLAC Legist says the Cybercrimes Act as amended in February 2024 requires operators of computer systems to report attacks to the National CERT Coordination Center through sectoral CERTs, and makes the Office of the National Security Adviser responsible for establishing sectoral CERTs and security operations centres that feed into the national CERT.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "National CERT Coordination Center",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National CERT Coordination Center",
+   "country_label": "National Computer Emergency Response Team (CERT) Coordination Center",
+   "class": "response",
+   "platform": "",
+   "owner": "Office of the National Security Adviser",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
