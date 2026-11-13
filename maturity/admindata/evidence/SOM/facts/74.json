@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-02-som-promoting-innovation-and-digital-transformation-in-somalia",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "UNDP Somalia says the Somali National Bureau of Statistics has delivered administrative data reports, with surveys and censuses, across key development sectors; the source records are not named.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "SNBS administrative data reports",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

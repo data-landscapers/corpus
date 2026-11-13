@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SOM,admin,use,coverage,,,,,nothing held
+SOM,admin,use,coverage,published,2026-04-02,SOM-005,,
 SOM,admin,source,coverage,education;health;justice;other,2024-11,SOM-001;SOM-003,,
 SOM,admin,series,coverage,health,2023-12,SOM-002,,
