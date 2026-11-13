@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-01-nam-rundu-consultation-calls-for-tougher-penalties-in-cybercrime-bill",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "nbc reports the Ministry of Information and Communication Technology is consulting on a draft Cybercrime Bill, with written submissions due by 10 February 2026.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Cybercrime Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

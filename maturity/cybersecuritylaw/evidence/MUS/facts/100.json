@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-mus-cybersecurite-une-nouvelle-reglementation-pour-proteger-les-infrastruc",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "L'Express reports the minister said Mauritius adopted the Cybersecurity and Cybercrime Act in 2021, and that Critical Information Infrastructure Designation Regulations 2026 were promulgated on 20 June 2026.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Cybersecurity and Cybercrime Act 2021",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

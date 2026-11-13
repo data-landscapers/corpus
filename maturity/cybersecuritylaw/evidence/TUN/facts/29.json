@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-19-tun-tunisie-transformation-digitale-l-etat-accelere-les-chantiers-numeriqu",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article says cybercrime and computer security in Tunisia are mainly governed by law no. 2009-04 of 3 February 2009 on cybersecurity (and law no. 2004-575 of 24 June 2004), per IT expert Berhouma Abdeljabbar.",
+   "as_of": "2009-02-03",
+   "date_precision": "day",
+   "system": "Law no. 2009-04 of 3 February 2009 on cybersecurity",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Law no. 2009-04 of 3 February 2009 on cybersecurity",
+   "country_label": "Tunisia",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

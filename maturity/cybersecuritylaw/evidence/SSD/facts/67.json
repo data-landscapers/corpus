@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-24-ssd-cybercrime-bill-faces-backlash-over-rights-concerns",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "Radio Tamazuj reports the Cybercrime and Computer Misuse Bill 2025, building on the 2021 Provisional Order, was moved to its third reading in the Transitional National Legislative Assembly on Thursday 23 October 2025.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "Cybercrime and Computer Misuse Bill 2025",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrime and Computer Misuse Bill 2025",
+   "country_label": "South Sudan",
+   "class": "law",
+   "platform": "",
+   "owner": "Transitional National Legislative Assembly",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
