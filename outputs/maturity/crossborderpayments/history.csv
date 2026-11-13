@@ -42,3 +42,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,BDI,dpi.pay--cross-border-functionality,fact,2,4,BDI-007;BDI-005,BANCOBU eNoti international transfers via Thunes to 48 countries (Aug 2025): corridor in service; BRB on PAPSS: 2->4
 2026-11-12,GNB,dpi.pay--cross-border-functionality,fact,unplaced,4,GNB-008;GNB-007;GNB-002,Revolut to Orange Money and MTN wallets in Guinea-Bissau (May 2024): named corridor in service; on PI-SPI: unplaced->4
 2026-11-12,GIN,dpi.pay--cross-border-functionality,fact,4,4,GIN-002,"Cauridor 2024 payment volume USD 500m is company-wide, not the country's corridors: question 4 not answered; stays 4"
+2026-11-13,GHA,dpi.pay--cross-border-functionality,fact,4,4,GHA-003;GHA-005,"DPI Map (2026-11): lists GhanaPay/GIPS as cross-border capable with no corridor named; adds a source to the corridor already in service, stage stays 4"
+2026-11-13,LBY,dpi.pay--cross-border-functionality,fact,2,2,LBY-001;LBY-002;LBY-003,"DPI Map (2026-11): lists LYPay as cross-border capable with no corridor or partner named; cannot meet stage 3, stage stays 2"

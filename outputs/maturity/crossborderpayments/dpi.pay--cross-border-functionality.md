@@ -329,6 +329,8 @@ A cross-border digital payment corridor was in service in 2025; no source found 
 A cross-border digital payment corridor was under way in 2026; none in service is on record.
 
 - Governor Naji Issa said the project to connect Libya to China's CIPS cross-border payment system has begun, with a pilot phase targeted for early 2027 ([source, 2026-09](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference)).
+- Circular 6 of 2026 of the Central Bank of Libya authorises licensed exchange companies to send direct foreign remittances for companies and small traders via a unified platform, with a USD 100,000 per-transfer and USD 300,000 annual ceiling ([source, 2026-02-19](https://regalert.today/document/circular-6-2026-instructions-for-regulating-direct-foreign-remittances-executed-0f4311d3-a55d-43f0-94bd-8dbfa13d1a66)).
+- The Central Bank of Libya and the People's Bank of China formally agreed that Libyan banks will join China's Cross-Border Interbank Payment System (CIPS), with no start date given ([source, 2026-07-16](https://lana.gov.ly/post.php?id=361748&lang=ar)).
 
 ### Seychelles: 2 Nascent
 

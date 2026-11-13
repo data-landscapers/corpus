@@ -9,9 +9,10 @@
    "reported": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "LBY-001",
-   "gaps": "No source found since October 2023 says: is a corridor in service.",
-   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
+   "stage_sources": "LBY-001;LBY-002;LBY-003",
+   "gaps": "No source found since October 2023 names a cross-border corridor in service; the DPI Map's listing of LYPay as cross-border capable names no corridor or partner country.",
+   "note": "The CIPS link is begun with a pilot targeted for early 2027 and Circular 6 of 2026 licenses direct foreign remittances, so a corridor is under way. No named corridor is in service, so not 3.",
+   "as_at": "2026-11-13"
   }
  ]
 }
