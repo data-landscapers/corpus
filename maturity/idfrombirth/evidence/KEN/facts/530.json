@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-05-ken-gov-t-moves-to-modernise-civil-registration-as-stakeholders-validate-b",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The article says the Births and Deaths Registration Bill 2025, still in validation, is to align civil registration with the proposed allocation of a Unique Personal Identifier at birth.",
+   "as_of": "2026-03-05",
+   "date_precision": "day",
+   "system": "Unique Personal Identifier (UPI) at birth",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

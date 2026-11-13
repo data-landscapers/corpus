@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-nga-from-birth-to-nin-how-lagos-is-building-legal-identity-for-every-child",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "In Lagos and other launched states the e-Birth platform links each newborn registered to the NIN from birth, Governor Sanwo-Olu and the NPC commissioner said at and after the 13 November 2025 launch.",
+   "as_of": "2025-11-13",
+   "date_precision": "day",
+   "system": "e-Birth Registration platform (e-CRVS)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
