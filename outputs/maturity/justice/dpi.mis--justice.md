@@ -320,7 +320,7 @@ In 2024 Sudan's courts kept paper registers and no scanned case files; no later 
 
 Nothing found since 2023 says how courts manage their cases, so no stage is set.
 
-Not established: The only row, the Supreme Court's case-processing software of January 2023, falls before the three-year window. Nothing since November 2023 says how courts manage their cases.
+Not established: The only row, the Supreme Court's case-processing software, dates from January 2023. Nothing since November 2023 says how courts manage their cases.
 
 ### Eritrea: Unplaced
 

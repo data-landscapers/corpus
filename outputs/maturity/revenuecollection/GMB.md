@@ -6,7 +6,7 @@
 
 **Main taxes and duties.** In October 2025 the revenue authority [presented its new tax system to stakeholders ahead of nationwide implementation](<https://standard.gm/gra-introduces-itas-system-to-stakeholders/>). It is to handle registration, filing and payment for income tax, VAT, customs and excise.
 
-**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest held fact: [the one given above](<https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection>).
+**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest fact: [in July 2026 the Deputy Accountant General said the integrated digital payment system already links several commercial banks](<https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection>).
 
 ***Also on file***. [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
 

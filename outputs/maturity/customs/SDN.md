@@ -6,7 +6,7 @@
 
 **Single window.** In December 2025 the government portal said [the first export contract was completed fully electronically on the Baladna platform](<https://sudan.gov.sd/%d8%a8%d8%af%d8%a1-%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d8%a7%d9%84%d9%81%d8%b9%d9%84%d9%8a-%d9%84%d9%85%d8%b9%d8%a7%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1-%d8%a5%d9%84/>). [It links trade, customs, standards, ports, border crossings, tax, Zakat and health clearances as a single window for foreign trade](<https://sudan.gov.sd/%d8%a8%d8%af%d8%a1-%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d8%a7%d9%84%d9%81%d8%b9%d9%84%d9%8a-%d9%84%d9%85%d8%b9%d8%a7%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1-%d8%a5%d9%84/>).
 
-**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://sudanevents.com/index.php/2025/10/04/customs-authority-completes-digital-integration-of-asycuda-with-civil-registry/>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest fact: [in October 2025 the Customs Authority said it had integrated ASYCUDA with the civil registry database through the Baladna platform](<https://sudanevents.com/index.php/2025/10/04/customs-authority-completes-digital-integration-of-asycuda-with-civil-registry/>).
 
 ***Also on file***. [Baladna](<https://sudanevents.com/index.php/2025/10/04/customs-authority-completes-digital-integration-of-asycuda-with-civil-registry/>); [electronic single window (investment)](<https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/>).
 

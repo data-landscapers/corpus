@@ -6,7 +6,7 @@
 
 **Published regularly.** [ARC-ISCW states information from the CRID is disseminated through the monthly Umlindi newsletter and presented at monthly Crop Estimates Committee meetings and to the National Agrometeorological Committee every three months](<https://www.arc.agric.za/arc-iscw/Pages/Earth-Observation.aspx>).
 
-**Reaching farmers.** No source found since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest held fact: [the one given above](<https://www.arc.agric.za/arc-iscw/Pages/Earth-Observation.aspx>).
+**Reaching farmers.** No source found since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest fact: [in August 2026 ARC-ISCW said its Coarse Resolution Imagery Database is used for crop production and grazing capacity estimation](<https://www.arc.agric.za/arc-iscw/Pages/Earth-Observation.aspx>).
 
 ***Also on file***. [GeoMaize](<https://digitalearthafrica.org/en_za/geomaize-turning-satellite-data-into-smarter-farming-in-south-africa/>).
 
