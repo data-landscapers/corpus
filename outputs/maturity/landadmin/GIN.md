@@ -2,11 +2,11 @@
 
 ## Land
 
-**System in service.** [Agronews Guinée reports that on 6 October 2025 the government launched mapping of State agricultural land in Boké, Conakry, Kankan and Kindia, to centralise the data in a national database connected to the future 'e-Foncier rural' digital platform, with a dematerialised agricultural land cadastre among the reform's components](<https://www.agronewsguinee.net/2025/10/reforme-fonciere-lancement-de-la-cartographie-des-terres-agricoles-en-guinee/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**System in service.** [On 6 October 2025 the government launched mapping of State agricultural land in Boké, Conakry, Kankan and Kindia, Agronews Guinée reported](<https://www.agronewsguinee.net/2025/10/reforme-fonciere-lancement-de-la-cartographie-des-terres-agricoles-en-guinee/>). [The data are to be centralised in a national database](<https://www.agronewsguinee.net/2025/10/reforme-fonciere-lancement-de-la-cartographie-des-terres-agricoles-en-guinee/>).
 
-**Maps or valuation.** No source found since October 2023 says the land system joins records to survey maps or valuation. The nearest held fact: [the one given above](<https://www.agronewsguinee.net/2025/10/reforme-fonciere-lancement-de-la-cartographie-des-terres-agricoles-en-guinee/>).
+**Maps or valuation.** No source found since October 2023 says the land system joins records to survey maps or valuation. The nearest held fact: [the reform launched in October 2025 includes a dematerialised cadastre of agricultural land](<https://www.agronewsguinee.net/2025/10/reforme-fonciere-lancement-de-la-cartographie-des-terres-agricoles-en-guinee/>).
 
-**Linked to tax.** No source found since October 2023 says land or property tax is assessed or paid through the land system. The nearest held fact: [the one given above](<https://www.agronewsguinee.net/2025/10/reforme-fonciere-lancement-de-la-cartographie-des-terres-agricoles-en-guinee/>).
+**Linked to tax.** No source found since October 2023 says land or property tax is assessed or paid through the land system. The nearest held fact: [the national database is to connect to e-Foncier rural, a planned digital platform](<https://www.agronewsguinee.net/2025/10/reforme-fonciere-lancement-de-la-cartographie-des-terres-agricoles-en-guinee/>).
 
 ***Also on file***. None found.
 

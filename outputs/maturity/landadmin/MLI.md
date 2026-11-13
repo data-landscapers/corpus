@@ -2,11 +2,11 @@
 
 ## Land
 
-**System in service.** [A 2026 study of land conflict around Bamako](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>) describes the NINACAD programme. SPRDF, the land reform secretariat, runs it. It is digitising every parcel in Mali under a national cadastral identifier, starting around Bamako. SPRDF claimed 648,057 parcels online in January 2023. It is the only fact held on the subject. No news story or official notice read for this study says more. The documents the earlier cell cited were not read. The systems themselves were not examined.
+**System in service.** [A 2026 study of land conflict around Bamako describes NINACAD, a programme of SPRDF, Mali's land reform secretariat](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>). [In January 2023 SPRDF claimed 648,057 parcels online](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>).
 
-**Maps or valuation.** NINACAD is [a national cadastral identifier given to parcels](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>). It was first deployed around Bamako. It is reached through [a web portal and a phone app](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>).
+**Maps or valuation.** [NINACAD is a national cadastral identifier given to parcels](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>). [SPRDF deployed it first around Bamako](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>).
 
-**Linked to tax.** The nearest fact is [SPRDF's claim of 648,057 parcels online in January 2023](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>).
+**Linked to tax.** No source found since October 2023 says land or property tax is assessed or paid through the land system. The nearest held fact: [SPRDF announced it would digitise all parcels in Mali under NINACAD](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>).
 
 ***Also on file***. None found.
 
