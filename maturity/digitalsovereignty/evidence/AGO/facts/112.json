@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-ago-itu-pp26-policy-statement",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Angola's communications minister said the National Cloud, a Unified Government Cloud on the government's data centres, has been implemented to ensure digital sovereignty and data security.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Unified Government Cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

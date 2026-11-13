@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-nga-nitda-us-chamber-partnership",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "NITDA's Director-General said the agency's sovereign cloud initiative is meant to strengthen national control over critical digital infrastructure and could channel government technology services to locally hosted sovereign cloud.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "NITDA sovereign cloud initiative",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

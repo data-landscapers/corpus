@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-kenya-ai-governance-fragmentation",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The draft AI policy published in July 2026 proposes data localisation for sensitive public-interest datasets and a sovereign cloud and computing strategy, per the Bowmans analysis.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "draft Kenya AI and Other Emerging Technologies Policy, 2026",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

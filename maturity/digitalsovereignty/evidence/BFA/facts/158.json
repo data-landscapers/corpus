@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-bfa-registre-identifiant-unique-lefaso",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Minister Zerbo/Sabane said on 11 November 2026 that the unique identifier platform and its data are hosted in Burkina Faso in the State's data centres and run by Burkinabe engineers.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Registre de l'identifiant unique",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
