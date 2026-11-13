@@ -1,6 +1,6 @@
 # DT-related university facilities and qualifications: STEM graduates
 
-*As at 2026-09-30.*
+*As at 2026-11-13.*
 
 ## The norm
 
@@ -21,20 +21,14 @@ The AU Digital Education Strategy asks for a national research and education net
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 1 |
+| 4 Operating | 0 |
 | 3 Established | 5 |
 | 2 Nascent | 9 |
 | 1 Absent | 5 |
-| Unplaced | 14 |
+| Unplaced | 15 |
 | No evidence | 20 |
 
 ## Countries
-
-### Burkina Faso: 4 Operating
-
-In 2024, STEM graduates were 61.4 per cent of tertiary graduates.
-
-- Graduates in science, technology, engineering and mathematics were 61.4 per cent of tertiary graduates in Burkina Faso in 2024, by UNESCO's series ([source, 2024](https://databrowser.uis.unesco.org/)).
 
 ### Algeria: 3 Established
 
@@ -152,6 +146,12 @@ In 2025, STEM graduates were 2.37 per cent of tertiary graduates.
 - Graduates in science, technology, engineering and mathematics were 2.37 per cent of tertiary graduates in Gambia in 2025, by UNESCO's series ([source, 2025](https://databrowser.uis.unesco.org/)).
 
 ### Benin: Unplaced
+
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
+
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
+
+### Burkina Faso: Unplaced
 
 No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 

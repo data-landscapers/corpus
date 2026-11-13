@@ -1,17 +1,17 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "graduates",
-   "stage": "1",
-   "stem": "official:11.2",
-   "nren": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-001",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-figure.py stemgraduates.",
-   "as_at": "2026-10-18"
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "graduates",
+      "stage": "1",
+      "stem": "official:11.2",
+      "nren": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-001",
+      "gaps": "",
+      "note": "Rebuild: UNESCO's AI readiness profile of June 2026 gives 11.2 per cent, below the 13 per cent line, so stage 1.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

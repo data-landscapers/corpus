@@ -1,16 +1,17 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "graduates",
-   "stage": "2",
-   "stem": "official:20.1083",
-   "nren": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001",
-   "gaps": "The latest figure, 20.1 per cent of tertiary graduates for 2024, is below 27.",
-   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "graduates",
+      "stage": "2",
+      "stem": "official:20.1083",
+      "nren": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001",
+      "gaps": "The latest figure, 20.1 per cent of tertiary graduates for 2024, is below 27.",
+      "note": "Rebuild: 20.1 per cent for 2024 (UNESCO series) is at 13 per cent or more and below 27, so stage 2.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

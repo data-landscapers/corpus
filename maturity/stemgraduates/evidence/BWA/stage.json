@@ -1,16 +1,17 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "graduates",
-   "stage": "1",
-   "stem": "official:10.9365",
-   "nren": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "graduates",
+      "stage": "1",
+      "stem": "official:10.9365",
+      "nren": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-004",
+      "gaps": "",
+      "note": "Rebuild: 10.9 per cent for 2024 (UNESCO series) is below the 13 per cent line, so stage 1.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

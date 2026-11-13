@@ -1,16 +1,17 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "graduates",
-   "stage": "1",
-   "stem": "official:9.7526",
-   "nren": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-001",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "graduates",
+      "stage": "1",
+      "stem": "official:9.7526",
+      "nren": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001",
+      "gaps": "",
+      "note": "Rebuild: 9.75 per cent for 2025 (UNESCO series) is below the 13 per cent line, so stage 1.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

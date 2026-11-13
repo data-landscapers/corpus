@@ -1,16 +1,17 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "graduates",
-   "stage": "4",
-   "stem": "official:61.4018",
-   "nren": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-003",
-   "gaps": "No source found since October 2023 says a national research and education network is in service connecting the public universities.",
-   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "graduates",
+      "stage": "unplaced",
+      "stem": "",
+      "nren": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.",
+      "note": "Rebuild: UNESCO's 61.4 per cent for 2024 is marked suspect in reference/measures.csv, 36 points above 25.3 for 2022, and is removed. The latest good figure, 25.3 for 2022, is before 2023, so unplaced.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -1,16 +1,17 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "graduates",
-   "stage": "1",
-   "stem": "official:2.3663",
-   "nren": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-001",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "graduates",
+      "stage": "1",
+      "stem": "official:2.3663",
+      "nren": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-001",
+      "gaps": "",
+      "note": "Rebuild: 2.37 per cent for 2025 (UNESCO series) is below the 13 per cent line, so stage 1.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

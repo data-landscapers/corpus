@@ -1,16 +1,17 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "graduates",
-   "stage": "unplaced",
-   "stem": "",
-   "nren": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.",
-   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "graduates",
+      "stage": "unplaced",
+      "stem": "",
+      "nren": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.",
+      "note": "Rebuild: latest figure 9.56 per cent for 2018, before 2023, so unplaced holds.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }
