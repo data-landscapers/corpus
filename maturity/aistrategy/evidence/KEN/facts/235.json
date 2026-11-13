@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-12-kenya-ai-governance-fragmentation",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Ministry of Information, Communications and the Digital Economy launched the National Artificial Intelligence Strategy 2025-2030 in March 2025, per the Bowmans analysis.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "National Artificial Intelligence Strategy 2025-2030",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "Cabinet established a Standing Cabinet Committee on Artificial Intelligence in June 2026 to steer implementation of the National AI Strategy, per the Bowmans analysis.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Standing Cabinet Committee on Artificial Intelligence",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
