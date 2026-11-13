@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: does a local institution publish on it. None reports a local study commissioned by government, or evidence sent to a consultation.
+***Not found***. No source found since October 2023 says a local institution published research on digital policy. None says CEDIA's work fed a digital policy, law or strategy.

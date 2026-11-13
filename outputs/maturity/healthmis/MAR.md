@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is a national one in service.
+***Not found***. No source found since October 2023 links the national system to another health system or gives its reporting rate.

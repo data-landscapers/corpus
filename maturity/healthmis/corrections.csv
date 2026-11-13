@@ -3,3 +3,4 @@ SOM,003,completeness,published,removed,"completeness in 111 facilities, not the 
 GHA,003,linked,linked,removed,an application integrating surveillance protocols; no link to the national system stated
 GMB,002,linked,linked,removed,"an MoU signed, not a link in service"
 MLI,004,completeness,published,removed,"91.7% is a survey result of DHIS2 users on data quality, not the national system's reporting completeness or timeliness"
+MAR,001,system,inservice,revalued: system:inservice,"the ministry runs DHIS2 as its national platform for collecting health data, used by national programmes: a national system in service, as GMB-003 and GNB-003 are read"

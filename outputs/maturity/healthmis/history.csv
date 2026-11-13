@@ -81,3 +81,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,SDN,dpi.mis--health,ladder,5,3,SDN-004;SDN-005,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-09,UGA,dpi.mis--health,ladder,5,3,UGA-003;UGA-005;UGA-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-11,NAM,dpi.mis--health,ladder,3,5,NAM-001;NAM-004;NAM-002,"Restaged under message 114 (housekeeping 57): PTracker, a patient-level tracker, submits data to DHIS2 automatically; with 96% published completeness, 3 to 5."
+2026-11-13,MAR,dpi.mis--health,fact,2,3,MAR-001,"Housekeeping 71: MAR-001 (ministry runs DHIS2 as its national platform, used by national programmes) answers question 2 by its own row, read as GMB-003 and GNB-003; revalued underway to inservice; 2 to 3."
+2026-11-13,GHA,dpi.mis--health,fact,2,2,GHA-001;GHA-002,"Housekeeping 71: GHA-002 (LHIMS deployed in about 481 facilities, 16 regions) is deployment, not reporting; GHA-001 has it being replaced by GHIMS; held at 2."

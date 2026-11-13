@@ -1,5 +1,6 @@
 ## 13 November 2026
 
+- Morocco rises from 2 to 3 on the health information system (dpi.mis--health): the health ministry runs DHIS2 as its national platform for health data, used by national programmes. No link to another health system or published reporting rate has been found.
 - Cape Verde rises from 3 to 4 on revenue collection (dpi.pay--revenue-collection): tax returns are filed and taxes paid through the tax directorate's portal, and customs clearance is paid online. Ethiopia, Eswatini, Guinea and Kenya stay at 3, none yet shown paying both the main taxes and customs duties electronically.
 - Botswana, Eswatini and Chad now stand at 2 on the national data exchange system, where none had a stage, on UCL's DPI Map entries for their exchange systems. Botswana's entry says its system is in use but names no connected bodies, so it stays below 3.
 - Guinea's statistics strategy cell falls from 2 to unplaced: its SNDS 2021-2025 ended in 2025 and no successor has been found. The 2 had rested on a 2015 extension of an older strategy, misread as a recent one.

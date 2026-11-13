@@ -22,8 +22,8 @@ The Africa CDC Digital Transformation Strategy asks for national digital health 
 |---|---|
 | 5 Leading | 11 |
 | 4 Operating | 5 |
-| 3 Established | 24 |
-| 2 Nascent | 8 |
+| 3 Established | 25 |
+| 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 5 |
@@ -245,6 +245,12 @@ A national health information system was in service in 2025; links to other heal
 - The Countdown 2030 chartbook report assesses national DHIS2 health-facility data for 2019-2024 by district and region, covering national trends, and reports that district report completeness is low against target ([source, 2025](https://www.countdown2030.org/wp-content/uploads/2025/09/MAURITANIE-Chartbook-Report-CAM-2025.pdf.pdf)).
 - Countdown to 2030 and APHRC held a national workshop on 3-7 November 2025 training district-level focal points to analyse and use data from Mauritania's National Health Information System (SNIS), with practical sessions in DHIS2 ([source, 2025-11](https://www.countdown2030.org/countdown-news/strengthening-the-use-of-srmnia-nutrition-data-for-action-in-mauritania)).
 
+### Morocco: 3 Established
+
+The health ministry ran a national health data platform in 2026; links to other health systems are not known.
+
+- Santé Mag reports the health ministry (MSPS) runs DHIS2 as its national platform for collecting, managing and analysing health data, used in several national public health programmes including HIV and tuberculosis, and is auditing it from July to September 2026 ([source, 2026-08-10](https://santemag.ma/sante-numerique-le-msps-passe-sa-plateforme-nationale-dhis2-au-crible/)).
+
 ### Nigeria: 3 Established
 
 Nigeria's health facilities reported through the national health information system in 2025; links to other health systems are not known.
@@ -330,12 +336,6 @@ A health information system was under way in 2026; a national one in service is 
 A health information system was under way in 2026; a national one in service is not on record.
 
 - FHI 360 EpiC Lesotho's June 2026 request for proposal has the consultant coordinate integration and interoperability of project systems (LEAD, Infolink, DHIS2 Tracker) with the national DHIS2 platform, supporting MoH and DHMTs in project-supported districts ([source, 2026-06-19](https://selibeng.com/epic-lesotho-consultancy-digital-health-and-data-analytics/)).
-
-### Morocco: 2 Nascent
-
-A health information system was under way in 2026; a national one in service is not on record.
-
-- Santé Mag reports the health ministry (MSPS) runs DHIS2 as its national platform for collecting, managing and analysing health data, used in several national public health programmes including HIV and tuberculosis, and is auditing it from July to September 2026 ([source, 2026-08-10](https://santemag.ma/sante-numerique-le-msps-passe-sa-plateforme-nationale-dhis2-au-crible/)).
 
 ### South Africa: Unplaced
 

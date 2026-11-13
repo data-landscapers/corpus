@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hmis",
-      "stage": "2",
-      "system": "underway",
+      "stage": "3",
+      "system": "inservice",
       "linked": "",
       "completeness": "",
       "cap": "",
       "flags": "",
       "stage_sources": "MAR-001",
-      "gaps": "No source found since October 2023 says: is a national one in service.",
-      "note": "The ministry runs DHIS2 for several national programmes, HIV and tuberculosis among them. No source shows routine reporting from facilities across the country through it.",
-      "as_at": "2026-11-05"
+      "gaps": "No source found since October 2023 says the system is linked to surveillance, supply chain or a register.",
+      "note": "Moved to 3: MAR-001 says the ministry runs DHIS2 as its national platform for collecting health data, used by national programmes, which answers question 2 by its own row (must_show 2), read as GMB-003 and GNB-003 are. No row shows a link to a separate system, so not 4 (ruling 114).",
+      "as_at": "2026-11-13"
     }
   ]
 }

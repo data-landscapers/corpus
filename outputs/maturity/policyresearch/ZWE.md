@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says local research fed a digital policy, law or strategy. None gives a local institution a standing advisory role, or reports a national research agenda adopted.
+***Not found***. No source found since October 2023 says local research fed a digital policy, law or strategy. The 2026 programme called for proposals; no source found reports a study commissioned under it, or a research agenda adopted.

@@ -10,4 +10,4 @@
 
 ***Also on file***. [RNPP / NNI](<https://numerique.gouv.dj/Articles/detailArticleAvancee/15>).
 
-***Not found***. No source found since October 2023 says every registered birth across the country receives the number.
+***Not found***. The ministry's 2024 statement says whom the number is for. No source found since October 2023 shows every registered birth across the country receiving it.

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-001;GHA-002",
-      "gaps": "No source found since October 2023 says: is a national one in service.",
-      "note": "LHIMS was deployed in about 481 facilities and GHIMS introduced to replace it. Deployment is not reporting, and no national reporting system is on record.",
-      "as_at": "2026-11-05"
+      "gaps": "LHIMS was deployed in about 481 facilities across all 16 regions in 2024 (GHA-002), and in October 2025 the ministry began replacing it with GHIMS (GHA-001); no source found since October 2023 says facilities across the country report to the ministry through either.",
+      "note": "Held at 2: GHA-002 says LHIMS was deployed in about 481 facilities across 16 regions, and the stager brief reads deployment as not reporting; GHA-001, the newer row, has the ministry replacing the failing LHIMS with GHIMS. No row shows a national system with facilities reporting through it, which question 2 needs by its own evidence (must_show 2).",
+      "as_at": "2026-11-13"
     }
   ]
 }
