@@ -383,6 +383,8 @@ KEN,National KE-CIRT/CC,National KE-CIRT/CC,response,,Communications Authority o
 KEN,National Cybersecurity Agency,National Cybersecurity Agency,response,,Government of Kenya,,2026-11-06-ken-kenyas-ai-ambitions-face-infrastructure-test-as-subsea-cable-takes-shape
 KEN,National KE-CIRT/CC,National Kenya Computer Incident Response Team Coordination Centre (KE-CIRT/CC),response,,,,2019-05-01-ken-national-broadband-strategy-2018-2023
 KEN,National KE-CIRT/CC,National KE-CIRT/CC,response,,Communications Authority,,2025-04-25-ken-memorandum-on-the-draft-kenya-cybersecurity-strategy-2025-2029
+KEN,National Kenya Computer Incident Response Team Coordination Centre (KE-CIRT/CC),KE-CIRT/CC,response,,,,2026-11-11-kenya-sovereign-soc-konza-kbc
+KEN,SecureKE Sovereign SOC,Kenya,other,Konza Technopolis,Technopolis Development Authority,,2026-11-11-kenya-sovereign-soc-konza-kbc
 LBR,computer security incident response team (Cybaston Digital Fast Track),Liberia,response,,"Cybaston Institute of Technology, handover to Ministry of Posts and Telecommunications in September 2029",,2024-09-24-liberia-cybaston-five-year-digital-fast-track-agreement
 LBR,National Cybersecurity Strategy (2024-2029),Liberia,response,,Ministry of Posts and Telecommunications,,2026-03-01-liberia-national-data-governance-policy
 LBR,Liberia National CERT (proposed),Liberia,other,,,,2026-03-01-liberia-national-data-governance-policy
@@ -462,6 +464,7 @@ MOZ,nCSIRT.mz,CSIRT Nacional (INTIC),response,,INTIC,,2025-09-28-moz-comunicado-
 MOZ,C-Sirt Nacional,Equipa Nacional de Resposta a Incidentes de Seguranca Cibernetica,response,,,,2025-04-29-moz-mocambique-regista-centenas-de-burlas-de-pagamentos-eletronicos
 MOZ,CSIRT Nacional,CSIRT Nacional,response,,INTIC,,2024-06-27-moz-proteccao-de-dados-e-fundamental-para-o-respeito-a-soberania-e-a-integ
 MOZ,CERT do Governo,Centro de Emergência de Resposta a Incidentes Computacionais (CERT) do Governo,other,,,"planned in the 2018 policy; serves public administration, with sector CERTs to be coordinated",2018-06-21-moz-resolucao-17-2018-politica-sociedade-informacao
+MOZ,Equipa Nacional de Resposta a Incidentes de Segurança Cibernética,National Cybersecurity Incident Response Team (proposed),other,,,,2026-04-23-moz-cibercidadaos-posicionamento-leis-seguranca-e-crimes-ciberneticos
 MRT,CSIRT national and SOC RIAD (tendered),MRT,response,,"WARDIP-Mauritanie project unit, Ministry of Digital Transformation",,2026-10-09-mrt-wardip-csirt-soc-riad-tender
 MRT,CSIRT national and SOC RIAD (tendered),MRT,response,,"WARDIP-Mauritanie project unit, Ministry of Digital Transformation",,2025-09-01-wardip-appel-offres-csirt-national-soc-riad-additif-2
 MRT,Planned national CERT/CSIRT,MRT,response,,,,2026-06-30-national-cloud-launch-ecofin
@@ -471,6 +474,7 @@ MRT,Agence nationale de cybersécurité et de certification électronique,Agence
 MRT,CERT Mauritanie,CERT Mauritanie,response,,Agence nationale de cybersécurité et de certification électronique,,2024-04-23-mrt-techrek-agence-nationale-cybersecurite-decret
 MRT,ANCC - Agence de Cybersécurité et de Certification Électronique,ANCC,response,,Government of Mauritania,,2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie
 MRT,Agence Nationale de Cybersécurité et de Certification Électronique (ANCCE),ANCCE,response,,Government of Mauritania,,2025-10-15-mrt-cybersecurite-en-mauritanie-entre-strategies-sur-papier-et-urgences-op
+MRT,Stratégie nationale de sécurité numérique 2022-2025,Mauritania national digital security strategy 2022-2025,response,,Ministry of Digital Transformation and Administration Modernisation,,2026-11-12-mrt-wearetech-cybastion-mou-cybersecurity-training
 MUS,National Cybersecurity Committee,Mauritius,response,,Government of Mauritius,,2026-06-30-cii-cyber-laws-framework-itweb
 MUS,National Cybersecurity Committee,Mauritius,response,,Government of Mauritius,,2026-05-22-cybersecurity-critical-infrastructure-regulations-2026-lexpress
 MUS,Mauritius national CIRT,Mauritius national CIRT,response,,,,2018-09-13-sadc-media-statement-cybersecurity-workshop-cyber-drill
@@ -492,6 +496,8 @@ MUS,MAUSHIELD,Mauritius Cyber Threat Information Sharing System,other,,,,2023-01
 MUS,MAUCORS,Mauritian Cybercrime Online Reporting System,other,,,,2023-01-01-mus-national-cybersecurity-strategy-2023-2026-for-a-more-secure-and-resili
 MUS,Government Security Operations Centre,Security Operations Centre for the Government,other,,,to be widened to a national SOC,2023-01-01-mus-national-cybersecurity-strategy-2023-2026-for-a-more-secure-and-resili
 MUS,Computer Emergency Response Team of Mauritius,CERT-MU,other,,Ministry of ICT,,2024-11-01-mus-mauritius-social-media-ban
+MUS,CERT-MU,CERT-MU,response,,"Ministry of Information Technology, Communication and Innovation",,2026-11-10-mus-mitci-national-campaign-responsible-use-social-media
+MUS,Mauritian Cybercrime Online Reporting System,MUS,other,,CERT-MU,,2026-11-10-mus-mitci-national-campaign-responsible-use-social-media
 MWI,Malawi Computer Emergency Response Team (MwCERT),MwCERT,response,,MACRA,,2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews
 MWI,Malawi CERT (MCERT),Malawi CERT,response,,Malawi Communications Regulatory Authority,,2016-11-04-malawi-electronic-transactions-and-cyber-security-act
 MWI,Malawi national CIRT,Malawi national CIRT,response,,,,2018-09-13-sadc-media-statement-cybersecurity-workshop-cyber-drill
@@ -740,6 +746,7 @@ UGA,National Information Security Framework (NISF),Uganda,other,,NITA-U,,2026-07
 UGA,National CERT,Uganda,response,,,,2025-06-27-worldbank-udap-govnet-p171305-restructuring-paper
 UGA,CERT.UG/CC,Uganda National CERT and Coordination Center,response,cert.ug,,,2025-07-24-uga-spoofing-and-remote-code-execution-chain-vulnerability
 UGA,CERT.UG/CC,National CERT.UG/CC,response,,,,2024-07-20-uga-mass-it-outage-crowdstrike-update
+UGA,UG-CERT,Uganda Computer Emergency Response Team (UG-CERT),response,,Government of Uganda,,2026-11-11-uga-itu-pp26-policy-statement-uganda
 ZAF,Cybersecurity Hub (South African National CSIRT),South Africa,response,,Department of Communications and Digital Technologies,national,2026-08-04-cybersecurity-hub-south-africa-national-csirt-incident-management-and-reporting
 ZAF,South Africa national CIRT,South Africa national CIRT,response,,,,2018-09-13-sadc-media-statement-cybersecurity-workshop-cyber-drill
 ZAF,Cybersecurity Hub,South Africa,other,,Department of Communications and Digital Technologies,,2024-10-31-csir-national-cybersecurity-survey-2024-skills-gap

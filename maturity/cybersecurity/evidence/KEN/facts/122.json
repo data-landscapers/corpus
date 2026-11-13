@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-11-kenya-sovereign-soc-konza-kbc",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "recorded",
+   "fact": "The PS for ICT, citing KE-CIRT/CC, said about 4.56 billion cyber threat events were recorded between October and December 2025.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "KE-CIRT/CC",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Kenya Computer Incident Response Team Coordination Centre (KE-CIRT/CC)",
+   "country_label": "KE-CIRT/CC",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SecureKE Sovereign SOC",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "Konza Technopolis",
+   "owner": "Technopolis Development Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

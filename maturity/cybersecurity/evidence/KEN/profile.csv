@@ -2,4 +2,4 @@ iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 KEN,readiness,foundation,coverage,body,2026,KEN-001;KEN-002;KEN-003;KEN-004;KEN-007;KEN-008;KEN-009;KEN-010;KEN-011;KEN-015;KEN-017;KEN-019;KEN-022;KEN-023;KEN-024;KEN-026;KEN-028;KEN-031;KEN-034;KEN-037;KEN-040,KEN-036=strategy,
 KEN,readiness,response,coverage,responded,2026-09,KEN-005;KEN-012;KEN-016;KEN-020;KEN-029;KEN-032;KEN-038,,
 KEN,readiness,cii,coverage,designated,2025-10-07,KEN-025;KEN-027,,
-KEN,readiness,figures,coverage,published,2026-06-30,KEN-006;KEN-013;KEN-021,KEN-033=recorded;KEN-014=recorded;KEN-030=recorded;KEN-035=recorded;KEN-039=recorded,
+KEN,readiness,figures,coverage,published,2026-06-30,KEN-006;KEN-013;KEN-021,KEN-033=recorded;KEN-014=recorded;KEN-030=recorded;KEN-035=recorded;KEN-041=recorded;KEN-039=recorded,
