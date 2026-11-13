@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-cran-develops-regulatory-framework-for-ai-satellite-internet-and-block",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "CRAN's technology and standards manager spoke at a stakeholder consultation on its proposed regulatory sandbox framework for AI, satellite broadband and other emerging technologies.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "CRAN regulatory sandbox framework",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

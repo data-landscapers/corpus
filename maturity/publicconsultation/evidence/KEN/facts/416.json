@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-kenya-ai-governance-fragmentation",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The Ministry published the draft Kenya AI and Other Emerging Technologies Policy, 2026 for public participation, which closed on 11 August 2026, per the Bowmans analysis.",
+   "as_of": "2026-08-11",
+   "date_precision": "day",
+   "system": "draft Kenya AI and Other Emerging Technologies Policy, 2026",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": "No report of comments, rule requiring consultation or outside standing body stated."
+}
