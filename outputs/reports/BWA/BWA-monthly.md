@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: BWA
-ledger_rows: 15
+ledger_rows: 16
 not_held: 5
-record: 576d23259017
+record: 1227a6e67364
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: 576d23259017
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
@@ -253,6 +255,36 @@ A 2026 skills survey by South Africa's IITPSA attributes 24% of the reported ski
 **[Botswana’s AI Paradox: Rich in Connectivity, Poor in Opportunity - Weekend Post](https://weekendpost.co.bw/botswanas-ai-paradox-rich-in-connectivity-poor-in-opportunity/)** — Weekend Post, 10 November 2026
 
 The Ayre Index of youth AI readiness was launched at the November 2026 Commonwealth Heads of Government Meeting. It ranks Botswana 45th of 56 Commonwealth states, scoring 38.9 out of 100 against a benchmark of 53. Botswana scores 7.2 of 10 for access to technology and 2.9 for decent work and enterprise. Weekend Post reported the study's moderate estimate of AI's possible GDP gain after ten years: USD 289 million.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+</nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics Botswana Corporate Strategic Plan 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Reliable statistics essential for growth](https://dailynews.gov.bw/news-detail/94087)** — Botswana Press Agency (BOPA) / Daily News, 11 November 2026
+
+Four pillars incl. data use and innovation; launched in Tlokweng by Acting President Gaolathe; tied to BETP and NDP 12.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Botswana positions data as diamonds](https://www.itweb.africa/article/botswana-positions-data-as-diamonds/xnklOqz1Xx3M4Ymz)** — ITWeb Africa, 12 November 2026
+
+Statistics Botswana launched its Corporate Strategic Plan 2026-2030 in Gaborone, ITWeb reported on 12 November 2026; the launch date is not stated. The plan, themed 'From Data Producer to Data Leader', covers data governance, modernised information systems and the use of AI and machine learning. Vice President and Finance Minister Ndaba Gaolathe launched it.
 
 </div>
 
