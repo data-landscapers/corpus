@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "social",
+ "aspect": "",
+ "fact": "",
+ "title": "السجل الوطني للسكان",
+ "publisher": "Agence nationale des registres",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: fetched text is a captcha page with no content"
+}

@@ -107,7 +107,7 @@ schoolinternet,schools,capacity.training--dt-related-training-in-secondary-educa
 schools,emis,digital.rural--digitalisation-of-rural-primary-schools,2026-11-13,100,55,161
 socialexchange,exchange,dpi.exchange--interoperability-of-social-protection-systems,2026-11-13,110,55,148
 socialprotection,socialmis,dpi.mis--social-protection,2026-11-13,75,4800000,119
-socialregistry,social,dpi.registry--social-protection-register,,,,
+socialregistry,social,dpi.registry--social-protection-register,2026-11-13,70,4500000,92
 startups,startuppolicy,tech.innovate--tech-startup-ecosystem,,,,
 statisticslaw,law,gov.legislate--statistics-legislation,,,,
 statisticsstrategy,strategy,data.statistics--national-strategy-for-development-of-statistics,,,,

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "social",
+ "aspect": "registry",
+ "fact": "CLEISS states the RSU was created by law 2017-028 and decree 2017-844, its coverage is extending progressively, and the aim is to register all households by 2030.",
+ "title": "Le régime malgache de sécurité sociale",
+ "publisher": "CLEISS (Centre des liaisons européennes et internationales de sécurité sociale)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

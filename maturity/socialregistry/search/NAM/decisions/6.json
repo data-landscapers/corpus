@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "social",
+ "aspect": "registry",
+ "fact": "The March 2021 Social Protection Policy states that social assistance databases are not integrated across government and plans an Integrated Management Information System to be linked to the National Population Register.",
+ "title": "Social Protection Policy 2021 - 2030",
+ "publisher": "Ministry of Gender Equality, Poverty Eradication and Social Welfare",
+ "published": "2021-03",
+ "date_source": "source",
+ "why_not": ""
+}

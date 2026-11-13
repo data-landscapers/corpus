@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "social",
+ "aspect": "registry;linked",
+ "fact": "OpenG2P seeded its social registry with Fayda ID in Ethiopia, and the Ministry of Women and Social Affairs is setting up a National Social Registry as a single source of truth, with payment integration still in progress.",
+ "title": "Digital Public Goods in Use: Applications of OpenG2P in Ethiopia",
+ "publisher": "OpenG2P (ID4Africa 2025)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

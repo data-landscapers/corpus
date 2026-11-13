@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "social",
+ "aspect": "registry;linked",
+ "fact": "Standard Operating Procedures of March 2025 govern the Imibereho Dynamic Social Registry, which updates household IDs automatically through integration with NIDA and verifies manually entered numbers against NIDA.",
+ "title": "Standard Operating Procedures - SOPs (Imibereho Dynamic Social Registry)",
+ "publisher": "Ministry of Local Government (MINALOC)",
+ "published": "2025-03",
+ "date_source": "source",
+ "why_not": ""
+}

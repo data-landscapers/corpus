@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "social",
+ "aspect": "registry",
+ "fact": "The October 2023 readiness assessment says Ethiopia's kebele cards are not a national ID and there is no centralised database.",
+ "title": "Ethiopia readiness assessment: delivering anticipatory social protection",
+ "publisher": "IIED",
+ "published": "2023-10",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.actuniger.com/politique/niamey-lancement-dune-formation-strategique-pour-batir-un-systeme-de-protection-sociale-inclusif-et-resilient-au-niger.html,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://rsu.gouv.ne/post/supervision-par-le-rsu-de-la-validation-des-listes-des-menages-cibles-pour-le-programme-pilote-ps-pour-la-resilience-du-pam-a-guidimouni-zinder,fetched,,scripts/.workroot/study/socialregistry/cache/NER/2.txt,58,html,Détail article
+3,https://rsu.gouv.ne/post/formation-des-enqueteurs-dans-le-cadre-de-la-validation-communautaire-des-beneficiaires-du-programme-pilote-ps-du-pam-a-maradi,fetched,,scripts/.workroot/study/socialregistry/cache/NER/3.txt,52,html,Détail article
+4,https://rsu.gouv.ne/agenda,fetched,,scripts/.workroot/study/socialregistry/cache/NER/4.txt,69,html,Agenda
+5,https://cash-hub.org/wp-content/uploads/sites/3/2024/01/Note-de-cadrage-PS_Niger.pdf,held,held as raw/2022/2022-11-01-ner-keyaid-note-cadrage-protection-sociale.md,,0,,
+6,https://documents1.worldbank.org/curated/en/099845306302225625/pdf/P1593410e8778109a0af2d0a35d43011b68.pdf,fetched,,scripts/.workroot/study/socialregistry/cache/NER/6.txt,11225,pdf,World Bank Document

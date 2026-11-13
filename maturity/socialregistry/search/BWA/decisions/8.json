@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "social",
+ "aspect": "registry;programmes;linked",
+ "fact": "By May 2021 MLGRD had uploaded beneficiary data for at least five programmes to the social registry in six districts, and the social registry is linked to the ID system (OMANG) for validation.",
+ "title": "Botswana Social Protection Programs and Systems Review",
+ "publisher": "World Bank",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.worldbank.org/en/news/press-release/2025/01/15/world-bank-approves-20-million-dollar-project-to-strengthen-health-education-and-social-services-in-guinea-bissau,held,held as raw/2025/2025-01-15-worldbank-gnb-human-capital-project.md,,0,,
+2,https://mptf.undp.org/sites/default/files/documents/2026-05/guinea-bissau_sids_final_report.pdf,held,held as raw/2024/2024-01-01-gnb-guinea-bissau-sids-final-report.md,,0,,
+3,https://guinea-bissau.unfpa.org/pt/news/workshop-de-valida%C3%A7%C3%A3o-da-conce%C3%A7%C3%A3o-e-do-roteiro-do-registo-social-para-guin%C3%A9-bissau,fetched,,scripts/.workroot/study/socialregistry/cache/GNB/3.txt,363,html,Workshop de Validação da Conceção e do Roteiro do Registo Social para a Guiné-Bissau
+4,https://mptf.undp.org/sites/default/files/documents/2024-06/guinea-bissau_sids.pdf,held,held as raw/2024/2024-06-01-gnb-mptf-sdg-fund-social-protection-report.md,,0,,
+5,https://www.unicef.org/guineabissau/media/3591/file/Estudo%20de%20Diagn%C3%B3stico%20da%20Protec%C3%A7%C3%A3o%20Social.pdf.pdf,fetched,,scripts/.workroot/study/socialregistry/cache/GNB/5.txt,43426,pdf,
+6,https://reliefweb.int/attachments/b9aa9553-13fd-4db5-a0c6-32df2b0c55db/WFP%20Guinea%20Bissau%20CB%20Aug%202023.pdf,fetched,,scripts/.workroot/study/socialregistry/cache/GNB/6.txt,1038,pdf,Microsoft Word - WFP Guinea Bissau CB Aug 2023
+7,https://mptf.undp.org/sites/default/files/documents/2022-12/prodoc_guinea-bissau_psids_lnob_jp_2021_redacted.pdf,fetched,,scripts/.workroot/study/socialregistry/cache/GNB/7.txt,18475,pdf,
+8,https://www.unicef.org/guineabissau/media/3576/file/Politica%20Nacional%20de%20Protec%C3%A7%C3%A3o%20Social%20-%20PNPS.pdf.pdf,fetched,,scripts/.workroot/study/socialregistry/cache/GNB/8.txt,16673,pdf,
