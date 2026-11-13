@@ -21,8 +21,8 @@ The African Charter on Statistics (2009) and the Strategy for the Harmonisation 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 3 |
-| 3 Established | 31 |
+| 4 Operating | 4 |
+| 3 Established | 30 |
 | 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
@@ -37,6 +37,14 @@ The 2022-2026 statistics strategy is current, its steering group reviewed it in 
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2022-2026 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 - INSBU reports that the statutory Groupe Sectoriel Statistique held its second-quarter 2026 meeting on 28 July 2026 and discussed the recommendations of the SNDS-III mid-term evaluation, a meeting of the statistical system's coordinating body on how the strategy is being carried out ([source, 2026-07-28](https://www.insbu.bi/actualitesEtEvenements)).
 - The statutory Groupe Sectoriel Statistique meeting of 28 July 2026 discussed the recommendations of the mid-term evaluation of the SNDS-III, which shows that evaluation had reported; the completion date is not given, so the meeting date is used ([source, 2026-07-28](https://www.insbu.bi/actualitesEtEvenements)).
+
+### Central African Republic: 4 Operating
+
+The SNDS2 2024-2028 is current and its implementation was reviewed at mid-term in October 2026; no completed evaluation has been found.
+
+- ICASEES held a workshop on 7-9 October 2026 in Bangui, with members of the statistical programming committee (CTPAS), to review implementation of SNDS2 2024-2028 at mid-term against its commitments, funded by UNDP ([source, 2026-10-07](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique)).
+- ICASEES states the Central African Republic adopted its second national statistics development strategy (SNDS2, period 2024-2028, envelope of nearly FCFA 60 billion) in August 2023 ([source, 2023-08](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique)).
+- The 23 July 2026 ICASEES release says partners support the implementation of the national strategy for the development of statistics (SNDS); no period or adoption date is given ([source, 2026-07-23](https://www.icasees.org/index.php/actualites/389-icasees-le-directeur-general-de-licasees-recoit-une-mission-devaluation-des-activites-du-pnud)).
 
 ### Equatorial Guinea: 4 Operating
 
@@ -94,13 +102,6 @@ The SNDS 2022-2026 is current; no review of its progress since 2023 is known.
 
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2022-2026 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 - The Budget Support Group mission of 20-28 November 2025 notes progress in implementing Cabo Verde's national statistics development strategy (ENDE), so it is in force; the document gives no period ([source, 2025-11](https://www.governo.cv/comunicado-de-imprensa-do-grupo-de-apoio-orcamental-20-28-de-novembro-de-2025/)).
-
-### Central African Republic: 3 Established
-
-The SNDS II is current; no review of its progress since 2023 is known.
-
-- ICASEES refers to the second national statistics development strategy (SNDS II) as being implemented in June 2026; no period or adoption date is given ([source, 2026-06-04](https://www.icasees.org/index.php/actualites/361-icasees-validation-du-plan-de-renforcement-des-capacites-des-cadres-du-systeme-statistique-national)).
-- ICASEES states the Central African Republic adopted its second national statistics development strategy (SNDS2, period 2024-2028, envelope of nearly FCFA 60 billion) in August 2023 ([source, 2023-08](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique)).
 
 ### Chad: 3 Established
 

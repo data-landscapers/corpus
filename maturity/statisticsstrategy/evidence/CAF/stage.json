@@ -1,17 +1,18 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "3",
-   "standing": "adopted",
-   "review": "",
-   "evaluation": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CAF-003;CAF-001",
-   "gaps": "No source found dates a review of progress on the strategy in the last three years.",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "4",
+      "standing": "adopted",
+      "review": "reviewed",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-002;CAF-001;CAF-005",
+      "gaps": "The October 2026 mid-term workshop reviewed SNDS2 2024-2028; no source says its mid-term evaluation report was completed. PARIS21's January 2026 table still names the SNDS 2021-2025.",
+      "note": "SNDS2 2024-2028, adopted in August 2023, is current, and ICASEES reviewed its implementation with the CTPAS at mid-term on 7-9 October 2026. The workshop is a review, not a completed evaluation, so the cell stops at 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }
