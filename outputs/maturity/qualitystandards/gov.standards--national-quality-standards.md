@@ -22,8 +22,8 @@ The Abuja Treaty, Article 67, commits member states to a common policy on standa
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 1 |
-| 3 Established | 8 |
-| 2 Nascent | 37 |
+| 3 Established | 9 |
+| 2 Nascent | 36 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 7 |
@@ -78,6 +78,13 @@ The Gambia's standards bureau listed an information security standard as a natio
 
 - The bureau's 2022 catalogue of national standards lists GAMS ISO/IEC 27001:2005, Information Technology - Security Techniques - Information Security Management Systems - Requirements (ICS 35.030, 41 pages), as a Gambian Standard adopted from ISO; the catalogue's abbreviations define GAMS ISO as adopted ISO standards, and the catalogue is dated 2022 on its cover ([source, 2022](https://tgsb.gm/wp-content/uploads/2023/03/TGSB-STANDARDS-CATALOGUE-2022.pdf)).
 - ISO's member register entry lists The Gambia Standards Bureau (TGSB) as the country's ISO Correspondent member, whose purpose is to standardize methods, processes and products, with standards development and sales among its services; the page carries no date, so its published date 2026-09-03 is used, and it names no law and no standard on information technology or data ([source, 2026-09-03](https://www.iso.org/member/576505.html)).
+
+### Kenya: 3 Established
+
+Kenya's standards bureau issued a national code of practice for AI applications, reported in 2026; whether certification against it is offered is not known.
+
+- The Kenya Bureau of Standards has issued a Code of Practice for AI Applications (KS 3007), a voluntary technical and governance guidance, per the Bowmans analysis ([source, 2026-11-12](https://cioafrica.co/ai-governance-fragmentation-cause-for-concern/)).
+- The Kenya Bureau of Standards was established by the Standards Act, Chapter 496, and started operations in July 1974, per ISO's member page ([source, 1974-07](https://www.iso.org/member/1854.html)).
 
 ### South Africa: 3 Established
 
@@ -198,13 +205,6 @@ Ghana's standards authority works under a 2022 Act; no national standard on info
 Guinea's standards institute was organised by decree in 2023; no national standard on information technology or data is known.
 
 - A presidential decree read on national television on 7 January 2023 fixes the attributions, organisation and operation of the Institut Guinéen de Normalisation et de Métrologie (IGNM), a public administrative body under the industry and finance ministries, charged with drafting national standards or adopting foreign or international ones and publishing them; the document names no information technology or data standard ([source, 2023-01-07](https://guineenews.org/2023/01/07/decret-les-attributions-lorganisation-de-institut-guineen-de-normalisation-et-de-metrologie-fixes/)).
-
-### Kenya: 2 Nascent
-
-Kenya's standards bureau was set up by statute and began operating in 1974; no source found reports a national standard on information technology or data.
-
-- The Kenya Bureau of Standards (KEBS), led by director general Esther Ngari and overseen by a National Standards Council chaired by Dr Chris Wamalwa, was in operation in August 2026; the article does not say what law set it up and names no IT or data standard ([source, 2026-08-28](https://www.thecoast.co.ke/2026/08/28/kenya-to-permanently-host-arso-headquarters-backs-common-certificate/17/54/business-news/thecoast/18260/04/)).
-- The ICT Authority's Government Data Centre Standard (ICTA.2.002:2019) says the Kenya Bureau of Standards (KEBS) is the source of information on valid national and international standards and took part in developing the ICTA standards under a memorandum of understanding; the document gives no date for KEBS's creation or its legal basis, and its date is the document's board approval ([source, 2020-01-13](https://cms.icta.go.ke/sites/default/files/2022-05/Data%20Centre%20Standard.pdf)).
 
 ### Lesotho: 2 Nascent
 

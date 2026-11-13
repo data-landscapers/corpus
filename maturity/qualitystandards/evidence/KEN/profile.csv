@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,standards,standing,coverage,body,2026-08-28,KEN-001;KEN-002;KEN-003;KEN-004,,
-KEN,standards,certification,coverage,,,,,nothing held
+KEN,standards,standing,coverage,published,2026-11-12,KEN-005,KEN-001=body;KEN-003=body;KEN-002=body;KEN-004=body,
+KEN,standards,certification,coverage,,,,,nothing found

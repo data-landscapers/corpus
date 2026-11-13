@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "standards",
-      "stage": "2",
-      "standing": "body",
+      "stage": "3",
+      "standing": "published",
       "certification": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001;KEN-003",
-      "gaps": "No source found names a national standard on information technology or data.",
-      "note": "Counted from the four questions by study-ladder-qualitystandards.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "KEN-005;KEN-004",
+      "gaps": "No source found says the bureau or a certifier accredited in Kenya offers certification against a national standard on information technology or data.",
+      "note": "The Kenya Bureau of Standards, set up under the Standards Act in 1974 (KEN-004), has issued KS 3007, a Code of Practice for AI Applications, reported in November 2026 (KEN-005): a national standard on information technology. No certification against such a standard is held, so stage 4 is not met.",
+      "as_at": "2026-11-13"
     }
   ]
 }

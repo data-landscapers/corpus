@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-kenya-ai-governance-fragmentation",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "published",
+   "fact": "The Kenya Bureau of Standards has issued a Code of Practice for AI Applications (KS 3007), a voluntary technical and governance guidance, per the Bowmans analysis.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "KS 3007",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": "No certification stated."
+}
