@@ -1,6 +1,6 @@
 # Digitalisation of rural registry offices: civil registration
 
-*As at 2026-09-30.*
+*As at 2026-11-13.*
 
 ## The norm
 
@@ -136,7 +136,7 @@ Births were registered digitally at 97 hospital registry points in 2025; no sour
 
 ### Cote d'Ivoire: 3 Established
 
-In March 2026 the registrar said 98 per cent of civil status centres were computerised; the share registering births digitally is not known.
+In March 2026 the registrar said 98 per cent of civil status centres were computerised; no share of centres registering births digitally has been found.
 
 *Advancing; Backlog capture; Identity integrated.*
 
@@ -434,7 +434,7 @@ Births are registered in a national electronic registry, with one local office n
 
 ### Tanzania: 3 Established
 
-In 2024 57% of mainland registration centres were active, entering births by phone; no source found reports capped because a current plan or domestic finance.
+In 2024 57% of mainland registration centres were active, entering births by phone; capped because no current plan or domestic budget line has been found.
 
 *Externally run; Advancing.*
 
