@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: MRT
-ledger_rows: 17
+ledger_rows: 18
 not_held: 3
-record: e6536cb92c1c
+record: 806ae4ee1e09
 ---
 
 # News, Oct – Nov 2026
@@ -27,8 +27,26 @@ record: e6536cb92c1c
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National electronic commerce strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Launch of the National E-commerce Strategy of Mauritania](https://unctad.org/meeting/launch-national-e-commerce-strategy-mauritania-0)** — UNCTAD, 12 November 2026
+
+UNCTAD says Mauritania's digital transformation ministry was to launch its National E-commerce Strategy 2026-2030 on 12 November 2026. The strategy builds on a 2023 eTrade Readiness Assessment and was funded by GIZ and UNCTAD's core donors (Australia, Switzerland and the Netherlands). A development partners' roundtable was set for 13 November.
+
+</div>
+
+</div>
 
 ### Standards
 
