@@ -2,6 +2,13 @@
   "retention_days": 7,
   "editions": [
     {
+      "edition": "2026-11-13",
+      "file": "corpus-bulletin-2026-11-13.pdf",
+      "compiled": "2026-11-12 21:20",
+      "items": 50,
+      "bytes": 339194
+    },
+    {
       "edition": "2026-11-12-2",
       "file": "corpus-bulletin-2026-11-12-2.pdf",
       "compiled": "2026-11-12 02:06",
@@ -63,20 +70,6 @@
       "compiled": "2026-11-05 21:44",
       "items": 29,
       "bytes": 300488
-    },
-    {
-      "edition": "2026-11-05-2",
-      "file": "corpus-bulletin-2026-11-05-2.pdf",
-      "compiled": "2026-11-05 18:51",
-      "items": 0,
-      "bytes": 227069
-    },
-    {
-      "edition": "2026-11-05",
-      "file": "corpus-bulletin-2026-11-05.pdf",
-      "compiled": "2026-11-04 22:44",
-      "items": 38,
-      "bytes": 319129
     }
   ]
 }
