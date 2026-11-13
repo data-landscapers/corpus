@@ -9,10 +9,10 @@
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-001;SWZ-002",
-      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "SWZ-002;SWZ-001",
+      "gaps": "SWZ-002 (March 2024) says Tax Ease takes tax payments, but SWZ-001 (June 2026) puts domestic tax payments in the bank solution's next phase and says customs duties are paid through the bank, not that they are filed and paid online. No source found says the main taxes and customs duties are filed and paid electronically, and no figure for revenue paid electronically.",
+      "note": "Reassessed 2026-11-13: SWZ-002 and SWZ-001 show some taxes paid electronically. The newer SWZ-001 names domestic tax payments as a next phase and payment of customs duties through the bank, which does not meet rung 4's filing and payment for the main taxes and customs duties.",
+      "as_at": "2026-11-13"
     }
   ]
 }

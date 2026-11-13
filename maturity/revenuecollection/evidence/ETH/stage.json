@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "3",
-   "payment": "inservice",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-003",
-   "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "payment": "inservice",
+      "main": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-006;ETH-003",
+      "gaps": "Customs payment is electronic (ETH-006), but no source found since October 2023 says the main domestic taxes are filed and paid electronically nationwide: ETH-005 is an announced extension of e-tax and ETH-004 a mandate. No figure for revenue paid electronically.",
+      "note": "Reassessed 2026-11-13: ETH-006 (customs e-payment, June 2024) and ETH-003 (Amhara tax by M-PESA, July 2026) show some taxes paid electronically. Rung 4 needs the main taxes filed and paid as well, and ETH-005 (January 2024) only announces an e-tax extension and ETH-004 (May 2025) only orders bodies to accept e-payment, so neither shows it in service.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

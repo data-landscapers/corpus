@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "3",
-   "payment": "inservice",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-002;GIN-001",
-   "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "payment": "inservice",
+      "main": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-003;GIN-001",
+      "gaps": "GIN-003 (May 2026) shows taxes declared and paid online through eTax, but no source found since October 2023 says customs duties are paid electronically. No figure for revenue paid electronically.",
+      "note": "Reassessed 2026-11-13: GIN-003 (eTax, May 2026) and GIN-001 (Tresor Pay, December 2025) show taxes and fees paid electronically. Rung 4 also needs customs duties, and no row says anything on customs.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

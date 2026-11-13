@@ -21,8 +21,8 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 | Stage | Countries |
 |---|---|
 | 5 Leading | 8 |
-| 4 Operating | 2 |
-| 3 Established | 40 |
+| 4 Operating | 3 |
+| 3 Established | 39 |
 | 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -83,6 +83,13 @@ A figure for revenue paid electronically was reported in 2026.
 
 - The Ministry of Finance and National Planning data cited say about K21.7 million was collected through the Government Services Bus in the month since the June 2026 rollout to eight councils ([source, 2026-07](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/)).
 - The Office of the Accountant General says Zambia's digital payment and service platforms have collected more than K8.8 billion (US$488 million) ([source, 2026-07-10](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)).
+
+### Cape Verde: 4 Operating
+
+Tax returns were filed and taxes paid online in 2024, customs clearance paid online in 2026; no figure for revenue paid electronically has been found.
+
+- The DNRE says tax returns are submitted and the taxes paid electronically through its portal, with the deadline moved from 31 May to 14 June 2024 after an outage was cleared ([source, 2024-05-28](https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal)).
+- The DNRE's online customs clearance payment page takes payment by DUC reference with Vinti4 or Visa cards issued by Cabo Verdean banks, with SISP one-time-password security ([source, 2026](https://www.mf.gov.cv/web/dnre/pagamento-online-de-despacho)).
 
 ### Chad: 4 Operating
 
@@ -145,12 +152,6 @@ Some taxes or fees could be paid electronically in 2025; no source found reports
 - The Ministry of Finance's Tresor Pay lets citizens pay non-tax revenues online by mobile money, bank card or Campost counters, and a Prime Minister's order of 28 May 2025 requires departments to use it exclusively within three months ([source, 2025-05-28](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-mandates-digital-payment-platform-for-non-tax-revenues)).
 - AfricaNenda says GIMACPAY enables tax payments and e-government services, and the treasury of Cameroon is the only treasury connected to date ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
 
-### Cape Verde: 3 Established
-
-Some taxes or fees could be paid electronically in 2024; no source found reports the main taxes and duties.
-
-- The DNRE says tax returns are submitted and the taxes paid electronically through its portal, with the deadline moved from 31 May to 14 June 2024 after an outage was cleared ([source, 2024-05-28](https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal)).
-
 ### Central African Republic: 3 Established
 
 Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
@@ -176,13 +177,14 @@ Two provinces put provincial tax payment online in 2026; whether the main taxes 
 
 Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
 
-- The Eswatini Revenue Service launched its Integrated Payment Solution with FNB Eswatini on 12 June 2026, so customs duties and import VAT can be paid through the bank; domestic tax payments are the next phase ([source, 2026-06-12](https://www.linkedin.com/posts/brightwell-nkambule-9997209_today-we-launched-the-ers-integrated-payment-activity-7471306041775849472-7YZM)).
 - Eswatini Positive News reports the Eswatini Revenue Service launched the Tax Ease portal, working from 4 March 2024, with integrated payments for taxpayers to pay their taxes ([source, 2024-03-04](https://eswatinipositivenews.com/ers-launches-tax-portal/)).
+- The Eswatini Revenue Service launched its Integrated Payment Solution with FNB Eswatini on 12 June 2026, so customs duties and import VAT can be paid through the bank; domestic tax payments are the next phase ([source, 2026-06-12](https://www.linkedin.com/posts/brightwell-nkambule-9997209_today-we-launched-the-ers-integrated-payment-activity-7471306041775849472-7YZM)).
 
 ### Ethiopia: 3 Established
 
 Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
 
+- Webb Fontaine says electronic payment facilities were introduced in Ethiopia's Webb Customs eCMS, reducing manual paperwork ([source, 2024-06](https://webbfontaine.com/success-stories/ethiopia/customs-management-project)).
 - M-PESA Ethiopia launched a Tax Payment Mini App letting taxpayers in the Amhara Region pay the Amhara Bureau of Revenue by Bill ID, the first of planned integrations with regional revenue authorities ([source, 2026-07-28](https://techafricanews.com/2026/07/28/m-pesa-ethiopia-launches-digital-tax-payment-service-for-amhara-region/)).
 
 ### Gabon: 3 Established
@@ -201,9 +203,9 @@ Some taxes or fees could be paid electronically in 2026; no source found reports
 
 ### Guinea: 3 Established
 
-Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
+Taxes could be declared and paid online in 2026; no source found says customs duties are paid electronically.
 
-- The CORIS MONEY distributor network of 150 agents in Conakry is stated to handle payments of taxes, per the French outlet mediaguinee cited in the article ([source, 2026-02-18](https://techafricanews.com/2026/02/19/guinea-launches-coris-money-to-boost-financial-inclusion-and-digitalization/)).
+- The government has launched eTax for online declaration and online payment of taxes, according to We are Tech ([source, 2026-05](https://www.wearetech.africa/fr/fils/actualites/tech/la-guinee-lance-neuf-chantiers-numeriques-pour-moderniser-l-administration)).
 - Guinea launched Tresor Pay on 22 December 2025 so users can pay administrative fees and charges owed to the state by mobile phone ([source, 2025-12-22](https://www.wearetech.africa/en/fils-uk/news/finance/guinea-rolls-out-tresor-pay-as-digital-gateway-for-public-payments)).
 
 ### Guinea-Bissau: 3 Established
@@ -214,9 +216,10 @@ Import VAT has been payable only through the Kontaktu platform since December 20
 
 ### Kenya: 3 Established
 
-Some taxes or fees could be paid electronically in 2025; no source found reports the main taxes and duties.
+Annual tax returns were filed and taxes paid online in 2025; no source found says customs duties are paid electronically.
 
 - Business Daily reports KRA allowed taxpayers five more days from 1 July 2025 to file annual returns and pay taxes due 30 June after the iTax system crashed under deadline traffic ([source, 2025-07-01](https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392)).
+- Since a 17 November 2023 notice, stamp duty is paid electronically through Ardhipay on the Ardhisasa portal by M-PESA Paybill 222222 or bank RTGS, per ANO Advocates ([source, 2023-11-17](https://anoadvocates.com/insights/stamp-duty-payments-simplified-by-ardhipay)).
 
 ### Liberia: 3 Established
 

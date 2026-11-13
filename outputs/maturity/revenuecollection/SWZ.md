@@ -10,4 +10,4 @@
 
 ***Also on file***. [TaxCore](<https://independentnews.co.sz/48807/business/three-tech-firms-connect-to-ers-e-invoicing-system/>); [Post office government service payments](<https://techafricanews.com/2025/09/26/eswatini-ministry-of-ict-unveils-post-office-based-government-service-payment-system/>); [Tax Ease](<https://eswatinipositivenews.com/ers-launches-tax-portal/>).
 
-***Not found***. No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.
+***Not found***. No source found since October 2023 says domestic taxes are paid through the bank solution, or that customs duties are filed and paid online. No figure for revenue paid electronically has been found.

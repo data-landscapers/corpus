@@ -9,10 +9,10 @@
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001",
-      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "KEN-001;KEN-004",
+      "gaps": "No source found since October 2023 says customs duties are paid electronically, so the main taxes and customs duties together are not shown. KEN-002 says eCitizen processes billions in public revenue, which is not a figure for revenue paid electronically.",
+      "note": "Reassessed 2026-11-13: KEN-001 (iTax returns filed and taxes paid, July 2025) and KEN-004 (stamp duty by Ardhipay, November 2023) show some taxes paid electronically; no row covers customs. KEN-002's 'billions' gives neither a share nor an amount, so it does not answer question 4 under the later-yes rule.",
+      "as_at": "2026-11-13"
     }
   ]
 }

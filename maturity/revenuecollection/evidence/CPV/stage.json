@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "3",
+      "stage": "4",
       "payment": "inservice",
-      "main": "",
+      "main": "main",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-001",
-      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "CPV-001;CPV-002",
+      "gaps": "No source found since October 2023 gives a figure for revenue paid electronically.",
+      "note": "Reassessed 2026-11-13 under ruling 114: CPV-001 (May 2024) shows tax returns filed and the taxes paid through the DNRE portal, answering question 2 on its own, and with CPV-002 (2026, customs clearance paid online by DUC reference) the main taxes and customs duties are filed and paid electronically. No figure for revenue paid electronically, so not stage 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

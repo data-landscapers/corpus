@@ -7,3 +7,4 @@ BDI,006,payment,underway,removed,"Stage 4c: the July 2024 ID for D announcement 
 TCD,012,payment,inservice,revalued: main:main,Rebuild 2026-11-13: E-Tax pays all taxes and duties online; with TCD-013 the main taxes and customs duties are filed and paid electronically
 TCD,013,payment,inservice,revalued: main:main,Rebuild 2026-11-13: customs e-payment takes all duties and taxes since February 2024; with TCD-012 the rung-4 row
 SDN,010,main,main,revalued: payment:inservice,"Rebuild 2026-11-13: Isali collects budgeted fees and links to ASYCUDA, but SDN-013 says tax e-payment channels are still being activated; no filing and payment of the main taxes shown"
+CPV,002,payment,inservice,revalued: main:main,"Housekeeping 68: customs clearance paid online by DUC reference; with CPV-001, tax returns filed and taxes paid through the DNRE portal, the rung-4 pair"

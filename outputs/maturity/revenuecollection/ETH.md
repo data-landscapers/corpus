@@ -10,4 +10,4 @@
 
 ***Also on file***. [e-Gov / MESOB one-stop centres](<https://www.ena.et/web/eng/ethiopia-ndps-2026-2030>); [Federal Government Electronic Payment Directive 71/2020](<https://www.mofed.gov.et/media/filer_public/7e/a5/7ea5bf66-de9b-447d-b34d-8ca9667ddf50/1069_2017_yamanegesete_maseriyaa_beetoce_faqaade_katasathaacawe_yakefeyaa_agalegelote_sachiwoce_kefeyaa_yamiqabalubatene.pdf>).
 
-***Not found***. No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.
+***Not found***. No source found since October 2023 says the main federal taxes are filed and paid electronically; the e-tax extension of January 2024 was an announcement. No figure for revenue paid electronically has been found.
