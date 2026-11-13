@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: BFA
 ledger_rows: 44
 not_held: 6
-record: 66eeb7ced6e9
+record: b8f0b20f10c8
 ---
 
 # News, Oct – Nov 2026
@@ -369,6 +369,14 @@ Summarised under [Data Storage](#data-storage).
 **[Opération d’enregistrement de masse de l’identifiant unique : Le Capitaine Ibrahim TRAORÉ lance l’opération d’enrôlement](https://www.sidwaya.info/2026/11/11/operation-denregistrement-de-masse-de-lidentifiant-unique-le-capitaine-ibrahim-traore-lance-loperation-denrolement/)** — Sidwaya, 11 November 2026
 
 Burkina Faso's President launched mass enrolment in the electronic unique identifier register in Ouagadougou on 11 November 2026. Each person receives a free, random 12-digit number after photograph, fingerprint and iris capture at 160 sites and by mobile teams. The digital transition ministry says it replaces no existing identity document.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Registre de l'identifiant unique : Le Burkina Faso engage l'identification de sa population](https://lefaso.net/spip.php?article150706=)** — leFaso.net, 11 November 2026
+
+Pilot enrolled 16,000+; ten fingers and both irises deduplicated; foreigners included; first count due end-Dec 2026.
 
 </div>
 
