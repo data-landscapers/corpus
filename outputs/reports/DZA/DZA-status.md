@@ -6,7 +6,7 @@ region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 11
-sources_cited: 266
+sources_cited: 268
 sections_written: 39
 not_established: 2
 acquire_lines: 58
@@ -64,7 +64,7 @@ In March 2026 [African telecommunications and ICT ministers meeting in Algeria a
 ### Public debate and participation in policymaking
 <!-- gov.discourse -->
 
-[Algeria's Civil Society Space scored 10.9 of 100 in 2023, 50th of 54 African states after a 13.4-point fall over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dz.pdf). The room to argue about digital policy has narrowed faster than almost anything else Algeria is measured on. [Deliberative & Participatory Governance scored 44.2, 39th, after a 9.0-point fall](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dz.pdf). Over the same period [Media Freedom fell 18.3 points to 33.8, 47th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dz.pdf). [Freedom of Expression & Belief fell 13.6 points to 25.0, 48th](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dz.pdf). Both are among the ten most deteriorated of the index's 96 indicators.
+[Algeria's Civil Society Space scored 10.9 of 100 in 2023, 50th of 54 African states after a 13.4-point fall over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dz.pdf). The room to argue about digital policy has narrowed faster than almost anything else Algeria is measured on. [Deliberative & Participatory Governance scored 44.2, 39th, after a 9.0-point fall](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dz.pdf). Over the same period [Media Freedom fell 18.3 points to 33.8, 47th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dz.pdf). [Freedom of Expression & Belief fell 13.6 points to 25.0, 48th](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dz.pdf). Both are among the ten most deteriorated of the index's 96 indicators. [Amnesty International counted seven journalists and media workers detained, prosecuted or convicted between November 2025 and May 2026, some over Facebook and other online posts](https://www.aialgerie.org/2026/05/13/algerie-les-autorites-doivent-liberer-les-journalistes-detenus-arbitrairement-et-respecter-la-liberte-de-la-presse/). [On 7 July 2026 the Algiers appeal court upheld the conviction of the journalist Saâd Bouakba, and the online outlet Rassd was closed for good](https://www.cfjustice.org/fr/algerie-committee-for-justice-la-condamnation-en-appel-du-journaliste-saad-bouakba-et-la-fermeture-du-media-rassd-aggravent-la-censure-du-debat-public/).
 
 Algeria [has a public e-participation platform (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the participation machinery is being built regardless. It has [a citizen feedback mechanism for public services, with government responses recorded as reaching back to citizens (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The national police [opened an online public-security perception survey in August 2026](https://www.echoroukonline.com/%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%A7%D8%B3%D8%AA%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7-%D9%84%D9%82%D9%8A%D8%A7%D8%B3), reachable by QR code. It asks citizens to rate their sense of security so the force can steer operational priorities.
 
