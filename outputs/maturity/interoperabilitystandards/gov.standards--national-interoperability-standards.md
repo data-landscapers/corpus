@@ -23,10 +23,10 @@ The African Union's Digital Transformation Strategy asks for technical standards
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 8 |
-| 2 Nascent | 8 |
+| 2 Nascent | 9 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
-| No evidence | 32 |
+| No evidence | 31 |
 
 ## Countries
 
@@ -150,6 +150,12 @@ Nigeria's draft technical standard for government data exchange was under stakeh
 Senegal's ministry presented a draft interoperability framework with technical standards in May 2026; no source found says whether it has been adopted.
 
 - The ministry announced that on 5 May 2026 it would present the draft decree governing the interoperability platform and introduce the national interoperability framework, data-exchange architectures, technical standards and security requirements; both were still at presentation stage, not adopted ([source, 2026-05-04](https://fr.linkedin.com/posts/mctnsn_dpi-newdealtechnologique-activity-7457180609757528065-UqRT)).
+
+### Zimbabwe: 2 Nascent
+
+Zimbabwe was building a government enterprise architecture defining interoperability standards in 2026; whether the standards have been issued is not known.
+
+- The Herald opinion piece says the Whole of Government enterprise architecture now being built defines interoperability standards, with common data standards and secure APIs to follow ([source, 2026-11-12](https://www.heraldonline.co.zw/transforming-public-services-through-one-digital-ecosystem/)).
 
 ### Libya: 1 Absent
 
@@ -350,12 +356,6 @@ Nothing found names technical standards for government systems to exchange data 
 Not established: Nothing found names technical standards for government systems to exchange data, or says there are none.
 
 ### Tunisia: No evidence
-
-Nothing found names technical standards for government systems to exchange data or says there are none, so no stage is set.
-
-Not established: Nothing found names technical standards for government systems to exchange data, or says there are none.
-
-### Zimbabwe: No evidence
 
 Nothing found names technical standards for government systems to exchange data or says there are none, so no stage is set.
 

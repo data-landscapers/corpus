@@ -1,16 +1,17 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names technical standards for government systems to exchange data, or says there are none.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-001",
+      "gaps": "No source found says the standards have been issued, or that public bodies are required to use them.",
+      "note": "A Herald column of November 2026 says the whole-of-government enterprise architecture now being built defines interoperability standards (ZWE-001), so standards are being written. No source says they have been issued, so not stage 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

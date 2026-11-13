@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-zwe-transforming-public-services-through-one-digital-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Herald opinion piece says the Whole of Government enterprise architecture now being built defines interoperability standards, with common data standards and secure APIs to follow.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Whole of Government enterprise architecture",
+   "class": "standards"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
