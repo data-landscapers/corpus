@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-11-12
+compiled: 2026-11-13
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 284
+sources_cited: 285
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -95,6 +95,8 @@ What the state has put in law is a levy for cybersecurity. [The May 2026 ordinan
 The largest digital figure on record for DR Congo has no financing behind it: [the Ministry of Posts, Telecommunications and Digital Affairs and China's Genew Technologies have signed a memorandum of understanding for a Congo River fibre route of about 2,100 km, announced at US$1.5 billion with more than US$400 million needed for the first phase](https://www.connectingafrica.com/fiber-networking/drc-plans-1-5b-fiber-optic-project-along-congo-river), the totals given by Genew's chief executive in 2026. No financier is named for any part of it and no contract has followed.
 
 Most of what has been signed since is of the same kind. [Visa and the Banque Centrale du Congo agreed in April 2026](https://techafricanews.com/2026/04/16/new-visa-and-bcc-agreement-targets-financial-inclusion-and-payment-modernization-in-congo/) to work on financial inclusion and payment modernisation, tied to the central bank's 2026-2030 strategic plan, and [Mastercard and the Congolese fintech Flash agreed in July 2026 to issue prepaid cards](https://techafricanews.com/2026/07/14/mastercard-and-flash-partner-to-expand-digital-financial-inclusion-in-drc/), and [the digital economy ministry and Equity BCDC signed a memorandum on 13 August 2026 to modernise the financial system and widen access to banking, naming digital identity and artificial intelligence among its subjects](https://acp.cd/economie/numerique-signature-dun-protocole-daccord-sur-la-modernisation-de-lecosysteme-financier/). [The education ministry and the FDSU signed a memorandum in April 2026](https://actualite.cd/2026/04/03/rdc-un-memorandum-signe-pour-renforcer-la-digitalisation-du-systeme-educatif) to connect schools into an interoperable education data exchange, [ONIP and the National Commission for Refugees signed one in November 2024 on identifying refugees](https://b-onetv.cd/protocole-daccord-entre-lonip-et-la-cnr-pour-lidentification-des-refugies-en-rdc/), and [a November 2024 memorandum with Monaco's Monacosat opened a sovereign satellite programme](https://actualite.cd/2025/08/31/la-rdc-se-lance-dans-un-projet-dacquisition-dun-satellite-cout-estime-400-millions-de). Each names the parties and the intent; none carries a delivery date.
+
+[A digital donor coordination group was set up in July 2026 to align technical and financial partners on national priorities and stop two donors funding the same project under different names](https://acp.cd/nation/la-nation-digitale-2030-faire-de-la-collaboration-un-principe-de-gouvernance-ministre-de-leconomie-numerique/), the digital economy minister said in November 2026.
 
 <!-- derived -->
 Of digital-sector commitments made between 2015 and 2026, the largest headline figure, the US$1.5 billion Genew memorandum, commits no money and exceeds the roughly US$1.0 billion of signed or approved commitments combined.
