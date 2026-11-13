@@ -434,7 +434,7 @@ LBR,2027,audited-accounts,audited,not due,2028-06,0,2026-11-13
 LBR,2024,budget-estimates,proposed|appropriated,held,2024-04,1,2026-11-13
 LBR,2025,budget-estimates,proposed|appropriated,held,2025-04,1,2026-11-13
 LBR,2026,budget-estimates,proposed|appropriated,held,2026-04,1,2026-11-13
-LBR,2027,budget-estimates,proposed|appropriated,not due,2027-04,0,2026-11-13
+LBR,2027,budget-estimates,proposed|appropriated,held,2027-04,1,2026-11-13
 LBR,2024,implementation-report,released|actual,held,2024-09,1,2026-11-13
 LBR,2025,implementation-report,released|actual,held,2025-09,2,2026-11-13
 LBR,2026,implementation-report,released|actual,held,2026-09,4,2026-11-13
@@ -573,7 +573,7 @@ MOZ,2026,executive-instrument,revised|appropriated,held,2026-09,1,2026-11-13
 MOZ,2027,executive-instrument,revised|appropriated,not due,2027-09,0,2026-11-13
 MOZ,2024,implementation-report,released|actual,held,2024-09,5,2026-11-13
 MOZ,2025,implementation-report,released|actual,held,2025-09,6,2026-11-13
-MOZ,2026,implementation-report,released|actual,held,2026-09,6,2026-11-13
+MOZ,2026,implementation-report,released|actual,held,2026-09,8,2026-11-13
 MOZ,2027,implementation-report,released|actual,not due,2027-09,0,2026-11-13
 MOZ,2024,mtef,proposed,held,2023-07,3,2026-11-13
 MOZ,2025,mtef,proposed,held,2024-07,2,2026-11-13
@@ -590,7 +590,7 @@ MRT,2027,audited-accounts,audited,not due,2029-03,0,2026-11-13
 MRT,2024,budget-estimates,proposed|appropriated,held,2023-11,3,2026-11-13
 MRT,2025,budget-estimates,proposed|appropriated,held,2024-11,4,2026-11-13
 MRT,2026,budget-estimates,proposed|appropriated,held,2025-11,4,2026-11-13
-MRT,2027,budget-estimates,proposed|appropriated,absent,2026-11,0,2026-11-13
+MRT,2027,budget-estimates,proposed|appropriated,held,2026-11,1,2026-11-13
 MRT,2024,implementation-report,released|actual,held,2025-03,3,2026-11-13
 MRT,2025,implementation-report,released|actual,held,2026-03,3,2026-11-13
 MRT,2026,implementation-report,released|actual,held,2027-03,2,2026-11-13
@@ -753,7 +753,7 @@ SSD,2026,appropriation-act,appropriated,not due,2027-02,0,2026-11-13
 SSD,2027,appropriation-act,appropriated,not due,2028-02,0,2026-11-13
 SSD,2024,budget-estimates,proposed|appropriated,absent,2025-01,0,2026-11-13
 SSD,2025,budget-estimates,proposed|appropriated,held,2026-01,1,2026-11-13
-SSD,2026,budget-estimates,proposed|appropriated,not due,2027-01,0,2026-11-13
+SSD,2026,budget-estimates,proposed|appropriated,held,2027-01,1,2026-11-13
 SSD,2027,budget-estimates,proposed|appropriated,not due,2028-01,0,2026-11-13
 SSD,2024,implementation-report,released|actual,held,2026-02,1,2026-11-13
 SSD,2025,implementation-report,released|actual,not due,2027-02,0,2026-11-13
