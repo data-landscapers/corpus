@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: COD
-ledger_rows: 46
+ledger_rows: 49
 not_held: 6
-record: 90c6fa15d8ea
+record: d4855ad59c0f
 ---
 
 # News, Oct – Nov 2026
@@ -167,8 +167,26 @@ The justice minister spoke at a press briefing. He said several people prosecute
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#new-investments">New investments</a>
 </nav>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital donor coordination group (Groupe interbailleurs du numérique)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«La Nation digitale 2030 : faire de la collaboration un principe de gouvernance »(Ministre de l’Economie numérique) - ACP](https://acp.cd/nation/la-nation-digitale-2030-faire-de-la-collaboration-un-principe-de-gouvernance-ministre-de-leconomie-numerique/)** — Agence congolaise de presse (ACP), 11 November 2026
+
+Donor coordination group set up July 2026; USD 510m WB-AFD project, USD 1bn presidential pledge cited.
+
+</div>
+
+</div>
 
 ### New investments
 
@@ -738,11 +756,43 @@ The DRC's digital economy minister visited the Skolkovo innovation centre near M
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Akili Digital startup programme, Kinshasa pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Recrutement d'une Structure d'Appui à l'Ecosystème (SAE) chargée de la pré-incubation, de l'incubation et de l'accélération des startups - Programme « Akili Digital » Pilote Kinshasa](https://www.congoquotidien.com/2026/11/11/actualite-rdc-recrutement-sae-akili-digital/)** — Congo Quotidien, 11 November 2026
+
+World Bank credit 7602-ZR with AFD co-financing; addendum of 10 Nov 2026 sets criterion 3 at 25 points; CQS selection.
+
+</div>
+
+</div>
+
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#training-and-skills">Training and skills</a>
 </nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Njia ya Ujuzi mobile digital classroom</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Haut-Katanga : une classe mobile pour rapprocher les jeunes des métiers d’avenir](https://open.enabel.be/en/update/id/3814)** — Enabel (Open.Enabel), 11 November 2026
+
+Edubase truck with computers and internet tours the Lobito corridor; ICB certification prep, solar skills; GIZ partner.
+
+</div>
+
+</div>
 
 ### Training and skills
 
