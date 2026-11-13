@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: SEN
 ledger_rows: 47
 not_held: 2
-record: 305f1bb17026
+record: 9107f7d7bba7
 ---
 
 # News, Oct – Nov 2026
@@ -530,7 +530,7 @@ Senegal's land programme PROCASEF and the Seen Suuf project held a workshop in F
 
 **[PLANETE 3 : l’Inspection d’Académie de Pikine-Guédiawaye appelle à une mise à jour rigoureuse des données](https://www.pressafrik.com/PLANETE-3-l-Inspection-d-Academie-de-Pikine-Guediawaye-appelle-a-une-mise-a-jour-rigoureuse-des-donnees_a312980.html)** — PressAfrik, 13 October 2026
 
-Pikine-Guédiawaye inspectorate orders PLANETE 3 data updates; every pupil must hold an IEN identifier.
+The schools inspector for Pikine-Guediawaye, Mbaye Babou, has told school heads to keep school, staff and pupil records current on PLANETE 3, the ministry's new education management platform. Every pupil must have a national identifier (IEN). Heads of public and private schools can get help from the academy's digital mediator, Nar Diop.
 
 </div>
 

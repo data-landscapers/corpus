@@ -3,8 +3,8 @@ title: Sectoral management information systems — News, October – November 20
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: dpi.mis
-places: AGO; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e2f6ab4d8952
+places: AGO; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 702334090ad3
 ---
 
 # News, Oct – Nov 2026
@@ -47,6 +47,8 @@ record: e2f6ab4d8952
 <a href="#guinea-bissau">Guinea-Bissau</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#lesotho">Lesotho</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -471,6 +473,28 @@ Shabait, the Eritrean information ministry's outlet, published an interview on 4
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">EMIS Data Use Action Brief, October 2026-December 2027</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Consultancy to consolidate education data management and data use in Lesotho and Eswatini (Phase 2)](https://jmerc.org/careers/consultancy-to-consolidate-education-data-management-and-data-use-in-lesotho-and-eswatini-phase)** — JMERC, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a>
+
+JMERC is seeking a firm for a second phase of GPE-KIX support to education data in Lesotho and Eswatini, with applications due 6 November 2026. In Lesotho the work covers training district education officers and a roadmap for a national EMIS policy. In Eswatini it covers putting the Data Use Action Brief into practice.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ESWATINI TARGETS EDUCATION DATA GAPS WITH 15-MONTH ACTION PLAN](https://eswatinipositivenews.online/eswatini-targets-education-data-gaps-with-15-month-action-plan/)** — Eswatini Positive News, 16 October 2026
+
+A consultant presented a draft Data Use Action Brief for October 2026 to December 2027 at the Eswatini EMIS Data Use Workshop on 16 October 2026. Eight working groups listed 22 decisions needing better evidence, such as teacher deployment and new classrooms. The brief proposes validation checks in the termly EMIS tool, an annual data calendar, quarterly data-quality checks and training for school focal persons.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Integrated Financial Management Information System</p>
 
 <div class="bulletin-item" markdown="1">
@@ -760,6 +784,14 @@ Two petitioners have asked a Kenyan court to stop the education ministry finalis
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Ghost students? Puzzle of 2 million primary school learners missing from ministry records](https://nation.africa/kenya/news/education/ghost-students-puzzle-of-2-million-primary-school-learners-missing-from-ministry-records-5667184)** — Daily Nation, 12 November 2026
+
+As at 10 November 2026, KEMIS held about 5.06 million primary learners against an expected 7.2 million. A ministry official said some registered schools show no learners, and the ministry is investigating why. Senior schools hold 3.26 million of an expected 3.5 million, and junior schools 3.18 million. The ministry has warned that schools not entering learners in KEMIS risk their capitation funding.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -785,6 +817,22 @@ Kenya's Principal Secretary for Medical Services, Ouma Oluga, chaired the steeri
 **[Digitizing health campaigns: lessons from Benin, DRC, Kenya, and Nigeria](https://www.clintonhealthaccess.org/report/digitizing-health-campaigns/)** — Clinton Health Access Initiative, 1 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 The Clinton Health Access Initiative reports on digitising health campaigns in Benin, the DRC, Kenya and Nigeria between 2021 and 2025. It says 24 million people were reached, and that in Kano the cost per person fell from US$0.20 to US$0.12. The report closes with five lessons.
+
+</div>
+
+</div>
+
+## Lesotho
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Lesotho Education Management Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From Data Entry to Data Leadership: Lessons from Lesotho's DHIS2 for Education Training](https://www.iped.africa/news-event/from-data-entry-to-data-leadership-lessons-from-lesothos-dhis2-for-education-training)** — AU-IPED (prepared by JMERC), 1 October 2026
+
+AU-IPED reports that all 365 Lesotho secondary schools now report through DHIS2 for Education. Principals, teachers and IT staff from Leribe, Butha-Buthe and Berea districts were trained from 30 September to 4 October 2026. Only three of ten districts have been reached, and Lesotho has no national EMIS policy. AU-IPED recommends adopting one and training district and national managers.
 
 </div>
 
@@ -921,6 +969,20 @@ Mauritania's health minister and minister of digital transformation met in Nouak
 **[L’Université de Nouakchott lance une plateforme numérique de certification et d’authentification des diplômes et attestations basée sur la technologie blockchain](https://ami.mr/fr/archives/305997)** — AMI, 10 November 2026
 
 Université de Nouakchott launched a blockchain-based platform on 10 November 2026 to issue and verify its diplomas and certificates electronically. It was built with UNDP support and the Tunisian firm Kalis. AMI reports that it is meant to curb forgery and let employers and institutions in Mauritania and abroad check qualifications.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Siraj education platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[تيكنت تحتضن ورشة لتقييم نتائج مسابقة دخول الإعدادية ومراجعة التسجيل عبر منصة «سراج»](https://ainmauritanie.net/archives/4884)** — عين موريتانيا, 11 November 2026
+
+Mauritania's education ministry opened a workshop in Tekant on 11 November 2026. It reviews the 2026 results of the entrance competition for first-year lower secondary school. It also assesses candidate registration for national exams on the Siraj platform, ahead of the 2027 round. The workshop runs until 15 November.
 
 </div>
 
@@ -1135,6 +1197,20 @@ Senegal's agriculture ministry launched an app on 9 October for distributing sub
 **[Gestion des terres, le Sénégal mise sur la numérisation des données communales](https://www.seneplus.com/article/gestion-des-terres-le-senegal-mise-sur-la-numerisation-des-donnees-communales)** — SenePlus (APS), 12 October 2026
 
 Senegal's land programme PROCASEF and the Seen Suuf project held a workshop in Fatick on 6–9 October 2026 to prepare the roll-out of SIFCOM, the communal land information system, which is still in preproduction. They agreed a protocol for migrating and standardising communal land data and set a training calendar for land and municipal staff in the groundnut basin communes.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PLANETE 3 school management platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PLANETE 3 : l’Inspection d’Académie de Pikine-Guédiawaye appelle à une mise à jour rigoureuse des données](https://www.pressafrik.com/PLANETE-3-l-Inspection-d-Academie-de-Pikine-Guediawaye-appelle-a-une-mise-a-jour-rigoureuse-des-donnees_a312980.html)** — PressAfrik, 13 October 2026
+
+The schools inspector for Pikine-Guediawaye, Mbaye Babou, has told school heads to keep school, staff and pupil records current on PLANETE 3, the ministry's new education management platform. Every pupil must have a national identifier (IEN). Heads of public and private schools can get help from the academy's digital mediator, Nar Diop.
 
 </div>
 
@@ -1502,6 +1578,20 @@ Zimbabwe's Judicial Service Commission took its electronic case management syste
 **[ZRP pilots digital crime reporting system developed by Harare Institute of Technology at Warren Park Police Station](https://www.heraldonline.co.zw/zrp-pilots-digital-crime-reporting-system-developed-by-harare-institute-of-technology-at-warren-park-police-station/)** — The Herald, 8 October 2026
 
 Zimbabwe's home affairs minister told the National Assembly that a crime management system built by the Harare Institute of Technology is running as a proof of concept at Warren Park and a few other police stations. Reporting crime by mobile phone is to follow, and wider deployment depends on the test.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Education management information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data systems transform Zimbabwe's schools](https://www.globalpartnership.org/blog/data-systems-transform-zimbabwes-schools)** — Global Partnership for Education, 11 November 2026
+
+UNICEF Zimbabwe reported on 11 November 2026 that schools such as Masvingo Government Primary now capture and validate data electronically in the revised EMIS. The deputy head says this helps track enrolment, teacher allocation and dropouts. GPE provided US$2.9 million for 2023 to 2026, with UNICEF supporting implementation.
 
 </div>
 

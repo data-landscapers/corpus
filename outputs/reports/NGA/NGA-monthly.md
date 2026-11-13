@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: NGA
 ledger_rows: 107
 not_held: 8
-record: 3a5a3e18fe09
+record: dd7c94f48a55
 ---
 
 # News, Oct – Nov 2026
@@ -1886,7 +1886,7 @@ Nigeria's humanitarian affairs minister, Bernard Doro, handed ten Mobile One-Sto
 
 **[FG to Digitalise Primary, Secondary Schools Through NgREN by 2027](https://www.ngren.edu.ng/view.php?id=27)** — NgREN - Nigeria Research and Education Network, 15 October 2026
 
-NgREN remit widened to public primary and secondary schools from 2027; UBEC has reached ~2,000 of 200,000+ schools.
+Nigeria's federal government plans to extend internet connectivity to public primary and secondary schools through NgREN from 2027, starting with a pilot across the 36 states. The plan was announced at a stakeholders' meeting in Abuja on 13 October 2026. UBEC said it has connected about 2,000 of more than 200,000 schools. NCC and USPF are running a similar Starlink project.
 
 </div>
 

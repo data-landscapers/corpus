@@ -4,7 +4,7 @@ compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: af80c1d12d15
+record: 3da6f8f6e0f7
 ---
 
 # News, Oct – Nov 2026
@@ -126,6 +126,20 @@ Benin's Council of Ministers authorised a pilot of two "Innobox" innovation hous
 **[Pag 2026-2033: Le gouvernement Wadagni définit sa feuille de route](https://lanation.bj/actualites/pag-2026-2033-le-gouvernement-wadagni-definit-sa-feuille-de-route)** — La Nation, 6 November 2026
 
 Benin's Council of Ministers approved the government action programme (PAG) for 2026-2033 on 4 November 2026, La Nation reported. The programme names technology one of two cross-cutting levers. It is to modernise public services, raise productivity and widen market access. The programme targets 7.7% average real growth with 55% private financing. Its projects, overall cost and monitoring indicators were not presented.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National action plan for education and skills data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin Develops National Action Plan to Strengthen Education Data Production and Use](https://www.adeanet.org/en/news/benin-develops-national-action-plan-strengthen-education-data-production-use)** — ADEA, 6 November 2026
+
+ADEA and the Mastercard Foundation held an action-planning workshop in Cotonou on 3 and 4 November 2026 for the three Beninese ministries responsible for education. Participants set three priorities: data governance and policy, staff capacity, and digital platforms. Proposals include a National Education and Skills Data Commission, digitised school census tools and dashboards on the EducMaster platform.
 
 </div>
 

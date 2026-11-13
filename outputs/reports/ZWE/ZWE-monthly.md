@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: ZWE
 ledger_rows: 35
 not_held: 5
-record: efb7f924b331
+record: bc8d0a1a3c13
 ---
 
 # News, Oct – Nov 2026
@@ -476,7 +476,7 @@ Zimbabwe's home affairs minister told the National Assembly that a crime managem
 
 **[Data systems transform Zimbabwe's schools](https://www.globalpartnership.org/blog/data-systems-transform-zimbabwes-schools)** — Global Partnership for Education, 11 November 2026
 
-Revised EMIS: 12,324 schools equipped, all 1,444 in Masvingo using it; GPE US$2.9m system grant 2023-2026.
+UNICEF Zimbabwe reported on 11 November 2026 that schools such as Masvingo Government Primary now capture and validate data electronically in the revised EMIS. The deputy head says this helps track enrolment, teacher allocation and dropouts. GPE provided US$2.9 million for 2023 to 2026, with UNICEF supporting implementation.
 
 </div>
 

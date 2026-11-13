@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: LSO
 ledger_rows: 13
 not_held: 4
-record: bb4c5bb3cd6b
+record: 7c84494bdb54
 ---
 
 # News, Oct – Nov 2026
@@ -194,7 +194,7 @@ The Central Bank of Lesotho and the CAFI project launched campaigns urging small
 
 **[From Data Entry to Data Leadership: Lessons from Lesotho's DHIS2 for Education Training](https://www.iped.africa/news-event/from-data-entry-to-data-leadership-lessons-from-lesothos-dhis2-for-education-training)** — AU-IPED (prepared by JMERC), 1 October 2026
 
-All 365 secondary schools report through DHIS2 (LEMIS); 3 of 10 districts trained; no national EMIS policy, Oct 2026.
+AU-IPED reports that all 365 Lesotho secondary schools now report through DHIS2 for Education. Principals, teachers and IT staff from Leribe, Butha-Buthe and Berea districts were trained from 30 September to 4 October 2026. Only three of ten districts have been reached, and Lesotho has no national EMIS policy. AU-IPED recommends adopting one and training district and national managers.
 
 </div>
 

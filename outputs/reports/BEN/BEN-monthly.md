@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: BEN
 ledger_rows: 35
 not_held: 4
-record: e65ead175f79
+record: 676e6a0beabe
 ---
 
 # News, Oct – Nov 2026
@@ -90,7 +90,7 @@ Benin's Council of Ministers approved the government action programme (PAG) for 
 
 **[Benin Develops National Action Plan to Strengthen Education Data Production and Use](https://www.adeanet.org/en/news/benin-develops-national-action-plan-strengthen-education-data-production-use)** — ADEA, 6 November 2026
 
-Benin action plan: an education data commission, a statistics-law decree and EducMaster interoperability.
+ADEA and the Mastercard Foundation held an action-planning workshop in Cotonou on 3 and 4 November 2026 for the three Beninese ministries responsible for education. Participants set three priorities: data governance and policy, staff capacity, and digital platforms. Proposals include a National Education and Skills Data Commission, digitised school census tools and dashboards on the EducMaster platform.
 
 </div>
 

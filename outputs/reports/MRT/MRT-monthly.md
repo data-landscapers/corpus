@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: MRT
 ledger_rows: 19
 not_held: 3
-record: 2f5dfae94114
+record: 9695c3cc27e8
 ---
 
 # News, Oct – Nov 2026
@@ -314,7 +314,7 @@ Université de Nouakchott launched a blockchain-based platform on 10 November 20
 
 **[تيكنت تحتضن ورشة لتقييم نتائج مسابقة دخول الإعدادية ومراجعة التسجيل عبر منصة «سراج»](https://ainmauritanie.net/archives/4884)** — عين موريتانيا, 11 November 2026
 
-Ministry reviews 2026 lower-secondary entry exam results and candidate registration through Siraj, ahead of 2027.
+Mauritania's education ministry opened a workshop in Tekant on 11 November 2026. It reviews the 2026 results of the entrance competition for first-year lower secondary school. It also assesses candidate registration for national exams on the Siraj platform, ahead of the 2027 round. The workshop runs until 15 November.
 
 </div>
 

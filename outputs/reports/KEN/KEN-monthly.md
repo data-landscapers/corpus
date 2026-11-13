@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: KEN
 ledger_rows: 92
 not_held: 5
-record: 3d6068b5b27c
+record: d336b4f56a6f
 ---
 
 # News, Oct – Nov 2026
@@ -1014,7 +1014,7 @@ Two petitioners have asked a Kenyan court to stop the education ministry finalis
 
 **[Ghost students? Puzzle of 2 million primary school learners missing from ministry records](https://nation.africa/kenya/news/education/ghost-students-puzzle-of-2-million-primary-school-learners-missing-from-ministry-records-5667184)** — Daily Nation, 12 November 2026
 
-KEMIS holds 5.057m primary learners against 7.2m expected (10 Nov 2026); uncaptured pupils lose capitation.
+As at 10 November 2026, KEMIS held about 5.06 million primary learners against an expected 7.2 million. A ministry official said some registered schools show no learners, and the ministry is investigating why. Senior schools hold 3.26 million of an expected 3.5 million, and junior schools 3.18 million. The ministry has warned that schools not entering learners in KEMIS risk their capitation funding.
 
 </div>
 

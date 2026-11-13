@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: SWZ
 ledger_rows: 35
 not_held: 3
-record: 23fea6879fe0
+record: 32921ec051cb
 ---
 
 # News, Oct – Nov 2026
@@ -410,7 +410,7 @@ Summarised under [Registries](#registries).
 
 **[Consultancy to consolidate education data management and data use in Lesotho and Eswatini (Phase 2)](https://jmerc.org/careers/consultancy-to-consolidate-education-data-management-and-data-use-in-lesotho-and-eswatini-phase)** — JMERC, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a>
 
-DHIS2 education manual validated 29 Sep 2026; Lesotho still lacks a national EMIS policy; Eswatini data-use brief.
+JMERC is seeking a firm for a second phase of GPE-KIX support to education data in Lesotho and Eswatini, with applications due 6 November 2026. In Lesotho the work covers training district education officers and a roadmap for a national EMIS policy. In Eswatini it covers putting the Data Use Action Brief into practice.
 
 </div>
 
@@ -418,7 +418,7 @@ DHIS2 education manual validated 29 Sep 2026; Lesotho still lacks a national EMI
 
 **[ESWATINI TARGETS EDUCATION DATA GAPS WITH 15-MONTH ACTION PLAN](https://eswatinipositivenews.online/eswatini-targets-education-data-gaps-with-15-month-action-plan/)** — Eswatini Positive News, 16 October 2026
 
-Draft plan Oct 2026-Dec 2027: EMIS validation checks, revised instruments, manager dashboard, data-sharing protocol.
+A consultant presented a draft Data Use Action Brief for October 2026 to December 2027 at the Eswatini EMIS Data Use Workshop on 16 October 2026. Eight working groups listed 22 decisions needing better evidence, such as teacher deployment and new classrooms. The brief proposes validation checks in the termly EMIS tool, an annual data calendar, quarterly data-quality checks and training for school focal persons.
 
 </div>
 

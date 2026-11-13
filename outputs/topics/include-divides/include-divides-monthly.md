@@ -3,8 +3,8 @@ title: Digital divides — News, October – November 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: include.divides
-places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; LBR; ZAF; TZA
-record: 6a26f3101375
+places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; LBR; NGA; ZAF; TZA
+record: 290b3160edd9
 ---
 
 # News, Oct – Nov 2026
@@ -25,6 +25,8 @@ record: 6a26f3101375
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#liberia">Liberia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -232,6 +234,22 @@ Ghana's communications minister Sam George gave Rural Telephony Project contract
 **[Digital 2027: Liberia](https://datareportal.com/reports/digital-2027-liberia)** — DataReportal (Simon Kemp), 5 November 2026
 
 DataReportal published its Digital 2027 report for Liberia on 5 November 2026. It counts 1.90 million internet users at the end of 2026, a penetration of 32.2 per cent. It also counts 5.88 million mobile connections, equal to 99.9 per cent of the population, and 1.20 million social media identities.
+
+</div>
+
+</div>
+
+## Nigeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">School connectivity through the research and education network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG to Digitalise Primary, Secondary Schools Through NgREN by 2027](https://www.ngren.edu.ng/view.php?id=27)** — NgREN - Nigeria Research and Education Network, 15 October 2026
+
+Nigeria's federal government plans to extend internet connectivity to public primary and secondary schools through NgREN from 2027, starting with a pilot across the 36 states. The plan was announced at a stakeholders' meeting in Abuja on 13 October 2026. UBEC said it has connected about 2,000 of more than 200,000 schools. NCC and USPF are running a similar Starlink project.
 
 </div>
 
