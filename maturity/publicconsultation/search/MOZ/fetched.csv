@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://mail.joint.org.mz/noticias/31/,fetched,,scripts/.workroot/study/publicconsultation/cache/MOZ/1.txt,323,html,JOINT
+2,https://intic.gov.mz/consultas-publicas-sobre-transformacao-digital-entram-em-fase-de-validacao-em-nampula/,fetched,,scripts/.workroot/study/publicconsultation/cache/MOZ/2.txt,358,html,Pesquisar
+3,https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2026/mozambique-strategy.aspx,fetched,,scripts/.workroot/study/publicconsultation/cache/MOZ/3.txt,1324,html,"Co-creating Mozambique’s National Digital Transformation Strategy (2027-2036): Towards a connected, inclusive and prosperous Mozambique"
+4,https://intic.gov.mz/wp-content/uploads/2026/04/BR_72_I_SERIE_2026_CNIA.pdf,held,held as raw/2026/2026-04-17-cnia-decree-mozambique.md,,0,,
+5,https://intic.gov.mz/workshop-valida-proposta-da-politica-e-estrategia-nacional-de-governacao-de-dados/,held,held as raw/2025/2025-12-05-workshop-valida-politica-estrategia-nacional-governacao-dados.md,,0,,
+6,https://intic.gov.mz/consulta-publica-da-proposta-de-lei-de-proteccao-de-dados/,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+7,https://www.diarioeconomico.co.mz/2025/10/18/trends/telecom/ministerio-das-comunicacoes-e-transformacao-digital-quer-reforcar-transparencia-no-sector-das-telecomunicacoes/,fetched,,scripts/.workroot/study/publicconsultation/cache/MOZ/7.txt,305,html,Ministério Das Comunicações e Transformação Digital Quer Reforçar Transparência no Sector Das Telecomunicações • Diário Económico
+8,https://www.incm.gov.mz/consultas-publicas/,fetched,,scripts/.workroot/study/publicconsultation/cache/MOZ/8.txt,279,html,Consultas Públicas - INCM
