@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-uga-itu-pp26-policy-statement-uganda",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "Uganda's ICT minister cites Blind Assistant, a locally developed AI app supported through the government's e-Booster Programme that lets visually impaired learners access learning materials through text read aloud.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Blind Assistant (e-Booster Programme)",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Blind Assistant",
+   "country_label": "Uganda",
+   "class": "accessibility",
+   "platform": "AI text-to-speech app",
+   "owner": "local developer, supported by e-Booster Programme",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

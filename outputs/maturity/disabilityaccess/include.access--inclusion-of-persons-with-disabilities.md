@@ -240,7 +240,6 @@ Tunisia put the disability card application online in 2025; a rule in force requ
 Uganda's communications regulator gave assistive technologies to schools and hubs by 2026; a rule in force requiring accessible public services is not known.
 
 - UCC says UCUSAF runs an ICT for Persons with Disabilities programme among its programmes ([source, 2024-02-06](https://www.ucc.co.ug/wp-content/uploads/2024/03/UCC-UCUSAF-TELECOM-INFRASTRUCTURE-LAUNCHED-IN-AGAGO-06.FEB_.2024.pdf)).
-- The UCC says the UCUSAF ICT4PWD programme provided assistive technologies to secondary schools and regional hubs, with the assessment covering 73 of 135 districts ([source, 2026-02-11](https://www.ucc.co.ug/ucc-study-highlights-strong-impact-of-ict4pwd-programme/)).
 
 ### Comoros: 1 Absent
 
