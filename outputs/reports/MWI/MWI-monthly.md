@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: MWI
-ledger_rows: 25
+ledger_rows: 28
 not_held: 30
-record: 468965913130
+record: bf0aa013962f
 ---
 
 # News, Oct – Nov 2026
@@ -30,6 +30,8 @@ record: 468965913130
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
@@ -67,6 +69,22 @@ Lands Minister Chimwemwe Chipungu said the ministry's Land Information Managemen
 **[Minister Chipungu reveals hackers targeted Malawi’s land database | Nyasa Times](https://www.nyasatimes.com/minister-chipungu-reveals-hackers-targeted-malawis-land-database/)** — Nyasa Times, 27 October 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft Data Protection Regulations, Guidelines and Registration Fees</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DPA Reviews Proposed Data Protection Registration Fees](https://www.dpa.mw/dpa-reviews-proposed-data-protection-registration-fees/)** — Data Protection Authority (MACRA), Malawi, 11 November 2026
+
+Risk-based fees on revenue and data-subject count, K50,000 to K7m, expected from 4 January 2027.
 
 </div>
 
@@ -170,6 +188,20 @@ Airtel Malawi told Parliament's communications committee on 3 November 2026 that
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Paratus Malawi Starlink enterprise connectivity</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paratus Group Launches in Malawi with Starlink Enterprise Connectivity Services](https://techafricanews.com/2026/11/12/paratus-group-launches-malawi-starlink-enterprise-connectivity-services/)** — Tech Africa News, 12 November 2026
+
+Paratus Group has launched in Malawi, its 16th market in sub-Saharan Africa, Tech Africa News reported on 12 November 2026. Paratus will first sell Starlink enterprise connectivity to businesses and organisations in Lilongwe, Blantyre and Mzuzu. Local technical partners are to install within 24 to 48 hours.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -221,6 +253,8 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
@@ -261,6 +295,22 @@ UNDP's own account of the 152 printers handed to Malawi's registration bureau: 1
 **[Malawi’s Nzika digital ID bounced at the bank](https://malawi24.com/2026/11/09/malawis-nzika-digital-id-bounced-at-the-bank/)** — Malawi24, 9 November 2026
 
 Some Malawian banks are refusing the Nzika digital ID wallet, Zodiak Online reported on 9 November 2026. The wallet launched on 16 September 2026. The Bankers Association of Malawi says it is still a pilot with one bank. The National Registration Bureau promised it the card's validity but set no compliance deadline.
+
+</div>
+
+</div>
+
+### Digital Payments and Fintech
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional digital retail payments platform, Malawi-Zambia corridor</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Central Bank Governors’ Bureau Strengthen Regional Monetary and Payments Institutions](https://www.comesa.int/central-bank-governors-bureau-strengthen-regional-monetary-and-payments-institutions/)** — Common Market for Eastern and Southern Africa (COMESA), 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+The bureau of COMESA's central bank governors met in Lilongwe on 11 November 2026 to review revised charters for the COMESA Clearing House and the COMESA Monetary Institute. COMESA said its Digital Retail Payment Platform, a cross-border retail system in local currencies, was nearing user trials. Live transactions are to be piloted between Malawi and Zambia.
 
 </div>
 
