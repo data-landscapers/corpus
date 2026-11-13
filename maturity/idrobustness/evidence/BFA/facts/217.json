@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-bfa-burkina-faso-lancement-de-l-operation-d-enregistrement-de-masse-de-la",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "President Ibrahim Traore officially launched mass enrolment of the population into the unique identifier register on 11 November 2026, with 966 kits to be deployed, after a pilot enrolling over 16,000 people; the minister says it prevents multiple registrations of one citizen.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Registre de l'identifiant unique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre de l'identifiant unique",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-08-uga-ura-starts-using-nin-to-profile-taxpayers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National identity database",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "Nothing stated on the system's state, biometrics or certification beyond NIRA holding the database."
+}

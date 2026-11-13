@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-08-mwi-malawi-surpasses-13-5-million-national-id-registrations",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNDP Malawi reports the National Registration Bureau registered more than 150,000 Malawians for national identity cards between April and June 2026, bringing the total registered to over 13.5 million.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National ID registration (National Registration Bureau)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID system",
+   "country_label": "National ID",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

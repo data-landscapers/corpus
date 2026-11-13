@@ -53,6 +53,7 @@ BDI,2026-03-30-bdi-the-lack-of-digital-id-systems-threatens-the-digital-economy-
 BDI,2026-05-07-burundi-unveils-biometric-national-id-awaits-law,,2026-10-19
 BDI,2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech,,2026-10-19
 BDI,2026-05-08-burundi-eco-carte-identite-biometrique-ambitions-defis,,2026-10-19
+BDI,2026-05-11-bdi-burundi-la-carte-d-identite-biometrique-encore-loin-d-etre-une-realite,,2026-11-13
 BDI,2026-05-14-burundi-biometric-id-card-far-from-reality,,2026-10-19
 BDI,2026-06-08-bdi-what-is-ai-regulation-in-burundi,,2026-10-22
 BDI,2026-06-18-bdi-le-budget-de-l-etat-exercice-2026-2027-fixe-a-7-020-6-milliards-de-bif,,2026-11-02
@@ -154,6 +155,7 @@ BFA,2026-09-15-fasoamazone-oni-cib-aes-enrolment,,2026-10-19
 BFA,2026-09-16-bfa-sidwaya-journee-internationale-identite-diplomes-biometrie,,2026-10-19
 BFA,2026-10-14-bfa-sidwaya-passeports-biometriques-ziniare,,2026-10-19
 BFA,2026-10-16-bfa-aconews-gendarmerie-cib-aes,,2026-10-19
+BFA,2026-11-11-bfa-burkina-faso-lancement-de-l-operation-d-enregistrement-de-masse-de-la,,2026-11-13
 BFA,2026-11-11-bfa-operation-d-enregistrement-de-masse-de-l-identifiant-unique-le-capitaine-ibrah,,2026-11-12
 BFA,2026-11-11-bfa-registre-identifiant-unique-lefaso,,2026-11-13
 BWA,2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa,,2026-11-07
@@ -164,6 +166,7 @@ BWA,2024-12-11-zwe-birth-registration-steadily-increases-worldwide-but-150-milli
 BWA,2025-01-01-national-identity-card-application-botswana,,2026-10-19
 BWA,2025-01-17-bwa-new-botswana-data-protection-act-progressive-step-to-a-more-secure-dig,,2026-11-01
 BWA,2025-03-09-bwa-labour-ministry-budget-proposal-sails-through,,2026-11-01
+BWA,2025-03-23-bwa-national-registration-amendment-act-2025-no-7,,2026-11-13
 BWA,2025-03-27-civ-african-civil-registration-leaders-acsa-point-direction-for-needed-acc,,2026-11-08
 BWA,2025-05-29 Biometric payment card system pushing financial inclusion in Botswana,,2026-10-19
 BWA,"2025-08-26 SADC regional DPI initiative supports KYC, digital ID interoperability across 16 countries",,2026-10-19
@@ -225,6 +228,7 @@ CIV,2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp,,2026-10
 CIV,2026-01-20-maposte-app-postal-digital-id-biometricupdate,,2026-10-19
 CIV,2026-02-10-civ-cote-d-ivoire-le-delai-de-delivrance-de-la-carte-nationale-d-identite,,2026-11-07
 CIV,2026-05-01-civ-country-playbook-cote-d-ivoire-id4africa-2026-29,,2026-11-08
+CIV,2026-05-01-civ-deploiement-a-linternational-loneci-connecte-madrid-au-registre-nation,,2026-11-13
 CIV,2026-05-01-civ-la-cote-d-ivoire-vers-une-identite-juridique-et-numerique-integree-au,,2026-10-23
 CIV,2026-05-07-civ-mise-en-uvre-du-rnpp-l-oneci-et-ses-partenaires-definissent-les-orient,,2026-11-08
 CIV,2026-05-13-id4africa-2026-oneci-identification-numerique-linfodrome,,2026-10-19
@@ -510,11 +514,13 @@ ERI,2026-03-02-uk-gov-eritrea-knowledge-base-profile,,2026-10-19
 ERI,2026-08-11-eri-consulate-frankfurt-national-id-card-requirements,,2026-11-08
 ETH,2024-01-01-eth-fayda-digital-id-ethiopia-status-update,,2026-11-08
 ETH,2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa,,2026-11-07
+ETH,2024-01-13-eth-critics-fear-comms-authority-personal-data-dominion-impartiality-in-le,,2026-11-13
 ETH,2024-01-16-eth-ministry-embarks-on-e-tax-services,,2026-10-27
 ETH,2024-02-15-uga-igad-land-governance-twinning-exercise-between-uganda-and-ethiopia,,2026-11-12
 ETH,2024-03-15-eth-leveraging-e-payments-for-financial-inclusion-in-ethiopia,,2026-11-06
 ETH,2024-05-09-eth-ethiopia-s-national-digital-id-a-breakthrough-for-tax-system-transform,,2026-11-08
 ETH,2024-07-13-eth-addisfortune-e-governance-strategy-consultation,,2026-10-19
+ETH,2024-08-09-lso-linking-civil-registration-to-vital-statistics-and-legal-identity-syst,,2026-11-13
 ETH,2024-10-09-eth-ena-digital-id-registration-campaign-addis,,2026-10-19
 ETH,2024-10-12-eth-reporter-forgeries-fraud-national-id-program,,2026-11-08
 ETH,2024-11-06-crs-6-2024080183-2024-6tu-software-for-patients-identification-adwa-hosp,,2026-11-06
@@ -583,6 +589,7 @@ GAB,2023-12-31-gab-gabon-le-chantier-de-renovation-des-documents-d-identite-sur-
 GAB,2024-01-01-in-groupe-insight-report-2023-24,,2026-10-19
 GAB,2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa,,2026-11-07
 GAB,2024-03-28-gab-agp-campagne-delivrance-nip-cnie,,2026-11-01
+GAB,2024-03-28-gab-cnie-3-avril-2024-le-gabon-embarque-dans-l-ere-de-l-identite-numerique,,2026-11-13
 GAB,2024-04-01-cnie-carte-nationale-identite-electronique,,2026-10-19
 GAB,2024-05-21-gab-gabon-166-912-numero-d-identification-personnel-deja-delivres,,2026-11-09
 GAB,2024-06-26-gabon-launches-electronic-national-id-card,,2026-10-19
@@ -621,6 +628,7 @@ GHA,2024-05-13-gha-full-text-deputy-commissioner-of-the-electoral-commission-bri
 GHA,2024-05-14-gha-ghana-s-e-initiatives-good-model-for-digital-transformation-in-africa,,2026-11-04
 GHA,2024-05-20-gha-report-of-investigation-government-of-ghana-payroll-administration-pha,,2026-10-27
 GHA,2024-06-01-gha-all-pupils-will-receive-ghana-card-numbers-dr-bawumia,,2026-11-03
+GHA,2024-08-09-lso-linking-civil-registration-to-vital-statistics-and-legal-identity-syst,,2026-11-13
 GHA,2024-08-20-gha-nationwide-voters-exhibition-starts-today,,2026-11-04
 GHA,2024-08-27-gha-ghana-card-registration-nia-uncovers-over-100k-double-registration-app,,2026-11-09
 GHA,2024-08-31-gha-nita-gets-three-iso-certifications-at-a-go,,2026-11-12
@@ -698,6 +706,7 @@ GHA,2026-11-05-gha-ghana-must-protect-its-data-sovereignty-commission,,2026-11-0
 GHA,2026-11-06-gha-only-61-of-ghanaian-children-have-birth-certificates,,2026-11-08
 GHA,2026-11-07-gha-mahama-queen-maxima-discuss-digital-financial-services-future-of-susu,,2026-11-08
 GHA,2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026,,2026-11-11
+GHA,2026-11-11-gha-national-identification-authority-homepage,,2026-11-13
 GHA,2026-11-11-rail-knust-dpc-webinar-ai-data-protection,,2026-11-13
 GIN,2023-12-05-gin-reformes-et-innovations-a-la-cnss-vers-la-dematerialisation-dans-le-pa,,2026-11-06
 GIN,2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa,,2026-11-07
@@ -813,6 +822,7 @@ KEN,2025-10-19-ken-commission-resumes-continuous-voter-registration-with-colourf
 KEN,2025-11-01-government-waives-national-identification-card-processing-charges,,2026-10-19
 KEN,2025-12-04-ken-ai-system-flaws-push-sha-into-chaos-mps-say-in-explosive-report,,2026-10-22
 KEN,2026-02-24 Kenya streamlines access to legal and digital identity,,2026-10-19
+KEN,2026-03-05-ken-gov-t-moves-to-modernise-civil-registration-as-stakeholders-validate-b,,2026-11-13
 KEN,2026-04-10-ken-iebc-to-clean-voter-register-ahead-of-2027-polls,,2026-11-04
 KEN,2026-04-29-ken-techweez-icta-interoperability-framework-connected-africa,,2026-11-11
 KEN,2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital,,2026-11-09
@@ -855,6 +865,7 @@ LBR,2025-02-03-lbr-liberia-how-the-government-cannibalizes-its-resources,,2026-1
 LBR,2025-03-11-fpa-nir-digital-transformation-partnerships-enrollment,,2026-10-19
 LBR,2025-06-01-nir-relevance-national-special-elections,,2026-10-19
 LBR,2025-06-17-lbr-government-extends-national-id-deadline-to-august-31,,2026-11-09
+LBR,2025-06-20-lbr-flawed-expensive-and-slow-house-turns-heat-on-national-id-chief,,2026-11-13
 LBR,2025-06-24-lbr-liberian-banks-no-longer-require-national-id-card-says-cbl-and-nir,,2026-11-09
 LBR,2025-07-03-nec-hands-over-biometric-kits-to-nir,,2026-10-19
 LBR,2025-08-13-lbr-boakai-s-44m-biometric-id-controversy-who-briefed-the-president-before,,2026-11-12
@@ -918,6 +929,7 @@ LSO,2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-afri
 LSO,2024-04-23-lso-eoi-lesotho-nissa-systems-development-enhancement-consultancy,,2026-11-08
 LSO,2024-05-14 Lesotho joins 50-in-5 DPI campaign (14th member); CRVS-DPI integration,,2026-10-19
 LSO,2024-07-24-lso-lena-iec-update-electors-register,,2026-10-19
+LSO,2024-08-09-lso-linking-civil-registration-to-vital-statistics-and-legal-identity-syst,,2026-11-13
 LSO,2024-09-21-lso-lestimes-pm-allays-fears-passports-ids,,2026-10-19
 LSO,2024-10-16-lso-publiceye-iec-re-registration-national-id,,2026-10-19
 LSO,2024-10-23-lso-lestimes-iec-emis-tender-battle,,2026-10-19
@@ -1090,6 +1102,7 @@ MOZ,2026-02-12-moz-governo-mobiliza-o-pais-para-definir-estrategia-nacional-de-t
 MOZ,2026-02-12-moz-mozambique-govt-wants-private-sector-active-in-nation-s-digital-transf,,2026-11-09
 MOZ,2026-03-26-moz-mozambique-fintech-week-26-ausencia-de-interoperabilidade-trava-servic,,2026-10-29
 MOZ,2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr,,2026-11-08
+MOZ,2026-05-12-moz-atdi-destaca-capacidade-nacional-para-digitalizacao-do-registo-integra,,2026-11-13
 MOZ,2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate,,2026-10-19
 MOZ,2026-06-03-cabinet-approves-new-id-card-regulations-clubofmozambique,,2026-10-19
 MOZ,2026-06-26-moz-atdi-e-bau-alinham-visao-de-servicos-publicos-digitais-integrados-e-ce,,2026-10-29
@@ -1158,6 +1171,7 @@ MUS,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-rep
 MUS,2026-05-14-communique-enregistrement-electeurs-2026,,2026-10-19
 MUS,"2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI",,2026-10-19
 MUS,2026-05-27-no-digital-id-without-data-protection-madhub-biometricupdate,,2026-10-19
+MUS,2026-07-01-mus-cybersecurite-une-nouvelle-reglementation-pour-proteger-les-infrastruc,,2026-11-13
 MUS,2026-08-08-india-tech-sovereignty-push-africa-asean,,2026-10-19
 MUS,2026-10-03-permis-de-conduire-numerique-compte-a-rebours,,2026-10-19
 MUS,2026-10-13-mus-etat-civil-nouveau-format-pour-les-actes-de-naissance-de-mariage-et-de,,2026-10-26
@@ -1191,6 +1205,7 @@ MWI,2026-04-15-mwi-reserve-bank-of-malawi-sets-digital-payments-vision-but-execu
 MWI,2026-05-29-mwi-minister-of-justice-urges-professionalism,,2026-10-24
 MWI,2026-06-08-mwi-malawi-digital-economy,,2026-11-07
 MWI,2026-06-30-mwi-30-june-2026-by-election-and-fresh-election,,2026-11-04
+MWI,2026-07-08-mwi-malawi-surpasses-13-5-million-national-id-registrations,,2026-11-13
 MWI,2026-07-10-macra-undp-ai-digital-id-collaboration-itweb,,2026-10-19
 MWI,2026-07-13-mwi-undp-digital-innovation-egovernment-recognition,,2026-10-19
 MWI,2026-07-22-mwi-nation-mra-digital-tax-stamps-ai,,2026-10-19
@@ -1277,6 +1292,7 @@ NGA,2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-afri
 NGA,2024-01-02-nga-introduction-of-automated-e-ticketing-system-for-revenue-collection-an,,2026-11-12
 NGA,2024-02-28-nga-cybercrimes-prohibition-prevention-etc-amendment-act-2024,,2026-10-28
 NGA,2024-04-10-nga-idemia-upgrading-nigeria-s-national-biometric-system-to-handle-250m-id,,2026-11-08
+NGA,2024-05-16-nga-cybercrimes-amendment-act-exposes-lapses-in-legislative-process,,2026-11-13
 NGA,2024-06-25-nga-nigeria-s-nimc-fights-off-data-breach-accusations-flags-5-data-harvest,,2026-11-09
 NGA,2024-06-28-nga-itpulse-galaxy-backbone-kano-tier-iv,,2026-10-19
 NGA,2024-08-28-nga-press-statement-ncc-announces-final-deadline-for-nin-sim-linkage-compl,,2026-11-01
@@ -1284,6 +1300,7 @@ NGA,2024-08-29-nga-npc-first-lady-birth-certificate-nin,,2026-10-19
 NGA,2024-09-26-nga-blueprint-npc-nin-newborns,,2026-10-19
 NGA,2024-10-02-nga-nigerian-government-ensures-data-sovereignty-with-local-cloud-hosting,,2026-11-01
 NGA,2024-10-20-nga-nairametrics-cash-transfer-4-million-households,,2026-10-19
+NGA,2024-12-11-nga-nigeria-tenders-83m-digital-identity-system-upgrade-and-mosip-integrat,,2026-11-13
 NGA,2025-01-01-nga-nsipa-about-nassco-national-social-register,,2026-10-19
 NGA,2025-01-27-multiuse-biometric-id-card-launch,,2026-10-19
 NGA,2025-02-24-nga-nigeria-moves-closer-to-fresh-census-president-tinubu-to-set-up-commit,,2026-10-26
@@ -1295,6 +1312,7 @@ NGA,2025-05-15-nga-nbs-commits-to-effective-mgt-of-administrative-data,,2026-10-
 NGA,2025-05-21-gha-ghana-nigeria-kenya-reveal-revenue-generation-models-from-national-id,,2026-11-08
 NGA,2025-05-31-nga-npc-unicef-nimc-algon-forge-strategic-alliance-to-scale-up-birth-regis,,2026-11-08
 NGA,2025-07-01-nga-cac-unveils-ai-powered-portal-for-faster-company-registrations,,2026-10-24
+NGA,2025-07-01-nga-consultation-paper-on-the-review-of-the-internet-code-of-practice-2019,,2026-11-13
 NGA,2025-07-31-nga-nimc-begins-migration-of-telcos-to-ninauth-for-identity-verification,,2026-10-23
 NGA,2025-08-04-nga-nigeria-telcos-eligible-to-offer-nin-verification-for-sim-card-service,,2026-10-23
 NGA,2025-09-04-nga-inec-nimc-partner-to-scale-up-nin-registration-nationwide,,2026-11-08
@@ -1307,6 +1325,7 @@ NGA,2025-10-30-nga-credible-inclusive-national-identity-management-system-fundam
 NGA,2025-12-01-mosip-rewind-2025,,2026-11-08
 NGA,2025-12-10-nga-nigeria-moves-to-replace-its-national-id-system-a-misstep-could-lock-o,,2026-11-08
 NGA,2025-12-23-nga-nin-cac-number-to-serve-as-tax-id-firs,,2026-10-24
+NGA,2026-01-01-nga-from-birth-to-nin-how-lagos-is-building-legal-identity-for-every-child,,2026-11-13
 NGA,2026-01-06-nga-nigeria-s-digital-identity-architecture-building-trust-through-technol,,2026-11-09
 NGA,2026-01-28 The Gender Gap in Rural Niger State's Digital Identity,,2026-10-19
 NGA,2026-02-16 Nigeria launches nationwide ward-level drive to boost digital ID coverage and inclusion,,2026-10-19
@@ -1325,6 +1344,7 @@ NGA,2026-07-01-nga-the-nimc-act-2026-explained-what-nigeria-s-new-identity-law-m
 NGA,2026-07-12-nga-tinubu-has-given-nimc-until-end-of-2026-to-enrol-every-nigerian-says-d,,2026-11-09
 NGA,2026-07-15-nga-npc-flags-off-nationwide-digital-birth-death-registration,,2026-11-07
 NGA,2026-07-17-nga-six-months-to-presidential-poll-inec-raises-preparation-tempo,,2026-11-04
+NGA,2026-08-04-nga-npc-launches-vitalreg-digital-birth-and-death-registration-platform-ac,,2026-11-13
 NGA,2026-08-05-nigeria-integrates-national-student-ids-digital-identity-system,,2026-10-19
 NGA,2026-08-11-nga-npc-targets-8-000-digital-birth-registration-centres,,2026-10-26
 NGA,2026-08-12-nga-vanguard-npc-unicef-birth-registration,,2026-10-19
@@ -1537,6 +1557,7 @@ SOM,2026-02-26-som-director-of-nira-meets-with-chinese-ambassador-to-advance-nat
 SOM,2026-03-29-som-nca-cybersecurity-certification-training-government,,2026-10-19
 SOM,2026-04-01-som-4-2-cards-issued-and-nira-offices,,2026-11-07
 SOM,2026-04-01-som-4-3-access-to-services,,2026-11-08
+SOM,2026-04-02-som-promoting-innovation-and-digital-transformation-in-somalia,,2026-11-13
 SOM,2026-04-24-somalia-eaqoonsi-app-dpi,,2026-10-19
 SOM,2026-05-01-som-4-1-application-process-and-identity-verification,,2026-11-08
 SOM,2026-08-25-somalia-eaqoonsi-digital-id-adoption-biometricupdate,,2026-10-19
@@ -1685,6 +1706,7 @@ TGO,2023-12-07-crs-4-2023afd00779-2023-fid-un-pole-d-utilisation-des-donnees-num
 TGO,2023-12-20-tgo-otr-creation-nif-en-ligne,,2026-10-19
 TGO,2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa,,2026-11-07
 TGO,2024-07-26-tgo-communique-n021-2024-otr-cg-ci-dccf-relatif-au-numero-unique-parcellai,,2026-11-12
+TGO,2024-08-09-lso-linking-civil-registration-to-vital-statistics-and-legal-identity-syst,,2026-11-13
 TGO,2024-08-28-tgo-etat-civil-des-progres-et-numerisation-en-cours,,2026-10-26
 TGO,2024-12-14-tgo-presentation-des-resultats-du-dernier-recensement-general-de-la-popula,,2026-10-26
 TGO,2025-02-07-tgo-rtg-identification-biometrique-savanes,,2026-10-19
@@ -1719,6 +1741,7 @@ TUN,2023-11-03-tun-arp-commission-administration-audition-e-administration,,2026
 TUN,2023-11-13-tun-economistemaghrebin-isie-mise-a-jour,,2026-10-19
 TUN,2024-03-07 Eight years in the making - Tunisia's Biometric ID and Passport Bills risk rights,,2026-10-19
 TUN,2024-03-11-loi-organique-2024-22-carte-identite-nationale,,2026-10-19
+TUN,2024-03-19-tun-tunisie-transformation-digitale-l-etat-accelere-les-chantiers-numeriqu,,2026-11-13
 TUN,2024-04-23 Tunisia - Biometric ID card and passport usage to begin in H1 2025,,2026-10-19
 TUN,2024-04-23 Tunisia to Get Biometric IDs in H1 of 2025,,2026-10-19
 TUN,2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases,,2026-10-19
@@ -1839,6 +1862,7 @@ UGA,2026-08-20-parliament-uganda-new-id-system-questions-digital-verification,,2
 UGA,2026-08-21-techbuild-uganda-national-id-broken-qr-codes,,2026-10-19
 UGA,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle,,2026-10-19
 UGA,2026-08-31-uga-jinja-land-office-backlog-exposes-staffing-infrastructure-gaps-despite,,2026-11-12
+UGA,2026-09-08-uga-ura-starts-using-nin-to-profile-taxpayers,,2026-11-13
 UGA,2026-09-09-uga-independent-nira-staffing-crisis-uncollected-ids,,2026-10-19
 UGA,2026-09-11-business-focus-nira-new-national-ids-fail-services,,2026-10-19
 UGA,2026-09-25-uga-ask-ura-commissioner-general-37,,2026-11-08
@@ -1959,6 +1983,7 @@ ZMB,2025-12-02-zmb-dzap-system-integrator-foundational-digital-id-crvs-rfp,,2026
 ZMB,2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS,,2026-10-19
 ZMB,2026-03-22-znbc-zambia-moves-ahead-digital-id-system,,2026-10-19
 ZMB,2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project,,2026-10-19
+ZMB,2026-03-30-zmb-zambia-seeks-international-system-integrator-for-mosip-based-digital-i,,2026-11-13
 ZMB,2026-04-27-zambia-apai-crvs-acsa-workshop,,2026-10-19
 ZMB,2026-05-14-lso-id4africa-panel-outlines-steady-kyc-process-policy-improvement,,2026-11-09
 ZMB,2026-05-18-zambia-id4africa-multi-sectoral-engagement,,2026-10-19
@@ -1986,11 +2011,13 @@ ZWE,"2025-08-26 SADC regional DPI initiative supports KYC, digital ID interopera
 ZWE,2025-10-01-zwe-civil-registry-computerise-sub-offices,,2026-10-19
 ZWE,2025-10-10-nigeria-zimbabwe-farmer-digital-id,,2026-10-19
 ZWE,2025-10-23-zwe-ict-ministry-aligns-strategy-with-nds2,,2026-11-02
+ZWE,2026-03-01-zwe-registrar-general-to-get-voters-roll-custody,,2026-11-13
 ZWE,2026-03-02-zwe-zimbabwe-to-fully-automate-passport-applications-before-year-end,,2026-11-04
 ZWE,2026-03-21-zwe-rg-s-office-now-more-efficient-than-ever-before,,2026-10-26
 ZWE,2026-03-26-zwe-financial-sector-bears-brunt-of-data-breaches-potraz-calls-for-stronge,,2026-10-28
 ZWE,2026-05-14-minister-denies-id-backlog,,2026-10-19
 ZWE,2026-07-18-zwe-crvs-health-integration-egmrg-presentation,,2026-10-19
+ZWE,2026-07-20-zwe-zim-s-digital-population-registry-sets-benchmark-for-africa,,2026-11-13
 ZWE,2026-08-08-zimbabwe-unicef-china-birth-registration-digitisation,,2026-10-19
 ZWE,2026-09-18-zwe-herald-30-new-vehicles-boost-civil-registry-services,,2026-10-19
 ZWE,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-21

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-11-nga-nigeria-tenders-83m-digital-identity-system-upgrade-and-mosip-integrat",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Nigeria's ID4D Project Implementation Unit is tendering an $83 million contract, financed by the World Bank with EU support, for a system integrator to design, supply, commission and maintain NIMS 2.0 with the MOSIP platform and an upgraded biometric identification system.",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "NIMS 2.0",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMS 2.0",
+   "country_label": "Nigeria national identity management system",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

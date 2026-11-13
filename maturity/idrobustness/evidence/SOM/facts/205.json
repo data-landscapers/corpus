@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-02-som-promoting-innovation-and-digital-transformation-in-somalia",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNDP says Somalia has established an operational national identity system, the National Identification and Registration Authority (NIRA).",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "NIRA national ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRA national ID system",
+   "country_label": "NIRA",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
