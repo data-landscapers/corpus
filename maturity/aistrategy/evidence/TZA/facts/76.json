@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-tza-jamiiafrica-convenes-stakeholders-to-shape-a-national-citizen-centered",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "JamiiAfrica says that after a directive from the Prime Minister, Kassim Majaliwa, at World Press Freedom Day 2025 it convened stakeholders in May 2025 to review and strengthen the Draft National Artificial Intelligence Strategy, ahead of its official launch later in 2025.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Draft National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Draft National AI Strategy",
+   "country_label": "Tanzania Draft National Artificial Intelligence Strategy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
