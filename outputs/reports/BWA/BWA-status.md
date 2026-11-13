@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 214
+sources_cited: 215
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -255,7 +255,7 @@ Revenue administration is the priority. [The revenue service is modernising Lekg
 <!-- derived -->
 That is roughly eight and a half times the entire ICT envelope in the same programme, the envelope carrying the national payment switch.
 
-Examinations are further along: [the examinations council marked 32 subjects electronically in 2024, feeding its Malepa processing system](https://dailynews.gov.bw/news-detail/85969), and [deployed an in-house mark-capture application in 2024/25](https://www.bec.co.bw/images/2025/annual-report/bec-annual-report-2025-final-09-12-25_.pdf). Schools report by form: [the annual school census that produces national education statistics is collected on questionnaires sent to schools each year (2018)](https://www.statsbots.org.bw/sites/default/files/Primary%20School%20Stats%20Brief%202018.pdf), [run by the education ministry's EMIS unit, whose 2022 census results were published in June 2024](https://www.statsbots.org.bw/sites/default/files/Secondary%20Schools%20Stats%20Brief%202022.pdf); [an EMIS system was being procured in 2020](https://dailynews.gov.bw/news-detail/54687), and no account of its delivery is held.
+Examinations are further along: [the examinations council marked 32 subjects electronically in 2024, feeding its Malepa processing system](https://dailynews.gov.bw/news-detail/85969), and [deployed an in-house mark-capture application in 2024/25](https://www.bec.co.bw/images/2025/annual-report/bec-annual-report-2025-final-09-12-25_.pdf). Schools report by form: [the annual school census that produces national education statistics is collected on questionnaires sent to schools each year (2018)](https://www.statsbots.org.bw/sites/default/files/Primary%20School%20Stats%20Brief%202018.pdf), [run by the education ministry's EMIS unit, whose 2022 census results were published in June 2024](https://www.statsbots.org.bw/sites/default/files/Secondary%20Schools%20Stats%20Brief%202022.pdf); [an EMIS system was being procured in 2020](https://dailynews.gov.bw/news-detail/54687), and no account of its delivery is held. In March 2026 the justice ministry [told Parliament the courts' Case Management System was not operational because of system errors](https://www.thegazette.news/news/paper-shortage-crisis-hits-courts/).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
