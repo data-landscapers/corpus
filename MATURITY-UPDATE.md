@@ -10,7 +10,7 @@ last_reviewed: 2026-11-11
 
 *(Commissioned by Bill on 2026-10-09. `maturity/documentation/maturity-study-method.md` makes a study; this keeps what it issued true. OSINT is read-only throughout.)*
 
-**The one-line brief.** *A study stages an indicator once. Every night's arrivals are read for facts that bear on it, a fact that could move a cell has the cell reassessed, and each night five indicators are rebuilt whole, all 54 countries against the one ladder, and searched for what they do not hold.*
+**The one-line brief.** *A study stages an indicator once. Every night's arrivals are read for facts that bear on it, a fact that could move a cell has the cell reassessed, and each night two indicators are rebuilt whole, all 54 countries against the one ladder, and searched for what they do not hold.*
 
 `study-update.py` → `HELD` is the switch, off since 2026-10-17 *(Bill)*.
 
@@ -67,9 +67,9 @@ Start one Sonnet drafter per call file, then `study-arrivals.py fan`: an arrival
    A lint failure is repaired before the commit; a cell that cannot be repaired is restored from git and its arrival left open.
 10. **Commit** `maturity/{id}/evidence/`, `outputs/maturity/{id}/` and nothing else; RENDER builds the pages. The log line carries the counts: arrivals, facts, reassessments, stages moved.
 
-## The rebuild — five indicators a night
+## The rebuild — two indicators a night
 
-**Five indicators a night are rebuilt whole** *(Bill, 2026-11-11)*: 54 cells reassessed against one ladder, then all 54 countries searched afresh. `logs/maturity-review.csv` is the control list: one row an indicator, its last rebuild, and what that rebuild cost.
+**Two indicators a night are rebuilt whole** *(Bill, 2026-11-13)*: 54 cells reassessed against one ladder, then all 54 countries searched afresh. `logs/maturity-review.csv` is the control list: one row an indicator, its last rebuild, and what that rebuild cost.
 **The rebuild is the deep dive** *(Bill, 2026-10-16)*: most indicators were first studied in batches that skip the second drafter and stage hard cells low (`maturity/documentation/first-pass-batch.md`, `study.json` → `"pass": "first"`). For those the rebuild adds the second-drafter check of method §7.3 and a fresh reading of every cell whose `note` opens *First pass:*.
 
 **Stage 4c never looks back**: a cell staged on a 2023 figure stays there until a document arrives. The rebuild does.
@@ -79,7 +79,7 @@ python scripts/study-update.py next --poll    # polled
 python scripts/study-update.py next           # any other cycle
 ```
 
-**Exit 0 names tonight's five indicators; exit 1 means none is owed.** It runs in `CYCLE.md` after the unit review and is skipped whenever that is. Work each indicator whole, steps 1 to 10, then the next.
+**Exit 0 names tonight's two indicators; exit 1 means none is owed.** It runs in `CYCLE.md` after the unit review and is skipped whenever that is. Work each indicator whole, steps 1 to 10, then the next.
 
 **Measure each one** *(Bill, 2026-10-17)*. Before step 1 run `python scripts/log-line.py --start rebuild` and `python scripts/study-tokens.py --total`, and keep the figure; step 10 takes the difference.
 

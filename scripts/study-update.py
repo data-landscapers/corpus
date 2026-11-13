@@ -4,7 +4,7 @@ r"""study-update.py — keeping a finished maturity study current: the work orde
     python scripts/study-update.py order                   what arrived and is unread, by study and country; exit 1 if nothing
     python scripts/study-update.py close STUDY ISO3 SLUG --outcome nothing|fact|reassessed|instrument|old|capped
     python scripts/study-update.py log STUDY ISO3 KEY --kind fact|review|ladder --note "..."
-    python scripts/study-update.py next [--poll]           tonight's five indicators to rebuild; exit 1 if none is owed
+    python scripts/study-update.py next [--poll]           tonight's two indicators to rebuild; exit 1 if none is owed
     python scripts/study-update.py done STUDY KEY --minutes N --tokens M --staged N
                                                            stamp an indicator's rebuild and what it cost
     python scripts/study-update.py list                    the control list, most overdue first
@@ -69,7 +69,7 @@ OUTCOMES = ("nothing", "fact", "reassessed",
 # Lifted 2026-10-17 (Bill): every indicator has its first study.
 HELD = False
 MIN_GAP_DAYS = 30          # an indicator is not reassessed whole twice inside this
-PER_NIGHT = 5              # indicators rebuilt a night (Bill, 2026-11-11)
+PER_NIGHT = 2              # indicators rebuilt a night (Bill, 2026-11-13; five from 2026-11-11)
 SEARCH_EVERY_DAYS = 365
 
 if hasattr(sys.stdout, "reconfigure"):
