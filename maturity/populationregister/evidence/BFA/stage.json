@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "population",
-      "stage": "2",
-      "register": "underway",
+      "stage": "3",
+      "register": "inservice",
       "vital": "",
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-001",
-      "gaps": "No source found since October 2023 says: is a population register in service.",
-      "note": "Stage 2 because Law 027-2024/ALT of October 2024 provides for the register. Stage 3 needs the register in service, and no source says it is.",
-      "as_at": "2026-11-12"
+      "stage_sources": "BFA-003;BFA-001",
+      "gaps": "No source found says births or deaths are entered in the register, or that other registers or services take records from it.",
+      "note": "Stage 3: mass enrolment into the unique identifier register, provided for by Law 027-2024/ALT, was launched on 11 November 2026 after a pilot that enrolled over 16,000 people (BFA-003), so the register is in service. No source says births or deaths are entered in it, so stage 4 is not met.",
+      "as_at": "2026-11-13"
     }
   ]
 }

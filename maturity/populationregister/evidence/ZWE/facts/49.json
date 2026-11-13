@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-20-zwe-zim-s-digital-population-registry-sets-benchmark-for-africa",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Herald reports that the Zimbabwe Population Registration System (ZPRS) is a centralised database storing citizens' demographic information, described by Minister Kazembe at a July 2026 registrars' meeting.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Zimbabwe Population Registration System (ZPRS)",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "The Herald reports ZPRS has been integrated with the Department of Immigration's fully operational Online Border Management System (OBMS), and that linking it to police is under way, per the minister.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Zimbabwe Population Registration System (ZPRS)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe Population Registration System (ZPRS)",
+   "country_label": "Zimbabwe",
+   "class": "population",
+   "platform": "",
+   "owner": "Registrar General",
+   "tiers": ""
+  },
+  {
+   "system": "Online Border Management System (OBMS)",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Immigration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

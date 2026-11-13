@@ -55,3 +55,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,EGY,dpi.registry--population-register,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder and window; stage held
 2026-11-12,MRT,dpi.registry--population-register,review,3,4,MRT-004;MRT-003;MRT-001,Rebuild: procedures portal (Nov 2023) enrols newborns in the register; question 3 met
 2026-11-12,SWZ,dpi.registry--population-register,review,3,4,SWZ-001,Rebuild: 2025 birth and death registration entered in the NPR; question 3 met
+2026-11-13,BFA,dpi.registry--population-register,fact,2,3,BFA-003;BFA-001,"Mass enrolment into the unique identifier register launched 11 November 2026 after a 16,000-person pilot: register in service, 2 to 3"
+2026-11-13,BWA,dpi.registry--population-register,fact,2,2,BWA-002;BWA-001,"National Registration (Amendment) Act 2025 assented 23 March 2025, providing for a Unified Population Register; commencement not on record, stays 2"
+2026-11-13,ZWE,dpi.registry--population-register,fact,3,5,ZWE-008;ZWE-006;ZWE-005;ZWE-001,"Minister: ZPRS updates in real time on death registration (Feb 2026) and is integrated with Immigration's OBMS (Jul 2026): vital and source answered, 3 to 5"

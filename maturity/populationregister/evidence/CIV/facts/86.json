@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-civ-deploiement-a-linternational-loneci-connecte-madrid-au-registre-nation",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ONECI states that its Madrid centre is connected to the national register of natural persons (RNPP) from 12 May 2026.",
+   "as_of": "2026-05-12",
+   "date_precision": "day",
+   "system": "Registre national des personnes physiques (RNPP)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national des personnes physiques (RNPP)",
+   "country_label": "Cote d'Ivoire",
+   "class": "population",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

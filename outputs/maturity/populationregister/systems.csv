@@ -20,6 +20,9 @@ BEN,Registre National des Personnes Physiques (RNPP),Benin,population,,ANIP,,202
 BFA,fichier national des élèves,Burkina Faso,other,,Ministère de l'Enseignement de base / Ministère de la Transition digitale,,2025-06-27-numerisation-systeme-educatif-fichier-national-eleves
 BFA,registre national de l'identifiant unique de la personne physique,Burkina Faso,population,"central database, biometric",organisme en charge de l'identifiant unique (to be created by decree),,2024-10-11-bfa-alt-loi-027-2024-identification-unique
 BFA,Registre social unique (RSU),Burkina Faso,other,,Ministere de la famille et de la solidarite,,2026-10-27-bfa-burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social
+BFA,Registre de l'identifiant unique électronique,Burkina Faso,other,biometric unique-ID register,Ministry of Digital Transition,,2026-11-11-bfa-operation-d-enregistrement-de-masse-de-l-identifiant-unique-le-capitaine-ibrah
+BFA,Registre de l'identifiant unique (IUE),Burkina Faso,population,,Ministry of Digital Transition,,2026-11-11-bfa-registre-identifiant-unique-lefaso
+BWA,Unified Population Register,Botswana,population,,Registrar,,2025-03-23-bwa-national-registration-amendment-act-2025-no-7
 CIV,Registre national des personnes physiques (RNPP),Cote d'Ivoire,population,,ONECI,,2026-07-30-cote-divoire-digital-identity-connected-not-identified
 CIV,Registre National des Personnes Physiques (RNPP),Cote d'Ivoire,population,,ONECI,,2026-04-03-rsu-convention-bcpfs-oneci
 CIV,Registre national des personnes physiques (RNPP),Cote d'Ivoire,population,,ONECI,,2026-10-05-civ-aip-parae-confiance-services-publics-numeriques
@@ -36,9 +39,11 @@ CIV,RNPP,Côte d'Ivoire,population,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numer
 CIV,City Web,Côte d'Ivoire,other,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
 CIV,CNI / NNI,Côte d'Ivoire,other,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
 CIV,RNPP,Cote d'Ivoire,population,,ONECI,,2026-10-27-civ-cote-d-ivoire-le-logiciel-national-d-etat-civil-deploye-la-connectivit
+CIV,Registre national des personnes physiques (RNPP),Cote d'Ivoire,population,,ONECI,,2026-05-01-civ-deploiement-a-linternational-loneci-connecte-madrid-au-registre-nation
 COD,registre de la population de Kinshasa,RD Congo (Kinshasa province),population,compilation server,"Ville-province de Kinshasa, provincial Interior Ministry",provincial,2025-11-04-radiookapi-debut-digitalisation-registre-population-kinshasa
 COD,Fichier general de la population (FGP),RDC,other,,ONIP,,2024-08-11-cod-acp-etat-civil-communication-onip-fgp
 COD,"Digital population register, commune of Kintambo (pilot)",DR Congo,population,,Commune de Kintambo,commune; Ville-Province de Kinshasa,2024-01-01-crs-2-2024009283-2024-projet-pilote-de-digitalisation-du-registre-de-la
+COM,Système d'Information Foncier,"Comoros land information system, in preparation",other,,Cellule de Cartographie,,2026-04-14-com-un-moment-historique-pour-les-comores-au-rcmrd-nairobi
 CPV,SNIAC,Sistema Nacional de Identificação e Autenticação Civil,population,central civil identification database with PKI,Conselho de Gestão (coordinated by the registry and identification ministry),,2013-09-17-cpv-bo-lei-43-viii-2013-sniac
 DJI,Registre national des personnes physiques,Djibouti,population,,Direction générale de la Population et de la Famille,,2026-07-23-lanation-carte-nationale-identite-biometrique
 DJI,Registre National des Personnes Physiques (RNPP) / NNI,Djibouti,population,"biometric, centralised",Direction Generale de la Population et de la Famille with ANSIE,,2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques
@@ -68,6 +73,7 @@ KEN,population registry,Kenya,population,,,,2026-11-02-ken-birth-registration-e-
 KEN,Integrated Population Registration System (IPRS),Kenya,population,,National Registration Bureau,,2026-05-28-ken-project-profile-the-in-between-lives-of-the-double-registered
 KEN,National population register,Kenya,population,,State Department for Immigration and Citizen Services,,2026-11-09-ken-how-kenya-s-digital-birth-registration-system-will-work
 KEN,National Population Registration System (IPRS),IPRS,population,,Government of Kenya,,2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery
+KEN,national population database,national population database,population,,State Department for Immigration and Citizen Services,,2026-03-05-ken-gov-t-moves-to-modernise-civil-registration-as-stakeholders-validate-b
 LBR,NIDCRVS,Liberia,population,,Government of Liberia,,2026-10-16-lbr-liberiapublicradio-senate-review-52m-digital-id-concession
 LSO,National Population Database,Lesotho,population,,Ministry of Home Affairs (NICR),,2022-07-20-lso-moha-automated-births-deaths-registration-roma
 LSO,NICR (National Identity and Civil Registry),Lesotho,population,,Ministry of Home Affairs,,2020-08-10-lso-moha-nicr-database-pensions-service-delivery
@@ -106,6 +112,7 @@ NER,RNP,Registre National de la Population,population,,ANEI,,2026-09-03-niger-di
 NER,Registre National de la Population (RNP),Niger,population,,Ministry of the Interior; Agence nationale de l'enregistrement et d'identification des personnes physiques,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
 RWA,National Population Registry,Rwanda,population,,,,2026-06-03-rwanda-integrated-civil-registration-system-launch
 SLE,national population registry,Sierra Leone,population,,NCRA,,2024-01-11-sle-sierra-leone-urges-citizens-to-obtain-biometric-id-cards-for-security
+SOM,Biometric Registration and Verification (BRaVe),Somalia,other,,government with IOM and WFP,,2025-06-13-som-371-000-households-in-somalia-find-respite-from-drought
 SYC,National Population Database,Seychelles,population,,"Civil Status Division, Department of Immigration and Civil Status",,2026-01-01-ics-civil-status-division
 SYC,National Population Database (NPD),SYC,population,,,,2025-03-01-syc-dict-development-of-the-land-valuation-system-lvs
 TCD,registre national biométrique des populations,Chad,population,,ANATS,,2026-03-10-atpe-finances-anats-protocole-consultation-donnees
@@ -146,3 +153,6 @@ ZAF,National Population Register,South Africa,population,IBM System Z mainframe,
 ZWE,national population registry,Zimbabwe,population,,Registrar-General,,2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform
 ZWE,Zimbabwe Population Registry System (ZPRS),ZWE,population,,Civil Registry Department,,2023-11-12-zwe-herald-issuance-of-id-cards-going-on-smoothly-rg
 ZWE,Zimbabwe Population Registry System (ZPRS),Zimbabwe,population,,Civil Registry Department,,2024-06-16-zwe-passport-id-applications-go-online
+ZWE,Zimbabwe Population Registration System (ZPRS),Zimbabwe,population,,Registrar General,,2026-07-20-zwe-zim-s-digital-population-registry-sets-benchmark-for-africa
+ZWE,Online Border Management System (OBMS),Zimbabwe,other,,Department of Immigration,,2026-07-20-zwe-zim-s-digital-population-registry-sets-benchmark-for-africa
+ZWE,Zimbabwe Population Registry System (ZPPRS),Zimbabwe,population,,Registrar-General's Office,,2026-03-01-zwe-registrar-general-to-get-voters-roll-custody

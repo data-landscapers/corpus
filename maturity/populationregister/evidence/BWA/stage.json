@@ -9,10 +9,10 @@
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BWA-001",
-      "gaps": "No source found since October 2023 says: is a population register in service.",
-      "note": "First pass: counted from the four questions by study-ladder-populationregister.py.",
-      "as_at": "2026-11-01"
+      "stage_sources": "BWA-002;BWA-001",
+      "gaps": "No source found says the Unified Population Register is in service; the amending Act commences on ministerial notice, and no notice is on record.",
+      "note": "Stage 2: the National Registration (Amendment) Act 2025, assented on 23 March 2025, provides for a Unified Population Register (BWA-002). No source says the register is in service, so stage 3 is not met.",
+      "as_at": "2026-11-13"
     }
   ]
 }

@@ -20,10 +20,10 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Leading | 8 |
 | 4 Operating | 2 |
 | 3 Established | 10 |
-| 2 Nascent | 7 |
+| 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
 | No evidence | 25 |
@@ -75,6 +75,15 @@ Other systems drew on the population register in 2026.
 
 - The playbook says the register is the pivot for sectoral identifiers and that its data are exchanged with state structures through the national interoperability platform ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
+### Zimbabwe: 5 Leading
+
+The population register was updated on registered deaths and linked to the immigration border system in 2026, the minister said.
+
+- Minister Kazembe says the system updates automatically and in real time on death registration and when citizens reach voting age ([source, 2026-02](https://www.heraldonline.co.zw/registrar-general-to-get-voters-roll-custody/)).
+- The Herald reports ZPRS has been integrated with the Department of Immigration's fully operational Online Border Management System (OBMS), and that linking it to police is under way, per the minister ([source, 2026-07](https://www.heraldonline.co.zw/zims-digital-population-registry-sets-benchmark-for-africa/)).
+- The Herald reports that the Zimbabwe Population Registration System (ZPRS) is a centralised database storing citizens' demographic information, described by Minister Kazembe at a July 2026 registrars' meeting ([source, 2026-07](https://www.heraldonline.co.zw/zims-digital-population-registry-sets-benchmark-for-africa/)).
+- Biometric Update reports that Zimbabwe upgraded its national population registry in a reform begun around 2023 and concluded by mid-2025 ([source, 2025-07](https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform)).
+
 ### Eswatini: 4 Operating
 
 Births and deaths registered in 2025 went into the National Population Register; no other system is known to draw on it.
@@ -88,6 +97,13 @@ The population register held over 5.1 million citizens in 2026 and enrols childr
 - The government procedures portal (last updated 2023-11-21) describes a standing procedure to enrol a child born to Mauritanian parents in the population register (national biometric register) run by the ANRPTS, free of charge at citizen reception centres ([source, 2023-11-21](https://procedures.gov.mr/fr/procedure/1105)).
 - A magistrates' club official refers to civil-status facts recorded in the population register, which the national population register and secure documents agency runs ([source, 2025-03](https://ami.mr/fr/archives/267622)).
 - The interior minister told the National Assembly that the Registre national de la population grew from 3.4 million registered citizens in 2019 to over 5.1 million, with enrolment now a permanent public service ([source, 2026-06-18](https://kassataya.com/ministre-de-linterieur-lenrolement-de-la-population-est-devenu-un-service-public-permanent-qui-garantit-le-droit-de-tous-les-citoyens-a-lenregistrement/)).
+
+### Burkina Faso: 3 Established
+
+Mass enrolment into the population register began in 2026; whether births or deaths are entered in it is not known.
+
+- leFaso.net reports that Burkina Faso launched on 11 November 2026 mass enrolment of residents into its Registre de l'identifiant unique, after a pilot that enrolled over 16,000 people, with ten-finger and iris capture, deduplication, and a first count due at the end of December 2026 ([source, 2026-11-11](https://lefaso.net/spip.php?article150706=)).
+- Law 027-2024/ALT of 11 October 2024 provides for a national register of the unique identifier of natural persons, centralising their biographic and biometric data, with the body in charge to be created by decree and enrolment to follow the system's set-up ([source, 2024-10-11](https://assembleenationale.bf/loip/117)).
 
 ### Chad: 3 Established
 
@@ -145,24 +161,12 @@ A national population registry held ID card holders' details in 2024; whether bi
 
 - Biometric Update reports that the 11-digit NIN on Sierra Leone's ID card is a unique identifier linked to the card holder's personal details in the national population registry ([source, 2024-01-11](https://www.biometricupdate.com/202401/sierra-leone-urges-citizens-to-obtain-biometric-id-cards-for-security-services)).
 
-### Zimbabwe: 3 Established
-
-The national population registry was upgraded by mid-2025 and linked to other services; whether births or deaths are entered is not known.
-
-- Biometric Update reports that Zimbabwe upgraded its national population registry in a reform begun around 2023 and concluded by mid-2025 ([source, 2025-07](https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform)).
-- The Herald reports ZPRS is the official platform that stores and manages demographic data of all Zimbabwean citizens, including name, date of birth, sex, nationality, marital status, place of birth and residence, and national ID number, with an upgrade being finalised ([source, 2023-11-12](https://www.heraldonline.co.zw/issuance-of-id-cards-going-on-smoothly-rg/)).
-
 ### Botswana: 2 Nascent
 
-In 2025 the registration law was being amended to introduce a population register; whether the amendment has passed is not known.
+A 2025 Act provides for a population register; whether it is in force and in service is not known.
 
+- The National Registration (Amendment) Act 2025 (No. 7), assented 23 March 2025, provides for a Unified Population Register of all citizens, dual citizens and non-citizen residents kept by the registrar; commencement is on ministerial notice ([source, 2025-03-23](https://www.botswanalaws.com/PDF/StatutesActpdf/2025Actpdf/007.pdf)).
 - The minister said the National Registration Act was undergoing amendment to introduce a population register for Botswana (Daily News/BOPA) ([source, 2025-03-09](https://dailynews.gov.bw/news-detail/85066)).
-
-### Burkina Faso: 2 Nascent
-
-A population register was under way in 2024; none in service is on record.
-
-- Law 027-2024/ALT of 11 October 2024 provides for a national register of the unique identifier of natural persons, centralising their biographic and biometric data, with the body in charge to be created by decree and enrolment to follow the system's set-up ([source, 2024-10-11](https://assembleenationale.bf/loip/117)).
 
 ### DR Congo: 2 Nascent
 
