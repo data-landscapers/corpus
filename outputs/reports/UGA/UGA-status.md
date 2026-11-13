@@ -1,12 +1,12 @@
 ---
 title: Uganda: status report
-compiled: 2026-11-12
+compiled: 2026-11-13
 place: UGA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 13
-sources_cited: 317
+sources_cited: 318
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -213,7 +213,7 @@ From 1 January 2027 [Ugandans may withdraw no more than UGX 50 million a day and
 ### Registries
 <!-- dpi.registry -->
 
-The World Bank reported in 2024 that [the National Land Information System has been decentralised to 22 Ministry Zonal Offices](https://documents1.worldbank.org/curated/en/099648104052425713/pdf/IDU1b3d50e0a100a1aede199d71d44f21a.pdf). Its 2024 estimate is that [only around 22% of parcels are registered, and about 8.6 million remain unregistered](https://documents1.worldbank.org/curated/en/099648104052425713/pdf/IDU1b3d50e0a100a1aede199d71d44f21a.pdf). [Around 80% of landholdings are held under customary tenure](http://gltn.net/blog/uganda-moves-digital-certificates-customary-ownership-secure-land-rights-and-improve-land-use) (2024), which is where the missing coverage sits.
+The World Bank reported in 2024 that [the National Land Information System has been decentralised to 22 Ministry Zonal Offices](https://documents1.worldbank.org/curated/en/099648104052425713/pdf/IDU1b3d50e0a100a1aede199d71d44f21a.pdf). Its 2024 estimate is that [only around 22% of parcels are registered, and about 8.6 million remain unregistered](https://documents1.worldbank.org/curated/en/099648104052425713/pdf/IDU1b3d50e0a100a1aede199d71d44f21a.pdf). [Around 80% of landholdings are held under customary tenure](http://gltn.net/blog/uganda-moves-digital-certificates-customary-ownership-secure-land-rights-and-improve-land-use) (2024), which is where the missing coverage sits. [The lands state minister said in November 2024 that 90,000 Certificates of Customary Ownership had been issued in 21 districts, with workflows built to carry them into the land information system](https://www.watchdoguganda.com/news/20241127/174948/nrm-manifesto-week-government-intensifies-efforts-to-safeguard-customary-land-ownership.html).
 
 [The Online Business Registration System was launched in December 2022](https://www.ceo.co.ug/ursbs-online-business-registration-system-still-slow-despite-ugx-6-5b-investment/). It [was replaced in June 2026 by a unified e-Registry covering business, intellectual property and other registrations](https://dailyexpress.co.ug/2026/06/30/ursb-launches-unified-e-registry-replacing-obrs/). [URSB launched a centralised digital Non-Individual Register in May 2026 covering companies, partnerships, NGOs, cooperatives and community-based organisations](https://www.newvision.co.ug/category/business/centralised-digital-register-to-streamline-bu-NV_233277_052026). [Each entity on it carries a Unique Entity Registration Number meant as the corporate counterpart to the personal National Identification Number](https://www.newvision.co.ug/category/business/centralised-digital-register-to-streamline-bu-NV_233277_052026). [The Auditor General's FY2025 report flags continuing performance and reliability problems with the business registration system despite an investment of UGX 6.5 billion](https://www.ceo.co.ug/ursbs-online-business-registration-system-still-slow-despite-ugx-6-5b-investment/) (February 2026). [Before a parliamentary committee on 10 November 2026 the bureau answered audit findings of downtime on the system from August 2023 to September 2025, and of personal data, including full dates of birth, exposed in business records](https://nilepost.co.ug/news/386416/ursb-defends-system-failures-data-exposure-as-mps-probe-shs1bn-financial-gap).
 
