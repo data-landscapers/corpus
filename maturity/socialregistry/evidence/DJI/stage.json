@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "3",
-   "registry": "inservice",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-002;DJI-003",
-   "gaps": "No source found since October 2023 says two or more programmes use the social registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "3",
+      "registry": "inservice",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-002;DJI-003",
+      "gaps": "No source found since November 2023 says two or more programmes select from the social registry, or that it is linked to the national ID.",
+      "note": "Rebuild: the Social Registry held 515,730 people in February 2025 and the President credited it with poverty mapping in January 2026 (DJI-002, DJI-003). No two programmes or ID link held, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

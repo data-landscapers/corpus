@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a social registry is under way or in service.",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-18"
+      "gaps": "Nothing found since November 2023 says whether a social registry is under way or in service; the rows held date from 2022.",
+      "note": "Rebuild: every row is from August 2022 (TZA-001, TZA-002), older than three years, and nothing later says what the registry is now. Unplaced.",
+      "as_at": "2026-11-13"
     }
   ]
 }

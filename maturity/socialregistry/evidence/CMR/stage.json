@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "3",
-   "registry": "inservice",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-003",
-   "gaps": "No source found since October 2023 says two or more programmes use the social registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "3",
+      "registry": "inservice",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-003",
+      "gaps": "No source found since November 2023 says two or more programmes select from the social registry, or that it is linked to the national ID.",
+      "note": "Rebuild: RESUC covered 198,140 households with operational systems in July 2025 (CMR-003). No two programmes selecting from it and no ID link are held, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

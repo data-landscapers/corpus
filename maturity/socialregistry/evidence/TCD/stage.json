@@ -1,17 +1,18 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "2",
-   "registry": "underway",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-001;TCD-002",
-   "gaps": "No source found since October 2023 says: is a social registry in service.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "2",
+      "registry": "underway",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-001;TCD-002",
+      "gaps": "No source found since November 2023 says the social registry is in service.",
+      "note": "Rebuild: INSEED was still extending enrolment into the RSU in January and March 2026 (TCD-001, TCD-002), by province. Being populated, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

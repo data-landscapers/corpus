@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MRT-005;MRT-001",
       "gaps": "Nothing says the social registry is linked to the national ID, or that benefits are paid digitally.",
-      "note": "Reassessed 2026-11-09: Decree 2024-073 makes households enrolled in the Registre Social eligible for both Tekavoul regular transfers and shock-response transfers, which answers question 3 and sets stage 4. The first pass had read it as the registry alone; nothing held links the registry to the national ID.",
-      "as_at": "2026-11-09"
+      "note": "Rebuild: Decree 2024-073 makes registry households eligible for Tekavoul and shock-response transfers (MRT-005), two programmes, so 4; the shared counter reads 3 as the row is valued registry. No ID link, so not 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

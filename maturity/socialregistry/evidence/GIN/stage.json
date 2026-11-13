@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "4",
-   "registry": "inservice",
-   "programmes": "several",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-002",
-   "gaps": "No source found since October 2023 says the social registry is linked to the national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "4",
+      "registry": "inservice",
+      "programmes": "several",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-002",
+      "gaps": "No source found since November 2023 says the social registry is linked to the national ID, or that a programme drawing on it pays benefits digitally.",
+      "note": "Rebuild: in July 2026 the FDSI said RSU data served the Guichet Choc Alimentaire and two other programmes (GIN-002), so 4. No ID link or digital payment, so not 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "STP",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "3",
-   "registry": "inservice",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "STP-001;STP-002",
-   "gaps": "No source found since October 2023 says two or more programmes use the social registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "3",
+      "registry": "inservice",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "STP-001;STP-002",
+      "gaps": "No source found since November 2023 says two or more programmes select from the social registry, or that it is linked to the national ID.",
+      "note": "Rebuild: the CSU held about 12,500 households in August 2026 (STP-001, STP-002), in service. Only the cash transfer is tied to it, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

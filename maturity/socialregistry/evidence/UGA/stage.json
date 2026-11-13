@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "2",
-   "registry": "underway",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-001",
-   "gaps": "No source found since October 2023 says: is a social registry in service.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "2",
+      "registry": "underway",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001",
+      "gaps": "No source found since November 2023 says the social registry is in service.",
+      "note": "Rebuild: the FY2026/27 investment plan lists a National Social Registry still to be established (UGA-002), and WFP worked on folding the Karamoja registry into it in 2025 (UGA-001). Not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MUS-001;MUS-002",
       "gaps": "Nothing says the register is linked to or checked against the national ID, or that benefits are paid digitally.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 106): separate sources together answer question 3, and the CSG income allowance and the Independence Allowance are each tied to the Social Register, which sets stage 4. Nothing held links the register to the national ID.",
-      "as_at": "2026-11-09"
+      "note": "Rebuild: the CSG income allowance and the Independence Allowance each draw on the Social Register (MUS-001, MUS-002), two programmes, so 4 under ruling 106; the shared counter reads 3. No ID link, so not 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

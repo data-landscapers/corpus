@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SEN-005",
-      "gaps": "No source found since October 2023 says the social registry is linked to the national ID.",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found since November 2023 says the social registry is linked to the national ID, or that a programme drawing on it pays benefits digitally.",
+      "note": "Rebuild: the RNU serves the PNBSF cash transfer and served exceptional and Covid-19 transfers (SEN-005, November 2023), so 4. No ID link or digital payment held, so not 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

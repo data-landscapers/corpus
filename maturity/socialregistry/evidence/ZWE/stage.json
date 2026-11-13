@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZWE-001;ZWE-002",
-      "gaps": "No source found since October 2023 says: is a social registry in service.",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says the social registry is in service.",
+      "note": "Rebuild: the 2025/26 registry survey was spreading by district in 2026, and the World Bank says ZISO needs large-scale enumeration (ZWE-002, ZWE-003). Not 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

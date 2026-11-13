@@ -1,17 +1,18 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "2",
-   "registry": "underway",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-001",
-   "gaps": "No source found since October 2023 says: is a social registry in service.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "2",
+      "registry": "underway",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-001",
+      "gaps": "No source found since November 2023 says the social registry is in service.",
+      "note": "Rebuild: the World Bank's May 2026 PID funds the legal and technical establishment of the National Social Registry (MOZ-001). Not in service, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

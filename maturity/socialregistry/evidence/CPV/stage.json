@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CPV-003;CPV-005",
-      "gaps": "No source found since October 2023 says the social registry is linked to the national ID.",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says the social registry is linked to the national ID, or that a programme drawing on it pays benefits digitally.",
+      "note": "Rebuild: about 16 programmes select from the CSU (CPV-005, February 2024), and cash transfers and food support do in June 2026 (CPV-003), so 4. No ID link or payment fact, so not 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

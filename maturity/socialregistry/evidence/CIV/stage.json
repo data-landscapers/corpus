@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CIV-001;CIV-002",
       "gaps": "No source found says a programme drawing on the registry pays benefits digitally, or which programmes select from it.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 106): the April 2026 convention interconnecting the RSU with ONECI's identity databases links it to the national ID, which now sets stage 4. Stage 5 also needs digital payment by a programme using it, and nothing held says so.",
-      "as_at": "2026-11-09"
+      "note": "Rebuild: the April 2026 convention interconnects the RSU with ONECI's databases (CIV-001), a link, so 4 on the study's ladder; the shared counter reads 3. No digital payment, so not 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

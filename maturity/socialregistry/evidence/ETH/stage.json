@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "no evidence",
-   "registry": "",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a social registry, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "no evidence",
+      "registry": "",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found names a social registry, or says there is none.",
+      "note": "Rebuild: no evidence row is held on a social registry. No stage.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "4",
-   "registry": "inservice",
-   "programmes": "several",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-002",
-   "gaps": "No source found since October 2023 says the social registry is linked to the national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "4",
+      "registry": "inservice",
+      "programmes": "several",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-002",
+      "gaps": "No source found since November 2023 says the social registry is linked to the national ID, or that a programme drawing on it pays benefits digitally.",
+      "note": "Rebuild: the World Bank says in April 2024 that GamSR data underpinned Nafa Quick and the Nafa cash transfer (GMB-002), so 4. No ID link or digital payment, so not 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

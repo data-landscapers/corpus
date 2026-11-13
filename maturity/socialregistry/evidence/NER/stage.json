@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NER-003;NER-001",
-      "gaps": "No source found since October 2023 says two or more programmes use the social registry.",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says two or more programmes select from the social registry, or that it is linked to the national ID.",
+      "note": "Rebuild: the RSU holds household data and is the entry point for programmes (NER-003, October 2026), in service. No two named programmes or ID link, so not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

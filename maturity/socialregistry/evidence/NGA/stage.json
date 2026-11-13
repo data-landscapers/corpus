@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "NGA-006;NGA-008;NGA-002",
       "gaps": "No source found says the cash transfers drawn from the register are paid digitally; BVN checks alone do not say so.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 106): NINs are integrated into the National Social Register and two transfer programmes draw on it, which sets stage 4. Stage 5 now also needs digital payment by a programme using it, and nothing held says so.",
-      "as_at": "2026-11-09"
+      "note": "Rebuild: 12.3 million NINs are captured in the register in May 2026 (NGA-006) and two transfers draw on it (NGA-002), so 4; no digital payment fact, so not 5, though the shared counter reads 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

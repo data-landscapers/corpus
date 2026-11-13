@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MAR-004;MAR-007",
-      "gaps": "No source found since October 2023 says the social registry is linked to the national ID.",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says the social registry is linked to the national ID, or that a programme drawing on it pays benefits digitally. The RSU is crossed with the population register to target aid (MAR-013); no source says it is linked to the national identity card system.",
+      "note": "Rebuild: direct aid, health insurance and the Minhaty grant select from the RSU (MAR-011, MAR-015), so 4. No payment fact is held, so not 5 whatever the population-register link reads.",
+      "as_at": "2026-11-13"
     }
   ]
 }

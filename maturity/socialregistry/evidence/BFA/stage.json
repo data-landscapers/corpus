@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BFA-003;BFA-001",
-      "gaps": "No source found since October 2023 says two or more programmes use the social registry.",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says two or more programmes select from the social registry, or that it is linked to the national ID.",
+      "note": "Rebuild: the RSU held 433,888 households in 110 communes in June 2026 (BFA-006), in service. No source names two programmes selecting from it or an ID link, so not 4.",
+      "as_at": "2026-11-13"
     }
   ]
 }

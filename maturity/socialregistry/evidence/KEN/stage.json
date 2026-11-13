@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "4",
-   "registry": "inservice",
-   "programmes": "several",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-003",
-   "gaps": "No source found since October 2023 says the social registry is linked to the national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "4",
+      "registry": "inservice",
+      "programmes": "several",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-003",
+      "gaps": "No source found since November 2023 says the social registry is linked to the national ID, or that a programme drawing on it pays benefits digitally.",
+      "note": "Rebuild: all four National Safety Net Programme transfers use the Enhanced Single Registry (KEN-003, August 2025), so 4. No ID link or digital payment is held, so not 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

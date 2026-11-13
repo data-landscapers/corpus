@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "3",
-      "registry": "inservice",
+      "stage": "2",
+      "registry": "underway",
       "programmes": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBY-003",
-      "gaps": "No source found since October 2023 says two or more programmes use the social registry.",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "LBY-001;LBY-002",
+      "gaps": "No source found since November 2023 says the social registry is in service. UNICEF announced a launch in October 2023; in June 2025 the Prime Minister approved the registry's draft document.",
+      "note": "Rebuild: the only in-service fact is the October 2023 launch announcement (LBY-003), and in June 2025 the Prime Minister approved the registry's draft document (LBY-001, LBY-002), so it no longer shows a registry in service now. Stage 3 to 2, as a judgement.",
+      "as_at": "2026-11-13"
     }
   ]
 }

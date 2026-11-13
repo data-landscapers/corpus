@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COM-002;COM-001",
-      "gaps": "No source found since October 2023 says: is a social registry in service.",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says the social registry is in service.",
+      "note": "Rebuild: the RSU held 62,000 households and was still being set up in July 2026 (COM-001, COM-002). Nothing says it is in service, so not 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

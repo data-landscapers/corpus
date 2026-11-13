@@ -1,17 +1,18 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "3",
-   "registry": "inservice",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-002",
-   "gaps": "No source found since October 2023 says two or more programmes use the social registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "3",
+      "registry": "inservice",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-002",
+      "gaps": "No source found since November 2023 says two or more programmes select from the social registry, or that it is linked to the national ID. The President spoke of its operationalisation in November 2025, after 98% of five programmes' beneficiaries were in it by March 2025.",
+      "note": "Rebuild: by March 2025 the Single Social Registry held 98% of five programmes' beneficiaries (BWA-002); the November 2025 address on its operationalisation does not say it stopped. Inclusion is not selection, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

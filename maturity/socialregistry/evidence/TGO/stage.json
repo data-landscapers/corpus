@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "TGO-004;TGO-003",
       "gaps": "No source found says which social programmes draw their beneficiaries from the RSPM, or that any pays benefits digitally.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 106): the e-ID is fully interoperable with the RSPM, which takes in ID numbers automatically; a full link now sets stage 4 on its own. Stage 5 also needs digital payment by a programme using it, and nothing held says so.",
-      "as_at": "2026-11-09"
+      "note": "Rebuild: the e-ID is fully interoperable with the RSPM, which takes in ID numbers (TGO-004, March 2026), a link, so 4 on the study's ladder; the shared counter reads 3. No payment fact, so not 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

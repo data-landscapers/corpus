@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BEN-001;BEN-002",
-      "gaps": "No source found since October 2023 says: is a social registry in service.",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says the social registry is in service.",
+      "note": "Rebuild: the Council of Ministers created the RSU, still being set up in January 2026 (BEN-001), after a 2023 kick-off. Nothing says it is in service, so not 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

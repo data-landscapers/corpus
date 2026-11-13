@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "3",
-   "registry": "inservice",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MDG-001;MDG-003",
-   "gaps": "No source found since October 2023 says two or more programmes use the social registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "3",
+      "registry": "inservice",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-001;MDG-003",
+      "gaps": "No source found since November 2023 says two or more programmes select from the social registry, or that it is linked to the national ID.",
+      "note": "Rebuild: the RSU covered about 2.7 million households in September 2026 (MDG-001, MDG-003), in service. No two programmes or ID link held, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

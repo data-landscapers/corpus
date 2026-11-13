@@ -1,6 +1,6 @@
 # Social protection register: social protection register
 
-*As at 2026-09-30.*
+*As at 2026-11-13.*
 
 ## The norm
 
@@ -22,8 +22,8 @@ The African Union's Protocol on Social Protection asks states for a social regis
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 19 |
-| 3 Established | 12 |
-| 2 Nascent | 13 |
+| 3 Established | 10 |
+| 2 Nascent | 15 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
 | No evidence | 7 |
@@ -157,12 +157,6 @@ The social registry took in national ID numbers automatically in 2026; which pro
 - The World Bank says the e-ID system is fully interoperable with the RSPM, enabling automatic ingestion of unique identification numbers ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
 - The World Bank says Togo has operationalised a dynamic social registry (RSPM) that its e-ID feeds ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
 
-### Angola: 3 Established
-
-A social registry was in service in 2026; no source found reports its use by two or more programmes.
-
-- MASFAMU reports the First Lady symbolically activated the Cadastro Social Único platform on 20 July 2026, the registry instituted by Presidential Decree 136/19 of 10 May ([source, 2026-07-20](https://masfamu.gov.ao/home)).
-
 ### Botswana: 3 Established
 
 A social registry was in service in 2025; no source found reports its use by two or more programmes.
@@ -194,12 +188,6 @@ A social registry was in service in 2026; no source found reports its use by two
 The national social registry held 90% of households in 2024; no source names two or more programmes selecting from it.
 
 - The ministry says NISSA, the national social registry run by the Director of Social Assistance, currently holds 90% (488,000) of Basotho households across all 10 districts, and is being updated through the World Bank-financed PSLP ([source, 2024-04-23](https://selibeng.com/eoi-lesotho-nissa-systems-development-enhancement-consultancy/)).
-
-### Libya: 3 Established
-
-A social registry was in service in 2023; no source found reports its use by two or more programmes.
-
-- UNICEF Libya announced that the Tripoli-based government, with UN agencies, has launched the Unified Social Registry to identify and target those in need for social protection programmes ([source, 2023-10-23](https://libyaherald.com/2023/10/unicef-helps-launch-libyas-unified-social-registry-for-children)).
 
 ### Madagascar: 3 Established
 
@@ -235,6 +223,13 @@ A social registry was in service in 2025; no source found reports its use by two
 - The World Bank says the BOOST-You project will strengthen adaptive delivery systems by improving the existing Unified Social Registry, alongside a National Socio-economic Survey covering 12 million people ([source, 2025-10-28](https://www.worldbank.org/en/news/press-release/2025/10/28/over-738000-somalis-to-benefit-from-world-bank-supported-initiative-for-jobs-social-protection-and-climate-resilience)).
 - Somalia's Prime Minister unveiled the Social Welfare System of the Unified Social Registry and urged aid agencies to use the government's registry to avoid duplication ([source, 2023-11-13](https://www.somalidispatch.com/latest-news/somalia-feds-to-launch-social-welfare-system-and-unified-social-registry/)).
 
+### Angola: 2 Nascent
+
+Angola began piloting its social registry in one municipality in 2026; no source found says it is in service nationally.
+
+- The pilot phase of Angola's Cadastro Social Unico began in Sumbe municipality, Cuanza-Sul, registering households, with the minister saying the first operational stage will inform progressive national expansion (Angop) ([source, 2026-08-24](https://angop.ao/noticias/sociedade/cadastro-social-nico-inicia-fase-piloto-no-sumbe/)).
+- Angola's Ministry of Social Action opened the pilot launch of the Cadastro Social Unico in Sumbe, Cuanza-Sul, training 79 participants on the platform, to test the methodology before progressive expansion to other provinces (Angop) ([source, 2026-08-24](https://angop.ao/noticias/sociedade/ministra-orienta-lancamento-piloto-do-cadastro-social-unico/)).
+
 ### Benin: 2 Nascent
 
 A social registry was under way in 2026; none in service is on record.
@@ -269,6 +264,13 @@ A social registry was under way in 2026; none in service is on record.
 
 - The Ministry of Social Affairs presented the first deliverable of the unified social registry (RSUG) on 29 July 2026, with the stated aim of setting up the registry ([source, 2026-07-29](https://agpgabon.ga/gabon-protection-sociale-presentation-du-premier-livrable-du-registre-social-unifie-et-du-programme-dacces-aux-agr/)).
 - The Minister of Social Affairs officially received the strategic deliverables of the Registre social unique du Gabon on 29 July 2026, under the Gabon Digital programme, marking the start of setting up the registry ([source, 2026-07-29](https://www.union.sonapresse.com/index.php/fr/protection-sociale-le-gabon-franchit-une-nouvelle-etape)).
+
+### Libya: 2 Nascent
+
+Libya's Prime Minister approved the social registry's draft document in 2025; no source found since November 2023 says it is in service.
+
+- LANA reports that on 23 June 2025 Prime Minister Dabaiba approved the draft Unified Social Registry document, a project relying on a unified database of citizens' social and economic information to identify those eligible for support ([source, 2025-06-23](https://lana.gov.ly/post.php?lang=en&id=335111)).
+- LANA reports that on 22 June 2025 Prime Minister Dabaiba approved the draft Unified Social Registry document, built on a unified database of citizens' social and economic information with a classification system by income, health status and family size and periodic data updates ([source, 2025-06-22](https://lana.gov.ly/post.php?id=335044&lang=en)).
 
 ### Mozambique: 2 Nascent
 
@@ -322,21 +324,21 @@ A social registry was under way in 2026; none in service is on record.
 
 ### Namibia: Unplaced
 
-Nothing found since 2023 names a social registry, so no stage is set.
+A 2022 report names a beneficiary register checked against the population register; nothing since November 2023 shows it now, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether a social registry is under way or in service.
+Not established: Nothing found since November 2023 says whether a social registry is under way or in service; the rows held date from 2022.
 
 ### Tanzania: Unplaced
 
-Nothing found since 2023 names a social registry, so no stage is set.
+A 2022 case study names a beneficiary registry checked against the national ID; nothing since November 2023 shows it now, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether a social registry is under way or in service.
+Not established: Nothing found since November 2023 says whether a social registry is under way or in service; the rows held date from 2022.
 
 ### Tunisia: Unplaced
 
-Nothing found since 2023 names a social registry, so no stage is set.
+A 2021 study names a household database covering 13% of people; nothing since November 2023 says what it is now, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether a social registry is under way or in service.
+Not established: Nothing found since November 2023 says whether a social registry is under way or in service; the rows held date from 2021.
 
 ### Algeria: No evidence
 

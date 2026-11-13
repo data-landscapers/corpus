@@ -1,17 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "4",
-   "registry": "inservice",
-   "programmes": "several",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-003",
-   "gaps": "No source found since October 2023 says the social registry is linked to the national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "4",
+      "registry": "inservice",
+      "programmes": "several",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-003",
+      "gaps": "No source found since November 2023 says the social registry is linked to the national ID, or that a programme drawing on it pays benefits digitally.",
+      "note": "Rebuild: five programmes used the Unified Beneficiary Registry for targeting in March 2025 (MWI-003), so 4. No ID link or digital payment held, so not 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

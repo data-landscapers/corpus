@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "4",
-   "registry": "inservice",
-   "programmes": "several",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-004",
-   "gaps": "No source found since October 2023 says the social registry is linked to the national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "4",
+      "registry": "inservice",
+      "programmes": "several",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-004",
+      "gaps": "No source found since November 2023 says the social registry is linked to the national ID, or that a programme drawing on it pays benefits digitally.",
+      "note": "Rebuild: the World Bank says in May 2026 that Merankabandi's registry is also used by the Soleil-Nyakiriza project (BDI-004): two programmes, so 4. No ID link or digital payment is held, so not 5.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

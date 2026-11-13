@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "3",
-   "registry": "inservice",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-004",
-   "gaps": "No source found since October 2023 says two or more programmes use the social registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "2",
+      "registry": "underway",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-001;AGO-002",
+      "gaps": "No source found since November 2023 says the social registry is in service. The July 2026 activation launched the platform; the August 2026 pilot covers one municipality.",
+      "note": "Rebuild: the Cadastro Social Unico platform was activated in July 2026 and piloted in Sumbe from August 2026 (AGO-001, AGO-004), which is a pilot, not a registry in service. AGO-004 revalued underway; stage 3 to 2.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

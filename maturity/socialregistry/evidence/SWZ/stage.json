@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "2",
-   "registry": "underway",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-001;SWZ-002",
-   "gaps": "No source found since October 2023 says: is a social registry in service.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "2",
+      "registry": "underway",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-001;SWZ-002",
+      "gaps": "No source found since November 2023 says the social registry is in service.",
+      "note": "Rebuild: the Shiselweni pilot registered 44,683 households and Lubombo enumeration runs to November 2026 (SWZ-001, SWZ-002). A pilot, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

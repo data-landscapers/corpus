@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "COG-007;COG-002",
       "gaps": "No source found says a programme drawing on the registry pays benefits digitally.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 106): the registry holds the unique identification number (2024 arrete) and several programmes draw on it, which sets stage 4. Stage 5 now also needs digital payment by a programme using it, and nothing held says so.",
-      "as_at": "2026-11-09"
+      "note": "Rebuild: the registry holds the unique identification number (COG-007) and programmes draw on it (COG-002), so 4; the shared counter reads 5 without a payment fact, which the ladder needs. Not 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }
