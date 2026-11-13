@@ -6162,9 +6162,9 @@ date,page,rows,bytes_gz,elements
 2026-11-13,countries/SYC/all-finance.html,79,5748,1896
 2026-11-13,countries/SYC/budgets.html,75,19532,2029
 2026-11-13,countries/SYC/finance.html,4,2002,335
-2026-11-13,countries/TCD/all-finance.html,50,7768,1309
+2026-11-13,countries/TCD/all-finance.html,51,8085,1331
 2026-11-13,countries/TCD/budgets.html,24,7069,820
-2026-11-13,countries/TCD/finance.html,26,8228,891
+2026-11-13,countries/TCD/finance.html,27,8605,916
 2026-11-13,countries/TGO/all-finance.html,173,14792,2375
 2026-11-13,countries/TGO/budgets.html,134,27141,2668
 2026-11-13,countries/TGO/finance.html,39,12075,1211
@@ -6196,6 +6196,6 @@ date,page,rows,bytes_gz,elements
 2026-11-13,countries/ZWE/finance.html,83,16204,2262
 2026-11-13,datasets/data-centres/index.html,646,501694,2915
 2026-11-13,datasets/institution-hosting/index.html,1830,58327,2641
-2026-11-13,finance/all/index.html,13543,1187622,2709
+2026-11-13,finance/all/index.html,13544,1187950,2709
 2026-11-13,finance/budgets/index.html,12371,1241901,2732
-2026-11-13,finance/index.html,5803,1476357,2927
+2026-11-13,finance/index.html,5804,1476771,2927
