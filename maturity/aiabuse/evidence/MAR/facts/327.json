@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-22-mar-quels-usages-et-quelles-perspectives-de-developpement-de-l-intelligenc",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "Morocco's CESE avis, adopted 27 June 2024, says obstacles remain including the absence of a specific regulatory framework for AI.",
+   "as_of": "2024-06-27",
+   "date_precision": "day",
+   "system": "CESE avis on AI",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
