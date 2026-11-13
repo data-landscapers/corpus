@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: ZWE
-ledger_rows: 32
+ledger_rows: 34
 not_held: 6
-record: 1d74df7e2352
+record: 8651b2e496ac
 ---
 
 # News, Oct – Nov 2026
@@ -123,6 +123,34 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Encryption As a Digital Rights Safeguard](https://cipesa.org/2026/10/encryption-as-a-digital-rights-safeguard/)** — Collaboration on International ICT Policy for East and Southern Africa (CIPESA), 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 CIPESA marks Global Encryption Day with a commentary on Global Partners Digital's relaunched World Map of Encryption Laws and Policies, which now covers 100 countries, 40 of them under a new assessment framework. On the map, Ethiopia rates severe for encryption restrictions and weak on safeguards, requiring licences for encryption providers and security clearance for importers of cryptographic hardware and software, while Zimbabwe and Nigeria rate severe for legislative and policy threats.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Licensed data controllers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[POTRAZ Puts Zimbabwe On Africa’s Digital Map](https://postonsunday.co.zw/2026/11/12/potraz-puts-zimbabwe-on-africas-digital-map/)** — Post On Sunday, 12 November 2026
+
+POTRAZ, Zimbabwe's telecoms regulator, won the PICCASO Africa 2026 award for most outstanding data protection authority in Lagos on 5 November, the Post On Sunday reported. The paper says POTRAZ has licensed more than 2,500 data controllers and certified over 1,500 data protection officers. It also credits POTRAZ with more than 195 enforcement notices.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Trained data protection officers</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[POTRAZ Puts Zimbabwe On Africa’s Digital Map](https://postonsunday.co.zw/2026/11/12/potraz-puts-zimbabwe-on-africas-digital-map/)** — Post On Sunday, 12 November 2026
+
+Summarised under [Data protection](#data-protection).
 
 </div>
 
