@@ -31,7 +31,8 @@ read by a person, at the unit review, and has no check here.
              anywhere, a first sentence saying nothing was found and carrying a year, such as *No Gulf state held a position
              as at August 2026*, has no source to link and says when it was true.
 - `words`    the apparatus words R130 replaced: *Not held*, *Noted, not assessed*, *no X is held*,
-             *is not known*, *evidence held*, *nothing held*, *source held*.
+             *is not known*, *evidence held*, *nothing held*, *source held*, and a page narrating
+             its own evidence, *N facts are held on the subject* (housekeeping 65).
 - `mood`     the sheet's mood words and set-ups: *plainly*, *quietly*, *finally*, *strikingly*,
              *alarming*, *from opposite ends*.
 
@@ -105,7 +106,10 @@ ABBREV = {"e.g", "i.e", "etc", "no", "nos", "mr", "mrs", "ms", "dr", "prof", "st
 WORDS = [re.compile(p) for p in (
     r"\bNot held\b", r"\bNoted, not assessed\b", r"(?i)\bis not known\b", r"(?i)\bare not known\b",
     r"(?i)\bno\b(?:(?!\bwhere\b)[^.;]){0,80}?\b(?:is|are) held\b", r"(?i)\bnone held\b",
-    r"(?i)\b(?:evidence|nothing) held\b", r"(?i)\bsources? held\b")]
+    r"(?i)\b(?:evidence|nothing) held\b", r"(?i)\bsources? held\b",
+    # Housekeeping 65: a first-pass page narrating its own evidence, not the country.
+    r"(?i)\b(?:facts?|text) (?:(?:is|are) )?held on the subject\b",
+    r"(?i)\bthe documents the earlier cell cited\b")]
 MOOD = [re.compile(p, re.I) for p in (
     r"\bplainly\b", r"\bquietly\b", r"\bfinally\b", r"\bstrikingly\b", r"\balarming(?:ly)?\b",
     r"\bfrom opposite ends\b")]

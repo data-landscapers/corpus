@@ -30,7 +30,6 @@ import study_lib  # noqa: E402
 import study_first_ladder as ladder  # noqa: E402
 
 SINCE = "2023-10"   # three years back from the as-at, as the ladder reads it
-CAPS = {15: "fifteen", 20: "twenty"}   # `study.json` -> `story_cap`, the batch's `study-calls.py --cap`
 ROOM = (100, 60, 60)
 # Per study: the short sentence for stages 1 to 5 ({y} the year of the fact that set it), what an
 # empty aspect says for the 2nd and 3rd aspects, and the thing named in an unstaged cell.
@@ -595,12 +594,12 @@ def write(study: dict, iso: str, country: str, dry: bool) -> str:
                 body.append("A later answer places the country above that step.")   # method §3.3
             parts += [f"**{a['name']}.** " + " ".join(body), ""]
         words = len(re.sub(r"\(<[^>]*>\)", "", " ".join(parts[4:])).split())
-        if words < 120:   # few facts held: say so in the first paragraph, as the statistics law study did
-            n = len(rows)
-            parts[4] += (" It is the only fact" if n == 1 else f" {n} facts are") + " held on the subject"                 + ": no news story or official notice read for this study says more about it, " + ("the documents the earlier cell cited were not read" if "story_cap" in study else "the documents the earlier cell cited included") + ", and the systems themselves were not examined."
-            if len(re.sub(r"\(<[^>]*>\)", "", " ".join(parts[4:])).split()) < 120:
-                parts[4] += (f" This is a first pass, which read at most {CAPS.get(study.get('story_cap', 15), study.get('story_cap', 15))} stories a country; the nightly"
-                             " deep dive reads further and may move the stage either way.")
+        if words < 120:   # few facts: an empty aspect states its nearest fact in full, as the brief asks
+            again = link(top["url"], "the one given above")
+            parts = [p.replace(again, link(top["url"], clean(top["fact"]))) for p in parts]
+        # Housekeeping 65: never pad with a sentence about the study's own holdings or reading
+        # ("N facts are held on the subject", "This is a first pass"); a page still under the
+        # brief's floor is a lint-study finding for the deep dive, not a cue to narrate.
         short = shorts[int(cell["stage"]) - 1].format(y=top["as_of"][:4])
     elif cell["stage"] == "unplaced":
         short = f"Nothing found since 2023 names {thing}, so no stage is set."

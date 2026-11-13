@@ -21,7 +21,8 @@ evidence under `maturity/{id}/evidence/`, and holds them to what the method prom
   on a cell the rule does not fire for fails too.
 - **The long summaries.** `{ISO3}.md` carries a `## {label}` section per sub-indicator. For
   a staged cell: one paragraph per aspect, in the study's order, each opening with the
-  aspect's name in bold and carrying a link; 120 to 250 words across them; then the two
+  aspect's name in bold and carrying a link; 120 to 250 words across them (no floor under
+  `THIN` facts); then the two
   closing lines, ***Also on file*** and ***Not found***. Every link on the page is a
   URL held in `raw/`. A cell with no stage needs only its section and the closing lines.
 - **The typology.** `systems.csv` has its columns, real countries and classes in the list.
@@ -48,6 +49,7 @@ import vault_lib   # noqa: E402
 
 SHORT_CAP = 25
 LONG_MIN, LONG_MAX = 120, 250
+THIN = 3   # a cell holding fewer facts than this may run under LONG_MIN, never padded (housekeeping 65)
 CLOSING = maturity_words.CLOSING
 MD_LINK = re.compile(r"\[([^\]]*)\]\((?:<[^>]*>|[^)]*)\)")
 
@@ -172,8 +174,11 @@ def _words(text: str) -> int:
 
 
 def long_problems(study: dict, iso: str, text: str, staged: dict[str, bool],
-                  urls: set[str]) -> list[str]:
-    """`staged` is sub-indicator key -> whether the cell carries a stage."""
+                  urls: set[str], facts: dict[str, int] | None = None) -> list[str]:
+    """`staged` is sub-indicator key -> whether the cell carries a stage; `facts` the evidence
+    rows each holds. **A thin cell may run short** *(housekeeping 65, 2026-11-13)*: under `THIN`
+    facts, 120 words could only be reached by narrating the evidence or repeating it, which the
+    writer brief forbids, so the floor is waived and the ceiling stands."""
     out = []
     for url in sorted(status_lib.links(text)):
         if vault_lib.normalise_url(url) not in urls:
@@ -201,7 +206,8 @@ def long_problems(study: dict, iso: str, text: str, staged: dict[str, bool],
             if not status_lib.links(p):
                 out.append(f"{where}: the paragraph on {name} carries no link")
         n = sum(_words(p) for p in body)
-        if not LONG_MIN <= n <= LONG_MAX:
+        floor = 0 if (facts or {}).get(sub["key"], THIN) < THIN else LONG_MIN
+        if not floor <= n <= LONG_MAX:
             out.append(f"{where}: {n} words; the long summary is {LONG_MIN} to {LONG_MAX}")
     return out
 
@@ -278,7 +284,10 @@ def main(argv=None) -> int:
             continue
         staged = {ids[r["indicator_id"]]: r["stage"].strip().isdigit()
                   for r in rows if r["iso3"] == iso and r["indicator_id"] in ids}
-        problems += long_problems(study, iso, text, staged, urls)
+        held = {}
+        for r in evidence.get(iso, []):
+            held[r.get("sub_indicator", "")] = held.get(r.get("sub_indicator", ""), 0) + 1
+        problems += long_problems(study, iso, text, staged, urls, held)
     problems += systems_problems(study, study_lib.read_csv(os.path.join(out_dir, "systems.csv")),
                                  countries)
 
