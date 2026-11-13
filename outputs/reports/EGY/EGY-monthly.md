@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: EGY
-ledger_rows: 55
+ledger_rows: 63
 not_held: 36
-record: 2a440e5cda17
+record: 1b4642366dab
 ---
 
 # News, Oct – Nov 2026
@@ -28,6 +28,8 @@ record: 2a440e5cda17
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -164,6 +166,34 @@ Egypt's Financial Regulatory Authority reported over 1.727 million e-KYC verific
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft law on national health databases</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Health Minister at Cairo ICT: New Health Data Law, Faster Treatment Decisions](https://cairoict.com/news/health-minister-at-cairo-ict-new-health-data-law-faster-treatment-decisions)** — Cairo ICT 2026 (Tradefairs International), 10 November 2026
+
+Draft health-database law heads to parliament; Nephro Egypt tracks 60,000 dialysis patients, saves 20-25%.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PDPL Executive Regulations, Decree 816 of 2025</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Hyperscalers want clear rules before they build data centers in Egypt](https://enterpriseam.com/ai/2026/11/12/hyperscalers-want-clear-rules-before-they-build-data-centers-in-egypt/)** — Enterprise (EnterpriseAM), 12 November 2026
+
+Lawyers quoted by Enterprise say Egypt's data rules deter hyperscalers. Each transfer of data abroad needs its own permit, and limits on state access are unclear. Egypt has an estimated 15-60 MW of installed data-centre capacity against an ambition of 400-500 MW. The government plans a national data-centre strategy by the end of 2026 but has set no date for new rules.
+
+</div>
+
+</div>
+
 ### Data protection
 
 <div class="monthly-story" markdown="1">
@@ -175,6 +205,20 @@ Egypt's Financial Regulatory Authority reported over 1.727 million e-KYC verific
 **[Egypt: Personal Data Protection Law Update](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)** — Baker McKenzie, 7 October 2026
 
 Egypt's Personal Data Protection Center opened its electronic portal for accreditation, licence and permit applications in early October, weeks before the data-protection law's compliance grace period ends on 31 October 2026, on a law firm's account. Applying needs a Digital Egypt login tied to an Egyptian national ID, so foreign controllers and processors must act through an authorised local representative.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Personal Data Protection Law 151 of 2020</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Hyperscalers want clear rules before they build data centers in Egypt](https://enterpriseam.com/ai/2026/11/12/hyperscalers-want-clear-rules-before-they-build-data-centers-in-egypt/)** — Enterprise (EnterpriseAM), 12 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
@@ -658,6 +702,34 @@ Assabah reported on 6 November 2026 that Egypt's national social registry holds 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Nephro Egypt dialysis platform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Health Minister at Cairo ICT: New Health Data Law, Faster Treatment Decisions](https://cairoict.com/news/health-minister-at-cairo-ict-new-health-data-law-faster-treatment-decisions)** — Cairo ICT 2026 (Tradefairs International), 10 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal Health Insurance system enrolment and digital architecture</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From Digital Records to Home-Grown Medical AI: Cairo ICT Panel Maps the Future of Egyptian Healthcare](https://cairoict.com/news/from-digital-records-to-home-grown-medical-ai)** — Cairo ICT 2026 (Tradefairs International), 10 November 2026
+
+6.2m electronic health files, 85%+ hospital automation; officials call for health data to stay in Egypt.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -730,6 +802,14 @@ Mahmoud Badawi, Egypt's assistant ICT minister for digital transformation, told 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Prime Minister Opens the 30th Cairo ICT as Egypt Sets Out Its AI Targets for 2030](https://cairoict.com/news/prime-minister-opens-the-30th-cairo-ict-as-egypt-sets-out-its-ai-targets)** — Cairo ICT 2026 (Tradefairs International), 10 November 2026
+
+Digital Egypt at 261 services and 13.7m active users; Karnak LLM past 300,000 downloads; data-centre strategy due 2026.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -774,6 +854,20 @@ Egypt's foreign ministry said on 4 November 2026 that the first phase of the Uni
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Egypt platform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Prime Minister Opens the 30th Cairo ICT as Egypt Sets Out Its AI Targets for 2030](https://cairoict.com/news/prime-minister-opens-the-30th-cairo-ict-as-egypt-sets-out-its-ai-targets)** — Cairo ICT 2026 (Tradefairs International), 10 November 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -800,6 +894,8 @@ Cairo Governor Ibrahim Saber launched a six-month programme for staff of the gov
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
 </nav>
 
 ### AI
@@ -902,6 +998,30 @@ Egypt's Public Prosecution announced on 11 November 2026 that it will open an AI
 
 </div>
 
+### ICT Industry
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MNT-Halan listing on the Egyptian Exchange</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MNT-Halan Lists Egyptian Business on Cairo Stock Exchange in Major IPO](https://techafricanews.com/2026/11/12/mnt-halan-lists-egyptian-business-cairo-stock-exchange-ipo/)** — Tech Africa News, 12 November 2026
+
+MNT-Halan listed its Egyptian business on the Cairo Stock Exchange, Egypt's largest IPO since 2021, Tech Africa News reported on 12 November 2026. The retail tranche was more than 43 times oversubscribed and the institutional tranche more than 19 times. Norfund says the fintech grew from 400,000 customers in 2018 to 10 million across four countries.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Norfund-backed fund helps drive MNT-Halan’s rise from Egyptian startup to regional fintech leader](https://innovation-village.com/norfund-backed-fund-helps-drive-mnt-halans-rise-from-egyptian-startup-to-regional-fintech-leader/)** — Innovation Village, 12 November 2026
+
+MNT-Halan listed its Egyptian business on the Cairo Stock Exchange in Egypt's largest IPO since 2021, Innovation Village reported on 12 November 2026. The retail tranche was more than 43 times oversubscribed and the institutional tranche more than 19 times. Norfund committed USD 40m in 2019 to the DPI fund that invested in MNT-Halan in 2021.
+
+</div>
+
+</div>
+
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
@@ -959,6 +1079,28 @@ Egypt's communications and labour ministries signed a memorandum to digitise the
 **[Planning Minister reviews preparations for 2028 population census](https://sis.gov.eg/en/media-center/news/planning-minister-reviews-preparations-for-2028-population-census/)** — State Information Service (Egypt), 4 October 2026
 
 Egypt's planning minister Ahmed Rostom met the head of CAPMAS on 4 October 2026 to review preparations for the 2028 general census of population, housing and establishments, and pledged the ministry's logistical and institutional support. The results are to guide the Hayah Karima initiative, the national population strategy and housing policy.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#eu-activities">EU activities</a>
+</nav>
+
+### EU activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Alignment of the national trusted list with the EU eIDAS Regulation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals](https://digital-strategy.ec.europa.eu/en/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals)** — European Commission, DG CONNECT, 12 November 2026
+
+The European Commission said on 12 November 2026 that Egypt's electronic signature and seal framework is technically aligned with the EU's eIDAS Regulation. Egypt is the first country outside Europe to reach this. It will join the EU Third Countries Trusted List, so EU member states can validate its signatures and seals. The step was a deliverable of the EU-Egypt Summit of 22 October 2025.
 
 </div>
 
