@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BFA-003,BFA,shared,service,link,"WACREN, the regional research and education network, states that FasoREN's connection to the WACREN regional network is still partial, over the national fibre deployed by ANPTIC, with a workshop planned to set a roadmap for full integration.",2025,year,FasoREN-WACREN connection,shared,2025-01-01-bfa-renforcement-du-cadre-de-collaboration-numerique-en-matiere-d-enseigne,https://indico.wacren.net/event/256/

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-bfa-renforcement-du-cadre-de-collaboration-numerique-en-matiere-d-enseigne",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "link",
+   "fact": "WACREN, the regional research and education network, states that FasoREN's connection to the WACREN regional network is still partial, over the national fibre deployed by ANPTIC, with a workshop planned to set a roadmap for full integration.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "FasoREN-WACREN connection",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FasoREN",
+   "country_label": "Burkina Faso",
+   "class": "shared",
+   "platform": "WACREN regional backbone",
+   "owner": "ANPTIC (fibre); FasoREN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

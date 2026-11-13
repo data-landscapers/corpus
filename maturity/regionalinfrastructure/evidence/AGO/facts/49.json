@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-ago-itu-pp26-policy-statement",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Angola's communications minister said a contract was signed this year to link Angola and Namibia through the South Atlantic Regional Submarine System (SARSSY), now at the study and preparation stage.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SARSSY",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

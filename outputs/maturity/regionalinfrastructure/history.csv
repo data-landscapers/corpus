@@ -99,3 +99,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,NAM,gov.regional--shared-regional-infrastructure,fact,2,3,NAM-009;NAM-002,MTC Namibia and BoFiNet completed cross-border interconnections by February 2026; 2 to 3
 2026-11-10,AGO,gov.regional--shared-regional-infrastructure,fact,2,4,AGO-006,"AGO-006: Angola Telecom says its terrestrial fibre link with Namibia already carries both state operators' services in both directions; a link in service, so 2 -> 4."
 2026-11-10,BDI,gov.regional--shared-regional-infrastructure,fact,2,2,BDI-001;BDI-002,"BDI-002: Burundi-Zambia memorandum of October 2024 for a Lake Tanganyika cable; an unnamed contractor is not a contract awarded, so stage 2 holds."
+2026-11-13,BFA,gov.regional--shared-regional-infrastructure,fact,no evidence,4,BFA-003,"WACREN (2025): FasoREN partly connected to the regional research backbone, a link in service as GNB's: no evidence to 4"

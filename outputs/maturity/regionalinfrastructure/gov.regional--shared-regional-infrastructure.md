@@ -21,12 +21,12 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 28 |
+| 4 Operating | 29 |
 | 3 Established | 5 |
 | 2 Nascent | 9 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
-| No evidence | 9 |
+| No evidence | 8 |
 
 ## Countries
 
@@ -43,6 +43,12 @@ Algeria and Niger opened their trans-Saharan fibre link in October 2026; no shar
 Angola's state operator carried services over a fibre link with Namibia's in 2026; no shared exchange or data centre is known.
 
 - Angola Telecom's executive director said a terrestrial fibre link between Angola (Santa Clara) and Namibia (Ondjiva) already exists and the two operators already provide telecom services in both directions ([source, 2026-07-01](https://pti.ao/angola-telecom-preve-operacao-do-cabo-submarino-sarssy-ate-2027/)).
+
+### Burkina Faso: 4 Operating
+
+The national research network was partly connected to the West African research backbone in 2025; no shared exchange or data centre was found.
+
+- WACREN, the regional research and education network, states that FasoREN's connection to the WACREN regional network is still partial, over the national fibre deployed by ANPTIC, with a workshop planned to set a roadmap for full integration ([source, 2025](https://indico.wacren.net/event/256/)).
 
 ### Cameroon: 4 Operating
 
@@ -324,12 +330,6 @@ Not established: No shared link or facility agreed or being built in the last th
 Zimbabwe's new fibre corridor is a partnership with one company, and no agreement with another country was found, so no stage is set.
 
 Not established: No shared link or facility agreed or being built in the last three years, or in service, is on record, and no source dated in the last three years says the country has none.
-
-### Burkina Faso: No evidence
-
-Nothing found names infrastructure Burkina Faso shares with another African country under an agreement, so no stage is set.
-
-Not established: Nothing found names a digital link or facility the country shares with another African country, or says it has none.
 
 ### Cape Verde: No evidence
 
