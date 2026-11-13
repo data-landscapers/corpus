@@ -1,15 +1,16 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "rural",
-   "stage": "1",
-   "access": "official:1.3",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-001",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "rural",
+      "stage": "1",
+      "access": "official:1.3",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-001",
+      "gaps": "",
+      "note": "The World Bank series gives 1.3 per cent of rural people with electricity in 2024, below the 27 per cent line, so stage 1. National and survey figures in the listed news count households or the grid, and do not set the rung.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

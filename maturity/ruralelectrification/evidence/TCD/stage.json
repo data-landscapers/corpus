@@ -1,15 +1,16 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "rural",
-   "stage": "5",
-   "access": "official:100",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-004",
-   "gaps": "All four lines are passed.",
-   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "rural",
+      "stage": "1",
+      "access": "official:0.4",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-003",
+      "gaps": "The latest figure, 0.4 per cent of rural people for 2023, is below 27. The series gives 100 for 2024, which reference/measures.csv marks suspect, so it is set aside.",
+      "note": "The World Bank series gives 0.4 per cent of rural people with electricity in 2023, below the 27 per cent line, so stage 1. Its 2024 figure of 100, after 0.4, is marked suspect in the reference file and set aside (corrections.csv).",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -1,2 +1,56 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,MRT,infra.energy--rural-electrification,review,unplaced,1,MRT-002,"AfDB appraisal (October 2023), searched for this cell in maturity-gaps-3, puts rural electrification at nearly 6 per cent: first figure for 2023 or later, stage 1"
+2026-11-13,AGO,infra.energy--rural-electrification,review,1,1,AGO-001,Rebuild: 1.3 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,BDI,infra.energy--rural-electrification,review,1,1,BDI-004,Rebuild: 3.6 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,BEN,infra.energy--rural-electrification,review,2,2,BEN-004,Rebuild: 45 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,BFA,infra.energy--rural-electrification,review,1,1,BFA-003,Rebuild: 12.7 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,BWA,infra.energy--rural-electrification,review,2,2,BWA-004,Rebuild: 45.9 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,CAF,infra.energy--rural-electrification,review,1,1,CAF-004,Rebuild: 2 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,CIV,infra.energy--rural-electrification,review,2,2,CIV-004,Rebuild: 47.7 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,CMR,infra.energy--rural-electrification,review,2,2,CMR-004,Rebuild: 42.7 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,COD,infra.energy--rural-electrification,review,1,1,COD-004,Rebuild: 1 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,COG,infra.energy--rural-electrification,review,1,1,COG-004,Rebuild: 19.4 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,COM,infra.energy--rural-electrification,review,4,4,COM-004,Rebuild: 88.2 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 4 holds
+2026-11-13,CPV,infra.energy--rural-electrification,review,5,5,CPV-004,Rebuild: 97.7 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 5 holds
+2026-11-13,DJI,infra.energy--rural-electrification,review,3,3,DJI-004,Rebuild: 53.9 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 3 holds
+2026-11-13,DZA,infra.energy--rural-electrification,review,5,5,DZA-004,Rebuild: 100 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 5 holds
+2026-11-13,EGY,infra.energy--rural-electrification,review,5,5,EGY-004,Rebuild: 100 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 5 holds
+2026-11-13,ERI,infra.energy--rural-electrification,review,2,2,ERI-004,Rebuild: 43.2 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,ETH,infra.energy--rural-electrification,review,2,2,ETH-004,Rebuild: 44.8 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,GAB,infra.energy--rural-electrification,review,2,2,GAB-004,Rebuild: 51.3 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,GHA,infra.energy--rural-electrification,review,4,4,GHA-004,Rebuild: 82.6 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 4 holds
+2026-11-13,GIN,infra.energy--rural-electrification,review,2,2,GIN-004,Rebuild: 29.4 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,GMB,infra.energy--rural-electrification,review,2,2,GMB-004,Rebuild: 39.2 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,GNB,infra.energy--rural-electrification,review,1,1,GNB-004,Rebuild: 24.9 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,GNQ,infra.energy--rural-electrification,review,1,1,GNQ-004,Rebuild: 5.1 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,KEN,infra.energy--rural-electrification,review,3,3,KEN-004,Rebuild: 67.1 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 3 holds
+2026-11-13,LBR,infra.energy--rural-electrification,review,1,1,LBR-004,Rebuild: 9.2 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,LBY,infra.energy--rural-electrification,review,unplaced,unplaced,,Rebuild: World Bank series holds nothing after 2012 (0.8 per cent); no 2023-or-later figure in the listed news; unplaced holds
+2026-11-13,LSO,infra.energy--rural-electrification,review,2,2,LSO-004,Rebuild: 41.4 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,MAR,infra.energy--rural-electrification,review,5,5,MAR-004,Rebuild: 100 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 5 holds
+2026-11-13,MDG,infra.energy--rural-electrification,review,1,1,MDG-004,Rebuild: 26.5 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,MLI,infra.energy--rural-electrification,review,2,2,MLI-004,Rebuild: 31.4 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,MOZ,infra.energy--rural-electrification,review,1,1,MOZ-004,Rebuild: 12.3 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,MRT,infra.energy--rural-electrification,review,1,1,MRT-002,Rebuild: World Bank series holds nothing after 2012; AfDB's nearly 6 per cent (October 2023) re-read against the ladder; 1 holds
+2026-11-13,MUS,infra.energy--rural-electrification,review,5,5,MUS-004,Rebuild: 100 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 5 holds
+2026-11-13,MWI,infra.energy--rural-electrification,review,1,1,MWI-004,Rebuild: 6.4 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,NAM,infra.energy--rural-electrification,review,2,2,NAM-004,Rebuild: 41.1 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,NER,infra.energy--rural-electrification,review,1,1,NER-004,Rebuild: 10.8 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,NGA,infra.energy--rural-electrification,review,1,1,NGA-004,Rebuild: 23.5 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,RWA,infra.energy--rural-electrification,review,3,3,RWA-004,Rebuild: 65.2 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 3 holds
+2026-11-13,SDN,infra.energy--rural-electrification,review,3,3,SDN-004,Rebuild: 54.2 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 3 holds
+2026-11-13,SEN,infra.energy--rural-electrification,review,3,3,SEN-004,Rebuild: 67.1 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 3 holds
+2026-11-13,SLE,infra.energy--rural-electrification,review,1,1,SLE-004,Rebuild: 24.9 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,SOM,infra.energy--rural-electrification,review,1,1,SOM-004,Rebuild: 24.4 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,SSD,infra.energy--rural-electrification,review,1,1,SSD-004,Rebuild: 0.7 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 1 holds
+2026-11-13,STP,infra.energy--rural-electrification,review,3,3,STP-004,Rebuild: 75.1 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 3 holds
+2026-11-13,SWZ,infra.energy--rural-electrification,review,4,4,SWZ-004,Rebuild: 88.3 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 4 holds
+2026-11-13,SYC,infra.energy--rural-electrification,review,5,5,SYC-004,Rebuild: 100 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 5 holds
+2026-11-13,TCD,infra.energy--rural-electrification,review,5,1,TCD-003,"Rebuild: World Bank 2024 figure of 100 per cent, after 0.4 in 2023, is marked suspect in reference/measures.csv and removed (corrections.csv); 0.4 for 2023 sets stage 1"
+2026-11-13,TGO,infra.energy--rural-electrification,review,2,2,TGO-004,Rebuild: 33.9 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,TUN,infra.energy--rural-electrification,review,5,5,TUN-004,Rebuild: 100 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 5 holds
+2026-11-13,TZA,infra.energy--rural-electrification,review,2,2,TZA-004,Rebuild: 33.7 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,UGA,infra.energy--rural-electrification,review,2,2,UGA-004,Rebuild: 44.8 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,ZAF,infra.energy--rural-electrification,review,4,4,ZAF-004,Rebuild: 86.3 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 4 holds
+2026-11-13,ZMB,infra.energy--rural-electrification,review,2,2,ZMB-004,Rebuild: 31.3 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-13,ZWE,infra.energy--rural-electrification,review,2,2,ZWE-004,Rebuild: 46.6 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds

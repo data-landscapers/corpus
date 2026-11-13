@@ -238,7 +238,7 @@ def stage(c: dict, rows: list[dict], as_at: dt.date) -> dict:
     if not ck:
         gap = ("All four lines are passed." if up == len(lines) else
                "" if up == 0 else
-               f"The latest figure, {fmt(figure)} {c['unit']} for {best['as_of'][:4]}, is above {fmt(lines[up])}.")
+               f"The latest figure, {fmt(figure)} {c['unit']} for {best['as_of'][:4]}, is {'above' if c.get('lower') else 'below'} {fmt(lines[up])}.")
         return {"stage": str(up + 1), k: best["value"], "sources": [best["row_id"]], "gaps": gap}
     conds = sorted(((when(r), r) for r in rows if r["aspect"] == ck and r["value"] == cv and r["as_of"]
                     and last_day(COND_FROM) <= last_day(r["as_of"]) and when(r) <= as_at), key=lambda p: p[0])

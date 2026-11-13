@@ -1,15 +1,16 @@
 {
- "iso3": "STP",
- "cells": [
-  {
-   "sub_indicator": "rural",
-   "stage": "3",
-   "access": "official:75.1",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "STP-004",
-   "gaps": "The latest figure, 75.1 per cent of rural people for 2024, is above 80.",
-   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
-  }
- ]
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "rural",
+      "stage": "3",
+      "access": "official:75.1",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "STP-004",
+      "gaps": "The latest figure, 75.1 per cent of rural people for 2024, is below 80.",
+      "note": "The World Bank series gives 75.1 per cent of rural people with electricity in 2024, below the 80 per cent line, so stage 3. National and survey figures in the listed news count households or the grid, and do not set the rung.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

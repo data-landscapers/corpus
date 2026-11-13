@@ -1,15 +1,16 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "rural",
-   "stage": "5",
-   "access": "official:97.7",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-004",
-   "gaps": "All four lines are passed.",
-   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "rural",
+      "stage": "5",
+      "access": "official:97.7",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-004",
+      "gaps": "All four lines are passed.",
+      "note": "The World Bank series gives 97.7 per cent of rural people with electricity in 2024, past the 95 per cent line, so stage 5. National and survey figures in the listed news count households or the grid, and do not set the rung.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

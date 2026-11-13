@@ -1,6 +1,6 @@
 # Rural electrification: rural access to electricity
 
-*As at 2026-09-30.*
+*As at 2026-11-13.*
 
 ## The norm
 
@@ -20,11 +20,11 @@ The African Union's Agenda 2063 first ten-year plan asks for 80% of households t
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
+| 5 Leading | 7 |
 | 4 Operating | 4 |
 | 3 Established | 6 |
 | 2 Nascent | 17 |
-| 1 Absent | 18 |
+| 1 Absent | 19 |
 | Unplaced | 1 |
 | No evidence | 0 |
 
@@ -41,12 +41,6 @@ In 2024, 100 per cent of rural people had electricity.
 In 2024, 97.7 per cent of rural people had electricity.
 
 - 97.7 per cent of rural people in Cape Verde had electricity in 2024, by the World Bank's rural electricity access series ([source, 2024](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS)).
-
-### Chad: 5 Leading
-
-In 2024, 100 per cent of rural people had electricity.
-
-- 100 per cent of rural people in Chad had electricity in 2024, by the World Bank's rural electricity access series ([source, 2024](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS)).
 
 ### Egypt: 5 Leading
 
@@ -263,6 +257,12 @@ In 2024, 3.6 per cent of rural people had electricity.
 In 2024, 2 per cent of rural people had electricity.
 
 - 2 per cent of rural people in Central African Republic had electricity in 2024, by the World Bank's rural electricity access series ([source, 2024](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS)).
+
+### Chad: 1 Absent
+
+In 2023, 0.4 per cent of rural people had electricity.
+
+- 0.4 per cent of rural people in Chad had electricity in 2023, by the World Bank's rural electricity access series ([source, 2023](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS)).
 
 ### Congo: 1 Absent
 

@@ -1,15 +1,16 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "rural",
-   "stage": "unplaced",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No figure for 2023 or later has been found for the share of rural people with electricity.",
-   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "rural",
+      "stage": "unplaced",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No figure for 2023 or later has been found for the share of rural people with electricity.",
+      "note": "The World Bank series holds nothing for Libya after 2012 (0.8 per cent), and no figure for 2023 or later has been found in the listed news, so no rung is set.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }
