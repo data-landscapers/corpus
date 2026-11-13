@@ -26,6 +26,7 @@ BDI,digital identity system in pilot communes,Burundi,idsystem,,Ministry of Inte
 BDI,National digital ID pilot,Burundi,idsystem,,Ministry of Interior,,2026-03-30-bdi-the-lack-of-digital-id-systems-threatens-the-digital-economy-of-burund
 BDI,national digital identity system,Burundi,idsystem,,"Ministry of Finance, Budget and Digital Economy",,2026-06-18-bdi-le-budget-de-l-etat-exercice-2026-2027-fixe-a-7-020-6-milliards-de-bif
 BDI,biometric identity card,Burundi,idsystem,,Ministry of Interior,,2025-03-03-bdi-burundi-eco-carte-d-identite-biometrique-cette-fois-sera-la-bonne
+BDI,Biometric national identity card,Burundi,idsystem,,Ministry of Interior,,2026-11-11-bdi-saudi-support-digital-id-data-centre
 BEN,Carte nationale d'identité biométrique (ECOWAS standard),Benin,idsystem,,,,2026-06-03-carte-identite-biometrique-cedeao-medias
 BEN,ANIP identity system,Benin,idsystem,,ANIP,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 BEN,NPI,Benin,idsystem,,,,2026-10-03-ben-gouv-preuve-de-vie-biometrique-pensionnes
@@ -288,6 +289,7 @@ GNQ,pasaporte biométrico-CEMAC,Guinea Ecuatorial,other,CNEDOGE (Centro Nacional
 GNQ,Documento de identidad personal (DIP),Equatorial Guinea,idsystem,,CNEDOGE,biometric security documents,2024-01-01 On the functioning of Equatorial Guinea's National Centre for the Issuance of Official Documents (CNEDOGE)
 GNQ,SIGEF (Sistema Integral de Gestion de Funcionarios),Guinea Ecuatorial,other,,Presidencia del Gobierno,,2026-06-17-guinea-ecuatorial-sigef-comite-pilotaje-interoperabilidad-biometria
 GNQ,CNEDOGE identity document issuance technology,Equatorial Guinea,idsystem,CETIS technology,,,2026-10-16-gq-gobierno-cnedoge-modernizacion-sistema-informatico
+GNQ,CNEDOGE,Equatorial Guinea,other,,state,,2026-11-12-gnq-ejecutivo-aprueba-modernizacion-cnedoge
 KEN,Maisha Card,Kenya,idsystem,,Ministry of Interior,,2026-06-28-kenyans-to-soon-access-their-national-ids-electronically-murkomen-confirms
 KEN,Maisha Namba,Kenya,idsystem,,,,2026-06-24-institutionalize-trust-digital-government-biometricupdate
 KEN,National Identification Card,Kenya,idsystem,,National Registration Bureau,,2025-11-01-government-waives-national-identification-card-processing-charges
@@ -303,6 +305,7 @@ KEN,National identity database / Maisha card,Kenya,idsystem,,National Registrati
 KEN,Maisha Integrated Identity System,Kenya,idsystem,IPRS-AFIS,National Registration Bureau,,2026-05-28-ken-project-profile-the-in-between-lives-of-the-double-registered
 KEN,MAISHA,Kenya,idsystem,,National Registration Bureau,,2025-10-04-ken-murkomen-announces-national-drive-to-accelerate-id-collection-digital
 KEN,Maisha Card,Maisha Card,idsystem,,,,2026-08-25-ken-mahakama-kuu-yapiga-breki-matumizi-ya-maisha-card
+KEN,Multi-Biometric Identification System,Kenya,other,,National Police Service,,2026-09-04-ken-ruto-cites-infrastructure-technology-and-welfare-gains-in-police-refor
 LBR,National identification card,Liberia,idsystem,,National Identification Registry,,2026-09-17-lbr-allafrica-nir-free-id-cards-disadvantaged-only
 LBR,National identity infrastructure,Liberia,idsystem,,National Identification Registry,,2026-09-17-lbr-newdawn-nir-appeals-legislature-oesd-bot-ratification
 LBR,National Identification Registry digital ID platform,Liberia,idsystem,OeSD International,NIR,,2026-09-08-lbr-nir-oesd-digital-id-concession
@@ -523,6 +526,7 @@ SDN,Civil Registry General Administration system,Sudan,other,,Civil Registry Gen
 SDN,National number and national card,Sudan,other,,"General Administration of Civil Registry, Police",,2024-11-20-sdn-alyoumaltali-police-child-national-number-face-iris-card
 SDN,National identity cards,Sudan,idsystem,,,,2026-11-07-sdn-pakistan-sudan-to-strengthen-security-digital-registration-efforts
 SDN,SUDAPASS,Sudan,idsystem,National Digital Identity Platform,Sudanese Cybersecurity Authority; keys and certificates with NADC,,2026-05-29-sdn-press-statement-sudanese-cybersecurity-authority-sca
+SDN,digital identity system,Sudan,idsystem,,,,2026-11-11-sdn-digital-transformation-minister-itu-pp26
 SEN,ECOWAS biometric identity card,Senegal,idsystem,Malaysian contractor,Ministry of Interior (DAF),,2026-09-30-sen-vipeoples-passports-id-cards-national-expertise
 SEN,DAF national identity card files,Senegal,idsystem,,Direction de l'automatisation des fichiers (Interior Ministry),,2026-09-24-sen-beninwebtv-daf-cyberattack-data-intact
 SEN,carte nationale d'identite,Senegal,idsystem,,DAF,,2026-04-07-aps-daf-reprise-production-cni
@@ -535,6 +539,7 @@ SEN,e-Senegal,Senegal,other,mobile app,SENUM SA,,2026-06-28-ndarinfo-e-senegal-g
 SEN,Senegal national electronic identification (EID) project,Senegal,idsystem,open source,MCTN,,2025-10-30-sen-senegal-and-togo-strengthen-cooperation-on-digital-identity-systems
 SEN,ECOWAS biometric national ID card,Senegal,idsystem,,,,2025-02-01-sen-compte-a-rebours-pour-la-revision-des-listes-electorales
 SEN,ECOWAS biometric national identity card,Senegal,idsystem,,Direction de l'automatisation du fichier (Ministry of Interior),,2026-11-10-sen-cartes-nationales-d-identite-a-l-etranger-quand-le-senegal-renouera-t-il
+SEN,Biometric audit database of territorial agents,SEN,other,,"Ministry of Urbanism, Local Government and Territorial Planning",,2026-11-10-sen-audit-biometrique-agents-territoriaux
 SLE,National Biometric Identity Management System / NIN,Sierra Leone,idsystem,,NCRA,,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure
 SLE,national ID system,Sierra Leone,idsystem,MOSIP,,,2026-08-06-sierra-leone-consults-private-sector-on-trusted-digital-id-framework
 SLE,Sierra Leone digital identity platform,Sierra Leone,idsystem,Sign / Bhutan NDI open-source framework,"Ministry of Communication, Technology and Innovation",,"2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform"
@@ -606,6 +611,7 @@ SWZ,National identity cards,Eswatini,idsystem,,Ministry of Home Affairs,,2026-04
 SWZ,integrated identity system,Eswatini,other,,,,2026-04-01-vital-strategies-unhcr-birth-registration-citizenship-scoping
 SWZ,National identity card,National identity card,idsystem,,,,2026-10-13-swz-15-000-emaswati-registered-as-ebc-urges-youth-disabled-to-participate
 SWZ,National ID (Ministry of Home Affairs),National ID,idsystem,,Ministry of Home Affairs,,2026-01-19-swz-id-services-resume-as-pilot-project-rolls-out
+SWZ,Digital ID (Digital Eswatini Project),Eswatini,idsystem,,"Ministry of Information, Communications and Technology",,2026-11-11-swz-ict-minister-digital-eswatini-itu
 SYC,SeyID,Seychelles,idsystem,,Government of Seychelles,Virtual ID Card; Digital Driving License,2026-01-01-seyid-idwallet
 SYC,SeyID ID-Wallet,Seychelles,idsystem,,Government of Seychelles,Minor ID,2026-01-01-seyid-minor-id-wallet
 SYC,SeyID,Seychelles,idsystem,SeyID website and app,Department of Immigration & Civil Status,virtual ID card,2024-09-18 Launch of New Digital Solutions for Public Services
@@ -732,6 +738,7 @@ ZAF,National Population Register,South Africa,idsystem,,Department of Home Affai
 ZAF,HANIS,South Africa,idsystem,,Department of Home Affairs,,2025-11-05-zaf-question-nw4978-to-the-minister-of-home-affairs
 ZAF,ABIS,South Africa,idsystem,,Department of Home Affairs,,2025-11-05-zaf-question-nw4978-to-the-minister-of-home-affairs
 ZAF,Digital ID system,South Africa,idsystem,,Department of Home Affairs,,2026-02-23-zaf-home-affairs-eta-machine-learning-reforms
+ZAF,Smart ID Card,South Africa,idsystem,,Department of Home Affairs,"ABSA, Capitec, FNB, Standard Bank branches as application channel",2026-11-11-zaf-home-affairs-smart-id-753-bank-branches
 ZMB,Integrated National Registration Information System (INRIS),Zambia,idsystem,,,,2026-07-27-zambia-from-rails-to-routine-national-financial-switch
 ZMB,MOSIP-based digital ID,Zambia,idsystem,MOSIP,Smart Zambia Institute,,2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project
 ZMB,INRIS,Zambia,idsystem,,"Department of National Registration, Passport and Citizenship",,2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS

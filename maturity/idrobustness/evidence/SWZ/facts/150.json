@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-11-swz-ict-minister-digital-eswatini-itu",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital ID (Digital Eswatini Project)",
+   "country_label": "Eswatini",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Information, Communications and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": "Digital ID is only named as intended infrastructure under the project; no build, pilot or issuance is stated."
+}

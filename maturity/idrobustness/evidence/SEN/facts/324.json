@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-10-sen-audit-biometrique-agents-territoriaux",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Biometric audit database of territorial agents",
+   "country_label": "SEN",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Urbanism, Local Government and Territorial Planning",
+   "tiers": ""
+  }
+ ],
+ "note": "A biometric audit of local-government staff to build an HR database, not a national ID system issuing unique identities."
+}

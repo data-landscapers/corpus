@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-11-bfa-registre-identifiant-unique-lefaso",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Burkina Faso launched mass enrolment into the Registre de l'identifiant unique on 11 November 2026, assigning each person a random 12-digit electronic identifier, after a pilot enrolling over 16,000 people.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Registre de l'identifiant unique",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The minister said the system captures face, ten fingerprints and both irises and deduplicates them against everyone already registered before generating the identifier.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Registre de l'identifiant unique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

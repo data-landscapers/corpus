@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-bdi-saudi-support-digital-id-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "A Burundian interior ministry official said on 6 May 2026 that Burundi was technically ready to produce the new biometric identity cards, with issuance waiting on a law governing their use.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "Biometric identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric national identity card",
+   "country_label": "Burundi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

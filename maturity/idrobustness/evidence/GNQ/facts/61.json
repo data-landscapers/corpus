@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-12-gnq-ejecutivo-aprueba-modernizacion-cnedoge",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CNEDOGE",
+   "country_label": "Equatorial Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": "Document covers an equipment renewal for the identity-document issuer; it does not say unique numbers are issued, biometric deduplication or certification."
+}
