@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: GHA
-ledger_rows: 70
+ledger_rows: 72
 not_held: 9
-record: 42ee1ca5219c
+record: e75731767b0f
 ---
 
 # News, Oct – Nov 2026
@@ -85,6 +85,20 @@ Ghana's Ministry of Health and Ghana Health Service, supported by WHO and UNDP, 
 **[Sam George urges Africa to develop homegrown digital technologies](https://www.myjoyonline.com/sam-george-urges-africa-to-develop-homegrown-digital-technologies/)** — MyJoyOnline, 22 October 2026
 
 At Digital Economy Live 2026 in Accra, Ghana's communications minister urged African states to build their own digital technologies rather than depend on foreign ones, citing Ghana's mobile money interoperability and national digital identity. He said his ministry is reviewing the policy, institutional and regulatory frameworks for the digital sector.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Emergency Telecommunications Plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana calls for stronger digital infrastructure resilience at ITU PP-26](https://www.citinewsroom.com/2026/11/ghana-calls-for-stronger-digital-infrastructure-resilience-at-itu-pp-26/)** — Citi Newsroom, 11 November 2026
+
+Dig Once Policy before Cabinet; national emergency telecoms plan; ITU resilience programme proposed at Doha.
 
 </div>
 
@@ -621,6 +635,20 @@ Ghana's Cyber Security Authority recorded GH¢209.7m in losses from 4,938 report
 **[CSA and NITA order government institutions to fix critical PHP vulnerabilities within seven days](https://www.myjoyonline.com/csa-and-nita-order-government-institutions-to-fix-critical-php-vulnerabilities-within-seven-days/)** — MyJoyOnline, 22 October 2026
 
 Ghana's Cyber Security Authority and NITA issued a joint alert on 22 October 2026 ordering all government institutions to patch two critical PHP flaws (CVE-2026-109618 and CVE-2026-109619) within seven days and report what they did. Fixed PHP releases are available, and NITA will coordinate support for government systems under its Government Digital Assurance Programme.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial Industry Command Security Operations Centre (FICSOC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Address by Dr Johnson P. Asiama, Governor, Bank of Ghana, at the Chartered Institute of Bankers Ghana 30th National Banking and Ethics Conference](https://www.bog.gov.gh/wp-content/uploads/2026/11/Speech-by-Dr-Johnson-P-Asiama-at-Chartered-Institute-of-Bankers-Ghana-30th-National-Banking-and-Ethics-Conference.pdf)** — Bank of Ghana, 10 November 2026
+
+Governor frames cyber risk as governance; FICSOC threat intelligence to 23 banks; AI credit-scoring safeguards.
 
 </div>
 
