@@ -51,6 +51,7 @@ CIV,CRVS-ID integration,Parcours d'intégration CRVS-ID,crvslink,,ONECI,,2026-05
 CIV,RNPP,Côte d'Ivoire,other,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
 CIV,City Web,Côte d'Ivoire,other,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
 CIV,CNI / NNI,Côte d'Ivoire,other,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
+CIV,ONECI,Cote d'Ivoire,crvslink,CityWeb,ONECI,,2026-05-01-civ-deploiement-a-linternational-loneci-connecte-madrid-au-registre-nation
 CMR,BUNEC civil registration digital system,Cameroon,other,,BUNEC,,2026-01-12-councils-begin-issuance-digital-birth-certificates-biometricupdate
 CMR,New generation national ID card,Cameroon,other,Augentic,DGSN,"national ID, residence, refugee and disability cards",2025-03-05-issuance-of-new-national-id-card-takes-off-biometricupdate
 CMR,BUNEC civil registration digital system,Cameroon,other,,BUNEC,,2026-01-13 Cameroon intros digital system for civil documents
@@ -144,6 +145,7 @@ LSO,NICR integrated system,Lesotho,other,,Department of National Identity and Ci
 LSO,Digital/service identification system,Lesotho,other,,MICSTI,,2026-03-25-lesotho-digital-service-id-pilot-govls
 LSO,MOSIP-based national digital identity ecosystem,LSO,other,MOSIP,MICSTI,,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan
 LSO,National Identity and Civil Registration (NICR) system,NICR,other,,,,2025-01-01-lso-identity-in-finance-a-case-study-of-the-kingdom-of-lesotho
+LSO,National Identity and Civil Registry integrated registration system,integrated registration system,crvslink,,National Identity and Civil Registry,,2024-08-09-lso-linking-civil-registration-to-vital-statistics-and-legal-identity-syst
 MAR,MOSIP-based national ID,Morocco,other,MOSIP,,,2026-05-28 Why decentralized digital identity looks different in every country
 MAR,National ID card management system,Morocco,other,,DGSN,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 MAR,Massar,Morocco,other,,Ministry of National Education,,2024-04-23-mar-massar-registration-digital-identity-learner-register
@@ -208,6 +210,7 @@ NGA,NIMC national identity and biometric-enabled G2PS card,Nigeria,other,,NIMC,G
 NGA,e-CRVS,e-CRVS,other,,National Population Commission,,2025-09-16-nga-npc-nin-integrated-ecrvs-identity-day
 NGA,IT2 tokenised biometric identity platform (Trust Stamp/BLIP),Nigeria,other,Trust Stamp IT2,BLIP Limited (deployer),,2026-10-27-trust-stamp-targets-nigerian-biometric-id-programs-with-3-year-blip-de
 NGA,electronic birth registration,Electronic birth registration,crvslink,,National Population Commission,,2026-06-01-nga-a-statistical-profile-of-birth-registration-in-nigeria
+NGA,VitalReg,VitalReg (selfservice.nationalpopulation.gov.ng),crvslink,,National Population Commission,,2026-08-04-nga-npc-launches-vitalreg-digital-birth-and-death-registration-platform-ac
 RWA,National Population Registry,Rwanda,other,,NIDA,,2026-06-03-rwanda-integrated-civil-registration-system-launch
 RWA,National Digital Civil Registration and Vital Statistics system,Rwanda,other,,MINALOC,,2026-01-28-rwanda-completes-digitalisation-crvs-modules
 RWA,Single Digital ID (SDID),Rwanda,other,,,,2026-05-26-new-digital-id-you-control-everything-ktpress
@@ -287,3 +290,4 @@ ZMB,INRIS,Zambia,crvslink,,"Department of National Registration, Passports and C
 ZMB,Foundational Digital ID and CRVS core modules,Zambia,crvslink,,Smart Zambia Institute,,2025-12-02-zmb-dzap-system-integrator-foundational-digital-id-crvs-rfp
 ZWE,National Population Register,Zimbabwe,other,,Civil Registry Department,,2026-07-18-zwe-crvs-health-integration-egmrg-presentation
 ZWE,Digital ID,Zimbabwe,other,,Registrar-General / Ministry of Home Affairs,,2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform
+ZWE,Zimbabwe Population Registry System (ZPPRS),Zimbabwe,crvslink,,Registrar-General's Office,,2026-03-01-zwe-registrar-general-to-get-voters-roll-custody

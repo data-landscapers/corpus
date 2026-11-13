@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-04-nga-npc-launches-vitalreg-digital-birth-and-death-registration-platform-ac",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Nigeria 24 reports that the National Population Commission's launched VitalReg platform integrates with the National Identity Management Commission, and self-service birth registration requires the child to already hold a National Identification Number.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "VitalReg",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VitalReg",
+   "country_label": "VitalReg (selfservice.nationalpopulation.gov.ng)",
+   "class": "crvslink",
+   "platform": "",
+   "owner": "National Population Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

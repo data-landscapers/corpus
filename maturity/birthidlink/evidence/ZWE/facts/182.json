@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-01-zwe-registrar-general-to-get-voters-roll-custody",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Minister Kazembe says the Registrar-General's Office issues birth certificates, national identity cards and death certificates and holds records of everyone, on the Zimbabwe Population Registry System that updates birth and death records in real time.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Zimbabwe Population Registry System (ZPPRS)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe Population Registry System (ZPPRS)",
+   "country_label": "Zimbabwe",
+   "class": "crvslink",
+   "platform": "",
+   "owner": "Registrar-General's Office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

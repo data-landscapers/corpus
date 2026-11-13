@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-30-zmb-zambia-seeks-international-system-integrator-for-mosip-based-digital-i",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Smart Zambia Institute is seeking a system integrator to integrate a MOSIP-based digital identity platform with the country's civil registration infrastructure, under a World Bank-backed project over $100 million.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "MOSIP-based digital ID platform",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

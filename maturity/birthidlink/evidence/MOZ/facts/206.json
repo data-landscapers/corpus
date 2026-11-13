@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-12-moz-atdi-destaca-capacidade-nacional-para-digitalizacao-do-registo-integra",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "ATDI chairman Adilson Gomes said on 12 May 2026 that an integrated registration process involving the Justice sector and the national civil identification directorate (DNIC) is being worked on, with a single app to register and integrate citizen information still to come.",
+   "as_of": "2026-05-12",
+   "date_precision": "day",
+   "system": "integrated citizen registration process",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
