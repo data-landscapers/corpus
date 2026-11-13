@@ -8,3 +8,22 @@ EGY,015,use,inservice,revalued: underway,"the managing director says the first p
 EGY,016,usage,reported,removed,"five banks named for a first phase not yet begun are a target, not a count of services relying on the ID"
 SWZ,005,use,inservice,removed,"users register in the Government In Your Hand app with their national ID; a check against the register is not stated"
 SWZ,006,use,inservice,removed,"the elderly grant requires the ID card to be shown; a check against the register is not stated"
+BDI,001,use,inservice,classed other,"Housekeeping 73: SIM registration asking for the ID card as a document is not a check against the ID, so it answers no question"
+BDI,002,use,inservice,classed other,"Housekeeping 73: presenting identification at SIM registration, with ARCT monitoring it, is not a check against the ID, so it answers no question"
+BDI,003,usage,reported,removed,"Housekeeping 73: 70% of SIMs registered is no figure for checks against the ID, as the fact itself says"
+CMR,001,use,inservice,classed other,"Housekeeping 73: the card required as a document at a payroll census is not a check against the ID, so it answers no question"
+EGY,008,use,inservice,revalued: sectors:several,Housekeeping 73: the Public Prosecution's portal admitting only Digital Egypt-verified users beside Digified's eKYC for lenders and insurers (EGY-005) is a check in a second sector
+EGY,006,usage,reported,removed,"Housekeeping 73: Digified's 25 million annual verifications are a vendor's own total across its clients, not a figure for checks against the ID, as the cell reads it"
+LBR,003,use,inservice,revalued: sectors:several,Housekeeping 73: civil service payroll verified by ID number beside financial institutions on the NIR's KYC system (LBR-009) is a check in a second sector
+LSO,006,use,inservice,revalued: sectors:several,"Housekeeping 73: the electoral commission's register integrated with the national ID beside banks relying on it (LSO-001, LSO-005) is a check in a second sector"
+MLI,001,use,inservice,classed other,"Housekeeping 73: civil servants producing the carte Nina as a paper is not a check against the register, so it answers no question"
+MLI,002,use,inservice,classed other,"Housekeeping 73: applying online with a NINA is the number taken, not a check against the register, so it answers no question"
+MLI,005,use,inservice,classed other,"Housekeeping 73: SIM rules have operators record the NINA rather than check it against the register, so it answers no question"
+MLI,006,use,inservice,classed other,"Housekeeping 73: SIM rules have operators record the NINA rather than check it against the register, so it answers no question"
+MLI,007,use,inservice,classed other,"Housekeeping 73: SIM rules have operators record the NINA rather than check it against the register, so it answers no question"
+MLI,008,use,inservice,classed other,"Housekeeping 73: SIM rules have operators record the NINA rather than check it against the register, so it answers no question"
+MLI,009,use,inservice,classed other,"Housekeeping 73: SIM rules have operators record the NINA rather than check it against the register, so it answers no question"
+TCD,002,use,inservice,classed other,"Housekeeping 73: ARCEP's rule that each SIM be linked to an NNI counts a number recorded, not a check against the ID system"
+TCD,003,use,inservice,classed other,"Housekeeping 73: ARCEP's audit of subscribers registered with an NNI counts a number recorded, not a check against the ID system"
+TGO,003,sectors,several,removed,"Housekeeping 73: the deck has the card used in microfinance without describing a check, so a second sector is not shown"
+ZWE,006,use,inservice,revalued: sectors:several,Housekeeping 73: the Electoral Commission verifying voters against the population database beside mobile money's Civil Registry checks (ZWE-001) is a check in a second sector

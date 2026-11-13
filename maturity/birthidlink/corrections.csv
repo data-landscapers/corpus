@@ -3,3 +3,11 @@ CIV,011,link,inservice,removed,"Stage 4c: ONECI connecting an embassy ID centre 
 LSO,003,link,inservice,removed,"Stage 4c: the 2013 integrated registry, in service and held"
 ZMB,008,link,underway,removed,"Stage 4c: the MOSIP integrator tender, underway and held as ZMB-004"
 ZWE,004,link,inservice,removed,"Stage 4c: the Registrar-General holding both registers, in service and held"
+AGO,005,link,inservice,revalued: events:both,"Housekeeping 73: deaths sent to the database to deregister the citizen, beside the ID issued from birth-record data (AGO-001), is records passing for both events"
+TUN,002,link,inservice,revalued: events:both,"Housekeeping 73: the citizen register initialised and updated from Madania by API, holding birth and death acts, is records passing for both events"
+ETH,005,link,inservice,revalued: link:underway,"Housekeeping 73: Fayda numbers issued with birth certificates in Addis Ababa schools are one city, which does not carry the country"
+MDG,003,link,inservice,revalued: link:underway,Housekeeping 73: an expert calling the ID linked with civil registration does not say what records pass
+MOZ,002,link,inservice,revalued: link:underway,Housekeeping 73: ID cards issued from the registrar's data in one district's campaign do not carry the country; a link shown in one campaign is under way
+TCD,005,link,inservice,revalued: link:underway,Housekeeping 73: one hospital desk issuing an NNI with the birth keeps the link at pilot scale
+TCD,006,link,inservice,revalued: link:underway,Housekeeping 73: TASDJIL birth certificates carrying an NNI from maternity units keep the link at pilot scale
+TCD,007,link,inservice,revalued: link:underway,Housekeeping 73: one provincial hospital entering births with an NNI keeps the link at pilot scale

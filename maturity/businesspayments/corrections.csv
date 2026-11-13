@@ -6,3 +6,14 @@ GMB,002,system,inservice,revalued: system:underway,"Rebuild 2026-10-23: the sour
 MWI,004,reported,reported,revalued: system:underway,"Rebuild 2026-10-23: 232 of 250 annual procurement plans uploaded in the first phase counts plans, not tenders, value or share of purchasing, as for Mauritania."
 NAM,004,reported,reported,revalued: system:inservice,"Rebuild 2026-10-23: 'used by less than 5% of public entities' counts users of the portal, not tenders, value or share of purchasing through it, as for Zimbabwe."
 ZAF,003,reported,reported,revalued: system:inservice,"Rebuild 2026-10-23: the MAPS shares (73% of organs of state published tenders, 12% plans, 3% contract notices) count organs of state, not tenders, value or share of purchasing through eTenders."
+CIV,003,endtoend,endtoend,revalued: system:inservice,"Housekeeping 73: the 2024 extension covers the ministries' contracting authorities, not all public bodies, so it shows SIGOMAP in use, not end to end"
+GIN,001,system,inservice,revalued: system:underway,"Housekeeping 73: companies registering on Telemo is not tenders published or bid on it, the test applied to Gambia"
+GIN,002,system,inservice,revalued: system:underway,"Housekeeping 73: Telemo's launch does not say tenders are published or bid on it, the test applied to Gambia"
+MOZ,006,system,inservice,removed,"Housekeeping 73: the December 2024 e-SISTAFE statement does not say tenders are published or bid online, and the April 2025 e-GP launch (MOZ-001, MOZ-002) stands over it"
+MOZ,007,endtoend,endtoend,removed,"Housekeeping 73: the December 2024 e-SISTAFE statement does not show tenders run online to payment, and the April 2025 e-GP launch (MOZ-001, MOZ-002) stands over it"
+SDN,002,system,inservice,classed other,Housekeeping 73: one fund's electronic tender is its own purchasing and does not carry the country
+SWZ,003,system,inservice,classed other,Housekeeping 73: the Central Bank's own e-procurement system covers its purchasing only and does not carry the country
+SYC,001,system,underway,classed other,"Housekeeping 73: an AfDB loan whose reforms include e-procurement names no system procured, built or piloted"
+TCD,001,system,underway,classed other,"Housekeeping 73: a budget orientation that an electronic payment system will launch in 2027 is a stated plan, not a system procured, built or piloted"
+TGO,001,system,underway,classed other,"Housekeeping 73: a workshop on the e-GP strategy is not a system procured, built or piloted"
+TGO,002,system,underway,classed other,"Housekeeping 73: a call for consultants to help prepare the future e-GP is not a system procured, built or piloted"
