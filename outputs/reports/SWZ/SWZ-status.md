@@ -1,12 +1,12 @@
 ---
 title: Eswatini: status report
-compiled: 2026-11-12
+compiled: 2026-11-13
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 227
+sources_cited: 228
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -42,7 +42,7 @@ acquire_lines: 57
 
 [The Data Protection Act 2022 has been in force since 4 March 2022, and binds the public and private sectors](https://www.edpa.org.sz/assets/documents/DATA%20PROTECTION%20ACT.pdf). [It treats biometric data as sensitive personal information](https://www.edpa.org.sz/assets/documents/DATA%20PROTECTION%20ACT.pdf). [It reaches businesses outside the country that target its residents](https://www.esccom.org.sz/legislation/DATA%20PROTECTION%20ACT.pdf). [As enacted in 2022 it provides for fines of up to E5,000,000 or 2% of annual turnover](https://itlawco.com/focus-areas/data-protection-and-privacy/data-protection-act-5-of-2022-eswatini). [It requires a breach to be notified to the authority and to the affected person](https://dataprotection.africa/eswatini-data-protection-act-introduced/). [It imposes no data localisation requirement](https://www.edpa.org.sz/assets/documents/DATA%20PROTECTION%20ACT.pdf). [Guidelines of August 2025 set 72 hours for notifying the authority of a breach](https://edpa.org.sz/uploads/publications/Data_Breach_Guidelines.pdf). [The communications regulator also polices data protection, and there is no separate data-protection institution](https://itlawco.com/focus-areas/data-protection-and-privacy/data-protection-act-5-of-2022-eswatini).
 
-[In mid-2025 the World Bank recorded that the data protection office had still not been operationalised](https://www.worldbank.org/en/country/eswatini/publication/eswatini-economic-update-digital-transformation-key-to-unlocking-growth-jobs-and-economic-resilience). [By February 2026 the authority was setting out eight data-subject rights in a public campaign](https://independentnews.co.sz/40549/science-technology/eswatini-launches-data-protection-campaign/). [In July 2026 it said it had concluded a complaint over a health practitioner's unlawful disclosure of a patient's information](https://times.co.sz/39805/news/health-data-guidelines-enter-validation-stage/). [In 2024 it kept a mandatory register of controllers and processors, and ran a cross-border transfer authorisation process](https://www.edpa.org.sz/enforcement.html). [It has issued enforcement notices against MTN Eswatini, Liberty Life Swaziland, the Royal Science and Technology Park and the Sincephetelo Motor Vehicle Fund](https://www.edpa.org.sz/enforcement.html).
+[In mid-2025 the World Bank recorded that the data protection office had still not been operationalised](https://www.worldbank.org/en/country/eswatini/publication/eswatini-economic-update-digital-transformation-key-to-unlocking-growth-jobs-and-economic-resilience). [By February 2026 the authority was setting out eight data-subject rights in a public campaign](https://independentnews.co.sz/40549/science-technology/eswatini-launches-data-protection-campaign/). [In July 2026 it said it had concluded a complaint over a health practitioner's unlawful disclosure of a patient's information](https://times.co.sz/39805/news/health-data-guidelines-enter-validation-stage/). [In 2024 it kept a mandatory register of controllers and processors, and ran a cross-border transfer authorisation process](https://www.edpa.org.sz/enforcement.html). [By 31 March 2026, 511 had registered](https://esccom.org.sz/wp-content/uploads/2026/10/ESCCOM-Annual-Report-2026_Final_30.10.2026-Compressed.pdf). [It has issued enforcement notices against MTN Eswatini, Liberty Life Swaziland, the Royal Science and Technology Park and the Sincephetelo Motor Vehicle Fund](https://www.edpa.org.sz/enforcement.html).
 
 [In 2024 the Association for Progressive Communications read section 36 as giving the authority grounds to take no action on complaints](https://www.apc.org/en/news/eswatini-strives-digital-sovereignty-amid-technological-advancements). [The Act applies to payment service providers as a general law, with nothing specific to payment transaction data](https://dataprotection.africa/eswatini-data-protection-act-introduced/). [Eswatini's Digital Freedom score fell 15.5 points over 2014-2023 to 39.9 out of 100, 38th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sz.pdf).
 
