@@ -4,8 +4,8 @@ compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: DZA
 ledger_rows: 39
-not_held: 5
-record: 08c3fca9df43
+not_held: 6
+record: 6d297deacaaf
 ---
 
 # News, Oct – Nov 2026

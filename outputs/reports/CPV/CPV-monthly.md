@@ -4,8 +4,8 @@ compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: CPV
 ledger_rows: 14
-not_held: 23
-record: d6addcff38a4
+not_held: 22
+record: 023a69083b11
 ---
 
 # News, Oct – Nov 2026

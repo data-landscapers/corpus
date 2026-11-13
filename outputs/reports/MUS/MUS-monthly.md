@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: MUS
-ledger_rows: 38
+ledger_rows: 39
 not_held: 7
-record: 553843c54be0
+record: afad05cdda80
 ---
 
 # News, Oct – Nov 2026
@@ -393,6 +393,20 @@ Mauritius's digital driving licence takes legal effect on 1 January 2027, after 
 **[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 The Governor of the Bank of Mauritius, Priscilla Muthoora Thakoor, told a Financial Stability Board workshop in Port Louis on 15 July 2026 that sub-Saharan Africa will miss the G20's 2027 targets for cross-border payments. She described REPSS, SADC-RTGS, TCIB and PAPSS as complementary regional systems and warned that stablecoins could undermine monetary sovereignty. The speech was posted on 13 October.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment Systems (Authorisation and Licensing) Regulations 2021, amended 2024</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[List of Licensees](https://www.bom.mu/payment-systems/licensing/list-licensees)** — Bank of Mauritius, 15 October 2026
+
+Six PSP licences, November 2021 to September 2025: CIM, Emtel MFS, Cellplus, EZ Dash, NanoSAIO and one unnamed.
 
 </div>
 

@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 253
+sources_cited: 256
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -52,6 +52,8 @@ In January 2026 the state [used Data Privacy Week to declare compliance no longe
 <!-- gov.regional -->
 
 [The SADC regional settlement system's April 2026 statistics record nine Malawian banks and 1,210 settled transactions](https://www.resbank.co.za/content/dam/sarb/what-we-do/payments-and-settlements/settlement-services/sadc-rtgs/2026-stats/SADC-RTGS%20Settlement%20Statistics%20and%20Indicators%20-%20April%202026.pdf). [In November 2026 COMESA said its Digital Retail Payments Platform was approaching friendly user trials, with live transactions to be piloted between Malawi and Zambia](https://www.comesa.int/central-bank-governors-bureau-strengthen-regional-monetary-and-payments-institutions/). Deeper regional integration is one of the commitments in the Reserve Bank's [payments strategy for 2026–2030](https://itweb.africa/article/malawi-unveils-digital-payments-roadmap/KPNG8v8NQLZM4mwD), launched in April 2026. In customs, [the revenue authority's system has exchanged declarations with Zambia's in real time at the Mwami-Mchinji border since November 2025](https://trademarkafrica.com/zambia-and-malawi-live-customs-data-exchange-to-speed-up-trade-and-strengthen-compliance/). [A link to Tanzania's customs system launched at Songwe in June 2023](https://trademarkafrica.com/electronic-data-exchange-to-revolutionize-trade-between-tanzania-and-malawi/). [Five customs administrations adopted a roadmap in August 2026 to extend such exchange across the region](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/). The electricity utility [signed an agreement in September 2023 to join the national fibre backbone to Tanzania's](https://www.maraviexpress.com/escom-signs-commercial-agreement-with-tanzania-telecommunications-company/). No statement since has said the link is live. The national identity card is [built to the ICAO standard and used by the Immigration Department as a secondary document at border points](https://www.cgdev.org/sites/default/files/malawi-journey-towards-transformation.pdf) (2020).
+
+On 12 June 2025 Malawi [deposited its ratification of the African Telecommunications Union's Constitution and Convention, becoming a full member](https://leymanck.com/malawi-secures-full-membership-in-african-telecoms-union/). In June 2026 Zambia's regulator said [roaming charges had been cut by 3-93% across six SADC states including Malawi under the One Network Area](https://www.zambiamonitor.com/zambia-five-sadc-states-cut-mobile-roaming-charges-in-push-for-regional-connectivity/). [A legal guide of July 2024 records that Malawi has not ratified the Malabo Convention](https://www.datalaw.africa/wp-content/uploads/2024/09/Malawi_country-guide_30-Sept.pdf).
 
 ### Standards
 <!-- gov.standards -->

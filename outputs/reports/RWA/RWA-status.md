@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 9
-sources_cited: 267
+sources_cited: 270
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -56,6 +56,8 @@ acquire_lines: 55
 [The national ID has been a recognised travel document for Kenya and Uganda since January 2014, for stays of up to six months](https://citizenshiprightsafrica.org/the-experience-of-cross-border-travel-using-national-id/). [The EAC's regional rules on cross-border data flows and personal data protection remained unadopted in July 2026](https://newsaf.cgtn.com/news/2026-07-25/East-African-Community-pushes-for-a-single-digital-market-1P2UgLoWEPS/p.html). [In July 2026 the EAC's central bank governors called for regulatory harmonisation on AI and digital finance](https://observer.ug/business/east-african-central-bankers-push-single-currency-launch-to-2031/). [Smart Africa was preparing an Internet Governance Blueprint for its September 2026 steering committee](https://rwandainspirer.com/digital-trust-and-ai-oversight-dominate-discussions-at-rwanda-internet-governance-forum/). [It has proposed a Council of African Internet Governance Agencies](https://rwandainspirer.com/digital-trust-and-ai-oversight-dominate-discussions-at-rwanda-internet-governance-forum/). [In August 2026 Ugandan officials said the fibre link between the two countries at Mirama Hills was built but not yet switched on](https://pmldaily.com/news/2026/08/uganda-rwanda-complete-fiber-link-at-mirama-hills-border.html). [The EAC's central bankers agreed to build a peer review mechanism for macroeconomic surveillance under the Community's 2026/27–2030/31 strategy](https://www.eac.int/documents?controller=download&task=download.file&file=84a90aa8-df68-461c-9541-d0e124507d2f&name=29th%20EAC%20MAC%20Communique.pdf.pdf).
 
 [Rwanda ranks first of 54 African states on regional integration in the 2024 Ibrahim Index, at 75.1 of 100 after a 5.8-point decade gain](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-rw.pdf). [On 21 September 2026 Rwanda was selected to host the seventh UN World Data Forum, expected in late 2028](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/).
+
+Rwanda [ratified the African Union's Malabo Convention by presidential order in September 2019](https://www.article19.org/wp-content/uploads/2020/07/Rwanda-UPR-Submission-Final.pdf), and in March 2024 was [the only East African Community state to have signed and ratified it](https://cipesa.org/2024/03/robust-data-protection-standards-could-spur-regional-economic-integration/). In February 2026 a Community evaluation [found operators charging above the One Network Area roaming cap of $0.07 a minute, MTN Rwanda at $0.082](https://www.zawya.com/en/economy/east-african-community-roaming-network-hurt-as-telecoms-defy-price-caps-360015).
 
 ### Standards
 <!-- gov.standards -->

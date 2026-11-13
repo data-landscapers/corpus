@@ -3,9 +3,9 @@ title: Malawi — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: MWI
-ledger_rows: 28
+ledger_rows: 29
 not_held: 30
-record: 16fe58f0af30
+record: 34900dd56459
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: 16fe58f0af30
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -493,6 +495,28 @@ The Reserve Bank of Malawi issued fintech PayChangu payment service provider lic
 **[Ubuntu in Action: MAREN and RENU Sign MoU to Advance Research and Education in Africa!](https://maren.ac.mw/ubuntu-in-action-maren-and-renu-sign-mou-to-advance-research-and-education-in-africa/)** — MAREN, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
 The research and education networks of Malawi (MAREN) and Uganda (RENU) signed a memorandum of understanding at UbuntuNet-Connect 2026 in Lilongwe. The chief executives, Solomon Dindi and Nicholas Mbonimpa, signed it. It covers institutional collaboration and the sharing of knowledge and experience.
+
+</div>
+
+</div>
+
+## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+</nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Parametric insurance pilot for refugees</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Insuring the Excluded: Lessons from Malawi’s Parametric Insurance Pilot for Refugees](https://www.refugeesinternational.org/reports-briefs/insuring-the-excluded-lessons-from-malawis-parametric-insurance-pilot-for-refugees/)** — Refugees International, 1 November 2026
+
+2,160 refugee households paid ~US$100 each in 2024, targeted from proGres; SIM rules keep many refugees off mobile money.
 
 </div>
 

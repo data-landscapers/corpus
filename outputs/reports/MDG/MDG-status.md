@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 274
+sources_cited: 275
 sections_written: 39
 not_established: 1
 acquire_lines: 25
@@ -379,7 +379,7 @@ The two cohorts launched in January 2026 come to 2,300 training places between t
 
 [80% of children were registered at birth in 2025](https://instat.mg/p/enquete-par-grappes-a-indicateurs-multiples-mics-7-2025). [About 6 million adults, some 40% of adults, hold no birth certificate](https://www.worldbank.org/en/news/feature/2026/07/01/no-longer-invisible-unlocking-legal-identity-for-millions-in-madagascar) (2026). [The registration drive works offline first, with field teams and fokontany chiefs confirming identities against a biometric database](https://www.biometricupdate.com/202607/madagascars-last-mile-civil-registration-strategy-closing-digital-id-inclusion-gap) (July 2026). [The National Assembly has opened a derogatory registration route for adults with no certificate](https://www.ecofinagency.com/news/2304-54942-madagascar-passes-law-to-expand-birth-registration-via-biometric-census). [In the Atsimondrano pilot district a UNDP-backed campaign took enrolment to women, young people and people with disabilities](https://www.undp.org/fr/madagascar/blog/les-femmes-et-les-jeunes-datsimondrano-en-premiere-ligne-de-lenregistrement-biometrique-madagascar) (2026).
 
-[Loi n° 97-044 of 1998 guarantees persons with disabilities equal rights in health, education, employment and social integration](https://rodra.co.za/images/countries/madagascar/legislation/SUR%20LES%20PERSONNES%20HANDICAP%C3%89ES%201998.pdf). [A 2019–2022 UN joint programme built disability screening into cash transfers](https://mptf.undp.org/sites/default/files/documents/2023-05/madagascar_final_report.pdf). [Madagascar acceded to the 1951 Refugee Convention in 1967 but not to the 1967 Protocol or the 1969 OAU Convention](https://rimap.unhcr.org/countries/madagascar) (2025). [Décret n° 2015-957 requires a standing consultation body at every decentralised collectivity](http://mef.gov.mg/dgcf/textes-pdf/decentralisation/DECRETS/Decret%202015957%20structure%20locale%20de%20concertation.pdf).
+[Loi n° 97-044 of 1998 guarantees persons with disabilities equal rights in health, education, employment and social integration](https://rodra.co.za/images/countries/madagascar/legislation/SUR%20LES%20PERSONNES%20HANDICAP%C3%89ES%201998.pdf). [A 2019–2022 UN joint programme built disability screening into cash transfers](https://mptf.undp.org/sites/default/files/documents/2023-05/madagascar_final_report.pdf). [Madagascar acceded to the 1951 Refugee Convention in 1967 but not to the 1967 Protocol or the 1969 OAU Convention](https://rimap.unhcr.org/countries/madagascar) (2025). In October 2025 the government said [a national refugee bureau had been set up under the interior ministry and a refugee bill was in consultation](https://www.unhcr.org/sites/default/files/2025-10/104-madagascar.pdf). [Décret n° 2015-957 requires a standing consultation body at every decentralised collectivity](http://mef.gov.mg/dgcf/textes-pdf/decentralisation/DECRETS/Decret%202015957%20structure%20locale%20de%20concertation.pdf).
 
 [Buying online remains marginal](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf) (December 2025). [In November 2023 a peer review found weather warnings do not reliably reach the people they are for](https://www.un-soff.org/wp-content/uploads/2024/04/Madagascar-CHD.pdf).
 

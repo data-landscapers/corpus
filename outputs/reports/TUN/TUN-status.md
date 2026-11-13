@@ -6,7 +6,7 @@ region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 274
+sources_cited: 275
 sections_written: 39
 not_established: 0
 acquire_lines: 49
@@ -52,6 +52,8 @@ Little of that is visible: [the authority's performance and results, and its com
 Money crosses the border less readily than office. [The central bank joined the Pan-African Payment and Settlement System in February 2024, and Tunisian commercial banks were still being urged to onboard a year later](https://en.africanmanager.com/tunisian-banks-urged-to-join-pan-african-papss-system/); [the scheme lists Tunisia as coming live with no commercial bank participating (June 2026)](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf), so the route is not open to Tunisian customers.
 
 Connectivity crosses more readily. [The two incumbents linked their networks at the Algerian border in April 2013, with direct internet peering between them](https://www.thd.tn/premiere-au-maghreb-la-tunisie-et-l-algerie-interconnectent-leur-reseaux-internet/), and a [joint technical commission in June 2026 planned a new Algeria-Tunisia-Italy submarine cable, an upgrade of the terrestrial link and lower roaming costs](https://www.ecofinagency.com/news-digital/0806-56258-algeria-tunisia-plan-new-submarine-cable-to-expand-digital-connectivity-with-europe); no instrument or timetable for the cable is published.
+
+In April 2023 Tunisia [had signed the African Union's Malabo Convention but not ratified it](https://www.thd.tn/la-rdc-ratifie-la-convention-africaine-de-malabo-sur-la-cybersecurite-la-tunisie-traine-encore/). No later ratification has been found.
 
 ### Standards
 <!-- gov.standards -->

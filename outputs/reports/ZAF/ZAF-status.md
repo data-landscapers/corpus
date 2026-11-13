@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 368
+sources_cited: 369
 sections_written: 39
 not_established: 1
 acquire_lines: 49
@@ -68,6 +68,8 @@ On 13 November 2025 the Competition Commission [closed its Media and Digital Pla
 
 <!-- absences -->
 <!-- /absences -->
+
+As at February 2026 [South Africa had signed the African Union's Malabo Convention and not ratified it](https://www.actpol.org/research/continental-frameworks-malabo-digital-trade-protocol), on a policy institute's reading of the AU status list.
 
 ### Standards
 <!-- gov.standards -->
