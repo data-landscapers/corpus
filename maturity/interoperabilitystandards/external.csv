@@ -1,0 +1,2 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+dpimap-ffc95f85d2,dpimap,,EGY,exchange.interoperability_level,"Semantic interoperability: Whether the Data Exchange System publishes what lets data be exchanged in a common format (syntactic interoperability) and, in addition, what gives the data a shared meaning (semantic interoperability)","Not Found (Insufficient information, including where the system is not yet live.); checked 2026-10-15",G2G Services,,partial,nothing,2026-11-06-dpi-map-2026-11-12,,a database's no
