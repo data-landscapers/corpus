@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-01-rwa-rwanda-s-suppression-of-information-dissemination",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "An ARM project policy brief says that in 2019 the Rwandan Senate accused 26 online radio stations and websites of exiled critics of genocide denial and the websites were made inaccessible, with the regulator RURA giving no explanation or appeal.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
