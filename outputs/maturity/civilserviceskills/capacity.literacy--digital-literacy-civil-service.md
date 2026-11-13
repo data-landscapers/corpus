@@ -304,7 +304,7 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 
 ### Niger: 2 Nascent
 
-Digital-skills training for civil servants was under way in 2025; a standing programme is not on record.
+Ministry staff attended digital-platform courses in 2025; no standing programme with a number trained has been found.
 
 - ANSI ran a three-day training for 175 foreign ministry (MAEC) staff on the government's professional email and electronic mail-management (GEC) platforms ([source, 2025-12-02](https://ansi.ne/?p=1137)).
 - The Ministry of Justice and ANSI launched a training of Justice ministry officials on managing mail and documents electronically through the GED platform ([source, 2025-07-23](https://www.lesahel.org/formation-des-responsables-du-ministere-de-la-justice-renforcer-les-capacites-des-agents-sur-la-gestion-electronique-securisee-des-documents/)).
@@ -345,7 +345,7 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 
 ### Sudan: 2 Nascent
 
-Digital-skills training for civil servants was under way in 2026; a standing programme is not on record.
+Officials attended digital-skills courses in 2025 and 2026; no standing programme with a number trained has been found.
 
 - SUNA reports the Northern State information centre with the state training directorate closed four ICT courses (advanced Excel, statistical analysis, internet applications and video conferencing, printer maintenance) for 84 staff of the state secretariat, ministries, councils and localities ([source, 2026-10-15](https://www.suna.sd/posts/hkom-alshmaly-tokd-alahtmam-bbnaaa-alkdrat-oalthol-alrkmy)).
 - Sudan Customs and ARADO concluded their third course on IT applications in customs work, with 21 customs officers at colonel rank receiving completion certificates ([source, 2025-11-14](https://allafrica.com/stories/202511140240.html)).

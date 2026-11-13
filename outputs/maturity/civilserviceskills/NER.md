@@ -10,4 +10,4 @@
 
 ***Also on file***. [SIGRHEP](<https://www.wearetech.africa/fr/fils/actualites/tech/niger-biometrie-paie-carrieres-la-fonction-publique-se-numerise>); [Gestion Electronique du Courrier (GEC)](<https://ansi.ne/?p=1137>).
 
-***Not found***. No source found since October 2023 says: is a standing programme in service.
+***Not found***. No source found since October 2023 names a standing digital-skills programme for civil servants with a number trained.

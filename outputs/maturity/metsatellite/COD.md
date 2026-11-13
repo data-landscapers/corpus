@@ -10,4 +10,4 @@
 
 ***Also on file***. [SOFF RDC](<https://meteordcongo.cd/publications/lancement-officiel-du-projet-soff-rdc-un-pas-d%C3%A9cisif-pour-le-renforcement-du-systeme-m%C3%A9t%C3%A9orologique-national/>).
 
-***Not found***. No source found since October 2023 says the weather service issues warnings drawing on satellite data.
+***Not found***. No source found since October 2023 says the weather service uses satellite data in its forecasts.

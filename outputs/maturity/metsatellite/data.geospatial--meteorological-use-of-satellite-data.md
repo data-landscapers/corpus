@@ -224,10 +224,10 @@ A satellite receiving station was installed at the weather service by May 2026; 
 
 ### DR Congo: 2 Nascent
 
-The national weather service was receiving a satellite data stream in 2024; its use in forecasts is not on record.
+The weather service was receiving a satellite data stream in 2024; its use in forecasts has not been found.
 
-- The MeteoSwiss peer review says METTELSAT has a functional PUMA satellite reception system at its headquarters giving access to EUMETCast ([source, 2024-07](https://meteordcongo.cd/documents/14/DRC-CHD-Report-NGA-Annex_2.pdf)).
 - The WMO-hosted METTELSAT document says the agency has PUMA 2015 and MESSIR NEO equipment connected to the EUMETCast Africa data stream to receive satellite images and regional and global model data ([source, 2024-02](https://wmo.int/sites/default/files/2024-02/4.%20Syst%C3%A8me%20d%E2%80%99Observation%20de%20la%20METTELSAT.pdf)).
+- The MeteoSwiss peer review says METTELSAT has a functional PUMA satellite reception system at its headquarters giving access to EUMETCast ([source, 2024-07](https://meteordcongo.cd/documents/14/DRC-CHD-Report-NGA-Annex_2.pdf)).
 
 ### Eritrea: 2 Nascent
 

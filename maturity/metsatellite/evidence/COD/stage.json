@@ -9,10 +9,10 @@
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-002;COD-001",
-      "gaps": "No source found since November 2023 says the weather service uses satellite data in its forecasts.",
-      "note": "METTELSAT's PUMA station is functional and connected to EUMETCast (2024). No source says its forecasts use the data, and each step must be met on its own evidence.",
-      "as_at": "2026-11-11"
+      "stage_sources": "COD-001;COD-002",
+      "gaps": "No source found since October 2023 says the weather service uses satellite data in its forecasts.",
+      "note": "Held at 2, housekeeping 71: COD-001 and COD-002 show METTELSAT's PUMA station receiving EUMETCast in 2024, revalued to underway as reception, not use in forecasts. No source says its forecasts use the data, and ruling 114 needs each step shown.",
+      "as_at": "2026-11-13"
     }
   ]
 }

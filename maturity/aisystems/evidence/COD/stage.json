@@ -9,10 +9,10 @@
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-002",
-      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "The education ministry's Snote Manager, AI-using grading software it developed, is in use at its grading centre. No AI computing in the country has been found.",
-      "as_at": "2026-10-22"
+      "stage_sources": "COD-003;COD-002",
+      "gaps": "No source found since October 2023 names GPUs or other AI accelerators in service in the country; Lofoyi (COD-003) is described only as 150 TFLOPS of interconnected servers optimised for AI.",
+      "note": "Held at 3, housekeeping 71: COD-003's Lofoyi supercomputer, inaugurated in June 2026 and optimised for AI, is AI computing in service, but neither source names GPUs or AI accelerators, and ruling 114 needs question 3 shown by its own evidence. COD-002's Snote Manager is also in service.",
+      "as_at": "2026-11-13"
     }
   ]
 }

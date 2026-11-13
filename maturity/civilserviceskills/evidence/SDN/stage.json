@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SDN-001;SDN-002",
-      "gaps": "No source found since October 2023 says: is a standing programme in service.",
-      "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 names a standing digital-skills programme for civil servants in service with a number trained.",
+      "note": "Held at 2, housekeeping 71: SDN-002's third Customs-ARADO course on IT applications in customs work certified 21 officers in Cairo, and SDN-001's four Northern State courses trained 84; both are courses held, which answer question 1 as Congo's and Libya's do. Neither names a standing programme in service with a number trained.",
+      "as_at": "2026-11-13"
     }
   ]
 }

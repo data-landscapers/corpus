@@ -6,13 +6,13 @@
       "stage": "4",
       "births": "inservice",
       "deaths": "digital",
-      "coverage": "",
+      "coverage": "general",
       "cap": "",
       "flags": "",
       "stage_sources": "MUS-001;MUS-002",
-      "gaps": "No source found since October 2023 puts birth registration at 90% or more.",
-      "note": "Statistics Mauritius compiles births and deaths registered for the Republic in 2026 from the Civil Status Division's computerised system. No coverage share has been found.",
-      "as_at": "2026-10-24"
+      "gaps": "No source found since October 2023 gives the share of births registered in the digital system; the SPI's at least 90% (MUS-003, 2024) is a national rate not tied to it.",
+      "note": "Held at 4, housekeeping 71: MUS-003, the World Bank SPI's 2024 birth registration at least 90% complete, is a national rate, which Bill ruled is not a yes to question 4 (2026-10-25). MUS-001 and MUS-002 show births and deaths compiled from the Civil Status Division's computerised system in 2026.",
+      "as_at": "2026-11-13"
     }
   ]
 }

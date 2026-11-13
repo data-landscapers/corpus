@@ -75,7 +75,7 @@ Births and deaths were registered digitally in 2025; 90% birth registration is n
 
 ### Mauritius: 4 Operating
 
-Births and deaths were registered digitally in 2026; 90% birth registration is not on record.
+Births and deaths were registered in a computerised system in 2026; the share of births it holds has not been found.
 
 - Statistics Mauritius states preliminary vital statistics, including 6,386 live births registered in January-June 2026 for the Republic, were extracted from the computerised system in place at the Civil Status Division ([source, 2026-08-28](https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1949/Pop_Vital_Midyr26_280826.pdf)).
 - The same issue reports 6,333 deaths registered in January-June 2026 compiled from the Civil Status Division's computerised system, per Statistics Mauritius ([source, 2026-08-28](https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1949/Pop_Vital_Midyr26_280826.pdf)).

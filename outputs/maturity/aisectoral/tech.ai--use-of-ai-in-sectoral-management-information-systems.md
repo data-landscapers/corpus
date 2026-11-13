@@ -157,7 +157,7 @@ Eswatini's public hospitals have screened for diabetic eye disease with AI since
 
 ### Gambia: 3 Established
 
-An AI tool was in service in a public sector's system in 2026; AI in several sectors is not on record.
+The revenue authority used machine-learning risk scores in 2026; no single source says AI serves two or more sectors.
 
 - The Gambia Revenue Authority now uses the Rental Tax Compliance System's ML-estimated rental values and compliance risk scores to prioritise property owner records for audit and visit, per the DIAL case study ([source, 2026-05-01](https://dial.global/wp-content/uploads/2026/05/AI-x-DPI-Case-study-The-Gambia.pdf)).
 - The Ministry of Higher Education unveiled the TITA mobile app on 2025-04-24 in Banjul, whose admin panel uses AI to generate institution-wide academic timetables automatically for tertiary institutions ([source, 2025-04-24](https://www.kerrfatou.com/gambias-higher-education-ministry-launches-innovative-tita-mobile-app-to-modernize-tertiary-institutions/)).

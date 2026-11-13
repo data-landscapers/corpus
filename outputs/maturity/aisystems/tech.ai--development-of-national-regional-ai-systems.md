@@ -182,8 +182,9 @@ An AI model or dataset built in the country was in service in 2026; AI computing
 
 ### DR Congo: 3 Established
 
-An AI model or dataset built in the country was in service in 2025; AI computing is not on record.
+AI software built by the education ministry was in service in 2025; no GPUs or AI accelerators have been found in the country.
 
+- Universite Nouveaux Horizons says it inaugurated the Lofoyi supercomputer in Lubumbashi on 27 June 2026, described as optimised for scientific computing, artificial intelligence and big data ([source, 2026-06-27](https://www.unhorizons.org/inauguration-lofoyi-premier-supercalculateur-academique-rdc/)).
 - The document says Snote Manager, AI-using grading software, was developed by the Ministry of National Education and New Citizenship and is in use at its grading centre ([source, 2025-04-10](https://edu-nc.gouv.cd/news/artificial-intelligence-at-the-heart-of-state-exam-correction)).
 
 ### Djibouti: 3 Established

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NER-002;NER-001",
-      "gaps": "No source found since October 2023 says: is a standing programme in service.",
-      "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 names a standing digital-skills programme for civil servants in service with a number trained.",
+      "note": "Held at 2, housekeeping 71: NER-002, ANSI's three-day session for 175 foreign ministry staff in December 2025, and NER-001's training of Justice ministry officials are courses held, which answer question 1. Neither names a standing programme in service with a number trained.",
+      "as_at": "2026-11-13"
     }
   ]
 }

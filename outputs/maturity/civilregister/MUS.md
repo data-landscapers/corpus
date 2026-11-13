@@ -10,4 +10,4 @@
 
 ***Also on file***. [Central Population Database](<https://oecd-opsi.org/innovations/maupass/>).
 
-***Not found***. No source found since October 2023 puts birth registration at 90% or more.
+***Not found***. No source found since October 2023 gives the share of births registered in the digital system. The World Bank's figure of at least 90% is a national rate.

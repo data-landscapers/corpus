@@ -1,2 +1,4 @@
 iso3,n,aspect,value,action,why
 SSD,002,stream,underway,removed,"a tender by the water ministry for a ground station; it does not name the meteorological service"
+COD,001,stream,underway,revalued: underway,"PUMA and MESSIR NEO connected to EUMETCast receive satellite images: a receiving station, not use in forecasts (housekeeping 71)"
+COD,002,stream,underway,revalued: underway,"a functional PUMA reception system giving access to EUMETCast is a receiving station, not use in forecasts (housekeeping 71)"
