@@ -21,8 +21,8 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 24 |
-| 3 Established | 8 |
+| 4 Operating | 25 |
+| 3 Established | 7 |
 | 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -101,6 +101,14 @@ Benin's 2017 identification law, amended in 2025, sets up a biometric register a
 
 - Article 6 as amended by law no. 2025-12 under law no. 2017-08 provides for a national biometric population register and a personal identification number (NPI) for each person entered, including special numbers for foreigners and for Afro-descendant naturalised persons ([source, 2025-06-20](https://www.lanation.bj/actualites/assemblee-nationale-larticle-6-de-la-loi-sur-lidentification-des-personnes-physiques-retouche)).
 - La Nation reports that the National Assembly adopted law no. 2025-12 amending article 6 of law no. 2017-08 of 19 June 2017 on the identification of natural persons (the law behind the national register and the NPI); the 2017 law is treated as the law in force, an ordinary law, and the amending law's promulgation is not stated ([source, 2017-06-19](https://www.lanation.bj/actualites/assemblee-nationale-larticle-6-de-la-loi-sur-lidentification-des-personnes-physiques-retouche)).
+
+### Botswana: 4 Operating
+
+Botswana's 1986 registration law, amended in 2025, gives each registered person an identity number; no rules made under it since 2023 are known.
+
+- The 2025 amendment, not yet commenced, has the registrar assign a gender-neutral identity number to each person in the Unified Population Register and issue an identity card valid 10 years ([source, 2025-03-23](https://www.botswanalaws.com/PDF/StatutesActpdf/2025Actpdf/007.pdf)).
+- The National Registration (Amendment) Act 2025 (No. 7), assented 23 March 2025, amends the existing National Registration Act (Cap. 01:02); the amendment starts on a date the Minister sets by Gazette order, not yet stated ([source, 2025-03-23](https://www.botswanalaws.com/PDF/StatutesActpdf/2025Actpdf/007.pdf)).
+- The Minister of Labour and Home Affairs said the National Registration (Amendment) Act of 2025 now allows passports and driving licences as valid identification while identity cards (Omang) are being replaced; it is an Act of Parliament amending the national registration law ([source, 2026-03-02](https://dailynews.gov.bw/news-detail/90334)).
 
 ### Cameroon: 4 Operating
 
@@ -254,13 +262,6 @@ Tunisia's organic law of March 2024 provides for a biometric identity card with 
 
 - Organic Law No. 2024-22 of 2024 provides that the identity card carries an encrypted secure electronic chip holding the card number and fingerprint and photo, and an electronic certificate allowing identity verification and electronic signature; it leaves the card model to a decree and the certificate rules to a joint ministerial order, with no such instrument dated in the document ([source, 2024-03-11](https://legislation-securite.tn/latest-laws/loi-organique-n-2024-22-du-11-mars-2024-modifiant-et-completant-la-loi-n-93-27-du-22-mars-1993-relative-a-la-carte-nationale-didentite/)).
 - A ministerial session on 2024-04-22 decided to start using the biometric national identity card in H1 2025 following approval of Organic Law No. 22 of 2024 on the biometric identity card; the document gives no promulgation date and does not say the law is not yet in force ([source, 2024-04-22](https://www.zawya.com/en/economy/north-africa/tunisia-biometric-id-card-and-passport-usage-to-begin-in-h1-2025-bn9vuol5)).
-
-### Botswana: 3 Established
-
-Botswana's 1986 National Registration Act, amended in 2025, is in force. No source found says whether it provides for a digital identity.
-
-- The Minister of Labour and Home Affairs told Parliament that the National Registration (Amendment) Act, 2025, an Act of Parliament amending the law governing the national identity card (Omang), provides that a passport or driving licence is used as identification while a defaced, lost or expired identity card awaits replacement ([source, 2026-07-29](https://dailynews.gov.bw/news-detail/92439)).
-- The Minister of Labour and Home Affairs said the National Registration (Amendment) Act of 2025 now allows passports and driving licences as valid identification while identity cards (Omang) are being replaced; it is an Act of Parliament amending the national registration law ([source, 2026-03-02](https://dailynews.gov.bw/news-detail/90334)).
 
 ### Gambia: 3 Established
 

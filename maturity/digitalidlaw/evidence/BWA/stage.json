@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "3",
+      "stage": "4",
       "standing": "in-force",
-      "cover": "",
+      "cover": "digital",
       "cap": "",
       "flags": "",
-      "stage_sources": "BWA-004;BWA-005",
-      "gaps": "No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.",
-      "note": "Rebuild 2026-10-31: The 1986 Act, amended in 2025, is in force (BWA-004); fingerprints taken on registration do not show a digital register (corrections.csv), so question 3 is not answered. Stage 3 holds.",
-      "as_at": "2026-10-31"
+      "stage_sources": "BWA-009;BWA-008;BWA-005",
+      "gaps": "No regulation or decree made under the Act since October 2023, and no rule that others must check identity against the register, is on record.",
+      "note": "The National Registration (Amendment) Act 2025, assented on 23 March 2025 and described by the minister in 2026 as in effect (BWA-008, BWA-005), has the registrar assign an identity number to each person in the Unified Population Register (BWA-009), so question 3 is yes. No rule made under it is held, so not 5.",
+      "as_at": "2026-11-13"
     }
   ]
 }

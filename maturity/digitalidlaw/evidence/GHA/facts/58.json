@@ -1,0 +1,37 @@
+{
+ "slug": "2026-11-11-gha-national-identification-authority-homepage",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The NIA homepage says the National Identification Authority was established by the National Identification Authority Act, 2006 (Act 707) to create and maintain Ghana Cards.",
+   "as_of": "2006",
+   "date_precision": "year",
+   "system": "National Identification Authority Act, 2006 (Act 707)",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "digital",
+   "fact": "The NIA homepage says L.I. 2523, the National Identity Register (Amendment) Regulations, 2026, requires identity to be authenticated biometrically against the National Identity Register.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "L.I. 2523 National Identity Register (Amendment) Regulations, 2026",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "applied",
+   "fact": "The NIA homepage says L.I. 2523 of 2026 bars organisations from relying on photocopies or scans of the Ghana Card and makes them verify identity biometrically, with penalties for non-compliance.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "L.I. 2523 National Identity Register (Amendment) Regulations, 2026",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
