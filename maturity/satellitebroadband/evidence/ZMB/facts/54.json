@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-12-zambia-deploys-751-starlink-kits-to-health-facilities-with-undp-suppor",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink kits for health facilities",
+   "country_label": "Starlink kits, 751 health facilities",
+   "class": "other",
+   "platform": "Starlink",
+   "owner": "Smart Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite links serve government health sites only, not sold to households or businesses."
+}
