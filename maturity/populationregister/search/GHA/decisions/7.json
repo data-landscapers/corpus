@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "population",
+ "aspect": "register;vital;used",
+ "fact": "The NIA annual report for the year ended 31 December 2023 states 17,700,684 Ghanaians enrolled, completed data harmonisation and integration with SSNIT, GRA and NHIA, and commenced registration of children at birth with the Births and Deaths Registry.",
+ "title": "National Identification Authority Annual Report, December 2023",
+ "publisher": "National Identification Authority",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

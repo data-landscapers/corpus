@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "population",
+ "aspect": "register",
+ "fact": "After the COVID-19 onset the President announced the creation of a population registry for the areas affected by lockdown to distribute social benefits, and the 2019 law calls for a National Civil Registry and Identification Center to manage central civil registry and national identification databases.",
+ "title": "Project Appraisal Document: Digital Governance and Identification Management System Project",
+ "publisher": "International Development Association, World Bank",
+ "published": "2020-09-04",
+ "date_source": "source",
+ "why_not": "no-development: the population-registry sentence is in the search highlight, not in the fetched text (parent withdrew)"
+}

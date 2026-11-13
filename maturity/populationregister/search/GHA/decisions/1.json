@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "population",
+ "aspect": "register;used",
+ "fact": "As at 6 November 2026 the NIA reports 20,610,948 Ghanaians enrolled in the National Identity Register, and L.I. 2523 requires institutions to authenticate identity biometrically against the register.",
+ "title": "National Identification Authority",
+ "publisher": "National Identification Authority",
+ "published": "2026-11-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

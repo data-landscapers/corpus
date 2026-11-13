@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "population",
+ "aspect": "used",
+ "fact": "The NIA lists public and private institutions, including Bank of Ghana, DVLA, GRA, NHIA, SSNIT and the Births and Deaths Registry, as having access to data in the National Identity Register.",
+ "title": "User Agencies",
+ "publisher": "National Identification Authority",
+ "published": "2023-09-22",
+ "date_source": "source",
+ "why_not": ""
+}
