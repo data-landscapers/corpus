@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-sdn-digital-transformation-minister-itu-pp26",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "authority",
+   "value": "designated",
+   "fact": "Sudan's digital transformation minister told the ITU Plenipotentiary Conference that Sudan had established three specialised bodies within a year, one of them for artificial intelligence, and enacted legislation governing these areas.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Sudan specialised AI body",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-kenya-ai-governance-fragmentation",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "The Bowmans analysis says Kenya's private member's AI Bill, before the Senate, would require labelling of AI-generated synthetic media, criminalise harmful non-consensual synthetic media and set up an Office of the Artificial Intelligence Commissioner.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Artificial Intelligence Bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
