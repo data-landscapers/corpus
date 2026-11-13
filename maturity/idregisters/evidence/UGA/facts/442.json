@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-08-uga-ura-starts-using-nin-to-profile-taxpayers",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "A government decision makes the NIN the default tax identifier for Ugandan citizens in place of the TIN, and URA says it has started mapping and profiling taxpayers by NIN, with a first phase of NIN submission to end September 2026 and a consent-based second phase.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "URA taxpayer register",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
