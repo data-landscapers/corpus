@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: SYC
-ledger_rows: 16
+ledger_rows: 17
 not_held: 6
-record: 1c71cdbea5aa
+record: 8067ba6262c7
 ---
 
 # News, Oct – Nov 2026
@@ -199,10 +199,28 @@ Seychelles' national computer emergency response team designed and delivered the
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Blue economy department data-sharing memoranda with the revenue commission and the registration division</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Blue economy department signs MoUs with SRC, registration division to strengthen data sharing](https://www.nation.sc/articles/33129/blue-economy-department-signs-mous-with-src-registration-division-to-strengthen-data-sharing)** — Seychelles Nation, 11 November 2026
+
+Two open-ended MoUs signed 10 Nov 2026; signatories named; terms behind paywall.
+
+</div>
+
+</div>
 
 ### Sectoral management information systems
 
