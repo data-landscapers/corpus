@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-12-zwe-potraz-puts-zimbabwe-on-africas-digital-map",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Post On Sunday reports POTRAZ, led by Director-General Gift Machengete with a Director responsible for Data Protection, won the Most Outstanding Data Protection Authority award at the PICCASO Awards Africa on 5 November 2026 for developing and enforcing Zimbabwe's data protection framework.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "POTRAZ",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "POTRAZ",
+   "country_label": "Postal and Telecommunications Regulatory Authority of Zimbabwe",
+   "class": "authority",
+   "platform": "",
+   "owner": "state regulator",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

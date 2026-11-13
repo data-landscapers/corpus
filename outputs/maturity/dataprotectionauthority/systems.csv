@@ -169,6 +169,7 @@ EGY,مركز حماية البيانات الشخصية (Personal Data Protectio
 EGY,مركز حماية البيانات الشخصية (Personal Data Protection Centre),مركز حماية البيانات الشخصية,authority,,Ministry of Communications and Information Technology,,2026-08-07-wizarat-al-tadamun-warshat-amal-qanun-himayat-al-bayanat-al-shakhsiya
 EGY,Personal Data Protection Centre,Egypt,authority,,Minister of Communications and Information Technology,,2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a
 EGY,Personal Data Protection Centre,Egypt,authority,,Government of Egypt,,2026-11-11-egy-prosecution-launches-personal-data-protection-training
+EGY,Personal Data Protection Center,Egypt,authority,,Government of Egypt,,2026-11-12-egy-hyperscalers-want-clear-rules-data-centers
 ETH,Personal Data Protection Proclamation,Personal Data Protection Proclamation,other,,Federal Democratic Republic of Ethiopia,,2025-11-15-ethiopia-data-protection-law-slow-enforcement
 ETH,Ethiopian Communications Authority,Ethiopian Communications Authority (ECA),authority,,Federal Government of Ethiopia,,2025-11-15-ethiopia-data-protection-law-slow-enforcement
 ETH,ECA data controller and processor registration portal,digital registration portal,authority,,Ethiopian Communications Authority,,2025-11-15-ethiopia-data-protection-law-slow-enforcement
@@ -381,6 +382,7 @@ MWI,MACRA (Data Protection Authority),Malawi,authority,,,,2026-05-27-mwi-malawi-
 MWI,Malawi Communications Regulatory Authority (MACRA),Malawi,authority,,,,2025-05-03-mwi-macra-engages-with-various-stakeholders-to-sensitise-on-framework-for
 MWI,Data Protection Agency,Data Protection Agency (Macra),authority,,Macra,,2025-07-12-mwi-detectives-cashing-in-on-search-warrants
 MWI,Data Protection Authority,Malawi Data Protection Authority,authority,,,,2026-06-08-mwi-malawi-digital-economy
+MWI,MACRA (Data Protection Authority),Malawi Communications Regulatory Authority,authority,,,,2026-11-11-mwi-dpa-reviews-proposed-data-protection-registration-fees
 NAM,"Draft Data Protection Bill, 2021 (revised version)",Data Protection Bill,other,,Ministry of Information and Communication Technology,,2022-03-01-namibia-draft-data-protection-bill-revised-version-mict
 NAM,Data Protection Supervisory Authority,Data Protection Supervisory Authority,authority,,proposed under the draft bill,,2022-03-01-namibia-draft-data-protection-bill-revised-version-mict
 NAM,Draft Data Protection Bill (2020 version),Data Protection Bill,other,,Ministry of Information and Communication Technology,,2020-01-01-namibia-draft-data-protection-bill-2020-version
@@ -445,6 +447,7 @@ NGA,Nigeria Data Protection Commission,Nigeria,authority,,NDPC,,2025-02-09-nga-n
 NGA,Nigeria Data Protection Commission (NDPC),Nigeria,authority,,Federal government,,2025-01-29-nga-nigeria-generated-n12bn-from-data-protection-in-2024
 NGA,Nigeria Data Protection Commission (NDPC),Nigeria,authority,,state,,2026-10-30-nga-rogue-actors-exploiting-data-nji-ndpc-judicial-capacity
 NGA,Nigeria Data Protection Commission,Nigeria,authority,,,,2026-11-01-serap-inec-voter-register-ai-photos-ndpc
+NGA,Nigeria Data Protection Commission,NDPC,authority,,,,2026-11-11-businessday-google-600k-nigerian-teen-online-risks
 RWA,Data Protection Act,Data Protection Act (introduced 15 October 2021),other,,,,2026-01-26-year-of-accountability-data-controllers-newtimes
 RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,authority,,NCSA,,2026-01-26-year-of-accountability-data-controllers-newtimes
 RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,authority,,,,2025-07-25-rwa-cloud-storage-under-rwanda-s-data-protection-law-what-you-need-to-know
@@ -662,3 +665,4 @@ ZWE,POTRAZ,Zimbabwe,authority,,Government of Zimbabwe,,2026-10-23-zwe-potraz-ord
 ZWE,POTRAZ,Postal and Telecommunications Regulatory Authority of Zimbabwe,authority,,,,2026-03-26-zwe-financial-sector-bears-brunt-of-data-breaches-potraz-calls-for-stronge
 ZWE,POTRAZ,Zimbabwe,authority,,,,2025-07-01-zwe-potraz-certifies-700-data-protection-officers
 ZWE,POTRAZ,Postal and Telecommunications Regulatory Authority of Zimbabwe,authority,,POTRAZ,,2025-01-01-zwe-zimbabwe-s-data-protection-regime
+ZWE,POTRAZ,Postal and Telecommunications Regulatory Authority of Zimbabwe,authority,,state regulator,,2026-11-12-zwe-potraz-puts-zimbabwe-on-africas-digital-map
