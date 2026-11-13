@@ -11,10 +11,10 @@
       "last12": "advancing",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "EGY-015;EGY-013;EGY-029;EGY-030;EGY-002;EGY-008;EGY-003;EGY-011",
-      "gaps": "No published count of decisions, sanctions or complaints settled under the law for a stated period. The Alexandria Economic Court judgment (EGY-030) carries no date of its own: its last hearing was in October 2024 and EGY-012 places the ruling in February 2025; it is a civil damages award, not a decision of the Personal Data Protection Center. Sources describe a compliance grace period to 31 October or 1 November 2026 (EGY-001, EGY-009, EGY-014, EGY-015); standing is read as in force with the grace period noted.",
-      "note": "The law is in force and was applied in a 2025 court judgment ordering an operator to pay damages under Law 151 of 2020 (EGY-030), so stage 4 is met. No published count of decisions settles stage 5; the authority is constituted, so no cap applies.",
-      "as_at": "2026-11-12"
+      "stage_sources": "EGY-015;EGY-013;EGY-029;EGY-036;EGY-030;EGY-002;EGY-008;EGY-003;EGY-011",
+      "gaps": "No published count of decisions, sanctions or complaints settled under the law for a stated period. The Alexandria Economic Court judgment (EGY-030) carries no date of its own: its last hearing was in October 2024 and EGY-012 places the ruling in February 2025; it is a civil damages award, not a decision of the Personal Data Protection Center. The compliance grace period ran to 31 October 2026 and full enforcement began in early November 2026 (EGY-036); no decision of the Center since is on record.",
+      "note": "The law is in force, fully enforced from November 2026 (EGY-036), and was applied in a 2025 court judgment ordering an operator to pay damages under Law 151 of 2020 (EGY-030), so stage 4 is met. No published count of decisions settles stage 5; the authority is constituted, so no cap applies.",
+      "as_at": "2026-11-13"
     }
   ]
 }

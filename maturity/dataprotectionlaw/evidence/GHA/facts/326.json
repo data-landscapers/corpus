@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-rail-knust-dpc-webinar-ai-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Executive Director of the Data Protection Commission of Ghana, Dr. Arnold Kavaarpuo, spoke at the webinar for the Commission.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Data Protection Commission of Ghana",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

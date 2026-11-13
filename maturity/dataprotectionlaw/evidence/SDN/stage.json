@@ -1,6 +1,20 @@
 {
   "iso3": "SDN",
   "cells": [
-    {"sub_indicator": "general", "stage": "2", "authority": "", "standing": "drafting", "regulations": "", "application": "", "last12": "", "cap": "", "flags": "", "stage_sources": "SDN-002;SDN-001", "gaps": "No enacted or in-force general law is on record; the bill's content is not described and no vote or commencement is stated. systems.csv lists a Sudanese Data and Artificial Intelligence Authority established 2025-11-07, but no evidence row says it is constituted or acts under a data protection law, so authority is left empty. No regulations or application facts have been found.", "note": "Standing is drafting (SDN-002, 6 Aug 2026, Council of Ministers directed further study; SDN-001 only announces), so stage 2; stage 3 needs an enacted law. The Council's discussion does not say the bill moved on, so last12 is left empty."}
+    {
+      "sub_indicator": "general",
+      "stage": "2",
+      "authority": "none",
+      "standing": "drafting",
+      "regulations": "",
+      "application": "",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SDN-005;SDN-002;SDN-001",
+      "gaps": "No enacted or in-force general law is on record; the bill approved by the cabinet on 1 November 2026 (SDN-005) is unpublished, and no vote by the interim parliament or commencement is stated. SDN-004 (July 2026) states no independent authority; systems.csv lists a Sudanese Data and Artificial Intelligence Authority established 2025-11-07, but no evidence row says it acts under a data protection law. No regulations or application facts have been found.",
+      "note": "Standing is drafting: the cabinet approved the data and AI bill on 1 November 2026 (SDN-005) after directing further study on 6 August (SDN-002), so stage 2; stage 3 needs an enacted law. The cabinet approval is a dated step inside the twelve months, so advancing.",
+      "as_at": "2026-11-13"
+    }
   ]
 }

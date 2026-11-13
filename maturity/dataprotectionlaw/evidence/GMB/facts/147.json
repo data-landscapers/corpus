@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-08-gmb-dataguidance-pdppa-2025-in-effect-following-assent",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "OneTrust DataGuidance reports on 8 December 2025 that the Personal Data Protection and Privacy Act (Act No. 11 of 2025), passed by the National Assembly on 29 September 2025, received presidential assent on 7 November 2025 and was gazetted on 13 November 2025, and its headline says the Act goes into effect.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "Personal Data Protection and Privacy Act (Act No. 11 of 2025)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The Act names the Information Commission as the body that monitors compliance, issues guidance and imposes penalties; the document does not say its members are appointed.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "Information Commission",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

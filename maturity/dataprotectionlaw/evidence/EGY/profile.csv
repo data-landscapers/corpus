@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 EGY,general,authority,qualifier,constituted,2026-11-08,EGY-003;EGY-011;EGY-018;EGY-022;EGY-026;EGY-034,EGY-010=provided,
-EGY,general,standing,coverage,in-force,2026-11-08,EGY-013;EGY-020;EGY-027;EGY-028;EGY-029;EGY-032,EGY-014=transition;EGY-015=transition;EGY-001=transition;EGY-009=transition;EGY-016=transition;EGY-021=transition;EGY-031=enacted,
+EGY,general,standing,coverage,in-force,2026-11,EGY-013;EGY-020;EGY-027;EGY-028;EGY-029;EGY-032;EGY-036,EGY-014=transition;EGY-015=transition;EGY-001=transition;EGY-009=transition;EGY-016=transition;EGY-021=transition;EGY-031=enacted,
 EGY,general,regulations,coverage,issued,2026-11-08,EGY-002;EGY-008;EGY-017;EGY-023;EGY-033,EGY-012=none,
-EGY,general,application,coverage,applied,2025-05,EGY-030,EGY-006=activity;EGY-035=activity;EGY-004=activity;EGY-024=activity;EGY-019=activity,
+EGY,general,application,coverage,applied,2025-05,EGY-030,EGY-006=activity;EGY-035=activity;EGY-004=activity;EGY-039=activity;EGY-024=activity;EGY-019=activity,
 EGY,general,last12,qualifier,advancing,2026,EGY-005;EGY-007;EGY-025,,

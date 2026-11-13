@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-10-sdn-banking-reform-customer-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Sudan Independent's opinion piece says Sudan has no comprehensive data protection law and no independent data protection authority, citing the World Bank's June 2023 digital economy diagnostic; the 1 November 2026 cabinet-approved data and AI bill is unpublished.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "The opinion piece says no independent body regulates data protection and privacy nationally, citing the World Bank's June 2023 diagnostic, and that the gap continues.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-egy-health-minister-cairo-ict-health-data-law",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Health Minister Khaled Abdel Ghaffar said Egypt already has a personal data protection law from 2020.",
+   "as_of": "2026-11-08",
+   "date_precision": "day",
+   "system": "personal data protection law of 2020",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -175,6 +175,7 @@ Egypt's 2020 data protection law is in force and a court applied it in a 2025 da
 - Law No. 151 of 2020 entered into force in October 2020 and its Executive Regulations carry a one-year transitional period expiring 31 October 2026, per Shura Law Firm ([source, 2026-10-13](https://shuralawfirm.com/en/egypt-pdpl-compliance-checklist-what-to-do-before-the-october-31-2026-deadline/)).
 - The essay discusses Egypt's Law 151/2020 as the country's operating personal data protection law whose protections AI-driven biometric and location data collection is outpacing; it gives no date of commencement, so the date used is the document's published date (2025-06-21) ([source, 2025-06-21](https://www.thecairoreview.com/essays/regulating-privacy-and-digital-identities-in-the-age-of-ai-the-view-from-egypt)).
 - The Alexandria Economic Court, as reported by Khalf El Hadth, applied Egypt's Personal Data Protection Law No. 151 of 2020, including its article 9, in judging a telecoms operator's duty to protect a customer's data ([source, 2025-05](https://khalfelhadth.com/41922)).
+- Egypt began fully enforcing its 2020 data protection law in early November 2026, per Enterprise ([source, 2026-11](https://enterpriseam.com/ai/2026/11/12/hyperscalers-want-clear-rules-before-they-build-data-centers-in-egypt/)).
 - The Alexandria Economic Court (case 554 of 2024) ordered a telecoms operator to pay EGP 10 million in damages for failing to protect a customer's personal data after an unauthorised SIM swap, citing Law 151 of 2020; the judgment date is not given ([source, 2025-05](https://khalfelhadth.com/41922)).
 - Baker McKenzie says the Minister of Telecommunications and Information Technology issued Decree No. 816 of 2025 on 1 November 2025, issuing the Executive Regulations of the PDPL ([source, 2025-11-01](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)).
 - Access Partnership says Executive Regulations No. 816/2025 under Law No. 151/2020 were issued by Ministerial Decree on 1 November 2025 ([source, 2025-11-01](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl)).
@@ -560,8 +561,11 @@ South Sudan has no data protection law; a bill was still being prepared in Septe
 
 ### Sudan: 2 Nascent
 
-Sudan had a data and artificial intelligence bill in draft in August 2026, with no law yet to apply; no source found reports its content.
+Sudan's cabinet approved a data and artificial intelligence bill in November 2026, with no law yet to apply; the bill's content is not known.
 
+*Advancing.*
+
+- Sudan Independent's opinion piece says Sudan has no comprehensive data protection law and no independent data protection authority, citing the World Bank's June 2023 digital economy diagnostic; the 1 November 2026 cabinet-approved data and AI bill is unpublished ([source, 2026-11-01](https://www.sudanindependent.com/news/politics/2026/11/10/%D8%A5%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A)).
 - On 6 August 2026 the Council of Ministers discussed the digital transformation ministry's draft bills, including a data and artificial intelligence bill, and directed further study before approval by the interim parliament, a joint sitting of the Sovereignty and Ministers councils; the article does not describe the bill's content ([source, 2026-08-06](https://sudantribune.net/article/317108)).
 - On 11 August 2026 the Justice Ministry's under-secretary said the ministry is preparing three draft laws with the digital transformation ministry, among them a 2026 Law on Regulating Data and Artificial Intelligence, to provide the legislative framework including data protection ([source, 2026-08-11](https://www.sudanindependent.com/news/politics/2026/08/11/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1)).
 

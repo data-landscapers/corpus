@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-civ-wb-padci-barometre-service-public",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The World Bank-financed PADCI procurement notice requires the barometer design to respect the applicable provisions of law no. 2013-450 on personal data protection.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Law no. 2013-450",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

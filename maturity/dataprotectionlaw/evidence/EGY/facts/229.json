@@ -1,0 +1,47 @@
+{
+ "slug": "2026-11-12-egy-hyperscalers-want-clear-rules-data-centers",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Egypt began fully enforcing its 2020 data protection law in early November 2026, per Enterprise.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Data protection law (2020)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "The executive regulations of the 2020 data protection law came out in 2025 with a one-year compliance grace period, per Enterprise.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Executive regulations of the data protection law",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Personal Data Protection Center oversees personal data and launched its online portal in October 2026, per Enterprise.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Personal Data Protection Center",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The data protection regulator launched an online sign-up portal in October 2026, which Enterprise says was barely working the week before 12 November.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Personal Data Protection Center portal",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

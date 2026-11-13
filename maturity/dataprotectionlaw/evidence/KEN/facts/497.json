@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-kenya-ai-governance-fragmentation",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Bowmans analysis says personal data in Kenya is already regulated under the Data Protection Act, 2019.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "No authority, regulations or application stated."
+}
