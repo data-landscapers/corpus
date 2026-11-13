@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "INCM's presentation says Starlink was approved in under a year, and that it competes with SATCOM's 500+ VSATs in a hybrid market.",
+ "title": "Economic and Policy Aspects of Providing High Speed Internet Connectivity by Retail Satellite Operators",
+ "publisher": "INCM (Joaquim Zindoga), ITU-T workshop",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "A decree of 30 May 2024 granted Starlink Services Burundi a licence to establish and operate a satellite internet network.",
+ "title": "DECRET N°100/091 DU 30 MAI 2024 PORTANT OCTROI D'UNE LICENCE D'ETABLISSEMENT ET D'EXPLOITATION D'UN RESEAU INTERNET PAR SATELLITE A LA SOCIETE STARLINK SERVICES BURUNDI",
+ "publisher": "ARCT",
+ "published": "2024-06-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

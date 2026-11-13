@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "On 7 December 2023 the NCA stated it had neither licensed Starlink operations nor type-approved its equipment, and told the public to stop buying or selling it.",
+ "title": "Starlink Operations are Illegal in Ghana",
+ "publisher": "National Communications Authority",
+ "published": "2023-12-07",
+ "date_source": "source",
+ "why_not": ""
+}

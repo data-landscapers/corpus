@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Paratus launched Paratus Lesotho on 5 November 2026, and its Starlink-enabled Paratus Essential Access has been available in Lesotho since April 2026, after Starlink's April 2025 licence and entry in June 2025 via reseller T-Connect.",
+ "title": "Above 1,000m: can Starlink resellers solve Lesotho's connectivity problem?",
+ "publisher": "Capacity",
+ "published": "2026-11-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

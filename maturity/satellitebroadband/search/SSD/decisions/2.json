@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink has been officially accessible since 22 August 2024; the NCA has approved four official resellers and requires a non-objection letter to collect terminals.",
+ "title": "Starlink au Soudan du Sud, une petite avancée dans l'un des pays les moins connectés au monde",
+ "publisher": "Le Monde",
+ "published": "2024-10-31",
+ "date_source": "proxy",
+ "why_not": ""
+}

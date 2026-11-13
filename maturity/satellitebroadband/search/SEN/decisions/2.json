@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "On 3 November 2026 the Supreme Court rejected the State's request and kept suspended the arrêté n° 038974 of 6 November 2025 authorising Starlink Sénégal SUARL to provide fixed satellite internet for five years, blocking commercial operation.",
+ "title": "Starlink au Sénégal : la Cour suprême maintient la suspension de l'autorisation d'exploitation",
+ "publisher": "OSIRIS",
+ "published": "2026-11-05",
+ "date_source": "source",
+ "why_not": ""
+}

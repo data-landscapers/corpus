@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Executive Decree No. 24-359 of 7 November 2024 approved the renewal of the VSAT-type public satellite network licence of Optimum Télécom Algérie.",
+ "title": "Décret exécutif n° 24-359 du 5 Joumada El Oula 1446 correspondant au 7 novembre 2024",
+ "publisher": "ARPCE",
+ "published": "2024-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

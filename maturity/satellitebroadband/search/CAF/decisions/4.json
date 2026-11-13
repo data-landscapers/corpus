@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "On Monday 16 March 2026 the ministry and DEVEA Centrafrique officially launched Starlink satellite internet nationwide, with kits and a 33,000 FCFA monthly residential subscription for households and businesses.",
+ "title": "Centrafrique : Lancement officiel du service Internet Starlink en RCA",
+ "publisher": "RJDH",
+ "published": "2026-03-18",
+ "date_source": "source",
+ "why_not": ""
+}

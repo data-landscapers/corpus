@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "On 23 April 2026 Eutelsat and MTN Côte d'Ivoire announced a multi-year agreement to deliver satellite broadband across the country on EUTELSAT KONNECT.",
+ "title": "Eutelsat and MTN Côte d'Ivoire sign KONNECT agreement",
+ "publisher": "Eutelsat",
+ "published": "2026-04-23",
+ "date_source": "source",
+ "why_not": ""
+}

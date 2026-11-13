@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "ARPCE launched Competitive Tender No. 01/2026 on 9 April 2026 for two NGSO satellite licences, open to Algerian VSAT licensees and global NGSO constellation operators.",
+ "title": "Competitive tender NO. 01/2026 NGSO licences",
+ "publisher": "ARPCE",
+ "published": "2026-04-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

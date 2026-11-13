@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Rightech.ma states that, as of its September 2026 update, the ANRT has issued no consumer licence to Starlink, whose Moroccan subsidiary is registered but not authorised to sell, and that Royal Air Maroc signed a Starlink fleet Wi-Fi deal on 4 August 2026.",
+ "title": "Starlink au Maroc : où en est-on vraiment (et ce qu'il ne faut pas croire)",
+ "publisher": "Rightech.ma",
+ "published": "2026-09-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "counted;service",
+ "fact": "Starlink and Eutelsat-OneWeb were the only LEO satellite providers that had launched services in Ghana by the end of 2025, and Starlink recorded 22.71 thousand satellite broadband subscriptions in 2025.",
+ "title": "Communications Industry Report (CIR) 2025",
+ "publisher": "National Communications Authority",
+ "published": "2026-07",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "As of 3 October 2026 Starlink Cameroon has no operating licence, no concession agreement has been signed, the service is closed to sales, and customs have seized unapproved kits since the 15 April 2024 memo.",
+ "title": "Starlink Cameroon: licence, prices and launch date (2026)",
+ "publisher": "Wanda Techs",
+ "published": "2026-10-03",
+ "date_source": "source",
+ "why_not": ""
+}

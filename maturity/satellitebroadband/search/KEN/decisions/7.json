@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service;counted",
+ "fact": "Starlink Internet Services Kenya was licensed earlier in the 2023/24 financial year to provide satellite internet and had 0.5 percent market share at 30 June 2024, per the Communications Authority, with over 8,000 subscribers.",
+ "title": "Starlink becomes Kenya's tenth-largest ISP one year after launch",
+ "publisher": "TechCabal",
+ "published": "2024-10-14",
+ "date_source": "proxy",
+ "why_not": ""
+}

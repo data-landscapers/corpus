@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "counted",
+ "fact": "Starlink Ghana recorded 28,612 satellite broadband subscriptions at the end of Q1 2026, up from 22,706 in Q4 2025, reported by the regulator with breakdowns by plan and region.",
+ "title": "Quarterly Statistical Bulletin on Communications in Ghana, Volume 11 Issue 1, First Quarter January - March 2026",
+ "publisher": "National Communications Authority",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

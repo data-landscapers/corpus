@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "ICTA's approved ISP tariffs list Emtel's Internet Service via Satellite, on Kymeta and OneWeb (OW 70 L) equipment for Enterprise and Dedicated categories, with effect from 28 May 2025.",
+ "title": "Approved Tariffs - Emtel Internet via Satellite 280525",
+ "publisher": "ICTA",
+ "published": "2025-05-28",
+ "date_source": "source",
+ "why_not": ""
+}

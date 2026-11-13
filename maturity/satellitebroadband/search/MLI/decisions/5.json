@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "The AMRTP message of March 2026 prohibits non-homologated equipment including Starlink kits, with confiscation, fines and prison for sale or use, though a temporary lifting was mooted in late 2024.",
+ "title": "Sécurité nationale et de souveraineté : L’usage ou la vente des Kits Starlink frappés d’interdiction",
+ "publisher": "Bamako Matin",
+ "published": "2026-03-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

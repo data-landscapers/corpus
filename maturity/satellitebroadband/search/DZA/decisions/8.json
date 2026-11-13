@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Algérie Télécom Satellite offers VSAT service from its Lakhdaria teleport, and providing VSAT is subject to an ARPCE licence.",
+ "title": "Satellite Communications",
+ "publisher": "Ministry of Post and Telecommunications",
+ "published": "2024-01-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

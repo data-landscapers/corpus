@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink service is not officially approved at scale in Mauritania and is used through parallel channels, while authorities reinforce customs controls on kits and reminders of prior authorisation.",
+ "title": "Mauritanie : deuxième câble sous-marin en 2027… pendant que le défi Starlink s'impose déjà",
+ "publisher": "Mauriweb",
+ "published": "2026-03-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

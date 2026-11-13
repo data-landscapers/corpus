@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Customs at Ekok seized 29 Starlink kits, under a ban decreed in April 2024 for national security and lack of a local licence, after which SpaceX suspended service in the country.",
+ "title": "Cameroun: 29 kits Starlink saisis - Le pays durcit le contrôle sur l'internet satellite",
+ "publisher": "allAfrica.com",
+ "published": "2026-02-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

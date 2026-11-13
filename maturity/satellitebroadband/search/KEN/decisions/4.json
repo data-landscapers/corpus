@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "The Communications Authority's June 2026 register lists Starlink Internet Services Kenya Limited as a licensed Network Facilities Provider Tier 2 and in other categories.",
+ "title": "Register of Telecommunication Licensees",
+ "publisher": "Communications Authority of Kenya",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": ""
+}

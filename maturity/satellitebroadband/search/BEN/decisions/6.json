@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink announced on 3 November 2023 that its service is available in Benin, at CFA30,000 a month with CFA400,000 equipment, plus CFA3,125 a month paid to ARCEP for spectrum.",
+ "title": "Starlink launches high-speed satellite Internet in Benin",
+ "publisher": "Ecofin Agency",
+ "published": "2023-11-04",
+ "date_source": "source",
+ "why_not": ""
+}

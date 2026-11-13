@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink satellite internet became available in Burundi on 24 September 2024, open to individuals and businesses, with subscriptions via the Starlink web portal pending a local partner, per an ARCT statement.",
+ "title": "Starlink : Une bouffée d'oxygène pour l'internet burundais",
+ "publisher": "IWACU",
+ "published": "2024-09-26",
+ "date_source": "proxy",
+ "why_not": ""
+}

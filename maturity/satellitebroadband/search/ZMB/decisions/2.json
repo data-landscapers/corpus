@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink launched commercially in Zambia on 5 October 2023 after receiving its operating licence in June, with Paratus Zambia handling distribution and a published kwacha price for kit and subscription.",
+ "title": "Starlink goes live in Zambia",
+ "publisher": "TechCabal",
+ "published": "2023-10-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

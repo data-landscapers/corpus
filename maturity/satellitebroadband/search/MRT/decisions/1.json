@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "On 7 July 2026 the ARE announced provisional awards of satellite licences (GMPCS, GEO only, to BRAINSAT and VMD; capacity sale to BRAINSAT and Mattel), conditional on two bidders matching the reference prices.",
+ "title": "L'ARE annonce les lauréats provisoires des licences télécoms par satellite.",
+ "publisher": "Cridem (Essahraa)",
+ "published": "2026-07-07",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink officially launched in Eswatini on 18 December 2023 after being licensed in June 2023, with a residential package at R1,070 a month.",
+ "title": "Starlink goes live in Eswatini months after receiving license",
+ "publisher": "TechCabal",
+ "published": "2023-12-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

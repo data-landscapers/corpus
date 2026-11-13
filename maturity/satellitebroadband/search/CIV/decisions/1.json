@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "counted",
+ "fact": "The ARTCI fourth-quarter 2025 report counts fixed internet subscribers by provider at 31 December 2025, including 702 for the satellite provider Konnect Africa (651 a year earlier).",
+ "title": "STATISTIQUES DU MARCHE DES TELECOMMUNICATIONS EN COTE D'IVOIRE, 4ème trimestre 2025",
+ "publisher": "ARTCI",
+ "published": "2026-03-06",
+ "date_source": "source",
+ "why_not": ""
+}

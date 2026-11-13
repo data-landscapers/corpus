@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "The LCA board resolved to grant Starlink Lesotho (Pty) Ltd a ten-year licence to operate a satellite network and provide satellite internet services, the first in Lesotho, announced 14 April 2025.",
+ "title": "Public announcement: Licensing of the first satellite internet service in Lesotho",
+ "publisher": "Lesotho Communications Authority",
+ "published": "2025-04-14",
+ "date_source": "source",
+ "why_not": ""
+}

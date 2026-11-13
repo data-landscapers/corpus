@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "satellite",
+ "aspect": "",
+ "fact": "",
+ "title": "TPRA home page (fetched text is a news page)",
+ "publisher": "Telecommunications and Post Regulatory Authority",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: fetched text carries only undated VSAT counter labels, no figures or dated fact."
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Emtel, with Eutelsat Group, officially launched low-earth-orbit (OneWeb) satellite internet in Mauritius on Wednesday 4 June 2025, to be distributed to businesses, government entities and maritime operations.",
+ "title": "Maurice : Emtel introduit l’Internet par satellite avec le soutien d’Eutelsat",
+ "publisher": "Agence Ecofin",
+ "published": "2025-06-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

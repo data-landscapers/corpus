@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink is available in Senegal, with a State programme to buy 5,000 kits, 1,000 of them free, under the authorisation as internet service provider.",
+ "title": "Lamine Sène (FDSUT) : Dès la délivrance de l'autorisation, Starlink intègre pleinement un secteur régulé et est soumise à l'ensemble des obligations réglementaires",
+ "publisher": "Le Soleil",
+ "published": "2026-02-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

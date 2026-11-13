@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "ARCEP's list of authorised internet access providers dated 30 September 2025 includes STARLINK BENIN SARL, authorised for all 77 communes.",
+ "title": "Liste des fournisseurs d'accès à Internet autorisés au Bénin",
+ "publisher": "ARCEP Bénin",
+ "published": "2025-09-30",
+ "date_source": "source",
+ "why_not": ""
+}

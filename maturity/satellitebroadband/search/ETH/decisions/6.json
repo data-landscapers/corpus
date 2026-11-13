@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "The World Bank's July 2025 Ethiopia Telecom Market Assessment says ECA may consider issuing LEO licences, and lists VSAT and GMPCS landing-right classes among the 12 licence categories, with no LEO broadband class.",
+ "title": "Ethiopia Telecom Market Assessment",
+ "publisher": "World Bank Group",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

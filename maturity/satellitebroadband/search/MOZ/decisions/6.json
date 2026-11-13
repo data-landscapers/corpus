@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "INCM announced on 22 Feb 2022 the licence granted to Starlink to provide internet services in Mozambique.",
+ "title": "Internet da SpaceX autorizada em Moçambique",
+ "publisher": "Observador (Lusa)",
+ "published": "2022-02-22",
+ "date_source": "proxy",
+ "why_not": ""
+}

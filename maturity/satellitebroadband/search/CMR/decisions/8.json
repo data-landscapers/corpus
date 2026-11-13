@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "satellite",
+ "aspect": "",
+ "fact": "",
+ "title": "Observatoire annuel 2024 du marché des communications électroniques au Cameroun",
+ "publisher": "Agence de régulation des télécommunications",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "headline-only-stub: landing page with a PDF link, no text on satellite subscribers"
+}

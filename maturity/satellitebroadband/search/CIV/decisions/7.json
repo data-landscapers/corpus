@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink launched commercial service in Côte d'Ivoire on 16 July 2026 at 28,746 to 40,244 FCFA a month, alongside satellite offers from Orange and MTN launched in 2026.",
+ "title": "Internet : Starlink lance officiellement ses services commerciaux en Côte d'Ivoire",
+ "publisher": "Agence Ecofin",
+ "published": "2026-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

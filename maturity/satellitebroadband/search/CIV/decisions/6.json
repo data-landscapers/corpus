@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Orange Côte d'Ivoire launched Orange Sat on 19 January 2026, satellite internet over Eutelsat Konnect at 25,000 FCFA a month with a 150,000 FCFA kit.",
+ "title": "Orange Côte d'Ivoire dévoile Orange Sat, une offre d'Internet par satellite",
+ "publisher": "Digital Mag Côte d'Ivoire",
+ "published": "2026-01-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

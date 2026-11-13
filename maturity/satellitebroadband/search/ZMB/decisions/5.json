@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink has held a licence to offer satellite broadband internet services in Zambia since June 2023, and MTN Zambia announced a Starlink direct-to-cell partnership in March 2026.",
+ "title": "MTN Zambia partners with Starlink to offer D2C services",
+ "publisher": "Developing Telecoms",
+ "published": "2026-03-09",
+ "date_source": "source",
+ "why_not": ""
+}

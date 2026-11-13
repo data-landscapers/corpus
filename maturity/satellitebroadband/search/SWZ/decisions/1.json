@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "counted",
+ "fact": "ESCCOM reports satellite broadband subscriptions rose from 1,508 in FY 2024/25 to 2,567 in FY 2025/26, and one LEO licence (Starlink Eswatini).",
+ "title": "2026 ESCCOM Annual Report",
+ "publisher": "Eswatini Communications Commission",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

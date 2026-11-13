@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "counted",
+ "fact": "Satellite fixed internet subscriptions stood at 25,088 in March 2026, up 11.4 per cent on December 2025, attributed to LEO satellite uptake.",
+ "title": "Third Quarter Sector Statistics Report for the Financial Year 2025/2026 (1 January - 31 March 2026)",
+ "publisher": "Communications Authority of Kenya",
+ "published": "2026-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

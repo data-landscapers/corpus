@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink has launched services in South Sudan with NCA approval under a provisional licence signed in late June 2024, at NCA-approved tariffs.",
+ "title": "Starlink launches services in South Sudan as NCA approves tariffs",
+ "publisher": "Developing Telecoms",
+ "published": "2024-07-16",
+ "date_source": "source",
+ "why_not": ""
+}

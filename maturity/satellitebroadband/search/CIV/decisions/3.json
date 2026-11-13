@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink became commercially available in Côte d'Ivoire on 16 July 2026 under a 12-month provisional ARTCI licence issued to Starlink Network CIV.",
+ "title": "Starlink Goes Live in Côte d'Ivoire",
+ "publisher": "Space in Africa",
+ "published": "2026-07-16",
+ "date_source": "proxy",
+ "why_not": ""
+}

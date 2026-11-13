@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Sudan's Ministry of Communications complained to SpaceX demanding Starlink cease in Sudan for lack of prior licences, and SpaceX said it would cease roaming service there from 30 April 2024.",
+ "title": "Starlink to shut down operations in Sudan",
+ "publisher": "Radio Tamazuj",
+ "published": "2024-04-26",
+ "date_source": "proxy",
+ "why_not": ""
+}

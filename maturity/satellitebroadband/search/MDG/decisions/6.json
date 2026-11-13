@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink announced its high-speed internet service fully operational in Madagascar, with hardware at 1,120,000 ariary and 226,000 ariary a month, two months after the government agreed to its commercial launch.",
+ "title": "Starlink beams into Madagascar",
+ "publisher": "Connecting Africa",
+ "published": "2024-07-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

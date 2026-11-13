@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "The Satellite Licensing Framework (version 1.0, May 2024) creates a Satellite Earth Station Network licence authorising nationwide satellite internet service to the public.",
+ "title": "Satellite Licensing Framework in Ghana",
+ "publisher": "National Communications Authority",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": ""
+}

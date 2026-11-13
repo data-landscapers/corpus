@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "On 22 January 2026 the ARE launched a tender for satellite licences, and at that stage did not authorise LEO providers to offer direct service to the public; Starlink planned a 2026 launch.",
+ "title": "Mauritania Launches Tender for Satellite Communications Licenses",
+ "publisher": "Ecofin Agency",
+ "published": "2026-01-26",
+ "date_source": "source",
+ "why_not": ""
+}

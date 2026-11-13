@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "counted;service",
+ "fact": "ARTCI's third-quarter 2026 report, dated 31 October 2026, counts 5,194 Starlink fixed internet subscribers and 5,707 satellite subscribers at 30 September 2026.",
+ "title": "L'internet fixe ivoirien franchit le million d'abonnements",
+ "publisher": "Africa Moon",
+ "published": "2026-11-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Zambia's government awarded Starlink an operating licence in Zambia, reported 12 June 2023.",
+ "title": "Elon Musk's Starlink gets license in Zambia",
+ "publisher": "Connecting Africa",
+ "published": "2023-06-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

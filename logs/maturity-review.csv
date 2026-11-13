@@ -102,7 +102,7 @@ registry,civil,digital.rural--digitalisation-of-rural-registry-offices,2026-11-1
 retailpayments,retail,dpi.pay--p2p-p2g-and-p2b-functionality,2026-11-13,120,60,176
 revenuecollection,revenue,dpi.pay--revenue-collection,2026-11-13,100,60,184
 ruralelectrification,rural,infra.energy--rural-electrification,2026-11-13,110,60,147
-satellitebroadband,satellite,infra.connect--satellite-broadband-licensing-and-availability,,,,
+satellitebroadband,satellite,infra.connect--satellite-broadband-licensing-and-availability,2026-11-13,100,55,165
 schoolinternet,schools,capacity.training--dt-related-training-in-secondary-education,,,,
 schools,emis,digital.rural--digitalisation-of-rural-primary-schools,2026-11-13,100,55,161
 socialexchange,exchange,dpi.exchange--interoperability-of-social-protection-systems,,,,

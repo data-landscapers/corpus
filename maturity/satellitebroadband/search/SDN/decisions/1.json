@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Starlink is not legally authorized in Sudan; on 31 January 2024 army-aligned authorities banned the importation, possession and use of Starlink devices.",
+ "title": "Starlink on the ruins of Sudan’s networks",
+ "publisher": "Geeska",
+ "published": "2026-02-05",
+ "date_source": "source",
+ "why_not": ""
+}

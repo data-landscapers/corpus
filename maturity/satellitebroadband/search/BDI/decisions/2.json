@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service;counted",
+ "fact": "The ARCT director general's presentation of 28 October 2025 states that Starlink became operational in Burundi in September 2024, is accessible in all provinces, is offered via ISP Mediabox, and counted 2,807 subscribers in September 2025 against 1,194 in February 2025.",
+ "title": "BURUNDI-BB-Maps-28-octobre-2025-Mr-Samuel-Muhizi-2",
+ "publisher": "ARCT",
+ "published": "2025-10-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

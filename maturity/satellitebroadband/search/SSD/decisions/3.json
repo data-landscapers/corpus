@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "The NCA released approved Starlink tariffs under the provisional licence it granted to Starlink.",
+ "title": "South Sudan unveils approved Starlink tariffs",
+ "publisher": "Connecting Africa",
+ "published": "2024-07-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

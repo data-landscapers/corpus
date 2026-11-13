@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "ARCEP published a decision on 11 April 2024 setting conditions for providers of electronic communications from non-terrestrial networks such as satellites, with six months for existing providers to comply; Benin has licensed Starlink, which began commercial operations in November 2023.",
+ "title": "Benin regulator sets guidelines for satellite telecom services",
+ "publisher": "Ecofin Agency",
+ "published": "2024-04-19",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "On 23 February 2024 the ARE warned the public that Starlink was providing satellite internet as an unauthorised network, with unapproved equipment on sale, under penalty of article 102 of law 2013-025.",
+ "title": "Vente d'appareils radioélectriques non homologués et exploitation de réseaux de communications électroniques non autorisés",
+ "publisher": "Autorité de Régulation (ARE)",
+ "published": "2024-02-23",
+ "date_source": "source",
+ "why_not": ""
+}

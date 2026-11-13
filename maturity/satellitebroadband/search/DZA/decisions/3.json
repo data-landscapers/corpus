@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Only state-owned Algérie Télécom Satellite and Djezzy are authorised to provide satellite services in Algeria, and ARPCE launched a tender on 9 April 2026 for two NGSO licences; Starlink service availability in Algeria is unknown.",
+ "title": "Algeria Opens Satellite Market to Competition, Inviting Global Operators",
+ "publisher": "Ecofin Agency",
+ "published": "2026-04-10",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "Paratus Zambia, an authorised Starlink reseller, sells Starlink Priority plans with countrywide coverage to businesses in Zambia.",
+ "title": "Starlink - Paratus Zambia",
+ "publisher": "Paratus Zambia",
+ "published": "2026-07-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

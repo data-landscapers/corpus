@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "An ARCEP press release dated 4 July 2025 says the commercialization of Starlink services is reserved exclusively for Starlink and local internet access providers approved by ARCEP.",
+ "title": "Situation update",
+ "publisher": "Logistics Cluster",
+ "published": "2025-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

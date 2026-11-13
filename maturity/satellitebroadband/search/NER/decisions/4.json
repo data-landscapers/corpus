@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "On 13 March 2025 the communications minister announced Starlink internet services available in Niger, residential and business kits on sale online and from authorised sellers.",
+ "title": "Le Ministre de la communication annonce la disponibilité effective des services Internet de starlink au Niger",
+ "publisher": "Agence Nigérienne de Presse",
+ "published": "2025-03-13",
+ "date_source": "source",
+ "why_not": ""
+}

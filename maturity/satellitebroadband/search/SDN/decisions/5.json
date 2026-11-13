@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "In January 2024 the TPRA asked the Ministry of the Interior to prohibit Starlink devices from entering Sudan, and licensed ISPs reportedly complained Starlink operated without a licence.",
+ "title": "Sudan: Freedom on the Net 2024 Country Report",
+ "publisher": "Freedom House",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "counted;service",
+ "fact": "ARCEP's internet observatory at 31 December 2025 counts Starlink fixed internet subscribers: 1,013 in Q2 2025, 1,593 in Q3 and 2,215 in Q4, and shows satellite at 2.1% of the fixed internet base.",
+ "title": "Observatoire de l'Internet, tableau de bord au 31 décembre 2025",
+ "publisher": "ARCEP Bénin",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

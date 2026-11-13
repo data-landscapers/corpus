@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "INCM says Starlink satellite internet is operating in Mozambique, with a residential plan from 3,000 meticais a month.",
+ "title": "INTERNET VIA SATÉLITE: Starlink já opera em Moçambique",
+ "publisher": "INTIC (from Jornal Notícias)",
+ "published": "2023-08-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

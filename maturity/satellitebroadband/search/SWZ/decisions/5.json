@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "ESCCOM issued a five-year general licence for electronic communications services (Internet Services Provider) to Starlink Eswatini (Pty) Ltd, in force 26 July 2023.",
+ "title": "Notice No. 04/2023: Decision to issue a general licence to Starlink Eswatini (Pty) Ltd",
+ "publisher": "Eswatini Communications Commission",
+ "published": "2023-06-26",
+ "date_source": "source",
+ "why_not": ""
+}

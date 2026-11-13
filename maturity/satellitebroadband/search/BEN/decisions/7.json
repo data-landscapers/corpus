@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "satellite",
+ "aspect": "service",
+ "fact": "",
+ "title": "SpaceX's Starlink Licensed in Benin",
+ "publisher": "Space in Africa",
+ "published": "2023-11-03",
+ "date_source": "source",
+ "why_not": "already-held: restates the Starlink licensing covered by the ARCEP list and Ecofin items, with no regulator detail."
+}

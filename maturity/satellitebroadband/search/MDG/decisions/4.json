@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "satellite",
+ "aspect": "counted",
+ "fact": "",
+ "title": "Observatoire 2023 de l'ARTEC",
+ "publisher": "Haikajy Mag",
+ "published": "",
+ "date_source": "source",
+ "why_not": "headline-only-stub: fetched text is an unrelated page; nothing on satellite subscribers"
+}
