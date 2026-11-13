@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-zwe-transforming-public-services-through-one-digital-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "The Herald opinion piece names the Tax and Revenue Management System (TaRMS) as a platform with established integrations with the Registrar of Companies, the Deeds and Intellectual Property Office and the Department of Civil Registry.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Tax and Revenue Management System (TaRMS)",
+   "class": "core"
+  }
+ ],
+ "systems": [],
+ "note": "The enterprise architecture is being built, not published."
+}

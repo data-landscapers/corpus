@@ -187,6 +187,7 @@ GAB,SIGFiP (Système Intégré de Gestion des Finances Publiques),SIGFiP,other,,
 GAB,Vectis,Gabon budget and expenditure system,core,Involys SA software,Involys SA (vendor),,2026-07-24-gab-dgbfip-involys-sa-vectis-4-92-milliards-entente-directe
 GAB,Vectis,Vectis,core,Involys (Morocco),Involys,,2026-07-14-gab-gabon-le-logiciel-qui-pilote-le-budget-de-l-etat-est-donc-marocain-dep
 GAB,SIGFIP,Gabon,core,Treasury data centre,Ministry of Budget / ANINF,,2026-01-15-gab-le-gabon-reprend-la-main-sur-sa-souverainete-financiere-et-numerique
+GAB,eGabon-SIS,Gabon,other,,Ministry of Health,,2026-06-24-gab-egabon-sis-une-reussite-collective-portee-par-l-expertise-technique-na
 GHA,Integrated Tax Administration System (ITAS),Integrated Tax Administration System (ITAS),core,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,Ghana Integrated Tax Management and Information System (GITMIS),Ghana Integrated Tax Management and Information System (GITMIS),core,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,Integrated Customs Management System (ICUMS),Integrated Customs Management System (ICUMS),other,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
@@ -398,6 +399,7 @@ MWI,IFMIS human capital module,Malawi,other,,Accountant General's Department,,20
 MWI,ASYCUDA World,ASYCUDA World,other,UNCTAD,Malawi Revenue Authority,,2026-08-13-mwi-mra-hails-automation-of-cargo-clearance
 MWI,ASYCUDA World,ASYCUDA World 4.4.0,other,UNCTAD,Malawi Revenue Authority,,2025-05-23-mwi-ict-projects-running-at-satcp
 MWI,IFMIS,Malawi,other,,,,2026-08-01-mwi-expression-of-interest-eoi-development-of-property-management-informat
+MWI,SPSIS,Malawi,other,,Ministry of Agriculture,,2026-05-22-mwi-malawi-unveils-digital-spsis-to-transform-agricultural-trade
 NAM,Integrated Tax Administration System (ITAS),Namibia,core,,Namibia Revenue Agency,,2025-01-01-integrated-tax-administration-system-e-portal
 NAM,integrated Tax Administration System (ITAS),Namibia,core,,,,2026-01-01-consolidation-of-social-grants-and-the-food-bank
 NAM,integrated Financial Management System (IFMS),Namibia,core,,,,2026-01-01-consolidation-of-social-grants-and-the-food-bank
@@ -621,6 +623,7 @@ ZAF,Integrated Financial Management System (IFMS),ZAF,other,COTS solution procur
 ZAF,Integrated Financial Management System (IFMS),South Africa,other,"Oracle, on-premises",National Treasury,,2025-06-26-zaf-question-nw3686-to-the-minister-of-finance
 ZAF,Integrated HRM ERP solution,South Africa,other,,DPSA,,2025-08-28-zaf-question-nw4571-to-the-minister-of-public-service-and-administration
 ZAF,PERSAL/PERSOL,South Africa,core,,Department of Public Service and Administration,,2025-09-07-zaf-dpsa-circular-36-of-2025-physical-verification-personnel
+ZAF,IFMS,Integrated Financial Management System,other,,National Treasury,,2026-11-10-zaf-pmg-nw5534-dpsa-applicant-data-portal
 ZMB,Zamportal,Zamportal,other,,SMART Zambia / Northern Provincial ICT Unit,district,2026-08-31-techafricanews-zamportal-lupososhi-road-tax
 ZMB,E-Payslip Self-Service Portal,E-Payslip Self-Service Portal,other,,SMART Zambia,district,2026-08-27-techafricanews-zambia-ict-infrastructure-rural-public-service-delivery
 ZMB,Government Wide Area Network (GWAN),GWAN,other,,SMART Zambia,district,2026-08-27-techafricanews-zambia-ict-infrastructure-rural-public-service-delivery

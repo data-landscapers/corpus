@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-10-zaf-pmg-nw5534-dpsa-applicant-data-portal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IFMS",
+   "country_label": "Integrated Financial Management System",
+   "class": "other",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": "The reply says the IFMS project is in abeyance and no shared HR system exists; no core system stated in use or live."
+}
