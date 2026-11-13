@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-03-ago-open-budget-survey-2025-angola",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The International Budget Partnership's Open Budget Survey 2025 says Angola's Ministry of Finance published the Citizens Budget and In-Year Reports online in a timely manner, and recommends publishing them on its portal in open formats rather than only static PDFs.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Ministry of Finance portal",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ministry of Finance portal",
+   "country_label": "Angola Ministry of Finance portal",
+   "class": "open",
+   "platform": "",
+   "owner": "Ministério das Finanças",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

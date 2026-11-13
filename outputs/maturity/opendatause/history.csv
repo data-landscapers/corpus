@@ -40,3 +40,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-13,ZAF,data.open--use-of-open-data,fact,3,3,ZAF-005;ZAF-003;ZAF-007,"SANBI checklist under CC BY 4.0 and Treasury portal under CC BY 4.0, on separate sources; no one source names two bodies, stays 3"
 2026-11-13,SDN,data.open--use-of-open-data,fact,no evidence,2,SDN-001,"Sea Ports Corporation annual statistics for download, latest April 2026: no evidence to 2"
 2026-11-13,TCD,data.open--use-of-open-data,fact,no evidence,2,TCD-002,Customs directorate 2025 trade statistics for download: no evidence to 2
+2026-11-13,CPV,data.open--use-of-open-data,fact,2,2,CPV-003;CPV-001;CPV-002,"Fisheries Information System on the DNPA site from January 2026, updated by fisheries, maritime and statistics bodies: breadth several, no licence, stays 2"

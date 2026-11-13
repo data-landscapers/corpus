@@ -1,16 +1,17 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "2",
-   "access": "published",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-001;CPV-002",
-   "gaps": "No source found since October 2023 states an open licence for the data.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "access": "published",
+      "breadth": "several",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-003;CPV-001;CPV-002",
+      "gaps": "No source found since October 2023 states an open licence for the data.",
+      "note": "Reassessed 2026-11-13, stays 2: the fisheries directorate publishes fisheries data on its Fisheries Information System from January 2026 (CPV-003), with the maritime institute and the statistics institute among the bodies updating it (CPV-004), but no open licence is on record, and each step must be met, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

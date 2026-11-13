@@ -5,6 +5,7 @@ AGO,INE portal,INE portal https://www.ine.gov.ao,open,,Instituto Nacional de Est
 AGO,INE website,INE website https://www.ine.gov.ao,open,,Instituto Nacional de Estatistica,,2025-11-20-ine-resultados-definitivos-do-rgph-2024
 AGO,Portal de Compras Publicas,Portal de Compras Publicas,other,,,,2025-02-21-nj-minttics-ainda-nao-corrigiu-pac-2025-zeros-a-mais
 AGO,portal de dados abertos (PADA Component 2),"Planned open data portal, Angola Digital Acceleration Project (IMA, World Bank financed)",other,,Instituto de Modernizacao Administrativa (IMA),,2025-10-23-pada-plano-eas-as-portal-de-dados-abertos
+AGO,Ministry of Finance portal,Angola Ministry of Finance portal,open,,Ministério das Finanças,,2026-06-03-ago-open-budget-survey-2025-angola
 BDI,Plateforme de Données Ouvertes (INSBU),INSBU Open Data Platform (https://www.insbu.bi),open,,Institut National de la Statistique du Burundi (INSBU),,2025-06-10-insbu-accord-de-licence-ouverte-plateforme-donnees-ouvertes
 BDI,Open Data Inventory (ODIN) 2024,Burundi ODIN 2024 results,other,Open Data Watch rating,Open Data Watch,,2026-08-04-insbu-actualites-et-evenements
 BDI,portail des données,INSBU data portal,open,,INSBU,,2023-11-22-bdi-insbu-la-publication-des-donnees-statistiques
@@ -96,6 +97,7 @@ CPV,portal de dados abertos,Portal de dados abertos,other,,Ministry of State Mod
 CPV,Sistema de Informação das Pescas (FIS),Fisheries Information System (web address not given),other,,Ministério de Agricultura e Ambiente,,2026-09-10-cpv-maa-fiti-fisheries-information-system-transparency
 CPV,Portal da Transparência,Portal da Transparência (Governo de Cabo Verde; web address not given),open,,Governo de Cabo Verde,,2026-01-22-cabo-verde-lancamento-portal-da-transparencia
 CPV,Portal da Transparência,"Portal da Transparência de Cabo Verde (link named 'portaltransparencia', address not given)",other,,"Ministério das Finanças (DNOCP, UTIC)",,2025-06-27-cpv-portal-da-transparencia-em-consulta-publica
+CPV,Fisheries Information System,Cabo Verde (dnpa.gov.cv/fis),open,FiTI / Shellcatch,DNPA,,2026-03-11-cpv-cabo-verde-transforms-fisheries-transparency-with-new-fisheries-inform
 DJI,Page Nationale Recapitulative de Donnees (PNRD),Djibouti national summary data page (e-GDDS),open,Plateforme Open Data de Djibouti,Banque Centrale de Djibouti with INSTAD and Ministry of Budget,,2025-06-15-sgdd-a-imf-open-data-national-summary-page-lanation
 DJI,Open Data Portal (ODP) 2.0,IGAD regional portal,other,AfDB African Information Highway,IGAD,,2026-08-06-igad-capacity-building-programme-regional-statistical-systems-sdmx
 DJI,Infrastructure de données ouvertes,Djibouti open data infrastructure (named as an e-government component in the interoperability framework; no web address),other,,ANSIE,,2022-01-01-cadre-interoperabilite-djibouti-cid
@@ -175,6 +177,7 @@ LBR,Liberia Open Data Portal,Liberia Open Data Portal (https://liberia.opendataf
 LBR,LISGIS open data portal,https://liberia.opendataforafrica.org/,open,statistics office data portal,LISGIS,,2026-06-08-lbr-lisgis-open-data-license-grant
 LBR,Liberia Development Dashboard,Liberia MFDP (address not given),open,,Ministry of Finance and Development Planning,,2025-11-27-lbr-improving-development-outcomes-in-liberia-the-liberia-development-dash
 LBR,PPCC OCDS Portal,Liberia PPCC https://eprocurement.ppcc.gov.lr/ocds/report/home.action#/recordPackages,open,e-Government Procurement System,Public Procurement and Concessions Commission,,2025-08-01-lbr-liberia-public-procurement-and-concessions-commission-ppcc
+LBR,LACC accountability dashboard,Liberia,other,,Liberia Anti-Corruption Commission,,2026-11-12-lbr-lacc-anti-corruption-dashboard
 LBY,Open Data Platform,Open Data Platform,other,,General Information Authority (GIA),national,2026-02-16 Libya's GIA presents Government Data Governance vision at cloud-computing workshop
 LBY,Government Data Governance Policies,Government Data Governance Policies,other,,General Information Authority (GIA),national,2026-02-16 Libya's GIA presents Government Data Governance vision at cloud-computing workshop
 LBY,Open Government Data Platform,Open Government Data Platform (opendata.gia.gov.ly),other,,General Information Authority (GIA),national,2025-11-27-gia-open-government-data-platform-launch
@@ -214,6 +217,7 @@ MLI,Open Data Portal,Open Data Portal platform at the statistics office,open,,Na
 MOZ,Portal de Divulgacao de Dados de Infra-estruturas Publicas (IPDP),"IPDP portal, Fundo de Estradas (https://www.dadosinfra.co.mz/)",open,OC4IDS,"Fundo de Estradas, FP",,2026-08-08-ipdp-portal-dados-infraestruturas-publicas-mocambique
 MOZ,Centralized open data portal administered by the NDGC (proposed),"National Data Governance Council open data portal, proposed in unadopted draft policy",other,,National Data Governance Council,,2025-11-01-mozambique-zero-draft-2-national-data-governance-policy
 MOZ,Mozambique ODP,Mozambique,other,Africa Information Highway open data platform,African Development Bank,,2024-04-30-moz-from-22-26-april-the-aih-team-of-the-african-development-bank-group-wa
+MOZ,Portal de Legislacao e Portal de Jurisprudencia dos Tribunais Judiciais,Mozambique,other,,Tribunal Supremo,,2026-10-02-moz-oam-destaca-importancia-dos-portais-de-legislacao-e-jurisprudencia-par
 MRT,Portail des données ouvertes de la Mauritanie,,other,,MTNIMA / ANETAT (proposed),,2023-06-01-mauritania-strategie-nationale-donnees-ouvertes-interoperables
 MRT,Portail national (data.gov.mr),data.gov.mr,other,,MTNMA / WARDIP Mauritanie,,2025-12-26-mtnma-wardip-plan-annuel-achats-2026-portail-national-data-gov-mr
 MRT,Portail électronique du Journal Officiel,,other,,Secrétariat général du Gouvernement,,2025-11-24-ami-lancement-portail-electronique-journal-officiel-rim
@@ -382,6 +386,7 @@ ZAF,data.gov.za,data.gov.za,open,,,,2025-01-01-nga-transparency-and-accountabili
 ZAF,Transparency Portal Beta,South Africa National Treasury https://data.etenders.gov.za/home/index,open,eTender,National Treasury,,2026-11-11-zaf-transparency-portal-beta-national-treasury
 ZAF,Environmental Geographic Information Systems (EGIS),South Africa DFFE https://www.dffe.gov.za/egis,open,,"Department of Forestry, Fisheries and the Environment",,2026-05-08-zaf-environmental-geographic-information-systems-egis
 ZAF,South African National Species Checklist (COLSA),South Africa SANBI IPT https://ipt.sanbi.org.za/resource?r=zanationaltaxon,open,IPT,South African National Biodiversity Institute,,2025-09-17-zaf-south-african-national-species-checklist-catalogue-of-life-in-south-af
+ZAF,data.etenders.gov.za,South Africa,open,OCDS,National Treasury OCPO,,2026-11-12-zaf-etenders-transparency-portal-publication-policy
 ZMB,ZNSDI national geoportal,Zambia National Spatial Data Infrastructure geoportal,open,GeoNetwork (open source),Electronic Government Division (SMART Zambia),,2026-06-18-zambia-launches-znsdi-policy-geoportal
 ZMB,Zamportal,Zamportal,other,,Electronic Government Division,,2023-08-17-national-electronic-government-plan-2023-2026-zambia
 ZMB,Zambia National Research Repository (ZNRR),Zambia National Research Repository (no address given),other,,Ministry of Finance and National Planning; ZamStats; UNICEF,,2026-09-17-zmb-efficacynews-finance-ministry-zamstats-unicef-national-research-repository

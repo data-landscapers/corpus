@@ -183,8 +183,9 @@ Government data was published for download on the Open SDG in 2025; no open lice
 
 ### Cape Verde: 2 Nascent
 
-Government data was published for download on the Portal da Transparência in 2026; no open licence is on record.
+Government data was published for download on a transparency portal and a fisheries system in 2026; no open licence is on record.
 
+- FiTI reports that Cabo Verde's national authorities now publish fisheries data (vessel registry, catch data, access agreements, trade, subsidies) publicly through the Fisheries Information System on the DNPA website, handed over after deployment on 27-30 January 2026 ([source, 2026-01](https://fiti.global/cabo-verde-transforms-fisheries-transparency-with-new-fisheries-information-system-fis)).
 - The Government of Cabo Verde launched the Portal da Transparência on 21 January 2026, which the Minister for State Modernisation said gives citizens open, real-time information on how public money is raised, planned and spent, for academic or informational analysis; no dataset count or download format is stated ([source, 2026-01-21](https://www.governo.cv/o-lancamento-do-portal-da-transparencia-representa-o-compromisso-do-governo-com-a-responsabilidade-publica-e-com-a-participacao-cidada-na-construcao-de-uma-sociedade-mais-justa-e-aberta/)).
 - The OGP IRM review says open data is available but dispersed across government websites and not often updated, with the Ministry of Finance publishing updated budget execution and expenditure data on its website; no date is given for the state described, so the document's published year 2024 applies, though the review's interviews date from March 2023 (stated 2023 used) ([source, 2023](https://www.opengovpartnership.org/members/cabo-verde/commitments/CV0004/)).
 
