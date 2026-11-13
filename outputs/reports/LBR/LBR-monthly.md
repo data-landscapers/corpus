@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: LBR
-ledger_rows: 25
+ledger_rows: 27
 not_held: 6
-record: fdf7ccf15fbf
+record: df172b010316
 ---
 
 # News, Oct – Nov 2026
@@ -107,6 +107,20 @@ Summarised under [Regional collaboration](#regional-collaboration).
 **[LIBERIA JOINS SMART AFRICA ALLIANCE AS 43RD MEMBER, ADVANCING PRESIDENT BOAKAI’S DIGITAL TRANSFORMATION AGENDA](https://emansion.gov.lr/index.php/media/press-release/liberia-joins-smart-africa-alliance-43rd-member-advancing-president-boakais)** — The Executive Mansion, Liberia, 22 October 2026
 
 Liberia became the 43rd member of the Smart Africa Alliance, the admission completed by a delegation led by Minister of State for Presidential Affairs Samuel Stevquoah on the margins of the Global AI and Digital Summit in Seoul. The Executive Mansion presented it as part of President Boakai's digital agenda, pointing to training through the Smart Africa Digital Academy.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Memorandum with Rwanda Cooperation on local government service delivery</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia and Rwanda Sign Five-Year Deal to Bring Services Closer to Citizens](https://www.cooperation.rw/updates/newsroom-1/news-detail/liberia-and-rwanda-sign-five-year-deal-to-bring-services-closer-to-citizens)** — Rwanda Cooperation, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
+
+County Service Centers to be digitised on the Irembo model; revenue systems; implementation plan due in 90 days.
 
 </div>
 
@@ -389,6 +403,20 @@ Liberia's Office of the Chief Information Officer met ministries and agencies on
 **[LRA Commissioner General Highlights Revenue Growth, Accountability and Digital Reforms at ATAF Meetings](https://knewsonline.com/lra-commissionergeneral-highlights-revenue-growth-accountability-and-digital-reforms-at-ataf-meetings)** — Knews Liberia, 8 November 2026
 
 The Liberia Revenue Authority showed a public revenue dashboard and an AI virtual taxpayer assistant, Fatu, at the African Tax Administration Forum meetings in Cairo, reported on 8 November 2026. The dashboard gives monthly collections by revenue category and tax type. Commissioner General James Dorbor Jallah said collections rose from US$612 million in 2023 to US$848 million in 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Anti-Corruption Commission public accountability dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[LACC Launches Anti-Corruption Dashboard](https://www.thenewdawnliberia.com/lacc-launches-anti-corruption-dashboard/)** — The New Dawn, 12 November 2026
+
+The Liberia Anti-Corruption Commission launched a public accountability dashboard on 11 November 2026, due to become operational in 2027. It is to bring together audit findings, procurement compliance, investigations, prosecutions and asset declarations. The work sits under the World Bank-supported GREAT Project. The PPCC, the General Auditing Commission and the Public Accounts Committee are to be trained to feed it.
 
 </div>
 
