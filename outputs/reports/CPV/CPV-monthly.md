@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: CPV
-ledger_rows: 13
+ledger_rows: 14
 not_held: 23
-record: 98becb56d177
+record: 7886d47f88ea
 ---
 
 # News, Oct – Nov 2026
@@ -121,6 +121,20 @@ Figures from Cabo Verde's regulator ARME, reported by Lusa, show Starlink's shar
 **[João Domingos, CEO CVTelecom: “Precisamos de ter mais cabos amarrados em Cabo Verde”](https://expressodasilhas.cv/pais/2026/11/01/joao-domingos-ceo-cvtelecom-precisamos-de-ter-mais-cabos-amarrados-em-cabo-verde/105326)** — Expresso das Ilhas, 1 November 2026
 
 In an interview printed on 28 October 2026, outgoing CVTelecom chief executive João Domingos said three international submarine cables land in Cabo Verde. At least three more investors want to land cables, he said. He put turnover near 7 million contos, against about 4.5 million in 2020. Investment over his six years came to about 12 million contos. The operator is waiting for the regulator's 5G roadmap.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Santiago-Fogo inter-island cable segment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fogo: Ilha sem serviço de telecomunicações e de internet desde a noite de terça-feira](https://www.inforpress.cv/en/article-12372)** — Inforpress (Cabo Verde), 11 November 2026
+
+Fogo on backup cable via Sao Vicente since March Santiago-Fogo fault; Mindelo fire also cut Brava and Santo Antao.
 
 </div>
 
