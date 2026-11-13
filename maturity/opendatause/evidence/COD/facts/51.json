@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-cod-ministere-des-mines-rdc-statistiques",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The DRC Ministry of Mines publishes validated mining statistics files for 2017 to 2025 on its statistics page, each stated to be open-access and downloadable, with no licence named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RDC-Statistiques",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RDC-Statistiques",
+   "country_label": "DRC Ministry of Mines https://www.mines.gouv.cd/public/statistique/pdf",
+   "class": "open",
+   "platform": "",
+   "owner": "Ministère des Mines",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

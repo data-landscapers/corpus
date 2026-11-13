@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-01-zwe-zimbabwe-geoportal",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "licensed",
+   "fact": "The Zimbabwe Geoportal lists datasets for download, among them ZimSTATS's administrative boundaries under ODC-BY 1.0 and its 2023 district population extract under ODbL 1.0.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Zimbabwe Geoportal",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "breadth",
+   "value": "many",
+   "fact": "The Zimbabwe Geoportal's listing names four public bodies publishing datasets on it: ZimSTATS, the Ministry of Health and Child Care, Muzarabani Rural District Council and the Municipality of Marondera.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Zimbabwe Geoportal",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe Geoportal",
+   "country_label": "Zimbabwe Geoportal, zimgeoportal.org.zw",
+   "class": "open",
+   "platform": "geoportal with 87 datasets",
+   "owner": "not named",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

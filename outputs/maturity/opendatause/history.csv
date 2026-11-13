@@ -36,3 +36,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,TZA,data.open--use-of-open-data,fact,2,3,TZA-005;TZA-003,"PPRA's NeST open contracting data carry CC BY-SA 4.0 (TZA-005, February 2026): question 2 met; no second body publishing that way"
 2026-11-12,UGA,data.open--use-of-open-data,fact,2,3,UGA-008;UGA-007,"PPDA's open contracting datasets carry the ODC Attribution Licence (UGA-008, October 2026): question 2 met; UBOS portals state no licence, so not 4"
 2026-11-12,MAR,data.open--use-of-open-data,fact,2,2,MAR-002;MAR-006;MAR-014,"IRM counts 37 institutions updating data.gov.ma at end 2023 (MAR-012); no open licence on record, so question 2 still unmet and the cell stays 2"
+2026-11-13,ETH,data.open--use-of-open-data,fact,2,2,ETH-005;ETH-003,"Ministry of Agriculture data hub (June 2026) names two public bodies publishing; no licence on record, stays 2"
+2026-11-13,ZAF,data.open--use-of-open-data,fact,3,3,ZAF-005;ZAF-003;ZAF-007,"SANBI checklist under CC BY 4.0 and Treasury portal under CC BY 4.0, on separate sources; no one source names two bodies, stays 3"
+2026-11-13,SDN,data.open--use-of-open-data,fact,no evidence,2,SDN-001,"Sea Ports Corporation annual statistics for download, latest April 2026: no evidence to 2"
+2026-11-13,TCD,data.open--use-of-open-data,fact,no evidence,2,TCD-002,Customs directorate 2025 trade statistics for download: no evidence to 2

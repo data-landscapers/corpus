@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZWE,use,access,coverage,published,2026-06-05,ZWE-001;ZWE-002;ZWE-003;ZWE-004,,
-ZWE,use,breadth,coverage,,,,,nothing found
+ZWE,use,access,coverage,licensed,2026-06,ZWE-005,ZWE-004=published;ZWE-002=published;ZWE-003=published;ZWE-001=published,
+ZWE,use,breadth,coverage,many,2026-07,ZWE-006,,

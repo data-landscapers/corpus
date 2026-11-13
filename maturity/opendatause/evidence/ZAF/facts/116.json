@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-17-zaf-south-african-national-species-checklist-catalogue-of-life-in-south-af",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "licensed",
+   "fact": "The South African National Biodiversity Institute publishes its 2025 national species checklist (99,254 accepted names) for download under a CC-BY 4.0 licence.",
+   "as_of": "2025-09-17",
+   "date_precision": "day",
+   "system": "South African National Species Checklist (COLSA)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "South African National Species Checklist (COLSA)",
+   "country_label": "South Africa SANBI IPT https://ipt.sanbi.org.za/resource?r=zanationaltaxon",
+   "class": "open",
+   "platform": "IPT",
+   "owner": "South African National Biodiversity Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

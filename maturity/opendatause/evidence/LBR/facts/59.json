@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-27-lbr-improving-development-outcomes-in-liberia-the-liberia-development-dash",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "ODI Global says the Liberia Development Dashboard, run by the Ministry of Finance and Development Planning on government servers, has all its data publicly available and downloadable in various formats, with no licence stated.",
+   "as_of": "2025-11-27",
+   "date_precision": "day",
+   "system": "Liberia Development Dashboard",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia Development Dashboard",
+   "country_label": "Liberia MFDP (address not given)",
+   "class": "open",
+   "platform": "",
+   "owner": "Ministry of Finance and Development Planning",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

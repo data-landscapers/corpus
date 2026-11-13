@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-01-lbr-liberia-public-procurement-and-concessions-commission-ppcc",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "Liberia's Public Procurement and Concessions Commission publishes open contracting data from its e-procurement system, downloadable in JSON, Excel or CSV, per the Open Contracting Partnership registry; no licence is stated in the page text.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "PPCC OCDS Portal",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PPCC OCDS Portal",
+   "country_label": "Liberia PPCC https://eprocurement.ppcc.gov.lr/ocds/report/home.action#/recordPackages",
+   "class": "open",
+   "platform": "e-Government Procurement System",
+   "owner": "Public Procurement and Concessions Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

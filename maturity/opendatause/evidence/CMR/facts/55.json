@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-24-cmr-cameroun-l-ins-simplifie-l-acces-aux-donnees",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "Cameroon's national statistics institute (INS) unveiled on 22 April 2026 platforms giving direct access to macroeconomic series and, through a national data archive, survey microdata, with no licence stated.",
+   "as_of": "2026-04-22",
+   "date_precision": "day",
+   "system": "Archive nationale des données du Cameroun",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Archive nationale des données du Cameroun",
+   "country_label": "Cameroon INS data platforms (address not given)",
+   "class": "open",
+   "platform": "",
+   "owner": "Institut national de la statistique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

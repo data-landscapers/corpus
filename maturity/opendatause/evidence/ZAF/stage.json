@@ -1,17 +1,17 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "access": "licensed",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-003",
-   "gaps": "No source found since October 2023 names a second public body publishing data under an open licence.",
-   "note": "National Treasury's eTenders data are published for download under the Open Data Commons PDDL (ZAF-003), so stage 3; no second body publishing that way has been found, so not 4.",
-   "as_at": "2026-10-24"
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "access": "licensed",
+      "breadth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-005;ZAF-003;ZAF-007",
+      "gaps": "No one source found since October 2023 names two or more public bodies publishing data under an open licence.",
+      "note": "Reassessed 2026-11-13, stays 3: National Treasury (ZAF-005, ZAF-003) and SANBI (ZAF-007) each publish under CC BY 4.0 or the PDDL, on separate sources; no source names or counts two bodies, as question 3 asks, so not 4.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

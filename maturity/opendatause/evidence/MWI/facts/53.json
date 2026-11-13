@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-31-mwi-observed-temperature-for-malawi",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The MaDiPHS Knowledge Library lists a downloadable hourly temperature dataset (xls, csv) from automatic weather stations run by TAHMO and Malawi's Department of Climate Change and Meteorological Services, created 31 July 2024.",
+   "as_of": "2024-07-31",
+   "date_precision": "day",
+   "system": "Observed Temperature for Malawi",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "licensed",
+   "fact": "The same MaDiPHS record states the dataset's licence as Creative Commons Attribution Share-Alike.",
+   "as_of": "2024-07-31",
+   "date_precision": "day",
+   "system": "Observed Temperature for Malawi",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MaDiPHS Knowledge Library",
+   "country_label": "ckan.madiphs.org",
+   "class": "open",
+   "platform": "CKAN",
+   "owner": "MaDiPHS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

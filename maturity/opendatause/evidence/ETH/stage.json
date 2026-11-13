@@ -1,16 +1,17 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "2",
-   "access": "published",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-003",
-   "gaps": "No source found since October 2023 states an open licence for the data.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "access": "published",
+      "breadth": "several",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-005;ETH-003",
+      "gaps": "No source found since October 2023 states an open licence for the data.",
+      "note": "Reassessed 2026-11-13, stays 2: the agriculture data hub of June 2026 names two public bodies publishing (ETH-006), but no licence is on record, and each step must be met, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

@@ -1,16 +1,17 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "no evidence",
-   "access": "",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names government data published for download, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "access": "published",
+      "breadth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-002",
+      "gaps": "No source found since October 2023 states an open licence for the data or names two or more public bodies publishing it.",
+      "note": "Reassessed 2026-11-13, no evidence to 2: the customs directorate's 2025 trade statistics are published for download (TCD-002), a yes to question 1. No licence is on record, so not 3.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }

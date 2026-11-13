@@ -23,10 +23,10 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 | 5 Leading | 3 |
 | 4 Operating | 3 |
 | 3 Established | 11 |
-| 2 Nascent | 29 |
+| 2 Nascent | 31 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
-| No evidence | 7 |
+| No evidence | 5 |
 
 ## Countries
 
@@ -130,9 +130,11 @@ Government data was published under an open licence on the SNBS Open Data Portal
 
 ### South Africa: 3 Established
 
-National Treasury published procurement data under an open licence in 2026; no second public body doing so is known.
+National Treasury and the biodiversity institute each published open-licensed data in 2025 and 2026; no source naming several publishers together is known.
 
+- South Africa's National Treasury transparency portal offers monthly eTender procurement data from May 2021 for download in OCDS CSV, JSON and Excel under a Creative Commons BY 4.0 licence, with a JSON API ([source, 2026-11-11](https://data.etenders.gov.za/home/index)).
 - The National Treasury's Office of the Chief Procurement Officer publishes eTenders procurement data from February 2017 to September 2026 for download in JSON, Excel and CSV under the Open Data Commons PDDL licence, with 35,309 tenders and 9,551 awards ([source, 2026-09](https://data.open-contracting.org/en/publication/143)).
+- The South African National Biodiversity Institute publishes its 2025 national species checklist (99,254 accepted names) for download under a CC-BY 4.0 licence ([source, 2025-09-17](https://ipt.sanbi.org.za/resource?r=zanationaltaxon)).
 
 ### South Sudan: 3 Established
 
@@ -186,6 +188,12 @@ Government data was published for download on the Portal da Transparência in 20
 - The Government of Cabo Verde launched the Portal da Transparência on 21 January 2026, which the Minister for State Modernisation said gives citizens open, real-time information on how public money is raised, planned and spent, for academic or informational analysis; no dataset count or download format is stated ([source, 2026-01-21](https://www.governo.cv/o-lancamento-do-portal-da-transparencia-representa-o-compromisso-do-governo-com-a-responsabilidade-publica-e-com-a-participacao-cidada-na-construcao-de-uma-sociedade-mais-justa-e-aberta/)).
 - The OGP IRM review says open data is available but dispersed across government websites and not often updated, with the Ministry of Finance publishing updated budget execution and expenditure data on its website; no date is given for the state described, so the document's published year 2024 applies, though the review's interviews date from March 2023 (stated 2023 used) ([source, 2023](https://www.opengovpartnership.org/members/cabo-verde/commitments/CV0004/)).
 
+### Chad: 2 Nascent
+
+The customs directorate published 2025 trade statistics for download; no open licence is on record.
+
+- Chad's customs directorate (DGDDI) lists two 2025 trade-statistics documents, authored by COC-Tchad, for download on its public data page, with no licence stated ([source, 2025](https://douanes.td/douane/donnees-publiques/)).
+
 ### Comoros: 2 Nascent
 
 Government data was published for download on the Archive nationale de microdonnees in 2026; no open licence is on record.
@@ -214,8 +222,9 @@ Government data was published for download on the Page Nationale Recapitulative 
 
 ### Ethiopia: 2 Nascent
 
-Government data was published for download on the STATBANK in 2026; no open licence is on record.
+Two public bodies published agricultural data for download on one ministry hub in 2026; no open licence is on record.
 
+- The Ministry of Agriculture's National Agri Data Hub lists 1,910 datasets in RDF and JSON-LD formats, with no data licence stated ([source, 2026-06-13](https://data.moa.gov.et/dataset/)).
 - The Ethiopian Statistics Service says its dissemination office manages the national data dissemination platforms including STATBANK, microdata repositories and web portals, and provides Public Use Files for public access; as_of is the document's published date, as it describes the service running ([source, 2026-05-06](https://ess.gov.et/about-ess/departments/statistical-data-dissemination-and-access/)).
 
 ### Gabon: 2 Nascent
@@ -321,6 +330,12 @@ Government data was published for download on the Open Data Sierra Leone data po
 
 - Statistics Sierra Leone says its publications, metadata and microdata are released free of charge on its website, including an Open Data Sierra Leone data portal, with unrestricted datasets available online to all ([source, 2024-02-06](https://www.statistics.sl/images/2023_Stats_SL_Proactive_Publication_Scheme.pdf)).
 
+### Sudan: 2 Nascent
+
+The ports corporation published annual port statistics for download in 2026; no open licence is on record.
+
+- Sudan's Sea Ports Corporation lists annual port statistics for 2007 to 2025 as downloadable files on its website, the latest posted 2 April 2026; no licence is stated ([source, 2026-04-02](https://sudanports.gov.sd/portal/statistics/statistics_list.php?menuItemId=2&q=%28Type%7Eequals%7EStatistics%29)).
+
 ### Tunisia: 2 Nascent
 
 A national open data portal was running in 2025; no open licence for its data has been found.
@@ -345,12 +360,6 @@ Government data was published for download on the ZIMSTAT Open Data Portal (ODP 
 No government data published for download since 2023 is on record, so no stage is set.
 
 Not established: No government data published for download is on record since October 2023.
-
-### Chad: No evidence
-
-Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
-
-Not established: Nothing found names government data published for download, or says there is none.
 
 ### Egypt: No evidence
 
@@ -377,12 +386,6 @@ Nothing found says whether a public body publishes data for anyone to download, 
 Not established: Nothing found names government data published for download, or says there is none.
 
 ### Sao Tome and Principe: No evidence
-
-Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
-
-Not established: Nothing found names government data published for download, or says there is none.
-
-### Sudan: No evidence
 
 Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
 

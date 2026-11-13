@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-tcd-donnees-publiques-dgddi",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "Chad's customs directorate (DGDDI) lists two 2025 trade-statistics documents, authored by COC-Tchad, for download on its public data page, with no licence stated.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Données publiques DGDDI",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Données publiques DGDDI",
+   "country_label": "Chad customs https://douanes.td/douane/donnees-publiques/",
+   "class": "open",
+   "platform": "",
+   "owner": "DGDDI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
