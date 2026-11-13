@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-06-mus-gis-myt-learning-hub-communique",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The government communique describes the launch as a step in implementing the national digital transformation strategy, the Digital Transformation Blueprint 2025-2029.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2029",
+   "fact": "The Digital Transformation Blueprint is named as covering 2025-2029.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "country_label": "Mauritius",
+   "class": "national",
+   "platform": "",
+   "owner": "Government of Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
