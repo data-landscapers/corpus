@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: NGA
-ledger_rows: 98
+ledger_rows: 105
 not_held: 9
-record: 0d548f4ca6d1
+record: ee9dbc2ec147
 ---
 
 # News, Oct – Nov 2026
@@ -111,6 +111,20 @@ A Sangmyung University consortium ran a study visit to Korea for Nigerian senior
 **[NITDA Unveils Digital Dashboard To Track Nigeria’s Transformation Progress - Matrix News](https://matrixngr.com/2026/11/09/nitda-unveils-digital-dashboard-to-track-nigerias-transformation-progress/)** — Matrix News, 9 November 2026
 
 Nigeria's NITDA launched a public dashboard tracking its Strategic Roadmap and Action Plan 2.0, as reported on 9 November 2026. It shows implementation updates and digital-economy indicators. GIZ's Digital Transformation Center Nigeria built it, with co-funding from the EU and Denmark.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NITDA Strategic Roadmap and Action Plan 2024-2027 (SRAP 2.0)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITDA Seeks Stakeholders Input to Review Digital Strategy](https://von.gov.ng/nitda-seeks-stakeholders-input-to-review-digital-strategy/)** — Voice of Nigeria, 11 November 2026
+
+Eight pillars, 37 indicators, ~78 initiatives under review; new strategy due 2027; N-ATLAS adoption still early.
 
 </div>
 
@@ -750,6 +764,20 @@ USTDA and AFRIDATA signed a US$1.87m grant for a Nigerian data centre feasibilit
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Sovereign Cloud Initiative</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nitda, Cbn Partner To Strengthen Nigeria’S Digital Sovereignty Through National Sovereign Cloud Initiative](https://nitda.gov.ng/nitda-cbn-partner-to-strengthen-nigerias-digital-sovereignty-through-national-sovereign-cloud-initiative/9944/)** — NITDA, 12 November 2026
+
+NITDA and the Central Bank of Nigeria held a dialogue on the National Sovereign Cloud Initiative, NITDA reported on 12 November 2026. Director General Kashifu Inuwa said the two bodies want the financial sector to comply first.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -1056,6 +1084,14 @@ CBN deputy governor Lamido Abubakar Yuguda spoke at a CBN-NITDA dialogue in Lago
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Nitda, Cbn Partner To Strengthen Nigeria’S Digital Sovereignty Through National Sovereign Cloud Initiative](https://nitda.gov.ng/nitda-cbn-partner-to-strengthen-nigerias-digital-sovereignty-through-national-sovereign-cloud-initiative/9944/)** — NITDA, 12 November 2026
+
+Summarised under [Data Storage](#data-storage).
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1304,6 +1340,20 @@ Google.org gave Nigerian health-technology firm Helium Health a US$2.5 million g
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PlanFeld digital immunisation microplanning</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How eHealth Africa is using tech to close immunisation gaps](https://techcabal.com/2026/11/12/ehealth-africa-using-tech-to-close-gaps/)** — TechCabal, 12 November 2026
+
+TechCabal profiles eHealth Africa, a non-profit that maps settlements and plans and tracks vaccination campaigns in Nigeria. Its 2026 Mid-Year Report says campaigns it supported reached over 23 million children in the first half of 2026. In Kebbi State, missed settlements fell from over 20% to about 6% with a digital microplan, eHealth Africa says.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -1506,6 +1556,34 @@ A Nigerian opposition movement called on the electoral commission to abandon its
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI Glossary Project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Google Opens New Opportunity for Nigerians to Teach AI Yoruba, Igbo, Hausa and Pidgin](https://www.nigeriastartupact.ng/google-opens-new-opportunity-for-nigerians-to-teach-ai-yoruba-igbo-hausa-and-pidgin/)** — Nigeria Startup Act, 10 November 2026
+
+Data Science Nigeria's National AI Glossary Project with Google support; contributors and reviewers sought, unpaid.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">N-ATLAS sovereign multilingual model</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[NITDA Seeks Stakeholders Input to Review Digital Strategy](https://von.gov.ng/nitda-seeks-stakeholders-input-to-review-digital-strategy/)** — Voice of Nigeria, 11 November 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
 ### ICT Industry
 
 <div class="monthly-story" markdown="1">
@@ -1600,6 +1678,20 @@ Nigeria's NITDA launched a National Digital Literacy Dashboard to track training
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National study of teenagers' online risks</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Google commits $600,000 to map online risks facing Nigerian teenagers - Businessday NG](https://businessday.ng/technology/article/google-commits-600000-to-map-online-risks-facing-nigerian-teenagers/)** — BusinessDay NG, 11 November 2026
+
+Google.org grant to TechSocietal for 2,000-teen baseline survey; Meet LEO pilot via Tech Hive Advisory in four states.
+
+</div>
+
+</div>
+
 ### Training and skills
 
 <div class="monthly-story" markdown="1">
@@ -1647,6 +1739,14 @@ Vincent Olatunji, head of the Nigeria Data Protection Commission, opened the 8th
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">Three-million technology talent programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Federal Ministry Opens 3MTT Delivery Network, with N4 Billion in Partner Funding to Train Nigerians for Real Economic Opportunities | The Federal Ministry of Communications, Innovation and Digital Economy](https://fmcide.gov.ng/federal-ministry-opens-3mtt-delivery-network-with-n4-billion-in-partner-funding-to-train-nigerians-for-real-economic-opportunities/)** — Federal Ministry of Communications, Innovation & Digital Economy, 11 November 2026
+
+Ministry release; Enabled and Funded Delivery Partner tracks; 1.8m registered, 179,000 trained since 2023; closes 30 Nov.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -1764,6 +1864,14 @@ Nigeria's Humanitarian Affairs ministry, UNHCR and Germany handed mobile one-sto
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Doro Launches Mobile One-Stop Shop, Hands Over 10 Vehicles To States, Appreciates Germany's Support For Vulnerable Nigerians - Federal Ministry of Information and National Orientation](https://fmino.gov.ng/doro-launches-mobile-one-stop-shop-hands-over-10-vehicles-to-states-appreciates-germanys-support-for-vulnerable-nigerians/)** — Federal Ministry of Information and National Orientation, 11 November 2026
+
+Government release; ten vehicles via UNHCR with German funding for NIN, birth, BVN, SIM and social-register enrolment.
+
+</div>
+
 </div>
 
 ## Data
@@ -1783,6 +1891,28 @@ Nigeria's Humanitarian Affairs ministry, UNHCR and Germany handed mobile one-sto
 **[Nigerian Central Bank Digitalises Fiscal Data Collection - Voice of Nigeria](https://von.gov.ng/nigerian-central-bank-digitalises-fiscal-data-collection/)** — Voice of Nigeria, 10 November 2026
 
 The Central Bank of Nigeria is moving its Sub-National Fiscal Survey of the 36 states, the FCT and 774 local governments from paper to a digital platform. Its Statistics Department said returns will be quarterly instead of twice a year. Training had reached 16 states by 6 November 2026. The remaining states are due by 4 December, and the FCT on 9 and 10 December 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Nigeria Tech Outlook Report and Dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITDA Unveils Nigeria Tech Outlook Report](https://von.gov.ng/nitda-unveils-nigeria-tech-outlook-report/)** — Voice of Nigeria, 11 November 2026
+
+2,147 households surveyed; 86.5% hold accounts, 12% digital credit, 17.9% use e-government; 8 of 105 indicators no data.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITDA and NBS Launch Nigeria Tech Outlook Report to Support Digital Economy Growth](https://techafricanews.com/2026/11/12/nitda-and-nbs-launch-nigeria-tech-outlook-report-to-support-digital-economy-growth/)** — Tech Africa News, 12 November 2026
+
+NITDA and the National Bureau of Statistics launched the Nigeria Tech Outlook Report at Digital Nigeria 2026 in Abuja, Tech Africa News reported on 12 November 2026. The two bodies present it as a source of technology-sector data for policy and investment. The account gives none of the report's figures.
 
 </div>
 
