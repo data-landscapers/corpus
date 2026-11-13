@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-tcd-chad-pp-26-policy-statement",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "The minister said three international fibre links have been completed with Cameroon and Sudan, two different neighbours.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "fibre links to Cameroon and Sudan",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

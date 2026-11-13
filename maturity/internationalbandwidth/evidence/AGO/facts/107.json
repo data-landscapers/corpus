@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-ago-itu-pp26-policy-statement",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Angola's communications minister said four international submarine cable systems land in Luanda: SAT-3, WACS, SACS and 2Africa.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "SAT-3, WACS, SACS, 2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": "Landing stations are not distinguished, so independence is not stated."
+}

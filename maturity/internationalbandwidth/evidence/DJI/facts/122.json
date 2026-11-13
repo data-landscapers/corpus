@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-dji-ministre-helem-uit-conference-plenipotentiaires",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "The ADI article notes that Djibouti hosts several submarine cables linking Africa, Europe and Asia.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

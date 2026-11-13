@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-kenyan-fixed-internet-outpaces-sa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "ITWeb Africa says Kenya's connectivity depends heavily on subsea cables landing at Mombasa, which carry most of East Africa's international traffic.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "subsea cables landing at Mombasa",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": "Seacom's planned USD 2bn Asia cable (due 2030) and Safaricom's cable application are not in service."
+}

@@ -9,9 +9,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TCD-009;TCD-007",
-      "gaps": "No source found names a route that avoids Cameroon or its one landing station at Kribi. Chad's March 2026 submission to ITU-D and the minister in October 2026 speak of one link or one access via Cameroon (TCD-003, TCD-002); Southwood in November 2026, the newer, gives two routes through Cameroon to Kribi (TCD-009).",
-      "note": "Reassessed 2026-11-12: Southwood (November 2026) says Chad has two fibre routes through Cameroon to the Kribi landing station (TCD-009), as Tchadinfos named in May 2025 (TCD-007), so two routes that share one neighbour and one landing station: stage 3.",
-      "as_at": "2026-11-12"
+      "gaps": "No source found says a route that avoids Cameroon is in service. The minister told PP-26 in November 2026 that three links with Cameroon and Sudan are completed (TCD-010), but Southwood the same month says the Port Sudan link ended in 2023 (TCD-009) and the minister said in October 2026 that only one access, via Cameroon, is active (TCD-002). No high-capacity cable is known to carry Chad's traffic.",
+      "note": "Reassessed 2026-11-13: the minister's PP-26 statement that links with Cameroon and Sudan are completed does not say the Sudan link is in service, against two sources saying it is not (TCD-009, TCD-002); two routes through Cameroon to Kribi (TCD-009, TCD-007) hold the cell at 3.",
+      "as_at": "2026-11-13"
     }
   ]
 }

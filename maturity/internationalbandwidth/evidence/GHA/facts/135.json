@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-citinewsroom-ghana-infrastructure-resilience-itu-pp26",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Communications minister Samuel Nartey George told an ITU discussion that Ghana has multiple submarine cable systems landing in it, reported 11 November 2026.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "submarine cable systems landing in Ghana",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": "Cables are not named; the source gives no count or capacity."
+}

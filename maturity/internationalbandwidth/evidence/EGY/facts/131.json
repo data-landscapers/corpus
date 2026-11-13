@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-egy-hyperscalers-want-clear-rules-data-centers",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Enterprise lists undersea cables connecting Egypt to North and Sub-Saharan Africa, Europe and Asia among its existing components for a data centre hub.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Undersea cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
