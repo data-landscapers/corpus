@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "The ZamStats Strategic Plan 2025-2026 states it is aligned with the Second National Strategy for the Development of Statistics (NSDS2) for 2023-2027, which is the national roadmap for the statistical system.",
+ "title": "Strategic Plan 2025-2026",
+ "publisher": "Zambia Statistics Agency",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

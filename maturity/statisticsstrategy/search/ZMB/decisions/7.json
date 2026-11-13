@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "The Sector Strategy Plan for Statistics states the NSDS2, coordinated by ZamStats, runs from 2022 to 2026 and that the NSDS2 design process began in July 2018.",
+ "title": "Sector Strategy Plan for Statistics (SSP) 2022 - 2026",
+ "publisher": "Zambia Statistics Agency",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

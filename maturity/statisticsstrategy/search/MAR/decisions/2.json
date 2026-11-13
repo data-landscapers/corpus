@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "PARIS21's NSDS status table (progress report as of September 2024) lists Morocco's strategy as Expired, naming only the long-term action plan of the Direction de la Statistique and no current NSDS.",
+ "title": "NSDS STATUS OF COUNTRIES",
+ "publisher": "PARIS21",
+ "published": "2024-09",
+ "date_source": "source",
+ "why_not": ""
+}

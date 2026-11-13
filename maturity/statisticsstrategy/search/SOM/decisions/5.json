@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "EGRISS states Somalia's NSDSII was validated in October 2023 and covers 2024-2029, with IDP statistics integrated into it in 2023.",
+ "title": "Somalia - EGRISS",
+ "publisher": "Expert Group on Refugee, IDP and Statelessness Statistics (EGRISS)",
+ "published": "2024-06",
+ "date_source": "source",
+ "why_not": ""
+}

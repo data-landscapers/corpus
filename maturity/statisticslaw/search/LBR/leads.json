@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://lisgis.gov.lr/statisticsacts.php",
+  "title": "LISGIS Legal Statistics Act",
+  "publisher": "LISGIS",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: law in force"
+ },
+ {
+  "url": "https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf",
+  "title": "Draft National Data Governance Policy",
+  "publisher": "Ministry of Posts and Telecommunications",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q3: Act of 2004 in force, LISGIS role"
+ },
+ {
+  "url": "https://lisgis.gov.lr/admin_area/surveys/pdf/202601161137199Data_User_Report.pdf",
+  "title": "Data Users and Producers Satisfaction Survey report",
+  "publisher": "LISGIS",
+  "published": "2026-01",
+  "sub_indicator": "law",
+  "why": "Q3: LISGIS established under Statistics Act 2004"
+ },
+ {
+  "url": "https://unstats.un.org/capacity-development/UNSD-FCDO/liberia/",
+  "title": "Liberia",
+  "publisher": "United Nations Statistics Division",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q3/Q5: Act 2004 and board"
+ },
+ {
+  "url": "https://frontpageafricaonline.com/liberia-lisgis-acting-dg-blames-census-slow-pace-on-political-obstruction/",
+  "title": "LISGIS Acting DG Blames Census Slow Pace on Political Obstruction",
+  "publisher": "FrontPageAfrica",
+  "published": "2022-12-20",
+  "sub_indicator": "law",
+  "why": "Q3: Act in force"
+ },
+ {
+  "url": "https://repository.uneca.org/handle/10855/43874",
+  "title": "Data Consensus in West Africa",
+  "publisher": "UNECA",
+  "published": "2020",
+  "sub_indicator": "law",
+  "why": "Q3: ECOWAS laws on statistics"
+ }
+]

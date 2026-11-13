@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing;evaluation",
+ "fact": "The June 2023 final SNDS-II document sets the strategy for 2023-2030, records that the final evaluation of the SNDS-1 was completed in May 2022, and schedules a mid-term evaluation in 2026 and a final one in 2030.",
+ "title": "Stratégie Nationale de Développement de la Statistique (SNDS) 2023-2030 - Document final",
+ "publisher": "Institut National de la Statistique (INSTAT), Madagascar",
+ "published": "2023-06",
+ "date_source": "source",
+ "why_not": ""
+}

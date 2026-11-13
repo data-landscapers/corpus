@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "review;evaluation",
+ "fact": "A mid-term evaluation of the SNDS 2023-2025 found an overall implementation rate of 32.09 percent across 592 planned activities, with recommendations for the central body and sector administrations.",
+ "title": "Rapport d'évaluation à mi-parcours de la SNDS 2023-2025",
+ "publisher": "Direction Générale de la Statistique (DGS/DECSI), Ministère de la Planification et de la Prospective",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "law",
+ "aspect": "standing",
+ "fact": "Law no. 99-32 of 13 April 1999 on the national statistical system sets the principles of statistical activity and creates the National Statistical Council and the INS; the legal database lists its status as in force.",
+ "title": "Loi n° 99-32 du 13 avril 1999, relative au système national de la statistique",
+ "publisher": "Legal Databases Tunisie",
+ "published": "1999-04-13",
+ "date_source": "source",
+ "why_not": "pre-window: dated before 2019 and not a stated absence (searcher brief); unselected by the driver"
+}

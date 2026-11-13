@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "PARIS21 lists Libya's NSDS 2018-2023 as completed and awaiting adoption, with the next plan being revised, as of January 2023.",
+ "title": "NSDS Status of Countries, Progress report as of January 2023",
+ "publisher": "PARIS21",
+ "published": "2023-01",
+ "date_source": "source",
+ "why_not": ""
+}

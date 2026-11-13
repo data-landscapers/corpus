@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "LISGIS led the first NSDS 2008-2013 and the second NSDS 2018-2022 (NSDS II), which the page describes as serving as the fundamental guideline for statistics.",
+ "title": "Liberia",
+ "publisher": "United Nations Statistics Division",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

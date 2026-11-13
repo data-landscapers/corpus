@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "law",
+ "aspect": "standing",
+ "fact": "Law L/2014/019/AN of 8 July 2014 on the organisation and regulation of statistical activities is in force in Guinea.",
+ "title": "Loi portant organisation et réglementation des activités statistiques (L/2014/019/AN)",
+ "publisher": "GuinéeLex",
+ "published": "2014-07-08",
+ "date_source": "source",
+ "why_not": "pre-window: dated before 2019 and not a stated absence (searcher brief); unselected by the driver"
+}

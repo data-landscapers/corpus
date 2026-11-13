@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "The SNDS2 2021-2025 document, dated March 2021, records national validation by the National Statistics Council in June 2021 and Council of Ministers approval planned by July 2021.",
+ "title": "Développement de la statistique : SNDS2 2021-2025",
+ "publisher": "ICASEES",
+ "published": "2021-03",
+ "date_source": "source",
+ "why_not": ""
+}

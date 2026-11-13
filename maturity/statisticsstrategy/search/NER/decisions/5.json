@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "PARIS21's NSDS status table as of September 2024 lists Niger as implementing its Stratégie Nationale de Développement de la Statistique 2022-2026.",
+ "title": "NSDS Status of Countries",
+ "publisher": "PARIS21",
+ "published": "2024-09",
+ "date_source": "source",
+ "why_not": ""
+}

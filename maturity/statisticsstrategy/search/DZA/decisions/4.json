@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "PARIS21's progress report as of September 2024 lists Algeria's Stratégie Nationale de Développement de la Statistique as completed and awaiting adoption, with no next plan yet planned.",
+ "title": "NSDS STATUS OF COUNTRIES - Progress report as of September 2024",
+ "publisher": "PARIS21",
+ "published": "2024-09",
+ "date_source": "source",
+ "why_not": ""
+}

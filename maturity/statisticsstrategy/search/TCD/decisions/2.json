@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "The PARIS21 progress report as of September 2024 lists Chad as implementing its second national strategy for the development of statistics (SNDS2), period 2022-2026.",
+ "title": "NSDS Status of Countries, Progress report as of September 2024",
+ "publisher": "PARIS21",
+ "published": "2024-09",
+ "date_source": "source",
+ "why_not": ""
+}

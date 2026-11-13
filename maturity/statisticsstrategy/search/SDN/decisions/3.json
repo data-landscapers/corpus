@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "PARIS21 lists Sudan's National Strategy for Development of Statistics 2017-2021 as expired, with the next NSDS at the planned stage (progress report as of September 2024).",
+ "title": "NSDS Status of Countries",
+ "publisher": "PARIS21",
+ "published": "2024-09",
+ "date_source": "source",
+ "why_not": ""
+}

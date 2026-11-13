@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://statistics.gov.rw/sites/default/files/documents/2025-05/NSDS4%20%282024_2029%29.pdf",
+  "title": "The fourth National Strategy for the Development of Statistics (NSDS4)",
+  "publisher": "National Institute of Statistics of Rwanda",
+  "published": "2025-02",
+  "sub_indicator": "law",
+  "why": "Law in force; says functions exceed the Statistics Act and may require review of it (draft/in force)"
+ },
+ {
+  "url": "https://statistics.gov.rw/sites/default/files/documents/2026-10/PRESIDENTIAL%20ORDER%20GOVERNING%20NISR%20%202023.pdf",
+  "title": "Official Gazette n° Special of 03/08/2023: Presidential Order governing NISR",
+  "publisher": "Official Gazette of Rwanda",
+  "published": "2023-08-03",
+  "sub_indicator": "law",
+  "why": "Order made under the law on NISR (decree/regulation stage)"
+ },
+ {
+  "url": "https://statistics.gov.rw/about/statistical-acts",
+  "title": "Statistical Acts",
+  "publisher": "National Institute of Statistics of Rwanda",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Lists laws in force and the 2023 Presidential Order"
+ },
+ {
+  "url": "https://statistics.gov.rw/documents/standards-and-methods/procedures-visa-application-conduct-any-statistical-survey-rwanda",
+  "title": "Application process to conduct any statistical survey in Rwanda",
+  "publisher": "National Institute of Statistics of Rwanda",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Survey approval (visa) issued under Law 45/2013 (application)"
+ },
+ {
+  "url": "https://statistics.gov.rw/sites/default/files/documents/2025-02/NSDS3_Rwanda_Document_September2019.pdf",
+  "title": "The Third National Strategy for the Development of Statistics (NSDS3) 2019/20-2023/24",
+  "publisher": "National Institute of Statistics of Rwanda",
+  "published": "2019-09",
+  "sub_indicator": "law",
+  "why": "Current legal framework: Laws 53bis/2013 and 45/2013"
+ },
+ {
+  "url": "https://uksa.statisticsauthority.gov.uk/wp-content/uploads/sites/2/2024/10/Post-mid-term-review-of-Rwandas-third-National-Statistics-Development-Strategy.pdf",
+  "title": "Post mid-term review of Rwanda's third National Statistics Development Strategy",
+  "publisher": "Office for National Statistics",
+  "published": "2023-12",
+  "sub_indicator": "law",
+  "why": "Recommendation 11: NSDS4 goals on legal and policy frameworks"
+ },
+ {
+  "url": "https://statistics.gov.rw/about/nss-coordination",
+  "title": "NSS Coordination",
+  "publisher": "National Institute of Statistics of Rwanda",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Law 45/2013 in force, NISR coordinates"
+ }
+]

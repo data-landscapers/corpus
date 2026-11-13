@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://nsa.org.na/faq/",
+  "title": "FAQ",
+  "publisher": "Namibia Statistics Agency",
+  "published": "2024-06",
+  "sub_indicator": "law",
+  "why": "Statistics Act 2011 in force as mandate (Q3)"
+ },
+ {
+  "url": "https://www.lac.org.na/laws/2022/7897.pdf",
+  "title": "Namibia National Statistics System Standard for data and statistics dissemination (General Notice 481)",
+  "publisher": "Namibia Statistics Agency",
+  "published": "2022-09-09",
+  "sub_indicator": "law",
+  "why": "standard issued under the Act (Q4)"
+ },
+ {
+  "url": "https://nsa.org.na/wp-content/uploads/2026/03/Labour-Statistics-Experts-ToR-1.pdf",
+  "title": "Assessment Panel Terms of Reference",
+  "publisher": "Namibia Statistics Agency",
+  "published": "2026-03",
+  "sub_indicator": "law",
+  "why": "Statistician-General panel under the Act (Q5)"
+ },
+ {
+  "url": "https://nsa.org.na/nss/?page_id=13885",
+  "title": "Documents - National Statistics System",
+  "publisher": "Namibia Statistics Agency",
+  "published": "2025-09-24",
+  "sub_indicator": "law",
+  "why": "standards issued Sept 2025 (Q4/Q5)"
+ },
+ {
+  "url": "https://data.unwomen.org/sites/default/files/documents/Publications/2023/Namibia-Gender-Statistics-Assessment.pdf",
+  "title": "Namibia National Gender Statistics Assessment",
+  "publisher": "UN Women",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "production subject to Statistics Act (Q3)"
+ },
+ {
+  "url": "https://nsa.org.na/wp-content/uploads/2025/03/Annual-Report_2019.pdf",
+  "title": "Annual Report 2018/19",
+  "publisher": "Namibia Statistics Agency",
+  "published": "2019",
+  "sub_indicator": "law",
+  "why": "Statistics Committee enforcing Act, survey approvals (Q5)"
+ },
+ {
+  "url": "https://nsa.org.na/wp-content/uploads/2025/03/ANNUAL-REPORT-2021.pdf",
+  "title": "Annual Report 2021",
+  "publisher": "Namibia Statistics Agency",
+  "published": "2021",
+  "sub_indicator": "law",
+  "why": "committee enforcement of Act (Q5)"
+ }
+]

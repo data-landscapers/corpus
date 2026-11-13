@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "AFRISTAT's table lists Guinea-Bissau's Stratégie Nationale de Développement de la Statistique 2018-2020 as the strategy approved by the government, with none shown as being adopted.",
+ "title": "Stratégies nationales de développement de la statistique des Etats membres - SNDS",
+ "publisher": "AFRISTAT",
+ "published": "2022-04-12",
+ "date_source": "source",
+ "why_not": ""
+}

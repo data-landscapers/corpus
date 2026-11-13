@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing",
+ "fact": "The 2025 Data Users and Producers Satisfaction Survey report states that LISGIS was established under the Statistics Act of 2004 and is mandated to lead the national statistical and spatial data system.",
+ "title": "Data Users and Producers Satisfaction Survey",
+ "publisher": "LISGIS",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

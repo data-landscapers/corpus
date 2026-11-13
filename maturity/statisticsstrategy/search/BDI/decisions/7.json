@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "AFRISTAT lists Burundi's SNDSB-II 2016-2020 as approved by the Government and a Stratégie Nationale de Développement de la Statistique 2022-2026 as in course of adoption.",
+ "title": "Stratégies nationales de développement de la statistique des Etats membres - SNDS",
+ "publisher": "AFRISTAT",
+ "published": "2022-04-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

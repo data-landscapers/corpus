@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n108-an-20-8eme-l-portant-modification-de-la-loi-n26-an-18-8eme-l-relative-a-la-creation-de-linstitut-national-de-la-statistique-de-djibouti-insd/",
+  "title": "Loi n° 108/AN/20/8ème L portant modification de la loi n° 26/AN/18/8ème L (INSTAD)",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2021-02",
+  "sub_indicator": "law",
+  "why": "Q2 law in force"
+ },
+ {
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n26-an-18-8eme-l-relatif-a-la-creation-de-linstitut-national-de-la-statistique-de-djibouti-insd/",
+  "title": "Loi n° 26/AN/18/8ème L relatif à la création de l'INSD",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2019-02",
+  "sub_indicator": "law",
+  "why": "Q2/Q3 law in force"
+ },
+ {
+  "url": "https://www.journalofficiel.dj/texte-juridique/decret-n2021-236-pr-mefi-portant-statuts-de-linstitut-national-de-la-statistique-de-djibouti-instad/",
+  "title": "Décret n° 2021-236/PR/MEFI portant Statuts de l'INSTAD",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2021-09",
+  "sub_indicator": "law",
+  "why": "Q3 decree under the law"
+ },
+ {
+  "url": "https://www.journalofficiel.dj/texte-juridique/decret-n2023-185-pr-mefi-portant-nomination-des-membres-du-conseil-dadministration-de-linstitut-de-la-statistique-de-djibouti-instad/",
+  "title": "Décret n° 2023-185/PR/MEFI portant nomination des membres du Conseil d'Administration de l'INSTAD",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2023-07",
+  "sub_indicator": "law",
+  "why": "Q4 board appointed"
+ },
+ {
+  "url": "https://www.afristat.org/lois-statistiques-des-etats-membres/",
+  "title": "Textes régissant les Systèmes statistiques nationaux et les Instituts nationaux de la statistique",
+  "publisher": "AFRISTAT",
+  "published": "2022-04",
+  "sub_indicator": "law",
+  "why": "Q2/Q3 list of Djibouti texts"
+ },
+ {
+  "url": "https://statafric.au.int/en/news/press-releases/2025-02-26/successful-peer-review-djiboutis-national-statistical-system",
+  "title": "Successful peer review of Djibouti's national statistical system",
+  "publisher": "STATAFRIC",
+  "published": "2025-02",
+  "sub_indicator": "law",
+  "why": "Q1 call to update legislation"
+ },
+ {
+  "url": "https://www.lanation.dj/instad-tenue-de-la-6eme-reunion-du-comite-de-programme-statistique-et-de-methodologie-cpsm-et-une-ceremonie-de-remise-de-certificats-de-formation-aux-agents-enqueteurs/",
+  "title": "INSTAD : Tenue de la 6ème réunion du CPSM",
+  "publisher": "La Nation",
+  "published": "2024-09-29",
+  "sub_indicator": "law",
+  "why": "Q4 CPSM met"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099062624100511391/txt/P17177714fbcb50d11b718197cb18662b08.txt",
+  "title": "World Bank implementation document, INSTAD board of directors",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q4 board meetings"
+ }
+]

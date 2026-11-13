@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.zamstats.gov.zm/wp-content/uploads/2026/08/Legal-Brochure-2026.pdf",
+  "title": "The Statistics Act: some key highlights",
+  "publisher": "Zambia Statistics Agency",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q3: Act in force; authorisation of surveys, offences"
+ },
+ {
+  "url": "https://www.zamstats.gov.zm/wp-content/uploads/2026/06/2025-2026-ZamStats-Strategic-Plan-Final.pdf",
+  "title": "Strategic Plan 2025-2026",
+  "publisher": "Zambia Statistics Agency",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q4: lack of regulations under the Act"
+ },
+ {
+  "url": "https://www.zamstats.gov.zm/wp-content/uploads/2026/03/2026-NSRC-1.12.2025.pdf",
+  "title": "National Statistical Release Calendar 2026",
+  "publisher": "Zambia Statistics Agency",
+  "published": "2025",
+  "sub_indicator": "law",
+  "why": "Q5: release calendar issued under s27"
+ },
+ {
+  "url": "https://www.africa-press.net/zambia/all-news/no-director-has-been-fired-at-zamstats-mofnp",
+  "title": "No director has been fired at ZamStats - MoFNP",
+  "publisher": "Africa-Press",
+  "published": "2025-03-05",
+  "sub_indicator": "law",
+  "why": "Q5: Board appointed Oct 2024 under the Act"
+ },
+ {
+  "url": "https://www.zambiamonitor.com/musokotwane-tasks-new-zamstats-board-to-provide-vital-data-for-zambias-development/",
+  "title": "Musokotwane tasks new ZamStats board",
+  "publisher": "Zambia Monitor",
+  "published": "2024-11-19",
+  "sub_indicator": "law",
+  "why": "Q5: new Board sworn in"
+ },
+ {
+  "url": "https://www.zamstats.gov.zm/wp-content/uploads/2023/12/SECOND-NATIONAL-STRATEGY-FOR-THE-DEVELOPMENT-OF-STATISTICS-2023-2027.pdf",
+  "title": "Second National Strategy for the Development of Statistics 2023-2027",
+  "publisher": "Ministry of Finance and National Planning",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "Q3: Act in force, commencement SI 60 of 2019"
+ },
+ {
+  "url": "https://zambialii.org/akn/zm/act/si/2021/92/eng@2021-12-31",
+  "title": "Statistics (National Census) (Declaration) Order, 2021",
+  "publisher": "ZambiaLII",
+  "published": "2021",
+  "sub_indicator": "law",
+  "why": "Q4: order made under the Act"
+ },
+ {
+  "url": "https://zambialii.org/akn/zm/act/si/2019/60/eng@2019-09-13",
+  "title": "Statistics Act (Commencement) Order, 2019",
+  "publisher": "ZambiaLII",
+  "published": "2019",
+  "sub_indicator": "law",
+  "why": "Q4: commencement order"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "PARIS21 lists Libya's National Strategy for the Development of Statistics 2018-2023 as completed and awaiting government adoption, as of September 2024.",
+ "title": "NSDS Status of Countries, Progress report as of September 2024",
+ "publisher": "PARIS21",
+ "published": "2024-09",
+ "date_source": "source",
+ "why_not": ""
+}

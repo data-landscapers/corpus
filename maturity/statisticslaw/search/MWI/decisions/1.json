@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing",
+ "fact": "The Norad governance and public finance study of February 2026 states that the Malawi NSO is governed by the 2013 Statistics Act, which established the National Statistical System and the NSO.",
+ "title": "Malawi Governance and Public Finance Systems",
+ "publisher": "Norad",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

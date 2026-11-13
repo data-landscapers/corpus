@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing;evaluation",
+ "fact": "The NSDS III, 2024-2028 (June 2024) states that the NSDS II, 2017-2021, was evaluated and the evaluation presented at the 2nd bi-annual meeting of the National Consultative Committee on Statistics in 2023, and that a mid-term review is due in 2026.",
+ "title": "Third National Strategy for the Development of Statistics in Nigeria, 2024-2028",
+ "publisher": "National Bureau of Statistics",
+ "published": "2024-06",
+ "date_source": "source",
+ "why_not": ""
+}

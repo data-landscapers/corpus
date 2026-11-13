@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "A November 2012 MEDSTAT III report states Morocco does not have an official National Strategy for the Development of Statistics, only a long-term action plan of the Statistical Directorate.",
+ "title": "Rapport de la mission de démarrage au Maroc pour les statistiques de l'agriculture",
+ "publisher": "FAO / MEDSTAT III",
+ "published": "2012-11",
+ "date_source": "source",
+ "why_not": "stated absence, pre-2019"
+}

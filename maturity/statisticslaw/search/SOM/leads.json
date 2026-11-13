@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://nbs.gov.so/wp-content/uploads/2025/12/Somalia-NSDS.pdf",
+  "title": "National Strategy for the Development of Statistics (NSDSII) 2024-2029",
+  "publisher": "Somalia National Bureau of Statistics",
+  "published": "2023-12",
+  "sub_indicator": "law",
+  "why": "Q3/Q4: law in force; absence of regulations"
+ },
+ {
+  "url": "https://nbs.gov.so/wp-content/uploads/2025/03/SNBS-Annual-report-2024.pdf",
+  "title": "Annual Report 2024",
+  "publisher": "Somalia National Bureau of Statistics",
+  "published": "2025",
+  "sub_indicator": "law",
+  "why": "Q3: law in force; Q5 board/DG"
+ },
+ {
+  "url": "https://nbs.gov.so/wp-content/uploads/2023/07/Somali-Statistics-Law.pdf",
+  "title": "Somali Statistics Law English Translation (Law No. 24)",
+  "publisher": "Somalia National Bureau of Statistics",
+  "published": "2020-02",
+  "sub_indicator": "law",
+  "why": "Q3: the law text in force"
+ },
+ {
+  "url": "https://www.osagsomalia.com/media/documents/bulletins-contents/legislation/2020/Sharciga_Istaatistikada_Qaranka-2.pdf",
+  "title": "Sharciga Istaatistikada Qaranka (Sharci Lr. 24)",
+  "publisher": "Faafinta Rasmiga ah / OSAG",
+  "published": "2020",
+  "sub_indicator": "law",
+  "why": "Q3: promulgation decree in the Official Gazette"
+ },
+ {
+  "url": "https://nbs.gov.so/wp-content/uploads/2023/08/SNBS_Desk-Review-of-Migration-Data-Sources-in-Somalia_2023.pdf",
+  "title": "Migration Data Production in Somalia: A Desk Review",
+  "publisher": "Somalia National Bureau of Statistics",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "Q4: regulations being drafted"
+ },
+ {
+  "url": "https://www.hiiraan.com/news4/2024/Nov/199013/somali_cabinet_approves_appointment_of_director_general_for_national_bureau_of_statistics.aspx",
+  "title": "Somali Cabinet approves appointment of Director General for Bureau of Statistics",
+  "publisher": "Hiiraan Online",
+  "published": "2024-11-21",
+  "sub_indicator": "law",
+  "why": "Q5: appointment under the law"
+ },
+ {
+  "url": "https://sesricdiag.blob.core.windows.net/sesric-site-blob/files/3470-OICSTATCOM14-Documents/PRESENTATIONS/PRESENTATION_SDG4_SOMALIA.pdf",
+  "title": "Somali National Bureau of Statistics (presentation)",
+  "publisher": "SNBS / OIC-StatCom",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q3/Q4: internal regulations drafted"
+ },
+ {
+  "url": "https://ewsdata.rightsindevelopment.org/files/documents/11/AFDB-P-SO-KF0-011.pdf",
+  "title": "African Development Fund project appraisal",
+  "publisher": "African Development Fund",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q3/Q5: law empowers SNBS; enforcement gap"
+ }
+]

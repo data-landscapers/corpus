@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.norad.no/contentassets/2f4c70be311744099b2d4a1a5a2aa589/11.02.2026-norad-governance-and-public-finance-studies-malawi-clean.pdf",
+  "title": "Malawi Governance and Public Finance Systems",
+  "publisher": "Norad",
+  "published": "2026-02",
+  "sub_indicator": "law",
+  "why": "Says NSO is governed by the 2013 Act (law in force)"
+ },
+ {
+  "url": "https://cms.nsomalawi.mw/api/download/410/Malawi-Statistical-Quality-Assurance-Framework_April-2023_FINAL.pdf",
+  "title": "Malawi Statistical Quality Assurance Framework for National Statistical System",
+  "publisher": "National Statistical Office",
+  "published": "2023-04",
+  "sub_indicator": "law",
+  "why": "Act in force; Act revision consultation; applied"
+ },
+ {
+  "url": "https://cms.nsomalawi.mw/api/download/411/Code-of-Practice-for-Official-Statistics_Malawi_FINAL.pdf",
+  "title": "Code of Practice for Official Statistics in the Malawi National Statistical System",
+  "publisher": "National Statistical Office",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Code issued under the Act's mandate (rules/applied)"
+ },
+ {
+  "url": "https://mwnation.com/take-an-interest-in-statistical-data-kanyuka/",
+  "title": "Take an interest in statistical data-Kanyuka",
+  "publisher": "Nation Online",
+  "published": "2022-04-07",
+  "sub_indicator": "law",
+  "why": "Revision of statistical legislation work in progress; Act in force"
+ },
+ {
+  "url": "https://pijmalawi.org/show-story/hiding-behind-laws-to-accomplish-digital-surveilla",
+  "title": "Hiding behind laws to accomplish digital surveillance",
+  "publisher": "Platform for Investigative Journalism",
+  "published": "2020-07-27",
+  "sub_indicator": "law",
+  "why": "Act 2013 powers; mentions a draft"
+ },
+ {
+  "url": "https://malawilii.org/akn/mw/act/2013/6/eng@2014-12-31",
+  "title": "National Statistics Act",
+  "publisher": "MalawiLII",
+  "published": "2014-12-31",
+  "sub_indicator": "law",
+  "why": "Text of the Act in force (commenced 19 July 2013), regulations s20"
+ }
+]

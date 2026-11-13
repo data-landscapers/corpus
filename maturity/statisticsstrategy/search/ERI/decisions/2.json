@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "PARIS21's September 2024 status table lists Eritrea's strategy as expired (Master plan for development of economic statistics, 2010-14) with the next plan not yet planned.",
+ "title": "NSDS STATUS OF COUNTRIES, Progress report as of September 2024",
+ "publisher": "PARIS21",
+ "published": "2024-09",
+ "date_source": "source",
+ "why_not": ""
+}

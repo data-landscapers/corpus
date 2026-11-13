@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "LISGIS lists the National Strategy for Development of Statistics, series III, as published on 18 June 2026.",
+ "title": "National Strategy for Development of Statistics",
+ "publisher": "LISGIS",
+ "published": "2026-06-18",
+ "date_source": "source",
+ "why_not": ""
+}

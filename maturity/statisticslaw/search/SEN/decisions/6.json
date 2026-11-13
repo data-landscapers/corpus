@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "law",
+ "aspect": "reach",
+ "fact": "Arrêté 007427 of 4 March 2020 authorises the chair of the CTPS to issue the statistical visa, citing law 2004-21 as completed by law 2012-03.",
+ "title": "Arrêté autorisant le président du Comité technique des programmes statistiques (CTPS) à délivrer le visa statistique",
+ "publisher": "Ministère de l'Économie, du Plan et de la Coopération",
+ "published": "2020-03-04",
+ "date_source": "source",
+ "why_not": "body transliterated at capture (lint-staged-queue FLAT); unselected by the driver"
+}

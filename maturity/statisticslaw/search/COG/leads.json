@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.ins-congo.cg/uploads/publications/ins_6ad8553134ba03.75061568.pdf",
+  "title": "Calendrier de publication des statistiques officielles – 2026",
+  "publisher": "INS Congo – DCS",
+  "published": "2026-10",
+  "sub_indicator": "law",
+  "why": "Release calendar under law 36-2018: application of the law (dissemination)"
+ },
+ {
+  "url": "https://sgg.cg/JO/2023/congo-jo-2023-10.pdf",
+  "title": "Journal officiel 2023 n°10 – Décret n° 2023-51 (RGPH-5)",
+  "publisher": "Secrétariat général du Gouvernement",
+  "published": "2023-02",
+  "sub_indicator": "law",
+  "why": "Decree made under law 36-2018 on statistics (rule made under the law)"
+ },
+ {
+  "url": "https://www.afristat.org/wp-content/uploads/2023/06/SNDS_2022-2026_Congo.pdf",
+  "title": "Stratégie nationale de développement de la statistique 2022-2026",
+  "publisher": "Gouvernement du Congo / AFRISTAT",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "Law 36-2018 in force; CSS decree 2021 adopted; CSS never operational"
+ },
+ {
+  "url": "https://www.adiac-congo.com/content/statistiques-lins-sensibilise-au-respect-de-la-legislation-nationale-114906",
+  "title": "Statistiques : l'INS sensibilise au respect de la législation nationale",
+  "publisher": "Les Dépêches de Brazzaville (ADIAC)",
+  "published": "2020-03-30",
+  "sub_indicator": "law",
+  "why": "Laws 35-2018 and 36-2018 in force; penalties; INS workshop"
+ },
+ {
+  "url": "https://www.sgg.cg/JO/2018/congo-jo-2018-42.pdf",
+  "title": "Journal officiel 2018 n°42 – Lois n° 35-2018 et 36-2018",
+  "publisher": "Secrétariat général du Gouvernement",
+  "published": "2018-10",
+  "sub_indicator": "law",
+  "why": "Statistics law in force (36-2018) and INS creation law (35-2018)"
+ },
+ {
+  "url": "https://liziba.cg/wp-content/uploads/2020/11/Decret-n%C2%B02019-431-du-30-decembre-2019-portant-approbation-des-statuts-de-linstitut-national-de-la-statistique.pdf",
+  "title": "Décret n°2019-431 portant approbation des statuts de l'INS",
+  "publisher": "Gouvernement du Congo",
+  "published": "2019-12-30",
+  "sub_indicator": "law",
+  "why": "Decree under law 35-2018 on the statistics office"
+ },
+ {
+  "url": "https://www.ins-congo.cg/textes-officiels.html",
+  "title": "Textes officiels",
+  "publisher": "INS Congo",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Lists decrees 2019-431 and 2021-503 (Commission supérieure de la statistique)"
+ },
+ {
+  "url": "https://www.afristat.org/lois-statistiques-des-etats-membres/",
+  "title": "Textes régissant les Systèmes statistiques nationaux et les INS",
+  "publisher": "AFRISTAT",
+  "published": "2022-04-11",
+  "sub_indicator": "law",
+  "why": "Lists Congo law 36-2018 as statistics law in force"
+ }
+]

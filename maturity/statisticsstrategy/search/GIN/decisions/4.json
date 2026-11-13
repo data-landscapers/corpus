@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "The INS held a workshop on 20 May 2022 to validate the 137-page SNDS 2021-2025, the third-generation strategy.",
+ "title": "Atelier de validation de la SNDS 2021-2025",
+ "publisher": "Institut National de la Statistique",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "AFRISTAT's list of member states' strategies, as of its April 2022 posting, shows Chad's SNDS 2022-2026 as in process of adoption and the 2011-2015 strategy as the last approved.",
+ "title": "Stratégies nationales de développement de la statistique des Etats membres - SNDS",
+ "publisher": "AFRISTAT",
+ "published": "2022-04-12",
+ "date_source": "source",
+ "why_not": ""
+}

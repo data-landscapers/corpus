@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "why_not": "",
+ "date_source": "source",
+ "aspect": "review;evaluation",
+ "fact": "UBOS released the mid-term performance review report of PNSD III on 5 March 2024.",
+ "title": "PNSD Mid-Term Review Report Released",
+ "publisher": "Uganda Bureau of Statistics",
+ "published": "2024-03-05"
+}

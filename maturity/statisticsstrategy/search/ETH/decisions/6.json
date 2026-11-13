@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "PARIS21 lists Ethiopia as implementing the Ethiopian Statistical Development Program for 2023/24-2025/26, with the next NSDS being designed.",
+ "title": "NSDS Status of Countries: Progress report as of September 2024",
+ "publisher": "PARIS21",
+ "published": "2024-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

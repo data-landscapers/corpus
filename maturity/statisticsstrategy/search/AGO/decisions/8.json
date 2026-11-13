@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "strategy",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: undated INE history page; its only current fact (ENDE 2015-2025 in execution since 2015) is a 2015 item already covered."
+}
