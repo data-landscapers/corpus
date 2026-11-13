@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile money", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "commercial", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-0aaf6dd59a": "nothing: operated by commercial providers, not the central bank"
+  },
+  "note": "The listed system is not central-bank operated."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PayShap", "country_label": "South Africa", "class": "oversight", "platform": "", "owner": "bank association and central bank", "tiers": ""},
+    {"system": "Real Time Clearing (RTC)", "country_label": "South Africa", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-ef987ff60a": "nothing: held as ZAF-004",
+    "dpimap-c74f986028": "nothing: participation rules are not an aspect the study assesses",
+    "dpimap-345d22ca5c": "nothing: the central bank's switch role is held as ZAF-011; RTC itself is not stated by a primary"
+  },
+  "note": "The Reserve Bank's role in the PayShap switch is already held; participation rules not assessed."
+}

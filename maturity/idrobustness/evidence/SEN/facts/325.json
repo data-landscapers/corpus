@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National digital identity (INN)",
+      "country_label": "Senegal",
+      "class": "idsystem",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "dpimap-e6b7e547df": "nothing: biometrics collected, not a check against double enrolment (question 3)"
+  }
+}

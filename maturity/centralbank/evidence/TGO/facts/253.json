@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PI-SPI", "country_label": "Togo", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-9e0492af8d": "nothing: held as TGO-002",
+    "dpimap-dadc1e5fb0": "nothing: participation rules are not an aspect the study assesses"
+  },
+  "note": "PI-SPI as central-bank operated is already held; participation rules not assessed."
+}

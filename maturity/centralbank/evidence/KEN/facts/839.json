@@ -1,0 +1,13 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PesaLink", "country_label": "Kenya", "class": "other", "platform": "", "owner": "bank association", "tiers": ""},
+    {"system": "M-Pesa", "country_label": "Kenya", "class": "other", "platform": "", "owner": "commercial", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-ea1f439b8d": "nothing: operated by a bank association, not the central bank",
+    "dpimap-244c778fda": "nothing: operated by a commercial provider, not the central bank"
+  },
+  "note": "Neither listed system is central-bank operated."
+}

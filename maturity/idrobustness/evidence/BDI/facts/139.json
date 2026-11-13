@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Biometric National ID",
+      "country_label": "Burundi",
+      "class": "idsystem",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "dpimap-4d473cf1a7": "nothing: biometrics collected, not a check against double enrolment (question 3)",
+    "dpimap-1c1ab9920f": "nothing: held as BDI-001"
+  }
+}

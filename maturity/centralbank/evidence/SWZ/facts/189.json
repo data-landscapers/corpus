@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Eswatini Payment Switch", "country_label": "Eswatini", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-85f92f18f8": "nothing: held as SWZ-002"
+  },
+  "note": "The Eswatini Payment Switch as central-bank deployed is already held."
+}

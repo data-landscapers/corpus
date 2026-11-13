@@ -1,0 +1,13 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "GhanaPay/GIPS", "country_label": "Ghana", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""},
+    {"system": "eCedi", "country_label": "Ghana", "class": "other", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-c46fe48734": "nothing: held as GHA-005",
+    "dpimap-2061696e74": "nothing: a CBDC is not something the study assesses"
+  },
+  "note": "GhIPSS is already held; the eCedi CBDC is outside the study's aspects."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Switch Al Maghrib", "country_label": "Morocco", "class": "other", "platform": "", "owner": "commercial banks and PSPs", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-dd95467526": "nothing: operated by commercial banks and PSPs, not the central bank"
+  },
+  "note": "The listed switch is not central-bank operated."
+}

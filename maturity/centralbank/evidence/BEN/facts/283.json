@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PI-SPI", "country_label": "Benin", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-2225b6661c": "nothing: held as BEN-002",
+    "dpimap-632daa21c3": "nothing: participation rules are not an aspect the study assesses"
+  },
+  "note": "Database lines restate PI-SPI as central-bank operated, already held; participation rules not assessed."
+}

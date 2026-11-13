@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Domestic IPS", "country_label": "Seychelles", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-28b2a512ed": "nothing: held as SYC-003"
+  },
+  "note": "The central bank's domestic payment systems are already held."
+}

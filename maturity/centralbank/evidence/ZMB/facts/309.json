@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "National Financial Switch", "country_label": "Zambia", "class": "oversight", "platform": "", "owner": "bank association and central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-ff68650d4d": "nothing: held as ZMB-002",
+    "dpimap-a49d8b6ba2": "nothing: participation rules are not an aspect the study assesses"
+  },
+  "note": "The Bank of Zambia's oversight of the NFS is already held; participation rules not assessed."
+}

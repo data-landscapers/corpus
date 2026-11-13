@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "NIBSS Instant Payment (NIP)", "country_label": "Nigeria", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""},
+    {"system": "Nigeria Mobile money", "country_label": "Nigeria", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "eNaira", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-aed389181f": "nothing: held as NGA-010",
+    "dpimap-595ba652fe": "nothing: participation rules are not an aspect the study assesses",
+    "dpimap-51a0806693": "nothing: operator given only as central bank/other, no central-bank system named",
+    "dpimap-8468622568": "nothing: participation rules are not an aspect the study assesses",
+    "dpimap-3ac3ee5cbb": "nothing: a CBDC is not something the study assesses",
+    "dpimap-d61e1c762d": "nothing: participation rules are not an aspect the study assesses"
+  },
+  "note": "NIP as central-bank linked switch is already held; the CBDC and generic mobile money lines state nothing the aspects hold."
+}

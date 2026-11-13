@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "TIPS", "country_label": "Tanzania", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-da87582d8b": "nothing: held as TZA-004"
+  },
+  "note": "TIPS as a central-bank platform is already held."
+}

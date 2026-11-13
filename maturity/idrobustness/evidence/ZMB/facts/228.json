@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National digital Identity",
+      "country_label": "Zambia",
+      "class": "idsystem",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "dpimap-82af6530d3": "nothing: biometrics collected, not a check against double enrolment (question 3)",
+    "dpimap-f55ceb3365": "nothing: held as ZMB-004"
+  }
+}

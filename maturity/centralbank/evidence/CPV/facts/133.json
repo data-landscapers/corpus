@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "STII", "country_label": "Cabo Verde", "class": "", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-e33300e240": "nothing: STII not shown in service; the switch is held as CPV-002",
+    "dpimap-ebaea45c96": "nothing: a database's no"
+  },
+  "note": "STII is listed with participation rules not found, which the database says includes systems not yet live; no in-service fact."
+}

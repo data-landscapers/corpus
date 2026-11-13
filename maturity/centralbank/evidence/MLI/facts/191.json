@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PI-SPI", "country_label": "Mali", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-a7230e17c3": "nothing: held as MLI-001",
+    "dpimap-100b90b82b": "nothing: participation rules are not an aspect the study assesses"
+  },
+  "note": "PI-SPI as central-bank operated is already held; participation rules not assessed."
+}

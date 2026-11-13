@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "GhanaCard",
+      "country_label": "Ghana",
+      "class": "idsystem",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "dpimap-10900f0433": "nothing: biometrics collected, not a check against double enrolment (question 3)",
+    "dpimap-b3701c822b": "nothing: held as GHA-001"
+  }
+}

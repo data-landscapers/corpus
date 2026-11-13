@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National digital identity",
+      "country_label": "Lesotho",
+      "class": "idsystem",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "dpimap-bd29416b6e": "nothing: biometrics collected, not a check against double enrolment (question 3)",
+    "dpimap-e6307a78ef": "nothing: held as LSO-007"
+  }
+}

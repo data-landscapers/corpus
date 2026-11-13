@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "MauCAS", "country_label": "Mauritius", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-f411cdc74c": "nothing: held as MUS-001"
+  },
+  "note": "MauCAS as a central-bank switch is already held."
+}

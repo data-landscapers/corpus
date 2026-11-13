@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "DZMobPay", "country_label": "Algeria", "class": "other", "platform": "", "owner": "GIE Monetique (bank association)", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-6ae1528235": "nothing: operated by a bank association, not the central bank"
+  },
+  "note": "DZMobPay is run by a bank association, so it is not a central-bank switch."
+}

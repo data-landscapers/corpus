@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "LYPay", "country_label": "Libya", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-4ad349c60a": "nothing: held as LBY-003",
+    "dpimap-f3af18547b": "nothing: participation rules are not an aspect the study assesses"
+  },
+  "note": "LYPay as central-bank run is already held; participation rules not assessed."
+}

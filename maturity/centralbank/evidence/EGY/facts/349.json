@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "InstaPay/IPIN", "country_label": "Egypt", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-c7bd72089c": "nothing: held as EGY-002",
+    "dpimap-235ddbb2b8": "nothing: participation rules are not an aspect the study assesses"
+  },
+  "note": "Database lines restate InstaPay as central-bank operated, already held; participation rules not assessed."
+}

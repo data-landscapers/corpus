@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DRC Pass / Tridentity",
+      "country_label": "Democratic Republic of the Congo",
+      "class": "idsystem",
+      "platform": "Tridentity",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "dpimap-2bff6f3092": "nothing: biometrics collected, not a check against double enrolment (question 3)",
+    "dpimap-283c4fa29f": "nothing: held as COD-013"
+  }
+}

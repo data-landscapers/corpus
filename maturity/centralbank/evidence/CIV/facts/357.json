@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PI-SPI", "country_label": "Cote d'Ivoire", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-b386239d4f": "nothing: held as CIV-001",
+    "dpimap-4c7fb73611": "nothing: participation rules are not an aspect the study assesses"
+  },
+  "note": "Database lines restate PI-SPI as central-bank operated, already held; participation rules not assessed."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PI-SPI", "country_label": "Guinea-Bissau", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-023a65f788": "nothing: held as GNB-005",
+    "dpimap-8b1d271e42": "nothing: participation rules are not an aspect the study assesses"
+  },
+  "note": "PI-SPI as central-bank operated is already held; participation rules not assessed."
+}

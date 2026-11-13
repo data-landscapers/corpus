@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Single Digital ID (SDID)",
+      "country_label": "Rwanda",
+      "class": "idsystem",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "dpimap-32b1cd802e": "nothing: biometrics collected, not a check against double enrolment (question 3)",
+    "dpimap-9420834e22": "nothing: held as RWA-003"
+  }
+}

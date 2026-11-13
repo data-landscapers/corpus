@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Nat Switch", "country_label": "Malawi", "class": "other", "platform": "", "owner": "bank association", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-a8ca111c8b": "nothing: operated by a bank association, not the central bank"
+  },
+  "note": "The listed switch is not central-bank operated."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "EthSwitch", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "bank association", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-18e9815f9d": "nothing: operated by a bank association, not the central bank",
+    "dpimap-4e3e711e62": "nothing: participation rules are not an aspect the study assesses"
+  },
+  "note": "EthSwitch is run by a bank association; the central-bank switch is held as ETH-011."
+}

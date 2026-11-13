@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "SYRAD", "country_label": "Djibouti", "class": "oversight", "platform": "", "owner": "central bank", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-689e7b30e3": "nothing: held as DJI-004",
+    "dpimap-d2d2b698b9": "nothing: participation rules are not an aspect the study assesses"
+  },
+  "note": "Database lines restate SYRAD as central-bank operated, already held; participation rules not assessed."
+}

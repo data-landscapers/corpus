@@ -1,0 +1,13 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "SIMO", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "bank association", "tiers": ""},
+    {"system": "SPIM", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "bank association", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-3f338bf220": "nothing: operated by a bank association, not the central bank",
+    "dpimap-1c05938ee5": "nothing: operated by a bank association, not the central bank"
+  },
+  "note": "Neither listed system is central-bank operated."
+}

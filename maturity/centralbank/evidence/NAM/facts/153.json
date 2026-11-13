@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Nampay", "country_label": "Namibia", "class": "other", "platform": "", "owner": "bank association", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-249ed50816": "nothing: operated by a bank association, not the central bank",
+    "dpimap-f322dd5609": "nothing: participation rules are not an aspect the study assesses"
+  },
+  "note": "The listed system is not central-bank operated."
+}

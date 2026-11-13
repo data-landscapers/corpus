@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Somalia National Payment System", "country_label": "Somalia", "class": "other", "platform": "", "owner": "bank association", "tiers": ""}
+  ],
+  "claims": {
+    "dpimap-60934811b3": "nothing: operated by a bank association, not the central bank"
+  },
+  "note": "The listed system is not central-bank operated."
+}
