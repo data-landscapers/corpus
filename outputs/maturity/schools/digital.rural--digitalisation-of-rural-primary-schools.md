@@ -1,6 +1,6 @@
 # Digitalisation of rural primary schools: EMIS
 
-*As at 2026-10-13.*
+*As at 2026-11-13.*
 
 ## The norm
 
@@ -42,7 +42,7 @@ Marks for 11.7 million pupils were on the ministry's platform in 2024, level not
 
 ### Benin: 3 Established
 
-Primary schools entered enrolments and class lists themselves in 2026; no source found says how many do, and whether any enter attendance or results,.
+Primary schools entered enrolments and class lists themselves in 2026; no source found says how many do, or whether any enter attendance or results.
 
 *Advancing.*
 
@@ -257,7 +257,7 @@ A November 2023 decree creates a per-pupil record that schools are to fill; no s
 
 ### Cote d'Ivoire: 2 Nascent
 
-A school information system launched in two regions in July 2025, after a 2024 Abidjan pilot; its coverage and who enters data are unknown.
+A school information system launched in two regions in July 2025 after a 2024 pilot; no source found gives its coverage or who enters data.
 
 - The education ministry's SNDECI 2024-2028 says DOBCONNECT was started in January 2024 in 5 pilot establishments of the Abidjan regional directorates (DRENA), with its general rollout due in May 2024, a step the strategy gives as still to come; the level of the 5 establishments is not stated ([source, 2024-01](https://www.education.gouv.ci/assets/pdf/Document/Orientation/document_220.pdf)).
 - The SNDECI 2024-2028 says DOBCONNECT collects information on pupils' school performance so that each can be followed individually and dropout fought, from January 2024 in its pilot establishments; it does not say who enters the data, where or how often ([source, 2024-01](https://www.education.gouv.ci/assets/pdf/Document/Orientation/document_220.pdf)).
@@ -303,7 +303,7 @@ Pupil records from one region's schools were entered at a regional office in a 2
 
 ### Lesotho: 2 Nascent
 
-A 2018 pilot tracked individual pupils in one hundred schools; their level, and no source found says whether it still runs,.
+A 2018 pilot tracked individual pupils in one hundred schools; no source found gives their level or says whether it still runs.
 
 - Development Gateway's diagnostic for UNICEF Lesotho says the OpenEMIS rollout is beginning with a 2018 pilot tracking individual learners in one hundred low-performance schools, attached to a World Bank project; it does not give the schools' level or say who enters the records ([source, 2018](https://developmentgateway.org/wp-content/uploads/2020/10/UNICEF_Lesotho_Diagnostic.pdf)).
 
@@ -337,7 +337,7 @@ Pupil registration for 2026-2027 opened on a ministry platform in September 2026
 
 ### Mauritius: 2 Nascent
 
-A school records system was piloted in secondary schools by 2025; whether any primary school keeps pupils' records digitally is not known.
+A school records system was piloted in secondary schools by 2025; no source found says whether any primary school keeps pupils' records digitally.
 
 - UNESCO IITE reports that a mission of 11-15 February 2019 assessed needs and set out to design a school integrated management information system that is to track each student's progress, including classroom assessment; the EMIS was still to be developed, over 12 months after a 3-month technical document, and no school is stated as using it ([source, 2019-02-15](https://iite.unesco.org/news/mauritius-emis-support-and-monitoring-of-education-2030-agenda/)).
 - The document says the UNESCO IITE and Chengdu Group project piloted a secondary school Education Management Information System in Mauritius ([source, 2025-08-29](https://iite.unesco.org/news/unesco-iite-and-chengdu-group-complete-project-on-inclusive-digital-education-in-mauritius-and-rwanda/)).
