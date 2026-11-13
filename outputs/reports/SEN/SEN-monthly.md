@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: SEN
-ledger_rows: 42
+ledger_rows: 45
 not_held: 2
-record: bf14bbe5b11b
+record: 8ffe12106f7b
 ---
 
 # News, Oct – Nov 2026
@@ -450,6 +450,20 @@ Senegal's Justice Minister, Moussa Sarr, agreed on 10 November 2026 to deploy AP
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Physical and biometric audit of local-government staff</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Les instances de gouvernance de l’audit physique et biométrique des agents territoriaux installées - APS](https://aps.sn/les-instances-de-gouvernance-de-laudit-physique-et-biometrique-des-agents-territoriaux-installees/)** — Agence de presse sénégalaise (APS), 10 November 2026
+
+Governance bodies installed 10 Nov 2026; 18,716 agents in 601 local authorities (2022); HR database to follow.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -552,6 +566,20 @@ Senegal's Ministry of Mines and Geology validated its integrated mining-sector d
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Secure consular card issuance and tracking system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Diaspora : Vers un nouveau système sécurisé de délivrance des cartes consulaires sénégalaises](https://www.seneweb.com/fr/news/Societe/diaspora-towards-a-new-secure-system-for-issuing-senegalese-consular-cards_n_999003334.html)** — Seneweb, 11 November 2026
+
+MIAAESE-CDC convention 9 Nov 2026; Synapsys Conseil to build secure issuance and tracking for diaspora cards.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -635,6 +663,20 @@ Senegal and the Gates Foundation launched the Senegal AI Scaling Hub in Dakar on
 **[Escroqueries par intelligence artificielle : la CDP appelle à la vigilance face au clonage de voix et aux deepfakes](https://cdp.sn/actualites/52517c7a-0431-45a3-b40b-48f28bc2e965)** — Commission de Protection des Données Personnelles (Senegal), 5 November 2026
 
 Senegal's data protection commission (CDP) warned on 5 November 2026 of rising AI scams using voice cloning and deepfakes. It says a person's voice and image are personal data under Law 2008-12. Copying them with AI without consent is unlawful processing, it says. It advises people to call back on a known number.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National framework for anticipating AI in the world of work</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mamadou Lamine Dianté suggère un cadre d’anticipation et d’accompagnement de l’IA - APS](https://aps.sn/mamadou-lamine-diante-suggere-un-cadre-danticipation-et-daccompagnement-de-lia/)** — Agence de presse sénégalaise (APS), 12 November 2026
+
+Senegal's Minister of the Civil Service, Mamadou Lamine Dianté, proposed on 12 November 2026 that the State, employers and unions draw up a national framework on AI at work, APS reported. The minister made the proposal at a workshop held with the Konrad Adenauer Foundation. The framework would cover changes in jobs and skills, training and workers' rights.
 
 </div>
 
