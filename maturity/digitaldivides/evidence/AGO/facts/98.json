@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-ago-itu-pp26-policy-statement",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Angola's communications minister said the Iluminar Angola Project, on national roaming and infrastructure sharing, is being implemented to reach more than one million citizens in 70 localities by 2027.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Iluminar Angola Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

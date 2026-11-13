@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-uga-uganda-highlights-digital-transformation-agenda-at-itu-confe",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Uganda's ICT minister told the ITU conference that Universal Access Fund interventions, including ICT public access centres and telecom infrastructure in underserved areas, have contributed to 96% population network coverage (GSMA, 2025).",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Universal Access Fund",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Access Fund",
+   "country_label": "Universal Access Fund",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Uganda Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

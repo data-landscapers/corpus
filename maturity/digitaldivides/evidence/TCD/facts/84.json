@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-tcd-chad-pp-26-policy-statement",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The minister said 500 sites are being deployed with World Bank support to cover white spots, and another 1,000 are planned.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "white-spot sites programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
