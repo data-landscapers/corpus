@@ -1,6 +1,6 @@
 ## 13 November 2026
 
-- Madagascar's 2027 draft is in the tables: 114 lines read from the finance bill, MGA 14.0bn wholly and 107.4bn partly digital, with the data-protection commission (MGA 1.1bn) held for the first time. Most of the partly digital money is two fee-funded accounts, customs IT (MGA 46.1bn) and electronic passports (MGA 30.4bn); MGA 648bn of digital projects paid for by loans and grants is left out.
+- Madagascar's 2027 draft is in the tables: 114 lines read from the finance bill, MGA 14.0bn wholly and 107.4bn partly digital, most of the latter two fee-funded accounts, customs IT (MGA 46.1bn) and electronic passports (MGA 30.4bn); MGA 648bn of digital projects paid for by loans and grants is left out. 2026 gains 17 lines the first reading missed, among them the data-protection commission (MGA 971m revised), the passport account (26.6bn) and the civil-registration centre (1.7bn), taking its revised budget to MGA 3.2bn wholly and 83.9bn partly digital.
 
 ## 11 November 2026
 

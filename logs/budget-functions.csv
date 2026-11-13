@@ -392,17 +392,17 @@ MAR,social-registry,found,whole,2,mar-2024-08-310-00-45-inv,,rows,,
 MAR,population-register,absent,,,,,hand,"FY2024 and FY2025: no project line names the national population register or the social register. Morasses, every chapter searched, and the finance law.",2026-10-02
 MAR,data-exchange,absent,,,,,hand,"FY2024 and FY2025: no project line names interoperability or data exchange. Morasses, every chapter searched, and the finance law.",2026-10-02
 MDG,statistics,found,whole,4,mdg-2024-21-220-013-00-21-f-01m,Institut national de la statistique (INSTAT),rows,,
-MDG,civil-registration-id,found,whole,9,mdg-2024-14-142-133-00-14-0-395,,rows,,
+MDG,civil-registration-id,found,whole,12,mdg-2024-14-142-133-00-14-0-395,,rows,,
 MDG,communications-regulator,found,partial,1,mdg-2024-artec,Autorité de régulation des technologies de communication (ARTEC),rows,,
-MDG,ict-ministry-egov,found,whole,18,mdg-2024-60-670-043,Unité de gouvernance digitale (UGD); Gouvernement malagasy (zone parente),rows,,
-MDG,cybersecurity,found,whole,4,mdg-2024-37-370-030-00-37-0-a30,CIRT Madagascar,rows,,
-MDG,data-protection,found,whole,1,mdg-2027-01-010-138-00-01-0-4m0,,rows,,
+MDG,ict-ministry-egov,found,whole,20,mdg-2024-60-670-043,Unité de gouvernance digitale (UGD); Gouvernement malagasy (zone parente),rows,,
+MDG,cybersecurity,found,whole,5,mdg-2024-37-370-030-00-37-0-a30,CIRT Madagascar,rows,,
+MDG,data-protection,found,whole,2,mdg-2026-01-010-138-00-01-f-05a,,rows,,
 MDG,revenue-systems,found,whole,8,mdg-2027-21-220-115-393-p47,Direction générale des impôts,rows,,
 MDG,treasury-fmis,absent,,,,Ministère de l'Économie et des Finances,hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: no service is named for the financial management system; the finance ministry's information-systems directorate is held under the in-house IT rule",2026-10-02
 MDG,procurement,absent,,,,Autorité de régulation des marchés publics (ARMP),hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: procurement appears as a tax and as a regulator in the text; no service names a procurement system",2026-10-02
 MDG,electoral-register,absent,,,,Commission électorale nationale indépendante (CENI),hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: the electoral commission is institution 07, one body (16.4bn in 2025), with no service for the electoral list",2026-10-02
-MDG,land-registry,found,whole,7,mdg-2024-68-460-409-253,Ministère de l'Aménagement du Territoire et des Services fonciers,rows,,
-MDG,social-registry,found,whole,4,mdg-2024-76-762-830-00-76-0-520,Ministère de la Population et des Solidarités,rows,,
+MDG,land-registry,found,whole,8,mdg-2024-68-460-409-253,Ministère de l'Aménagement du Territoire et des Services fonciers,rows,,
+MDG,social-registry,found,whole,5,mdg-2024-76-762-830-00-76-0-520,Ministère de la Population et des Solidarités,rows,,
 MDG,population-register,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: no service names a population register",2026-10-02
 MDG,data-exchange,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: interoperable information systems appear as an indicator only",2026-10-02
 MLI,statistics,found,whole,19,mli-2024-310-3.008-31-1-2017-0011-001-000000,Institut national de la statistique (INSTAT),rows,,
