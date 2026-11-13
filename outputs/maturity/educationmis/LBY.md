@@ -2,11 +2,11 @@
 
 ## Education information system
 
-**Education information system.** [The Ministry of Education, supported by UNICEF Libya, launched the Education Management Information System (EMIS), after a pilot phase for 205 educational institutions and training of thirty staff of the Information and Documentation Center and the Planning and Strategies Department, per the ministry's statement and Undersecretary Masouda Al-Aswad](<https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Education information system.** [In July 2024 the Ministry of Education, supported by UNICEF Libya, launched its Education Management Information System (EMIS)](<https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef>). [Al-Wasat named the system OpenEMIS](<https://alwasat.ly/news/libya/446510>). [The launch followed a pilot in 205 educational institutions](<https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef>). [Thirty staff of the Information and Documentation Center and the Planning and Strategies Department were trained](<https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef>).
 
-**Learner records.** No source found since October 2023 says the system holds a record for each learner. The nearest held fact: [the one given above](<https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef>).
+**Learner records.** No source found since October 2023 says the system holds a record for each learner. The nearest held fact: [in July 2024 the ministry said the pilot covered 205 institutions](<https://alwasat.ly/news/libya/446510>).
 
-**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef>).
+**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [thirty ministry staff were trained](<https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef>).
 
 ***Also on file***. None found.
 
