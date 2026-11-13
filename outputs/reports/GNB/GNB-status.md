@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-27
 intersections_read: 22
-sources_cited: 177
+sources_cited: 178
 sections_written: 39
 not_established: 2
 acquire_lines: 31
@@ -338,7 +338,7 @@ The education ministry’s 2017 sector plan found [teachers’ subject competenc
 
 [Cash transfer programmes reached around 66,000 people in 2021, 7.6 per cent of the population in poverty, and under 7,000 in 2022, or 0.7 per cent](https://www.imf.org/-/media/files/publications/selected-issues-papers/2025/english/sipea2025110.pdf). [A National Social Registry is still being established, under a World Bank project approved in January 2025](https://www.worldbank.org/en/news/press-release/2025/01/15/world-bank-approves-20-million-dollar-project-to-strengthen-health-education-and-social-services-in-guinea-bissau).
 
-In 2021 [close to 43 per cent of Bissau-Guineans remained outside the formal financial system](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P177016084979202b08dd501a5690c82506.pdf). [Access to banking services was one of the country’s worst-scoring governance indicators in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gw.pdf). In 2023 [informal employment accounted for over 90 per cent of the active workforce](https://openknowledge.worldbank.org/entities/publication/78c86ec6-a816-53dc-bd85-d99987515dcf).
+In 2021 [close to 43 per cent of Bissau-Guineans remained outside the formal financial system](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P177016084979202b08dd501a5690c82506.pdf). [The regional central bank put the overall access rate to financial services at 79.5 per cent at the end of 2025, from 20.5 per cent in 2018, mostly through e-money](https://www.odemocratagb.com/?p=59036). [Access to banking services was one of the country’s worst-scoring governance indicators in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gw.pdf). In 2023 [informal employment accounted for over 90 per cent of the active workforce](https://openknowledge.worldbank.org/entities/publication/78c86ec6-a816-53dc-bd85-d99987515dcf).
 
 [Equal access to public services scored 30.9 of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gw.pdf), 35th of 54 and 1.5 points below its 2014 level.
 
