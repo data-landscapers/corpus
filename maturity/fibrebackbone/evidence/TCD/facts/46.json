@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-tcd-chad-pp-26-policy-statement",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Minister Haliki Choua Mahamat told the ITU PP-26 that of a 14,000 km optical fibre target by 2030, 4,400 km are completed, 2,700 km are in progress and 6,900 km remain to be financed.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "optical fibre network",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
