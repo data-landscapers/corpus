@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-03-mar-ia-protection-des-donnees-a-caractere-personnel",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The CNDP, Morocco's personal data protection commission, launched hearings on 18 March 2025 and heard experts, associations and parties through 2025 to prepare a deliberation on AI and personal data.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNDP",
+   "country_label": "Morocco",
+   "class": "authority",
+   "platform": "",
+   "owner": "Commission Nationale de Controle de la Protection des Donnees a Caractere Personnel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

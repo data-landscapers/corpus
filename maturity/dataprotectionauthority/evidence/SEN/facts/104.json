@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-01-sen-l-etat-du-senegal-entre-transformation-numerique-et-renforcement-de-la",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ENDA Sante says Senegal's draft personal data law would give more power and responsibility to the existing Commission de Protection des Donnees Personnelles.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Commission de Protection des Donnees Personnelles",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de Protection des Donnees Personnelles",
+   "country_label": "Senegal",
+   "class": "authority",
+   "platform": "",
+   "owner": "Government of Senegal",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
