@@ -22,8 +22,8 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 |---|---|
 | 5 Leading | 4 |
 | 4 Operating | 16 |
-| 3 Established | 26 |
-| 2 Nascent | 6 |
+| 3 Established | 27 |
+| 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 1 |
@@ -301,6 +301,12 @@ In 2026 Mauritius enacted an electronic transactions amendment act, to start on 
 - The ICT minister, speaking on 29 July 2026, referred to amendments to the Electronic Transactions Act 2006 meant to modernise digital commerce frameworks and strengthen consumer protection, which treats the 2006 Act as existing law; the document gives no date for the Act's entry into force and does not say the amendments are passed ([source, 2026-07-29](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993)).
 - Act No. 5 of 2026, the Electronic Transactions (Amendment) Act, was passed by the National Assembly on 19 May 2026 and assented to by the President on 25 May 2026; it comes into operation on a date to be fixed by Proclamation, different sections possibly on different dates, and the document gives no commencement date ([source, 2026-05-25](https://mauritiusassembly.govmu.org/mauritiusassembly/wp-content/uploads/2026/05/Act0526.pdf)).
 
+### Nigeria: 3 Established
+
+Nigeria's cybercrimes law, amended in 2024, gives electronic signatures legal effect; whether any rules have been made under it is not known.
+
+- PLAC Legist says the Cybercrimes Act as amended in 2024 sets which contractual transactions and declarations are valid by electronic signature in section 17, so electronic signatures have legal effect under it ([source, 2024-02](https://placng.org/Legist/cybercrimes-amendment-act-exposes-lapses-in-legislative-process/)).
+
 ### Rwanda: 3 Established
 
 Rwanda's consumer law has had an e-commerce chapter in force since 4 March 2026; no source found reports rules made under it.
@@ -372,12 +378,6 @@ Lesotho had no electronic transactions law in 2026; a revised bill went to valid
 
 - ITWeb Africa reports that Lesotho's MICSTI is introducing the Electronic Transactions and Communications Bill, 2026, a revision of the 2022 bill of the same name, after a two-day stakeholder validation workshop held with UNDP that week; the draft goes next to the Office of the Parliamentary Counsel for refinement (as_of is the article's published date, 2026-09-30, the workshop being 'this week') ([source, 2026-09-30](https://www.itweb.africa/article/lesotho-revises-electronic-transactions-bill/KA3WwMdzPLDvrydZ)).
 - The Government of Lesotho (via LENA) reports that MICSTI opened a two-day validation workshop in Maseru from Monday (2026-09-28) on the Electronic Transactions and Communications Bill, 2026, to gather stakeholder views before the Bill progresses through the next legislative stages; the Bill is under UNDP supervision and sponsored by MICSTI ([source, 2026-09-28](https://www.gov.ls/development/micsti-on-electronic-transactions-communications-bill/)).
-
-### Nigeria: 2 Nascent
-
-Nigeria's electronic-signature rules are in a bill the House approved by May 2026 and the Senate had not passed; no source found reports the rules.
-
-- TechCabal reports that the National Digital Economy and E-Governance Bill, introduced in July 2024, gives qualifying electronic signatures the same validity as handwritten ones and empowers NITDA to accredit certification authorities; it was approved by the House of Representatives by May 2026 and awaited the Senate ([source, 2026-05](https://techcabal.com/2026/08/13/nigerias-identity-law-raises-questions-over-digital-signatures/)).
 
 ### Somalia: 2 Nascent
 

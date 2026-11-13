@@ -29,3 +29,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,DZA,gov.legislate--e-commerce-legislation,fact,3,4,DZA-010;DZA-004,"External claims (housekeeping 58): UNCTAD lists Executive Decree 19-89 (March 2019), made under e-commerce law 18-05; rules made, 4"
 2026-11-11,GMB,gov.legislate--e-commerce-legislation,fact,2,3,GMB-002,"External claims (housekeeping 58): UNCTAD lists the Information and Communications Act 2009 as the electronic transactions law; in force, 3"
 2026-11-11,ZWE,gov.legislate--e-commerce-legislation,fact,1,2,ZWE-006,"External claims (housekeeping 58): a government draft Electronic Transactions and E-commerce Bill of June 2013 exists; a draft, 2"
+2026-11-13,NGA,gov.legislate--e-commerce-legislation,fact,2,3,NGA-008,"PLAC Legist: section 17 of the Cybercrimes Act, as amended in 2024, gives electronic signatures legal effect; a law in force, stage 2 to 3"

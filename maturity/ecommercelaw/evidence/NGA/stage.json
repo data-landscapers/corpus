@@ -1,16 +1,17 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "2",
-   "standing": "draft",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-004",
-   "gaps": "No source found says a law on electronic transactions or e-commerce is in force.",
-   "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-008",
+      "gaps": "No source found names rules made under the Cybercrimes Act on electronic signatures, or the law applied. The National Digital Economy and E-Governance Bill, which would empower NITDA to accredit certification authorities, was still before the Senate in 2026.",
+      "note": "PLAC Legist says section 17 of the Cybercrimes Act, as amended in 2024, makes transactions valid by electronic signature, so a law giving signatures legal effect is in force: stage 3. Nothing shows rules made under it.",
+      "as_at": "2026-11-13"
+    }
+  ]
 }
