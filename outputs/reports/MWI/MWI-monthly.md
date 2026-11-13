@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: MWI
 ledger_rows: 29
 not_held: 30
-record: 34900dd56459
+record: fa0ee87547fc
 ---
 
 # News, Oct – Nov 2026
@@ -516,7 +516,7 @@ The research and education networks of Malawi (MAREN) and Uganda (RENU) signed a
 
 **[Insuring the Excluded: Lessons from Malawi’s Parametric Insurance Pilot for Refugees](https://www.refugeesinternational.org/reports-briefs/insuring-the-excluded-lessons-from-malawis-parametric-insurance-pilot-for-refugees/)** — Refugees International, 1 November 2026
 
-2,160 refugee households paid ~US$100 each in 2024, targeted from proGres; SIM rules keep many refugees off mobile money.
+Refugees International reviews a UNHCR pilot of parametric drought insurance for refugees in Malawi. The African Risk Capacity policy paid out after the 2023/24 El Niño drought, mainly in Dzaleka camp. About 2,160 households got around US$100 each. SIM registration rules keep many refugees off mobile money.
 
 </div>
 

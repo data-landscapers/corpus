@@ -3,8 +3,8 @@ title: Access to services — News, October – November 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: include.access
-places: BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: 47950017daf4
+places: BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MWI; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
+record: 21e3b90f4307
 ---
 
 # News, Oct – Nov 2026
@@ -29,6 +29,8 @@ record: 47950017daf4
 <a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#malawi">Malawi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -335,6 +337,22 @@ A survey of 1,875 people in Grand Gedeh County on 14-17 October 2026 found that 
 **[Consultations Publiques](https://parlement.mg/consultations/)** — Assemblée nationale de Madagascar, 17 October 2026
 
 Madagascar's National Assembly runs an online portal for public consultations on bills. Past consultations include the 2026 electoral code reform, an environment bill and national budget priorities for 2026.
+
+</div>
+
+</div>
+
+## Malawi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Parametric insurance pilot for refugees</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Insuring the Excluded: Lessons from Malawi’s Parametric Insurance Pilot for Refugees](https://www.refugeesinternational.org/reports-briefs/insuring-the-excluded-lessons-from-malawis-parametric-insurance-pilot-for-refugees/)** — Refugees International, 1 November 2026
+
+Refugees International reviews a UNHCR pilot of parametric drought insurance for refugees in Malawi. The African Risk Capacity policy paid out after the 2023/24 El Niño drought, mainly in Dzaleka camp. About 2,160 households got around US$100 each. SIM registration rules keep many refugees off mobile money.
 
 </div>
 

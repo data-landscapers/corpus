@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: UGA
 ledger_rows: 47
 not_held: 12
-record: ab207f12245a
+record: 4398386e1dfb
 ---
 
 # News, Oct – Nov 2026
@@ -284,7 +284,7 @@ The Uganda Communications Commission reported that ICT minister Justine Kasule L
 
 **[NITA-U's UDAP Project Supports Financial Intelligence Authority Towards ISO/IEC 27001:2022 Certification](https://www.nita.go.ug/news-updates/nita-us-udap-project-supports-financial-intelligence-authority-towards-isoiec)** — National Information Technology Authority - Uganda (NITA-U), 27 October 2026
 
-FIA receives ISO/IEC 27001:2022 ISMS certification under World Bank-funded UDAP-GovNet project, October 2026.
+On 27 October 2026 NITA-U handed the Financial Intelligence Authority its ISO/IEC 27001:2022 information security certification. The work falls under the World Bank-funded ISMS Implementation Project of the Uganda Digital Acceleration Project. The Minister of Finance urged other government bodies to follow.
 
 </div>
 
@@ -512,7 +512,7 @@ Uganda Revenue Authority had linked 2.13 million of its 5.41 million individual 
 
 **[Can Uganda’s National Payment Switch Bring Down Digital Transaction Costs?](https://www.ceo.co.ug/can-ugandas-national-payment-switch-bring-down-digital-transaction-costs/)** — CEO East Africa, 31 October 2026
 
-Switch still under consultation in FY2025/26; blueprint ToR schedule to December 2026; pricing left undecided.
+CEO East Africa asks whether the Bank of Uganda's planned National Payment Switch can cut transaction costs. A UGX100,000 transfer from a bank to a wallet and out at an agent costs UGX5,070 today. The central bank's 2025/26 report calls the switch a project still under consultation.
 
 </div>
 

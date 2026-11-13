@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: COM
 ledger_rows: 10
 not_held: 22
-record: 9c5d9d79fa66
+record: 175fbd5daeac
 ---
 
 # News, Oct – Nov 2026
@@ -88,7 +88,7 @@ Bahrain's Information and eGovernment Authority held its first knowledge-exchang
 
 **[Office national de la normalisation I Un projet de loi sur la qualité en voie de validation](https://alwatwan.net/societe/office-national-de-la-normalisation-i-un-projet-de-loi-sur-la-qualit%C3%A9-en-voie-de-validation.html)** — Al-watwan, 30 October 2026
 
-Validation workshop, 29 October 2026: draft quality law reviewed before going to the Assembly.
+On 29 October 2026 the Comoros standards and metrology office held a validation workshop in Moroni on a draft quality law. The Minister of Economy said the text should go to parliament in coming sessions. He noted a presidential decree setting up the national standards institution and the country's entry to the World Trade Organization.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: SWZ
 ledger_rows: 34
 not_held: 3
-record: 055d4746b96b
+record: 1ba15ec96f56
 ---
 
 # News, Oct – Nov 2026
@@ -364,7 +364,7 @@ Eswatini Bank trained agents and residents in Nhlangano, Shiselweni, on its Shar
 
 **[ERS targets multiple-income earners ahead of deadline](https://swazidailynews.com/11962/business/ers-targets-multiple-income-earners-ahead-of-deadline/)** — Eswatini Daily News, 10 November 2026
 
-2025/26 returns eFiling-only, other channels non-compliant; kiosks, MoMo payment; deadline 30 Nov 2026.
+The Eswatini Revenue Service says people with several sources of income must file 2025/26 returns by 30 November 2026. Single-income employees taxed through PAYE generally need not file. Returns go through eFiling, and tax can be paid by mobile money.
 
 </div>
 

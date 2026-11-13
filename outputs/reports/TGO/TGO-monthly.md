@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: TGO
 ledger_rows: 30
 not_held: 16
-record: 2ab59a967ba6
+record: 719cf54124c4
 ---
 
 # News, Oct – Nov 2026
@@ -216,7 +216,7 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 
 **[Togo : e-Vital, un projet pour moderniser l’enregistrement des naissances et des décès](https://togoscoop.tg/togo-e-vita-un-projet-pour-moderniser-lenregistrement-des-naissances-et-des-deces/)** — Togo Scoop Info, 5 November 2026
 
-Hospital-to-town-hall e-notification piloted in 4 communes; e-MCCOD in DHIS2; Vital Strategies-funded, report June 2027.
+Officials met in Lomé on 5 and 6 November 2026 to validate the tools of the e-Vital project. Health facilities will record births and deaths and send them electronically to civil-status offices. The pilot covers four communes, funded by Vital Strategies for one year.
 
 </div>
 
@@ -246,7 +246,7 @@ BCEAO said on 5 November 2026 that its PI-SPI instant payment platform had proce
 
 **[Catherine Savery (DG de Mixx Togo) : « Dans cinq ans, Mixx sera une super-app, la référence des services financiers au Togo »](https://www.togofirst.com/fr/finance/0911-20585-catherine-savery-dg-de-mixx-togo-dans-cinq-ans-mixx-sera-une-super-app-la-reference-des-services-financiers-au-togo)** — Togo First, 9 November 2026
 
-Mixx: 3.12m accounts, 56% of market (June 2026); CFAF 3bn over PI-SPI in three months; merchants pay 1% on QR.
+Mixx Togo had 3.12 million accounts at the end of June 2026, 56% of the mobile money market. Since 2 November 2026 interoperable transfers in Togo run through the BCEAO's PI-SPI. They are free to senders up to CFAF 8,000 a day. Mixx is now a licensed e-money issuer.
 
 </div>
 

@@ -3,8 +3,8 @@ title: Data Exchange — News, October – November 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; BDI; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MRT; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: eee33571fd25
+places: DZA; AGO; BEN; BFA; BDI; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MRT; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB
+record: 92cc99632a7e
 ---
 
 # News, Oct – Nov 2026
@@ -53,6 +53,8 @@ record: eee33571fd25
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -594,6 +596,22 @@ The International Finance Corporation and the Bank of Tanzania signed an agreeme
 **[Serikali yawataka wasafirishaji kuunganisha mifumo ya ufuatiliaji wa vifurushi](https://www.mawasiliano.go.tz/news/serikali-yawataka-wasafirishaji-kuunganisha-mifumo-ya-ufuatiliaji-wa-vifurushi-2)** — Ministry of Communications and Information Technology (Tanzania), 10 October 2026
 
 Tanzania's Deputy Minister for Communication and IT, Switbert Mkama, called on parcel and express courier companies on 10 October 2026, World Post Day, to register and connect their tracking systems to national tracking and information-exchange systems. He commended couriers already linking to the Communication Monitoring System overseen by the regulator TCRA.
+
+</div>
+
+</div>
+
+## Togo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Vital Togo electronic birth and death notification</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo : e-Vital, un projet pour moderniser l’enregistrement des naissances et des décès](https://togoscoop.tg/togo-e-vita-un-projet-pour-moderniser-lenregistrement-des-naissances-et-des-deces/)** — Togo Scoop Info, 5 November 2026
+
+Officials met in Lomé on 5 and 6 November 2026 to validate the tools of the e-Vital project. Health facilities will record births and deaths and send them electronically to civil-status offices. The pilot covers four communes, funded by Vital Strategies for one year.
 
 </div>
 

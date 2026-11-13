@@ -4,7 +4,7 @@ compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: dpi.pay
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 67359fb73814
+record: 3f0ff5c569c1
 ---
 
 # News, Oct – Nov 2026
@@ -530,6 +530,20 @@ DeltaPay has gone live on the Eswatini Payment Switch, the Central Bank of Eswat
 **[ShareSha users can send money to any mobile number](https://times.co.sz/47252/news/sharesha-users-can-send-money-to-any-mobile-number/)** — Times of Eswatini, 27 October 2026
 
 Eswatini Bank trained agents and residents in Nhlangano, Shiselweni, on its ShareSha digital wallet. The wallet lets users send money to any mobile number, including recipients not registered on the platform. Sign-up is by national ID, through the app, USSD or a branch, and no bank account is needed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mandatory electronic filing of tax returns</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ERS targets multiple-income earners ahead of deadline](https://swazidailynews.com/11962/business/ers-targets-multiple-income-earners-ahead-of-deadline/)** — Eswatini Daily News, 10 November 2026
+
+The Eswatini Revenue Service says people with several sources of income must file 2025/26 returns by 30 November 2026. Single-income employees taxed through PAYE generally need not file. Returns go through eFiling, and tax can be paid by mobile money.
 
 </div>
 
@@ -1070,6 +1084,20 @@ The Governor of the Bank of Mauritius, Priscilla Muthoora Thakoor, told a Financ
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">National Payment Systems (Authorisation and Licensing) Regulations 2021, amended 2024</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[List of Licensees](https://www.bom.mu/payment-systems/licensing/list-licensees)** — Bank of Mauritius, 15 October 2026
+
+The Bank of Mauritius lists six payment service licensees. They include CIM Financial Services, Emtel MFS, Cellplus Mobile Communications, EZ Dash and NanoSAIO. Their licences, issued from November 2021 to September 2025, cover payment initiation, transfers and acquiring.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Cashless Electronic Ticketing System (buses)</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1236,6 +1264,20 @@ The governor of Banco de Moçambique said on 28 October 2026 that the METIX inst
 **[Guichet Unique Automobile: SONILOGA ouvre le paiement de ses prestations à Airtel Money](https://www.actuniger.com/societe/22417-guichet-unique-automobile-soniloga-ouvre-le-paiement-de-ses-prestations-a-airtel-money)** — ActuNiger, 2 October 2026
 
 The operator of Niger's vehicle one-stop shop began accepting Airtel Money for some of its services on 1 October, through an app or an offline USSD code. The transport ministry presented it as a way to trace public revenue.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PI-SPI interoperable instant payment platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[COMMUNIQUÉ | iMoney est désormais connecté à PI-SPI BCEAO](https://fr.linkedin.com/posts/i-futur_imoney-ifutur-pispi-activity-7524048900295450625-CH76)** — iFUTUR, 5 November 2026
+
+iFUTUR announced that its iMoney services have been connected to the BCEAO instant payment platform PI-SPI since 2 November 2026. Users of the iMoney Finance app can send money to bank accounts and mobile money wallets in Niger and across the eight UEMOA countries. Person-to-person transfers carry no fee, and users create an alias in the app.
 
 </div>
 
@@ -1918,6 +1960,20 @@ BCEAO said on 5 November 2026 that its PI-SPI instant payment platform had proce
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile money interoperability</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Catherine Savery (DG de Mixx Togo) : « Dans cinq ans, Mixx sera une super-app, la référence des services financiers au Togo »](https://www.togofirst.com/fr/finance/0911-20585-catherine-savery-dg-de-mixx-togo-dans-cinq-ans-mixx-sera-une-super-app-la-reference-des-services-financiers-au-togo)** — Togo First, 9 November 2026
+
+Mixx Togo had 3.12 million accounts at the end of June 2026, 56% of the mobile money market. Since 2 November 2026 interoperable transfers in Togo run through the BCEAO's PI-SPI. They are free to senders up to CFAF 8,000 a day. Mixx is now a licensed e-money issuer.
+
+</div>
+
+</div>
+
 ## Tunisia
 
 <div class="monthly-story" markdown="1">
@@ -1965,6 +2021,20 @@ Central Bank of Tunisia data show 18 million online payments worth TND 1.229bn i
 </div>
 
 ## Uganda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment Switch</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Can Uganda’s National Payment Switch Bring Down Digital Transaction Costs?](https://www.ceo.co.ug/can-ugandas-national-payment-switch-bring-down-digital-transaction-costs/)** — CEO East Africa, 31 October 2026
+
+CEO East Africa asks whether the Bank of Uganda's planned National Payment Switch can cut transaction costs. A UGX100,000 transfer from a bank to a wallet and out at an agent costs UGX5,070 today. The central bank's 2025/26 report calls the switch a project still under consultation.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

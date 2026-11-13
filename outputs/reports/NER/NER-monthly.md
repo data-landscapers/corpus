@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: NER
 ledger_rows: 12
 not_held: 1
-record: 132013d5289a
+record: 5b59eccd7c27
 ---
 
 # News, Oct – Nov 2026
@@ -202,7 +202,7 @@ The operator of Niger's vehicle one-stop shop began accepting Airtel Money for s
 
 **[COMMUNIQUÉ | iMoney est désormais connecté à PI-SPI BCEAO](https://fr.linkedin.com/posts/i-futur_imoney-ifutur-pispi-activity-7524048900295450625-CH76)** — iFUTUR, 5 November 2026
 
-Niger wallet live on BCEAO instant payments from 2 November 2026; free P2P to banks and wallets across UEMOA.
+iFUTUR announced that its iMoney services have been connected to the BCEAO instant payment platform PI-SPI since 2 November 2026. Users of the iMoney Finance app can send money to bank accounts and mobile money wallets in Niger and across the eight UEMOA countries. Person-to-person transfers carry no fee, and users create an alias in the app.
 
 </div>
 

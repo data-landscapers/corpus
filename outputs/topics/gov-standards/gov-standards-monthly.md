@@ -3,8 +3,8 @@ title: Standards — News, October – November 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 subject: gov.standards
-places: DZA; BEN; BFA; BDI; CMR; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; ZAF; SDN; ZMB
-record: d5d549c9d8a0
+places: DZA; BEN; BFA; BDI; CMR; COM; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; ZAF; SDN; UGA; ZMB
+record: bef995bf307e
 ---
 
 # News, Oct – Nov 2026
@@ -19,6 +19,8 @@ record: d5d549c9d8a0
 <a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -47,6 +49,8 @@ record: d5d549c9d8a0
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sudan">Sudan</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#uganda">Uganda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
 </nav>
@@ -140,6 +144,22 @@ ISO lists Cameroon's Agence des Normes et de la Qualité (ANOR) as a member body
 **[Agence de Régulation des Télécommunications, Communiqué n° 0000166/ART/DG du 10 novembre 2026 (contrôle pluridisciplinaire des opérateurs CAMTEL, MTN Cameroon et Orange Cameroun)](https://art.cm/sites/default/files/documents/COMMUNIQUE%20ART%2010%20NOV%202026.pdf)** — Agence de Régulation des Télécommunications (ART), Cameroun, 10 November 2026
 
 Cameroon's regulator ART reported on 10 November 2026 on its quality-of-service control of 13 July to 10 August 2026. It found 93 breaches of licence obligations: 41 for CAMTEL, valued at FCFA 8.2 billion, 29 for Orange Cameroun at FCFA 5.8 billion and 23 for MTN Cameroon at FCFA 4.6 billion. Each operator received a 15-day formal notice. An audit of CAMTEL's national fibre network found significant degradation.
+
+</div>
+
+</div>
+
+## Comoros
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft law on quality</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Office national de la normalisation I Un projet de loi sur la qualité en voie de validation](https://alwatwan.net/societe/office-national-de-la-normalisation-i-un-projet-de-loi-sur-la-qualit%C3%A9-en-voie-de-validation.html)** — Al-watwan, 30 October 2026
+
+On 29 October 2026 the Comoros standards and metrology office held a validation workshop in Moroni on a draft quality law. The Minister of Economy said the text should go to parliament in coming sessions. He noted a presidential decree setting up the national standards institution and the country's entry to the World Trade Organization.
 
 </div>
 
@@ -516,6 +536,22 @@ Sudan News Agency reported on 2 October 2026 that the Sudanese Standards and Met
 **[ISO - SSMO - Sudanese Standards and Metrology Organization](https://www.iso.org/member/2078.html)** — International Organization for Standardization, 9 November 2026
 
 The ISO membership page, on file under 9 November 2026, lists the Sudanese Standards and Metrology Organization as a member body. It describes a government body set up in 1993, with headquarters in Khartoum, state offices and 15 laboratories, and lists its memberships of regional and international standards bodies. The page carries no date of its own.
+
+</div>
+
+</div>
+
+## Uganda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ISO/IEC 27001 certification of government institutions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITA-U's UDAP Project Supports Financial Intelligence Authority Towards ISO/IEC 27001:2022 Certification](https://www.nita.go.ug/news-updates/nita-us-udap-project-supports-financial-intelligence-authority-towards-isoiec)** — National Information Technology Authority - Uganda (NITA-U), 27 October 2026
+
+On 27 October 2026 NITA-U handed the Financial Intelligence Authority its ISO/IEC 27001:2022 information security certification. The work falls under the World Bank-funded ISMS Implementation Project of the Uganda Digital Acceleration Project. The Minister of Finance urged other government bodies to follow.
 
 </div>
 

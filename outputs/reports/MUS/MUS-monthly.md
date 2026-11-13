@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-13
 place: MUS
 ledger_rows: 39
 not_held: 7
-record: afad05cdda80
+record: 780953580051
 ---
 
 # News, Oct – Nov 2026
@@ -406,7 +406,7 @@ The Governor of the Bank of Mauritius, Priscilla Muthoora Thakoor, told a Financ
 
 **[List of Licensees](https://www.bom.mu/payment-systems/licensing/list-licensees)** — Bank of Mauritius, 15 October 2026
 
-Six PSP licences, November 2021 to September 2025: CIM, Emtel MFS, Cellplus, EZ Dash, NanoSAIO and one unnamed.
+The Bank of Mauritius lists six payment service licensees. They include CIM Financial Services, Emtel MFS, Cellplus Mobile Communications, EZ Dash and NanoSAIO. Their licences, issued from November 2021 to September 2025, cover payment initiation, transfers and acquiring.
 
 </div>
 
