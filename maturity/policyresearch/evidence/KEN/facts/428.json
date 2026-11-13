@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-ken-east-african-ai-policy-hub",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "CIPIT at Strathmore University runs the East African AI Policy Hub, a project on AI policy and data governance research that held its first regional forum in Kigali on 28-29 May 2026.",
+   "as_of": "2026-05-28",
+   "date_precision": "day",
+   "system": "East African AI Policy Hub (CIPIT)",
+   "class": "research"
+  },
+  {
+   "sub_indicator": "research",
+   "aspect": "policy",
+   "value": "contributed",
+   "fact": "CIPIT says it contributed to Kenya's National AI Strategy process and has worked with the Kenyan Judiciary on an AI Adoption Policy Framework.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "East African AI Policy Hub (CIPIT)",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
