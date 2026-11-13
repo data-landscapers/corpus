@@ -6,7 +6,7 @@
 
 **Delivered.** [On 26 June 2025 the employment ministry received a job site for job-seekers with disabilities](<https://www.emploi.gouv.ci/uploads/publications/17509697364.pdf>). [It also received multimedia rooms at the School for the Deaf and a university, and a pupils' YouTube channel](<https://www.emploi.gouv.ci/uploads/publications/17509697364.pdf>). [The MTN Foundation built them under a convention with the ministry](<https://www.emploi.gouv.ci/uploads/publications/17509697364.pdf>).
 
-**Audited.** No source found since October 2023 gives the results of an accessibility audit of public websites or digital services. The nearest held fact: [the one given above](<https://www.emploi.gouv.ci/uploads/publications/17509697364.pdf>).
+**Audited.** No source found since October 2023 gives the results of an accessibility audit of public websites or digital services. The nearest fact: [on 26 June 2025 the ministry received a job-matching website for job-seekers with disabilities](<https://www.emploi.gouv.ci/uploads/publications/17509697364.pdf>).
 
 ***Also on file***. None found.
 

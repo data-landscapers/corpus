@@ -2,7 +2,7 @@
 
 ## Startup law and funding
 
-**Law or strategy.** [In November 2022, before the three-year window, Trade and Industry Minister Mmusi Kgafela told Parliament that a Start-Up Act was under development](<https://dailynews.gov.bw/news-detail/70471>). [He said the Act would pave the way for a start-up visa](<https://dailynews.gov.bw/news-detail/70471>). A later answer places the country above that step.
+**Law or strategy.** [In November 2022 Trade and Industry Minister Mmusi Kgafela told Parliament that a Start-Up Act was under development](<https://dailynews.gov.bw/news-detail/70471>). [He said the Act would pave the way for a start-up visa](<https://dailynews.gov.bw/news-detail/70471>). A later answer places the country above that step.
 
 **Labelling.** No source found since October 2023 says startups are labelled or registered under a startup law or strategy. The nearest held fact: [by February 2025 the Botswana Innovation Fund had financed a startup](<https://dailynews.gov.bw/news-detail/84714>).
 

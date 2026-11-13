@@ -6,7 +6,7 @@
 
 **Main registers.** [In September 2026 the government spokesman said the ID number was used for taxpayer registration](<https://www.jamhurimedia.co.tz/nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako/>), TASAF social services and business registration. [NIDA names the same three](<https://nida.go.tz/uploads/speeches/20260911123900_doc.pdf>): tax numbers, TASAF beneficiary checks and business registration by BRELA. In March 2025 the electoral commission said [voter registration retrieves each person's details from the NIDA database by ID number](<https://thechanzo.com/2025/08/24/tanzanias-inec-faces-integrity-questions-amid-contradictions-on-voter-data-integration/>).
 
-**Matching reported.** No source found since October 2023 gives a figure from checking a register against the ID. The nearest held fact: [the one given above](<https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047>).
+**Matching reported.** No source found since October 2023 gives a figure from checking a register against the ID. The nearest fact: [in September 2026 NIDA planned to connect the taxpayer identification number to the national ID](<https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047>).
 
 ***Also on file***. [Jamii Namba](<https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047>); [NIDA National Identification Number](<https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905>); [NIDA national ID](<https://dailynews.co.tz/nida-mulls-child-registration/>).
 

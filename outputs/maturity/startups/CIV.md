@@ -6,7 +6,7 @@
 
 **Labelling.** [On 4 November 2026 the government named 14 start-ups and 18 small firms for 24 months of state support under the Act](<https://www.aip.ci/cote-divoire-aip-le-ministre-djibril-ouattara-annonce-24-mois-daccompagnement-de-letat-pour-32-entreprises-du-secteur-du-numerique/>). [They were chosen under its Ivoire Tech Next 15 and Ivoire Tech Scale Up programmes](<https://www.aip.ci/cote-divoire-aip-le-ministre-djibril-ouattara-annonce-24-mois-daccompagnement-de-letat-pour-32-entreprises-du-secteur-du-numerique/>). [The Act's Digital Startup label is awarded by a national labelling committee](<https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-calls-for-178m-fund-to-boost-tech-startups>). [A 'levelisation' process gives certified startups access to public contracts, Diallo says](<https://techcabal.com/2025/07/01/cote-divoire-cyber-africa-forum/>).
 
-**Funded.** No source found since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the one given above](<https://techcabal.com/2025/07/01/cote-divoire-cyber-africa-forum/>).
+**Funded.** No source found since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest fact: [in July 2025 certified startups gained access to public contracts through a 'levelisation' process](<https://techcabal.com/2025/07/01/cote-divoire-cyber-africa-forum/>).
 
 ***Also on file***. None found.
 

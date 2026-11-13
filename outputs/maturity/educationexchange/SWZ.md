@@ -2,9 +2,9 @@
 
 ## Interoperability of education systems
 
-**Education systems exchanging data.** No source found says education systems exchanging data is under way or in service. The nearest held fact: [The DHIS2 for Education profile for Eswatini is subtitled 'Aggregate and individual EMIS data connected to national identity', and describes the EMIS (aggregate) and SEMIS App (individual learner and staff data, PIN-based) as national in scale since a 2020 pilot](<https://education.dhis2.org/implementation/eswatini/>). A later answer places the country above that step.
+**Education systems exchanging data.** No source found says education systems exchanging data is under way or in service. The nearest fact: [in 2024 the DHIS2 for Education profile described Eswatini's EMIS data as connected to national identity](<https://education.dhis2.org/implementation/eswatini/>). [The SEMIS App holds individual learner and staff data by PIN and has been national in scale since a 2020 pilot](<https://education.dhis2.org/implementation/eswatini/>). A later answer places the country above that step.
 
-**One learner identifier across education systems.** No source found since October 2023 says one learner identifier is used across education systems. The nearest held fact: [the one given above](<https://education.dhis2.org/implementation/eswatini/>).
+**One learner identifier across education systems.** No source found since October 2023 says one learner identifier is used across education systems. The nearest fact: [in 2024 the SEMIS App recorded learners by PIN](<https://education.dhis2.org/implementation/eswatini/>).
 
 **Linked to the national ID or another sector.** [The DHIS2 for Education profile for Eswatini is subtitled 'Aggregate and individual EMIS data connected to national identity', and describes the EMIS (aggregate) and SEMIS App (individual learner and staff data, PIN-based) as national in scale since a 2020 pilot](<https://education.dhis2.org/implementation/eswatini/>).
 

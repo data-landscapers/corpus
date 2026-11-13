@@ -6,7 +6,7 @@
 
 **Paid electronically.** [The World Bank states that investments in CORE-MIS and digital payments enable delivery of Merankabandi assistance nationwide](<https://www.worldbank.org/en/results/2026/05/01/building-burundi-s-national-social-protection-systems-to-deliver-jobs-and-respond-to-crises>). [OpenIMIS states that Burundi's multiple payment providers are integrated with the Merankabandi system for automated payments and reconciliation](<https://openimis.org/blog/burundis-growing-social-protection-system-now-runs-openimis>).
 
-**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://www.worldbank.org/en/results/2026/05/01/building-burundi-s-national-social-protection-systems-to-deliver-jobs-and-respond-to-crises>).
+**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest fact: [in May 2026 the World Bank said CORE-MIS supports the Merankabandi programme nationwide](<https://www.worldbank.org/en/results/2026/05/01/building-burundi-s-national-social-protection-systems-to-deliver-jobs-and-respond-to-crises>).
 
 ***Also on file***. [Unified Social Registry](<https://openimis.org/blog/burundis-growing-social-protection-system-now-runs-openimis>); [Registre social unique (RSU)](<https://lerenouveau.bi/projet-merankabandi-ii-bilan-a-mis-parcours/>).
 

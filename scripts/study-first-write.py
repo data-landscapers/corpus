@@ -544,7 +544,7 @@ def sentences(rows: list[dict], first: list[str], room: int) -> list[str]:
             continue
         seen.add(s)
         if (r["as_of"] + "-12")[:7] < SINCE:   # a year stands for its last month, as the ladder reads it
-            s += f" ({r['as_of'][:4]}, before the three-year window)"
+            s = study_lib.dated(s, r["as_of"])   # its date in the sentence, no tag about the window (housekeeping 72)
         out.append(link(r["url"], s) + ".")
         n += len(s.split())
     return out
@@ -587,16 +587,12 @@ def write(study: dict, iso: str, country: str, dry: bool) -> str:
                 used = True
             if not body:
                 lead = empties[k - 1] if k else f"No source found says {thing} is under way or in service."
-                near = link(top["url"], clean(top["fact"])) if not used else link(top["url"], "the one given above")
+                near = link(top["url"], clean(top["fact"]) if not used else study_lib.part(clean(top["fact"])))
                 body = [f"{lead} The nearest held fact: {near}."]
                 used = True
             if k == 0 and int(cell["stage"]) >= 4 and not any(r["value"] == ladder.firsts(study)[0] for r in mine):
                 body.append("A later answer places the country above that step.")   # method §3.3
             parts += [f"**{a['name']}.** " + " ".join(body), ""]
-        words = len(re.sub(r"\(<[^>]*>\)", "", " ".join(parts[4:])).split())
-        if words < 120:   # few facts: an empty aspect states its nearest fact in full, as the brief asks
-            again = link(top["url"], "the one given above")
-            parts = [p.replace(again, link(top["url"], clean(top["fact"]))) for p in parts]
         # Housekeeping 65: never pad with a sentence about the study's own holdings or reading
         # ("N facts are held on the subject", "This is a first pass"); a page still under the
         # brief's floor is a lint-study finding for the deep dive, not a cue to narrate.

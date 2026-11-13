@@ -6,7 +6,7 @@
 
 **Across government.** In May 2022 [the Commission's chair said complainants could lodge complaints against any public entity through its system, from anywhere in the country](<https://www.kenyanews.go.ke/office-of-the-ombudsman-launches-cmis/>). Nothing found since October 2023 shows a channel reaching most ministries or local governments.
 
-**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://www.kenyanews.go.ke/ombudsman-set-to-revamp-complaints-filing-system/>).
+**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest fact: [in November 2023 the PASHA Ombudsman app for complaints about public services was still being developed](<https://www.kenyanews.go.ke/ombudsman-set-to-revamp-complaints-filing-system/>).
 
 ***Also on file***. None found.
 

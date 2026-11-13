@@ -2,7 +2,7 @@
 
 ## National cyber response
 
-**A strategy or a national body.** [The MICSTI Acting Principal Secretary said the government had designated the Lesotho Communications Authority as the agency for the national Computer Security Incident Response Team (CSIRT), ahead of the Cybersecurity Bill 2026](<https://lestimes.com/?p=91666>). [The Oxford GCSCC/C3SA capacity review, final version dated 31 March 2023, states Lesotho has no official National Cybersecurity Strategy and no national CSIRT (2023, before the three-year window)](<https://cybilportal.org/wp-content/uploads/2023/05/Lesotho-CMM-Report-2022-vFinal_31032023.pdf>).
+**A strategy or a national body.** [By September 2026 the government had designated the Lesotho Communications Authority to host the national CSIRT](<https://lestimes.com/?p=91666>). [This came ahead of the Cybersecurity Bill 2026](<https://lestimes.com/?p=91666>). [In March 2023 an Oxford capacity review found Lesotho had no national cybersecurity strategy and no national CSIRT](<https://cybilportal.org/wp-content/uploads/2023/05/Lesotho-CMM-Report-2022-vFinal_31032023.pdf>).
 
 **Responding to incidents.** No source found says the national body handled an incident or issued a public alert since October 2023, so no response to an attack is on record; the stage rests on [the source that sets it](<https://lestimes.com/?p=91666>).
 

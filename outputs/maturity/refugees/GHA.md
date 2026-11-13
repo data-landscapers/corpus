@@ -6,7 +6,7 @@
 
 **Digital services.** The authority's 2026 fee schedule [lists first-time registration, renewal and replacement of the national ID card for refugees](<https://nia.gov.gh/fees-and-charges-2026/>). The fee is the cedi equivalent of USD15 a person. A records update alone is free.
 
-**Inclusion counted.** No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID. The nearest held fact: [the one given above](<https://nia.gov.gh/fees-and-charges-2026/>).
+**Inclusion counted.** No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID. The nearest fact: [in January 2026 refugees could get a national ID card for USD15](<https://nia.gov.gh/fees-and-charges-2026/>).
 
 ***Also on file***. [Foreigner Identification Management System (FIMS)](<https://nia.gov.gh/fees-and-charges-2026/>).
 

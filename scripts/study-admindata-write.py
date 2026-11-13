@@ -96,9 +96,9 @@ def sentences(rows: list[dict], first: list[str], room: int) -> list[str]:
         if s in seen or (out and n + len(s.split()) > room):
             continue
         seen.add(s)
-        since, span = WINDOW
+        since = WINDOW[0]
         if (r["as_of"] + "-12")[:7] < since:   # a year stands for its last month, as the ladder reads it
-            s += f" ({r['as_of'][:4]}, before the {span}-year window)"   # so the reader sees why it does not count
+            s = study_lib.dated(s, r["as_of"])   # its date in the sentence, no tag about the window (housekeeping 72)
         out.append(link(r["url"], s) + ".")
         n += len(s.split())
     return out
@@ -137,9 +137,9 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
             k = a["key"]
             mine = [r for r in rows if r["aspect"] == k]
             body = sentences(mine, [i for i in src if i in {r["row_id"] for r in mine}], ROOM[k])
-            if not body:   # the nearest held fact is linked once; a second empty aspect points back to it
-                body = [EMPTY[k].format(l=anchor if not used else link(top["url"], "the one given above"))]
-            used = used or f"(<{top['url']}>)" in " ".join(body)   # linked once; later empty aspects point back
+            if not body:   # the nearest held fact is given whole once; a later empty aspect names its first part (housekeeping 72)
+                body = [EMPTY[k].format(l=anchor if not used else link(top["url"], study_lib.part(clean(top["fact"]))))]
+            used = used or f"(<{top['url']}>)" in " ".join(body)   # given whole once; later empty aspects name its first part
             if k == "use" and len(rows) <= 5:   # few facts held: say so, as the statistics law study did
                 body.append(("It is the only fact" if len(rows) == 1 else f"{['', '', 'Two', 'Three', 'Four', 'Five'][len(rows)]} facts are")
                             + " held on the country's statistics from administrative records" + ("" if len(rows) == 1 else ", all given here")

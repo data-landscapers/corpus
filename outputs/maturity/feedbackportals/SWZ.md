@@ -6,7 +6,7 @@
 
 **Across government.** BIKA, run by the National Road Transport Council, covers [reports on public and freight transport](<https://eswatinipositivenews.online/govt-rolls-out-bika-platform-to-combat-corruption-abuse-on-public-transport-in-real-time/>) only. Nothing found since October 2023 shows a channel reaching most ministries or local governments.
 
-**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://eswatinipositivenews.online/govt-rolls-out-bika-platform-to-combat-corruption-abuse-on-public-transport-in-real-time/>).
+**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest fact: [from September 2026 BIKA tracks each transport report by a reference ID](<https://eswatinipositivenews.online/govt-rolls-out-bika-platform-to-combat-corruption-abuse-on-public-transport-in-real-time/>).
 
 ***Also on file***. None found.
 

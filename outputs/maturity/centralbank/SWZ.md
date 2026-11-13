@@ -6,7 +6,7 @@
 
 **Overseeing a switch.** [The Central Bank of Eswatini says its Eswatini Payment Switch is fully active](<https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/>). It connects banks and mobile money providers in real time, at all hours, as of September 2026. [The bank describes the switch as its payments infrastructure](<https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/>), carrying payments across account types and wallets.
 
-**Live on PAPSS.** No source found since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/>).
+**Live on PAPSS.** No source found since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest fact: [in September 2026 the Eswatini Payment Switch connected banks and mobile money providers in real time](<https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/>).
 
 ***Also on file***. [MTN Fintech Limited](<https://www.centralbank.org.sz/national-payment-systems/>); [E-Mali (Pty) Ltd](<https://www.centralbank.org.sz/national-payment-systems/>); [Instacash Services](<https://www.centralbank.org.sz/national-payment-systems/>); [Shoprite mobile Money Services](<https://www.centralbank.org.sz/national-payment-systems/>); [DeltaPay](<https://www.centralbank.org.sz/national-payment-systems/>); [SAECH](<https://www.centralbank.org.sz/national-payment-systems/>).
 

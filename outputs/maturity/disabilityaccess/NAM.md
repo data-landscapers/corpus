@@ -6,7 +6,7 @@
 
 **Delivered.** No delivery of accessible digital services or assistive technology by a government body has been found since October 2023. [The nearest held fact is Paradigm Initiative's 2023 report](<https://paradigmhq.org/wp-content/uploads/2024/06/Namibia-Country-Report.pdf>). [It found no detail on digital inclusion of persons with disabilities beyond a vague reference in the 2019 Broadband Policy](<https://paradigmhq.org/wp-content/uploads/2024/06/Namibia-Country-Report.pdf>).
 
-**Audited.** [The chapter reports testing selected Namibian government websites with Lighthouse, WAVE, the W3C validator, ChromeVox and an alt-text tester, finding the automatic tools gave varied and inconclusive results (2021, before the three-year window)](<https://www.springerprofessional.de/an-investigation-of-e-government-web-accessibility-for-visually-/19702690>).
+**Audited.** [In 2021 researchers tested selected government websites with Lighthouse, WAVE, the W3C validator, ChromeVox and an alt-text tester](<https://www.springerprofessional.de/an-investigation-of-e-government-web-accessibility-for-visually-/19702690>). [The automatic tools gave varied and inconclusive results](<https://www.springerprofessional.de/an-investigation-of-e-government-web-accessibility-for-visually-/19702690>).
 
 ***Also on file***. None found.
 

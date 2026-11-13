@@ -130,8 +130,8 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
             k = a["key"]
             mine = [r for r in rows if r["aspect"] == k]
             body = sentences(mine, [i for i in src if i in {r["row_id"] for r in mine}], ROOM[k])
-            if not body:   # the nearest held fact is linked once; a second empty aspect points back to it
-                body = [EMPTY[k].format(l=anchor if not used else link(top["url"], "the one given above"))]
+            if not body:   # the nearest held fact is given whole once; a later empty aspect names its first part (housekeeping 72)
+                body = [EMPTY[k].format(l=anchor if not used else link(top["url"], study_lib.part(clean(top["fact"]))))]
                 used = True
                 named = list(dict.fromkeys(link(urls[x["sources"].split(";")[0]], x["system"].strip()) for x in systems
                                            if x["class"] == "survey" and x["system"].strip()

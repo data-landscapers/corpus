@@ -6,7 +6,7 @@
 
 **Online filing.** Since 16 February 2026, [three filings at the Cotonou Commercial Court are made online only](<https://lamarina.bj/2026/02/13/benin-trois-nouveaux-e-services-desormais-operationnels-au-tribunal-de-commerce-de-cotonou/>), with fees paid online. Copies of rulings were to follow from 1 March 2026. The court has run [an online platform for lawyers and bailiffs since 2021](<http://news.acotonou.com/h/133135.html>).
 
-**Open online.** In 2021 [the Cotonou commercial court platform let the public check a case's status](<http://news.acotonou.com/h/133135.html>) and download decisions. That is the only source on it, and it falls before the three-year window.
+**Open online.** In March 2021 [the Cotonou commercial court platform let the public check a case's status](<http://news.acotonou.com/h/133135.html>) and download decisions. No later source says more.
 
 ***Also on file***. None found.
 

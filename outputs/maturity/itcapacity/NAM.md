@@ -4,7 +4,7 @@
 
 **Government staff.** [The Electoral Commission said in June 2024 that its voter registration system is managed under its own IT policies](<https://omutumwa.com/2024/06/ecn-explains-slow-start-of-mobile-voter-registration-system/>). A fully-fledged IT Division is entrusted with its IT systems. [The Ministry of Finance, through the Central Procurement Board, sought consultant firms to support, maintain and develop the Integrated Financial Management System](<https://cpbn.com.na/index/bid/78>). The work was to run for five years. Expressions of interest closed on 30 July 2025.
 
-**A technology body for government.** The Office of the Prime Minister's IT sub-division [lists ministries, agencies, state companies and councils as clients of its ICT services](<https://mwt.gov.na/documents/1150081/1182489/Charter+OPM_IT_+Brochure+%281%29.pdf/977e85e9-658a-7dea-2969-3ef3797ded13?t=1663746256094>). The brochure is from 2022, before the three-year window.
+**A technology body for government.** [In 2022 the Office of the Prime Minister's IT sub-division served ministries, agencies, state companies and councils](<https://mwt.gov.na/documents/1150081/1182489/Charter+OPM_IT_+Brochure+%281%29.pdf/977e85e9-658a-7dea-2969-3ef3797ded13?t=1663746256094>).
 
 **Built in-house.** On 17 November 2025 the Namibia Revenue Agency [launched Onyofi, a customer service system its own developer built](<https://namibiabusinessreview.com/revenue-agency-launches-customer-service-system/>). It had 1,443 registered officials and 11 service points. [The Electoral Commission's voter registration system was upgraded through public procurement](<https://omutumwa.com/2024/06/ecn-explains-slow-start-of-mobile-voter-registration-system/>) ahead of 2024 registration.
 

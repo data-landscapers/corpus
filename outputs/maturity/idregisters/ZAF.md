@@ -6,7 +6,7 @@
 
 **Main registers.** In September 2025 National Treasury said [it was cross-checking the PERSAL civil service payroll with tax and population data](<https://www.itweb.co.za/article/national-treasury-deploys-tech-to-terminate-ghost-workers/GxwQDM1DWXR7lPVo>). It had no final results. In November 2025 Home Affairs said [its biometric check of public servants against the population and payroll databases was still under way](<https://pmg.org.za/committee-question/34202/>).
 
-**Matching reported.** No source found since October 2023 gives a figure from checking a register against the ID. The nearest held fact: [the one given above](<https://www.gov.za/news/media-statements/home-affairs-builds-digital-verification-platform-national-treasury-combat>).
+**Matching reported.** No source found since October 2023 gives a figure from checking a register against the ID. The nearest fact: [from 15 June 2026 a Home Affairs portal checks government payroll records against the population register in real time](<https://www.gov.za/news/media-statements/home-affairs-builds-digital-verification-platform-national-treasury-combat>).
 
 ***Also on file***. [population register](<https://www.gov.za/news/media-statements/home-affairs-builds-digital-verification-platform-national-treasury-combat>).
 

@@ -2,7 +2,7 @@
 
 ## In-house capacity
 
-**Government staff.** The state ICT agency ANPTIC lists [the government systems it has developed](<https://anptic.gov.bf/nos-realisations/>). They include Bondoo, Tawale, Toumnana (SIGED), SIGEPE, a helpdesk and e-conseil des ministres. The page is undated. [From 2007 a government engineer led the upkeep of RESINA, the national administration network](<https://lefaso.net/spip.php?article148338>), which is before the three-year window.
+**Government staff.** The state ICT agency ANPTIC lists [the government systems it has developed](<https://anptic.gov.bf/nos-realisations/>). They include Bondoo, Tawale, Toumnana (SIGED), SIGEPE, a helpdesk and e-conseil des ministres. The page is undated. [From 2007 a government engineer led the upkeep of RESINA, the national administration network](<https://lefaso.net/spip.php?article148338>).
 
 **A technology body for government.** ANPTIC [helped design the ANAGRASC claims-registration platform](<https://burkina24.com/2026/09/03/burkina-faso-lancement-dune-plateforme-pour-le-recensement-du-passif-de-trois-societes-immobilieres/>), launched on 3 September 2026. [As ANPTIC's director of operations, one official oversaw RESINA and the administration's messaging platforms](<https://lefaso.net/spip.php?article148508=>).
 

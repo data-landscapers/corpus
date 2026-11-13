@@ -6,7 +6,7 @@
 
 **Across government.** [In 2021 the Citizen Service Centre referred each complaint to the delegate of the ministry concerned](<https://csc.gov.ly/en/home/>). Most first-day requests concerned finance and health.
 
-**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://alwasat.ly/news/libya/513847>).
+**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest fact: [the agriculture ministry's platform, launched on 7 April 2026, follows up action taken on complaints](<https://alwasat.ly/news/libya/513847>).
 
 ***Also on file***. None found.
 

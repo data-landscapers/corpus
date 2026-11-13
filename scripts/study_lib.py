@@ -267,6 +267,38 @@ def months_back(day: dt.date, months: int) -> dt.date:
 
 
 # --------------------------------------------------------------------------- #
+# Page sentences (housekeeping 72)
+# --------------------------------------------------------------------------- #
+# A page describes the country, never its own evidence or method: an old fact carries its
+# date in the sentence, not a tag about the window, and an empty aspect names a part of the
+# nearest fact rather than pointing back at "the one given above".
+
+_MONTHS = ("January February March April May June July August September October November December").split()
+_LOWER = {"the", "a", "an", "this", "these", "that", "those", "its", "their", "some", "all", "over",
+          "more", "about", "each", "every", "most", "several", "both", "no", "one", "two", "three"}
+
+
+def dated(sentence: str, as_of: str) -> str:
+    """`sentence` with its date in it: *In 2021 the agency …*. Left alone if it already names the year."""
+    year = as_of[:4]
+    if not year.isdigit() or year in sentence:
+        return sentence
+    when = year
+    if len(as_of) >= 7 and as_of[5:7].isdigit() and 1 <= int(as_of[5:7]) <= 12:
+        when = f"{_MONTHS[int(as_of[5:7]) - 1]} {year}"
+    first = sentence.split(" ", 1)[0]
+    if first.lower() in _LOWER and first[:1].isupper() and first[1:].islower() or first in ("A", "An"):
+        sentence = sentence[:1].lower() + sentence[1:]
+    return f"In {when} {sentence}"
+
+
+def part(fact: str) -> str:
+    """The first sentence of a cleaned fact (parts joined by `; `), for an empty aspect that
+    restates the nearest fact already given whole on the page."""
+    return fact.split("; ", 1)[0]
+
+
+# --------------------------------------------------------------------------- #
 # Files
 # --------------------------------------------------------------------------- #
 

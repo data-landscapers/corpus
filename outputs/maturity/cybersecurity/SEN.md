@@ -2,7 +2,7 @@
 
 ## National cyber response
 
-**A strategy or a national body.** [The Direction générale du chiffre et de la sécurité des systèmes d'information (DCSSI) is stated to co-organise the second cybersecurity providers forum and to set the course and norms for cybersecurity](<https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/>). [The state digital operator's page says its cybersecurity actions follow the national cybersecurity strategy (SNC2022) (2022, before the three-year window)](<https://www.adie.sn/expertise/s%C3%A9curit%C3%A9>).
+**A strategy or a national body.** [The DCSSI sets the course and norms for cybersecurity](<https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/>). [In October 2026 it co-organised the second cybersecurity providers forum](<https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/>). [In 2022 the state digital operator said its cybersecurity work followed the national strategy, SNC2022](<https://www.adie.sn/expertise/s%C3%A9curit%C3%A9>).
 
 **Responding to incidents.** No source found says the national body handled an incident or issued a public alert since October 2023, so no response to an attack is on record; the stage rests on [the source that sets it](<https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/>).
 

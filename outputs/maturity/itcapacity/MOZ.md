@@ -2,11 +2,11 @@
 
 ## In-house capacity
 
-**Government staff.** [INTIC says the SCDM digital signature system is implemented and managed by Mozambican professionals, cutting dependence on external consultants](<https://intic.gov.mz/sistema-de-certificacao-digital-mocambique-registou-crescimento-na-adesao-de-assinaturas-electronicas-em-2024/>). [INAGE, Mozambique's national e-government institute, states it developed the CloudGov file storage and sharing system for use across public administration institutions (2020, before the three-year window)](<https://www.inage.gov.mz/?p=2697>).
+**Government staff.** [INTIC says Mozambican professionals implement and manage the SCDM digital signature system](<https://intic.gov.mz/sistema-de-certificacao-digital-mocambique-registou-crescimento-na-adesao-de-assinaturas-electronicas-em-2024/>). [This cuts dependence on external consultants](<https://intic.gov.mz/sistema-de-certificacao-digital-mocambique-registou-crescimento-na-adesao-de-assinaturas-electronicas-em-2024/>). [In August 2020 INAGE, the national e-government institute, said it had developed CloudGov](<https://www.inage.gov.mz/?p=2697>). [CloudGov is a file storage and sharing system for public institutions](<https://www.inage.gov.mz/?p=2697>).
 
 **A technology body for government.** [INAGE's service catalogue, retrieved 2026-08-08, lists server rental, application hosting, application development and government network connection (GovNET, MoRENet) as services for public bodies](<https://www.inage.gov.mz/?p=2697>). [INTIC offers the SCDM signature service free to government, and more than 10 public institutions use it](<https://intic.gov.mz/sistema-de-certificacao-digital-mocambique-registou-crescimento-na-adesao-de-assinaturas-electronicas-em-2024/>).
 
-**Built in-house.** [INAGE states it recently developed CloudGov and that it is in the implementation phase across institutions, with no go-live date given (2020, before the three-year window)](<https://www.inage.gov.mz/?p=2697>).
+**Built in-house.** [In August 2020 INAGE said CloudGov was being rolled out across institutions](<https://www.inage.gov.mz/?p=2697>). It gave no go-live date.
 
 **Systems run wholly in-house.** No source found since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://www.inage.gov.mz/?p=2697>).
 

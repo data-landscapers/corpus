@@ -6,7 +6,7 @@
 
 **Nationwide.** [Ghana Post's site says GhanaPostGPS covers every inch of the country and all locations are addressed](<https://www.ghanapostgps.com/>). [The Ghana Post App Store listing says all locations in the country are addressed](<https://apps.apple.com/us/app/ghanapostgps/id1296627307>).
 
-**Used by services.** No source found since October 2023 says other services use the address system. The nearest held fact: [the one given above](<https://www.ghanapostgps.com/>).
+**Used by services.** No source found since October 2023 says other services use the address system. The nearest fact: [in August 2026 Ghana Post said GhanaPostGPS gives every location a unique digital address](<https://www.ghanapostgps.com/>).
 
 ***Also on file***. None found.
 

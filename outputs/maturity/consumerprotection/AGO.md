@@ -2,7 +2,7 @@
 
 ## Consumer protection
 
-**Rules in force.** [Banco Nacional de Angola Aviso 7/17 sets transparency, information and contract rules for payment service users and requires providers to follow financial consumer protection rules (2017, before the three-year window)](<https://lex.ao/docs/banco-nacional-de-angola/2017/aviso-n-o-7-17-de-12-de-setembro/>). [Aviso 12/2016 sets rules for marketing financial products and services, payment-service providers' included, under the bank's conduct supervision (2016, before the three-year window)](<https://angop.ao/noticias/economia/bna-reforca-supervisao-das-instituicoes-financeiras/>).
+**Rules in force.** [In September 2017 Banco Nacional de Angola's Aviso 7/17 set transparency, information and contract rules for payment service users](<https://lex.ao/docs/banco-nacional-de-angola/2017/aviso-n-o-7-17-de-12-de-setembro/>). [It requires providers to follow financial consumer protection rules](<https://lex.ao/docs/banco-nacional-de-angola/2017/aviso-n-o-7-17-de-12-de-setembro/>). [In September 2016 Aviso 12/2016 set rules for marketing financial products and services, payment-service providers' included](<https://angop.ao/noticias/economia/bna-reforca-supervisao-das-instituicoes-financeiras/>).
 
 **Complaints handled.** [The Banco Nacional de Angola's report on complaints in the financial system counted 16,548 complaints in the first quarter of 2024, mobile banking at non-bank institutions among them](<https://pti.ao/crescem-as-reclamacoes-pelos-servicos-de-mobile-money/>). [Its ranking for the second quarter of 2025 recorded 10,707 complaints across the financial system](<https://pti.ao/afrimoney-lidera-queixas-de-clientes-das-instituicoes-financeiras-nao-bancarias/>).
 

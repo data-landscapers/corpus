@@ -2,7 +2,7 @@
 
 ## In-house capacity
 
-**Government staff.** [The Centre National de l'Informatique states it manages the RNIA network and the government Intranet and is responsible for continuity of national applications through its backup centre](<http://www.cni.tn/index.php/fr/layout-3/historique-2>). [The Centre National de l'Informatique's page says its National Backup Centre, with its own technical staff, is the recovery site for the State's critical applications; the page carries only a 2016 copyright date, so 2016 is the published date (2016, before the three-year window)](<http://cni.tn/index.php/fr/pages/continuite-d-activite>).
+**Government staff.** [The Centre National de l'Informatique manages the RNIA network and the government Intranet](<http://www.cni.tn/index.php/fr/layout-3/historique-2>). [Its backup centre keeps national applications running](<http://www.cni.tn/index.php/fr/layout-3/historique-2>). [In 2016 its National Backup Centre, with its own technical staff, was the State's recovery site](<http://cni.tn/index.php/fr/pages/continuite-d-activite>).
 
 **A technology body for government.** [The Centre National de l'Informatique, a public establishment, states its missions under decree 2007-1359 include infogerance of national systems and rollout of e-Administration for the Administration](<http://www.cni.tn/index.php/fr/layout-3/historique-2>).
 

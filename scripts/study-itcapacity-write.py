@@ -83,7 +83,7 @@ def sentences(rows: list[dict], first: list[str], room: int) -> list[str]:
             continue
         seen.add(s)
         if r["as_of"][:7] < WINDOW:
-            s += f" ({r['as_of'][:4]}, before the three-year window)"   # so the reader sees why it does not count
+            s = study_lib.dated(s, r["as_of"])   # its date in the sentence, no tag about the window (housekeeping 72)
         out.append(link(r["url"], s) + ".")
         n += len(s.split())
     return out

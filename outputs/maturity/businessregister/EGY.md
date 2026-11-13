@@ -2,11 +2,11 @@
 
 ## Business register
 
-**Online registration.** [Egypt's Ministry of Investment and Foreign Trade says that from 3 August 2025 applications to incorporate all limited liability companies are accepted only on the GAFI electronic portal](<https://gate.ahram.org.eg/News/5259847.aspx>). [The Internal Trade Development Authority says six new services were added to the Digital Egypt platform, bringing Commercial Registry services available online to 20, including a digital trade name reservation service launched with GAFI](<https://www.businessmen-eg.com/en/2088/itda-launches-online-tax-number-verification-for-commercial-registry>). [GAFI says it launched its Company e-Incorporation Service in September 2023, with sole proprietorships, partnerships and LLCs now incorporated exclusively online (2023, before the three-year window)](<https://gafi.gov.eg/en/contenttemplate/ca1b9d8b-76d1-46dc-a677-eb4ba5ccaae3>).
+**Online registration.** [From 3 August 2025 all limited liability companies are incorporated only on the GAFI electronic portal](<https://gate.ahram.org.eg/News/5259847.aspx>). [In July 2025 six services were added to the Digital Egypt platform](<https://www.businessmen-eg.com/en/2088/itda-launches-online-tax-number-verification-for-commercial-registry>). [That brought online Commercial Registry services to 20](<https://www.businessmen-eg.com/en/2088/itda-launches-online-tax-number-verification-for-commercial-registry>). [They include digital trade name reservation, launched with GAFI](<https://www.businessmen-eg.com/en/2088/itda-launches-online-tax-number-verification-for-commercial-registry>). [In September 2023 GAFI launched its Company e-Incorporation Service](<https://gafi.gov.eg/en/contenttemplate/ca1b9d8b-76d1-46dc-a677-eb4ba5ccaae3>). [Sole proprietorships, partnerships and LLCs are now incorporated only online](<https://gafi.gov.eg/en/contenttemplate/ca1b9d8b-76d1-46dc-a677-eb4ba5ccaae3>).
 
-**Shared number.** No source found since October 2023 says registration gives one number shared with tax or social security. The nearest held fact: [the one given above](<https://gate.ahram.org.eg/News/5259847.aspx>).
+**Shared number.** No source found since October 2023 says registration gives one number shared with tax or social security. The nearest fact: [from 3 August 2025 all limited liability companies are incorporated through the GAFI portal](<https://gate.ahram.org.eg/News/5259847.aspx>).
 
-**Beneficial owners.** No source found since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<https://gate.ahram.org.eg/News/5259847.aspx>).
+**Beneficial owners.** No source found since October 2023 says the register collects beneficial owners. The nearest fact: [from August 2025 GAFI's electronic portal is the only route to incorporate a limited liability company](<https://gate.ahram.org.eg/News/5259847.aspx>).
 
 ***Also on file***. None found.
 

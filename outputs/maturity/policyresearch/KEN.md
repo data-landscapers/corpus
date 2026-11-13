@@ -6,7 +6,7 @@
 
 **Feeding policy.** [KICTANet sent the Senate a memorandum on the Artificial Intelligence Bill, 2026, on 5 May 2026](<https://www.kictanet.or.ke/wp-content/uploads/2026/05/AI-BILL-2026-Memorandum.docx.pdf>). It proposed a statutory AI Authority, a National Council and a ring-fenced fund. [CIPIT says it contributed to the national AI strategy and worked with the Judiciary on an AI framework](<https://cipit.strathmore.edu/east-african-ai-policy-hub/>).
 
-**Standing role.** No source found since October 2023 says a local research institution holds a standing advisory role in digital policy. The nearest held fact: [the one given above](<https://www.kictanet.or.ke/wp-content/uploads/2026/05/AI-BILL-2026-Memorandum.docx.pdf>).
+**Standing role.** No source found since October 2023 says a local research institution holds a standing advisory role in digital policy. The nearest fact: [on 5 May 2026 KICTANet sent the Senate a public comment on the Artificial Intelligence Bill, 2026](<https://www.kictanet.or.ke/wp-content/uploads/2026/05/AI-BILL-2026-Memorandum.docx.pdf>).
 
 ***Also on file***. [CIPESA](<https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/>).
 
