@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "startuppolicy",
+ "aspect": "labelled",
+ "fact": "The 2026 budget incentives apply a 5% corporate tax rate (2.5% for ICT and startups outside Praia, Sal, São Vicente and Boa Vista) to startups jovem and ICT startups for their first five years, with import and stamp duty exemptions.",
+ "title": "Incentivos Fiscais às TICs",
+ "publisher": "Ministério das Finanças, DGCI",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "startuppolicy",
+ "aspect": "labelled",
+ "fact": "The Angel Investor Allowance, in force from income year 1 July 2022, gives a 50% deduction on investment of at least Rs 100,000 in a qualifying start-up SME under the National SME Incubator Scheme.",
+ "title": "Tax Incentives and Exemptions for Small and Medium Enterprises (SMEs)",
+ "publisher": "DTOS",
+ "published": "2024-12-12",
+ "date_source": "source",
+ "why_not": ""
+}

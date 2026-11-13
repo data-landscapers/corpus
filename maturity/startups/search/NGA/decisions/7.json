@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "startuppolicy",
+ "aspect": "law;labelled;funded",
+ "fact": "The Nigeria Startup Act, 2022 was enacted on 19 October 2022, establishing the startup label, the Startup Investment Seed Fund of at least N10 billion a year and tax incentives for labelled startups.",
+ "title": "Nigeria Startup Act, 2022",
+ "publisher": "Federal Republic of Nigeria",
+ "published": "2022-10-19",
+ "date_source": "source",
+ "why_not": ""
+}

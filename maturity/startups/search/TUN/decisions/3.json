@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "startuppolicy",
+ "aspect": "labelled",
+ "fact": "The official labelling-session table lists labels granted monthly under the Startup Act, including 13 labels and 7 pre-labels in the 03/2026 session.",
+ "title": "Résultats des sessions de labellisation",
+ "publisher": "Startup Tunisia",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

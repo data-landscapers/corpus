@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "startuppolicy",
+ "aspect": "labelled",
+ "fact": "The Cabinet approved a five-year tax holiday for emerging businesses in priority sectors including manufacturing, the blue economy and the digital economy, as outlined in the 2025 Budget.",
+ "title": "Five-year tax holiday for emerging businesses",
+ "publisher": "Seychelles Nation",
+ "published": "2025-01-28",
+ "date_source": "source",
+ "why_not": ""
+}

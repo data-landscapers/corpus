@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-13 11:44 · **REBUILD** · unclocked · startups startuppolicy: searched 54, staged 192; 6.3M tokens; resumed after the 10:14 search was interrupted — ok
 2026-11-13 10:18 · **REBUILD** · unclocked · socialregistry social rebuild delivered: 92 documents for 46 countries staged to prepared/maturity-study-socialregistry; reassessment committed earlier today.
 2026-11-13 10:04 · **REBUILD** · unclocked · socialprotection socialmis rebuild delivered: 119 documents for 47 countries staged to prepared/maturity-study-socialprotection; reassessment committed earlier today.
 2026-11-13 09:33 · **REBUILD** · unclocked · socialexchange exchange: 45 cells reassessed, 0 moved; 54 searched, 148 staged; ~55M tokens — ok

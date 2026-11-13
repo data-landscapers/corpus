@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "startuppolicy",
+ "aspect": "labelled",
+ "fact": "The Finance Act, 2025 reduced the corporate income tax rate for start-ups certified by the Nairobi International Financial Centre Authority to 15% for the first three years and 20% for the next four.",
+ "title": "Kenya - Corporate - Tax credits and incentives",
+ "publisher": "PwC Worldwide Tax Summaries",
+ "published": "2026-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

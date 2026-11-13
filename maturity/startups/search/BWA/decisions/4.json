@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "startuppolicy",
+ "aspect": "funded",
+ "fact": "",
+ "title": "Botswana Innovation Fund",
+ "publisher": "Botswana Innovation Fund",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: live homepage with undated counters (26 companies, P20.4M); no date stated or justifiable"
+}

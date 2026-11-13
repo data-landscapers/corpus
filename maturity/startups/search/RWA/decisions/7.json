@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "labelled",
+ "fact": "Rwanda Revenue Authority's August 2023 guide lists start-up incentives under the investment code: angel investors investing up to USD 500,000 in a start-up are exempt from capital gains tax and from dividend withholding tax for five dividend issuances.",
+ "title": "Investment incentives for registered investors",
+ "publisher": "Rwanda Revenue Authority",
+ "published": "2023-08",
+ "date_source": "source",
+ "why_not": "",
+ "sub_indicator": "startuppolicy"
+}

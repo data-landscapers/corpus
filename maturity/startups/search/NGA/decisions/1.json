@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "startuppolicy",
+ "aspect": "law;labelled;funded",
+ "fact": "Goldsmiths LLP wrote in September 2026 that the domestically funded Startup Investment Seed Fund has not been delivered and the government has leaned on a donor-backed initiative instead, while the Startup Portal opened in November 2023 for labelling.",
+ "title": "The Nigeria Startup Act",
+ "publisher": "Goldsmiths LLP",
+ "published": "2026-09-21",
+ "date_source": "source",
+ "why_not": ""
+}

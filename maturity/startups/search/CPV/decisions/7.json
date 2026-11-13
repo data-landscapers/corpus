@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "startuppolicy",
+ "aspect": "funded",
+ "fact": "The Startup Jovem 100% programme offers loans of 500,000 to 3,000,000 escudos at 5.5% over up to 10 years with a 100% Pró Garante guarantee for young entrepreneurs aged 18 to 35.",
+ "title": "Startup Jovem 100% Garantia",
+ "publisher": "Pró Empresa",
+ "published": "2025-04-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

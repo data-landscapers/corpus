@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.businessday.co.za/economy/2026-07-06-south-african-startup-growth-trails-regional-peers/",
+  "title": "South African startup growth trails regional peers",
+  "publisher": "Business Day",
+  "published": "2026-07-06",
+  "sub_indicator": "startuppolicy",
+  "why": "Q1: no enacted Startup Act"
+ },
+ {
+  "url": "https://hlayisani.com/2026/02/25/hlayisani-capital-launches-venture-fund-ii-with-r500-million-in-commitments/",
+  "title": "Hlayisani Capital Launches Venture Fund II with R500 Million in Commitments",
+  "publisher": "Hlayisani Capital",
+  "published": "2026-02-25",
+  "sub_indicator": "startuppolicy",
+  "why": "Q5: PIC and SA SME Fund anchored fund, named investments"
+ },
+ {
+  "url": "https://www.gov.za/sites/default/files/gcis_document/202511/53708gon6865.pdf",
+  "title": "National Small Enterprise Act: National Entrepreneurship Strategy and Implementation Plan: Comments invited",
+  "publisher": "Department of Small Business Development",
+  "published": "2025-11-21",
+  "sub_indicator": "startuppolicy",
+  "why": "Q2: draft strategy for consultation"
+ },
+ {
+  "url": "https://www.sanews.gov.za/south-africa/cabinet-releases-draft-national-entrepreneurship-strategy-public-comment",
+  "title": "Cabinet releases draft National Entrepreneurship Strategy for public comment",
+  "publisher": "SAnews",
+  "published": "2025-09-18",
+  "sub_indicator": "startuppolicy",
+  "why": "Q2: draft strategy approved for comment"
+ },
+ {
+  "url": "https://pmg.org.za/committee-meeting/40785/",
+  "title": "Innovation Fund pilot phase implementation: DSTI briefing",
+  "publisher": "PMG",
+  "published": "2025",
+  "sub_indicator": "startuppolicy",
+  "why": "Q5: Innovation Fund startups supported"
+ },
+ {
+  "url": "https://www.gov.za/news/media-statements/science-technology-and-innovation-innovation-fund-21-feb-2025",
+  "title": "Science, Technology and Innovation on Innovation Fund",
+  "publisher": "South African Government",
+  "published": "2025-02-21",
+  "sub_indicator": "startuppolicy",
+  "why": "Q5: R917.2m invested, 96 enterprises"
+ },
+ {
+  "url": "https://sasmefund.co.za/sa-sme-fund-the-technology-innovation-agency-and-e-squared-announce-r300m-seed-fund-of-funds-investment/",
+  "title": "SA SME Fund, TIA and E Squared announce R300m seed fund of funds investment",
+  "publisher": "SA SME Fund",
+  "published": "2024-10-14",
+  "sub_indicator": "startuppolicy",
+  "why": "Q5: public-backed seed fund of funds"
+ },
+ {
+  "url": "https://www.parliament.gov.za/index.php/press-releases/media-statement-startup-act-pleads-trade-and-industry-committee-removal-restrictive-exchange-controls",
+  "title": "Media Statement: Startup Act Pleads in Trade and Industry Committee for Removal of Restrictive Exchange Controls",
+  "publisher": "Parliament of South Africa",
+  "published": "2024-09-26",
+  "sub_indicator": "startuppolicy",
+  "why": "Q1/Q2: committee to get legal advice on new startup legislation"
+ }
+]

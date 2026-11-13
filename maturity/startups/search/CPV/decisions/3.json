@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "startuppolicy",
+ "aspect": "funded",
+ "fact": "The Morabeza Innovation Project, co-financed by the AfDB with EUR 24 million, reports 1,774 MSMEs funded in 2025 and EUR 5.42M of financing unlocked as of 31 March 2026.",
+ "title": "MiP · Fundo Morabeza",
+ "publisher": "Government of Cabo Verde / Morabeza Innovation Project",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

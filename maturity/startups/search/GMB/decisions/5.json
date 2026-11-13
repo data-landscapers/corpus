@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "startuppolicy",
+ "aspect": "",
+ "fact": "",
+ "title": "Funding Windows",
+ "publisher": "National Research and Innovation Fund",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: undated programme page, no dated fact"
+}
