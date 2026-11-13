@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-13 08:11 · **REBUILD** · unclocked · revenuecollection revenue: 3 cells reassessed, 1 moved (MUS 4->3); 54 searched, 184 staged; ~60M tokens, window shared — ok
 2026-11-13 07:50 · **REBUILD** · unclocked · retailpayments retail: 4 cells reassessed, 3 moved (MUS, NAM 4->3; LBR 4->5); 54 searched, 176 staged; new LBR evidence may undo LBR 4->5 at recount; ~60M tokens — ok
 2026-11-13 07:24 · **REBUILD** · unclocked · registry civil: 14 cells reassessed (script recount disagreed on 14, reading moved none), 0 moved; 54 searched, 76 staged; ~75M tokens, window shared with three reassessments — ok
 2026-11-13 07:02 · **REBUILD** · unclocked · regionalpolicy cooperation: 2 cells reassessed (GNQ, SSD), 0 moved; 54 searched, 202 staged; ~110M tokens, window shared — ok
