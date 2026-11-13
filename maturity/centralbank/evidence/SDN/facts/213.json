@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-sdn-banking-reform-customer-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Central Bank of Sudan's website lists 11 fintech entries, mobile payment institutions and payment switch operators, and the bank requires its prior approval for data exchange between banks and fintech firms, per Sudan Independent.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Central Bank of Sudan fintech list",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

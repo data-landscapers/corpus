@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-12-eth-nbe-directive-onps-10-2025-payment-instrument-issuers",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The National Bank of Ethiopia issued Directive ONPS/10/2025, in force 12 May 2025, amending its directive on licensing and authorization of payment instrument issuers, setting capital, ownership and conduct requirements for licensed issuers.",
+   "as_of": "2025-05-12",
+   "date_precision": "day",
+   "system": "Licensing and Authorization of Payment Instrument Issuer Directive ONPS/09/2023 as amended by ONPS/10/2025",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

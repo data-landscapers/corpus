@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-27-nga-businesspost-cbn-upgrades-opay-moniepoint-licences-national",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "CBN's Director of Other Financial Institutions Supervision, Yemi Solaja, said the bank upgraded the operating licences of Moniepoint MFB, OPay, Kuda Bank, PalmPay and Paga to national after they met requirements including KYC.",
+   "as_of": "2026-01-27",
+   "date_precision": "day",
+   "system": "CBN licensing of fintech operators",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
