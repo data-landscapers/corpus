@@ -1,12 +1,12 @@
 ---
 title: Burundi: status report
-compiled: 2026-11-12
+compiled: 2026-11-13
 place: BDI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 259
+sources_cited: 260
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -444,7 +444,7 @@ Of the four Chinese engagements on the record in Burundi's digital and media sec
 ### Gulf/UAE activities
 <!-- geopol.gulf -->
 
-[In August 2025 the President received a Qatari royal delegation leading the Al Massour Holding group](https://presidence.gov.bi/2025/08/17/le-president-ndayishimiye-oeuvre-pour-un-partenariat-fort-et-durable-avec-le-qatar/). [It announced a decision to invest heavily in sectors including cybersecurity, digital transformation, telecommunications and banking](https://presidence.gov.bi/2025/08/17/le-president-ndayishimiye-oeuvre-pour-un-partenariat-fort-et-durable-avec-le-qatar/). No Gulf or United Arab Emirates memorandum, framework agreement or loan on digital or data had been found as at October 2026.
+[In August 2025 the President received a Qatari royal delegation leading the Al Massour Holding group](https://presidence.gov.bi/2025/08/17/le-president-ndayishimiye-oeuvre-pour-un-partenariat-fort-et-durable-avec-le-qatar/). [It announced a decision to invest heavily in sectors including cybersecurity, digital transformation, telecommunications and banking](https://presidence.gov.bi/2025/08/17/le-president-ndayishimiye-oeuvre-pour-un-partenariat-fort-et-durable-avec-le-qatar/). [In November 2026 the finance and digital economy minister asked Saudi Arabia to consider backing the national digital identity card and a national data centre, with no pledge stated](https://lionweek.com/burundi-seeks-saudi-support-for-digital-id-and-data-centre-at-doha-telecoms-summit/). No Gulf or United Arab Emirates memorandum, framework agreement or loan on digital or data had been found as at November 2026.
 
 ### India activities
 <!-- geopol.india -->

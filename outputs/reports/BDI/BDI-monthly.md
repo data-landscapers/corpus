@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: BDI
-ledger_rows: 19
+ledger_rows: 21
 not_held: 9
-record: ceb099e50f8a
+record: 046251f7898a
 ---
 
 # News, Oct – Nov 2026
@@ -26,6 +26,8 @@ record: ceb099e50f8a
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -211,12 +213,30 @@ Summarised under [Cybersecurity](#cybersecurity).
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Connection to the COMESA electronic certificate of origin (eCO)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burundi begins groundwork for paperless COMESA trade certificates](https://lionweek.com/burundi-begins-groundwork-for-paperless-comesa-trade-certificates/)** — LIONWEEK, 11 November 2026
+
+Bujumbura meeting 9-12 Nov 2026 opens eCO action plan; no timetable or cost; five member states already live.
+
+</div>
+
+</div>
 
 ### Digital Payments and Fintech
 
@@ -381,6 +401,28 @@ Burundi's Prime Minister's Office launched the 2026 General Enterprise Census on
 **[Alertes](https://www.igebu.bi/alerte/)** — Institut Géographique du Burundi (IGEBU), 4 November 2026
 
 Burundi's meteorological institute, IGEBU, issued a moderate-severity heavy rain alert on 4 November 2026 for parts of the country, including Mugamba and Buyenzi. It had issued a similar alert on 27 October 2026. Both appear on its page as expired.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#gulfuae-activities">Gulf/UAE activities</a>
+</nav>
+
+### Gulf/UAE activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Gulf digital and data engagements</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burundi seeks Saudi support for digital ID and data centre at Doha telecoms summit](https://lionweek.com/burundi-seeks-saudi-support-for-digital-id-and-data-centre-at-doha-telecoms-summit/)** — LIONWEEK, 11 November 2026
+
+Ask made in Doha, no pledge; biometric card awaits a law; PAFEN USD 92m, 61% committed by March.
 
 </div>
 
