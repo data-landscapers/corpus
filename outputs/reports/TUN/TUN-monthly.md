@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: TUN
-ledger_rows: 45
+ledger_rows: 46
 not_held: 4
-record: c033d934014c
+record: f41b06f6910e
 ---
 
 # News, Oct – Nov 2026
@@ -315,6 +315,20 @@ End-2025: 113,739 payment-institution accounts, only 11.3% active; 17.3m dinars 
 **[Paiement mobile en Tunisie : 7,1 millions de transactions et une croissance de 20 % à fin septembre 2026](https://www.tunisienumerique.com/paiement-mobile-en-tunisie-71-millions-de-transactions-et-une-croissance-de-20-a-fin-septembre-2026/)** — Tunisie Numérique, 10 November 2026
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Card and online payments</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-payments gain momentum in Tunisia](https://en.africanmanager.com/e-payments-gain-momentum-in-tunisia/)** — African Manager, 12 November 2026
+
+Central Bank of Tunisia data show 18 million online payments worth TND 1.229bn in January-September 2026, up 27%. In-store card payments rose 18.6% to 41.3 million, worth TND 5.143bn. At 30 September 2026 there were 1,552 active merchant websites and 45,900 POS terminals, African Manager reported on 12 November.
 
 </div>
 
@@ -741,6 +755,14 @@ Tunisia's Ministry of Employment and Vocational Training signed a five-year rene
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">Account ownership and bank accounts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+) - Tunisia (Global Findex Database)](https://api.worldbank.org/v2/country/TUN/indicator/FX.OWN.TOTL.FE.ZS?format=json)** — World Bank (Global Findex Database), 11 November 2026
+
+Findex: 26.6% of Tunisian women 15+ held an account in 2024, down from 28.7% (2021); World Bank API series.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 
