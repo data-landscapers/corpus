@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-ago-itu-pp26-policy-statement",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Angola's communications minister said the National Broadband Network is being expanded, with about 31,000 km of terrestrial fibre installed including 815 km of new routes this year.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "National Broadband Network",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": "No statement of every region reached or of open access."
+}

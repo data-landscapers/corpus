@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-uga-what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "PML Daily relaying the ministry says the fibre backbone has grown to 5,266 km and reaches 1,682 government sites.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "national fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
