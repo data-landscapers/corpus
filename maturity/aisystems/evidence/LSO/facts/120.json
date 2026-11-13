@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-lesotho-itu-pp26-affordable-connectivity-landlocked",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Lesotho's minister told the ITU PP-26 that the country has started the first phase of its National Compute Roadmap, developed with support from UN ODET.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "National Compute Roadmap",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

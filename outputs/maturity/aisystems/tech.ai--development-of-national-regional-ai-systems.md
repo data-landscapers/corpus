@@ -20,8 +20,8 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
-| 4 Operating | 10 |
+| 5 Leading | 5 |
+| 4 Operating | 9 |
 | 3 Established | 27 |
 | 2 Nascent | 11 |
 | 1 Absent | 0 |
@@ -37,6 +37,14 @@ A university AI hub had GPUs in service and hosted 51 startup founders from 12 c
 - ENA reports that the AI UniPod, inaugurated on 16 February 2026 by EAII, UNDP and Addis Ababa University, is equipped with high-performance computing resources, and UNDP's Matthias Naab said its EDGE initiative provides high-performance GPUs there ([source, 2026-11-09](https://www.ena.et/web/eng/w/eng_9899270)).
 - UNDP's Matthias Naab said on 9 November 2026 that UNDP's EDGE initiative provides high-performance GPUs at the AI UniPod in Addis Ababa for innovators to build AI products ([source, 2026-11-09](https://www.ena.et/web/eng/w/eng_9899270)).
 - A 10-day residency at the AI UniPod opened on 9 November 2026 for 51 AI startup founders from 12 African countries, who use the UniPod's resources, ENA reports ([source, 2026-11-09](https://www.ena.et/web/eng/w/eng_9899270)).
+
+### Nigeria: 5 Leading
+
+Nigeria's open national language model counted over 140 collaborators and 18 applications in 2026; no user of national AI computing is counted.
+
+- TechCabal reports Udu Technologies operates its Africa GPU Hub through the AGH Cloud platform, with deployments in Nigeria and the United States ([source, 2026-09-11](https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/)).
+- The communications ministry announced the launch of N-ATLAS, an open-source multilingual large language model powered by Awarri, at UNGA80 in New York, with a link to access the model ([source, 2025-09-20](https://fmcide.gov.ng/nigeria-launches-landmark-ai-model-powered-by-awarri-to-advance-languages-and-ai-at-scale/)).
+- N-ATLAS has attracted more than 140 registered collaborators and 18 third-party applications have been certified for integration with it, according to Onuoha; commercialisation and adoption are at an early stage ([source, 2026-11-11](https://von.gov.ng/nitda-seeks-stakeholders-input-to-review-digital-strategy/)).
 
 ### Senegal: 5 Leading
 
@@ -84,12 +92,6 @@ AI computing was in service in the country in 2026; no source found reports its 
 AI computing was in service in the country in 2026; no source found reports its use by others.
 
 - LesEco says the Sovereign Meeting Assistant was trained on Moroccan GPUs ([source, 2026-09-08](https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html)).
-
-### Nigeria: 4 Operating
-
-AI computing was in service in the country in 2026; no source found reports its use by others.
-
-- TechCabal reports Udu Technologies operates its Africa GPU Hub through the AGH Cloud platform, with deployments in Nigeria and the United States ([source, 2026-09-11](https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/)).
 
 ### Rwanda: 4 Operating
 

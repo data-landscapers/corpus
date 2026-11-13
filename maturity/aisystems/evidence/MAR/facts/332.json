@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-ia-et-souverainete-numerique-les-deux-angles-morts-de-lambition-marocaine",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Le Matin says Morocco's national AI guidelines rely on AI models developed in Morocco, naming the JAZARI institutes, Darija and Amazigh language models and a partnership with Mistral AI.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "JAZARI institutes and Darija and Amazigh language models",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

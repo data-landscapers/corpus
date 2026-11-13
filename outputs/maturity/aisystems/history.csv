@@ -94,3 +94,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-05,TGO,tech.ai--development-of-national-regional-ai-systems,fact,4,4,TGO-014;TGO-005,"UNDP counts 50,200 requests on the GPU server from public bodies and Togo AI Lab; not open to outside users, stage 4 holds"
 2026-11-10,ETH,tech.ai--development-of-national-regional-ai-systems,fact,3,5,ETH-010;ETH-011;ETH-012,"ENA, 9 Nov 2026: UNDP's EDGE initiative provides GPUs at the AI UniPod, where 51 startup founders from 12 countries began a residency; 3 -> 5"
 2026-11-12,GAB,tech.ai--development-of-national-regional-ai-systems,fact,no evidence,2,GAB-001,"CSGR-IA developing Obone AI, a Fang-language system (July 2026); revalued underway as no release is stated: stage 2"
+2026-11-13,NGA,tech.ai--development-of-national-regional-ai-systems,fact,4,5,NGA-002;NGA-011;NGA-025,"N-ATLAS counted 140+ registered collaborators and 18 certified third-party apps (Nov 2026): shared with counted users, 4 to 5"

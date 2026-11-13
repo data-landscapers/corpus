@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-nigeriastartupact-google-ai-nigerian-languages",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Nigeria Startup Act reports that Data Science Nigeria, with Google support, opened registration for contributors to its National AI Glossary Project, which is developing AI language resources in Yoruba, Igbo, Hausa and Nigerian Pidgin.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "National AI Glossary Project",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Glossary Project",
+   "country_label": "Nigeria",
+   "class": "localai",
+   "platform": "",
+   "owner": "Data Science Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "4",
+      "stage": "5",
       "build": "inservice",
       "compute": "compute",
-      "shared": "",
+      "shared": "shared",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-002",
-      "gaps": "No source found since October 2023 says national AI computing, models or datasets are open to named or counted users.",
-      "note": "Udu Technologies runs GPU servers in Nigeria through AGH Cloud, and N-ATLAS was released open source in 2025. No user of either is named or counted.",
-      "as_at": "2026-10-22"
+      "stage_sources": "NGA-002;NGA-011;NGA-025",
+      "gaps": "The count of N-ATLAS collaborators and certified applications (NGA-025) is a presenter's figure at a NITDA consultation, with no date range; no user of national AI computing is named or counted.",
+      "note": "Udu Technologies runs GPU servers in Nigeria (NGA-002), N-ATLAS was released open source in 2025 (NGA-011), and in November 2026 it counted more than 140 registered collaborators and 18 certified third-party applications (NGA-025), so its users are counted. Stage 5 is the top rung.",
+      "as_at": "2026-11-13"
     }
   ]
 }

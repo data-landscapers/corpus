@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-11-nga-nitda-review-digital-strategy-consultation",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "NITDA's interventions supported the development of N-ATLAS, an openly released AI language model with eight billion parameters and four speech recognition models in Nigerian languages, as presented by Raymond Onuoha of Lagos Business School.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "N-ATLAS",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "N-ATLAS has attracted more than 140 registered collaborators and 18 third-party applications have been certified for integration with it, according to Onuoha; commercialisation and adoption are at an early stage.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "N-ATLAS",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N-ATLAS",
+   "country_label": "Nigeria",
+   "class": "localai",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

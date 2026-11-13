@@ -31,6 +31,7 @@ CIV,YIRI,Cote d'Ivoire,localai,language data campaign toward an open LLM,FuturAf
 CIV,Hub IA at CNCCI,Cote d'Ivoire,localai,,Ministry of Digital Transition,,2025-07-30-civ-mercredi-30-juillet-2025-seance-de-travail-de-la-task-force-ia-au-cent
 CIV,Hub national d'Intelligence Artificielle,Hub national d'Intelligence Artificielle,other,,UNDP-supported,,2025-10-01-civ-former-1-000-jeunes-aux-metiers-du-numerique-une-ambition-concrete-pre
 CIV,Orange Cote d'Ivoire internal AI solution,Orange CI internal AI,other,,Orange Cote d'Ivoire,,2026-11-01-civ-linfodrome-ia-entreprise-journees-ethique-abidjan
+CIV,Centre national d'intelligence artificielle et d'innovation,Cote d'Ivoire,other,,,,2026-11-11-civ-undp-centre-national-ia-etude-volet-1
 CMR,GPT Cameroon,Cameroon,localai,large language model (planned),Government of Cameroon,national,2025-07-08-snia-2040-ai-roadmap-seven-pillars-techafricanews
 CMR,Edge computing nodes,Cameroon,localai,15 solar-microgrid edge nodes (planned),Government of Cameroon,national,2025-07-08-snia-2040-ai-roadmap-seven-pillars-techafricanews
 CMR,GPU Cloud Africa,Cameroon,localai,NVIDIA GPU cloud,ST Digital,,2025-02-12-st-digital-gpu-cloud-africa-itweb
@@ -80,6 +81,7 @@ EGY,Public Prosecution AI data centre,Egypt,localai,,Public Prosecution,,2026-11
 EGY,EMA supercomputer,Egypt,other,,Egyptian Meteorological Authority,,2026-01-14-egy-ema-2025-year-in-review-radars-supercomputer
 EGY,JIGSAW central data and AI platform,Egypt,localai,,Hyve Technology Consulting; localised at the Information and Decision Support Centre,,2023-11-23-egy-idsc-hyve-jigsaw-data-platform-mou
 EGY,MENA AI Observatory,Egypt,other,,"A2K4D, American University in Cairo",,2024-02-04-egy-artificial-intelligence-data-and-platform-work-mena-cases-studies-and
+EGY,Karnak,Egypt,localai,Arabic large language model,Applied Innovation Center,,2026-11-10-egy-pm-opens-cairo-ict-ai-targets-2030
 ERI,Dahlak LMs,Eritrea,localai,research.geezlab.com,GeezLab (GLaRe),,2026-01-01-eri-geezlab-glare-eritrean-language-ai-research
 ERI,Tigrigna speech to text,Eritrea,localai,speech recognition model,EIT Mai-Nefhi graduates,,2021-11-06-eri-shabait-tigrigna-speech-to-text-ai
 ERI,DESTA-1B,DESTA-1B,localai,Hugging Face,mewaeltsegay,,2026-01-01-eri-desta-1b-dedicated-eritrean-semitic-text-autoregressor
@@ -208,6 +210,8 @@ NGA,AFRIDATA data centres,Nigeria,other,AI-ready data centres,INFRAGORA Global C
 NGA,"AFRIDATA Nigeria data centres (Lagos, Delta)",Nigeria,other,,AFRIDATA,Lagos designed to Tier IV,2026-10-28-nga-afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study
 NGA,awarri language models,Nigeria,localai,,awarri,,2026-10-29-inside-nigeria-s-7-5m-gates-backed-ai-scaling-hub
 NGA,HeliumMum,Nigeria,other,AI-powered maternal health tool,Helium Health,,2026-11-04-nga-google-org-backs-helium-health-with-2-5-million-grant-to-scale-ai-powered-matern
+NGA,N-ATLAS,Nigeria,localai,,NITDA,,2026-11-11-nga-nitda-review-digital-strategy-consultation
+NGA,National AI Glossary Project,Nigeria,localai,,Data Science Nigeria,,2026-11-10-nigeriastartupact-google-ai-nigerian-languages
 RWA,NISR survey coding model,Rwanda,localai,machine learning model trained on NISR coded survey data since 2017; Android app for enumerators exists,National Institute of Statistics of Rwanda (NISR),national,2026-10-01-cenfri-award-winner-ngirinshuti-ai-model-rwanda-statistical-analysis
 RWA,UNDP country-hosted AI compute,Rwanda,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 RWA,Kinyarwanda voice dataset on Common Voice,Rwanda,localai,Mozilla Common Voice,Digital Umuganda; Mozilla Foundation,,2024-05-24-rwa-voice-technology-infrastructure-for-artificial-intelligence-engine-in
