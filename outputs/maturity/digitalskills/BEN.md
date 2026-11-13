@@ -2,11 +2,11 @@
 
 ## Digital skills of the public
 
-**Training for the public.** [The Government of Benin, through the School of Digital Professions, launched a national call for applications for OIF D-CLIC digital skills training for young people, per TechAfrica News](<https://techafricanews.com/2025/10/20/benin-accelerates-digital-transformation-with-new-oif-d-clic-training-program>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Training for the public.** [In October 2025 the government launched a national call for applications for digital skills training for young people, TechAfrica News reported](<https://techafricanews.com/2025/10/20/benin-accelerates-digital-transformation-with-new-oif-d-clic-training-program>). [The training is the OIF's D-CLIC programme, run through the School of Digital Professions](<https://techafricanews.com/2025/10/20/benin-accelerates-digital-transformation-with-new-oif-d-clic-training-program>).
 
-**Share measured.** No source found since October 2023 gives a measured share of people with basic digital skills. The nearest held fact: [the one given above](<https://techafricanews.com/2025/10/20/benin-accelerates-digital-transformation-with-new-oif-d-clic-training-program>).
+**Share measured.** No source found since October 2023 gives a measured share of people with basic digital skills. The nearest held fact: [in October 2025 the D-CLIC call was open to young people nationally](<https://techafricanews.com/2025/10/20/benin-accelerates-digital-transformation-with-new-oif-d-clic-training-program>).
 
-**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest held fact: [the one given above](<https://techafricanews.com/2025/10/20/benin-accelerates-digital-transformation-with-new-oif-d-clic-training-program>).
+**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest held fact: [in October 2025 D-CLIC was taking applications](<https://techafricanews.com/2025/10/20/benin-accelerates-digital-transformation-with-new-oif-d-clic-training-program>).
 
 ***Also on file***. None found.
 

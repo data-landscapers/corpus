@@ -2,11 +2,11 @@
 
 ## Land register
 
-**Digital register in service.** [The Ministry's Deeds Registry page says that since 1995 the Registry has done away with manual land, debts and miscellaneous contract registers because the information is computerised and retrievable within seconds, with registers updated daily](<https://gov.sz/index.php/departments-sp-623334762/deeds>). [Registrar of Deeds Nozipho Vilakati said Eswatini is working to upgrade its manual registration and storage of deeds into a fully electronic system, after benchmarking visits to Kenya's Ardhisasa platform](<https://lands.go.ke/eswatini-delegation-returns-kenya-benchmarking-lands-digitization>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Digital register in service.** [The Deeds Registry says that since 1995 it has kept no manual land, debts or miscellaneous contract registers](<https://gov.sz/index.php/departments-sp-623334762/deeds>). [Its page, read in August 2026, says the information is computerised, retrievable within seconds and updated daily](<https://gov.sz/index.php/departments-sp-623334762/deeds>). [In August 2025 Registrar of Deeds Nozipho Vilakati said Eswatini is working towards a fully electronic system for registering and storing deeds](<https://lands.go.ke/eswatini-delegation-returns-kenya-benchmarking-lands-digitization>). [The registry benchmarked Kenya's Ardhisasa platform first](<https://lands.go.ke/eswatini-delegation-returns-kenya-benchmarking-lands-digitization>).
 
-**Nationwide.** No source found since October 2023 says the digital land register covers the whole country. The nearest held fact: [the one given above](<https://gov.sz/index.php/departments-sp-623334762/deeds>).
+**Nationwide.** No source found since October 2023 says the digital land register covers the whole country. The nearest held fact: [in August 2025 the registrar said deeds were still registered and stored manually](<https://lands.go.ke/eswatini-delegation-returns-kenya-benchmarking-lands-digitization>).
 
-**Online services.** No source found since October 2023 says land can be searched or registered online. The nearest held fact: [the one given above](<https://gov.sz/index.php/departments-sp-623334762/deeds>).
+**Online services.** No source found since October 2023 says land can be searched or registered online. The nearest held fact: [the registry's registers are updated daily, its page said in August 2026](<https://gov.sz/index.php/departments-sp-623334762/deeds>).
 
 ***Also on file***. [Ardhisasa](<https://lands.go.ke/eswatini-delegation-returns-kenya-benchmarking-lands-digitization>).
 
