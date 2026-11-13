@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Système de Règlement Automatisé de Djibouti (SYRAD)", "country_label": "Djibouti", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The database lines describe SYRAD in operation as cross-domain, but do not say it connects mobile money wallets and bank accounts; no aspect value is stated.",
+  "claims": {
+    "dpimap-5643bba906": "nothing: no wallet or mobile money named",
+    "dpimap-0d9449341b": "nothing: cross-domain does not name wallets and banks",
+    "dpimap-8985d9a7a5": "nothing: no wallet or mobile money named",
+    "dpimap-31ad032ccb": "nothing: transaction types, not an aspect",
+    "dpimap-969c6057a8": "nothing: participation not assessed",
+    "dpimap-8e0b2b5c39": "nothing: participation not assessed",
+    "dpimap-fca0ea2ae2": "nothing: value of transactions not assessed",
+    "dpimap-2d82643115": "nothing: volume of transactions not assessed",
+    "dpimap-8aa196a9d2": "nothing: fees not assessed"
+  }
+}

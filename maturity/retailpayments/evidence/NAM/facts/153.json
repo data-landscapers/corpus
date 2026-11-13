@@ -1,0 +1,17 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Nampay", "country_label": "Namibia", "class": "retail", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The database's no and planned status are outranked by primary rows; the rest is not assessed.",
+  "claims": {
+    "dpimap-59e53e0c0f": "nothing: a database's no",
+    "dpimap-d663105220": "nothing: system type not assessed",
+    "dpimap-28ae966ac7": "nothing: contradicted by NAM-001",
+    "dpimap-006e2c5738": "nothing: transaction types not assessed",
+    "dpimap-65187a1430": "nothing: participation rules not assessed",
+    "dpimap-af0eb7dd8b": "nothing: participation rules not assessed",
+    "dpimap-be41531929": "nothing: participant count not assessed"
+  }
+}

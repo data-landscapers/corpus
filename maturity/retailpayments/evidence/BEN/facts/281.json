@@ -1,0 +1,22 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PI-SPI (Plateforme Interopérable du Système de Paiement Instantané)", "country_label": "Benin", "class": "retail", "platform": "", "owner": "BCEAO", "tiers": ""}
+  ],
+  "note": "Every claim is already held in evidence.csv, is not an aspect of the study, or is a not-found.",
+  "claims": {
+    "dpimap-ae2963eff4": "nothing: held as BEN-001",
+    "dpimap-e84c260feb": "nothing: held as BEN-001",
+    "dpimap-c679ed95af": "nothing: held as BEN-001",
+    "dpimap-3fb4689b2e": "nothing: transaction types not assessed",
+    "dpimap-73ef93d260": "nothing: regional switch, not a national one",
+    "dpimap-50352fe5a5": "nothing: who may join not assessed",
+    "dpimap-16de62472c": "nothing: who may join not assessed",
+    "dpimap-b699719850": "nothing: participant count not assessed",
+    "dpimap-cf0f3dea66": "nothing: not found",
+    "dpimap-2a8b120162": "nothing: not found",
+    "dpimap-9808c19fb0": "nothing: fees not assessed",
+    "dpimap-1ac02b91e5": "nothing: QR not assessed"
+  }
+}

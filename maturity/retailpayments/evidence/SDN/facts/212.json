@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Domestic IPS", "country_label": "Sudan", "class": "retail", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The database's no and planned status state nothing a fact can hold.",
+  "claims": {
+    "dpimap-062a99d082": "nothing: a database's no",
+    "dpimap-8629296a50": "nothing: a database's no"
+  }
+}

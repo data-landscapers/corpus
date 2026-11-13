@@ -1,0 +1,25 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Gamswitch",
+   "country_label": "",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Database record only; Gamswitch is stated as interbank, with no mobile money wallets named.",
+ "claims": {
+  "dpimap-f0c4ad6b59": "nothing: interbank system, wallets not stated; national switch held as GMB-002",
+  "dpimap-ff11e0cfbe": "nothing: interbank only, wallets not stated; switch held as GMB-002",
+  "dpimap-797eb72d94": "nothing: interbank system, not on the study's aspects; switch held as GMB-002",
+  "dpimap-38c9faa292": "nothing: not assessed by the study",
+  "dpimap-d67f6d335a": "nothing: not assessed by the study",
+  "dpimap-2ef68a775f": "nothing: not assessed by the study",
+  "dpimap-fdea114725": "nothing: not assessed by the study",
+  "dpimap-b80236efe9": "nothing: no answer given"
+ }
+}

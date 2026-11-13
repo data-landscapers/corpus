@@ -1,0 +1,23 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Domestic IPS", "country_label": "Tunisia", "class": "retail", "platform": "", "owner": "", "tiers": "planned/piloted per DPI Map"},
+    {"system": "Mobile money", "country_label": "Tunisia", "class": "retail", "platform": "", "owner": "", "tiers": "implemented per DPI Map"}
+  ],
+  "note": "Database lines only; the service aspect is held as TUN-002 and the rest is not assessed by the study.",
+  "claims": {
+    "dpimap-7719bbf35e": "nothing: an interbank system listed, service held as TUN-002",
+    "dpimap-41c6afe545": "nothing: system type is not an aspect",
+    "dpimap-4043e03730": "nothing: planned interbank system, service held as TUN-002",
+    "dpimap-70e3e6176a": "nothing: transaction types not assessed",
+    "dpimap-274091fd01": "nothing: held as TUN-002",
+    "dpimap-85499fd47b": "nothing: system type is not an aspect",
+    "dpimap-262c939f10": "nothing: held as TUN-002",
+    "dpimap-c07af0a81b": "nothing: transaction types not assessed",
+    "dpimap-1b93d44983": "nothing: clearing infrastructure not assessed",
+    "dpimap-46f40f04dd": "nothing: bank participation not assessed",
+    "dpimap-484b64be26": "nothing: non-bank participation not assessed",
+    "dpimap-9a18f332fb": "nothing: participant count not assessed"
+  }
+}

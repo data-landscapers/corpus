@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "LYPay", "country_label": "Libya", "class": "retail", "platform": "instant payment service", "owner": "Central Bank of Libya", "tiers": ""}
+  ],
+  "note": "LYPay in operation is already held as LBY-004; the other lines (type, participation, QR) are not aspects of this study.",
+  "claims": {
+    "dpimap-8906e1a741": "nothing: held as LBY-004",
+    "dpimap-b4dd35dee6": "nothing: system type not assessed",
+    "dpimap-67a5de2f3b": "nothing: held as LBY-004",
+    "dpimap-a14b43931b": "nothing: transaction types not assessed",
+    "dpimap-0688dfeaae": "nothing: participation not assessed",
+    "dpimap-44b441c804": "nothing: participation not assessed",
+    "dpimap-e8e06bc73e": "nothing: participant count not assessed",
+    "dpimap-d56edeb5c4": "nothing: QR not assessed"
+  }
+}

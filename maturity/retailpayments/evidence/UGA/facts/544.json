@@ -1,0 +1,25 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Domestic IPS", "country_label": "Uganda", "class": "retail", "platform": "", "owner": "", "tiers": "planned/piloted per DPI Map"},
+    {"system": "Mobile money", "country_label": "Uganda", "class": "retail", "platform": "", "owner": "", "tiers": "implemented per DPI Map"}
+  ],
+  "note": "Database lines only; the service aspect is held as UGA-001 and others, the rest is not assessed.",
+  "claims": {
+    "dpimap-23e8fa9287": "nothing: an interbank system listed, service held as UGA-001",
+    "dpimap-fa4315ef46": "nothing: system type is not an aspect",
+    "dpimap-dd35380e1c": "nothing: planned interbank system, service held as UGA-001",
+    "dpimap-e5f1808aa0": "nothing: transaction types not assessed",
+    "dpimap-34102b237e": "nothing: held as UGA-001",
+    "dpimap-2645c4c4f2": "nothing: system type is not an aspect",
+    "dpimap-7cf52697d4": "nothing: held as UGA-001",
+    "dpimap-053e6b6921": "nothing: transaction types not assessed",
+    "dpimap-e8a0d7994b": "nothing: clearing infrastructure not assessed",
+    "dpimap-61eeda6431": "nothing: bank participation not assessed",
+    "dpimap-398f226a5d": "nothing: non-bank participation not assessed",
+    "dpimap-9f16c2f004": "nothing: participant count not assessed",
+    "dpimap-46a90e7e99": "nothing: transaction value not assessed",
+    "dpimap-36a83159f5": "nothing: transaction volume not assessed"
+  }
+}

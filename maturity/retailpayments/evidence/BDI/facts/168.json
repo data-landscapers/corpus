@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Database record only: its no and its planned/piloted status are not facts, and evidence.csv holds BurundiPay in service.",
+  "claims": {
+    "dpimap-677cff2a47": "nothing: a database's no",
+    "dpimap-a71ff8d8ac": "nothing: contradicted by BDI-003"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PayShap", "country_label": "South Africa", "class": "retail", "platform": "", "owner": "", "tiers": "implemented per DPI Map"},
+    {"system": "Real Time Clearing (RTC)", "country_label": "South Africa", "class": "other", "platform": "", "owner": "", "tiers": "implemented per DPI Map"}
+  ],
+  "note": "Database lines only; service is held as ZAF-003, and the cross-domain label links to a home page.",
+  "claims": {
+    "dpimap-1095b25cdd": "nothing: held as ZAF-003",
+    "dpimap-f7c1ffe440": "nothing: a category label linked to a scheme home page, not wallet-to-bank service stated",
+    "dpimap-d9a7c217e0": "nothing: held as ZAF-003",
+    "dpimap-033db10111": "nothing: transaction types not assessed",
+    "dpimap-c7185748c7": "nothing: clearing infrastructure not assessed",
+    "dpimap-16c8f6ed68": "nothing: bank participation not assessed",
+    "dpimap-81440cbda3": "nothing: non-bank participation not assessed",
+    "dpimap-2cf4ae5091": "nothing: participant count not assessed",
+    "dpimap-2e6ecec6a6": "nothing: transaction value not assessed",
+    "dpimap-9fda155810": "nothing: transaction volume not assessed",
+    "dpimap-afb6ef400f": "nothing: interbank clearing system, service held as ZAF-003",
+    "dpimap-5fa0ed0e76": "nothing: system type is not an aspect",
+    "dpimap-7582d91911": "nothing: interbank clearing system, service held as ZAF-003",
+    "dpimap-19f5c6742d": "nothing: transaction types not assessed",
+    "dpimap-3a0734270a": "nothing: clearing infrastructure not assessed",
+    "dpimap-e42bf79ff0": "nothing: bank participation not assessed",
+    "dpimap-56b78c560a": "nothing: non-bank participation not assessed",
+    "dpimap-d50f0a24bb": "nothing: participant count not assessed",
+    "dpimap-c95b89c568": "nothing: transaction value not assessed",
+    "dpimap-0258789043": "nothing: transaction volume not assessed"
+  }
+}

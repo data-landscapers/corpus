@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "InstaPay/IPIN", "country_label": "Egypt", "class": "retail", "platform": "", "owner": "Central Bank of Egypt", "tiers": ""}
+  ],
+  "note": "The database lines on InstaPay restate what evidence.csv already holds from primaries (in service, interoperable, national instant network); the rest is not assessed.",
+  "claims": {
+    "dpimap-012a13f2c8": "nothing: held as EGY-015",
+    "dpimap-10873c2d56": "nothing: held as EGY-009",
+    "dpimap-c03b37642f": "nothing: held as EGY-015",
+    "dpimap-bd0f5bb007": "nothing: transaction types, not an aspect",
+    "dpimap-9226268dd5": "nothing: participation not assessed",
+    "dpimap-24d4cb7ff7": "nothing: a database's no",
+    "dpimap-e92542c13e": "nothing: participant count not assessed",
+    "dpimap-2766a3e4cb": "nothing: value of transactions not assessed",
+    "dpimap-095756ee13": "nothing: fees not assessed"
+  }
+}

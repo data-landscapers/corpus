@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Database lines only say a domestic instant payment system is not yet active; the study already holds LeSwitch in service.",
+  "claims": {
+    "dpimap-674e17c8d1": "nothing: a database's no",
+    "dpimap-b02acf0a22": "nothing: contradicted by LSO-013"
+  }
+}

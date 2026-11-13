@@ -1,0 +1,22 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PI-SPI (Plateforme Interopérable du Système de Paiement Instantané)", "country_label": "Niger", "class": "retail", "platform": "", "owner": "BCEAO", "tiers": ""}
+  ],
+  "note": "Every answer is already held from a primary or is not something the study's aspects hold.",
+  "claims": {
+    "dpimap-dbaa39b6f2": "nothing: held as NER-004",
+    "dpimap-1f357c0124": "nothing: cross-domain does not name wallets and banks",
+    "dpimap-d15c3d3167": "nothing: held as NER-004",
+    "dpimap-280109e99f": "nothing: transaction types not assessed",
+    "dpimap-dd333c01eb": "nothing: clearing infrastructure not assessed",
+    "dpimap-274e4cdd92": "nothing: participation rules not assessed",
+    "dpimap-29b55105c9": "nothing: participation rules not assessed",
+    "dpimap-bc0cf83355": "nothing: participant count not assessed",
+    "dpimap-4ca1a560de": "nothing: not found, states nothing",
+    "dpimap-ba1b101147": "nothing: not found, states nothing",
+    "dpimap-2858dfe7c6": "nothing: fees not assessed",
+    "dpimap-d3cfa9d301": "nothing: QR not assessed"
+  }
+}

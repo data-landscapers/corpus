@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "MauCAS (Mauritius Central Automated Switch)", "country_label": "Mauritius", "class": "retail", "platform": "", "owner": "Bank of Mauritius", "tiers": ""}
+  ],
+  "note": "Every answer is already held from a primary or is not something the study's aspects hold.",
+  "claims": {
+    "dpimap-1bfe317a67": "nothing: held as MUS-002",
+    "dpimap-19cf4c15d5": "nothing: system type is not an aspect; MauCAS interop held as MUS-002",
+    "dpimap-d3626ed8c2": "nothing: held as MUS-002",
+    "dpimap-1c3705ac67": "nothing: transaction types not assessed",
+    "dpimap-97e1f13ea4": "nothing: participation rules not assessed",
+    "dpimap-ed4d55610b": "nothing: participation rules not assessed",
+    "dpimap-c5e85d1369": "nothing: participant count not assessed",
+    "dpimap-0fc7be69fa": "nothing: transaction value not assessed",
+    "dpimap-5e97b80897": "nothing: transaction volume not assessed"
+  }
+}

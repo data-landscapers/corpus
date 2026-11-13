@@ -1,0 +1,40 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GhanaPay/ GIPS",
+   "country_label": "",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "eCedi (CBDC)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Database record only; GIPS answers already held in evidence.csv, eCedi is a CBDC.",
+ "claims": {
+  "dpimap-7bf593661c": "nothing: held as GHA-013",
+  "dpimap-34d433d4cf": "nothing: held as GHA-011",
+  "dpimap-18bb8537a7": "nothing: held as GHA-013",
+  "dpimap-117b77ad44": "nothing: held as GHA-013",
+  "dpimap-7dda74b1d0": "nothing: held as GHA-011",
+  "dpimap-fb20c280a0": "nothing: held as GHA-011",
+  "dpimap-e6bd4dba7e": "nothing: not assessed by the study",
+  "dpimap-682a73e340": "nothing: not assessed by the study",
+  "dpimap-efa3f341d3": "nothing: not assessed by the study",
+  "dpimap-f7bb6a0b5a": "nothing: eCedi is a CBDC, planned or piloted, not mobile money",
+  "dpimap-73ef31ae83": "nothing: CBDC, not assessed",
+  "dpimap-e17ede26e0": "nothing: CBDC, not assessed",
+  "dpimap-a4fa777504": "nothing: CBDC, not assessed",
+  "dpimap-b28e7d1135": "nothing: CBDC, not assessed",
+  "dpimap-6c97d4394f": "nothing: CBDC, not assessed"
+ }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "DZMobPay (GIE Monétique)", "country_label": "Algeria", "class": "retail", "platform": "", "owner": "GIE Monétique", "tiers": ""}
+  ],
+  "note": "The database lines on DZMobPay restate what evidence.csv already holds from primaries (in service, interbank, national mobile switch); the rest is not assessed.",
+  "claims": {
+    "dpimap-14f63e8651": "nothing: held as DZA-004",
+    "dpimap-f56a7de248": "nothing: held as DZA-005",
+    "dpimap-fc0679163b": "nothing: held as DZA-004",
+    "dpimap-872d69d9e7": "nothing: transaction types, not an aspect",
+    "dpimap-bd5b2680c0": "nothing: held as DZA-019",
+    "dpimap-0f8bc2e3a6": "nothing: held as DZA-005",
+    "dpimap-92b1de11ef": "nothing: participation not assessed",
+    "dpimap-aa66b0acb7": "nothing: participant count not assessed",
+    "dpimap-940672fa89": "nothing: fees not assessed",
+    "dpimap-7ba926d689": "nothing: QR clearing not assessed"
+  }
+}

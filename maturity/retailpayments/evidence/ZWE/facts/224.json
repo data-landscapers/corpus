@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Zimswitch Instant Payment Interchange Technology (ZIPIT)", "country_label": "Zimbabwe", "class": "retail", "platform": "", "owner": "", "tiers": "implemented per DPI Map"}
+  ],
+  "note": "Database lines only; service and interop are held as ZWE-010, ZWE-002 and ZWE-004.",
+  "claims": {
+    "dpimap-857a42a99a": "nothing: held as ZWE-010",
+    "dpimap-ab57863798": "nothing: held as ZWE-004",
+    "dpimap-a2e8091bc7": "nothing: held as ZWE-010",
+    "dpimap-d6950516bb": "nothing: transaction types not assessed",
+    "dpimap-12129b74a9": "nothing: held as ZWE-004",
+    "dpimap-7d02e2a865": "nothing: held as ZWE-004",
+    "dpimap-eb358b0c65": "nothing: participant count not assessed",
+    "dpimap-5fdf412a8a": "nothing: a database's no"
+  }
+}

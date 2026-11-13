@@ -1,0 +1,22 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PI-SPI", "country_label": "Mali", "class": "retail", "platform": "instant payment system connecting banks and mobile money", "owner": "BCEAO", "tiers": ""}
+  ],
+  "note": "PI-SPI in operation with banks and e-money issuers is already held (MLI-010, MLI-011, MLI-019); the rest is not an aspect of this study.",
+  "claims": {
+    "dpimap-a99c5c5d4b": "nothing: held as MLI-010",
+    "dpimap-6450c9d58f": "nothing: held as MLI-009",
+    "dpimap-ec5dd63bc5": "nothing: held as MLI-010",
+    "dpimap-acd253fcc2": "nothing: transaction types not assessed",
+    "dpimap-61bfddc7d1": "nothing: BCEAO regional hub, not a national switch",
+    "dpimap-3de7a8ecb3": "nothing: held as MLI-011",
+    "dpimap-442ea5c40d": "nothing: held as MLI-011",
+    "dpimap-0acd89899d": "nothing: participant count not assessed",
+    "dpimap-2c6c5963a8": "nothing: a database's no",
+    "dpimap-3a14aae5ce": "nothing: a database's no",
+    "dpimap-e94c651fac": "nothing: fees not assessed",
+    "dpimap-ec7e3667d1": "nothing: QR not assessed"
+  }
+}

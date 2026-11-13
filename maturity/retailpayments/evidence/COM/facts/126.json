@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "The database lines call the domestic instant payment system planned or piloted and not active; evidence.csv holds Komor Switch in service from a primary.",
+  "claims": {
+    "dpimap-f94471765b": "nothing: contradicted by COM-001",
+    "dpimap-639919a069": "nothing: contradicted by COM-001"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "SPIM", "country_label": "Mozambique", "class": "retail", "platform": "instant payment system connecting banks and wallets", "owner": "Bank of Mozambique", "tiers": ""},
+    {"system": "Sociedade Interbancaria De Mocambique (SIMO)", "country_label": "Mozambique", "class": "", "platform": "interbank operator", "owner": "", "tiers": ""},
+    {"system": "Domestic IPS", "country_label": "Mozambique", "class": "", "platform": "interbank instant payment system", "owner": "", "tiers": ""}
+  ],
+  "note": "SPIM in operation is already held (MOZ-008 to MOZ-011); the SIMO and Domestic IPS lines rest on a third-party platform link or are not aspects of this study.",
+  "claims": {
+    "dpimap-f6691f7b90": "nothing: link is a third-party platform",
+    "dpimap-4f50b15b0b": "nothing: system type not assessed",
+    "dpimap-d984a8944f": "nothing: contradicted by MOZ-009",
+    "dpimap-8b99b39e36": "nothing: transaction types not assessed",
+    "dpimap-ec2278d9da": "nothing: link is a third-party platform",
+    "dpimap-cabd5950dc": "nothing: link is a third-party platform",
+    "dpimap-ca9c367b51": "nothing: link is a third-party platform",
+    "dpimap-cc4cc95fd3": "nothing: transaction types not assessed",
+    "dpimap-a4fba12d78": "nothing: participation not assessed",
+    "dpimap-ea134643b4": "nothing: participation not assessed",
+    "dpimap-bc914715da": "nothing: participant count not assessed",
+    "dpimap-5619e2aa8f": "nothing: transaction value not assessed",
+    "dpimap-930a0dbc06": "nothing: transaction volume not assessed",
+    "dpimap-0e871778e7": "nothing: held as MOZ-008",
+    "dpimap-235b407eea": "nothing: held as MOZ-008",
+    "dpimap-938a92dec2": "nothing: held as MOZ-008",
+    "dpimap-1a9bc30caf": "nothing: held as MOZ-011",
+    "dpimap-ebe76026d5": "nothing: held as MOZ-011"
+  }
+}

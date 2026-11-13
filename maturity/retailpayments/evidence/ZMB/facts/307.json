@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "National Financial Switch (NFS)", "country_label": "Zambia", "class": "retail", "platform": "", "owner": "", "tiers": "implemented per DPI Map"}
+  ],
+  "note": "Database lines only; in service, interop and national switch are held as ZMB-010 and ZMB-011.",
+  "claims": {
+    "dpimap-b667bff610": "nothing: held as ZMB-011",
+    "dpimap-a1c61abec9": "nothing: held as ZMB-011",
+    "dpimap-b33258d3a2": "nothing: held as ZMB-011",
+    "dpimap-cd2b98beaf": "nothing: transaction types not assessed",
+    "dpimap-f002b76dec": "nothing: held as ZMB-010",
+    "dpimap-9c1360d0a4": "nothing: held as ZMB-010",
+    "dpimap-85bd7f012b": "nothing: participant count not assessed",
+    "dpimap-fda31c78ce": "nothing: transaction value not assessed",
+    "dpimap-fd879ccb71": "nothing: transaction volume not assessed"
+  }
+}

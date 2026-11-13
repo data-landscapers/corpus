@@ -1,0 +1,22 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "STII (Sistema de Transferências Imediatas e Inclusivas)", "country_label": "Cabo Verde", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The database lines list STII as planned or piloted with every other field not found; no aspect of the study holds a new fact, and evidence.csv already holds mobile money in service.",
+  "claims": {
+    "dpimap-d4d4801a54": "nothing: a database's no",
+    "dpimap-36d2b79fcf": "nothing: not found",
+    "dpimap-1930a6f643": "nothing: contradicted by CPV-002",
+    "dpimap-4a083942d3": "nothing: not found",
+    "dpimap-e607f3878c": "nothing: not found",
+    "dpimap-111f380889": "nothing: not found",
+    "dpimap-400320a312": "nothing: not found",
+    "dpimap-13737621f8": "nothing: not found",
+    "dpimap-e21c0da61b": "nothing: not found",
+    "dpimap-ad920277bb": "nothing: not found",
+    "dpimap-c8b6b3f8ed": "nothing: not found",
+    "dpimap-57f19de095": "nothing: not found"
+  }
+}

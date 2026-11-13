@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [],
+  "note": "Database record only: its no and its planned/piloted status are not facts, and evidence.csv holds Kwik in service.",
+  "claims": {
+    "dpimap-adf38f65a5": "nothing: a database's no",
+    "dpimap-a2cfa8517f": "nothing: contradicted by AGO-004"
+  }
+}

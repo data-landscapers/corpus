@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Switch Al Maghrib", "country_label": "Morocco", "class": "retail", "platform": "national switch", "owner": "", "tiers": ""}
+  ],
+  "note": "Switch Al Maghrib in operation, as a switch for banks and non-bank providers, is already held as MAR-007, MAR-008, MAR-009 and MAR-012.",
+  "claims": {
+    "dpimap-5c9f4c494f": "nothing: held as MAR-007",
+    "dpimap-e6b3776096": "nothing: held as MAR-008",
+    "dpimap-28ce99d381": "nothing: held as MAR-007",
+    "dpimap-5bfbae5057": "nothing: transaction types not assessed",
+    "dpimap-5562320974": "nothing: held as MAR-012",
+    "dpimap-7bac365613": "nothing: held as MAR-009",
+    "dpimap-20db7893be": "nothing: held as MAR-009",
+    "dpimap-b821754c72": "nothing: participant count not assessed",
+    "dpimap-114a5a9d3f": "nothing: transaction value not assessed"
+  }
+}

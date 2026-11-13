@@ -1,0 +1,17 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "eKash", "country_label": "Rwanda", "class": "retail", "platform": "", "owner": "National Bank of Rwanda", "tiers": ""}
+  ],
+  "note": "Every answer is already held from a primary or is not something the study's aspects hold.",
+  "claims": {
+    "dpimap-577077e955": "nothing: held as RWA-002",
+    "dpimap-6a739d8377": "nothing: system type not assessed; interop held as RWA-002",
+    "dpimap-b08754cd59": "nothing: held as RWA-003",
+    "dpimap-e753660bc6": "nothing: transaction types not assessed",
+    "dpimap-5fed11e348": "nothing: participation rules not assessed",
+    "dpimap-b078a565d9": "nothing: participation rules not assessed",
+    "dpimap-5019267cab": "nothing: participant count not assessed"
+  }
+}

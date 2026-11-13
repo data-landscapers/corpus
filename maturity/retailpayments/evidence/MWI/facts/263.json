@@ -1,0 +1,20 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "National Switch", "country_label": "Malawi", "class": "retail", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Every answer is already held from a primary or is not something the study's aspects hold.",
+  "claims": {
+    "dpimap-427656e559": "nothing: held as MWI-007",
+    "dpimap-4b3c6635b7": "nothing: system type is not an aspect; switch held as MWI-007",
+    "dpimap-485e775bb3": "nothing: held as MWI-007",
+    "dpimap-a850864bbf": "nothing: transaction types not assessed",
+    "dpimap-98ddb0a23c": "nothing: participation rules not assessed",
+    "dpimap-73b28c0342": "nothing: participation rules not assessed",
+    "dpimap-fd6639a833": "nothing: participant count not assessed",
+    "dpimap-7cbb5fec77": "nothing: transaction value not assessed",
+    "dpimap-cf5e033198": "nothing: transaction volume not assessed",
+    "dpimap-c4d103cb29": "nothing: a database's no"
+  }
+}

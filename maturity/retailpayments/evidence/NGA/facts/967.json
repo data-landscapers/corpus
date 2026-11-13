@@ -1,0 +1,41 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "NIBSS Instant Payment (NIP)", "country_label": "Nigeria", "class": "retail", "platform": "", "owner": "NIBSS", "tiers": ""},
+    {"system": "Nigeria Mobile money", "country_label": "Nigeria", "class": "retail", "platform": "", "owner": "", "tiers": ""},
+    {"system": "eNaira (CBDC)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "Central Bank of Nigeria", "tiers": ""}
+  ],
+  "note": "Every answer is already held from a primary or is not something the study's aspects hold.",
+  "claims": {
+    "dpimap-4248b971a6": "nothing: held as NGA-003",
+    "dpimap-2e2a6d467a": "nothing: system type not assessed; interop held as NGA-001",
+    "dpimap-db849034e8": "nothing: held as NGA-003",
+    "dpimap-e5669f63a4": "nothing: transaction types not assessed",
+    "dpimap-6a56f79c31": "nothing: clearing infrastructure not assessed",
+    "dpimap-1185be3880": "nothing: participation rules not assessed",
+    "dpimap-124295e4b0": "nothing: participation rules not assessed",
+    "dpimap-e7402cd8ff": "nothing: participant count not assessed",
+    "dpimap-d280aa24fa": "nothing: transaction value not assessed",
+    "dpimap-126831902a": "nothing: transaction volume not assessed",
+    "dpimap-6050ae8739": "nothing: held as NGA-005",
+    "dpimap-de6af86289": "nothing: system type not assessed; service held as NGA-005",
+    "dpimap-a7e944ca97": "nothing: held as NGA-005",
+    "dpimap-585341f8d2": "nothing: transaction types not assessed",
+    "dpimap-5966adb4cb": "nothing: clearing infrastructure not assessed",
+    "dpimap-1acdcc4a34": "nothing: participation rules not assessed",
+    "dpimap-00c16ddf25": "nothing: participation rules not assessed",
+    "dpimap-942666cfc2": "nothing: participant count not assessed",
+    "dpimap-fa1802ccc7": "nothing: transaction value not assessed",
+    "dpimap-7149f6f06f": "nothing: transaction volume not assessed",
+    "dpimap-4bfc59bf64": "nothing: eNaira is a CBDC, not assessed",
+    "dpimap-5c1fb17230": "nothing: eNaira is a CBDC, not assessed",
+    "dpimap-577786affb": "nothing: eNaira is a CBDC, not assessed",
+    "dpimap-fc819025a3": "nothing: eNaira is a CBDC, not assessed",
+    "dpimap-53137684a7": "nothing: eNaira is a CBDC, not assessed",
+    "dpimap-ea7db26572": "nothing: eNaira is a CBDC, not assessed",
+    "dpimap-c25c2e0254": "nothing: eNaira is a CBDC, not assessed",
+    "dpimap-3af29d781e": "nothing: eNaira is a CBDC, not assessed",
+    "dpimap-8bb49b6108": "nothing: eNaira is a CBDC, not assessed"
+  }
+}

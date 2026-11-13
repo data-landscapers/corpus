@@ -1,0 +1,22 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PI-SPI (Plateforme Interopérable du Système de Paiement Instantané)", "country_label": "Côte d'Ivoire", "class": "retail", "platform": "", "owner": "BCEAO", "tiers": ""}
+  ],
+  "note": "Every claim is already held in evidence.csv, is not an aspect of the study, or is a not-found.",
+  "claims": {
+    "dpimap-44acdbb20d": "nothing: held as CIV-008",
+    "dpimap-c063829a49": "nothing: held as CIV-008",
+    "dpimap-4610decbb9": "nothing: held as CIV-008",
+    "dpimap-965a7ea481": "nothing: transaction types not assessed",
+    "dpimap-74e7eaf284": "nothing: regional switch, not a national one",
+    "dpimap-c637c52666": "nothing: who may join not assessed",
+    "dpimap-08344550f1": "nothing: who may join not assessed",
+    "dpimap-530d904f44": "nothing: participant count not assessed",
+    "dpimap-9bd6dae432": "nothing: not found",
+    "dpimap-2f8635b909": "nothing: not found",
+    "dpimap-9e3cf832d1": "nothing: fees not assessed",
+    "dpimap-d7546ccf6c": "nothing: QR not assessed"
+  }
+}

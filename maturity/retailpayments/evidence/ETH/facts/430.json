@@ -1,0 +1,25 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EthSwitch",
+   "country_label": "",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Database record only; its answers on EthSwitch are already held in evidence.csv or not assessed.",
+ "claims": {
+  "dpimap-2ea309c1cc": "nothing: held as ETH-005",
+  "dpimap-efd279cf80": "nothing: held as ETH-011",
+  "dpimap-c2b48c04c5": "nothing: held as ETH-005",
+  "dpimap-b306e1a5cd": "nothing: held as ETH-003",
+  "dpimap-06b404380f": "nothing: not assessed by the study",
+  "dpimap-dbdcf97346": "nothing: not assessed by the study",
+  "dpimap-6142322b6e": "nothing: not assessed by the study",
+  "dpimap-000ae2c966": "nothing: not assessed by the study"
+ }
+}

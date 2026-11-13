@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PesaLink",
+   "country_label": "",
+   "class": "retail",
+   "platform": "",
+   "owner": "IPSL",
+   "tiers": ""
+  },
+  {
+   "system": "M-Pesa",
+   "country_label": "",
+   "class": "retail",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": "Database record only; M-Pesa and PesaLink answers already held in evidence.csv or not assessed.",
+ "claims": {
+  "dpimap-6ca67ede59": "nothing: held as KEN-013",
+  "dpimap-34e3e8ae51": "nothing: held as KEN-013",
+  "dpimap-75cd4bf11a": "nothing: held as KEN-013",
+  "dpimap-ca67f1f926": "nothing: held as KEN-013",
+  "dpimap-ab4d5080b3": "nothing: held as KEN-013",
+  "dpimap-b08633d836": "nothing: not assessed by the study",
+  "dpimap-79110100d3": "nothing: a database's no",
+  "dpimap-bd5eecd0ba": "nothing: not assessed by the study",
+  "dpimap-f01950ca76": "nothing: not assessed by the study",
+  "dpimap-b8293c05c6": "nothing: not assessed by the study",
+  "dpimap-767f90f6e2": "nothing: not assessed by the study",
+  "dpimap-f520d3d8e1": "nothing: held as KEN-012",
+  "dpimap-6e0edb22ea": "nothing: held as KEN-012",
+  "dpimap-296023b2d9": "nothing: held as KEN-012",
+  "dpimap-c3482c89b9": "nothing: held as KEN-012",
+  "dpimap-ef48e71aa0": "nothing: not assessed by the study",
+  "dpimap-3b3828f537": "nothing: a database's no",
+  "dpimap-470664d772": "nothing: held as KEN-012",
+  "dpimap-6625d57bcf": "nothing: not assessed by the study",
+  "dpimap-6e0f4b86cf": "nothing: not assessed by the study",
+  "dpimap-2915b55518": "nothing: not assessed by the study"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "2026-11-06-dpi-map-2026-11-12",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PI-SPI (Plateforme Interopérable du Système de Paiement Instantané)",
+   "country_label": "",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": "Database record only; PI-SPI interoperability and participants already held.",
+ "claims": {
+  "dpimap-c361a6200e": "nothing: held as GNB-006",
+  "dpimap-e7661981cf": "nothing: held as GNB-006",
+  "dpimap-d7d9ee0e4d": "nothing: held as GNB-008",
+  "dpimap-0a8f193446": "nothing: held as GNB-006",
+  "dpimap-d7dd695413": "nothing: PI-SPI is BCEAO's regional hub, not a national switch; interop held as GNB-006",
+  "dpimap-25a556cb08": "nothing: held as GNB-006",
+  "dpimap-b201e6e1f6": "nothing: held as GNB-006",
+  "dpimap-5b5a816c21": "nothing: held as GNB-008",
+  "dpimap-f78860a2b8": "nothing: not assessed by the study",
+  "dpimap-1b4c962c4e": "nothing: not assessed by the study",
+  "dpimap-38af2b56f9": "nothing: not assessed by the study",
+  "dpimap-a0078ae73a": "nothing: not assessed by the study"
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile money", "country_label": "Madagascar", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""},
+    {"system": "Domestic IPS", "country_label": "Madagascar", "class": "", "platform": "interbank instant payment system, planned", "owner": "", "tiers": ""}
+  ],
+  "note": "Mobile money in service is already held (MDG-010 and others); the interbank line is a planned system on a third-party platform and contradicts itself.",
+  "claims": {
+    "dpimap-ff09428526": "nothing: link is a third-party platform",
+    "dpimap-b48e3480c9": "nothing: system type not assessed",
+    "dpimap-48fb6d3218": "nothing: contradicted by MDG-010",
+    "dpimap-fe3f9f68b0": "nothing: transaction types not assessed",
+    "dpimap-a21699d2a7": "nothing: held as MDG-010",
+    "dpimap-7881f3cbfa": "nothing: held as MDG-010",
+    "dpimap-9a12ceef2a": "nothing: held as MDG-010",
+    "dpimap-51666b2b9c": "nothing: transaction types not assessed",
+    "dpimap-3c308a63f1": "nothing: clearing not assessed",
+    "dpimap-e6dc2d2bf6": "nothing: participation not assessed",
+    "dpimap-8ba1d2dd0c": "nothing: participation not assessed",
+    "dpimap-1c08588c50": "nothing: transaction value not assessed"
+  }
+}

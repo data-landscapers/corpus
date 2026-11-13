@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "TIPS (Tanzania Instant Payment System)", "country_label": "Tanzania", "class": "retail", "platform": "", "owner": "", "tiers": "implemented per DPI Map"}
+  ],
+  "note": "Database lines only; in service, interop and national switch are held as TZA-003, TZA-011 and TZA-012.",
+  "claims": {
+    "dpimap-7619bac8a0": "nothing: held as TZA-003",
+    "dpimap-adee2fc9db": "nothing: held as TZA-012",
+    "dpimap-b5b6ca6ff2": "nothing: held as TZA-003",
+    "dpimap-be5749b84c": "nothing: transaction types not assessed",
+    "dpimap-7f565b13f6": "nothing: clearing infrastructure not assessed",
+    "dpimap-57a4d9fdce": "nothing: held as TZA-011",
+    "dpimap-65e252fedd": "nothing: held as TZA-011",
+    "dpimap-3083e17104": "nothing: participant count not assessed"
+  }
+}

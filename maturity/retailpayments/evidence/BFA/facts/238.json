@@ -1,0 +1,24 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PI-SPI (Plateforme Interopérable du Système de Paiement Instantané)", "country_label": "Burkina Faso", "class": "retail", "platform": "", "owner": "BCEAO", "tiers": ""},
+    {"system": "Faso Arzêka", "country_label": "Burkina Faso", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Every claim is already held in evidence.csv, is not an aspect of the study, is a database's no, or is a not-found.",
+  "claims": {
+    "dpimap-5497ab7f68": "nothing: a database's no",
+    "dpimap-6db5d281b5": "nothing: held as BFA-006",
+    "dpimap-12b6d8452e": "nothing: held as BFA-006",
+    "dpimap-6a2b9d69a6": "nothing: held as BFA-006",
+    "dpimap-3e635657fe": "nothing: transaction types not assessed",
+    "dpimap-26d94f226f": "nothing: regional switch, not a national one",
+    "dpimap-de3931dc1b": "nothing: who may join not assessed",
+    "dpimap-ef1c920aa1": "nothing: who may join not assessed",
+    "dpimap-ad26ee0546": "nothing: participant count not assessed",
+    "dpimap-4468deb44f": "nothing: not found",
+    "dpimap-ec849845f5": "nothing: not found",
+    "dpimap-d03baa7db1": "nothing: fees not assessed",
+    "dpimap-5b73ccc33e": "nothing: QR not assessed"
+  }
+}

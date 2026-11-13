@@ -1,0 +1,22 @@
+{
+  "slug": "2026-11-06-dpi-map-2026-11-12",
+  "facts": [],
+  "systems": [
+    {"system": "PI-SPI (Plateforme Interopérable du Système de Paiement Instantané)", "country_label": "Senegal", "class": "retail", "platform": "", "owner": "BCEAO", "tiers": ""}
+  ],
+  "note": "Every answer is already held from a primary or is not something the study's aspects hold.",
+  "claims": {
+    "dpimap-4280564a2f": "nothing: held as SEN-001",
+    "dpimap-59386c6e92": "nothing: cross-domain does not name wallets and banks",
+    "dpimap-10f6e2da9e": "nothing: held as SEN-006",
+    "dpimap-50c498a941": "nothing: transaction types not assessed",
+    "dpimap-b266c580a8": "nothing: clearing infrastructure not assessed",
+    "dpimap-800008f5e9": "nothing: participation rules not assessed",
+    "dpimap-f06096a376": "nothing: participation rules not assessed",
+    "dpimap-11cb4b24e1": "nothing: participant count not assessed",
+    "dpimap-080f52facf": "nothing: not found, states nothing",
+    "dpimap-3fd5a26d18": "nothing: not found, states nothing",
+    "dpimap-7a89295721": "nothing: fees not assessed",
+    "dpimap-f26817e9d3": "nothing: QR not assessed"
+  }
+}
