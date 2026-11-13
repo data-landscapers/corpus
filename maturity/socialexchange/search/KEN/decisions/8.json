@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "exchange",
+ "fact": "To access NSNP cash transfers, beneficiaries register with a valid national ID and biometrics, their credentials are validated against the IPRS, and the programme shares their data with the Kenyan Single Registry.",
+ "title": "Opportunities for Improving Digital Identification in Social Cash Transfer Programmes through Mobile",
+ "publisher": "GSMA",
+ "published": "2020-04",
+ "date_source": "source",
+ "why_not": "",
+ "sub_indicator": "exchange"
+}

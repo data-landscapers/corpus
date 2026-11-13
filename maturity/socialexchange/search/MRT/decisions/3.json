@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;linked",
+ "fact": "The completion report says a consolidated MIS links the registry, Tekavoul and Elmaouna systems and the payment system, while no convention with the civil registry agency ANRPTS had been signed.",
+ "title": "Mauritania Social Safety Net System: Implementation Completion and Results Report",
+ "publisher": "World Bank",
+ "published": "2021-04-15",
+ "date_source": "source",
+ "why_not": ""
+}

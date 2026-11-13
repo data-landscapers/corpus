@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;linked",
+ "fact": "The Ministry of Local Government states the Imibereho social registry is interoperable with NID, CRVS, land, MOH, MINEDUC, VUP and CBHI systems.",
+ "title": "Overview on Social Protection in Rwanda (presentation to the UN Expert on Poverty and Human Rights)",
+ "publisher": "Ministry of Local Government, Rwanda",
+ "published": "2025-11-26",
+ "date_source": "source",
+ "why_not": ""
+}

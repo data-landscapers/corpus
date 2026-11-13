@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;registry;linked",
+ "fact": "At the 18 March 2025 dialogue the Ministry of Local Government stated the social registry validates data against NIDA, CRVS, RRA, LAND and SDMS and shares beneficiaries with LODA MEIS and RSSB CBHI through the government enterprise service bus.",
+ "title": "Leveraging Interoperability for Social Impact in Rwanda",
+ "publisher": "Digital Convergence Initiative (SPDCI)",
+ "published": "2025-03-18",
+ "date_source": "source",
+ "why_not": ""
+}

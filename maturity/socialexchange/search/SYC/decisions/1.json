@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "As of August 2026 ASP Connect, the Agency for Social Protection's system, is accessed through the SeyID portal single national sign-on, and the ICT department is coordinating integration tests with other SeyID-hosted services ahead of national rollout.",
+ "title": "ASP Connect Stakeholder Briefing Signals Push Toward National Rollout",
+ "publisher": "Seychelles Times",
+ "published": "2026-08-18",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "exchange",
+ "aspect": "",
+ "fact": "",
+ "title": "Malawi Social Registry (MSR) - Data Sharing App",
+ "publisher": "Malawi Social Registry",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: undated page describing a data request app, no dated exchange fact"
+}

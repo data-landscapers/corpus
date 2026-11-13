@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;linked",
+ "fact": "The national safety nets programme concept document approved by decree of 12 October 2023 says RSU interoperability with civil identification, civil registry and the NIU is under way, and that the RSU team will make collected data interoperable with the NIU.",
+ "title": "Décret n° 2023-1740 du 12 octobre 2023 portant approbation du document conceptuel du programme national de filets sociaux 2023-2026",
+ "publisher": "Journal officiel de la République du Congo",
+ "published": "2023-10-12",
+ "date_source": "source",
+ "why_not": ""
+}

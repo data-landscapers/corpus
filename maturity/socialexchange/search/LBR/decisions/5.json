@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "registry",
+ "fact": "Per the May 2024 article, the LHSR and the MIS are used by three government-led social protection programmes, with more expected under REALISE, and 250,000+ households are enrolled.",
+ "title": "Building Liberia Household Social Registry",
+ "publisher": "Social Protection Liberia (Ministry of Gender, Children and Social Protection)",
+ "published": "2024-05-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

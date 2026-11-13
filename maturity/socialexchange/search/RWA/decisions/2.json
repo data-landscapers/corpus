@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;registry",
+ "fact": "The Imibereho Social Registry, launched in 2024 and covering 99.2% of households, is integrated with VUP and Community-Based Health Insurance and pulls data from the common ID and civil registration systems.",
+ "title": "A dialogue series for advancing interoperability in the social protection sector (Learning Brief #18)",
+ "publisher": "Digital Convergence Initiative (SPDCI)",
+ "published": "2025-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

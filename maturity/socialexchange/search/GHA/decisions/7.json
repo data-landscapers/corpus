@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "LEAP pays beneficiaries through the e-zwich platform and GhIPSS and PayCode, and in 2026 selects households using Ghana National Household Registry data, with the post-reassessment payment commencing 14 September 2026.",
+ "title": "Frequently Asked Questions - LEAP Ghana",
+ "publisher": "LEAP Management Secretariat, Ministry of Gender, Children and Social Protection",
+ "published": "2026-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

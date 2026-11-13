@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://documents1.worldbank.org/curated/en/099071525165029379/pdf/P177331-a772f9c1-e340-4f76-aeb0-90fd4e7a3496.pdf,rejected,rejected 2026-09-03: duplicate-raw-slug,,0,,
+2,https://ijsmr.in/doc/ijsmr05_07.pdf,fetched,,scripts/.workroot/study/socialexchange/cache/ERI/2.txt,15696,pdf,Review of social protection experiences in Sub-Saharan Africa: The case of Eritrea
+3,https://social-assistance.univen.ac.za/country/eritrea,fetched,,scripts/.workroot/study/socialexchange/cache/ERI/3.txt,148,html,Eritrea
+4,https://open.unicef.org/sites/transparency/files/documents/1420A007703001000.pdf,unfetchable,HTTP 403; no usable Wayback capture,,0,,

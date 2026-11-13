@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;linked",
+ "fact": "A July 2024 UNICEF policy brief says the Zara Mira project and the RSU social windows are connected through application interfaces, the RSU and CommCare are integrated through interfaces and e-fokontany household codes, and the national unique ID (NUI) was still being procured.",
+ "title": "Enhancing the Social Register's contribution to climate disaster risk reduction in Madagascar",
+ "publisher": "UNICEF Madagascar",
+ "published": "2024-07",
+ "date_source": "source",
+ "why_not": ""
+}

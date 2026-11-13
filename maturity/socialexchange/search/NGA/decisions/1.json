@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;linked",
+ "fact": "NASSCO says more than 12.3 million Nigerians have been linked to the National Social Register through their NINs, with 11.5 million NINs validated across 37 states and 774 LGAs.",
+ "title": "12.3 million Nigerians linked to social register through NIN says NASSCO",
+ "publisher": "Punch",
+ "published": "2026-05-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The SCT MIS and payment gateway were integrated to nine payment service providers, with beneficiary identity checked against the National Registration Card and SCT deployed across all 116 districts.",
+ "title": "Digitizing cash transfers to remote rural populations: challenges and solutions from the experience of Zambia",
+ "publisher": "World Bank, Social Protection & Jobs Policy & Technical Note No. 27",
+ "published": "2022-10",
+ "date_source": "source",
+ "why_not": ""
+}

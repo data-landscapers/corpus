@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "registry",
+ "fact": "The USR database consolidates data on about 700,000 households requested or collected by programmes including PARCA, WFP, DIZA and the National Health Insurance Fund, held as CSV and Excel files, covering 15 of 23 provinces.",
+ "title": "Adaptive Social Protection in Fragility, Conflict, and Violence (FCV) Contexts: The Case of Chad",
+ "publisher": "World Bank, SASPP Technical Paper Series",
+ "published": "2025-10",
+ "date_source": "source",
+ "why_not": ""
+}

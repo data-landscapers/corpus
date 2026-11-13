@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "registry;exchange",
+ "fact": "The RSU, covering over 830,000 households, has been used by AFD, WFP and the PDCE project, and the payment system is interoperable only with the Banque Postale du Congo, with interoperability with other administrative databases to be strengthened.",
+ "title": "Project Paper on a Proposed Additional Credit to the Republic of Congo for the Lisungi Emergency COVID-19 Response Project",
+ "publisher": "World Bank",
+ "published": "2022-04-25",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;linked",
+ "fact": "The 2022 review states that by May 2021 beneficiary data from several programmes had been uploaded to the social registry in six districts and that the registry is linked to the Omang ID system for validation.",
+ "title": "Botswana Social Protection Programs and Systems Review",
+ "publisher": "World Bank Group",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

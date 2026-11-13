@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "registry",
+ "fact": "Mozambique has no national ID authority registry, and INAS's e-INAS system with the Beneficiary Registration System serves as a social registry of candidates and recipients.",
+ "title": "G2Px in Mozambique: A Gradual Transition",
+ "publisher": "World Bank",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

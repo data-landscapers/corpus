@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "registry;exchange",
+ "fact": "NISSA was created as a single social registry holding about 90% of households, used for targeting by the CGP, OVC-B and PA programmes, with NISSA and MISSA fully integrated.",
+ "title": "Policy Watch Issue 1: NISSA, The National Social Registry: The Past, the Present, and the Future",
+ "publisher": "UNICEF Lesotho",
+ "published": "2022-08",
+ "date_source": "source",
+ "why_not": ""
+}

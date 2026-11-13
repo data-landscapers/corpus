@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The social identifier operated by CRES had been assigned to over 10 million individuals as of May 2019, identifying people across the CNSS, CNRPS, CNAM and the Ministry of Social Affairs programmes.",
+ "title": "Identification for Development (ID4D): Diagnostic of ID Systems in Tunisia",
+ "publisher": "World Bank",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

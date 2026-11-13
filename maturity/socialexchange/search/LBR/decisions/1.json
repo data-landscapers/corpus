@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "registry;linked",
+ "fact": "As of the ICR dated 24 February 2025, the Liberia Household Social Registry is used by four government programmes under REALISE, and NIR cards promised free to LHSR beneficiaries have not yet been issued, so REALISE budgeted over US$114,000 to buy them for about 22,000 beneficiaries.",
+ "title": "Implementation Completion and Results Report (ICR): First, Second and Third Inclusive Growth Development Policy Operations",
+ "publisher": "World Bank",
+ "published": "2025-02-24",
+ "date_source": "source",
+ "why_not": ""
+}

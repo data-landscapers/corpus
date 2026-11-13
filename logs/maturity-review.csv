@@ -105,7 +105,7 @@ ruralelectrification,rural,infra.energy--rural-electrification,2026-11-13,110,60
 satellitebroadband,satellite,infra.connect--satellite-broadband-licensing-and-availability,2026-11-13,100,55,165
 schoolinternet,schools,capacity.training--dt-related-training-in-secondary-education,2026-11-13,100,50,118
 schools,emis,digital.rural--digitalisation-of-rural-primary-schools,2026-11-13,100,55,161
-socialexchange,exchange,dpi.exchange--interoperability-of-social-protection-systems,,,,
+socialexchange,exchange,dpi.exchange--interoperability-of-social-protection-systems,2026-11-13,110,55,148
 socialprotection,socialmis,dpi.mis--social-protection,,,,
 socialregistry,social,dpi.registry--social-protection-register,,,,
 startups,startuppolicy,tech.innovate--tech-startup-ecosystem,,,,

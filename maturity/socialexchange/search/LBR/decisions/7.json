@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;registry",
+ "fact": "The November 2023 WFP regional synthesis finds Liberia is one of two West African countries whose social registry performs integrated beneficiary registry functions, but interoperability with other government databases is non-existent or nascent and the flagship cash transfer is the only real user of registry data.",
+ "title": "The challenge of coordination and inclusion: use of social registries and broader social protection information systems for capturing multiple vulnerabilities in West Africa",
+ "publisher": "WFP Regional Bureau for Western Africa (with UNICEF)",
+ "published": "2023-11",
+ "date_source": "source",
+ "why_not": ""
+}

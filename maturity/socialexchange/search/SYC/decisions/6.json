@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;registry",
+ "fact": "The 2020 technical assessment says ASP's payroll databases hold the national identity number, only an automatic link to the Ministry of Labour exists with no link back, and a national social registry with interoperability protocols across ministries is proposed.",
+ "title": "Technical Assessment: Seychelles Social Protection Program for Results (Strengthening the Quality of the Social Protection System, P168993)",
+ "publisher": "The World Bank",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

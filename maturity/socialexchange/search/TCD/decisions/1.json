@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;linked",
+ "fact": "The June 2024 appraisal says the USR faces interoperability challenges with other databases for lack of a unique identifier, and the project will build a USR management information system whose functional social ID is designed to be interoperable with the ANATS national ID, plus a mobile payments module.",
+ "title": "Project Appraisal Document: Adaptive and Productive Safety Nets Project",
+ "publisher": "World Bank",
+ "published": "2024-06-07",
+ "date_source": "source",
+ "why_not": ""
+}

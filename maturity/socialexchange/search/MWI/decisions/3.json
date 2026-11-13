@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "registry",
+ "fact": "At the launch of the Malawi Social Registry Data Sharing App, examples were shown of household registry data already used by WFP Malawi and the GIZ EnDeV Programme.",
+ "title": "Malawi launches Data Sharing App for Social Registry",
+ "publisher": "GIZ Malawi",
+ "published": "2026-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

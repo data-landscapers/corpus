@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "registry;exchange",
+ "fact": "A workshop was held in Tripoli on the Unified Social Registry project, which aims at a database for exchanging information between all the institutions concerned.",
+ "title": "ورشة عمل حكومية في طرابلس حول مشروع «السجل الاجتماعي الموحد»",
+ "publisher": "Alwasat",
+ "published": "2023-10-16",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "exchange"
+}

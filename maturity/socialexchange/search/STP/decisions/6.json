@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "The June 2024 PEP+ report says the operations manual recommends integrating the social registry data into the PEP+ system, but this is not done in practice.",
+ "title": "Projeto de Fortalecimento do Programa de Educacao Parental (PEP), Atividade 1: Levantamento com familias e profissionais",
+ "publisher": "World Bank",
+ "published": "2024-06",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;registry",
+ "fact": "The policy states ZISPIS has not been fully operationalized and the sector still has fragmented MIS development in silos, with separate registries and distinct payment systems, while ZISPIS is a unified register for key interventions with SWL and the 1,000 Days SCT pilot integrated within it.",
+ "title": "2025 National Social Protection Policy",
+ "publisher": "Republic of Zambia, Ministry of Community Development and Social Services",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

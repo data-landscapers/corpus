@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "",
+ "title": "Ministerial Statement: Social Cash Transfer",
+ "publisher": "National Assembly of Zambia",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: states ZISPIS duplicate detection within SCT only and carries no stated date; cited figures date it to about 2021."
+}

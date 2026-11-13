@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "exchange;registry",
+ "fact": "The Single Registry links the MISs of five social assistance schemes (Old Age Grant, Disability Benefit, OVC cash transfer, HSNP, WFP Cash for Assets) and is linked to IPRS so beneficiaries are authenticated by national ID number.",
+ "title": "Services NSPS",
+ "publisher": "State Department for Social Protection, Kenya",
+ "published": "2026-05",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "exchange"
+}

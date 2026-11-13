@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;registry",
+ "fact": "Ghana's own presentation lists the social registry (GNHR), common ID and payments platform as live, the integrated beneficiary registry as not available, and states Ghana has not yet integrated its existing social protection systems.",
+ "title": "Talking Interoperability: In Focus | Ghana",
+ "publisher": "Digital Convergence Initiative (SPDCI) with Ministry of Gender, Children and Social Protection",
+ "published": "2023-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

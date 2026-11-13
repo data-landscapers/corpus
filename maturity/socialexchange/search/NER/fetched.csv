@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://realitesinfo.com/2026/03/10/securisation-des-aides-sociales-lanats-et-le-pam-sengagent-pour-une-identification-unique-des-beneficiaires/,held,held as raw/2026/2026-03-10-realitesinfo-anats-pam-identification-unique-rsu-rnbp.md,,0,,
+2,https://www.actuniger.com/societe/21295-protection-sociale-au-niger-lancement-dune-feuille-de-route-pour-un-systeme-plus-juste-inclusif-et-resilient.html,held,held as raw/2025/2025-09-03-actuniger-niger-feuille-route-protection-sociale.md,,0,,
+3,https://rsu.gouv.ne/,fetched,,scripts/.workroot/study/socialexchange/cache/NER/3.txt,154,html,Qu'est ce que le RSU ?
+4,https://rsu.gouv.ne/presentation,held,held as raw/2026/2026-10-17-ner-rsu-presentation.md,,0,,
+5,https://cash-hub.org/wp-content/uploads/sites/3/2024/01/Note-de-cadrage-PS_Niger.pdf,held,held as raw/2022/2022-11-01-ner-keyaid-note-cadrage-protection-sociale.md,,0,,
+6,https://documents1.worldbank.org/curated/en/261151588384951057/pdf/Benin-Burkina-Faso-Togo-and-Niger-Second-Phase-of-West-Africa-Unique-Identification-for-Regional-Integration-and-Inclusion-WURI-Project.pdf,fetched,,scripts/.workroot/study/socialexchange/cache/NER/6.txt,51001,pdf,World Bank Document
+7,https://documents1.worldbank.org/curated/en/099845306302225625/pdf/P1593410e8778109a0af2d0a35d43011b68.pdf,fetched,,scripts/.workroot/study/socialexchange/cache/NER/7.txt,11225,pdf,World Bank Document
+8,https://documents1.worldbank.org/curated/en/777931546830037773/pdf/SECPO-project-appraisal-document-pad-P166602-Board-12112018-636824088300101969.pdf,fetched,,scripts/.workroot/study/socialexchange/cache/NER/8.txt,21728,pdf,World Bank Document

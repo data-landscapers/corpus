@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;registry",
+ "fact": "As of July 2022 Zambian social protection programmes relied on project-specific databases rather than a national social registry, and ZISPIS remained an SCT-specific MIS needing substantial work to hold other programmes' beneficiaries.",
+ "title": "Towards a More Adaptive Social Protection System in Zambia",
+ "publisher": "World Bank",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

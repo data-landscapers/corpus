@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange",
+ "fact": "e-INAS interoperates with mobile money operators (M-Pesa, eMola, Paycode) with bank integration planned, but not with other internal or external systems, and uses its own NUIB rather than a national ID.",
+ "title": "Diagnóstico da interoperabilidade de sistemas de informação para a protecção social em Moçambique",
+ "publisher": "Organização Internacional do Trabalho (OIT)",
+ "published": "2021-11",
+ "date_source": "source",
+ "why_not": ""
+}

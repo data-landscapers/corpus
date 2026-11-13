@@ -1,0 +1,10 @@
+[
+{"url":"https://www.anps.social.gouv.bj/statistiques-rsu/apropos-de-rsu","title":"Registre Social Unique (RSU)","publisher":"ANPS Benin","published":"","sub_indicator":"exchange","why":"Q2/Q4: RSU keyed to NPI of ANIP and interoperable with XROAD BJ"},
+{"url":"https://www.anps.social.gouv.bj/statistiques-rsu/assets/docs/manuel-procedure-rsu.pdf","title":"Manuel de procédure","publisher":"ANPS Benin","published":"","sub_indicator":"exchange","why":"Q2/Q3: RSU updates via interoperability with ANIP; programmes request RSU data"},
+{"url":"https://anps.social.gouv.bj/statistiques-rsu/rsu-projets","title":"Registre Social Unique (RSU) - projets","publisher":"ANPS Benin","published":"","sub_indicator":"exchange","why":"Q3: ARCH and Gbessoké programmes listed under the RSU"},
+{"url":"https://www.id4africa.com/2025/files/T1-P2-S1-1_BENIN-final.pdf","title":"The Beninese experience with data sharing platforms","publisher":"ID4Africa","published":"2025","sub_indicator":"exchange","why":"Q2: ANIP register accessible via XROAD BJ, integrated with Insurance for the Poor"},
+{"url":"https://wuri.bj/t%C3%A9l%C3%A9charger/18/document/6758/wuri-bulletin-info-2025.pdf","title":"Bulletin d'information WURI 2025","publisher":"WURI-Bénin","published":"2025","sub_indicator":"exchange","why":"Q1/Q2: ANIP identity card and RSU integration"},
+{"url":"https://orbi.uliege.be/bitstream/2268/335237/1/20250509141941.pdf","title":"L'Assurance maladie du programme ARCH au Bénin","publisher":"ULiège ORBi","published":"2025","sub_indicator":"exchange","why":"Q3: ARCH health insurance targets via RSU"},
+{"url":"https://social.gouv.bj/download/registre-social-unique--rsu---note-synthese-sur-la-mise-en-place-du-registre-social","title":"Note de synthèse sur la mise en place du registre social","publisher":"ANPS Benin","published":"","sub_indicator":"exchange","why":"Q1: RSU being finalised"},
+{"url":"https://www.id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf","title":"Playbook Benin","publisher":"ID4Africa","published":"2026","sub_indicator":"exchange","why":"Q4: RNPP links to civil registration events"}
+]

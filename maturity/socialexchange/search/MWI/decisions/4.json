@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "exchange",
+ "aspect": "",
+ "fact": "",
+ "title": "Treasury seeks to improve social protection targeting",
+ "publisher": "Nation Online",
+ "published": "2025-05",
+ "date_source": "proxy",
+ "why_not": "already-held: only restates the UBR to MSR rename and targeting role, no exchange fact beyond what evidence.csv holds"
+}

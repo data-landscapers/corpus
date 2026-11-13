@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;linked",
+ "fact": "As of October 2021 the NHIA, MoGCSP and NIA were piloting a linkage of the NHIS database and the GNHR social registry through the Ghana Card number, with the NHIA already cleaning its beneficiary database with national ID numbers; the two databases were not interoperable.",
+ "title": "Ghana Data Linkage Implementation Case Study",
+ "publisher": "Joint Learning Network",
+ "published": "2021-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

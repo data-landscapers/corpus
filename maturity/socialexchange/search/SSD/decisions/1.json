@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "exchange;linked",
+ "fact": "The World Bank's May 2026 diagnostic states South Sudan's social protection and humanitarian information management systems and identifiers are not interoperable, with no national ID coverage to cross-reference, and that the government is preparing to pilot a unified social registry intended to link to the national ID.",
+ "title": "Country Diagnostic: South Sudan",
+ "publisher": "The World Bank",
+ "published": "2026-05",
+ "date_source": "source",
+ "why_not": ""
+}

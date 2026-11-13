@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "exchange;registry",
+ "fact": "The ESR Integrated Beneficiary Registry takes enrolled-beneficiary data, payments and grievances from state and non-state programme MISs pushed through RESTful APIs.",
+ "title": "Integrated Beneficiary Registry",
+ "publisher": "State Department for Social Protection, Kenya (ESR MIS)",
+ "published": "2026-04",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "exchange"
+}

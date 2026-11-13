@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "registry",
+ "fact": "For the 2020 government emergency cash transfer programme, targeting began with households already registered in the RSU, 352,900 households at 15 April 2020 across all regions, with RSU lists to be updated.",
+ "title": "Ateliers d'Information, de Sensibilisation et de formation des formateurs pour l'actualisation des listes RSU ... (TMUG)",
+ "publisher": "Registre Social Unifié - Mali",
+ "published": "2020-08-06",
+ "date_source": "proxy",
+ "why_not": ""
+}
