@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,http://www.anmc.ne/,fetched,,scripts/.workroot/study/qualitystandards/cache/NER/1.txt,161,html,ans d'experience
+2,https://sustlives.eu/wp-content/uploads/2021/02/2-Normalisation-et-procedure-delaboration-des-normes-de-qualite.pdf,fetched,,scripts/.workroot/study/qualitystandards/cache/NER/2.txt,870,pdf,Presentazione standard di PowerPoint
+3,https://anp.ne/niger-creation-dune-agence-de-normalisation-de-metrologie-et-de-certification/,fetched,,scripts/.workroot/study/qualitystandards/cache/NER/3.txt,175,html,"Niger : crÃ©ation dâune Agence de normalisation, de mÃ©trologie et de certification - Agence NigÃ©rienne de Presse"
+4,http://www.avcn.ne/index.php/homepage/cadre-juridique-et-institutionnel,held,held as raw/2020/2020-07-13-ner-anmc-cadre-juridique-institutionnel.md,,0,,
+5,http://www.anmc.ne/normalisation/liste-normes,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+6,https://www.iso.org/member/326615.html,held,held as raw/2026/2026-01-01-ner-iso-anmc-member.md,,0,,
+7,https://hub.unido.org/labnet/agence-nationale-de-verification-de-conformite-aux-normes-avcn,fetched,,scripts/.workroot/study/qualitystandards/cache/NER/7.txt,443,html,Navigation

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.codinorm.ci/documents/gouvernance/CODINORM_Bilan_activit%C3%A9s_2025.pdf,held,held as raw/2025/2025-12-13-civ-codinorm-bilan-activites-2025.md,,0,,
+2,https://www.anssi.ci/documents/52/Referentiel-General-de-Securite-des-Systemes-dInformation-RGSSI-copie-1_1.pdf,fetched,,scripts/.workroot/study/qualitystandards/cache/CIV/2.txt,9441,pdf,
+3,https://www.anssi.ci/passi-agrees/,fetched,,scripts/.workroot/study/qualitystandards/cache/CIV/3.txt,48,html,PASSI
+4,https://codinorm.ci/documents/Catalogue_des_Normes_Ivoiriennes_2026.pdf,fetched,,scripts/.workroot/study/qualitystandards/cache/CIV/4.txt,9766,pdf,
+5,https://www.codinorm.ci/certif,unfetchable,empty extraction; no usable Wayback capture,,0,,
+6,https://droitci.info/files/583.12.13-Loi-du-23-decembre-2013-relative-a-la-normalisation-et-a-la-promotion-de-la-qualite.pdf,fetched,,scripts/.workroot/study/qualitystandards/cache/CIV/6.txt,3198,pdf,
+7,https://www.droitci.info/files/583.08.14-Decret-du-6-aout-2014-Normalisation_modalites-d-application.pdf,fetched,,scripts/.workroot/study/qualitystandards/cache/CIV/7.txt,3057,pdf,
+8,https://artci.ci/audit-de-securite/,fetched,,scripts/.workroot/study/qualitystandards/cache/CIV/8.txt,822,html,Lutte contre la recrudescence du phénomène dit d’« Internet araignée »

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "standards",
+ "aspect": "standing",
+ "fact": "The Uganda Standards Catalogue as of 31 December 2023 lists UNBS as the body declaring Uganda Standards and names US 2175:2021 Information security - Requirements for security controls, published 2021-12-14, and US ISO/IEC 27001:2013 under technical committee UNBS/TC 123 on information and communication technology.",
+ "title": "Uganda Standards Catalogue as of 31 December 2023",
+ "publisher": "Uganda National Bureau of Standards",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": "no-development: withdrawn by the parent; the body is the Wayback copy and fails the staging lint's URL check"
+}

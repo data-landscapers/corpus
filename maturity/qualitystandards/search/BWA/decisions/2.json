@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "standards",
+ "aspect": "standing",
+ "fact": "BOBS lists BOS ISO/IEC 18013-2:2020 (IDT), machine-readable technologies for driving licences, as an identical adoption of the ISO/IEC standard, published 28 March 2023.",
+ "title": "BOS ISO/IEC 18013-2:2020 (IDT)",
+ "publisher": "Botswana Bureau of Standards",
+ "published": "2023-03-28",
+ "date_source": "proxy",
+ "why_not": ""
+}
