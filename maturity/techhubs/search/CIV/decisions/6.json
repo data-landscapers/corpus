@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "Orange Digital Center in Côte d'Ivoire runs the Orange Fab incubator and accelerator, has supported 92 startups, and its first regional club opened in Bouaké.",
+ "title": "Orange Digital Center: a key driver in Côte d'Ivoire",
+ "publisher": "Orange Developer",
+ "published": "2025-01-21",
+ "date_source": "source",
+ "why_not": ""
+}

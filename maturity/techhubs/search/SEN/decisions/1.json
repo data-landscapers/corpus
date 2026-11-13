@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "Teranga Tech Incub runs a 6-month incubation programme in Dakar, Saint-Louis, Kaolack and Ziguinchor, alongside CTIC Dakar, which runs incubation and acceleration paths.",
+ "title": "Incubateurs d'entreprises au Sénégal",
+ "publisher": "Le Sénégal à l'export",
+ "published": "2026-08-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

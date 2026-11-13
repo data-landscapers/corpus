@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "hubs;cities",
+ "fact": "In 2025 Orange Corners DRC opened satellite hubs in Goma and Kolwezi alongside Kinshasa, and in February 2025 a cohort started its bootcamp in all three hubs.",
+ "title": "Orange Corners DRC opens 2 new hubs in Goma & Kolwezi",
+ "publisher": "Orange Corners",
+ "published": "2025-04",
+ "date_source": "proxy",
+ "sub_indicator": "hub",
+ "why_not": ""
+}

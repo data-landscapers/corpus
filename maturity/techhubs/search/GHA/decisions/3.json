@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "Ghana Hubs Network reports over 45 active member hubs spanning every region of Ghana, up from hubs confined to Accra, Kumasi and Tamale in 2017.",
+ "title": "Shaping Ghana's Digital Future: The Impact of Ghana Hub Network (GHN)",
+ "publisher": "GIZ",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

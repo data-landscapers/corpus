@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities;park",
+ "fact": "The TechParkCV poles in Praia and Mindelo were officially inaugurated on 5 and 6 May 2025; the park, operating since November 2023, hosts 23 companies.",
+ "title": "TechParkCV: Cabo Verde inaugura oficialmente os Parques Tecnológicos da Praia e Mindelo",
+ "publisher": "Startup Blog",
+ "published": "2025-05-10",
+ "date_source": "source",
+ "why_not": ""
+}

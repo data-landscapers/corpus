@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "ONDI selected one innovation hub in each of Nigeria's 36 states and the FCT as local partners for iHatch Cohort 5, providing local incubation and mentorship.",
+ "title": "iHatch Cohort 5: ONDI unveils selected innovation hubs across 36 states and FCT",
+ "publisher": "Nigeria Startup Act",
+ "published": "2026-04-15",
+ "date_source": "source",
+ "why_not": ""
+}

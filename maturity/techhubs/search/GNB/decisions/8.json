@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs",
+ "fact": "The World Bank states the few digital startups in Guinea-Bissau are supported by a thin network of incubators and initiatives, few of which have transitioned sustainably.",
+ "title": "Guinea Bissau: Digital Policy Dialogue",
+ "publisher": "World Bank Group",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

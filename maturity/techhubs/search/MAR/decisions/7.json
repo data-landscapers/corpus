@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "hub",
+ "aspect": "",
+ "fact": "",
+ "title": "Projet - Medz Support",
+ "publisher": "MEDZ",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: fetched text has no tenant figures and no date"
+}

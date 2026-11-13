@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "cities",
+ "fact": "Technopark Morocco inaugurated its Essaouira site in November 2023, bringing the network to six locations across the country.",
+ "title": "Technopark Morocco inaugurates its 6th site in Essaouira",
+ "publisher": "IASP",
+ "published": "2023-11-28",
+ "date_source": "source",
+ "why_not": ""
+}

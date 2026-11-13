@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "hubs;cities",
+ "fact": "Yekolab runs the Y-Incubateur incubation programme for young entrepreneurs with centres in Brazzaville and Pointe-Noire.",
+ "title": "Republic of Congo: Yekolab Empowers Entrepreneurs, Makes Children Tech-Savvy",
+ "publisher": "We are Tech",
+ "published": "2023-11-29",
+ "sub_indicator": "hub",
+ "date_source": "source",
+ "why_not": ""
+}

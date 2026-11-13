@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "hubs;cities",
+ "fact": "InnovRIM, which runs an incubator and the Sahel FabLab, is implementing the Agri-Innovation Start-Up Cup 2026 with FAO and ILO, selecting 20 startups split between Bassiknou and Dar Naim for six weeks of incubation and mentoring.",
+ "title": "Innov Rim",
+ "publisher": "InnovRIM",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "hub"
+}

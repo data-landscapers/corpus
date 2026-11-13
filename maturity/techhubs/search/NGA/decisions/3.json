@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "Hubs running incubation programmes are active in several cities, including Lagos, Abuja, Port Harcourt, Kano, Kaduna and Akure, such as the Kaduna ICT Hub's Digital Entrepreneurship Incubation Programme.",
+ "title": "Nigeria's tech hubs: Top 10 cities fueling the startup talent pool in 2026",
+ "publisher": "Nairametrics",
+ "published": "2026-07-06",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "UNIDO experts visited the HarHub, Ganacsikaab, Tilmmame i-HUB, I-Rise and SIMAD-ilab incubators in Hargeisa, Garowe and Mogadishu to select partners.",
+ "title": "Mapping Somalia Business Incubators Ecosystem",
+ "publisher": "BIC Africa",
+ "published": "2022-08-25",
+ "date_source": "proxy",
+ "why_not": ""
+}

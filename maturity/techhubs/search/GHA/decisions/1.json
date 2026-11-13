@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities;park",
+ "fact": "UNCTAD's 2025 assessment finds Ghana has many incubators and hubs (44 listed under NEIP, over half in Accra, six in Ashanti) but no large infrastructure-based STI parks.",
+ "title": "Science, Technology and Innovation Parks Development in Ghana: Assessment and Policy Issues",
+ "publisher": "UNCTAD",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

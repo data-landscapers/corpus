@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "The SIFA digital-skills programme operates through 15 partner hubs in Lomé, Kpalimé, Atakpamé, Sokodé, Kara and Dapaong, covering all five regions, as of the November 2026 ministry release.",
+ "title": "PROGRAMME SIFA : 1 000 jeunes formés aux compétences numériques au Togo",
+ "publisher": "Ministère de l'Education Nationale",
+ "published": "2026-11-03",
+ "date_source": "source",
+ "why_not": ""
+}

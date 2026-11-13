@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "The 2022/23 mapping report lists incubators and hubs including iceaddis (Addis Ababa) and icehawassa (Hawassa, established 2022) and university incubators at Bahir Dar, Hawassa and elsewhere, with 14 of 56 organisations reaching the ten largest cities.",
+ "title": "Ethiopian Entrepreneur Support Organisations Mapping and Insights (2022/23)",
+ "publisher": "BIC Ethiopia (EU co-funded)",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

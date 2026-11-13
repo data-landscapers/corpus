@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "CIPMEN inaugurated its new hub on 19 November 2020; in 2019 it incubated 159 companies across three regions (Niamey, Tahoua, Zinder) and accompanied 135 pre-incubation project holders.",
+ "title": "Inauguration du nouveau Hub du CIPMEN: un joyau au service des PME nigériennes",
+ "publisher": "Niameyinfo",
+ "published": "2020-11-21",
+ "date_source": "proxy",
+ "why_not": ""
+}

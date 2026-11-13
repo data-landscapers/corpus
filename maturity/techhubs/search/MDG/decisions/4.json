@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs",
+ "fact": "The Incubateur d'Énergie Durable selected 30 enterprises (20 startups, 10 SMEs) for the 2nd cohort of its six-month incubation programme.",
+ "title": "Incubateur d'Énergie Durable (IED)",
+ "publisher": "Ministère de l'Energie et des Hydrocarbures",
+ "published": "2026-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

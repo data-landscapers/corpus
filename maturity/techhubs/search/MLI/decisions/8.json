@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "DoniLab, a Bamako incubator, has incubated and accelerated 298 companies and runs three additional hubs outside Bamako; it held a training at its Sikasso hub on 20 May 2023.",
+ "title": "DoniLab supports entrepreneurship and innovation in Mali",
+ "publisher": "We are Tech",
+ "published": "2023-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

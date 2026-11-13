@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "A survey identified 169 active business incubators in Kenya, in Nairobi, Mombasa, Kisumu, Nakuru, Eldoret and other counties, with 16 counties having none.",
+ "title": "Mapping business incubating organisations in Kenya as central elements of the entrepreneurial ecosystem",
+ "publisher": "Hochschule Neu-Ulm (HNU Working Paper Nr. 62)",
+ "published": "2026-10",
+ "date_source": "source",
+ "why_not": ""
+}

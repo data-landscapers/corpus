@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "From the beginning of 2018 the government began setting up innovation hubs at six state universities, including NUST, Midlands State University, University of Zimbabwe, Harare Institute of Technology, Zimbabwe Defence University and Chinhoyi University of Technology.",
+ "title": "Zimbabwe Embarks on a Programme to Set Up Innovation Hubs at its Universities",
+ "publisher": "ARIPO Magazine",
+ "published": "2019",
+ "date_source": "source",
+ "why_not": ""
+}

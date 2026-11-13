@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "The SANIN HANYA incubator centre for young entrepreneurs in Tahoua was inaugurated on 27 November 2025 and is already on its second cohort, with 10 trained of whom 5 are financed.",
+ "title": "Tahoua : Inauguration du Centre incubateur des jeunes entrepreneurs ‘‘SANIN HANYA’’",
+ "publisher": "Le Sahel (ONEP Niger)",
+ "published": "2025-12-02",
+ "date_source": "source",
+ "why_not": ""
+}

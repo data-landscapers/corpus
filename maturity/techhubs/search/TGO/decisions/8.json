@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs",
+ "fact": "A UNDP blog of February 2023 states that Togo has more than twenty incubators, most of them based in Lomé.",
+ "title": "La digitalisation des services d'incubation au Togo : une initiative conjointe de l'incubateur CUBE et le laboratoire d'accélération du PNUD",
+ "publisher": "Programme des Nations Unies pour le développement (PNUD)",
+ "published": "2023-02-08",
+ "date_source": "source",
+ "why_not": ""
+}

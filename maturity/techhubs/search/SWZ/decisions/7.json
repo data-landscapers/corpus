@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "The Piggs Peak Innovation Hub opened on 12 June 2025 as the first of its kind in Eswatini, with more hubs planned for all four regions.",
+ "title": "Powering Digital Futures",
+ "publisher": "UNDP Eswatini",
+ "published": "2025-06-12",
+ "date_source": "source",
+ "why_not": ""
+}

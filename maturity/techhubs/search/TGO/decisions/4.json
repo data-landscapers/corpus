@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "The Djanta Tech Hub, a 3000 m2 centre for incubation, acceleration and mentoring of tech startups, was inaugurated in Lomé on 7 May 2026 with the Idée-Action and Innov'Action programmes, and earlier hubs exist including Nunya Lab (Lomé), Banm Lab (Dapaong) and Tilitu Lab (Kara).",
+ "title": "Djanta Tech Hub : le Togo lance son premier hub technologique",
+ "publisher": "Techs Togo",
+ "published": "2026-05-08",
+ "date_source": "source",
+ "why_not": ""
+}

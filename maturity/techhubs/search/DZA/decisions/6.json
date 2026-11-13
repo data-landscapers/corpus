@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities;park",
+ "fact": "The Sidi-Abdellah cyberpark is in operation and its multi-tenant building hosts over thirty companies, with incubators also in Bordj Bou Arréridj and Oran and technology parks registered in Oran and Ouargla.",
+ "title": "Technology Parks",
+ "publisher": "Ministry of Post and Telecommunications",
+ "published": "2023-12-17",
+ "date_source": "proxy",
+ "why_not": ""
+}

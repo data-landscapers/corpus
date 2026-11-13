@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities;park",
+ "fact": "The assessment lists hubs in Lilongwe (m-Hub, NxtGen Labs) and Mzuzu (Mzuzu e-hub), university hubs, and says Magwero Technology Park is under construction in Lilongwe.",
+ "title": "Technology Needs Assessment for the Republic of Malawi",
+ "publisher": "National Commission for Science and Technology / UN Technology Bank for LDCs",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

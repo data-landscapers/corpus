@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "cities;park",
+ "fact": "The Prime Minister said 23 companies from seven countries were installed in the Praia technology park at its inauguration on 5 May 2025, with the Mindelo pole to be inaugurated the next day.",
+ "title": "Ulisses Correia e Silva inaugura Parque Tecnológico da Praia e do Mindelo",
+ "publisher": "Governo de Cabo Verde",
+ "published": "2025-05-05",
+ "date_source": "source",
+ "why_not": ""
+}

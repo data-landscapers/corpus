@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "cities",
+ "fact": "On 20 February 2025 the government commissioned the Kankan digital hub, after hubs at Coyah, Conakry, Kindia, Labé and Nzérékoré.",
+ "title": "Kankan : Le Gouvernement procède à la mise en service du Hub numérique",
+ "publisher": "Gouvernement de la République de Guinée (Primature)",
+ "published": "2025-02-20",
+ "date_source": "source",
+ "why_not": "",
+ "sub_indicator": "hub"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "Twenty-six startups from the second Miary Digital cohort, after a 9-11 month incubation, received USD 15,000 grants in Antsiranana, the cohort drawn from the eight PIC regions.",
+ "title": "MIARY DIGITAL - Des startups numériques passent à la vitesse supérieure",
+ "publisher": "L'Express de Madagascar",
+ "published": "2026-01-09",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;park",
+ "fact": "The BDIH 2023/24 annual report lists accelerator clients by 2023 and 2024 cohort and describes a commercialisation centre for incubation and acceleration at the Science and Technology Park.",
+ "title": "Botswana Digital And Innovation Hub 2023/24 Annual Report",
+ "publisher": "Botswana Digital & Innovation Hub",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

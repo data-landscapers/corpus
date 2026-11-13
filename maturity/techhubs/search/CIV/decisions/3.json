@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "The Catalyse 2026 incubation programme, run by Impact Hub Abidjan and Hub Ivoire Tech in three cohorts, holds in-person workshops in Abidjan, Bouaké, Man, Yamoussoukro and Sinématiali.",
+ "title": "« Catalyse 2026 », un incubateur national pour propulser plus de 500 entrepreneurs",
+ "publisher": "L'Avenir",
+ "published": "2026-07-16",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;park",
+ "fact": "The Algerian Space Agency's incubator was inaugurated on 17 October 2025 within the Abdelhafid Ihaddadène science and technology pole at Sidi Abdellah.",
+ "title": "Inauguration de l'incubateur de l'Agence Spatiale Algérienne au sein du pôle technologique de Sidi Abdellah",
+ "publisher": "Agence Spatiale Algérienne (ASAL)",
+ "published": "2025-10-16",
+ "date_source": "source",
+ "why_not": ""
+}

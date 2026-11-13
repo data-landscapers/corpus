@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hub",
+ "aspect": "hubs;cities",
+ "fact": "Sote Hub ran an 8-month World Bank-funded programme supporting 40 startups across counties including Nairobi, Nakuru, Mombasa and Kilifi, May to December 2024.",
+ "title": "KIEP SKIES Project",
+ "publisher": "Sote Hub",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}
