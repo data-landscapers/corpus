@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "civil",
+ "aspect": "offices",
+ "fact": "ANEC's director general said on 12 June (2026) that the digitalisation rate across the 629 civil registration centres was 66%.",
+ "title": "Les centres d'état-civil digitalisés à hauteur de 66% (directeur)",
+ "publisher": "APS",
+ "published": "2026-06-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

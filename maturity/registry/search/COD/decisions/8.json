@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "civil",
+ "aspect": "offices;made",
+ "fact": "UNICEF reported on 21 February 2022 that, in the N'Sele health zone of Kinshasa, 11 civil registration offices and 61 maternity services were connected in a pilot, with more than 22,500 births registered there the previous year, birth data encoded at the maternity and sent to the neighbouring registry office.",
+ "title": "Registering births at maternity wards",
+ "publisher": "UNICEF DR Congo",
+ "published": "2022-02-21",
+ "date_source": "source",
+ "why_not": ""
+}

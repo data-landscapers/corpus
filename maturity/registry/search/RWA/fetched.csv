@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://statistics.gov.rw/sites/default/files/documents/2026-06/Rwanda-Civil-Registration-Vital-Statistics-Report-2025.pdf,fetched,,scripts/.workroot/study/registry/cache/RWA/1.txt,25743,pdf,
+2,https://apai-crvs.uneca.org/sites/default/files/resourceuploads/en-understanding-modernization-of-crvs-in-rwanda.pdf,unfetchable,SSLError; no usable Wayback capture,,0,,
+3,https://www.nida.gov.rw/fileadmin/user_upload/NIDA/Publications/SOPs_CRVS__1_.pdf,fetched,,scripts/.workroot/study/registry/cache/RWA/3.txt,25555,pdf,OUT 30DEC2023_FINAL DRAFT Report_SOPs CRVS (1)
+4,https://unstats.un.org/legal-identity-agenda/documents/Paper/2023/CRVSID-Rwanda.pdf,fetched,,scripts/.workroot/study/registry/cache/RWA/4.txt,7878,pdf,
+5,https://www.minaloc.gov.rw/news-detail/rwanda-completes-digitalisation-of-crvs-modules,held,held as raw/2026/2026-01-28-rwanda-completes-digitalisation-crvs-modules.md,,0,,
+6,https://rwanda.unfpa.org/en/news/how-rwandas-digital-crvs-transformation-strengthening-human-capital-and-saving-lives,held,held as raw/2026/2026-04-30-rwa-unfpa-digital-crvs-ussd-community-death-notification.md,,0,,
+7,https://statistics.gov.rw/sites/default/files/documents/2025-04/Civil%20registration%20and%20vital%20statistics%2C%20mid-term%20evaluation%20strategic%20plan%202022.pdf,held,held as raw/2022/2022-02-01-rwa-civil-registration-and-vital-statistics-mid-term-evaluation-strategic.md,,0,,
+8,https://crvssystems.ca/sites/default/files/assets/images/CRVS_TechBrief_Rwanda_e_WEB.pdf,held,held as raw/2021/2021-01-01-rwa-crvs-coe-systems-vital-data-covid-rwanda.md,,0,,

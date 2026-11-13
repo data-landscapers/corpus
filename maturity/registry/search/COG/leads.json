@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://fr.allafrica.com/stories/202609230286.html",
+  "title": "Congo-Brazzaville: Digitalisation de l'état civil - L'administration du territoire réceptionne les documents techniques",
+  "publisher": "Les Dépêches de Brazzaville via allAfrica",
+  "published": "2026-09-23",
+  "sub_indicator": "civil",
+  "why": "SIFEC handover, deployment still a future step"
+ },
+ {
+  "url": "https://www.finances.gouv.cg/fr/articles/le-congo-franchit-une-%C3%A9tape-d%C3%A9cisive-dans-la-digitalisation-de-l%C3%A9tat-civil",
+  "title": "Le Congo franchit une étape décisive dans la digitalisation de l'état civil",
+  "publisher": "Ministère des finances, du budget et du portefeuille public",
+  "published": "2026-02-18",
+  "sub_indicator": "civil",
+  "why": "SIFEC final validation workshop"
+ },
+ {
+  "url": "https://sacer-infos.com/le-congo-avance-vers-la-digitalisation-des-actes-detat-civil/",
+  "title": "Le Congo avance vers la digitalisation des actes d'état civil",
+  "publisher": "SACER",
+  "published": "2024-09-20",
+  "sub_indicator": "civil",
+  "why": "SIFEC progress presented to mayors"
+ },
+ {
+  "url": "https://lasemaineafricaine.info/numerique-lancement-des-travaux-de-connectivite-dans-les-administrations-publiques/",
+  "title": "NUMERIQUE : Lancement des travaux de connectivité dans les administrations publiques",
+  "publisher": "La Semaine Africaine",
+  "published": "2024-07-14",
+  "sub_indicator": "civil",
+  "why": "connectivity of civil registration centres"
+ },
+ {
+  "url": "https://congo.unfpa.org/fr/news/remise-des-ordinateurs-%C3%A0-la-mairie-centrale-de-brazzaville",
+  "title": "Remise des ordinateurs à la Mairie Centrale de Brazzaville",
+  "publisher": "UNFPA Congo",
+  "published": "2023-09-15",
+  "sub_indicator": "civil",
+  "why": "computerised centres Djiri, Madibou"
+ },
+ {
+  "url": "https://www.journaldebrazza.com/congo-la-digitalisation-de-letat-civil-une-priorite-du-patn/",
+  "title": "Congo : la digitalisation de l'état civil une priorité du PATN",
+  "publisher": "Journal de Brazza",
+  "published": "2025-03-18",
+  "sub_indicator": "civil",
+  "why": "PATN priority"
+ },
+ {
+  "url": "https://acsi.cg/actualites/presentation-de-la-plateforme-denommee-systeme-integre-des-faits-detat-civil-sifec/",
+  "title": "Présentation de la plateforme dénommée « Système intégré des faits d'état-civil » (SIFEC)",
+  "publisher": "ACSI",
+  "published": "2022-12-05",
+  "sub_indicator": "civil",
+  "why": "SIFEC presented, advanced implementation"
+ },
+ {
+  "url": "https://sacer-infos.com/administration-du-territoire-faire-progresser-la-numerisation-des-donnees-detat-civil/",
+  "title": "Administration du territoire : faire progresser la numérisation des données d'état civil",
+  "publisher": "SACER",
+  "published": "2022-08-11",
+  "sub_indicator": "civil",
+  "why": "CRVS day, digitisation aim"
+ }
+]

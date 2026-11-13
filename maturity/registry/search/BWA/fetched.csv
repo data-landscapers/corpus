@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://dailynews.gov.bw/news-detail/77032,fetched,,scripts/.workroot/study/registry/cache/BWA/1.txt,512,html,Search Here
+2,https://evaluationreports.unicef.org/GetDocument?documentID=16474&fileID=45849,held,held as raw/2021/2021-01-01-bwa-unicef-crvs-evaluation-botswana-case-study.md,,0,,
+3,https://statsbots.org.bw/sites/default/files/publications/Vital%20statistics%202020.pdf,fetched,,scripts/.workroot/study/registry/cache/BWA/3.txt,16541,pdf,
+4,https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Country_documents/Botswana/BHDC_Roadmap_2020.pdf,held,held as raw/2019/2019-01-01-bwa-botswana-health-data-collaborative-roadmap-2020-2025.md,,0,,
+5,https://www.bih.co.bw/wp-content/uploads/2019/09/BDRS-HACK-Overview.pdf,fetched,,scripts/.workroot/study/registry/cache/BWA/5.txt,2843,pdf,
