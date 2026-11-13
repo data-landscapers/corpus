@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: DZA
-ledger_rows: 36
+ledger_rows: 39
 not_held: 5
-record: ae2d532b50cc
+record: cb633bea79ad
 ---
 
 # News, Oct – Nov 2026
@@ -14,6 +14,8 @@ record: ae2d532b50cc
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -139,6 +141,28 @@ The ISO membership page, on file under 9 November 2026, lists the Institut Algé
 **[#NoExamShutdown: One step forward, another step back](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)** — Access Now, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
 Access Now reviewed exam-related internet shutdowns in the Middle East and North Africa in 2026. Algeria confined restrictions to exam centres, and Syria held exams with no recorded shutdown. Tunisia restricted mobile messaging apps during both baccalaureate sessions in June and July, a first in the campaign's tracking. Sudan ordered 10 shutdowns between 13 and 23 April.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#new-investments">New investments</a>
+</nav>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">World Bank start-up financing initiative</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الجزائر في محادثات متقدمة مع البنك الدولي لتمويل الشركات الناشئة](https://asharqbusiness.com/financing-and-investment/155010/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%A6%D8%A9/)** — Asharq Bloomberg (الشرق بلومبرغ), 8 November 2026
+
+Minister Ouadah: advanced World Bank talks on start-up financing; over USD 10m raises targeted at Algiers conference.
 
 </div>
 
@@ -396,6 +420,20 @@ Algeria's card operator SATIM received Visa and Mastercard certification to pers
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">DZ MOB PAY QR mobile payment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DPI Map (2026-11-12)](https://dpimap.org/data/)** — UCL Institute for Innovation and Public Purpose (IIPP), 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CPV/CPV-monthly.html" title="CPV">Cape Verde</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ERI/ERI-monthly.html" title="ERI">Eritrea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNB/GNB-monthly.html" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNQ/GNQ-monthly.html" title="GNQ">Eq. Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/STP/STP-monthly.html" title="STP">São Tomé</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+IIPP's 2026-11-06 release: 1,843 digital-ID, payment and data-exchange indicator rows for 54 states; checks 2024-2026.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -621,6 +659,20 @@ At the sixth follow-up meeting on Algeria's national AI strategy, the higher edu
 **[Algeria reaches preliminary partnership agreement with Roblox to train video game developers](https://techreviewafrica.com/news/7752/algeria-reaches-preliminary-partnership-agreement-with-roblox-to-train-video-game-developers)** — Tech Review Africa, 16 October 2026
 
 Algeria has reached a preliminary agreement with Roblox on a programme to train Algerian video game developers, announced by Sid Ali Zerrouki. It comes with child-protection conditions: wider parental controls, fast-track reporting channels, and the platform's chat feature kept switched off in Algeria until safeguards are judged sufficient.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">One per cent research and innovation levy on large-company profits</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[الجزائر في محادثات متقدمة مع البنك الدولي لتمويل الشركات الناشئة](https://asharqbusiness.com/financing-and-investment/155010/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%A6%D8%A9/)** — Asharq Bloomberg (الشرق بلومبرغ), 8 November 2026
+
+Summarised under [New investments](#new-investments).
 
 </div>
 
