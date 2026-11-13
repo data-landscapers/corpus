@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "stem",
+ "fact": "As at December 2023, 26% (13,054) of Mauritius's tertiary enrolment was in Science and Technology fields, 72% in non-S&T and 2% in research (enrolment, not graduates).",
+ "title": "Participation in Tertiary Education 2023",
+ "publisher": "Higher Education Commission",
+ "published": "2024-10",
+ "date_source": "source",
+ "why_not": ""
+}

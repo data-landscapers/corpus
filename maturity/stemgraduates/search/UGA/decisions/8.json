@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "stem",
+ "fact": "An assessment of graduates over the first two years of NDPIII (2020/21-2021/22) shows more arts graduates than science graduates in Uganda, with no share given.",
+ "title": "Employment and Skills Status Report (ESSR 2022)",
+ "publisher": "National Planning Authority",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

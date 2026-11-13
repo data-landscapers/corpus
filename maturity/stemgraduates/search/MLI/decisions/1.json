@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "stem",
+ "fact": "In 2023, the Sciences, Techniques et Technologies field made up 27.20% (5,713) of the 21,004 graduates of Mali's public higher education institutions, with data incomplete for several institutions.",
+ "title": "Bulletin statistique de l'enseignement supérieur, année universitaire 2022-2023",
+ "publisher": "Direction générale de l'Enseignement supérieur et de la Recherche scientifique (DGESRS)",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.stat-niger.org/wp-content/uploads/publication_sectorielle/annuaire/MESRI/Annuaire_2024_2025.pdf,held,held as raw/2025/2025-12-03-mesri-niger-annuaire-superieur-2024-2025.md,,0,,
+2,https://www.stat-niger.org/wp-content/uploads/publication_sectorielle/annuaire/MESRI/Annuaire_2023_2024.pdf,held,held as raw/2025/2025-09-22-mesri-niger-annuaire-superieur-2023-2024.md,,0,,
+3,https://www.stat-niger.org/wp-content/uploads/publication_sectorielle/annuaire/MESRI/Annuaire_2022_2023.pdf,fetched,,scripts/.workroot/study/stemgraduates/cache/NER/3.txt,28086,pdf,Microsoft Word - ANNUAIRE_2022-2023_VF04[1]
+4,https://doi.org/10.1787/1953b5c9-en,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+5,https://www.niger-ren.ne/,fetched,,scripts/.workroot/study/stemgraduates/cache/NER/5.txt,281,html,NigerREN - Réseau national d'éducation et de recherche du Niger
+6,https://www.niger-ren.ne/lancement_officiel_projet_hub_peering_federe/,fetched,,scripts/.workroot/study/stemgraduates/cache/NER/6.txt,534,html,Lancement officiel du projet « Hub de Peering Fédéré »
+7,https://ecampus.iatniger.org/actualites/projet-hub-de-peering-federe,fetched,,scripts/.workroot/study/stemgraduates/cache/NER/7.txt,394,html,Projet Hub de Peering Fédéré | IAT Niger
+8,https://indico.wacren.net/event/286/,fetched,,scripts/.workroot/study/stemgraduates/cache/NER/8.txt,462,html,Fédération d'Identité et Gestion des Acces - Niger

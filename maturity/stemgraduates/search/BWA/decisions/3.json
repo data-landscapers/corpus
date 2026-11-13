@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "nren",
+ "fact": "In September 2023 BotsREN was connected to the UbuntuNet Network at 10Gbps through a new point of presence in Gaborone, the 13th NREN connected.",
+ "title": "Annual Report 2023",
+ "publisher": "UbuntuNet Alliance for Research and Education Networking",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

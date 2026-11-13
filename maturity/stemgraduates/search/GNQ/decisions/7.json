@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "nren",
+ "fact": "The report lists Equatorial Guinea with no NREN, operational status unknown, Level 0 development, in June 2016.",
+ "title": "The Role and Status of National Research and Education Networks (NRENs) in Africa",
+ "publisher": "Michael Foley",
+ "published": "2016-06",
+ "date_source": "source",
+ "why_not": ""
+}

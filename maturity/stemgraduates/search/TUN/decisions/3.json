@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "nren",
+ "fact": "The RNU, run by CCK since 1997, interconnects the networks of the Tunisian universities and research centers; an upgrade begun in September 2017 put fibre to about 445 sites.",
+ "title": "Tunisia",
+ "publisher": "ASREN",
+ "published": "2023-12-13",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "nren",
+ "fact": "TERNET, Tanzania's national research and education network, deployed eduVPN in June 2024 and hosted UbuntuNet-Connect in Dar es Salaam on 31 October-1 November 2024.",
+ "title": "TERNET",
+ "publisher": "UbuntuNet Alliance",
+ "published": "2024-08",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "graduates"
+}

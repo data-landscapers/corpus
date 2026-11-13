@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "stem",
+ "fact": "SET graduates were 29% of all graduates in South African public universities in 2021, up from 27% in 2010.",
+ "title": "South African Science, Technology and Innovation Indicators Report 2023",
+ "publisher": "National Advisory Council on Innovation (NACI)",
+ "published": "2023-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

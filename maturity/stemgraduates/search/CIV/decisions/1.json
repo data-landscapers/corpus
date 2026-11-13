@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "nren",
+ "fact": "The Réseau National d'Education et de Recherche (RNER) connects Ivorian higher education institutions to each other and to WACREN and GÉANT, deployed on more than 26 academic sites and university residences for over 160,000 users, with 2024 named as the year of equipment resilience.",
+ "title": "Réseau d'accès",
+ "publisher": "Centre National de Calcul de Côte d'Ivoire (CNCCI)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

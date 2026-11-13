@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "stem",
+ "fact": "Per UNESCO Institute for Statistics data (2020-2022), the share of STEM degree recipients is upwards of 29% in Morocco, among other countries.",
+ "title": "Which countries are producing the most STEM graduates?",
+ "publisher": "World Economic Forum",
+ "published": "2023-03-01",
+ "date_source": "source",
+ "why_not": ""
+}

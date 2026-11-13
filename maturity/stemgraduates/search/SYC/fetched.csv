@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://unctad.org/system/files/official-document/dtltikd2024d1_en.pdf,held,held as raw/2024/2024-01-01-unctad-seychelles-sti-policy-review.md,,0,,
+2,https://www.cabri-sbo.org/uploads/bia/Seychelles_2024_Planning_External_NationalPlan_MinistryOfFinanceNationalPlanningAndTrade_SADCCOMESA_English_9cac7a.pdf,held,held as raw/2024/2024-01-01-seychelles-national-development-strategy-2024-2028.md,,0,,
+3,https://www.finance.gov.sc/wp-content/uploads/2025/10/VNR_SEYCHELLES_2025-1.pdf,held,held as raw/2025/2025-06-01-finance-gov-sc-voluntary-national-review-2025.md,,0,,
+4,https://tradingeconomics.com/seychelles/percentage-of-graduates-from-tertiary-education-graduating-from-science-programmes-both-sexes-percent-wb-data.html,fetched,,scripts/.workroot/study/stemgraduates/cache/SYC/4.txt,822,html,"Seychelles - Percentage Of Graduates From Tertiary Education Graduating From Science Programmes, Both Sexes"
+5,https://www.nation.sc/articles/21148/uniseys-2023-cohort-graduates,fetched,,scripts/.workroot/study/stemgraduates/cache/SYC/5.txt,819,html,UniSey’s 2023 cohort graduates
+6,https://unisey.ac.sc/news/89-graduates-awarded-at-uniseys-2025-graduation-ceremony/,fetched,,scripts/.workroot/study/stemgraduates/cache/SYC/6.txt,70,html,89 Graduates Awarded at UniSey’s 2025 Graduation Ceremony - University Of Seychelles
+7,https://africaconnect3.net/african-nrens/,fetched,,scripts/.workroot/study/stemgraduates/cache/SYC/7.txt,876,html,African NRENs | AfricaConnect3

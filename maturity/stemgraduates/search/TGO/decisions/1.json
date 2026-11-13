@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "stem",
+ "fact": "In 2023 the 'Sciences, ingénierie et numérique' field accounted for 18.3% of Togo's 7,884 tertiary graduates with a declared specialty (1,446 graduates), per the Observatoire de l'emploi.",
+ "title": "Statistiques de la formation : diplômés par niveau et spécialité",
+ "publisher": "ANPE Togo, Observatoire de l'emploi",
+ "published": "2025-02",
+ "date_source": "source",
+ "why_not": ""
+}

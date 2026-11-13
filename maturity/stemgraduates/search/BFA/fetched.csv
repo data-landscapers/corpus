@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://resilience.icesco.org/indicators/foresight-stem-graduates,unfetchable,empty extraction; no usable Wayback capture,,0,,
+2,https://educationmetrics.org/higher-education/stem-graduates-by-country/,fetched,,scripts/.workroot/study/stemgraduates/cache/BFA/2.txt,1523,html,"STEM Graduates by Country 2026: Data, Rankings & Charts"
+3,https://indico.wacren.net/event/256/?view=standard_numbered_inline_minutes,fetched,,scripts/.workroot/study/stemgraduates/cache/BFA/3.txt,421,html,RENFORCEMENT DU CADRE DE COLLABORATION NUMÉRIQUE EN MATIÈRE D’ENSEIGNEMENT ET DE RECHERCHE
+4,https://lefaso.net/spip.php?article130987=,fetched,,scripts/.workroot/study/stemgraduates/cache/BFA/4.txt,551,html,Newsletter LeFaso.net
+5,https://netafrique.net/burkina-faso-les-universites-publiques-enregistrent-moins-detudiants-dans-les-filieres-scientifiques-et-techniques/,fetched,,scripts/.workroot/study/stemgraduates/cache/BFA/5.txt,323,html,Burkina Faso : Les universités publiques enregistrent moins d'étudiants dans les filières scientifiques et techniques - NetAfrique.net
+6,https://www.mesrsi.gov.bf/fileadmin/user_upload/storage/images/ANNUAIRE_STATISTIQUE_2021_2022__DE_L_ENSEIGNEMENTSUPERIEUR.pdf,fetched,,scripts/.workroot/study/stemgraduates/cache/BFA/6.txt,34631,pdf,ANNUAIRE_STATISTIQUE_2021_2022_DE_L'ENSEIGNEMENTSUPERIEUR
+7,https://fasoren.bf/services.html,fetched,,scripts/.workroot/study/stemgraduates/cache/BFA/7.txt,36,html,FasoREN
+8,https://www.mdenp.gov.bf/details-agenda?cHash=3891fa5bdc1aecdae62734cb22446b53&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=343,unfetchable,HTTP 500; no usable Wayback capture,,0,,

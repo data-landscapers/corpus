@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "stem",
+ "fact": "The World Bank's 2026 Gender Data Landscape for São Tomé and Príncipe gives the female share of tertiary STEM graduates as NA, with no value or year.",
+ "title": "Gender Data Landscape: São Tomé and Príncipe, 2026 edition",
+ "publisher": "World Bank",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

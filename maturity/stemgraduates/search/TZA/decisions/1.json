@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "stem",
+ "fact": "In 2024 Tanzanian university institutions graduated 20,070 students from STEM programmes (8,526 female, 11,544 male) out of 62,570 graduates (31,919 and 30,651 by sex).",
+ "title": "Vital Statistics on University Education in Tanzania 2024",
+ "publisher": "Tanzania Commission for Universities",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": "",
+ "sub_indicator": "graduates"
+}

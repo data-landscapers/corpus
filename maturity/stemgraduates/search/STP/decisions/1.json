@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "stem",
+ "fact": "The CPLP higher-education study states that no data are available on the number of higher-education graduates in São Tomé e Príncipe, so no STEM graduate share can be derived.",
+ "title": "Estudo alargado dos procedimentos de avaliação e regulação adotados pelas agências reguladoras e estruturas nacionais de avaliação e regulação do ensino superior dos Estados-membros da CPLP",
+ "publisher": "CPLP",
+ "published": "2024-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

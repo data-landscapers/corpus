@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "nren",
+ "fact": "MaliREN, created in June 2012, has 16 members including public universities, and its slides say the network is in place but needs upgrades, with the planned national fibre backbone blocked and inclusion on the WACREN backbone only hoped for.",
+ "title": "The Journey to MaliREN Connectivity",
+ "publisher": "MaliREN (Traoré et al.), GEANT conference",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

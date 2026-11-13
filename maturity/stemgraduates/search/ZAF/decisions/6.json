@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "nren",
+ "fact": "As of 2023 TENET manages over 500 fibre circuits for the South African NREN, and the main campus of nearly every public university has at least 10Gbps connectivity to SANReN.",
+ "title": "Network Infrastructure",
+ "publisher": "TENET",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

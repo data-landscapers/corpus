@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "stem",
+ "fact": "Table 187 of the 2023-2024 yearbook gives University of Burundi graduates by faculty for the prior academic year, e.g. FSI 316 Baccalauréat and FABI 381, against FLSH 520.",
+ "title": "Annuaire statistique académique 2023-2024, Tome 3 : données de l'enseignement supérieur",
+ "publisher": "Ministère de l'Education Nationale et de la Recherche Scientifique, Bureau de la Planification et des Statistiques de l'Education",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

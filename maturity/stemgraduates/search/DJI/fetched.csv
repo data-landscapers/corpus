@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://resilience.icesco.org/indicators/foresight-stem-graduates,unfetchable,empty extraction; no usable Wayback capture,,0,,
+2,https://hepo.iesalc.unesco.org/pc/policy/countrygraph/cp/DJI/,fetched,,scripts/.workroot/study/stemgraduates/cache/DJI/2.txt,1811,html,Higher Education Policies in Djibouti
+3,https://doi.org/10.1787/1953b5c9-en,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+4,https://www.unesco.org/sites/default/files/medias/fichiers/2025/06/HED-country-profile-djibouti.pdf,fetched,,scripts/.workroot/study/stemgraduates/cache/DJI/4.txt,2544,pdf,
+5,https://www.journalofficiel.dj/wp-content/uploads/2025/01/Schema-directeur-2021-2035-Annexe-du-JO-Speciale-N%C2%B04.pdf,fetched,,scripts/.workroot/study/stemgraduates/cache/DJI/5.txt,78214,pdf,
+6,https://firebasestorage.googleapis.com/v0/b/instad-dj.appspot.com/o/Annuaire%20statistique%2F2024%2FAnnuaire_Statistique_E2024_VF.pdf?alt=media&token=8b8ff01b-c4da-4737-a11d-6e84c87ff00c,held,held as raw/2024/2024-01-01-dji-instad-annuaire-statistique-edition-2024.md,,0,,
+7,https://oxfordbusinessgroup.com/articles-interviews/learning-progress-nabil-mohamed-ahmed-minister-of-higher-education-and-research-on-the-development-of-tertiary-institutions-interview/,fetched,,scripts/.workroot/study/stemgraduates/cache/DJI/7.txt,574,html,"Nabil Mohamed Ahmed, Minister of Higher Education and Research, : Interview - Africa 2023 - Oxford Business Group"
+8,https://africaconnect3.net/african-nrens/,fetched,,scripts/.workroot/study/stemgraduates/cache/DJI/8.txt,876,html,African NRENs | AfricaConnect3

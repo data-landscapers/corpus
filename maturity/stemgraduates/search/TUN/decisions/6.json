@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "graduates",
+ "aspect": "",
+ "fact": "",
+ "title": "Réseau - Centre de Calcul El-Khawarizmi (CCK)",
+ "publisher": "CCK",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: undated service page with no dated fact; the same RNU is covered by lead 3."
+}

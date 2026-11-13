@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "stem",
+ "fact": "Of 14,733 tertiary graduates in 2024, 2,798 were in engineering, manufacturing and construction, 499 in natural sciences, mathematics and statistics and 498 in ICT, so STEM is about 25.8 per cent (3,795).",
+ "title": "Tertiary Education Statistics Report 2024",
+ "publisher": "Human Resource Development Council (HRDC)",
+ "published": "2025-12",
+ "date_source": "source",
+ "why_not": ""
+}

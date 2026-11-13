@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "stem",
+ "fact": "In 2022 graduates in STEM fields were only 30% of higher education graduates in Cameroon, below social sciences (42%).",
+ "title": "Rapport d'analyse de l'annuaire statistique sectoriel 2021/2022 de l'Éducation et de la Formation",
+ "publisher": "Institut National de la Statistique / Ministères du secteur Éducation et Formation",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "nren",
+ "fact": "On 12 January 2023 MINESUP and CAMTEL met on the university interconnection network (RIC): 16,000 Mbit/s to interconnect 36 campuses, 23 already on fibre awaiting activation, eight months of work remaining.",
+ "title": "Numérique universitaire : L'interconnexion des Universités sur les rails",
+ "publisher": "La Voix Des Décideurs (CELCOM/MINESUP)",
+ "published": "2023-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

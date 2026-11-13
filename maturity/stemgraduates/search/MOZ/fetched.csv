@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://mozdata.ine.gov.mz/index.php/catalog/130/pdf-documentation,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+2,https://cnaq.ac.mz/index.php/estatisticas/brochuras-de-estatisticas?download=60%3Adados-estatisticos-sobre-avaliacao-e-acreditacao-de-cursos-programas-e-instituicoes-do-ensino-superior-2023,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+3,https://dialogosue-angola.org/wp-content/uploads/2023/11/CM-GMATAVEIA_Desafios-da-Mulher-no-Acesso-a-Fundos-para-Implementar-Projectos-de-Investigacao_2023_11_14-_FINALL.pdf,fetched,,scripts/.workroot/study/stemgraduates/cache/MOZ/3.txt,2059,pdf,
+4,https://dialogosue-angola.org/wp-content/uploads/2023/11/Apresentacao_FNI.pdf,fetched,,scripts/.workroot/study/stemgraduates/cache/MOZ/4.txt,1970,pdf,
+5,https://doi.org/10.48209/978-65-5417-251-3,fetched,,scripts/.workroot/study/stemgraduates/cache/MOZ/5.txt,63032,pdf,
+6,https://unesdoc.unesco.org/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_cd7feefa-d2df-4f72-9598-764a3e52be7e?=375475eng.pdf&from=1&to=108,fetched,,scripts/.workroot/study/stemgraduates/cache/MOZ/6.txt,37804,pdf,
+7,https://www.kenet.or.ke/sites/default/files/2c_20210626-Mozambique-Case-Study-Final-Report.pdf,fetched,,scripts/.workroot/study/stemgraduates/cache/MOZ/7.txt,17795,pdf,Report 2: Annex 3: Mozambique Country Case Study
+8,https://morenet.ac.mz/about-us/,unfetchable,HTTP 404; no usable Wayback capture,,0,,

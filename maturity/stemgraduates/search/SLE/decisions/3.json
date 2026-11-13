@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "nren",
+ "fact": "In June 2022 SLREN stated that the status of the NREN in Sierra Leone was the early planning phase (Level-2), with a national gigabit backbone listed only as a proposed service.",
+ "title": "SLREN | Sierra Leone Research & Education Network (Overview, June 2022)",
+ "publisher": "Sierra Leone Research and Education Network (SLREN)",
+ "published": "2022-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

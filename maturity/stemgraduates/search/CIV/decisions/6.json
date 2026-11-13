@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "nren",
+ "fact": "All the public universities of Côte d'Ivoire are interconnected via the RITER IP/MPLS network, except the new University of Man, and RITER interconnected to the WACREN backbone.",
+ "title": "Feasibility Study to Connect All African Higher Education Institutions to High-Speed Internet: Report 2, Annex 2, Côte d'Ivoire Country Case Study Report",
+ "publisher": "The World Bank",
+ "published": "2021",
+ "date_source": "source",
+ "why_not": ""
+}

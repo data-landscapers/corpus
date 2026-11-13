@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://fr.apanews.net/education/senegal-3037-milliards-fcfa-pour-reformer-lenseignement-superieur-en-2027/",
+  "title": "Sénégal : 303,7 milliards FCFA pour réformer l'enseignement supérieur en 2027",
+  "publisher": "APAnews",
+  "published": "2026-11-08",
+  "sub_indicator": "graduates",
+  "why": "Q1-3: 40% STEM target for 2029"
+ },
+ {
+  "url": "https://wacren.net/wp-content/uploads/2026/05/WACREN-2025-ANNUAL-REPORT.pdf",
+  "title": "WACREN 2025 Annual Report",
+  "publisher": "WACREN",
+  "published": "2026-05",
+  "sub_indicator": "graduates",
+  "why": "Q4: Senegal connected to WACREN backbone 2025"
+ },
+ {
+  "url": "https://indico.wacren.net/event/252/?view=standard_numbered_inline_minutes",
+  "title": "Launch of the WACREN Network Expansion",
+  "publisher": "WACREN",
+  "published": "2025-10-01",
+  "sub_indicator": "graduates",
+  "why": "Q4: Senegal connected to backbone"
+ },
+ {
+  "url": "https://lesoleil.sn/le-decodeur/chronique/la-dangereuse-baisse-des-sciences-par-daouda-mane/",
+  "title": "La dangereuse baisse des sciences",
+  "publisher": "Le Soleil",
+  "published": "2026-05-09",
+  "sub_indicator": "graduates",
+  "why": "Q1: science share trend"
+ },
+ {
+  "url": "https://lesoleil.sn/opinions/point-de-vue/former-les-ingenieurs-dont-le-senegal-a-besoin-par-dr-laurent-bonardi/",
+  "title": "Former les ingénieurs dont le Sénégal a besoin",
+  "publisher": "Le Soleil",
+  "published": "2026-03-05",
+  "sub_indicator": "graduates",
+  "why": "Q1: engineering share"
+ },
+ {
+  "url": "https://www.un.org/osaa/sites/default/files/factsheet_stem_december_2025.pdf",
+  "title": "Factsheet STEM",
+  "publisher": "UN OSAA",
+  "published": "2025-12",
+  "sub_indicator": "graduates",
+  "why": "Q1: UNESCO STEM share Africa"
+ },
+ {
+  "url": "https://cineri.sn/",
+  "title": "CINERI",
+  "publisher": "CINERI",
+  "published": "",
+  "sub_indicator": "graduates",
+  "why": "Q4: manages SnRER"
+ },
+ {
+  "url": "https://www.rewmi.com/systeme-universitaire-senegalais-plus-duniversites-mais-toujours-plus-de-litteraires-que-de-scientifiques/",
+  "title": "Système universitaire sénégalais : plus d'universités mais toujours plus de littéraires",
+  "publisher": "Rewmi",
+  "published": "2022-11-21",
+  "sub_indicator": "graduates",
+  "why": "Q1: arts vs science split"
+ }
+]

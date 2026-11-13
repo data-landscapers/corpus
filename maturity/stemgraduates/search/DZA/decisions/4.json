@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "graduates",
+ "aspect": "nren",
+ "fact": "ASREN states that ARN, the Algerian National Research and Education Network, connects 110 institutions including all universities, each university at 100 Mbps.",
+ "title": "Algeria",
+ "publisher": "ASREN (Arab States Research and Education Network)",
+ "published": "2023-12-13",
+ "date_source": "source",
+ "why_not": ""
+}
