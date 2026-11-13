@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 284
+sources_cited: 285
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -79,7 +79,7 @@ On 18 July 2026 Gambia Participates [convened members of the Human Rights and Co
 
 PURA [opened a public consultation on seven draft instruments by notice dated 1 April 2026, with comments due from 1 to 10 April](https://pura.gm/public-consultation-guidelines-and-notice/). [Part V of the draft Broadcasting and Online Content Regulations provides for registering designated online content providers and journalists, with a register of journalists](https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf). [It sets a separate registration regime for "Social Media Users with Significant Public Reach"](https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf). [The draft puts content-monitoring and editorial duties on intermediaries, reaches foreign platforms and establishes a Content Complaints Committee](https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf). [It also sets rules for political and electoral coverage and for live broadcasting](https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf). [It would be made by ministerial regulation under the 2009 Act](https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf), with no parliamentary stage at which it is debated.
 
-The Gambia ranked [first of all 54 African states on public perception of freedom of speech in 2023, at 90.3 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gm.pdf). [Digital freedom scored 84.6, 5th and up 44.6 points over the decade, and media freedom 66.8, 10th](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gm.pdf).
+The Gambia ranked [first of all 54 African states on public perception of freedom of speech in 2023, at 90.3 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gm.pdf). [Digital freedom scored 84.6, 5th and up 44.6 points over the decade, and media freedom 66.8, 10th](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gm.pdf). [Freedom House scored internet freedom 60 of 100 in its 2026 edition, rated partly free](https://freedomhouse.org/country/gambia/freedom-net/2026).
 
 The [August 2023 stakeholder engagement plan for the World Bank-financed WARDIP](https://documents1.worldbank.org/curated/en/099110923135064305/pdf/P17693202273b3050bdbc01e9c010dd32f.pdf) sets the programme's consultation, disclosure and grievance arrangements. The Ministry of Information runs a national misinformation and disinformation response centre, [Factguard](https://factguard.gov.gm/). [It takes public submissions of messages, photos, videos and links by free hotline, and trained human analysts check them](https://factguard.gov.gm/). [Each determination is published with its sources and reasoning on a public audit trail](https://factguard.gov.gm/).
 
