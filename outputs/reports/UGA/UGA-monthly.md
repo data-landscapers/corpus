@@ -3,9 +3,9 @@ title: Uganda — News, Oct – Nov 2026
 compiled: 2026-11-13
 period: 2026-10-01 to 2026-11-13
 place: UGA
-ledger_rows: 45
+ledger_rows: 47
 not_held: 12
-record: 81744d459000
+record: ab207f12245a
 ---
 
 # News, Oct – Nov 2026
@@ -42,6 +42,8 @@ record: 81744d459000
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -272,6 +274,22 @@ The Uganda Communications Commission reported that ICT minister Justine Kasule L
 
 </div>
 
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ISO/IEC 27001 certification of government institutions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITA-U's UDAP Project Supports Financial Intelligence Authority Towards ISO/IEC 27001:2022 Certification](https://www.nita.go.ug/news-updates/nita-us-udap-project-supports-financial-intelligence-authority-towards-isoiec)** — National Information Technology Authority - Uganda (NITA-U), 27 October 2026
+
+FIA receives ISO/IEC 27001:2022 ISMS certification under World Bank-funded UDAP-GovNet project, October 2026.
+
+</div>
+
+</div>
+
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
@@ -485,6 +503,20 @@ Uganda Revenue Authority had linked 2.13 million of its 5.41 million individual 
 </div>
 
 ### Digital Payments and Fintech
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment Switch</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Can Uganda’s National Payment Switch Bring Down Digital Transaction Costs?](https://www.ceo.co.ug/can-ugandas-national-payment-switch-bring-down-digital-transaction-costs/)** — CEO East Africa, 31 October 2026
+
+Switch still under consultation in FY2025/26; blueprint ToR schedule to December 2026; pricing left undecided.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

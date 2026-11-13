@@ -127,12 +127,16 @@ gov.regional--regional-policy-collaboration,Movement,Sudan carried a [resolution
 
 At the WSIS Forum in Geneva in July 2026 the minister discussed strengthening internet exchange points, IPv6 expansion and internet-resource development with the regional registry and the Internet Society ([meeting](2026-07-08-sudan-afrinic-isoc-ixp-cooperation)).
 
-Both are engagements rather than instruments. Nothing yet commits either side to a dated deliverable.",SDN-gov.regional-wtdc-resolution,2,SDN-gov.regional-wtdc-resolution,,,,,,,2026-08-31,0,ITU resolution at a global conference; no regional or continental policy contribution on record
+Both are engagements rather than instruments. Nothing yet commits either side to a dated deliverable.
+
+2021-07 - Sudan [joined Smart Africa as its 32nd member](2021-08-01-sdn-the-republic-of-sudan-becomes-the-32nd-country-member-of-the-smart-afr); ICT memoranda were signed [with Egypt in 2021](2021-06-01-sdn-egypt-sudan-sign-ict-cooperation-mou) and [with Ethiopia in 2023](2023-04-02-sdn-sudan-and-ethiopia-sign-telecom-and-digital-transformation-mou).",SDN-gov.regional-wtdc-resolution|SDN-gov.regional-smart-africa-membership|SDN-gov.regional-egypt-ict-mou|SDN-gov.regional-ethiopia-telecom-mou,2,SDN-gov.regional-wtdc-resolution,,,,,,,2026-08-31,0,ITU resolution at a global conference; no regional or continental policy contribution on record
 gov.regional--regional-legal-harmonisation,Movement,"A regional [cybersecurity harmonisation consultancy was awarded](2025-12-30-igad-contracts-awarded-2025) at USD 336,700, moving the work from terms of reference to an appointed consultant.","The regional body's 2025 procurement disclosure records the award of a USD 336,700 consultancy for the harmonisation of cybersecurity legal frameworks across member states, Sudan among them ([disclosure](2025-12-30-igad-contracts-awarded-2025)).
 
 That is a step, not an outcome: the award commits a consultant, not a member state. No harmonised instrument, model law or timetable has been published.
 
-Sudan's own cybersecurity draft law is separately in redrafting, and nothing on the repository connects the two processes.",SDN-gov.regional-igad-cyber-harmonisation,,,,,,,,,2026-08-31,0,IGAD harmonisation consultancy awarded; no REC model referenced in a domestic draft
+Sudan's own cybersecurity draft law is separately in redrafting, and nothing on the repository connects the two processes.
+
+2023-04 - the ICT minister [signed the Malabo Convention](2023-04-06-sdn-sudan-signs-au-malabo-convention); no ratification has been found.",SDN-gov.regional-igad-cyber-harmonisation|SDN-gov.regional-malabo-convention,,,,,,,,,2026-08-31,0,IGAD harmonisation consultancy awarded; no REC model referenced in a domestic draft
 gov.regional--shared-regional-infrastructure,Movement,The [Horizon Fiber tripartite agreement](2026-02-04-sudatel-horizon-fiber-tripartite-agreement) became binding in February 2026; a longer [Port Sudan to Douala corridor](2023-09-11-pida-port-sudan-douala-fibre-corridor) remains at pre-feasibility.,"Three operators signed a binding tripartite agreement on 4 February 2026 for a multi-terabit terrestrial fibre corridor running from Djibouti's submarine landing stations through Ethiopia to Sudan, converting a December 2024 memorandum into a commitment ([agreement](2026-02-04-sudatel-horizon-fiber-tripartite-agreement)).
 
 The continental programme's record for the Sudan section of a Port Sudan to Douala corridor positions Sudan as a transit route with open-access gateways for landlocked neighbours, at planning stage ([record](2023-09-11-pida-port-sudan-douala-fibre-corridor)).
@@ -402,7 +406,9 @@ A collection system spreading state by state is the most concrete delivery in th
 
 2026-09-27 - the finance ministry [signed a text-message services agreement with MTN Sudan](2026-09-27-sdn-sudanhorizon-mof-mtn-sudan-eesaly-sms) so that the operator's subscribers can use the collection system and follow their transactions; no start date or fee is stated.
 
-2026-10-04 - the finance ministry [signed a text-message services agreement with a second operator, Zain](2026-10-04-sdn-sudanhorizon-mof-zain-eisali-sms).",SDN-dpi.pay-isali|SDN-dpi.pay-government-pos-collection-framework,3,SDN-dpi.pay-isali,,,,,,,2026-08-31,0,Electronic collection in some states; electronic share of revenue unpublished and White Nile figure self-reported
+2026-10-04 - the finance ministry [signed a text-message services agreement with a second operator, Zain](2026-10-04-sdn-sudanhorizon-mof-zain-eisali-sms).
+
+2025-02 - a [finance ministry regulation put all state collections and payments on central bank channels](2025-02-05-sdn-mof-electronic-collection-and-payment-regulation-2025).",SDN-dpi.pay-isali|SDN-dpi.pay-government-pos-collection-framework|SDN-gov.legislate-electronic-collection-payment-regulation-2025,3,SDN-dpi.pay-isali,,,,,,,2026-08-31,0,Electronic collection in some states; electronic share of revenue unpublished and White Nile figure self-reported
 dpi.pay--b2b-and-b2g-functionality,Movement,"The central bank [linked import and export transactions to the government platform](2025-12-28-sudan-cbos-baldna-import-export-integration) in December 2025, and the first fully electronic export contract ran through it.","On 28 December 2025 the central bank inaugurated electronic integration of its import and export system with the government platform, linking foreign-trade transactions to national payment systems; the first fully electronic export contract was executed through it ([inauguration](2025-12-28-sudan-cbos-baldna-import-export-integration)).
 
 In July 2026 the standards body began taking certification fees through the same platform in coordination with the finance ministry ([integration](2026-07-26-ssmo-eisali-baldna-integration)).
@@ -759,7 +765,9 @@ The health ministry reports routine reporting coverage up from 13 per cent at th
 
 In education, an information system pilot and monitoring dashboard began in Red Sea State ([handover](2026-05-13-unesco-red-sea-state-emis-digital-transformation)).
 
-2025 - the central bank's [foreign trade digest carries customs data from 2015 to September 2025](2025-10-01-sdn-foreign-trade-statistical-digest-january-september-2025).",SDN-dpi.mis-hms|SDN-dpi.mis-dhis2|SDN-dpi.mis-emis|SDN-data.statistics-foreign-trade-statistical-digest,2,SDN-dpi.mis-dhis2,,,,,,,2026-08-31,0,routine health reporting in service; no statistical product from registers on record
+2025 - the central bank's [foreign trade digest carries customs data from 2015 to September 2025](2025-10-01-sdn-foreign-trade-statistical-digest-january-september-2025).
+
+2026-09 - the interior minister [launched a civil-registry statistics dashboard by state](2026-09-24-sdn-civil-registry-statistical-dashboard-launch); no coverage figure is published.",SDN-dpi.mis-hms|SDN-dpi.mis-dhis2|SDN-dpi.mis-emis|SDN-data.statistics-foreign-trade-statistical-digest|SDN-data.statistics-civil-registry-statistical-dashboard,2,SDN-dpi.mis-dhis2,,,,,,,2026-08-31,0,routine health reporting in service; no statistical product from registers on record
 data.open--use-of-open-data,No change,"Land governance data are [not open and none has been online since 2023](2023-12-19-sudan-state-of-land-information-soli); the last inventory assessment scored Sudan 24, ranking 159th worldwide.","The assessment finds land governance data and information are not open, no open data has been available online since the 2023 conflict escalation, and Sudan's last Open Data Inventory assessment, in 2018, scored 24 and ranked 159th worldwide ([assessment](2023-12-19-sudan-state-of-land-information-soli)).
 
 No open-government-data portal or policy was located. The access-to-information law of 2015 is the closest instrument, and the commission it requires was never effectively established ([law](2015-01-27-sudan-right-to-access-information-law-2015)).

@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: TGO
-ledger_rows: 28
+ledger_rows: 30
 not_held: 16
-record: eddf9c222dee
+record: 2ab59a967ba6
 ---
 
 # News, Oct – Nov 2026
@@ -195,6 +195,8 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
@@ -203,6 +205,22 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Vital Togo electronic birth and death notification</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo : e-Vital, un projet pour moderniser l’enregistrement des naissances et des décès](https://togoscoop.tg/togo-e-vita-un-projet-pour-moderniser-lenregistrement-des-naissances-et-des-deces/)** — Togo Scoop Info, 5 November 2026
+
+Hospital-to-town-hall e-notification piloted in 4 communes; e-MCCOD in DHIS2; Vital Strategies-funded, report June 2027.
+
+</div>
+
+</div>
 
 ### Digital Payments and Fintech
 
@@ -215,6 +233,20 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 **[Togo: Instant Payment Platform Processed Nearly CFAF 15 Billion in Transactions by End-October](https://www.togofirst.com/en/economic-governance/0511-20563-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-transactions-by-end-october)** — Togo First, 5 November 2026
 
 BCEAO said on 5 November 2026 that its PI-SPI instant payment platform had processed nearly CFAF 15 billion in 163,000 transactions in Togo by the end of October. The platform has 3.9 million users in Togo and 17 connected providers. The bank spoke at the start of a student awareness campaign in Lomé.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile money interoperability</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Catherine Savery (DG de Mixx Togo) : « Dans cinq ans, Mixx sera une super-app, la référence des services financiers au Togo »](https://www.togofirst.com/fr/finance/0911-20585-catherine-savery-dg-de-mixx-togo-dans-cinq-ans-mixx-sera-une-super-app-la-reference-des-services-financiers-au-togo)** — Togo First, 9 November 2026
+
+Mixx: 3.12m accounts, 56% of market (June 2026); CFAF 3bn over PI-SPI in three months; merchants pay 1% on QR.
 
 </div>
 

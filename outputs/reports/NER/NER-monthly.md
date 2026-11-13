@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: NER
-ledger_rows: 11
+ledger_rows: 12
 not_held: 1
-record: 0b6d7de040e4
+record: 132013d5289a
 ---
 
 # News, Oct – Nov 2026
@@ -189,6 +189,20 @@ The national civil registration and identification awareness caravan ended in Ni
 **[Guichet Unique Automobile: SONILOGA ouvre le paiement de ses prestations à Airtel Money](https://www.actuniger.com/societe/22417-guichet-unique-automobile-soniloga-ouvre-le-paiement-de-ses-prestations-a-airtel-money)** — ActuNiger, 2 October 2026
 
 The operator of Niger's vehicle one-stop shop began accepting Airtel Money for some of its services on 1 October, through an app or an offline USSD code. The transport ministry presented it as a way to trace public revenue.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PI-SPI interoperable instant payment platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[COMMUNIQUÉ | iMoney est désormais connecté à PI-SPI BCEAO](https://fr.linkedin.com/posts/i-futur_imoney-ifutur-pispi-activity-7524048900295450625-CH76)** — iFUTUR, 5 November 2026
+
+Niger wallet live on BCEAO instant payments from 2 November 2026; free P2P to banks and wallets across UEMOA.
 
 </div>
 

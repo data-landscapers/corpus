@@ -1,11 +1,11 @@
 ---
 title: Comoros — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-13
+period: 2026-10-01 to 2026-11-13
 place: COM
-ledger_rows: 9
+ledger_rows: 10
 not_held: 22
-record: 00a7e25328b3
+record: 9c5d9d79fa66
 ---
 
 # News, Oct – Nov 2026
@@ -28,6 +28,8 @@ record: 00a7e25328b3
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -71,6 +73,22 @@ Comoros's health statistics directorate said on 27 October 2026 that only one of
 **[iGA Holds the First Digital Government Knowledge Exchange Session with Comoros](https://www.iga.gov.bh/en/article/iga-holds-the-first-digital-government-knowledge-exchange-session-with-comoros)** — Information & eGovernment Authority (Bahrain), 7 October 2026
 
 Bahrain's Information and eGovernment Authority held its first knowledge-exchange session by video with the Comoros' National Digital Development Agency, ANADEN, reported on 7 October 2026, under a memorandum signed in June 2026. Bahrain shared how it governs and approves government IT projects and procurement. The stated aim is to raise the Comoros' score on the UN e-government index.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft law on quality</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Office national de la normalisation I Un projet de loi sur la qualité en voie de validation](https://alwatwan.net/societe/office-national-de-la-normalisation-i-un-projet-de-loi-sur-la-qualit%C3%A9-en-voie-de-validation.html)** — Al-watwan, 30 October 2026
+
+Validation workshop, 29 October 2026: draft quality law reviewed before going to the Assembly.
 
 </div>
 
