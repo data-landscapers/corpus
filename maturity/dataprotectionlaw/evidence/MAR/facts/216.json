@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-03-mar-ia-protection-des-donnees-a-caractere-personnel",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The CNDP launched hearings on 18 March 2025 and held them through 2025 to prepare a deliberation on AI and personal data, so the body is acting.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

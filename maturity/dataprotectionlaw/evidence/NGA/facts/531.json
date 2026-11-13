@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-16-nga-cybercrimes-amendment-act-exposes-lapses-in-legislative-process",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "enacted",
+   "fact": "PLAC Legist describes the Nigeria Data Protection Act as recently enacted and the key legislation on data protection in the country, and says the 2024 Cybercrimes amendment ties traffic data retention to it.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

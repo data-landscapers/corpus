@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-23-bwa-national-registration-amendment-act-2025-no-7",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The National Registration (Amendment) Act 2025 (assented 23 March 2025) requires the registrar to process personal data in accordance with the Data Protection Act, which it treats as an existing law.",
+   "as_of": "2025-03-23",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act",
+   "country_label": "Botswana",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

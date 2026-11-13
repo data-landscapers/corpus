@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-08-zwe-call-for-transparency-and-stakeholder-consultation-on-new-cyber-and-da",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "POTRAZ implemented the Cyber and Data Protection Licencing regulations (S.I. 155 of 2024), setting licence fees of USD 50 to 2,500 for data controllers and certification for data protection officers.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Cyber and Data Protection Licencing regulations (S.I. 155 of 2024)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-09-26-zaf-protection-of-personal-information-act-regulations-relating-to-the-pro",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Information Regulator's gazette notice of 26 September 2025 acts under the Protection of Personal Information Act 4 of 2013 and its section 112(2)(c).",
+   "as_of": "2025-09-26",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act 4 of 2013",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Information Regulator, chaired by Adv. FDP Tlakula, issued the notice inviting comments on draft regulations under the Act.",
+   "as_of": "2025-09-26",
+   "date_precision": "day",
+   "system": "Information Regulator (South Africa)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

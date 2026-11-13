@@ -1,0 +1,27 @@
+{
+ "slug": "2024-12-01-sen-l-etat-du-senegal-entre-transformation-numerique-et-renforcement-de-la",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ENDA Sante says Senegal's digital ministry has proposed since 2017 a draft personal data protection law to strengthen the existing 2008 legislation.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "2008 personal data legislation",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The same article says the draft would give more power and responsibility to the existing Commission de Protection des Donnees Personnelles.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Commission de Protection des Donnees Personnelles",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,37 @@
+{
+ "slug": "2025-06-01-rwa-dpo-newsletter-june-2025",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Data Protection and Privacy Office's June 2025 newsletter says it is implementing Rwanda's Law on the Protection of Personal Data and Privacy, which the National Cyber Security Authority discussed at the Rwanda Internet Governance Forum.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Law on the Protection of Personal Data and Privacy",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The June 2025 newsletter shows the Data Protection and Privacy Office of the National Cyber Security Authority acting as regulator, running consultation workshops and a compliance self-assessment form under the law.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Data Protection and Privacy Office, NCSA",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Data Protection and Privacy Office says it held consultation workshops in June 2025 on sector-specific guides for the law and offers a compliance self-assessment form, with no decision reported.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Law on the Protection of Personal Data and Privacy",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
