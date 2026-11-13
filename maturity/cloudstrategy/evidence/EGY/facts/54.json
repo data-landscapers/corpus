@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-12-egy-hyperscalers-want-clear-rules-data-centers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National data center strategy",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": "A national data centre strategy is planned for year end, but it concerns data centre regulation, not where state data is hosted."
+}

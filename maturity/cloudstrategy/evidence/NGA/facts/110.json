@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-nga-nitda-us-chamber-partnership",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "NITDA's Director-General said the agency had worked with technology companies, local providers and other stakeholders in shaping Nigeria's cloud-first policy; no adoption date is given.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Nigeria's cloud-first policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
