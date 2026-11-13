@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-12-zwe-potraz-puts-zimbabwe-on-africas-digital-map",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Post On Sunday cites Zimbabwe's National ICT Policy 2022-2027 as identifying affordability, consumer protection and meaningful connectivity as policy priorities.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "National ICT Policy 2022-2027",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2027",
+   "fact": "The National ICT Policy is stated to cover 2022 to 2027.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "National ICT Policy 2022-2027",
+   "class": "sector"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
