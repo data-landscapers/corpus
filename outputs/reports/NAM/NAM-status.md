@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 212
+sources_cited: 213
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -299,6 +299,8 @@ Rural primary schools [keep attendance, enrolment and learning outcomes on paper
 <!-- capacity.training -->
 
 [The World Bank's 2025 GovTech assessment found Namibia with no government strategy or programme to raise digital skills in the public service, none for citizens or schools, and no published results](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In November 2025 Cabinet approved proposals that included cyber-skills training for public servants](https://itweb.africa/article/namibia-cabinet-approves-fresh-proposals-to-combat-cyber-crime/5yONPvEraz37XWrb). [In June 2026 the Namibia Institute of Public Administration and Management signed a memorandum with the Global Cybersecurity Centre to train public servants in cybersecurity](https://techafricanews.com/2026/06/09/namibia-boosts-cybersecurity-capacity-through-nipam-global-cybersecurity-centre-partnership/). [On 12 May 2026 the institute held its first executive seminar on AI in the public sector, for more than 100 participants](https://cms.my.na/assets/documents/p1jqc0ch261ubq19c1poj1uuc1p2f4.pdf). [It plans three-to-five-day AI courses for public servants](https://cms.my.na/assets/documents/p1jqc0ch261ubq19c1poj1uuc1p2f4.pdf) (2026). [In July 2026 President Netumbo Nandi-Ndaitwah pressed Huawei to create AI jobs and skills in Namibia](https://www.namibian.com.na/nandi-ndaitwah-pushes-ai-jobs-in-huawei-talks/). Other digital training runs in the tertiary institutions and [the country's innovation hubs](https://www.afrilabs.com/hub_country/namibia/) (2026).
+
+[In July 2026 the higher-education council put the country's graduates in 2025 at 23,048, 31.1% of them in science, technology, engineering and mathematics, and graduate employment at 65% in 2024, down from 83% in 2017](https://www.namibiansun.com/social-issues/only-65-of-namibias-graduates-have-jobs-nche-reveals-nmh013360-1-16458).
 
 ### Research institutions
 <!-- capacity.research -->
