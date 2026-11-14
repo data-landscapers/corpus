@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: TCD
 ledger_rows: 19
-not_held: 22
-record: a0dc1a659980
+not_held: 23
+record: 456b9b50b8de
 ---
 
 # News, Oct – Nov 2026
