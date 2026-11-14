@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: SOM
-ledger_rows: 23
+ledger_rows: 24
 not_held: 1
-record: bc3e4c4b430c
+record: cd9d08628703
 ---
 
 # News, Oct – Nov 2026
@@ -267,6 +267,20 @@ A digital Ebola travel health pass began on 22 October 2026. Arrivals must file 
 **[Somalia Plans Central Security Data System to Fill Reporting Gaps](https://www.dawan.africa/news/somalia-plans-central-security-data-system-to-fill-reporting-gaps)** — Dawan Africa, 11 November 2026
 
 Somalia's internal security ministry has begun designing a Data Analysis Centre to pool police, intelligence and immigration data, Dawan Africa reported on 11 November 2026. Director General Mohamed Shire said the system will replace paper filing. The ministry did not say who funds it, when it will operate or how personal data will be protected.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated Tax Administration System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Feisal Mohamed Hashi: The Vision Behind Somalia's Revenue Reforms](https://www.hiiraan.com/op4/2026/Nov/206761/feisal_mohamed_hashi_the_vision_behind_somalias_revenue_reforms.aspx)** — Hiiraan Online, 13 November 2026
+
+Somali Revenue Authority DG appointed 12 Nov 2026; ITAS rollout due end-2026 into 2027; named-author profile.
 
 </div>
 
