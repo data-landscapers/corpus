@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: NER
 ledger_rows: 12
 not_held: 1
-record: 5b59eccd7c27
+record: d3392b0a9655
 ---
 
 # News, Oct – Nov 2026
@@ -189,6 +189,14 @@ The national civil registration and identification awareness caravan ended in Ni
 **[Guichet Unique Automobile: SONILOGA ouvre le paiement de ses prestations à Airtel Money](https://www.actuniger.com/societe/22417-guichet-unique-automobile-soniloga-ouvre-le-paiement-de-ses-prestations-a-airtel-money)** — ActuNiger, 2 October 2026
 
 The operator of Niger's vehicle one-stop shop began accepting Airtel Money for some of its services on 1 October, through an app or an offline USSD code. The transport ministry presented it as a way to trace public revenue.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation des services : SONILOGA s’associe à Amana pour élargir les options de paiement numérique au GUAN](https://actuniger.com/societe/digitalisation-des-services-soniloga-sassocie-a-amana-pour-elargir-les-options-de-paiement-numerique-au-guan.html)** — Actu Niger, 13 November 2026
+
+Amana Transfert d'Argent convention signed 12 Nov 2026; GUAN fees payable via AmanaTa app; revenue traceability.
 
 </div>
 
