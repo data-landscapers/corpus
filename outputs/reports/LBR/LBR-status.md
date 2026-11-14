@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 236
+sources_cited: 237
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -77,7 +77,7 @@ Every deadline in that programme had passed by August 2026.
 
 [The instant payment system launched in December 2025 runs on the open-source Mojaloop platform](https://frontpageafricaonline.com/business/economy/liberia-cbl-launches-inclusive-instant-payment-system-ends-era-of-mobile-money-silos/). [Mobile money, the instant payment system and the planned national switch sit under the Central Bank's published Mobile Money Regulations](https://www.cbl.org.lr/sites/default/files/documents/MobileMoneyRegulations.pdf). [The payment system's own participation, pricing and technical rules are not published](https://www.cbl.org.lr/sites/default/files/documents/MobileMoneyRegulations.pdf). They sit in agreements between the bank, the switch operator and the mobile money operators.
 
-[The 2026 Public Procurement and Concessions Act requires public entities to use the e-GP system](https://www.liberianobserver.com/news/ppcc-rolls-out-ict-equipment-for-phase-two-of-e-gp-system/article_d2a4d198-790e-4364-bc97-e335eaaaa7c5.html). [In August 2026 the Telecommunications Authority launched an automated licensing and renewal platform, keeping the in-person route open](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system).
+[The 2026 Public Procurement and Concessions Act requires public entities to use the e-GP system](https://www.liberianobserver.com/news/ppcc-rolls-out-ict-equipment-for-phase-two-of-e-gp-system/article_d2a4d198-790e-4364-bc97-e335eaaaa7c5.html). [In August 2026 the Telecommunications Authority launched an automated licensing and renewal platform, keeping the in-person route open](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system). [In October 2025 it put out for consultation draft rules for a central registry of handset IMEI numbers, making registration of every device compulsory](https://lta.gov.lr/wp-content/uploads/2025/10/IMEI-Draft-Regulations-Public-Consultation-Version-1.docx); no final text has been found.
 
 [The Liberia Standards Authority became a correspondent member of ISO in October 2025, its dues paid through an EU-funded project](https://frontpageafricaonline.com/liberia-standards-authority-joins-iso-afsec-as-director-general-departs-for-global-leaders-gathering-in-rwanda/). [In November 2026 ISO still listed it as a correspondent member, with no technical-committee participation](https://www.iso.org/member/11464839.html).
 
