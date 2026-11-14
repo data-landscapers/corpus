@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-11-12
+compiled: 2026-11-14
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 285
+sources_cited: 286
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -178,7 +178,7 @@ Cybersecurity is one of the four priorities under which [the Senegal-Gambia tele
 
 On 16–17 July 2026 the Gambia–Senegal Monitoring Committee, meeting at Saly, [agreed to exchange customs data by API](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict). [The exchange is to start once the GAINDE system is installed at Karang, Keur Ayib and Selety, within three months](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict). [It also agreed to deploy SIGMAT for real-time transit tracking and to reactivate the EnCen intelligence-sharing platform](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict). A 2025 World Bank assessment found [the regulator's SIM registration database still planned, with no electronic identity authentication](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf). The 2026 budget speech [names integration and interoperability in the payments space as a priority for the year](https://mofea.gov.gm/wp-content/uploads/2025/12/2026-Budget-Speech_Dec_2.pdf).
 
-The World Bank's supervision of the RISE project [records a January 2024 baseline of no interoperability across the Gambia Social Registry, the education management information systems, civil registration and health insurance](https://documents1.worldbank.org/curated/en/099112925154035950/pdf/P179233-79b99711-b6ff-4c20-b5cb-2d5ef7838226.pdf). [The value was still 0 at 25 November 2025, with one instance being verified](https://documents1.worldbank.org/curated/en/099112925154035950/pdf/P179233-79b99711-b6ff-4c20-b5cb-2d5ef7838226.pdf). [The target is at least three systems interoperable by October 2028, carrying a US$500,000 performance-based allocation](https://documents1.worldbank.org/curated/en/099112925154035950/pdf/P179233-79b99711-b6ff-4c20-b5cb-2d5ef7838226.pdf).
+The World Bank's supervision of the RISE project [records a January 2024 baseline of no interoperability across the Gambia Social Registry, the education management information systems, civil registration and health insurance](https://documents1.worldbank.org/curated/en/099112925154035950/pdf/P179233-79b99711-b6ff-4c20-b5cb-2d5ef7838226.pdf). [The value was still 0 at 25 November 2025, with one instance being verified](https://documents1.worldbank.org/curated/en/099112925154035950/pdf/P179233-79b99711-b6ff-4c20-b5cb-2d5ef7838226.pdf). [The target is at least three systems interoperable by October 2028, carrying a US$500,000 performance-based allocation](https://documents1.worldbank.org/curated/en/099112925154035950/pdf/P179233-79b99711-b6ff-4c20-b5cb-2d5ef7838226.pdf). [In 2025 the registry's coordinator said its data reach programmes only under a data-sharing protocol, each receiving programme signing a memorandum](https://dpi.africa/from-data-to-impact-the-digital-transformation-of-the-gambias-social-registry/).
 
 In October 2024 [data exchange was classified as planned or piloted](https://dpimap.org/gambia/), with no national exchange in operation. The communications ministry's [E-Government Strategy 2021–2024, dated October 2020, calls for an e-Government Interoperability Framework of policies, standards and guidelines for the ICT Agency to apply](https://ovp.gov.gm/wp-content/uploads/2023/10/E-GOVERNMENT-STRATEGY.pdf). The strategy's window closed in 2024, and no such framework has been found.
 

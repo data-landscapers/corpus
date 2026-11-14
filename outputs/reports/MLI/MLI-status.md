@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 200
+sources_cited: 201
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -219,7 +219,7 @@ In 2024 [Mali had 747 primary civil status centres, 292 secondary centres and so
 
 [On 1 October 2026 the annual revision of the electoral lists opened, to run to 31 December](https://bamada.net/fichier-electoral-lheure-du-grand-nettoyage). [The lists are drawn from the biometric civil-status database, with the NINA as each elector's unique identifier](https://bamada.net/fichier-electoral-lheure-du-grand-nettoyage). [The 2025 revision covered all 815 communes, Bamako's seven districts and 48 diplomatic posts](https://bamada.net/fichier-electoral-lheure-du-grand-nettoyage). [At the June 2023 constitutional referendum the roll held 8,463,085 voters](https://electionguide.org/elections/id/4134/).
 
-[A social register was established by decree in May 2022 for contributory and non-contributory schemes alike](https://rsu.gouv.ml/portail/presentation/). In 2025 [the World Bank's Sahel social protection programme spent its latest year strengthening the register's policy, systems and diagnostics](https://www.worldbank.org/en/programs/sahel-adaptive-social-protection-program-trust-fund/country-work/mali). In August 2026 [Mali was covered by BIC-UEMOA, the credit bureau for all eight UEMOA states](https://www.lanation.bj/economie/1er-cafe-des-donnees-du-bic-uemoa-a-cotonou-la-qualite-des-informations-au-coeur-des-travaux).
+[A social register was established by decree in May 2022 for contributory and non-contributory schemes alike](https://rsu.gouv.ml/portail/presentation/). [It covered 1.2 million households in April 2024](https://documents1.worldbank.org/curated/en/099031425101035349/pdf/P500480-8589b096-9644-4127-863d-00895a97c3d8.pdf). In 2025 [the World Bank's Sahel social protection programme spent its latest year strengthening the register's policy, systems and diagnostics](https://www.worldbank.org/en/programs/sahel-adaptive-social-protection-program-trust-fund/country-work/mali). In August 2026 [Mali was covered by BIC-UEMOA, the credit bureau for all eight UEMOA states](https://www.lanation.bj/economie/1er-cafe-des-donnees-du-bic-uemoa-a-cotonou-la-qualite-des-informations-au-coeur-des-travaux).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->
