@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: MOZ
-ledger_rows: 36
+ledger_rows: 38
 not_held: 17
-record: 6e5ed9fb98ff
+record: 188b2056191f
 ---
 
 # News, Oct – Nov 2026
@@ -123,6 +123,20 @@ Mozambique's education and culture minister Edson Macuácua said on 22 October 2
 **[Revisão do Quadro de Interoperabilidade reforça a transformação digital dos serviços públicos](https://pt.linkedin.com/posts/intic-instituto-nacional-de-tecnologias-de-informa%C3%A7%C3%A3o-e-comunica%C3%A7%C3%A3o_revis%C3%A3o-do-quadro-de-interoperabilidade-refor%C3%A7a-activity-7520792996766699521-sTTA)** — INTIC, IP, 27 October 2026
 
 Mozambique's INTIC presented a proposed revision of Decree 67/2017, its e-government interoperability framework, in Maputo on 23 October 2026. The proposal raises the guiding principles from 10 to 15. New ones include technical neutrality, reuse, security by design and digital by default.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Revised law on the organisation and functioning of the Public Administration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Parlamento aprova revisão da lei que regula organização e funcionamento da Administração Pública](https://mznews.co.mz/parlamento-aprova-revisao-da-lei-que-regula-organizacao-e-funcionamento-da-administracao-publica/)** — MZNews, 13 November 2026
+
+About 142 articles in 12 chapters; digital transition, citizen oversight and provincial decentralised bodies added.
 
 </div>
 
@@ -369,6 +383,8 @@ Mozambique's criminal investigation service detained five mobile operator staff 
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -451,6 +467,22 @@ The Bank of Mozambique licensed payments aggregator PawaPay as a payment service
 **[Governor Felisberto Navalha delivers opening address at 51st Banco de Moçambique Advisory Board Meeting in Tete](https://www.bancomoc.mz/en/media/highlights/governor-felisberto-navalha-delivers-opening-address-at-51st-banco-de-mocambique-advisory-board-meeting-in-tete/)** — Banco de Moçambique, 28 October 2026
 
 The governor of Banco de Moçambique said on 28 October 2026 that the METIX instant payment system handles about 12,000 transactions a day. It handled about 3,000 a day at its launch in March 2026. He also said a central foreign-exchange platform will operate by December 2026, alongside a digital transformation strategy and an internal AI policy.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Modernisation of driving licence, vehicle register and traffic-offence systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INATRO e ATDI unem esforços para digitalização da carta de condução e do registo de veículos](https://mznews.co.mz/inatro-e-atdi-unem-esforcos-para-digitalizacao-da-carta-de-conducao-e-do-registo-de-veiculos/)** — MZNews, 14 November 2026
+
+Mozambique's road-transport institute INATRO and digital-transformation agency ATDI signed a five-year memorandum, reported on 14 November 2026. It covers the systems behind biometric driving licences, vehicle registration and traffic-offence control. Data centres, cybersecurity and data protection are included; the signing date was not stated.
 
 </div>
 

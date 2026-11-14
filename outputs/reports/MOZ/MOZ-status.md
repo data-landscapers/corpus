@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 267
+sources_cited: 268
 sections_written: 39
 not_established: 1
 acquire_lines: 48
@@ -312,7 +312,7 @@ Dealroom recorded [no disclosed venture capital investment in Mozambique over th
 
 [By July 2026 the World Bank-funded PADIM project had run 14 training actions for 30 INTIC technicians and trained 2,032 professionals in cybersecurity](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/). Mozambican specialists [hold SIM3 certifications individually](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/), the instrument by which a response team's readiness is assessed.
 
-In 2025 Mozambique had [both a digital skills strategy and a digital skills training programme for civil servants, pitched at basic digital skills](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). In April 2026 [the public administration training institutes put three free online courses for public servants live, basic computer skills among them](https://pt.linkedin.com/posts/giz-mozambique_coopera%C3%A7%C3%A3oalem%C3%A3-alemanhaemmo%C3%A7ambique-gizworks-activity-7454441921898299392-DQRo). [There were 56 higher education institutions at the end of 2023, Eduardo Mondlane University the oldest and largest of them](https://unctad.org/system/files/official-document/tcsdtlinf2024d3_en.pdf). The ITU is running [the regulatory and policy component of the EU-funded VaMoz Digital! programme over 2023–2027, which covers a digital skills curriculum](https://www.itu.int/net4/ITU-D/CDS/projects/display.asp?ProjectNo=9MOZ23005).
+In 2025 Mozambique had [both a digital skills strategy and a digital skills training programme for civil servants, pitched at basic digital skills](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). In April 2026 [the public administration training institutes put three free online courses for public servants live, basic computer skills among them](https://pt.linkedin.com/posts/giz-mozambique_coopera%C3%A7%C3%A3oalem%C3%A3-alemanhaemmo%C3%A7ambique-gizworks-activity-7454441921898299392-DQRo). [There were 56 higher education institutions at the end of 2023, Eduardo Mondlane University the oldest and largest of them](https://unctad.org/system/files/official-document/tcsdtlinf2024d3_en.pdf). The ITU is running [the regulatory and policy component of the EU-funded VaMoz Digital! programme over 2023–2027, which covers a digital skills curriculum](https://www.itu.int/net4/ITU-D/CDS/projects/display.asp?ProjectNo=9MOZ23005). [Since February 2026 the ICT syllabus for grades 7 to 9 has covered digital citizenship, an introduction to cybersecurity, electronic transactions and Scratch programming](https://ieda.gov.mz/site/wp-content/uploads/2020/10/ANEXO_XVII_PROGRAMA_TIC_ES_1oCICLO_11_02_2026_GM_assinado.pdf).
 
 [In 2025 a public job portal was in use for registration, vacancy search and applications, including public-sector recruitment](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [MozDevz, a Mozambican community, trains young people in ICT and STEM](https://www.mozdevz.org/).
 
