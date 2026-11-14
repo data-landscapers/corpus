@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: GAB
 ledger_rows: 39
 not_held: 11
-record: 583f220df7d2
+record: 195a2f24d723
 ---
 
 # News, Oct – Nov 2026
@@ -434,7 +434,7 @@ The workshop preparing Gabon's national civil-registration conferences closed wi
 
 **[DGI : 2ème phase de la campagne de recensement et de régularisation des contribuables](https://gabonmediatime.com/dgi-2eme-phase-de-la-campagne-de-recensement-et-de-regularisation-des-contribuables/)** — Gabonmediatime, 18 October 2026
 
-45-day door-to-door census of informal operators from Akanda; 18 teams on 3 sites; new taxpayers enrolled on Digitax.
+Gabon's tax directorate began the second phase of its taxpayer census and regularisation campaign in Akanda in October 2026. Over about 45 days, 18 teams on three sites will go door to door to identify and register taxpayers, with a focus on the informal sector. New taxpayers are to be entered on the Digitax platform.
 
 </div>
 

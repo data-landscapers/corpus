@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: BDI
 ledger_rows: 24
 not_held: 10
-record: bd741178fe5b
+record: 164d6fd283cc
 ---
 
 # News, Oct – Nov 2026
@@ -378,7 +378,7 @@ Summarised under [AI](#ai).
 
 **[Turning Entrepreneurial Potential into Lasting Impact.](https://www.linkedin.com/posts/kit-digital-innovation-hub_icanzotech-kithub-sharktankburundi-activity-7525403169837883392-1SXg)** — KIT- Digital Innovation HUB, 9 November 2026
 
-KIT hub's ICANZO TECH programme takes 13 Shark Tank Burundi startups into incubation, backed by LM International.
+KIT Digital Innovation Hub in Burundi said 13 startups from Shark Tank Burundi have entered incubation under its ICANZO TECH programme, supported by LM International. The startups work in fintech, agritech, health and other sectors. The hub has visited and interviewed them to assess their needs before training and follow-up.
 
 </div>
 

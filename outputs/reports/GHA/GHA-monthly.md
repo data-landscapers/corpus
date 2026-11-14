@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: GHA
 ledger_rows: 74
 not_held: 9
-record: fb06debcf948
+record: d9b912d0b7a2
 ---
 
 # News, Oct – Nov 2026
@@ -1168,7 +1168,7 @@ The Bank of Ghana is setting up a Data Analytics and AI Department, Governor Joh
 
 **[Ghana Awards $100,000 to Ten Agritech Startups to Expand Agricultural Businesses](https://www.businesstechafrica.co.za/article/ghana-awards-100-000-to-ten-agritech-startups-to-expand-agricultural-businesses)** — Business Tech Africa, 9 November 2026
 
-Kosmos Innovation Center and Mastercard Foundation: US$100,000 to ten agribusinesses, 29 October 2026.
+The Kosmos Innovation Center and the Mastercard Foundation awarded a combined US$100,000 in seed funding to ten Ghanaian agribusinesses in the 2026 AgriTech Challenge Pro. The winners were chosen from 15 finalists at a pitching event on 29 October 2026. They now enter the centre's incubation programme.
 
 </div>
 

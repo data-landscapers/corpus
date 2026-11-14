@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: BEN
 ledger_rows: 36
 not_held: 4
-record: 2ddb098ea6b2
+record: 8e0cf930bb72
 ---
 
 # News, Oct – Nov 2026
@@ -672,7 +672,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Benin Plans Digital Fabrication Hubs to Boost Local Innovation](https://www.ecofinagency.com/news-digital/0511-60528-benin-plans-digital-fabrication-hubs-to-boost-local-innovation)** — Ecofin Agency, 5 November 2026
 
-Adds TechnoServe 2023 mapping: 278 support organisations at end-2022, 46% in Littoral; ADPME 2025-2029 plan.
+Benin's Council of Ministers approved on 4 November 2026 a pilot to build two digital fabrication hubs, called Innobox, in Parakou and Porto-Novo. The hubs will offer equipment for prototyping, robotics and artificial intelligence work. The government plans to extend them to other municipalities after assessing the pilot.
 
 </div>
 

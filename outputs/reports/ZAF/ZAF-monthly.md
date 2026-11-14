@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: ZAF
 ledger_rows: 103
 not_held: 17
-record: c6edaa5a0928
+record: 42c615cb709a
 ---
 
 # News, Oct – Nov 2026
@@ -1622,7 +1622,7 @@ Google named 15 South African-led, revenue-generating AI startups to its 2026 Go
 
 **[Le Shift Lab welcomes 14 start-ups to its incubation cohort](https://frenchinstitute.org.za/science-and-innovation/innovation/le-shift-lab-welcomes-14-start-ups-to-its-incubation-cohort/)** — French Institute of South Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
 
-French embassy and Wits Tshimologong incubator: first cohort of 14 green and digital start-ups from SA and Malawi.
+Le Shift Lab, an incubator set up by the French embassy with Wits University's Tshimologong precinct, selected 14 entrepreneurs from South Africa and Malawi for its first cohort. The startups work in green technology and digital innovation, including renewable energy, farming, water and electric transport. Participants receive mentoring, workshops and links to South African and French networks.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: ZWE
 ledger_rows: 36
 not_held: 5
-record: c24c25429d35
+record: a4f3c6cfa836
 ---
 
 # News, Oct – Nov 2026
@@ -596,7 +596,7 @@ Zimbabwe's Home Affairs Minister Kazembe Kazembe told the National Assembly that
 
 **[Q3 2026 NEWSLETTER](https://eight2five.africa/wp-content/uploads/2026/10/Q3-2026-NEWSLETTER-1.pdf)** — Eight2Five Innovation Hub, 1 October 2026
 
-VCC6: 14 founders through incubation to Showcase Day at Mutual Gardens, 2 Sept 2026; NardoPay overall winner.
+The Eight2Five Innovation Hub in Zimbabwe published its newsletter for the third quarter of 2026. It reports that 14 startups completed the sixth round of its VCC programme, won overall by the payments startup NardoPay. It also profiles five Zimbabwean startups and sets out a guide for founders on interviewing customers.
 
 </div>
 

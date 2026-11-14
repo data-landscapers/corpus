@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: MRT
 ledger_rows: 20
 not_held: 3
-record: 05229b62c2e1
+record: 5f489b465658
 ---
 
 # News, Oct – Nov 2026
@@ -398,7 +398,7 @@ Mauritania scored 0.99 out of 4 on the Africa AI Governance Index 2026, in the N
 
 **[Lancement du programme d'accompagnement des startups numériques](https://fr.linkedin.com/posts/giz-mauritanie_digital-gizmauritanie-coop%C3%A9rationallemande-activity-7516856753385316352-bRNN)** — GIZ Mauritanie, 16 October 2026
 
-GIZ Digital-Y programme, run by Hadina RIMTIC from October 2026, takes nine start-ups incl. three Gouvathon winners.
+GIZ's Digital-Y project in Mauritania launched a support programme for nine digital startups, run by the incubator Hadina RIMTIC from October 2026. The startups were chosen through a call for applications with the digital ministry, and include the three winners of July's Gouvathon. They will build digital services for government bodies.
 
 </div>
 

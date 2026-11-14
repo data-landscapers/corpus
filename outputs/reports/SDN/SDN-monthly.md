@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: SDN
 ledger_rows: 34
 not_held: 5
-record: 48dfa30ab366
+record: eb4fb00d4338
 ---
 
 # News, Oct – Nov 2026
@@ -64,7 +64,7 @@ Sudan's Digital Transformation Authority held its first federal council meeting 
 
 **[Private Sector Engagement Strategy Sudan](https://www.undp.org/sites/g/files/zskgke326/files/2026-11/undp_private_sector_report.pdf)** — UNDP, 1 November 2026
 
-UNDP strategy 2026-2028 from 71 interviews (November 2025); startup ecosystem dormant, incubators suspended or abroad.
+UNDP published a private sector engagement strategy for Sudan covering 2026 to 2028. It treats small businesses, farmers, traders and diaspora-linked firms as central to recovery from the conflict that began in April 2023. Its entry points are access to finance, renewable energy for productive use, skills training, joint public and private action, and diaspora investment.
 
 </div>
 

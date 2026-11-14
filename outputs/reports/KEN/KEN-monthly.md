@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: KEN
 ledger_rows: 94
 not_held: 5
-record: d8177cffb9ed
+record: 58b57d2b5540
 ---
 
 # News, Oct – Nov 2026
@@ -1448,7 +1448,7 @@ Microsoft plans to close the engineering department of its Africa Development Ce
 
 **[Mapping business incubating organisations in Kenya as central elements of the entrepreneurial ecosystem](https://publications.hnu.de/7180/1/HNU_Working_Paper_BayerThomas-261018.pdf)** — Hochschule Neu-Ulm (HNU Working Paper Nr. 62), 1 October 2026
 
-169 active incubators identified; Nairobi hosts 52.8% of facilities; none found in 16 of 47 counties.
+A working paper from Neu-Ulm University of Applied Sciences, dated October 2026, lists 169 active business incubating organisations in Kenya. It sorts them into six categories and gives each one's founding year, services, location by county, leadership and contact details. The survey draws on secondary research.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: BFA
 ledger_rows: 45
 not_held: 6
-record: bb0e0b1a18cd
+record: 37b495a4f594
 ---
 
 # News, Oct – Nov 2026
@@ -492,7 +492,7 @@ AES Insider reported that Burkina Faso's social registry committee met on 27 Oct
 
 **[CEFORE : Préparer votre création d'entreprise](https://creerentreprise.me.bf/)** — Maison de l'Entreprise du Burkina Faso (CEFORE), 13 November 2026
 
-One mobile-money fee bundles RCCM, IFU and CNSS; 6,916 creation requests 1 Jan to 13 Nov 2026, 98% sole traders.
+Burkina Faso's business registration centre CEFORE runs an online guide to starting a business. It asks founders to check that a trade name is available and then prepare their documents. It sets out the choice between a sole proprietorship and a company such as a SARL, SA or SAS.
 
 </div>
 

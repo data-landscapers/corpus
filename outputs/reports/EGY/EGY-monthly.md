@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: EGY
 ledger_rows: 65
 not_held: 35
-record: bfcf3cd80030
+record: 07d3edfd6eac
 ---
 
 # News, Oct – Nov 2026
@@ -1048,7 +1048,7 @@ MNT-Halan listed its Egyptian business on the Cairo Stock Exchange in Egypt's la
 
 **[«كرياتيفا» تطلق الدورة الخامسة لاحتضان الشركات الناشئة بتمويل 10.8 مليون جنيه](https://www.masrtimes.com/775446)** — Masr Times, 9 November 2026
 
-Creativa launches its fifth incubation cycle with EGP 10.8 million, up to EGP 360,000 per pre-seed startup.
+Egypt's information technology development agency ITIDA launched the fifth round of its Creativa incubation programme with total funding of EGP 10.8 million. Each pre-seed startup can receive up to EGP 360,000 over one year, half in cash and half as training, mentoring and advice. The programme covers sectors including education technology, renewable energy, agritech and health.
 
 </div>
 

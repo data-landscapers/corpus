@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: ZMB
 ledger_rows: 30
 not_held: 32
-record: d4e14159a79c
+record: f12fe692f1dd
 ---
 
 # News, Oct – Nov 2026
@@ -322,7 +322,7 @@ Zambian Business Times reported on 26 October 2026 that 982 property records in 
 
 **[ZRA migrates historical tax records, calls for review](https://www.zambiamonitor.com/zra-migrates-historical-tax-records-calls-for-review/)** — Zambia Monitor, 8 October 2026
 
-Legacy tax-account history moved to TaxOnline 6 October 2026; duplicates removed, no new liabilities created.
+The Zambia Revenue Authority said it had finished moving historical tax records from retired legacy systems into its TaxOnline platform on 6 October 2026. It asked taxpayers to check their account statements and report any discrepancy with supporting documents. The authority said the migration creates no new tax liability.
 
 </div>
 

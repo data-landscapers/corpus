@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: BWA
 ledger_rows: 17
 not_held: 5
-record: 033d3405b935
+record: fee2babd5723
 ---
 
 # News, Oct – Nov 2026
@@ -60,7 +60,7 @@ Orange Botswana and Huawei Technologies Botswana signed a memorandum of understa
 
 **[Botswana Tech Fund Announces First Cohort of Accelerator Program](https://www.bwtechzone.com/2026/10/botswana-tech-fund-announces-first.html)** — BW TechZone, 7 October 2026
 
-Seven Southern African start-ups in the first cohort; up to GBP 100,000 each for about 10% equity.
+The Botswana Tech Fund named seven startups for the first cohort of its accelerator in October 2026: three from Botswana and one each from Namibia, Zambia, South Africa and Zimbabwe. Each startup can receive up to £100,000, with £25,000 on entry and £75,000 on meeting agreed targets. The three-month programme runs partly in Gaborone and partly online.
 
 </div>
 

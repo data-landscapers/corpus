@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: MUS
 ledger_rows: 40
 not_held: 7
-record: 72ac246b703f
+record: 424b71c3194d
 ---
 
 # News, Oct – Nov 2026
@@ -604,7 +604,7 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 **[La Turbine Innovation Challenge 2026: Seven Start-ups Present Their Solutions](https://platformafrica.com/2026/11/04/la-turbine-innovation-challenge-2026-seven-start-ups-present-their-solutions/)** — Platform Africa, 4 November 2026
 
-ER Group incubator, founded 2016: 1,000+ projects received, 150 pre-incubated, 35 start-ups created by Nov 2026.
+La Turbine, the incubator of ER Group in Mauritius, ran its 2026 Innovation Challenge on artificial intelligence and sustainable innovation from 17 September. Seven startups were to pitch to a jury at a final event on 12 November 2026. The two-month programme gave them mentoring and support.
 
 </div>
 

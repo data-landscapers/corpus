@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: TGO
 ledger_rows: 31
 not_held: 15
-record: 44bafa016cb8
+record: f8d301f0ac67
 ---
 
 # News, Oct – Nov 2026
@@ -518,7 +518,7 @@ Togo's personal data protection authority (IPDCP) and the University of Kara sig
 
 **[PROGRAMME SIFA : 1 000 jeunes formés aux compétences numériques au Togo](https://www.education.gouv.tg/programme-sifa-1-000-jeunes-formes-aux-competences-numeriques-au-togo/)** — Ministère de l'Education Nationale, 3 November 2026
 
-15 partner hubs (7 public, 8 private) across five regions; nearly 2,000 enrolled; 1,000 placements targeted by end-2027.
+Togo's education ministry reported that 1,000 young people have been trained in digital skills under the African Union's Skills Initiative for Africa. AUDA-NEPAD runs the programme with German funding through KfW, and the firm SAYNA operates it in Togo. Training covers ten digital trades and is delivered through 15 public and private hubs in all five regions.
 
 </div>
 

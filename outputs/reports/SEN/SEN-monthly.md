@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: SEN
 ledger_rows: 48
 not_held: 2
-record: 187bb89efedc
+record: 15d47c685fcd
 ---
 
 # News, Oct – Nov 2026
@@ -752,7 +752,7 @@ Senegal's telecommunications ministry signed a US$150 million partnership conven
 
 **[AIMS Jëmmal Incubator : la première cohorte franchit la ligne d'arrivée](https://aims-senegal.org/aims-jemmal-incubator-la-premiere-cohorte-franchit-la-ligne-darrivee/)** — AIMS Sénégal, 1 November 2026
 
-First cohort of 13 startups in seven sectors ran March to September 2026; closed 30 October 2026.
+The AIMS Jëmmal Incubator at the AIMS campus in Dakar closed its first cohort on 30 October 2026. Thirteen startups from seven sectors, including agritech, health, education and finance, took their projects from idea to prototype between March and September. The cohort ended with a demo day for the public and partners.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: CAF
 ledger_rows: 14
 not_held: 5
-record: 598187fbfc0e
+record: ce539f9ac283
 ---
 
 # News, Oct – Nov 2026
@@ -218,7 +218,7 @@ The Central African Republic scored 0.25 out of 4 on the Africa AI Governance In
 
 **[La FAFECA inaugure son incubateur numérique à Bangui en présence du ministre NGATE-ROBARD](https://www.fafeca.org/actualites/la-fafeca-inaugure-son-incubateur-numerique-a-bangui-en-presence-du-ministre-ngate-robard)** — FAFECA, 31 October 2026
 
-Women entrepreneurs' digital incubator opened 30 October 2026, financed by the EU and AFD with IECD support.
+The Federation of Women Entrepreneurs' Associations of the Central African Republic opened a digital incubator in Bangui on 30 October 2026. The minister for small and medium enterprises attended. The European Union and the French development agency AFD fund the centre, which trains women entrepreneurs in digital tools.
 
 </div>
 

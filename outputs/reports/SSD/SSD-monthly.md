@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: SSD
 ledger_rows: 10
 not_held: 7
-record: 452b020f9b30
+record: d15cda8169cb
 ---
 
 # News, Oct – Nov 2026
@@ -214,7 +214,7 @@ South Sudan scored 0.75 out of 4 on the Africa AI Governance Index 2026, in the 
 
 **[Welcoming First Cohort to Drive Agribusiness Growth](https://ifdc.org/2026/10/19/grebi-welcomes-first-cohort-to-drive-green-and-resilient-agribusiness-growth/)** — IFDC, 19 October 2026
 
-EU-funded GREBI (2026-2029) seats 22 MSMEs from Juba and Terekeka at the University of Juba Agribusiness Hub.
+The Green and Resilient Economy Business Incubator in South Sudan, led by IFDC, took in its first cohort on 30 September 2026. The 22 small businesses come from Juba and Terekeka. The nine-month programme offers training, coaching and help with finance and market access. Many of the firms are led by women and young people.
 
 </div>
 

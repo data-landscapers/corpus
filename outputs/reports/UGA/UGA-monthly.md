@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: UGA
 ledger_rows: 50
 not_held: 11
-record: 6d2b3e25128e
+record: 071cdd116e54
 ---
 
 # News, Oct – Nov 2026
@@ -518,7 +518,7 @@ Uganda Revenue Authority had linked 2.13 million of its 5.41 million individual 
 
 **[NIN is TIN](https://ura.go.ug/en/nin-is-tin/)** — Uganda Revenue Authority, 10 November 2026
 
-URA: NIN replaces TIN for individuals, BRN for entities; NIN login from January 2027, TIN records kept.
+The Uganda Revenue Authority explains that the National Identification Number now serves as the Tax Identification Number for individual taxpayers. Cabinet approved the change on 31 August 2026, following an amendment to the Tax Procedures Code Act in 2025/26. The authority says separate identifiers had left duplicate and fragmented taxpayer records.
 
 </div>
 
@@ -782,7 +782,7 @@ The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe Intern
 
 **[Govt to open ICT innovation hub at Mountains of the Moon University](https://www.newvision.co.ug/category/education/govt-to-open-ict-innovation-hub-at-mountains-NV_243990_112026)** — New Vision, 13 November 2026
 
-Fifth regional hub after Soroti, Muni, Kabale and Busitema; UJ-Connect cohort 4 graduates 56 of 83, $6,500 in grants.
+Uganda's Ministry of ICT announced on 10 November 2026 a new ICT innovation hub at Mountains of the Moon University in Fort Portal. It joins regional hubs at Soroti, Muni, Kabale and Busitema universities. At the same event, four startups from the UJ-Connect programme shared grants totalling US$6,500.
 
 </div>
 

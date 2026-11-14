@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: AGO
 ledger_rows: 31
 not_held: 6
-record: 22dc63e5c83e
+record: cec54e7dae1d
 ---
 
 # News, Oct – Nov 2026
@@ -498,7 +498,7 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 
 **[MINTTICS, através do GGPEN, e Airbus lançam programa de incubação para impulsionar startups angolanas do sector espacial](http://www.ggpen.gov.ao/news/ggpen-e-airbus-lancam-programa-de-incubacao-para-impulsionar-startups-angolanas-do-sector-espacial)** — GGPEN, 14 October 2026
 
-Five ANGOTIC 2026 picks get a three-month residency at Aerospace Valley's DISTRICT accelerator in Toulouse.
+Angola's telecommunications ministry, through its space programme office GGPEN, launched an incubation programme with Airbus for Angolan space-sector startups in October 2026. Five startups chosen at ANGOTIC 2026 will spend three months at an accelerator in Toulouse, France. They will receive mentoring, training and contact with European investors and laboratories.
 
 </div>
 
