@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: AGO
-ledger_rows: 29
+ledger_rows: 30
 not_held: 6
-record: 64cc5a62b940
+record: b1735a442709
 ---
 
 # News, Oct – Nov 2026
@@ -490,6 +490,8 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
 <a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#training-and-skills">Training and skills</a>
 </nav>
 
 ### Literacy
@@ -503,6 +505,22 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[João Lourenço autoriza despesa de 20 milhões USD para capacitação digital em Angola](https://poligrafoafrica.com/fact-check/joao-lourenco-autoriza-despesa-de-20-milhoes-usd-para-capacitacao-digital-em-angola/)** — Polígrafo África, 22 October 2026
 
 Angola's President authorised USD 20 million, by a despacho reported on 22 October 2026, for digital skills training at basic, intermediate and advanced levels for young workers and civil servants, along with awareness of data protection and cybersecurity. Training centres are to be hired by public tender, run by the Institute for Administrative Modernisation.
+
+</div>
+
+</div>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">STEM share of accredited higher-education courses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cursos de STEM representam menos de 30% da oferta formativa](https://expansao.co.ao/universidade/detalhe/cursos-de-stem-representam-menos-de-30-da-oferta-formativa-76019.html)** — Expansão, 1 November 2026
+
+242 of 900 accredited courses STEM (27%) in 2026/27; 19,907 of 218,544 graduates in 2014-2024 were STEM (10%).
 
 </div>
 
