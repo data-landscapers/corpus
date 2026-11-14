@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: DZA
-ledger_rows: 39
+ledger_rows: 41
 not_held: 6
-record: 6d297deacaaf
+record: d1ec0eaecf19
 ---
 
 # News, Oct – Nov 2026
@@ -30,6 +30,8 @@ record: 6d297deacaaf
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -71,6 +73,22 @@ Algeria's draft 2027 finance law proposes that foreign digital platforms selling
 **[Communiqué — retrait définitif de l’autorisation de cloud computing de DATAGIX](https://www.arpce.dz/fr/pub/h9v7b0)** — Autorité de régulation de la poste et des communications électroniques (ARPCE), 22 October 2026
 
 Algeria's telecoms regulator ARPCE definitively withdrew, from 22 October 2026, the general authorisation it issued to DATAGIX in February 2024 to provide cloud hosting and data storage. The regulator cited breaches of the rules in force and told the company to contact it without delay.
+
+</div>
+
+</div>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ANPDP deliberation on personal data in CVs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Protection des données personnelles : L’ANPDP encadre le traitement des informations contenues dans les CV](https://www.lesoirdalgerie.com/actualites/l-anpdp-encadre-le-traitement-des-informations-contenues-dans-les-cv-160122)** — Le Soir d’Algérie, 12 November 2026
+
+Deliberation 05 under Law 18-07: no sensitive data without legal basis; CVs kept one year after recruitment closes.
 
 </div>
 
@@ -497,6 +515,20 @@ Algeria's national property directorate, DGDN, launched a new version of the Fad
 **[Numérisation du secteur de la santé : Plus de 2.355 structures raccordées à la fibre optique (ministre)](https://lavoiedalgerie.dz/numerisation-du-secteur-de-la-sante-plus-de-2-355-structures-raccordees-a-la-fibre-optique-ministre/2026/29/00/)** — La voix de l’Algérie, 29 October 2026
 
 Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs operations centre for real-time monitoring</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[المديرية العامة للجمارك تتدعم بمركز عمليات مخصص للمتابعة الآنية للأنشطة الجمركية](https://news.radioalgerie.dz/ar/node/99005)** — Radio Algérienne, 14 November 2026
+
+Algeria's customs directorate opened an operations centre in Algiers on 14 November 2026 to monitor customs activity in real time. It collects data round the clock from regional operations centres and issues intelligence bulletins to senior officials. An application for tracking customs operational teams was also presented.
 
 </div>
 
