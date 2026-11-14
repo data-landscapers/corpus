@@ -3,9 +3,9 @@ title: Togo — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: TGO
-ledger_rows: 31
+ledger_rows: 33
 not_held: 15
-record: f8d301f0ac67
+record: c87d8292f941
 ---
 
 # News, Oct – Nov 2026
@@ -298,6 +298,20 @@ Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Budget and accounting information system (SIBC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo : le gouvernement prépare une refonte de son système de gestion budgétaire et comptable](https://www.togofirst.com/fr/finance/1311-20643-togo-le-gouvernement-prepare-une-refonte-de-son-systeme-de-gestion-budgetaire-et-comptable)** — Togo First, 13 November 2026
+
+Diagnostic of budget and accounting information system under IDA-backed PMADS; bids due 3 Dec 2026.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -373,6 +387,20 @@ The Global Alliance for Trade Facilitation launched a project in Lomé on 9 Octo
 **[Togo : 4 consultants recherchés pour préparer la passation électronique des marchés publics](https://www.togofirst.com/fr/gouvernance-economique/2610-20450-togo-4-consultants-recherches-pour-preparer-la-passation-electronique-des-marches-publics)** — Togo First, 26 October 2026
 
 Togo's procurement regulator ARCOP is recruiting four consultants to set up a national e-procurement system, Togo First reported on 26 October 2026. The posts are a functional analyst, a procurement specialist, a change-management expert and a systems administrator. Applications close on 18 November 2026; no go-live date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BioCQ CRT online proof-of-life for public-sector pensioners</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CRT : les retraités, le contrôle de vie désormais possible en ligne depuis les téléphones | Levisionnaire](https://levisionnaire.tg/crt-les-retraites-le-controle-de-vie-desormais-possible-en-ligne-depuis-les-telephones/)** — Le Visionnaire (Togo), 12 November 2026
+
+BioCQ CRT: ID upload and facial recognition by phone; launch and three-month enrolment from 16 Nov 2026.
 
 </div>
 
