@@ -3,9 +3,9 @@ title: Eswatini — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: SWZ
-ledger_rows: 36
+ledger_rows: 37
 not_held: 3
-record: ea0d07ec9b20
+record: 61e78fe95169
 ---
 
 # News, Oct – Nov 2026
@@ -200,6 +200,14 @@ Eswatini's ICT ministry said on 23 October 2026 that 13 government online servic
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Govt to set up 24/7 cybersecurity centre after attacks](https://eswatinipositivenews.online/govt-to-set-up-24-7-cybersecurity-centre-after-attacks/)** — Eswatini Positive News, 14 November 2026
+
+Eswatini's ICT ministry told Parliament it will set up a 24-hour security operations centre and separate recovery sites, reported on 14 November 2026. This follows a September 2026 incident at the National Data Centre that disrupted at least 12 government platforms. 75% of the affected services had been restored.
+
+</div>
+
 </div>
 
 ### Cybersecurity
@@ -269,6 +277,20 @@ Eswatini held its first national cyber drill on 5 October: a multi-sector ransom
 **[Eswatini's cybersecurity score quadruples](https://eswatinipositivenews.online/eswatinis-cybersecurity-score-quadruples/)** — Eswatini Positive News, 29 October 2026
 
 Eswatini's ICT minister told a cybersecurity conference in Sandton in October 2026 that parliament is considering ratification of the AU Malabo Convention. The minister cited a cybercrime law, a data protection law and an operational national CIRT. Eswatini's ITU Global Cybersecurity Index score rose from 18.23 to 79.43 in the 2024 edition.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government 24-hour Security Operations Centre</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Govt to set up 24/7 cybersecurity centre after attacks](https://eswatinipositivenews.online/govt-to-set-up-24-7-cybersecurity-centre-after-attacks/)** — Eswatini Positive News, 14 November 2026
+
+Summarised under [Data Storage](#data-storage).
 
 </div>
 
