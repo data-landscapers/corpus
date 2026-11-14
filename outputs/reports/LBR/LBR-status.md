@@ -1,12 +1,12 @@
 ---
 title: Liberia: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: LBR
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 234
+sources_cited: 236
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -295,7 +295,7 @@ The Ministry of Education [has moved from paper to a digital EMIS 2.0 and valida
 ### Innovation ecosystem
 <!-- tech.innovate -->
 
-[In September 2026 the telecoms regulator disclosed a memorandum with the youth and sports ministry to set up 15 digital hubs, one in each county](https://frontpageafricaonline.com/liberia-ayee-summit-opens-in-monrovia-elevate-liberia-program-launched/). [It has committed more than US$200,000 to the partnership](https://frontpageafricaonline.com/liberia-ayee-summit-opens-in-monrovia-elevate-liberia-program-launched/). [iLab Liberia and its iCampus, the DKS Incubation Center and Innovations Hub Liberia run training, incubation and civic-technology programmes](https://www.afrilabs.com/hub/dks-incubation-center/).
+[In September 2026 the telecoms regulator disclosed a memorandum with the youth and sports ministry to set up 15 digital hubs, one in each county](https://frontpageafricaonline.com/liberia-ayee-summit-opens-in-monrovia-elevate-liberia-program-launched/). [It has committed more than US$200,000 to the partnership](https://frontpageafricaonline.com/liberia-ayee-summit-opens-in-monrovia-elevate-liberia-program-launched/). [iLab Liberia and its iCampus, the DKS Incubation Center and Innovations Hub Liberia run training, incubation and civic-technology programmes](https://www.afrilabs.com/hub/dks-incubation-center/). [The Vice President opened a UniPod makerspace at the University of Liberia in July 2024](https://www.liberianobserver.com/digital-skills-crucial-for-liberia-s-future/article_37d0f1ea-48d2-11ef-b457-7b5bb65625db.html). [An operator opened a digital centre in Monrovia in October 2022, with a coding school, a FabLab and an accelerator](https://orange.africa-newsroom.com/press/orange-and-the-german-development-cooperation-inaugurate-in-liberia-the-11th-orange-digital-center-in-africa-and-the-middle-east-to-train-young-people-in-digital-technology-and-enhance-their-employability?lang=en).
 
 [Liberia is one of 117 economies left out of the WIPO Global Innovation Index 2024 for want of data](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-economy-profiles.html). [The index ranks 133 economies, so Liberia cannot be compared with its neighbours on any of its pillars](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-economy-profiles.html).
 
