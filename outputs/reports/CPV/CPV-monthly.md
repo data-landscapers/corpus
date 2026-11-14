@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: CPV
-ledger_rows: 14
+ledger_rows: 16
 not_held: 22
-record: 023a69083b11
+record: 875e16ad26f6
 ---
 
 # News, Oct – Nov 2026
@@ -72,6 +72,8 @@ Cabo Verde's interim President promulgated the third amendment to the decree-law
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -135,6 +137,22 @@ In an interview printed on 28 October 2026, outgoing CVTelecom chief executive J
 **[Fogo: Ilha sem serviço de telecomunicações e de internet desde a noite de terça-feira](https://www.inforpress.cv/en/article-12372)** — Inforpress (Cabo Verde), 11 November 2026
 
 Fogo island in Cabo Verde lost telephone and internet services overnight on 10 November 2026, Inforpress reported. A CVTelecom source blamed a fire at its São Vicente station, which also cut Brava and Santo Antão. Since March, Fogo has used a backup submarine cable after a fault on the Santiago–Fogo link, due for repair in late November.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Contingency plan for Microsoft-hosted state platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Falhas nos serviços da Microsoft afectaram plataformas de comunicação e gestão documental do Estado](https://www.inforpress.cv/pt/article-12413)** — Inforpress, 13 November 2026
+
+State identity system, e-mail and Office 365 down from 12 Nov 17:00; restored 13 Nov; contingency plan in drafting.
 
 </div>
 
@@ -227,6 +245,20 @@ Cabo Verde began applying the Simpol municipal information system in all 22 muni
 **[Country Profile on AI Governance: Cape Verde](https://www.aipolicy.africa/country-profiles/cabo-verde)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Cape Verde scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 38 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (1.70) and its weakest is Implementation and Impact (0.11).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI diagnostic (AILA)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabo Verde reúne condições para avançar na adopção da Inteligência Artificial – especialistas](https://www.inforpress.cv/en/article-12401)** — Inforpress, 12 November 2026
+
+UNDP-backed national AI diagnostic validated in Mindelo, 12–13 Nov 2026; gaps in skills, law and governance.
 
 </div>
 
