@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 217
+sources_cited: 219
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -317,7 +317,7 @@ The constraint the sector operates under is the shape of the wider economy. [Eco
 ### Innovation ecosystem
 <!-- tech.innovate -->
 
-A dedicated venture vehicle for Botswanan technology has launched: the [Botswana Tech Fund, anchored by Pula Investments and advised by Launch Africa Ventures, launched in April 2026 in partnership with the Botswana Innovation Hub for deal sourcing and portfolio support, with a first phase worth about a tenth of its total target](https://disruptafrica.com/2026/04/27/64m-botswana-tech-fund-to-support-tech-startups-across-southern-africa/). The institutional layer it plugs into is small. Alongside the [government-backed Botswana Innovation Hub, the science and technology park in Gaborone listed in the pan-African AfriLabs network, sits the Institute of Entrepreneurial Development's Business Incubator, which runs Venture Creation Labs including a women's co-working and incubation space (2025)](https://www.afrilabs.com/hub/botswana-innovation-hub/).
+A dedicated venture vehicle for Botswanan technology has launched: the [Botswana Tech Fund, anchored by Pula Investments and advised by Launch Africa Ventures, launched in April 2026 in partnership with the Botswana Innovation Hub for deal sourcing and portfolio support, with a first phase worth about a tenth of its total target](https://disruptafrica.com/2026/04/27/64m-botswana-tech-fund-to-support-tech-startups-across-southern-africa/). [In October 2026 it named its first accelerator cohort of seven startups, three of them from Botswana](https://www.bwtechzone.com/2026/10/botswana-tech-fund-announces-first.html). The institutional layer it plugs into is small. Alongside the [government-backed Botswana Innovation Hub, the science and technology park in Gaborone listed in the pan-African AfriLabs network, sits the Institute of Entrepreneurial Development's Business Incubator, which runs Venture Creation Labs including a women's co-working and incubation space (2025)](https://www.afrilabs.com/hub/botswana-innovation-hub/). [The hub's science and technology park was 43% occupied in March 2024](https://www.bih.co.bw/wp-content/uploads/2023/03/FINAL-BDIH-ANNUAL-REPORT-2023-2024-web.pdf).
 
 The regulator has opened a route of its own. The Bank of Botswana [began taking applications to its Regulatory Sandbox on 4 March 2026](https://www.bankofbotswana.bw/sites/default/files/press-release-files/Public%20Notice%20-%20Call%20for%20Applications%20for%20entry%20into%20the%20Bank%20of%20Botswana%20Regulatory%20Sandbox.pdf), inviting live testing of digital banking, inclusive payment and interoperability propositions.
 
