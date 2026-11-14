@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: ZMB
-ledger_rows: 29
+ledger_rows: 30
 not_held: 32
-record: 3bc21a25ad95
+record: d4e14159a79c
 ---
 
 # News, Oct – Nov 2026
@@ -313,6 +313,20 @@ Zambian Business Times reported on 26 October 2026 that 982 property records in 
 </div>
 
 ### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TaxOnline integrated tax administration system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZRA migrates historical tax records, calls for review](https://www.zambiamonitor.com/zra-migrates-historical-tax-records-calls-for-review/)** — Zambia Monitor, 8 October 2026
+
+Legacy tax-account history moved to TaxOnline 6 October 2026; duplicates removed, no new liabilities created.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
