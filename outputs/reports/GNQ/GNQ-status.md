@@ -1,12 +1,12 @@
 ---
 title: Equatorial Guinea: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: GNQ
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 17
-sources_cited: 235
+sources_cited: 236
 sections_written: 39
 not_established: 1
 acquire_lines: 23
@@ -196,7 +196,7 @@ In April 2025 [CNEDOGE's Director General told deputies that booklets and plates
 ### Registries
 <!-- dpi.registry -->
 
-[INSESO's social-security roll held 137,445 accumulated affiliates as at 31 December 2024](https://inege.org/wp-content/uploads/2025/11/GE-en-cifras-2025-Final.pdf), the one register at national scale. [A 2024 pensioner census found 2,282 entries untraceable, unresolved, deceased or fraudulent, saving roughly 4 billion FCFA](https://www.guineaecuatorialpress.com/noticias/el_delegado_nacional_del_inseso_comparece_ante_la_camara_de_los_diputados). [No continuously updated population register exists, and the last census was taken in 2015](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P1793391f4a4c800219f0014c68aefed3c8.pdf) (2024). [There is no social registry and no national social assistance programme, with spending around 0.1% of GDP](https://www.worldbank.org/en/country/equatorialguinea/publication/equatorial-guinea-country-economic-memorandum-2025-building-the-foundations-for-renewed-more-diversified-and-inclusive-growth) (2025). [The addressing guide filed with the Universal Postal Union in March 2023 carries no postcode field](https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gnqEn.pdf).
+[INSESO's social-security roll held 137,445 accumulated affiliates as at 31 December 2024](https://inege.org/wp-content/uploads/2025/11/GE-en-cifras-2025-Final.pdf), the one register at national scale. [A 2024 pensioner census found 2,282 entries untraceable, unresolved, deceased or fraudulent, saving roughly 4 billion FCFA](https://www.guineaecuatorialpress.com/noticias/el_delegado_nacional_del_inseso_comparece_ante_la_camara_de_los_diputados). [No continuously updated population register exists, and the last census was taken in 2015](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P1793391f4a4c800219f0014c68aefed3c8.pdf) (2024). [There is no social registry and no national social assistance programme, with spending around 0.1% of GDP](https://www.worldbank.org/en/country/equatorialguinea/publication/equatorial-guinea-country-economic-memorandum-2025-building-the-foundations-for-renewed-more-diversified-and-inclusive-growth) (2025). [Ley 5/2026, promulgated in April 2026, creates a Registro Único Social, to take effect six months after publication](https://faolex.fao.org/docs/pdf/eqg248009.pdf). [The addressing guide filed with the Universal Postal Union in March 2023 carries no postcode field](https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gnqEn.pdf).
 
 [SIREC entered service in December 2018 and converted 192,000 birth records covering 1980–2019](https://www.guineaecuatorialpress.com/noticias/discurso_de_la_representante_de_unicef_en_el_dia_del_ni%C3%B1o_africano_2021), all at the central registry. [It has not been extended nationwide for want of funding, and the seven regional offices still work on paper](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P1793391f4a4c800219f0014c68aefed3c8.pdf) (2024). In March 2025 [APP RC was issuing electronic certificates carrying QR codes](https://www.guineaecuatorialpress.com/noticias/audiencia_entre_martina_masugu_oyana_y_melanio_ebendeng_oyana). [Vital statistics are assembled separately, from hospital registers and community focal-point forms](https://inege.org/wp-content/uploads/2024/10/PUBLICACION-HECHOS-VITALES-1.pdf). [The second report recorded 14,667 births and 2,805 deaths in 2024, 64.6% of the deaths outside hospital](https://www.guineaecuatorialpress.com/noticias/presentacion_oficial_del_segundo_informe_de_hechos_vitales).
 

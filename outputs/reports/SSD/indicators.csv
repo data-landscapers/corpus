@@ -415,7 +415,9 @@ By September 2025 it had biometrically registered and paid 87,867 households, 61
 
 Nothing reads from it but the project that built it. No other programme, ministry or register is recorded drawing on the same data.
 
-2024-02 - [two EU-funded humanitarian cash consortia were testing a shared data-stewardship model for deduplication and referrals](2024-02-23-ssd-ccd-data-stewardship-workshop), outside the government registry.",SSD-dpi.registry-social-protection|SSD-dpi.exchange-humanitarian-data-stewardship,,,,,,,,,2026-08-31,0,Project registry registers and pays households; no link to ID or payment provider stated
+2024-02 - [two EU-funded humanitarian cash consortia were testing a shared data-stewardship model for deduplication and referrals](2024-02-23-ssd-ccd-data-stewardship-workshop), outside the government registry.
+
+2026-05 - [an IOM pilot of federated data sharing between humanitarian cash consortia found deduplication constrained by missing identity numbers, inconsistent names and little use of biometrics](2026-06-01-ssd-echo-cash-consortia-learning-event-lessons-from-south-sudan-and-yemen). It sits outside the government registry.",SSD-dpi.registry-social-protection|SSD-dpi.exchange-humanitarian-data-stewardship|SSD-dpi.exchange-ideha-pilot,,,,,,,,,2026-08-31,0,Project registry registers and pays households; no link to ID or payment provider stated
 dpi.id--authentication,Movement,Registration is being extended - [school-based](2026-08-04-school-based-national-id-registration-launched) and by [mobile kit](2026-04-25-mobile-registration-kits-deployed) - with no verification service on record.,"School-based national identity registration launched in August 2026 ([schools](2026-08-04-school-based-national-id-registration-launched)) and mobile registration kits were deployed from April 2026 ([kits](2026-04-25-mobile-registration-kits-deployed)).
 
 The immigration directorate's head set out a digital reform programme with a memorandum on an integrated registry ([reform](2026-08-11-immigration-chief-digital-reform-integrated-registry-mou)).
@@ -466,7 +468,9 @@ dpi.registry--social-protection-register,Movement,"[87,867 households, 615,069 p
 
 It had registered and paid 87,867 households across 15 counties by September 2025 ([scale](2025-09-18-cash-transfers-helping-women-south-sudan)).
 
-Fifteen counties of eighty. No plan to widen it into a national registry, and no other programme drawing on it, is recorded.",SSD-dpi.registry-social-protection,3,SSD-dpi.registry-social-protection,,,,,,,2026-08-31,0,Project-scoped registry of 87867 households; no universal social registry
+Fifteen counties of eighty. No other programme drawing on it is recorded.
+
+2024 - [a World Bank trust fund completed a diagnostic and implementation roadmap for a national social registry, and approved US$400,000 to pilot a prototype](2025-02-01-ssd-south-sudan-multi-donor-transition-trust-fund-mdttf-annual-progress-re). [A funding shortfall cut that grant to 60 per cent](2025-02-01-ssd-south-sudan-multi-donor-transition-trust-fund-mdttf-annual-progress-re), and no prototype has been found.",SSD-dpi.registry-social-protection|SSD-dpi.registry-national-social-registry,3,SSD-dpi.registry-social-protection,,,,,,,2026-08-31,0,Project-scoped registry of 87867 households; no universal social registry
 dpi.registry--electoral-register,Movement,An [election date of 22 December 2026](2026-06-22-south-sudan-sets-dec22-elections-registration) was set with registration to follow; [as at August it had not begun](2026-08-21-kiir-urges-nec-prepare-december-polls-registration-nears).,"The National Elections Act 2012 requires the Commission to prepare, revise, update, approve and maintain the General Electoral Register ([Act](2012-04-01-national-elections-act-2012-south-sudan)).
 
 The Commission announced 22 December 2026 as the election date and said a nationwide registration exercise, expected to take about a month, would follow ([date](2026-06-22-south-sudan-sets-dec22-elections-registration)). After assessment missions across all ten states and the three administrative areas, it said in August 2026 that registration was expected to begin soon ([status](2026-08-21-kiir-urges-nec-prepare-december-polls-registration-nears)).
