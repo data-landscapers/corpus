@@ -4,7 +4,7 @@ title: Bulletin
 subtitle: Last updated 12-11-2026 at 20:32 — Covering sources published on 13 November 2026
 window_start: 2026-11-13
 window_end: 2026-11-14
-items: 3
+items: 5
 collected_to: 2026-11-12 20:32
 compiled: 2026-11-12 21:20
 ---
@@ -16,6 +16,8 @@ compiled: 2026-11-12 21:20
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
 
@@ -23,7 +25,9 @@ compiled: 2026-11-12 21:20
 <label for="bulletin-place">Filter by country or region</label>
 <select id="bulletin-place">
 <option value="">All countries and regions</option>
+<option value="COD">DRC</option>
 <option value="NGA">Nigeria</option>
+<option value="SOM">Somalia</option>
 <option value="UGA">Uganda</option>
 </select>
 <span class="bulletin-filter__count" aria-live="polite"></span>
@@ -58,6 +62,28 @@ Nigeria's communications regulator lists subscribers for each internet service p
 **[Ground Segment](https://ncc.gov.ng/ground-segment)** — Nigerian Communications Commission, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Nigeria's communications regulator lists the licensed ground segment operators for satellite services. Starlink Internet Services Nigeria holds 19 gateway earth station licences, each effective from July 2022. Capacity from OneWeb, Yahsat, Avanti and Rascom is also listed. The latest entry is effective 2 September 2026.
+
+</div>
+
+## DPI
+
+### Sectoral management information systems
+
+<div class="bulletin-item" data-places="SOM" markdown="1">
+
+**[Feisal Mohamed Hashi: The Vision Behind Somalia's Revenue Reforms](https://www.hiiraan.com/op4/2026/Nov/206761/feisal_mohamed_hashi_the_vision_behind_somalias_revenue_reforms.aspx)** — Hiiraan Online, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
+
+Somalia's Council of Ministers appointed Feisal Mohamed Hashi on 12 November 2026 as Director General of the new Somali Revenue Authority, Hiiraan Online reported. He had been Director General of Revenue at the Ministry of Finance since May 2023. The article is a profile of his career.
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="bulletin-item" data-places="COD" markdown="1">
+
+**[i-impôts DGI RDC : déclarer et payer ses impôts en ligne (guide 2026)](https://lepoint.cd/i-impots-dgi-rdc-declarer-payer-impots-en-ligne/)** — Le Point (lepoint.cd), 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
+
+Le Point (lepoint.cd) published a guide on 13 November 2026 to i-impôts, the DR Congo's online tax filing platform. Companies use it to file and pay VAT, payroll tax and corporate tax. On 11 November its sign-up page for individuals was still under development.
 
 </div>
 
