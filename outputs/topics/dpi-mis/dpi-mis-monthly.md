@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.mis
 places: AGO; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 41f20fc75bb6
+record: 5ceda48dfe27
 ---
 
 # News, Oct – Nov 2026
@@ -1536,6 +1536,20 @@ Uganda's Judiciary is reconciling physical case files with its existing case adm
 </div>
 
 ## Zambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TaxOnline integrated tax administration system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZRA migrates historical tax records, calls for review](https://www.zambiamonitor.com/zra-migrates-historical-tax-records-calls-for-review/)** — Zambia Monitor, 8 October 2026
+
+The Zambia Revenue Authority said it had finished moving historical tax records from retired legacy systems into its TaxOnline platform on 6 October 2026. It asked taxpayers to check their account statements and report any discrepancy with supporting documents. The authority said the migration creates no new tax liability.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

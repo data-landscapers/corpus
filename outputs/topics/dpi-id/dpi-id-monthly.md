@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: c0fa71fed500
+record: 0067a1748f84
 ---
 
 # News, Oct – Nov 2026
@@ -1345,6 +1345,14 @@ Tunisia's Sahloul university hospital in Sousse had unified 180,000 patient reco
 **[More than 3mn tax records await NIN match before login switch](https://ugbusiness.com/2026/10/economy/more-than-3m-tax-records-await-nin-match-before-login-switch)** — Uganda Business News, 17 October 2026
 
 Uganda Revenue Authority had linked 2.13 million of its 5.41 million individual taxpayer records to National Identification Numbers by 30 September 2026, leaving about 3.27 million unmatched, the finance ministry told Parliament. Taxpayers with linked records are due to log in with their NIN from 1 January 2027, and no end date has been set for TIN logins.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[NIN is TIN](https://ura.go.ug/en/nin-is-tin/)** — Uganda Revenue Authority, 10 November 2026
+
+The Uganda Revenue Authority explains that the National Identification Number now serves as the Tax Identification Number for individual taxpayers. Cabinet approved the change on 31 August 2026, following an amendment to the Tax Procedures Code Act in 2025/26. The authority says separate identifiers had left duplicate and fragmented taxpayer records.
 
 </div>
 

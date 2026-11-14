@@ -3,8 +3,8 @@ title: Innovation ecosystem — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: tech.innovate
-places: DZA; BEN; BFA; CIV; COD; SWZ; MWI; MAR; NAM; NGA; SLE; ZAF; TZA; TUN; ZWE
-record: eee71634728b
+places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TUN; ZWE
+record: 682d0c3ede9d
 ---
 
 # News, Oct – Nov 2026
@@ -12,17 +12,33 @@ record: eee71634728b
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#algeria">Algeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#burundi">Burundi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#central-african-republic">Central African Republic</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ghana">Ghana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#kenya">Kenya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#malawi">Malawi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritania">Mauritania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -30,9 +46,13 @@ record: eee71634728b
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-sudan">South Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -57,6 +77,22 @@ Algeria has reached a preliminary agreement with Roblox on a programme to train 
 
 </div>
 
+## Angola
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Space-sector Softlanding Programme with Airbus</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MINTTICS, através do GGPEN, e Airbus lançam programa de incubação para impulsionar startups angolanas do sector espacial](http://www.ggpen.gov.ao/news/ggpen-e-airbus-lancam-programa-de-incubacao-para-impulsionar-startups-angolanas-do-sector-espacial)** — GGPEN, 14 October 2026
+
+Angola's telecommunications ministry, through its space programme office GGPEN, launched an incubation programme with Airbus for Angolan space-sector startups in October 2026. Five startups chosen at ANGOTIC 2026 will spend three months at an accelerator in Toulouse, France. They will receive mentoring, training and contact with European investors and laboratories.
+
+</div>
+
+</div>
+
 ## Benin
 
 <div class="monthly-story" markdown="1">
@@ -73,6 +109,21 @@ Benin's 2027 finance bill would count the tax exemption of labelled startups fro
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Entrepreneurship support organisations counted</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin Plans Digital Fabrication Hubs to Boost Local Innovation](https://www.ecofinagency.com/news-digital/0511-60528-benin-plans-digital-fabrication-hubs-to-boost-local-innovation)** — Ecofin Agency, 5 November 2026
+
+Benin's Council of Ministers approved on 4 November 2026 a pilot to build two digital fabrication hubs, called Innobox, in Parakou and Porto-Novo. The hubs will offer equipment for prototyping, robotics and artificial intelligence work. The government plans to extend them to other municipalities after assessing the pilot.
+
+</div>
+
+</div>
+
 ## Burkina Faso
 
 <div class="monthly-story" markdown="1">
@@ -84,6 +135,38 @@ Benin's 2027 finance bill would count the tax exemption of labelled startups fro
 **[Le Faso Digital 2026 : 201 solutions innovantes pour bâtir la souveraineté et l’inclusion numérique au Burkina Faso](https://digitalmagazine.bf/2026/10/18/le-faso-digital-2026-201-solutions-innovantes-pour-batir-la-souverainete-et-linclusion-numerique-au-burkina-faso/)** — Digital Magazine BF, 18 October 2026
 
 Burkina Faso's virtual Faso Digital 2026 fair opened on 17 October 2026 with 201 solutions, selected from 208 entries in its innovation competition. Rwanda is guest of honour, according to Digital Magazine BF.
+
+</div>
+
+</div>
+
+## Burundi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICANZO TECH incubation programme, KIT Digital Innovation Hub</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Turning Entrepreneurial Potential into Lasting Impact.](https://www.linkedin.com/posts/kit-digital-innovation-hub_icanzotech-kithub-sharktankburundi-activity-7525403169837883392-1SXg)** — KIT- Digital Innovation HUB, 9 November 2026
+
+KIT Digital Innovation Hub in Burundi said 13 startups from Shark Tank Burundi have entered incubation under its ICANZO TECH programme, supported by LM International. The startups work in fintech, agritech, health and other sectors. The hub has visited and interviewed them to assess their needs before training and follow-up.
+
+</div>
+
+</div>
+
+## Central African Republic
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">FAFECA digital incubator for women entrepreneurs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La FAFECA inaugure son incubateur numérique à Bangui en présence du ministre NGATE-ROBARD](https://www.fafeca.org/actualites/la-fafeca-inaugure-son-incubateur-numerique-a-bangui-en-presence-du-ministre-ngate-robard)** — FAFECA, 31 October 2026
+
+The Federation of Women Entrepreneurs' Associations of the Central African Republic opened a digital incubator in Bangui on 30 October 2026. The minister for small and medium enterprises attended. The European Union and the French development agency AFD fund the centre, which trains women entrepreneurs in digital tools.
 
 </div>
 
@@ -191,6 +274,22 @@ DR Congo's digital transformation project unit, UG PTN, is recruiting a body to 
 
 </div>
 
+## Egypt
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Creativa incubation programme (ITIDA)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«كرياتيفا» تطلق الدورة الخامسة لاحتضان الشركات الناشئة بتمويل 10.8 مليون جنيه](https://www.masrtimes.com/775446)** — Masr Times, 9 November 2026
+
+Egypt's information technology development agency ITIDA launched the fifth round of its Creativa incubation programme with total funding of EGP 10.8 million. Each pre-seed startup can receive up to EGP 360,000 over one year, half in cash and half as training, mentoring and advice. The programme covers sectors including education technology, renewable energy, agritech and health.
+
+</div>
+
+</div>
+
 ## Eswatini
 
 <div class="monthly-story" markdown="1">
@@ -207,6 +306,38 @@ The University of Eswatini is building a E15 million innovation pod at its libra
 
 </div>
 
+## Ghana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kosmos Innovation Center AgriTech Challenge</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana Awards $100,000 to Ten Agritech Startups to Expand Agricultural Businesses](https://www.businesstechafrica.co.za/article/ghana-awards-100-000-to-ten-agritech-startups-to-expand-agricultural-businesses)** — Business Tech Africa, 9 November 2026
+
+The Kosmos Innovation Center and the Mastercard Foundation awarded a combined US$100,000 in seed funding to ten Ghanaian agribusinesses in the 2026 AgriTech Challenge Pro. The winners were chosen from 15 finalists at a pitching event on 29 October 2026. They now enter the centre's incubation programme.
+
+</div>
+
+</div>
+
+## Kenya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Active business incubators</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mapping business incubating organisations in Kenya as central elements of the entrepreneurial ecosystem](https://publications.hnu.de/7180/1/HNU_Working_Paper_BayerThomas-261018.pdf)** — Hochschule Neu-Ulm (HNU Working Paper Nr. 62), 1 October 2026
+
+A working paper from Neu-Ulm University of Applied Sciences, dated October 2026, lists 169 active business incubating organisations in Kenya. It sorts them into six categories and gives each one's founding year, services, location by county, leadership and contact details. The survey draws on secondary research.
+
+</div>
+
+</div>
+
 ## Malawi
 
 <div class="monthly-story" markdown="1">
@@ -218,6 +349,38 @@ The University of Eswatini is building a E15 million innovation pod at its libra
 **[Payment hurdles ease for businesses](https://malawi24.com/2026/10/17/payment-hurdles-ease-for-businesses/)** — Malawi24, 17 October 2026
 
 The Reserve Bank of Malawi issued fintech PayChangu payment service provider licence PSP-003/26 on 30 September 2026 under the Payment Systems Act 2016. It allows the firm to aggregate mobile money, card and bank-transfer payments on one platform.
+
+</div>
+
+</div>
+
+## Mauritania
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Hadina RIMTIC technology incubator</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lancement du programme d'accompagnement des startups numériques](https://fr.linkedin.com/posts/giz-mauritanie_digital-gizmauritanie-coop%C3%A9rationallemande-activity-7516856753385316352-bRNN)** — GIZ Mauritanie, 16 October 2026
+
+GIZ's Digital-Y project in Mauritania launched a support programme for nine digital startups, run by the incubator Hadina RIMTIC from October 2026. The startups were chosen through a call for applications with the digital ministry, and include the three winners of July's Gouvathon. They will build digital services for government bodies.
+
+</div>
+
+</div>
+
+## Mauritius
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">La Turbine incubator</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Turbine Innovation Challenge 2026: Seven Start-ups Present Their Solutions](https://platformafrica.com/2026/11/04/la-turbine-innovation-challenge-2026-seven-start-ups-present-their-solutions/)** — Platform Africa, 4 November 2026
+
+La Turbine, the incubator of ER Group in Mauritius, ran its 2026 Innovation Challenge on artificial intelligence and sustainable innovation from 17 September. Seven startups were to pitch to a jury at a final event on 12 November 2026. The two-month programme gave them mentoring and support.
 
 </div>
 
@@ -285,6 +448,22 @@ Nigeria's First Lady, Oluremi Tinubu, laid the foundation stone of the Renewed H
 
 </div>
 
+## Senegal
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AIMS Jëmmal Incubator</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AIMS Jëmmal Incubator : la première cohorte franchit la ligne d'arrivée](https://aims-senegal.org/aims-jemmal-incubator-la-premiere-cohorte-franchit-la-ligne-darrivee/)** — AIMS Sénégal, 1 November 2026
+
+The AIMS Jëmmal Incubator at the AIMS campus in Dakar closed its first cohort on 30 October 2026. Thirteen startups from seven sectors, including agritech, health, education and finance, took their projects from idea to prototype between March and September. The cohort ended with a demo day for the public and partners.
+
+</div>
+
+</div>
+
 ## Sierra Leone
 
 <div class="monthly-story" markdown="1">
@@ -312,6 +491,36 @@ A FinTech Innovation Lab has been set up at Sierra Leone's University Innovation
 **[Introducing Our 2026 Cohort for the Google for Startups Accelerator: South Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/introducing-our-2026-cohort-for-the-google-for-startups-accelerator-south-africa/)** — Google, 5 October 2026
 
 Google named 15 South African-led, revenue-generating AI startups to its 2026 Google for Startups Accelerator: South Africa on 5 October 2026, chosen from 1,057 applications. Each gets up to R1 million in equity-free funding, access to Google's AI models and cloud, and mentorship over three months ending in a December Demo Day.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Le Shift Lab incubator (French embassy and Wits Tshimologong)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Shift Lab welcomes 14 start-ups to its incubation cohort](https://frenchinstitute.org.za/science-and-innovation/innovation/le-shift-lab-welcomes-14-start-ups-to-its-incubation-cohort/)** — French Institute of South Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
+
+Le Shift Lab, an incubator set up by the French embassy with Wits University's Tshimologong precinct, selected 14 entrepreneurs from South Africa and Malawi for its first cohort. The startups work in green technology and digital innovation, including renewable energy, farming, water and electric transport. Participants receive mentoring, workshops and links to South African and French networks.
+
+</div>
+
+</div>
+
+## South Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Business incubation and startup financing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Welcoming First Cohort to Drive Agribusiness Growth](https://ifdc.org/2026/10/19/grebi-welcomes-first-cohort-to-drive-green-and-resilient-agribusiness-growth/)** — IFDC, 19 October 2026
+
+The Green and Resilient Economy Business Incubator in South Sudan, led by IFDC, took in its first cohort on 30 September 2026. The 22 small businesses come from Juba and Terekeka. The nine-month programme offers training, coaching and help with finance and market access. Many of the firms are led by women and young people.
 
 </div>
 
@@ -387,6 +596,20 @@ The EU-funded hub marked its fifth anniversary on 23 October 2026. It reported s
 </div>
 
 ## Zimbabwe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Value Creation Challenge (Eight2Five)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Q3 2026 NEWSLETTER](https://eight2five.africa/wp-content/uploads/2026/10/Q3-2026-NEWSLETTER-1.pdf)** — Eight2Five Innovation Hub, 1 October 2026
+
+The Eight2Five Innovation Hub in Zimbabwe published its newsletter for the third quarter of 2026. It reports that 14 startups completed the sixth round of its VCC programme, won overall by the payments startup NardoPay. It also profiles five Zimbabwean startups and sets out a guide for founders on interviewing customers.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

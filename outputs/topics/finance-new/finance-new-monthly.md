@@ -3,8 +3,8 @@ title: New investments — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: finance.new
-places: DZA; AGO; BEN; CIV; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
-record: e4c5d77d1372
+places: DZA; AGO; BEN; BWA; CIV; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
+record: 120bf7cd7803
 ---
 
 # News, Oct – Nov 2026
@@ -15,6 +15,8 @@ record: e4c5d77d1372
 <a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -130,6 +132,22 @@ La Marina BJ reported on 6 November 2026 that Benin's PReM-Benin programme attac
 **[TERRA BÉNIN et PPMEC II pour accélérer la sécurisation foncière](https://fraternite.bj/terra-benin-et-ppmec-ii-pour-accelerer-la-securisation-fonciere/)** — Fraternite, 7 November 2026
 
 Benin's land agency ANDF launched the TERRA BÉNIN and PPMEC II programmes in Cotonou on 6 November 2026, Fraternité reported. They extend the national cadastre, which holds 643,993 registered parcels in 12 communes. TERRA BÉNIN's first phase (2025-2030) has USD 100 million from the World Bank and targets 1.5 million parcels in 14 communes. PPMEC II (2026-2031) has EUR 20 million from the Netherlands. It covers six more communes and the e-Foncier Bénin platform.
+
+</div>
+
+</div>
+
+## Botswana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Botswana Tech Fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Botswana Tech Fund Announces First Cohort of Accelerator Program](https://www.bwtechzone.com/2026/10/botswana-tech-fund-announces-first.html)** — BW TechZone, 7 October 2026
+
+The Botswana Tech Fund named seven startups for the first cohort of its accelerator in October 2026: three from Botswana and one each from Namibia, Zambia, South Africa and Zimbabwe. Each startup can receive up to £100,000, with £25,000 on entry and £75,000 on meeting agreed targets. The three-month programme runs partly in Gaborone and partly online.
 
 </div>
 

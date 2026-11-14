@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MLI; MRT; MUS; MAR; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 87f760678553
+record: bf732e352b20
 ---
 
 # News, Oct – Nov 2026
@@ -194,6 +194,20 @@ Benin's national identification agency says 98% of the population is enrolled. I
 **[Burkina Faso : Plus de 433 000 ménages recensés dans le Registre social unique](https://aesinsider.com/burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social-unique/)** — AES Insider, 27 October 2026
 
 AES Insider reported that Burkina Faso's social registry committee met on 27 October 2026 in Ouagadougou. The family and solidarity minister, Pélagie Kaboré, said the registry held 433,888 households at 30 June 2026, over 2 million people in 110 communes. She put this at 30% of the target and called for faster expansion and links to other systems.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online business creation requests</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CEFORE : Préparer votre création d'entreprise](https://creerentreprise.me.bf/)** — Maison de l'Entreprise du Burkina Faso (CEFORE), 13 November 2026
+
+Burkina Faso's business registration centre CEFORE runs an online guide to starting a business. It asks founders to check that a trade name is available and then prepare their documents. It sets out the choice between a sole proprietorship and a company such as a SARL, SA or SAS.
 
 </div>
 
@@ -428,6 +442,20 @@ Ethiopia's Minister of Innovation and Technology told the Space Science and Geos
 **[État civil : le Gabon face au défi de la modernisation](https://www.gabonreview.com/etat-civil-le-gabon-face-au-defi-de-la-modernisation/)** — GabonReview, 9 October 2026
 
 The workshop preparing Gabon's national civil-registration conferences closed with a diagnosis of badly kept archives, irregular data entry and a Civil Code dating from 1972. Its final report goes to the Interior minister, who sets the calendar.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Taxpayer registration and the register's extension</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DGI : 2ème phase de la campagne de recensement et de régularisation des contribuables](https://gabonmediatime.com/dgi-2eme-phase-de-la-campagne-de-recensement-et-de-regularisation-des-contribuables/)** — Gabonmediatime, 18 October 2026
+
+Gabon's tax directorate began the second phase of its taxpayer census and regularisation campaign in Akanda in October 2026. Over about 45 days, 18 teams on three sites will go door to door to identify and register taxpayers, with a focus on the informal sector. New taxpayers are to be entered on the Digitax platform.
 
 </div>
 

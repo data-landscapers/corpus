@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 3a6a7c9f3ff4
+record: 719711f10e60
 ---
 
 # News, Oct – Nov 2026
@@ -988,6 +988,20 @@ South Africa's regulator ICASA published a Discussion Document on 30 October 202
 **[هيئة التحول الرقمي تعقد الاجتماعين الأولين لمجلسَي التحول الرقمي الاتحادي والولائي](https://www.linkedin.com/feed/update/urn:li:activity:7516127823003197440)** — هيئة التحول الرقمي, 14 October 2026
 
 Sudan's Digital Transformation Authority held its first federal council meeting on 13 October 2026 and its first state council on 14 October. Both reviewed eight principles for digital government, including digital first and once-only data. Agencies are to exchange data over the Baladna national platform.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UNDP Private Sector Engagement Strategy 2026-2028</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Private Sector Engagement Strategy Sudan](https://www.undp.org/sites/g/files/zskgke326/files/2026-11/undp_private_sector_report.pdf)** — UNDP, 1 November 2026
+
+UNDP published a private sector engagement strategy for Sudan covering 2026 to 2028. It treats small businesses, farmers, traders and diaspora-linked firms as central to recovery from the conflict that began in April 2023. Its entry points are access to finance, renewable energy for productive use, skills training, joint public and private action, and diaspora investment.
 
 </div>
 
