@@ -3,9 +3,9 @@ title: Burundi — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: BDI
-ledger_rows: 23
+ledger_rows: 24
 not_held: 10
-record: c2ca9928ca72
+record: bd741178fe5b
 ---
 
 # News, Oct – Nov 2026
@@ -334,6 +334,8 @@ Butihinda commune in Burundi held a practical session on 24 and 25 October 2026 
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -361,6 +363,22 @@ Burundi scored 0.70 out of 4 on the Africa AI Governance Index 2026, in the Nasc
 **[Country Profile on AI Governance: Burundi](https://www.aipolicy.africa/country-profiles/burundi)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Summarised under [AI](#ai).
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICANZO TECH incubation programme, KIT Digital Innovation Hub</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Turning Entrepreneurial Potential into Lasting Impact.](https://www.linkedin.com/posts/kit-digital-innovation-hub_icanzotech-kithub-sharktankburundi-activity-7525403169837883392-1SXg)** — KIT- Digital Innovation HUB, 9 November 2026
+
+KIT hub's ICANZO TECH programme takes 13 Shark Tank Burundi startups into incubation, backed by LM International.
 
 </div>
 
