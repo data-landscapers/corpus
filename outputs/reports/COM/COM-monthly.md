@@ -3,9 +3,9 @@ title: Comoros — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: COM
-ledger_rows: 11
+ledger_rows: 12
 not_held: 22
-record: 8fc2ce389b01
+record: 8a3c13baaca5
 ---
 
 # News, Oct – Nov 2026
@@ -100,6 +100,8 @@ On 29 October 2026 the Comoros standards and metrology office held a validation 
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 </nav>
 
 ### Digital Identity and CRVS
@@ -157,6 +159,22 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Le Gouvernement comorien et la Banque mondiale renforcent leur partenariat autour du Projet Mayendeleyo](https://pfss-comores.org/articles/le-gouvernement-comorien-et-la-banque-mondiale-renforcent-leur-partenariat-autour-du-projet-mayendeleyo)** — PFSS-RRC, 9 November 2026
 
 On 9 November 2026 the Comorian health and social protection minister met a World Bank delegation in Moroni. The single social registry now lists 81,075 households in 152 of 319 localities. An additional US$11 million for the Mayendeleyo project raises the cash transfer target from 40,010 to 55,000 households.
+
+</div>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SYDONIA electronic manifest</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DOUANES – SYNACO : vers un partenariat renforcé au service du commerce comorien](http://douane.gov.km/douane-comorienne/actualites/article.php?slug=douanes-synaco-vers-un-partenariat-renforce-au-service-du-commerce-comorien)** — Direction Générale des Douanes, Union des Comores, 13 November 2026
+
+Five customs pledges to traders: SYDONIA e-manifest, home clearance, risk-based targeting, monthly consultation.
 
 </div>
 
