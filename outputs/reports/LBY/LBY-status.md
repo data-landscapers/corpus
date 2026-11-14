@@ -6,7 +6,7 @@ region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 220
+sources_cited: 221
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -269,7 +269,7 @@ In June 2025 [the Libyan biometrics firm Al Itissan Al-Jadeed won a contract to 
 ### Innovation ecosystem
 <!-- tech.innovate -->
 
-[Tatweer Research in Benghazi, an AfriLabs member hub, runs the Enjazi competition, the Benghazi Hackathon and the TEC incubator](https://www.afrilabs.com/hub/tatweer-research/) (2025). [In 2025 the local government ministry, the EU and UNDP set up the first municipality-led business incubator in Tripoli](https://www.undp.org/libya/press-releases/molg-eu-and-undp-establish-first-ever-municipality-led-business-incubator-heart-tripoli). [In 2025 there was no visible venture capital activity](https://www.startupblink.com/startup-ecosystem/libya). [In January 2025 the prime minister launched a state fund to support and guarantee financing for innovative start-ups](https://libyaobserver.ly/news/libya-launches-groundbreaking-entrepreneurship-fund). [A February 2025 regulation defines a start-up as under ten years from registration and extends investment-law exemptions to start-ups](https://lawsociety.ly/legislation/%D9%82%D8%B1%D8%A7%D8%B1-%D8%B1%D9%82%D9%85-81-%D9%84%D8%B3%D9%86%D8%A9-2025-%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D9%84%D8%A7%D8%A6%D8%AD%D8%A9-%D8%AA%D9%86%D8%B8/). No investment by the fund has been found.
+[Tatweer Research in Benghazi, an AfriLabs member hub, runs the Enjazi competition, the Benghazi Hackathon and the TEC incubator](https://www.afrilabs.com/hub/tatweer-research/) (2025). [In 2025 the local government ministry, the EU and UNDP set up the first municipality-led business incubator in Tripoli](https://www.undp.org/libya/press-releases/molg-eu-and-undp-establish-first-ever-municipality-led-business-incubator-heart-tripoli). [In August 2024 the EU-funded Asarya incubator in Benghazi awarded ten start-ups EUR 100,000 in seed funding](https://spark.ngo/ten-startups-win-a-total-of-100000-euros-in-seed-funding-at-asarya-startup-competition/). [In 2025 there was no visible venture capital activity](https://www.startupblink.com/startup-ecosystem/libya). [In January 2025 the prime minister launched a state fund to support and guarantee financing for innovative start-ups](https://libyaobserver.ly/news/libya-launches-groundbreaking-entrepreneurship-fund). [A February 2025 regulation defines a start-up as under ten years from registration and extends investment-law exemptions to start-ups](https://lawsociety.ly/legislation/%D9%82%D8%B1%D8%A7%D8%B1-%D8%B1%D9%82%D9%85-81-%D9%84%D8%B3%D9%86%D8%A9-2025-%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D9%84%D8%A7%D8%A6%D8%AD%D8%A9-%D8%AA%D9%86%D8%B8/). No investment by the fund has been found.
 
 [In 2025 Libya had no national strategy on disruptive technologies](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Its public-sector innovation function existed on paper, with nothing published on its results](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Libya is absent from WIPO's 2024 Global Innovation Index, which profiles 133 economies](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-economy-profiles.html).
 
