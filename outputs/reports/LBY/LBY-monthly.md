@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: LBY
-ledger_rows: 24
+ledger_rows: 26
 not_held: 3
-record: f64666c70eb5
+record: d552b8b21e44
 ---
 
 # News, Oct – Nov 2026
@@ -207,6 +207,8 @@ Libya's Government of National Unity ordered the immediate temporary shutdown an
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -267,6 +269,44 @@ Libya's central bank said electronic transactions reached about 865 billion dina
 **[Wahda Bank picks Backbase for digital banking](https://www.thepaypers.com/fintech/news/wahda-bank-selects-backbase-for-digital-banking-platform-in-libya)** — The Paypers, 5 November 2026
 
 Libya's Wahda Bank selected Backbase to build its digital banking platform, reported on 5 November 2026. Business banking goes live first in 2027, with online account opening by electronic identity verification. Retail banking for more than 500,000 customers follows, with links to the LYPay and OnePay instant payment systems.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Commercial agencies online inquiry system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministry of Economy & Trade launches e-system for inquiring about commercial agencies and legislation governing them](https://libyaherald.com/2026/11/ministry-of-economy-trade-launches-e-system-for-inquiring-about-commercial-agencies-and-legislation-governing-them)** — Libya Herald, 12 November 2026
+
+Search by brand, principal or registration number; governing laws downloadable; phase two to digitise applications.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزارة الاقتصاد تطلق منظومة إلكترونية للاستعلام عن الوكالات التجارية والتشريعات المنظمة لها](https://lana.gov.ly/post.php?id=369904&lang=ar)** — Libyan News Agency (LANA), 12 November 2026
+
+First phase: search by trademark, principal or registration number, download rules; online applications in phase two.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic registration of foreign company branches</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[إطلاق تجريبي لتسجيل الشركات الأجنبية في ليبيا إلكترونيًا](https://www.alwasat.ly/news/485008)** — Al Wasat, 14 November 2026
+
+Libya's Ministry of Economy and Trade announced on 14 November 2026 a pilot of online registration for branches of foreign companies. The seven-stage process was built by the Economic Information and Documentation Centre. It covers 11 economic sectors, with licences of up to five years.
 
 </div>
 
