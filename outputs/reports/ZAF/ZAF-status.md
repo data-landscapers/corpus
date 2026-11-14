@@ -1,12 +1,12 @@
 ---
 title: South Africa: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 369
+sources_cited: 371
 sections_written: 39
 not_established: 1
 acquire_lines: 49
@@ -306,7 +306,7 @@ In July 2026 a Cape Town biometrics vendor was [moving from one-off remote onboa
 
 [South Africa led the continent in both equity funding and equity deal count in 2025 for the first time since 2017, on sustained deal flow across stages rather than a handful of outsized rounds, with a single megadeal accounting for 15% of its funding](https://partechpartners.com/news/2025-partech-africa-tech-vc-report-african-tech-funding-rebounds-to-us41b-driven-by-record-debt-activity-and-disciplined-equity-growth). Against that, it ranked [69th of 133 economies on the WIPO Global Innovation Index 2024](https://www.wipo.int/edocs/gii-ranking/2024/za.pdf) — money is reaching companies faster than the wider system converts research into output.
 
-Inside the state the machinery exists but its output does not surface: [a public-sector innovation strategy or programme is recorded and a dedicated innovation lab established](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), while [the results of that work are held internally rather than published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), which leaves nothing for another department to reuse. The private hub network runs across the main centres, with [member hubs in Johannesburg, Cape Town, Durban and Stellenbosch](https://www.afrilabs.com/hub_country/south-africa/) (2025). Absorption by the largest institutions is slower than the funding suggests: the Reserve Bank's distributed-ledger work [remains confined to two experiments that never moved into production](https://www.bis.org/review/r260616a.htm).
+Inside the state the machinery exists but its output does not surface: [a public-sector innovation strategy or programme is recorded and a dedicated innovation lab established](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), while [the results of that work are held internally rather than published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), which leaves nothing for another department to reuse. The private hub network runs across the main centres, with [member hubs in Johannesburg, Cape Town, Durban and Stellenbosch](https://www.afrilabs.com/hub_country/south-africa/) (2025). [In June 2025 Gauteng's innovation agency broke ground on an R83.1 million public-private building at The Innovation Hub in Pretoria](https://www.theinnovationhub.com/index.php/2025/06/02/gauteng-to-break-ground-on-r83-1-million-innovation-hub-expansion-via-public-private-partnership/). [In November 2026 a French embassy incubator run with Wits University's Tshimologong precinct took 14 start-ups into its first cohort](https://frenchinstitute.org.za/science-and-innovation/innovation/le-shift-lab-welcomes-14-start-ups-to-its-incubation-cohort/). Absorption by the largest institutions is slower than the funding suggests: the Reserve Bank's distributed-ledger work [remains confined to two experiments that never moved into production](https://www.bis.org/review/r260616a.htm).
 
 ## Capacity
 
