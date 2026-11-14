@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: MAR
 ledger_rows: 28
 not_held: 13
-record: 8986dedc0155
+record: 5bccf0601d56
 ---
 
 # News, Oct – Nov 2026
@@ -536,7 +536,7 @@ Ahmed Rahhou is Morocco's Minister of AI, Digital Transition and Administrative 
 
 **[How Morocco Unlocked Private Capital for Startups](https://www.worldbank.org/en/news/feature/2026/10/12/how-morocco-unlocked-private-capital-for-startups)** — World Bank, 12 October 2026
 
-US$50m InnovInvest mobilised US$70m private capital, four VC funds, 16 accredited incubators, 4,000 jobs.
+The World Bank said on 12 October 2026 that its US$50 million InnovInvest financing drew over US$70 million in private capital, 2.4 times the target. The programme set up four venture capital funds and supported nearly 1,000 entrepreneurs. It also created more than 4,000 jobs.
 
 </div>
 

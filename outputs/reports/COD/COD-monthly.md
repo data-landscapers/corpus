@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: COD
 ledger_rows: 50
 not_held: 6
-record: 5fa3722f6716
+record: 150247e02d7e
 ---
 
 # News, Oct – Nov 2026
@@ -764,7 +764,7 @@ The DRC's digital economy minister visited the Skolkovo innovation centre near M
 
 **[Loi sur les Startup : 4 ans après la promulgation, la RDC attend toujours un dispositif de labellisation opérationnel](https://doseco.cd/2026/11/07/loi-sur-les-startup-4-ans-apres-la-promulgation-la-rdc-attend-toujours-un-dispositif-de-labellisation-operationnel/)** — DosEco, 7 November 2026
 
-Labelling committee, created by decree of 5 June 2026, first meets 4 November 2026 with no budget or secretariat.
+The Democratic Republic of the Congo's startup labelling committee, created by decree on 5 June 2026, met for the first time on 4 November 2026 in Kinshasa. It has no technical secretariat, budget or bureau. The entrepreneurship secretariat will seek a line in the 2027 finance bill. The Startup Act dates from 8 September 2022.
 
 </div>
 

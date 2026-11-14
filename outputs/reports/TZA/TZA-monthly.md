@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: TZA
 ledger_rows: 47
 not_held: 4
-record: adcf67575f9a
+record: 103b738dd39f
 ---
 
 # News, Oct – Nov 2026
@@ -704,7 +704,7 @@ Tanzania's ICT minister, Angellah Kairuki, launched a TZS 5bn loan programme for
 
 **[Serikali yaziita 'startups' kuchangamkia mkopo wa Sh5 bilioni](https://nukta.co.tz/serikali-yaziita-startups-kuchangamkia-mkopo-wa-sh5-bilioni)** — Nukta Habari, 15 October 2026
 
-Startups Wezesha Fund loans: TZS 5bn released of TZS 200bn youth pledge; applications to 30 May 2027.
+On 15 October 2026 Tanzania's communications ministry and the ICT Commission opened applications for concessional loans under the Startups Wezesha Fund. TZS 5 billion has been released so far against a presidential pledge of TZS 200 billion. Applicants aged 18 to 35 can apply online until 30 May 2027.
 
 </div>
 
@@ -732,7 +732,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[Tanzania to Develop Dedicated Startup Policy Within Six Months](https://www.tanzaniainvest.com/industry/startup-policy-within-six-months)** — TanzaniaInvest, 20 October 2026
 
-VP directive, 19 Oct 2026: Industry and Trade ministry to finalise startup policy within six months; startup hub.
+On 19 October 2026 Vice-President Deogratius Ndejembi directed the Ministry of Industry and Trade to finalise a startup policy within six months. He also asked the Prime Minister's Office and the ministry to identify a building as a startup hub. Tanzania has no dedicated startup law or policy at present.
 
 </div>
 

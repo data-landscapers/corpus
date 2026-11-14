@@ -3,8 +3,8 @@ title: Innovation ecosystem — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: tech.innovate
-places: DZA; BEN; BFA; CIV; COD; SWZ; MWI; NAM; NGA; SLE; ZAF; TZA; TUN; ZWE
-record: d3666d69c6e7
+places: DZA; BEN; BFA; CIV; COD; SWZ; MWI; MAR; NAM; NGA; SLE; ZAF; TZA; TUN; ZWE
+record: eee71634728b
 ---
 
 # News, Oct – Nov 2026
@@ -23,6 +23,8 @@ record: d3666d69c6e7
 <a href="#eswatini">Eswatini</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#malawi">Malawi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -163,6 +165,20 @@ The DRC's digital economy minister visited the Skolkovo innovation centre near M
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Startup Act implementing decrees</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Loi sur les Startup : 4 ans après la promulgation, la RDC attend toujours un dispositif de labellisation opérationnel](https://doseco.cd/2026/11/07/loi-sur-les-startup-4-ans-apres-la-promulgation-la-rdc-attend-toujours-un-dispositif-de-labellisation-operationnel/)** — DosEco, 7 November 2026
+
+The Democratic Republic of the Congo's startup labelling committee, created by decree on 5 June 2026, met for the first time on 4 November 2026 in Kinshasa. It has no technical secretariat, budget or bureau. The entrepreneurship secretariat will seek a line in the 2027 finance bill. The Startup Act dates from 8 September 2022.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Akili Digital startup programme, Kinshasa pilot</p>
 
 <div class="bulletin-item" markdown="1">
@@ -202,6 +218,22 @@ The University of Eswatini is building a E15 million innovation pod at its libra
 **[Payment hurdles ease for businesses](https://malawi24.com/2026/10/17/payment-hurdles-ease-for-businesses/)** — Malawi24, 17 October 2026
 
 The Reserve Bank of Malawi issued fintech PayChangu payment service provider licence PSP-003/26 on 30 September 2026 under the Payment Systems Act 2016. It allows the firm to aggregate mobile money, card and bank-transfer payments on one platform.
+
+</div>
+
+</div>
+
+## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Innov Invest Fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How Morocco Unlocked Private Capital for Startups](https://www.worldbank.org/en/news/feature/2026/10/12/how-morocco-unlocked-private-capital-for-startups)** — World Bank, 12 October 2026
+
+The World Bank said on 12 October 2026 that its US$50 million InnovInvest financing drew over US$70 million in private capital, 2.4 times the target. The programme set up four venture capital funds and supported nearly 1,000 entrepreneurs. It also created more than 4,000 jobs.
 
 </div>
 
@@ -289,7 +321,7 @@ Google named 15 South African-led, revenue-generating AI startups to its 2026 Go
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Loan programme for youth-owned ICT start-ups</p>
+<p class="monthly-story__name">Startups Wezesha Fund (loans for youth-owned ICT start-ups)</p>
 
 <div class="bulletin-item" markdown="1">
 
@@ -299,8 +331,30 @@ Tanzania's ICT minister, Angellah Kairuki, launched a TZS 5bn loan programme for
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Serikali yaziita 'startups' kuchangamkia mkopo wa Sh5 bilioni](https://nukta.co.tz/serikali-yaziita-startups-kuchangamkia-mkopo-wa-sh5-bilioni)** — Nukta Habari, 15 October 2026
+
+On 15 October 2026 Tanzania's communications ministry and the ICT Commission opened applications for concessional loans under the Startups Wezesha Fund. TZS 5 billion has been released so far against a presidential pledge of TZS 200 billion. Applicants aged 18 to 35 can apply online until 30 May 2027.
+
 </div>
 
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Startup Policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania to Develop Dedicated Startup Policy Within Six Months](https://www.tanzaniainvest.com/industry/startup-policy-within-six-months)** — TanzaniaInvest, 20 October 2026
+
+On 19 October 2026 Vice-President Deogratius Ndejembi directed the Ministry of Industry and Trade to finalise a startup policy within six months. He also asked the Prime Minister's Office and the ministry to identify a building as a startup hub. Tanzania has no dedicated startup law or policy at present.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

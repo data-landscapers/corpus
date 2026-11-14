@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: COM
 ledger_rows: 11
 not_held: 22
-record: 28f05ba3a270
+record: 8fc2ce389b01
 ---
 
 # News, Oct – Nov 2026
@@ -156,7 +156,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Le Gouvernement comorien et la Banque mondiale renforcent leur partenariat autour du Projet Mayendeleyo](https://pfss-comores.org/articles/le-gouvernement-comorien-et-la-banque-mondiale-renforcent-leur-partenariat-autour-du-projet-mayendeleyo)** — PFSS-RRC, 9 November 2026
 
-Social registry reaches 81,075 households across 152 of 319 localities; DG for social protection created June 2025.
+On 9 November 2026 the Comorian health and social protection minister met a World Bank delegation in Moroni. The single social registry now lists 81,075 households in 152 of 319 localities. An additional US$11 million for the Mayendeleyo project raises the cash transfer target from 40,010 to 55,000 households.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: NGA
 ledger_rows: 108
 not_held: 8
-record: f09d26425d2e
+record: 55fedb58f817
 ---
 
 # News, Oct – Nov 2026
@@ -1334,7 +1334,7 @@ Nigeria's Kwara State governor, AbdulRahman AbdulRazaq, approved electronic medi
 
 **[FG links 15.6m Nigerians to NIN in social register](https://punchng.com/fg-links-15-6m-nigerians-to-nin-in-social-register/)** — Punch, 22 October 2026
 
-Register holds 21.1m households, 83.2m people; 13.3m households updated, 15.65m NINs linked, October 2026.
+Nigeria's social safety-nets office said that as of October 2026 the National Social Register held 21.1 million households and 83.2 million people. It had linked 15.65 million National Identification Numbers and updated 13.3 million households. The World Bank reports N658.9 billion in cash transfers to 10.46 million households as of September 2026.
 
 </div>
 

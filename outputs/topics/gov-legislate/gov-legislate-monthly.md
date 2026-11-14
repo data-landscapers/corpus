@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 5fa8213ebd60
+record: 40577567299e
 ---
 
 # News, Oct – Nov 2026
@@ -489,6 +489,20 @@ Egypt's Financial Regulatory Authority licensed Souhoola to provide fintech-base
 **[رئيس «اتصالات النواب»: الحكومة ستتقدم بمشروع قانون تصنيف وتداول وإتاحة البيانات بين القطاعات الحكومية خلال أسابيع](https://www.almasryalyoum.com/news/details/4400426)** — Al-Masry Al-Youm, 3 November 2026
 
 Egypt's government will send parliament a bill on classifying and sharing data between state bodies within weeks, the chair of the ICT committee said on 3 November 2026. It will be the first law the committee studies. He tied it to the one-stop service file.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bill to amend MSME Development Law 152 of 2020 for start-ups</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[تفاصيل مشروع تعديل قانون تنمية المشروعات المتوسطة والصغيرة](https://www.parlgate.com/96556)** — بوابة البرلمان, 3 November 2026
+
+On 3 November 2026 the speaker of Egypt's House of Representatives referred a bill amending Law 152 of 2020 to the small enterprises committee. Committee chair Mohamed El-Garhy tabled it with the signatures of a tenth of members. It would update the financial limits that classify enterprises and propose a legal framework for startups.
 
 </div>
 
@@ -1594,6 +1608,20 @@ Ahead of a technology and intellectual property symposium on 22-23 October, Ugan
 **[FDC Threatens Court Action Over Proposed URA Access to Bank Accounts](https://nilepost.co.ug/news/381531/fdc-threatens-court-action-over-proposed-ura-access-to-bank-accounts)** — Nile Post, 26 October 2026
 
 Uganda's Forum for Democratic Change threatened to sue over plans to give the Uganda Revenue Authority wider access to bank accounts. On 15 October 2026 a finance minister told Parliament the government would keep seeking that power. MPs had rejected it. The party also asked the Personal Data Protection Office to audit URA's access to NIRA's national ID records.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Startup Act and startup policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Startup policies are underway, but what about funding for the young innovators?](https://www.monitor.co.ug/uganda/news/national/startup-policies-are-underway-but-what-about-funding-for-the-young-innovators--5654650)** — Daily Monitor, 1 November 2026
+
+On 1 November 2026 the Daily Monitor reported that Uganda's startup policy is being finalised by the Ministry of Trade before going to cabinet. Startup Uganda, an association of support organisations, plans to use Uganda Innovation Week to bring investors, policymakers and innovators together.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: EGY
 ledger_rows: 64
 not_held: 35
-record: b55d28557752
+record: b9f0cb055dc6
 ---
 
 # News, Oct – Nov 2026
@@ -160,7 +160,7 @@ Egypt's government will send parliament a bill on classifying and sharing data b
 
 **[تفاصيل مشروع تعديل قانون تنمية المشروعات المتوسطة والصغيرة](https://www.parlgate.com/96556)** — بوابة البرلمان, 3 November 2026
 
-MP-led bill to amend Law 152/2020 would set a legal framework for classifying startups; referred to committee.
+On 3 November 2026 the speaker of Egypt's House of Representatives referred a bill amending Law 152 of 2020 to the small enterprises committee. Committee chair Mohamed El-Garhy tabled it with the signatures of a tenth of members. It would update the financial limits that classify enterprises and propose a legal framework for startups.
 
 </div>
 

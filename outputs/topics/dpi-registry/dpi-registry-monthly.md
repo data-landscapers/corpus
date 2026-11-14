@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MLI; MRT; MUS; MAR; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 80170f647646
+record: abfbdc20f8d0
 ---
 
 # News, Oct – Nov 2026
@@ -264,6 +264,21 @@ Cabo Verde resumed its building cadastre survey in Tarrafal and São Salvador do
 **[État civil : « 84 % du projet Amecc 2 réalisés »](https://alwatwan.net/societe/%C3%A9tat-civil-%C2%AB84-du-projet-amecc-2-r%C3%A9alis%C3%A9s%C2%BB.html)** — Al-Watwan (Comores), 15 October 2026
 
 The second phase of Comoros's civil-registration modernisation project was reported 84% complete and given three more months at its steering committee, chaired by the interior minister with UNICEF and the French ambassador. Civil-registration centres have been mapped nationwide, the pre-digitisation study finished and new forms designed; France's support is put at EUR 1 million.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registre social unique</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Gouvernement comorien et la Banque mondiale renforcent leur partenariat autour du Projet Mayendeleyo](https://pfss-comores.org/articles/le-gouvernement-comorien-et-la-banque-mondiale-renforcent-leur-partenariat-autour-du-projet-mayendeleyo)** — PFSS-RRC, 9 November 2026
+
+On 9 November 2026 the Comorian health and social protection minister met a World Bank delegation in Moroni. The single social registry now lists 81,075 households in 152 of 319 localities. An additional US$11 million for the Mayendeleyo project raises the cash transfer target from 40,010 to 55,000 households.
 
 </div>
 

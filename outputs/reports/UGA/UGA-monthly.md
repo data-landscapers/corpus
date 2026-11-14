@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: UGA
 ledger_rows: 48
 not_held: 11
-record: b318624803e1
+record: bf318fc9612b
 ---
 
 # News, Oct – Nov 2026
@@ -192,7 +192,7 @@ Uganda's Forum for Democratic Change threatened to sue over plans to give the Ug
 
 **[Startup policies are underway, but what about funding for the young innovators?](https://www.monitor.co.ug/uganda/news/national/startup-policies-are-underway-but-what-about-funding-for-the-young-innovators--5654650)** — Daily Monitor, 1 November 2026
 
-Startup policy still with trade ministry before Cabinet, Nov 2026; Kampala startups raised about USD 30m.
+Uganda's trade ministry is finalising a startup policy before it goes to cabinet, the Daily Monitor reported on 1 November 2026. Startup Uganda, an association of support organisations, plans to use Uganda Innovation Week to bring investors and innovators together.
 
 </div>
 

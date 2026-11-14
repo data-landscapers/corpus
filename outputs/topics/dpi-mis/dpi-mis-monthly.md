@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.mis
 places: AGO; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d26059442e17
+record: 3966c6797205
 ---
 
 # News, Oct – Nov 2026
@@ -1109,6 +1109,20 @@ Niger's education minister Élisabeth Shérif chaired a meeting on 14 October 20
 **[Kwara Governor Approves Digital Medical Records for Public Hospitals](https://von.gov.ng/kwara-governor-approves-digital-medical-records-for-public-hospitals/)** — Voice of Nigeria, 12 October 2026
 
 Nigeria's Kwara State governor, AbdulRahman AbdulRazaq, approved electronic medical records across state-owned hospitals, to be implemented by the state Hospitals Management Board under the HOPE-PHC project. Health workers begin training in November 2026, following a digitisation pilot in six hospitals. No cost or supplier is named.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National social register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG links 15.6m Nigerians to NIN in social register](https://punchng.com/fg-links-15-6m-nigerians-to-nin-in-social-register/)** — Punch, 22 October 2026
+
+Nigeria's social safety-nets office said that as of October 2026 the National Social Register held 21.1 million households and 83.2 million people. It had linked 15.65 million National Identification Numbers and updated 13.3 million households. The World Bank reports N658.9 billion in cash transfers to 10.46 million households as of September 2026.
 
 </div>
 
