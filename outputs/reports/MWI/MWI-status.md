@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 259
+sources_cited: 261
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -263,7 +263,7 @@ In 2026 [the National Data Centre that carries the government's data exchange wa
 ### ICT Industry
 <!-- tech.industry -->
 
-In 2025 Malawi had [no startup or innovation law, no government startup financing scheme and no SME support programme for the technology sector](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Venture funding into Malawian startups is negligible](https://dealroom.co/countries/malawi/) (2024). The technology sector [operates largely without formal startup investment](https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/) (2024).
+In 2025 Malawi had [no startup or innovation law, no government startup financing scheme and no SME support programme for the technology sector](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The communications regulator [published a draft Digital Innovation and Entrepreneurship Bill in April 2024, creating a startup fund, incubation programmes and innovation hubs](https://macra.mw/wp-content/uploads/2024/04/Digital-Innovation-and-Entreprenuership-Bill-2024-1.pdf). [A May 2026 commentary states it never became law](https://techtrendsmalawi.substack.com/p/malawi-needs-a-startup-act-like-yesterday). [Venture funding into Malawian startups is negligible](https://dealroom.co/countries/malawi/) (2024). The technology sector [operates largely without formal startup investment](https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/) (2024).
 
 [ICT-services exports more than doubled between 2020 and 2023, making digital services one of the country's growing sources of external earnings](https://malawi24.com/2026/06/06/malawis-ict-exports-soar-to-k270-billion-amid-forex-solutions/). In June 2026 [Sparc Systems put forward a blueprint for exporting platforms it builds locally: anti-money-laundering compliance, student records, farmer payment systems and CRM](https://malawi24.com/2026/06/06/malawis-ict-exports-soar-to-k270-billion-amid-forex-solutions/). The same firm [opened a commercial data centre in Lilongwe aimed at ending reliance on offshore hosting](https://malawi24.com/2026/05/01/sparc-moves-to-end-malawis-reliance-on-offshore-data/) (May 2026). [Most Malawian firms still keep their data offshore, at a cost in scarce foreign currency](https://malawi24.com/2026/05/01/sparc-moves-to-end-malawis-reliance-on-offshore-data/). [Organised developer groups such as Tech Malawi and Golang Malawi maintain public code repositories and run hackathons](https://github.com/TechMalawi) (2024). [The 2026/27 budget set aside MWK 1.1bn for laptop and tablet assembly at the Malawi University of Science and Technology](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/).
 

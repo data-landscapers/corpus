@@ -1,12 +1,12 @@
 ---
 title: Togo: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 270
+sources_cited: 273
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -308,6 +308,8 @@ In 2024 the investment agency API-ZF [digitised twelve company-establishment pro
 [Togo ranked 117th of 133 economies in the WIPO Global Innovation Index 2024, with a score of 15.6](https://www.wipo.int/edocs/gii-ranking/2024/tg.pdf). [It was third among low-income economies, behind Rwanda and Madagascar](https://www.wipo.int/edocs/gii-ranking/2024/tg.pdf).
 
 [In 2025 trackers counted a few hundred registered startups, few of which had raised outside money](https://tracxn.com/d/geographies/togo/__akzxtGjeh0tDXmzQaiP9YulDmk7pNtYEtJu2nb1TyBg). [Gozem raised a $30 million Series B in February 2025](https://african.business/2026/03/innov-africa-deals/togos-quiet-rise-as-a-startup-contender). [Development finance institutions still did most of the investing](https://african.business/2026/03/innov-africa-deals/togos-quiet-rise-as-a-startup-contender). [In October 2025 about 15 firms, Gozem, Semoa, Édolé, MiaPay and Clinicaa among them, launched the industry body TogoTech in Lomé](https://www.togofirst.com/fr/tic/2710-17412-a-lome-lancement-officiel-de-togotech-la-synergie-nationale-des-startups-du-numerique).
+
+On 11 January 2023 the Council of Ministers [adopted a draft innovation law, with start-up labels and tax and customs incentives](https://www.afrikdepeche.tg/faciliter-la-creation-demplois-au-togo-vers-linstauration-dun-mecanisme-de-labellisation-des-start-ups/). In October 2025 the digital minister said [the Startup Act was still being adopted](https://togo-today.com/grit-lome-fait-vibrer-la-tech-africaine/). [It provides labels, a support fund for labelled firms, regulatory sandboxes and a national start-up register](https://togo-today.com/grit-lome-fait-vibrer-la-tech-africaine/). In May 2026 an opposition deputy wrote that [the National Assembly was about to adopt it](https://togoactualite.com/projet-de-loi-sur-linnovation-au-togo-une-ambition-necessaire-mais-un-texte-qui-nest-pas-a-la-hauteur-des-enjeux/).
 
 [In 2025 Djanta Tech Hub in Lomé, funded by the World Bank, ran pre-incubation and incubation cohorts with CcHub](https://djantatechhub.gouv.tg/). [It is planned as the first of more than 100 hubs](https://djantatechhub.gouv.tg/). [The World Bank's 2025 index records a strategy and a running programme for public sector innovation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 

@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: UGA
-ledger_rows: 47
-not_held: 12
-record: 4398386e1dfb
+ledger_rows: 48
+not_held: 11
+record: b318624803e1
 ---
 
 # News, Oct – Nov 2026
@@ -179,6 +179,20 @@ Ahead of a technology and intellectual property symposium on 22-23 October, Ugan
 **[FDC Threatens Court Action Over Proposed URA Access to Bank Accounts](https://nilepost.co.ug/news/381531/fdc-threatens-court-action-over-proposed-ura-access-to-bank-accounts)** — Nile Post, 26 October 2026
 
 Uganda's Forum for Democratic Change threatened to sue over plans to give the Uganda Revenue Authority wider access to bank accounts. On 15 October 2026 a finance minister told Parliament the government would keep seeking that power. MPs had rejected it. The party also asked the Personal Data Protection Office to audit URA's access to NIRA's national ID records.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Startup Act and startup policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Startup policies are underway, but what about funding for the young innovators?](https://www.monitor.co.ug/uganda/news/national/startup-policies-are-underway-but-what-about-funding-for-the-young-innovators--5654650)** — Daily Monitor, 1 November 2026
+
+Startup policy still with trade ministry before Cabinet, Nov 2026; Kampala startups raised about USD 30m.
 
 </div>
 

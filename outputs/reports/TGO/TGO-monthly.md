@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: TGO
 ledger_rows: 30
-not_held: 16
-record: 719cf54124c4
+not_held: 15
+record: a3ba9a0777a8
 ---
 
 # News, Oct – Nov 2026

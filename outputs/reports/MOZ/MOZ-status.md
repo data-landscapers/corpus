@@ -1,12 +1,12 @@
 ---
 title: Mozambique: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: MOZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 265
+sources_cited: 266
 sections_written: 39
 not_established: 1
 acquire_lines: 48
@@ -330,7 +330,7 @@ In August 2026 [Escola Superior de Jornalismo and Universidade Politécnica were
 ### Access to services
 <!-- include.access -->
 
-The PSSB, Mozambique's flagship social transfer programme, [reached 709,028 beneficiaries by the end of 2024 against a target of 1,199,573](https://clubofmozambique.com/news/mozambique-government-failed-to-meet-social-security-targets-cip-aim-report/). [That is 59 per cent of the 2024 goal, on a Centre for Public Integrity assessment](https://clubofmozambique.com/news/mozambique-government-failed-to-meet-social-security-targets-cip-aim-report/).
+The PSSB, Mozambique's flagship social transfer programme, [reached 709,028 beneficiaries by the end of 2024 against a target of 1,199,573](https://clubofmozambique.com/news/mozambique-government-failed-to-meet-social-security-targets-cip-aim-report/). [That is 59 per cent of the 2024 goal, on a Centre for Public Integrity assessment](https://clubofmozambique.com/news/mozambique-government-failed-to-meet-social-security-targets-cip-aim-report/). [An April 2026 research paper found its payments almost totally frozen since 2023, as the state faced a fiscal crisis](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2026-31-building-social-protection-system-resource-constraints.pdf).
 
 [First-time identity cards have been free of charge nationwide since November 2023](https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/). The waiver has since been [extended to 2027 and widened from the identity card to the birth certificate and the cédula pessoal](https://mznews.co.mz/en/governo-alarga-emissao-gratuita-de-bilhetes-de-identidade-ate-2027/). In October 2026, at the new integrated Centro Pronto in Maputo, [a private service fee plus VAT lifted an adult identity-card renewal from MZN 160 to MZN 1,058](https://mznews.co.mz/altas-taxas-cobradas-no-novo-centro-pronto-para-bi-passaporte-carta-de-conducao-e-dire-revoltam-cidadaos/). [The central bank allows social-protection beneficiary cards to stand as an alternative identity document for opening a payment account](https://documents1.worldbank.org/curated/en/099092023102013656/pdf/P169171021b5cc0e80ba200ffb89695fe30.pdf) (2023).
 

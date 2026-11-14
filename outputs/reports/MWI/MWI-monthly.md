@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: MWI
 ledger_rows: 29
-not_held: 30
-record: fa0ee87547fc
+not_held: 29
+record: 7ccf160f12cc
 ---
 
 # News, Oct – Nov 2026

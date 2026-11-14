@@ -1,12 +1,12 @@
 ---
 title: Somalia: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 223
+sources_cited: 224
 sections_written: 39
 not_established: 2
 acquire_lines: 38
@@ -16,7 +16,7 @@ acquire_lines: 38
 ### Strategies, plans and policies
 <!-- gov.policy -->
 
-[The Digital Transformation Strategy for 2025-2030 was validated at a national workshop in October 2025 with ITU support and was still being finalised](https://www.ecofinagency.com/news-digital/1310-49501-somalia-moves-to-finalize-digital-transformation-strategy-with-itu-support). [It is meant to coordinate every national digital initiative, interoperability included](https://www.ecofinagency.com/news-digital/1310-49501-somalia-moves-to-finalize-digital-transformation-strategy-with-itu-support). [It is drawn as a single national framework covering education, health, agriculture and finance](https://www.hiiraan.com/news4/2025/Oct/203323/somalia_s_internet_users_soar_to_10_7_million_as_starlink_and_digital_strategy_fuel_expansion.aspx). [The National ICT Policy and Strategy 2019-2024](https://moct.gov.so/en/wp-content/uploads/2019/11/National-ICT-Policy-Strategy-2019-2024.pdf) had set Somalia's positions on broadband, cybersecurity, data centres and cloud services, data protection and digital payments until 2024. No separate data exchange strategy has been found.
+[The Digital Transformation Strategy for 2025-2030 was validated at a national workshop in October 2025 with ITU support](https://www.ecofinagency.com/news-digital/1310-49501-somalia-moves-to-finalize-digital-transformation-strategy-with-itu-support). [Its November 2025 text, published by the communications authority, sets seven pillars and about 40 initiatives](https://nca.gov.so/uploads/documents/strategies/digital-transformation-strategy.pdf). No cabinet adoption has been found. [It is meant to coordinate every national digital initiative, interoperability included](https://www.ecofinagency.com/news-digital/1310-49501-somalia-moves-to-finalize-digital-transformation-strategy-with-itu-support). [It is drawn as a single national framework covering education, health, agriculture and finance](https://www.hiiraan.com/news4/2025/Oct/203323/somalia_s_internet_users_soar_to_10_7_million_as_starlink_and_digital_strategy_fuel_expansion.aspx). [The National ICT Policy and Strategy 2019-2024](https://moct.gov.so/en/wp-content/uploads/2019/11/National-ICT-Policy-Strategy-2019-2024.pdf) had set Somalia's positions on broadband, cybersecurity, data centres and cloud services, data protection and digital payments until 2024. No separate data exchange strategy has been found.
 
 [The Ministry of Communications and Technology issued an eGovernment Strategy for 2025-2029](https://moct.gov.so/en/wp-content/uploads/2025/08/eGovernment-Strategy-2025-2029.pdf) in August 2025. [It carries the plan for government hosting and digital service delivery](https://moct.gov.so/en/wp-content/uploads/2025/08/eGovernment-Strategy-2025-2029.pdf). [The Council of Ministers approved an Inclusive Digital Policy in January 2025](https://moct.gov.so/en/the-council-of-ministers-approves-the-inclusive-digital-policy-and-the-accelerated-governance-strategy-mogadishu-somalia-23rd-january-2025/). [A National Data Policy Framework was validated in March 2026](https://www.linkedin.com/feed/update/urn:li:activity:7438141176852996097). [It covers how data is collected, shared, classified and retained, and its sovereignty](https://www.linkedin.com/feed/update/urn:li:activity:7438141176852996097). [On 27 October 2026 the Prime Minister's Office and the communications ministry held a workshop to validate a National Digital Coordination Framework for federal government ICT](https://hiiraanweyn.net/dowladda-soomaaliya-oo-ansixinaysa-qaab-dhismeedka-qaranka-ee-isku-duwidda-dowladda-dijitaalka-ah/).
 

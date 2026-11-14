@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 286
+sources_cited: 287
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -335,6 +335,8 @@ None of the degree-granting institutions with dedicated ICT provision publishes 
 
 ### Research institutions
 <!-- capacity.research -->
+
+On 10 March 2026 the higher education minister [launched the National Research and Innovation Fund to finance research and innovation](https://thepoint.gm/africa/gambia/headlines/gambias-national-research-and-innovation-fund-commissioned). [Its four instruments run from foundational research to taking prototypes to market](https://thepoint.gm/africa/gambia/headlines/gambias-national-research-and-innovation-fund-commissioned). No capitalisation figure or first award has been found.
 
 On 10 December 2025 the Ministry of Higher Education, Research, Science and Technology [signed a memorandum with the African Institute for Mathematical Sciences at Mbour to establish an AIMS satellite centre in The Gambia](https://thepoint.gm/africa/gambia/national-news/gambia-partners-with-senegal-to-become-hub-for-advanced-mathematics-ai). [Its roadmap leads toward an autonomous centre of excellence](https://thepoint.gm/africa/gambia/national-news/gambia-partners-with-senegal-to-become-hub-for-advanced-mathematics-ai). [It gives Gambian students access to AIMS postgraduate programmes in mathematical sciences, data science and artificial intelligence in Senegal, Rwanda and South Africa](https://thepoint.gm/africa/gambia/national-news/gambia-partners-with-senegal-to-become-hub-for-advanced-mathematics-ai). [It also covers training for lecturers and teachers, collaborative research and shared access to datasets](https://thepoint.gm/africa/gambia/national-news/gambia-partners-with-senegal-to-become-hub-for-advanced-mathematics-ai).
 
