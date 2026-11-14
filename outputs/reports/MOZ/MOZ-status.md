@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 266
+sources_cited: 267
 sections_written: 39
 not_established: 1
 acquire_lines: 48
@@ -228,7 +228,7 @@ In 2018 [interoperability between the land information system, municipal cadastr
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-In 2025 the World Bank recorded [custom-built financial management, payroll, tax administration and human resources systems, with customs on commercial off-the-shelf software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The [treasury system settles through real-time gross settlement but is only partially used by ministries, departments and agencies](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In October 2025 the government suspended 18,899 employees from the payroll after they missed the annual biometric proof of life required by the e-SNGRHE human resources system](https://360mozambique.com/development/biometric-verification-removes-over-18000-nonexistent-employees-from-the-state-payroll/). [At end-2022, 45% of tax receipts were collected through e-tributação, linked to the e-SISTAFE financial management system](https://furtherafrica.com/2023/07/25/nearly-half-of-mozambique-taxes-collected-electronically-in-2022/).
+In 2025 the World Bank recorded [custom-built financial management, payroll, tax administration and human resources systems, with customs on commercial off-the-shelf software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The [treasury system settles through real-time gross settlement but is only partially used by ministries, departments and agencies](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In October 2025 the government suspended 18,899 employees from the payroll after they missed the annual biometric proof of life required by the e-SNGRHE human resources system](https://360mozambique.com/development/biometric-verification-removes-over-18000-nonexistent-employees-from-the-state-payroll/). [At end-2022, 45% of tax receipts were collected through e-tributação, linked to the e-SISTAFE financial management system](https://furtherafrica.com/2023/07/25/nearly-half-of-mozambique-taxes-collected-electronically-in-2022/). [On 1 September 2026 the Council of Ministers authorised negotiations for a public-private partnership to implement and run an integrated tax administration system](https://integritymagazine.co.mz/arquivos/68494).
 
 Customs has cleared through [the Janela Única Electrónica single window since 2012](https://www.freightnews.co.za/article/single-window-speeds-up-clearance-at-moz-borders). [By 2017 it had cut clearance steps from 32 to 8](https://www.freightnews.co.za/article/single-window-speeds-up-clearance-at-moz-borders). [Decree 37/2023 made electronic lodging of declarations mandatory](https://tempo.co.mz/upload/legislacao/boletins_republica/docs/decreto-37-2023.pdf). On 18 November 2025 the Council of Ministers [authorised negotiation of a new single-window concession by direct award with Escopil Internacional and SGS](https://portaldogoverno.gov.mz/2025/11/19/governo-aprova-reformas-estruturantes-nos-sectores-de-agua-energia-e-logistica/).
 
