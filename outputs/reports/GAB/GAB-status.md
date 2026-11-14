@@ -6,7 +6,7 @@ region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 243
+sources_cited: 244
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -204,7 +204,7 @@ The merchant terminal estate is nearly five times the size of the ATM estate yet
 
 In December 2025 [the state launched MADIGIPAIE to modernise public payments, letting people pay by mobile money by scanning a GIMACPAY QR code](https://www.ecofinagency.com/news-digital/1112-51310-gabon-speeds-up-digital-payments-rollout-with-madigipaie-program). [More than 1,000 interoperable QR codes had reached merchants by December 2025](https://www.ecofinagency.com/news-digital/1112-51310-gabon-speeds-up-digital-payments-rollout-with-madigipaie-program). [The scheme reached the TaxiGab transport network on 28 February 2026](https://www.gabonreview.com/gabon-madigipaie-fait-de-taxigab-le-fer-de-lance-du-paiement-numerique/). [An October 2026 account put it at more than 3,273 merchants and 1,382 GIMAC QR codes in July](https://www.biometricupdate.com/202610/gabon-updates-digital-payment-laws-to-support-regional-interoperability). [No transaction volume has been published](https://www.biometricupdate.com/202610/gabon-updates-digital-payment-laws-to-support-regional-interoperability) (October 2026).
 
-[In 2024 the tax directorate reported at least 80% of tax revenue collected through its Digitax remote-payment platform](https://dgi.ga/wp-content/uploads/2025/07/Rapport-dactivite%CC%81-DGI-2024_WEB.pdf). [Electronic filing and payment have been mandatory for medium and large enterprises since April 2024](https://dgi.ga/digitax/). [BEAC reports annually on payment services in CEMAC, and its latest edition covers 2024](https://www.beac.int/wp-content/uploads/2026/04/RAPPORT-SUR-LES-SERVICES-DE-PAIEMENT-DANS-LA-CEMAC-2024-.pdf). [On 8 October 2026 the Council of Ministers adopted a bill ratifying and amending the digital payments ordinance](https://www.journaldugabon.com/communique-final-du-conseil-des-ministres-du-08-octobre-2026/). [The bill regulates payment-solution providers and moves payments progressively to digital form](https://www.journaldugabon.com/communique-final-du-conseil-des-ministres-du-08-octobre-2026/).
+[In 2024 the tax directorate reported at least 80% of tax revenue collected through its Digitax remote-payment platform](https://dgi.ga/wp-content/uploads/2025/07/Rapport-dactivite%CC%81-DGI-2024_WEB.pdf). [Electronic filing and payment have been mandatory for medium and large enterprises since April 2024](https://dgi.ga/digitax/). [From 10 April 2026 they became mandatory for every taxpayer, when the e-T@x platform reached the last four provincial tax directorates](https://info241.ga/gabon-la-declaration-et-le-paiement-des-impots-desormais-100,2779). [BEAC reports annually on payment services in CEMAC, and its latest edition covers 2024](https://www.beac.int/wp-content/uploads/2026/04/RAPPORT-SUR-LES-SERVICES-DE-PAIEMENT-DANS-LA-CEMAC-2024-.pdf). [On 8 October 2026 the Council of Ministers adopted a bill ratifying and amending the digital payments ordinance](https://www.journaldugabon.com/communique-final-du-conseil-des-ministres-du-08-octobre-2026/). [The bill regulates payment-solution providers and moves payments progressively to digital form](https://www.journaldugabon.com/communique-final-du-conseil-des-ministres-du-08-octobre-2026/).
 
 ### Registries
 <!-- dpi.registry -->
