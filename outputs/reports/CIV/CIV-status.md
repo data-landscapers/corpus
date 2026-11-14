@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 291
+sources_cited: 292
 sections_written: 39
 not_established: 0
 acquire_lines: 59
@@ -361,7 +361,7 @@ The [enterprise and establishment census counted well over a million formal and 
 
 [The main disease-surveillance tools depend on paper at facility level](https://publichealth.jmir.org/2024/1/e56275) (2024). [By October 2026 the paper civil-status registers had been digitised in 14 centres, about 3.8 million records](https://digitalmag.ci/digitalisation-trois-outils-de-modernisation-de-letat-civil/). [On-time birth registration fell to 55.4% in 2024](https://www.fratmat.info/article/2635039/economie/annuaire-statistique-detat-civil-de-lannee-2024-le-taux-denregistrement-des-naissances-dans-les-delais-en-nette-regression), and [the interior ministry said on 31 July 2026 that it rose 2.2 points in 2025, with 24.17% of deaths registered](https://www.aip.ci/cote-divoire-aip-le-taux-denregistrement-annuel-des-naissances-progresse-a-576-en-2025-contre-547-en-2022-officiel/).
 
-Vital statistics are published: the [annual civil-status yearbook comes from the Interior Ministry on UNICEF funding](https://www.fratmat.info/article/2635039/economie/annuaire-statistique-detat-civil-de-lannee-2024-le-taux-denregistrement-des-naissances-dans-les-delais-en-nette-regression) (2025). [Three decrees on the National Statistical System were adopted in the Council of Ministers on 18 June 2025](https://www.fratmat.info/article/2634726/politique/communique-du-conseil-des-ministres-ce-mercredi-18-juin-2025). [They cover the statistical visa, the tariffing of statistical services, and the communication of administrative files](https://www.fratmat.info/article/2634726/politique/communique-du-conseil-des-ministres-ce-mercredi-18-juin-2025). A [labour market information system built to the SDMX exchange standard launched on 23 June 2026](https://www.koaci.com/article/2026/06/23/cote-divoire/societe/cote-divoire-le-gouvernement-lance-le-simt-une-revolution-numerique-pour-mieux-orienter-lemploi-et-la-formation_197894.html). The telecoms regulator [publishes market statistics under article 82 of ordonnance 2012-293](http://itu.int/en/ITU-D/Regional-Presence/Africa/Documents/ICT%20Indicators%202019/Presentations/session-4-cote-divoire-panorama-des-telecoms-tic-fr.pdf). [Its Panorama, deposited with the ITU, carries 2018 market data and a household survey with 2017 fieldwork](http://itu.int/en/ITU-D/Regional-Presence/Africa/Documents/ICT%20Indicators%202019/Presentations/session-4-cote-divoire-panorama-des-telecoms-tic-fr.pdf).
+Vital statistics are published: the [annual civil-status yearbook comes from the Interior Ministry on UNICEF funding](https://www.fratmat.info/article/2635039/economie/annuaire-statistique-detat-civil-de-lannee-2024-le-taux-denregistrement-des-naissances-dans-les-delais-en-nette-regression) (2025). [Three decrees on the National Statistical System were adopted in the Council of Ministers on 18 June 2025](https://www.fratmat.info/article/2634726/politique/communique-du-conseil-des-ministres-ce-mercredi-18-juin-2025). [They cover the statistical visa, the tariffing of statistical services, and the communication of administrative files](https://www.fratmat.info/article/2634726/politique/communique-du-conseil-des-ministres-ce-mercredi-18-juin-2025). [A fourth decree, adopted on 5 August 2026, makes prior validation by the statistics agency and the national statistics council compulsory for every public statistic](https://www.aip.ci/aip-la-cote-divoire-adopte-un-cadre-harmonise-pour-la-gestion-des-statistiques-publiques/). A [labour market information system built to the SDMX exchange standard launched on 23 June 2026](https://www.koaci.com/article/2026/06/23/cote-divoire/societe/cote-divoire-le-gouvernement-lance-le-simt-une-revolution-numerique-pour-mieux-orienter-lemploi-et-la-formation_197894.html). The telecoms regulator [publishes market statistics under article 82 of ordonnance 2012-293](http://itu.int/en/ITU-D/Regional-Presence/Africa/Documents/ICT%20Indicators%202019/Presentations/session-4-cote-divoire-panorama-des-telecoms-tic-fr.pdf). [Its Panorama, deposited with the ITU, carries 2018 market data and a household survey with 2017 fieldwork](http://itu.int/en/ITU-D/Regional-Presence/Africa/Documents/ICT%20Indicators%202019/Presentations/session-4-cote-divoire-panorama-des-telecoms-tic-fr.pdf).
 
 ### Open data
 <!-- data.open -->

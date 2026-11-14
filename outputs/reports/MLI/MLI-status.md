@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 201
+sources_cited: 202
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -346,7 +346,7 @@ In 2024 [digital services remained concentrated in Bamako and the major cities](
 ### National statistics
 <!-- data.statistics -->
 
-[On 9 October 2026 the Council of Ministers took note of a fourth statistical master plan and its action plan for 2026-2030](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/). [It is set on four axes, from management of the statistical system to the use of its output](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/). [The previous master plan covered 2020-2024](https://instat-mali.org/laravel-filemanager/files/shares/ca/sdsmli20-24_ca.pdf). [The public statistics law of 24 February 2016](https://sgg-mali.ml/JO/2016/mali-jo-2016-12.pdf) underpins the plans and the national statistics council. The text of the 2026-2030 plan has not been found.
+[On 9 October 2026 the Council of Ministers took note of a fourth statistical master plan and its action plan for 2026-2030](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/). [It is set on four axes, from management of the statistical system to the use of its output](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/). [The previous master plan covered 2020-2024](https://instat-mali.org/laravel-filemanager/files/shares/ca/sdsmli20-24_ca.pdf). [The public statistics law of 24 February 2016](https://sgg-mali.ml/JO/2016/mali-jo-2016-12.pdf) underpins the plans and the national statistics council. [A law of 7 May 2024 added a statistical levy to the statistics institute's resources, and a decree of 9 May 2024 gives the institute 15 per cent of it](https://sgg-mali.ml/JO/2024/mali-jo-2024-10.pdf). The text of the 2026-2030 plan has not been found.
 
 In 2023 [Mali scored above 89 per cent on data use in the World Bank's Statistical Performance Indicators](https://www.worldbank.org/en/programs/statistical-performance-indicators). [In 2023 it scored 50 to 69 per cent on data services and products, and 20 to 49 per cent on data sources and data infrastructure](https://www.worldbank.org/en/programs/statistical-performance-indicators). [No business or establishment census had been taken in twenty years, and no such survey in ten](https://www.worldbank.org/en/programs/statistical-performance-indicators). [Household, labour force, health and agricultural surveys were each fielded three or more times over the decade](https://www.worldbank.org/en/programs/statistical-performance-indicators).
 

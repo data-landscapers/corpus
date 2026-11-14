@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: COG
-ledger_rows: 15
+ledger_rows: 16
 not_held: 5
-record: 12d38ffae458
+record: d489d94a21a0
 ---
 
 # News, Oct – Nov 2026
@@ -285,6 +285,20 @@ The Republic of the Congo scored 1.75 out of 4 on the Africa AI Governance Index
 </nav>
 
 ### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Advance release calendar of official statistics</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Calendrier de publication des statistiques officielles – 2026](https://www.ins-congo.cg/uploads/publications/ins_6ad8553134ba03.75061568.pdf)** — Institut National de la Statistique, Direction de la Coordination Statistique, 1 October 2026
+
+INS release calendar, October 2026: 18 products, 5 directions, quarterly dates; based on law 36-2018 and e-GDDS.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

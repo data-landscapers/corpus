@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: MLI
 ledger_rows: 17
 not_held: 1
-record: 945336ce83fc
+record: 3a692cfa04ec
 ---
 
 # News, Oct – Nov 2026
@@ -327,6 +327,14 @@ On a page dated 5 October 2026, Mali's statistics institute INSTAT lists quarter
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">Fourth Schéma Directeur de la Statistique and its 2026-2030 action plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué du Conseil des Ministres du vendredi 9 octobre 2026 CM N°2026-40/SGG](https://koulouba.ml/communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg/)** — Secrétariat général du Gouvernement du Mali, 9 October 2026
+
+Cabinet notes the fourth statistics master plan and its 2026-2030 action plan, built on four axes.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 

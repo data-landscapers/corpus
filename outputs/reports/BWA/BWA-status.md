@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 215
+sources_cited: 216
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -383,7 +383,7 @@ Skills show the same shape. [Basic ICT and e-skills now reach a majority of indi
 
 [In 2023 the World Bank's Statistical Performance Indicators recorded three or more agricultural surveys in the past ten years, but only one household survey and one health survey](https://www.worldbank.org/en/programs/statistical-performance-indicators). [They recorded no labour force survey and no business survey](https://www.worldbank.org/en/programs/statistical-performance-indicators). [In March 2026 Statistics Botswana released preliminary labour-force results from the Botswana Multi Topic Household Survey, conducted from November 2024 to November 2025](https://www.statsbots.org.bw/sites/default/files/publications/BOTSWANA%20MULTI%20TOPIC%20HOUSEHOLD%20SURVEY%202024%205%20%20%20%20Labour%20Force%20Preliminary%20Stats%20Brief.pdf). [They put unemployment at 21.0%, against 17.6% in 2015/16](https://www.statsbots.org.bw/sites/default/files/publications/BOTSWANA%20MULTI%20TOPIC%20HOUSEHOLD%20SURVEY%202024%205%20%20%20%20Labour%20Force%20Preliminary%20Stats%20Brief.pdf). [The census programme was complete in 2023, with a population census, an agricultural census and a business census all held within the same ten years](https://www.worldbank.org/en/programs/statistical-performance-indicators). [In 2023 the same assessment placed data use, data services, data sources and data infrastructure in the 50-69 per cent band, and data products in the 70-89 per cent band](https://www.worldbank.org/en/programs/statistical-performance-indicators).
 
-[The country's Capacity of the Statistical System score rose 12.6 points over 2014-2023 to 67.8 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf). [That placed it eighth of 54 African states, and made it one of the country's ten most improved governance indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf). [The Statistics Act, 2009, in force since 1 December 2010, established the statistics office as a body corporate](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Act%202009.pdf).
+[The country's Capacity of the Statistical System score rose 12.6 points over 2014-2023 to 67.8 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf). [That placed it eighth of 54 African states, and made it one of the country's ten most improved governance indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf). [The Statistics Act, 2009, in force since 1 December 2010, established the statistics office as a body corporate](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Act%202009.pdf). [In 2022/23 Statistics Botswana began revising the statistical legal framework to domesticate the African Charter on Statistics, which Botswana ratified in January 2021](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Botswana%20Annual%20Report%202022-2023.pdf).
 
 [Statistics Botswana released 72 of the 102 outputs it planned for 2024/25](https://www.statsbots.org.bw/sites/default/files/documents/Statistics%20Botswana%20Annual%20Report%202024-25.pdf). [Most of the missing outputs were social indicators held back by late administrative data from ministries](https://www.statsbots.org.bw/sites/default/files/documents/Statistics%20Botswana%20Annual%20Report%202024-25.pdf). [Its development budget was P110.7 million, against P206.1 million sought](https://www.statsbots.org.bw/sites/default/files/documents/Statistics%20Botswana%20Annual%20Report%202024-25.pdf).
 
