@@ -3,9 +3,9 @@ title: Kenya — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: KEN
-ledger_rows: 94
+ledger_rows: 97
 not_held: 5
-record: 58b57d2b5540
+record: d083b9a6d815
 ---
 
 # News, Oct – Nov 2026
@@ -238,6 +238,20 @@ A former senior manager at a Kenyan bank testified, in a Sh1.5 billion data brea
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">US-Kenya Health Cooperation Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CoA Clears Kenya-US Health Deal for Implementation Pending Appeal](https://capitalfm.africa/coa-clears-kenya-us-health-deal-for-implementation-pending-appeal/)** — Capital FM (Kenya), 13 October 2026
+
+Kenya's Court of Appeal lets the US health framework run pending appeal; privacy and data questions left open.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Communications Authority escalated consumer complaints</p>
 
 <div class="bulletin-item" markdown="1">
@@ -267,6 +281,28 @@ Data services drew 140 of the 479 consumer complaints escalated to the Communica
 **[Kenya Nominates Lydia Sitienei as Second Data Commissioner](https://techafricanews.com/2026/11/10/kenya-nominates-lydia-sitienei-second-data-commissioner/)** — Tech Africa News, 10 November 2026
 
 President Ruto nominated Lydia Sitienei, director of legal services at the Communications Authority of Kenya, as the country's second Data Commissioner, Tech Africa News reported on 10 November 2026. The nomination has gone to the National Assembly for approval. She would succeed Immaculate Kassait, the first commissioner, at the end of her six-year term.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kassait calls for reforms, central data pool as she exits data protection office](https://www.kbc.co.ke/kassait-calls-for-reforms-central-data-pool-as-she-exits-data-protection-office/)** — Kenya Broadcasting Corporation, 13 November 2026
+
+Commissioner leaves 16 Nov 2026; urges central anonymised data pool as DPI, office reforms, Malabo ratification.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ODPC enforcement caseload and penalties</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Six years after its creation, Kenya’s data protection watchdog faces a more complex digital economy](https://techtrendske.co.ke/2026/11/13/kenya-data-protection-law-ai-regulation/)** — TechTrendsKE, 13 November 2026
+
+Kassait seeks amendments on AI, sensitive data, penalties; ODPC tallies 13,000 complaints, 459 determinations.
 
 </div>
 
@@ -849,6 +885,20 @@ Safaricom's net income rose 35.9% to KES 58.2 billion in the six months to 30 Se
 **[Redtech Plans a Kenya-Nigeria Payments Corridor With Kenyan Launch in 2027](https://techweez.com/2026/11/07/redtech-plans-a-kenya-nigeria-payments-corridor-with-kenyan-launch-in-2027/)** — Techweez, 7 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Redtech, a Nigerian payments company, plans a payments link between Nigeria and Kenya, its chief executive Emmanuel Ojo told Techweez in a report of 7 November 2026. A Kenyan launch is planned by the first quarter of 2027, through partners. Ojo says some African markets settle within 24 hours while others take three or four days.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenyan bank participation in PAPSS</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PAPSS bets on local currencies to unlock Kenya’s Africa trade](https://capitalfm.africa/papss-bets-on-local-currencies-to-unlock-kenyas-africa-trade/)** — Capital FM, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+31 countries, 220+ banks, 17 switches; 37 countries targeted by end-2026, 50 in 2027; fees about 0.1%.
 
 </div>
 
