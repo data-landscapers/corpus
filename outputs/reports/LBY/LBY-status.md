@@ -6,7 +6,7 @@ region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 219
+sources_cited: 220
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -198,7 +198,7 @@ In August 2026 [banks still could not meet large cash withdrawals, and some clin
 
 [In September 2023 the social affairs ministry issued more than one million e-payment cards for the wives' and daughters' allowance, paid through the central bank's banking operations](https://libyaobserver.ly/inbrief/dbeibah-orders-immediate-disbursement-wives-and-childrens-allowance).
 
-[Access to banking scored 8.4 out of 100 in 2023, 44th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf). [The wallet opened to foreigners in March 2026 is issued on a passport and residency card](https://libyaherald.com/2026/03/bank-of-commerce-and-development-first-bank-to-launch-e-wallet-for-expat-residents-and-workers). [Decision No. 247 of 2024 added electronic collection of income tax from 15 May 2024](https://lawsociety.ly/en/legislation/decision-no-247-of-2024-on-adding-a-method-for-collecting-income-tax/).
+[Access to banking scored 8.4 out of 100 in 2023, 44th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf). [The wallet opened to foreigners in March 2026 is issued on a passport and residency card](https://libyaherald.com/2026/03/bank-of-commerce-and-development-first-bank-to-launch-e-wallet-for-expat-residents-and-workers). [Decision No. 247 of 2024 added electronic collection of income tax from 15 May 2024](https://lawsociety.ly/en/legislation/decision-no-247-of-2024-on-adding-a-method-for-collecting-income-tax/). [Decision No. 448 of 2025 accepted bank and postal transfers as official methods of paying income tax](https://libyaobserver.ly/inbrief/new-decision-introduces-electronic-tax-collection-system) (November 2025).
 
 ### Registries
 <!-- dpi.registry -->
