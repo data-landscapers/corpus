@@ -66,7 +66,7 @@ dpi.registry--population-register,,,,,,,,,2026-08-31,0,Only a diaspora skills di
 dpi.registry--civil-register,,,,,,,,,2026-08-31,0,Registration coverage figures held; no digital civil register on record,
 dpi.registry--address-register,3,MLI-dpi.registry-ninacad-adresse,,,,,,,2026-08-31,0,Address codes cover Bamako Kati and Segou; no link to other registers on record,
 dpi.registry--business-register,2,MLI-dpi.registry-guichet-unique-creation-entreprises,,,,,,,2026-08-31,0,Single window in law since 2008; no online registration channel published,
-dpi.registry--social-protection-register,2,MLI-dpi.registry-registre-social-unifie,,,,,,,2026-08-31,0,Unified social register being populated; no coverage figure published,
+dpi.registry--social-protection-register,2,MLI-dpi.registry-registre-social-unifie,,,,,,,2026-08-31,0,Unified social register held 1.2 million households in 2024; still enrolling, no programme count published,
 dpi.registry--electoral-register,2,MLI-dpi.registry-electoral-register,,,,,,,2026-08-31,0,Annual revision and mobile register software on record; public access to the roll not on record,
 dpi.registry--tax-register,2,MLI-dpi.mis-tax-administration,,,,,,,2026-08-31,0,Active taxpayer list published online; register integrity and linkage not assessed,
 dpi.registry--land-register,2,MLI-dpi.registry-sifguf,,,,,,,2026-08-31,0,Parcel registration campaign and cadastre reorganisation; no parcel count or digital register coverage published,

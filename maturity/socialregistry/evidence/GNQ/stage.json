@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "no evidence",
-      "registry": "",
+      "stage": "2",
+      "registry": "underway",
       "programmes": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found names a social registry, or says there is none.",
-      "note": "Rebuild: no evidence row is held on a social registry. No stage.",
-      "as_at": "2026-11-13"
+      "stage_sources": "GNQ-001",
+      "gaps": "No source found says the social registry has been built, has enrolled households or is in service.",
+      "note": "Ley 5/2026 article 15 creates the Registro Único Social (GNQ-001), so under way. Nothing held says it is built or in service, so not 3.",
+      "as_at": "2026-11-14"
     }
   ]
 }

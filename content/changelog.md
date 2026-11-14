@@ -1,3 +1,7 @@
+## 14 November 2026
+
+- Equatorial Guinea is placed at 2 on the social protection register (dpi.registry--social-protection-register), where it had no stage: Ley 5/2026 creates a Registro Único Social. Nothing found says the register has been built or holds anyone yet.
+
 ## 13 November 2026
 
 - Angola falls from 5 to 3 on authentication (dpi.id--authentication): its ID checks serve passport issuance, and no service used across several bodies or channels has been found. The state-certified AngolaID wallet cannot count until that step is shown.

@@ -344,7 +344,7 @@ Not established: Nothing found names social protection systems exchanging data, 
 
 Nothing found names social protection systems exchanging data or says there is none, so no stage is set.
 
-Not established: Nothing found names social protection systems exchanging data, or says there is none.
+Not established: Nothing found names social protection systems exchanging data, or says there is none. Ley 5/2026 creates a social registry that other bodies must supply on request; no link is built.
 
 ### Eritrea: No evidence
 

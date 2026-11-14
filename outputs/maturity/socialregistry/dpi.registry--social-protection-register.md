@@ -23,10 +23,10 @@ The African Union's Protocol on Social Protection asks states for a social regis
 | 5 Leading | 0 |
 | 4 Operating | 19 |
 | 3 Established | 10 |
-| 2 Nascent | 15 |
+| 2 Nascent | 16 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
-| No evidence | 7 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -251,6 +251,12 @@ A social registry was under way in 2026; none in service is on record.
 - The PFSS-RRC says the extension aims to improve crisis response through the operationalisation of the Registre Social Unique ([source, 2026-09-20](https://pfss-comores.org/articles/le-gouvernement-comorien-%C3%A9largit-la-protection-sociale-%C3%A0-55-000-m%C3%A9nages-vuln%C3%A9rables)).
 - La Gazette des Comores reports that the Registre social unique continues to be set up in Comoros, with 62,000 households registered, per the World Bank representative ([source, 2026-07-10](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/registre-social-unique-62-000-m%C3%A9nages-d%C3%A9j%C3%A0-enregistr%C3%A9s-.html)).
 
+### Equatorial Guinea: 2 Nascent
+
+A 2026 law created a social registry; nothing found says it has been built or is in service.
+
+- Article 15 of Ley 5/2026 on the social protection system creates a Registro Único Social within the Instituto de Protección Social, to hold data on actual and potential beneficiaries of non-contributory benefits, which other public and private bodies must supply on request; the law takes effect six months after publication ([source, 2026-04](https://faolex.fao.org/docs/pdf/eqg248009.pdf)).
+
 ### Eswatini: 2 Nascent
 
 A social registry was under way in 2026; none in service is on record.
@@ -347,12 +353,6 @@ Nothing found names a social registry or says there is none, so no stage is set.
 Not established: Nothing found names a social registry, or says there is none.
 
 ### Central African Republic: No evidence
-
-Nothing found names a social registry or says there is none, so no stage is set.
-
-Not established: Nothing found names a social registry, or says there is none.
-
-### Equatorial Guinea: No evidence
 
 Nothing found names a social registry or says there is none, so no stage is set.
 
