@@ -3,9 +3,9 @@ title: Togo — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: TGO
-ledger_rows: 30
+ledger_rows: 31
 not_held: 15
-record: a3ba9a0777a8
+record: 44bafa016cb8
 ---
 
 # News, Oct – Nov 2026
@@ -505,6 +505,20 @@ The Ayre Think Tank published an AI readiness index at the Commonwealth summit i
 **[L'Instance de Protection des Données à Caractère Personnel (IPDCP) et l'Université de Kara signent une convention pour accompagner la transformation numérique et développer les compétences nationales](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-luniversite-de-kara-signent-une-convention-pour-accompagner-la-transformation-numerique-et-developper-les-compete/)** — Instance de Protection des Données à Caractère Personnel (IPDCP), Togo, 6 October 2026
 
 Togo's personal data protection authority (IPDCP) and the University of Kara signed a partnership agreement on 6 October 2026. It provides for a hybrid professional master's degree in digital law, cybersecurity, cyberdefence and data protection, developed with IPDCP technical and financial support, as well as joint research, workshops and internships. No cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SIFA digital skills programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PROGRAMME SIFA : 1 000 jeunes formés aux compétences numériques au Togo](https://www.education.gouv.tg/programme-sifa-1-000-jeunes-formes-aux-competences-numeriques-au-togo/)** — Ministère de l'Education Nationale, 3 November 2026
+
+15 partner hubs (7 public, 8 private) across five regions; nearly 2,000 enrolled; 1,000 placements targeted by end-2027.
 
 </div>
 
