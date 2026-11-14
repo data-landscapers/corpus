@@ -362,7 +362,7 @@ afrinic-governance-committee,AFRINIC Governance Committee,full,1
 afrinic-nomination-committee,Nomination Committee,partial,1
 afrione,AfriOne,full,3
 afripol,AFRIPOL,full,1
-afristat,AFRISTAT,full,9
+afristat,AFRISTAT,full,10
 afritac-centre,AFRITAC Centre,full,4
 afritac-east,AFRITAC East,full,1
 afritac-west,AFRITAC West,full,1
@@ -763,7 +763,7 @@ anssi-congo,ANSSI Congo,full,1
 anssi-cote-divoire,ANSSI,full,8
 anssi-guinea,ANSSI,full,9
 anssi-mali,ANSSI,full,4
-anstat,ANSTAT,full,3
+anstat,ANStat,full,4
 ansut,ANSUT,full,9
 ansuten,ANSUTEN,full,8
 ant-international,Ant International,full,2
@@ -1697,7 +1697,7 @@ central-population-database-mauritius,Central Population Database,full,2
 central-procurement-board-mauritius,Central Procurement Board,full,1
 central-procurement-board-namibia,Central Procurement Board of Namibia,full,2
 central-securities-clearing-system,Central Securities Clearing System,full,1
-central-statistical-office-eswatini,Central Statistical Office,full,10
+central-statistical-office-eswatini,Central Statistical Office,full,9
 central-statistics-office-eswatini,Central Statistics Office,full,2
 central-vehicle-registry-zimbabwe,Central Vehicle Registry,full,2
 central-water-authority-mauritius,Central Water Authority,full,2
@@ -2190,7 +2190,7 @@ conseil-des-ministres-djibouti,Conseil des Ministres,full,5
 conseil-des-ministres-mauritanie,Le Conseil des Ministres,partial,3
 conseil-des-ministres-rdc,Conseil des Ministres,full,2
 conseil-des-ministres-togo,Conseil des Ministres,full,2
-conseil-national-de-la-statistique-mali,Statistique Conseil National,full,1
+conseil-national-de-la-statistique-mauritania,Conseil National,partial,1
 conseil-national-de-la-statistique-rca,DU CONSEIL NATIONAL DE LA STATISTIQUE,partial,1
 conseil-national-de-la-transition-burkina-faso,CONSEIL NATIONAL DE LA TRANSITION LOI,full,1
 conseil-national-de-transition-tchad,Conseil National de Transition,partial,2
@@ -2199,7 +2199,7 @@ conseil-national-education-benin,Conseil National,partial,1
 conseil-national-normalisation-qualite-mauritanie,Conseil National de Normalisation,partial,1
 conseil-national-statistique-benin,Conseil National,partial,1
 conseil-national-statistique-togo,CONSEIL NATIONAL DE LA STATISTIQUE,full,2
-consejo-nacional-de-estadistica-gnq,Consejo Nacional de Estadística,partial,4
+consejo-nacional-de-estadistica-gnq,CONSEJO NACIONAL DE ESTADISTICAS,partial,1
 conselho-constitucional-mocambique,Conselho Constitucional,partial,4
 conselho-de-ministros-angola,Conselho de Ministros,full,8
 conselho-de-ministros-guine-bissau,Conselho de Ministros,partial,1
@@ -2211,6 +2211,7 @@ conselho-municipal-de-nampula,Conselho Municipal de Nampula. Pereira,full,1
 conselho-nacional-de-ciberseguranca-angola,Conselho Nacional de Cibersegurança,partial,2
 conselho-nacional-de-estatistica-angola,Conselho Nacional de Estatística,partial,3
 conselho-superior-da-magistratura-judicial-angola,O Conselho Superior da Magistratura Judicial,full,1
+conselho-superior-de-estatistica-mozambique,Conselho Superior de Estatística,partial,2
 conservator-of-mortgages-mauritius,Conservator of Mortgages,full,1
 conservatoria-do-registo-predial-angola,Registo Predial,partial,3
 conservatoria-registo-entidades-legais-mozambique,Registo de Entidades Legais,partial,3
@@ -3360,7 +3361,7 @@ ethiopian-public-health-institute,Ethiopian Public Health Institute,full,2
 ethiopian-securities-exchange,Ethiopian Securities Exchange,full,1
 ethiopian-shipping-and-logistics,Ethiopian Shipping and Logistics,full,1
 ethiopian-statistical-service,Ethiopian Statistical Service,full,3
-ethiopian-statistics-service,Ethiopian Statistics Service,full,6
+ethiopian-statistics-service,Ethiopian Statistics Service,full,5
 ethswitch,EthSwitch,full,9
 etisalat-egypt,Etisalat Egypt,full,1
 etrilabs,EtriLabs,full,1
@@ -4390,7 +4391,7 @@ house-of-africa,House of Africa,full,1
 house-of-fiscal-wisdom,HOUSE OF FISCAL WISDOM,full,1
 house-of-representatives-egypt,House of Representatives,full,1
 house-of-representatives-ict-committee-egypt,House of Representatives' Communications Committee,partial,1
-house-of-representatives-liberia,House of Representatives,full,7
+house-of-representatives-liberia,House of Representatives,full,8
 house-of-representatives-libya,House of Representatives,full,5
 house-of-representatives-nigeria,House of Representatives,full,9
 house-of-training-attf,House of Training-ATTF. Elle,full,1
@@ -4675,7 +4676,7 @@ industry-five-group,Industry Five,full,1
 ine-angola,INE Angola,full,1
 ine-guinea-bissau,INE-GB,full,1
 ine-mozambique,August. The INE,full,1
-ine-portugal,INE de Portugal,full,1
+ine-portugal,INE de Portugal,full,2
 ine-sao-tome,Instituto Nacional de Estatistica,acronym,1
 inec-nigeria,Independent National Electoral Commission,acronym,8
 inec-tanzania,Independent National Electoral Commission,acronym,4
@@ -4735,14 +4736,13 @@ inpplc-morocco,INPPLC,full,1
 inrab,INRAB,full,2
 inris,Integrated National Registration Information System,acronym,9
 ins-cameroon,INS Tableau,full,1
-ins-congo,Institut National De La Statistique,acronym,1
+ins-congo,INSTITUT NATIONAL DE LA STATISTIQUE,acronym,1
 ins-guinea,INSTITUT NATIONAL DE LA STATISTIQUE,acronym,1
 ins-mozambique,O Instituto Nacional de Saúde,acronym,1
 ins-niger,Ingénieurs Statisticiens,acronym,1
 insa-ethiopia,Information Network Security Administration,acronym,9
 insae-benin,INSAE,full,1
 insapt,INSAPT,full,1
-insd-burkina-faso,DR-INSD,full,2
 inseed-tchad,INSEED-TCHAD URL,full,1
 inseed-togo,INSEED,full,11
 inseso-gnq,INSESO,full,5
@@ -4760,7 +4760,7 @@ instance-nationale-des-telecommunications-tunisia,Instance Nationale des Téléc
 instant-payments-namibia,Instant Payments Namibia,full,5
 instapay,InstaPay,full,6
 instarc,Instarc,full,1
-instat-gabon,Instat-Gabon,full,1
+instat-gabon,INSTAT GABON,full,2
 instat-madagascar,INSTAT Madagascar,full,2
 institut-economie-rurale-mali,Economie Rurale,partial,1
 institut-les-points,Institut de Sondage Les Points,full,1
@@ -5278,7 +5278,7 @@ kenya-red-cross-society,Kenya Red Cross Society,full,1
 kenya-revenue-authority,Kenya Revenue Authority,full,8
 kenya-school-of-government,Kenya School of Government,full,9
 kenya-space-agency,Kenya Space Agency,full,5
-kenya-statistics-bill-2026,STATISTICS BILL,partial,1
+kenya-statistics-bill-2026,STATISTICS BILL,partial,2
 kenya-union-of-journalists,Kenya Union of Journalists,full,1
 kenya-urban-roads-authority,Kenya Urban Roads Authority,full,1
 kepaletswe-somolekae,Kepaletswe Somolekae,full,1
@@ -6183,7 +6183,7 @@ ministry-of-digital-economy-cote-divoire,Ivorian Ministry of Digital Economy,ful
 ministry-of-digital-transformation-and-telecommunications-sudan,Ministry of Digital Transformation and Telecommunications,full,1
 ministry-of-digital-transition-and-administrative-reform-morocco,Ministry of Digital Transition and Administrative Reform,full,1
 ministry-of-digital-transition-cote-divoire,Minister of Digital Transition and Technological Innovation,partial,2
-ministry-of-economic-planning-and-development-eswatini,Ministry of Economic Planning and Development,full,10
+ministry-of-economic-planning-and-development-eswatini,Ministry of Economic Planning and Development,full,11
 ministry-of-economy-and-finance,Ministry of Economy and Finance,full,1
 ministry-of-economy-and-finance-djibouti,Ministry of Economy and Finance,full,1
 ministry-of-economy-and-finance-korea,Korea's Ministry of Economy and Finance,full,1
@@ -6466,7 +6466,7 @@ ministry-of-natural-resources-and-energy-eswatini,Ministry of Natural Resources 
 ministry-of-natural-resources-malawi,Minister of Natural Resources,partial,1
 ministry-of-nursery-and-primary-education-benin,Ministry of Nursery and Primary Education and ADEA,full,1
 ministry-of-petroleum-and-energy-gambia,Ministry of Energy and Petroleum,full,1
-ministry-of-planning-and-development-ethiopia,Ministry of Planning and Development,full,3
+ministry-of-planning-and-development-ethiopia,Ministry of Planning and Development,full,4
 ministry-of-planning-and-economic-development-sierra-leone,Minister of Planning and Economic Development,partial,1
 ministry-of-planning-economic-development-egypt,Ministry of Planning and Economic Development,full,2
 ministry-of-planning-somalia,Ministry of Planning,full,2
@@ -7873,7 +7873,7 @@ paresi,PARESI,full,1
 parfse,PARFSE,full,1
 pargfm,PARGFM,full,4
 paris-school-of-economics,Paris School of Economics,full,1
-paris21,PARIS21,full,9
+paris21,PARIS21,full,8
 parish-development-model,Parish Development Model,full,3
 parliament-of-botswana,Parliament of Botswana,full,1
 parliament-of-eswatini,Parliament of Eswatini,full,1
@@ -8639,7 +8639,6 @@ sa-sme-fund,SA SME Fund,full,2
 sa-smme-fund,SA-SMME Fund,full,1
 sa-social-assistance-act,Social Assistance Act. SASSA,full,1
 sa-statistics-act-1999,STATISTICS ACT,partial,1
-sa-statistics-amendment-act-2024,Statistics Amendment Act,partial,2
 saaff,South African Association of Freight Forwarders,acronym,1
 sabari-technology,Sabari Technology,full,1
 sabc,South African Broadcasting Corporation,acronym,3
@@ -9319,7 +9318,7 @@ startup-boost-capital,StartUp Boost Capital,full,1
 startup-genome,Startup Genome,full,1
 startup-tunisia,Startup Tunisia,full,1
 startup-uganda,Startup Uganda,full,3
-statafric,STATAFRIC,full,6
+statafric,STATAFRIC,full,9
 state-department-diaspora-affairs-kenya,State Department for Diaspora Affairs,full,1
 state-department-for-broadcasting-and-telecommunications-kenya,State Department for Broadcasting and Telecommunications,full,4
 state-department-for-children-services-kenya,CULTURE AND CHILDREN SERVICES State Department,full,1
@@ -9346,11 +9345,12 @@ stateduc,StatEduc,full,9
 stateman-software-telecom,Stateman Software,partial,1
 statewatch,Statewatch,full,1
 statistics-advisory-council-mauritius,Statistics Advisory Council,full,1
-statistics-board-mauritius,Statistics Board,full,1
+statistics-board-mauritius,Statistics Board,full,5
 statistics-botswana,Statistics Botswana,full,9
+statistics-council-south-africa,South African Statistics Council,full,2
 statistics-denmark,Statistics Denmark,full,3
 statistics-mauritius,Statistics Mauritius,full,10
-statistics-norway,Statistics Norway,full,4
+statistics-norway,Statistics Norway,full,5
 statistics-portugal,Statistics Portugal,full,1
 statistics-sierra-leone,Statistics Sierra Leone,full,10
 statistics-south-africa,Statistics South Africa,full,9
