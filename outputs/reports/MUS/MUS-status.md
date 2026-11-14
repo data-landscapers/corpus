@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 203
+sources_cited: 206
 sections_written: 39
 not_established: 1
 acquire_lines: 29
@@ -257,7 +257,7 @@ Mauritius scores [42.2 out of 100 for ease of resolving a commercial dispute in 
 
 [In 2024 TechCabal described the startup sector as small, with the large rounds attributed to the island reflecting its role as a holding domicile for pan-African operators](https://techcabal.com/2024/04/27/mauritius-ecosystem-feature/). Mauritius ranked [55th in WIPO's Global Innovation Index 2024](https://www.wipo.int/edocs/gii-ranking/2024/mu.pdf).
 
-The World Bank's 2025 assessment records [a public sector innovation strategy, a programme to deliver it, and an innovation function covering digital skills and public service innovation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). It names none of the three. Private incubation runs through [a small set of active hubs, among them Turbine, a member of the pan-African AfriLabs network (2020)](https://www.afrilabs.com/hub/turbine-incubator-limited/). The AI City Scheme's [AI Founder permit](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) sets an investment threshold for founders brought in from abroad.
+The World Bank's 2025 assessment records [a public sector innovation strategy, a programme to deliver it, and an innovation function covering digital skills and public service innovation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). It names none of the three. Private incubation runs through [a small set of active hubs, among them Turbine, a member of the pan-African AfriLabs network (2020)](https://www.afrilabs.com/hub/turbine-incubator-limited/). [By November 2026 Turbine said it had helped create 35 start-ups since 2016](https://platformafrica.com/2026/11/04/la-turbine-innovation-challenge-2026-seven-start-ups-present-their-solutions/). [In September 2024 the central bank launched Innov8, a fintech hub with a regulatory sandbox](https://www.bom.mu/media/media-releases/media-release-bank-mauritius-launches-its-innovation-hub-innov8). [The 143-acre Cote d'Or Technopole was inaugurated in October 2023](https://platformafrica.com/2023/10/25/landscope-mauritius-launches-the-cote-dor-technopole/), and no occupancy figure has been found. The AI City Scheme's [AI Founder permit](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) sets an investment threshold for founders brought in from abroad.
 
 ## Capacity
 
