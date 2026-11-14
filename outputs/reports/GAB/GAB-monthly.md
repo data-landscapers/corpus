@@ -3,9 +3,9 @@ title: Gabon — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: GAB
-ledger_rows: 39
+ledger_rows: 41
 not_held: 11
-record: 195a2f24d723
+record: 69e1ffd4cb67
 ---
 
 # News, Oct – Nov 2026
@@ -40,6 +40,8 @@ record: 195a2f24d723
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -95,6 +97,22 @@ Gabon promulgated by decree on 5 October 2026 a law ratifying its ordinance on s
 **[Gabon : l’identification formelle des utilisateurs de réseaux sociaux devient obligatoire](https://gabonmediatime.com/gabon-lidentification-formelle-des-utilisateurs-de-reseaux-sociaux-devient-obligatoire/)** — Gabon Media Time, 19 October 2026
 
 Gabon's law 003/2026 of 5 October 2026, published on 9 October, requires individuals and legal entities using social networks and online platforms to formally identify themselves. Gabon Media Time reports that article 4 does not say what documents are needed, how identity will be checked or how existing accounts are treated. It also does not make the personal identification number mandatory for this purpose.
+
+</div>
+
+</div>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection authority activity</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Données personnelles : L'APDPVP sensibilise à Port-Gentil](https://www.union.sonapresse.com/fr/donnees-personnelles-lapdpvp-sensibilise-port-gentil)** — L'Union - Sonapresse, 12 November 2026
+
+Barely 24 of about 300 Port-Gentil firms compliant with data protection law, per regulator's campaign.
 
 </div>
 
@@ -595,6 +613,20 @@ Summarised under [Data Exchange](#data-exchange).
 **[Allocation de rentrée scolaire 2027-2028 : la CPPF accélère sa révolution numérique](https://www.gabonreview.com/allocation-de-rentree-scolaire-2027-2028-la-cppf-accelere-sa-revolution-numerique/)** — GabonReview, 6 November 2026
 
 Gabon's civil-service pension and family fund (CPPF) opened collection of school certificates for the 2027-2028 school allowance on 5 November 2026. Parents and heads enter them online on the BAANA platform. Greater Libreville goes paperless, and the campaign closes on 1 February 2027. The previous round covered 71,412 beneficiaries and XAF 4.36 billion.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National monitoring and evaluation guide on SNISE</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Gabon se dote d’un Guide national de suivi-évaluation des projets de développement](https://www.gabonews.com/fr/actus/infrastructures/article/le-gabon-se-dote-d-un-guide-national-de-suivi)** — Gabonews, 13 November 2026
+
+Presented 11 Nov 2026 with UNDP; runs on SIGIP's SNISE module, tablet field collection via KoboToolbox.
 
 </div>
 
