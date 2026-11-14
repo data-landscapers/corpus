@@ -6,7 +6,7 @@ region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 206
+sources_cited: 208
 sections_written: 39
 not_established: 0
 acquire_lines: 37
@@ -266,7 +266,7 @@ The state's own systems are bought in rather than built.
 ### Innovation ecosystem
 <!-- tech.innovate -->
 
-[Chad is not among the 133 economies ranked in the WIPO Global Innovation Index 2024](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-economy-profiles.html). [Its incubators are two N'Djamena hubs: Wenaklabs, founded in 2014, and Chad Innovation, running since 2018 and affiliated to AfriLabs](https://www.afrilabs.com/hub/chad-innovation-hub/). [Wenaklabs hosts the Francophonie's D-CLIC programme, launched in April 2026 as Makers Tchad](https://lendjampost.com/tchad-le-programme-d-clic-lance-une-nouvelle-generation-de-jeunes-innovateurs/).
+[Chad is not among the 133 economies ranked in the WIPO Global Innovation Index 2024](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-economy-profiles.html). [AfriLabs lists two N'Djamena hubs: Wenaklabs, founded in 2014, and Chad Innovation, running since 2018 and affiliated to AfriLabs](https://www.afrilabs.com/hub/chad-innovation-hub/). [Wenaklabs hosts the Francophonie's D-CLIC programme, launched in April 2026 as Makers Tchad](https://lendjampost.com/tchad-le-programme-d-clic-lance-une-nouvelle-generation-de-jeunes-innovateurs/). [In August 2025 the University of N'Djamena opened its first incubator, calling for a cohort of 25 founders](https://lendjampost.com/tchad-luniversite-de-ndjamena-lance-son-premier-incubateur-pour-jeunes-entrepreneurs/). [In May 2026 the employment office's PROJIACE programme selected 25 of more than 600 projects for incubation and acceleration](https://aspa.africa/projiace-onape-mise-sur-25-talents/).
 
 [In 2025 Telemedan, founded by Abakar Mahamat, delivered healthcare to remote areas through solar-powered kiosks](https://www.wearetech.africa/en/fils-uk/solutions/telemedan-delivers-healthcare-to-rural-chad-through-solar-powered-kiosks). [The Ministry of Health and the World Bank back it](https://www.wearetech.africa/en/fils-uk/solutions/telemedan-delivers-healthcare-to-rural-chad-through-solar-powered-kiosks). [Konoom, an N'Djamena payments startup launched in 2025, holds a COBAC licence for its wallet](https://www.wearetech.africa/fr/fils/solutions/tchad-konoom-elargit-lacces-aux-paiements-numeriques-grace-a-ses-plateformes-web-et-mobiles). [In 2025 a minority of tracked companies had raised venture or private-equity money](https://tracxn.com/d/geographies/chad/__X7MOg_mj6hlGsfcYAfCVTwrTHUV9CEtvGRPGiU4sUFE).
 
