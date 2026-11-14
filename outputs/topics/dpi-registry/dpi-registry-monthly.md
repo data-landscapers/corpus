@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MLI; MRT; MUS; MAR; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7510323fb3f5
+record: 80170f647646
 ---
 
 # News, Oct – Nov 2026
@@ -601,6 +601,20 @@ Liberia's National Elections Commission chair, Jonathan Weedor, said on 21 Octob
 </div>
 
 ## Madagascar
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registre Social Unique (RSU)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Recrutement d'un cabinet pour la conception, le développement et l'accompagnement du système d'information du Registre Social Unique – MIS RSU](https://calloffre.com/ao/recrutement-d-un-cabinet-pour-le-developpement-mis-du-rsu-1f8490a0-9624-4ba1-808f-03f2d408e19e)** — Ministère de la Population et des Solidarités (via Calloffre), 15 October 2026
+
+Madagascar's Ministry of Population and Solidarity sought a firm on 15 October 2026 to design and build the information system for its single social registry. The work is funded by an IDA credit under the social safety nets and resilience project. Expressions of interest closed on 29 October 2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

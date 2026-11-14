@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: MDG
 ledger_rows: 28
 not_held: 5
-record: 64b292fe042e
+record: a561c1e1d0cc
 ---
 
 # News, Oct – Nov 2026
@@ -274,7 +274,7 @@ Madagascar's development intervention fund FID is tendering for mobile-money pro
 
 **[Recrutement d'un cabinet pour la conception, le développement et l'accompagnement du système d'information du Registre Social Unique – MIS RSU](https://calloffre.com/ao/recrutement-d-un-cabinet-pour-le-developpement-mis-du-rsu-1f8490a0-9624-4ba1-808f-03f2d408e19e)** — Ministère de la Population et des Solidarités (via Calloffre), 15 October 2026
 
-Ministry calls for a firm to design and build the RSU information system under PFSR, closing 29 October 2026.
+Madagascar's Ministry of Population and Solidarity sought a firm on 15 October 2026 to design and build the information system for its single social registry. The work is funded by an IDA credit under the social safety nets and resilience project. Expressions of interest closed on 29 October 2026.
 
 </div>
 

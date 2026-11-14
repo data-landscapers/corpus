@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 subject: dpi.mis
 places: AGO; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 702334090ad3
+record: d26059442e17
 ---
 
 # News, Oct – Nov 2026
@@ -487,7 +487,7 @@ JMERC is seeking a firm for a second phase of GPE-KIX support to education data 
 
 **[ESWATINI TARGETS EDUCATION DATA GAPS WITH 15-MONTH ACTION PLAN](https://eswatinipositivenews.online/eswatini-targets-education-data-gaps-with-15-month-action-plan/)** — Eswatini Positive News, 16 October 2026
 
-A consultant presented a draft Data Use Action Brief for October 2026 to December 2027 at the Eswatini EMIS Data Use Workshop on 16 October 2026. Eight working groups listed 22 decisions needing better evidence, such as teacher deployment and new classrooms. The brief proposes validation checks in the termly EMIS tool, an annual data calendar, quarterly data-quality checks and training for school focal persons.
+Eswatini's EMIS Data Use Workshop met on 16 October 2026. A consultant presented a draft action brief running to December 2027. Eight working groups named 22 decisions needing better data, such as teacher deployment. The brief proposes validation checks in the termly EMIS tool, an annual data calendar and quarterly quality checks.
 
 </div>
 
@@ -976,7 +976,7 @@ Université de Nouakchott launched a blockchain-based platform on 10 November 20
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Siraj education platform</p>
+<p class="monthly-story__name">Siraj (SIRAGE) education platform</p>
 
 <div class="bulletin-item" markdown="1">
 

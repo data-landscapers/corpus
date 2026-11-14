@@ -3,7 +3,7 @@ type: bulletin
 title: Bulletin
 subtitle: Last updated 12-11-2026 at 20:32 — Covering sources published on 13 November 2026
 window_start: 2026-11-13
-window_end: 2026-11-13
+window_end: 2026-11-14
 items: 2
 collected_to: 2026-11-12 20:32
 compiled: 2026-11-12 21:20
