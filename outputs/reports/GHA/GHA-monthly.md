@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: GHA
-ledger_rows: 73
+ledger_rows: 74
 not_held: 9
-record: df56d2657fc1
+record: fb06debcf948
 ---
 
 # News, Oct – Nov 2026
@@ -1044,6 +1044,8 @@ Ghana's Petroleum Commission introduced a Digital Permit Application Platform to
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -1151,6 +1153,22 @@ Ghana's communications minister Sam George said every ministry now has an AI foc
 **[BoG to introduce AI directive for financial sector](https://www.citinewsroom.com/2026/10/bog-to-introduce-ai-directive-for-financial-sector/)** — Citi Newsroom, 29 October 2026
 
 The Bank of Ghana is setting up a Data Analytics and AI Department, Governor Johnson Asiama said on 29 October 2026. It is also drafting an AI directive for the financial sector. Speaking in Accra at the launch of the Ghana Statistical Service's Ghana in Numbers 2025, he asked for its data in machine-readable formats.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kosmos Innovation Center AgriTech Challenge</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana Awards $100,000 to Ten Agritech Startups to Expand Agricultural Businesses](https://www.businesstechafrica.co.za/article/ghana-awards-100-000-to-ten-agritech-startups-to-expand-agricultural-businesses)** — Business Tech Africa, 9 November 2026
+
+Kosmos Innovation Center and Mastercard Foundation: US$100,000 to ten agribusinesses, 29 October 2026.
 
 </div>
 
