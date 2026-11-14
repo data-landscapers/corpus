@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 231
+sources_cited: 232
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -303,7 +303,7 @@ Education is [the single largest driver of the country's decade of governance im
 ### Research institutions
 <!-- capacity.research -->
 
-In September 2025 the [West and Central African research network announced Sierra Leone's connection to its backbone, with five other states](https://wacren.net/en/news/wacren-connects-six-new-countries-and-sets-foundation-for-climate-programme/). [The European Commission co-funds the connection](https://wacren.net/en/news/wacren-connects-six-new-countries-and-sets-foundation-for-climate-programme/). Knowledge production in computing and engineering rests on a small number of public institutions. [They are the University of Sierra Leone, whose Fourah Bay College awards degrees in electrical, electronic, mechanical and civil engineering, and Njala University](https://www.usl.edu.sl/programs?campus=fbc). Neither the scale of that output nor Sierra Leone's public spending on research and development had been published as at August 2026.
+[The West and Central African research network reports Sierra Leone connected to its backbone by December 2025, one of six states added that year](https://wacren.net/wp-content/uploads/2026/05/WACREN-2025-ANNUAL-REPORT.pdf). [The European Commission co-funds the connection](https://wacren.net/en/news/wacren-connects-six-new-countries-and-sets-foundation-for-climate-programme/). Knowledge production in computing and engineering rests on a small number of public institutions. [They are the University of Sierra Leone, whose Fourah Bay College awards degrees in electrical, electronic, mechanical and civil engineering, and Njala University](https://www.usl.edu.sl/programs?campus=fbc). Neither the scale of that output nor Sierra Leone's public spending on research and development had been published as at August 2026.
 
 [The Center for Information Privacy, Human-Centered Technology and Ethics Research launched in Freetown on 6 October 2026](https://truthmedia.sl/cipher-launched-to-promote-data-protection-cybersecurity-and-digital-privacy/). [It is to research the handling of personal data, train on data-subject rights and feed evidence into data-protection law and policy](https://truthmedia.sl/cipher-launched-to-promote-data-protection-cybersecurity-and-digital-privacy/).
 
