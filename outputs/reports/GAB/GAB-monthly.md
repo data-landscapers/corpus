@@ -3,9 +3,9 @@ title: Gabon — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: GAB
-ledger_rows: 38
+ledger_rows: 39
 not_held: 11
-record: 4c966e8c719c
+record: 583f220df7d2
 ---
 
 # News, Oct – Nov 2026
@@ -421,6 +421,20 @@ Gabon's Comité national économique et financier (CNEF) was to launch financial
 **[État civil : le Gabon face au défi de la modernisation](https://www.gabonreview.com/etat-civil-le-gabon-face-au-defi-de-la-modernisation/)** — GabonReview, 9 October 2026
 
 The workshop preparing Gabon's national civil-registration conferences closed with a diagnosis of badly kept archives, irregular data entry and a Civil Code dating from 1972. Its final report goes to the Interior minister, who sets the calendar.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Taxpayer registration and the register's extension</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DGI : 2ème phase de la campagne de recensement et de régularisation des contribuables](https://gabonmediatime.com/dgi-2eme-phase-de-la-campagne-de-recensement-et-de-regularisation-des-contribuables/)** — Gabonmediatime, 18 October 2026
+
+45-day door-to-door census of informal operators from Akanda; 18 teams on 3 sites; new taxpayers enrolled on Digitax.
 
 </div>
 
