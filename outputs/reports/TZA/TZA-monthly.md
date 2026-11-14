@@ -3,9 +3,9 @@ title: Tanzania — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: TZA
-ledger_rows: 47
+ledger_rows: 50
 not_held: 4
-record: 103b738dd39f
+record: 421fd3d6abce
 ---
 
 # News, Oct – Nov 2026
@@ -202,6 +202,20 @@ Tanzania's Ministry of Finance and Korea Eximbank signed a concessional loan of 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Satellite broadband service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania Opens New Talks With Elon Musk's SpaceX And Starlink Over Investment In Communications Sector](https://www.todaysw.com/2026/10/08/tanzania-opens-new-talks-with-elon-musks-spacex-and-starlink-over-investment-in-communications-sector/)** — Today SW, 8 October 2026
+
+Starlink still unlicensed in Tanzania as PM meets SpaceX in London, 7 October 2026; entry subject to TCRA approval.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Regulator's directive on network-infrastructure faults and new fibre installations</p>
 
 <div class="bulletin-item" markdown="1">
@@ -231,6 +245,28 @@ Paratus Tanzania set up a point of presence at the Wingu data centre in Dar es S
 **[Paratus expands its African reach with Tanzania PoP](https://www.connectingafrica.com/fiber-networking/paratus-expands-its-african-reach-with-tanzania-pop)** — Connecting Africa, 27 October 2026
 
 Paratus Tanzania launched a point of presence at the Wingu Data Centre in Dar es Salaam. It links customers to Paratus network routes north to Nairobi via Mombasa and south to Maputo, Johannesburg and Eswatini. The company will offer IP transit, Layer 2 circuits and wholesale capacity to carriers, internet service providers and enterprises.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Broadband population coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/tanzania/)** — International Telecommunication Union (statement by Tanzania), 13 November 2026
+
+Broadband coverage 77% to 94% since 2022; 758 UCSAF towers, 1,301 villages; ITU Council Region D re-election bid.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania urges shift from telecom coverage to meaningful digital access](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-urges-shift-from-telecom-coverage-to-meaningful-digital-access-5669436)** — The Citizen (Tanzania), 13 November 2026
+
+PP-26 Doha speech: 94% broadband coverage, 758 new towers, 1,301 villages connected; ITU Council re-election bid.
 
 </div>
 
@@ -621,6 +657,20 @@ Tanzania's procurement regulator said on 29 October 2026 that the NeST e-procure
 **[Tanzania’s smallholder farmers struggle to benefit from digital agriculture](https://www.aljazeera.com/economy/2026/11/6/tanzanias-smallholder-farmers-struggle-to-benefit-from-digital-agriculture)** — Al Jazeera, 6 November 2026
 
 Smallholders in Dodoma region told Al Jazeera on 6 November 2026 that they have not registered for, or get late answers from, the agriculture ministry's M-Kilimo and e-Kilimo services. A 2024 study counted about 7.2 million registered M-Kilimo farmers and some 400,000 incomplete registrations. The ministry did not respond.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NeST internal procurement audit module</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PPRA introduces digital tool to detect procurement risks early](https://dailynews.co.tz/ppra-introduces-digital-tool-to-detect-procurement-risks-early/)** — Daily News (Tanzania), 13 November 2026
+
+Standardised quarterly audit reports under Regulation 92 from 1,000+ institutions; testing began 12 Nov 2026.
 
 </div>
 
