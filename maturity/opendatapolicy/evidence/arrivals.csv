@@ -528,7 +528,7 @@ UGA,43,2026-01-01-uga-uganda-artificial-intelligence-readiness-assessment-report
 ZAF,52,2026-11-12-zaf-etenders-transparency-portal-publication-policy,2026-11-13,nothing,2026-11-13
 ZAF,53,2026-11-11-zaf-transparency-portal-beta-national-treasury,2026-11-13,nothing,2026-11-13
 CIV,39,2025-01-01-civ-cote-d-ivoire-digital-trade-review-and-next-steps,2026-11-13,instrument,2026-11-13
-ETH,34,2026-06-13-eth-search-datasets-ethiopian-national-agri-data-hub,2026-11-13,,
+ETH,34,2026-06-13-eth-search-datasets-ethiopian-national-agri-data-hub,2026-11-13,capped,2026-11-14
 GAB,24,2026-02-10 Why Africa should sequence not rush into AI,2026-11-13,capped,2026-11-13
 GAB,25,2025-10-24-gabon-2026-digital-budget-156pct,2026-11-13,capped,2026-11-13
 GAB,26,2025-10-07-gabon-egov-legal-framework,2026-11-13,capped,2026-11-13
@@ -542,3 +542,20 @@ RWA,49,2023-01-01-rwa-the-state-of-inclusive-instant-payment-systems-in-africa-s
 UGA,44,2025-10-29-uga-national-energy-compact-for-the-republic-of-uganda,2026-11-13,instrument,2026-11-13
 ZMB,35,2024-04-30-zmb-zambia-eiti-online-fusion-portal-goes-live,2026-11-13,capped,2026-11-13
 ZMB,36,2023-11-26-zmb-faqs-zambia-statistics-agency,2026-11-13,capped,2026-11-13
+BFA,41,2025-12-01-bfa-insd-sds5-schema-directeur-statistique-2026-2030,2026-11-14,instrument,2026-11-14
+BFA,42,2022-03-01-bfa-rapport-diagnostic-de-la-chaine-des-ressources-educatives-au-burkina-f,2026-11-14,instrument,2026-11-14
+CPV,20,2022-01-01-cpv-plano-estrategico-de-desenvolvimento-sustentavel-2022-2026-peds-ii,2026-11-14,instrument,2026-11-14
+GAB,27,2025-01-01-gab-rapport-d-evaluation-a-mi-parcours-de-la-snds-2023-2025,2026-11-14,instrument,2026-11-14
+LBR,30,2020-01-01-lbr-liberia,2026-11-14,old,2026-11-14
+LSO,19,2021-01-01-lso-research-and-innovation-policy,2026-11-14,instrument,2026-11-14
+MDG,17,2026-10-15-mdg-recrutement-d-un-cabinet-pour-la-conception-le-developpement-et-l-acco,2026-11-14,,
+MDG,18,2025-05-27-mdg-rapport-de-l-atelier-de-rencontre-des-producteurs-et-des-utilisateurs,2026-11-14,instrument,2026-11-14
+MRT,39,2025-04-01-mrt-note-annuelle-sectorielle-sur-la-mise-en-oeuvre-nasmo-du-second-plan-d,2026-11-14,instrument,2026-11-14
+NAM,23,2021-01-01-nam-annual-report-2021,2026-11-14,instrument,2026-11-14
+NGA,41,2024-06-01-nga-third-national-strategy-for-the-development-of-statistics-in-nigeria-2,2026-11-14,instrument,2026-11-14
+RWA,50,2019-09-01-rwa-the-third-national-strategy-for-the-development-of-statistics-nsds3-20,2026-11-14,instrument,2026-11-14
+SOM,22,2026-04-07-som-somalia-s-road-to-a-startup-nation-building-a-national-innovation-ecos,2026-11-14,,
+TZA,31,2024-11-06-tza-assessing-the-performance-of-primary-school-information-management-sys,2026-11-14,,
+UGA,45,2020-08-01-uga-plan-for-national-statistical-development-fy2020-21-fy2024-2025,2026-11-14,instrument,2026-11-14
+ZMB,37,2023-07-01-zmb-sector-strategy-plan-for-statistics-ssp-2022-2026,2026-11-14,instrument,2026-11-14
+ZWE,31,2025-12-02-zwe-zimstat-ignites-zimbabwe-s-data-revolution-as-national-systems-shift-t,2026-11-14,capped,2026-11-14
