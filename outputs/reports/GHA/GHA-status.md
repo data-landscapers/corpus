@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 15
-sources_cited: 358
+sources_cited: 361
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -296,6 +296,8 @@ In January 2026 [Margins ID Group, which produces the Ghana Card, won the contra
 
 ### Innovation ecosystem
 <!-- tech.innovate -->
+
+In 2026 [the Ghana Hubs Network counted more than 45 member hubs across every region, up from 15 at its founding in 2017](https://www.giz.de/en/regions/africa/ghana/news/shaping-ghanas-digital-future-impact-ghana-hub-network-ghn). In October 2025 [the state-owned Accra Digital Centre hosted more than 60 technology firms and said it had incubated over 500 start-ups](https://www.pulse.com.gh/story/parliaments-select-committee-on-communications-innovations-visits-ghana-digital-centres-limited-2025100510530537480). [The University of Ghana's Digital Youth Hub was 55 per cent built in October 2024](https://www.graphic.com.gh/news/general-news/ghana-news-dr-bawumia-inspects-work-on-digital-youth-hub-at-ug.html), and no completion has been found.
 
 Ghana ranks [101st of 139 economies in WIPO's Global Innovation Index 2025](https://www.wipo.int/edocs/gii-ranking/2025/gh.pdf). The World Bank's 2025 assessment found [a startup policy, public financing for startups, and public-private arrangements for online service delivery](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A draft Ghana Innovation and Startup Bill went out for public comment in October 2025 with fourteen other digital bills](https://www.africa-legal.com/news/ghana-extends-time-for-feedback-on-new-laws-to-regulate-tech-evolutions-and-emerging-digital-areas/123829). It also found [a public sector innovation strategy and a body whose remit covers public service innovation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Government software has no open source policy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). In July 2026 [the Accra startup KutanaPay, founded in 2023, ran an escrow platform for cross-border trade that releases funds only when both parties confirm delivery](https://www.wearetech.africa/en/fils-uk/solutions/kutanapay-uses-ai-and-blockchain-to-reduce-cross-border-trade-risks).
 
