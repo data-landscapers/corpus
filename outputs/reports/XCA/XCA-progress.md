@@ -1,18 +1,18 @@
 ---
 title: Central Africa — progress report, November 2025 – November 2026
-compiled: 2026-11-13
-period: 2025-11-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2025-11-01 to 2026-11-14
 place: XCA
-ledger_rows: 71
+ledger_rows: 72
 not_held: 0
-record: a67740d6f361
+record: 9fab7f25cd3a
 ---
 
 # Central Africa: progress report, November 2025 – November 2026
 
-*Compiled 2026-11-13 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-11-14 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 71 bodies, instruments and systems on this place's ledger, 42 changed position between 2025-11-01 and 2026-11-13, 8 did not, 21 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 72 bodies, instruments and systems on this place's ledger, 43 changed position between 2025-11-01 and 2026-11-14, 8 did not, 21 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 133 sources for this place in the window — 34 in the earlier half (2025-11 to 2026-04), 99 in the later (2026-05 to 2026-11). The two halves are comparable, so the comparison is made over the whole window.*
 
@@ -32,7 +32,7 @@ On payments the central bank spent the period arguing with its own members. It [
 
 ### Regional collaboration
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | Africa CDC Central Africa health-data sharing roadmap | Did not exist | [Roadmap sets a six-week deadline for drafting an inter-country convention on cross-border health-data sharing and a four-week deadline for a formal sharing mechanism, to be put to the health ministers of the seven of nine Central African member states that have yet to sign the underlying protocol, after experts worked through data-protection, confidentiality and sovereignty obstacles](https://union.sonapresse.com/index.php/fr/africa-cdc-une-feuille-de-route-ambitieuse-pour-le-partage-des-donnees-sanitaires) | Movement |
 | ARTAC (Central African Telecommunications Regulators Conference) | A standing regional regulators' body with no dated recent record held | [10th Ordinary Session (Kinshasa) adopted revised statutes, internal regulations and financial rules, extended the Executive Committee's mandate to December 2027, recommended a harmonised NGSO framework requiring satellite providers (Starlink, OneWeb, Amazon Kuiper named) to establish terrestrial gateways within ARTAC's jurisdiction and keep citizens' data stored within Africa, and mandated free roaming across Central Africa by 30 June 2026; separately co-organised a sub-regional fibre-infrastructure mapping workshop with the ITU in N'Djamena, 15-18 December 2025. At its 4th extraordinary session in Libreville on 20 October 2026 it set up six permanent technical working groups to harmonise regulation and at the session's close on 21 October adopted revised statutes, rules of procedure and financial regulations and admitted São Tomé and Príncipe's regulator, AGER. The same session fixed ARTAC's headquarters in Cameroon and gave Cameroon's regulator the right to designate the executive secretary](https://techreviewafrica.com/news/7974/cameroon-to-host-artac-headquarters-as-central-african-regulators-deepen-digital-coo) | Movement |
@@ -47,7 +47,7 @@ On payments the central bank spent the period arguing with its own members. It [
 
 ### Public debate and participation in policymaking
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | Independent research on the region's digital systems | Scattered work with no standing body of regional analysis | [Three independent accounts inside a year: criminal capture of a cryptocurrency scheme in the Central African Republic, a country study finding the Republic of Congo's digital ambitions will stall without policy change, and an analysis attributing triple-cost rural connectivity to backhaul spectrum fees (2026-07)](https://techafricanews.com/2026/07/16/why-connecting-rural-congo-costs-three-times-more-than-it-should/) | Movement |
 | Internet shutdowns in the region | ***Baseline not held*** | [Six of at least 15 internet shutdowns recorded on the continent in 2025 were in Central Africa, among them Cameroon, the Central African Republic, Chad and Equatorial Guinea; in Gabon social-media access had been blocked since February 2026, with a gradual lifting announced on 1 April and access still hindered](https://issafrica.org/iss-today/internet-shutdowns-won-t-solve-central-africa-s-political-crises) | ***Baseline not held*** |
@@ -62,13 +62,13 @@ The Central Africa Internet Governance Forum [closed in N'Djamena on 15 October 
 
 ### Strategies, plans and policies
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | CEMAC Regional Financial Inclusion Strategy (SRIF) 2025-2029 | Did not exist; national financial-inclusion strategies existed only in Chad, Cameroon and the Central African Republic, and no member state had a national financial-education strategy | [Sets a financial-inclusion target of 60% by 2029 and 75% by 2032, against a 32% baseline in 2021; six strategic axes and 68 actions across 24 objectives, budgeted at FCFA 43.8bn; developed over 30 months with more than 200 stakeholders across the six member states, World Bank-financed via a regional-institutions capacity project](https://www.beac.int/wp-content/uploads/2025/02/Strat%C3%A9gie-R%C3%A9gionale-dInclusion-Financi%C3%A8re-de-la-CEMAC.pdf) | Movement |
 
 ### Legislation and regulation
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | CEMAC free-movement regime (Additional Act of 2019) | Additional act of 1 April 2019 exempts nationals of the six member states from visas for stays up to 90 days on presentation of a biometric national ID, CEMAC ID, biometric passport or approved CEMAC passport | [Five years after enactment, two national police instructions applied it for the first time, following the fourth CCPAC (Central African police chiefs' committee) security session in Yaoundé; Gabon and Equatorial Guinea are named as continuing to refuse application](https://invest-time.com/2024/09/25/libre-circulation-ouverture-cemac/) | Movement |
 | ECCAS free-movement protocol (Annex VII, 1983 Treaty) | ECCAS founded 18 October 1983 by the former UDEAC members plus the CEPGL states, Angola and Sao Tome and Principe, carrying a free-movement-of-persons-and-goods annex from the outset | [Annex VII is found not effectively implemented over four decades, attributed to poor infrastructure and communication links, political instability and rivalry between heads of state, and routine roadblocks within and across borders; ECCAS itself hibernated 1992-1998](https://rsisinternational.org/journals/ijriss/articles/challenges-to-the-implementation-of-regional-integration-in-eccas-with-respect-to-the-free-movement-of-persons-and-goods) | Stalled |
@@ -76,13 +76,13 @@ The Central Africa Internet Governance Forum [closed in N'Djamena on 15 October 
 
 ### Data protection
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | CEMAC Regulation 01/20 on protection of banking consumers | Community consumer-protection rules for users of banking, microfinance and payment services across the six member states in force since 2021-01-01, mediation provisions since 2023-01-01 (2023-01) | [Community consumer-protection rules for users of banking, microfinance and payment services across the six member states: fair treatment, information and transparency duties, contractual balance, data-protection duties, complaint-handling and mediation](https://bgfibankgabon.bgfi.com/assets/pdf/protection_donnee.pdf) | No change |
 
 ### Standards
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | CEMAC interoperable QR-code payment standard | Piloted nationally as Gabon's MaDigiPaie QR code, launched Libreville 9 December 2025 with more than 1,000 codes deployed at launch | [BEAC and GIMAC launched the community-wide interoperable QR code at Douala, letting any bank, microfinance or mobile-money app scan any merchant's code across all six states through GIMACPAY to EMVCo standards, with 24 institutions already in production as at 29 July; GIMACPAY carried 20.3m transactions worth FCFA 863bn in 2025 (+40% by volume) across 153 participants; a tariff-revision workshop opened 30 July, cutting interoperability tariffs and capping merchant payments at 1%, not yet in force (hoped for 1 January 2027); merchant payment remains under 1% of interoperable traffic (48,605 transactions, FCFA 9.7bn, Q1 2026). The ministerial committee that adopted the regulation homologated standards for automated bills of exchange and automatic direct debit alongside the QR code, so the instrument is wider than this row's name](https://gimac-afr.com/2025/12/09/cemac-madigipaie-revolutionne-leconomie-numerique/) | Movement |
 | GIMAC PCI DSS v4.0.1 certification | Certified under a prior PCI DSS version | [GIMAC's card-data processing and transmission infrastructure recertified to PCI DSS v4.0.1](https://gimac-afr.com/2026/04/10/securite-des-paiements-le-gimac-renouvelle-avec-succes-sa-certification-pci-dss-v4-0-1/) | Movement |
@@ -92,7 +92,7 @@ The Central Africa Internet Governance Forum [closed in N'Djamena on 15 October 
 
 ### AI
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | AfroLeadership proposal to integrate AU data governance into CEMAC AI policy | Did not exist | [AfroLeadership argues the AU Data Policy Framework and a data-justice lens should shape how the CEMAC six approach AI governance, on the ground that AI systems process data at a scale existing governance mechanisms were not built for; the brief itself frames CEMAC as the regional economic community least represented in the wiki's AI material](https://afroleadership.org/de-la-gouvernance-des-donnees-a-la-gouvernance-de-lia-au-sein-de-la-cemac-integrer-le-cadre-politique-de-lua-en-matiere-de-donnees-et-la-justice-des-donnees/) | Movement |
 | BEAC internal AI adoption strategy | Did not exist | [The central bank, from its own resources, opened an international selection for a firm to run an AI maturity diagnostic, draft an internal AI adoption strategy and name priority processes and use cases; the consultancy buys no software or AI deployment](https://www.droitmediasfinance.com/index.php/actualites/droit-tech-fintech/1431-cemac-la-beac-engage-une-etude-pour-une-strategie-interne-dintelligence-artificielle) | Movement |
@@ -106,18 +106,19 @@ The CEMAC additional act on free movement reached national implementing instruct
 
 ### Connectivity
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | Central Africa Peering Forum | Did not exist | [Central Africa's own regional peering event, covering peering, interconnection, routing security and RPKI, closing a 2026 calendar that already ran West Africa's forum in Cotonou (June) and the continental AfPIF in Kigali (August)](https://tech.africa/capf-2026/) | Movement |
 | Central African Backbone | National segments built and interconnected — the Central African Republic's national backbone inaugurated in February 2023 with an interconnection to Congo | [Extending in three directions at once: Congo's 600 km backbone linking Cameroon and the Central African Republic, Cameroon seeking USD 195 million to expand its own, and Congo Telecom stating an ambition to lead regional digital transit (2026-06)](https://techreviewafrica.com/news/6002/congo-telecom-reiterates-ambition-to-lead-digital-transit-and-technology-hub-in-central-africa) | Movement |
 | Central African Republic interconnection through South Sudan | A Juba-Ri Yubu route to the Central African Republic listed by a World Bank study as a proposed link and gap to close, with no link operating (2022-09) | [Announced to reduce dependence on fragile regional networks and improve access to international capacity (2026-05)](https://africabusinessinsight.com/central-african-republic-seeks-new/) | Movement |
+| WACREN research-network reach into Central Africa | No Central African network on the backbone; Chad's TchadREN and Cameroon's RIC listed as members not connected (2020) | [None of the twelve countries on the regional backbone at the end of 2025 is in Central Africa; under the AfricaConnect4 action, whose documentation was finalised and signed in 2025, the network plans to extend to Cameroon's RIC](https://wacren.net/wp-content/uploads/2026/05/WACREN-2025-ANNUAL-REPORT.pdf) | Movement, planned only |
 | Common framework for national emergency telecommunications plans | ***Baseline not held*** | [Eight ECCAS states met in Brazzaville with the ITU and the Central African regulators' assembly to review a model framework each state can adapt into a national emergency telecommunications plan while keeping national arrangements interoperable; no adopted framework or national plan is held](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621) | ***Baseline not held*** |
 | Medusa Africa extension of the Medusa submarine cable | ***Baseline not held*** | [A branch from the Mediterranean system down Africa's Atlantic coast is at study stage: an EU grant of EUR 14.3m for a branching unit and a survey of about 8,000 km to DR Congo, and a US grant of US$1,520,778 for a feasibility study covering up to 22 countries](https://www.submarinenetworks.com/en/systems/asia-europe-africa/medusa/afr-ix-telecom-secures-us-backing-and-%E2%82%AC14,3-million-eu-funding-for-medusa-africa) | ***Baseline not held*** |
 | Nigeria-Equatorial Guinea subsea cable | ***Baseline not held*** | [Signed to expand broadband capacity and regional cybersecurity between West and Central Africa (2026-02)](https://www.connectingafrica.com/fiber-networking/nigeria-equatorial-guinea-subsea-cable-to-strengthen-regional-connectivity) | ***Baseline not held*** |
 
 ### Data Storage
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | National data centres across the region | One national data centre under construction at Brazzaville, about 60 per cent complete in May 2024 | [Four national builds running: Brazzaville at USD 72.8 million and 90 per cent complete by August 2025 for a November launch, Gabon's first Tier III facility inaugurated in July 2026, Cameroon's carrier facility drawing central-bank interest, and Chad negotiating one with Azerbaijan (2026-07)](https://techafricanews.com/2026/07/06/gabon-inaugurates-first-tier-iii-datacenter-to-boost-digital-sovereignty/) | Movement |
 | PIDA data-centre infrastructure prospectus (ECCAS) | Did not exist | [The AU's Programme for Infrastructure Development in Africa (PIDA) published a project prospectus for data-centre infrastructure development framed at ECCAS/regional level, underpinning the digital economy; no financing, sponsor or timetable is stated in the prospectus itself](https://au-pida.org/prospectus/brochure-onepage.php?id=17) | Movement |
@@ -125,20 +126,20 @@ The CEMAC additional act on free movement reached national implementing instruct
 
 ### Cybersecurity
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | ITU regional Cyberdrill (Central Africa) | Twelve prior editions held | [13th ITU regional Cyberdrill convened agencies and defence forces from across Central Africa to test cross-border incident response; Congo's Prime Minister framed national cybersecurity as a sovereignty question at the opening, and Congo's ANSSI is named as the government's technical arm; ITU's own loss and attack-rate figures cited at the opening are not independently held; a first Central Africa cybersecurity conference was separately announced for Brazzaville in June 2026, with no further detail published](https://gouvernement.cg/cybersecurite-des-experts-de-la-sous-region-renforcent-les-strategies-de-riposte/) | Movement |
 
 ### Data Exchange
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | Central Africa Credit Information Bureau (CICA) | Authorised as the community credit information bureau by Governor's Decision 142/GR/2025 of 25 November 2025 | [Launched by the central bank with an international finance institution on a hub-and-spokes model based in Douala, with 61 financial institutions across the six member states connected to the test platform - a community-wide regime for sharing borrower credit data across borders](https://www.ifc.org/fr/pressroom/2026/la-beac-et-la-soci-t-financi-re-internationale-ifc-lancent-officiellement-le-burea0) | Movement |
 | I-CEMAC (INTERPOL border-management project) | Project launched 2019, targeting extension of INTERPOL's I-24/7 network and databases to 40 border points and modernisation of all six CEMAC national INTERPOL bureaux | [Gabon completed four border posts with automated database searches (Eboro, Myo-Kye, Leconi, Port-Gentil, March 2024); Equatorial Guinea extended I-24/7 to ten sites including the Malabo, Bata and Mongomeyen airports; Cameroon's connected sites (Douala/Yaounde) logged more than 6,000 searches in 72 hours](https://www.interpol.int/en/How-we-work/Border-management/Projects/Project-I-CEMAC) | Movement |
 
 ### Digital Payments and Fintech
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | BEAC accession to PAPSS | Not a member | [BEAC formally joined PAPSS, extending the continental real-time cross-border settlement rail into the CEMAC zone, with member-state banks' integration targeted by end-2026; as at 25 August, Cameroonian businesses reported no operational access, and no public list of operational banks, open corridors, tariffs or ceilings has been published. On 9 September 2026 the central bank and the operator held a webinar to accelerate commercial banks' accession, setting out the practical terms of participation and the next steps in the process, the central bank framing it as a move toward African financial sovereignty and reduced dependence on the dollar and the euro.](https://fr.journalducameroun.com/integration-financiere-la-beac-et-le-papss-mobilisent-les-banques-de-la-cemac/) | Movement |
 | CEMAC Regulation 04/18 on payment services | Regulation 04/18 in force since 2019-01-01 (2019-01) | [Regulation 04/18 remains in force and a draft 2026 replacement is under consideration, envisaged to enter into force on 1 January 2027: mandatory strong authentication, a reversed burden of proof on fraud disputes, a protected fund-safeguarding account for payment institutions, market opening to fintechs and aggregators, and a twelve-month regulatory sandbox; the banking commission, the central bank and the industry examined the draft at Libreville on 22 to 24 June 2026, alongside a separate draft on licensing payment service providers, and agreed a lower minimum capital for second-category payment operators and easier use of payment-service distributors](https://businessfinanceint.com/la-cobac-affine-les-futures-regles-des-services-bancaires-et-des-paiements-en-zone-cemac/) | Movement |
@@ -160,20 +161,20 @@ The CEMAC additional act on free movement reached national implementing instruct
 
 ### Registries
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | Reference Manual for Civil Registration and Vital Statistics Systems in Central Africa | Did not exist | [A common framework for registering births and other vital events across the member states, prepared under a World Bank-financed statistical programme with United Nations population-fund support; no implementation date, member-state adoption count or registration target is published](https://wcaro.unfpa.org/en/news/strengthening-population-data-systems-central-africa) | Movement |
 | Regional support for birth registration | The Francophonie organisation's civil registration project, running since 2019, had registered 53,000+ children in Chad and 5,400 in Cameroon's Far North, with the Central African Republic project being launched (2025-08) | [The Francophonie organisation restated continuing support for advancing birth registration across Central Africa (2025-08)](https://www.biometricupdate.com/202508/la-francophonie-supports-birth-registration-efforts-across-central-africa-madagascar) | No change |
 
 ### Sectoral management information systems
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | Regional Disease Surveillance Systems Enhancement Project, Phase IV (REDISSE IV) | Active: US$280m of World Bank financing approved in October 2019 for Angola, the Central African Republic, Chad, the Democratic Republic of the Congo, the Republic of Congo and the ECCAS Commission, to strengthen collaborative disease surveillance and epidemic preparedness | [Closed on 31 May 2025 with US$275.0m disbursed and its outcome rated satisfactory; ICT infrastructure carried a 14% sector share, with DHIS2, integrated disease surveillance and response, and an early-warning system named as its systems](https://documents1.worldbank.org/curated/en/099122325164516725/pdf/BOSIB-1d9c739c-ed31-4406-9dd0-06b8cf26a5f3.pdf) | Closed |
 
 ### National statistics
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | BEAC 2026 balance-of-payments data collection | Did not exist | [BEAC launched the data-collection phase of its 2026 balance-of-payments exercise across the CEMAC zone; no completion date or published output yet](https://www.adiac-congo.com/content/balance-des-paiements-2026-la-collecte-des-donnees-lancee-169853) | Movement |
 | CEMAC harmonised labour-statistics framework | No CEMAC member state runs a regular labour force survey, on the organisers' own statement | [World Bank-financed HISWACA workshop, with ILO technical support, produced a regional methodological guide and a preliminary roadmap for quarterly labour-force surveys across the six member states; CEMAC put informal employment above 65% of jobs bloc-wide and unemployment ranging from 1.1% in Chad to nearly 20% in Gabon; a parallel CEMAC/AFRISTAT industrial-production-index workshop (Douala, 10-14 August) worked toward a binding community statistical regulation](https://www.adiac-congo.com/content/statistiques-du-travail-les-pays-de-la-cemac-renforcent-leurs-capacites-en-la-matiere-171301) | Movement |
@@ -183,7 +184,7 @@ The CEMAC additional act on free movement reached national implementing instruct
 
 ### Geospatial data
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | CREWS Central Africa (hydrometeorological early-warning network) | Did not exist | [Sub-regional observing and forecasting network feeding the WMO's WIS/WHOS systems, with RSMC-Yaounde issuing regional severe-weather guidance and an ECCAS Situation Room operational at CAPC-AC Douala since September 2024, part of the continental AMHEWAS early-warning system; co-financed by the EU's SEWA programme (US$2m) and the World Bank (US$10m, across Chad, the Central African Republic, Rwanda and the DRC). Three further steps are on the record: a November 2025 remote training that had national and regional hydrologists apply satellite precipitation, soil-moisture and water-level altimetry alongside in-situ measurement across the Niger, Chad and Congo basins; a February 2026 agreement on communication and collaboration mechanisms for producing and disseminating early warnings; and a March 2026 regional flood-forecasting training with a data-management framework spanning the community and river-basin memberships](https://wmo.int/media/project-update/regional-training-strengthens-flood-forecasting-central-africa) | Movement |
 | GERNAC Earth-observation services for water and natural resources (GMES and Africa, CICOS consortium) | ***Baseline not held*** | [The Congo basin river commission CICOS leads the Central African consortium of the GMES and Africa programme. Its first phase installed satellite receiving stations in member states, three of them in Cameroon, monitored water levels and wetlands in the central basin, and produced a smartphone river-navigation application presented to shipowners in May 2021. In July 2024, in its second phase, it trained experts from the six coastal states in oceanographic monitoring with Copernicus marine data](https://www.cicos.int/non-classe/actualites-projet-gmes-africa/) | ***Baseline not held*** |
@@ -196,7 +197,7 @@ Payments infrastructure carries the period's clearest delivery: SYSTAC 2 replace
 
 ### India activities
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | Regional central bank technical cooperation with the Reserve Bank of India | Did not exist | [The two governors agreed to explore technical cooperation on payment systems, financial cybersecurity, artificial intelligence and currency swaps, instant payments and interoperability named as the experience of interest; technical teams are to set priorities](https://centrafrique.news/paiements-la-beac-prend-exemple-sur-linde/) | Movement |
 
@@ -208,19 +209,19 @@ The one external relationship on the ledger is at its first step: the regional c
 
 ### Literacy
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | Media and information literacy digital-skills project | Did not exist | [A USD 166,800 regional project on media and information literacy and digital skills, reported at 66% overall progress with USD 109,943 spent as it reached its scheduled end; no output, reach or evaluation figure is published](https://core.unesco.org/fr/project/3210652071) | Movement |
 
 ### Training and skills
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | African Institute of Informatics (IAI-Cameroun) | Operating, and training the public service ministry's staff under a convention signed on 10 July 2018 (2018-07) | [Operating as an inter-state training institution, with the regional commission opening collaboration on education and digital skills (2026-08)](https://www.journaletudiant.com/enseignement-superieur-iai-cameroun-recoit-la-ceeac/) | Movement, collaboration with the regional commission opened |
 
 ### Access to services
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | Economic inclusion of refugees in Central Africa | Diagnosed under the regional inclusive and resilient value chains project, following a private-sector-for-refugees framework: over 4 million displaced, and only 5 percent of refugees in Chad and the Central African Republic holding national IDs (2024) | [Diagnosed under the regional inclusive and resilient value chains project, following a private-sector-for-refugees framework (2024)](https://thedocs.worldbank.org/en/doc/6e08e3de56af95a203769a1f4f1e7c17-0610062024/original/2024-Technical-Report-UNLOCKING-THE-ECONOMIC-POWER-OF-REFUGEES-IN-CENTRAL-AFRICA.pdf) | No change |
 
@@ -232,13 +233,13 @@ Capacity in this region is held by institutions the repository can name and cann
 
 ### MoUs and other agreements
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | Regional central bank memorandum with the National Bank of Cambodia | Did not exist | [A cooperation and information-exchange framework with a 2027-2028 action plan covering digital transformation, financial inclusion and cybersecurity, and possible interconnection of the two payment systems](https://www.khmertimeskh.com/502045413/nbc-beac-ink-mou-on-financial-cooperation-framework/) | Movement |
 
 ### New investments
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | Digital Business Boost for Africa grant | Did not exist | [A EUR 15m European Union grant, stated as FCFA 9.83bn, covering Cameroon, Gabon, the Democratic Republic of the Congo and Congo, to strengthen the foundations of a safe, inclusive and sustainable digital economy; the implementing bank is named only by nationality and no country split, component list or delivery date is published](https://www.cameroon-tribune.cm/article.html/77749/en.html/promotion-du-numerique-agriculture-durable-un-don-de-36-milliards) | Movement |
 | Central Africa Regional Digital Integration Program (CARDIP, World Bank) | ***Baseline not held*** | [A US$265.5m regional programme in preparation for the six CEMAC states, covering broadband and cross-border links, regulation, data governance, cybersecurity, digital identity, payments and data exchange, and skills; the first phase is to focus on infrastructure in the Central African Republic, Congo, Equatorial Guinea and Gabon, with CEMAC as the coordinating and implementing institution; financing not yet approved](https://africamonitoring.com/news/society/789) | ***Baseline not held*** |
