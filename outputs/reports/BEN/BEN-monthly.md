@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: BEN
-ledger_rows: 35
+ledger_rows: 36
 not_held: 4
-record: 676e6a0beabe
+record: 2ddb098ea6b2
 ---
 
 # News, Oct – Nov 2026
@@ -659,6 +659,20 @@ Benin's 2027 finance bill would count the tax exemption of labelled startups fro
 **[Compte rendu du Conseil des Ministres du 04 nov. 2026](https://sgg.gouv.bj/cm/2026-11-04/)** — Secrétariat général du Gouvernement, République du Bénin, 4 November 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Entrepreneurship support organisations counted</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin Plans Digital Fabrication Hubs to Boost Local Innovation](https://www.ecofinagency.com/news-digital/0511-60528-benin-plans-digital-fabrication-hubs-to-boost-local-innovation)** — Ecofin Agency, 5 November 2026
+
+Adds TechnoServe 2023 mapping: 278 support organisations at end-2022, 46% in Littoral; ADPME 2025-2029 plan.
 
 </div>
 
