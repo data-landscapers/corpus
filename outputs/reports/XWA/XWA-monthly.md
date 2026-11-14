@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: XWA
-ledger_rows: 24
+ledger_rows: 30
 not_held: 1
-record: 8451667c6a06
+record: 6b5ff3ca175d
 ---
 
 # News, Oct – Nov 2026
@@ -18,6 +18,8 @@ record: 8451667c6a06
 <a href="#instruments-and-harmonisation">Instruments and harmonisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#coordination-and-collaboration">Coordination and collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity-and-inclusion">Capacity and inclusion</a>
 </nav>
@@ -161,6 +163,8 @@ The ECOWAS Network of Electoral Commissions (ECONEC) has adopted guidelines on t
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#national-statistics">National statistics</a>
@@ -231,6 +235,20 @@ At the 8th annual meeting of the UEMOA credit information bureau, speakers said 
 **[Sahel Confederation, Togo Set January 2027 Deadlines for Customs Data Coordination](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination)** — Ecofin Agency, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
 
 Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Nigeria-Benin-Cameroon joint digital customs declaration system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Customs pilots joint digital system to boost West African trade](https://guardian.ng/business-services/nigeria-customs-pilots-joint-digital-system-to-boost-west-african-trade/)** — The Guardian Nigeria, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
+
+Nigeria Customs said on 14 November 2026 that it is piloting a joint digital customs system with Benin and Cameroon. A declaration cleared in Nigeria becomes the receiving country's manifest, with AI translation between English and French. The ECOWAS Commission pledged support for a joint border post at Seme-Krake.
 
 </div>
 
@@ -418,6 +436,58 @@ The BCEAO opened applications for the first cohort of its Financial Innovation L
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Homologated PI-SPI business APIs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liste actualisée des API Business PI-SPI homologuées par la BCEAO au 9 novembre 2026](https://www.bceao.int/fr/communique-presse/liste-actualisee-des-api-business-pi-spi-homologuees-par-la-bceao-au-9-11-2026)** — BCEAO, 9 November 2026
+
+Update of 9 Nov 2026: 34 participants cleared to offer integrated payment services over PI-SPI.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liste des API Business PI-SPI homologuées par la BCEAO (novembre 2026)](https://www.bceao.int/sites/default/files/2026-11/liste_des_api-business_pi-spi_homologuees_Nov_2026-11-09.pdf)** — BCEAO, 9 November 2026
+
+34 homologated Business APIs by country, Côte d'Ivoire and Senegal 11 each; banks, e-money issuers, fintechs.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PAPSS and West African Monetary Institute memorandum on local-currency payments</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PAPSS and WAMI renew partnership to advance cross-border payments in West Africa](https://techreviewafrica.com/news/8330/papss-and-wami-renew-partnership-to-advance-cross-border-payments-in-west-africa)** — Tech Review Africa, 14 November 2026
+
+The Pan-African Payment and Settlement System and the West African Monetary Institute renewed their memorandum on cross-border payments in local currencies, reported on 14 November 2026. The signing date was not stated. It targets adoption in Nigeria, Ghana, Sierra Leone, The Gambia, Liberia and Guinea.
+
+</div>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS Court electronic case management system (ECMS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ECOWAS Court to review judicial procedures amid new legal, digital reforms](https://guardian.ng/news/ecowas-court-to-review-judicial-procedures-amid-new-legal-digital-reforms/)** — The Guardian Nigeria, 13 November 2026
+
+Retreat 16-20 Nov 2026 to set ECMS, virtual-sitting and case-management rules; backlog figures undisclosed.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -429,6 +499,20 @@ The BCEAO opened applications for the first cohort of its Financial Innovation L
 **[ECOWAS launches platform for tracking regional projects](https://apanews.net/ecowas-launches-platform-for-tracking-regional-projects/)** — APAnews, 15 October 2026
 
 The ECOWAS Commission launched an automated platform in Abuja to plan, coordinate and monitor projects under its Community Development Programme. It did not say what the platform does, how the public can use it or how results will be measured.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOVISA regional visa portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ECOWAS convenes technical review of the ECOVISA portal for seamless regional travel](https://www.ecowas.int/ecowas-convenes-technical-review-of-the-ecovisa-portal-for-seamless-regional-travel/)** — ECOWAS, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+Dakar, 10-12 Nov 2026; prototype built with TradeMark Africa; user acceptance testing and pilot next.
 
 </div>
 
@@ -473,6 +557,28 @@ The ECOWAS Commission and the West African Monetary Agency opened an experts' me
 **[Community Sectoral Statistics Yearbook: ECOWAS Takes Another Step Toward Consolidating Its Harmonized Regional System](https://www.ecowas.int/community-sectoral-statistics-yearbook-ecowas-takes-another-step-toward-consolidating-its-harmonized-regional-system/)** — ECOWAS Commission, 4 November 2026
 
 ECOWAS statisticians are meeting in Lomé from 3 to 6 November 2026. They are reviewing the first draft of the Commission's Yearbook of Sectoral Statistics. The workshop checks the indicators and fills data gaps. The draft then goes to the Regional Technical Committee. The World Bank funds the work through the PHASAO and PHASAOC projects.
+
+</div>
+
+</div>
+
+## Coordination and collaboration
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Coordination and collaboration">
+<a href="#ict-industry">ICT Industry</a>
+</nav>
+
+### ICT Industry
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">World Bank E-GATE e-commerce programme for small businesses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a>
+
+Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
 
 </div>
 

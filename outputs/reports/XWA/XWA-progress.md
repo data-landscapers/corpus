@@ -3,18 +3,18 @@ title: West Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-14
 period: 2025-11-01 to 2026-11-14
 place: XWA
-ledger_rows: 136
+ledger_rows: 143
 not_held: 1
-record: 2ee595b3d4ba
+record: 0fd22d389a0e
 ---
 
 # West Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-14 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 136 bodies, instruments and systems on this place's ledger, 75 changed position between 2025-11-01 and 2026-11-14, 20 did not, 40 carry no stated baseline, and 1 is ***Not held*** at both ends.*
+*Of 143 bodies, instruments and systems on this place's ledger, 76 changed position between 2025-11-01 and 2026-11-14, 20 did not, 46 carry no stated baseline, and 1 is ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 282 sources for this place in the window — 74 in the earlier half (2025-11 to 2026-04), 208 in the later (2026-05 to 2026-11). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 296 sources for this place in the window — 75 in the earlier half (2025-11 to 2026-04), 221 in the later (2026-05 to 2026-11). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -187,6 +187,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 | SIGMAT (ECOWAS interconnected transit management system) | Operating on major corridors since 2019 | [A forward roadmap presented to the World Customs Organization and deployment agreed at three further border posts; the e-Hub and the regional guarantee system remain roadmap items](https://www.ecowas.int/ecowas-presents-sigmat-at-the-world-customs-organization-2026-technology-conference-in-abu-dhabi/) | Movement, marginal |
 | AES and Togo customs IT interconnection | Pilot interconnection of the Togo and Mali customs systems via Burkina Faso on the Lomé-Bamako corridor, operational from 2025-03-10 | [Pilot still the operating position; the four customs administrations set 31 January 2027 for a technical unit supervising interconnected customs data flows, after committing in July 2024 to deploy the interconnection at every transit office by 15 November 2024](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination) | No change |
 | Automated routine health data transfer to WAHO | ***Baseline not held*** | [A first-phase pilot of automated transfer of routine DHIS2 data from The Gambia, Liberia, Sierra Leone and Togo to the West African Health Organisation](https://atlanticinfos.tg/2026/03/08/benin-waho-initie-la-mise-en-oeuvre-du-partage-automatise-des-donnees-de-sante-de-routine-phase-1/) | ***Baseline not held*** |
+| Nigeria-Benin-Cameroon joint digital customs declaration system | ***Baseline not held*** | [A declare-once system under which a declaration cleared by Nigerian customs becomes the receiving country's manifest, with AI translation between English and French; ECOWAS pledged support for a Seme-Krake joint border post](https://guardian.ng/business-services/nigeria-customs-pilots-joint-digital-system-to-boost-west-african-trade/) | ***Baseline not held*** |
 | UEMOA credit information bureau (BIC) | ***Baseline not held*** | [Operated for about a decade by Creditinfo West Africa under the central bank's licence, receiving credit data from banks, financial institutions, large utilities and the larger microfinance institutions, which must consult its reports before lending; a microfinance institution is bound to report only above FCFA 2bn in savings or loans outstanding over two consecutive years, which in Burkina Faso covered 20 of 120 licensed institutions at end-2025; client consent is stated as mandatory, and a lender in one state can consult records across all eight](https://cfinance.news/article/credits-et-gestion-du-risque-lengagement-et-la-responsabilite-des-acteurs-pour-des-donnees-fiables-au-centre-de-la-8e-rencontre-annuelle-du-bic-uemoa/) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS
@@ -223,6 +224,8 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 | Banking Commission sanctions on electronic-money issuers | ***Baseline not held*** | [A warning and a fine of FCFA 38m on a Senegal-based electronic-money issuer for governance, risk-management, prudential and anti-money-laundering failings; the issuer was not named](https://leconomistesenegal.com/lumoa-sanctionne-un-etablissement-de-monnaie-electronique-implante-au-senegal/) | ***Baseline not held*** |
 | BCEAO Financial Innovation Laboratory (LIF-BCEAO) | None held | [The monetary union's central-bank regulatory sandbox, created on 8 April 2025, opened its first cohort to fintechs and licensed institutions of the union on 14 October 2026: supervised tests of three to six months with some rules temporarily eased, crypto-asset projects excluded, client consent and compensation required, and a participation certificate at the end that is neither an authorisation nor a licence](https://beninwebtv.com/en/the-bceao-opens-its-tests-to-fintechs-applications-expected-before-november-30/) | ***Baseline not held*** |
 | Harmonised union framework for financial-services consumer protection | ***Baseline not held*** | [Listed by the central bank among its actions in progress, with stakeholder consultation on the framework, alongside a revision of e-money rules on ring-fenced and inactive accounts and deposit-guarantee cover, and observatories of financial-service quality to be set up in member states lacking one; the protections then in place rested on existing payment-system, banking and complaint-handling rules](https://www.findevgateway.org/sites/default/files/users/user346/6-%20Risques%20des%20SFN%20et%20am%C3%A9lioration%20de%20la%20protection%20des%20consommateurs_BCEAO.pdf) | ***Baseline not held*** |
+| Homologated PI-SPI business APIs | No figure held | [34 participants cleared to connect businesses' systems to the instant payment platform, 11 each in Côte d'Ivoire and Senegal and three each in Burkina Faso, Mali and Niger](https://www.bceao.int/fr/communique-presse/liste-actualisee-des-api-business-pi-spi-homologuees-par-la-bceao-au-9-11-2026) | ***Baseline not held*** |
+| PAPSS and West African Monetary Institute memorandum on local-currency payments | ***Baseline not held*** | [The pan-African settlement system and the monetary institute renewed their memorandum on cross-border payment in local currencies across the West African Monetary Zone, targeting adoption in Nigeria, Ghana, Sierra Leone, The Gambia, Liberia and Guinea](https://techreviewafrica.com/news/8330/papss-and-wami-renew-partnership-to-advance-cross-border-payments-in-west-africa) | ***Baseline not held*** |
 | Union electronic money and large-microfinance position | ***Baseline not held*** | [Union-wide electronic-money outstandings rose 35.2 per cent to CFAF 1,923.2 billion at 31 December 2025 and electronic-money accounts reached 172.9 million, of which only 60.6 million, 35.1 per cent, were active. Senegal held 29.7 per cent of outstandings and 26.5 per cent of large-microfinance assets, leading on both, with CFAF 1,234.3 billion of microfinance assets ahead of Cote d'Ivoire's CFAF 1,226.7 billion and Burkina Faso's CFAF 889.4 billion, the three together holding 71.9 per cent of the union's large-institution assets; Senegal hosts 81 large institutions against Burkina Faso's 50, Togo's 47 and Cote d'Ivoire's 43](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/) | ***Baseline not held*** |
 
 ### Sectoral management information systems
@@ -232,6 +235,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 | Digital monitoring platform for the continental demographic dividend roadmap | Did not exist | [Eight West African countries are taking part in the platform's pilot phase, at a regional meeting in Abidjan from 7 to 9 September 2026 whose sessions test and improve the tool before wider deployment.](https://fraternite.bj/dividende-demographique-le-benin-et-7-pays-ouest-africains-harmonisent-leurs-donnees/) | Movement |
 | West African Police Information System (WAPIS) | The programme closed and was handed over to the regional community on 8 April 2025, with EUR 38m spent, 729,000 records in national databases by early 2025 and 14 countries connected to the international police network; Benin's fingerprint identification system entered use under it on 30 September 2025 (2025-09) | [The Gambia launched a criminal fingerprint identification system under the programme on 28 April 2026, funded by the European Union and implemented by INTERPOL with ECOWAS support; no regional platform operating date, member-state coverage count or post-handover funding is held](https://www.eeas.europa.eu/delegations/gambia/gambia-launches-automated-fingerprint-identification-system-afis-strengthen-criminal-investigations_en) | Movement |
 | ASRII Digital Platform | ***Baseline not held*** | [Twenty core participants trained across the Commission's directorates with the Directorate of Research and Statistics named as single focal point; the platform is to replace manual collection with submission, validation, automated computation of integration scores and dissemination, and is to be used to evaluate member states' policy implementation and track commitments across sectors. No integration score has been published (2026-08)](https://www.ecowas.int/ecowas-commission-and-african-union-conclude-asrii-digital-platform-training-with-high-level-engagement-with-the-secretary-general/) | ***Baseline not held*** |
+| ECOWAS Court electronic case management system (ECMS) | ***Baseline not held*** | [The Community Court of Justice is preparing to deploy an electronic case management system, with guidelines on case management and a policy on virtual sittings due at its November 2026 retreat](https://guardian.ng/news/ecowas-court-to-review-judicial-procedures-amid-new-legal-digital-reforms/) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
@@ -239,6 +243,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 |---|---|---|---|
 | ECOWAS Community Development Programme tracking platform | Did not exist | [An automated platform to programme, coordinate and monitor regional projects and give citizens access to project data; its functions, public-access terms and indicators are not stated](https://apanews.net/ecowas-launches-platform-for-tracking-regional-projects/) | Movement |
 | Strengthening Tax Administration Capacity Project | Did not exist | [A regional tax administration forum project financed by a US$5.52m grant from a development fund's transition support facility, with implementation running to 30 July 2030 under a forum-hosted project implementation unit and a multi-stakeholder steering committee](https://www.afdb.org/en/news-and-events/press-releases/african-development-fund-provide-552-million-grant-west-african-tax-administration-forum-boost-domestic-revenue-mobilization-91508) | Movement |
+| ECOVISA regional visa portal | ***Baseline not held*** | [A single regional visa platform under the 2011 Supplementary Act, built as a prototype with TradeMark Africa support; member-state immigration, visa and IT officials produced an assessment and priority actions ahead of user acceptance testing and a pilot](https://www.ecowas.int/ecowas-convenes-technical-review-of-the-ecovisa-portal-for-seamless-regional-travel/) | ***Baseline not held*** |
 | ECOWAS pilot on VAT from cross-border digital transactions | ***Baseline not held*** | [A pilot with Sierra Leone to improve VAT collection on cross-border digital transactions, presented by the ECOWAS Commission against a regional VAT share of about 31.4% of tax revenue and a 33% target; the regional tax administration forum said it was developing a regional tax data platform](https://www.afdb.org/en/news-and-events/african-development-bank-seminar-advances-vat-digitalization-across-west-africa-94305) | ***Baseline not held*** |
 
 ### National statistics
@@ -273,6 +278,12 @@ The union's credit bureau [binds microfinance institutions to report only above 
 <!-- /narrative -->
 
 ## Coordination and collaboration
+
+### ICT Industry
+
+| Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
+|---|---|---|---|
+| World Bank E-GATE e-commerce programme for small businesses | ***Baseline not held*** | [A pilot for up to 100 small and medium enterprises in Benin, The Gambia and Guinea covering marketplace onboarding, digital and AI skills and mentoring, with onboarding and training planned for 2027, backed by the China-World Bank Partnership Facility](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets) | ***Baseline not held*** |
 
 ### Innovation ecosystem
 
@@ -315,6 +326,7 @@ West and Central African states [adopted the Cotonou Declaration on 2025-11-18](
 | Body, instrument or system | At 2025-11-01 | At 2026-11-14 | Progress |
 |---|---|---|---|
 | Open e-money accounts in the UEMOA | 209,025,380 accounts (2023) | [248,710,918 accounts (2024-12-31), of which 76,863,533 active, an activity rate of 30.9%](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf) | Movement |
+| Registered refugees and documentation in the four Gulf of Guinea coastal states | 74,021 registered refugees and asylum-seekers in Benin, Côte d'Ivoire, Ghana and Togo (start of 2024) | [135,300 registered at December 2024, 64% of them with access to documentation](https://data.unhcr.org/en/documents/download/116170) | Movement |
 | UEMOA financial inclusion indicators | Synthetic index 0.600; overall use of financial services 73.60% corrected for multiple accounts; e-money use 57.19% (2024) | [Synthetic financial inclusion index 0.616; overall use of financial services 76.06% of adults corrected for multiple accounts; e-money use 60.27% on active accounts, ranging from 7.48% in Niger to 86.89% in Côte d'Ivoire (2025)](https://www.bceao.int/sites/default/files/2026-10/Tableau%20de%20suivi%20des%20indicateurs%20d%27inclusion%20financi%C3%A8re%20dans%20l%27UEMOA%20%C3%A0%20fin%20d%C3%A9c%202025.pdf) | Movement |
 
 <!-- narrative: capacity -->
