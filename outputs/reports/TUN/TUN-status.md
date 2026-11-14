@@ -6,7 +6,7 @@ region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 278
+sources_cited: 280
 sections_written: 39
 not_established: 0
 acquire_lines: 49
@@ -312,7 +312,7 @@ The state trains and does not report: government digital skills programmes are [
 
 The direction is set on paper. The [Plan de developpement 2026-2030 names artificial intelligence, data analysis, programming and cybersecurity as the skills base of a digital economy it makes a pillar of human-capital development](https://www.arp.tn/loi/project/4315), without attaching targets to any of them. Inside government there is [a strategy for improving digital skills in the public service, pitched at basic skills](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
-The pipeline feeding all this is unusually strong for the region, resting on [Tunisia's tertiary STEM and engineering base](https://www.un.org/osaa/sites/default/files/files/documents/2025/factsheet_stem_education_in_tunisia_re_december_2025.pdf), and the technology employment that absorbs it [skews young](https://www.telecomreviewafrica.com/articles/features/28394-whats-behind-north-africas-digital-generation-tunisia/). The matching between the two runs through the state: Tunisia [operates a job portal for registration, search and applications online, with a separate portal for public sector positions, reachable through several channels (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Engineers are also leaving: [more than 7,000 engineers left in 2025 and the Order of Engineers expects more than 8,000 in 2026, 46,000 having left in ten years against 105,000 on its register](https://fr.linkedin.com/pulse/%C3%A9tude-sur-la-transformation-digitale-et-lia-en-tunisie-arnault-chatel-mdxje).
+The pipeline feeding all this is unusually strong for the region, resting on [Tunisia's tertiary STEM and engineering base](https://www.un.org/osaa/sites/default/files/files/documents/2025/factsheet_stem_education_in_tunisia_re_december_2025.pdf), and the technology employment that absorbs it [skews young](https://www.telecomreviewafrica.com/articles/features/28394-whats-behind-north-africas-digital-generation-tunisia/). [In 2022, 37.9 per cent of tertiary graduates were in science, technology, engineering and mathematics on UNESCO data](https://www.fdiintelligence.com/content/b2e706db-620b-571a-a7e7-74a3dddfd75e). [The national university network run by the El-Khawarizmi computing centre linked about 445 sites for nearly 400,000 users in 2023](https://asren.net/blog/tunisia). The matching between the two runs through the state: Tunisia [operates a job portal for registration, search and applications online, with a separate portal for public sector positions, reachable through several channels (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Engineers are also leaving: [more than 7,000 engineers left in 2025 and the Order of Engineers expects more than 8,000 in 2026, 46,000 having left in ten years against 105,000 on its register](https://fr.linkedin.com/pulse/%C3%A9tude-sur-la-transformation-digitale-et-lia-en-tunisie-arnault-chatel-mdxje).
 
 ### Research institutions
 <!-- capacity.research -->
