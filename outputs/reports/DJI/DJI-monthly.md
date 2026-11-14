@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: DJI
-ledger_rows: 10
+ledger_rows: 12
 not_held: 10
-record: 0939c8facc57
+record: fb2a292f157c
 ---
 
 # News, Oct – Nov 2026
@@ -207,8 +207,40 @@ The Francophonie organisation and Djibouti's education and vocational training m
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geospatial-data">Geospatial data</a>
 </nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Quarterly labour force survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Implementation Status & Results Report: Economic Management and Statistics Development for Policy Making (P171777)](https://documents1.worldbank.org/curated/en/099101426132022240/pdf/P171777-4c140761-b8a7-4372-9100-f528fd060b61.pdf)** — World Bank, 14 October 2026
+
+Oct 2026: SNDS 2025-2029 published; INSTAD building stalled on unpaid USD 1m counterpart, closure Dec 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Third national statistics development strategy (SNDS-3, 2025-2029)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Implementation Status & Results Report: Economic Management and Statistics Development for Policy Making (P171777)](https://documents1.worldbank.org/curated/en/099101426132022240/pdf/P171777-4c140761-b8a7-4372-9100-f528fd060b61.pdf)** — World Bank, 14 October 2026
+
+Summarised under [National statistics](#national-statistics).
+
+</div>
+
+</div>
 
 ### Geospatial data
 

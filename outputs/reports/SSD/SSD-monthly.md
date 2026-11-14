@@ -1,11 +1,11 @@
 ---
 title: South Sudan — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: SSD
-ledger_rows: 7
+ledger_rows: 8
 not_held: 7
-record: 0f31ae7a5378
+record: 25e1d49b72b6
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 0f31ae7a5378
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
@@ -23,6 +25,28 @@ record: 0f31ae7a5378
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
 </nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+</nav>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Bureau of Statistics Act 2024</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PRESIDENT SALVA KIIR SWEARS IN THE BOARD OF DIRECTORS FOR THE NBS](https://nbs.gov.ss/news-detail.php?id=21)** — National Bureau of Statistics, South Sudan, 2 October 2026
+
+Ten-member NBS board sworn in at State House, chaired by Dier Tong Ngor; full member list.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 

@@ -3,9 +3,9 @@ title: Eswatini — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: SWZ
-ledger_rows: 35
+ledger_rows: 36
 not_held: 3
-record: a8d595badfdf
+record: fbfd35753640
 ---
 
 # News, Oct – Nov 2026
@@ -26,6 +26,8 @@ record: a8d595badfdf
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -649,6 +651,28 @@ A magazine account of the same Eswatini pilot of Smart Africa's gender impact as
 **[Minister Savannah vows to continue advocating for women In tech](https://independentnews.co.sz/49218/news/minister-savannah-vows-to-continue-advocating-for-women-in-tech/)** — Independent News Eswatini, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a>
 
 Eswatini's ICT ministry and Smart Africa opened a workshop on 7 October to develop and pilot gender impact assessment tools for digital policy, with Eswatini and The Gambia as pilot countries. Three instruments are to be tested on selected digital policies before validation.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+</nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Economic Census 2025/26</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Economic census to shape business growth and job creation in Eswatini](https://eswatinipositivenews.online/economic-census-to-shape-business-growth-and-job-creation-in-eswatini/)** — Eswatini Positive News, 13 October 2026
+
+Phase Two fieldwork from 14 October 2026; 27,462 active establishments counted in 2019.
 
 </div>
 
