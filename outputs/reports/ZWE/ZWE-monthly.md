@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: ZWE
-ledger_rows: 35
+ledger_rows: 36
 not_held: 5
-record: bc8d0a1a3c13
+record: c24c25429d35
 ---
 
 # News, Oct – Nov 2026
@@ -587,6 +587,20 @@ Zimbabwe's Home Affairs Minister Kazembe Kazembe told the National Assembly that
 </div>
 
 ### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Value Creation Challenge (Eight2Five)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Q3 2026 NEWSLETTER](https://eight2five.africa/wp-content/uploads/2026/10/Q3-2026-NEWSLETTER-1.pdf)** — Eight2Five Innovation Hub, 1 October 2026
+
+VCC6: 14 founders through incubation to Showcase Day at Mutual Gardens, 2 Sept 2026; NardoPay overall winner.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
