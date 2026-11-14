@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: GMB
-ledger_rows: 16
+ledger_rows: 17
 not_held: 2
-record: 2ca8a0c98234
+record: 76f0f36e336f
 ---
 
 # News, Oct – Nov 2026
@@ -232,6 +232,8 @@ The Gambia's finance ministry and the Gambia Revenue Authority signed a 10-year 
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
 </nav>
 
 ### AI
@@ -259,6 +261,22 @@ The Gambia scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the N
 **[UNDP Launches e-Monitor Plus Platform to Safeguard Electoral Information Integrity in The Gambia — Askanwi](https://www.askanwi.com/news/undp-launches-e-monitor-plus-platform-to-safeguard-electoral-information-integrity-in-the-gambia)** — Askanwi, 18 October 2026
 
 UNDP and The Gambia's Independent Electoral Commission launched e-Monitor Plus at Kololi on 13-15 October 2026, a platform pairing AI with human checking to track online misinformation, disinformation and hate speech before the 5 December 2026 presidential election. Civil society speakers warned that monitoring must not turn into censorship.
+
+</div>
+
+</div>
+
+### ICT Industry
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-GATE e-commerce programme for small businesses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
 
 </div>
 
