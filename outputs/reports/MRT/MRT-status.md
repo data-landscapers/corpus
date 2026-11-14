@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 214
+sources_cited: 217
 sections_written: 39
 not_established: 1
 acquire_lines: 39
@@ -286,7 +286,7 @@ On 13 August 2026 [the minister delegate to the interior minister presented the 
 
 [The Startup Act was promulgated in January 2024](https://mtnima.gov.mr/fr/loi-de-startup/). [It creates a start-up label valid five years and renewable once, awarded by a technical labelling committee](https://legimauritanie.com/loi_startup_technologiques_innovantes). [Labelled firms are exempt from the patente business tax for three years](https://legimauritanie.com/loi_startup_technologiques_innovantes). [Under the 2024 law, corporate tax is waived in full for three years, 75% in the fourth and 50% in the fifth](https://legimauritanie.com/loi_startup_technologiques_innovantes). [The law also provides payroll relief, a preferential margin in public procurement, an innovation hub and a start-up fund, the FIAS](https://legimauritanie.com/loi_startup_technologiques_innovantes). [The ministry's targets in September 2023 were a few hundred labelled firms and several thousand jobs over five years](https://mtnima.gov.mr/sites/default/files/Pr%C3%A9sentation%20du%20projet%20de%20loi%20Startup%20ACT%20Mauritanie.pdf.pdf).
 
-[In 2023 the incubator Hadina RIMTIC, founded in 2014, had incubated five start-ups and pre-incubated 26 more](https://www.wearetech.africa/en/fils-uk/tech-stars/hadina-rimtic-the-first-incubator-focused-on-tech-entrepreneurship-in-mauritania). [It runs recurring programmes including the MauriAppChallenge](https://www.wearetech.africa/en/fils-uk/tech-stars/hadina-rimtic-the-first-incubator-focused-on-tech-entrepreneurship-in-mauritania), and InnovRim/SahelFabLab operates as a second fab lab and incubator.
+[In 2023 the incubator Hadina RIMTIC, founded in 2014, had incubated five start-ups and pre-incubated 26 more](https://www.wearetech.africa/en/fils-uk/tech-stars/hadina-rimtic-the-first-incubator-focused-on-tech-entrepreneurship-in-mauritania). [It runs recurring programmes including the MauriAppChallenge](https://www.wearetech.africa/en/fils-uk/tech-stars/hadina-rimtic-the-first-incubator-focused-on-tech-entrepreneurship-in-mauritania). [InnovRim's SahelFabLab operates as a second fab lab and incubator](https://www.innovrim.org/) (2026). [In October 2026 Hadina RIMTIC began a German-funded programme for nine digital start-ups](https://fr.linkedin.com/posts/giz-mauritanie_digital-gizmauritanie-coop%C3%A9rationallemande-activity-7516856753385316352-bRNN). [UniPod Mauritanie, a UNDP-backed innovation laboratory, opened at the University of Nouakchott in November 2024](https://fr.tawassoul.net/unipod-le-nouveau-hub-technologique-de-luniversite-de-nouakchott-en-mauritanie/).
 
 ## Capacity
 
