@@ -3,9 +3,9 @@ title: Senegal — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: SEN
-ledger_rows: 48
+ledger_rows: 51
 not_held: 2
-record: 15d47c685fcd
+record: e86a51f1fbcd
 ---
 
 # News, Oct – Nov 2026
@@ -193,8 +193,26 @@ Senegal's Special Cybersecurity Division detained Sen TV columnist Mamadou 'Momo
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mous-and-other-agreements">MoUs and other agreements</a>
 </nav>
+
+### Domestic budget appropriations and expenditure
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Telecommunications ministry 2027 budget bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sénégal : le numérique et la Poste au cœur du budget 2027 des Télécommunications](https://fr.apanews.net/technologies/senegal-le-numerique-et-la-poste-au-coeur-du-budget-2027/)** — APAnews, 13 November 2026
+
+FCFA 64.97bn payment credits, down 3.8%; FCFA 37bn from partners; e-Sénégal at 171,656 users (5 Nov 2026).
+
+</div>
+
+</div>
 
 ### MoUs and other agreements
 
@@ -322,6 +340,14 @@ Alibaba said on 2 November 2026 that the Dakar 2026 Youth Olympic Games run on a
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Le cloud des JOJ deviendra une plateforme nationale après les Jeux (communiqué) - APS](https://aps.sn/le-cloud-des-joj-deviendra-une-plateforme-nationale-apres-les-jeux-communique/)** — Agence de Presse Sénégalaise (APS), 13 November 2026
+
+SENUM to run Alibaba Apsara Stack cloud from its Diamniadio data centre; 200 cloud engineers to be trained.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -445,6 +471,20 @@ Senegal's Interior Ministry asked all NGOs and associations working in the count
 **[« Nous voulons un service public moderne, performant et centré sur l’usager »](https://lesoleil.sn/societe/nous-voulons-un-service-public-moderne-performant-et-centre-sur-lusager/)** — Le Soleil, 18 October 2026
 
 Senegal's civil-service minister said the physical and biometric audit of state employees, launched in June 2026, is still under way and has not yet confirmed any anomalies. He named e-Sénégal as the single access point for online procedures under the 2025–2029 public-service reform agenda.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registre national unique (single national social register)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[#PLFR2026 | Clarification sur le renforcement des bourses de sécurité familiale](https://fr.linkedin.com/posts/mefpsenegal_plfr2026-protectionsociale-mefp-activity-7520231911290630144-n2XG)** — Ministère de l'Économie, des Finances et du Plan (Sénégal), LinkedIn, 25 October 2026
+
+Finance ministry: bourses credits rise from 35 to 70 billion FCFA in draft LFR 2026; RNU renovated for targeting.
 
 </div>
 
@@ -603,6 +643,20 @@ Senegal's Ministry of Mines and Geology validated its integrated mining-sector d
 **[Diaspora : Vers un nouveau système sécurisé de délivrance des cartes consulaires sénégalaises](https://www.seneweb.com/fr/news/Societe/diaspora-towards-a-new-secure-system-for-issuing-senegalese-consular-cards_n_999003334.html)** — Seneweb, 11 November 2026
 
 Senegal's foreign ministry (MIAAESE) and the Caisse des Dépôts et Consignations signed a convention on 9 November 2026 to build a secure system for issuing and tracking consular cards for Senegalese abroad, Seneweb reported. The CDC's digital subsidiary, Synapsys Conseil, will deliver it. The stated aim is simpler procedures and traceable, authentic consular documents.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Sénégal single-window portal</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Sénégal : le numérique et la Poste au cœur du budget 2027 des Télécommunications](https://fr.apanews.net/technologies/senegal-le-numerique-et-la-poste-au-coeur-du-budget-2027/)** — APAnews, 13 November 2026
+
+Summarised under [Domestic budget appropriations and expenditure](#domestic-budget-appropriations-and-expenditure).
 
 </div>
 
