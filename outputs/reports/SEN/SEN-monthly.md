@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: SEN
-ledger_rows: 47
+ledger_rows: 48
 not_held: 2
-record: 9107f7d7bba7
+record: 187bb89efedc
 ---
 
 # News, Oct – Nov 2026
@@ -614,6 +614,8 @@ Senegal's foreign ministry (MIAAESE) and the Caisse des Dépôts et Consignation
 <a href="#ai">AI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -735,6 +737,22 @@ A delegation from Senegal's telecoms and digital ministry visited SunuCorp's com
 **[Un partenariat de près de 88 milliards FCFA pour développer la production locale de solutions technologiques](https://aps.sn/un-partenariat-de-pres-de-88-milliards-fcfa-pour-developper-la-production-locale-de-solutions-technologiques/)** — APS, 6 October 2026
 
 Senegal's telecommunications ministry signed a US$150 million partnership convention, nearly CFA 88 billion, with an Africa investment council and the Indian firm Blue Cloud Softech Solutions under the Senegal Digital Factory project. It covers local assembly of electronic devices, quality control, certification and intellectual property; the ministry puts computer hardware imports at CFA 419 billion a year.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AIMS Jëmmal Incubator</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AIMS Jëmmal Incubator : la première cohorte franchit la ligne d'arrivée](https://aims-senegal.org/aims-jemmal-incubator-la-premiere-cohorte-franchit-la-ligne-darrivee/)** — AIMS Sénégal, 1 November 2026
+
+First cohort of 13 startups in seven sectors ran March to September 2026; closed 30 October 2026.
 
 </div>
 
