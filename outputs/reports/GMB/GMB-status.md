@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 288
+sources_cited: 290
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -302,7 +302,7 @@ The [country's first data centre, QGroup House, was inaugurated in April 2026](h
 ### Innovation ecosystem
 <!-- tech.innovate -->
 
-[AfriLabs lists technology hubs including The Disruptive Lab, Gambia Tech and Startup Incubator Gambia (2026)](https://new.afrilabs.com/index.php/hub_country/gambia/). India [handed over a Banjul vocational training and incubation centre in 2017, which teaches ICT among its disciplines](https://www.mea.gov.in/Portal/ForeignRelation/India-Gambia26.pdf). [Tracxn lists 185 Gambian startups, seventeen of them funded and most in banking and fintech (2026)](https://tracxn.com/d/geographies/gambia/__akzxtGjeh0tDXmzQaiP9YifrO2bIcUZLEj1O5iuDm7k/companies). [It records no material venture funding round for the country](https://tracxn.com/d/geographies/gambia/__akzxtGjeh0tDXmzQaiP9YifrO2bIcUZLEj1O5iuDm7k/companies).
+[AfriLabs lists technology hubs including The Disruptive Lab, Gambia Tech and Startup Incubator Gambia (2026)](https://new.afrilabs.com/index.php/hub_country/gambia/). [By October 2023 the French embassy's Gambia Tech Project had assisted 275 entrepreneurs and incubated ten start-ups](https://www.wearetech.africa/en/fils-uk/tech-stars/gambia-tech-project-nurtures-startups-to-next-growth-level). [In August 2024 the higher education ministry and UNDP agreed a university innovation pod at the Kanifing campus, due before the end of 2024](https://thepoint.gm/africa/gambia/national-news/moherst-undp-sign-mou-to-establish-unipod-project). No opening has been found. India [handed over a Banjul vocational training and incubation centre in 2017, which teaches ICT among its disciplines](https://www.mea.gov.in/Portal/ForeignRelation/India-Gambia26.pdf). [Tracxn lists 185 Gambian startups, seventeen of them funded and most in banking and fintech (2026)](https://tracxn.com/d/geographies/gambia/__akzxtGjeh0tDXmzQaiP9YifrO2bIcUZLEj1O5iuDm7k/companies). [It records no material venture funding round for the country](https://tracxn.com/d/geographies/gambia/__akzxtGjeh0tDXmzQaiP9YifrO2bIcUZLEj1O5iuDm7k/companies).
 
 The Gambia is [in none of the 133 economies profiled in the Global Innovation Index 2024, nor in the 2019-2023 editions](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-economy-profiles.html).
 
