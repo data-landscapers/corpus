@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 235
+sources_cited: 237
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -269,6 +269,8 @@ At least seven distinct government digital platforms entered service or procurem
 <!-- tech.innovate -->
 
 Guinea [ranked 133rd of 139 economies in the 2025 Global Innovation Index](https://www.wipo.int/edocs/gii-ranking/2025/gn.pdf). [In 2025 three organisations in the country appeared in the AfriLabs hub directory](https://new.afrilabs.com/index.php/hub_country/guinea/). [They are Trustee Sas, Dreams Tech Hub and Incubateur Saboutech](https://new.afrilabs.com/index.php/hub_country/guinea/). [They work with start-ups in ICT, renewable energy, agribusiness and digital education](https://new.afrilabs.com/index.php/hub_country/guinea/).
+
+[On 20 February 2025 the digital-economy ministry handed over a digital hub at Kankan, after hubs at Coyah, Conakry, Kindia, Labé and Nzérékoré](https://gouvernement.gov.gn/kankan-le-gouvernement-procede-a-la-mise-en-service-du-hub-numerique/). [In May 2025 the Mamou institute of technology launched UniPod Guinée, the country's first university innovation pod, backed by UNDP](https://www.guinee7.com/2025/05/17/lancement-officiel-de-unipod-guinee-un-nouvel-elan-pour-linnovation-technologique-en-guinee/).
 
 [In April 2025 the commerce ministry held a pre-validation workshop on a draft startup law, discussing tax relief for labelled start-ups and a four-year support fund](https://gas-gn.org/?p=514). [In July 2026 the Guinée Startup Alliance urged that the bill be completed](https://fr.linkedin.com/posts/guinee-alliance-startup_l%C3%A9cosyst%C3%A8me-startup-au-c%C5%93ur-de-la-future-activity-7478024722543349763-xQOy). No adopted law has been found.
 
