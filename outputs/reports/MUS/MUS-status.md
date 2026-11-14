@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 202
+sources_cited: 203
 sections_written: 39
 not_established: 1
 acquire_lines: 29
@@ -274,6 +274,8 @@ In May 2026 [digital awareness work aimed at young people on Rodrigues](https://
 [Budget 2026-2027 commits Mauritius to training 50,000 people in artificial intelligence within a year](https://lexpress.mu/node/559426) (June 2026). [The target is 25,000 professionals, 12,000 Grade-9 pupils, 8,000 teachers and 5,000 civil servants](https://lexpress.mu/node/559426). [The budget funds a National AI Learning Platform at Rs 25 million and scales MyT-GPT Education into secondary schools](https://lexpress.mu/node/559426) (June 2026). [In October 2026 Cabinet recorded that the training programme was being developed](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20-%20Friday%2030%20October%202026.pdf). No enrolment figure has been published.
 
 Mauritius Telecom [launched a mytGPT Education pilot in January 2026](https://techreviewafrica.com/news/3721/mauritius-telecom-launches-mytgpt-educational-project-to-drive-ai-powered-learning), [tested in ten schools](https://lexpress.mu/node/559426). [After resistance from teachers and parents, the operator narrowed it from a student-facing tutor to a teacher coach](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) (July 2026). [It now aims at a personal AI assistant for every secondary school teacher by 2027](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/).
+
+[In 2023 the higher education commission counted 4,556 tertiary students in ICT, 9.1 per cent of enrolment](https://hec.mu/pdf_downloads/pub_rep_pdf/Participation%20in%20Tertiary%20Education%202023.pdf).
 
 In 2025 the World Bank recorded [a digital skills strategy and programme for the public service, covering basic digital skills and data literacy, partly on a fee-paying basis](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A UNESCO-supported programme for education ministry staff](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/) trained administrators to enter data directly into the national education management system (2022). [On 6 November 2026 the incumbent operator and Amazon Web Services launched the myt Learning Hub, a free portal of 16 courses in AI, cloud, cybersecurity and data](https://gisnews.govmu.org/GalleryFile/GetCommuniqueDocument?communiquesFileName=Myt+Learning+platfom+%281%29.pdf&newsId=2908). [It serves a government target of training 50,000 people in digital and AI skills within a year](https://gisnews.govmu.org/GalleryFile/GetCommuniqueDocument?communiquesFileName=Myt+Learning+platfom+%281%29.pdf&newsId=2908).
 
