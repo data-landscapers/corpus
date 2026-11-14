@@ -101,7 +101,7 @@ acome,Acome,full,1
 aconoq,ACONOQ,full,1
 aconoq-congo,ACONOQ,full,3
 acpb-benin,L’ACPB,full,1
-acpce-congo,ACPCE,full,4
+acpce-congo,ACPCE,full,5
 acsa,Airports Company of South Africa,acronym,2
 acsi-congo,L’ACSI,full,3
 acsis-tchad,ACSIS-Tchad,full,2
@@ -1737,7 +1737,7 @@ centro-nacional-de-ciberseguranca-angola,Centro Nacional de Cibersegurança,part
 centro-pronto-mozambique,Centro Pronto,full,5
 cepej,CEPEJ,full,1
 cepi-cameroon,Cameroon Economic Policy Institute,acronym,3
-cepici,CEPICI,full,6
+cepici,CEPICI,full,7
 cepo-south-sudan,Community Empowerment for Progress Organization,acronym,1
 cerap,CERAP,full,1
 cerco,CERCO,full,1
@@ -1849,7 +1849,7 @@ choice-bank-kenya,Choice Bank,full,1
 choplife,Choplife,full,1
 chowdeck,Chowdeck,full,1
 chpter,Chpter,full,2
-chr-michelsen-institute,Chr. Michelsen Institute,full,2
+chr-michelsen-institute,Chr. Michelsen Institute,full,3
 chraj,CHRAJ,full,2
 chrdi-sierra-leone,Campaign for Human Rights and Development International,acronym,1
 chrgj,Center for Human Rights and Global Justice,acronym,1
@@ -2140,7 +2140,7 @@ community-youth-development-trust,Community Youth Development Trust,full,1
 comnat-gabon,COMNAT,full,1
 comores-telecom,Comores Telecom,full,5
 comoros-data-protection-law-2021,Protection of Personal Data Law,partial,1
-compact-with-africa,Compact,full,2
+compact-with-africa,Compact,full,3
 competition-and-consumer-authority-botswana,Competition and Consumer Authority,full,2
 competition-and-consumer-protection-commission-gambia,Gambia Competition and Consumer Protection Commission,full,2
 competition-and-consumer-protection-commission-zambia,Competition and Consumer Protection Commission,full,2
@@ -2629,9 +2629,10 @@ dgi-algeria,La DGI,full,3
 dgi-benin,La DGI,full,3
 dgi-burkina-faso,La DGI,full,1
 dgi-cameroon,DGI. Elle,full,1
+dgi-djibouti,La DGI,full,1
 dgi-drc,La DGI,full,2
-dgi-gabon,DGDDI and DGI,full,1
-dgi-guinea,La DGI,full,3
+dgi-gabon,La DGI,full,1
+dgi-guinea,La DGI,full,6
 dgi-madagascar,DGI Secretariat,full,1
 dgi-mali,La DGI Mali,full,1
 dgi-mauritania,La DGI,full,2
@@ -3606,6 +3607,7 @@ findhomes,FindHomes,full,1
 findme,FindMe,full,4
 fines-sa,Fines SA,full,1
 finfind,Finfind,full,2
+finland-ministry-of-foreign-affairs,Finland’s Ministry for Foreign Affairs,full,1
 finmark-trust,FinMark Trust,full,11
 finnfund,Finnfund,full,12
 finnish-geospatial-research-institute,Finnish Geospatial Research Institute,full,1
@@ -3619,7 +3621,7 @@ fipa-tunisia,FIPA URL,full,1
 fipar-holding,Fipar,full,1
 fiqra-academy,Fiqra Academy,full,1
 fireflies-ai,Fireflies AI,full,1
-firs,Federal Inland Revenue Service,acronym,9
+firs,Federal Inland Revenue Service,acronym,10
 first-abu-dhabi-bank,First Abu Dhabi Bank,full,1
 first-abu-dhabi-bank-misr,First Abu Dhabi Bank Misr,full,1
 first-ally-capital,First Ally Capital,full,1
@@ -4028,7 +4030,7 @@ global-financing-facility-who-unicef,Global Financing Facility,partial,1
 global-findex,Global Findex,full,3
 global-findex-database,Global Findex Database,full,7
 global-forum-on-cyber-expertise,Cyber Expertise Foundation,partial,1
-global-forum-on-transparency-and-exchange-of-information-for-tax-purposes,Transparency and Exchange of Information for Tax Purposes,partial,4
+global-forum-on-transparency-and-exchange-of-information-for-tax-purposes,Transparency and Exchange of Information for Tax Purposes,partial,7
 global-fund,Global Fund,full,5
 global-gateway,Global Gateway,full,10
 global-green-growth-institute,Global Green Growth Institute,full,5
@@ -5120,6 +5122,7 @@ john-tanui,Eng. John Tanui,full,4
 johnny-ohisa-damian,Johnny Ohisa Damian Governor,full,1
 johns-hopkins-bloomberg-school-of-public-health,Johns Hopkins Bloomberg School of Public Health,full,1
 johns-hopkins-university,Johns Hopkins University,full,1
+joint-tax-board-nigeria,IDs The Joint Tax Board,full,1
 jokkolabs-banjul,Jokkolabs Banjul,full,2
 jomo-kenyatta-university-of-agriculture-and-technology,Jomo Kenyatta University of Agriculture and Technology,full,1
 jonah-andrianantoanina,JONAH ANDRIANANTOANINA,full,1
@@ -5375,7 +5378,7 @@ konnect-networks,Konnect Networks,full,1
 konnect-tunisia,Konnect,full,2
 konoom,Konoom,full,8
 konrad-adenauer-stiftung,Konrad Adenauer Stiftung,full,2
-kontaktu,Kontaktu,full,6
+kontaktu,Kontaktu,full,7
 konza-technopolis,Konza Technopolis,full,7
 koom-com,Koom Com,full,1
 kopo-kopo,Kopo Kopo,full,2
@@ -5547,7 +5550,7 @@ liber-technologie,Liber Technologie,full,1
 liber-technologies,Liber Technologies,full,3
 liberia-agency-for-community-empowerment,Liberia Agency for Community Empowerment,full,1
 liberia-anti-corruption-commission,Liberia Anti-Corruption Commission,full,5
-liberia-business-registry,Liberia Business Registry,full,4
+liberia-business-registry,Liberia Business Registry,full,5
 liberia-country-focus-report-2026-afdb,Liberia Country Focus Report,partial,1
 liberia-country-strategy-paper-2026-2031-afdb,AfDB Liberia Country Strategy Paper,partial,2
 liberia-cyber-crime-prevention-and-mitigation-agency,Liberia Cyber Crime Prevention,partial,1
@@ -6881,7 +6884,7 @@ namibia-ministry-of-information-and-communication-technology,Ministry of Informa
 namibia-payment-system-management-act-2023,Payment System Management Act,partial,11
 namibia-qualifications-authority,Namibia Qualifications Authority,full,1
 namibia-red-cross-society,Namibia Red Cross Society,full,1
-namibia-revenue-agency,Namibia Revenue Agency,full,7
+namibia-revenue-agency,Namibia Revenue Agency,full,8
 namibia-securities-exchange,Namibia Securities Exchange,full,1
 namibia-statistics-agency,Namibia Statistics Agency,full,10
 namibia-training-authority,Namibia Training Authority,full,1
@@ -7385,7 +7388,7 @@ nips-south-sudan,National Instant Payment System,acronym,1
 nipx,Kampala. The NIPX,full,1
 nira-nigeria,Nigeria Internet Registration Association,acronym,4
 nira-somalia,National Identification and Registration Authority,acronym,7
-nira-uganda,National Identification and Registration Authority,acronym,11
+nira-uganda,National Identification and Registration Authority,acronym,10
 nis,Nigeria Immigration Service,acronym,1
 nisds,NISDS,full,1
 nisr,National Institute of Statistics of Rwanda,acronym,6
@@ -7532,7 +7535,7 @@ odess,Odess,full,1
 odi,OTIMS. The ODI,full,1
 odi-global,ODI Global,full,1
 odirile-tamajobe,Odirile Tamajobe,full,2
-odpic-djibouti,ODPIC,full,2
+odpic-djibouti,ODPIC,full,3
 odpp-kenya,OGW Director of Public Prosecutions,acronym,1
 ods-tunisia,L’ODS,full,1
 oeacp,OEACP,full,1
@@ -8296,7 +8299,7 @@ publish-what-you-fund,Publish What You Fund,full,1
 pudc-senegal,PUDC Programme,full,1
 pula-advisors,Pula Advisors,full,1
 pula-investments,Pula Investments,full,5
-puntland,Puntland,full,4
+puntland,Puntland,full,5
 puntland-ministry-of-education-and-higher-education,Puntland State Ministry of Education and Higher Education,full,1
 puntland-ministry-of-interior,Puntland Ministry of Interior,full,1
 puntland-state-police,Puntland State Police,full,1
@@ -8432,11 +8435,13 @@ registrar-general-eswatini,Registrar General,full,1
 registrar-general-malawi,Registrar General,full,3
 registrar-general-office-seychelles,Registrar General's Office,full,1
 registrar-general-zimbabwe,Registrar-General,full,6
+registrar-generals-department-ghana,Registrar-General’s Department,partial,2
 registrar-of-businesses-malawi,Registrar of Businesses,full,1
 registrar-of-civil-status-mauritius,Registrar of Civil,full,4
 registrar-of-companies-eswatini,Registrar of Companies,full,1
 registrar-of-companies-lesotho,Registrar of Companies,full,1
 registrar-of-companies-mauritius,Registrar of Companies,full,2
+registrar-of-companies-zimbabwe,Registrar of Companies,full,1
 registrar-of-marriages-kenya,Registrar of Marriages,full,1
 registration-division-seychelles,Registration Division,full,2
 registration-of-persons-act-2015,Registration of Persons Act,partial,5
@@ -9187,7 +9192,7 @@ solvinity,Solvinity,full,1
 solwezi-municipal-council,Solwezi Municipal Council,full,1
 somaf-group,Somaf Group,full,1
 somagec,Somagec,full,1
-somali-bankers-association,Somali Bankers Association,full,1
+somali-bankers-association,Somali Bankers Association,full,2
 somali-blind-diaspora,Somali Blind Diaspora,full,1
 somali-civil-aviation-authority,Somali Civil Aviation Authority,full,2
 somali-data-protection-act,Data Protection Act,partial,1
@@ -10250,7 +10255,7 @@ uprona,UPRONA,full,1
 uptime-institute,Uptime Institute,full,10
 upu,Universal Postal Union,acronym,4
 uqudo,Uqudo,full,1
-ura-uganda,Uganda Revenue Authority,acronym,11
+ura-uganda,Uganda Revenue Authority,acronym,10
 ureputation,UReputation,full,1
 ursb,Uganda Registration Services Bureau,acronym,10
 urtel-mali,URTEL,full,1
