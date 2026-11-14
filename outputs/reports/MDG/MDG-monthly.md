@@ -3,9 +3,9 @@ title: Madagascar — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: MDG
-ledger_rows: 28
+ledger_rows: 30
 not_held: 5
-record: a561c1e1d0cc
+record: 214a8bb505b1
 ---
 
 # News, Oct – Nov 2026
@@ -109,6 +109,20 @@ Madagascar's government filed bill 040/2026 on electronic communications and dig
 **[Lutte contre la cybercriminalité: les Parlementaires réexaminent le projet de loi](https://newsmada.com/2026/10/24/lutte-contre-la-cybercriminalite-les-parlementaires-reexaminent-le-projet-de-loi/)** — Newsmada, 24 October 2026
 
 Madagascar's 96-article cybercrime bill n° 042/2026, which would replace the 2014 law and was postponed at September's extraordinary session, returns to committee in the National Assembly on 2 November. Contested provisions include article 75, giving a new digital investigation unit (UPIN) permanent direct access to operators' systems with fines of 100 to 500 million ariary for refusal, and article 52 on criminal liability for administrators of pages and groups; the access-to-public-information bill n° 017/2025 is also on the session's agenda.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Access to information bill (projet de loi n 017/2025)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accès à l'information publique : le ministère de la Communication peine toujours à convaincre – Madagascar-Tribune.com](https://www.madagascar-tribune.com/Acces-a-l-information-publique-le-ministere-de-la-Communication-peine-toujours.html)** — Madagascar-Tribune, 14 November 2026
+
+Madagascar's National Assembly put off the vote on access-to-public-information bill 17/2025, set for 13 November 2026, with no new date. A parliamentary source said some provisions still need discussion. Civil society has sought the law since 2008.
 
 </div>
 
@@ -391,6 +405,20 @@ Madagascar's anti-corruption bureau BIANCO launched i-Fanagna, a platform for fi
 **[MADAGASCAR : L’APMF LANCE UNE NOUVELLE PHASE DU PROGRAMME "INTEGRATE – MADAGASCAR" POUR LA MISE EN PLACE DU GUICHET UNIQUE MARITIME - Ports Africa](https://portsafrica.com/fr/madagascar-lapmf-lance-une-nouvelle-phase-du-programme-integrate-madagascar-pour-la-mise-en-place-du-guichet-unique-maritime/)** — Ports Africa, 9 November 2026
 
 Madagascar's port and maritime agency, APMF, launched the second phase of INTEGRATE-Madagascar on 9 November 2026. Indonesia is giving technical assistance to set up a Maritime Single Window under the IMO FAL Convention. Experts from both countries are to draft a roadmap by 17 November.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Courrier, the higher education ministry's online mail platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[TRANSFORMATION NUMÉRIQUE – Le ministère de l’Enseignement supérieur ambitionne de traiter 90% des courriers sur la nouvelle plateforme “e-Courrier”](https://www.2424.mg/transformation-numerique-le-ministere-de-lenseignement-superieur-ambitionne-de-traiter-90-des-courriers-sur-la-nouvelle-plateforme-e-courrier)** — 2424.mg, 14 November 2026
+
+Madagascar's Ministry of Higher Education and Scientific Research has put its e-Courrier platform into operation, 2424.mg reported on 14 November 2026. The platform files and tracks administrative mail, and the ministry aims to route about 90% of its mail through it. It is to be extended to the universities.
 
 </div>
 
