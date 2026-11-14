@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: BWA
-ledger_rows: 16
+ledger_rows: 17
 not_held: 5
-record: 8cf71282c281
+record: 033d3405b935
 ---
 
 # News, Oct – Nov 2026
@@ -30,6 +30,8 @@ record: 8cf71282c281
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
 <a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#new-investments">New investments</a>
 </nav>
 
 ### MoUs and other agreements
@@ -43,6 +45,22 @@ record: 8cf71282c281
 **[Huawei, Orange partner to accelerate digital transformation](https://www.mmegi.bw/ampArticle/124593)** — Mmegi Online, 4 November 2026
 
 Orange Botswana and Huawei Technologies Botswana signed a memorandum of understanding that extends their cooperation to intelligent networks, AI, cloud, enterprise solutions and data infrastructure. It builds on Orange Botswana's Tier III-certified data centre. No sum is stated.
+
+</div>
+
+</div>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Botswana Tech Fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Botswana Tech Fund Announces First Cohort of Accelerator Program](https://www.bwtechzone.com/2026/10/botswana-tech-fund-announces-first.html)** — BW TechZone, 7 October 2026
+
+Seven Southern African start-ups in the first cohort; up to GBP 100,000 each for about 10% equity.
 
 </div>
 
