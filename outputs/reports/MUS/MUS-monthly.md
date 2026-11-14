@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: MUS
-ledger_rows: 39
+ledger_rows: 40
 not_held: 7
-record: 780953580051
+record: 72ac246b703f
 ---
 
 # News, Oct – Nov 2026
@@ -18,6 +18,8 @@ record: 780953580051
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -581,6 +583,28 @@ Mauritius awarded the overhaul of the National Land Transport Authority's IT sys
 **[Transport : Osman Mahomed mise sur la modernisation et la sécurité routière](https://lexpress.mu/node/564547)** — L'Express (Maurice), 9 November 2026
 
 Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
+</nav>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">La Turbine incubator</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Turbine Innovation Challenge 2026: Seven Start-ups Present Their Solutions](https://platformafrica.com/2026/11/04/la-turbine-innovation-challenge-2026-seven-start-ups-present-their-solutions/)** — Platform Africa, 4 November 2026
+
+ER Group incubator, founded 2016: 1,000+ projects received, 150 pre-incubated, 35 start-ups created by Nov 2026.
 
 </div>
 
