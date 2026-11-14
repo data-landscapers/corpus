@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 245
+sources_cited: 247
 sections_written: 39
 not_established: 0
 acquire_lines: 31
@@ -289,7 +289,7 @@ Econet ran a phased [radio-access and transport network upgrade across Maseru un
 
 Lesotho ranks [132nd of 139 economies in the 2025 Global Innovation Index](https://www.wipo.int/edocs/gii-ranking/2025/ls.pdf). The state-backed [Lesotho Entrepreneurship Hub and Seed Financing Facility](https://www.afrilabs.com/hub/lesotho-entrepreneurship-hub-seed-financing-facility/), supported by a World Bank-funded project, targets 500 incubated enterprises by 2028 (2024). [The project's newsletter reported 260 enterprises incubated by October 2026](https://theafricacapitalreport.com/lesotho-startup-funding/). [It announced a co-investment fund of more than M45 million, with no fund manager or start date published by November 2026](https://theafricacapitalreport.com/lesotho-startup-funding/).
 
-A [Digital Outreach Studio opened under the second phase of the African Development Bank-backed e-government infrastructure project](https://lestimes.com/?p=90715) in June 2026. A [second digital studio broke ground at Makoanyane Square in Maseru on 11 June 2026](https://www.gov.ls/ict/advancing-the-national-digital-agenda-and-ai-technologies-remains-a-core-commitment-of-lesotho-government/), under the same project and the university innovation pod programme. It is not yet in operation.
+[The Prime Minister launched the university innovation pod at Lerotholi Polytechnic in February 2025](https://www.gov.ls/budget/prime-minister-launches-unipod/). A [Digital Outreach Studio opened under the second phase of the African Development Bank-backed e-government infrastructure project](https://lestimes.com/?p=90715) in June 2026. A [second digital studio broke ground at Makoanyane Square in Maseru on 11 June 2026](https://www.gov.ls/ict/advancing-the-national-digital-agenda-and-ai-technologies-remains-a-core-commitment-of-lesotho-government/), under the same project and the university innovation pod programme. It is not yet in operation. [In July 2025 officials visited Eswatini's science and technology parks to plan one for Lesotho](https://itweb.africa/article/lesotho-draws-inspiration-from-eswatini-to-establish-tech-hub/DZQ58vV8p16MzXy2); no site or budget has been found.
 
 In May 2026 [Geddit, a digital-address platform assigning building-level codes and GPS pins](https://www.gedditapp.com/), drew recognition at the University of Notre Dame's McCloskey New Venture Founders Summit. It operates commercially in Lesotho.
 
