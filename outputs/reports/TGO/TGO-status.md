@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 274
+sources_cited: 275
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -311,7 +311,7 @@ In 2024 the investment agency API-ZF [digitised twelve company-establishment pro
 
 On 11 January 2023 the Council of Ministers [adopted a draft innovation law, with start-up labels and tax and customs incentives](https://www.afrikdepeche.tg/faciliter-la-creation-demplois-au-togo-vers-linstauration-dun-mecanisme-de-labellisation-des-start-ups/). In October 2025 the digital minister said [the Startup Act was still being adopted](https://togo-today.com/grit-lome-fait-vibrer-la-tech-africaine/). [It provides labels, a support fund for labelled firms, regulatory sandboxes and a national start-up register](https://togo-today.com/grit-lome-fait-vibrer-la-tech-africaine/). In May 2026 an opposition deputy wrote that [the National Assembly was about to adopt it](https://togoactualite.com/projet-de-loi-sur-linnovation-au-togo-une-ambition-necessaire-mais-un-texte-qui-nest-pas-a-la-hauteur-des-enjeux/).
 
-[In 2025 Djanta Tech Hub in Lomé, funded by the World Bank, ran pre-incubation and incubation cohorts with CcHub](https://djantatechhub.gouv.tg/). [It is planned as the first of more than 100 hubs](https://djantatechhub.gouv.tg/). [The World Bank's 2025 index records a strategy and a running programme for public sector innovation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+[In 2025 Djanta Tech Hub in Lomé, funded by the World Bank, ran pre-incubation and incubation cohorts with CcHub](https://djantatechhub.gouv.tg/). [It is planned as the first of more than 100 hubs](https://djantatechhub.gouv.tg/). [On 28 February 2025 UniPod Togo, a UNDP-backed innovation space, opened at the University of Lomé](https://www.undp.org/fr/togo/actualites/unipod-togo-un-tremplin-pour-linnovation-et-lentrepreneuriat-des-jeunes). [The World Bank's 2025 index records a strategy and a running programme for public sector innovation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
 ## Capacity
 
