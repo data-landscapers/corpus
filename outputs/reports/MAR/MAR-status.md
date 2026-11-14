@@ -1,12 +1,12 @@
 ---
 title: Morocco: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: MAR
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 13
-sources_cited: 275
+sources_cited: 279
 sections_written: 39
 not_established: 1
 acquire_lines: 61
@@ -283,11 +283,13 @@ Regulation is not the constraint. [Morocco's Ibrahim Index score for business an
 ### Innovation ecosystem
 <!-- tech.innovate -->
 
-[Moroccan start-ups raised around $80m in venture capital in 2025](https://partechpartners.com/news/2025-partech-africa-tech-vc-report-african-tech-funding-rebounds-to-us41b-driven-by-record-debt-activity-and-disciplined-equity-growth), an established level of activity supported by multiple hubs and accelerators; [AfriLabs lists 34 technology and innovation hubs in the country](https://www.afrilabs.com/hub_country/morocco/) (2019). That activity has not yet moved the measured position: [Morocco ranked 66th of 133 economies in WIPO's 2024 Global Innovation Index, up from 75th in 2020](https://www.wipo.int/edocs/gii-ranking/2024/ma.pdf).
+[AfriLabs listed 34 technology and innovation hubs in Morocco in 2019](https://www.afrilabs.com/hub_country/morocco/). [Orange Maroc and Technopark Maroc launched an "AI Garden" programme at GITEX in April 2026](https://techafricanews.com/2026/04/09/orange-maroc-partners-technopark-to-accelerate-ai-and-digital-transformation/), offering AI start-ups cloud, connectivity, cybersecurity and use-case support. [In June 2026 the digital ministry and Orange signed a JAZARI-ROOT memorandum to develop homegrown AI capability](https://techafricanews.com/2026/06/05/morocco-signs-ai-partnership-with-orange-morocco-to-advance-digital-transformation/).
 
-Public money now reaches start-ups through intermediaries. [Decree 2.26.576 of 3 August 2026 authorised the state guarantee and financing company Tamwilcom to take stakes of up to MAD 347 million over three years in venture-capital funds on behalf of the Startup Catalytic Fund, with nine fund managers pre-selected and the selected funds expected to mobilise close to MAD 2.5 billion for Moroccan start-ups](https://librentreprise.ma/2026/09/10/feu-vert-a-tamwilcom-pour-investir-347-mdh-dans-les-startups/). No fund had been reported as capitalised or as having invested by September 2026. The telecoms operators are building alongside it: [Orange Maroc and Technopark Maroc launched an "AI Garden" programme at GITEX in April 2026, offering AI start-ups cloud, connectivity, cybersecurity and use-case support](https://techafricanews.com/2026/04/09/orange-maroc-partners-technopark-to-accelerate-ai-and-digital-transformation/), and two months later the digital ministry and Orange signed [a JAZARI-ROOT memorandum to develop homegrown AI capability](https://techafricanews.com/2026/06/05/morocco-signs-ai-partnership-with-orange-morocco-to-advance-digital-transformation/).
+[Moroccan start-ups raised around $80m in venture capital in 2025](https://partechpartners.com/news/2025-partech-africa-tech-vc-report-african-tech-funding-rebounds-to-us41b-driven-by-record-debt-activity-and-disciplined-equity-growth). [Morocco ranked 66th of 133 economies in WIPO's 2024 Global Innovation Index, up from 75th in 2020](https://www.wipo.int/edocs/gii-ranking/2024/ma.pdf). [The digital development agency's register of Moroccan start-ups is on the national data portal](https://data.gov.ma/data/dataset/donnees-sur-les-startups) (January 2025). [The digital ministry's 2025 review reported a preliminary draft of a Startup Act bill creating a startup label](https://www.mmsp.gov.ma/sites/default/files/publications/Bilan_MTNRA_2025_04092026.pdf) (September 2026); no text has been published.
 
-The state's own absorption of new things is being tested through sourcing rather than procurement. [The 2026 GovTech Innovation Challenge invites Moroccan, Swiss and international start-ups to supply digital tools for public audit and public financial management, with the Inspection Générale des Finances and the Cour des comptes as the institutional users](https://maroc.ma/fr/actualites/rabat-lancement-de-ledition-2026-du-govtech-innovation-challenge) (July 2026), and [the national data portal carries a register of Moroccan start-ups maintained by the digital development agency](https://data.gov.ma/data/dataset/donnees-sur-les-startups) (January 2025).
+[From 2017 the Innov Invest Fund, run by Tamwilcom with World Bank financing, financed more than 500 startups with over MAD 590 million](https://tamwilcom.ma/sites/default/files/2026-09/CP_FII.pdf) (September 2026). [It also structured four venture funds that invested over MAD 500 million in about 40 startups](https://tamwilcom.ma/sites/default/files/2026-09/CP_FII.pdf). [The World Bank's final evaluation rated it Highly Satisfactory](https://tamwilcom.ma/sites/default/files/2026-09/CP_FII.pdf), and [the Bank puts private capital mobilised at over US$70 million](https://www.worldbank.org/en/news/feature/2026/10/12/how-morocco-unlocked-private-capital-for-startups) (October 2026). [In December 2025 the digital ministry and Tamwilcom launched a venture-building offer to support more than 800 startups over three years](https://maroc.ma/fr/actualites/rabat-lancement-officiel-du-deploiement-de-loffre-startup-venture-building-pour-laccompagnement-et-le). [Decree 2.26.576 of 3 August 2026 authorised Tamwilcom to invest up to MAD 347 million over three years in venture funds for the Startup Catalytic Fund](https://librentreprise.ma/2026/09/10/feu-vert-a-tamwilcom-pour-investir-347-mdh-dans-les-startups/). [Nine fund managers were pre-selected, their funds expected to mobilise close to MAD 2.5 billion](https://librentreprise.ma/2026/09/10/feu-vert-a-tamwilcom-pour-investir-347-mdh-dans-les-startups/). No fund had been reported as capitalised or as having invested by September 2026.
+
+[The 2026 GovTech Innovation Challenge invites start-ups to supply digital tools for public audit and public financial management](https://maroc.ma/fr/actualites/rabat-lancement-de-ledition-2026-du-govtech-innovation-challenge) (July 2026). [Its institutional users are the Inspection Générale des Finances and the Cour des comptes](https://maroc.ma/fr/actualites/rabat-lancement-de-ledition-2026-du-govtech-innovation-challenge).
 
 ## Capacity
 

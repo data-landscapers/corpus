@@ -1,12 +1,12 @@
 ---
 title: Chad: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 205
+sources_cited: 206
 sections_written: 39
 not_established: 0
 acquire_lines: 37
@@ -270,7 +270,7 @@ The state's own systems are bought in rather than built.
 
 [In 2025 Telemedan, founded by Abakar Mahamat, delivered healthcare to remote areas through solar-powered kiosks](https://www.wearetech.africa/en/fils-uk/solutions/telemedan-delivers-healthcare-to-rural-chad-through-solar-powered-kiosks). [The Ministry of Health and the World Bank back it](https://www.wearetech.africa/en/fils-uk/solutions/telemedan-delivers-healthcare-to-rural-chad-through-solar-powered-kiosks). [Konoom, an N'Djamena payments startup launched in 2025, holds a COBAC licence for its wallet](https://www.wearetech.africa/fr/fils/solutions/tchad-konoom-elargit-lacces-aux-paiements-numeriques-grace-a-ses-plateformes-web-et-mobiles). [In 2025 a minority of tracked companies had raised venture or private-equity money](https://tracxn.com/d/geographies/chad/__X7MOg_mj6hlGsfcYAfCVTwrTHUV9CEtvGRPGiU4sUFE).
 
-[An arrêté of 1 September 2025 created a technology innovation centre, publicly launched on 30 October](https://tchadinfos.com/2025/10/30/le-centre-dinnovation-technologique-de-ndjamena-est-lance/). [It covers a digital library, start-up incubation, research laboratories, digital-skills training and administration digitalisation](https://tchadinfos.com/2025/10/30/le-centre-dinnovation-technologique-de-ndjamena-est-lance/). [A youth entrepreneurship fund created by Loi n. 005/PR/MFB/2020 was launched in July 2020 at 30 billion FCFA](https://finances.gouv.td/index.php/le-ministere/le-ministre/item/601-lancement-officiel-du-fonds-pour-l-entrepreneuriat-des-jeunes). [At its 2020 launch it was to lend through banks under a 70 per cent state guarantee at about 6.25 per cent, with ICT among eligible sectors](https://finances.gouv.td/index.php/le-ministere/le-ministre/item/601-lancement-officiel-du-fonds-pour-l-entrepreneuriat-des-jeunes). Neither has published a tenant list, a cohort size or a disbursement total. [In 2025 the government had no public-sector innovation programme or strategy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+[An arrêté of 1 September 2025 created a technology innovation centre, publicly launched on 30 October](https://tchadinfos.com/2025/10/30/le-centre-dinnovation-technologique-de-ndjamena-est-lance/). [It covers a digital library, start-up incubation, research laboratories, digital-skills training and administration digitalisation](https://tchadinfos.com/2025/10/30/le-centre-dinnovation-technologique-de-ndjamena-est-lance/). [A youth entrepreneurship fund created by Loi n. 005/PR/MFB/2020 was launched in July 2020 at 30 billion FCFA](https://finances.gouv.td/index.php/le-ministere/le-ministre/item/601-lancement-officiel-du-fonds-pour-l-entrepreneuriat-des-jeunes). [At its 2020 launch it was to lend through banks under a 70 per cent state guarantee at about 6.25 per cent, with ICT among eligible sectors](https://finances.gouv.td/index.php/le-ministere/le-ministre/item/601-lancement-officiel-du-fonds-pour-l-entrepreneuriat-des-jeunes). Neither has published a tenant list, a cohort size or a disbursement total. [The national development plan Tchad Connexion 2030, signed in May 2025, commits to drafting a start-up act and targets 600 incubated start-ups by 2030](https://tchadconnexion2030.td/wp-content/uploads/2025/06/PND_vDef_Francais.pdf). No draft act has been found. [In 2025 the government had no public-sector innovation programme or strategy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
 ## Capacity
 

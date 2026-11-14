@@ -49,7 +49,7 @@ dpi.exchange--national-data-exchange-system,1,GNQ-dpi.exchange-interop,,,,,,,202
 dpi.exchange--use-of-digital-id-in-other-systems,,,,,,,,,2026-08-31,0,unplaced: DIP issued but no system relying on it for verification on record,
 dpi.exchange--interoperability-of-health-systems,,,,,,,,,2026-08-31,0,DHIS2 pilot and malaria eLMIS are single systems; no exchange between systems on record,
 dpi.exchange--interoperability-of-education-systems,,,,,,,,,2026-08-31,0,Portal and school census held; no exchange between education systems stated,
-dpi.exchange--interoperability-of-social-protection-systems,,,,,,,,,2026-08-31,0,Benefits paid to bank accounts; Ley 5/2026 creates a social register with a data-supply duty, but no link is built,
+dpi.exchange--interoperability-of-social-protection-systems,,,,,,,,,2026-08-31,0,"Benefits paid to bank accounts; Ley 5/2026 creates a social register with a data-supply duty, but no link is built",
 dpi.id--robustness-of-system,,,,,,,,,2026-08-31,0,Only the CEMAC passport row; no national ID system evidence mapped,
 dpi.id--national-maintenance-of-id-and-credentials-systems,,,,,,,,,2026-08-31,0,Passport and registry-law rows say nothing of who builds or operates the ID platform,
 dpi.id--authentication,,,,,,,,,2026-08-31,0,DIP issuance only; no authentication service or cited absence,

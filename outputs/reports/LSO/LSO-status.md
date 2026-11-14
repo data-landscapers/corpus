@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 243
+sources_cited: 244
 sections_written: 39
 not_established: 0
 acquire_lines: 31
@@ -316,7 +316,7 @@ In August 2025 [Vodacom Lesotho committed to free digital-skills training with A
 ### Research institutions
 <!-- capacity.research -->
 
-[The SADC Executive Secretary told the Council of Ministers in Durban on 12 August 2026 that no member state meets either the regional 1%-of-GDP or the African Union's 1.5%-of-GDP target for research-and-development investment](https://www.sadc.int/sites/default/files/2026-08/Remarks%20of%20the%20SADC%20Executive%20Secretary%20at%20the%20Council%20of%20Ministers%20meeting%20on%2012%20August%202026%20Durban%2C%20South%20Africa.pdf). Lesotho sits near the foot of [the 2025 Global Innovation Index](https://www.wipo.int/edocs/gii-ranking/2025/ls.pdf). [A Research and Innovation Policy meant to turn research into commercial products was undergoing approval in October 2026](https://lestimes.com/?p=91936).
+[The SADC Executive Secretary told the Council of Ministers in Durban on 12 August 2026 that no member state meets either the regional 1%-of-GDP or the African Union's 1.5%-of-GDP target for research-and-development investment](https://www.sadc.int/sites/default/files/2026-08/Remarks%20of%20the%20SADC%20Executive%20Secretary%20at%20the%20Council%20of%20Ministers%20meeting%20on%2012%20August%202026%20Durban%2C%20South%20Africa.pdf). Lesotho sits near the foot of [the 2025 Global Innovation Index](https://www.wipo.int/edocs/gii-ranking/2025/ls.pdf). [A Research and Innovation Policy meant to turn research into commercial products was undergoing approval in October 2026](https://lestimes.com/?p=91936). [Its 2021 text proposes a national research and innovation agency and a fund seeded with at least 0.05% of GDP a year](https://faolex.fao.org/docs/pdf/les220675.pdf).
 
 [The ICT ministry is designing the country's digital public infrastructure with the National University of Lesotho's Department of Mathematics and Computer Science](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/) (February 2026). It treats X-Road for data exchange, MOSIP for digital ID and a Decision Support System for planning and budgeting as one stack. The university also teaches [BSc programmes in computer science, information systems and electronics and BEng programmes in computer systems and networks](https://nul.ls/faculty-of-science-and-technology/academic-programmes/). [MICSTI, UNDP and the university are compiling a Sesotho-language word bank to train locally relevant AI systems](https://www.gov.ls/ict/sesotho-word-bank-being-compiled-to-train-artificial-intelligence-systems-in-lesotho/) (February 2026).
 

@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: MAR
-ledger_rows: 27
-not_held: 14
-record: 322feca37cc7
+ledger_rows: 28
+not_held: 13
+record: 8986dedc0155
 ---
 
 # News, Oct – Nov 2026
@@ -462,6 +462,8 @@ Morocco's General Directorate of National Security opened its Epolice portal on 
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -519,6 +521,22 @@ Morocco's AI, Digital Transition and Administrative Reform Ministry presented it
 **[بـ”الدارجة” ولجميع المغاربة.. الحكومة توظف الذكاء الاصطناعي لتبسيط 2800 مسطرة إدارية](https://al3omk.com/1208688.html)** — Al3omk, 10 November 2026
 
 Ahmed Rahhou is Morocco's Minister of AI, Digital Transition and Administrative Reform. On 10 November 2026 he presented his ministry's 2027 sub-budget to the House of Representatives' Interior Committee. He said the ministry is using AI to find which of about 2,800 administrative procedures can be simplified. Al3omk reports he also said the 1918–2026 Official Gazette archive will be opened to AI tools to speed legal drafting and research.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Innov Invest Fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How Morocco Unlocked Private Capital for Startups](https://www.worldbank.org/en/news/feature/2026/10/12/how-morocco-unlocked-private-capital-for-startups)** — World Bank, 12 October 2026
+
+US$50m InnovInvest mobilised US$70m private capital, four VC funds, 16 accredited incubators, 4,000 jobs.
 
 </div>
 

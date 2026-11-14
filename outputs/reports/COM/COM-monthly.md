@@ -1,11 +1,11 @@
 ---
 title: Comoros — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: COM
-ledger_rows: 10
+ledger_rows: 11
 not_held: 22
-record: 175fbd5daeac
+record: 28f05ba3a270
 ---
 
 # News, Oct – Nov 2026
@@ -143,6 +143,20 @@ The second phase of Comoros's civil-registration modernisation project was repor
 **[Conseil des ministres I Approbation d’un projet d’électrification complète de la région de Mledjele à Mwali](https://alwatwan.net/politique/conseil-des-ministres-i-approbation-d%E2%80%99un-projet-d%E2%80%99%C3%A9lectrification-compl%C3%A8te-de-la-r%C3%A9gion-de-mledjele-%C3%A0-mwali.html)** — Al-watwan, 22 October 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registre social unique</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Gouvernement comorien et la Banque mondiale renforcent leur partenariat autour du Projet Mayendeleyo](https://pfss-comores.org/articles/le-gouvernement-comorien-et-la-banque-mondiale-renforcent-leur-partenariat-autour-du-projet-mayendeleyo)** — PFSS-RRC, 9 November 2026
+
+Social registry reaches 81,075 households across 152 of 319 localities; DG for social protection created June 2025.
 
 </div>
 

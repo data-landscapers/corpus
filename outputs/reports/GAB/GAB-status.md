@@ -1,12 +1,12 @@
 ---
 title: Gabon: status report
-compiled: 2026-11-12
+compiled: 2026-11-14
 place: GAB
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 240
+sources_cited: 241
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -280,7 +280,7 @@ In 2023 rural electricity access was far below the [near-universal urban rate](h
 
 In July 2026 counts of Gabonese start-ups ran to [roughly 150 to 200 firms](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-mobilise-la-garantie-publique-et-huawei-pour-soutenir-les-start-up-numeriques). [In 2025 a commercial tracker listing about that many found fewer than one in ten with disclosed funding](https://tracxn.com/d/geographies/gabon/__aRcH8lYOC74CSa9mr7vgyCQoub2_sqq1szeNGIYZm6k). [It found one disclosed round in the year to October](https://tracxn.com/d/geographies/gabon/__aRcH8lYOC74CSa9mr7vgyCQoub2_sqq1szeNGIYZm6k). [That round, of EUR 650,000 in October 2025, was led by Saviu Ventures in the fleet-telematics start-up POZI](https://www.ecofinagency.com/news-digital/0510-49294-gabon-s-pozi-raises-foreign-investment-in-first-ever-vc-deal-for-local-startup). [In May 2026 the UN Capital Development Fund placed Gabon in the third tier of African fintech markets, outside those drawing sustained venture capital](https://www.uncdf.org/article/9193/unlocking-capital-for-african-fintech-beyond-the-big-four-a-story-from-gabon). In 2025 [Akewa Accélérateur, the Société d'Incubation Numérique du Gabon and Ogooué Labs operated as innovation hubs, alongside an active angel investor network](https://www.afrilabs.com/hub_country/gabon/). [In August 2026 the Société d'Incubation Numérique du Gabon lost its director general after an audit and was placed under interim management](https://union.sonapresse.com/fr/sing-une-restructuration-en-vue-apres-le-depart-du-directeur-general). [A state takeover, a parapublic model or absorption into the national innovation centre were under discussion](https://union.sonapresse.com/fr/sing-une-restructuration-en-vue-apres-le-depart-du-directeur-general). [In September 2026 the former Woleu-Ntem governorate at Oyem was being converted into a pilot training and fabrication centre for digital skills, robotics and entrepreneurship](https://www.gabonreview.com/du-codage-aux-prototypes-a-oyem-une-maison-pour-donner-corps-aux-idees-innovantes/).
 
-[In 2025 an entity carried a public sector innovation remit, with no strategy or programme and nothing published on its results](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [There was no open source software policy or action plan for the public sector, and no body deciding on adopting or procuring open source](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+[In June 2025 the digital economy minister told start-ups that a legal status, tax relief during development and access to public procurement were envisaged](https://gabonmediatime.com/gabon-le-gouvernement-face-au-defi-de-lintegration-des-start-ups-dans-leconomie-numerique/). No bill has been found. [In 2025 an entity carried a public sector innovation remit, with no strategy or programme and nothing published on its results](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [There was no open source software policy or action plan for the public sector, and no body deciding on adopting or procuring open source](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
 ## Capacity
 

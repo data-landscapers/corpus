@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: TZA
-ledger_rows: 46
+ledger_rows: 47
 not_held: 4
-record: 330bd43787f7
+record: adcf67575f9a
 ---
 
 # News, Oct – Nov 2026
@@ -690,13 +690,21 @@ Bank of Tanzania Governor Emmanuel Tutuba said the bank has set up an AI and Dat
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Loan programme for youth-owned ICT start-ups</p>
+<p class="monthly-story__name">Startups Wezesha Fund (loans for youth-owned ICT start-ups)</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[Serikali yatenga Sh5 bilioni kwa ajili ya kampuni changa za Tehama](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-yatenga-sh5-bilioni-kwa-ajili-ya-kampuni-changa-za-tehama-5617578)** — Mwananchi, 2 October 2026
 
 Tanzania's ICT minister, Angellah Kairuki, launched a TZS 5bn loan programme for youth-owned ICT start-ups in Dodoma on 2 October 2026, run with Azania Bank. Loans come in three tiers from TZS 1m to TZS 100m, and applicants register on the Jamii Hunt system.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Serikali yaziita 'startups' kuchangamkia mkopo wa Sh5 bilioni](https://nukta.co.tz/serikali-yaziita-startups-kuchangamkia-mkopo-wa-sh5-bilioni)** — Nukta Habari, 15 October 2026
+
+Startups Wezesha Fund loans: TZS 5bn released of TZS 200bn youth pledge; applications to 30 May 2027.
 
 </div>
 
@@ -711,6 +719,20 @@ Tanzania's ICT minister, Angellah Kairuki, launched a TZS 5bn loan programme for
 **[SMZ yatenga Sh53 bilioni kuendesha miradi ya Tehama](https://www.mwananchi.co.tz/mw/zanzibar/habari/smz-yatenga-sh53-bilioni-kuendesha-miradi-ya-tehama-5618282)** — Mwananchi, 3 October 2026
 
 Summarised under [Data Storage](#data-storage).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Startup Policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania to Develop Dedicated Startup Policy Within Six Months](https://www.tanzaniainvest.com/industry/startup-policy-within-six-months)** — TanzaniaInvest, 20 October 2026
+
+VP directive, 19 Oct 2026: Industry and Trade ministry to finalise startup policy within six months; startup hub.
 
 </div>
 

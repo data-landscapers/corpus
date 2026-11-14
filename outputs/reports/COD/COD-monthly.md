@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: COD
-ledger_rows: 49
+ledger_rows: 50
 not_held: 6
-record: eb1659bf4445
+record: 5fa3722f6716
 ---
 
 # News, Oct – Nov 2026
@@ -751,6 +751,20 @@ Summarised under [Sectoral management information systems](#sectoral-management-
 **[Transformation numérique : Augustin Kibassa Maliba s’inspire du modèle Skolkovo pour le futur Technopark de Kinshasa](https://actu7.cd/2026/10/08/transformation-numerique-augustin-kibassa-maliba-sinspire-du-modele-skolkovo-pour-le-futur-technopark-de-kinshasa/)** — Actu7.cd, 8 October 2026
 
 The DRC's digital economy minister visited the Skolkovo innovation centre near Moscow as a model for a technology park and sovereign data centre planned for Kinshasa's extension zone. No site, cost or timetable is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Startup Act implementing decrees</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Loi sur les Startup : 4 ans après la promulgation, la RDC attend toujours un dispositif de labellisation opérationnel](https://doseco.cd/2026/11/07/loi-sur-les-startup-4-ans-apres-la-promulgation-la-rdc-attend-toujours-un-dispositif-de-labellisation-operationnel/)** — DosEco, 7 November 2026
+
+Labelling committee, created by decree of 5 June 2026, first meets 4 November 2026 with no budget or secretariat.
 
 </div>
 
