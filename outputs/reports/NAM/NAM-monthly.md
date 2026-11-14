@@ -3,9 +3,9 @@ title: Namibia — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: NAM
-ledger_rows: 21
+ledger_rows: 22
 not_held: 8
-record: 34ed95625720
+record: 4036f8014879
 ---
 
 # News, Oct – Nov 2026
@@ -327,6 +327,20 @@ The Namibian Police has begun overhauling its E-Policing System after slow proce
 **[Cabinet directs MICT to standardise online service reporting](https://www.nampa.org/text/23034916)** — NAMPA, 8 October 2026
 
 Namibia's Cabinet directed the ICT ministry to develop a standard template for reporting which government services are available online.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NDP6 online monitoring and evaluation dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Online Monitoring Dashboard Ready, NPC Tells Prime Minister](https://www.caprivivision.com/online-monitoring-dashboard-ready-npc-tells-prime-minister/)** — Caprivi Vision, 14 November 2026
+
+Namibia's National Planning Commission told Prime Minister Elijah Ngurare on 13 November 2026 that its online dashboard for NDP6 projects is complete but not yet live. Built with the University of Namibia, it will let the public track projects and compare capital spending with budgets. Slow progress reports from ministries and agencies are holding it back.
 
 </div>
 
