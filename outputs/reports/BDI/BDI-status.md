@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 271
+sources_cited: 273
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -53,7 +53,7 @@ Until then the digital statutes were [the 2022 cybercrime statute](https://amate
 
 [In 2023 Burundi, a member of COMESA, the East African Community and ECCAS, scored 61.8 out of 100 for Regional Integration, seventh of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bi.pdf). [It was the country's best-ranked measure, in a business environment ranked 43rd](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bi.pdf). [From 16 to 21 February 2026 Burundi hosted the Central Africa Internet Governance Forum for the first time, with eleven countries taking part](https://finances.gov.bi/index.php/2026/02/19/le-burundi-accueille-pour-la-premiere-fois-le-forum-sur-la-gouvernance-de-linternet-en-afrique-centrale/). [From 9 to 12 November 2026 Burundi and the COMESA secretariat met in Bujumbura to prepare its connection to the regional electronic certificate of origin platform](https://lionweek.com/burundi-begins-groundwork-for-paperless-comesa-trade-certificates/).
 
-[In October 2024 Burundi and Zambia signed a memorandum for a cable under Lake Tanganyika to Makamba](https://itweb.africa/article/burundi-zambia-agree-underwater-fibre-connection/kLgB17ezr59M59N4). [In July 2026 Burundi named postal modernisation and internet infrastructure as its priorities with Vietnam](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe). [Vietnam asked in return for a wider role for Viettel's local operator Lumitel](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe). [On Burundi's side the channel runs through the secretary general of the ruling CNDD-FDD party](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe).
+[In November 2019 the national research and education network, BERNET, was connected to the regional UbuntuNet network over a 500 Mbps link from Kigali](https://ubuntunet.net/stories/burundi-education-and-research-network-connects-to-ubuntunet-network-under-the-european-commission-co-funded-africaconnect2-project/). [Its capacity uptake rose from 0.13 to 0.4 Gbps in 2023](https://ubuntunet.net/app/uploads/2024/05/Annual-Report-for-2023-FINAL.pdf). [In October 2024 Burundi and Zambia signed a memorandum for a cable under Lake Tanganyika to Makamba](https://itweb.africa/article/burundi-zambia-agree-underwater-fibre-connection/kLgB17ezr59M59N4). [In July 2026 Burundi named postal modernisation and internet infrastructure as its priorities with Vietnam](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe). [Vietnam asked in return for a wider role for Viettel's local operator Lumitel](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe). [On Burundi's side the channel runs through the secretary general of the ruling CNDD-FDD party](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe).
 
 ### Standards
 <!-- gov.standards -->
