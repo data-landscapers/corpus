@@ -3,9 +3,9 @@ title: Botswana — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: BWA
-ledger_rows: 17
+ledger_rows: 19
 not_held: 5
-record: fee2babd5723
+record: 6db5bbb078a5
 ---
 
 # News, Oct – Nov 2026
@@ -175,6 +175,8 @@ Air Botswana activated incident-response procedures after a suspected ransomware
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -196,6 +198,22 @@ Botswana's labour and home affairs minister Pius Mokgware said the backlog of Om
 
 </div>
 
+### Digital Payments and Fintech
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic funds transfer clearing enhancement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[State of the Nation Address to the First Meeting of the Third Session of the Thirteenth Parliament: The Steady Path Continues](https://drive.google.com/file/d/1y84D7XstYzs9eN9oJJRdr_reZhaSLIZI/view)** — Office of the President, Republic of Botswana (President Duma Gideon Boko), 9 November 2026
+
+Boko's 2026 State of the Nation Address, the delivered 53-page text.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -207,6 +225,20 @@ Botswana's labour and home affairs minister Pius Mokgware said the backlog of Om
 **[Botswana explores AI integration into National Health Insurance](https://www.mmegi.bw/ampArticle/124451)** — Mmegi, 21 October 2026
 
 A consultant to Botswana's planned National Health Insurance scheme said authorities are considering digital and AI tools to coordinate public and private providers, now that Parliament has approved the NHI policy and a financing model is being prepared to accompany the bill. The government has allocated P77.8m this year to set up the scheme.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central Medical Stores digitalisation</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[State of the Nation Address to the First Meeting of the Third Session of the Thirteenth Parliament: The Steady Path Continues](https://drive.google.com/file/d/1y84D7XstYzs9eN9oJJRdr_reZhaSLIZI/view)** — Office of the President, Republic of Botswana (President Duma Gideon Boko), 9 November 2026
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
