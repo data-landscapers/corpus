@@ -1,5 +1,6 @@
 ## 14 November 2026
 
+- Seychelles's 2027 draft budget is in the tables at programme level: 23 lines from the estimates volume, SCR 168.9m wholly and 46.6m partly digital, replacing the four whole-department figures read from the bill. SCR 124.8m of digital projects paid for by World Bank and Indian loans and grants is left out as donor money.
 - Burundi rises from 3 to 5 on statistics law (gov.legislate--statistics-legislation): 2022 decrees set up its statistics council and authority under the law, amended again in 2023. A survey visa granted in 2024 and the council's session of November 2026 apply it.
 - Djibouti rises from 3 to 4 on statistics law (gov.legislate--statistics-legislation): its 2019 statistics institute law, amended in 2021, has decrees setting the institute's statutes and naming its board. No act under the law since 2023 has been found.
 - Guinea-Bissau is placed at 2 on the statistics strategy (data.statistics--national-strategy-for-development-of-statistics), where it had no stage: its statistics institute posted a draft plan for the national statistical system over 2023-2028. No adoption of the plan has been found.

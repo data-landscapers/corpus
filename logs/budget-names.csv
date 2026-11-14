@@ -1442,7 +1442,7 @@ SYC,hosting,Sovereign wealth fund / National pension fund,,Seychelles Pension Fu
 SYC,hosting,Energy utility,,Public Utilities Corporation,no line,
 SYC,hosting,Ports authority,,Seychelles Ports Authority,no line,
 SYC,hosting,State-owned telco / National backbone operator,,Cable & Wireless Seychelles,no line,
-SYC,hosting,E-government agency,ict-ministry-egov,Department of Information Communications Technology,line,syc-2027-022x000
+SYC,hosting,E-government agency,ict-ministry-egov,Department of Information Communications Technology,no line,
 SYC,hosting,Anti-corruption commission,,Anti-Corruption Commission of Seychelles,line,syc-2024-150e000-p1-case-management-software
 SYC,hosting,E-government agency,ict-ministry-egov,Department of Information Communications Technology (DICT),line,syc-2024-022x000-p1
 TCD,hosting,Presidency,,Présidence de la République du Tchad,no line,
@@ -1469,6 +1469,7 @@ TCD,hosting,Cybersecurity agency / National CERT,cybersecurity,Agence Nationale 
 TCD,hosting,Communications regulator,communications-regulator,Autorité de Régulation des Communications Électroniques et des Postes,no line,
 TCD,hosting,Audit office,,Cour des comptes,no line,
 TCD,hosting,Anti-corruption commission,,Autorité Indépendante de Lutte contre la Corruption,no line,
+TCD,deal-recipient,Public Sector,,Government of Chad,no line,
 TCD,deal-recipient,Public Sector,,Republic of Chad,no line,
 TCD,deal-recipient,Private Sector,,"Chad (TCD); recipient organisation not named, recipient unspecified",no line,
 TGO,hosting,Presidency,,Présidence de la République togolaise,no line,

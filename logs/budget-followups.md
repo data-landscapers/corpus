@@ -27,5 +27,3 @@ One line per country, worst first, written on 2026-10-02 from checks A to C of t
 ## Queued by the budget poll
 
 One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes them; delete a line in the commit that settles it.
-- **SYC FY2027** — budget-estimates adds appropriated: [[2026-11-13-syc-2027-budget-book-part-1-estimates-companion]] (queued 2026-11-14).
-- **SYC FY2027** — mtef proposed already held — read it for a revision: [[2026-11-13-syc-2027-budget-book-part-2-assumptions-objectives-companion]] (queued 2026-11-14).

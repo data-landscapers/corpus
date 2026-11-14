@@ -629,17 +629,17 @@ SWZ,land-registry,found,partial,2,swz-2025-10-X509,,rows,,
 SWZ,social-registry,found,whole,3,swz-2024-06-S354,,rows,,
 SWZ,population-register,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names a population register apart from the civil registration systems that are held",2026-10-02
 SWZ,data-exchange,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names interoperability or a data exchange",2026-10-02
-SYC,statistics,found,whole,13,syc-2024-040j000-p1,National Bureau of Statistics,rows,,
-SYC,civil-registration-id,found,partial,3,syc-2024-064x000-p2,,rows,,
+SYC,statistics,found,whole,16,syc-2024-040j000-p1,National Bureau of Statistics,rows,,
+SYC,civil-registration-id,found,partial,4,syc-2024-064x000-p2,,rows,,
 SYC,communications-regulator,found,partial,4,syc-2024-020d000-p1,,rows,,
-SYC,ict-ministry-egov,found,whole,1,syc-2026-022x000-p2,Department of Information Communications Technology; Department of Information Communications Technology (DICT),rows,,
-SYC,cybersecurity,found,whole,3,syc-2024-040l000-p2-penetration-testing,,rows,,
+SYC,ict-ministry-egov,found,whole,2,syc-2026-022x000-p2,Department of Information Communications Technology; Department of Information Communications Technology (DICT),rows,,
+SYC,cybersecurity,found,whole,4,syc-2024-040l000-p2-penetration-testing,,rows,,
 SYC,data-protection,absent,,,,,hand,"keyword scan of the budget estimates and the budget assumptions and objectives volumes for 2024, 2025 and 2026: no body or line is funded for data protection; the Information Commission (SCR 3,529 thousand in 2024) administers access to information",2026-10-02
 SYC,revenue-systems,found,whole,3,syc-2024-180x000-p1-sp1.1-investment-portal,Seychelles Revenue Commission,rows,,
 SYC,treasury-fmis,found,whole,3,syc-2024-041x000-p6-ifmis-psip,Ministry of Finance,rows,,
 SYC,procurement,absent,,,,,hand,"keyword scan of the budget estimates and the budget assumptions and objectives volumes for 2024, 2025 and 2026: the procurement oversight unit is funded as a body and the national e-procurement system appears in the text as a plan with no line",2026-10-02
 SYC,electoral-register,absent,,,,Electoral Commission of Seychelles,hand,"keyword scan of the budget estimates and the budget assumptions and objectives volumes for 2024, 2025 and 2026: the Electoral Commission is funded as one body (SCR 19,316 thousand in 2024) with no line for the voter register",2026-10-02
-SYC,land-registry,found,whole,5,syc-2024-090x000-p2-sp3,Land Registration Division,rows,,
+SYC,land-registry,found,whole,7,syc-2024-090x000-p2-sp3,Land Registration Division,rows,,
 SYC,social-registry,found,whole,1,syc-2026-170c000-p1-social-registry,,rows,,
 SYC,population-register,found,partial,1,syc-2024-064x000-p2,,hand,"the national population database is kept by the immigration and civil status department's citizen's affairs programme, which is held at partial; the estimates' programme text says it maintains the database and issues identity cards",2026-10-02
 SYC,data-exchange,absent,,,,,hand,"keyword scan of the budget estimates and the budget assumptions and objectives volumes for 2024, 2025 and 2026: interoperability appears in strategy text only; no line funds a data exchange",2026-10-02
