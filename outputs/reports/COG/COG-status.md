@@ -1,12 +1,12 @@
 ---
 title: Congo: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 196
+sources_cited: 199
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -203,7 +203,7 @@ The rules are set regionally. [BEAC owns 99.2 percent of GIMACPAY, acts as its s
 
 [Since 2020 the national cadastre has been the civil register of land and the sole keeper of property information](https://faolex.fao.org/docs/pdf/con203838.pdf). [A 2022 organic law allows land titles to be issued electronically through one-stop land offices](https://www.sgg.cg/JO/2022/congo-jo-2022-28.pdf).
 
-[In 2025 neither the human resources system nor social insurance used the national identity number](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [An identity card is issued only on presentation of an original civil-status document such as a birth certificate](https://interieur.gouv.cg/carte-nationale-didentite/). [The voter roll is revised administratively, without biometrics](https://societe.cg/actualites/gouvernance-electorale-reduire-les-couts-des-frais-de-participation-aux-differents-scrutins/).
+[An order of March 2020 makes the 16-character unique identification number the compulsory key of every public agency's information system](https://niu.cg/sites/default/files/2022-03/Arrete_n5327_du_12-03-2020-attribution-utilisation-numero-identification.pdf). [In 2025 neither the human resources system nor social insurance used the national identity number](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [An identity card is issued only on presentation of an original civil-status document such as a birth certificate](https://interieur.gouv.cg/carte-nationale-didentite/). [The voter roll is revised administratively, without biometrics](https://societe.cg/actualites/gouvernance-electorale-reduire-les-couts-des-frais-de-participation-aux-differents-scrutins/).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->
@@ -269,9 +269,9 @@ Firms trade in conditions that make any of this harder. Congo's [business and co
 ### Innovation ecosystem
 <!-- tech.innovate -->
 
-Private money has begun to appear where public money does not. Brazzaville delivery platform [Noki Noki raised a US$3 million seed round](https://trendtype.com/news/brazzaville-based-delivery-platform-noki-noki-secures-3m-in-seed-funding/) in 2024, and Fondation BantuHub and L'Archer Group [committed EUR 1 million of equity to Congolese startups and small firms over 2026](https://launchbaseafrica.com/2025/12/22/congos-e1m-slow-build-vc-fund-aims-to-defy-central-africas-startup-odds/) (December 2025). Against that, the state contributes [no public financing to startups or small firms for innovation and no procurement preference for their bids](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+Private money has begun to appear where public money does not. Brazzaville delivery platform [Noki Noki raised a US$3 million seed round](https://trendtype.com/news/brazzaville-based-delivery-platform-noki-noki-secures-3m-in-seed-funding/) in 2024, and Fondation BantuHub and L'Archer Group [committed EUR 1 million of equity to Congolese startups and small firms over 2026](https://launchbaseafrica.com/2025/12/22/congos-e1m-slow-build-vc-fund-aims-to-defy-central-africas-startup-odds/) (December 2025). [Their Bantulab incubator took its first laureate, a payments aggregator, in February 2026](https://www.vox.cg/accompagnement-intensif-de-24-mois-pour-la-premiere-entreprise-laureate-de-bantulab/). Against that, the state contributes [no public financing to startups or small firms for innovation and no procurement preference for their bids](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
-The public sector does not innovate on its own account either. As at 2025 Congo had [no strategy or programme to improve public sector innovation, no government entity or innovation lab responsible for it, no collaboration with the private sector on it, and published nothing on innovation results](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update); there is likewise [no national strategy on emerging technologies and no open source policy for the public sector](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The one legislative move in this direction has stalled: a [start-up label adopted in law in 2022 had still not been brought into effect](https://www.journaldunet.com/start-up/1548353-brazzaville-prochaine-frontiere-de-la-tech-africaine-ce-que-les-startups-congolaises-revelent-de-l-afrique-centrale-de-demain/) by 2025. The supporting infrastructure is a handful of hubs, [Jokkolabs Congo among them](https://www.afrilabs.com/hub/jokkolabs-congo/) (2024).
+The public sector does not innovate on its own account either. As at 2025 Congo had [no strategy or programme to improve public sector innovation, no government entity or innovation lab responsible for it, no collaboration with the private sector on it, and published nothing on innovation results](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update); there is likewise [no national strategy on emerging technologies and no open source policy for the public sector](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The one legislative move in this direction has stalled: a [start-up label adopted in law in 2022 had still not been brought into effect](https://www.journaldunet.com/start-up/1548353-brazzaville-prochaine-frontiere-de-la-tech-africaine-ce-que-les-startups-congolaises-revelent-de-l-afrique-centrale-de-demain/) by 2025. The supporting infrastructure is a handful of hubs, [Jokkolabs Congo among them](https://www.afrilabs.com/hub/jokkolabs-congo/) (2024). [Yekolab has run an incubator and training centre in Brazzaville and Pointe-Noire since 2015](https://www.wearetech.africa/en/fils-uk/tech-stars/republic-of-congo-yekolab-empowers-entrepreneurs-makes-children-tech-savvy) (November 2023).
 
 ## Capacity
 
