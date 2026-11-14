@@ -3,9 +3,9 @@ title: DR Congo — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: COD
-ledger_rows: 52
+ledger_rows: 53
 not_held: 6
-record: 671d69227de4
+record: 8d620e979157
 ---
 
 # News, Oct – Nov 2026
@@ -771,6 +771,36 @@ Summarised under [Sectoral management information systems](#sectoral-management-
 **[WHO deploys PDX preparedness intelligence platform in the Democratic Republic of the Congo](https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo)** — WHO Regional Office for Africa, 19 October 2026
 
 Summarised under [Sectoral management information systems](#sectoral-management-information-systems).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MIMPA, the land-affairs ministry's AI virtual assistant</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Économie numérique : Augustin Kibassa Maliba pour l'interconnexion de MIMPA au RDC-PASS et au Guichet numérique afin de dématérialiser les services fonciers - Augustin Kibassa](https://augustinkibassa.cd/2026/11/12/economie-numerique-augustin-kibassa-maliba-pour-linterconnexion-de-mimpa-au-rdc-pass-et-au-guichet-numerique-afin-de-dematerialiser-les-services-fonciers/)** — Ministère de l'Économie numérique (RDC), 12 November 2026
+
+Digital ministry's own account: four strengths of MIMPA, state-hosted model, call for an AI-use charter per body.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : Kinshasa mise sur l’IA pour faciliter les démarches foncières](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-kinshasa-mise-sur-l-ia-pour-faciliter-les-demarches-foncieres)** — wearetech.africa, 13 November 2026
+
+MIMPA to link to RDC-PASS and Guichet numérique, no timetable; model and chats hosted under state control.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : le Gouvernement lance Mimpa, une assistante virtuelle pour faciliter l’accès à l’information foncière](https://actualite.cd/2026/11/14/rdc-le-gouvernement-lance-mimpa-une-assistante-virtuelle-pour-faciliter-lacces)** — ACTUALITE.CD, 14 November 2026
+
+DR Congo's land-affairs ministry launched MIMPA, an AI virtual assistant on land law and procedures, on 12 November 2026 in Kinshasa. Prime Minister Judith Suminwa chaired the launch. The digital-economy minister said it will connect to the Guichet numérique, RDC-PASS authentication and the national e-certification authority, with no timetable given.
 
 </div>
 
