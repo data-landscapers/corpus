@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 9
-sources_cited: 221
+sources_cited: 222
 sections_written: 39
 not_established: 0
 acquire_lines: 62
@@ -32,7 +32,7 @@ Delivery sits with the digital transition ministry, [budgeted as section 31 acro
 [Loi n° 014-2024/ALT of 9 July 2024 on information-systems security](https://www.an.bf/storage/libelrapportautres/rXFCav065KRZXiB2PB65xip11Qg8fPpCZ3sjGpsf.pdf) repeals all contrary prior provisions without naming a single instrument. It also [leaves the national cyberspace-control body that is to issue its approvals to be created by a later decree](https://www.an.bf/storage/libelrapportautres/rXFCav065KRZXiB2PB65xip11Qg8fPpCZ3sjGpsf.pdf). A [decree of 5 March 2025 set the conditions for granting, renewing and withdrawing the technical approvals required to import or sell security products](https://www.laborpresse.net/materiels-et-logiciels-de-cybersecurite-desormais-la-commercialisation-conditionnee-par-un-agrement-au-burkina-faso/). A [decree of 30 July 2026 fixed the conditions for periodic security audits and for accrediting the auditors who conduct them](https://burkina24.com/wp-content/uploads/2026/07/CONSEIL-DES-MINISTRES-N%C2%B025-DU-30-JUILLET-2026.pdf).
 
 <!-- derived -->
-Four separate ministerial permissions sit across two Burkinabè statutes — the agrément technique on the import and sale of security products, the accreditation of security auditors and the homologation of critical-infrastructure security products under the 2024 information-systems security law, and the visa statistique under the 2021 statistics law — and [only the agrément technique and the auditor accreditation have implementing decrees on file, of March 2025 and July 2026](https://www.laborpresse.net/materiels-et-logiciels-de-cybersecurite-desormais-la-commercialisation-conditionnee-par-un-agrement-au-burkina-faso/).
+Four separate ministerial permissions sit across two Burkinabè statutes — the agrément technique on the import and sale of security products, the accreditation of security auditors and the homologation of critical-infrastructure security products under the 2024 information-systems security law, and the visa statistique under the 2021 statistics law — and three have implementing decrees on file: [the agrément technique since March 2025](https://www.laborpresse.net/materiels-et-logiciels-de-cybersecurite-desormais-la-commercialisation-conditionnee-par-un-agrement-au-burkina-faso/), [the visa statistique since August 2025](https://cns.bf/telecharger/textes-et-reglements/CNS_26-08-2025_De%CC%81cret%20portant%20modalite%CC%81s%20de%20demande%20et%20d%E2%80%99octroi%20du%20visa%20statistique.pdf/) and [the auditor accreditation since July 2026](https://burkina24.com/wp-content/uploads/2026/07/CONSEIL-DES-MINISTRES-N%C2%B025-DU-30-JUILLET-2026.pdf). None has been found for the homologation.
 
 ### Data protection
 <!-- gov.protect -->
