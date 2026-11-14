@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 9
-sources_cited: 274
+sources_cited: 275
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -298,7 +298,7 @@ In 2021 [no identity-specific judicial oversight existed, and grievances ran thr
 
 [Kigali Innovation City, a 60-hectare technopark built as a public-private partnership, broke ground in September 2024](https://www.africa50.com/investing-for-growth/projects-investments/kigali-innovation-city/). [The EU funds Hanga Hubs in Muhanga, Nyagatare, Rubavu and Rusizi to 2026](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2021-PCC-420559). [JICA set up the 250STARTUPS incubation mechanism and three secondary-city hubs](https://www.jica.go.jp/oda/project/1700493/index.html), and [runs a follow-on project to 2026](https://www.jica.go.jp/oda/project/202005081/index.html). [Carnegie Mellon University Africa's Innovation Hub took its fourth and largest incubation cohort, 15 startups, in May 2025](https://www.africa.engineering.cmu.edu/news/2025/05/08-ill-cohort.html). [The AIIB-financed acceleration project carries a digital innovation and entrepreneurship component](https://www.aiib.org/en/projects/details/2021/approved/Rwanda-Digital-Acceleration-Project-Digital-Investment-for-Recovery-Resilience-and-Connectivity.html).
 
-[The World Bank recorded in 2025 a public-sector innovation programme with an established institution behind it](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [eKash was developed domestically on an open-source architecture](https://www.wearetech.africa/en/fils-uk/news/tech/rwanda-launches-ekash-to-enable-nationwide-instant-interoperable-payments). In June 2025 [the Startup Act, announced about five years earlier, had still not been tabled in Cabinet](https://www.newtimes.co.rw/article/26957/news/technology/how-far-are-we-from-having-a-startup-act).
+[The World Bank recorded in 2025 a public-sector innovation programme with an established institution behind it](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [eKash was developed domestically on an open-source architecture](https://www.wearetech.africa/en/fils-uk/news/tech/rwanda-launches-ekash-to-enable-nationwide-instant-interoperable-payments). In June 2025 [the Startup Act, announced about five years earlier, had still not been tabled in Cabinet](https://www.newtimes.co.rw/article/26957/news/technology/how-far-are-we-from-having-a-startup-act). [A ministerial order of 13 February 2026 lets public bodies buy innovation through design contests and pre-commercial procurement](https://www.ubutabera.com/api/laws/cmn43b0cc001jg79qv3vge6pp/pdf).
 
 ## Capacity
 
