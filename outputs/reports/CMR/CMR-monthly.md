@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: CMR
-ledger_rows: 29
+ledger_rows: 31
 not_held: 3
-record: e7d5d04b7226
+record: 52210eed6dae
 ---
 
 # News, Oct – Nov 2026
@@ -145,6 +145,20 @@ ISO lists Cameroon's Agence des Normes et de la Qualité (ANOR) as a member body
 **[Agence de Régulation des Télécommunications, Communiqué n° 0000166/ART/DG du 10 novembre 2026 (contrôle pluridisciplinaire des opérateurs CAMTEL, MTN Cameroon et Orange Cameroun)](https://art.cm/sites/default/files/documents/COMMUNIQUE%20ART%2010%20NOV%202026.pdf)** — Agence de Régulation des Télécommunications (ART), Cameroun, 10 November 2026
 
 Cameroon's regulator ART reported on 10 November 2026 on its quality-of-service control of 13 July to 10 August 2026. It found 93 breaches of licence obligations: 41 for CAMTEL, valued at FCFA 8.2 billion, 29 for Orange Cameroun at FCFA 5.8 billion and 23 for MTN Cameroon at FCFA 4.6 billion. Each operator received a 15-day formal notice. An audit of CAMTEL's national fibre network found significant degradation.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MTN Cameroon quality-of-service roadmap agreed with the regulator at Kribi</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FOLLOW-UP ON THE IMPLEMENTATION OF MTN CAMEROON’S ROADMAP : ART ASSESSES PROGRESS AND REAFFIRMS ITS QUALITY OF SERVICE REQUIREMENTS](https://www.art.cm/en/article/follow-implementation-mtn-cameroon%E2%80%99s-roadmap-art-assesses-progress-and-reaffirms-its-quality)** — Agence de régulation des télécommunications (ART) Cameroun, 12 November 2026
+
+85% of Kribi roadmap actions done; 2026 capex 78.6% executed (CFAF 12.7bn); MTN concedes service below target.
 
 </div>
 
@@ -379,6 +393,20 @@ Nigeria Customs Service opened talks with Afreximbank on modernising the Sèmè�
 **[Santé numérique : le Cameroun accélère l’interconnexion de ses systèmes d’information sanitaires](https://scores2000.info/2026/11/sante-numerique-le-cameroun-accelere-l-interconnexion-de-ses-systemes-d-information-sanitaires.html)** — Scores2000, 3 November 2026
 
 Health IT stakeholders met in Kribi from 27 to 31 October 2026 on Cameroon's national health interoperability platform. A server hosted at CAMTEL runs the OpenHIM and OpenFn exchange tools. The workshop pre-validated a revised framework and worked on accreditation for health software.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Joint digital customs declaration system with Nigeria and Benin</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Customs pilots joint digital system to boost West African trade](https://guardian.ng/business-services/nigeria-customs-pilots-joint-digital-system-to-boost-west-african-trade/)** — The Guardian Nigeria, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Nigeria Customs said on 14 November 2026 that it is piloting a joint digital customs system with Benin and Cameroon. A declaration cleared in Nigeria becomes the receiving country's manifest, with AI translation between English and French. The ECOWAS Commission pledged support for a joint border post at Seme-Krake.
 
 </div>
 
