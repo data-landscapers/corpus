@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 233
+sources_cited: 235
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -293,7 +293,7 @@ Guinea [ranked 133rd of 139 economies in the 2025 Global Innovation Index](https
 ### Research institutions
 <!-- capacity.research -->
 
-[Univ Connect, run by the agency ANSUTEN, is linking 17 universities and institutes, 13 of them live at its December 2025 launch](https://mediaguinee.com/2025/12/la-ministre-pricemou-lance-un-vaste-projet-de-connexion-numerique-pour-17-universites-et-institut/). [In 2025 the programme had reached more than 80,000 students and staff](https://www.wearetech.africa/en/fils-uk/news/tech/guinea-reviews-2025-digital-sector-gains-targets-faster-rollout-in-2026). [In 2026 the Cité des sciences et de l'innovation and the higher-education ministry led Guinea's use of the UN blueprint for national AI strategies](https://www.csig.edu.gn/actualites/la-cite-des-sciences-et-de-linnovation-au-cur-du-digital-cooperation-day-la-guinee-trace-sa-voie-vers-lia-souveraine/). [Guinea is the second African country to use it, after Lesotho](https://www.csig.edu.gn/actualites/la-cite-des-sciences-et-de-linnovation-au-cur-du-digital-cooperation-day-la-guinee-trace-sa-voie-vers-lia-souveraine/).
+[Univ Connect, run by the agency ANSUTEN, is linking 17 universities and institutes, 13 of them live at its December 2025 launch](https://mediaguinee.com/2025/12/la-ministre-pricemou-lance-un-vaste-projet-de-connexion-numerique-pour-17-universites-et-institut/). [In 2025 the programme had reached more than 80,000 students and staff](https://www.wearetech.africa/en/fils-uk/news/tech/guinea-reviews-2025-digital-sector-gains-targets-faster-rollout-in-2026). [The regional research network WACREN reports Guinea connected to its backbone by December 2025](https://wacren.net/wp-content/uploads/2026/05/WACREN-2025-ANNUAL-REPORT.pdf). [In February 2026 the digital ministry tendered a feasibility study for a national research and education network](https://www.wardip-guinee.org.gn/en_GB/jobs/titre-du-poste-1). [In 2026 the Cité des sciences et de l'innovation and the higher-education ministry led Guinea's use of the UN blueprint for national AI strategies](https://www.csig.edu.gn/actualites/la-cite-des-sciences-et-de-linnovation-au-cur-du-digital-cooperation-day-la-guinee-trace-sa-voie-vers-lia-souveraine/). [Guinea is the second African country to use it, after Lesotho](https://www.csig.edu.gn/actualites/la-cite-des-sciences-et-de-linnovation-au-cur-du-digital-cooperation-day-la-guinee-trace-sa-voie-vers-lia-souveraine/).
 
 ## Inclusion
 
