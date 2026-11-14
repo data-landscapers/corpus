@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 258
+sources_cited: 259
 sections_written: 39
 not_established: 0
 acquire_lines: 67
