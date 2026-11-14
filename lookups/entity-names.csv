@@ -129,7 +129,7 @@ addis-ababa-city-administration,Addis Ababa City Administration,full,3
 addis-ababa-city-government-revenues-bureau,Addis Ababa City Government Revenues Bureau,full,1
 addis-ababa-civil-registration-resident-services-agency,Addis Ababa Civil Registration and Residency Services,partial,1
 addis-ababa-othow,Dr. Addis Ababa Othow,full,1
-addis-ababa-university,Addis Ababa University,full,4
+addis-ababa-university,Addis Ababa University,full,5
 addis-standard,Addis Standard,full,4
 addis-tax-initiative,Addis Tax Initiative,full,1
 addix,Addix,full,1
@@ -717,7 +717,7 @@ aniad-gnq,ANIAD,full,1
 anicns,ANICNS,full,6
 anict-mali,ANICT,full,1
 anie-algeria,L'ANIE,full,2
-anies-guinea,ANIES,full,4
+anies-guinea,ANIES,full,5
 animf-rdc,ANIMF,full,2
 aninf-gabon,ANINF,full,11
 anip-benin,ANIP BJ,full,5
@@ -748,7 +748,7 @@ anrtic,ANRTIC,full,5
 ansade-mauritania,ANSADE,full,4
 ansaec-mali,ANSAEC,full,6
 ansalb,ANSALB,full,2
-ansd,ANSD and DE Africa,full,1
+ansd,ANSD. Conditions,full,1
 anser,ANSER,full,4
 ansice,ANSICE,full,10
 ansie-djibouti,ANSIE,full,6
@@ -770,6 +770,7 @@ anthony-same,Anthony Same,full,2
 anthropic,Anthropic,full,10
 anti-corruption-bureau-malawi,Anti-Corruption Bureau,full,1
 anti-corruption-commission-eswatini,Anti-Corruption Commission,full,1
+anti-corruption-commission-sierra-leone,Anti-Corruption Commission,full,2
 anti-corruption-commission-zambia,Anti-Corruption Commission,full,1
 anti-fraud-consortium-uganda,Anti-Fraud Consortium,full,1
 anti-iffs-policy-tracker,Anti-IFFs Policy Tracker,full,1
@@ -1152,7 +1153,7 @@ basic-health-care-provision-fund,Basic Health Care Provision Fund,full,1
 bassola-pet,Bassola PET,full,1
 bau-mozambique,BAU. Este,full,1
 baxi,Baxi. Yet,full,1
-baxnaano,Baxnaano,full,2
+baxnaano,Baxnaano,full,3
 bayer-foundation,Bayer Foundation,full,1
 bayobab,Bayobab,full,7
 bayobab-zambia,Bayobab Zambia,full,2
@@ -1390,7 +1391,7 @@ brithol-michcoma-international,Brithol Michcoma International Limited,full,1
 british-council,British Council,full,3
 british-high-commission-nigeria,British High Commission,full,1
 british-international-investment,British International Investment,full,11
-british-red-cross,British Red Cross,full,2
+british-red-cross,British Red Cross,full,3
 british-standards-institution,British Standards Institution,full,3
 broadband-commission-for-sustainable-development,Broadband for Sustainable Development Programme,partial,1
 broadband-infraco,Broadband Infraco,full,6
@@ -1491,7 +1492,7 @@ caisff-mali,CAISFF,full,3
 caisse-de-retraites-du-togo,La Caisse de Retraites du Togo,full,1
 caisse-marocaine-des-retraites,Caisse Marocaine des Retraites,full,1
 caliza,Caliza,full,1
-calp-network,CALP Network,full,1
+calp-network,CALP Network,full,2
 cambridge-analytica,Cambridge Analytica,full,2
 cambridge-resources-international,Cambridge Resources International,full,1
 cambridge-suptech-lab,Cambridge SupTech Lab,full,1
@@ -1780,7 +1781,9 @@ chapter-one-foundation-zambia,Chapter One Foundation,full,1
 charikaty,Charikaty,full,1
 charis-unmanned-aerial-solutions,CHARIS UNMANNED AERIAL SOLUTIONS LTD,full,1
 charlemagne-dah,Charlemagne Dah,full,1
+chasp-advisory,CHASP Advisory WhatsApp,full,1
 chassis,Chassis,full,1
+chatham-house,Chatham House,full,1
 chave-movel-digital-cabo-verde,Chave Móvel Digital de Cabo Verde,partial,3
 chavita,CHAVITA,full,1
 check-point-research,Check Point Research,full,1
@@ -2582,7 +2585,7 @@ development-bank-of-ethiopia,Development Bank of Ethiopia,full,2
 development-bank-of-rwanda,Development Bank of Rwanda,full,1
 development-gateway,Development Gateway,full,5
 development-partners-international,Development Partners International,full,4
-development-pathways,Development Pathways,full,4
+development-pathways,Development Pathways,full,5
 devtrust,Devtrust,full,2
 dfrlab,DFRLab,full,1
 dfs-lab,DFS Lab,full,3
@@ -3317,7 +3320,7 @@ eswatini-youth-employment-opportunities-project,Eswatini Youth Employment Opport
 ethekwini-metropolitan-municipality,Thekwini Metropolitan Municipality,partial,1
 ethel-cofie,Ethel Cofie,full,1
 ethica,Ethica,full,1
-ethics-and-anti-corruption-commission-kenya,Ethics and Anti-Corruption Commission,full,3
+ethics-and-anti-corruption-commission-kenya,Ethics and Anti-Corruption Commission,full,4
 ethio-djibouti-railway,Ethio-Djibouti Railway,full,1
 ethio-telecom,Ethio Telecom,full,4
 ethiopia-commodity-exchange,Ethiopia Commodity Exchange,full,1
@@ -3331,6 +3334,7 @@ ethiopian-bankers-association,Ethiopian Bankers Association,full,1
 ethiopian-beverages-association,Ethiopian Beverages Association,full,1
 ethiopian-communications-authority,Ethiopian Communications Authority,full,8
 ethiopian-customs-commission,Ethiopian Customs Commission,full,6
+ethiopian-disaster-risk-management-commission,Ethiopian Disaster Risk Management Commission,full,1
 ethiopian-electric-power,Ethiopian Electric Power,full,5
 ethiopian-electric-utility,Ethiopian Electric Utility,full,3
 ethiopian-federal-police,Ethiopian Federal Police,full,2
@@ -3485,7 +3489,7 @@ federal-civil-service-commission-nigeria,Federal Civil Service Commission,full,1
 federal-executive-council,Federal Executive Council,full,7
 federal-government-of-nigeria,Federal Government,full,2
 federal-government-of-nigeria-ministry,Federal Government of Nigeria,partial,1
-federal-government-of-somalia,Federal Government of Somalia,full,2
+federal-government-of-somalia,Federal Government of Somalia,full,3
 federal-high-court-nigeria,Federal High Court,full,11
 federal-ministry-marine-blue-economy-nigeria,Federal Ministry of Marine and Blue Economy,full,2
 federal-ministry-of-agriculture-and-food-security-nigeria,Federal Ministry of Agriculture and Food Security,full,4
@@ -3494,7 +3498,7 @@ federal-ministry-of-communications,Federal Ministry of Communications,full,1
 federal-ministry-of-finance-nigeria,Federal Ministry of Finance,full,4
 federal-ministry-of-health-and-social-welfare-nigeria,Federal Ministry of Health and Social Welfare,full,4
 federal-ministry-of-housing-and-urban-development-nigeria,Federal Ministry of Housing and Urban Development,full,4
-federal-ministry-of-humanitarian-affairs-nigeria,Federal Ministry of Humanitarian Affairs,full,1
+federal-ministry-of-humanitarian-affairs-nigeria,Federal Ministry of Humanitarian Affairs,full,2
 federal-ministry-of-industry-trade-and-investment-nigeria,Federal Ministry of Industry,partial,1
 federal-ministry-of-justice-nigeria,Federal Ministry of Justice,full,1
 federal-ministry-of-police-affairs,Ministry of Police Affairs,partial,3
@@ -3643,6 +3647,7 @@ fonds-mohammed-vi-pour-linvestissement,Fonds Mohammed VI,partial,2
 fonds-national-cadastre-congo,Fonds National du Cadastre du Congo,full,1
 fonds-national-foncier-madagascar,Fonds National Foncier,full,1
 fonds-service-universel-tic-burundi,Fonds de Service Universel des TIC,full,1
+fonds-social-rdc,Fonds Social,full,1
 fonds-souverain-djibouti,Fonds Souverain de Djibouti,full,5
 fong-stp,FONG-STP,full,2
 fongwama,Fongwama,full,1
@@ -3809,7 +3814,7 @@ gauteng-department-of-roads-and-transport,Department of Roads and Transport,part
 gauteng-provincial-government,Gauteng Provincial Government,full,1
 gauteng-provincial-legislature,Gauteng Provincial Legislature,full,1
 gavi,Global Alliance for Vaccines and Immunization,acronym,1
-gbessoke-benin,GBESSOKE,full,2
+gbessoke-benin,GBESSOKE,full,3
 gbif,GBIF Registration,full,1
 gbm-gabon,GBM Gabon,full,1
 gcb-bank,GCB Bank,full,1
@@ -4029,7 +4034,7 @@ glovo,Glovo,full,2
 gltn,Global Land Tool Network,acronym,2
 gmes-africa,GMES&Africa,full,1
 gnais,GNAIS,full,1
-gnhr-ghana,Ghana National Household Registry,acronym,9
+gnhr-ghana,Ghana National Household Registry,acronym,11
 go-girl-ict-initiative,Go Girl ICT Initiative,full,1
 goal-telecom,Goal Telecom,full,1
 gocab,GoCab,full,1
@@ -4072,7 +4077,7 @@ government-of-angola,Government of Angola,full,1
 government-of-botswana,Government of Botswana,full,2
 government-of-burundi,Government of Burundi,full,2
 government-of-cameroon,Government of Cameroon,full,1
-government-of-central-african-republic,Government,full,1
+government-of-central-african-republic,Government,full,2
 government-of-chad,E-Government,full,1
 government-of-comoros,Government of Comoros,full,2
 government-of-cote-divoire,GOVERNMENT Project,full,1
@@ -4731,7 +4736,7 @@ insapt,INSAPT,full,1
 insd-burkina-faso,DR-INSD,full,2
 inseed-tchad,INSEED-TCHAD URL,full,1
 inseed-togo,INSEED,full,11
-inseso-gnq,INSESO,full,4
+inseso-gnq,INSESO,full,5
 insightex,InsightEx,full,1
 insp-mali,Institut National de Santé Publique,acronym,1
 inspection-generale-detat-mauritania,Inspection Generale,partial,2
@@ -5061,7 +5066,7 @@ jerry-aziawa,Jerry Aziawa,full,1
 jes-british-columbia,British Columbia,partial,1
 jess-auerbach,Jess Auerbach,full,2
 jessica-davis-ba,Jessica Davis Ba,full,1
-jesuit-refugee-service,Jesuit Refugees Service,partial,1
+jesuit-refugee-service,Jesuit Refugee Service,full,1
 jeta-groupe,JETA Groupe,full,1
 jethi-software-development,Jethi Software Development PLC,full,1
 jeune-afrique,Jeune Afrique,full,1
@@ -5164,6 +5169,7 @@ kaduna-state-government,Kaduna State,partial,1
 kaios-technologies,KaiOS Technologies,full,1
 kaist,Korea Advanced Institute of Science and Technology,acronym,1
 kajou,Kajou,full,1
+kaku-mobile-money-malawi,Kaku Mobile Money Service,full,1
 kala-data-centre,Kala Data Centre,full,1
 kala-data-fzco,Kala Data FZCO,full,1
 kalp-foundation,Kalp Foundation,full,1
@@ -5462,7 +5468,7 @@ lazarus-chakwera,Lazarus McCarthy Chakwera,full,1
 lbc-global,LBC URL,full,1
 le-partenariat-centre-gaia,Le Partenariat Centre Gaïa,partial,1
 league-of-arab-states,League of Arab States,full,7
-leap-ghana,Livelihood Empowerment Against Poverty,acronym,4
+leap-ghana,Livelihood Empowerment Against Poverty,acronym,6
 leapfrog-investments,LeapFrog Investments,full,1
 learning-upgrade,Learning Upgrade,full,1
 leatherback,Leatherback,full,3
@@ -5939,7 +5945,7 @@ medusalocker,MedusaLocker,full,1
 medwaka,Medwaka,full,1
 medyc,Medyc,full,1
 meedan,Meedan,full,2
-meeza,Meeza,full,2
+meeza,Meeza,full,3
 mef-guinea,Ministry of Economy and Finance,acronym,1
 megatrends-afrika,Megatrends Afrika,full,1
 mehh-guinea,Ministry of Energy Hydrolics and Hydrocarbons,acronym,1
@@ -6070,7 +6076,7 @@ minijust-rwanda,MINIJUST,full,2
 mininfra-rwanda,MININFRA,full,3
 minirena-rwanda,MINIRENA,full,1
 ministere-administration-territoriale-togo,Administration Territoriale,partial,1
-ministere-affaires-sociales-benin,Ministre des Affaires Sociales,partial,3
+ministere-affaires-sociales-benin,Ministre des Affaires Sociales,partial,4
 ministere-affaires-sociales-drc,Affaires Sociales,partial,1
 ministere-de-la-fonction-publique-niger,Fonction Publique,partial,4
 ministere-de-la-sante-rca,MINISTERE DE LA SANTE ET,partial,1
@@ -6195,7 +6201,7 @@ ministry-of-education-zambia,Ministry of Education of Zambia,full,1
 ministry-of-electricity-and-renewable-energy-egypt,Ministry of Electricity and Renewable Energy,full,1
 ministry-of-electronics-and-information-technology-india,Ministry of Electronics and Information Technology,partial,2
 ministry-of-employment-and-social-affairs-seychelles,Ministry of Employment and Social Affairs,full,1
-ministry-of-employment-labour-and-social-security-sierra-leone,Labour and Social Security,partial,2
+ministry-of-employment-labour-and-social-security-sierra-leone,Labour and Social Security,partial,3
 ministry-of-energy-and-dams-south-sudan,Ministry of Energy and Dams,full,2
 ministry-of-energy-and-green-transition-ghana,Ministry of Energy and Green Transition,full,1
 ministry-of-energy-and-mineral-development-uganda,Ministry of Energy and Mineral Development,full,5
@@ -6271,7 +6277,7 @@ ministry-of-foreign-affairs-uae,Ministry of Foreign Affairs of Benin,partial,1
 ministry-of-foreign-affairs-zimbabwe,Deceased. The Ministry of Foreign Affairs,full,1
 ministry-of-foreign-trade-and-export-promotion-algeria,Ministry of Foreign Trade and Export Promotion,full,1
 ministry-of-gender-child-and-social-welfare-south-sudan,Ministry of Gender Child and Social Welfare,full,1
-ministry-of-gender-children-and-social-protection-ghana,Children and Social Protection,partial,7
+ministry-of-gender-children-and-social-protection-ghana,Children and Social Protection,partial,8
 ministry-of-gender-children-and-social-protection-liberia,Children and Social Protection,partial,5
 ministry-of-gender-children-and-social-welfare-gambia,Ministry of Gender Children and Social Welfare,full,1
 ministry-of-gender-labour-and-social-development-uganda,Ministry of Gender Labour and Social Development,full,3
@@ -6397,7 +6403,7 @@ ministry-of-labour-and-employment-lesotho,Ministry of Labour and Employment,full
 ministry-of-labour-and-home-affairs-botswana,Ministry of Labour and Home Affairs,full,7
 ministry-of-labour-and-rehabilitation-libya,Ministry of Labour and Rehabilitation,full,1
 ministry-of-labour-and-social-affairs-ethiopia,Ministry of Labour and Social Affairs The Ministry,full,1
-ministry-of-labour-and-social-protection-kenya,Ministry of Labour and Social Protection,full,2
+ministry-of-labour-and-social-protection-kenya,Ministry of Labour and Social Protection,full,3
 ministry-of-labour-and-social-security-zambia,Ministry of Labour and Social Security,full,1
 ministry-of-labour-egypt,Ministry of Labour,full,2
 ministry-of-labour-gender-and-social-action-mozambique,Gender and Social Action,partial,1
@@ -6464,7 +6470,6 @@ ministry-of-public-service-and-human-resource-development-south-sudan,Ministry o
 ministry-of-public-service-eswatini,Ministry of Public Service,full,1
 ministry-of-public-service-gambia,Ministry of Public Service,full,5
 ministry-of-public-service-labour-and-employment-burundi,Ministry of Public Service,partial,1
-ministry-of-public-service-labour-and-social-welfare-zimbabwe,Ministry of Public Service Labour and Social,partial,1
 ministry-of-public-service-lesotho,Ministry of Public Service,full,4
 ministry-of-public-service-uganda,Ministry of Public Service,full,8
 ministry-of-public-works-and-transport-eswatini,Ministry of Public Works and Transport,full,1
@@ -6476,10 +6481,11 @@ ministry-of-scientific-research-and-innovation-cameroon,Minister of Scientific R
 ministry-of-secondary-education-cameroon,Ministry of Secondary Education,full,5
 ministry-of-social-affairs-and-gender-equality-equatorial-guinea,Ministry of Social Affairs and Gender Equality,full,1
 ministry-of-social-affairs-cameroon,Ministry of Social Affairs,full,4
-ministry-of-social-affairs-libya,Ministry of Social Affairs,full,4
+ministry-of-social-affairs-libya,Ministry of Social Affairs,full,2
+ministry-of-social-affairs-tunisia,Ministry of Social Affairs,full,3
 ministry-of-social-integration-social-security-and-national-solidarity-mauritius,Social Security and National Solidarity The Ministry,partial,1
 ministry-of-social-security-mauritius,Ministry of Social Security,full,1
-ministry-of-social-solidarity-egypt,Ministry of Social Solidarity,full,3
+ministry-of-social-solidarity-egypt,Ministry of Social Solidarity,full,2
 ministry-of-social-welfare-sierra-leone,Ministry of Social Welfare,full,1
 ministry-of-solid-minerals-development-nigeria,Abuja The Ministry of Solid Minerals Development,full,1
 ministry-of-sport-and-arts-botswana,Ministry of Sport and Arts,full,1
@@ -6793,7 +6799,7 @@ n2-pay,N2 Pay,full,1
 naaip,NAAIP,full,1
 naccima,NACCIMA,full,4
 nacer-abdelli,Nacer Abdelli,full,1
-nacsa,NaCSA,full,10
+nacsa,NaCSA,full,11
 nadmo-ghana,NADMO,full,1
 nadpa,Network of African Data Protection Authorities,acronym,6
 nadra,NADRA,full,8
@@ -6844,7 +6850,7 @@ namibian-standards-institution,Namibian Standards Institution,full,1
 namibre,NamibRe,full,1
 nampol,NamPol,full,4
 namport,Namport,full,1
-nampost,NamPost,full,5
+nampost,NamPost,full,6
 nampower,NamPower,full,11
 nana-attobrah-quaicoe,Nana Attobrah Quaicoe,full,1
 nandan-nilekani,Nandan Nilekani,full,1
@@ -6863,7 +6869,7 @@ narss-egypt,National Authority for Remote Sensing and Space,acronym,1
 nasa,National Aeronautics and Space Administration,acronym,1
 naseni,NASENI,full,1
 nasrda,NASRDA,full,11
-nassco,NASSCO,full,4
+nassco,NASSCO,full,5
 nasscom,NASSCOM,full,1
 nassirou-bodo,Nassirou Bodo,full,1
 nassit-sierra-leone,NASSIT,full,1
@@ -6915,7 +6921,7 @@ national-bureau-of-statistics-act-2010-seychelles,NATIONAL BUREAU OF STATISTICS 
 national-bureau-of-statistics-nigeria,National Bureau of Statistics,full,12
 national-bureau-of-statistics-seychelles,National Bureau of Statistics Seychelles,full,3
 national-business-register-tunisia,National Business Register,full,1
-national-cash-transfer-office-nigeria,National Cash Transfer Office,full,2
+national-cash-transfer-office-nigeria,National Cash Transfer Office,full,4
 national-center-for-health-system-development-libya,National Center for Health System Development,full,1
 national-center-for-strategic-planning-sudan,National Center for Strategic Planning,full,1
 national-center-for-teacher-training-sudan,National Center for Teacher Training,full,1
@@ -7014,7 +7020,7 @@ national-electronic-licensing-committee-sudan,Electronic Licensing National Comm
 national-electronic-licensing-system-mauritius,National Electronic Licensing System,full,1
 national-emergency-telecommunications-plan-namibia,National Emergency Telecommunications Plan,full,2
 national-empowerment-authority-mauritius,National Empowerment Authority,full,1
-national-empowerment-foundation-mauritius,National Empowerment Foundation,full,3
+national-empowerment-foundation-mauritius,National Empowerment Foundation,full,4
 national-enterprise-corporation-uganda,National Enterprise Corporation,full,2
 national-financial-ombud-south-africa,National Financial Ombud Scheme South Africa,full,2
 national-financial-switch-zambia,National Financial Switch,full,4
@@ -7122,7 +7128,7 @@ national-social-inclusion-foundation-mauritius,National Social Inclusion Foundat
 national-social-insurance-fund-south-sudan,National Social Insurance Fund,full,1
 national-social-investment-programme-agency-nigeria,National Social Investment Programme Agency,full,1
 national-social-protection-secretariat-gambia,National Social Protection Secretariat The Gambia,full,1
-national-social-protection-secretariat-kenya,National Social Protection Secretariat,full,1
+national-social-protection-secretariat-kenya,National Social Protection Secretariat,full,2
 national-social-protection-secretariat-sierra-leone,National Social Protection Secretariat,full,1
 national-social-register-nigeria,National Social Register,full,1
 national-social-security-authority-zimbabwe,National Social Security Authority of Zimbabwe,full,1
@@ -7355,7 +7361,7 @@ niyel,Niyel,full,3
 nizar-ben-neji,Dr. Nizar Ben Neji,full,2
 nkafu-policy-institute,Nkafu Policy Institute,full,2
 nkusi-it-siyasebenza,NKUSI-IT Siyasebenza,full,1
-nlgfc-malawi,National Local Government Finance Committee,acronym,5
+nlgfc-malawi,National Local Government Finance Committee,acronym,6
 nlrdp-nigeria,National Land Registration and Documentation Programme,acronym,1
 nltcp-liberia,National Leprosy and Tuberculosis Control Program,acronym,1
 nma-xui,Nma Xui,full,1
@@ -7387,7 +7393,7 @@ northern-bahr-el-ghazal-state-government,Northern Bahr El Ghazal State,partial,1
 northern-cape-department-of-education,Northern Cape Department of Education,full,1
 northern-corridor-integration-projects,Northern Corridor Integration Projects,full,8
 northern-regional-coordinating-council-ghana,Northern Regional Coordinating Council,full,1
-norwegian-refugee-council,Norwegian Refugee Council,full,4
+norwegian-refugee-council,Norwegian Refugee Council,full,5
 nosi,O NOSI,full,1
 nosi-egypt,National Organization for Social Insurance,acronym,3
 notiverse,Notiverse,full,1
@@ -7401,7 +7407,7 @@ novastar-ventures,Novastar Ventures,full,1
 novastar-ventures-africa-fund-ii,Novastar Ventures Africa Fund II,full,1
 novation-city,Novation City,full,1
 novian,Novian,full,1
-novissi,Novissi,full,6
+novissi,Novissi,full,7
 npc-nigeria,National Population Commission,acronym,8
 npci,National Payments Corporation of India,acronym,4
 npf-national-cybercrime-centre,National Cybercrime Centre. When Ugagbe,partial,1
@@ -7777,7 +7783,7 @@ oxfam-novib,Oxfam Novib,full,2
 oxford-business-group,Oxford Business Group,full,2
 oxford-capital-partners,Oxford Capital Partners,full,1
 oxford-insights,Oxford Insights,full,5
-oxford-policy-management,Oxford Policy Management,full,5
+oxford-policy-management,Oxford Policy Management,full,7
 oxinus,Oxinus,full,1
 oyass-capital,Oyass Capital,full,1
 oye,Oye Platform,full,1
@@ -8074,7 +8080,7 @@ post-for-investment,Post For Investment,full,1
 post-telecom,Post Telecom,full,1
 posta-uganda,Posta Uganda,full,6
 postal-and-courier-services-regulatory-commission-ghana,Postal and Courier Services Regulatory Commission,full,1
-postbank,Postbank,full,6
+postbank,Postbank,full,9
 posty-mob,Posty Mob,full,1
 potraz,POTRAZ,full,9
 pouchers,Pouchers,full,1
@@ -8131,7 +8137,7 @@ primature-senegal,Primature,full,3
 prime-africa,PRIME AFRICA,full,1
 prime-credit-reference-bureau,Prime Credit Reference Bureau,full,1
 prime-ministers-office-mauritius,Prime Minister's Office,partial,6
-prime-ministers-office-tanzania,Prime Minister’s Office,partial,4
+prime-ministers-office-tanzania,Prime Minister’s Office,partial,5
 prime-solutions,Prime Solutions,full,1
 primer-ministro-gnq,El Primer Ministro,full,3
 principal-consult-limited,Principal Consult Limited,full,1
@@ -8386,7 +8392,7 @@ registration-of-persons-act-2015,Registration of Persons Act,partial,5
 registre-commerce-societes-djibouti,Le Registre de Commerce,partial,1
 registre-national-des-entreprises-tunisie,Registre National des Entreprises,partial,3
 registre-social-djibouti,Registre Social,full,3
-registre-social-mauritanie,Registre Social,partial,2
+registre-social-mauritanie,Registre Social,partial,4
 registre-social-unique-burkina-faso,Registre Social Unique,full,3
 registre-social-unique-congo,Le Registre Social Unique du Congo,full,1
 registre-social-unique-drc,Registre Social Unique,full,1
@@ -8524,7 +8530,7 @@ rsaweb,RSAWeb,full,2
 rsf,RSF Index,full,1
 rstp,Royal Science and Technology Park,acronym,12
 rsu-comoros,Le Registre Social Unique,acronym,1
-rsu-cote-divoire,Registre Social Unique,acronym,4
+rsu-cote-divoire,Registre Social Unique,acronym,6
 rsu-drc,Registre Social Unique,acronym,1
 rsu-guinea,Registre Social Unifié,acronym,1
 rsu-mali,Registre Social Unifié,acronym,4
@@ -9145,7 +9151,6 @@ somalia-house-of-the-people,House Of The People Published,full,1
 somalia-instant-payment-system,Somalia Instant Payment System,full,4
 somalia-internet-governance-taskforce,Somali Internet Governance Taskforce,full,1
 somalia-ministry-communications-technology,Ministry of Communications and Technology,full,6
-somalia-ministry-labour-social-affairs,Ministry of Labour and Social Affairs,full,3
 somalia-ministry-of-agriculture,Ministry of Agriculture,full,1
 somalia-ministry-of-environment-and-climate-change,Ministry of Environment and Climate Change Somalia,full,1
 somalia-ministry-of-foreign-affairs-and-international-cooperation,Minister of Foreign Affairs and International Cooperation,partial,1
@@ -9479,7 +9484,7 @@ tahaluf,Tahaluf,full,4
 tahmo,TAHMO,full,1
 tai-fintech,TAI FINTECH,full,1
 taiwanicdf,TaiwanICDF,full,1
-takaful-and-karama,Takaful and Karama,full,5
+takaful-and-karama,Takaful and Karama,full,4
 takealot,Takealot,full,1
 talent-nation,Talent Nation,full,1
 talenteo,Talenteo,full,2
