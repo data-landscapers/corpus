@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: ZAF
-ledger_rows: 102
+ledger_rows: 103
 not_held: 17
-record: 86ef9699786a
+record: c6edaa5a0928
 ---
 
 # News, Oct – Nov 2026
@@ -1609,6 +1609,20 @@ Standard Bank Group signed a subscription agreement to invest in Nigerian fintec
 **[Introducing Our 2026 Cohort for the Google for Startups Accelerator: South Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/introducing-our-2026-cohort-for-the-google-for-startups-accelerator-south-africa/)** — Google, 5 October 2026
 
 Google named 15 South African-led, revenue-generating AI startups to its 2026 Google for Startups Accelerator: South Africa on 5 October 2026, chosen from 1,057 applications. Each gets up to R1 million in equity-free funding, access to Google's AI models and cloud, and mentorship over three months ending in a December Demo Day.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Le Shift Lab incubator (French embassy and Wits Tshimologong)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Shift Lab welcomes 14 start-ups to its incubation cohort](https://frenchinstitute.org.za/science-and-innovation/innovation/le-shift-lab-welcomes-14-start-ups-to-its-incubation-cohort/)** — French Institute of South Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
+
+French embassy and Wits Tshimologong incubator: first cohort of 14 green and digital start-ups from SA and Malawi.
 
 </div>
 
