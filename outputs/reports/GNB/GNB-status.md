@@ -1,12 +1,12 @@
 ---
 title: Guinea-Bissau: status report
-compiled: 2026-11-12
+compiled: 2026-11-14
 place: GNB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-27
 intersections_read: 22
-sources_cited: 178
+sources_cited: 179
 sections_written: 39
 not_established: 2
 acquire_lines: 31
@@ -328,6 +328,8 @@ The education ministry’s 2017 sector plan found [teachers’ subject competenc
 
 ### Research institutions
 <!-- capacity.research -->
+
+[RNEP-GW, the national research and education network, became a full member of the regional network WACREN in November 2024](https://rnep.gw/2024/11/19/rnep-gw-torna-se-membro-pleno-da-wacren/).
 
 [Universidade Lusófona da Guiné-Bissau runs a Licenciatura em Engenharia Informática of eight semesters](https://ulusofona.gw/engenharia-informatica/). [The Ministry of Education accredited it under Decreto-Lei n.º 1/2008](https://ulusofona.gw/engenharia-informatica/).
 
