@@ -3,9 +3,9 @@ title: Mauritania — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: MRT
-ledger_rows: 19
+ledger_rows: 20
 not_held: 3
-record: 773636724fdf
+record: 05229b62c2e1
 ---
 
 # News, Oct – Nov 2026
@@ -368,6 +368,8 @@ Benin and Mauritania compared their digital government programmes at Estonia's e
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -381,6 +383,22 @@ Benin and Mauritania compared their digital government programmes at Estonia's e
 **[Country Profile on AI Governance: Mauritania](https://www.aipolicy.africa/country-profiles/mauritania)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Mauritania scored 0.99 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 33 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (2.22) and its weakest is Implementation and Impact (0.22); the profile notes an AI strategy adopted in March 2024 and a 2017 data protection law still lacking implementing decrees.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Hadina RIMTIC technology incubator</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lancement du programme d'accompagnement des startups numériques](https://fr.linkedin.com/posts/giz-mauritanie_digital-gizmauritanie-coop%C3%A9rationallemande-activity-7516856753385316352-bRNN)** — GIZ Mauritanie, 16 October 2026
+
+GIZ Digital-Y programme, run by Hadina RIMTIC from October 2026, takes nine start-ups incl. three Gouvathon winners.
 
 </div>
 
