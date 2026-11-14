@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: CAF
-ledger_rows: 13
+ledger_rows: 14
 not_held: 5
-record: c8a850a70854
+record: 598187fbfc0e
 ---
 
 # News, Oct – Nov 2026
@@ -188,6 +188,8 @@ The Central African Republic launched a national portal for online government se
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -201,6 +203,22 @@ The Central African Republic launched a national portal for online government se
 **[Country Profile on AI Governance: Central African Republic](https://www.aipolicy.africa/country-profiles/central-african-republic)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 The Central African Republic scored 0.25 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 51 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Governance and Regulation (0.70); four pillars score 0.00.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">FAFECA digital incubator for women entrepreneurs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La FAFECA inaugure son incubateur numérique à Bangui en présence du ministre NGATE-ROBARD](https://www.fafeca.org/actualites/la-fafeca-inaugure-son-incubateur-numerique-a-bangui-en-presence-du-ministre-ngate-robard)** — FAFECA, 31 October 2026
+
+Women entrepreneurs' digital incubator opened 30 October 2026, financed by the EU and AFD with IECD support.
 
 </div>
 
