@@ -3,9 +3,9 @@ title: Egypt — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: EGY
-ledger_rows: 65
+ledger_rows: 66
 not_held: 35
-record: 07d3edfd6eac
+record: 04d47d92aac4
 ---
 
 # News, Oct – Nov 2026
@@ -1012,6 +1012,22 @@ Egypt's Public Prosecution announced on 11 November 2026 that it will open an AI
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[أورنچ مصر والنيابة العامة توسعان منظومة الخدمات الرقمية للمواطنين وتدخلان الذكاء الاصطناعي في المرحلة الثانية من التعاون - اليوم السابع](https://www.youm7.com/story/2026/11/14/%D8%A3%D9%88%D8%B1%D9%86%DA%86-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D9%88%D8%B3%D8%B9%D8%A7%D9%86-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%88%D8%AA%D8%AF%D8%AE%D9%84%D8%A7%D9%86%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%D9%81%D9%8A%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9%D9%85%D9%86%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86/7618130)** — Youm7, 14 November 2026
+
+A second account of the Public Prosecution protocol of 14 November 2026, from Orange Egypt's side. It describes the second phase of a partnership begun in November 2025. Guardians can file requests and pay fees through the Max it and Orange Cash apps. See the Public Prosecution entry for the full account.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزيرة التضامن تشهد افتتاح مركز بيانات النيابة العامة للذكاء الاصطناعي وتوقيع بروتوكول تعاون للتحول نحو العدالة الذكية](https://arqam.news/610073/)** — Arqam News, 14 November 2026
+
+Egypt's Public Prosecution opened an AI data centre at the Prosecutor-General's office on 14 November 2026. It signed a cooperation protocol with the social solidarity and communications ministries, Orange Egypt and e-finance. Guardianship-of-funds services from the family prosecution go online through Orange's app, with free SIM cards for court-appointed guardians and an AI assistant.
+
+</div>
+
 </div>
 
 ### ICT Industry
@@ -1033,6 +1049,20 @@ MNT-Halan listed its Egyptian business on the Cairo Stock Exchange, Egypt's larg
 **[Norfund-backed fund helps drive MNT-Halan’s rise from Egyptian startup to regional fintech leader](https://innovation-village.com/norfund-backed-fund-helps-drive-mnt-halans-rise-from-egyptian-startup-to-regional-fintech-leader/)** — Innovation Village, 12 November 2026
 
 MNT-Halan listed its Egyptian business on the Cairo Stock Exchange in Egypt's largest IPO since 2021, Innovation Village reported on 12 November 2026. The retail tranche was more than 43 times oversubscribed and the institutional tranche more than 19 times. Norfund committed USD 40m in 2019 to the DPI fund that invested in MNT-Halan in 2021.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Telecom Egypt revenue and profit</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Telecom Egypt Revenue Rises 19% to EGP 93.6 Billion in 9M 2026](https://techafricanews.com/2026/11/13/telecom-egypt-revenue-rises-19-percent-egp-93-6-billion-9m-2026/)** — Tech Africa News, 13 November 2026
+
+Net profit up 44% to EGP 24.4bn; data revenue up 30%; cash capex EGP 26.3bn, 28% of revenue.
 
 </div>
 
@@ -1133,6 +1163,14 @@ Egypt's planning minister Ahmed Rostom met the head of CAPMAS on 4 October 2026 
 **[EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals](https://digital-strategy.ec.europa.eu/en/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals)** — European Commission, DG CONNECT, 12 November 2026
 
 The European Commission said on 12 November 2026 that Egypt's electronic signature and seal framework is technically aligned with the EU's eIDAS Regulation. Egypt is the first country outside Europe to reach this. It will join the EU Third Countries Trusted List, so EU member states can validate its signatures and seals. The step was a deliverable of the EU-Egypt Summit of 22 October 2025.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt becomes 1st non-European country to achieve technical compatibility with EU electronic signature standards](https://sis.gov.eg/en/media-center/news/egypt-becomes-1st-non-european-country-to-achieve-technical-compatibility-with-eu-electronic-signature-standards/)** — State Information Service (Egypt), 13 November 2026
+
+ITIDA and DG CONNECT sign administrative arrangements; mutual trusted-list references.
 
 </div>
 
