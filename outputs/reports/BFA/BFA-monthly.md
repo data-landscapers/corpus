@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: BFA
-ledger_rows: 44
+ledger_rows: 45
 not_held: 6
-record: 66d03f7a65e0
+record: bb0e0b1a18cd
 ---
 
 # News, Oct – Nov 2026
@@ -479,6 +479,20 @@ Burkina Faso's tax directorate (DGI) announced that from 1 January 2027 large an
 **[Burkina Faso : Plus de 433 000 ménages recensés dans le Registre social unique](https://aesinsider.com/burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social-unique/)** — AES Insider, 27 October 2026
 
 AES Insider reported that Burkina Faso's social registry committee met on 27 October 2026 in Ouagadougou. The family and solidarity minister, Pélagie Kaboré, said the registry held 433,888 households at 30 June 2026, over 2 million people in 110 communes. She put this at 30% of the target and called for faster expansion and links to other systems.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online business creation requests</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CEFORE : Préparer votre création d'entreprise](https://creerentreprise.me.bf/)** — Maison de l'Entreprise du Burkina Faso (CEFORE), 13 November 2026
+
+One mobile-money fee bundles RCCM, IFU and CNSS; 6,916 creation requests 1 Jan to 13 Nov 2026, 98% sole traders.
 
 </div>
 
