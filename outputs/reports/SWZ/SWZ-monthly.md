@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: SWZ
 ledger_rows: 36
 not_held: 3
-record: fbfd35753640
+record: ea0d07ec9b20
 ---
 
 # News, Oct – Nov 2026
@@ -672,7 +672,7 @@ Eswatini's ICT ministry and Smart Africa opened a workshop on 7 October to devel
 
 **[Economic census to shape business growth and job creation in Eswatini](https://eswatinipositivenews.online/economic-census-to-shape-business-growth-and-job-creation-in-eswatini/)** — Eswatini Positive News, 13 October 2026
 
-Phase Two fieldwork from 14 October 2026; 27,462 active establishments counted in 2019.
+Eswatini's Central Statistical Office planned to start fieldwork for Phase Two of its Economic Census on 14 October 2026. Enumerators will collect data on business locations, employment, turnover and assets. The 2019 census recorded 27,462 active establishments, against 17,069 in 2011.
 
 </div>
 

@@ -3,8 +3,8 @@ title: National statistics — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: data.statistics
-places: DZA; BWA; BDI; CAF; COG; COD; EGY; GNQ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
-record: 511f6a021334
+places: DZA; BWA; BDI; CAF; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
+record: cb9ffaea6a28
 ---
 
 # News, Oct – Nov 2026
@@ -25,6 +25,8 @@ record: 511f6a021334
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#equatorial-guinea">Equatorial Guinea</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#eswatini">Eswatini</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -163,6 +165,20 @@ ICASEES launched the second collection wave of the Central African Republic's se
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Advance release calendar of official statistics</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Calendrier de publication des statistiques officielles – 2026](https://www.ins-congo.cg/uploads/publications/ins_6ad8553134ba03.75061568.pdf)** — Institut National de la Statistique, Direction de la Coordination Statistique, 1 October 2026
+
+The Congolese statistics institute set out its 2026 release calendar in October 2026. It lists 18 statistical products from five directorates, with expected release dates by quarter.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Permanent statistical system for informal cross-border trade</p>
 
 <div class="bulletin-item" markdown="1">
@@ -251,6 +267,22 @@ Equatorial Guinea's statistics institute opened a technical validation workshop 
 
 </div>
 
+## Eswatini
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Economic Census 2025/26</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Economic census to shape business growth and job creation in Eswatini](https://eswatinipositivenews.online/economic-census-to-shape-business-growth-and-job-creation-in-eswatini/)** — Eswatini Positive News, 13 October 2026
+
+Eswatini's Central Statistical Office planned to start fieldwork for Phase Two of its Economic Census on 14 October 2026. Enumerators will collect data on business locations, employment, turnover and assets. The 2019 census recorded 27,462 active establishments, against 17,069 in 2011.
+
+</div>
+
+</div>
+
 ## Ethiopia
 
 <div class="monthly-story" markdown="1">
@@ -268,6 +300,28 @@ Ethiopia's rebased national accounts put 2024/25 GDP at 24.03 trillion birr, aga
 </div>
 
 ## Gabon
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Third national strategy for the development of statistics</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SNDS 2027-2030 : l'INSTAT GABON renforce les capacités des acteurs du Système Statistique National](https://new.instatgabon.org/fr/actualite/snds-2027-2030-l-instat-gabon-renforce-les-capacites-des-acteurs-du-systeme-statistique-national)** — INSTAT Gabon, 5 October 2026
+
+Gabon's statistics institute has begun drafting its third national statistical development strategy, for 2027-2030, with support from the World Bank-backed HISWACA project. It is building the strategy on an evaluation of the previous one and a new diagnosis of the national statistical system. Staff are collecting data from system bodies with questionnaires and a tablet-based application.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[SNDS 2026-2030 : Deuxième mission de l'expert international Alain Brilleau à l'INSTAT Gabon](https://new.instatgabon.org/fr/actualite/snds-2026-2030-deuxieme-mission-de-l-expert-international-alain-brilleau-a-l-instat-gabon)** — INSTAT Gabon, 1 November 2026
+
+International expert Alain Brilleau held a second mission at Gabon's statistics institute in Libreville from 1 to 13 November 2026. It prepares three documents: an evaluation of the 2023-2025 strategy, a diagnosis of the national statistical system, and strategic orientations for 2026-2030. The work falls under the World Bank-financed regional statistics project.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -364,6 +418,14 @@ On a page dated 5 October 2026, Mali's statistics institute INSTAT lists quarter
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">Fourth Schéma Directeur de la Statistique and its 2026-2030 action plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué du Conseil des Ministres du vendredi 9 octobre 2026 CM N°2026-40/SGG](https://koulouba.ml/communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg/)** — Secrétariat général du Gouvernement du Mali, 9 October 2026
+
+Mali's Council of Ministers took note on 9 October 2026 of the fourth statistics master plan and its 2026-2030 action plan. The economy and finance minister presented it. It sets four axes: management and capacity of the statistical system, statistical production, and analysis, dissemination and use.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 

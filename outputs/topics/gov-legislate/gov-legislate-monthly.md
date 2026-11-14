@@ -3,8 +3,8 @@ title: Legislation and regulation — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 40577567299e
+places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
+record: 26b965c50090
 ---
 
 # News, Oct – Nov 2026
@@ -75,6 +75,8 @@ record: 40577567299e
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-sudan">South Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -416,6 +418,14 @@ The DRC government adopted on 30 September 2026 a bill to replace the 2010 publi
 **[RDC : le Sénat ratifie à l’unanimité l’ordonnance-loi portant organisation de l’activité statistique](https://actualite.cd/2026/10/22/rdc-le-senat-ratifie-lunanimite-lordonnance-loi-portant-organisation-de-lactivite)** — Actualite.cd, 22 October 2026
 
 The DRC Senate on 21 October 2026 ratified ordonnance-loi 26/015 of 7 September 2026 organising statistical activity, by 73 votes to none of its 109 members. The 95-article law gives the national statistics institute the power to issue the statistical visa, puts a council chaired by the Prime Minister at the head of the system, penalises breaches of statistical secrecy and puts the system's budget at about USD 192 million.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Promulgation de la loi portant organisation de l’activité statistique en RDC](https://acp.cd/nation/promulgation-de-la-loi-portant-organisation-de-lactivite-statistique-en-rdc/)** — ACP, 28 October 2026
+
+President Felix Tshisekedi promulgated a law organising statistical activity in the Democratic Republic of the Congo, announced on 28 October 2026. It ratifies ordonnance-loi 26-015 of 17 September 2026. It aligns national law with the UN Fundamental Principles of Official Statistics and the African Charter on Statistics. It also prepares the second census.
 
 </div>
 
@@ -1393,6 +1403,22 @@ South Africa's Information Regulator fined First National Bank R1 million after 
 
 </div>
 
+## South Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Bureau of Statistics Act 2024</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PRESIDENT SALVA KIIR SWEARS IN THE BOARD OF DIRECTORS FOR THE NBS](https://nbs.gov.ss/news-detail.php?id=21)** — National Bureau of Statistics, South Sudan, 2 October 2026
+
+President Salva Kiir swore in the ten-member board of South Sudan's National Bureau of Statistics in Juba. The bureau announced it on 2 October 2026. Dier Tong Ngor chairs the board. The director-general, Augustino Ting Mayai, sits on it ex officio.
+
+</div>
+
+</div>
+
 ## Sudan
 
 <div class="monthly-story" markdown="1">
@@ -1621,7 +1647,7 @@ Uganda's Forum for Democratic Change threatened to sue over plans to give the Ug
 
 **[Startup policies are underway, but what about funding for the young innovators?](https://www.monitor.co.ug/uganda/news/national/startup-policies-are-underway-but-what-about-funding-for-the-young-innovators--5654650)** — Daily Monitor, 1 November 2026
 
-On 1 November 2026 the Daily Monitor reported that Uganda's startup policy is being finalised by the Ministry of Trade before going to cabinet. Startup Uganda, an association of support organisations, plans to use Uganda Innovation Week to bring investors, policymakers and innovators together.
+Uganda's trade ministry is finalising a startup policy, the Daily Monitor reported on 1 November 2026. It goes to cabinet next. Startup Uganda, an association of support organisations, plans to use Uganda Innovation Week to bring investors and innovators together.
 
 </div>
 

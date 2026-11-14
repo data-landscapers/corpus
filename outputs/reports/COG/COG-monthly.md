@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: COG
 ledger_rows: 16
 not_held: 5
-record: d489d94a21a0
+record: b68b3d10692c
 ---
 
 # News, Oct – Nov 2026
@@ -294,7 +294,7 @@ The Republic of the Congo scored 1.75 out of 4 on the Africa AI Governance Index
 
 **[Calendrier de publication des statistiques officielles – 2026](https://www.ins-congo.cg/uploads/publications/ins_6ad8553134ba03.75061568.pdf)** — Institut National de la Statistique, Direction de la Coordination Statistique, 1 October 2026
 
-INS release calendar, October 2026: 18 products, 5 directions, quarterly dates; based on law 36-2018 and e-GDDS.
+The Congolese statistics institute set out its 2026 release calendar in October 2026. It lists 18 statistical products from five directorates, with expected release dates by quarter.
 
 </div>
 

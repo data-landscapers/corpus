@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: COD
 ledger_rows: 50
 not_held: 6
-record: d8a11c1a5d7f
+record: 517dacba3c65
 ---
 
 # News, Oct – Nov 2026
@@ -120,7 +120,7 @@ The DRC Senate on 21 October 2026 ratified ordonnance-loi 26/015 of 7 September 
 
 **[Promulgation de la loi portant organisation de l’activité statistique en RDC](https://acp.cd/nation/promulgation-de-la-loi-portant-organisation-de-lactivite-statistique-en-rdc/)** — ACP, 28 October 2026
 
-Tshisekedi promulgates the law ratifying the DRC's statistics ordonnance-loi n° 26-015, October 2026.
+President Felix Tshisekedi promulgated a law organising statistical activity in the Democratic Republic of the Congo, announced on 28 October 2026. It ratifies ordonnance-loi 26-015 of 17 September 2026. It aligns national law with the UN Fundamental Principles of Official Statistics and the African Charter on Statistics. It also prepares the second census.
 
 </div>
 

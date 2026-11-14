@@ -3,10 +3,10 @@ title: Liberia — progress report, November 2025 – November 2026
 compiled: 2026-11-14
 period: 2025-11-01 to 2026-11-14
 place: LBR
-ledger_rows: 236
+ledger_rows: 237
 not_held: 6
 indicators: 115
-record: 805c3d90695d
+record: 8cacb6820f63
 ---
 
 # Liberia: progress report, November 2025 – November 2026

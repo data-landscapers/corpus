@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: GAB
 ledger_rows: 38
 not_held: 11
-record: eff2d0142084
+record: 4c966e8c719c
 ---
 
 # News, Oct – Nov 2026
@@ -720,7 +720,7 @@ On 29 October 2026 the police inspectorate and Group IDENTITY signed an agreemen
 
 **[SNDS 2027-2030 : l'INSTAT GABON renforce les capacités des acteurs du Système Statistique National](https://new.instatgabon.org/fr/actualite/snds-2027-2030-l-instat-gabon-renforce-les-capacites-des-acteurs-du-systeme-statistique-national)** — INSTAT Gabon, 5 October 2026
 
-INSTAT starts SNDS-III 2027-2030 under HISWACA-SOP 2: SNDS-II evaluation and SSN diagnostic by CAPI questionnaire.
+Gabon's statistics institute has begun drafting its third national statistical development strategy, for 2027-2030, with support from the World Bank-backed HISWACA project. It is building the strategy on an evaluation of the previous one and a new diagnosis of the national statistical system. Staff are collecting data from system bodies with questionnaires and a tablet-based application.
 
 </div>
 
@@ -728,7 +728,7 @@ INSTAT starts SNDS-III 2027-2030 under HISWACA-SOP 2: SNDS-II evaluation and SSN
 
 **[SNDS 2026-2030 : Deuxième mission de l'expert international Alain Brilleau à l'INSTAT Gabon](https://new.instatgabon.org/fr/actualite/snds-2026-2030-deuxieme-mission-de-l-expert-international-alain-brilleau-a-l-instat-gabon)** — INSTAT Gabon, 1 November 2026
 
-Expert mission 1-13 Nov 2026 drafts SNDS II evaluation, SSN diagnostic, SNDS 2026-2030 orientations; World Bank-funded.
+International expert Alain Brilleau held a second mission at Gabon's statistics institute in Libreville from 1 to 13 November 2026. It prepares three documents: an evaluation of the 2023-2025 strategy, a diagnosis of the national statistical system, and strategic orientations for 2026-2030. The work falls under the World Bank-financed regional statistics project.
 
 </div>
 

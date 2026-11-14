@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: BDI
 ledger_rows: 23
 not_held: 10
-record: 1534d45addca
+record: c2ca9928ca72
 ---
 
 # News, Oct – Nov 2026
@@ -398,7 +398,7 @@ Burundi's Prime Minister's Office launched the 2026 General Enterprise Census on
 
 **[Renforcement du système statistique national au Burundi](https://burundi-news.com/articles/fr/renforcement-du-systeme-statistique-national-au-burundi.html)** — burundi-news.com, 9 November 2026
 
-Burundi's statistics council weighs a draft decree creating an order of statistics professionals.
+Burundi's national statistical information council held its 13th session in Bujumbura on 6 November 2026, chaired by Prime Minister Nestor Ntahontuye. It reviewed progress on recommendations from its June 2024 session and national accounts for 2017-2024. It also discussed two draft decrees, one classifying firms as small, medium or large and one creating an order of statistics professionals.
 
 </div>
 

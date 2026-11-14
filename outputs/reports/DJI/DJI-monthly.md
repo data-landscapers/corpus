@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: DJI
 ledger_rows: 12
 not_held: 10
-record: fb2a292f157c
+record: 1234fabe6a5d
 ---
 
 # News, Oct – Nov 2026
@@ -222,7 +222,7 @@ The Francophonie organisation and Djibouti's education and vocational training m
 
 **[Implementation Status & Results Report: Economic Management and Statistics Development for Policy Making (P171777)](https://documents1.worldbank.org/curated/en/099101426132022240/pdf/P171777-4c140761-b8a7-4372-9100-f528fd060b61.pdf)** — World Bank, 14 October 2026
 
-Oct 2026: SNDS 2025-2029 published; INSTAD building stalled on unpaid USD 1m counterpart, closure Dec 2027.
+The World Bank archived its twelfth progress report on Djibouti's statistics and economic management project on 14 October 2026. Progress towards the objective stayed satisfactory, while overall implementation slipped to moderately satisfactory. The project supported publication of the 2025-2029 statistics strategy and the final results of the third census. Construction of the statistics institute's building has stalled pending a USD 1 million government payment. The project is due to close on 30 December 2027.
 
 </div>
 

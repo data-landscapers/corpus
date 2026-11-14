@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: SSD
 ledger_rows: 8
 not_held: 7
-record: 25e1d49b72b6
+record: 6ee33ddb472e
 ---
 
 # News, Oct – Nov 2026
@@ -42,7 +42,7 @@ record: 25e1d49b72b6
 
 **[PRESIDENT SALVA KIIR SWEARS IN THE BOARD OF DIRECTORS FOR THE NBS](https://nbs.gov.ss/news-detail.php?id=21)** — National Bureau of Statistics, South Sudan, 2 October 2026
 
-Ten-member NBS board sworn in at State House, chaired by Dier Tong Ngor; full member list.
+President Salva Kiir swore in the ten-member board of South Sudan's National Bureau of Statistics in Juba. The bureau announced it on 2 October 2026. Dier Tong Ngor chairs the board. The director-general, Augustino Ting Mayai, sits on it ex officio.
 
 </div>
 
