@@ -6,7 +6,7 @@ region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 252
+sources_cited: 254
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -305,7 +305,7 @@ Government technology spending reaches domestic suppliers through [a programme t
 
 The state's financing instrument is the [Egypt Startup Charter, which attaches a headline EGP 50bn to a target of 5,000 startups](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) (December 2025). [Partech counted around US$297m of equity funding into Egyptian tech startups in 2024](https://partechpartners.com/africa-reports/2024-africa-tech-venture-capital-report). [That made Egypt one of Africa's top four venture destinations, and second by number of deals](https://partechpartners.com/africa-reports/2024-africa-tech-venture-capital-report).
 
-[A commercial directory listed 39 accelerators and incubators in January 2025](https://tracxn.com/d/investor-lists/accelerators-incubators-in-egypt/__ipYdkLo_FgbzV1gMFal2rbmNvDtcvlDgOWvf4fBZMjQ). [The African Development Bank's mapping identifies dozens more university-based incubators, including 48 supported by the Academy of Scientific Research and Technology](https://tracxn.com/d/investor-lists/accelerators-incubators-in-egypt/__ipYdkLo_FgbzV1gMFal2rbmNvDtcvlDgOWvf4fBZMjQ).
+[A commercial directory listed 39 accelerators and incubators in January 2025](https://tracxn.com/d/investor-lists/accelerators-incubators-in-egypt/__ipYdkLo_FgbzV1gMFal2rbmNvDtcvlDgOWvf4fBZMjQ). [The African Development Bank's mapping identifies dozens more university-based incubators, including 48 supported by the Academy of Scientific Research and Technology](https://tracxn.com/d/investor-lists/accelerators-incubators-in-egypt/__ipYdkLo_FgbzV1gMFal2rbmNvDtcvlDgOWvf4fBZMjQ). [The ICT ministry had built 23 Creativa digital innovation centres across the governorates by October 2024](https://gate.ahram.org.eg/News/5002419.aspx). [Their incubator opened a fifth cycle in November 2026 with EGP 10.8 million, paying up to EGP 360,000 a start-up](https://www.masrtimes.com/775446).
 
 In August 2026 the financial regulator's sandbox had [produced far more advisory guidance to firms than authorisations, with only its first projects reaching live testing](https://sis.gov.eg/en/media-center/news/fra-approves-testing-first-2-projects-by-sandbox-digital-ecosystem/). Government has [both a public sector innovation strategy and a programme](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [An established innovation lab works on digital skills and public service innovation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Its [open source software policy is advisory, not mandatory](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Egypt [ranked 86th in the WIPO Global Innovation Index 2024, within a confidence interval of 82nd to 88th](https://www.wipo.int/edocs/gii-ranking/2024/eg.pdf).
 
