@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: SDN
-ledger_rows: 33
+ledger_rows: 34
 not_held: 5
-record: 1143890a4f7a
+record: 48dfa30ab366
 ---
 
 # News, Oct – Nov 2026
@@ -51,6 +51,20 @@ record: 1143890a4f7a
 **[هيئة التحول الرقمي تعقد الاجتماعين الأولين لمجلسَي التحول الرقمي الاتحادي والولائي](https://www.linkedin.com/feed/update/urn:li:activity:7516127823003197440)** — هيئة التحول الرقمي, 14 October 2026
 
 Sudan's Digital Transformation Authority held its first federal council meeting on 13 October 2026 and its first state council on 14 October. Both reviewed eight principles for digital government, including digital first and once-only data. Agencies are to exchange data over the Baladna national platform.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UNDP Private Sector Engagement Strategy 2026-2028</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Private Sector Engagement Strategy Sudan](https://www.undp.org/sites/g/files/zskgke326/files/2026-11/undp_private_sector_report.pdf)** — UNDP, 1 November 2026
+
+UNDP strategy 2026-2028 from 71 interviews (November 2025); startup ecosystem dormant, incubators suspended or abroad.
 
 </div>
 
