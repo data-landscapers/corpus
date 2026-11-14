@@ -3,9 +3,9 @@ title: Egypt — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: EGY
-ledger_rows: 64
+ledger_rows: 65
 not_held: 35
-record: b9f0cb055dc6
+record: bfcf3cd80030
 ---
 
 # News, Oct – Nov 2026
@@ -910,6 +910,8 @@ Cairo Governor Ibrahim Saber launched a six-month programme for staff of the gov
 <a href="#ai">AI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -1031,6 +1033,22 @@ MNT-Halan listed its Egyptian business on the Cairo Stock Exchange, Egypt's larg
 **[Norfund-backed fund helps drive MNT-Halan’s rise from Egyptian startup to regional fintech leader](https://innovation-village.com/norfund-backed-fund-helps-drive-mnt-halans-rise-from-egyptian-startup-to-regional-fintech-leader/)** — Innovation Village, 12 November 2026
 
 MNT-Halan listed its Egyptian business on the Cairo Stock Exchange in Egypt's largest IPO since 2021, Innovation Village reported on 12 November 2026. The retail tranche was more than 43 times oversubscribed and the institutional tranche more than 19 times. Norfund committed USD 40m in 2019 to the DPI fund that invested in MNT-Halan in 2021.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Creativa incubation programme (ITIDA)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«كرياتيفا» تطلق الدورة الخامسة لاحتضان الشركات الناشئة بتمويل 10.8 مليون جنيه](https://www.masrtimes.com/775446)** — Masr Times, 9 November 2026
+
+Creativa launches its fifth incubation cycle with EGP 10.8 million, up to EGP 360,000 per pre-seed startup.
 
 </div>
 
