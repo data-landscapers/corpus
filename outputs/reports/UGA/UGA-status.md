@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 13
-sources_cited: 322
+sources_cited: 323
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -338,7 +338,7 @@ Inside government, [a digital skills strategy and a running training programme f
 
 In April 2026 [mobile-money operators, who run Uganda's most-used digital system, declined to give researchers real transaction data](https://www.ictworks.org/african-mobile-money-program-problems/). [The research proceeded on a synthetic set](https://www.ictworks.org/african-mobile-money-program-problems/).
 
-In March 2026 [a national AI research cloud launched at Makerere with the research and education network](https://www.newvision.co.ug/category/science/minister-musenero-launches-national-ai-resear-NV_229938_032026). [It hosts model training in the country](https://www.newvision.co.ug/category/science/minister-musenero-launches-national-ai-resear-NV_229938_032026). [Innovations from academic and technical institutions fail to secure the intellectual-property protection, manufacturing capacity, investment and industry partnerships that large-scale production needs](https://www.newvision.co.ug/category/news/govt-moves-to-commercialise-homegrown-digital-NV_238066_072026). [Uganda stood in the bottom quartile of the global innovation index in 2024](https://www.wipo.int/edocs/gii-ranking/2024/ug.pdf). [A Ugandan rural women's organisation is one of twelve participants in GAINAfrica, a Horizon Europe action on locally adapted generative AI](https://cordis.europa.eu/project/id/101298559). [The action was signed in May 2026 and runs from October 2026 to September 2029](https://cordis.europa.eu/project/id/101298559).
+In March 2026 [a national AI research cloud launched at Makerere with the research and education network](https://www.newvision.co.ug/category/science/minister-musenero-launches-national-ai-resear-NV_229938_032026). [It hosts model training in the country](https://www.newvision.co.ug/category/science/minister-musenero-launches-national-ai-resear-NV_229938_032026). [That network, RENU, connected its 1,000th campus in June 2025](https://renu.ac.ug/one-signal-at-a-time-1000-campuses-connected-driving-digital-health-and-education/). [Innovations from academic and technical institutions fail to secure the intellectual-property protection, manufacturing capacity, investment and industry partnerships that large-scale production needs](https://www.newvision.co.ug/category/news/govt-moves-to-commercialise-homegrown-digital-NV_238066_072026). [Uganda stood in the bottom quartile of the global innovation index in 2024](https://www.wipo.int/edocs/gii-ranking/2024/ug.pdf). [A Ugandan rural women's organisation is one of twelve participants in GAINAfrica, a Horizon Europe action on locally adapted generative AI](https://cordis.europa.eu/project/id/101298559). [The action was signed in May 2026 and runs from October 2026 to September 2029](https://cordis.europa.eu/project/id/101298559).
 
 In January 2025 [the Centre for Multilateral Affairs found the country's AI rules absent or formative and called for an AI law and an inclusive task force](https://thecfma.org/wp-content/uploads/2025/01/Policy-brief-AI-governance_CfMA_2025_Final.pdf). In September 2025 [CIPESA's country report found no AI strategy or AI-specific law](https://cipesa.org/wp-content/files/reports/State_of_Internet_Freedom_in_Africa_2025__Navigating_the_Implications_of_AI_on_Digital_Democracy_in_Uganda_.pdf).
 
