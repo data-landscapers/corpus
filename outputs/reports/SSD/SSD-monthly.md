@@ -3,9 +3,9 @@ title: South Sudan — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: SSD
-ledger_rows: 9
+ledger_rows: 10
 not_held: 7
-record: 53b58c4c20f8
+record: 452b020f9b30
 ---
 
 # News, Oct – Nov 2026
@@ -184,6 +184,8 @@ Juba City Council's caretaker mayor said on 30 October 2026 that all revenue col
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -197,6 +199,22 @@ Juba City Council's caretaker mayor said on 30 October 2026 that all revenue col
 **[Country Profile on AI Governance: South Sudan](https://www.aipolicy.africa/country-profiles/south-sudan)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 South Sudan scored 0.75 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 41 of 54 states, in a country profile version 1.2 dated 7 October 2026, with only 48 of 80 indicators scored and many still under review. Its strongest pillar is Regional Integration (3.00); it has no AI strategy or data protection law.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Business incubation and startup financing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Welcoming First Cohort to Drive Agribusiness Growth](https://ifdc.org/2026/10/19/grebi-welcomes-first-cohort-to-drive-green-and-resilient-agribusiness-growth/)** — IFDC, 19 October 2026
+
+EU-funded GREBI (2026-2029) seats 22 MSMEs from Juba and Terekeka at the University of Juba Agribusiness Hub.
 
 </div>
 
