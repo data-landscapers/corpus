@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: SLE
-ledger_rows: 24
+ledger_rows: 28
 not_held: 4
-record: d6eb80fbbb00
+record: 718ddc9edadf
 ---
 
 # News, Oct – Nov 2026
@@ -73,6 +73,22 @@ Sierra Leone's Data Protection and Right of Access to Information Bill, 2026 was
 **[Information Minister Tables Two Major Bills in Parliament](https://sierraloaded.sl/news/information-tables-data-protection-bills/)** — SierraLoaded, 6 November 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Parliament commits Data Protection Bill to Legislative Committee](https://sierraleoneconcordtimes.com/parliament-commits-data-protection-bill-to-legislative-committee-by-jariatu-s-bangura/)** — Concord Times, 12 November 2026
+
+Second reading approved; MPs contest ministerial board nominations, penalty powers and Clause 47 automated decisions.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Parliament Refers Data Protection Bill for Further Scrutiny](https://a-zsl.com/parliament-refers-data-protection-bill-for-further-scrutiny/)** — A-Z Multimedia Corporation, 13 November 2026
+
+MPs question Clause 3 exemptions and ministerial powers; bill sent to Committee Stage, not yet law.
 
 </div>
 
@@ -222,6 +238,28 @@ Sierra Leone's Financial Intelligence Agency and GIABA opened a three-day consul
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Share of national data systems exchanging data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MoPED Seeks Stronger Coordination to Improve Sierra Leone’s National Data Systems](https://sierraloaded.sl/news/moped-stronger-coordination-national-data/)** — SierraLoaded, 13 November 2026
+
+30% of national data systems exchange data; under 1% of budget to statistics; 2026-2030 framework seeks US$18.2m.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone Seeks $18.2m to Improve National Data Systems](https://salonemessengers.com/sierra-leone-18-2m-national-data-systems/)** — Salone Messenger, 13 November 2026
+
+Only 30% of platforms share data; under 1% of budget to statistics; 2026-2030 framework targets 60%.
+
+</div>
+
+</div>
+
 ### Digital Identity and CRVS
 
 <div class="monthly-story" markdown="1">
@@ -333,6 +371,20 @@ Sierra Leone's Chief Minister, David Moinina Sengeh, opened a workshop at which 
 **[Sierra Leone Begins Training Government ICT Officers on Website Management and Security](https://techafricanews.com/2026/11/09/sierra-leone-begins-training-government-ict-officers-on-website-management-and-security/)** — Tech Africa News, 9 November 2026
 
 Sierra Leone's Ministry of Communication, Technology and Innovation began training ICT officers from ministries, departments and agencies on website management and security, reported on 9 November 2026. Under its Website Standardisation Framework the ministry builds and hosts official sites on shared gov.sl infrastructure, and the officers maintain content. The first phase ran two days, and further phases are planned.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fire Force digital management systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DSTI, Sierra Leone Fire Force Sign MoU to Advance Digital Transformation](https://sierraloaded.sl/local/dsti-fire-force-sigmou-digital-transformation/)** — SierraLoaded, 12 November 2026
+
+MoU signed 15 Sep 2026; personnel, asset, fleet tracking and incident reporting systems to be developed.
 
 </div>
 
@@ -500,6 +552,28 @@ Statistics Sierra Leone began training trainers for the 2026 Population and Hous
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Power of Data Country Framework 2026-2030</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[MoPED Seeks Stronger Coordination to Improve Sierra Leone’s National Data Systems](https://sierraloaded.sl/news/moped-stronger-coordination-national-data/)** — SierraLoaded, 13 November 2026
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Sierra Leone Seeks $18.2m to Improve National Data Systems](https://salonemessengers.com/sierra-leone-18-2m-national-data-systems/)** — Salone Messenger, 13 November 2026
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+</div>
+
 ### Open data
 
 <div class="monthly-story" markdown="1">
@@ -511,6 +585,20 @@ Statistics Sierra Leone began training trainers for the 2026 Population and Hous
 **[Sierra Leone establishes IFAP National Committee during IDUAI 2026, UNESCO celebrates 25 years of Information for All work - Gleaner Newspaper SL](https://gleanersl.com/sierra-leone-establishes-ifap-national-committee-during-iduai-2026-unesco-celebrates-25-years-of-information-for-all-work/)** — Gleaner Newspaper SL, 18 October 2026
 
 Sierra Leone has set up a national committee for UNESCO's Information for All Programme to align national policy with it, the Foreign Ministry announced. A UNESCO-government conference on information integrity held in Freetown on 28 September 2026 drew delegates from 41 countries.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sabi Salone proactive-disclosure partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RAIC Partners with Institute for Development to Improve Public Access to Information in Sierra Leone](https://salonemessengers.com/raic-ifd-public-access-information-sierra-leone/)** — Salone Messenger, 13 November 2026
+
+MoU on proactive disclosure; Sabi Salone AI platform for laws, policies, surveys; signing date not stated.
 
 </div>
 
