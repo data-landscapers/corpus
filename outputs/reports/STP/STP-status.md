@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-19
 intersections_read: 8
-sources_cited: 217
+sources_cited: 219
 sections_written: 39
 not_established: 0
 acquire_lines: 33
@@ -286,7 +286,7 @@ On 1 June 2026 Macau's Personal Data Protection Bureau [signed a memorandum with
 
 In November 2025 [the second Empreende+ competition trained 33 people and funded four projects at US$12,000, US$10,000 and two at US$8,000, from more than 150 applications](https://rstp.st/2025/11/30/bassola-pet-vence-a-segunda-edicao-do-concurso-empreende-mais-em-sao-tome-e-principe/). [The third edition launched in July 2026, focused on women-led businesses and financed by UNDP](https://rstp.st/2026/07/29/terceira-edicao-do-empreende-arranca-em-sao-tome-e-principe-com-foco-no-empreendedorismo-feminino/). [An earlier innovation fund awarded up to US$5,000 each to 26 projects from a fund of US$130,000, out of 456 valid applications](https://empreendedorismo.gov.st/pt/projecto/empreende-jovem/inovacao-startups-jovens). No domestic funding line for the competitions has been found.
 
-[In 2022 the REINA incubator network opened a central facility in the capital with Ministry of Youth and UNDP support](https://stpdigital.net/economia/incubadora-central-ja-tem-as-portas-abertas). [The entrepreneurship ministry describes REINA as incubators on both islands, built with UNDP, Unitel STP and BGFI Bank](https://empreendedorismo.gov.st/pt/component/k2/item/50-incubadoras-de-negocios-em-stp). [It offers workspace, internet, business and technical support and training to people developing technology-based products](https://empreendedorismo.gov.st/pt/component/k2/item/50-incubadoras-de-negocios-em-stp).
+[In 2022 the REINA incubator network opened a central facility in the capital with Ministry of Youth and UNDP support](https://stpdigital.net/economia/incubadora-central-ja-tem-as-portas-abertas). [The entrepreneurship ministry describes REINA as incubators on both islands, built with UNDP, Unitel STP and BGFI Bank](https://empreendedorismo.gov.st/pt/component/k2/item/50-incubadoras-de-negocios-em-stp). [It offers workspace, internet, business and technical support and training to people developing technology-based products](https://empreendedorismo.gov.st/pt/component/k2/item/50-incubadoras-de-negocios-em-stp). [By January 2024 the network said it had served over 700 people](https://rstp.st/2024/01/27/ministerio-da-juventude-conta-com-apoio-do-pnud-para-impulsionar-o-empreendedorismo/). [In March 2026 it was chosen as one of 43 incubators in UNDP's Timbuktoo pan-African network](https://pt.linkedin.com/posts/reina-incubadora_empreendedorismo-inova%C3%A7%C3%A3o-startups-activity-7437866434879401984-h1dn).
 
 [The cabinet approved a National Entrepreneurship Strategy for 2024-2030 in October 2024, and it was gazetted that December](https://www.informea.org/en/content/legislation/resolution-no-392024-approving-national-strategy-entrepreneurship-sao-tome-and). Its text has not been found. [São Tomé and Príncipe is not among the 133 economies in the WIPO Global Innovation Index 2024](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html).
 
