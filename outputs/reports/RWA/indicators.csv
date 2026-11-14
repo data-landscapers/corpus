@@ -499,7 +499,9 @@ dpi.registry--tax-register,Movement,The [2023 tax procedures law](2023-03-31-law
 
 The order of April 2026 extends the register's reach into online payment: financial institutions facilitating them must integrate with the tax administration's systems ([order](2026-04-29-rra-ministerial-order-vat-online-services)).
 
-No count of registered taxpayers is published in anything the repository holds, so the register's coverage cannot be stated.",RWA-dpi.registry-tax-procedures-law|RWA-dpi.pay-vat-online-services-order,,,,,,,,,2026-08-31,0,TIN established in law; register structure and integrity not on record
+No count of registered taxpayers is published in anything the repository holds, so the register's coverage cannot be stated.
+
+2023-08 - the revenue authority's guide says [the Registrar General assigns the taxpayer number to businesses at registration](2023-08-01-rwa-taxation-procedures).",RWA-dpi.registry-tax-procedures-law|RWA-dpi.pay-vat-online-services-order|RWA-dpi.registry-tin-at-business-registration,,,,,,,,,2026-08-31,0,TIN established in law; register structure and integrity not on record
 dpi.registry--land-register,Movement,"[Electronic titles replaced physical deeds](2026-01-01-rwanda-electronic-land-registration-certificate-system), and a [district correction exercise](2026-06-17-kayonza-land-correction-28000-titles-realrwanda) concluded in June 2026 with the fee waived.","The e-Title system issues titles electronically on the registrar's approval, for download from the land portal, discontinuing physical deeds; the Rwf 5,000 printing fee is now payable only where an owner asks in writing for a printed copy, and non-notarial transactions run on the national services portal ([e-Title](2026-01-01-rwanda-electronic-land-registration-certificate-system)).
 
 The registry beneath it holds the 11 million parcels registered over 26,000 square kilometres under the 2009 to 2013 regularisation programme, against a prior state in which more than 90 per cent of land lacked documentation ([case study](2026-01-28-rwanda-land-administration-case-study)).
@@ -658,7 +660,11 @@ Neither carries an occupancy, tenant or output figure, so both are recorded as b
 
 The 2025/26 budget [allocated Frw 14.8bn to the innovation city's development](2025-01-01-rwa-citizen-guide-fy-2025-2026).
 
-[Seven Hanga incubation hubs in secondary cities](2026-01-01-rwa-risa-hanga-hubs-project), backed by JICA and the EU, aim at 192 start-ups; the page is undated.",RWA-tech.innovate-financial-technology-centre|RWA-tech.innovate-innovation-city|RWA-tech.innovate-hanga-hubs,2,RWA-tech.innovate-financial-technology-centre|RWA-tech.innovate-innovation-city,,,,,,,2026-08-31,0,fintech centre inaugurated and innovation city under construction; no incubation cohorts on record
+[Seven Hanga incubation hubs in secondary cities](2026-01-01-rwa-risa-hanga-hubs-project), backed by JICA and the EU, aim at 192 start-ups; the page is undated.
+
+2025-05 - [a university innovation hub took its fourth and largest incubation cohort, 15 startups](2025-05-09-rwa-the-innovation-hub-at-cmu-africa-boosts-new-tech-entrepreneurs).
+
+2025-01 - [a Japanese cooperation project trained Hanga hub staff in Musanze and Huye and ran idea contests there](2025-06-26-rwa-newsletter-vol-3-released-technical-cooperation-project-digital-innova).",RWA-tech.innovate-financial-technology-centre|RWA-tech.innovate-innovation-city|RWA-tech.innovate-hanga-hubs|RWA-tech.innovate-cmu-africa-innovation-hub|RWA-tech.innovate-jica-digital-innovation-promotion-project,2,RWA-tech.innovate-financial-technology-centre|RWA-tech.innovate-innovation-city,,,,,,,2026-08-31,0,fintech centre inaugurated and innovation city under construction; no incubation cohorts on record
 tech.innovate--tech-startup-ecosystem,No change,"An [innovation fund](2026-07-20-rwanda-tech-jobs-lfs) had backed twelve companies by 2024, reported second-hand with no fund document held.","Twelve companies had been backed by 2024, on a second-hand report ([fund](2026-07-20-rwanda-tech-jobs-lfs)).
 
 No fund document, size, mandate or portfolio is held. Against a national ambition that runs to an innovation city, a financial technology centre and an artificial-intelligence agency, twelve companies is the only portfolio figure the repository can state.
