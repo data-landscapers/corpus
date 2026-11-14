@@ -3,9 +3,9 @@ title: Kenya — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: KEN
-ledger_rows: 93
+ledger_rows: 94
 not_held: 5
-record: fd1c98fb9ea1
+record: d8177cffb9ed
 ---
 
 # News, Oct – Nov 2026
@@ -1296,6 +1296,8 @@ Vihiga County held its first ICT Day and Digital Innovation Expo, reported on 6 
 <a href="#ai">AI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -1431,6 +1433,22 @@ Microsoft is winding down its Africa Development Centre in Nairobi, staff were t
 **[Microsoft's Nairobi Development Centre Faces Possible Closure](https://www.kenyans.co.ke/news/127805-microsofts-nairobi-development-centre-faces-possible-closure)** — Kenyans.co.ke, 13 October 2026
 
 Microsoft plans to close the engineering department of its Africa Development Centre in Nairobi after more than seven years, a Kenyan outlet reports. Between 400 and 500 employees could be affected.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Active business incubators</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mapping business incubating organisations in Kenya as central elements of the entrepreneurial ecosystem](https://publications.hnu.de/7180/1/HNU_Working_Paper_BayerThomas-261018.pdf)** — Hochschule Neu-Ulm (HNU Working Paper Nr. 62), 1 October 2026
+
+169 active incubators identified; Nairobi hosts 52.8% of facilities; none found in 16 of 47 counties.
 
 </div>
 
