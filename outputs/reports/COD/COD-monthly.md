@@ -3,9 +3,9 @@ title: DR Congo — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: COD
-ledger_rows: 50
+ledger_rows: 52
 not_held: 6
-record: 517dacba3c65
+record: 5ea7e2c5e4fb
 ---
 
 # News, Oct – Nov 2026
@@ -450,6 +450,20 @@ The data page of EITI DR Congo reports 2023 extractive revenue of USD 5.85 billi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">VAT registration of foreign digital service providers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DR Congo Requires Foreign Digital Service Providers to Register and Pay VAT](https://bankable.africa/en/business-climate/1111-3973-dr-congo-requires-foreign-digital-service-providers-to-register-and-pay-vat)** — Bankable, 11 November 2026
+
+DGI notice of 5 Nov 2026: foreign streaming, cloud and SaaS firms to sign up on e-Impôts by 10 Nov, pay VAT by 15 Nov.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -591,6 +605,20 @@ DR Congo's deputy interior minister opened a four-day national workshop in Kinsh
 **[Democratic Republic of Congo seeks consultancy for $500 million digital programme](https://www.consultancy.africa/news/2326/democratic-republic-of-congo-seeks-consultancy-for-500-million-digital-programme)** — Consultancy Africa, 28 October 2026
 
 The DRC's telecoms ministry is seeking a firm for an eight-month e-government consultancy, Consultancy Africa reported on 28 October 2026. The work covers a master plan for the 2025–2030 strategy, enterprise architecture and interoperability. The wider programme has US$400m from the World Bank and €100m from the French Development Agency.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online tax filing (télédéclaration)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[i-impôts DGI RDC : déclarer et payer ses impôts en ligne (guide 2026)](https://lepoint.cd/i-impots-dgi-rdc-declarer-payer-impots-en-ligne/)** — Le Point (lepoint.cd), 13 November 2026
+
+Walkthrough of i-impôts filing, payment and clearance checks; individuals' sign-up page still unbuilt on 11 Nov 2026.
 
 </div>
 
