@@ -3,9 +3,9 @@ title: Uganda — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: UGA
-ledger_rows: 50
+ledger_rows: 52
 not_held: 11
-record: 071cdd116e54
+record: 93c526406dd9
 ---
 
 # News, Oct – Nov 2026
@@ -772,6 +772,20 @@ The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe Intern
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Commonwealth Youth AI Readiness Index placing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Will Uganda’s youth power the AI economy, or be left behind by it?](https://www.independent.co.ug/will-ugandas-youth-power-the-ai-economy-or-be-left-behind-by-it/)** — The Independent (Uganda), 13 November 2026
+
+Uganda 23rd of 56 Commonwealth states, score 47.0, below benchmark 53; AI GDP uplift put at US$899m in a decade.
+
+</div>
+
+</div>
+
 ### Innovation ecosystem
 
 <div class="monthly-story" markdown="1">
@@ -805,8 +819,26 @@ Summarised under [Innovation ecosystem](#innovation-ecosystem).
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#research-institutions">Research institutions</a>
 </nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Third National Strategy for Financial Literacy 2026-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Financial services must go beyond deposits and withdrawals, says BoU](https://www.monitor.co.ug/uganda/news/national/financial-services-must-go-beyond-deposits-and-withdrawals-says-bou-5668828)** — Daily Monitor (Uganda), 12 November 2026
+
+Finance ministry building National Payment Switch with BoU; financial literacy strategy III launched 30 Oct 2026.
+
+</div>
+
+</div>
 
 ### Research institutions
 
