@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 287
+sources_cited: 288
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -328,10 +328,10 @@ By May 2026 [nearly 300 law-enforcement officers had been trained on the automat
 
 The [Civil Service Reform Programme 2018–2027 requires capacity building, its predecessor's having not taken place](https://policies.gov.gm/d/caa39cfa-5bad-11ec-9b31-029254d29bb1). [It provides for ICT training across ministries, a human-resource management information system, e-government and the closure of civil-service capacity gaps](https://policies.gov.gm/d/caa39cfa-5bad-11ec-9b31-029254d29bb1). [The Civil Service University's ICT department, running since the late 1990s, lists a national diploma in computer science, Cisco network-certification and cyber-security courses](https://csu.edu.gm/school-of-ict-digital-governance/).
 
-In March 2026 [the National Accreditation and Quality Assurance Authority named eleven institutions accredited to offer degrees](https://naqaa.gm/2026/03/25/higher-education/). [They include the University of The Gambia and the Civil Service University](https://naqaa.gm/2026/03/25/higher-education/). [It warns that government does not recognise unaccredited degrees](https://naqaa.gm/2026/03/25/higher-education/). [The University of The Gambia's School of Information, Technology and Communications offers BSc degrees in Computer Science, Information Systems and Telecommunications](https://www.utg.edu.gm/schools-faculties/itc/). [It also runs six-month diplomas in networking and cloud, web development, data science, cybersecurity, artificial intelligence and advanced web applications](https://www.utg.edu.gm/schools-faculties/itc/). [Human resources in education scored 88.0 out of 100 in 2023, 20th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gm.pdf).
+In March 2026 [the National Accreditation and Quality Assurance Authority named eleven institutions accredited to offer degrees](https://naqaa.gm/2026/03/25/higher-education/). [They include the University of The Gambia and the Civil Service University](https://naqaa.gm/2026/03/25/higher-education/). [It warns that government does not recognise unaccredited degrees](https://naqaa.gm/2026/03/25/higher-education/). [The University of The Gambia's School of Information, Technology and Communications offers BSc degrees in Computer Science, Information Systems and Telecommunications](https://www.utg.edu.gm/schools-faculties/itc/). [It also runs six-month diplomas in networking and cloud, web development, data science, cybersecurity, artificial intelligence and advanced web applications](https://www.utg.edu.gm/schools-faculties/itc/). [At its April 2024 convocation the university graduated 1,329 students, 51 of them from the ICT school and 30 from engineering and architecture](https://standard.gm/utg-graduates-over-1300-students/). [Human resources in education scored 88.0 out of 100 in 2023, 20th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gm.pdf).
 
 <!-- derived -->
-None of the degree-granting institutions with dedicated ICT provision publishes enrolment or graduation figures for those programmes, and none of the foreign channels supplying Gambians with digital and technical places publishes completion or placement data.
+No other degree-granting institution with dedicated ICT provision publishes enrolment or graduation figures for those programmes, and none of the foreign channels supplying Gambians with digital and technical places publishes completion or placement data.
 
 ### Research institutions
 <!-- capacity.research -->
