@@ -844,3 +844,6 @@ ZAF-022,key_tenants,Liquid Intelligent Technologies; Intelys Technology Group; S
 EGY-019,year_operational,2026,"The 2026 target dates from the 2023 announcement; an October 2026 investigation found no record that construction has started and reports delays, so no current target is sourced",2026-10-30
 NGA-016,facility_name,Galaxy Backbone NSSC DC1 Abuja,"Galaxy Backbone's 2023 report lists the reconstruction of its Lagos Regional Office and Data Centre from internally generated revenue; no row holds a Galaxy Backbone Lagos data centre, for T8 to decide whether it needs one",2026-11-12
 TZA-016,facility_name,eGA Government Data Centre (Dodoma),"TANESCO tender TR212/2023/2024/G/1308 (May 2024) equips a 'Disaster Recovery Site at EGA Iringa'; no row holds an eGA site in Iringa, for T8 to decide whether it is a separate eGA facility",2026-11-12
+SSD-005,operational_status,Planned,only a c. 2024 terms of reference states the plan; whether the centre was built is not known,2026-11-14
+SSD-005,year_operational,,the document expects it within about twelve months of writing; no later source,2026-11-14
+DZA-022,facility_name,Algerian Ministry of Finance Data Centre,"site, size and opening year not given; one news source",2026-11-14
