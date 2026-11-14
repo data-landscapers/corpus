@@ -791,10 +791,10 @@ SYC,2024,appropriation-act,appropriated,held,2025-01,2,2026-11-14
 SYC,2025,appropriation-act,appropriated,held,2026-01,2,2026-11-14
 SYC,2026,appropriation-act,appropriated,not due,2027-01,0,2026-11-14
 SYC,2027,appropriation-act,appropriated,not due,2028-01,0,2026-11-14
-SYC,2024,budget-estimates,proposed|appropriated,held,2024-03,1,2026-11-14
-SYC,2025,budget-estimates,proposed|appropriated,held,2025-03,2,2026-11-14
-SYC,2026,budget-estimates,proposed|appropriated,held,2026-03,2,2026-11-14
-SYC,2027,budget-estimates,proposed|appropriated,held,2027-03,1,2026-11-14
+SYC,2024,budget-estimates,proposed|appropriated,held,2023-12,1,2026-11-14
+SYC,2025,budget-estimates,proposed|appropriated,held,2024-12,2,2026-11-14
+SYC,2026,budget-estimates,proposed|appropriated,held,2025-12,2,2026-11-14
+SYC,2027,budget-estimates,proposed|appropriated,held,2026-12,2,2026-11-14
 SYC,2024,implementation-report,released|actual,held,2025-09,4,2026-11-14
 SYC,2025,implementation-report,released|actual,held,2026-09,1,2026-11-14
 SYC,2026,implementation-report,released|actual,not due,2027-09,0,2026-11-14
@@ -802,7 +802,7 @@ SYC,2027,implementation-report,released|actual,not due,2028-09,0,2026-11-14
 SYC,2024,mtef,proposed,held,2023-12,1,2026-11-14
 SYC,2025,mtef,proposed,held,2024-12,1,2026-11-14
 SYC,2026,mtef,proposed,held,2025-12,1,2026-11-14
-SYC,2027,mtef,proposed,not due,2026-12,0,2026-11-14
+SYC,2027,mtef,proposed,held,2026-12,1,2026-11-14
 TCD,2024,appropriation-act,appropriated,held,2024-01,1,2026-11-14
 TCD,2025,appropriation-act,appropriated,held,2025-01,1,2026-11-14
 TCD,2026,appropriation-act,appropriated,absent,2026-01,0,2026-11-14
