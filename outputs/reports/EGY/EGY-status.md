@@ -1,12 +1,12 @@
 ---
 title: Egypt: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: EGY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 250
+sources_cited: 251
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -218,7 +218,7 @@ That is a completion rate of roughly 0.6 percent on the applications received.
 
 [Electronic birth and death notification has run since 2017 at around 4,571 health offices, rural facilities included](https://au.int/sites/default/files/newsevents/workingdocuments/37474-wd-crvs-v-the_electronic_birth_and_death_registration_system_in_egypt.pdf). [These offices transmit to civil registry offices for compilation](https://au.int/sites/default/files/newsevents/workingdocuments/37474-wd-crvs-v-the_electronic_birth_and_death_registration_system_in_egypt.pdf). [Death registration was 96% complete nationally in 2018, 99.5% in urban areas against 85.4% in rural ones](https://pmc.ncbi.nlm.nih.gov/articles/PMC7364774/). [Birth, death, marriage, divorce and family registration databases are integrated into the national-number system](https://www.citc.com.eg/National%20ID%20SYSTEM.html). [The system also connects to external bodies from the traffic directorate and social insurance to the Central Bank](https://www.citc.com.eg/National%20ID%20SYSTEM.html). [Fewer than two million births were recorded in 2024, for the first time since 2007](https://english.ahram.org.eg/NewsContent/1/2/539535/Egypt/Society/Egypt-birth-rate-falls-below--mln-threshold-for-st.aspx). The [electoral roll is derived from the civil register, not canvassed](https://www.electionguide.org/elections/id/4238/). It [covered over 67 million voters at the December 2023 presidential election](https://www.idea.int/data-tools/data/country?country=66&database_theme=293).
 
-The [Tax Authority runs a nationwide digital taxpayer registry keyed on a taxpayer identification number](https://www.eta.gov.eg/en/home) (2025). The [national social registry holds about 13 million households, roughly half the country's, linked to 27 government databases through the national ID number](https://almessa.gomhuriaonline.com/764443/) (November 2026).
+The [Tax Authority runs a nationwide digital taxpayer registry keyed on a taxpayer identification number](https://www.eta.gov.eg/en/home) (2025). The [national social registry holds about 13 million households, roughly half the country's, linked to 27 government databases through the national ID number](https://almessa.gomhuriaonline.com/764443/) (November 2026). [Social Security Law 12 of 2025 made it the single source for cash-transfer beneficiary data, the ministry said in August 2026](https://www.almasryalyoum.com/news/details/4343435).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->

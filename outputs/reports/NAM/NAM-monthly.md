@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: NAM
 ledger_rows: 21
-not_held: 9
-record: 02c20b519890
+not_held: 8
+record: 34ed95625720
 ---
 
 # News, Oct – Nov 2026

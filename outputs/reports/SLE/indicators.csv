@@ -511,7 +511,9 @@ dpi.registry--social-protection-register,Movement,"The [social registry](2026-05
 
 The social action commission and the statistics office signed an amended memorandum on 8 April 2026 to take it to national coverage ([memorandum](2026-05-08-sierra-leone-nacsa-statistics-sl-amended-mou-sprint)).
 
-No household count, coverage percentage or update cycle is published, so national coverage is an intention with no distance from it stated.",SLE-dpi.registry-sprint,3,SLE-dpi.registry-sprint,,,,,,,2026-08-31,0,SPRINT in service and expanding towards national coverage
+No household count, coverage percentage or update cycle is published, so national coverage is an intention with no distance from it stated.
+
+2026-09 - the social protection agency [asked for NLe155.3m in 2027 for an interoperable social registry linked to the identity number](2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget); no appropriation has been found.",SLE-dpi.registry-sprint|SLE-dpi.registry-digital-social-protection-registry,3,SLE-dpi.registry-sprint,,,,,,,2026-08-31,0,SPRINT in service and expanding towards national coverage
 dpi.registry--electoral-register,Movement,"Voter registration is [under review](2026-02-13-sierra-leone-tscs-ecsl-tripartite-recommendations-voter-registration), with a [UNDP feasibility study](2025-12-05-sierra-leone-undp-feasibility-study-voter-registration) published in December 2025.","Registration is conducted under the Public Elections Act 2022 ([Act](2022-01-01-sierra-leone-public-elections-act-2022)).
 
 A feasibility study on voter registration, with analysis and recommendations, was published in December 2025 ([study](2025-12-05-sierra-leone-undp-feasibility-study-voter-registration)), and the tripartite technical sub-committee engaged the Electoral Commission in February 2026 on constitutional reform and on implementing the tripartite recommendations ([engagement](2026-02-13-sierra-leone-tscs-ecsl-tripartite-recommendations-voter-registration)).
@@ -602,7 +604,7 @@ tech.innovate--tech-startup-ecosystem,Movement,"An [angel investment network ope
 
 The International Trade Centre published a digital roadmap mapping the country's entrepreneurship support organisations ([roadmap](2025-01-01-sierra-leone-itc-digital-ecosystem-roadmap-eso-mapping)), and an e-commerce startup reached the Startup World Cup regional semi-finals in November 2025 ([startup](2025-11-18-sierra-leone-send-me-wins-startup-world-cup-regional-semi-finals)).
 
-No fund size, deal count or portfolio is published for the network. The advisory council recorded separately is the only standing governance the sector has.
+No fund size, deal count or portfolio is published for the network.
 
 2026-09-12 — the communications minister [said a Startup Act is expected in the first quarter of 2027](2026-09-12-sle-sierraloaded-flot-digital-financial-platform-launch); no draft is on file.
 
@@ -610,7 +612,9 @@ No fund size, deal count or portfolio is published for the network. The advisory
 
 2026-09-24 — [four Sierra Leonean teams had met all nine Digital Public Goods criteria and submitted their products to the global registry, with three more at six or seven of nine](2026-09-25-sle-dpg-registry-four-teams). No product is named and none is yet admitted.
 
-2026-11 - a [fintech lab at the university innovation pod gave early-stage startups access to the central bank's regulatory sandbox](2026-11-10-sle-unipod-fintech-lab); its opening date is not stated.",SLE-tech.innovate-rain|SLE-tech.innovate-itc-ecosystem-roadmap|SLE-tech.innovate-tieac|SLE-tech.innovate-startup-act|SLE-tech.innovate-dpg-pipeline|SLE-tech.innovate-unipod-fintech-lab,2,SLE-tech.innovate-rain,,,,,,,2026-08-31,0,Angel network with ministry framework; no startup law or strategy
+2026-11 - a [fintech lab at the university innovation pod gave early-stage startups access to the central bank's regulatory sandbox](2026-11-10-sle-unipod-fintech-lab); its opening date is not stated.
+
+2026-09 - the ICT ministry and the International Trade Centre [held a validation workshop on a start-up policy that is to feed the planned Startup Act](2026-09-29-sle-sierra-leone-startup-ecosystem-stakeholders-convene-to-strengthen-supp).",SLE-tech.innovate-rain|SLE-tech.innovate-itc-ecosystem-roadmap|SLE-tech.innovate-tieac|SLE-tech.innovate-startup-act|SLE-tech.innovate-dpg-pipeline|SLE-tech.innovate-unipod-fintech-lab|SLE-tech.innovate-startup-ecosystem-policy,2,SLE-tech.innovate-rain,,,,,,,2026-08-31,0,Angel network with ministry framework; no startup law or strategy
 tech.industry--national-capacity-in-dt-related-production,Movement,The state operator was [relaunched as a mobile virtual network operator](2026-05-06-sierra-leone-statehouse-sierratel-relaunch-africell-mvno-partnership) on an Africell partnership in May 2026.,"The President relaunched Sierratel on 6 May 2026, presented as a stronger public-private partnership in the telecoms sector ([relaunch](2026-05-06-sierra-leone-statehouse-sierratel-relaunch-africell-mvno-partnership)); the ministry set out the arrangement as the relaunch of a national asset ([ministry](2026-05-06-sierra-leone-mocti-sierratel-relaunch-as-mvno-africell-partnership)).
 
 Running as a virtual operator on another network is the opposite of production capacity: the state asset now sells service over infrastructure it does not own. No subscriber target, revenue figure or term for the partnership is published.",SLE-infra.connect-sierratel-mvno,1,,0.0225,% of GDP,2024,ref:wdi-ict-service-exports-gdp@2026-07-13,,,2026-08-31,0,official statistics; no primary in the base

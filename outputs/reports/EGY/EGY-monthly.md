@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: EGY
-ledger_rows: 63
+ledger_rows: 64
 not_held: 35
-record: 0a568f64d95e
+record: b55d28557752
 ---
 
 # News, Oct – Nov 2026
@@ -147,6 +147,20 @@ Egypt's Financial Regulatory Authority licensed Souhoola to provide fintech-base
 **[رئيس «اتصالات النواب»: الحكومة ستتقدم بمشروع قانون تصنيف وتداول وإتاحة البيانات بين القطاعات الحكومية خلال أسابيع](https://www.almasryalyoum.com/news/details/4400426)** — Al-Masry Al-Youm, 3 November 2026
 
 Egypt's government will send parliament a bill on classifying and sharing data between state bodies within weeks, the chair of the ICT committee said on 3 November 2026. It will be the first law the committee studies. He tied it to the one-stop service file.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bill to amend MSME Development Law 152 of 2020 for start-ups</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[تفاصيل مشروع تعديل قانون تنمية المشروعات المتوسطة والصغيرة](https://www.parlgate.com/96556)** — بوابة البرلمان, 3 November 2026
+
+MP-led bill to amend Law 152/2020 would set a legal framework for classifying startups; referred to committee.
 
 </div>
 

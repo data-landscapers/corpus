@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: NGA
-ledger_rows: 107
+ledger_rows: 108
 not_held: 8
-record: dd7c94f48a55
+record: f09d26425d2e
 ---
 
 # News, Oct – Nov 2026
@@ -1321,6 +1321,20 @@ Nigeria's National Population Commission opened a North-East zonal consultation 
 **[Kwara Governor Approves Digital Medical Records for Public Hospitals](https://von.gov.ng/kwara-governor-approves-digital-medical-records-for-public-hospitals/)** — Voice of Nigeria, 12 October 2026
 
 Nigeria's Kwara State governor, AbdulRahman AbdulRazaq, approved electronic medical records across state-owned hospitals, to be implemented by the state Hospitals Management Board under the HOPE-PHC project. Health workers begin training in November 2026, following a digitisation pilot in six hospitals. No cost or supplier is named.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National social register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG links 15.6m Nigerians to NIN in social register](https://punchng.com/fg-links-15-6m-nigerians-to-nin-in-social-register/)** — Punch, 22 October 2026
+
+Register holds 21.1m households, 83.2m people; 13.3m households updated, 15.65m NINs linked, October 2026.
 
 </div>
 

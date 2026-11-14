@@ -1,12 +1,12 @@
 ---
 title: Sao Tome and Principe: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: STP
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-19
 intersections_read: 8
-sources_cited: 216
+sources_cited: 217
 sections_written: 39
 not_established: 0
 acquire_lines: 33
@@ -215,7 +215,7 @@ The roll grew by 4,319 electors between the 19 July 2026 presidential poll and t
 
 [By 2018 the DGRN had implemented the SIGA system for digital registration of births, deaths, marriages and divorces nationwide](https://documents1.worldbank.org/curated/en/099032824212523838/pdf/P171592-effa7cbb-e47a-4467-bd3c-4bf28f84f93f.pdf). [Birth registration reached 98.6% of the population and about 99% of children under one in the 2019 MICS](https://documents1.worldbank.org/curated/en/099032824212523838/pdf/P171592-effa7cbb-e47a-4467-bd3c-4bf28f84f93f.pdf). [The IIAG's civil registration score rose 37.5 points over 2014-2023 to 62.5, the country's second most improved indicator](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf).
 
-[The Unified Social Registry, set up under Decree-Law 16/2018, runs on the Ke-Non system](https://dpssf.gov.st/index.php/explorar/recursos-uteis/sobre-kenon). [After its second recertification in June 2026 it covered about 12,000 families and 52,808 people, up from 8,000 families](https://www.telanon.info/sociedade/2026/06/26/53407/resultados-da-2a-recertificacao-e-expansao-do-cadastro-social-unico/). [More than 12,500 households were on it in August 2026, and the vulnerable families programme is to grow from 5,000 to 6,000 households](https://rstp.st/2026/08/26/pm-defende-reforco-da-protecao-social-para-apoiar-mais-pessoas-em-situacao-de-vulnerabilidade/).
+[The Unified Social Registry, set up under Decree-Law 16/2018, runs on the Ke-Non system](https://dpssf.gov.st/index.php/explorar/recursos-uteis/sobre-kenon). [After its second recertification in June 2026 it covered about 12,000 families and 52,808 people, up from 8,000 families](https://www.telanon.info/sociedade/2026/06/26/53407/resultados-da-2a-recertificacao-e-expansao-do-cadastro-social-unico/). [More than 12,500 households were on it in August 2026](https://rstp.st/2026/08/26/pm-defende-reforco-da-protecao-social-para-apoiar-mais-pessoas-em-situacao-de-vulnerabilidade/). [On 31 August 2026 the vulnerable families programme began paying 6,000 households](https://rstp.st/2026/08/31/dpssf-inicia-4-o-pagamento-a-6-mil-familias-vulneraveis-em-stp/), [up from 5,000](https://rstp.st/2026/08/26/pm-defende-reforco-da-protecao-social-para-apoiar-mais-pessoas-em-situacao-de-vulnerabilidade/).
 
 [A 2019 decree regulates the computerised property register](https://www.mirandalawfirm.com/pt/conhecimento-media/publications/alerts/informatizacao-do-registo-de-propriedade-em-sao-tome-e-principe). [By June 2025 the Integrated Property Registration System held 131,219 real-estate and vehicle records, against a revised target of 133,151](https://documents1.worldbank.org/curated/en/099122425094017275/pdf/BOSIB-13307967-436a-439f-8e03-0103fb0dd531.pdf). [Real-estate records stood at 71,071 against a target of 113,000](https://documents1.worldbank.org/curated/en/099122425094017275/pdf/BOSIB-13307967-436a-439f-8e03-0103fb0dd531.pdf). [The 2022 postal base bill provides for a postal code system and an address database](https://www2.camara.leg.br/saotomeeprincipe/diarios-da-an/xi-legislatura-22-11-2018/ii-serie-a/8.a-sessao/DAN19-IIS.pdf/at_download/file). [The record consulted does not show it in force](https://www2.camara.leg.br/saotomeeprincipe/diarios-da-an/xi-legislatura-22-11-2018/ii-serie-a/8.a-sessao/DAN19-IIS.pdf/at_download/file).
 
