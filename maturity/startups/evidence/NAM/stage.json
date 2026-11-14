@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "startuppolicy",
-      "stage": "no evidence",
-      "law": "",
+      "stage": "3",
+      "law": "adopted",
       "labelled": "",
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says what the state does for tech startups.",
-      "note": "Rebuild 2026-11-13: No evidence row on the sub-indicator, so no evidence holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "NAM-001",
+      "gaps": "No source found since October 2023 says startups are labelled or registered under a startup law or strategy. The US$20 million ICT venture fund names no investment.",
+      "note": "Housekeeping 76: Cabinet approved the start-ups policy (NIESED) in November 2024 and ordered an attendant Act finalised (NAM-001, NAM-002), so 3. No startup is shown labelled under it.",
+      "as_at": "2026-11-14"
     }
   ]
 }

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "RWA-002",
-      "gaps": "No startup act or strategy adopted is on record: in June 2025 the act had not been tabled in Cabinet. The Rwanda Innovation Fund backs firms, but under no startup law.",
-      "note": "Rwanda's Startup Act was still in drafting in June 2025, with several drafts and validations under way, so 2. Stage 3 needs the act passed or a startup strategy adopted.",
-      "as_at": "2026-11-12"
+      "gaps": "No startup act or strategy adopted is on record: in June 2025 the act had not been tabled in Cabinet. The Rwanda Innovation Fund and the investment code's angel incentives stand under no startup law.",
+      "note": "Housekeeping 76: Rwanda's Startup Act was still in drafting in June 2025 (RWA-002), so 2 holds. The investment code's start-up incentives (RWA-004) predate any startup law and are counted as other.",
+      "as_at": "2026-11-14"
     }
   ]
 }

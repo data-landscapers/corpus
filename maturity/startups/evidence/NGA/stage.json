@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-005;NGA-002",
-      "gaps": "No source found since October 2023 says a public fund under the startup law or strategy has financed startups.",
-      "note": "Restaged by hand 2026-11-11 (housekeeping 57): NITDA's July 2024 labelling committee shows the 2022 Startup Act in force inside the window (NGA-005), and labelled startups are reported in 2025 (NGA-002); no investment by the Act's seed fund is held.",
-      "as_at": "2026-11-11"
+      "gaps": "No source found says a public fund under the Startup Act has financed startups; its seed fund was still under-capitalised in October 2025.",
+      "note": "Housekeeping 76: the Act is in force (NGA-005) and startups are labelled under it (NGA-002), with 12,948 registered for labelling by April 2024 (NGA-009), so 4 holds. The Act's seed fund names no investment, so not 5.",
+      "as_at": "2026-11-14"
     }
   ]
 }

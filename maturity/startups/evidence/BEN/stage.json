@@ -9,10 +9,10 @@
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-003;BEN-004",
+      "stage_sources": "BEN-003;BEN-006",
       "gaps": "No source found says FAEN or another public fund under the label decree has financed startups with investments named; FAEN's October 2025 launch names none.",
-      "note": "Decree 2023-095 sets the startup label, the tax code exempts labelled startups, and fifteen firms were labelled in December 2024, so 4. FAEN is to finance labelled startups but no investment is named, so not 5.",
-      "as_at": "2026-11-12"
+      "note": "Housekeeping 76: decree 2023-095 and the tax code set the label and its exemptions (BEN-003), and the ministry labelled 15 firms from the December 2024 call (BEN-006), so 4 holds. FAEN names no investment, so not 5.",
+      "as_at": "2026-11-14"
     }
   ]
 }

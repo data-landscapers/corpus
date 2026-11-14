@@ -9,10 +9,10 @@
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-003;MRT-002",
-      "gaps": "No source found since October 2023 says startups are labelled or registered under a startup law or strategy.",
-      "note": "Rebuild 2026-11-13: Law 2024-002 on startups is in force and sets a labelling regime (MRT-002, MRT-003); no startup is shown labelled under it, so 3 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "MRT-005;MRT-003",
+      "gaps": "No source found since October 2023 says startups are labelled or registered under a startup law or strategy. Nor has the FIAS fund the law creates financed any.",
+      "note": "Housekeeping 76: the text of Law 2024-002 is held (MRT-005): it creates a startup label, tax relief and the FIAS fund. No startup is shown labelled, so 3 holds.",
+      "as_at": "2026-11-14"
     }
   ]
 }

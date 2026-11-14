@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "startuppolicy",
-      "stage": "no evidence",
+      "stage": "unplaced",
       "law": "",
       "labelled": "",
       "funded": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found says what the state does for tech startups.",
-      "note": "Rebuild 2026-11-13: No evidence row on the sub-indicator, so no evidence holds.",
-      "as_at": "2026-11-13"
+      "gaps": "No startup law or strategy has been found. The research fund and the SIE Fund's startup window stand under none and name no award.",
+      "note": "Housekeeping 76: the National Research and Innovation Fund (GMB-001) and the World Bank-financed SIE Fund startup window (GMB-002) are public support under no startup law or strategy, counted as other, so the cell is unplaced rather than without evidence.",
+      "as_at": "2026-11-14"
     }
   ]
 }

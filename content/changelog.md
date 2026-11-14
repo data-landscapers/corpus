@@ -3,6 +3,9 @@
 - Equatorial Guinea is placed at 2 on the social protection register (dpi.registry--social-protection-register), where it had no stage: Ley 5/2026 creates a Registro Único Social. Nothing found says the register has been built or holds anyone yet.
 - Nigeria rises from 4 to 5 on the social protection register (dpi.registry--social-protection-register): 15.65 million people's ID numbers were in it by October 2026, and its cash transfers are paid into digital accounts and mobile wallets. How many of each programme's beneficiaries are paid digitally has not been found.
 - Egypt rises from 4 to 5 on the social protection register (dpi.registry--social-protection-register): the registry is linked to 27 databases by national ID, and Takaful and Karama, which selects from it, pays benefits by card. Whether its other programmes pay digitally has not been found.
+- Namibia is placed at 3 on startup law and funding (tech.innovate--tech-startup-ecosystem), where it had no stage: Cabinet approved its start-ups policy in November 2024 and ordered a startup act finalised. No startup has been found labelled under it.
+- Eswatini is placed at 2 on startup law and funding (tech.innovate--tech-startup-ecosystem), where it had no stage: its 2024-2029 small-business policy, with a start-up matching fund, awaits Cabinet adoption. No startup law or strategy adopted has been found.
+- Gambia's startup law and funding cell moves from no evidence to unplaced (tech.innovate--tech-startup-ecosystem): a research fund and a startup grant window opened in 2026, under no startup law or strategy. It is grey on the map now, not blank.
 
 ## 13 November 2026
 

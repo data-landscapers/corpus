@@ -9,10 +9,10 @@
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-001",
-      "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-      "note": "Rebuild 2026-11-13: Invest Salone said in November 2025 the Startup Act is in development (SLE-001), so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "SLE-003;SLE-002",
+      "gaps": "No source found since October 2023 says a startup law or strategy is adopted.",
+      "note": "Housekeeping 76: a startup ecosystem policy was at validation in September 2026 (SLE-003) and the minister expects the Startup Act in early 2027 (SLE-002), so 2 holds.",
+      "as_at": "2026-11-14"
     }
   ]
 }

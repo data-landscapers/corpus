@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "startuppolicy",
-      "stage": "no evidence",
-      "law": "",
+      "stage": "2",
+      "law": "draft",
       "labelled": "",
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says what the state does for tech startups.",
-      "note": "Rebuild 2026-11-13: No evidence row on the sub-indicator, so no evidence holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "SWZ-001",
+      "gaps": "No source found says the MSME Policy 2024-2029, with its start-up measures, has been adopted. The MSME Revolving Fund lends to start-ups under no startup law or strategy.",
+      "note": "Housekeeping 76: the MSME Policy 2024-2029 provides a start-up matching fund and start-up tax review and awaits Cabinet adoption (SWZ-001), so 2. The revolving fund (SWZ-002) is a general small-business fund, counted as other.",
+      "as_at": "2026-11-14"
     }
   ]
 }
