@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: MRT
 ledger_rows: 19
 not_held: 3
-record: 9695c3cc27e8
+record: 773636724fdf
 ---
 
 # News, Oct – Nov 2026
@@ -308,7 +308,7 @@ Université de Nouakchott launched a blockchain-based platform on 10 November 20
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Siraj education platform</p>
+<p class="monthly-story__name">Siraj (SIRAGE) education platform</p>
 
 <div class="bulletin-item" markdown="1">
 

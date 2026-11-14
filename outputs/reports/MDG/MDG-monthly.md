@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: MDG
-ledger_rows: 27
+ledger_rows: 28
 not_held: 5
-record: 94f449ed5ff7
+record: 64b292fe042e
 ---
 
 # News, Oct – Nov 2026
@@ -265,6 +265,20 @@ Madagascar's development intervention fund FID is tendering for mobile-money pro
 </div>
 
 ### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registre Social Unique (RSU)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Recrutement d'un cabinet pour la conception, le développement et l'accompagnement du système d'information du Registre Social Unique – MIS RSU](https://calloffre.com/ao/recrutement-d-un-cabinet-pour-le-developpement-mis-du-rsu-1f8490a0-9624-4ba1-808f-03f2d408e19e)** — Ministère de la Population et des Solidarités (via Calloffre), 15 October 2026
+
+Ministry calls for a firm to design and build the RSU information system under PFSR, closing 29 October 2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

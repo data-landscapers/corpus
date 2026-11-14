@@ -1,12 +1,12 @@
 ---
 title: Madagascar: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 278
+sources_cited: 279
 sections_written: 39
 not_established: 1
 acquire_lines: 25
@@ -239,7 +239,7 @@ Madagascar's national data exchange went live on 28 April 2026: [Rahaka is built
 
 [Around two-thirds of civil registration offices had no stable internet access in 2023](https://blogs.worldbank.org/en/nasikiliza/legal-identity-all-what-can-madagascar-learn-namibia). [An offline application was being designed for them](https://blogs.worldbank.org/en/nasikiliza/legal-identity-all-what-can-madagascar-learn-namibia). [By December 2025 SIECM digitisation had reached 336 communes, 40% of its target](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). [By then 61,892 birth certificates were linked to an identification number](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). [By December 2025 the e-Fokontany census had covered 5.09 million households and 19.7 million provisional identifiers](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). [Eighty per cent of children were registered with the civil-status service in 2025](https://instat.mg/p/enquete-par-grappes-a-indicateurs-multiples-mics-7-2025).
 
-[On 5 February 2026 the social registry's technical committee set a September 2026 completion target](https://prea.gov.mg/prea/rsu-reunion-du-comite-technique-une-etape-cle-pour-la-poursuite-du-projet/). [By September 2026 the registry covered about 2.7 million households, nearly 12 million people](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/). [A new survey was extending it into urban areas](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/). [Its designed linkage to the identity system is not operational](https://www.worldbank.org/en/news/press-release/2023/02/06/madagascar-to-expand-access-to-social-protection-for-extremely-poor-households-thanks-to-250-million-in-world-bank-finan).
+[On 5 February 2026 the social registry's technical committee set a September 2026 completion target](https://prea.gov.mg/prea/rsu-reunion-du-comite-technique-une-etape-cle-pour-la-poursuite-du-projet/). [By September 2026 the registry covered about 2.7 million households, nearly 12 million people](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/). [A new survey was extending it into urban areas](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/). [In October 2026 the ministry sought a firm to build the registry's information system](https://calloffre.com/ao/recrutement-d-un-cabinet-pour-le-developpement-mis-du-rsu-1f8490a0-9624-4ba1-808f-03f2d408e19e). [Its designed linkage to the identity system is not operational](https://www.worldbank.org/en/news/press-release/2023/02/06/madagascar-to-expand-access-to-social-protection-for-extremely-poor-households-thanks-to-250-million-in-world-bank-finan).
 
 [Only around 7% of the country is formally titled](https://tenuresecurity.org/country-profile/madagascar/), and [1,518,000 local land certificates had been registered as at October 2024](https://newsmada.com/2024/10/31/nouveau-pnf-ii-1-518-000-certificats-fonciers-enregistres/). [The National Land Programme's 2026 documentation confirms that no integrated national land information system exists](https://observatoire-territoire.mg/publications/programme-national-foncier-ii/). [In April 2025 the land ministry announced one for five pilot regions](https://newsmada.com/2025/04/17/mdat-deploiement-progressif-du-systeme-dinformation-fonciere/).
 
