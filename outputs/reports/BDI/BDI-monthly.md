@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: BDI
-ledger_rows: 21
+ledger_rows: 23
 not_held: 10
-record: 37454a430cfe
+record: 1534d45addca
 ---
 
 # News, Oct – Nov 2026
@@ -385,6 +385,34 @@ Summarised under [AI](#ai).
 **[La Primature lance officiellement les activités du Recensement Général des Entreprises du Burundi, édition 2026](https://primature.gov.bi/la-primature-lance-officiellement-les-activites-du-recensement-general-des-entreprises-du-burundi-edition-2026/)** — Primature du Burundi, 15 October 2026
 
 Burundi's Prime Minister's Office launched the 2026 General Enterprise Census on 15 October 2026 to count formal and informal enterprises nationwide. The data will update the national enterprise register and feed the rebasing of the national accounts, and will be covered by statistical secrecy and barred from use in tax control or judicial investigation.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Decree creating an order of statistics professionals</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Renforcement du système statistique national au Burundi](https://burundi-news.com/articles/fr/renforcement-du-systeme-statistique-national-au-burundi.html)** — burundi-news.com, 9 November 2026
+
+Burundi's statistics council weighs a draft decree creating an order of statistics professionals.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National accounts on the 2008 System of National Accounts</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Renforcement du système statistique national au Burundi](https://burundi-news.com/articles/fr/renforcement-du-systeme-statistique-national-au-burundi.html)** — burundi-news.com, 9 November 2026
+
+Summarised under [National statistics](#national-statistics).
 
 </div>
 

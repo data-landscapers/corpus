@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: COD
 ledger_rows: 50
 not_held: 6
-record: 150247e02d7e
+record: d8a11c1a5d7f
 ---
 
 # News, Oct – Nov 2026
@@ -113,6 +113,14 @@ The DRC government adopted on 30 September 2026 a bill to replace the 2010 publi
 **[RDC : le Sénat ratifie à l’unanimité l’ordonnance-loi portant organisation de l’activité statistique](https://actualite.cd/2026/10/22/rdc-le-senat-ratifie-lunanimite-lordonnance-loi-portant-organisation-de-lactivite)** — Actualite.cd, 22 October 2026
 
 The DRC Senate on 21 October 2026 ratified ordonnance-loi 26/015 of 7 September 2026 organising statistical activity, by 73 votes to none of its 109 members. The 95-article law gives the national statistics institute the power to issue the statistical visa, puts a council chaired by the Prime Minister at the head of the system, penalises breaches of statistical secrecy and puts the system's budget at about USD 192 million.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Promulgation de la loi portant organisation de l’activité statistique en RDC](https://acp.cd/nation/promulgation-de-la-loi-portant-organisation-de-lactivite-statistique-en-rdc/)** — ACP, 28 October 2026
+
+Tshisekedi promulgates the law ratifying the DRC's statistics ordonnance-loi n° 26-015, October 2026.
 
 </div>
 

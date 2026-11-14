@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: GAB
-ledger_rows: 37
+ledger_rows: 38
 not_held: 11
-record: d1c1ea186ca5
+record: eff2d0142084
 ---
 
 # News, Oct – Nov 2026
@@ -711,6 +711,28 @@ On 29 October 2026 the police inspectorate and Group IDENTITY signed an agreemen
 </nav>
 
 ### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Third national strategy for the development of statistics</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SNDS 2027-2030 : l'INSTAT GABON renforce les capacités des acteurs du Système Statistique National](https://new.instatgabon.org/fr/actualite/snds-2027-2030-l-instat-gabon-renforce-les-capacites-des-acteurs-du-systeme-statistique-national)** — INSTAT Gabon, 5 October 2026
+
+INSTAT starts SNDS-III 2027-2030 under HISWACA-SOP 2: SNDS-II evaluation and SSN diagnostic by CAPI questionnaire.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[SNDS 2026-2030 : Deuxième mission de l'expert international Alain Brilleau à l'INSTAT Gabon](https://new.instatgabon.org/fr/actualite/snds-2026-2030-deuxieme-mission-de-l-expert-international-alain-brilleau-a-l-instat-gabon)** — INSTAT Gabon, 1 November 2026
+
+Expert mission 1-13 Nov 2026 drafts SNDS II evaluation, SSN diagnostic, SNDS 2026-2030 orientations; World Bank-funded.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

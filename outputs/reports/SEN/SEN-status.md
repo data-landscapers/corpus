@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 13
-sources_cited: 299
+sources_cited: 301
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -358,6 +358,8 @@ Deployment of the civil-status software had reached [98 per cent of centres in T
 
 ### National statistics
 <!-- data.statistics -->
+
+[In November 2023 ANSD put a fourth statistics strategy, for 2024-2028, to validation](https://lequotidien.sn/systeme-statistique-national-le-dg-de-lansd-predit-une-perspective-prometteuse/). [The state committed over FCFA 55bn to it over five years](https://lequotidien.sn/systeme-statistique-national-le-dg-de-lansd-predit-une-perspective-prometteuse/). [In March 2026 ANSD launched its revision, to align it with the 2025-2029 national development strategy](https://fr.linkedin.com/posts/agence-nationale-de-la-statistique-et-de-la-d%C3%A9mographie-ansd_ansd-data-mepc-activity-7443429667140919296-y3Ho).
 
 On the World Bank's 2023 Statistical Performance Indicators Senegal scores [above 89% for data use, 70% to 89% for data services, products and infrastructure, and only 50% to 69% for data sources](https://www.worldbank.org/en/programs/statistical-performance-indicators). [Data sources, meaning censuses and surveys, are its weakest pillar](https://www.worldbank.org/en/programs/statistical-performance-indicators). The Ibrahim Index puts the [capacity of the statistical system at 61.1 out of 100.0 in 2023, 13th of 54 and 12.5 points higher than a decade earlier](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sn.pdf).
 
