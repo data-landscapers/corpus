@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: SYC
 ledger_rows: 17
 not_held: 6
-record: 123e0c22da5d
+record: 3dea9a4adc47
 ---
 
 # News, Oct – Nov 2026
@@ -112,6 +112,14 @@ Seychelles plans to begin implementing a digital human resource management syste
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Seychelles — 2027 Budget — Estimates of Revenue and Expenditure for the Fiscal Year Ending 31st December 2027 — Part 1](https://www.finance.gov.sc/wp-content/uploads/2026/11/2027-BUDGET-BOOK-PART-1-ESTIMATES-OF-REVENUE-AND-EXPENDITURE-FOR-THE-FISCAL-YEAR-ENDING-31ST-DECEMBER-2027-1.pdf)** — Ministry of Finance, Economic Planning, Trade and Investment, Republic of Seychelles, 13 November 2026
+
+2027 estimates with 2028-29 forecasts: Appropriation Bill for SCR 12.86bn, programme budgets incl. DICT, PSIP.
+
+</div>
+
 </div>
 
 ### New investments
@@ -175,6 +183,14 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[AI to support permits, healthcare and fraud detection under Seychelles' $50 million digital plan](https://www.seychellesnewsagency.com/articles/22623/ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan)** — Seychelles News Agency, 30 October 2026
 
 Seychelles' Cabinet approved the Digital and AI Strategy 2026–2031 on 28 October 2026. It is costed at US$50 million over five years, from government and international funding. The principal secretary for ICT said its first project is a government cloud and data centre.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Seychelles — 2027 Budget — Assumptions and Objectives of the 2027 Budget — Part 2](https://www.finance.gov.sc/wp-content/uploads/2026/11/2027-BUDGET-BOOK-PART-2-ASSUMPTIONS-AND-OBJECTIVES-OF-THE-2027-BUDGET.pdf)** — Ministry of Finance, Economic Planning, Trade and Investment, Republic of Seychelles, 13 November 2026
+
+2027 budget speech and strategy: digital and AI strategy rollout, SCR 59.1m cloud and data centre, debt and fiscal risk.
 
 </div>
 
