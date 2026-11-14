@@ -3,9 +3,9 @@ title: Nigeria — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: NGA
-ledger_rows: 110
+ledger_rows: 118
 not_held: 8
-record: ca6f0a0b5667
+record: bdc4de26e6d1
 ---
 
 # News, Oct – Nov 2026
@@ -100,6 +100,14 @@ A Sangmyung University consortium ran a study visit to Korea for Nigerian senior
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Moves to Integrate MDAs Under New Digital Governance Plan](https://www.thisdaylive.com/2026/11/14/nigeria-moves-to-integrate-mdas-under-new-digital-governance-plan/)** — ThisDay, 14 November 2026
+
+KOICA handed Nigeria's e-Government Master Plan 2.0 for 2026 to 2030 to the communications ministry in November 2026. It consolidates the first plan's 25 initiatives into 10 under five pillars, and awaits formal adoption. KOICA's 2022 to 2026 project also delivered 572 NIN registration devices.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -141,6 +149,22 @@ Nigeria's NITDA opened a stakeholder review of its Strategic Roadmap and Action 
 **[Split-cloud architecture puts Nigerian banks under new pressure](https://businessday.ng/technology/article/split-cloud-architecture-puts-nigerian-banks-under-new-pressure/)** — BusinessDay (Nigeria), 4 October 2026
 
 Nigerian banks and large fintechs face the central bank's 1 January 2027 deadline for storing payment transaction data in the country. Cloud providers say some may keep applications on foreign clouds and host the regulated data locally, an arrangement the central bank has not ruled on.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Frequently Asked Questions and Answers on the Data Localisation Circular Issued on June 15, 2026](https://www.cbn.gov.ng/Out/2026/CCD/FAQ%20Data%20Localisation%20Updated%2004-11-2026.pdf)** — Central Bank of Nigeria, 11 November 2026
+
+20 answers: no offshore processing, backups or DR; remote support needs CBN approval; 1 Jan 2027 deadline holds.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[CBN Reiterates January Date For Data Localisation Directive](https://newtelegraphng.com/cbn-reiterates-january-date-for-data-localisation-directive/)** — New Telegraph, 12 November 2026
+
+Reports CBN FAQ released 11 Nov 2026: no phased compliance, no grace period; dataset scope quoted.
 
 </div>
 
@@ -324,6 +348,20 @@ Nigeria's five-year health memorandum with the United States, signed on 19 Decem
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Licensed data protection compliance organisations</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Protection: NDPC Trains DPCOs, Warns Against Sharp Practices](https://www.thisdaylive.com/2026/11/13/data-protection-ndpc-trains-dpcos-warns-against-sharp-practices/)** — ThisDay, 13 November 2026
+
+367 licensed DPCOs, up from 17; Meta-backed audit training 10-11 Nov 2026; licences revocable for false audit reports.
+
+</div>
+
+</div>
+
 ### Regional collaboration
 
 <div class="monthly-story" markdown="1">
@@ -335,6 +373,14 @@ Nigeria's five-year health memorandum with the United States, signed on 19 Decem
 **[Customs, Afreximbank plan Nigeria-Benin, Cameroon border upgrade](https://www.vanguardngr.com/2026/10/customs-afreximbank-plan-nigeria-benin-cameroon-border-upgrade/amp/)** — Vanguard News, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
 Nigeria Customs Service opened talks with Afreximbank on modernising the Sèmè–Kraké and Mfum–Ekok border corridors with Benin and Cameroon. The plans include a system for exchanging customs declarations between the three countries on a common data model; no cost or loan has been agreed.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Customs pilots joint digital system to boost West African trade](https://guardian.ng/business-services/nigeria-customs-pilots-joint-digital-system-to-boost-west-african-trade/)** — The Guardian Nigeria, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Nigeria Customs said on 14 November 2026 that it is piloting a joint digital customs system with Benin and Cameroon. A declaration cleared in Nigeria becomes the receiving country's manifest, with AI translation between English and French. The ECOWAS Commission pledged support for a joint border post at Seme-Krake.
 
 </div>
 
@@ -357,6 +403,42 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 **[FG proposes shared AI computing infrastructure with Rwanda, Senegal, Kenya](https://www.thecable.ng/fg-proposes-shared-ai-computing-infrastructure-with-rwanda-senegal-kenya/)** — TheCable, 22 October 2026
 
 Nigeria's communications minister Bosun Tijani, speaking through NCAIR's director at BUILD 2026 in Abuja, proposed pooling GPU capacity with Rwanda, Senegal and Kenya so researchers could combine compute to train large models. He said about 20 million Nigerians remain offline and pointed to a proposed Nigeria-Togo data park at Egbe to use unused power capacity.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chad-Nigeria digital cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Doha : le ministre renforce les partenariats numériques avec le Nigeria et la France](https://mten.gouv.td/doha-le-ministre-renforce-les-partenariats-numeriques-avec-le-nigeria-et-la-france/)** — Ministère des Télécommunications, de l’Économie numérique et de la Digitalisation (Tchad), 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
+
+Chad backs Nigeria's ITU Council bid and seeks French support for its own 2030 run; Abuja visit to finalise accords.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Coopération numérique : le Tchad et le Nigeria sollicitent la Banque mondiale pour une interconnexion en fibre optique | CamerPressAgency](https://camerpressagency.com/cooperation-numerique-le-tchad-et-le-nigeria-sollicitent-la-banque-mondiale-pour-une-interconnexion-en-fibre-optique/)** — Camer Press Agency, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
+
+Joint letter to World Bank signed 13 Nov 2026 in Doha; links Nigeria's BRIDGE backbone to Chad's CARDIP network.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PAPSS participation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CBN reforms boost adoption of Africa's cross-border payment system, says PAPSS](https://businessday.ng/news/article/cbn-reforms-boost-adoption-of-africas-cross-border-payment-system-says-papss/)** — BusinessDay Nigeria, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+~1,000% volume growth in 2026; 32 countries, 280+ banks; CBN documentation waiver below a threshold; China corridor.
 
 </div>
 
@@ -726,6 +808,20 @@ Nigeria's active mobile subscriptions reached 200.3 million in September 2026, N
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Incentive-Based Spectrum Investment Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCC considers 15-year spectrum licences to boost broadband investment](https://techcabal.com/2026/11/13/ncc-considers-15-year-spectrum-licences/)** — TechCabal, 13 November 2026
+
+Longer tenure for verified extra investment; data use 1.73m TB a month Sept 2026; 5G coverage ~13% April 2026.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -999,6 +1095,20 @@ NIMC's Identity Crime Enforcement Unit arrested suspected illegal NIN enrolment 
 </div>
 
 ### Digital Payments and Fintech
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National social safety-net cash transfer (NASSP scale-up)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Development Update, October 2026 — Beyond the Federal Purse: How Higher Revenues Shaped State Priorities](https://documents1.worldbank.org/curated/en/099100726183025290/pdf/P513192-9694adf7-8564-447a-8518-63636f20d2c6.pdf)** — World Bank, 1 October 2026
+
+World Bank: N658.9bn in direct cash transfers reached 10.46m households by September 2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1506,6 +1616,34 @@ The Yobe State Internal Revenue Service has banned cash payment of any tax, levy
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Anambra NORA AI assistant and Digital Anambra Handbook</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Anambra Unveils Digital Handbook, AI Assistant for Residents](https://von.gov.ng/anambra-unveils-digital-handbook-ai-assistant-for-residents/)** — Voice of Nigeria, 13 November 2026
+
+35 platforms, 29 MDA sites, 14 service areas; NORA built on open source at no cost; 7-day complaint target.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Local Government Websites Pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICPC Recovers ₦5.3bn, Targets 774 Councils With Digital Transparency Drive](https://von.gov.ng/icpc-recovers-%E2%82%A65-3bn-targets-774-councils-with-digital-transparency-drive/)** — Voice of Nigeria, 13 November 2026
+
+Councils to publish budgets, allocations, IGR and audits online; NITDA to host all 774 LGA sites; ₦5.3bn recovered.
+
+</div>
+
+</div>
+
 ### Rural digital data capture
 
 <div class="monthly-story" markdown="1">
@@ -1795,6 +1933,20 @@ Nigeria's digital economy ministry opened the 3MTT Delivery Network to training 
 **[Nigeria Opens ₦4 Billion Funding Applications for 3MTT Cohort 5 Delivery Partners](https://techafricanews.com/2026/11/11/nigeria-3mtt-cohort-5-opens-4-billion-funding-applications/)** — Tech Africa News, 11 November 2026
 
 Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcome-linked funding for delivery partners of 3MTT Cohort 5. The EU and Denmark fund it through GIZ, HAUS and ESTDEV, with a MacArthur Foundation grant. Applications close on 30 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">iDICE Skills-to-Jobs programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG recruits 50,000 young Nigerians for digital and creative skills training under iDICE](https://techcabal.com/2026/11/13/fg-recruits-50000-young-nigerians-for-digital-and-creative-skills-training-under-idice/)** — TechCabal, 13 November 2026
+
+50,000 recruited in seven North-West states; 10-18 week training from 16 Nov 2026; AfDB, AFD, IsDB, BOI co-finance.
 
 </div>
 
