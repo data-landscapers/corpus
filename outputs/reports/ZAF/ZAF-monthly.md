@@ -3,9 +3,9 @@ title: South Africa — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: ZAF
-ledger_rows: 103
+ledger_rows: 106
 not_held: 17
-record: 42c615cb709a
+record: a93e15d504c4
 ---
 
 # News, Oct – Nov 2026
@@ -1164,6 +1164,20 @@ South Africa's public service minister told Parliament on 10 November 2026 that 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cigarette track-and-trace system (SARS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Joint media statement between South African Revenue Service and National Consumer Commission on Track and Trace System](https://www.sars.gov.za/media-release/joint-media-statement-between-south-african-revenue-service-and-national-consumer-commission-on-track-and-trace-system/)** — South African Revenue Service, 12 November 2026
+
+Cigarette track-and-trace RFP imminent; dtic draft regulations out for comment; data-sharing and standards aligned.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -1582,6 +1596,20 @@ ITWeb reported on 6 November 2026 that South Africa ranks 13th of 56 Commonwealt
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI use in large organisations (SA AI Index)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SA AI adoption outpaces business value](https://itweb.africa/article/sa-ai-adoption-outpaces-business-value/xA9PO7NEnaNvo4J8)** — ITWeb Africa, 13 November 2026
+
+93% of large SA firms use AI, 51% see productivity gain; average index score 34.3; World Wide Worx survey.
+
+</div>
+
+</div>
+
 ### ICT Industry
 
 <div class="monthly-story" markdown="1">
@@ -1717,6 +1745,20 @@ AI Research Foundations, a Google.org-funded programme training lecturers to tea
 **[South Africa and China advance plans for Artificial Intelligence Talent Development and Innovation Centre](https://techreviewafrica.com/news/8273)** — Tech Review Africa, 12 November 2026
 
 South Africa and China are advancing plans for an AI Talent Development and Innovation Centre in South Africa, Tech Review Africa reported on 12 November 2026. Deputy Minister Nomalungelo Gina and Vice Minister Zhang Guangjun discussed it at a China-Africa innovation forum in Wuhan. A Chinese technical team is to visit for a preliminary assessment.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Northlink College digitalisation hub</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SASSETA invests R15m in Northlink College digitalisation hub](https://www.itweb.co.za/article/sasseta-invests-r15m-in-northlink-college-digitalisation-hub/KWEBb7yL2jZvmRjO)** — ITWeb South Africa, 13 November 2026
+
+R15m TVET hub for cyber security, cloud, AI and data skills; launched with Minister Manamela.
 
 </div>
 
