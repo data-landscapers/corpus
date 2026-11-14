@@ -3,9 +3,9 @@ title: Djibouti — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: DJI
-ledger_rows: 12
+ledger_rows: 14
 not_held: 10
-record: 1234fabe6a5d
+record: 4b4a3d230ba7
 ---
 
 # News, Oct – Nov 2026
@@ -102,11 +102,43 @@ The alert page lists 511 vulnerability alerts with severity ratings, from 2 Janu
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Emergency Telecommunications Plan (NETP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[70 % d’internautes, 350 km de fibre, 95 % de couverture mobile : Djibouti met ses chiffres sur la table à l'UIT](https://www.adi.dj/article/139096)** — Agence Djiboutienne d'Information (ADI), 12 November 2026
+
+Minister at PP-26: about 70% online, 95% mobile coverage, 350 km EARDIP fibre heading north.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Digital Payments and Fintech
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile-money collection of Djibouti–Ethiopia corridor road-use fees</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Corridor Djibouti-Ethiopie : paiement mobile et numéro vert pour les usagers](https://www.adi.dj/article/139102)** — Agence Djiboutienne d'Information (ADI), 13 November 2026
+
+DPCR ends cash road-fee payments for Mobile Money; 24/7 multilingual 5151 hotline via La Poste.
+
+</div>
+
+</div>
 
 ### Other GovTech and e-Gov
 
