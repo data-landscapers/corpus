@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: include.divides
 places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; LBR; NGA; ZAF; TZA
-record: 098fec206049
+record: f82034e920fd
 ---
 
 # News, Oct – Nov 2026
@@ -154,6 +154,34 @@ Eswatini's ICT ministry and Smart Africa opened a workshop on 7 October to devel
 **[Strengthening Digital Rights for Persons with Disabilities and Older Persons](https://cipesa.org/2026/10/strengthening-digital-rights-for-persons-with-disabilities-and-older-persons/)** — Collaboration on International ICT Policy for East and Southern Africa (CIPESA), 23 October 2026
 
 The Ethiopian Human Rights Commission is adding the digital rights of persons with disabilities and older persons to its monitoring mandate. It presented a draft digital-inclusion monitoring toolkit at a CIPESA-facilitated staff workshop on 21-22 September 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">8028 farmer hotline</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[De-Sludging Digital Public Service Delivery: A Data Analytics Approach](https://dil.uchicago.edu/working-papers/de-sludging-digital-public-service-delivery-a-data-analytics-approach/)** — Development Innovation Lab, University of Chicago, 13 November 2026
+
+IVR funnel analysis and A/B tests on 8028 hotline; dropping registration raised advice access 18%; state cut data asks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AIRADE digital agricultural finance project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Building the digital foundations for agricultural finance in Ethiopia](https://www.uncdf.org/article/9369/building-the-digital-foundations-for-agricultural-finance-in-ethiopia)** — UN Capital Development Fund, 13 November 2026
+
+AIRADE baseline: 96% of farmers self-finance, 6% got loans; USD 1.8m and USD 490,000 grants; Fayda link planned.
 
 </div>
 

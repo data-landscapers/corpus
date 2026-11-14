@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: digital.localgov
 places: BEN; BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
-record: bb08cc17bdfa
+record: 267a5553b671
 ---
 
 # News, Oct – Nov 2026
@@ -369,6 +369,34 @@ The Osun State governor's office announced on 10 November 2026 an agreement on S
 **[Yobe govt bans payments of revenue in cash, manual issuance of receipts](https://dailypost.ng/2026/11/12/yobe-govt-bans-payments-of-revenue-in-cash-manual-issuance-of-receipts/)** — Daily Post Nigeria, 12 November 2026
 
 The Yobe State Internal Revenue Service has banned cash payment of any tax, levy or fee, Daily Post reported on 12 November 2026. Payments must go through approved electronic channels into the state's revenue account. Only electronic receipts now count as proof of payment.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Anambra NORA AI assistant and Digital Anambra Handbook</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Anambra Unveils Digital Handbook, AI Assistant for Residents](https://von.gov.ng/anambra-unveils-digital-handbook-ai-assistant-for-residents/)** — Voice of Nigeria, 13 November 2026
+
+35 platforms, 29 MDA sites, 14 service areas; NORA built on open source at no cost; 7-day complaint target.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Local Government Websites Pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICPC Recovers ₦5.3bn, Targets 774 Councils With Digital Transparency Drive](https://von.gov.ng/icpc-recovers-%E2%82%A65-3bn-targets-774-councils-with-digital-transparency-drive/)** — Voice of Nigeria, 13 November 2026
+
+Councils to publish budgets, allocations, IGR and audits online; NITDA to host all 774 LGA sites; ₦5.3bn recovered.
 
 </div>
 

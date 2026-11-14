@@ -3,8 +3,8 @@ title: Cybersecurity — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: infra.cybersec
-places: BEN; BWA; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
-record: 47fe14537643
+places: BEN; BWA; BFA; CMR; CPV; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
+record: 4a2e59e1081c
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: 47fe14537643
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cape-verde">Cape Verde</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -175,6 +177,22 @@ Cameroon's ICT agency ANTIC said it has audited 108 fintech companies and found 
 
 </div>
 
+## Cape Verde
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Contingency plan for Microsoft-hosted state platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Falhas nos serviços da Microsoft afectaram plataformas de comunicação e gestão documental do Estado](https://www.inforpress.cv/pt/article-12413)** — Inforpress, 13 November 2026
+
+State identity system, e-mail and Office 365 down from 12 Nov 17:00; restored 13 Nov; contingency plan in drafting.
+
+</div>
+
+</div>
+
 ## Cote d'Ivoire
 
 <div class="monthly-story" markdown="1">
@@ -248,6 +266,20 @@ Cybastion and Cisco inaugurated a Security Operations Centre in Abidjan on 5 Nov
 **[DJ-CERT - Centre gouvernementale de veille, d'alertes et de réponses aux attaques informatiques (Alertes)](https://cert.gouv.dj/Alertes/)** — DJ-CERT / Autorité Nationale de Cybersécurité, 21 October 2026
 
 The alert page lists 511 vulnerability alerts with severity ratings, from 2 January 2023 to 21 October 2026. The newest rows, dated 21 October, rate the PHP2Shell flaws in PHP and a GitLab vulnerability as critical.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Emergency Telecommunications Plan (NETP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[70 % d’internautes, 350 km de fibre, 95 % de couverture mobile : Djibouti met ses chiffres sur la table à l'UIT](https://www.adi.dj/article/139096)** — Agence Djiboutienne d'Information (ADI), 12 November 2026
+
+Minister at PP-26: about 70% online, 95% mobile coverage, 350 km EARDIP fibre heading north.
 
 </div>
 

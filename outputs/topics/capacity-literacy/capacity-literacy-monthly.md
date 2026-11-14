@@ -3,8 +3,8 @@ title: Literacy — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: capacity.literacy
-places: AGO; CPV; CIV; COD; EGY; GHA; GIN; MLI; MAR; NAM; NGA; RWA; SYC; SSD; SDN; TUN
-record: 9cfe6c77d2d4
+places: AGO; CPV; CIV; COD; EGY; GHA; GIN; MLI; MAR; NAM; NGA; RWA; SYC; SSD; SDN; TUN; UGA
+record: c7c66e1aa2cd
 ---
 
 # News, Oct – Nov 2026
@@ -41,6 +41,8 @@ record: 9cfe6c77d2d4
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#uganda">Uganda</a>
 </nav>
 
 ## Angola
@@ -316,6 +318,22 @@ UNDP published an assessment of digital financial literacy in Sudan on 5 Novembe
 **[Helping young minds across MENA to explore the online world safely](https://blog.google/intl/en-mena/company-news/outreach-initiatives/helping-young-minds-across-mena-to-explore-the-online-world-safely/)** — Google (The Keyword, MENA), 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
 
 Google announced a US$2.4 million Google.org grant to INJAZ Al-Arab to take its Arabic online-safety curriculum, Abtal Al Internet (Be Internet Awesome), into classrooms in nine Middle East and North African countries over four years, aiming to reach more than 2.3 million students in countries including Egypt, Morocco and Tunisia. The curriculum covers misinformation, scams, cyberbullying and protecting private data; Google also set out default protections for users under 18 on its platforms.
+
+</div>
+
+</div>
+
+## Uganda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Third National Strategy for Financial Literacy 2026-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Financial services must go beyond deposits and withdrawals, says BoU](https://www.monitor.co.ug/uganda/news/national/financial-services-must-go-beyond-deposits-and-withdrawals-says-bou-5668828)** — Daily Monitor (Uganda), 12 November 2026
+
+Finance ministry building National Payment Switch with BoU; financial literacy strategy III launched 30 Oct 2026.
 
 </div>
 

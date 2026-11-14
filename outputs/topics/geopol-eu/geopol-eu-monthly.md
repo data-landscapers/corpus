@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: geopol.eu
 places: CPV; EGY
-record: 0bba02697966
+record: 241103c3ae15
 ---
 
 # News, Oct – Nov 2026
@@ -42,6 +42,14 @@ The 14th ministerial meeting of the EU–Cabo Verde Special Partnership, held in
 **[EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals](https://digital-strategy.ec.europa.eu/en/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals)** — European Commission, DG CONNECT, 12 November 2026
 
 The European Commission said on 12 November 2026 that Egypt's electronic signature and seal framework is technically aligned with the EU's eIDAS Regulation. Egypt is the first country outside Europe to reach this. It will join the EU Third Countries Trusted List, so EU member states can validate its signatures and seals. The step was a deliverable of the EU-Egypt Summit of 22 October 2025.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt becomes 1st non-European country to achieve technical compatibility with EU electronic signature standards](https://sis.gov.eg/en/media-center/news/egypt-becomes-1st-non-european-country-to-achieve-technical-compatibility-with-eu-electronic-signature-standards/)** — State Information Service (Egypt), 13 November 2026
+
+ITIDA and DG CONNECT sign administrative arrangements; mutual trusted-list references.
 
 </div>
 

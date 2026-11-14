@@ -3,8 +3,8 @@ title: Data Exchange — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; BDI; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MRT; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB
-record: 6afd77de4195
+places: DZA; AGO; BEN; BFA; BDI; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MRT; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 5b10c05b030d
 ---
 
 # News, Oct – Nov 2026
@@ -61,6 +61,8 @@ record: 6afd77de4195
 <a href="#uganda">Uganda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zimbabwe">Zimbabwe</a>
 </nav>
 
 ## Algeria
@@ -190,6 +192,20 @@ Nigeria Customs Service opened talks with Afreximbank on modernising the Sèmè�
 **[Santé numérique : le Cameroun accélère l’interconnexion de ses systèmes d’information sanitaires](https://scores2000.info/2026/11/sante-numerique-le-cameroun-accelere-l-interconnexion-de-ses-systemes-d-information-sanitaires.html)** — Scores2000, 3 November 2026
 
 Health IT stakeholders met in Kribi from 27 to 31 October 2026 on Cameroon's national health interoperability platform. A server hosted at CAMTEL runs the OpenHIM and OpenFn exchange tools. The workshop pre-validated a revised framework and worked on accreditation for health software.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Joint digital customs declaration system with Nigeria and Benin</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Customs pilots joint digital system to boost West African trade](https://guardian.ng/business-services/nigeria-customs-pilots-joint-digital-system-to-boost-west-african-trade/)** — The Guardian Nigeria, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Nigeria Customs said on 14 November 2026 that it is piloting a joint digital customs system with Benin and Cameroon. A declaration cleared in Nigeria becomes the receiving country's manifest, with AI translation between English and French. The ECOWAS Commission pledged support for a joint border post at Seme-Krake.
 
 </div>
 
@@ -517,6 +533,28 @@ Sierra Leone's Financial Intelligence Agency and GIABA opened a three-day consul
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Share of national data systems exchanging data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MoPED Seeks Stronger Coordination to Improve Sierra Leone’s National Data Systems](https://sierraloaded.sl/news/moped-stronger-coordination-national-data/)** — SierraLoaded, 13 November 2026
+
+30% of national data systems exchange data; under 1% of budget to statistics; 2026-2030 framework seeks US$18.2m.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone Seeks $18.2m to Improve National Data Systems](https://salonemessengers.com/sierra-leone-18-2m-national-data-systems/)** — Salone Messenger, 13 November 2026
+
+Only 30% of platforms share data; under 1% of budget to statistics; 2026-2030 framework targets 60%.
+
+</div>
+
+</div>
+
 ## Somalia
 
 <div class="monthly-story" markdown="1">
@@ -660,6 +698,30 @@ Uganda's National Identification and Registration Authority announced on 1 Octob
 **[Digital overhaul targets fraud in Sh3.5bn cross-border motor insurance market](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538)** — Business Daily (Nation Media Group), 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 COMESA's Yellow Card cross-border motor insurance scheme is piloting online sale of cover in Zambia in 2026 and expanding phone-based certificate verification, now used in eight countries, through data sharing between members, Business Daily reported on 13 October 2026. The scheme issued more than 340,000 cards in 2025, worth about US$27 million (Sh3.5 billion) in premiums.
+
+</div>
+
+</div>
+
+## Zimbabwe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health information exchange</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[HIE Architecture, Core Platform Configuration, Mediators & Secure Channels](https://www.ungm.org/Public/Notice/322513)** — UNDP Zimbabwe (via UN Global Marketplace), 13 November 2026
+
+UNDP-ZWE-02187; published 13 Nov 2026, closes 18 Nov; architecture, mediators and secure channels for HIE.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Shared Health Record and National Registry Interconnections with HIE](https://www.ungm.org/Public/Notice/322512)** — UNDP Zimbabwe (via UN Global Marketplace), 13 November 2026
+
+UNDP-ZWE-02188; FHIR profiles and secure APIs to link shared health record and national registries; closes 18 Nov.
 
 </div>
 

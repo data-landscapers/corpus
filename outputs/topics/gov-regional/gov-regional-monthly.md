@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: d8bc3aa41a06
+record: 40b12494a77d
 ---
 
 # News, Oct – Nov 2026
@@ -318,6 +318,28 @@ The 2026 Central Africa Internet Governance Forum closed in N'Djamena on 15 Octo
 **[Télécommunications : la Libye prévoit d’achever le raccordement de la fibre optique à la frontière tchadienne d’ici fin 2026 - Le N'Djam Post](https://lendjampost.com/telecommunications-la-libye-prevoit-dachever-le-raccordement-de-la-fibre-optique-a-la-frontiere-tchadienne-dici-fin-2026/)** — Le N Djam Post, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
 
 An unnamed Libyan project official said Libya's fibre link to the Chadian border should be finished by the end of 2026; it already reaches the Egyptian border and work with Chadian authorities and operators has started. The route is pitched as a way to Europe through the MEDUSA submarine cable for Chad, Niger, Mali, the Central African Republic and Burkina Faso.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chad-Nigeria digital cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Doha : le ministre renforce les partenariats numériques avec le Nigeria et la France](https://mten.gouv.td/doha-le-ministre-renforce-les-partenariats-numeriques-avec-le-nigeria-et-la-france/)** — Ministère des Télécommunications, de l’Économie numérique et de la Digitalisation (Tchad), 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Chad backs Nigeria's ITU Council bid and seeks French support for its own 2030 run; Abuja visit to finalise accords.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Coopération numérique : le Tchad et le Nigeria sollicitent la Banque mondiale pour une interconnexion en fibre optique | CamerPressAgency](https://camerpressagency.com/cooperation-numerique-le-tchad-et-le-nigeria-sollicitent-la-banque-mondiale-pour-une-interconnexion-en-fibre-optique/)** — Camer Press Agency, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Joint letter to World Bank signed 13 Nov 2026 in Doha; links Nigeria's BRIDGE backbone to Chad's CARDIP network.
 
 </div>
 
@@ -829,6 +851,14 @@ Nigeria Customs Service opened talks with Afreximbank on modernising the Sèmè�
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Customs pilots joint digital system to boost West African trade](https://guardian.ng/business-services/nigeria-customs-pilots-joint-digital-system-to-boost-west-african-trade/)** — The Guardian Nigeria, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Nigeria Customs said on 14 November 2026 that it is piloting a joint digital customs system with Benin and Cameroon. A declaration cleared in Nigeria becomes the receiving country's manifest, with AI translation between English and French. The ECOWAS Commission pledged support for a joint border post at Seme-Krake.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -848,6 +878,42 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 **[FG proposes shared AI computing infrastructure with Rwanda, Senegal, Kenya](https://www.thecable.ng/fg-proposes-shared-ai-computing-infrastructure-with-rwanda-senegal-kenya/)** — TheCable, 22 October 2026
 
 Nigeria's communications minister Bosun Tijani, speaking through NCAIR's director at BUILD 2026 in Abuja, proposed pooling GPU capacity with Rwanda, Senegal and Kenya so researchers could combine compute to train large models. He said about 20 million Nigerians remain offline and pointed to a proposed Nigeria-Togo data park at Egbe to use unused power capacity.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chad-Nigeria digital cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Doha : le ministre renforce les partenariats numériques avec le Nigeria et la France](https://mten.gouv.td/doha-le-ministre-renforce-les-partenariats-numeriques-avec-le-nigeria-et-la-france/)** — Ministère des Télécommunications, de l’Économie numérique et de la Digitalisation (Tchad), 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
+
+Chad backs Nigeria's ITU Council bid and seeks French support for its own 2030 run; Abuja visit to finalise accords.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Coopération numérique : le Tchad et le Nigeria sollicitent la Banque mondiale pour une interconnexion en fibre optique | CamerPressAgency](https://camerpressagency.com/cooperation-numerique-le-tchad-et-le-nigeria-sollicitent-la-banque-mondiale-pour-une-interconnexion-en-fibre-optique/)** — Camer Press Agency, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
+
+Joint letter to World Bank signed 13 Nov 2026 in Doha; links Nigeria's BRIDGE backbone to Chad's CARDIP network.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PAPSS participation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CBN reforms boost adoption of Africa's cross-border payment system, says PAPSS](https://businessday.ng/news/article/cbn-reforms-boost-adoption-of-africas-cross-border-payment-system-says-papss/)** — BusinessDay Nigeria, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+~1,000% volume growth in 2026; 32 countries, 280+ banks; CBN documentation waiver below a threshold; China corridor.
 
 </div>
 

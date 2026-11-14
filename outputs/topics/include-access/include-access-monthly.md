@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: include.access
 places: BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MWI; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: 6d34f018aa62
+record: 7f690645ff80
 ---
 
 # News, Oct – Nov 2026
@@ -127,6 +127,14 @@ Côte d'Ivoire's digital ministry seeks a firm to digitise its National Public S
 **[MWC Doha 26: Côte d’Ivoire and GSMA sign MoU to improve smartphone affordability](https://techreviewafrica.com/news/8242/x)** — Tech Review Africa, 10 November 2026
 
 Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone affordability at MWC Doha 2026, Tech Review Africa reported on 10 November 2026. The universal-service agency ANSUT will lead implementation under the GSMA Handset Affordability Coalition. The report gives no targets, prices or funding, and no signing date.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire : un programme pour rendre les smartphones accessibles à 25 USD](https://www.agenceecofin.com/actualites-numerique/1211-143364-cote-d-ivoire-un-programme-pour-rendre-les-smartphones-accessibles-a-25-usd)** — Agence Ecofin, 12 November 2026
+
+Signed 10 Nov 2026 in Doha; 15,000 FCFA device target; smartphone penetration 40% now, 80% goal by end-2027.
 
 </div>
 

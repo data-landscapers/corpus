@@ -3,8 +3,8 @@ title: Training and skills — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: capacity.training
-places: AGO; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN
-record: eacd140a5e5b
+places: AGO; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZWE
+record: 3b744d9c0919
 ---
 
 # News, Oct – Nov 2026
@@ -59,6 +59,8 @@ record: eacd140a5e5b
 <a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zimbabwe">Zimbabwe</a>
 </nav>
 
 ## Angola
@@ -565,6 +567,20 @@ Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcom
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">iDICE Skills-to-Jobs programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG recruits 50,000 young Nigerians for digital and creative skills training under iDICE](https://techcabal.com/2026/11/13/fg-recruits-50000-young-nigerians-for-digital-and-creative-skills-training-under-idice/)** — TechCabal, 13 November 2026
+
+50,000 recruited in seven North-West states; 10-18 week training from 16 Nov 2026; AfDB, AFD, IsDB, BOI co-finance.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -699,6 +715,20 @@ South Africa and China are advancing plans for an AI Talent Development and Inno
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Northlink College digitalisation hub</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SASSETA invests R15m in Northlink College digitalisation hub](https://www.itweb.co.za/article/sasseta-invests-r15m-in-northlink-college-digitalisation-hub/KWEBb7yL2jZvmRjO)** — ITWeb South Africa, 13 November 2026
+
+R15m TVET hub for cyber security, cloud, AI and data skills; launched with Minister Manamela.
+
+</div>
+
+</div>
+
 ## Tanzania
 
 <div class="monthly-story" markdown="1">
@@ -756,6 +786,22 @@ Togo's education ministry reported that 1,000 young people have been trained in 
 **[امضاء اتفاقية شراكة إطارية بين وزارة التشغيل و "اتصالات تونس" في مجال الاتصالات والتحول الرقمي](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155931-%D8%A7%D9%85%D8%B6%D8%A7%D8%A1-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A5%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D9%88-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A)** — Assabah News, 14 October 2026
 
 Tunisia's Ministry of Employment and Vocational Training signed a five-year renewable framework agreement with Tunisie Telecom on 14 October. The operator is to connect employment offices and training centres to fibre, install AI labs in vocational-training centres and host a distance-training system in its national data centre.
+
+</div>
+
+</div>
+
+## Zimbabwe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Logistics Youth Training Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DHL, Zimbabwe train digital youth](https://itweb.africa/article/dhl-zimbabwe-train-digital-youth/mYZRXM9gKGAvOgA8)** — ITWeb Africa, 13 November 2026
+
+Three-month programme; Zimpost digital centres; POTRAZ laptops; WFP, BAK Logistics, Teach for Zimbabwe partners.
 
 </div>
 

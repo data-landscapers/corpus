@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
-record: 26b965c50090
+record: 737bd4375cc9
 ---
 
 # News, Oct – Nov 2026
@@ -884,6 +884,20 @@ Madagascar's 96-article cybercrime bill n° 042/2026, which would replace the 20
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Access to information bill (projet de loi n 017/2025)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accès à l'information publique : le ministère de la Communication peine toujours à convaincre – Madagascar-Tribune.com](https://www.madagascar-tribune.com/Acces-a-l-information-publique-le-ministere-de-la-Communication-peine-toujours.html)** — Madagascar-Tribune, 14 November 2026
+
+Madagascar's National Assembly put off the vote on access-to-public-information bill 17/2025, set for 13 November 2026, with no new date. A parliamentary source said some provisions still need discussion. Civil society has sought the law since 2008.
+
+</div>
+
+</div>
+
 ## Malawi
 
 <div class="monthly-story" markdown="1">
@@ -1055,6 +1069,20 @@ Mozambique's INTIC presented a proposed revision of Decree 67/2017, its e-govern
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Revised law on the organisation and functioning of the Public Administration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Parlamento aprova revisão da lei que regula organização e funcionamento da Administração Pública](https://mznews.co.mz/parlamento-aprova-revisao-da-lei-que-regula-organizacao-e-funcionamento-da-administracao-publica/)** — MZNews, 13 November 2026
+
+About 142 articles in 12 chapters; digital transition, citizen oversight and provincial decentralised bodies added.
+
+</div>
+
+</div>
+
 ## Namibia
 
 <div class="monthly-story" markdown="1">
@@ -1082,6 +1110,22 @@ Namibia's Communications Regulatory Authority is developing a regulatory sandbox
 **[Split-cloud architecture puts Nigerian banks under new pressure](https://businessday.ng/technology/article/split-cloud-architecture-puts-nigerian-banks-under-new-pressure/)** — BusinessDay (Nigeria), 4 October 2026
 
 Nigerian banks and large fintechs face the central bank's 1 January 2027 deadline for storing payment transaction data in the country. Cloud providers say some may keep applications on foreign clouds and host the regulated data locally, an arrangement the central bank has not ruled on.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Frequently Asked Questions and Answers on the Data Localisation Circular Issued on June 15, 2026](https://www.cbn.gov.ng/Out/2026/CCD/FAQ%20Data%20Localisation%20Updated%2004-11-2026.pdf)** — Central Bank of Nigeria, 11 November 2026
+
+20 answers: no offshore processing, backups or DR; remote support needs CBN approval; 1 Jan 2027 deadline holds.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[CBN Reiterates January Date For Data Localisation Directive](https://newtelegraphng.com/cbn-reiterates-january-date-for-data-localisation-directive/)** — New Telegraph, 12 November 2026
+
+Reports CBN FAQ released 11 Nov 2026: no phased compliance, no grace period; dataset scope quoted.
 
 </div>
 

@@ -3,13 +3,15 @@ title: Data protection — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: gov.protect
-places: AGO; BEN; BFA; CMR; COG; COD; EGY; SWZ; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8afecf4bd21e
+places: DZA; AGO; BEN; BFA; CMR; COG; COD; EGY; SWZ; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 35b2a81f187b
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
@@ -25,6 +27,8 @@ record: 8afecf4bd21e
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -60,6 +64,22 @@ record: 8afecf4bd21e
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
+
+## Algeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ANPDP deliberation on personal data in CVs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Protection des données personnelles : L’ANPDP encadre le traitement des informations contenues dans les CV](https://www.lesoirdalgerie.com/actualites/l-anpdp-encadre-le-traitement-des-informations-contenues-dans-les-cv-160122)** — Le Soir d’Algérie, 12 November 2026
+
+Deliberation 05 under Law 18-07: no sensitive data without legal basis; CVs kept one year after recruitment closes.
+
+</div>
+
+</div>
 
 ## Angola
 
@@ -206,6 +226,22 @@ The Eswatini Communications Commission has published its 2026 annual report. It 
 
 </div>
 
+## Gabon
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection authority activity</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Données personnelles : L'APDPVP sensibilise à Port-Gentil](https://www.union.sonapresse.com/fr/donnees-personnelles-lapdpvp-sensibilise-port-gentil)** — L'Union - Sonapresse, 12 November 2026
+
+Barely 24 of about 300 Port-Gentil firms compliant with data protection law, per regulator's campaign.
+
+</div>
+
+</div>
+
 ## Ghana
 
 <div class="monthly-story" markdown="1">
@@ -306,6 +342,20 @@ A former senior manager at a Kenyan bank testified, in a Sh1.5 billion data brea
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">US-Kenya Health Cooperation Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CoA Clears Kenya-US Health Deal for Implementation Pending Appeal](https://capitalfm.africa/coa-clears-kenya-us-health-deal-for-implementation-pending-appeal/)** — Capital FM (Kenya), 13 October 2026
+
+Kenya's Court of Appeal lets the US health framework run pending appeal; privacy and data questions left open.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Communications Authority escalated consumer complaints</p>
 
 <div class="bulletin-item" markdown="1">
@@ -335,6 +385,28 @@ Data services drew 140 of the 479 consumer complaints escalated to the Communica
 **[Kenya Nominates Lydia Sitienei as Second Data Commissioner](https://techafricanews.com/2026/11/10/kenya-nominates-lydia-sitienei-second-data-commissioner/)** — Tech Africa News, 10 November 2026
 
 President Ruto nominated Lydia Sitienei, director of legal services at the Communications Authority of Kenya, as the country's second Data Commissioner, Tech Africa News reported on 10 November 2026. The nomination has gone to the National Assembly for approval. She would succeed Immaculate Kassait, the first commissioner, at the end of her six-year term.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kassait calls for reforms, central data pool as she exits data protection office](https://www.kbc.co.ke/kassait-calls-for-reforms-central-data-pool-as-she-exits-data-protection-office/)** — Kenya Broadcasting Corporation, 13 November 2026
+
+Commissioner leaves 16 Nov 2026; urges central anonymised data pool as DPI, office reforms, Malabo ratification.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ODPC enforcement caseload and penalties</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Six years after its creation, Kenya’s data protection watchdog faces a more complex digital economy](https://techtrendske.co.ke/2026/11/13/kenya-data-protection-law-ai-regulation/)** — TechTrendsKE, 13 November 2026
+
+Kassait seeks amendments on AI, sensitive data, penalties; ODPC tallies 13,000 complaints, 459 determinations.
 
 </div>
 
@@ -500,6 +572,20 @@ Nigeria's five-year health memorandum with the United States, signed on 19 Decem
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Licensed data protection compliance organisations</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Protection: NDPC Trains DPCOs, Warns Against Sharp Practices](https://www.thisdaylive.com/2026/11/13/data-protection-ndpc-trains-dpcos-warns-against-sharp-practices/)** — ThisDay, 13 November 2026
+
+367 licensed DPCOs, up from 17; Meta-backed audit training 10-11 Nov 2026; licences revocable for false audit reports.
+
+</div>
+
+</div>
+
 ## Senegal
 
 <div class="monthly-story" markdown="1">
@@ -544,6 +630,22 @@ Sierra Leone's Data Protection and Right of Access to Information Bill, 2026 was
 
 </div>
 
+
+<div class="bulletin-item" markdown="1">
+
+**[Parliament commits Data Protection Bill to Legislative Committee](https://sierraleoneconcordtimes.com/parliament-commits-data-protection-bill-to-legislative-committee-by-jariatu-s-bangura/)** — Concord Times, 12 November 2026
+
+Second reading approved; MPs contest ministerial board nominations, penalty powers and Clause 47 automated decisions.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Parliament Refers Data Protection Bill for Further Scrutiny](https://a-zsl.com/parliament-refers-data-protection-bill-for-further-scrutiny/)** — A-Z Multimedia Corporation, 13 November 2026
+
+MPs question Clause 3 exemptions and ministerial powers; bill sent to Committee Stage, not yet law.
+
+</div>
 
 </div>
 

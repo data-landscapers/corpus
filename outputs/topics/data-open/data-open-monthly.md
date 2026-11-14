@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: data.open
 places: BFA; CPV; TCD; CIV; GMB; GNB; KEN; LBY; MDG; MUS; SEN; SLE; SOM; ZAF; TGO; TUN; UGA; ZWE
-record: bdfa6a2a52c0
+record: aa68e5e50573
 ---
 
 # News, Oct – Nov 2026
@@ -262,6 +262,20 @@ The open data licence of Senegal's national statistics agency, ANSD, grants a fr
 **[Sierra Leone establishes IFAP National Committee during IDUAI 2026, UNESCO celebrates 25 years of Information for All work - Gleaner Newspaper SL](https://gleanersl.com/sierra-leone-establishes-ifap-national-committee-during-iduai-2026-unesco-celebrates-25-years-of-information-for-all-work/)** — Gleaner Newspaper SL, 18 October 2026
 
 Sierra Leone has set up a national committee for UNESCO's Information for All Programme to align national policy with it, the Foreign Ministry announced. A UNESCO-government conference on information integrity held in Freetown on 28 September 2026 drew delegates from 41 countries.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sabi Salone proactive-disclosure partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RAIC Partners with Institute for Development to Improve Public Access to Information in Sierra Leone](https://salonemessengers.com/raic-ifd-public-access-information-sierra-leone/)** — Salone Messenger, 13 November 2026
+
+MoU on proactive disclosure; Sabi Salone AI platform for laws, policies, surveys; signing date not stated.
 
 </div>
 

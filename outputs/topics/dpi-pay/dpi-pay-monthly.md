@@ -3,8 +3,8 @@ title: Digital Payments and Fintech — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.pay
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 95f29782a837
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 94eac6267e0c
 ---
 
 # News, Oct – Nov 2026
@@ -15,6 +15,8 @@ record: 95f29782a837
 <a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -31,6 +33,8 @@ record: 95f29782a837
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#djibouti">Djibouti</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -204,6 +208,22 @@ Benin's finance and justice ministers set fees for 109 documents issued by the c
 **[Communiqué de MTN Mobile Money Bénin](https://www.24haubenin.info/?Communique-de-MTN-Mobile-Money-Benin=)** — 24 Heures au Bénin, 2 November 2026
 
 MTN Mobile Money Bénin said its interoperable e-money transactions run through the BCEAO's PI-SPI from 2 November 2026. National interoperable transfers are free up to FCFA 8,000 a day. Above that they cost 0.5%. The wallet ceiling rises from FCFA 2 million to 4 million. The cap on an interoperable transfer rises from FCFA 500,000 to 2 million.
+
+</div>
+
+</div>
+
+## Botswana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic funds transfer clearing enhancement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[State of the Nation Address to the First Meeting of the Third Session of the Thirteenth Parliament: The Steady Path Continues](https://drive.google.com/file/d/1y84D7XstYzs9eN9oJJRdr_reZhaSLIZI/view)** — Office of the President, Republic of Botswana (President Duma Gideon Boko), 9 November 2026
+
+Boko's 2026 State of the Nation Address, the delivered 53-page text.
 
 </div>
 
@@ -412,6 +432,22 @@ From 2 November 2026 the BCEAO required interoperable e-money transfers across W
 **[Wave précise l'accès à PI-SPI au Sénégal et en Côte d'Ivoire](https://bifinances.com/actualites/wave-precise-lacces-a-pi-spi-au-senegal-et-en-cote-divoire)** — BiFinances, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Wave announced on 6 November 2026 that its customers in Senegal and Côte d'Ivoire can use the PI-SPI instant-payment system from its app. Sending is free up to 8,000 FCFA a day and costs 0.8% plus taxes above that. Receiving is free. Withdrawing PI-SPI funds at an agent costs 1%.
+
+</div>
+
+</div>
+
+## Djibouti
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile-money collection of Djibouti–Ethiopia corridor road-use fees</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Corridor Djibouti-Ethiopie : paiement mobile et numéro vert pour les usagers](https://www.adi.dj/article/139102)** — Agence Djiboutienne d'Information (ADI), 13 November 2026
+
+DPCR ends cash road-fee payments for Mobile Money; 24/7 multilingual 5151 hotline via La Poste.
 
 </div>
 
@@ -944,6 +980,20 @@ Redtech, a Nigerian payments company, plans a payments link between Nigeria and 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenyan bank participation in PAPSS</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PAPSS bets on local currencies to unlock Kenya’s Africa trade](https://capitalfm.africa/papss-bets-on-local-currencies-to-unlock-kenyas-africa-trade/)** — Capital FM, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+31 countries, 220+ banks, 17 switches; 37 countries targeted by end-2026, 50 in 2027; fees about 0.1%.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -1267,6 +1317,14 @@ The operator of Niger's vehicle one-stop shop began accepting Airtel Money for s
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation des services : SONILOGA s’associe à Amana pour élargir les options de paiement numérique au GUAN](https://actuniger.com/societe/digitalisation-des-services-soniloga-sassocie-a-amana-pour-elargir-les-options-de-paiement-numerique-au-guan.html)** — Actu Niger, 13 November 2026
+
+Amana Transfert d'Argent convention signed 12 Nov 2026; GUAN fees payable via AmanaTa app; revenue traceability.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1284,6 +1342,20 @@ iFUTUR announced that its iMoney services have been connected to the BCEAO insta
 </div>
 
 ## Nigeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National social safety-net cash transfer (NASSP scale-up)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Development Update, October 2026 — Beyond the Federal Purse: How Higher Revenues Shaped State Priorities](https://documents1.worldbank.org/curated/en/099100726183025290/pdf/P513192-9694adf7-8564-447a-8518-63636f20d2c6.pdf)** — World Bank, 1 October 2026
+
+World Bank: N658.9bn in direct cash transfers reached 10.46m households by September 2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

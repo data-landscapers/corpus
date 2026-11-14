@@ -3,14 +3,20 @@ title: ICT Industry — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: tech.industry
-places: EGY; KEN; NGA; SEN; ZAF
-record: 7d1aa44ea58f
+places: BEN; EGY; GMB; GIN; KEN; NGA; SEN; ZAF
+record: 035805d9b5fd
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#benin">Benin</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gambia">Gambia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#guinea">Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -20,6 +26,22 @@ record: 7d1aa44ea58f
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 </nav>
+
+## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-GATE e-commerce pilot for small businesses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
+
+</div>
+
+</div>
 
 ## Egypt
 
@@ -40,6 +62,52 @@ MNT-Halan listed its Egyptian business on the Cairo Stock Exchange, Egypt's larg
 **[Norfund-backed fund helps drive MNT-Halan’s rise from Egyptian startup to regional fintech leader](https://innovation-village.com/norfund-backed-fund-helps-drive-mnt-halans-rise-from-egyptian-startup-to-regional-fintech-leader/)** — Innovation Village, 12 November 2026
 
 MNT-Halan listed its Egyptian business on the Cairo Stock Exchange in Egypt's largest IPO since 2021, Innovation Village reported on 12 November 2026. The retail tranche was more than 43 times oversubscribed and the institutional tranche more than 19 times. Norfund committed USD 40m in 2019 to the DPI fund that invested in MNT-Halan in 2021.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Telecom Egypt revenue and profit</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Telecom Egypt Revenue Rises 19% to EGP 93.6 Billion in 9M 2026](https://techafricanews.com/2026/11/13/telecom-egypt-revenue-rises-19-percent-egp-93-6-billion-9m-2026/)** — Tech Africa News, 13 November 2026
+
+Net profit up 44% to EGP 24.4bn; data revenue up 30%; cash capex EGP 26.3bn, 28% of revenue.
+
+</div>
+
+</div>
+
+## Gambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-GATE e-commerce programme for small businesses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
+
+</div>
+
+</div>
+
+## Guinea
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-GATE e-commerce programme for small businesses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
 
 </div>
 

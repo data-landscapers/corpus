@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: gov.standards
 places: DZA; BEN; BFA; BDI; CMR; COM; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; ZAF; SDN; UGA; ZMB
-record: 85a218101507
+record: f0d735d9f0b4
 ---
 
 # News, Oct – Nov 2026
@@ -144,6 +144,20 @@ ISO lists Cameroon's Agence des Normes et de la Qualité (ANOR) as a member body
 **[Agence de Régulation des Télécommunications, Communiqué n° 0000166/ART/DG du 10 novembre 2026 (contrôle pluridisciplinaire des opérateurs CAMTEL, MTN Cameroon et Orange Cameroun)](https://art.cm/sites/default/files/documents/COMMUNIQUE%20ART%2010%20NOV%202026.pdf)** — Agence de Régulation des Télécommunications (ART), Cameroun, 10 November 2026
 
 Cameroon's regulator ART reported on 10 November 2026 on its quality-of-service control of 13 July to 10 August 2026. It found 93 breaches of licence obligations: 41 for CAMTEL, valued at FCFA 8.2 billion, 29 for Orange Cameroun at FCFA 5.8 billion and 23 for MTN Cameroon at FCFA 4.6 billion. Each operator received a 15-day formal notice. An audit of CAMTEL's national fibre network found significant degradation.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MTN Cameroon quality-of-service roadmap agreed with the regulator at Kribi</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FOLLOW-UP ON THE IMPLEMENTATION OF MTN CAMEROON’S ROADMAP : ART ASSESSES PROGRESS AND REAFFIRMS ITS QUALITY OF SERVICE REQUIREMENTS](https://www.art.cm/en/article/follow-implementation-mtn-cameroon%E2%80%99s-roadmap-art-assesses-progress-and-reaffirms-its-quality)** — Agence de régulation des télécommunications (ART) Cameroun, 12 November 2026
+
+85% of Kribi roadmap actions done; 2026 capex 78.6% executed (CFAF 12.7bn); MTN concedes service below target.
 
 </div>
 

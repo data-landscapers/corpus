@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 719711f10e60
+record: 4b241ceecf62
 ---
 
 # News, Oct – Nov 2026
@@ -140,6 +140,20 @@ Benin's Council of Ministers approved the government action programme (PAG) for 
 **[Benin Develops National Action Plan to Strengthen Education Data Production and Use](https://www.adeanet.org/en/news/benin-develops-national-action-plan-strengthen-education-data-production-use)** — ADEA, 6 November 2026
 
 ADEA and the Mastercard Foundation held an action-planning workshop in Cotonou on 3 and 4 November 2026 for the three Beninese ministries responsible for education. Participants set three priorities: data governance and policy, staff capacity, and digital platforms. Proposals include a National Education and Skills Data Commission, digitised school census tools and dashboards on the EducMaster platform.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National trade facilitation strategy (SNFE)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transit, transport et digitalisation : le Bénin engage quatre chantiers pour moderniser ses échanges commerciaux - LE MATINAL](https://lematinal.bj/transit-transport-et-digitalisation-le-benin-engage-quatre-chantiers-pour-moderniser-ses-echanges-commerciaux/)** — Le Matinal, 12 November 2026
+
+Four CNFE priorities: WTO TFA follow-up, single transit guarantee, GUCE-customs link, national strategy to cabinet.
 
 </div>
 
@@ -758,6 +772,14 @@ A Nigerian delegation led by communications minister Bosun Tijani attended a KOI
 **[상명대, 나이지리아 디지털정부 고위급 공무원 초청연수 성료](https://edu.donga.com/news/articleView.html?idxno=113353)** — E동아 (Donga), 30 October 2026
 
 A Sangmyung University consortium ran a study visit to Korea for Nigerian senior officials from 19 to 26 October 2026. It was part of a KOICA-funded digital governance project. About 20 people took part, among them the communications minister, the data protection commissioner and the head of Galaxy Backbone. The aim was to help put Nigeria's e-Government Master Plan 2.0 into practice.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Moves to Integrate MDAs Under New Digital Governance Plan](https://www.thisdaylive.com/2026/11/14/nigeria-moves-to-integrate-mdas-under-new-digital-governance-plan/)** — ThisDay, 14 November 2026
+
+KOICA handed Nigeria's e-Government Master Plan 2.0 for 2026 to 2030 to the communications ministry in November 2026. It consolidates the first plan's 25 initiatives into 10 under five pillars, and awaits formal adoption. KOICA's 2022 to 2026 project also delivered 572 NIN registration devices.
 
 </div>
 

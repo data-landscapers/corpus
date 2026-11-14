@@ -3,8 +3,8 @@ title: Registries — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.registry
-places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MLI; MRT; MUS; MAR; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bf732e352b20
+places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 3b7eb0f007de
 ---
 
 # News, Oct – Nov 2026
@@ -44,6 +44,8 @@ record: bf732e352b20
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mali">Mali</a>
@@ -53,6 +55,8 @@ record: bf732e352b20
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -657,6 +661,44 @@ Liberia's National Elections Commission chair, Jonathan Weedor, said on 21 Octob
 
 </div>
 
+## Libya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Commercial agencies online inquiry system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministry of Economy & Trade launches e-system for inquiring about commercial agencies and legislation governing them](https://libyaherald.com/2026/11/ministry-of-economy-trade-launches-e-system-for-inquiring-about-commercial-agencies-and-legislation-governing-them)** — Libya Herald, 12 November 2026
+
+Search by brand, principal or registration number; governing laws downloadable; phase two to digitise applications.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزارة الاقتصاد تطلق منظومة إلكترونية للاستعلام عن الوكالات التجارية والتشريعات المنظمة لها](https://lana.gov.ly/post.php?id=369904&lang=ar)** — Libyan News Agency (LANA), 12 November 2026
+
+First phase: search by trademark, principal or registration number, download rules; online applications in phase two.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic registration of foreign company branches</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[إطلاق تجريبي لتسجيل الشركات الأجنبية في ليبيا إلكترونيًا](https://www.alwasat.ly/news/485008)** — Al Wasat, 14 November 2026
+
+Libya's Ministry of Economy and Trade announced on 14 November 2026 a pilot of online registration for branches of foreign companies. The seven-stage process was built by the Economic Information and Documentation Centre. It covers 11 economic sectors, with licences of up to five years.
+
+</div>
+
+</div>
+
 ## Madagascar
 
 <div class="monthly-story" markdown="1">
@@ -774,6 +816,22 @@ Mauritius's Civil Status Division, under the Prime Minister's Office, introduces
 **[Morocco is making property paperwork a little less complicated](https://lnt.ma/morocco-is-making-property-paperwork-a-little-less-complicated/)** — La Nouvelle Tribune, 11 November 2026
 
 Morocco's land conservation agency, ANCFCC, has opened an online service for ownership certificates (reported 11 November 2026). Owners of registered property can request and download them without visiting a registry office. The agency says it aims to cut waiting times and protect personal information.
+
+</div>
+
+</div>
+
+## Mozambique
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Modernisation of driving licence, vehicle register and traffic-offence systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INATRO e ATDI unem esforços para digitalização da carta de condução e do registo de veículos](https://mznews.co.mz/inatro-e-atdi-unem-esforcos-para-digitalizacao-da-carta-de-conducao-e-do-registo-de-veiculos/)** — MZNews, 14 November 2026
+
+Mozambique's road-transport institute INATRO and digital-transformation agency ATDI signed a five-year memorandum, reported on 14 November 2026. It covers the systems behind biometric driving licences, vehicle registration and traffic-offence control. Data centres, cybersecurity and data protection are included; the signing date was not stated.
 
 </div>
 
@@ -966,6 +1024,20 @@ Senegal's Interior Ministry asked all NGOs and associations working in the count
 **[« Nous voulons un service public moderne, performant et centré sur l’usager »](https://lesoleil.sn/societe/nous-voulons-un-service-public-moderne-performant-et-centre-sur-lusager/)** — Le Soleil, 18 October 2026
 
 Senegal's civil-service minister said the physical and biometric audit of state employees, launched in June 2026, is still under way and has not yet confirmed any anomalies. He named e-Sénégal as the single access point for online procedures under the 2025–2029 public-service reform agenda.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registre national unique (single national social register)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[#PLFR2026 | Clarification sur le renforcement des bourses de sécurité familiale](https://fr.linkedin.com/posts/mefpsenegal_plfr2026-protectionsociale-mefp-activity-7520231911290630144-n2XG)** — Ministère de l'Économie, des Finances et du Plan (Sénégal), LinkedIn, 25 October 2026
+
+Finance ministry: bourses credits rise from 35 to 70 billion FCFA in draft LFR 2026; RNU renovated for targeting.
 
 </div>
 

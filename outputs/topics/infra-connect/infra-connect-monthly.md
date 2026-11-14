@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 9a67e82f4ac1
+record: e3cc9d1bb5ce
 ---
 
 # News, Oct – Nov 2026
@@ -544,6 +544,20 @@ Côte d'Ivoire's Council of Ministers adopted a decree on 14 October 2026 settin
 **[Statistiques du marché des télécommunications en Côte d'Ivoire - 3ème trimestre 2026](https://artci.ci/wp-content/uploads/2026/10/RAPPORT-ARTCI-T3-2026_31.10.26.pdf)** — ARTCI (Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoire), 31 October 2026
 
 The regulator ARTCI published Côte d'Ivoire's telecoms market statistics for the third quarter of 2026. Fixed internet subscriptions passed 1 million, up 59.9%. Mobile internet stood at 41.4 million subscriptions and active mobile money accounts at 32.5 million. Starlink was licensed in July 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Programme national de connectivite rurale</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Connectivité rurale : les satellites Leo et les réseaux mobiles envisagés pour connecter les zones reculées](https://www.linfodrome.com/economie/127576-connectivite-rurale-les-satellites-leo-et-les-reseaux-mobiles-envisages-pour-connecter-les-zones-reculees)** — Linfodrome, 13 November 2026
+
+PNCR and ANSUT satellite feasibility study; 578 rural sites built 2024-25 reaching about 900,000 people.
 
 </div>
 
@@ -1827,6 +1841,20 @@ Nigeria's active mobile subscriptions reached 200.3 million in September 2026, N
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Incentive-Based Spectrum Investment Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCC considers 15-year spectrum licences to boost broadband investment](https://techcabal.com/2026/11/13/ncc-considers-15-year-spectrum-licences/)** — TechCabal, 13 November 2026
+
+Longer tenure for verified extra investment; data use 1.73m TB a month Sept 2026; 5G coverage ~13% April 2026.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -2238,6 +2266,20 @@ Rtmediasd reported on 9 November 2026 that Zain, Sudani and MTN raised internet 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Satellite broadband service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania Opens New Talks With Elon Musk's SpaceX And Starlink Over Investment In Communications Sector](https://www.todaysw.com/2026/10/08/tanzania-opens-new-talks-with-elon-musks-spacex-and-starlink-over-investment-in-communications-sector/)** — Today SW, 8 October 2026
+
+Starlink still unlicensed in Tanzania as PM meets SpaceX in London, 7 October 2026; entry subject to TCRA approval.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Regulator's directive on network-infrastructure faults and new fibre installations</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2267,6 +2309,28 @@ Paratus Tanzania set up a point of presence at the Wingu data centre in Dar es S
 **[Paratus expands its African reach with Tanzania PoP](https://www.connectingafrica.com/fiber-networking/paratus-expands-its-african-reach-with-tanzania-pop)** — Connecting Africa, 27 October 2026
 
 Paratus Tanzania launched a point of presence at the Wingu Data Centre in Dar es Salaam. It links customers to Paratus network routes north to Nairobi via Mombasa and south to Maputo, Johannesburg and Eswatini. The company will offer IP transit, Layer 2 circuits and wholesale capacity to carriers, internet service providers and enterprises.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Broadband population coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/tanzania/)** — International Telecommunication Union (statement by Tanzania), 13 November 2026
+
+Broadband coverage 77% to 94% since 2022; 758 UCSAF towers, 1,301 villages; ITU Council Region D re-election bid.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania urges shift from telecom coverage to meaningful digital access](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-urges-shift-from-telecom-coverage-to-meaningful-digital-access-5669436)** — The Citizen (Tanzania), 13 November 2026
+
+PP-26 Doha speech: 94% broadband coverage, 758 new towers, 1,301 villages connected; ITU Council re-election bid.
 
 </div>
 

@@ -3,13 +3,15 @@ title: Sectoral management information systems — News, October – November 20
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.mis
-places: AGO; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5ceda48dfe27
+places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 48884578bb8a
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
@@ -23,6 +25,8 @@ record: 5ceda48dfe27
 <a href="#central-african-republic">Central African Republic</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#chad">Chad</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -96,6 +100,22 @@ record: 5ceda48dfe27
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
+
+## Algeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs operations centre for real-time monitoring</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[المديرية العامة للجمارك تتدعم بمركز عمليات مخصص للمتابعة الآنية للأنشطة الجمركية](https://news.radioalgerie.dz/ar/node/99005)** — Radio Algérienne, 14 November 2026
+
+Algeria's customs directorate opened an operations centre in Algiers on 14 November 2026 to monitor customs activity in real time. It collects data round the clock from regional operations centres and issues intelligence bulletins to senior officials. An application for tracking customs operational teams was also presented.
+
+</div>
+
+</div>
 
 ## Angola
 
@@ -262,6 +282,22 @@ Chad's education ministry gave biometric staff cards to academy rectors on 30 Oc
 **[Santé Numérique au Tchad : Un comité technique mobilisé pour accélérer la transformation du système sanitaire - MEDD TV INFO](https://meddtvinfo.com/sante-numerique-au-tchad-un-comite-technique-mobilise-pour-accelerer-la-transformation-du-systeme-sanitaire/)** — MEDD TV INFO, 9 November 2026
 
 Chad's technical committee on digital health met in N'Djamena on 9 November 2026, MEDD TV INFO reported. A recent ministerial order widened its members and missions, including patient records and telemedicine. It works under the 2025-2030 digital health plan and is to meet every two months.
+
+</div>
+
+</div>
+
+## Comoros
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SYDONIA electronic manifest</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DOUANES – SYNACO : vers un partenariat renforcé au service du commerce comorien](http://douane.gov.km/douane-comorienne/actualites/article.php?slug=douanes-synaco-vers-un-partenariat-renforce-au-service-du-commerce-comorien)** — Direction Générale des Douanes, Union des Comores, 13 November 2026
+
+Five customs pledges to traders: SYDONIA e-manifest, home clearance, risk-based targeting, monthly consultation.
 
 </div>
 
@@ -1364,6 +1400,20 @@ South Africa's public service minister told Parliament on 10 November 2026 that 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cigarette track-and-trace system (SARS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Joint media statement between South African Revenue Service and National Consumer Commission on Track and Trace System](https://www.sars.gov.za/media-release/joint-media-statement-between-south-african-revenue-service-and-national-consumer-commission-on-track-and-trace-system/)** — South African Revenue Service, 12 November 2026
+
+Cigarette track-and-trace RFP imminent; dtic draft regulations out for comment; data-sharing and standards aligned.
+
+</div>
+
+</div>
+
 ## Tanzania
 
 <div class="monthly-story" markdown="1">
@@ -1461,6 +1511,20 @@ Tanzania's National Health Insurance Fund cut its average claims settlement time
 **[Sahel Confederation, Togo Set January 2027 Deadlines for Customs Data Coordination](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination)** — Ecofin Agency, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou on 15-16 October 2026, set 1 January 2027 for national company lists to support a regional identification code and 31 January for a technical unit to supervise interconnected customs data. Nine of the 18 recommendations from their 2025 meeting have been implemented, six are under way and three are outstanding.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Budget and accounting information system (SIBC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo : le gouvernement prépare une refonte de son système de gestion budgétaire et comptable](https://www.togofirst.com/fr/finance/1311-20643-togo-le-gouvernement-prepare-une-refonte-de-son-systeme-de-gestion-budgetaire-et-comptable)** — Togo First, 13 November 2026
+
+Diagnostic of budget and accounting information system under IDA-backed PMADS; bids due 3 Dec 2026.
 
 </div>
 

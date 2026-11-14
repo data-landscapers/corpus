@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: tech.innovate
 places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TUN; ZWE
-record: 682d0c3ede9d
+record: ae93e6b03841
 ---
 
 # News, Oct – Nov 2026
@@ -225,6 +225,44 @@ Expertise France opened a tender on 27 October 2026 for an investment readiness 
 **[Côte d’Ivoire-AIP/ Le ministre Djibril Ouattara annonce 24 mois d’accompagnement de l’État pour 32 entreprises du secteur du numérique - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-le-ministre-djibril-ouattara-annonce-24-mois-daccompagnement-de-letat-pour-32-entreprises-du-secteur-du-numerique/)** — Agence Ivoirienne de Presse (AIP), 5 November 2026
 
 Côte d'Ivoire named 32 digital firms on 4 November 2026 for 24 months of state support: 14 start-ups and 18 small and medium enterprises. Each is bound by a performance contract measured on revenue, jobs and regional expansion.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Programme to receive and analyse 1,000 digital projects, 2027-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AIP/ Ivoire Tech Forum: Beugré Mambé appelle à faire des technologies émergentes un moteur de croissance](https://www.aip.ci/aip-ivoire-tech-forum-beugre-mambe-appelle-a-faire-des-technologies-emergentes-un-moteur-de-croissance/)** — Agence Ivoirienne de Presse (AIP), 12 November 2026
+
+State wire on the 12 Nov 2026 forum: 1,000 projects 2027-2030, ~500 firms, 5,000+ jobs, FCFA 150bn turnover.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ivoire Tech Forum 2026 : le Premier Ministre appelle à faire du numérique et de l'intelligence artificielle les moteurs de la croissance inclusive](https://primature.ci/actualite/ivoire-tech-forum-2026-le-premier-ministre-appelle-a-faire-du-numerique-et-de-lintelligence-artificielle-les-moteurs-de-la-croissance-inclusive)** — Cabinet du Premier Ministre (Côte d'Ivoire), 12 November 2026
+
+PM's office account, 12 Nov 2026; 1,000 youth, women and entrepreneur projects 2027-2030; AI and data as growth drivers.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire : L’État vise 1 000 projets numériques pour faire émerger 500 start-up d’ici 2030](https://www.linfodrome.com/economie/127572-cote-d-ivoire-l-etat-vise-1-000-projets-numeriques-pour-faire-emerger-500-start-up-d-ici-2030)** — Linfodrome, 13 November 2026
+
+Minister's 2030 target set at second Ivoire Tech Forum opening, 12 November 2026; lede only.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire targets 500 digital companies by 2031 under new startup initiative](https://techreviewafrica.com/news/8328/c-te-d-ivoire-targets-500-digital-companies-by-2031-under-new-startup-initiative)** — Tech Review Africa, 14 November 2026
+
+A second account of the Ivoire Tech Forum 2026 opening, where Côte d'Ivoire's digital transition minister Djibril Ouattara set a target of about 500 digital companies by 2031. The government plans to review 1,000 digital projects between 2027 and 2029. See the Ivoire Tech Forum entry for the full account.
 
 </div>
 

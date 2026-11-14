@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b9fa5774013f
+record: 163af449482d
 ---
 
 # News, Oct – Nov 2026
@@ -1017,6 +1017,20 @@ Gabon's civil-service pension and family fund (CPPF) opened collection of school
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National monitoring and evaluation guide on SNISE</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Gabon se dote d’un Guide national de suivi-évaluation des projets de développement](https://www.gabonews.com/fr/actus/infrastructures/article/le-gabon-se-dote-d-un-guide-national-de-suivi)** — Gabonews, 13 November 2026
+
+Presented 11 Nov 2026 with UNDP; runs on SIGIP's SNISE module, tablet field collection via KoboToolbox.
+
+</div>
+
+</div>
+
 ## Gambia
 
 <div class="monthly-story" markdown="1">
@@ -1119,6 +1133,20 @@ Ghana's Petroleum Commission introduced a Digital Permit Application Platform to
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">IMANI public portal scorecard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitising the Till While Leaving the Rulebook in the Dark](https://imaniafrica.org/2026/11/digitising-the-till-while-leaving-the-rulebook-in-the-dark/)** — IMANI Africa, 12 November 2026
+
+IMANI scores 20 agency and assembly portals out of 12; FDA tops at 11.5, PSRS last at 2.0.
+
+</div>
+
+</div>
+
 ## Guinea
 
 <div class="monthly-story" markdown="1">
@@ -1144,6 +1172,14 @@ Guinea's minister of administrative modernisation and the civil service, Faya Fr
 **[Commande publique : l'ARMP, la DGCMP et la Banque mondiale font le point sur l'évolution Télémo](https://armpguinee.org/commande-publique-larmp-la-dgcmp-et-la-banque-mondiale-font-le-point-sur-levolution-telemo/)** — ARMP Guinée, 8 October 2026
 
 Guinea's procurement regulator, the control directorate and the World Bank reviewed the Télémo e-procurement platform, in a new phase of use since September. The price reference list and public-private partnerships are not yet integrated, and a new procurement law is being drafted.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fin des travaux de l’Atelier sur l’efficacité des marchés publics dans la santé et l’éducation](https://planete224.com/2026/11/12/fin-des-travaux-de-latelier-sur-lefficacite-des-marches-publics-dans-la-sante-et-leducation/)** — Planète 224, 12 November 2026
+
+DGCMP wants all procurement on Télémo by 1 Jan 2027; UNICEF-backed health and education studies validated.
 
 </div>
 
@@ -1556,6 +1592,20 @@ Madagascar's port and maritime agency, APMF, launched the second phase of INTEGR
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Courrier, the higher education ministry's online mail platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[TRANSFORMATION NUMÉRIQUE – Le ministère de l’Enseignement supérieur ambitionne de traiter 90% des courriers sur la nouvelle plateforme “e-Courrier”](https://www.2424.mg/transformation-numerique-le-ministere-de-lenseignement-superieur-ambitionne-de-traiter-90-des-courriers-sur-la-nouvelle-plateforme-e-courrier)** — 2424.mg, 14 November 2026
+
+Madagascar's Ministry of Higher Education and Scientific Research has put its e-Courrier platform into operation, 2424.mg reported on 14 November 2026. The platform files and tracks administrative mail, and the ministry aims to route about 90% of its mail through it. It is to be extended to the universities.
+
+</div>
+
+</div>
+
 ## Malawi
 
 <div class="monthly-story" markdown="1">
@@ -1856,6 +1906,20 @@ Namibia's Cabinet directed the ICT ministry to develop a standard template for r
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NDP6 online monitoring and evaluation dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Online Monitoring Dashboard Ready, NPC Tells Prime Minister](https://www.caprivivision.com/online-monitoring-dashboard-ready-npc-tells-prime-minister/)** — Caprivi Vision, 14 November 2026
+
+Namibia's National Planning Commission told Prime Minister Elijah Ngurare on 13 November 2026 that its online dashboard for NDP6 projects is complete but not yet live. Built with the University of Namibia, it will let the public track projects and compare capital spending with budgets. Slow progress reports from ministries and agencies are holding it back.
+
+</div>
+
+</div>
+
 ## Nigeria
 
 <div class="monthly-story" markdown="1">
@@ -2116,6 +2180,20 @@ Sierra Leone's Chief Minister, David Moinina Sengeh, opened a workshop at which 
 **[Sierra Leone Begins Training Government ICT Officers on Website Management and Security](https://techafricanews.com/2026/11/09/sierra-leone-begins-training-government-ict-officers-on-website-management-and-security/)** — Tech Africa News, 9 November 2026
 
 Sierra Leone's Ministry of Communication, Technology and Innovation began training ICT officers from ministries, departments and agencies on website management and security, reported on 9 November 2026. Under its Website Standardisation Framework the ministry builds and hosts official sites on shared gov.sl infrastructure, and the officers maintain content. The first phase ran two days, and further phases are planned.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fire Force digital management systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DSTI, Sierra Leone Fire Force Sign MoU to Advance Digital Transformation](https://sierraloaded.sl/local/dsti-fire-force-sigmou-digital-transformation/)** — SierraLoaded, 12 November 2026
+
+MoU signed 15 Sep 2026; personnel, asset, fleet tracking and incident reporting systems to be developed.
 
 </div>
 
@@ -2483,6 +2561,20 @@ Smallholders in Dodoma region told Al Jazeera on 6 November 2026 that they have 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NeST internal procurement audit module</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PPRA introduces digital tool to detect procurement risks early](https://dailynews.co.tz/ppra-introduces-digital-tool-to-detect-procurement-risks-early/)** — Daily News (Tanzania), 13 November 2026
+
+Standardised quarterly audit reports under Regulation 92 from 1,000+ institutions; testing began 12 Nov 2026.
+
+</div>
+
+</div>
+
 ## Togo
 
 <div class="monthly-story" markdown="1">
@@ -2532,6 +2624,20 @@ The Global Alliance for Trade Facilitation launched a project in Lomé on 9 Octo
 **[Togo : 4 consultants recherchés pour préparer la passation électronique des marchés publics](https://www.togofirst.com/fr/gouvernance-economique/2610-20450-togo-4-consultants-recherches-pour-preparer-la-passation-electronique-des-marches-publics)** — Togo First, 26 October 2026
 
 Togo's procurement regulator ARCOP is recruiting four consultants to set up a national e-procurement system, Togo First reported on 26 October 2026. The posts are a functional analyst, a procurement specialist, a change-management expert and a systems administrator. Applications close on 18 November 2026; no go-live date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BioCQ CRT online proof-of-life for public-sector pensioners</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CRT : les retraités, le contrôle de vie désormais possible en ligne depuis les téléphones | Levisionnaire](https://levisionnaire.tg/crt-les-retraites-le-controle-de-vie-desormais-possible-en-ligne-depuis-les-telephones/)** — Le Visionnaire (Togo), 12 November 2026
+
+BioCQ CRT: ID upload and facial recognition by phone; launch and three-month enrolment from 16 Nov 2026.
 
 </div>
 

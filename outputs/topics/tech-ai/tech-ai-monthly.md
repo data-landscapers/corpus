@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: edd39f5bd35c
+record: 9afc58bb5f5d
 ---
 
 # News, Oct – Nov 2026
@@ -317,6 +317,20 @@ Cape Verde scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the N
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI diagnostic (AILA)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabo Verde reúne condições para avançar na adopção da Inteligência Artificial – especialistas](https://www.inforpress.cv/en/article-12401)** — Inforpress, 12 November 2026
+
+UNDP-backed national AI diagnostic validated in Mindelo, 12–13 Nov 2026; gaps in skills, law and governance.
+
+</div>
+
+</div>
+
 ## Central African Republic
 
 <div class="monthly-story" markdown="1">
@@ -545,6 +559,37 @@ DR Congo scored 1.32 out of 4 on the Africa AI Governance Index 2026, in the Eme
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MIMPA, the land-affairs ministry's AI virtual assistant</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Économie numérique : Augustin Kibassa Maliba pour l'interconnexion de MIMPA au RDC-PASS et au Guichet numérique afin de dématérialiser les services fonciers - Augustin Kibassa](https://augustinkibassa.cd/2026/11/12/economie-numerique-augustin-kibassa-maliba-pour-linterconnexion-de-mimpa-au-rdc-pass-et-au-guichet-numerique-afin-de-dematerialiser-les-services-fonciers/)** — Ministère de l'Économie numérique (RDC), 12 November 2026
+
+Digital ministry's own account: four strengths of MIMPA, state-hosted model, call for an AI-use charter per body.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : Kinshasa mise sur l’IA pour faciliter les démarches foncières](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-kinshasa-mise-sur-l-ia-pour-faciliter-les-demarches-foncieres)** — wearetech.africa, 13 November 2026
+
+MIMPA to link to RDC-PASS and Guichet numérique, no timetable; model and chats hosted under state control.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : le Gouvernement lance Mimpa, une assistante virtuelle pour faciliter l’accès à l’information foncière](https://actualite.cd/2026/11/14/rdc-le-gouvernement-lance-mimpa-une-assistante-virtuelle-pour-faciliter-lacces)** — ACTUALITE.CD, 14 November 2026
+
+DR Congo's land-affairs ministry launched MIMPA, an AI virtual assistant on land law and procedures, on 12 November 2026 in Kinshasa. Prime Minister Judith Suminwa chaired the launch. The digital-economy minister said it will connect to the Guichet numérique, RDC-PASS authentication and the national e-certification authority, with no timetable given.
+
+</div>
+
+</div>
+
 ## Egypt
 
 <div class="monthly-story" markdown="1">
@@ -640,6 +685,22 @@ Vodacom Group CEO Shameel Joosub spoke to TechCentral on 10 November 2026 about 
 **[النيابة العامة تفتتح مركز بيانات للذكاء الاصطناعى بالرحاب السبت المقبل](https://www.youm7.com/story/2026/11/11/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B1%D9%83%D8%B2-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D8%A8%D8%A7%D9%84%D8%B1%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84/7614923)** — Youm7, 11 November 2026
 
 Egypt's Public Prosecution announced on 11 November 2026 that it will open an AI data centre at the Prosecutor-General's office in Rehab on 14 November. It has invited journalists to register to attend.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[أورنچ مصر والنيابة العامة توسعان منظومة الخدمات الرقمية للمواطنين وتدخلان الذكاء الاصطناعي في المرحلة الثانية من التعاون - اليوم السابع](https://www.youm7.com/story/2026/11/14/%D8%A3%D9%88%D8%B1%D9%86%DA%86-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D9%88%D8%B3%D8%B9%D8%A7%D9%86-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%88%D8%AA%D8%AF%D8%AE%D9%84%D8%A7%D9%86%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%D9%81%D9%8A%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9%D9%85%D9%86%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86/7618130)** — Youm7, 14 November 2026
+
+A second account of the Public Prosecution protocol of 14 November 2026, from Orange Egypt's side. It describes the second phase of a partnership begun in November 2025. Guardians can file requests and pay fees through the Max it and Orange Cash apps. See the Public Prosecution entry for the full account.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزيرة التضامن تشهد افتتاح مركز بيانات النيابة العامة للذكاء الاصطناعي وتوقيع بروتوكول تعاون للتحول نحو العدالة الذكية](https://arqam.news/610073/)** — Arqam News, 14 November 2026
+
+Egypt's Public Prosecution opened an AI data centre at the Prosecutor-General's office on 14 November 2026. It signed a cooperation protocol with the social solidarity and communications ministries, Orange Egypt and e-finance. Guardianship-of-funds services from the family prosecution go online through Orange's app, with free SIM cards for court-appointed guardians and an AI assistant.
 
 </div>
 
@@ -1674,6 +1735,20 @@ ITWeb reported on 6 November 2026 that South Africa ranks 13th of 56 Commonwealt
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI use in large organisations (SA AI Index)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SA AI adoption outpaces business value](https://itweb.africa/article/sa-ai-adoption-outpaces-business-value/xA9PO7NEnaNvo4J8)** — ITWeb Africa, 13 November 2026
+
+93% of large SA firms use AI, 51% see productivity gain; average index score 34.3; World Wide Worx survey.
+
+</div>
+
+</div>
+
 ## South Sudan
 
 <div class="monthly-story" markdown="1">
@@ -1902,6 +1977,20 @@ Tunisia's National Business Registry announced two AI services on 5 November 202
 **[Smarter parking at Entebbe: UCAA rolls out AI camera system, digital payments](https://www.monitor.co.ug/uganda/news/national/smarter-parking-at-entebbe-ucaa-rolls-out-ai-camera-system-digital-payments-5625876)** — Daily Monitor, 9 October 2026
 
 The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe International Airport with AI-assisted number-plate recognition, supplied through local contractor Samanga Utilities on Scheidt & Bachmann software, and mobile-money payment. The authority said it keeps vehicle registration records, timestamps and payment logs indefinitely and releases them to security agencies and police under statutory guidelines.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Commonwealth Youth AI Readiness Index placing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Will Uganda’s youth power the AI economy, or be left behind by it?](https://www.independent.co.ug/will-ugandas-youth-power-the-ai-economy-or-be-left-behind-by-it/)** — The Independent (Uganda), 13 November 2026
+
+Uganda 23rd of 56 Commonwealth states, score 47.0, below benchmark 53; AI GDP uplift put at US$899m in a decade.
 
 </div>
 

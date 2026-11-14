@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; ETH; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: b2f4fa6bccf5
+record: ea9ae5735b6b
 ---
 
 # News, Oct – Nov 2026
@@ -257,6 +257,14 @@ Eswatini's finance ministry says the E182 million India Exim Bank loan for a dis
 **[GOVT RESTORES 13 ONLINE SERVICES, WEBSITE STILL DOWN](https://eswatinipositivenews.online/govt-restores-13-online-services-website-still-down/)** — Eswatini Positive News, 24 October 2026
 
 Eswatini's ICT ministry said on 23 October 2026 that 13 government online services hit by disruptions had been restored with the Royal Science and Technology Park, among them the Government in Your Hand platform, e-Visa, the Social Registry, the elderly and disability grants system and IFMIS. The government website and other platforms were still being restored, and the statement gave no cause for the outage.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Govt to set up 24/7 cybersecurity centre after attacks](https://eswatinipositivenews.online/govt-to-set-up-24-7-cybersecurity-centre-after-attacks/)** — Eswatini Positive News, 14 November 2026
+
+Eswatini's ICT ministry told Parliament it will set up a 24-hour security operations centre and separate recovery sites, reported on 14 November 2026. This follows a September 2026 incident at the National Data Centre that disrupted at least 12 government platforms. 75% of the affected services had been restored.
 
 </div>
 
@@ -522,6 +530,14 @@ Alibaba said on 2 November 2026 that the Dakar 2026 Youth Olympic Games run on a
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Le cloud des JOJ deviendra une plateforme nationale après les Jeux (communiqué) - APS](https://aps.sn/le-cloud-des-joj-deviendra-une-plateforme-nationale-apres-les-jeux-communique/)** — Agence de Presse Sénégalaise (APS), 13 November 2026
+
+SENUM to run Alibaba Apsara Stack cloud from its Diamniadio data centre; 200 cloud engineers to be trained.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -550,6 +566,14 @@ Senegal's digital and health ministries said on 4 November 2026 that they are jo
 **[AI to support permits, healthcare and fraud detection under Seychelles' $50 million digital plan](https://www.seychellesnewsagency.com/articles/22623/ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan)** — Seychelles News Agency, 30 October 2026
 
 Seychelles' Cabinet approved the Digital and AI Strategy 2026–2031 on 28 October 2026. It is costed at US$50 million over five years, from government and international funding. The principal secretary for ICT said its first project is a government cloud and data centre.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Seychelles — 2027 Budget — Assumptions and Objectives of the 2027 Budget — Part 2](https://www.finance.gov.sc/wp-content/uploads/2026/11/2027-BUDGET-BOOK-PART-2-ASSUMPTIONS-AND-OBJECTIVES-OF-THE-2027-BUDGET.pdf)** — Ministry of Finance, Economic Planning, Trade and Investment, Republic of Seychelles, 13 November 2026
+
+2027 budget speech and strategy: digital and AI strategy rollout, SCR 59.1m cloud and data centre, debt and fiscal risk.
 
 </div>
 
