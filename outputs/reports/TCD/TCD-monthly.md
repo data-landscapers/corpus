@@ -3,9 +3,9 @@ title: Chad — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: TCD
-ledger_rows: 19
+ledger_rows: 20
 not_held: 23
-record: 456b9b50b8de
+record: 1538887d5810
 ---
 
 # News, Oct – Nov 2026
@@ -137,6 +137,28 @@ The 2026 Central Africa Internet Governance Forum closed in N'Djamena on 15 Octo
 **[Télécommunications : la Libye prévoit d’achever le raccordement de la fibre optique à la frontière tchadienne d’ici fin 2026 - Le N'Djam Post](https://lendjampost.com/telecommunications-la-libye-prevoit-dachever-le-raccordement-de-la-fibre-optique-a-la-frontiere-tchadienne-dici-fin-2026/)** — Le N Djam Post, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
 
 An unnamed Libyan project official said Libya's fibre link to the Chadian border should be finished by the end of 2026; it already reaches the Egyptian border and work with Chadian authorities and operators has started. The route is pitched as a way to Europe through the MEDUSA submarine cable for Chad, Niger, Mali, the Central African Republic and Burkina Faso.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chad-Nigeria digital cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Doha : le ministre renforce les partenariats numériques avec le Nigeria et la France](https://mten.gouv.td/doha-le-ministre-renforce-les-partenariats-numeriques-avec-le-nigeria-et-la-france/)** — Ministère des Télécommunications, de l’Économie numérique et de la Digitalisation (Tchad), 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Chad backs Nigeria's ITU Council bid and seeks French support for its own 2030 run; Abuja visit to finalise accords.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Coopération numérique : le Tchad et le Nigeria sollicitent la Banque mondiale pour une interconnexion en fibre optique | CamerPressAgency](https://camerpressagency.com/cooperation-numerique-le-tchad-et-le-nigeria-sollicitent-la-banque-mondiale-pour-une-interconnexion-en-fibre-optique/)** — Camer Press Agency, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Joint letter to World Bank signed 13 Nov 2026 in Doha; links Nigeria's BRIDGE backbone to Chad's CARDIP network.
 
 </div>
 
