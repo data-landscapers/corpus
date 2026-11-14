@@ -3,9 +3,9 @@ title: Uganda — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: UGA
-ledger_rows: 48
+ledger_rows: 50
 not_held: 11
-record: a0777c434c7f
+record: 6d2b3e25128e
 ---
 
 # News, Oct – Nov 2026
@@ -514,6 +514,14 @@ Uganda Revenue Authority had linked 2.13 million of its 5.41 million individual 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[NIN is TIN](https://ura.go.ug/en/nin-is-tin/)** — Uganda Revenue Authority, 10 November 2026
+
+URA: NIN replaces TIN for individuals, BRN for entities; NIN login from January 2027, TIN records kept.
+
+</div>
+
 </div>
 
 ### Digital Payments and Fintech
@@ -744,6 +752,8 @@ Uganda's President moved ICT Permanent Secretary Aminah Zawedde to the Office of
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -757,6 +767,36 @@ Uganda's President moved ICT Permanent Secretary Aminah Zawedde to the Office of
 **[Smarter parking at Entebbe: UCAA rolls out AI camera system, digital payments](https://www.monitor.co.ug/uganda/news/national/smarter-parking-at-entebbe-ucaa-rolls-out-ai-camera-system-digital-payments-5625876)** — Daily Monitor, 9 October 2026
 
 The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe International Airport with AI-assisted number-plate recognition, supplied through local contractor Samanga Utilities on Scheidt & Bachmann software, and mobile-money payment. The authority said it keeps vehicle registration records, timestamps and payment logs indefinitely and releases them to security agencies and police under statutory guidelines.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional ICT innovation hubs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Govt to open ICT innovation hub at Mountains of the Moon University](https://www.newvision.co.ug/category/education/govt-to-open-ict-innovation-hub-at-mountains-NV_243990_112026)** — New Vision, 13 November 2026
+
+Fifth regional hub after Soroti, Muni, Kabale and Busitema; UJ-Connect cohort 4 graduates 56 of 83, $6,500 in grants.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UJ Connect entrepreneurship programme</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Govt to open ICT innovation hub at Mountains of the Moon University](https://www.newvision.co.ug/category/education/govt-to-open-ict-innovation-hub-at-mountains-NV_243990_112026)** — New Vision, 13 November 2026
+
+Summarised under [Innovation ecosystem](#innovation-ecosystem).
 
 </div>
 
