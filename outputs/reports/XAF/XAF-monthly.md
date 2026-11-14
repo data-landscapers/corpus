@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: XAF
-ledger_rows: 76
+ledger_rows: 79
 not_held: 3
-record: 72c0cf8456b7
+record: aaa8fe799a72
 ---
 
 # News, Oct – Nov 2026
@@ -156,6 +156,22 @@ The African Telecommunications Union says all 49 African Common Proposals for th
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[ITU PP-26 Doha: African Union calls for united African position on digital priorities at ITU Plenipotentiary Conference in Doha](https://www.techreviewafrica.com/news/8276/itu-pp-26-doha-african-union-calls-for-united-african-position-on-digital-priorities-at-itu-plenipotentiary-conference-in-doha)** — TechReviewAfrica, 12 November 2026
+
+AU Commissioner Mataboge at ATU heads-of-delegation session; Gabon Declaration on spectrum, cables, DPI, AI governance.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ITU PP-26 Doha: African Ministers coordinate common positions ahead of ITU elections at PP-26](https://www.techreviewafrica.com/news/8264/itu-pp-26-doha-african-ministers-coordinate-common-positions-ahead-of-itu-elections-at-pp-26)** — Tech Review Africa, 14 November 2026
+
+More than 15 African ministers and officials met in Doha at the ITU Plenipotentiary Conference to coordinate positions, Tech Review Africa reported on 14 November 2026. Nigeria's communications minister chaired the meeting. Africa submitted 50 common proposals backed by 32 member states, and 19 African countries are contesting 13 ITU Council seats.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -247,6 +263,20 @@ The African Commission on Human and Peoples' Rights published its draft Continen
 **[African judiciary pushes for data sovereignty](https://www.itweb.africa/article/african-judiciary-pushes-for-data-sovereignty/mQwkoq6Y556M3r9A)** — ITWeb Africa, 6 November 2026
 
 African judges held their first judicial dialogue on internet governance at the 15th Africa Internet Governance Forum. It was held in Accra and closed on 5 November 2026. Egyptian Court of Cassation vice-president Adel Maged said courts must know where sensitive digital data is stored. He said they must also know who can access it. Participants agreed unanimously to his proposal to develop African guidelines on the use of AI in courts.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Nairobi Health Data Action Agenda</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African health leaders adopt Nairobi Action Agenda to turn health data into better healthcare](https://afro.who.int/news/african-health-leaders-adopt-nairobi-action-agenda-turn-health-data-better-healthcare)** — WHO Regional Office for Africa, 13 November 2026
+
+Eight priorities; continental accountability framework to 2030 with annual national reviews; next forum 2028.
 
 </div>
 
@@ -391,6 +421,20 @@ A draft AFRINIC policy, AFPUB-2026-IPv4-003-DRAFT01, submitted in June 2026 and 
 **[One Company Accounts for 80% of AFRINIC's IP Addresses Being Used Outside Africa](https://ipinfo.io/blog/80-percent-afrinics-ip-addresses-outside-africa)** — IPinfo, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
 
 IPinfo published an article by Oliver Gasser and João Tomé on 5 November 2026 on the WHEREIS study. The study compares where IP addresses are used with where they are registered. The authors say AFRINIC is the exception among the five regional registries. Most of its space used outside Africa sits in four blocks registered to one company, 80% of the total.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">China-Africa standards information platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[中非标准化合作交流会在京举办](https://www.samr.gov.cn/xw/zj/art/2026/art_81047a5d806742edb4d631ad3df03777.html)** — State Administration for Market Regulation (China), 11 November 2026
+
+Beijing, 9 November 2026: China-Africa standards platform launched, blue book released; sharing mechanism, 16 countries.
 
 </div>
 
@@ -989,6 +1033,36 @@ Chainalysis reported on 29 October 2026 that Sub-Saharan Africa's crypto economy
 **[Afreximbank Expands AfPAY Push to Close Africa’s Payment Gap](https://newsghana.com.gh/afreximbank-expands-afpay-push-to-close-africas-payment-gap/)** — News Ghana, 1 November 2026
 
 Afreximbank is running roadshows across Africa, including in Abidjan and Harare. They promote its AfPAY trade settlement service and its direct access to China's CIPS renminbi clearing system. AfPAY links more than 400 banks and settled US$32 billion of trade in 2024.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Banks and countries connected to PAPSS</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PAPSS Payments Network Coverage, November 2026](https://papss.com/wp-content/uploads/2026/11/PAPSS-PAYMENTS-NETWORK-COVERAGE_NOVEMBER2026.pdf)** — Pan-African Payment and Settlement System (PAPSS), 1 November 2026
+
+November 2026 sheet: 37 African countries reachable; 450+ institutions, 200+ participants, 250+ via extended network.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[CBN reforms boost adoption of Africa's cross-border payment system, says PAPSS](https://businessday.ng/news/article/cbn-reforms-boost-adoption-of-africas-cross-border-payment-system-says-papss/)** — BusinessDay Nigeria, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+~1,000% volume growth in 2026; 32 countries, 280+ banks; CBN documentation waiver below a threshold; China corridor.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[PAPSS bets on local currencies to unlock Kenya’s Africa trade](https://capitalfm.africa/papss-bets-on-local-currencies-to-unlock-kenyas-africa-trade/)** — Capital FM, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+31 countries, 220+ banks, 17 switches; 37 countries targeted by end-2026, 50 in 2027; fees about 0.1%.
 
 </div>
 
