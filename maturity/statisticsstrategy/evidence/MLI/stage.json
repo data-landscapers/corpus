@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "4",
-   "standing": "adopted",
-   "review": "reviewed",
-   "evaluation": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-002;MLI-005;MLI-004",
-   "gaps": "No source found reports an evaluation of the strategy completed in the last three years.",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "4",
+      "standing": "adopted",
+      "review": "reviewed",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-002;MLI-005;MLI-004",
+      "gaps": "No source found reports an evaluation of SDS IV completed in the last three years; the October 2026 cabinet note records no adoption of the 2026-2030 plan.",
+      "note": "SDS IV is in force with no stated period (MLI-004) and its annual review met in August 2026 (MLI-002), so 4. Cabinet took note of SDS IV and its 2026-2030 action plan on 9 October 2026 (MLI-001), and no evaluation is found, so not 5.",
+      "as_at": "2026-11-14"
+    }
+  ]
 }

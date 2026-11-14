@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "3",
-   "standing": "adopted",
-   "review": "",
-   "evaluation": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-002",
-   "gaps": "No source found dates a review of progress on the strategy in the last three years.",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "review": "",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-003;DJI-002",
+      "gaps": "No source found dates a review of progress on SNDS 3 2025-2029, or gives its adoption date.",
+      "note": "SNDS 3 2025-2029 was validated in April 2025 (DJI-001) and published, by the World Bank's October 2026 report (DJI-003), so 3. No progress review is found, so not 4.",
+      "as_at": "2026-11-14"
+    }
+  ]
 }

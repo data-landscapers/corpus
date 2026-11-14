@@ -23,9 +23,9 @@ The African Charter on Statistics (2009) and the Strategy for the Harmonisation 
 | 5 Leading | 1 |
 | 4 Operating | 4 |
 | 3 Established | 30 |
-| 2 Nascent | 10 |
+| 2 Nascent | 11 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
+| Unplaced | 6 |
 | No evidence | 2 |
 
 ## Countries
@@ -43,8 +43,9 @@ The 2022-2026 statistics strategy is current, its steering group reviewed it in 
 The SNDS2 2024-2028 is current and its implementation was reviewed at mid-term in October 2026; no completed evaluation has been found.
 
 - ICASEES held a workshop on 7-9 October 2026 in Bangui, with members of the statistical programming committee (CTPAS), to review implementation of SNDS2 2024-2028 at mid-term against its commitments, funded by UNDP ([source, 2026-10-07](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique)).
+- ICASEES held a workshop on 18 July 2024 to update SNDS2, approved on 31 August 2023 for 2024-2028; its director general said the method requires the national statistical system's actors to meet each year to assess what worked the year before ([source, 2024-07-18](https://oubanguimedias.com/2024/07/22/centrafrique-mise-a-jour-de-la-strategie-nationale-du-developpement-de-statistique-deuxieme-generation/)).
 - ICASEES states the Central African Republic adopted its second national statistics development strategy (SNDS2, period 2024-2028, envelope of nearly FCFA 60 billion) in August 2023 ([source, 2023-08](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique)).
-- The 23 July 2026 ICASEES release says partners support the implementation of the national strategy for the development of statistics (SNDS); no period or adoption date is given ([source, 2026-07-23](https://www.icasees.org/index.php/actualites/389-icasees-le-directeur-general-de-licasees-recoit-une-mission-devaluation-des-activites-du-pnud)).
+- At African Statistics Day in Bangui on 22 November 2024 the SNDS for 2024-2028 was presented, costed at 58 billion (currency not stated), of which 36 billion was available, with 0.15% of the state budget pledged to statistical activity ([source, 2024-11-22](https://oubanguimedias.com/2024/11/25/la-centrafrique-se-dote-dune-strategie-nationale-de-developpement-de-la-statistique-pour-repondre-aux-besoins-de-sa-population/)).
 
 ### Equatorial Guinea: 4 Operating
 
@@ -93,7 +94,8 @@ The Schema directeur de la statistique 2026-2030 is current; no review of its pr
 
 The SNDS 2020-2030 is current; no review of its progress since 2023 is known.
 
-- Cameroon Tribune reports the HISWACA project steering committee met to support implementation of the Statistics Development Strategy 2020-2030, which is thus in force; the article gives no adoption date, so the article date is used ([source, 2026-02-26](https://www.cameroon-tribune.cm/article.html/75463/en.html/statistiques-le-cameroun-mise-sur-la-qualite)).
+- The INS says the third-generation SNDS was adopted in 2021, with a five-year action plan costed at about FCFA 63 billion for 2021-2025, presented to technical and financial partners at a workshop on 6 April 2022 ([source, 2021](https://ins-cameroun.cm/en/the-financing-of-the-snds30-in-question-in-yaounde/)).
+- EcoMatin reported on 26 June 2024 that the SNDS30 financing plan sets a budget of FCFA 166.5 billion for 2024-2028, with FCFA 68.9 billion from the state, 63.3 billion from the World Bank and a 34.1 billion gap ([source, 2024-06-26](https://ecomatin.net/cameroun-le-gouvernement-veut-mobiliser-166-milliards-de-fcfa-sur-05-ans-pour-developper-son-activite-statistique)).
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2021-2030 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 
 ### Cape Verde: 3 Established
@@ -126,6 +128,7 @@ The SNDS 2026-2030 is current; no review of its progress since 2023 is known.
 
 The SNDS 2025-2029 is current; no review of its progress since 2023 is known.
 
+- The World Bank's implementation report of October 2026 says its project supported the publication of the third SNDS for 2025-2029; no adoption date is given ([source, 2026-10-14](https://documents1.worldbank.org/curated/en/099101426132022240/pdf/P171777-4c140761-b8a7-4372-9100-f528fd060b61.pdf)).
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2025-2029 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 
 ### Eritrea: 3 Established
@@ -160,6 +163,7 @@ The KSDS 2023-2028 is current; no review of its progress since 2023 is known.
 The NSDS 2022/23-2026/27 is current; no review of its progress since 2023 is known.
 
 - The Lesotho Bureau of Statistics lists the National Strategy for the Development of Statistics (NSDS) 2022/23-2026/27 among its current strategic documents; the page carries no date, so the published date 2026-08-29 is used ([source, 2026-08-29](http://www.bos.gov.ls/about_bos.htm)).
+- A Bureau of Statistics presentation dated 9 July 2024 lists NSDS II for 2022-2026/27 and a funding strategy drawn up in 2022, and names activities it funded, among them a review of the 2001 Statistics Act supported by PARIS21 and UNICEF ([source, 2024-07-09](https://archive.uneca.org/archive2/eca-events/sites/default/files/resources/documents/acs/sixth-africa-gender-statistics-forum/7._nsds-ii_funding_strategy_of_lesotho.pdf)).
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2022-2027 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 
 ### Liberia: 3 Established
@@ -205,15 +209,17 @@ The NSDS 2023-2027 is current; no review of its progress since 2023 is known.
 
 The SNDS 2022-2026 is current; no review of its progress since 2023 is known.
 
-- PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2022-2026 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 - The INS/STP-CNS state-of-statistics report says the government adopted in 2022 the third national statistics development strategy (SNDS III), covering 2022-2026, and that 2024 coordination activities implemented its action plan; the adoption month is not given ([source, 2022](https://stat-niger.org/wp-content/uploads/rapport_enquete/Rapport_sur_etat_de_la_statistique_du_SSN_2024.pdf)).
+- The SNDS 2022-2026 text, dated May 2022, costs its action plan at FCFA 85.89 billion, of which 35.5% was secured and 64.5% still to be found ([source, 2022-05](https://www.afristat.org/wp-content/uploads/2023/06/SNDS-III_Niger.pdf)).
+- PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2022-2026 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 
 ### Nigeria: 3 Established
 
 The NSDS 2024-2028 is current; no review of its progress since 2023 is known.
 
+- The Federal Government unveiled the National Strategy for the Development of Statistics 2024-2028, the third NSDS, on 15 December 2025, described by the Budget Minister as the blueprint for the national statistical system over four to five years ([source, 2025-12-15](https://nannews.ng/2025/12/15/fg-unveils-strategic-data-initiatives-for-evidence-based-governance-inclusive-development/)).
+- The NSDS III text, dated June 2024, estimates the strategy's five-year budget at US$875 million and expects governments at federal, state and local level to fund 51%; it gives no adoption date ([source, 2024-06](https://microdata.nigerianstat.gov.ng/index.php/catalog/174/download/1324/NSDS_III_2025_REPORT.pdf)).
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2024-2028 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
-- The Statistician-General says the National Strategy for the Development of Statistics was launched in 2025 and the Bureau will implement its reforms in 2026; no period is given in this document ([source, 2025](https://nigerianstat.gov.ng/page/sg-message)).
 
 ### Rwanda: 3 Established
 
@@ -301,9 +307,16 @@ A national statistics strategy was being prepared in 2023; none adopted is known
 
 ### Ghana: 2 Nascent
 
-A national statistics strategy was being prepared in 2026; none adopted is known to be current.
+NSDS III for 2026-2030 was validated in March 2026; its adoption has not been found.
 
+- The Ghana Statistical Service held a workshop with chief directors and heads of public-sector institutions on 18 March 2026 to validate NSDS III (2026-2030), built on three pillars: integration, interoperability and data use; no adoption is stated ([source, 2026-03-18](https://www.linkedin.com/posts/alhassan-iddrisu-464638394_nsdsiii-ghanadata-evidencebasedgovernance-activity-7440052863508201473-XCxg)).
 - PARIS21's January 2026 NSDS status table lists a strategy as being designed or awaiting adoption: NSDS (successor to NSDS 2018-2022) ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
+
+### Guinea-Bissau: 2 Nascent
+
+A draft plan for the national statistical system over 2023-2028 was posted in 2023; its adoption has not been found.
+
+- INE posted a draft strategic plan for developing the national statistical system over 2023-2028, setting its mission, values and three objectives; it states no adoption and no costing, and is dated by the year in its address ([source, 2023](https://www.stat-guinebissau.com/Menu_principal/Pubica%C3%A7%C3%B5es/IHPC/2023/Plano%20estrategico%202023-2028.pdf)).
 
 ### Sierra Leone: 2 Nascent
 
@@ -341,12 +354,6 @@ Not established: No strategy current or in preparation is on record, and no sour
 The statistics strategy for 2021-2025 ended in 2025, and no successor has been found, so no stage is set.
 
 Not established: The SNDS 2021-2025 ended in 2025 and no successor in preparation or adopted has been found; its adoption date has not been found, and no source dated in the last three years says the country has no strategy.
-
-### Guinea-Bissau: Unplaced
-
-No source found shows a current statistics strategy or one in preparation, so no stage is set.
-
-Not established: No strategy current or in preparation is on record, and no source dated in the last three years says the country has none.
 
 ### Libya: Unplaced
 

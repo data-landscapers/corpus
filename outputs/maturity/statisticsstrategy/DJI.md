@@ -2,12 +2,12 @@
 
 ## Statistics strategy
 
-**A strategy adopted or in preparation.** [PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2025-2029](<https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf>). [INSTAD and stakeholders validated the draft third national statistics development strategy SNDS 3 (2025-2029) at a workshop held the day before publication, with formal adoption stated to be expected in the coming weeks; the work was financed with the World Bank](<https://www.lanation.dj/instad-validation-de-la-troisieme-strategie-nationale-de-developpement-de-la-statistique-2025-2029-snds-3/>). Two facts are held on the country's statistics strategy, all given here: no news story or official notice read for this study says more.
+**A strategy adopted or in preparation.** [In February 2025 INSTAD, the statistics institute, launched the preparation of SNDS 3 with its partners](<https://www.lanation.dj/linstad-lance-la-3eme-strategie-nationale-de-developpement-de-la-statistique-2025-2029/>). It had put earlier strategies in place in 2011 and 2018. [INSTAD and its partners validated SNDS 3 for 2025-2029 at a workshop on 29 April 2025](<https://www.lanation.dj/instad-validation-de-la-troisieme-strategie-nationale-de-developpement-de-la-statistique-2025-2029-snds-3/>). Formal adoption was then expected within weeks, and the World Bank financed the work. [The Bank's October 2026 project report says its project supported the strategy's publication](<https://documents1.worldbank.org/curated/en/099101426132022240/pdf/P171777-4c140761-b8a7-4372-9100-f528fd060b61.pdf>). [PARIS21's January 2026 status table lists SNDS 2025-2029 as being implemented](<https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf>).
 
-**Progress reviewed.** No source found dates a review of progress on the strategy since October 2023, from an annual review, a progress report or a meeting of its steering body. The nearest held fact: [PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2025-2029](<https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf>).
+**Progress reviewed.** No review of progress on SNDS 3 has been found. [The World Bank's October 2026 report](<https://documents1.worldbank.org/curated/en/099101426132022240/pdf/P171777-4c140761-b8a7-4372-9100-f528fd060b61.pdf>) rates its own project, not the strategy.
 
-**Evaluated.** No source found reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest held fact: [PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2025-2029](<https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf>).
+**Evaluated.** No evaluation of SNDS 3 has been found. [Its period runs from 2025 to 2029](<https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found dates a review of progress on the strategy in the last three years.
+***Not found***. No source found dates a review of progress on SNDS 3, or gives its adoption date.

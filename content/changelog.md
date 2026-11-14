@@ -1,5 +1,8 @@
 ## 14 November 2026
 
+- Burundi rises from 3 to 5 on statistics law (gov.legislate--statistics-legislation): 2022 decrees set up its statistics council and authority under the law, amended again in 2023. A survey visa granted in 2024 and the council's session of November 2026 apply it.
+- Djibouti rises from 3 to 4 on statistics law (gov.legislate--statistics-legislation): its 2019 statistics institute law, amended in 2021, has decrees setting the institute's statutes and naming its board. No act under the law since 2023 has been found.
+- Guinea-Bissau is placed at 2 on the statistics strategy (data.statistics--national-strategy-for-development-of-statistics), where it had no stage: its statistics institute posted a draft plan for the national statistical system over 2023-2028. No adoption of the plan has been found.
 - Equatorial Guinea is placed at 2 on the social protection register (dpi.registry--social-protection-register), where it had no stage: Ley 5/2026 creates a Registro Único Social. Nothing found says the register has been built or holds anyone yet.
 - Nigeria rises from 4 to 5 on the social protection register (dpi.registry--social-protection-register): 15.65 million people's ID numbers were in it by October 2026, and its cash transfers are paid into digital accounts and mobile wallets. How many of each programme's beneficiaries are paid digitally has not been found.
 - Egypt rises from 4 to 5 on the social protection register (dpi.registry--social-protection-register): the registry is linked to 27 databases by national ID, and Takaful and Karama, which selects from it, pays benefits by card. Whether its other programmes pay digitally has not been found.

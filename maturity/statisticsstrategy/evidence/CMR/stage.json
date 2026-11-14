@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "3",
-   "standing": "adopted",
-   "review": "",
-   "evaluation": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-002;CMR-003",
-   "gaps": "No source found dates a review of progress on the strategy in the last three years.",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "review": "",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-004;CMR-006;CMR-003",
+      "gaps": "No source found dates a review of progress on SNDS30 since November 2023; its 2022 evaluation is older than three years.",
+      "note": "SNDS30 2021-2030, adopted in 2021 (CMR-004), is current, and its 2024-2028 financing plan is costed at FCFA 166.5 billion (CMR-006), so 3. The 2022 evaluation (CMR-005) is older than three years and no later review is found, so not 4.",
+      "as_at": "2026-11-14"
+    }
+  ]
 }

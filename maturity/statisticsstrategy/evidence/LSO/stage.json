@@ -1,17 +1,18 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "3",
-   "standing": "adopted",
-   "review": "",
-   "evaluation": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-001;LSO-003",
-   "gaps": "No source found dates a review of progress on the strategy in the last three years.",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "review": "",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-001;LSO-004;LSO-003",
+      "gaps": "No source found dates a review of progress on NSDS II; the 2025 STATAFRIC peer review covers the statistical system, not the strategy.",
+      "note": "NSDS II 2022/23-2026/27 is current, with a funding strategy drawn up in 2022 (LSO-001, LSO-004), so 3. Neither the 2024 funding presentation nor the 2025 peer review reports progress against the strategy, so not 4.",
+      "as_at": "2026-11-14"
+    }
+  ]
 }

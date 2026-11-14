@@ -1,17 +1,18 @@
 {
- "iso3": "ERI",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "3",
-   "standing": "adopted",
-   "review": "",
-   "evaluation": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ERI-002",
-   "gaps": "No source found dates a review of progress on the strategy in the last three years.",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "ERI",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "review": "",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ERI-002",
+      "gaps": "No source found dates a review of progress on the Statistical Master Plan 2023-2026. PARIS21's September 2024 table listed only the expired 2010-14 plan.",
+      "note": "PARIS21's January 2026 table, the newest statement, lists the Statistical Master Plan 2023-2026 as implementing (ERI-002), so 3; UNICEF named an updated plan in July 2026 (ERI-004). No progress review is found, so not 4.",
+      "as_at": "2026-11-14"
+    }
+  ]
 }

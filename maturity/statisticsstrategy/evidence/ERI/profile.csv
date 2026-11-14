@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ERI,strategy,standing,coverage,adopted,2026-01,ERI-002,ERI-001=none,
-ERI,strategy,review,coverage,,,,,nothing held
-ERI,strategy,evaluation,coverage,,,,,nothing held
+ERI,strategy,standing,coverage,adopted,2026-01,ERI-002,ERI-004=preparing;ERI-003=none;ERI-001=none,
+ERI,strategy,review,coverage,,,,,nothing found
+ERI,strategy,evaluation,coverage,,,,,nothing found

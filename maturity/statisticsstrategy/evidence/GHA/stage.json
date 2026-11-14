@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "2",
-   "standing": "preparing",
-   "review": "",
-   "evaluation": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-001",
-   "gaps": "No source found shows an adopted strategy whose period is still running.",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "2",
+      "standing": "preparing",
+      "review": "",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-002;GHA-001",
+      "gaps": "No source found shows NSDS III 2026-2030 adopted; it was validated on 18 March 2026.",
+      "note": "NSDS III 2026-2030 was validated on 18 March 2026 (GHA-002) and the 2026 budget aligns rebasing with it (GHA-003), so a strategy is in preparation. No adoption is found, so not 3.",
+      "as_at": "2026-11-14"
+    }
+  ]
 }

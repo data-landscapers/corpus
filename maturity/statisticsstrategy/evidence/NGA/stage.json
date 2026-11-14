@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "3",
-   "standing": "adopted",
-   "review": "",
-   "evaluation": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-005;NGA-001",
-   "gaps": "No source found dates a review of progress on the strategy in the last three years.",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "review": "",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-002;NGA-006;NGA-005",
+      "gaps": "No source found dates a review of progress on NSDS III 2024-2028.",
+      "note": "NSDS III 2024-2028 was unveiled on 15 December 2025 (NGA-002) and its text costs it at US$875 million (NGA-006), so 3. No progress review is found, so not 4.",
+      "as_at": "2026-11-14"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "3",
-   "standing": "adopted",
-   "review": "",
-   "evaluation": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NER-002;NER-001",
-   "gaps": "No source found dates a review of progress on the strategy in the last three years.",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "review": "",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-001;NER-003;NER-002",
+      "gaps": "No source found dates a review of progress on SNDS III since November 2023; the December 2025 state-of-statistics report lists 2024 activities under its action plan without assessing progress against it.",
+      "note": "SNDS III 2022-2026, adopted in 2022 and costed at FCFA 85.89 billion (NER-001, NER-003), is current, so 3. The state-of-statistics report lists activities, not a review of progress, so not 4.",
+      "as_at": "2026-11-14"
+    }
+  ]
 }

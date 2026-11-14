@@ -2,12 +2,12 @@
 
 ## Statistics strategy
 
-**A strategy adopted or in preparation.** [The Lesotho Bureau of Statistics lists the National Strategy for the Development of Statistics (NSDS) 2022/23-2026/27 among its current strategic documents](<http://www.bos.gov.ls/about_bos.htm>). [PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2022-2027](<https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf>). [The STATAFRIC peer review (mission 25-29 August 2025) describes NSDS II, covering 2022/23-2026/27, as Lesotho's most recent statistical strategy, with five strategic goals and over 80% of its budget allocated to the Bureau](<https://statafric.au.int/sites/default/files/2025-12/ef_peerreview_lesotho_vf.pdf>). Three facts are held on the country's statistics strategy, all given here: no news story or official notice read for this study says more.
+**A strategy adopted or in preparation.** [The Bureau of Statistics lists NSDS II for 2022/23-2026/27 among its current strategic documents](<http://www.bos.gov.ls/about_bos.htm>). [A Bureau presentation of July 2024 says a funding strategy for it was drawn up in 2022](<https://archive.uneca.org/archive2/eca-events/sites/default/files/resources/documents/acs/sixth-africa-gender-statistics-forum/7._nsds-ii_funding_strategy_of_lesotho.pdf>). The activities it funded include a review of the 2001 Statistics Act, supported by PARIS21 and UNICEF. [A STATAFRIC peer review in August 2025 found over 80% of the strategy's budget allocated to the Bureau](<https://statafric.au.int/sites/default/files/2025-12/ef_peerreview_lesotho_vf.pdf>). [PARIS21's January 2026 status table lists NSDS 2022-2027 as being implemented](<https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf>).
 
-**Progress reviewed.** No source found dates a review of progress on the strategy since October 2023, from an annual review, a progress report or a meeting of its steering body. The nearest held fact: [The Lesotho Bureau of Statistics lists the National Strategy for the Development of Statistics (NSDS) 2022/23-2026/27 among its current strategic documents](<http://www.bos.gov.ls/about_bos.htm>).
+**Progress reviewed.** No review of progress on NSDS II has been found since November 2023. [The August 2025 peer review](<https://statafric.au.int/sites/default/files/2025-12/ef_peerreview_lesotho_vf.pdf>) described the strategy's five goals.
 
-**Evaluated.** No source found reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest held fact: [The Lesotho Bureau of Statistics lists the National Strategy for the Development of Statistics (NSDS) 2022/23-2026/27 among its current strategic documents](<http://www.bos.gov.ls/about_bos.htm>).
+**Evaluated.** No mid-term or final evaluation of NSDS II has been found. [Its period ends in 2026/27](<http://www.bos.gov.ls/about_bos.htm>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found dates a review of progress on the strategy in the last three years.
+***Not found***. No source found dates a review of progress on NSDS II.
