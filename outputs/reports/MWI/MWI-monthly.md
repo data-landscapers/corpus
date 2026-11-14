@@ -4,8 +4,8 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: MWI
 ledger_rows: 30
-not_held: 29
-record: c22c637dffb9
+not_held: 28
+record: b3ef37d2b16f
 ---
 
 # News, Oct – Nov 2026
