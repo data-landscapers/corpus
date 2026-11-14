@@ -6,7 +6,7 @@ region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 251
+sources_cited: 252
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -154,7 +154,7 @@ Telecom Egypt's board [withdrew on 17 July 2026 from the agreed sale of 75–80 
 
 [In April 2026 the Prime Minister inspected the command centre for the New Capital's government district](https://en.al-khaber.com/egypts-premier-inspects-new-capital-command-centre-managing-middle-easts-largest-state-tech-infrastructure/). [It runs 6,800 network devices and 50,000 computers for 50,000 relocated staff, with 40 engineers on duty each day](https://en.al-khaber.com/egypts-premier-inspects-new-capital-command-centre-managing-middle-easts-largest-state-tech-infrastructure/). [The Civil Status Information Center provides the technical support for the national-number databases at the main centre in Abbasiya and the card production centre](https://www.citc.com.eg/National%20ID%20SYSTEM.html) (2024). [The biometric hardware behind it has come from the French vendor IDEMIA in partnership with the local firm AOI](https://www.biometricupdate.com/202011/idemia-renews-mauritania-contract-signs-deal-with-aoi-for-biometric-device-production-in-egypt). [The Ibrahim Index places Egypt's effective administration 44th of 54 African states (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-eg.pdf). It sits within [a public administration sub-category that fell over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-eg.pdf) while overall governance rose. The public service has [both a digital skills strategy and a skills programme, with free training reaching advanced data science (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In August 2026, three months before the data protection law's compliance window closed, the Personal Data Protection Center was still running an awareness workshop on the law inside a ministry](https://www.youm7.com/story/2026/8/7/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%86%D8%B8%D9%85-%D9%88%D8%B1%D8%B4%D8%A9-%D8%B9%D9%85%D9%84-%D8%AD%D9%88%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9/7505610).
 
-[Over 2014–2023 teaching capacity thinned even as enrolment and completion rose](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-eg.pdf). [ICT graduates are a modest share of tertiary output](https://knowledge4all.com/country-profile/pdf/1/Egypt.pdf).
+[Over 2014–2023 teaching capacity thinned even as enrolment and completion rose](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-eg.pdf). [The statistics agency counted 743,100 higher-education graduates in 2024-25, 4.3% of them in ICT and 9.5% in engineering, manufacturing and construction](https://www.elwatannews.com/news/details/8240587).
 
 ### Cybersecurity
 <!-- infra.cybersec -->
