@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 225
+sources_cited: 226
 sections_written: 39
 not_established: 1
 acquire_lines: 33
@@ -116,7 +116,7 @@ The [Trans-Saharan fibre backbone and Tier III data centre project is financed a
 ### Connectivity
 <!-- infra.connect -->
 
-[In November 2025 Niger took provisional acceptance of 1,031 km of optical fibre on five cross-border axes of the Trans-Saharan backbone, towards Algeria, Chad, Nigeria, Benin and Burkina Faso](https://www.lesahel.org/projet-de-la-dorsale-transsaharienne-a-fibre-optique-un-levier-essentiel-pour-le-desenclavement-numerique-du-niger/). [On 6 October 2026 the Nigerien and Algerian ministers launched operation of the link between In Guezzam and Arlit-Agadez](https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/). [In August 2025 Niger inaugurated a domestic internet exchange point](https://www.agenceecofin.com/actualites-numerique/2108-130856-le-niger-se-dote-d-un-nouveau-point-d-echange-internet). [On 20 July 2026 the regulator opened a consultation proposing the 600 MHz, 700 MHz and 3.5 GHz bands for 5G](https://developingtelecoms.com/telecom-business/telecom-regulation/20557-niger-kicks-off-public-consultation-on-5g-spectrum-plan.html). [In June 2025 Moov and Niger Télécom still had no 4G licence](https://lepotentiel-niger.com/conference-de-presse-arcep-operateurs-de-telephonie-la-mauvaise-qualite-de-services-offerts-a-la-clientele-au-centre-des-echanges/).
+[In November 2025 Niger took provisional acceptance of 1,031 km of optical fibre on five cross-border axes of the Trans-Saharan backbone, towards Algeria, Chad, Nigeria, Benin and Burkina Faso](https://www.lesahel.org/projet-de-la-dorsale-transsaharienne-a-fibre-optique-un-levier-essentiel-pour-le-desenclavement-numerique-du-niger/). [On 6 October 2026 the Nigerien and Algerian ministers launched operation of the link between In Guezzam and Arlit-Agadez](https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/). [In August 2025 Niger inaugurated a domestic internet exchange point](https://www.agenceecofin.com/actualites-numerique/2108-130856-le-niger-se-dote-d-un-nouveau-point-d-echange-internet). [In January 2026 the research and education network Niger-REN launched a federated peering hub on an Internet Society grant, to keep academic traffic in the country when more than 90% of it left](https://www.niger-ren.ne/lancement_officiel_projet_hub_peering_federe/). [On 20 July 2026 the regulator opened a consultation proposing the 600 MHz, 700 MHz and 3.5 GHz bands for 5G](https://developingtelecoms.com/telecom-business/telecom-regulation/20557-niger-kicks-off-public-consultation-on-5g-spectrum-plan.html). [In June 2025 Moov and Niger Télécom still had no 4G licence](https://lepotentiel-niger.com/conference-de-presse-arcep-operateurs-de-telephonie-la-mauvaise-qualite-de-services-offerts-a-la-clientele-au-centre-des-echanges/).
 
 [A national backbone of more than 2,275 km of fibre, financed by a 2014 China Eximbank loan, was handed over in the first quarter of 2017](https://china.aiddata.org/projects/58683/).
 
