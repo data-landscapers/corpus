@@ -1,16 +1,17 @@
 {
- "iso3": "GNQ",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNQ-001",
-   "gaps": "No source found names a decree, regulation or order made under the law.",
-   "note": "Counted from the four questions by study-ladder-statisticslaw.py."
-  }
- ]
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNQ-003;GNQ-001",
+      "gaps": "No source found names a decree, regulation or order made under the law.",
+      "note": "Housekeeping 77: Ley 3/2020 is in force (GNQ-001), and the 2025 peer review asks for decrees to be brought into line with it (GNQ-003), so no rule made under it is held. The council's 2022 fines notice (GNQ-002) applies the law but cannot carry the cell past 3 (ruling 114).",
+      "as_at": "2026-11-14"
+    }
+  ]
 }

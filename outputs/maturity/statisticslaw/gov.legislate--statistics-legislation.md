@@ -20,9 +20,9 @@ The African Charter on Statistics (2009) obliges its parties to bring national l
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
-| 4 Operating | 8 |
-| 3 Established | 40 |
+| 5 Leading | 6 |
+| 4 Operating | 9 |
+| 3 Established | 38 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -44,6 +44,15 @@ Burkina Faso's 2021 statistics law is in force; an August 2025 decree under it r
 - The SDS5 says three application decrees of the 2021 statistics law are available, while texts on the statistics development fund are still awaited; the decrees are undated here, so the document's own date (December 2025) is used ([source, 2025-12](https://www.insd.bf/sites/default/files/2026-04/%5BSDS5-BF%5D_SDS-2026-2030.pdf)).
 - The INSD page says decree No. 2025-1095/PF/PRIM/MEF, dated 26 August 2025 per the source note, sets the attributions, organisation and operation of the national statistical system and its national statistics council (CNS), with a named chair, bureau and membership; the page itself does not name the 2021 law ([source, 2025-08-26](https://www.insd.bf/Coordination-statistiques/cns)).
 - The SDS5 states Burkina Faso adopted a new statistics law, Loi n°036-2021/AN of 6 December 2021 on the organisation and regulation of statistical activities, and uses it as the framework defining the national statistical system's mission ([source, 2021-12-06](https://www.insd.bf/sites/default/files/2026-04/%5BSDS5-BF%5D_SDS-2026-2030.pdf)).
+
+### Burundi: 5 Leading
+
+Burundi's statistics law, amended in 2021 and 2023, has decrees on its council and authority, and survey visas and council sessions applied it through 2026.
+
+- The national statistical information council (CNIS) held its 13th session on 6 November 2026, chaired by the Prime Minister, reviewing the recommendations of its June 2024 session and draft decrees on an enterprise classification and an order of statistics professionals ([source, 2026-11-06](https://burundi-news.com/articles/fr/renforcement-du-systeme-statistique-national-au-burundi.html)).
+- On 22 July 2024 the head of the national statistical authority granted a statistical visa to the protocol of a study of El Niño's socio-economic impact, under the 2023 statistics law and after the technical committee's observations ([source, 2024-07-22](https://www.insbu.bi/documents/visas/DECISION-N%C2%B0540.95.637.2024-DU-22.07.2024-PORTANT-OCTROI-DU-VISA-STATISTIQUE-AU-PROTOCOLE-DE-LETUDE-DEVALUATION-DIMPACTS-SOCIO-ECONOMIQUES-DU-PHENOMENE-EL-NINO-AU-BURUNDI.pdf)).
+- A 2024 visa decision cites decrees 100/152 and 100/153 of 16 November 2022, which create the national statistical information committee (CNIS) and the national statistical authority, the statistics institute INSBU, and set their composition and rules ([source, 2022-11-16](https://www.insbu.bi/documents/visas/DECISION-N%C2%B0540.95.637.2024-DU-22.07.2024-PORTANT-OCTROI-DU-VISA-STATISTIQUE-AU-PROTOCOLE-DE-LETUDE-DEVALUATION-DIMPACTS-SOCIO-ECONOMIQUES-DU-PHENOMENE-EL-NINO-AU-BURUNDI.pdf)).
+- Loi n°1/18 of 24 July 2023 amends the 2021 statistics law: it sets up the national statistical authority, the national statistical information committee (CNIS) and its technical committee, makes nationally representative surveys subject to a statistical visa, and enters into force on promulgation ([source, 2023-07-24](https://www.insbu.bi/documents/lois/Loi-N%C2%B0-1-18-du-24-juillet-2023-portant-organisation-du-SSN-du-Burundi.pdf)).
 
 ### Cote d'Ivoire: 5 Leading
 
@@ -87,6 +96,14 @@ Chad's 2019 statistics law is in force with three decrees of July 2019 under it;
 
 - The same page lists three decrees dated July 2019 setting out the attributions, organisation and operation of the National Statistics Council, INSEED and the National Statistics Development Fund, alongside an undated decree on the CSS and CPS ([source, 2019-07](https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires)).
 - INSEED's regulatory-texts page names Loi N°026/PR/2019 on the organisation and regulation of statistical activities in Chad as the statistics law, which makes INSEED the central body of the national statistical system, and lists the law as dated June 2019 ([source, 2019-06](https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires)).
+
+### Djibouti: 4 Operating
+
+Djibouti's 2019 statistics institute law, amended in 2021, has decrees on the institute's statutes and board; no act under it since 2023 is known.
+
+- Décret n° 2023-185/PR/MEFI, made under the 2019 statistics institute law and INSTAD's 2021 statutes, names the eleven members of the institute's board for three-year terms renewable once, in force from 6 July 2023 ([source, 2023-07-06](https://www.journalofficiel.dj/texte-juridique/decret-n2023-185-pr-mefi-portant-nomination-des-membres-du-conseil-dadministration-de-linstitut-de-la-statistique-de-djibouti-instad/)).
+- Decree 2023-185 cites Décret n° 2021-236/PR/MEFI of 20 September 2021 setting the statutes of the statistics institute INSTAD, made under the 2019 statistics institute law as amended in 2021 ([source, 2021-09-20](https://www.journalofficiel.dj/texte-juridique/decret-n2023-185-pr-mefi-portant-nomination-des-membres-du-conseil-dadministration-de-linstitut-de-la-statistique-de-djibouti-instad/)).
+- Loi n° 108/AN/20/8ème L of 18 February 2021 amends the 2019 law, renaming the institute INSTAD, attaching it to the ministry in charge of statistics and giving it five technical directorates and regional statistics offices; it enters into force on promulgation ([source, 2021-02-18](https://www.journalofficiel.dj/texte-juridique/loi-n108-an-20-8eme-l-portant-modification-de-la-loi-n26-an-18-8eme-l-relative-a-la-creation-de-linstitut-national-de-la-statistique-de-djibouti-insd/)).
 
 ### Guinea: 4 Operating
 
@@ -139,12 +156,6 @@ Botswana's 2009 Statistics Act is in force and its board was constituted in 2023
 - The document is the text of Botswana's Statistics Act (Cap. 17:01, Act No. 15 of 2009), which establishes Statistics Botswana and the National Statistical System and states a commencement date of 1 December 2010 ([source, 2010-12-01](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Act%202009.pdf)).
 - Statistics Botswana's annual report says the body is established under the Statistics Act of 2009 and is guided by it in carrying out its mandate ([source, 2009](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Botswana%20Annual%20Report%202023-24.pdf)).
 
-### Burundi: 3 Established
-
-Burundi's 2007 statistics law, amended in May 2021, is in force; no source found reports rules made under it.
-
-- This document is the text of Burundi's Loi n°1/08 of 20 May 2021, which modifies the statistics law of 25 September 2007 on the organisation of the national statistical system and enters into force on the day of its promulgation ([source, 2021-05-20](https://amategeko.gov.bi/wp-content/uploads/2021/07/BOB_No5BIS-2021.pdf)).
-
 ### Cape Verde: 3 Established
 
 Cabo Verde's 2019 statistics law is in force and its statistics institute invoked it in 2026; no source found reports rules made under it.
@@ -178,13 +189,6 @@ The Democratic Republic of the Congo's first statistics law was signed as an ord
 
 - The ACP reports that the President signed the ordonnance-loi organising statistical activity, as read from the minutes of the 98th Council of Ministers; no signing date is given, so the publication date is used ([source, 2026-09-12](https://acp.cd/nation/le-president-tshisekedi-fixe-les-conditions-dorganisation-de-lactivite-statistique-en-rdc/)).
 
-### Djibouti: 3 Established
-
-Djibouti's 2011 statistics law is in force and was cited by decrees in 2026; no source found reports rules made to apply it.
-
-- The decree, made in 2026, cites among its legal basis Law no. 124/AN/11/5th L of 20 November 2011 on the organisation of statistical activity and of the statistical system in Djibouti ([source, 2011-11-20](https://www.journalofficiel.dj/texte-juridique/decret-n2026-075-pr-mefi-portant-creation-du-statut-particulier-des-cadres-de-linstad/)).
-- The order approving INSTAD's 2026 budget cites among its legal basis Law no. 124 of 20 November 2011 on the organisation of statistical activity and of the statistical system in Djibouti ([source, 2011-11-20](https://www.journalofficiel.dj/texte-juridique/arrete-n2026-041-pr-mefi-portant-approbation-du-projet-de-budget-previsionnel-de-linstitut-de-la-statistique-de-djibouti-instad-pour-lexercice-2026/)).
-
 ### Egypt: 3 Established
 
 Egypt's 1960 statistics and census law, amended in 1982, is in force; no source found reports rules made under it.
@@ -193,8 +197,9 @@ Egypt's 1960 statistics and census law, amended in 1982, is in force; no source 
 
 ### Equatorial Guinea: 3 Established
 
-Equatorial Guinea's 2020 statistics law is in force, replacing one of 2001; no source found reports rules made under it.
+Equatorial Guinea's 2020 statistics law is in force, replacing one of 2001; no decree made under it is known.
 
+- The African Union statistics institute's peer review of September 2025 credits a modernised statistics law aligned with the African Charter on Statistics and calls for key decrees to be updated to align with the 2020 law ([source, 2025-09-12](https://statafric.au.int/en/news/press-releases/2025-11-17/peer-review-progress-and-priority-actions-equatorial-guineas-nss)).
 - The national statistics strategy for 2022 to 2026 says statistical activity in Equatorial Guinea is governed by Law 3/2020 of 16 October 2020, which replaced Law 3/2001 of 17 May 2001 and was aligned with the African Charter on Statistics ([source, 2020-10-16](https://inege.org/wp-content/uploads/2023/09/ENDE-2022-2026-1.pdf)).
 
 ### Eswatini: 3 Established

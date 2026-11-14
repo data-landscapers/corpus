@@ -1,16 +1,17 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-001;DJI-002",
-   "gaps": "No source found names a decree, regulation or order made under the law.",
-   "note": "Counted from the four questions by study-ladder-statisticslaw.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "reach": "rules",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-007;DJI-006;DJI-005",
+      "gaps": "No source found dates an act done under the law in the last three years: its council or board appointed or meeting, a standard or calendar issued, a rule made or a penalty.",
+      "note": "Housekeeping 77: the 2019 statistics institute law, amended 2021, is in force (DJI-004, DJI-005); INSTAD's 2021 statutes and the 2023 decree naming its board were made under it (DJI-006, DJI-007), so 4. The board was named in July 2023, outside three years, and no later act is tied to the law, so not 5.",
+      "as_at": "2026-11-14"
+    }
+  ]
 }

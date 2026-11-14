@@ -1,16 +1,17 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-001",
-   "gaps": "No source found names a decree, regulation or order made under the law.",
-   "note": "Counted from the four questions by study-ladder-statisticslaw.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-005;BDI-004;BDI-003;BDI-002",
+      "gaps": "Nothing on the four questions.",
+      "note": "Housekeeping 77: the 2021 law as amended by Loi 1/18 of 2023 is in force (BDI-002), with 2022 decrees setting up the CNIS and the statistical authority (BDI-003). A statistical visa granted in July 2024 and the CNIS session of November 2026 apply it inside three years (BDI-004, BDI-005), so 5.",
+      "as_at": "2026-11-14"
+    }
+  ]
 }
