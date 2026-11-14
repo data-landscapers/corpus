@@ -1,12 +1,12 @@
 ---
 title: Sudan: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: SDN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 203
+sources_cited: 205
 sections_written: 39
 not_established: 3
 acquire_lines: 49
@@ -269,7 +269,7 @@ The World Bank's [2022 assessment of Sudan's digital economy found no data on di
 ### Training and skills
 <!-- capacity.training -->
 
-In 2024 a small group of long-established universities taught [computer science and IT at bachelor's, master's and doctoral level](https://www.neelain.edu.sd/college/Computer). [No measure of the teaching workforce was reported for Sudan across the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). [In February 2026 Al-Neelain University raised its information centre to a Deanship of Digital Transformation](https://www.sudanakhbar.com/1749821). [The higher education council approved a regulation in 2026 giving e-learning and blended learning in higher-education institutions a formal legal basis](https://aswatnews.net/?p=62393).
+In 2024 a small group of long-established universities taught [computer science and IT at bachelor's, master's and doctoral level](https://www.neelain.edu.sd/college/Computer). [No measure of the teaching workforce was reported for Sudan across the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). [In February 2026 Al-Neelain University raised its information centre to a Deanship of Digital Transformation](https://www.sudanakhbar.com/1749821). [The higher education council approved a regulation in 2026 giving e-learning and blended learning in higher-education institutions a formal legal basis](https://aswatnews.net/?p=62393). [In August 2024 the higher education minister announced SudREN, the universities' network destroyed in the war, restored from Red Sea University's data centre](https://sudannabaa.com/news/%d8%a7%d8%b3%d8%aa%d8%b9%d8%a7%d8%af%d8%a9-%d8%aa%d9%80%d8%b4%d8%ba%d9%8a%d9%84-%d8%b4%d8%a8%d9%83%d8%a9-%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86/28661/). [Universities produced 58,512 bachelor graduates in 2023-2024, 7,064 of them from engineering faculties](https://alakhbar-alsudan.com/?p=31425).
 
 ### Research institutions
 <!-- capacity.research -->
