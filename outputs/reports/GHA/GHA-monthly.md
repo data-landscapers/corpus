@@ -3,9 +3,9 @@ title: Ghana — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: GHA
-ledger_rows: 74
+ledger_rows: 75
 not_held: 9
-record: d9b912d0b7a2
+record: 6d9ebd3436d0
 ---
 
 # News, Oct – Nov 2026
@@ -1035,6 +1035,20 @@ Ghana will require every arriving traveller to file an online Mandatory Health D
 **[Ghana Petroleum Commission introduces Digital Permit Platform to improve oil sector operations](https://www.myjoyonline.com/ghana-petroleum-commission-introduces-digital-permit-platform-to-improve-oil-sector-operations/)** — MyJoyOnline, 11 November 2026
 
 Ghana's Petroleum Commission introduced a Digital Permit Application Platform to replace paper permit applications in the upstream petroleum sector. Chief executive Emeafa Hardcastle announced it at the Commission's 2026 Local Content Conference in Takoradi (MyJoyOnline, 11 November 2026).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">IMANI public portal scorecard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitising the Till While Leaving the Rulebook in the Dark](https://imaniafrica.org/2026/11/digitising-the-till-while-leaving-the-rulebook-in-the-dark/)** — IMANI Africa, 12 November 2026
+
+IMANI scores 20 agency and assembly portals out of 12; FDA tops at 11.5, PSRS last at 2.0.
 
 </div>
 
