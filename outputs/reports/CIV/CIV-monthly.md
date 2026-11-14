@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: CIV
-ledger_rows: 47
+ledger_rows: 50
 not_held: 9
-record: e1b7f6b8e374
+record: f5a504bd0226
 ---
 
 # News, Oct – Nov 2026
@@ -137,8 +137,26 @@ Côte d'Ivoire's press regulator ANP and cybersecurity agency ANSSI agreed on 21
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#new-investments">New investments</a>
 </nav>
+
+### Domestic budget appropriations and expenditure
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital ministry appropriation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire-AIP/ L’Assemblée nationale adopte le budget 2027 du ministère de la Transition numérique arrêté à 120,72 milliards FCFA - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-lassemblee-nationale-adopte-le-budget-2027-du-ministere-de-la-transition-numerique-arrete-a-12072-milliards-fcfa/)** — Agence Ivoirienne de Presse, 14 November 2026
+
+The National Assembly's finance committee adopted the 2027 budget of Côte d'Ivoire's Ministry of Digital Transition on 13 November 2026, at 120.72 billion FCFA. The 2026 budget was 83.3 billion FCFA. It includes 27.5 billion for the World Bank-financed PADCI and a first dedicated programme of 1.8 billion for the cybersecurity agency ANSSI.
+
+</div>
+
+</div>
 
 ### New investments
 
@@ -203,6 +221,20 @@ Côte d'Ivoire's Council of Ministers adopted a decree on 14 October 2026 settin
 **[Statistiques du marché des télécommunications en Côte d'Ivoire - 3ème trimestre 2026](https://artci.ci/wp-content/uploads/2026/10/RAPPORT-ARTCI-T3-2026_31.10.26.pdf)** — ARTCI (Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoire), 31 October 2026
 
 The regulator ARTCI published Côte d'Ivoire's telecoms market statistics for the third quarter of 2026. Fixed internet subscriptions passed 1 million, up 59.9%. Mobile internet stood at 41.4 million subscriptions and active mobile money accounts at 32.5 million. Starlink was licensed in July 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Programme national de connectivite rurale</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Connectivité rurale : les satellites Leo et les réseaux mobiles envisagés pour connecter les zones reculées](https://www.linfodrome.com/economie/127576-connectivite-rurale-les-satellites-leo-et-les-reseaux-mobiles-envisages-pour-connecter-les-zones-reculees)** — Linfodrome, 13 November 2026
+
+PNCR and ANSUT satellite feasibility study; 578 rural sites built 2024-25 reaching about 900,000 people.
 
 </div>
 
@@ -744,6 +776,44 @@ Côte d'Ivoire named 32 digital firms on 4 November 2026 for 24 months of state 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Programme to receive and analyse 1,000 digital projects, 2027-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AIP/ Ivoire Tech Forum: Beugré Mambé appelle à faire des technologies émergentes un moteur de croissance](https://www.aip.ci/aip-ivoire-tech-forum-beugre-mambe-appelle-a-faire-des-technologies-emergentes-un-moteur-de-croissance/)** — Agence Ivoirienne de Presse (AIP), 12 November 2026
+
+State wire on the 12 Nov 2026 forum: 1,000 projects 2027-2030, ~500 firms, 5,000+ jobs, FCFA 150bn turnover.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ivoire Tech Forum 2026 : le Premier Ministre appelle à faire du numérique et de l'intelligence artificielle les moteurs de la croissance inclusive](https://primature.ci/actualite/ivoire-tech-forum-2026-le-premier-ministre-appelle-a-faire-du-numerique-et-de-lintelligence-artificielle-les-moteurs-de-la-croissance-inclusive)** — Cabinet du Premier Ministre (Côte d'Ivoire), 12 November 2026
+
+PM's office account, 12 Nov 2026; 1,000 youth, women and entrepreneur projects 2027-2030; AI and data as growth drivers.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire : L’État vise 1 000 projets numériques pour faire émerger 500 start-up d’ici 2030](https://www.linfodrome.com/economie/127572-cote-d-ivoire-l-etat-vise-1-000-projets-numeriques-pour-faire-emerger-500-start-up-d-ici-2030)** — Linfodrome, 13 November 2026
+
+Minister's 2030 target set at second Ivoire Tech Forum opening, 12 November 2026; lede only.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire targets 500 digital companies by 2031 under new startup initiative](https://techreviewafrica.com/news/8328/c-te-d-ivoire-targets-500-digital-companies-by-2031-under-new-startup-initiative)** — Tech Review Africa, 14 November 2026
+
+A second account of the Ivoire Tech Forum 2026 opening, where Côte d'Ivoire's digital transition minister Djibril Ouattara set a target of about 500 digital companies by 2031. The government plans to review 1,000 digital projects between 2027 and 2029. See the Ivoire Tech Forum entry for the full account.
+
+</div>
+
+</div>
+
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
@@ -815,6 +885,14 @@ Côte d'Ivoire's digital ministry seeks a firm to digitise its National Public S
 **[MWC Doha 26: Côte d’Ivoire and GSMA sign MoU to improve smartphone affordability](https://techreviewafrica.com/news/8242/x)** — Tech Review Africa, 10 November 2026
 
 Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone affordability at MWC Doha 2026, Tech Review Africa reported on 10 November 2026. The universal-service agency ANSUT will lead implementation under the GSMA Handset Affordability Coalition. The report gives no targets, prices or funding, and no signing date.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire : un programme pour rendre les smartphones accessibles à 25 USD](https://www.agenceecofin.com/actualites-numerique/1211-143364-cote-d-ivoire-un-programme-pour-rendre-les-smartphones-accessibles-a-25-usd)** — Agence Ecofin, 12 November 2026
+
+Signed 10 Nov 2026 in Doha; 15,000 FCFA device target; smartphone penetration 40% now, 80% goal by end-2027.
 
 </div>
 
