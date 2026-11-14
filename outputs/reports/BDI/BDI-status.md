@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 273
+sources_cited: 275
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -316,7 +316,7 @@ Two artificial-intelligence deployments inside Burundian sectoral systems are on
 
 [As at 2025 AfriLabs listed four member organisations: Burundi Business Incubator, Maison de l'Entrepreneur, DICOS Incubator and Impact Hub Bujumbura](https://www.afrilabs.com/hub_country/burundi/). [It also listed BujaHub, KIT-HUB, Kesho Innovation Center and the Burundi Innovation Hub, an ITU WSIS Prize winner in 2023](https://www.afrilabs.com/hub_country/burundi/). [BujaHub runs incubation facilities in Gitega, the political capital, as well as Bujumbura](https://bujahub.bi/moonshot-program/). [It runs its Moonshot programme with the government, UNDP, the Youth Bank, the Women Investment Bank and the PAEEJ youth employment agency](https://bujahub.bi/moonshot-program/). [In April 2023 the startup sector's actors, incubators, access to finance and regulation were mapped for Orange Corners and the Netherlands Enterprise Agency](https://www.orangecorners.com/app/uploads/2024/07/Summarized-Ecosystem-Mapping-Report-Orange-Corners-Burundi-2023.pdf).
 
-[On 16 March 2026 the World Bank-financed PRETE-NYUNGANIRA project launched a national business-plan competition for small enterprises, with ICT among its priority sectors](https://prete.bi/le-projet-prete-nyunganira-lance-officiellement-le-concours-des-plans-daffaires-pour-soutenir-les-mpme-burundaises/). [On 24 June 2026 the ICT secretariat SETIC opened the JuneTech digital festival with the KiTHub innovation hub, backed by PAFEN](https://setic.gov.bi/ouverture-solennelle-du-festival-numerique-junetech-2026/). [The national AI strategy's innovation pillar provides for incubators in Bujumbura, Ngozi and Gitega](https://www.iwacu-burundi.org/lia-au-coeur-de-la-strategie-numerique-au-burundi/).
+[On 16 March 2026 the World Bank-financed PRETE-NYUNGANIRA project launched a national business-plan competition for small enterprises, with ICT among its priority sectors](https://prete.bi/le-projet-prete-nyunganira-lance-officiellement-le-concours-des-plans-daffaires-pour-soutenir-les-mpme-burundaises/). [On 24 June 2026 the ICT secretariat SETIC opened the JuneTech digital festival with the KiTHub innovation hub, backed by PAFEN](https://setic.gov.bi/ouverture-solennelle-du-festival-numerique-junetech-2026/). [In June 2026 partners in an EU-funded digital skills project signed an agreement to set up an innovation hub in Burundi](https://www.msm.nl/news-events-and-blogs/news/burudigi-strengthens-collaboration-in-luxembourg). [In November 2026 KIT-HUB took 13 start-ups from the Shark Tank Burundi competition into incubation](https://www.linkedin.com/posts/kit-digital-innovation-hub_icanzotech-kithub-sharktankburundi-activity-7525403169837883392-1SXg). [The national AI strategy's innovation pillar provides for incubators in Bujumbura, Ngozi and Gitega](https://www.iwacu-burundi.org/lia-au-coeur-de-la-strategie-numerique-au-burundi/).
 
 ## Capacity
 
