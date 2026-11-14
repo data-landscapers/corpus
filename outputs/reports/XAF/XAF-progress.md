@@ -3,16 +3,16 @@ title: Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-14
 period: 2025-11-01 to 2026-11-14
 place: XAF
-ledger_rows: 324
+ledger_rows: 325
 not_held: 3
-record: 30834c320f98
+record: 9ee1dd732434
 ---
 
 # Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-14 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 324 bodies, instruments and systems on this place's ledger, 167 changed position between 2025-11-01 and 2026-11-14, 32 did not, 122 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 325 bodies, instruments and systems on this place's ledger, 168 changed position between 2025-11-01 and 2026-11-14, 32 did not, 122 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 1338 sources for this place in the window — 224 in the earlier half (2025-11 to 2026-04), 1114 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -196,6 +196,7 @@ On standards the work is opening rather than closing: common proposals for the 2
 | 2026 Abuja Declaration on Meaningful Connectivity for Africa | Did not exist | [Adopted, committing member states to technology-neutral regulation, continental harmonisation, fair access to spectrum and fibre, shared infrastructure and data governance; the text itself is not published](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/) | Movement |
 | 2Africa subsea cable | Announced 2020-05-14 by a consortium of eight operators led by Facebook; not complete | [Declared complete and activated in late 2025: about 45,000 km linking more than 46 landing points in 33 countries, with a design capacity of 180 Tbps](https://techafricanews.com/2026/02/12/2africa-is-here-how-africa-can-capture-the-full-potential-of-the-subsea-cable/) | Movement |
 | Advancing Digital Connectivity in Africa roadmap (GSMA and PDAA) | Did not exist | [Sets three priorities - migrating more than 600 million 2G and 3G connections to 4G and 5G, joint energy and connectivity investment, and cheaper reach to rural areas - on analysis of 11 markets, finding that halving the usage gap in those markets could bring about 245 million more people online](https://www.gsma.com/newsroom/press-release/gsma-and-pdaa-unveil-roadmap-to-close-africas-mobile-internet-usage-gap-and-connect-one-billion-people-by-2030/) | Movement |
+| AfricaConnect3 research and education network programme | 38 national research networks enrolled across the UbuntuNet, WACREN and ASREN clusters | [Closed on 31 December 2025 after an extension, with all ten links procured for West and Central Africa in operation and six more countries connected to that region's backbone](https://wacren.net/wp-content/uploads/2026/05/WACREN-2025-ANNUAL-REPORT.pdf) | Closed |
 | Airtel Africa network expansion programme | US$670m of capital expenditure in the year to March 2025, below guidance on deferred data-centre spend, adding 2,583 sites and about 3,300 km of fibre, with close to 1,500 5G sites in five markets and US$725m-750m guided for the next year (2025-05) | [US$657m of capital expenditure in the half year to 30 September 2026, more than double the US$318m of the prior period, adding about 4,200 sites across 14 markets, after its chief executive spoke in September 2026 of US$1.1 billion earmarked for network expansion (2026-09)](https://www.investegate.co.uk/announcement/rns/airtel-africa--aaf/half-year-report/9849212) | Movement |
 | ATU-TESPOK internet exchange point roadmap | An ATU-owned assessment of internet exchange points, released 22 August 2025, closing on a phased two-, five- and ten-year roadmap | [A joint roadmap with the Kenyan industry association, built on that assessment, which counted about 57 operational exchanges in 36 countries in mid-2025; it proposes feasibility studies and pilot exchanges in underserved markets, investment partnerships, support to regional economic communities for cross-border exchange, and connecting public services to exchange points, with Central Africa and island states named as the weakest](https://www.linkedin.com/pulse/new-roadmap-africas-telecom-union-kenyas-d88bf/) | Movement |
 | Commercial 5G deployment and adoption across the continent | 1.2% of Sub-Saharan mobile connections in 2023, forecast to reach 17% by 2030 (2024-11) | [61 operators across 37 African markets had launched commercial 5G services by the end of May 2026, 40 of them also running 5G fixed wireless access, after first launches in Algeria, Comoros, Egypt, Libya, Mauritania, Morocco and Tunisia over the preceding twelve months; 5G connections in Africa are put at just under 100 million by the end of 2026, 6.2% of total mobile connections, against a projected 3.4 billion and 37% worldwide, and among sixteen focus countries only Mauritius and South Africa had 5G population coverage above 50% as of May 2026](https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2026/07/220726-5G-in-Africa-2026_Final.pdf) | Movement, a Sub-Saharan measurement against a continental projection |
