@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "4",
+      "stage": "5",
       "registry": "inservice",
       "programmes": "several",
-      "linked": "linked",
+      "linked": "linked;paid",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-006;NGA-008;NGA-002",
-      "gaps": "No source found says the cash transfers drawn from the register are paid digitally; BVN checks alone do not say so.",
-      "note": "Rebuild: 12.3 million NINs are captured in the register in May 2026 (NGA-006) and two transfers draw on it (NGA-002), so 4; no digital payment fact, so not 5, though the shared counter reads 5.",
-      "as_at": "2026-11-13"
+      "stage_sources": "NGA-018;NGA-019;NGA-020",
+      "gaps": "No source found says how many beneficiaries of each programme are paid digitally, or how many households are selected from the register in each payment cycle.",
+      "note": "The register held 15.65 million people's ID numbers in October 2026 (NGA-018), and the transfers drawn from it are paid into beneficiary-owned digital accounts (NGA-019) and mobile wallets (NGA-020), so 5.",
+      "as_at": "2026-11-14"
     }
   ]
 }

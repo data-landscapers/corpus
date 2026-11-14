@@ -1,6 +1,6 @@
 # Social protection register: social protection register
 
-*As at 2026-11-13.*
+*As at 2026-11-14.*
 
 ## The norm
 
@@ -20,8 +20,8 @@ The African Union's Protocol on Social Protection asks states for a social regis
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
-| 4 Operating | 19 |
+| 5 Leading | 2 |
+| 4 Operating | 17 |
 | 3 Established | 10 |
 | 2 Nascent | 16 |
 | 1 Absent | 0 |
@@ -29,6 +29,21 @@ The African Union's Protocol on Social Protection asks states for a social regis
 | No evidence | 6 |
 
 ## Countries
+
+### Egypt: 5 Leading
+
+In 2026 the social registry was linked by national ID to 27 databases; its main programme pays by card, other programmes' payment is not known.
+
+- The social registry is linked to 27 government databases through the national ID number, per Raafat Shafik of the Ministry of Social Solidarity ([source, 2026-11-06](https://almessa.gomhuriaonline.com/764443/)).
+- The World Bank's Stephane Guimbert says Takaful and Karama, which rests on the Ministry of Social Solidarity's unified social registry of about 12 million households, pays through Meeza cards, digital payments that cut leakages ([source, 2025-06-01](https://english.ahram.org.eg/News/547276.aspx)).
+
+### Nigeria: 5 Leading
+
+In 2026 the social register held 15.65 million people's ID numbers, and its transfers were paid into digital accounts; per-programme payment counts are not known.
+
+- NASSCO said the national identification numbers of 15,653,374 individuals had been integrated into the National Social Register by October 2026, and 11,347,989 households had at least one member with a valid NIN in it ([source, 2026-10](https://punchng.com/fg-links-15-6m-nigerians-to-nin-in-social-register/)).
+- The World Bank report says the payment mechanism for the cash transfers drawn from the Social Register is fully digital, with all payments going directly to verified, beneficiary-owned digital accounts backed by biometric identification ([source, 2025-09-03](https://documents1.worldbank.org/curated/en/099090325094525591/txt/P176935-a76b292b-0876-428f-bd15-82f5f0c9fba7.txt)).
+- The humanitarian ministry's website says relief beneficiaries, selected from verified NIN records and the National Social Register, receive a N50,000 grant into a mobile wallet ([source, 2026-11-04](https://punchng.com/how-fg-selects-beneficiaries-for-n50000-relief/)).
 
 ### Burundi: 4 Operating
 
@@ -62,13 +77,6 @@ The social registry was linked to the national ID in 2026; which programmes use 
 Two or more programmes used the social registry in 2026; no source found reports a link to the national ID.
 
 - MINAS says the RSU provides lists of eligible households to the different social programmes, including State ones, under data-sharing protocols ([source, 2026-07-19](https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/)).
-
-### Egypt: 4 Operating
-
-Several programmes used the social registry, linked to 27 databases by national ID number, in 2026; whether benefits are paid digitally is not known.
-
-- The social registry is linked to 27 government databases through the national ID number, per Raafat Shafik of the Ministry of Social Solidarity ([source, 2026-11-06](https://almessa.gomhuriaonline.com/764443/)).
-- The World Bank says Takaful and Karama (two components) and the FORSA, Two is enough, Waii and 1,000 days cash-plus interventions are designed on, or target beneficiaries from, the TKP social registry ([source, 2024-05-28](https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs)).
 
 ### Gambia: 4 Operating
 
@@ -128,14 +136,6 @@ Two or more programmes used the social registry in 2026; no source found reports
 
 - The author says the Registre social unifié index is used in targeting beneficiaries of social programmes (plural, unnamed) ([source, 2026-10-12](https://medias24.com/chronique/droits-humains-maroc-defi-espace-numerique/)).
 - The Ministry of Interior document says the RSU is used to improve targeting of social protection programmes (plural) and that the RNP is used by social protection programmes ([source, 2024-10-23](https://aujourdhui.ma/actualite/operation-extension-de-lidentifiant-digital-civil-et-social)).
-
-### Nigeria: 4 Operating
-
-Two transfer programmes drew on the social register, which held 12.3 million ID numbers, in 2026; whether transfers are paid digitally is not known.
-
-- NASSCO said 12.3 million NINs have been captured into the National Social Register and over 11.5 million validated, with NIN integration ongoing ([source, 2026-05-07](https://tribuneonlineng.com/77-million-nigerians-now-on-fgs-safety-net-register-nassco/)).
-- NSIPA says NIN and BVN are integrated into the NSR database, with 1,628,587 NINs validated by NIMC ([source, 2025](https://nsipa.gov.ng/programmes/nassco.html)).
-- The World Bank report says ESR-CT households are identified from the Social Registers (National Social Register and Rapid Response Register), and the Extended Regular Cash Transfer also counts households from it ([source, 2025-09-03](https://documents1.worldbank.org/curated/en/099090325094525591/txt/P176935-a76b292b-0876-428f-bd15-82f5f0c9fba7.txt)).
 
 ### Rwanda: 4 Operating
 

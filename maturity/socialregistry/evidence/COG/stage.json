@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "COG-007;COG-002",
       "gaps": "No source found says a programme drawing on the registry pays benefits digitally.",
-      "note": "Rebuild: the registry holds the unique identification number (COG-007) and programmes draw on it (COG-002), so 4; the shared counter reads 5 without a payment fact, which the ladder needs. Not 5.",
-      "as_at": "2026-11-13"
+      "note": "The registry holds the unique identification number (COG-007), programmes draw on it (COG-002) and it selected the safety net programme's transfer recipients in May 2025 (COG-009), so 4. No source says those transfers are paid digitally, so not 5.",
+      "as_at": "2026-11-14"
     }
   ]
 }

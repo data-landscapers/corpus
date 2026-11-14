@@ -68,7 +68,7 @@ dpi.registry--population-register,,,,,,,,,2026-10-31,0,Only a diaspora health-wo
 dpi.registry--civil-register,3,NGA-dpi.registry-ecrvs,,,,,,,2026-10-31,0,Digital registration nationwide from 2026-07-01; health-facility layer not live; historic records and rising coverage not on record,
 dpi.registry--address-register,2,NGA-dpi.registry-national-digitised-addressing-system|NGA-dpi.registry-lagos-addressing,,,,,,,2026-10-31,0,Addressing framework ratified and postcode launch planned; Lagos pilot only; no address register in service,
 dpi.registry--business-register,2,NGA-dpi.registry-beneficial-ownership,,,,,,,2026-10-31,0,Beneficial ownership register live; corporate registry digitisation outstanding; online registration not on record,
-dpi.registry--social-protection-register,3,NGA-dpi.id-social-register,,,,,,,2026-10-31,0,Social register at 19.7m people; ID linkage and dynamic updating not on record,
+dpi.registry--social-protection-register,3,NGA-dpi.id-social-register,,,,,,,2026-10-31,0,21.1m households on the register in October 2026; 13.3m updated and 15.65m people ID-linked,
 dpi.registry--electoral-register,,,,,,,,,2026-10-31,0,Only the biometric accreditation devices mapped; the register itself and public access to it not on record,
 dpi.registry--tax-register,4,NGA-dpi.registry-taxid|NGA-dpi.mis-rev360,,,,,,,2026-10-31,0,Central tax ID linked to NIN and company numbers; integrity not assessed,
 dpi.registry--land-register,2,NGA-dpi.registry-land|NGA-dpi.registry-lagis-abat3,,,,,,,2026-10-31,0,Over 90% of land unregistered; digitisation under way federally and in Lagos,

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "4",
+      "stage": "5",
       "registry": "inservice",
       "programmes": "several",
-      "linked": "linked",
+      "linked": "linked;paid",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-004;EGY-002",
-      "gaps": "No source found says Takaful and Karama or another programme drawing on the registry pays benefits digitally.",
-      "note": "Rebuild: linked to 27 databases by national ID number in November 2026 (EGY-004), with several programmes on it (EGY-002), so 4; no payment fact, so not 5, though the shared counter reads 5.",
-      "as_at": "2026-11-13"
+      "stage_sources": "EGY-004;EGY-005",
+      "gaps": "No source found says what share of Takaful and Karama payments go to cards, or whether the other programmes using the registry pay digitally.",
+      "note": "The registry is linked to 27 databases by national ID number in November 2026 (EGY-004), and Takaful and Karama, which selects from it, pays through Meeza cards (EGY-005), so 5.",
+      "as_at": "2026-11-14"
     }
   ]
 }

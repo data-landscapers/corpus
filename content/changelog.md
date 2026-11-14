@@ -1,6 +1,8 @@
 ## 14 November 2026
 
 - Equatorial Guinea is placed at 2 on the social protection register (dpi.registry--social-protection-register), where it had no stage: Ley 5/2026 creates a Registro Único Social. Nothing found says the register has been built or holds anyone yet.
+- Nigeria rises from 4 to 5 on the social protection register (dpi.registry--social-protection-register): 15.65 million people's ID numbers were in it by October 2026, and its cash transfers are paid into digital accounts and mobile wallets. How many of each programme's beneficiaries are paid digitally has not been found.
+- Egypt rises from 4 to 5 on the social protection register (dpi.registry--social-protection-register): the registry is linked to 27 databases by national ID, and Takaful and Karama, which selects from it, pays benefits by card. Whether its other programmes pay digitally has not been found.
 
 ## 13 November 2026
 

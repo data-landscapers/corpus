@@ -66,7 +66,7 @@ dpi.registry--population-register,,,,,,,,,2026-08-31,0,no population register pr
 dpi.registry--civil-register,2,COG-dpi.registry-integrated-civil-status-system,,,,,,,2026-08-31,0,software validated; deployment unfunded,
 dpi.registry--address-register,2,COG-dpi.registry-postal-addressing,,,,,,,2026-08-31,0,Addressing adopted by decree and run by the regulator; not deployed,
 dpi.registry--business-register,3,COG-dpi.registry-business-register,,,,,,,2026-08-31,0,Online creation platform launched December 2025; public search and shared identifier not on record,
-dpi.registry--social-protection-register,2,COG-dpi.registry-social-protection-register,,,,,,,2026-08-31,0,Single social register being stood up under a World Bank project,
+dpi.registry--social-protection-register,2,COG-dpi.registry-social-protection-register,,,,,,,2026-08-31,0,"Single social register held 852,149 households in March 2025; used to select transfer recipients in May 2025",
 dpi.registry--electoral-register,,,,,,,,,2026-08-31,0,Register permanent and public by statute and used in 2026; digital form not on record,
 dpi.registry--tax-register,2,COG-dpi.registry-tax-register|COG-dpi.govtech-tax-filing-portal,,,,,,,2026-08-31,0,Unique number compulsory for taxpayers; register integrity or centralisation not assessed,
 dpi.registry--land-register,,,,,,,,,2026-08-31,0,Paper title register under the 2000 statute; no digitisation or cited paper-only statement,

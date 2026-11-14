@@ -66,7 +66,7 @@ dpi.registry--population-register,,,,,,,,,2026-08-31,0,Civil registration and a 
 dpi.registry--civil-register,2,EGY-dpi.registry-civil-status-law-and-registration,,,,,,,2026-08-31,0,Electronic birth and death registration under way; national digital service not stated,
 dpi.registry--address-register,2,EGY-dpi.registry-real-estate-identifier,,,,,,,2026-08-31,0,Property identifier numbering under way; no address register in service,
 dpi.registry--business-register,,,,,,,,,2026-08-31,0,Investment licensing and a planned economic-entities gateway only; no business registration system on record,
-dpi.registry--social-protection-register,3,EGY-dpi.mis-social-registry,,,,,,,2026-08-31,0,Registry targets the cash-transfer programme; no ID linkage or coverage published,
+dpi.registry--social-protection-register,3,EGY-dpi.mis-social-registry,,,,,,,2026-08-31,0,Registry holds 13m households linked by national ID to 27 databases; transfers paid by card,
 dpi.registry--electoral-register,3,EGY-dpi.registry-voter-register,,,,,,,2026-08-31,0,Updated voter database with individual lookup; no reconciliation with the civil register,
 dpi.registry--tax-register,3,EGY-dpi.registry-tax-register-and-automation,,,,,,,2026-08-31,0,Unified registration number; centralisation and whole-of-taxpayer view not shown,
 dpi.registry--land-register,2,EGY-dpi.registry-land-registration-coverage|EGY-gov.legislate-real-property-register-conversion,,,,,,,2026-08-31,0,Under 10% registered; title conversion proceeds section by section and Sohag deferred to 2027,
