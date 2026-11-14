@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: GIN
-ledger_rows: 22
+ledger_rows: 25
 not_held: 2
-record: 4f6aeb965107
+record: db3082437ad6
 ---
 
 # News, Oct – Nov 2026
@@ -109,6 +109,34 @@ Internet Society Pulse lists one active internet exchange point in Guinea in Nov
 **[Connectivité en Afrique : La 24e réunion du Fratel explore les grands défis de l'investissement public et de la régulation](https://www.sikafinance.com/marches/connectivite-en-afrique-la-24e-reunion-du-fratel-explore-les-grands-defis-de-l-investissement-public-et-de-la-regulation_65417)** — SikaFinance, 2 November 2026
 
 The 24th FRATEL annual meeting met in Conakry from 28 to 30 October 2026 on the connectivity gap between cities and rural areas. A Guinean telecoms official gave the national target: fibre from 4,350 km to 10,000 km by 2030. The plan names 857 priority rural localities and a one-stop shop for infrastructure sharing. An ITU speaker said 2.2 billion people remained offline in 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile subscription market shares</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécoms : la Guinée se tourne vers Maroc Telecom pour relancer ses opérateurs nationaux](https://www.agenceecofin.com/actualites-numerique/1311-143418-telecoms-la-guinee-se-tourne-vers-maroc-telecom-pour-relancer-ses-operateurs-nationaux)** — Agence Ecofin, 13 November 2026
+
+Talks opened 11 Nov 2026 on Guinée Télécom relaunch and near-insolvent Areeba; Orange holds 85.4% mobile share.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Relaunch of Guinée Télécom and restructuring of Areeba</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Télécoms : la Guinée se tourne vers Maroc Telecom pour relancer ses opérateurs nationaux](https://www.agenceecofin.com/actualites-numerique/1311-143418-telecoms-la-guinee-se-tourne-vers-maroc-telecom-pour-relancer-ses-operateurs-nationaux)** — Agence Ecofin, 13 November 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
@@ -266,6 +294,14 @@ Guinea's procurement regulator, the control directorate and the World Bank revie
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Fin des travaux de l’Atelier sur l’efficacité des marchés publics dans la santé et l’éducation](https://planete224.com/2026/11/12/fin-des-travaux-de-latelier-sur-lefficacite-des-marches-publics-dans-la-sante-et-leducation/)** — Planète 224, 12 November 2026
+
+DGCMP wants all procurement on Télémo by 1 Jan 2027; UNICEF-backed health and education studies validated.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -352,6 +388,8 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
 </nav>
 
 ### AI
@@ -379,6 +417,22 @@ Guinea scored 0.76 out of 4 on the Africa AI Governance Index 2026, in the Nasce
 **[Routes en Guinée : Bah Oury veut réduire les coûts grâce à l’intelligence artificielle](https://guineejet.info/routes-en-guinee-bah-oury-veut-reduire-les-couts-grace-a-lintelligence-artificielle/)** — Guinéejet, 12 October 2026
 
 Guinea's Prime Minister, Amadou Oury Bah, said the government will digitise public procurement and use artificial intelligence to check road construction prices against market prices and flag overbilling, with technical support from Rwanda. The system is to use national statistics institute data and assessments by the major projects control body, and to be operational by the end of the year. No cost is given.
+
+</div>
+
+</div>
+
+### ICT Industry
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-GATE e-commerce programme for small businesses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
 
 </div>
 
