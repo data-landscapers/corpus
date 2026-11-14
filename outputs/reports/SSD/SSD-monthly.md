@@ -3,9 +3,9 @@ title: South Sudan — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: SSD
-ledger_rows: 8
+ledger_rows: 9
 not_held: 7
-record: 6ee33ddb472e
+record: cbed3ad120cc
 ---
 
 # News, Oct – Nov 2026
@@ -57,6 +57,28 @@ President Salva Kiir swore in the ten-member board of South Sudan's National Bur
 </nav>
 
 ### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SSuREN research and education network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Sudan Stakeholders Resolve to Establish National Research and Education Network](https://ubuntunet.net/members/south-sudan-stakeholders-resolve-to-establish-national-research-and-education-network/)** — UbuntuNet Alliance, 1 October 2026
+
+Juba resolution of 14 October 2026 founds SSuREN as a member-owned not-for-profit; five commitments set out.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[BUP took part in the launching of a High Level Stakeholders Workshop for establishment of South Sudan Research and Education Network(SSUREN)](https://www.bucp.edu.ss/news/bup-took-part-in-the-launching-of-a-high-level-stakeholders-workshop-for-establishment-of-south-sudan-research-and-education-network-ssuren)** — Bentiu University of Petroleum, 20 October 2026
+
+Two ministries launch SSUREN at 13-14 October 2026 Juba workshop; World Bank-funded, operational early 2027.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
