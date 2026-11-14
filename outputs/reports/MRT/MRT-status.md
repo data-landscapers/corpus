@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 217
+sources_cited: 218
 sections_written: 39
 not_established: 1
 acquire_lines: 39
@@ -304,7 +304,7 @@ On 13 August 2026 [the minister delegate to the interior minister presented the 
 
 [Mauritania's IPv6 transition strategy of 2024](https://mtnima.gov.mr/wp-content/uploads/2024/05/strategie-nationale-IPV6.pdf) weights its costing towards human resources. It states that most installed equipment already supports the protocol.
 
-[In 2024 tertiary ICT and STEM provision was concentrated in a few institutions](https://mesrs.gov.mr/fr/etablissements): the public university's science faculty, a polytechnic school, a digital institute and some private providers. [Hadina RIMTIC, a Nouakchott incubator founded in 2014](https://www.wearetech.africa/en/fils-uk/tech-stars/hadina-rimtic-the-first-incubator-focused-on-tech-entrepreneurship-in-mauritania), runs recurring programmes including the MauriAppChallenge (2023).
+[Computing is taught for the first time in the first year of secondary school, on a national teacher guide issued in 2025](https://docs.bsimr.com/pdfs/prof/Guide-INF-1AS.pdf). [In 2024 tertiary ICT and STEM provision was concentrated in a few institutions](https://mesrs.gov.mr/fr/etablissements): the public university's science faculty, a polytechnic school, a digital institute and some private providers. [Hadina RIMTIC, a Nouakchott incubator founded in 2014](https://www.wearetech.africa/en/fils-uk/tech-stars/hadina-rimtic-the-first-incubator-focused-on-tech-entrepreneurship-in-mauritania), runs recurring programmes including the MauriAppChallenge (2023).
 
 [Training in April 2025](https://ami.mr/fr/archives/270002) equipped regional education staff to operate the SIRAGE platform and run the school-visit missions that feed it. On 25 August 2026 [the University of Nouakchott opened a first summer school on language models for low-resource African languages, at Nouadhibou](https://www.ami.mr/archives/267189). On 8 September 2026 [the education ministry opened a ten-day course in electronic document management for 20 inspectors](https://lequotidien.mr/?p=40495). [The Mourchid portal, launched in June 2026, draws employment, vocational-training and entrepreneurship programmes into one place](https://www.ecofinagency.com/news-services/3006-56949-mauritania-unveils-platform-to-improve-access-to-youth-jobs-training-and-support).
 
