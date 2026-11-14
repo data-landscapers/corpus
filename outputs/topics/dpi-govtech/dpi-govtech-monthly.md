@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 073f34b27fa7
+record: b9fa5774013f
 ---
 
 # News, Oct – Nov 2026
@@ -664,6 +664,20 @@ DR Congo's deputy interior minister opened a four-day national workshop in Kinsh
 **[Democratic Republic of Congo seeks consultancy for $500 million digital programme](https://www.consultancy.africa/news/2326/democratic-republic-of-congo-seeks-consultancy-for-500-million-digital-programme)** — Consultancy Africa, 28 October 2026
 
 The DRC's telecoms ministry is seeking a firm for an eight-month e-government consultancy, Consultancy Africa reported on 28 October 2026. The work covers a master plan for the 2025–2030 strategy, enterprise architecture and interoperability. The wider programme has US$400m from the World Bank and €100m from the French Development Agency.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online tax filing (télédéclaration)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[i-impôts DGI RDC : déclarer et payer ses impôts en ligne (guide 2026)](https://lepoint.cd/i-impots-dgi-rdc-declarer-payer-impots-en-ligne/)** — Le Point (lepoint.cd), 13 November 2026
+
+Le Point (lepoint.cd) published a guide on 13 November 2026 to i-impôts, the DR Congo's online tax filing platform. Companies use it to file and pay VAT, payroll tax and corporate tax. On 11 November its sign-up page for individuals was still under development.
 
 </div>
 

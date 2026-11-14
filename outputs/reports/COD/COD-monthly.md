@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: COD
 ledger_rows: 52
 not_held: 6
-record: 5ea7e2c5e4fb
+record: 671d69227de4
 ---
 
 # News, Oct – Nov 2026
@@ -458,7 +458,7 @@ The data page of EITI DR Congo reports 2023 extractive revenue of USD 5.85 billi
 
 **[DR Congo Requires Foreign Digital Service Providers to Register and Pay VAT](https://bankable.africa/en/business-climate/1111-3973-dr-congo-requires-foreign-digital-service-providers-to-register-and-pay-vat)** — Bankable, 11 November 2026
 
-DGI notice of 5 Nov 2026: foreign streaming, cloud and SaaS firms to sign up on e-Impôts by 10 Nov, pay VAT by 15 Nov.
+The DR Congo's tax directorate told foreign digital service providers on 5 November 2026 to register and pay VAT, Bankable Africa reported. They had to open an e-Impôts account by 10 November and pay by 15 November. The rule covers streaming, cloud, software, online advertising, app stores and marketplaces.
 
 </div>
 
@@ -618,7 +618,7 @@ The DRC's telecoms ministry is seeking a firm for an eight-month e-government co
 
 **[i-impôts DGI RDC : déclarer et payer ses impôts en ligne (guide 2026)](https://lepoint.cd/i-impots-dgi-rdc-declarer-payer-impots-en-ligne/)** — Le Point (lepoint.cd), 13 November 2026
 
-Walkthrough of i-impôts filing, payment and clearance checks; individuals' sign-up page still unbuilt on 11 Nov 2026.
+Le Point (lepoint.cd) published a guide on 13 November 2026 to i-impôts, the DR Congo's online tax filing platform. Companies use it to file and pay VAT, payroll tax and corporate tax. On 11 November its sign-up page for individuals was still under development.
 
 </div>
 

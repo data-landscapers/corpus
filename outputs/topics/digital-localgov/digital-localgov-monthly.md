@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: digital.localgov
 places: BEN; BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
-record: 12178f6f5398
+record: bb08cc17bdfa
 ---
 
 # News, Oct – Nov 2026
@@ -355,6 +355,20 @@ Nigeria's Adamawa State began its Civil Service Digitisation and Capacity Buildi
 **[Osun State Enters Partnership with UK on Digital Transformation Drive](https://www.osunstate.gov.ng/2026/11/osun-state-enters-partnership-with-uk-on-digital-transformation-drive/)** — osunstate.gov.ng, 10 November 2026
 
 The Osun State governor's office announced on 10 November 2026 an agreement on SPRIRET, a project of the UK-funded Digital Access Programme. It covers digital-economy policy, connectivity, digital public infrastructure and civic technology, and will be implemented by the Initiative for Digital Inclusion. No amount was stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Yobe State ban on cash revenue payments</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Yobe govt bans payments of revenue in cash, manual issuance of receipts](https://dailypost.ng/2026/11/12/yobe-govt-bans-payments-of-revenue-in-cash-manual-issuance-of-receipts/)** — Daily Post Nigeria, 12 November 2026
+
+The Yobe State Internal Revenue Service has banned cash payment of any tax, levy or fee, Daily Post reported on 12 November 2026. Payments must go through approved electronic channels into the state's revenue account. Only electronic receipts now count as proof of payment.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: KEN
 ledger_rows: 93
 not_held: 5
-record: b1cf28c780c3
+record: fd1c98fb9ea1
 ---
 
 # News, Oct – Nov 2026
@@ -1452,7 +1452,7 @@ Microsoft plans to close the engineering department of its Africa Development Ce
 
 **[Education dominates Kenya's university graduate fields as STEM output declines](https://www.the-star.co.ke/news/2026-10-01-education-dominates-kenyas-university-degrees-as-stem-output-drops)** — The Star, 1 October 2026
 
-CUE 2025: 124,912 graduates; computing and ICT up to 9,635, natural sciences and maths down to 9,097; 3,834 in CS.
+Kenya's Commission for University Education counted 124,912 university graduates in 2025, up from 123,928 in 2024, The Star reported on 1 October 2026. Education graduates rose to 37,817, or 30.3% of the total, while natural sciences, mathematics and statistics fell from 11,019 to 9,097. The commission recommends reviewing funding formulas and bursaries to support science and engineering courses.
 
 </div>
 

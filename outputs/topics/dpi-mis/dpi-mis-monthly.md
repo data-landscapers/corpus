@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.mis
 places: AGO; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3966c6797205
+record: 41f20fc75bb6
 ---
 
 # News, Oct – Nov 2026
@@ -1144,6 +1144,20 @@ Google.org gave Nigerian health-technology firm Helium Health a US$2.5 million g
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">REV360 tax administration platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rev360: Reimagining tax administration for a digital Nigeria](https://guardian.ng/opinion/rev360-reimagining-tax-administration-for-a-digital-nigeria-2/)** — The Guardian Nigeria, 9 November 2026
+
+In a Guardian opinion piece of 9 November 2026, Emmanuel Jonathan describes Rev360, the Nigeria Revenue Service's digital tax platform, which went live on 30 April 2026. It has separate portals for taxpayers, tax consultants, government agencies and software developers, and a workspace for staff. The piece argues that adoption now matters more than the launch.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">PlanFeld digital immunisation microplanning</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1301,6 +1315,20 @@ A digital Ebola travel health pass began on 22 October 2026. Arrivals must file 
 **[Somalia Plans Central Security Data System to Fill Reporting Gaps](https://www.dawan.africa/news/somalia-plans-central-security-data-system-to-fill-reporting-gaps)** — Dawan Africa, 11 November 2026
 
 Somalia's internal security ministry has begun designing a Data Analysis Centre to pool police, intelligence and immigration data, Dawan Africa reported on 11 November 2026. Director General Mohamed Shire said the system will replace paper filing. The ministry did not say who funds it, when it will operate or how personal data will be protected.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated Tax Administration System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Feisal Mohamed Hashi: The Vision Behind Somalia's Revenue Reforms](https://www.hiiraan.com/op4/2026/Nov/206761/feisal_mohamed_hashi_the_vision_behind_somalias_revenue_reforms.aspx)** — Hiiraan Online, 13 November 2026
+
+Somalia's Council of Ministers appointed Feisal Mohamed Hashi on 12 November 2026 as Director General of the new Somali Revenue Authority, Hiiraan Online reported. He had been Director General of Revenue at the Ministry of Finance since May 2023. The article is a profile of his career.
 
 </div>
 

@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MLI; MRT; MUS; MAR; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: abfbdc20f8d0
+record: 87f760678553
 ---
 
 # News, Oct – Nov 2026
@@ -354,6 +354,20 @@ The DRC's land affairs minister said implementation of the December 2025 land la
 **[ITIE-RDC Données et Divulgation Systématique](https://www.itierdc.net/donnees/)** — ITIE-RDC, 23 October 2026
 
 The data page of EITI DR Congo reports 2023 extractive revenue of USD 5.85 billion, 5.61 billion of it from mining and 234.3 million from oil, from 134 reporting entities. It also publishes the beneficial ownership register set up under Law 25/048 of 1 July 2025 and a ministerial order of 8 July 2026, now listing 202 beneficial owners of 54 companies, two of them politically exposed persons.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">VAT registration of foreign digital service providers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DR Congo Requires Foreign Digital Service Providers to Register and Pay VAT](https://bankable.africa/en/business-climate/1111-3973-dr-congo-requires-foreign-digital-service-providers-to-register-and-pay-vat)** — Bankable, 11 November 2026
+
+The DR Congo's tax directorate told foreign digital service providers on 5 November 2026 to register and pay VAT, Bankable Africa reported. They had to open an e-Impôts account by 10 November and pay by 15 November. The rule covers streaming, cloud, software, online advertising, app stores and marketplaces.
 
 </div>
 

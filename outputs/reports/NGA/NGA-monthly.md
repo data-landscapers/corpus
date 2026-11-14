@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: NGA
 ledger_rows: 110
 not_held: 8
-record: b9f98a111762
+record: ca6f0a0b5667
 ---
 
 # News, Oct – Nov 2026
@@ -1362,7 +1362,7 @@ Google.org gave Nigerian health-technology firm Helium Health a US$2.5 million g
 
 **[Rev360: Reimagining tax administration for a digital Nigeria](https://guardian.ng/opinion/rev360-reimagining-tax-administration-for-a-digital-nigeria-2/)** — The Guardian Nigeria, 9 November 2026
 
-Five Rev360 channels named: staff workspace URCW, taxpayer TSSP, consultants' TCP, MDAs' GTP and a developers' portal.
+In a Guardian opinion piece of 9 November 2026, Emmanuel Jonathan describes Rev360, the Nigeria Revenue Service's digital tax platform, which went live on 30 April 2026. It has separate portals for taxpayers, tax consultants, government agencies and software developers, and a workspace for staff. The piece argues that adoption now matters more than the launch.
 
 </div>
 
@@ -1500,7 +1500,7 @@ The Osun State governor's office announced on 10 November 2026 an agreement on S
 
 **[Yobe govt bans payments of revenue in cash, manual issuance of receipts](https://dailypost.ng/2026/11/12/yobe-govt-bans-payments-of-revenue-in-cash-manual-issuance-of-receipts/)** — Daily Post Nigeria, 12 November 2026
 
-Cash and manual receipts banned for every state tax, levy and fee; only e-receipts via approved channels count.
+The Yobe State Internal Revenue Service has banned cash payment of any tax, levy or fee, Daily Post reported on 12 November 2026. Payments must go through approved electronic channels into the state's revenue account. Only electronic receipts now count as proof of payment.
 
 </div>
 

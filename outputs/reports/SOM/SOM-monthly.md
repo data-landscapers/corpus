@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: SOM
 ledger_rows: 24
 not_held: 1
-record: cd9d08628703
+record: e7eac57dc9d2
 ---
 
 # News, Oct – Nov 2026
@@ -280,7 +280,7 @@ Somalia's internal security ministry has begun designing a Data Analysis Centre 
 
 **[Feisal Mohamed Hashi: The Vision Behind Somalia's Revenue Reforms](https://www.hiiraan.com/op4/2026/Nov/206761/feisal_mohamed_hashi_the_vision_behind_somalias_revenue_reforms.aspx)** — Hiiraan Online, 13 November 2026
 
-Somali Revenue Authority DG appointed 12 Nov 2026; ITAS rollout due end-2026 into 2027; named-author profile.
+Somalia's Council of Ministers appointed Feisal Mohamed Hashi on 12 November 2026 as Director General of the new Somali Revenue Authority, Hiiraan Online reported. He had been Director General of Revenue at the Ministry of Finance since May 2023. The article is a profile of his career.
 
 </div>
 

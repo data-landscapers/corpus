@@ -3,13 +3,15 @@ title: Training and skills — News, October – November 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: capacity.training
-places: BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN
-record: 486e29f897e4
+places: AGO; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN
+record: 8c25cdda4e5c
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#central-african-republic">Central African Republic</a>
@@ -58,6 +60,22 @@ record: 486e29f897e4
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
 </nav>
+
+## Angola
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">STEM share of accredited higher-education courses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cursos de STEM representam menos de 30% da oferta formativa](https://expansao.co.ao/universidade/detalhe/cursos-de-stem-representam-menos-de-30-da-oferta-formativa-76019.html)** — Expansão, 1 November 2026
+
+Angola's higher education ministry lists 900 accredited university courses for 2026/27, of which 242, or 27%, are in science, technology, engineering and mathematics, Expansão reported in November 2026. Humanities, arts and social sciences account for 320 courses. Of 218,544 graduates between 2014 and 2024, 10% were in STEM fields.
+
+</div>
+
+</div>
 
 ## Burkina Faso
 
@@ -300,6 +318,20 @@ Fondation Orange Guinée and UNICEF signed a protocol at Conakry on 5 October to
 </div>
 
 ## Kenya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University graduates in computing and ICT</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Education dominates Kenya's university graduate fields as STEM output declines](https://www.the-star.co.ke/news/2026-10-01-education-dominates-kenyas-university-degrees-as-stem-output-drops)** — The Star, 1 October 2026
+
+Kenya's Commission for University Education counted 124,912 university graduates in 2025, up from 123,928 in 2024, The Star reported on 1 October 2026. Education graduates rose to 37,817, or 30.3% of the total, while natural sciences, mathematics and statistics fell from 11,019 to 9,097. The commission recommends reviewing funding formulas and bursaries to support science and engineering courses.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: SSD
 ledger_rows: 9
 not_held: 7
-record: cbed3ad120cc
+record: 53b58c4c20f8
 ---
 
 # News, Oct – Nov 2026
@@ -66,7 +66,7 @@ President Salva Kiir swore in the ten-member board of South Sudan's National Bur
 
 **[South Sudan Stakeholders Resolve to Establish National Research and Education Network](https://ubuntunet.net/members/south-sudan-stakeholders-resolve-to-establish-national-research-and-education-network/)** — UbuntuNet Alliance, 1 October 2026
 
-Juba resolution of 14 October 2026 founds SSuREN as a member-owned not-for-profit; five commitments set out.
+Universities, research institutions and ministries in South Sudan resolved on 14 October 2026 in Juba to set up the South Sudan Research and Education Network (SSuREN), UbuntuNet Alliance reported. The network is to buy connectivity jointly for its members and build shared services. The chief executives of UbuntuNet Alliance and Uganda's RENU attended the two-day meeting.
 
 </div>
 
@@ -74,7 +74,7 @@ Juba resolution of 14 October 2026 founds SSuREN as a member-owned not-for-profi
 
 **[BUP took part in the launching of a High Level Stakeholders Workshop for establishment of South Sudan Research and Education Network(SSUREN)](https://www.bucp.edu.ss/news/bup-took-part-in-the-launching-of-a-high-level-stakeholders-workshop-for-establishment-of-south-sudan-research-and-education-network-ssuren)** — Bentiu University of Petroleum, 20 October 2026
 
-Two ministries launch SSUREN at 13-14 October 2026 Juba workshop; World Bank-funded, operational early 2027.
+Bentiu University of Petroleum says its vice chancellor signed the founding document of the South Sudan Research and Education Network (SSUREN) at a workshop in Juba on 13 and 14 October 2026. The higher education and ICT ministries organised the workshop. The university says the World Bank funds the project and the network should be operating in early 2027.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: MWI
 ledger_rows: 30
 not_held: 29
-record: 81c50f385b9c
+record: c22c637dffb9
 ---
 
 # News, Oct – Nov 2026
@@ -352,7 +352,7 @@ The Malawi Revenue Authority said it is building a second integrated tax adminis
 
 **[New taxes hit luxury shoppers](https://malawi24.com/2026/11/09/new-taxes-hit-luxury-shoppers/)** — Malawi24, 9 November 2026
 
-E-invoicing from May 2026: 8,890 taxpayers onboarded, August VAT up 44.4%; ITAS2 delivery targeted March 2028.
+The Malawi Revenue Authority has set out new tax measures, Malawi24 reported on 9 November 2026. Excise duty on wristwatches rises from zero to 50%, and on perfumes from 10% to 50%. Import duties are removed on greenhouses, equipment for community technical colleges and devices for persons with disabilities.
 
 </div>
 

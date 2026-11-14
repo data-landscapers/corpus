@@ -4,7 +4,7 @@ compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 2d3e7929f2b2
+record: 9a67e82f4ac1
 ---
 
 # News, Oct – Nov 2026
@@ -2167,6 +2167,28 @@ ICASA opened a stakeholder questionnaire on 10 November 2026 on the second phase
 </div>
 
 ## South Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SSuREN research and education network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Sudan Stakeholders Resolve to Establish National Research and Education Network](https://ubuntunet.net/members/south-sudan-stakeholders-resolve-to-establish-national-research-and-education-network/)** — UbuntuNet Alliance, 1 October 2026
+
+Universities, research institutions and ministries in South Sudan resolved on 14 October 2026 in Juba to set up the South Sudan Research and Education Network (SSuREN), UbuntuNet Alliance reported. The network is to buy connectivity jointly for its members and build shared services. The chief executives of UbuntuNet Alliance and Uganda's RENU attended the two-day meeting.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[BUP took part in the launching of a High Level Stakeholders Workshop for establishment of South Sudan Research and Education Network(SSUREN)](https://www.bucp.edu.ss/news/bup-took-part-in-the-launching-of-a-high-level-stakeholders-workshop-for-establishment-of-south-sudan-research-and-education-network-ssuren)** — Bentiu University of Petroleum, 20 October 2026
+
+Bentiu University of Petroleum says its vice chancellor signed the founding document of the South Sudan Research and Education Network (SSUREN) at a workshop in Juba on 13 and 14 October 2026. The higher education and ICT ministries organised the workshop. The university says the World Bank funds the project and the network should be operating in early 2027.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-14
 place: AGO
 ledger_rows: 30
 not_held: 6
-record: b1735a442709
+record: efeea671cf37
 ---
 
 # News, Oct – Nov 2026
@@ -520,7 +520,7 @@ Angola's President authorised USD 20 million, by a despacho reported on 22 Octob
 
 **[Cursos de STEM representam menos de 30% da oferta formativa](https://expansao.co.ao/universidade/detalhe/cursos-de-stem-representam-menos-de-30-da-oferta-formativa-76019.html)** — Expansão, 1 November 2026
 
-242 of 900 accredited courses STEM (27%) in 2026/27; 19,907 of 218,544 graduates in 2014-2024 were STEM (10%).
+Angola's higher education ministry lists 900 accredited university courses for 2026/27, of which 242, or 27%, are in science, technology, engineering and mathematics, Expansão reported in November 2026. Humanities, arts and social sciences account for 320 courses. Of 218,544 graduates between 2014 and 2024, 10% were in STEM fields.
 
 </div>
 
