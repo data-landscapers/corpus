@@ -3,18 +3,18 @@ title: Central Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-14
 period: 2025-11-01 to 2026-11-14
 place: XCA
-ledger_rows: 72
+ledger_rows: 73
 not_held: 0
-record: 9fab7f25cd3a
+record: 6c142839dc65
 ---
 
 # Central Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-14 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 72 bodies, instruments and systems on this place's ledger, 43 changed position between 2025-11-01 and 2026-11-14, 8 did not, 21 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 73 bodies, instruments and systems on this place's ledger, 43 changed position between 2025-11-01 and 2026-11-14, 8 did not, 22 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 133 sources for this place in the window — 34 in the earlier half (2025-11 to 2026-04), 99 in the later (2026-05 to 2026-11). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 135 sources for this place in the window — 34 in the earlier half (2025-11 to 2026-04), 101 in the later (2026-05 to 2026-11). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -153,6 +153,7 @@ The CEMAC additional act on free movement reached national implementing instruct
 | CEMAC payment services report | Published annually by the central bank | [Published for 2024 as the zone's statistical account of payment services (2026-04)](https://www.beac.int/wp-content/uploads/2026/04/RAPPORT-SUR-LES-SERVICES-DE-PAIEMENT-DANS-LA-CEMAC-2024-.pdf) | No change |
 | GIMACPAY interoperability platform | Live across the six member states with 91 participants by 2021, settling on a deferred net basis at the regional central bank | [The community's converged card, mobile and money-transfer interoperability platform, operated across the six member states by the regional interbank grouping and carrying 79 participants on the operator's own description](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf) | No change |
 | BEAC central bank digital currency | ***Baseline not held*** | [The regional central bank's governor met the IMF's Africa director on 14 September 2026 to define a banking model for the coming decade, naming a central bank digital currency among the priorities, framed as consolidating monetary sovereignty against private digital assets; no design, timetable or legal instrument is published](https://www.lepaystchad.com/46551-2/) | ***Baseline not held*** |
+| BEAC foreign-exchange reserves management system | ***Baseline not held*** | [The regional central bank is procuring, from its own funds, a system automating reserves management from dealing to settlement, with integrated risk analysis, audit trails, access controls and SWIFT connectivity](https://www.echosdeleco.com/articles/reserves-de-change-la-beac-veut-reprendre-la-main-sur-ses-outils-de-gestion) | ***Baseline not held*** |
 | Cashi payment platform in central Africa | ***Baseline not held*** | [A mobile, card-terminal and text-message payment rail designed for low-connectivity use, expanding into the region with development-finance backing and no amount stated, against 10 to 15 per cent of adults holding accounts](https://www.ifc.org/en/pressroom/2026/ifc-partners-with-cashi-to-expand-digital-payment-services-into-central-africa) | ***Baseline not held*** |
 | CEMAC interoperable instant payment system | ***Baseline not held*** | [The regional central bank governor counted the system's start-up among his term's work and set a goal that by the end of 2027 every transfer under CFA 5 million settles in under ten seconds across banks, microfinance and mobile money; no launch date or participant count is stated](https://www.guineaecuatorialpress.com/noticias/cemac_yvon_sana_bangui_hace_balance_de_la_transformacion_del_sistema_bancario_y_financiero_regional) | ***Baseline not held*** |
 | CEMAC payment institutions' operations | ***Baseline not held*** | [The zone's seven licensed payment institutions processed 4.6 billion operations worth FCFA 44,037bn in 2025, against 3.4 billion operations in 2024, on the banking commission's 2025 annual report, with cumulative net profit of FCFA 47.3bn against FCFA 31.5bn; two Cameroonian operators' services held 65.4% of the sector's net banking income, and the commission's first profile assessment rated one institution very fragile and found one, unnamed, short of capital requirements](https://ecomatin.net/cemac-le-mobile-money-brasse-44-000-milliards-fcfa-en-2025-et-genere-47-milliards-de-benefices-aux-operateurs) | ***Baseline not held*** |

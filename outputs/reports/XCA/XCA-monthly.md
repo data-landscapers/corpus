@@ -1,11 +1,11 @@
 ---
 title: Central Africa — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: XCA
-ledger_rows: 13
+ledger_rows: 14
 not_held: 0
-record: d4bdce10dee2
+record: 017f481436d0
 ---
 
 # News, Oct – Nov 2026
@@ -275,6 +275,28 @@ Central Africa's seven licensed payment institutions processed 4.6 billion opera
 **[Développement des paiements interopérables en Afrique : Le Gimac et Papss Card posent les bases de leur futur partenariat](https://lefinancierdafrique.com/open/2026/10/19/developpement-des-paiements-interoperables-en-afrique-le-gimac-et-papss-card-posent-les-bases-de-leur-futur-partenariat/)** — Le Financier d’Afrique, 19 October 2026
 
 GIMAC, the Central African interbank card network, and PAPSS Card agreed the practical terms of a partnership at working sessions in Yaoundé on 13 and 14 October 2026, with a convention to be signed in the following days. The plan would let GIMAC cards issued by CEMAC banks be accepted across the PAPSS network and PAPSS cards be used in the CEMAC zone, and the sessions produced a roadmap of priority actions, owners and deadlines. GIMAC's interim director general Guy Noël Londongo tied the move to the BEAC joining the AU-backed PAPSS system.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BEAC foreign-exchange reserves management system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BEAC - Avis de présélection : Sélection internationale restreinte avec présélection ouverte n°180/BEAC/DGEFRI-DOF/SIRP/Ser/2026 pour l'acquisition et l'implémentation d'un Système de Gestion des Réserves de Changes à la Banque des Etats de l'Afrique Centrale](https://www.beac.int/wp-content/uploads/2016/10/Avis-préselection_n°-180_26_Gestion-Réserves-de-Changes.pdf)** — Banque des Etats de l'Afrique Centrale (BEAC), 12 November 2026
+
+Own-funds RMS purchase; XAF 200m minimum financial capacity; five shortlisted at 80/100; dossiers due 17 Dec 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Réserves de change : la BEAC veut reprendre la main sur ses outils de gestion](https://www.echosdeleco.com/articles/reserves-de-change-la-beac-veut-reprendre-la-main-sur-ses-outils-de-gestion)** — Échos de l'Éco, 13 November 2026
+
+Pre-selection notice 12 Nov 2026; bids by 17 Dec; reserves FCFA 7,125bn end-August 2026; SWIFT-linked system.
 
 </div>
 
