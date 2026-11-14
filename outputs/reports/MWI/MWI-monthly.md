@@ -3,9 +3,9 @@ title: Malawi — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: MWI
-ledger_rows: 29
+ledger_rows: 30
 not_held: 29
-record: 7ccf160f12cc
+record: 81c50f385b9c
 ---
 
 # News, Oct – Nov 2026
@@ -348,6 +348,14 @@ The Malawi Revenue Authority said it is building a second integrated tax adminis
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[New taxes hit luxury shoppers](https://malawi24.com/2026/11/09/new-taxes-hit-luxury-shoppers/)** — Malawi24, 9 November 2026
+
+E-invoicing from May 2026: 8,890 taxpayers onboarded, August VAT up 44.4%; ITAS2 delivery targeted March 2028.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -357,6 +365,14 @@ The Malawi Revenue Authority said it is building a second integrated tax adminis
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
 **[MRA Credits ATAF Support for Tax Administration Reforms, Data Improvements](https://www.liberianobserver.com/business/mra-credits-ataf-support-for-tax-administration-reforms-data-improvements/article_46cb9644-8810-4649-be0a-d358dbf91606.html)** — Liberian Observer, 12 October 2026
+
+Summarised under [Sectoral management information systems](#sectoral-management-information-systems).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[New taxes hit luxury shoppers](https://malawi24.com/2026/11/09/new-taxes-hit-luxury-shoppers/)** — Malawi24, 9 November 2026
 
 Summarised under [Sectoral management information systems](#sectoral-management-information-systems).
 
@@ -387,6 +403,20 @@ The Unlocking Data Initiative reported in October 2026 on a session about educat
 **[From digital records to intelligent primary health care systems](https://www.path.org/our-impact/articles/from-digital-records-to-intelligent-primary-health-care-systems/)** — PATH, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 PATH reported in October 2026 on a Gates Foundation convening on electronic medical records held in Johannesburg in August. Malawi, Mozambique, Rwanda, Zambia and Zimbabwe took part. Malawi has designated 11 core national systems for government stewardship, and Mozambique is replacing a donor-funded HIV records system with a national platform.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Taxpayers registered on the Electronic Invoicing System</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[New taxes hit luxury shoppers](https://malawi24.com/2026/11/09/new-taxes-hit-luxury-shoppers/)** — Malawi24, 9 November 2026
+
+Summarised under [Sectoral management information systems](#sectoral-management-information-systems).
 
 </div>
 
