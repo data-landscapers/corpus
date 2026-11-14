@@ -1,12 +1,12 @@
 ---
 title: Eswatini: status report
-compiled: 2026-11-13
+compiled: 2026-11-14
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 232
+sources_cited: 233
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -205,7 +205,7 @@ The [World Bank-financed Digital Eswatini project was approved in 2025](https://
 
 [In October 2026 a bank-run wallet, ShareSha, let users register with a phone and an identity document and send money to any mobile number](https://times.co.sz/47252/news/sharesha-users-can-send-money-to-any-mobile-number/).
 
-[The Revenue Service has handled no cash at its offices since April 2021, when cash had fallen to 2% of tax transactions from 36% in 2018](https://doi.org/10.19088/ictd.2025.057). [It takes tax and customs payments by electronic transfer, mobile money, card and bank deposit](https://www.ers.org.sz/PaymentPage). [Returns for the 2025/26 tax year must be filed through eFiling, with other channels treated as non-compliance](https://swazidailynews.com/11962/business/ers-targets-multiple-income-earners-ahead-of-deadline/). [In September 2025, 35 post offices became payment points for government services](https://techafricanews.com/2025/09/26/eswatini-ministry-of-ict-unveils-post-office-based-government-service-payment-system/). [Payments out are only lightly digitised, against a target of digitising 80% of recurring government payments by 2028](https://afi-global.org/wp-content/uploads/2025/12/National-Fintech-Strategy-Digital.pdf). [On 9 October 2026 the ICT principal secretary said post offices would become community digital centres for authentication, verification and payments](https://eswatinipositivenews.online/govt-to-use-post-offices-as-community-digital-centres-ps-prince-mashishimba/).
+[The Revenue Service has handled no cash at its offices since April 2021, when cash had fallen to 2% of tax transactions from 36% in 2018](https://doi.org/10.19088/ictd.2025.057). [It takes tax and customs payments by electronic transfer, mobile money, card and bank deposit](https://www.ers.org.sz/PaymentPage). [In July 2026 it said its service centres no longer accept cash](https://swazi24.com/49246/business/tax/ers-urges-taxpayers-to-file-returns-early/). [Returns for the 2025/26 tax year must be filed through eFiling, with other channels treated as non-compliance](https://swazidailynews.com/11962/business/ers-targets-multiple-income-earners-ahead-of-deadline/). [In September 2025, 35 post offices became payment points for government services](https://techafricanews.com/2025/09/26/eswatini-ministry-of-ict-unveils-post-office-based-government-service-payment-system/). [Payments out are only lightly digitised, against a target of digitising 80% of recurring government payments by 2028](https://afi-global.org/wp-content/uploads/2025/12/National-Fintech-Strategy-Digital.pdf). [On 9 October 2026 the ICT principal secretary said post offices would become community digital centres for authentication, verification and payments](https://eswatinipositivenews.online/govt-to-use-post-offices-as-community-digital-centres-ps-prince-mashishimba/).
 
 [Licensing runs under the National Payment Systems Act 2023](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=CBE+prioritises+broader+digital+ecosystem&bvhdgsj=Business+and+Economy&yiphi=1848). [Regulations of 2026 on provider licensing, electronic money and consumer protection were before the Senate on 27 October 2026](https://eswatinipositivenews.online/finance-minister-warns-of-cryptocurrency-dangers/). [The Practice Note for Mobile Money Service Providers requires fee disclosure, written agreements, complaints handling, free hotlines and confidentiality](https://www.centralbank.org.sz/wp-content/uploads/2021/03/PracticeNoteforMMSP-FinalMarch2019.pdf). [Scheme governance runs through a National Payments Council with no reserved seats for consumers or small providers](https://www.centralbank.org.sz/wp-content/uploads/2021/03/NPSOversightPolicyFramework-March2019.pdf). [In 2025 refugees reached digital accounts only partly, on documents accepted by several banks and by MTN's mobile money](https://issuu.com/afi-global/docs/leveraging_digital_id_and_e-kyc_for_the_financial_/s/16368018). [Access points make no accommodation for persons with disabilities](https://gov.sz/images/FinalReport--NFIS--2023-2028.pdf).
 
