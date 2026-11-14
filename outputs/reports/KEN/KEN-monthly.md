@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-14
+period: 2026-10-01 to 2026-11-14
 place: KEN
-ledger_rows: 92
+ledger_rows: 93
 not_held: 5
-record: d336b4f56a6f
+record: b1cf28c780c3
 ---
 
 # News, Oct – Nov 2026
@@ -1443,6 +1443,20 @@ Microsoft plans to close the engineering department of its Africa Development Ce
 </nav>
 
 ### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University graduates in computing and ICT</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Education dominates Kenya's university graduate fields as STEM output declines](https://www.the-star.co.ke/news/2026-10-01-education-dominates-kenyas-university-degrees-as-stem-output-drops)** — The Star, 1 October 2026
+
+CUE 2025: 124,912 graduates; computing and ICT up to 9,635, natural sciences and maths down to 9,097; 3,834 in CS.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
