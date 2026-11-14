@@ -3,9 +3,9 @@ title: Benin — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: BEN
-ledger_rows: 36
+ledger_rows: 38
 not_held: 4
-record: 8e0cf930bb72
+record: 2832f7533d01
 ---
 
 # News, Oct – Nov 2026
@@ -91,6 +91,20 @@ Benin's Council of Ministers approved the government action programme (PAG) for 
 **[Benin Develops National Action Plan to Strengthen Education Data Production and Use](https://www.adeanet.org/en/news/benin-develops-national-action-plan-strengthen-education-data-production-use)** — ADEA, 6 November 2026
 
 ADEA and the Mastercard Foundation held an action-planning workshop in Cotonou on 3 and 4 November 2026 for the three Beninese ministries responsible for education. Participants set three priorities: data governance and policy, staff capacity, and digital platforms. Proposals include a National Education and Skills Data Commission, digitised school census tools and dashboards on the EducMaster platform.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National trade facilitation strategy (SNFE)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transit, transport et digitalisation : le Bénin engage quatre chantiers pour moderniser ses échanges commerciaux - LE MATINAL](https://lematinal.bj/transit-transport-et-digitalisation-le-benin-engage-quatre-chantiers-pour-moderniser-ses-echanges-commerciaux/)** — Le Matinal, 12 November 2026
+
+Four CNFE priorities: WTO TFA follow-up, single transit guarantee, GUCE-customs link, national strategy to cabinet.
 
 </div>
 
@@ -601,6 +615,8 @@ Benin's association of communes, ANCB, counted 35 software applications from 27 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
@@ -629,6 +645,22 @@ Nasuba described Benin's national services portal, service-public.bj, as it stoo
 **[Benin Targets 2027 Launch of Higher Education Artificial Intelligence Institute](https://www.wearetech.africa/en/fils-uk/news/tech/benin-targets-2027-launch-of-higher-education-artificial-intelligence-institute)** — wearetech.africa, 9 November 2026
 
 Benin's higher education minister, Sèdami Medegan Fagla, said Benin plans an AI Institute for Higher Education by 2027. She spoke at the rectors' conference in Cotonou on 5-6 November 2026. The institute is to offer dual degrees with partner universities.
+
+</div>
+
+</div>
+
+### ICT Industry
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-GATE e-commerce pilot for small businesses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
 
 </div>
 
