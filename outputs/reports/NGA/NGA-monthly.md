@@ -3,9 +3,9 @@ title: Nigeria — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: NGA
-ledger_rows: 108
+ledger_rows: 110
 not_held: 8
-record: 55fedb58f817
+record: b9f98a111762
 ---
 
 # News, Oct – Nov 2026
@@ -1356,6 +1356,20 @@ Google.org gave Nigerian health-technology firm Helium Health a US$2.5 million g
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">REV360 tax administration platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rev360: Reimagining tax administration for a digital Nigeria](https://guardian.ng/opinion/rev360-reimagining-tax-administration-for-a-digital-nigeria-2/)** — The Guardian Nigeria, 9 November 2026
+
+Five Rev360 channels named: staff workspace URCW, taxpayer TSSP, consultants' TCP, MDAs' GTP and a developers' portal.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">PlanFeld digital immunisation microplanning</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1473,6 +1487,20 @@ Nigeria's Adamawa State began its Civil Service Digitisation and Capacity Buildi
 **[Osun State Enters Partnership with UK on Digital Transformation Drive](https://www.osunstate.gov.ng/2026/11/osun-state-enters-partnership-with-uk-on-digital-transformation-drive/)** — osunstate.gov.ng, 10 November 2026
 
 The Osun State governor's office announced on 10 November 2026 an agreement on SPRIRET, a project of the UK-funded Digital Access Programme. It covers digital-economy policy, connectivity, digital public infrastructure and civic technology, and will be implemented by the Initiative for Digital Inclusion. No amount was stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Yobe State ban on cash revenue payments</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Yobe govt bans payments of revenue in cash, manual issuance of receipts](https://dailypost.ng/2026/11/12/yobe-govt-bans-payments-of-revenue-in-cash-manual-issuance-of-receipts/)** — Daily Post Nigeria, 12 November 2026
+
+Cash and manual receipts banned for every state tax, levy and fee; only e-receipts via approved channels count.
 
 </div>
 
