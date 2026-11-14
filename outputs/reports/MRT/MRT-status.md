@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 213
+sources_cited: 214
 sections_written: 39
 not_established: 1
 acquire_lines: 39
@@ -156,7 +156,7 @@ On 29 June 2026 [Mauritania launched a national government cloud](https://www.ec
 
 [In July 2021 UNDP delivered a costed proposal, at the government's request, for a standing state digital agency under the digital ministry](https://mtnima.gov.mr/wp-content/uploads/2024/05/20210916_PNUD_Proposition-ANETA_revised_clean-AN-Etat-1.pdf). [The national data strategy proposes revising the decree that created the Agence Numérique de l'État to make it the national interoperability operator](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf). [UNDP records that national stakeholders still need considerable capacity building to govern the open-source components of the e-ID system](https://www.undp.org/blog/mauritania-pilots-digital-id-app). [An external vendor built the system with a local partner](https://www.undp.org/blog/mauritania-pilots-digital-id-app).
 
-[Tertiary ICT and STEM provision rests on the University of Nouakchott Al Aasriya's Faculté des Sciences et Techniques, the École Supérieure Polytechnique and the Institut Supérieur du Numérique](https://mesrs.gov.mr/fr/etablissements) (2024). [Private providers such as Groupe ISI and ESPRI sit alongside them](https://mesrs.gov.mr/fr/etablissements).
+[Tertiary ICT and STEM provision rests on the University of Nouakchott Al Aasriya's Faculté des Sciences et Techniques, the École Supérieure Polytechnique and the Institut Supérieur du Numérique](https://mesrs.gov.mr/fr/etablissements) (2024). [Private providers such as Groupe ISI and ESPRI sit alongside them](https://mesrs.gov.mr/fr/etablissements). [UNESCO data put 34.6% of the country's tertiary graduates in science, technology, engineering and mathematics in 2020](https://www.fdiintelligence.com/content/b2e706db-620b-571a-a7e7-74a3dddfd75e).
 
 ### Cybersecurity
 <!-- infra.cybersec -->
