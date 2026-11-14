@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 216
+sources_cited: 217
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -341,7 +341,7 @@ Measured against comparators, the position is mid-table and unspectacular: Botsw
 
 The regulators' training in 2026 was run with outside partners: [BOCRA ran an IPv6 workshop with AFRINIC and ICT Dynamix (May 2026)](https://techreviewafrica.com/news/5530/bocra-leads-ipv6-training-initiative-to-strengthen-botswanas-digital-infrastructure), and [the ITU Development Bureau brought the regulators of Botswana, Malawi, Zambia and Zimbabwe together in Botswana for foundation GIS and data-management training under its Africa Broadband Maps project (June 2026)](https://techreviewafrica.com/news/5719/itu-bdt-drives-africa-broadband-maps-project-with-subregional-gis-training-in-southern-africa).
 
-Beneath that sits the domestic pipeline. [The University of Botswana's Computer Science department, established in 1992, enrols around 300 undergraduates and 20 postgraduates, and BIUST offers BSc degrees in Computer Science and Software Engineering and a BEng in Computer and Telecommunications Engineering (2024)](https://www.ub.bw/faculties-and-departments/science/computer-science).
+Beneath that sits the domestic pipeline. [The University of Botswana's Computer Science department, established in 1992, enrols around 300 undergraduates and 20 postgraduates, and BIUST offers BSc degrees in Computer Science and Software Engineering and a BEng in Computer and Telecommunications Engineering (2024)](https://www.ub.bw/faculties-and-departments/science/computer-science). [Science, technology, engineering and mathematics took 30.1% of tertiary enrolment in 2024, down from 32.1% in 2023](https://www.hrdc.org.bw/web/sites/default/files/2025-12/hrdc_tertiary_education_report_2024_version_5-4.pdf).
 
 Demand is being stated faster than it is being met. [The Chief Justice committed in January 2026 to training judges for AI-driven cases and deepfake evidence](https://www.mmegi.bw/news/judges-courts-must-embrace-ai-driven-cases-cj/news), and [China's ambassador offered artificial-intelligence cooperation including talent training in August 2026, naming no project, counterparty or sum](http://www.focac.org/zfzs/202608/t20260824_12009277.htm).
 
