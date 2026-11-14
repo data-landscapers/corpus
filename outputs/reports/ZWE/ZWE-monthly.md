@@ -3,9 +3,9 @@ title: Zimbabwe — News, Oct – Nov 2026
 compiled: 2026-11-14
 period: 2026-10-01 to 2026-11-14
 place: ZWE
-ledger_rows: 36
+ledger_rows: 38
 not_held: 5
-record: a4f3c6cfa836
+record: 6764269e170a
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: a4f3c6cfa836
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -369,6 +371,8 @@ Summarised under [Cybersecurity](#cybersecurity).
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
@@ -377,6 +381,30 @@ Summarised under [Cybersecurity](#cybersecurity).
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health information exchange</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[HIE Architecture, Core Platform Configuration, Mediators & Secure Channels](https://www.ungm.org/Public/Notice/322513)** — UNDP Zimbabwe (via UN Global Marketplace), 13 November 2026
+
+UNDP-ZWE-02187; published 13 Nov 2026, closes 18 Nov; architecture, mediators and secure channels for HIE.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Shared Health Record and National Registry Interconnections with HIE](https://www.ungm.org/Public/Notice/322512)** — UNDP Zimbabwe (via UN Global Marketplace), 13 November 2026
+
+UNDP-ZWE-02188; FHIR profiles and secure APIs to link shared health record and national registries; closes 18 Nov.
+
+</div>
+
+</div>
 
 ### Digital Payments and Fintech
 
@@ -611,6 +639,28 @@ The Eight2Five Innovation Hub in Zimbabwe published its newsletter for the third
 **[POTRAZ says it is now a gateway for investors, not a gatekeeper](https://www.heraldonline.co.zw/potraz-says-it-is-now-a-gateway-for-investors-not-a-gatekeeper/)** — The Herald (Zimbabwe), 29 October 2026
 
 Zimbabwe's regulator POTRAZ now licenses services, not technologies, and uses its Universal Service Fund to fund early-stage ventures, director-general Gift Machengete said in Harare on 29 October 2026. He said the fund's Innovation Drive Programme has backed more than 100 innovations. Its AI for Impact programme drew over 700 applications in 2026 and advanced 16.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Logistics Youth Training Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DHL, Zimbabwe train digital youth](https://itweb.africa/article/dhl-zimbabwe-train-digital-youth/mYZRXM9gKGAvOgA8)** — ITWeb Africa, 13 November 2026
+
+Three-month programme; Zimpost digital centres; POTRAZ laptops; WFP, BAK Logistics, Teach for Zimbabwe partners.
 
 </div>
 
