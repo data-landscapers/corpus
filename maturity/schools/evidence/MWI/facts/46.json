@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-30-mwi-transforming-education-data-systems-in-malawi-udi-implements-a-dhis2-b",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "kept",
+   "value": "routine",
+   "fact": "Unlocking Data Initiative Malawi says the piloted DHIS2 EMIS has live modules for teacher and learner attendance, enrolment and transfers, with an offline Android app for rural schools.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "DHIS2-based Education Management Information System",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "schools",
+   "value": "pilot",
+   "fact": "The post says the platform is being piloted in Dedza and Machinga.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "DHIS2-based Education Management Information System",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "governance",
+   "value": "owner:partner",
+   "fact": "The system is launched by Unlocking Data Initiative Malawi in partnership with HISP-UNIMA at the University of Malawi.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "DHIS2-based Education Management Information System",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2-based Education Management Information System",
+   "country_label": "Malawi",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "UDI Malawi with HISP-UNIMA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

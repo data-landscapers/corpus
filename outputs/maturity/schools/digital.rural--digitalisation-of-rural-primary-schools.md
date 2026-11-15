@@ -25,8 +25,8 @@ The African Union's Digital Education Strategy (2022), fourth objective: a move 
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 20 |
-| 2 Nascent | 20 |
-| 1 Absent | 2 |
+| 2 Nascent | 21 |
+| 1 Absent | 1 |
 | Unplaced | 11 |
 | No evidence | 1 |
 
@@ -142,6 +142,7 @@ Primary and secondary schools register each pupil on the national system (2026);
 - The white paper states that NEMIS's modules capture learners, institutions, finances and teachers for all basic education institutions, primary and secondary; no date is given, so the publication date is used ([source, 2024-05](https://developmentgateway.org/wp-content/uploads/2024/06/WHITEpaperENG809.pdf)).
 - The World Bank's status report states that learners are registered individually in NEMIS, the birth certificate number being used to generate each student's UPI, and that registration drives capitation grants; it does not say who keys the registration or when in the year ([source, 2024-03-15](https://documents1.worldbank.org/curated/en/099041724160510814/pdf/P176867127c2460bf1bdec12180716a1d7f.pdf)).
 - The World Bank reports that registration of primary school learners in NEMIS is about 60 per cent and of secondary school learners above 98 per cent, and that NEMIS data is used to disburse capitation to primary, junior and secondary schools ([source, 2024-03-15](https://documents1.worldbank.org/curated/en/099041724160510814/pdf/P176867127c2460bf1bdec12180716a1d7f.pdf)).
+- KEMIS had captured about 5.057 million primary school learners as at 10 November 2026, per ministry official Mujumba Obwoyere ([source, 2026-11-10](https://nation.africa/kenya/news/education/ghost-students-puzzle-of-2-million-primary-school-learners-missing-from-ministry-records-5667184)).
 
 ### Morocco: 3 Established
 
@@ -229,14 +230,16 @@ In 2025, 58.9% of all primary schools uploaded pupils' enrolment details to the 
 
 ### Zimbabwe: 3 Established
 
-The ministry said in 2026 its system tracks each pupil's absence and grades; no source found says how many primary schools enter them.
+Schools enter each pupil's absence and grades, all public schools in one province by 2026; how many primary schools nationally do so is not known.
 
 *Advancing.*
 
 - The education ministry's spokesperson says an Early Warning System, now integrated into EMIS, flags individual learners by tracking persistent absenteeism and falling grades and produces a real-time list of learners absent for extended periods; the document does not say who enters the attendance or grades, or where. No date is given, so the publication date is used ([source, 2026-06-15](https://www.newzimbabwe.com/zimbabwe-targets-to-re-enrol-out-of-school-learners-as-40000-dropped-out-in-2025-alone/)).
 - The ministry's EMIS report counts 39,736 learners who dropped out in 2025, 13,032 at primary and 26,704 at secondary level, and the ministry describes the learner-level Early Warning System in EMIS without limiting it to either level ([source, 2025](https://www.newzimbabwe.com/zimbabwe-targets-to-re-enrol-out-of-school-learners-as-40000-dropped-out-in-2025-alone/)).
-- The document gives no number or share of schools whose learners' attendance or grades are in the Early Warning System; no date is given, so the publication date is used ([source, 2026-06-15](https://www.newzimbabwe.com/zimbabwe-targets-to-re-enrol-out-of-school-learners-as-40000-dropped-out-in-2025-alone/)).
 - The ministry's spokesperson says the Early Warning System is 'now integrated' into EMIS and is being rolled out with re-entry and community tracing, and that the government will keep strengthening it; the integration is not dated, so the publication date is used ([source, 2026-06-15](https://www.newzimbabwe.com/zimbabwe-targets-to-re-enrol-out-of-school-learners-as-40000-dropped-out-in-2025-alone/)).
+- The revised EMIS is administered at school level and run by the Ministry of Primary and Secondary Education, whose provincial focal person describes it, with GPE US$2.9m (2023-2026) and UNICEF implementation support ([source, 2026-11-11](https://www.globalpartnership.org/blog/data-systems-transform-zimbabwes-schools)).
+- The ministry's Masvingo provincial EMIS focal person says all 1,444 public schools in Masvingo Province use the new EMIS, and 12,324 schools nationwide have been equipped to use it ([source, 2026-11-11](https://www.globalpartnership.org/blog/data-systems-transform-zimbabwes-schools)).
+- The blog reports the revised EMIS replacing paper-based records at schools such as Masvingo Government Primary School, with 12,324 schools equipped nationwide ([source, 2026-11-11](https://www.globalpartnership.org/blog/data-systems-transform-zimbabwes-schools)).
 
 ### Burkina Faso: 2 Nascent
 
@@ -246,6 +249,7 @@ A national pupil register was in pilot in 2024 and enrolment had not begun by Ju
 - LuxDev's programme sheet says that in 2023 all (100 per cent) of the establishments in the pilot phase of FIUE-BF had moved online enrolment, publication of school results and production of school identity cards off paper; it gives no number of establishments and does not say whether they are primary or secondary ([source, 2023](https://luxdev.lu/sites/default/files/upload/media/document/2025-04/Fiche_BKF025.pdf)).
 - La Tribune du Faso, from the digital transition ministry's communications office, reports that on 25 June 2025 the two ministers reviewed work on the national pupil file, online enrolment and school identity cards, with a roadmap still awaited and progressive enrolment of pupils due to start at the next school year; no school is said to be using it ([source, 2025-06-25](https://www.latribunedufaso.net/?p=21538)).
 - The World Bank appraisal document of 14 April 2025 states that the project will support the design and deployment of a centralised digital platform for student management and monitoring, with a smartphone application for data collection at school level and a web interface for the central administration; it is still to be designed and no school is said to use it ([source, 2025-04-14](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2025-04-program-document-system-transformation-grant-burkina-faso.pdf)).
+- KIX-SEEDS says the system runs in the pilot communes of Manga and Bingo, with extension to several regions still planned ([source, 2026-05-02](https://seeds.bf/post_detail/4d824034-e6d1-4182-acf5-b8088d4a5a42)).
 
 ### Congo: 2 Nascent
 
@@ -303,9 +307,12 @@ Pupil records from one region's schools were entered at a regional office in a 2
 
 ### Lesotho: 2 Nascent
 
-A 2018 pilot tracked individual pupils in one hundred schools; no source found gives their level or says whether it still runs.
+A 2018 pilot tracked pupils in 100 schools, and in 2026 secondary schools reported through a ministry system; no source says primary schools use one.
+
+*Advancing.*
 
 - Development Gateway's diagnostic for UNICEF Lesotho says the OpenEMIS rollout is beginning with a 2018 pilot tracking individual learners in one hundred low-performance schools, attached to a World Bank project; it does not give the schools' level or say who enters the records ([source, 2018](https://developmentgateway.org/wp-content/uploads/2020/10/UNICEF_Lesotho_Diagnostic.pdf)).
+- The brief says all 365 secondary schools report through DHIS2 for Education (LEMIS), and a training of 30 September to 4 October 2026 covered individual teacher records, class management and attendance ([source, 2026-10](https://www.iped.africa/news-event/from-data-entry-to-data-leadership-lessons-from-lesothos-dhis2-for-education-training)).
 
 ### Madagascar: 2 Nascent
 
@@ -317,6 +324,16 @@ A pilot gave 180,000 pupils in one district a permanent number in 2026; no sourc
 - Learners are enrolled digitally, once, to receive the identifier, in an operation the article calls a digital census of learners launched at a public lower-secondary school; it does not say who keys the record and describes no entry of attendance or results during the year ([source, 2026-05-11](https://2424.mg/education-le-suivi-scolaire-passe-a-lere-digitale-avec-le-numero-unique-didentification-pour-chaque-eleve/)).
 - The pilot phase in the Atsimondrano school district enrolled 180,000 learners from 792 public and private establishments of all levels between March and April 2026; no total of establishments in the district is given and primary schools are not counted apart ([source, 2026-04](https://2424.mg/education-le-suivi-scolaire-passe-a-lere-digitale-avec-le-numero-unique-didentification-pour-chaque-eleve/)).
 - The scale-up after the pilot was launched on 11 May 2026 at the Collège d'enseignement public of Ambodifarihy (Ambatolampy district, Vakinankaratra), with a ministry target of enrolling 4.2 million learners from 19,303 public and private establishments in 48 school districts and 17 regions by 12 June 2026; the figure is a target, not a result ([source, 2026-05-11](https://2424.mg/education-le-suivi-scolaire-passe-a-lere-digitale-avec-le-numero-unique-didentification-pour-chaque-eleve/)).
+
+### Malawi: 2 Nascent
+
+A digital pupil record with attendance was piloted in four schools in two districts in 2026; elsewhere records stay on paper; no rollout is known.
+
+*Advancing.*
+
+- Unlocking Data Initiative Malawi says the piloted DHIS2 EMIS has live modules for teacher and learner attendance, enrolment and transfers, with an offline Android app for rural schools ([source, 2026-07-30](https://www.linkedin.com/posts/unlocking-data-initiative-udi_transforming-education-data-systems-in-malawi-activity-7488488777280151552-3Td2)).
+- The post says the platform is being piloted in Dedza and Machinga ([source, 2026-07-30](https://www.linkedin.com/posts/unlocking-data-initiative-udi_transforming-education-data-systems-in-malawi-activity-7488488777280151552-3Td2)).
+- The newsletter says the DHIS2-based cohort tracking prototype, using KoboCollect for offline data entry, is running in four pilot schools in Machinga and Dedza districts, with validation due by end-June 2026 ([source, 2026-05](https://unlockingdata.africa/wp-content/uploads/2026/05/Unlocking-DATA-NEWSLETTER-May-edition-2.pdf)).
 
 ### Mali: 2 Nascent
 
@@ -420,12 +437,6 @@ The Ministry said in 2026 that its school data system is paper-based and a per-p
 
 - The Ministry of Education's Director for Planning, Monitoring and Evaluation pointed to the limitations of the existing paper-based system and called for a transition to a digitised EMIS, at the 28-29 September 2026 consultation; no school count is given ([source, 2026-09-29](https://www.liberianobserver.com/news/moe-pushes-for-real-time-school-data-system/article_8b8f6a05-6bcd-4adb-9460-d004f8f07b16.html)).
 - The Deputy Minister for Administration said the Ministry still relies largely on periodic data collection and that systems at individual schools feeding student and teacher attendance to a central dashboard are a goal not yet reached, at the close of the 28-29 September 2026 consultation ([source, 2026-09-29](https://www.liberianobserver.com/news/moe-pushes-for-real-time-school-data-system/article_8b8f6a05-6bcd-4adb-9460-d004f8f07b16.html)).
-
-### Malawi: 1 Absent
-
-Schools kept each pupil's record in paper registers made by hand in 2026; no source found says whether any digital record is being prepared.
-
-- The Unlocking Data Initiative's policy brief says cohort tracking, which gives each pupil a Learner Identification Number on entry to school, rests on paper records and several manual registers (class attendance and performance, master enrolment, admission) that schools now make themselves, and it recommends digitising the cohort tracking data; no date is given, so the brief's publication month is used ([source, 2026-05](https://www.gpekix.org/sites/default/files/2026-07/Saddick%20et%20al.%20-%202026%20-%20From%20Data%20Collection%20to%20Data%20Use%20Strengthening%20decision-making%20at%20subnational%20levels%20in%20Malawi.pdf)).
 
 ### Angola: Unplaced
 

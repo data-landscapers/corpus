@@ -1,6 +1,20 @@
 {
   "iso3": "ZWE",
   "cells": [
-    {"sub_indicator": "emis", "stage": "3", "governance": "owner:ministry", "levels": "P;S", "kept": "routine", "last12": "advancing", "schools": "not-published", "cap": "", "flags": "advancing", "stage_sources": "ZWE-001;ZWE-002;ZWE-004;ZWE-005", "gaps": "The source does not say who enters the attendance and grades or where, and gives no count or share of schools in the Early Warning System; the stage rests on one news report of June 2026. It disagrees with the older facts (ZWE-007 of 2019, ZWE-008 of 2022), which state no learner-level system; the newest stands. No plan or finance has been found, and ZWE-006 is from the excluded source and sets nothing.", "note": "The ministry describes a learner-level system tracking absence and grades at both levels as integrated into EMIS and being rolled out, which is live use past a pilot with no figure published. Stage 4 needs more than half of primary schools entering attendance or results on a share or a count with its total, and none is held."}
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "levels": "P;S",
+      "kept": "routine",
+      "last12": "advancing",
+      "schools": "count:1444",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "ZWE-001;ZWE-002;ZWE-005;ZWE-009;ZWE-010;ZWE-011",
+      "gaps": "No national share of primary schools entering attendance or results is held: the 1,444 schools using the revised EMIS are all the public schools of one province, Masvingo, and the 12,324 nationwide are schools equipped to use it, which places by the lower rung (ZWE-010, November 2026). Neither source says how often attendance or grades are entered. The older facts (ZWE-007 of 2019, ZWE-008 of 2022) state no learner-level system; the newest stand. Finance stated is GPE's US$2.9m (2023-2026) with UNICEF support, and no plan naming the system has been found; ZWE-006 is from the excluded source and sets nothing.",
+      "note": "The ministry's revised EMIS is administered at school level, tracks each learner's absence and grades, and is in use in every public school of Masvingo, which is live use past a pilot. Stage 4 needs more than half of primary schools nationally entering attendance or results on a share or a count with its total, and the national figure is of schools equipped.",
+      "as_at": "2026-11-15"
+    }
   ]
 }

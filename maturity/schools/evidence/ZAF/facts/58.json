@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-05-zaf-learner-unit-record-information-and-tracking-system-data-2024",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "levels",
+   "value": "P;S",
+   "fact": "DataFirst states LURITS covers learners from Grade R to Grade 12, entered by school principals in the SA-SAMS LURITS module four times a year.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Learner Unit Record Information and Tracking System",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "DataFirst names the Department of Basic Education as producer and data collector of LURITS and provider of SA-SAMS free to all schools.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "Learner Unit Record Information and Tracking System",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LURITS",
+   "country_label": "Learner Unit Record Information and Tracking System",
+   "class": "emis",
+   "platform": "SA-SAMS",
+   "owner": "Department of Basic Education",
+   "tiers": "school;district;national"
+  }
+ ],
+ "note": ""
+}

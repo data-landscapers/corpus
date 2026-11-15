@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-31-tgo-using-dhis2-to-plan-teacher-deployment-and-school-construction-in-togo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "StatEduc",
+   "country_label": "StatEduc annual school census 2026",
+   "class": "census",
+   "platform": "StatEduc",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Schools record on paper forms keyed by inspectorates into StatEduc once a year: a census, noted not assessed; no per-learner record kept at the school is stated."
+}

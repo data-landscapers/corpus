@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-06-tza-assessing-the-performance-of-primary-school-information-management-sys",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "levels",
+   "value": "P",
+   "fact": "The Mmole and Banele study assesses the PReM primary school information management system, used for student data collection, at two public primary schools (Mtoni Kijichi and Bwawani) in Temeke, Dar es Salaam.",
+   "as_of": "2024-11-06",
+   "date_precision": "day",
+   "system": "PReM",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PReM (Primary School Information Management System)",
+   "country_label": "Tanzania",
+   "class": "emis",
+   "platform": "",
+   "owner": "NECTA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

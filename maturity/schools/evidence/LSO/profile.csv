@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,emis,governance,qualifier,owner:ministry;finance:donor,2018,LSO-005;LSO-006,,nothing dated since 2023-09-28
-LSO,emis,levels,coverage,,,,,nothing held
-LSO,emis,kept,coverage,,,,,nothing held
-LSO,emis,last12,qualifier,,,,,nothing held
-LSO,emis,schools,coverage,pilot,2018,LSO-004,,nothing dated since 2023-09-28
+LSO,emis,governance,qualifier,owner:ministry;finance:donor,2026-10,LSO-006;LSO-008,LSO-005=owner:ministry,not stated: plan
+LSO,emis,levels,coverage,S,2026-10,LSO-007,,
+LSO,emis,kept,coverage,,,,,nothing found
+LSO,emis,last12,qualifier,,,,,nothing found
+LSO,emis,schools,coverage,pilot,2018,LSO-004,,nothing dated since 2023-11-15

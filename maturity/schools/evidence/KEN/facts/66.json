@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-12-ken-ghost-students-puzzle-of-2-million-primary-school-learners-missing-fro",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "levels",
+   "value": "P",
+   "fact": "KEMIS had captured about 5.057 million primary school learners as at 10 November 2026, per ministry official Mujumba Obwoyere.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "KEMIS",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Ministry of Education deploys and oversees KEMIS, said official Mujumba Obwoyere, and schools must capture learners in it to receive capitation.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "KEMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KEMIS",
+   "country_label": "Kenya",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2025-06-03-ken-serikali-yatupa-nemis-ya-uhuru-yazindua-kemis-kusajili-wanafunzi-gredi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NEMIS",
+   "country_label": "Kenya",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  },
+  {
+   "system": "KEMIS",
+   "country_label": "Kenya",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "The article does not say schools enter records during the year, so the systems are unclassified for this study."
+}

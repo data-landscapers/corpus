@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-08-ssd-using-edtech-to-monitor-enrolment",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "governance",
+   "value": "owner:partner",
+   "fact": "Girls' Education South Sudan says its staff collect enrolment data on tablets that sync to SAMS from 2023, in GESS-supported schools.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Schools' Attendance Monitoring System (SAMS)",
+   "class": "emis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

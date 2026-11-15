@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-02-bfa-actualites-kix-seeds-burkina-faso",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "kept",
+   "value": "routine",
+   "fact": "KIX-SEEDS says teachers in its pilot enter pupils' marks in an offline-capable Android app and report cards are produced the day of entry, while school heads follow attendance and performance in real time.",
+   "as_of": "2026-05-02",
+   "date_precision": "day",
+   "system": "KIX-SEEDS platform",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "schools",
+   "value": "pilot",
+   "fact": "KIX-SEEDS says the system runs in the pilot communes of Manga and Bingo, with extension to several regions still planned.",
+   "as_of": "2026-05-02",
+   "date_precision": "day",
+   "system": "KIX-SEEDS platform",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KIX-SEEDS platform",
+   "country_label": "Burkina Faso",
+   "class": "emis",
+   "platform": "seeds.bf",
+   "owner": "ISSP / Universite Joseph KI-ZERBO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

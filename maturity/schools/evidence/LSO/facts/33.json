@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-01-lso-from-data-entry-to-data-leadership-lessons-from-lesotho-s-dhis2-for-ed",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "levels",
+   "value": "S",
+   "fact": "The brief says all 365 secondary schools report through DHIS2 for Education (LEMIS), and a training of 30 September to 4 October 2026 covered individual teacher records, class management and attendance.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "LEMIS",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The brief names the Ministry of Education and Training as running LEMIS, with AU-IPED and JMERC giving training support under GPE-KIX.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "LEMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LEMIS (DHIS2 for Education)",
+   "country_label": "Lesotho",
+   "class": "emis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Education and Training",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

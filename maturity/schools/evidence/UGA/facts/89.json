@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-19-uga-private-schools-on-the-spot-for-delayed-digital-registration",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Observer reports that the Education ministry's commissioner of Education Planning, Robert Bellarmine Okudi, speaks for the ministry running the EMIS, which institutions must use to register learners, staff and infrastructure.",
+   "as_of": "2024-10-19",
+   "date_precision": "day",
+   "system": "EMIS",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "schools",
+   "value": "count:43892",
+   "fact": "Ministry figures cited by The Observer give 43,892 primary schools (12,579 government, 31,313 private) registered on EMIS at 3 October 2024, with a 59.6% non-response rate among private primary schools and 0.2% among public.",
+   "as_of": "2024-10-03",
+   "date_precision": "day",
+   "system": "EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "Education Management Information System",
+   "class": "emis",
+   "platform": "web-based",
+   "owner": "Ministry of Education and Sports",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

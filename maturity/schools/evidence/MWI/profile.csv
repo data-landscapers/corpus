@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,emis,governance,qualifier,,,,,nothing held
-MWI,emis,levels,coverage,,,,,nothing held
-MWI,emis,kept,coverage,paper,2026-05,MWI-004,,
+MWI,emis,governance,qualifier,owner:partner,2026-07-30,MWI-008,,"not stated: plan, finance"
+MWI,emis,levels,coverage,,,,,nothing found
+MWI,emis,kept,coverage,routine,2026-07-30,MWI-006,MWI-004=paper,
 MWI,emis,last12,qualifier,no-change,2026-05,MWI-005,,
-MWI,emis,schools,coverage,,,,,nothing held
+MWI,emis,schools,coverage,pilot,2026-07-30,MWI-007;MWI-009,,

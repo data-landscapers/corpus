@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-01-zaf-theme-1-introduction-and-awareness-introduction-to-sa-sams-modernisati",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Department of Basic Education's governance committees agreed to implement OpenEMIS to modernise SA-SAMS, with a DBE EMIS team to support it.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "SA-SAMS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SA-SAMS",
+   "country_label": "South Africa",
+   "class": "emis",
+   "platform": "OpenEMIS",
+   "owner": "Department of Basic Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
