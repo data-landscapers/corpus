@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-lso-above-1-000m-can-starlink-resellers-solve-lesotho-s-connectivity-probl",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Capacity says Lesotho has no subsea landing and its international traffic reaches global networks through terrestrial links across the border into South Africa.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "terrestrial cross-border links",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

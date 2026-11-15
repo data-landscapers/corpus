@@ -1,16 +1,17 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "3",
-   "routes": "two",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-001",
-   "gaps": "No source found says two of the routes land at different stations, or run through two different neighbours.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "3",
+      "routes": "two",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-001;LSO-003",
+      "gaps": "No source found says Lesotho's routes run through two different neighbours: the November 2026 source sends all its international traffic across the border into South Africa. No source says other operators buy capacity on them.",
+      "note": "Reassessed 2026-11-15: operators reach WACS, EASSy and SEACOM through South Africa (LSO-001, 2016), and a November 2026 source says the traffic still crosses only into South Africa (LSO-003). Two or more routes through one neighbour, so not 4.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

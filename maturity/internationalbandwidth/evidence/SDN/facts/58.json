@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-11-sdn-sudanese-telecoms-crisis-escalating",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The Emergency Telecommunication Cluster says it manages and expands connectivity from a dedicated 1G undersea cable providing fibre connectivity to multiple locations in Sudan.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "dedicated 1G undersea cable",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

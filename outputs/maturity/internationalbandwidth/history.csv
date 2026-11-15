@@ -64,3 +64,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,TCD,infra.connect--international-internet-bandwidth,fact,2,3,TCD-009;TCD-007,"Southwood (November 2026) gives two fibre routes through Cameroon to Kribi, newer than the minister's one access: 2 to 3."
 2026-11-12,MRT,infra.connect--international-internet-bandwidth,fact,2,2,MRT-001;MRT-009;MRT-004,Moov Mauritel's 1 May 2026 statement that the West Africa cable is in operation is older than Ecofin's 5 May report of ACE alone: held at 2.
 2026-11-13,TCD,infra.connect--international-internet-bandwidth,fact,3,3,TCD-009;TCD-007,"Minister at PP-26 says links with Cameroon and Sudan completed; not stated in service against Southwood and the October statement, so stage 3 holds"
+2026-11-15,LSO,infra.connect--international-internet-bandwidth,fact,3,3,LSO-001;LSO-003,"Capacity (Nov 2026) says Lesotho's international traffic crosses only into South Africa; routes stay two through one neighbour, stage 3 held"

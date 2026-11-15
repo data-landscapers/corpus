@@ -272,9 +272,10 @@ Two or more fibre routes abroad by 2026; no source found says whether two are in
 
 ### Lesotho: 3 Established
 
-Two or more fibre routes abroad by 2016; no source found says whether two are independent of each other.
+Two or more cable routes abroad, all through South Africa in 2026; whether other operators buy capacity on them is not known.
 
 - The LCA/ITU sector review (data collected August 2016) states that Lesotho's operators draw international bandwidth from the WACS, EASSy and SEACOM cables, which Lesotho, being landlocked, reaches via South Africa: Vodacom Lesotho via its group's ownership of WACS and EASSy, Econet Telecom Lesotho via SEACOM and EASSy capacity through Liquid Telecom's terrestrial fibre ([source, 2016](https://lca.org.ls/wp-content/uploads/filr/2334/Final%20Integrated%20Report%2013022018.pdf)).
+- Capacity says Lesotho has no subsea landing and its international traffic reaches global networks through terrestrial links across the border into South Africa ([source, 2026-11-12](https://capacityglobal.com/news/above-1000m-can-starlink-resellers-solve-lesothos-connectivity-problem/)).
 
 ### Liberia: 3 Established
 

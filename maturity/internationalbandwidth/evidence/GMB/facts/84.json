@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-12-gmb-pura-hosts-watra-meeting-to-boost-digital-transformation-in-w-africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The Permanent Secretary says the ACE submarine cable landed in The Gambia in 2012; a second cable is funded but expected only by the end of 2025.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "ACE Submarine Cable",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
