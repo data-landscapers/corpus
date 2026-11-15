@@ -9,10 +9,10 @@
       "audit": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZWE-005",
+      "stage_sources": "ZWE-005;ZWE-009",
       "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
-      "note": "Reassessed 2026-11-01: the government-commissioned National Information Access Centre at Zimbabwe Open University holds assistive devices for students with disabilities (2026); the librarians' workshop is training and is not counted. No audit result is held, so not 5.",
-      "as_at": "2026-11-01"
+      "note": "Reassessed 2026-11-15: the Postal and Telecommunications Amendment Bill, 2025 would widen the Universal Service Fund for ICT access by persons with disabilities, which is intent beside a policy already in force; the National Information Access Centre at Zimbabwe Open University holds assistive devices (2026). No audit result is held, so not 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

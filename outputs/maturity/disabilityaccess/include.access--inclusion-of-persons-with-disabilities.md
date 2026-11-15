@@ -108,6 +108,7 @@ Zambian law requires sign language or subtitles in television newscasts, and ZIC
 Accessible digital services or assistive technology were delivered to persons with disabilities in 2026; no audit is published.
 
 - The Herald reports the government-commissioned National Information Access Centre at Zimbabwe Open University includes an inclusive library with assistive technologies, and the vice chancellor says it has smart boards and assistive devices for students with disabilities ([source, 2026-03-20](https://www.heraldonline.co.zw/minister-shava-launches-ai-hub-at-zimbabwe-open-university/)).
+- The Herald says the National ICT Policy (2022-2027) requires Government digital platforms to progressively meet international accessibility standards, and that advocates see few enforceable standards ([source, 2026-07](https://www.heraldonline.co.zw/digital-inclusion-the-next-frontier-for-disability-rights-in-zimbabwe/)).
 
 ### Algeria: 3 Established
 

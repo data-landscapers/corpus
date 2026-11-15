@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-18-rwa-leveraging-interoperability-for-social-impact-in-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "The deck lists the Assistive Devices programme for people with disabilities, led by the National Council of People with Disabilities, as covering 5,943 people who received assistive devices.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "Assistive Devices programme",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

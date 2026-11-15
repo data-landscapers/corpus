@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-14-orange-egypte-parquet-general-services-numeriques-ia",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Orange Egypt says its cooperation with the Social Solidarity Ministry and the Public Prosecution to ease persons with disabilities' electronic access to services continues in phase two.",
+   "as_of": "2026-11-14",
+   "date_precision": "day",
+   "system": "Public Prosecution digital services for persons with disabilities",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
