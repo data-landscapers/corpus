@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-20-lbr-building-liberia-household-social-registry",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "The article says the LHSR and its MIS are used by three government-led social protection programmes.",
+   "as_of": "2024-05-20",
+   "date_precision": "day",
+   "system": "Liberia Household Social Registry (LHSR)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia Household Social Registry (LHSR)",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

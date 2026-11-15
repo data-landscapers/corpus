@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "2",
-      "exchange": "underway",
+      "stage": "3",
+      "exchange": "inservice",
       "registry": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-001",
-      "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
-      "note": "Rebuild: the solidarity ministry's unified platform was in pilot to March 2026, with database integration under verification (DZA-001). No exchange in use is held, so not 3.",
-      "as_at": "2026-11-13"
+      "stage_sources": "DZA-002;DZA-003",
+      "gaps": "No source found since October 2023 says two or more programmes share one registry, or that a registry is linked to another sector.",
+      "note": "In April 2026 the CNAS and CNR social security funds exchanged data in use through the national identification number (DZA-002, DZA-003), so 3. No programmes are said to draw on one shared registry, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

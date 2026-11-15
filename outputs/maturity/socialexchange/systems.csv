@@ -103,11 +103,13 @@ DJI,Social Registry,Djibouti,exchange,,Ministry of Social Affairs and Solidariti
 DJI,ANSIE,Djibouti,other,,,,2025-03-14-wb-dji-007-djibouti-integrated-community-resilience-project
 DJI,système d'interopérabilité (DGPF),Djibouti,exchange,,Direction générale de la Population et de la Famille,social protection bodies named among users,2026-07-23-lanation-dgpf-administration-modernisee-interconnectee
 DZA,National digital services portal of the National Solidarity sector,Algeria,exchange,,"Ministry of National Solidarity, Family and the Status of Women, with the High Commission for Digitalization",,2026-03-12-dzair-tube-solidarity-digital-platform-pilot
+DZA,Dzaïr Digital Services,Algeria,other,national portal,,,2026-04-05-dza-securite-sociale-la-cnas-lance-de-nouveaux-services-pour-les-employeur
 EGY,Takaful and Karama programme (TKP) social registry,Egypt,exchange,,Ministry of Social Solidarity (implementing agency); Ministry of International Cooperation (recipient),,2022-12-22-44000-p179665-takaful-and-karama-cash-transfer-expansi
 EGY,Takaful and Karama programme (TKP) social registry,Egypt,exchange,,Ministry of Social Solidarity,,2024-05-28-egypt-takaful-karama-cash-transfer
 EGY,Unified National Registry (UNR),Egypt,exchange,,Administrative Control Authority,,2024-05-28-egypt-takaful-karama-cash-transfer
 EGY,Meeza card,Egypt,other,,,,2024-05-28-egypt-takaful-karama-cash-transfer
 EGY,TKP management information system,Egypt,other,,Ministry of Social Solidarity,,2024-05-28-egypt-takaful-karama-cash-transfer
+EGY,Social registry (Ministry of Social Solidarity),Egypt,other,,Ministry of Social Solidarity,,2026-08-22-egy-social-registry-13m-households-law-12-unified-source
 ETH,Fayda,Ethiopia,other,,,,2023-12-20-ethiopia-digital-id-financing-agreement
 ETH,Productive Safety Net Program (PSNP),PSNP,other,bank accounts; Telebirr pilot,Government of Ethiopia,,2024-03-15-eth-leveraging-e-payments-for-financial-inclusion-in-ethiopia
 ETH,Urban Productive Safety Net and Jobs Program (UPSNJP),UPSNJP,other,bank accounts,Government of Ethiopia,,2024-03-15-eth-leveraging-e-payments-for-financial-inclusion-in-ethiopia
@@ -135,6 +137,8 @@ GIN,Registre Social Unifié (RSU),Guinea,exchange,,Fonds de Développement Socia
 GIN,Registre Social Unifié (RSU),Guinea,exchange,,Fonds de Développement Social et de l'Indigence (FDSI),,2024-10-13-decret-d-2024-177-registre-social-unifie
 GIN,Registre Social Unifié (RSU),Guinea,exchange,,Fonds de Développement Social et de l'Indigence (FDSI),,2024-06-27-anies-fdsi-protocole-accord-registre-social-unifie
 GIN,Guichet Choc Alimentaire,Guinea,other,,ANIES,,2024-06-27-anies-fdsi-protocole-accord-registre-social-unifie
+GIN,Registre Social Unifié (RSU),Guinea,other,,FDSI,,2025-01-01-gin-termes-de-reference-pour-l-analyse-du-profil-socio-demographique-et-so
+GIN,Registre social unique,Guinée,other,,FDSI,,2024-06-27-gin-guinee-accord-strategique-historique-entre-le-fdsi-et-l-anies-pour-sou
 GMB,Gambia Social Registry (GamSR),The Gambia,exchange,Social Registry Information System (SRIS),,,2024-04-23 The Gambia Social Registry - A Success Story in Systems Building
 GMB,GamSR,The Gambia,other,,,,2025-07-15 Global Insights on Social Registries - Coverage and Beyond (World Bank)
 GMB,social registry,The Gambia,exchange,,,,2025-11-29-worldbank-gambia-rise-project-isr05520
@@ -144,6 +148,8 @@ GMB,MCNHRP beneficiary and payment files,The Gambia,exchange,Excel files,Nationa
 GMB,BReST on the WFP SCOPE platform,The Gambia,exchange,WFP SCOPE,NaNA with UNICEF,,2019-01-01-worldbank-building-the-gambias-social-registry-framework-roadmap
 GMB,District Health Information Software (DHIS),The Gambia,other,"DHIS, hosted as a service by BAO Systems",MCNHRP,,2019-01-01-worldbank-building-the-gambias-social-registry-framework-roadmap
 GMB,Social registry case management system,The Gambia,other,,Social Protection Secretariat (proposed),,2019-01-01-worldbank-building-the-gambias-social-registry-framework-roadmap
+GMB,Nafa cash transfer,Nafa,other,,National Social Protection Secretariat,,2025-05-05-gmb-from-data-to-impact-the-digital-transformation-of-the-gambia-s-social
+GNB,social registry,Guinea-Bissau,other,,"Ministry of Women, Family and Social Solidarity",,2026-05-01-gnb-national-social-protection-and-disaster-risk-management-in-guinea-biss
 GNQ,INSESO computerised management system,GNQ,other,,INSESO,,2025-04-15-comparecencia-delegado-nacional-inseso
 KEN,Enhanced Single Registry,Kenya,exchange,,,,2026-06-29-world-bank-kenya-dpo-fiscal-sustainability-resilient-growth
 KEN,Enhanced Single Registry,Kenya,exchange,,Government of Kenya,,2025-08-01-kseip2-esmp
@@ -154,6 +160,10 @@ KEN,Integrated Population Registration Service (IPRS),Kenya,other,,,,2026-09-22-
 KEN,Single Registry,Kenya,other,,,,2025-10-01-kseip2-egcm-guidelines
 KEN,Enhanced Grievance and Case Management (EGCM) system,Kenya,other,,State Department for Social Protection and Senior Citizen Affairs,,2025-10-01-kseip2-egcm-guidelines
 KEN,Social Protection Registry,Kenya,exchange,,National Board for Social Protection,,2025-08-05-social-protection-act-2025
+KEN,CCTPMIS,Kenya,other,MIS,Government (Inua Jamii),,2026-02-01-ken-february-newsletter-edition
+KEN,Enhanced Single Registry (ESR),Kenya,other,registry,Government,,2026-02-01-ken-february-newsletter-edition
+KEN,HSNP MIS,Kenya,other,MIS,National Drought Management Authority,,2026-02-01-ken-february-newsletter-edition
+KEN,CDMIS,Kenya,other,web,Directorate of Social Development,,2026-02-01-ken-february-newsletter-edition
 LBR,Liberia Household Social Registry,Liberia,exchange,,"Ministry of Gender, Children and Social Protection",,2026-05-18-liberia-realise-crisis-response-plan-household-social-registry
 LBR,Liberia Household Social Registry (LHSR),Liberia,exchange,,"Ministry of Gender, Children and Social Protection",,2024-05-07-wb-liberia-household-social-registry
 LBR,Liberia Social Safety Net Project MIS,Liberia,exchange,,"Ministry of Gender, Children and Social Protection",,2024-05-07-wb-liberia-household-social-registry
@@ -166,11 +176,13 @@ LBR,Social Registry Information System (SRIS),Liberia,exchange,,,,2025-07-28-wor
 LBR,Liberia Household Social Registry (LHSR),Liberia,exchange,,"Ministry of Gender, Children and Social Protection",,2024-09-09-world-bank-ieg-icr-review-liberia-social-safety-nets-p155293
 LBR,Social Registry Information System (SRIS),Liberia,exchange,,"Ministry of Gender, Children and Social Protection",,2024-09-09-world-bank-ieg-icr-review-liberia-social-safety-nets-p155293
 LBR,"Social protection MIS (enrolment, payment, grievance, M&E modules)",Liberia,exchange,,"Ministry of Gender, Children and Social Protection",,2024-09-09-world-bank-ieg-icr-review-liberia-social-safety-nets-p155293
+LBR,Liberia Household Social Registry (LHSR),Liberia,other,,"Ministry of Gender, Children and Social Protection",,2024-05-20-lbr-building-liberia-household-social-registry
 LBY,Unified Social Registry,Libya,other,,Ministry of Social Affairs,,2025-06-23 Libya's PM Dabaiba approves Unified Social Registry project
 LBY,Unified Social Registry,Libya,other,,Ministry of Social Affairs,,2025-06-22-lana-dabaiba-approves-unified-social-registry
 LBY,National Data Distributor (LY-NDEX),Libya,other,,General Information Authority,,2026-04-23-gia-zakat-fund-data-governance-national-guide
 LBY,Unified Social Registry,Libya,other,,Libyan government,,2023-10-28-lby-libyaherald-unified-social-registry-launch
 LBY,Wife and Children Grant project,Libya,other,,Ministry of Social Affairs,,2025-07-10-lby-lana-wife-children-grant-civil-registry-link
+LBY,Unified Social Registry project,Libya,other,,Ministry of Social Affairs,,2026-08-11-lby-social-affairs-minister-reviews-unified-social-registry-progress
 LSO,National Information System for Social Assistance (NISSA) social registry,Lesotho,exchange,web-based on Microsoft platform with mobile data-collection app (earlier system),"Ministry of Gender, Youth and Social Development",,2024-01-01 Lesotho — RFP for NISSA social registry and MISSA
 LSO,Management Information System for Social Assistance (MISSA),Lesotho,exchange,web-based on Microsoft platform with mobile data-collection app (earlier system),"Ministry of Gender, Youth and Social Development",,2024-01-01 Lesotho — RFP for NISSA social registry and MISSA
 LSO,NISSA (National Information System for Social Assistance),Lesotho,exchange,,Government of Lesotho,,2026-01-16 Lesotho's Digital Leap How Child-Centred Systems are Reshaping Social Protection
@@ -201,6 +213,7 @@ MDG,FID information systems,Madagascar,exchange,,Fonds d'Intervention pour le D�
 MDG,"National social registry (Registre Social Unique, RSU)",Madagascar,exchange,,Ministry of Population and Solidarity,,2026-01-23-safety-nets-additional-financing-worldbank
 MDG,Government interoperability platform,Madagascar,other,,,,2026-01-23-safety-nets-additional-financing-worldbank
 MDG,registre social (existing social registry),Madagascar,other,,,,2025-12-04-worldbank-prodigy-aide-memoire-mission
+MDG,MIS RSU,Madagascar,other,national platform for the Registre Social Unique,Ministere de la Population et des Solidarites,,2026-10-15-mdg-recrutement-d-un-cabinet-pour-la-conception-le-developpement-et-l-acco
 MLI,Registre Social Unifié (RSU),Mali,other,,"Direction Régionale du Développement Social et de l'Économie Solidaire (Mopti), with APIDEV and UNICEF running the enrolment",,2025-11-10-mali-campagne-enrolement-registre-social-unifie
 MLI,Registre Social Unifié (RSU),Mali,other,,Commissariat à la Sécurité Alimentaire (use in food insecurity response); WFP financing expansion,,2026-02-01-wfp-mali-country-brief-february-2026
 MLI,Registre Social Unifié (RSU),Mali,other,,Government of Mali,,2024-11-01-worldbank-saspp-mali
@@ -267,6 +280,7 @@ MWI,Malawi Social Registry (MSR),Malawi,exchange,NRB integration module,,,2026-0
 MWI,FISP application,Malawi,exchange,QR codes generated by NRB,Ministry of Agriculture,,2026-02-01-mwi-undp-idt4m-annual-report-2025
 MWI,Malawi Social Registry (MSR/UBR),Malawi,exchange,,,,2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025
 MWI,National ID (NRB),Malawi,other,,National Registration Bureau,,2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025
+MWI,Malawi Social Registry,Malawi,exchange,,"Ministry of Finance, Economic Planning and Decentralisation",,2026-05-20-mwi-malawi-launches-data-sharing-app-for-social-registry
 NAM,Instant Payment Programme (IPP) instant payment network,Namibia,other,,,,2026-06-17-namibia-moves-government-grant-payments-onto-instant-payment-network
 NAM,Government grant payments over the instant payment network (Marginalised Beneficiaries grant),Namibia,exchange,Instant Payment Programme (IPP) instant payment network,"Ministry of Gender Equality, Poverty Eradication and Social Welfare",,2026-06-17-namibia-moves-government-grant-payments-onto-instant-payment-network
 NAM,Instant Payment Solution (IPS) / Instant Payment Platform (IPP),Namibia,other,NPCI International Payments Limited (technology partner),"Instant Payment Namibia (IPN), under the Bank of Namibia",,2026-06-15-fact-sheet-namibias-instant-payment-solution-ips
@@ -298,6 +312,7 @@ RWA,Imibereho Social Registry,Rwanda,exchange,,,,2025-11-19-social-registries-di
 RWA,Imibereho dynamic social registry,Rwanda,exchange,,MINALOC,,2026-03-17-rwanda-social-protection-transformation-project-additional-financing
 RWA,"MEIS (Monitoring and Evaluation Information System, LODA)",Rwanda,other,,LODA,,2026-03-17-rwanda-social-protection-transformation-project-additional-financing
 RWA,PGMIS (Poverty Graduation Management Information System),Rwanda,other,,,,2026-03-17-rwanda-social-protection-transformation-project-additional-financing
+RWA,Imibereho Dynamic Social Registry,Rwanda,other,,MINALOC,,2025-01-01-rwa-social-protection-project-spp-rwanda-factsheet
 SDN,Unified social registry (نظام السجل الاجتماعي الموحد),Sudan,exchange,,Ministry of Human Resources and Social Welfare,,"2026-04-19 Ministerial meeting on digital transformation, civil-service reform and unified social registry (SUNA)"
 SDN,Sudan Family Support Program unified registration platform and automated payment module,Sudan,other,,World Bank / Government of Sudan,,2026-01-01-sudan-family-support-program-delivering-hope
 SDN,SEND-P (Shared Distribution Network Platform),Sudan,other,,Cash Consortium of Sudan and CGAP,,2025-12-15-send-shared-cash-platform-technical-specs
@@ -356,6 +371,7 @@ SWZ,ENPF Payment Gateway,Eswatini,other,ENPF Portal,Eswatini National Provident 
 SWZ,National Dynamic Social Registry (Imbeleko),Eswatini,other,,Deputy Prime Minister's Office,,2026-08-27-imbeleko-rollout-lubombo
 SWZ,National Dynamic Social Registry (NDSR),Eswatini,other,,Deputy Prime Minister's Office,,2025-02-01-eswatini-dpmo-annual-performance-report-2024-25
 SWZ,Social Registry,Eswatini,other,,,,2026-10-24-swz-govt-restores-13-online-services-website-still-down
+SWZ,National Dynamic Social Registry (NDSR),NDSR,other,,Deputy Prime Minister's Office,,2025-04-14-swz-wfp-donates-e850k-to-boost-eswatini-social-registry
 SYC,ASP Management Information System,Seychelles,exchange,,Agency for Social Protection,,2025-06-26-worldbank-seychelles-social-protection-isr
 SYC,Social registry,Seychelles,exchange,,Agency for Social Protection,,2025-06-26-worldbank-seychelles-social-protection-isr
 SYC,ASP beneficiary registry,Seychelles,exchange,,Agency for Social Protection,,2026-09-09-syc-nation-repair-cash-transfer-beneficiary-registry-payments
@@ -373,6 +389,7 @@ TCD,Registre Social Unifié (RSU),Chad,exchange,,,,2025-09-01-worldbank-vision-n
 TCD,Rapid payment platform,Chad,other,,,,2025-09-01-worldbank-vision-nationale-protection-sociale-adaptive-tchad
 TCD,Nouveau système de gestion des bénéficiaires (with MGP),Chad,other,,,,2025-09-01-worldbank-vision-nationale-protection-sociale-adaptive-tchad
 TCD,Registre social unifié (RSU),Chad,exchange,,,,2026-04-03-wb-tcd-pfsap-adaptive-social-safety-nets
+TCD,Registre Social Unifié (RSU),Tchad,other,,INSEED,,2026-03-24-tcd-tchad-linseed-presente-les-resultats-de-250-zones-de-concentration-pas
 TGO,Registre social des personnes et des ménages,Togo,exchange,,Agence nationale d'identification (ANID),,2022-06-24-togo-loi-2022-010-identification-biometrique-jo
 TGO,Registre social des personnes et des ménages,Togo,exchange,,Agence nationale d'identification (ANID),,2022-06-16-togo-loi-modification-2020-009-identification-biometrique
 TGO,"Programme National de Protection Sociale, cash-transfer component",Togo,exchange,"mobile money (Mixx by Yas, Flooz)",Ministere de la Planification du Developpement et de la Cooperation; INSEED; ANADEB,,2025-12-19-togo-planification-lancement-operationnalisation-transferts-monetaires
@@ -428,6 +445,8 @@ ZMB,Zambia Social Registry,Zambia,exchange,,Ministry of Community Development an
 ZMB,GBV management information system,Zambia,other,,"Gender Division, Office of the President",procurement ongoing,2025-11-10-zambia-gewel2-additional-financing-project-paper
 ZMB,Social Cash Transfer beneficiary system,Zambia,other,,Ministry of Community Development and Social Services,1.31 million households,2025-11-10-zambia-gewel2-additional-financing-project-paper
 ZMB,national social registry,Zambia,exchange,,Government of Zambia,being developed,2025-09-26-zambia-2026-budget-address-social-registry
+ZMB,Disability Management Information System (DMIS),DMIS,other,,Zambia Agency for Persons with Disabilities,,2024-07-01-zmb-terms-of-reference-interoperability-of-the-disability-management-infor
+ZMB,Zambia Integrated Social Protection Information System (ZISPIS),ZISPIS,other,,,,2024-07-01-zmb-terms-of-reference-interoperability-of-the-disability-management-infor
 ZWE,Zimbabwe Social Registry (ZISO),Zimbabwe,exchange,,"Ministry of Public Service, Labour and Social Welfare",,2026-07-20-zbc-government-develops-social-registry
 ZWE,Basic Education Assistance Module (BEAM),Zimbabwe,other,,,,2026-07-20-zbc-government-develops-social-registry
 ZWE,Zimbabwe Social Registry,Zimbabwe,other,,"Ministry of Public Service, Labour and Social Welfare; ZimStat",,2026-03-14-zimbabwe-social-registry-survey-nkayi-rollout

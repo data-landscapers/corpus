@@ -1,0 +1,60 @@
+{
+ "slug": "2026-02-01-ken-february-newsletter-edition",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The newsletter says the CCTPMIS has linkages to the Civil Registration Services for automatic identification of deceased beneficiaries and exit management.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "CCTPMIS",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "The newsletter says the ESR integrates data from core cash transfer programmes under the National Safety Net Programme and the Hunger Safety Net Programme.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Enhanced Single Registry (ESR)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CCTPMIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "MIS",
+   "owner": "Government (Inua Jamii)",
+   "tiers": ""
+  },
+  {
+   "system": "Enhanced Single Registry (ESR)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "registry",
+   "owner": "Government",
+   "tiers": ""
+  },
+  {
+   "system": "HSNP MIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "MIS",
+   "owner": "National Drought Management Authority",
+   "tiers": ""
+  },
+  {
+   "system": "CDMIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "web",
+   "owner": "Directorate of Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-18-rwa-leveraging-interoperability-for-social-impact-in-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The deck says the Imibereho social registry validates identification and access data from integrated NIDA, CRVS, RRA, LAND and SDMS systems and shares beneficiaries with LODA (MEIS) and RSSB (CBHI) through the government service bus.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "Imibereho social registry",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The deck says the social registry is integrated with NIDA (ID) and CRVS, the disability and land registries and RRA, giving dynamic targeting with real-time updates.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "Imibereho social registry",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

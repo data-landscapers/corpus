@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-03-dza-alger-saihi-en-visite-dinspection-a-lagence-cnas-de-la-wilaya-et-a-lag",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The labour ministry's communiqué says database interoperability resting on the national identification number (NIN) allows instant, secure exchange of information between sectors, in the context of the CNAS and CNR social-security bodies.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "NIN-based database interoperability",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

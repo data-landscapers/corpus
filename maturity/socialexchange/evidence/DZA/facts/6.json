@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-05-dza-securite-sociale-la-cnas-lance-de-nouveaux-services-pour-les-employeur",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The article states that CNAS and CNR (the pensions fund) now exchange information instantly and securely over the national identification number (NIN) through the Dzaïr Digital Services portal.",
+   "as_of": "2026-04-05",
+   "date_precision": "day",
+   "system": "Dzaïr Digital Services",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dzaïr Digital Services",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "national portal",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

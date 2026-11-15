@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-eth-digital-public-goods-in-use-applications-of-openg2p-in-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "OpenG2P says the social registry for the Ethiopian Disaster Risk Management Commission's relief programme is seeded with Fayda ID from the National ID Program, with Fayda integrated to keep the registry clean.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "OpenG2P Social Registry",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

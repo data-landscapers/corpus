@@ -66,3 +66,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-13,TZA,dpi.exchange--interoperability-of-social-protection-systems,review,no evidence,no evidence,,Rebuild: no evidence row; no evidence holds
 2026-11-13,ZAF,dpi.exchange--interoperability-of-social-protection-systems,review,no evidence,no evidence,,Rebuild: no evidence row; no evidence holds
 2026-11-14,GNQ,dpi.exchange--interoperability-of-social-protection-systems,fact,no evidence,no evidence,,"Ley 5/2026 creates the Registro Unico Social with a data-supply duty; no link contracted, built or piloted, so no stage"
+2026-11-15,DZA,dpi.exchange--interoperability-of-social-protection-systems,fact,2,3,DZA-002;DZA-003,"CNAS and CNR exchange data through the national ID number in use (April 2026); settles an exchange in service, 2 to 3"
+2026-11-15,ETH,dpi.exchange--interoperability-of-social-protection-systems,fact,2,3,ETH-002,"OpenG2P relief registry seeded from and integrated with Fayda (2025); settles an exchange in service, 2 to 3"
+2026-11-15,KEN,dpi.exchange--interoperability-of-social-protection-systems,fact,4,4,KEN-001;KEN-004;KEN-007,"CCTPMIS linked to civil registration and ESR holds core cash transfers and HSNP (Feb 2026); no ID link held, stays 4"

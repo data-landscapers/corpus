@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001;KEN-004",
-      "gaps": "The Enhanced Single Registry feeds the Social Health Authority's sponsorship of indigent households, a link to health; no source found since October 2023 says it is linked to the national ID.",
-      "note": "Reassessed on the Health Cabinet Secretary's October 2025 statement that 558,000 indigent households sponsored under the Social Health Authority were identified through the Enhanced Single Registry: the registry reaches health, but a link to the national ID is not held, so stage 5 is not met.",
-      "as_at": "2026-10-22"
+      "stage_sources": "KEN-001;KEN-004;KEN-007",
+      "gaps": "The cash transfer MIS is linked to civil registration (2026) and the registry feeds Social Health Authority sponsorship; no source found says the registry is linked to the national ID, which is still being procured.",
+      "note": "Reassessed on the February 2026 newsletter: the CCTPMIS reaches civil registration and the Enhanced Single Registry holds the core cash transfers and HSNP. A link to the national ID is not held, so rung 5 is not met.",
+      "as_at": "2026-11-15"
     }
   ]
 }

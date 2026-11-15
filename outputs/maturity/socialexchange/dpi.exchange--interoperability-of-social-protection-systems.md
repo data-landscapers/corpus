@@ -22,8 +22,8 @@ The African Union's Protocol on Social Protection asks for a social protection i
 |---|---|
 | 5 Leading | 3 |
 | 4 Operating | 10 |
-| 3 Established | 12 |
-| 2 Nascent | 17 |
+| 3 Established | 14 |
+| 2 Nascent | 15 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
 | No evidence | 9 |
@@ -73,10 +73,11 @@ Two or more programmes shared one social registry in 2026; no source found repor
 
 ### Kenya: 4 Operating
 
-Two or more programmes shared one social registry in 2025, which also fed health cover; no source found reports a link to the national ID.
+Several programmes shared one social registry in 2026, which also fed health cover; a link to the national ID is not known.
 
 - The KSEIP 2 environmental and social management plan says all four National Safety Net Programme cash transfers (HSNP, OPCT, CT-OVC, PwSD-CT) use the Enhanced Single Registry, a national database of poor and vulnerable households, for targeting (except OPCT), transfers and management information systems ([source, 2025-08](https://www.socialprotection.go.ke/sites/default/files/Downloads/ESMP%20Template-August%202025%20(3).pdf)).
 - Social Protection Act 2025 (s.40) requires the National Board for Social Protection to establish a Social Protection Registry as the singular database for social protection interventions under the Act, used to select and register beneficiaries and coordinate interventions; the Act also requires the Registry to be updated in real time through interoperability with other national registries (s.40(4)(c)) and the Board to facilitate data sharing and interoperability among social protection information systems (s.8(g)) ([source, 2025-08-19](https://new.kenyalaw.org/akn/ke/act/2025/12/eng@2025-08-05)).
+- The newsletter says the ESR integrates data from core cash transfer programmes under the National Safety Net Programme and the Hunger Safety Net Programme ([source, 2026-02](https://chasp.co.ke/wp-content/uploads/2026/03/Feb-Newsletter.pdf)).
 
 ### Liberia: 4 Operating
 
@@ -119,11 +120,24 @@ Two or more programmes shared one social registry in 2025; no source found repor
 
 - The DPSSF page describes Kénon as a unified database centralising data on vulnerable families and beneficiaries of programmes such as Programa Família, and as producing reports for both PEP+ and Programa Família; it names no exchange with the ID, civil registration or other government systems. Dated by its published date, 2025-04-22 ([source, 2025-04-22](https://dpssf.gov.st/index.php/explorar/recursos-uteis/sobre-kenon)).
 
+### Algeria: 3 Established
+
+Two social security funds exchanged data through the national ID in 2026; whether programmes share one registry is not known.
+
+- The article states that CNAS and CNR (the pensions fund) now exchange information instantly and securely over the national identification number (NIN) through the Dzaïr Digital Services portal ([source, 2026-04-05](https://www.algerie360.com/securite-sociale-la-cnas-lance-de-nouveaux-services-pour-les-employeurs/)).
+- The labour ministry's communiqué says database interoperability resting on the national identification number (NIN) allows instant, secure exchange of information between sectors, in the context of the CNAS and CNR social-security bodies ([source, 2026-04-02](https://www.elhayatalarabiya.net/fr/?p=23295)).
+
 ### Cameroon: 3 Established
 
 Universal health coverage enrolment and billing systems exchanged data in 2026; no registry shared by programmes is on record.
 
 - Cameroon's health ministry says its national interoperability platform (OpenHIM and OpenFN on a CAMTEL server) already hosts universal health coverage use cases, interconnecting enrolment and billing systems ([source, 2026-11-03](https://scores2000.info/2026/11/sante-numerique-le-cameroun-accelere-l-interconnexion-de-ses-systemes-d-information-sanitaires.html)).
+
+### Ethiopia: 3 Established
+
+A relief programme's social registry drew on the national ID in 2025; whether programmes share one registry is not known.
+
+- OpenG2P says the social registry for the Ethiopian Disaster Risk Management Commission's relief programme is seeded with Fayda ID from the National ID Program, with Fayda integrated to keep the registry clean ([source, 2025](https://id4africa.com/2025/files/T3-P1-S2-OpenG2P-Final.pdf)).
 
 ### Lesotho: 3 Established
 
@@ -195,12 +209,6 @@ A social protection system exchanged data in 2026; no source found reports a reg
 - The report says the PDM Information System registers eligible beneficiaries, the Integrated Financial Management Information System transfers funds to PDM SACCO accounts, and Wendi, managed by Pearl Bank, disburses loans to beneficiaries' mobile phones, with 183,430 of 222,389 enterprise groups profiled on PDMIS; as_of is the published date, the document giving no event date ([source, 2026-09-18](https://www.thekampalareport.com/latest/2026091868307/ugandas-parish-development-model-reaches-3-5-million-beneficiaries-with-1-1-billion-government-investment.html)).
 - Zombo district officials reported that 31 of 61 PDM tablets are inoperative, tablets that support biometric verification and integration with the Wendi digital wallet, forcing a return to manual workflows in half the district's 61 parishes ([source, 2026-09-11](https://chimpreports.com/alarm-raised-as-50-of-zombo-pdm-tablets-fail-to-function/)).
 
-### Algeria: 2 Nascent
-
-A link between social protection systems was under way in 2026; none in service is on record.
-
-- The Ministry of National Solidarity said a pilot of its unified digital platform, covering electronic registration for the AFS allowance and the national digital card for persons with special needs, was being tested in Dar El Beida and Hussein Dey until 31 March 2026, with database integration and interconnectivity under verification ([source, 2026-03-12](https://www.dzair-tube.dz/en/algeria-launches-pilot-digital-services-platform-for-national-solidarity-sector/)).
-
 ### Angola: 2 Nascent
 
 A link between social protection systems was under way in 2026; none in service is on record.
@@ -248,12 +256,6 @@ A link between social protection systems was under way in 2026; none in service 
 A link between social protection systems was under way in 2025; none in service is on record.
 
 - The World Bank project information document says the Imbeleko registry will be financed with an MIS with interoperability mechanisms, and that registry data will target beneficiaries of the project's youth income component, starting with Shiselweni's first cycle ([source, 2025-03-15](https://documents1.worldbank.org/curated/en/099031525010023201/pdf/P507360-3e4a9889-8b21-4fe3-a3f0-ed133ffbd8ff.pdf)).
-
-### Ethiopia: 2 Nascent
-
-The government was piloting safety-net payments through mobile money in 2024; a data exchange in use is not known.
-
-- The World Bank says it is supporting a Government of Ethiopia pilot of electronic safety-net payments through the Telebirr mobile money service in two selected regions ([source, 2024-03](https://blogs.worldbank.org/en/nasikiliza/leveraging-e-payments-financial-inclusion-ethiopia-afe-0324)).
 
 ### Gabon: 2 Nascent
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-27-gin-guinee-accord-strategique-historique-entre-le-fdsi-et-l-anies-pour-sou",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "FDSI and ANIES signed a protocol on 27 June 2024 under which FDSI gives ANIES a list of 51,259 indigent households extracted from the RSU database.",
+   "as_of": "2024-06-27",
+   "date_precision": "day",
+   "system": "RSU",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre social unique",
+   "country_label": "Guinée",
+   "class": "other",
+   "platform": "",
+   "owner": "FDSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

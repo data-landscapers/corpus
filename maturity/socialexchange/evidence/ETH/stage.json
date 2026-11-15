@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "2",
-      "exchange": "underway",
+      "stage": "3",
+      "exchange": "inservice",
       "registry": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-001",
-      "gaps": "No source from the last three years says a safety-net programme's MIS exchanges data with a payment provider or the ID in use; the World Bank calls direct MIS-to-payment integration a plan. Nothing found on a shared registry or a link to the ID.",
-      "note": "In March 2024 the government was piloting safety-net payments through Telebirr in two regions, with World Bank support, so a link to a payment provider is piloted. Direct integration of the programme MIS with payment platforms is only planned, so not 3.",
-      "as_at": "2026-11-06"
+      "stage_sources": "ETH-002",
+      "gaps": "No source found says two or more programmes draw on one shared registry, or that a registry is linked to civil registration, health, education or tax.",
+      "note": "In 2025 the disaster relief programme's social registry was seeded from and integrated with Fayda, the national ID (ETH-002), an exchange in use, so 3. No shared registry is held, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-20-mwi-malawi-launches-data-sharing-app-for-social-registry",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "GIZ Malawi says the government launched a Data Sharing App for the Malawi Social Registry for data exchange between institutions, and that registry data is already used by WFP Malawi and the GIZ EnDeV Programme.",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Data Sharing App for the Malawi Social Registry",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi Social Registry",
+   "country_label": "Malawi",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Finance, Economic Planning and Decentralisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

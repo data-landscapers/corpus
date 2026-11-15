@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-22-egy-social-registry-13m-households-law-12-unified-source",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The ministry says the social registry is interlinked by national number with databases of partner government bodies providing social protection services.",
+   "as_of": "2026-08-22",
+   "date_precision": "day",
+   "system": "Social registry",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "The ministry says Law 12 of 2025 adopted the social registry databases as the unified source for all cash-transfer beneficiary databases.",
+   "as_of": "2026-08-22",
+   "date_precision": "day",
+   "system": "Social registry",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social registry (Ministry of Social Solidarity)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Social Solidarity",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

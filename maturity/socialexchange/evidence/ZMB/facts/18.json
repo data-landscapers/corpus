@@ -1,0 +1,34 @@
+{
+ "slug": "2024-07-01-zmb-terms-of-reference-interoperability-of-the-disability-management-infor",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The Zambia Agency for Persons with Disabilities and ILO's terms of reference, with UN joint programme funding, commission a consultancy from 11 August 2024 to interoperate the Disability Management Information System with ZISPIS, the national social protection information system.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Disability Management Information System",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Disability Management Information System (DMIS)",
+   "country_label": "DMIS",
+   "class": "other",
+   "platform": "",
+   "owner": "Zambia Agency for Persons with Disabilities",
+   "tiers": ""
+  },
+  {
+   "system": "Zambia Integrated Social Protection Information System (ZISPIS)",
+   "country_label": "ZISPIS",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
