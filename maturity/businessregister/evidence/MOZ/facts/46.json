@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-04-moz-facim-2026-bau-pushes-digitalisation-to-ease-small-business-formalisat",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The BAU one-stop business registration centre operates across 129 service points nationwide, per its director-general Daniel Bay.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Balcão de Atendimento Único (BAU)",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "Per Daniel Bay, the BAU lets firms go from name reservation to obtaining a Tax Identification Number (NUIT) and registering employees with social security at one point.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Balcão de Atendimento Único (BAU)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Balcão de Atendimento Único (BAU)",
+   "country_label": "Mozambique",
+   "class": "business",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

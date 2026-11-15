@@ -9,10 +9,10 @@
       "owners": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBY-001",
-      "gaps": "No source found since October 2023 says: can firms register online.",
-      "note": "First pass: counted from the four questions by study-ladder-businessregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "LBY-005;LBY-004;LBY-001",
+      "gaps": "No source found since October 2023 says firms can register online: electronic registration of foreign company branches is a pilot, and linking of the registry's branches was still being completed in July 2026.",
+      "note": "The registry's electronic system and a November 2026 pilot for foreign branches show a digital register under way. A pilot for one class of firm is not online registration in service for the country, so not stage 3.",
+      "as_at": "2026-11-15"
     }
   ]
 }

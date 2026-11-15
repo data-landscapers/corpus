@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "2",
-   "registration": "underway",
-   "shared": "",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-001",
-   "gaps": "No source found since October 2023 says: can firms register online.",
-   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "3",
+      "registration": "inservice",
+      "shared": "",
+      "owners": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-003",
+      "gaps": "No source found since October 2023 says registration gives a firm one number shared with tax or social security, or that the register holds the beneficial owners of every company.",
+      "note": "CEFORE's portal took 6,916 business-creation requests online in 2026 to 13 November, so online registration is in service. Nothing held shows a number shared with tax or social security, so not stage 4.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

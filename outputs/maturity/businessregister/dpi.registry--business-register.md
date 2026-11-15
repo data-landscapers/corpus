@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy asks for an electronic busin
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 4 |
-| 3 Established | 30 |
-| 2 Nascent | 17 |
+| 3 Established | 31 |
+| 2 Nascent | 16 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 2 |
@@ -74,6 +74,12 @@ Firms could register online in 2024; no source found reports a number shared wit
 Firms could register online in 2025; no source found reports a number shared with tax.
 
 - CIPA says its Online Business Registration System, acquired in 2019, lets investors register companies online 24/7 and cut registration from over five days to one ([source, 2025-02-05](https://businessweekly.co.bw/news/cipa-rots-from-the-head-splashes-p15m-on-bad-it-system)).
+
+### Burkina Faso: 3 Established
+
+Firms could apply online to create a business in 2026; whether their number is shared with tax or social security is not known.
+
+- CEFORE's creerentreprise.me.bf portal takes business-creation requests online, with the fee paid by Orange Money or Moov Money, and reports 6,916 requests from 1 January to 13 November 2026 ([source, 2026-11-13](https://creerentreprise.me.bf/)).
 
 ### Burundi: 3 Established
 
@@ -248,12 +254,6 @@ Firms could register online in 2024; no source found reports a number shared wit
 
 - LEX Africa says company registration in Zimbabwe has moved from a manual paper system to an electronic filing system under the 2020 COBE Act, and that the system is now operational ([source, 2024-09-18](https://lexafrica.com/2024/09/zimbabwean-companies-obliged-to-re-register-under-new-electronic-filing-system/)).
 
-### Burkina Faso: 2 Nascent
-
-A digital business register was under way in 2025; online registration is not on record.
-
-- The Ministry of Justice launched the e-RCCM platform (e-actes-rccm.gov.bf) on 15 December 2025, letting users obtain RCCM registration attestations, non-bankruptcy attestations and register extracts online ([source, 2025-12-15](https://burkina24.com/2025/12/15/justice-et-transformation-numerique-le-burkina-faso-passe-a-la-vitesse-superieure-avec-un-triple-lancement/)).
-
 ### Cameroon: 2 Nascent
 
 A digital business register was under way in 2024; online registration is not on record.
@@ -327,8 +327,10 @@ Liberia launched a business registration digitalisation pilot in seven counties 
 
 ### Libya: 2 Nascent
 
-A digital business register was under way in 2025; online registration is not on record.
+Electronic registration of foreign company branches entered a pilot in 2026; whether firms can register online across the country is not known.
 
+- Libya's Ministry of Economy and Trade announced a pilot launch of an electronic registration system for branches of foreign companies, built by the Economic Information and Documentation Centre, with seven stages, 11 sectors and licences up to five years, before full operation ([source, 2026-11-14](https://www.alwasat.ly/news/485008)).
+- LANA reports the head of Libya's Commercial Registry Authority told a meeting of branch managers that the digital transformation plan is still being completed, including electronic linking of all regional branches and e-archiving of company files in every branch ([source, 2026-07-09](https://lana.gov.ly/post.php?id=361401&lang=ar)).
 - The Libya Observer reports the economy minister and the head of the Commercial Registry Authority reviewed the electronic system for the commercial registry, including integration of data on public, private and joint companies and foreign branches ([source, 2025-09-04](https://libyaobserver.ly/inbrief/economy-minister-reviews-digital-transformation-and-e-payment-project)).
 
 ### Mali: 2 Nascent

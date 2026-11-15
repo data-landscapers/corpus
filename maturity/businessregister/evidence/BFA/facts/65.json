@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-13-bfa-cefore-preparer-votre-creation-d-entreprise",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "CEFORE's creerentreprise.me.bf portal takes business-creation requests online, with the fee paid by Orange Money or Moov Money, and reports 6,916 requests from 1 January to 13 November 2026.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "CEFORE online business-creation portal",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CEFORE online business-creation portal",
+   "country_label": "Burkina Faso",
+   "class": "business",
+   "platform": "creerentreprise.me.bf",
+   "owner": "Maison de l'Entreprise du Burkina Faso (CEFORE)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
