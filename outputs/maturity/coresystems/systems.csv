@@ -38,6 +38,9 @@ CAF,e-tax system,e-tax,core,,Directorate General of Taxes and State Properties (
 CAF,SIMBA,SIMBA,core,,Ministry of Finance and Budget,,2023-12-12-worldbank-isr-car-digital-governance-cloud-strategy-status
 CAF,HR management processing system integrated with a payroll management system,"HR and payroll system (planned, project indicator)",other,,,,2023-12-12-worldbank-isr-car-digital-governance-cloud-strategy-status
 CAF,e-Tax,RCA,core,,DGID,,2025-06-05-caf-le-fmi-annonce-un-nouveau-decaissement-de-33-4-milliards-fcfa-au-profi
+CAF,Centre de traitement des donnees criminelles,"Criminal data processing centre, Bangui",other,,Ministry of Interior and Public Security,,2026-10-08-caf-un-centre-de-donnees-criminelles-pour-renforcer-la-lutte-contre-la-cri
+CAF,e-Tax,Central African Republic,core,,Ministry of Finance and Budget,,2025-03-27-caf-centrafrique-malgre-la-mauvaise-connectivite-du-pays-les-autorites-opt
+CAF,Sim_Ba,Central African Republic,other,,Ministry of Finance and Budget,,2025-03-27-caf-centrafrique-malgre-la-mauvaise-connectivite-du-pays-les-autorites-opt
 CIV,Système d'information budgétaire (DSIB),Système d'information budgétaire/DSIB,core,,Ministère des Finances et du Budget,national,2023-12-18-civ-2024-322-78011202283
 CIV,SIGFIP (Système Intégré de Gestion des Finances Publiques),SIGFIP,core,,SNDI (Société Nationale de Développement Informatique),national,2014-12-16-marcopolis-sndi-ceo-interview-egovernment-cote-divoire
 CIV,SIGMAP (Système Intégré de Gestion des Marchés Publics),SIGMAP,other,,SNDI (Société Nationale de Développement Informatique),national,2014-12-16-marcopolis-sndi-ceo-interview-egovernment-cote-divoire
@@ -74,6 +77,7 @@ COG,SIGFIP,SIGFIP,core,,Ministry of Economy and Finance,,2024-08-30-cog-le-secte
 COG,E-TAX,E-TAX,core,,Ministry of Economy and Finance,,2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville
 COG,SIGFIP,Congo public finance system,other,,Ministry of Finance,,2025-07-22-cog-direction-des-systemes-d-information-dsi-du-ministere-des-finances
 COG,SIPAE,Congo state payroll system,other,,Ministry of Finance,,2025-07-22-cog-direction-des-systemes-d-information-dsi-du-ministere-des-finances
+COG,integrated state human resources management system,COG,other,,ministry in charge of the civil service,,2024-07-14-cog-numerique-lancement-des-travaux-de-connectivite-dans-les-administratio
 COM,Portail Unique du Citoyen (PUC),Portail Unique du Citoyen,other,,ANADEN / Union des Comores,,2026-08-31-puc-gouv-km-portail-unique-citoyen-note-conceptuelle
 COM,E-Government Modernisation Project (COM 1026) digital platforms,COM,other,,ANADEN,,2026-07-30-isdb-anaden-eoi-digitalisation-supervision-cabinet
 COM,plateforme d'administration numérique (portail gouvernemental),COM,other,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
@@ -123,6 +127,7 @@ EGY,Payroll Unified System,Payroll Unified System,other,,Egyptian Tax Authority,
 EGY,Payroll (البيرول),Egypt,core,,Ministry of Finance,,2024-02-07-egy-cabinet-payroll-automation-status
 EGY,Government Financial Management Information System,GFMIS,core,,Ministry of Finance,,2024-06-23-egy-ahram-epayment-collection-fy23-24
 EGY,Unified wage tax platform,Wage and salary tax unification platform,core,,Egyptian Tax Authority,,2025-10-08-egy-eta-unified-wage-tax-platform-employee-portal
+EGY,GFMIS,Government Financial Management Information System,core,,Ministry of Finance,,2024-01-04-egy-e-payment-collection-services-exceed-egp-8-1trn-in-egypt-finance-minis
 ERI,Eritrea Integrated Tax Administration System (ErITAS),ErITAS,other,,Ministry of Finance and National Development; Inland Revenue Department,,2023-09-07-eritrea-eritas-spn-afdb
 ERI,Integrated Financial Management Information System (IFMIS),IFMIS,other,,Ministry of Finance and National Development,"Pilot at the Ministries of Finance, Education and Agriculture; government-wide rollout targeted for the 2027 budget cycle",2016-07-04-afdb-eri-001-eritrea-pfm-statistics-capacity-building
 ERI,Debt Management and Financial Analysis System (DMFAS),DMFAS,other,,Ministry of Finance and National Development,,2016-07-04-afdb-eri-001-eritrea-pfm-statistics-capacity-building
@@ -240,6 +245,7 @@ GMB,Integrated Digital Case Management System (DCMS),Gambia,other,,"Ministry of 
 GMB,ITAS,Gambia,other,Sogema Technologies,Gambia Revenue Authority,,2024-05-20-gmb-gra-signs-agreement-to-improve-efficiency-transparency
 GMB,GAMTAXNET,Gambia,core,,Gambia Revenue Authority,,2024-05-20-gmb-gra-signs-agreement-to-improve-efficiency-transparency
 GMB,Integrated Tax Administration System (ITAS),Gambia Revenue Authority ITAS,other,,Gambia Revenue Authority,,2025-10-02-gmb-gra-introduces-itas-system-to-stakeholders
+GMB,Integrated Tax Administration System (ITAS),ITAS,other,,Gambia Revenue Authority,,2026-06-23-gmb-gra-hosts-workshop-on-itas
 GNB,National GovCloud for Guinea-Bissau,GNB,other,,MTTED / WARDIP,,2026-03-17-worldbank-wardip-p176932-procurement-plan-guinea-bissau
 GNB,Interoperability and data exchange platforms (WARDIP-F-006-2024),GNB,other,,WARDIP,,2026-03-17-worldbank-wardip-p176932-procurement-plan-guinea-bissau
 GNB,SIGFiP,GNB,core,,Ministério das Finanças,,2025-12-01-mef-guine-bissau-oge-2026
@@ -300,6 +306,7 @@ LBR,Automated System for Customs Data (ASYCUDA) version 4.4,ASYCUDA,other,ASYCUD
 LBR,Telecommunications traffic monitoring platform (TIA concession; NUMTEL proposed replacement),Liberia,other,,Liberia Telecommunications Authority,,2026-07-30-liberia-lacc-weighs-investigation-into-lta
 LBR,Liberia Integrated Tax Administration System (LITAS),Liberia,other,,Liberia Revenue Authority,,2025-08-21-lbr-lra-trains-staff-on-new-digital-tax-payment-system
 LBR,Budget Management System (BMS),Liberia,other,vendor RoviaGate Technology,Ministry of Finance and Development Planning,,2024-06-03-lbr-liberia-frontpageafrica-s-latest-investigation-unveils-procurement-bre
+LBR,LITAS,Liberia,other,,Liberia Revenue Authority,,2026-04-15-lbr-lra-hosts-first-digital-symposium-to-showcase-technology-driving-tax-c
 LBY,Libya e-payment system (card/POS),e-payment system,other,,Central Bank of Libya,,2026-05-27-cbl-epayment-system-crash-2m-pos-libyaherald
 LBY,LYPay,LYPay,other,,,,2026-03-03-cbl-record-epayment-qr-launch-alwasat
 LBY,OnePay,OnePay,other,,,,2026-03-03-cbl-record-epayment-qr-launch-alwasat
@@ -328,6 +335,11 @@ LSO,e-Taxation Platform (e-Filing),RSL e-Taxation Platform,core,,Revenue Service
 LSO,government financial system,government financial system,core,,Government of Lesotho,,2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems
 MAR,Court of Cassation official website,Morocco,other,,Court of Cassation,,2026-08-07-morocco-court-cassation-website-outage
 MAR,Mahakim digital platform,Morocco,other,,,,2026-08-07-morocco-court-cassation-website-outage
+MAR,National digital identity wallet,Morocco national digital identity wallet,other,,Ministry of Digital Transition and Administrative Reform,,2026-02-13 Morocco signs agreements with iDakto and ShareID for national digital identity wallet
+MAR,Idarati,Idarati (idarati.ma),other,,Ministry of Digital Transition and Administrative Reform,,2025-09-10-mar-with-a-budget-exceeding-1-8-million-dirhams-the-ministry-launches-an-i
+MAR,Epolice,Epolice (epolice.ma),other,,DGSN,,2025-01-26-mar-plateforme-epolice-comment-la-dgsn-amorce-sa-transformation-digitale-p
+MAR,NARSA licence and registration system,NARSA permis et cartes grises / gestion des infractions,other,,NARSA,,2024-09-18-mar-cartes-grises-permis-de-conduire-infractions-la-narsa-modernise-son-sy
+MAR,E-Blagh,E-Blagh (www.e-blagh.ma),other,,DGSN,,2024-06-06-mar-dgsn-entree-en-service-du-portail-e-blagh-dedie-au-signalement-de-cont
 MDG,SAFI,Integrated Tax Administration System (SAFI),core,,Ministry of Economy and Finance,,2025-09-01-mdg-interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-fi
 MDG,IFMIS,Integrated Public Finance Management System (being upgraded),other,,Ministry of Economy and Finance,,2025-09-01-mdg-interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-fi
 MDG,AUGURE,AUGURE payroll (being modernised),other,,Ministry of Economy and Finance,,2025-09-01-mdg-interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-fi
@@ -413,6 +425,7 @@ NAM,PDMS,Payroll deduction management system,other,,Ministry of Finance,,2026-01
 NAM,Payroll Deduction Management System (PDMS),Namibia,other,web-based,Avril Payment Solutions,,2025-09-08-nam-finance-ministry-to-end-payroll-deduction-system-for-civil-servants
 NAM,Integrated Tax Administration System,Namibia,core,,Namibia Revenue Agency,,2025-04-22-nam-namra-sets-four-year-target-to-fully-digitize-services
 NAM,Integrated Tax Administration System (ITAS),Namibia,other,CSS-CA Technology,Ministry of Finance,,2026-04-14-nam-namibia-wallows-in-digital-sovereignty-illusion
+NAM,ITAS,Namibia,core,,Namibia Revenue Agency,,2026-04-23-nam-namra-registers-over-1-million-taxpayers
 NER,SIGRHEP (Système Intégré de Gestion des Ressources Humaines de l'État et de la Paie),Niger,other,,"Ministry of Public Service, Labour and Employment",central,2026-07-29-lesahel-ccr-sigrhep-gestion-ressources-humaines-etat
 NER,SIGRHEP (Système Intégré de Gestion des Ressources Humaines de l'État et de la Paie),Niger,other,,"Ministry of Public Service, Labour and Employment",central,2026-07-27-niger-sigrhep-16500-agent-files-digitised-payroll
 NER,DUNE-RH,Niger education ministry HR platform,other,,Ministère de l'Éducation nationale,,2026-10-15-ner-wassika-men-plateformes-numeriques-dune-rh
@@ -496,6 +509,7 @@ SLE,WanGov,WanGov,other,mobile app,"Ministry of Communication, Technology and In
 SLE,Justice App,Justice App,other,mobile app,Judiciary of Sierra Leone,,2024-07-01-sle-undp-annual-report-justice-app
 SLE,IFMIS,Sierra Leone,core,,Ministry of Finance,,2025-10-31-sle-dfmst-and-stakeholders-conclude-two-day-validation-exercise-on-draft-i
 SLE,ITAX,Sierra Leone,core,,National Revenue Authority,,2025-10-31-sle-dfmst-and-stakeholders-conclude-two-day-validation-exercise-on-draft-i
+SLE,ITAS,Sierra Leone,other,,National Revenue Authority,,2025-08-22-sle-nra-hits-100-digital-tax-filing-compliance-as-sierra-leone-s-revenue-r
 SOM,SFMIS,Somali Financial Management Information System,core,,Office of the Accountant General,,2026-08-30-somalia-payroll-nira-id-database-link
 SOM,Government payroll system,Government payroll system,core,,Office of the Accountant General,,2026-08-30-somalia-payroll-nira-id-database-link
 SOM,NIRA national identification system,NIRA national identification system,other,,NIRA,,2026-08-30-somalia-payroll-nira-id-database-link
@@ -531,6 +545,8 @@ SOM,BISAN,Somalia,other,,Federal Member States,,2026-09-08-som-pfm-smart-signs-c
 SOM,ITAS,Somalia,other,,,,2026-09-08-som-pfm-smart-signs-contract-with-the-federal-government-of-somalia-to-enh
 SOM,HRMIS,Somalia,other,,,,2026-09-08-som-pfm-smart-signs-contract-with-the-federal-government-of-somalia-to-enh
 SOM,IFMIS (Garowe municipality),IFMIS Garowe 2020,other,,Garowe municipality,city,2024-10-08-som-challenges-of-automating-the-property-tax-system-in-garowe-city-puntla
+SOM,ITAS,Somalia,other,,Somali Revenue Authority,,2026-11-13-som-feisal-mohamed-hashi-the-vision-behind-somalia-s-revenue-reforms
+SOM,SOMCAS,Somalia,other,,Customs,,2026-11-13-som-feisal-mohamed-hashi-the-vision-behind-somalia-s-revenue-reforms
 SSD,Government Enterprise Architecture (GEA) and Implementation Plan,Government Enterprise Architecture (GEA),other,,"Ministry of Information, Communication Technology and Postal Services",,2026-05-25-gea-consulting-tender-eardip-south-sudan
 SSD,National e-Tax System,National e-Tax System,core,,South Sudan Revenue Authority,,2026-03-13-manual-revenue-collection-banned-mandatory-etax
 SSD,Government Enterprise Architecture (GEA),GEA,other,,"Ministry of Information, Communication Technology and Postal Services",,2024-06-07-south-sudan-eardip-implementation-support-mission
@@ -559,6 +575,7 @@ SWZ,IFMIS,IFMIS,other,,Ministry of Finance,,2024-01-01-swz-mof-ifmis-quality-ass
 SWZ,IFMIS,Umsebe IFMIS,core,,Ministry of Finance,,2025-11-19-swz-times-budget-through-ifmis
 SWZ,IFMIS,Eswatini,core,,government,,2026-10-24-swz-govt-restores-13-online-services-website-still-down
 SWZ,IFMIS,Integrated Financial Management Information System,core,,Ministry of Finance,,2025-11-23-swz-government-embarks-on-new-era-of-budgeting-with-ifmis-rollout
+SWZ,IFMIS,Integrated Financial Management Information System,core,"National Data Centre, RSTP",Government of Eswatini,,2026-11-14-govt-to-set-up-24-7-cybersecurity-centre-after-attacks
 SYC,Electronic Government Network (EGN),Electronic Government Network,other,,Department of Information Communication Technology,,2025-06-17-national-assembly-dict-egn-visit
 SYC,SeyID,SeyID,other,,Department of Information Communication Technology,,2025-06-17-national-assembly-dict-egn-visit
 SYC,Visual Account Mate (VAM) and Treasury Information System (TIS),VAM and TIS,core,,"Department of Information, Communication and Technology",,2024-07-01-syc-imf-gfs-psds-mission-summary
@@ -586,6 +603,7 @@ TCD,SIGFiP,Chad,core,,Ministry of Finance,,2025-01-08-tcd-le-systeme-informatiqu
 TCD,SIGFiP,Chad,core,,Ministry of Finance and Budget,,2024-01-10-tcd-circulaire-portant-instructions-relatives-a-l-execution-du-budget-gene
 TCD,E-Tax,Chad,other,,,,2024-01-10-tcd-circulaire-portant-instructions-relatives-a-l-execution-du-budget-gene
 TCD,Mirador,Mirador,other,,Ministry of National Education,,2026-10-30-tcd-lendjampost-education-nationale-le-numerique-pour-mieux-gerer-les-agents
+TCD,SIGFiP,SIGFiP,core,,Ministry of Finance,,2026-01-23-tcd-tchad-l-etat-opte-pour-une-gestion-publique-100-numerique-des-2026
 TGO,SIGFiP,SIGFiP,core,,Ministry of Finance and Budget,,2024-09-18-tgo-mfb-formation-solaf-execution-budget
 TGO,SOLAF,SOLAF,other,web-based,Ministry of Finance and Budget,,2024-09-18-tgo-mfb-formation-solaf-execution-budget
 TGO,SIGFiP,SIGFiP,core,,Ministère des Finances et du Budget,,2026-02-25-tgo-renforcement-de-la-gestion-des-finances-publiques-au-togo

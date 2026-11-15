@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-22-sle-nra-hits-100-digital-tax-filing-compliance-as-sierra-leone-s-revenue-r",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "The NRA Commissioner General says ITAS has been fully operational since 2021 for income tax and GST filing.",
+   "as_of": "2025-08-22",
+   "date_precision": "day",
+   "system": "ITAS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ITAS",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "National Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

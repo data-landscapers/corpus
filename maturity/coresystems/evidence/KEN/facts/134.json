@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-07-ken-kra-to-link-real-time-tax-systems-to-m-pesa-for-easier-compliance",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "KRA's iTax is described as having long served as Kenya's primary tax administration platform, per KRA.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "iTax",
+   "class": "core"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-23-tcd-tchad-l-etat-opte-pour-une-gestion-publique-100-numerique-des-2026",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The finance ministry's circular N°002/MFBEPCI/2026 says all 2026 public financial operations, commitment to payment, must be executed in SIGFiP.",
+   "as_of": "2026-01-01",
+   "date_precision": "day",
+   "system": "SIGFiP",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGFiP",
+   "country_label": "SIGFiP",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

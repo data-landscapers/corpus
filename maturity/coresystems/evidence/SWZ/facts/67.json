@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-14-govt-to-set-up-24-7-cybersecurity-centre-after-attacks",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "down",
+   "fact": "The ICT ministry told Parliament the September 2026 National Data Centre incident disrupted at least 12 government platforms including the IFMIS, with 75% of services restored.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "IFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "Integrated Financial Management Information System",
+   "class": "core",
+   "platform": "National Data Centre, RSTP",
+   "owner": "Government of Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

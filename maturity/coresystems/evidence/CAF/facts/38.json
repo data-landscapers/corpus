@@ -1,0 +1,34 @@
+{
+ "slug": "2025-03-27-caf-centrafrique-malgre-la-mauvaise-connectivite-du-pays-les-autorites-opt",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "Ecomatin reports the e-Tax software was recently made operational for tax declaration and payment from 22 March 2025, per the finance minister.",
+   "as_of": "2025-03-22",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "Central African Republic",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance and Budget",
+   "tiers": ""
+  },
+  {
+   "system": "Sim_Ba",
+   "country_label": "Central African Republic",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance and Budget",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-23-gmb-gra-hosts-workshop-on-itas",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Integrated Tax Administration System (ITAS)",
+   "country_label": "ITAS",
+   "class": "other",
+   "platform": "",
+   "owner": "Gambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "ITAS is described as introduced ahead of full rollout, not as a tax system in use."
+}

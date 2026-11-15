@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-13-som-feisal-mohamed-hashi-the-vision-behind-somalia-s-revenue-reforms",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ITAS",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "Somali Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "SOMCAS",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "Customs",
+   "tiers": ""
+  }
+ ],
+ "note": "ITAS is not yet rolled out, so it is other for core systems."
+}
