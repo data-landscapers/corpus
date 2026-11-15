@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-11-mdg-service-pour-le-paiement-des-transferts-monetaires-par-qr-code-sur-la",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Fonds d'Intervention pour le Développement (FID) issued a national open tender on 11 July 2024, closing 8 August 2024, for QR-code payment of cash transfers on the PGP platform for the FIAVOTA programme under the World Bank-financed Safety Nets and Resilience Project, in eight lots across Anosy and Androy.",
+   "as_of": "2024-07-11",
+   "date_precision": "day",
+   "system": "PGP platform (FIAVOTA QR-code payment)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PGP platform",
+   "country_label": "Madagascar",
+   "class": "g2p",
+   "platform": "PGP",
+   "owner": "FID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

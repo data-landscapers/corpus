@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-12-sle-orange-money-facilitates-payment-to-35-000-beneficiary-households",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Satellite News reports NaCSA's Third Cohort Contingency Emergency Cash Transfer, begun 25 January 2024, paying 35,005 beneficiary households NLe 2,660 each electronically through Orange Money.",
+   "as_of": "2024-01-25",
+   "date_precision": "day",
+   "system": "Contingency Emergency Cash Transfer (NaCSA)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

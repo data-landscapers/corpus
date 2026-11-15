@@ -1,0 +1,50 @@
+{
+ "slug": "2026-02-01-ken-february-newsletter-edition",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The newsletter says the CCTPMIS facilitates efficient electronic disbursements for Kenya's Inua Jamii cash transfers.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "CCTPMIS",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CCTPMIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "MIS",
+   "owner": "Government (Inua Jamii)",
+   "tiers": ""
+  },
+  {
+   "system": "Enhanced Single Registry (ESR)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "registry",
+   "owner": "Government",
+   "tiers": ""
+  },
+  {
+   "system": "HSNP MIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "MIS",
+   "owner": "National Drought Management Authority",
+   "tiers": ""
+  },
+  {
+   "system": "CDMIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "web",
+   "owner": "Directorate of Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-20-tcd-le-tchad-integre-le-paiement-numerique-dans-les-operations-financieres",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Chad's finance ministry signed a five-year framework agreement on 18 February 2026 with Moov Money, Airtel Money, Konoom and Cashi-Tchad under which salaries, bonuses, pensions and some operating costs may be paid by mobile money.",
+   "as_of": "2026-02-18",
+   "date_precision": "day",
+   "system": "Convention-cadre mobile money Etat-operateurs",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Convention-cadre mobile money Etat-operateurs",
+   "country_label": "Chad",
+   "class": "g2p",
+   "platform": "mobile money",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

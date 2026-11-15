@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-31-egy-implementation-status-results-report-takaful-and-karama-cash-transfer",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "World Bank ISR reports 4.63 million households receiving Takaful and Karama cash transfers as of May 2026, with transition of all TKP households from cash to Meeza cards rated achieved.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Takaful and Karama",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-01-dji-djibouti-operational-update-mars-2024",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "UNHCR says refugee teachers helped by MENFOP, the education ministry, to open bank accounts are now paid salaries by bank transfer.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "salary payment by bank transfer",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

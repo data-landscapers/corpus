@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-26-mwi-electronic-payment-improves-efficiency-of-cash-transfers",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Nation Online reports M'Mbelwa District Council now pays Social Cash Transfer Programme beneficiaries' monthly stipends electronically through Kaku Mobile Money Service, replacing cash pay parades, with EU support.",
+   "as_of": "2025-09-26",
+   "date_precision": "day",
+   "system": "Kaku Mobile Money Service",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kaku Mobile Money Service",
+   "country_label": "Malawi",
+   "class": "g2p",
+   "platform": "mobile money",
+   "owner": "Kaku Mobile Money Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 7 |
-| 3 Established | 30 |
-| 2 Nascent | 9 |
+| 3 Established | 32 |
+| 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
 | No evidence | 2 |
@@ -156,11 +156,23 @@ Civil servants were paid into bank accounts in 2025; no source found reports a s
 
 - The Ministry of Public Service says civil servants' pay is delivered through bank accounts, ten years after payroll bancarisation was launched, with gaps remaining such as no bank branches in some areas and slow account opening ([source, 2025-08-12](https://fonctionpublique.gouv.cd/fonction-publique-jean-pierre-lihau-trace-la-voie-dune-paie-modernisee-et-securisee/)).
 
+### Djibouti: 3 Established
+
+Some refugee teachers' salaries were paid by bank transfer in 2024; whether other salaries, transfers or pensions are paid digitally is not known.
+
+- UNHCR says refugee teachers helped by MENFOP, the education ministry, to open bank accounts are now paid salaries by bank transfer ([source, 2024-03](https://reliefweb.int/attachments/cdde8002-a416-4ea1-a6f9-05412c05d89c/HCR%20Djibouti_Operational%20Update_Mars%202024%20.pdf)).
+
 ### Eswatini: 3 Established
 
 A government programme paid people digitally in 2026; no source found reports a second main stream.
 
 - The Deputy Prime Minister's Office says elderly grants are paid through commercial banks, and elderly and disabled grants through the MoMo mobile money platform, with bank-paid elderly grants moving to the 25th from August 2026 ([source, 2026-08-13](https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/)).
+
+### Ethiopia: 3 Established
+
+Safety-net transfers were paid electronically in 239 of 492 woredas in 2024; whether salaries or pensions are paid digitally is not known.
+
+- State ministers said at the November 2024 JRIS that PSNP5 had expanded e-payment services to 239 of its 492 woredas ([source, 2024-11](https://www.dpgethiopia.org/wp-content/uploads/2024/12/JRIS-Newsletter-Nov-2024-Final.pdf)).
 
 ### Gabon: 3 Established
 
@@ -313,19 +325,6 @@ Digital government payments to people were under way in 2026; none in service is
 - Tchadinfos reports the finance ministry signed partnership conventions with Moov Money, Airtel Money, Konoom and Cashi, and the minister said they cover settling the salaries of all civil servants ([source, 2026-02-18](https://tchadinfos.com/2026/02/18/digitalisation-des-paiements-publics-le-ministere-des-finances-signe-des-partenariats-avec-des-operateurs-de-mobile-money/)).
 - Chad's finance ministry signed a five-year non-exclusive framework convention with Moov Money, Airtel Money, Konoom and Cashi-Tchad that lets the State pay salaries, bonuses or pensions through mobile money, and the finance minister said every civil servant could receive salary free by bank or mobile wallet ([source, 2026-02-19](https://www.sikafinance.com/marches/tchad-letat-sallie-aux-operateurs-mobile-money-pour-encaisser-les-impots-et-payer-les-salaires_59931)).
 - The Cellule Filets sociaux coordinator said the government safety-net cash transfers are paid through two mechanisms, contracts with microfinance institutions and with mobile telephone operators, while in Bahr El Gazal the agency Express Union pays the transfer in cash ([source, 2025-01-16](https://ndjamenahebdo.net/le-transfert-monetaire-aux-menages-vulnerables/)).
-
-### Djibouti: 2 Nascent
-
-A contract to pay civil servants' salaries digitally was signed in 2025; no source found says whether any payment is made digitally.
-
-- The Ministry of Budget says it and BCI signed a convention for the digitalisation of civil servants' salaries, with no go-live or terms stated ([source, 2025-11-18](https://www.linkedin.com/posts/minist%C3%A8re-du-budget-de-djibouti_budget-digitalisation-gouvernance-activity-7396655456540086272-U-c_)).
-
-### Ethiopia: 2 Nascent
-
-Digital government payments to people were under way in 2026; none in service is on record.
-
-- The Ministry of Finance, the National Bank of Ethiopia and EthSwitch convened government technical teams to advance implementation of a unified framework enabling interoperable person-to-government and government-to-person payments, per FinDev Gateway ([source, 2026-07-17](https://www.findevgateway.org/news/ethiopia-advances-nationwide-rollout-of-interoperable-digital-government-payments)).
-- The World Bank says it is supporting a Government of Ethiopia pilot of electronic safety-net payments through the Telebirr mobile money service in two selected regions ([source, 2024-03-15](https://blogs.worldbank.org/en/nasikiliza/leveraging-e-payments-financial-inclusion-ethiopia-afe-0324)).
 
 ### Guinea-Bissau: 2 Nascent
 

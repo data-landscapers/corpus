@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-04-nga-25m-nigerian-poor-get-cash-payments-enabled-by-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Finance minister Wale Edun said the first and second tranches of 75,000 Naira per household were paid to about five million households, through bank accounts or digital money wallets.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "federal government household cash transfer",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The report says beneficiaries of the federal cash payments are verified biometrically using their NIN and BVN.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "federal government household cash transfer",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "federal government household cash transfer",
+   "country_label": "Nigeria",
+   "class": "g2p",
+   "platform": "bank accounts and digital wallets",
+   "owner": "Federal Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

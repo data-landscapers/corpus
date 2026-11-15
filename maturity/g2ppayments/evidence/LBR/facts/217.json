@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-lbr-orange-mtn-mobile-money-users-to-enjoy-instant-cross-network-transfers",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Central Bank of Liberia says civil servants and public sector workers now receive salaries in 10 to 15 seconds through IIPS, instead of up to seven days.",
+   "as_of": "2025-11-28",
+   "date_precision": "day",
+   "system": "IIPS (Instant Inclusive Payment System)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

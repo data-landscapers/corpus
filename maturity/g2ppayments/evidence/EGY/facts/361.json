@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-04-egy-e-payment-collection-services-exceed-egp-8-1trn-in-egypt-finance-minis",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Egypt's Finance Ministry says state employees' dues are paid electronically, with 4.2 million Meeza cards issued for employee benefits, 93% activated, and EGP 1.071trn of salary payments.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "Government Electronic Payment Gateway (GePG)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GePG",
+   "country_label": "Government Electronic Payment Gateway",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

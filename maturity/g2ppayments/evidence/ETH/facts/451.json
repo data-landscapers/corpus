@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-eth-digital-public-goods-in-use-applications-of-openg2p-in-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "OpenG2P says interaction with a payment system to disburse funds of the Ministry of Women and Social Affairs' Urban Destitute Programme is in progress.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "OpenG2P Disbursement Bridge",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OpenG2P Disbursement Bridge",
+   "country_label": "Ethiopia",
+   "class": "g2p",
+   "platform": "OpenG2P",
+   "owner": "Ministry of Women and Social Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
