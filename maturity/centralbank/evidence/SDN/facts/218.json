@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-02-sdn-digital-inclusion-interrupted-sudan-s-uneven-financial-transformation",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The article says the Central Bank of Sudan licenses and supervises e-payment service providers and licensed more than 64 FinTech organisations from 2016.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "Central Bank of Sudan",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The article says the Central Bank of Sudan has more recently assumed direct oversight for monitoring and auditing national switch transactions, while Electronic Banking Services carries on operating the switch.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "Electronic Banking Services national switch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Banking Services (EBS)",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "national switch",
+   "owner": "Central Bank of Sudan 49%, Sudatel 30%, commercial banks 21%",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

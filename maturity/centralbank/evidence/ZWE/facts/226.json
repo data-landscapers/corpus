@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-12-zwe-rbz-reports-record-us-44-9-billion-in-electronic-transactions-in-6-mon",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The RBZ says it has revised licensing and fee rules for money transfer and mobile banking operators.",
+   "as_of": "2025-08-12",
+   "date_precision": "day",
+   "system": "RBZ licensing rules",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "joined",
+   "fact": "The article says Zimbabwe's participation in PAPSS is expanding, with local banks processing ZAR 2.41 billion in SADC-RTGS transactions, but gives no PAPSS send-and-receive flows.",
+   "as_of": "2025-08-12",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

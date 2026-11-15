@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-13-togotimes-togo-paiements-instantanes-pi-spi",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "BCEAO developed and runs the PI-SPI instant payment platform, in service in Togo with 17 connected providers and 24-hour operation, per TogoTimes.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Togo's providers are connected to the WAEMU-wide PI-SPI, with about 3.9 million Togo users at end-October 2026, per TogoTimes.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "BCEAO instant payment platform",
+   "owner": "BCEAO",
+   "tiers": "banks, e-money issuers, microfinance institutions, payment institutions"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-ken-kenya-startup-bill-status-and-what-it-means",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Hackhouse says payment service providers in Kenya are authorised and overseen by the Central Bank under the National Payment System Regulations 2014.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "National Payment System Regulations 2014",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

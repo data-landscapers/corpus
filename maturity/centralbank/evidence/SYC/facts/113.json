@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-30-syc-launch-of-nebula-fintech-limited",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Central Bank of Seychelles Governor Caroline Abel says Airtel Seychelles' mobile money transfer service, launched in 2015, was licensed by the Central Bank.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Airtel Seychelles mobile money",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

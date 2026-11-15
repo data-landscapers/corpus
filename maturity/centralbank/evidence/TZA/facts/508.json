@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-11-tza-bot-connects-all-payment-providers-to-tips",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Tanzania Instant Payment System (TIPS)",
+   "country_label": "Tanzania",
+   "class": "oversight",
+   "platform": "instant payment switch",
+   "owner": "Bank of Tanzania",
+   "tiers": "banks and telecoms"
+  }
+ ],
+ "note": ""
+}

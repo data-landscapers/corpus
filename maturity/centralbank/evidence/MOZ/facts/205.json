@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-19-moz-national-switch-fully-operational-communique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIMORede",
+   "country_label": "Mozambique",
+   "class": "oversight",
+   "platform": "Euronet",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Communique names the national switch but does not say the central bank runs or oversees it, licenses providers or states a mandate."
+}

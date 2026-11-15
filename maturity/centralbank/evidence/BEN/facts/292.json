@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-14-ben-marche-beninois-du-pi-spi-qui-manque-encore-a-l-appel-du-paiement-inst",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "BCEAO's PI-SPI instant payment platform is in service in Benin, with 11 participants at 31 July 2026 and BCEAO-set connection deadlines (La Marina BJ).",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Benin banks and two mobile money issuers (Moov Money, MTN) take part in the regional PI-SPI at 31 July 2026, per La Marina BJ.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "BCEAO instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

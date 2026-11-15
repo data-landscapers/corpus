@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-29-mar-switch-al-maghrib-une-nouvelle-identite-pour-piloter-la-souverainete-n",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Boursenews reports that Switch Al-Maghrib, the national switch, is recognised as a financial market infrastructure and subject to direct, continuous oversight by Bank Al-Maghrib, with daily indicators, regular audits and validation of services and tariffs.",
+   "as_of": "2025-05-27",
+   "date_precision": "day",
+   "system": "Switch Al-Maghrib (SWAM)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Switch Al-Maghrib (SWAM)",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "national switch (routing, clearing, settlement)",
+   "owner": "HPS Switch, subsidiary of HPS group",
+   "tiers": "48 connected participants"
+  }
+ ],
+ "note": ""
+}

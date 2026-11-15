@@ -6,13 +6,13 @@
       "stage": "4",
       "mandate": "licensing",
       "switch": "overseen",
-      "regional": "",
+      "regional": "joined",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-003;KEN-004",
-      "gaps": "No source found since October 2023 says Kenyan banks or payment providers send and receive payments through PAPSS.",
-      "note": "The CBK licenses payment service providers (March 2026) and regulates Kenswitch, a domestic switch connecting banks, SACCOs, microfinance institutions and mobile money providers (November 2026), so stage 4. No live PAPSS participation has been found, so not 5.",
-      "as_at": "2026-11-09"
+      "stage_sources": "KEN-003;KEN-005;KEN-004",
+      "gaps": "KCB Group and Equity Bank are connected to PAPSS (November 2026, KEN-007), but no source found says Kenyan banks or payment providers send and receive payments through it; connection or joining does not count.",
+      "note": "The CBK licenses payment service providers (41 in its November 2025 directory) and regulates Kenswitch, a domestic switch connecting banks, SACCOs, microfinance institutions and mobile money providers, so stage 4. Two Kenyan banks connected to PAPSS in November 2026 report no live payments, so not 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

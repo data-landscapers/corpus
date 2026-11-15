@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-07-ssd-boss-finalises-payment-system-to-connect-banks-telecoms-and-fintech",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Payment System",
+   "country_label": "South Sudan",
+   "class": "other",
+   "platform": "central switch for banks and mobile money operators",
+   "owner": "Bank of South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": "NPS switch is in final preparation with no launch date; no licensing, mandate drafting or in-service oversight is stated."
+}

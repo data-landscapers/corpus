@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-mar-le-hub-digital-au-service-des-paiements-electroniques-au-maroc",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Switch Al Maghrib says new payment institutions licensed by Bank Al-Maghrib were connected to its Switch Mobile hub, bringing members to 18 at end-2023.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Switch Mobile",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Switch Al Maghrib says it is authorised by Bank Al-Maghrib to run switching and the interoperability of payment transactions, as one of the country's five financial market infrastructures.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Switch National",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Switch National (Switch Al Maghrib)",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "Switch Carte and Switch Mobile",
+   "owner": "Switch Al Maghrib",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

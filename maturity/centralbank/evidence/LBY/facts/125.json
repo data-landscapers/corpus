@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-01-lby-central-bank-of-libya-announces-the-launching-of-an-instant-payment-se",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Moamalat",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "national switch, instant payment, open banking",
+   "owner": "Moamalat Company",
+   "tiers": ""
+  }
+ ],
+ "note": "Switch is only to be restructured around Moamalat; no licensing, oversight in service or PAPSS stated."
+}

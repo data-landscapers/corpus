@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-04-nam-mtc-targets-over-50-of-namibians-who-are-unbanked-with-maris-offering",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Brief reports MTC Maris operates under Bank of Namibia regulation and follows MTC securing an electronic money licence from the Bank of Namibia in November.",
+   "as_of": "2024-10-04",
+   "date_precision": "day",
+   "system": "MTC Maris",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTC Maris",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "mobile wallet",
+   "owner": "MTC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

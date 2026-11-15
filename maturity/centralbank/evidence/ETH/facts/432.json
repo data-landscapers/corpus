@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-06-eth-m-pesa-ethiopia-reaches-3-4mln-users-as-transactions-total-12-3bln-bir",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Birr Metrics reports the National Bank of Ethiopia granted Safaricom a Payment Instrument Issuer licence in May 2023, and M-PESA launched on 16 August 2023.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "Payment Instrument Issuer licence",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EthSwitch",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -6,7 +6,7 @@
 
 **Overseeing a switch.** [The same report says the central bank's automated clearing house has run since October 2022](<https://banque-centrale.dj/wp-content/uploads/2025/09/Rapport-Annuel_-V.Definitive.pdf>). It is part of the SYRAD payment system at the central bank. In 2024 it cleared 26,970 low-value transfers and 28,683 cheques. It had 13 participants.
 
-**Live on PAPSS.** [PAPSS lists Djibouti as a country with live send-and-receive participants](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>). They are East African Bank and Salaam African Bank. [AfricaNenda's SIIPS 2024 says Djibouti had integrated with PAPSS](<https://www.africanenda.org/uploads/files/siips-2024-mainreport-EN.pdf>). It was then unclear whether any retail transactions were processed. The 2026 PAPSS list shows both banks sending and receiving.
+**Live on PAPSS.** [PAPSS lists Djibouti as a country with live send-and-receive participants](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>). They are East African Bank and Salaam African Bank. [AfricaNenda's SIIPS 2024 says Djibouti had integrated with PAPSS](<https://www.africanenda.org/uploads/files/siips-2024-mainreport-EN.pdf>). It was then unclear whether any retail transactions were processed. [PAPSS's November 2026 coverage sheet still lists Djibouti among countries with live participants](<https://papss.com/wp-content/uploads/2026/11/PAPSS-PAYMENTS-NETWORK-COVERAGE_NOVEMBER2026.pdf>).
 
 ***Also on file***. [PAPSS](<https://www.africanenda.org/uploads/files/siips-2024-mainreport-EN.pdf>); [Système de Règlement Automatisé de Djibouti (SYRAD)](<https://www.africanenda.org/uploads/files/siips-2024-mainreport-EN.pdf>).
 

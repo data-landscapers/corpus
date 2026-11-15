@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-26-uga-africanenda-tor-bnps-instant-payment-system-blueprint",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Bank of Uganda National Payment Switch (BNPS)",
+   "country_label": "Uganda",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": "BNPS is being implemented, not in service; no licensing or drafting stated."
+}

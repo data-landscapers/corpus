@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-gha-fintech-sector-report-2026-q1",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Bank of Ghana report lists 63 approved fintech entities as of March 2026 across DEMI and PSP licence categories.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Bank of Ghana fintech licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

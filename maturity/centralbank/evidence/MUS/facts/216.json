@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-25-mus-transformation-monetaire-la-banque-de-maurice-accelere-sur-la-monnaie",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of Mauritius has put in place infrastructure such as MauCAS and its QR code, facilitating interbank payments, per the governor's symposium speech as reported.",
+   "as_of": "2025-07-25",
+   "date_precision": "day",
+   "system": "MauCAS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MauCAS",
+   "country_label": "Mauritius",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

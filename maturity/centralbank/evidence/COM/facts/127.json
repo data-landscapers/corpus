@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-27-com-comores-vers-une-interoperabilite-complete-des-transactions-financiere",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Payment Switch",
+   "country_label": "Comoros",
+   "class": "oversight",
+   "platform": "PayLogic",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Switch is announced by PayLogic; document does not say the central bank runs or oversees it or licenses providers."
+}

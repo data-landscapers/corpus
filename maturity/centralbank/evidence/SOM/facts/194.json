@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-22-som-sharaxaad-nidaamka-lacag-bixinta-sips-ee-somalia-laga-daahfuray",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "VOA Somali reports SIPS was formally launched in Mogadishu on 22 January 2025, built jointly by the Central Bank of Somalia and private banks, linking payments across banks.",
+   "as_of": "2025-01-22",
+   "date_precision": "day",
+   "system": "SIPS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIPS",
+   "country_label": "Somalia",
+   "class": "oversight",
+   "platform": "instant payment system",
+   "owner": "Central Bank of Somalia with private banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

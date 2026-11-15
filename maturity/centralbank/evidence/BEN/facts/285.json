@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-02-ben-interoperabilite-du-mobile-money-au-benin-pi-spi-entre-en-vigueur-ce-q",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "BCEAO's Avis n°0019 of 2 October 2026 makes its PI-SPI platform mandatory from 2 November 2026 for interoperable e-money transactions in the UEMOA including Benin.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "The article says PI-SPI is a BCEAO regional platform covering the eight UEMOA states including Benin, in force from 2 November 2026.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "BCEAO instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

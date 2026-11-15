@@ -1,0 +1,36 @@
+{
+ "slug": "2024-05-01-gab-mobile-money-au-gabon-tr3-arcep-gabon",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "ARCEP Gabon says Gabon Telecom and Airtel Money provide mobile money through the banks UGB and BGFIBank, which hold COBAC approvals to issue electronic money.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "COBAC e-money issuer approval",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "ARCEP Gabon says COBAC ensures interoperability of mobile payment systems in the CEMAC zone through its GIMACPAY platform.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "GIMACPAY",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIMACPAY",
+   "country_label": "Gabon",
+   "class": "oversight",
+   "platform": "GIMAC",
+   "owner": "COBAC/GIMAC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

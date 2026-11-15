@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-26-lso-central-bank-of-lesotho-and-fintech-launch-leswitch",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Lesotho Tribune reports the Central Bank of Lesotho, with Fintech, introduced LESWITCH, a national platform enabling transactions between mobile money wallets.",
+   "as_of": "2024-03-26",
+   "date_precision": "day",
+   "system": "LESWITCH",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LESWITCH",
+   "country_label": "Lesotho",
+   "class": "oversight",
+   "platform": "national payment switch",
+   "owner": "Central Bank of Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

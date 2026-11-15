@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-02-nga-mobile-money-transactions-surge-81-to-n372tn-cbn-report",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The CBN 2025 Annual Report, as reported by Punch, shows Nigeria had 84 licensed Payment Service Providers at end-2025, including eight Mobile Money Operators and seven Switching and Processing companies.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "CBN payment service provider licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile Money Operators",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "OPay, PalmPay, Paga and others",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

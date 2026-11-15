@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-egy-financial-digitization",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The CBE launched the Instant Payment Network in March 2022, linking all banks in Egypt via an interoperability system open to fintechs.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "Instant Payment Network (IPN)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Instant Payment Network (IPN)",
+   "country_label": "Central Bank of Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

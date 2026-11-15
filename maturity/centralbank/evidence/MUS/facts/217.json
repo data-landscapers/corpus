@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-31-mus-banque-de-maurice-digital-currency-la-phase-pilote-lancee-avec-une-ban",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Governor Seegolam says the Bank of Mauritius implemented the national payment switch MauCAS in 2019, with the MauCAS Instant Payment System.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "MauCAS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MauCAS",
+   "country_label": "Mauritius",
+   "class": "oversight",
+   "platform": "national payment switch",
+   "owner": "Bank of Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

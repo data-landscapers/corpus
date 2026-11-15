@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 DJI,centralbank,mandate,coverage,licensing,2024,DJI-003,,
 DJI,centralbank,switch,coverage,overseen,2024,DJI-004,,
-DJI,centralbank,regional,coverage,live,2026-06,DJI-002,DJI-001=joined,
+DJI,centralbank,regional,coverage,live,2026-11,DJI-002;DJI-005,DJI-001=joined,
