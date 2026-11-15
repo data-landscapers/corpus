@@ -68,6 +68,7 @@ BEN,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 BFA,2023-12-15-bfa-2024-03-anssi,,2026-10-19
 BFA,2024-07-10-primature-conseil-ministres-n023-creation-anci,,2026-10-19
 BFA,2024-10-04-bfa-digitalmagazine-pki-national-anssi,,2026-10-19
+BFA,2024-11-22-ner-integration-numerique-l-arcep-niger-celebre-son-25e-anniversaire-avec,,2026-11-15
 BFA,2024-12-23-bfa-2025-31-anssi,,2026-10-19
 BFA,2025-03-08-bfa-materiels-et-logiciels-de-cybersecurite-desormais-la-commercialisation,,2026-10-28
 BFA,2025-04-29-bfa-cybersecurite-les-directeurs-generaux-des-structures-publiques-de-l-et,,2026-10-28
@@ -248,6 +249,7 @@ CPV,2025-12-31-cpv-2026-ciber-seguranca,,2026-10-19
 CPV,2026-09-08-cpv-expressodasilhas-correios-mensagens-fraudulentas,,2026-10-19
 CPV,2026-10-13-xaf-newslinkghana-agbeti-anca-united-cyber-defence,,2026-10-19
 CPV,2026-11-09-ipris-tenth-cohort,,2026-11-11
+CPV,2026-11-13-cpv-microsoft-outage-state-platforms,,2026-11-15
 DJI,2024-11-26-dji-prisma-interview-governor-bcd,,2026-10-26
 DJI,2024-12-02 Djibouti National Cybersecurity Strategy 2024-2030,,2026-10-19
 DJI,2025-01-14-dji-travaux-de-la-2ieme-seance-du-mardi-14-janvier-2025,,2026-11-02
@@ -267,6 +269,7 @@ DJI,2026-10-13-dji-lanation-anc-culturecyber-campaign,,2026-10-19
 DJI,2026-10-13-igad-cyber-month-ethiopia-member-states-sessions,,2026-10-19
 DJI,2026-11-09-djibouti-anc-cybersecurity-campaign-assembly,,2026-11-11
 DJI,2026-11-11-dji-ministre-helem-uit-conference-plenipotentiaires,,2026-11-13
+DJI,2026-11-12-dji-adi-djibouti-chiffres-uit-pp26,,2026-11-15
 DZA,2024-07-29-dza-apres-la-panne-informatique-mondiale-les-recommandations-de-care,,2026-10-28
 DZA,2025-04-27-dza-maghrebinfo-saadaoui-transformation-numerique,,2026-10-19
 DZA,2025-05-12-dza-algerie-numerique-2030-une-strategie-ambitieuse-pour-un-virage-digital,,2026-11-02
@@ -290,6 +293,7 @@ EGY,2023-06-26-egy-national-cybersecurity-strategy-2023-2027,,2026-10-19
 EGY,2024-01-01-crs-84-2024020048-2024-strengthening-cybersecurity-capabilities-in-the-ar,,2026-11-07
 EGY,2024-09-18-tra-egypt-tier1-itu-cybersecurity-index,,2026-10-19
 EGY,2024-12-21-egy-supreme-cybersecurity-council-approves-key-controls,,2026-10-28
+EGY,2025-01-01-egy-financial-digitization,,2026-11-15
 EGY,2025-02-18 Egypt scores 100% on the ITU Global Cybersecurity Index (2024),,2026-10-19
 EGY,2025-11-28-egy-om-mekka-economic-court-reasoning-law-175-2018,,2026-10-28
 EGY,2026-01-01-egy-mcit-ict-strategy-page-publications-en,,2026-11-07
@@ -442,6 +446,7 @@ GIN,2025-09-12-anssi-guinee-alerte-manipulations-par-ia,,2026-10-19
 GIN,2025-10-08-gin-ia-et-protection-des-donnees-personnelles-la-ministre-rose-pola-pricem,,2026-10-21
 GIN,2026-02-28-statbase-guinea-cybersecurity-index,,2026-10-19
 GIN,2026-06-12-anssi-campagne-nationale-sensibilisation-cybersecurite,,2026-10-19
+GIN,2026-07-01-gin-l-ecosysteme-startup-au-cur-de-la-future-strategie-nationale-de-gouver,,2026-11-15
 GIN,2026-08-13-gin-guinee-consultations-sur-la-revision-du-cadre-juridique-de-la-cybersec,,2026-10-28
 GIN,2026-08-20-investigator-guinee-plateformes-gouvernementales-et-vulnerabilites-le-talon,,2026-10-19
 GIN,2026-10-20-gin-la-guinee-a-lheure-de-lia-moderniser-letat-avant-que-la-technologie-ne,,2026-10-24
@@ -451,6 +456,8 @@ GMB,2020-10-01-gmb-moici-ict-human-capital-development-strategy-2021-2024,,2026-
 GMB,2022-09-01-gambia-national-cybersecurity-strategy-action-plan-2022-2026-revised,,2026-10-19
 GMB,2024-01-01 Gambia National Digital Economy Master Plan 2024-2034,,2026-11-11
 GMB,2024-01-26-gmb-fatunetwork-mocde-2023-achievements,,2026-10-19
+GMB,2024-06-12-gmb-pura-hosts-watra-meeting-to-boost-digital-transformation-in-w-africa,,2026-11-15
+GMB,2024-11-19-gha-ghana-collaborates-to-expand-ecowas-free-roaming-to-the-gambia,,2026-11-15
 GMB,2025-01-01-mocde-data-governance-trends-gambia,,2026-10-19
 GMB,2026-04-22-gmb-gmcsirt-rfc-2350,,2026-10-28
 GMB,2026-05-14-gmb-gambiaj-gpu-press-freedom-threats,,2026-10-19
@@ -579,6 +586,7 @@ MAR,2026-10-25-mar-le-plf-2027-veut-faire-du-cloud-le-choix-par-defaut-des-nouve
 MAR,2026-10-28-la-mauritanie-explore-l-exp-rience-marocaine-pour-interconnecter-ses-a,,2026-10-29
 MAR,2026-11-02-mar-al3omk-digital-vulnerabilities-bug-to-economic-social-security-challenge,,2026-11-05
 MAR,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
+MAR,2026-11-14-xwa-ecowas-women-in-cybersecurity-rabat-apanews,,2026-11-15
 MDG,2023-12-21-mdg-implementation-status-and-results-report-digital-governance-and-identi,,2026-11-12
 MDG,2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development,,2026-11-01
 MDG,2025-12-15-cybersecurite-strategie-nationale-midi,,2026-10-19
@@ -590,6 +598,7 @@ MDG,2026-10-22-mdg-la-prevention-de-la-cybercriminalite-se-renforce,,2026-10-24
 MDG,2026-10-24-mdg-lutte-contre-la-cybercriminalite-les-parlementaires-reexaminent-le-pro,,2026-10-26
 MDG,2026-11-03-mdg-madagascar-cyber-escroquerie-une-affaire-de-gros-sous,,2026-11-05
 MLI,2024-01-31-mli-cybersecuritymag-validation-strategie-cybersecurite,,2026-10-19
+MLI,2024-11-22-ner-integration-numerique-l-arcep-niger-celebre-son-25e-anniversaire-avec,,2026-11-15
 MLI,2025-01-14-mali-national-cybersecurity-strategy,,2026-10-19
 MLI,2025-05-27-mli-souverainete-numerique-et-cybersecurite-au-mali-strategie-nationale,,2026-10-28
 MLI,2025-12-04-mali-conseil-des-ministres-cm-2025-50-programme-africain-mini-reseaux,,2026-10-19
@@ -735,6 +744,7 @@ NAM,2026-10-03-nam-technews-cran-appoints-nam-csirt-executive,,2026-10-19
 NAM,2026-10-25-nam-php-security-flaws-put-namibian-websites-at-risk-the-namibian,,2026-10-28
 NAM,2026-11-06-nam-namibian-cybersecurity-risks-remain-elevated-nam-csirt,,2026-11-09
 NAM,2026-11-09-ipris-tenth-cohort,,2026-11-11
+NER,2024-11-22-ner-integration-numerique-l-arcep-niger-celebre-son-25e-anniversaire-avec,,2026-11-15
 NER,2025-07-24-national-committee-critical-digital-infrastructure-lesahel,,2026-10-19
 NER,2025-07-25-africacert-handshake-symposium-niamey-lesahel,,2026-10-19
 NER,2025-07-25-ner-niger-sets-up-national-committee-to-oversee-critical-digital-infrastru,,2026-11-12
@@ -900,6 +910,8 @@ SOM,2026-10-13-igad-cyber-month-ethiopia-member-states-sessions,,2026-10-19
 SOM,2026-10-19-som-biometricupdate-halmeel-unified-platform-national-id,,2026-10-20
 SOM,2026-10-27-som-somalia-opens-fourth-national-cybersecurity-forum-in-mogadishu,,2026-10-28
 SSD,2024-10-17-ssd-south-sudan-inaugurates-computer-incident-response-team,,2026-10-28
+SSD,2025-06-11-ssd-south-sudan-signs-tlp-protocol-to-work-with-eaco-against-cyber-threats,,2026-11-15
+SSD,2025-06-13-ssd-south-sudan-hosts-1st-eaco-advisory-council-and-30th-general-assemblie,,2026-11-15
 SSD,2025-08-29-south-sudan-eardip-implementation-support-mission,,2026-10-19
 SSD,2025-10-26-ssd-police-cyber-crime-legislation-will-strengthen-enforcement-and-protect,,2026-10-29
 SSD,2025-11-06-nca-national-cyber-incident-management-framework,,2026-10-19
@@ -941,6 +953,7 @@ SWZ,2026-10-08-swz-escom-national-cyber-drill-eswatini-cyber-resilience,,2026-10
 SWZ,2026-10-19-swz-senators-back-e5m-fines-10-year-jail-terms-for-critical-infrastructure,,2026-11-12
 SWZ,2026-10-29-swz-eswatini-s-cybersecurity-score-quadruples,,2026-11-01
 SWZ,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
+SWZ,2026-11-14-govt-to-set-up-24-7-cybersecurity-centre-after-attacks,,2026-11-15
 SYC,2019-01-01-ict-gov-sc-national-cybersecurity-strategy,,2026-10-19
 SYC,2024-07-11-syc-statehouse-cabinet-national-cyber-coordination-committee,,2026-10-19
 SYC,2025-01-01-syc-rfc-2350-profile,,2026-10-28
@@ -1126,6 +1139,7 @@ ZWE,2026-05-11-zwe-government-orders-ministries-to-integrate-ict-systems,,2026-1
 ZWE,2026-05-27-zwe-zimbabwe-intensifies-fight-against-rising-cybercrimes,,2026-10-28
 ZWE,2026-06-23 Implications of Zimbabwe’s National AI Strategy on Freedom of Expression Privacy and Access to Information,,2026-10-19
 ZWE,2026-07-02-zimbabwe-cybersecurity-authority-strategy-finalising,,2026-10-19
+ZWE,2026-07-02-zwe-zimbabwe-moves-to-criminalise-malicious-ai-generated-deepfakes,,2026-11-15
 ZWE,2026-08-08-itu-project-9zim17008-zimbabwe-national-cirt-establishment,,2026-10-19
 ZWE,2026-08-20-zimbabwe-flags-cyber-risks-in-digital-payments,,2026-10-19
 ZWE,2026-09-02-zwe-rockwell-mimosa-mine-ot-security,,2026-10-19

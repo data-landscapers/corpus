@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-14-govt-to-set-up-24-7-cybersecurity-centre-after-attacks",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Security Operations Centre (planned)",
+   "country_label": "24-hour SOC",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": "SOC is only planned; no national body, strategy, response or designation stated."
+}

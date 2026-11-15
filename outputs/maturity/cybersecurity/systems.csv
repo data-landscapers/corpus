@@ -191,6 +191,7 @@ CPV,CSIRT RTPE,Cabo Verde,response,,"NOSi, E.P.E.",,2025-10-30-cpv-governo-lanca
 CPV,SOC RTPE,Cabo Verde,other,,"NOSi, E.P.E.",,2025-10-30-cpv-governo-lancamento-soc-csirt-rtpe
 CPV,national CSIRT,Cabo Verde,response,,NOSi,,2025-12-31-cpv-2026-ciber-seguranca
 CPV,national SOC,Cabo Verde,response,,NOSi,,2025-12-31-cpv-2026-ciber-seguranca
+CPV,DGTED,Direcção-Geral das Telecomunicações e Economia Digital,other,,Government of Cabo Verde,,2026-11-13-cpv-microsoft-outage-state-platforms
 DJI,ANC Djibouti (DJ-CERT),Autorité Nationale de Cybersécurité,response,,,,2026-07-09-anc-dj-cert-igad-cyber-exercise-lanation
 DJI,Autorite Nationale de Cybersecurite (ANC),Autorite Nationale de Cybersecurite (ANC),response,,"Presidency of the Republic, supervised by the Direction Generale de la Securite Nationale",,"2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)"
 DJI,DJ-CERT,DJ-CERT,response,,ANC,,"2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)"
@@ -430,6 +431,7 @@ MAR,Stratégie nationale de cybersécurité à l'horizon 2030,Morocco,response,,
 MAR,DGSSI,DGSSI,response,,Administration de la Defense nationale,,2025-11-14-mar-dgssi-879-cyberattaques-recensees-en-2025-109-interventions-directes
 MAR,maCERT,maCERT,response,,DGSSI,,2024-11-15-mar-hackers-have-launched-644-cyberattacks-against-morocco-in-2024
 MAR,DGSSI / maCERT,Morocco,response,,DGSSI,,2026-11-02-mar-al3omk-digital-vulnerabilities-bug-to-economic-social-security-challenge
+MAR,DGSSI,Direction générale de la sécurité des systèmes d'information,other,,Morocco,,2026-11-14-xwa-ecowas-women-in-cybersecurity-rabat-apanews
 MDG,CIRT (national Computer Incident Response Team),Madagascar,response,,,,2025-12-19-ecofin-madagascar-cybersecurity-strategy-groundwork
 MDG,CIRT (Computer Incident Response Team),Madagascar,response,,,,2025-12-16-madagascar-launches-drafting-national-cybersecurity-strategy
 MDG,CIRT,Madagascar,response,,,,2025-12-15-cybersecurite-strategie-nationale-midi
@@ -673,6 +675,7 @@ SWZ,National Cybersecurity Agency,National Cybersecurity Agency (NCA),response,,
 SWZ,ESCCOM,Eswatini Communications Commission (National Cybersecurity Agency),response,,ESCCOM,,2025-07-25-swz-hacking-on-rise-water-services-halts-digital-payments
 SWZ,National Computer Incident Response Team (NCIRT),National Computer Incident Response Team (NCIRT),response,,National Cybersecurity Agency at ESCCOM,,2024-02-06-swz-anyone-can-be-a-victim-of-cyber-crime-sakhile-dlamini
 SWZ,National Computer Incident Response Team,National Computer Incident Response Team,response,,Ministry of ICT,,2026-10-29-swz-eswatini-s-cybersecurity-score-quadruples
+SWZ,Security Operations Centre (planned),24-hour SOC,other,,Ministry of ICT,,2026-11-14-govt-to-set-up-24-7-cybersecurity-centre-after-attacks
 SYC,CERT-SC,Seychelles,response,,Department of Information and Communication Technology,,2026-10-06-cert-sc-takes-the-lead-in-third-seychelles-national-cyberdri
 SYC,CERT-SC,Seychelles,response,,Department of ICT,,2019-01-01-ict-gov-sc-national-cybersecurity-strategy
 SYC,National Cybersecurity Coordination Committee (NCCC),Seychelles,other,,,,2025-05-13-nation-ai-nccc-amps-media

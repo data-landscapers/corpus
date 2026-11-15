@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-13-cpv-microsoft-outage-state-platforms",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DGTED",
+   "country_label": "Direcção-Geral das Telecomunicações e Economia Digital",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": "The document describes a Microsoft outage handled by the telecoms and digital economy directorate-general; no national cyber body, alert, strategy or critical infrastructure designation is stated."
+}
