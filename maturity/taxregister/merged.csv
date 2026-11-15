@@ -1,4 +1,5 @@
 iso3,source_slug,read,merged_on
+AGO,2024-04-02-ago-apenas-2-em-cada-10-cidadaos-tem-oficialmente-numero-de-identificacao,,2026-11-15
 AGO,2024-07-19-ago-angola-decision-on-infringement-proceedings,,2026-10-31
 AGO,2025-04-23-ago-ministro-reafirma-aposta-na-atribuicao-de-15-milhoes-de-bi-ate-2027,,2026-11-08
 AGO,2025-09-18-ago-ministerio-da-justica-reitera-aposta-nas-tic-para-modernizar-e-simplif,,2026-10-23
@@ -36,6 +37,7 @@ BEN,2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id,,2026-10-23
 BEN,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben,,2026-10-19
 BEN,2026-05-06-anip-rnpp-actes-naissance-securises,,2026-10-19
 BEN,2026-05-07-anip-rnpp-nouvelles-precisions,,2026-10-19
+BEN,2026-07-01-ben-fact-sheet-benin-january-june-2026,,2026-11-15
 BEN,2026-07-16-adjinacou-maternite-identite-legale,,2026-10-19
 BEN,2026-08-10-ben-benin-journee-de-l-etat-civil-et-des-statistiques-de-l-etat-civil-2026,,2026-11-08
 BEN,2026-08-24-ben-decryptage-8400-nouveaux-refugies-6-mois,,2026-10-19
@@ -48,6 +50,7 @@ BFA,2023-10-17-dgi-faq-immatriculation-contribuables-ifu,,2026-10-19
 BFA,2024-01-01-bfa-burkina-faso-le-nouveau-regime-juridique-de-l-identification-des-abonn,,2026-11-09
 BFA,2024-10-11-bfa-alt-loi-027-2024-identification-unique,,2026-10-19
 BFA,2026-11-04-bfa-communiqu-dgi-facturation-lectronique-certifi-e-obligatoire-pour-les-g,,2026-11-07
+BFA,2026-11-13-bfa-cefore-preparer-votre-creation-d-entreprise,,2026-11-15
 CAF,2022-03-31-caf-gufe-faq-nif-at-registration,,2026-10-19
 CAF,2025-01-01-caf-civipol-modero-etat-civil-rnec,,2026-10-19
 CIV,2016-01-01-civ-dgi-guide-utilisateur-e-impots,,2026-10-19
@@ -84,12 +87,14 @@ COD,2024-10-18-cod-penurie-de-registres-d-acte-de-naissance-au-nord-kivu-en-rdc,
 COD,2025-05-20-cod-rdc-lancement-de-la-deuxieme-phase-d-une-plateforme-numerique-simplifi,,2026-10-24
 COD,2025-06-06-actualite-cd-passeport-biometrique-rdc,,2026-10-19
 COD,2025-10-10-cod-etude-de-faisabilite-developpement-d-une-feuille-de-route-pour-la-mise,,2026-10-23
+COD,2025-11-11-cod-numero-d-impot-fiscale-nif-la-dgi-reinvente-la-proximite-et-la-transpa,,2026-11-15
 COD,2025-12-01-dgi-reforme-facture-normalisee-entree-vigueur,,2026-10-19
 COD,2025-12-02-dgi-communique-gratuite-immatriculation-nif,,2026-10-19
 COD,2026-01-01-cod-surveillance-des-systemes-de-paiement,,2026-10-27
 COD,2026-08-31-cod-rdc-16-622-dossiers-fonciers-assainis-en-dix-jours-et-146-bureaux-a-eq,,2026-11-12
 COD,2026-10-23-cod-itie-rdc-donnees-et-divulgation-systematique,,2026-10-24
 COD,2026-11-09-cod-lancement-du-recensement-fiscal-digitalise-des-proprietes-im,,2026-11-11
+COD,2026-11-12-cod-donnees-ouvertes-itie-rdc,,2026-11-15
 COG,2020-08-10-cog-minfin-mise-en-production-nouveau-niu,,2026-10-19
 COG,2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu,,2026-11-01
 COG,2025-11-01-cog-congo-reforme-fonciere-et-patrouilles-domaniales,,2026-11-12
@@ -99,6 +104,7 @@ CPV,2026-01-01-cpv-govcv-nif-pessoa-singular,,2026-10-19
 CPV,2026-01-01-cpv-peo-sobre-nos-plataforma-empresa-online,,2026-10-19
 CPV,2026-09-17-cpv-inforpress-teleport-missao-novos-investimentos,,2026-10-19
 DJI,2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques,,2026-10-19
+DJI,2025-08-31-dji-module-de-prepaiement,,2026-11-15
 DJI,2026-01-01-dji-entreprendre-guide-createur-entreprise,,2026-10-19
 DJI,2026-07-23-lanation-carte-nationale-identite-biometrique,,2026-10-19
 DZA,2023-11-10-dza-dgi-ouvrir-dossier-fiscal-nif,,2026-10-19
@@ -107,6 +113,7 @@ DZA,2024-04-04-dza-lasentinelle-etat-civil-nin-revolution,,2026-10-19
 DZA,2025-05-20-dza-lavoiedalgerie-reforme-etat-civil-numerisation,,2026-10-19
 DZA,2025-11-26-dza-digitalisation-des-certificats-de-deces-90-medecins-en-formation,,2026-10-27
 DZA,2025-12-08-dza-algerie360-nin-rnaec-administrations,,2026-10-19
+DZA,2026-01-01-dza-main-measures-of-the-2026-finance-law,,2026-11-15
 DZA,2026-01-27-dza-algerie-publication-d-un-decret-officialisant-la-mise-en-place-du-livr,,2026-11-12
 DZA,2026-02-25-dza-ecotimes-cadastral-digitisation,,2026-10-19
 DZA,2026-03-18-national-export-data-platform--wearetech,,2026-10-19
@@ -116,6 +123,7 @@ DZA,2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe,,2026-10-19
 DZA,2026-08-24-dza-acquisition-et-mise-en-place-d-un-datacenter-de-secours-hyperconverge,,2026-11-12
 DZA,2026-09-03-dza-importations-suspectes-en-algerie-l-ia-demasque-des-documents-identiqu,,2026-10-22
 DZA,2026-09-10-dza-elwatan-dzair-digital-services-cinq-services-impots,,2026-10-19
+DZA,2026-10-01-dza-paiement-des-impots-en-ligne-en-algerie-ce-que-le-guide-jibayatic-de-l,,2026-11-15
 DZA,2026-10-12-dza-capdz-oran-1-5-million-official-geolocated-addresses,,2026-10-29
 DZA,2026-10-17-dza-cnrc-portail-creation-entreprise-accueil,,2026-10-19
 DZA,2026-10-18-dza-acte-de-naissance-casier-judiciaire-nif-les-papiers-a-obtenir-en-ligne,,2026-10-27
@@ -124,10 +132,13 @@ EGY,2023-07-30-egy-eta-update-national-id-taxpayer-data,,2026-10-19
 EGY,2024-01-21-egy-cairo24-mohp-births-deaths-fully-automated,,2026-10-27
 EGY,2025-07-12-egy-businessmen-itda-tax-number-commercial-registry,,2026-10-19
 EGY,2025-07-17-egy-ahram-real-estate-registry-complex-alamein,,2026-10-19
+EGY,2026-08-22-egy-social-registry-13m-households-law-12-unified-source,,2026-11-15
 EGY,2026-11-06-egy-social-registry-13m-households-27-databases,,2026-11-09
 EGY,2026-11-07-egy-cairo-ict-2026-fra-chairman-highlights-digital-transformation-in-non-b,,2026-11-09
 ETH,2024-01-01-eth-fayda-digital-id-ethiopia-status-update,,2026-11-08
 ETH,2024-05-09-eth-ethiopia-s-national-digital-id-a-breakthrough-for-tax-system-transform,,2026-11-08
+ETH,2025-06-01-eth-over-9-000-sudanese-refugees-receive-digital-ids-in-ethiopia,,2026-11-15
+ETH,2026-01-01-eth-land-rights-for-millions-of-ethiopians,,2026-11-15
 ETH,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale,,2026-10-19
 ETH,2026-05-01-eth-sovereign-dpi-in-action-the-evolution-of-fayda,,2026-10-23
 ETH,2026-06-18-eth-import-export-licensing-centralized-as-government-targets-regional-loo,,2026-10-24
@@ -151,6 +162,7 @@ GIN,2025-06-22-gin-guinee360-immatriculation-fiscale-en-ligne,,2026-10-19
 GIN,2025-06-23-gin-apip-digitalisation-synergui2-safig2,,2026-10-19
 GIN,2025-07-19-gin-matd-les-statistiques-provisoires-du-registre-national-des-personnes-p,,2026-11-07
 GIN,2025-09-12-gin-anomalies-sur-les-cartes-d-electeurs-la-dge-rassure-face-aux-inquietud,,2026-11-07
+GIN,2025-10-01-gin-constitution-du-registre-national-de-letat-civil-rnec-presentation-des,,2026-11-15
 GIN,2025-12-14-gin-etat-civil-guineen-la-refondation-en-marche-l-identification-au-cur-du,,2026-11-08
 GIN,2026-01-17-ravec-kindia-atelier-textes-application-etat-civil-identification,,2026-10-19
 GIN,2026-03-29-plfi-2026-matd-commission-des-lois-cnt,,2026-10-19
@@ -162,6 +174,7 @@ GIN,2026-10-28-gin-guinee-le-matd-lance-via-loneci-le-projet-renec-pour-modernis
 GIN,2026-10-28-guin-e-la-num-risation-s-tend-la-gestion-des-activit-s-de-p-che,,2026-10-29
 GMB,2024-07-23-gmb-gra-tin-e-registration-brochure,,2026-10-19
 GMB,2025-10-02-gmb-gra-introduces-itas-system-to-stakeholders,,2026-11-08
+GNB,2024-05-01 Guinea-Bissau - Further Improvements in Tax Compliance (IMF technical assistance),,2026-11-15
 GNB,2025-12-03-dgci-instrucao-servico-25-2025-nif-kontaktu,,2026-10-19
 GNB,2026-01-01-cfe-gw-homepage,,2026-10-19
 GNB,2026-01-01-cfe-gw-numero-identificacao-fiscal,,2026-10-19
@@ -178,6 +191,7 @@ LBR,2026-10-16-fpa-naymote-urges-legislature-tighten-52m-national-id-deal,,2026-
 LSO,2024-05-06-lso-newsday-rsl-implements-e-taxation,,2026-10-19
 LSO,2025-06-01-lso-rsl-guide-on-tax-registration,,2026-10-19
 LSO,2026-08-30-prnewswire-lesotho-launches-national-farmers-portal-giving-every-farmer,,2026-10-19
+LSO,2026-09-01-lso-guide-on-e-payments,,2026-11-15
 LSO,2026-10-16-lso-rsl-individual-taxpayer-registration-form,,2026-10-19
 MAR,2024-10-02-mar-omar-seghrouchni-cndp-l-investissement-n-absout-pas-les-violations-des,,2026-10-31
 MAR,2024-10-29-aujourdhui-registre-national-etat-civil-digital,,2026-10-19
@@ -195,6 +209,7 @@ MDG,2026-04-29-mdg-modernisation-de-l-etat-14-institutions-deja-interconnectees-
 MDG,2026-10-17-mdg-dgi-nifonline-immatriculation,,2026-10-19
 MDG,2026-10-24-mdg-liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-t,,2026-11-07
 MLI,2018-04-10-mli-dgi-comment-obtenir-nif,,2026-10-19
+MOZ,2024-05-28-moz-promoting-land-tenure-security-in-mozambique,,2026-11-15
 MOZ,2024-12-09-moz-e-sistafe-passa-a-ser-ferramenta-de-auditoria,,2026-11-12
 MOZ,2024-12-10-moz-government-to-make-public-spending-more-transparent-through-technology,,2026-10-27
 MOZ,2025-01-01-nuit-frequently-asked-questions,,2026-10-19
@@ -205,6 +220,7 @@ MOZ,2026-07-22-governo-sistema-integrado-gestao-tributaria,,2026-10-19
 MOZ,2026-08-09-mozambique-aid-recipient-digital-register,,2026-10-19
 MOZ,2026-08-28-at-nuit-perguntas-frequentes,,2026-10-19
 MOZ,2026-09-01-moz-cedsif-modulos-e-sistafe,,2026-11-11
+MOZ,2026-09-04-moz-facim-2026-bau-pushes-digitalisation-to-ease-small-business-formalisat,,2026-11-15
 MRT,2022-03-31-mrt-numericite-dgi-mauritanie-immersion,,2026-10-19
 MRT,2023-08-11-mrt-procedures-immatriculation-contribuables,,2026-10-19
 MRT,2023-11-21-mrt-procedures-enrolement-enfant-rnp,,2026-10-19
@@ -263,19 +279,26 @@ SEN,2026-01-16-sen-pins-plateforme-interministerielle-x-road-pilote-pnbsf-cmu,,2
 SEN,2026-01-22-sen-securisation-des-donnees-de-l-etat-civil-l-anec-et-l-ansd-scellent-un,,2026-11-11
 SEN,2026-02-09-ansd-bulletin-trimestriel-immatriculations-ninea,,2026-10-19
 SEN,2026-06-17-aps-rnu-extension-996194-menages,,2026-10-19
+SEN,2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-registre-nat,,2026-11-15
 SEN,2026-08-27-sen-dgid-communique-sentax,,2026-10-19
+SEN,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific,,2026-11-15
 SEN,2026-09-24-sen-etat-civil-77-de-centres-digitalises-selon-le-dg-de-l-anec,,2026-10-27
 SEN,2026-10-10-sen-ledakarois-intrants-agricoles-la-distribution-passe-au-numerique-avec-l,,2026-10-19
 SLE,2022-10-01-sle-ictd-ict-tax-admin-itas-uganda-sierra-leone,,2026-10-19
 SLE,2023-05-01-sle-nra-online-tin-application,,2026-10-19
 SLE,2024-01-01-sle-the-low-drive-for-national-identification-system-in-sierra-leone,,2026-11-09
+SLE,2024-02-01-sle-what-happened-to-sierra-leone-s-biometric-property-registration-agreem,,2026-11-15
+SLE,2026-03-24-sle-government-concludes-boundary-harmonisation-pilot-sets-stage-for-natio,,2026-11-15
 SLE,2026-05-31-sle-sierraloaded-parliament-obrs-concession,,2026-10-19
 SLE,2026-09-29-sle-impact-in-sierra-leone-from-city-pilot-to-national-reform-model,,2026-11-12
 SOM,2024-06-24-som-moct-eacon-digital-addressing,,2026-10-19
+SOM,2024-08-26-som-somalia-introduces-modern-digital-identification-to-enhance-banking-se,,2026-11-15
 SOM,2024-10-08-som-challenges-of-automating-the-property-tax-system-in-garowe-city-puntla,,2026-11-12
 SOM,2024-12-22-som-cbc-karaar-digital-address-pilots,,2026-10-19
+SOM,2025-06-13-som-371-000-households-in-somalia-find-respite-from-drought,,2026-11-15
 SOM,2026-02-26-som-director-of-nira-meets-with-chinese-ambassador-to-advance-national-id,,2026-11-08
 SOM,2026-08-23-who-emro-somalia-health-facility-registry,,2026-10-19
+SOM,2026-11-13-som-feisal-mohamed-hashi-the-vision-behind-somalia-s-revenue-reforms,,2026-11-15
 SSD,2024-01-01-eservices-account-government-services-south-sudan,,2026-10-19
 SSD,2024-11-25-ssd-onecitizen-juba-geographic-addressing,,2026-10-19
 SSD,2025-07-18-ssd-nra-successfully-collected-100-billion-ssp-in-the-last-two-weeks-e-ser,,2026-11-12
@@ -285,20 +308,24 @@ SSD,2026-06-25-ssd-onecitizen-juba-county-digital-land-registration,,2026-10-19
 SSD,2026-09-02-ssd-sudanspost-nec-rejects-biometrics,,2026-10-19
 SSD,2026-11-11-ssd-eservices-portal-ministries-and-services-catalogue,,2026-11-12
 STP,2022-03-16-stp-di-sistema-informacao-tributaria-sit-iva,,2026-10-19
+STP,2025-06-11-stp-ministra-da-justica-anuncia-o-sistema-de-identificacao-pessoal-a-ser-d,,2026-11-15
 STP,2026-01-01-sao-tome-dgrn-guiche-unico-para-empresa,,2026-10-19
 STP,2026-01-01-stp-digitising-a-nation-s-public-service-delivery,,2026-10-23
+STP,2026-08-31-stp-dpssf-inicia-4-o-pagamento-a-6-mil-familias-vulneraveis-em-stp,,2026-11-15
 STP,2026-09-25-stp-cen-anuncia-aumento-do-numero-de-eleitores-mas-reclama-pela-logistica,,2026-11-07
 SWZ,2024-01-01-eswatini-tin-registration-procedure,,2026-10-19
 SWZ,2026-08-29-ers-registration,,2026-10-19
 SWZ,2026-09-12-swz-eswatinipositivenews-imbali-biometric-voter-registration,,2026-10-27
 SWZ,2026-09-15-swz-times-businessmen-switch-names-evade-tax-ers,,2026-10-19
 SWZ,2026-10-13-swz-15-000-emaswati-registered-as-ebc-urges-youth-disabled-to-participate,,2026-11-07
+SWZ,2026-10-19-swz-your-side-hustle-could-cost-you-if-you-don-t-file-ers-warns,,2026-11-15
 SYC,2024-08-09-syc-pou-miei-ease-of-doing-business-portal-tender,,2026-10-19
 SYC,2025-01-01-seychelles-tin-registration-company,,2026-10-19
 SYC,2025-01-22-syc-ntb-land-valuation-system-tender,,2026-10-19
 SYC,2025-03-01-syc-dict-development-of-the-land-valuation-system-lvs,,2026-11-12
 SYC,2026-11-03-syc-bill-no-20-companies-amendment-bill-2026,,2026-11-07
 TCD,2024-01-10-tcd-circulaire-portant-instructions-relatives-a-l-execution-du-budget-gene,,2026-10-27
+TCD,2024-03-21-tcd-digitalisation-et-simplification-des-procedures,,2026-11-15
 TCD,2024-06-21-wb-tcd-pfsap-usr-ews-2024,,2026-11-11
 TCD,2024-08-12-pwc-worldwide-tax-summaries-chad-significant-developments,,2026-10-19
 TCD,2025-01-14-tcd-rwanda-leads-africa-s-digital-public-finance-transformation,,2026-10-27
@@ -308,9 +335,13 @@ TCD,2026-03-10-atpe-finances-anats-protocole-consultation-donnees,,2026-10-19
 TCD,2026-03-10-tcd-tchad-le-ministere-des-finances-et-l-anats-signent-un-accord-pour-secu,,2026-10-23
 TCD,2026-08-10-tcd-atpe-etat-civil-reformes-enfants-non-enregistres,,2026-10-19
 TGO,2023-11-15-tgo-processus-electoral-l-oif-certifie-la-fiabilite-du-fichier-electoral-t,,2026-11-07
+TGO,2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l,,2026-11-15
 TGO,2023-12-20-tgo-otr-creation-nif-en-ligne,,2026-10-19
 TGO,2025-01-01-tgo-otr-actu-18-janvier-juin-2025,,2026-10-19
 TGO,2025-03-17-tgo-decentralisation-doufelgou-1-et-sotouboua-2-valident-leur-fichier-des,,2026-10-19
+TGO,2025-10-29-tgo-grit-lome-fait-vibrer-la-tech-africaine,,2026-11-15
+TGO,2025-12-05-tgo-transformation-numerique-au-togo-l-otr-et-le-pagdsp-saluent-l-excellen,,2026-11-15
+TGO,2026-10-15-tgo-foncier-apres-la-nomination-de-son-dg-l-andf-face-au-defi-de-son-opera,,2026-11-15
 TUN,2023-11-13-tun-economistemaghrebin-isie-mise-a-jour,,2026-10-19
 TUN,2024-04-23-tun-digitisation-of-rne,,2026-10-24
 TUN,2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases,,2026-10-19
@@ -334,6 +365,7 @@ TUN,2026-10-29-tun-thomas-denfer-un-registre-fiable-permet-de-renforcer-lentrepr
 TUN,2026-11-04-tun-ministry-of-finance-1-8-million-invoices-received-through-the-electron,,2026-11-08
 TUN,2026-11-06-tun-sofiene-hemissi-annonce-la-numerisation-de-plusieurs-services-administ,,2026-11-12
 TZA,2024-04-01-tza-nida-yawa-ufunguo-wa-maendeleo-nchini-tanzania,,2026-11-08
+TZA,2025-02-19-tza-tra-yatangaza-mfumo-mpya-wa-usajili-wa-magari-leseni-za-udereva,,2026-11-15
 TZA,2025-03-16-tza-dailynews-idras-driver-licence-digital,,2026-10-19
 TZA,2025-05-01-tza-nida-id4africa-digital-identity,,2026-10-19
 TZA,2025-12-31-tza-tra-idras-transform-operational-efficiency,,2026-10-19
@@ -343,6 +375,7 @@ TZA,2026-05-01-tza-tanzania-digital-identity-ecosystem,,2026-10-23
 TZA,2026-06-30-tza-online-content-amendment-regulations-2026,,2026-11-11
 TZA,2026-08-12-tanzania-social-media-tax-display-privacy-fears,,2026-10-19
 TZA,2026-09-01-tza-andiko-la-septemba-ya-utambulisho-2026-kuijenga-agenda-ya-utambulisho,,2026-11-07
+TZA,2026-10-15-tza-serikali-yaziita-startups-kuchangamkia-mkopo-wa-sh5-bilioni,,2026-11-15
 TZA,2026-10-30-tza-tanzania-targets-nationwide-rollout-of-e-ardhi-land-system-by-june-202,,2026-11-12
 UGA,2026-05-08-ursb-non-individual-register-launch,,2026-10-19
 UGA,2026-06-01-uga-ask-ura-commissioner-general-19,,2026-10-27
@@ -357,6 +390,8 @@ UGA,2026-10-18-uga-nin-tin-transition-will-not-automatically-create-tax-liabilit
 UGA,2026-10-22-uga-the-grizzly-wall-behind-government-s-heavy-burden-in-funding-local-gov,,2026-11-12
 UGA,2026-10-22-uga-uganda-moves-to-make-national-digital-id-number-its-tax-identifier,,2026-10-23
 UGA,2026-10-27-uga-new-national-ids-to-be-activated-soon-minister-baryomunsi,,2026-10-29
+UGA,2026-11-10-uga-nin-is-tin,,2026-11-15
+UGA,2026-11-10-uga-what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry,,2026-11-15
 ZAF,2024-10-01-zaf-sars-annual-report-2023-2024,,2026-10-19
 ZAF,2024-12-10-zaf-sars-nt-17th-tax-statistics-media-statement,,2026-10-19
 ZAF,2026-10-17-zaf-sars-client-information-system,,2026-10-19
@@ -372,3 +407,4 @@ ZWE,2025-08-06-zwe-zida-launches-game-changing-e-regulations-platform,,2026-10-2
 ZWE,2025-08-19-zwe-zimra-commissions-tarms-zimbabwe-s-new-digital-tax-system,,2026-11-09
 ZWE,2026-01-01 ZIMRA Taxpayer Registration,,2026-10-19
 ZWE,2026-08-18-zwe-rg-zec-voter-registration-handover,,2026-10-19
+ZWE,2026-11-13-zwe-undp-shared-health-record-registries-hie-rfp,,2026-11-15

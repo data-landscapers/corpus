@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-21-tcd-digitalisation-et-simplification-des-procedures",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Director General of Taxes says the E-taxe application launched in 2022 created a computerised taxpayer register.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "E-taxe",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-taxe",
+   "country_label": "Tchad",
+   "class": "other",
+   "platform": "sigi.finance.gouvt.td portal",
+   "owner": "Direction Generale des Impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

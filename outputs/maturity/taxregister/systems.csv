@@ -3,6 +3,7 @@ AGO,Consulta de NIF,Angola,tax,SEPE portal,Government of Angola,,2026-08-05-ango
 AGO,SIGFE,Angola,other,,State,,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt
 AGO,SIGT,Integrated Tax Management System,tax,,AGT,,2026-09-08-ago-modernisation-of-general-tax-administration-over-the-last-10-years-a-t
 AGO,electronic invoicing system (facturação electrónica),Angola,other,,AGT,,2026-11-04-ago-agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao
+AGO,AGT taxpayer cadastre (NIF),Angola,tax,,Administracao Geral Tributaria,,2024-04-02-ago-apenas-2-em-cada-10-cidadaos-tem-oficialmente-numero-de-identificacao
 BDI,e-KORI,Burundi,tax,online platform of the OBR,Office burundais des recettes (OBR),"natural persons, legal persons, cooperative societies",2026-08-06-burundi-e-kori-online-taxpayer-registration-mandatory
 BDI,easybusiness.bi,Burundi,other,online business registration site,Agence de developpement du Burundi (ADB),,2026-08-06-burundi-e-kori-online-taxpayer-registration-mandatory
 BDI,e-KORI,Burundi,tax,online platform for internal taxes and non-tax revenue,Office Burundais des Recettes (OBR),"natural persons, legal persons, cooperative societies",2026-08-04-obr-e-kori-plateforme-immatriculation-en-ligne
@@ -23,6 +24,7 @@ CMR,Harmony,Harmony,tax,support.harmony2.cm,Direction Generale des Impots,regist
 CMR,NIU taxpayer registration,Cameroon,tax,DGI website,Directorate General of Taxation,,2025-01-01-immatriculation-taxpayer-registration-directorate-general-taxation-cameroon
 COD,e-NIF,e-NIF,tax,online platform e-nif.dgirdc.cd,Direction Générale des Impôts,online and tax offices,2025-12-02-dgi-communique-gratuite-immatriculation-nif
 COD,e-NIF,e-NIF,tax,website app.dgirdc.cd,,,2025-06-06-actualite-cd-passeport-biometrique-rdc
+COD,Numero d'Identification Fiscale (NIF),RD Congo,tax,DGI online platform,Direction Generale des Impots,,2025-11-11-cod-numero-d-impot-fiscale-nif-la-dgi-reinvente-la-proximite-et-la-transpa
 COG,NIU,Congo,tax,,Direction générale des impôts et des domaines,,2020-08-10-cog-minfin-mise-en-production-nouveau-niu
 CPV,GOV.CV,Cabo Verde,other,GOV.CV portal and app,Government of Cabo Verde,,2026-01-01-cpv-govcv-nif-pessoa-singular
 DJI,Registre national des personnes physiques,Djibouti,other,,Direction generale de la Population et de la Famille,,2026-07-23-lanation-carte-nationale-identite-biometrique
@@ -64,6 +66,7 @@ MOZ,NUIT,Mozambique,tax,,Autoridade Tributária de Moçambique,,2026-08-28-at-nu
 MOZ,NUIT,Mozambique,tax,,,,2026-07-22-governo-sistema-integrado-gestao-tributaria
 MOZ,Sistema Integrado de Gestão Tributária,Mozambique,other,,Government,,2026-07-22-governo-sistema-integrado-gestao-tributaria
 MOZ,e-SISTAFE,Mozambique,other,,,,2026-07-22-governo-sistema-integrado-gestao-tributaria
+MOZ,Balcão de Atendimento Único (BAU),Mozambique,other,,,,2026-09-04-moz-facim-2026-bau-pushes-digitalisation-to-ease-small-business-formalisat
 MRT,Registre biométrique national (ANRPTS),MRT,other,,Agence Nationale du Registre des Populations et des Titres Sécurisés,,2023-11-21-mrt-procedures-enrolement-enfant-rnp
 MUS,Tax Account Number,Mauritius,tax,,Mauritius Revenue Authority,,2026-01-01-mus-oecd-mauritius-tin-sheet
 MWI,Msonkho Online,Msonkho Online,tax,,Malawi Revenue Authority,,2019-09-08-mwi-nyasatimes-mra-immigration-tpin-national-id
@@ -87,6 +90,8 @@ SEN,SENTAX,Senegal,other,sentax.dgid.sn,Direction générale des Impôts et des 
 SEN,Etax,Senegal (eservices.dgid.sn),tax,,Direction Generale des Impots et des Domaines,,2024-07-01-sen-dgid-order-article-355-bis-digital-vat
 SEN,SIGUIL,Senegal,tax,,DGID,national,2025-01-21-sen-optimizing-property-tax-administration-the-importance-of-an-effective
 SLE,ITAS,Integrated Tax Administration System,tax,NRA website,National Revenue Authority,domestic tax,2023-05-01-sle-nra-online-tin-application
+SOM,ITAS,Somalia,other,,Somali Revenue Authority,,2026-11-13-som-feisal-mohamed-hashi-the-vision-behind-somalia-s-revenue-reforms
+SOM,SOMCAS,Somalia,other,,Customs,,2026-11-13-som-feisal-mohamed-hashi-the-vision-behind-somalia-s-revenue-reforms
 SSD,eTax,South Sudan,tax,,South Sudan Revenue Authority,,2024-01-01-eservices-account-government-services-south-sudan
 SSD,eServices Account,South Sudan,other,,"Ministry of Information, Communication Technology and Postal Services",,2024-01-01-eservices-account-government-services-south-sudan
 SSD,eTax,South Sudan,tax,,South Sudan Revenue Authority,,2026-11-11-ssd-eservices-portal-ministries-and-services-catalogue
@@ -95,10 +100,14 @@ SWZ,ASYCUDA,ASYCUDA,other,,,,2024-01-01-eswatini-tin-registration-procedure
 SYC,TIN Registration (e-Service Gateway),Seychelles,tax,eservice.egov.sc,Government of Seychelles,company,2025-01-01-seychelles-tin-registration-company
 TCD,E.Tax platform,Chad,tax,,Direction Generale des Impots,,2024-08-12-pwc-worldwide-tax-summaries-chad-significant-developments
 TCD,E-Tax,Chad,tax,,,,2024-01-10-tcd-circulaire-portant-instructions-relatives-a-l-execution-du-budget-gene
+TCD,E-taxe,Tchad,other,sigi.finance.gouvt.td portal,Direction Generale des Impots,,2024-03-21-tcd-digitalisation-et-simplification-des-procedures
 TGO,SIG Recettes,Togo,other,application with geolocation,"communes of Doufelgou 1 and Sotouboua 2, supported by GIZ ProDeG IV",local,2025-03-17-tgo-decentralisation-doufelgou-1-et-sotouboua-2-valident-leur-fichier-des
 TGO,nif.otr.tg,Togo,tax,web,OTR,individual taxpayers,2023-12-20-tgo-otr-creation-nif-en-ligne
 TGO,NIF particulier platform,nif.otr.tg,tax,nif.otr.tg,Office Togolais des Recettes,individuals,2025-01-01-tgo-otr-actu-18-janvier-juin-2025
+TGO,nif.otr.tg,Togo,tax,web,OTR,,2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l
+TGO,OTR TVM,Togo,other,mobile app and web,OTR,,2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l
 TZA,IDRAS,Tanzania,other,,Tanzania Revenue Authority,,2025-03-16-tza-dailynews-idras-driver-licence-digital
+TZA,IDRAS,Tanzania,other,Taxpayer Portal,Tanzania Revenue Authority,,2025-02-19-tza-tra-yatangaza-mfumo-mpya-wa-usajili-wa-magari-leseni-za-udereva
 UGA,TIN,Uganda,tax,,URA,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
 UGA,NIN,Uganda,tax,,NIRA,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
 UGA,Entity Registration Number,Uganda,tax,,URSB,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
@@ -111,6 +120,7 @@ UGA,TIN,Uganda,tax,,URA,,2026-09-03-mulengeranews-uganda-nin-tin-interoperabilit
 UGA,NIN,Uganda,tax,,NIRA,,2026-09-03-mulengeranews-uganda-nin-tin-interoperability
 UGA,URA taxpayer register,Uganda,tax,,Uganda Revenue Authority,,2026-10-18-uga-nin-tin-transition-will-not-automatically-create-tax-liability-lugoloo
 UGA,Tax Identification Number (TIN),TIN,tax,,Uganda Revenue Authority,,2026-10-22-uga-uganda-moves-to-make-national-digital-id-number-its-tax-identifier
+UGA,TIN taxpayer register,URA taxpayer register,tax,,Uganda Revenue Authority,,2026-11-10-uga-nin-is-tin
 ZAF,Client Information System,South Africa,tax,SARS eFiling and branches,South African Revenue Service,,2026-10-17-zaf-sars-client-information-system
 ZMB,TPIN register (Zambia Revenue Authority),Zambia,tax,,Zambia Revenue Authority,,2026-07-29-zambia-tpin-holders-active-tax-accounts
 ZMB,TaxOnApp,Zambia,other,smartphone app,Zambia Revenue Authority,,2025-01-01-zmb-ati-zambia-digitalisation-drm-case-study

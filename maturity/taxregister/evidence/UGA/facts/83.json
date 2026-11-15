@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-10-uga-nin-is-tin",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "URA says a TIN is a 10-digit unique number it allocates and issues free of charge to identify a person as a registered taxpayer in Uganda.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "TIN",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "URA says that for non-individuals (company, trust, partnership) the number used for tax is the registration number issued by the Uganda Registration Services Bureau.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "TIN",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "URA says Cabinet approved on 31 August 2026 the use of the NIN as the TIN for individual taxpayers, after the Tax Procedures Code Act s.4 amendment in FY 2025/26 mandated it.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "TIN",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TIN taxpayer register",
+   "country_label": "URA taxpayer register",
+   "class": "tax",
+   "platform": "",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

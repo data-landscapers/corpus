@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxpayers",
-      "stage": "no evidence",
-      "register": "",
+      "stage": "2",
+      "register": "underway",
       "shared": "",
       "nationalid": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says how taxpayers are registered.",
-      "note": "Rebuild: no row on the tax register has been found, so no stage is set.",
-      "as_at": "2026-11-13"
+      "stage_sources": "SOM-001;SOM-002",
+      "gaps": "No source found says taxpayer numbers are issued from a computerised register in service. The TIN linked to the national ID was announced in 2024; nothing says it launched.",
+      "note": "ITAS, a single platform for taxpayer registration, is being built with rollout due from end-2026 (SOM-001), and a TIN linked to the national ID was announced in 2024 (SOM-002). Intent stops at stage 2; nothing shows a register in service, so not 3.",
+      "as_at": "2026-11-15"
     }
   ]
 }

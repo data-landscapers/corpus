@@ -23,10 +23,10 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 | 5 Leading | 2 |
 | 4 Operating | 16 |
 | 3 Established | 19 |
-| 2 Nascent | 1 |
+| 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 9 |
-| No evidence | 7 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -56,9 +56,10 @@ Firms got one number shared by the commercial register and the tax office in 202
 
 ### Burkina Faso: 4 Operating
 
-The taxpayer number was shared with business registration or customs in 2023; no source found reports a tie to the national ID.
+The taxpayer number was obtained at business registration in 2026; no source found reports a tie to the national ID.
 
 - The Direction Générale des Impôts FAQ says taxpayers are registered in the registre des contribuables or the software for Identifiants financiers uniques (IFU), and that salaried users can use the eSintax platform to file declarations ([source, 2023-10-17](https://dgi.bf/faq-immatriculation-des-contribuables/)).
+- CEFORE says one fee paid online covers RCCM business registration, IFU (the single financial identifier for tax), CNSS and CPC, so the IFU is obtained at business registration ([source, 2026-11-13](https://creerentreprise.me.bf/)).
 - The Direction Générale des Impôts FAQ says customs clearance procedures linked to foreign trade cannot be carried out without an IFU, the single number issued to users of the financial administration ([source, 2023-10-17](https://dgi.bf/faq-immatriculation-des-contribuables/)).
 
 ### Cape Verde: 4 Operating
@@ -293,6 +294,13 @@ A computerised taxpayer register was under way in 2026; none in service is on re
 
 - The Consejo Interministerial of Equatorial Guinea, reported by the government press office, took up a draft decree establishing a new codification of the Número de Identificación Fiscal (NIF) for natural persons, legal persons and entities without legal personality ([source, 2026-08-10](https://www.guineaecuatorialpress.com/noticias/el_consejo_interministerial_analiza_nuevas_medidas_para_reforzar_el_empleo_la_fiscalidad_y_la_cooperacion_internacional)).
 
+### Somalia: 2 Nascent
+
+A computerised tax system holding every taxpayer's registration was being built in 2026; whether any register is in service is not known.
+
+- An opinion piece by Adan Omar Hashi says the ITAS rollout, due from end-2026, will bring registration and a single record of every taxpayer onto one platform ([source, 2026-11-13](https://www.hiiraan.com/op4/2026/Nov/206761/feisal_mohamed_hashi_the_vision_behind_somalias_revenue_reforms.aspx)).
+- The Deputy Minister of Finance announced the upcoming launch of a Tax Identification Number linked to the National ID System ([source, 2024-08-26](https://www.hiiraan.com/news4/2024/Aug/197694/somalia_introduces_modern_digital_identification_to_enhance_banking_services.aspx)).
+
 ### Central African Republic: Unplaced
 
 Nothing found since 2023 names a computerised taxpayer register, so no stage is set.
@@ -378,12 +386,6 @@ Nothing found names a computerised taxpayer register or says there is none, so n
 Not established: Nothing found says how taxpayers are registered.
 
 ### Sao Tome and Principe: No evidence
-
-Nothing found names a computerised taxpayer register or says there is none, so no stage is set.
-
-Not established: Nothing found says how taxpayers are registered.
-
-### Somalia: No evidence
 
 Nothing found names a computerised taxpayer register or says there is none, so no stage is set.
 

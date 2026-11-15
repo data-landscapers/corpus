@@ -1,0 +1,44 @@
+{
+ "slug": "2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "OTR launched nif.otr.tg, letting individuals with a valid national ID card or Togolese passport create their tax registration number (NIF) online.",
+   "as_of": "2023-12-18",
+   "date_precision": "day",
+   "system": "nif.otr.tg",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "OTR says entering an identity document number and birth date makes the system detect whether the person already holds a NIF.",
+   "as_of": "2023-12-18",
+   "date_precision": "day",
+   "system": "nif.otr.tg",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "nif.otr.tg",
+   "country_label": "Togo",
+   "class": "tax",
+   "platform": "web",
+   "owner": "OTR",
+   "tiers": ""
+  },
+  {
+   "system": "OTR TVM",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "mobile app and web",
+   "owner": "OTR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

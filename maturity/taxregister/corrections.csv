@@ -4,3 +4,5 @@ UGA,007,nationalid,linked,removed,First pass: future use read as use
 UGA,011,nationalid,linked,removed,First pass: future use read as use
 UGA,004,shared,shared,removed,Rebuild: future issue of the URSB number read as use
 UGA,008,shared,shared,removed,Rebuild: future issue of the URSB number read as use
+TGO,005,nationalid,linked,removed,"4c: an ID document number used to find an existing NIF in the tax register, not a check against the ID register"
+UGA,021,shared,shared,removed,4c: the amended law names the URSB number as firms' tax number; URA's switch to it is phased and still to come

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-13-bfa-cefore-preparer-votre-creation-d-entreprise",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "CEFORE says one fee paid online covers RCCM business registration, IFU (the single financial identifier for tax), CNSS and CPC, so the IFU is obtained at business registration.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "IFU (Identifiant financier unique)",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

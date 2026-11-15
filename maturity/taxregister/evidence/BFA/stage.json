@@ -1,18 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "taxpayers",
-   "stage": "4",
-   "register": "inservice",
-   "shared": "shared",
-   "nationalid": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-001;BFA-002",
-   "gaps": "No source found since November 2023 ties the taxpayer number to the national ID. None restates the 2023 FAQ.",
-   "note": "Rebuild: both rows come from the DGI's October 2023 FAQ (BFA-001, BFA-002), now just over three years old. Age does not expire a stage and nothing later contradicts it, so 4 holds.",
-   "as_at": "2026-11-13"
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "taxpayers",
+      "stage": "4",
+      "register": "inservice",
+      "shared": "shared",
+      "nationalid": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-001;BFA-003;BFA-002",
+      "gaps": "No source found since November 2023 ties the taxpayer number to the national ID. The computerised register rests on the DGI's October 2023 FAQ alone.",
+      "note": "The IFU is issued from the DGI's register (BFA-001, 2023) and, per CEFORE in November 2026, obtained at business registration (BFA-003), as customs already required it (BFA-002). Nothing ties it to the national ID, so not 5.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

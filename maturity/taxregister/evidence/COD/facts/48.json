@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-11-cod-numero-d-impot-fiscale-nif-la-dgi-reinvente-la-proximite-et-la-transpa",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The DGI says taxpayer identification numbers (NIF) are now requested online and generated and validated within minutes, with free physical DGI offices across the country.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "NIF online platform (DGI)",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Numero d'Identification Fiscale (NIF)",
+   "country_label": "RD Congo",
+   "class": "tax",
+   "platform": "DGI online platform",
+   "owner": "Direction Generale des Impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

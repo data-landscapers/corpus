@@ -90,3 +90,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-13,ZAF,dpi.registry--tax-register,review,3,3,ZAF-001,"Rebuild: SARS's Client Information System holds tax and customs registrations in one profile (ZAF-001, 2026); that does not say one number serves both, so 3 holds."
 2026-11-13,ZMB,dpi.registry--tax-register,review,3,3,ZMB-001,"Rebuild: TPIN registrations on ZRA's digital platforms reached 554,411 in 2024 (ZMB-001); nothing shows the TPIN shared with business registration or customs, so 3 holds."
 2026-11-13,ZWE,dpi.registry--tax-register,review,3,3,ZWE-001;ZWE-004,"Rebuild: ZIMRA allocates TINs through the TaRMS portal (ZWE-001, ZWE-004); nothing shows the TIN shared with business registration or customs, so 3 holds."
+2026-11-15,BFA,dpi.registry--tax-register,fact,4,4,BFA-001;BFA-003;BFA-002,"CEFORE (Nov 2026): the IFU is obtained at business registration; refreshes rung 4, which had rested on the 2023 FAQ; 4 holds"
+2026-11-15,SOM,dpi.registry--tax-register,fact,no evidence,2,SOM-001;SOM-002,"ITAS registration platform being built, rollout from end-2026, and a 2024 announcement of a TIN linked to the national ID; no evidence to 2 (intent stops at 2)"

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-04-02-ago-apenas-2-em-cada-10-cidadaos-tem-oficialmente-numero-de-identificacao",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "AGT's taxpayer cadastre held 11,173,618 registered taxpayers in January 2024 (10,849,787 individuals, 323,831 collective), according to AGT data cited by Expansao.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "AGT taxpayer cadastre",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "Expansao reports the taxpayer number (NIF) has been the national ID (BI) number since October 2018, and AGT mass-registers individuals ex officio from civil ID records.",
+   "as_of": "2018-10",
+   "date_precision": "month",
+   "system": "AGT taxpayer cadastre",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AGT taxpayer cadastre (NIF)",
+   "country_label": "Angola",
+   "class": "tax",
+   "platform": "",
+   "owner": "Administracao Geral Tributaria",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

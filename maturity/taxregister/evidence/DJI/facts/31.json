@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-31-dji-module-de-prepaiement",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "Djibouti customs states that free-zone operators and forwarders enter their taxpayer number (NIF) in box 48 of IM7 and EX3 customs declarations in SYDONIAWorld.",
+   "as_of": "2025-09-02",
+   "date_precision": "day",
+   "system": "NIF",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

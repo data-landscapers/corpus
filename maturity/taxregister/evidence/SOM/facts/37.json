@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-26-som-somalia-introduces-modern-digital-identification-to-enhance-banking-se",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Deputy Minister of Finance announced the upcoming launch of a Tax Identification Number linked to the National ID System.",
+   "as_of": "2024-08-26",
+   "date_precision": "day",
+   "system": "Tax Identification Number",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
