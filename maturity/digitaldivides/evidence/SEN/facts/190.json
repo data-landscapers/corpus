@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-05-sen-lamine-sene-fdsut-des-la-delivrance-de-l-autorisation-starlink-integre",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "FDSUT chair Lamine Sène says the state negotiated a programme to acquire 5,000 Starlink kits, 1,000 of them free, to give 1 million people free internet access including remote areas, with no count of sites connected.",
+   "as_of": "2026-02-05",
+   "date_precision": "day",
+   "system": "FDSUT Starlink kits programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

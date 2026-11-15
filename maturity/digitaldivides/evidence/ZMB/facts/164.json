@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-15-zmb-zambia-reports-major-digital-economy-gains-at-3rd-digital-economy-roun",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The government reported plans to support 700 more telecom towers with the World Bank to expand coverage in underserved communities.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "tower partnership with World Bank",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
