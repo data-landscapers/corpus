@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
-record: 737bd4375cc9
+record: a7602dd8c9c4
 ---
 
 # News, Oct – Nov 2026
@@ -1077,7 +1077,7 @@ Mozambique's INTIC presented a proposed revision of Decree 67/2017, its e-govern
 
 **[Parlamento aprova revisão da lei que regula organização e funcionamento da Administração Pública](https://mznews.co.mz/parlamento-aprova-revisao-da-lei-que-regula-organizacao-e-funcionamento-da-administracao-publica/)** — MZNews, 13 November 2026
 
-About 142 articles in 12 chapters; digital transition, citizen oversight and provincial decentralised bodies added.
+Mozambique's Assembleia da República approved a revision of the law on the organisation and functioning of the Public Administration, reported on 13 November 2026. The text has about 142 articles in 12 chapters and adds provisions on digital transition, citizen oversight of services and transparency. It replaces a law in force for 14 years.
 
 </div>
 
@@ -1117,7 +1117,7 @@ Nigerian banks and large fintechs face the central bank's 1 January 2027 deadlin
 
 **[Frequently Asked Questions and Answers on the Data Localisation Circular Issued on June 15, 2026](https://www.cbn.gov.ng/Out/2026/CCD/FAQ%20Data%20Localisation%20Updated%2004-11-2026.pdf)** — Central Bank of Nigeria, 11 November 2026
 
-20 answers: no offshore processing, backups or DR; remote support needs CBN approval; 1 Jan 2027 deadline holds.
+The Central Bank of Nigeria published FAQs on 11 November 2026 on its data localisation circular of 15 June 2026. They rule out phased compliance and any grace period after the 1 January 2027 deadline, and bar processing, backups and disaster-recovery sites for payment transaction data outside Nigeria. Remote vendor support requires the bank's approval.
 
 </div>
 
@@ -1125,7 +1125,7 @@ Nigerian banks and large fintechs face the central bank's 1 January 2027 deadlin
 
 **[CBN Reiterates January Date For Data Localisation Directive](https://newtelegraphng.com/cbn-reiterates-january-date-for-data-localisation-directive/)** — New Telegraph, 12 November 2026
 
-Reports CBN FAQ released 11 Nov 2026: no phased compliance, no grace period; dataset scope quoted.
+New Telegraph reported that the Central Bank of Nigeria's FAQ document of 11 November 2026 confirms the 1 January 2027 date for its data localisation directive. The bank said phased, risk-based compliance is not permitted and that the circular provides no automatic grace period. It also set out the datasets in scope, including production databases, backups and disaster-recovery environments.
 
 </div>
 

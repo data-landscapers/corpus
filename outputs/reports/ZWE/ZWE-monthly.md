@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: ZWE
 ledger_rows: 38
 not_held: 5
-record: 6764269e170a
+record: b4899b88dabf
 ---
 
 # News, Oct – Nov 2026
@@ -392,7 +392,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[HIE Architecture, Core Platform Configuration, Mediators & Secure Channels](https://www.ungm.org/Public/Notice/322513)** — UNDP Zimbabwe (via UN Global Marketplace), 13 November 2026
 
-UNDP-ZWE-02187; published 13 Nov 2026, closes 18 Nov; architecture, mediators and secure channels for HIE.
+UNDP's Zimbabwe office published a request for proposals, reference UNDP-ZWE-02187, on 13 November 2026 for technical assistance in designing the architecture and core platform of a national health information exchange. Bids close on 18 November 2026.
 
 </div>
 
@@ -400,7 +400,7 @@ UNDP-ZWE-02187; published 13 Nov 2026, closes 18 Nov; architecture, mediators an
 
 **[Shared Health Record and National Registry Interconnections with HIE](https://www.ungm.org/Public/Notice/322512)** — UNDP Zimbabwe (via UN Global Marketplace), 13 November 2026
 
-UNDP-ZWE-02188; FHIR profiles and secure APIs to link shared health record and national registries; closes 18 Nov.
+UNDP's Zimbabwe office published a request for proposals, reference UNDP-ZWE-02188, on 13 November 2026. It seeks technical assistance in connecting the national shared health record and core national registries to the health information exchange layer. The connection is to use agreed FHIR profiles. Bids close on 18 November 2026.
 
 </div>
 
@@ -660,7 +660,7 @@ Zimbabwe's regulator POTRAZ now licenses services, not technologies, and uses it
 
 **[DHL, Zimbabwe train digital youth](https://itweb.africa/article/dhl-zimbabwe-train-digital-youth/mYZRXM9gKGAvOgA8)** — ITWeb Africa, 13 November 2026
 
-Three-month programme; Zimpost digital centres; POTRAZ laptops; WFP, BAK Logistics, Teach for Zimbabwe partners.
+Zimbabwe's ICT ministry and DHL's Ubuntu Academy launched a three-month Digital Logistics Youth Training Programme for young people. Training covers logistics, AI and robotics, and is delivered through Zimpost digital centres with laptops from the regulator POTRAZ.
 
 </div>
 

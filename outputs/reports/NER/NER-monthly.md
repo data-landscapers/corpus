@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: NER
 ledger_rows: 12
 not_held: 1
-record: d3392b0a9655
+record: 2af186822623
 ---
 
 # News, Oct – Nov 2026
@@ -196,7 +196,7 @@ The operator of Niger's vehicle one-stop shop began accepting Airtel Money for s
 
 **[Digitalisation des services : SONILOGA s’associe à Amana pour élargir les options de paiement numérique au GUAN](https://actuniger.com/societe/digitalisation-des-services-soniloga-sassocie-a-amana-pour-elargir-les-options-de-paiement-numerique-au-guan.html)** — Actu Niger, 13 November 2026
 
-Amana Transfert d'Argent convention signed 12 Nov 2026; GUAN fees payable via AmanaTa app; revenue traceability.
+Niger's SONILOGA signed a convention with Amana Transfert d'Argent on 12 November 2026. Users of the Guichet unique automobile (GUAN) can now pay its fees remotely through the AmanaTa app. SONILOGA says this traces payments and secures state revenue from vehicle import, clearance and registration.
 
 </div>
 

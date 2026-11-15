@@ -1,10 +1,10 @@
 ---
 title: Digital divides — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: include.divides
 places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; LBR; NGA; ZAF; TZA
-record: f82034e920fd
+record: e43fdec81ed5
 ---
 
 # News, Oct – Nov 2026
@@ -167,7 +167,7 @@ The Ethiopian Human Rights Commission is adding the digital rights of persons wi
 
 **[De-Sludging Digital Public Service Delivery: A Data Analytics Approach](https://dil.uchicago.edu/working-papers/de-sludging-digital-public-service-delivery-a-data-analytics-approach/)** — Development Innovation Lab, University of Chicago, 13 November 2026
 
-IVR funnel analysis and A/B tests on 8028 hotline; dropping registration raised advice access 18%; state cut data asks.
+A paper reported on 13 November 2026 analyses Ethiopia's 8028 farmer hotline, an interactive voice response service for agricultural advice. Funnel analysis and A/B tests of seven modifications found that three reduced attrition. Removing a multi-step registration process raised access to agricultural advice by 18%, and the government then dropped the data collection requirements.
 
 </div>
 
@@ -181,7 +181,7 @@ IVR funnel analysis and A/B tests on 8028 hotline; dropping registration raised 
 
 **[Building the digital foundations for agricultural finance in Ethiopia](https://www.uncdf.org/article/9369/building-the-digital-foundations-for-agricultural-finance-in-ethiopia)** — UN Capital Development Fund, 13 November 2026
 
-AIRADE baseline: 96% of farmers self-finance, 6% got loans; USD 1.8m and USD 490,000 grants; Fayda link planned.
+UNCDF's AIRADE project published a baseline of its pilot regions on 13 November 2026. It runs with Ethiopia's Ministry of Agriculture and the Agricultural Transformation Institute and is funded by the Gates Foundation. It found that 96% of 389 surveyed farmers finance farming wholly from savings. Only 6% have obtained a loan, and 2 of 48 cooperatives have computers. UNCDF states grants of USD 1.8 million to the ministry and institute and USD 490,000 to Lersha. It plans links to Fayda and OpenAgriNet before the project closes in December 2026.
 
 </div>
 

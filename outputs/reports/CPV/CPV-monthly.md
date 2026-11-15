@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: CPV
 ledger_rows: 16
 not_held: 22
-record: 875e16ad26f6
+record: 99808a2bedd1
 ---
 
 # News, Oct – Nov 2026
@@ -152,7 +152,7 @@ Fogo island in Cabo Verde lost telephone and internet services overnight on 10 N
 
 **[Falhas nos serviços da Microsoft afectaram plataformas de comunicação e gestão documental do Estado](https://www.inforpress.cv/pt/article-12413)** — Inforpress, 13 November 2026
 
-State identity system, e-mail and Office 365 down from 12 Nov 17:00; restored 13 Nov; contingency plan in drafting.
+A Microsoft service failure from 17:00 on 12 November 2026 disrupted Cabo Verde state platforms, the director-general of telecommunications and digital economy said. They were the centralised state identity system, institutional e-mail, Teams and Office 365 document platforms. Services on the state private network were restored from midday on 13 November. No information loss had been identified by then, and a contingency plan is being prepared.
 
 </div>
 
@@ -258,7 +258,7 @@ Cape Verde scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the N
 
 **[Cabo Verde reúne condições para avançar na adopção da Inteligência Artificial – especialistas](https://www.inforpress.cv/en/article-12401)** — Inforpress, 12 November 2026
 
-UNDP-backed national AI diagnostic validated in Mindelo, 12–13 Nov 2026; gaps in skills, law and governance.
+Cabo Verde's telecommunications and digital economy directorate and the UNDP held a validation meeting of the National AI Diagnostic in Mindelo. The meeting took place on 12 and 13 November 2026. Officials said the country has the digital infrastructure, connectivity and digitised public services to adopt AI. Gaps remain in skills, legislation and governance.
 
 </div>
 

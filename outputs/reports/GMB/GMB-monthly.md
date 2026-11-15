@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: GMB
 ledger_rows: 17
 not_held: 2
-record: 76f0f36e336f
+record: fb44dd8bcc0d
 ---
 
 # News, Oct – Nov 2026
@@ -276,7 +276,7 @@ UNDP and The Gambia's Independent Electoral Commission launched e-Monitor Plus a
 
 **[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
+The World Bank Group announced on 13 November 2026 that its E-GATE e-commerce programme will extend to Benin, The Gambia and Guinea. The 2026 to 2028 pilot is for up to 100 small and medium-sized enterprises. The China-World Bank Partnership Facility supports it. No amount is stated.
 
 </div>
 

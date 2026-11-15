@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: tech.innovate
 places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TUN; ZWE
-record: ae93e6b03841
+record: 88678be8741e
 ---
 
 # News, Oct – Nov 2026
@@ -238,7 +238,7 @@ Côte d'Ivoire named 32 digital firms on 4 November 2026 for 24 months of state 
 
 **[AIP/ Ivoire Tech Forum: Beugré Mambé appelle à faire des technologies émergentes un moteur de croissance](https://www.aip.ci/aip-ivoire-tech-forum-beugre-mambe-appelle-a-faire-des-technologies-emergentes-un-moteur-de-croissance/)** — Agence Ivoirienne de Presse (AIP), 12 November 2026
 
-State wire on the 12 Nov 2026 forum: 1,000 projects 2027-2030, ~500 firms, 5,000+ jobs, FCFA 150bn turnover.
+Côte d'Ivoire's Prime Minister, Robert Beugré Mambé, spoke at the opening of the second Ivoire Tech Forum in Abidjan on 12 November 2026. He called for wider mastery of artificial intelligence and data processing. Digital minister Djibril Ouattara announced support for 1,000 digital projects in 2027-2030. The aim is nearly 500 firms, over 5,000 jobs and 150 billion FCFA in turnover.
 
 </div>
 
@@ -246,7 +246,7 @@ State wire on the 12 Nov 2026 forum: 1,000 projects 2027-2030, ~500 firms, 5,000
 
 **[Ivoire Tech Forum 2026 : le Premier Ministre appelle à faire du numérique et de l'intelligence artificielle les moteurs de la croissance inclusive](https://primature.ci/actualite/ivoire-tech-forum-2026-le-premier-ministre-appelle-a-faire-du-numerique-et-de-lintelligence-artificielle-les-moteurs-de-la-croissance-inclusive)** — Cabinet du Premier Ministre (Côte d'Ivoire), 12 November 2026
 
-PM's office account, 12 Nov 2026; 1,000 youth, women and entrepreneur projects 2027-2030; AI and data as growth drivers.
+The Prime Minister's office reported that Robert Beugré Mambé opened the second Côte d'Ivoire Tech Forum in Abidjan on 12 November 2026. He urged that artificial intelligence and data processing drive all economic sectors. Digital minister Djibril Ouattara announced a target for 2027-2030. It is to receive and analyse 1,000 digital projects from young people, women and entrepreneurs.
 
 </div>
 
@@ -254,7 +254,7 @@ PM's office account, 12 Nov 2026; 1,000 youth, women and entrepreneur projects 2
 
 **[Côte d’Ivoire : L’État vise 1 000 projets numériques pour faire émerger 500 start-up d’ici 2030](https://www.linfodrome.com/economie/127572-cote-d-ivoire-l-etat-vise-1-000-projets-numeriques-pour-faire-emerger-500-start-up-d-ici-2030)** — Linfodrome, 13 November 2026
 
-Minister's 2030 target set at second Ivoire Tech Forum opening, 12 November 2026; lede only.
+Côte d'Ivoire's minister for digital transition, Djibril Ouattara, announced on 12 November 2026 a target to receive and support 1,000 digital projects by 2030. The projects would come from young people, women and businesses, and the stated aim is 500 start-ups. He spoke at the opening of the second Ivoire Tech Forum, attended by Prime Minister Robert Beugré Mambé.
 
 </div>
 

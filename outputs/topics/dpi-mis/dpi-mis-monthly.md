@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 48884578bb8a
+record: d18b466efadd
 ---
 
 # News, Oct – Nov 2026
@@ -297,7 +297,7 @@ Chad's technical committee on digital health met in N'Djamena on 9 November 2026
 
 **[DOUANES – SYNACO : vers un partenariat renforcé au service du commerce comorien](http://douane.gov.km/douane-comorienne/actualites/article.php?slug=douanes-synaco-vers-un-partenariat-renforce-au-service-du-commerce-comorien)** — Direction Générale des Douanes, Union des Comores, 13 November 2026
 
-Five customs pledges to traders: SYDONIA e-manifest, home clearance, risk-based targeting, monthly consultation.
+On 13 November 2026 the Comoros customs director general, Djaanfar Salim Allaoui, received the newly elected board of the national traders' union SYNACO. He set out five commitments. They are wider use of the SYDONIA electronic manifest, home clearance for approved operators, risk-based targeting of controls, stronger post-clearance audit and a permanent consultation framework. Customs and SYNACO are to meet on the first Thursday of each month.
 
 </div>
 
@@ -1408,7 +1408,7 @@ South Africa's public service minister told Parliament on 10 November 2026 that 
 
 **[Joint media statement between South African Revenue Service and National Consumer Commission on Track and Trace System](https://www.sars.gov.za/media-release/joint-media-statement-between-south-african-revenue-service-and-national-consumer-commission-on-track-and-trace-system/)** — South African Revenue Service, 12 November 2026
 
-Cigarette track-and-trace RFP imminent; dtic draft regulations out for comment; data-sharing and standards aligned.
+South Africa's revenue service (SARS) and the National Consumer Commission agreed on 12 November 2026 a coordinated approach to legislating for and procuring a Track and Trace system against illicit trade. SARS's request for proposals for a cigarette track-and-trace capability is described as imminent. The two bodies are aligning technical standards and information-sharing.
 
 </div>
 
@@ -1524,7 +1524,7 @@ Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou 
 
 **[Togo : le gouvernement prépare une refonte de son système de gestion budgétaire et comptable](https://www.togofirst.com/fr/finance/1311-20643-togo-le-gouvernement-prepare-une-refonte-de-son-systeme-de-gestion-budgetaire-et-comptable)** — Togo First, 13 November 2026
 
-Diagnostic of budget and accounting information system under IDA-backed PMADS; bids due 3 Dec 2026.
+Togo's Ministry of Finance issued a call for expressions of interest, reported on 13 November 2026. It seeks a firm to diagnose the state's budget and accounting information system. The firm is to propose a modernisation strategy and roadmap. It is also to propose a prioritised and costed action plan.
 
 </div>
 

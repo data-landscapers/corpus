@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: SLE
 ledger_rows: 28
 not_held: 4
-record: 718ddc9edadf
+record: 97df29062d73
 ---
 
 # News, Oct – Nov 2026
@@ -80,7 +80,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Parliament commits Data Protection Bill to Legislative Committee](https://sierraleoneconcordtimes.com/parliament-commits-data-protection-bill-to-legislative-committee-by-jariatu-s-bangura/)** — Concord Times, 12 November 2026
 
-Second reading approved; MPs contest ministerial board nominations, penalty powers and Clause 47 automated decisions.
+Sierra Leone's Parliament approved the second reading of the Data Protection and Right to Access Information Bill, 2026, according to Concord Times on 12 November 2026. It sent the bill to the Legislative Committee. Opposition leader Abdul Kargbo and other MPs challenged ministerial nomination of board members and ministerial power to set penalties. The Speaker directed a public call for position papers.
 
 </div>
 
@@ -88,7 +88,7 @@ Second reading approved; MPs contest ministerial board nominations, penalty powe
 
 **[Parliament Refers Data Protection Bill for Further Scrutiny](https://a-zsl.com/parliament-refers-data-protection-bill-for-further-scrutiny/)** — A-Z Multimedia Corporation, 13 November 2026
 
-MPs question Clause 3 exemptions and ministerial powers; bill sent to Committee Stage, not yet law.
+Sierra Leone's Parliament referred the Data Protection and Right to Access Information Bill, 2026, to the Committee Stage after a debate. Members raised concerns about privacy, access to public information, regulatory independence and misuse of personal data. The information minister, Chernoh Bah, introduced the bill as a modern legal framework.
 
 </div>
 
@@ -246,7 +246,7 @@ Sierra Leone's Financial Intelligence Agency and GIABA opened a three-day consul
 
 **[MoPED Seeks Stronger Coordination to Improve Sierra Leone’s National Data Systems](https://sierraloaded.sl/news/moped-stronger-coordination-national-data/)** — SierraLoaded, 13 November 2026
 
-30% of national data systems exchange data; under 1% of budget to statistics; 2026-2030 framework seeks US$18.2m.
+Sierra Leone's Ministry of Planning and Economic Development convened the first Steering Committee of the Power of Data Initiative on 13 November 2026. A national review found about 30% of national data systems exchange information. It also found under 1% of the national budget goes to data and statistics. A proposed 2026-2030 framework carries an indicative budget of US$18.2 million and a 60% interoperability target.
 
 </div>
 
@@ -254,7 +254,7 @@ Sierra Leone's Financial Intelligence Agency and GIABA opened a three-day consul
 
 **[Sierra Leone Seeks $18.2m to Improve National Data Systems](https://salonemessengers.com/sierra-leone-18-2m-national-data-systems/)** — Salone Messenger, 13 November 2026
 
-Only 30% of platforms share data; under 1% of budget to statistics; 2026-2030 framework targets 60%.
+Sierra Leone's planning ministry presented a review at the first Steering Committee meeting of the Power of Data Initiative in Freetown on 13 November 2026. The review found that only 30% of existing data platforms share information effectively. It also found less than 1% of the national budget goes to data and statistics. The government proposed an investment of $18.2 million in national data systems.
 
 </div>
 
@@ -384,7 +384,7 @@ Sierra Leone's Ministry of Communication, Technology and Innovation began traini
 
 **[DSTI, Sierra Leone Fire Force Sign MoU to Advance Digital Transformation](https://sierraloaded.sl/local/dsti-fire-force-sigmou-digital-transformation/)** — SierraLoaded, 12 November 2026
 
-MoU signed 15 Sep 2026; personnel, asset, fleet tracking and incident reporting systems to be developed.
+Sierra Leone's Directorate of Science, Technology and Innovation and the Sierra Leone Fire Force signed a memorandum of understanding on 15 September 2026. Initial talks had been held on 24 August 2026. The two bodies are to develop digital tools for personnel management, asset and fleet tracking, incident reporting, inspections and emergency coordination.
 
 </div>
 
@@ -598,7 +598,7 @@ Sierra Leone has set up a national committee for UNESCO's Information for All Pr
 
 **[RAIC Partners with Institute for Development to Improve Public Access to Information in Sierra Leone](https://salonemessengers.com/raic-ifd-public-access-information-sierra-leone/)** — Salone Messenger, 13 November 2026
 
-MoU on proactive disclosure; Sabi Salone AI platform for laws, policies, surveys; signing date not stated.
+Sierra Leone's Right to Access Information Commission signed a memorandum of understanding with the Institute for Development, which runs the Sabi Salone platform. The partnership aims to widen public access to laws, policies, development strategies and research reports.
 
 </div>
 

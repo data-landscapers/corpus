@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-15
 place: TUN
 ledger_rows: 47
 not_held: 4
-record: caddf5d5abc2
+record: 300827c1ef98
 ---
 
 # News, Oct – Nov 2026
@@ -560,7 +560,7 @@ Summarised under [Domestic budget appropriations and expenditure](#domestic-budg
 
 **[بطاقة "لاباس".. متى ينطلق العمل بها؟](https://www.assabahnews.tn/ar/%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/%d9%88%d8%b7%d9%86%d9%8a%d8%a9/1121904-%d8%a8%d8%b7%d8%a7%d9%82%d8%a9-%d9%84%d8%a7%d8%a8%d8%a7%d8%b3-%d9%85%d8%aa%d9%89-%d9%8a%d9%86%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a8%d9%87%d8%a7%d8%9f/)** — Assabah News, 14 November 2026
 
-Completion due mid-2027; distributed since 2019, not yet universal; QR code opens CNAM member record.
+Tunisia's Minister of Social Affairs, Issam al-Ahmar, told a joint parliamentary session in November 2026 that preparation of the Labes electronic health card will be completed by mid-2027. It is the national health insurance fund's card. It has been distributed since 2019. It has not reached every member or replaced the paper card.
 
 </div>
 

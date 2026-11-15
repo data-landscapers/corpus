@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: KEN
 ledger_rows: 97
 not_held: 5
-record: d083b9a6d815
+record: 9f9e6ec0b7b8
 ---
 
 # News, Oct – Nov 2026
@@ -244,7 +244,7 @@ A former senior manager at a Kenyan bank testified, in a Sh1.5 billion data brea
 
 **[CoA Clears Kenya-US Health Deal for Implementation Pending Appeal](https://capitalfm.africa/coa-clears-kenya-us-health-deal-for-implementation-pending-appeal/)** — Capital FM (Kenya), 13 October 2026
 
-Kenya's Court of Appeal lets the US health framework run pending appeal; privacy and data questions left open.
+Kenya's Court of Appeal set aside High Court conservatory orders of 19 December 2025. This allows the health cooperation framework with the United States to be implemented while the government's appeal proceeds. The court held that the public interest in essential health services outweighed the risks, and the privacy and data-protection challenges remain for the main petition. The report is dated 13 October 2026.
 
 </div>
 
@@ -288,7 +288,7 @@ President Ruto nominated Lydia Sitienei, director of legal services at the Commu
 
 **[Kassait calls for reforms, central data pool as she exits data protection office](https://www.kbc.co.ke/kassait-calls-for-reforms-central-data-pool-as-she-exits-data-protection-office/)** — Kenya Broadcasting Corporation, 13 November 2026
 
-Commissioner leaves 16 Nov 2026; urges central anonymised data pool as DPI, office reforms, Malabo ratification.
+Immaculate Kassait leaves office as Kenya's first Data Commissioner on 16 November 2026 after six years at the Office of the Data Protection Commissioner. She says Kenya should establish a central anonymised data pool to support innovation. She also points to reforms to the office and ratification of the Malabo Convention.
 
 </div>
 
@@ -302,7 +302,7 @@ Commissioner leaves 16 Nov 2026; urges central anonymised data pool as DPI, offi
 
 **[Six years after its creation, Kenya’s data protection watchdog faces a more complex digital economy](https://techtrendske.co.ke/2026/11/13/kenya-data-protection-law-ai-regulation/)** — TechTrendsKE, 13 November 2026
 
-Kassait seeks amendments on AI, sensitive data, penalties; ODPC tallies 13,000 complaints, 459 determinations.
+Outgoing Kenyan Data Commissioner Immaculate Kassait says the Data Protection Act, 2019 needs amendments on artificial intelligence, sensitive personal information and penalties. She also wants stronger powers to investigate organisations outside Kenya and more time to determine complaints. President William Ruto nominated Lydia Sitienei Chelagat to succeed her on 10 November 2026. The ODPC has handled about 13,000 complaints and 459 determinations.
 
 </div>
 
@@ -898,7 +898,7 @@ Redtech, a Nigerian payments company, plans a payments link between Nigeria and 
 
 **[PAPSS bets on local currencies to unlock Kenya’s Africa trade](https://capitalfm.africa/papss-bets-on-local-currencies-to-unlock-kenyas-africa-trade/)** — Capital FM, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-31 countries, 220+ banks, 17 switches; 37 countries targeted by end-2026, 50 in 2027; fees about 0.1%.
+PAPSS chief executive Mike Ogbalu told Capital FM on 12 November 2026 that the system operates in 31 African countries with over 220 commercial banks and 17 payment switches. It targets 37 countries by the end of 2026 and at least 50 in 2027. Infrastructure fees average about 0.1% of value. Kenya's KCB and Equity Bank are connected; transaction volumes and trade impact have not been disclosed.
 
 </div>
 

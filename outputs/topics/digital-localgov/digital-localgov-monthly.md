@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: digital.localgov
 places: BEN; BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
-record: 267a5553b671
+record: 91be73b7e023
 ---
 
 # News, Oct – Nov 2026
@@ -382,7 +382,7 @@ The Yobe State Internal Revenue Service has banned cash payment of any tax, levy
 
 **[Anambra Unveils Digital Handbook, AI Assistant for Residents](https://von.gov.ng/anambra-unveils-digital-handbook-ai-assistant-for-residents/)** — Voice of Nigeria, 13 November 2026
 
-35 platforms, 29 MDA sites, 14 service areas; NORA built on open source at no cost; 7-day complaint target.
+The Anambra State ICT Agency in Nigeria launched a Digital Anambra Handbook 2026 and an AI assistant called NORA in Awka. The handbook links residents to 35 platforms, 29 ministry and agency websites and 14 service areas. NORA was built in-house at no cost to the state.
 
 </div>
 
@@ -396,7 +396,7 @@ The Yobe State Internal Revenue Service has banned cash payment of any tax, levy
 
 **[ICPC Recovers ₦5.3bn, Targets 774 Councils With Digital Transparency Drive](https://von.gov.ng/icpc-recovers-%E2%82%A65-3bn-targets-774-councils-with-digital-transparency-drive/)** — Voice of Nigeria, 13 November 2026
 
-Councils to publish budgets, allocations, IGR and audits online; NITDA to host all 774 LGA sites; ₦5.3bn recovered.
+Nigeria's anti-corruption commission ICPC and the IT agency NITDA launched a pilot in Nasarawa State. It requires councils to publish budgets, allocations, revenue, spending, audits, debts and procurement online. NITDA is to register domains and host sites for all 774 local government areas. ICPC said it had recovered over N5.3 billion from council accounts in seven states and the capital territory.
 
 </div>
 

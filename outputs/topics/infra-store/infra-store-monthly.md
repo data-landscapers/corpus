@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; ETH; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: ea9ae5735b6b
+record: 50d182b65970
 ---
 
 # News, Oct – Nov 2026
@@ -534,7 +534,7 @@ Alibaba said on 2 November 2026 that the Dakar 2026 Youth Olympic Games run on a
 
 **[Le cloud des JOJ deviendra une plateforme nationale après les Jeux (communiqué) - APS](https://aps.sn/le-cloud-des-joj-deviendra-une-plateforme-nationale-apres-les-jeux-communique/)** — Agence de Presse Sénégalaise (APS), 13 November 2026
 
-SENUM to run Alibaba Apsara Stack cloud from its Diamniadio data centre; 200 cloud engineers to be trained.
+Senegal Numerique SA (SENUM) said on 13 November 2026 that the Alibaba Cloud Apsara Stack infrastructure will become a national cloud platform. It was built for the Dakar 2026 Youth Olympic Games; SENUM will run it afterwards. It is hosted in SENUM's Diamniadio data centre and will provide sovereign hosting for administration applications. The partnership includes training 200 cloud engineers, and no storage capacity is stated.
 
 </div>
 
@@ -573,7 +573,7 @@ Seychelles' Cabinet approved the Digital and AI Strategy 2026–2031 on 28 Octob
 
 **[Seychelles — 2027 Budget — Assumptions and Objectives of the 2027 Budget — Part 2](https://www.finance.gov.sc/wp-content/uploads/2026/11/2027-BUDGET-BOOK-PART-2-ASSUMPTIONS-AND-OBJECTIVES-OF-THE-2027-BUDGET.pdf)** — Ministry of Finance, Economic Planning, Trade and Investment, Republic of Seychelles, 13 November 2026
 
-2027 budget speech and strategy: digital and AI strategy rollout, SCR 59.1m cloud and data centre, debt and fiscal risk.
+Seychelles' Ministry of Finance published Part 2 of its 2027 budget book. It covers the assumptions and objectives of the budget. It includes the Budget Speech that Minister Pierre Laporte gave to the National Assembly on 12 November 2026. The speech has a section on the digital economy and the National Digital and Artificial Intelligence Strategy 2026 to 2031.
 
 </div>
 

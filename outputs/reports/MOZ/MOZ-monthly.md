@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: MOZ
 ledger_rows: 38
 not_held: 17
-record: 188b2056191f
+record: 99d18b6e4063
 ---
 
 # News, Oct – Nov 2026
@@ -136,7 +136,7 @@ Mozambique's INTIC presented a proposed revision of Decree 67/2017, its e-govern
 
 **[Parlamento aprova revisão da lei que regula organização e funcionamento da Administração Pública](https://mznews.co.mz/parlamento-aprova-revisao-da-lei-que-regula-organizacao-e-funcionamento-da-administracao-publica/)** — MZNews, 13 November 2026
 
-About 142 articles in 12 chapters; digital transition, citizen oversight and provincial decentralised bodies added.
+Mozambique's Assembleia da República approved a revision of the law on the organisation and functioning of the Public Administration, reported on 13 November 2026. The text has about 142 articles in 12 chapters and adds provisions on digital transition, citizen oversight of services and transparency. It replaces a law in force for 14 years.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: e3cc9d1bb5ce
+record: d26b40dd2179
 ---
 
 # News, Oct – Nov 2026
@@ -557,7 +557,7 @@ The regulator ARTCI published Côte d'Ivoire's telecoms market statistics for th
 
 **[Connectivité rurale : les satellites Leo et les réseaux mobiles envisagés pour connecter les zones reculées](https://www.linfodrome.com/economie/127576-connectivite-rurale-les-satellites-leo-et-les-reseaux-mobiles-envisages-pour-connecter-les-zones-reculees)** — Linfodrome, 13 November 2026
 
-PNCR and ANSUT satellite feasibility study; 578 rural sites built 2024-25 reaching about 900,000 people.
+Côte d'Ivoire's rural connectivity programme (PNCR) and universal-service agency ANSUT have begun a feasibility study on satellite solutions for localities that operators will not serve. The study covers how financing would be split between the state, satellite providers and operators, a panel at the Ivoire Tech Forum heard on 12 November 2026. The PNCR built about 578 radio sites in 2024-2025. They cover some 684 localities and about 900,000 people.
 
 </div>
 
@@ -1849,7 +1849,7 @@ Nigeria's active mobile subscriptions reached 200.3 million in September 2026, N
 
 **[NCC considers 15-year spectrum licences to boost broadband investment](https://techcabal.com/2026/11/13/ncc-considers-15-year-spectrum-licences/)** — TechCabal, 13 November 2026
 
-Longer tenure for verified extra investment; data use 1.73m TB a month Sept 2026; 5G coverage ~13% April 2026.
+The Nigerian Communications Commission said on 12 November 2026 that it is developing a framework. The framework could extend spectrum licences from 10 to 15 years in return for additional, verified broadband investment. A consultation paper is to follow. No eligibility rules, incentive level or start date have been set.
 
 </div>
 
@@ -2272,7 +2272,7 @@ Rtmediasd reported on 9 November 2026 that Zain, Sudani and MTN raised internet 
 
 **[Tanzania Opens New Talks With Elon Musk's SpaceX And Starlink Over Investment In Communications Sector](https://www.todaysw.com/2026/10/08/tanzania-opens-new-talks-with-elon-musks-spacex-and-starlink-over-investment-in-communications-sector/)** — Today SW, 8 October 2026
 
-Starlink still unlicensed in Tanzania as PM meets SpaceX in London, 7 October 2026; entry subject to TCRA approval.
+Tanzania's Prime Minister, Mwigulu Nchemba, met SpaceX and Starlink representatives in London on 7 October 2026. They discussed investment in communications and technology. Starlink applied for national licences in November 2024. It had not received an operational licence by 2026, and entry still needs regulatory approval.
 
 </div>
 
@@ -2322,7 +2322,7 @@ Paratus Tanzania launched a point of presence at the Wingu Data Centre in Dar es
 
 **[Tanzania - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/tanzania/)** — International Telecommunication Union (statement by Tanzania), 13 November 2026
 
-Broadband coverage 77% to 94% since 2022; 758 UCSAF towers, 1,301 villages; ITU Council Region D re-election bid.
+In its policy statement to the ITU Plenipotentiary Conference 2026, Tanzania said broadband coverage had grown from 77% to over 94% of the population since 2022. It said its universal access fund and operators had built 758 towers. These connected 1,301 villages and about 8.5 million people. Tanzania asked the ITU to prioritise meaningful connectivity.
 
 </div>
 
@@ -2330,7 +2330,7 @@ Broadband coverage 77% to 94% since 2022; 758 UCSAF towers, 1,301 villages; ITU 
 
 **[Tanzania urges shift from telecom coverage to meaningful digital access](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-urges-shift-from-telecom-coverage-to-meaningful-digital-access-5669436)** — The Citizen (Tanzania), 13 November 2026
 
-PP-26 Doha speech: 94% broadband coverage, 758 new towers, 1,301 villages connected; ITU Council re-election bid.
+Tanzania's communications minister, Angellah Kairuki, told the ITU Plenipotentiary Conference in Doha that broadband coverage exceeds 94% of the population. She said 758 new towers had connected over 1,301 villages and about 8.5 million people, and urged the ITU to prioritise affordability and innovative financing. Tanzania is seeking re-election to the ITU Council.
 
 </div>
 

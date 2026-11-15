@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: ZAF
 ledger_rows: 106
 not_held: 17
-record: a93e15d504c4
+record: 94c5d94f1a62
 ---
 
 # News, Oct – Nov 2026
@@ -1172,7 +1172,7 @@ South Africa's public service minister told Parliament on 10 November 2026 that 
 
 **[Joint media statement between South African Revenue Service and National Consumer Commission on Track and Trace System](https://www.sars.gov.za/media-release/joint-media-statement-between-south-african-revenue-service-and-national-consumer-commission-on-track-and-trace-system/)** — South African Revenue Service, 12 November 2026
 
-Cigarette track-and-trace RFP imminent; dtic draft regulations out for comment; data-sharing and standards aligned.
+South Africa's revenue service (SARS) and the National Consumer Commission agreed on 12 November 2026 a coordinated approach to legislating for and procuring a Track and Trace system against illicit trade. SARS's request for proposals for a cigarette track-and-trace capability is described as imminent. The two bodies are aligning technical standards and information-sharing.
 
 </div>
 
@@ -1604,7 +1604,7 @@ ITWeb reported on 6 November 2026 that South Africa ranks 13th of 56 Commonwealt
 
 **[SA AI adoption outpaces business value](https://itweb.africa/article/sa-ai-adoption-outpaces-business-value/xA9PO7NEnaNvo4J8)** — ITWeb Africa, 13 November 2026
 
-93% of large SA firms use AI, 51% see productivity gain; average index score 34.3; World Wide Worx survey.
+The SA AI Index 2026, by World Wide Worx with Altron Digital Business, surveyed 100 decision-makers in October 2026. They work at South African organisations with more than 200 employees. It found 93% use AI, up from 67% in 2025 and 45% in 2024. The share rating its productivity impact as positive fell from 83% to 51%, and the average organisation scores 34.3 out of 100 on the index.
 
 </div>
 
@@ -1758,7 +1758,7 @@ South Africa and China are advancing plans for an AI Talent Development and Inno
 
 **[SASSETA invests R15m in Northlink College digitalisation hub](https://www.itweb.co.za/article/sasseta-invests-r15m-in-northlink-college-digitalisation-hub/KWEBb7yL2jZvmRjO)** — ITWeb South Africa, 13 November 2026
 
-R15m TVET hub for cyber security, cloud, AI and data skills; launched with Minister Manamela.
+South Africa's sector training authority SASSETA invested R15 million in a digitalisation hub at Northlink College. The hub offers training in cyber security, cloud computing, AI, data analysis and software development. It was launched with Higher Education Minister Buti Manamela.
 
 </div>
 

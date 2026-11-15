@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: include.access
 places: BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MWI; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: 7f690645ff80
+record: 49ad5b912cc9
 ---
 
 # News, Oct – Nov 2026
@@ -134,7 +134,7 @@ Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone a
 
 **[Côte d’Ivoire : un programme pour rendre les smartphones accessibles à 25 USD](https://www.agenceecofin.com/actualites-numerique/1211-143364-cote-d-ivoire-un-programme-pour-rendre-les-smartphones-accessibles-a-25-usd)** — Agence Ecofin, 12 November 2026
 
-Signed 10 Nov 2026 in Doha; 15,000 FCFA device target; smartphone penetration 40% now, 80% goal by end-2027.
+Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone affordability on 10 November 2026 at the Mobile World Congress in Doha. The national programme aims at devices costing about 15,000 FCFA. It also aims at smartphone penetration of 80% by end-2027, against no more than 40% now. Subsidy terms and timetable are not yet set.
 
 </div>
 

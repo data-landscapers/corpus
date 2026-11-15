@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9afc58bb5f5d
+record: 1fbe40f7868d
 ---
 
 # News, Oct – Nov 2026
@@ -325,7 +325,7 @@ Cape Verde scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the N
 
 **[Cabo Verde reúne condições para avançar na adopção da Inteligência Artificial – especialistas](https://www.inforpress.cv/en/article-12401)** — Inforpress, 12 November 2026
 
-UNDP-backed national AI diagnostic validated in Mindelo, 12–13 Nov 2026; gaps in skills, law and governance.
+Cabo Verde's telecommunications and digital economy directorate and the UNDP held a validation meeting of the National AI Diagnostic in Mindelo. The meeting took place on 12 and 13 November 2026. Officials said the country has the digital infrastructure, connectivity and digitised public services to adopt AI. Gaps remain in skills, legislation and governance.
 
 </div>
 
@@ -568,7 +568,7 @@ DR Congo scored 1.32 out of 4 on the Africa AI Governance Index 2026, in the Eme
 
 **[Économie numérique : Augustin Kibassa Maliba pour l'interconnexion de MIMPA au RDC-PASS et au Guichet numérique afin de dématérialiser les services fonciers - Augustin Kibassa](https://augustinkibassa.cd/2026/11/12/economie-numerique-augustin-kibassa-maliba-pour-linterconnexion-de-mimpa-au-rdc-pass-et-au-guichet-numerique-afin-de-dematerialiser-les-services-fonciers/)** — Ministère de l'Économie numérique (RDC), 12 November 2026
 
-Digital ministry's own account: four strengths of MIMPA, state-hosted model, call for an AI-use charter per body.
+The Democratic Republic of the Congo's digital economy minister, Augustin Kibassa Maliba, attended a launch in Kinshasa on 12 November 2026. The launch was of MIMPA, an artificial-intelligence assistant of the lands ministry that answers questions on land law. He called for it to be connected to the RDC-PASS and the digital one-stop shop. He said reliability must be maintained.
 
 </div>
 
@@ -576,7 +576,7 @@ Digital ministry's own account: four strengths of MIMPA, state-hosted model, cal
 
 **[RDC : Kinshasa mise sur l’IA pour faciliter les démarches foncières](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-kinshasa-mise-sur-l-ia-pour-faciliter-les-demarches-foncieres)** — wearetech.africa, 13 November 2026
 
-MIMPA to link to RDC-PASS and Guichet numérique, no timetable; model and chats hosted under state control.
+The Democratic Republic of the Congo's lands ministry presented MIMPA in Kinshasa on 12 November 2026. MIMPA is an artificial intelligence assistant that answers land-law questions from current legal texts. Digital economy minister Augustin Kibassa Maliba said it is to be linked to the Guichet numérique, the RDC-PASS authentication service and the national electronic certification authority. No timetable has been given for online applications and payments.
 
 </div>
 
@@ -1743,7 +1743,7 @@ ITWeb reported on 6 November 2026 that South Africa ranks 13th of 56 Commonwealt
 
 **[SA AI adoption outpaces business value](https://itweb.africa/article/sa-ai-adoption-outpaces-business-value/xA9PO7NEnaNvo4J8)** — ITWeb Africa, 13 November 2026
 
-93% of large SA firms use AI, 51% see productivity gain; average index score 34.3; World Wide Worx survey.
+The SA AI Index 2026, by World Wide Worx with Altron Digital Business, surveyed 100 decision-makers in October 2026. They work at South African organisations with more than 200 employees. It found 93% use AI, up from 67% in 2025 and 45% in 2024. The share rating its productivity impact as positive fell from 83% to 51%, and the average organisation scores 34.3 out of 100 on the index.
 
 </div>
 
@@ -1990,7 +1990,7 @@ The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe Intern
 
 **[Will Uganda’s youth power the AI economy, or be left behind by it?](https://www.independent.co.ug/will-ugandas-youth-power-the-ai-economy-or-be-left-behind-by-it/)** — The Independent (Uganda), 13 November 2026
 
-Uganda 23rd of 56 Commonwealth states, score 47.0, below benchmark 53; AI GDP uplift put at US$899m in a decade.
+The 2026 Commonwealth Youth AI Readiness Index was produced by the Ayre Think Tank. It was unveiled around the 1-4 November Commonwealth summit in Antigua and Barbuda. It ranks Uganda 23rd of 56 countries with a score of 47.0 out of 100, below the study's benchmark of 53. The study estimates AI could add US$899 million to Uganda's GDP over a decade.
 
 </div>
 

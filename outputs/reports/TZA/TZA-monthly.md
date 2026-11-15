@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: TZA
 ledger_rows: 50
 not_held: 4
-record: 421fd3d6abce
+record: 9de2c1f48207
 ---
 
 # News, Oct – Nov 2026
@@ -208,7 +208,7 @@ Tanzania's Ministry of Finance and Korea Eximbank signed a concessional loan of 
 
 **[Tanzania Opens New Talks With Elon Musk's SpaceX And Starlink Over Investment In Communications Sector](https://www.todaysw.com/2026/10/08/tanzania-opens-new-talks-with-elon-musks-spacex-and-starlink-over-investment-in-communications-sector/)** — Today SW, 8 October 2026
 
-Starlink still unlicensed in Tanzania as PM meets SpaceX in London, 7 October 2026; entry subject to TCRA approval.
+Tanzania's Prime Minister, Mwigulu Nchemba, met SpaceX and Starlink representatives in London on 7 October 2026. They discussed investment in communications and technology. Starlink applied for national licences in November 2024. It had not received an operational licence by 2026, and entry still needs regulatory approval.
 
 </div>
 
@@ -258,7 +258,7 @@ Paratus Tanzania launched a point of presence at the Wingu Data Centre in Dar es
 
 **[Tanzania - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/tanzania/)** — International Telecommunication Union (statement by Tanzania), 13 November 2026
 
-Broadband coverage 77% to 94% since 2022; 758 UCSAF towers, 1,301 villages; ITU Council Region D re-election bid.
+In its policy statement to the ITU Plenipotentiary Conference 2026, Tanzania said broadband coverage had grown from 77% to over 94% of the population since 2022. It said its universal access fund and operators had built 758 towers. These connected 1,301 villages and about 8.5 million people. Tanzania asked the ITU to prioritise meaningful connectivity.
 
 </div>
 
@@ -266,7 +266,7 @@ Broadband coverage 77% to 94% since 2022; 758 UCSAF towers, 1,301 villages; ITU 
 
 **[Tanzania urges shift from telecom coverage to meaningful digital access](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-urges-shift-from-telecom-coverage-to-meaningful-digital-access-5669436)** — The Citizen (Tanzania), 13 November 2026
 
-PP-26 Doha speech: 94% broadband coverage, 758 new towers, 1,301 villages connected; ITU Council re-election bid.
+Tanzania's communications minister, Angellah Kairuki, told the ITU Plenipotentiary Conference in Doha that broadband coverage exceeds 94% of the population. She said 758 new towers had connected over 1,301 villages and about 8.5 million people, and urged the ITU to prioritise affordability and innovative financing. Tanzania is seeking re-election to the ITU Council.
 
 </div>
 
@@ -670,7 +670,7 @@ Smallholders in Dodoma region told Al Jazeera on 6 November 2026 that they have 
 
 **[PPRA introduces digital tool to detect procurement risks early](https://dailynews.co.tz/ppra-introduces-digital-tool-to-detect-procurement-risks-early/)** — Daily News (Tanzania), 13 November 2026
 
-Standardised quarterly audit reports under Regulation 92 from 1,000+ institutions; testing began 12 Nov 2026.
+Tanzania's Public Procurement Regulatory Authority (PPRA) began user acceptance testing of a NeST module for standardised quarterly procurement audit reports on 12 November 2026. The module implements Regulation 92 and is meant to take reports from more than 1,000 public institutions. Over 50 institutions took part in the two-day test in Dodoma.
 
 </div>
 

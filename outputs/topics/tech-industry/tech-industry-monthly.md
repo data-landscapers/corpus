@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: tech.industry
 places: BEN; EGY; GMB; GIN; KEN; NGA; SEN; ZAF
-record: 035805d9b5fd
+record: 8c3dad653257
 ---
 
 # News, Oct – Nov 2026
@@ -37,7 +37,7 @@ record: 035805d9b5fd
 
 **[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
+The World Bank Group announced on 13 November 2026 that its E-GATE e-commerce programme will extend to Benin, The Gambia and Guinea. The 2026 to 2028 pilot is for up to 100 small and medium-sized enterprises. The China-World Bank Partnership Facility supports it. No amount is stated.
 
 </div>
 
@@ -75,7 +75,7 @@ MNT-Halan listed its Egyptian business on the Cairo Stock Exchange in Egypt's la
 
 **[Telecom Egypt Revenue Rises 19% to EGP 93.6 Billion in 9M 2026](https://techafricanews.com/2026/11/13/telecom-egypt-revenue-rises-19-percent-egp-93-6-billion-9m-2026/)** — Tech Africa News, 13 November 2026
 
-Net profit up 44% to EGP 24.4bn; data revenue up 30%; cash capex EGP 26.3bn, 28% of revenue.
+Telecom Egypt's revenue for the first nine months of 2026 rose 19% year on year to EGP 93.6 billion, and net profit rose 44% to EGP 24.4 billion. Data revenue grew 30% and international incoming calls 25%, and cash capex was EGP 26.3 billion. The chief executive credited NTRA-approved tariff adjustments for part of the data growth.
 
 </div>
 
@@ -91,7 +91,7 @@ Net profit up 44% to EGP 24.4bn; data revenue up 30%; cash capex EGP 26.3bn, 28%
 
 **[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
+The World Bank Group announced on 13 November 2026 that its E-GATE e-commerce programme will extend to Benin, The Gambia and Guinea. The 2026 to 2028 pilot is for up to 100 small and medium-sized enterprises. The China-World Bank Partnership Facility supports it. No amount is stated.
 
 </div>
 
@@ -107,7 +107,7 @@ Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility ba
 
 **[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
+The World Bank Group announced on 13 November 2026 that its E-GATE e-commerce programme will extend to Benin, The Gambia and Guinea. The 2026 to 2028 pilot is for up to 100 small and medium-sized enterprises. The China-World Bank Partnership Facility supports it. No amount is stated.
 
 </div>
 

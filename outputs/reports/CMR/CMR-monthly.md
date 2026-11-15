@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: CMR
 ledger_rows: 31
 not_held: 3
-record: 52210eed6dae
+record: 9882264e6d48
 ---
 
 # News, Oct – Nov 2026
@@ -158,7 +158,7 @@ Cameroon's regulator ART reported on 10 November 2026 on its quality-of-service 
 
 **[FOLLOW-UP ON THE IMPLEMENTATION OF MTN CAMEROON’S ROADMAP : ART ASSESSES PROGRESS AND REAFFIRMS ITS QUALITY OF SERVICE REQUIREMENTS](https://www.art.cm/en/article/follow-implementation-mtn-cameroon%E2%80%99s-roadmap-art-assesses-progress-and-reaffirms-its-quality)** — Agence de régulation des télécommunications (ART) Cameroun, 12 November 2026
 
-85% of Kribi roadmap actions done; 2026 capex 78.6% executed (CFAF 12.7bn); MTN concedes service below target.
+Cameroon's telecoms regulator ART and MTN Cameroon held a follow-up session in Yaoundé on 12 November 2026 on the quality-of-service roadmap agreed in Kribi. About 85% of the agreed actions were reported implemented. MTN said its 2026 investment plan was 78.6% executed, about CFAF 12.7 billion. It acknowledged that service remains below the desired level.
 
 </div>
 

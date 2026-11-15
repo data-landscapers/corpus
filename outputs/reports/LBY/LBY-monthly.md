@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-15
 place: LBY
 ledger_rows: 27
 not_held: 3
-record: d2aaa65a32cd
+record: e560b41d38a3
 ---
 
 # News, Oct – Nov 2026
@@ -284,7 +284,7 @@ Libya's Wahda Bank selected Backbase to build its digital banking platform, repo
 
 **[Ministry of Economy & Trade launches e-system for inquiring about commercial agencies and legislation governing them](https://libyaherald.com/2026/11/ministry-of-economy-trade-launches-e-system-for-inquiring-about-commercial-agencies-and-legislation-governing-them)** — Libya Herald, 12 November 2026
 
-Search by brand, principal or registration number; governing laws downloadable; phase two to digitise applications.
+Libya's Ministry of Economy and Trade launched an online platform on 12 November 2026. It is for searching registered commercial agencies and downloading the laws and regulations governing them. The ministry's Commercial Agencies and Brokerage Department runs it as a first phase. A second phase is to move the full application and transaction process online.
 
 </div>
 
@@ -292,7 +292,7 @@ Search by brand, principal or registration number; governing laws downloadable; 
 
 **[وزارة الاقتصاد تطلق منظومة إلكترونية للاستعلام عن الوكالات التجارية والتشريعات المنظمة لها](https://lana.gov.ly/post.php?id=369904&lang=ar)** — Libyan News Agency (LANA), 12 November 2026
 
-First phase: search by trademark, principal or registration number, download rules; online applications in phase two.
+Libya's Ministry of Economy and Trade launched an online system on 12 November 2026. It allows searches of registered commercial agencies by trademark, principal company or registration number, and downloads of the governing laws and decisions. The Economic Information and Documentation Centre built it. Online applications and transactions are promised in a second phase.
 
 </div>
 
@@ -394,7 +394,7 @@ Libya's Ministry of Economy and Trade launched the National Trade Facilitation E
 
 **[إطلاق المرحلة الثانية من المنظومة الرقمية الموحدة للاتحاد العام لغرف التجارة والصناعة والزراعة](https://lana.gov.ly/post.php?id=370039&lang=ar)** — Libyan News Agency (LANA), 14 November 2026
 
-Certificates of origin applied for and issued online for chamber members nationwide; launched 11 Nov 2026.
+Libya's Deputy Prime Minister, Salem al-Zadma, launched phase two of the General Union of Chambers of Commerce, Industry and Agriculture's unified digital system in Tripoli on 11 November 2026. He did so with the economy and digital-economy ministers. The launch was at the opening of the second Libyan Permanent Economic Forum.
 
 </div>
 
@@ -486,7 +486,7 @@ The terms of Libya's open data platform, run by the General Information Authorit
 
 **[الهيئة العامة للمعلومات تستعرض دور التحول الرقمي في تعزيز تنافسية الاقتصاد الليبي](https://lana.gov.ly/post.php?id=370037&lang=ar)** — Libyan News Agency (LANA), 14 November 2026
 
-Open data platform at 166 datasets (Nov 2026); national data distributor pitched for government interoperability.
+Libya's General Information Authority took part in the second Libyan Permanent Economic Forum in Tripoli on 11 and 12 November 2026. It spoke on data governance, legislation and digital public infrastructure. It cited an open data platform holding 166 datasets.
 
 </div>
 

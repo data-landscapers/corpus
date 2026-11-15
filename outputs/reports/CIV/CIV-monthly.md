@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: CIV
 ledger_rows: 50
 not_held: 9
-record: f5a504bd0226
+record: c49826a3fed2
 ---
 
 # News, Oct – Nov 2026
@@ -234,7 +234,7 @@ The regulator ARTCI published Côte d'Ivoire's telecoms market statistics for th
 
 **[Connectivité rurale : les satellites Leo et les réseaux mobiles envisagés pour connecter les zones reculées](https://www.linfodrome.com/economie/127576-connectivite-rurale-les-satellites-leo-et-les-reseaux-mobiles-envisages-pour-connecter-les-zones-reculees)** — Linfodrome, 13 November 2026
 
-PNCR and ANSUT satellite feasibility study; 578 rural sites built 2024-25 reaching about 900,000 people.
+Côte d'Ivoire's rural connectivity programme (PNCR) and universal-service agency ANSUT have begun a feasibility study on satellite solutions for localities that operators will not serve. The study covers how financing would be split between the state, satellite providers and operators, a panel at the Ivoire Tech Forum heard on 12 November 2026. The PNCR built about 578 radio sites in 2024-2025. They cover some 684 localities and about 900,000 people.
 
 </div>
 
@@ -784,7 +784,7 @@ Côte d'Ivoire named 32 digital firms on 4 November 2026 for 24 months of state 
 
 **[AIP/ Ivoire Tech Forum: Beugré Mambé appelle à faire des technologies émergentes un moteur de croissance](https://www.aip.ci/aip-ivoire-tech-forum-beugre-mambe-appelle-a-faire-des-technologies-emergentes-un-moteur-de-croissance/)** — Agence Ivoirienne de Presse (AIP), 12 November 2026
 
-State wire on the 12 Nov 2026 forum: 1,000 projects 2027-2030, ~500 firms, 5,000+ jobs, FCFA 150bn turnover.
+Côte d'Ivoire's Prime Minister, Robert Beugré Mambé, spoke at the opening of the second Ivoire Tech Forum in Abidjan on 12 November 2026. He called for wider mastery of artificial intelligence and data processing. Digital minister Djibril Ouattara announced support for 1,000 digital projects in 2027-2030. The aim is nearly 500 firms, over 5,000 jobs and 150 billion FCFA in turnover.
 
 </div>
 
@@ -792,7 +792,7 @@ State wire on the 12 Nov 2026 forum: 1,000 projects 2027-2030, ~500 firms, 5,000
 
 **[Ivoire Tech Forum 2026 : le Premier Ministre appelle à faire du numérique et de l'intelligence artificielle les moteurs de la croissance inclusive](https://primature.ci/actualite/ivoire-tech-forum-2026-le-premier-ministre-appelle-a-faire-du-numerique-et-de-lintelligence-artificielle-les-moteurs-de-la-croissance-inclusive)** — Cabinet du Premier Ministre (Côte d'Ivoire), 12 November 2026
 
-PM's office account, 12 Nov 2026; 1,000 youth, women and entrepreneur projects 2027-2030; AI and data as growth drivers.
+The Prime Minister's office reported that Robert Beugré Mambé opened the second Côte d'Ivoire Tech Forum in Abidjan on 12 November 2026. He urged that artificial intelligence and data processing drive all economic sectors. Digital minister Djibril Ouattara announced a target for 2027-2030. It is to receive and analyse 1,000 digital projects from young people, women and entrepreneurs.
 
 </div>
 
@@ -800,7 +800,7 @@ PM's office account, 12 Nov 2026; 1,000 youth, women and entrepreneur projects 2
 
 **[Côte d’Ivoire : L’État vise 1 000 projets numériques pour faire émerger 500 start-up d’ici 2030](https://www.linfodrome.com/economie/127572-cote-d-ivoire-l-etat-vise-1-000-projets-numeriques-pour-faire-emerger-500-start-up-d-ici-2030)** — Linfodrome, 13 November 2026
 
-Minister's 2030 target set at second Ivoire Tech Forum opening, 12 November 2026; lede only.
+Côte d'Ivoire's minister for digital transition, Djibril Ouattara, announced on 12 November 2026 a target to receive and support 1,000 digital projects by 2030. The projects would come from young people, women and businesses, and the stated aim is 500 start-ups. He spoke at the opening of the second Ivoire Tech Forum, attended by Prime Minister Robert Beugré Mambé.
 
 </div>
 
@@ -892,7 +892,7 @@ Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone a
 
 **[Côte d’Ivoire : un programme pour rendre les smartphones accessibles à 25 USD](https://www.agenceecofin.com/actualites-numerique/1211-143364-cote-d-ivoire-un-programme-pour-rendre-les-smartphones-accessibles-a-25-usd)** — Agence Ecofin, 12 November 2026
 
-Signed 10 Nov 2026 in Doha; 15,000 FCFA device target; smartphone penetration 40% now, 80% goal by end-2027.
+Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone affordability on 10 November 2026 at the Mobile World Congress in Doha. The national programme aims at devices costing about 15,000 FCFA. It also aims at smartphone penetration of 80% by end-2027, against no more than 40% now. Subsidy terms and timetable are not yet set.
 
 </div>
 

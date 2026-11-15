@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: SYC
 ledger_rows: 17
 not_held: 6
-record: 3dea9a4adc47
+record: 86a37e52aa36
 ---
 
 # News, Oct – Nov 2026
@@ -116,7 +116,7 @@ Seychelles plans to begin implementing a digital human resource management syste
 
 **[Seychelles — 2027 Budget — Estimates of Revenue and Expenditure for the Fiscal Year Ending 31st December 2027 — Part 1](https://www.finance.gov.sc/wp-content/uploads/2026/11/2027-BUDGET-BOOK-PART-1-ESTIMATES-OF-REVENUE-AND-EXPENDITURE-FOR-THE-FISCAL-YEAR-ENDING-31ST-DECEMBER-2027-1.pdf)** — Ministry of Finance, Economic Planning, Trade and Investment, Republic of Seychelles, 13 November 2026
 
-2027 estimates with 2028-29 forecasts: Appropriation Bill for SCR 12.86bn, programme budgets incl. DICT, PSIP.
+Seychelles' Ministry of Finance published Part 1 of its 2027 budget book. It contains the estimates of revenue and expenditure for the year ending 31 December 2027. It covers the Appropriation Bill, 2027, which authorises SCR 12,855,170,854 from the Consolidated Fund. It carries forecasts for 2028 to 2029.
 
 </div>
 
@@ -190,7 +190,7 @@ Seychelles' Cabinet approved the Digital and AI Strategy 2026–2031 on 28 Octob
 
 **[Seychelles — 2027 Budget — Assumptions and Objectives of the 2027 Budget — Part 2](https://www.finance.gov.sc/wp-content/uploads/2026/11/2027-BUDGET-BOOK-PART-2-ASSUMPTIONS-AND-OBJECTIVES-OF-THE-2027-BUDGET.pdf)** — Ministry of Finance, Economic Planning, Trade and Investment, Republic of Seychelles, 13 November 2026
 
-2027 budget speech and strategy: digital and AI strategy rollout, SCR 59.1m cloud and data centre, debt and fiscal risk.
+Seychelles' Ministry of Finance published Part 2 of its 2027 budget book. It covers the assumptions and objectives of the budget. It includes the Budget Speech that Minister Pierre Laporte gave to the National Assembly on 12 November 2026. The speech has a section on the digital economy and the National Digital and Artificial Intelligence Strategy 2026 to 2031.
 
 </div>
 

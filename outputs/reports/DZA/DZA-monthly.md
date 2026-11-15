@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: DZA
 ledger_rows: 41
 not_held: 6
-record: d1ec0eaecf19
+record: f303e7daaab0
 ---
 
 # News, Oct – Nov 2026
@@ -88,7 +88,7 @@ Algeria's telecoms regulator ARPCE definitively withdrew, from 22 October 2026, 
 
 **[Protection des données personnelles : L’ANPDP encadre le traitement des informations contenues dans les CV](https://www.lesoirdalgerie.com/actualites/l-anpdp-encadre-le-traitement-des-informations-contenues-dans-les-cv-160122)** — Le Soir d’Algérie, 12 November 2026
 
-Deliberation 05 under Law 18-07: no sensitive data without legal basis; CVs kept one year after recruitment closes.
+Algeria's data protection authority, the ANPDP, announced its deliberation number 05 on 11 November 2026, adopted under Law 18-07. It covers the processing of personal data in CVs. Sensitive data may not be required without a legal basis, and unnecessary data must be deleted or masked. CVs may be kept for one year after recruitment closes.
 
 </div>
 

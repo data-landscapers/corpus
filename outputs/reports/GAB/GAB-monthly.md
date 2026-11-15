@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: GAB
 ledger_rows: 41
 not_held: 11
-record: 69e1ffd4cb67
+record: 1c8d774ca87e
 ---
 
 # News, Oct – Nov 2026
@@ -112,7 +112,7 @@ Gabon's law 003/2026 of 5 October 2026, published on 9 October, requires individ
 
 **[Données personnelles : L'APDPVP sensibilise à Port-Gentil](https://www.union.sonapresse.com/fr/donnees-personnelles-lapdpvp-sensibilise-port-gentil)** — L'Union - Sonapresse, 12 November 2026
 
-Barely 24 of about 300 Port-Gentil firms compliant with data protection law, per regulator's campaign.
+Gabon's data protection authority, the APDPVP, held an awareness day in Port-Gentil on Tuesday 10 November 2026. Only 24 of about 300 businesses in the city are compliant with the data protection law. The authority's president, Joël Dominique Ledaga, reminded controllers of their obligations and citizens of their rights of access, rectification, objection and erasure.
 
 </div>
 
@@ -626,7 +626,7 @@ Gabon's civil-service pension and family fund (CPPF) opened collection of school
 
 **[Le Gabon se dote d’un Guide national de suivi-évaluation des projets de développement](https://www.gabonews.com/fr/actus/infrastructures/article/le-gabon-se-dote-d-un-guide-national-de-suivi)** — Gabonews, 13 November 2026
 
-Presented 11 Nov 2026 with UNDP; runs on SIGIP's SNISE module, tablet field collection via KoboToolbox.
+Gabon's Commissariat général au Plan presented a national monitoring-and-evaluation guide for policies, programmes and projects on 11 November 2026, prepared with UNDP. The guide is to run on SNISE, a module of the SIGIP public-investment management system. Field data would be collected digitally on tablets using KoboToolbox.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Central Africa — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: XCA
 ledger_rows: 14
 not_held: 0
-record: 017f481436d0
+record: 25f151d9ac71
 ---
 
 # News, Oct – Nov 2026
@@ -288,7 +288,7 @@ GIMAC, the Central African interbank card network, and PAPSS Card agreed the pra
 
 **[BEAC - Avis de présélection : Sélection internationale restreinte avec présélection ouverte n°180/BEAC/DGEFRI-DOF/SIRP/Ser/2026 pour l'acquisition et l'implémentation d'un Système de Gestion des Réserves de Changes à la Banque des Etats de l'Afrique Centrale](https://www.beac.int/wp-content/uploads/2016/10/Avis-préselection_n°-180_26_Gestion-Réserves-de-Changes.pdf)** — Banque des Etats de l'Afrique Centrale (BEAC), 12 November 2026
 
-Own-funds RMS purchase; XAF 200m minimum financial capacity; five shortlisted at 80/100; dossiers due 17 Dec 2026.
+The Bank of Central African States (BEAC) issued a pre-selection notice on 12 November 2026 to buy and implement a foreign-exchange reserves management system from its own funds. The notice sets a minimum financial capacity of XAF 200 million and lists five shortlisted candidates scoring 80 out of 100. Dossiers are due on 17 December 2026.
 
 </div>
 
@@ -296,7 +296,7 @@ Own-funds RMS purchase; XAF 200m minimum financial capacity; five shortlisted at
 
 **[Réserves de change : la BEAC veut reprendre la main sur ses outils de gestion](https://www.echosdeleco.com/articles/reserves-de-change-la-beac-veut-reprendre-la-main-sur-ses-outils-de-gestion)** — Échos de l'Éco, 13 November 2026
 
-Pre-selection notice 12 Nov 2026; bids by 17 Dec; reserves FCFA 7,125bn end-August 2026; SWIFT-linked system.
+The Bank of Central African States (BEAC) issued a pre-selection notice on 12 November 2026. It is for an international procurement of a new foreign-exchange reserves management system. It is financed from the bank's own funds. Applications are due by 17 December 2026.
 
 </div>
 

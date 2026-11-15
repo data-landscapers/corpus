@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 94eac6267e0c
+record: d27ece8dfcc3
 ---
 
 # News, Oct – Nov 2026
@@ -223,7 +223,7 @@ MTN Mobile Money Bénin said its interoperable e-money transactions run through 
 
 **[State of the Nation Address to the First Meeting of the Third Session of the Thirteenth Parliament: The Steady Path Continues](https://drive.google.com/file/d/1y84D7XstYzs9eN9oJJRdr_reZhaSLIZI/view)** — Office of the President, Republic of Botswana (President Duma Gideon Boko), 9 November 2026
 
-Boko's 2026 State of the Nation Address, the delivered 53-page text.
+Botswana's President Duma Boko delivered the State of the Nation Address to Parliament on 9 November 2026. He reported that a second payment clearing window had processed P66.92 billion of transactions from February to October 2026. He also announced a fee-free basic bank account for people earning under P4,000 a month.
 
 </div>
 
@@ -447,7 +447,7 @@ Wave announced on 6 November 2026 that its customers in Senegal and Côte d'Ivoi
 
 **[Corridor Djibouti-Ethiopie : paiement mobile et numéro vert pour les usagers](https://www.adi.dj/article/139102)** — Agence Djiboutienne d'Information (ADI), 13 November 2026
 
-DPCR ends cash road-fee payments for Mobile Money; 24/7 multilingual 5151 hotline via La Poste.
+Djibouti Ports Corridor Road (DPCR SA) announced on 13 November 2026 that Mobile Money is the only accepted payment for road-use fees on the Djibouti-Ethiopia corridor. Cash is refused at collection points. It also opened a 24-hour multilingual hotline on 5151. The hotline is run from the call centre of La Poste de Djibouti.
 
 </div>
 
@@ -988,7 +988,7 @@ Redtech, a Nigerian payments company, plans a payments link between Nigeria and 
 
 **[PAPSS bets on local currencies to unlock Kenya’s Africa trade](https://capitalfm.africa/papss-bets-on-local-currencies-to-unlock-kenyas-africa-trade/)** — Capital FM, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-31 countries, 220+ banks, 17 switches; 37 countries targeted by end-2026, 50 in 2027; fees about 0.1%.
+PAPSS chief executive Mike Ogbalu told Capital FM on 12 November 2026 that the system operates in 31 African countries with over 220 commercial banks and 17 payment switches. It targets 37 countries by the end of 2026 and at least 50 in 2027. Infrastructure fees average about 0.1% of value. Kenya's KCB and Equity Bank are connected; transaction volumes and trade impact have not been disclosed.
 
 </div>
 
@@ -1085,6 +1085,20 @@ Madagascar's development intervention fund FID is tendering for mobile-money pro
 </div>
 
 ## Malawi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Pan-African Payment and Settlement System participation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mwanamveka calls for fiscal-monetary co-ordination scross COMESA](https://www.nyasatimes.com/mwanamveka-calls-for-fiscal-monetary-co-ordination-scross-comesa/)** — Nyasa Times, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+At the COMESA central bank governors' symposium in Lilongwe on 12 November 2026, Reserve Bank of Malawi governor George Partridge said PAPSS is operational in Malawi, with participating commercial banks leading. He described a regional monetary union as COMESA's long-term goal. Malawi's finance minister Joseph Mwanamveka urged fiscal and monetary co-ordination and cited the REPSS and DRPP payment initiatives.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1321,7 +1335,7 @@ The operator of Niger's vehicle one-stop shop began accepting Airtel Money for s
 
 **[Digitalisation des services : SONILOGA s’associe à Amana pour élargir les options de paiement numérique au GUAN](https://actuniger.com/societe/digitalisation-des-services-soniloga-sassocie-a-amana-pour-elargir-les-options-de-paiement-numerique-au-guan.html)** — Actu Niger, 13 November 2026
 
-Amana Transfert d'Argent convention signed 12 Nov 2026; GUAN fees payable via AmanaTa app; revenue traceability.
+Niger's SONILOGA signed a convention with Amana Transfert d'Argent on 12 November 2026. Users of the Guichet unique automobile (GUAN) can now pay its fees remotely through the AmanaTa app. SONILOGA says this traces payments and secures state revenue from vehicle import, clearance and registration.
 
 </div>
 
@@ -1351,7 +1365,7 @@ iFUTUR announced that its iMoney services have been connected to the BCEAO insta
 
 **[Nigeria Development Update, October 2026 — Beyond the Federal Purse: How Higher Revenues Shaped State Priorities](https://documents1.worldbank.org/curated/en/099100726183025290/pdf/P513192-9694adf7-8564-447a-8518-63636f20d2c6.pdf)** — World Bank, 1 October 2026
 
-World Bank: N658.9bn in direct cash transfers reached 10.46m households by September 2026.
+The World Bank published its Nigeria Development Update for October 2026, subtitled on how higher revenues shaped state priorities. It states that Nigeria had made N658.9 billion in direct cash transfers by September 2026, reaching 10.46 million households.
 
 </div>
 

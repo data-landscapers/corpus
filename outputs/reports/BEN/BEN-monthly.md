@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: BEN
 ledger_rows: 38
 not_held: 4
-record: 2832f7533d01
+record: b83594e5b84e
 ---
 
 # News, Oct – Nov 2026
@@ -104,7 +104,7 @@ ADEA and the Mastercard Foundation held an action-planning workshop in Cotonou o
 
 **[Transit, transport et digitalisation : le Bénin engage quatre chantiers pour moderniser ses échanges commerciaux - LE MATINAL](https://lematinal.bj/transit-transport-et-digitalisation-le-benin-engage-quatre-chantiers-pour-moderniser-ses-echanges-commerciaux/)** — Le Matinal, 12 November 2026
 
-Four CNFE priorities: WTO TFA follow-up, single transit guarantee, GUCE-customs link, national strategy to cabinet.
+Benin's National Trade Facilitation Committee opened its first ordinary session of 2026 in Cotonou on 11 November 2026. The session focused on transit, transport and their digitalisation. It set four priorities, including follow-up of World Trade Organization Trade Facilitation Agreement commitments and a single customs transit guarantee. They also include a link between the foreign-trade single window and the customs system.
 
 </div>
 
@@ -660,7 +660,7 @@ Benin's higher education minister, Sèdami Medegan Fagla, said Benin plans an AI
 
 **[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
+The World Bank Group announced on 13 November 2026 that its E-GATE e-commerce programme will extend to Benin, The Gambia and Guinea. The 2026 to 2028 pilot is for up to 100 small and medium-sized enterprises. The China-World Bank Partnership Facility supports it. No amount is stated.
 
 </div>
 

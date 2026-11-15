@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: XAF
 ledger_rows: 79
 not_held: 3
-record: aaa8fe799a72
+record: 31688813bb7a
 ---
 
 # News, Oct – Nov 2026
@@ -160,7 +160,7 @@ The African Telecommunications Union says all 49 African Common Proposals for th
 
 **[ITU PP-26 Doha: African Union calls for united African position on digital priorities at ITU Plenipotentiary Conference in Doha](https://www.techreviewafrica.com/news/8276/itu-pp-26-doha-african-union-calls-for-united-african-position-on-digital-priorities-at-itu-plenipotentiary-conference-in-doha)** — TechReviewAfrica, 12 November 2026
 
-AU Commissioner Mataboge at ATU heads-of-delegation session; Gabon Declaration on spectrum, cables, DPI, AI governance.
+African heads of delegation met in Doha during the ITU Plenipotentiary Conference 2026 at a session convened by the African Telecommunications Union. African Union Commissioner Lerato Mataboge called for a united African voice in global digital governance. She cited the Gabon Declaration, which sets priorities on satellite spectrum, undersea cables, digital public infrastructure and artificial intelligence governance.
 
 </div>
 
@@ -276,7 +276,7 @@ African judges held their first judicial dialogue on internet governance at the 
 
 **[African health leaders adopt Nairobi Action Agenda to turn health data into better healthcare](https://afro.who.int/news/african-health-leaders-adopt-nairobi-action-agenda-turn-health-data-better-healthcare)** — WHO Regional Office for Africa, 13 November 2026
 
-Eight priorities; continental accountability framework to 2030 with annual national reviews; next forum 2028.
+Government representatives and health partners at the First Africa Health Data Forum in Nairobi adopted the Nairobi Health Data Action Agenda on 12 November 2026. It sets eight priorities. These are to be tracked under an accountability framework through 2030. The forum is to meet every two years, next in 2028.
 
 </div>
 
@@ -434,7 +434,7 @@ IPinfo published an article by Oliver Gasser and João Tomé on 5 November 2026 
 
 **[中非标准化合作交流会在京举办](https://www.samr.gov.cn/xw/zj/art/2026/art_81047a5d806742edb4d631ad3df03777.html)** — State Administration for Market Regulation (China), 11 November 2026
 
-Beijing, 9 November 2026: China-Africa standards platform launched, blue book released; sharing mechanism, 16 countries.
+China's State Administration for Market Regulation reported on a China-Africa standardisation exchange meeting in Beijing on 9 November 2026. The meeting launched a China-Africa standards information platform and released a cooperation blue book. China has signed standardisation cooperation documents with Egypt, Morocco, Senegal, Zambia and the African Organisation for Standardisation. Its information-sharing mechanism covers 16 countries.
 
 </div>
 
@@ -1046,7 +1046,7 @@ Afreximbank is running roadshows across Africa, including in Abidjan and Harare.
 
 **[PAPSS Payments Network Coverage, November 2026](https://papss.com/wp-content/uploads/2026/11/PAPSS-PAYMENTS-NETWORK-COVERAGE_NOVEMBER2026.pdf)** — Pan-African Payment and Settlement System (PAPSS), 1 November 2026
 
-November 2026 sheet: 37 African countries reachable; 450+ institutions, 200+ participants, 250+ via extended network.
+The Pan-African Payment and Settlement System published its network coverage sheet for November 2026. It lists 37 African countries as reachable, with more than 450 institutions. It also lists over 200 direct and indirect participants. Over 250 are in the extended network for incoming payments.
 
 </div>
 
@@ -1054,7 +1054,7 @@ November 2026 sheet: 37 African countries reachable; 450+ institutions, 200+ par
 
 **[CBN reforms boost adoption of Africa's cross-border payment system, says PAPSS](https://businessday.ng/news/article/cbn-reforms-boost-adoption-of-africas-cross-border-payment-system-says-papss/)** — BusinessDay Nigeria, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-~1,000% volume growth in 2026; 32 countries, 280+ banks; CBN documentation waiver below a threshold; China corridor.
+PAPSS deputy chief executive John Sebabi said on 12 November 2026 that transaction volumes had grown about 1,000% on average during the year. He credited Nigeria's central bank for waiving extra documentation on eligible PAPSS transactions below a threshold and approving fintech participants. PAPSS reports presence in 32 countries and more than 280 banks, with a China corridor planned.
 
 </div>
 
@@ -1062,7 +1062,7 @@ November 2026 sheet: 37 African countries reachable; 450+ institutions, 200+ par
 
 **[PAPSS bets on local currencies to unlock Kenya’s Africa trade](https://capitalfm.africa/papss-bets-on-local-currencies-to-unlock-kenyas-africa-trade/)** — Capital FM, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
-31 countries, 220+ banks, 17 switches; 37 countries targeted by end-2026, 50 in 2027; fees about 0.1%.
+PAPSS chief executive Mike Ogbalu told Capital FM on 12 November 2026 that the system operates in 31 African countries with over 220 commercial banks and 17 payment switches. It targets 37 countries by the end of 2026 and at least 50 in 2027. Infrastructure fees average about 0.1% of value. Kenya's KCB and Equity Bank are connected; transaction volumes and trade impact have not been disclosed.
 
 </div>
 

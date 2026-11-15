@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 4b241ceecf62
+record: 5c7fcb919618
 ---
 
 # News, Oct – Nov 2026
@@ -153,7 +153,7 @@ ADEA and the Mastercard Foundation held an action-planning workshop in Cotonou o
 
 **[Transit, transport et digitalisation : le Bénin engage quatre chantiers pour moderniser ses échanges commerciaux - LE MATINAL](https://lematinal.bj/transit-transport-et-digitalisation-le-benin-engage-quatre-chantiers-pour-moderniser-ses-echanges-commerciaux/)** — Le Matinal, 12 November 2026
 
-Four CNFE priorities: WTO TFA follow-up, single transit guarantee, GUCE-customs link, national strategy to cabinet.
+Benin's National Trade Facilitation Committee opened its first ordinary session of 2026 in Cotonou on 11 November 2026. The session focused on transit, transport and their digitalisation. It set four priorities, including follow-up of World Trade Organization Trade Facilitation Agreement commitments and a single customs transit guarantee. They also include a link between the foreign-trade single window and the customs system.
 
 </div>
 

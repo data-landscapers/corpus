@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: SEN
 ledger_rows: 51
 not_held: 2
-record: e86a51f1fbcd
+record: 129a35fafe21
 ---
 
 # News, Oct – Nov 2026
@@ -208,7 +208,7 @@ Senegal's Special Cybersecurity Division detained Sen TV columnist Mamadou 'Momo
 
 **[Sénégal : le numérique et la Poste au cœur du budget 2027 des Télécommunications](https://fr.apanews.net/technologies/senegal-le-numerique-et-la-poste-au-coeur-du-budget-2027/)** — APAnews, 13 November 2026
 
-FCFA 64.97bn payment credits, down 3.8%; FCFA 37bn from partners; e-Sénégal at 171,656 users (5 Nov 2026).
+Senegal's Ministry of Telecommunications and Digital Affairs presented a 2027 budget of FCFA 64.97 billion in payment credits. It presented it to the National Assembly finance committee on 13 November 2026. It said about FCFA 37 billion comes from partners including the World Bank, KfW and BOAD. It said FCFA 20 billion in commitments goes to digital identity, interconnection of public services and dematerialisation.
 
 </div>
 
@@ -344,7 +344,7 @@ Alibaba said on 2 November 2026 that the Dakar 2026 Youth Olympic Games run on a
 
 **[Le cloud des JOJ deviendra une plateforme nationale après les Jeux (communiqué) - APS](https://aps.sn/le-cloud-des-joj-deviendra-une-plateforme-nationale-apres-les-jeux-communique/)** — Agence de Presse Sénégalaise (APS), 13 November 2026
 
-SENUM to run Alibaba Apsara Stack cloud from its Diamniadio data centre; 200 cloud engineers to be trained.
+Senegal Numerique SA (SENUM) said on 13 November 2026 that the Alibaba Cloud Apsara Stack infrastructure will become a national cloud platform. It was built for the Dakar 2026 Youth Olympic Games; SENUM will run it afterwards. It is hosted in SENUM's Diamniadio data centre and will provide sovereign hosting for administration applications. The partnership includes training 200 cloud engineers, and no storage capacity is stated.
 
 </div>
 
@@ -484,7 +484,7 @@ Senegal's civil-service minister said the physical and biometric audit of state 
 
 **[#PLFR2026 | Clarification sur le renforcement des bourses de sécurité familiale](https://fr.linkedin.com/posts/mefpsenegal_plfr2026-protectionsociale-mefp-activity-7520231911290630144-n2XG)** — Ministère de l'Économie, des Finances et du Plan (Sénégal), LinkedIn, 25 October 2026
 
-Finance ministry: bourses credits rise from 35 to 70 billion FCFA in draft LFR 2026; RNU renovated for targeting.
+Senegal's finance ministry stated on 25 October 2026 that credits for family security grants rise from 35 to 70 billion FCFA. This is in the draft supplementary finance law for 2026. Targeting is to rely on the renovated national single register. The statement followed a claim on 19 October by National Assembly president Ousmane Sonko that the law provided only 22 billion.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Geospatial data — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: data.geospatial
 places: BDI; COM; CIV; DJI; LSO; LBR; NGA; SYC; TGO; ZWE
-record: ec3e4e023f52
+record: 30fe0c3e0d2e
 ---
 
 # News, Oct – Nov 2026

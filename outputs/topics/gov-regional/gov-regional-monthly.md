@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 40b12494a77d
+record: 5bb7a0434ddc
 ---
 
 # News, Oct – Nov 2026
@@ -331,7 +331,7 @@ An unnamed Libyan project official said Libya's fibre link to the Chadian border
 
 **[Doha : le ministre renforce les partenariats numériques avec le Nigeria et la France](https://mten.gouv.td/doha-le-ministre-renforce-les-partenariats-numeriques-avec-le-nigeria-et-la-france/)** — Ministère des Télécommunications, de l’Économie numérique et de la Digitalisation (Tchad), 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-Chad backs Nigeria's ITU Council bid and seeks French support for its own 2030 run; Abuja visit to finalise accords.
+Chad's telecommunications and digital economy minister, Haliki Choua Mahamat, held bilateral meetings with Nigeria and France, reported on 12 November 2026. The meetings were on the margins of the ITU Plenipotentiary Conference in Doha. Chad backed Nigeria's candidacy for the ITU Council, and a visit to Nigeria is expected to finalise cooperation accords. Chad also sought French support for its own bid in 2030.
 
 </div>
 
@@ -339,7 +339,7 @@ Chad backs Nigeria's ITU Council bid and seeks French support for its own 2030 r
 
 **[Coopération numérique : le Tchad et le Nigeria sollicitent la Banque mondiale pour une interconnexion en fibre optique | CamerPressAgency](https://camerpressagency.com/cooperation-numerique-le-tchad-et-le-nigeria-sollicitent-la-banque-mondiale-pour-une-interconnexion-en-fibre-optique/)** — Camer Press Agency, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-Joint letter to World Bank signed 13 Nov 2026 in Doha; links Nigeria's BRIDGE backbone to Chad's CARDIP network.
+The digital ministers of Chad and Nigeria signed a joint letter of expression of interest in Doha on 13 November 2026, asking the World Bank to support an open-access cross-border fibre link. The link would join Nigeria's national backbone to Chad's, extending Nigeria's BRIDGE and Chad's CARDIP projects. Focal points are to scope route and financing with Bank experts.
 
 </div>
 
@@ -891,7 +891,7 @@ Nigeria's communications minister Bosun Tijani, speaking through NCAIR's directo
 
 **[Doha : le ministre renforce les partenariats numériques avec le Nigeria et la France](https://mten.gouv.td/doha-le-ministre-renforce-les-partenariats-numeriques-avec-le-nigeria-et-la-france/)** — Ministère des Télécommunications, de l’Économie numérique et de la Digitalisation (Tchad), 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
-Chad backs Nigeria's ITU Council bid and seeks French support for its own 2030 run; Abuja visit to finalise accords.
+Chad's telecommunications and digital economy minister, Haliki Choua Mahamat, held bilateral meetings with Nigeria and France, reported on 12 November 2026. The meetings were on the margins of the ITU Plenipotentiary Conference in Doha. Chad backed Nigeria's candidacy for the ITU Council, and a visit to Nigeria is expected to finalise cooperation accords. Chad also sought French support for its own bid in 2030.
 
 </div>
 
@@ -899,7 +899,7 @@ Chad backs Nigeria's ITU Council bid and seeks French support for its own 2030 r
 
 **[Coopération numérique : le Tchad et le Nigeria sollicitent la Banque mondiale pour une interconnexion en fibre optique | CamerPressAgency](https://camerpressagency.com/cooperation-numerique-le-tchad-et-le-nigeria-sollicitent-la-banque-mondiale-pour-une-interconnexion-en-fibre-optique/)** — Camer Press Agency, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
-Joint letter to World Bank signed 13 Nov 2026 in Doha; links Nigeria's BRIDGE backbone to Chad's CARDIP network.
+The digital ministers of Chad and Nigeria signed a joint letter of expression of interest in Doha on 13 November 2026, asking the World Bank to support an open-access cross-border fibre link. The link would join Nigeria's national backbone to Chad's, extending Nigeria's BRIDGE and Chad's CARDIP projects. Focal points are to scope route and financing with Bank experts.
 
 </div>
 
@@ -913,7 +913,7 @@ Joint letter to World Bank signed 13 Nov 2026 in Doha; links Nigeria's BRIDGE ba
 
 **[CBN reforms boost adoption of Africa's cross-border payment system, says PAPSS](https://businessday.ng/news/article/cbn-reforms-boost-adoption-of-africas-cross-border-payment-system-says-papss/)** — BusinessDay Nigeria, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-~1,000% volume growth in 2026; 32 countries, 280+ banks; CBN documentation waiver below a threshold; China corridor.
+PAPSS deputy chief executive John Sebabi said on 12 November 2026 that transaction volumes had grown about 1,000% on average during the year. He credited Nigeria's central bank for waiving extra documentation on eligible PAPSS transactions below a threshold and approving fintech participants. PAPSS reports presence in 32 countries and more than 280 banks, with a China corridor planned.
 
 </div>
 

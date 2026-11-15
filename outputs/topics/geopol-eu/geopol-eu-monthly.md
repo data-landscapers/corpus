@@ -1,10 +1,10 @@
 ---
 title: EU activities — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: geopol.eu
 places: CPV; EGY
-record: 241103c3ae15
+record: 3a3b3fc70b91
 ---
 
 # News, Oct – Nov 2026
@@ -49,7 +49,7 @@ The European Commission said on 12 November 2026 that Egypt's electronic signatu
 
 **[Egypt becomes 1st non-European country to achieve technical compatibility with EU electronic signature standards](https://sis.gov.eg/en/media-center/news/egypt-becomes-1st-non-european-country-to-achieve-technical-compatibility-with-eu-electronic-signature-standards/)** — State Information Service (Egypt), 13 November 2026
 
-ITIDA and DG CONNECT sign administrative arrangements; mutual trusted-list references.
+Egypt and the European Union signed an Administrative Arrangements Document on electronic signatures and seals by video conference, reported on 13 November 2026. ITIDA chief executive Ahmed El-Zaher and European Commission Director-General Roberto Viola signed it. It sets mechanisms for mutual technical verification of signatures and seals in cross-border transactions. It follows the Egypt-EU Summit held in Brussels in October 2025.
 
 </div>
 

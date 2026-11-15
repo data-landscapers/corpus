@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: capacity.training
 places: AGO; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZWE
-record: 3b744d9c0919
+record: 9d38df7ba00d
 ---
 
 # News, Oct – Nov 2026
@@ -575,7 +575,7 @@ Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcom
 
 **[FG recruits 50,000 young Nigerians for digital and creative skills training under iDICE](https://techcabal.com/2026/11/13/fg-recruits-50000-young-nigerians-for-digital-and-creative-skills-training-under-idice/)** — TechCabal, 13 November 2026
 
-50,000 recruited in seven North-West states; 10-18 week training from 16 Nov 2026; AfDB, AFD, IsDB, BOI co-finance.
+Nigeria's federal government recruited 50,000 young people in seven North-West states between 1 September and 9 October 2026 for digital and creative skills training under the iDICE initiative. Training of 10 to 18 weeks starts on 16 November 2026.
 
 </div>
 
@@ -723,7 +723,7 @@ South Africa and China are advancing plans for an AI Talent Development and Inno
 
 **[SASSETA invests R15m in Northlink College digitalisation hub](https://www.itweb.co.za/article/sasseta-invests-r15m-in-northlink-college-digitalisation-hub/KWEBb7yL2jZvmRjO)** — ITWeb South Africa, 13 November 2026
 
-R15m TVET hub for cyber security, cloud, AI and data skills; launched with Minister Manamela.
+South Africa's sector training authority SASSETA invested R15 million in a digitalisation hub at Northlink College. The hub offers training in cyber security, cloud computing, AI, data analysis and software development. It was launched with Higher Education Minister Buti Manamela.
 
 </div>
 
@@ -801,7 +801,7 @@ Tunisia's Ministry of Employment and Vocational Training signed a five-year rene
 
 **[DHL, Zimbabwe train digital youth](https://itweb.africa/article/dhl-zimbabwe-train-digital-youth/mYZRXM9gKGAvOgA8)** — ITWeb Africa, 13 November 2026
 
-Three-month programme; Zimpost digital centres; POTRAZ laptops; WFP, BAK Logistics, Teach for Zimbabwe partners.
+Zimbabwe's ICT ministry and DHL's Ubuntu Academy launched a three-month Digital Logistics Youth Training Programme for young people. Training covers logistics, AI and robotics, and is delivered through Zimpost digital centres with laptops from the regulator POTRAZ.
 
 </div>
 

@@ -1,12 +1,12 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 14-11-2026 at 16:07 — Covering sources published on 14 November 2026
+subtitle: Last updated 14-11-2026 at 23:44 — Covering sources published on 14 November 2026
 window_start: 2026-11-14
-window_end: 2026-11-14
-items: 22
-collected_to: 2026-11-14 16:07
-compiled: 2026-11-14 16:35
+window_end: 2026-11-15
+items: 27
+collected_to: 2026-11-14 23:44
+compiled: 2026-11-15 00:09
 ---
 
 # Bulletin
@@ -52,6 +52,7 @@ compiled: 2026-11-14 16:35
 <option value="MOZ">Mozambique</option>
 <option value="NAM">Namibia</option>
 <option value="NGA">Nigeria</option>
+<option value="TUN">Tunisia</option>
 <option value="ZMB">Zambia</option>
 </optgroup>
 </select>
@@ -61,6 +62,14 @@ compiled: 2026-11-14 16:35
 ## Governance
 
 ### Strategies, plans and policies
+
+<div class="bulletin-item" data-places="LBY" markdown="1">
+
+**[الهيئة العامة للمعلومات تستعرض دور التحول الرقمي في تعزيز تنافسية الاقتصاد الليبي](https://lana.gov.ly/post.php?id=370037&lang=ar)** — Libyan News Agency (LANA), 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+
+Libya's General Information Authority took part in the second Libyan Permanent Economic Forum in Tripoli on 11 and 12 November 2026. It spoke on data governance, legislation and digital public infrastructure. It cited an open data platform holding 166 datasets. <span class="bulletin-item__also">*Also under [Open data](#open-data) and [Data Exchange](#data-exchange).*</span>
+
+</div>
 
 <div class="bulletin-item" data-places="NAM" markdown="1">
 
@@ -122,6 +131,14 @@ Madagascar's National Assembly put off the vote on access-to-public-information 
 
 ### Data protection
 
+<div class="bulletin-item" data-places="TUN" markdown="1">
+
+**[بطاقة "لاباس".. متى ينطلق العمل بها؟](https://www.assabahnews.tn/ar/%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/%d9%88%d8%b7%d9%86%d9%8a%d8%a9/1121904-%d8%a8%d8%b7%d8%a7%d9%82%d8%a9-%d9%84%d8%a7%d8%a8%d8%a7%d8%b3-%d9%85%d8%aa%d9%89-%d9%8a%d9%86%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a8%d9%87%d8%a7%d8%9f/)** — Assabah News, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+Tunisia's Minister of Social Affairs, Issam al-Ahmar, told a joint parliamentary session in November 2026 that preparation of the Labes electronic health card will be completed by mid-2027. It is the national health insurance fund's card. It has been distributed since 2019. It has not reached every member or replaced the paper card. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="MAR" markdown="1">
 
 **[Intelligence artificielle: Jusqu’où le Maroc veut-il aller ?](https://fnh.ma/articles/intelligence-artificielle)** — Finances News Hebdo, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
@@ -145,6 +162,14 @@ The Pan-African Payment and Settlement System and the West African Monetary Inst
 **[Nigeria Customs pilots joint digital system to boost West African trade](https://guardian.ng/business-services/nigeria-customs-pilots-joint-digital-system-to-boost-west-african-trade/)** — The Guardian Nigeria, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Nigeria Customs said on 14 November 2026 that it is piloting a joint digital customs system with Benin and Cameroon. A declaration cleared in Nigeria becomes the receiving country's manifest, with AI translation between English and French. The ECOWAS Commission pledged support for a joint border post at Seme-Krake. <span class="bulletin-item__also">*Also under [Data Exchange](#data-exchange).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="MAR XWA" markdown="1">
+
+**[Cybersécurité: Rabat accueille une initiative dédiée aux femmes africaines](https://fr.apanews.net/security/cybersecurite-rabat-accueille-une-initiative-dediee-aux-femmes-africaines/)** — APAnews - Agence de Presse Africaine, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Morocco's information systems security directorate said Rabat will host the ECOWAS Women in Cybersecurity initiative from 16 to 20 November 2026. The programme builds capacity among women cybersecurity professionals from ECOWAS countries. It involves the directorate, Smart Africa and the World Bank. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity) and [Training and skills](#training-and-skills).*</span>
 
 </div>
 
@@ -224,9 +249,25 @@ Summarised under [Domestic budget appropriations and expenditure](#domestic-budg
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="MAR XWA" markdown="1">
+
+**[Cybersécurité: Rabat accueille une initiative dédiée aux femmes africaines](https://fr.apanews.net/security/cybersecurite-rabat-accueille-une-initiative-dediee-aux-femmes-africaines/)** — APAnews - Agence de Presse Africaine, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
 ## DPI
 
 ### Data Exchange
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBY" markdown="1">
+
+**[الهيئة العامة للمعلومات تستعرض دور التحول الرقمي في تعزيز تنافسية الاقتصاد الليبي](https://lana.gov.ly/post.php?id=370037&lang=ar)** — Libyan News Agency (LANA), 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="NGA BEN CMR XWA" markdown="1">
 
@@ -282,6 +323,14 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 ### Registries
 
+<div class="bulletin-item" data-places="TUN" markdown="1">
+
+**[وزير الشؤون الاجتماعية: تعليق بطاقات العلاج المجاني للتثبت من الاستحقاق](https://www.assabahnews.tn/ar/%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/%d9%88%d8%b7%d9%86%d9%8a%d8%a9/1121888-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b4%d8%a4%d9%88%d9%86-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%8a%d9%82-%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7/)** — Assabah News, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+Tunisia's Ministry of Social Affairs has suspended free-treatment cards pending verification of entitlement, the minister told parliament in November 2026. He said cross-checks found 17% of social-grant beneficiaries were degree-holders. He said about 25,000 people held free-treatment cards this year. The initial estimate was about 10,000 a year. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="LBY" markdown="1">
 
 **[إطلاق تجريبي لتسجيل الشركات الأجنبية في ليبيا إلكترونيًا](https://www.alwasat.ly/news/485008)** — Al Wasat, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
@@ -316,6 +365,14 @@ Algeria's customs directorate opened an operations centre in Algiers on 14 Novem
 
 </div>
 
+<div class="bulletin-item" data-places="LBY" markdown="1">
+
+**[إطلاق المرحلة الثانية من المنظومة الرقمية الموحدة للاتحاد العام لغرف التجارة والصناعة والزراعة](https://lana.gov.ly/post.php?id=370039&lang=ar)** — Libyan News Agency (LANA), 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+
+Libya's Deputy Prime Minister, Salem al-Zadma, launched phase two of the General Union of Chambers of Commerce, Industry and Agriculture's unified digital system in Tripoli on 11 November 2026. He did so with the economy and digital-economy ministers. The launch was at the opening of the second Libyan Permanent Economic Forum.
+
+</div>
+
 <div class="bulletin-item" data-places="ZMB" markdown="1">
 
 **[Zambia Police to go digital](https://www.lusakatimes.com/2026/11/14/zambia-police-to-go-digital/)** — Lusaka Times, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
@@ -337,6 +394,14 @@ Madagascar's Ministry of Higher Education and Scientific Research has put its e-
 **[RDC : le Gouvernement lance Mimpa, une assistante virtuelle pour faciliter l’accès à l’information foncière](https://actualite.cd/2026/11/14/rdc-le-gouvernement-lance-mimpa-une-assistante-virtuelle-pour-faciliter-lacces)** — ACTUALITE.CD, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
 
 DR Congo's land-affairs ministry launched MIMPA, an AI virtual assistant on land law and procedures, on 12 November 2026 in Kinshasa. Prime Minister Judith Suminwa chaired the launch. The digital-economy minister said it will connect to the Guichet numérique, RDC-PASS authentication and the national e-certification authority, with no timetable given. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="TUN" markdown="1">
+
+**[بطاقة "لاباس".. متى ينطلق العمل بها؟](https://www.assabahnews.tn/ar/%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/%d9%88%d8%b7%d9%86%d9%8a%d8%a9/1121904-%d8%a8%d8%b7%d8%a7%d9%82%d8%a9-%d9%84%d8%a7%d8%a8%d8%a7%d8%b3-%d9%85%d8%aa%d9%89-%d9%8a%d9%86%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a8%d9%87%d8%a7%d8%9f/)** — Assabah News, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+Summarised under [Data protection](#data-protection).
 
 </div>
 
@@ -462,6 +527,14 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="MAR XWA" markdown="1">
+
+**[Cybersécurité: Rabat accueille une initiative dédiée aux femmes africaines](https://fr.apanews.net/security/cybersecurite-rabat-accueille-une-initiative-dediee-aux-femmes-africaines/)** — APAnews - Agence de Presse Africaine, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="CIV XWA" markdown="1">
 
 **[AI Skills and Compute Africa partners ST DIGITAL to expand access to computing resources in Francophone West Africa](https://techreviewafrica.com/news/8329/ai-skills-and-compute-africa-partners-st-digital-to-expand-access-to-computing-resources-i)** — Tech Review Africa, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
@@ -482,9 +555,25 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="TUN" markdown="1">
+
+**[وزير الشؤون الاجتماعية: تعليق بطاقات العلاج المجاني للتثبت من الاستحقاق](https://www.assabahnews.tn/ar/%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/%d9%88%d8%b7%d9%86%d9%8a%d8%a9/1121888-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b4%d8%a4%d9%88%d9%86-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%8a%d9%82-%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7/)** — Assabah News, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+Summarised under [Registries](#registries).
+
+</div>
+
 ## Data
 
 ### Open data
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBY" markdown="1">
+
+**[الهيئة العامة للمعلومات تستعرض دور التحول الرقمي في تعزيز تنافسية الاقتصاد الليبي](https://lana.gov.ly/post.php?id=370037&lang=ar)** — Libyan News Agency (LANA), 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="NAM" markdown="1">
 

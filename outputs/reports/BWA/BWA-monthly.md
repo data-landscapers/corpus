@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: BWA
 ledger_rows: 19
 not_held: 5
-record: 6db5bbb078a5
+record: 272614ec4739
 ---
 
 # News, Oct – Nov 2026
@@ -208,7 +208,7 @@ Botswana's labour and home affairs minister Pius Mokgware said the backlog of Om
 
 **[State of the Nation Address to the First Meeting of the Third Session of the Thirteenth Parliament: The Steady Path Continues](https://drive.google.com/file/d/1y84D7XstYzs9eN9oJJRdr_reZhaSLIZI/view)** — Office of the President, Republic of Botswana (President Duma Gideon Boko), 9 November 2026
 
-Boko's 2026 State of the Nation Address, the delivered 53-page text.
+Botswana's President Duma Boko delivered the State of the Nation Address to Parliament on 9 November 2026. He reported that a second payment clearing window had processed P66.92 billion of transactions from February to October 2026. He also announced a fee-free basic bank account for people earning under P4,000 a month.
 
 </div>
 

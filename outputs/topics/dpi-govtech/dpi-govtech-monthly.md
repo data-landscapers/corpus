@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 163af449482d
+record: b1d0afb2a04d
 ---
 
 # News, Oct – Nov 2026
@@ -1025,7 +1025,7 @@ Gabon's civil-service pension and family fund (CPPF) opened collection of school
 
 **[Le Gabon se dote d’un Guide national de suivi-évaluation des projets de développement](https://www.gabonews.com/fr/actus/infrastructures/article/le-gabon-se-dote-d-un-guide-national-de-suivi)** — Gabonews, 13 November 2026
 
-Presented 11 Nov 2026 with UNDP; runs on SIGIP's SNISE module, tablet field collection via KoboToolbox.
+Gabon's Commissariat général au Plan presented a national monitoring-and-evaluation guide for policies, programmes and projects on 11 November 2026, prepared with UNDP. The guide is to run on SNISE, a module of the SIGIP public-investment management system. Field data would be collected digitally on tablets using KoboToolbox.
 
 </div>
 
@@ -1141,7 +1141,7 @@ Ghana's Petroleum Commission introduced a Digital Permit Application Platform to
 
 **[Digitising the Till While Leaving the Rulebook in the Dark](https://imaniafrica.org/2026/11/digitising-the-till-while-leaving-the-rulebook-in-the-dark/)** — IMANI Africa, 12 November 2026
 
-IMANI scores 20 agency and assembly portals out of 12; FDA tops at 11.5, PSRS last at 2.0.
+The think tank IMANI Africa published an audit in November 2026 of 20 Ghanaian government and assembly portals. They were scored out of 12.0 on six digital public infrastructure pillars. The Food and Drugs Authority ranked highest at 11.5. The author argues that agencies have digitised fee collection while leaving laws and procedures poorly published.
 
 </div>
 
@@ -1179,7 +1179,7 @@ Guinea's procurement regulator, the control directorate and the World Bank revie
 
 **[Fin des travaux de l’Atelier sur l’efficacité des marchés publics dans la santé et l’éducation](https://planete224.com/2026/11/12/fin-des-travaux-de-latelier-sur-lefficacite-des-marches-publics-dans-la-sante-et-leducation/)** — Planète 224, 12 November 2026
 
-DGCMP wants all procurement on Télémo by 1 Jan 2027; UNICEF-backed health and education studies validated.
+Guinea's procurement control directorate, the DGCMP, set 1 January 2027 as a deadline. From that date all procurement award and control processes are to run through the Télémo e-procurement platform. It announced this at the close of a workshop in Conakry on 10 and 11 November 2026. The workshop validated UNICEF-backed studies of procurement efficiency in health and education.
 
 </div>
 
@@ -1529,6 +1529,20 @@ Libya's Passports, Nationality and Foreigners Affairs Authority received 773 e-v
 **[إطلاق منصة إلكترونية جديدة لتسهيل التجارة الخارجية في ليبيا](https://alwasat.ly/news/484587)** — Alwasat (Bawabat Al-Wasat), 10 November 2026
 
 Libya's Ministry of Economy and Trade launched the National Trade Facilitation Enquiry Point platform after its pilot phase, reported on 10 November 2026. It is run with the Libya Trade Network. It covers 53 import, export and transit procedures, 140 laws and decisions, 32 international agreements, 1,030 standards and 10 customs ports, and takes online enquiries and complaints.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unified Digital System for Chambers of Commerce</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[إطلاق المرحلة الثانية من المنظومة الرقمية الموحدة للاتحاد العام لغرف التجارة والصناعة والزراعة](https://lana.gov.ly/post.php?id=370039&lang=ar)** — Libyan News Agency (LANA), 14 November 2026
+
+Libya's Deputy Prime Minister, Salem al-Zadma, launched phase two of the General Union of Chambers of Commerce, Industry and Agriculture's unified digital system in Tripoli on 11 November 2026. He did so with the economy and digital-economy ministers. The launch was at the opening of the second Libyan Permanent Economic Forum.
 
 </div>
 
@@ -2193,7 +2207,7 @@ Sierra Leone's Ministry of Communication, Technology and Innovation began traini
 
 **[DSTI, Sierra Leone Fire Force Sign MoU to Advance Digital Transformation](https://sierraloaded.sl/local/dsti-fire-force-sigmou-digital-transformation/)** — SierraLoaded, 12 November 2026
 
-MoU signed 15 Sep 2026; personnel, asset, fleet tracking and incident reporting systems to be developed.
+Sierra Leone's Directorate of Science, Technology and Innovation and the Sierra Leone Fire Force signed a memorandum of understanding on 15 September 2026. Initial talks had been held on 24 August 2026. The two bodies are to develop digital tools for personnel management, asset and fleet tracking, incident reporting, inspections and emergency coordination.
 
 </div>
 
@@ -2569,7 +2583,7 @@ Smallholders in Dodoma region told Al Jazeera on 6 November 2026 that they have 
 
 **[PPRA introduces digital tool to detect procurement risks early](https://dailynews.co.tz/ppra-introduces-digital-tool-to-detect-procurement-risks-early/)** — Daily News (Tanzania), 13 November 2026
 
-Standardised quarterly audit reports under Regulation 92 from 1,000+ institutions; testing began 12 Nov 2026.
+Tanzania's Public Procurement Regulatory Authority (PPRA) began user acceptance testing of a NeST module for standardised quarterly procurement audit reports on 12 November 2026. The module implements Regulation 92 and is meant to take reports from more than 1,000 public institutions. Over 50 institutions took part in the two-day test in Dodoma.
 
 </div>
 
@@ -2637,7 +2651,7 @@ Togo's procurement regulator ARCOP is recruiting four consultants to set up a na
 
 **[CRT : les retraités, le contrôle de vie désormais possible en ligne depuis les téléphones | Levisionnaire](https://levisionnaire.tg/crt-les-retraites-le-controle-de-vie-desormais-possible-en-ligne-depuis-les-telephones/)** — Le Visionnaire (Togo), 12 November 2026
 
-BioCQ CRT: ID upload and facial recognition by phone; launch and three-month enrolment from 16 Nov 2026.
+Togo's public-sector pension fund, the Caisse de retraite du Togo, is moving the twice-yearly proof-of-life check for pensioners online. It uses its BioCQ CRT platform, with an ID upload and facial recognition by smartphone. Launch and a three-month enrolment phase are set for 16 November 2026.
 
 </div>
 
@@ -2708,6 +2722,21 @@ Business News reported on 6 November 2026 that Communication Technologies Minist
 **[Tunisie : six projets gouvernementaux basés sur l’IA prévus en 2027 contre deux en 2026](https://www.webmanagercenter.com/2026/11/06/576433/tunisie-six-projets-gouvernementaux-bases-sur-lia-prevus-en-2027-contre-deux-en-2026/)** — Webmanagercenter, 6 November 2026
 
 Tunisia's ICT minister told parliament on 6 November 2026 that his ministry plans six AI-based government projects in 2027, against two in 2026. It aims to move from tier 3 in 2024 to tier 2 of the Global Cybersecurity Index by 2027. He presented a 2027 mission budget of about TND 1.074 billion, 80% from supervised enterprises' own resources. He promised remote ID-card, passport and driving-licence requests before the end of 2026.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Labes electronic health insurance card (CNAM)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[بطاقة "لاباس".. متى ينطلق العمل بها؟](https://www.assabahnews.tn/ar/%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/%d9%88%d8%b7%d9%86%d9%8a%d8%a9/1121904-%d8%a8%d8%b7%d8%a7%d9%82%d8%a9-%d9%84%d8%a7%d8%a8%d8%a7%d8%b3-%d9%85%d8%aa%d9%89-%d9%8a%d9%86%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a8%d9%87%d8%a7%d8%9f/)** — Assabah News, 14 November 2026
+
+Tunisia's Minister of Social Affairs, Issam al-Ahmar, told a joint parliamentary session in November 2026 that preparation of the Labes electronic health card will be completed by mid-2027. It is the national health insurance fund's card. It has been distributed since 2019. It has not reached every member or replaced the paper card.
 
 </div>
 

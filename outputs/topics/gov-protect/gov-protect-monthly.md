@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: gov.protect
 places: DZA; AGO; BEN; BFA; CMR; COG; COD; EGY; SWZ; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 35b2a81f187b
+record: 87acc8f588ce
 ---
 
 # News, Oct – Nov 2026
@@ -75,7 +75,7 @@ record: 35b2a81f187b
 
 **[Protection des données personnelles : L’ANPDP encadre le traitement des informations contenues dans les CV](https://www.lesoirdalgerie.com/actualites/l-anpdp-encadre-le-traitement-des-informations-contenues-dans-les-cv-160122)** — Le Soir d’Algérie, 12 November 2026
 
-Deliberation 05 under Law 18-07: no sensitive data without legal basis; CVs kept one year after recruitment closes.
+Algeria's data protection authority, the ANPDP, announced its deliberation number 05 on 11 November 2026, adopted under Law 18-07. It covers the processing of personal data in CVs. Sensitive data may not be required without a legal basis, and unnecessary data must be deleted or masked. CVs may be kept for one year after recruitment closes.
 
 </div>
 
@@ -236,7 +236,7 @@ The Eswatini Communications Commission has published its 2026 annual report. It 
 
 **[Données personnelles : L'APDPVP sensibilise à Port-Gentil](https://www.union.sonapresse.com/fr/donnees-personnelles-lapdpvp-sensibilise-port-gentil)** — L'Union - Sonapresse, 12 November 2026
 
-Barely 24 of about 300 Port-Gentil firms compliant with data protection law, per regulator's campaign.
+Gabon's data protection authority, the APDPVP, held an awareness day in Port-Gentil on Tuesday 10 November 2026. Only 24 of about 300 businesses in the city are compliant with the data protection law. The authority's president, Joël Dominique Ledaga, reminded controllers of their obligations and citizens of their rights of access, rectification, objection and erasure.
 
 </div>
 
@@ -348,7 +348,7 @@ A former senior manager at a Kenyan bank testified, in a Sh1.5 billion data brea
 
 **[CoA Clears Kenya-US Health Deal for Implementation Pending Appeal](https://capitalfm.africa/coa-clears-kenya-us-health-deal-for-implementation-pending-appeal/)** — Capital FM (Kenya), 13 October 2026
 
-Kenya's Court of Appeal lets the US health framework run pending appeal; privacy and data questions left open.
+Kenya's Court of Appeal set aside High Court conservatory orders of 19 December 2025. This allows the health cooperation framework with the United States to be implemented while the government's appeal proceeds. The court held that the public interest in essential health services outweighed the risks, and the privacy and data-protection challenges remain for the main petition. The report is dated 13 October 2026.
 
 </div>
 
@@ -392,7 +392,7 @@ President Ruto nominated Lydia Sitienei, director of legal services at the Commu
 
 **[Kassait calls for reforms, central data pool as she exits data protection office](https://www.kbc.co.ke/kassait-calls-for-reforms-central-data-pool-as-she-exits-data-protection-office/)** — Kenya Broadcasting Corporation, 13 November 2026
 
-Commissioner leaves 16 Nov 2026; urges central anonymised data pool as DPI, office reforms, Malabo ratification.
+Immaculate Kassait leaves office as Kenya's first Data Commissioner on 16 November 2026 after six years at the Office of the Data Protection Commissioner. She says Kenya should establish a central anonymised data pool to support innovation. She also points to reforms to the office and ratification of the Malabo Convention.
 
 </div>
 
@@ -406,7 +406,7 @@ Commissioner leaves 16 Nov 2026; urges central anonymised data pool as DPI, offi
 
 **[Six years after its creation, Kenya’s data protection watchdog faces a more complex digital economy](https://techtrendske.co.ke/2026/11/13/kenya-data-protection-law-ai-regulation/)** — TechTrendsKE, 13 November 2026
 
-Kassait seeks amendments on AI, sensitive data, penalties; ODPC tallies 13,000 complaints, 459 determinations.
+Outgoing Kenyan Data Commissioner Immaculate Kassait says the Data Protection Act, 2019 needs amendments on artificial intelligence, sensitive personal information and penalties. She also wants stronger powers to investigate organisations outside Kenya and more time to determine complaints. President William Ruto nominated Lydia Sitienei Chelagat to succeed her on 10 November 2026. The ODPC has handled about 13,000 complaints and 459 determinations.
 
 </div>
 
@@ -580,7 +580,7 @@ Nigeria's five-year health memorandum with the United States, signed on 19 Decem
 
 **[Data Protection: NDPC Trains DPCOs, Warns Against Sharp Practices](https://www.thisdaylive.com/2026/11/13/data-protection-ndpc-trains-dpcos-warns-against-sharp-practices/)** — ThisDay, 13 November 2026
 
-367 licensed DPCOs, up from 17; Meta-backed audit training 10-11 Nov 2026; licences revocable for false audit reports.
+Nigeria's Data Protection Commission held its first practical audit training for licensed compliance organisations in Abuja on 10 and 11 November 2026, with Meta. The commission warned that it will revoke the licences of organisations that file false or misleading audit reports. It put the number of licensed organisations at 367.
 
 </div>
 
@@ -635,7 +635,7 @@ Sierra Leone's Data Protection and Right of Access to Information Bill, 2026 was
 
 **[Parliament commits Data Protection Bill to Legislative Committee](https://sierraleoneconcordtimes.com/parliament-commits-data-protection-bill-to-legislative-committee-by-jariatu-s-bangura/)** — Concord Times, 12 November 2026
 
-Second reading approved; MPs contest ministerial board nominations, penalty powers and Clause 47 automated decisions.
+Sierra Leone's Parliament approved the second reading of the Data Protection and Right to Access Information Bill, 2026, according to Concord Times on 12 November 2026. It sent the bill to the Legislative Committee. Opposition leader Abdul Kargbo and other MPs challenged ministerial nomination of board members and ministerial power to set penalties. The Speaker directed a public call for position papers.
 
 </div>
 
@@ -643,7 +643,7 @@ Second reading approved; MPs contest ministerial board nominations, penalty powe
 
 **[Parliament Refers Data Protection Bill for Further Scrutiny](https://a-zsl.com/parliament-refers-data-protection-bill-for-further-scrutiny/)** — A-Z Multimedia Corporation, 13 November 2026
 
-MPs question Clause 3 exemptions and ministerial powers; bill sent to Committee Stage, not yet law.
+Sierra Leone's Parliament referred the Data Protection and Right to Access Information Bill, 2026, to the Committee Stage after a debate. Members raised concerns about privacy, access to public information, regulatory independence and misuse of personal data. The information minister, Chernoh Bah, introduced the bill as a modern legal framework.
 
 </div>
 

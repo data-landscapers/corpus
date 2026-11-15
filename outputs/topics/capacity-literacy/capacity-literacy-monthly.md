@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: capacity.literacy
 places: AGO; CPV; CIV; COD; EGY; GHA; GIN; MLI; MAR; NAM; NGA; RWA; SYC; SSD; SDN; TUN; UGA
-record: c7c66e1aa2cd
+record: 16a7d651e934
 ---
 
 # News, Oct – Nov 2026
@@ -333,7 +333,7 @@ Google announced a US$2.4 million Google.org grant to INJAZ Al-Arab to take its 
 
 **[Financial services must go beyond deposits and withdrawals, says BoU](https://www.monitor.co.ug/uganda/news/national/financial-services-must-go-beyond-deposits-and-withdrawals-says-bou-5668828)** — Daily Monitor (Uganda), 12 November 2026
 
-Finance ministry building National Payment Switch with BoU; financial literacy strategy III launched 30 Oct 2026.
+Bank of Uganda Deputy Governor Augustus Nuwagaba spoke at the Annual Financial Inclusion and Financial Literacy Forum in Kampala on 12 November 2026. He cited an overall inclusion rate of 81% from the FinScope 2023 survey. He named three priorities. They were financial literacy and consumer protection, digital innovation and inclusive infrastructure, and financing for productive growth.
 
 </div>
 

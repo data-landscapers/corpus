@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: NGA
 ledger_rows: 118
 not_held: 8
-record: bdc4de26e6d1
+record: e12cd87d8441
 ---
 
 # News, Oct – Nov 2026
@@ -156,7 +156,7 @@ Nigerian banks and large fintechs face the central bank's 1 January 2027 deadlin
 
 **[Frequently Asked Questions and Answers on the Data Localisation Circular Issued on June 15, 2026](https://www.cbn.gov.ng/Out/2026/CCD/FAQ%20Data%20Localisation%20Updated%2004-11-2026.pdf)** — Central Bank of Nigeria, 11 November 2026
 
-20 answers: no offshore processing, backups or DR; remote support needs CBN approval; 1 Jan 2027 deadline holds.
+The Central Bank of Nigeria published FAQs on 11 November 2026 on its data localisation circular of 15 June 2026. They rule out phased compliance and any grace period after the 1 January 2027 deadline, and bar processing, backups and disaster-recovery sites for payment transaction data outside Nigeria. Remote vendor support requires the bank's approval.
 
 </div>
 
@@ -164,7 +164,7 @@ Nigerian banks and large fintechs face the central bank's 1 January 2027 deadlin
 
 **[CBN Reiterates January Date For Data Localisation Directive](https://newtelegraphng.com/cbn-reiterates-january-date-for-data-localisation-directive/)** — New Telegraph, 12 November 2026
 
-Reports CBN FAQ released 11 Nov 2026: no phased compliance, no grace period; dataset scope quoted.
+New Telegraph reported that the Central Bank of Nigeria's FAQ document of 11 November 2026 confirms the 1 January 2027 date for its data localisation directive. The bank said phased, risk-based compliance is not permitted and that the circular provides no automatic grace period. It also set out the datasets in scope, including production databases, backups and disaster-recovery environments.
 
 </div>
 
@@ -356,7 +356,7 @@ Nigeria's five-year health memorandum with the United States, signed on 19 Decem
 
 **[Data Protection: NDPC Trains DPCOs, Warns Against Sharp Practices](https://www.thisdaylive.com/2026/11/13/data-protection-ndpc-trains-dpcos-warns-against-sharp-practices/)** — ThisDay, 13 November 2026
 
-367 licensed DPCOs, up from 17; Meta-backed audit training 10-11 Nov 2026; licences revocable for false audit reports.
+Nigeria's Data Protection Commission held its first practical audit training for licensed compliance organisations in Abuja on 10 and 11 November 2026, with Meta. The commission warned that it will revoke the licences of organisations that file false or misleading audit reports. It put the number of licensed organisations at 367.
 
 </div>
 
@@ -416,7 +416,7 @@ Nigeria's communications minister Bosun Tijani, speaking through NCAIR's directo
 
 **[Doha : le ministre renforce les partenariats numériques avec le Nigeria et la France](https://mten.gouv.td/doha-le-ministre-renforce-les-partenariats-numeriques-avec-le-nigeria-et-la-france/)** — Ministère des Télécommunications, de l’Économie numérique et de la Digitalisation (Tchad), 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
-Chad backs Nigeria's ITU Council bid and seeks French support for its own 2030 run; Abuja visit to finalise accords.
+Chad's telecommunications and digital economy minister, Haliki Choua Mahamat, held bilateral meetings with Nigeria and France, reported on 12 November 2026. The meetings were on the margins of the ITU Plenipotentiary Conference in Doha. Chad backed Nigeria's candidacy for the ITU Council, and a visit to Nigeria is expected to finalise cooperation accords. Chad also sought French support for its own bid in 2030.
 
 </div>
 
@@ -424,7 +424,7 @@ Chad backs Nigeria's ITU Council bid and seeks French support for its own 2030 r
 
 **[Coopération numérique : le Tchad et le Nigeria sollicitent la Banque mondiale pour une interconnexion en fibre optique | CamerPressAgency](https://camerpressagency.com/cooperation-numerique-le-tchad-et-le-nigeria-sollicitent-la-banque-mondiale-pour-une-interconnexion-en-fibre-optique/)** — Camer Press Agency, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
-Joint letter to World Bank signed 13 Nov 2026 in Doha; links Nigeria's BRIDGE backbone to Chad's CARDIP network.
+The digital ministers of Chad and Nigeria signed a joint letter of expression of interest in Doha on 13 November 2026, asking the World Bank to support an open-access cross-border fibre link. The link would join Nigeria's national backbone to Chad's, extending Nigeria's BRIDGE and Chad's CARDIP projects. Focal points are to scope route and financing with Bank experts.
 
 </div>
 
@@ -438,7 +438,7 @@ Joint letter to World Bank signed 13 Nov 2026 in Doha; links Nigeria's BRIDGE ba
 
 **[CBN reforms boost adoption of Africa's cross-border payment system, says PAPSS](https://businessday.ng/news/article/cbn-reforms-boost-adoption-of-africas-cross-border-payment-system-says-papss/)** — BusinessDay Nigeria, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-~1,000% volume growth in 2026; 32 countries, 280+ banks; CBN documentation waiver below a threshold; China corridor.
+PAPSS deputy chief executive John Sebabi said on 12 November 2026 that transaction volumes had grown about 1,000% on average during the year. He credited Nigeria's central bank for waiving extra documentation on eligible PAPSS transactions below a threshold and approving fintech participants. PAPSS reports presence in 32 countries and more than 280 banks, with a China corridor planned.
 
 </div>
 
@@ -816,7 +816,7 @@ Nigeria's active mobile subscriptions reached 200.3 million in September 2026, N
 
 **[NCC considers 15-year spectrum licences to boost broadband investment](https://techcabal.com/2026/11/13/ncc-considers-15-year-spectrum-licences/)** — TechCabal, 13 November 2026
 
-Longer tenure for verified extra investment; data use 1.73m TB a month Sept 2026; 5G coverage ~13% April 2026.
+The Nigerian Communications Commission said on 12 November 2026 that it is developing a framework. The framework could extend spectrum licences from 10 to 15 years in return for additional, verified broadband investment. A consultation paper is to follow. No eligibility rules, incentive level or start date have been set.
 
 </div>
 
@@ -1104,7 +1104,7 @@ NIMC's Identity Crime Enforcement Unit arrested suspected illegal NIN enrolment 
 
 **[Nigeria Development Update, October 2026 — Beyond the Federal Purse: How Higher Revenues Shaped State Priorities](https://documents1.worldbank.org/curated/en/099100726183025290/pdf/P513192-9694adf7-8564-447a-8518-63636f20d2c6.pdf)** — World Bank, 1 October 2026
 
-World Bank: N658.9bn in direct cash transfers reached 10.46m households by September 2026.
+The World Bank published its Nigeria Development Update for October 2026, subtitled on how higher revenues shaped state priorities. It states that Nigeria had made N658.9 billion in direct cash transfers by September 2026, reaching 10.46 million households.
 
 </div>
 
@@ -1624,7 +1624,7 @@ The Yobe State Internal Revenue Service has banned cash payment of any tax, levy
 
 **[Anambra Unveils Digital Handbook, AI Assistant for Residents](https://von.gov.ng/anambra-unveils-digital-handbook-ai-assistant-for-residents/)** — Voice of Nigeria, 13 November 2026
 
-35 platforms, 29 MDA sites, 14 service areas; NORA built on open source at no cost; 7-day complaint target.
+The Anambra State ICT Agency in Nigeria launched a Digital Anambra Handbook 2026 and an AI assistant called NORA in Awka. The handbook links residents to 35 platforms, 29 ministry and agency websites and 14 service areas. NORA was built in-house at no cost to the state.
 
 </div>
 
@@ -1638,7 +1638,7 @@ The Yobe State Internal Revenue Service has banned cash payment of any tax, levy
 
 **[ICPC Recovers ₦5.3bn, Targets 774 Councils With Digital Transparency Drive](https://von.gov.ng/icpc-recovers-%E2%82%A65-3bn-targets-774-councils-with-digital-transparency-drive/)** — Voice of Nigeria, 13 November 2026
 
-Councils to publish budgets, allocations, IGR and audits online; NITDA to host all 774 LGA sites; ₦5.3bn recovered.
+Nigeria's anti-corruption commission ICPC and the IT agency NITDA launched a pilot in Nasarawa State. It requires councils to publish budgets, allocations, revenue, spending, audits, debts and procurement online. NITDA is to register domains and host sites for all 774 local government areas. ICPC said it had recovered over N5.3 billion from council accounts in seven states and the capital territory.
 
 </div>
 
@@ -1946,7 +1946,7 @@ Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcom
 
 **[FG recruits 50,000 young Nigerians for digital and creative skills training under iDICE](https://techcabal.com/2026/11/13/fg-recruits-50000-young-nigerians-for-digital-and-creative-skills-training-under-idice/)** — TechCabal, 13 November 2026
 
-50,000 recruited in seven North-West states; 10-18 week training from 16 Nov 2026; AfDB, AFD, IsDB, BOI co-finance.
+Nigeria's federal government recruited 50,000 young people in seven North-West states between 1 September and 9 October 2026 for digital and creative skills training under the iDICE initiative. Training of 10 to 18 weeks starts on 16 November 2026.
 
 </div>
 

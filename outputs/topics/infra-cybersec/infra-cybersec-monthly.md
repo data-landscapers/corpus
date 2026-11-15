@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: infra.cybersec
 places: BEN; BWA; BFA; CMR; CPV; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
-record: 4a2e59e1081c
+record: a20b22bc5d81
 ---
 
 # News, Oct – Nov 2026
@@ -187,7 +187,7 @@ Cameroon's ICT agency ANTIC said it has audited 108 fintech companies and found 
 
 **[Falhas nos serviços da Microsoft afectaram plataformas de comunicação e gestão documental do Estado](https://www.inforpress.cv/pt/article-12413)** — Inforpress, 13 November 2026
 
-State identity system, e-mail and Office 365 down from 12 Nov 17:00; restored 13 Nov; contingency plan in drafting.
+A Microsoft service failure from 17:00 on 12 November 2026 disrupted Cabo Verde state platforms, the director-general of telecommunications and digital economy said. They were the centralised state identity system, institutional e-mail, Teams and Office 365 document platforms. Services on the state private network were restored from midday on 13 November. No information loss had been identified by then, and a contingency plan is being prepared.
 
 </div>
 
@@ -279,7 +279,7 @@ The alert page lists 511 vulnerability alerts with severity ratings, from 2 Janu
 
 **[70 % d’internautes, 350 km de fibre, 95 % de couverture mobile : Djibouti met ses chiffres sur la table à l'UIT](https://www.adi.dj/article/139096)** — Agence Djiboutienne d'Information (ADI), 12 November 2026
 
-Minister at PP-26: about 70% online, 95% mobile coverage, 350 km EARDIP fibre heading north.
+Djibouti's communications and telecoms minister, Mohamed Abdoulkader Moussa, spoke at the ITU Plenipotentiary Conference in Doha on 11 November 2026. He said nearly 70% of the population is online and mobile coverage is close to 95%. He said about 350 kilometres of fibre are being deployed northwards under the EARDIP project. He called for developing countries to take part in digital governance decisions.
 
 </div>
 

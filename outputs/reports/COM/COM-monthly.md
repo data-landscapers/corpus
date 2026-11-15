@@ -1,11 +1,11 @@
 ---
 title: Comoros — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: COM
 ledger_rows: 12
 not_held: 22
-record: 8a3c13baaca5
+record: ebe8b15ec62c
 ---
 
 # News, Oct – Nov 2026
@@ -174,7 +174,7 @@ On 9 November 2026 the Comorian health and social protection minister met a Worl
 
 **[DOUANES – SYNACO : vers un partenariat renforcé au service du commerce comorien](http://douane.gov.km/douane-comorienne/actualites/article.php?slug=douanes-synaco-vers-un-partenariat-renforce-au-service-du-commerce-comorien)** — Direction Générale des Douanes, Union des Comores, 13 November 2026
 
-Five customs pledges to traders: SYDONIA e-manifest, home clearance, risk-based targeting, monthly consultation.
+On 13 November 2026 the Comoros customs director general, Djaanfar Salim Allaoui, received the newly elected board of the national traders' union SYNACO. He set out five commitments. They are wider use of the SYDONIA electronic manifest, home clearance for approved operators, risk-based targeting of controls, stronger post-clearance audit and a permanent consultation framework. Customs and SYNACO are to meet on the first Thursday of each month.
 
 </div>
 

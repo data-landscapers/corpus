@@ -1,10 +1,10 @@
 ---
 title: Open data — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: data.open
 places: BFA; CPV; TCD; CIV; GMB; GNB; KEN; LBY; MDG; MUS; SEN; SLE; SOM; ZAF; TGO; TUN; UGA; ZWE
-record: aa68e5e50573
+record: 7974606a6304
 ---
 
 # News, Oct – Nov 2026
@@ -187,6 +187,14 @@ The terms of Libya's open data platform, run by the General Information Authorit
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[الهيئة العامة للمعلومات تستعرض دور التحول الرقمي في تعزيز تنافسية الاقتصاد الليبي](https://lana.gov.ly/post.php?id=370037&lang=ar)** — Libyan News Agency (LANA), 14 November 2026
+
+Libya's General Information Authority took part in the second Libyan Permanent Economic Forum in Tripoli on 11 and 12 November 2026. It spoke on data governance, legislation and digital public infrastructure. It cited an open data platform holding 166 datasets.
+
+</div>
+
 </div>
 
 ## Madagascar
@@ -275,7 +283,7 @@ Sierra Leone has set up a national committee for UNESCO's Information for All Pr
 
 **[RAIC Partners with Institute for Development to Improve Public Access to Information in Sierra Leone](https://salonemessengers.com/raic-ifd-public-access-information-sierra-leone/)** — Salone Messenger, 13 November 2026
 
-MoU on proactive disclosure; Sabi Salone AI platform for laws, policies, surveys; signing date not stated.
+Sierra Leone's Right to Access Information Commission signed a memorandum of understanding with the Institute for Development, which runs the Sabi Salone platform. The partnership aims to widen public access to laws, policies, development strategies and research reports.
 
 </div>
 

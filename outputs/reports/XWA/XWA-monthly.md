@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-15
 place: XWA
 ledger_rows: 31
 not_held: 1
-record: 88b2e8cfd70b
+record: bdeff7a2a162
 ---
 
 # News, Oct – Nov 2026
@@ -444,7 +444,7 @@ The BCEAO opened applications for the first cohort of its Financial Innovation L
 
 **[Liste actualisée des API Business PI-SPI homologuées par la BCEAO au 9 novembre 2026](https://www.bceao.int/fr/communique-presse/liste-actualisee-des-api-business-pi-spi-homologuees-par-la-bceao-au-9-11-2026)** — BCEAO, 9 November 2026
 
-Update of 9 Nov 2026: 34 participants cleared to offer integrated payment services over PI-SPI.
+The Central Bank of West African States announced an update on 9 November 2026. The update covers its list of homologated Business APIs for the PI-SPI instant payment platform. The list names 34 participants, including 11 each in Côte d'Ivoire and Senegal.
 
 </div>
 
@@ -452,7 +452,7 @@ Update of 9 Nov 2026: 34 participants cleared to offer integrated payment servic
 
 **[Liste des API Business PI-SPI homologuées par la BCEAO (novembre 2026)](https://www.bceao.int/sites/default/files/2026-11/liste_des_api-business_pi-spi_homologuees_Nov_2026-11-09.pdf)** — BCEAO, 9 November 2026
 
-34 homologated Business APIs by country, Côte d'Ivoire and Senegal 11 each; banks, e-money issuers, fintechs.
+The Central Bank of West African States listed 34 participants with homologated Business APIs on the PI-SPI platform. The list was updated on 9 November 2026. Côte d'Ivoire and Senegal have 11 each. Burkina Faso, Mali and Niger have three each, and Benin, Guinea-Bissau and Togo have one each.
 
 </div>
 
@@ -482,7 +482,7 @@ The Pan-African Payment and Settlement System and the West African Monetary Inst
 
 **[ECOWAS Court to review judicial procedures amid new legal, digital reforms](https://guardian.ng/news/ecowas-court-to-review-judicial-procedures-amid-new-legal-digital-reforms/)** — The Guardian Nigeria, 13 November 2026
 
-Retreat 16-20 Nov 2026 to set ECMS, virtual-sitting and case-management rules; backlog figures undisclosed.
+The ECOWAS Community Court of Justice is to hold its 2026 Judicial Retreat from 16 to 20 November at Zuma Rock Resort, Niger State. It is to consider a standard judgment template, case management guidelines and the use of virtual hearings, as it prepares to deploy an Electronic Case Management System. The court has not disclosed its case backlog.
 
 </div>
 
@@ -512,7 +512,7 @@ The ECOWAS Commission launched an automated platform in Abuja to plan, coordinat
 
 **[ECOWAS convenes technical review of the ECOVISA portal for seamless regional travel](https://www.ecowas.int/ecowas-convenes-technical-review-of-the-ecovisa-portal-for-seamless-regional-travel/)** — ECOWAS, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
-Dakar, 10-12 Nov 2026; prototype built with TradeMark Africa; user acceptance testing and pilot next.
+ECOWAS member-state immigration, visa and IT officials reviewed the prototype ECOVISA Portal at a technical meeting in Dakar from 10 to 12 November 2026. The portal is the planned single regional visa platform. The meeting produced priority actions ahead of user acceptance testing and piloting.
 
 </div>
 
@@ -578,7 +578,7 @@ ECOWAS statisticians are meeting in Lomé from 3 to 6 November 2026. They are re
 
 **[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a>
 
-Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
+The World Bank Group announced on 13 November 2026 that its E-GATE e-commerce programme will extend to Benin, The Gambia and Guinea. The 2026 to 2028 pilot is for up to 100 small and medium-sized enterprises. The China-World Bank Partnership Facility supports it. No amount is stated.
 
 </div>
 
@@ -616,7 +616,7 @@ ECOWAS, AUDA-NEPAD and the Spanish development agency AECID held the second COYW
 
 **[Cybersécurité: Rabat accueille une initiative dédiée aux femmes africaines](https://fr.apanews.net/security/cybersecurite-rabat-accueille-une-initiative-dediee-aux-femmes-africaines/)** — APAnews - Agence de Presse Africaine, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
 
-Rabat, 16-20 Nov 2026; DGSSI, Smart Africa and World Bank; ECOWAS women's cyber network to launch at close.
+Morocco's information systems security directorate said Rabat will host the ECOWAS Women in Cybersecurity initiative from 16 to 20 November 2026. The programme builds capacity among women cybersecurity professionals from ECOWAS countries. It involves the directorate, Smart Africa and the World Bank.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: TGO
 ledger_rows: 33
 not_held: 15
-record: c87d8292f941
+record: f8cbc2839c39
 ---
 
 # News, Oct – Nov 2026
@@ -306,7 +306,7 @@ Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou 
 
 **[Togo : le gouvernement prépare une refonte de son système de gestion budgétaire et comptable](https://www.togofirst.com/fr/finance/1311-20643-togo-le-gouvernement-prepare-une-refonte-de-son-systeme-de-gestion-budgetaire-et-comptable)** — Togo First, 13 November 2026
 
-Diagnostic of budget and accounting information system under IDA-backed PMADS; bids due 3 Dec 2026.
+Togo's Ministry of Finance issued a call for expressions of interest, reported on 13 November 2026. It seeks a firm to diagnose the state's budget and accounting information system. The firm is to propose a modernisation strategy and roadmap. It is also to propose a prioritised and costed action plan.
 
 </div>
 
@@ -400,7 +400,7 @@ Togo's procurement regulator ARCOP is recruiting four consultants to set up a na
 
 **[CRT : les retraités, le contrôle de vie désormais possible en ligne depuis les téléphones | Levisionnaire](https://levisionnaire.tg/crt-les-retraites-le-controle-de-vie-desormais-possible-en-ligne-depuis-les-telephones/)** — Le Visionnaire (Togo), 12 November 2026
 
-BioCQ CRT: ID upload and facial recognition by phone; launch and three-month enrolment from 16 Nov 2026.
+Togo's public-sector pension fund, the Caisse de retraite du Togo, is moving the twice-yearly proof-of-life check for pensioners online. It uses its BioCQ CRT platform, with an ID upload and facial recognition by smartphone. Launch and a three-month enrolment phase are set for 16 November 2026.
 
 </div>
 

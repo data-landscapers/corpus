@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: finance.budget
 places: CIV; GAB; LBR; LBY; SEN; SYC; TUN
-record: a880f61d5ab7
+record: 2c4d6c8fb5c4
 ---
 
 # News, Oct – Nov 2026
@@ -99,7 +99,7 @@ The Central Bank of Libya's statement of state revenue and spending for January 
 
 **[Sénégal : le numérique et la Poste au cœur du budget 2027 des Télécommunications](https://fr.apanews.net/technologies/senegal-le-numerique-et-la-poste-au-coeur-du-budget-2027/)** — APAnews, 13 November 2026
 
-FCFA 64.97bn payment credits, down 3.8%; FCFA 37bn from partners; e-Sénégal at 171,656 users (5 Nov 2026).
+Senegal's Ministry of Telecommunications and Digital Affairs presented a 2027 budget of FCFA 64.97 billion in payment credits. It presented it to the National Assembly finance committee on 13 November 2026. It said about FCFA 37 billion comes from partners including the World Bank, KfW and BOAD. It said FCFA 20 billion in commitments goes to digital identity, interconnection of public services and dematerialisation.
 
 </div>
 
@@ -123,7 +123,7 @@ Seychelles plans to begin implementing a digital human resource management syste
 
 **[Seychelles — 2027 Budget — Estimates of Revenue and Expenditure for the Fiscal Year Ending 31st December 2027 — Part 1](https://www.finance.gov.sc/wp-content/uploads/2026/11/2027-BUDGET-BOOK-PART-1-ESTIMATES-OF-REVENUE-AND-EXPENDITURE-FOR-THE-FISCAL-YEAR-ENDING-31ST-DECEMBER-2027-1.pdf)** — Ministry of Finance, Economic Planning, Trade and Investment, Republic of Seychelles, 13 November 2026
 
-2027 estimates with 2028-29 forecasts: Appropriation Bill for SCR 12.86bn, programme budgets incl. DICT, PSIP.
+Seychelles' Ministry of Finance published Part 1 of its 2027 budget book. It contains the estimates of revenue and expenditure for the year ending 31 December 2027. It covers the Appropriation Bill, 2027, which authorises SCR 12,855,170,854 from the Consolidated Fund. It carries forecasts for 2028 to 2029.
 
 </div>
 

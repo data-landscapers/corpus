@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: dpi.exchange
 places: DZA; AGO; BEN; BFA; BDI; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MRT; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5b10c05b030d
+record: 03787980c8d3
 ---
 
 # News, Oct – Nov 2026
@@ -541,7 +541,7 @@ Sierra Leone's Financial Intelligence Agency and GIABA opened a three-day consul
 
 **[MoPED Seeks Stronger Coordination to Improve Sierra Leone’s National Data Systems](https://sierraloaded.sl/news/moped-stronger-coordination-national-data/)** — SierraLoaded, 13 November 2026
 
-30% of national data systems exchange data; under 1% of budget to statistics; 2026-2030 framework seeks US$18.2m.
+Sierra Leone's Ministry of Planning and Economic Development convened the first Steering Committee of the Power of Data Initiative on 13 November 2026. A national review found about 30% of national data systems exchange information. It also found under 1% of the national budget goes to data and statistics. A proposed 2026-2030 framework carries an indicative budget of US$18.2 million and a 60% interoperability target.
 
 </div>
 
@@ -549,7 +549,7 @@ Sierra Leone's Financial Intelligence Agency and GIABA opened a three-day consul
 
 **[Sierra Leone Seeks $18.2m to Improve National Data Systems](https://salonemessengers.com/sierra-leone-18-2m-national-data-systems/)** — Salone Messenger, 13 November 2026
 
-Only 30% of platforms share data; under 1% of budget to statistics; 2026-2030 framework targets 60%.
+Sierra Leone's planning ministry presented a review at the first Steering Committee meeting of the Power of Data Initiative in Freetown on 13 November 2026. The review found that only 30% of existing data platforms share information effectively. It also found less than 1% of the national budget goes to data and statistics. The government proposed an investment of $18.2 million in national data systems.
 
 </div>
 
@@ -713,7 +713,7 @@ COMESA's Yellow Card cross-border motor insurance scheme is piloting online sale
 
 **[HIE Architecture, Core Platform Configuration, Mediators & Secure Channels](https://www.ungm.org/Public/Notice/322513)** — UNDP Zimbabwe (via UN Global Marketplace), 13 November 2026
 
-UNDP-ZWE-02187; published 13 Nov 2026, closes 18 Nov; architecture, mediators and secure channels for HIE.
+UNDP's Zimbabwe office published a request for proposals, reference UNDP-ZWE-02187, on 13 November 2026 for technical assistance in designing the architecture and core platform of a national health information exchange. Bids close on 18 November 2026.
 
 </div>
 
@@ -721,7 +721,7 @@ UNDP-ZWE-02187; published 13 Nov 2026, closes 18 Nov; architecture, mediators an
 
 **[Shared Health Record and National Registry Interconnections with HIE](https://www.ungm.org/Public/Notice/322512)** — UNDP Zimbabwe (via UN Global Marketplace), 13 November 2026
 
-UNDP-ZWE-02188; FHIR profiles and secure APIs to link shared health record and national registries; closes 18 Nov.
+UNDP's Zimbabwe office published a request for proposals, reference UNDP-ZWE-02188, on 13 November 2026. It seeks technical assistance in connecting the national shared health record and core national registries to the health information exchange layer. The connection is to use agreed FHIR profiles. Bids close on 18 November 2026.
 
 </div>
 

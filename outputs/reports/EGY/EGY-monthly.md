@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: EGY
 ledger_rows: 66
 not_held: 35
-record: 04d47d92aac4
+record: e513aa0b3292
 ---
 
 # News, Oct – Nov 2026
@@ -1062,7 +1062,7 @@ MNT-Halan listed its Egyptian business on the Cairo Stock Exchange in Egypt's la
 
 **[Telecom Egypt Revenue Rises 19% to EGP 93.6 Billion in 9M 2026](https://techafricanews.com/2026/11/13/telecom-egypt-revenue-rises-19-percent-egp-93-6-billion-9m-2026/)** — Tech Africa News, 13 November 2026
 
-Net profit up 44% to EGP 24.4bn; data revenue up 30%; cash capex EGP 26.3bn, 28% of revenue.
+Telecom Egypt's revenue for the first nine months of 2026 rose 19% year on year to EGP 93.6 billion, and net profit rose 44% to EGP 24.4 billion. Data revenue grew 30% and international incoming calls 25%, and cash capex was EGP 26.3 billion. The chief executive credited NTRA-approved tariff adjustments for part of the data growth.
 
 </div>
 
@@ -1170,7 +1170,7 @@ The European Commission said on 12 November 2026 that Egypt's electronic signatu
 
 **[Egypt becomes 1st non-European country to achieve technical compatibility with EU electronic signature standards](https://sis.gov.eg/en/media-center/news/egypt-becomes-1st-non-european-country-to-achieve-technical-compatibility-with-eu-electronic-signature-standards/)** — State Information Service (Egypt), 13 November 2026
 
-ITIDA and DG CONNECT sign administrative arrangements; mutual trusted-list references.
+Egypt and the European Union signed an Administrative Arrangements Document on electronic signatures and seals by video conference, reported on 13 November 2026. ITIDA chief executive Ahmed El-Zaher and European Commission Director-General Roberto Viola signed it. It sets mechanisms for mutual technical verification of signatures and seals in cross-border transactions. It follows the Egypt-EU Summit held in Brussels in October 2025.
 
 </div>
 

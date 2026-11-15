@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3b7eb0f007de
+record: c20c7506884f
 ---
 
 # News, Oct – Nov 2026
@@ -671,7 +671,7 @@ Liberia's National Elections Commission chair, Jonathan Weedor, said on 21 Octob
 
 **[Ministry of Economy & Trade launches e-system for inquiring about commercial agencies and legislation governing them](https://libyaherald.com/2026/11/ministry-of-economy-trade-launches-e-system-for-inquiring-about-commercial-agencies-and-legislation-governing-them)** — Libya Herald, 12 November 2026
 
-Search by brand, principal or registration number; governing laws downloadable; phase two to digitise applications.
+Libya's Ministry of Economy and Trade launched an online platform on 12 November 2026. It is for searching registered commercial agencies and downloading the laws and regulations governing them. The ministry's Commercial Agencies and Brokerage Department runs it as a first phase. A second phase is to move the full application and transaction process online.
 
 </div>
 
@@ -679,7 +679,7 @@ Search by brand, principal or registration number; governing laws downloadable; 
 
 **[وزارة الاقتصاد تطلق منظومة إلكترونية للاستعلام عن الوكالات التجارية والتشريعات المنظمة لها](https://lana.gov.ly/post.php?id=369904&lang=ar)** — Libyan News Agency (LANA), 12 November 2026
 
-First phase: search by trademark, principal or registration number, download rules; online applications in phase two.
+Libya's Ministry of Economy and Trade launched an online system on 12 November 2026. It allows searches of registered commercial agencies by trademark, principal company or registration number, and downloads of the governing laws and decisions. The Economic Information and Documentation Centre built it. Online applications and transactions are promised in a second phase.
 
 </div>
 
@@ -1037,7 +1037,7 @@ Senegal's civil-service minister said the physical and biometric audit of state 
 
 **[#PLFR2026 | Clarification sur le renforcement des bourses de sécurité familiale](https://fr.linkedin.com/posts/mefpsenegal_plfr2026-protectionsociale-mefp-activity-7520231911290630144-n2XG)** — Ministère de l'Économie, des Finances et du Plan (Sénégal), LinkedIn, 25 October 2026
 
-Finance ministry: bourses credits rise from 35 to 70 billion FCFA in draft LFR 2026; RNU renovated for targeting.
+Senegal's finance ministry stated on 25 October 2026 that credits for family security grants rise from 35 to 70 billion FCFA. This is in the draft supplementary finance law for 2026. Targeting is to rely on the renovated national single register. The statement followed a claim on 19 October by National Assembly president Ousmane Sonko that the law provided only 22 billion.
 
 </div>
 

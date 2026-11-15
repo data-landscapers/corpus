@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-15
 place: MWI
 ledger_rows: 31
 not_held: 28
-record: b2cb7b562646
+record: e18ffb503db4
 ---
 
 # News, Oct – Nov 2026
@@ -312,7 +312,7 @@ Some Malawian banks are refusing the Nzika digital ID wallet, Zodiak Online repo
 
 **[Mwanamveka calls for fiscal-monetary co-ordination scross COMESA](https://www.nyasatimes.com/mwanamveka-calls-for-fiscal-monetary-co-ordination-scross-comesa/)** — Nyasa Times, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-RBM governor: PAPSS live in Malawi via commercial banks first; monetary union called COMESA's long-term goal.
+At the COMESA central bank governors' symposium in Lilongwe on 12 November 2026, Reserve Bank of Malawi governor George Partridge said PAPSS is operational in Malawi, with participating commercial banks leading. He described a regional monetary union as COMESA's long-term goal. Malawi's finance minister Joseph Mwanamveka urged fiscal and monetary co-ordination and cited the REPSS and DRPP payment initiatives.
 
 </div>
 

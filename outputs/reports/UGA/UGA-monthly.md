@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: UGA
 ledger_rows: 52
 not_held: 11
-record: 93c526406dd9
+record: 3eefa35c0ccd
 ---
 
 # News, Oct – Nov 2026
@@ -780,7 +780,7 @@ The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe Intern
 
 **[Will Uganda’s youth power the AI economy, or be left behind by it?](https://www.independent.co.ug/will-ugandas-youth-power-the-ai-economy-or-be-left-behind-by-it/)** — The Independent (Uganda), 13 November 2026
 
-Uganda 23rd of 56 Commonwealth states, score 47.0, below benchmark 53; AI GDP uplift put at US$899m in a decade.
+The 2026 Commonwealth Youth AI Readiness Index was produced by the Ayre Think Tank. It was unveiled around the 1-4 November Commonwealth summit in Antigua and Barbuda. It ranks Uganda 23rd of 56 countries with a score of 47.0 out of 100, below the study's benchmark of 53. The study estimates AI could add US$899 million to Uganda's GDP over a decade.
 
 </div>
 
@@ -834,7 +834,7 @@ Summarised under [Innovation ecosystem](#innovation-ecosystem).
 
 **[Financial services must go beyond deposits and withdrawals, says BoU](https://www.monitor.co.ug/uganda/news/national/financial-services-must-go-beyond-deposits-and-withdrawals-says-bou-5668828)** — Daily Monitor (Uganda), 12 November 2026
 
-Finance ministry building National Payment Switch with BoU; financial literacy strategy III launched 30 Oct 2026.
+Bank of Uganda Deputy Governor Augustus Nuwagaba spoke at the Annual Financial Inclusion and Financial Literacy Forum in Kampala on 12 November 2026. He cited an overall inclusion rate of 81% from the FinScope 2023 survey. He named three priorities. They were financial literacy and consumer protection, digital innovation and inclusive infrastructure, and financing for productive growth.
 
 </div>
 

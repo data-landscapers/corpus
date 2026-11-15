@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: GHA
 ledger_rows: 75
 not_held: 9
-record: 6d9ebd3436d0
+record: 00bed12b84f3
 ---
 
 # News, Oct – Nov 2026
@@ -1048,7 +1048,7 @@ Ghana's Petroleum Commission introduced a Digital Permit Application Platform to
 
 **[Digitising the Till While Leaving the Rulebook in the Dark](https://imaniafrica.org/2026/11/digitising-the-till-while-leaving-the-rulebook-in-the-dark/)** — IMANI Africa, 12 November 2026
 
-IMANI scores 20 agency and assembly portals out of 12; FDA tops at 11.5, PSRS last at 2.0.
+The think tank IMANI Africa published an audit in November 2026 of 20 Ghanaian government and assembly portals. They were scored out of 12.0 on six digital public infrastructure pillars. The Food and Drugs Authority ranked highest at 11.5. The author argues that agencies have digitised fee collection while leaving laws and procedures poorly published.
 
 </div>
 

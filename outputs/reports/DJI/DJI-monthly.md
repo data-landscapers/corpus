@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: DJI
 ledger_rows: 14
 not_held: 10
-record: 4b4a3d230ba7
+record: a356b2a2f0a0
 ---
 
 # News, Oct – Nov 2026
@@ -110,7 +110,7 @@ The alert page lists 511 vulnerability alerts with severity ratings, from 2 Janu
 
 **[70 % d’internautes, 350 km de fibre, 95 % de couverture mobile : Djibouti met ses chiffres sur la table à l'UIT](https://www.adi.dj/article/139096)** — Agence Djiboutienne d'Information (ADI), 12 November 2026
 
-Minister at PP-26: about 70% online, 95% mobile coverage, 350 km EARDIP fibre heading north.
+Djibouti's communications and telecoms minister, Mohamed Abdoulkader Moussa, spoke at the ITU Plenipotentiary Conference in Doha on 11 November 2026. He said nearly 70% of the population is online and mobile coverage is close to 95%. He said about 350 kilometres of fibre are being deployed northwards under the EARDIP project. He called for developing countries to take part in digital governance decisions.
 
 </div>
 
@@ -134,7 +134,7 @@ Minister at PP-26: about 70% online, 95% mobile coverage, 350 km EARDIP fibre he
 
 **[Corridor Djibouti-Ethiopie : paiement mobile et numéro vert pour les usagers](https://www.adi.dj/article/139102)** — Agence Djiboutienne d'Information (ADI), 13 November 2026
 
-DPCR ends cash road-fee payments for Mobile Money; 24/7 multilingual 5151 hotline via La Poste.
+Djibouti Ports Corridor Road (DPCR SA) announced on 13 November 2026 that Mobile Money is the only accepted payment for road-use fees on the Djibouti-Ethiopia corridor. Cash is refused at collection points. It also opened a 24-hour multilingual hotline on 5151. The hotline is run from the call centre of La Poste de Djibouti.
 
 </div>
 

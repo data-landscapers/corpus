@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: GIN
 ledger_rows: 25
 not_held: 2
-record: db3082437ad6
+record: 6bc6e34aef4e
 ---
 
 # News, Oct – Nov 2026
@@ -122,7 +122,7 @@ The 24th FRATEL annual meeting met in Conakry from 28 to 30 October 2026 on the 
 
 **[Télécoms : la Guinée se tourne vers Maroc Telecom pour relancer ses opérateurs nationaux](https://www.agenceecofin.com/actualites-numerique/1311-143418-telecoms-la-guinee-se-tourne-vers-maroc-telecom-pour-relancer-ses-operateurs-nationaux)** — Agence Ecofin, 13 November 2026
 
-Talks opened 11 Nov 2026 on Guinée Télécom relaunch and near-insolvent Areeba; Orange holds 85.4% mobile share.
+Guinea opened talks with Maroc Telecom in Conakry on 11 November 2026 on relaunching the state-held Guinée Télécom and restructuring Areeba, formerly MTN Guinée. An EY diagnostic found Areeba near-insolvent. ARPT data put Areeba's mobile share at 13.4% in the second quarter of 2026, down from 22.6% in the fourth quarter of 2024, and Orange Guinée's at 85.4%.
 
 </div>
 
@@ -298,7 +298,7 @@ Guinea's procurement regulator, the control directorate and the World Bank revie
 
 **[Fin des travaux de l’Atelier sur l’efficacité des marchés publics dans la santé et l’éducation](https://planete224.com/2026/11/12/fin-des-travaux-de-latelier-sur-lefficacite-des-marches-publics-dans-la-sante-et-leducation/)** — Planète 224, 12 November 2026
 
-DGCMP wants all procurement on Télémo by 1 Jan 2027; UNICEF-backed health and education studies validated.
+Guinea's procurement control directorate, the DGCMP, set 1 January 2027 as a deadline. From that date all procurement award and control processes are to run through the Télémo e-procurement platform. It announced this at the close of a workshop in Conakry on 10 and 11 November 2026. The workshop validated UNICEF-backed studies of procurement efficiency in health and education.
 
 </div>
 
@@ -432,7 +432,7 @@ Guinea's Prime Minister, Amadou Oury Bah, said the government will digitise publ
 
 **[E-GATE in West Africa | Helping Small Businesses Access Digital Markets](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets)** — World Bank Group, 13 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility backing; first phase reached 83 firms.
+The World Bank Group announced on 13 November 2026 that its E-GATE e-commerce programme will extend to Benin, The Gambia and Guinea. The 2026 to 2028 pilot is for up to 100 small and medium-sized enterprises. The China-World Bank Partnership Facility supports it. No amount is stated.
 
 </div>
 
