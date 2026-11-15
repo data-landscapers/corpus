@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-25-tun-tunisie-le-pole-d-innovation-de-sousse-vise-a-devenir-un-hub-de-la-mec",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Novation City director general Hichem Turki says the pole has invested in a supercomputer so its startups can develop AI, and has recently created an AI expertise centre with partners including Nvidia.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Novation City AI expertise centre and supercomputer",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Novation City (Pole de competitivite de Sousse)",
+   "country_label": "Tunisie",
+   "class": "other",
+   "platform": "supercomputer, Nvidia-certified training centre",
+   "owner": "public-private partnership",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
