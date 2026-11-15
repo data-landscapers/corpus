@@ -642,9 +642,9 @@ NER,14,2026-08-30-xgl-public-citizen-us-bilateral-health-agreements-texts,2026-1
 NGA,42,2026-08-30-xgl-public-citizen-us-bilateral-health-agreements-texts,2026-11-15,capped,2026-11-15
 RWA,26,2026-08-30-xgl-public-citizen-us-bilateral-health-agreements-texts,2026-11-15,capped,2026-11-15
 SEN,32,2026-08-30-xgl-public-citizen-us-bilateral-health-agreements-texts,2026-11-15,capped,2026-11-15
-SLE,64,2026-11-13-sle-parliament-refers-data-protection-bill,2026-11-15,,
-SLE,65,2026-11-12-parliament-commits-data-protection-bill-to-legislative-committee-by-ja,2026-11-15,,
-SLE,66,2026-11-13-sle-raic-ifd-mou-sabi-salone-access-to-information,2026-11-15,,
+SLE,64,2026-11-13-sle-parliament-refers-data-protection-bill,2026-11-15,fact,2026-11-15
+SLE,65,2026-11-12-parliament-commits-data-protection-bill-to-legislative-committee-by-ja,2026-11-15,fact,2026-11-15
+SLE,66,2026-11-13-sle-raic-ifd-mou-sabi-salone-access-to-information,2026-11-15,nothing,2026-11-15
 SLE,67,2026-08-30-xgl-public-citizen-us-bilateral-health-agreements-texts,2026-11-15,capped,2026-11-15
 SSD,19,2026-08-30-xgl-public-citizen-us-bilateral-health-agreements-texts,2026-11-15,capped,2026-11-15
 SWZ,28,2026-08-30-xgl-public-citizen-us-bilateral-health-agreements-texts,2026-11-15,capped,2026-11-15
