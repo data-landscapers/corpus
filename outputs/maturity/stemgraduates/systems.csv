@@ -3,6 +3,7 @@ AGO,UNESCO's tertiary graduates series,Angola,stemgraduates,,UNESCO Institute fo
 BDI,UNESCO's tertiary graduates series,Burundi,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 BEN,UNESCO's tertiary graduates series,Benin,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 BFA,UNESCO's tertiary graduates series,Burkina Faso,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
+BFA,FasoREN,FasoREN,other,ANPTIC national fibre,,,2025-01-01-bfa-renforcement-du-cadre-de-collaboration-numerique-en-matiere-d-enseigne
 BWA,UNESCO's tertiary graduates series,Botswana,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 CMR,UNESCO's tertiary graduates series,Cameroon,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 CMR,E-National Higher Education Network,E-National Higher Education Network,other,,Ministry of Higher Education,,2026-08-24-ia-et-ducation-le-pari-camerounais-pr-sent-p-kin
@@ -13,25 +14,37 @@ DZA,UNESCO's tertiary graduates series,Algeria,stemgraduates,,UNESCO Institute f
 EGY,UNESCO's tertiary graduates series,Egypt,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 ERI,UNESCO's tertiary graduates series,Eritrea,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 GHA,UNESCO's tertiary graduates series,Ghana,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
+GIN,NREN Guinee (planned),"Guinea national research and education network, feasibility study tendered Feb 2026",other,,MCENI / WARDIP-Guinee,,2026-02-09-gin-appel-a-manifestation-d-interet-pour-le-recrutement-d-une-firme-pour-l
 GMB,UNESCO's tertiary graduates series,Gambia,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 KEN,UNESCO's tertiary graduates series,Kenya,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 LSO,UNESCO's tertiary graduates series,Lesotho,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 MAR,UNESCO's tertiary graduates series,Morocco,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 MDG,UNESCO's tertiary graduates series,Madagascar,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
+MLI,MaliREN,MaliREN,stemgraduates,,"MaliREN (non-profit, created June 2012)",,2026-06-01-mli-the-journey-to-maliren-connectivity
 MOZ,UNESCO's tertiary graduates series,Mozambique,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 MRT,UNESCO's tertiary graduates series,Mauritania,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
+MRT,RIMER,Mauritania,other,,Ministry of Digital Transformation,,2026-07-14-mrt-rimer
 MUS,UNESCO's tertiary graduates series,Mauritius,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 MWI,MAREN,Malawi,stemgraduates,,public universities,,2024-05-01-mwi-moe-dsti-role-of-sti-mw2063-slides
 MWI,Malawi Research and Education Network (MAREN),Malawi,other,,,,2026-10-29-mwi-msaka-discloses-plans-to-connect-2-000-primary-and-secondary-schools-a
 MWI,MAREN,Malawi,stemgraduates,,,,2025-10-08-mwi-ministry-pppc-take-stock-of-digital-malawi-project
+MWI,MAREN,Malawi,stemgraduates,,,,2024-12-01-mwi-transforming-connectivity-at-luanar-eduroam-and-identity-federation-in
 NAM,UNESCO's tertiary graduates series,Namibia,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 NER,UNESCO's tertiary graduates series,Niger,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
+NER,Hub de Peering Fédéré,Niger,other,"BGP peering, eduID.ne, eduVPN",Niger-REN,,2026-01-25-ner-lancement-officiel-du-projet-hub-de-peering-federe
+NER,Niger-REN,Niger,other,,Niger-REN,four member universities,2026-01-25-ner-lancement-officiel-du-projet-hub-de-peering-federe
 RWA,UNESCO's tertiary graduates series,Rwanda,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 SDN,UNESCO's tertiary graduates series,Sudan,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
+SDN,SudREN,Sudan,stemgraduates,,Ministry of Higher Education and Scientific Research,,2025-01-26-sdn-towards-the-asren-cloud-platform-enhancing-the-sustainability-of-nren
+SDN,SudREN,Sudan,stemgraduates,,"non-profit, under the Ministry of Higher Education and Scientific Research",,2024-08-23-sdn-sudren-university-network-restored-from-red-sea-university
+SOM,SomaliREN,Somalia,stemgraduates,,SomaliREN,,2024-11-01-som-somaliren-showcases-the-somali-research-and-education-repository-sorer
+SSD,SSUREN,South Sudan,other,,"Ministry of Higher Education, Science and Technology",,2026-10-20-ssd-bup-took-part-in-the-launching-of-a-high-level-stakeholders-workshop-f
+SSD,SSuREN,SSuREN,other,,member universities and research institutions (proposed),,2026-10-01-ssd-south-sudan-stakeholders-resolve-to-establish-national-research-and-ed
 SWZ,UNESCO's tertiary graduates series,Eswatini,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 SYC,UNESCO's tertiary graduates series,Seychelles,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 TCD,UNESCO's tertiary graduates series,Chad,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 TUN,UNESCO's tertiary graduates series,Tunisia,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 TZA,UNESCO's tertiary graduates series,Tanzania,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
+UGA,RENU,Uganda,stemgraduates,,universities and research institutes,,2024-11-10-uga-working-together-to-scale-up-services-in-uganda
 ZAF,UNESCO's tertiary graduates series,South Africa,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
 ZWE,UNESCO's tertiary graduates series,Zimbabwe,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-14-mrt-rimer",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RIMER",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": "RIMER is inaugurated but the document states only that the University of Nouakchott is connected (1 Gbps to GEANT) and that it aims to connect universities; no STEM figure."
+}

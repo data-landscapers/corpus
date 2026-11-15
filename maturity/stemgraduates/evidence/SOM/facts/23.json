@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-13-som-somalia",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "nren",
+   "value": "service",
+   "fact": "ASREN says SomaliREN operates network infrastructure interconnecting its 21 member institutions, 20 universities and one research centre, with international networks.",
+   "as_of": "2023-12-13",
+   "date_precision": "day",
+   "system": "SomaliREN",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

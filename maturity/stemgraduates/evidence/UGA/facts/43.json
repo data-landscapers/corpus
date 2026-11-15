@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-10-uga-working-together-to-scale-up-services-in-uganda",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "nren",
+   "value": "service",
+   "fact": "SURF Magazine reports RENU, Uganda's national research and education network set up in 2006, serves 88 university campuses, 454 research sites and 9 hospitals.",
+   "as_of": "2024-11-10",
+   "date_precision": "day",
+   "system": "RENU",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RENU",
+   "country_label": "Uganda",
+   "class": "stemgraduates",
+   "platform": "",
+   "owner": "universities and research institutes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,2 +1,3 @@
 iso3,n,aspect,value,action,why
 BFA,003,stem,official:61.4018,removed,"reference/measures.csv marks the 2024 figure suspect, 36 points above 25.3 for 2022, and a suspect figure is never used; found in the rebuild of 2026-11-13"
+AGO,004,stem,official:10,removed,"Expansao's 10 per cent is the share of all graduates from 2014 to 2024 taken together, not a figure for one year, and dated 2024 it would stand as the latest figure over the yearbook's 9.8 for 2022/23; found in stage 4c of 2026-11-15"

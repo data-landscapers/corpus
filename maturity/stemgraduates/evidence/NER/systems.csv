@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NER,UNESCO's tertiary graduates series,Niger,stemgraduates,,UNESCO Institute for Statistics,,ref:uis-stem-graduates@2026-02-09
+NER,Hub de Peering Fédéré,Niger,other,"BGP peering, eduID.ne, eduVPN",Niger-REN,,2026-01-25-ner-lancement-officiel-du-projet-hub-de-peering-federe
+NER,Niger-REN,Niger,other,,Niger-REN,four member universities,2026-01-25-ner-lancement-officiel-du-projet-hub-de-peering-federe

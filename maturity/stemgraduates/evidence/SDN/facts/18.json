@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-26-sdn-towards-the-asren-cloud-platform-enhancing-the-sustainability-of-nren",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "nren",
+   "value": "service",
+   "fact": "The SudREN CEO says the network connects over 140 member institutions including universities, and that connectivity continues for institutions in safe areas despite war damage since April 2023.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "SudREN",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SudREN",
+   "country_label": "Sudan",
+   "class": "stemgraduates",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

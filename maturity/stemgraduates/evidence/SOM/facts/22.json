@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-01-som-somaliren-showcases-the-somali-research-and-education-repository-sorer",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "nren",
+   "value": "service",
+   "fact": "SomaliREN says it connects 30 institutions serving over 150,000 students; the document does not say they are public universities.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "SomaliREN",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SomaliREN",
+   "country_label": "Somalia",
+   "class": "stemgraduates",
+   "platform": "",
+   "owner": "SomaliREN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

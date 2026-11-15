@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-rwa-rwanda-s-transition-to-a-knowledge-based-economy-pathways-and-policy-p",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:29",
+   "fact": "The brief says STEM graduates represent roughly 29 percent of tertiary graduates in Rwanda, citing the WIPO Global Innovation Index 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Tertiary graduates in STEM fields (% of total)",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
