@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-01-rwa-collaboration-spotlight-ekash-independent-innovation-in-inclusive-inst",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "AfricaNenda states eKash, Rwanda's national instant payment system, launched in 2022 and by 2023 included commercial banks and mobile money participants supporting P2P, with a revamped version launched in February 2025.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "eKash",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "AfricaNenda states all major players are connected to eKash, enabling P2P, P2M and P2B transactions between banks, mobile money providers, MFIs and SACCOs, processing 1.5 million transactions a month.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "eKash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "eKash",
+   "class": "retail",
+   "platform": "Mojaloop",
+   "owner": "RSwitch",
+   "tiers": "P2P, P2M, P2B"
+  }
+ ],
+ "note": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "retail",
-   "stage": "3",
-   "service": "inservice",
-   "interop": "",
-   "switch": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-007;UGA-008",
-   "gaps": "No source found since October 2023 says payments between providers, or between wallets and banks, are in service.",
-   "note": "First pass: counted from the four questions by study-ladder-retailpayments.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "retail",
+      "stage": "4",
+      "service": "inservice",
+      "interop": "interop",
+      "switch": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-017;UGA-007",
+      "gaps": "No source found since October 2023 says a national switch connects wallets and bank accounts.",
+      "note": "In October 2026 Airtel's wallets were linked with 25 banks and other institutions for moving money to and from bank accounts (UGA-017), so 4. A national payment switch is still discussed as a prospect and mobile money runs largely on isolated systems (UGA-018), so not 5.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

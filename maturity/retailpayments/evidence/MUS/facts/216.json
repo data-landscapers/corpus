@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-25-mus-transformation-monetaire-la-banque-de-maurice-accelere-sur-la-monnaie",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mobile payments in Mauritius grew more than tenfold from Rs 1.8 billion to Rs 25.7 billion between February 2020 and April 2025, per the Bank of Mauritius governor.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "mobile payments",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MauCAS",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

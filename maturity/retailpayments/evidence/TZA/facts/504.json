@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-11-tza-bot-connects-all-payment-providers-to-tips",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "TIPS enables instant transfers and payments between bank accounts and mobile wallets, with 39 banks and six telecoms integrated by end-January 2024, the BoT governor says.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Tanzania Instant Payment System (TIPS)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Bank of Tanzania rolled TIPS out to the entire financial sector, a single connection for banks and telecoms facilitating P2P, P2B and P2M transfers.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Tanzania Instant Payment System (TIPS)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tanzania Instant Payment System (TIPS)",
+   "country_label": "Tanzania",
+   "class": "retail",
+   "platform": "instant payment switch",
+   "owner": "Bank of Tanzania",
+   "tiers": "banks and mobile wallets"
+  }
+ ],
+ "note": ""
+}

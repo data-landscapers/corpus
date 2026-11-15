@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-egy-instapay-22-million-users-cbe-deputy-governor",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "CBE deputy governor Tarek El-Khouly says InstaPay has 22 million customers and about 1.5 billion transactions a year worth EGP 4.3 trillion, and that e-wallets exceed 64.5 million.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "InstaPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "InstaPay",
+   "country_label": "Egypt",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

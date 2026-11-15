@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-19-swz-your-side-hustle-could-cost-you-if-you-don-t-file-ers-warns",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Eswatini Revenue Service lists MoMo Pay among the payment options open to taxpayers, as stated by ERS's Taxpayer Education manager.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "MoMo Pay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MoMo Pay",
+   "country_label": "Eswatini",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

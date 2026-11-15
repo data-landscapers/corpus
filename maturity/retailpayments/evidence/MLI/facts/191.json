@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-31-mli-bank-to-wallet-un-partenariat-strategique-scelle-entre-la-direction-ge",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article states Orange Money, run by Orange Finances Mobiles Mali, is in service with deposits, withdrawals, transfers and bill payments.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Orange Finances Mobiles Mali says customers of BCS-SA and Orange Money can instantly transfer funds between their BCS bank account and Orange Money wallet since the Bank to Wallet launch.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Bank to Wallet",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Mali",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange Finances Mobiles Mali",
+   "tiers": ""
+  },
+  {
+   "system": "Bank to Wallet",
+   "country_label": "Mali",
+   "class": "retail",
+   "platform": "bank-wallet link",
+   "owner": "Orange Finances Mobiles Mali and BCS-SA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

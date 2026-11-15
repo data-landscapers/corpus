@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-12-monitor-uganda-bou-financial-inclusion-payment-switch",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Daily Monitor says mobile money, agent banking and electronic payment services have brought financial services closer to communities in Uganda.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Uganda",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

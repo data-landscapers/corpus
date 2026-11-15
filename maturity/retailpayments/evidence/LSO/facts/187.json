@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-20-lso-cbl-launches-national-payment-switch",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article describes Lesotho's mobile money sector as vibrant, served by Econet EcoCash, Vodacom M-Pesa and C-Pay.",
+   "as_of": "2024-03-20",
+   "date_precision": "day",
+   "system": "EcoCash, M-Pesa, C-Pay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Central Bank of Lesotho launched Leswitch, which its First Deputy Governor says lets customers send and withdraw funds held with one provider at an agent of a different provider and lets different mobile money issuers' platforms interact.",
+   "as_of": "2024-03-19",
+   "date_precision": "day",
+   "system": "Leswitch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Leswitch",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "national payment switch",
+   "owner": "Central Bank of Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-12-mwi-nlgfc-applauds-e-payment-in-dowa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The document says Social Cash Transfer beneficiaries in Dowa will be paid through TNM Mpamba mobile money.",
+   "as_of": "2025-08-06",
+   "date_precision": "day",
+   "system": "TNM Mpamba",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

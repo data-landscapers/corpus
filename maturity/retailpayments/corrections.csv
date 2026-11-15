@@ -14,3 +14,7 @@ MUS,002,interop,interop,revalued: service:inservice,"Rebuild: MauCAS is describe
 MUS,003,interop,interop,revalued: service:inservice,"Rebuild: transfers between bank accounts through fintech platforms, not between wallets or with banks"
 NAM,001,interop,interop,revalued: service:inservice,"Rebuild: the instant payments system's first participants are two banks and Nampost; no wallet is named, and e-money issuers are still to join (NAM-002)"
 LBR,010,interop,interop,revalued: switch:national,"Rebuild: the central bank's own instant payment system carries payments across banks and mobile network operators, as Sierra Leone's does (SLE-018), so it answers question 4"
+DZA,020,service,underway,removed,"Stage 4c: Djezzy Payment Services was only authorised to constitute as a payment provider; mobile money is already in service in Algeria, so not a service licensed or piloted with none in service"
+SDN,017,switch,national,revalued: service:inservice,"Stage 4c: EBS's switch is described for banks and mobile payments with 2021 figures and no wallet named, and its new national switch was still to launch in July 2026 (SDN-015)"
+SDN,018,service,underway,removed,"Stage 4c: USSD access to bank apps announced in March 2025 is a bank channel, and mobile money is already in service in Sudan, so not a service licensed or piloted with none in service"
+MUS,006,interop,interop,revalued: service:inservice,"Stage 4c: the governor describes MauCAS linking banking, e-commerce and mobile payments, with no wallet or second mobile money provider named, as MUS-002"

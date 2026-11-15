@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-29-lso-rsl-adds-new-digital-tax-payment-platform",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Newsday reports that EcoCash, a mobile money transfer service run by Sasai Econet Financial Services, facilitates bill payments and money transfers across Lesotho.",
+   "as_of": "2024-07-29",
+   "date_precision": "day",
+   "system": "EcoCash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EcoCash",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Sasai Econet Financial Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

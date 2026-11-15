@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-01-rwa-rwanda-s-transition-to-a-knowledge-based-economy-pathways-and-policy-p",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The brief says the rollout of the Rwanda National Digital Payment System (RNDPS 2.0) and eKash Person-to-Merchant platforms has modernized the financial ecosystem with low-cost payment solutions, citing MINICT/RISA 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RNDPS 2.0 and eKash P2M",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNDPS 2.0",
+   "country_label": "Rwanda National Digital Payment System",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "eKash P2M",
+   "country_label": "eKash Person-to-Merchant",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

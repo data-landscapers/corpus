@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-27-ben-interconnexion-des-plateformes-mobile-money-aux-reseaux-des-operateurs",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ARCEP Benin says MTN Mobile Money, Moov Money and Celtiis Cash are in service, offering deposits, withdrawals, transfers and bill payments, and since January 2025 any mobile number can hold wallets with all three.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "MTN Mobile Money, Moov Money, Celtiis Cash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "USSD *880#",
+   "owner": "MTN Benin",
+   "tiers": ""
+  },
+  {
+   "system": "Moov Money",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "USSD *855#",
+   "owner": "Moov Africa Benin",
+   "tiers": ""
+  },
+  {
+   "system": "Celtiis Cash",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "USSD *889#",
+   "owner": "Celtiis",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

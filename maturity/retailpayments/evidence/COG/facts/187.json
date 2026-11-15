@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-20-cog-e-pay-for-e-tax-e-douane",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN Congo's product page describes MTN Mobile Money as a working payment method for e-tax and e-douane bills, with a free transaction for amounts of 1 to 750,000 FCFA.",
+   "as_of": "2024-11-20",
+   "date_precision": "day",
+   "system": "MTN Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "COG",
+   "class": "retail",
+   "platform": "USSD *105#",
+   "owner": "MTN Congo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

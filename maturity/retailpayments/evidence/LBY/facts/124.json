@@ -1,0 +1,34 @@
+{
+ "slug": "2024-08-01-lby-central-bank-of-libya-announces-the-launching-of-an-instant-payment-se",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of Libya says four commercial banks (Jumhouria, Wahda, National Commercial, North Africa) launched an instant payment service for individuals and merchants on 1 August 2024, in a first phase with a limited number of users.",
+   "as_of": "2024-08-01",
+   "date_precision": "day",
+   "system": "instant payment service",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Instant payment service",
+   "country_label": "Libya",
+   "class": "retail",
+   "platform": "",
+   "owner": "Jumhouria, Wahda, National Commercial and North Africa banks",
+   "tiers": ""
+  },
+  {
+   "system": "Moamalat",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "national switch",
+   "owner": "Moamalat Company",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

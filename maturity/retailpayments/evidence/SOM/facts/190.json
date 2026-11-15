@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-14-som-somalia-instant-payment-system-sips-now-available-across-all-commercia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Somalia Instant Payment System (SIPS)",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "Somalia Payment Switch",
+   "owner": "Somalia Payment Switch (SPS)",
+   "tiers": "all commercial banks, 24/7"
+  }
+ ],
+ "note": "SIPS links commercial banks only; the post names no mobile money wallets, so it does not settle interop or switch."
+}

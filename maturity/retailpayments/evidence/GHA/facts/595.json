@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-01-gha-fintech-sector-report-2026-q1",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Bank of Ghana reports 25.8m active mobile money wallets in March 2026 and 2.81bn industry transactions in Q1 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Bank of Ghana reports domestic bank-to-wallet and wallet-to-bank transfers and off-net peer-to-peer transfers among mobile money transactions in Q1 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

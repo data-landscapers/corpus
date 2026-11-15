@@ -1,0 +1,36 @@
+{
+ "slug": "2023-11-19-moz-national-switch-fully-operational-communique",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Banco de Moçambique states the new SIMORede platform offers interoperability (interconnection) between MNOs, banks and other financial service providers, with all banks and MNOs integrated since 19 November 2023.",
+   "as_of": "2023-11-19",
+   "date_precision": "day",
+   "system": "SIMORede",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "Banco de Moçambique states all commercial banks and mobile network operators have been fully integrated into the National Switch and operate exclusively on the Euronet-provided SIMORede platform since 19 November 2023.",
+   "as_of": "2023-11-19",
+   "date_precision": "day",
+   "system": "SIMORede",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIMORede",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "Euronet",
+   "owner": "Banco de Moçambique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

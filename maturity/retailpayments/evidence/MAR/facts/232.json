@@ -1,0 +1,46 @@
+{
+ "slug": "2025-05-29-mar-switch-al-maghrib-une-nouvelle-identite-pour-piloter-la-souverainete-n",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Boursenews reports 14 million payments via mobile wallet in 2024 through SWAM and more than 10 million active wallets in Morocco.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Switch Al-Maghrib (SWAM)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Boursenews says SWAM operates as the national switch ensuring interoperability between banks, payment institutions, merchants and cardholders, with 48 connected participants.",
+   "as_of": "2025-05-27",
+   "date_precision": "day",
+   "system": "Switch Al-Maghrib (SWAM)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "Boursenews describes SWAM as the national switch handling routing, clearing and settlement, carrying over 400 million ATM withdrawals, 210 million payments and 14 million mobile wallet payments in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Switch Al-Maghrib (SWAM)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Switch Al-Maghrib (SWAM)",
+   "country_label": "Morocco",
+   "class": "retail",
+   "platform": "national switch",
+   "owner": "HPS Switch, subsidiary of HPS group",
+   "tiers": "48 connected participants"
+  }
+ ],
+ "note": ""
+}

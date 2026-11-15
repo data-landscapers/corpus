@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "retail",
-   "stage": "2",
-   "service": "underway",
-   "interop": "",
-   "switch": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SYC-001",
-   "gaps": "No source found since October 2023 says: are people paying by mobile money or e-money.",
-   "note": "First pass: counted from the four questions by study-ladder-retailpayments.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "retail",
+      "stage": "3",
+      "service": "inservice",
+      "interop": "",
+      "switch": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-002",
+      "gaps": "No source found since October 2023 says payments between providers, or between wallets and banks, are in service.",
+      "note": "Nebula FinTech's eboo e-money wallet went live in January 2024 (SYC-002), so an e-money service is in service. No source names payments between providers or with banks, so not 4.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

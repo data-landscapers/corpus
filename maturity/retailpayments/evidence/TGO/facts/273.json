@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-13-togotimes-togo-paiements-instantanes-pi-spi",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Togo e-money transactions in 2025 reached CFAF 4,435 billion in 409.7 million operations, with 5.69 million active wallets, per TogoTimes.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "e-money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "PI-SPI allows instant transfers between different providers including banks and e-money issuers, and is mandatory for interoperable person-to-person e-money since 2 November 2026, per TogoTimes.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

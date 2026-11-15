@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-cod-rapport-pilier-iii-premier-semestre-2024",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Orange Money RDC reports transaction volume up 120% and value up 114% in H1 2024, with active clients growing 2.8% on the previous quarter.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Orange Money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Orange Money RDC reports CDF 6.8bn of receivables arising from interoperability with Airtel Money and M-Pesa at 30 June 2024.",
+   "as_of": "2024-06-30",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "COD",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange Money RDC SA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

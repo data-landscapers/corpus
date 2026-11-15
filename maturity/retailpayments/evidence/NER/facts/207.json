@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-31-ner-point-de-presse-a-la-direction-generale-des-douanes-les-operations-de",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mynita",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Amanata",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Wallets named only as payment channels, no service status stated."
+}

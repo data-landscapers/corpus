@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-mar-le-hub-digital-au-service-des-paiements-electroniques-au-maroc",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Switch Al Maghrib says the Wallet payment means and mobile payment were launched in Morocco in 2018.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "Switch Mobile",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Switch Al Maghrib says its Switch Mobile infrastructure ensures interoperability of the mobile payment ecosystem, with 18 connected members at end-2023.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Switch Mobile",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Switch Mobile",
+   "country_label": "Morocco",
+   "class": "retail",
+   "platform": "Switch Al Maghrib hub",
+   "owner": "Switch Al Maghrib",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

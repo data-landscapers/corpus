@@ -1,0 +1,34 @@
+{
+ "slug": "2024-01-30-syc-launch-of-nebula-fintech-limited",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of Seychelles governor says Airtel Seychelles launched a licensed mobile money transfer service in 2015, introducing e-money in the country.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Airtel Seychelles mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Seychelles mobile money",
+   "country_label": "Seychelles",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Airtel Seychelles",
+   "tiers": ""
+  },
+  {
+   "system": "Nebula Fintech e-money services",
+   "country_label": "Seychelles",
+   "class": "retail",
+   "platform": "e-money",
+   "owner": "Nebula Fintech Limited",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

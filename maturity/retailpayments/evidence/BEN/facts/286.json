@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-25-ben-benin-la-digitalisation-des-paiements-publics-double-les-ressources-de",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The release says taxpayers can pay taxes online by automated bank transfer or via mobile money, and that the PNPE platform launched in 2024 takes public payments by mobile, USSD, card and bank transfer.",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "Plateforme Nationale des Paiements Electroniques (PNPE)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme Nationale des Paiements Electroniques (PNPE)",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "multichannel payments platform",
+   "owner": "Government of Benin",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

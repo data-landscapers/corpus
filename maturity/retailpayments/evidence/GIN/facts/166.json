@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-gin-la-banque-centrale-de-la-republique-de-guinee-lance-le-switch-monetiqu",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The BCRG states it launched on 15 January 2025 a national switch to connect banks, e-money institutions, microfinance institutions, payment operators and fintechs.",
+   "as_of": "2025-01-15",
+   "date_precision": "day",
+   "system": "Switch National Monétique et Digital",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Switch National Monétique et Digital",
+   "country_label": "Guinea",
+   "platform": "",
+   "owner": "Guinéenne de Monétique (GuiM) / BCRG",
+   "tiers": "",
+   "class": "retail"
+  }
+ ],
+ "note": ""
+}

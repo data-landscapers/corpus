@@ -1,0 +1,60 @@
+{
+ "slug": "2025-01-06-ken-kenyan-banks-push-for-pesalink-upgrade-as-cbk-eyes-new-real-time-payme",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechCabal reports mobile money in Kenya processed over $300 billion in 2024, dominating the payments market, with M-Pesa and Airtel Money operating.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "M-Pesa",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "TechCabal says mobile money allows instant transfers between Kenyan banks and digital wallets, though limited to institutions with agreements with providers.",
+   "as_of": "2025-01-06",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Pesalink",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "bank P2P transfers",
+   "owner": "Integrated Payment Services Limited (Kenya Bankers Association)",
+   "tiers": ""
+  },
+  {
+   "system": "Fast Payment System",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "planned real-time system",
+   "owner": "Central Bank of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

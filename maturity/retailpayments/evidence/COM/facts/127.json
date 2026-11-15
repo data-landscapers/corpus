@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-27-com-comores-vers-une-interoperabilite-complete-des-transactions-financiere",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "PayLogic announced on 25 August 2025 that the Comoros National Payment Switch is in service, providing interoperability between banks, microfinance institutions and mobile money operators.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "National Payment Switch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "PayLogic says the national payment switch, now operational, handles real-time transfers, merchant payments and diaspora remittances across banks, microfinance institutions and mobile money operators.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "National Payment Switch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payment Switch",
+   "country_label": "Comoros",
+   "class": "retail",
+   "platform": "PayLogic",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2024-01-01-civ-mobile-money-s-economic-impact-cote-d-ivoire-country-brief-2024",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "GSMA says registered mobile money accounts in Côte d'Ivoire grew from 30 million in 2013 to 81 million in 2023, with seven providers listed.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Côte d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MTN MoMo",
+   "country_label": "Côte d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Moov Money",
+   "country_label": "Côte d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Wave Mobile Money",
+   "country_label": "Côte d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

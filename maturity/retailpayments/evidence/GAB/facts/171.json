@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-11-gab-e-tax-le-gabon-passe-au-paiement-mobile-des-impots",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Moov Africa Gabon Telecom's Moov Money mobile money service is in service, with customers paying taxes through it from 10 July 2025, per Gabonreview.",
+   "as_of": "2025-07-10",
+   "date_precision": "day",
+   "system": "Moov Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moov Money",
+   "country_label": "Gabon",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Moov Africa Gabon Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-31-mus-banque-de-maurice-digital-currency-la-phase-pilote-lancee-avec-une-ban",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The governor says the 24-hour MauCAS Instant Payment System facilitates interoperability between banking services, e-commerce and mobile payments.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "MauCAS Instant Payment System",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

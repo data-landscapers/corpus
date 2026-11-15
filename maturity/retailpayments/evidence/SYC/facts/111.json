@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-31-syc-nebula-fintech-limited-launches-new-online-payment-platform",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Seychelles Nation reports Nebula FinTech launched its eboo e-money wallet app (individual and business versions) on the iOS and Google Play stores, live on 30-31 January 2024.",
+   "as_of": "2024-01-30",
+   "date_precision": "day",
+   "system": "eboo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eboo",
+   "country_label": "Seychelles",
+   "class": "retail",
+   "platform": "mobile app",
+   "owner": "Nebula FinTech Limited",
+   "tiers": "individual; business"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-12-sle-orange-money-facilitates-payment-to-35-000-beneficiary-households",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Satellite News reports that payments in the January 2024 cash transfer round are made electronically through Orange Money, to 35,005 households.",
+   "as_of": "2024-01-25",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

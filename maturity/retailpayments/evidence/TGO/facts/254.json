@@ -1,0 +1,50 @@
+{
+ "slug": "2024-03-22-tgo-au-togo-le-mobile-money-face-au-defi-de-l-interoperabilite-et-de-la-st",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Togo First says Togo's mobile money market has grown since 2016, with operators Moov Africa Togo, Tmoney (Togocom) and Coris Money running in service without effective interoperability.",
+   "as_of": "2024-03-22",
+   "date_precision": "day",
+   "system": "Moov Africa Togo, Tmoney, Coris Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moov Africa Togo",
+   "country_label": "Togo",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Moov Africa Togo",
+   "tiers": ""
+  },
+  {
+   "system": "Tmoney",
+   "country_label": "Togo",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Togocom",
+   "tiers": ""
+  },
+  {
+   "system": "Coris Money",
+   "country_label": "Togo",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Coris Money",
+   "tiers": ""
+  },
+  {
+   "system": "TogoPAY",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "unified e-payment platform (announced 2018, delayed)",
+   "owner": "Government of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

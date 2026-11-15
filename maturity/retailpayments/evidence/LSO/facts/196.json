@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-lso-guide-on-e-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Revenue Services Lesotho's guide says taxpayers can pay through EcoCash or M-Pesa mobile money on its e-Payments platform.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "EcoCash / M-Pesa",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

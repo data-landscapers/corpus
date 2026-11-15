@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-22-gin-la-guinee-lance-nimbapay-son-systeme-de-paiement-instantane-et-interop",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "GuiM says NimbaPay, launched 22 July 2026, gives instant interoperable transfers between accounts across participating banks, e-money institutions and microfinance institutions.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "GuiM, whose mission is to operate the national payment switch, says NimbaPay is the national instant payment system connecting banks and e-money institutions from its launch on 22 July 2026.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "retail",
+   "platform": "Mojaloop",
+   "owner": "Guineenne de Monetique (GuiM)",
+   "tiers": "banks, e-money institutions, microfinance institutions"
+  }
+ ],
+ "note": ""
+}

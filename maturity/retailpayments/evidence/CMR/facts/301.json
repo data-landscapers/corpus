@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-13-cmr-cameroun-la-dgi-simplifie-le-paiement-des-avis-d-imposition-via-mtn-mo",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Digital Business Africa reports that MTN MoMo and Orange Money are used in service to pay tax notices in Cameroon, via USSD codes and the Tresor Pay platform.",
+   "as_of": "2026-05-13",
+   "date_precision": "day",
+   "system": "MTN MoMo; Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

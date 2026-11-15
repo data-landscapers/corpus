@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-13-ner-actuniger-soniloga-amana-guan-paiement-numerique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AmanaTa",
+   "country_label": "AmanaTa",
+   "class": "other",
+   "platform": "app",
+   "owner": "Amana Transfert d'Argent SA",
+   "tiers": ""
+  }
+ ],
+ "note": "AmanaTa is not described as mobile money or e-money service in service."
+}

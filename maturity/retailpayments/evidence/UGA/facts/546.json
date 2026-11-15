@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-31-uga-can-ugandas-national-payment-switch-bring-down-digital-transaction-cos",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The document describes MTN mobile money wallets in use, with a published agent withdrawal fee of UGX1,925.",
+   "as_of": "2026-10-31",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The document says Airtel has partnered with 25 commercial banks, credit institutions and microfinance institutions to enable movement between bank accounts and its wallets.",
+   "as_of": "2026-10-31",
+   "date_precision": "day",
+   "system": "Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Uganda",
+   "class": "retail",
+   "platform": "",
+   "owner": "MTN MoMo Uganda",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Uganda",
+   "class": "retail",
+   "platform": "",
+   "owner": "Airtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -24,3 +24,9 @@ BEN,MTN MoMo,Benin,retail,MTN MoMo,MTN Mobile Money Benin SA,,2026-11-02-ben-com
 BEN,MTN Mobile Money,Benin,retail,mobile money,MTN Benin,,2023-12-05-ben-dematerialisation-du-paiement-des-pensions-de-retraite-au-benin-un-ver
 BEN,MOOV Money,Benin,retail,mobile money,Moov Africa Benin,,2023-12-05-ben-dematerialisation-du-paiement-des-pensions-de-retraite-au-benin-un-ver
 BEN,PI-SPI (Plateforme Interopérable du Système de Paiement Instantané),Benin,retail,,BCEAO,,2026-11-06-dpi-map-2026-11-12
+BEN,MTN Mobile Money,Benin,retail,USSD *880#,MTN Benin,,2026-07-27-ben-interconnexion-des-plateformes-mobile-money-aux-reseaux-des-operateurs
+BEN,Moov Money,Benin,retail,USSD *855#,Moov Africa Benin,,2026-07-27-ben-interconnexion-des-plateformes-mobile-money-aux-reseaux-des-operateurs
+BEN,Celtiis Cash,Benin,retail,USSD *889#,Celtiis,,2026-07-27-ben-interconnexion-des-plateformes-mobile-money-aux-reseaux-des-operateurs
+BEN,PI-SPI,Benin,other,BCEAO instant payment platform,BCEAO,,2026-11-02-ben-interoperabilite-du-mobile-money-au-benin-pi-spi-entre-en-vigueur-ce-q
+BEN,Plateforme Nationale des Paiements Electroniques (PNPE),Benin,retail,multichannel payments platform,Government of Benin,,2026-03-25-ben-benin-la-digitalisation-des-paiements-publics-double-les-ressources-de
+BEN,PI-SPI,Benin,other,BCEAO instant payment platform,BCEAO,,2026-08-14-ben-marche-beninois-du-pi-spi-qui-manque-encore-a-l-appel-du-paiement-inst

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SDN-013;SDN-005",
-      "gaps": "No source found since October 2023 says a national switch connects wallets and bank accounts.",
-      "note": "Sudani Fintech's Sah, launched in April 2026, and Zain's Bede wallet let users send and receive funds across all Sudanese banks, so wallet-to-bank payments are in service. No national switch is named, so not 5.",
-      "as_at": "2026-11-09"
+      "gaps": "No source found since October 2023 says a national switch connects wallets and bank accounts; EBS's switch is described for banks, with 2021 figures and no wallet named (SDN-017), and its new switch was still to launch in July 2026 (SDN-015).",
+      "note": "Sah and the Bede wallet let users send and receive funds across all Sudanese banks in 2026, so 4. The switch EBS runs is not shown joining wallets and banks, so not 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

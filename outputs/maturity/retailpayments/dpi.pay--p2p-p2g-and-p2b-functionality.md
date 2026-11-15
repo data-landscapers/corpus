@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy asks for interoperable e-mon
 | Stage | Countries |
 |---|---|
 | 5 Leading | 28 |
-| 4 Operating | 14 |
+| 4 Operating | 15 |
 | 3 Established | 11 |
-| 2 Nascent | 1 |
+| 2 Nascent | 0 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 0 |
@@ -307,6 +307,13 @@ Payments between mobile money providers or with banks were in service in 2026; n
 - leFaso.net reports that the BCEAO's PI-SPI interoperable instant payment platform, launched 30 September 2025, connects banks, e-money institutions and payment institutions, with 80 connected by 24 June 2026 ([source, 2026-06-24](https://lefaso.net/spip.php?article147670)).
 - Mixx users can send and receive money between mobile wallets, banks and microfinance institutions in the eight UEMOA countries through the BCEAO's PI-SPI platform, with an interoperable merchant QR code ([source, 2026-04-14](https://www.togofirst.com/fr/finance/1404-18708-mixx-togo-lance-les-paiements-et-virements-instantanes-dans-luemoa-via-la-plateforme-pi-spi)).
 
+### Uganda: 4 Operating
+
+Mobile money wallets could send money to and from bank accounts in 2026; whether a national switch joins wallets and banks is not known.
+
+- The document says Airtel has partnered with 25 commercial banks, credit institutions and microfinance institutions to enable movement between bank accounts and its wallets ([source, 2026-10-31](https://www.ceo.co.ug/can-ugandas-national-payment-switch-bring-down-digital-transaction-costs/)).
+- MTN Uganda launched Mobile Money toll payments on the Kampala-Entebbe Expressway, where motorists approve a PIN prompt on their phone, Tech Africa News reported ([source, 2026-09-25](https://techafricanews.com/2026/09/25/mtn-uganda-mobile-money-toll-payments-kampala-entebbe-expressway/)).
+
 ### Zimbabwe: 4 Operating
 
 Payments between mobile money providers or with banks were in service in 2026; no source found reports a national switch.
@@ -360,6 +367,12 @@ Mobile money or e-money was in service in 2025; no source found reports payments
 
 - GTI Holdings launched the Sao digital financial platform in Sao Tome and Principe, with a mobile wallet, a prepaid card, POS payments and agents, and its commercial director said the platform already supports agents ([source, 2025-01-05](https://www.telanon.info/economia/2025/01/05/46928/sao-redefinindo-a-inclusao-financeira-e-o-empoderamento-em-sao-tome-e-principe/)).
 
+### Seychelles: 3 Established
+
+An e-money wallet was in service in 2024; whether payments move between providers or with banks is not known.
+
+- Seychelles Nation reports Nebula FinTech launched its eboo e-money wallet app (individual and business versions) on the iOS and Google Play stores, live on 30-31 January 2024 ([source, 2024-01-30](https://www.nation.sc/articles/20931/nebula-fintech-limited-launches-new-online-payment-platform)).
+
 ### South Africa: 3 Established
 
 Mobile money or e-money was in service in 2026; no source found reports payments between providers.
@@ -380,16 +393,3 @@ Mobile money or e-money was in service in 2026; no source found reports payments
 
 - The Fintech Times says Flouci offers an app combining electronic payments and financial services, and Konnect and Paymee accept La Poste's e-Dinar products ([source, 2026-08-22](https://thefintechtimes.com/tunisia-a-fintech-ecosystem-caught-between-cash-and-code/)).
 - The BCT note says Societe Monetique Tunisie manages the mobile payment system in Tunisia, and banks, the Post and payment institutions issue mobile wallets ([source, 2026-05-05](https://www.bct.gov.tn/bct/siteprod/documents/Note_2026_132_fr.pdf)).
-
-### Uganda: 3 Established
-
-Mobile money or e-money was in service in 2026; no source found reports payments between providers.
-
-- MTN Uganda launched Mobile Money toll payments on the Kampala-Entebbe Expressway, where motorists approve a PIN prompt on their phone, Tech Africa News reported ([source, 2026-09-25](https://techafricanews.com/2026/09/25/mtn-uganda-mobile-money-toll-payments-kampala-entebbe-expressway/)).
-- Ericsson and MTN Group Fintech say they completed the migration of the MTN MoMo mobile money platform to a cloud-native architecture in Uganda, among four markets ([source, 2026-08-21](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/)).
-
-### Seychelles: 2 Nascent
-
-A mobile money service was starting in 2025; none in service is on record.
-
-- Fusepay says its CBS PSP licence lets it run digital money accounts and instant payments, with first live transactions still to come ([source, 2025-11-14](https://www.fusepay.app/blog-posts/fusepay-receives-final-approval-to-operate-as-a-licensed-payment-service-provider-in-seychelles)).

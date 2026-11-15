@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-egy-financial-digitization",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The CBE says at least 29 e-wallets operate in the Egyptian market, backed by 21 local banks and four mobile network operators.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "e-wallets",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The CBE's IPN links all banks in Egypt, and InstaPay enables direct transfers between users' bank accounts or the Meeza card.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "InstaPay / IPN",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

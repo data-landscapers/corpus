@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-12-swz-e856-mln-processed-through-eswatini-payment-switch",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Eswatini Payment Switch allows instant transfers between banks and mobile money providers, with eight institutions connected including E-mali, MTN MoMo and InstaCash, per the Central Bank of Eswatini.",
+   "as_of": "2025-11-12",
+   "date_precision": "day",
+   "system": "Eswatini Payment Switch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Central Bank of Eswatini says the national Eswatini Payment Switch, live since 11 December 2024, connects banks and mobile wallets and processed 194,000 transactions worth E856 million.",
+   "as_of": "2025-11-12",
+   "date_precision": "day",
+   "system": "Eswatini Payment Switch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eswatini Payment Switch",
+   "country_label": "Eswatini",
+   "class": "retail",
+   "platform": "national instant payment switch",
+   "owner": "Central Bank of Eswatini",
+   "tiers": "banks and mobile money providers"
+  }
+ ],
+ "note": ""
+}

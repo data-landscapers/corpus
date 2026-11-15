@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-10-gha-ghana-s-cashless-property-tax-lifts-revenue-exposes-weak-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article says property owners pay property rates through digital channels including mobile money, bank transfers and cards on the platform launched in January 2023.",
+   "as_of": "2023-01",
+   "date_precision": "month",
+   "system": "Unified Common Property Rate Platform",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-cod-note-de-plaidoyer-lever-les-blocages-et-renforcer-l-usage-du-mobile-mo",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Cash Working Group RDC advocacy note describes mobile money as operating in the DRC, with a simplified KYC adopted and agents serving users, while barriers limit its scale.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "RDC",
+   "class": "retail",
+   "platform": "",
+   "owner": "MNO / PSP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

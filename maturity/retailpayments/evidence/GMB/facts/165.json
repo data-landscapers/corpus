@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-gmb-2026-new-year-s-message-from-the-ceo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Bantaba",
+   "country_label": "GMB",
+   "class": "other",
+   "platform": "Gamswitch",
+   "owner": "Gamswitch",
+   "tiers": ""
+  }
+ ],
+ "note": "Bantaba links banks only; wallet integration via Mojaloop is planned, so no in-service wallet interop or wallet-bank switch is stated."
+}

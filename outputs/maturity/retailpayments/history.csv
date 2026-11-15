@@ -35,3 +35,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-13,MUS,dpi.pay--p2p-p2g-and-p2b-functionality,review,4,3,MUS-001;MUS-002,"Rebuild: the providers rows describe MauCAS as an instant-payment switch and bank-to-bank transfers, naming no wallet, so 4 to 3"
 2026-11-13,NAM,dpi.pay--p2p-p2g-and-p2b-functionality,review,4,3,NAM-003;NAM-001,"Rebuild: the instant payments system links two banks and Nampost, and e-money issuers are still to join, so no wallet payment between providers is shown; 4 to 3"
 2026-11-13,LBR,dpi.pay--p2p-p2g-and-p2b-functionality,review,4,5,LBR-010;LBR-006,"Rebuild: the central bank's instant payment system carries payments across banks and mobile network operators (LBR-010), as Sierra Leone's does at 5, so 4 to 5"
+2026-11-15,SYC,dpi.pay--p2p-p2g-and-p2b-functionality,fact,2,3,SYC-002,"Nebula FinTech's eboo e-money wallet, live January 2024, answers question 2; 2 to 3"
+2026-11-15,UGA,dpi.pay--p2p-p2g-and-p2b-functionality,fact,3,4,UGA-017;UGA-007,Airtel's wallets linked with 25 banks and other institutions in October 2026 answer question 3; 3 to 4
+2026-11-15,SDN,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,SDN-013;SDN-005,"EBS switch read as joining banks, 2021 figures, no wallet named, new switch still to launch; stays 4. USSD bank-app row removed"

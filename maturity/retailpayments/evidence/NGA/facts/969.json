@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-02-nga-mobile-money-transactions-surge-81-to-n372tn-cbn-report",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The CBN 2025 Annual Report, as reported by Punch, says Mobile Money Operators processed 28,741.83 million transactions worth N372.14tn in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Mobile Money Operators",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

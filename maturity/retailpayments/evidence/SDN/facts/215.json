@@ -1,0 +1,44 @@
+{
+ "slug": "2026-03-02-sdn-digital-inclusion-interrupted-sudan-s-uneven-financial-transformation",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article says Central Bank of Sudan rules updated since 2021 let telecoms offer financial services, leading to a more visible deployment of mobile payment services, particularly MTN's MoMo.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The article says Electronic Banking Services manages the national switch enabling operations among local banks and mobile payment transactions, with 30 of about 38 banks relying on it for e-payments in 2021.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "Electronic Banking Services national switch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "Sudan",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN",
+   "tiers": ""
+  },
+  {
+   "system": "Bankak",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Bank of Khartoum",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

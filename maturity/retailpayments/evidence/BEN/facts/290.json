@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-14-ben-marche-beninois-du-pi-spi-qui-manque-encore-a-l-appel-du-paiement-inst",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Nine of Benin's 15 banks and financial establishments and two of its three mobile money issuers (Moov Money, MTN) are connected to PI-SPI at 31 July 2026, per La Marina BJ.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "BCEAO instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

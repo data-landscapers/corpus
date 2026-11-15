@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-22-som-sharaxaad-nidaamka-lacag-bixinta-sips-ee-somalia-laga-daahfuray",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "VOA Somali reports SIPS, launched 22 January 2025, links payments across different banks and mobile money/wallet services so customers can pay across providers.",
+   "as_of": "2025-01-22",
+   "date_precision": "day",
+   "system": "SIPS",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "VOA Somali reports the Central Bank and private banks launched SIPS on 22 January 2025, a national system connecting bank payments and mobile money wallets.",
+   "as_of": "2025-01-22",
+   "date_precision": "day",
+   "system": "SIPS",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIPS",
+   "country_label": "Somalia",
+   "class": "retail",
+   "platform": "instant payment system",
+   "owner": "Central Bank of Somalia with private banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

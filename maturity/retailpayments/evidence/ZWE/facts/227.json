@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-12-zwe-rbz-reports-record-us-44-9-billion-in-electronic-transactions-in-6-mon",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The RBZ says 381 million electronic transactions worth ZWG1.2 trillion in H1 2025 ran through channels including mobile money.",
+   "as_of": "2025-08-12",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Governor Mushayavanhu says mobile money interoperability and instant payments are transforming how Zimbabweans transact and pay bills.",
+   "as_of": "2025-08-12",
+   "date_precision": "day",
+   "system": "mobile money interoperability",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

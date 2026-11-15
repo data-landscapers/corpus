@@ -1,0 +1,62 @@
+{
+ "slug": "2025-11-06-eth-m-pesa-ethiopia-reaches-3-4mln-users-as-transactions-total-12-3bln-bir",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Birr Metrics reports M-PESA Ethiopia, launched 16 August 2023, has 3.4 million 90-day active users and 12.3 billion birr in transactions over six months, and Telebirr has over 54.8 million users in FY2024/25.",
+   "as_of": "2025-11-06",
+   "date_precision": "day",
+   "system": "M-PESA Ethiopia",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Birr Metrics reports M-PESA's integration with EthSwitch gives interoperability with all connected banks and financial institutions.",
+   "as_of": "2025-11-06",
+   "date_precision": "day",
+   "system": "EthSwitch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "Birr Metrics describes EthSwitch as Ethiopia's national payment network, through which M-PESA wallets make QR merchant payments with all connected banks.",
+   "as_of": "2025-11-06",
+   "date_precision": "day",
+   "system": "EthSwitch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-PESA Ethiopia",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "M-PESA",
+   "owner": "Safaricom",
+   "tiers": ""
+  },
+  {
+   "system": "Telebirr",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Ethio Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "EthSwitch",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

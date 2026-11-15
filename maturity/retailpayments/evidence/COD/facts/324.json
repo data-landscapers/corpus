@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-23-cod-modalites-dutilisation-des-canaux-digitaux-dans-le-processus-de-paieme",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The circular has taxpayers pay public revenue from e-money wallets run by e-money institutions, which transfer the sum instantly to a payment bank.",
+   "as_of": "2024-01-18",
+   "date_precision": "day",
+   "system": "E-money institution wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

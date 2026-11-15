@@ -1,0 +1,42 @@
+{
+ "slug": "2024-02-27-moz-mobile-financial-services-up-10-5-in-three-months",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mozambique has three electronic money institutions, mKesh (Tmcel, 2012), M-Pesa (Vodacom, 2013) and e-Mola (Movitel, 2014), which the Bank of Mozambique reports handled over 400 million transactions in 2023 through 224,700 agents.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "mobile money (mKesh, M-Pesa, e-Mola)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mKesh",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "Tmcel",
+   "tiers": ""
+  },
+  {
+   "system": "M-Pesa",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "Vodacom",
+   "tiers": ""
+  },
+  {
+   "system": "e-Mola",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "Movitel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

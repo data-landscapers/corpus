@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-26-uga-africanenda-tor-bnps-instant-payment-system-blueprint",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Terms of Reference describe Uganda's payment landscape as fragmented, with telecom-led mobile money services operating largely on isolated systems alongside banks and fintechs.",
+   "as_of": "2026-05-26",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
