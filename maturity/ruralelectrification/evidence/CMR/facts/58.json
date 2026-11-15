@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-16-cmr-cameroon-s-journey-toward-affordable-reliable-and-universal-electricit",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:25",
+   "fact": "The World Bank says 75% of rural Cameroonians remain without electricity, so about 25% have access.",
+   "as_of": "2025-01-16",
+   "date_precision": "day",
+   "system": "",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

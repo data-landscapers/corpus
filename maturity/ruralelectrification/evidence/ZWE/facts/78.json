@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-zwe-zimbabwe-turns-to-solar-to-reach-35-000-rural-villages-and-close-elect",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:46.6",
+   "fact": "The document cites World Bank data putting rural electricity access in Zimbabwe at about 46.6% in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "World Bank rural access series",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

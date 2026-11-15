@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-03-uga-can-mission-300-close-uganda-s-electricity-access-gap",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:9.1",
+   "fact": "The Community Climate and Energy Shield Initiative's opinion piece says rural electricity access lags at just 9.1 percent (national grid access 25.3 percent).",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Uganda rural grid electricity access",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

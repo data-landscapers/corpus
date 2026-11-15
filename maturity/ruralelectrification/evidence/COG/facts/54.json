@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-07-cog-electrification-des-zones-rurales-vers-la-validation-du-projet",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:12.4",
+   "fact": "The report gives Congo's rural electrification rate as 12.4 per cent in 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

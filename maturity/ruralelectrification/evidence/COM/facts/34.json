@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-26-com-empowering-rural-comoros-how-minigrids-will-bring-electricity-and-econ",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:83",
+   "fact": "The post says the World Bank puts rural access to electricity at nearly 83% as of 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "World Bank rural access series",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

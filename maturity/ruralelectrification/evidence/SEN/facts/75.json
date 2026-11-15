@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-01-sen-electricite",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:65.84",
+   "fact": "The Ministry of Energy, Petroleum and Mines states the rural electrification rate rose from 42.30% in 2018 to 65.84% in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "rural electrification rate",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

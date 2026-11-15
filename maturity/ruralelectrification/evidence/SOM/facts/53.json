@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-22-som-somalia-energy-and-electricity",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:39.4",
+   "fact": "The US International Trade Administration's guide says the 2023 Somali Household Budget survey estimated 39.4 percent of rural residents have access to electricity.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Somali Household Budget Survey 2023",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

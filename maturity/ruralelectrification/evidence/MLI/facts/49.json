@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-27-mli-mali-embraces-solar-power-for-rural-areas-but-the-challenges-are-still",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:25",
+   "fact": "An official of Mali's rural electrification agency says rural access to electricity is as low as 25%.",
+   "as_of": "2025-03-27",
+   "date_precision": "day",
+   "system": "Mali rural electrification agency figure",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

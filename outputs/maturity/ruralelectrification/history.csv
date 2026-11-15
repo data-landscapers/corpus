@@ -54,3 +54,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-13,ZAF,infra.energy--rural-electrification,review,4,4,ZAF-004,Rebuild: 86.3 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 4 holds
 2026-11-13,ZMB,infra.energy--rural-electrification,review,2,2,ZMB-004,Rebuild: 31.3 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
 2026-11-13,ZWE,infra.energy--rural-electrification,review,2,2,ZWE-004,Rebuild: 46.6 per cent for 2024 (World Bank series) re-read against the ladder and listed news; 2 holds
+2026-11-15,GIN,infra.energy--rural-electrification,fact,2,2,GIN-004,"November 2025 plan round table put rural access at 25.7 per cent; not the World Bank series, whose 29.4 for 2024 holds stage 2"
+2026-11-15,NGA,infra.energy--rural-electrification,fact,1,1,NGA-004,"Statistics bureau's 40.4 per cent of rural households, cited January 2026, arrived; not the World Bank series, whose 23.5 for 2024 holds stage 1"
+2026-11-15,UGA,infra.energy--rural-electrification,fact,2,2,UGA-004,"August 2026 opinion piece's 9.1 per cent arrived; not the World Bank series, whose 44.8 for 2024 holds stage 2"

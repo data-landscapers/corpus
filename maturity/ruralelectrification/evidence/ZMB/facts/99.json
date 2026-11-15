@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-27-zmb-report-reveals-66-of-rural-zambia-households-without-access-to-electri",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:34",
+   "fact": "The 2023 National Energy Access Survey, launched by the Energy Ministry, found 34 percent of rural households connected to electricity.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "2023 National Energy Access Survey",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

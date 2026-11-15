@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-cod-access-to-electricity-who-remains-without-power",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:1",
+   "fact": "The World Bank Atlas says DRC rural electricity access remained extremely low, around 1 percent, between 2015 and 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "World Bank electricity access",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

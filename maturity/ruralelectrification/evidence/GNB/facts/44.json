@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-19-gnb-guinee-bissau-l-electricite-hors-reseau-pour-eclairer-le-monde-rurale",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:15.8",
+   "fact": "The article cites World Bank data estimating rural electricity access at 15.8% in 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "World Bank rural access estimate",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

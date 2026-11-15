@@ -18,7 +18,7 @@ ERI,infra.energy--rural-electrification,2026-11-13,2,official:43.2,,,"In 2024, 4
 ETH,infra.energy--rural-electrification,2026-11-13,2,official:44.8,,,"In 2024, 44.8 per cent of rural people had electricity.",ETH-004,"The latest figure, 44.8 per cent of rural people for 2024, is below 53."
 GAB,infra.energy--rural-electrification,2026-11-13,2,official:51.3,,,"In 2024, 51.3 per cent of rural people had electricity.",GAB-004,"The latest figure, 51.3 per cent of rural people for 2024, is below 53."
 GHA,infra.energy--rural-electrification,2026-11-13,4,official:82.6,,,"In 2024, 82.6 per cent of rural people had electricity.",GHA-004,"The latest figure, 82.6 per cent of rural people for 2024, is below 95."
-GIN,infra.energy--rural-electrification,2026-11-13,2,official:29.4,,,"In 2024, 29.4 per cent of rural people had electricity.",GIN-004,"The latest figure, 29.4 per cent of rural people for 2024, is below 53."
+GIN,infra.energy--rural-electrification,2026-11-15,2,official:29.4,,,"In 2024, 29.4 per cent of rural people had electricity.",GIN-004,"The World Bank's 29.4 per cent for 2024 and the 25.7 per cent cited at the November 2025 national plan round table (GIN-005) disagree across the 27 per cent line; the study reads only the World Bank series. The latest figure, 29.4 per cent of rural people for 2024, is below 53."
 GMB,infra.energy--rural-electrification,2026-11-13,2,official:39.2,,,"In 2024, 39.2 per cent of rural people had electricity.",GMB-004,"The latest figure, 39.2 per cent of rural people for 2024, is below 53."
 GNB,infra.energy--rural-electrification,2026-11-13,1,official:24.9,,,"In 2024, 24.9 per cent of rural people had electricity.",GNB-004,
 GNQ,infra.energy--rural-electrification,2026-11-13,1,official:5.1,,,"In 2024, 5.1 per cent of rural people had electricity.",GNQ-004,
@@ -35,7 +35,7 @@ MUS,infra.energy--rural-electrification,2026-11-13,5,official:100,,,"In 2024, 10
 MWI,infra.energy--rural-electrification,2026-11-13,1,official:6.4,,,"In 2024, 6.4 per cent of rural people had electricity.",MWI-004,
 NAM,infra.energy--rural-electrification,2026-11-13,2,official:41.1,,,"In 2024, 41.1 per cent of rural people had electricity.",NAM-004,"The latest figure, 41.1 per cent of rural people for 2024, is below 53."
 NER,infra.energy--rural-electrification,2026-11-13,1,official:10.8,,,"In 2024, 10.8 per cent of rural people had electricity.",NER-004,
-NGA,infra.energy--rural-electrification,2026-11-13,1,official:23.5,,,"In 2024, 23.5 per cent of rural people had electricity.",NGA-004,
+NGA,infra.energy--rural-electrification,2026-11-15,1,official:23.5,,,"In 2024, 23.5 per cent of rural people had electricity.",NGA-004,"The National Bureau of Statistics' 40.4 per cent of rural households connected, cited in January 2026 (NGA-005), counts households, not rural people, and is not the World Bank series."
 RWA,infra.energy--rural-electrification,2026-11-13,3,official:65.2,,,"In 2024, 65.2 per cent of rural people had electricity.",RWA-004,"The latest figure, 65.2 per cent of rural people for 2024, is below 80."
 SDN,infra.energy--rural-electrification,2026-11-13,3,official:54.2,,,"In 2024, 54.2 per cent of rural people had electricity.",SDN-004,"The latest figure, 54.2 per cent of rural people for 2024, is below 80."
 SEN,infra.energy--rural-electrification,2026-11-13,3,official:67.1,,,"In 2024, 67.1 per cent of rural people had electricity.",SEN-004,"The latest figure, 67.1 per cent of rural people for 2024, is below 80."
@@ -49,7 +49,7 @@ TCD,infra.energy--rural-electrification,2026-11-13,1,official:0.4,,,"In 2023, 0.
 TGO,infra.energy--rural-electrification,2026-11-13,2,official:33.9,,,"In 2024, 33.9 per cent of rural people had electricity.",TGO-004,"The latest figure, 33.9 per cent of rural people for 2024, is below 53."
 TUN,infra.energy--rural-electrification,2026-11-13,5,official:100,,,"In 2024, 100 per cent of rural people had electricity.",TUN-004,All four lines are passed.
 TZA,infra.energy--rural-electrification,2026-11-13,2,official:33.7,,,"In 2024, 33.7 per cent of rural people had electricity.",TZA-004,"The latest figure, 33.7 per cent of rural people for 2024, is below 53."
-UGA,infra.energy--rural-electrification,2026-11-13,2,official:44.8,,,"In 2024, 44.8 per cent of rural people had electricity.",UGA-004,"The latest figure, 44.8 per cent of rural people for 2024, is below 53."
+UGA,infra.energy--rural-electrification,2026-11-15,2,official:44.8,,,"In 2024, 44.8 per cent of rural people had electricity.",UGA-004,"An August 2026 opinion piece's 9.1 per cent (UGA-005) is unsourced and not the World Bank series. The latest figure, 44.8 per cent of rural people for 2024, is below 53."
 ZAF,infra.energy--rural-electrification,2026-11-13,4,official:86.3,,,"In 2024, 86.3 per cent of rural people had electricity.",ZAF-004,"The latest figure, 86.3 per cent of rural people for 2024, is below 95."
 ZMB,infra.energy--rural-electrification,2026-11-13,2,official:31.3,,,"In 2024, 31.3 per cent of rural people had electricity.",ZMB-004,"The latest figure, 31.3 per cent of rural people for 2024, is below 53."
 ZWE,infra.energy--rural-electrification,2026-11-13,2,official:46.6,,,"In 2024, 46.6 per cent of rural people had electricity.",ZWE-004,"The latest figure, 46.6 per cent of rural people for 2024, is below 53."

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-29-ner-mise-en-uvre-de-la-strategie-nationale-dacces-a-lelectricite-rehausser",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:5",
+   "fact": "The Ministry of Energy's statistics put rural electricity access at barely 5 per cent, and the ANPER director general said under 5 per cent in rural areas.",
+   "as_of": "2024-11-28",
+   "date_precision": "day",
+   "system": "",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

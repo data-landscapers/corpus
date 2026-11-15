@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-01-bfa-monitoring-et-regulation-du-service-public-de-lelectricite-en-milieu-r",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:7.2",
+   "fact": "ARSE says Burkina Faso's rural electrification rate rose from 1% in 2003 to 7.2% in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ARSE",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

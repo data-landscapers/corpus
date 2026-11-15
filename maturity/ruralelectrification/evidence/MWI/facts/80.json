@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-19-mwi-lighting-up-malawi-electricity-access-for-nearly-two-million-people-sp",
+ "facts": [
+  {
+   "sub_indicator": "rural",
+   "aspect": "access",
+   "value": "official:4",
+   "fact": "The World Bank says rural electrification in Malawi was 4 percent in 2019, against 42 percent urban.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Malawi Electricity Access Project",
+   "class": "ruralpower"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
