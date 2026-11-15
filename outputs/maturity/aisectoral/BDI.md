@@ -2,7 +2,7 @@
 
 ## AI in sector systems
 
-**AI in service.** The national malaria programme [trained health workers in Cibitoke and Kirundo on 16 July 2025 on an AI app that reads rapid malaria tests](<https://open.enabel.be/en/BDI/2671/3216/u/l-intelligence-artificielle-au-service-du-diagnostic-du-paludisme-au-burundi.html>), which Enabel calls a pilot. A team is [piloting an AI-powered mpox early-warning dashboard in three health districts of Bujumbura](<https://www.ai4d.ai/fr/innovations/ai-powered-surveillance-and-response-network>). Both are pilots in a few districts, run with outside partners; neither is reported at work across the health system, and no tax, customs, education or agriculture system with AI has been found.
+**AI in service.** The national malaria programme [trained health workers in Cibitoke and Kirundo on 16 July 2025 on an AI app that reads rapid malaria tests](<https://open.enabel.be/en/BDI/2671/3216/u/l-intelligence-artificielle-au-service-du-diagnostic-du-paludisme-au-burundi.html>). Enabel calls it a pilot. A team is [piloting an AI-powered mpox early-warning dashboard in three health districts of Bujumbura](<https://www.ai4d.ai/fr/innovations/ai-powered-surveillance-and-response-network>). Both are pilots in a few districts, run with outside partners. Neither is reported at work across the health system. No tax, customs, education or agriculture system with AI has been found.
 
 **Several sectors.** Every AI tool held is in health, and none is in service. The nearest held fact is the [malaria test-reading pilot](<https://open.enabel.be/en/BDI/2671/3216/u/l-intelligence-artificielle-au-service-du-diagnostic-du-paludisme-au-burundi.html>).
 

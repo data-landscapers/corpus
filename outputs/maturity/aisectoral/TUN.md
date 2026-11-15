@@ -10,4 +10,4 @@
 
 ***Also on file***. [SINDA 2](<https://businessnews.com.tn/2026/10/12/douane-lintelligence-artificielle-bientot-utilisee-pour-detecter-les-fraudes-et-controler-les-marchandises/1422415/>).
 
-***Not found***. No source found since October 2023 says AI is in service in the public systems of two or more sectors.
+***Not found***. No source found since October 2023 says AI is in service in public systems of two or more sectors.

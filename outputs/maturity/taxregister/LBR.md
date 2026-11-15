@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing found since October 2023 says whether taxpayers are registered on computer, or that the TIN is shared with business registration or customs.
+***Not found***. Nothing found since October 2023 says whether taxpayers are registered on computer. Nothing found says the TIN is shared with business registration or customs.

@@ -8,4 +8,4 @@
 
 ***Also on file***. [national databank](<https://www.nita.go.ug/sites/default/files/2025-06/NITA-U%20Act%20%28Act%20No.%204%20of%202009%29.pdf>).
 
-***Not found***. No source found says the law in force requires public bodies to share data, to connect to the government's exchange platform, or not to ask a person for what another public body already holds.
+***Not found***. No source found says the law in force requires public bodies to share data. None found says it requires them to connect to the government's exchange platform. None found says it bars them from asking a person for what another public body already holds.

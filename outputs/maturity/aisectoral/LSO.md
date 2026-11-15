@@ -6,7 +6,7 @@
 
 **Several sectors.** Health is the only sector held with AI in service. The nearest held fact elsewhere is the [revenue authority's compliance project](<https://newsdayonline.co.ls/rsl-doubles-down-on-enhancing-tax-compliance/>), which was still being phased in, with no AI output yet described. [In October 2026 Minister Nthati Moorosi said her ministry was developing an AI chatbot with the agriculture ministry to advise farmers through extension services](<https://lestimes.com/?p=91936>).
 
-**Results reported.** Qure.ai reports that by March 2024 its AI had [read over 6,000 scans and identified about 1,100 people with potential TB](<https://www.qure.ai/us/impact-stories/transforming-healthcare-in-lesotho-with-ai-a-case-study-on-combating-tuberculosis>) for laboratory confirmation.
+**Results reported.** Qure.ai reports figures to March 2024. By then its AI had [read over 6,000 scans and identified about 1,100 people with potential TB](<https://www.qure.ai/us/impact-stories/transforming-healthcare-in-lesotho-with-ai-a-case-study-on-combating-tuberculosis>) for laboratory confirmation.
 
 ***Also on file***. None found.
 

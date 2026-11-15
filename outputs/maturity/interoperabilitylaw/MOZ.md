@@ -6,6 +6,6 @@
 
 **Sharing required and the law applied.** The decree [obliges public administration bodies to share the data they hold and to reuse data held by other state bodies](<https://www.intic.gov.mz/wp-content/uploads/2021/04/BR_188_I_SERIE_2017.pdf>). They must reuse data a citizen has already supplied through the interoperability platform, and must use the single platform. The revised regulation had not been adopted by late October 2026. No rule made under the decree since 2023 is recorded. No body is named as exchanging data because the decree requires it.
 
-***Also on file***. [Quadro de Interoperabilidade de Sistemas de Governo Digital (eGIF4M2)](<https://intic.gov.mz/decorre-a-fase-final-da-revisao-do-regulamento-do-quadro-de-interoperabilidade-de-sistemas-de-governo-digital-em-mocambique/>); [Plataforma Comum de Comunicacao de Dados do Governo e de Interoperabilidade](<https://www.intic.gov.mz/wp-content/uploads/2021/04/BR_188_I_SERIE_2017.pdf>).
+***Also on file***. [Quadro de Interoperabilidade de Sistemas de Governo Digital (eGIF4M2)](<https://intic.gov.mz/decorre-a-fase-final-da-revisao-do-regulamento-do-quadro-de-interoperabilidade-de-sistemas-de-governo-digital-em-mocambique/>). [Plataforma Comum de Comunicacao de Dados do Governo e de Interoperabilidade](<https://www.intic.gov.mz/wp-content/uploads/2021/04/BR_188_I_SERIE_2017.pdf>).
 
 ***Not found***. No source found names a regulation, decree or order made under the decree in the last three years. None names a public body exchanging data because it requires them to.

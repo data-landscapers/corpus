@@ -2,7 +2,7 @@
 
 ## AI in sector systems
 
-**AI in service.** Penn Today reports that the government [scaled a machine-learning medicine demand forecasting and allocation tool nationwide](<https://penntoday.upenn.edu/news/transforming-healthcare-logistics-low-cost-ai>), now supporting over 70 products, with ownership fully transferred to the government, as of June 2026. A [pilot in Tonkolili district has used AI ultrasound in routine antenatal visits since 2022](<https://delftimaging.com/resources/webinars/how-ai-ultrasound-babychecker-is-strengthening-pregnancy-monitoring-in-sierra-leone/>), with free scans and risk-based referrals, according to a study presented in 2024.
+**AI in service.** Penn Today reported in June 2026 that the government [scaled a machine-learning medicine demand forecasting and allocation tool nationwide](<https://penntoday.upenn.edu/news/transforming-healthcare-logistics-low-cost-ai>). The tool now supports over 70 products, and ownership has fully transferred to the government. A [pilot in Tonkolili district has used AI ultrasound in routine antenatal visits since 2022](<https://delftimaging.com/resources/webinars/how-ai-ultrasound-babychecker-is-strengthening-pregnancy-monitoring-in-sierra-leone/>). It offers free scans and risk-based referrals, according to a study presented in 2024.
 
 **Several sectors.** Health is the only sector held with AI in service. The nearest held fact is the [nationwide medicine allocation tool](<https://penntoday.upenn.edu/news/transforming-healthcare-logistics-low-cost-ai>); no tax, customs, education or agriculture system with AI has been found.
 

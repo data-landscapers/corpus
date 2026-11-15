@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.
+***Not found***. No source found since October 2023 says refugees or displaced people may use SIM cards or mobile money. None found says they may use digital ID.

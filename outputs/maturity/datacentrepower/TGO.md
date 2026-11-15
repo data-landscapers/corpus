@@ -6,8 +6,8 @@
 
 **A PUE of 1.6 or less published.** [The Lomé Data Centre's own home page states a PUE of 1.4 as its energy efficiency figure](<https://lomedatacentre.tg/en/n-home-page-en/>).
 
-**Water use published, or cooling that uses no water.** No source found from the past three years states the water use of [Lomé Data Centre](<https://lomedatacentre.tg/en/infrastructure>) or any other data centre in service, or cooling that uses none.
+**Water use published, or cooling that uses no water.** No source found from the past three years states the water use of [Lomé Data Centre](<https://lomedatacentre.tg/en/infrastructure>) or any other data centre in service. No source found from that period states cooling that uses no water.
 
 ***Also on file***. None found.
 
-***Not found***. No source found says power is set aside for data centres by a signed contract, a plant built for them or a tariff or zone in force.
+***Not found***. No source found says power is set aside for data centres. The forms looked for were a signed contract, a plant built for them, and a tariff or zone in force.

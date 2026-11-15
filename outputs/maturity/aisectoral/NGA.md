@@ -10,4 +10,4 @@
 
 ***Also on file***. [B'Odogwu](<https://businessday.ng/maritime/article/how-bodogwu-models-global-strategies-to-modernize-nigerian-trade/>); [AI Scaling Hub](<https://nairametrics.com/2025/11/05/funding-gap-threatens-nigerias-ai-growth-despite-strong-implementation-report/>).
 
-***Not found***. No source found since October 2023 says AI is in service in the public systems of two or more sectors.
+***Not found***. No source found since October 2023 says AI is in service in public systems of two or more sectors.
