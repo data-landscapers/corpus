@@ -1,16 +1,17 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "4",
-   "part": "active",
-   "effect": "in-effect",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-002;GHA-011;GHA-006",
-   "gaps": "No source found gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "4",
+      "part": "active",
+      "effect": "in-effect",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-031;GHA-011;GHA-030;GHA-002",
+      "gaps": "No source found gives figures of roaming use, a decision of a joint body or a review of what an agreement delivered.",
+      "note": "Free roaming with Liberia started in July 2026 under an agreement of May 2026, beside roaming with Benin and Togo since 2024, so something agreed is in effect. No figures of use, joint decision or review are held, so not 5.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

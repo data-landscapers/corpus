@@ -1,16 +1,17 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "3",
-   "part": "active",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-001;BFA-005",
-   "gaps": "No source found says a thing the country agreed has been put into effect.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "4",
+      "part": "active",
+      "effect": "in-effect",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-015;BFA-018;BFA-016",
+      "gaps": "No source gives figures of the Sahel free roaming's use, a decision of the regulators' council or a review of what it delivered.",
+      "note": "Niger's regulator head reports free roaming among Burkina Faso, Mali and Niger operational by 25 September 2026, under the regulators' memorandum of November 2024. Nothing reports figures of its use or a review, so it is not stage 5.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

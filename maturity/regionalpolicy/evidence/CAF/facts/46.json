@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-17-cog-partage-d-experience-sur-l-itinerance-mobile-internationale-et-regiona",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "ARCEP Gabon says Gabon signed a roaming protocol of agreement with the Central African Republic in 2021; opening is planned short term.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+   "country_label": "Central African Republic",
+   "class": "other",
+   "platform": "direct SIP links between operators",
+   "owner": "national regulators and operators",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-28-mdg-mwc-24-barcelone-madagascar-rejoint-l-alliance-strategique-pour-l-afri",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "L'Express de Madagascar reports Madagascar formally signed its accession to the Smart Africa Trust Alliance (SATA), an AfCFTA-linked initiative, after a Smart Africa steering committee meeting at MWC Barcelona, represented by its digital minister.",
+   "as_of": "2024-02-27",
+   "date_precision": "day",
+   "system": "Smart Africa Trust Alliance (SATA)",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Africa Trust Alliance (SATA)",
+   "country_label": "Madagascar",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "Smart Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-11-ssd-south-sudan-signs-tlp-protocol-to-work-with-eaco-against-cyber-threats",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "South Sudan signed with the other EACO representatives a communication framework (Traffic Light Protocol) for sharing cyber-threat information among EACO member states, per the Ministry of ICT and Postal Services.",
+   "as_of": "2025-06-11",
+   "date_precision": "day",
+   "system": "EACO Traffic Light Protocol communication framework",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EACO Traffic Light Protocol communication framework",
+   "country_label": "South Sudan",
+   "class": "cooperation",
+   "platform": "encrypted communication channels",
+   "owner": "East African Communication Organization (EACO)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

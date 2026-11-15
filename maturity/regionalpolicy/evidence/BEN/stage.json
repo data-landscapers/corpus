@@ -1,16 +1,17 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "4",
-   "part": "active",
-   "effect": "in-effect",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-004;BEN-006;BEN-005",
-   "gaps": "No source found gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "5",
+      "part": "active",
+      "effect": "in-use",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-027;BEN-029;BEN-025",
+      "gaps": "No figures of roaming traffic are published; the March 2025 review measured call success only.",
+      "note": "A consumer associations' review of March 2025 reports what free roaming with Togo and Ghana delivered in Benin, a review in use inside three years. The December 2025 roaming memorandum with Senegal is the active part.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

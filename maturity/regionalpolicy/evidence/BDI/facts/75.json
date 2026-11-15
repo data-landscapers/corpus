@@ -1,0 +1,36 @@
+{
+ "slug": "2024-08-02-bdi-eac-one-network-area-expands-burundi-entry",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "The EAC says Burundi has entered the EAC One Network Area, under Decree No. 100/202 of 2 October 2023 on its accession.",
+   "as_of": "2024-08-01",
+   "date_precision": "day",
+   "system": "EAC One Network Area",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-effect",
+   "fact": "Burundi's regulator ACRT announced new regional roaming tariffs in force from 1 August 2024 under the ONA accession decree, per the EAC.",
+   "as_of": "2024-08-01",
+   "date_precision": "day",
+   "system": "EAC One Network Area",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EAC One Network Area",
+   "country_label": "Burundi",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "East African Community",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

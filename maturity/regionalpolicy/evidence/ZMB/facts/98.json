@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-01-bwa-bocra-ona-press-release",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-effect",
+   "fact": "BOCRA says Zambia implemented the One Network Area framework jointly with Botswana, with Botswana operators' roaming data prices to Zambian networks cut by 82% to 93%.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "One Network Area (ONA) framework",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

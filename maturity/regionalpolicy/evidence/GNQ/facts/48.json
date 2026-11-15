@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-23-cmr-artac-conference-in-kinshasa-drc",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "The Cameroon regulator (ART) names Equatorial Guinea as one of eight member states of ARTAC.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "ARTAC",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ARTAC",
+   "country_label": "Equatorial Guinea",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "Conference of Central African Telecommunications Regulators",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

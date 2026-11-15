@@ -8,10 +8,10 @@
       "effect": "in-effect",
       "cap": "",
       "flags": "",
-      "stage_sources": "GAB-013;GAB-023",
-      "gaps": "No source found gives figures of the Digital Academy's use, a decision of a joint body or a review of what an agreement delivered.",
-      "note": "The Smart Africa Digital Academy, agreed in March 2026, was launched in Gabon on 2 May 2026, so something agreed is in effect. No figures of its use or review are held, so not 5.",
-      "as_at": "2026-11-01"
+      "stage_sources": "GAB-026;GAB-031;GAB-028;GAB-023;GAB-019",
+      "gaps": "No source found gives figures of roaming or Digital Academy use, a decision of a joint body or a review of what an agreement delivered.",
+      "note": "Free roaming under the CEMAC rule and the One Africa Network is in effect, Gabon reporting 91% of it applied in June 2026, and the Digital Academy was launched in May 2026. An implementation rate is not a figure of use, so not 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

@@ -15,3 +15,12 @@ COG,009,part,member,revalued: active,chairing a council of an African body is a 
 GHA,015,part,member,revalued: active,holding office in a council of an African body is a yes to question 2
 LBR,072,part,member,reworded,"the article gives no date for the restoration, so the fact now says its publication date stands in for one"
 GNQ,005,part,active,revalued: member,"an office in the UN Economic Commission for Africa's statistics commission is neither an African body nor digital policy (reassessed 2026-10-26 and 2026-11-13), so a yes to question 1 only"
+GIN,018,effect,in-effect,removed,"the inaugural meeting of a donor project's coordination committee is the project starting, not a thing the country agreed put into effect; joining WARDIP is held as a yes to question 1 in GIN-017"
+GMB,022,effect,in-effect,removed,"the inaugural meeting of a donor project's coordination committee is the project starting, not a thing the country agreed put into effect; joining WARDIP is held as a yes to question 1 in GMB-021"
+GNB,005,effect,in-effect,removed,"the inaugural meeting of a donor project's coordination committee is the project starting, not a thing the country agreed put into effect; joining WARDIP is held as a yes to question 1 in GNB-004"
+MRT,005,effect,in-effect,removed,"the inaugural meeting of a donor project's coordination committee is the project starting, not a thing the country agreed put into effect; joining WARDIP is held as a yes to question 1 in MRT-004"
+MDG,005,part,active,revalued: member,"signing accession to the Smart Africa Trust Alliance is joining it, a yes to question 1 only; Comoros's accession is held the same way in COM-008"
+TCD,010,part,active,removed,"the Trans-Saharan backbone liaison committee coordinates a shared fibre cable, which the study sets aside as other with its own row; hosting its session is not a meeting of a body that makes digital policy"
+TZA,015,part,active,removed,"a forum on a shared satellite is shared infrastructure, set aside as other like a shared cable; hosting it is not a meeting of a body that makes digital policy"
+UGA,019,part,active,revalued: member,"signing the Smart Africa Trust Alliance declaration is joining it, a yes to question 1 only, as MDG-005"
+MOZ,011,effect,in-effect,removed,"BOCRA's own March 2026 release gives no Mozambique tariffs and says engagements with Mozambique are ongoing, so The African Mirror's claim that Mozambique's operators cut roaming prices is not borne out"

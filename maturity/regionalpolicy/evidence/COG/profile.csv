@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COG,cooperation,part,coverage,active,2026-09-15,COG-001;COG-002;COG-003;COG-004;COG-005;COG-009;COG-012,COG-010=member;COG-011=member;COG-006=member;COG-007=member;COG-008=member,
-COG,cooperation,effect,coverage,,,,,nothing found
+COG,cooperation,part,coverage,active,2026-09-15,COG-001;COG-002;COG-003;COG-004;COG-005;COG-009;COG-012;COG-014;COG-015;COG-016;COG-019,COG-010=member;COG-011=member;COG-006=member;COG-007=member;COG-008=member,
+COG,cooperation,effect,coverage,in-use,2024-12,COG-018,COG-017=in-effect;COG-013=in-effect;COG-020=in-effect,

@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "cooperation",
-      "stage": "3",
+      "stage": "4",
       "part": "active",
-      "effect": "",
+      "effect": "in-effect",
       "cap": "",
       "flags": "",
-      "stage_sources": "MLI-001;MLI-003;MLI-012",
-      "gaps": "No source found says a thing the country agreed has been put into effect; the Council of Sahel Regulators is not reported meeting.",
-      "note": "Mali signed the convention creating the Council of Sahel Regulators, was re-elected to the ATU council and hosted the Sahel States' frequency coordination meeting in November 2026. Nothing agreed is reported in effect, so it is not stage 4.",
-      "as_at": "2026-11-10"
+      "stage_sources": "MLI-014;MLI-016;MLI-011;MLI-003",
+      "gaps": "No source found gives figures of roaming use, a decision of a joint body or a review of what an agreement delivered; the Council of Sahel Regulators is not reported meeting.",
+      "note": "Niger's regulator says free roaming among the three Sahel States, agreed in November 2024, was working by September 2026, so something agreed is in effect. No figures of use or review are held, so not 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-03-xaf-smart-africa-steering-committee-convenes-in-kigali-and-endorses-the-es",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Smart Africa says its 20th Steering Committee Meeting was held in Kigali, Rwanda, on 2 April 2025, co-chaired by the ITU Secretary and the African Union Commissioner for energy and infrastructure.",
+   "as_of": "2025-04-02",
+   "date_precision": "day",
+   "system": "Smart Africa Steering Committee",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Africa",
+   "country_label": "Rwanda",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "Smart Africa Alliance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

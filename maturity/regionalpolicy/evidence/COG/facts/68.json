@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-28-cog-smart-africa-pushes-for-a-unified-e-commerce-policy-across-the-contine",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Congo's Ministry of Posts, Telecommunications and Digital Economy partnered with Smart Africa to host the March 2025 Brazzaville workshop opening the IDECT project, per Ecofin Agency.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "IDECT",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IDECT (Institutional Support to Digital Payments and E-Commerce Policies for Cross-Border Trade)",
+   "country_label": "COG",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "Smart Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

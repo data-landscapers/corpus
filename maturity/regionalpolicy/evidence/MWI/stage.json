@@ -1,16 +1,17 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "3",
-   "part": "active",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-004;MWI-005",
-   "gaps": "No source found says a thing the country agreed has been put into effect.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "4",
+      "part": "active",
+      "effect": "in-effect",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-009;MWI-008;MWI-004",
+      "gaps": "No source found gives figures of use of the cheaper roaming, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.",
+      "note": "Operators in Malawi cut roaming prices under SADC's One Network Area by March 2026, and Malawi's regulator chairs the southern African regulators' association. No figures of use or review are reported, so it is not stage 5.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-06-gha-ecowas-validates-implementation-review-of-its-regulation-on-roaming",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "A Sierra Leone Ministry of Communication Technology and Innovation official, Director of Communications Nyakeh Yormah, chaired the ECOWAS workshop in Accra validating the review of the roaming regulation.",
+   "as_of": "2026-02-03",
+   "date_precision": "day",
+   "system": "ECOWAS Regulation C/REG.21/12/17 on roaming",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ECOWAS Regulation C/REG.21/12/17 on Roaming",
+   "country_label": "Sierra Leone",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "ECOWAS Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

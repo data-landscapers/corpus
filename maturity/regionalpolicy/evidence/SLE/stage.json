@@ -8,10 +8,10 @@
       "effect": "in-effect",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-003;SLE-007",
-      "gaps": "No source found gives figures of the roaming arrangement's use, a decision of a joint body or a review of what it delivered.",
-      "note": "The roaming service with Liberia was introduced in August 2025, so something agreed is in effect. No figures of use or review have been found, so it is not stage 5.",
-      "as_at": "2026-10-27"
+      "stage_sources": "SLE-011;SLE-013;SLE-003;SLE-014",
+      "gaps": "No source found gives figures of the roaming arrangements' use, a decision of a joint body or a review of what they delivered.",
+      "note": "Free roaming with Liberia took effect in August 2025 and a wider launch with Liberia, Ghana and The Gambia was announced in July 2026, so something agreed is in effect. No figures of use or review are reported, so it is not stage 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-22-ner-integration-numerique-l-arcep-niger-celebre-son-25e-anniversaire-avec",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Regulators of Niger, Mali and Burkina Faso signed a memorandum of understanding on free roaming among Alliance of Sahel States members in Niamey, reported by Le Sahel (ONEP).",
+   "as_of": "2024-11-21",
+   "date_precision": "day",
+   "system": "AES free roaming memorandum of understanding",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AES free roaming memorandum of understanding",
+   "country_label": "Mali",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "Regulators of Niger, Mali and Burkina Faso",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

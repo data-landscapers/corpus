@@ -1,16 +1,17 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "3",
-   "part": "active",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-003",
-   "gaps": "No source found says a thing the country agreed has been put into effect.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "4",
+      "part": "active",
+      "effect": "in-effect",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-012;LSO-009;LSO-003",
+      "gaps": "No source found gives figures of roaming use, a decision of a joint body or a review of what an agreement delivered.",
+      "note": "Botswana's regulator reports Lesotho's operators cut roaming prices by 10 to 98.6% under SADC's One Network Area, in early 2026, so something agreed is in effect. A price cut is not a figure of use, so not 5.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

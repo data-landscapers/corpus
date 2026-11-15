@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-05-bdi-kenya-calls-to-burundi-rise-after-one-network-area-entry",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Business Daily reports Burundi entered the East African Community's One Network Area roaming framework in July 2024.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "One Network Area",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-use",
+   "fact": "Business Daily reports calls from Kenya to Burundi lines under the One Network Area rose to a record 1.2 million minutes in the quarter to September 2024, from 849 minutes the previous quarter.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "One Network Area",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Network Area",
+   "country_label": "Burundi",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "East African Community",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

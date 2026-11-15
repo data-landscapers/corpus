@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-18-zaf-africa-tech-festival-defining-moment-for-african-telecoms",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "South Africa's communications minister, with the ministers of Kenya and Uganda and the African Telecommunications Union secretary general, signed a joint communique at the ATU, DCDT and Huawei ministerial forum in Cape Town committing to national cloud, solar micro-grids and rural coverage, as reported by Gadget.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "ATU ministerial forum joint communique",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "African Telecommunications Union",
+   "country_label": "South Africa",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "African Telecommunications Union",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

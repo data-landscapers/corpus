@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-25-bfa-aes-une-convention-pour-renforcer-la-cooperation-entre-les-autorites-e",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "AIB reports that the electronic communications and postal regulators of Burkina Faso, Niger and Mali signed a cooperation protocol in Ouagadougou creating the Conseil des Regulateurs du Sahel, with free roaming as first priority.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Conseil des Regulateurs du Sahel",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Conseil des Regulateurs du Sahel",
+   "country_label": "Burkina Faso",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "ARCEP Burkina Faso, ARCEP Niger and Mali's regulator",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

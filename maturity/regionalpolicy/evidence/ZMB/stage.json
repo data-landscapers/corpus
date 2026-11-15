@@ -1,16 +1,17 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "3",
-   "part": "active",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-001;ZMB-003",
-   "gaps": "No source found says a thing the country agreed has been put into effect.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "4",
+      "part": "active",
+      "effect": "in-effect",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-011;ZMB-012;ZMB-010",
+      "gaps": "No source found gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.",
+      "note": "Roaming charges cut with Botswana and other SADC neighbours under the One Network Area in 2026 put an agreement into effect, on top of the hosted COMESA workshop and the ATU office won. The price cuts are a launch, not reported use, so question 4 is not met.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZAF,cooperation,part,coverage,member,2026-08-17,ZAF-001;ZAF-002;ZAF-003;ZAF-004,,
-ZAF,cooperation,effect,coverage,,,,,nothing held
+ZAF,cooperation,part,coverage,active,2025-06-30,ZAF-005;ZAF-006,ZAF-003=member;ZAF-001=member;ZAF-004=member;ZAF-002=member,
+ZAF,cooperation,effect,coverage,,,,,nothing found

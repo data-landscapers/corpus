@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-15-sen-senegal-signs-agreements-to-eliminate-roaming-charges-with-four-neighb",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Ecofin Agency reports Senegal's regulator ARTP signed a roaming memorandum of understanding with its Benin counterpart on 11 December 2025, effective 1 March 2026.",
+   "as_of": "2025-12-11",
+   "date_precision": "day",
+   "system": "ECOWAS free roaming MoUs",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-effect",
+   "fact": "Ecofin Agency reports free roaming took effect between Ghana and Benin in October 2024, and Togo and Benin have implemented their bilateral agreement.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "ECOWAS free roaming MoUs",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

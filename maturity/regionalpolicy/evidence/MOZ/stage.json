@@ -8,10 +8,10 @@
       "effect": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-003;MOZ-001",
-      "gaps": "No source found says a thing the country agreed has been put into effect.",
-      "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "MOZ-001;MOZ-003;MOZ-005",
+      "gaps": "No source found says a thing the country agreed has been put into effect; Botswana's regulator listed Mozambique in the One Network Area in March 2026 but gave no Mozambique tariffs and said engagements with it were ongoing.",
+      "note": "The June 2026 memorandum with Angola, the CRASA committee meeting hosted in October 2026 and the ANCA-CERT seat are the active part. No roaming cut or other thing agreed is reported in effect in Mozambique, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

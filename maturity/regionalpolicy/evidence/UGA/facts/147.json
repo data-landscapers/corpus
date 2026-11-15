@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-18-uga-uganda-joins-smart-africa-trust-alliance",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "TechReviewAfrica reports Uganda officially joined the Smart Africa Trust Alliance, becoming the 16th country to sign the SATA declaration, announced at a meeting between Smart Africa's CEO and Uganda's ICT Minister.",
+   "as_of": "2025-02-18",
+   "date_precision": "day",
+   "system": "Smart Africa Trust Alliance declaration",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Africa Trust Alliance (SATA)",
+   "country_label": "Uganda",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "Smart Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Document says Uganda ratified the Smart Africa Protocol Agreement but gives no date and no effect at home."
+}

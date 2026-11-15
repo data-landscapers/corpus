@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,cooperation,part,coverage,active,2026-09-21,LBR-001;LBR-003;LBR-007,LBR-073=member;LBR-008=member;LBR-009=member;LBR-002=member;LBR-004=member;LBR-006=member,
-LBR,cooperation,effect,coverage,in-effect,2025-08,LBR-005;LBR-010,,
+LBR,cooperation,part,coverage,active,2026-09-21,LBR-001;LBR-003;LBR-007;LBR-074;LBR-076;LBR-079,LBR-073=member;LBR-008=member;LBR-009=member;LBR-002=member;LBR-004=member;LBR-006=member;LBR-078=member,
+LBR,cooperation,effect,coverage,in-effect,2026-07-17,LBR-005;LBR-010;LBR-075;LBR-077,,

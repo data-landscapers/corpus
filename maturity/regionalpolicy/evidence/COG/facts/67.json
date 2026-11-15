@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-16-cmr-cemac-les-operateurs-recalcitrants-au-free-roaming-menaces-de-mise-en",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-effect",
+   "fact": "ARTAC reported in April 2024 that MTN Congo with MTN Cameroon was one of only two of 213 planned CEMAC operator roaming connections operational.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "CEMAC free roaming regulation",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "The UEAC Council of Ministers held its 45th ordinary session in Brazzaville on 13 June 2026 and recommended notices to operators and regulators delaying free roaming.",
+   "as_of": "2026-06-13",
+   "date_precision": "day",
+   "system": "UEAC Council of Ministers",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CEMAC free roaming regulation",
+   "country_label": "Congo",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "CEMAC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

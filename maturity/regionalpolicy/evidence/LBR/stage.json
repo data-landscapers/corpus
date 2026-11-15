@@ -8,10 +8,10 @@
       "effect": "in-effect",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-005;LBR-001",
-      "gaps": "No source found gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.",
-      "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "LBR-075;LBR-077;LBR-079;LBR-005",
+      "gaps": "No source found gives figures of roaming use, a decision of a joint body or a review of what an agreement delivered.",
+      "note": "Free roaming with Sierra Leone took effect in August 2025 and with Ghana and The Gambia in July 2026, after memoranda signed in Accra in April 2026. No figures of use, joint decision or review are held, so not 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

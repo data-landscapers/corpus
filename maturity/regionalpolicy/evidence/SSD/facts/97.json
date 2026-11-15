@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-13-ssd-south-sudan-hosts-1st-eaco-advisory-council-and-30th-general-assemblie",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "South Sudan's National Communication Authority hosted EACO's 1st Advisory Council and 30th General Assemblies in Juba, and its Director-General Gieth Kon Mathiang took over the EACO chairmanship from Burundi's Samuel Muhizi (iPRIS).",
+   "as_of": "2025-06-13",
+   "date_precision": "day",
+   "system": "EACO",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EACO",
+   "country_label": "National Communication Authority",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "EACO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

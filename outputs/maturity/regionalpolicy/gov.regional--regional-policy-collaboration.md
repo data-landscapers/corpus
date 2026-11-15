@@ -1,6 +1,6 @@
 # Regional policy collaboration: regional cooperation on digital policy
 
-*As at 2026-09-30.*
+*As at 2026-11-15.*
 
 ## The norm
 
@@ -20,15 +20,23 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
-| 4 Operating | 13 |
-| 3 Established | 23 |
-| 2 Nascent | 11 |
+| 5 Leading | 8 |
+| 4 Operating | 21 |
+| 3 Established | 14 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 1 |
 
 ## Countries
+
+### Benin: 5 Leading
+
+Benin has had free roaming with Togo and Ghana since 2024, and a 2025 consumer review found calls worked; traffic figures are not known.
+
+- Togo's official site reports a March 2025 consumer-association evaluation of Togo-Benin-Ghana free roaming found a 100% success rate for calls in Benin from Yas Togo and Moov Africa Togo, with tariff, billing and data issues remaining ([source, 2025-03](https://www.republiquetogolaise.tg/telecoms/2804-10595-free-roaming-entre-le-togo-et-ses-voisins-des-performances-enregistrees)).
+- Ghana's NCA says bilateral ECOWAS free roaming between Ghana and Benin was launched on 9 October 2024, with no extra roaming fees for the first 30 consecutive days of a stay ([source, 2024-10-09](https://nca.org.gh/2024/10/09/ghana-kicks-off-ecowas-free-roaming-with-togo-and-benin/)).
+- Ecofin Agency reports Senegal's regulator ARTP signed a roaming memorandum of understanding with its Benin counterpart on 11 December 2025, effective 1 March 2026 ([source, 2025-12-11](https://www.ecofinagency.com/news-digital/1512-51396-senegal-signs-agreements-to-eliminate-roaming-charges-with-four-neighbours)).
 
 ### Burundi: 5 Leading
 
@@ -36,6 +44,14 @@ Burundi joined East Africa's shared roaming area in 2024, and regional figures f
 
 - EACO reports Burundi's inbound One Network Area voice traffic rose 126% in 2025, from 89.6 million to 202.9 million minutes, and outbound rose 82.4% from 12.1 million to 22.1 million, attributing the rise to Burundi's accession to the ONA roaming framework and reduced roaming tariffs ([source, 2025](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf)).
 - Burundi formally entered the EAC One Network Area on 1 August 2024, with new regulations from its regulator cutting regional roaming tariffs, so calls and data roaming with five other countries are treated as domestic rates ([source, 2024-08-01](https://www.burunditimes.com/burundi-embraces-eac-digital-integration-for-ict-growth/)).
+
+### Congo: 5 Leading
+
+Congo has had free roaming with Gabon since 2019, and its regulator published monthly call counts to 2024.
+
+- The Congo regulator publishes Congo-Gabon roaming call counts from January 2020 to December 2024, for example 81,563 in December 2024 ([source, 2024-12](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2025/0217/Documents/02-Mireille%20Koumous.pdf)).
+- The Congo regulator reports free roaming with Gabon in effect, with call volumes shown before and after its start ([source, 2024-12](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2025/0217/Documents/02-Mireille%20Koumous.pdf)).
+- The Seventh ATU Conference of Plenipotentiaries in Abuja elected the Republic of the Congo to the 25-member Administrative Council of the African Telecommunications Union for the next four-year period; the Congo also put forward a Secretary-General candidate and withdrew him after the third round ([source, 2026-07-24](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/)).
 
 ### Kenya: 5 Leading
 
@@ -81,14 +97,6 @@ Algeria has a joint communications commission with Tunisia, which met for the fo
 - The Algerian-Tunisian Joint Technical Commission on communications and ICT cooperation held its fourth session in Tunisia on 9 June 2026: a joint body set up under the two governments' cooperation and meeting ([source, 2026-06-09](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/)).
 - At the fourth session of the Algerian-Tunisian Joint Technical Commission on communications and ICT cooperation, held in Tunisia and led by Algeria's minister, the two governments agreed several joint projects on connectivity, postal and telecom modernisation and digital innovation; no event date is given, so the published date 2026-06-09 is used ([source, 2026-06-09](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/)).
 
-### Benin: 4 Operating
-
-Benin signed roaming agreements with Senegal and Togo, and free roaming between the three began in April 2026; no source reports figures of its use.
-
-- ARCEP Bénin, ARCEP Togo and ARTP Senegal officially launched free roaming between the three countries in Lomé on 24 April 2026; data in roaming fell from 10,000 to 2 FCFA per MB and call receipt is free for the first 30 days ([source, 2026-04-24](https://arcep.bj/lancement-officiel-du-free-roaming-entre-le-benin-le-senegal-et-le-togo/)).
-- The free roaming arrangement between Senegal, Togo and Benin took effect on 24 April 2026 in Lomé, with free incoming calls for up to 30 consecutive days ([source, 2026-04-24](https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative)).
-- Tech Review Africa says the free roaming agreements were signed by Senegal's regulator head and his counterparts from Togo and Benin; no signing date is given, so the published date is used ([source, 2026-04-27](https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative)).
-
 ### Botswana: 4 Operating
 
 Botswana cut roaming charges with Namibia in 2024 and applied southern Africa's shared roaming tariffs in 2026; no source found reports figures of their use.
@@ -96,6 +104,30 @@ Botswana cut roaming charges with Namibia in 2024 and applied southern Africa's 
 - Botswana's Ministry of Communications and Innovation says Namibia was among the first countries in the region to significantly reduce roaming charges with Botswana; the article gives no date for the cut, so the published date is used ([source, 2026-08-06](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/)).
 - Operators including Orange Botswana, Mascom Wireless and BTC have implemented the new One Network Area roaming tariffs, with cuts of 10% to 98.6% and free incoming SMS across participating countries; Botswana-Zambia data roaming fell by up to 94% ([source, 2026-03-13](https://techafricanews.com/2026/03/13/botswana-and-five-sadc-countries-slash-roaming-tariffs-under-one-network-area-framework/)).
 - Botswana's Minister of Communications and Innovation and Namibia's Minister of ICT signed an ICT cooperation MoU in Kasane on 7 August 2026, covering digital transformation, cybersecurity, ICT infrastructure, connectivity, innovation, skills and emerging technologies ([source, 2026-08-07](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement)).
+
+### Burkina Faso: 4 Operating
+
+Free roaming among Burkina Faso, Mali and Niger, agreed in 2024, was working by September 2026; figures of its use are not known.
+
+- Niger's regulator director general says AES free roaming among Burkina Faso, Mali and Niger was already operational before the regulators' convention was signed on 25 September 2026 ([source, 2026-09-25](https://www.radarsburkina.net/index.php/fr/politique/4017-cooperation-numerique-dans-l-aes-les-regulateurs-passent-de-la-coordination-a-l-action)).
+- Regulators of Niger, Mali and Burkina Faso signed a memorandum of understanding on free roaming among Alliance of Sahel States members in Niamey, reported by Le Sahel (ONEP) ([source, 2024-11-21](https://www.lesahel.org/integration-numerique-larcep-niger-celebre-son-25e-anniversaire-avec-la-signature-dun-memorandum-dentente-sur-le-free-roaming-entre-les-pays-membres-de-l/)).
+- ARCEP Burkina Faso and Ghana's NCA signed a free roaming MoU on 21 November 2025 in Ouagadougou, the NCA says; launch is planned for April 2026 ([source, 2025-11-21](https://nca.org.gh/2025/11/25/ghana-and-burkina-faso-sign-mou-to-drive-affordable-cross-border-mobile-communication/)).
+
+### Cameroon: 4 Operating
+
+Two Cameroonian operators had free roaming links with Congo and Gabon by 2024, of 213 planned in Central Africa; figures of use are not known.
+
+- ARTAC reported in April 2024 that MTN Cameroon with MTN Congo and Airtel Gabon with Orange Cameroun were the only two of 213 planned CEMAC operator roaming connections operational ([source, 2024-04](https://www.agenceecofin.com/actualites-numerique/1606-139332-cemac-les-operateurs-recalcitrants-au-free-roaming-menaces-de-mise-en-demeure)).
+- ARCEP Gabon says Gabon has opened free roaming with Cameroon, in operation on the Gabon side only ([source, 2025-02-17](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2025/0217/Documents/01-Rene%cc%81-Pierre%20Favre.pdf)).
+- Central African telecoms regulators fixed ARTAC's headquarters in Cameroon and gave Cameroon's regulator the right to appoint the executive secretary, at the 20-21 October 2026 Libreville session, per Tech Review Africa ([source, 2026-10-21](https://techreviewafrica.com/news/7974/cameroon-to-host-artac-headquarters-as-central-african-regulators-deepen-digital-coo)).
+
+### Cape Verde: 4 Operating
+
+Cabo Verde's operators charged West Africa's regional roaming tariffs by 2024; how much the roaming is used is not known.
+
+- ECOWAS says Cabo Verde mobile operators provide roaming to citizens travelling in the Community at tariffs in line with the roaming regulation ([source, 2024-11-28](https://www.ecowas.int/16th-meeting-of-focal-points-of-ecowas-national-regulatory-authorities-on-the-implementation-of-regional-roaming-concludes-in-praia-cabo-verde/)).
+- Praia hosted the 16th meeting of ECOWAS NRA focal points on regional roaming, per ECOWAS ([source, 2024-11-28](https://www.ecowas.int/16th-meeting-of-focal-points-of-ecowas-national-regulatory-authorities-on-the-implementation-of-regional-roaming-concludes-in-praia-cabo-verde/)).
+- The Fifth Board of the Network of African Data Protection Authorities, comprising the authorities of Cabo Verde, Cote d'Ivoire and Zimbabwe, signed a declaration proclaiming 21 September as Africa Data Protection Day on 3 September 2026, so Cabo Verde holds a seat on the board (a Zimbabwe regulator official says so, LinkedIn, 2026-09-04) ([source, 2026-09-03](https://www.linkedin.com/posts/tsitsi-mariwo_dataprotection-togetherwecandomore-activity-7501689491284320257-D6sq)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -106,40 +138,80 @@ Cote d'Ivoire's free roaming with Ghana, launched in 2023, cut charges for its s
 
 ### Gabon: 4 Operating
 
-Gabon launched the Smart Africa Digital Academy it had agreed to host in 2026; how far it is used is not known.
+Gabon has free roaming with Central African neighbours and launched the Smart Africa Digital Academy in 2026; how far either is used is not known.
 
-- Gabon's Minister of Digital Economy signed an MoU with the Smart Africa secretariat on 2 March 2026 in Barcelona to deploy the Smart Africa Digital Academy in Gabon, a digital-skills agreement ([source, 2026-03-02](https://www.gabonreview.com/le-gabon-sallie-a-smart-africa-pour-former-les-talents-du-numerique/)).
+- ARCEP Gabon reports free roaming in the CEMAC zone covers 100% of operators in Congo and Equatorial Guinea, 87% in Cameroon, 85% in the Central African Republic and 83% in Chad, and a 91% overall OAN implementation rate for Gabon ([source, 2026-06](https://www.arcep.ga/pages/detail_actu/114)).
+- ARCEP Gabon says Gabon has opened free roaming with Rwanda, Congo, Togo and Cameroon ([source, 2025-02-17](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2025/0217/Documents/01-Rene%cc%81-Pierre%20Favre.pdf)).
+- Gabon and the DRC signed a mobile roaming agreement eliminating cross-border charges on the sidelines of ARTAC's 10th session in Kinshasa, reported by Ecofin Agency, taking effect 30 June 2026 ([source, 2026-02](https://www.ecofinagency.com/news-digital/2502-53256-gabon-drc-to-scrap-cross-border-roaming-charges-from-june-2026)).
 - Gabonactu reports the Smart Africa Digital Academy programme was officially launched in Gabon on 2 May 2026, with an online platform and the Centre gabonais de l'innovation as national hub ([source, 2026-05-02](https://gabonactu.com/blog/2026/05/04/lancement-du-programme-smart-africa-youth-chapter-gabon-sayc-gabon-en-faveur-de-la-jeunesse/)).
+- Gabon hosted the Ministerial Session of the Sixth Ordinary Session of the AU STC-CICT in Libreville on 29 October 2026, per the AU Commission Commissioner's opening remarks ([source, 2026-10-29](https://au.int/en/speeches/20261029/auc-commissioner-6th-au-stc-communication-and-ict-stc-cict)).
 
 ### Gambia: 4 Operating
 
-The Gambia's free roaming with Senegal began in December 2025 and a joint steering committee met in 2026; no source reports figures of their use.
+The Gambia's free roaming with Senegal began in December 2025 and with Liberia in July 2026; no source reports figures of its use.
 
-- The first Steering Committee under the Senegal-Gambia MoU met in Banjul, opened by The Gambia's communications minister, to set a roadmap; the meeting date is not given, so the published date 2026-08-24 is used ([source, 2026-08-24](https://gambiaj.com/economy/policy/gambia-senegal-move-to-implement-digital-cooperation-agreement/)).
+- Liberian subscribers can roam in The Gambia without roaming charges from the launch announced on 17 July 2026 ([source, 2026-07-17](https://www.thenewdawnliberia.com/liberia-launches-free-roaming-service-with-ghana-sierra-leone-and-the-gambia/)).
 - Senegal-Gambia free roaming was introduced in December 2025: travellers receive calls free and make calls at local rates in the visited country for up to 30 days without changing SIM ([source, 2025-12](https://techreviewafrica.com/news/6078/senegal-and-the-gambia-enhance-digital-integration-through-regulatory-cooperation-agreement)).
-- The Gambia Revenue Authority and the Liberia Revenue Authority signed a memorandum of exchange under which Liberia provides technical assistance to build a revenue collection dashboard for the GRA; the signing date is not given, so the published date 2026-09-21 is used ([source, 2026-09-21](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation)).
+- Ecofin Agency reports Senegal's regulator ARTP signed a roaming memorandum of understanding with its Gambian counterpart on 11 December 2025, effective 1 March 2026 ([source, 2025-12-11](https://www.ecofinagency.com/news-digital/1512-51396-senegal-signs-agreements-to-eliminate-roaming-charges-with-four-neighbours)).
+- The first Steering Committee under the Senegal-Gambia MoU met in Banjul, opened by The Gambia's communications minister, to set a roadmap; the meeting date is not given, so the published date 2026-08-24 is used ([source, 2026-08-24](https://gambiaj.com/economy/policy/gambia-senegal-move-to-implement-digital-cooperation-agreement/)).
 
 ### Ghana: 4 Operating
 
-Ghana's free roaming with Benin and Togo started in 2024, and it joined a cross-border digital identity pilot; no source reports figures of their use.
+Ghana's free roaming with Benin and Togo started in 2024 and with Liberia in 2026; no source reports figures of its use.
 
-- Smart Africa's Director General says a cross-border digital identity pilot between Rwanda, Ghana and Benin has already been launched and shown to work; no date of launch is given, so the published date is used ([source, 2026-08-11](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty)).
+- Liberian subscribers can roam in Ghana without roaming charges from the launch announced on 17 July 2026 ([source, 2026-07-17](https://www.thenewdawnliberia.com/liberia-launches-free-roaming-service-with-ghana-sierra-leone-and-the-gambia/)).
 - A free roaming agreement involving Ghana, Togo and Benin was launched in October 2024, per the article ([source, 2024-10](https://www.connectingafrica.com/connectivity/ghana-burkina-faso-tackle-cross-border-signal-interference)).
-- The Liberia Telecommunications Authority reports that Liberia, Ghana and Sierra Leone signed their entry into the ECOWAS Free Roaming Agreement, to remove roaming charges among the three; the page carries no date, so 2026-02-20 is the published date ([source, 2026-02-20](https://lta.gov.lr/liberia-ghana-sierra-leone-move-toward-borderless-mobile-communication/)).
+- Ghana concluded a free roaming agreement with Liberia in May 2026, the New Dawn reports ([source, 2026-05](https://www.thenewdawnliberia.com/liberia-launches-free-roaming-service-with-ghana-sierra-leone-and-the-gambia/)).
+- Smart Africa's Director General says a cross-border digital identity pilot between Rwanda, Ghana and Benin has already been launched and shown to work; no date of launch is given, so the published date is used ([source, 2026-08-11](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty)).
+
+### Lesotho: 4 Operating
+
+Lesotho's operators cut roaming prices under southern Africa's One Network Area in 2026; how much the roaming is used is not known.
+
+- The African Mirror reports, citing BOCRA, that mobile operators in Lesotho introduced roaming price cuts of 10 to 98.6 per cent under SADC's One Network Area ([source, 2026-03](https://theafricanmirror.africa/news/cheaper-cross-border-call-rates-beckon-on-lower-tariffs-push/)).
+- Lesotho's Minister Nthati Moorosi was named as outgoing Chair of the AU STC-CICT Bureau at its sixth session, 29 October 2026 ([source, 2026-10-29](https://au.int/en/speeches/20261029/auc-commissioner-6th-au-stc-communication-and-ict-stc-cict)).
+- Lesotho hosted the sixth SADC countries cyber drill and Africa-CERT meeting in Maseru, opened by the Principal Secretary of the ICT ministry, with the SADC Secretariat represented ([source, 2025-11-04](https://www.lena.gov.ls/ramashamole-officiates-sadc-cyber-drill/)).
 
 ### Liberia: 4 Operating
 
-Liberia's free roaming with Sierra Leone began in August 2025; no source found reports figures of its use.
+Liberia's free roaming with Sierra Leone began in 2025 and with Ghana and The Gambia in 2026; no source reports figures of its use.
 
+- Liberia's Telecommunications Authority launched free roaming with Ghana, Sierra Leone and The Gambia on 17 July 2026, the New Dawn reports ([source, 2026-07-17](https://www.thenewdawnliberia.com/liberia-launches-free-roaming-service-with-ghana-sierra-leone-and-the-gambia/)).
+- The Liberia Telecommunications Authority says the Liberia-Sierra Leone free roaming agreement takes effect the Wednesday after 4 August 2025, with calls at local rates across the border ([source, 2025-08-06](https://lta.gov.lr/liberia-and-sierra-leone-roll-out-free-roaming-agreement/)).
+- Ghana's NCA says Liberia signed bilateral free-roaming MoUs with Ghana and Sierra Leone at the tripartite ECOWAS roaming meeting in Accra, aligned with revised ECOWAS regulations ([source, 2026-04-30](https://nca.org.gh/2026/05/05/tripartite-ecowas-roaming-meeting-concludes-with-key-commitments-to-seamless-regional-connectivity/)).
 - Liberia and Sierra Leone launched a free roaming arrangement in August 2025, letting subscribers travelling between them communicate at local rates; it has since extended to other West African countries with technical implementation progressing ([source, 2025-08](https://allafrica.com/stories/202609040182.html)).
-- The Liberia Revenue Authority and the Gambia Revenue Authority signed a memorandum of engagement under which LRA gives technical assistance to build a revenue collection dashboard prototype in The Gambia; the document gives no signing date, so its publication date is used ([source, 2026-09-21](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation)).
+
+### Malawi: 4 Operating
+
+Operators in Malawi cut roaming prices under SADC's shared network area in 2026; figures of its use are not known.
+
+- The African Mirror reports, citing BOCRA, that mobile operators in Malawi introduced roaming price cuts of 10 to 98.6 per cent under SADC's One Network Area ([source, 2026-03](https://theafricanmirror.africa/news/cheaper-cross-border-call-rates-beckon-on-lower-tariffs-push/)).
+- ZICTA says operators in the One Network Area, which includes Malawi, cut roaming tariffs by 3 to 93 percent and signed new bilateral roaming agreements ([source, 2026-06](https://www.zambiamonitor.com/zambia-five-sadc-states-cut-mobile-roaming-charges-in-push-for-regional-connectivity/)).
+- Broadcast Media Africa reports that Malawi's regulator MACRA currently holds the rotating CRASA chairpersonship and is hosting the three-day 46th CRASA Executive Committee meeting in Mangochi, which opened as of the report date ([source, 2026-09-16](https://news.broadcastmediaafrica.com/2026/09/16/southern-african-regulators-call-for-more-agile-digital-regulation/)).
+
+### Mali: 4 Operating
+
+Free roaming among Mali, Burkina Faso and Niger was working by September 2026; how much it is used is not known.
+
+- Niger's regulator director general says AES free roaming among Burkina Faso, Mali and Niger was already operational before the regulators' convention was signed on 25 September 2026 ([source, 2026-09-25](https://www.radarsburkina.net/index.php/fr/politique/4017-cooperation-numerique-dans-l-aes-les-regulateurs-passent-de-la-coordination-a-l-action)).
+- Regulators of Niger, Mali and Burkina Faso signed a memorandum of understanding on free roaming among Alliance of Sahel States members in Niamey, reported by Le Sahel (ONEP) ([source, 2024-11-21](https://www.lesahel.org/integration-numerique-larcep-niger-celebre-son-25e-anniversaire-avec-la-signature-dun-memorandum-dentente-sur-le-free-roaming-entre-les-pays-membres-de-l/)).
+- Startup Medias reports the AES digital roadmap, 16 of 18 deliverables finalised, was adopted in Ouagadougou on 5 November 2026 by delegations of Burkina Faso, Mali and Niger, the Malian delegation head presenting the tally ([source, 2026-11-05](https://startupmedias.africa/articles/aes-feuille-de-route-numerique-an-ii-burkina-mali-niger)).
+- At the ATU Plenipotentiary Conference in Abuja (23 to 24 July 2026) Mali was re-elected a member of the ATU Administrative Council for the 2027-2031 term; the communique gives no more exact election date ([source, 2026-07](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/)).
 
 ### Namibia: 4 Operating
 
-Namibia cut roaming charges with Botswana and signed a cooperation memorandum with it in August 2026; no source found reports figures of use.
+Namibia cut roaming charges with Botswana in August 2024 and signed a cooperation memorandum with it in 2026; figures of use are not known.
 
 - Botswana's ministry says Namibia was among the first countries in the region to significantly reduce roaming charges with Botswana; the article gives no date for the reduction, so the published date is used ([source, 2026-08-06](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/)).
 - Namibia's regulator CRAN hosted the first Legal and Policy Committee meeting of the Communications Regulators' Association of Southern Africa, held 10 to 12 August 2026, on AI governance, data governance and protection and digital public infrastructure ([source, 2026-08-10](https://techreviewafrica.com/news/6684/crasa-legal-and-policy-committee-opens-meeting-on-ai-data-governance-and-regional-ict-regulation)).
+
+### Niger: 4 Operating
+
+Free roaming among Niger, Burkina Faso and Mali, agreed in 2024, was working by September 2026; figures of its use are not known.
+
+- Niger's regulator director general says AES free roaming among Burkina Faso, Mali and Niger was already operational before the regulators' convention was signed on 25 September 2026 ([source, 2026-09-25](https://www.radarsburkina.net/index.php/fr/politique/4017-cooperation-numerique-dans-l-aes-les-regulateurs-passent-de-la-coordination-a-l-action)).
+- Regulators of Niger, Mali and Burkina Faso signed a memorandum of understanding on free roaming among Alliance of Sahel States members in Niamey, reported by Le Sahel (ONEP) ([source, 2024-11-21](https://www.lesahel.org/integration-numerique-larcep-niger-celebre-son-25e-anniversaire-avec-la-signature-dun-memorandum-dentente-sur-le-free-roaming-entre-les-pays-membres-de-l/)).
+- AIB reports that the electronic communications and postal regulators of Burkina Faso, Niger and Mali signed a cooperation protocol in Ouagadougou creating the Conseil des Regulateurs du Sahel, with free roaming as first priority ([source, 2026-09-25](https://www.aib.media/?p=167411)).
 
 ### Senegal: 4 Operating
 
@@ -153,8 +225,10 @@ Senegal's roaming arrangement took effect in April 2026 and a regional backbone 
 
 Sierra Leone introduced free roaming with Liberia in 2025 and signed more roaming agreements in 2025 and 2026; no figures of its use are known.
 
+- Liberian subscribers can roam in Sierra Leone without roaming charges from the launch announced on 17 July 2026 ([source, 2026-07-17](https://www.thenewdawnliberia.com/liberia-launches-free-roaming-service-with-ghana-sierra-leone-and-the-gambia/)).
+- The Liberia Telecommunications Authority says the Liberia-Sierra Leone free roaming agreement takes effect the Wednesday after 4 August 2025, with calls at local rates across the border ([source, 2025-08-06](https://lta.gov.lr/liberia-and-sierra-leone-roll-out-free-roaming-agreement/)).
 - Liberia, Ghana and Sierra Leone entered the ECOWAS Free Roaming Agreement at a signing ceremony, to remove roaming charges among the three; the page carries no date, so the published date 2026-02-20 is used ([source, 2026-02-20](https://lta.gov.lr/liberia-ghana-sierra-leone-move-toward-borderless-mobile-communication/)).
-- Ecofin Agency reports on 26 October 2026 that Liberia and Sierra Leone introduced their roaming service in August 2025 ([source, 2025-08](https://www.ecofinagency.com/news-digital/2610-60121-west-africa-struggles-to-deliver-free-roaming-nearly-nine-years-after-regional-agreement)).
+- A Sierra Leone Ministry of Communication Technology and Innovation official, Director of Communications Nyakeh Yormah, chaired the ECOWAS workshop in Accra validating the review of the roaming regulation ([source, 2026-02-03](https://www.ecowas.int/ecowas-validates-implementation-review-of-its-regulation-on-roaming/)).
 
 ### Togo: 4 Operating
 
@@ -170,32 +244,27 @@ Tunisia has a joint communications commission with Algeria, which met for the fo
 - The Algerian-Tunisian Joint Technical Commission on communications and ICT cooperation held its fourth session in Tunisia on 9 June 2026: a joint body set up under the two governments' cooperation and meeting ([source, 2026-06-09](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/)).
 - Tunisia's National Frequency Agency hosted the Third African Preparatory Meeting for WRC-27 (APM27-3) in Tunis, coordinated by the African Telecommunications Union, with African governments and regulators attending; the document is dated 2026-09-17 and says the four-day meeting began that September ([source, 2026-09](https://www.cyberera.com.ng/african-delegations-demand-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/)).
 
+### Zambia: 4 Operating
+
+Zambia's operators cut roaming charges with Southern African neighbours in 2026; figures of use are not known.
+
+- ZICTA says operators in the One Network Area, which includes Zambia, cut roaming tariffs by 3 to 93 percent and signed new bilateral roaming agreements ([source, 2026-06](https://www.zambiamonitor.com/zambia-five-sadc-states-cut-mobile-roaming-charges-in-push-for-regional-connectivity/)).
+- BOCRA says Zambia implemented the One Network Area framework jointly with Botswana, with Botswana operators' roaming data prices to Zambian networks cut by 82% to 93% ([source, 2026-03](https://www.bocra.org.bw/sites/default/files/BOCRA_ONA_Press_Release.pdf)).
+- COMESA reports that Zambia hosted, with World Bank support, the 3-5 November 2026 Lusaka workshop at which 15 member states validated the Regional Digital Inclusion Strategy and Action Plan ([source, 2026-11-05](https://www.comesa.int/regional-digital-inclusion-strategy-and-action-plan-validated/)).
+
+### Zimbabwe: 4 Operating
+
+Zimbabwe's operators cut roaming charges under the Southern African single network area in 2026; figures of use are not known.
+
+- The African Mirror reports, citing BOCRA, that mobile operators in Zimbabwe introduced roaming price cuts of 10 to 98.6 per cent under SADC's One Network Area ([source, 2026-03](https://theafricanmirror.africa/news/cheaper-cross-border-call-rates-beckon-on-lower-tariffs-push/)).
+- Spiked Media reports Zimbabwe's ICT ministry hosted in Harare a three-day workshop on data policy harmonisation for Southern African governments, co-organised by Smart Africa Alliance, UNESCO and the World Bank; the article gives no day for the event and is dated 2026-08-16 ([source, 2026-08](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/)).
+
 ### Angola: 3 Established
 
 Angola signed a communications agreement with Mozambique and hosted southern African radio and cyber meetings in 2026; nothing agreed is known to be in effect.
 
 - Angola hosted the five-day Third SADC Preparatory Meeting for the ITU World Radiocommunication Conference 2027 in Luanda, which was concluding on 7 August 2026 as SADC members worked on common positions on spectrum, satellite and broadcasting, according to CRASA ([source, 2026-08-07](https://www.linkedin.com/posts/crasa-secretariat-communications-regulators-association-of-southern-africa_sadc-crasa-wrc27-activity-7491456518320721920-81Dp)).
 - Angola hosted in Luanda the third SADC preparatory meeting for the 2027 World Radiocommunication Conference, held 3 to 7 August 2026, supported by its telecommunications ministry; the meeting date is the event date, and the report is dated 6 August ([source, 2026-08-03](https://angop.ao/en/noticias/sociedade/sadc-harmoniza-posicao-para-conferencia-mundial-de-radio/)).
-
-### Burkina Faso: 3 Established
-
-Burkina Faso signed a convention with Mali and Niger in 2026 creating a council of Sahel regulators; nothing agreed is known to be in effect.
-
-- ARCEP Burkina Faso, Mali's AMRTP and ARCEP Niger signed a cooperation convention creating the Conseil des régulateurs du Sahel; the document gives no signing date, so the date is its publication date, 2026-09-26 ([source, 2026-09-26](https://lefaso.net/spip.php?article149528)).
-- Burkina Faso's regulator ARCEP hosted the 4th Working Groups Meeting of WATRA, the West Africa Telecommunications Regulators Assembly (16 member states), in Ouagadougou, concluding on 2026-04-12 (the article of 13 April says 'yesterday'), where the groups finalised reports on 5G, cable resilience, cybersecurity, consumer protection and NGSO satellites ([source, 2026-04-12](https://guardian.ng/news/watra-rallies-africa-for-regions-216b-digital-economy/)).
-
-### Cameroon: 3 Established
-
-Cameroon was chosen in October 2026 to host the Central African regulators' headquarters; nothing agreed is known to be in effect.
-
-- Central African telecoms regulators fixed ARTAC's headquarters in Cameroon and gave Cameroon's regulator the right to appoint the executive secretary, at the 20-21 October 2026 Libreville session, per Tech Review Africa ([source, 2026-10-21](https://techreviewafrica.com/news/7974/cameroon-to-host-artac-headquarters-as-central-african-regulators-deepen-digital-coo)).
-- Central African telecoms regulators fixed ARTAC's headquarters in Cameroon and gave Cameroon's regulator the right to appoint the executive secretary, at the 20-21 October 2026 Libreville session, per ART Cameroon ([source, 2026-10-21](https://www.art.cm/fr/article/leadership-num%C3%A9rique-le-cameroun-choisi-pour-abriter-le-si%C3%A8ge-de-l%E2%80%99artac)).
-
-### Cape Verde: 3 Established
-
-Cabo Verde's data protection authority sits on the board of Africa's network of such authorities, as of 2026; nothing is known to be in effect.
-
-- The Fifth Board of the Network of African Data Protection Authorities, comprising the authorities of Cabo Verde, Cote d'Ivoire and Zimbabwe, signed a declaration proclaiming 21 September as Africa Data Protection Day on 3 September 2026, so Cabo Verde holds a seat on the board (a Zimbabwe regulator official says so, LinkedIn, 2026-09-04) ([source, 2026-09-03](https://www.linkedin.com/posts/tsitsi-mariwo_dataprotection-togetherwecandomore-activity-7501689491284320257-D6sq)).
 
 ### Chad: 3 Established
 
@@ -209,13 +278,6 @@ Chad hosted a regional internet governance forum in October 2026 and initialled 
 The regulator reported cooperation agreements with four African regulators in 2025; nothing agreed is known to be in effect.
 
 - ANRTIC says it has signed cooperation agreements with the regulators of Madagascar, Senegal, Morocco and Mauritius for technical collaboration and skills exchange; signing dates not given ([source, 2025-07](https://www.itu.int/itu-d/meetings/gsr-25/wp-content/uploads/sites/33/2025/07/GSR-25_Contribution_Best-practice-Guidelines_ANRTIC-Comoros2_E.pdf)).
-
-### Congo: 3 Established
-
-Congo won a seat on the African telecommunications union's council in July 2026; nothing agreed is known to be in effect.
-
-- A two-day regional workshop on a common framework for national emergency telecommunications plans opened in Brazzaville on 15 September 2026, convened by the ITU, the Assembly of Central Africa telecom regulators (ARTAC) and Congo's ARPCE, with eight ECCAS states taking part ([source, 2026-09-15](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621)).
-- Congo's media regulator CSLC and DR Congo's CSAC signed a memorandum of understanding in Kinshasa at the close of talks on 19-20 August 2026, covering technical cooperation on regulating media and digital platforms and joint action on disinformation; the signing day is not given, so the last day of talks is used ([source, 2026-08-20](https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340)).
 
 ### DR Congo: 3 Established
 
@@ -250,27 +312,6 @@ Guinea hosted Smart Africa's summit in November 2025 and signed a roaming protoc
 - Sierra Leone's regulator NatCA and Guinea signed a protocol introducing free mobile roaming between the two countries at the 15th Session of the African Council of Regulators (CAR-15), held alongside the Transform Africa 2025 Summit; the source is dated 2025-11-17 and gives no exact signing day ([source, 2025-11](https://natca.gov.sl/2025/11/17/the-republic-of-sierra-leone-signs-free-roaming-agreement-with-republic-of-guinea-to-ease-cross-border-connectivity/)).
 - Smart Africa's account says Guinea hosted the 7th Transform Africa Summit in Conakry in November 2025 (closing 19 November), with over 7,000 participants and 45 ministers; the document gives no single date for the event as a whole ([source, 2025-11](https://smartafrica.org/fr/le-transform-africa-summit-2025-confirme-la-dynamique-continentale-pour-une-afrique-digitale-unie-et-souveraine-depuis-la-guinee)).
 
-### Lesotho: 3 Established
-
-Lesotho joined Smart Africa in 2025 and hosted southern Africa's cyber drill in Maseru that November; nothing agreed is known to be in effect.
-
-- Lesotho hosted the sixth SADC countries cyber drill and Africa-CERT meeting in Maseru, opened by the Principal Secretary of the ICT ministry, with the SADC Secretariat represented ([source, 2025-11-04](https://www.lena.gov.ls/ramashamole-officiates-sadc-cyber-drill/)).
-
-### Malawi: 3 Established
-
-Malawi's regulator chairs southern Africa's regulators' association and hosted its meetings in 2026; nothing agreed is known to be in effect.
-
-- Broadcast Media Africa reports that Malawi's regulator MACRA currently holds the rotating CRASA chairpersonship and is hosting the three-day 46th CRASA Executive Committee meeting in Mangochi, which opened as of the report date ([source, 2026-09-16](https://news.broadcastmediaafrica.com/2026/09/16/southern-african-regulators-call-for-more-agile-digital-regulation/)).
-- Telecompaper reports that Macra's director general Mayamiko Nkoloma, as CRASA chairperson, opened and urged SADC regulators to keep frameworks current at the 46th CRASA executive committee meeting; the outlet gives no meeting date, so the published date 2026-09-16 is used ([source, 2026-09-16](https://www.telecompaper.com/news/macra-says-sadc-watchdogs-should-keep-regulatory-frameworks-up-to-date-with-tech-developments--1582805)).
-
-### Mali: 3 Established
-
-Mali signed a convention with Burkina Faso and Niger in 2026 creating a council of Sahel regulators; nothing agreed is known to be in effect.
-
-- The telecoms regulators of Burkina Faso, Mali (AMRTP) and Niger signed a cooperation convention creating the Conseil des regulateurs du Sahel, covering harmonised rules, free roaming, border spectrum coordination and joint positions in the ITU; the article gives no signing date, so its published date 2026-09-26 is used ([source, 2026-09-26](https://lefaso.net/spip.php?article149528)).
-- At the ATU Plenipotentiary Conference in Abuja (23 to 24 July 2026) Mali was re-elected a member of the ATU Administrative Council for the 2027-2031 term; the communique gives no more exact election date ([source, 2026-07](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/)).
-- Maliweb reports that Mali's regulator AMRTP hosted the Alliance of Sahel States' second coordination meeting on military frequencies in border areas in Bamako, 2-4 November 2026, with Burkina Faso and Niger delegations ([source, 2026-11-02](https://www.maliweb.net/economie/developpement/aes-frequences-militaires-des-experts-de-la-confederation-en-conclave-3121278.html)).
-
 ### Mauritania: 3 Established
 
 Mauritania's data protection authority signed a cooperation convention with Morocco's in January 2026; nothing agreed is known to be in effect.
@@ -286,17 +327,11 @@ Morocco won a seat on the African telecommunications union's council in July 202
 
 ### Mozambique: 3 Established
 
-Mozambique signed a communications memorandum with Angola in June 2026; nothing agreed is known to be in effect.
+Mozambique signed a communications memorandum with Angola in 2026; nothing it agreed is known to be in effect.
 
-- Mozambique's regulator INCM hosted in Maputo on 6 October 2026 a capacity workshop for members of the Electronic Communications Committee of CRASA, the Communications Regulators' Association of Southern Africa, ahead of that committee's first ordinary meeting there on 7-9 October 2026 ([source, 2026-10-06](https://mznews.co.mz/en/incm-acolhe-workshop-sobre-tecnologias-de-satelite/)).
 - Mozambique and Angola signed a memorandum of understanding on cooperation in communications, ICT, information and meteorology (technical and institutional cooperation, exchange of expertise, best practices for digital transformation), and a second on the space sector, on Monday 22 June 2026 in Maputo; the article is dated 2026-06-23 ([source, 2026-06-22](https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity)).
-
-### Niger: 3 Established
-
-Niger signed a convention with Burkina Faso and Mali in 2026 creating a council of Sahel regulators, and its data protection authority chairs Africa's network.
-
-- ARCEP Niger signed, with the telecoms regulators of Burkina Faso and Mali, a cooperation convention creating the Conseil des regulateurs du Sahel; the article gives no signing date, so the date is its publication date, 2026-09-26 ([source, 2026-09-26](https://lefaso.net/spip.php?article149528)).
-- Niger's data protection authority HAPDP chairs the African Network of Personal Data Protection Authorities (RAPDP) until 2026, presiding over its monthly bureau meetings and annual general assemblies; the interview gives no election date, so the date is its publication, 2025-07-28 ([source, 2025-07-28](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/)).
+- Mozambique's regulator INCM hosted in Maputo on 6 October 2026 a capacity workshop for members of the Electronic Communications Committee of CRASA, the Communications Regulators' Association of Southern Africa, ahead of that committee's first ordinary meeting there on 7-9 October 2026 ([source, 2026-10-06](https://mznews.co.mz/en/incm-acolhe-workshop-sobre-tecnologias-de-satelite/)).
+- INTIC reports Mozambique's INTIC was elected on 12 October 2026 to the ANCA-CERT Management Committee, representing Southern Africa, at the 8th ANCA meeting in Rabat ([source, 2026-10-12](https://intic.gov.mz/mocambique-eleito-para-o-comite-de-gestao-da-anca-cert-em-representacao-da-africa-austral/)).
 
 ### Nigeria: 3 Established
 
@@ -311,19 +346,12 @@ Seychelles signed a digital trade memorandum with the African free trade area's 
 
 - A memorandum of understanding on digital trade was signed between the AfCFTA secretariat, Quest Ghana Limited and the government of Seychelles during the AfCFTA secretary general's visit shortly before 17 March 2026, positioning Seychelles as the AfCFTA digital trade hub; the exact signing date is not given, so the article's publication month is used ([source, 2026-03](https://www.nation.sc/articles/29842/seychelles-set-to-become-digital-trade-hub-of-afcfta)).
 
-### Zambia: 3 Established
+### South Africa: 3 Established
 
-A Zambian was elected secretary general of the African telecommunications union in July 2026; nothing agreed is known to be in effect.
+South Africa signed a digital cooperation declaration with Eswatini in 2025; nothing agreed is known to be in effect.
 
-- The African Telecommunications Union Conference of Plenipotentiaries (CPL-26, Abuja, 23-24 July 2026) elected Eng. Kezias Kazuba Mwale of Zambia as Secretary General with 21 of 34 votes in the fourth round, to take office on 1 January 2027 for four years ([source, 2026-07-24](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/)).
-- Delegates at the ATU Conference of Plenipotentiaries (CPL-26, Abuja, closed 24 July 2026) elected Engr. Kezias Kazuba Mwale of Zambia as the Union's next Secretary-General with 21 of 34 votes in the final round, taking office on 1 January 2027 for four years ([source, 2026-07-24](https://thesun.ng/africa-commits-to-affordable-connectivity-cybersecurity-under-new-abuja-declaration/)).
-
-### Zimbabwe: 3 Established
-
-Zimbabwe's minister chairs Smart Africa's council of ICT ministers, as of 2026; nothing agreed is known to be in effect.
-
-- Spiked Media reports Zimbabwe's ICT ministry hosted in Harare a three-day workshop on data policy harmonisation for Southern African governments, co-organised by Smart Africa Alliance, UNESCO and the World Bank; the article gives no day for the event and is dated 2026-08-16 ([source, 2026-08](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/)).
-- Spiked Media reports Zimbabwe's ICT minister currently chairs Smart Africa's Council of ICT Ministers; no date for taking the chair is given, so the article's publication date is used ([source, 2026-08-16](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/)).
+- Eswatini's and South Africa's ICT ministers signed a Declaration of Intent in Pretoria on ICT policy harmonisation, broadband, AI, cybersecurity and data protection, e-government and digital skills, as the basis for a later MoU ([source, 2025-06-30](https://techafricanews.com/2025/06/30/eswatini-and-south-africa-sign-digital-cooperation-pact-to-accelerate-regional-transformation/)).
+- South Africa's communications minister, with the ministers of Kenya and Uganda and the African Telecommunications Union secretary general, signed a joint communique at the ATU, DCDT and Huawei ministerial forum in Cape Town committing to national cloud, solar micro-grids and rural coverage, as reported by Gadget ([source, 2024-11](https://gadget.co.za/africantelecoms24m/)).
 
 ### Central African Republic: 2 Nascent
 
@@ -384,13 +412,6 @@ Somalia consulted operators in 2025 on East Africa's shared roaming area but had
 
 - The National Communications Authority held a national consultation with licensed operators on Somalia's roadmap for joining the East African Community's One Network Area, a phased alignment of national laws and tariffs with regional standards; adoption is described as still to be completed ([source, 2025-09-18](https://nca.gov.so/national-communications-authority-conducts-consultation-on-somalias-adoption-of-the-one-network-area-ona/)).
 - An EAC ICT and performance management professional told an EALA oversight meeting that Somalia had yet to implement the 2014 One Network Area roaming framework, though it had formally committed to aligning its domestic regulations with it ([source, 2026-11-03](https://www.the-star.co.ke/news/2026-11-03-eac-moves-to-slash-cross-border-call-data-charges)).
-
-### South Africa: 2 Nascent
-
-South Africa pays dues to the African telecommunications union, budgeted for 2026; no digital agreement signed or seat won is known.
-
-- South Africa hosted and chaired the 46th Ordinary SADC Summit in eThekwini, closing it on 17 August 2026 with a chairship priority of One-Stop Border Posts and digitised border systems; the article is dated 18 August ([source, 2026-08-17](https://www.sanews.gov.za/south-africa/sadc-seeks-turn-borders-gateways-trade-travel-and-regional-integration)).
-- Delegates from South Africa took part in the SADC Regional Workshop on Data Governance in the Digital Age in Harare, hosted by Zimbabwe's ICT ministry on data policy harmonisation; the document gives no event date, so the published date 2026-08-13 is used ([source, 2026-08-13](https://itweb.africa/article/sadc-puts-spotlight-on-ai-data-governance/JN1gP7OAw5wqjL6m)).
 
 ### Sudan: 2 Nascent
 

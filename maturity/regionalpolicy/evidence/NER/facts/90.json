@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-22-bfa-le-burkina-faso-et-ses-voisins-renforcent-la-connectivite-transfrontal",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Niger hosted the Niamey meeting in October 2025 where the AES border frequency coordination framework was drafted with Mali and Burkina Faso.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "AES frequency coordination framework",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AES frequency coordination framework",
+   "country_label": "Niger",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "AES",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

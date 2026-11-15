@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MDG,cooperation,part,coverage,member,2026-10-20,MDG-001;MDG-002;MDG-003;MDG-004,,
-MDG,cooperation,effect,coverage,,,,,nothing held
+MDG,cooperation,part,coverage,active,2024-02-27,MDG-005,MDG-004=member;MDG-003=member;MDG-001=member;MDG-002=member,
+MDG,cooperation,effect,coverage,,,,,nothing found

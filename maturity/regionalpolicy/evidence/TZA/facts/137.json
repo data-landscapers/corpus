@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-17-tza-sadc-stakeholders-review-satellite-plans-in-dar-forum",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Tanzania hosted the five-day 2026 SADC shared satellite forum in Dar es Salaam, opened by minister Angellah Kairuki, with SADC secretariat, ITU and ATU taking part.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "SADC shared satellite forum",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC shared satellite framework",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "SADC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

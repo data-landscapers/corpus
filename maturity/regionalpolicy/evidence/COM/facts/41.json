@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-22-xaf-atu-constitution-ratification-status-22-jan-2026",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "The ATU ratification status table lists Comoros among the Union's member states, with only the 1977 PATU convention signed and no signature of the 1999 Constitution.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "African Telecommunications Union",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

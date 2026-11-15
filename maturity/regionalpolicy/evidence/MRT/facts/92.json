@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-15-mrt-the-economic-community-of-west-african-states-ecowas-convenes-the-regi",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "ECOWAS says Mauritania is one of the implementers of the first series of the World Bank-funded WARDIP, running 2024 to 2028 with the ECOWAS Commission, the African Union and Smart Africa.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "WARDIP",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-effect",
+   "fact": "ECOWAS says the WARDIP Regional Project Coordination Committee held its inaugural meeting on 11 November 2025, with Mauritania among the implementing countries.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "WARDIP Regional Project Coordination Committee",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

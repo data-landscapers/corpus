@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-13-bwa-crasa-legal-and-policy-committee-meeting-advances-regional-data-govern",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "TechReviewAfrica reports Botswana was among eleven SADC states whose delegates attended the Communications Regulators Association of Southern Africa (CRASA) Legal and Policy Committee meeting, held at CRASA's head office in Botswana.",
+   "as_of": "2025-03-13",
+   "date_precision": "day",
+   "system": "CRASA Legal and Policy Committee",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CRASA",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "CRASA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

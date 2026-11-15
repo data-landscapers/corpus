@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-xwa-telecoms-les-obstacles-a-la-generalisation-du-free-roaming-en-afrique",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Agence Ecofin reports Burkina Faso, Mali and Niger concluded a roaming agreement under the AES Confederation in November 2024, its operation announced for January 2025 with no recent confirmation.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "AES roaming agreement",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AES roaming agreement",
+   "country_label": "Niger",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,16 +1,17 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "4",
-   "part": "active",
-   "effect": "in-effect",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-005;GMB-007;GMB-002",
-   "gaps": "No source found gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "4",
+      "part": "active",
+      "effect": "in-effect",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-019;GMB-007;GMB-020;GMB-005",
+      "gaps": "No source found gives figures of roaming use, a decision of a joint body or a review of what an agreement delivered.",
+      "note": "Free roaming with Senegal from December 2025 and with Liberia from July 2026 is in effect, and the steering committee with Senegal has met. No figures of use, joint decision or review are held, so not 5.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }
