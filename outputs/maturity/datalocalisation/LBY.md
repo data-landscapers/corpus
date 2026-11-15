@@ -8,4 +8,4 @@
 
 ***Also on file***. [Libyan Spider Tripoli data center](<https://libyanspider.com/libyan-spider-opens-new-data-center-in-tripoli-to-enhance-security-and-availability/>).
 
-***Not found***. No source from the last three years naming an organisation ordered, penalised or exempted under the rule, or counting those that have moved data to comply, is held.
+***Not found***. No organisation ordered, penalised or exempted under the rule has been found from the last three years. No count of those that have moved data to comply has been found.

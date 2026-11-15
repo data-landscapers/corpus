@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.
+***Not found***. No budget line or universal service fund allocation tied to the plan has been found for the last three years. No financed programme tied to it has been found either.

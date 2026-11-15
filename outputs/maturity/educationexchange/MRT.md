@@ -6,7 +6,7 @@
 
 **One learner identifier across education systems.** No source found since October 2023 says one learner identifier is used across education systems. The nearest fact: [in July 2025 certificates were linked to the holder's national number, not to a learner identifier](<https://ami.mr/fr/archives/276019>).
 
-**Linked to the national ID or another sector.** [The education ministry launched a service on the Houwiyati platform to extract and confirm national certificates, available for certificates issued after 2013 or already linked to the holder's national number (NNI) by the ministry; the AMI report gives no figures](<https://ami.mr/fr/archives/276019>).
+**Linked to the national ID or another sector.** [The education ministry launched a service on the Houwiyati platform to extract and confirm national certificates](<https://ami.mr/fr/archives/276019>). [It covers certificates issued after 2013 or already linked to the holder's national number (NNI) by the ministry](<https://ami.mr/fr/archives/276019>). [The AMI report gives no figures](<https://ami.mr/fr/archives/276019>).
 
 ***Also on file***. [Siraj (سراج)](<https://www.tefassil.mr/ar/node/8801>).
 

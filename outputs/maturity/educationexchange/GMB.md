@@ -8,6 +8,6 @@
 
 **Linked to the national ID or another sector.** No source found since October 2023 says learner records are linked to the national ID or another sector. The nearest fact: [in July 2026 the education and health ministries agreed to link the EMIS with the HMIS](<https://gambiana.com/mobse-and-health-ministry-sign-deal-to-link-education-and-health-data-systems/>).
 
-***Also on file***. [national EMIS](<https://education.dhis2.org/gpe-kix-study-tour/>); [EMIS (aggregate data), DHIS2](<https://education.dhis2.org/implementation/the-gambia/>); [SEMIS App (individual learner module)](<https://education.dhis2.org/implementation/the-gambia/>); [DHIS2-based Education Management Information System (Tracker)](<https://dhis2.org/gambia-emis-tracker/>); [Teacher Attendance System (SMS-based)](<https://dhis2.org/gambia-emis-tracker/>); [School Report Card (digitised)](<https://dhis2.org/gambia-emis-tracker/>).
+***Also on file***. [national EMIS](<https://education.dhis2.org/gpe-kix-study-tour/>). [EMIS (aggregate data), DHIS2](<https://education.dhis2.org/implementation/the-gambia/>). [SEMIS App (individual learner module)](<https://education.dhis2.org/implementation/the-gambia/>). [DHIS2-based Education Management Information System (Tracker)](<https://dhis2.org/gambia-emis-tracker/>). [Teacher Attendance System (SMS-based)](<https://dhis2.org/gambia-emis-tracker/>). [School Report Card (digitised)](<https://dhis2.org/gambia-emis-tracker/>).
 
 ***Not found***. No source found since October 2023 says two education systems exchange data in use.
