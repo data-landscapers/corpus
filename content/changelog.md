@@ -1,5 +1,6 @@
 ## 15 November 2026
 
+- The maturity map's changes box now lists every stage move since 10 November for every indicator, not only those already reviewed whole. Moves made before an indicator's review are no longer hidden.
 - Rwanda rises from 3 to 5 on censuses and surveys (data.statistics--censuses-and-surveys): the main results of its 2022 census were published in 2023. A demographic and health survey published results in 2026, which meets the last step.
 - Tanzania rises from 3 to 5 on censuses and surveys (data.statistics--censuses-and-surveys): its 2022 census report came out within 45 days of collection, and a labour force survey published results in 2026. Whether the census report gave preliminary or final results has not been found.
 - Mali rises from 4 to 5 on the statistics strategy (data.statistics--national-strategy-for-development-of-statistics): SDS IV was reviewed in 2026, and the strategy before it was evaluated in February 2025. No formal adoption of SDS IV's 2026-2030 action plan has been found; an October 2026 cabinet note took note of it.
