@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: XWA
-ledger_rows: 30
+ledger_rows: 31
 not_held: 1
-record: 6b5ff3ca175d
+record: 88b2e8cfd70b
 ---
 
 # News, Oct – Nov 2026
@@ -603,6 +603,20 @@ Up to 100 SMEs in Benin, Gambia, Guinea, 2026-2028; China-World Bank facility ba
 **[Accra Welcomes the Second Cohort of the COYWA Programme to Strengthen the Digital and Financial Skills of Young People and Women Entrepreneurs](https://www.ecowas.int/accra-welcomes-the-second-cohort-of-the-coywa-programme-to-strengthen-the-digital-and-financial-skills-of-young-people-and-women-entrepreneurs/)** — ECOWAS Commission, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
 ECOWAS, AUDA-NEPAD and the Spanish development agency AECID held the second COYWA training session in Accra from 26 to 30 October 2026. Young and women entrepreneurs were trained in digital tools, online security, financial skills and the use of AI. The session followed an online phase that began on 23 September.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS Women in Cybersecurity programme and network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité: Rabat accueille une initiative dédiée aux femmes africaines](https://fr.apanews.net/security/cybersecurite-rabat-accueille-une-initiative-dediee-aux-femmes-africaines/)** — APAnews - Agence de Presse Africaine, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
+
+Rabat, 16-20 Nov 2026; DGSSI, Smart Africa and World Bank; ECOWAS women's cyber network to launch at close.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: TUN
-ledger_rows: 46
+ledger_rows: 47
 not_held: 4
-record: 3334fb2c4aaa
+record: caddf5d5abc2
 ---
 
 # News, Oct – Nov 2026
@@ -547,6 +547,20 @@ Tunisia's ICT minister told parliament on 6 November 2026 that his ministry plan
 **[Tunisie : 356,8 millions $ pour la transformation numérique en 2027 face à des défis persistants](https://www.agenceecofin.com/actualites-numerique/0911-143235-tunisie-356-8-millions-pour-la-transformation-numerique-en-2027-face-a-des-defis-persistants)** — Agence Ecofin, 9 November 2026
 
 Summarised under [Domestic budget appropriations and expenditure](#domestic-budget-appropriations-and-expenditure).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Labes electronic health insurance card (CNAM)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[بطاقة "لاباس".. متى ينطلق العمل بها؟](https://www.assabahnews.tn/ar/%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/%d9%88%d8%b7%d9%86%d9%8a%d8%a9/1121904-%d8%a8%d8%b7%d8%a7%d9%82%d8%a9-%d9%84%d8%a7%d8%a8%d8%a7%d8%b3-%d9%85%d8%aa%d9%89-%d9%8a%d9%86%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a8%d9%87%d8%a7%d8%9f/)** — Assabah News, 14 November 2026
+
+Completion due mid-2027; distributed since 2019, not yet universal; QR code opens CNAM member record.
 
 </div>
 

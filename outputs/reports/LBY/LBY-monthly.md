@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-15
+period: 2026-10-01 to 2026-11-15
 place: LBY
-ledger_rows: 26
+ledger_rows: 27
 not_held: 3
-record: d552b8b21e44
+record: d2aaa65a32cd
 ---
 
 # News, Oct – Nov 2026
@@ -386,6 +386,20 @@ Libya's Ministry of Economy and Trade launched the National Trade Facilitation E
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unified Digital System for Chambers of Commerce</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[إطلاق المرحلة الثانية من المنظومة الرقمية الموحدة للاتحاد العام لغرف التجارة والصناعة والزراعة](https://lana.gov.ly/post.php?id=370039&lang=ar)** — Libyan News Agency (LANA), 14 November 2026
+
+Certificates of origin applied for and issued online for chamber members nationwide; launched 11 Nov 2026.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -465,6 +479,14 @@ Libya's Authority for Scientific Research signed a memorandum with the office of
 **[الشروط والأحكام | منصة البيانات المفتوحة](https://opendata.gia.gov.ly/terms.html)** — General Information Authority (Libya), 11 November 2026
 
 The terms of Libya's open data platform, run by the General Information Authority, allow reuse of its data for lawful purposes with attribution to the platform and dataset. They bar re-identification of individuals, provide the data without warranty, and allow datasets to be changed or withdrawn without notice. The page names no standard licence (checked 11 November 2026).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[الهيئة العامة للمعلومات تستعرض دور التحول الرقمي في تعزيز تنافسية الاقتصاد الليبي](https://lana.gov.ly/post.php?id=370037&lang=ar)** — Libyan News Agency (LANA), 14 November 2026
+
+Open data platform at 166 datasets (Nov 2026); national data distributor pitched for government interoperability.
 
 </div>
 
