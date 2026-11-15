@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-14-fnh-maroc-intelligence-artificielle-jusqu-ou",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "Finances News Hebdo says Morocco has a national digital transformation strategy to the 2030 horizon.",
+   "as_of": "2026-11-14",
+   "date_precision": "day",
+   "system": "stratégie nationale de transformation numérique",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
