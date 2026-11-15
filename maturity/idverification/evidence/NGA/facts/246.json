@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-04-nga-25m-nigerian-poor-get-cash-payments-enabled-by-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The federal cash transfer to about 25 million people on the national social register verifies beneficiaries using their NIN and BVN, per the report.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "NIN and BVN verification of cash transfer beneficiaries",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

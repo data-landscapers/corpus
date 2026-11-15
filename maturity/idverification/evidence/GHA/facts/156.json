@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-01-gha-electronic-communications-numbering-resources-registration-faqs",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Ministry of Communication says the new SIM registration exercise will verify every registration in real time against the NIA database, with no entity yet engaged and procurement pending.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "SIM (Numbering Resources) Registration",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM (Numbering Resources) Registration",
+   "country_label": "Ghana",
+   "class": "relying",
+   "platform": "",
+   "owner": "National Communications Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

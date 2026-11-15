@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-uga-nin-is-tin",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "URA says the NIN-to-TIN initiative links national identity to tax administration to strengthen taxpayer authentication and verification, rolled out in phases to January 2027.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "NIN is TIN",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
