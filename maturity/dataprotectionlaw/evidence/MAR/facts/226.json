@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-14-fnh-maroc-intelligence-artificielle-jusqu-ou",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Finances News Hebdo says Morocco has a legal framework in law 09-08 on protection of individuals in personal data processing.",
+   "as_of": "2026-11-14",
+   "date_precision": "day",
+   "system": "Loi 09-08",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "Finances News Hebdo says Morocco has the CNDP as supervisory commission alongside law 09-08.",
+   "as_of": "2026-11-14",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

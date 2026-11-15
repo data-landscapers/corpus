@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-01-zwe-legislative-and-regulatory-reform-in-zimbabwes-digital-sector-a-rights",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "MISA Regional says Zimbabwe enacted the Cyber and Data Protection Act in 2021, which it describes as providing guidance on collection, storage, use and transfer of personal data.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Cyber and Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "MISA Regional says the Act designates POTRAZ as the data protection authority.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "POTRAZ",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act",
+   "country_label": "Zimbabwe",
+   "class": "general",
+   "platform": "",
+   "owner": "Government of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

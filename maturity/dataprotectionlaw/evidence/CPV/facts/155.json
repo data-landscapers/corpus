@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-cpv-coopstat-janeiro-julho-january-july-2024",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "INE Portugal's COOPSTAT n.º 25 reports that INE-CV met Cabo Verde's National Data Protection Commission, with its Chairman Faustino Varela and a member present.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Comissão Nacional de Proteção de Dados de Cabo Verde",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

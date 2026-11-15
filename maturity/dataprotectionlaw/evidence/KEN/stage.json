@@ -7,14 +7,14 @@
       "authority": "constituted",
       "standing": "in-force",
       "regulations": "issued",
-      "application": "applied",
+      "application": "reported",
       "last12": "advancing",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "KEN-022;KEN-002;KEN-004;KEN-015;KEN-053;KEN-018;KEN-001",
-      "gaps": "No edition of the ODPC bulletin after March 2025 is held; without one the cell returns to 4. No commencement date for the Act is given.",
-      "note": "Restaged under Bill's ruling of 2026-10-31 (messages-for-bill 54): in force with a constituted authority, named sanctions (KEN-015, September 2024; KEN-053, February 2026), and the ODPC's numbered data bulletin counts its determinations and penalties to March 2025 (KEN-018), so stage 5 though its figures are running totals. If no later edition is found, the cell returns to 4.",
-      "as_at": "2026-11-12"
+      "stage_sources": "KEN-022;KEN-002;KEN-004;KEN-015;KEN-053;KEN-060;KEN-018;KEN-001;KEN-057",
+      "gaps": "No yearly count after 2024 is held; the bulletin's figures to March 2025 are running totals. No commencement date for the Act is given. The commissioner leaves office on 16 November 2026 with a successor nominated.",
+      "note": "In force with a constituted authority and named sanctions (KEN-015, September 2024; KEN-053, February 2026), and an April 2025 analysis counts 51 ODPC determinations in 2024 (KEN-060), a reported year ending inside two years, so stage 5 without resting on the bulletin read under messages-for-bill 54. The 2024 count holds stage 5 only to the end of 2026.",
+      "as_at": "2026-11-15"
     }
   ]
 }

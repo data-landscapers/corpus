@@ -181,6 +181,8 @@ DZA,Cybercrime Act (Loi n° 09-04),Algeria,sectoral,,,,2026-11-10-africa-technol
 DZA,Personal Data Protection Act (Loi n° 18-07),Algeria,general,,,,2026-11-10-africa-technology-policy-tracker-2026-11-10
 DZA,Loi n° 18-07 du 10 juin 2018,Algeria,general,,,,2026-11-10-global-cyberlaw-tracker-2026-11-10
 DZA,Loi N°18-07 du 10 juin 2018 relative à la protection des personnes physiques dans le traitement des données à caractère personnel,Algeria,general,,,,2025-12-18-worldbank-govtech-dataset-dec2025
+DZA,ANPDP,Algeria,authority,,,,2026-11-12-dza-anpdp-deliberation-05-cv-data
+DZA,Law 18-07,Algeria,general,,,,2026-11-12-dza-anpdp-deliberation-05-cv-data
 EGY,Personal Data Protection Law No. 151 of 2020,Personal Data Protection Law (PDPL),general,,,,2026-10-07-egypt-personal-data-protection-law-update
 EGY,Executive Regulations of the PDPL (Decree No. 816 of 2025),PDPL Executive Regulations,regulation,,Minister of Telecommunications and Information Technology,,2026-10-07-egypt-personal-data-protection-law-update
 EGY,Personal Data Protection Center (PDPC),Personal Data Protection Center,authority,,,,2026-10-07-egypt-personal-data-protection-law-update
@@ -217,6 +219,7 @@ GAB,Loi n°001/2011 relative à la protection des données à caractère personn
 GAB,CNPDCP,Gabon,authority,,,,2011-10-24-gab-jo-74-loi-001-2011-protection-donnees-personnelles
 GAB,Protection of Personal Data law (2023),Gabon,general,,,,2026-11-10-africa-technology-policy-tracker-2026-11-10
 GAB,APDPVP,Gabon,authority,,,,2026-11-10-gabon-port-gentil-lapdpvp-lance-une-campagne-de-sensibilisation-a-la-p
+GAB,Loi n° 025/2023 du 12 juillet 2023 modifiant la loi n° 001/2011,Gabon,general,,,,2026-11-12-donnees-personnelles-lapdpvp-sensibilise-a-port-gentil
 GHA,Data Protection Commission,Data Protection Commission (DPC),authority,,"Data Protection Commission, Ghana",national,2026-10-04-gha-gna-dpc-spot-checks-enforcement-act-843
 GHA,Data Protection Commission,Data Protection Commission (DPC),authority,,"Data Protection Commission, Ghana",national head office; regional offices planned in five regions by end 2026,2026-08-21-ghana-news-data-protection-commission-acquires-vehicles-boost
 GHA,Data Protection Commission,Data Protection Commission - Ghana,authority,,"Data Protection Commission, Ghana",,2026-02-27-minister-data-protection-foundation-techreview
@@ -625,6 +628,7 @@ SWZ,Data Protection Commission,Data Protection Commission,authority,,,,2022-03-0
 SWZ,Eswatini Data Protection Act 2022,Eswatini,general,,,,2024-06-01-swz-edpa-notice-4-2024-enforcement-notice-in-terms-of-section-41-of-the-es
 SWZ,Data Protection Act 2022,Eswatini,general,,,,2025-01-01-swz-general-notice-no-8-2025-notice-of-non-compliance-enforcement-actions
 SWZ,EDPA (Eswatini Communications Commission),Eswatini,authority,,,,2025-01-01-swz-general-notice-no-8-2025-notice-of-non-compliance-enforcement-actions
+SWZ,data protection office,Eswatini,authority,,government,,2026-04-09-swz-untouchables-legal-bottlenecks-cripple-corruption-fight-acc-advisor
 SYC,"Data Protection Act, 2023","Data Protection Act, 2023",general,,National Assembly of Seychelles (enacting); Information Commission (oversight),all organisations and public bodies,2026-02-06-infocom-seychelles-data-protection-page
 SYC,"Data Protection Act, 2023","Data Protection Act, 2023",general,,National Assembly of Seychelles (enacting); Information Commission (oversight),all organisations and public bodies,2026-01-28-infocom-data-protection-day-2026
 SYC,"Data Protection Act, 2023","Data Protection Act, 2023",general,,National Assembly of Seychelles (enacting); Information Commission (oversight),all organisations and public bodies,2025-11-10-infocom-atia-reform-whitepaper
@@ -778,3 +782,4 @@ ZWE,Cyber and Data Protection Act,Zimbabwe,general,,,,2025-07-01-zwe-potraz-cert
 ZWE,POTRAZ,Zimbabwe,authority,,,,2025-07-01-zwe-potraz-certifies-700-data-protection-officers
 ZWE,Cyber and Data Protection Act,Zimbabwe,general,,,,2026-10-28-zwe-it-must-create-jobs-improve-services-minister
 ZWE,Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ),Zimbabwe,authority,,,4 licence tiers by number of data subjects,2024-11-09-zwe-misa-zimbabwe-analysis-and-position-on-new-data-regulations
+ZWE,Cyber and Data Protection Act,Zimbabwe,general,,Government of Zimbabwe,,2026-07-01-zwe-legislative-and-regulatory-reform-in-zimbabwes-digital-sector-a-rights

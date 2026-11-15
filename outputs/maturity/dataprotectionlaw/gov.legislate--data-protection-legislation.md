@@ -64,7 +64,7 @@ Gabon's 2023 data protection law is in force and its authority reported 12 sanct
 
 ### Kenya: 5 Leading
 
-Kenya's 2019 Data Protection Act is in force; its commissioner fines businesses and publishes a regular bulletin counting decisions.
+Kenya's 2019 Data Protection Act is in force and its commissioner issued 51 determinations in 2024; no later yearly count is known.
 
 *Advancing.*
 
@@ -73,8 +73,10 @@ Kenya's 2019 Data Protection Act is in force; its commissioner fines businesses 
 - The Star reports the Data Protection (Registration of Data Controllers and Data Processors) Regulations, 2021 are in force under the Act, setting 24-month registration certificates and making processing on an expired certificate an offence ([source, 2026-08-28](https://www.the-star.co.ke/news/2026-08-28-odpc-gives-data-handlers-14-days-to-renew-expired-certificates)).
 - Cadmus Cyber Solutions states that, as at September 2024, the ODPC had fined at least nine businesses a total of KES 26,275,000 under the Data Protection Act and Regulations, including Oppo Kenya (2022, KES 5m) and SBM Bank (2024, KES 450,000) ([source, 2024-09](https://www.cadmuscyber.com/public/insight/kenyan-businesses-fined-over-kes-26-million-for-data-privacy-violations)).
 - Amnesty Kenya says in February 2026 the ODPC ordered St Luke's Orthopaedic Hospital to compensate patients and ordered an events company to pay KES 300,000 for using a woman's photograph without consent ([source, 2026-02](https://www.amnestykenya.org/kenyas-digital-rights-journey-half-year-scorecard/)).
+- TechTrendsKE reports an April 2025 analysis counting 51 ODPC determinations in 2024 ([source, 2024](https://techtrendske.co.ke/2026/11/13/kenya-data-protection-law-ai-regulation/)).
 - The ODPC bulletin states that as of March 2025 the Office had received 7,128 complaints and resolved 97 percent, issued 215 determinations, imposed penalties on 10 entities, issued 103 compensations and settled 39 other cases through ADR (a cumulative count, no single year stated) ([source, 2025-03](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf)).
 - TechTrends KE reports the Office of the Data Protection Commissioner was established under the Data Protection Act, 2019, with inaugural commissioner Immaculate Kassait in office since 2020 and a Senior Deputy Data Commissioner serving; the Public Service Commission shortlisted 13 of 152 applicants to succeed her ([source, 2026-09-30](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/)).
+- The ODPC established under the Data Protection Act 2019 is operating, with Kassait as outgoing commissioner and a successor nominated on 10 November 2026 ([source, 2026-11-10](https://techtrendske.co.ke/2026/11/13/kenya-data-protection-law-ai-regulation/)).
 
 ### Mali: 5 Leading
 
@@ -540,10 +542,12 @@ Namibia has no data protection law; a cabinet committee approved the bill in 202
 
 ### Sierra Leone: 2 Nascent
 
-Sierra Leone has no data protection law; a bill Cabinet approved in April 2026 was tabled in Parliament in November 2026.
+Sierra Leone has no data protection law; its bill passed second reading in November 2026 and is in committee; its passage date is not known.
 
 *Advancing.*
 
+- Parliament approved the second reading of the Data Protection and Right to Access Information Bill, 2026, and committed it to the Legislative Committee, with the Speaker directing a public call for position papers (Concord Times) ([source, 2026-11-12](https://sierraleoneconcordtimes.com/parliament-commits-data-protection-bill-to-legislative-committee-by-jariatu-s-bangura/)).
+- Parliament referred the Data Protection and Right to Access Information Bill, 2026, introduced by the Minister of Information and Civic Education, to Committee Stage after debate, and A-Z Multimedia says it has not yet been passed into law ([source, 2026-11-13](https://a-zsl.com/parliament-refers-data-protection-bill-for-further-scrutiny/)).
 - Information Minister Chernor Bah tabled the Data Protection and Right to Access Information Bill, 2026 in Parliament, which completed Introduction and First Reading (SierraLoaded; tabling date not stated) ([source, 2026-11-06](https://sierraloaded.sl/news/information-tables-data-protection-bills/)).
 - Cabinet approved a National Data Protection Policy, approved the repeal of the Right to Access Information Commission Act and authorised enactment of a new Data Protection and Right to Access Information Act, with the Ministry of Information and Civic Education and the Attorney-General's office to finalise and table the Bill in Parliament; announced by the Information Minister on 21 April 2026 ([source, 2026-04-21](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/)).
 - CHRDI, via SierraLoaded, says the Data Protection and Right of Access to Information Bill, 2026, developed with a ministry technical steering committee, was preparing to go before Parliament on 5 November 2026 ([source, 2026-11-04](https://sierraloaded.sl/local/data-protection-bill-parliament-chrdi-advocacy/)).

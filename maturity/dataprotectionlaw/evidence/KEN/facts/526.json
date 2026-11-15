@@ -1,0 +1,47 @@
+{
+ "slug": "2026-11-13-ken-data-protection-law-ai-era-test",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The ODPC established under the Data Protection Act 2019 is operating, with Kassait as outgoing commissioner and a successor nominated on 10 November 2026.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "TechTrendsKE says the Data Protection Act 2019 has been implemented for six years, with Kassait seeking amendments.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "Data Protection Act 2019",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "Kassait says the ODPC took enforcement actions against the Ministry of Agriculture and Migori County Assembly, undated.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "reported",
+   "fact": "TechTrendsKE reports an April 2025 analysis counting 51 ODPC determinations in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

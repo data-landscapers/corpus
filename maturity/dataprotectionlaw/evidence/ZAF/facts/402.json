@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-zwe-zim-sa-sign-data-protection-agreement",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "South Africa's Information Regulator, led by a chief executive officer and chairperson, is stated to have a mandate to enforce access to information and protection of personal information.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

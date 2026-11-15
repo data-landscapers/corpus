@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-ken-kenya-startup-bill-status-and-what-it-means",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Hackhouse says section 18 of Kenya's Data Protection Act 2019 requires data controllers and processors above set thresholds to register with the Data Commissioner.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "Data Protection Act 2019",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

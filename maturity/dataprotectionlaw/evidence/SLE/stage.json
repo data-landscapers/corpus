@@ -11,10 +11,10 @@
       "last12": "advancing",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "SLE-012;SLE-001;SLE-010",
-      "gaps": "No law is enacted: the Bill was tabled and read a first time in Parliament in November 2026 (SLE-012). No regulations or application have been found, and no source states they are absent.",
-      "note": "Standing is tabled, the Bill before Parliament after its first reading in November 2026 (SLE-012), which is stage 2; stage 3 needs the law enacted. The authority exists only in the Bill, so no law provides it and authority is none.",
-      "as_at": "2026-11-07"
+      "stage_sources": "SLE-018;SLE-017;SLE-012;SLE-001;SLE-010",
+      "gaps": "No law is enacted: the Bill passed its second reading on 12 November 2026 and is before the Legislative Committee (SLE-018, SLE-017). No regulations or application have been found, and no source states they are absent.",
+      "note": "Standing is tabled: the Bill passed second reading and was committed to the Legislative Committee in November 2026 (SLE-018), which is stage 2; stage 3 needs the law enacted. The authority exists only in the Bill, so no law provides it and authority is none.",
+      "as_at": "2026-11-15"
     }
   ]
 }
