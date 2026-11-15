@@ -9,10 +9,10 @@
       "standing": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-001",
-      "gaps": "No source found since October 2023 says: does a local institution publish on it.",
-      "note": "ESEPARC's August 2024 digital readiness survey, inside the window, shows digital policy research begun. No research published by a local institution since October 2023 is held, so not 3.",
-      "as_at": "2026-11-12"
+      "stage_sources": "SWZ-002;SWZ-001",
+      "gaps": "No research published by a local institution since October 2023 is held; ESEPARC's May 2025 findings for the science park regulations were preliminary and presented at a workshop, not published.",
+      "note": "Reassessed 2026-11-15, stays 2: ESEPARC presented preliminary research for the Royal Science and Technology Park regulations at a workshop with the Ministry of ICT on 13 May 2025 (SWZ-002), research begun as its 2024 survey was. No local publication is held, so question 2 is unmet and the ladder stops at 2.",
+      "as_at": "2026-11-15"
     }
   ]
 }

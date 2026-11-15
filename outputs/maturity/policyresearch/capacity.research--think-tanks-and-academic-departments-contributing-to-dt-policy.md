@@ -203,8 +203,9 @@ A university centre held a roundtable on responsible AI in 2025; published resea
 
 ### Eswatini: 2 Nascent
 
-Research on digital policy had begun in 2024; published research by a local institution is not on record.
+A local research centre ran a digital readiness survey in 2024 and research for science park rules in 2025; published research is not known.
 
+- ESEPARC, a local policy research centre, co-convened with the Ministry of ICT a national consultative workshop on 13 May 2025 presenting preliminary research findings for regulations on the Royal Science and Technology Park ([source, 2025-05-13](https://www.separc.co.sz/2025/05/16/powering-innovation-stakeholders-unite-to-shape-rstp-regulations/)).
 - ESEPARC, a local policy research centre, with the Ministry of ICT and UNDP launched a Digital Readiness Assessment survey running 21 August to 13 September 2024 ([source, 2024-08-21](https://www.separc.co.sz/2024/08/28/eswatini-embarks-on-a-digital-revolution-unveiling-the-digital-readiness-assessment/)).
 
 ### Ethiopia: 2 Nascent
