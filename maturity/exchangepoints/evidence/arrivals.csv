@@ -787,7 +787,7 @@ COG,43,2025-07-01-cog-observatoire-du-marche-de-l-internet-mobile-rapport-du-2e-
 DJI,28,2024-09-25-eth-implementation-status-results-report-eastern-africa-regional-digital-i,2026-11-13,instrument,2026-11-13
 DZA,35,2026-04-01-dza-adoption-de-la-declaration-d-alger-sur-la-souverainete-des-telecommuni,2026-11-13,capped,2026-11-14
 ETH,43,2024-09-25-eth-implementation-status-results-report-eastern-africa-regional-digital-i,2026-11-13,instrument,2026-11-13
-GAB,60,2026-07-01-gab-l-arcep-gabon-a-lagos-pour-l-integration-numerique-africaine-cap-sur-l,2026-11-13,,
+GAB,60,2026-07-01-gab-l-arcep-gabon-a-lagos-pour-l-integration-numerique-africaine-cap-sur-l,2026-11-13,nothing,2026-11-15
 GHA,75,2023-01-01-gha-ghana-etrade-readiness-assessment,2026-11-13,instrument,2026-11-13
 KEN,92,2025-08-01-mus-cross-country-study-on-international-roaming-charges,2026-11-13,instrument,2026-11-13
 KEN,93,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-the-east-afr,2026-11-13,instrument,2026-11-13
@@ -806,14 +806,14 @@ TZA,60,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-
 UGA,82,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-the-east-afr,2026-11-13,instrument,2026-11-13
 ZAF,68,2025-08-01-mus-cross-country-study-on-international-roaming-charges,2026-11-13,instrument,2026-11-13
 ZMB,31,2025-08-01-mus-cross-country-study-on-international-roaming-charges,2026-11-13,instrument,2026-11-13
-ZWE,21,2025-03-18-zwe-sadc-ministers-unite-in-harare-to-help-shape-africa-s-digital-future,2026-11-13,,
+ZWE,21,2025-03-18-zwe-sadc-ministers-unite-in-harare-to-help-shape-africa-s-digital-future,2026-11-13,nothing,2026-11-15
 ZWE,22,2025-08-01-mus-cross-country-study-on-international-roaming-charges,2026-11-13,instrument,2026-11-13
 AGO,48,2024-05-01-bdi-fostering-creative-and-innovative-research-and-education-communities-a,2026-11-14,instrument,2026-11-14
 AGO,49,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 BDI,39,2024-05-01-bdi-fostering-creative-and-innovative-research-and-education-communities-a,2026-11-14,instrument,2026-11-14
 BDI,40,2022-01-01-bdi-burundi-technologie-education-profiles,2026-11-14,instrument,2026-11-14
 BDI,41,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-BEN,53,2025-09-30-ben-liste-des-fournisseurs-d-acces-a-internet-autorises-au-benin,2026-11-14,,
+BEN,53,2025-09-30-ben-liste-des-fournisseurs-d-acces-a-internet-autorises-au-benin,2026-11-14,nothing,2026-11-15
 BEN,54,2023-11-04-ben-starlink-launches-high-speed-satellite-internet-in-benin,2026-11-14,old,2026-11-14
 BEN,55,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-14,old,2026-11-14
 BEN,56,2021-01-01-tcd-wacren-annual-report-2020,2026-11-14,old,2026-11-14
@@ -833,7 +833,7 @@ CIV,62,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-net
 CMR,40,2021-01-01-tcd-wacren-annual-report-2020,2026-11-14,old,2026-11-14
 CMR,41,2024-01-01-cmr-statistical-yearbook-of-posts-telecommunications-and-ict-in-cameroon-2,2026-11-14,instrument,2026-11-14
 CMR,42,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-COD,62,2026-03-10-cod-startups-in-dr-congo-are-building-africa-s-overlooked-digital-frontier,2026-11-14,,
+COD,62,2026-03-10-cod-startups-in-dr-congo-are-building-africa-s-overlooked-digital-frontier,2026-11-14,fact,2026-11-15
 COD,63,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 COG,44,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 COM,15,2018-01-01-com-comores-numeriques-2028,2026-11-14,instrument,2026-11-14
@@ -884,8 +884,8 @@ MWI,31,2024-05-01-bdi-fostering-creative-and-innovative-research-and-education-c
 MWI,32,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 NAM,44,2024-05-01-bdi-fostering-creative-and-innovative-research-and-education-communities-a,2026-11-14,instrument,2026-11-14
 NAM,45,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-NER,43,2026-08-22-ner-projet-hub-de-peering-federe,2026-11-14,,
-NER,44,2026-01-25-ner-lancement-officiel-du-projet-hub-de-peering-federe,2026-11-14,,
+NER,43,2026-08-22-ner-projet-hub-de-peering-federe,2026-11-14,nothing,2026-11-15
+NER,44,2026-01-25-ner-lancement-officiel-du-projet-hub-de-peering-federe,2026-11-14,nothing,2026-11-15
 NER,45,2021-01-01-tcd-wacren-annual-report-2020,2026-11-14,old,2026-11-14
 NER,46,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 NGA,97,2021-01-01-tcd-wacren-annual-report-2020,2026-11-14,old,2026-11-14
@@ -930,6 +930,6 @@ GHA,79,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-u
 MLI,44,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-15,old,2026-11-15
 NAM,46,2026-06-01-nam-cran-quarterly-statistics-bulletin-q1-2026,2026-11-15,instrument,2026-11-15
 NAM,47,2025-09-01-nam-cran-quarterly-statistics-bulletin-q2-2025,2026-11-15,instrument,2026-11-15
-NER,47,2024-11-21-ner-decret-2024-728-licence-starlink-niger-sarlu,2026-11-15,,
+NER,47,2024-11-21-ner-decret-2024-728-licence-starlink-niger-sarlu,2026-11-15,nothing,2026-11-15
 NGA,100,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-15,old,2026-11-15
 TGO,50,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-15,old,2026-11-15

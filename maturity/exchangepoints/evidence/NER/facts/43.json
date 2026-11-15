@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-22-ner-projet-hub-de-peering-federe",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Hub de Peering Federe (Niger-REN)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "VPS and network equipment",
+   "owner": "Niger-REN",
+   "tiers": ""
+  }
+ ],
+ "note": "Equipment handover on 1 July 2026 under an ISOC Foundation-funded project; no networks stated exchanging traffic."
+}

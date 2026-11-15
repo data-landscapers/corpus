@@ -168,6 +168,9 @@ NAM,Windhoek Internet Exchange Point - IXP Namibia,Namibia,exchange,,,,2026-08-0
 NER,Niger IXP (Niamey),Internet Exchange Point (IXP),exchange,,,,2025-08-21 Niger inaugurates a new Internet Exchange Point (IXP)
 NER,Niger IXP,Point d'Echange Internet (IXP),exchange,,Smart Villages project (PVI) with Niger Telecoms,,2026-04-15-pvi-900-localites-connectivite
 NER,Point d'echange internet national (IXP),point d'echange internet national,other,,Ministry of Communication and New Information Technologies (committee oversight),,2025-07-24-national-committee-critical-digital-infrastructure-lesahel
+NER,Hub de Peering Federe (Niger-REN),Niger,other,VPS and network equipment,Niger-REN,,2026-08-22-ner-projet-hub-de-peering-federe
+NER,Hub de Peering Fédéré,Niger,other,"BGP peering, eduID.ne, eduVPN",Niger-REN,,2026-01-25-ner-lancement-officiel-du-projet-hub-de-peering-federe
+NER,Niger-REN,Niger,other,,Niger-REN,four member universities,2026-01-25-ner-lancement-officiel-du-projet-hub-de-peering-federe
 NGA,IXPN,Internet Exchange Point of Nigeria,exchange,,IXPN,"ISPs, telecom operators, content providers, data centres",2026-10-03-nga-techtv-ixpn-at-20-internet-exchange
 NGA,IXPN,Internet Exchange Point of Nigeria,exchange,,IXPN,"ISPs, content providers, CDNs",2025-04-24-ixpn-1tbps-traffic-milestone
 NGA,IXPN,Internet Exchange Point of Nigeria,exchange,,IXPN,"ISPs, CDNs, banks, fintechs, enterprises",2026-02-05-ixpn-traffic-growth-local-peering

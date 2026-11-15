@@ -2,3 +2,6 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 NER,Niger IXP (Niamey),Internet Exchange Point (IXP),exchange,,,,2025-08-21 Niger inaugurates a new Internet Exchange Point (IXP)
 NER,Niger IXP,Point d'Echange Internet (IXP),exchange,,Smart Villages project (PVI) with Niger Telecoms,,2026-04-15-pvi-900-localites-connectivite
 NER,Point d'echange internet national (IXP),point d'echange internet national,other,,Ministry of Communication and New Information Technologies (committee oversight),,2025-07-24-national-committee-critical-digital-infrastructure-lesahel
+NER,Hub de Peering Federe (Niger-REN),Niger,other,VPS and network equipment,Niger-REN,,2026-08-22-ner-projet-hub-de-peering-federe
+NER,Hub de Peering Fédéré,Niger,other,"BGP peering, eduID.ne, eduVPN",Niger-REN,,2026-01-25-ner-lancement-officiel-du-projet-hub-de-peering-federe
+NER,Niger-REN,Niger,other,,Niger-REN,four member universities,2026-01-25-ner-lancement-officiel-du-projet-hub-de-peering-federe

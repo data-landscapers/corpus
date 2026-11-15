@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-25-ner-lancement-officiel-du-projet-hub-de-peering-federe",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Hub de Peering Fédéré",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "BGP peering, eduID.ne, eduVPN",
+   "owner": "Niger-REN",
+   "tiers": ""
+  },
+  {
+   "system": "Niger-REN",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Niger-REN",
+   "tiers": "four member universities"
+  }
+ ],
+ "note": "Hub is a project launched January 2026, no networks yet stated exchanging traffic."
+}

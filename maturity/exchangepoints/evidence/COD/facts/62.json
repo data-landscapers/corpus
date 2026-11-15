@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-10-cod-startups-in-dr-congo-are-building-africa-s-overlooked-digital-frontier",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "TechCabal says FIH1 in Kinshasa connects more than twelve national and international operators, creating the country's first interconnection and peering ecosystem.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "OADC Texaf Digital FIH1",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
