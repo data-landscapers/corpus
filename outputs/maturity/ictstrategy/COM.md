@@ -2,13 +2,13 @@
 
 ## Sector policy
 
-**Governance and finance.** The minister for posts, telecommunications and the digital economy [said in September 2022 that the country was implementing its sectoral policy](<https://pp.itu.int/2022/en/itu_policy_statements/kamalidini-souef-comoros/>).
+**Governance and finance.** The minister for posts, telecommunications and the digital economy spoke in September 2022. The minister [said the country was implementing its sectoral policy](<https://pp.itu.int/2022/en/itu_policy_statements/kamalidini-souef-comoros/>).
 
-**Standing.** The Politique sectorielle des télécommunications et du numérique is adopted: the minister told the ITU's plenipotentiary conference in September 2022 that [Comoros was in the process of implementing it](<https://pp.itu.int/2022/en/itu_policy_statements/kamalidini-souef-comoros/>). The ministry's mission page, dated to 2016, [refers to a "new sector policy"](<https://minpoten.egouv.km/fr/ministry/mission/>) without saying that it was adopted.
+**Standing.** The Politique sectorielle des télécommunications et du numérique is adopted. In September 2022 the minister told the ITU's plenipotentiary conference that [Comoros was in the process of implementing it](<https://pp.itu.int/2022/en/itu_policy_statements/kamalidini-souef-comoros/>). The ministry's mission page, dated to 2016, [refers to a "new sector policy"](<https://minpoten.egouv.km/fr/ministry/mission/>) without saying that it was adopted.
 
 **Text.** The ministry's mission page [names the new sector policy beside the Comores numérique strategy](<https://minpoten.egouv.km/fr/ministry/mission/>).
 
-**Period.** The ministry's page, dated to 2016, [calls the sector policy new](<https://minpoten.egouv.km/fr/ministry/mission/>), and the minister [described it as being implemented in September 2022](<https://pp.itu.int/2022/en/itu_policy_statements/kamalidini-souef-comoros/>).
+**Period.** The ministry's page, dated to 2016, [calls the sector policy new](<https://minpoten.egouv.km/fr/ministry/mission/>). In September 2022 the minister [described it as being implemented](<https://pp.itu.int/2022/en/itu_policy_statements/kamalidini-souef-comoros/>).
 
 **Delivery plan.** The ministry's page [places the government's action within the new sector policy and the Comores numérique strategy](<https://minpoten.egouv.km/fr/ministry/mission/>).
 

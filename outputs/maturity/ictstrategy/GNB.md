@@ -4,9 +4,9 @@
 
 **Governance and finance.** The regulator, ARN, [produced the preliminary report on an ICT strategy](<https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P177016084979202b08dd501a5690c82506.pdf>) in December 2021.
 
-**Standing.** [An ICT strategy was in preparation in Guinea-Bissau in December 2021](<https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P177016084979202b08dd501a5690c82506.pdf>), when the regulator issued a preliminary report on it.
+**Standing.** [An ICT strategy was in preparation in Guinea-Bissau in December 2021](<https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P177016084979202b08dd501a5690c82506.pdf>). That month the regulator issued a preliminary report on it.
 
-**Text.** The strategy appears as [a preliminary report of December 2021, cited for its data in the Guinea-Bissau Digital Economy Diagnostic](<https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P177016084979202b08dd501a5690c82506.pdf>).
+**Text.** The strategy appears as [a preliminary report of December 2021](<https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P177016084979202b08dd501a5690c82506.pdf>). [The Guinea-Bissau Digital Economy Diagnostic cites it for its data](<https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P177016084979202b08dd501a5690c82506.pdf>).
 
 **Period.** The same diagnostic also cites [a "Preliminary ICT strategy report 2022"](<https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P177016084979202b08dd501a5690c82506.pdf>) alongside the December 2021 report.
 

@@ -8,4 +8,4 @@
 
 ***Also on file***. [SZNS ISO 9001 certification of the Eswatini Revenue Service](<https://www.linkedin.com/posts/eswatini-standards-authority_improvingtheworldwelivein-eswasa-certificatio-activity-7481405179674877952-uwT->); [Ingelo Certification Scheme](<https://www.linkedin.com/posts/eswatini-standards-authority_improvingtheworldwelivein-eswasa-standards-activity-7407424593725997057-sDVe>).
 
-***Not found***. No source found says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.
+***Not found***. No source found says the standards body offers certification against a national standard on information technology or data. None says a certifier accredited in the country does.

@@ -2,9 +2,9 @@
 
 ## Sector policy
 
-**Governance and finance.** The National ICT Policy 2007 [carries a foreword by the Minister for National Development](<https://scra.sc/wp-content/uploads/2025/01/policy.pdf>) and sets five focus areas: infrastructure, the legal and regulatory framework, human resources, industry and government.
+**Governance and finance.** The National ICT Policy 2007 [carries a foreword by the Minister for National Development](<https://scra.sc/wp-content/uploads/2025/01/policy.pdf>). It sets five focus areas: infrastructure, the legal and regulatory framework, human resources, industry and government.
 
-**Standing.** The policy [is published as the National ICT Policy for Seychelles](<https://scra.sc/wp-content/uploads/2025/01/policy.pdf>), and a World Bank report of September 2026 [treats it as in force](<https://openknowledge.worldbank.org/entities/publication/9264a4f5-29c4-40ff-903b-9891303c089a>).
+**Standing.** The policy [is published as the National ICT Policy for Seychelles](<https://scra.sc/wp-content/uploads/2025/01/policy.pdf>). A World Bank report of September 2026 [treats it as in force](<https://openknowledge.worldbank.org/entities/publication/9264a4f5-29c4-40ff-903b-9891303c089a>).
 
 **Text.** The full text [is on the SCRA website as a PDF](<https://scra.sc/wp-content/uploads/2025/01/policy.pdf>).
 
@@ -18,4 +18,4 @@
 
 ***Also on file***. [Institutional Strategic Plan of DICT](<https://afripoli.org/what-african-countries-can-learn-from-the-continents-top-performers-in-e-government>).
 
-***Not found***. No delivery plan and no report against the policy has been found, and nothing on a mandated body or a budget line in the last three years. The policy document is undated: 2007 is the date it is recorded as published, and the World Bank report gives no adoption date or scope.
+***Not found***. No delivery plan and no report against the policy has been found. Nothing has been found on a mandated body or a budget line in the last three years. The policy document is undated; 2007 is the date it is recorded as published. The World Bank report gives no adoption date or scope.

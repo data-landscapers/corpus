@@ -2,9 +2,9 @@
 
 ## Sector policy
 
-**Governance and finance.** [A JICA baseline study of public service digitalisation in African countries, published in March 2022](<https://openjicareport.jica.go.jp/pdf/12369203.pdf>), states that Gabon has formulated a national ICT policy, the Politique nationale des TIC.
+**Governance and finance.** [A JICA baseline study of public service digitalisation in African countries was published in March 2022](<https://openjicareport.jica.go.jp/pdf/12369203.pdf>). It states that Gabon has formulated a national ICT policy, the Politique nationale des TIC.
 
-**Standing.** [The JICA study of March 2022](<https://openjicareport.jica.go.jp/pdf/12369203.pdf>) states that Gabon has formulated a national ICT policy consistent with the PSGE Vision 2025, and gives no date of adoption.
+**Standing.** [The JICA study of March 2022](<https://openjicareport.jica.go.jp/pdf/12369203.pdf>) states that Gabon has formulated a national ICT policy consistent with the PSGE Vision 2025. It gives no date of adoption.
 
 **Text.** [JICA, in March 2022](<https://openjicareport.jica.go.jp/pdf/12369203.pdf>), states that the national ICT policy has been formulated.
 

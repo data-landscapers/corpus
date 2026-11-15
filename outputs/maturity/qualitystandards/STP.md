@@ -2,7 +2,7 @@
 
 ## National standards for information technology and data
 
-**Standards body and its standards.** São Tomé and Príncipe's standards body is the Serviço Nacional da Propriedade Intelectual e da Qualidade. Its own site, in 2026, [describes it as a public institute](<https://senapiq.gov.st/>) with administrative, financial, technical and asset autonomy under the ministry responsible for industry, whose functions include proposing policy on standardisation, certification, accreditation and metrology. The international standards organisation [lists it as a correspondent member](<https://www.iso.org/member/7310132.html>). Neither source cites the law or decree that set it up, and neither names a national standard on information technology or data.
+**Standards body and its standards.** São Tomé and Príncipe's standards body is the Serviço Nacional da Propriedade Intelectual e da Qualidade. Its own site, in 2026, [describes it as a public institute](<https://senapiq.gov.st/>) with administrative, financial, technical and asset autonomy. It sits under the ministry responsible for industry, and its functions include proposing policy on standardisation, certification, accreditation and metrology. The international standards organisation [lists it as a correspondent member](<https://www.iso.org/member/7310132.html>). Neither source cites the law or decree that set it up. Neither names a national standard on information technology or data.
 
 **Certification.** The institute's [site](<https://senapiq.gov.st/>) puts certification and accreditation among the fields on which it proposes policy. It names no certification scheme. A bank's quality management certificate from a certifier abroad is listed below.
 

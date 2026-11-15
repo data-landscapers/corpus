@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says digital literacy or computing is a compulsory subject in the national secondary curriculum.
+***Not found***. No source found since October 2023 says digital literacy or computing is compulsory in the national secondary curriculum.

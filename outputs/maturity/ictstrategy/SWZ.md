@@ -18,4 +18,4 @@
 
 ***Also on file***. [Eswatini Digitalisation Strategy 2024-2028](<https://www.separc.co.sz/2024/12/05/eswatini-advances-toward-digital-transformation-key-findings-from-the-digital-readiness-assessment>).
 
-***Not found***. No period of the policy's own has been found: the only one on record, to 2016, is the Implementation Plan's. No adopted delivery plan, no report against the policy, no body or budget in the last three years and nothing dated in the last twelve months is held.
+***Not found***. No period of the policy's own has been found. The only one on record, to 2016, is the Implementation Plan's. No adopted delivery plan and no report against the policy has been found. No body or budget in the last three years and nothing dated in the last twelve months has been found.

@@ -8,4 +8,4 @@
 
 ***Also on file***. [Beladna platform](<https://sudanevents.com/index.php/2025/04/17/a-sovereign-official-announces-the-recovery-of-data-and-documents-related-to-company-records/>); [Eysali (Eisali)](<https://alradarnews.net/?p=28749>); [Baldna ministry/institution platform (GOV-PLT)](<https://baldna.gov.sd/product/1/details>); [Eisali](<https://sudanhorizon.com/ssmo-integrates-eisali-payment-service-with-baladna-platform/>); [Baladna platform](<https://sudanhorizon.com/ssmo-integrates-eisali-payment-service-with-baladna-platform/>).
 
-***Not found***. No source found says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.
+***Not found***. No source found says the standards body offers certification against a national standard on information technology or data. None says a certifier accredited in the country does.

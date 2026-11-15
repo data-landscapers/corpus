@@ -10,12 +10,12 @@
 
 **Period.** The policy [states no end year or review date](<https://www.gov.ls/wp-content/uploads/2019/02/Final_Communications_Policy_Document.pdf>).
 
-**Delivery plan.** The policy [states no budget line for its own implementation](<https://www.gov.ls/wp-content/uploads/2019/02/Final_Communications_Policy_Document.pdf>) and provides for a Universal Service Fund drawing up to two percent of operators' net operating income.
+**Delivery plan.** The policy [states no budget line for its own implementation](<https://www.gov.ls/wp-content/uploads/2019/02/Final_Communications_Policy_Document.pdf>). It provides for a Universal Service Fund drawing up to two percent of operators' net operating income.
 
-**Reporting.** The National Digital Policy of December 2024 says the monitoring system planned under the ICT Policy for Lesotho 2005 [was never established](<https://www.gov.ls/download/national-digital-policy-2024-2035/>).
+**Reporting.** The National Digital Policy of December 2024 refers to the monitoring system planned under the ICT Policy for Lesotho 2005. It says the system [was never established](<https://www.gov.ls/download/national-digital-policy-2024-2035/>).
 
-**Last twelve months.** The ministry [sought consultants in mid-2025](<https://selibeng.com/consultancy-services-for-review-of-the-lesotho-communications-policy-2008-and-communications-act-2012/>) to review the 2008 policy and draft a Lesotho Communications Policy (2025), with bids closing on 21 July 2025.
+**Last twelve months.** The ministry [sought consultants in mid-2025](<https://selibeng.com/consultancy-services-for-review-of-the-lesotho-communications-policy-2008-and-communications-act-2012/>) to review the 2008 policy and draft a Lesotho Communications Policy (2025). Bids closed on 21 July 2025.
 
 ***Also on file***. [National Digital Policy 2024-2035](<https://www.gov.ls/download/national-digital-policy-2024-2035/>); [National Digital Transformation Strategy: Agenda 2030](<https://www.gov.ls/download/national-digital-policy-2024-2035/>); [Communications Act 2012](<https://selibeng.com/consultancy-services-for-review-of-the-lesotho-communications-policy-2008-and-communications-act-2012/>).
 
-***Not found***. No delivery plan and no report against the 2008 policy has been found, and its finance is known only from the 2008 text. The ICT Policy 2021 is held only as a draft and the 2025 review only as a tender, and nothing is dated in the last twelve months.
+***Not found***. No delivery plan and no report against the 2008 policy has been found. Its finance is known only from the 2008 text. The ICT Policy 2021 has been found only as a draft, and the 2025 review only as a tender. Nothing is dated in the last twelve months.

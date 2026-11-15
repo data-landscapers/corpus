@@ -2,9 +2,9 @@
 
 ## Sector policy
 
-**Governance and finance.** The National ICT Policy 2026 [sets out clear roles for the institutions responsible](<https://www.namibian.com.na/ict-ministry-launches-strategic-plan-policy-to-expand-digital-access-and-strengthen-cybersecurity/>) for implementing and monitoring ICT development, The Namibian reported in January 2026.
+**Governance and finance.** The Namibian reported in January 2026 that the National ICT Policy 2026 [sets out clear roles for the institutions responsible](<https://www.namibian.com.na/ict-ministry-launches-strategic-plan-policy-to-expand-digital-access-and-strengthen-cybersecurity/>). The roles cover implementing and monitoring ICT development.
 
-**Standing.** The Ministry of ICT [launched the policy at Opuwo](<https://www.namibian.com.na/ict-ministry-launches-strategic-plan-policy-to-expand-digital-access-and-strengthen-cybersecurity/>) in January 2026. It follows the Overarching ICT Policy 2009, which the National Broadband Policy gazetted on 14 August 2020 [says it is built on](<https://www.lac.org.na/laws/2020/7308.pdf>), and the National ICT Policy / Broadband Policy, which the ITU's repository [lists among Namibia's strategies](<https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies>).
+**Standing.** The Ministry of ICT [launched the policy at Opuwo](<https://www.namibian.com.na/ict-ministry-launches-strategic-plan-policy-to-expand-digital-access-and-strengthen-cybersecurity/>) in January 2026. It follows the Overarching ICT Policy 2009. The National Broadband Policy, gazetted on 14 August 2020, [says it is built on that policy](<https://www.lac.org.na/laws/2020/7308.pdf>). It also follows the National ICT Policy / Broadband Policy, which the ITU's repository [lists among Namibia's strategies](<https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies>).
 
 **Text.** The Namibian [reported the policy's launch](<https://www.namibian.com.na/ict-ministry-launches-strategic-plan-policy-to-expand-digital-access-and-strengthen-cybersecurity/>) on 29 January 2026.
 
@@ -18,4 +18,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. The text of the National ICT Policy 2026 is not held, and nothing found links to it or quotes it from an official site. Its period has no end year, and no delivery plan, report against it or budget line is on record.
+***Not found***. The text of the National ICT Policy 2026 has not been found. Nothing found links to it or quotes it from an official site. Its period has no end year. No delivery plan, report against it or budget line is on record.

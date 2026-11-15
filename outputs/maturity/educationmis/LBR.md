@@ -10,4 +10,4 @@
 
 ***Also on file***. [Statutory School Record System](<https://www.liberianobserver.com/news/moe-pushes-for-real-time-school-data-system/article_8b8f6a05-6bcd-4adb-9460-d004f8f07b16.html>).
 
-***Not found***. Whether a record for each learner is in service is not settled: the portal says so, while the ministry in September 2026 was still seeking a digitised system.
+***Not found***. No source settles whether a record for each learner is in service. The portal says one is, while in September 2026 the ministry was still seeking a digitised system.

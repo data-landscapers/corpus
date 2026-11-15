@@ -4,7 +4,7 @@
 
 **Governance and finance.** [A UNECA paper on Eastern Africa, published in April 2009](<https://archive.uneca.org/sites/default/files/PublicationFiles/03_harmonization_tic-final_en.pdf>), states that Eritrea has no National ICT Development Agency.
 
-**Standing.** [The UNECA paper of April 2009](<https://archive.uneca.org/sites/default/files/PublicationFiles/03_harmonization_tic-final_en.pdf>) states that Eritrea has no national ICT policy defining the government's orientation and strategies for development, and its table of 13 states enters "No ICT Policy" against the country.
+**Standing.** [The UNECA paper of April 2009](<https://archive.uneca.org/sites/default/files/PublicationFiles/03_harmonization_tic-final_en.pdf>) states that Eritrea has no national ICT policy defining the government's orientation and strategies for development. Its table of 13 states enters "No ICT Policy" against the country.
 
 **Text.** [UNECA, in April 2009](<https://archive.uneca.org/sites/default/files/PublicationFiles/03_harmonization_tic-final_en.pdf>), states that Eritrea has no national ICT policy.
 

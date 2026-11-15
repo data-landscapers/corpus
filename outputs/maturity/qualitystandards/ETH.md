@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing found says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.
+***Not found***. Nothing found says the standards body offers certification against a national standard on information technology or data. Nothing found says a certifier accredited in the country does.
