@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-ner-mise-a-jour-operationnelle-trimestrielle-octobre-decembre-2025-niger",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNHCR Niger says 2,237 refugees and IDPs were registered or verified in 2025 and 1,542 refugee certificates and ID cards were distributed, including 641 refugee cards from the Agadez biometric verification of 1,784 people in November-December 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "UNHCR refugee registration and documentation",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNHCR refugee registration and biometric verification",
+   "country_label": "Niger",
+   "class": "displaced",
+   "platform": "",
+   "owner": "UNHCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2024-03-01-dji-djibouti-operational-update-mars-2024",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNHCR Djibouti reports it renewed 128 documents under continuous registration in March 2024, 121 family attestations and 7 refugee identity cards.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "UNHCR continuous registration",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "UNHCR reports MENFOP helped 158 refugee teachers in Ali Addeh and Holl-Holl open bank accounts at East Africa Bank.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "East Africa Bank accounts",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "UNHCR reports 158 refugee teachers were helped to open East Africa Bank accounts.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "East Africa Bank accounts",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNHCR continuous registration",
+   "country_label": "Djibouti",
+   "class": "displaced",
+   "platform": "",
+   "owner": "UNHCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "2",
-      "registration": "underway",
+      "stage": "3",
+      "registration": "documented",
       "access": "",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-001;COD-002",
-      "gaps": "No source since October 2023 says refugees or displaced people were issued documents with a number. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-      "note": "Stage 2: ONIP and the CNR agreed in 2024 to identify refugees, and in 2025 the minister named refugees and displaced people among the population to be identified. Nothing says documents were issued, so not 3.",
-      "as_at": "2026-11-13"
+      "stage_sources": "COD-003",
+      "gaps": "No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 3: UNHCR and the CNR count 391,764 refugees and asylum-seekers in proGres in May 2025, each holding at least one protection document. Nothing says they may use SIM cards, accounts or digital ID, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

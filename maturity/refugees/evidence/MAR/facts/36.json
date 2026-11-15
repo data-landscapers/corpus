@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-mar-unhcr-rimap-morocco",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNHCR RIMAP says Morocco's BRA commission, which regularises UNHCR-registered refugees, moved to twice-weekly sessions in 2024, reviewing about 20 individuals a week, and admitted undocumented refugees and unaccompanied children.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Bureau des Refugies et Apatrides (BRA) commission",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bureau des Refugies et Apatrides (BRA)",
+   "country_label": "Morocco",
+   "class": "displaced",
+   "platform": "",
+   "owner": "Ministry of Foreign Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

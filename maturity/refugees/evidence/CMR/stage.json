@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "2",
-      "registration": "underway",
+      "stage": "3",
+      "registration": "documented",
       "access": "",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CMR-001;CMR-002;CMR-003",
-      "gaps": "The 32,600 displaced people of the West Region are registered with a number, but no source says identity documents were issued to them. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-      "note": "Stage 2: UNHCR registered over 32,600 displaced people in the West Region, and biometric ID cards for refugees and displaced people are in progress. No source says documents were issued with a number, so not 3.",
-      "as_at": "2026-11-13"
+      "stage_sources": "CMR-007;CMR-009",
+      "gaps": "No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID; the Minawao kiosks offer Mobile Money in one camp, not a stated right.",
+      "note": "Stage 3: UNHCR says a biometric programme had given 25,000 refugees legal identification by March 2025, and IOM counts documents handed to displaced people in 2024. Mobile Money kiosks at one camp do not show refugees may hold accounts, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

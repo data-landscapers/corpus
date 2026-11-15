@@ -9,10 +9,10 @@
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BDI-001;BDI-002",
+      "stage_sources": "BDI-003;BDI-001",
       "gaps": "The 54,343 Congolese refugees of July 2026 are registered with a number, but no source says identity documents were issued to them. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-      "note": "Stage 2: ONPRA and UNHCR completed biometric registration of 54,343 refugees at Busuma in 2026, which shows registration under way. No source says documents were issued to them, so question 2 is unmet.",
-      "as_at": "2026-11-13"
+      "note": "Stage 2: ONPRA and UNHCR registered 54,343 refugees at Busuma and began registering about 4,000 at Cishemere in July 2026. No source says documents were issued to them, so question 2 is unmet.",
+      "as_at": "2026-11-15"
     }
   ]
 }

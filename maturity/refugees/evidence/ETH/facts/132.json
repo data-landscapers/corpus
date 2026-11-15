@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-01-eth-over-9-000-sudanese-refugees-receive-digital-ids-in-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "As of June 2025, over 65,169 refugees had received Fayda numbers on new refugee ID cards or Proof of Registration documents, including 9,619 Sudanese refugees, per the Development Action Platform page.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Fayda ID / proGres",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "As of June 2025, 65,169 refugees held national Fayda ID numbers, including 9,619 Sudanese refugees, according to the page.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Fayda ID",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda national ID",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "National ID Program (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

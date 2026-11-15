@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 LSO,displaced,registration,coverage,none,2026-08-22,LSO-001,,
-LSO,displaced,access,coverage,,,,,nothing held
-LSO,displaced,counted,coverage,,,,,nothing held
+LSO,displaced,access,coverage,open,2024-03,LSO-002,,
+LSO,displaced,counted,coverage,,,,,nothing found

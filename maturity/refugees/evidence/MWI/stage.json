@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "unplaced",
-      "registration": "",
+      "stage": "2",
+      "registration": "underway",
       "access": "",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "The NRB statement that it may not register refugees dates from June 2023 and the plan from 2019, both outside the window; nothing since October 2023 is held.",
-      "note": "Unplaced: both rows predate October 2023 and can set no stage. Nothing inside the window says refugees are registered or barred.",
-      "as_at": "2026-11-13"
+      "stage_sources": "MWI-003",
+      "gaps": "No source since October 2023 says identity documents were issued to refugees or asylum seekers. No source since October 2023 says they may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 2: UNHCR reports more than 1,100 asylum-seekers from Mozambique registered in Nsanje by December 2024. No source says documents were issued to them, so not 3.",
+      "as_at": "2026-11-15"
     }
   ]
 }

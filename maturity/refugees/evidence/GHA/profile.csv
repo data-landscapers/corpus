@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,displaced,registration,coverage,underway,2026-02,GHA-002;GHA-003,,
-GHA,displaced,access,coverage,open,2026-02,GHA-001;GHA-004,,
+GHA,displaced,registration,coverage,documented,2025-02-06,GHA-008,GHA-005=underway;GHA-006=underway;GHA-003=underway;GHA-002=underway;GHA-010=underway,
+GHA,displaced,access,coverage,open,2026-03,GHA-001;GHA-004;GHA-007;GHA-009,,
 GHA,displaced,counted,coverage,,,,,nothing found

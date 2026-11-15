@@ -2,7 +2,7 @@
 
 ## Refugees and displaced people
 
-**Registration and documents.** [By the end of 2024 UNHCR had registered 18,900 people from 64 countries in Morocco](<https://www.unhcr.org/where-we-work/countries/morocco>). [That included 4,679 new registrations in 2024, mostly of Sudanese people](<https://www.unhcr.org/where-we-work/countries/morocco>).
+**Registration and documents.** [By the end of 2024 UNHCR had registered 18,900 people from 64 countries in Morocco](<https://www.unhcr.org/where-we-work/countries/morocco>). [That included 4,679 new registrations in 2024, mostly of Sudanese people](<https://www.unhcr.org/where-we-work/countries/morocco>). UNHCR says [Morocco's refugee bureau, which regularises refugees UNHCR has registered, sat twice a week in 2024](<https://rimap.unhcr.org/countries/morocco>). It reviewed about 20 people a week and admitted undocumented refugees and unaccompanied children.
 
 **Digital services.** No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID. The nearest held fact: [at the end of 2024 UNHCR held registrations for people from 64 countries](<https://www.unhcr.org/where-we-work/countries/morocco>).
 

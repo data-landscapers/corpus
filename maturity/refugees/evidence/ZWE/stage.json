@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "no evidence",
+      "stage": "unplaced",
       "registration": "",
-      "access": "",
+      "access": "open",
       "counted": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found says whether refugees or displaced people are registered or can use digital services.",
-      "note": "No evidence: the country has no row on refugees or displaced people, so no stage is set.",
-      "as_at": "2026-11-13"
+      "gaps": "A minister said in October 2024 that refugees can register for birth certificates and national identity cards, but nothing since October 2023 says refugees or displaced people are being registered or documented.",
+      "note": "Unplaced: ZWE-001 answers question 3 (access to national ID registration), but every rung must be shown and nothing answers questions 1 or 2. No statement of absence is held either, so not 1.",
+      "as_at": "2026-11-15"
     }
   ]
 }

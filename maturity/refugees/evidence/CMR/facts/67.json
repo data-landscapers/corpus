@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-26-cmr-unhcr-applauds-cameroon-s-inclusive-approach-to-displacement-and-calls",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNHCR says a biometric identification programme in Cameroon has already given 25,000 refugees legal identification, and that a February 2025 framework issues identity documents including biometric cards to refugees.",
+   "as_of": "2025-03-26",
+   "date_precision": "day",
+   "system": "biometric identification programme for refugees",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "biometric identification programme for refugees",
+   "country_label": "Cameroon",
+   "class": "displaced",
+   "platform": "",
+   "owner": "Government of Cameroon with UNHCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

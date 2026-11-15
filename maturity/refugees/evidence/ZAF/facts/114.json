@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-03-zaf-question-nw4619-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "The Minister of Home Affairs reported 57,288 refugees with active section 24 permits under the Refugees Act and 80,803 asylum seekers with active section 22 permits.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Section 24 refugee permits",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

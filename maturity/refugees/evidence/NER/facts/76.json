@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-21-ner-diffa-lancement-de-l-operation-d-enregistrement-biometrique-d-environ",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Niger's humanitarian action minister launched biometric registration of internally displaced people in Diffa region on 20 January 2024, expected to cover about 160,000 people.",
+   "as_of": "2024-01-20",
+   "date_precision": "day",
+   "system": "Diffa IDP biometric registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Diffa IDP biometric registration",
+   "country_label": "Niger",
+   "class": "displaced",
+   "platform": "",
+   "owner": "Ministry of Humanitarian Action and Disaster Management",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

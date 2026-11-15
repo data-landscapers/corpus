@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,displaced,registration,coverage,underway,2026-06-24,LBR-001;LBR-002,,
-LBR,displaced,access,coverage,,,,,nothing held
-LBR,displaced,counted,coverage,,,,,nothing held
+LBR,displaced,registration,coverage,underway,2026-06-24,LBR-001;LBR-002;LBR-003;LBR-004,,
+LBR,displaced,access,coverage,open,2025-02,LBR-005,,
+LBR,displaced,counted,coverage,,,,,nothing found

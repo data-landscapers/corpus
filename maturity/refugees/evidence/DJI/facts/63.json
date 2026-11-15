@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-06-dji-djibouti-operational-update-06-march-2025",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNHCR, with ONARS, registered 24 new-arrival households (29 people) in the period reviewed and issued 199 certificates and 14 identity cards in the Holl-Holl camps and Djibouti-ville.",
+   "as_of": "2025-03-06",
+   "date_precision": "day",
+   "system": "UNHCR-ONARS refugee registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNHCR-ONARS refugee registration",
+   "country_label": "Djibouti",
+   "class": "displaced",
+   "platform": "",
+   "owner": "ONARS and UNHCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

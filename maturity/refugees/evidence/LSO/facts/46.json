@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-01-lso-report-on-the-communications-subscriber-identity-module-registration-a",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "The National Assembly portfolio committee allowed the 2024 SIM Registration Amendment Regulations, which create a registration category letting asylum seekers register SIM cards on their asylum-seeker certificate, validated with the Commissioner of Refugees, and noted the registration allows mobile financial transactions.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Communications (Subscriber Identity Module Registration) (Amendment) Regulations, 2024",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM registration for asylum seekers",
+   "country_label": "Lesotho",
+   "class": "displaced",
+   "platform": "",
+   "owner": "Lesotho Communications Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

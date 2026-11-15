@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-06-dji-unhcr-operational-update-djibouti-06-february-2025",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNHCR says it and ONARS registered 14 households of 18 individuals in Djibouti-ville on 28 January 2025 and that 122 attestations were printed and delivered, 108 renewals and 14 for new arrivals.",
+   "as_of": "2025-01-28",
+   "date_precision": "day",
+   "system": "ONARS-UNHCR joint registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONARS-UNHCR joint registration",
+   "country_label": "ONARS registration",
+   "class": "displaced",
+   "platform": "",
+   "owner": "ONARS and UNHCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

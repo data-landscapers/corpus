@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "4",
+      "stage": "5",
       "registration": "documented",
       "access": "open",
-      "counted": "",
+      "counted": "counted",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-007;RWA-002;RWA-004",
-      "gaps": "No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.",
-      "note": "Stage 4c 2026-11-12: MINEMA's June 2026 figure of 93% of eligible refugees issued identity cards answers registration, and refugees may enrol in the digital ID and open accounts. No count of refugees with a SIM, account or ID is held, so not stage 5.",
-      "as_at": "2026-11-12"
+      "stage_sources": "RWA-007;RWA-004;RWA-011",
+      "gaps": "",
+      "note": "Stage 5: 93% of eligible refugees held refugee identity cards in 2026, refugees may enrol in the digital ID and open accounts, and FinScope 2024 counts 76% of adult refugees with a registered mobile money account. Every question is answered.",
+      "as_at": "2026-11-15"
     }
   ]
 }

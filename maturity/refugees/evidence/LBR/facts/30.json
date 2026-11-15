@@ -1,0 +1,27 @@
+{
+ "slug": "2025-02-01-lbr-president-boakai-issues-executive-order-no-144-to-enhance-support-for",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Executive Order No. 144 says the permanent residency and documentation process for registered former Ivorian refugees will be accelerated and provided at no cost, coordinated by the Ministry of Justice with the Liberia Immigration Service, the refugee commission and UNHCR.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Executive Order No. 144",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Executive Order No. 144 says eligible vulnerable people, including former refugees, will receive or renew National ID cards at no cost and be enrolled in the Liberia Household Social Registry.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Executive Order No. 144",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-01-caf-operational-update-central-african-republic-car-october-november-2024",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNHCR says it and the National Commission for Refugees (CNR) biometrically registered 1,189 Sudanese refugees in Rafai during October-November 2024 and, as of 30 November 2024, 3,458 Chadian refugees in Betoko.",
+   "as_of": "2024-11-30",
+   "date_precision": "day",
+   "system": "UNHCR and CNR biometric registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNHCR and CNR refugee registration",
+   "country_label": "Central African Republic",
+   "class": "displaced",
+   "platform": "biometric registration",
+   "owner": "UNHCR with National Commission for Refugees (CNR)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

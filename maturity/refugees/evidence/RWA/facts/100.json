@@ -1,0 +1,27 @@
+{
+ "slug": "2025-06-20-rwa-new-report-99-percent-refugees-in-rwanda-are-financially-included",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Access to Finance Rwanda says Rwanda's integration of refugees and asylum seekers into the national identification system has made it easier for them to open bank accounts and access financial services.",
+   "as_of": "2025-06-20",
+   "date_precision": "day",
+   "system": "national identification system",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "The FinScope 2024 refugees report, presented by Access to Finance Rwanda, says 76 percent of adult refugees own registered mobile money accounts and 37 percent use bank accounts.",
+   "as_of": "2025-06-20",
+   "date_precision": "day",
+   "system": "FinScope 2024 Refugees Financial Inclusion Thematic Report",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

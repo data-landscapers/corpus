@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-27-tcd-unhcr-chad-flash-info-journee-lancement-enrolement-biometrique-anats-h",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNHCR, with ANATS and CNARR, launched at the Abeche one-stop desk on 21 November 2025 an EU-funded biometric enrolment of Sudanese refugees into the national database to assign adult refugees a National Identification Number (NNI), targeting 15,000 by end-2025 and 50,000 by the end of the PADERCA project.",
+   "as_of": "2025-11-21",
+   "date_precision": "day",
+   "system": "National database / NNI enrolment of refugees",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National database / NNI enrolment of refugees",
+   "country_label": "Chad",
+   "class": "displaced",
+   "platform": "",
+   "owner": "ANATS, CNARR, UNHCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

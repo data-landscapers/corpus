@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "2",
-      "registration": "underway",
+      "stage": "3",
+      "registration": "documented",
       "access": "",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NER-001;NER-002",
-      "gaps": "No source since October 2023 says refugees or displaced people were issued documents with a number. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-      "note": "Stage 2: mobile teams registered births at displaced people's sites in Diffa, and 2026 biometric enrolment covers a refugee travel document. No count of displaced people documented is held, so not 3.",
-      "as_at": "2026-11-13"
+      "stage_sources": "NER-003;NER-004",
+      "gaps": "No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 3: UNHCR says 1,542 refugee certificates and ID cards were distributed in 2025, and Niger has issued 2,700 national identity cards to displaced people since 2019. Nothing says refugees may use SIM cards, accounts or digital ID, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

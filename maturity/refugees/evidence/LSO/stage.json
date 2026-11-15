@@ -5,14 +5,14 @@
       "sub_indicator": "displaced",
       "stage": "1",
       "registration": "none",
-      "access": "",
+      "access": "open",
       "counted": "",
       "cap": "",
       "flags": "",
       "stage_sources": "LSO-001",
-      "gaps": "No source since October 2023 says the freeze on refugee documents has ended. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-      "note": "Stage 1: the government's freeze on refugee identity cards and travel documents, begun in July 2025, was still in force in 2026. Nothing says issue has resumed, so not 2.",
-      "as_at": "2026-11-13"
+      "gaps": "No source since October 2023 says the freeze on refugee documents has ended. The 2024 SIM regulations open SIM registration to asylum seekers, but a rung above 1 needs registration resumed first.",
+      "note": "Stage 1: the freeze on refugee identity cards and travel documents, begun in July 2025, was still in force in 2026. The 2024 SIM regulations answer question 3, but nothing says registration has resumed, so not 2.",
+      "as_at": "2026-11-15"
     }
   ]
 }

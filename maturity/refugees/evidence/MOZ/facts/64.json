@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-moz-promoting-legal-identity-in-northern-mozambique-iom-mz-legal-identity",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "IOM Mozambique reports 54,631 birth certificates and 1,001 identity cards issued to internally displaced people and host communities in 13 northern districts, delivered with the Ministry of Justice and the Ministry of Interior.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "IOM legal identity programme with Ministry of Justice and Ministry of Interior",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

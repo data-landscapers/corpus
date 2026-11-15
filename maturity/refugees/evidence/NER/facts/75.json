@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-12-ner-niger-officially-launches-global-alliance-to-end-statelessness",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNHCR says that since 2019 Niger has delivered over 24,600 birth certificates (9,700 refugee and 14,900 internally displaced children), 4,616 nationality certificates and 2,700 national identity cards for displaced populations.",
+   "as_of": "2025-08-12",
+   "date_precision": "day",
+   "system": "civil registration system",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "regular civil registration system",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

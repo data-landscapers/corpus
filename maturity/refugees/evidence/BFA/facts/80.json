@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-20-bfa-from-shadows-to-school-desks-restoring-hope-for-forcibly-displaced-fam",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNHCR says the AICS-funded Protection Response project has provided over 50,000 displaced and vulnerable people in Burkina Faso with civil documentation, birth certificates among them.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "AICS-funded Protection Response for IDPs and Host Communities",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Protection Response for IDPs and Host Communities",
+   "country_label": "Burkina Faso",
+   "class": "displaced",
+   "platform": "",
+   "owner": "UNHCR with AICS funding",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

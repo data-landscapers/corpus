@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-mli-operational-update-unhcr-mali-oct-nov-dec-2025",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNHCR states that 13,628 refugees were registered with biometric data collected by the national refugee commission (CNCR) with UNHCR support in October-December 2025, and that 10,345 refugees in Mali remain unregistered, out of 276,698 (government, CNCR).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "CNCR and UNHCR biometric refugee registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNCR and UNHCR biometric refugee registration",
+   "country_label": "Mali",
+   "class": "displaced",
+   "platform": "",
+   "owner": "Commission nationale chargee des refugies (CNCR) with UNHCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

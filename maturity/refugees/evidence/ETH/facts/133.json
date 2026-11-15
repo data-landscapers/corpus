@@ -1,0 +1,36 @@
+{
+ "slug": "2024-09-24-eth-ethiopia-unhcr-operational-update-august-2024",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNHCR says 9,669 refugees had received Fayda-numbered digital ID cards by August 2024, with 25,394 consenting, issued by the government with UNHCR since March 2024.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Fayda refugee digital ID",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "UNHCR says the refugee digital IDs allow refugees to open bank accounts and give access to mobile connectivity.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Fayda refugee digital ID",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda refugee digital ID",
+   "country_label": "Ethiopia",
+   "class": "displaced",
+   "platform": "",
+   "owner": "Ethiopian government with UNHCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

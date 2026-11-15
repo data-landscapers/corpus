@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "1",
-      "registration": "none",
-      "access": "",
-      "counted": "",
+      "stage": "5",
+      "registration": "documented",
+      "access": "open",
+      "counted": "counted",
       "cap": "",
       "flags": "",
-      "stage_sources": "DJI-001",
-      "gaps": "No source since October 2023 says registration of refugees has resumed. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-      "note": "Stage 1: the US State Department says asylum and refugee status claims were not considered for most of 2024. Nothing says registration resumed, so not 2.",
-      "as_at": "2026-11-13"
+      "stage_sources": "DJI-002;DJI-006;DJI-007",
+      "gaps": "The only count is of 158 refugee teachers helped to open bank accounts in two camps in 2024; no national count of refugees with a SIM, an account or an ID is held.",
+      "note": "Stage 5: UNHCR and ONARS issued attestations and refugee ID cards in early 2025, and UNHCR counts 158 refugee teachers who opened bank accounts in 2024. The 2024 suspension of registration is older than the 2025 registrations, so it no longer sets the stage.",
+      "as_at": "2026-11-15"
     }
   ]
 }

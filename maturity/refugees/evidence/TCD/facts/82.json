@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-02-tcd-implementation-status-results-report-chad-refugees-and-host-communitie",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "The World Bank report says 100 percent of eligible refugees have identity documents issued by CNARR, and 283,448 refugees were registered in the social registry, at 22 December 2025.",
+   "as_of": "2025-12-22",
+   "date_precision": "day",
+   "system": "CNARR identity documents",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-nam-southern-africa-operational-update-october-december-2024",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNHCR and Angola's Service for Migration and Foreigners held the first joint registration missions in the southern provinces, registering 7,200 refugees; documentation is described as the Government's pledge, with no documents issued stated.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Joint registration missions",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

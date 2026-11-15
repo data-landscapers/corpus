@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-24-cmr-un-partenariat-pour-l-installation-de-kiosques-numeriques-au-camp-de-r",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNHCR, JRS and IHS Cameroun signed an MoU on 23 October 2024 to install digital kiosks with internet and Mobile Money services at Minawao refugee camp.",
+   "as_of": "2024-10-23",
+   "date_precision": "day",
+   "system": "Minawao digital kiosks",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Minawao digital kiosks",
+   "country_label": "Cameroon",
+   "class": "displaced",
+   "platform": "internet kiosks with Mobile Money",
+   "owner": "UNHCR, JRS, IHS Cameroun",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

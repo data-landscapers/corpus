@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-01-bdi-le-hcr-et-l-onpra-renforcent-l-identification-au-centre-de-transit-de",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "ONPRA with UNHCR support began registering and updating data on about 4,000 refugees at the Cishemere transit centre around late July 2026, after over 54,000 were identified at Busuma.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "ONPRA registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

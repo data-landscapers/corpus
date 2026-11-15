@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-30-moz-cabo-delgado-mais-4-mil-deslocados-recebem-bilhetes-de-identificacao",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "Cabo Delgado's provincial civil identification service, with partners including IOM and UNHCR, registered about 12,478 ID card applications from families displaced by terrorism in under nine months, produced 5,516 cards and delivered 4,764, per provincial official Rui Chichanga.",
+   "as_of": "2024-10-29",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade (provincial civil identification service project)",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-01-zwe-statement-by-the-deputy-minister-of-public-service-labour-and-social-w",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Zimbabwe's Deputy Minister told UNHCR's 75th ExCom that all migrants in Zimbabwe, including refugees, have access to birth and national identity card registration.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "national identity card registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "2",
-      "registration": "underway",
+      "stage": "3",
+      "registration": "documented",
       "access": "",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-005;ZAF-002;ZAF-001",
-      "gaps": "No source found says refugees or asylum seekers are registered and documented with a number stated, or may use SIM cards, accounts or the digital ID.",
-      "note": "Home Affairs launched the first phase of its Digital Asylum System in November 2026, a portal recording intention to apply that is live for test cases and confers no status. No documented number is held, so the cell stays at 2.",
-      "as_at": "2026-11-11"
+      "stage_sources": "ZAF-007;ZAF-008",
+      "gaps": "No source since October 2023 says refugees or asylum seekers may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 3: Home Affairs reported 57,288 refugees and 80,803 asylum seekers with active permits in September 2026. Nothing says refugees may use SIM cards, accounts or digital ID, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

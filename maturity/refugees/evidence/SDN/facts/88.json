@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-01-sdn-the-digital-exclusion-of-refugees-and-idps-in-sudan",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "none",
+   "fact": "Forced Migration Review (Wala Mohammed) says Sudanese refugee ID cards do not meet the recognised-ID requirement to register a SIM card, and AML/CFT rules create legal barriers for refugees and asylum-seekers to formal financial institutions and mobile money.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "SIM registration and AML/CFT rules",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

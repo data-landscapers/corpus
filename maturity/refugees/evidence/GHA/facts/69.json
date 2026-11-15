@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNHCR reports that registration of refugees and asylum-seekers was initiated in host communities in Ghana outside Zini and Tarikom in the second half of 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UNHCR refugee registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

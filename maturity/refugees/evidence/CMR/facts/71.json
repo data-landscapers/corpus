@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-06-cmr-legal-identity-1-340-birth-certificates-and-national-identity-cards-fo",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "IOM says that in April 2024, with BUNEC and funding from France and the UN Peacebuilding Fund, 507 reconstituted birth certificates were handed to IDPs and vulnerable people in Bertoua, 683 legal identification documents in Yaoundé 3 and 6, and 100 birth certificates and 50 national identity cards in Littoral communes.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "BUNEC civil status document reconstitution for IDPs",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

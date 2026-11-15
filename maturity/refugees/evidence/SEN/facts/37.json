@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-08-sen-decret-relatif-aux-caracteristiques-a-la-duree-de-validite-et-aux-moda",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Senegal decree 2025-1560 of 17 September 2025 sets out the introduction of a biometric ID card and travel document for recognised refugees and stateless people, issued by the Interior Ministry with the CNGRA coordinating.",
+   "as_of": "2025-09-17",
+   "date_precision": "day",
+   "system": "biometric refugee identity card and travel document",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric refugee/stateless ID card and travel document",
+   "country_label": "Senegal",
+   "class": "displaced",
+   "platform": "",
+   "owner": "Ministry of Interior; CNGRA coordinates",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

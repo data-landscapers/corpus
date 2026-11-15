@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-nam-southern-africa-operational-update-october-december-2024",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Namibia's Ministry of Home Affairs began registering refugees in Osire Settlement in October 2024 to issue ID cards, capturing biometrics of 238 refugees with UNHCR's IMAGO machine.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Osire refugee ID card registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

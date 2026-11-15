@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-01-ben-fact-sheet-benin-january-june-2026",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNHCR says that as of 30 June 2026 around 30,400 refugees and asylum-seekers in Benin were individually registered, and that under the World Bank-supported COSO project 8,481 asylum-seekers were registered and 2,337 issued vital protection documents in northern Benin, while 2,450 in the south hold valid documents.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "COSO registration and verification",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNHCR says it convened two quadripartite meetings with SP-CNRA, WURI and ANIP in January 2026 to validate terms of reference and set a roadmap for biometric enrolment of refugees and asylum-seekers in the National Registry of Physical Persons, still to be operationalised in the second half of 2026.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "RNPP biometric enrolment roadmap",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "COSO registration and verification",
+   "country_label": "Benin",
+   "class": "displaced",
+   "platform": "",
+   "owner": "SP-CNRA with UNHCR",
+   "tiers": ""
+  },
+  {
+   "system": "National Registry of Physical Persons (RNPP)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

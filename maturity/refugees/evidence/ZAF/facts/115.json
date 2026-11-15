@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-20-zaf-question-nw3475-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "The Minister of Home Affairs' reply lists active permits at 31 December 2024 by country of origin, which sum to 92,657 section 22 asylum seeker permits and 62,649 section 24 refugee permits.",
+   "as_of": "2024-12-31",
+   "date_precision": "day",
+   "system": "Section 22 and section 24 permits",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Section 22 and section 24 permits",
+   "country_label": "South Africa",
+   "class": "displaced",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

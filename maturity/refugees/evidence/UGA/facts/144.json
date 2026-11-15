@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-09-uga-lisa-transforming-refugee-verification-through-self-service",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNHCR says its LISA self-service biometric kiosk for refugees to verify their presence completed user testing in Kampala, with a pilot launch planned for late 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "LISA (Localized Identification & Self-service Access)",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LISA",
+   "country_label": "Uganda",
+   "class": "displaced",
+   "platform": "self-service biometric kiosk, interoperable with UNHCR registration systems",
+   "owner": "UNHCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

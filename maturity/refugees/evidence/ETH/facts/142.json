@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-eth-digital-public-goods-in-use-applications-of-openg2p-in-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "OpenG2P says the Ethiopian Disaster Risk Management Commission's pilot registered 18,809 IDPs and 274,071 returnees, with Fayda ID registration in IDP camps.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "OpenG2P Social Registry",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

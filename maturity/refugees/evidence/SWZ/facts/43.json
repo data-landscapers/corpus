@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-20-swz-eswatini-stands-firm-on-refugee-rights-as-un-convention-turns-75",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "The Ministry of Home Affairs says the Refugees Department in the past year registered 272 asylum applications, issued 398 refugee convention passports, renewed 225 statuses and granted 35 new refugee statuses.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Refugees Department, Eswatini",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

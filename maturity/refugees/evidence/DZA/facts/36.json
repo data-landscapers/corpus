@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-01-dza-algeria-key-results-up-to-march-2024",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "With no national asylum system, UNHCR finalised 4,056 new and 15,301 continuous registrations of refugees and asylum seekers in Algeria up to March 2024, according to the RDPP North Africa results sheet.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "UNHCR registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNHCR registration and refugee status determination",
+   "country_label": "UNHCR registration",
+   "class": "displaced",
+   "platform": "",
+   "owner": "UNHCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

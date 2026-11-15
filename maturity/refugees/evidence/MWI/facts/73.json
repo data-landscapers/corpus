@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-nam-southern-africa-operational-update-october-december-2024",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNHCR reports more than 1,100 asylum-seekers from Mozambique registered in Malawi's Nsanje District by end of December 2024, with no documents stated.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Nsanje asylum-seeker registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-uga-opm-unhcr-begin-refugee-verification-exercise",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The Office of the Prime Minister and UNHCR began a nationwide refugee verification exercise on 7 September 2026, starting at Nakivale, to establish the actual number of refugees (estimated at about 2.3 million).",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "Refugee verification exercise",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

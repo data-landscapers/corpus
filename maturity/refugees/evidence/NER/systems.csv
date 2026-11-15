@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NER,passeport biométrique AES,Niger,other,"biometric enrolment kits, online pre-enrolment via Amana, Nita and Airtel Money",Ministère de l'Intérieur / Direction de la Surveillance du Territoire,national,2026-09-16-ner-actuniger-lancement-passeport-biometrique-aes
 NER,état civil de Diffa,Niger,other,four communes computerised; health-facility declaration centres,"Direction régionale de l'État civil, des Migrations et des Réfugiés de Diffa",regional,2026-07-29-niger-diffa-173000-actes-de-naissance-etat-civil
+NER,UNHCR refugee registration and biometric verification,Niger,displaced,,UNHCR,,2026-01-01-ner-mise-a-jour-operationnelle-trimestrielle-octobre-decembre-2025-niger
+NER,regular civil registration system,Niger,other,,,,2025-08-12-ner-niger-officially-launches-global-alliance-to-end-statelessness
+NER,Diffa IDP biometric registration,Niger,displaced,,Ministry of Humanitarian Action and Disaster Management,,2024-01-21-ner-diffa-lancement-de-l-operation-d-enregistrement-biometrique-d-environ

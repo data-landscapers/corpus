@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-30-bwa-refugees-to-have-ids",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Botswana's Justice Minister says Clause 25 of Bill No. 23 of 2024, then before Parliament, would have every recognised refugee and their family members issued an ID by the minister responsible for civil and national registration.",
+   "as_of": "2024-08-30",
+   "date_precision": "day",
+   "system": "Refugee (Recognition and Control) Act amendment, Bill No. 23 of 2024",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Refugee (Recognition and Control) Act amendment, Bill No. 23 of 2024",
+   "country_label": "Botswana",
+   "class": "displaced",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

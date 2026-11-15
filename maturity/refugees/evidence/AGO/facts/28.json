@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-01-ago-intervention-by-the-angolan-delegation-at-the-75th-session-of-the-unhc",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Angola's delegation says it launched in 2023 a general registration and allocation of identification documents for refugees, with refugees' children born in Angola receiving birth certificates; no number registered is given.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "General registration of refugees",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "General registration and allocation of identification documents",
+   "country_label": "Angola",
+   "class": "displaced",
+   "platform": "",
+   "owner": "Government of Angola",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

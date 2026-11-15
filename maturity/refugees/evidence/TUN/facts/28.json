@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-tun-tunisia-operational-update-january-2026",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNHCR says 7,812 refugees and asylum-seekers were registered with it as of 30 September 2025 and it renewed 560 registration cards in January 2026.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "UNHCR registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

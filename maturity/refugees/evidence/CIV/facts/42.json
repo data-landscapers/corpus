@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-24-civ-communique-de-presse-sur-l-octroi-du-statut-de-refugies-pour-des-deman",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The ACHPR says a 2 July 2025 interministerial arrete recognised refugee status for over 69,000 Burkinabe and about 1,500 Malians registered since May 2021, and urges prompt issuance of documents.",
+   "as_of": "2025-07-02",
+   "date_precision": "day",
+   "system": "interministerial arrete of 2 July 2025",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

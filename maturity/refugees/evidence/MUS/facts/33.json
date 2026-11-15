@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-28-mus-ile-maurice-les-demandeurs-d-asile-supplient-qu-on-leur-accorde-un-dro",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "allAfrica reports that asylum seekers in Mauritius are referred by IOM to UNHCR's South Africa office, interviewed by telephone and issued an attestation that their file is being processed, with no number given.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "UNHCR remote registration and attestation",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNHCR remote registration and attestation",
+   "country_label": "Mauritius",
+   "class": "displaced",
+   "platform": "telephone",
+   "owner": "UNHCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

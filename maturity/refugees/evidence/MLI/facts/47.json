@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-01-mli-operational-update-january-march-2025-unhcr-mali",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNHCR Mali reports 135,538 refugees registered by 31 March 2025 and 5,924 refugee certificates and identity cards distributed in January-March 2025.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "UNHCR/CNCR refugee registration",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "none",
+   "fact": "UNHCR says biometric registration has been suspended indefinitely after the January 2025 US funding suspension, leaving 64,315 asylum-seekers without formal status.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "UNHCR biometric registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNHCR biometric registration",
+   "country_label": "Mali",
+   "class": "displaced",
+   "platform": "",
+   "owner": "UNHCR with CNCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

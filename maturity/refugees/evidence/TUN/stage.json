@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "no evidence",
-      "registration": "",
+      "stage": "3",
+      "registration": "documented",
       "access": "",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether refugees or displaced people are registered or can use digital services.",
-      "note": "No evidence: the country has no row on refugees or displaced people, so no stage is set.",
-      "as_at": "2026-11-13"
+      "stage_sources": "TUN-002",
+      "gaps": "The authorities ordered UNHCR to suspend new asylum registrations in June 2024, and no source says that order was lifted. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Stage 3: UNHCR held 7,812 registered refugees and asylum-seekers in September 2025 and renewed 560 registration cards in January 2026. Nothing says refugees may use SIM cards, accounts or digital ID, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

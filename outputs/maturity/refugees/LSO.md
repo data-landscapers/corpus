@@ -4,7 +4,7 @@
 
 **Registration and documents.** The Lesotho Times reports [a government freeze on refugee identity cards and travel documents](<https://lestimes.com/?p=91350>). It began in July 2025, after corruption allegations against refugee and passport officials. In 2026 the freeze was in its second year. Hundreds of refugees were left without valid documents.
 
-**Digital services.** No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID. The nearest fact is [the freeze on refugee identity cards, in force in 2026](<https://lestimes.com/?p=91350>).
+**Digital services.** In March 2024 the National Assembly committee [allowed SIM rules that let asylum seekers register SIM cards on their asylum-seeker certificate](<https://nationalassembly.parliament.ls/wp-content/uploads/2024/03/communications-Regulations-1.pdf>). The Commissioner of Refugees validates each certificate. The committee noted that a registered SIM allows mobile money transactions.
 
 **Inclusion counted.** No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID. The nearest fact is [the same report of the freeze](<https://lestimes.com/?p=91350>). It gives no figure for refugees with phones or accounts.
 
