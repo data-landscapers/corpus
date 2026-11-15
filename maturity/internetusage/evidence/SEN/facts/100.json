@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-05-sen-lamine-sene-fdsut-des-la-delivrance-de-l-autorisation-starlink-integre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ARTP national internet observatory fixed-internet penetration",
+   "country_label": "40.12% fixed internet penetration, June 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "ARTP",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a fixed-internet penetration rate, a subscription measure, not a share of people using the internet."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-rwa-rwanda-s-transition-to-a-knowledge-based-economy-pathways-and-policy-p",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:34",
+   "fact": "The brief says about 34 percent of Rwandans used the internet in 2023, citing World Bank World Development Indicators.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Individuals using the Internet (% of population)",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

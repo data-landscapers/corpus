@@ -13,6 +13,8 @@ BDI,2024-02-26-bdi-la-tanzanie-signe-un-nouvel-accord-de-cinq-ans-avec-le-burund
 BDI,2024-05-15-bdi-abp-memorandum-fibre-rdc-burundi,,2026-10-19
 BDI,2024-05-16-bdi-le-permis-de-construire-digitalise,,2026-11-12
 BDI,2024-07-23-moz-2024-east-africa-submarine-cable-outage-report,,2026-11-10
+BDI,2024-09-26-bdi-starlink-une-bouffee-d-oxygene-pour-l-internet-burundais,,2026-11-15
+BDI,2024-10-07-zmb-burundi-zambia-agree-underwater-fibre-connection,,2026-11-15
 BDI,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 BDI,2025-09-10-unreliable-connectivity-impacts-burundi-citizens,,2026-10-19
 BDI,2026-03-01-bdi-enabling-environment-snapshot-burundi-march-2026,,2026-11-12
@@ -22,6 +24,7 @@ BDI,2026-11-02-bdi-penurie-de-cash-et-si-on-payait-enfin-avec-nos-telephones,,20
 BDI,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 BEN,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre,,2026-10-19
 BEN,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
+BEN,2025-09-30-ben-liste-des-fournisseurs-d-acces-a-internet-autorises-au-benin,,2026-11-15
 BEN,2025-10-01-ben-arcep-observatoire-internet-juin-2025,,2026-10-19
 BEN,2025-10-03-ben-videos-truquees-par-ia-au-benin-le-cnin-alerte-et-met-en-garde,,2026-10-21
 BEN,2026-07-13-isoc-local-peering-africa,,2026-10-19
@@ -60,11 +63,13 @@ CAF,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 CAF,2025-07-28-caf-ecomatin-moov-20-milliards-4g-bangui,,2026-10-19
 CAF,2025-07-30-car-taux-penetration-internet-30-pourcent,,2026-10-19
 CAF,2025-12-23-caf-starlink-service-launch,,2026-10-19
+CAF,2026-02-23-cmr-artac-conference-in-kinshasa-drc,,2026-11-15
 CAF,2026-03-17-starlink-beams-into-car-connectingafrica,,2026-10-19
 CAF,2026-04-21-caf-central-african-republic-plans-2026-launch-of-telecom-universal-servic,,2026-10-29
 CAF,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight,,2026-10-19
 CAF,2026-07-06-orange-money-phishing-alerte-infox,,2026-10-19
 CAF,2026-07-22-maroc-telecom-rapport-financier-semestriel-2026,,2026-10-19
+CAF,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre,,2026-11-15
 CAF,2026-09-16-caf-arcep-observatoire-marches-communications-electroniques-s1-2026,,2026-10-19
 CAF,2026-10-08-world-development-indicators-selection-2026-11-10,,2026-11-11
 CAF,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link,,2026-10-19
@@ -93,6 +98,7 @@ CMR,2025-10-24-lejour-internet-disrupted-postelectoral-wacs-incident,,2026-10-19
 CMR,2025-12-12-cmr-businessincameroon-telecom-sector-1022bn-2024-art-observatoire,,2026-11-01
 CMR,2026-01-05-cmr-cameroon-plans-to-participate-in-medusa-africa-submarine-cable,,2026-11-10
 CMR,2026-02-09-chad-fast-track-ndjamena-mbere-fiber-link-cameroon-connectingafrica,,2026-10-19
+CMR,2026-02-23-cmr-artac-conference-in-kinshasa-drc,,2026-11-15
 CMR,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight,,2026-10-19
 CMR,2026-08-27-cmr-etat-civil-au-cameroun-9-deces-sur-10-non-declares-par-an,,2026-10-29
 CMR,2026-09-02-cmr-prosper-pagou-antic-en-2025-nous-avons-enregistre-17-500-plaintes-pour,,2026-10-29
@@ -103,9 +109,12 @@ CMR,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 COD,2023-12-01-itu-drc-digital-development-dashboard,,2026-10-19
 COD,2024-02-08-cod-how-ixps-helped-reshape-the-internet-in-the-drc,,2026-11-05
 COD,2024-04-12-cod-rdc-les-zones-defavorisees-dans-l-attente-d-investissement-de-l-etat-d,,2026-11-05
+COD,2024-10-23-cod-modalites-dutilisation-des-canaux-digitaux-dans-le-processus-de-paieme,,2026-11-15
+COD,2025-06-04-cod-starlink-live-in-drc,,2026-11-15
 COD,2025-06-19-cod-audience-des-medias-en-rdc-internet-connait-une-progression-et-les-med,,2026-11-06
 COD,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 COD,2026-02-20 Democratic Republic of the Congo - eCommerce (US Country Commercial Guide),,2026-10-19
+COD,2026-02-23-cmr-artac-conference-in-kinshasa-drc,,2026-11-15
 COD,2026-02-28-drc-8b-digital-plan-telecom-infrastructure-data-centers,,2026-10-19
 COD,2026-05-03-cod-la-rdc-veut-renforcer-ses-moyens-de-connectivite-internet-internationa,,2026-11-10
 COD,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight,,2026-10-19
@@ -134,7 +143,9 @@ COG,2026-11-01-cog-ixp-tracker-congo,,2026-11-05
 COG,2026-11-09-cod-wacs-cable-repairs-enter-critical-phase,,2026-11-11
 COG,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 COM,2021-01-01-anrtic-taux-penetration-internet-comores,,2026-10-19
+COM,2025-06-01-com-said-bouhtane-dg-de-lantric-la-5g-ne-sera-pas-une-revolution-du-jour-a,,2026-11-15
 COM,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
+COM,2025-08-27-com-comores-vers-une-interoperabilite-complete-des-transactions-financiere,,2026-11-15
 COM,2025-10-01-worldbank-global-findex-2025-comoros,,2026-10-19
 COM,2026-07-03-com-comoros-consumers-launch-boycott-over-higher-mobile-data-prices,,2026-11-12
 COM,2026-09-16-com-alwatwan-gouvernance-numerique-nour-el-fath-azali,,2026-10-19
@@ -155,6 +166,8 @@ CPV,2026-10-22-cpv-assinaturas-de-internet-fixa-aumentam-14-7-num-ano,,2026-10-2
 CPV,2026-10-24-cpv-cabo-verde-starlink-triplica-quota-de-trafego-de-internet-e-ja-representa-18-do,,2026-10-29
 CPV,2026-11-01-cpv-ixp-tracker-cabo-verde,,2026-11-05
 CPV,2026-11-01-cvtelecom-ceo-cabos-ciberseguranca,,2026-11-05
+CPV,2026-11-11-cpv-cvtelecom-restabelece-servicos-de-telecomunicacoes-no-fogo-brava-sal-e-boa-vista,,2026-11-15
+CPV,2026-11-11-inforpress-fogo-telecoms-internet-outage,,2026-11-15
 CPV,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 DJI,2024-01-01-dji-djibouti-telecom-terrestrial-network-ethiopia,,2026-11-10
 DJI,2024-05-01-dji-vers-un-hub-numerique-mondial,,2026-11-12
@@ -222,6 +235,7 @@ GAB,2024-10-10-gab-gabonmailinfos-convention-internet-lycees-colleges,,2026-10-1
 GAB,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 GAB,2025-10-01-gabon-global-findex-database-2025,,2026-10-19
 GAB,2025-11-21-gab-uit-le-gabon-2e-pays-africain-le-plus-connecte-a-internet-en-2025,,2026-11-10
+GAB,2026-02-23-cmr-artac-conference-in-kinshasa-drc,,2026-11-15
 GAB,2026-06-12-gab-gabon-unveils-133m-digital-economy-drive,,2026-11-07
 GAB,2026-07-03-gab-gabon-numerique-le-programme-madigipaie-presente-a-l-edile-de-librevil,,2026-10-29
 GAB,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre,,2026-10-19
@@ -264,6 +278,7 @@ GIN,2025-10-01-guinea-global-findex-2025-microdata,,2026-10-19
 GIN,2026-01-01-gin-guineegouv-guinee-connect-portail,,2026-10-19
 GIN,2026-05-22-guinee-backbone-capacite-400-gbs-huawei,,2026-10-19
 GIN,2026-07-09-guinea-urges-orange-improve-service-coverage,,2026-10-19
+GIN,2026-08-15-gin-communique-n003-be-ablogui-2026-relative-a-la-levee-des-perturbations,,2026-11-15
 GIN,2026-10-08-world-development-indicators-selection-2026-11-10,,2026-11-11
 GIN,2026-10-20-gin-la-guinee-a-lheure-de-lia-moderniser-letat-avant-que-la-technologie-ne,,2026-10-29
 GIN,2026-10-29-gin-fratel-2026-a-conakry-la-guinee-au-cur-du-defi-de-la-connectivite-nume,,2026-11-01
@@ -291,6 +306,7 @@ GNB,2026-10-08-world-development-indicators-selection-2026-11-10,,2026-11-11
 GNB,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 GNQ,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 GNQ,2025-08-21-gnq-gitge-drives-fibre-optic-growth-in-equatorial-guinea,,2026-11-12
+GNQ,2026-02-23-cmr-artac-conference-in-kinshasa-drc,,2026-11-15
 GNQ,2026-07-29-ahoraeg-licitacion-tdt-diagnostico,,2026-11-01
 GNQ,2026-10-08-world-development-indicators-selection-2026-11-10,,2026-11-11
 GNQ,2026-10-20-xgl-access-now-deliberately-forgotten-internet-shutdowns-with-no-end,,2026-11-01
@@ -331,8 +347,10 @@ KEN,2026-11-10-zaf-techafricanews-vodacom-h1-revenue-safaricom-fintech,,2026-11-
 KEN,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 LBR,2024-01-24-lbr-csquared-350km-backbone-civ-guinea-borders,,2026-10-19
 LBR,2024-06-20-gmb-ecowas-amilcar-cabral-4th-ministerial,,2026-10-19
+LBR,2025-01-10-lbr-starlink-goes-live-in-liberia,,2026-11-15
 LBR,2025-05-05-lbr-liberianobserver-orange-ace-rerouting-civ,,2026-10-19
 LBR,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
+LBR,2025-10-02-lbr-after-starlink-liberia-now-seeks-amazon-satellite-internet-entry,,2026-11-15
 LBR,2025-11-11-lbr-the-cybercrime-act-2025-securing-liberia-s-digital-future-with-balance,,2026-10-22
 LBR,2026-09-21-gsma-pdaa-roadmap-1-billion-connected-africa-2030,,2026-10-19
 LBR,2026-09-25-lbr-fpa-dara-digital-advocacy-alliance,,2026-10-19
@@ -357,8 +375,11 @@ LSO,2018-02-13-lca-state-of-ict-lesotho-2016,,2026-10-19
 LSO,2020-02-01-lesotho-digital-economy-diagnostic-worldbank,,2026-10-19
 LSO,2025-01-01-lca-ict-access-use-households-comparative-2016-2023,,2026-10-19
 LSO,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
+LSO,2026-03-01-xsa-cheaper-cross-border-call-rates-beckon-on-lower-tariffs-push,,2026-11-15
+LSO,2026-06-26-lso-starlink-s-reach-in-lesotho-extends-to-police-and-disaster-management,,2026-11-15
 LSO,2026-10-08-world-development-indicators-selection-2026-11-10,,2026-11-11
 LSO,2026-10-09-lso-spaceinafrica-vodacom-lesotho-starlink-enterprise,,2026-11-05
+LSO,2026-11-06-lso-lesotho-mobile-data-cost,,2026-11-15
 LSO,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 MAR,2024-01-01-mar-digital-development-dashboard-morocco-infrastructure-access,,2026-11-12
 MAR,2024-12-17-mar-aljarida24-hcp-census-internet-use-by-sex,,2026-10-19
@@ -388,6 +409,7 @@ MDG,2026-10-17-mdg-technologie-deux-malgaches-sur-dix-connectes-a-internet,,2026
 MDG,2026-10-22-mdg-la-prevention-de-la-cybercriminalite-se-renforce,,2026-10-29
 MDG,2026-11-03-mdg-madagascar-cyber-escroquerie-une-affaire-de-gros-sous,,2026-11-05
 MDG,2026-11-05-mdg-telecommunications-les-reformes-au-service-du-developpement-numerique,,2026-11-07
+MDG,2026-11-12-acces-a-internet-madagascar-veut-reduire-la-fracture-numerique,,2026-11-15
 MDG,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 MLI,2023-12-01-itu-digital-development-dashboard-mali,,2026-10-19
 MLI,2025-01-01-mli-mot-du-directeur-general,,2026-10-29
@@ -408,6 +430,7 @@ MOZ,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 MOZ,2025-07-31-submarinenetworks-wiocc-tmcel-framework-agreement-2africa,,2026-11-11
 MOZ,2025-10-21-moz-mozambique-expands-rural-telecom-network-to-bridge-digital-divide,,2026-11-01
 MOZ,2025-12-01-moz-mozambique-global-ai-ethics-and-governance-observatory,,2026-10-21
+MOZ,2026-03-01-xsa-cheaper-cross-border-call-rates-beckon-on-lower-tariffs-push,,2026-11-15
 MOZ,2026-08-26-agenceecofin-mozambique-amendes-telecoms-inclusion-numerique,,2026-10-19
 MOZ,2026-08-26-techgriot-mozambique-300-rural-localities,,2026-10-19
 MOZ,2026-10-08-world-development-indicators-selection-2026-11-10,,2026-11-11
@@ -420,6 +443,7 @@ MRT,2024-01-01-mrt-avis-general-de-passation-des-marches-du-projet-regional-d-in
 MRT,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 MRT,2025-10-01-banque-mondiale-findex-2025-mauritanie-connectivite-inclusion-financiere,,2026-10-19
 MRT,2025-12-03-mrt-mauritanie-24-2-millions-pour-poursuivre-la-transformation-numerique-e,,2026-11-07
+MRT,2026-01-26-mrt-mauritania-launches-tender-for-satellite-communications-licenses,,2026-11-15
 MRT,2026-02-24-mrt-mauritania-opens-digital-service-centers-to-expand-access-to-online-pu,,2026-11-12
 MRT,2026-05-05-mrt-mauritania-begins-deployment-of-second-undersea-cable,,2026-11-10
 MRT,2026-05-13-mrt-mauritania-trains-judges-lawyers-on-cybercrime-targeting-minors,,2026-10-29
@@ -434,9 +458,11 @@ MRT,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 MUS,2025-02-03-xaf-atu-report-urges-african-nations-to-prioritize-5g-deployment,,2026-11-06
 MUS,2025-04-11-mus-gis-child-online-safety-public-consultation,,2026-10-19
 MUS,2025-05-21-mus-an-ai-legislation-for-mauritius-fundamental-considerations,,2026-10-22
+MUS,2025-06-06-mus-maurice-emtel-introduit-linternet-par-satellite-avec-le-soutien-deutel,,2026-11-15
 MUS,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 MUS,2025-12-01-mus-mauritius-global-ai-ethics-and-governance-observatory,,2026-10-21
 MUS,2026-03-02-mus-escroqueries-et-fraudes-en-ligne-plus-de-900-affaires-traitees-en-3-an,,2026-10-29
+MUS,2026-07-10-mus-information-and-communication-technologies-ict-statistics-year-2025,,2026-11-15
 MUS,2026-10-07-mitci-mauritius-meta-online-safety-cooperation,,2026-10-29
 MUS,2026-10-08-mus-lexpress-portabilite-mobile-icta-atelier,,2026-10-19
 MUS,2026-10-08-world-development-indicators-selection-2026-11-10,,2026-11-11
@@ -452,6 +478,7 @@ MWI,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 MWI,2025-10-08-malawi-launches-broadband-mapping-system,,2026-10-19
 MWI,2025-11-19-mwi-maravi-airtel-five-international-fibre-routes,,2026-10-19
 MWI,2026-02-16 Malawi President orders digital revolution,,2026-10-19
+MWI,2026-03-01-xsa-cheaper-cross-border-call-rates-beckon-on-lower-tariffs-push,,2026-11-15
 MWI,2026-06-08-mwi-malawi-digital-economy,,2026-11-07
 MWI,2026-07-13-isoc-local-peering-africa,,2026-10-19
 MWI,2026-08-21-malawi-targets-smartphone-tax-relief,,2026-10-19
@@ -482,9 +509,11 @@ NAM,2026-10-07-na-paratus-oneweb-leo,,2026-11-11
 NAM,2026-10-08-world-development-indicators-selection-2026-11-10,,2026-11-11
 NAM,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 NER,2024-10-25-tcd-chad-looks-to-western-neighbors-for-internet-access-after-protracted-b,,2026-11-09
+NER,2024-11-21-ner-decret-2024-728-licence-starlink-niger-sarlu,,2026-11-15
 NER,2025-03-19-starlink-license-chad-launch-niger,,2026-10-19
 NER,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 NER,2025-10-14-ner-le-niger-intensifie-ses-efforts-pour-generaliser-l-acces-aux-services,,2026-11-01
+NER,2026-01-25-ner-lancement-officiel-du-projet-hub-de-peering-federe,,2026-11-15
 NER,2026-07-21-ner-developingtelecoms-arcep-5g-spectrum-consultation,,2026-10-19
 NER,2026-09-04-niger-mobile-network-quality-complaints,,2026-11-09
 NER,2026-09-21-gsma-pdaa-roadmap-1-billion-connected-africa-2030,,2026-10-19
@@ -496,6 +525,7 @@ NGA,2024-05-17-two-in-three-nigerian-women-missing-mobile-internet,,2026-10-19
 NGA,2024-07-18-nga-nigeria-s-digital-boom-threatened-as-fg-issues-33-alerts,,2026-10-29
 NGA,2025-02-03-xaf-atu-report-urges-african-nations-to-prioritize-5g-deployment,,2026-11-06
 NGA,2025-02-07-nga-unicef-connecting-every-child-digital-learning,,2026-10-19
+NGA,2025-07-01-nga-consultation-paper-on-the-review-of-the-internet-code-of-practice-2019,,2026-11-15
 NGA,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 NGA,2026-04-21-nga-akamai-joins-ixpn-accelerating-faster-cheaper-and-more-secure-internet,,2026-11-05
 NGA,2026-04-30-nga-telecom-operators-push-for-new-policy-as-nnbp-2020-2025-fails-expectat,,2026-10-29
@@ -517,6 +547,7 @@ NGA,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-01
 NGA,2026-10-29-from-informal-landmarks-to-sovereign-data-the-governance-challenge-facing-d,,2026-11-01
 NGA,2026-11-08-nga-nigeria-s-internet-capacity-expands-as-data-centre-links-hit-1tbps,,2026-11-09
 NGA,2026-11-09-draa-child-online-protection-must-be-guaranteed,,2026-11-11
+NGA,2026-11-11-businessday-google-600k-nigerian-teen-online-risks,,2026-11-15
 NGA,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 RWA,2024-01-01-digital-development-dashboard-rwanda,,2026-10-19
 RWA,2024-05-23-rwa-google-umoja-connectivity-africa,,2026-10-19
@@ -526,6 +557,7 @@ RWA,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 RWA,2025-10-22-digital-penetration-masterclass-telecomreview,,2026-10-19
 RWA,2025-11-12-rwa-rwanda-freedom-on-the-net-2025-country-report,,2026-11-12
 RWA,2026-01-01-rwa-rwanda-digital-health-case-study,,2026-10-22
+RWA,2026-01-01-rwa-rwanda-s-transition-to-a-knowledge-based-economy-pathways-and-policy-p,,2026-11-15
 RWA,2026-02-02-rwa-rwanda-global-ai-ethics-and-governance-observatory,,2026-10-22
 RWA,2026-03-25-hayo-expands-rwanda-techafricanews,,2026-10-19
 RWA,2026-05-25 Local Infrastructure Lower Costs How Peering Is Moving the Needle on Internet Affordability,,2026-10-19
@@ -541,6 +573,7 @@ RWA,2026-11-09-draa-child-online-protection-must-be-guaranteed,,2026-11-11
 RWA,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 SDN,2024-02-13-sdn-okayafrica-zain-data-centre-generators-stopped,,2026-10-19
 SDN,2024-03-12-tcd-chad-s-recent-outages-highlight-resiliency-gaps,,2026-11-10
+SDN,2024-04-26-sdn-starlink-to-shut-down-operations-in-sudan,,2026-11-15
 SDN,2024-08-22-tcd-another-outage-shows-challenges-facing-chad-s-internet-infrastructure,,2026-11-10
 SDN,2025-11-11-sudan-internet-society-pulse-country-report,,2026-10-19
 SDN,2025-12-12-sudan-rsf-bans-starlink-al-nuhud,,2026-10-19
@@ -556,12 +589,15 @@ SEN,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 SEN,2025-08-25-sen-anta-lia-au-service-du-citoyen-le-pari-reussi-de-senegal-numerique-sa,,2026-10-21
 SEN,2025-09-16-sen-senegal-expands-network-with-774-towers-to-reach-436-000-people,,2026-11-01
 SEN,2026-01-01-sen-situation-economique-et-sociale-du-senegal-sesn-edition-2024,,2026-11-11
+SEN,2026-02-05-sen-lamine-sene-fdsut-des-la-delivrance-de-l-autorisation-starlink-integre,,2026-11-15
 SEN,2026-09-15-gsma-state-of-mobile-internet-connectivity-2026-report,,2026-10-19
 SEN,2026-09-21-gsma-pdaa-roadmap-1-billion-connected-africa-2030,,2026-10-19
 SEN,2026-10-08-world-development-indicators-selection-2026-11-10,,2026-11-11
 SEN,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-01
 SEN,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
+SLE,2024-06-12-sle-starlink-goes-live-in-sierra-leone-a-year-after-receiving-licence,,2026-11-15
 SLE,2024-06-20-gmb-ecowas-amilcar-cabral-4th-ministerial,,2026-10-19
+SLE,2024-07-11-sle-how-the-un-is-connecting-the-world-s-classrooms,,2026-11-15
 SLE,2024-11-26-gin-la-guinee-et-la-sierra-leone-signent-un-accord-pour-renforcer-leur-int,,2026-11-09
 SLE,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 SLE,2026-05-05-sierra-leone-400m-telecom-usage-gap,,2026-10-19
@@ -577,6 +613,7 @@ SOM,2026-10-08-world-development-indicators-selection-2026-11-10,,2026-11-11
 SOM,2026-10-16-som-pch-soixp-directory-entry,,2026-10-19
 SOM,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 SSD,2024-07-23-moz-2024-east-africa-submarine-cable-outage-report,,2026-11-10
+SSD,2024-10-31-ssd-starlink-au-soudan-du-sud-une-petite-avancee-dans-l-un-des-pays-les-mo,,2026-11-15
 SSD,2025-05-16-ken-kenya-world-bank-deepen-cross-border-connectivity,,2026-11-10
 SSD,2025-07-03-nca-internet-growth-figures-eyeradio,,2026-10-19
 SSD,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
@@ -592,6 +629,7 @@ SSD,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 STP,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 STP,2026-01-01-stp-digitising-a-nation-s-public-service-delivery,,2026-10-29
 STP,2026-01-22-unesco-sao-tome-ai-ethics-governance-country-profile,,2026-10-19
+STP,2026-04-02-stp-gender-data-landscape-sao-tome-and-principe-2026-edition,,2026-11-15
 STP,2026-10-08-world-development-indicators-selection-2026-11-10,,2026-11-11
 STP,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 SWZ,2024-01-24-swz-motraco-and-tmcel-rubrica-agreement-for-strengthening-infrastructures,,2026-11-10
@@ -625,6 +663,7 @@ TCD,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
 TCD,2026-10-08-world-development-indicators-selection-2026-11-10,,2026-11-11
 TCD,2026-11-01-tcd-ixp-tracker-tchad,,2026-11-05
 TCD,2026-11-11-southwood-chad-landlocked-one-international-fibre-exit,,2026-11-12
+TCD,2026-11-11-tcd-chad-pp-26-policy-statement,,2026-11-15
 TCD,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 TGO,2024-03-18-tgo-capacity-equiano-togo-cls-traffic,,2026-10-19
 TGO,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre,,2026-10-19
@@ -662,6 +701,8 @@ TZA,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 TZA,2025-10-06-tza-tcra-yawezesha-ukuaji-wa-sekta-na-mfumo-shirikishi,,2026-11-10
 TZA,2025-11-07-tza-tz-internet-users-utilises-only-15-pc-of-available-capacity,,2026-11-10
 TZA,2025-11-12-tza-tanzania-imejipanga-kuwa-kitovu-cha-teknolojia-na-mawasiliano-afrika-m,,2026-11-10
+TZA,2026-02-16-tza-govt-accelerates-digital-revolution-in-100-days,,2026-11-15
+TZA,2026-02-17-tza-sadc-stakeholders-review-satellite-plans-in-dar-forum,,2026-11-15
 TZA,2026-03-01-tza-universal-and-meaningful-connectivity-tanzania-umc-workshop,,2026-10-29
 TZA,2026-05-01-tza-nida-id4africa-crvs-id-integration,,2026-10-19
 TZA,2026-05-15-tza-1-6gb-a-month-the-barrier-to-tanzanias-digital-transformation,,2026-11-12
@@ -706,6 +747,7 @@ ZAF,2018-10-31 Data deficit means we're in the dark about the digital divide,,20
 ZAF,2020-03-03 Digital equality South Africa still has a long way to go,,2026-10-19
 ZAF,2024-01-24-swz-motraco-and-tmcel-rubrica-agreement-for-strengthening-infrastructures,,2026-11-10
 ZAF,2024-07-23-moz-2024-east-africa-submarine-cable-outage-report,,2026-11-10
+ZAF,2024-11-18-zaf-africa-tech-festival-defining-moment-for-african-telecoms,,2026-11-15
 ZAF,2025-01-01-zaf-south-africa-freedom-on-the-net-2025-country-report,,2026-11-12
 ZAF,2025-02-03-xaf-atu-report-urges-african-nations-to-prioritize-5g-deployment,,2026-11-06
 ZAF,2025-03-04-zaf-napafrica-achieves-5tbps-traffic-milestone-driving-africas-digital-tra,,2026-11-05
@@ -728,6 +770,7 @@ ZMB,2024-06-01-zmb-2022-living-conditions-monitoring-survey-report,,2026-11-11
 ZMB,2024-09-19-zmb-how-does-zambia-accelerate-its-internet-resilience,,2026-11-05
 ZMB,2024-10-15-zmb-itu-and-norway-support-dtc-zambia-to-equip-more-than-240-cooperative-m,,2026-11-01
 ZMB,2025-09-17-zmb-airtel-ihs-build-152-telecom-towers-in-zambia,,2026-11-05
+ZMB,2026-03-01-xsa-cheaper-cross-border-call-rates-beckon-on-lower-tariffs-push,,2026-11-15
 ZMB,2026-03-24-zmb-itu-zamstats-2025-ict-survey-highlights,,2026-10-19
 ZMB,2026-03-28-zicta-2025-ict-postal-sector-market-performance-report-zambia-monitor,,2026-10-19
 ZMB,2026-09-21-zmb-airtel-fibre-optic-network-k324m,,2026-10-19
@@ -738,6 +781,7 @@ ZWE,2025-01-01-zwe-zimbabwe-s-data-protection-regime,,2026-11-01
 ZWE,2025-05-22-zwe-digital-inclusivity-leaving-no-place-no-person-behind,,2026-11-05
 ZWE,2025-07-21-open-data-inventory-odin-2026-11-10,,2026-11-11
 ZWE,2025-11-17-zwe-zimbabwe-s-information-communication-technology-policy-statement,,2026-10-29
+ZWE,2026-03-01-xsa-cheaper-cross-border-call-rates-beckon-on-lower-tariffs-push,,2026-11-15
 ZWE,2026-03-13-mavetera-84-55-internet-penetration-ai-strategy,,2026-10-19
 ZWE,2026-05-11-zwe-government-orders-ministries-to-integrate-ict-systems,,2026-10-29
 ZWE,2026-05-27-zwe-zimbabwe-intensifies-fight-against-rising-cybercrimes,,2026-10-29
