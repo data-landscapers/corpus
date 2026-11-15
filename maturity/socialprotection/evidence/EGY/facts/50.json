@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-10-egy-takaful-karama-system-redeveloped-as-integrated-digital-platform",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Ministry undersecretary Ahmed Abdelrahman said the ministry has fully redeveloped the Takaful and Karama system as an integrated digital system, with social researchers recording field data on tablets instead of paper forms.",
+   "as_of": "2026-07-10",
+   "date_precision": "day",
+   "system": "Takaful and Karama system",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Takaful and Karama database",
+   "country_label": "Egypt",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "Ministry of Social Solidarity",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

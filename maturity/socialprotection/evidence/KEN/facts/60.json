@@ -1,0 +1,70 @@
+{
+ "slug": "2026-02-01-ken-february-newsletter-edition",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "CHASP Advisory's February 2026 newsletter describes the CCTPMIS as the primary operational MIS for Kenya's Inua Jamii cash transfers, managing targeting, enrolment, case management and payments.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "CCTPMIS",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "The newsletter says the CCTPMIS facilitates efficient electronic disbursements for Inua Jamii.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "CCTPMIS",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "integrated",
+   "value": "several",
+   "fact": "The newsletter says the CCTPMIS delivers regular cash transfers across three core schemes, CT-OVC, OP-CT and PWSD-CT.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "CCTPMIS",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CCTPMIS",
+   "country_label": "Kenya",
+   "class": "socialmis",
+   "platform": "MIS",
+   "owner": "Government (Inua Jamii)",
+   "tiers": ""
+  },
+  {
+   "system": "Enhanced Single Registry (ESR)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "registry",
+   "owner": "Government",
+   "tiers": ""
+  },
+  {
+   "system": "HSNP MIS",
+   "country_label": "Kenya",
+   "class": "socialmis",
+   "platform": "MIS",
+   "owner": "National Drought Management Authority",
+   "tiers": ""
+  },
+  {
+   "system": "CDMIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "web",
+   "owner": "Directorate of Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -2,6 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Kwenda program Management Information System,Angola,socialmis,,FAS-IDL / MASFAMU,,2024-10-25-world-bank-isr-p169779-strengthening-national-social-protection-system
 AGO,SIGAS,Angola,other,,MASFAMU,54 CASIs,2024-10-25-world-bank-isr-p169779-strengthening-national-social-protection-system
 AGO,3S,Angola,socialmis,,National Institute of Social Security (INSS),,2025-12-18-worldbank-govtech-dataset-dec2025
+AGO,SIIPS (Integrated Social Protection Information System),Angola,socialmis,,Local Development Institute (FAS),,2024-02-06-ago-over-one-million-vulnerable-families-registered-with-siips
 BDI,CORE-MIS (openIMIS),Burundi,socialmis,openIMIS,"Government of Burundi, World Bank-financed Merankabandi",national programme,2026-01-01 Burundi's growing social protection system now runs on openIMIS
 BDI,Unified Social Registry,Burundi,other,,Government of Burundi,under development,2026-01-01 Burundi's growing social protection system now runs on openIMIS
 BDI,Système d'information de gestion (MIS) modernisé,Burundi,socialmis,,"Merankabandi II, Government of Burundi data centre",national,2026-06-30-le-renouveau-projet-merankabandi-ii-bilan-mi-parcours
@@ -22,6 +23,7 @@ BWA,"GPPPS - Government Payroll, Pensions and Passages System",Botswana,socialmi
 CAF,payment platform for safety net interventions (NDOYE project),Central African Republic,other,,Unite de Gestion du Projet Filets Sociaux (NDOYE),,2026-03-03-ndoye-social-safety-net-payment-platform-feasibility-tender
 CAF,CNSS telededeclaration platform,Centrafrique,other,web,CNSS,employers,2025-05-28-caf-oubangui-cnss-plateforme-teledeclaration
 CAF,Caisse de la Sécurité Sociale,Central African Republic,,,Ministère de la Fonction Publique et des Réformes Administratives,,2025-12-18-worldbank-govtech-dataset-dec2025
+CAF,HOPE,CAF,other,UNICEF Humanitarian Cash Transfer MIS,UNICEF,,2024-08-13-caf-hope-humanitarian-cash-transfer-system-launched-in-car
 CIV,Registre Social Unique (RSU),Côte d'Ivoire,other,,BCPFS,,2026-04-03-rsu-convention-bcpfs-oneci
 CIV,SIG-RSU,Côte d'Ivoire,other,,BCPFS,,2025-09-11-cote-divoire-atelier-interoperabilite-sig-rsu-protection-sociale
 CIV,IPS CGRAE,Côte d'Ivoire,socialmis,,CGRAE,,2025-12-18-worldbank-govtech-dataset-dec2025
@@ -32,6 +34,7 @@ CMR,Pension System,Cameroon,,,Ministère du Travail et de la Sécurité Sociale 
 COD,SIG-RDC,RDC,other,"mobile and web applications, physical and cloud servers","Ministere des Affaires Sociales, Actions Humanitaires et Solidarite Nationale",,2024-03-31-cod-ecomine-sig-registre-social-unique
 COD,STEP-KIN,COD,socialmis,mobile-phone self-registration platform and mobile money,Fonds social de la RDC,Kinshasa emergency cash transfer,2023-03-01-cod-worldbank-step-kin-transferts-numeriques
 COD,Application Cotiz,DR Congo,socialmis,,CNSSAP,,2025-12-18-worldbank-govtech-dataset-dec2025
+COD,RSU MIS,DRC,other,,Ministry of Social Affairs,,2024-03-28-cod-la-rdc-dotee-du-systeme-d-information-de-gestion-du-registre-social-un
 COG,social registry (registre social unique),"Congo, Republic of",other,,,,2025-12-22-world-bank-isr-10-social-protection-youth-productive-inclusion-p174178
 COG,Registre Social Unique,Congo,other,,,,2024-08-16-lancement-programme-national-filets-sociaux-congo
 COG,Registre Social Unique (RSU),Congo,other,,Ministry of Social Affairs,,2026-04-14-registre-social-unique-congo-siege-approprie
@@ -41,6 +44,7 @@ COM,"PFSS-RRC MIS (Plateforme de Gestion des Beneficiaires, Plateforme de Gestio
 COM,Registre Social Unique (RSU),Comores,other,,UGP-FSS / MSPS,,2025-04-25-com-pfss-aide-memoire-mi-parcours-registre-social
 COM,MIS of the PFSS-RRC project,Comoros,socialmis,MIS built and extended with the firm ASTRUM,UGP-FSS (Unite de Gestion des Projets Filets Sociaux),,2024-11-04-com-worldbank-aide-memoire-pfss-rrc-registre-social
 COM,Registre Social Unique (RSU),Comoros,other,,UGP-FSS / Commissariat en charge de la Protection Sociale,,2024-11-04-com-worldbank-aide-memoire-pfss-rrc-registre-social
+COM,Registre social unique,Comores,other,,Direction Générale de la Protection Sociale,,2025-06-03-com-decret-25-044-pr-direction-generale-protection-sociale
 CPV,Cadastro Social Único (CSU),Cabo Verde,other,,Government of Cabo Verde,,2025-02-03-cpv-bo-decreto-lei-3-2025-rede-seguranca-csu
 CPV,Base de Dados do sistema de pensões do regime não contributivo,Cabo Verde,socialmis,,Centro Nacional de Prestações Sociais (CNPS),Pensão Social,2025-02-03-cpv-bo-decreto-lei-3-2025-rede-seguranca-csu
 CPV,Sistema Integrado da Providência Social,Cabo Verde,socialmis,,Instituto Nacional de Previdência Social,,2025-12-18-worldbank-govtech-dataset-dec2025
@@ -57,8 +61,13 @@ EGY,Unified National Registry,Egypt,other,,Administrative Control Authority,,202
 EGY,Unified Government Services Card,Egypt,socialmis,card linked to Egypt Post accounts,Ministry of Communications and Information Technology,,2026-06-14-egypt-unified-government-services-card-ahram
 EGY,Takaful and Karama,Egypt,socialmis,"Meeza cards, Fawry, ATMs",Ministry of Social Solidarity,,2026-06-01-egy-social-solidarity-launches-june-takaful-and-karama-disbursement
 EGY,National Social Insurance Authority systems (current and new),Egypt,,,National Social Insurance Authority (NOSI),,2025-09-01-egy-pm-reviews-nosi-traffic-systems-digital-linkage
+EGY,Takaful and Karama database,Egypt,socialmis,,Ministry of Social Solidarity,,2026-11-02-egy-network-linkage-governs-takaful-and-karama-beneficiary-checks
+EGY,Takaful and Karama database,Egypt,socialmis,,Ministry of Social Solidarity,,2026-07-10-egy-takaful-karama-system-redeveloped-as-integrated-digital-platform
+EGY,Takaful and Karama database,Egypt,socialmis,,Ministry of Social Solidarity,,2026-05-19-egy-takaful-karama-database-linked-to-over-20-state-bodies
+EGY,Takaful and Karama central database,Egypt,socialmis,tablet and computer case files,Ministry of Social Solidarity,,2024-10-06-egy-takaful-karama-enrolment-tablet-registration-and-payout-channels
 ETH,PSNP management information system (MIS),ETH,socialmis,,Ministry of Agriculture,federal to woreda,2025-10-20-ethiopia-seasn-restructuring-paper
 ETH,Integrated National Social Security Administration System,Ethiopia,socialmis,,Public Sector Social Security Agency,,2025-12-18-worldbank-govtech-dataset-dec2025
+ETH,Productive Safety Net Programme Phase 5 (PSNP5),Ethiopia,other,,Ministry of Agriculture,,2024-11-01-eth-joint-review-and-implementation-support-jris-mission-newsletter-novemb
 GAB,INIVAE,Gabon,socialmis,,CPPF,,2025-12-18-worldbank-govtech-dataset-dec2025
 GHA,GISPIS,Ghana,socialmis,ESB then microservices (planned),"Ministry of Gender, Children and Social Protection",,2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system
 GHA,GNHR,Ghana,other,,"Ministry of Gender, Children and Social Protection",,2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system
@@ -78,6 +87,10 @@ KEN,Single Registry,Kenya,other,,,,2025-10-01-kseip2-egcm-guidelines
 KEN,CCTP-MIS,Kenya,socialmis,,Directorate of Social Assistance,national,2025-08-01-kseip2-esmp
 KEN,Enhanced Single Registry,Kenya,other,,,national,2025-08-01-kseip2-esmp
 KEN,NSSF / Retirement Benefits Authority,Kenya,socialmis,,National Social Security Fund,,2025-12-18-worldbank-govtech-dataset-dec2025
+KEN,CCTPMIS,Kenya,socialmis,MIS,Government (Inua Jamii),,2026-02-01-ken-february-newsletter-edition
+KEN,Enhanced Single Registry (ESR),Kenya,other,registry,Government,,2026-02-01-ken-february-newsletter-edition
+KEN,HSNP MIS,Kenya,socialmis,MIS,National Drought Management Authority,,2026-02-01-ken-february-newsletter-edition
+KEN,CDMIS,Kenya,other,web,Directorate of Social Development,,2026-02-01-ken-february-newsletter-edition
 LBR,Liberia Household Social Registry,Liberia,other,,"Ministry of Gender, Children and Social Protection",,2026-05-18-liberia-realise-crisis-response-plan-household-social-registry
 LBR,MTN mobile money,Liberia,other,MTN Liberia,MTN Liberia,,2026-05-18-liberia-realise-crisis-response-plan-household-social-registry
 LBR,IMIS,Liberia,socialmis,,"Ministry of Gender, Children and Social Protection",,2025-02-24-lbr-worldbank-icr-inclusive-growth-dpo
@@ -93,6 +106,8 @@ MAR,Aides sociales directes (ASD) management information system,Morocco ASD MIS,
 MAR,Pension System,Morocco,socialmis,,Caisse Marocaine des Retraites,,2025-12-18-worldbank-govtech-dataset-dec2025
 MDG,Registre Social Unique (RSU),Registre Social Unique,other,,FID,,2024-12-16-mdg-fid-tdr-assca-tmnc-mobile-money
 MDG,LUCY,Madagascar,socialmis,,CNAPS,,2025-12-18-worldbank-govtech-dataset-dec2025
+MDG,PGP platform,Madagascar,other,PGP,FID,,2024-07-11-mdg-service-pour-le-paiement-des-transferts-monetaires-par-qr-code-sur-la
+MDG,MIS RSU,Madagascar,other,national platform for the Registre Social Unique,Ministere de la Population et des Solidarites,,2026-10-15-mdg-recrutement-d-un-cabinet-pour-la-conception-le-developpement-et-l-acco
 MOZ,INAS MIS (eINAS),Mozambique,socialmis,,INAS,,2026-05-19-worldbank-pid-social-registry-af1
 MOZ,National Social Registry,Mozambique,other,,MTGAS,,2026-05-19-worldbank-pid-social-registry-af1
 MOZ,INGD digital humanitarian beneficiary registration system,Mozambique,other,,INGD,,2026-08-10-ingd-sgbah-digital-registration
@@ -101,6 +116,7 @@ MOZ,e-INAS,Mozambique,socialmis,,INAS,,2025-01-01-wb-mozambique-social-protectio
 MOZ,social registry,Mozambique,other,,,,2025-01-01-wb-mozambique-social-protection-economic-resilience-restructuring
 MOZ,SGB / e-INAS,SGB,socialmis,,INAS / CEDSIF,,2026-09-01-moz-cedsif-modulos-e-sistafe
 MOZ,Sistema de Informação da segurança social de Moçambique,Mozambique,socialmis,,Public Social Security Institute (INPS),,2025-12-18-worldbank-govtech-dataset-dec2025
+MOZ,e-INAS,Mozambique,socialmis,electronic platform,INAS,,2025-04-15-moz-avaliacao-expoe-fragilidades-no-subsidio-social-basico-e-recomenda-ref
 MRT,Registre Social,Registre Social,other,,,,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
 MRT,registre social,registre social,other,,,,2026-10-14-mrt-futureafrique-conseil-ministres-composantes-numerique
 MRT,système de réponse aux chocs,système de réponse aux chocs,other,,,,2026-10-14-mrt-futureafrique-conseil-ministres-composantes-numerique
@@ -145,11 +161,13 @@ SDN,Thamarat registration website,Sudanese Families Support Program,socialmis,,M
 SEN,Registre national unique (RNU),Senegal,other,,,,2026-06-17-aps-rnu-extension-996194-menages
 SEN,Programme national de bourses de sécurité familiale,Senegal,other,,,,2026-06-17-aps-rnu-extension-996194-menages
 SEN,IPRES,Senegal,,,"Ministry of Public Function, Labor, Employment, and Professional Organizations",,2025-12-18-worldbank-govtech-dataset-dec2025
+SEN,Registre national unique (RNU),Senegal,other,,"Ministere de la Famille, de l'Action sociale et des Solidarites",,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific
 SLE,SP Registry for Integrated National Targeting,Sierra Leone,socialmis,,NaCSA,,2023-06-20-sle-worldbank-safety-nets-restructuring-paper
 SLE,"digitized registration, verification and enrolment process",Sierra Leone,socialmis,,"Ministry of Employment, Labour and Social Security / NaCSA",,2024-09-01-sle-ministry-of-labour-embarks-on-cash-transfer-of-nle1-018-to-poor-sierra
 SLE,NAPOS-II,Sierra Leone,socialmis,,National Social Security and Insurance Trust,,2025-12-18-worldbank-govtech-dataset-dec2025
 SOM,Social Protection Delivery System (SPDS),Somalia,other,,,,2026-05-13-somalia-boost-you-additional-financing-project-paper
 SOM,Unified Social Registry (USR),Somalia,other,,,,2026-05-13-somalia-boost-you-additional-financing-project-paper
+SOM,Baxnaano MIS,Somalia,socialmis,,Ministry of Labour and Social Affairs,,2023-12-21-som-implementation-status-results-report-shock-responsive-safety-net-for-h
 SSD,Management Information System (SNSOP),South Sudan,socialmis,,Ministry of Agriculture and Food Security,,2025-09-18-cash-transfers-helping-women-south-sudan
 SSD,integrated MIS (SNSOP),South Sudan,socialmis,,MAFS (handed over from UNOPS; MGCSW to manage later),,2024-08-21-snsop-additional-financing-project-paper
 SSD,Government-led Management Information System (Shabaka Meisha),South Sudan,socialmis,,Ministry of Agriculture and Food Security,,2024-12-17-mafs-shabaka-meisha-cash-transfer-launch
@@ -179,6 +197,7 @@ TUN,Systeme de paiement des cotisations,Tunisia,socialmis,,Caisse Nationale de S
 TZA,social registry,Tanzania,other,,TASAF,,2026-03-31-world-bank-tza-2026-pssn-iii-social-safety-net
 TZA,TASAF MIS,Tanzania,socialmis,"TASAF Registry, GePG",TASAF,,2026-03-01-tza-tasaf-pssn-iii-payment-handbook
 TZA,Members Portal,Tanzania,socialmis,,Public Service Social Security Fund (PSSSF),,2025-12-18-worldbank-govtech-dataset-dec2025
+TZA,Productive Social Safety Net (PSSN),Tanzania,other,,PMO-LYED,,2025-11-01-tza-tanzania-s-social-protection-profile
 UGA,National Single Registry (NSR),Uganda,socialmis,,MGLSD,,2024-07-01-uga-mglsd-social-registry-feasibility-report
 UGA,Proposed Social Registry (NUSAF 4),Uganda,other,,MGLSD,,2024-07-01-uga-mglsd-social-registry-feasibility-report
 UGA,National Single Registry,Uganda,socialmis,web-based integrated beneficiary and social registry,"Ministry of Gender, Labour and Social Development",,2022-03-01-uga-devpathways-national-single-registry

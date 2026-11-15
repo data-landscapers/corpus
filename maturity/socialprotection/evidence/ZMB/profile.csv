@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ZMB,socialmis,system,coverage,underway,2025-11-10,ZMB-001,,
-ZMB,socialmis,payments,coverage,,,,,nothing found
+ZMB,socialmis,payments,coverage,electronic,2026-07-02,ZMB-002;ZMB-003,,
 ZMB,socialmis,integrated,coverage,,,,,nothing found

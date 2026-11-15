@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-eth-digital-public-goods-in-use-applications-of-openg2p-in-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "OpenG2P says its platform has registered about 300,000 people for the Ethiopian Disaster Risk Management Commission's Emergency Relief Programme, ranked by a Food Security Score.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "OpenG2P Program and Beneficiary Management System",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

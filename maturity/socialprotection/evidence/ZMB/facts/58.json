@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-15-zmb-zambia-reports-major-digital-economy-gains-at-3rd-digital-economy-roun",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "Zambia's government reported its Social Cash Transfer digitised, with one million beneficiaries onboarded onto mobile money platforms.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "Social Cash Transfer",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

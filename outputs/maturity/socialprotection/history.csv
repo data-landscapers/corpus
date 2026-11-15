@@ -38,3 +38,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,CIV,dpi.mis--social-protection,ladder,unplaced,4,CIV-002;CIV-001,"Restaged under message 114 (housekeeping 57): the World Bank's May 2025 report counts beneficiaries from the safety-net programme's MIS; with digital payments in 2024, unplaced to 4."
 2026-11-11,ZWE,dpi.mis--social-protection,ladder,unplaced,2,ZWE-003,"Restaged under message 114 (housekeeping 57): the World Bank's February 2026 document says the social protection MIS, now ZISO, is still being made operational; unplaced to 2."
 2026-11-13,TGO,dpi.mis--social-protection,review,unplaced,unplaced,,"Rebuild reassessment: TGO-001 (September 2023) and the 2020 Novissi rows fall outside the three years; stays unplaced, short summary no longer says nothing since 2023."
+2026-11-15,SOM,dpi.mis--social-protection,fact,unplaced,2,SOM-003,"World Bank Nov 2023 ISR says the Baxnaano MIS is in development: question 1 met, stage 2; no source has it in service"
+2026-11-15,ZMB,dpi.mis--social-protection,fact,2,2,ZMB-001,"2026 reports of Social Cash Transfer paid 92% by mobile money or bank name no system in service: payments recorded, stays at 2"

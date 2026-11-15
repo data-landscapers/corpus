@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-15-mdg-recrutement-d-un-cabinet-pour-la-conception-le-developpement-et-l-acco",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MIS RSU",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "national platform for the Registre Social Unique",
+   "owner": "Ministere de la Population et des Solidarites",
+   "tiers": ""
+  }
+ ],
+ "note": "The system procured is for the social registry, not a programme's beneficiary management or payment."
+}

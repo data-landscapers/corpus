@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-15-moz-avaliacao-expoe-fragilidades-no-subsidio-social-basico-e-recomenda-ref",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "O Economico reports that the e-INAS electronic platform, introduced to modernise and speed up management of the Programa de Subsidio Social Basico (about 450,000 beneficiaries), is in use but does not yet ensure efficient, transparent coverage in all provinces, per an IGM programme evaluation.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "e-INAS",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-INAS",
+   "country_label": "Mozambique",
+   "class": "socialmis",
+   "platform": "electronic platform",
+   "owner": "INAS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

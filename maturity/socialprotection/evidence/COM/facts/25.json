@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-com-le-gouvernement-comorien-et-la-banque-mondiale-renforcent-leur-partena",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "PFSS-RRC states that Projet Mayendeleyo operations, from household enrolment to beneficiary validation and payment, rest on digital mechanisms, with transfers planned for 55,000 households.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Projet Mayendeleyo",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

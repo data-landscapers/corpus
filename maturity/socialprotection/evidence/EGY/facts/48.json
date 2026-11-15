@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-31-egy-implementation-status-results-report-takaful-and-karama-cash-transfer",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "World Bank ISR says efforts to strengthen the Takaful and Karama programme's Management Information System are ongoing, and over 94 percent of MOSS offices are automated.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Takaful and Karama MIS",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

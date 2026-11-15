@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-28-cod-la-rdc-dotee-du-systeme-d-information-de-gestion-du-registre-social-un",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RSU MIS",
+   "country_label": "DRC",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Social Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "The MIS described is the social registry's, not a programme MIS."
+}

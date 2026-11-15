@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-02-zmb-govt-claims-k1-4-billion-released-as-social-cash-transfers-to-vulnerab",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "Zambia's MCDSS Permanent Secretary says 92 percent of Social Cash Transfer beneficiary households now receive transfers through mobile money or bank accounts.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Social Cash Transfer",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

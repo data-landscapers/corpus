@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-06-egy-takaful-karama-enrolment-tablet-registration-and-payout-channels",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Egypt's Ministry of Social Solidarity says Takaful and Karama applicants are recorded by field researchers on tablets or computers with scanned documents, reviewed by the social unit head and sent to a central database for verification and eligibility testing.",
+   "as_of": "2024-10-06",
+   "date_precision": "day",
+   "system": "Takaful and Karama central database",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Takaful and Karama central database",
+   "country_label": "Egypt",
+   "class": "socialmis",
+   "platform": "tablet and computer case files",
+   "owner": "Ministry of Social Solidarity",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

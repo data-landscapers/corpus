@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "socialmis",
-   "stage": "2",
-   "system": "underway",
-   "payments": "",
-   "integrated": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-001",
-   "gaps": "No source found since October 2023 says: is a programme run on one.",
-   "note": "First pass: counted from the four questions by study-ladder-socialprotection.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "socialmis",
+      "stage": "2",
+      "system": "underway",
+      "payments": "electronic",
+      "integrated": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-001",
+      "gaps": "No source found since October 2023 says a social programme's beneficiaries are enrolled and managed in an information system in service.",
+      "note": "Question 1 met by a programme MIS under procurement (ZMB-001). Social Cash Transfer payments by mobile money or bank in 2026 (ZMB-002, ZMB-003) name no system in service, so question 2 is unanswered and the cell stays at stage 2.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MDG,Registre Social Unique (RSU),Registre Social Unique,other,,FID,,2024-12-16-mdg-fid-tdr-assca-tmnc-mobile-money
 MDG,LUCY,Madagascar,socialmis,,CNAPS,,2025-12-18-worldbank-govtech-dataset-dec2025
+MDG,PGP platform,Madagascar,other,PGP,FID,,2024-07-11-mdg-service-pour-le-paiement-des-transferts-monetaires-par-qr-code-sur-la
+MDG,MIS RSU,Madagascar,other,national platform for the Registre Social Unique,Ministere de la Population et des Solidarites,,2026-10-15-mdg-recrutement-d-un-cabinet-pour-la-conception-le-developpement-et-l-acco

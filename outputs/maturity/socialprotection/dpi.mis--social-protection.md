@@ -23,9 +23,9 @@ The African Union's Protocol on Social Protection asks for an integrated social 
 | 5 Leading | 1 |
 | 4 Operating | 14 |
 | 3 Established | 14 |
-| 2 Nascent | 4 |
+| 2 Nascent | 5 |
 | 1 Absent | 1 |
-| Unplaced | 9 |
+| Unplaced | 8 |
 | No evidence | 11 |
 
 ## Countries
@@ -224,9 +224,15 @@ A programme management information system was under way in 2025; none in service
 
 - ISSA says INSESO's paperless project to digitise its files has been piloted on family allowance files, cutting processing from two days to 20 minutes ([source, 2025](https://www.issa.int/gp/285301)).
 
+### Somalia: 2 Nascent
+
+A cash transfer system was in development in 2023 and payments go by mobile money; no system in service is known.
+
+- The World Bank's ISR says the Baxnaano Management Information System is in development, with the national cash transfer MIS indicator marked 'In Progress' ([source, 2023-11-30](https://documents1.worldbank.org/curated/en/099122123073523097/pdf/P17134614ca3f506019183195856ebad001.pdf)).
+
 ### Zambia: 2 Nascent
 
-A programme management information system was under way in 2025; none in service is on record.
+A programme system was being procured in 2025 and cash transfers were paid by mobile money in 2026; no system in service is known.
 
 - The World Bank project paper says procurement of a GBV management information system, to be integrated with the GBV call center and possibly other programme MISs and the national Social Registry, is on-going under GEWEL 2 ([source, 2025-11-10](https://documents1.worldbank.org/curated/en/099111025101519517/pdf/P181391-34653b79-f98e-4c0c-a842-18e4bab01cb6.pdf)).
 
@@ -277,12 +283,6 @@ Not established: Nothing found since October 2023 says whether a social programm
 Nothing found since 2023 names a social programme management information system, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether a social programme runs on an information system.
-
-### Somalia: Unplaced
-
-A cash transfer paid 50,000 households by mobile money in 2025, but no system managing its beneficiaries is known, so no stage is set.
-
-Not established: No source found since October 2023 says a management information system for a social programme is procured, piloted, built or in service.
 
 ### Sudan: Unplaced
 

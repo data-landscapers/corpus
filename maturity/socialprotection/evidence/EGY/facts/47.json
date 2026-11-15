@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-02-egy-network-linkage-governs-takaful-and-karama-beneficiary-checks",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Takaful and Karama database",
+   "country_label": "Egypt",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "Ministry of Social Solidarity",
+   "tiers": ""
+  }
+ ],
+ "note": "States only that eligibility is checked by network linkage to other bodies' databases; no statement on the programme's own system, payments or several programmes."
+}
