@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-gin-l-ecosysteme-startup-au-cur-de-la-future-strategie-nationale-de-gouver",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Guinee Alliance Startup says the national economy directorate (DNEN) and UN Economic Commission for Africa held a consultation with it as part of drawing up Guinea's National Data Governance Strategy.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Stratégie Nationale de Gouvernance des Données",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie Nationale de Gouvernance des Données",
+   "country_label": "Guinea",
+   "class": "policy",
+   "platform": "",
+   "owner": "DNEN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
