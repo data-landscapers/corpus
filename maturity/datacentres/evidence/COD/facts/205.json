@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-10-cod-startups-in-dr-congo-are-building-africa-s-overlooked-digital-frontier",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "TechCabal says OADC Texaf Digital FIH1 in Kinshasa is the country's first and only Tier-III certified open-access, carrier-neutral data centre.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "OADC Texaf Digital FIH1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC Texaf Digital FIH1",
+   "country_label": "DR Congo",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "OADC and TEXAF",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "No cloud region stated."
+}

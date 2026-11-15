@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-23-sdn-sudren-university-network-restored-from-red-sea-university",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Red Sea University data centre",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Red Sea University",
+   "tiers": ""
+  }
+ ],
+ "note": "The Red Sea University data centre is said to run SudREN but is not stated to rent space or computing to outside organisations."
+}

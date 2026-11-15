@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-01-mli-the-journey-to-maliren-connectivity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MaliREN Data Center",
+   "country_label": "MaliREN Data Center",
+   "class": "other",
+   "platform": "",
+   "owner": "MaliREN",
+   "tiers": ""
+  }
+ ],
+ "note": "A MaliREN data center is shown as a caption only; no statement that it rents to others or its Tier."
+}
