@@ -1,16 +1,17 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "harmonisation",
-   "stage": "1",
-   "accepted": "none",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-regionallaw.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "harmonisation",
+      "stage": "2",
+      "accepted": "signed",
+      "effect": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-002",
+      "gaps": "The African Union's register of February 2026 shows no signature, while MISA in July 2026 calls Zimbabwe a signatory; no date of signature is given, and no ratification is reported.",
+      "note": "The newest dated source, MISA in July 2026, says Zimbabwe has signed the Malabo Convention and not ratified it. Nothing reports a ratification, so it stops at stage 2.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

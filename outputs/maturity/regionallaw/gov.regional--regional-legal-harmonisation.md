@@ -1,6 +1,6 @@
 # Regional legal harmonisation: regional digital law taken into national law
 
-*As at 2026-11-02.*
+*As at 2026-11-15.*
 
 ## The norm
 
@@ -20,15 +20,24 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Leading | 1 |
 | 4 Operating | 1 |
-| 3 Established | 25 |
-| 2 Nascent | 10 |
-| 1 Absent | 18 |
+| 3 Established | 24 |
+| 2 Nascent | 11 |
+| 1 Absent | 17 |
 | Unplaced | 0 |
 | No evidence | 0 |
 
 ## Countries
+
+### Cape Verde: 5 Leading
+
+Cape Verde ratified the African Union cyber convention in 2020, enacted an ECOWAS cybersecurity directive in 2021, and met ECOWAS roaming tariffs in 2024.
+
+- ECOWAS says the 16th NRA focal points meeting validated Cabo Verde operators' roaming tariffs as in line with Regulation C/REG.21/12/17 ([source, 2024-11-28](https://www.ecowas.int/16th-meeting-of-focal-points-of-ecowas-national-regulatory-authorities-on-the-implementation-of-regional-roaming-concludes-in-praia-cabo-verde/)).
+- Decreto-lei nº 9/2021, published in the Boletim Oficial of 29 January 2021, sets Cabo Verde's cybersecurity legal regime and states in Article 1(2) that it adopts ECOWAS Directive C/DIR. 1/08/11 ([source, 2021-01-29](https://boe.incv.cv/Bulletins/Download/3589)).
+- The African Union Commission's status list of 02/02/2026 records the date Cape Verde deposited its instrument for the Convention on Cyber Security and Personal Data Protection as 05/02/2022 ([source, 2022-02-05](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
+- The African Union Commission's status list of 02/02/2026 records Cape Verde's ratification or accession to the Convention on Cyber Security and Personal Data Protection as dated 13/11/2020, with no date of signature ([source, 2020-11-13](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
 
 ### Togo: 4 Operating
 
@@ -50,13 +59,6 @@ Angola ratified the African Union's cyber security and data protection conventio
 Benin ratified the African Union's cyber security and data protection convention in 2024; no national law giving effect to it is known.
 
 - The African Union Commission's status list of 02/02/2026 records Benin's ratification of the Convention on 14/05/2024 and the deposit of its instrument on 12/11/2024 ([source, 2024-05-14](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
-
-### Cape Verde: 3 Established
-
-Cape Verde ratified the African Union's cyber security and data protection convention in 2020; no national law giving effect to it is known.
-
-- The African Union Commission's status list of 02/02/2026 records the date Cape Verde deposited its instrument for the Convention on Cyber Security and Personal Data Protection as 05/02/2022 ([source, 2022-02-05](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
-- The African Union Commission's status list of 02/02/2026 records Cape Verde's ratification or accession to the Convention on Cyber Security and Personal Data Protection as dated 13/11/2020, with no date of signature ([source, 2020-11-13](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
 
 ### Congo: 3 Established
 
@@ -263,6 +265,12 @@ Tunisia signed the African Union's cyber security and data protection convention
 
 - The African Union Commission's status list of 02/02/2026 records Tunisia as having signed the African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention) on 23/04/2019, with no date of ratification or accession and no date of deposit; 20 of 55 states have ratified or acceded ([source, 2019-04-23](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
 
+### Zimbabwe: 2 Nascent
+
+Zimbabwe was reported in 2026 to have signed the African Union's cyber security and data protection convention; no ratification is known.
+
+- MISA Regional says Zimbabwe is a signatory to the African Union Malabo Convention but has not ratified it ([source, 2026-07-01](https://misa.org/blog/legislative-and-regulatory-reform-in-zimbabwes-digital-sector-a-rights-based-perspective/)).
+
 ### Algeria: 1 Absent
 
 Algeria had not signed the African Union's cyber security and data protection convention by February 2026; no other shared digital law is known.
@@ -369,9 +377,3 @@ Somalia had not signed the African Union's cyber security and data protection co
 South Sudan had not signed the African Union's cyber security and data protection convention by February 2026; no other shared digital law is known.
 
 - The African Union Commission's status list dated 02/02/2026 shows South Sudan with no date of signature, ratification or accession, and no date of deposit, for the Convention on Cyber Security and Personal Data Protection (20 of 55 states have ratified) ([source, 2026-02-02](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
-
-### Zimbabwe: 1 Absent
-
-Zimbabwe had not signed the African Union's cyber security and data protection convention by February 2026; no other shared digital law is known.
-
-- The African Union Commission's status list dated 02/02/2026 shows Zimbabwe with no date of signature, ratification or accession, and no date of deposit, for the Malabo Convention (21 signatures and 20 deposits across 55 countries) ([source, 2026-02-02](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-zwe-legislative-and-regulatory-reform-in-zimbabwes-digital-sector-a-rights",
+ "facts": [
+  {
+   "sub_indicator": "harmonisation",
+   "aspect": "accepted",
+   "value": "signed",
+   "fact": "MISA Regional says Zimbabwe is a signatory to the African Union Malabo Convention but has not ratified it.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "harmonisation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malabo Convention",
+   "country_label": "Zimbabwe",
+   "class": "harmonisation",
+   "platform": "",
+   "owner": "African Union",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
