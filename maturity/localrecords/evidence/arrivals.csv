@@ -716,7 +716,7 @@ COD,18,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-
 COG,24,2026-10-17-cog-adiac-arpce-livre-blanc-adressage-postal,2026-11-13,capped,2026-11-14
 COG,25,2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb,2026-11-13,capped,2026-11-13
 COG,26,2022-05-11-world-bank-congo-digital-acceleration-project-appraisal-document,2026-11-13,instrument,2026-11-13
-DZA,35,2026-01-01-dza-main-measures-of-the-2026-finance-law,2026-11-13,,
+DZA,35,2026-01-01-dza-main-measures-of-the-2026-finance-law,2026-11-13,nothing,2026-11-15
 ETH,19,2026-11-02-eth-mekelle-city-set-to-join-ethiopias-mesob-one-stop-service-network-as-p,2026-11-13,capped,2026-11-14
 ETH,20,2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill,2026-11-13,capped,2026-11-14
 ETH,21,2026-07-20-amn-addis-mesob-digital-one-stop-service-centres,2026-11-13,capped,2026-11-14
@@ -728,8 +728,8 @@ ETH,26,2024-12-11-eth-addis-ababa-embarking-on-smart-city-transformation,2026-11
 ETH,27,2025-12-17-govtech-maturity-index-2025-tracking-public-sector-digital-transformation,2026-11-13,instrument,2026-11-13
 ETH,28,2019-11-03-eth-mint-eegif-governance-compliance-draft,2026-11-13,instrument,2026-11-13
 GAB,23,2026-09-15-gab-worldbank-public-finance-review-2026,2026-11-13,instrument,2026-11-13
-GHA,74,2026-02-10-gha-ghana-s-cashless-property-tax-lifts-revenue-exposes-weak-enforcement,2026-11-13,,
-KEN,38,2026-05-07-ken-kra-to-link-real-time-tax-systems-to-m-pesa-for-easier-compliance,2026-11-13,,
+GHA,74,2026-02-10-gha-ghana-s-cashless-property-tax-lifts-revenue-exposes-weak-enforcement,2026-11-13,fact,2026-11-15
+KEN,38,2026-05-07-ken-kra-to-link-real-time-tax-systems-to-m-pesa-for-easier-compliance,2026-11-13,nothing,2026-11-15
 KEN,39,2025-03-01-ken-special-audit-report-of-the-auditor-general-on-government-digital-paym,2026-11-13,instrument,2026-11-13
 KEN,40,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-the-east-afr,2026-11-13,instrument,2026-11-13
 LBR,36,2025-06-01-lbr-liberia-revenue-authority-annual-report-january-december-fy2024,2026-11-13,instrument,2026-11-13
@@ -747,7 +747,7 @@ RWA,56,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-
 SDN,19,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-the-east-afr,2026-11-13,instrument,2026-11-13
 SEN,40,2023-06-01-sen-senegal-reform-matrix-compact-with-africa-monitoring-report-june-2023,2026-11-13,instrument,2026-11-13
 SLE,39,2025-10-28-sle-fcc-launches-afrimoney-for-property-rate-and-business-licence-payments,2026-11-13,capped,2026-11-15
-SLE,40,2025-08-22-sle-nra-hits-100-digital-tax-filing-compliance-as-sierra-leone-s-revenue-r,2026-11-13,,
+SLE,40,2025-08-22-sle-nra-hits-100-digital-tax-filing-compliance-as-sierra-leone-s-revenue-r,2026-11-13,nothing,2026-11-15
 SOM,26,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-the-east-afr,2026-11-13,instrument,2026-11-13
 SSD,18,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-the-east-afr,2026-11-13,instrument,2026-11-13
 STP,14,2025-08-01-stp-democratic-republic-of-sao-tome-and-principe-2025-article-iv-consultat,2026-11-13,instrument,2026-11-13
@@ -761,7 +761,7 @@ ZMB,29,2025-05-22-zmb-govt-orders-councils-to-digitize-revenue-collection-to-cur
 ZMB,30,2025-04-02-zmb-bank-of-zambia-annual-report-2024,2026-11-13,instrument,2026-11-13
 ZMB,31,2023-08-01-zmb-zra-2022-tax-statistics,2026-11-13,instrument,2026-11-13
 ZWE,39,2023-10-16-zwe-public-notice-68-of-2023-tarms-go-live,2026-11-13,old,2026-11-13
-AGO,30,2025-11-15-ago-startup-executivo-aprova-proposta-de-lei-com-incentivos-fiscais-alarga,2026-11-14,,
+AGO,30,2025-11-15-ago-startup-executivo-aprova-proposta-de-lei-com-incentivos-fiscais-alarga,2026-11-14,nothing,2026-11-15
 AGO,31,2024-10-24-stp-estudo-alargado-dos-procedimentos-de-avaliacao-e-regulacao-adotados-pe,2026-11-14,instrument,2026-11-14
 BFA,21,2024-11-01-bfa-tableau-de-bord-statistique-des-impots,2026-11-14,instrument,2026-11-14
 BFA,22,2023-01-01-bfa-code-general-des-impots-2023-a-jour-avec-la-loi-de-finances-2023,2026-11-14,instrument,2026-11-14
@@ -769,7 +769,7 @@ BWA,20,2022-08-16-bwa-stakeholders-call-for-system-improvement,2026-11-14,old,20
 CAF,16,2019-11-01-caf-central-african-republic-economic-update-strengthening-domestic-revenu,2026-11-14,instrument,2026-11-14
 CIV,52,2025-03-01-civ-global-forum-on-transparency-and-exchange-of-information-for-tax-purpo,2026-11-14,instrument,2026-11-14
 CIV,53,2021-12-01-civ-cote-d-ivoire-rapport-d-evaluation-de-la-performance-tadat,2026-11-14,instrument,2026-11-14
-CMR,29,2026-05-13-cmr-cameroun-la-dgi-simplifie-le-paiement-des-avis-d-imposition-via-mtn-mo,2026-11-14,,
+CMR,29,2026-05-13-cmr-cameroun-la-dgi-simplifie-le-paiement-des-avis-d-imposition-via-mtn-mo,2026-11-14,nothing,2026-11-15
 CMR,30,2021-01-01-snds30-strategie-nationale-developpement-statistique,2026-11-14,instrument,2026-11-14
 COD,19,2025-06-18-cod-democratic-republic-of-the-congo-first-review-under-the-extended-credi,2026-11-14,instrument,2026-11-14
 COM,20,2022-08-15-com-union-des-comores-rapport-des-engagements-nationaux-moroni-15-aout-202,2026-11-14,instrument,2026-11-14
@@ -777,7 +777,7 @@ CPV,41,2024-10-24-stp-estudo-alargado-dos-procedimentos-de-avaliacao-e-regulacao
 CPV,42,2022-01-01-cpv-plano-estrategico-de-desenvolvimento-sustentavel-2022-2026-peds-ii,2026-11-14,instrument,2026-11-14
 CPV,43,2020-01-07-cpv-decreto-regulamentar-n-o-2-2020-estatutos-do-instituto-nacional-de-est,2026-11-14,instrument,2026-11-14
 DJI,13,2024-06-01-dji-creating-fiscal-space-to-build-inclusive-and-resilient-growth-djibouti,2026-11-14,instrument,2026-11-14
-DZA,36,2025-03-26-dza-algerie-les-principales-mesures-importantes-de-la-loi-de-finances-pour,2026-11-14,,
+DZA,36,2025-03-26-dza-algerie-les-principales-mesures-importantes-de-la-loi-de-finances-pour,2026-11-14,nothing,2026-11-15
 ETH,29,2026-07-24-eth-ethio-telecom-and-amhara-revenue-bureau-partner-to-digitalize-tax-coll,2026-11-14,capped,2026-11-15
 ETH,30,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-and-revenu,2026-11-14,instrument,2026-11-14
 GAB,24,2026-04-01-gab-global-forum-on-transparency-and-exchange-of-information-for-tax-purpo,2026-11-14,instrument,2026-11-14
@@ -822,7 +822,7 @@ SSD,25,2024-05-01-ssd-south-sudan-non-oil-revenue-mobilization-and-accountabilit
 STP,16,2024-10-24-stp-estudo-alargado-dos-procedimentos-de-avaliacao-e-regulacao-adotados-pe,2026-11-14,instrument,2026-11-14
 SYC,9,2026-02-05-syc-seychelles-modernizing-audit-process-and-tax-administration-system-map,2026-11-14,instrument,2026-11-14
 TCD,12,2026-09-01-tcd-guide-de-l-investisseur-au-tchad,2026-11-14,instrument,2026-11-14
-TGO,20,2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l,2026-11-14,,
+TGO,20,2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l,2026-11-14,nothing,2026-11-15
 TZA,50,2024-01-08-tza-cupia-embarks-on-its-first-ever-domestic-tax-system-implementation-pro,2026-11-14,capped,2026-11-14
 UGA,54,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-and-revenu,2026-11-14,instrument,2026-11-14
 UGA,55,2020-08-01-uga-plan-for-national-statistical-development-fy2020-21-fy2024-2025,2026-11-14,instrument,2026-11-14
