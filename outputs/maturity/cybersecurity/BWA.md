@@ -6,9 +6,9 @@
 
 **Responding to incidents.** [On 23 October 2026 the national CSIRT, through BOCRA, issued an urgent public advisory on the PHP2Shell flaws](<http://www.bocra.org.bw/node/62863>). It said exploitation attempts had been seen. It asked organisations to patch and to report compromise to it.
 
-**Critical infrastructure.** No source found says the country designated its critical information infrastructure or required the operators of its critical systems to report incidents to the national body. The stage rests on [the source that sets it](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf>).
+**Critical infrastructure.** No source found says the country designated its critical information infrastructure. None says operators of critical systems must report incidents to the national body. [The Botswana Computer Security Incident Response Team led the first National Cyber Drill in February 2026](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf>).
 
-**Published figures.** No source found says the national body published a count of the incidents it handled for a quarter or more ending in the last two years. The stage rests on [the source that sets it](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf>).
+**Published figures.** No source found says the national body published a count of the incidents it handled for a quarter or more ending in the last two years. [The national incident response team led a cyber drill in February 2026](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf>).
 
 ***Also on file***. None found.
 

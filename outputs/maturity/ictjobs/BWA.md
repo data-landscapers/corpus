@@ -2,7 +2,7 @@
 
 ## ICT employment
 
-**Employment in information and communication.** In 2024, [information and communication employed 0.7 per cent of all workers](<https://ilostat.ilo.org/data/>), by ILOSTAT's labour force series. The same series [gives 0.68 in 2021, 0.94 in 2022 and 0.81 in 2023](<https://ilostat.ilo.org/data/>). Since 2021 the figure rose by 0.02 points. It is 0.3 points short of 1, the next line. The study's lines are 0.3, 0.6 and 1 per cent of employment, the frame's own cuts, and the latest figure for 2023 or later sets the stage, so a fall is a fall. The figure counts all employment in publishing, broadcasting, telecommunications and IT services, not graduates alone.
+**Employment in information and communication.** In 2024, [information and communication employed 0.7 per cent of all workers in Botswana](<https://ilostat.ilo.org/data/>), by the International Labour Organization's labour force series, ILOSTAT. The same series [gives 0.68 per cent in 2021, 0.94 per cent in 2022 and 0.81 per cent in 2023](<https://ilostat.ilo.org/data/>). Since 2021 the share of workers in information and communication rose by 0.02 points. The share was highest in 2022, at 0.94 per cent. It is 0.3 points short of 1 per cent of all workers. The figure counts all employment in publishing, broadcasting, telecommunications and information technology services in Botswana, not graduates alone.
 
 **Graduate unemployment.** It is asked about only once information and communication employs 1 per cent of workers. [The figure](<https://ilostat.ilo.org/data/>) is below that line, so none was looked for.
 

@@ -8,7 +8,7 @@
 
 **Critical infrastructure.** [The 2026 information security policy is mandatory for operators of critical information infrastructure](<https://www.nita.go.ug/sites/default/files/2026-07/Updated-National%20Information%20Security%20Framework%20(NISF).pdf>). [It requires them, ministries and local governments to report security breaches to CERT.UG](<https://www.nita.go.ug/sites/default/files/2026-07/Updated-National%20Information%20Security%20Framework%20(NISF).pdf>).
 
-**Published figures.** No source found says the national body published a count of the incidents it handled for a quarter or more. [The stage rests on the 2026 reporting duty](<https://www.nita.go.ug/sites/default/files/2026-07/Updated-National%20Information%20Security%20Framework%20(NISF).pdf>).
+**Published figures.** No source found says the national body published a count of the incidents it handled for a quarter or more. [A 2026 policy requires critical infrastructure operators to report security breaches to CERT-UG](<https://www.nita.go.ug/sites/default/files/2026-07/Updated-National%20Information%20Security%20Framework%20(NISF).pdf>).
 
 ***Also on file***. [Directorate of Criminal Investigations (CID)](<https://nilepost.co.ug/news/367069/cid-seeks-more-investigators-as-criminals-shift-to-digital-spaces>); [National Information Security Framework (NISF)](<https://www.nita.go.ug/sites/default/files/2026-07/Updated-National%20Information%20Security%20Framework%20(NISF).pdf>).
 

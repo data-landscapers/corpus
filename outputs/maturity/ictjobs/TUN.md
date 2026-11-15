@@ -2,7 +2,7 @@
 
 ## ICT employment
 
-**Employment in information and communication.** In 2023, [information and communication employed 1.26 per cent of all workers](<https://ilostat.ilo.org/data/>), by ILOSTAT's labour force series. The same series [gives 1.14 in 2021 and 1.32 in 2022](<https://ilostat.ilo.org/data/>). Since 2021 the figure rose by 0.11 points. At 1 or more, it is past the study's highest line for the figure. The study's lines are 0.3, 0.6 and 1 per cent of employment, the frame's own cuts, and the latest figure for 2023 or later sets the stage, so a fall is a fall. The figure counts all employment in publishing, broadcasting, telecommunications and IT services, not graduates alone.
+**Employment in information and communication.** In 2023, [information and communication employed 1.26 per cent of all workers in Tunisia](<https://ilostat.ilo.org/data/>), by the International Labour Organization's labour force series, ILOSTAT. The same series [gives 1.14 per cent in 2021 and 1.32 per cent in 2022](<https://ilostat.ilo.org/data/>). Since 2021 the share of workers in information and communication rose by 0.11 points. The share was highest in 2022, at 1.32 per cent. No figure for 2024 or later has been found. It is above 1 per cent of all workers. The figure counts all employment in publishing, broadcasting, telecommunications and information technology services in Tunisia, not graduates alone.
 
 **Graduate unemployment.** No credible statistic found since October 2023 gives graduate unemployment of 14 per cent or less. The figure [alone](<https://ilostat.ilo.org/data/>) set the stage.
 

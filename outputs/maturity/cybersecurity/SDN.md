@@ -6,9 +6,9 @@
 
 **Responding to incidents.** [On 1 November 2025 Sudan-CERT issued a high-level warning of a ransomware wave hitting small businesses](<https://sca.gov.sd/ar/news/ransomware-warning-sme>).
 
-**Critical infrastructure.** No source found says the country designated its critical information infrastructure. None says operators of critical systems must report incidents to the national body. [The stage rests on Sudan-CERT's ransomware warning](<https://sca.gov.sd/ar/news/ransomware-warning-sme>).
+**Critical infrastructure.** No source found says the country designated its critical information infrastructure. None says operators of critical systems must report incidents to the national body. [Sudan-CERT issued a ransomware warning on 1 November 2025](<https://sca.gov.sd/ar/news/ransomware-warning-sme>).
 
-**Published figures.** No source found says the national body published a count of the incidents it handled for a quarter or more. [The stage rests on Sudan-CERT's ransomware warning](<https://sca.gov.sd/ar/news/ransomware-warning-sme>).
+**Published figures.** No source found says the national body published a count of the incidents it handled for a quarter or more. [Sudan-CERT, the national incident response centre, warned of a ransomware wave against small businesses in November 2025](<https://sca.gov.sd/ar/news/ransomware-warning-sme>).
 
 ***Also on file***. [SUDAPASS](<https://sca.gov.sd/en/sudapass>).
 

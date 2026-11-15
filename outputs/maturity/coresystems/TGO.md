@@ -6,9 +6,9 @@
 
 **Tax.** [In 2025 large and medium firms filed and paid all their VAT returns online](<https://www.otr.tg/index.php/fr/impots/statistiques-performances/teledeclaration-et-telepaiement.html>). Other taxpayers filed 26% online.
 
-**Payroll.** No source found from 2023 or later says the civil-service payroll runs on a computer system. The stage rests on [the source that sets it](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>).
+**Payroll.** No source found from 2023 or later says the civil-service payroll runs on a computer system. [Agence Togo Digital publishes a government enterprise architecture for the state information system](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>).
 
-**Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023. The stage rests on [the source that sets it](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>).
+**Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023. [Agence Togo Digital publishes a government enterprise architecture for the state information system](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>).
 
 **A map of the systems.** [Agence Togo Digital publishes the Architecture d'Entreprise Gouvernementale du Togo online](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>). It sets a vision, twelve orientation statements and principles for the state information system. [Its documentation presents it as the reference for public bodies' own architectures](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/introduction.html>).
 

@@ -2,7 +2,7 @@
 
 ## Exchange points keeping traffic local
 
-**In service, with a content network, and growing.** [Packet Clearing House's report of 21 August 2026 lists Guinea-Bissau among 51 countries with no internet exchange point, against 162 countries with one or more](<https://www.pch.net/ixp/summary>). A dated statement that no exchange point operates in the country sets the lowest stage, and nothing dated later names one in service. Member counts and traffic are given where a source states them. Only traffic shown growing sets a stage.
+**In service, with a content network, and growing.** [Packet Clearing House's report of 21 August 2026 lists Guinea-Bissau among 51 countries with no internet exchange point, against 162 countries with one or more](<https://www.pch.net/ixp/summary>). Nothing dated later names one in service.
 
 **A second city or networks from abroad.** With [no exchange point in service](<https://www.pch.net/ixp/summary>), none reaches beyond one city. An exchange reaches beyond one city where a second exchange or point of presence is in service in another city. It also does so where networks from other countries peer there. The anycast DNS operators found at almost every exchange do not count.
 

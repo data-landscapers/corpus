@@ -8,9 +8,9 @@
 
 **Payroll.** [The director general of taxes states these systems are operational in State budget execution, notably for mandating civil servants' salaries](<https://tchadinfos.com/2026/05/05/mandoul-les-autorites-administratives-et-locales-formees-au-sigfip-et-aux-outils-numeriques-fiscaux/>). Tchadinfos reported this on 5 May 2026.
 
-**Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023. The stage rests on [the source that sets it](<https://tchadinfos.com/2026/05/05/mandoul-les-autorites-administratives-et-locales-formees-au-sigfip-et-aux-outils-numeriques-fiscaux/>).
+**Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023. [In May 2026 the director general of taxes said SIGFIP and E-TAX have been operational since 2021](<https://tchadinfos.com/2026/05/05/mandoul-les-autorites-administratives-et-locales-formees-au-sigfip-et-aux-outils-numeriques-fiscaux/>).
 
-**A map of the systems.** No source found says the government has published an enterprise architecture or an inventory of its systems. The stage rests on [the source that sets it](<https://tchadinfos.com/2026/05/05/mandoul-les-autorites-administratives-et-locales-formees-au-sigfip-et-aux-outils-numeriques-fiscaux/>).
+**A map of the systems.** No source found says the government has published an enterprise architecture or an inventory of its systems. [In May 2026 the director general of taxes said SIGFIP and E-TAX have been operational since 2021](<https://tchadinfos.com/2026/05/05/mandoul-les-autorites-administratives-et-locales-formees-au-sigfip-et-aux-outils-numeriques-fiscaux/>).
 
 ***Also on file***. [Facturation electronique normalisee (FEN)](<https://tchadinfos.com/2026/05/05/mandoul-les-autorites-administratives-et-locales-formees-au-sigfip-et-aux-outils-numeriques-fiscaux/>); [Sydonia](<https://lendjampost.com/budget-2026-au-tchad-zero-cash-zero-papier-zero-facture-fantome/>).
 

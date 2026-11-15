@@ -2,7 +2,7 @@
 
 ## STEM graduates
 
-**STEM graduates, as a share of tertiary graduates.** In 2024, [STEM graduates were 20.1 per cent of tertiary graduates](<https://databrowser.uis.unesco.org/>), by UNESCO's tertiary graduates series. The series gives no figure for the years just before. No source found says whether it is rising or falling. It is 6.89 points short of 27, the next line. The study's lines are 13, 27 and 40 per cent of tertiary graduates, the frame's own cuts. The latest figure for 2023 or later sets the stage, so a fall is a fall. The figure counts graduates in science, technology, engineering and mathematics, ICT among them. It says nothing of where they find work.
+**STEM graduates, as a share of tertiary graduates.** In 2024, [STEM graduates were 20.1 per cent of tertiary graduates in Kenya](<https://databrowser.uis.unesco.org/>), by the tertiary graduates series of the United Nations Educational, Scientific and Cultural Organization (UNESCO). The series gives no figure for the years just before. No source found says whether it is rising or falling. It is 6.89 points short of 27 per cent of tertiary graduates. The figure counts graduates in science, technology, engineering and mathematics, information and communication technology among them. It says nothing of where they find work.
 
 **Research and education network.** A research and education network is asked about only once STEM graduates reach 40 per cent. [The figure is below that line](<https://databrowser.uis.unesco.org/>), so none was looked for.
 

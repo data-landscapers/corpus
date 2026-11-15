@@ -4,13 +4,13 @@
 
 **Budget, accounts and payments.** [The IMF's April 2024 mission was told the finance ministry uses Visual Account Mate (VAM) and the Treasury Information System (TIS) as the government accounting software](<https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf>). The mission was told of operational challenges and many manual interventions.
 
-**Tax.** No source found from 2023 or later says the tax authority's system is in use. The stage rests on [the source that sets it](<https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf>).
+**Tax.** No source found from 2023 or later says the tax authority's system is in use. [In April 2024 the finance ministry used VAM and the Treasury Information System for government accounting, with many manual interventions](<https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf>).
 
-**Payroll.** No source found from 2023 or later says the civil-service payroll runs on a computer system. The stage rests on [the source that sets it](<https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf>).
+**Payroll.** No source found from 2023 or later says the civil-service payroll runs on a computer system. [In April 2024 the finance ministry used VAM and the Treasury Information System for government accounting, with many manual interventions](<https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf>).
 
-**Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023. The stage rests on [the source that sets it](<https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf>).
+**Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023. [In April 2024 the finance ministry used VAM and the Treasury Information System](<https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf>).
 
-**A map of the systems.** No source found says the government has published an enterprise architecture or an inventory of its systems. The stage rests on [the source that sets it](<https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf>).
+**A map of the systems.** No source found says the government has published an enterprise architecture or an inventory of its systems. [In April 2024 the finance ministry used VAM and the Treasury Information System for government accounting, with many manual interventions](<https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf>).
 
 ***Also on file***. [Electronic Government Network (EGN)](<https://www.nationalassembly.sc/media/news/2025-06/media-youth-sports-and-culture-committee-conduct-visit-department-information>); [SeyID](<https://www.nationalassembly.sc/media/news/2025-06/media-youth-sports-and-culture-committee-conduct-visit-department-information>); [Integrated Financial Management Information System (IFMIS)](<https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf>).
 

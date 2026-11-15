@@ -2,7 +2,7 @@
 
 ## Satellite data in weather services
 
-**Satellite data stream.** The Ethiopian Meteorological Institute [publishes Meteosat imagery on its site](<https://www.ethiomet.gov.et/satellite-imagery/>). The products include precipitation rate, dust and a nowcasting product for fast-growing thunderstorms. In May 2026 the African Union Commission listed Ethiopia among 41 member states with [a PUMA station installed](<https://www-cdn.eumetsat.int/files/2026-05/7-%20Infrastructure%20and%20Capacity%20Building_AUC_PDF.pdf>). No news story read for this study says more.
+**Satellite data stream.** The Ethiopian Meteorological Institute [publishes Meteosat imagery on its site](<https://www.ethiomet.gov.et/satellite-imagery/>). The products include precipitation rate, dust and a nowcasting product for fast-growing thunderstorms. In May 2026 the African Union Commission listed Ethiopia among 41 member states with [a PUMA station installed](<https://www-cdn.eumetsat.int/files/2026-05/7-%20Infrastructure%20and%20Capacity%20Building_AUC_PDF.pdf>). No news story found says more about the institute's use of the data.
 
 **Warnings issued.** The institute's page also carries [a convection warning product for rapidly developing thunderstorms](<https://www.ethiomet.gov.et/satellite-imagery/>). It is made with EUMETSAT's NWC-SAF nowcasting software from Meteosat data, and the page itself was read in August 2026.
 

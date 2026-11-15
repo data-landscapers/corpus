@@ -6,7 +6,7 @@
 
 **Responding to incidents.** [The POTRAZ team handled incident reports through 2025, a third of them fraud](<https://technomag.co.zw/33-of-zimbabwe-crimes-now-cyber-related/>). [Cyberbullying made up 27% of cases and hacking 17%](<https://technomag.co.zw/33-of-zimbabwe-crimes-now-cyber-related/>).
 
-**Critical infrastructure.** No source found says the country designated its critical information infrastructure. None says operators of critical systems must report incidents to the national body. [The stage rests on the POTRAZ team's 2025 caseload](<https://technomag.co.zw/33-of-zimbabwe-crimes-now-cyber-related/>).
+**Critical infrastructure.** No source found says the country designated its critical information infrastructure. None says operators of critical systems must report incidents to the national body. [POTRAZ's incident response team handled incident reports in 2025](<https://technomag.co.zw/33-of-zimbabwe-crimes-now-cyber-related/>).
 
 **Published figures.** [POTRAZ gave its 2025 caseload as shares by type, not as a count](<https://technomag.co.zw/33-of-zimbabwe-crimes-now-cyber-related/>). No source found says the national body published a count of the incidents it handled for a quarter or more.
 
