@@ -34,7 +34,8 @@ read by a person, at the unit review, and has no check here.
              *is not known*, *evidence held*, *nothing held*, *source held*, and a page narrating
              its own evidence, *N facts are held on the subject* (housekeeping 65), or its method,
              *the one given above*, *before the three-year window* (housekeeping 72), or
-             *the nearest held fact* (housekeeping 81).
+             *the nearest held fact*, and a page naming its stage or the study's questions,
+             *the stage rests on*, *sets the stage*, *in this first pass* (housekeeping 81).
 - `mood`     the sheet's mood words and set-ups: *plainly*, *quietly*, *finally*, *strikingly*,
              *alarming*, *from opposite ends*.
 
@@ -116,7 +117,12 @@ WORDS = [re.compile(p) for p in (
     # about the window instead of the fact's date in the sentence.
     r"(?i)\bthe one given above\b", r"(?i)\bbefore the three-year window\b",
     # Housekeeping 81: the evidence called "held" where the sheet says "found".
-    r"(?i)\b(?:nearest|one|only) held facts?\b")]
+    r"(?i)\b(?:nearest|one|only) held facts?\b",
+    # ... and a page naming its own stage or the study's questions (writer brief).
+    r"(?i)\bstage rests on\b", r"(?i)\bsets? the (?:lowest )?stage\b", r"(?i)\bsets? no stage\b",
+    r"(?i)\bis asked about only once\b", r"(?i)\bnone was looked for\b",
+    r"(?i)\bthe study's (?:\w+ ){0,3}questions\b", r"(?i)\bin (?:this|the) first pass\b",
+    r"(?i)\bread for this study\b")]
 MOOD = [re.compile(p, re.I) for p in (
     r"\bplainly\b", r"\bquietly\b", r"\bfinally\b", r"\bstrikingly\b", r"\balarming(?:ly)?\b",
     r"\bfrom opposite ends\b")]
