@@ -8,7 +8,7 @@
 
 **Built in-house.** [In August 2020 INAGE said CloudGov was being rolled out across institutions](<https://www.inage.gov.mz/?p=2697>). It gave no go-live date.
 
-**Systems run wholly in-house.** No source found since October 2023 says government staff run, maintain or built a named system with no contractor doing the work. The stage rests on [the source that sets it](<https://www.inage.gov.mz/?p=2697>).
+**Systems run wholly in-house.** No source found since October 2023 says government staff run, maintain or built a named system with no contractor doing the work. [INAGE, the national e-government institute, says it developed the CloudGov file-sharing system](<https://www.inage.gov.mz/?p=2697>). The system serves public institutions, and no date is given for the work.
 
 ***Also on file***. [Huawei-built data centre (Mozambique)](<https://africachinainitiative.georgetown.edu/research-working-group/blog-posts/huawei-helping-or-hindering-african-countries-secure-their-data-sovereignty-2/>); [e-SNGD](<https://www.inage.gov.mz/?p=2697>); [GovNET](<https://www.inage.gov.mz/?p=2697>); [MoRENet](<https://www.inage.gov.mz/?p=2697>); [CorreioGov](<https://pt.linkedin.com/posts/minist%C3%A9rio-das-comunica%C3%A7%C3%B5es-e-transforma%C3%A7%C3%A3o-digital-6a8158337_capacita%C3%A7%C3%A3o-refor%C3%A7a-compet%C3%AAncias-digitais-activity-7444322822627233793-JZeq>); [CloudGov](<https://pt.linkedin.com/posts/minist%C3%A9rio-das-comunica%C3%A7%C3%B5es-e-transforma%C3%A7%C3%A3o-digital-6a8158337_capacita%C3%A7%C3%A3o-refor%C3%A7a-compet%C3%AAncias-digitais-activity-7444322822627233793-JZeq>).
 

@@ -2,7 +2,7 @@
 
 ## Off-site backup for government systems
 
-**A backup site 200 km or more away in service, and for the shared government systems.** [Ministry of Finance officials confirmed on 7 January 2026 that no comprehensive disaster-recovery system is yet in place for the national e-GP platform](<https://sierraloaded.sl/news/nppa-inspects-e-gp-data-center-finance/>). The platform is hosted in the Ministry's data centre. Disaster recovery is planned for Phase Two, through a Ministry framework or cloud. The main site's place is not stated, and there is no backup site. A dated statement that government systems have no off-site backup sets the lowest stage. Nothing dated later names one.
+**A backup site 200 km or more away in service, and for the shared government systems.** [Ministry of Finance officials confirmed on 7 January 2026 that no comprehensive disaster-recovery system is yet in place for the national e-GP platform](<https://sierraloaded.sl/news/nppa-inspects-e-gp-data-center-finance/>). The platform is hosted in the Ministry's data centre. Disaster recovery is planned for Phase Two, through a Ministry framework or cloud. The main site's place is not stated, and there is no backup site. Nothing dated later names one.
 
 **A recovery plan or test on record.** No source found from the past three years states a recovery plan for [the backup site](<https://sierraloaded.sl/news/nppa-inspects-e-gp-data-center-finance/>). None states a failover test.
 

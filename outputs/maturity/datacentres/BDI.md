@@ -2,7 +2,7 @@
 
 ## Data centres for hire in service
 
-**In service, Tier III, and two of them.** [The World Bank reports that Burundi Backbone System (BBS) has one level-3 data center, built at a cost of USD 2 million](<https://documents1.worldbank.org/curated/en/605991608528899689/pdf/Burundi-Digital-Economy-Assessment.pdf>). BBS uses it to offer hosting to customers, and other public agencies use it to back up their systems. These place a data centre for hire in service. That answers the first of the study's four questions. No source found states one at Tier III or above. Tier III, as the Uptime Institute defines it, means power and cooling can be maintained without shutting the data centre down. Capacity is given where a source states it; it sets no stage.
+**In service, Tier III, and two of them.** [The World Bank reports that Burundi Backbone System (BBS) has one level-3 data center, built at a cost of USD 2 million](<https://documents1.worldbank.org/curated/en/605991608528899689/pdf/Burundi-Digital-Economy-Assessment.pdf>). BBS uses it to offer hosting to customers, and other public agencies use it to back up their systems. These place a data centre for hire in service. No source found states one at Tier III or above. Tier III, as the Uptime Institute defines it, means power and cooling can be maintained without shutting the data centre down. Capacity is given where a source states it; it sets no stage.
 
 **A global cloud region.** Nothing found says a global cloud provider runs a region beside [the data centres](<https://documents1.worldbank.org/curated/en/605991608528899689/pdf/Burundi-Digital-Economy-Assessment.pdf>). Only a live region of a public cloud provider answers this question; an announced region, a content cache or an edge site does not.
 

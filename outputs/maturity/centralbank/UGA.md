@@ -8,6 +8,6 @@
 
 **Live on PAPSS.** No source found since October 2023 says Ugandan banks send and receive payments through PAPSS. [The bank's annual report shows East African Payment System inflows of UGX 1.3 trillion in 2024/25](<https://ubc.go.ug/2025/10/06/bous-new-payment-system-cuts-delays-and-boosts-e-money-by-28-6>). A regional system does not count.
 
-***Also on file***. [East African Payment System](<https://ubc.go.ug/2025/10/06/bous-new-payment-system-cuts-delays-and-boosts-e-money-by-28-6>), a regional system, which does not answer the ladder.
+***Also on file***. [East African Payment System](<https://ubc.go.ug/2025/10/06/bous-new-payment-system-cuts-delays-and-boosts-e-money-by-28-6>), a regional system.
 
 ***Not found***. No source found since October 2023 says the country is live on PAPSS.

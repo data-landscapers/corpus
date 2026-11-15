@@ -2,7 +2,7 @@
 
 ## Data centres for hire in service
 
-**In service, Tier III, and two of them.** [Trinity Technologies Limited operates a Tier 2 datacentre in Hai Malakal, Juba, offering colocation and hosting to business customers](<https://trinitytechnologies.tech/about.html>). These place a data centre for hire in service. That answers the first of the study's four questions. No source found states one at Tier III or above. Tier III, as the Uptime Institute defines it, means power and cooling can be maintained without shutting the data centre down. Capacity is given where a source states it; it sets no stage.
+**In service, Tier III, and two of them.** [Trinity Technologies Limited operates a Tier 2 datacentre in Hai Malakal, Juba, offering colocation and hosting to business customers](<https://trinitytechnologies.tech/about.html>). These place a data centre for hire in service. No source found states one at Tier III or above. Tier III, as the Uptime Institute defines it, means power and cooling can be maintained without shutting the data centre down. Capacity is given where a source states it; it sets no stage.
 
 **A global cloud region.** Nothing found says a global cloud provider runs a region beside [the data centres](<https://trinitytechnologies.tech/about.html>). Only a live region of a public cloud provider answers this question; an announced region, a content cache or an edge site does not.
 
