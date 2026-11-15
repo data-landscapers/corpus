@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-25-ben-benin-la-digitalisation-des-paiements-publics-double-les-ressources-de",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The government says its National Services Portal (PNS), launched in 2022, brings together more than 250 public services accessible online.",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "Portail National des Services (PNS)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail National des Services (PNS)",
+   "country_label": "Benin",
+   "class": "eservices",
+   "platform": "web portal",
+   "owner": "Government of Benin",
+   "tiers": ""
+  }
+ ],
+ "note": "No user count or single sign-in stated; a 75% share of utility bill payments is not a user figure."
+}

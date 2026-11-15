@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-14-egy-public-prosecution-ai-data-centre-smart-justice-protocol",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Family prosecution guardianship-of-funds services are being made available online through Orange's app with e-finance, with free SIM cards for guardians (Arqam News).",
+   "as_of": "2026-11-14",
+   "date_precision": "day",
+   "system": "Orange app family prosecution services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange app family prosecution services",
+   "country_label": "Egypt",
+   "class": "eservices",
+   "platform": "Orange app",
+   "owner": "Public Prosecution / Orange / e-finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -38,6 +38,7 @@ BEN,eservices.anip.bj / ANIP BJ,Benin,eservices,web platform and mobile app,ANIP
 BEN,eservices.anip.bj,Benin,eservices,web and ANIP BJ mobile app,ANIP,,2025-03-01-ben-anip-carte-identite-biometrique-prestations
 BEN,service-public.bj,Benin (service-public.bj),eservices,,Government of Benin,,2024-06-05-ben-communique-e-services-de-l-andf
 BEN,e-services.impots.bj,Benin,eservices,web portal,Direction générale des Impôts,,2025-09-19-ben-benin-la-dgi-dematerialise-les-timbres-fiscaux-et-l-enregistrement-des
+BEN,Portail National des Services (PNS),Benin,eservices,web portal,Government of Benin,,2026-03-25-ben-benin-la-digitalisation-des-paiements-publics-double-les-ressources-de
 BFA,Service Public BF,Burkina Faso,eservices,service-public.gov.bf,Government of Burkina Faso,national,2026-05-07-burkina-faso-central-portal-e-services
 BFA,Lanaya and e-BDT,Burkina Faso,other,,Public treasury,national,2026-05-07-burkina-faso-central-portal-e-services
 BFA,Service Public BF,Burkina Faso,eservices,service-public.gov.bf,Government of Burkina Faso,national,2026-02-20-service-public-bf-lancement-portail-v2
@@ -127,6 +128,7 @@ DZA,Dzair Digital Services,Algeria,eservices,web portal,High Commission for Digi
 DZA,Dzair Digital Services,Algeria,eservices,,Haut-Commissariat a la numerisation,,2026-11-11-dza-portail-numerique-les-documents-en-ligne-desormais-reconnus
 DZA,Fada El Djazair,Algeria,eservices,national digital services portal,Government of Algeria,,2026-04-18-dza-recettes-record-et-services-numeriques-l-etat-modernise-la-gestion-fon
 DZA,Police services digital platform (QR code),Algeria,other,QR code,Sûreté nationale / Ministry of Interior,,2025-03-22-dza-lactualgerie-plateforme-numerique-services-police-qr
+DZA,Dzaïr Digital Services,Algeria,eservices,,High Commission for Digitalisation,,2026-04-03-dza-alger-saihi-en-visite-dinspection-a-lagence-cnas-de-la-wilaya-et-a-lag
 EGY,Digital Egypt,EGY,other,,,,2026-10-12-egy-technotime-ehab-said-digital-transformation-beyond-services
 EGY,Digital Egypt (منصة مصر الرقمية),EGY,eservices,,Ministry of Communications and Information Technology,,2026-09-20-egy-alnahar-hendy-240-services-400-by-2030
 EGY,biometric electronic-verification (digital identity) system,Egypt,other,telecom operator smartphone apps,Ministry of Communications and Information Technology,national,2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch
@@ -145,6 +147,9 @@ EGY,Egypt Government Portal (www.Egypt.gov.eg),Egypt,eservices,,MCIT and Ministr
 EGY,Digital Egypt platform,Digital Egypt platform,eservices,,Ministry of Communications and Information Technology,,2026-11-09-egy-22-electronic-notarial-and-real-estate-registry-services
 EGY,Digital Egypt platform,Egypt,eservices,,Ministry of Justice / MCIT,,2026-11-11-egy-remote-power-of-attorney-face-biometric-and-remote-e-signature
 EGY,Digital Egypt,Egypt,eservices,,Ministry of Communications and Information Technology,,2026-11-10-egy-pm-opens-cairo-ict-ai-targets-2030
+EGY,Max it,Egypt,other,app,Orange Egypt,,2026-11-14-orange-egypte-parquet-general-services-numeriques-ia
+EGY,Orange Cash,Egypt,other,wallet app,Orange Egypt,,2026-11-14-orange-egypte-parquet-general-services-numeriques-ia
+EGY,Orange app family prosecution services,Egypt,eservices,Orange app,Public Prosecution / Orange / e-finance,,2026-11-14-egy-public-prosecution-ai-data-centre-smart-justice-protocol
 ERI,Consular Affairs Processing System (CAPS),Eritrea,eservices,,Ministry of Foreign Affairs,,2024-09-24-eri-embassy-us-launch-caps-online-consular
 ETH,National Rural Land Administration Information System (NRLAIS),ETH,other,,Ministry of Agriculture,,2024-05-30-moa-e-services-nrlais
 ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
@@ -173,6 +178,7 @@ GAB,OLIA,Gabon,other,,Direction Générale du Budget,,2026-09-24-gab-dgb-digital
 GAB,Vectis,Gabon,other,Involys SA,DGBFIP / Direction Générale du Budget,,2026-07-24-gab-dgbfip-involys-sa-vectis-4-92-milliards-entente-directe
 GAB,Vectis,Gabon,other,Involys,State budget administration,,2026-07-14-gab-gabon-le-logiciel-qui-pilote-le-budget-de-l-etat-est-donc-marocain-dep
 GAB,VECTIS,Gabon,other,Involys,"DGBFIP, Ministry of Public Accounts",,2024-02-01-gab-assitance-technique-vectis-accompagnement-fonctionnel-et-mise-a-niveau
+GAB,SIGIP / SNISE,Gabon,other,SIGIP module SNISE,Commissariat general au Plan,,2026-11-13-gab-guide-national-suivi-evaluation-gabonews
 GHA,Interior Ministry online digital services portal,Ghana,eservices,,Ministry of the Interior,,2025-12-11-interior-ministry-digital-services-portal-graphic
 GHA,Ghana.gov portal,Ghana,eservices,,,,2024-01-01-ghana-digital-economy-policy-and-strategy
 GHA,e-Payment portal,Ghana,eservices,,,,2024-01-01-ghana-digital-economy-policy-and-strategy
@@ -271,6 +277,7 @@ MDG,Mahatoky,Mahatoky,eservices,agent-operated helpdesk in post offices,Digital 
 MDG,i-Fanagna,i-Fanagna,eservices,web platform,BIANCO,,2026-10-31-mdg-lutte-contre-la-corruption-le-bianco-lance-i-fanagna-une-plateforme-nu
 MDG,External and domestic financing management platform,Madagascar,other,,Ministry of Economy and Finance (AfDB PREGODI),,2025-01-06-mdg-un-nouvel-outil-national-pour-digitaliser-la-gestion-des-financements
 MDG,Maritime Single Window,"Madagascar, to be deployed",other,digital platform,APMF,,2026-08-07-madagascar-maritime-single-window-indonesia-financing
+MDG,e-Courrier,Madagascar,eservices,online platform,Mesupres,,2026-11-14-mdg-2424-e-courrier-enseignement-superieur
 MLI,Sigtas / E-Impot,Mali,other,DGI tax management system with teleservices module,Direction generale des impots,,2025-11-26-mali-dgi-recettes-electroniques
 MLI,SIF/GUF,Mali,eservices,,Primature,,2025-05-27-mli-apanews-quatre-plateformes-numeriques
 MLI,SYGOCE,Mali,other,,,,2025-05-27-mli-apanews-quatre-plateformes-numeriques
@@ -463,6 +470,8 @@ TGO,e-GP,Togo,other,,ARCOP,,2026-10-26-tgo-togo-4-consultants-recherches-pour-pr
 TGO,service-public.gouv.tg,Togo,eservices,national portal,Government of Togo,,2025-12-01-tgo-togo-adds-three-new-digital-administrative-procedures-to-national-e-se
 TGO,Services publics,Togo,eservices,web portal service-public.gouv.tg,government,,2025-09-05-tgo-togo-une-centaine-de-services-desormais-disponibles-sur-la-plateforme
 TGO,Géoportail national,Togo,other,geoportail.gouv.tg / geodata.gouv.tg,Ministry of Digital Economy,secured institutional tier; open public tier,2025-05-07-tgo-numerique-le-togo-lance-son-geoportail-national-une-carte-digitale-des
+TGO,nif.otr.tg,Togo,other,web,OTR,,2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l
+TGO,OTR TVM,Togo,other,mobile app and web,OTR,,2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l
 TUN,E-Bawaba,Tunisia,eservices,,,,2026-03-09-telecomreviewafrica-north-africa-digital-generation
 TUN,Madrassati,Tunisia,other,,Ministry of Education,primary,2023-12-01-tun-cnte-strategie-ministere-education-transformation-numerique
 TUN,EduservPlus,Tunisia,other,,Ministry of Education,preparatory and secondary,2023-12-01-tun-cnte-strategie-ministere-education-transformation-numerique

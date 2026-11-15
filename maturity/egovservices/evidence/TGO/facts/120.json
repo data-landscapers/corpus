@@ -1,0 +1,34 @@
+{
+ "slug": "2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "OTR announced on 18 December 2023 the launch of two platforms, one letting individuals create their tax number online (nif.otr.tg) and one to pay the motor vehicle tax by mobile app and web.",
+   "as_of": "2023-12-18",
+   "date_precision": "day",
+   "system": "nif.otr.tg",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "nif.otr.tg",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "web",
+   "owner": "OTR",
+   "tiers": ""
+  },
+  {
+   "system": "OTR TVM",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "mobile app and web",
+   "owner": "OTR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-09-zmb-zambia-visa-sign-mou-to-accelerate-digital-payments-push",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Ecofin Agency reports Zambia operates Zampay, a centralized platform for online public service transactions; no count of services is given.",
+   "as_of": "2025-10-09",
+   "date_precision": "day",
+   "system": "Zampay",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

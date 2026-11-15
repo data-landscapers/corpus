@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-13-gab-guide-national-suivi-evaluation-gabonews",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGIP / SNISE",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "SIGIP module SNISE",
+   "owner": "Commissariat general au Plan",
+   "tiers": ""
+  }
+ ],
+ "note": "Internal project monitoring system; no citizen-facing service stated."
+}

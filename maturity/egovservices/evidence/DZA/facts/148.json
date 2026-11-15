@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-03-dza-alger-saihi-en-visite-dinspection-a-lagence-cnas-de-la-wilaya-et-a-lag",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The labour ministry's communiqué says the CNAS and CNR agencies were checked for readiness to integrate into the national Dzaïr Digital Services portal, supervised by the High Commissioner for Digitalisation.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "Dzaïr Digital Services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dzaïr Digital Services",
+   "country_label": "Algeria",
+   "class": "eservices",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
