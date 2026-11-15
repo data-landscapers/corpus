@@ -1,0 +1,46 @@
+{
+ "slug": "2025-01-01-eth-digital-public-goods-in-use-applications-of-openg2p-in-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "OpenG2P says its platform has registered about 300,000 individuals for the Ethiopian Disaster Risk Management Commission's relief programmes.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "OpenG2P Social Registry",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "OpenG2P says the Ministry of Women and Social Affairs is setting up a National Social Registry, with a pilot that registered 821 individuals in Addis Ababa.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "OpenG2P Social Registry",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "OpenG2P says it seeded its social registry with Fayda IDs issued by the National ID Program.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "OpenG2P Social Registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OpenG2P Social Registry",
+   "country_label": "Ethiopia",
+   "class": "social",
+   "platform": "OpenG2P",
+   "owner": "Ethiopian Disaster Risk Management Commission; Ministry of Women and Social Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

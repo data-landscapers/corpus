@@ -1,0 +1,46 @@
+{
+ "slug": "2026-04-01-mus-schemes",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The ministry says its schemes cover families eligible under the Social Register of Mauritius, which gates the Subsistence Allowance and other schemes.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Social Register of Mauritius",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "The ministry lists the Subsistence Allowance, Bread Price Relief, Child Allowance and other schemes as drawn from households registered or eligible under the Social Register of Mauritius.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Social Register of Mauritius",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "paid",
+   "fact": "The ministry says a Rs 1,000 monthly grant for infants is credited to the bank account of eligible Social Register households.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Social Register of Mauritius",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social Register of Mauritius",
+   "country_label": "Mauritius",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministry of Social Integration, Social Security and National Solidarity",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-05-sdn-social-solidarity-council-approves-unified-social-registry",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "Sudan's Solidarity and Poverty Reduction Council approved the unified social registry, with an executive plan to launch it in Gedaref state as a pilot, the social development minister said.",
+   "as_of": "2025-02-05",
+   "date_precision": "day",
+   "system": "unified social registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "unified social registry",
+   "country_label": "Sudan",
+   "class": "social",
+   "platform": "",
+   "owner": "Commission for Social Safety, Solidarity and Poverty Reduction",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

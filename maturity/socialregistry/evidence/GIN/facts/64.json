@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-gin-termes-de-reference-pour-l-analyse-du-profil-socio-demographique-et-so",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "FDSI's terms of reference say the RSU, created by decree in 2019 and confirmed in 2024, holds 977,610 households and 4,860,075 individuals per the FDSI website.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Registre Social Unifié (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unifié (RSU)",
+   "country_label": "Guinea",
+   "class": "social",
+   "platform": "",
+   "owner": "FDSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

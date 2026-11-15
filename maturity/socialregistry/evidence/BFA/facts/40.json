@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-bfa-secretariat-technique-du-registre-social-unique-mise-a-jour-sur-le-rsu",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The Secrétariat technique du RSU states that 362,818 households (2,220,500 people) were registered in the RSU at 31 December 2025, with the RSU deployed in 99 communes across 10 regions.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "Registre Social Unique (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unique (RSU)",
+   "country_label": "Burkina Faso",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministère de la Famille et de la Solidarité",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

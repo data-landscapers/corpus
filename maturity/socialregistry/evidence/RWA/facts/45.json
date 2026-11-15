@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-rwa-social-protection-project-spp-rwanda-factsheet",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "GIZ says the government launched the Imibereho Dynamic Social Registry to identify households eligible for social protection programmes, and it is operationalised.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Imibereho Dynamic Social Registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Imibereho Dynamic Social Registry",
+   "country_label": "Rwanda",
+   "class": "social",
+   "platform": "",
+   "owner": "MINALOC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

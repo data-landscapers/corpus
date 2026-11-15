@@ -1,0 +1,46 @@
+{
+ "slug": "2024-11-04-nga-25m-nigerian-poor-get-cash-payments-enabled-by-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "Around 25 million Nigerians whose names are on the national social register received federal cash payments, per the report; the minister said the government will continue to establish a reliable social register.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "national social register",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "checked",
+   "fact": "Beneficiaries on the national social register are verified biometrically using their NIN and BVN, per the report.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "national social register",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "paid",
+   "fact": "People on the national social register received cash payments, with benefits paid through bank accounts or digital money wallets, per the finance minister.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "national social register",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national social register",
+   "country_label": "Nigeria",
+   "class": "social",
+   "platform": "",
+   "owner": "federal government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

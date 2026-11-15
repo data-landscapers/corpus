@@ -1,0 +1,46 @@
+{
+ "slug": "2026-08-22-egy-social-registry-13m-households-law-12-unified-source",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The Ministry of Social Solidarity, in a report carried by al-Masry al-Youm, says the social registry databases hold 13 million registered households, about half the population.",
+   "as_of": "2026-08-22",
+   "date_precision": "day",
+   "system": "Social registry",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "The ministry says Social Security Law 12 of 2025 adopted the programme's social registry databases as the unified source for all cash-transfer beneficiary databases in Egypt, serving Takaful and Karama.",
+   "as_of": "2026-08-22",
+   "date_precision": "day",
+   "system": "Social registry",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The ministry says the registry is interlinked by national number with the databases of partner government bodies.",
+   "as_of": "2026-08-22",
+   "date_precision": "day",
+   "system": "Social registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social registry (Ministry of Social Solidarity)",
+   "country_label": "Egypt",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministry of Social Solidarity",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-01-rwa-imibereho-dynamic-social-registry-launched",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "MINALOC says it officially launched the Imibereho Social Registry System on 29 February 2024, replacing Ubudehe categorisation for targeting social protection programmes.",
+   "as_of": "2024-02-29",
+   "date_precision": "day",
+   "system": "Imibereho Social Registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Imibereho Social Registry",
+   "country_label": "Rwanda",
+   "class": "social",
+   "platform": "",
+   "owner": "MINALOC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

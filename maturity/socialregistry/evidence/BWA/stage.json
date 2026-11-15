@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "3",
-      "registry": "inservice",
+      "stage": "2",
+      "registry": "underway",
       "programmes": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BWA-002",
-      "gaps": "No source found since October 2023 says two or more programmes choose who receives support from the social registry, or that it is linked to the national ID. By March 2025 98% of five programmes' beneficiaries were in it, which is enrolment, not selection.",
-      "note": "Housekeeping 68: BWA-002 counts the five programmes' beneficiaries updated in the Single Social Registry, a measure its own report says does not show targeting, and BWA-001 announces operationalisation for beneficiary registration. Neither row, alone or together under ruling 106, says a programme chooses who receives support from the registry, so question 3 is not answered and the cell stays at 3.",
-      "as_at": "2026-11-13"
+      "stage_sources": "BWA-003;BWA-005",
+      "gaps": "No source found since October 2023 says the social registry is in service: in September and October 2026 officials said it was 96 per cent complete and still being established. By March 2025 it held 98 percent of five programmes' beneficiaries, which is enrolment, not selection.",
+      "note": "Stage 4c: the newest facts, from September and October 2026, have the Single Social Registry 96 per cent complete and still being established (BWA-003, BWA-005), so under way. Stage 3 to 2, as a judgement over the March 2025 count of beneficiaries enrolled (BWA-002).",
+      "as_at": "2026-11-15"
     }
   ]
 }

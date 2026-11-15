@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-31-egy-implementation-status-results-report-takaful-and-karama-cash-transfer",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "World Bank ISR says the MOSS social registry covers 12.95 million households (about 45.32 million individuals) as of May 2026.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "MOSS social registry",
+   "class": "social"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

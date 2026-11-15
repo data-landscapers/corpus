@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-18-rwa-leveraging-interoperability-for-social-impact-in-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The deck says the Imibereho social registry, run by MINALOC and launched in 2024, is live with 3,286,600 households registered (99.2% of households).",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "Imibereho social registry",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The deck says the social registry is integrated with NIDA, CRVS and other systems to validate identification and update targeting in real time.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "Imibereho social registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Imibereho social registry",
+   "country_label": "Imibereho 2024",
+   "class": "social",
+   "platform": "Spring Boot, PostgreSQL, Angular",
+   "owner": "MINALOC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

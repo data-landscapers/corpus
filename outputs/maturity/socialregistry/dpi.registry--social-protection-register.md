@@ -21,12 +21,12 @@ The African Union's Protocol on Social Protection asks states for a social regis
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 17 |
+| 4 Operating | 18 |
 | 3 Established | 10 |
 | 2 Nascent | 16 |
-| 1 Absent | 0 |
-| Unplaced | 3 |
-| No evidence | 6 |
+| 1 Absent | 1 |
+| Unplaced | 2 |
+| No evidence | 5 |
 
 ## Countries
 
@@ -125,8 +125,9 @@ Two transfer programmes chose recipients from the social registry in 2024; wheth
 
 ### Mauritius: 4 Operating
 
-Two allowances were tied to the social register in 2026; whether it is linked to the national ID is not known.
+Several schemes drew on the social register in 2026, one paying into bank accounts; whether it is linked to the national ID is not known.
 
+- The ministry lists the Subsistence Allowance, Bread Price Relief, Child Allowance and other schemes as drawn from households registered or eligible under the Social Register of Mauritius ([source, 2026-04](https://socialintegration.govmu.org/Pages/About%20Us/Schemes.aspx)).
 - The Mauritius Revenue Authority FAQ of January 2026 refers to persons registered on the Social Register of Mauritius, who continue to receive CSG income allowances at the June 2025 rates, while those not on it get lower rates ([source, 2026-01](https://www.mra.mu/download/FAQs-SocialContributionIncomeAllowance.pdf)).
 - The Mauritius Revenue Authority says the Independence Allowance of Rs 20,000 is paid to eligible youths registered on the Social Register of Mauritius on reaching 18 ([source, 2025](https://www.mra.mu/index.php/eservices1/financial-assistance/independence-allowance)).
 
@@ -144,6 +145,14 @@ Several programmes drew on the social registry, linked to the national ID, in 20
 - The World Bank states Rwanda moved to a national digital platform linked to ID and administrative data ([source, 2025-11-19](https://www.worldbank.org/en/results/2025/11/19/social-registries-digital-platforms-inclusive-service-delivery)).
 - The World Bank states the Imibereho registry supports safety nets, economic inclusion, skills and health insurance programmes, with over 11 million people covered by health insurance ([source, 2025-11-19](https://www.worldbank.org/en/results/2025/11/19/social-registries-digital-platforms-inclusive-service-delivery)).
 
+### Sao Tome and Principe: 4 Operating
+
+Two programmes drew on the social registry in 2026; whether it is linked to the national ID is not known.
+
+- The DPSSF says the Cadastro Social Único is the reference instrument for several programmes, among them Programa Família Vulnerável and the Apoio à Criação do Próprio Emprego component ([source, 2026-02-17](https://rstp.st/2026/02/17/protecao-social-lanca-inquerito-piloto-para-a-ii-recertificacao-e-atualizacao-do-cadastro-social-unico/)).
+- Sao Tome and Principe's Cadastro Social Unico, set up by Decreto-Lei 16/2018 and regulated by Decreto-Lei 3/2023, was expanded by a data update from 8,000 to more than 12,500 households, the prime minister said (RSTP) ([source, 2026-08-26](https://rstp.st/2026/08/26/pm-defende-reforco-da-protecao-social-para-apoiar-mais-pessoas-em-situacao-de-vulnerabilidade/)).
+- The Direcao da Protecao Social says about 12,500 households, 25% of the population, are registered in the Cadastro Social Unico, a system built to identify and target support to vulnerable families ([source, 2026-08-03](https://rstp.st/2026/08/03/direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp/)).
+
 ### Senegal: 4 Operating
 
 Two or more programmes used the social registry in 2023; no source found reports a link to the national ID.
@@ -157,12 +166,6 @@ The social registry took in national ID numbers automatically in 2026; which pro
 - The World Bank says the e-ID system is fully interoperable with the RSPM, enabling automatic ingestion of unique identification numbers ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
 - The World Bank says Togo has operationalised a dynamic social registry (RSPM) that its e-ID feeds ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
 
-### Botswana: 3 Established
-
-A social registry was in service in 2025; no source found reports its use by two or more programmes.
-
-- The World Bank completion report says 98 percent of beneficiaries of the five main social assistance programmes targeting poor households were included in the Single Social Registry by March 2025 ([source, 2025-03](https://documents1.worldbank.org/curated/en/099121825122532143/txt/BOSIB-35f31917-1454-433b-a021-4d7246073f71.txt)).
-
 ### Burkina Faso: 3 Established
 
 A social registry was in service in 2026; no source found reports its use by two or more programmes.
@@ -175,6 +178,18 @@ A social registry was in service in 2026; no source found reports its use by two
 A social registry was in service in 2025; no source found reports its use by two or more programmes.
 
 - The World Bank paper says RESUC, established under the Ministry of Social Affairs, had 198,140 households covered by July 2025 and has operational systems providing a foundation for targeting and coordination across programmes ([source, 2025-07](https://documents1.worldbank.org/curated/en/099082625105536477/pdf/BOSIB-c1db46ff-563d-4cc3-b382-1eb9e5eb6876.pdf)).
+
+### Chad: 3 Established
+
+A social registry was in service in 2025, targeting one project's beneficiaries; no source found reports its use by two or more programmes.
+
+- The World Bank report says 1,094,784 beneficiaries, including 283,448 refugees, were registered in Chad's Unified Social Registry by 22 December 2025, and almost all beneficiaries of the Refugees and Host Communities Support Project were targeted through it ([source, 2025-12-22](https://documents1.worldbank.org/curated/en/099010226092029201/pdf/P164748-cddb7c2b-8bd1-4c60-a944-e149b1b37d6e.pdf)).
+
+### Comoros: 3 Established
+
+A social registry was in service in 2026; no source found reports its use by two or more programmes.
+
+- PFSS-RRC states the Registre social unique holds 81,075 households, with operations in 152 of 319 localities, used as a targeting instrument for public aid ([source, 2026-11-09](https://pfss-comores.org/articles/le-gouvernement-comorien-et-la-banque-mondiale-renforcent-leur-partenariat-autour-du-projet-mayendeleyo)).
 
 ### Djibouti: 3 Established
 
@@ -209,13 +224,6 @@ A social registry was in service in 2026; no source found reports its use by two
 - The Registre Social Unifié-Niger, run from the Prime Minister's office, is described as an information system holding household and individual data and delivering dashboards on social protection actions, and as the entry point for programmes ([source, 2026-10-17](https://rsu.gouv.ne/presentation)).
 - UNICEF's social policy section chief said more than 500,000 vulnerable households have been registered in Niger's Registre social unifié (RSU) and now receive adapted services, with targeting to be extended to the worst-affected zones ([source, 2025-09-08](https://www.lesahel.org/formation-des-cadres-nationaux-du-systeme-de-protection-sociale-du-niger-pour-la-mise-en-place-dun-systeme-durable-coherent-et-fonde-sur-les-droits-humains/)).
 
-### Sao Tome and Principe: 3 Established
-
-A social registry was in service in 2026; no source found reports its use by two or more programmes.
-
-- Sao Tome and Principe's Cadastro Social Unico, set up by Decreto-Lei 16/2018 and regulated by Decreto-Lei 3/2023, was expanded by a data update from 8,000 to more than 12,500 households, the prime minister said (RSTP) ([source, 2026-08-26](https://rstp.st/2026/08/26/pm-defende-reforco-da-protecao-social-para-apoiar-mais-pessoas-em-situacao-de-vulnerabilidade/)).
-- The Direcao da Protecao Social says about 12,500 households, 25% of the population, are registered in the Cadastro Social Unico, a system built to identify and target support to vulnerable families ([source, 2026-08-03](https://rstp.st/2026/08/03/direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp/)).
-
 ### Somalia: 3 Established
 
 A social registry was in service in 2025; no source found reports its use by two or more programmes.
@@ -237,19 +245,12 @@ A social registry was under way in 2026; none in service is on record.
 - Le Matinal reports the Conseil des ministres created the Registre Social Unique, an information system for eligibility decisions and household data, described as a system 'en cours de mise en place' ([source, 2026-01-21](https://lematinal.bj/registre-social-unique-au-benin-la-protection-des-plus-vulnerables-renforcee/)).
 - ANIP/WURI-Benin reports a launch and scoping workshop was opened for setting up the Registre Social Unique, financed by the World Bank WURI project and due to be effective in six months ([source, 2023-11-22](https://anip.bj/le-registre-social-unique-rsu-bientot-une-realite/)).
 
-### Chad: 2 Nascent
+### Botswana: 2 Nascent
 
-A social registry was under way in 2026; none in service is on record.
+A social registry was under way in 2026, said to be 96 per cent complete; none in service is on record.
 
-- INSEED presented a restitution session on 24 March 2026 saying 37,449 pastoral and agro-pastoral households were enumerated across 13 provinces into the Registre Social Unifié, and the livestock minister instructed extension to areas not yet covered ([source, 2026-03-24](https://praps2tchad.org/vers-une-cartographie-exhaustive-de-la-vulnerabilite-pastorale-grace-au-registre-social-unifie/)).
-- INSEED reports that on 6 January 2026 authorities of N'Djamena's 9th arrondissement were briefed ahead of a household enrolment operation to extend the Registre Social Unifié, with WFP joining the mission ([source, 2026-01-06](https://www.inseed.td/index.php/component/content/article/79-actualites/517-registre-social-unifie-l-inseed-et-le-pam-sensibilisent-les-autorites-du-9eme-arrondissement-de-n-djamena?Itemid=437)).
-
-### Comoros: 2 Nascent
-
-A social registry was under way in 2026; none in service is on record.
-
-- The PFSS-RRC says the extension aims to improve crisis response through the operationalisation of the Registre Social Unique ([source, 2026-09-20](https://pfss-comores.org/articles/le-gouvernement-comorien-%C3%A9largit-la-protection-sociale-%C3%A0-55-000-m%C3%A9nages-vuln%C3%A9rables)).
-- La Gazette des Comores reports that the Registre social unique continues to be set up in Comoros, with 62,000 households registered, per the World Bank representative ([source, 2026-07-10](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/registre-social-unique-62-000-m%C3%A9nages-d%C3%A9j%C3%A0-enregistr%C3%A9s-.html)).
+- Ministry of Local Government's social protection director Manne said the Single Social Registry is 96 per cent complete and has captured 18 social protection programmes ([source, 2026-09](https://dailynews.gov.bw/news-detail/93447)).
+- BETP secretariat's Tselakgopo said government was establishing a Single Social Registry to identify and target the most vulnerable citizens ([source, 2026-10](https://dailynews.gov.bw/news-detail/93635)).
 
 ### Equatorial Guinea: 2 Nascent
 
@@ -263,6 +264,12 @@ A social registry was under way in 2026; none in service is on record.
 
 - Deputy Prime Minister Thulisile Dladla said the National Dynamic Social Registry (Imbeleko) is being built, with Lubombo household data collection scheduled for 2026-10-12 to 2026-11-27 after the Shiselweni enumeration of June to July 2025 ([source, 2026-09-16](https://eswatinipositivenews.online/lubombo-mps-join-dpm-to-make-every-vulnerable-household-count/)).
 - The Observer reports Shiselweni Region pilot results of the National Dynamic Social Registry (Imbeleko), covering 47,766 households with 44,683 registered and ready for targeting, which government intends to use to target social protection ([source, 2026-08-31](https://www.eswatiniobserver.com/2-304-shiselweni-residents-have-difficulty-walking/)).
+
+### Ethiopia: 2 Nascent
+
+A national social registry was being piloted in 2025, with 821 people registered; none in service is on record.
+
+- OpenG2P says the Ministry of Women and Social Affairs is setting up a National Social Registry, with a pilot that registered 821 individuals in Addis Ababa ([source, 2025](https://id4africa.com/2025/files/T3-P1-S2-OpenG2P-Final.pdf)).
 
 ### Gabon: 2 Nascent
 
@@ -328,15 +335,15 @@ A social registry was under way in 2026; none in service is on record.
 - ZBC News reports the government is developing the Zimbabwe Social Registry (ZISO), a database to identify households eligible for social assistance, to be rolled out across the 65 districts, per Minister Edgar Moyo ([source, 2026-07-20](https://www.zbcnews.co.zw/government-develops-social-registry-to-strengthen-safety-nets/)).
 - The Herald reports the 2025/2026 Zimbabwe Social Registry Survey was launched in Nkayi district by ZimStat with the Ministry of Public Service, Labour and Social Welfare, collecting household data for a national social registry and spreading progressively across 65 districts ([source, 2026-03-11](https://www.heraldonline.co.zw/zim-rolls-out-nationwide-survey-to-strengthen-social-protection-systems/)).
 
+### Tanzania: 1 Absent
+
+In 2025 the government said there was no unified social registry; whether one is under way is not known.
+
+- PMO-LYED lists the absence of an integrated social protection system, i.e. a Unified Social Registry, among Tanzania's challenges ([source, 2025-11](https://sdgs.un.org/sites/default/files/2025-11/ClosingRemark_PMO_LYED_SocialProtection_Tanzania.pdf)).
+
 ### Namibia: Unplaced
 
 A 2022 report names a beneficiary register checked against the population register; nothing since November 2023 shows it now, so no stage is set.
-
-Not established: Nothing found since November 2023 says whether a social registry is under way or in service; the rows held date from 2022.
-
-### Tanzania: Unplaced
-
-A 2022 case study names a beneficiary registry checked against the national ID; nothing since November 2023 shows it now, so no stage is set.
 
 Not established: Nothing found since November 2023 says whether a social registry is under way or in service; the rows held date from 2022.
 
@@ -359,12 +366,6 @@ Nothing found names a social registry or says there is none, so no stage is set.
 Not established: Nothing found names a social registry, or says there is none.
 
 ### Eritrea: No evidence
-
-Nothing found names a social registry or says there is none, so no stage is set.
-
-Not established: Nothing found names a social registry, or says there is none.
-
-### Ethiopia: No evidence
 
 Nothing found names a social registry or says there is none, so no stage is set.
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-15-mdg-recrutement-d-un-cabinet-pour-la-conception-le-developpement-et-l-acco",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "The Ministere de la Population et des Solidarites issued a call for expressions of interest, published 15 October 2026 and closing 29 October 2026, for a firm to design and build the information system (MIS RSU) of the Registre Social Unique under the World Bank-funded PFSR project.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Registre Social Unique (MIS RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unique (MIS RSU)",
+   "country_label": "Madagascar",
+   "class": "social",
+   "platform": "national platform managing the RSU data lifecycle",
+   "owner": "Ministere de la Population et des Solidarites",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

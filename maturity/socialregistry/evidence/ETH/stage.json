@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "no evidence",
-      "registry": "",
+      "stage": "2",
+      "registry": "underway",
       "programmes": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found names a social registry, or says there is none.",
-      "note": "Rebuild: no evidence row is held on a social registry. No stage.",
-      "as_at": "2026-11-13"
+      "stage_sources": "ETH-002",
+      "gaps": "No source found since October 2023 says a social registry is in service; the National Social Registry was at a pilot of 821 people in Addis Ababa in 2025. OpenG2P's Fayda seeding is held, but a link does not lift a registry still under way.",
+      "note": "Stage 4c: the Ministry of Women and Social Affairs is setting up a National Social Registry, piloted with 821 people (ETH-002), so under way. The relief registration of about 300,000 people is one agency's list, removed (corrections.csv), so not 3.",
+      "as_at": "2026-11-15"
     }
   ]
 }

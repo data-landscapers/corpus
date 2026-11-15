@@ -6,13 +6,13 @@
       "stage": "4",
       "registry": "inservice",
       "programmes": "several",
-      "linked": "",
+      "linked": "paid",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-001;MUS-002",
-      "gaps": "Nothing says the register is linked to or checked against the national ID, or that benefits are paid digitally.",
-      "note": "Rebuild: the CSG income allowance and the Independence Allowance each draw on the Social Register (MUS-001, MUS-002), two programmes, so 4 under ruling 106; the shared counter reads 3. No ID link, so not 5.",
-      "as_at": "2026-11-13"
+      "stage_sources": "MUS-005;MUS-001;MUS-002",
+      "gaps": "Nothing says the register is linked to or checked against the national ID.",
+      "note": "Stage 4c: the ministry lists the Subsistence Allowance, Bread Price Relief and Child Allowance among schemes for register households (MUS-005), beside the CSG and Independence Allowances (MUS-001, MUS-002), so 4. An infant grant is paid into bank accounts (MUS-006), but no ID link is held, so not 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

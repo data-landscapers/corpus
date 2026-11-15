@@ -1,0 +1,36 @@
+{
+ "slug": "2024-05-20-lbr-building-liberia-household-social-registry",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The World Bank consultant's article says more than 250,000 households, about 20% of the population, are enrolled in the Liberia Household Social Registry, and the Cabinet endorsed it in January 2020 as the primary targeting tool.",
+   "as_of": "2024-05-20",
+   "date_precision": "day",
+   "system": "Liberia Household Social Registry (LHSR)",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "The article says the LHSR and its MIS are used by three government-led social protection programmes.",
+   "as_of": "2024-05-20",
+   "date_precision": "day",
+   "system": "Liberia Household Social Registry (LHSR)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia Household Social Registry (LHSR)",
+   "country_label": "Liberia",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

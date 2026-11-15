@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-21-cpv-dia-da-justica-social-ministerio-da-familia-inclusao-e-desenvolvimento",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The Minister of Family, Inclusion and Social Development says the Cadastro Social Único is a key instrument directing public policy and social support, with about 9% of records carrying errors being corrected.",
+   "as_of": "2025-02-20",
+   "date_precision": "day",
+   "system": "Cadastro Social Único",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cadastro Social Único",
+   "country_label": "Cabo Verde",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministry of Family, Inclusion and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-01-tza-tanzania-s-social-protection-profile",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "none",
+   "fact": "PMO-LYED lists the absence of an integrated social protection system, i.e. a Unified Social Registry, among Tanzania's challenges.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Unified Social Registry",
+   "class": "social"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

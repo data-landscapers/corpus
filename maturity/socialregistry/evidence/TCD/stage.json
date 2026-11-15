@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "2",
-      "registry": "underway",
+      "stage": "3",
+      "registry": "inservice",
       "programmes": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-001;TCD-002",
-      "gaps": "No source found since November 2023 says the social registry is in service.",
-      "note": "Rebuild: INSEED was still extending enrolment into the RSU in January and March 2026 (TCD-001, TCD-002), by province. Being populated, so not 3.",
-      "as_at": "2026-11-13"
+      "stage_sources": "TCD-006",
+      "gaps": "No source found since November 2023 says two or more programmes select from the social registry, or that it is linked to the national ID.",
+      "note": "Stage 4c: the World Bank says 1,094,784 people were in the Unified Social Registry by December 2025 and almost all beneficiaries of its refugee and host community project were targeted through it (TCD-006), so in service; enrolment still extending by province (TCD-001, TCD-005) does not undo that. One programme and no ID link, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

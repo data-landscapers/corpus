@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-28-cod-la-rdc-dotee-du-systeme-d-information-de-gestion-du-registre-social-un",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "ACP reports UNICEF formally handed the management information system of the Registre social unique to the Ministry of Social Affairs, with the minister calling it a step towards institutionalising the registry.",
+   "as_of": "2024-03-28",
+   "date_precision": "day",
+   "system": "Registre social unique (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre social unique (RSU)",
+   "country_label": "DRC",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministry of Social Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

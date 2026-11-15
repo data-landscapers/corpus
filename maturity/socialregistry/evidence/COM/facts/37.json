@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-com-le-gouvernement-comorien-et-la-banque-mondiale-renforcent-leur-partena",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "PFSS-RRC states the Registre social unique holds 81,075 households, with operations in 152 of 319 localities, used as a targeting instrument for public aid.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Registre social unique (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre social unique (RSU)",
+   "country_label": "Comoros",
+   "class": "social",
+   "platform": "",
+   "owner": "Government of Comoros / PFSS-RRC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-14-swz-wfp-donates-e850k-to-boost-eswatini-social-registry",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "The article says data collection for the National Dynamic Social Registry has already commenced in the Shiselweni Region, with the Deputy Prime Minister's Office receiving WFP equipment worth over E850,000 for the rollout.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "National Dynamic Social Registry (NDSR)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Dynamic Social Registry (NDSR)",
+   "country_label": "NDSR",
+   "class": "social",
+   "platform": "",
+   "owner": "Deputy Prime Minister's Office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

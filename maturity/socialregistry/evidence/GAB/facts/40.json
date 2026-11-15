@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-17-gab-gabon-moves-to-accelerate-implementation-of-unified-social-registry-rs",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "TechReviewAfrica reports ANINF's roadmap for the Unified Social Registry (RSU) starts with development of a specialized social protection information system, in three implementation phases agreed with the Minister of Women, Family and Child Protection and World Bank representatives.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "Unified Social Registry (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Social Registry (RSU)",
+   "country_label": "Registre Social Unique",
+   "class": "social",
+   "platform": "",
+   "owner": "ANINF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

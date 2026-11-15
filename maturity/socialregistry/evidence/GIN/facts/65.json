@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-01-gin-tdr-pour-le-recrutement-d-un-consultant-international-pour-l-evaluatio",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The terms of reference say Guinea's Registre Social Unifié, created by decree in 2019, covered the whole national territory in registration operations from 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Registre Social Unifié (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unifié (RSU)",
+   "country_label": "Guinea",
+   "class": "social",
+   "platform": "",
+   "owner": "FDSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

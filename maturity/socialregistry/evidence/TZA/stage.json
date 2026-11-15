@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "unplaced",
-      "registry": "",
+      "stage": "1",
+      "registry": "none",
       "programmes": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since November 2023 says whether a social registry is under way or in service; the rows held date from 2022.",
-      "note": "Rebuild: every row is from August 2022 (TZA-001, TZA-002), older than three years, and nothing later says what the registry is now. Unplaced.",
-      "as_at": "2026-11-13"
+      "stage_sources": "TZA-003",
+      "gaps": "The 2022 rows on TASAF's Unified Registry of Beneficiaries and its NIDA link are older than three years; nothing since says a unified social registry is under way.",
+      "note": "Stage 4c: in November 2025 the Prime Minister's Office listed the absence of an integrated social protection system, a Unified Social Registry, among Tanzania's challenges (TZA-003), so 1. Nothing in the window says one is under way, so not 2.",
+      "as_at": "2026-11-15"
     }
   ]
 }

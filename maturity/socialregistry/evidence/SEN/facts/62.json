@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-registre-nat",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The government says the Registre national unique now lists 996,194 poor or vulnerable households, up from 545,000, after an update and extension finished in early 2026.",
+   "as_of": "2026-06-22",
+   "date_precision": "day",
+   "system": "Registre national unique (RNU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national unique (RNU)",
+   "country_label": "Senegal",
+   "class": "social",
+   "platform": "",
+   "owner": "Government of Senegal",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

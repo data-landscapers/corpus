@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-20-mwi-malawi-launches-data-sharing-app-for-social-registry",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "GIZ Malawi says the Malawi Social Registry is a national household database used to identify who is targeted for social protection programmes in Malawi.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "Malawi Social Registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi Social Registry",
+   "country_label": "Malawi",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministry of Finance, Economic Planning and Decentralisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

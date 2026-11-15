@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-02-tcd-implementation-status-results-report-chad-refugees-and-host-communitie",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The World Bank report says 1,094,784 beneficiaries, including 283,448 refugees, were registered in Chad's Unified Social Registry by 22 December 2025, and almost all beneficiaries of the Refugees and Host Communities Support Project were targeted through it.",
+   "as_of": "2025-12-22",
+   "date_precision": "day",
+   "system": "Unified Social Registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Social Registry",
+   "country_label": "Chad",
+   "class": "social",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

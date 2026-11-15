@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "2",
-      "registry": "underway",
+      "stage": "3",
+      "registry": "inservice",
       "programmes": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COM-002;COM-001",
-      "gaps": "No source found since November 2023 says the social registry is in service.",
-      "note": "Rebuild: the RSU held 62,000 households and was still being set up in July 2026 (COM-001, COM-002). Nothing says it is in service, so not 3.",
-      "as_at": "2026-11-13"
+      "stage_sources": "COM-003",
+      "gaps": "No source found since October 2023 says two or more programmes choose who receives support from the social registry, or that it is linked to the national ID. Operations covered 152 of 319 localities in November 2026.",
+      "note": "Stage 4c: in November 2026 the PFSS-RRC said the RSU held 81,075 households and serves as a targeting instrument for public aid (COM-003), and the Msaanda transfers rest on it (COM-004), so in service. Only one programme is named and no ID link is held, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

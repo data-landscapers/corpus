@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-04-stp-beneficiarios-do-programa-familia-vulneravel-podem-perder-apoio-por-fa",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "RSTP, citing a DPSSF communique, describes the Cadastro Social Único as an information system and database run by the DPSSF to classify households, with Programa Família Vulnerável households required to update their data by 10 April 2026.",
+   "as_of": "2026-04-04",
+   "date_precision": "day",
+   "system": "Cadastro Social Único",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cadastro Social Único",
+   "country_label": "São Tomé e Príncipe",
+   "class": "social",
+   "platform": "",
+   "owner": "DPSSF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

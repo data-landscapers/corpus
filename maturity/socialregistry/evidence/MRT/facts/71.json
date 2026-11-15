@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-05-tgo-enhancing-climate-resilience-with-smarter-data-the-role-of-dynamic-soc",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "The World Bank blog says Mauritania is implementing a universal social registry covering the entire population.",
+   "as_of": "2025-03-05",
+   "date_precision": "day",
+   "system": "universal social registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "universal social registry",
+   "country_label": "Mauritania",
+   "class": "social",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

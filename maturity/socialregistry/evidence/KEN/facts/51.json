@@ -1,0 +1,60 @@
+{
+ "slug": "2026-02-01-ken-february-newsletter-edition",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The newsletter says the ESR serves as Kenya's national socio-economic database for households, used to target and enrol across programmes.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Enhanced Single Registry (ESR)",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "The newsletter says the ESR integrates data from the core cash transfer programmes under the National Safety Net Programme and the Hunger Safety Net Programme.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Enhanced Single Registry (ESR)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CCTPMIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "MIS",
+   "owner": "Government (Inua Jamii)",
+   "tiers": ""
+  },
+  {
+   "system": "Enhanced Single Registry (ESR)",
+   "country_label": "Kenya",
+   "class": "social",
+   "platform": "registry",
+   "owner": "Government",
+   "tiers": ""
+  },
+  {
+   "system": "HSNP MIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "MIS",
+   "owner": "National Drought Management Authority",
+   "tiers": ""
+  },
+  {
+   "system": "CDMIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "web",
+   "owner": "Directorate of Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
