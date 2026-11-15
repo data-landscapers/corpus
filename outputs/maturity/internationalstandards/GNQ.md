@@ -4,4 +4,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
+***Not found***. Nothing found names the country's standards body as a member of ISO or IEC. Nothing found says it belongs to neither.

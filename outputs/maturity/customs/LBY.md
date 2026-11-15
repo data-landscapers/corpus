@@ -10,4 +10,4 @@
 
 ***Also on file***. [vehicle tracking system](<https://libyaobserver.ly/news/libyan-customs-launches-electronic-system-track-vehicles-land-borders>); [Automated Customs System](<https://www.untfsurvey.org/economy?id=LBY>); [E-Single Window System](<https://www.untfsurvey.org/economy?id=LBY>); [e-Trade Portal System (PTS)](<https://libyaherald.com/2026/01/economy-ministry-launches-tracking-of-imports-through-its-unified-digital-trade-system>).
 
-***Not found***. No source found since October 2023 shows declarations lodged and processed in ASYCUDA World at a main port or border post.
+***Not found***. Nothing found since October 2023 shows ASYCUDA World declarations lodged and processed at a main port or border post.

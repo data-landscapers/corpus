@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** No such project has been found. [The state-owned Ethio Telecom extended its share offering in January 2025](<https://www.thereporterethiopia.com/43299/>); the offering sold part of the company.
 
-***Also on file***. [Monty Mobile International](<https://www.africaprivateequitynews.com/p/bluepeak-private-capital-fund-ii>), an A2P messaging firm; the [Cooperative Bank of Oromia revenue-based financing pilot](<https://techtrends.africa/african-startups-that-skipped-vc-money/>); the [Ethio telecom public offering](<https://www.thereporterethiopia.com/43299/>).
+***Also on file***. [Monty Mobile International](<https://www.africaprivateequitynews.com/p/bluepeak-private-capital-fund-ii>), an A2P messaging firm, is on file. So are the [Cooperative Bank of Oromia revenue-based financing pilot](<https://techtrends.africa/african-startups-that-skipped-vc-money/>) and the [Ethio telecom public offering](<https://www.thereporterethiopia.com/43299/>).
 
 ***Not found***. No source found says the government brought private money into a public digital project.

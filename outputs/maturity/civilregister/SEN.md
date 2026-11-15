@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says births are registered digitally across the country, or that deaths are registered in a digital system.
+***Not found***. No source found since October 2023 says births are registered digitally across the country. None says deaths are registered in a digital system.

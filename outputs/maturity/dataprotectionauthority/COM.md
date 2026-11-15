@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found says the authority's head or members have been appointed, and no ruling or published figures have been found.
+***Not found***. No source found says the authority's head or members have been appointed. No ruling or published figures have been found.

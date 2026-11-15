@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found names an international standard on information technology or data adopted as a national standard, a rule requiring public bodies to meet one, or a seat on an ISO or IEC committee.
+***Not found***. No source found names an international standard on information technology or data adopted as a national standard. None names a rule requiring public bodies to meet one, or a seat on an ISO or IEC committee.

@@ -2,9 +2,9 @@
 
 ## STEM graduates
 
-**STEM graduates, as a share of tertiary graduates.** In 2024, [STEM graduates were 23.8 per cent of tertiary graduates](<https://databrowser.uis.unesco.org/>), by UNESCO's tertiary graduates series. The series gives no figure for the years just before, so no source found says whether it is rising or falling. It is 3.21 points short of 27, the next line. The study's lines are 13, 27 and 40 per cent of tertiary graduates, the frame's own cuts, and the latest figure for 2023 or later sets the stage, so a fall is a fall. The figure counts graduates in science, technology, engineering and mathematics, ICT among them; it says nothing of where they find work.
+**STEM graduates, as a share of tertiary graduates.** In 2024, [STEM graduates were 23.8 per cent of tertiary graduates](<https://databrowser.uis.unesco.org/>), by UNESCO's tertiary graduates series. The series gives no figure for the years just before. No source found says whether it is rising or falling. It is 3.21 points short of 27, the next line. The study's lines are 13, 27 and 40 per cent of tertiary graduates, the frame's own cuts. The latest figure for 2023 or later sets the stage, so a fall is a fall. The figure counts graduates in science, technology, engineering and mathematics, ICT among them. It says nothing of where they find work.
 
-**Research and education network.** A research and education network is asked about only once STEM graduates reach 40 per cent, so with [the figure below that line](<https://databrowser.uis.unesco.org/>) none was looked for in this first pass.
+**Research and education network.** A research and education network is asked about only once STEM graduates reach 40 per cent. [The figure is below that line](<https://databrowser.uis.unesco.org/>), so none was looked for.
 
 ***Also on file***. None found.
 

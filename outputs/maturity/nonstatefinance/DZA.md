@@ -2,7 +2,7 @@
 
 ## Private money for digital businesses
 
-**Private money put into a digital business, with its year.** In December 2025 a group of private investors led by Tell Group, a financial services company, with the Algerian conglomerate Groupe Industriel Babahoum Algerie (GIBA) taking part, put 600 million dinars (about USD 5 million) into the Algerian travel-tech start-up VOLZ, [per TechCabal](<https://techcabal.com/2025/12/16/volz-raises-5-million/>).
+**Private money put into a digital business, with its year.** [TechCabal reports](<https://techcabal.com/2025/12/16/volz-raises-5-million/>) that in December 2025 a group of private investors led by Tell Group, a financial services company, put 600 million dinars (about USD 5 million) into VOLZ. VOLZ is an Algerian travel-tech start-up. The Algerian conglomerate Groupe Industriel Babahoum Algerie (GIBA) took part in the round.
 
 **Money raised inside the country.** The VOLZ round was raised in dinars from Algerian investors, and [TechCabal calls it](<https://techcabal.com/2025/12/16/volz-raises-5-million/>) the largest Algerian start-up round in dinars. Tell Group's USD 5 million is [recorded as approved equity](<https://techcabal.com/2025/12/16/volz-raises-5-million/>), starting in 2025.
 

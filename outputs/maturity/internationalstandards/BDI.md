@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The [same ISO page](<https://www.iso.org/member/1591.html>) shows the bureau holding 11 participating and 28 observing memberships of ISO technical committees. It does not name the committees, so it does not show which of them cover information technology or data. No law, decree or circular requiring public bodies to meet a named international standard is held for Burundi.
 
-***Also on file***. [The central bank's interbank payment system, the Automated Transfer System, moved to the ISO 20022 message format on 5 February 2026](<https://www.brb.bi/node/2909>).
+***Also on file***. [The central bank's interbank payment system, the Automated Transfer System, moved to the ISO 20022 message format](<https://www.brb.bi/node/2909>). The move took place on 5 February 2026.
 
 ***Not found***. No source found names an international standard on information technology or data adopted as a national standard.

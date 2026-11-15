@@ -8,4 +8,4 @@
 
 ***Also on file***. [Data Protection Act No. 18 of 2024](<https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news>).
 
-***Not found***. No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.
+***Not found***. No count of the authority's decisions, fines or settled complaints for the last two years has been found.

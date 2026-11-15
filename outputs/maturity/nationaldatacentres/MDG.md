@@ -2,7 +2,7 @@
 
 ## Nationally owned data centres for hire
 
-**In service, Tier III, and two of them.** [STELLARIX offers colocation (1U to full 42U racks, carrier-neutral, Smart Hands) from two data centres in Antananarivo, Galaxy Andraharo and Analakely, advertised at 99.982% availability](<https://www.stellar-ix.com/solutions/colocation/housing/>). These place a nationally owned data centre for hire in service. No source found states one at Tier III or above: built so that power and cooling can be maintained without shutting the data centre down, as the Uptime Institute defines it.
+**In service, Tier III, and two of them.** [STELLARIX offers colocation (1U to full 42U racks, carrier-neutral, Smart Hands) from two data centres in Antananarivo, Galaxy Andraharo and Analakely, advertised at 99.982% availability](<https://www.stellar-ix.com/solutions/colocation/housing/>). These place a nationally owned data centre for hire in service. No source found states one at Tier III or above. Tier III, as the Uptime Institute defines it, means power and cooling can be maintained without shutting the data centre down.
 
 **Owned in the country.** Nationally owned: [STELLARIX data centres (Galaxy Andraharo; Analakely)](<https://www.stellar-ix.com/solutions/colocation/housing/>). Owned in the country means by the state, a state enterprise or a company owned mostly in the country; a facility a foreign group controls is not counted.
 

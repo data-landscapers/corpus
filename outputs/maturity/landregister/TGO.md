@@ -6,7 +6,7 @@
 
 **Nationwide.** No source found since October 2023 says the digital land register covers the whole country. The nearest fact: [in September 2024 land title procedures were fully dematerialised](<https://www.republiquetogolaise.tg/tic/1609-9722-services-publics-zoom-sur-les-reformes-initiees-pour-accelerer-la-digitalisation>).
 
-**Online services.** [Togo Officiel says citizens can now carry out all cadastre procedures for a land title remotely through an online portal](<https://www.republiquetogolaise.tg/tic/1609-9722-services-publics-zoom-sur-les-reformes-initiees-pour-accelerer-la-digitalisation>). [Togo-Presse reports that, through an online portal, citizens can now carry out all Cadastre procedures for a land title remotely, and that a unique parcel number (NUP) has been introduced](<https://togopresse.tg/une-plateforme-numerique-creee-pour-rendre-les-services-gouvernementaux-plus-accessibles/>).
+**Online services.** [Togo Officiel says citizens can now carry out all cadastre procedures for a land title remotely through an online portal](<https://www.republiquetogolaise.tg/tic/1609-9722-services-publics-zoom-sur-les-reformes-initiees-pour-accelerer-la-digitalisation>). [Togo-Presse reports that citizens can now carry out all Cadastre procedures for a land title remotely through an online portal](<https://togopresse.tg/une-plateforme-numerique-creee-pour-rendre-les-services-gouvernementaux-plus-accessibles/>). It reports that a unique parcel number (NUP) has been introduced.
 
 ***Also on file***. [national geodetic and levelling network and CORS station network](<https://urbanisme.gouv.tg/12915-2/>).
 

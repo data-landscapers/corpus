@@ -6,7 +6,7 @@
 
 **Nationwide.** [The Ministry of Agriculture says NRLAIS serves rural areas across the country](<https://www.moa.gov.et/e-services/>). It holds rural land only, and eLand runs in three cities.
 
-**Online services.** [The eLand platform states citizens can submit online applications for ownership transfer, lease, mortgage and parcel subdivision, search property with map integration, pay fees online and download title certificates](<https://land.et>).
+**Online services.** [The eLand platform states citizens can submit online applications for ownership transfer, lease, mortgage and parcel subdivision](<https://land.et>). They can also search property with map integration, pay fees online and download title certificates.
 
 ***Also on file***. None found.
 

@@ -6,7 +6,7 @@
 
 **Nationwide.** No source found since October 2023 says the digital land register covers the whole country. The nearest fact: [in March 2024 the World Bank said 1,283,171 land use rights (DUATs) were recorded in SIGIT](<https://documents1.worldbank.org/curated/en/099041025095533783/txt/P164551-e911de3f-ad72-4e08-b0e6-7bbb6c628183.txt>).
 
-**Online services.** [The World Bank IEG review says SIGIT included a web portal that enabled public access to the national cadastre land data](<https://documents1.worldbank.org/curated/en/099041025095533783/txt/P164551-e911de3f-ad72-4e08-b0e6-7bbb6c628183.txt>).
+**Online services.** [The World Bank IEG review says SIGIT included a web portal](<https://documents1.worldbank.org/curated/en/099041025095533783/txt/P164551-e911de3f-ad72-4e08-b0e6-7bbb6c628183.txt>). The portal enabled public access to the national cadastre land data.
 
 ***Also on file***. None found.
 

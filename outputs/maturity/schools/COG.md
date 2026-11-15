@@ -2,11 +2,11 @@
 
 ## EMIS
 
-**Governance, planning, finance.** [Decree 2023-1751 of 2 November 2023](<https://www.sgg.cg/JO/2023/congo-jo-2023-46.pdf>) creates an education management information system, which Congo calls the SIGE, inside the ministry of preschool, primary and secondary education and literacy. The ministry's information systems directorate administers it and the state agency ACSI maintains it. The decree [finances it in public schools from the State budget, gifts and partners](<https://www.sgg.cg/JO/2023/congo-jo-2023-46.pdf>), and names no amount.
+**Governance, planning, finance.** [Decree 2023-1751 of 2 November 2023](<https://www.sgg.cg/JO/2023/congo-jo-2023-46.pdf>) creates an education management information system, which Congo calls the SIGE. It sits inside the ministry of preschool, primary and secondary education and literacy. The ministry's information systems directorate administers it and the state agency ACSI maintains it. The decree [finances it in public schools from the State budget, gifts and partners](<https://www.sgg.cg/JO/2023/congo-jo-2023-46.pdf>), and names no amount.
 
 **Levels in use.** No level uses a school-level system. In May 2023 a digital workspace for primary and secondary schools, the ENT, [existed only as a specification](<https://apprendre.auf.org/wp-content/uploads/2023/06/ENT-Congo-Cahier-des-charges-APPRENDRE-MAI-2023-1.pdf>) written for the ministry by a consultant of the AUF's APPRENDRE programme.
 
-**How the record is kept.** The decree [assigns data entry to the schools or their inspectorates](<https://www.sgg.cg/JO/2023/congo-jo-2023-46.pdf>): each learner registered under a unique number, with grades, report cards and school record books digitised.
+**How the record is kept.** The decree [assigns data entry to the schools or their inspectorates](<https://www.sgg.cg/JO/2023/congo-jo-2023-46.pdf>). Each learner is registered under a unique number, with grades, report cards and school record books digitised.
 
 **Last twelve months.** The decree creating the system is dated [2 November 2023](<https://www.sgg.cg/JO/2023/congo-jo-2023-46.pdf>).
 

@@ -8,4 +8,4 @@
 
 ***Also on file***. [The cybersecurity strategy's suggestion of ISO/IEC 27001 and 27002 for government agencies](<https://dco.org/wp-content/uploads/2025/10/Gambia-Report.pdf>).
 
-***Not found***. No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.
+***Not found***. No source found says public bodies must meet a named international standard on information technology or data. No law, decree, regulation, directive or circular to that effect has been found.

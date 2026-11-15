@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The [same ISO member page](<https://www.iso.org/member/2084.html>) shows the bureau observing 3 policy development committees, besides the 21 technical committees. Nothing found shows the bureau chairing or writing for a committee, or any rule requiring public bodies to meet an international standard. The central bank's payment messaging, moved to an international format in November 2025, is listed below.
 
-***Also on file***. [Payments messaging moved from SWIFT MT to the ISO 20022 format from 22 November 2025](<https://sba.org.sc/public-notice-bank-closure/>), per a joint notice of the Central Bank of Seychelles and the Seychelles Bankers Association.
+***Also on file***. [Payments messaging moved from SWIFT MT to the ISO 20022 format from 22 November 2025](<https://sba.org.sc/public-notice-bank-closure/>). The move was set out in a joint notice of the Central Bank of Seychelles and the Seychelles Bankers Association.
 
 ***Not found***. No source found names an international standard on information technology or data adopted as a national standard.

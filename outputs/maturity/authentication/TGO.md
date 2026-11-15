@@ -6,8 +6,8 @@
 
 **Used across services.** ANID says it [verifies identity for banks' e-KYC and for public services](<https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf>) such as hospitals, social protection, education and pensions. Checks run by QR code, API, mobile app and USSD. The World Bank says [the digital services gateway, the social registry and the social payments platform use the fID](<https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf>).
 
-**Remote proof of identity.** No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact is the [portal's one-time-password login](<https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf>); the e-ID card carries a digitally signed QR code for checks in person.
+**Remote proof of identity.** No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest fact found is the [portal's one-time-password login](<https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf>). The e-ID card carries a digitally signed QR code for checks in person.
 
 ***Also on file***. [Identification systématique et obligatoire des abonnés (SIM registration)](<https://jo.gouv.tg/sites/default/files/JO/JOS_23_04_2025%20-70%20E%20ANNEE%20N%C2%B044%20BIS.pdf>); [NIU / carte d'identification unique](<https://jo.gouv.tg/sites/default/files/JO/JOS_23_04_2025%20-70%20E%20ANNEE%20N%C2%B044%20BIS.pdf>); [e-ID Togo](<https://levisionnaire.tg/e-id-togo-plus-de-6-millions-de-personnes-enregistrees-la-region-de-la-kara-prochaine-etape/>); [MOSIP-based digital ID](<https://www.biometricupdate.com/202605/why-decentralized-digital-identity-looks-different-in-every-country>).
 
-***Not found***. No source found says a mobile ID, ID wallet or signed credential is in service; the use figures are ANID's own.
+***Not found***. No source found says a mobile ID, ID wallet or signed credential is in service. The use figures are ANID's own.

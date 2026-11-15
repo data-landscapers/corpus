@@ -6,7 +6,7 @@
 
 **Nationwide.** No source found since October 2023 says the digital land register covers the whole country. The nearest fact: [in September 2026 SYC@D managed the cadastre, state domain and land, with FasoSign signing provisional cession orders](<https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/>).
 
-**Online services.** [The Ministry of Economy and Finance says users can apply for plot allocation, obtain a cadastral extract and receive provisional and definitive transfer orders online through SYC@D](<https://www.finances.gov.bf/forum/detail-actualites>). [The DGI says SyC@D offers online request and issue of the parcel attribution certificate, provisional and definitive cession decrees and the cadastral extract](<https://dgi.bf/digitalisation-de-la-gestion-fonciere-la-plateforme-sycd-en-marche/>).
+**Online services.** [The Ministry of Economy and Finance says users can apply for plot allocation online through SYC@D](<https://www.finances.gov.bf/forum/detail-actualites>). They can also obtain a cadastral extract and receive provisional and definitive transfer orders there. [The DGI says SyC@D offers online request and issue of the parcel attribution certificate](<https://dgi.bf/digitalisation-de-la-gestion-fonciere-la-plateforme-sycd-en-marche/>), provisional and definitive cession decrees and the cadastral extract.
 
 ***Also on file***. [eMC+](<https://www.gaf.de/gaf-ag-to-upgrade-burkina-fasos-mining-cadastre-system-emc-under-the-world-bank-funded-pargfm-project/>).
 

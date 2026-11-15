@@ -4,7 +4,7 @@
 
 **Governance, planning, finance.** The Ministry of Primary and Secondary Education [presents the system it calls EMIS, and the report drawn from it, as its own](<https://www.newzimbabwe.com/zimbabwe-targets-to-re-enrol-out-of-school-learners-as-40000-dropped-out-in-2025-alone/>). It did so in June 2026. The revised EMIS [has GPE funding of US$2.9 million for 2023 to 2026, with UNICEF supporting implementation](<https://www.globalpartnership.org/blog/data-systems-transform-zimbabwes-schools>).
 
-**Levels in use.** The ministry's EMIS report [counts 39,736 learners who dropped out in 2025, 13,032 at primary and 26,704 at secondary level](<https://www.newzimbabwe.com/zimbabwe-targets-to-re-enrol-out-of-school-learners-as-40000-dropped-out-in-2025-alone/>), and the ministry describes its Early Warning System without limiting it to either level.
+**Levels in use.** The ministry's EMIS report [counts 39,736 learners who dropped out in 2025, 13,032 at primary and 26,704 at secondary level](<https://www.newzimbabwe.com/zimbabwe-targets-to-re-enrol-out-of-school-learners-as-40000-dropped-out-in-2025-alone/>). The ministry describes its Early Warning System without limiting it to either level.
 
 **How the record is kept.** The Early Warning System is now integrated into EMIS. The ministry's spokesperson said in June 2026 that it [flags individual learners by tracking persistent absenteeism and falling grades and produces a real-time list of learners absent for extended periods](<https://www.newzimbabwe.com/zimbabwe-targets-to-re-enrol-out-of-school-learners-as-40000-dropped-out-in-2025-alone/>). In November 2026 the revised EMIS [was administered at school level](<https://www.globalpartnership.org/blog/data-systems-transform-zimbabwes-schools>).
 

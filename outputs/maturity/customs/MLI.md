@@ -6,7 +6,7 @@
 
 **Single window.** No source found since October 2023 says a trade single window joining customs with the other border agencies is in service. The nearest held fact is the Director-General's account of [SYDONIAWorld covering most customs procedures](<https://douanes.gouv.ml/node/535>).
 
-**Exchange with partners.** [Douanes Ivoiriennes report that Cote d Ivoire and Mali teams met on 24-25 September 2026 to assess SIGMAT in its operating phase on the Abidjan-Bamako transit corridor, sharing information between the two administrations](<https://apps.douanes.ci/info/cooperation-bilaterale>). [ECOWAS says Mali was connected to the SIGMAT goods-in-transit data exchange system in July 2024, though it also lists Mali among states preparing to put it into operation](<https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/>).
+**Exchange with partners.** [Douanes Ivoiriennes report that Cote d Ivoire and Mali teams met on 24-25 September 2026 to assess SIGMAT in its operating phase](<https://apps.douanes.ci/info/cooperation-bilaterale>). SIGMAT shares information between the two administrations on the Abidjan-Bamako transit corridor. [ECOWAS says Mali was connected to the SIGMAT goods-in-transit data exchange system in July 2024](<https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/>). It also lists Mali among states preparing to put it into operation.
 
 ***Also on file***. [SYGOCE](<https://fr.apanews.net/technologies/mali-quatre-nouvelles-plateformes-accelerent-la-digitalisation-de-ladministration/>).
 
