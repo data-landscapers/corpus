@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxsystem",
-      "stage": "4",
+      "stage": "5",
       "filing": "inservice",
       "payment": "electronic",
-      "uptake": "",
+      "uptake": "most",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-002",
-      "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
-      "note": "Rebuild 2026-11-13: The NRA Commissioner General said in December 2025 that ITAS takes returns and payments, including by mobile money (SLE-001, SLE-002); nothing makes online filing mandatory, so 4 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "SLE-006;SLE-004;SLE-002",
+      "gaps": "No legal mandate is held; the all-digital claim covers income tax and GST filers.",
+      "note": "In August 2025 the NRA Commissioner General said all income tax and GST filers file digitally on ITAS and there is no more manual filing (SLE-006, SLE-004), so half or more of returns are filed online. Payment through ITAS by mobile money (SLE-002) meets the rung below.",
+      "as_at": "2026-11-15"
     }
   ]
 }

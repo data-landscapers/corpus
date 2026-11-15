@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-07-ken-kra-to-link-real-time-tax-systems-to-m-pesa-for-easier-compliance",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "KRA plans a full overhaul of iTax into an integrated revenue management system with prepopulated returns built from eTIMS data, per its Commissioner.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "iTax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

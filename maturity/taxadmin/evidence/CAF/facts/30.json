@@ -1,0 +1,46 @@
+{
+ "slug": "2025-08-11-caf-fiscalite-bangui-menace-de-sanctionner-les-grandes-entreprises-qui-bou",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The finance minister's communiqué of 7 August 2025 says e-Tax, the tax e-filing and e-payment platform, was launched more than five months earlier, with all tax operations meant to be online since 22 March 2025.",
+   "as_of": "2025-08-07",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The communiqué requires late taxpayers to file July 2025 returns online and to pay the related taxes electronically through e-Tax by 15 August 2025.",
+   "as_of": "2025-08-07",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "uptake",
+   "value": "most",
+   "fact": "The minister requires online filing by large taxpayers under threat of sanctions after systematic audits from early September 2025, while saying more than half of those concerned still do not use e-Tax.",
+   "as_of": "2025-08-07",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "Central African Republic",
+   "class": "taxsystem",
+   "platform": "online filing and payment platform",
+   "owner": "Ministry of Finance and Budget",
+   "tiers": "large taxpayers"
+  }
+ ],
+ "note": ""
+}

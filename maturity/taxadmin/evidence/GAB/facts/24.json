@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-11-gab-e-tax-le-gabon-passe-au-paiement-mobile-des-impots",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The DGI's e-Tax service lets small taxpayers declare and pay by phone, in 2 or 3 minutes according to its deputy project director, launched 10 July 2025.",
+   "as_of": "2025-07-10",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "Moov Money customers can pay taxes in part or in full through e-Tax and retrieve the receipt on the tax site, per Moov Money's director general.",
+   "as_of": "2025-07-10",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

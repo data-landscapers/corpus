@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-01-lso-guide-on-e-payments",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "Revenue Services Lesotho says taxes can be paid online through its e-Payments platform by mobile money and bank channels, with payments reflected instantly in the RSL system.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "RSL e-Payments platform",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSL e-Payments platform",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "RSL website",
+   "owner": "Revenue Services Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

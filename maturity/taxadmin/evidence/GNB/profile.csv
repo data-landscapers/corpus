@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GNB,taxsystem,filing,coverage,inservice,2024-07-23,GNB-001;GNB-003,,
+GNB,taxsystem,payment,coverage,electronic,2024-07-23,GNB-002;GNB-004,,
+GNB,taxsystem,uptake,coverage,most,2022-03,GNB-005,,nothing dated since 2023-11-15

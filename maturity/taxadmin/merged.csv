@@ -1,7 +1,10 @@
 iso3,source_slug,read,merged_on
 AGO,2025-02-05-ago-oge-transformacao-digital-da-agt-vai-custar-23-mil-milhoes-kz-ao-estad,,2026-10-27
 AGO,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
+AGO,2026-07-07-ago-fim-do-papel-agt-exige-via-digital-para-pagamento-de-impostos-e-reclam,,2026-11-15
 AGO,2026-09-08-ago-modernisation-of-general-tax-administration-over-the-last-10-years-a-t,,2026-10-27
+AGO,2026-09-11-ago-gpeu-196-tecnicos-e-gestores-escolares-estao-sendo-capacitados-sobre-o,,2026-11-15
+BDI,2023-11-28-bdi-lancement-officiel-des-activites-de-celebration-de-la-8eme-edition-de,,2026-11-15
 BDI,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 BDI,2026-01-20-burundi-revenue-authority-e-kori-digital-tax-platform,,2026-10-19
 BDI,2026-08-01-bdi-budget-law-2026-2027-burundi-legal-alert,,2026-11-12
@@ -20,6 +23,7 @@ BFA,2026-11-04-bfa-communiqu-dgi-facturation-lectronique-certifi-e-obligatoire-p
 BFA,2026-11-05-bfa-burkina-economie-la-dgi-renforce-les-capacites-de-ses-agents-pour-accelerer-sa-d,,2026-11-06
 BWA,2020-03-17-bwa-dailynews-lekgetho-live-tax-system,,2026-10-19
 BWA,2020-08-20-bwa-dailynews-burs-tax-return-threshold-efiling,,2026-10-19
+BWA,2024-07-02-bwa-burs-encourages-online-filing-after-falling-short-of-tax-return-target,,2026-11-15
 BWA,2025-05-18-bwa-specialised-commercial-courts-in-offing,,2026-11-12
 BWA,2025-07-08-bwa-dailynews-tax-filing-season-commences,,2026-10-19
 BWA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
@@ -29,14 +33,17 @@ BWA,2026-05-13-bwa-paper-shortage-crisis-hits-courts,,2026-11-12
 CAF,2024-06-24-caf-mfb-discours-ministre-digitalisation-ecadastre,,2026-10-19
 CAF,2024-07-12-digitalisation-finances-publiques-rca-africa24,,2026-10-19
 CAF,2024-11-13-caf-france-2024-appui-budgetaire-reformes-mfb-simba-sydonia-etax,,2026-10-19
+CAF,2025-01-27-caf-rca-les-paiements-digitaux-des-taxes-et-impots-s-imposent,,2026-11-15
 CAF,2025-01-29-centrafrique-adopte-e-tax-wearetech,,2026-10-19
 CAF,2025-01-31-car-advances-tax-digitalisation-itweb,,2026-10-19
 CAF,2025-02-21-caf-developmentaid-pgnsp-numerisation-livre-foncier,,2026-10-19
 CAF,"2025-03-25 La Centrafrique lance officiellement e-Tax, sa plateforme de paiement d'impots en ligne",,2026-10-19
 CAF,2025-03-26-car-plan-e-finances-publiques-note-cadrage,,2026-10-19
+CAF,2025-03-27-caf-centrafrique-malgre-la-mauvaise-connectivite-du-pays-les-autorites-opt,,2026-11-15
 CAF,2025-05-21-imf-car-third-fourth-review-ecf,,2026-10-19
 CAF,2025-05-28-caf-oubangui-cnss-plateforme-teledeclaration,,2026-10-19
 CAF,2025-06-05-caf-le-fmi-annonce-un-nouveau-decaissement-de-33-4-milliards-fcfa-au-profi,,2026-10-27
+CAF,2025-08-11-caf-fiscalite-bangui-menace-de-sanctionner-les-grandes-entreprises-qui-bou,,2026-11-15
 CAF,2025-10-01-caf-dgb-declaration-risques-budgetaires-plf2026,,2026-10-19
 CAF,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 CIV,2018-03-19-civ-cgeci-portail-e-impots-formation,,2026-10-19
@@ -56,10 +63,12 @@ COD,2026-10-06-cod-electricite-presentation-d-une-plateforme-numerique-de-gestio
 COD,2026-10-14-cod-scooprdc-igf-hub-donnees-financieres,,2026-10-19
 COD,2026-10-23-cod-nbsinfos-sekimonyo-etat-numerise-tshisekedi,,2026-10-24
 COG,2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville,,2026-11-05
+COG,2024-11-20-cog-e-pay-for-e-tax-e-douane,,2026-11-15
 COG,2025-10-23 Congo relaunches NIU biometric unique-ID card production,,2026-10-19
 COG,2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu,,2026-11-04
 COG,2025-12-06-cog-brazzaville-lancement-officiel-de-la-plateforme-de-creation-d-entrepri,,2026-10-24
 COG,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
+COG,2026-06-25-cog-execution-du-budget-de-l-etat-les-deputes-s-impregnent-du-fonctionneme,,2026-11-15
 COG,2026-07-03-cog-switch-monetique-national-mfbpp,,2026-10-19
 COG,2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne,,2026-10-19
 COM,2023-12-07-com-afd-pagf-si-systeme-information,,2026-10-19
@@ -83,9 +92,13 @@ DZA,2024-09-22-dza-algerieaujourdhui-alces-168000-declarations,,2026-10-21
 DZA,2024-12-01-dza-sentinelle-sigb-premiere-phase-deploiement,,2026-10-19
 DZA,2025-05-25-dza-algerieeco-douanes-23402-operateurs-alces,,2026-10-27
 DZA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
+DZA,2026-01-01-dza-main-measures-of-the-2026-finance-law,,2026-11-15
+DZA,2026-04-05-dza-securite-sociale-la-cnas-lance-de-nouveaux-services-pour-les-employeur,,2026-11-15
 DZA,2026-06-15-algeriezoom-impots-jibayatic-generalisation,,2026-10-19
+DZA,2026-07-26-dza-direction-generale-des-impots-lancement-du-paiement-electronique-a-dis,,2026-11-15
 DZA,2026-07-26-dza-interlignes-dme-deploiement-69-wilayas,,2026-10-21
 DZA,2026-09-08-dza-elwatan-dme-deadline-15-november,,2026-10-21
+DZA,2026-10-01-dza-paiement-des-impots-en-ligne-en-algerie-ce-que-le-guide-jibayatic-de-l,,2026-11-15
 DZA,2026-10-17-dza-cnrc-portail-creation-entreprise-accueil,,2026-10-19
 DZA,2026-10-29-dza-numerisation-du-secteur-de-la-sante-plus-de-2-355-structures-raccordee,,2026-10-31
 EGY,2020-08-01-egy-enterprise-eta-e-filing-second-phase-1q2021,,2026-11-11
@@ -107,6 +120,7 @@ ETH,2025-10-12-eth-addisfortune-revenue-customs-eight-tech-systems,,2026-10-21
 ETH,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 ETH,2026-06-30-ethiopian-statistical-service-proclamation-approved,,2026-10-19
 ETH,2026-10-08-eth-getchereta-mor-itas-chief-architect-reoi,,2026-10-19
+GAB,2025-07-11-gab-e-tax-le-gabon-passe-au-paiement-mobile-des-impots,,2026-11-15
 GAB,2025-08-18-gabon-etax-dgi-portal-launch,,2026-10-19
 GAB,2025-11-10-gab-copil-sigfip-deuxieme-reunion-module-1,,2026-11-12
 GAB,2025-11-12-gab-gabon-la-mairie-de-libreville-se-prepare-pour-l-immatriculation-numeri,,2026-11-12
@@ -148,7 +162,11 @@ GMB,2026-01-28-gmb-thepoint-cj-legal-year-case-management,,2026-10-19
 GMB,2026-03-27-gmb-ungm-undp-integrated-dcms-rfp,,2026-10-31
 GMB,2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study,,2026-10-19
 GMB,2026-06-17-gra-itas-tax-administration,,2026-10-19
+GMB,2026-06-23-gmb-gra-hosts-workshop-on-itas,,2026-11-15
+GMB,2026-09-02-gmb-the-gambia-launches-education-data-center-to-publicly-share-education-data,,2026-11-15
 GNB,2021-10-25-gnb-dgci-instrucoes-declaracao-igv-kontaktu,,2026-10-19
+GNB,2024-05-01 Guinea-Bissau - Further Improvements in Tax Compliance (IMF technical assistance),,2026-11-15
+GNB,2024-07-23-gnb-tecnicos-da-dgci-e-contribuintes-debatem-a-introducao-de-impostos-na-p,,2026-11-15
 GNB,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 GNQ,2024-11-15-gnq-oficinainfo-consejo-hacienda-plan-choque-tributario,,2026-10-19
 GNQ,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
@@ -165,16 +183,19 @@ KEN,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 KEN,2026-01-01-itax,,2026-10-19
 KEN,2026-04-07-ken-kra-ksh-2-trillion-nine-months,,2026-10-19
 KEN,2026-04-23-icms-vat-return-integration,,2026-10-19
+KEN,2026-05-07-ken-kra-to-link-real-time-tax-systems-to-m-pesa-for-easier-compliance,,2026-11-15
 KEN,2026-09-01-thestar-monari-when-itax-fails-the-taxpayer-still-pays,,2026-10-19
 KEN,2026-10-07-iati-gb-gov-1-400199-411-cross-regulatory-digital-governance-south-africa,,2026-10-30
 KEN,2026-10-14-dci-rolls-out-biometric-clearance-to-diplomats,,2026-11-04
 KEN,2026-10-15-ken-standard-ebola-reporting-tool-adam-disabled,,2026-11-04
 KEN,2026-10-16-nation-muranga-county-sues-state-afyake-shutdown,,2026-10-19
 KEN,2026-10-29-iati-xm-dac-6-4-013531-01-0-agbledu-smart-agri-markets-digitally-enabled-agriculture-ghana,,2026-11-04
+KEN,2026-11-12-ken-ghost-students-puzzle-of-2-million-primary-school-learners-missing-fro,,2026-11-15
 LBR,2023-10-24-lbr-lastmile-ecbis-pilot,,2026-10-19
 LBR,2025-08-01-lbr-moh-achievements-2024-2025-his-dhis2,,2026-10-19
 LBR,2025-08-21-lbr-lra-trains-staff-on-new-digital-tax-payment-system,,2026-10-27
 LBR,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
+LBR,2026-04-15-lbr-lra-hosts-first-digital-symposium-to-showcase-technology-driving-tax-c,,2026-11-15
 LBR,2026-05-20-mfdp-lra-cbl-joint-press-conference-gac-revenue-collection-audit,,2026-10-19
 LBR,2026-07-19-informer-ngafuan-judiciary-strategic-plan-2026-2030-ecms-budget,,2026-10-19
 LBR,2026-08-14-lbr-liberia-business-registry-launches-digitalization-and-decentralization,,2026-10-24
@@ -194,12 +215,15 @@ LSO,2024-05-06-lso-newsday-rsl-implements-e-taxation,,2026-10-19
 LSO,2024-09-16-lso-newsday-rsl-automatic-compliance-project,,2026-10-19
 LSO,2025-02-06-lesotho-rsl-e-taxation-platform-guide,,2026-10-19
 LSO,2025-06-01-lso-rsl-guide-on-tax-registration,,2026-10-19
+LSO,2025-09-16-lso-implementation-progress-and-results-lesotho-tax-modernisation-project,,2026-11-15
 LSO,2025-10-07-lso-lesotho-cautioned-over-reliance-on-foreign-aid,,2026-10-21
 LSO,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 LSO,2026-04-20-lesotho-undp-lehokela-digital-policing-launch,,2026-10-19
 LSO,2026-05-11-lesotho-lemis-dhis2-education-data-system,,2026-10-19
 LSO,2026-05-18-lesotho-ip-offices-conference-digital-transformation,,2026-10-19
 LSO,2026-07-03-lso-lena-sakoane-judiciary-electronic-filing,,2026-10-19
+LSO,2026-09-01-lso-guide-on-e-payments,,2026-11-15
+LSO,2026-10-01-lso-from-data-entry-to-data-leadership-lessons-from-lesotho-s-dhis2-for-ed,,2026-11-15
 MAR,2016-06-09-mar-article19-teleprocedures-fiscales-obligatoires,,2026-10-19
 MAR,2024-07-15-mar-morocco-s-justice-ministry-to-integrate-artificial-intelligence-in-cou,,2026-11-12
 MAR,2024-09-03-mar-aujourdhui-dgi-simpl-e-services,,2026-10-19
@@ -211,6 +235,7 @@ MAR,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 MAR,2026-01-01-mar-dgi-impot-sur-les-societes-declaration-electronique,,2026-10-19
 MAR,2026-01-01-mar-mahakim-portail-suivi-dossiers,,2026-10-19
 MAR,2026-06-13-mar-interior-ministry-digital-local-tax-platforms-gir-ct,,2026-11-12
+MAR,2026-07-04-mar-impots-91-4-des-recettes-fiscales-encaissees-par-telepaiement-en-2025,,2026-11-15
 MAR,2026-09-25-hespress-publicite-meta-applique-tva-maroc-octobre,,2026-10-30
 MAR,2026-11-03-mar-justice-minister-parliament-judicial-reform-digitisation,,2026-11-06
 MAR,2026-11-04-mar-495109-ouahbi-8-millions-de-dossiers-judiciaires-repertories-en-trois,,2026-11-08
@@ -227,6 +252,7 @@ MDG,2026-05-12-nuis-national-student-id-rollout,,2026-10-19
 MDG,2026-06-08-wearetech-madagascar-digital-criminal-records-platform,,2026-10-19
 MDG,2026-06-16-mdg-2424-registre-central-beneficiaires-effectifs,,2026-10-24
 MDG,2026-10-26-mdg-wearetech-mpianatra-school-management-platform,,2026-10-27
+MDG,2026-11-14-mdg-2424-e-courrier-enseignement-superieur,,2026-11-15
 MLI,2024-09-30-mli-afdb-pasg-ami-digitalisation-dgi,,2026-10-19
 MLI,2025-03-19-mli-digitalisation-de-ladministration-deux-nouvelles-plateformes-de-modern,,2026-11-12
 MLI,2025-11-26-mali-dgi-recettes-electroniques,,2026-10-19
@@ -245,9 +271,12 @@ MRT,2026-09-16-dgi-mauritanie-teleservices,,2026-10-19
 MUS,2023-01-01-mus-mra-integrated-annual-report-2022-23,,2026-11-11
 MUS,2024-06-15-mus-judicial-system-stuck-in-slow-lane-modernization-efforts-fall-short,,2026-11-12
 MUS,2025-01-01-mra-individual-e-filing-season-2025,,2026-10-19
+MUS,2025-01-01-mus-individual-e-filing-guide-season-2025,,2026-11-15
+MUS,2025-04-01-mus-tax-basics-for-newly-incorporated-companies,,2026-11-15
 MUS,2025-10-22-mus-judiciary-e-judiciary-home-notices,,2026-10-19
 MUS,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 MUS,2026-01-01-mra-vat-digital-services-foreign-suppliers,,2026-10-19
+MUS,2026-08-28-mus-communique-individual-income-tax-returns-e-filing-season-2026,,2026-11-15
 MUS,2026-10-24-mus-dossiers-detruits-preuves-menacees-la-justice-face-a-ses-failles,,2026-11-12
 MWI,2025-01-09-mwi-mra-asycuda-world-4-4-upgrade,,2026-10-21
 MWI,2025-05-23-mwi-ict-projects-running-at-satcp,,2026-11-08
@@ -257,6 +286,7 @@ MWI,2026-01-08-mwi-digitising-hiv-testing-registers-to-support-national-scale-up
 MWI,2026-05-22-mwi-malawi-unveils-digital-spsis-to-transform-agricultural-trade,,2026-11-12
 MWI,2026-06-01-mwi-malawi-launches-upgraded-national-child-protection-system,,2026-11-12
 MWI,2026-07-22-mwi-nation-mra-digital-tax-stamps-ai,,2026-10-19
+MWI,2026-07-30-mwi-transforming-education-data-systems-in-malawi-udi-implements-a-dhis2-b,,2026-11-15
 MWI,2026-08-13-mwi-mra-hails-automation-of-cargo-clearance,,2026-11-08
 MWI,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements,,2026-10-19
 MWI,2026-10-29-mwi-how-can-education-systems-build-education-data-systems-that-enable-bet,,2026-11-08
@@ -270,6 +300,7 @@ NAM,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 NAM,2026-01-01-nam-manual-payroll-system-raises-cost-and-control-issues,,2026-10-27
 NAM,2026-04-01-nam-asycudaworld-upgrade-go-live-date-extension,,2026-10-27
 NAM,2026-04-14-nam-namibia-wallows-in-digital-sovereignty-illusion,,2026-11-08
+NAM,2026-04-23-nam-namra-registers-over-1-million-taxpayers,,2026-11-15
 NAM,2026-05-05-nam-newera-namra-asycudaworld-upgrade,,2026-10-19
 NAM,2026-05-19-nam-observer-namra-customs-11-versions-behind,,2026-10-19
 NAM,2026-06-18-nam-economist-itas-deadline-extended,,2026-10-19
@@ -294,6 +325,7 @@ RWA,2024-11-01-rwa-rra-tax-statistics-2023-24-7th-edition,,2026-11-11
 RWA,2025-01-01-rwa-enhancing-legal-practice-through-iecms-cja-staff-and-pro-bono-lawyers,,2026-11-12
 RWA,2025-01-01-rwa-rra-tax-handbook-2025,,2026-10-19
 RWA,2025-01-14-tcd-rwanda-leads-africa-s-digital-public-finance-transformation,,2026-10-27
+RWA,2025-06-26-rwa-newsletter-vol-3-released-technical-cooperation-project-digital-innova,,2026-11-15
 RWA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 RWA,2026-04-08-rwanda-ebuzima-emr-rollout-presentation-2026,,2026-10-24
 SDN,2025-01-01-sdn-uneca-support-tax-revenues-sudan,,2026-10-19
@@ -304,12 +336,15 @@ SEN,2024-07-24-sen-dgid-digital-vat-foreign-providers-from-1-july-2024,,2026-11-
 SEN,2025-01-31-sen-impact-dgid-datamining-ia-fiscale,,2026-10-19
 SEN,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 SEN,2026-01-01-sen-dgid-sentax-teledeclaration-immatriculation,,2026-10-19
+SEN,2026-06-09-sen-do-electronic-filing-and-payment-increase-tax-compliance-evidence-from,,2026-11-15
 SEN,2026-08-27-sen-dgid-communique-sentax,,2026-10-19
 SLE,2022-05-01-sle-fair-tax-monitor-study-sierra-leone,,2026-11-11
 SLE,2024-07-01-sle-undp-annual-report-justice-app,,2026-10-19
+SLE,2024-08-12-sle-digital-criminal-case-management-is-crucial-to-criminal-justice-reform,,2026-11-15
 SLE,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank),,2026-10-19
 SLE,2025-04-06-sle-sierraeye-chief-justice-kamanda-vision,,2026-10-19
 SLE,2025-04-24-sle-bo-district-council-launches-electronic-tax-payment,,2026-11-12
+SLE,2025-08-22-sle-nra-hits-100-digital-tax-filing-compliance-as-sierra-leone-s-revenue-r,,2026-11-15
 SLE,2025-10-31-sle-dfmst-and-stakeholders-conclude-two-day-validation-exercise-on-draft-i,,2026-10-29
 SLE,2025-12-01-nra-moves-to-digital-tax-and-mobile-payments-to-modernise-collection,,2026-10-19
 SLE,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
@@ -317,9 +352,12 @@ SLE,2026-11-09-sle-eu-wfp-school-feeding-data,,2026-11-11
 SOM,2024-06-01-somalia-medium-term-revenue-roadmap,,2026-10-19
 SOM,2025-11-26-somalia-serp-isr-taxpayer-registration,,2026-10-19
 SOM,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
+SOM,2026-02-06-som-somali-police-to-implement-integrated-system-for-enhanced-crime-coordi,,2026-11-15
 SOM,2026-04-01-fgs-annual-report-consolidated-financial-statements-2025-revenue-reforms,,2026-10-19
 SOM,2026-09-08-som-pfm-smart-signs-contract-with-the-federal-government-of-somalia-to-enh,,2026-10-27
+SOM,2026-11-13-som-feisal-mohamed-hashi-the-vision-behind-somalia-s-revenue-reforms,,2026-11-15
 SSD,2025-09-26-ssra-pushes-digital-reforms-transparency-efficiency,,2026-10-19
+SSD,2025-10-22-ssd-revenue-collection-hits-ssp-130-billion,,2026-11-15
 SSD,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 SSD,2026-03-10-ssra-digital-first-tax-strategy-onecitizendaily,,2026-10-19
 SSD,2026-03-13-manual-revenue-collection-banned-mandatory-etax,,2026-10-19
@@ -349,8 +387,10 @@ SYC,2026-08-31-syc-supplementary-budget-allocation-2026-companion,,2026-10-24
 SYC,2026-10-19-syc-seychelles-targets-2027-start-for-digital-system-to-modernise-public-service,,2026-10-21
 SYC,2026-11-03-syc-bill-no-20-companies-amendment-bill-2026,,2026-11-05
 SYC,2026-11-03-syc-bill-no-21-registration-of-business-names-amendment-bill-2026,,2026-11-05
+TCD,2023-11-30-tcd-economie-la-direction-generale-des-impots-appelle-les-contribuables-a,,2026-11-15
 TCD,2024-01-10-tcd-circulaire-portant-instructions-relatives-a-l-execution-du-budget-gene,,2026-10-27
 TCD,2024-03-20-tcd-tchadinfos-e-tax-experts-comptables,,2026-10-19
+TCD,2024-03-21-tcd-digitalisation-et-simplification-des-procedures,,2026-11-15
 TCD,2024-06-06-tcd-ndjampost-justice-online-complaints-platform,,2026-10-19
 TCD,2025-01-14-tcd-rwanda-leads-africa-s-digital-public-finance-transformation,,2026-10-27
 TCD,2025-02-11-dgi-tchad-portail-etax-immatriculation-declaration-paiement,,2026-10-19
@@ -359,6 +399,7 @@ TCD,2025-07-08-tcd-tchadinfos-telepaiement-obligatoire,,2026-10-19
 TCD,2025-08-29-tcd-tchadinfos-campagne-e-tax,,2026-10-19
 TCD,2025-09-01-tcd-e-paiement,,2026-10-27
 TCD,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
+TCD,2026-01-23-tcd-tchad-l-etat-opte-pour-une-gestion-publique-100-numerique-des-2026,,2026-11-15
 TCD,2026-02-01-chad-direct-and-indirect-tax-changes-in-finance-law-2026,,2026-10-19
 TCD,2026-05-05-mandoul-autorites-formees-au-sigfip-outils-numeriques-fiscaux,,2026-10-19
 TCD,2026-10-29-tcd-conseil-des-ministres-fonction-publique-justice-et-transports-au-menu,,2026-10-30
@@ -385,12 +426,14 @@ TUN,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 TUN,2026-10-17-tun-servicesgov-finances-services-fiscaux,,2026-10-19
 TUN,2026-10-27-tun-tunisie-la-digitalisation-fiscale-permet-deconomiser-6-000-journees-de,,2026-10-31
 TZA,2024-06-30-tza-ijpf-taxpayer-perception-e-filing-adoption,,2026-11-11
+TZA,2025-02-19-tza-tra-yatangaza-mfumo-mpya-wa-usajili-wa-magari-leseni-za-udereva,,2026-11-15
 TZA,2025-03-16-tza-dailynews-idras-driver-licence-digital,,2026-10-19
 TZA,2025-10-17-tza-gn-609-2025-electronic-filing-amendment-rules,,2026-11-12
 TZA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 TZA,2026-01-25-tza-dailynews-idras-compliance,,2026-10-19
 UGA,2023-09-01-uga-ura-newsletter-july-september-2023,,2026-11-11
 UGA,2024-08-01-uga-accountability-systems-and-compliance,,2026-10-27
+UGA,2024-10-19-uga-private-schools-on-the-spot-for-delayed-digital-registration,,2026-11-15
 UGA,2025-05-27-uga-taking-stock-of-the-impact-of-maps-in-africa-including-the-e-gp-system,,2026-10-24
 UGA,2025-07-01-uga-national-backbone-infrastructure-project-nbi-egi,,2026-11-12
 UGA,2025-07-17-nam-namibian-e-justice-supreme-court,,2026-10-19

@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 DZA,Jibayatic,Algeria,taxsystem,,Direction générale des impôts (DGI),"DGE, tax centres, proximity centres, inspections, recettes",2026-06-15-algeriezoom-impots-jibayatic-generalisation
 DZA,Jibayatic,Algeria,taxsystem,,DGI,,2025-12-18-worldbank-govtech-dataset-dec2025
+DZA,Jibayatic,Algeria,other,web portal,Direction generale des impots,,2026-07-26-dza-direction-generale-des-impots-lancement-du-paiement-electronique-a-dis
+DZA,DGI information system,Algeria,taxsystem,,General Directorate of Taxes,,2026-01-01-dza-main-measures-of-the-2026-finance-law

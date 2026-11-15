@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-02-bwa-burs-encourages-online-filing-after-falling-short-of-tax-return-target",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "BURS Commissioner General Janet Makgolo said individual tax returns are filed online, with 77% of 38,000 filings submitted online.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "BURS online filing",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "uptake",
+   "value": "most",
+   "fact": "BURS Commissioner General said 77% of the 38,000 individual returns filed in the past financial year were submitted online.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "BURS online filing",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BURS digital system",
+   "country_label": "BURS online filing",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Botswana Unified Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

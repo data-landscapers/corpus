@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxsystem",
-      "stage": "4",
+      "stage": "5",
       "filing": "inservice",
       "payment": "electronic",
-      "uptake": "",
+      "uptake": "most",
       "cap": "",
       "flags": "",
-      "stage_sources": "CAF-006;CAF-011",
-      "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns.",
-      "note": "Rebuild 2026-11-13: The DGID's e-Tax takes online filing and payment from 2025 (CAF-005, CAF-006, CAF-010, CAF-011); the April 2025 switch to general use does not say filing is mandatory, so 4 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "CAF-017;CAF-016;CAF-011",
+      "gaps": "No share of returns filed online is held; in August 2025 the minister said more than half of the large taxpayers concerned still did not use e-Tax.",
+      "note": "The finance minister's communiqué of 7 August 2025 requires large taxpayers to file and pay through e-Tax under threat of sanctions (CAF-017, CAF-016), so online filing is mandatory for some taxpayers, the top rung. Filing and payment on e-Tax since 2025 (CAF-010, CAF-011) meet the rungs below.",
+      "as_at": "2026-11-15"
     }
   ]
 }

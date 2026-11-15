@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-25-cog-execution-du-budget-de-l-etat-les-deputes-s-impregnent-du-fonctionneme",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "Congo's finance ministry demonstrated Fouta online tax and customs declaration and payment to deputies on 23 June 2026, without stating it is in service.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Fouta",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fouta",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "national payment switch / e-filing and e-payment application",
+   "owner": "Ministry of Finance, Budget and Public Portfolio",
+   "tiers": ""
+  },
+  {
+   "system": "Guichet unique du paiement (GUP)",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "single payment window",
+   "owner": "Banque postale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxsystem",
-      "stage": "2",
-      "filing": "underway",
-      "payment": "",
+      "stage": "4",
+      "filing": "inservice",
+      "payment": "electronic",
       "uptake": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BDI-001",
-      "gaps": "No source found since October 2023 says: can tax returns be filed online.",
-      "note": "Rebuild 2026-11-13: OBR launched the implementation phase of E-KORI in January 2026 (BDI-001); nothing says returns can yet be filed online, so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "BDI-002;BDI-003",
+      "gaps": "No source found since October 2023 says online filing is mandatory or used for half or more of returns. The Umutangakori facts come from an OBR source of November 2023; E-KORI, its successor, was still being implemented in January 2026.",
+      "note": "An OBR source of 28 November 2023 says large and medium taxpayers file returns and pay taxes online on the Umutangakori portal, in use since August 2023 (BDI-002, BDI-003). Nothing makes online filing mandatory or puts its share at half, so not 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

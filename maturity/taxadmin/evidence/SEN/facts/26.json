@@ -1,0 +1,46 @@
+{
+ "slug": "2026-06-09-sen-do-electronic-filing-and-payment-increase-tax-compliance-evidence-from",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The ICTD research brief says Etax allows taxpayers to file returns remotely, and it was made mandatory in July 2017 for Large Taxpayers Centre firms.",
+   "as_of": "2017-07",
+   "date_precision": "month",
+   "system": "Etax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The ICTD research brief says Etax allows taxpayers to pay taxes remotely, with e-payment mandatory for Large Taxpayers Centre firms from July 2017.",
+   "as_of": "2017-07",
+   "date_precision": "month",
+   "system": "Etax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "uptake",
+   "value": "most",
+   "fact": "The ICTD research brief says online filing and payment became mandatory for Large Taxpayers Centre firms in July 2017, with about 80 per cent of targeted taxpayers registered and using it by January 2018.",
+   "as_of": "2018-01",
+   "date_precision": "month",
+   "system": "Etax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Etax",
+   "country_label": "Etax",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "DGID Senegal",
+   "tiers": "Large Taxpayers Centre firms"
+  }
+ ],
+ "note": ""
+}

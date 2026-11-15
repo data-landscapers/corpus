@@ -6,13 +6,13 @@
       "stage": "3",
       "filing": "inservice",
       "payment": "",
-      "uptake": "",
+      "uptake": "most",
       "cap": "",
       "flags": "",
-      "stage_sources": "BWA-001",
-      "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system.",
-      "note": "Rebuild 2026-11-13: BURS takes 2025 individual returns through e-services and the Mtax app (BWA-001); no payment through BURS's system is shown in the window and the 2020 mandatory rule is older than three years, so 3 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "BWA-001;BWA-004",
+      "gaps": "No source found since October 2023 says taxes can be paid electronically through the tax authority's system; 77% of individual returns were filed online in 2023/24.",
+      "note": "BURS takes individual returns through e-services and Mtax (BWA-001, BWA-004), and 77% of 38,000 individual returns were filed online in the year to July 2024 (BWA-005). No payment through BURS's system is shown, and each rung must be met, so 3 holds.",
+      "as_at": "2026-11-15"
     }
   ]
 }

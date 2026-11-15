@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-23-gnb-tecnicos-da-dgci-e-contribuintes-debatem-a-introducao-de-impostos-na-p",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The DGCI's Kontaktu platform lets taxpayers declare their taxes online, per O Democrata GB.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "Kontaktu",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "Kontaktu lets taxpayers pay taxes by bank transfer, Orange Money and Mobile Money, per O Democrata GB.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "Kontaktu",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kontaktu",
+   "country_label": "Guinea-Bissau",
+   "class": "taxsystem",
+   "platform": "web",
+   "owner": "DGCI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

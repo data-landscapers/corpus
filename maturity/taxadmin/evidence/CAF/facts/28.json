@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-27-caf-centrafrique-malgre-la-mauvaise-connectivite-du-pays-les-autorites-opt",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "Ecomatin reports that from 22 March 2025 tax declaration is done online (telefiling) on the e-Tax platform, per the finance minister.",
+   "as_of": "2025-03-22",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "Ecomatin reports that from 22 March 2025 tax payment is meant to be made online (telepayment) through e-Tax.",
+   "as_of": "2025-03-22",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "Central African Republic",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Ministry of Finance and Budget",
+   "tiers": ""
+  }
+ ],
+ "note": "No share of returns filed online is given."
+}

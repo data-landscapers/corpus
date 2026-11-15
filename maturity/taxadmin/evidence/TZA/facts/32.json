@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-19-tza-tra-yatangaza-mfumo-mpya-wa-usajili-wa-magari-leseni-za-udereva",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "TRA says its new domestic tax administration system IDRAS has been operating since 10 February 2025, rolling out in phases with phase one covering only vehicle registration and driving licence modules, with self-service through the Taxpayer Portal.",
+   "as_of": "2025-02-10",
+   "date_precision": "day",
+   "system": "IDRAS",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IDRAS",
+   "country_label": "Tanzania",
+   "class": "taxsystem",
+   "platform": "Taxpayer Portal",
+   "owner": "Tanzania Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

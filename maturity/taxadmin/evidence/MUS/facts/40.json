@@ -1,0 +1,46 @@
+{
+ "slug": "2025-01-01-mus-individual-e-filing-guide-season-2025",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The Mauritius Revenue Authority guide describes individuals filing income tax returns online through its portal for the 2025 season, with pre-filled forms.",
+   "as_of": "2025-01-01",
+   "date_precision": "year",
+   "system": "Individual Income Tax e-Filing (MRA)",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The MRA says income tax due can be paid electronically, by direct debit or by credit card up to Rs 25,000.",
+   "as_of": "2025-01-01",
+   "date_precision": "year",
+   "system": "Individual Income Tax e-Filing (MRA)",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "uptake",
+   "value": "most",
+   "fact": "The MRA states it is now a legal obligation for individuals to submit income tax returns and pay electronically, due 15 October 2025.",
+   "as_of": "2025-01-01",
+   "date_precision": "year",
+   "system": "Individual Income Tax e-Filing (MRA)",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Individual Income Tax e-Filing (MRA)",
+   "country_label": "Mauritius",
+   "class": "taxsystem",
+   "platform": "MRA Taxpayer Portal",
+   "owner": "Mauritius Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

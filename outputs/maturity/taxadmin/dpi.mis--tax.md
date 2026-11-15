@@ -20,13 +20,13 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
-| 4 Operating | 19 |
+| 5 Leading | 9 |
+| 4 Operating | 18 |
 | 3 Established | 12 |
-| 2 Nascent | 9 |
+| 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 5 |
-| No evidence | 3 |
+| No evidence | 2 |
 
 ## Countries
 
@@ -35,6 +35,22 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 Online filing was mandatory or used by most taxpayers in 2026.
 
 - AlgerieZoom reports that electronic filing is mandatory for DGE taxpayers and, under instruction 31/2026, for real-profit regime and simplified non-commercial-profession taxpayers, though 2025 returns other than series G n°50 may still be filed on paper ([source, 2026-05-06](https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/)).
+
+### Central African Republic: 5 Leading
+
+Since 2025 large taxpayers must file and pay taxes online; the share of returns filed online is not known.
+
+- The minister requires online filing by large taxpayers under threat of sanctions after systematic audits from early September 2025, while saying more than half of those concerned still do not use e-Tax ([source, 2025-08-07](https://ecomatin.net/fiscalite-bangui-menace-de-sanctionner-les-grandes-entreprises-qui-boudent-la-plateforme-e-tax)).
+- The finance minister's communiqué of 7 August 2025 says e-Tax, the tax e-filing and e-payment platform, was launched more than five months earlier, with all tax operations meant to be online since 22 March 2025 ([source, 2025-08-07](https://ecomatin.net/fiscalite-bangui-menace-de-sanctionner-les-grandes-entreprises-qui-boudent-la-plateforme-e-tax)).
+- ITWeb Africa states the e-tax platform allows electronic tax payments, backed by the EU under a 24-month service contract ([source, 2025-01-31](https://itweb.africa/article/central-african-republic-advances-with-tax-digitalisation/rW1xL75n43RMRk6m)).
+
+### Guinea-Bissau: 5 Leading
+
+Large and medium taxpayers must file tax returns online, and taxes can be paid by mobile money; the share filed online is not known.
+
+- The IMF says electronic filing has been mandatory for all large and medium taxpayers since March 2022 ([source, 2022-03](https://www.imf.org/en/publications/high-level-summary-technical-assistance-reports/issues/2024/04/30/guinea-bissau-further-improvements-in-tax-compliance-548436)).
+- The DGCI's Kontaktu platform lets taxpayers declare their taxes online, per O Democrata GB ([source, 2024-07-23](https://www.odemocratagb.com/?p=49407)).
+- Kontaktu lets taxpayers pay taxes by bank transfer, Orange Money and Mobile Money, per O Democrata GB ([source, 2024-07-23](https://www.odemocratagb.com/?p=49407)).
 
 ### Mauritius: 5 Leading
 
@@ -63,6 +79,14 @@ Online filing was mandatory or used by most taxpayers in 2026.
 - The DGID says use of SENTAX is mandatory and paper returns are no longer accepted for Large Enterprise Directorate taxpayers from 1 September 2026, and for the Dakar medium-enterprise centres and regulated professions centre from 1 October 2026 ([source, 2026-09](https://www.dgid.sn/sentax)).
 - The DGID says use of SENTAX becomes mandatory for all declarations and payments of Large Enterprises Directorate taxpayers from 1 September 2026, and paper returns are no longer accepted by that directorate ([source, 2026-09-01](https://www.dgid.sn/storage/uploads/communique-sentax-1790185473.pdf)).
 
+### Sierra Leone: 5 Leading
+
+In 2025 all income tax and GST returns were filed online, and taxes could be paid electronically; no legal mandate is known.
+
+- The NRA Commissioner General says all income tax and GST filers file digitally and there is no more manual filing ([source, 2025-08-22](https://awokonewspapersl.com/nra-hits-100-digital-tax-filing-compliance-as-sierra-leones-revenue-reforms-accelerate/)).
+- The NRA Commissioner General says everyone who files income tax and GST does so digitally on ITAS, fully operational since 2021, with no manual filing ([source, 2025-08-22](https://awokonewspapersl.com/nra-hits-100-digital-tax-filing-compliance-as-sierra-leones-revenue-reforms-accelerate/)).
+- NRA Commissioner General Jeneba Bangura said that through ITAS taxpayers can pay electronically, and that wallet money and mobile money now allow payments to be made electronically ([source, 2025-12](https://sierraloaded.sl/news/nra-digital-tax-mobile-payments-modernise/)).
+
 ### Togo: 5 Leading
 
 Online filing was mandatory or used by most taxpayers in 2025.
@@ -82,19 +106,19 @@ Taxes could be filed online and paid electronically in 2026; no source found rep
 - leFaso.net says eSINTAX JAVA, the DGI's tax-procedures portal, lets taxpayers remotely make their tax declarations ([source, 2026-11-04](https://lefaso.net/spip.php?article150547)).
 - leFaso.net says eSINTAX JAVA, the DGI's tax-procedures portal, lets taxpayers remotely make their tax payments ([source, 2026-11-04](https://lefaso.net/spip.php?article150547)).
 
+### Burundi: 4 Operating
+
+Large and medium taxpayers could file and pay taxes online in 2023; whether filing online is mandatory or most used is not known.
+
+- OBR says taxpayers file returns online on the Umutangakori portal, in use since 1 August 2023 for large and medium taxpayers ([source, 2023-08](https://abpinfo.bi/2023/12/01/lancement-officiel-des-activites-de-celebration-de-la-8eme-edition-de-la-journee-dediee-aux-contribuables/)).
+- OBR says taxes are paid online through the Umutangakori portal, with receipts issued by the same channel ([source, 2023-08](https://abpinfo.bi/2023/12/01/lancement-officiel-des-activites-de-celebration-de-la-8eme-edition-de-la-journee-dediee-aux-contribuables/)).
+
 ### Cameroon: 4 Operating
 
 Taxes could be filed and paid online through the tax directorate's platforms in 2026; how many returns are filed online is not known.
 
 - LeFisk reports that registration duties for 3 public-procurement acts are assessed and paid online through the tax directorate DGI platform registrations.dgi.cm, by mobile money or DGI OTP ([source, 2026-08-15](https://lefisk.cm/blog/enregistrement-actes-en-ligne-dgi-cameroun-registrations-guide)).
 - LeFisk describes ATOM as the tax directorate's online filing (tele-declaration) system already in use for declarations, before the new registrations platform; no date is given, so the article's published date is used ([source, 2026-08-15](https://lefisk.cm/blog/enregistrement-actes-en-ligne-dgi-cameroun-registrations-guide)).
-
-### Central African Republic: 4 Operating
-
-Taxes could be filed online and paid electronically in 2025; no source found reports mandatory or majority online filing.
-
-- Agence Ecofin reports the DGID launched the e-Tax platform on 24 March 2025 for online payment of taxes ([source, 2025-03-24](https://www.agenceecofin.com/actualites-numerique/2503-126985-la-centrafrique-lance-officiellement-e-tax-sa-plateforme-de-paiement-d-impots-en-ligne)).
-- ITWeb Africa states the e-tax platform allows electronic tax payments, backed by the EU under a 24-month service contract ([source, 2025-01-31](https://itweb.africa/article/central-african-republic-advances-with-tax-digitalisation/rW1xL75n43RMRk6m)).
 
 ### Chad: 4 Operating
 
@@ -190,17 +214,12 @@ Taxes could be filed online and paid electronically in 2025; no source found rep
 
 - FIRS directed that all tax payments must originate from assessments on TaxPro Max, which the article says handles payment processing ([source, 2025-04-30](https://theeconomictimes.com.ng/2025/04/30/firs-orders-banks-to-shut-down-unauthorised-tax-collection-accounts-mandates-use-of-taxpro-max/)).
 
-### Sierra Leone: 4 Operating
-
-Taxes could be filed online and paid electronically in 2025; no source found reports mandatory or majority online filing.
-
-- NRA Commissioner General Jeneba Bangura said that through ITAS taxpayers can pay electronically, and that wallet money and mobile money now allow payments to be made electronically ([source, 2025-12](https://sierraloaded.sl/news/nra-digital-tax-mobile-payments-modernise/)).
-
 ### Botswana: 3 Established
 
-Tax returns could be filed online in 2025; no source found reports electronic payment.
+Most individual tax returns were filed online in 2024; no source found reports electronic payment through the tax authority.
 
 - BURS board chairperson Lesedi Senatla encouraged taxpayers to file 2025 individual returns through BURS' e-services portal and Mtax mobile app, with the filing season running 1 July to 30 September 2025 ([source, 2025-07-08](https://dailynews.gov.bw/news-detail/87418)).
+- BURS Commissioner General Janet Makgolo said individual tax returns are filed online, with 77% of 38,000 filings submitted online ([source, 2024-07-02](https://www.gabzfm.com/post/burs-encourages-online-filing-after-falling-short-of-tax-return-target)).
 
 ### Cape Verde: 3 Established
 
@@ -275,16 +294,10 @@ Tax returns could be filed online in 2025; no source found reports electronic pa
 
 ### Angola: 2 Nascent
 
-An electronic tax system was being built in 2025 and 2026; no source found says whether returns can be filed online.
+Since 2026 taxes are paid electronically through the tax portal; no source found says returns can be filed online.
 
 - The 2025 state budget allots Kz 23 billion to the tax authority AGT for the SIGT/SIIAT digital transformation project, per the outlet reading the budget ([source, 2025-02-05](https://pti.ao/oge-transformacao-digital-da-agt-vai-custar-23-mil-milhoes-kz-ao-estado/)).
 - CIAT authors say the SIGT system aims to dematerialise tax procedures, including the submission of returns and the payment of taxes, and list a Taxpayer Portal among AGT's tools ([source, 2026-09-08](https://www.ciat.org/modernisation-of-general-tax-administration-over-the-last-10-years-a-tax-and-customs-analysis/?lang=en)).
-
-### Burundi: 2 Nascent
-
-An electronic tax system was under way in 2026; online filing is not on record.
-
-- Burundi Times reports that the OBR launched the implementation phase of E-KORI, a new integrated digital platform for online declaration and payment of taxes and duties, with World Bank technical and financial support, and that the Finance Ministry says taxpayers will declare and pay remotely once it is fully operational ([source, 2026-01-19](https://www.burunditimes.com/burundi-revenue-authority-rolls-out-e-kori-digital-tax-platform/)).
 
 ### Comoros: 2 Nascent
 
@@ -363,12 +376,6 @@ Nothing found since 2023 names online tax filing and payment, so no stage is set
 Not established: Nothing found since October 2023 says whether tax returns can be filed online.
 
 ### Equatorial Guinea: No evidence
-
-Nothing found names online tax filing and payment or says there is none, so no stage is set.
-
-Not established: Nothing found says how taxes are filed and paid.
-
-### Guinea-Bissau: No evidence
 
 Nothing found names online tax filing and payment or says there is none, so no stage is set.
 

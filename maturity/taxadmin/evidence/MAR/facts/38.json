@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-04-mar-impots-91-4-des-recettes-fiscales-encaissees-par-telepaiement-en-2025",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The DGI says SIMPL lets taxpayers file returns online, with 5,031,004 e-filed returns in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SIMPL",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The DGI says SIMPL lets taxpayers pay taxes electronically, with 91.4% of tax revenue tele-paid in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SIMPL",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIMPL",
+   "country_label": "Morocco",
+   "class": "taxsystem",
+   "platform": "web",
+   "owner": "DGI",
+   "tiers": ""
+  }
+ ],
+ "note": "Mandatory filing or share of returns filed online not stated."
+}

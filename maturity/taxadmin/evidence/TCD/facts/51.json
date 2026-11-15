@@ -1,0 +1,36 @@
+{
+ "slug": "2023-11-30-tcd-economie-la-direction-generale-des-impots-appelle-les-contribuables-a",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The director general of taxes says E-Tax, in place since 2022 and officially launched on 12 September 2023, lets all taxpayers file returns and pay taxes online.",
+   "as_of": "2023-11-30",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The tax directorate and UBA Tchad say taxes can be paid through E-Tax by mobile banking, internet banking or bank card, with an electronic receipt.",
+   "as_of": "2023-11-30",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Tax",
+   "country_label": "Chad",
+   "class": "taxsystem",
+   "platform": "https://sigi.finances.gouv.td/portail",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

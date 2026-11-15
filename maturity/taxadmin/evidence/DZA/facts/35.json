@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-26-dza-direction-generale-des-impots-lancement-du-paiement-electronique-a-dis",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The DGI says Jibayatic users get online tax declaration (teledeclaration) and teleparment services.",
+   "as_of": "2026-07-25",
+   "date_precision": "day",
+   "system": "Jibayatic",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The DGI says taxes can be paid remotely via Jibayatic by CIB, Edahabia or bank transfer.",
+   "as_of": "2026-07-25",
+   "date_precision": "day",
+   "system": "Jibayatic",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jibayatic",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

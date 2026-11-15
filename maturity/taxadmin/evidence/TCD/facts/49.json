@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-23-tcd-tchad-l-etat-opte-pour-une-gestion-publique-100-numerique-des-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "e-Tax",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "e-Tax named as a revenue channel; online filing not stated."
+}

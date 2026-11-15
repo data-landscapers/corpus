@@ -1,0 +1,37 @@
+{
+ "slug": "2025-04-01-mus-tax-basics-for-newly-incorporated-companies",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The Mauritius Revenue Authority says companies file returns (corporate tax, VAT, PAYE, APS, TDS) electronically.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "MRA e-filing",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The MRA says companies pay tax electronically with their returns and may use direct debit.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "MRA e-filing",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "uptake",
+   "value": "most",
+   "fact": "The MRA says every company is required to file its return of income and pay tax electronically.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "MRA e-filing",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

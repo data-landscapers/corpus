@@ -1,0 +1,46 @@
+{
+ "slug": "2024-05-01 Guinea-Bissau - Further Improvements in Tax Compliance (IMF technical assistance)",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The IMF says the Kontaktu electronic filing and payment platform launched in 2021 and since March 2022 all large and medium taxpayers are required to file electronically.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "Kontaktu",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The IMF says electronic tax payment options in Guinea-Bissau increased from zero to six since March 2022, with banks and telecoms offering them.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Kontaktu",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "uptake",
+   "value": "most",
+   "fact": "The IMF says electronic filing has been mandatory for all large and medium taxpayers since March 2022.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "Kontaktu",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kontaktu",
+   "country_label": "Guinea-Bissau",
+   "class": "taxsystem",
+   "platform": "electronic filing and payment platform",
+   "owner": "DGCI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

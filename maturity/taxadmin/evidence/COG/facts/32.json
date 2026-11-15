@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-20-cog-e-pay-for-e-tax-e-douane",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "MTN Congo's page says taxpayers create an account on impots.gouv.cg and fill in their tax declaration online.",
+   "as_of": "2024-11-20",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "MTN Congo's page says the e-tax declaration is paid through the payment-method step by choosing MTN Mobile Money, free of charge, from 1 to 750,000 FCFA.",
+   "as_of": "2024-11-20",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Tax (impots.gouv.cg)",
+   "country_label": "COG",
+   "class": "taxsystem",
+   "platform": "impots.gouv.cg",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

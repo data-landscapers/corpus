@@ -1,0 +1,46 @@
+{
+ "slug": "2025-08-22-sle-nra-hits-100-digital-tax-filing-compliance-as-sierra-leone-s-revenue-r",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The NRA Commissioner General says everyone who files income tax and GST does so digitally on ITAS, fully operational since 2021, with no manual filing.",
+   "as_of": "2025-08-22",
+   "date_precision": "day",
+   "system": "ITAS",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The NRA says 100% of excise taxpayers file and pay taxes electronically.",
+   "as_of": "2025-08-22",
+   "date_precision": "day",
+   "system": "ITAS",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "uptake",
+   "value": "most",
+   "fact": "The NRA Commissioner General says all income tax and GST filers file digitally and there is no more manual filing.",
+   "as_of": "2025-08-22",
+   "date_precision": "day",
+   "system": "ITAS",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ITAS",
+   "country_label": "Sierra Leone",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "National Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

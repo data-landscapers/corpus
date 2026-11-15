@@ -5,14 +5,14 @@
       "sub_indicator": "taxsystem",
       "stage": "2",
       "filing": "underway",
-      "payment": "",
+      "payment": "electronic",
       "uptake": "",
       "cap": "",
       "flags": "",
       "stage_sources": "AGO-001;AGO-002",
-      "gaps": "No source found since October 2023 says taxpayers can file returns online or pay through the tax authority's system.",
-      "note": "The 2025 budget funds AGT's SIGT/SIIAT digital transformation project and CIAT describes SIGT as meant to dematerialise filing and payment. Neither says returns can be filed online, so stage 3 is not met.",
-      "as_at": "2026-10-27"
+      "gaps": "No source found since October 2023 says taxpayers can file returns online; AGT's July 2026 rule makes payment electronic through the Portal do Contribuinte.",
+      "note": "AGT ruled in July 2026 that taxes are paid electronically through the Portal do Contribuinte (AGO-004), but no source says returns can be filed online, and each rung must be met, so 2 holds on the SIGT/SIIAT project (AGO-001, AGO-002).",
+      "as_at": "2026-11-15"
     }
   ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxsystem",
-      "stage": "no evidence",
-      "filing": "",
-      "payment": "",
-      "uptake": "",
+      "stage": "5",
+      "filing": "inservice",
+      "payment": "electronic",
+      "uptake": "most",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says how taxes are filed and paid.",
-      "note": "Rebuild 2026-11-13: No evidence row on the sub-indicator, so no evidence holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "GNB-005;GNB-001;GNB-002",
+      "gaps": "No share of returns filed online is held; the mandate is dated March 2022 and is held from an IMF report published in April 2024.",
+      "note": "An IMF report of April 2024 says electronic filing on Kontaktu has been mandatory for all large and medium taxpayers since March 2022 (GNB-005), a source inside three years stating the mandate in force. O Democrata GB says in July 2024 that Kontaktu takes returns and payment by bank transfer and mobile money (GNB-001, GNB-002).",
+      "as_at": "2026-11-15"
     }
   ]
 }

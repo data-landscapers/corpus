@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-27-caf-rca-les-paiements-digitaux-des-taxes-et-impots-s-imposent",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "From 27 January 2025 the finance ministry ran an information and training campaign for tax and customs agents and taxpayers on the e-Tax tool, with EU-funded support.",
+   "as_of": "2025-01-27",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "Central African Republic",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Ministry of Finance and Budget",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

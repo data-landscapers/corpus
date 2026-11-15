@@ -6,7 +6,7 @@
 
 **Electronic payment.** [The MRA's 2022/23 annual report says it collected 98% of tax receipts through e-payment](<https://www.mra.mu/download/AnnualReport22-23.pdf>). [In 2026 it said foreign digital-service suppliers must remit VAT to it electronically, in several approved foreign currencies](<https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers>).
 
-**Mostly online.** [In 2026 the MRA said all VAT returns from foreign digital-service suppliers must be submitted electronically through its systems](<https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers>). [Its 2022/23 annual report says tax returns were e-filed in almost all cases](<https://www.mra.mu/download/AnnualReport22-23.pdf>).
+**Mostly online.** [In 2026 the MRA said all VAT returns from foreign digital-service suppliers must be submitted electronically through its systems](<https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers>). [Its 2025 filing guide says individuals are legally required to submit income tax returns and pay electronically](<https://www.mra.mu/download/IndividualeFilingGuide.pdf>). [Every company must file its return of income and pay tax electronically](<https://www.mra.mu/download/TaxBasicsForNewlyIncorporatedCompanies.pdf>). [Its 2022/23 annual report says tax returns were e-filed in almost all cases](<https://www.mra.mu/download/AnnualReport22-23.pdf>).
 
 ***Also on file***. [e-Filing Service Centre](<https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers>).
 
