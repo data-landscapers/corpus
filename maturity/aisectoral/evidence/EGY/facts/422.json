@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-14-egy-public-prosecution-ai-data-centre-smart-justice-protocol",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The protocol signed with the Public Prosecution provides an AI digital assistant for guardianship-of-funds family prosecution services (Arqam News).",
+   "as_of": "2026-11-14",
+   "date_precision": "day",
+   "system": "AI digital assistant for guardians",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

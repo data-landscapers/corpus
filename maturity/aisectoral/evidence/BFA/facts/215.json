@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-02-bfa-actualites-kix-seeds-burkina-faso",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "KIX-SEEDS says its KIX-ALERTE machine-learning module for early prediction of school dropout and a KIX-CHATBOT IA for querying education data are tools of its pilot in the communes of Manga and Bingo, with generalisation of the alert system to all communes still to come.",
+   "as_of": "2026-05-02",
+   "date_precision": "day",
+   "system": "KIX-ALERTE",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KIX-ALERTE",
+   "country_label": "Burkina Faso",
+   "class": "sectorai",
+   "platform": "seeds.bf",
+   "owner": "ISSP / Universite Joseph KI-ZERBO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

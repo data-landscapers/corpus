@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-07-ken-kra-to-link-real-time-tax-systems-to-m-pesa-for-easier-compliance",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "KRA says it is deploying AI-driven analytics and risk profiling engines to detect non-compliance, as stated by its Commissioner for Micro and Small Taxpayers.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "KRA risk profiling and AI analytics",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
