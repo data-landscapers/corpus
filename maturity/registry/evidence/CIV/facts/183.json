@@ -1,0 +1,31 @@
+{
+ "slug": "2026-10-24-civ-modernisation-et-digitalisation-de-l-etat-civil",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CityWeb",
+   "country_label": "Cote d'Ivoire",
+   "class": "civil",
+   "platform": "software",
+   "owner": "ONECI",
+   "tiers": "civil status centres"
+  },
+  {
+   "system": "register digitisation",
+   "country_label": "Cote d'Ivoire",
+   "class": "archive",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  },
+  {
+   "system": "new digital platform for issuing civil status acts",
+   "country_label": "Cote d'Ivoire",
+   "class": "certificate",
+   "platform": "online platform",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": "CityWeb rollout and register digitisation are announced chantiers; no pilot, live offices or share stated."
+}

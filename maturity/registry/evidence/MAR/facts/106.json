@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-21-mar-vaste-projet-de-numerisation-des-registres-de-letat-civil",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Interior Ministry, through the DGCT, runs the national project to digitise civil-status registers and set up a unified information system for 1,821 offices.",
+   "as_of": "2025-04-21",
+   "date_precision": "day",
+   "system": "Projet de numérisation des registres de l'état civil",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "finance:domestic",
+   "fact": "A budget of over 194 million dirhams was allocated to the project, in five geographic lots, according to Al Ahdath Al Maghribia as relayed by le360.",
+   "as_of": "2025-04-21",
+   "date_precision": "day",
+   "system": "Projet de numérisation des registres de l'état civil",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projet de numérisation des registres de l'état civil",
+   "country_label": "Maroc",
+   "class": "civil",
+   "platform": "central database and information system linking all civil-status offices",
+   "owner": "Ministry of Interior (DGCT)",
+   "tiers": "1,821 offices"
+  }
+ ],
+ "note": ""
+}

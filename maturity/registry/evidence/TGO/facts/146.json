@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-05-tgo-togo-e-vital-un-projet-pour-moderniser-lenregistrement-des-naissances",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "pilot",
+   "fact": "The e-Vital Togo pilot covers four communes (Golfe 3, Agoe-Nyive 1, Kozah 1, Bassar 1), where facilities send births and deaths electronically to civil-status offices that verify, print and sign the act.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "e-Vital Togo",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "Togoscoop reports the one-year e-Vital Togo project is financed by Vital Strategies under project GGP 166.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "e-Vital Togo",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Vital Togo",
+   "country_label": "Togo",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Health, funded by Vital Strategies",
+   "tiers": "health facilities; municipal civil-status services"
+  }
+ ],
+ "note": ""
+}

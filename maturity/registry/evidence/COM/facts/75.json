@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-03-com-le-comite-de-pilotage-du-projet-amecc-ii",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "The AMECC II steering committee of 2 December 2025 discussed mobilising resources to finance the 2024-2028 strategic plan for civil registration modernisation, with the ANEC statutes decree finalised.",
+   "as_of": "2025-12-02",
+   "date_precision": "day",
+   "system": "AMECC II",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AMECC II",
+   "country_label": "AMECC II",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Interior, with UNICEF and France",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

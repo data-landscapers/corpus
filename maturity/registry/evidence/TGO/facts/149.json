@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-21-tgo-togo-tests-integrated-approach-to-child-nutrition-and-early-developmen",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Naissance Keva",
+   "country_label": "Togo",
+   "class": "notification",
+   "platform": "app",
+   "owner": "Maritime Region Directorate of Health",
+   "tiers": "Vo prefecture, four municipalities, since 2026-02"
+  }
+ ],
+ "note": "The app links maternity wards to civil registry services after the facility head validates data; it does not say the registry office makes the digital record, so it is notification."
+}

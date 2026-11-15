@@ -1,0 +1,15 @@
+{
+ "slug": "2023-12-15-nam-92-000-birth-certificates-issued-for-2023",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-birth and e-death notification system",
+   "country_label": "Namibia",
+   "class": "notification",
+   "platform": "",
+   "owner": "Ministry of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "Facilities notify births and deaths (notification) and historic records are back-captured (archive); neither is assessed."
+}

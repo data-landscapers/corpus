@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-12-eth-ethiopia-moves-toward-full-digitalization-of-civil-and-family-registra",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Immigration and Citizenship Service, the registrar agency, is developing the digital civil and family registration software with the Artificial Intelligence Institute, per its Director General.",
+   "as_of": "2025-10-12",
+   "date_precision": "day",
+   "system": "Digital civil and family registration software",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital civil and family registration software",
+   "country_label": "Ethiopia civil and family registration software",
+   "class": "civil",
+   "platform": "",
+   "owner": "Immigration and Citizenship Service with the Artificial Intelligence Institute",
+   "tiers": "federal to kebele"
+  }
+ ],
+ "note": ""
+}

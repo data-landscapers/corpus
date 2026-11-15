@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-25-gmb-over-one-million-gambians-registered-with-digital-birth-certificates-n",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "Ministry of Health's Deputy Director of Civil Registration said on 24 June 2024 that births are registered and digital birth certificates issued by public health officers in all public health facilities; deaths are not mentioned.",
+   "as_of": "2024-06-24",
+   "date_precision": "day",
+   "system": "Civil Registration and Vital Statistics system",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil Registration and Vital Statistics",
+   "country_label": "Civil Registration and Vital Statistics system",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "public health facilities"
+  }
+ ],
+ "note": ""
+}

@@ -8,13 +8,13 @@
       "events": "B",
       "made": "paper",
       "last12": "advancing",
-      "offices": "count:16",
+      "offices": "pilot",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "TGO-008;TGO-009;TGO-010",
-      "gaps": "No admitted fact says how the record is made on the digital birth registration platform or on Kadodo: the only `made` row, TGO-015, is 2018 data and speaks of paper exchange between offices, not of the entry. The 16 Savanes communes (TGO-010) are centres digitised and trained to use the platform, not said to register on it, and no total is given beside them (TGO-001 mentions 117 communes). Events disagree: the 2024 platform names births only (TGO-008), Kadodo in Lacs 1 named births and deaths in 2021 (TGO-012). The owner is now held from the July 2026 tender (TGO-016), which names the digital ministry as employer of a sixteen-commune pilot financed by a German development bank; the 2024 roadmap (TGO-006) gives no period.",
-      "note": "The platform is in its pilot phase at one town hall, Golfe 3 (TGO-008, TGO-009), and the Savanes centres are equipped and trained, not shown registering. Stage 3 needs births past the pilot and live in some local offices with the record made digitally, and no fact says either.",
-      "as_at": "2026-10-10"
+      "stage_sources": "TGO-008;TGO-009;TGO-010;TGO-017",
+      "gaps": "No admitted fact says how the record is made at the office on the digital birth registration platform, on Kadodo or on e-Vital: the only `made` row, TGO-015, is 2018 data and speaks of paper exchange between offices, not of the entry. The newest offices fact (TGO-017, 5 November 2026) is a one-year pilot, e-Vital Togo, in four communes (Golfe 3, Agoe-Nyive 1, Kozah 1, Bassar 1), in which health facilities send births and deaths electronically to the civil-status offices that verify, print and sign the act; it is financed by Vital Strategies (TGO-018). The 16 Savanes communes (TGO-010, 2024) are centres digitised and trained to use the platform, not said to register on it, and no total is given beside them (TGO-001 mentions 117 communes). Events disagree: the 2024 platform names births only (TGO-008), Kadodo in Lacs 1 named births and deaths in 2021 (TGO-012). The owner is held from the July 2026 tender (TGO-016), which names the digital ministry as employer of a sixteen-commune pilot financed by a German development bank; the 2024 roadmap (TGO-006) gives no period.",
+      "note": "Every digital system on record is a pilot: the platform at one town hall, Golfe 3, in 2024 (TGO-008, TGO-009), and e-Vital in four communes in November 2026 (TGO-017); the Savanes centres are equipped and trained, not shown registering. Stage 3 needs births past the pilot and live in some local offices with the record made digitally, and no fact says either.",
+      "as_at": "2026-11-15"
     }
   ]
 }

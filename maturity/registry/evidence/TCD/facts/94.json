@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-08-tcd-renforcement-de-l-etat-civil-l-anats-installe-des-antennes-dans-le-tch",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "pilot",
+   "fact": "A Tasdjil civil-registration kiosk, equipped with a solar kit, computer and photocopier, was handed over at the Moundou Adventist hospital on 8 April 2025 as the first of nine planned in health facilities.",
+   "as_of": "2025-04-08",
+   "date_precision": "day",
+   "system": "Tasdjil",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The Tasdjil kiosks are financed by the EU-funded Programme d'Appui à la Gouvernance 2, in partnership with ANATS, per the hospital manager.",
+   "as_of": "2025-04-08",
+   "date_precision": "day",
+   "system": "Tasdjil",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tasdjil",
+   "country_label": "Tchad",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": "hospital kiosks"
+  }
+ ],
+ "note": ""
+}

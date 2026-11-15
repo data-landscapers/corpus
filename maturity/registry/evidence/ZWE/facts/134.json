@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-11-zwe-taking-civil-registration-services-to-remote-communities-mobile-regist",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "equipped:100%",
+   "fact": "The Herald says all provincial offices, 63 district offices and 206 sub-offices of the Civil Registry Department are fully computerised.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Civil Registry Department computerised offices",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The Herald says more than 20 remote sub-offices were computerised in 2025 with Swiss Agency for Development and Cooperation support, including Hauna with UNICEF support.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Civil Registry Department computerisation programme",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

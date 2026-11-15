@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-01-gin-constitution-du-registre-national-de-letat-civil-rnec-presentation-des",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "PN-RAVEC presented the first-phase functions of the electronic national civil register platform to Conakry's 13 communes' civil-status officers in a 8-10 October 2025 workshop.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "RNEC",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

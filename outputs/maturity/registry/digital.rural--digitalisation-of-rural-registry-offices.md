@@ -296,14 +296,15 @@ By law births are recorded centrally at citizen reception centres, 153 of 168 eq
 
 ### Mauritius: 3 Established
 
-Births and deaths are registered online at computerised civil status offices, 35 listed in 2019; no source found reports the share of all offices.
+Births and deaths were registered in the Civil Status Division's computer system in 2023/2024; how many of its 36 offices enter records is not known.
 
 *Identity integrated; Backlog capture.*
 
+- The Civil Status Division announced on 2 September 2025 that its CSD System was being revamped, with a transition period in which delays or slowness might be met and civil status offices opened exceptionally on the weekend of 6 and 7 September 2025 ([source, 2025-09-06](https://csd.govmu.org/Documents/Communique/Communique%20-%20Revamping%20of%20CSD%20System%20New%20.pdf)).
 - In the context of the revamping of the CSD System, the Civil Status Division says its offices would open on 6 and 7 September 2025 for the registration of births and deaths, the publication of civil marriages and applications for civil status extracts ([source, 2025-09-06](https://csd.govmu.org/Documents/Communique/Communique%20-%20Revamping%20of%20CSD%20System%20New%20.pdf)).
+- The Civil Status Division says the exceptional opening for the CSD System revamp covers all civil status offices in Mauritius except Petite Riviere, Baie du Cap and Grand Bois, and Rodrigues; it gives no count of offices and does not say why the three are excluded ([source, 2025-09-06](https://csd.govmu.org/Documents/Communique/Communique%20-%20Revamping%20of%20CSD%20System%20New%20.pdf)).
 - The Civil Status Division's report for financial year 2023/2024 states that its computerised CSD System, operational since November 2001, provides for the registration of births, deaths and marriages and stores all life-event data of Mauritian citizens in the CSD database ([source, 2024](https://csd.govmu.org/DocumentsList/FINALISED%20ANNUAL%20REPORT%20CSD.pdf)).
-- The Registrar states that civil events are registered online since November 2001 at computerised civil status offices in the district of the event or residence, a national identity number being computer generated on each birth registered and the data shared through the Central Population Database ([source, 2019-06](https://www.id4africa.com/2019_event/presentations/InF5/3-William-Ayelou-Mauritius.pdf)).
-- The Registrar lists 35 Civil Status Offices around the island by district, including two in Rodrigues (the cover slide says 33), describes them as computerised civil status offices and says all civil events are registered online; the deck does not say in terms that every office enters records ([source, 2019-06](https://www.id4africa.com/2019_event/presentations/InF5/3-William-Ayelou-Mauritius.pdf)).
+- The Division states that the CSD System registers births and deaths and generates each citizen's unique identification number at the time of registration of birth, the record being stored in the Division's single Civil Status Database; it does not describe the entry office by office ([source, 2024](https://csd.govmu.org/DocumentsList/FINALISED%20ANNUAL%20REPORT%20CSD.pdf)).
 
 ### Morocco: 3 Established
 
@@ -621,10 +622,11 @@ A digital civil registration system was announced in July 2026 and no birth is r
 
 ### Togo: 2 Nascent
 
-A digital birth registration platform was piloted at one town hall in 2024; no source found says whether other offices register on it.
+Digital birth registration runs only in pilots: one town hall in 2024, four communes in 2026; no source shows an office past a pilot.
 
 *Advancing.*
 
 - UNDP Togo's annual report for 2024 states that the digital birth registration platform it supported, in its pilot phase at the Golfe 3 town hall, simplified the registration of births and of other civil status acts, which it does not name ([source, 2024](https://www.undp.org/sites/g/files/zskgke326/files/2025-07/rapport_annuel_2024_pnud_togo_soft_02.pdf)).
 - UNDP Togo states that the digital birth registration platform was implemented in its pilot phase at the Golfe 3 town hall in 2024, one commune; no total of communes or offices is given ([source, 2024](https://www.undp.org/sites/g/files/zskgke326/files/2025-07/rapport_annuel_2024_pnud_togo_soft_02.pdf)).
 - UNDP Togo states that it supported the digitalisation of the civil status centres of the 16 communes of the Savanes region in 2024, which it says can now deliver acts in real time and have been trained to use the digital birth registration platform; it does not say they register on it, and gives no national total of communes or centres ([source, 2024](https://www.undp.org/sites/g/files/zskgke326/files/2025-07/rapport_annuel_2024_pnud_togo_soft_02.pdf)).
+- The e-Vital Togo pilot covers four communes (Golfe 3, Agoe-Nyive 1, Kozah 1, Bassar 1), where facilities send births and deaths electronically to civil-status offices that verify, print and sign the act ([source, 2026-11-05](https://togoscoop.tg/togo-e-vita-un-projet-pour-moderniser-lenregistrement-des-naissances-et-des-deces/)).

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-03-eth-we-are-working-on-a-model-for-our-country-with-a-modern-and-complete-d",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B;D",
+   "fact": "The Addis Ababa Civil Registration and Residency Service Agency says birth, death, marriage and divorce registration is replaced by a digital service across its 132 service centres.",
+   "as_of": "2024-12-03",
+   "date_precision": "day",
+   "system": "Addis Ababa digital civil registration service",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "count:132",
+   "fact": "The agency says its 132 service centres, centre to woreda, provide digital registration of births and deaths, as stated by Mayor Adanech Abebe.",
+   "as_of": "2024-12-03",
+   "date_precision": "day",
+   "system": "Addis Ababa digital civil registration service",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Addis Ababa digital civil registration service",
+   "country_label": "ETH",
+   "class": "civil",
+   "platform": "",
+   "owner": "Addis Ababa Civil Registration and Residency Service Agency",
+   "tiers": "132 service centres, centre to woreda"
+  }
+ ],
+ "note": ""
+}

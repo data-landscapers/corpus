@@ -8,12 +8,13 @@
       "events": "B;D",
       "made": "connected",
       "last12": "",
-      "offices": "count:35",
+      "offices": "not-published",
       "cap": "",
       "flags": "identity integrated;backlog capture",
-      "stage_sources": "MUS-006;MUS-015;MUS-022;MUS-023",
-      "gaps": "No share of offices making the digital entry: the Registrar's 35 computerised offices (2019) is a count with no denominator, the deck does not say in terms that every office enters records, and the newest fact (MUS-007, 2025-09-06) gives no count; the only share, 32 of 47 in 2012, is from the excluded essay. The plan held (MUS-018) is the Strategic Directions for 2023/2024, a period ended before the as-at, and both last-twelve-months facts (MUS-005 of 2025-09-06, MUS-020 of 2024) fall before the window opens on 2025-09-30.",
-      "note": "Births and deaths are registered online at computerised civil status offices into the central database, but the office figure is a count with no denominator, which is a floor and places at stage 3. Stage 4 needs more than half of offices on a share or a count with a denominator."
+      "stage_sources": "MUS-005;MUS-006;MUS-007;MUS-015;MUS-016",
+      "gaps": "No fact inside the three years says births are entered at the office: the Division's 2023/2024 report says its CSD System registers births and deaths into one database (MUS-015, MUS-016) without saying where the entry is made, and the 2025 notice opens the offices for registration during the system's revamp (MUS-005 to MUS-007) without a count. The Registrar's account of online entry at computerised offices (MUS-022, MUS-023) dates from 2019, and the Pay Research Bureau's 'all offices' (MUS-025, MUS-026) is its 2016 review, uploaded in 2024; both fall outside the window. The Division counts 36 local offices in 2023/2024. The plan held (MUS-018) is the Strategic Directions for 2023/2024, a period ended before the as-at, and nothing is dated inside the twelve months.",
+      "note": "The Division's own system registers births and deaths in its local offices, live since 2001 and being revamped in 2025, which meets stage 3. Stage 4 needs a source inside three years saying the entry is made at the office, with a share or a count of offices against a total; the only such statements date from 2016 and 2019.",
+      "as_at": "2026-11-15"
     }
   ]
 }

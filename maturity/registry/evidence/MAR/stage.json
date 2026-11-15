@@ -4,7 +4,7 @@
     {
       "sub_indicator": "civil",
       "stage": "3",
-      "governance": "owner:ministry;plan:current;finance:donor",
+      "governance": "owner:ministry;plan:current;finance:domestic;finance:donor",
       "events": "B;D",
       "made": "connected",
       "last12": "no-change",
@@ -12,8 +12,9 @@
       "cap": "",
       "flags": "backlog capture",
       "stage_sources": "MAR-012;MAR-013;MAR-014",
-      "gaps": "No share of offices registering has been found: 'all offices' (MAR-013, 2024-10-29) is the ministry's word with no count beside it, and the 59 of 97 (MAR-004, 2026-01-30) is over a programme's participating municipalities for a system whose function the report does not state. Later facts disagree with the 2024 account: in October 2025 communes were short of the paper registers called essential for registering births (MAR-009) and access to the national platform was still to be opened (MAR-010); MAR-014 gives the central connected platform as what the programme is to provide. The plan (MAR-016) carries no period, the domestic finance fact is from 2014 and outside the window, and the identifier at birth is held only as what Law 36-21 provides.",
-      "note": "SGEC enters births and deaths at the civil-status office and is past pilot, but its reach is a share equipped, which places at stage 3. Stage 4 needs more than half of offices shown registering on a share or a count over the country's own total, and none is held."
+      "gaps": "No share of offices registering has been found: 'all offices' (MAR-013, 2024-10-29) is the ministry's word with no count beside it, and the 59 of 97 (MAR-004, 2026-01-30) is over a programme's participating municipalities for a system whose function the report does not state. The April 2025 register project (MAR-022) gives 1,821 offices for its unified information system, a project figure from another source and not a count of offices registering. Later facts disagree with the 2024 account: in October 2025 communes were short of the paper registers called essential for registering births (MAR-009) and access to the national platform was still to be opened (MAR-010). The plan (MAR-016) carries no period. Finance is both: over 194 million dirhams allocated to the Interior Ministry's register digitisation and information-system project (MAR-023, April 2025, from the press), beside the World Bank loan behind the municipal back-office system (MAR-008). The identifier at birth is held only as what Law 36-21 provides.",
+      "note": "SGEC enters births and deaths at the civil-status office and is past pilot, but its reach is a share equipped, which places at stage 3. Stage 4 needs more than half of offices shown registering on a share or a count over the country's own total, and none is held; the domestic budget of April 2025 changes the governance qualifier only.",
+      "as_at": "2026-11-15"
     }
   ]
 }

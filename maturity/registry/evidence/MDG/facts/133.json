@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-17-mdg-etat-civil-des-milliers-d-enfants-sans-copie-a-antananarivo-ville",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "pilot",
+   "fact": "L'Express says digital registration of children born in maternities is in a trial phase in Antananarivo's fourth arrondissement and in Toamasina.",
+   "as_of": "2025-01-17",
+   "date_precision": "day",
+   "system": "Digital birth registration in maternities",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital birth registration in maternities",
+   "country_label": "Madagascar",
+   "class": "civil",
+   "platform": "",
+   "owner": "commune",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
