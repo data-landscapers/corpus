@@ -77,8 +77,13 @@ LAUNCHED = True
 REDESIGN = "--redesign" in sys.argv
 # The changes box counts only moves recorded from this day: everything before it was the baseline
 # backfill, not change (Bill, 2026-10-19), and the box was emptied again when every ladder was made
-# to need each step met (Bill, 2026-11-09, message 114).
-CHANGES_FROM = "2026-11-10"
+# to need each step met (Bill, 2026-11-09, message 114). **Reset to the day after the
+# initialisation finished** (Bill, 2026-11-15): the stage 4c backlog closed that day, so every
+# record up to it is baseline. A cell's *Stage last moved* and *Reassessed* read from it too.
+CHANGES_FROM = "2026-11-16"
+# A restage that applies Bill's answer to an open message is logged `ruling` and is never shown as
+# a change (Bill, 2026-11-15).
+SHOWN_KINDS = ("fact", "review", "ladder")
 # Indexed ahead of launch (Bill, 2026-10-17): it takes days to take effect.
 INDEXED = True
 # Before launch the reports and the methodology page carry the Under construction band; the map carries
@@ -190,7 +195,8 @@ def last_change(history: list[dict], iid: str, iso: str) -> tuple[str | None, st
     rotation or a rewritten rung made is a **reassessment**, shown only while it is the cell's
     latest change (spec section 6). A reassessment that left the stage alone is neither."""
     changes = [h for h in sorted(history, key=lambda h: h["date"])
-               if h["indicator_id"] == iid and h["iso3"] == iso and h["from"] != h["to"]]
+               if h["indicator_id"] == iid and h["iso3"] == iso and h["from"] != h["to"]
+               and h["date"] >= CHANGES_FROM and h["kind"] in SHOWN_KINDS]
     facts = [h for h in changes if h["kind"] == "fact"]
     return (month(facts[-1]["date"]) if facts else None,
             month(changes[-1]["date"]) if changes and changes[-1]["kind"] != "fact" else None)
@@ -396,7 +402,7 @@ def problems(data: dict, geo: dict, studies: list[dict], indicators: list[dict],
         latest = {}
         for h in sorted(s.get("history", []), key=lambda h: h["date"]):
             if h["indicator_id"] not in subs or h["iso3"] not in data["countries"] \
-                    or h["kind"] not in ("fact", "review", "ladder"):
+                    or h["kind"] not in SHOWN_KINDS + ("ruling",):
                 out.append(f"{s['id']}: history.csv row {h['date']} {h['iso3']} {h['indicator_id']} "
                            f"{h['kind']} names no cell or no kind")
             latest[(h["indicator_id"], h["iso3"])] = h

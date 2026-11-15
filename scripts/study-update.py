@@ -3,7 +3,7 @@ r"""study-update.py — keeping a finished maturity study current: the work orde
 
     python scripts/study-update.py order                   what arrived and is unread, by study and country; exit 1 if nothing
     python scripts/study-update.py close STUDY ISO3 SLUG --outcome nothing|fact|reassessed|instrument|old|capped
-    python scripts/study-update.py log STUDY ISO3 KEY --kind fact|review|ladder --note "..."
+    python scripts/study-update.py log STUDY ISO3 KEY --kind fact|review|ladder|ruling --note "..."
     python scripts/study-update.py next [--poll]           tonight's two indicators to rebuild; exit 1 if none is owed
     python scripts/study-update.py done STUDY KEY --minutes N --tokens M --staged N
                                                            stamp an indicator's rebuild and what it cost
@@ -27,7 +27,9 @@ not the stage moved *(Bill)*. `log` is run after the cell's `stage.json` is rewr
 - `fact`   — a new fact; a change of stage is a **move**, shown under *Stage last moved* and in
   the changes box;
 - `review` — the rebuild's whole reassessment; a change is shown as *Reassessed*, not as movement;
-- `ladder` — a rung was rewritten; likewise *Reassessed*.
+- `ladder` — a rung was rewritten; likewise *Reassessed*;
+- `ruling` — Bill's answer to an open message applied; recorded, and never shown as a change
+  *(Bill, 2026-11-15)*.
 
 **The rebuild is by indicator** *(Bill, 2026-10-09)*: a whole reassessment reads all 54
 countries side by side against the one ladder, which a country at a time cannot do. **Five a
@@ -61,7 +63,7 @@ ROTATION = os.path.join(study_lib.CORPUS, "logs", "maturity-review.csv")
 ROTATION_FIELDS = ["study", "key", "indicator_id", "last_reviewed", "minutes", "tokens", "staged"]
 COST_FIELDS = ROTATION_FIELDS[4:]
 HISTORY_FIELDS = ["date", "iso3", "indicator_id", "kind", "from", "to", "sources", "note"]
-KINDS = ("fact", "review", "ladder")
+KINDS = ("fact", "review", "ladder", "ruling")
 OUTCOMES = ("nothing", "fact", "reassessed",
             "instrument", "old", "capped")   # closed unread by `study-arrivals.py` (Bill, 2026-10-17)
 # Bill, 2026-10-11: the update is not run until every indicator has had its first study, so
