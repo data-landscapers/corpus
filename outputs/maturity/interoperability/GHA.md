@@ -8,4 +8,4 @@
 
 ***Also on file***. [Government of Ghana Enterprise Architecture (GGEA)](<https://nita.gov.gh/wp-content/uploads/2022/02/Ghana-eGovernment-Interoperability-Framework-eGIF-Version-2.0_v.Draft-for-Stakeholder-Review-1.pdf>).
 
-***Not found***. No source found says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.
+***Not found***. No source found says public bodies are required to follow the framework. No decree, law, regulation or circular has been found that makes it compulsory and names the body that enforces it.

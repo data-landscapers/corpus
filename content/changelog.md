@@ -1,5 +1,6 @@
 ## 15 November 2026
 
+- Every country summary in the maturity assessment has been rewritten in shorter sentences, across all 115 indicators. The facts, sources and stages are unchanged.
 - The maturity assessment's first full reading is complete, and today's stages are its baseline: the changes box and each cell's *Stage last moved* count only changes from 16 November. Restagings that apply rulings on how a ladder is read are not counted as changes.
 - Rwanda rises from 3 to 5 on censuses and surveys (data.statistics--censuses-and-surveys): the main results of its 2022 census were published in 2023. A demographic and health survey published results in 2026, which meets the last step.
 - Tanzania rises from 3 to 5 on censuses and surveys (data.statistics--censuses-and-surveys): its 2022 census report came out within 45 days of collection, and a labour force survey published results in 2026. Whether the census report gave preliminary or final results has not been found.

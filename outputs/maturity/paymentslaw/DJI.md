@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.
+***Not found***. No rule found requires mobile money providers and banks to connect to each other. None requires them to connect to a national or regional switch.

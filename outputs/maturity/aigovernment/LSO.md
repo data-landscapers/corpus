@@ -10,4 +10,4 @@
 
 ***Also on file***. [FAO digital agriculture extension chatbot (TCP/LES/4002, Digital Villages Initiative)](<https://agricresearch.org.ls/dar-researchers-drive-content-scrutiny-for-fao-chatbot-initiative/>).
 
-***Not found***. No source found reports AI in service in a second government body, and rules or a register for the government's own use of AI.
+***Not found***. No source found reports AI in service in a second government body. No source found reports rules or a register for the government's own use of AI.

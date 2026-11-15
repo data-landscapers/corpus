@@ -10,4 +10,4 @@
 
 ***Also on file***. [Diwan Bot](<https://lana.gov.ly/post.php?id=358534&lang=en>).
 
-***Not found***. No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.
+***Not found***. No source found since October 2023 says the country has a facility with GPUs or AI accelerators in service.

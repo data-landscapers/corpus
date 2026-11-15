@@ -2,11 +2,11 @@
 
 ## Core government systems
 
-**Budget, accounts and payments.** Nothing found from 2023 or later describes a financial management system in use. The finance minister said in 2025 that [new systems for financial management information, electronic payments and revenue collection](<https://libyaobserver.ly/news/gnu-starts-paying-public-sector-wages-through-new-treasury-system>) are part of the government's strategy, and the ministry [held talks on a government financial management system](<https://alwasat.ly/news/libya/493416>) in October 2025.
+**Budget, accounts and payments.** Nothing found from 2023 or later describes a financial management system in use. The finance minister said in 2025 that [new systems for financial management information, electronic payments and revenue collection](<https://libyaobserver.ly/news/gnu-starts-paying-public-sector-wages-through-new-treasury-system>) are part of the government's strategy. The ministry [held talks on a government financial management system](<https://alwasat.ly/news/libya/493416>) in October 2025.
 
-**Tax.** The Libyan Tax Authority [announced the official start of work on the Unified Tax System](<https://lana.gov.ly/post.php?id=346934&lang=ar>) in December 2025, under a decision of that year.
+**Tax.** The Libyan Tax Authority [announced the official start of work on the Unified Tax System](<https://lana.gov.ly/post.php?id=346934&lang=ar>) in December 2025. The announcement was made under a decision of that year.
 
-**Payroll.** The finance minister said [August 2025 public-sector salaries were processed on the new unified treasury account system](<https://libyaobserver.ly/news/gnu-starts-paying-public-sector-wages-through-new-treasury-system>), after basic data for about 41% of state employees had been uploaded.
+**Payroll.** The finance minister said [August 2025 public-sector salaries were processed on the new unified treasury account system](<https://libyaobserver.ly/news/gnu-starts-paying-public-sector-wages-through-new-treasury-system>). This came after basic data for about 41% of state employees had been uploaded.
 
 **Renewal.** Nothing found says the new treasury account system or the tax system replaced an older one. The nearest held fact is the minister's statement that [the treasury account is part of a wider digital transformation strategy](<https://libyaobserver.ly/news/gnu-starts-paying-public-sector-wages-through-new-treasury-system>).
 

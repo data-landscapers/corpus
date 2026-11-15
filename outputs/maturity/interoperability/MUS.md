@@ -8,4 +8,4 @@
 
 ***Also on file***. [InfoHighway](<https://ih.govmu.org/assets/docs/IH_Leaflet_v12.pdf>).
 
-***Not found***. No source found says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.
+***Not found***. No source found says public bodies are required to follow the framework. No decree, law, regulation or circular has been found that makes it compulsory and names the body that enforces it.

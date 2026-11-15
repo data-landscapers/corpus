@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says a complaints body takes complaints about digital financial services, or reports a fine, a sanction or complaint figures.
+***Not found***. No source found since October 2023 says a complaints body takes complaints about digital financial services. None reports a fine, a sanction or complaint figures.

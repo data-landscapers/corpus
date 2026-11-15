@@ -2,9 +2,9 @@
 
 ## Digital id from birth
 
-**Number given at birth.** [The playbook says the unique citizen identifier (IUC), set up by decree-law 2020-17, is unique, non-significant and sequential, and is given at birth to every person entered in the civil status register](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>). [The deck says the 11-digit non-significant unique number, set up by decree-law of 12 May 2020, is assigned at birth or on obtaining Tunisian nationality](<https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf>).
+**Number given at birth.** [The playbook says the unique citizen identifier (IUC), set up by decree-law 2020-17, is unique, non-significant and sequential](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>). It is given at birth to every person entered in the civil status register. [The deck says the 11-digit non-significant unique number was set up by decree-law of 12 May 2020](<https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf>). It is assigned at birth or on obtaining Tunisian nationality.
 
-**Given nationally.** [The playbook says the IUC is given to any natural person entered in the civil status register at birth, with the register fed from the national civil status system Madania](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>).
+**Given nationally.** [The playbook says the IUC is given to any natural person entered in the civil status register at birth](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>). The register is fed from the national civil status system Madania.
 
 **All births registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest fact: [in May 2026 the playbook said the IUC is given at birth](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>). [It said this covers every person entered in the civil status register](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>).
 

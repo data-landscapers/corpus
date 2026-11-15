@@ -2,7 +2,7 @@
 
 ## National data exchange system
 
-**Exchange platform built and in service.** [In October 2026 a World Bank project information document said Seychelles has no interoperability layer between government systems](<http://documents.worldbank.org/curated/en/099100726053521931>). [It said that gap keeps government services on manual processing](<http://documents.worldbank.org/curated/en/099100726053521931>). It is the only fact found on the subject. No news story or official notice read for this study says more about it, the documents the earlier cell cited included. The systems themselves were not examined.
+**Exchange platform built and in service.** [In October 2026 a World Bank project information document said Seychelles has no interoperability layer between government systems](<http://documents.worldbank.org/curated/en/099100726053521931>). [It said that gap keeps government services on manual processing](<http://documents.worldbank.org/curated/en/099100726053521931>).
 
 **Many systems connected.** No source found since October 2023 counts ten or more institutions or systems connected. The nearest fact: [in October 2026 the World Bank said Seychelles lacks an interoperability layer](<http://documents.worldbank.org/curated/en/099100726053521931>).
 

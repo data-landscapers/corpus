@@ -2,7 +2,7 @@
 
 ## Consumer protection
 
-**Rules in force.** No source found since October 2023 names the consumer-protection rules for digital finance in force in Morocco. The nearest held fact: [the mediation rules of the Centre Marocain de Médiation Bancaire, of 23 March 2023, bind its members, banks, financing companies and payment institutions among them, under a 2016 Bank Al-Maghrib circular](<https://cmmb.ma/la-mediation-2/reglement-de-mediation-al-wassit-al-banki/>).
+**Rules in force.** No source found since October 2023 names the consumer-protection rules for digital finance in force in Morocco. The nearest fact found is [the mediation rules of the Centre Marocain de Médiation Bancaire, of 23 March 2023](<https://cmmb.ma/la-mediation-2/reglement-de-mediation-al-wassit-al-banki/>). They bind its members, banks, financing companies and payment institutions among them, under a 2016 Bank Al-Maghrib circular.
 
 **Complaints handled.** [In 2024 Al Wassit Albanki, the banking mediation centre set up under Bank Al-Maghrib, received 5,536 complaint files](<https://cmmb.ma/wp-content/uploads/2025/05/Rapport-dactivite-2024.pdf>). [Disputes over means of payment, mostly cards and transfers, were 21% of those treated](<https://cmmb.ma/wp-content/uploads/2025/05/Rapport-dactivite-2024.pdf>). [Payment institutions and money transfer companies were among the institutions concerned](<https://cmmb.ma/wp-content/uploads/2025/05/Rapport-dactivite-2024.pdf>).
 

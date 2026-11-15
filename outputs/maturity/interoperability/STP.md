@@ -8,4 +8,4 @@
 
 ***Also on file***. [plataforma de interoperabilidade (registo civil / recenseamento eleitoral)](<https://www.telanon.info/wp-content/uploads/2025/09/NOTA-DE-IMPRENSA-1.pdf>); [SIGA](<https://www.telanon.info/wp-content/uploads/2025/09/NOTA-DE-IMPRENSA-1.pdf>); [Kenon](<https://dpssf.gov.st/index.php/explorar/recursos-uteis/sobre-kenon>); [Plataforma de Interoperabilidade](<https://www.ager.st/images/estrategia_cyber_.pdf>).
 
-***Not found***. No source found says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.
+***Not found***. No source found says public bodies are required to follow the framework. No decree, law, regulation or circular has been found that makes it compulsory and names the body that enforces it.

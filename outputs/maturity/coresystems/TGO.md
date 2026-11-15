@@ -2,13 +2,13 @@
 
 ## Core government systems
 
-**Budget, accounts and payments.** [The Ministry of Finance and Budget says budget data entry is currently done in SIGFiP and in parallel in SOLAF, with 236 regional agents trained in SOLAF on commitment, settlement, ordering and payment mandates in August-September 2024](<https://finances.gouv.tg/formation-des-agents-ordonnateurs-regionaux-en-execution-du-budget-de-letat-dans-solaf/>). The finance ministry said in February 2026 that [budget execution runs in SIGFiP](<https://finances.gouv.tg/renforcement-de-la-gestion-des-finances-publiques-au-togo/>), and that commitment plans and annual work plans are to be computerised in it.
+**Budget, accounts and payments.** [The Ministry of Finance and Budget says budget data entry is currently done in SIGFiP and in parallel in SOLAF](<https://finances.gouv.tg/formation-des-agents-ordonnateurs-regionaux-en-execution-du-budget-de-letat-dans-solaf/>). In August-September 2024, 236 regional agents were trained in SOLAF on commitment, settlement, ordering and payment mandates. The finance ministry said in February 2026 that [budget execution runs in SIGFiP](<https://finances.gouv.tg/renforcement-de-la-gestion-des-finances-publiques-au-togo/>). It said commitment plans and annual work plans are to be computerised in it.
 
 **Tax.** [In 2025 large and medium firms filed and paid all their VAT returns online](<https://www.otr.tg/index.php/fr/impots/statistiques-performances/teledeclaration-et-telepaiement.html>). Other taxpayers filed 26% online.
 
-**Payroll.** No source found from 2023 or later says the civil-service payroll runs on a computer system; the stage rests on [the source that sets it](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>).
+**Payroll.** No source found from 2023 or later says the civil-service payroll runs on a computer system. The stage rests on [the source that sets it](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>).
 
-**Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023; the stage rests on [the source that sets it](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>).
+**Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023. The stage rests on [the source that sets it](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>).
 
 **A map of the systems.** [Agence Togo Digital publishes the Architecture d'Entreprise Gouvernementale du Togo online](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html>). It sets a vision, twelve orientation statements and principles for the state information system. [Its documentation presents it as the reference for public bodies' own architectures](<https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/introduction.html>).
 

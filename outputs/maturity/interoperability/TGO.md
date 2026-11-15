@@ -2,7 +2,7 @@
 
 ## Government interoperability framework
 
-**Framework adopted.** Togo has a framework in draft. The Agence Togo Digital sets out the government's Cadre Commun d'Interopérabilité in its Guide de l'Architecture d'Entreprise, and [the guide's version-control page shows version 1.0 with the status Brouillon, a blank version date and an empty revision history](<https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/controle_version.html>).
+**Framework adopted.** Togo has a framework in draft. The Agence Togo Digital sets out the government's Cadre Commun d'Interopérabilité in its Guide de l'Architecture d'Entreprise. [The guide's version-control page shows version 1.0 with the status Brouillon](<https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/controle_version.html>). [It shows a blank version date and an empty revision history](<https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/controle_version.html>).
 
 **Required and followed.** The page [was captured on 6 September 2026 and carries no date of its own](<https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/controle_version.html>). It names no decree, order or circular adopting the guide or making it compulsory for ministries and agencies, and no body that would enforce it. No ministry or agency is reported as exchanging data under it. Rules for single systems named in the same reporting are not assessed here. The guide's text beyond its version page was not read for this study.
 

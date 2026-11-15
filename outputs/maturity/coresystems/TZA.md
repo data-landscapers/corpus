@@ -2,7 +2,7 @@
 
 ## Core government systems
 
-**Budget, accounts and payments.** The Ministry of Finance said in February 2025 that it had [integrated its CS-Meridian debt system with MUSE, the Government Payment System](<https://thebizlens.co.tz/2025/02/27/tanzania-leads-africa-in-debt-management-payment-systems-integration/>), and had trained Kenyan officials on how the link works.
+**Budget, accounts and payments.** The Ministry of Finance said in February 2025 that it had [integrated its CS-Meridian debt system with MUSE, the Government Payment System](<https://thebizlens.co.tz/2025/02/27/tanzania-leads-africa-in-debt-management-payment-systems-integration/>). It had also trained Kenyan officials on how the link works.
 
 **Tax.** Nothing found from 2023 or later describes the tax system. The nearest held fact is the [ministry's account of MUSE's link to the debt system](<https://thebizlens.co.tz/2025/02/27/tanzania-leads-africa-in-debt-management-payment-systems-integration/>), which names no tax system.
 

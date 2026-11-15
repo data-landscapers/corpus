@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.
+***Not found***. No source found since October 2023 says the country has a facility with GPUs or AI accelerators in service.

@@ -6,9 +6,9 @@
 
 **Tax.** Nothing found from 2023 or later describes the tax system. The nearest held fact is the IMF's figure that [the wage bill fell from 84% of tax revenue in 2020 to 50% in 2024](<https://www.mef.gw/noticias/fmi-sauda-a-implementacao-da-plataforma-para-melhorar-gestao-da-folha-salarial>).
 
-**Payroll.** The IMF says Guinea-Bissau [launched a blockchain platform for the public payroll in May 2024](<https://www.mef.gw/noticias/fmi-sauda-a-implementacao-da-plataforma-para-melhorar-gestao-da-folha-salarial>), under its Extended Credit Facility programme. It was being extended to other ministries and, the IMF said, could cover all 26,600 civil servants and 8,100 pensioners by November 2024.
+**Payroll.** The IMF says Guinea-Bissau [launched a blockchain platform for the public payroll in May 2024](<https://www.mef.gw/noticias/fmi-sauda-a-implementacao-da-plataforma-para-melhorar-gestao-da-folha-salarial>), under its Extended Credit Facility programme. It was being extended to other ministries. The IMF said it could cover all 26,600 civil servants and 8,100 pensioners by November 2024.
 
-**Renewal.** The IMF's project lead says [the new payroll ledger went live in May 2024](<https://www.mef.gw/noticias/fmi-sauda-a-implementacao-da-plataforma-para-melhorar-gestao-da-folha-salarial>), after four years of work with the Fund and Ernst & Young.
+**Renewal.** The IMF's project lead says [the new payroll ledger went live in May 2024](<https://www.mef.gw/noticias/fmi-sauda-a-implementacao-da-plataforma-para-melhorar-gestao-da-folha-salarial>). This followed four years of work with the Fund and Ernst & Young.
 
 **A map of the systems.** Nothing found says the government has published an inventory of its systems. The nearest held fact is a World Bank procurement plan for [a national government cloud](<https://documents1.worldbank.org/curated/en/099031726185534997/txt/P176932-ff007e3d-6dc7-4a7e-b858-14a297e1be23.txt>).
 

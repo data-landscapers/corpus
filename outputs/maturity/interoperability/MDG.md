@@ -8,4 +8,4 @@
 
 ***Also on file***. [Orinasa](<https://digital.gov.mg/2022/05/05/cadre-dinteroperabilite/>); [X-Road security server](<https://digital.gov.mg/2022/05/05/cadre-dinteroperabilite/>); [Rahaka](<https://www.lexpress.mg/2026/04/administration-mise-en-place-dun.html>); [X-Road](<https://digital.gov.mg/wp-content/uploads/2022/05/UGD-Cadre-dinterop%C3%A9rabilit%C3%A9V1.0.2.pdf>).
 
-***Not found***. No source found says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.
+***Not found***. No source found says public bodies are required to follow the framework. No decree, law, regulation or circular has been found that makes it compulsory and names the body that enforces it.

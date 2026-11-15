@@ -8,4 +8,4 @@
 
 ***Also on file***. [Draft technical standards for DPI (NITDA)](<https://www.biometricupdate.com/202504/nigerias-it-agency-seeks-feedback-on-draft-technical-standards-for-dpi>); [Nigerian Digital Public Infrastructure Centre (Ng-DPIC)](<https://www.biometricupdate.com/202504/nigerias-it-agency-seeks-feedback-on-draft-technical-standards-for-dpi>).
 
-***Not found***. No source found says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.
+***Not found***. No source found says public bodies are required to follow the framework. No decree, law, regulation or circular has been found that makes it compulsory and names the body that enforces it.

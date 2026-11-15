@@ -8,4 +8,4 @@
 
 ***Also on file***. [Electronic Government Procurement (e-GP) system](<https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html>).
 
-***Not found***. No source found dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.
+***Not found***. No source found dates a decision, order or penalty on a request in the last three years. No source found dates published figures of requests, or a rule made under the law, in that period.

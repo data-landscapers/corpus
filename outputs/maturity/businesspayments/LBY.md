@@ -6,7 +6,7 @@
 
 **End to end.** No source found says e-procurement runs end to end or is required of all public bodies. The nearest held fact: [189 government entities published tenders on Attaat, the official platform for government tenders and purchases, in July 2025](<https://www.gia.gov.ly/en/2025/08/03/6665/>).
 
-**Use reported.** [The Authority reports 626 tenders announced on Attaat during July 2025](<https://www.gia.gov.ly/en/2025/08/03/6665/>), [published by 189 government entities, with 840 entities registered on the platform](<https://libyaherald.com/2025/08/tripoli-libyan-governments-official-tendering-and-procurement-website-attaat-is-operational>).
+**Use reported.** [The Authority reports 626 tenders announced on Attaat during July 2025](<https://www.gia.gov.ly/en/2025/08/03/6665/>). [They were published by 189 government entities, with 840 entities registered on the platform](<https://libyaherald.com/2025/08/tripoli-libyan-governments-official-tendering-and-procurement-website-attaat-is-operational>).
 
 ***Also on file***. [Moamalat Financial Services Company](<https://libyaherald.com/2026/10/electronic-transactions-reached-865-billion-libyan-dinars-by-end-of-september-2026-cbl/>); [CIPS](<https://www.scmp.com/news/china/diplomacy/article/3364171/why-chinese-yuan-could-soon-be-africas-most-important-currency>).
 
