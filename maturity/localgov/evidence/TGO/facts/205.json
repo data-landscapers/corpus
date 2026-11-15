@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-08-tgo-la-kfw-development-bank-finance-le-projet-de-digitalisation-es-mairies",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "Togotimes reports that KfW Development Bank finances a project, soon to be deployed, to connect all 136 town halls of Togo.",
+   "as_of": "2026-02-08",
+   "date_precision": "day",
+   "system": "Digitalisation des mairies project",
+   "class": "connection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digitalisation des mairies project",
+   "country_label": "Togo",
+   "class": "connection",
+   "platform": "",
+   "owner": "Ministry of Public Service Efficiency and Digital Transformation",
+   "tiers": "136 town halls"
+  }
+ ],
+ "note": ""
+}

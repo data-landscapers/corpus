@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-24-civ-modernisation-et-digitalisation-de-l-etat-civil",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CityWeb",
+   "country_label": "Cote d'Ivoire",
+   "class": "application",
+   "platform": "software",
+   "owner": "ONECI",
+   "tiers": "civil status centres"
+  }
+ ],
+ "note": "Nothing on local government office connection; mairie registrars attended a workshop only."
+}
