@@ -4,11 +4,11 @@
 
 **A strategy or a national body.** [The DCSSI sets the course and norms for cybersecurity](<https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/>). [In October 2026 it co-organised the second cybersecurity providers forum](<https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/>). [In 2022 the state digital operator said its cybersecurity work followed the national strategy, SNC2022](<https://www.adie.sn/expertise/s%C3%A9curit%C3%A9>).
 
-**Responding to incidents.** No source found says the national body handled an incident or issued a public alert since October 2023, so no response to an attack is on record; the stage rests on [the source that sets it](<https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/>).
+**Responding to incidents.** No source found says the national body handled an incident or issued a public alert since October 2023. No response to an attack is on record. The stage rests on [the source that sets it](<https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/>).
 
-**Critical infrastructure.** No source found says the country designated its critical information infrastructure or required the operators of its critical systems to report incidents to the national body; the stage rests on [the source that sets it](<https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/>).
+**Critical infrastructure.** No source found says the country designated its critical information infrastructure or required the operators of its critical systems to report incidents to the national body. The stage rests on [the source that sets it](<https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/>).
 
-**Published figures.** No source found says the national body published a count of the incidents it handled for a quarter or more ending in the last two years; the stage rests on [the source that sets it](<https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/>).
+**Published figures.** No source found says the national body published a count of the incidents it handled for a quarter or more ending in the last two years. The stage rests on [the source that sets it](<https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/>).
 
 ***Also on file***. [Direction générale du Chiffre et de la Sécurité des Systèmes d'Information (DCSSI)](<https://stcc-ssi.sn/protection-des-infrastructures-dinformation-critiques-une-nouvelle-etape-pour-la-souverainete-et-la-resilience-numeriques-du-senegal/>); [CSIRT ADIE/SN](<https://www.adie.sn/expertise/s%C3%A9curit%C3%A9>).
 

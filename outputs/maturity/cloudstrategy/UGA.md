@@ -8,4 +8,4 @@
 
 ***Also on file***. [National Data Centre](<https://techafricanews.com/2026/06/22/nita-u-launches-five-year-digital-strategy-to-increase-e-government-use-in-uganda/>); [UGHub](<https://techafricanews.com/2026/06/22/nita-u-launches-five-year-digital-strategy-to-increase-e-government-use-in-uganda/>); [ABQ Cloud](<https://www.independent.co.ug/abq-cloud-launches-ugandan-sovereign-cloud-ecosystem>); [Government Cloud (National Data Center)](<https://oldsite.nita.go.ug/sites/default/files/2022-01/The%20Cloud%20Computing%20Guidelines%20for%20GoU.pdf>).
 
-***Not found***. No source from the last three years naming or counting public bodies that have moved onto the named hosting is held.
+***Not found***. Nothing found from the last three years names or counts public bodies moved onto the named hosting.

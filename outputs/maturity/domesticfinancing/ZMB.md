@@ -8,4 +8,4 @@
 
 ***Also on file***. *None found.*
 
-***Not found***. Whether the government has said digital transformation must be paid for from its own resources and acted on it: no fund, levy or assigned tax is shown created, collecting or paying.
+***Not found***. Nothing found shows the government saying digital transformation must be paid for from its own resources and acting on it. No fund, levy or assigned tax is shown created, collecting or paying.
