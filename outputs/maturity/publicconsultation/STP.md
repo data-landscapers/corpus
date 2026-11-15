@@ -8,4 +8,4 @@
 
 ***Also on file***. [FGI STP, the internet governance forum that AGER convened in July 2026](<https://www.ager.st/index.php/en/news/19-annonces/122-ager-realiza-com-sucesso-a-1-edicao-do-fgi-stp>).
 
-***Not found***. No published report of a consultation on a digital law or policy, the comments received or a written answer to them from the last three years is held.
+***Not found***. No published report of a consultation on a digital law or policy has been found from the last three years. Nor have the comments received or a written answer to them.
