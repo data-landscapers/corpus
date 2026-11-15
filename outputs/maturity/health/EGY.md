@@ -2,19 +2,19 @@
 
 ## HMIS
 
-**Governance, planning, finance.** Egypt's answers to the WHO EMRO civil registration questionnaire, published in 2025, describe [the Ministry of Health's national health information system, into which birth and death notifications are processed](<https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf>).
+**Governance, planning, finance.** Egypt's answers to the WHO EMRO civil registration questionnaire were published in 2025. They describe [the Ministry of Health's national health information system](<https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf>). Birth and death notifications are [processed into it](<https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf>).
 
-**Tiers in use.** On those answers, [notifications of births and deaths made at health offices go as copies to the health department at district level, and are then reviewed at directorate and central level](<https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf>).
+**Tiers in use.** On those answers, notifications of births and deaths are made at health offices. [Copies go to the health department at district level](<https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf>). They are then [reviewed at directorate and central level](<https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf>).
 
 **Where data is digitised.** The district health department [processes the notifications electronically into the national system](<https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf>), on the answers published in 2025; the health offices below it send copies. From the directorates to the central level [the work is electronic](<https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf>).
 
 **Last twelve months.** The answers published in 2025 state that [automation of the health offices is under implementation](<https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf>).
 
-**Primary clinics doing the digital input.** The same answers report [a pilot of electronic registration at health-office level in some governorates](<https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf>), the level at which births and deaths are first notified.
+**Primary clinics doing the digital input.** The same answers report [a pilot of electronic registration at health-office level in some governorates](<https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf>). Births and deaths are first notified at that level.
 
 ***Also on file***. Trackers: [DHIS2, as part of the national health information system](<https://dhis2.org/egypt-launches-dhis2-in-health-information-system>). Enabling: the Egypt Healthcare Authority's [telemedicine and remote diagnosis](<https://eha.gov.eg/en/news/highlights-transformation/>) and the [telemedicine and telehealth solutions](<https://www.100millionseha.eg/download/1730977238.pdf>) planned in the National Health Strategy 2024-2030.
 
-***Not found***. Nothing found shows clinics' routine reports of patients treated entering the system: the one source describes birth and death notifications only, and the latest year it cites is 2011. No tier, clinic share, financing or event in the last twelve months has been found.
+***Not found***. Nothing found shows clinics' routine reports of patients treated entering the system. The one source describes birth and death notifications only. The latest year it cites is 2011. No tier, clinic share, financing or event in the last twelve months has been found.
 
 ## EMR
 
