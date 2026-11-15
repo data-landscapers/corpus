@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-26-som-somalia-introduces-modern-digital-identification-to-enhance-banking-se",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The World Bank's Somalia country manager says over 85 per cent of Somalis currently lack official identification.",
+   "as_of": "2024-08-26",
+   "date_precision": "day",
+   "system": "Somali National ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somali National ID system (NIRA)",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
