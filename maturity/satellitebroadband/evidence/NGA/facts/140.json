@@ -1,0 +1,44 @@
+{
+ "slug": "2026-11-13-nga-ground-segment",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The Nigerian Communications Commission register lists Starlink Internet Services Nigeria Limited with nationwide Ku-Band and Ka-Band VSAT frequency licences effective 16 June 2026, alongside earlier gateway earth station licences from July 2022.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The Nigerian Communications Commission register lists Airtel Networks Limited with a nationwide Ku-Band VSAT frequency licence on the OneWeb constellation effective 24 January 2023.",
+   "as_of": "2023-01-24",
+   "date_precision": "day",
+   "system": "OneWeb",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Nigeria",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "Starlink Internet Services Nigeria Limited",
+   "tiers": ""
+  },
+  {
+   "system": "OneWeb",
+   "country_label": "Nigeria",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "Airtel Networks Limited",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

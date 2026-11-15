@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-02-cod-autorisation-de-starlink-en-rdc-une-mesure-entre-la-souverainete-numer",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The ARPTC regulator's communiqué of 2 May 2025 granted Starlink DRC a telecommunications network and services licence, per the author.",
+   "as_of": "2025-05-02",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink DRC",
+   "class": "satellite",
+   "platform": "low-orbit constellation",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

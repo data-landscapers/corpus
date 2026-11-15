@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-14-xaf-starlink-expanding-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "TeleGeography says Starlink has been unable to launch in South Africa as of October 2025 because of the 30% BEE requirement.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

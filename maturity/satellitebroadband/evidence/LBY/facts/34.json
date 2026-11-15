@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-23-lby-regulatory-approvals-for-starlink-services-in-mena-countries",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Eicon says no Starlink approvals have been granted by Libya's ministry.",
+   "as_of": "2024-02-23",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

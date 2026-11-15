@@ -17,6 +17,8 @@ BDI,Starlink,Starlink,satellite,,SpaceX,,2026-07-17-starlink-launches-27th-afric
 BDI,Starlink,Starlink,satellite,LEO satellite,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
 BDI,Starlink,Starlink,satellite,LEO satellite,SpaceX,,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux
 BDI,Starlink,Starlink,other,satellite connectivity,SpaceX,health facilities (under consideration),2026-06-26-burundi-elmis-medexis-health-rollout-wearetech
+BDI,Starlink,Burundi,satellite,low-orbit satellite,SpaceX,"residential at USD 44 a month, kit USD 372",2024-09-26-bdi-starlink-une-bouffee-d-oxygene-pour-l-internet-burundais
+BDI,Starlink Services Burundi,Burundi,satellite,LEO satellite,Starlink Services Burundi,,2024-06-10-bdi-decret-n100-091-du-30-mai-2024-portant-octroi-d-une-licence-d-etabliss
 BEN,Starlink,Starlink,satellite,,SpaceX,,2025-02-07-wearetech-benin-explores-starlink
 BEN,Starlink,Starlink,satellite,,SpaceX,,2026-07-17-starlink-launches-27th-african-country-ivory-coast
 BEN,Starlink,Starlink,satellite,,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
@@ -25,6 +27,7 @@ BEN,Starlink,Starlink,satellite,,SpaceX,,2025-01-14-togo-techs-tg-starlink-en-af
 BEN,Starlink,STARLINK,satellite,,,,2026-05-01-arcep-bj-observatoire-internet-t1-2026
 BEN,Starlink,Starlink,satellite,,SpaceX,,2026-06-16 Who Owns Africa's Sky
 BEN,Starlink,Starlink,satellite,low-orbit satellite,Starlink,,2025-10-01-ben-arcep-observatoire-internet-juin-2025
+BEN,Starlink,Starlink Benin SARL,satellite,low-orbit satellite,Starlink Benin SARL,"national, all 77 communes",2025-09-30-ben-liste-des-fournisseurs-d-acces-a-internet-autorises-au-benin
 BFA,Starlink,Starlink,satellite,LEO constellation (SpaceX),SpaceX,,2026-07-26-burkina-faso-zero-data-abroad-120-platforms
 BFA,Starlink,Starlink,satellite,LEO constellation (SpaceX),SpaceX,,2024-03-20-burkina-arcep-communique-commercialisation-irreguliere-starlink
 BFA,Starlink,Starlink,satellite,LEO constellation (SpaceX),SpaceX,,2026-08-31-starlink-16-nouveaux-marches-africains-agenceecofin
@@ -45,6 +48,8 @@ BWA,Eutelsat OneWeb,Eutelsat OneWeb,satellite,,Eutelsat,,2025-06-03-satellite-co
 BWA,BTC satellite connectivity to 61 villages,BTC satellite connectivity,other,,Botswana Telecommunications Corporation (BTC),"rural villages, schools, clinics, community centres",2025-11-28-btc-satellite-connectivity-61-villages-itweb
 BWA,Starlink,Botswana,satellite,low-orbit satellite,,150 Mbps at about USD 48 a month,2025-05-22-bwa-giga-school-connectivity-botswana
 BWA,Starlink,Botswana,satellite,low-orbit satellite,Starlink,,2025-05-13-bwa-how-bofinet-plans-to-transform-botswana-into-southern-africa-s-interne
+BWA,Starlink,Botswana,satellite,LEO satellite,Starlink,,2024-08-30-bwa-starlink-sets-up-shop-market-trembles
+BWA,Starlink,Botswana,satellite,LEO satellite,Starlink,,2024-08-28-bwa-starlink-launches-in-botswana-three-months-after-securing-licence
 CAF,Starlink,Starlink CAR,satellite,,,,2026-09-16-caf-arcep-observatoire-marches-communications-electroniques-s1-2026
 CAF,Starlink,Starlink CAR,satellite,,,,2026-08-14-car-arcep-starlink-illegal-isp-crackdown
 CAF,Starlink,Starlink CAR,satellite,,,,2026-04-29-car-suspends-starlink-roaming-kits-sia
@@ -106,6 +111,9 @@ CIV,OneWeb,OneWeb,other,LEO,Eutelsat,2024 Bayobab (MTN) partnership; no CIV reta
 CIV,SNDI government VSAT WAN,Government IT network (SNDI),other,satellite VSAT,SNDI,government agencies only,2014-12-16-marcopolis-sndi-ceo-interview-egovernment-cote-divoire
 CIV,Amazon Kuiper,,other,,,,2026-04-01-watra-infrastructure-development-working-group-report-2023-2025
 CIV,Yam-Sat CI 01,,other,,,,2026-02-03-alsat-3b-second-satellite-launch--connectingafrica
+CIV,Orange Sat,Cote d'Ivoire,satellite,Eutelsat Konnect GEO,Orange Cote d'Ivoire,50 Mb/s unlimited,2026-01-20-civ-orange-cote-d-ivoire-devoile-orange-sat-une-offre-d-internet-par-satel
+CIV,Starlink,Cote d'Ivoire,satellite,low-orbit satellite,SpaceX,"two plans, two kit models",2026-07-17-civ-internet-starlink-lance-officiellement-ses-services-commerciaux-en-cot
+CIV,Eutelsat Konnect,Cote d'Ivoire,satellite,Konnect GEO 7E,Eutelsat,,2026-04-23-civ-eutelsat-and-mtn-cote-d-ivoire-sign-konnect-agreement
 CMR,Starlink,Starlink Cameroun SARL,satellite,,SpaceX,,2026-07-27-cameroon-starlink-licensing-stalls-sovereignty
 CMR,Starlink,Starlink Cameroun SARL,satellite,,SpaceX,,2025-12-16-cameroon-douane-saisie-kits-starlink
 CMR,Starlink,Starlink Cameroun SARL,satellite,,SpaceX,,2025-12-12-cmr-starlink-convention-concession-art
@@ -120,6 +128,7 @@ CMR,Starlink,Starlink,satellite,,SpaceX,,2026-08-28-cmr-ecofinagency-us-digital-
 CMR,Starlink,Starlink,other,,,,2026-02-24-trb-artac-10th-ordinary-session-kinshasa-ngso-techreviewafrica
 CMR,OneWeb,OneWeb,other,,,,2026-02-24-trb-artac-10th-ordinary-session-kinshasa-ngso-techreviewafrica
 CMR,Amazon Kuiper,Amazon Kuiper,other,,,,2026-02-24-trb-artac-10th-ordinary-session-kinshasa-ngso-techreviewafrica
+CMR,Starlink,Cameroon,satellite,low-orbit satellite,SpaceX,,2026-02-05-cmr-cameroun-29-kits-starlink-saisis-le-pays-durcit-le-controle-sur-l-inte
 COD,Starlink Direct-to-Cell,Starlink Mobile,other,direct-to-cell,Airtel DRC with Starlink,,2026-08-18-airtel-starlink-satellite-mobile-drc
 COD,Starlink Direct-to-Cell,Starlink Mobile,other,direct-to-cell,Airtel DRC with Starlink,,2026-08-16-drc-airtel-starlink-satellite-to-phone-businessinsider
 COD,Starlink,Starlink DRC SA,satellite,,Starlink DRC SA (SpaceX subsidiary),,2026-08-16-drc-airtel-starlink-satellite-to-phone-businessinsider
@@ -155,6 +164,8 @@ COD,Starlink,Starlink,satellite,,,,2025-05-21-forum-jeunes-gouvernance-internet-
 COD,Starlink,Starlink,satellite,,Paratus Rwanda (Rwanda only),,2026-08-18-paratus-rwanda-afpif-2026
 COD,Starlink Mobile,Democratic Republic of the Congo,other,Starlink,Airtel Africa,,2026-10-23-xss-africa-emerges-as-d2d-satellite-battleground
 COD,Starlink,DR Congo,satellite,low-orbit,Starlink,,2026-01-01-cod-tarifs-des-services-internet-rdc
+COD,Starlink,Starlink DRC,satellite,low-orbit constellation,SpaceX,,2026-02-02-cod-autorisation-de-starlink-en-rdc-une-mesure-entre-la-souverainete-numer
+COD,Starlink,DRC,satellite,low-orbit satellite,Starlink DRC S.A. (SpaceX),standard kit; Mini kit,2025-06-04-cod-starlink-live-in-drc
 COG,OneWeb,,other,,Eutelsat,,2025-10-04-arpce-expertise-satellites-leo-eutelsat-oneweb-ldb
 COG,Starlink,,satellite,,SpaceX,,2026-08-31-starlink-16-nouveaux-marches-africains-agenceecofin
 COG,Starlink,,satellite,,SpaceX,,2026-07-17-starlink-launches-27th-african-country-ivory-coast
@@ -163,6 +174,7 @@ COG,Starlink,,satellite,,SpaceX,,2026-05-19-le360-starlink-operationnel-dans-un-
 COG,OneWeb,OneWeb,other,LEO satellite,,,2026-01-17-arpce-seminaire-politique-regulation-technologies-numeriques
 COG,Starlink,Starlink,other,LEO satellite,,,2026-01-17-arpce-seminaire-politique-regulation-technologies-numeriques
 COG,OneWeb,OneWeb,other,LEO satellite,Eutelsat,,2025-10-03-arpce-satellite-leo-regulatory-mission-techafricanews
+COG,Starlink,Congo,satellite,low-orbit satellite,Starlink,,2024-06-25-cog-congo-l-arpce-demantele-une-installation-starlink-non-autorisee-dans-u
 COM,Starlink,Starlink,satellite,LEO satellite network,SpaceX,households and organisations (unlicensed use),2025-06-13-starlink-banned-pending-licence-anrtic-alwatwan
 COM,Starlink,Starlink,satellite,LEO satellite network,SpaceX,,2026-08-31-starlink-16-nouveaux-marches-africains-agenceecofin
 COM,Starlink,Starlink,satellite,LEO satellite network,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
@@ -191,6 +203,7 @@ DZA,Alsat-3B,Alsat-3B,other,,Algeria (ASAL),,2026-02-03-alsat-3b-second-satellit
 DZA,VSAT,VSAT,satellite,,,,2026-01-07-arpce-algeria-annual-report-2024
 DZA,NGSO satellite public network licences (tender),,other,,ARPCE,,2026-04-09-satellite-communications-competition-two-licences-echorouk
 DZA,NGSO satellite public network licences (tender),,other,,ARPCE,,2026-04-09-satellite-communications-market-tender--techreviewafrica
+DZA,ARPCE NGSO tender 01/2026,Algeria,other,NGSO,ARPCE,,2026-04-09-dza-competitive-tender-no-01-2026-ngso-licences
 EGY,Starlink,Starlink,satellite,,SpaceX,,2026-04-30-egypt-online-telecom-starlink-talks-egypttelegraph
 EGY,Starlink,Starlink,satellite,,SpaceX,,2025-06-18-egypt-starlink-mcit-negotiations-egypttelegraph
 ETH,Starlink,Starlink,satellite,low-earth orbit,SpaceX,,2025-07-04-ethiopia-eca-starlink-licence-denial-notice
@@ -214,6 +227,10 @@ GHA,Starlink,Starlink,satellite,,SpaceX,,2026-05-19-uga-independent-starlink-lic
 GHA,Starlink,,other,,,,2024-03-15 Undersea cables for Africa's internet retrace history and leave digital gaps as they connect continents
 GHA,Starlink,,satellite,,SpaceX,,2026-09-03-telecomreviewafrica-non-terrestrial-networks-leo
 GHA,Amazon Leo,Amazon Leo,other,LEO satellite constellation,Amazon,"talks only with the Ghana government, no partnership announced",2026-09-28-gha-ecofin-amazon-leo-broadband-talks
+GHA,Starlink,Ghana,satellite,low-orbit satellite,Starlink,"Standard, Priority, Mobile, Mobile Priority",2024-11-01-gha-frequently-asked-questions-starlink-ghana
+GHA,Starlink,Ghana,satellite,low-orbit,SpaceX,,2023-12-07-gha-starlink-operations-are-illegal-in-ghana
+GHA,Starlink,Ghana,satellite,LEO,SpaceX Starlink GH LTD,,2026-06-17-tza-ghana-and-tanzania-communication-authorities-deepen-collaboration-on-s
+GIN,Starlink,Guinea,satellite,satellite,Starlink,,2024-04-03-gin-guinee-le-regulateur-telecoms-menace-de-sanctionner-les-utilisateurs-d
 GMB,Starlink,Starlink,satellite,,SpaceX,,2026-05-24-gambia-starlink-licence-delayed
 GMB,Starlink,Starlink,satellite,,SpaceX,,2026-05-18-starlink-gambia-future-economic-fear-thepoint
 GMB,Starlink,Starlink,satellite,,SpaceX,,2026-03-03-starlink-gambia-transparency-trust-delay-standard
@@ -232,6 +249,7 @@ GNB,Starlink,Starlink,satellite,LEO satellite,Starlink Guiné-Bissau SARL,,2025-
 GNB,Starlink,Starlink,satellite,,SpaceX,,2026-07-17-starlink-launches-27th-african-country-ivory-coast
 GNB,Starlink,Starlink,satellite,,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
 GNB,Starlink,Starlink,satellite,,,,2025-01-01-gnb-guinea-bissau-digital-watch-observatory
+GNB,Starlink,Guinea-Bissau,satellite,LEO,SpaceX,,2025-09-30-xaf-24-african-countries-that-got-starlink-before-south-africa
 GNQ,Starlink,Starlink,satellite,LEO satellite,SpaceX,,2026-09-15-gnq-equatorial-guinea-starlink-sales-to-run-via-ortel
 GNQ,Starlink,Starlink,satellite,LEO satellite,SpaceX,,2026-09-09-equatorial-guinea-starlink-launch
 GNQ,Starlink,Starlink,satellite,LEO satellite,SpaceX,,2026-09-09-gnq-meta-tax-starlink-ortel-centralisation
@@ -297,6 +315,7 @@ KEN,Starlink Direct-to-Cell,,other,,Airtel Africa / SpaceX,,2026-06-16 Who Owns 
 KEN,Starlink,,satellite,,Paratus Group (installer and service provider),"Murang'a county government, 170 public health facilities",2026-05-30-ken-muranga-starlink-telemedicine
 KEN,OneWeb,,other,,Eutelsat/Bayobab,,2025-05-08-bayobab-uganda-kenya-fiber-connectingafrica
 KEN,AST SpaceMobile Bluewalker,,other,,Safaricom,direct-to-device test,2026-09-03-telecomreviewafrica-non-terrestrial-networks-leo
+KEN,Starlink,Kenya,satellite,Starlink,Starlink Internet Services Kenya,,2024-10-14-ken-starlink-becomes-kenya-s-tenth-largest-isp-one-year-after-launch
 LBR,Starlink,Starlink,satellite,,,,2026-08-19-liberia-lta-satellite-communications-framework
 LBR,Eutelsat OneWeb,Eutelsat OneWeb,satellite,,,,2026-08-19-liberia-lta-satellite-communications-framework
 LBR,Amazon Kuiper,Amazon Kuiper,satellite,,,,2026-08-19-liberia-lta-satellite-communications-framework
@@ -311,6 +330,10 @@ LBR,"Low-orbit satellite internet service (Lot 3, National Single Window)","Cons
 LBR,Starlink school kits,Liberia,other,Starlink,Government of Liberia,,2026-09-23-lbr-boosting-connectivity-in-rural-liberia
 LBR,Starlink at County Land Offices,Liberia,other,Starlink,Liberia Land Authority,,2026-06-26-lbr-swedish-funded-land-reform-project-strengthens-liberia-s-land-governan
 LBR,Starlink at LLA offices,Liberia,other,Starlink,Liberia Land Authority,"Grand Bassa, Margibi, Bong",2025-10-27-lbr-lla-deepens-land-reforms-launches-new-deed-form-guidelines-digital-sys
+LBR,Starlink,Liberia,satellite,,Starlink,,2026-03-03-lbr-lta-pledges-lasting-impact-as-imei-consultations-continue-in-grand-bas
+LBR,Starlink,Liberia,satellite,low-orbit,SpaceX,$40-50 per month,2025-10-02-lbr-after-starlink-liberia-now-seeks-amazon-satellite-internet-entry
+LBR,Starlink,Starlink,satellite,low-orbit satellite,Starlink,,2025-09-29-lbr-u-s-diplomat-engages-lta-on-expanding-telecom-investment
+LBR,Starlink,Liberia,satellite,LEO satellite,SpaceX,,2025-01-10-lbr-starlink-goes-live-in-liberia
 LBY,Starlink,Starlink,satellite,,SpaceX,,2026-09-13-lby-spaceinafrica-starlink-libya-market-entry-on-hold
 LBY,OneWeb,Eutelsat OneWeb,satellite,,Eutelsat,,2026-09-13-lby-spaceinafrica-starlink-libya-market-entry-on-hold
 LBY,Amazon Leo,Amazon Leo (Kuiper),other,,Amazon,,2026-09-13-lby-spaceinafrica-starlink-libya-market-entry-on-hold
@@ -318,6 +341,8 @@ LBY,Starlink,Starlink,satellite,,SpaceX,,2026-07-28-starlink-adds-cote-divoire-a
 LBY,Starlink,Starlink,satellite,,SpaceX,,2026-07-17-starlink-launches-27th-african-country-ivory-coast
 LBY,Starlink,Starlink,satellite,,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
 LBY,Arabsat-6A,Arabsat-6A HTS capacity at 30.5E,other,,ARABSAT,"LTT connectivity, government, enterprise, telecom operators",2026-08-07-arabsat-and-ltt-sign-strategic-partnership-to-strengthen-libyas-digital-infrastructure
+LBY,Eutelsat OneWeb,OneWeb,satellite,LEO,Eutelsat,,2026-02-27-lby-rawafed-strengthens-digital-backbone-of-libya-s-oil-and-gas-fields
+LBY,Eutelsat OneWeb,Libya,satellite,LEO,Eutelsat Group,,2023-12-13-lby-eutelsat-oneweb-signs-multi-million-dollar-exclusive-distribution-agre
 LSO,Starlink,Starlink,satellite,,SpaceX,,2026-10-09-lso-spaceinafrica-vodacom-lesotho-starlink-enterprise
 LSO,Starlink,Enterprise Satellite Connectivity,satellite,,SpaceX,,2026-08-26-thereporter-vodacom-satellite-broadband
 LSO,Starlink,Starlink,satellite,,SpaceX,,2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally
@@ -332,6 +357,9 @@ LSO,Starlink,Starlink,satellite,,SpaceX,,2026-06-29-starlink-africa-availability
 LSO,Starlink,Starlink,satellite,,SpaceX,,2026-06-15 Starlink drives African broadband speeds higher
 LSO,Starlink,Starlink,satellite,,SpaceX,,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux
 LSO,Starlink enterprise connectivity (Paratus Lesotho),Starlink,satellite,Starlink LEO,Paratus Lesotho (Real Image Lesotho and Paratus Group),enterprise,2026-11-05-paratus-lesotho-opens-for-business-with-starlink
+LSO,Starlink,Lesotho,satellite,LEO,Starlink Holdings Netherlands B.V.,,2026-11-12-lso-above-1-000m-can-starlink-resellers-solve-lesotho-s-connectivity-probl
+LSO,Starlink,Lesotho,satellite,low-orbit satellite,Starlink Lesotho (Pty) Ltd (SpaceX),"standard kit, Minikit, residential plan",2025-06-25-lso-starlink-lights-up-lesotho
+LSO,Starlink Lesotho,Lesotho,satellite,Starlink,Starlink Lesotho (pty) Ltd,,2025-04-14-lso-public-announcement-licensing-of-the-first-satellite-internet-service
 MAR,Starlink,Starlink,satellite,,SpaceX (Starlink Internet Services Morocco),,2026-05-20-morocco-starlink-observation-anrt-challenge
 MAR,Starlink,Starlink,satellite,,SpaceX (Starlink Internet Services Morocco),,2026-04-16-morocco-starlink-subsidiary-maroc-hebdo
 MAR,Starlink,Starlink,satellite,,SpaceX (Starlink Internet Services Morocco),,2026-03-16-morocco-starlink-anrt-status-medias24
@@ -351,6 +379,10 @@ MDG,Starlink,Starlink,satellite,LEO,SpaceX,,2026-07-17-starlink-launches-27th-af
 MDG,Starlink,Starlink kit,other,,Ministry of Digital Development (MNDPT),National Assembly (government site),2026-09-30-mdg-assemblee-equipements-numeriques
 MDG,Starlink Direct-to-Cell,,other,,Airtel Madagascar / SpaceX,,2026-09-03-telecomreviewafrica-non-terrestrial-networks-leo
 MDG,Starlink Direct to Cell,"direct-to-cell satellite connectivity (Airtel Madagascar + SpaceX trial, Sadabe, 2026-07-11)",other,,SpaceX / Airtel Madagascar,,2026-07-15-direct-to-cell-satellite-trial-telecomreviewafrica
+MDG,Starlink,Madagascar,satellite,low-orbit satellite,Starlink,,2025-02-04-mdg-internet-stephanie-delmotte-attend-plus-dinvestissements-economiques-e
+MDG,Starlink,Madagascar,satellite,LEO satellite,Starlink,,2024-07-10-mdg-lartec-recommande-aux-usagers-de-passer-uniquement-par-le-site-web-de
+MDG,Starlink,Madagascar,satellite,LEO satellite,SpaceX,,2024-07-01-mdg-starlink-beams-into-madagascar
+MDG,Starlink,Madagascar,satellite,LEO constellation,Starlink Madagascar,,2024-05-03-mdg-starlink-madagascar-obtient-sa-licence-internet-satellite-moyennant-10
 MLI,Starlink,Starlink,satellite,,SpaceX,,2026-07-02-amrtp-controle-saisie-wifi-zone-starlink-talkie-walkie
 MLI,Starlink,Starlink,satellite,,SpaceX,,2026-03-13-amrtp-rappelle-interdiction-starlink-wifi-zone
 MLI,Starlink,Starlink,satellite,,SpaceX,,2026-02-26-amrtp-mali-interdiction-equipements-telecommunication-starlink-marches-bamako
@@ -358,6 +390,9 @@ MLI,Starlink,Starlink,satellite,,SpaceX,,2024-10-10-mali-starlink-levee-interdic
 MLI,Starlink,Starlink,satellite,,SpaceX,,2026-08-31-starlink-16-nouveaux-marches-africains-agenceecofin
 MLI,Starlink,Starlink,satellite,,SpaceX,,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux
 MLI,Intelsat,Orange Mali 3G/4G over satellite,other,,Orange Mali / Intelsat,,2025-05-07-techafricanews-orange-mali-intelsat-4g-satellite
+MLI,Starlink,Mali,satellite,low-orbit satellite,,,2026-03-12-mli-securite-nationale-et-de-souverainete-lusage-ou-la-vente-des-kits-star
+MLI,Starlink,Starlink,other,low-orbit satellite,SpaceX,,2024-10-10-mli-mali-lamrtp-annonce-la-levee-temporaire-de-la-suspension-des-kits-star
+MLI,Starlink,Mali,satellite,low-orbit satellite,,,2024-04-02-mli-commercialisation-incontrolee-et-illicite-de-kit-starlink-le-gouvernem
 MOZ,Starlink,Starlink,other,Starlink terminals,SpaceX (donated); INCM deployed,flood accommodation and coordination centres,2026-02-19-starlink-vodacom-flood-response-clubofmozambique
 MOZ,Starlink,Starlink,satellite,LEO satellite,SpaceX,"enterprise, SMB, rural communities via Vodacom resale",2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally
 MOZ,Starlink Direct-to-Cell,Direct-to-Cell,other,,SpaceX with Airtel Africa,,2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally
@@ -372,15 +407,20 @@ MOZ,Globalstar,,other,,Globalstar,,2026-04-14 Amazon's $9bn satellite deal set t
 MOZ,Starlink,Starlink,satellite,,SpaceX,,2026-04-14 Amazon's $9bn satellite deal set to benefit Africa
 MOZ,ANGOSAT-2,ANGOSAT-2,other,,Angola (GGPEN),Tmcel proof of concept; TVM broadcast proof of concept,2026-08-25-tmcel-angosat2-satellite-trials-itweb
 MOZ,ANGOSAT-2,ANGOSAT-2,other,,Angola (GGPEN),Boane Earth Station operational tests; INCM,2026-06-23-angola-mozambique-space-and-digital-cooperation-mous
+MOZ,Starlink,Mozambique,satellite,LEO,SpaceX,,2025-02-17-moz-economic-and-policy-aspects-of-providing-high-speed-internet-connectiv
+MOZ,SATCOM,Mozambique,satellite,VSAT,SATCOM,,2025-02-17-moz-economic-and-policy-aspects-of-providing-high-speed-internet-connectiv
 MRT,Starlink,Starlink,satellite,LEO,SpaceX,,2026-09-15-mrt-maurinews-starlink-mauritanie-16-pays
 MRT,Starlink,Starlink,satellite,LEO,SpaceX,,2026-01-29-satellite-internet-licence-tender-are-techafricanews
 MRT,Starlink,Starlink,satellite,LEO,SpaceX,,2026-08-31-starlink-16-nouveaux-marches-africains-agenceecofin
 MRT,Starlink,Starlink,satellite,LEO,SpaceX,,2026-07-17-starlink-launches-27th-african-country-ivory-coast
 MRT,Starlink,Starlink,satellite,LEO,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
 MRT,BRAINSAT,BRAINSAT,other,,BRAINSAT,"provisionally selected, not yet definitively licensed, for lot 1 (geostationary mobile satellite personal communications) and lot 2 (sale of satellite capacity)",2026-07-07-mauritanie-trois-entreprises-selectionnees-services-telecoms-satellite
+MRT,Starlink,Mauritania,satellite,LEO satellite,SpaceX,,2024-02-23-mrt-vente-d-appareils-radioelectriques-non-homologues-et-exploitation-de-r
 MUS,Eutelsat OneWeb,OneWeb ground station,other,,EMTEL,,2026-08-28-platformafrica-emtel-icta-st-brandon-connectivity
 MUS,"LEO satellite link, Raphael Island (Emtel, USF-funded)",Procurement of Internet Services on Raphael Island,other,LEO satellite (operator not named),"Emtel Ltd, contracted by ICTA","National Coast Guard radar, NCG, meteorological services, Raphael Fishing Co Ltd",2026-08-30-lexpress-saint-brandon-lile-raphael-se-connecte-a-internet
 MUS,OneWeb,"OneWeb, through its local partner",satellite,low-orbit satellite broadband,"Eutelsat OneWeb, through a licensed local internet provider not named",,2026-08-23-mus-lexpress-sookun-starlink-interview
+MUS,Emtel with Eutelsat OneWeb LEO,Maurice,satellite,OneWeb LEO,Emtel / Eutelsat,,2025-06-06-mus-maurice-emtel-introduit-linternet-par-satellite-avec-le-soutien-deutel
+MUS,Emtel Internet Service via Satellite,Mauritius,satellite,Kymeta and OneWeb terminals,Emtel Ltd,"Enterprise, Dedicated",2025-05-28-mus-approved-tariffs-emtel-internet-via-satellite-280525
 MWI,Starlink,Starlink,satellite,LEO constellation,SpaceX,30 rural schools,2026-06-18-malawi-starlink-rural-schools
 MWI,Starlink,Starlink,satellite,LEO constellation,SpaceX,,2026-07-17-starlink-launches-27th-african-country-ivory-coast
 MWI,Starlink,Starlink,satellite,LEO constellation,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
@@ -419,6 +459,8 @@ NAM,Starlink,Starlink,satellite,LEO satellite,SpaceX,,2024-11-28-namibia-starlin
 NAM,Starlink,Starlink,satellite,LEO satellite,SpaceX,,2024-11-28-namibia-starlink-stop-services-bi-africa
 NAM,Starlink,Starlink,satellite,LEO satellite,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
 NAM,Paratus Yursat Adapt,Namibia,satellite,VSAT,Paratus Namibia,,2025-12-02-nam-cran-approves-revised-tariff-structures-for-telecom-operator
+NAM,Eutelsat OneWeb,Namibia,satellite,LEO satellite,Eutelsat,Business Broadband,2026-03-10-nam-a-new-era-of-connectivity-q-kon-s-partners-secure-leo-licenses-to-laun
+NAM,Starlink,Namibia,satellite,low-orbit satellite,Starlink Internet Services Namibia (Pty) Ltd,,2026-03-23-nam-government-gazette-of-the-republic-of-namibia-no-8872
 NER,Starlink by Airtel,Starlink by Airtel,satellite,,Airtel Niger / SpaceX,,2026-01-18-airtel-niger-starlink-by-airtel-launch-actuniger
 NER,Starlink,Starlink,satellite,,SpaceX,,2025-09-09-arcep-crackdown-pirate-starlink-wifi-zones-actuniger
 NER,Starlink,Starlink,satellite,,SpaceX; distributor NINETEC,,2025-05-06-ninetec-nine-starlink-kit-distribution-lesahel
@@ -430,6 +472,9 @@ NER,Starlink,Starlink,satellite,LEO satellite constellation,SpaceX,residential a
 NER,Starlink,Starlink,satellite,LEO satellite constellation,SpaceX,residential and corporate,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux
 NER,Starlink,Starlink,satellite,low-orbit,Starlink,,2025-10-14-ner-le-niger-intensifie-ses-efforts-pour-generaliser-l-acces-aux-services
 NER,Starlink,Starlink,satellite,,,,2025-02-27-ner-bilan-2024-du-ministere-de-la-communication-adoption-d-une-politique-n
+NER,Starlink,Niger,satellite,LEO satellite,SpaceX,"mini, standard, professional, high performance kits",2025-10-03-ner-deploiement-du-systeme-starlink-et-emergence-des-wifi-zones-au-niger-e
+NER,Starlink,Niger,satellite,Starlink,Starlink Niger SARLU,,2024-11-21-ner-internet-le-niger-accorde-a-la-societe-starlink-niger-sarlu-une-licenc
+NER,Starlink Niger SARLU,Niger,satellite,low-orbit satellite,Starlink Niger SARLU,,2024-11-21-ner-decret-2024-728-licence-starlink-niger-sarlu
 NGA,Starlink,Starlink,other,LEO satellite,SpaceX via third-party providers; pilot by NuRAN Wireless and Infratel,rural mobile sites,2026-09-24-nga-nuran-wireless-starlink-backhaul-pilot
 NGA,Amazon Kuiper,Project Kuiper,satellite,"LEO constellation, Ka-band",Kuiper Systems LLC (Amazon),,2026-01-15-ncc-amazon-kuiper-landing-permit
 NGA,Starlink,Starlink,satellite,LEO satellite,SpaceX,households,2025-12-31-starlink-biometric-66000-subscribers
@@ -489,6 +534,8 @@ NGA,NIGCOMSAT-2A/2B,NIGCOMSAT-2A and NIGCOMSAT-2B,other,,NIGCOMSAT,,2026-08-25-c
 NGA,NIGCOMSAT-2A/2B,NIGCOMSAT-2A and NIGCOMSAT-2B,other,,NIGCOMSAT,,2026-08-24-nigeria-iai-thales-alenia-space-deux-satellites-wearetech
 NGA,NIGCOMSAT-2A/2B,"NIGCOMSAT-2A, NIGCOMSAT-2B",other,high-throughput GEO satellites,NIGCOMSAT,,2026-08-22-saharareporters-nigcomsat-2a-2b-approval
 NGA,NIGCOMSAT-1R,Nigeria,,,NIGCOMSAT,,2021-03-01-nga-fmcde-national-policy-vsat-installation-core-skills
+NGA,Starlink,Nigeria,satellite,LEO constellation,Starlink Internet Services Nigeria Limited,,2026-11-13-nga-ground-segment
+NGA,OneWeb,Nigeria,satellite,LEO constellation,Airtel Networks Limited,,2026-11-13-nga-ground-segment
 RWA,Starlink,Starlink,satellite,,SpaceX,,2026-02-17-bsc-starlink-reseller-newtimes
 RWA,Starlink,Starlink,satellite,,SpaceX,,2026-07-17-starlink-launches-27th-african-country-ivory-coast
 RWA,Starlink,Starlink,satellite,,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
@@ -511,6 +558,7 @@ SDN,YahClick,YahClick,satellite,Hughes Jupiter,Yahsat,,2023-01-30-yahclick-canar
 SDN,YahClick,YahClick,satellite,,Yahsat,,2023-01-23-yahsat-sdn-2023-canar-satellite-broadband
 SDN,Starlink,Starlink,satellite,,SpaceX,,2026-07-28-starlink-adds-cote-divoire-and-seychelles-reaching-28-african-countries
 SDN,Starlink,Sudan,satellite,satellite,SpaceX,,2026-04-15-sdn-shutdown-sudan-internet-connectivity-curtailed-during-examination-peri
+SDN,Starlink,Starlink,satellite,low-orbit satellite,SpaceX,,2026-02-05-sdn-starlink-on-the-ruins-of-sudans-networks
 SEN,Starlink,Starlink Senegal,satellite,,SpaceX / Starlink Senegal Suarl,,2026-09-09-sonatel-starlink-senegal-licence-suspension
 SEN,"Eutelsat OneWeb gateway, Gandoul teleport",,other,,Sonatel,,2026-07-10-techafricanews-sonatel-gandoul-oneweb
 SEN,Starlink,Starlink Senegal,other,,State programme,,2026-04-11-lesoleil-alioune-sall-kolda-starlink
@@ -540,6 +588,9 @@ SEN,Starlink Senegal,Senegal,satellite,low-orbit constellation,Starlink,,2026-10
 SEN,Sonatel satellite offer,Senegal,satellite,Eutelsat,Sonatel,,2026-10-18-sen-laffaire-starlink-revelateur-des-defis-de-la-regulation-satellitaire-a
 SEN,Starlink,Senegal,satellite,low-orbit satellite,Starlink,,2026-11-11-sen-starlink-suspended-in-senegal
 SEN,Starlink,Senegal,satellite,low-orbit satellite,Starlink,,2026-11-09-sen-licence-starlink-100-millions-de-fcfa-un-montant-reste-confidentiel
+SEN,Starlink,Senegal,satellite,low-orbit satellite,Starlink,,2026-10-05-sen-satellite-et-reseaux-terrestres-le-senegal-ajuste-son-cadre-reglementa
+SEN,Starlink,Senegal,satellite,LEO satellite,SpaceX,,2026-02-05-sen-deploiement-de-starlink-l-etat-assure-que-toutes-les-regles-ont-ete-re
+SEN,Starlink,Starlink,satellite,low-orbit satellite,Starlink,,2026-02-05-sen-lamine-sene-fdsut-des-la-delivrance-de-l-autorisation-starlink-integre
 SLE,Starlink via ELCOME SL contract,Starlink,other,Starlink,ELCOME SL Ltd,12 public and private universities under a government agreement,2025-01-31-starlink-university-internet-elcome
 SLE,Starlink,Starlink,other,Starlink,Ministry of Health,"government health facilities, 300+ planned",2026-07-28-health-minister-starlink-jmb-pediatric-hospital
 SLE,Starlink,Starlink,other,Starlink,Ministry of Health,300 government health facilities,2026-07-27-demby-launches-starlink-300-health-facilities
@@ -548,6 +599,8 @@ SLE,Starlink,Starlink,satellite,LEO,SpaceX,,2026-06-29-starlink-africa-availabil
 SLE,Starlink,Starlink,satellite,LEO,SpaceX,,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux
 SLE,Starlink,Starlink,satellite,LEO,SpaceX,,2025-10-03-sierra-leone-moice-digital-leap-minister-bah-connectivity-update
 SLE,Starlink,Starlink,satellite,,,clinics; schools; farmers,2026-03-13-natca-spectrum-pricing-mwc-barcelona
+SLE,Starlink,Sierra Leone,satellite,LEO satellite,Starlink,,2024-09-17-sle-global-internet-service-provider-starlink-now-licensed-to-operate-in-s
+SLE,Starlink,Sierra Leone,satellite,LEO satellite,SpaceX,"Standard, Mobile",2024-06-11-sle-how-to-order-and-pay-for-starlink-internet-subscription-in-sierra-leon
 SOM,Starlink,Starlink,satellite,low-Earth orbit constellation,SpaceX,"households, businesses, schools, humanitarian organisations, government offices",2025-09-24-astaanconnect-starlink-reseller
 SOM,Starlink,Starlink,satellite,LEO constellation,SpaceX,,2025-08-05-starlink-launches-somalia-rural
 SOM,Starlink,Starlink,satellite,LEO constellation,SpaceX,,2025-04-14-starlink-license-somalia
@@ -558,6 +611,9 @@ SOM,Starlink,Starlink,satellite,LEO,SpaceX,,2026-07-17-starlink-launches-27th-af
 SOM,Starlink,Starlink,satellite,LEO,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
 SOM,Starlink,Starlink,satellite,LEO,SpaceX,,"2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa"
 SSD,Starlink,Starlink,other,,,,2025-07-03-nca-internet-growth-figures-eyeradio
+SSD,Starlink,South Sudan,satellite,SpaceX Starlink,"SpaceX, sold by MTN South Sudan",,2025-10-07-ssd-starlink-now-available-nationwide-through-mtn-south-sudan
+SSD,Starlink,South Sudan,satellite,low-orbit satellite,SpaceX,,2024-10-31-ssd-starlink-au-soudan-du-sud-une-petite-avancee-dans-l-un-des-pays-les-mo
+SSD,Starlink,South Sudan,satellite,LEO satellite,SpaceX,"Standard, Priority, Mobile, Mobile Priority",2024-07-09-ssd-south-sudan-unveils-approved-starlink-tariffs
 STP,Starlink,Starlink,satellite,,SpaceX,,2025-12-11-starlink-begins-service-stp
 STP,Starlink,Starlink,satellite,,SpaceX,,2025-02-24-starlink-pretende-investir-stp-eua
 STP,Starlink,Starlink,other,,,civil registry brigade,2026-01-22-campanha-bi-gratuito-ilheu-das-rolas
@@ -570,6 +626,8 @@ STP,Starlink,Starlink,satellite,,SpaceX,,2026-01-28-us-embassy-charge-daffaires-
 SWZ,Starlink satellite gateway,Satellite Gateway (Starlink initiative),other,Starlink LEO,Government of Eswatini,"remote schools, clinics, businesses",2026-04-28-eswatini-commissions-starlink-satellite-gateway
 SWZ,Paratus EduLINK,Paratus EduLINK,other,Starlink,Paratus Eswatini,schools in underserved areas,2025-07-30-paratus-eswatini-drives-starlink-business-adoption
 SWZ,Paratus EduLink,Paratus EduLink,other,Starlink,Paratus (reseller),schools,2026-06-27-starlink-rural-africa-impact-techtrends
+SWZ,Starlink,Eswatini,satellite,low-orbit,SpaceX,"residential, business",2023-12-20-swz-eighth-african-country-gets-starlink-before-south-africa-with-rand-pri
+SWZ,Starlink,Eswatini,satellite,Starlink,Paratus Eswatini,,2024-11-06-swz-paratus-group-announces-its-joint-venture-with-real-image-and-launches
 SYC,Starlink,Starlink,satellite,low-Earth-orbit constellation,SpaceX,households and businesses,2026-07-24-seychelles-starlink-begins-operations
 SYC,Starlink,Starlink,satellite,low-Earth-orbit constellation,SpaceX,households and businesses,2026-07-22-starlink-seychelles-launch
 SYC,Starlink,Starlink,satellite,low-Earth-orbit constellation,SpaceX,households and businesses,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux
@@ -588,6 +646,7 @@ TCD,Starlink,Chad,satellite,low-orbit satellite,Starlink,,2025-08-29-tcd-telecom
 TCD,Starlink,Chad,satellite,,,,2026-10-26-tcd-ndjamena-les-habitants-se-tournent-vers-le-wi-fi-prive-face-aux-defail
 TCD,VSAT,Chad,satellite,,,,2026-10-26-tcd-ndjamena-les-habitants-se-tournent-vers-le-wi-fi-prive-face-aux-defail
 TCD,Starlink,Chad,satellite,low-orbit satellite,SpaceX,,2025-05-01-tcd-connectivite-au-tchad-entre-vulnerabilite-et-ambitions-de-transformati
+TCD,Starlink,Chad,satellite,Starlink,Starlink Tchad SARL,,2025-07-01-tcd-situation-update
 TGO,Starlink,Starlink,satellite,LEO satellite,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
 TUN,Starlink,Starlink,satellite,LEO,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
 TUN,Starlink,Starlink,satellite,LEO,SpaceX,,2026-06-24-namibia-shuts-door-starlink-twice-cioafrica
@@ -755,3 +814,5 @@ ZWE,Starlink,Starlink,satellite,,SpaceX,,2026-04-07 Zimbabwe switches on free wi
 ZWE,Starlink,Starlink Pilot Program,other,,,"one remote health facility, Matabeleland South",2025-11-14-ehr-impilo-coverage-matabeleland-south
 ZWE,Starlink,Zimbabwe,satellite,,,,2025-07-24-zwe-ict-ministry-donates-250-starlink-kits-to-local-authorities
 ZWE,Starlink,Zimbabwe,satellite,low-orbit satellite,Starlink,,2025-01-01-zwe-zimbabwe-freedom-on-the-net-2025-country-report
+ZWE,Starlink,Zimbabwe,satellite,low-orbit satellite,Starlink,"residential, business, roaming",2025-10-06-zwe-harare-residents-how-to-get-starlink-even-though-kits-are-sold-out
+ZWE,Starlink,Zimbabwe,satellite,LEO satellite,Starlink,,2024-09-19-zwe-zim-s-telone-becomes-starlink-authorised-reseller

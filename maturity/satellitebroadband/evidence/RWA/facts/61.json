@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-14-xaf-starlink-expanding-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "TeleGeography says Starlink launched commercially in Rwanda in 2023 after being licensed.",
+   "as_of": "2023-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "TeleGeography cites the Rwanda Utilities Regulatory Authority as reporting 4,503 Starlink subscriptions at end of March 2025.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

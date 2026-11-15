@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-03-ner-deploiement-du-systeme-starlink-et-emergence-des-wifi-zones-au-niger-e",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Niger's government granted Starlink a licence on 21 November 2024, per Le Sahel.",
+   "as_of": "2024-11-21",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "NINETEC is the authorised distributor in Niger selling Starlink kits and professional subscriptions, per its strategy director.",
+   "as_of": "2025-10-03",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Niger",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": "mini, standard, professional, high performance kits"
+  }
+ ],
+ "note": ""
+}

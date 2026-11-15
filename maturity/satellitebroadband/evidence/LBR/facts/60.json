@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-10-lbr-starlink-goes-live-in-liberia",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Space in Africa reports the Liberia Telecommunications Authority signed a one-year licensing agreement with Starlink, which is announced as officially operational.",
+   "as_of": "2025-01-10",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Liberia",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

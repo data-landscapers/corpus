@@ -21,9 +21,9 @@ The African Telecommunications Union's Recommendation ATU-R 005-0 (2021) asks me
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 4 |
+| 4 Operating | 5 |
 | 3 Established | 32 |
-| 2 Nascent | 2 |
+| 2 Nascent | 1 |
 | 1 Absent | 15 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -49,6 +49,13 @@ Satellite broadband licensed and on sale by 2026, on two satellite networks.
 
 - MyBroadband's Starlink status table of 17 July 2026 lists Madagascar as 'Available' for Starlink ([source, 2026-07-17](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html)).
 - Airtel Madagascar, through Airtel Business, delivers enterprise satellite internet over the Eutelsat OneWeb low Earth orbit constellation in Madagascar, with installation, onboarding and technical support; the article gives no date other than its publication on 2026-06-01 ([source, 2026-06-01](https://techafricanews.com/2026/06/01/airtel-madagascar-and-eutelsat-deepen-push-for-rural-broadband-access/)).
+
+### Mozambique: 4 Operating
+
+Satellite broadband licensed and on sale by 2025 on two satellite networks; a regulator's count of subscribers is not known.
+
+- INCM states the market is hybrid, with SATCOM (500+ VSATs, established 1999) competing with Starlink, whose rural broadband it contrasts with SATCOM's ([source, 2025-02-17](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2025/0217/Documents/03-Joaquim%20Zindoga.pdf)).
+- MyBroadband's table of Starlink status in African countries lists Mozambique as Available as of 17 July 2026 ([source, 2026-07-17](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html)).
 
 ### South Africa: 4 Operating
 
@@ -154,17 +161,18 @@ Satellite broadband licensed and on sale by 2026, on one satellite network.
 
 - MyBroadband's Starlink status table lists Malawi as Available on 17 July 2026 (Starlink satellite internet on sale); the article gives no provider other than Starlink and no date of launch ([source, 2026-07-17](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html)).
 
+### Mauritius: 3 Established
+
+Satellite broadband licensed and on sale by 2025, on one satellite network; a regulator's count of subscribers is not known.
+
+- Agence Ecofin reports Emtel, with Eutelsat's OneWeb ground network in Mauritius, officially launched low-orbit satellite internet connectivity services across Mauritius on 4 June 2025, a first for the country ([source, 2025-06-04](https://www.agenceecofin.com/actualites-numerique/0606-129017-maurice-emtel-introduit-l-internet-par-satellite-avec-le-soutien-d-eutelsat)).
+- ICTA's approved ISP tariff sheet lists Emtel Ltd's Internet Service via Satellite on Kymeta and OneWeb (OW 70 L) terminals at USD 1,150 to 54,000 a month excluding VAT, effective 28 May 2025 ([source, 2025-05-28](https://www.icta.mu/documents/2025/06/tariffs_emtel_satellite_isp_280525.pdf)).
+
 ### Morocco: 3 Established
 
 Satellite broadband licensed and on sale by 2024, on one satellite network.
 
 - The minister said any customer in areas without terrestrial broadband can get financial support of up to 2,500 dirhams per subscription to satellite internet from an approved provider under the VSAT initiative ([source, 2024-12-23](https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/)).
-
-### Mozambique: 3 Established
-
-Satellite broadband licensed and on sale by 2026, on one satellite network.
-
-- MyBroadband's table of Starlink status in African countries lists Mozambique as Available as of 17 July 2026 ([source, 2026-07-17](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html)).
 
 ### Namibia: 3 Established
 
@@ -258,12 +266,6 @@ A satellite broadband provider licensed by 2026, with no service on sale held.
 
 - State-owned Algerie Telecom Satellite (VSAT and GMPCS licences) and Djezzy (VSAT licence, to connect isolated sites with connectivity services mainly for businesses) are the only companies authorised to provide satellite services in Algeria; no licence date is given, so the article date is used ([source, 2026-04-10](https://www.agenceecofin.com/actualites-numerique/1004-137437-services-telecoms-par-satellite-l-algerie-ouvre-la-porte-a-de-nouveaux-acteurs)).
 
-### Mauritius: 2 Nascent
-
-OneWeb was authorised and operating through a local provider in 2026; no source found says whether households or businesses can buy it.
-
-- ICTA's executive director told L'Express that, under the authority's decision of 22 May 2025 on non-geostationary satellite broadband, service must be provided through a licensed Mauritian internet provider with an earth-station licence for each terminal, and that OneWeb has been authorised and is operating through its local partner; he does not say who buys the service ([source, 2026-08-23](https://lexpress.mu/s/atishay-sookun-starlink-est-le-bienvenu-a-maurice-sil-respecte-nos-regles-561795)).
-
 ### Burkina Faso: 1 Absent
 
 A 2026 source says satellite broadband is not licensed or is banned.
@@ -338,9 +340,9 @@ A 2026 source says satellite broadband is not licensed or is banned.
 
 ### Tanzania: 1 Absent
 
-A 2024 source says satellite broadband is not licensed or is banned.
+In 2026 Starlink still awaited a licence and no satellite broadband provider is licensed; whether one will be is not known.
 
-- TCRA publicly confirmed in November 2024 that Starlink Satellite Tanzania Limited had applied for national network facilities and national application services licences; the article (8 Oct 2026) describes the process as being revived and reports no licence granted ([source, 2024-11](https://doingbusiness.co.tz/tanzania-eyes-starlink-as-spacex-expands-satellite-internet-across-africa)).
+- Starlink had not received an operating licence in Tanzania, its November 2024 application remaining under review, per Today SW citing a June 2026 report ([source, 2026-10-08](https://www.todaysw.com/2026/10/08/tanzania-opens-new-talks-with-elon-musks-spacex-and-starlink-over-investment-in-communications-sector/)).
 
 ### Togo: 1 Absent
 

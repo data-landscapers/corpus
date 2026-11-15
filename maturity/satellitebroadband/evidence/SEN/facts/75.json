@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-05-sen-satellite-et-reseaux-terrestres-le-senegal-ajuste-son-cadre-reglementa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The document says an authorisation was granted to Starlink in Senegal, which Sonatel challenged in court and which the unions queried in February 2026.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "The Supreme Court ordered the provisional suspension of Starlink's authorisation on 7 September 2026, finding a serious doubt over its legality.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Senegal",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,16 +1,17 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "satellite",
-   "stage": "1",
-   "service": "none",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-satellitebroadband.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "satellite",
+      "stage": "1",
+      "service": "none",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-002",
+      "gaps": "No source found names any satellite broadband provider licensed in Tanzania.",
+      "note": "Starlink applied in November 2024 and, as of October 2026, still had no operating licence; no other provider is named as licensed. Stage 1 rests on that dated statement of absence.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

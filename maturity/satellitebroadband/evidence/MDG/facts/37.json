@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-10-mdg-lartec-recommande-aux-usagers-de-passer-uniquement-par-le-site-web-de",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Starlink recently obtained its licence to operate in Madagascar, per the 2424.mg report on the Artec communique.",
+   "as_of": "2024-07-10",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink services have been officially accessible in Madagascar via its website since late June 2024, with a residential plan from 226,000 ariary a month.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Madagascar",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

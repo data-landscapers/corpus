@@ -10,3 +10,6 @@ NER,Starlink,Starlink,satellite,LEO satellite constellation,SpaceX,residential a
 NER,Starlink,Starlink,satellite,LEO satellite constellation,SpaceX,residential and corporate,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux
 NER,Starlink,Starlink,satellite,low-orbit,Starlink,,2025-10-14-ner-le-niger-intensifie-ses-efforts-pour-generaliser-l-acces-aux-services
 NER,Starlink,Starlink,satellite,,,,2025-02-27-ner-bilan-2024-du-ministere-de-la-communication-adoption-d-une-politique-n
+NER,Starlink,Niger,satellite,LEO satellite,SpaceX,"mini, standard, professional, high performance kits",2025-10-03-ner-deploiement-du-systeme-starlink-et-emergence-des-wifi-zones-au-niger-e
+NER,Starlink,Niger,satellite,Starlink,Starlink Niger SARLU,,2024-11-21-ner-internet-le-niger-accorde-a-la-societe-starlink-niger-sarlu-une-licenc
+NER,Starlink Niger SARLU,Niger,satellite,low-orbit satellite,Starlink Niger SARLU,,2024-11-21-ner-decret-2024-728-licence-starlink-niger-sarlu

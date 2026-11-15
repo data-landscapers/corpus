@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-27-bdi-pourquoi-media-box-est-le-seul-revendeur-agree-de-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "ARCT's director general said Media Box was confirmed with Starlink and ARCT as the sole official reseller of Starlink kits in Burundi, sold in local currency.",
+   "as_of": "2024-12-24",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

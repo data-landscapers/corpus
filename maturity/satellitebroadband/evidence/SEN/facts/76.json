@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-05-sen-deploiement-de-starlink-l-etat-assure-que-toutes-les-regles-ont-ete-re",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARTP director general Dahirou Thiam says Starlink was authorised under a terms-of-reference the regulator drew up.",
+   "as_of": "2026-02-05",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "APS reports Starlink satellite broadband is now available in Senegal.",
+   "as_of": "2026-02-05",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Senegal",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

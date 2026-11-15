@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-12-lso-above-1-000m-can-starlink-resellers-solve-lesotho-s-connectivity-probl",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Capacity says the Lesotho Communications Authority granted Starlink a 10-year licence in April 2025.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Capacity says Paratus's Starlink-based Essential Access has been available in Lesotho since April 2026, and T-Connect was an earlier authorised reseller.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Lesotho",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "Starlink Holdings Netherlands B.V.",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

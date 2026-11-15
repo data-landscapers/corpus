@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-23-nam-government-gazette-of-the-republic-of-namibia-no-8872",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Namibia",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "Starlink Internet Services Namibia (Pty) Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": "CRAN declined one applicant's licences; the gazette does not say no provider is licensed."
+}

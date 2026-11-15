@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-07-ssd-starlink-now-available-nationwide-through-mtn-south-sudan",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Amnons Business Report says MTN South Sudan's Starlink partnership launched in September 2024 following approval from the National Communications Authority.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Starlink via MTN South Sudan",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "MTN South Sudan announced nationwide sale of Starlink kits and subscriptions through its customer service and Connect Stores.",
+   "as_of": "2025-10-07",
+   "date_precision": "day",
+   "system": "Starlink via MTN South Sudan",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "South Sudan",
+   "class": "satellite",
+   "platform": "SpaceX Starlink",
+   "owner": "SpaceX, sold by MTN South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

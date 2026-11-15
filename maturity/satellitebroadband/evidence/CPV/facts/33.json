@@ -1,0 +1,27 @@
+{
+ "slug": "2024-12-10-cpv-starlink-now-operational-in-cape-verde",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Regulator ARME announced approval of Starlink Cape Verde and authorisation to provide electronic communications services nationwide.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink officially launched in Cape Verde with kit at CVE 39,000 and residential plans from CVE 3,500 a month.",
+   "as_of": "2024-12-10",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

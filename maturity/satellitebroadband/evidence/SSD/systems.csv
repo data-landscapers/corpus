@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SSD,Starlink,Starlink,other,,,,2025-07-03-nca-internet-growth-figures-eyeradio
+SSD,Starlink,South Sudan,satellite,SpaceX Starlink,"SpaceX, sold by MTN South Sudan",,2025-10-07-ssd-starlink-now-available-nationwide-through-mtn-south-sudan
+SSD,Starlink,South Sudan,satellite,low-orbit satellite,SpaceX,,2024-10-31-ssd-starlink-au-soudan-du-sud-une-petite-avancee-dans-l-un-des-pays-les-mo
+SSD,Starlink,South Sudan,satellite,LEO satellite,SpaceX,"Standard, Priority, Mobile, Mobile Priority",2024-07-09-ssd-south-sudan-unveils-approved-starlink-tariffs

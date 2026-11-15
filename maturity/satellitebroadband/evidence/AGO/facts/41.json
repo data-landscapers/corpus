@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-14-xaf-starlink-expanding-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "TeleGeography says Eutelsat gained a 15-year licence in Angola in July 2025, while Starlink had not launched by October 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Eutelsat",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

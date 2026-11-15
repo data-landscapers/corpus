@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-14-xaf-starlink-expanding-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "TeleGeography says Starlink launched in Nigeria in early 2023 under NCC gateway and ISP licences from May 2022, with 59,509 subscriptions in Q1 2025.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

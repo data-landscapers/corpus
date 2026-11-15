@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-06-swz-paratus-group-announces-its-joint-venture-with-real-image-and-launches",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Paratus Eswatini's MD says the Starlink licence has been signed off by the regulator ESCCOM.",
+   "as_of": "2024-11-06",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Paratus Eswatini says it has Starlink stock and a technical team ready and is receiving dozens of enquiries daily, and that Starlink services have been available for a few months.",
+   "as_of": "2024-11-06",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Eswatini",
+   "class": "satellite",
+   "platform": "Starlink",
+   "owner": "Paratus Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

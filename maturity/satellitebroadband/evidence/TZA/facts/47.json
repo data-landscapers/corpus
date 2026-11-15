@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-08-tza-todaysw-tanzania-talks-spacex-starlink-licence-pending",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink had not received an operating licence in Tanzania, its November 2024 application remaining under review, per Today SW citing a June 2026 report.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

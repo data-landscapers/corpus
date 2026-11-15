@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-01-gha-frequently-asked-questions-starlink-ghana",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The National Communications Authority's Starlink FAQ says customers in Ghana can buy the Starlink kit online or from four named resellers and retailers, with Standard Plan service for households at GHS 770 a month.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Ghana",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "Starlink",
+   "tiers": "Standard, Priority, Mobile, Mobile Priority"
+  }
+ ],
+ "note": ""
+}

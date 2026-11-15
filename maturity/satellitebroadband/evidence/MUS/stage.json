@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "satellite",
-      "stage": "2",
-      "service": "licensed",
+      "stage": "3",
+      "service": "sale",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-001",
-      "gaps": "No source found says households or businesses can buy satellite broadband from a licensed provider.",
-      "note": "Counted from the four questions by study-ladder-satellitebroadband.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MUS-003;MUS-004",
+      "gaps": "No source found says services on two different satellite networks are on sale; Kymeta is a terminal, not a network. No regulator count of subscribers is held.",
+      "note": "Emtel launched OneWeb satellite internet across Mauritius on 4 June 2025 under ICTA-approved tariffs, which answers question 2. Only OneWeb is on sale, so not stage 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

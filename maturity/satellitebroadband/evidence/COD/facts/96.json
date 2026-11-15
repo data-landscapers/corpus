@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-04-cod-starlink-live-in-drc",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The document says the regulator ARPTC granted an operating licence to Starlink DRC S.A., a month before the June 2025 launch.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The document says Starlink officially launched in the DRC and consumers can buy kits and service from its website at CDF 1,130,000 for the standard kit and CDF 144,000 a month.",
+   "as_of": "2025-06-04",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "DRC",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "Starlink DRC S.A. (SpaceX)",
+   "tiers": "standard kit; Mini kit"
+  }
+ ],
+ "note": ""
+}

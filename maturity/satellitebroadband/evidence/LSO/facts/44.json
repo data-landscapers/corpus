@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-14-lso-public-announcement-licensing-of-the-first-satellite-internet-service",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The LCA Board resolved to grant Starlink Lesotho a ten-year licence to run a satellite network and provide satellite internet, with terms still to be finalised.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "Starlink Lesotho",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink Lesotho",
+   "country_label": "Lesotho",
+   "class": "satellite",
+   "platform": "Starlink",
+   "owner": "Starlink Lesotho (pty) Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-30-xaf-24-african-countries-that-got-starlink-before-south-africa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "MyBroadband says Starlink's availability map showed Guinea-Bissau as Available on 29 September 2025.",
+   "as_of": "2025-09-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Guinea-Bissau",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

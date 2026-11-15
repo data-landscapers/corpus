@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-06-mus-maurice-emtel-introduit-linternet-par-satellite-avec-le-soutien-deutel",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Agence Ecofin reports Emtel, with Eutelsat's OneWeb ground network in Mauritius, officially launched low-orbit satellite internet connectivity services across Mauritius on 4 June 2025, a first for the country.",
+   "as_of": "2025-06-04",
+   "date_precision": "day",
+   "system": "Emtel with Eutelsat OneWeb LEO",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Emtel with Eutelsat OneWeb LEO",
+   "country_label": "Maurice",
+   "class": "satellite",
+   "platform": "OneWeb LEO",
+   "owner": "Emtel / Eutelsat",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

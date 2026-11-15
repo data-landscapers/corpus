@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-tcd-situation-update",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARCEP Chad says sale of Starlink services is reserved to Starlink and ARCEP-approved local ISPs, and Starlink equipment import to Starlink Tchad SARL.",
+   "as_of": "2025-07-04",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Chad",
+   "class": "satellite",
+   "platform": "Starlink",
+   "owner": "Starlink Tchad SARL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

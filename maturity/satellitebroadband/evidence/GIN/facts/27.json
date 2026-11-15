@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-03-gin-guinee-le-regulateur-telecoms-menace-de-sanctionner-les-utilisateurs-d",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Guinea's telecoms regulator ARPT ordered all companies selling or installing Starlink kits to stop at once, saying internet access needs prior authorisation and offenders face one to five years' jail and fines of GNF 100m to 1bn.",
+   "as_of": "2024-04-03",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Guinea",
+   "class": "satellite",
+   "platform": "satellite",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

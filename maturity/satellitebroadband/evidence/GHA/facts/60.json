@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-17-tza-ghana-and-tanzania-communication-authorities-deepen-collaboration-on-s",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Space in Africa says Ghana approved the application of SpaceX Starlink GH LTD to provide satellite internet around May 2024.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Space in Africa says Starlink in Ghana has attracted thousands of subscribers.",
+   "as_of": "2026-06-17",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Ghana",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX Starlink GH LTD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

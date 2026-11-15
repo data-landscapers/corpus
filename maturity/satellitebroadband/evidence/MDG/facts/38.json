@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-01-mdg-starlink-beams-into-madagascar",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Connecting Africa reports Starlink announced its service fully operational in Madagascar, with hardware at MGA 1,120,000 and MGA 226,000 a month.",
+   "as_of": "2024-07-01",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Madagascar",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "No regulator subscriber count is stated."
+}

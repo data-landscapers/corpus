@@ -1,16 +1,17 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "satellite",
-   "stage": "3",
-   "service": "sale",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-008",
-   "gaps": "No source found says services on two different satellite networks are on sale.",
-   "note": "Counted from the four questions by study-ladder-satellitebroadband.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "satellite",
+      "stage": "3",
+      "service": "sale",
+      "counted": "counted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-008",
+      "gaps": "No source found says services on two different satellite networks are on sale; the minister said in March 2024 that OneWeb was licensed (GHA-014), but no OneWeb sale has been found.",
+      "note": "Reassessed 2026-11-15, stays 3: Starlink is licensed and on sale, and OneWeb is licensed but not shown on sale, so one network is on sale, not two. The NCA's June 2025 count (GHA-001) cannot lift the cell, since stage 5 needs stage 4.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

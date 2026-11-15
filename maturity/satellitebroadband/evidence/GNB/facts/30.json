@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-14-xaf-starlink-expanding-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "TeleGeography lists Starlink as live in Guinea-Bissau since June 2025.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

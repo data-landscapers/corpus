@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-20-swz-eighth-african-country-gets-starlink-before-south-africa-with-rand-pri",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "MyBroadband reports Starlink has not officially launched in South Africa, and Icasa ordered an ISP in August 2023 to stop offering it.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

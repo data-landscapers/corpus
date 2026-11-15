@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-21-ner-decret-2024-728-licence-starlink-niger-sarlu",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Decree 2024-728 of 21 November 2024, signed by the head of state, grants Starlink Niger SARLU a five-year licence to establish and operate a public fixed low-orbit satellite internet network in Niger, with a cahier des charges annexed.",
+   "as_of": "2024-11-21",
+   "date_precision": "day",
+   "system": "Starlink Niger SARLU",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink Niger SARLU",
+   "country_label": "Niger",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "Starlink Niger SARLU",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
