@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TUN-002;TUN-006;TUN-003;TUN-005",
-      "gaps": "No source from 2024 on has a signed public-private partnership, concession or joint venture in which a private partner puts a named amount into a public digital project, or a state fund that private investors have paid into.",
-      "note": "Counted from the four questions by study-ladder-nonstatefinance.py.",
-      "as_at": "2026-11-12"
+      "gaps": "No source from 2024 on has a signed public-private partnership, concession or joint venture in which a private partner puts a named amount into a public digital project; the US$47 million of private capital the state's iSME equity instruments mobilised by May 2025 is not said to have been paid into a state fund.",
+      "note": "Amounts in 2024 and 2025, with Attijari Bank Tunisie and 216 CAPITAL as Tunisian financiers, meet questions 1 to 3. Question 4 is not met: ANAVA's first closing came from the CDC and KfW, both public, and no private partner puts a named amount into a public project.",
+      "as_at": "2026-11-15"
     }
   ]
 }

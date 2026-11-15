@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-03-nga-3-years-on-how-well-has-nigeria-s-startup-act-shaped-the-tech-ecosyste",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Technext24 reports Nigerian startups raised US$410 million in 2024, with Moniepoint and Moove each securing US$110 million.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Technext24 reports more than US$100 million flowed into Nigerian startups in the first quarter of 2025, led by LemFi's US$53 million Series B.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

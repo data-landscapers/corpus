@@ -6,8 +6,8 @@
 
 **Money raised inside the country.** [Attijari Bank Tunisie led the bank consortium](<https://irbe7.com/actualites/articles/attijari-bank-en-chef-de-file-dun-financement-de-310-millions-de-dinars-pour-la-5g-dooredoo/6806623203cffa19f5fb1c7e>) that made the Ooredoo loan. [The Arcube round was co-led by 216 CAPITAL](<https://www.webmanagercenter.com/2025/02/18/541011/la-start-up-arcube-annonce-une-levee-de-fonds-de-15-million-de-dollars-co-dirigee-par-216-capital/>), a fund founded in Tunis in 2021. Its foreign co-investors were Fuel Ventures and Oxford Capital Partners.
 
-**Private money the government brought into a public digital project.** No private money in a government digital project is reported. [The 5G loan](<https://irbe7.com/actualites/articles/attijari-bank-en-chef-de-file-dun-financement-de-310-millions-de-dinars-pour-la-5g-dooredoo/6806623203cffa19f5fb1c7e>) went to a private operator's own licence and network.
+**Private money the government brought into a public digital project.** By May 2025 [the World Bank-financed iSME project had mobilised US$47 million in private capital](<https://blogs.worldbank.org/en/arabvoices/tunisia-s-regional-startup-roadshow-bringing-innovation-closer-to-home>). Its equity instruments were the Anava fund of funds and InnovaTech. The money went to startups and small firms. [The 5G loan](<https://irbe7.com/actualites/articles/attijari-bank-en-chef-de-file-dun-financement-de-310-millions-de-dinars-pour-la-5g-dooredoo/6806623203cffa19f5fb1c7e>) went to a private operator's own licence and network.
 
 ***Also on file***. *None found.*
 
-***Not found***. No source found from 2024 on shows the state bringing private money into a public digital project.
+***Not found***. No source found from 2024 on shows private investors paying into a state fund. Nor does one show a signed partnership in which a private partner puts a named amount into a public digital project.

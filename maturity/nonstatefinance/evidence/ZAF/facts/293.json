@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-01-zaf-sa-sme-fund-the-technology-innovation-agency-and-e-squared-announce-r3",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "The SA SME Fund, the Technology Innovation Agency and impact investor E Squared Investments announced on 1 October 2024 the launch of a R300 million seed fund of funds for tech startups; no private share of the amount is stated.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "Seed Fund of Funds",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Seed Fund of Funds",
+   "country_label": "South Africa",
+   "class": "private",
+   "platform": "fund of funds",
+   "owner": "SA SME Fund, TIA, E Squared Investments",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

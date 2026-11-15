@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-27-tun-tunisia-s-regional-startup-roadshow-bringing-innovation-closer-to-home",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "The World Bank says an additional US$47 million in private capital has been mobilised so far through the Tunisia iSME Project's equity financing instruments (Anava, InnovaTech).",
+   "as_of": "2025-05-27",
+   "date_precision": "day",
+   "system": "Tunisia iSME Project equity instruments (Anava, InnovaTech)",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tunisia Innovative Startups and SME Project",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "World Bank-financed project",
+   "owner": "Caisse des depots et consignations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

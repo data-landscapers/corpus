@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-24-tun-tunisias-state-startup-fund-looks-beyond-capital-city-tech-elites",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "The article says German development bank KfW subscribed EUR 20mn to the ANAVA fund of funds, which invests in startup funds, as part of a EUR 60mn first closing.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "ANAVA",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
