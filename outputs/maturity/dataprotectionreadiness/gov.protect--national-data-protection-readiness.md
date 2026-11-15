@@ -71,11 +71,12 @@ Ghana's commission registered 2,575 data controllers in 2026 and referred a clin
 
 ### Kenya: 5 Leading
 
-A data protection law is in force and the authority is appointed and working; it has fined businesses since 2022.
+A data protection law is in force and the authority has ruled since 2022, 459 determinations by 2026; its first commissioner leaves in November 2026.
 
+- Kassait says the ODPC took enforcement actions against the Ministry of Agriculture and Migori County Assembly, and issued 459 determinations in six years ([source, 2026-11-13](https://techtrendske.co.ke/2026/11/13/kenya-data-protection-law-ai-regulation/)).
 - The update states Kenya's data protection authority had over 110 decisions in 2025 and began 2026 with a firm stance against violations ([source, 2025](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
-- The ODPC bulletin states that as of March 2025 the Office had received 7,128 complaints and resolved 97 percent, issued 215 determinations, imposed penalties on 10 entities, issued 103 compensations and settled 39 other cases through ADR (a cumulative count, no single year stated) ([source, 2025-03](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf)).
-- TechTrends KE reports the Office of the Data Protection Commissioner was established under the Data Protection Act, 2019, with inaugural commissioner Immaculate Kassait in office since 2020 and a Senior Deputy Data Commissioner serving; the Public Service Commission shortlisted 13 of 152 applicants to succeed her ([source, 2026-09-30](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/)).
+- Kassait says the ODPC has issued a guidance note on AI use for data controllers ([source, 2026-11-13](https://www.kbc.co.ke/kassait-calls-for-reforms-central-data-pool-as-she-exits-data-protection-office/)).
+- The report says Immaculate Kassait has headed the ODPC for six years, leaving on 16 November 2026 ([source, 2026-11-13](https://www.kbc.co.ke/kassait-calls-for-reforms-central-data-pool-as-she-exits-data-protection-office/)).
 
 ### Mali: 5 Leading
 
@@ -129,9 +130,9 @@ A data protection law is in force, the Personal Data Protection Office is workin
 
 The law is in force and the authority is working in 2026; no ruling against an organisation is reported.
 
+- The ANPDP issued Deliberation No. 05 of 11 November 2026 setting CV data rules under Law 18-07, per Le Soir d'Algerie ([source, 2026-11-11](https://www.lesoirdalgerie.com/actualites/l-anpdp-encadre-le-traitement-des-informations-contenues-dans-les-cv-160122)).
 - The article reports a study day at the national police college on the law's requirements for security work, and announces a unified guidance guide for administrative, security and judicial procedures; it reports no decision ([source, 2026-07](https://www.elmoudjahid.dz/fr/actualite/securisation-de-l-espace-numerique-l-engagement-sans-faille-de-la-dgsn-255551)).
-- The article states that the ANPDP's deliberation sets consent, information and transfer rules for images and that individuals may complain to the ANPDP; it reports no sanction or count of decisions ([source, 2026-07-15](https://www.wearetech.africa/fr/fils/actualites/tech/lalgerie-durcit-les-regles-de-publication-des-images-sur-les-plateformes-numeriques)).
-- The article names Samir Bourehil as president of the ANPDP, present at the study day with the Justice and Interior ministers ([source, 2026-07](https://www.elmoudjahid.dz/fr/actualite/securisation-de-l-espace-numerique-l-engagement-sans-faille-de-la-dgsn-255551)).
+- Le Soir d'Algerie reports that Algeria's ANPDP announced on 11 November 2026 its Deliberation No. 05 on personal data in CVs, taken under Law 18-07 ([source, 2026-11-11](https://www.lesoirdalgerie.com/actualites/l-anpdp-encadre-le-traitement-des-informations-contenues-dans-les-cv-160122)).
 
 ### Benin: 4 Operating
 

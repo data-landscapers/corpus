@@ -25,3 +25,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-01,DJI,gov.protect--national-data-protection-readiness,fact,1,1,DJI-001;DJI-003;DJI-006,"Law 18/AN/23 of November 2023 ratifies the Malabo Convention; no data protection law in force, stays 1"
 2026-11-09,BEN,gov.protect--national-data-protection-readiness,ladder,5,4,BEN-003;BEN-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 4."
 2026-11-09,MUS,gov.protect--national-data-protection-readiness,ladder,5,4,MUS-015;MUS-018;MUS-014,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 4."
+2026-11-15,KEN,gov.protect--national-data-protection-readiness,fact,5,5,KEN-046;KEN-012;KEN-049;KEN-048,"Two November 2026 reports: 459 determinations, enforcement against two public bodies, AI guidance, commissioner leaving 16 Nov; stage 5 held"
+2026-11-15,DZA,gov.protect--national-data-protection-readiness,fact,4,4,DZA-024;DZA-005;DZA-023,"ANPDP Deliberation No. 05 of 11 Nov 2026 on CV data: authority issuing rules; stage 4 held, no ruling against a named organisation"

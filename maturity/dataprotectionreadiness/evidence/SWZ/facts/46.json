@@ -1,0 +1,37 @@
+{
+ "slug": "2026-04-09-swz-untouchables-legal-bottlenecks-cripple-corruption-fight-acc-advisor",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Officials told MPs that a data protection law is in place and operational.",
+   "as_of": "2026-04-09",
+   "date_precision": "day",
+   "system": "data protection law",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Officials said the data protection office, established in 2023, is already operating.",
+   "as_of": "2026-04-09",
+   "date_precision": "day",
+   "system": "data protection office",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "Officials said the office educates the public and acts on breaches that individuals report to it.",
+   "as_of": "2026-04-09",
+   "date_precision": "day",
+   "system": "data protection office",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

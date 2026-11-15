@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-01-zwe-legislative-and-regulatory-reform-in-zimbabwes-digital-sector-a-rights",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "MISA Regional says Zimbabwe enacted the Cyber and Data Protection Act in 2021 and treats it as the operating data protection framework.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Cyber and Data Protection Act",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "signed",
+   "fact": "MISA Regional says Zimbabwe is a signatory to the Malabo Convention but is among 39 African countries that have not ratified it.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

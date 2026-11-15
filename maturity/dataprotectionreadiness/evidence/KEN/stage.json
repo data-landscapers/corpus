@@ -1,18 +1,19 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "system",
-   "stage": "5",
-   "law": "in-force",
-   "treaty": "none",
-   "authority": "appointed",
-   "practice": "ruling",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-012;KEN-018;KEN-031",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "system",
+      "stage": "5",
+      "law": "in-force",
+      "treaty": "none",
+      "authority": "appointed",
+      "practice": "ruling",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-046;KEN-012;KEN-049;KEN-048",
+      "gaps": "Nothing on the four questions. The first Data Commissioner leaves on 16 November 2026; her successor was nominated and is not yet in office.",
+      "note": "Stage 4c 2026-11-15: the outgoing commissioner counts 459 determinations and names enforcement against two public bodies, and the Office issued AI guidance, so the authority is appointed, implementing and ruling. Stage 5 is the top rung.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

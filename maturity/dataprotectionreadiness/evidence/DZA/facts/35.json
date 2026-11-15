@@ -1,0 +1,54 @@
+{
+ "slug": "2026-11-12-dza-anpdp-deliberation-05-cv-data",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Le Soir d'Algerie reports that Algeria's ANPDP announced on 11 November 2026 its Deliberation No. 05 on personal data in CVs, taken under Law 18-07.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Law 18-07",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Le Soir d'Algerie reports that Algeria's ANPDP announced on 11 November 2026 its Deliberation No. 05 on personal data in CVs, taken under Law 18-07.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "ANPDP",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The ANPDP issued Deliberation No. 05 of 11 November 2026 setting CV data rules under Law 18-07, per Le Soir d'Algerie.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "ANPDP",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANPDP",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Law 18-07",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

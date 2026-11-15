@@ -1,19 +1,19 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "system",
-   "stage": "4",
-   "law": "in-force",
-   "treaty": "none",
-   "authority": "appointed",
-   "practice": "implementing",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-005;DZA-002;DZA-006",
-   "gaps": "No ruling of the authority against a named organisation in the last three years has been found.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
-   "as_at": "2026-10-17"
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "system",
+      "stage": "4",
+      "law": "in-force",
+      "treaty": "none",
+      "authority": "appointed",
+      "practice": "implementing",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-024;DZA-005;DZA-023",
+      "gaps": "No ruling of the authority against a named organisation in the last three years has been found.",
+      "note": "Stage 4c 2026-11-15: the ANPDP's Deliberation No. 05 of 11 November 2026 on CV data is an appointed authority issuing rules, which holds stage 4. No ruling against a named organisation is held, so not stage 5.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }
