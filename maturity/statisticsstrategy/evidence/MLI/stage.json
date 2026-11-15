@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "strategy",
-      "stage": "4",
+      "stage": "5",
       "standing": "adopted",
       "review": "reviewed",
-      "evaluation": "",
+      "evaluation": "evaluated",
       "cap": "",
       "flags": "",
-      "stage_sources": "MLI-002;MLI-005;MLI-004",
-      "gaps": "No source found reports an evaluation of SDS IV completed in the last three years; the October 2026 cabinet note records no adoption of the 2026-2030 plan.",
-      "note": "SDS IV is in force with no stated period (MLI-004) and its annual review met in August 2026 (MLI-002), so 4. Cabinet took note of SDS IV and its 2026-2030 action plan on 9 October 2026 (MLI-001), and no evaluation is found, so not 5.",
-      "as_at": "2026-11-14"
+      "stage_sources": "MLI-011;MLI-002;MLI-004",
+      "gaps": "No source found records a formal adoption of SDS IV's 2026-2030 action plan; the October 2026 cabinet note took note of it.",
+      "note": "SDS IV is in force (MLI-004) and its annual review met in August 2026 (MLI-002), and the final evaluation of the SDS 2020-2024 it replaced was validated in February 2025 (MLI-011), so 5. The evaluation is of the strategy just ended, which counts for a current successor.",
+      "as_at": "2026-11-15"
     }
   ]
 }

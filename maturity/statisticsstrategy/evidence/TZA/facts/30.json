@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-17-tza-tanzania-approves-the-2nd-phase-of-the-statistical-master-plan",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The National Bureau of Statistics approved the work plan for TSMP II, which is being implemented over 2022/23 to 2026/27.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "TSMP II 2022/23-2026/27",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tanzania Statistical Master Plan phase II",
+   "country_label": "TSMP II 2022/23-2026/27",
+   "class": "strategy",
+   "platform": "",
+   "owner": "National Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

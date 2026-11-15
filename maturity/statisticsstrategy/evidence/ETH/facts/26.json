@@ -1,0 +1,36 @@
+{
+ "slug": "2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "PARIS21's September 2024 table lists the Ethiopian Statistical Development Program 2023/24-2025/26 as in implementation.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Ethiopian Statistical Development Program 2023/24-2025/26",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "PARIS21's September 2024 table lists Ethiopia's next NSDS as being designed with funding secured.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Ethiopian Statistical Development Program 2023/24-2025/26",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ethiopian Statistical Development Program 2023/24-2025/26",
+   "country_label": "Ethiopian Statistical Development Program 2023/24-2025/26",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

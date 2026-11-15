@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-17-lbr-development-of-the-national-strategy-for-the-development-of-statistics",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "UNFPA Liberia advertised a 60-working-day consultancy, beginning the first week of May 2025, to draft and validate a new NSDS for LISGIS in line with the 2025-2029 development plan.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "NSDS",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NSDS",
+   "country_label": "NSDS (in preparation)",
+   "class": "strategy",
+   "platform": "",
+   "owner": "LISGIS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

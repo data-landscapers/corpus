@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-09-lso-lesotho-nsds-ii-funding-strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Bureau of Statistics presents NSDS II for 2022-2026/27, with a funding strategy of 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "NSDS II 2022-2026/27",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

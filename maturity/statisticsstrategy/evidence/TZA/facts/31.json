@@ -1,0 +1,27 @@
+{
+ "slug": "2024-03-18-tza-statistical-master-plan-implementation-on-track",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Daily News says TSMP II began in August 2022 and runs 2022-2027 with World Bank financing.",
+   "as_of": "2022-08",
+   "date_precision": "month",
+   "system": "TSMP II 2022-2027",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "review",
+   "value": "reviewed",
+   "fact": "The Statistician General says 80 per cent of year-two TSMP II activities are done, at a seven-day NBS and World Bank meeting assessing implementation.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "TSMP II 2022-2027",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

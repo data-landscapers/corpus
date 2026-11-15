@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-02-bfa-burkina-faso-statistique-nationale-examen-d-un-projet-estime-a-96-689",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "The Conseil national de la statistique examined the draft 5th Schema Directeur de la statistique 2026-2030, costed at FCFA 96.689 billion, on 1 December 2025.",
+   "as_of": "2025-12-01",
+   "date_precision": "day",
+   "system": "SDS 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "5e Schema Directeur de la statistique",
+   "country_label": "SDS 2026-2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Conseil national de la statistique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

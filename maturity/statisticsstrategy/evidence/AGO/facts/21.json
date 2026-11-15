@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-13-ago-ministro-realca-compromisso-com-producao-de-estatistica-robusta-e-cred",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Minister of Planning Victor Hugo Guilherme referred on 13 January 2026 to the Estratégia Nacional de Desenvolvimento Estatístico (ENDE) 2015-2025 as the national statistics strategy.",
+   "as_of": "2026-01-13",
+   "date_precision": "day",
+   "system": "ENDE 2015-2025",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ENDE 2015-2025",
+   "country_label": "ENDE 2015-2025",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Planning",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

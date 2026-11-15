@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "PARIS21 says Rwanda's NSDS has been approved by Cabinet since 2014.",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "Rwanda NSDS",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "PARIS21 says Rwanda designed its fourth NSDS in 2024 using principally in-house resources.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Rwanda fourth NSDS",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rwanda fourth NSDS",
+   "country_label": "Fourth NSDS",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

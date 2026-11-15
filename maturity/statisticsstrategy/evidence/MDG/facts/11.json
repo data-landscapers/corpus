@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "evaluation",
+   "value": "evaluated",
+   "fact": "PARIS21 says Madagascar evaluated its first NSDS in 2023 and stakeholders noted insufficient budget had prevented the full scope of activities.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Madagascar first NSDS",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "PARIS21 says Madagascar was developing its second NSDS in 2023, stakeholders stressing adequate funding.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Madagascar second NSDS",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Madagascar second NSDS",
+   "country_label": "Second NSDS",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

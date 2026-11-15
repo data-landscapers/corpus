@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "PARIS21 says Senegal is now implementing its fourth NSDS, built on the earlier ones and resting on four pillars.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "Senegal fourth NSDS",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Senegal fourth NSDS",
+   "country_label": "Fourth NSDS",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

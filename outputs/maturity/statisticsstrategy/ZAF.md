@@ -2,7 +2,7 @@
 
 ## Statistics strategy
 
-**A strategy adopted or in preparation.** [Stats SA told Parliament's Appropriations Committee on 28 April 2026 that it has put in place, as a risk mitigation, the development of the National Strategy for Developmental Statistics to determine data gaps](<https://www.parliament.gov.za/storage/app/media/Docs/atc/01ls62wgfubry77aimpfb3gfqgvq2vzzwq.pdf>). It is the only fact held on the country's statistics strategy: no news story or official notice read for this study says more.
+**A strategy adopted or in preparation.** [Stats SA briefed Parliament's Appropriations Committee on 28 April 2026](<https://www.parliament.gov.za/storage/app/media/Docs/atc/01ls62wgfubry77aimpfb3gfqgvq2vzzwq.pdf>). It said it has put in place, as a risk mitigation, the development of the National Strategy for Developmental Statistics. The strategy is to determine data gaps. [In November 2025 the SADC Secretariat sought a consultant to develop a draft NSDS for South Africa](<https://www.sadc.int/sites/default/files/2025-11/REOI%20for%20NSDS%20SOUTH%20AFRICA.pdf>). The work was to take eight months.
 
 **Progress reviewed.** No source found dates a review of progress on the strategy since October 2023, from an annual review, a progress report or a meeting of its steering body. The nearest held fact: [Stats SA told Parliament's Appropriations Committee on 28 April 2026 that it has put in place, as a risk mitigation, the development of the National Strategy for Developmental Statistics to determine data gaps](<https://www.parliament.gov.za/storage/app/media/Docs/atc/01ls62wgfubry77aimpfb3gfqgvq2vzzwq.pdf>).
 

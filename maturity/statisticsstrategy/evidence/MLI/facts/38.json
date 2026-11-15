@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-21-mli-quatrieme-generation-du-schema-directeur-de-la-statistique-du-mali",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "INSTAT states the National Statistics Council launched on 19 November 2024 the drafting of the fourth Schema Directeur de la Statistique (SDS IV), to cover 2025-2029.",
+   "as_of": "2024-11-19",
+   "date_precision": "day",
+   "system": "SDS IV",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SDS IV",
+   "country_label": "SDS 2025-2029",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Conseil National de la Statistique / INSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

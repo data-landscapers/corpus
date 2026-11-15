@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "3",
-   "standing": "adopted",
-   "review": "",
-   "evaluation": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-001",
-   "gaps": "No source found dates a review of progress on the strategy in the last three years.",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "review": "",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-004;LBR-001",
+      "gaps": "No source found dates a review of progress on NSDS III 2026-2030.",
+      "note": "LISGIS launched the NSDS officially on 18 February 2026 (LBR-004), the NSDS III 2026-2030 signed in December 2025 (LBR-001), so it is current and 3. No progress review is found, so not 4.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

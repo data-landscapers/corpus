@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-18-gha-charting-ghana-s-data-driven-future-a-call-to-action",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "The Government Statistician says the Ghana Statistical Service held a workshop with chief directors to validate NSDS III (2026-2030).",
+   "as_of": "2026-03-18",
+   "date_precision": "day",
+   "system": "NSDS III 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NSDS III 2026-2030",
+   "country_label": "NSDS III 2026-2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ghana Statistical Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

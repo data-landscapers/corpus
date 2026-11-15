@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "PARIS21 says the Somalia National Bureau of Statistics has recently developed a second NSDS, with geospatial and citizen-generated data components.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Somalia second NSDS",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somalia second NSDS",
+   "country_label": "Second NSDS",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Somalia National Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

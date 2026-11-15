@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-14-ssd-bureau-of-statistics-launches-new-website-as-south-sudan-s-data-capaci",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "The Bureau reports work began in 2025 on the second National Strategy for the Development of Statistics, NSDS II, with consultants and training sessions.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NSDS II",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Strategy for the Development of Statistics II",
+   "country_label": "NSDS II",
+   "class": "strategy",
+   "platform": "",
+   "owner": "National Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

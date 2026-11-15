@@ -20,8 +20,8 @@ The African Charter on Statistics (2009) and the Strategy for the Harmonisation 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 4 |
+| 5 Leading | 2 |
+| 4 Operating | 3 |
 | 3 Established | 30 |
 | 2 Nascent | 11 |
 | 1 Absent | 0 |
@@ -37,6 +37,14 @@ The 2022-2026 statistics strategy is current, its steering group reviewed it in 
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2022-2026 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 - INSBU reports that the statutory Groupe Sectoriel Statistique held its second-quarter 2026 meeting on 28 July 2026 and discussed the recommendations of the SNDS-III mid-term evaluation, a meeting of the statistical system's coordinating body on how the strategy is being carried out ([source, 2026-07-28](https://www.insbu.bi/actualitesEtEvenements)).
 - The statutory Groupe Sectoriel Statistique meeting of 28 July 2026 discussed the recommendations of the mid-term evaluation of the SNDS-III, which shows that evaluation had reported; the completion date is not given, so the meeting date is used ([source, 2026-07-28](https://www.insbu.bi/actualitesEtEvenements)).
+
+### Mali: 5 Leading
+
+SDS IV was reviewed in 2026 and the plan before it was evaluated in 2025; formal adoption of its 2026-2030 action plan is not known.
+
+- INSTAT reports that two specialised commissions of the National Statistics Council validated the final evaluation report of the third Schema Directeur de la Statistique (SDS 2020-2024) on 6-7 February 2025 ([source, 2025-02-07](https://www.instat-mali.org/fr/actualites-et-evenements/atelier-de-validation-du-rapport-devaluation-du-3eme-schema-directeur-de-la-statistique-sds-2020-2024)).
+- INSTAT held the 17th technical session of the annual review of the Schema Directeur de la Statistique on 13-14 August 2026 in Bamako, assessing statistical activities and the implementation of the 2025 review's recommendations ([source, 2026-08-13](https://instat-mali.org/fr/actualites-et-evenements/dix-septieme-session-technique-de-la-revue-annuelle-du-schema-directeur-de-la-statistique)).
+- INSTAT describes the Schema Directeur de la Statistique (SDS IV) as the roadmap guiding the national statistical system, in force in February 2026; the document gives no period ([source, 2026-02-17](https://instat-mali.org/fr/actualites-et-evenements/session-ordinaire-du-conseil-national-de-la-statistique-cns-)).
 
 ### Central African Republic: 4 Operating
 
@@ -54,14 +62,6 @@ Progress on the ENDE was reviewed in 2026; no completed evaluation is known.
 - The National Statistics Council held its eighth ordinary session of 2026, with the ENDE 2025 implementation report on the agenda for presentation and validation (agenda-style report, written in the present tense) ([source, 2026-08-27](https://www.guineaecuatorialpress.com/noticias/el_consejo_nacional_de_estadistica_analiza_los_avances_de_las_principales_operaciones_estadisticas_del_pais)).
 - The Statistical Programmes Committee (CPE), chaired by INEGE's director general, held its seventh ordinary session in Malabo and took the 2025 implementation report of the ENDE and the ENDE 2026 annual action plan ([source, 2026-04-08](https://inege.org/?p=16157)).
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2022-2026 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
-
-### Mali: 4 Operating
-
-Progress on the Schema Directeur de la Statistique (SDS) was reviewed in 2026; no completed evaluation is known.
-
-- INSTAT held the 17th technical session of the annual review of the Schema Directeur de la Statistique on 13-14 August 2026 in Bamako, assessing statistical activities and the implementation of the 2025 review's recommendations ([source, 2026-08-13](https://instat-mali.org/fr/actualites-et-evenements/dix-septieme-session-technique-de-la-revue-annuelle-du-schema-directeur-de-la-statistique)).
-- The 'Programmes statistiques' specialised commission of the Conseil National de la Statistique met on 17 February 2026 to monitor SDS IV, assessed progress on the 2025 statistical review recommendations, validated the 2025 action-plan scorecard and updated the action-plan trajectory for the whole SDS IV ([source, 2026-02-17](https://instat-mali.org/fr/actualites-et-evenements/session-ordinaire-du-conseil-national-de-la-statistique-cns-)).
-- INSTAT describes the Schema Directeur de la Statistique (SDS IV) as the roadmap guiding the national statistical system, in force in February 2026; the document gives no period ([source, 2026-02-17](https://instat-mali.org/fr/actualites-et-evenements/session-ordinaire-du-conseil-national-de-la-statistique-cns-)).
 
 ### Tanzania: 4 Operating
 
@@ -168,8 +168,9 @@ The NSDS 2022/23-2026/27 is current; no review of its progress since 2023 is kno
 
 ### Liberia: 3 Established
 
-The NSDS III 2026-2030 is current; no review of its progress since 2023 is known.
+NSDS III for 2026-2030 was launched in February 2026; no review of its progress is known.
 
+- LISGIS officially launched the National Strategy for the Development of Statistics at an event on 18 February 2026, per its Director General ([source, 2026-02-18](https://frontpageafricaonline.com/liberia-lisgis-launches-national-statistics-strategy-set-to-unveils-new-population-policy/)).
 - The document, signed at Monrovia on 15 December 2025, presents the launch of Liberia's third-generation NSDS III for 2026-2030 as its Foreword states, though chapter 6 also says activities proceed once the LISGIS Board approves it ([source, 2025-12-15](https://lisgis.gov.lr/uploads/nsds/nsdsIII.pdf)).
 
 ### Madagascar: 3 Established
@@ -301,9 +302,10 @@ A national statistics strategy was being prepared in 2026; none adopted is known
 
 ### Gabon: 2 Nascent
 
-A national statistics strategy was being prepared in 2023; none adopted is known to be current.
+A successor strategy for 2027-2030 was being drafted in October 2026; no current strategy is known.
 
-- Gabonreview reports that in 2023 the national statistical system worked on drafting the interim National Strategy for the Development of Statistics 2023-2025 (SNDS-II), with its validation still awaited ([source, 2023-12-29](https://www.gabonreview.com/gabon-bientot-un-institut-national-de-la-statistique/)).
+- INSTAT Gabon says it has begun drafting SNDS-III for 2027-2030 with HISWACA-SOP 2 support, using an SNDS-II evaluation and system diagnostic ([source, 2026-10-05](https://new.instatgabon.org/fr/actualite/snds-2027-2030-l-instat-gabon-renforce-les-capacites-des-acteurs-du-systeme-statistique-national)).
+- The page lists the second-generation national strategy for statistical development SNDS-II with a presentation of its roadmap; it gives no adoption date or period ([source, 2025-02-07](https://statgabon.ga/donnee_a_telecharcher/)).
 
 ### Ghana: 2 Nascent
 
@@ -329,11 +331,13 @@ The E-NSDS-II (extension of NSDS II 2016-2020) was adopted by 2023 and its perio
 A national statistics strategy was being prepared in 2026; none adopted is known to be current.
 
 - Stats SA told Parliament's Appropriations Committee on 28 April 2026 that it has put in place, as a risk mitigation, the development of the National Strategy for Developmental Statistics to determine data gaps; the document gives no adoption date ([source, 2026-04-28](https://www.parliament.gov.za/storage/app/media/Docs/atc/01ls62wgfubry77aimpfb3gfqgvq2vzzwq.pdf)).
+- SADC Secretariat's re-advertised request of 25 November 2025 seeks an individual consultant, over 8 months, to develop a draft NSDS for South Africa ([source, 2025-11-25](https://www.sadc.int/sites/default/files/2025-11/REOI%20for%20NSDS%20SOUTH%20AFRICA.pdf)).
 
 ### South Sudan: 2 Nascent
 
-A second national statistics strategy was being drafted in 2025, after the last one ran out; no source found reports its adoption.
+A second national statistics strategy, for 2026-2030, went to validation in March 2026; no source found reports its adoption.
 
+- South Sudan's National Bureau of Statistics opened a two-day national stakeholders' workshop in Juba to validate the draft NSDS II 2026-2030 ([source, 2026-03-31](https://www.linkedin.com/posts/national-bureau-of-statistics-south-sudan_nbs-convenes-national-stakeholders-to-validate-activity-7447538171766095872-Qdu2)).
 - The Director General of South Sudan's National Bureau of Statistics says the second National Strategy for the Development of Statistics (NSDS II) is being developed, covering the Bureau and other producers of official statistics ([source, 2025-09-03](https://www.uneca.org/eca-events/sites/default/files/resources/documents/acs/capacity-building-workshop-data-ethics-governance-quality/presentations/2025_da.14_session_3a_south_sudan_coordinating_national_systems.pdf)).
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): Master Plan for Statistics Development in Southern Sudan 2021-2025 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 

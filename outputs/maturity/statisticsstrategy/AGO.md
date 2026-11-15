@@ -2,11 +2,11 @@
 
 ## Statistics strategy
 
-**A strategy adopted or in preparation.** [Angola's INE opened a public consultation on 29 September 2026, running to 2 October, on the proposed new national strategy for the development of statistics, following the National Statistics Council's first extraordinary plenary on 28 August 2026](<https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/>). It is the only fact held on the country's statistics strategy: no news story or official notice read for this study says more.
+**A strategy adopted or in preparation.** [In January 2026 the planning minister named the ENDE 2015-2025 as the national statistics strategy](<https://angop.ao/noticias/economia/ministro-realca-compromisso-com-producao-de-estatistica-robusta-e-credivel/>). Its period ended with 2025. [On 29 September 2026 the statistics institute, INE, opened a public consultation on a new strategy](<https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/>). The consultation ran to 2 October. It followed an extraordinary plenary of the National Statistics Council on 28 August 2026.
 
-**Progress reviewed.** No source found dates a review of progress on the strategy since October 2023, from an annual review, a progress report or a meeting of its steering body. The nearest held fact: [Angola's INE opened a public consultation on 29 September 2026, running to 2 October, on the proposed new national strategy for the development of statistics, following the National Statistics Council's first extraordinary plenary on 28 August 2026](<https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/>).
+**Progress reviewed.** No review of progress on the ENDE 2015-2025 has been found since 2023. [The minister's January 2026 remarks](<https://angop.ao/noticias/economia/ministro-realca-compromisso-com-producao-de-estatistica-robusta-e-credivel/>) named the strategy without reporting on its results.
 
-**Evaluated.** No source found reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest held fact: [Angola's INE opened a public consultation on 29 September 2026, running to 2 October, on the proposed new national strategy for the development of statistics, following the National Statistics Council's first extraordinary plenary on 28 August 2026](<https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/>).
+**Evaluated.** No evaluation of the ENDE 2015-2025 has been found. [The September 2026 consultation](<https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/>) concerned the strategy to follow it.
 
 ***Also on file***. None found.
 

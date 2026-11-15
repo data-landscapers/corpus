@@ -9,10 +9,10 @@
       "evaluation": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GAB-002",
-      "gaps": "No source found shows an adopted strategy whose period is still running.",
-      "note": "Counted from the four questions by study-ladder-statisticsstrategy.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "GAB-005;GAB-003",
+      "gaps": "No source found shows a successor to SNDS-II (2023-2025) adopted; INSTAT Gabon began drafting SNDS-III 2027-2030 in October 2026.",
+      "note": "INSTAT Gabon began drafting SNDS-III 2027-2030 in October 2026 (GAB-005), after SNDS-II's period ended in 2025, so a strategy is in preparation. No current strategy is found, so not 3.",
+      "as_at": "2026-11-15"
     }
   ]
 }

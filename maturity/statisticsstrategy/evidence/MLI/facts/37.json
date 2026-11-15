@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-10-mli-atelier-de-validation-du-rapport-d-evaluation-du-3eme-schema-directeur",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "evaluation",
+   "value": "evaluated",
+   "fact": "INSTAT reports that two specialised commissions of the National Statistics Council validated the final evaluation report of the third Schema Directeur de la Statistique (SDS 2020-2024) on 6-7 February 2025.",
+   "as_of": "2025-02-07",
+   "date_precision": "day",
+   "system": "SDS 2020-2024",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "INSTAT's Director General asked statistical bodies to list their activities and indicators in prelude to drawing up the action plan of the SDS 2025-2029.",
+   "as_of": "2025-02-10",
+   "date_precision": "day",
+   "system": "SDS 2025-2029",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SDS 2020-2024",
+   "country_label": "SDS 2020-2024",
+   "class": "strategy",
+   "platform": "",
+   "owner": "INSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
