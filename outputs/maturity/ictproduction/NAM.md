@@ -2,9 +2,9 @@
 
 ## ICT exports and production
 
-**ICT service exports, as a share of GDP.** In 2024, [ICT service exports from Namibia were 0.1908 per cent of GDP](<https://data.worldbank.org/indicator/BX.GSR.CCIS.CD>), by the World Bank's series of computer and telecommunications services sold abroad. The same series [put the share at 0.1885 per cent in 2021, 0.186 per cent in 2022 and 0.1679 per cent in 2023](<https://data.worldbank.org/indicator/BX.GSR.CCIS.CD>). Since 2021 the share has barely moved. The share is 0.01 points short of 0.2 per cent, the next line. The figure counts computer and telecommunications services sold abroad, not equipment made or assembled at home.
+**ICT service exports, as a share of GDP.** In 2024, [exports of information and communication technology (ICT) services from Namibia were 0.1908 per cent of gross domestic product (GDP)](<https://data.worldbank.org/indicator/BX.GSR.CCIS.CD>). The source is the World Bank's series of computer and telecommunications services sold abroad. The same series [put the share at 0.1885 per cent in 2021, 0.186 per cent in 2022 and 0.1679 per cent in 2023](<https://data.worldbank.org/indicator/BX.GSR.CCIS.CD>). Since 2021 the share has barely moved, between 0.1679 and 0.1908 per cent of GDP. The figure counts computer and telecommunications services sold abroad, not equipment made or assembled at home.
 
-**ICT equipment made in the country.** [Exports of information and communication technology services are below 0.5 per cent of gross domestic product](<https://data.worldbank.org/indicator/BX.GSR.CCIS.CD>). No plant making ICT equipment in the country has been found.
+**ICT equipment made in the country.** [ICT service exports were 0.1908 per cent of GDP in 2024](<https://data.worldbank.org/indicator/BX.GSR.CCIS.CD>). No plant making ICT equipment in the country has been found.
 
 ***Also on file***. None found.
 
