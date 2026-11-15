@@ -1987,7 +1987,7 @@ ETH,154,2026-09-25-xaf-rules-on-paper-flows-in-practice-can-africas-continental-
 ETH,155,2025-12-29-xea-explanatory-note-on-data-protection-and-privacy-egee-ict,2026-11-13,instrument,2026-11-13
 ETH,156,2025-04-01-ken-itu-rdf-afr-2025-final-report-nairobi,2026-11-13,instrument,2026-11-13
 GAB,90,2026-11-01-gha-ghana-takes-au-technology-committee-chair-as-ministers-push-digital-po,2026-11-13,capped,2026-11-14
-GAB,91,2026-07-16-gab-paiements-publics-le-gabon-accelere-la-digitalisation-avec-le-deploiem,2026-11-13,,
+GAB,91,2026-07-16-gab-paiements-publics-le-gabon-accelere-la-digitalisation-avec-le-deploiem,2026-11-13,capped,2026-11-15
 GAB,92,2025-11-30-tcd-vers-le-renforcement-de-la-cooperation-des-pays-d-afrique-centrale-dan,2026-11-13,capped,2026-11-14
 GAB,93,2021-07-16-dza-smart-africa-hosts-the-15th-meeting-of-its-steering-committee,2026-11-13,old,2026-11-13
 GHA,191,2026-11-01-gha-ghana-takes-au-technology-committee-chair-as-ministers-push-digital-po,2026-11-13,capped,2026-11-14
@@ -2160,7 +2160,7 @@ MWI,143,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-a
 NAM,111,2026-06-25-nam-namibia-opens-ondangwa-digital-tech-hub,2026-11-14,,
 NAM,112,2025-02-27-nam-satellite-internet-namibia-s-red-tape-full-report,2026-11-14,instrument,2026-11-14
 NER,74,2026-03-13-ner-niger-moves-to-adopt-national-digital-development-policy-for-20262035,2026-11-14,,
-NER,75,2025-04-18-ner-gitex-africa-2025-le-niger-fait-bouger-les-lignes-de-la-fracture-numer,2026-11-14,,
+NER,75,2025-04-18-ner-gitex-africa-2025-le-niger-fait-bouger-les-lignes-de-la-fracture-numer,2026-11-14,capped,2026-11-15
 NGA,280,2026-07-01-nga-fct-irs-unveils-digital-tax-platform-moves-to-simplify-compliance-unde,2026-11-14,capped,2026-11-14
 NGA,281,2026-07-01-nga-stem-transformation-strategy-document-for-higher-education-in-nigeria,2026-11-14,instrument,2026-11-14
 NGA,282,2026-06-24-nga-nigeria-national-edtech-strategy-2026-2030,2026-11-14,instrument,2026-11-14
@@ -2179,7 +2179,7 @@ TGO,82,2025-06-01-tgo-rapport-final-revue-sectorielle-conjointe-de-l-education-d
 TGO,83,2023-04-01-tgo-londa-digital-rights-and-inclusion-in-africa-report-2022-togo,2026-11-14,instrument,2026-11-14
 TZA,139,2026-02-16-tza-govt-accelerates-digital-revolution-in-100-days,2026-11-14,,
 TZA,140,2025-07-22-tza-full-digital-shift-on-horizon-as-project-delivers,2026-11-14,capped,2026-11-14
-UGA,193,2025-07-14-uga-one-signal-at-a-time-1-000-campuses-connected-driving-digital-health-a,2026-11-14,,
+UGA,193,2025-07-14-uga-one-signal-at-a-time-1-000-campuses-connected-driving-digital-health-a,2026-11-14,capped,2026-11-15
 UGA,194,2026-06-01-uga-impact-assessment-study-of-the-universal-service-and-access-fund-ucusa,2026-11-14,instrument,2026-11-14
 UGA,195,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-and-revenu,2026-11-14,instrument,2026-11-14
 ZAF,233,2025-10-01-zaf-statistics-south-africa-annual-report-2024-25-book-1,2026-11-14,instrument,2026-11-14
@@ -2191,3 +2191,8 @@ ZMB,143,2025-01-01-zmb-2025-national-social-protection-policy,2026-11-14,instrum
 ZWE,117,2026-06-13-zwe-zimbabwe-pushes-digital-transformation-agenda-under-smart-zimbabwe-203,2026-11-14,capped,2026-11-14
 ZWE,118,2026-07-09-zwe-digital-inclusion-and-gender-equity-in-zimbabwe-opportunities-and-gaps,2026-11-14,capped,2026-11-14
 ZWE,119,2025-12-02-zwe-zimstat-ignites-zimbabwe-s-data-revolution-as-national-systems-shift-t,2026-11-14,capped,2026-11-14
+COD,120,2026-11-12-cod-mimpa-interconnexion-rdc-pass-guichet-numerique,2026-11-15,capped,2026-11-15
+MAR,117,2026-11-14-fnh-maroc-intelligence-artificielle-jusqu-ou,2026-11-15,,
+NAM,113,2026-11-14-nam-techreviewafrica-dpi-financial-sector-pki-eid,2026-11-15,,
+NGA,284,2026-11-14-nigeria-moves-to-integrate-mdas-under-new-digital-governance-plan,2026-11-15,capped,2026-11-15
+ZWE,120,2026-11-13-zwe-itweb-dhl-digital-logistics-youth-training,2026-11-15,capped,2026-11-15

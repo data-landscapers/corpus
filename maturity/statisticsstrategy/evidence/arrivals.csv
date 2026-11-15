@@ -353,7 +353,7 @@ BFA,20,2025-12-02-bfa-burkina-faso-statistique-nationale-examen-d-un-projet-esti
 BFA,21,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,capped,2026-11-14
 BFA,22,2019-09-01-bfa-burkina-faso-revue-par-les-pairs-du-systeme-d-information-et-de-gestio,2026-11-14,instrument,2026-11-14
 BWA,24,2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate,2026-11-14,,
-BWA,25,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,,
+BWA,25,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,capped,2026-11-15
 BWA,26,2023-09-29-bwa-statistics-botswana-annual-report-2022-23,2026-11-14,instrument,2026-11-14
 BWA,27,2023-07-18-bwa-terms-of-reference-national-consultant-statistician-on-national-strate,2026-11-14,instrument,2026-11-14
 CAF,22,2024-11-25-caf-la-centrafrique-se-dote-d-une-strategie-nationale-de-developpement-de,2026-11-14,,
@@ -383,7 +383,7 @@ COM,13,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2
 CPV,16,2025-10-20-cpv-dia-mundial-da-estatistica-presidente-do-conselho-nacional-de-estatist,2026-11-14,,
 CPV,17,2024-01-01-cpv-coopstat-janeiro-julho-january-july-2024,2026-11-14,,
 CPV,18,2023-06-14-cpv-ine-precisa-de-tres-milhoes-de-contos-para-implementar-ende-2022-2026,2026-11-14,old,2026-11-14
-CPV,19,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,,
+CPV,19,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,capped,2026-11-15
 CPV,20,2022-01-01-cpv-plano-estrategico-de-desenvolvimento-sustentavel-2022-2026-peds-ii,2026-11-14,instrument,2026-11-14
 DJI,22,2026-10-14-dji-implementation-status-results-report-economic-management-and-statistic,2026-11-14,instrument,2026-11-14
 DJI,23,2025-02-26-dji-linstad-lance-la-3eme-strategie-nationale-de-developpement-de-la-stati,2026-11-14,,
@@ -392,7 +392,7 @@ DJI,25,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2
 DJI,26,2024-09-29-dji-instad-tenue-de-la-6eme-reunion-du-comite-de-programme-statistique-et,2026-11-14,,
 DJI,27,2024-09-25-dji-instad-evaluation-du-ssn-une-etape-cle-pour-le-renforcement-des-capaci,2026-11-14,,
 DZA,7,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,capped,2026-11-14
-DZA,8,2025-12-28-dza-algerie-2025-vers-un-systeme-statistique-fiable-et-numerise,2026-11-14,,
+DZA,8,2025-12-28-dza-algerie-2025-vers-un-systeme-statistique-fiable-et-numerise,2026-11-14,capped,2026-11-15
 EGY,11,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,,
 EGY,12,2023-08-29-egy-capmas-national-strategy-for-statistics-launch-forthcoming,2026-11-14,old,2026-11-14
 EGY,13,2022-01-01-egy-national-review-of-gender-statistics-in-egypt,2026-11-14,instrument,2026-11-14
@@ -559,7 +559,13 @@ ZMB,16,2024-07-01-zmb-the-statistician-volume-eight,2026-11-14,instrument,2026-1
 ZMB,17,2023-07-01-zmb-sector-strategy-plan-for-statistics-ssp-2022-2026,2026-11-14,instrument,2026-11-14
 ZWE,13,2026-01-23-zwe-consultant-to-conduct-the-end-term-evaluation-of-nsds-iii-and-design-t,2026-11-14,,
 ZWE,14,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,capped,2026-11-14
-ZWE,15,2026-05-01-zwe-zim-s-data-systems-drive-gets-un-backing,2026-11-14,,
+ZWE,15,2026-05-01-zwe-zim-s-data-systems-drive-gets-un-backing,2026-11-14,capped,2026-11-15
 ZWE,16,2025-12-02-zwe-zimstat-ignites-zimbabwe-s-data-revolution-as-national-systems-shift-t,2026-11-14,capped,2026-11-14
 ZWE,17,2025-05-06-zwe-data-for-development-and-innovation-technical-working-group-kicks-off,2026-11-14,capped,2026-11-14
 ZWE,18,2025-04-22-zwe-request-for-expression-of-interest-individual-consultancy-to-review-th,2026-11-14,,
+BDI,24,2022-11-16-bdi-decret-100-152-cnis,2026-11-15,instrument,2026-11-15
+ETH,27,2026-09-07-eth-proclamation-1435-2026-ethiopian-statistics,2026-11-15,instrument,2026-11-15
+MLI,45,2017-06-01-mli-loi-2017-011-fonds-national-developpement-statistique,2026-11-15,old,2026-11-15
+SLE,14,2026-11-13-moped-seeks-stronger-coordination-to-improve-sierra-leone-s-national-d,2026-11-15,capped,2026-11-15
+SLE,15,2026-11-13-sle-power-of-data-steering-committee-18-2m-data-systems,2026-11-15,capped,2026-11-15
+UGA,37,2026-09-25-uga-ubos-pnsd-iv-2025-26-2029-30,2026-11-15,instrument,2026-11-15

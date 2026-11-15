@@ -1000,7 +1000,7 @@ NAM,53,2024-10-04-nam-mtc-targets-over-50-of-namibians-who-are-unbanked-with-mar
 NAM,54,2026-05-01-nam-african-media-barometer-namibia-2026,2026-11-13,instrument,2026-11-13
 NAM,55,2026-02-01-nam-mapping-threats-to-the-media-namibia,2026-11-13,instrument,2026-11-13
 NAM,56,2025-04-01-ken-itu-rdf-afr-2025-final-report-nairobi,2026-11-13,instrument,2026-11-13
-NER,54,2026-11-05-ner-communique-imoney-est-desormais-connecte-a-pi-spi-bceao,2026-11-13,,
+NER,54,2026-11-05-ner-communique-imoney-est-desormais-connecte-a-pi-spi-bceao,2026-11-13,capped,2026-11-15
 NER,55,2024-12-31-bfa-list-of-electronic-money-issuing-institutions-as-of-december-31-2024,2026-11-13,capped,2026-11-14
 NER,56,2020-11-01-gnb-list-of-electronic-money-issuing-institutions-as-at-the-end-of-novembe,2026-11-13,old,2026-11-13
 NGA,45,2025-04-01-ken-itu-rdf-afr-2025-final-report-nairobi,2026-11-13,instrument,2026-11-13
@@ -1051,5 +1051,10 @@ NER,57,2025-02-01-bfa-maintaining-and-strengthening-social-assistance-systems-in
 SDN,19,2025-02-28-sudan-family-support-project-icr-worldbank,2026-11-14,instrument,2026-11-14
 SDN,20,2024-03-29-sdn-implementation-completion-and-results-report-sudan-emergency-safety-ne,2026-11-14,instrument,2026-11-14
 SDN,21,2020-09-30-sdn-worldbank-sudan-family-support-project-pad,2026-11-14,instrument,2026-11-14
-SWZ,55,2026-08-03-swz-ers-urges-taxpayers-to-file-returns-early,2026-11-14,,
+SWZ,55,2026-08-03-swz-ers-urges-taxpayers-to-file-returns-early,2026-11-14,capped,2026-11-15
 TUN,31,2020-06-01-tun-tunisia-first-resilience-and-recovery-emergency-development-policy-fin,2026-11-14,instrument,2026-11-14
+BWA,31,2019-01-04-bwa-electronic-payment-services-regulations-2019,2026-11-15,instrument,2026-11-15
+BWA,32,2026-11-09-bwa-state-of-the-nation-address-2026,2026-11-15,instrument,2026-11-15
+MWI,54,2026-11-12-xsa-comesa-nyasa-times-governors-symposium-lilongwe-payments,2026-11-15,capped,2026-11-15
+SLE,44,2026-11-12-parliament-commits-data-protection-bill-to-legislative-committee-by-ja,2026-11-15,,
+TGO,57,2026-11-13-togotimes-togo-paiements-instantanes-pi-spi,2026-11-15,,

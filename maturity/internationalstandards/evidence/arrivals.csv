@@ -2312,7 +2312,7 @@ DJI,68,2025-12-01-ssd-regional-pledge-stocktaking-report-2024-2025-eastern-and-s
 DZA,95,2026-08-14-dza-iso-27001-algerie-cout-audit-et-certification-entreprise,2026-11-13,instrument,2026-11-13
 DZA,96,2026-05-08-dza-annual-results-report-2025-algeria,2026-11-13,instrument,2026-11-13
 DZA,97,2025-05-26-dza-annual-results-report-2024-algeria,2026-11-13,instrument,2026-11-13
-EGY,125,2026-08-13-egy-agriculture-insect-museum-iso-27001-renewal,2026-11-13,,
+EGY,125,2026-08-13-egy-agriculture-insect-museum-iso-27001-renewal,2026-11-13,capped,2026-11-15
 EGY,126,2021-08-19-egy-management-system-certification-bodies-egac,2026-11-13,old,2026-11-13
 EGY,127,2025-09-01-egy-londa-2024-egypt-country-report,2026-11-13,instrument,2026-11-13
 ERI,34,2025-12-29-xea-explanatory-note-on-data-protection-and-privacy-egee-ict,2026-11-13,instrument,2026-11-13
@@ -2476,7 +2476,7 @@ ZMB,115,2023-01-01-zmb-national-payment-system-vision-and-strategy-2023-2027,202
 ZMB,116,2022-02-01-zmb-quality-infrastructure-assessment-report-of-zambia,2026-11-13,instrument,2026-11-13
 ZMB,117,2025-12-29-xea-explanatory-note-on-data-protection-and-privacy-egee-ict,2026-11-13,instrument,2026-11-13
 ZMB,118,2025-12-01-ssd-regional-pledge-stocktaking-report-2024-2025-eastern-and-southern-afri,2026-11-13,instrument,2026-11-13
-ZWE,127,2026-02-14-zwe-certificate-of-accreditation-standards-association-of-zimbabwe-certifi,2026-11-13,,
+ZWE,127,2026-02-14-zwe-certificate-of-accreditation-standards-association-of-zimbabwe-certifi,2026-11-13,capped,2026-11-15
 ZWE,128,2026-02-05-zwe-bill-watch-2-2026-of-5th-february-2026-legislative-agenda-for-new-sess,2026-11-13,capped,2026-11-13
 ZWE,129,2024-03-01-zwe-zimbabwe-to-have-statutory-standards-body,2026-11-13,capped,2026-11-14
 ZWE,130,2026-07-01-zwe-legislative-and-regulatory-reform-in-zimbabwes-digital-sector-a-rights,2026-11-13,,
@@ -2492,7 +2492,7 @@ BDI,78,2023-01-01-bdi-nsds-status-of-countries-progress-report-as-of-january-202
 BDI,79,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,capped,2026-11-14
 BDI,80,2025-06-08-bdi-sdg-4-country-profiles-burundi,2026-11-14,instrument,2026-11-14
 BDI,81,2024-06-13-bdi-project-paper-on-a-proposed-additional-grant-in-the-amount-of-sdr15-2,2026-11-14,instrument,2026-11-14
-BEN,90,2026-08-16-ben-les-15-structures-labellisees-par-seme-city-la-nouvelle-carte-de-l-acc,2026-11-14,,
+BEN,90,2026-08-16-ben-les-15-structures-labellisees-par-seme-city-la-nouvelle-carte-de-l-acc,2026-11-14,capped,2026-11-15
 BEN,91,2023-01-01-bdi-nsds-status-of-countries-progress-report-as-of-january-2023,2026-11-14,old,2026-11-14
 BEN,92,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,capped,2026-11-14
 BEN,93,2025-01-01-ben-bulletin-d-information-wuri-benin-n005,2026-11-14,instrument,2026-11-14
@@ -2500,7 +2500,7 @@ BFA,81,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2
 BFA,82,2025-12-01-bfa-insd-sds5-schema-directeur-statistique-2026-2030,2026-11-14,instrument,2026-11-14
 BFA,83,2025-06-08-bfa-sdg-4-country-profiles-burkina-faso,2026-11-14,instrument,2026-11-14
 BFA,84,2023-01-01-bfa-code-general-des-impots-2023-a-jour-avec-la-loi-de-finances-2023,2026-11-14,instrument,2026-11-14
-BWA,94,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,,
+BWA,94,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,capped,2026-11-15
 BWA,95,2025-12-01-bwa-tertiary-education-statistics-report-2024,2026-11-14,instrument,2026-11-14
 BWA,96,2025-06-08-bwa-sdg-4-country-profiles-botswana,2026-11-14,instrument,2026-11-14
 BWA,97,2025-04-01-bwa-tertiary-education-statistics-2023,2026-11-14,instrument,2026-11-14
@@ -2523,7 +2523,7 @@ COM,46,2025-06-01-com-said-bouhtane-dg-de-lantric-la-5g-ne-sera-pas-une-revoluti
 COM,47,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,,
 COM,48,2025-06-08-com-sdg-4-country-profiles-comoros,2026-11-14,instrument,2026-11-14
 COM,49,2021-12-01-com-a-virtual-assessment-of-the-pre-tertiary-education-system-of-comoros,2026-11-14,instrument,2026-11-14
-CPV,75,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,,
+CPV,75,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,capped,2026-11-15
 CPV,76,2025-06-08-cpv-sdg-4-country-profiles-cabo-verde,2026-11-14,instrument,2026-11-14
 DJI,69,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,,
 DJI,70,2025-04-28-worldbank-project-paper-djibouti-expanding-opportunities-learning,2026-11-14,instrument,2026-11-14
@@ -2621,7 +2621,7 @@ NAM,106,2025-02-27-nam-satellite-internet-namibia-s-red-tape-full-report,2026-11
 NAM,107,2023-01-01-nam-namibia-national-gender-statistics-assessment,2026-11-14,instrument,2026-11-14
 NAM,108,2021-01-01-nam-annual-report-2021,2026-11-14,instrument,2026-11-14
 NAM,109,2019-01-01-nam-annual-report-2018-19,2026-11-14,instrument,2026-11-14
-NER,63,2025-04-18-ner-gitex-africa-2025-le-niger-fait-bouger-les-lignes-de-la-fracture-numer,2026-11-14,,
+NER,63,2025-04-18-ner-gitex-africa-2025-le-niger-fait-bouger-les-lignes-de-la-fracture-numer,2026-11-14,capped,2026-11-15
 NER,64,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,capped,2026-11-14
 NER,65,2022-05-01-ner-troisieme-strategie-nationale-de-developpement-de-la-statistique-snds,2026-11-14,instrument,2026-11-14
 NER,66,2022-01-01-ner-rapport-d-evaluation-de-la-performance-republique-du-niger,2026-11-14,instrument,2026-11-14
@@ -2694,3 +2694,12 @@ ZMB,124,2023-07-01-zmb-sector-strategy-plan-for-statistics-ssp-2022-2026,2026-11
 ZWE,136,2026-01-23-zwe-consultant-to-conduct-the-end-term-evaluation-of-nsds-iii-and-design-t,2026-11-14,,
 ZWE,137,2025-05-08-zwe-census-statistics-act-faces-review,2026-11-14,capped,2026-11-14
 ZWE,138,2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024,2026-11-14,capped,2026-11-14
+BWA,100,2021-01-01-bwa-burs-annual-report-2021,2026-11-15,instrument,2026-11-15
+CMR,102,2026-11-12-cmr-art-mtn-cameroon-roadmap-quality-of-service,2026-11-15,capped,2026-11-15
+DZA,99,2026-05-17-dza-algerac-accredited-management-system-certification-bodies,2026-11-15,instrument,2026-11-15
+EGY,131,2026-11-13-egy-eu-electronic-signature-technical-compatibility,2026-11-15,,
+LBR,112,2025-10-22-lbr-lta-imei-draft-regulations-public-consultation,2026-11-15,instrument,2026-11-15
+LBY,86,2026-11-14-lby-lana-chambers-union-unified-digital-system-phase-two,2026-11-15,,
+NGA,195,2026-11-11-nga-cbn-faq-data-localisation-circular,2026-11-15,,
+TZA,137,2026-09-09-tza-mwananchi-zanzibar-mwongozo-nguzo-fiber,2026-11-15,capped,2026-11-15
+TZA,138,2026-02-18-data-center-standards-guidelines-public-institutions,2026-11-15,capped,2026-11-15

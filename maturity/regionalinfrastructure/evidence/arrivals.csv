@@ -1792,7 +1792,7 @@ SSD,56,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-
 SWZ,38,2021-07-01-syc-the-regulation-of-interconnection-and-regulatory-alignment-in-the-sout,2026-11-13,instrument,2026-11-13
 TCD,60,2025-12-09-tcd-tchad-n-djamena-accueille-la-7e-session-du-comite-de-liaison-de-la-dor,2026-11-13,,
 TCD,61,2025-07-10-tcd-chad-cameroon-target-august-11-for-free-roaming-rollout,2026-11-13,,
-TCD,62,2024-03-13-tcd-telecommunications-le-projet-de-loi-relatif-a-l-uat-adopte,2026-11-13,,
+TCD,62,2024-03-13-tcd-telecommunications-le-projet-de-loi-relatif-a-l-uat-adopte,2026-11-13,capped,2026-11-15
 TCD,63,2025-02-17-cog-partage-d-experience-sur-l-itinerance-mobile-internationale-et-regiona,2026-11-13,,
 TCD,64,2022-10-28-cog-a-kigali-l-artac-et-l-alliance-smart-africa-unissent-leurs-forces-pour,2026-11-13,old,2026-11-13
 TCD,65,2020-08-27-tcd-smart-africa-hosts-14th-steering-committee-meeting-of-the-smart-africa,2026-11-13,old,2026-11-13
@@ -1809,7 +1809,7 @@ TUN,35,2026-06-06-tun-tunisie-algerie-renforcement-de-l-infrastructure-en-vue,20
 TUN,36,2020-08-27-tcd-smart-africa-hosts-14th-steering-committee-meeting-of-the-smart-africa,2026-11-13,old,2026-11-13
 TUN,37,2019-12-01-tun-etude-sur-quelle-vision-de-la-tunisie-dans-la-cooperation-euro-africai,2026-11-13,instrument,2026-11-13
 TZA,64,2026-02-17-tza-sadc-stakeholders-review-satellite-plans-in-dar-forum,2026-11-13,,
-TZA,65,2025-09-13-cod-rdctanzanie-jose-mpanda-donne-un-coup-daccelerateur-au-projet-de-fibre,2026-11-13,,
+TZA,65,2025-09-13-cod-rdctanzanie-jose-mpanda-donne-un-coup-daccelerateur-au-projet-de-fibre,2026-11-13,capped,2026-11-15
 TZA,66,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-the-east-afr,2026-11-13,instrument,2026-11-13
 UGA,101,2025-03-07-uga-driving-digital-integration-across-africa-as-telecom-players-explore-m,2026-11-13,,
 UGA,102,2024-03-07-uga-northern-corridor-integration-projects-senior-officials-meeting-of-ict,2026-11-13,capped,2026-11-14
@@ -1825,7 +1825,7 @@ ZMB,72,2025-01-01-zmb-national-energy-compact-for-zambia,2026-11-13,instrument,2
 ZMB,73,2021-07-01-syc-the-regulation-of-interconnection-and-regulatory-alignment-in-the-sout,2026-11-13,instrument,2026-11-13
 ZWE,45,2026-07-02-zwe-zimbabwe-moves-to-criminalise-malicious-ai-generated-deepfakes,2026-11-13,,
 ZWE,46,2026-03-01-bwa-bocra-ona-press-release,2026-11-13,capped,2026-11-14
-ZWE,47,2025-07-01-zwe-zim-sa-sign-data-protection-agreement,2026-11-13,,
+ZWE,47,2025-07-01-zwe-zim-sa-sign-data-protection-agreement,2026-11-13,capped,2026-11-15
 ZWE,48,2025-03-18-zwe-sadc-ministers-unite-in-harare-to-help-shape-africa-s-digital-future,2026-11-13,,
 ZWE,49,2020-08-27-tcd-smart-africa-hosts-14th-steering-committee-meeting-of-the-smart-africa,2026-11-13,old,2026-11-13
 ZWE,50,2025-08-01-mus-cross-country-study-on-international-roaming-charges,2026-11-13,instrument,2026-11-13
@@ -1836,7 +1836,7 @@ BDI,38,2019-11-18-bdi-burundi-education-and-research-network-connects-to-ubuntun
 BDI,39,2024-05-01-bdi-fostering-creative-and-innovative-research-and-education-communities-a,2026-11-14,instrument,2026-11-14
 BDI,40,2022-01-01-bdi-burundi-technologie-education-profiles,2026-11-14,instrument,2026-11-14
 BDI,41,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-BEN,55,2025-04-15-ben-universite-d-abomey-calavi-le-rber-les-etudiants-entre-satisfaction-et,2026-11-14,,
+BEN,55,2025-04-15-ben-universite-d-abomey-calavi-le-rber-les-etudiants-entre-satisfaction-et,2026-11-14,capped,2026-11-15
 BEN,56,2024-11-23-ben-benin-10-sites-universitaires-publics-sur-23-ont-un-acces-a-un-reseau,2026-11-14,capped,2026-11-14
 BEN,57,2022-06-30-ben-le-reseau-beninois-d-education-et-de-recherche-officiellement-mis-en-s,2026-11-14,old,2026-11-14
 BEN,58,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-14,old,2026-11-14
@@ -1955,3 +1955,13 @@ ZMB,74,2024-05-01-bdi-fostering-creative-and-innovative-research-and-education-c
 ZMB,75,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 ZWE,52,2024-05-01-bdi-fostering-creative-and-innovative-research-and-education-communities-a,2026-11-14,instrument,2026-11-14
 ZWE,53,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+GHA,76,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-15,old,2026-11-15
+LBY,18,2026-11-14-lby-lana-gia-digital-transformation-competitiveness-forum,2026-11-15,,
+MLI,62,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-15,old,2026-11-15
+NGA,131,2026-11-13-camerpress-tchad-nigeria-banque-mondiale-fibre,2026-11-15,capped,2026-11-15
+NGA,132,2026-11-12-mten-doha-partenariats-numeriques-nigeria-france,2026-11-15,capped,2026-11-15
+NGA,133,2023-04-05-cpv-six-ecowas-member-states-sign-a-memorandum-of-understanding-in-the-pre,2026-11-15,old,2026-11-15
+NGA,134,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-15,old,2026-11-15
+TCD,69,2026-11-13-camerpress-tchad-nigeria-banque-mondiale-fibre,2026-11-15,,
+TCD,70,2026-11-12-mten-doha-partenariats-numeriques-nigeria-france,2026-11-15,,
+TGO,53,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-15,old,2026-11-15

@@ -1451,7 +1451,7 @@ ZMB,63,2026-03-01-zmb-rural-electrification-master-plan-for-zambia-2025-2030,202
 ZMB,64,2025-08-01-mus-cross-country-study-on-international-roaming-charges,2026-11-13,instrument,2026-11-13
 ZWE,58,2026-08-28-zwe-land-tenure-reform-ensures-bankability-and-agricultural-investment,2026-11-13,capped,2026-11-13
 ZWE,59,2026-07-08-zwe-digital-land-system-to-boost-transparency,2026-11-13,capped,2026-11-13
-ZWE,60,2026-02-14-zwe-certificate-of-accreditation-standards-association-of-zimbabwe-certifi,2026-11-13,,
+ZWE,60,2026-02-14-zwe-certificate-of-accreditation-standards-association-of-zimbabwe-certifi,2026-11-13,capped,2026-11-15
 ZWE,61,2025-08-01-mus-cross-country-study-on-international-roaming-charges,2026-11-13,instrument,2026-11-13
 AGO,58,2023-04-07-ago-constituir-uma-empresa-e-facil-licenciar-e-muito-mais-complicado,2026-11-14,old,2026-11-14
 BDI,41,2024-06-13-bdi-project-paper-on-a-proposed-additional-grant-in-the-amount-of-sdr15-2,2026-11-14,instrument,2026-11-14
@@ -1541,7 +1541,7 @@ MLI,50,2024-06-01-xwa-watra-ngso-framework,2026-11-14,instrument,2026-11-14
 MLI,51,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
 MOZ,46,2026-09-04-moz-facim-2026-bau-pushes-digitalisation-to-ease-small-business-formalisat,2026-11-14,,
 MOZ,47,2021-01-01-moz-mozambique-national-gender-statistics-assessment,2026-11-14,instrument,2026-11-14
-MRT,63,2024-11-21-mrt-unipod-le-nouveau-hub-technologique-de-l-universite-de-nouakchott-en-m,2026-11-14,,
+MRT,63,2024-11-21-mrt-unipod-le-nouveau-hub-technologique-de-l-universite-de-nouakchott-en-m,2026-11-14,capped,2026-11-15
 MRT,64,2019-01-01-mrt-manuel-d-utilisation-des-tele-services,2026-11-14,old,2026-11-14
 MRT,65,2025-04-01-mrt-note-annuelle-sectorielle-sur-la-mise-en-oeuvre-nasmo-du-second-plan-d,2026-11-14,instrument,2026-11-14
 MRT,66,2025-01-01-mrt-registre-social-en-mauritanie-appropriation-institutionnelle-et-evolut,2026-11-14,instrument,2026-11-14
@@ -1579,7 +1579,7 @@ RWA,80,2019-09-01-rwa-the-third-national-strategy-for-the-development-of-statist
 SDN,37,2026-11-01-sdn-private-sector-engagement-strategy-sudan,2026-11-14,instrument,2026-11-14
 SDN,38,2025-02-28-sudan-family-support-project-icr-worldbank,2026-11-14,instrument,2026-11-14
 SEN,90,2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-registre-nat,2026-11-14,,
-SEN,91,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,,
+SEN,91,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,capped,2026-11-15
 SEN,92,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific,2026-11-14,,
 SEN,93,2026-09-07-sen-bourses-de-securite-familiale-le-nombre-de-beneficiaires-passe-de-355,2026-11-14,capped,2026-11-14
 SEN,94,2023-10-01-sen-atelier-technique-multi-pays-sur-les-registres-sociaux-2-5-octobre-202,2026-11-14,instrument,2026-11-14
@@ -1587,7 +1587,7 @@ SEN,95,2022-12-01-tcd-linking-humanitarian-cash-assistance-and-national-social-p
 SEN,96,2020-01-20-sen-journal-officiel-n-7259-du-lundi-20-janvier-2020,2026-11-14,instrument,2026-11-14
 SEN,97,2024-06-01-xwa-watra-ngso-framework,2026-11-14,instrument,2026-11-14
 SEN,98,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
-SLE,55,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,,
+SLE,55,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,capped,2026-11-15
 SLE,56,2024-06-01-xwa-watra-ngso-framework,2026-11-14,instrument,2026-11-14
 SLE,57,2022-01-01-sle-national-social-protection-strategy-for-sierra-leone-2022-2026,2026-11-14,instrument,2026-11-14
 SLE,58,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
@@ -1630,3 +1630,17 @@ ZMB,69,2022-08-11-zmb-tax-updates-2022-zica-pre-agm-workshop,2026-11-14,instrume
 ZWE,62,2025-05-07-zwe-procedure-for-company-registration-in-zimbabwe,2026-11-14,capped,2026-11-14
 ZWE,63,2026-06-13-zwe-zimbabwe-pushes-digital-transformation-agenda-under-smart-zimbabwe-203,2026-11-14,capped,2026-11-14
 ZWE,64,2026-06-24-zwe-zimbabwe-social-registry-support-project-project-paper-report-no-pphi0,2026-11-14,instrument,2026-11-14
+AGO,59,2024-04-02-ago-apenas-2-em-cada-10-cidadaos-tem-oficialmente-numero-de-identificacao,2026-11-15,,
+BWA,44,2021-01-01-bwa-burs-annual-report-2021,2026-11-15,instrument,2026-11-15
+CIV,102,2015-03-24-civ-ordonnance-2015-182-identifiant-unique-immatriculation-entreprises,2026-11-15,old,2026-11-15
+COG,77,2020-03-12-cog-arrete-n5327-du-12-mars-2020-fixant-les-modalites-d-attribution-et-d-u,2026-11-15,old,2026-11-15
+ETH,55,2019-08-09-eth-commercial-registration-and-business-licensing-amendment-proclamation,2026-11-15,old,2026-11-15
+GHA,104,2026-11-12-gha-imani-digitising-the-till-portal-scorecard,2026-11-15,capped,2026-11-15
+KEN,104,2026-11-13-ken-data-protection-law-ai-era-test,2026-11-15,,
+LBY,50,2026-11-14-lby-lana-chambers-union-unified-digital-system-phase-two,2026-11-15,,
+LBY,51,2026-11-14-lby-pilot-electronic-registration-foreign-companies,2026-11-15,,
+LBY,52,2026-11-12-lby-economy-ministry-commercial-agencies-online-register,2026-11-15,capped,2026-11-15
+LBY,53,2026-11-12-ministry-of-economy-trade-launches-e-system-for-inquiring-about-commercial-agencies,2026-11-15,capped,2026-11-15
+SEN,99,2026-10-25-sen-mefp-clarification-bourses-securite-familiale-35-a-70-milliards,2026-11-15,capped,2026-11-15
+SWZ,70,2025-07-19-swz-we-are-on-the-right-path-says-groening-as-ers-revenue-hits-record-high,2026-11-15,capped,2026-11-15
+ZWE,65,2026-11-13-zwe-undp-shared-health-record-registries-hie-rfp,2026-11-15,,

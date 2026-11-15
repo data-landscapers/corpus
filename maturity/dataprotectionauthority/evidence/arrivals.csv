@@ -1408,7 +1408,7 @@ ZMB,81,2025-06-02-zmb-a-hrc-59-50-add2-sr-freedom-of-expression-visit-to-zambia,
 ZMB,82,2025-12-29-xea-explanatory-note-on-data-protection-and-privacy-egee-ict,2026-11-13,instrument,2026-11-13
 ZWE,85,2026-09-26-zwe-the-national-consultative-workshop-on-data-protection-implementation-g,2026-11-13,capped,2026-11-13
 ZWE,86,2026-07-01-zwe-legislative-and-regulatory-reform-in-zimbabwes-digital-sector-a-rights,2026-11-13,,
-ZWE,87,2025-07-01-zwe-zim-sa-sign-data-protection-agreement,2026-11-13,,
+ZWE,87,2025-07-01-zwe-zim-sa-sign-data-protection-agreement,2026-11-13,capped,2026-11-15
 ZWE,88,2025-12-29-xea-explanatory-note-on-data-protection-and-privacy-egee-ict,2026-11-13,instrument,2026-11-13
 BEN,111,2025-01-01-ben-bulletin-d-information-wuri-benin-n005,2026-11-14,instrument,2026-11-14
 BEN,112,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
@@ -1444,3 +1444,16 @@ STP,47,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-
 TGO,58,2023-06-01-tgo-program-appraisal-document-togo-social-assistance-transformation-for-r,2026-11-14,instrument,2026-11-14
 TGO,59,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
 TUN,66,2024-04-04-tun-decree-183-of-2024-organising-the-13th-general-population-and-housing-census,2026-11-14,instrument,2026-11-14
+CPV,75,2026-11-13-cpv-microsoft-outage-state-platforms,2026-11-15,,
+DZA,49,2026-11-12-dza-anpdp-deliberation-05-cv-data,2026-11-15,,
+GAB,35,2026-11-12-donnees-personnelles-lapdpvp-sensibilise-a-port-gentil,2026-11-15,,
+GHA,162,2026-11-12-gha-imani-digitising-the-till-portal-scorecard,2026-11-15,capped,2026-11-15
+KEN,193,2026-11-13-ken-data-protection-law-ai-era-test,2026-11-15,,
+KEN,194,2026-11-13-ken-kassait-reforms-central-data-pool,2026-11-15,,
+KEN,195,2026-10-13-ken-capitalfm-coa-clears-kenya-us-health-deal,2026-11-15,capped,2026-11-15
+MAR,95,2026-11-14-fnh-maroc-intelligence-artificielle-jusqu-ou,2026-11-15,,
+MAR,96,2026-11-13-cndp-north-africa-igf-data-protection-digital-sovereignty,2026-11-15,,
+NGA,216,2026-11-13-nga-thisday-ndpc-trains-dpcos-audit,2026-11-15,capped,2026-11-15
+NGA,217,2026-11-13-nga-tribune-google-600000-child-online-safety,2026-11-15,capped,2026-11-15
+SLE,31,2026-11-13-sle-parliament-refers-data-protection-bill,2026-11-15,,
+SLE,32,2026-11-12-parliament-commits-data-protection-bill-to-legislative-committee-by-ja,2026-11-15,,

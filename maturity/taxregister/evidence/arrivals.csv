@@ -913,7 +913,7 @@ CMR,50,2022-01-11-cmr-the-reform-of-income-tax-declaration-and-payment-procedure
 CMR,51,2025-03-03-cmr-guide-du-contribuable-sur-le-depot-electronique-de-la-declaration-stat,2026-11-14,instrument,2026-11-14
 COD,47,2026-11-11-cod-dr-congo-requires-foreign-digital-service-providers-to-register-and-pa,2026-11-14,capped,2026-11-14
 COD,48,2025-11-11-cod-numero-d-impot-fiscale-nif-la-dgi-reinvente-la-proximite-et-la-transpa,2026-11-14,,
-COD,49,2026-11-13-cod-i-impots-dgi-rdc-declarer-et-payer-ses-impots-en-ligne-guide-2026,2026-11-14,,
+COD,49,2026-11-13-cod-i-impots-dgi-rdc-declarer-et-payer-ses-impots-en-ligne-guide-2026,2026-11-14,capped,2026-11-15
 COD,50,2025-06-18-cod-democratic-republic-of-the-congo-first-review-under-the-extended-credi,2026-11-14,instrument,2026-11-14
 COD,51,2023-12-01-cod-expanding-and-improving-social-safety-nets-through-digitalization-conc,2026-11-14,instrument,2026-11-14
 COD,52,2022-09-08-cod-ordonnance-loi-n-22-030-du-8-septembre-2022-relative-a-la-promotion-de,2026-11-14,instrument,2026-11-14
@@ -1013,7 +1013,7 @@ RWA,59,2023-08-01-rwa-taxation-procedures,2026-11-14,instrument,2026-11-14
 RWA,60,2023-01-01-rwa-technology-and-tax-adoption-and-impacts-of-e-services-in-rwanda,2026-11-14,instrument,2026-11-14
 SDN,26,2025-02-28-sudan-family-support-project-icr-worldbank,2026-11-14,instrument,2026-11-14
 SEN,58,2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-registre-nat,2026-11-14,,
-SEN,59,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,,
+SEN,59,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,capped,2026-11-15
 SEN,60,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific,2026-11-14,,
 SEN,61,2026-09-07-sen-bourses-de-securite-familiale-le-nombre-de-beneficiaires-passe-de-355,2026-11-14,capped,2026-11-14
 SEN,62,2026-01-01-sen-guide-utilisateur-adhesion-et-connexion-sentax-v-1-1,2026-11-14,instrument,2026-11-14
@@ -1022,7 +1022,7 @@ SEN,64,2023-10-01-sen-atelier-technique-multi-pays-sur-les-registres-sociaux-2-5
 SEN,65,2022-12-01-tcd-linking-humanitarian-cash-assistance-and-national-social-protection-sy,2026-11-14,instrument,2026-11-14
 SEN,66,2020-01-20-sen-journal-officiel-n-7259-du-lundi-20-janvier-2020,2026-11-14,instrument,2026-11-14
 SEN,67,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
-SLE,37,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,,
+SLE,37,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,capped,2026-11-15
 SLE,38,2021-10-05-sle-nra-engages-business-stakeholders-on-new-tin-issuance-and-reforms,2026-11-14,old,2026-11-14
 SLE,39,2022-01-01-sle-national-social-protection-strategy-for-sierra-leone-2022-2026,2026-11-14,instrument,2026-11-14
 SLE,40,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
@@ -1037,7 +1037,7 @@ STP,34,2025-06-11-stp-ministra-da-justica-anuncia-o-sistema-de-identificacao-pes
 STP,35,2024-10-24-stp-estudo-alargado-dos-procedimentos-de-avaliacao-e-regulacao-adotados-pe,2026-11-14,instrument,2026-11-14
 STP,36,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
 SWZ,43,2026-10-19-swz-your-side-hustle-could-cost-you-if-you-don-t-file-ers-warns,2026-11-14,,
-SWZ,44,2026-08-03-swz-ers-urges-taxpayers-to-file-returns-early,2026-11-14,,
+SWZ,44,2026-08-03-swz-ers-urges-taxpayers-to-file-returns-early,2026-11-14,capped,2026-11-15
 SYC,30,2023-05-30-syc-information-on-tax-identification-numbers-seychelles,2026-11-14,old,2026-11-14
 SYC,31,2022-12-02-syc-src-launches-2023-2025-strategic-plan-new-tax-registration-platform-un,2026-11-14,old,2026-11-14
 SYC,32,2026-02-05-syc-seychelles-modernizing-audit-process-and-tax-administration-system-map,2026-11-14,instrument,2026-11-14
@@ -1071,3 +1071,17 @@ ZWE,50,2026-07-24-zwe-public-notice-returns-and-payments-due-august-2026,2026-11
 ZWE,51,2025-05-07-zwe-procedure-for-company-registration-in-zimbabwe,2026-11-14,capped,2026-11-14
 ZWE,52,2024-01-16-zwe-payment-of-taxes-in-tarms,2026-11-14,capped,2026-11-14
 ZWE,53,2026-06-24-zwe-zimbabwe-social-registry-support-project-project-paper-report-no-pphi0,2026-11-14,instrument,2026-11-14
+BWA,15,2020-05-07-bwa-sage-burs-lekgetho-live-goes-live-11-may-2020,2026-11-15,old,2026-11-15
+BWA,16,2021-01-01-bwa-burs-annual-report-2021,2026-11-15,instrument,2026-11-15
+COG,38,2020-03-12-cog-arrete-n5327-du-12-mars-2020-fixant-les-modalites-d-attribution-et-d-u,2026-11-15,old,2026-11-15
+CPV,42,2023-06-27-cpv-ministerio-da-justica-promove-feira-rni-mais-perto-de-si-na-universida,2026-11-15,old,2026-11-15
+DZA,72,2026-03-05-dza-eloigner-l-administration-de-l-execution-des-projets-publics,2026-11-15,capped,2026-11-15
+LSO,23,2022-08-02-lso-lras-modernisation-project-extended-to-october,2026-11-15,old,2026-11-15
+LSO,24,2025-09-10-lso-implementation-progress-and-results-report-lesotho-tax-modernisation-p,2026-11-15,instrument,2026-11-15
+MAR,57,2019-01-09-mar-douane-l-identifiant-commun-de-l-entreprise-obligatoire-a-partir-du-1e,2026-11-15,old,2026-11-15
+SEN,68,2026-10-25-sen-mefp-clarification-bourses-securite-familiale-35-a-70-milliards,2026-11-15,capped,2026-11-15
+SSD,38,2022-05-09-ssd-nra-reaps-dividends-from-digitalizing-revenue-collections,2026-11-15,old,2026-11-15
+SSD,39,2021-11-19-ssd-national-revenue-authority-launches-digitalized-tax-compliance-certifi,2026-11-15,old,2026-11-15
+SWZ,45,2025-07-19-swz-we-are-on-the-right-path-says-groening-as-ers-revenue-hits-record-high,2026-11-15,capped,2026-11-15
+ZWE,54,2025-02-03-zwe-zimra-public-notice-05-of-2025-paye-employee-management-module,2026-11-15,capped,2026-11-15
+ZWE,55,2026-11-13-zwe-undp-shared-health-record-registries-hie-rfp,2026-11-15,,

@@ -1357,7 +1357,7 @@ SWZ,58,2021-07-01-syc-the-regulation-of-interconnection-and-regulatory-alignment
 SYC,28,2025-12-29-xea-explanatory-note-on-data-protection-and-privacy-egee-ict,2026-11-13,instrument,2026-11-13
 TCD,46,2025-07-10-tcd-chad-cameroon-target-august-11-for-free-roaming-rollout,2026-11-13,,
 TCD,47,2025-02-17-cog-partage-d-experience-sur-l-itinerance-mobile-internationale-et-regiona,2026-11-13,,
-TCD,48,2024-03-13-tcd-telecommunications-le-projet-de-loi-relatif-a-l-uat-adopte,2026-11-13,,
+TCD,48,2024-03-13-tcd-telecommunications-le-projet-de-loi-relatif-a-l-uat-adopte,2026-11-13,capped,2026-11-15
 TCD,49,2021-11-01-cmr-free-roaming-cemac-signature-des-protocoles-d-accord-pour-l-itinerance,2026-11-13,old,2026-11-13
 TCD,50,2020-01-16-tcd-tchad-la-loi-sur-l-agence-nationale-de-securite-informatique-adoptee,2026-11-13,old,2026-11-13
 TCD,51,2023-08-16-cmr-trade-policy-review-countries-of-the-central-african-economic-and-mone,2026-11-13,instrument,2026-11-13
@@ -1418,7 +1418,7 @@ ZWE,65,2026-07-24-zimbabwe-african-registrars-e-passport-civil-registration-mode
 ZWE,66,2026-07-03-powertel-paratus-digital-highway,2026-11-13,capped,2026-11-13
 ZWE,67,2026-05-22-cipesa-zimbabwe-ai-strategy-policy-lessons,2026-11-13,capped,2026-11-13
 ZWE,68,2026-03-01-bwa-bocra-ona-press-release,2026-11-13,capped,2026-11-14
-ZWE,69,2025-07-01-zwe-zim-sa-sign-data-protection-agreement,2026-11-13,,
+ZWE,69,2025-07-01-zwe-zim-sa-sign-data-protection-agreement,2026-11-13,capped,2026-11-15
 ZWE,70,2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020,2026-11-13,old,2026-11-13
 ZWE,71,2025-03-13-bwa-crasa-legal-and-policy-committee-meeting-advances-regional-data-govern,2026-11-13,capped,2026-11-13
 ZWE,72,2024-01-01-iiag-2024-zimbabwe-profile,2026-11-13,instrument,2026-11-13
@@ -1447,3 +1447,4 @@ SOM,37,2025-11-01-som-digital-transformation-strategy-dts-for-somalia,2026-11-14
 TCD,55,2026-09-01-tcd-guide-de-l-investisseur-au-tchad,2026-11-14,instrument,2026-11-14
 ZAF,127,2026-07-06-zaf-south-african-startup-growth-trails-regional-peers,2026-11-14,,
 ZMB,81,2024-10-01-zmb-brief-on-the-sadc-protocol-on-statistics-for-the-committee-on-national,2026-11-14,instrument,2026-11-14
+KEN,174,2026-11-13-ken-kassait-reforms-central-data-pool,2026-11-15,,

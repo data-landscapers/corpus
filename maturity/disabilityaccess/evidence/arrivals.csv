@@ -2049,7 +2049,7 @@ KEN,221,2026-05-01-ken-services-nsps,2026-11-14,capped,2026-11-14
 KEN,222,2026-05-01-mwi-unlocking-data-newsletter-may-edition,2026-11-14,,
 KEN,223,2026-02-01-ken-february-newsletter-edition,2026-11-14,,
 KEN,224,2025-08-07-ken-cbc-senior-school-official-list-of-subjects-and-timetable-for-grades-1,2026-11-14,capped,2026-11-14
-KEN,225,2025-01-01-ken-inua-jamii-beneficiaries-have-until-march-15-to-withdraw,2026-11-14,,
+KEN,225,2025-01-01-ken-inua-jamii-beneficiaries-have-until-march-15-to-withdraw,2026-11-14,capped,2026-11-15
 KEN,226,2023-05-11-ken-govt-seeks-new-system-to-identify-the-needy-in-social-protection-refor,2026-11-14,old,2026-11-14
 KEN,227,2026-01-29-ken-kenya-national-bureau-of-statistics-annual-reports-and-financial-state,2026-11-14,instrument,2026-11-14
 KEN,228,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-and-revenu,2026-11-14,instrument,2026-11-14
@@ -2198,7 +2198,7 @@ TUN,62,2024-08-01-tun-integrated-social-protection-and-jobs-services-in-tunisia-
 TZA,148,2025-11-01-tza-tanzania-s-social-protection-profile,2026-11-14,,
 TZA,149,2025-05-01-tza-vital-statistics-on-university-education-in-tanzania-2024,2026-11-14,instrument,2026-11-14
 TZA,150,2022-07-01-tza-social-protection-and-welfare-budget-issue-paper,2026-11-14,instrument,2026-11-14
-UGA,194,2025-06-27-uga-uj-connect-celebrates-another-milestone,2026-11-14,,
+UGA,194,2025-06-27-uga-uj-connect-celebrates-another-milestone,2026-11-14,capped,2026-11-15
 UGA,195,2026-06-01-uga-impact-assessment-study-of-the-universal-service-and-access-fund-ucusa,2026-11-14,instrument,2026-11-14
 UGA,196,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-and-revenu,2026-11-14,instrument,2026-11-14
 UGA,197,2025-01-01-uga-digitising-schools-with-high-speed-internet-under-the-renu-ucc-partner,2026-11-14,instrument,2026-11-14
@@ -2228,3 +2228,8 @@ ZMB,131,2024-07-01-zmb-the-statistician-volume-eight,2026-11-14,instrument,2026-
 ZMB,132,2023-01-01-zmb-towards-a-more-adaptive-social-protection-system-in-zambia,2026-11-14,instrument,2026-11-14
 ZWE,133,2026-07-09-zwe-digital-inclusion-and-gender-equity-in-zimbabwe-opportunities-and-gaps,2026-11-14,capped,2026-11-14
 ZWE,134,2026-06-24-zwe-zimbabwe-social-registry-support-project-project-paper-report-no-pphi0,2026-11-14,instrument,2026-11-14
+EGY,114,2026-11-14-egy-public-prosecution-ai-data-centre-smart-justice-protocol,2026-11-15,,
+EGY,115,2026-11-14-orange-egypte-parquet-general-services-numeriques-ia,2026-11-15,,
+SLE,102,2026-11-13-sle-parliament-refers-data-protection-bill,2026-11-15,,
+UGA,204,2026-11-12-monitor-uganda-bou-financial-inclusion-payment-switch,2026-11-15,,
+ZWE,135,2026-11-13-zwe-itweb-dhl-digital-logistics-youth-training,2026-11-15,capped,2026-11-15

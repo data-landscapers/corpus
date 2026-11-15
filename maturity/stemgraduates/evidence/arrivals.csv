@@ -382,7 +382,7 @@ BDI,17,2020-05-05-cod-african-nrens-africaconnect3,2026-11-14,old,2026-11-14
 BDI,18,2024-05-01-bdi-fostering-creative-and-innovative-research-and-education-communities-a,2026-11-14,instrument,2026-11-14
 BDI,19,2022-01-01-bdi-burundi-technologie-education-profiles,2026-11-14,instrument,2026-11-14
 BDI,20,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-BEN,28,2025-04-15-ben-universite-d-abomey-calavi-le-rber-les-etudiants-entre-satisfaction-et,2026-11-14,,
+BEN,28,2025-04-15-ben-universite-d-abomey-calavi-le-rber-les-etudiants-entre-satisfaction-et,2026-11-14,capped,2026-11-15
 BEN,29,2024-11-23-ben-benin-10-sites-universitaires-publics-sur-23-ont-un-acces-a-un-reseau,2026-11-14,capped,2026-11-14
 BEN,30,2022-06-30-ben-le-reseau-beninois-d-education-et-de-recherche-officiellement-mis-en-s,2026-11-14,old,2026-11-14
 BEN,31,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-14,old,2026-11-14
@@ -613,7 +613,7 @@ TZA,39,2020-05-05-cod-african-nrens-africaconnect3,2026-11-14,old,2026-11-14
 TZA,40,2025-05-01-tza-vital-statistics-on-university-education-in-tanzania-2024,2026-11-14,instrument,2026-11-14
 TZA,41,2024-05-01-bdi-fostering-creative-and-innovative-research-and-education-communities-a,2026-11-14,instrument,2026-11-14
 TZA,42,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-UGA,42,2025-07-14-uga-one-signal-at-a-time-1-000-campuses-connected-driving-digital-health-a,2026-11-14,,
+UGA,42,2025-07-14-uga-one-signal-at-a-time-1-000-campuses-connected-driving-digital-health-a,2026-11-14,capped,2026-11-15
 UGA,43,2024-11-10-uga-working-together-to-scale-up-services-in-uganda,2026-11-14,,
 UGA,44,2025-07-08-uga-renu-features-in-the-giga-project-s-newseltter,2026-11-14,capped,2026-11-14
 UGA,45,2020-05-05-cod-african-nrens-africaconnect3,2026-11-14,old,2026-11-14
@@ -643,3 +643,14 @@ ZWE,43,2024-09-14-zwe-uz-churns-out-first-education-5-0-graduates,2026-11-14,cap
 ZWE,44,2020-05-05-cod-african-nrens-africaconnect3,2026-11-14,old,2026-11-14
 ZWE,45,2024-05-01-bdi-fostering-creative-and-innovative-research-and-education-communities-a,2026-11-14,instrument,2026-11-14
 ZWE,46,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+GHA,74,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-15,old,2026-11-15
+LBR,32,2025-09-01-lbr-undp-ul-partner-to-launch-ai-masters-program-in-liberia,2026-11-15,capped,2026-11-15
+LSO,30,2024-06-25-lso-world-bank-edstats-tertiary-graduates-by-field-lesotho,2026-11-15,capped,2026-11-15
+LSO,31,2016-08-01-lso-education-sector-plan-2016-2026,2026-11-15,instrument,2026-11-15
+MLI,21,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-15,old,2026-11-15
+MOZ,44,2026-02-01-moz-inde-programa-tic-ensino-secundario-1o-ciclo-anexo-xvii,2026-11-15,instrument,2026-11-15
+MRT,29,2025-01-01-mrt-ipn-guide-informatique-1as,2026-11-15,instrument,2026-11-15
+NGA,57,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-15,old,2026-11-15
+SDN,24,2011-11-01-sdn-suvl-suin-and-sudren-history-of-the-sudanese-education-network,2026-11-15,instrument,2026-11-15
+TGO,29,2021-06-29-civ-hat-trick-three-nrens-connect-to-the-wacren-backbone-for-unlimited-pos,2026-11-15,old,2026-11-15
+ZAF,57,2026-11-13-zaf-itweb-sasseta-r15m-northlink-college-digitalisation-hub,2026-11-15,capped,2026-11-15

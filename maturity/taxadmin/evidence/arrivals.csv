@@ -772,7 +772,7 @@ GNB,13,2024-07-23-gnb-tecnicos-da-dgci-e-contribuintes-debatem-a-introducao-de-i
 GNB,14,2024-05-01 Guinea-Bissau - Further Improvements in Tax Compliance (IMF technical assistance),2026-11-13,,
 KEN,67,2026-09-04-ken-ruto-cites-infrastructure-technology-and-welfare-gains-in-police-refor,2026-11-13,capped,2026-11-13
 KEN,68,2026-05-07-ken-kra-to-link-real-time-tax-systems-to-m-pesa-for-easier-compliance,2026-11-13,,
-KEN,69,2023-11-17-ken-tax-payment-through-paybill-number-222222,2026-11-13,,
+KEN,69,2023-11-17-ken-tax-payment-through-paybill-number-222222,2026-11-13,capped,2026-11-15
 LBR,60,2026-04-15-lbr-lra-hosts-first-digital-symposium-to-showcase-technology-driving-tax-c,2026-11-13,,
 LBR,61,2024-05-01-lbr-strengthening-governance-and-inclusive-green-growth-liberia-annual-rep,2026-11-13,instrument,2026-11-13
 LBR,62,2025-06-01-lbr-liberia-revenue-authority-annual-report-january-december-fy2024,2026-11-13,instrument,2026-11-13
@@ -864,7 +864,7 @@ CIV,29,2023-11-08-civ-paiement-des-impots-en-cote-d-ivoire-comment-generer-les-q
 CIV,30,2021-12-01-civ-cote-d-ivoire-rapport-d-evaluation-de-la-performance-tadat,2026-11-14,instrument,2026-11-14
 CMR,30,2019-09-10-cmr-cameroon-starts-e-filing-of-tax-returns-using-rdf-s-govin-system,2026-11-14,old,2026-11-14
 CMR,31,2025-03-03-cmr-guide-du-contribuable-sur-le-depot-electronique-de-la-declaration-stat,2026-11-14,instrument,2026-11-14
-COD,31,2026-11-13-cod-i-impots-dgi-rdc-declarer-et-payer-ses-impots-en-ligne-guide-2026,2026-11-14,,
+COD,31,2026-11-13-cod-i-impots-dgi-rdc-declarer-et-payer-ses-impots-en-ligne-guide-2026,2026-11-14,capped,2026-11-15
 COD,32,2026-11-11-cod-dr-congo-requires-foreign-digital-service-providers-to-register-and-pa,2026-11-14,capped,2026-11-14
 COD,33,2025-06-18-cod-democratic-republic-of-the-congo-first-review-under-the-extended-credi,2026-11-14,instrument,2026-11-14
 COD,34,2024-01-01-cod-democratic-republic-of-congo-compact-with-africa-progress-matrix,2026-11-14,instrument,2026-11-14
@@ -878,7 +878,7 @@ DJI,23,2024-06-01-dji-creating-fiscal-space-to-build-inclusive-and-resilient-gro
 DZA,37,2026-04-05-dza-securite-sociale-la-cnas-lance-de-nouveaux-services-pour-les-employeur,2026-11-14,,
 DZA,38,2026-02-19-dza-impots-la-dgi-repousse-les-delais-de-depot-de-plusieurs-declarations-f,2026-11-14,capped,2026-11-14
 EGY,19,2026-01-03-egy-eta-2025-tax-return-season-electronic-filing,2026-11-14,capped,2026-11-14
-ETH,50,2026-07-24-eth-ethio-telecom-and-amhara-revenue-bureau-partner-to-digitalize-tax-coll,2026-11-14,,
+ETH,50,2026-07-24-eth-ethio-telecom-and-amhara-revenue-bureau-partner-to-digitalize-tax-coll,2026-11-14,capped,2026-11-15
 ETH,51,2023-02-02-eth-ethio-telecom-and-ministry-of-revenues-sign-a-strategic-partnership-ag,2026-11-14,old,2026-11-14
 ETH,52,2025-07-01-eth-development-and-governance-impacts-of-digital-public-infrastructure-in,2026-11-14,instrument,2026-11-14
 ETH,53,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-and-revenu,2026-11-14,instrument,2026-11-14
@@ -925,7 +925,7 @@ MDG,36,2025-11-21-mdg-madagascar-administration-fiscale-les-paiements-digitaux-p
 MLI,26,2026-07-27-mli-aao-mali-acquisition-d-equipements-et-de-logiciels-informatiques-pour,2026-11-14,capped,2026-11-14
 MLI,27,2026-01-21-mli-direction-generale-des-impots-dgi-les-avantages-de-la-digitalisation-d,2026-11-14,capped,2026-11-14
 MLI,28,2022-03-02-mli-information-aux-contribuables-de-la-dge,2026-11-14,old,2026-11-14
-MOZ,24,2026-09-02-moz-autorizada-negociacoes-para-modernizacao-da-administracao-tributaria,2026-11-14,,
+MOZ,24,2026-09-02-moz-autorizada-negociacoes-para-modernizacao-da-administracao-tributaria,2026-11-14,capped,2026-11-15
 MOZ,25,2026-01-16-moz-prestacao-de-servico-de-implementacao-e-operacao-de-um-sistema-integra,2026-11-14,capped,2026-11-14
 MOZ,26,2025-12-15-state-moz-afghs-data-systems-2025-record,2026-11-14,capped,2026-11-14
 MOZ,27,2025-11-19-moz-governo-aprova-reformas-estruturantes-39-sessao-conselho-de-ministros,2026-11-14,capped,2026-11-14
@@ -965,7 +965,7 @@ SEN,28,2026-05-11-sen-journee-de-reflexion-et-de-partage-2026-la-dgid-engage-son
 SEN,29,2025-06-02-sen-program-appraisal-document-strengthening-senegal-s-fiscal-sustainabili,2026-11-14,instrument,2026-11-14
 SEN,30,2026-07-17-sen-mise-en-service-du-paiement-en-ligne-dans-lapplication-mon-espace-pers,2026-11-14,capped,2026-11-14
 SEN,31,2026-06-01-civ-african-development-bank-seminar-advances-vat-digitalization-across-we,2026-11-14,capped,2026-11-14
-SLE,55,2026-06-01-civ-african-development-bank-seminar-advances-vat-digitalization-across-we,2026-11-14,,
+SLE,55,2026-06-01-civ-african-development-bank-seminar-advances-vat-digitalization-across-we,2026-11-14,capped,2026-11-15
 SLE,56,2020-03-25-sle-the-national-revenue-authority-nra-and-the-national-civil-registration,2026-11-14,old,2026-11-14
 SLE,57,2020-01-10-sle-nra-meets-with-financial-parliamentary-committee,2026-11-14,old,2026-11-14
 SOM,34,2026-11-13-som-feisal-mohamed-hashi-the-vision-behind-somalia-s-revenue-reforms,2026-11-14,,
@@ -999,3 +999,10 @@ ZAF,58,2025-07-11-zaf-sars-strategic-plan-2025-26-2029-30,2026-11-14,instrument,
 ZMB,47,2026-10-08-zmb-zra-migrates-historical-tax-records-calls-for-review,2026-11-14,capped,2026-11-14
 ZMB,48,2026-01-01-zmb-the-key-to-efficient-taxes-and-expanded-revenue,2026-11-14,instrument,2026-11-14
 ZMB,49,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-and-revenu,2026-11-14,instrument,2026-11-14
+BWA,33,2020-05-07-bwa-sage-burs-lekgetho-live-goes-live-11-may-2020,2026-11-15,old,2026-11-15
+BWA,34,2021-01-01-bwa-burs-annual-report-2021,2026-11-15,instrument,2026-11-15
+MAR,41,2026-06-01-mar-dgi-rapport-d-activite-2025,2026-11-15,instrument,2026-11-15
+MDG,37,2026-11-14-mdg-2424-e-courrier-enseignement-superieur,2026-11-15,,
+NGA,55,2024-03-11-nga-firs-adds-self-registration-feature-to-taxpro-max,2026-11-15,capped,2026-11-15
+SDN,15,2025-07-01-sdn-in-its-quest-to-improve-tax-performance-finance-ministry-takes-action,2026-11-15,capped,2026-11-15
+SWZ,39,2026-02-01-swz-ers-integrated-annual-report-2024-25,2026-11-15,instrument,2026-11-15

@@ -2627,7 +2627,7 @@ COM,32,2025-12-29-xea-explanatory-note-on-data-protection-and-privacy-egee-ict,2
 CPV,46,2024-04-11-syc-energy-gaps-slight-uneven-progress-still-leaves-many-africans-without,2026-11-13,instrument,2026-11-13
 DJI,57,2025-12-29-xea-explanatory-note-on-data-protection-and-privacy-egee-ict,2026-11-13,instrument,2026-11-13
 EGY,136,2026-09-25-xaf-rules-on-paper-flows-in-practice-can-africas-continental-frameworks-sh,2026-11-13,,
-EGY,137,2026-08-13-egy-agriculture-insect-museum-iso-27001-renewal,2026-11-13,,
+EGY,137,2026-08-13-egy-agriculture-insect-museum-iso-27001-renewal,2026-11-13,capped,2026-11-15
 EGY,138,2025-09-01-egy-londa-2024-egypt-country-report,2026-11-13,instrument,2026-11-13
 ERI,36,2025-12-29-xea-explanatory-note-on-data-protection-and-privacy-egee-ict,2026-11-13,instrument,2026-11-13
 ETH,170,2026-08-01-systematic-literature-review-of-digital-payment-in-ethiopia,2026-11-13,capped,2026-11-14
@@ -3027,7 +3027,7 @@ TUN,75,2020-06-01-tun-tunisia-first-resilience-and-recovery-emergency-developmen
 TUN,76,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 TZA,178,2020-05-05-cod-african-nrens-africaconnect3,2026-11-14,old,2026-11-14
 TZA,179,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-UGA,245,2025-07-14-uga-one-signal-at-a-time-1-000-campuses-connected-driving-digital-health-a,2026-11-14,,
+UGA,245,2025-07-14-uga-one-signal-at-a-time-1-000-campuses-connected-driving-digital-health-a,2026-11-14,capped,2026-11-15
 UGA,246,2025-05-01-uga-policy-brief-assessing-the-state-of-internet-use-in-uganda-schools-a-c,2026-11-14,capped,2026-11-14
 UGA,247,2025-08-05-moz-report-finds-education-digital-transformation-affordable-and-scalable,2026-11-14,,
 UGA,248,2020-05-05-cod-african-nrens-africaconnect3,2026-11-14,old,2026-11-14
@@ -3049,3 +3049,6 @@ ZMB,154,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-ne
 ZWE,127,2025-12-02-zwe-zimstat-ignites-zimbabwe-s-data-revolution-as-national-systems-shift-t,2026-11-14,capped,2026-11-14
 ZWE,128,2020-05-05-cod-african-nrens-africaconnect3,2026-11-14,old,2026-11-14
 ZWE,129,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+KEN,450,2026-11-12-xaf-kbc-ahdars-2026-african-data-knowledge-systems,2026-11-15,capped,2026-11-15
+UGA,252,2026-11-13-independent-uganda-youth-ai-economy-readiness,2026-11-15,instrument,2026-11-15
+ZAF,325,2026-11-12-zaf-iol-china-ai-talent-centre-wuhan,2026-11-15,capped,2026-11-15

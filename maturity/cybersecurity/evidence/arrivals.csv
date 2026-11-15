@@ -1513,7 +1513,7 @@ ZMB,72,2023-07-24-xaf-the-african-union-convention-on-cyber-security-and-persona
 ZMB,73,2025-01-01-zmb-report-of-the-committee-on-parastatal-bodies-on-the-report-of-the-audi,2026-11-13,instrument,2026-11-13
 ZMB,74,2023-01-01-zmb-national-payment-system-vision-and-strategy-2023-2027,2026-11-13,instrument,2026-11-13
 ZWE,58,2026-07-02-zwe-zimbabwe-moves-to-criminalise-malicious-ai-generated-deepfakes,2026-11-13,,
-ZWE,59,2026-02-14-zwe-certificate-of-accreditation-standards-association-of-zimbabwe-certifi,2026-11-13,,
+ZWE,59,2026-02-14-zwe-certificate-of-accreditation-standards-association-of-zimbabwe-certifi,2026-11-13,capped,2026-11-15
 AGO,88,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 BDI,43,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 BEN,93,2021-01-01-tcd-wacren-annual-report-2020,2026-11-14,old,2026-11-14
@@ -1615,3 +1615,10 @@ ZAF,95,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-net
 ZMB,75,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-and-revenu,2026-11-14,instrument,2026-11-14
 ZMB,76,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 ZWE,60,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+CIV,130,2026-11-14-civ-aip-budget-2027-ministere-transition-numerique,2026-11-15,capped,2026-11-15
+COD,63,2026-11-13-cod-journee-mondiale-du-chiffrement-kibassa-maliba,2026-11-15,capped,2026-11-15
+CPV,66,2026-11-13-cpv-microsoft-outage-state-platforms,2026-11-15,,
+DJI,54,2026-11-12-dji-adi-djibouti-chiffres-uit-pp26,2026-11-15,,
+MAR,97,2026-11-14-xwa-ecowas-women-in-cybersecurity-rabat-apanews,2026-11-15,,
+SWZ,58,2026-11-14-govt-to-set-up-24-7-cybersecurity-centre-after-attacks,2026-11-15,,
+UGA,84,2026-09-09-itweb-africa-bank-of-uganda-security-measures,2026-11-15,capped,2026-11-15

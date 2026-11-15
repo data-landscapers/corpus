@@ -679,7 +679,7 @@ TUN,38,2024-08-01-tun-integrated-social-protection-and-jobs-services-in-tunisia-
 TUN,39,2020-06-01-tun-tunisia-first-resilience-and-recovery-emergency-development-policy-fin,2026-11-14,instrument,2026-11-14
 TZA,33,2025-05-01-tza-vital-statistics-on-university-education-in-tanzania-2024,2026-11-14,instrument,2026-11-14
 UGA,34,2026-11-01-uga-startup-policies-are-underway-but-what-about-funding-for-the-young-inn,2026-11-14,,
-UGA,35,2025-06-27-uga-uj-connect-celebrates-another-milestone,2026-11-14,,
+UGA,35,2025-06-27-uga-uj-connect-celebrates-another-milestone,2026-11-14,capped,2026-11-15
 UGA,36,2023-11-29-uga-minister-lugoloobi-inaugurates-new-ubos-board-of-directors,2026-11-14,capped,2026-11-14
 UGA,37,2023-08-01-uga-employment-and-skills-status-report-essr-2022,2026-11-14,instrument,2026-11-14
 UGA,38,2023-01-01-uga-ministerial-policy-statement-fy-2023-24-vote-143-uganda-bureau-of-stat,2026-11-14,instrument,2026-11-14
@@ -696,3 +696,12 @@ ZMB,37,2023-07-01-zmb-sector-strategy-plan-for-statistics-ssp-2022-2026,2026-11-
 ZMB,38,2023-01-01-zmb-towards-a-more-adaptive-social-protection-system-in-zambia,2026-11-14,instrument,2026-11-14
 ZWE,24,2024-11-16-zwe-mnangagwa-caps-3-201-at-nust,2026-11-14,capped,2026-11-14
 ZWE,25,2024-09-14-zwe-uz-churns-out-first-education-5-0-graduates,2026-11-14,capped,2026-11-14
+CPV,34,2025-08-20-cpv-boost-cv-acolhe-57-startups-cabo-verdianas-no-lancamento-dos-grupos-1,2026-11-15,,
+LSO,38,2024-06-25-lso-world-bank-edstats-tertiary-graduates-by-field-lesotho,2026-11-15,capped,2026-11-15
+LSO,39,2016-08-01-lso-education-sector-plan-2016-2026,2026-11-15,instrument,2026-11-15
+NGA,51,2026-11-13-nga-techcabal-idice-50000-youth-training-north-west,2026-11-15,capped,2026-11-15
+TGO,18,2026-11-03-tgo-programme-sifa-1-000-jeunes-formes-aux-competences-numeriques-au-togo,2026-11-15,capped,2026-11-15
+UGA,39,2026-11-13-uga-govt-to-open-ict-innovation-hub-at-mountains-of-the-moon-university,2026-11-15,capped,2026-11-15
+UGA,40,2026-03-03-uga-science-tech-govt-partners-back-digital-entrepreneurship-through-start,2026-11-15,capped,2026-11-15
+UGA,41,2026-11-13-independent-uganda-youth-ai-economy-readiness,2026-11-15,instrument,2026-11-15
+ZWE,26,2026-11-13-zwe-itweb-dhl-digital-logistics-youth-training,2026-11-15,capped,2026-11-15

@@ -3930,7 +3930,7 @@ ZAF,544,2023-06-01-zaf-identity-documents-employment-and-livelihoods-of-refugees
 ZAF,545,2023-01-01-mus-2023-engagement-report,2026-11-13,instrument,2026-11-13
 ZAF,546,2025-12-29-xea-explanatory-note-on-data-protection-and-privacy-egee-ict,2026-11-13,instrument,2026-11-13
 ZAF,547,2025-12-01-ssd-regional-pledge-stocktaking-report-2024-2025-eastern-and-southern-afri,2026-11-13,instrument,2026-11-13
-ZMB,230,2024-03-29-zmb-govt-suspends-mass-enrollment-on-inris-to-reallocate-resources,2026-11-13,,
+ZMB,230,2024-03-29-zmb-govt-suspends-mass-enrollment-on-inris-to-reallocate-resources,2026-11-13,capped,2026-11-15
 ZMB,231,2023-01-17-zmb-zambia-refugee-self-service-kiosk,2026-11-13,old,2026-11-13
 ZMB,232,2020-08-27-tcd-smart-africa-hosts-14th-steering-committee-meeting-of-the-smart-africa,2026-11-13,old,2026-11-13
 ZMB,233,2026-09-28-zmb-digitizing-death-reporting-in-zambia-evaluation-of-a-mobile-based-civi,2026-11-13,instrument,2026-11-13
@@ -3944,7 +3944,7 @@ ZMB,240,2025-12-29-xea-explanatory-note-on-data-protection-and-privacy-egee-ict,
 ZMB,241,2025-12-01-ssd-regional-pledge-stocktaking-report-2024-2025-eastern-and-southern-afri,2026-11-13,instrument,2026-11-13
 ZWE,197,2026-07-01-zwe-legislative-and-regulatory-reform-in-zimbabwes-digital-sector-a-rights,2026-11-13,,
 ZWE,198,2026-06-11-zwe-taking-civil-registration-services-to-remote-communities-mobile-regist,2026-11-13,,
-ZWE,199,2025-07-01-zwe-zim-sa-sign-data-protection-agreement,2026-11-13,,
+ZWE,199,2025-07-01-zwe-zim-sa-sign-data-protection-agreement,2026-11-13,capped,2026-11-15
 ZWE,200,2024-10-01-zwe-statement-by-the-deputy-minister-of-public-service-labour-and-social-w,2026-11-13,,
 ZWE,201,2019-11-17-zwe-unhcr-intervenes-in-the-documentation-of-cyclone-idai-victims,2026-11-13,old,2026-11-13
 ZWE,202,2020-08-27-tcd-smart-africa-hosts-14th-steering-committee-meeting-of-the-smart-africa,2026-11-13,old,2026-11-13
@@ -4163,7 +4163,7 @@ SEN,334,2025-06-02-sen-program-appraisal-document-strengthening-senegal-s-fiscal
 SEN,335,2023-10-01-sen-atelier-technique-multi-pays-sur-les-registres-sociaux-2-5-octobre-202,2026-11-14,instrument,2026-11-14
 SEN,336,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
 SEN,337,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-SLE,225,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,,
+SLE,225,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,capped,2026-11-15
 SLE,226,2021-10-05-sle-nra-engages-business-stakeholders-on-new-tin-issuance-and-reforms,2026-11-14,old,2026-11-14
 SLE,227,2020-03-25-sle-the-national-revenue-authority-nra-and-the-national-civil-registration,2026-11-14,old,2026-11-14
 SLE,228,2025-10-31-sle-system-transformation-grant-annual-progress-report-template-for-projec,2026-11-14,instrument,2026-11-14
@@ -4248,3 +4248,16 @@ ZWE,208,2026-06-13-zwe-zimbabwe-pushes-digital-transformation-agenda-under-smart
 ZWE,209,2025-05-07-zwe-procedure-for-company-registration-in-zimbabwe,2026-11-14,capped,2026-11-14
 ZWE,210,2024-05-01-bdi-fostering-creative-and-innovative-research-and-education-communities-a,2026-11-14,instrument,2026-11-14
 ZWE,211,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+BFA,232,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+ETH,429,2026-11-13-eth-uncdf-digital-foundations-agricultural-finance,2026-11-15,capped,2026-11-15
+GHA,477,2026-11-12-gha-imani-digitising-the-till-portal-scorecard,2026-11-15,capped,2026-11-15
+GIN,189,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+KEN,590,2026-11-13-ken-data-protection-law-ai-era-test,2026-11-15,,
+MOZ,211,2026-11-14-moz-mznews-inatro-atdi-carta-conducao-registo-veiculos,2026-11-15,,
+NAM,200,2026-11-14-nam-techreviewafrica-dpi-financial-sector-pki-eid,2026-11-15,,
+NER,203,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+SEN,338,2026-11-13-sen-apanews-budget-2027-telecommunications-numerique-poste,2026-11-15,capped,2026-11-15
+SLE,233,2026-11-13-sle-parliament-refers-data-protection-bill,2026-11-15,,
+SLE,234,2026-11-12-parliament-commits-data-protection-bill-to-legislative-committee-by-ja,2026-11-15,,
+TUN,176,2017-11-08-afdb-tun-2017-tunisie-digitale-2020-support-loan,2026-11-15,old,2026-11-15
+ZMB,249,2026-03-16-zmb-us-zambia-health-mou-initial-draft-healthgap,2026-11-15,instrument,2026-11-15

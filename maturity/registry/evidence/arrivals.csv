@@ -2849,7 +2849,7 @@ BFA,134,2024-12-20-bfa-from-shadows-to-school-desks-restoring-hope-for-forcibly-
 BFA,135,2025-05-26-bfa-annual-results-report-2024-burkina-faso,2026-11-13,instrument,2026-11-13
 BFA,136,2023-12-01-bfa-plan-d-action-national-2023-2025-du-partenariat-pour-un-gouvernement-o,2026-11-13,instrument,2026-11-13
 BFA,137,2022-06-01-bfa-acces-au-numerique-besoins-en-communication-et-pratiques-communautaire,2026-11-13,instrument,2026-11-13
-BWA,73,2025-03-23-bwa-national-registration-amendment-act-2025-no-7,2026-11-13,,
+BWA,73,2025-03-23-bwa-national-registration-amendment-act-2025-no-7,2026-11-13,capped,2026-11-15
 BWA,74,2024-03-01-bwa-vital-statistics-report-2021,2026-11-13,instrument,2026-11-13
 BWA,75,2022-09-01-bwa-vital-statistics-report-2020,2026-11-13,instrument,2026-11-13
 BWA,76,2026-04-30-bwa-report-on-follow-up-to-the-concluding-observations-of-the-human-rights,2026-11-13,instrument,2026-11-13
@@ -2980,7 +2980,7 @@ NER,129,2026-01-01-ner-mise-a-jour-operationnelle-trimestrielle-octobre-decembre
 NER,130,2025-08-12-ner-niger-officially-launches-global-alliance-to-end-statelessness,2026-11-13,,
 NER,131,2025-06-01-ner-niger-operational-update-january-march-2025,2026-11-13,instrument,2026-11-13
 NER,132,2023-01-01-ner-unhcr-niger-rapport-annuel-2022,2026-11-13,instrument,2026-11-13
-NGA,169,2026-08-04-nga-npc-launches-vitalreg-digital-birth-and-death-registration-platform-ac,2026-11-13,,
+NGA,169,2026-08-04-nga-npc-launches-vitalreg-digital-birth-and-death-registration-platform-ac,2026-11-13,capped,2026-11-15
 NGA,170,2026-01-01-nga-from-birth-to-nin-how-lagos-is-building-legal-identity-for-every-child,2026-11-13,,
 NGA,171,2025-01-01-nga-3-8-2-refugees-asylum-seekers-and-idps,2026-11-13,,
 NGA,172,2019-01-01-nga-snapshot-of-civil-registration-and-vital-statistics-systems-of-nigeria,2026-11-13,instrument,2026-11-13
@@ -3048,7 +3048,7 @@ ZAF,140,2025-12-01-ssd-regional-pledge-stocktaking-report-2024-2025-eastern-and-
 ZMB,121,2026-10-26-zmb-982-properties-vanish-after-zilmis-to-zilas-transition,2026-11-13,capped,2026-11-14
 ZMB,122,2026-03-30-zmb-zambia-seeks-international-system-integrator-for-mosip-based-digital-i,2026-11-13,capped,2026-11-14
 ZMB,123,2024-09-01-zmb-unhcr-zambia-factsheet-september-2024,2026-11-13,,
-ZMB,124,2024-03-29-zmb-govt-suspends-mass-enrollment-on-inris-to-reallocate-resources,2026-11-13,,
+ZMB,124,2024-03-29-zmb-govt-suspends-mass-enrollment-on-inris-to-reallocate-resources,2026-11-13,capped,2026-11-15
 ZMB,125,2023-01-17-zmb-zambia-refugee-self-service-kiosk,2026-11-13,old,2026-11-13
 ZMB,126,2026-09-28-zmb-digitizing-death-reporting-in-zambia-evaluation-of-a-mobile-based-civi,2026-11-13,instrument,2026-11-13
 ZMB,127,2025-05-28-zmb-annual-results-report-2024-zambia,2026-11-13,instrument,2026-11-13
@@ -3198,7 +3198,7 @@ SEN,195,2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-ye
 SEN,196,2026-05-01-xwa-wacren-annual-report-2025,2026-11-14,instrument,2026-11-14
 SEN,197,2023-10-01-sen-atelier-technique-multi-pays-sur-les-registres-sociaux-2-5-octobre-202,2026-11-14,instrument,2026-11-14
 SEN,198,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
-SLE,183,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,,
+SLE,183,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,capped,2026-11-15
 SLE,184,2020-03-25-sle-the-national-revenue-authority-nra-and-the-national-civil-registration,2026-11-14,old,2026-11-14
 SLE,185,2026-05-01-xwa-wacren-annual-report-2025,2026-11-14,instrument,2026-11-14
 SLE,186,2025-10-31-sle-system-transformation-grant-annual-progress-report-template-for-projec,2026-11-14,instrument,2026-11-14
@@ -3246,3 +3246,12 @@ ZMB,134,2022-08-11-zmb-tax-updates-2022-zica-pre-agm-workshop,2026-11-14,instrum
 ZWE,142,2026-04-30-zwe-government-validates-social-registry-manual-to-strengthen-social-prote,2026-11-14,capped,2026-11-14
 ZWE,143,2023-08-17-zwe-zimbabwe-integrated-social-protection-management-of-information-system,2026-11-14,old,2026-11-14
 ZWE,144,2026-06-24-zwe-zimbabwe-social-registry-support-project-project-paper-report-no-pphi0,2026-11-14,instrument,2026-11-14
+BFA,142,2026-11-13-bfa-cefore-preparer-votre-creation-d-entreprise,2026-11-15,,
+BFA,143,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+COG,131,2020-03-12-cog-arrete-n5327-du-12-mars-2020-fixant-les-modalites-d-attribution-et-d-u,2026-11-15,old,2026-11-15
+GIN,141,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+LBY,103,2026-11-14-lby-pilot-electronic-registration-foreign-companies,2026-11-15,,
+LBY,104,2026-11-12-ministry-of-economy-trade-launches-e-system-for-inquiring-about-commercial-agencies,2026-11-15,capped,2026-11-15
+NER,135,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+SLE,190,2026-11-13-sle-parliament-refers-data-protection-bill,2026-11-15,,
+SWZ,107,2025-07-19-swz-we-are-on-the-right-path-says-groening-as-ers-revenue-hits-record-high,2026-11-15,capped,2026-11-15

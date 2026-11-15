@@ -884,7 +884,7 @@ NGA,33,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-
 RWA,65,2023-12-01-rwa-post-mid-term-review-of-rwanda-s-third-national-statistics-development,2026-11-14,instrument,2026-11-14
 SDN,26,2025-02-28-sudan-family-support-project-icr-worldbank,2026-11-14,instrument,2026-11-14
 SEN,65,2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-registre-nat,2026-11-14,,
-SEN,66,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,,
+SEN,66,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,capped,2026-11-15
 SEN,67,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific,2026-11-14,,
 SEN,68,2026-09-07-sen-bourses-de-securite-familiale-le-nombre-de-beneficiaires-passe-de-355,2026-11-14,capped,2026-11-14
 SEN,69,2023-10-01-sen-atelier-technique-multi-pays-sur-les-registres-sociaux-2-5-octobre-202,2026-11-14,instrument,2026-11-14
@@ -908,3 +908,7 @@ ZAF,123,2024-09-01-zaf-dbe-annual-report-2023-24,2026-11-14,instrument,2026-11-1
 ZAF,124,2022-01-01-mus-dynamic-social-registries-in-social-protection-social-protection-polic,2026-11-14,instrument,2026-11-14
 ZMB,22,2023-01-01-zmb-towards-a-more-adaptive-social-protection-system-in-zambia,2026-11-14,instrument,2026-11-14
 ZWE,53,2026-06-24-zwe-zimbabwe-social-registry-support-project-project-paper-report-no-pphi0,2026-11-14,instrument,2026-11-14
+BFA,49,2026-11-13-bfa-cefore-preparer-votre-creation-d-entreprise,2026-11-15,,
+SEN,73,2026-10-25-sen-mefp-clarification-bourses-securite-familiale-35-a-70-milliards,2026-11-15,capped,2026-11-15
+SWZ,51,2025-07-19-swz-we-are-on-the-right-path-says-groening-as-ers-revenue-hits-record-high,2026-11-15,capped,2026-11-15
+ZWE,54,2026-11-13-zwe-undp-shared-health-record-registries-hie-rfp,2026-11-15,,

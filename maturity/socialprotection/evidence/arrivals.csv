@@ -691,7 +691,7 @@ GNB,28,2023-08-01-gnb-estudo-de-diagnostico-do-sistema-de-protecao-social-na-gui
 GNB,29,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
 GNQ,19,2026-04-01-gnq-ley-num-5-2026-reguladora-del-sistema-de-proteccion-social-en-la-repub,2026-11-14,instrument,2026-11-14
 KEN,57,2026-04-01-ken-integrated-beneficiary-registry,2026-11-14,capped,2026-11-14
-KEN,58,2025-01-01-ken-inua-jamii-beneficiaries-have-until-march-15-to-withdraw,2026-11-14,,
+KEN,58,2025-01-01-ken-inua-jamii-beneficiaries-have-until-march-15-to-withdraw,2026-11-14,capped,2026-11-15
 KEN,59,2026-05-01-ken-services-nsps,2026-11-14,capped,2026-11-14
 KEN,60,2026-02-01-ken-february-newsletter-edition,2026-11-14,,
 KEN,61,2023-05-11-ken-govt-seeks-new-system-to-identify-the-needy-in-social-protection-refor,2026-11-14,old,2026-11-14
@@ -712,7 +712,7 @@ LSO,37,2022-08-01-lso-data-in-focus-issue-1-nissa-the-national-social-registry,2
 LSO,38,2022-12-01-lso-evaluation-of-the-child-grants-programme-cgp-in-lesotho-2014-2022,2026-11-14,instrument,2026-11-14
 LSO,39,2022-06-01-lso-project-appraisal-document-lesotho-pathways-to-sustainable-livelihoods,2026-11-14,instrument,2026-11-14
 MAR,38,2025-02-25-mar-la-cnss-prepare-la-refonte-du-systeme-d-information-de-l-assujettissem,2026-11-14,capped,2026-11-14
-MAR,39,2025-11-27-mar-aides-sociales-ce-qui-change-pour-les-familles-des-la-fin-novembre,2026-11-14,,
+MAR,39,2025-11-27-mar-aides-sociales-ce-qui-change-pour-les-familles-des-la-fin-novembre,2026-11-14,capped,2026-11-15
 MDG,39,2024-07-11-mdg-service-pour-le-paiement-des-transferts-monetaires-par-qr-code-sur-la,2026-11-14,,
 MDG,40,2026-10-15-mdg-recrutement-d-un-cabinet-pour-la-conception-le-developpement-et-l-acco,2026-11-14,,
 MDG,41,2026-01-17-mdg-madagascar-registre-social-unique-pres-de-deux-millions-de-menages-ins,2026-11-14,,
@@ -777,7 +777,7 @@ SEN,47,2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-
 SEN,48,2023-10-01-sen-atelier-technique-multi-pays-sur-les-registres-sociaux-2-5-octobre-202,2026-11-14,instrument,2026-11-14
 SEN,49,2022-12-01-tcd-linking-humanitarian-cash-assistance-and-national-social-protection-sy,2026-11-14,instrument,2026-11-14
 SEN,50,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
-SLE,33,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,,
+SLE,33,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,capped,2026-11-15
 SLE,34,2024-02-12-sle-orange-money-facilitates-payment-to-35-000-beneficiary-households,2026-11-14,,
 SLE,35,2023-10-22-sle-acc-s-deputy-commissioner-leads-supervision-of-cash-payments-to-pssnye,2026-11-14,old,2026-11-14
 SLE,36,2021-07-13-ner-rapid-cash-assistance-to-get-through-the-crisis,2026-11-14,old,2026-11-14
@@ -845,3 +845,8 @@ ZWE,37,2026-04-30-zwe-government-validates-social-registry-manual-to-strengthen-
 ZWE,38,2026-06-24-zwe-zimbabwe-social-registry-support-project-project-paper-report-no-pphi0,2026-11-14,instrument,2026-11-14
 ZWE,39,2025-08-26-zwe-urban-cash-transfer-programme-collapses-after-single-payout,2026-11-14,capped,2026-11-14
 ZWE,40,2023-08-17-zwe-zimbabwe-integrated-social-protection-management-of-information-system,2026-11-14,old,2026-11-14
+BFA,37,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+COG,50,2023-10-12-cog-decret-2023-1740-document-conceptuel-programme-national-filets-sociaux,2026-11-15,instrument,2026-11-15
+COM,30,2025-06-03-com-decret-25-044-pr-direction-generale-protection-sociale,2026-11-15,,
+GIN,28,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+NER,40,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15

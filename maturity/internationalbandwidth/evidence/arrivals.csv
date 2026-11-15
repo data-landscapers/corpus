@@ -1534,7 +1534,7 @@ COM,49,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
 COM,50,2025-06-08-com-sdg-4-country-profiles-comoros,2026-11-14,instrument,2026-11-14
 COM,51,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 CPV,75,2022-10-31-cpv-brazil-assists-cape-verde-in-building-its-academic-network-using-nfv,2026-11-14,old,2026-11-14
-CPV,76,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
+CPV,76,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-15
 CPV,77,2022-01-01-cpv-plano-estrategico-de-desenvolvimento-sustentavel-2022-2026-peds-ii,2026-11-14,instrument,2026-11-14
 CPV,78,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 DJI,125,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
@@ -1575,7 +1575,7 @@ KEN,211,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-ne
 LBR,73,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-14
 LBR,74,2025-01-01-lbr-national-development-plan-2025-2029-arrest-agenda-for-inclusive-develo,2026-11-14,instrument,2026-11-14
 LBR,75,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-LBY,41,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
+LBY,41,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-15
 LBY,42,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 LSO,47,2026-11-12-lso-above-1-000m-can-starlink-resellers-solve-lesotho-s-connectivity-probl,2026-11-14,,
 LSO,48,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-14
@@ -1650,7 +1650,7 @@ TZA,123,2025-09-10-rwa-paratus-group-expands-operations-into-east-africa,2026-11
 TZA,124,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-14
 TZA,125,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 UGA,122,2025-09-10-rwa-paratus-group-expands-operations-into-east-africa,2026-11-14,capped,2026-11-14
-UGA,123,2025-07-14-uga-one-signal-at-a-time-1-000-campuses-connected-driving-digital-health-a,2026-11-14,,
+UGA,123,2025-07-14-uga-one-signal-at-a-time-1-000-campuses-connected-driving-digital-health-a,2026-11-14,capped,2026-11-15
 UGA,124,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-14
 UGA,125,2025-01-01-uga-digitising-schools-with-high-speed-internet-under-the-renu-ucc-partner,2026-11-14,instrument,2026-11-14
 UGA,126,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
@@ -1665,3 +1665,9 @@ ZWE,66,2025-10-31-zwe-ubuntunet-connect-2025,2026-11-14,capped,2026-11-14
 ZWE,67,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
 ZWE,68,2025-09-01-zwe-postal-telecommunications-abridged-sector-performance-report-second-qu,2026-11-14,instrument,2026-11-14
 ZWE,69,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+CIV,127,2026-06-01-civ-artci-statistiques-marche-telecommunications-t1-2026,2026-11-15,instrument,2026-11-15
+GIN,99,2026-11-13-gin-maroc-telecom-relance-operateurs,2026-11-15,capped,2026-11-15
+NGA,229,2026-11-13-camerpress-tchad-nigeria-banque-mondiale-fibre,2026-11-15,capped,2026-11-15
+NGA,230,2026-11-11-nga-cbn-faq-data-localisation-circular,2026-11-15,,
+NGA,231,2023-04-05-cpv-six-ecowas-member-states-sign-a-memorandum-of-understanding-in-the-pre,2026-11-15,old,2026-11-15
+TCD,58,2026-11-13-camerpress-tchad-nigeria-banque-mondiale-fibre,2026-11-15,,

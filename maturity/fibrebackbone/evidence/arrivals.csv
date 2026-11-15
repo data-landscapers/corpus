@@ -1048,7 +1048,7 @@ COG,47,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-net
 COM,19,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
 COM,20,2018-01-01-com-comores-numeriques-2028,2026-11-14,instrument,2026-11-14
 COM,21,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-CPV,22,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
+CPV,22,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-15
 CPV,23,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 DJI,55,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
 DJI,56,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
@@ -1086,7 +1086,7 @@ KEN,152,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-ne
 LBR,37,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-14
 LBR,38,2025-01-01-lbr-national-development-plan-2025-2029-arrest-agenda-for-inclusive-develo,2026-11-14,instrument,2026-11-14
 LBR,39,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-LBY,16,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
+LBY,16,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-15
 LBY,17,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 LSO,23,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-14
 LSO,24,2022-01-01-lso-country-background-report-lesotho,2026-11-14,instrument,2026-11-14
@@ -1163,3 +1163,7 @@ ZMB,61,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-net
 ZWE,52,2026-09-01-zwe-postal-telecommunications-abridged-sector-performance-report-first-qua,2026-11-14,instrument,2026-11-14
 ZWE,53,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
 ZWE,54,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+GIN,75,2026-11-13-gin-maroc-telecom-relance-operateurs,2026-11-15,capped,2026-11-15
+NER,54,2024-11-21-ner-decret-2024-728-licence-starlink-niger-sarlu,2026-11-15,,
+NGA,186,2026-11-13-camerpress-tchad-nigeria-banque-mondiale-fibre,2026-11-15,capped,2026-11-15
+TCD,52,2026-11-13-camerpress-tchad-nigeria-banque-mondiale-fibre,2026-11-15,,

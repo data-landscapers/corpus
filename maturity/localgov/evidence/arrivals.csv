@@ -3531,7 +3531,7 @@ ETH,139,2025-12-01-eth-grf-pledge-progress-report,2026-11-13,instrument,2026-11-
 ETH,140,2025-07-03-eth-program-appraisal-document-on-a-proposed-credit-of-sdr-294-90-million,2026-11-13,instrument,2026-11-13
 ETH,141,2025-05-27-eth-annual-results-report-2024-ethiopia,2026-11-13,instrument,2026-11-13
 ETH,142,2025-12-01-ssd-regional-pledge-stocktaking-report-2024-2025-eastern-and-southern-afri,2026-11-13,instrument,2026-11-13
-GAB,109,2026-07-16-gab-paiements-publics-le-gabon-accelere-la-digitalisation-avec-le-deploiem,2026-11-13,,
+GAB,109,2026-07-16-gab-paiements-publics-le-gabon-accelere-la-digitalisation-avec-le-deploiem,2026-11-13,capped,2026-11-15
 GAB,110,2026-09-15-gab-worldbank-public-finance-review-2026,2026-11-13,instrument,2026-11-13
 GAB,111,2025-05-28-cmr-annual-results-report-2024-cameroon-mco,2026-11-13,instrument,2026-11-13
 GHA,206,2026-02-10-gha-ghana-s-cashless-property-tax-lifts-revenue-exposes-weak-enforcement,2026-11-13,,
@@ -3616,7 +3616,7 @@ SEN,238,2025-11-08-sen-decret-relatif-aux-caracteristiques-a-la-duree-de-validit
 SEN,239,2026-01-01-sen-catalogue-des-normes-senegalaises,2026-11-13,instrument,2026-11-13
 SEN,240,2025-05-01-sen-rapport-annuel-2023-secteur-energie,2026-11-13,instrument,2026-11-13
 SEN,241,2023-06-01-sen-senegal-reform-matrix-compact-with-africa-monitoring-report-june-2023,2026-11-13,instrument,2026-11-13
-SLE,151,2025-10-28-sle-fcc-launches-afrimoney-for-property-rate-and-business-licence-payments,2026-11-13,,
+SLE,151,2025-10-28-sle-fcc-launches-afrimoney-for-property-rate-and-business-licence-payments,2026-11-13,capped,2026-11-15
 SLE,152,2024-03-01-sle-sierra-leone-energy-access-diagnostic-report-based-on-the-multi-tier-f,2026-11-13,instrument,2026-11-13
 SLE,153,2023-11-01-sle-vital-statistics-report-2022,2026-11-13,instrument,2026-11-13
 SOM,83,2025-06-01-som-evolution-of-somalia-s-fiscal-sector-a-journey-towards-modernization,2026-11-13,instrument,2026-11-13
@@ -3775,7 +3775,7 @@ DJI,66,2025-03-01-dji-forum-mondial-sur-la-transparence-et-l-echange-de-renseign
 DJI,67,2025-01-01-dji-djibouti-annual-country-report-2024-country-strategic-plan-2020-2024,2026-11-14,instrument,2026-11-14
 DJI,68,2023-12-01-dji-pacte-de-partenariat-djibouti,2026-11-14,instrument,2026-11-14
 DJI,69,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-DZA,158,2025-12-28-dza-algerie-2025-vers-un-systeme-statistique-fiable-et-numerise,2026-11-14,,
+DZA,158,2025-12-28-dza-algerie-2025-vers-un-systeme-statistique-fiable-et-numerise,2026-11-14,capped,2026-11-15
 DZA,159,2023-09-26-dza-guelma-322-etablissements-scolaires-raccordes-au-reseau-internet-alger,2026-11-14,old,2026-11-14
 DZA,160,2023-11-01-dza-reforming-algeria-s-social-protection-system,2026-11-14,instrument,2026-11-14
 DZA,161,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
@@ -3834,7 +3834,7 @@ GNB,69,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-
 GNQ,40,2026-04-01-gnq-ley-num-5-2026-reguladora-del-sistema-de-proteccion-social-en-la-repub,2026-11-14,instrument,2026-11-14
 GNQ,41,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 KEN,302,2026-02-01-ken-february-newsletter-edition,2026-11-14,,
-KEN,303,2025-10-07-ken-nairobi-county-launches-jericho-incubation-hub-to-empower-youth-and-dr,2026-11-14,,
+KEN,303,2025-10-07-ken-nairobi-county-launches-jericho-incubation-hub-to-empower-youth-and-dr,2026-11-14,capped,2026-11-15
 KEN,304,2023-10-25-ken-how-mobile-app-is-helping-address-learner-absenteeism,2026-11-14,old,2026-11-14
 KEN,305,2021-11-04-ken-enhanced-single-registry-for-social-protection-in-kenya,2026-11-14,old,2026-11-14
 KEN,306,2026-06-01-ken-register-of-telecommunication-licensees,2026-11-14,instrument,2026-11-14
@@ -4050,3 +4050,13 @@ ZMB,172,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-ne
 ZWE,144,2025-12-02-zwe-zimstat-ignites-zimbabwe-s-data-revolution-as-national-systems-shift-t,2026-11-14,capped,2026-11-14
 ZWE,145,2024-02-01-zwe-zimbabwe-s-youth-entrepreneurship-ecosystem-assessment,2026-11-14,instrument,2026-11-14
 ZWE,146,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+BFA,209,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+BFA,210,2020-11-01-bfa-dgess-tableau-de-bord-enseignement-primaire-2019-2020,2026-11-15,instrument,2026-11-15
+COD,156,2026-11-13-cod-wearetech-mimpa-ia-demarches-foncieres,2026-11-15,capped,2026-11-15
+GHA,224,2026-11-12-gha-imani-digitising-the-till-portal-scorecard,2026-11-15,capped,2026-11-15
+GIN,147,2026-11-12-gin-atelier-marches-publics-telemo,2026-11-15,capped,2026-11-15
+GIN,148,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+MDG,154,2025-12-03-decret-2025-1526-projet-loi-017-2025-acces-information,2026-11-15,instrument,2026-11-15
+NER,173,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+NGA,311,2026-11-13-nga-von-icpc-nitda-local-government-websites-pilot-5-3bn,2026-11-15,capped,2026-11-15
+ZMB,173,2026-03-16-zmb-us-zambia-health-mou-initial-draft-healthgap,2026-11-15,instrument,2026-11-15

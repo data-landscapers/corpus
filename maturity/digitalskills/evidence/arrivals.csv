@@ -2659,7 +2659,7 @@ GNQ,51,2023-08-29-gnq-apertura-de-los-trabajos-sobre-la-elaboracion-de-una-ley-d
 GNQ,52,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 KEN,382,2025-08-07-ken-cbc-senior-school-official-list-of-subjects-and-timetable-for-grades-1,2026-11-14,capped,2026-11-14
 KEN,383,2024-11-14-ken-how-ericsson-and-unicef-are-connecting-over-500-kenyan-schools-to-the,2026-11-14,,
-KEN,384,2025-10-07-ken-nairobi-county-launches-jericho-incubation-hub-to-empower-youth-and-dr,2026-11-14,,
+KEN,384,2025-10-07-ken-nairobi-county-launches-jericho-incubation-hub-to-empower-youth-and-dr,2026-11-14,capped,2026-11-15
 KEN,385,2025-01-01-ken-advancing-kenya-s-digital-future-15-innovation-hubs-selected-through-t,2026-11-14,capped,2026-11-14
 KEN,386,2024-03-14-ken-improving-school-attendance-tracking-through-technology-in-baringo,2026-11-14,,
 KEN,387,2026-10-01-ken-mapping-business-incubating-organisations-in-kenya-as-central-elements,2026-11-14,instrument,2026-11-14
@@ -2752,7 +2752,7 @@ SEN,173,2026-02-17-sen-tivaouane-des-tablettes-numeriques-remises-aux-chefs-deta
 SEN,174,2026-06-01-civ-african-development-bank-seminar-advances-vat-digitalization-across-we,2026-11-14,capped,2026-11-14
 SEN,175,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
 SEN,176,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-SLE,118,2026-06-01-civ-african-development-bank-seminar-advances-vat-digitalization-across-we,2026-11-14,,
+SLE,118,2026-06-01-civ-african-development-bank-seminar-advances-vat-digitalization-across-we,2026-11-14,capped,2026-11-15
 SLE,119,2024-06-19-sle-sierra-leone-bets-on-150-million-digital-hub-strategy,2026-11-14,,
 SLE,120,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
 SLE,121,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
@@ -2817,3 +2817,14 @@ ZWE,176,2026-07-09-zwe-digital-inclusion-and-gender-equity-in-zimbabwe-opportuni
 ZWE,177,2026-06-05-zwe-the-girls-left-offline-how-zimbabwe-s-digital-divide-is-shaping-stem-f,2026-11-14,,
 ZWE,178,2025-12-05-zwe-un-launches-innovation-hub-to-empower-zim-youth,2026-11-14,capped,2026-11-14
 ZWE,179,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+CIV,170,2026-11-12-civ-ecofin-smartphone-programme-25-usd-gsma,2026-11-15,capped,2026-11-15
+ETH,194,2026-11-13-eth-uncdf-digital-foundations-agricultural-finance,2026-11-15,capped,2026-11-15
+LBY,66,2026-11-14-lby-lana-gia-digital-transformation-competitiveness-forum,2026-11-15,,
+NGA,415,2026-11-13-nga-tribune-google-600000-child-online-safety,2026-11-15,capped,2026-11-15
+TUN,89,2026-07-30-ansi-tunisia-phishing-sms-warning,2026-11-15,capped,2026-11-15
+TUN,90,2024-01-01-2024-iiag-country-profile-tunisia,2026-11-15,instrument,2026-11-15
+TZA,210,2026-07-23-tanzania-annual-financial-inclusion-report-2025,2026-11-15,instrument,2026-11-15
+UGA,295,2026-11-12-monitor-uganda-bou-financial-inclusion-payment-switch,2026-11-15,,
+UGA,296,2026-11-13-independent-uganda-youth-ai-economy-readiness,2026-11-15,instrument,2026-11-15
+ZAF,352,2026-11-12-zaf-iol-china-ai-talent-centre-wuhan,2026-11-15,capped,2026-11-15
+ZWE,180,2026-11-13-zwe-itweb-dhl-digital-logistics-youth-training,2026-11-15,capped,2026-11-15

@@ -746,7 +746,7 @@ RWA,55,2023-10-01-rwa-rra-annual-report-2022-23,2026-11-13,instrument,2026-11-13
 RWA,56,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-the-east-afr,2026-11-13,instrument,2026-11-13
 SDN,19,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-the-east-afr,2026-11-13,instrument,2026-11-13
 SEN,40,2023-06-01-sen-senegal-reform-matrix-compact-with-africa-monitoring-report-june-2023,2026-11-13,instrument,2026-11-13
-SLE,39,2025-10-28-sle-fcc-launches-afrimoney-for-property-rate-and-business-licence-payments,2026-11-13,,
+SLE,39,2025-10-28-sle-fcc-launches-afrimoney-for-property-rate-and-business-licence-payments,2026-11-13,capped,2026-11-15
 SLE,40,2025-08-22-sle-nra-hits-100-digital-tax-filing-compliance-as-sierra-leone-s-revenue-r,2026-11-13,,
 SOM,26,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-the-east-afr,2026-11-13,instrument,2026-11-13
 SSD,18,2025-11-16-xea-support-for-the-implementation-of-the-one-network-area-in-the-east-afr,2026-11-13,instrument,2026-11-13
@@ -778,7 +778,7 @@ CPV,42,2022-01-01-cpv-plano-estrategico-de-desenvolvimento-sustentavel-2022-2026
 CPV,43,2020-01-07-cpv-decreto-regulamentar-n-o-2-2020-estatutos-do-instituto-nacional-de-est,2026-11-14,instrument,2026-11-14
 DJI,13,2024-06-01-dji-creating-fiscal-space-to-build-inclusive-and-resilient-growth-djibouti,2026-11-14,instrument,2026-11-14
 DZA,36,2025-03-26-dza-algerie-les-principales-mesures-importantes-de-la-loi-de-finances-pour,2026-11-14,,
-ETH,29,2026-07-24-eth-ethio-telecom-and-amhara-revenue-bureau-partner-to-digitalize-tax-coll,2026-11-14,,
+ETH,29,2026-07-24-eth-ethio-telecom-and-amhara-revenue-bureau-partner-to-digitalize-tax-coll,2026-11-14,capped,2026-11-15
 ETH,30,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-and-revenu,2026-11-14,instrument,2026-11-14
 GAB,24,2026-04-01-gab-global-forum-on-transparency-and-exchange-of-information-for-tax-purpo,2026-11-14,instrument,2026-11-14
 GHA,75,2025-12-01-gha-gra-report-2024,2026-11-14,instrument,2026-11-14
@@ -806,7 +806,7 @@ RWA,57,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-an
 RWA,58,2023-08-01-rwa-investment-incentives-for-registered-investors,2026-11-14,instrument,2026-11-14
 RWA,59,2023-01-01-rwa-technology-and-tax-adoption-and-impacts-of-e-services-in-rwanda,2026-11-14,instrument,2026-11-14
 SDN,20,2024-03-29-sdn-implementation-completion-and-results-report-sudan-emergency-safety-ne,2026-11-14,instrument,2026-11-14
-SLE,41,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,,
+SLE,41,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,capped,2026-11-15
 SLE,42,2024-05-01-sle-a-retrospective-assessment-of-the-evolution-of-the-social-protection-s,2026-11-14,instrument,2026-11-14
 SOM,27,2025-12-01-som-somalia-governance-and-public-finance-systems-assessment-of-domestic-r,2026-11-14,instrument,2026-11-14
 SOM,28,2022-12-15-som-implementation-status-results-report-second-public-financial-managemen,2026-11-14,instrument,2026-11-14
@@ -828,3 +828,10 @@ UGA,54,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-an
 UGA,55,2020-08-01-uga-plan-for-national-statistical-development-fy2020-21-fy2024-2025,2026-11-14,instrument,2026-11-14
 ZMB,32,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-and-revenu,2026-11-14,instrument,2026-11-14
 ZWE,40,2024-01-16-zwe-payment-of-taxes-in-tarms,2026-11-14,capped,2026-11-14
+BWA,21,2021-01-01-bwa-burs-annual-report-2021,2026-11-15,instrument,2026-11-15
+NGA,44,2026-11-13-nga-von-icpc-nitda-local-government-websites-pilot-5-3bn,2026-11-15,capped,2026-11-15
+TZA,51,2026-02-09 Tanzania registers 12 million housing addresses to boost digital governance,2026-11-15,capped,2026-11-15
+TZA,52,2025-08-19-tanzania-digital-id-address-student-loans-zanzibar,2026-11-15,capped,2026-11-15
+TZA,53,2024-07-10 Tanzania ramps up national physical address registration,2026-11-15,capped,2026-11-15
+TZA,54,2023-12-13-tza-simplified-birth-registration-implemented-in-all-26-regions-of-mainlan,2026-11-15,capped,2026-11-15
+TZA,55,2025-12-17-govtech-maturity-index-2025-tracking-public-sector-digital-transformation,2026-11-15,instrument,2026-11-15

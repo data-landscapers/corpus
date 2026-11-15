@@ -3616,7 +3616,7 @@ SEN,301,2025-06-02-sen-program-appraisal-document-strengthening-senegal-s-fiscal
 SEN,302,2023-10-01-sen-atelier-technique-multi-pays-sur-les-registres-sociaux-2-5-octobre-202,2026-11-14,instrument,2026-11-14
 SEN,303,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
 SEN,304,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-SLE,219,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,,
+SLE,219,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,capped,2026-11-15
 SLE,220,2021-10-05-sle-nra-engages-business-stakeholders-on-new-tin-issuance-and-reforms,2026-11-14,old,2026-11-14
 SLE,221,2020-03-25-sle-the-national-revenue-authority-nra-and-the-national-civil-registration,2026-11-14,old,2026-11-14
 SLE,222,2025-10-31-sle-system-transformation-grant-annual-progress-report-template-for-projec,2026-11-14,instrument,2026-11-14
@@ -3694,3 +3694,14 @@ ZWE,158,2026-06-13-zwe-zimbabwe-pushes-digital-transformation-agenda-under-smart
 ZWE,159,2025-05-07-zwe-procedure-for-company-registration-in-zimbabwe,2026-11-14,capped,2026-11-14
 ZWE,160,2024-05-01-bdi-fostering-creative-and-innovative-research-and-education-communities-a,2026-11-14,instrument,2026-11-14
 ZWE,161,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+BFA,213,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+ETH,411,2026-11-13-eth-uncdf-digital-foundations-agricultural-finance,2026-11-15,capped,2026-11-15
+GHA,436,2026-11-12-gha-imani-digitising-the-till-portal-scorecard,2026-11-15,capped,2026-11-15
+GIN,164,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+KEN,533,2026-11-13-ken-data-protection-law-ai-era-test,2026-11-15,,
+NAM,168,2026-11-14-nam-techreviewafrica-dpi-financial-sector-pki-eid,2026-11-15,,
+NER,174,2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report,2026-11-15,capped,2026-11-15
+SEN,305,2026-11-13-sen-apanews-budget-2027-telecommunications-numerique-poste,2026-11-15,capped,2026-11-15
+SLE,227,2026-11-13-sle-parliament-refers-data-protection-bill,2026-11-15,,
+TUN,161,2017-11-08-afdb-tun-2017-tunisie-digitale-2020-support-loan,2026-11-15,old,2026-11-15
+ZMB,227,2026-03-16-zmb-us-zambia-health-mou-initial-draft-healthgap,2026-11-15,instrument,2026-11-15

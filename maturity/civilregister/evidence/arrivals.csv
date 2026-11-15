@@ -2566,7 +2566,7 @@ ZAF,114,2025-12-01-ssd-regional-pledge-stocktaking-report-2024-2025-eastern-and-
 ZMB,113,2026-09-28-zmb-digitizing-death-reporting-in-zambia-evaluation-of-a-mobile-based-civi,2026-11-13,instrument,2026-11-13
 ZMB,114,2026-10-26-zmb-982-properties-vanish-after-zilmis-to-zilas-transition,2026-11-13,capped,2026-11-14
 ZMB,115,2024-09-01-zmb-unhcr-zambia-factsheet-september-2024,2026-11-13,,
-ZMB,116,2024-03-29-zmb-govt-suspends-mass-enrollment-on-inris-to-reallocate-resources,2026-11-13,,
+ZMB,116,2024-03-29-zmb-govt-suspends-mass-enrollment-on-inris-to-reallocate-resources,2026-11-13,capped,2026-11-15
 ZMB,117,2023-01-17-zmb-zambia-refugee-self-service-kiosk,2026-11-13,old,2026-11-13
 ZMB,118,2025-05-28-zmb-annual-results-report-2024-zambia,2026-11-13,instrument,2026-11-13
 ZMB,119,2025-12-01-ssd-regional-pledge-stocktaking-report-2024-2025-eastern-and-southern-afri,2026-11-13,instrument,2026-11-13
@@ -2700,7 +2700,7 @@ SDN,98,2025-02-01-sdn-maintaining-and-strengthening-social-assistance-systems-in
 SDN,99,2024-03-29-sdn-implementation-completion-and-results-report-sudan-emergency-safety-ne,2026-11-14,instrument,2026-11-14
 SEN,197,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific,2026-11-14,,
 SEN,198,2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-registre-nat,2026-11-14,,
-SEN,199,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,,
+SEN,199,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,capped,2026-11-15
 SEN,200,2026-09-07-sen-bourses-de-securite-familiale-le-nombre-de-beneficiaires-passe-de-355,2026-11-14,capped,2026-11-14
 SEN,201,2026-02-17-sen-tivaouane-des-tablettes-numeriques-remises-aux-chefs-detablissements-d,2026-11-14,capped,2026-11-14
 SEN,202,2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate,2026-11-14,,
@@ -2708,7 +2708,7 @@ SEN,203,2023-10-01-sen-atelier-technique-multi-pays-sur-les-registres-sociaux-2-
 SEN,204,2022-12-01-tcd-linking-humanitarian-cash-assistance-and-national-social-protection-sy,2026-11-14,instrument,2026-11-14
 SEN,205,2020-01-20-sen-journal-officiel-n-7259-du-lundi-20-janvier-2020,2026-11-14,instrument,2026-11-14
 SEN,206,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
-SLE,171,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,,
+SLE,171,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,capped,2026-11-15
 SLE,172,2020-03-25-sle-the-national-revenue-authority-nra-and-the-national-civil-registration,2026-11-14,old,2026-11-14
 SLE,173,2025-10-31-sle-system-transformation-grant-annual-progress-report-template-for-projec,2026-11-14,instrument,2026-11-14
 SLE,174,2024-05-01-sle-a-retrospective-assessment-of-the-evolution-of-the-social-protection-s,2026-11-14,instrument,2026-11-14
@@ -2754,3 +2754,10 @@ ZMB,124,2023-01-01-zmb-towards-a-more-adaptive-social-protection-system-in-zambi
 ZWE,133,2026-04-30-zwe-government-validates-social-registry-manual-to-strengthen-social-prote,2026-11-14,capped,2026-11-14
 ZWE,134,2023-08-17-zwe-zimbabwe-integrated-social-protection-management-of-information-system,2026-11-14,old,2026-11-14
 ZWE,135,2026-06-24-zwe-zimbabwe-social-registry-support-project-project-paper-report-no-pphi0,2026-11-14,instrument,2026-11-14
+COG,127,2020-03-12-cog-arrete-n5327-du-12-mars-2020-fixant-les-modalites-d-attribution-et-d-u,2026-11-15,old,2026-11-15
+LBY,84,2026-11-14-lby-pilot-electronic-registration-foreign-companies,2026-11-15,,
+LBY,85,2026-11-12-ministry-of-economy-trade-launches-e-system-for-inquiring-about-commercial-agencies,2026-11-15,capped,2026-11-15
+SEN,207,2026-10-25-sen-mefp-clarification-bourses-securite-familiale-35-a-70-milliards,2026-11-15,capped,2026-11-15
+SLE,177,2026-11-13-sle-parliament-refers-data-protection-bill,2026-11-15,,
+SWZ,99,2025-07-19-swz-we-are-on-the-right-path-says-groening-as-ers-revenue-hits-record-high,2026-11-15,capped,2026-11-15
+ZWE,136,2026-11-13-zwe-undp-shared-health-record-registries-hie-rfp,2026-11-15,,

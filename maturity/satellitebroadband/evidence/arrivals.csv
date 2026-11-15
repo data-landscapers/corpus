@@ -727,12 +727,12 @@ COM,25,2025-06-01-com-said-bouhtane-dg-de-lantric-la-5g-ne-sera-pas-une-revoluti
 COM,26,2025-06-08-com-sdg-4-country-profiles-comoros,2026-11-14,instrument,2026-11-14
 COM,27,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 CPV,33,2024-12-10-cpv-starlink-now-operational-in-cape-verde,2026-11-14,,
-CPV,34,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
+CPV,34,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-15
 CPV,35,2025-09-30-xaf-24-african-countries-that-got-starlink-before-south-africa,2026-11-14,capped,2026-11-14
 CPV,36,2025-05-05-cpv-ulisses-correia-e-silva-inaugura-parque-tecnologico-da-praia-e-do-mind,2026-11-14,,
 CPV,37,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 DJI,20,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
-DJI,21,2025-09-30-xaf-24-african-countries-that-got-starlink-before-south-africa,2026-11-14,,
+DJI,21,2025-09-30-xaf-24-african-countries-that-got-starlink-before-south-africa,2026-11-14,capped,2026-11-15
 DJI,22,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 DZA,27,2024-11-07-dza-decret-executif-n-24-359-du-5-joumada-el-oula-1446-correspondant-au-7,2026-11-14,capped,2026-11-14
 DZA,28,2024-01-02-dza-satellite-communications,2026-11-14,capped,2026-11-14
@@ -806,7 +806,7 @@ LBR,64,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-net
 LBY,32,2026-02-27-lby-rawafed-strengthens-digital-backbone-of-libya-s-oil-and-gas-fields,2026-11-14,,
 LBY,33,2023-12-13-lby-eutelsat-oneweb-signs-multi-million-dollar-exclusive-distribution-agre,2026-11-14,,
 LBY,34,2024-02-23-lby-regulatory-approvals-for-starlink-services-in-mena-countries,2026-11-14,,
-LBY,35,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
+LBY,35,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-15
 LBY,36,2025-09-30-xaf-24-african-countries-that-got-starlink-before-south-africa,2026-11-14,capped,2026-11-14
 LBY,37,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 LSO,41,2026-06-26-lso-starlink-s-reach-in-lesotho-extends-to-police-and-disaster-management,2026-11-14,,
@@ -818,7 +818,7 @@ LSO,46,2025-09-30-xaf-24-african-countries-that-got-starlink-before-south-africa
 LSO,47,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 MAR,38,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,capped,2026-11-14
 MAR,39,2025-09-30-xaf-24-african-countries-that-got-starlink-before-south-africa,2026-11-14,capped,2026-11-14
-MAR,40,2026-01-19-mar-morocco-extends-satellite-communication-licenses-for-key-operators,2026-11-14,,
+MAR,40,2026-01-19-mar-morocco-extends-satellite-communication-licenses-for-key-operators,2026-11-14,capped,2026-11-15
 MAR,41,2020-05-05-cod-african-nrens-africaconnect3,2026-11-14,old,2026-11-14
 MAR,42,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 MDG,36,2025-02-04-mdg-internet-stephanie-delmotte-attend-plus-dinvestissements-economiques-e,2026-11-14,,
@@ -883,7 +883,7 @@ NER,58,2020-05-05-cod-african-nrens-africaconnect3,2026-11-14,old,2026-11-14
 NER,59,2024-06-01-xwa-watra-ngso-framework,2026-11-14,instrument,2026-11-14
 NER,60,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 NGA,140,2026-11-13-nga-ground-segment,2026-11-14,,
-NGA,141,2026-01-16-nga-ncc-grants-three-satellite-licences-to-boost-broadband-services,2026-11-14,,
+NGA,141,2026-01-16-nga-ncc-grants-three-satellite-licences-to-boost-broadband-services,2026-11-14,capped,2026-11-15
 NGA,142,2026-11-13-nga-internet-service-provider-data,2026-11-14,instrument,2026-11-14
 NGA,143,2025-10-14-xaf-starlink-expanding-in-africa,2026-11-14,,
 NGA,144,2023-09-26-moz-starlink-appoints-paratus-group-as-key-distributor-in-africa,2026-11-14,old,2026-11-14
@@ -1012,3 +1012,9 @@ ZWE,98,2024-09-19-zwe-zim-s-telone-becomes-starlink-authorised-reseller,2026-11-
 ZWE,99,2025-09-30-xaf-24-african-countries-that-got-starlink-before-south-africa,2026-11-14,capped,2026-11-14
 ZWE,100,2020-05-05-cod-african-nrens-africaconnect3,2026-11-14,old,2026-11-14
 ZWE,101,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+CIV,95,2026-06-01-civ-artci-statistiques-marche-telecommunications-t1-2026,2026-11-15,instrument,2026-11-15
+NER,61,2024-11-21-ner-decret-2024-728-licence-starlink-niger-sarlu,2026-11-15,,
+SEN,85,2026-09-30-sen-artp-consultation-etude-perspectives-secteur-communications-electroniques,2026-11-15,instrument,2026-11-15
+TZA,47,2026-10-08-tza-todaysw-tanzania-talks-spacex-starlink-licence-pending,2026-11-15,,
+TZA,48,2025-07-17-tza-tcra-guidelines-direct-to-mobile-phone-satellite-communication,2026-11-15,capped,2026-11-15
+ZMB,62,2026-03-16-zmb-us-zambia-health-mou-initial-draft-healthgap,2026-11-15,instrument,2026-11-15

@@ -1962,7 +1962,7 @@ TUN,92,2026-06-06-dza-zerrouki-co-chairs-the-4th-session-of-the-algerian-tunisia
 TUN,93,2019-12-01-tun-etude-sur-quelle-vision-de-la-tunisie-dans-la-cooperation-euro-africai,2026-11-13,instrument,2026-11-13
 TUN,94,2024-09-01-xaf-final-report-of-the-2nd-african-preparatory-meeting-for-wtdc-25,2026-11-13,instrument,2026-11-13
 TZA,169,2026-02-17-tza-sadc-stakeholders-review-satellite-plans-in-dar-forum,2026-11-13,,
-TZA,170,2025-09-13-cod-rdctanzanie-jose-mpanda-donne-un-coup-daccelerateur-au-projet-de-fibre,2026-11-13,,
+TZA,170,2025-09-13-cod-rdctanzanie-jose-mpanda-donne-un-coup-daccelerateur-au-projet-de-fibre,2026-11-13,capped,2026-11-15
 TZA,171,2023-12-19-dza-algeria-s-activities,2026-11-13,capped,2026-11-14
 TZA,172,2025-06-04-mwi-e-commerce-in-the-southern-african-development-community,2026-11-13,instrument,2026-11-13
 TZA,173,2024-05-01-tza-national-renewable-energy-strategy-2024-2034,2026-11-13,instrument,2026-11-13
@@ -2067,7 +2067,7 @@ GMB,69,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-net
 GNB,53,2024-06-01-xwa-watra-ngso-framework,2026-11-14,instrument,2026-11-14
 GNQ,34,2024-06-25-gnq-presentacion-del-pasaporte-de-aprendizaje-guinea-ecuatorial,2026-11-14,,
 GNQ,35,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-KEN,323,2025-10-07-ken-nairobi-county-launches-jericho-incubation-hub-to-empower-youth-and-dr,2026-11-14,,
+KEN,323,2025-10-07-ken-nairobi-county-launches-jericho-incubation-hub-to-empower-youth-and-dr,2026-11-14,capped,2026-11-15
 KEN,324,2025-01-01-ken-advancing-kenya-s-digital-future-15-innovation-hubs-selected-through-t,2026-11-14,capped,2026-11-14
 KEN,325,2024-11-14-ken-how-ericsson-and-unicef-are-connecting-over-500-kenyan-schools-to-the,2026-11-14,,
 KEN,326,2023-01-01-ken-broadband-connectivity-for-schools-in-kenya-funded-by-the-universal-se,2026-11-14,instrument,2026-11-14
@@ -2121,7 +2121,7 @@ NAM,140,2026-03-10-nam-a-new-era-of-connectivity-q-kon-s-partners-secure-leo-lic
 NAM,141,2025-08-20-nam-seedr-namibia-2-0-unveils-namibia-s-next-generation-of-innovators,2026-11-14,,
 NAM,142,2025-02-27-nam-satellite-internet-namibia-s-red-tape-full-report,2026-11-14,instrument,2026-11-14
 NAM,143,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-NER,85,2025-04-18-ner-gitex-africa-2025-le-niger-fait-bouger-les-lignes-de-la-fracture-numer,2026-11-14,,
+NER,85,2025-04-18-ner-gitex-africa-2025-le-niger-fait-bouger-les-lignes-de-la-fracture-numer,2026-11-14,capped,2026-11-15
 NER,86,2026-03-13-ner-niger-moves-to-adopt-national-digital-development-policy-for-20262035,2026-11-14,,
 NER,87,2025-10-03-ner-deploiement-du-systeme-starlink-et-emergence-des-wifi-zones-au-niger-e,2026-11-14,,
 NER,88,2025-09-11-ner-deploiement-de-starlink-au-niger-l-arcep-met-en-garde-contre-l-illegal,2026-11-14,,
@@ -2192,8 +2192,8 @@ TZA,179,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-ne
 UGA,238,2025-07-08-uga-renu-features-in-the-giga-project-s-newseltter,2026-11-14,capped,2026-11-14
 UGA,239,2026-06-01-uga-impact-assessment-study-of-the-universal-service-and-access-fund-ucusa,2026-11-14,instrument,2026-11-14
 UGA,240,2025-01-01-uga-digitising-schools-with-high-speed-internet-under-the-renu-ucc-partner,2026-11-14,instrument,2026-11-14
-UGA,241,2025-07-14-uga-one-signal-at-a-time-1-000-campuses-connected-driving-digital-health-a,2026-11-14,,
-UGA,242,2025-06-27-uga-uj-connect-celebrates-another-milestone,2026-11-14,,
+UGA,241,2025-07-14-uga-one-signal-at-a-time-1-000-campuses-connected-driving-digital-health-a,2026-11-14,capped,2026-11-15
+UGA,242,2025-06-27-uga-uj-connect-celebrates-another-milestone,2026-11-14,capped,2026-11-15
 UGA,243,2025-05-01-uga-policy-brief-assessing-the-state-of-internet-use-in-uganda-schools-a-c,2026-11-14,capped,2026-11-14
 UGA,244,2022-09-15-ssd-eutelsat-konnect-satellite-selected-by-liquid-intelligent-technologies,2026-11-14,old,2026-11-14
 UGA,245,2025-06-12-taxtech-leveraging-digitalization-to-improve-tax-compliance-and-revenu,2026-11-14,instrument,2026-11-14
@@ -2212,3 +2212,15 @@ ZMB,167,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-ne
 ZWE,159,2026-06-05-zwe-the-girls-left-offline-how-zimbabwe-s-digital-divide-is-shaping-stem-f,2026-11-14,,
 ZWE,160,2026-09-01-zwe-postal-telecommunications-abridged-sector-performance-report-first-qua,2026-11-14,instrument,2026-11-14
 ZWE,161,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+CIV,181,2026-11-13-civ-linfodrome-leo-satellites-mobile-rural-connectivity-panel,2026-11-15,capped,2026-11-15
+CIV,182,2024-09-25-civ-enquete-de-la-mesure-de-la-societe-de-l-information-cas-de-la-cote-d-i,2026-11-15,capped,2026-11-15
+CIV,183,2024-01-01-iiag-2024-profile-cote-divoire,2026-11-15,capped,2026-11-15
+CIV,184,2019-05-06-artci-panorama-telecoms-tic,2026-11-15,old,2026-11-15
+CIV,185,2026-11-14-civ-aip-budget-2027-ministere-transition-numerique,2026-11-15,capped,2026-11-15
+CIV,186,2026-11-12-civ-ecofin-smartphone-programme-25-usd-gsma,2026-11-15,capped,2026-11-15
+EGY,104,2026-11-14-egy-public-prosecution-ai-data-centre-smart-justice-protocol,2026-11-15,,
+ETH,142,2026-11-13-eth-de-sludging-8028-farmer-hotline,2026-11-15,capped,2026-11-15
+ETH,143,2026-11-13-eth-uncdf-digital-foundations-agricultural-finance,2026-11-15,capped,2026-11-15
+MAR,101,2026-11-14-fnh-maroc-intelligence-artificielle-jusqu-ou,2026-11-15,,
+SEN,195,2026-11-13-sen-apanews-budget-2027-telecommunications-numerique-poste,2026-11-15,capped,2026-11-15
+UGA,247,2026-11-13-independent-uganda-youth-ai-economy-readiness,2026-11-15,instrument,2026-11-15

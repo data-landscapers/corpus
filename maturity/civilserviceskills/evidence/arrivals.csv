@@ -3219,7 +3219,7 @@ GNQ,72,2026-04-01-gnq-ley-num-5-2026-reguladora-del-sistema-de-proteccion-social
 GNQ,73,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 KEN,386,2025-08-07-ken-cbc-senior-school-official-list-of-subjects-and-timetable-for-grades-1,2026-11-14,capped,2026-11-14
 KEN,387,2024-11-14-ken-how-ericsson-and-unicef-are-connecting-over-500-kenyan-schools-to-the,2026-11-14,,
-KEN,388,2025-10-07-ken-nairobi-county-launches-jericho-incubation-hub-to-empower-youth-and-dr,2026-11-14,,
+KEN,388,2025-10-07-ken-nairobi-county-launches-jericho-incubation-hub-to-empower-youth-and-dr,2026-11-14,capped,2026-11-15
 KEN,389,2025-01-01-ken-advancing-kenya-s-digital-future-15-innovation-hubs-selected-through-t,2026-11-14,capped,2026-11-14
 KEN,390,2024-03-14-ken-improving-school-attendance-tracking-through-technology-in-baringo,2026-11-14,,
 KEN,391,2026-10-01-ken-mapping-business-incubating-organisations-in-kenya-as-central-elements,2026-11-14,instrument,2026-11-14
@@ -3311,7 +3311,7 @@ SEN,198,2026-02-17-sen-tivaouane-des-tablettes-numeriques-remises-aux-chefs-deta
 SEN,199,2026-06-01-civ-african-development-bank-seminar-advances-vat-digitalization-across-we,2026-11-14,capped,2026-11-14
 SEN,200,2025-06-02-sen-program-appraisal-document-strengthening-senegal-s-fiscal-sustainabili,2026-11-14,instrument,2026-11-14
 SEN,201,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-SLE,132,2026-06-01-civ-african-development-bank-seminar-advances-vat-digitalization-across-we,2026-11-14,,
+SLE,132,2026-06-01-civ-african-development-bank-seminar-advances-vat-digitalization-across-we,2026-11-14,capped,2026-11-15
 SLE,133,2024-06-19-sle-sierra-leone-bets-on-150-million-digital-hub-strategy,2026-11-14,,
 SLE,134,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 SOM,113,2021-11-02-som-building-a-digital-ecosystem-in-start-up-somalia-tech-hub-hopes-and-hu,2026-11-14,old,2026-11-14
@@ -3386,3 +3386,18 @@ ZMB,201,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-ne
 ZWE,184,2026-07-09-zwe-digital-inclusion-and-gender-equity-in-zimbabwe-opportunities-and-gaps,2026-11-14,capped,2026-11-14
 ZWE,185,2025-12-05-zwe-un-launches-innovation-hub-to-empower-zim-youth,2026-11-14,capped,2026-11-14
 ZWE,186,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+CIV,219,2026-11-12-civ-ecofin-smartphone-programme-25-usd-gsma,2026-11-15,capped,2026-11-15
+COD,156,2026-11-13-cod-ia-administration-publique-conference-zanzibar,2026-11-15,capped,2026-11-15
+COD,157,2026-11-13-cod-journee-chiffrement-revision-code-ptntic,2026-11-15,capped,2026-11-15
+COD,158,2026-11-13-cod-wearetech-mimpa-ia-demarches-foncieres,2026-11-15,capped,2026-11-15
+COD,159,2026-11-12-cod-mimpa-interconnexion-rdc-pass-guichet-numerique,2026-11-15,capped,2026-11-15
+ETH,195,2026-11-13-eth-uncdf-digital-foundations-agricultural-finance,2026-11-15,capped,2026-11-15
+LBY,57,2026-11-14-lby-lana-gia-digital-transformation-competitiveness-forum,2026-11-15,,
+NGA,427,2026-11-13-nga-tribune-google-600000-child-online-safety,2026-11-15,capped,2026-11-15
+SLE,135,2026-11-13-moped-seeks-stronger-coordination-to-improve-sierra-leone-s-national-d,2026-11-15,capped,2026-11-15
+SLE,136,2026-11-13-sle-power-of-data-steering-committee-18-2m-data-systems,2026-11-15,capped,2026-11-15
+TUN,100,2026-07-30-ansi-tunisia-phishing-sms-warning,2026-11-15,capped,2026-11-15
+TUN,101,2024-01-01-2024-iiag-country-profile-tunisia,2026-11-15,instrument,2026-11-15
+UGA,308,2026-11-13-independent-uganda-youth-ai-economy-readiness,2026-11-15,instrument,2026-11-15
+ZAF,342,2026-11-12-zaf-iol-china-ai-talent-centre-wuhan,2026-11-15,capped,2026-11-15
+ZWE,187,2026-11-13-zwe-itweb-dhl-digital-logistics-youth-training,2026-11-15,capped,2026-11-15

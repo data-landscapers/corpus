@@ -933,7 +933,7 @@ MDG,45,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-net
 MLI,41,2025-10-01-mli-le-projet-d-appui-a-la-scolarisation-des-filles-affectees-par-le-confl,2026-11-14,capped,2026-11-14
 MLI,42,2026-09-01-mli-financement-scg-mali,2026-11-14,instrument,2026-11-14
 MLI,43,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
-MOZ,37,2026-09-02-moz-autorizada-negociacoes-para-modernizacao-da-administracao-tributaria,2026-11-14,,
+MOZ,37,2026-09-02-moz-autorizada-negociacoes-para-modernizacao-da-administracao-tributaria,2026-11-14,capped,2026-11-15
 MOZ,38,2023-04-01-moz-focal-point-training-marks-the-expansion-of-the-emis-project-to-nampul,2026-11-14,old,2026-11-14
 MOZ,39,2025-08-05-moz-report-finds-education-digital-transformation-affordable-and-scalable,2026-11-14,,
 MOZ,40,2024-11-01-moz-mozambique-dhis2,2026-11-14,,
@@ -1010,7 +1010,7 @@ TZA,35,2024-11-06-tza-assessing-the-performance-of-primary-school-information-ma
 TZA,36,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
 UGA,89,2024-10-19-uga-private-schools-on-the-spot-for-delayed-digital-registration,2026-11-14,,
 UGA,90,2025-08-05-moz-report-finds-education-digital-transformation-affordable-and-scalable,2026-11-14,,
-UGA,91,2025-06-27-uga-uj-connect-celebrates-another-milestone,2026-11-14,,
+UGA,91,2025-06-27-uga-uj-connect-celebrates-another-milestone,2026-11-14,capped,2026-11-15
 UGA,92,2023-02-03-uga-s-1-entrants-to-submit-learner-identification-numbers-before-admission,2026-11-14,old,2026-11-14
 UGA,93,2021-01-01-uga-strengthening-education-management-information-systems-emis-and-data-f,2026-11-14,instrument,2026-11-14
 UGA,94,2020-03-01-uga-uganda-dhis2-for-emis-pilot-in-gulu-and-mayuge-district-assessment-rep,2026-11-14,instrument,2026-11-14
@@ -1035,3 +1035,5 @@ ZMB,48,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-net
 ZWE,37,2026-11-11-zwe-data-systems-transform-zimbabwe-s-schools,2026-11-14,,
 ZWE,38,2026-06-05-zwe-the-girls-left-offline-how-zimbabwe-s-digital-divide-is-shaping-stem-f,2026-11-14,,
 ZWE,39,2016-06-01-xaf-the-role-and-status-of-national-research-and-education-networks-nrens,2026-11-14,instrument,2026-11-14
+BWA,28,2021-01-01-bwa-burs-annual-report-2021,2026-11-15,instrument,2026-11-15
+UGA,97,2026-11-10-uga-nin-is-tin,2026-11-15,,

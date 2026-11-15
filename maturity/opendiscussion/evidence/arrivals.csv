@@ -1317,7 +1317,7 @@ SOM,38,2026-10-21-som-wasaaradda-warfaafinta-soomaaliya-waa-in-ay-joojisaa-hanja
 SWZ,30,2026-04-09-swz-untouchables-legal-bottlenecks-cripple-corruption-fight-acc-advisor,2026-11-13,,
 SWZ,31,2022-07-01-mrt-leveraging-digital-id-and-e-kyc-for-the-financial-inclusion-of-forcibl,2026-11-13,instrument,2026-11-13
 SYC,25,2025-10-30-syc-rapport-de-la-mission-de-promotion-en-republique-des-seychelles-10-14,2026-11-13,instrument,2026-11-13
-TCD,37,2024-03-13-tcd-telecommunications-le-projet-de-loi-relatif-a-l-uat-adopte,2026-11-13,,
+TCD,37,2024-03-13-tcd-telecommunications-le-projet-de-loi-relatif-a-l-uat-adopte,2026-11-13,capped,2026-11-15
 TCD,38,2025-10-13-civ-politique-s-de-l-etat-civil-les-enjeux-sociopolitiques-de-l-identifica,2026-11-13,instrument,2026-11-13
 UGA,105,2026-01-01-uga-annual-report-2025-department-of-refugee-management,2026-11-13,instrument,2026-11-13
 UGA,106,2025-02-12-uga-uganda-asylum-seekers-and-refugees-registration-documentation-and-othe,2026-11-13,instrument,2026-11-13
@@ -1344,7 +1344,7 @@ SDN,59,2026-11-01-sdn-private-sector-engagement-strategy-sudan,2026-11-14,instru
 SDN,60,2025-02-28-sudan-family-support-project-icr-worldbank,2026-11-14,instrument,2026-11-14
 SDN,61,2024-03-29-sdn-implementation-completion-and-results-report-sudan-emergency-safety-ne,2026-11-14,instrument,2026-11-14
 SDN,62,2024-01-01-sdn-sudan-freedom-on-the-net-2024-country-report,2026-11-14,instrument,2026-11-14
-SEN,78,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,,
+SEN,78,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,capped,2026-11-15
 SEN,79,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific,2026-11-14,,
 SOM,39,2024-11-01-som-somaliren-showcases-the-somali-research-and-education-repository-sorer,2026-11-14,,
 SSD,68,2021-10-27-ssd-beyond-the-war-in-south-sudan-youth-look-at-a-future-driven-by-technol,2026-11-14,old,2026-11-14
@@ -1353,3 +1353,5 @@ TZA,68,2019-07-03-tza-tanzania-drops-threat-of-prison-over-publishing-independen
 UGA,108,2022-08-02-uga-ubos-cautions-survey-agencies-against-disseminating-false-information,2026-11-14,old,2026-11-14
 ZAF,108,2024-09-01-zaf-dbe-annual-report-2023-24,2026-11-14,instrument,2026-11-14
 ZWE,75,2026-07-09-zwe-digital-inclusion-and-gender-equity-in-zimbabwe-opportunities-and-gaps,2026-11-14,capped,2026-11-14
+MDG,47,2026-11-14-mdg-madagascar-tribune-acces-information-publique-report,2026-11-15,capped,2026-11-15
+UGA,109,2026-10-19-uga-fdc-opposes-ucc-crackdown-on-unlicensed-wi-fi-resellers,2026-11-15,capped,2026-11-15

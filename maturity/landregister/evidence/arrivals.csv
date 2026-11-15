@@ -1418,14 +1418,14 @@ RWA,69,2019-09-01-rwa-the-third-national-strategy-for-the-development-of-statist
 SDN,33,2025-02-28-sudan-family-support-project-icr-worldbank,2026-11-14,instrument,2026-11-14
 SEN,108,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific,2026-11-14,,
 SEN,109,2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-registre-nat,2026-11-14,,
-SEN,110,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,,
+SEN,110,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,capped,2026-11-15
 SEN,111,2026-09-07-sen-bourses-de-securite-familiale-le-nombre-de-beneficiaires-passe-de-355,2026-11-14,capped,2026-11-14
 SEN,112,2025-06-02-sen-program-appraisal-document-strengthening-senegal-s-fiscal-sustainabili,2026-11-14,instrument,2026-11-14
 SEN,113,2023-10-01-sen-atelier-technique-multi-pays-sur-les-registres-sociaux-2-5-octobre-202,2026-11-14,instrument,2026-11-14
 SEN,114,2022-12-01-tcd-linking-humanitarian-cash-assistance-and-national-social-protection-sy,2026-11-14,instrument,2026-11-14
 SEN,115,2020-01-20-sen-journal-officiel-n-7259-du-lundi-20-janvier-2020,2026-11-14,instrument,2026-11-14
 SEN,116,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
-SLE,59,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,,
+SLE,59,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,capped,2026-11-15
 SLE,60,2022-01-01-sle-national-social-protection-strategy-for-sierra-leone-2022-2026,2026-11-14,instrument,2026-11-14
 SLE,61,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
 SOM,38,2021-05-24-som-somalia-education-for-human-capital-development-project-project-apprai,2026-11-14,instrument,2026-11-14
@@ -1453,3 +1453,10 @@ ZAF,53,2022-01-01-mus-dynamic-social-registries-in-social-protection-social-prot
 ZMB,58,2025-01-01-zmb-2025-national-social-protection-policy,2026-11-14,instrument,2026-11-14
 ZMB,59,2023-01-01-zmb-towards-a-more-adaptive-social-protection-system-in-zambia,2026-11-14,instrument,2026-11-14
 ZWE,54,2026-06-24-zwe-zimbabwe-social-registry-support-project-project-paper-report-no-pphi0,2026-11-14,instrument,2026-11-14
+BFA,64,2026-11-13-bfa-cefore-preparer-votre-creation-d-entreprise,2026-11-15,,
+COG,56,2020-03-12-cog-arrete-n5327-du-12-mars-2020-fixant-les-modalites-d-attribution-et-d-u,2026-11-15,old,2026-11-15
+LBY,35,2026-11-14-lby-pilot-electronic-registration-foreign-companies,2026-11-15,,
+LBY,36,2026-11-12-ministry-of-economy-trade-launches-e-system-for-inquiring-about-commercial-agencies,2026-11-15,capped,2026-11-15
+SEN,117,2026-10-25-sen-mefp-clarification-bourses-securite-familiale-35-a-70-milliards,2026-11-15,capped,2026-11-15
+SWZ,47,2025-07-19-swz-we-are-on-the-right-path-says-groening-as-ers-revenue-hits-record-high,2026-11-15,capped,2026-11-15
+ZWE,55,2026-11-13-zwe-undp-shared-health-record-registries-hie-rfp,2026-11-15,,
