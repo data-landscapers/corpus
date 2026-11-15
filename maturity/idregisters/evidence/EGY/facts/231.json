@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-22-egy-social-registry-13m-households-law-12-unified-source",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The ministry says the social registry is interlinked using the national number with partner government databases, with 13 million households registered.",
+   "as_of": "2026-08-22",
+   "date_precision": "day",
+   "system": "Social registry",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social registry (Ministry of Social Solidarity)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Social Solidarity",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

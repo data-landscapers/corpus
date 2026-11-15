@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-05-dza-securite-sociale-la-cnas-lance-de-nouveaux-services-pour-les-employeur",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The article states that CNAS and CNR (social insurance bodies) exchange information using the national identification number (NIN) via Dzaïr Digital Services.",
+   "as_of": "2026-04-05",
+   "date_precision": "day",
+   "system": "Dzaïr Digital Services",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dzaïr Digital Services",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "national portal",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

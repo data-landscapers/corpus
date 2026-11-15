@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-eth-digital-public-goods-in-use-applications-of-openg2p-in-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "OpenG2P says it seeded its social registry, which holds about 300,000 relief registrants for the Ethiopian Disaster Risk Management Commission, with Fayda IDs.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "OpenG2P Social Registry",
+   "class": "register"
+  },
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "OpenG2P says the Agricultural Transformation Institute's farmer registry is in a pre-pilot with 1,846 farmers registered and is being integrated with Fayda ID.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "OpenG2P Farmer Registry",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OpenG2P Social Registry",
+   "country_label": "Ethiopia",
+   "class": "register",
+   "platform": "OpenG2P",
+   "owner": "Ethiopian Disaster Risk Management Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

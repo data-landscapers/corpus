@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ETH-002;ETH-001",
-      "gaps": "No second main register has been found using Fayda. No source found says what linking tax numbers to it turned up.",
-      "note": "The tax register is keyed on Fayda (2026), the one main register shown. The count of 5 million tax numbers harmonised links records and reports nothing the check found, so it is not read as matching.",
-      "as_at": "2026-11-07"
+      "gaps": "Besides tax, only a 300,000-person relief registry is shown using Fayda; no electoral roll, payroll or business register has been found. No source found says what linking tax numbers to it turned up.",
+      "note": "The tax register is keyed on Fayda (2026) and a disaster relief registry was seeded with it (2025): not three main registers. The count of 5 million tax numbers harmonised reports nothing the check found, so it is not read as matching.",
+      "as_at": "2026-11-15"
     }
   ]
 }

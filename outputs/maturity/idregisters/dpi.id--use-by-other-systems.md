@@ -110,7 +110,7 @@ The voters' roll used Omang, the national ID, in 2026; use by other main registe
 
 ### Ethiopia: 3 Established
 
-The tax register was keyed on the national ID in 2026; use by other main registers, and what checking found, are not known.
+The tax register and a relief registry used the national ID by 2026; a third main register, and what checking found, are not known.
 
 - National ID Ethiopia's deck says the Ministry of Revenue has harmonised over 5M existing tax identification numbers with Fayda and made Fayda mandatory for new TINs nationally ([source, 2026-05](https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf)).
 - NIDP says over 5M existing TINs are harmonised with Fayda and Fayda is mandatory for new TINs nationally ([source, 2026](https://connect.mosip.io/resources_pdf_2026/Inclusive_Identity_at_Scale_Ethiopia.pdf)).

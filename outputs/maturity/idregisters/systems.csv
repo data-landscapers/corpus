@@ -4,6 +4,7 @@ AGO,Bilhete de Identidade,Angola,other,,Ministerio da Justica e dos Direitos Hum
 AGO,Bilhete de Identidade (BI),AGO,other,,Ministry of Justice and Human Rights,,2026-08-24-angola-med-matricula-escolas-sem-bi
 AGO,Bilhete de Identidade,Angola,other,,Ministry of Justice and Human Rights,,2026-07-01-ago-angop-16-milhoes-base-bilhete-identidade
 AGO,SINGERH,Angola,other,,MAPTSS,,2026-10-28-novojornal-31-mil-funcionarios-fantasma-singerh-maptss
+AGO,AGT taxpayer cadastre (NIF),Angola,register,,Administracao Geral Tributaria,,2024-04-02-ago-apenas-2-em-cada-10-cidadaos-tem-oficialmente-numero-de-identificacao
 BEN,CNIB,BEN,other,,ANIP,,2026-09-18-ben-beninwebtv-cnib-renouvellement-en-ligne
 BEN,ANIP identity system,Benin,other,,ANIP,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 BEN,Registre national des personnes physiques (RNPP),Benin,other,,Agence nationale d'identification des personnes (ANIP),,2024-03-29-ben-lanation-interoperabilite-rnpp-npi
@@ -32,12 +33,14 @@ CPV,Autentika,Cabo Verde,other,electronic identity management and authentication
 CPV,Cartao Nacional de Identificacao (CNI),Cabo Verde,other,smart card,,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
 CPV,Chave Movel Digital de Cabo Verde (CMDCV),Cabo Verde,other,mobile digital key,,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
 DZA,Registre national de l'Etat civil,Algeria,register,,Ministry of Interior,,2024-01-18-dza-lnr-merad-registre-national-etat-civil
+DZA,Dzaïr Digital Services,Algeria,other,national portal,,,2026-04-05-dza-securite-sociale-la-cnas-lance-de-nouveaux-services-pour-les-employeur
 EGY,national ID,Egypt,other,,,,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
 EGY,National ID System (national number project),EGY,other,,Civil Status Organization,,2024-01-01-egypt-national-id-system-citc
 EGY,Payroll system,Egypt,register,,Egyptian Tax Authority,,2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum
 EGY,EMIS portal online application (emis.gov.eg),Egypt,other,emis.gov.eg,Ministry of Education and Technical Education,,2025-05-17-egy-moe-online-registration-kindergarten-primary-2025
 EGY,Voter lists,Egypt,register,QR code read by presiding judge's app,National Elections Authority,,2025-07-16-egy-nea-polling-station-app-qr-voter-lists
 EGY,Wage and salary tax system,Egypt,register,,Egyptian Tax Authority,,2024-12-15-egy-eta-wage-tax-system-mandatory-employer-registration
+EGY,Social registry (Ministry of Social Solidarity),Egypt,other,,Ministry of Social Solidarity,,2026-08-22-egy-social-registry-13m-households-law-12-unified-source
 ERI,Eritrean National ID,ERI,other,,Government of Eritrea,,2024-10-17-eritrea-embassy-national-id
 ETH,Fayda,Ethiopia,other,,Faydaverse (state-owned enterprise under Ethiopian Investment Holdings),,2026-08-08-ethiopia-fayda-faydaverse-digital-wallet-expansion
 ETH,Fayda,Ethiopia,other,,National ID Program,,2026-07-24-ena-ethio-telecom-69-percent-fayda-digital-id-enrollees
@@ -47,6 +50,7 @@ ETH,Faida National ID,National ID Program (Fayda/Faida),register,,National ID Pr
 ETH,Fayda,Ethiopia,register,,National ID Programme,,2024-05-09-eth-ethiopia-s-national-digital-id-a-breakthrough-for-tax-system-transform
 ETH,Fayda,Fayda,other,MOSIP,National ID Program,,2024-01-01-eth-fayda-digital-id-ethiopia-status-update
 ETH,Farmers Profile Registration,Farmers Profile Registration,register,Fayda,Agricultural Transformation Institute,,2026-11-08-ethiopia-farmers-profile-registration-four-million
+ETH,OpenG2P Social Registry,Ethiopia,register,OpenG2P,Ethiopian Disaster Risk Management Commission,,2025-01-01-eth-digital-public-goods-in-use-applications-of-openg2p-in-ethiopia
 GAB,Registre biometrique des personnes physiques (RBPP),Gabon,other,,Government of Gabon (Ministry of Interior),,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,Systeme national d'identite digitale (SNID),Gabon,other,,ANINF / Government of Gabon,,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,ID card and passport in Gabon,GAB,other,,,,2024-01-01-in-groupe-insight-report-2023-24
@@ -77,6 +81,7 @@ LBY,Voter registry,Libya,other,SMS digital registration,High National Elections 
 LBY,Voter lists,Libya,register,SMS to 17017,HNEC,,2025-04-14-lby-560-896-registered-for-libyan-municipal-elections
 LBY,Voter register (HNEC),Libya,register,SMS to 17017,HNEC,,2025-02-25-lby-hnec-sms-voter-registration-check
 LBY,National number system,Libya,register,,Civil Registry Authority,,2025-12-01-lby-labour-ministry-civil-registry-national-number-link-renewal
+LBY,Civil Status Authority link for wife-and-children grant,Libya,other,,Ministry of Social Affairs,,2025-02-10-lby-lana-social-affairs-civil-registry-data-link
 LSO,Digital/service identification system,Lesotho,other,,MICSTI,,2026-03-25-lesotho-digital-service-id-pilot-govls
 LSO,MOSIP-based national digital identity ecosystem,LSO,other,MOSIP,MICSTI,,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan
 LSO,modernised voter registration system,Lesotho,other,,Independent Electoral Commission,,2026-07-05-lso-au-hails-iec-over-election-reforms

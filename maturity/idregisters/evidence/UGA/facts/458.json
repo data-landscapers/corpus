@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-uga-nin-is-tin",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "URA says it is moving individual taxpayers to the NIN as their tax number in phases, with self-service detail updates from 1 December 2026 and NIN login from January 2027.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "NIN is TIN",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

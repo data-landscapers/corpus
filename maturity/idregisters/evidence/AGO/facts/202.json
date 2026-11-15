@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-02-ago-apenas-2-em-cada-10-cidadaos-tem-oficialmente-numero-de-identificacao",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Expansao reports that since October 2018 the national ID (BI) number has been the taxpayer number (NIF) held in the AGT taxpayer register, and AGT updates its cadastre daily from civil ID records.",
+   "as_of": "2018-10",
+   "date_precision": "month",
+   "system": "AGT taxpayer cadastre",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AGT taxpayer cadastre (NIF)",
+   "country_label": "Angola",
+   "class": "register",
+   "platform": "",
+   "owner": "Administracao Geral Tributaria",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
