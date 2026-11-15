@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01-ken-call-for-comments-and-public-participation-forums-on-the-statistics-bi",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The Kenya National Bureau of Statistics says the draft Statistics Bill, 2026 and background documents are on its website and invites written comments by email, alongside in-person forums.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "KNBS website",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
