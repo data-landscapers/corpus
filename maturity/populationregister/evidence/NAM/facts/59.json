@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-15-nam-92-000-birth-certificates-issued-for-2023",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The deputy minister said historic marriage and death records are \"not on the National Population Register System\", which implies the register is in service.",
+   "as_of": "2023-12-15",
+   "date_precision": "day",
+   "system": "National Population Register System",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register System",
+   "country_label": "Namibia",
+   "class": "population",
+   "platform": "",
+   "owner": "Ministry of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

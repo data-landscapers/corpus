@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MUS-001,MUS,population,register,inservice,The Pay Research Bureau report says the Civil Status Division monitors the Central Population Database holding basic information on all individuals registered in Mauritius and its Outer Islands.,2024,year,Central Population Database,population,2024-01-01-mus-civil-status-division,https://prb.govmu.org/prb/wp-content/uploads/2024/03/csd.pdf

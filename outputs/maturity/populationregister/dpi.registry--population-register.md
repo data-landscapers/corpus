@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 |---|---|
 | 5 Leading | 8 |
 | 4 Operating | 2 |
-| 3 Established | 10 |
+| 3 Established | 11 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
-| No evidence | 25 |
+| No evidence | 24 |
 
 ## Countries
 
@@ -130,6 +130,12 @@ A population register was in service in 2025; no source found reports updating f
 
 - DNEC says a biometric file of the population has been built from civil status under RAVEC, administered by ANSAEC ([source, 2025-05](https://www.id4africa.com/2025/files/T2-P1-S2-3-MALI_FINAL.pdf)).
 - The Malian authorities launched the new Mali Kura Biométrie system managing the RAVEC (administrative census for civil-status purposes) data of the Malian population at a ceremony on 13 February 2024, saying the population data had been recovered and secured ([source, 2024-02-13](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/)).
+
+### Mauritius: 3 Established
+
+A central population database held basic records of everyone registered in Mauritius in 2024; whether births and deaths are entered in it is not known.
+
+- The Pay Research Bureau report says the Civil Status Division monitors the Central Population Database holding basic information on all individuals registered in Mauritius and its Outer Islands ([source, 2024](https://prb.govmu.org/prb/wp-content/uploads/2024/03/csd.pdf)).
 
 ### Morocco: 3 Established
 
@@ -301,12 +307,6 @@ Nothing found names a population register or says there is none, so no stage is 
 Not established: Nothing found names a population register, or says there is none.
 
 ### Malawi: No evidence
-
-Nothing found names a population register or says there is none, so no stage is set.
-
-Not established: Nothing found names a population register, or says there is none.
-
-### Mauritius: No evidence
 
 Nothing found names a population register or says there is none, so no stage is set.
 

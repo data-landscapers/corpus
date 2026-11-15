@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-01-swz-2-home-affairs-employees-fired-over-id-fraud",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Times of Eswatini reports that an audit of the National Population Registry traced irregular birth certificates and documents to specific typist and registrar user logins, showing the registry is in operation.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "National Population Registry",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Registry",
+   "country_label": "Eswatini",
+   "class": "population",
+   "platform": "",
+   "owner": "Ministry of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

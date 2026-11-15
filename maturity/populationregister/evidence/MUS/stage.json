@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "population",
-   "stage": "no evidence",
-   "register": "",
-   "vital": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a population register, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-populationregister.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "population",
+      "stage": "3",
+      "register": "inservice",
+      "vital": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-001",
+      "gaps": "No source found since October 2023 says births or deaths are entered in the Central Population Database, or that other registers or services take records from it.",
+      "note": "A 2024 Pay Research Bureau report says the Civil Status Division monitors the Central Population Database, holding basic information on everyone registered in Mauritius, so a register is in service. Nothing says births or deaths are entered in it, so not 4.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }
