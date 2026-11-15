@@ -6,7 +6,7 @@
 
 **Several programmes.** [In March 2025 the World Bank mission said five programmes use the registry's data for targeting and research](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
 
-**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [in March 2025 the registry held 4.2 million households, or 17 million people](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest fact found: [in March 2025 the registry held 4.2 million households, or 17 million people](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
 
 ***Also on file***. [CORE-MIS](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>); [Mbwezera MIS](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
 

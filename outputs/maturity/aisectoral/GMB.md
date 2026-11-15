@@ -6,7 +6,7 @@
 
 **Several sectors.** No single source found since October 2023 says AI is in service in the public systems of two or more sectors. [In May 2026 DIAL reported AI in the revenue authority's tax system](<https://dial.global/wp-content/uploads/2026/05/AI-x-DPI-Case-study-The-Gambia.pdf>). [In April 2025 Kerr Fatou reported AI in the higher education ministry's timetabling app](<https://www.kerrfatou.com/gambias-higher-education-ministry-launches-innovative-tita-mobile-app-to-modernize-tertiary-institutions/>).
 
-**Results reported.** No source found since October 2023 reports measured results of a sectoral AI system. The nearest held fact: [in April 2025 TITA's admin panel generated timetables automatically](<https://www.kerrfatou.com/gambias-higher-education-ministry-launches-innovative-tita-mobile-app-to-modernize-tertiary-institutions/>).
+**Results reported.** No source found since October 2023 reports measured results of a sectoral AI system. The nearest fact found: [in April 2025 TITA's admin panel generated timetables automatically](<https://www.kerrfatou.com/gambias-higher-education-ministry-launches-innovative-tita-mobile-app-to-modernize-tertiary-institutions/>).
 
 ***Also on file***. [National Misinformation and Disinformation Response Centre (NMDRC)](<https://grts.gm/news-article-details/news/gambia-launches-west-africas-first-ai-centre-to-fight-fake-news>).
 

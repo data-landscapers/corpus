@@ -6,7 +6,7 @@
 
 **Feeding policy.** [In May 2026 CIPESA sent recommendations to the taskforce drafting the AI and Emerging Technologies Strategy](<https://cipesa.org/2026/05/cipesa-urges-rights-centred-approach-to-ugandas-ai-strategy/>). [The Ministry of ICT and National Guidance runs that process](<https://cipesa.org/2026/05/cipesa-urges-rights-centred-approach-to-ugandas-ai-strategy/>).
 
-**Standing role.** No source found since October 2023 says a local research institution holds a standing advisory role in digital policy. The nearest held fact: [in August 2024 EPRC's strategic plan named digitalisation among six research themes](<https://eprcug.org/wp-content/uploads/2024/08/EPRC-STRATEGIC-PLAN-2022-23-2026-27_.pdf>).
+**Standing role.** No source found since October 2023 says a local research institution holds a standing advisory role in digital policy. The nearest fact found: [in August 2024 EPRC's strategic plan named digitalisation among six research themes](<https://eprcug.org/wp-content/uploads/2024/08/EPRC-STRATEGIC-PLAN-2022-23-2026-27_.pdf>).
 
 ***Also on file***. None found.
 

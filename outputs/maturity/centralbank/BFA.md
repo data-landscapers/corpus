@@ -2,7 +2,7 @@
 
 ## Governance role of central bank
 
-**Licensing providers.** No source found says the central bank's role over payments is under way or in service. The nearest held fact: [LeFaso.net reports that PI-SPI is a BCEAO instant payment platform across the UEMOA, in service since 30 September 2025](<https://lefaso.net/spip.php?article147670>). A later answer places the country above that step.
+**Licensing providers.** No source found says the central bank's role over payments is under way or in service. The nearest fact found: [LeFaso.net reports that PI-SPI is a BCEAO instant payment platform across the UEMOA, in service since 30 September 2025](<https://lefaso.net/spip.php?article147670>). A later answer places the country above that step.
 
 **Overseeing a switch.** [LeFaso.net reports that the BCEAO launched the PI-SPI interoperable instant payment platform on 30 September 2025](<https://lefaso.net/spip.php?article147670>). [The BCEAO sets the connection deadlines for banks, e-money and payment institutions and microfinance](<https://lefaso.net/spip.php?article147670>). [It had 80 institutions connected by 24 June 2026](<https://lefaso.net/spip.php?article147670>).
 

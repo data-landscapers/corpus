@@ -6,7 +6,7 @@
 
 **Labelling.** [The digital development agency created its JEI label in 2019](<https://www.lavieeco.com/tech/add-silence-on-digitalise/>). [By April 2025 it had gone to more than 540 startups from 1,303 applications](<https://www.lavieeco.com/tech/add-silence-on-digitalise/>). [Labelled startups get an international payment card worth up to 1 million dirhams a year](<https://www.lavieeco.com/tech/add-silence-on-digitalise/>).
 
-**Funded.** No source found since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the 347 million dirham cap on the fund's stakes](<https://librentreprise.ma/2026/09/10/feu-vert-a-tamwilcom-pour-investir-347-mdh-dans-les-startups/>).
+**Funded.** No source found since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest fact found: [the 347 million dirham cap on the fund's stakes](<https://librentreprise.ma/2026/09/10/feu-vert-a-tamwilcom-pour-investir-347-mdh-dans-les-startups/>).
 
 ***Also on file***. None found.
 

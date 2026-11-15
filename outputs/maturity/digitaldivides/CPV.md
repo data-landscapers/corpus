@@ -2,7 +2,7 @@
 
 ## Rural internet gap
 
-**Rural connectivity programme.** No source found says a programme to connect rural areas is under way or in service. The nearest held fact is [INE's 2025 survey of internet use by area](<https://expressodasilhas.cv/pais/2026/05/28/internet-chega-a-mais-familias-rurais-do-que-urbanas-em-cabo-verde-em-2025-ine/102930>). A later answer places the country above that step.
+**Rural connectivity programme.** No source found says a programme to connect rural areas is under way or in service. The nearest fact found is [INE's 2025 survey of internet use by area](<https://expressodasilhas.cv/pais/2026/05/28/internet-chega-a-mais-familias-rurais-do-que-urbanas-em-cabo-verde-em-2025-ine/102930>). A later answer places the country above that step.
 
 **Gap measured.** [INE's 2025 continuous survey shows 22.7% of people aged 10 and over did not use the internet in the previous three months](<https://expressodasilhas.cv/pais/2026/05/28/internet-chega-a-mais-familias-rurais-do-que-urbanas-em-cabo-verde-em-2025-ine/102930>). [The share was 31.2% in rural areas and 20.0% in urban areas](<https://expressodasilhas.cv/pais/2026/05/28/internet-chega-a-mais-familias-rurais-do-que-urbanas-em-cabo-verde-em-2025-ine/102930>). [So 77.3% of people aged 10 and over used it](<https://expressodasilhas.cv/pais/2026/05/28/internet-chega-a-mais-familias-rurais-do-que-urbanas-em-cabo-verde-em-2025-ine/102930>).
 

@@ -6,7 +6,7 @@
 
 **Single gateway.** [National ID Ethiopia's May 2026 deck calls MESOB a digital one-stop shop for e-government services built on the Fayda ID](<https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf>). It lists it beside farmer and land records and health insurance. Prime Minister Abiy [inaugurated the Unified MESOB Application, which brings 27 services from several institutions onto one platform](<https://www.ena.et/web/eng/w/eng_9070888>), ENA says.
 
-**Use published.** No source found gives users, applications or transactions through a national portal. The nearest held fact: [MESOB one-stop service had reached 70 centres within a year](<https://www.ena.et/web/eng/w/eng_9070888>).
+**Use published.** No source found gives users, applications or transactions through a national portal. The nearest fact found: [MESOB one-stop service had reached 70 centres within a year](<https://www.ena.et/web/eng/w/eng_9070888>).
 
 ***Also on file***. [National Rural Land Administration Information System (NRLAIS)](<https://www.moa.gov.et/e-services/>); [Fayda](<https://connect.mosip.io/resources_pdf_2026/Inclusive_Identity_at_Scale_Ethiopia.pdf>).
 

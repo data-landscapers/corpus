@@ -4,7 +4,7 @@
 
 **Private money put into a digital business, with its year.** In October 2025 ImpactAlpha reported that [Catalyst Fund has invested $200,000 in OKO Finance](<https://impactalpha.com/catalyst-fund-backs-mali-based-oko-to-insure-farmers-against-climate-risks/>), a Bamako-based insurtech. Of that, $150,000 is for business model expansion. It is the one private amount found for Mali since 2024, and it dates from 2025.
 
-**Money raised inside the country.** No amount has been found that a bank, investor or company of Mali put in. The nearest held fact is ImpactAlpha's report that [Catalyst Fund, the investor it names, put $200,000 into Bamako-based OKO Finance](<https://impactalpha.com/catalyst-fund-backs-mali-based-oko-to-insure-farmers-against-climate-risks/>).
+**Money raised inside the country.** No amount has been found that a bank, investor or company of Mali put in. The nearest fact found is ImpactAlpha's report that [Catalyst Fund, the investor it names, put $200,000 into Bamako-based OKO Finance](<https://impactalpha.com/catalyst-fund-backs-mali-based-oko-to-insure-farmers-against-climate-risks/>).
 
 **Private money the government brought into a public digital project.** No public digital project in Mali has been found with private money brought in by the government. The closest fact found is the [e& Partner2Connect pledge](<https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/>), reported in March 2024. The UAE firm e& made it across 16 markets, with no amount for Mali.
 

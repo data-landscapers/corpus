@@ -6,7 +6,7 @@
 
 **Shared number.** [The Rwanda Revenue Authority says the RDB and RRA systems are integrated](<https://www.rra.gov.rw/en/domestic-tax-services/registration-de-registration/default-title>). [It says registration therefore gives a single, unique Taxpayer Identification Number](<https://www.rra.gov.rw/en/domestic-tax-services/registration-de-registration/default-title>).
 
-**Beneficial owners.** Nothing found says the register collects the beneficial owners of the firms it records. The nearest held fact is [the Registrar General's description of the online registry](<https://org.rdb.rw/business-registration/>), which covers registration and certificates.
+**Beneficial owners.** Nothing found says the register collects the beneficial owners of the firms it records. The nearest fact found is [the Registrar General's description of the online registry](<https://org.rdb.rw/business-registration/>), which covers registration and certificates.
 
 ***Also on file***. None found.
 

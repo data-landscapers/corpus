@@ -6,7 +6,7 @@
 
 **Money raised inside the country.** The closest fact found is older. In 2017 [Proparco committed USD 5 million in equity to TIDE Africa Fund I](<https://www.proparco.fr/en/carte-des-projets/tide-africa-fund-2017>). It is a venture fund registered in Mauritius that invests in start-ups across Sub-Saharan Africa. [Kuunda's 2025 round](<https://impactalpha.com/kuunda-lands-7-5-million-to-provide-short-term-financing-for-small-businesses/>) lists its backers but does not say where each is based.
 
-**Private money the government brought into a public digital project.** No private money brought in by the government has been found. The nearest held fact is [Kuunda's USD 7.5 million round in 2025](<https://impactalpha.com/kuunda-lands-7-5-million-to-provide-short-term-financing-for-small-businesses/>), which was raised by a private company.
+**Private money the government brought into a public digital project.** No private money brought in by the government has been found. The nearest fact found is [Kuunda's USD 7.5 million round in 2025](<https://impactalpha.com/kuunda-lands-7-5-million-to-provide-short-term-financing-for-small-businesses/>), which was raised by a private company.
 
 ***Also on file***. Mauritius Telecom's [Africa-Asia Digital Corridor roadmap 2026-2029](<https://www.mauritiustimes.com/mt/why-mauritius-must-build-an-ai-ecosystem-before-an-ai-infrastructure/>), its [Bridging Africa & Asia strategy 2026-2029](<https://lexpress.mu/node/553579>) and its [Connect strategy](<https://techafricanews.com/2025/12/08/mauritius-telecom-expands-fibre-ai-and-financial-services-across-region/>).
 

@@ -2,7 +2,7 @@
 
 ## Control of state data
 
-**Rule on state data.** No source found says control of state data is under way or in service. The nearest held fact is the [State Data Center in Praia](<https://www.balai.cv/noticias/atualidade/governo-afirma-que-transicao-energetica-e-condicao-para-a-soberania-digital-de-cabo-verde/>), run under NOSi. It hosts state platforms, but hosting does not answer this question.
+**Rule on state data.** No source found says control of state data is under way or in service. The nearest fact found is the [State Data Center in Praia](<https://www.balai.cv/noticias/atualidade/governo-afirma-que-transicao-energetica-e-condicao-para-a-soberania-digital-de-cabo-verde/>), run under NOSi. It hosts state platforms, but hosting does not answer this question.
 
 **Hosted nationally.** [Cabo Verde's Secretary of State for the Digital Economy said](<https://www.balai.cv/noticias/atualidade/governo-afirma-que-transicao-energetica-e-condicao-para-a-soberania-digital-de-cabo-verde/>) the State Data Center in Praia, run under NOSi, sustains the state's digital platforms. They serve citizens and businesses. In 2015 the government called [the new State Data Center](<https://www.governo.cv/pm-data-center-e-mais-uma-peca-do-cluster-tic-que-esta-a-estruturar-se/>) the nerve centre of all Government communication. It stores and processes the data of the e-governance platform and of all public administration services.
 

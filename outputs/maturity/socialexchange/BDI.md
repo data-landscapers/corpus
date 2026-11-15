@@ -6,7 +6,7 @@
 
 **One registry shared by programmes.** [In May 2026 the World Bank said the Merankabandi social registry is also used by the Soleil-Nyakiriza solar energy project](<https://www.worldbank.org/en/results/2026/05/01/building-burundi-s-national-social-protection-systems-to-deliver-jobs-and-respond-to-crises>). [The project, which the World Bank finances, uses it to reach vulnerable households for subsidised solar kits](<https://www.worldbank.org/en/results/2026/05/01/building-burundi-s-national-social-protection-systems-to-deliver-jobs-and-respond-to-crises>).
 
-**Linked to the ID and another sector.** No source found since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [in May 2026 the registry also served an energy project](<https://www.worldbank.org/en/results/2026/05/01/building-burundi-s-national-social-protection-systems-to-deliver-jobs-and-respond-to-crises>).
+**Linked to the ID and another sector.** No source found since October 2023 says the registry is linked to the national ID and to another sector. The nearest fact found: [in May 2026 the registry also served an energy project](<https://www.worldbank.org/en/results/2026/05/01/building-burundi-s-national-social-protection-systems-to-deliver-jobs-and-respond-to-crises>).
 
 ***Also on file***. None found.
 

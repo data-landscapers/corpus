@@ -4,7 +4,7 @@
 
 **Law in force.** Lesotho has an old bill and no law. [An assessment of September 2021 says the country has no real freedom of information law, and that the Access and Receipt of Information Bill of 2000, drafted by the Law Reform Commission, has not been passed by Parliament](<https://pub.sbc4d.com/2022/lesotho_full_final.pdf>). Nothing later on the bill is recorded.
 
-**Law put to work and applied.** The nearest held fact is the draft, [the Access and Receipt of Information Bill of 2000](<https://pub.sbc4d.com/2022/lesotho_full_final.pdf>). A bill makes no rules and sets up no oversight body until it is passed, promulgated and in force. After that, a decree or regulation made under it, or an information commission or commissioner appointed, would put it to work. A decision or penalty on a request for information, or published figures of requests, would show it applied.
+**Law put to work and applied.** The nearest fact found is the draft, [the Access and Receipt of Information Bill of 2000](<https://pub.sbc4d.com/2022/lesotho_full_final.pdf>). A bill makes no rules and sets up no oversight body until it is passed, promulgated and in force. After that, a decree or regulation made under it, or an information commission or commissioner appointed, would put it to work. A decision or penalty on a request for information, or published figures of requests, would show it applied.
 
 ***Also on file***. [Lesotho Open Data Initiative (LODI)](<https://pub.sbc4d.com/2022/lesotho_full_final.pdf>).
 

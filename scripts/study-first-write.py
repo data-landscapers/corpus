@@ -588,7 +588,7 @@ def write(study: dict, iso: str, country: str, dry: bool) -> str:
             if not body:
                 lead = empties[k - 1] if k else f"No source found says {thing} is under way or in service."
                 near = link(top["url"], clean(top["fact"]) if not used else study_lib.part(clean(top["fact"])))
-                body = [f"{lead} The nearest held fact: {near}."]
+                body = [f"{lead} The nearest fact found: {near}."]
                 used = True
             if k == 0 and int(cell["stage"]) >= 4 and not any(r["value"] == ladder.firsts(study)[0] for r in mine):
                 body.append("A later answer places the country above that step.")   # method §3.3

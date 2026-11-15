@@ -6,7 +6,7 @@
 
 **Biometric checks.** [iDAKTO says the Mon e-ID app proves a person's identity by 1:N biometric matching on its servers, and verifies them by the phone's own biometrics](<https://www.biometricupdate.com/202509/idakto-cso-explains-moroccos-move-to-prioritize-digital-id-after-cyberattacks>). [Renewal of the CNIE ends in an in-person appointment for biometric verification](<https://www.wearetech.africa/en/fils-uk/news/tech/morocco-digitizes-national-id-renewal-process>).
 
-**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the account of the Mon e-ID app](<https://www.biometricupdate.com/202509/idakto-cso-explains-moroccos-move-to-prioritize-digital-id-after-cyberattacks>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest fact found: [the account of the Mon e-ID app](<https://www.biometricupdate.com/202509/idakto-cso-explains-moroccos-move-to-prioritize-digital-id-after-cyberattacks>).
 
 ***Also on file***. [biometric passport](<https://en.hespress.com/141646-morocco-to-introduce-new-biometric-passport-featuring-amazigh-english-starting-august.html>); [Idarati X.0](<https://www.biometricupdate.com/202602/idakto-and-shareid-to-help-build-moroccos-new-digital-wallet-super-app>).
 

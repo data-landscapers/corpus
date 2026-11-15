@@ -6,7 +6,7 @@
 
 **Warnings issued.** No source found since October 2023 says the weather service issues warnings drawing on satellite data. In 2019 the agency ANACM said it [issued cyclone, heavy rain and flood warnings using that stream](<https://severeweather.wmo.int/TCFW/RAI_Training2019/Comoros.pdf>), but nothing since repeats it.
 
-**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact is the [Commission's May 2026 list](<https://www-cdn.eumetsat.int/files/2026-05/7-%20Infrastructure%20and%20Capacity%20Building_AUC_PDF.pdf>) of PUMA stations.
+**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest fact found is the [Commission's May 2026 list](<https://www-cdn.eumetsat.int/files/2026-05/7-%20Infrastructure%20and%20Capacity%20Building_AUC_PDF.pdf>) of PUMA stations.
 
 ***Also on file***. [WIS2Box](<https://meteocomores.km/evenements/atelier-de-formation-sur-la-transformation-digital/>); [ClimWeb](<https://meteocomores.km/evenements/atelier-de-formation-sur-la-transformation-digital/>); [PUMA](<http://alliancehydromet.org/wp-content/uploads/2025/03/Rapport_CHD_Comores.pdf>).
 

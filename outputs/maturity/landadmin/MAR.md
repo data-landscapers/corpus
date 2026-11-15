@@ -6,7 +6,7 @@
 
 **Maps or valuation.** [In 2013 e-Foncier was also built on SICAD, which holds the cadastral registers](<https://www.itu.int/net4/wsis/archive/stocktaking/Project/Details?projectId=1270127883>). [CADGIS, which holds the cadastral plans, was another of its systems](<https://www.itu.int/net4/wsis/archive/stocktaking/Project/Details?projectId=1270127883>).
 
-**Linked to tax.** No source found since October 2023 says land or property tax is assessed or paid through the land system. The nearest held fact: [ANCFCC's online filings in 2026 are notarial deeds](<https://www.ancfcc.gov.ma/chiffrecles/>).
+**Linked to tax.** No source found since October 2023 says land or property tax is assessed or paid through the land system. The nearest fact found: [ANCFCC's online filings in 2026 are notarial deeds](<https://www.ancfcc.gov.ma/chiffrecles/>).
 
 ***Also on file***. [ANCFCC e-services](<https://www.ancfcc.gov.ma/chiffrecles/>).
 

@@ -6,7 +6,7 @@
 
 **Several sectors.** Customs is the only sector held with AI in service. The health tools, such as the [malaria diagnostic devices](<https://www.wearetech.africa/fr/fils/actualites/tech/paludisme-le-benin-integre-l-ia-dans-son-dispositif-national-de-diagnostic>) and a [clinical decision-support system under test](<https://aimnews.org/2026/08/25/europa-introduz-inteligencia-artificial-generativa-para-transformar-africa/>), are still being procured or tested.
 
-**Results reported.** No measured results of a sectoral AI system have been found. The nearest held fact is the [vendor's account of customs risk profiling](<https://webbfontaine.com/news/webb-customs-the-new-digital-weapon-against-customs-fraud-in-benin>), which gives no figures.
+**Results reported.** No measured results of a sectoral AI system have been found. The nearest fact found is the [vendor's account of customs risk profiling](<https://webbfontaine.com/news/webb-customs-the-new-digital-weapon-against-customs-fraud-in-benin>), which gives no figures.
 
 ***Also on file***. None found.
 

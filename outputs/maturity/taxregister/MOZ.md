@@ -6,7 +6,7 @@
 
 **Shared with firms or customs.** [The tax authority's FAQ says the NUIT must be used for all taxes, including customs duties](<http://www.at.gov.mz/por/Perguntas-Frequentes2/NUIT>). It is required for imports and exports and for licensing an economic activity. [Its English FAQ says the same of imports and business licensing](<http://www.at.gov.mz/eng/Internacional-Trade/FAQ-s/NUIT>). [In September 2026 a BAU official said firms obtain the NUIT at the one-stop business registration centre](<https://360mozambique.com/business/facim-2026-bau-pushes-digitalisation-to-ease-small-business-formalisation/>).
 
-**Tied to ID.** No source found since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the NUIT is required for all taxes and for customs](<http://www.at.gov.mz/por/Perguntas-Frequentes2/NUIT>).
+**Tied to ID.** No source found since October 2023 says the taxpayer number is tied to the national ID. The nearest fact found: [the NUIT is required for all taxes and for customs](<http://www.at.gov.mz/por/Perguntas-Frequentes2/NUIT>).
 
 ***Also on file***. [Sistema Integrado de Gestão Tributária](<https://aimnews.org/2026/07/22/governo-avanca-com-sistema-integrado-para-modernizar-gestao-tributaria/>); [e-SISTAFE](<https://aimnews.org/2026/07/22/governo-avanca-com-sistema-integrado-para-modernizar-gestao-tributaria/>).
 

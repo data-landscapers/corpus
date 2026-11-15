@@ -6,7 +6,7 @@
 
 **Several bodies.** Only the business registry is held with AI in service. In September 2026 the finance ministry listed [a chatbot for the General Directorate of Taxes among AI projects to be announced soon](<https://news-tunisia.tunisienumerique.com/tunisias-finance-ministry-moves-to-integrate-ai-into-taxation-customs-and-accounting/>), so it was not yet live.
 
-**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest held fact is the [count of AI projects in the 2025-2026 digital programme](<https://www.leconomistemaghrebin.com/2026/03/13/lia-au-service-de-la-tunisie-les-conditions-dune-adoption-reussie/>), which sets no rules.
+**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest fact found is the [count of AI projects in the 2025-2026 digital programme](<https://www.leconomistemaghrebin.com/2026/03/13/lia-au-service-de-la-tunisie-les-conditions-dune-adoption-reussie/>), which sets no rules.
 
 ***Also on file***. None found.
 

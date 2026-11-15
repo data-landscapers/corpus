@@ -6,7 +6,7 @@
 
 **Several programmes.** No source found since October 2023 says two or more programmes choose recipients from the social registry. [By March 2025 it held 98 percent of the beneficiaries of the five main social assistance programmes](<https://documents1.worldbank.org/curated/en/099121825122532143/txt/BOSIB-35f31917-1454-433b-a021-4d7246073f71.txt>).
 
-**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [in November 2025 President Boko said the Single Social Registry is for beneficiary registration](<https://dailynews.gov.bw/news-detail/89025>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest fact found: [in November 2025 President Boko said the Single Social Registry is for beneficiary registration](<https://dailynews.gov.bw/news-detail/89025>).
 
 ***Also on file***. None found.
 

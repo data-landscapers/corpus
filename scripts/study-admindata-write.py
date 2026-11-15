@@ -42,9 +42,9 @@ OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text
                     r"(?: \w+)?(?: \([^)]*\))? (?:says|states|reports|notes)(?: that)? ", re.I)
 ASIDE = re.compile(r"\s*\((?=[^)]*\b(?:date|dated|as_of|inferred|publication|published)\b)[^)]*\)", re.I)
 EMPTY = {
-    "use": "No source found reports work under way, or a product that leaves its sources unnamed, since October 2023. The nearest held fact: {l}.",
-    "source": "No source found names the administrative records a product published since October 2023 draws on. The nearest held fact: {l}.",
-    "series": "No source found states that statistics from administrative records are published regularly. The nearest held fact: {l}.",
+    "use": "No source found reports work under way, or a product that leaves its sources unnamed, since October 2023. The nearest fact found: {l}.",
+    "source": "No source found names the administrative records a product published since October 2023 draws on. The nearest fact found: {l}.",
+    "series": "No source found states that statistics from administrative records are published regularly. The nearest fact found: {l}.",
 }
 
 
@@ -132,12 +132,12 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
     if cell["stage"].isdigit():
         top = next(r for r in rows if r["row_id"] == src[0])
         anchor = link(top["url"], clean(top["fact"]))
-        used = False   # writer brief: an empty aspect states the nearest held fact
+        used = False   # writer brief: an empty aspect states the nearest fact found
         for a in study["aspects"]:
             k = a["key"]
             mine = [r for r in rows if r["aspect"] == k]
             body = sentences(mine, [i for i in src if i in {r["row_id"] for r in mine}], ROOM[k])
-            if not body:   # the nearest held fact is given whole once; a later empty aspect names its first part (housekeeping 72)
+            if not body:   # the nearest fact found is given whole once; a later empty aspect names its first part (housekeeping 72)
                 body = [EMPTY[k].format(l=anchor if not used else link(top["url"], study_lib.part(clean(top["fact"]))))]
             used = used or f"(<{top['url']}>)" in " ".join(body)   # given whole once; later empty aspects name its first part
             if k == "use" and len(rows) <= 5:   # few facts held: say so, as the statistics law study did

@@ -6,7 +6,7 @@
 
 **Several bodies.** A second body runs AI in service. In August 2026 the Department of Public Service and Administration [launched the Batho Pele AI Chatbot](<https://www.dpsa.gov.za/thepublicservant/2026/08/01/innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot/>), built with Meta and Juicetel. It gives citizens and public servants policy updates, circulars and legislation. SARS also [offers an AI assistant on its website](<https://www.sanews.gov.za/south-africa/over-5-million-taxpayers-auto-assessed-2025-filing-season-gets-underway>) for taxpayers' queries. In October 2026 the Companies and Intellectual Property Commission [had tendered for an AI chatbot](<https://techcabal.com/2026/10/26/government-ai-adoption-in-africa/>) for about two million customer interactions a month.
 
-**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest held fact is the [Batho Pele chatbot launch](<https://www.dpsa.gov.za/thepublicservant/2026/08/01/innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot/>), which names no policy for its use.
+**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest fact found is the [Batho Pele chatbot launch](<https://www.dpsa.gov.za/thepublicservant/2026/08/01/innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot/>), which names no policy for its use.
 
 ***Also on file***. [City Power prepaid purchase monitoring platform (tender)](<https://www.itweb.co.za/article/city-powers-electricity-theft-crackdown-faces-data-problem/GxwQDq1DLoZMlPVo>).
 

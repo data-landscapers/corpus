@@ -6,7 +6,7 @@
 
 **Several bodies.** Two bodies are held with AI in service. Beside INACOM, [the National Assembly uses AI speech recognition to transcribe plenary sessions](<https://expansao.co.ao/angola/detalhe/banca-assembleia-nacional-sector-electrico-e-comercio-ja-dominam-uso-de-ia-68283.html>), Expansão reported in November 2025. In July 2025 the IMA director said [AI in public services was limited to small experimental modules](<https://revistaexecutivo.com/especialistas-debate-sobre-estrategia-da-inteligencia-artificial-no-sector-publico-e-privado/>), with no structured project yet.
 
-**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest held fact is the [order funding a public-sector AI platform](<https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/>), which sets no rules.
+**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest fact found is the [order funding a public-sector AI platform](<https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/>), which sets no rules.
 
 ***Also on file***. None found.
 

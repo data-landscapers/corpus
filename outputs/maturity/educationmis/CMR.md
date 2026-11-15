@@ -6,7 +6,7 @@
 
 **Learner records.** Nothing found since October 2023 says the platform holds a record for each learner. [The ministry describes it as a store of sector statistics](<https://www.parec-cameroun.net/presentation-officielle-de-la-plateforme-sectorielle-integree-du-sige-et-des-documents-et-outils-conceptuels-et-methodologie/>).
 
-**Linked.** Nothing found since October 2023 says learner records are linked to the national ID or exchange data with another government system. The nearest held fact is [the 2025 launch of the sectoral platform](<https://www.unesco.org/en/articles/unesco-and-partners-officially-launch-integrated-emis-platform-and-its-methodological-tools>).
+**Linked.** Nothing found since October 2023 says learner records are linked to the national ID or exchange data with another government system. The nearest fact found is [the 2025 launch of the sectoral platform](<https://www.unesco.org/en/articles/unesco-and-partners-officially-launch-integrated-emis-platform-and-its-methodological-tools>).
 
 ***Also on file***. None found.
 

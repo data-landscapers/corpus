@@ -6,7 +6,7 @@
 
 **Warnings issued.** No source found since October 2023 says the weather service issues warnings drawing on satellite data. The department's [account of the workshop](<https://meteo.go.ke/news/puma-and-climsa-stations-tot-workshop/>) calls the stations vital for early warning, but does not say warnings draw on them.
 
-**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact is the [EUMETSAT report of the installation](<https://www.meteorologicaltechnologyinternational.com/news/satellites/eumetsat-installs-receiving-stations-for-kenyas-meteosat-third-generation-geostationary-satellites.html>).
+**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest fact found is the [EUMETSAT report of the installation](<https://www.meteorologicaltechnologyinternational.com/news/satellites/eumetsat-installs-receiving-stations-for-kenyas-meteosat-third-generation-geostationary-satellites.html>).
 
 ***Also on file***. None found.
 

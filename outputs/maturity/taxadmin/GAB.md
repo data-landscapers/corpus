@@ -6,7 +6,7 @@
 
 **Electronic payment.** [The e-tax portal also takes online payment of taxes](<http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots>). [The tax directorate announced it on 18 August 2025, with online filing on the same portal](<http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots>). [Since 10 July 2025 small taxpayers can declare and pay by phone through e-Tax, and Moov Money customers can pay in part or in full](<https://www.gabonreview.com/e-tax-le-gabon-passe-au-paiement-mobile-des-impots/>).
 
-**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the salary declaration for the large firms opened online in October 2026](<https://dgi.ga/wp-content/uploads/2026/10/Flyer-Gabon-Connect-%E2%80%93-Rencontre-FEG.pdf>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest fact found: [the salary declaration for the large firms opened online in October 2026](<https://dgi.ga/wp-content/uploads/2026/10/Flyer-Gabon-Connect-%E2%80%93-Rencontre-FEG.pdf>).
 
 ***Also on file***. [Digitax Gabon](<http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots>).
 

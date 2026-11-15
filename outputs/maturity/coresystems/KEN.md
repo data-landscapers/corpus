@@ -8,7 +8,7 @@
 
 **Payroll.** [The Unified Human Resource system holds public-service HR and payroll data](<https://techweez.com/2024/06/14/kenya-uhr-egp-under-imf-agreement/>). The Treasury Cabinet Secretary said in 2024 that it had been rolled out and linked to iTax since July 2023.
 
-**Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023. The nearest held fact: [the revenue authority said in 2025 it was upgrading iTax's back end](<https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392>).
+**Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023. The nearest fact found: [the revenue authority said in 2025 it was upgrading iTax's back end](<https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392>).
 
 **A map of the systems.** [The ICT ministry published guidelines on the Government Enterprise Architecture in 2026](<https://digitalization.ict.go.ke/download.php?id=2>). They call it the authoritative framework for planning and governing public systems.
 

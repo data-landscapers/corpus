@@ -6,7 +6,7 @@
 
 **Nationwide.** No source found since October 2023 says the addressing system covers the whole country. The nearest fact: [in August 2026 an experts forum in Tripoli urged faster implementation of the Digital Addressing Platform](<https://libyaherald.com/2026/08/libyan-experts-forum-makes-several-wide-ranging-recommendations-to-support-libya>).
 
-**Used by services.** No service has been found as using the addresses. The nearest held fact: [Libya Post's project installs address plates on buildings for postal delivery, municipality by municipality](<https://lana.gov.ly/post.php?id=334874&lang=ar>).
+**Used by services.** No service has been found as using the addresses. The nearest fact found: [Libya Post's project installs address plates on buildings for postal delivery, municipality by municipality](<https://lana.gov.ly/post.php?id=334874&lang=ar>).
 
 ***Also on file***. None found.
 

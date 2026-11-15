@@ -6,7 +6,7 @@
 
 **Warnings issued.** The department says [its flash flood warnings are produced with tools](<https://www.metmalawi.gov.mw/news/flash-flood-warnings-what-you-need-to-know-before-its-too-late/>) that include that guidance system. In 2025 it also [piloted a drought tool, PRISM, in five districts](<https://www.maravipost.com/malawi-pilots-prism-drought-monitoring-tool-to-strengthen-climate-resilience/>), which uses satellite imagery.
 
-**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact is the [department's August 2025 account](<https://www.metmalawi.gov.mw/news/dccms-enhances-weather-monitoring-capabilities-with-climsa-satellite-system-upgrade/>) of the new station.
+**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest fact found is the [department's August 2025 account](<https://www.metmalawi.gov.mw/news/dccms-enhances-weather-monitoring-capabilities-with-climsa-satellite-system-upgrade/>) of the new station.
 
 ***Also on file***. [PUMA 2025 (Skyceiver)](<https://www.metmalawi.gov.mw/documents/812/ZANYENGO_E_NEWSLETTER_EDITION_4_-_DEC_2025_hhZAsqd.pdf>).
 

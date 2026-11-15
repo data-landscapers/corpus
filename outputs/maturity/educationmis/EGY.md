@@ -6,7 +6,7 @@
 
 **Learner records.** [The same chapter says the ministry's Digital Identity Project stores data on each student in central databases](<https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml>). These cover attainment, attendance, tablet use and health. Nothing found names a unique learner number in national service.
 
-**Linked.** Nothing found since October 2023 says learner records are linked to the national ID or exchange data with another government system. The nearest held fact is [the ministry's Digital Identity Project](<https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml>).
+**Linked.** Nothing found since October 2023 says learner records are linked to the national ID or exchange data with another government system. The nearest fact found is [the ministry's Digital Identity Project](<https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml>).
 
 ***Also on file***. [Egyptian Knowledge Bank LMS](<https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml>).
 

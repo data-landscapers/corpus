@@ -6,7 +6,7 @@
 
 **Feeding policy.** Research ICT Africa [responded to the proposed amendments to the Identification Act](<https://www.businessday.co.za/opinion/2026-10-26-drew-haller-millions-risk-exclusion-as-smart-id-delays-persist/>), which would provide for a digital ID. It named preconditions it found missing, among them a digital identity policy and a privacy impact assessment. One of its researchers wrote in October 2026 that it is also [studying digital ID in the Western Cape, Gauteng and KwaZulu-Natal](<https://www.businessday.co.za/opinion/2026-10-26-drew-haller-millions-risk-exclusion-as-smart-id-delays-persist/>).
 
-**Standing role.** The nearest held fact is Research ICT Africa's [submission on the Identification Act amendments](<https://www.businessday.co.za/opinion/2026-10-26-drew-haller-millions-risk-exclusion-as-smart-id-delays-persist/>), a contribution to one consultation.
+**Standing role.** The nearest fact found is Research ICT Africa's [submission on the Identification Act amendments](<https://www.businessday.co.za/opinion/2026-10-26-drew-haller-millions-risk-exclusion-as-smart-id-delays-persist/>), a contribution to one consultation.
 
 ***Also on file***. None found.
 

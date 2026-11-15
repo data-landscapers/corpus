@@ -6,7 +6,7 @@
 
 **Regional system.** Botswana is [a live corridor of TCIB](<https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/>), the cross-border scheme PayInc runs for SADC as its regional settlement operator. TechAfrica News reported the link in March 2026. The first link runs through one bank, First Capital Bank Botswana.
 
-**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact is the [TechAfrica News report on TCIB](<https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/>), which names the corridors but gives no volumes.
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest fact found is the [TechAfrica News report on TCIB](<https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/>), which names the corridors but gives no volumes.
 
 ***Also on file***. None found.
 

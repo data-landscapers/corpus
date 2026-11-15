@@ -6,7 +6,7 @@
 
 **Hosted nationally.** A 2024 status deck on the national ID says [Fayda runs on the local government cloud, gCloud](<https://id4africa.com/2024/ps1/PS1-1-Ethiopia-final.pdf>). Its software is built apart from the cloud provider, on an on-premises cloud.
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact is that [Fayda's software is kept apart from its cloud provider](<https://id4africa.com/2024/ps1/PS1-1-Ethiopia-final.pdf>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact found is that [Fayda's software is kept apart from its cloud provider](<https://id4africa.com/2024/ps1/PS1-1-Ethiopia-final.pdf>).
 
 ***Also on file***. [Personal Data Protection Proclamation (Proclamation No. 1321/2024)](<https://digitalpolicyalert.org/change/12100-data-localisation-requirements-in-personal-data-protection-proclamation-proclamation-no-13212024>).
 

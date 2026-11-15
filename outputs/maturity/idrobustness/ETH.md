@@ -6,7 +6,7 @@
 
 **Biometric checks.** In March 2025 the national ID programme said Fayda [takes iris, ten fingerprints and a face image to identify each person uniquely](<https://www.bbc.com/amharic/articles/c204dl15p96o>). It works on a principle of one person, one ID, and gives each registrant a 12-digit number. Biometrics are mandatory for everyone over five.
 
-**Security certified or audited.** No certification, audit or assurance level has been reported for the system. The nearest held fact is [the programme's account of biometric enrolment in March 2025](<https://www.bbc.com/amharic/articles/c204dl15p96o>).
+**Security certified or audited.** No certification, audit or assurance level has been reported for the system. The nearest fact found is [the programme's account of biometric enrolment in March 2025](<https://www.bbc.com/amharic/articles/c204dl15p96o>).
 
 ***Also on file***. None found.
 

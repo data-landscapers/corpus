@@ -6,7 +6,7 @@
 
 **Regional system.** PAPSS's list of live banks for May 2025 shows [eight of Sierra Leone's commercial banks on the system](<https://papss.com/wp-content/uploads/2025/05/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_19052025.pdf>). They can send and receive payments through it with other participating African countries.
 
-**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact is [Tranglo's July 2025 notice](<https://tranglo.com/press/tranglo-grows-footprint-in-africa-with-5-new-countries/>) of e-wallet payouts to Sierra Leone, which gives no volumes.
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest fact found is [Tranglo's July 2025 notice](<https://tranglo.com/press/tranglo-grows-footprint-in-africa-with-5-new-countries/>) of e-wallet payouts to Sierra Leone, which gives no volumes.
 
 ***Also on file***. None found.
 

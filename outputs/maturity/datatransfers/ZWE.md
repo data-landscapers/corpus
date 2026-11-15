@@ -6,7 +6,7 @@
 
 **Open without permission each time.** Not answered. The [guideline](<https://www.veritaszim.net/sites/veritas_d/files/05%20Guideline%20on%20cross%20border%20transfer.pdf>) includes a letter requesting prior authorisation. It does not say which transfers need authorisation and which need only notification.
 
-**Published way to send data without asking.** None found. The nearest held fact is [POTRAZ's report of 26 December 2025](<https://www.connectingafrica.com/cybersecurity/zimbabwe-to-guide-southern-africa-in-data-protection-capacity-building>) that 24 transfers have been authorised. No list of countries or model terms is on file.
+**Published way to send data without asking.** None found. The nearest fact found is [POTRAZ's report of 26 December 2025](<https://www.connectingafrica.com/cybersecurity/zimbabwe-to-guide-southern-africa-in-data-protection-capacity-building>) that 24 transfers have been authorised. No list of countries or model terms is on file.
 
 **Open to African partners.** Not yet. [The African Union status list of 2 February 2026](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) shows no signature or ratification for Zimbabwe.
 

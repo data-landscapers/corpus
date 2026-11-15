@@ -6,7 +6,7 @@
 
 **Shared number.** [Company creation through the portal yields a commerce register entry, a tax registration and social security (CNSS) affiliation in a single procedure](<https://ami.mr/fr/archives/268316>). The source describes one procedure for the three registrations and does not say they share one number.
 
-**Beneficial owners.** Nothing found says the register collects the beneficial owners of the firms it records. The nearest held fact is [the April 2025 account of what the portal issues](<https://ami.mr/fr/archives/268316>), which names the register, tax and social security and not ownership.
+**Beneficial owners.** Nothing found says the register collects the beneficial owners of the firms it records. The nearest fact found is [the April 2025 account of what the portal issues](<https://ami.mr/fr/archives/268316>), which names the register, tax and social security and not ownership.
 
 ***Also on file***. None found.
 

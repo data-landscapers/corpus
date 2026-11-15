@@ -6,7 +6,7 @@
 
 **Maps or valuation.** [NINACAD is a national cadastral identifier given to parcels](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>). [SPRDF deployed it first around Bamako](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>).
 
-**Linked to tax.** No source found since October 2023 says land or property tax is assessed or paid through the land system. The nearest held fact: [SPRDF announced it would digitise all parcels in Mali under NINACAD](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>).
+**Linked to tax.** No source found since October 2023 says land or property tax is assessed or paid through the land system. The nearest fact found: [SPRDF announced it would digitise all parcels in Mali under NINACAD](<https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf>).
 
 ***Also on file***. None found.
 

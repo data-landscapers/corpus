@@ -6,7 +6,7 @@
 
 **Open without permission each time.** Not answered. The [same analysis](<https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/>) says transfers need notification or prior authorisation by the authority, ANSICE. It does not say which transfers need which.
 
-**Published way to send data without asking.** None found. The nearest held fact is the [analysis of the notification and authorisation step](<https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/>). No list of countries or model terms is on file.
+**Published way to send data without asking.** None found. The nearest fact found is the [analysis of the notification and authorisation step](<https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/>). No list of countries or model terms is on file.
 
 **Open to African partners.** Not yet. [ACTPOL, citing the African Union list of 2 February 2026](<https://www.actpol.org/research/central-africa-laws-before-regulators-cameroon>), says Chad signed the Malabo Convention without ratifying it.
 

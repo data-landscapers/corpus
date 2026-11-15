@@ -6,7 +6,7 @@
 
 **Learner records.** On the DGECS platform [each pupil has a matricule number and their marks are entered](<https://educationactu.com/11224-2/>), Educationactu reported in October 2026. The ministry uses it to record each pupil's passage from one class to the next.
 
-**Linked.** No source found says learner records are linked to the national ID or another government system. The nearest held fact is [the October 2026 report](<https://educationactu.com/11224-2/>) that each pupil on the platform has a matricule number.
+**Linked.** No source found says learner records are linked to the national ID or another government system. The nearest fact found is [the October 2026 report](<https://educationactu.com/11224-2/>) that each pupil on the platform has a matricule number.
 
 ***Also on file***. [DGECS platform](<https://educationactu.com/11224-2/>).
 

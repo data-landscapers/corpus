@@ -41,9 +41,9 @@ OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text
                     r"(?: \w+)?(?: \([^)]*\))? (?:says|states|reports|notes)(?: that)? ", re.I)
 ASIDE = re.compile(r"\s*\((?=[^)]*\b(?:date|dated|as_of|inferred|publication|published)\b)[^)]*\)", re.I)
 EMPTY = {
-    "census": "No source found says a population census was counted since October 2016 or is being prepared. The nearest held fact: {l}.",
-    "results": "No source found reports final results of a census counted since October 2016. The nearest held fact: {l}.",
-    "survey": "No source found reports results of a national household survey published since October 2023. The nearest held fact: {l}.",
+    "census": "No source found says a population census was counted since October 2016 or is being prepared. The nearest fact found: {l}.",
+    "results": "No source found reports final results of a census counted since October 2016. The nearest fact found: {l}.",
+    "survey": "No source found reports results of a national household survey published since October 2023. The nearest fact found: {l}.",
 }
 
 
@@ -125,12 +125,12 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
     if cell["stage"].isdigit():
         top = next(r for r in rows if r["row_id"] == src[0])
         anchor = link(top["url"], clean(top["fact"]))
-        used = False   # writer brief: an empty aspect states the nearest held fact
+        used = False   # writer brief: an empty aspect states the nearest fact found
         for a in study["aspects"]:
             k = a["key"]
             mine = [r for r in rows if r["aspect"] == k]
             body = sentences(mine, [i for i in src if i in {r["row_id"] for r in mine}], ROOM[k])
-            if not body:   # the nearest held fact is given whole once; a later empty aspect names its first part (housekeeping 72)
+            if not body:   # the nearest fact found is given whole once; a later empty aspect names its first part (housekeeping 72)
                 body = [EMPTY[k].format(l=anchor if not used else link(top["url"], study_lib.part(clean(top["fact"]))))]
                 used = True
                 named = list(dict.fromkeys(link(urls[x["sources"].split(";")[0]], x["system"].strip()) for x in systems

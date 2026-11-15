@@ -6,7 +6,7 @@
 
 **Shared number.** [CEPICI says the Identifiant Unique, in use since 2018, is now the one number a firm needs with every administration](<https://cepici.africa/reforme>). With it a firm is registered at once with the commercial register, the tax authority and the social security fund CNPS. The number is issued when the firm is created. [In July 2025 CEPICI launched a directory of registered firms keyed on that number](<https://news.abidjan.net/articles/743032/environnement-des-affaires-le-cepici-lance-lannuaire-idu-un-registre-des-entreprises-ivoiriennes>).
 
-**Beneficial owners.** Nothing found says the register collects the beneficial owners of the firms it records. The nearest held fact is [CEPICI's account of what the Identifiant Unique registers](<https://cepici.africa/reforme>), which names the commercial register, tax and social security and not ownership.
+**Beneficial owners.** Nothing found says the register collects the beneficial owners of the firms it records. The nearest fact found is [CEPICI's account of what the Identifiant Unique registers](<https://cepici.africa/reforme>), which names the commercial register, tax and social security and not ownership.
 
 ***Also on file***. None found.
 

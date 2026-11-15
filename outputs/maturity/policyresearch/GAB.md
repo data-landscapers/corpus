@@ -6,7 +6,7 @@
 
 **Feeding policy.** No source found since October 2023 says local research fed a digital policy, law or strategy. [In July 2026 the CSGR-IA asked to work with the CESEC](<https://www.csgria.ga/actualites/article/le-csgr-ia-recu-en-audience/>). It sought a regular part in the council's digital commissions. No such role is on file.
 
-**Standing role.** No source found says a local research institution holds a standing advisory role in digital policy. The nearest held fact: [the CSGR-IA's bid to work with the CESEC](<https://www.csgria.ga/actualites/article/le-csgr-ia-recu-en-audience/>).
+**Standing role.** No source found says a local research institution holds a standing advisory role in digital policy. The nearest fact found: [the CSGR-IA's bid to work with the CESEC](<https://www.csgria.ga/actualites/article/le-csgr-ia-recu-en-audience/>).
 
 ***Also on file***. None found.
 

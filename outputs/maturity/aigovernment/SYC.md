@@ -6,7 +6,7 @@
 
 **Several bodies.** Only the border system is held in service in a named government body. UNDP says [AI virtual agents are being deployed by public agencies in Victoria](<https://sdglocalaction.org/how-cities-are-using-artificial-intelligence-to-deliver-services/>) to give policy information over web, SMS and voice.
 
-**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest held fact is [Travizory's account of the border corridor](<https://www.travizory.com/travizory-celebrates-landmark-facelane-deployments>), which states no rules for its use.
+**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest fact found is [Travizory's account of the border corridor](<https://www.travizory.com/travizory-celebrates-landmark-facelane-deployments>), which states no rules for its use.
 
 ***Also on file***. None found.
 

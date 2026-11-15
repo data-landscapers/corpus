@@ -6,7 +6,7 @@
 
 **Deaths digital.** [The same August 2026 issue reports 6,333 deaths registered in January to June 2026](<https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1949/Pop_Vital_Midyr26_280826.pdf>). [Statistics Mauritius compiled them from the Civil Status Division's computerised system](<https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1949/Pop_Vital_Midyr26_280826.pdf>).
 
-**Births at 90%.** No source found since October 2023 puts the share of births registered in the digital system at 90% or more. The nearest held fact: [in its 2024 round the World Bank's SPI listed Mauritius as meeting SDG 17.19.2](<https://github.com/worldbank/SPI>). [That means birth registration at least 90% and death registration at least 75% complete](<https://github.com/worldbank/SPI>). [It is a national rate, not tied to a digital system](<https://github.com/worldbank/SPI>).
+**Births at 90%.** No source found since October 2023 puts the share of births registered in the digital system at 90% or more. The nearest fact found: [in its 2024 round the World Bank's SPI listed Mauritius as meeting SDG 17.19.2](<https://github.com/worldbank/SPI>). [That means birth registration at least 90% and death registration at least 75% complete](<https://github.com/worldbank/SPI>). [It is a national rate, not tied to a digital system](<https://github.com/worldbank/SPI>).
 
 ***Also on file***. [Central Population Database](<https://oecd-opsi.org/innovations/maupass/>).
 

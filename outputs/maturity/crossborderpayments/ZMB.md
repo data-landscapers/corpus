@@ -6,7 +6,7 @@
 
 **Regional system.** Zambia is on [TCIB, the SADC cross-border scheme](<https://it-online.co.za/2024/03/01/cross-border-payments-now-live-between-sa-and-zambia/>) live since 2021, which carries the South Africa corridor. COMESA [launched its retail payments platform in October 2025](<https://www.lusakatimes.com/2025/10/10/zambias-zamtel-to-pilot-new-comesa-system-for-instant-cross-border-money-transfers/>) with a pilot on the Zambia-Malawi corridor.
 
-**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact is the [IT-Online report on the TCIB corridor](<https://it-online.co.za/2024/03/01/cross-border-payments-now-live-between-sa-and-zambia/>), which gives no volumes.
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest fact found is the [IT-Online report on the TCIB corridor](<https://it-online.co.za/2024/03/01/cross-border-payments-now-live-between-sa-and-zambia/>), which gives no volumes.
 
 ***Also on file***. [TCIB](<https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8>); [Airtel Money](<https://www.connectingafrica.com/mobile-money/airtel-money-pawapay-enable-remittances-for-seven-african-countries>).
 

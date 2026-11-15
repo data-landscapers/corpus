@@ -8,9 +8,9 @@
 
 **Payroll.** [In December 2023 the World Bank said a human resource management information system was in place](<https://documents1.worldbank.org/curated/en/099012624174578070/pdf/BOSIB1128fca200361b2de12ad6f80d422e.pdf>). [Its payroll module was in use, while most other modules were little used](<https://documents1.worldbank.org/curated/en/099012624174578070/pdf/BOSIB1128fca200361b2de12ad6f80d422e.pdf>).
 
-**Renewal.** No source found says a core system went live on a new or upgraded system since October 2023. [The nearest held fact is the finance ministry's 2026 terms of reference for the IFMIS](<https://www.finance.gov.ls/PDFDocuments/TOR%20IFMIS%20UPGRADE%20PROJECT%20MANAGER-639130560784133389.pdf>).
+**Renewal.** No source found says a core system went live on a new or upgraded system since October 2023. [The nearest fact found is the finance ministry's 2026 terms of reference for the IFMIS](<https://www.finance.gov.ls/PDFDocuments/TOR%20IFMIS%20UPGRADE%20PROJECT%20MANAGER-639130560784133389.pdf>).
 
-**A map of the systems.** No source found says the government has published an enterprise architecture or an inventory of its systems. [The nearest held fact is the IFMIS terms of reference](<https://www.finance.gov.ls/PDFDocuments/TOR%20IFMIS%20UPGRADE%20PROJECT%20MANAGER-639130560784133389.pdf>).
+**A map of the systems.** No source found says the government has published an enterprise architecture or an inventory of its systems. [The nearest fact found is the IFMIS terms of reference](<https://www.finance.gov.ls/PDFDocuments/TOR%20IFMIS%20UPGRADE%20PROJECT%20MANAGER-639130560784133389.pdf>).
 
 ***Also on file***. [Digital Signature Service, EPM Payment Gateway and the X-Road data exchange platform](<https://www.finance.gov.ls/PDFDocuments/TOR%20IFMIS%20UPGRADE%20PROJECT%20MANAGER-639130560784133389.pdf>). [A MOSIP-based national digital ID](<https://www.biometricupdate.com/202603/lesotho-unicef-partner-to-develop-mosip-based-integrated-national-id>). [X-Road, MOSIP and a Decision Support System](<https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/>). [The Mohale's Hoek data centre](<https://www.gov.ls/uncategorized/comms-minister-tours-mohales-hoek-data-centre/>).
 

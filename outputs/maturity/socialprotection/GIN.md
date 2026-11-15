@@ -6,7 +6,7 @@
 
 **Paid electronically.** [In 2023 ANIES reported that under the Nafa project it opened electronic wallet accounts for women household heads](<https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf>). [It issued them phones and SIM cards](<https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf>). [It pays them monthly through five contracted payment operators](<https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf>). [ANIES plans to keep this mobile-money arrangement for the Food Shock Window transfers](<https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf>).
 
-**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest held fact: [in 2023 the Nafa cash transfers drew their households from the ANIES beneficiary database](<https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf>).
+**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest fact found: [in 2023 the Nafa cash transfers drew their households from the ANIES beneficiary database](<https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf>).
 
 ***Also on file***. [KoboCollect](<https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf>).
 

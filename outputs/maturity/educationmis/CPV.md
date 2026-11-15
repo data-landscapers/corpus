@@ -6,7 +6,7 @@
 
 **Learner records.** Nothing found since October 2023 says SIGE holds a record for each learner with a unique number. [The directorate says teachers and school secretariats enter data in it](<https://www.asemana.cv/index.php/atualidade/14072-implementacao-do-sige-e-passo-fundamental-para-eficiencia-da-gestao-educativa-no-pais-dne>).
 
-**Linked.** Nothing found since October 2023 says learner records are linked to the national ID or exchange data with another government system. The nearest held fact is [the planned modernisation of SIGE](<https://www.governo.cv/parceria-global-para-educacao-aprova-subvencao-nao-reembolsavel-de-um-milhao-de-dolares-ao-governo/>).
+**Linked.** Nothing found since October 2023 says learner records are linked to the national ID or exchange data with another government system. The nearest fact found is [the planned modernisation of SIGE](<https://www.governo.cv/parceria-global-para-educacao-aprova-subvencao-nao-reembolsavel-de-um-milhao-de-dolares-ao-governo/>).
 
 ***Also on file***. None found.
 

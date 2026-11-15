@@ -4,7 +4,7 @@
 
 **Public criticism of government policy.** In 2025 a representative of Internet Society Libya [said Article 39 on defamation in the draft cybercrime law could be used to suppress activists and journalists](<https://informatics.ly/en/session/cybercrime-law-session/>). The representative proposed civil in place of criminal defamation.
 
-**Cuts and blocks, and a bar on them.** No held source reports a cut or block of internet access, or a law or ruling that bars one. The nearest held fact is [a 2025 session on the draft law on cybercrime and digital evidence](<https://informatics.ly/en/session/cybercrime-law-session/>).
+**Cuts and blocks, and a bar on them.** No held source reports a cut or block of internet access, or a law or ruling that bars one. The nearest fact found is [a 2025 session on the draft law on cybercrime and digital evidence](<https://informatics.ly/en/session/cybercrime-law-session/>).
 
 **Punishment for speech, and its removal.** On 14 August 2026 the Committee for Justice [documented the arrest of Benghazi activist Aziz Al-Orfi by the Internal Security Agency](<https://www.cfjustice.org/libya-committee-for-justice-documents-the-arrest-of-activist-aziz-al-orfi-in-benghazi-and-calls-for-the-protection-of-freedom-of-expression/>). The arrest was over his Facebook and TikTok posts on public affairs. He says he was held five days on accusations of incitement. On 3 May 2026 the UN mission said [journalists and critics are still arrested and prosecuted](<https://unsmil.unmissions.org/en/press-releases/unsmil-statement-on-world-press-freedom-day>), including under cybercrime law.
 

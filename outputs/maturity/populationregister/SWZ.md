@@ -6,7 +6,7 @@
 
 **Updated from vital events.** [Home Affairs registered births and deaths in Manzini and Hhohho in the second quarter of 2025/26](<https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/>). It says these entries improved the National Population Register.
 
-**Source for others.** No source found since October 2023 says other systems take records from the population register. The nearest held fact: [in October 2025 Home Affairs said the register was improved by converting manual birth certificates](<https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/>).
+**Source for others.** No source found since October 2023 says other systems take records from the population register. The nearest fact found: [in October 2025 Home Affairs said the register was improved by converting manual birth certificates](<https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/>).
 
 ***Also on file***. None found.
 

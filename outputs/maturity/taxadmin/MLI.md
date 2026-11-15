@@ -6,7 +6,7 @@
 
 **Electronic payment.** Telepayment started in December 2021. In November 2025 the director-general said [taxpayers of the computerised centres can pay by bank transfer](<https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html>). Mobile money and card payment were not yet offered. The finance minister [said in March 2025 that tele-payment was in place](<https://www.ortm.ml/digitalisation-de-ladministration-deux-nouvelles-plateformes-de-modernisation-lancees>).
 
-**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact is the [director-general's November 2025 account](<https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html>). It says who may file online, not how many do.
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest fact found is the [director-general's November 2025 account](<https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html>). It says who may file online, not how many do.
 
 ***Also on file***. None found.
 

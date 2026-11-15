@@ -6,7 +6,7 @@
 
 **Authority.** In April 2025 the Forum on Information and Democracy and ALCRER [found no specific AI regulatory authority](<https://informationdemocracy.org/wp-content/uploads/2025/04/FID_Plaquette-IA-BENIN_VDEF-1.pdf>). [They found no sufficiently binding AI regulation or liability regime either](<https://informationdemocracy.org/wp-content/uploads/2025/04/FID_Plaquette-IA-BENIN_VDEF-1.pdf>). ASIN's framework of October 2026 would give each organisation [an AI officer and an ethics committee](<https://cadreco.media/index.php/numerique/2026/transformation-numerique-le-benin-veut-accelerer-avec-lia-et-miser-sur-ses-propres-talents>).
 
-**Enforced.** The nearest held fact is [the penalty article 576 sets for an undisclosed montage](<https://www.lanation.bj/numerique/images-retouchees-par-lintelligence-artificielle-les-limites-a-ne-pas-franchir>).
+**Enforced.** The nearest fact found is [the penalty article 576 sets for an undisclosed montage](<https://www.lanation.bj/numerique/images-retouchees-par-lintelligence-artificielle-les-limites-a-ne-pas-franchir>).
 
 ***Also on file***. None found.
 

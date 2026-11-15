@@ -6,7 +6,7 @@
 
 **Main taxes and duties.** [Income tax returns for 2025/26 must be filed electronically through eFiling](<https://swazidailynews.com/11962/business/ers-targets-multiple-income-earners-ahead-of-deadline/>), and no manual returns are accepted, the ERS said in November 2026. [Customs duties and import VAT have been payable through FNB Eswatini since June 2026](<https://www.linkedin.com/posts/brightwell-nkambule-9997209_today-we-launched-the-ers-integrated-payment-activity-7471306041775849472-7YZM>).
 
-**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest held fact: [the 2026 annual returns are filed and paid 100 per cent online](<https://swazidailynews.com/11479/national/your-side-hustle-could-cost-you-if-you-dont-file-ers-warns/>).
+**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest fact found: [the 2026 annual returns are filed and paid 100 per cent online](<https://swazidailynews.com/11479/national/your-side-hustle-could-cost-you-if-you-dont-file-ers-warns/>).
 
 ***Also on file***. [TaxCore](<https://independentnews.co.sz/48807/business/three-tech-firms-connect-to-ers-e-invoicing-system/>); [Post office government service payments](<https://techafricanews.com/2025/09/26/eswatini-ministry-of-ict-unveils-post-office-based-government-service-payment-system/>); [Tax Ease](<https://eswatinipositivenews.com/ers-launches-tax-portal/>).
 

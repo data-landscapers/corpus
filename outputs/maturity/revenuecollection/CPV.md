@@ -6,7 +6,7 @@
 
 **Main taxes and duties.** [In May 2024 the DNRE extended to 14 June the deadline for filing tax returns and paying the taxes through its portal](<https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal>). [In 2026 its customs clearance page took payment online by card against the clearance's DUC reference](<https://www.mf.gov.cv/web/dnre/pagamento-online-de-despacho>).
 
-**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest held fact: [in 2024 the DNRE extended the deadline for returns filed and taxes paid through its portal](<https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal>).
+**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest fact found: [in 2024 the DNRE extended the deadline for returns filed and taxes paid through its portal](<https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal>).
 
 ***Also on file***. None found.
 

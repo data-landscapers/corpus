@@ -6,7 +6,7 @@
 
 **Regional system.** The BCEAO [launched PI-SPI, the regional instant payment platform, on 30 September 2025](<https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026>), with 80 institutions connected. The BCEAO says [Cote d'Ivoire's Treasury makes regular bulk payments through it](<https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement>). In November 2026 Wave said [its customers in Cote d'Ivoire can send and receive through PI-SPI](<https://bifinances.com/actualites/wave-precise-lacces-a-pi-spi-au-senegal-et-en-cote-divoire>).
 
-**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact is [the count of 80 institutions connected to PI-SPI at launch](<https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026>).
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest fact found is [the count of 80 institutions connected to PI-SPI at launch](<https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026>).
 
 ***Also on file***. [PI-SPI](<https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement>); [WAEMU interoperable instant payment system (PI-SPI)](<https://www.theafricareport.com/359378/west-africa-five-questions-about-the-regions-new-interoperable-payment-system/>).
 

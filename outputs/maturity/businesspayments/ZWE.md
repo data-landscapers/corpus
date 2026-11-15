@@ -6,7 +6,7 @@
 
 **End to end.** [PRAZ upgraded eGP to Phase 1.3 in early 2025, for all public entities](<https://www.heraldonline.co.zw/egp-system-upgraded/>). The upgrade added e-evaluation, e-award, e-contract management, framework agreements and management reports.
 
-**Use reported.** No figure for tenders or value has been found. The nearest held fact: [over 9,900 suppliers and 380 procuring entities registered on eGP by 31 March 2024](<https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/>), a count of registrations rather than of tenders.
+**Use reported.** No figure for tenders or value has been found. The nearest fact found: [over 9,900 suppliers and 380 procuring entities registered on eGP by 31 March 2024](<https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/>), a count of registrations rather than of tenders.
 
 ***Also on file***. None found.
 

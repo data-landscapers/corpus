@@ -40,9 +40,9 @@ OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text
                     r"(?: \w+)?(?: \([^)]*\))? (?:says|states|reports|notes)(?: that)? ", re.I)
 ASIDE = re.compile(r"\s*\((?=[^)]*\b(?:date|dated|as_of|inferred|publication|published)\b)[^)]*\)", re.I)
 EMPTY = {
-    "standing": "No source found says a national statistics strategy was adopted or is being prepared. The nearest held fact: {l}.",
-    "review": "No source found dates a review of progress on the strategy since October 2023, from an annual review, a progress report or a meeting of its steering body. The nearest held fact: {l}.",
-    "evaluation": "No source found reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest held fact: {l}.",
+    "standing": "No source found says a national statistics strategy was adopted or is being prepared. The nearest fact found: {l}.",
+    "review": "No source found dates a review of progress on the strategy since October 2023, from an annual review, a progress report or a meeting of its steering body. The nearest fact found: {l}.",
+    "evaluation": "No source found reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest fact found: {l}.",
 }
 
 
@@ -124,7 +124,7 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
     parts = [f"# {country}", "", f"## {label}", ""]
     if cell["stage"].isdigit():
         top = next(r for r in rows if r["row_id"] == src[0])
-        anchor = link(top["url"], clean(top["fact"]))   # writer brief: an empty aspect states the nearest held fact
+        anchor = link(top["url"], clean(top["fact"]))   # writer brief: an empty aspect states the nearest fact found
         for a in study["aspects"]:
             k = a["key"]
             mine = [r for r in rows if r["aspect"] == k]

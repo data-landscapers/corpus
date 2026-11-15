@@ -8,7 +8,7 @@
 
 **Published way to send data without asking.** No. [The source, published on 17 January 2024](<https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia/>), says POPIA names no countries with adequate protection and creates no way to recognise them. The sender must judge adequacy itself.
 
-**Open to African partners.** Not answered. The nearest held fact is [the 2024 source on POPIA](<https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia/>), which says South Africa names no adequate countries and so recognises no partner.
+**Open to African partners.** Not answered. The nearest fact found is [the 2024 source on POPIA](<https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia/>), which says South Africa names no adequate countries and so recognises no partner.
 
 ***Also on file***. [A department presentation of 24 February 2026](<http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf>) says the data and cloud policy keeps government data on national security stored in South Africa. A 2021 draft of the policy would have required a copy kept in the country.
 

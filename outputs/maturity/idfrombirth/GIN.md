@@ -4,7 +4,7 @@
 
 **Number given at birth.** Guinea's territorial administration ministry launched the national civil-status register project, RENEC, on [28 October 2026](<https://guistat.com/guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-securiser-letat-civil/>). It works through ONECI, the national identification office, with the firm Digitech. The register is to record civil-status events from birth. Each citizen in it is to have a unique identifier number. [An earlier exercise, the PN-RAVEC census launched in April 2025, also rests on an identifier given at birth and kept for life](<https://guineenews.org/2025/04/22/etat-civil-aucun-document-didentite-navait-de-base-legale-selon-djenabou-toure/>). No child is yet recorded as receiving the number.
 
-**Given nationally.** No source says every birth registered in the country receives an identity number. The nearest held fact is the [RENEC launch of October 2026](<https://guistat.com/guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-securiser-letat-civil/>), which plans one national civil-status system.
+**Given nationally.** No source says every birth registered in the country receives an identity number. The nearest fact found is the [RENEC launch of October 2026](<https://guistat.com/guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-securiser-letat-civil/>), which plans one national civil-status system.
 
 **All births registered.** No figure for the share of births or deaths registered is recorded. The [RENEC project](<https://guistat.com/guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-securiser-letat-civil/>) aims to bring civil-status records into one secure national register.
 

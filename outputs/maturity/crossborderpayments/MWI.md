@@ -6,7 +6,7 @@
 
 **Regional system.** Malawi takes part in [COMESA's Digital Retail Payments Platform](<https://mwnation.com/comesa-payment-system-connects-malawi-zambia>), described in October 2025 as the bloc's first interoperable cross-border payment system. COMESA, with EU funds, [supports its rollout in eight countries](<https://www.comesa.int/comesa-eu-partnership-shaping-a-digital-future/>), Malawi among them.
 
-**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact is [COMESA's account of the platform](<https://mwnation.com/comesa-payment-system-connects-malawi-zambia>), which gives no volumes.
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest fact found is [COMESA's account of the platform](<https://mwnation.com/comesa-payment-system-connects-malawi-zambia>), which gives no volumes.
 
 ***Also on file***. [Malawi Police electronic traffic fine payment](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [TNM Mpamba](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Airtel Money](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Social cash transfer programmes](<https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/>).
 

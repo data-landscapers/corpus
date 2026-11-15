@@ -6,7 +6,7 @@
 
 **End to end.** The CEDSIF chair said in December 2024 that [e-SISTAFE's procurement is linked to its budget and payment modules](<https://www.jornalnoticias.co.mz/destaque/e-sistafe-passa-a-ser-ferramenta-de-auditoria/>). The [2025 e-GP project is said to cover planning to payment](<https://clubofmozambique.com/news/mozambique-launches-e-procurement-system/>). No source found says e-procurement is required of all public bodies.
 
-**Use reported.** No figure for e-procurement has been found. The nearest held fact: [the contract for the national e-GP system](<https://www.eurodyn.com/the-government-of-mozambique-selects-epps-for-its-national-eprocurement-system/>).
+**Use reported.** No figure for e-procurement has been found. The nearest fact found: [the contract for the national e-GP system](<https://www.eurodyn.com/the-government-of-mozambique-selects-epps-for-its-national-eprocurement-system/>).
 
 ***Also on file***. [M-Pesa](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>); [Adianta-La](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>).
 

@@ -6,7 +6,7 @@
 
 **Progress reviewed.** No source found dates a review of progress on the strategy since October 2023. No annual review, progress report or meeting of its steering body has been found in that time. The nearest fact found: [The DFDI Technical Working Group meeting in Harare is described as held amid the implementation of NSDS IV](<https://www.newsday.co.zw/local-news/article/200049318/zimstat-un-team-up-to-boost-data-driven-development>).
 
-**Evaluated.** No source found reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest held fact: [The DFDI Technical Working Group meeting in Harare is described as held amid the implementation of NSDS IV](<https://www.newsday.co.zw/local-news/article/200049318/zimstat-un-team-up-to-boost-data-driven-development>).
+**Evaluated.** No source found reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest fact found: [The DFDI Technical Working Group meeting in Harare is described as held amid the implementation of NSDS IV](<https://www.newsday.co.zw/local-news/article/200049318/zimstat-un-team-up-to-boost-data-driven-development>).
 
 ***Also on file***. None found.
 

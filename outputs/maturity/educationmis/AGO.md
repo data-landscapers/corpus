@@ -6,7 +6,7 @@
 
 **Learner records.** Nothing found since October 2023 says SIGE holds a record for each learner. [The planning office describes it as a source of yearbook statistics](<https://www.ine.gov.ao/publicacoes/detalhes/MzgzMzA%3D>).
 
-**Linked.** Nothing found since October 2023 says learner records are linked to the national ID or exchange data with another government system. The nearest held fact is [the planned EMIS legal framework](<https://adeanet.org/en/news/angola-embarks-journey-transform-education-data-systems>).
+**Linked.** Nothing found since October 2023 says learner records are linked to the national ID or exchange data with another government system. The nearest fact found is [the planned EMIS legal framework](<https://adeanet.org/en/news/angola-embarks-journey-transform-education-data-systems>).
 
 ***Also on file***. None found.
 

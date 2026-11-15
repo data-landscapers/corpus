@@ -6,7 +6,7 @@
 
 **Biometric checks.** Semlex, which runs enrolment, said in July 2024 that [the card system rests on biometric enrolment and a deduplication system](<https://www.semlex.com/en/2024/07/01/nouveau-centre-denrolement-a-bissau/>). That system assigns each citizen a unique identity number. Cards were then delivered within 48 hours in Bissau and seven days elsewhere.
 
-**Security certified or audited.** No certification, audit or assurance level has been reported for the system. The nearest held fact is [Semlex's account of enrolment and deduplication in July 2024](<https://www.semlex.com/en/2024/07/01/nouveau-centre-denrolement-a-bissau/>).
+**Security certified or audited.** No certification, audit or assurance level has been reported for the system. The nearest fact found is [Semlex's account of enrolment and deduplication in July 2024](<https://www.semlex.com/en/2024/07/01/nouveau-centre-denrolement-a-bissau/>).
 
 ***Also on file***. [ECOWAS National Biometric Identity Card (ENBIC)](<https://www.ecowas.int/ecowas-supports-over-260-women-with-the-issuance-of-ecowas-national-biometric-cards-enbic-at-the-border-communities-of-sao-domingos-guinea-bissau-and-mpack-senegal/>); [ECOWAS ID](<https://usesmileid.com/countries/Guinea-Bissau>); [Civil registry digitisation platform](<https://www.undp.org/guinea-bissau/projects/building-national-identification-system-supporting-ministry-justice-scanning-and-digitizing-civil-registry-books-guinea-bissau>).
 

@@ -6,7 +6,7 @@
 
 **Nationwide.** The system [assigns a code to every addressable building in the country](<https://techafricanews.com/2026/10/29/from-informal-landmarks-to-sovereign-data-the-governance-challenge-facing-digital-postcodes/>), Tech Africa News reported in October 2026. NIPOST built it with Milsat Technologies. Its database holds structures across the whole country. They were mapped from satellite imagery and checked in the field.
 
-**Used by services.** No emergency service, utility or other register is recorded as using the postcode. The nearest held fact is the [ministry's October 2026 pitch session](<https://fmcide.gov.ng/federal-ministry-hosts-first-built-on-nigerias-postcode-pitch-session-showcases-innovation-opportunities-from-national-digital-postcode-system/>), where firms showed services built on it.
+**Used by services.** No emergency service, utility or other register is recorded as using the postcode. The nearest fact found is the [ministry's October 2026 pitch session](<https://fmcide.gov.ng/federal-ministry-hosts-first-built-on-nigerias-postcode-pitch-session-showcases-innovation-opportunities-from-national-digital-postcode-system/>), where firms showed services built on it.
 
 ***Also on file***. None found.
 

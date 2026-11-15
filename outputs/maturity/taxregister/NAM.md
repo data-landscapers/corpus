@@ -6,7 +6,7 @@
 
 **Shared with firms or customs.** [NamRA says the TIN it issues is mandatory on every customs declaration in ASYCUDAWorld from 1 April 2026](<https://www.namra.org.na/documents/cms/uploaded/public-notice--mandatory-tin-on-asycudaworld--9-dec-2025-7d1548a64e.pdf>). [Declarations without a valid TIN are rejected automatically](<https://www.namra.org.na/documents/cms/uploaded/public-notice--mandatory-tin-on-asycudaworld--9-dec-2025-7d1548a64e.pdf>). [Its April notice sent traders to ITAS for the number ahead of the upgrade](<https://www.namra.org.na/documents/cms/uploaded/public-notice-asycudaworld-golive-date-extended-e62d0a7fe7.pdf>). One number thus serves both tax and customs.
 
-**Tied to ID.** No source found since October 2023 says the taxpayer number is the national ID number or is checked against the national ID. The nearest held fact: [the TIN is applied for through ITAS](<https://www.namra.org.na/documents/cms/uploaded/public-notice-asycudaworld-golive-date-extended-e62d0a7fe7.pdf>).
+**Tied to ID.** No source found since October 2023 says the taxpayer number is the national ID number or is checked against the national ID. The nearest fact found: [the TIN is applied for through ITAS](<https://www.namra.org.na/documents/cms/uploaded/public-notice-asycudaworld-golive-date-extended-e62d0a7fe7.pdf>).
 
 ***Also on file***. [ASYCUDAWorld](<https://www.namra.org.na/documents/cms/uploaded/public-notice--mandatory-tin-on-asycudaworld--9-dec-2025-7d1548a64e.pdf>).
 

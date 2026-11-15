@@ -6,7 +6,7 @@
 
 **Electronic payment.** Capital gains tax [is paid through the iTax system](<https://anoadvocates.com/insights/stamp-duty-payments-simplified-by-ardhipay>), the law firm ANO Advocates wrote in July 2024. Since a change to iTax, stamp duty can be paid without first quoting the capital gains payment number. Stamp duty on land deals is paid through the lands ministry's Ardhisasa portal, by M-PESA or bank transfer.
 
-**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact is the [Business Daily report](<https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392>) that iTax crashed at the June 2025 filing deadline.
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest fact found is the [Business Daily report](<https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392>) that iTax crashed at the June 2025 filing deadline.
 
 ***Also on file***. [iCMS](<https://www.kra.go.ke/news-center/public-notices/2368-integration-of-the-export-process-in-icms-with-the-vat-return-in-itax>); [TIMS/eTIMS](<https://www.kra.go.ke/news-center/public-notices/2368-integration-of-the-export-process-in-icms-with-the-vat-return-in-itax>).
 

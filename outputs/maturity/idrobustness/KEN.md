@@ -6,7 +6,7 @@
 
 **Biometric checks.** The Maisha system issues a unique lifetime number and a card on top of the IPRS-AFIS infrastructure. In May 2026 The Elephant reported that [AFIS checks fingerprints and flags duplicate or fraudulent registrations](<https://www.theelephant.info/investigations/2026/05/28/project-profile-the-in-between-lives-of-the-double-registered/>) as ID applications are processed. An upgrade adding face and iris was under way. The government's deck for ID4Africa 2026 lists [AFIS deduplication in the identity lifecycle](<https://id4africa.com/2026/files/T1-1-3-Kenya-FINAL.pdf>), with two fingerprints held on the card chip.
 
-**Security certified or audited.** No certification, audit or assurance level has been reported for the system. The nearest held fact is [The Elephant's account of AFIS deduplication in May 2026](<https://www.theelephant.info/investigations/2026/05/28/project-profile-the-in-between-lives-of-the-double-registered/>).
+**Security certified or audited.** No certification, audit or assurance level has been reported for the system. The nearest fact found is [The Elephant's account of AFIS deduplication in May 2026](<https://www.theelephant.info/investigations/2026/05/28/project-profile-the-in-between-lives-of-the-double-registered/>).
 
 ***Also on file***. None found.
 

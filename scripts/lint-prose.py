@@ -33,7 +33,8 @@ read by a person, at the unit review, and has no check here.
 - `words`    the apparatus words R130 replaced: *Not held*, *Noted, not assessed*, *no X is held*,
              *is not known*, *evidence held*, *nothing held*, *source held*, and a page narrating
              its own evidence, *N facts are held on the subject* (housekeeping 65), or its method,
-             *the one given above*, *before the three-year window* (housekeeping 72).
+             *the one given above*, *before the three-year window* (housekeeping 72), or
+             *the nearest held fact* (housekeeping 81).
 - `mood`     the sheet's mood words and set-ups: *plainly*, *quietly*, *finally*, *strikingly*,
              *alarming*, *from opposite ends*.
 
@@ -113,7 +114,9 @@ WORDS = [re.compile(p) for p in (
     r"(?i)\bthe documents the earlier cell cited\b",
     # Housekeeping 72: an empty aspect pointing back instead of naming the fact, and a tag
     # about the window instead of the fact's date in the sentence.
-    r"(?i)\bthe one given above\b", r"(?i)\bbefore the three-year window\b")]
+    r"(?i)\bthe one given above\b", r"(?i)\bbefore the three-year window\b",
+    # Housekeeping 81: the evidence called "held" where the sheet says "found".
+    r"(?i)\b(?:nearest|one|only) held facts?\b")]
 MOOD = [re.compile(p, re.I) for p in (
     r"\bplainly\b", r"\bquietly\b", r"\bfinally\b", r"\bstrikingly\b", r"\balarming(?:ly)?\b",
     r"\bfrom opposite ends\b")]

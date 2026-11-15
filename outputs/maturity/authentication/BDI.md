@@ -4,7 +4,7 @@
 
 **Authentication service.** The Bank of the Republic of Burundi told ID4Africa in 2025 that it [signed a contract in November 2024 for a biometric financial ID](<https://www.id4africa.com/2025/files/T3-P3-S2-5-Burundi_FINAL.pdf>). The ID is meant to let banks and mobile money operators verify customers. Tests were planned at two commercial banks and two mobile money operators. The deputy governor said Burundi has no biometric national ID and that the lack of a digitally verifiable ID hinders account opening. A March 2026 report says the [master plan for digitalising public services, 2023-2033, notes the absence of verifiable digital ID systems](<https://communityvoice.bi/burundi-embarks-on-a-full-digitalization-journey/>). The report recommends an e-signature and authentication infrastructure.
 
-**Used across services.** No source found since October 2023 says authentication is used across services or channels. The nearest held fact is the [central bank's contract](<https://www.id4africa.com/2025/files/T3-P3-S2-5-Burundi_FINAL.pdf>), with tests planned for 2025.
+**Used across services.** No source found since October 2023 says authentication is used across services or channels. The nearest fact found is the [central bank's contract](<https://www.id4africa.com/2025/files/T3-P3-S2-5-Burundi_FINAL.pdf>), with tests planned for 2025.
 
 **Remote proof of identity.** No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service. SIM registration from June 2026 [requires the national identity card](<https://www.agenceecofin.com/actualites-numerique/0506-139050-burundi-identification-des-cartes-sim-obligatoire-avant-le-25-juin>), presented in person.
 

@@ -39,7 +39,7 @@ OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text
                     r"bidding document|request for bids|ToR)"
                     r"(?: \w+)?(?: \([^)]*\))? (?:says|states|reports|notes)(?: that)? ", re.I)
 EMPTY = {
-    "finance": "No source found from 2023 or later says the government's financial management system is in use; the nearest held fact is {l}.",
+    "finance": "No source found from 2023 or later says the government's financial management system is in use; the nearest fact found is {l}.",
     "revenue": "No source found from 2023 or later says the tax authority's system is in use; the stage rests on {l}.",
     "payroll": "No source found from 2023 or later says the civil-service payroll runs on a computer system; the stage rests on {l}.",
     "renewed": "No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023; the stage rests on {l}.",

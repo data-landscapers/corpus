@@ -8,9 +8,9 @@
 
 **Payroll.** The finance minister said [August 2025 public-sector salaries were processed on the new unified treasury account system](<https://libyaobserver.ly/news/gnu-starts-paying-public-sector-wages-through-new-treasury-system>). This came after basic data for about 41% of state employees had been uploaded.
 
-**Renewal.** Nothing found says the new treasury account system or the tax system replaced an older one. The nearest held fact is the minister's statement that [the treasury account is part of a wider digital transformation strategy](<https://libyaobserver.ly/news/gnu-starts-paying-public-sector-wages-through-new-treasury-system>).
+**Renewal.** Nothing found says the new treasury account system or the tax system replaced an older one. The nearest fact found is the minister's statement that [the treasury account is part of a wider digital transformation strategy](<https://libyaobserver.ly/news/gnu-starts-paying-public-sector-wages-through-new-treasury-system>).
 
-**A map of the systems.** Nothing found says the government has published an inventory of its systems. The nearest held fact is the [African Development Bank's notice for an IFMIS project](<https://www.afdb.org/en/documents/gpn-libya-support-implementation-integrated-financial-management-and-information-system-government-libya-si-ifmis>).
+**A map of the systems.** Nothing found says the government has published an inventory of its systems. The nearest fact found is the [African Development Bank's notice for an IFMIS project](<https://www.afdb.org/en/documents/gpn-libya-support-implementation-integrated-financial-management-and-information-system-government-libya-si-ifmis>).
 
 ***Also on file***. [Libya e-payment system (card/POS)](<https://libyaherald.com/2026/05/two-million-pos-transactions-in-a-single-day-across-67000-points-cause-collapse-of-e-payment-system-cbl-apologises>); [LYPay](<https://alwasat.ly/news/libya/510123>); [OnePay](<https://alwasat.ly/news/libya/510123>); [Integrated Financial Management and Information System (IFMIS)](<https://www.afdb.org/en/documents/gpn-libya-support-implementation-integrated-financial-management-and-information-system-government-libya-si-ifmis>); [GFMIS](<https://alwasat.ly/news/libya/493416>); [ASYCUDA](<https://libyaherald.com/2025/08/customs-authority-announces-full-launch-of-asycuda-system-next-month>).
 

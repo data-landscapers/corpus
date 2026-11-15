@@ -6,7 +6,7 @@
 
 **Across government.** Each channel held serves one sector, region or town: [the passenger portal covers air transport alone](<https://www.mot.gov.gh/10/16/1/335/minister-for-transport-launches-passenger-complaints-portal-to-enhance-passenger-protection>), and [Twin-City Connect one metropolitan assembly](<https://www.stma.gov.gh/STMA-Launches-Twin-City-Connect-An-Electronic-Government-Platform.php>). No source found since October 2023 says a complaints channel reaches the services of most ministries.
 
-**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [passengers can track their complaints to resolution](<https://www.mot.gov.gh/10/16/1/335/minister-for-transport-launches-passenger-complaints-portal-to-enhance-passenger-protection>).
+**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest fact found: [passengers can track their complaints to resolution](<https://www.mot.gov.gh/10/16/1/335/minister-for-transport-launches-passenger-complaints-portal-to-enhance-passenger-protection>).
 
 ***Also on file***. [Single Windows Citizenship Engagement Service (SWCES)](<https://www.mogcsp.gov.gh/?mdocs-file=8618>).
 

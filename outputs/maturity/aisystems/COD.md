@@ -6,7 +6,7 @@
 
 **AI computing.** [In June 2026 Université Nouveaux Horizons said Lofoyi is built from several servers linked by 100 Gbps InfiniBand, with 150 TFLOPS of computing power](<https://www.unhorizons.org/inauguration-lofoyi-premier-supercalculateur-academique-rdc/>). No source found since October 2023 names GPUs or other AI accelerators in it or elsewhere in the country. [In September 2025 Arab Founders reported that Kinshasa-based startup Yamify is building a GPU-powered AI cloud platform](<https://arabfounders.net/en/dr-congo-based-yamify-raises-100k-ai-cloud/>). [It is hosted in African data centres and was in private beta](<https://arabfounders.net/en/dr-congo-based-yamify-raises-100k-ai-cloud/>).
 
-**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [in September 2025 Yamify's AI cloud had a waitlist of over 1,500](<https://arabfounders.net/en/dr-congo-based-yamify-raises-100k-ai-cloud/>).
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest fact found: [in September 2025 Yamify's AI cloud had a waitlist of over 1,500](<https://arabfounders.net/en/dr-congo-based-yamify-raises-100k-ai-cloud/>).
 
 ***Also on file***. None found.
 

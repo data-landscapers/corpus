@@ -6,7 +6,7 @@
 
 **Warnings issued.** [In May 2026 ANACIM's head of forecasting said data from the MTG Lightning Imager are critical during the rainy season](<http://www.eumetsat.int/features/forecasting-storm-speed-across-africa>). [ANACIM uses them to alert communities to extreme weather](<http://www.eumetsat.int/features/forecasting-storm-speed-across-africa>).
 
-**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact: [in October 2025 ANACIM issued crop-specific agro-climatic bulletins through the AgData Hub](<https://aiccra.cgiar.org/news/information-action-nationally-integrated-agdata-hub-turning-point-senegals-agriculture>).
+**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest fact found: [in October 2025 ANACIM issued crop-specific agro-climatic bulletins through the AgData Hub](<https://aiccra.cgiar.org/news/information-action-nationally-integrated-agdata-hub-turning-point-senegals-agriculture>).
 
 ***Also on file***. [RIICE](<https://www.cgiar.org/news-events/news/leveraging-satellite-technology-in-senegals-rice-regions-for-national-food-and-economic-security>).
 

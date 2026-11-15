@@ -6,7 +6,7 @@
 
 **Complaints handled.** No source found since October 2023 names a financial ombudsman or a regulator's unit that takes complaints about digital financial services. The nearest fact found is a statement by the central bank's governor. [In February 2026 the governor said the bank continued to receive complaints from the public about the cost of banking](<https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits>).
 
-**Enforcement reported.** No source found since October 2023 reports a fine, sanction or complaint figures. The nearest held fact: [the fee caps above](<https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits>).
+**Enforcement reported.** No source found since October 2023 reports a fine, sanction or complaint figures. The nearest fact found: [the fee caps above](<https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits>).
 
 ***Also on file***. None found.
 

@@ -6,7 +6,7 @@
 
 **Linked.** [Since 2018 the national DHIS2 has taken in vaccination, epidemiological surveillance and community data flows](<https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/>). [The mHealth community platform sends data to it through HL7 FHIR APIs](<https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/>).
 
-**Reporting rate published.** No source found since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [in September 2025 SIGSANTE centralised the country's routine health data](<https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/>).
+**Reporting rate published.** No source found since October 2023 gives the system's reporting completeness or timeliness. The nearest fact found: [in September 2025 SIGSANTE centralised the country's routine health data](<https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/>).
 
 ***Also on file***. [mHealth community platform](<https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/>).
 

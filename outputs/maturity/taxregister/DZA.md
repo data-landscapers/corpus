@@ -6,7 +6,7 @@
 
 **Shared with firms or customs.** [The commercial register's company-creation portal lets a founder register once online with every administration concerned](<https://sidjilcom-entreprise.cnrc.dz/acceuil>). [The founder receives one common identification number within three days](<https://sidjilcom-entreprise.cnrc.dz/acceuil>). [This follows approval of the filing by the commercial register centre, the tax directorate, the two social security funds and the statistics office](<https://sidjilcom-entreprise.cnrc.dz/acceuil>).
 
-**Tied to ID.** No source found since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the NIF is obtained online through the tax directorate's registration portal](<https://www.mfdgi.gov.dz/fr/professionnels/nouveau-contribuable-fr/ouvrir-dossier-fiscal>).
+**Tied to ID.** No source found since October 2023 says the taxpayer number is tied to the national ID. The nearest fact found: [the NIF is obtained online through the tax directorate's registration portal](<https://www.mfdgi.gov.dz/fr/professionnels/nouveau-contribuable-fr/ouvrir-dossier-fiscal>).
 
 ***Also on file***. [Dzair Digital Services](<https://elwatan.dz/dzair-digital-services-impots-integration-de-cinq-nouveaux-services-numeriques/>).
 

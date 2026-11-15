@@ -6,7 +6,7 @@
 
 **Shared number.** [In 2026 the PEO package covered commercial registry formalisation, a Tax Identification Number (NIF) from DNRE and enrolment with social security (INPS)](<https://peo.gov.cv/sobre-nos>). [All three are done in one process](<https://peo.gov.cv/sobre-nos>).
 
-**Beneficial owners.** No source found since October 2023 says the register collects beneficial owners. The nearest held fact: [companies are incorporated, amended and dissolved through the Plataforma Empresa Online](<https://boe.incv.cv/Bulletins/DownloadAct?id=100739>).
+**Beneficial owners.** No source found since October 2023 says the register collects beneficial owners. The nearest fact found: [companies are incorporated, amended and dissolved through the Plataforma Empresa Online](<https://boe.incv.cv/Bulletins/DownloadAct?id=100739>).
 
 ***Also on file***. None found.
 

@@ -6,7 +6,7 @@
 
 **Shared number.** The revenue authority URA said in September 2026 that [the number URSB issues to a firm will serve as its tax identifier](<https://ura.go.ug/en/ask-ura-commissioner-general-37/>), under section 4 of the Tax Procedures Code Act. It said the move away from the separate tax number had begun. The old tax numbers stop working only at full rollout.
 
-**Beneficial owners.** No source found since October 2023 says the register collects beneficial owners. The nearest held fact is that [the e-Registry handles business registration](<https://dailyexpress.co.ug/2026/06/30/ursb-launches-unified-e-registry-replacing-obrs/>).
+**Beneficial owners.** No source found since October 2023 says the register collects beneficial owners. The nearest fact found is that [the e-Registry handles business registration](<https://dailyexpress.co.ug/2026/06/30/ursb-launches-unified-e-registry-replacing-obrs/>).
 
 ***Also on file***. None found.
 

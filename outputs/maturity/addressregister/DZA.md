@@ -6,7 +6,7 @@
 
 **Nationwide.** [The ministry's plan extends the unified addressing system to all 69 wilayas by 2030](<https://arabe.capdz.dz/archives/144046>). A further 13 wilayas are funded in the state budget. [The first phase had 664 million dinars across four pilot provinces including Ouargla, per APS as reported by DZWatch](<https://dzwatch.dz/?p=11829>).
 
-**Used by services.** No service has been found as using the address reference. The nearest held fact: [1.5 million official addresses counted in 12 wilayas by October 2026](<https://arabe.capdz.dz/archives/144046>).
+**Used by services.** No service has been found as using the address reference. The nearest fact found: [1.5 million official addresses counted in 12 wilayas by October 2026](<https://arabe.capdz.dz/archives/144046>).
 
 ***Also on file***. None found.
 

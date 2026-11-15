@@ -6,7 +6,7 @@
 
 **Learner records.** UNICEF says e-Msomo [follows each pupil's school path, attendance and marks](<https://fr.linkedin.com/posts/unicef-comores_anaden-scolaires-%C3%A9l%C3%A8ves-activity-7411757191952580608-VR1Z>), at every level from pre-school to the last year of secondary. Parents can follow their children's progress. Not every school is on the platform yet.
 
-**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact is [UNICEF's account of e-Msomo](<https://fr.linkedin.com/posts/unicef-comores_anaden-scolaires-%C3%A9l%C3%A8ves-activity-7411757191952580608-VR1Z>), which names no link.
+**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest fact found is [UNICEF's account of e-Msomo](<https://fr.linkedin.com/posts/unicef-comores_anaden-scolaires-%C3%A9l%C3%A8ves-activity-7411757191952580608-VR1Z>), which names no link.
 
 ***Also on file***. [SIGE](<https://www.al-fajrquotidien.com/le-projet-rehema-sattaque-a-la-fragmentation-des-donnees-aux-comores>).
 

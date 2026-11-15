@@ -4,7 +4,7 @@
 
 **Civil register linked to ID.** [The Civil Status Division registers births, deaths and marriages, keeps the National Population Database and issues identity cards to all residents](<https://www.ics.gov.sc/about/department/civil-status-division>). [One body holds both the civil register and the ID](<https://www.ics.gov.sc/about/department/civil-status-division>). [The division sits in the Department of Immigration and Civil Status, which owns both the population database and the identity card](<https://www.ics.gov.sc/about/department/civil-status-division>).
 
-**Both ways.** No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers. The nearest held fact: [the division registers births and deaths in the same office that issues the identity card](<https://www.ics.gov.sc/about/department/civil-status-division>).
+**Both ways.** No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers. The nearest fact found: [the division registers births and deaths in the same office that issues the identity card](<https://www.ics.gov.sc/about/department/civil-status-division>).
 
 **Exchange reported.** No source found since October 2023 gives a figure for records exchanged between the two. The nearest fact: [in 2026 the Civil Status Division registered births and deaths and issued identity cards](<https://www.ics.gov.sc/about/department/civil-status-division>).
 

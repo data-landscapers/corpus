@@ -6,7 +6,7 @@
 
 **Linked.** [In 2024 DHIS2's country profile said weekly notifiable disease data are integrated into the DHIS2-based emergency system](<https://dhis2.org/climate/country-profiles/ethiopia/>).
 
-**Reporting rate published.** No source found since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [by 2025 the national HMIS held over 1 billion records](<https://dhis2.org/ethiopia-healthcare-performance>).
+**Reporting rate published.** No source found since October 2023 gives the system's reporting completeness or timeliness. The nearest fact found: [by 2025 the national HMIS held over 1 billion records](<https://dhis2.org/ethiopia-healthcare-performance>).
 
 ***Also on file***. [eCHIS](<https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0350270>); [DHIS2 (education data, TaRL)](<https://education.dhis2.org/implementation/ethiopia/>).
 

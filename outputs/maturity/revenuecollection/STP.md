@@ -6,7 +6,7 @@
 
 **Main taxes and duties.** No source found since October 2023 says the main taxes and customs duties are filed and paid electronically. [Customs declarations must be paid through electronic channels from 1 October 2026](<https://www.kezir.st/announcements/750389679240511488>). [Taxes can be paid by bank transfer](<https://impostos.b-software.st/index.php/component/k2/item/320-pagamento-via-transferencia-bancaria>). Forms are sent by email.
 
-**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest held fact: [customs declarations are paid through participating banks using a 20-digit reference](<https://www.kezir.st/announcements/750389679240511488>).
+**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest fact found: [customs declarations are paid through participating banks using a 20-digit reference](<https://www.kezir.st/announcements/750389679240511488>).
 
 ***Also on file***. [e-fatura](<https://impostos.financas.gov.st/index.php/component/k2/itemlist/category/77-direccao>).
 

@@ -6,7 +6,7 @@
 
 **Main streams.** [Public sector salaries are paid through the central bank's instant-salary system](<https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/>). [In June 2026 the chairman of the General Authority for Information and Communication said the children's allowance was paid electronically within a short period](<https://lana.gov.ly/post.php?id=358533&lang=en>). [He said integrated government databases made that possible](<https://lana.gov.ly/post.php?id=358533&lang=en>). In September 2023 [the social affairs ministry issued over a million e-payment cards for the wives and daughters allowance](<https://libyaobserver.ly/inbrief/dbeibah-orders-immediate-disbursement-wives-and-childrens-allowance>).
 
-**Linked to ID.** No source found since October 2023 says government payments are checked against the ID or a social registry. The nearest held fact: [GACI's chairman said the integration of government databases made the children's allowance quick to pay](<https://lana.gov.ly/post.php?id=358533&lang=en>).
+**Linked to ID.** No source found since October 2023 says government payments are checked against the ID or a social registry. The nearest fact found: [GACI's chairman said the integration of government databases made the children's allowance quick to pay](<https://lana.gov.ly/post.php?id=358533&lang=en>).
 
 ***Also on file***. [Moamalat Financial Services Company](<https://libyaherald.com/2026/10/electronic-transactions-reached-865-billion-libyan-dinars-by-end-of-september-2026-cbl/>).
 

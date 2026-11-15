@@ -6,7 +6,7 @@
 
 **Complaints handled.** No source found since October 2023 says a financial ombudsman or a regulator's complaints unit takes complaints about digital financial services. The nearest fact found is that [e-money institutions must run a customer service handling complaints](<https://2424.mg/mobile-money-les-autorites-annoncent-des-audits-du-systeme-des-etablissements-de-monnaie-electronique/>). It must cover loss, theft, fraud and unauthorised transactions.
 
-**Enforcement reported.** No source found since October 2023 reports a fine, a sanction or complaint figures for digital financial services. The nearest held fact: [the CSBF can sanction breaches by e-money institutions up to withdrawal of licence](<https://newsmada.com/2026/08/28/telecommunications-et-monnaie-electronique-le-csbf-joue-aussi-le-role-de-lautorite-de-controle/>).
+**Enforcement reported.** No source found since October 2023 reports a fine, a sanction or complaint figures for digital financial services. The nearest fact found: [the CSBF can sanction breaches by e-money institutions up to withdrawal of licence](<https://newsmada.com/2026/08/28/telecommunications-et-monnaie-electronique-le-csbf-joue-aussi-le-role-de-lautorite-de-controle/>).
 
 ***Also on file***. [MVola](<https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa>); [CSBF](<https://newsmada.com/2026/08/28/telecommunications-et-monnaie-electronique-le-csbf-joue-aussi-le-role-de-lautorite-de-controle/>).
 

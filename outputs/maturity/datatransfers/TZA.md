@@ -6,7 +6,7 @@
 
 **Open without permission each time.** Not answered. [The Commission says](<https://pdpc.go.tz/>) it regulates transfers through a cross-border data transfer permit. No source says a transfer to an adequate country goes without one.
 
-**Published way to send data without asking.** None found. The nearest held fact is [the Commission's report](<https://pdpc.go.tz/>) of 121 transfer permits offered by August 2026. A permit is a grant of permission.
+**Published way to send data without asking.** None found. The nearest fact found is [the Commission's report](<https://pdpc.go.tz/>) of 121 transfer permits offered by August 2026. A permit is a grant of permission.
 
 **Open to African partners.** Not yet. [The African Union status list of 2 February 2026](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) shows no signature or ratification of the Malabo Convention for Tanzania.
 

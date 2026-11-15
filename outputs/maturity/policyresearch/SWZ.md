@@ -6,7 +6,7 @@
 
 **Feeding policy.** [On 13 May 2025 ESEPARC and the Ministry of ICT held a national consultative workshop on ESEPARC's preliminary research for regulations on the Royal Science and Technology Park](<https://www.separc.co.sz/2025/05/16/powering-innovation-stakeholders-unite-to-shape-rstp-regulations/>). [In August 2024 the ministry co-launched ESEPARC's survey](<https://www.separc.co.sz/2024/08/28/eswatini-embarks-on-a-digital-revolution-unveiling-the-digital-readiness-assessment/>).
 
-**Standing role.** No source found since October 2023 says a local research institution holds a standing advisory role in digital policy. The nearest held fact: [in 2024 ESEPARC ran Eswatini's Digital Readiness Assessment survey](<https://www.separc.co.sz/2024/08/28/eswatini-embarks-on-a-digital-revolution-unveiling-the-digital-readiness-assessment/>).
+**Standing role.** No source found since October 2023 says a local research institution holds a standing advisory role in digital policy. The nearest fact found: [in 2024 ESEPARC ran Eswatini's Digital Readiness Assessment survey](<https://www.separc.co.sz/2024/08/28/eswatini-embarks-on-a-digital-revolution-unveiling-the-digital-readiness-assessment/>).
 
 ***Also on file***. None found.
 

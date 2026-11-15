@@ -6,7 +6,7 @@
 
 **Biometric checks.** On 25 April 2026 the interior ministry [opened general enrolment for the AES biometric card at Yantala police station in Niamey](<https://anp.ne/niger-lancement-officiel-de-la-carte-didentite-nationale-biometrique-aes-a-niamey/>). Enrolment is to spread to all 20 Niamey stations and then the country. It [captures fingerprints, face, voice and iris](<https://anp.ne/niger-lancement-officiel-de-la-carte-didentite-nationale-biometrique-aes-a-niamey/>), which the authorities say prevents identity theft and guarantees each citizen's uniqueness.
 
-**Security certified or audited.** No certification, audit or assurance level has been reported for the system. The nearest held fact is [the April 2026 account of biometric enrolment](<https://anp.ne/niger-lancement-officiel-de-la-carte-didentite-nationale-biometrique-aes-a-niamey/>).
+**Security certified or audited.** No certification, audit or assurance level has been reported for the system. The nearest fact found is [the April 2026 account of biometric enrolment](<https://anp.ne/niger-lancement-officiel-de-la-carte-didentite-nationale-biometrique-aes-a-niamey/>).
 
 ***Also on file***. [national biometric ID card and passport project](<https://www.lesahel.org/projet-des-nouveaux-passeports-et-cartes-biometriques-du-niger-le-secretaire-general-du-ministere-de-linterieur-visite-les-services-concernes-pour-apprecier-letat-de-mise-en-o/>); [WURI-Niger unique identifier pilot](<https://www.wuri.ne/etat-civil-wuri-lancement-officiel-des-operations-denregistrement-des-enfants-de-moins-de-5-ans/>).
 

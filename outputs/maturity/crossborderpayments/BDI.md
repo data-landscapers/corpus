@@ -6,7 +6,7 @@
 
 **Regional system.** The central bank BRB [has acceded to PAPSS](<https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/>), with four Burundian banks authorised to take part. In July 2026 EAC central bank governors decided that [BurundiPay must connect to other member states' systems](<https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/>) for cross-border payments.
 
-**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact is [BANCOBU's August 2025 launch](<https://andikamagazine.net/bancobu-launches-instant-international-money-transfers-via-enoti/>), which named no volumes.
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest fact found is [BANCOBU's August 2025 launch](<https://andikamagazine.net/bancobu-launches-instant-international-money-transfers-via-enoti/>), which named no volumes.
 
 ***Also on file***. [BurundiPay](<https://www.channelafrica.co.za/channelafrica/news/burundi-integrates-comesa-payment-systems-to-boost-cross-border-trade/>); [EARDIP](<https://www.rtnb.bi/?mypost?id=529>); [PAPSS](<https://www.brb.bi/node/3303>).
 

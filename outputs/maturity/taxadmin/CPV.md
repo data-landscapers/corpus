@@ -6,7 +6,7 @@
 
 **Electronic payment.** [From 11 February 2019 the DNRE and the Casa do Cidadao offered online payment of taxes by bank card on the citizen portal](<https://www.mf.gov.cv/web/dnre/-/dnre-apresenta-novo-meio-de-pagamento-de-impostos-online>). [The portal produces the DUC payment document and takes payment 24 hours a day](<https://www.mf.gov.cv/web/dnre/-/dnre-apresenta-novo-meio-de-pagamento-de-impostos-online>).
 
-**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [in May 2024 the DNRE extended the deadline for returns submitted through its portal](<https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest fact found: [in May 2024 the DNRE extended the deadline for returns submitted through its portal](<https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal>).
 
 ***Also on file***. None found.
 

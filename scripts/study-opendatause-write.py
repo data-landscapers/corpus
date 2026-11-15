@@ -42,9 +42,9 @@ OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text
                     r"(?: \w+)?(?: \([^)]*\))? (?:says|states|reports|notes)(?: that)? ", re.I)
 ASIDE = re.compile(r"\s*\((?=[^)]*\b(?:date|dated|as_of|inferred|publication|published)\b)[^)]*\)", re.I)
 EMPTY = {
-    "access": "No source found states that the data is published under an open licence. The nearest held fact: {l}.",
-    "breadth": "No source found since October 2023 names two or more public bodies publishing data. The nearest held fact: {l}.",
-    "reuse": "No source found since October 2023 names a use of the data or a usage figure. The nearest held fact: {l}.",
+    "access": "No source found states that the data is published under an open licence. The nearest fact found: {l}.",
+    "breadth": "No source found since October 2023 names two or more public bodies publishing data. The nearest fact found: {l}.",
+    "reuse": "No source found since October 2023 names a use of the data or a usage figure. The nearest fact found: {l}.",
 }
 
 
@@ -126,14 +126,14 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
     if cell["stage"].isdigit():
         top = next(r for r in rows if r["row_id"] == src[0])
         anchor = link(top["url"], clean(top["fact"]))
-        used = False   # writer brief: an empty aspect states the nearest held fact
+        used = False   # writer brief: an empty aspect states the nearest fact found
         for a in study["aspects"]:
             k = a["key"]
             mine = [r for r in rows if r["aspect"] == k]
             body = sentences(mine, [i for i in src if i in {r["row_id"] for r in mine}], ROOM[k])
             if body and src[0] in {r["row_id"] for r in mine}:   # the top fact is printed: point back to it
                 used = True
-            if not body:   # the nearest held fact is given whole once; a later empty aspect names its first part (housekeeping 72)
+            if not body:   # the nearest fact found is given whole once; a later empty aspect names its first part (housekeeping 72)
                 body = [EMPTY[k].format(l=anchor if not used else link(top["url"], study_lib.part(clean(top["fact"]))))]
                 used = True
             if k == "access" and cell["stage"] in ("4", "5") and not any(r["value"] == "licensed" for r in mine):

@@ -6,7 +6,7 @@
 
 **Several bodies.** Cabinet [approved DIVA as the official chatbot for all ministries and departments](<https://lexpress.mu/node/552290>). It is to roll out in phases, starting with 15 of them. Elsewhere AI is at trial. The Bank of Mauritius [has explored AI for document processing and forecasting](<https://defimedia.info/blog-artificial-intelligence-mauritius-progress-regulation-and-road-ahead>). An AI tutor built with the Ministry of Education [completed pilots in ten schools](<https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/>).
 
-**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest held fact is the [Cabinet decision on DIVA](<https://lexpress.mu/node/552290>), which sets its roll-out and no rules.
+**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest fact found is the [Cabinet decision on DIVA](<https://lexpress.mu/node/552290>), which sets its roll-out and no rules.
 
 ***Also on file***. [myt learn](<https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/>); [Kevin AI](<https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/>); [Mauritius AI Registry](<https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/>).
 

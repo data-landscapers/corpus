@@ -6,7 +6,7 @@
 
 **Single window.** [In February 2022 BURS said the Customs Management System provides a single window through its Other Government Agencies module](<https://mag.wcoomd.org/magazine/wco-news-97-issue-1-2022/how-botswana-customs-is-leveraging-data-driven-technologies/>). [The Botswana Bureau of Standards was enrolled and other agencies were at testing stage](<https://mag.wcoomd.org/magazine/wco-news-97-issue-1-2022/how-botswana-customs-is-leveraging-data-driven-technologies/>).
 
-**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [in 2022 BURS said other government agencies were joining its customs system through a dedicated module](<https://mag.wcoomd.org/magazine/wco-news-97-issue-1-2022/how-botswana-customs-is-leveraging-data-driven-technologies/>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest fact found: [in 2022 BURS said other government agencies were joining its customs system through a dedicated module](<https://mag.wcoomd.org/magazine/wco-news-97-issue-1-2022/how-botswana-customs-is-leveraging-data-driven-technologies/>).
 
 ***Also on file***. None found.
 

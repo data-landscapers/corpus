@@ -6,7 +6,7 @@
 
 **Several bodies.** A second body runs AI in service. In December 2025 the authorities announced that [an AI road-safety system built by the Agence numérique de l'État was operating on the national network](<https://www.agenceecofin.com/actualites-numerique/2612-134553-la-mauritanie-met-en-service-une-solution-d-ia-dediee-a-la-securite-routiere>). The national police run it, with cameras that detect overloaded vehicles and unworn seat belts.
 
-**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest held fact is [Mourchid's launch](<https://erribat.info/?p=80889>), which states no rules.
+**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest fact found is [Mourchid's launch](<https://erribat.info/?p=80889>), which states no rules.
 
 ***Also on file***. None found.
 

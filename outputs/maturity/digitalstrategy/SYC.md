@@ -12,7 +12,7 @@
 
 **Delivery plan.** The [World Bank](<https://openknowledge.worldbank.org/entities/publication/9264a4f5-29c4-40ff-903b-9891303c089a>) says the strategy is still to be operationalised.
 
-**Reporting.** The nearest held fact is the [World Bank's](<https://openknowledge.worldbank.org/entities/publication/9264a4f5-29c4-40ff-903b-9891303c089a>) statement that the strategy is still to be operationalised.
+**Reporting.** The nearest fact found is the [World Bank's](<https://openknowledge.worldbank.org/entities/publication/9264a4f5-29c4-40ff-903b-9891303c089a>) statement that the strategy is still to be operationalised.
 
 **Last twelve months.** The [national validation workshop concluded by July 2026](<https://www.linkedin.com/posts/baidy-s-91972228_digitaltransformation-ai-digitalgovernment-activity-7481275398413152257-B36W>).
 

@@ -6,7 +6,7 @@
 
 **Sources published from.** [The report draws its births and deaths from the records of the civil registration system](<https://dossiersefactos.com/2026/08/28/mocambique-falha-registo-de-9-em-cada-10-bebes-que-nascem/>).
 
-**Published regularly.** No source found states that the report is published regularly. The nearest held fact: [the 2024-2025 report](<https://dossiersefactos.com/2026/08/28/mocambique-falha-registo-de-9-em-cada-10-bebes-que-nascem/>).
+**Published regularly.** No source found states that the report is published regularly. The nearest fact found: [the 2024-2025 report](<https://dossiersefactos.com/2026/08/28/mocambique-falha-registo-de-9-em-cada-10-bebes-que-nascem/>).
 
 ***Also on file***. [e-RCEV](<https://civil.registos.gov.mz/crvs/Home/About>); [ESSIR-SERV (as named by AIM)](<https://aimnews.org/2026/05/18/mjcr-e-ine-ligam-sistemas-para-modernizar-estatisticas-vitais/>); [e-SIRCEV](<https://civil.registos.gov.mz/crvs/>); [SIRCEV, the civil registration and vital statistics system](<https://tempo.co.mz/upload/legislacao/boletins_republica/2018/12%20Dezembro/series-i/br-series-i-04-12-2018-n.%C2%BA-236.pdf>); [MOZDATA](<https://mozdata.ine.gov.mz/index.php/catalog>).
 

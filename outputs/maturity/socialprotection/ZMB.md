@@ -6,7 +6,7 @@
 
 **Paid electronically.** In July 2026 the ministry's Permanent Secretary gave a figure. [92 percent of Social Cash Transfer households were paid through mobile money or bank accounts](<https://www.zambiamonitor.com/govt-claims-k1-4-billion-released-as-social-cash-transfers-to-vulnerable-zambians-in-june/>). In May 2026 the government gave another. [One million Social Cash Transfer beneficiaries had been moved onto mobile money](<https://techreviewafrica.com/news/5438/zambia-reports-major-digital-economy-gains-at-3rd-digital-economy-round-table>).
 
-**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest held fact: [the GBV system is to link to the GBV call centre](<https://documents1.worldbank.org/curated/en/099111025101519517/pdf/P181391-34653b79-f98e-4c0c-a842-18e4bab01cb6.pdf>).
+**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest fact found: [the GBV system is to link to the GBV call centre](<https://documents1.worldbank.org/curated/en/099111025101519517/pdf/P181391-34653b79-f98e-4c0c-a842-18e4bab01cb6.pdf>).
 
 ***Also on file***. [national Social Registry](<https://documents1.worldbank.org/curated/en/099111025101519517/pdf/P181391-34653b79-f98e-4c0c-a842-18e4bab01cb6.pdf>).
 

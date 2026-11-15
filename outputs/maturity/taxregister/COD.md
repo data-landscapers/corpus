@@ -6,7 +6,7 @@
 
 **Shared with firms or customs.** [The DGI's December 2025 notice lists the Guichet Unique de Création d'Entreprise among the places to request a NIF](<https://dgi.gouv.cd/wp-content/uploads/2025/12/COMMUNIQUE%CC%81-OFFICIEL-N%C2%B001_061.pdf>).
 
-**Tied to ID.** No source found since November 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [in June 2025 Actualite.cd said applicants for a new passport must first obtain a NIF](<https://actualite.cd/index.php/2025/06/06/rdc-ce-quil-faut-savoir-du-processus-dobtention-du-nouveau-passeport-biometrique-lance>).
+**Tied to ID.** No source found since November 2023 says the taxpayer number is tied to the national ID. The nearest fact found: [in June 2025 Actualite.cd said applicants for a new passport must first obtain a NIF](<https://actualite.cd/index.php/2025/06/06/rdc-ce-quil-faut-savoir-du-processus-dobtention-du-nouveau-passeport-biometrique-lance>).
 
 ***Also on file***. None found.
 

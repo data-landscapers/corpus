@@ -6,7 +6,7 @@
 
 **Nationwide.** [The 19 million numbers issued by June 2025 cover several governorates](<http://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/68471>), not the whole country. [In March 2020 Egypt Post's chairperson said a new seven-digit postcode had been applied across the country](<https://www.dailynewsegypt.com/2020/03/09/egypt-post-applies-new-postcode-system-with-dhl/>). Each code covers one group of buildings and is built on CAPMAS data. It had been made available to DHL to look up addresses.
 
-**Used by services.** No service has been found as using the real estate numbers. The nearest held fact: [the system to manage them was still being built in June 2025](<http://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/68471>).
+**Used by services.** No service has been found as using the real estate numbers. The nearest fact found: [the system to manage them was still being built in June 2025](<http://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/68471>).
 
 ***Also on file***. None found.
 
