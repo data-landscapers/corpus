@@ -1,0 +1,15 @@
+{
+ "slug": "2023-12-15-nam-92-000-birth-certificates-issued-for-2023",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-birth and e-death notification system",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "Facility e-notification and backlog capture of historic records are not digital civil registration at the office."
+}

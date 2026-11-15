@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-mus-civil-status-division",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "The Pay Research Bureau report says the Civil Status Division operates a computerized system in all its Civil Status Offices for registering births, deaths and marriages.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Computerized civil status system",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "The Pay Research Bureau report says deaths are registered in the Civil Status Division's computerized system in all its offices.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Computerized civil status system",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Computerized civil status system",
+   "country_label": "Mauritius",
+   "class": "civil",
+   "platform": "",
+   "owner": "Civil Status Division",
+   "tiers": "44 sub offices Mauritius, 2 Rodrigues, 1 Agalega"
+  }
+ ],
+ "note": ""
+}

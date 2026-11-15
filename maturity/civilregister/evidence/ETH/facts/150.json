@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-12-eth-ethiopia-moves-toward-full-digitalization-of-civil-and-family-registra",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Immigration and Citizenship Service Director General Selamawit Dawit says the agency, with the Artificial Intelligence Institute, is developing civil registration software and preparation is underway to launch a pilot in 6,200 kebeles.",
+   "as_of": "2025-10-12",
+   "date_precision": "day",
+   "system": "Digital civil and family registration software",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital civil and family registration software",
+   "country_label": "Ethiopia civil and family registration software",
+   "class": "civil",
+   "platform": "",
+   "owner": "Immigration and Citizenship Service with the Artificial Intelligence Institute",
+   "tiers": "federal to kebele"
+  }
+ ],
+ "note": ""
+}

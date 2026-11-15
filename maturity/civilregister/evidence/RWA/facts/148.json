@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-18-rwa-leveraging-interoperability-for-social-impact-in-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "The civil registration system is listed as live, run by NIDA, in the MINALOC deck's information-systems landscape.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "Civil registration system",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "The deck gives 90.04% births registration and 41.8% deaths registration in 2023, as a national rate not tied to the digital system.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Civil registration system",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil registration system",
+   "country_label": "Civil registration system",
+   "class": "civil",
+   "platform": "",
+   "owner": "National Identification Agency (NIDA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

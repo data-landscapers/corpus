@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-16-mli-celebration-des-avancees-dans-l-enregistrement-des-naissances-au-mali",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "UNICEF's Representative in Mali says a project for a digital platform covering births, deaths and marriages has been approved with UNICEF support since 2022, and the DNEC has selected ten pilot zones.",
+   "as_of": "2024-12-16",
+   "date_precision": "day",
+   "system": "digital civil-status platform for births, deaths and marriages",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "UNICEF cites a rate of 87% of children under one registered at civil status in Mali, not tied to a digital system.",
+   "as_of": "2024-12-16",
+   "date_precision": "day",
+   "system": "civil registration",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital civil-status platform for births, deaths and marriages",
+   "country_label": "Mali",
+   "class": "civil",
+   "platform": "",
+   "owner": "DNEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

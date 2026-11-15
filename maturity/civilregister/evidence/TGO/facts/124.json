@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-05-tgo-togo-e-vital-un-projet-pour-moderniser-lenregistrement-des-naissances",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The e-Vital Togo project, started August 2026, pilots in four communes (Golfe 3, Agoe-Nyive 1, Kozah 1, Bassar 1) entry of births and deaths in health facilities and electronic transmission to civil-status services, per the Ministry of Health project lead.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "e-Vital Togo",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Vital Togo",
+   "country_label": "Togo",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Health (Direction du systeme national d'information sanitaire), funded by Vital Strategies",
+   "tiers": "health facilities; municipal civil-status services; INSEED"
+  },
+  {
+   "system": "e-MCCOD module in DHIS2",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

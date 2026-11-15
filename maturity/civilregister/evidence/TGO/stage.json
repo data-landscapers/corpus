@@ -9,10 +9,10 @@
       "coverage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-002;TGO-003",
-      "gaps": "No source found since October 2023 says births are registered digitally across the country.",
-      "note": "A digital civil-status pilot runs in five communes ahead of national extension (2026).",
-      "as_at": "2026-10-24"
+      "stage_sources": "TGO-007;TGO-002",
+      "gaps": "No source found since October 2023 says births are registered digitally across the country. Digital death entry is a pilot in four communes (November 2026).",
+      "note": "Digital civil-status pilots run in five communes and, under e-Vital, in health facilities of four more (2026), ahead of national extension. None is in service nationally, so stage 2.",
+      "as_at": "2026-11-15"
     }
   ]
 }

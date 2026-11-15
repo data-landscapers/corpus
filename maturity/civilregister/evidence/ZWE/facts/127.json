@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-11-zwe-taking-civil-registration-services-to-remote-communities-mobile-regist",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "The Herald says Zimbabwe's Civil Registry Department has fully computerised all provincial offices, 63 district offices and 206 sub-offices, and the Hauna sub-office now issues computerised birth certificates in place of the manual system.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Civil Registry Department computerised offices",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

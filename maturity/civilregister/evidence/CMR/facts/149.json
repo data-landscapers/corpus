@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-19-cmr-cameroun-la-commune-de-dschang-delivre-ses-premiers-actes-de-naissance",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Digital Business Africa reports Dschang commune issued its first computerised birth certificates on 17 December 2025, data going into the BUNEC-run SIGEC, after Nitoukou, Garoua II and Bikok.",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "SIGEC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGEC",
+   "country_label": "Cameroon",
+   "class": "civil",
+   "platform": "SIGEC",
+   "owner": "BUNEC with MINDDEVEL",
+   "tiers": "commune"
+  }
+ ],
+ "note": ""
+}

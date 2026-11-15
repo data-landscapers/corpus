@@ -6,7 +6,7 @@
 
 **Deaths digital.** No source found since October 2023 says deaths are registered in the digital system. The nearest held fact: [in December 2024 the approved platform was to digitise deaths too](<https://www.unicef.org/mali/en/stories/celebration-progress-birth-registration-mali>).
 
-**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the World Bank put birth registration completeness at 86.7% in 2018](<https://datacatalog.worldbank.org/search/dataset/0037712/world-development-indicators>). [That is a national rate, not tied to a digital system](<https://datacatalog.worldbank.org/search/dataset/0037712/world-development-indicators>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. [In December 2024 UNICEF said 87% of children under one were registered](<https://www.unicef.org/mali/recits/celebration-des-avancees-dans-lenregistrement-des-naissances-au-mali>). The rate is not tied to a digital system.
 
 ***Also on file***. [DISK-Mali](<https://www.populationmedicine.eu/From-policy-to-practice-facilitating-the-notification-of-perinatal-deaths-and-births,227439,0,2.html>); [Recensement Administratif à Vocation d'état civil (RAVEC)](<https://bamada.net/conseil-des-ministres-du-5-fevrier-2025-creation-de-lagence-nationale-de-securisation-des-actes-detat-civil>); [Centre de Traitement des Données de l'état civil (CTDEC)](<https://bamada.net/conseil-des-ministres-du-5-fevrier-2025-creation-de-lagence-nationale-de-securisation-des-actes-detat-civil>).
 

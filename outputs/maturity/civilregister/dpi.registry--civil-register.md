@@ -343,8 +343,8 @@ Digital civil registration was under way in 2026; national digital birth registr
 
 Digital civil registration was under way in 2026; national digital birth registration is not on record.
 
+- The e-Vital Togo project, started August 2026, pilots in four communes (Golfe 3, Agoe-Nyive 1, Kozah 1, Bassar 1) entry of births and deaths in health facilities and electronic transmission to civil-status services, per the Ministry of Health project lead ([source, 2026-11-05](https://togoscoop.tg/togo-e-vita-un-projet-pour-moderniser-lenregistrement-des-naissances-et-des-deces/)).
 - The territorial administration ministry delivered computers and printers on 8 April 2026 to five pilot communes (Golfe 1, Agoe-Nyive 1, Lacs 1, Ave 2, Zio 2) in the pilot of digitalised civil-status services, ahead of national extension ([source, 2026-04-08](https://territoire.gouv.tg/digitalisation-de-letat-civil-des-equipements-informatiques-remis-aux-communes-pilotes-pour-accelerer-le-processus/)).
-- The government officially launched on 19 December 2025 a digitalised service for civil-status acts, a pilot in five communes (Golfe 1, Agoe-Nyive 1, Ave 2, Lacs 1, Zio 2) for progressive national deployment, run by the territorial administration ministry and MESPTN through Agence Togo Digital ([source, 2025-12-19](https://territoire.gouv.tg/digitalisation-de-letat-civil-le-togo-lance-officiellement-la-demande-en-ligne-des-copies-dactes/)).
 
 ### Uganda: 2 Nascent
 
@@ -363,8 +363,8 @@ Digital civil registration was under way in 2025; national digital birth registr
 
 Digital civil registration was under way in 2026; national digital birth registration is not on record.
 
+- Home affairs minister Kazembe Kazembe said ongoing efforts to digitalise civil registration systems are complemented by improved mobility, with 30 vehicles commissioned for the Civil Registry Department ([source, 2026-09-18](https://www.heraldonline.co.zw/30-new-vehicles-boost-civil-registry-services/)).
 - The Deputy Registrar General for Systems Development says all 10 provinces and 63 districts are computerised and more than 20 of 209 sub-offices have been computerised under the decentralisation programme ([source, 2026-07-24](https://www.zbcnews.co.zw/african-registrars-look-to-replicate-zimbabwes-e-passport-success/)).
-- UNICEF's chief of child protection says a China-funded project will computerise, digitalise and solar-power 10 decentralised Civil Registry sub-offices across eight districts, some of which are not computerised now ([source, 2026-08-13](https://humanitarianpost.co.zw/unicef-boosts-zims-civil-registry-efficiency-in-eight-districts/)).
 
 ### Comoros: 1 Absent
 

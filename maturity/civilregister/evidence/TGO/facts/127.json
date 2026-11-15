@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-08-tgo-la-kfw-development-bank-finance-le-projet-de-digitalisation-es-mairies",
+ "facts": [],
+ "systems": [
+  {
+   "system": "service-public.gouv.tg/etat-civil",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "national public service portal",
+   "owner": "",
+   "tiers": "five pilot communes"
+  }
+ ],
+ "note": "Only online requests for copies of civil status acts, not digital registration of events."
+}

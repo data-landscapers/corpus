@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-01-swz-2-home-affairs-employees-fired-over-id-fraud",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Population Registry",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "Birth certificates are issued via the registry's user logins, but no digital civil registration system, rollout or national scope is stated."
+}

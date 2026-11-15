@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-08-mwi-securing-childrens-future-through-digital-birth-registration-in-malawi",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "UNDP Malawi says 74 health facilities now issue instant birth certificates through the Nzika digital platform, run with the National Registration Bureau under the IDT4M project.",
+   "as_of": "2026-07-08",
+   "date_precision": "day",
+   "system": "Nzika",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nzika digital platform",
+   "country_label": "Malawi",
+   "class": "civil",
+   "platform": "Nzika",
+   "owner": "National Registration Bureau",
+   "tiers": "health facilities"
+  }
+ ],
+ "note": ""
+}
