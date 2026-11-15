@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-01-zwe-legislative-and-regulatory-reform-in-zimbabwes-digital-sector-a-rights",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "MISA Regional's analysis says Zimbabwe has recently launched its National AI Strategy 2026-2030.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "National AI Strategy 2026-2030",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "MISA Regional says the strategy's governance names the AI Strategy Implementation Office (AISIO) as central coordinating body, with a Steering Committee housed within POTRAZ and the President-chaired National Digital Regulatory Committee.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "AI Strategy Implementation Office (AISIO)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Strategy 2026-2030",
+   "country_label": "Zimbabwe",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

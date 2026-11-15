@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-04-zmb-artificial-intelligence-strategy-to-be-launched-on-independence-day",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Technology and Science Minister Felix Mutati said the government is preparing an AI strategy with the Tony Blair Institute and the Finnish Government, to be launched on Independence Day 2024.",
+   "as_of": "2024-07-04",
+   "date_precision": "day",
+   "system": "Zambia Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Artificial Intelligence Strategy",
+   "country_label": "Zambia",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Technology and Science",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
