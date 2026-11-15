@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-18-rwa-leveraging-interoperability-for-social-impact-in-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The deck lists the land registry, held by the National Land Authority, as a live information system.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "Land registry",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

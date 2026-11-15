@@ -1,5 +1,6 @@
 iso3,source_slug,read,merged_on
 AGO,2024-01-01-angola-modernizes-land-administration-gis-cadastre-management,,2026-10-19
+AGO,2024-04-02-ago-apenas-2-em-cada-10-cidadaos-tem-oficialmente-numero-de-identificacao,,2026-11-15
 AGO,2024-08-22-ago-decreto-presidencial-188-24-nip,,2026-10-19
 AGO,2024-08-26-ago-ciam-decreto-188-24-nip,,2026-10-19
 AGO,2024-11-07-ago-agenda-para-transicao-digital-conta-com-mais-de-100-projectos-voltados,,2026-11-07
@@ -47,6 +48,7 @@ BEN,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-pla
 BEN,2026-05-06-anip-rnpp-actes-naissance-securises,,2026-10-19
 BEN,2026-05-07-anip-rnpp-nouvelles-precisions,,2026-10-19
 BEN,2026-06-01-ben-modernising-land-administration-in-benin,,2026-11-12
+BEN,2026-07-01-ben-fact-sheet-benin-january-june-2026,,2026-11-15
 BEN,2026-07-16-adjinacou-maternite-identite-legale,,2026-10-19
 BEN,2026-07-20-ben-tribune-de-haut-niveau-des-experts-du-numerique-et-du-foncier,,2026-11-12
 BEN,2026-08-10-ben-benin-journee-de-l-etat-civil-et-des-statistiques-de-l-etat-civil-2026,,2026-11-08
@@ -73,6 +75,7 @@ BFA,2025-09-30-gaf-ag-upgrade-mining-cadastre-emc-plus,,2026-10-19
 BFA,2026-09-15-bfa-burkina-faso-modernisation-de-l-administration-publique-le-premier-min,,2026-10-23
 BFA,2026-10-27-bfa-burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social,,2026-11-09
 BFA,2026-11-05-bfa-burkina-economie-la-dgi-renforce-les-capacites-de-ses-agents-pour-accelerer-sa-d,,2026-11-06
+BFA,2026-11-13-bfa-cefore-preparer-votre-creation-d-entreprise,,2026-11-15
 BWA,2024-02-13-bwa-bobonong-mp-calls-for-comprehensive-land-audit,,2026-11-12
 BWA,2025-02-05-bwa-businessweekly-cipa-obrs-it-system,,2026-10-19
 BWA,2025-03-14-bwa-mmegi-cipa-hidden-investor-database,,2026-10-19
@@ -106,6 +109,7 @@ CIV,2025-10-01-civ-fratmat-adressage-abidjan-fin-31-decembre,,2026-10-19
 CIV,2025-11-12-civ-l-oneci-et-la-sgci-scellent-un-partenariat-strategique-pour-une-authen,,2026-11-09
 CIV,2026-03-13-civ-afor-signature-electronique-certificats-fonciers,,2026-10-19
 CIV,2026-05-01-civ-country-playbook-cote-d-ivoire-id4africa-2026-29,,2026-11-08
+CIV,2026-05-01-civ-deploiement-a-linternational-loneci-connecte-madrid-au-registre-nation,,2026-11-15
 CIV,2026-05-01-civ-la-cote-d-ivoire-vers-une-identite-juridique-et-numerique-integree-au,,2026-10-23
 CIV,2026-05-07-civ-mise-en-uvre-du-rnpp-l-oneci-et-ses-partenaires-definissent-les-orient,,2026-11-08
 CIV,2026-08-11-civ-cote-d-ivoire-le-delai-de-creation-d-entreprise-en-ligne-ramene-a-2-4,,2026-10-28
@@ -166,14 +170,18 @@ COM,2025-01-01-com-gltn-emerging-tech-land-management,,2026-10-19
 COM,2026-04-14-com-un-moment-historique-pour-les-comores-au-rcmrd-nairobi,,2026-11-12
 COM,2026-10-15-com-alwatwan-etat-civil-amecc-2-84-percent,,2026-10-19
 COM,2026-10-22-com-alwatwan-conseil-ministres-strategie-gouvernance-donnees-data-center,,2026-10-28
+COM,2026-11-09-com-le-gouvernement-comorien-et-la-banque-mondiale-renforcent-leur-partena,,2026-11-15
 CPV,2024-02-20-cpv-governo-csu-mecanismo-reclamacoes-16-programas,,2026-10-19
 CPV,2024-06-22-cpv-nosi-e-os-seus-25-anos,,2026-11-08
 CPV,2025-01-01-tor-simple-territory-management,,2026-10-19
+CPV,2025-02-21-cpv-dia-da-justica-social-ministerio-da-familia-inclusao-e-desenvolvimento,,2026-11-15
 CPV,2025-03-19-cpv-cidade-do-mindelo-declarada-area-cadastrada,,2026-11-12
 CPV,2025-03-20-cpv-boletim-oficial-n-o-52-ii-serie-de-20-03-2025,,2026-11-12
 CPV,2025-03-26-cpv-reforma-do-codigo-eleitoral-introduz-votacao-electronica-e-novas-regra,,2026-11-06
 CPV,2025-12-17-cabo-verde-csu-consulta-directa-de-dados-elimina-declaracoes-papel,,2026-10-19
+CPV,2026-01-01-cpv-incentivos-fiscais-as-tics,,2026-11-15
 CPV,2026-01-01-cpv-peo-sobre-nos-plataforma-empresa-online,,2026-10-19
+CPV,2026-03-01-cpv-the-importance-of-interoperability-for-stronger-social-protection,,2026-11-15
 CPV,2026-03-27-cpv-governo-lei-lavagem-capitais-generalidade,,2026-10-28
 CPV,2026-04-09-cpv-bo-portaria-33-2026-emolumentos-peo,,2026-10-19
 CPV,2026-04-30-cabo-verde-dgape-boe-republicacao-mapa-eleitores,,2026-11-06
@@ -263,6 +271,9 @@ GHA,2025-11-01-gha-the-digital-transformation-of-ghana-s-lands-commission,,2026-
 GHA,2026-06-03-ghana-elis-volta-digital-client-service-access-unit,,2026-10-19
 GHA,2026-06-08-ghana-digitise-land-registry-system-underwhelming,,2026-10-19
 GHA,2026-07-15-gha-lands-commission-targets-one-month-land-registration,,2026-11-12
+GHA,2026-07-23-ghana-amcham-registrar-general-business-registration-digital-reforms,,2026-11-15
+GHA,2026-08-04-ghana-dvla-electronic-number-plate-pilot,,2026-11-15
+GHA,2026-09-16-gha-myjoyonline-household-registry-11-24-million-social-protection,,2026-11-15
 GHA,2026-10-14-gha-lands-commission-outlines-four-steps-for-conducting-online-land-search,,2026-11-12
 GHA,2026-10-28-gha-lands-commission-s-digital-reform-gamechanger-for-land-administration,,2026-11-12
 GIN,2024-08-09-gin-projet-de-modernisation-securisation-et-simplification-du-cadastre-fon,,2026-11-12
@@ -274,6 +285,7 @@ GIN,2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census,,2026-10-23
 GIN,2025-04-22-gin-etat-civil-aucun-document-d-identite-n-avait-de-base-legale-selon-djen,,2026-11-08
 GIN,2025-07-19-gin-matd-les-statistiques-provisoires-du-registre-national-des-personnes-p,,2026-11-07
 GIN,2025-09-12-gin-anomalies-sur-les-cartes-d-electeurs-la-dge-rassure-face-aux-inquietud,,2026-11-06
+GIN,2025-10-01-gin-constitution-du-registre-national-de-letat-civil-rnec-presentation-des,,2026-11-15
 GIN,2025-10-14-cartographie-terres-agricoles-e-foncier-rural,,2026-10-19
 GIN,2025-11-25-gin-guinee-la-digitalisation-du-titre-foncier-met-fin-aux-ventes-multiples,,2026-11-12
 GIN,2025-12-14-gin-etat-civil-guineen-la-refondation-en-marche-l-identification-au-cur-du,,2026-11-08
@@ -313,6 +325,7 @@ KEN,2024-07-30-ken-stamp-duty-payments-simplified-by-ardhipay,,2026-11-12
 KEN,2025-01-01-ken-the-long-road-to-digitization-in-kenya,,2026-11-12
 KEN,2025-05-20-ken-state-department-for-lands-makes-major-strides-in-reforms-and-digitiza,,2026-11-12
 KEN,2025-08-23-ken-govt-to-spend-sh35bn-to-expand-land-record-digitization-to-15-more-cou,,2026-11-12
+KEN,2026-03-05-ken-gov-t-moves-to-modernise-civil-registration-as-stakeholders-validate-b,,2026-11-15
 KEN,2026-08-04-ken-why-ardhisasa-expansion-has-fallen-behind-ps-korir,,2026-11-12
 KEN,2026-09-03-kenya-lsk-ardhisasa-outage-restoration-demand,,2026-10-19
 KEN,2026-09-21-ken-from-congestion-to-faster-services-how-digitization-is-transforming-ke,,2026-11-12
@@ -341,6 +354,8 @@ LBY,2025-11-05-lby-lana-commercial-registry-e-letter-company-registration-validi
 LBY,2026-04-21-lana-tajoura-alsijil-alaqari-hasr-mumtalakat-aldawla,,2026-10-19
 LBY,2026-04-25-lana-tafil-juzii-lilsijil-alaqari-banghazi,,2026-10-19
 LBY,2026-06-21-lby-lana-wife-children-grant-arrears,,2026-10-19
+LBY,2026-08-11-lby-social-affairs-minister-reviews-unified-social-registry-progress,,2026-11-15
+LBY,2026-11-14-lby-pilot-electronic-registration-foreign-companies,,2026-11-15
 LSO,2013-05-06-lso-fig-reforming-land-administration-lesotho,,2026-10-19
 LSO,2024-09-16-lso-newsday-rsl-automatic-compliance-project,,2026-10-19
 LSO,2025-03-01-lso-working-on-improving-land-registration-with-lesotho-s-community-counci,,2026-11-12
@@ -382,6 +397,7 @@ MDG,2026-01-05-mdg-newsmada-propfr-giz-politique-fonciere,,2026-10-19
 MDG,2026-01-23-mdg-madagascar-coree-du-sud-la-digitalisation-du-foncier-comme-levier-stra,,2026-11-12
 MDG,2026-04-29-mdg-modernisation-de-l-etat-14-institutions-deja-interconnectees-via-le-sy,,2026-10-30
 MDG,2026-04-30-programme-national-foncier-ii,,2026-10-19
+MDG,2026-10-15-mdg-recrutement-d-un-cabinet-pour-la-conception-le-developpement-et-l-acco,,2026-11-15
 MDG,2026-10-17-mdg-refonte-de-la-liste-electorale-plus-de-sept-millions-d-electeurs-inscrits,,2026-11-06
 MDG,2026-10-24-mdg-liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-t,,2026-11-06
 MLI,2024-03-01-mli-ateliers-sur-les-obligations-de-transparence-des-personnes-morales-et,,2026-10-28
@@ -481,6 +497,7 @@ NGA,2026-11-10-nigeria-biometric-election-cleanup,,2026-11-11
 NGA,2026-11-10-nigeria-hybrid-cloud-postcode-database,,2026-11-11
 RWA,2024-01-01-rwa-declare-your-immovable-property-tax-today-to-avoid-procrastination,,2026-11-12
 RWA,2024-02-07-rwa-digital-land-titles-are-changing-land-ownership-and-verification-in-rw,,2026-11-12
+RWA,2025-03-18-rwa-leveraging-interoperability-for-social-impact-in-rwanda,,2026-11-15
 RWA,2026-01-01-rwanda-electronic-land-registration-certificate-system,,2026-10-19
 RWA,2026-01-28-rwanda-land-administration-case-study,,2026-10-19
 RWA,2026-02-18-rwanda-land-disputes-ease-boundary-errors,,2026-10-19
@@ -511,10 +528,13 @@ SEN,2026-04-17-sen-vers-la-digitalisation-de-toutes-les-procedures-foncieres-dan
 SEN,2026-05-13-procasef-financement-additionnel-60-communes,,2026-10-19
 SEN,2026-06-09-sen-securisation-fonciere-le-procasef-plaide-pour-une-reforme-d-envergure,,2026-11-12
 SEN,2026-06-17-aps-rnu-extension-996194-menages,,2026-10-19
+SEN,2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-registre-nat,,2026-11-15
 SEN,2026-07-10-procasef-dodel-remise-10318-titres-affectation,,2026-10-19
 SEN,2026-07-22-procasef-copil-sifcom-55-communes-preproduction,,2026-10-19
+SEN,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific,,2026-11-15
 SEN,2026-09-24-sen-etat-civil-77-de-centres-digitalises-selon-le-dg-de-l-anec,,2026-10-28
 SEN,2026-10-10-sen-ledakarois-intrants-agricoles-la-distribution-passe-au-numerique-avec-l,,2026-10-19
+SEN,2026-11-10-sen-audit-biometrique-agents-territoriaux,,2026-11-15
 SEN,2026-11-10-sen-pidsm-mining-platform,,2026-11-11
 SLE,2024-02-01-sle-what-happened-to-sierra-leone-s-biometric-property-registration-agreem,,2026-11-12
 SLE,2024-02-14-sle-national-land-commission-assesses-administrator-general-registry-s-lan,,2026-11-12
@@ -523,6 +543,7 @@ SLE,2024-04-11-sle-sierra-leone-putting-digital-id-at-the-center-of-its-digital-
 SLE,2024-10-29-sle-sierra-leone-land-administration-project-p177031-implementation-status,,2026-11-12
 SLE,2025-04-18-sle-chief-minister-sengeh-highlights-progress-in-land-reforms-under-presid,,2026-11-12
 SLE,2025-07-01-sle-sierra-leone-progress-implementation-of-the-framework-for-effective-la,,2026-11-12
+SLE,2025-08-22-sle-nra-hits-100-digital-tax-filing-compliance-as-sierra-leone-s-revenue-r,,2026-11-15
 SLE,2026-01-01-sierra-leone-sllap-customary-land-registration-bekeh-loko,,2026-10-19
 SLE,2026-01-01-sierra-leone-sllap-rogbere-parcel-map-validation-maforki,,2026-10-19
 SLE,2026-01-15-sle-local-councils-narrow-revenue-gap-but-property-tech-woes-linger,,2026-11-12
@@ -534,6 +555,7 @@ SLE,2026-09-09-sle-sierraloaded-land-administration-digital-records-titles,,2026
 SLE,2026-09-14-sle-apexnews-land-title-certificate-blow-to-vulnerable,,2026-10-19
 SLE,2026-09-15-sle-thisday-free-nationwide-land-registration-lmis,,2026-10-19
 SLE,2026-09-29-sle-impact-in-sierra-leone-from-city-pilot-to-national-reform-model,,2026-11-12
+SLE,2026-11-11-sle-business-registration-75pct-unregistered,,2026-11-15
 SOM,2024-06-24-som-moct-eacon-digital-addressing,,2026-10-19
 SOM,2024-10-01-somalia-mpwrh-strategic-plan-2025-2029,,2026-10-19
 SOM,2024-12-22-som-cbc-karaar-digital-address-pilots,,2026-10-19
@@ -558,9 +580,12 @@ STP,2020-02-17-stp-miranda-informatizacao-registo-propriedade,,2026-10-19
 STP,2026-01-01-sao-tome-dgrn-registo-predial-servicos,,2026-10-19
 STP,2026-01-01-stp-digitising-a-nation-s-public-service-delivery,,2026-10-23
 STP,2026-01-27-sao-tome-lancamento-ii-recertificacao-expansao-cadastro-social-unico,,2026-10-19
+STP,2026-02-17-stp-protecao-social-lanca-inquerito-piloto-para-a-ii-recertificacao-e-atua,,2026-11-15
+STP,2026-04-04-stp-beneficiarios-do-programa-familia-vulneravel-podem-perder-apoio-por-fa,,2026-11-15
 STP,2026-06-26-sao-tome-dpssf-resultados-2a-recertificacao-expansao-csu,,2026-10-19
 STP,2026-08-03-direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp,,2026-10-19
 STP,2026-08-26-sao-tome-csu-social-registry-expansion,,2026-10-19
+STP,2026-08-31-stp-dpssf-inicia-4-o-pagamento-a-6-mil-familias-vulneraveis-em-stp,,2026-11-15
 STP,2026-09-25-stp-cen-anuncia-aumento-do-numero-de-eleitores-mas-reclama-pela-logistica,,2026-11-06
 SWZ,2025-08-25-eswatini-delegation-kenya-lands-benchmarking,,2026-10-19
 SWZ,2026-07-10-government-strengthens-land-registration-system-to-enhance-property-ownership-certainty,,2026-10-19
@@ -587,6 +612,7 @@ TGO,2024-09-16-tgo-rtg-reformes-digitalisation-titre-foncier-nup,,2026-10-19
 TGO,2025-01-01-togo-rna5-land-security-smallholder-households,,2026-10-19
 TGO,2025-02-12-tgo-togopresse-plateforme-services-publics,,2026-10-19
 TGO,2025-05-26-tgo-togo-operation-de-mise-a-jour-des-anciens-titres-fonciers-non-georefer,,2026-11-12
+TGO,2025-10-29-tgo-grit-lome-fait-vibrer-la-tech-africaine,,2026-11-15
 TGO,2025-11-19 Georeferencing of land titles - a revolution for security and transparency in Togo,,2026-10-19
 TGO,2025-12-05-tgo-transformation-numerique-au-togo-l-otr-et-le-pagdsp-saluent-l-excellen,,2026-11-12
 TGO,2026-03-09-togo-communique-rattachement-reseau-geodesique-national,,2026-10-19
@@ -673,3 +699,4 @@ ZWE,2026-08-31-zwe-govpay-links-salaries-pensions-systems,,2026-10-28
 ZWE,2026-09-10-zwe-land-reform-enters-new-era-of-consolidation-productivity,,2026-11-12
 ZWE,2026-09-11-zwe-openparly-unvalidated-title-deeds-digital-land-platform,,2026-10-19
 ZWE,2026-11-12-zwe-transforming-public-services-through-one-digital-ecosystem,,2026-11-13
+ZWE,2026-11-13-zwe-undp-shared-health-record-registries-hie-rfp,,2026-11-15
