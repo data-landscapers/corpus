@@ -5,13 +5,13 @@
       "sub_indicator": "schools",
       "stage": "unplaced",
       "internet": "",
-      "curriculum": "",
+      "curriculum": "compulsory",
       "cap": "",
       "flags": "",
       "stage_sources": "",
       "gaps": "No figure for 2023 or later has been found for secondary schools with internet for teaching.",
-      "note": "Rebuild: the latest figure held is 10.8 per cent for 2022 (UNESCO series), before 2023, so it cannot set a rung. Unplaced until a figure for 2023 or later arrives.",
-      "as_at": "2026-11-13"
+      "note": "The latest figure held is 10.8 per cent for 2022 (UNESCO series), before 2023, so it cannot set a rung; ETH-003 (December 2025) makes Information Technology compulsory from Grade 7, which counts only with a figure of 50 or more. Unplaced until a figure for 2023 or later arrives.",
+      "as_at": "2026-11-15"
     }
   ]
 }

@@ -3,6 +3,8 @@ AGO,UNESCO's SDG 4.a.1 series,Angola,schoolinternet,,UNESCO Institute for Statis
 BDI,UNESCO's SDG 4.a.1 series,Burundi,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 BEN,UNESCO's SDG 4.a.1 series,Benin,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 BFA,UNESCO's SDG 4.a.1 series,Burkina Faso,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
+BFA,Superbes Codeuses,Burkina Faso,other,,Ministry of Digital Transition with Orange Digital Center,,2025-09-03-bfa-informatique-lancement-de-la-deuxieme-edition-de-la-formation-superbes
+BFA,Superbes Codeuses,Burkina Faso,other,,Ministry of Digital Transition with Orange Digital Center,,2024-10-05-bfa-burkina-faso-200-jeunes-lyceennes-et-collegiennes-initiees-aux-metiers
 BWA,UNESCO's SDG 4.a.1 series,Botswana,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 CIV,UNESCO's SDG 4.a.1 series,Cote d'Ivoire,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 CMR,UNESCO's SDG 4.a.1 series,Cameroon,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
@@ -13,15 +15,19 @@ DJI,UNESCO's SDG 4.a.1 series,Djibouti,schoolinternet,,UNESCO Institute for Stat
 DZA,UNESCO's SDG 4.a.1 series,Algeria,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 EGY,UNESCO's SDG 4.a.1 series,Egypt,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 ETH,UNESCO's SDG 4.a.1 series,Ethiopia,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
+ETH,Revised General Education Framework (Grade 7 IT),Ethiopia,other,,Ministry of Education,,2025-12-18-eth-educationafrica-coding-grade7-curriculum
 GHA,UNESCO's SDG 4.a.1 series,Ghana,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 GIN,UNESCO's SDG 4.a.1 series,Guinea,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
+GIN,Giga (UNICEF-ITU) school connection,Guinea,other,,Ministry of National Education with UNICEF and ITU,,2025-01-20-gin-la-guinee-prevoit-de-connecter-a-internet-2200-ecoles-publiques-notamm
 GMB,UNESCO's SDG 4.a.1 series,Gambia,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 KEN,UNESCO's SDG 4.a.1 series,Kenya,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
+KEN,Giga Kenya school connectivity,Kenya,other,,UNICEF and Ericsson (Giga),,2024-11-14-ken-how-ericsson-and-unicef-are-connecting-over-500-kenyan-schools-to-the
 MAR,UNESCO's SDG 4.a.1 series,Morocco,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 MDG,UNESCO's SDG 4.a.1 series,Madagascar,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 MLI,UNESCO's SDG 4.a.1 series,Mali,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 MUS,UNESCO's SDG 4.a.1 series,Mauritius,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 NAM,UNESCO's SDG 4.a.1 series,Namibia,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
+NAM,Giga Meter,Namibia,other,,Giga,,2026-03-30-nam-from-remote-schools-to-real-time-monitoring
 NER,UNESCO's SDG 4.a.1 series,Niger,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 RWA,Rwanda Coding Academy,Rwanda,other,,,,2026-08-03-rwanda-institute-of-computing-five-things
 RWA,Rwanda Coding Academy,Rwanda,other,,,,2026-05-31-rwa-iati-koica-rwanda-coding-academy-activity
@@ -33,5 +39,8 @@ SYC,UNESCO's SDG 4.a.1 series,Seychelles,schoolinternet,,UNESCO Institute for St
 TCD,UNESCO's SDG 4.a.1 series,Chad,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 TGO,UNESCO's SDG 4.a.1 series,Togo,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 TUN,UNESCO's SDG 4.a.1 series,Tunisia,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
+UGA,EMIS,Uganda,other,developed by SMS ONE Ltd,Ministry of Education and Sports,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,National Identification Number (NIN),Uganda,other,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 ZMB,UNESCO's SDG 4.a.1 series,Zambia,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09
 ZWE,UNESCO's SDG 4.a.1 series,Zimbabwe,schoolinternet,,UNESCO Institute for Statistics,,ref:uis-4a1-secondary-internet@2026-02-09

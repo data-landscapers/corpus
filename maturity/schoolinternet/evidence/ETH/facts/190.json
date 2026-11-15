@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-18-eth-educationafrica-coding-grade7-curriculum",
+ "facts": [
+  {
+   "sub_indicator": "schools",
+   "aspect": "curriculum",
+   "value": "compulsory",
+   "fact": "Education Africa Magazine reports that from Grade 7 all students in public and private schools under the national curriculum study Information Technology, including basic coding, as a core subject.",
+   "as_of": "2025-12-18",
+   "date_precision": "day",
+   "system": "Grade 7 Information Technology curriculum",
+   "class": "schoolinternet"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Revised General Education Framework (Grade 7 IT)",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
