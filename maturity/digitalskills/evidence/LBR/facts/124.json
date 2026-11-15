@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-23-lbr-digital-skills-crucial-for-liberias-future",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Vice President Koung launched the University Innovation Pod-Liberia (UniPod) and reiterated President Boakai's commitment to train 10,000 young Liberians in digital skills through it, with iCampus Liberia, UNDP, the University of Liberia and Orange Digital Center.",
+   "as_of": "2024-07-17",
+   "date_precision": "day",
+   "system": "UniPod",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "University Innovation Pod-Liberia (UniPod)",
+   "country_label": "Liberia",
+   "class": "publicskills",
+   "platform": "makerspace with digital media labs",
+   "owner": "University of Liberia with iCampus Liberia and UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
