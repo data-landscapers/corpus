@@ -69,6 +69,7 @@ The education information system held a record for each learner in 2025; a link 
 The education information system held a record for each learner in 2026; a link to the national ID is not on record.
 
 - The Ministry of Education KEMIS Secretariat circular says KEMIS holds learner records marked Valid or Invalid by an operational Learner Validation Engine and generates a Unique Learner Identifier (ULI) for learners in schools ([source, 2026-08-17](https://arena.co.ke/ministry-circular-guidance-on-learner-validation-in-kemis/)).
+- KEMIS had captured about 5.057 million primary learners as at 10 November 2026 against 7.2 million expected, according to ministry official Mujumba Obwoyere ([source, 2026-11-10](https://nation.africa/kenya/news/education/ghost-students-puzzle-of-2-million-primary-school-learners-missing-from-ministry-records-5667184)).
 
 ### Malawi: 4 Operating
 
@@ -201,8 +202,8 @@ The school census was run through an education information system in 2026; a rec
 
 The school census was run through an education information system in 2026; a record for each learner is not on record.
 
+- The Ministry of Primary and Secondary Education says it submits school enrolment figures compiled through the revised EMIS to the Ministry of Finance for annual education budgets, and 12,324 schools nationwide have been equipped to use it (GPE blog by UNICEF Zimbabwe) ([source, 2026-11-11](https://www.globalpartnership.org/blog/data-systems-transform-zimbabwes-schools)).
 - The Ministry of Primary and Secondary Education's EMIS Report, cited by NewZimbabwe, shows 39,736 learners dropped out in 2025 (13,032 primary, 26,704 secondary), so the ministry publishes national education statistics through its EMIS ([source, 2026-06-15](https://www.newzimbabwe.com/zimbabwe-targets-to-re-enrol-out-of-school-learners-as-40000-dropped-out-in-2025-alone/)).
-- Kuyenda Collective says Zimbabwe has adopted an EMIS that is used to collect, store and manage education data including enrolment, teacher numbers and educational facilities, though most rural schools lack access to feed it in real time ([source, 2025](https://www.kuyendacollective.org/article/investing-in-education-management-information-systems-emis/)).
 
 ### Algeria: 2 Nascent
 
@@ -282,6 +283,7 @@ An education information system was under way in 2026; a school census run throu
 
 - The Ministry of Education and Training is developing LEMIS on DHIS2 covering 4,819 institutions, not yet live for nationwide collection ([source, 2026-05-11](https://education.dhis2.org/building-a-smarter-education-data-system-in-lesotho-with-dhis2/)).
 - A ministry officer writing for GPE KIX says Lesotho's education ministry is making a transition to an EMIS operating system that can process both aggregated and individual data, alongside a draft EMIS policy ([source, 2025-11-07](https://www.gpekix.org/blog/enhancing-education-data-systems-lesotho-through-peer-exchange)).
+- The brief says Lesotho has adopted DHIS2 for Education as the platform for its national education management information system (LEMIS), covering school-level and individual learner and staff records, with all 365 secondary schools reporting through it ([source, 2026-10](https://www.iped.africa/news-event/from-data-entry-to-data-leadership-lessons-from-lesothos-dhis2-for-education-training)).
 
 ### Libya: 2 Nascent
 

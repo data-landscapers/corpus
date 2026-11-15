@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-05-zwe-the-girls-left-offline-how-zimbabwe-s-digital-divide-is-shaping-stem-f",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article cites 2024 data and national figures from the official Zimbabwe Education Management Information System (EMIS) Report, such as 68 percent of schools lacking internet and pupil-to-computer ratios of 1:68 and 1:27.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Zimbabwe Education Management Information System (EMIS) Report",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe Education Management Information System (EMIS)",
+   "country_label": "EMIS 2024",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Primary and Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

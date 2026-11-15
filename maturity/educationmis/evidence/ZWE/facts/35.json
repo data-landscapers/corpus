@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-zwe-data-systems-transform-zimbabwe-s-schools",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of Primary and Secondary Education says it submits school enrolment figures compiled through the revised EMIS to the Ministry of Finance for annual education budgets, and 12,324 schools nationwide have been equipped to use it (GPE blog by UNICEF Zimbabwe).",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "revised EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "revised EMIS",
+   "country_label": "Education Management Information System",
+   "class": "emis",
+   "platform": "online tool with Excel version for poor connectivity",
+   "owner": "Ministry of Primary and Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BFA,emis,system,coverage,inservice,2024-09-06,BFA-002;BFA-003,BFA-001=underway,
+BFA,emis,system,coverage,inservice,2024-09-06,BFA-002;BFA-003,BFA-004=underway;BFA-001=underway,
 BFA,emis,learners,coverage,,,,,nothing found
-BFA,emis,linked,coverage,,,,,nothing found
+BFA,emis,linked,coverage,linked,2026-05-02,BFA-005,,

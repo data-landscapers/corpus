@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-swz-eswatini-targets-education-data-gaps-with-15-month-action-plan",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article says Eswatini has an existing EMIS with a termly EMIS reporting tool, which the Ministry of Education and Training's draft Data Use Action Brief aims to strengthen.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "Eswatini EMIS (termly reporting tool)",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education and Training",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

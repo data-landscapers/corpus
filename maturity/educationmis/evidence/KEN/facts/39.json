@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-12-ken-ghost-students-puzzle-of-2-million-primary-school-learners-missing-fro",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "KEMIS had captured about 5.057 million primary learners as at 10 November 2026 against 7.2 million expected, according to ministry official Mujumba Obwoyere.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "KEMIS",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The ministry allows learners without birth certificates to be captured on KEMIS using their parents' IDs, said Stephen Barongo, head of the Directorate of Primary Education; birth certificates were initially mandatory.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "KEMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KEMIS",
+   "country_label": "Kenya",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

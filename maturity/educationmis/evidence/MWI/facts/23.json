@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-mwi-unlocking-data-newsletter-may-edition",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The newsletter says a DHIS2-based cohort tracking prototype, described as a component of Malawi's EMIS, is running in four pilot schools, with validation expected by end-June 2026 before presentation to Ministry management for adoption.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "DHIS2-based cohort tracking prototype",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2-based cohort tracking prototype",
+   "country_label": "Malawi",
+   "class": "emis",
+   "platform": "DHIS2 with KoboCollect",
+   "owner": "HISP Malawi build, Unlocking Data Initiative",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-02-bfa-actualites-kix-seeds-burkina-faso",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "KIX-SEEDS says its pilot in the communes of Manga and Bingo follows over 12,000 pupils individually by unique identifier on a digital platform with modules for teachers' grades, school management and public statistics, with integration into the national SIGE still to come.",
+   "as_of": "2026-05-02",
+   "date_precision": "day",
+   "system": "KIX-SEEDS platform",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "KIX-SEEDS says its KIX-DHIS2 module is an interoperability interface with the national DHIS2 system in its pilot platform.",
+   "as_of": "2026-05-02",
+   "date_precision": "day",
+   "system": "KIX-DHIS2",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KIX-SEEDS platform",
+   "country_label": "Burkina Faso",
+   "class": "emis",
+   "platform": "seeds.bf",
+   "owner": "ISSP / Universite Joseph KI-ZERBO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

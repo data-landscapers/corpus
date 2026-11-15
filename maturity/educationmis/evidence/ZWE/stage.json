@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZWE-001;ZWE-002",
+      "stage_sources": "ZWE-003;ZWE-001",
       "gaps": "No source found since October 2023 says the system holds a record for each learner.",
-      "note": "Reassessed in the rebuild: the ministry's EMIS report gave 2025 dropout figures in June 2026. Nothing found says it holds a record for each learner, so not 4.",
-      "as_at": "2026-11-02"
+      "note": "Stage 4c 2026-11-15: in November 2026 the ministry said enrolment figures compiled through the revised EMIS feed the annual budget, with 12,324 schools equipped to use it. Nothing found says it holds a record for each learner, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

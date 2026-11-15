@@ -1,0 +1,44 @@
+{
+ "slug": "2025-06-03-ken-serikali-yatupa-nemis-ya-uhuru-yazindua-kemis-kusajili-wanafunzi-gredi",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Education Ministry launched KEMIS, which Principal Secretary Julius Bitok says replaces NEMIS and will register learners from kindergarten to university, starting with 1.2 million Grade 9 learners.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "KEMIS",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Taifa Leo reports that registration on NEMIS requires a birth certificate.",
+   "as_of": "2025-06-03",
+   "date_precision": "day",
+   "system": "NEMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NEMIS",
+   "country_label": "Kenya",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  },
+  {
+   "system": "KEMIS",
+   "country_label": "Kenya",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-31-tgo-using-dhis2-to-plan-teacher-deployment-and-school-construction-in-togo",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "HISP Centre reports that Togo's EMIS (SIGE) runs the annual school census through StatEduc, with DHIS2 added by the Ministry of National Education as an analytical layer producing dashboards and reports for regional offices.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "SIGE (StatEduc with DHIS2)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGE",
+   "country_label": "SIGE (StatEduc and DHIS2) 2026",
+   "class": "emis",
+   "platform": "StatEduc; DHIS2",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

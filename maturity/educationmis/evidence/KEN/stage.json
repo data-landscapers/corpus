@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-003",
-      "gaps": "No source found since October 2023 says learner records are linked to the national ID or another government system.",
-      "note": "Reassessed in the rebuild: an August 2026 KEMIS circular says the system validates learner records and issues a Unique Learner Identifier. Identity details required for a future integration are not a link in service, so not 5.",
-      "as_at": "2026-11-02"
+      "stage_sources": "KEN-003;KEN-007",
+      "gaps": "No source found since October 2023 says learner records are linked to the national ID or another government system; in November 2026 KEMIS held about 5.06 million of 7.2 million primary learners expected.",
+      "note": "Stage 4c 2026-11-15: KEMIS issues each learner an identifier (August 2026) and held about 5.06 million primary learners in November 2026. A birth certificate required at registration is not a link in service, so not 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

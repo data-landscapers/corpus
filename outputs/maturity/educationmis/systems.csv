@@ -9,9 +9,11 @@ BDI,STATEDUC,Burundi,emis,,MENRS,,2024-08-01-bdi-atelier-d-appropriation-et-de-r
 BDI,Education Management Information System,Burundi,emis,,Ministry of Education,,2026-06-09-au-iped-supports-burundi-strengthening-education-data
 BDI,SIGE Burundi (GRH MENRS module),SIGE Burundi,emis,"Angular, Java 17, Spring Boot",MENRS,,2024-12-05-bdi-l-unesco-recherche-un-e-consultant-e-international-e-sige-burundi
 BEN,EducMaster (SIGE),Benin,emis,EducMaster-Primaire and EducMaster-Secondaire,Ministries in charge of Education,"maternal and primary; secondary, technical and professional",2026-08-28-educmaster-portail-sige
+BEN,EducMaster,EducMaster,other,,Ministry of Nursery and Primary Education,,2026-11-06-ben-benin-develops-national-action-plan-to-strengthen-education-data-produ
 BFA,Système d'Information de Gestion de l'Éducation (SIGE),SIGE,emis,,"Ministry of Basic Education, Literacy and National Languages (MEBAPLN)",,2024-12-30-bfa-faso7-jsena-statistiques-education-sige
 BFA,SIGE,SIGE (with education-in-emergencies data tools),emis,,Ministry of Education,,2024-09-06-bfa-iiep-donnees-esu-sige
 BFA,EMIS,EMIS,emis,,Ministry of Education,,2024-09-06-bfa-protecting-education-from-attack-eie-data-in-burkina-faso
+BFA,KIX-SEEDS platform,Burkina Faso,emis,seeds.bf,ISSP / Universite Joseph KI-ZERBO,,2026-05-02-bfa-actualites-kix-seeds-burkina-faso
 BWA,EMIS,Botswana,emis,,Ministry of Basic Education,,2020-03-01-bwa-dailynews-basic-education-budget-emis
 BWA,Education Management Information Systems (EMIS) unit,Botswana,emis,,"Ministry of Education and Skills Development, Department of Educational Planning and Research Services",,2024-06-01-bwa-statsbots-secondary-schools-stats-brief-2022
 CAF,SIGE,Systeme d'Information de Gestion de l'Education,emis,,Ministere de l'Education Nationale,,2024-11-15-caf-icasees-annuaire-statistique-fondamental1-2021-22
@@ -80,6 +82,10 @@ KEN,KNEC examination and assessment databases,Kenya,other,,Kenya National Examin
 KEN,KEMIS,Kenya,emis,,Ministry of Education,,2026-10-16-ken-education-data-systems-switch-funding-gaps
 KEN,NEMIS,Kenya,emis,,Ministry of Education,,2026-10-16-ken-education-data-systems-switch-funding-gaps
 KEN,KEMIS,Kenya,emis,,Ministry of Education,,2026-01-02-ken-government-to-roll-out-kemis-on-january-9-2026-to-track-learners-natio
+KEN,KEMIS,Kenya,emis,,Ministry of Education,,2026-11-12-ken-ghost-students-puzzle-of-2-million-primary-school-learners-missing-fro
+KEN,NEMIS,Kenya,emis,,Government of Kenya,national,2024-03-14-ken-improving-school-attendance-tracking-through-technology-in-baringo
+KEN,NEMIS,Kenya,emis,,Ministry of Education,,2025-06-03-ken-serikali-yatupa-nemis-ya-uhuru-yazindua-kemis-kusajili-wanafunzi-gredi
+KEN,KEMIS,Kenya,emis,,Ministry of Education,,2025-06-03-ken-serikali-yatupa-nemis-ya-uhuru-yazindua-kemis-kusajili-wanafunzi-gredi
 LBR,EMIS 2.0,Liberia,emis,,Ministry of Education,,2026-02-04-lbr-strengthening-emis-through-peer-learning-how-liberia-is-leading-its-ow
 LBR,"Liberia EMIS (EMIS 1.0 paper-based, EMIS 2.0 planned)",Liberia,emis,ODK for data collection; DHIS2 integration planned,Ministry of Education,"national, with county EMIS hubs planned in 15 counties",2025-10-01-iped-liberia-emis-peer-review
 LBR,Liberia EMIS (EMIS 2.0),Liberia,emis,,Ministry of Education,,2025-09-02-liberia-au-iped-emis-peer-review-report
@@ -87,12 +93,15 @@ LBR,Annual School Census,Liberia,emis,,Ministry of Education,national,2026-09-30
 LBR,Statutory School Record System,Liberia,other,paper record-keeping booklets,Ministry of Education,school,2026-09-30-liberian-observer-moe-real-time-school-data-system-emis-policy
 LBR,Liberia EMIS,Liberia,emis,,Ministry of Education,national and county,2025-09-10-liberia-moe-au-iped-emis-modernisation-roadmap
 LBR,Liberia EMIS,Liberia EMIS (emis-moe-lib.org),emis,,ministry,,2025-01-01-lbr-liberia-emis-education-management-information-system
+LBR,EMIS (annual school census; EMIS 2.0 planned),Liberia EMIS,other,,Ministry of Education,,2024-10-01-lbr-empowering-teachers-for-all-learners-to-thrive-interview-with-edwin-my
 LBY,Education Management Information System (EMIS),Libya,emis,,Ministry of Education (Information and Documentation Center),,2024-07-29-libyaobserver-education-ministry-emis-unicef
 LBY,OpenEMIS,Libya,emis,OpenEMIS,Ministry of Education,,2024-07-29-lby-moe-unicef-launch-openemis
 LSO,national EMIS/DHIS2 platform,Lesotho,emis,DHIS2,Ministry of Education and Training,"district, national",2026-05-14-lso-request-for-proposal-consultancy-for-capacity-building-for-emis-distri
 LSO,LEMIS,Lesotho,emis,DHIS2,Ministry of Education and Training,national,2026-05-11-lesotho-lemis-dhis2-education-data-system
 LSO,EMIS,Lesotho,emis,,Ministry of Education and Training,,2025-11-07-lso-enhancing-education-data-systems-in-lesotho-through-peer-exchange
 LSO,teacher management information system,Lesotho,other,,Ministry of Education and Training,,2025-11-07-lso-enhancing-education-data-systems-in-lesotho-through-peer-exchange
+LSO,LEMIS (DHIS2 for Education),Lesotho,emis,DHIS2,Ministry of Education and Training,,2026-10-01-lso-from-data-entry-to-data-leadership-lessons-from-lesotho-s-dhis2-for-ed
+LSO,DHIS2 for Education,Lesotho,emis,DHIS2,Ministry of Education and Training,,2026-10-01-lso-consultancy-to-consolidate-education-data-management-and-data-use-in-l
 MAR,Massar,Maroc,emis,,Ministere de l'Education nationale,,2025-10-01-mar-le-ministere-de-l-education-nationale-lance-le-recensement-scolaire-an
 MAR,Massar,Massar,emis,,Ministry of National Education,national,2024-11-01-mar-le-ministere-de-l-education-nationale-lance-le-processus-global-de-rec
 MAR,GRESA,GRESA establishment file,other,,Ministry of National Education,,2024-11-01-mar-le-ministere-de-l-education-nationale-lance-le-processus-global-de-rec
@@ -115,6 +124,8 @@ MWI,Education Data Portal (EDaP),Malawi,other,,"Unlocking Data Initiative, then 
 MWI,Education Management Information System (EMIS),Malawi,emis,,Ministry of Education,"school, zone (ZEMIS), district (DEMIS), central",2026-05-01-mwi-from-data-collection-to-data-use-strengthening-decision-making-at-subn
 MWI,Annual School Census,Malawi,other,,Ministry of Education,,2026-05-01-mwi-from-data-collection-to-data-use-strengthening-decision-making-at-subn
 MWI,Malawi EMIS,Malawi EMIS governance framework,emis,,Ministry of Education,,2026-10-29-mwi-how-can-education-systems-build-education-data-systems-that-enable-bet
+MWI,DHIS2-based Education Management Information System,Malawi,emis,DHIS2,UDI Malawi with HISP-UNIMA,,2026-07-30-mwi-transforming-education-data-systems-in-malawi-udi-implements-a-dhis2-b
+MWI,DHIS2-based cohort tracking prototype,Malawi,emis,DHIS2 with KoboCollect,"HISP Malawi build, Unlocking Data Initiative",,2026-05-01-mwi-unlocking-data-newsletter-may-edition
 NAM,Education Management Information System (EMIS),Namibia,emis,,"Ministry of Education, Arts and Culture, Directorate of Planning and Development",national,2024-01-01-education-management-information-system-emis
 NAM,OpenEMIS examinations management application,Namibia,other,OpenEMIS,"Ministry of Education, Arts and Culture (DNEA)",national,2026-03-28-namibia-openemis-cies-2026-paper-integrated-assessments
 NER,SIGE,Système d'information pour la gestion de l'éducation,emis,,Ministry of National Education,,2023-02-03-ner-gpe-itap-facteurs-favorables-sige
@@ -152,10 +163,13 @@ SOM,Education Management Information System (EMIS),Somalia,emis,,MOECHE,"federal
 SOM,EMIS platform,Somalia,emis,,MoECHE,,2025-09-01-somalia-education-human-capital-development-project-restructuring
 SOM,Teacher Management Information System (TMIS),Somalia,other,offline module,,,2025-09-01-somalia-education-human-capital-development-project-restructuring
 SOM,GEMS dashboard,Somalia,other,,,,2025-09-01-somalia-education-human-capital-development-project-restructuring
+SOM,EMIS,Somalia,emis,online,"Ministry of Education, Culture and Higher Education","primary grades 4-8, secondary, ABE",2025-07-01-som-terms-of-reference-tor-for-revision-and-expansion-of-the-education-man
 SSD,Education Management Information System (EMIS),South Sudan,emis,,Ministry of General Education and Instruction,school to state to national,2026-03-24-au-iped-emis-reform-costed-action-plan
 SSD,Education Management Information System (EMIS),South Sudan,emis,,Ministry of General Education and Instruction,school to state to national,2026-03-24-au-iped-south-sudan-emis-reform
 SSD,Education Management Information System (EMIS),South Sudan,emis,Kobo Humanitarian online server for 2021 census tablet collection,"Ministry of General Education and Instruction, Data and Statistics Unit",,2022-01-01-ssd-mogei-national-education-census-report-2021
+SSD,Schools' Attendance Monitoring System (SAMS),South Sudan,other,tablets syncing to SAMS,GESS programme,,2024-05-08-ssd-using-edtech-to-monitor-enrolment
 STP,Sistema Integrado de Gestão Escolar (SIGE),São Tomé and Príncipe,emis,,"AFAP (procuring agency, World Bank-financed project)",,2026-04-01-sao-tome-afap-consultoria-implementacao-sige
+STP,SIGE,Sao Tome and Principe,other,,,,2024-04-16-stp-afap-fornecimento-e-instalacao-de-equipamentos-e-consumiveis-nas-escol
 SWZ,National Education Management Information System (EMIS),Eswatini,emis,DHIS2,Ministry of Education and Training,schools,2025-11-04-eswatini-disability-indicators-emis
 SWZ,DHIS2 for Education (EMIS aggregate),Eswatini,emis,DHIS2,Ministry of Education and Training,national,2024-01-01-eswatini-dhis2-for-education-implementation
 SWZ,SEMIS App,Eswatini,emis,DHIS2,Ministry of Education and Training,individual learner and staff,2024-01-01-eswatini-dhis2-for-education-implementation
@@ -164,6 +178,8 @@ SWZ,DHIS2 for Education (EMIS),Eswatini,emis,DHIS2,"Ministry of Education and Tr
 SWZ,MS-Access EMIS,Eswatini,emis,MS Access,Ministry of Education and Training,aggregate,2025-11-20-swz-data-the-power-is-in-the-use
 SWZ,PIN-driven EMIS (SEMIS),Eswatini,emis,,Ministry of Education and Training,,2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn
 SWZ,SEMIS (DHIS2),Eswatini,emis,DHIS2,Ministry of Education and Training,,2024-09-26-gmb-strengthening-school-management-and-data-reporting-in-the-gambia-and-e
+SWZ,EMIS,Eswatini EMIS (termly reporting tool),emis,,Ministry of Education and Training,,2026-10-16-swz-eswatini-targets-education-data-gaps-with-15-month-action-plan
+SWZ,termly DHIS2-based EMIS tool,Eswatini,emis,DHIS2,Ministry of Education and Training,,2026-10-01-lso-consultancy-to-consolidate-education-data-management-and-data-use-in-l
 SYC,Education Management Information System (EMIS),Seychelles,emis,OpenEMIS,Ministry of Education,,2026-03-18-openemis-seychelles-golive
 TCD,SIGE,Chad,emis,StatEduc,"MESRSFP, Direction de la Statistique et de la Digitalisation",,2026-07-30-le-mesrsfp-renforce-les-capacites-de-ses-agents-sur-lapplication-stateduc
 TCD,SIGE,Chad,emis,,MENBPC,"national, provincial delegations",2026-06-23-unesco-tchad-equipements-sige-550000-usd
@@ -180,8 +196,10 @@ TGO,SIGE (DHIS2 EMIS),Togo,emis,DHIS2,MEPSTA,"schools, sub-national, national",2
 TGO,StatEduc,Togo,emis,StatEduc with DHIS2,Ministry of Primary and Secondary Education,,2025-04-17-tgo-togo-autonomiser-les-ecoles-et-les-districts-a-l-aide-de-donnees
 TGO,SIGE,Togo,emis,,CNDP-TICE,,2025-03-27-tgo-meps-le-cndp-tice-au-cur-de-la-modernisation-du-systeme-educatif
 TGO,District Health Information System platform used for EMIS,DHIS2 EMIS pilot,emis,District Health Information System,,,2023-12-31-iati-xm-dac-301-2-110313-001-empowering-districts-and-schools-with-data-a-digital-platfor
+TGO,SIGE,SIGE (StatEduc and DHIS2) 2026,emis,StatEduc; DHIS2,Ministry of National Education,,2026-08-31-tgo-using-dhis2-to-plan-teacher-deployment-and-school-construction-in-togo
 TZA,PReM,Tanzania,emis,,"Ministry of Education, Science and Technology",,2018-05-08-tza-gpe-prem-electronic-student-registration
 TZA,School Information System (SIS),Tanzania,emis,web and app (sis.tamisemi.go.tz),PO-RALG (TAMISEMI),,2025-07-14-tza-poralg-sis-privacy-policy-prem-number
+TZA,PReM (Primary School Information Management System),Tanzania,other,,NECTA,,2024-11-06-tza-assessing-the-performance-of-primary-school-information-management-sys
 UGA,Education Management Information System (EMIS),Uganda,emis,,Ministry of Education and Sports,all levels of education,2026-06-09-newvision-emis-rules-mandatory-compliance
 UGA,Education Management Information System (EMIS),Uganda,emis,SMSOne (vendor-run administration),Ministry of Education and Sports,nursery to secondary,2026-06-09-uga-concerns-grow-as-private-firm-retains-control-of-critical-education-da
 UGA,UNEB system,Uganda,other,,Uganda National Examinations Board,,2026-06-09-uga-concerns-grow-as-private-firm-retains-control-of-critical-education-da
@@ -194,9 +212,13 @@ UGA,EMIS,Uganda,emis,developed by SMS ONE Ltd,Ministry of Education and Sports,,
 UGA,National Identification Number (NIN),Uganda,other,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 UGA,District Health Information System platform used for EMIS,DHIS2 EMIS pilot,emis,District Health Information System,,,2023-12-31-iati-xm-dac-301-2-110313-001-empowering-districts-and-schools-with-data-a-digital-platfor
+UGA,EMIS,Education Management Information System,emis,web-based,Ministry of Education and Sports,,2024-10-19-uga-private-schools-on-the-spot-for-delayed-digital-registration
 ZAF,SA-SAMS (modernised),South Africa,emis,cloud-based,"Department of Basic Education (EMIS Directorate), delivered by NECT","school, district, provincial, national",2026-02-04-dbe-sa-sams-modernisation-uat
 ZAF,Learner Unit Record Information Tracking System (LURITS),South Africa,emis,,Department of Basic Education,national,2026-01-07-zaf-question-nw5625-to-the-minister-of-basic-education
 ZAF,LURITS,Learner Unit Record Information and Tracking System,emis,,Department of Basic Education,"national, fed by provincial systems and data warehouses",2025-12-19-zaf-question-to-the-minister-of-basic-education-nw7339
+ZAF,LURITS,Learner Unit Record Information and Tracking System,emis,SA-SAMS,Department of Basic Education,school;district;national,2025-11-05-zaf-learner-unit-record-information-and-tracking-system-data-2024
+ZAF,SA-SAMS,South African School Administration and Management System,emis,,Department of Basic Education,school,2025-11-05-zaf-learner-unit-record-information-and-tracking-system-data-2024
+ZAF,SA-SAMS,South Africa,emis,OpenEMIS,Department of Basic Education,,2024-04-01-zaf-theme-1-introduction-and-awareness-introduction-to-sa-sams-modernisati
 ZMB,Zambia Education Management System (EMIS),Zambia,other,DHIS2,Akros with Ministry of General Education,Namwala District,2025-01-01-zambia-education-management-system-emis-user-story
 ZMB,EMIS,Zambia,emis,,Ministry of Education,,2024-12-13-zambia-zeep-mid-term-review-aide-memoire
 ZMB,Teacher database (Teaching Council of Zambia),Zambia,other,,Teaching Council of Zambia,,2024-12-13-zambia-zeep-mid-term-review-aide-memoire
@@ -207,3 +229,5 @@ ZWE,Information Management System for school registration,Zimbabwe,other,web-bas
 ZWE,ED46 annual school census,Zimbabwe,other,,Ministry of Primary and Secondary Education,,2025-07-21-zimbabwe-climate-smart-school-census
 ZWE,Education Management Information System (EMIS),Zimbabwe,emis,,Ministry of Primary and Secondary Education,,2025-01-01-kuyenda-investing-in-emis
 ZWE,Information Management System for school registration,Zimbabwe,other,web-based,Ministry of Primary and Secondary Education,,2026-04-16-zwe-unicef-mopse-emis-ims-consultancy
+ZWE,revised EMIS,Education Management Information System,emis,online tool with Excel version for poor connectivity,Ministry of Primary and Secondary Education,,2026-11-11-zwe-data-systems-transform-zimbabwe-s-schools
+ZWE,Zimbabwe Education Management Information System (EMIS),EMIS 2024,emis,,Ministry of Primary and Secondary Education,,2026-06-05-zwe-the-girls-left-offline-how-zimbabwe-s-digital-divide-is-shaping-stem-f

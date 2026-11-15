@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-002;LSO-003",
-      "gaps": "Two May 2026 sources disagree on whether the DHIS2 EMIS is live for nationwide collection; no source found since October 2023 says the school census was run through it.",
-      "note": "Reassessed in the rebuild: in May 2026 one source says district offices feed school data into the DHIS2 EMIS, and another says the system is not yet live for nationwide collection. No school census run through it is shown, so 2, not 3.",
-      "as_at": "2026-11-02"
+      "stage_sources": "LSO-002;LSO-003;LSO-004",
+      "gaps": "No source found since October 2023 says the school census or national statistics were produced through the DHIS2 EMIS; in October 2026 only the 365 secondary schools are shown reporting through it.",
+      "note": "Stage 4c 2026-11-15: in October 2026 all secondary schools report through LEMIS, but in May 2026 the ministry said it was not yet live for nationwide collection. No census or national statistics run through it is shown, so 2, not 3.",
+      "as_at": "2026-11-15"
     }
   ]
 }
