@@ -2,7 +2,7 @@
 
 ## Long-distance fibre across the country
 
-**Built, in service and reaching every region.** [Inwi says its network has a long-distance, high-speed backbone extending across the nation, with more than 9,000 km of own and leased fibre](<https://inwi.ma/en/wholesale/our-network>). These place backbone fibre in service between the capital and at least one other region. That it reaches every province or region is not stated. A length in kilometres is given where a source states one; length sets no stage.
+**Built, in service and reaching every region.** [Inwi says its network has a long-distance, high-speed backbone extending across the nation, with more than 9,000 km of own and leased fibre](<https://inwi.ma/en/wholesale/our-network>). These place backbone fibre in service between the capital and at least one other region. That it reaches every province or region is not stated.
 
 **Capacity sold to other operators.** Nothing found says other operators buy capacity on [this fibre](<https://inwi.ma/en/wholesale/our-network>), or that it runs on open-access or wholesale terms. A backbone counts as open where other operators buy or lease capacity on it. It also counts as open where it runs on open-access or wholesale terms, whoever owns it.
 

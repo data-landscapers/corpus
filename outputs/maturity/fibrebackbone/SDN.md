@@ -2,7 +2,7 @@
 
 ## Long-distance fibre across the country
 
-**Built, in service and reaching every region.** [Sudatel Group's FY2025 results say it added 1,586 km of new fiber backbone in 2025 and owns over 25,000 km of terrestrial fiber](<https://sudatel.sd/en/fy2025-results/>). These place backbone fibre in service between the capital and at least one other region. That it reaches every province or region is not stated. A length in kilometres is given where a source states one; length sets no stage.
+**Built, in service and reaching every region.** [Sudatel Group's FY2025 results say it added 1,586 km of new fiber backbone in 2025 and owns over 25,000 km of terrestrial fiber](<https://sudatel.sd/en/fy2025-results/>). These place backbone fibre in service between the capital and at least one other region. That it reaches every province or region is not stated.
 
 **Capacity sold to other operators.** Nothing found says other operators buy capacity on [this fibre](<https://sudatel.sd/en/fy2025-results/>), or that it runs on open-access or wholesale terms. A backbone counts as open where other operators buy or lease capacity on it. It also counts as open where it runs on open-access or wholesale terms, whoever owns it.
 

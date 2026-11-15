@@ -2,7 +2,7 @@
 
 ## Long-distance fibre across the country
 
-**Built, in service and reaching every region.** [Sénégal Numérique SA's director general states the state operator has 4,500 km of optical fibre across the national territory](<https://www.presidence.sn/wo/assets/documents/Communication-SENUM-CAMP-2025.pdf>). [It is present in 14 regions and 42 departments and connects over 400 administrative buildings by fibre](<https://www.presidence.sn/wo/assets/documents/Communication-SENUM-CAMP-2025.pdf>). These place backbone fibre in service between the capital and at least one other region. That it reaches every province or region is not stated. A length in kilometres is given where a source states one; length sets no stage.
+**Built, in service and reaching every region.** [Sénégal Numérique SA's director general states the state operator has 4,500 km of optical fibre across the national territory](<https://www.presidence.sn/wo/assets/documents/Communication-SENUM-CAMP-2025.pdf>). [It is present in 14 regions and 42 departments and connects over 400 administrative buildings by fibre](<https://www.presidence.sn/wo/assets/documents/Communication-SENUM-CAMP-2025.pdf>). These place backbone fibre in service between the capital and at least one other region. That it reaches every province or region is not stated.
 
 **Capacity sold to other operators.** Nothing found says other operators buy capacity on [this fibre](<https://www.presidence.sn/wo/assets/documents/Communication-SENUM-CAMP-2025.pdf>), or that it runs on open-access or wholesale terms. A backbone counts as open where other operators buy or lease capacity on it. It also counts as open where it runs on open-access or wholesale terms, whoever owns it.
 
