@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-lbr-orange-mtn-mobile-money-users-to-enjoy-instant-cross-network-transfers",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "A Central Bank of Liberia official cites the World Bank as putting Liberia's financial inclusion rate at about 52%.",
+   "as_of": "2025-12-01",
+   "date_precision": "day",
+   "system": "World Bank",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

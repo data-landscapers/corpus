@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-01-gab-mobile-money-au-gabon-tr3-arcep-gabon",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mobile money accounts",
+   "country_label": "3,169,109 accounts in 2022",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only account counts are given, no survey share of adults."
+}

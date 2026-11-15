@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,uptake,share,coverage,quarter,2024,LBR-001,,
-LBR,uptake,target,coverage,,,,,nothing held
-LBR,uptake,payments,coverage,,,,,nothing held
+LBR,uptake,share,coverage,quarter,2025-12-01,LBR-001;LBR-002,,
+LBR,uptake,target,coverage,,,,,nothing found
+LBR,uptake,payments,coverage,,,,,nothing found

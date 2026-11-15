@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-29-dza-algeria-is-opening-the-door-to-telco-led-mobile-money-can-it-work",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "TechCabal says Global Findex 2025 puts adults holding an account at about 35%.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Global Findex 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

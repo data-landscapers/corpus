@@ -6,3 +6,5 @@ EGY,003,target,target,classed other,"Housekeeping 73: the central bank's 79% for
 MAR,002,share,quarter,classed other,"Housekeeping 73: Bank Al-Maghrib's 58% counts residents with an active bank account from banks' reporting, not a survey"
 MAR,003,share,half,classed other,"Housekeeping 73: Bank Al-Maghrib's 58% counts residents with an active bank account from banks' reporting, not a survey"
 MWI,002,share,half,removed,"Housekeeping 73: FinScope 2023's 69% using mobile money is replaced by the newer survey, Global Findex 2025, at 50% of adults with an account in 2024 (MWI-001)"
+CIV,005,share,half,removed,"Stage 4c 2026-11-15: GSMA's brief gives 79% of adults with an account in 2021 citing Global Findex 2021, which put it at 51% (CIV-004); the figure is wrong and 2021 is outside the three-year window"
+CIV,006,target,target,removed,"Stage 4c 2026-11-15: GSMA's brief gives 79% of adults with an account in 2021 citing Global Findex 2021, which put it at 51% (CIV-004); the figure is wrong and 2021 is outside the three-year window"
