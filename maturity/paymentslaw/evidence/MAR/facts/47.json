@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mar-le-hub-digital-au-service-des-paiements-electroniques-au-maroc",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "Switch Al Maghrib says new payment institutions licensed by Bank Al-Maghrib were connected to the Switch Mobile hub, 18 members in total at end-2023.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Switch Mobile",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

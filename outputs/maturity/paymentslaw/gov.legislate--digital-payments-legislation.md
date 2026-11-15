@@ -1,6 +1,6 @@
 # Digital payments legislation: payments law
 
-*As at 2026-09-30.*
+*As at 2026-11-15.*
 
 ## The norm
 
@@ -32,12 +32,12 @@ Article 15 of the AfCFTA Digital Trade Protocol and its Annex on Cross-Border Di
 
 ### Benin: 5 Leading
 
-Benin is under the regional central bank's 2024 payment rules, which license non-banks; in 2026 it ordered all providers to connect.
+Benin is under the regional central bank's 2024 payment rules, which license non-banks; since November 2026 transfers between providers must use its platform.
 
-- The BCEAO set 30 September 2026 as the deadline for banks, e-money institutions and payment institutions of the Union to open PI-SPI instant payment services (30 June 2027 for microfinance institutions), replacing 30 June 2026; the communique is dated 25 June 2026 and covers all WAEMU members, including Benin ([source, 2026-06-25](https://www.bceao.int/sites/default/files/2026-06/Communiqu%C3%A9_Prolongation_d%C3%A9lai_Connexion_%C3%A0_PI-SPI-25062026.pdf)).
-- The BCEAO told every bank, e-money issuer and payment institution in the eight WAEMU states, Benin included, in April to be connected to PI-SPI by 30 June 2026; on 25 June it moved the deadline to 30 September 2026 for them and to 30 June 2027 for microfinance institutions, per iAfrikan ([source, 2026-06-25](https://iafrikan.com/tomorrow-west-africas-central-bank-finds-out-who-really-runs-its-payments-market)).
+- BCEAO requires interoperable e-money transactions to go through PI-SPI from 2 November 2026, and UBA Benin says bank-wallet transfers are no longer possible outside it ([source, 2026-11-02](https://triomphemag.com/interoperabilite-du-mobile-money-au-benin-pi-spi-entre-en-vigueur-ce-qui-change-reellement-pour-les-utilisateurs-des-ce-2-novembre/)).
+- BCEAO set 30 September 2026 as the deadline for Benin's banks, financial establishments and mobile money issuers to connect to PI-SPI, and 30 June 2027 for microfinance institutions (La Marina BJ) ([source, 2026-08-14](https://lamarina.bj/2026/08/14/marche-beninois-du-pi-spi-qui-manque-encore-a-lappel-du-paiement-instantane-de-la-bceao/)).
 - Four companies (Julaya Bénin, Open SI, FedaPay Bénin, QOS Integrated Center Bénin) held payment institution licences in Benin at 31 August 2026, per the BCEAO list; licences dated Sept 2025 to July 2026 ([source, 2026-08-31](https://beninwebtv.bj/benin-quatre-etablissements-paiement-agrees-aout-2026/)).
-- The BCEAO list states payment institutions are licensed under Instruction n°001-01-2024 on payment services in the UMOA, which binds Benin as a member ([source, 2024](https://www.bceao.int/fr/communique-presse/liste-des-etablissements-de-paiement-agrees-dans-lumoa-au-31-aout-2026)).
+- BCEAO Avis n°0019 of 2 October 2026 is binding from 2 November 2026 on interoperable e-money transactions and fees in the UEMOA including Benin ([source, 2026-11-02](https://triomphemag.com/interoperabilite-du-mobile-money-au-benin-pi-spi-entre-en-vigueur-ce-qui-change-reellement-pour-les-utilisateurs-des-ce-2-novembre/)).
 
 ### Burkina Faso: 5 Leading
 
@@ -177,12 +177,12 @@ South Sudan's amended e-money rules took effect in 2026, licensing non-bank issu
 
 ### Togo: 5 Leading
 
-Togo follows regional central bank rules; an e-money institution was licensed in 2025, and from 2026 all providers must connect and e-money limits rise.
+Togo follows regional central bank rules; an e-money institution was licensed in 2025, and since November 2026 transfers between providers must use the regional platform.
 
-- The BCEAO decided that from 2 November 2026 interoperable e-money transactions within WAEMU must be made through the PI-SPI platform, covering transfers between bank or microfinance accounts and accounts at e-money institutions or payment establishments ([source, 2026-10-02](https://www.bceao.int/sites/default/files/2026-10/Communiqu%C3%A9%20du%202%20octobre%202026.pdf)).
-- iAfrikan reports the BCEAO told every bank, e-money issuer and payment institution in the eight WAEMU countries, Togo included, in April 2026 to be connected to PI-SPI by 30 June 2026, then on 25 June 2026 moved the deadline to 30 September 2026 (microfinance institutions to 30 June 2027) ([source, 2026-06-25](https://iafrikan.com/tomorrow-west-africas-central-bank-finds-out-who-really-runs-its-payments-market)).
-- Citing the UMOA Banking Commission's 2025 report, the article says the number of licensed e-money issuers (EME) rose from 14 to 18 in 2025, with Tmoney in Togo among the new approvals (no month given; year of the report used) ([source, 2025](https://www.horonyafinance.com/umoa-la-monnaie-electronique-gagne-du-terrain-les-encours-bondissent-de-352-en-2025/)).
-- Togo First reports a BCEAO instruction of 8 October 2026 binding the eight WAEMU states raised the e-money balance cap to CFAF 4 million per issuer (from CFAF 2 million since 2015) and cut the demand-deposit float floor from 75% to 65%, effective 2 November 2026 ([source, 2026-10-08](https://www.togofirst.com/en/finance/1210-20312-bceao-to-double-mobile-money-account-limit-to-cfaf-4-million)).
+- From 2 November 2026 interoperable e-money transfers between individuals within WAEMU must go through PI-SPI, a rule requiring providers to route through the platform ([source, 2026-11-02](https://www.togofirst.com/en/economic-governance/0511-20563-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-transactions-by-end-october)).
+- Since 2 November 2026 interoperable e-money transactions between individuals in the WAEMU must go through PI-SPI, per TogoTimes ([source, 2026-11-02](https://togotimes.info/paiements-numeriques-le-togo-accelere-vers-linstantane/)).
+- Bénin Web TV, citing the BCEAO list published 8 October 2026, says Togo had three licensed payment institutions at 31 August 2026 under the 2024 instruction ([source, 2026-08-31](https://beninwebtv.bj/benin-quatre-etablissements-paiement-agrees-aout-2026/)).
+- BCEAO rules in force from 2 November 2026 require all interoperable electronic money transfers between individuals within WAEMU to go through PI-SPI, with free domestic transfers up to CFAF 8,000 a day ([source, 2026-11-02](https://www.togofirst.com/en/economic-governance/0511-20563-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-transactions-by-end-october)).
 
 ### Algeria: 4 Operating
 

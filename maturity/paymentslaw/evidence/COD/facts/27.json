@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-23-cod-modalites-dutilisation-des-canaux-digitaux-dans-le-processus-de-paieme",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article says that under the law on the national payment system only banks may remit digitally collected sums to the Treasury general account through the national payment system.",
+   "as_of": "2024-10-23",
+   "date_precision": "day",
+   "system": "Loi sur le systeme national de paiement",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

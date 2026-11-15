@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-29-dza-algeria-is-opening-the-door-to-telco-led-mobile-money-can-it-work",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Regulation 25-02 of 14 April 2025, under law 23-09 of June 2023, sets the rules for payment service providers, per TechCabal.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "Regulation 25-02",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "Law 23-09 created payment service providers as a category separate from banks, and the Conseil Monetaire et Bancaire authorised Djezzy Payment Services as the first on 23 September 2026, per TechCabal.",
+   "as_of": "2026-09-23",
+   "date_precision": "day",
+   "system": "Regulation 25-02",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

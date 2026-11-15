@@ -1,0 +1,27 @@
+{
+ "slug": "2024-01-30-syc-launch-of-nebula-fintech-limited",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Central Bank of Seychelles governor says the National Payment System E-Money Regulations were enacted in 2022 and facilitated Nebula Fintech's entry as a payment service provider.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "National Payment System E-Money Regulations",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "The governor says Nebula Fintech Limited, a new non-bank payment service provider, entered the market under the 2022 E-Money Regulations.",
+   "as_of": "2024-01-30",
+   "date_precision": "day",
+   "system": "National Payment System E-Money Regulations",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

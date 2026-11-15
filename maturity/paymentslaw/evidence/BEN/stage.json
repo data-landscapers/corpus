@@ -1,16 +1,17 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "5",
-   "standing": "in-force",
-   "reach": "connect",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-003;BEN-009;BEN-002;BEN-004",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "connect",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-015;BEN-016;BEN-002;BEN-014",
+      "gaps": "Nothing on the four questions.",
+      "note": "Reassessed 2026-11-15 on the BCEAO notice binding from 2 November 2026 that routes interoperable e-money transfers through PI-SPI (BEN-015); with the 2024 payment services instruction in force and four payment institutions licensed, every step is met.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }
