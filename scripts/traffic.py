@@ -32,9 +32,10 @@ stored, so a rule can be corrected and the whole history re-read under it:
 - **own** — Bill's own networks (`OWN_FILE`), checked first, so his views and the site
   checks run from this machine are never readers.
 
-**`logs/site-analytics-access.csv` and `-pages.csv` are people only** (Bill, 2026-10-29):
+**`logs/site-analytics-access.csv`, `-pages.csv` and `-countries.csv` are people only** (Bill, 2026-10-29):
 *access*, a row a day of users (distinct IPs) and pages viewed; *pages*, a row a page with its
-views a month, a column a month, busiest this month first. A page is a successful GET of HTML
+views a month, a column a month, busiest this month first; *countries*, the same columns
+summed by the `lookups/countries.csv` code in a page's path, pages with none left out. A page is a successful GET of HTML
 — not an asset, a download or the beacon. `pull` rewrites them whenever the database is newer,
 and leaves the bytes alone when nothing moved; open in Excel they cannot be replaced, so they
 wait for the next tick. Bill's charts live in a workbook of his own that imports them. They
@@ -44,7 +45,7 @@ replaced Google Analytics' `site-analytics.csv` and are committed by the cycle (
 Usage:  python scripts/traffic.py pull              # every complete day not yet held
         python scripts/traffic.py pull --quiet      # print only when a day was added
         python scripts/traffic.py report [YYYY-MM-DD]   # default: the latest day held
-        python scripts/traffic.py tables            # rewrite the two CSVs now
+        python scripts/traffic.py tables            # rewrite the three CSVs now
 """
 from __future__ import annotations
 
@@ -65,6 +66,8 @@ DB = os.environ.get("CORPUS_TRAFFIC_DB", r"C:\corpus-traffic\traffic.sqlite")
 LOGS = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "logs")
 ACCESS = os.path.join(LOGS, "site-analytics-access.csv")
 PAGES = os.path.join(LOGS, "site-analytics-pages.csv")
+COUNTRIES = os.path.join(LOGS, "site-analytics-countries.csv")
+ISO3 = os.path.join(os.path.dirname(LOGS), "lookups", "countries.csv")
 API = "https://api.cloudflare.com/client/v4/graphql"
 ZONES = {"data-landscapers.io": "e6663237e18dfc5241e44003a2b1d976",
          "data-landscapers.com": "dacc4524150b875a9d9aca87909eb02f"}
@@ -211,7 +214,7 @@ def pull(quiet: bool) -> int:
         con.execute("VACUUM")
     con.close()
     note = ""
-    if any(not os.path.exists(f) or os.path.getmtime(f) < os.path.getmtime(DB) for f in (ACCESS, PAGES)):
+    if any(not os.path.exists(f) or os.path.getmtime(f) < os.path.getmtime(DB) for f in (ACCESS, PAGES, COUNTRIES)):
         try:
             tables()
         except PermissionError:
@@ -256,9 +259,21 @@ def tables() -> None:
     latest = months[-1] if months else ""
     write(ACCESS, [["Date", "Users", "Pages"]]
           + [[day, len(users[day]), views[day]] for day in days])
+    busiest = lambda x: (-x[1][latest], -sum(x[1].values()), x[0])
     write(PAGES, [["Page", *months]]
-          + [[pg, *(n[m] for m in months)] for pg, n in
-             sorted(by_page.items(), key=lambda x: (-x[1][latest], -sum(x[1].values()), x[0]))])
+          + [[pg, *(n[m] for m in months)] for pg, n in sorted(by_page.items(), key=busiest)])
+    codes, by_code = iso3_codes(), collections.defaultdict(collections.Counter)
+    for pg, n in by_page.items():
+        if (c := next((s.upper() for s in pg.split("/")[1:] if s.upper() in codes), None)):
+            by_code[c].update(n)
+    write(COUNTRIES, [["iso-3", *months]]
+          + [[c, *(n[m] for m in months)] for c, n in sorted(by_code.items(), key=busiest)])
+
+
+def iso3_codes() -> set[str]:
+    """The codes in lookups/countries.csv, regions (XWA, XAF) included."""
+    with open(ISO3, encoding="utf-8-sig", newline="") as fh:
+        return {r["iso-3"].strip().upper() for r in csv.DictReader(fh) if r["iso-3"].strip()}
 
 
 def write(path: str, rows: list[list]) -> None:
