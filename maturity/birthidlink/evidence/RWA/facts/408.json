@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-18-rwa-leveraging-interoperability-for-social-impact-in-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The information-systems table lists both the common identification system and the civil registration system as live with the National Identification Agency (NIDA) as the responsible institution, so one body holds both registers (SPDCI deck, MINALOC presenters).",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "NIDA common identification system and civil registration system",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

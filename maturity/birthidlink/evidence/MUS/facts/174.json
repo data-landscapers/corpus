@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-mus-civil-status-division",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The Pay Research Bureau report says the Civil Status Division keeps the civil status database that generates each citizen's unique identification number at birth registration.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Civil status database",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil status database",
+   "country_label": "Mauritius",
+   "class": "crvslink",
+   "platform": "",
+   "owner": "Civil Status Division",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

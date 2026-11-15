@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "link",
-      "stage": "3",
+      "stage": "4",
       "link": "inservice",
-      "events": "",
+      "events": "both",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-001",
-      "gaps": "No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "Rebuild: 2024 regulations end an ID card's validity at death registration, checked against the civil identity register, one event. Nothing found says births enrol people in the ID system.",
-      "as_at": "2026-10-22"
+      "stage_sources": "MUS-002;MUS-001",
+      "gaps": "No source found since October 2023 gives a figure for records exchanged, numbers retired on death or records reconciled.",
+      "note": "Stage 4c 2026-11-15: the civil status database generates each citizen's identification number at birth registration (2024), and 2024 regulations end the ID card's validity at death registration, checked against the civil identity register. No figure for records exchanged has been found.",
+      "as_at": "2026-11-15"
     }
   ]
 }

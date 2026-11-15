@@ -21,8 +21,8 @@ The African Union's interoperability framework and the African ministers respons
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 2 |
-| 3 Established | 27 |
+| 4 Operating | 3 |
+| 3 Established | 26 |
 | 2 Nascent | 17 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
@@ -50,6 +50,13 @@ Births feed the ID card and registered deaths deregister the citizen, both said 
 
 - Angola's Justice Minister says the Bilhete de Identidade results from integrating data in the birth record through interoperability between the respective computer systems ([source, 2026-07-01](https://angop.ao/noticias/politica/impressao-do-bi-abrange-todas-as-provincias-do-pais/)).
 - Aristides Marques, national director of Identification, Registries and Notary, says a death registered through the conservatoria services is sent to the database to deregister (give baixa to) the citizen, which needs the deceased's BI to be reliable ([source, 2026-04-04](https://novojornal.co.ao/politica/detalhe/a-nossa-medida-visa-esclarecer-que-o-cidadao-deve-ter-o-bi-e-nao-e-so-a-pensar-na-questao-da-morte-aristides-marques-director-nacional-de-identificacao-registos-e-notariado-70892.html)).
+
+### Mauritius: 4 Operating
+
+Births have generated the ID number and deaths have ended the ID card since 2024; no figure for records exchanged is known.
+
+- The Pay Research Bureau report says the Civil Status Division keeps the civil status database that generates each citizen's unique identification number at birth registration ([source, 2024](https://prb.govmu.org/prb/wp-content/uploads/2024/03/csd.pdf)).
+- The regulations end a card's validity at the registration of the holder's death, and require the Head of the Unit to check the holder is recorded as deceased in the civil identity register, or obtain the death certificate, before the card is perforated ([source, 2024-02-19](https://paps.mnis.govmu.org/wp-content/uploads/2025/05/29_The-National-IC-Reg-2024-.pdf)).
 
 ### Tunisia: 4 Operating
 
@@ -154,12 +161,6 @@ The civil register and the ID system were linked one way or for one event in 202
 The civil register and the ID system were linked one way or for one event in 2026.
 
 - The Interior Ministry's first-half 2026 report lists as an achievement the update of the biometric databases and their interconnection with the civil-status system ([source, 2026-06](https://dgat.interieur.gov.mr/node/397)).
-
-### Mauritius: 3 Established
-
-The civil register and the ID system were linked one way or for one event in 2024.
-
-- The regulations end a card's validity at the registration of the holder's death, and require the Head of the Unit to check the holder is recorded as deceased in the civil identity register, or obtain the death certificate, before the card is perforated ([source, 2024-02-19](https://paps.mnis.govmu.org/wp-content/uploads/2025/05/29_The-National-IC-Reg-2024-.pdf)).
 
 ### Nigeria: 3 Established
 
