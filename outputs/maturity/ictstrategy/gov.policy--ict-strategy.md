@@ -112,7 +112,7 @@ Nigeria's telecommunications policy of 2000 is still in force and is being rewri
 
 ### Rwanda: 3 Established
 
-Rwanda has an ICT sector plan for 2024-2029, published in 2025; no source found says whether results against it have been reported.
+Rwanda has an ICT sector plan for 2024-2029, released in August 2024; no source found says whether results against it have been reported.
 
 *Advancing.*
 

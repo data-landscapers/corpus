@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-26-rwa-newsletter-vol-3-released-technical-cooperation-project-digital-innova",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "JICA says the Government of Rwanda's ICT Sector Strategic Plan 2024-2029 was released on 10 August 2024.",
+   "as_of": "2024-08-10",
+   "date_precision": "day",
+   "system": "ICT Sector Strategic Plan 2024-2029",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2029",
+   "fact": "JICA gives the ICT Sector Strategic Plan's period as 2024-2029.",
+   "as_of": "2024-08-10",
+   "date_precision": "day",
+   "system": "ICT Sector Strategic Plan 2024-2029",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ICT Sector Strategic Plan 2024-2029",
+   "country_label": "ICT Sector Strategic Plan (SSP)",
+   "class": "sector",
+   "platform": "",
+   "owner": "MINICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

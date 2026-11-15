@@ -4,7 +4,7 @@
 
 **Governance and finance.** The ICT Sector Strategic Plan 2024-2029 [commits the Ministry of ICT and Innovation and its affiliated agencies](<https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf>) to deliver its programmes. The ministry [convened the sector working group's review of the plan under the finance ministry's guidance](<https://www.minecofin.gov.rw/index.php?eID=dumpFile&f=112721&t=f&token=a45cd9603c79f2619ff07ff066661e300901aadf>) on 22 November 2024.
 
-**Standing.** The ministry [published the plan, dated 1 January 2025 on its cover, as one it is committed to implement](<https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf>). A sector review of 22 November 2024 [was convened to validate it](<https://www.minecofin.gov.rw/index.php?eID=dumpFile&f=112721&t=f&token=a45cd9603c79f2619ff07ff066661e300901aadf>).
+**Standing.** The ministry [published the plan, dated 1 January 2025 on its cover, as one it is committed to implement](<https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf>). JICA [says the government released it on 10 August 2024](<https://www.jica.go.jp/english/about/dx/information/2025/1571211_68031.html>). A sector review of 22 November 2024 [was convened to validate it](<https://www.minecofin.gov.rw/index.php?eID=dumpFile&f=112721&t=f&token=a45cd9603c79f2619ff07ff066661e300901aadf>).
 
 **Text.** The plan is [a PDF on the ministry's own site](<https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf>).
 
