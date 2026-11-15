@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-11-nga-cbn-faq-data-localisation-circular",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Central Bank of Nigeria's FAQ says its 15 June 2026 circular requires regulated institutions' payment transaction data, including backups and disaster-recovery sites, to be stored and managed in Nigeria, with the 1 January 2027 implementation date in force.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "CBN data localisation circular of 15 June 2026",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "enforcer",
+   "fact": "The CBN, which issued the circular for the institutions it regulates, says compliance is a regulatory requirement with no automatic grace period and a strict enforcement framework.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "CBN data localisation circular of 15 June 2026",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
