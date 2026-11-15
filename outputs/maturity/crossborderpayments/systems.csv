@@ -29,6 +29,7 @@ BEN,WAEMU interoperable instant payment system (PI-SPI),PI-SPI pilot,other,,BCEA
 BEN,PI-SPI,Benin,other,,BCEAO,,2025-11-05-ben-moov-money-et-boa-benin-adoptent-la-plateforme-pi-spi-de-la-bceao
 BEN,PI-SPI,Benin,crossborder,PI-SPI,BCEAO,,2026-11-02-ben-communique-de-mtn-mobile-money-benin
 BEN,PI-SPI (Plateforme Interopérable du Système de Paiement Instantané),Benin,crossborder,,,,2026-11-06-dpi-map-2026-11-12
+BEN,PI-SPI,Benin,other,BCEAO instant payment platform,BCEAO,,2026-11-02-ben-interoperabilite-du-mobile-money-au-benin-pi-spi-entre-en-vigueur-ce-q
 BFA,PI-SPI,Burkina Faso,crossborder,BCEAO,BCEAO,,2025-10-01-uemoa-pi-spi-bceao-operationnel
 BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
 BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
@@ -72,6 +73,7 @@ COG,Airtel Money,Airtel Money,other,PawaPay,Airtel Money Africa,,2025-08-07-zmb-
 COG,Tranglo,Congo Brazzaville,crossborder,Tranglo payment hub,Tranglo,,2025-07-01-tcd-tranglo-grows-footprint-in-africa-with-5-new-countries
 COG,Airtel Money,Airtel Money Congo,other,,Airtel Congo,,2025-06-17-cog-airtel-money-elargit-ses-services-au-dela-de-la-cemac-et-connecte-31-p
 COG,GIMAC Pay,GIMAC Pay,crossborder,,GIMAC,,2025-06-17-cog-airtel-money-elargit-ses-services-au-dela-de-la-cemac-et-connecte-31-p
+COG,GimacPay,Congo,other,GIMAC,GIMAC,,2024-03-27-cog-gimac-sengage-a-accompagner-le-congo-dans-la-mise-en-uvre-de-congopay
 COM,PAPSS,Comoros,crossborder,Pan-African Payment and Settlement System,Afreximbank / African Union,,2024-08-23 Central Bank of Comoros commences PAPSS implementation
 COM,Mvola Comores,Comoros,crossborder,mobile money,Telma Comores,,2024-02-22-com-transfert-d-argent-mvola-comores-lance-de-nouveaux-services
 COM,MVola,Comoros,crossborder,mobile money,Telco Money S.A. (Yas),,2025-01-16-com-mvola-particuliers
@@ -83,6 +85,7 @@ DJI,PAPSS,Djibouti,crossborder,,,,2024-01-01-siips-2024-djibouti-excerpt
 DJI,PAPSS,Djibouti,crossborder,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
 DJI,D-Money international transfer,D-Money outbound transfers via Herman International Exchange,crossborder,D-Money,Djibouti Telecom,,2025-07-29-dji-nouveau-envoyez-de-l-argent-a-l-etranger-avec-d-money
 DJI,Système de Règlement Automatisé de Djibouti (SYRAD),Djibouti,other,,,,2026-11-06-dpi-map-2026-11-12
+DJI,PAPSS,Djibouti,crossborder,pan-African payment and settlement system,PAPSS,,2026-11-01-papss-payments-network-coverage-november-2026
 DZA,PAPSS,Algeria,crossborder,regional payment and settlement system,Afreximbank,,2025-08-15 Bank of Algeria joins PAPSS network
 DZA,PAPSS,Algeria,crossborder,continental payment system,Afreximbank,,2024-10-14 Algeria to launch domestic instant payment system (Bank of Algeria)
 DZA,BaridiMob,Algeria,other,mobile app,Algerie Poste,,2025-05-11-dza-pourquoi-algerie-poste-bloque-baridimob-a-ses-usagers-a-l-etranger
@@ -150,6 +153,7 @@ GMB,Yonna Global Wallet,Gambia,crossborder,mobile wallet,Yonna Group,,2026-03-02
 GMB,PAPSS,Gambia,crossborder,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
 GMB,Afrimoney,The Gambia,crossborder,Afrimoney,Africell,,2026-06-26-gmb-afrimoney-connects-the-gambia-and-sierra-leone-directly-in-historic-fi
 GMB,Gamswitch,Gambia,other,,,,2026-11-06-dpi-map-2026-11-12
+GMB,APS Wallet Instant GovPay,The Gambia,other,mobile wallet,APS Wallet,,2026-04-10-gmb-aps-wallet-powers-the-gambia-s-digital-future-with-govpay-partnership
 GNB,PAPSS,Guinea-Bissau,crossborder,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 GNB,PI-SPI,GNB,other,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
 GNB,PI-SPI,GNB,other,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
@@ -171,6 +175,7 @@ KEN,IPSL payment scheme,Kenya,other,Tazama,Integrated Payment Services Limited,,
 KEN,HoneyCoin,HoneyCoin,crossborder,stablecoin settlement rails,HoneyCoin (private),,2025-08-12-ken-kenya-s-honeycoin-raises-4-9-million-to-expand-stablecoin-cross-border
 KEN,PesaLink,Kenya,crossborder,,,,2026-11-06-dpi-map-2026-11-12
 KEN,MPesa,Kenya,crossborder,,Safaricom,,2026-11-06-dpi-map-2026-11-12
+KEN,PAPSS,Kenya,other,Pan-African Payment and Settlement System,Afreximbank/PAPSS,,2026-11-12-papss-bets-on-local-currencies-to-unlock-kenyas-africa-trade
 LBR,PAPSS,PAPSS,crossborder,Afreximbank,Afreximbank,,2025-04-02-cbl-eg-saamoi-remarks-papss-rollout-financial-education-launch
 LBR,Orange Money,Orange Money Liberia,other,,Orange Liberia,,2026-06-10-lbr-bnb-liberia-and-orange-money-launch-cross-border-mobile-remittance-ser
 LBR,Lonestar Cell MTN MoMo,Liberia,other,,Lonestar Cell MTN,,2024-08-05-lbr-new-partnership-aims-to-boost-liberia-s-mobile-money-transfer-services
@@ -269,6 +274,7 @@ NGA,PAPSS,Nigeria,crossborder,,Afreximbank,,2025-05-27-nga-cross-border-payments
 NGA,Paga-PayPal,Nigeria,crossborder,PayPal,Paga,,2026-11-05-paga-expands-direct-debit-access-for-businesses-beyond-its-network
 NGA,NIBSS Instant Payment (NIP),Nigeria,other,,NIBSS,,2026-11-06-dpi-map-2026-11-12
 NGA,eNaira (CBDC),Nigeria,other,,,,2026-11-06-dpi-map-2026-11-12
+NGA,PAPSS,Nigeria,crossborder,,Afreximbank/PAPSS,,2026-11-12-nga-businessday-papss-cbn-reforms-boost-adoption
 RWA,Licence Passporting Framework,Rwanda,other,,Bank of Ghana and National Bank of Rwanda,,2026-10-14-ghana-rwanda-nigeria-cross-border-digital-payments
 RWA,CIPS (Cross-Border Interbank Payment System),China,crossborder,RMB clearing and settlement,People's Bank of China oversight,direct and indirect participants,2026-09-22-rwa-ktpress-bank-kigali-cips
 RWA,SWIFT,global,other,payment messaging network,,,2026-09-22-rwa-ktpress-bank-kigali-cips

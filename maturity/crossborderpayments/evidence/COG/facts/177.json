@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-27-cog-gimac-sengage-a-accompagner-le-congo-dans-la-mise-en-uvre-de-congopay",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "GIMAC's Director General says all Congo's banks, mobile money operators, microfinance institutions and some fintechs are connected to GimacPay, GIMAC's Central African payment system.",
+   "as_of": "2024-03-25",
+   "date_precision": "day",
+   "system": "GimacPay",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GimacPay",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "GIMAC",
+   "owner": "GIMAC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

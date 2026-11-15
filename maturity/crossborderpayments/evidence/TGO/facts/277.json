@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-13-togotimes-togo-paiements-instantanes-pi-spi",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Togo takes part in the BCEAO's PI-SPI, which links providers across the WAEMU, with 17 Togo providers connected at end-October 2026, per TogoTimes.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

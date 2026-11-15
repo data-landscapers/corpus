@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-17-cog-partage-d-experience-sur-l-itinerance-mobile-internationale-et-regiona",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "ARCEP Gabon says mobile money can be used in roaming within CEMAC through the GIMACPAY platform.",
+   "as_of": "2025-02-17",
+   "date_precision": "day",
+   "system": "GIMACPAY",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

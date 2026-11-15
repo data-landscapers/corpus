@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-02-ben-interoperabilite-du-mobile-money-au-benin-pi-spi-entre-en-vigueur-ce-q",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "PI-SPI, the BCEAO regional instant payment platform, is mandatory from 2 November 2026 across the eight UEMOA states including Benin.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "MTN MoMo says it lets Benin customers send and receive money with over 170 authorised participants across the eight UEMOA countries.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "BCEAO instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

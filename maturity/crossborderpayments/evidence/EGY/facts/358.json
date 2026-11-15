@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-egy-financial-digitization",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "In June 2024 the CBE began piloting instant receipt of inbound remittances into Egyptian bank accounts through the IPN, with several local banks licensed to provide it.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "IPN inbound remittances",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GAB-004;GAB-012",
-      "gaps": "No source found since October 2023 gives a figure for cross-border digital payments.",
-      "note": "Rebuild: GIMACPAY carries the country's regional payments in service; BEAC's PAPSS membership has its CEMAC institutions onboarded only by end-2026, so it is under way. The GIMACPAY figures are for six states together, so not 5.",
-      "as_at": "2026-10-26"
+      "gaps": "No value or volume dated since November 2023 for Gabon's own cross-border digital payments: ARCEP's May 2024 report gives 2021 and 2022 totals, the 2024 finance ministry note growth rates only, and GIMACPAY's figures are for six states together.",
+      "note": "Reassessed 2026-11-15: GIMACPAY carries the country's regional payments in service, and BEAC's PAPSS membership is under way. ARCEP's CEMAC-zone mobile money totals are dated 2021 and 2022, outside the three years, so not 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-12-zwe-rbz-reports-record-us-44-9-billion-in-electronic-transactions-in-6-mon",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "The article says local banks processed ZAR 2.41 billion in SADC-RTGS transactions within Zimbabwe's expanding PAPSS participation.",
+   "as_of": "2025-08-12",
+   "date_precision": "day",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The article reports ZAR 2.41 billion in SADC-RTGS transactions by local banks, with platform volumes down 23%.",
+   "as_of": "2025-08-12",
+   "date_precision": "day",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

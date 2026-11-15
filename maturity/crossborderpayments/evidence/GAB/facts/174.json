@@ -1,0 +1,37 @@
+{
+ "slug": "2024-05-01-gab-mobile-money-au-gabon-tr3-arcep-gabon",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "ARCEP Gabon reports mobile money transfers within the CEMAC zone of 1.489 billion FCFA in 2022, up 66.6% on 2021.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Mobile money transfers, CEMAC zone",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "ARCEP Gabon says mobile payment interoperability in the CEMAC zone runs through the GIMACPAY platform.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "GIMACPAY",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "ARCEP Gabon, citing the Ministry of Economy, gives CEMAC-zone mobile money transfers as 0.894 billion FCFA in 2021 and 1.489 billion FCFA in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Mobile money transfers, CEMAC zone",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
