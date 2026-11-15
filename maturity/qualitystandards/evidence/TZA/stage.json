@@ -8,10 +8,10 @@
       "certification": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-002;TZA-001",
-      "gaps": "No source found says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.",
-      "note": "Counted from the four questions by study-ladder-qualitystandards.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "TZA-002;TZA-005;TZA-001",
+      "gaps": "The bureau certified the e-Government Authority to ISO 27001:2022 in January 2026 (TZA-006), but no source says that standard is adopted as a Tanzania Standard; its draft adoptions of 2025 do not include it. No certification against the accessibility standard or another national standard on information technology or data is held.",
+      "note": "The Tanzania Bureau of Standards, set up under the Standards Act (TZA-003, TZA-001), has introduced a national ICT accessibility standard (TZA-002, TZA-005). Its January 2026 certificate to the e-Government Authority (TZA-006) is against an international standard not shown to be national, so stages 4 and 5 are not met.",
+      "as_at": "2026-11-15"
     }
   ]
 }

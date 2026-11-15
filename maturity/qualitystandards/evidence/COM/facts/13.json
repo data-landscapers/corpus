@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-30-com-office-national-de-la-normalisation-i-un-projet-de-loi-sur-la-qualite",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "The economy minister said the president had recently signed a decree setting up the national standardisation and metrology institution (Ocnm), per Al-watwan.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Office comorien de la normalisation et de la métrologie",
+   "class": "body"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Office comorien de la normalisation et de la métrologie",
+   "country_label": "Ocnm",
+   "class": "body",
+   "platform": "",
+   "owner": "Government of Comoros",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -23,10 +23,10 @@ The Abuja Treaty, Article 67, commits member states to a common policy on standa
 | 5 Leading | 1 |
 | 4 Operating | 1 |
 | 3 Established | 9 |
-| 2 Nascent | 36 |
+| 2 Nascent | 37 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 7 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -81,7 +81,7 @@ The Gambia's standards bureau listed an information security standard as a natio
 
 ### Kenya: 3 Established
 
-Kenya's standards bureau issued a national code of practice for AI applications, reported in 2026; whether certification against it is offered is not known.
+Kenya's standards bureau issued a national AI code of practice in 2026 and certifies to an international security standard not known to be national.
 
 - The Kenya Bureau of Standards has issued a Code of Practice for AI Applications (KS 3007), a voluntary technical and governance guidance, per the Bowmans analysis ([source, 2026-11-12](https://cioafrica.co/ai-governance-fragmentation-cause-for-concern/)).
 - The Kenya Bureau of Standards was established by the Standards Act, Chapter 496, and started operations in July 1974, per ISO's member page ([source, 1974-07](https://www.iso.org/member/1854.html)).
@@ -103,9 +103,10 @@ Sudan's standards organisation lists national standards on digital repositories 
 
 ### Tanzania: 3 Established
 
-Tanzania's standards bureau introduced an accessibility standard for ICT products, reported in October 2026; no source found says whether anyone can be certified against it.
+Tanzania's standards bureau introduced an ICT accessibility standard in 2026 and certified the e-Government Authority to an international security standard not known to be national.
 
 - TCRA's Director General said the Tanzania Bureau of Standards (TBS) has newly introduced a Tanzania Standard on accessibility of communications and ICT products and services for persons with disabilities; the document gives no standard number or issue date (published 2026-10-09, used as the date) ([source, 2026-10-09](https://dailynews.co.tz/tcra-advances-digital-inclusion-for-pwds-through-assistive-technologies/)).
+- iPRIS reports that the Tanzania Bureau of Standards recognised TCRA's efforts to implement the national ICT accessibility standard ([source, 2026-10](https://ipris.digital/the-ipris-project-marks-three-years-and-launches-its-tenth-cohort/)).
 - The Tanzania Bureau of Standards (TBS) published its list of new and revised compulsory Tanzania Standards as of October 2025, enforceable under the Standards Act, Cap. 130 (R.E. 2023), which shows a national standards body exists in law; the captured entries are on batteries, conductors, fasteners, wire and similar goods and name no standard on information technology, security, software or data, and the document says its list continues beyond the capture (published 2025-10, used as the date) ([source, 2025-10](https://www.tbs.go.tz/uploads/text-editor/files/LIST%20OF%20COMPULSORY%20TANZANIA%20STANDARD_1785231917.pdf)).
 
 ### Angola: 2 Nascent
@@ -160,6 +161,12 @@ Chad's standards agency adopted draft national standards in 2026, none on inform
 
 - ATNOR's own site describes it as a public administrative establishment under the Ministry of Commerce and Industry that prepares and manages Chad's national standards, and records its technical committees adopting draft Chadian standards (NTD) on 31 July, 5 August (ten international quality-management standards as drafts) and 7 August 2026; none is on information technology or data ([source, 2026-08-07](https://atnor.td/)).
 - ATNOR's page on the standardisation law says the law creates the national standardisation structures, including the Agence Tchadienne de Normalisation, charged with preparing, publishing and issuing Chadian standards and with adopting international standards as national ones; the page carries no date, so the 2014 published date is used ([source, 2014](https://www.atnor.td/la-loi-relative-a-la-normalisation/)).
+
+### Comoros: 2 Nascent
+
+Comoros set up a national standards and metrology office by decree in 2026; no standard on information technology or data is known.
+
+- The economy minister said the president had recently signed a decree setting up the national standardisation and metrology institution (Ocnm), per Al-watwan ([source, 2026-10](https://alwatwan.net/societe/office-national-de-la-normalisation-i-un-projet-de-loi-sur-la-qualit%C3%A9-en-voie-de-validation.html)).
 
 ### Congo: 2 Nascent
 
@@ -348,12 +355,6 @@ Zambia's standards bureau said in 2026 that its standards cover information tech
 - ZABS states on its own site that it develops, publishes, maintains or withdraws Zambian National Standards, has developed standards in sectors including Information Communication Technology, and counts 6,500+ Zambian National Standards and 50+ international standards adopted as ZS; the page has no date, so the published date 2026-08-29 is used ([source, 2026-08-29](https://www.zabs.org.zm/standards-development)).
 
 ### Central African Republic: No evidence
-
-Nothing found names a national standards body or says there is none, so no stage is set.
-
-Not established: Nothing found names a national standards body, or says there is none.
-
-### Comoros: No evidence
 
 Nothing found names a national standards body or says there is none, so no stage is set.
 

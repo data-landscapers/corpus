@@ -20,3 +20,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TUN,gov.standards--national-quality-standards,fact,2,2,TUN-003;TUN-002,Arrivals added TUN-003; stage unchanged.
 2026-10-17,TZA,gov.standards--national-quality-standards,fact,2,3,TZA-002;TZA-001,Arrivals added TZA-003; TZA-004; stage 2 -> 3.
 2026-11-13,KEN,gov.standards--national-quality-standards,fact,2,3,KEN-005;KEN-004,"Bowmans analysis (Nov 2026): KEBS has issued KS 3007, Code of Practice for AI Applications, a national IT standard: question 2 yes; 2->3"
+2026-11-15,COM,gov.standards--national-quality-standards,fact,no evidence,2,COM-001,"A decree setting up the Ocnm, reported October 2026, puts a standards body on record; no IT or data standard is named, so stage 2"
+2026-11-15,KEN,gov.standards--national-quality-standards,fact,3,3,KEN-005;KEN-004,"KENAS accredited KEBS in July 2025 to certify to ISO/IEC 27001:2022; the standard is not shown to be a Kenyan one, so question 3 is not met and the cell holds at 3"
+2026-11-15,TZA,gov.standards--national-quality-standards,fact,3,3,TZA-002;TZA-005;TZA-001,"TBS certified the e-Government Authority to ISO 27001:2022 in January 2026; the standard is not shown to be a Tanzania Standard, so questions 3 and 4 are not met and the cell holds at 3"

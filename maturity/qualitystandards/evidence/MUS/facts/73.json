@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-25-mus-certificate-of-accreditation-certification-body-no-cb001-mauritius-sta",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "certification",
+   "value": "offered",
+   "fact": "MAURITAS certifies that the Mauritius Standards Bureau's certification body is accredited for information security management system certification to ISO/IEC 27001:2022.",
+   "as_of": "2026-05-25",
+   "date_precision": "day",
+   "system": "Mauritius Standards Bureau ISMS certification",
+   "class": "body"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MSB ISMS certification",
+   "country_label": "CB001",
+   "class": "body",
+   "platform": "",
+   "owner": "Mauritius Standards Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
