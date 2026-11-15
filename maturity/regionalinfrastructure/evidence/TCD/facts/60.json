@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-09-tcd-tchad-n-djamena-accueille-la-7e-session-du-comite-de-liaison-de-la-dor",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Tchadinfos reports a 2016 N'Djamena ministerial validated the Trans-Saharan fibre backbone linking Chad to Niger, Algeria, Mali, Mauritania and Nigeria, now in implementation by six member countries.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "Trans-Saharan fibre backbone",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Trans-Saharan fibre backbone",
+   "country_label": "Chad",
+   "class": "shared",
+   "platform": "fibre backbone",
+   "owner": "six member states",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -13,6 +13,7 @@ AGO,SADC Shared Satellite Programme,SADC Shared Satellite Programme,other,,SADC,
 BDI,DRC-Burundi fibre-optic interconnection project,Burundi,shared,fibre optic,,,2024-05-15-bdi-abp-memorandum-fibre-rdc-burundi
 BDI,BDIXP,Burundi Internet Exchange Point,other,,,,2026-08-01-burundi-ixp-tracker-bdixp-isoc-pulse
 BDI,Lake Tanganyika Burundi-Zambia fibre cable,Makamba (Burundi) to Northern province (Zambia) cable,shared,submarine fibre,,,2024-10-07-zmb-burundi-zambia-agree-underwater-fibre-connection
+BDI,COMESA electronic certificate of origin platform,Burundi,other,,COMESA,,2026-11-11-bdi-paperless-comesa-trade-certificates
 BEN,Customs Declaration Exchange System (CDES),CDES,other,,Benin and Nigeria customs administrations,customs,2026-09-15-wearetech-benin-nigeria-douanes-interconnexion
 BEN,Customs Webb,Customs Webb,other,,Benin customs,customs,2026-09-15-wearetech-benin-nigeria-douanes-interconnexion
 BEN,Système d'information policière d'Afrique de l'Ouest (SIPAO),SIPAO,other,,"ECOWAS, with Interpol support and EU funding",police,2025-10-02-afis-empreintes-digitales-sipao-cedeao
@@ -362,6 +363,7 @@ TCD,Libya-Chad fibre-optic link,Libya-Chad,other,fibre,,,2026-10-20-tcd-tlcommun
 TCD,N'Djamena-Cameroon link,Chad,shared,fibre,Government of Chad,,2026-03-19-tcd-project-to-modernize-ict-electronic-communication-infrastructure-to-ac
 TCD,"Trans-Saharan Backbone Project, Chad-Niger link",Chad,shared,fibre,Government of Chad,,2026-03-19-tcd-project-to-modernize-ict-electronic-communication-infrastructure-to-ac
 TCD,Sudat Chad,Chad,other,sole international transit network,,,2024-08-22-tcd-another-outage-shows-challenges-facing-chad-s-internet-infrastructure
+TCD,Trans-Saharan fibre backbone,Chad,shared,fibre backbone,six member states,,2025-12-09-tcd-tchad-n-djamena-accueille-la-7e-session-du-comite-de-liaison-de-la-dor
 TGO,Lagos-to-Accra terrestrial fibre route,"Lagos-Accra via Ghana, Togo, Benin",shared,terrestrial fibre,"CSquared, Phase3, SBIN",,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre
 TGO,TGIX,Togo,other,,,,2026-07-01-isoc-pulse-ixp-tracker-tgix-togo
 TGO,Lome Data Centre,Togo,other,,SIN (state-owned),Tier 3,2026-05-28-st-digital-sin-partenariat-lome-data-centre-cloud-prive
