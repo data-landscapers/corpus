@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-05-civ-the-startup-act-takes-shape-in-cote-divoire",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "ITC says Cote d'Ivoire's Startup Act was adopted in November 2023 and creates a label of merit for start-ups; eligibility criteria and application decrees were still being finalised in March 2024.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "Startup Act",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Startup Act",
+   "country_label": "Cote d'Ivoire",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Digitization",
+   "tiers": ""
+  }
+ ],
+ "note": "Labelling not yet applied: criteria still being formalised."
+}

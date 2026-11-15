@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,startuppolicy,law,coverage,adopted,2026-08-06,DZA-001;DZA-004,,
-DZA,startuppolicy,labelled,coverage,labelled,2026-07,DZA-002;DZA-003;DZA-005,,
+DZA,startuppolicy,law,coverage,adopted,2026-08-06,DZA-001;DZA-004;DZA-010,DZA-012=draft,
+DZA,startuppolicy,labelled,coverage,labelled,2026-07,DZA-002;DZA-003;DZA-005;DZA-007;DZA-008;DZA-009;DZA-011;DZA-013,,
 DZA,startuppolicy,funded,coverage,,,,,nothing found

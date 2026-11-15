@@ -1,0 +1,44 @@
+{
+ "slug": "2025-03-14-nga-nigeria-readies-40m-startup-seed-fund-backed-by-japan",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "Semafor reports the 2022 Nigeria Startup Act is law, with NITDA's director general saying the government is committed to invest in startups under it.",
+   "as_of": "2025-03-14",
+   "date_precision": "day",
+   "system": "Nigeria Startup Act",
+   "class": "startuppolicy"
+  },
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "Semafor reports about 13,000 businesses registered as startups using NITDA's criteria, which gives a three-year income tax exemption and investor tax credits.",
+   "as_of": "2025-03-14",
+   "date_precision": "day",
+   "system": "Nigeria Startup Act",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Startup Act",
+   "country_label": "Nigeria",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  },
+  {
+   "system": "JICA-NSIA $40M startup fund",
+   "country_label": "Nigeria",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "NSIA",
+   "tiers": ""
+  }
+ ],
+ "note": "The $40M fund was only to be signed the following month, so no funded fact."
+}

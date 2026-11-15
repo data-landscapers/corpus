@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-24-tun-tunisias-state-startup-fund-looks-beyond-capital-city-tech-elites",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "funded",
+   "value": "funded",
+   "fact": "The CDC director-general said in a July interview that the CDC had financed 10 investment funds under ANAVA, with 70 Tunisian startups benefiting from financing through the fund of funds and its funds.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "ANAVA",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANAVA",
+   "country_label": "Tunisia",
+   "class": "startuppolicy",
+   "platform": "fund of funds",
+   "owner": "Caisse des Depots et Consignations, managed by Smart Capital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

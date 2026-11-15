@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-06-egy-egypt-ventures-invested-egp-383-mln-over-7-years-to-fuel-startups-grow",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "funded",
+   "value": "funded",
+   "fact": "A Cabinet statement says state-owned Egypt Ventures has invested EGP 383.5 million in 205 startups since 2017, EGP 222.2 million directly and EGP 166.3 million indirectly.",
+   "as_of": "2024-01-06",
+   "date_precision": "day",
+   "system": "Egypt Ventures",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Egypt Ventures",
+   "country_label": "Egypt",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Government of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

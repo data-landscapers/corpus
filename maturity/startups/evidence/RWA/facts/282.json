@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-29-rwa-the-development-bank-of-rwanda-brd-has-through-hanga-ventures-ignite-c",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "funded",
+   "value": "funded",
+   "fact": "The Development Bank of Rwanda says Hanga Ventures Ignite, its early-stage fund under the Rwanda Digital Acceleration Project, has committed over EUR 2 million to 28 homegrown tech startups since April 2025, with over EUR 1 million deployed.",
+   "as_of": "2026-05-29",
+   "date_precision": "day",
+   "system": "Hanga Ventures Ignite",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hanga Ventures Ignite",
+   "country_label": "Hanga Ventures Ignite",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Development Bank of Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

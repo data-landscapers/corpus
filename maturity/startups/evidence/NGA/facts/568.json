@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-03-nga-3-years-on-how-well-has-nigeria-s-startup-act-shaped-the-tech-ecosyste",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "Technext24 says President Buhari signed the Nigeria Startup Act into law on 19 October 2022.",
+   "as_of": "2022-10-19",
+   "date_precision": "day",
+   "system": "Nigeria Startup Act",
+   "class": "startuppolicy"
+  },
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "Technext24 says the Startup Portal reported 12,948 startups registered for labelling under the Act by April 2024.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Nigeria Startup Act",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

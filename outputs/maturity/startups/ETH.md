@@ -2,7 +2,7 @@
 
 ## Startup law and funding
 
-**Law or strategy.** [Africa Legal reports that Ethiopia's Parliament unanimously approved the Startup Proclamation in July 2025](<https://www.africa-legal.com/news/ethiopia-shifts-towards-innovation-driven-economy-with-passage-of-startup-proclamation/122380>). It still had to be published in the Federal Negarit Gazette. The Council of Ministers also had to issue regulations under it. [In November 2026 Minister Tamru said eligible startups would get incentives and support under the ratified proclamation](<https://techreviewafrica.com/news/8212/x>).
+**Law or strategy.** [Africa Legal reports that Ethiopia's Parliament unanimously approved the Startup Proclamation in July 2025](<https://www.africa-legal.com/news/ethiopia-shifts-towards-innovation-driven-economy-with-passage-of-startup-proclamation/122380>). It still had to be published in the Federal Negarit Gazette. The Council of Ministers also had to issue regulations under it. [In November 2026 Minister Tamru said eligible startups would get incentives and support under the ratified proclamation](<https://techreviewafrica.com/news/8212/x>). [The Reporter says the proclamation, ratified on 17 July 2025, gives designated startups five-year tax exemptions](<https://thereportermagazines.com/4121/>).
 
 **Labelling.** No source found since October 2023 says startups are labelled or registered under the proclamation. The nearest held fact is [the minister's statement](<https://techreviewafrica.com/news/8212/x>) that eligible startups would benefit from incentives and support under it.
 

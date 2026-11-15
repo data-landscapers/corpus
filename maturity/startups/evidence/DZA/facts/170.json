@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-26-dza-algerie-les-principales-mesures-importantes-de-la-loi-de-finances-pour",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "Loi 24-08 of 24 November 2024 (Finance Law 2025) grants startups and incubators a transfer-duty exemption and extends incubators' IRG/IBS exemptions by two years, per Deloitte Société d'Avocats.",
+   "as_of": "2024-11-24",
+   "date_precision": "day",
+   "system": "Loi de Finances 2025",
+   "class": "startuppolicy"
+  },
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "Finance Law 2025 exempts registration duties on company-formation deeds for holders of the 'projets innovants' label, per Deloitte Société d'Avocats.",
+   "as_of": "2024-11-24",
+   "date_precision": "day",
+   "system": "Loi de Finances 2025",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

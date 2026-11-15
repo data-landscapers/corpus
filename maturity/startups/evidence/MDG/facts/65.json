@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-12-mdg-pic-3-miary-digital-impulse-linnovation-numerique-a-madagascar",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "funded",
+   "value": "funded",
+   "fact": "Madagascar's PIC 3 project, supported by three ministries, gave each of 43 startups chosen from 271 applications a US$15,000 grant under the Miary Digital programme, 50% already paid, per project coordinator Ladislas Adrien Rakotondrazaka.",
+   "as_of": "2024-10-11",
+   "date_precision": "day",
+   "system": "Miary Digital",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Miary Digital (PIC 3)",
+   "country_label": "Madagascar",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "PIC 3 project, with ministries MEF, MNDPT and MIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-07-uga-inside-the-uganda-startup-policy-journey",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "ecosystem.build reports a 9th draft of the National Startup Policy presented in May 2024 and a private member's Startup Bill introduced in Parliament.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "National Startup Policy",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Startup Policy",
+   "country_label": "Uganda",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Ministry of Trade, Industry and Cooperatives",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

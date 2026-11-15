@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "startuppolicy",
-      "stage": "4",
+      "stage": "5",
       "law": "adopted",
       "labelled": "labelled",
-      "funded": "",
+      "funded": "funded",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-003",
-      "gaps": "No source found since October 2023 says a public fund under the startup law or strategy has financed startups.",
-      "note": "Rebuild 2026-11-13: Law 2018-20 is cited as in force in 2026 (TUN-001) and about 1,400 to 1,450 firms hold the startup label (TUN-003, TUN-005); no fund under the act is shown financing startups, so 4 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "TUN-007;TUN-010;TUN-003",
+      "gaps": "Nothing found says how much ANAVA's funds have invested in startups.",
+      "note": "Stage 4c 2026-11-15: about 1,400 to 1,450 firms hold the label under Law 2018-20 (TUN-003, TUN-005), and ANAVA, the fund of funds under the Startup Tunisia programme (TUN-010), has financed 10 funds through which 70 startups were financed (TUN-007). Every rung is met, so 4 to 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

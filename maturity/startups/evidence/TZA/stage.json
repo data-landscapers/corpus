@@ -9,10 +9,10 @@
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-002;TZA-003",
-      "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-      "note": "Rebuild 2026-11-13: The national startup policy was being formulated in 2025 (TZA-002, TZA-003); Zanzibar's bill is one region and does not carry the country, so the sources are the national rows and 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "TZA-006;TZA-002",
+      "gaps": "No source found says the Start-ups Policy 2026 or any startup law is adopted; in October 2026 the government said none exists yet.",
+      "note": "Stage 4c 2026-11-15: the draft Start-ups Policy 2026 went for government approval in February 2026 (TZA-006) and was still not in force in October 2026 (TZA-005), so 2 holds. The ICTC tiering of start-ups stands under no startup law or strategy and was removed (corrections.csv).",
+      "as_at": "2026-11-15"
     }
   ]
 }

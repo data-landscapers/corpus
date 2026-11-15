@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-07-som-lobbying-legal-framework-for-startups-in-somalia",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "none",
+   "fact": "At an August 2021 Mogadishu roundtable, the Ministry of Commerce and Industry's Director of SMEs and Corporates said there is no government funding for startups and that a Startup Act is still needed.",
+   "as_of": "2021-08-21",
+   "date_precision": "day",
+   "system": "Startup Act",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

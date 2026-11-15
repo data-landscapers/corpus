@@ -9,10 +9,10 @@
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GIN-001",
-      "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-      "note": "Rebuild 2026-11-13: The draft startup law was reviewed in April 2025 (GIN-001) and a founder said in August 2026 no Startup Act exists (GIN-002); a draft without an act is stage 2.",
-      "as_at": "2026-11-13"
+      "stage_sources": "GIN-003;GIN-001",
+      "gaps": "No source found since October 2023 says a startup law or strategy is adopted; in August 2026 a founder said no Startup Act exists.",
+      "note": "Stage 4c 2026-11-15: in July 2026 the startup alliance urged passage of the draft Startup Act (GIN-003), pre-validated in April 2025 (GIN-004), and none is adopted, so 2 holds.",
+      "as_at": "2026-11-15"
     }
   ]
 }

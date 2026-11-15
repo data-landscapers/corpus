@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-08-tun-rim-saied-la-tunisie-dispose-d-enormes-moyens-pour-la-creation-de-star",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "Smart Tunisian Technoparks CEO Rim Saied says 1,133 companies held the startup label by end October 2024.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Startup label",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Startup label",
+   "country_label": "Tunisia",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

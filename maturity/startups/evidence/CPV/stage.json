@@ -9,10 +9,10 @@
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-001",
-      "gaps": "No source found since October 2023 says startups are labelled or registered under a startup law or strategy.",
-      "note": "Rebuild 2026-11-13: The secretary of state said in May 2025 that a startup law with tax benefits exists (CPV-001); state funding of startups is not tied to that law and no labelling is shown, so 3 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "CPV-001;CPV-003",
+      "gaps": "No source found since October 2023 says startups are labelled or registered under the startup law; Fundo Morabeza is not shown set up under it.",
+      "note": "Stage 4c 2026-11-15: a 2026 finance ministry deck restates Law 70/VIII/2014's startup incentives and the budget's startup tax rate (CPV-003, CPV-004), a measure set rather than shown applied to labelled startups. Fundo Morabeza funded 1,774 small firms (CPV-006) but not under the law, so 3 holds.",
+      "as_at": "2026-11-15"
     }
   ]
 }

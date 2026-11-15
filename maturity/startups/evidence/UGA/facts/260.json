@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-26-uga-startup-uganda-technical-review-of-the-national-startup-act",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "Startup Uganda says the National Startup Act was under technical review at the trade ministry and advancing towards Cabinet, with the Attorney General's office and education ministry having reviewed the policy favourably.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National Startup Act",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Startup Act",
+   "country_label": "Uganda",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Ministry of Trade, Industry and Cooperatives",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

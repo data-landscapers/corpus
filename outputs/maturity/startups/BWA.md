@@ -6,7 +6,7 @@
 
 **Labelling.** No source found since October 2023 says startups are labelled or registered under a startup law or strategy. The nearest held fact: [by February 2025 the Botswana Innovation Fund had financed a startup](<https://dailynews.gov.bw/news-detail/84714>).
 
-**Funded.** [By February 2025 the Botswana Digital and Innovation Hub had financed startup IoT Communications through the Botswana Innovation Fund](<https://dailynews.gov.bw/news-detail/84714>). [The founder put the financing at P1 million](<https://dailynews.gov.bw/news-detail/84714>).
+**Funded.** [By February 2025 the Botswana Digital and Innovation Hub had financed startup IoT Communications through the Botswana Innovation Fund](<https://dailynews.gov.bw/news-detail/84714>). [The founder put the financing at P1 million](<https://dailynews.gov.bw/news-detail/84714>). [In April 2024 the hub's acting CEO said the fund gives startups seed money, and some funded projects had reached the market](<https://www.bwtechzone.com/2024/04/in-conversation-diane-mongudi-acting.html>).
 
 ***Also on file***. [Botswana Innovation Fund](<https://dailynews.gov.bw/news-detail/70471>).
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-15-dza-startups-plus-de-100-000-demandes-de-labellisation-enregistrees-sur-la",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "Algeria's national labelling committee, chaired by the ministry's startups director Chamseddine Benmoussat, awards the startup label, with about 15% of over 100,000 applications on start-up.dz obtaining it.",
+   "as_of": "2026-03-14",
+   "date_precision": "day",
+   "system": "Comite national de labellisation / start-up.dz",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "start-up.dz",
+   "country_label": "Algeria",
+   "class": "startuppolicy",
+   "platform": "start-up.dz online platform",
+   "owner": "Ministry of Knowledge Economy, Startups and Micro-enterprises",
+   "tiers": "four labels: innovative project, start-up, incubator, scale-up"
+  }
+ ],
+ "note": ""
+}

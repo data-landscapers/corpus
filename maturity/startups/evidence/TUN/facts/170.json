@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-15-tun-anava-fund-of-funds-investit-4-millions-de-dollars-dans-rasmal-innovat",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "funded",
+   "value": "funded",
+   "fact": "ANAVA, Tunisia's fund of funds backed by the World Bank, CDC and KfW and run by Smart Capital under the government's Startup Tunisia programme, committed USD 4 million to the Rasmal Innovation Fund, a venture fund investing in startups.",
+   "as_of": "2025-09-15",
+   "date_precision": "day",
+   "system": "ANAVA Fund of Funds",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANAVA Fund of Funds",
+   "country_label": "Tunisia",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Smart Capital (mandated by the Tunisian government)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

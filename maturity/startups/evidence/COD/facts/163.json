@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-10-cod-startups-in-dr-congo-are-building-africa-s-overlooked-digital-frontier",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "TechCabal says a 2022 ordinance, the Congolese equivalent of a Startup Act, created a framework for promoting and labelling startups.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "2022 start-up ordinance",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": "No labelling fact: the minister says no startup is officially recognised yet."
+}

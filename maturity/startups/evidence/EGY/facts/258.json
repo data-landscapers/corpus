@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-16-egy-mp-calls-for-startup-law-61-firms-classified-under-startup-charter",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "MP Ashraf Marzouk says the MSMEDA had officially approved the classification of 61 companies since the Startup Charter was launched, handing certificates to 25 at its first participatory meeting.",
+   "as_of": "2026-05-16",
+   "date_precision": "day",
+   "system": "Startup Charter",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Startup Charter",
+   "country_label": "Egypt",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "MSMEDA and Cabinet",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

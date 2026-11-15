@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-04-zmb-artificial-intelligence-strategy-to-be-launched-on-independence-day",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "Minister Felix Mutati said the government is working on a Start Up Bill that will seek to create a Venture Capital Fund for start-ups.",
+   "as_of": "2024-07-04",
+   "date_precision": "day",
+   "system": "Start Up Bill",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Start Up Bill",
+   "country_label": "Zambia",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Ministry of Technology and Science",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

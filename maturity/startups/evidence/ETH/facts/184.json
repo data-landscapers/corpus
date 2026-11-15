@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-07-eth-startup-proclamation-promises-to-pave-way-for-a-win-in-high-risk-high",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "The Reporter Magazine says Parliament ratified the Startup Proclamation on 17 July 2025, creating a legal category for startups with five-year tax exemptions for designated startups.",
+   "as_of": "2025-07-17",
+   "date_precision": "day",
+   "system": "Startup Proclamation",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Startup Proclamation",
+   "country_label": "Ethiopia",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Parliament",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Startup Portal",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

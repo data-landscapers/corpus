@@ -9,10 +9,10 @@
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-001",
-      "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-      "note": "Rebuild 2026-11-13: The Council of Ministers approved the startup bill in 2023 and it awaits ratification (TGO-001), so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "TGO-002;TGO-003",
+      "gaps": "No source found since October 2023 says a startup law or strategy is adopted; in May 2026 the innovation ecosystem bill was still to be adopted.",
+      "note": "Stage 4c 2026-11-15: the minister called the Startup Act in adoption in October 2025 (TGO-003) and a deputy wrote in May 2026 that the bill was about to be adopted (TGO-002). Nothing adopted is shown, so 2 holds.",
+      "as_at": "2026-11-15"
     }
   ]
 }

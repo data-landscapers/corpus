@@ -9,10 +9,10 @@
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CMR-003",
-      "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-      "note": "Rebuild 2026-11-13: The startup law has been in preparation since 2021 (CMR-003, November 2023); the October 2023 tax-code reading falls outside the three years, so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "CMR-004;CMR-003",
+      "gaps": "No source found since October 2023 says a startup law or strategy is adopted.",
+      "note": "Stage 4c 2026-11-15: in March 2025 the Startup Act was still proposed and not adopted (CMR-004), the draft in preparation since 2021 (CMR-003), so 2 holds.",
+      "as_at": "2026-11-15"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Tech startup ecosystem: startup law and funding
 
-*As at 2026-11-13.*
+*As at 2026-11-15.*
 
 ## The norm
 
@@ -20,15 +20,23 @@ The Digital Transformation Strategy and the AU Startup Model Law Framework ask f
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
-| 4 Operating | 7 |
+| 5 Leading | 1 |
+| 4 Operating | 6 |
 | 3 Established | 10 |
 | 2 Nascent | 18 |
-| 1 Absent | 2 |
+| 1 Absent | 3 |
 | Unplaced | 4 |
-| No evidence | 13 |
+| No evidence | 12 |
 
 ## Countries
+
+### Tunisia: 5 Leading
+
+About 1,400 startups held the label in 2026 and the state fund of funds had financed 70 through its funds; sums invested are not known.
+
+- The CDC director-general said in a July interview that the CDC had financed 10 investment funds under ANAVA, with 70 Tunisian startups benefiting from financing through the fund of funds and its funds ([source, 2026-07](https://launchbaseafrica.com/2026/09/24/tunisia-startup-fund/)).
+- ANAVA, Tunisia's fund of funds backed by the World Bank, CDC and KfW and run by Smart Capital under the government's Startup Tunisia programme, committed USD 4 million to the Rasmal Innovation Fund, a venture fund investing in startups ([source, 2025-09-15](https://smartcapital.tn/?p=1848)).
+- The column cites 1,450 labelled startups in Tunisia ([source, 2026-03-13](https://www.leconomistemaghrebin.com/2026/03/13/lia-au-service-de-la-tunisie-les-conditions-dune-adoption-reussie/)).
 
 ### Algeria: 4 Operating
 
@@ -72,12 +80,6 @@ Nigeria's 2022 Startup Act is in force and labels startups; no investment by its
 - NITDA inaugurated a Startup Labelling Committee in July 2024 to implement the Nigeria Startup Act, which it says is in force and grants labelled startups its benefits ([source, 2024-07-05](https://nitda.gov.ng/nitda-dg-inaugurates-startup-labelling-committee-for-implementation-of-nigeria-startup-act/8254/)).
 - NAN reports the Startup Consultative Forum's membership includes labelled startups, and that certified startups get access to incentives under the Act ([source, 2025-04-29](https://nannews.ng/nitda-inaugurates-startup-consultative-forum-assures-implementation-of-nsa/)).
 
-### Tunisia: 4 Operating
-
-Startups were labelled under the startup law or strategy in 2026; no source found reports a public fund under it.
-
-- The column cites 1,450 labelled startups in Tunisia ([source, 2026-03-13](https://www.leconomistemaghrebin.com/2026/03/13/lia-au-service-de-la-tunisie-les-conditions-dune-adoption-reussie/)).
-
 ### Angola: 3 Established
 
 A startup law or strategy was adopted by 2026; startups labelled under it are not on record.
@@ -86,9 +88,10 @@ A startup law or strategy was adopted by 2026; startups labelled under it are no
 
 ### Cape Verde: 3 Established
 
-A startup law with tax benefits was in place in 2025 and a public fund backs startups; startups labelled under it are not known.
+A startup law with tax benefits was restated in 2026; startups labelled under it, and a fund set up under it, are not known.
 
 - Secretary of State Pedro Lopes said Cape Verde has a dedicated start-up law with tax benefits ([source, 2025-05](https://www.wearetech.africa/en/fils-uk/news/public-management/cape-verde-ramps-up-digital-start-up-ecosystem-to-boost-economy)).
+- The Ministry of Finance (DGCI) deck says startups benefit from financial incentives, skills support and other institutional support provided in Law 70/VIII/2014 of 26 August ([source, 2026](https://www.mf.gov.cv/documents/20126/0/Incentivos+Fiscais+do+Or%C3%A7amento+do+Estado+2026+%C3%A0+Di%C3%A1spora+Cabo-verdiana.pdf/77cb6457-8ea4-6d65-a08b-48f436baf849?t=1772281368148)).
 
 ### Congo: 3 Established
 
@@ -152,8 +155,9 @@ A startup law or strategy was being prepared in 2025; none adopted is on record.
 
 ### Cameroon: 2 Nascent
 
-A startup law or strategy was being prepared in 2023; none adopted is on record.
+A startup law was still being prepared in 2025; none adopted is on record.
 
+- The Nkafu Policy Institute paper says a Startup Act is proposed in Cameroon but has not yet been adopted or implemented ([source, 2025-03-25](https://nkafu.org/unlocking-the-potential-of-cameroons-startup-ecosystem/)).
 - The Nkafu Policy Institute brief says Cameroon has not adopted a Startup Act but that a startup law has been in preparation since July 2021 at the Ministry in charge of Telecommunications, its elements not publicly available ([source, 2023-11](https://nkafu.org/wp-content/uploads/2023/12/SBEC-Report-english-Oct-2023-final-1.pdf)).
 
 ### Central African Republic: 2 Nascent
@@ -189,16 +193,17 @@ A startup law or strategy was being prepared in 2026; none adopted is on record.
 
 ### Guinea: 2 Nascent
 
-A startup law or strategy was being prepared in 2025; none adopted is on record.
+A startup law was still a draft bill in 2026; none adopted is on record.
 
+- Guinee Alliance Startup reminds the authorities of the urgency of getting the draft Startup Act bill ('projet de loi Startup Act') passed ([source, 2026-07](https://fr.linkedin.com/posts/guinee-alliance-startup_l%C3%A9cosyst%C3%A8me-startup-au-c%C5%93ur-de-la-future-activity-7478024722543349763-xQOy)).
 - The Ministry of Commerce, Industry and SMEs of Guinea says its Secretary General chaired a review session on the draft startup law on 29 April 2025, with the higher education and posts and telecommunications ministries ([source, 2025-04-29](https://www.mipme.gov.gn/seance-de-relecture-du-projet-de-loi-sur-les-startups/)).
 
 ### Kenya: 2 Nascent
 
-A startup law or strategy was being prepared in 2024; none adopted is on record.
+A startup bill was in mediation between the two houses of Parliament in 2026; none adopted is on record.
 
-- KeNIA's Kenya Innovation Outlook 2024 says the Startup Bill has been in parliamentary debate since 2021 and is not yet approved or enacted, and that the government missed its April 2024 enactment target ([source, 2024](https://kenia.go.ke/storage/pub-docs/ken_pub_Kenya%20Innovation%20Outlook%20Report%202024.pdf)).
-- The State Department for MSMEs Development posts the text of a Start-up Bill, 2024, which would make Kenya Industrial Estates the body that labels start-ups, incubators and accelerators and would provide tax reliefs and funds for start-ups; the text is a bill, not an enacted act ([source, 2024](https://msme.go.ke/sites/default/files/Resource%20Center/Acts%20and%20Regulations/Start-up%20Bill%202024.pdf)).
+- The Senate Bills Tracker as at 29 May 2026, reported by Hackhouse, shows Kenya's Startup Bill (Senate Bill No. 14 of 2022) in a mediation committee after the Senate rejected National Assembly amendments on 23 July 2025; it is not law ([source, 2026-05-29](https://newsroom.hackhouse.africa/role-of-government-africas-startup-ecosystem)).
+- Nairobi Business Monthly reports the National Assembly passed the Startup Bill 2022, which awaits presidential assent ([source, 2025-01-21](https://nairobibusinessmonthly.com/mps-pass-startup-bill-to-support-innovation/)).
 
 ### Malawi: 2 Nascent
 
@@ -227,16 +232,17 @@ A startup ecosystem policy was at validation in 2026 and a startup act is expect
 
 ### Tanzania: 2 Nascent
 
-Tanzania began drafting a national startup policy in 2024 and consulted on it in 2025; no adopted startup law or strategy has been found.
+Tanzania's draft startup policy went for government approval in February 2026; it was not adopted by October 2026.
 
+- The ministry's 100-day report says the draft Start-ups Policy 2026 has been finalised and submitted for government approval ([source, 2026-02-16](https://dailynews.co.tz/govt-accelerates-digital-revolution-in-100-days/)).
 - The government has begun formulating Tanzania's first national startup policy through a consultative process and baseline study, The Citizen reports ([source, 2025-03-15](https://www.thecitizen.co.tz/tanzania/news/national/government-kicks-off-consultations-for-tanzania-s-first-startup-policy-4966048)).
-- The Tanzania Startup Association reports that in 2024 Tanzania advanced preparations for its first National Startup Policy, coordinated by the Ministry of Communications and Information Technology, with the drafting phase under way and consultations still to begin ([source, 2024](https://tsa.co.tz/storage/documents/w9Fsk1RQDCUKtfNiUXxOGijbCajKBHeuB8SNKwxx.pdf)).
 
 ### Togo: 2 Nascent
 
-A startup law or strategy was being prepared in 2023; none adopted is on record.
+A startup bill approved by the cabinet in 2023 was still awaiting adoption in 2026; no startup law or strategy adopted is known.
 
-- African Business reports that Togo's startup legislation was approved by the Council of Ministers in 2023 and has yet to be ratified ([source, 2023](https://african.business/2026/03/innov-africa-deals/togos-quiet-rise-as-a-startup-contender)).
+- Opposition deputy Brigitte Adjamagbo-Johnson writes that Togo is about to adopt a bill on the innovation ecosystem, which provides a labelling mechanism, tax advantages and a support fund for labelled firms ([source, 2026-05-25](https://togoactualite.com/projet-de-loi-sur-linnovation-au-togo-une-ambition-necessaire-mais-un-texte-qui-nest-pas-a-la-hauteur-des-enjeux/)).
+- Minister Cina Lawson described the Togolese Startup Act as currently being adopted, with a national promotion programme, regulatory sandboxes, official incubator labels, a support fund for labelled firms (FSEL) and a national startup registry ([source, 2025-10-29](https://togo-today.com/grit-lome-fait-vibrer-la-tech-africaine/)).
 
 ### Uganda: 2 Nascent
 
@@ -269,6 +275,12 @@ A 2023 strategy found no startup law or act; a 2025 tax exemption for new firms 
 
 - UNCTAD's Seychelles National Entrepreneurship Strategy says there is no stand-alone Entrepreneurship Policy or Act and proposes only to consider introducing a Start-Up Act defining innovative start-ups ([source, 2023](https://unctad.org/system/files/official-document/tcsdiaeinf2023d2_en.pdf)).
 
+### Somalia: 1 Absent
+
+Somalia had no startup law or legal definition of a startup in 2026; no bill or strategy being prepared is known.
+
+- Ibrahim Isse Abdulle writes that Somalia currently lacks a formal legal definition of startup enterprises and proposes a National Startup Act ([source, 2026-04-07](https://somalistream.com/somalias-road-to-a-startup-nation-building-a-national-innovation-ecosystem/)).
+
 ### Botswana: Unplaced
 
 A public innovation fund financed a startup in 2025, but no startup law or strategy since October 2023 is known, so no stage is set.
@@ -291,7 +303,7 @@ Not established: Nothing found since October 2023 says whether a startup law or 
 
 A public fund backed about 96 firms by 2025, but no startup law or strategy since October 2023 is known, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.
+Not established: No source found says a startup bill is drafted or tabled, or a startup strategy prepared or adopted; the Innovation Fund stands under none.
 
 ### Burundi: No evidence
 
@@ -348,12 +360,6 @@ Nothing found names a startup law or strategy or says there is none, so no stage
 Not established: Nothing found says what the state does for tech startups.
 
 ### Niger: No evidence
-
-Nothing found names a startup law or strategy or says there is none, so no stage is set.
-
-Not established: Nothing found says what the state does for tech startups.
-
-### Somalia: No evidence
 
 Nothing found names a startup law or strategy or says there is none, so no stage is set.
 

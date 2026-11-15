@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-05-tun-1214-startups-labellisees-a-fin-juillet-2025",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "El Ghazala Technopark's Monia Jendoubi told national radio that 1214 startups held the startup label up to July 2025, with 8-year tax exemption, grant eligibility and a foreign-currency account.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Startup label",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Startup label",
+   "country_label": "Tunisia",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

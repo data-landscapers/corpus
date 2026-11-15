@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-12-mar-how-morocco-unlocked-private-capital-for-startups",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "funded",
+   "value": "funded",
+   "fact": "The World Bank says InnovInvest, with US$50 million of its financing, had the state agency Tamwilcom invest alongside private investors in four venture capital funds, mobilising over US$70 million of private capital and supporting nearly 1,000 entrepreneurs.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "InnovInvest",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "InnovInvest",
+   "country_label": "Morocco",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Tamwilcom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

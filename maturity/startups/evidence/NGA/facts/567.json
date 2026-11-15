@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-21-nga-the-nigeria-startup-act",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "Goldsmiths LLP says the Nigeria Startup Act 2022 was signed into law in October 2022.",
+   "as_of": "2022-10",
+   "date_precision": "month",
+   "system": "Nigeria Startup Act",
+   "class": "startuppolicy"
+  },
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "Goldsmiths LLP says the Startup Portal opened in November 2023 for labelling and tens of thousands of startups have registered, though registration is a first step rather than the label.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Nigeria Startup Act, Startup Label",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": "Seed fund is stated as not delivered, so no funded fact."
+}

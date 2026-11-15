@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-01-eth-strengthening-ethiopia-s-startup-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "GIZ states Ethiopia ratified its first Startup Proclamation in July 2025, recognising startups under a dedicated regulatory framework.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Startup Proclamation",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Startup Proclamation",
+   "country_label": "Ethiopia",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Ministry of Innovation and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": "No statement that startups have been labelled or that a fund has financed them."
+}

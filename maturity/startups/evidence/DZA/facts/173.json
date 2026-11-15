@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-dza-kick-start-2025-startups-incubation-program",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "The page says the ministry's Innovative Project label is held by project holders eligible for the programme, which also helps them file for the ministry's startup label.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Innovative Project label",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

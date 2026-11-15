@@ -1,24 +1,39 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Proposta de Lei das Startups,Angola,startuppolicy,,Assembleia Nacional,,2026-03-19-proposta-de-lei-das-startups-aprovada-na-generalidade
+AGO,Angola Startup Act,Angola,startuppolicy,,INAPEM,,2024-10-24-ago-606328-angola-startup-policy-and-regulatory-project
 BDI,Agence de Développement du Burundi (ADB),Burundi,,,,,2025-12-18-worldbank-govtech-dataset-dec2025
 BEN,FAEN,Benin,startuppolicy,,BIIC and ADPME,national,2025-10-02-biic-bank-faen-lancement-operationnel
 BEN,Label start-up (Décret n° 2023-095),Benin,startuppolicy,online application to the technical labelling committee,Ministry of Digital Affairs,,2023-03-22-sgg-decret-2023-095-label-startup
+BEN,Startup Label,Benin,startuppolicy,,Ministry of Digital Affairs and Digitalisation,,2024-06-28-ben-octroi-du-label-startup-aux-mpme-du-benin-le-comite-technique-de-label
 BWA,Botswana Innovation Fund,Botswana,other,,Botswana Digital and Innovation Hub,,2022-11-30-bwa-dailynews-bdih-smartbots-start-up-capital
 BWA,Botswana Innovation Fund,Botswana,startuppolicy,,Botswana Digital and Innovation Hub,,2025-02-19-bwa-dailynews-government-to-enable-innovators
 BWA,SmartBots Strategy,Botswana,,,,,2025-12-18-worldbank-govtech-dataset-dec2025
+BWA,Botswana Tech Fund,Botswana,other,,,,2026-10-07-bwa-botswana-tech-fund-announces-first-cohort-of-accelerator-program
+BWA,Botswana Innovation Fund,Botswana,startuppolicy,,Botswana Digital & Innovation Hub,,2024-04-19-bwa-in-conversation-diane-mongudi-acting-ceo-botswana-digital-innovation-h
 CAF,Agence centrafricaine de développement du digital,République centrafricaine,other,,Government,,2024-04-05-afdb-centre-formation-digitale-bangui
 CIV,Loi n° 2023-901 du 23 novembre 2023 portant promotion des startups numériques,Cote d'Ivoire,startuppolicy,,,,2025-12-18-worldbank-govtech-dataset-dec2025
+CIV,Startup Act (Loi n° 2023-901),CIV,startuppolicy,,Government of Cote d'Ivoire,,2026-08-10-civ-cote-divoire-la-startup-act-entre-dans-sa-phase-operationnelle
+CIV,Loi sur la promotion des startups numeriques,Cote d'Ivoire,startuppolicy,,Government,,2025-07-10-civ-cote-divoire-aip-ivoire-tech-forum-un-fonds-ivoirien-de-linnovation-te
+CIV,Startup Act,Cote d'Ivoire,startuppolicy,,Ministry of Digital Transition and Digitization,,2024-06-05-civ-the-startup-act-takes-shape-in-cote-divoire
+CIV,Label Startup numérique,Côte d'Ivoire,startuppolicy,,Ministry of Digital Economy,"pre-label (1 year), label (up to 5 years)",2023-11-23-civ-loi-n-2023-901-du-23-novembre-2023-portant-promotion-des-startups-nume
 CMR,General Tax Code innovative start-up incentives,Cameroon,startuppolicy,,Ministry of Finance,incubation phase 0-5 years; operational phase 5-10 years,2023-10-13-cmr-dayspring-tax-incentives-innovative-startups
 COD,Startup Act,DRC,startuppolicy,,Government / ANADEC,,2026-08-04-drc-digital-sector-constraints-startup-decree
 COD,Startup Act,DRC,startuppolicy,,Government of DRC,,2026-08-02-drc-communique-finances-surseance-arrete-015-startups
 COD,Ordonnance-loi n°22/030,DRC,startuppolicy,,,,2026-08-02-drc-government-suspends-new-digital-tax-schedule
 COD,Ordonnance-loi n° 22/030 du 8 septembre 2022 (promotion de l'entreprenariat et des startups),DR Congo,startuppolicy,,,,2025-12-18-worldbank-govtech-dataset-dec2025
+COD,Startup Act (ordonnance-loi 22/030),Democratic Republic of the Congo,startuppolicy,,Ministry of Industry and SMEs,,2025-05-29-cod-entrepreneuriat-des-decrets-pour-activer-le-soutien-aux-startups-en-rd
 CPV,BOOST.CV,Cabo Verde,other,,"Government, World Bank financed, run by Djassi Africa",,2025-06-27-cpv-mindelinsite-boost-cv-santo-antao-sao-vicente
+CPV,Startup Jovem 100% Garantia,Cabo Verde,other,,Government of Cabo Verde / Pro Empresa,,2025-04-09-cpv-startup-jovem-100-garantia
+CPV,BOOST.CV,Cabo Verde,other,,Government of Cabo Verde,,2025-08-20-cpv-boost-cv-acolhe-57-startups-cabo-verdianas-no-lancamento-dos-grupos-1
+CPV,Fundo Morabeza,CPV,startuppolicy,,Government of Cabo Verde,"grants, concessional credit, venture capital",2025-06-04-cpv-governo-anuncia-fundo-morabeza-de-24-milhoes-de-dolares-para-impulsion
+CPV,Cabo Verde Technology Park,Cabo Verde,other,,government,,2025-01-29-cpv-governo-vai-preparar-programa-para-atrair-startups-internacionais
+CPV,Fundo Morabeza (Morabeza Innovation Project),Cabo Verde,startuppolicy,,"Government of Cabo Verde, co-financed by the African Development Bank",,2026-04-01-cpv-mip-fundo-morabeza
 DJI,Startup Act Djibouti,Djibouti,startuppolicy,,Ministry Delegate for the Digital Economy and Innovation,,2025-11-14-startup-act-djibouti-wearetech
 DJI,Startup Act,Djibouti,startuppolicy,,,,2026-09-01-djibouti-ia-ecosysteme-national-interview-assoweh
 DJI,Djibouti Startup Act,Djibouti Startup Act,startuppolicy,,Government of Djibouti,,2026-01-01-dji-djibouti-global-hub
 DZA,startup.dz,Algeria,startuppolicy,official portal,,certified startups,2026-02-03-waives-ipo-fees-startups-until-2028--wearetech
 DZA,Algerian Startup Fund,Algerian Startup Fund (ASF),startuppolicy,,State,,2025-12-12-dza-algeria-s-public-startup-fund-scores-first-exit-as-travel-tech-volz-ra
+DZA,start-up.dz,Algeria,startuppolicy,start-up.dz online platform,"Ministry of Knowledge Economy, Startups and Micro-enterprises","four labels: innovative project, start-up, incubator, scale-up",2026-03-15-dza-startups-plus-de-100-000-demandes-de-labellisation-enregistrees-sur-la
 EGY,National Startup Charter,Egypt,startuppolicy,,Government of Egypt,,2026-02-18-egy-clydeco-national-startup-charter
 EGY,Egypt Startup Charter,Egypt,startuppolicy,,"Ministry of Planning, Economic Development and International Cooperation",,2026-02-08-egy-mped-startup-charter-policies-procedures
 EGY,Egypt's Startup Charter,Egypt,startuppolicy,,Ministerial Group for Entrepreneurship,,2026-02-07-egy-moic-egypt-startup-charter-launch
@@ -26,19 +41,33 @@ EGY,National Startup Charter,Egypt,startuppolicy,,Ministerial Group for Entrepre
 EGY,Egypt Ventures,Egypt,startuppolicy,,Government,sovereign VC,2026-01-01-egy-itida-startup-ecosystem-report-2026
 EGY,MSMEDA Fund of Funds,Egypt,startuppolicy,,MSMEDA,fund of funds,2026-01-01-egy-itida-startup-ecosystem-report-2026
 EGY,Egypt National Artificial Intelligence Strategy,Egypt,other,,National Council for Artificial Intelligence / MCIT,,2021-01-01-egypt-national-artificial-intelligence-strategy
+EGY,Egypt Ventures,Egypt,startuppolicy,,Government of Egypt,,2024-01-06-egy-egypt-ventures-invested-egp-383-mln-over-7-years-to-fuel-startups-grow
+EGY,Startup Charter,Egypt,startuppolicy,,MSMEDA and Cabinet,,2026-05-16-egy-mp-calls-for-startup-law-61-firms-classified-under-startup-charter
 ETH,timbuktoo Ethiopia,Ethiopia,other,,UNDP,,2024-01-01-undp-eth-timbuktoo-2024-timbuktoo-ethiopia---pan-african-start-up-and
 ETH,Startup Proclamation,Startup Proclamation,startuppolicy,,House of Peoples' Representatives,,2025-07-01-eth-africa-legal-startup-proclamation-passage
 ETH,Proclamation To Provide For Start-Up Businesses,Ethiopia,startuppolicy,,,,2026-11-10-africa-technology-policy-tracker-2026-11-10
+ETH,Startup Proclamation,Ethiopia,startuppolicy,,Ministry of Innovation and Technology,,2026-03-01-eth-strengthening-ethiopia-s-startup-ecosystem
+ETH,Startup Proclamation,Ethiopia,startuppolicy,,Parliament,,2025-09-07-eth-startup-proclamation-promises-to-pave-way-for-a-win-in-high-risk-high
+ETH,Digital Startup Portal,Ethiopia,other,,,,2025-09-07-eth-startup-proclamation-promises-to-pave-way-for-a-win-in-high-risk-high
 GHA,Innovation and Startup legislative framework,Ghana,startuppolicy,,"Ministry of Communication, Digital Technology and Innovations",,2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects
 GHA,Ghana Innovation & Startups Act,Ghana,startuppolicy,,,,2025-12-18-worldbank-govtech-dataset-dec2025
+GHA,Ghana Digital Innovation Fund,Ghana,other,,Ghana Digital Centres Limited,,2025-10-05-gha-parliament-s-select-committee-on-communications-innovations-visits-gha
 GIN,Loi portant sur les startups,Guinea,startuppolicy,,,,2025-12-18-worldbank-govtech-dataset-dec2025
+GNB,Programa de Fomento do Empreendedorismo Digital,Guinea-Bissau,other,,Innovalab with WARDIP (World Bank),,2026-03-04-gnb-apos-um-processo-rigoroso-foram-oficialmente-selecionados-os-30-projet
 KEN,Startup Bill,Kenya,startuppolicy,,Parliament of Kenya,,2024-01-01-ken-kenia-kenya-innovation-outlook-2024
 KEN,"Start-up Bill, 2024",Kenya,startuppolicy,,State Department for MSMEs Development; Kenya Industrial Estates as labelling institution,start-up maturity framework tiers,2024-01-01-ken-msme-start-up-bill-2024
 KEN,"Startup Bill, 2022",Kenya,startuppolicy,,Senate of Kenya; Kenya National Innovation Agency as registrar,,2022-12-30-ken-senate-startup-bill-2022
+KEN,Startup Bill 2022,Kenya,startuppolicy,,National Assembly,,2025-01-21-ken-mps-pass-startup-bill-to-support-innovation-empower-entrepreneurs
 LBY,Sunduq Intilaqa,Libya,startuppolicy,,Council of Ministers,,2025-01-23-qarar-23-lisanat-2025-sunduq-intilaqa-sharikat-al-ibtikar-al-nashia
 LBY,Libya Startup Programme,Libya Startup Programme,other,,"European Union, co-implemented by SPARK and Super Novae",,2025-07-09-lby-spark-smart-tech-seed-funding
+LBY,Tripoli Business Hub,Libya,other,,Municipality of Tripoli Centre,,2025-08-10-lby-municipality-led-tripoli-business-hub-open-to-fuel-local-economic-grow
+LSO,Lesotho Entrepreneurship Hub & Seed Financing Facility,Lesotho,startuppolicy,,Government of Lesotho CAFI Project (World Bank IDA),,2024-03-18-lso-10-enterprises-awarded-more-than-m130k-seed-funding
 MAR,Startup Catalytic Fund,Morocco,startuppolicy,,Ministry of Digital Transition and Administration Reform; managed by Tamwilcom,,2026-09-14-mar-moroccopost-startup-catalytic-fund-258m
 MAR,Fonds Catalytique Startups,Morocco,startuppolicy,,Tamwilcom,,2026-09-10-mar-librentreprise-tamwilcom-347-mdh-startups
+MAR,InnovInvest,Morocco,startuppolicy,,Tamwilcom,,2026-10-12-mar-how-morocco-unlocked-private-capital-for-startups
+MAR,Fonds Innov Invest,Morocco,startuppolicy,,TAMWILCOM for the Ministry of Economy and Finance,,2026-09-17-mar-communique-de-presse-celebration-des-resultats-du-fonds-innov-invest
+MAR,Startup Venture Building,Morocco,startuppolicy,,Ministry of Digital Transition with Tamwilcom,"life grant, incubation grant, honour loan, seed loan",2025-12-17-mar-rabat-lancement-officiel-du-deploiement-de-l-offre-startup-venture-bui
+MAR,dispositif catalytique de soutien aux fonds startups,Maroc,other,,"Ministry of Digital Transition with FM6I, CDG and TAMWILCOM",,2025-11-21-mar-fonds-startups-un-mecanisme-inedit-pour-booster-l-innovation
 MDG,Miary Digital,Madagascar,startuppolicy,incubation and grant programme,"Government of Madagascar (MEF, MIC, MNDPT) with World Bank, via PIC project",,2026-01-08-miary-digital-cohort-2-grants
 MLI,Orange Corners Innovation Fund (OCIF) Mali,Mali,other,,"JIDIIYA FUND consortium (Zira Capital, ForthInvestment, F&S Consulting), Orange Corners (Kingdom of the Netherlands)",,2025-11-01-orange-corners-mli-2025-ocif-mali-launch
 MOZ,PTED tech-hub,PTED,other,,"Ministry of Science, Technology and Higher Education",,2023-12-06-iati-xm-dac-6-4-012525-01-1-digit-support-to-the-strategic-plan-for-the-information-soci
@@ -46,8 +75,11 @@ MOZ,PTED tech-hub,PTED,other,,"Ministry of Science, Technology and Higher Educat
 MRT,Loi n° 2024-002 P.R,Mauritanie,startuppolicy,,MTNIMA,,2024-01-02-mauritania-loi-de-startup-ministry-page
 MRT,Law No. 2024-002 on technological and innovative startups,Mauritania,startuppolicy,,State of Mauritania,,2026-09-25-mrt-webmanagercenter-fintech-regional-lab
 MRT,Law No. 2024-002 Relating to Technological and Innovative Startups,Mauritania,startuppolicy,,,,2026-11-10-africa-technology-policy-tracker-2026-11-10
+MRT,Startup ACT Mauritanie,Mauritania,startuppolicy,,"Ministry of Digital Transformation, Innovation and Administration Modernisation",,2023-12-21-mrt-le-projet-de-loi-startup-act-mauritanie-adopte-a-lassemblee-nationale
 MUS,AI StartUps Initiative,Mauritius,startuppolicy,,National Productivity and Competitiveness Council,,2026-05-12-ai-startups-initiative-showcase
+MUS,National SME Incubator Scheme (NSIS),Mauritius,other,,Mauritius Research and Innovation Council,,2026-05-27-mus-reading-mauritius-startup-ecosystem-beyond-the-headlines
 MWI,Muuni Fund,Malawi,other,,MACRA,,2024-03-02-malawi-tech-ecosystem-feature
+MWI,Digital Innovation and Entrepreneurship Bill,Malawi,startuppolicy,,,,2026-05-17-mwi-malawi-needs-a-startup-act-like-yesterday
 NGA,Boost Africa,Nigeria,other,,"EIB and African Development Bank, with EU and OACPS support",,2026-09-10-von-eu-eib-boost-africa-impact-entrepreneurs
 NGA,Boost Africa,Nigeria,other,,"EIB and African Development Bank, with EU and OACPS support",,2026-09-09-thisdaylive-eu-eib-boost-africa-108m-15000-jobs
 NGA,Startup Investment Seed Fund,Nigeria,other,,Nigeria Sovereign Investment Authority (fund manager),,2022-10-21-nga-gazette-nigeria-startup-act-2022
@@ -59,21 +91,49 @@ NGA,"National Digital Innovation, Entrepreneurship and Startup Policy 2023",Nige
 NGA,Nigerian National Broadband Strategic Plan,Nigeria,other,,NCC,,2026-11-10-africa-technology-policy-tracker-2026-11-10
 NGA,National Digital Innovation and Entrepreneurship Policy,Nigeria,startuppolicy,,NITDA,,2025-12-18-worldbank-govtech-dataset-dec2025
 NGA,iDICE,Nigeria,other,,Federal Government with Bank of Industry,,2025-11-10-nga-fg-to-launch-two-new-additional-investment-funds-for-nigerian-startups
+NGA,Nigerian Startup Act,Nigerian Startup Act,startuppolicy,,NITDA/ONDI,,2026-08-13-nga-unlocking-the-nigerian-startup-act-nitda-calls-for-seamless-inter-agen
+NGA,Nigeria Startup Act,Nigeria,startuppolicy,,NITDA,,2025-03-14-nga-nigeria-readies-40m-startup-seed-fund-backed-by-japan
+NGA,JICA-NSIA $40M startup fund,Nigeria,startuppolicy,,NSIA,,2025-03-14-nga-nigeria-readies-40m-startup-seed-fund-backed-by-japan
 RWA,Rwanda Innovation Fund,Rwanda,startuppolicy,,Angaza Capital (manager); AfDB and Government of Rwanda (backers),,2026-07-20-rwanda-tech-jobs-lfs
 RWA,ICT Hub Strategy 2019-2024,Rwanda,other,,Ministry of Information Technology and Communications,,2019-01-01-rwa-minict-ict-hub-strategy-2019-2024
 RWA,Rwanda Digital Acceleration Programme (RDAP),Rwanda,startuppolicy,,Government of Rwanda; Development Bank of Rwanda,,2026-01-06-rwa-de-l-ambition-a-l-action-au-rwanda-aider-les-entrepreneurs-du-numeriqu
+RWA,Innovate Rwanda,Rwanda,other,digital platform,MINICT,,2026-03-20-rwa-african-startups-are-over-mentored-over-trained-rwanda-wants-to-fix-th
+RWA,Hanga Venture Ignite,RWA,startuppolicy,,Ministry of ICT and Innovation,"tier 1 up to $50,000; tier 2 up to $100,000",2025-08-20-rwa-central-africa-how-rwanda-s-digital-hub-project-could-boost-tech-start
 SEN,Law No. 2020-01 on startups,Senegal,startuppolicy,,Government of Senegal,,2025-01-30-startup-law-implementation-phase
 SEN,Ventures Platform Pan-African Fund II,Senegal (focus country),other,venture capital fund,Ventures Platform,,2026-08-26-ebrd-s-venture-capital-fund-targets-technology-companies-in-nigeria-mo
 SEN,Ecosysteme Startup,Senegal,startuppolicy,labelling platform,"Ministry of Communication, Telecommunications and Digital Affairs",,2025-11-20-aps-ecosysteme-startup-plateforme-labellisation
+SEN,Startup Ecosystem label,Startup Ecosystem,startuppolicy,online portal,Government of Senegal,,2025-11-22-sen-senegal-activates-startup-act-program-targets-150-000-jobs-by-2034
+SEN,Startup Act,Senegal,startuppolicy,Ecosysteme Startup platform,"Ministry of Communication, Telecommunications and Digital",,2026-04-21-sen-creativite-et-innovation-plusieurs-dispositifs-d-accompagnement-de-l-e
 SLE,Startup Act,Sierra Leone,startuppolicy,,Government of Sierra Leone,,2025-11-01-invest-salone-angel-investment-brief-sierra-leone
+SLE,Sierra Leone startup bill,Sierra Leone,startuppolicy,,MoCTI,,2024-03-13-sle-sierra-leone-partners-with-columbia-law-school-to-develop-modern-tech
+STP,Empreende +,STP,other,,UNDP with Ministry of Youth and Sport and REINA,,2024-09-18-stp-pnud-financia-em-90-mil-dolares-programa-empreende-para-projetos-ambie
+STP,Programa Empreende+,Programa Empreende+,other,,Ministry of Youth and Sport with REINA and UNDP,,2024-01-01-stp-programa-empreende
+SWZ,RSTP-UNDP youth start-up programme,Eswatini,other,,Royal Science and Technology Park / UNDP,,2025-05-28-swz-from-opportunity-to-impact
 SYC,Seed Capital Grant Scheme,Seychelles,startuppolicy,,Government of Seychelles (Cabinet),,2026-05-14-statehouse-cabinet-seed-capital-grant-revisions
 SYC,National Entrepreneurship Strategy,Seychelles,startuppolicy,,"Ministry of Investment, Entrepreneurship and Industry",,2023-01-01-syc-unctad-national-entrepreneurship-strategy
 TGO,Togo Startup Act,Togo,startuppolicy,,Government of Togo,,2026-03-01-togo-s-quiet-rise-as-a-startup-contender
+TGO,Togolese Startup Act,Togo,startuppolicy,,Ministry of Public Service Efficiency and Digital Transformation,,2025-10-29-tgo-grit-lome-fait-vibrer-la-tech-africaine
+TGO,Fonds de Soutien aux Entreprises Labellisees (FSEL),Togo,other,,MENTD,,2025-06-04-tgo-avis-d-appel-a-manifestation-d-interet-pour-le-recrutement-d-un-consul
+TGO,Fonds Start,Togo,other,,Djanta Tech Hub,,2026-05-08-tgo-djanta-tech-hub-le-togo-lance-son-premier-hub-technologique
 TUN,Startup Act,Tunisia,startuppolicy,,Tunisia,,2026-07-28-tunisie-japon-jica-s2t-partenariat-ecosysteme-startups-africain
 TUN,Startup Act (Law No. 2018-20) and Startup label,Tunisia,startuppolicy,electronic startup portal,Ministry of Communication Technologies and the Digital Economy,label; pre-label for individuals,2018-01-01-tun-mtc-startup-act-cadre-juridique-label-procedures
 TUN,"Startup Act (Law No. 2018-20 of April 17, 2018)",Tunisia,startuppolicy,,,,2025-12-18-worldbank-govtech-dataset-dec2025
+TUN,ANAVA,Tunisia,startuppolicy,fund of funds,"Caisse des Depots et Consignations, managed by Smart Capital",,2026-09-24-tun-tunisias-state-startup-fund-looks-beyond-capital-city-tech-elites
+TUN,Startup Act 2.0,Tunisia,startuppolicy,,Ministry of Communication Technologies,,2026-04-17-tun-que-change-le-futur-startup-act-2-0-pour-les-startups-tunisiennes
+TUN,ANAVA Fund of Funds,Tunisia,startuppolicy,,Smart Capital (mandated by the Tunisian government),,2025-09-15-tun-anava-fund-of-funds-investit-4-millions-de-dollars-dans-rasmal-innovat
+TUN,Startup label,Tunisia,startuppolicy,,,,2025-09-05-tun-1214-startups-labellisees-a-fin-juillet-2025
+TUN,ANAVA fund of funds,Tunisia,startuppolicy,,Smart Capital for the State (Startup Tunisia),,2024-03-27-tun-le-fonds-de-fonds-anava-investit-4-millions-d-euros-dans-janngo-capita
+TUN,Startup Act,Tunisia,startuppolicy,,,,2024-02-20-tun-tunisie-refonte-ou-amendement-du-startup-act
+TUN,Startup label,Tunisia,startuppolicy,,,,2025-02-08-tun-rim-saied-la-tunisie-dispose-d-enormes-moyens-pour-la-creation-de-star
 TZA,Tanzania Venture Capital Fund,Tanzania,other,,Ministry of Finance with regulators,,2025-01-01-tza-tsa-startup-ecosystem-status-report-2024
+TZA,Startups Wezesha Fund,Tanzania,other,jamiihunt.mawasiliano.go.tz,"Ministry of Information, Communication and Information Technology with ICTC",,2026-10-15-tza-serikali-yaziita-startups-kuchangamkia-mkopo-wa-sh5-bilioni
+TZA,ICTC start-up registration and tiered labelling programme,Tanzania,other,,Information and Communications Technology Commission,"tanzanite, gold, silver",2026-02-13-tza-ict-launches-tiered-start-ups-scheme-picks-161-innovators
 UGA,Income Tax Bill 2025 startup exemption,Uganda,startuppolicy,,Government of Uganda,,2025-04-02-uganda-startup-income-tax-exemption
+UGA,Startup policy,Uganda,startuppolicy,,"Ministry of Trade, Industry and Cooperatives",,2026-11-01-uga-startup-policies-are-underway-but-what-about-funding-for-the-young-inn
+UGA,National Startup Act,Uganda,startuppolicy,,"Ministry of Trade, Industry and Cooperatives",,2026-06-26-uga-startup-uganda-technical-review-of-the-national-startup-act
+UGA,National Startup Policy,Uganda,startuppolicy,,"Ministry of Trade, Industry and Cooperatives",,2024-11-07-uga-inside-the-uganda-startup-policy-journey
 ZMB,Start-up Bill,Zambia,startuppolicy,,Ministry of Technology and Science,,2026-01-01-zmb-itu-digital-innovation-profile-zambia
 ZMB,National Digital Transformation Strategy 2023-2027,Zambia,other,,Ministry of Technology and Science,,2023-10-12-national-digital-transformation-strategy-zambia
+ZMB,Innovators and Inventors Bill,Zambia,startuppolicy,,Ministry of Technology and Science,,2025-08-29-zmb-government-t-to-table-innovators-and-inventors-bill-in-parliament
+ZMB,Start Up Bill,Zambia,startuppolicy,,Ministry of Technology and Science,,2024-07-04-zmb-artificial-intelligence-strategy-to-be-launched-on-independence-day
 ZWE,Innovation Drive Programme,Zimbabwe,startuppolicy,Universal Service Fund,POTRAZ,,2026-10-29-zwe-potraz-says-it-is-now-a-gateway-for-investors-not-a-gatekeeper

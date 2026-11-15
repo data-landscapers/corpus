@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-13-tza-ict-launches-tiered-start-ups-scheme-picks-161-innovators",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "The ICTC director general said a government programme registers ICT start-ups (over 400 registered, 161 qualified) and labels them in tanzanite, gold and silver tiers, with the first labelled batch to be published in February 2026.",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "ICTC start-up registration and tiered labelling programme",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ICTC start-up registration and tiered labelling programme",
+   "country_label": "Tanzania",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Information and Communications Technology Commission",
+   "tiers": "tanzanite, gold, silver"
+  }
+ ],
+ "note": ""
+}

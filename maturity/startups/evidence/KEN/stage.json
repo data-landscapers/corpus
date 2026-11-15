@@ -9,10 +9,10 @@
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001;KEN-002",
-      "gaps": "No source found since October 2023 says: is a startup law or strategy adopted.",
-      "note": "Rebuild 2026-11-13: The Start-up Bill 2024 is posted and the bill missed its April 2024 enactment target (KEN-001, KEN-002), so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "KEN-005;KEN-006",
+      "gaps": "No source found since October 2023 says a startup law or strategy is adopted.",
+      "note": "Stage 4c 2026-11-15: the Startup Bill passed the National Assembly in January 2025 (KEN-006) and in May 2026 sat with a mediation committee, not law (KEN-005), so 2 holds.",
+      "as_at": "2026-11-15"
     }
   ]
 }

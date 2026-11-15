@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-17-tun-que-change-le-futur-startup-act-2-0-pour-les-startups-tunisiennes",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "Minister Sofiene Hemissi said on 17 April 2026 that his ministry is working with several ministries on a Startup Act 2.0 bill.",
+   "as_of": "2026-04-17",
+   "date_precision": "day",
+   "system": "Startup Act 2.0",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Startup Act 2.0",
+   "country_label": "Tunisia",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

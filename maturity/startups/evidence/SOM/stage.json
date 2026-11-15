@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "startuppolicy",
-      "stage": "no evidence",
-      "law": "",
+      "stage": "1",
+      "law": "none",
       "labelled": "",
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says what the state does for tech startups.",
-      "note": "Rebuild 2026-11-13: No evidence row on the sub-indicator, so no evidence holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "SOM-001",
+      "gaps": "No source found since October 2023 says a startup law or strategy is being prepared; the only statement on public funding for startups dates from 2021.",
+      "note": "Stage 4c 2026-11-15: an April 2026 article says Somalia has no legal definition of a startup and proposes a startup act (SOM-001), the dated absence rung 1 asks for. No bill or strategy is shown in preparation, so 1, not 2.",
+      "as_at": "2026-11-15"
     }
   ]
 }

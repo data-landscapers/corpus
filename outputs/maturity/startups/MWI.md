@@ -2,7 +2,7 @@
 
 ## Startup law and funding
 
-**Law or strategy.** [TechCabal reported in March 2024 that a startup bill was being drafted in Malawi](<https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/>). [The bill was expected to reach parliament by the end of 2024](<https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/>).
+**Law or strategy.** [TechCabal reported in March 2024 that a startup bill was being drafted in Malawi](<https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/>). [The bill was expected to reach parliament by the end of 2024](<https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/>). [Tech Trends Malawi said in May 2026 that the Digital Innovation and Entrepreneurship Bill, proposed in 2024, never became law](<https://techtrendsmalawi.substack.com/p/malawi-needs-a-startup-act-like-yesterday>).
 
 **Labelling.** No source found since October 2023 says startups are labelled or registered under a startup law or strategy. The nearest held fact: [in March 2024 the startup bill was still being drafted](<https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/>).
 
