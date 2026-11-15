@@ -1,6 +1,6 @@
 # Data protection authority: supervisory authority
 
-*As at 2026-10-31.*
+*As at 2026-11-15.*
 
 ## The norm
 
@@ -34,8 +34,9 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 
 Kenya's authority, set up in 2020, fines businesses and publishes a regular bulletin counting its decisions, last seen March 2025.
 
+- The report says Immaculate Kassait, Kenya's first data commissioner, has headed the Office of the Data Protection Commissioner for six years and leaves on 16 November 2026 ([source, 2026-11-13](https://www.kbc.co.ke/kassait-calls-for-reforms-central-data-pool-as-she-exits-data-protection-office/)).
+- Amnesty Kenya says in February 2026 the ODPC ruled against a hospital, an insurance company, a school, a SACCO and digital lenders, ordering St Luke's Orthopaedic Hospital to compensate patients ([source, 2026-02](https://www.amnestykenya.org/kenyas-digital-rights-journey-half-year-scorecard/)).
 - The ODPC bulletin states that as of March 2025 the Office had received 7,128 complaints and resolved 97 percent, issued 215 determinations, imposed penalties on 10 entities, issued 103 compensations and settled 39 other cases through ADR (a cumulative count, no single year stated) ([source, 2025-03](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf)).
-- Kenya's Office of the Data Protection Commissioner, headed by Data Commissioner Immaculate Kassait, hosted a Sri Lankan authority delegation for a three-day study visit covering compliance, complaints, investigations and enforcement ([source, 2026-10-14](https://techreviewafrica.com/news/7696/x)).
 
 ### Mali: 5 Leading
 

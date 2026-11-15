@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-14-fnh-maroc-intelligence-artificielle-jusqu-ou",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Finances News Hebdo says Morocco has the CNDP, the national commission for control of personal data protection, within the framework of law 09-08.",
+   "as_of": "2026-11-14",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNDP",
+   "country_label": "Maroc",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

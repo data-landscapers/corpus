@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-zwe-zim-sa-sign-data-protection-agreement",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "South Africa's Information Regulator, with a chief executive officer and a chairperson, is described as holding a mandate to enforce privacy and access to information, and signed an MoU with Zimbabwe's POTRAZ.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Regulator",
+   "country_label": "South Africa",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
