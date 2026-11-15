@@ -1,6 +1,6 @@
 ---
 title: Ghana: finance
-compiled: 2026-11-07
+compiled: 2026-11-15
 place: GHA
 ---
 
@@ -13,7 +13,7 @@ place: GHA
 <tr><th scope="row">Training and skills</th><td class="num">292</td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num">9</td><td class="num">9</td><td class="num total">312</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">224</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">2</td><td class="num">3</td><td class="num">2</td><td class="num total">232</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num">25</td><td class="num">60</td><td class="num">38</td><td class="num total">128</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">111</td><td class="num">2</td><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">119</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">111</td><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num">1</td><td class="num">2</td><td class="num total">119</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">22</td><td class="num">10</td><td class="num">19</td><td class="num total">51</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num">50</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">50</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">7</td><td class="num zero"></td><td class="num zero"></td><td class="num">15</td><td class="num">4</td><td class="num">17</td><td class="num total">42</td></tr>
@@ -33,7 +33,7 @@ place: GHA
 <tfoot><tr><th scope="row">All topics</th><td class="num">935</td><td class="num">431</td><td class="num">67</td><td class="num">112</td><td class="num">159</td><td class="num">1,431</td><td class="num total">3,136</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GHA/all-finance.html">Full table &mdash; 372 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GHA/all-finance.html">Full table &mdash; 373 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GHA/GHA-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -91,6 +91,6 @@ place: GHA
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GHA/finance.html">Full table &mdash; 225 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GHA/finance.html">Full table &mdash; 226 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GHA/GHA-nonstate.csv" download>&darr; Download CSV</a>
 </div>

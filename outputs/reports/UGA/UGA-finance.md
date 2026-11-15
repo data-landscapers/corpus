@@ -1,6 +1,6 @@
 ---
 title: Uganda: finance
-compiled: 2026-11-11
+compiled: 2026-11-15
 place: UGA
 ---
 
@@ -17,14 +17,14 @@ place: UGA
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">18</td><td class="num">71</td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">90</td></tr>
 <tr><th scope="row">Registries</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">19</td><td class="num">25</td><td class="num">14</td><td class="num total">59</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num">1</td><td class="num">&lt;1</td><td class="num">6</td><td class="num">19</td><td class="num">20</td><td class="num total">49</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num">4</td><td class="num">&lt;1</td><td class="num">13</td><td class="num">3</td><td class="num">16</td><td class="num">5</td><td class="num total">42</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">4</td><td class="num">&lt;1</td><td class="num">13</td><td class="num">3</td><td class="num">4</td><td class="num">5</td><td class="num total">30</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num">20</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">20</td></tr>
 <tr><th scope="row">Access to services</th><td class="num">18</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">18</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">8</td><td class="num">5</td><td class="num">1</td><td class="num total">13</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">10</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">11</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">6</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">8</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">2</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">3</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Open data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">AI</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
@@ -35,7 +35,7 @@ place: UGA
 <tr><th scope="row">Literacy</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">419</td><td class="num">87</td><td class="num">190</td><td class="num">268</td><td class="num">400</td><td class="num">249</td><td class="num total">1,614</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">419</td><td class="num">87</td><td class="num">190</td><td class="num">274</td><td class="num">388</td><td class="num">249</td><td class="num total">1,608</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/UGA/all-finance.html">Full table &mdash; 679 rows, all 12 fields &rarr;</a>
@@ -77,16 +77,16 @@ place: UGA
 <tr><th scope="row">Connectivity</th><td class="num">292</td><td class="num">1</td><td class="num">176</td><td class="num">12</td><td class="num zero"></td><td class="num zero"></td><td class="num total">481</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">14</td><td class="num">13</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">113</td><td class="num zero"></td><td class="num total">141</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">18</td><td class="num">71</td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">90</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num">4</td><td class="num">&lt;1</td><td class="num">13</td><td class="num">&lt;1</td><td class="num">12</td><td class="num zero"></td><td class="num total">30</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num">20</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">20</td></tr>
 <tr><th scope="row">Access to services</th><td class="num">18</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">18</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">4</td><td class="num">&lt;1</td><td class="num">13</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">18</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">17</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">17</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">10</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">10</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">9</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">9</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">6</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">8</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">8</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">8</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num">1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num total">8</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">7</td><td class="num zero"></td><td class="num zero"></td><td class="num total">7</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Open data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">AI</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
@@ -99,7 +99,7 @@ place: UGA
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">419</td><td class="num">87</td><td class="num">190</td><td class="num">23</td><td class="num">125</td><td class="num">4</td><td class="num total">850</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">419</td><td class="num">87</td><td class="num">190</td><td class="num">29</td><td class="num">113</td><td class="num">4</td><td class="num total">844</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
