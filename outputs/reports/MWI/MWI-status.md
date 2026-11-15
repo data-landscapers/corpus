@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-11-14
+compiled: 2026-11-15
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 262
+sources_cited: 263
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -189,7 +189,7 @@ On 16 September 2026 the Bureau [launched the Nzika smartphone wallet, holding n
 
 Malawian mobile money moved [K37.9 trillion in 2025, a 94 per cent rise on K19.5 trillion the year before](https://times.mw/k38tn-transacted-via-mobile-money/). [It carried 2.4 billion transactions, up 31.6 per cent](https://times.mw/k38tn-transacted-via-mobile-money/) (2025).
 
-[The interbank settlement system has run since 2002](https://itweb.africa/article/malawi-unveils-digital-payments-roadmap/KPNG8v8NQLZM4mwD). [NatSwitch launched ATM interoperability in 2015, point of sale in 2016 and real-time electronic funds transfer in 2022](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_Malawi.pdf). The Reserve Bank [joined the continental payment and settlement system in December 2023](https://mwnation.com/rbm-joins-pan-african-payment-system/). Its 2026-2030 strategy [schedules an e-KYC platform on the identity register, piloted with the switch in 2026-2027](https://www.rbm.mw/Home/GetContentFile/?ContentID=63383). [It schedules a national e-payments gateway in nationwide use by 2028](https://www.rbm.mw/Home/GetContentFile/?ContentID=63383). [Under the Payment Systems Act 2016 the Reserve Bank operates the settlement system and licenses payment, clearing and settlement systems](https://malawilii.org/akn/mw/act/2016/15/eng@2017-12-31). [The retail switch is industry-owned and subject to its oversight](https://malawilii.org/akn/mw/act/2016/15/eng@2017-12-31).
+[The interbank settlement system has run since 2002](https://itweb.africa/article/malawi-unveils-digital-payments-roadmap/KPNG8v8NQLZM4mwD). [NatSwitch launched ATM interoperability in 2015, point of sale in 2016 and real-time electronic funds transfer in 2022](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_Malawi.pdf). The Reserve Bank [joined the continental payment and settlement system in December 2023](https://mwnation.com/rbm-joins-pan-african-payment-system/). [In November 2026 its governor said the system was operational, with several Malawian commercial banks taking part](https://www.nyasatimes.com/mwanamveka-calls-for-fiscal-monetary-co-ordination-scross-comesa/). Its 2026-2030 strategy [schedules an e-KYC platform on the identity register, piloted with the switch in 2026-2027](https://www.rbm.mw/Home/GetContentFile/?ContentID=63383). [It schedules a national e-payments gateway in nationwide use by 2028](https://www.rbm.mw/Home/GetContentFile/?ContentID=63383). [Under the Payment Systems Act 2016 the Reserve Bank operates the settlement system and licenses payment, clearing and settlement systems](https://malawilii.org/akn/mw/act/2016/15/eng@2017-12-31). [The retail switch is industry-owned and subject to its oversight](https://malawilii.org/akn/mw/act/2016/15/eng@2017-12-31).
 
 [Access to banking services is among Malawi's ten worst-scoring governance indicators, at 17.8 out of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mw.pdf). The national financial inclusion strategy [targets 95 per cent of adults reaching formal financial services by 2028](https://times.mw/id-system-said-to-be-key-to-digital-growth/). [In 2024, 50 per cent of adults held a financial account, below the sub-Saharan average of 55 per cent](https://mwnation.com/banks-respond-to-digital-services-demand-bam/). The social cash transfer programme's [electronic payments had reached ten of its 28 districts by mid-2024](https://www.idinsight.org/wp-content/uploads/2025/03/Report-Malawi-SCTP-E-Payment-Study_26072024-1.pdf). [The national e-payment gateway was one of the few government platforms delivered in 2025](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/). In September 2026 [the police introduced electronic payment of traffic fines at headquarters and across the six police regions](https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2), through commercial banks and both mobile money services. In August 2026 [the Farm Input Subsidy Programme returned to manual coupons for the 2026-27 season](https://malawi24.com/2026/08/22/it-experts-question-return-to-manual-fisp-coupons/). [Technologists questioned the step on fraud and traceability grounds](https://malawi24.com/2026/08/22/it-experts-question-return-to-manual-fisp-coupons/).
 
