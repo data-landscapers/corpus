@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "frombirth",
-      "stage": "no evidence",
-      "number": "",
+      "stage": "3",
+      "number": "inservice",
       "national": "",
       "complete": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether a birth is given an identity number.",
-      "note": "Rebuild: No row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-07"
+      "stage_sources": "MUS-001",
+      "gaps": "No source found since October 2023 says every registered birth across the country receives the number, or puts birth registration at all births and deaths at 80% or more.",
+      "note": "Stage 4c: a 2024 Pay Research Bureau report says the Civil Status Division's database generates a unique identification number at birth registration, stage 3. It is a general statement, not evidence that every registered birth across the country receives the number, which stage 4 must show.",
+      "as_at": "2026-11-15"
     }
   ]
 }

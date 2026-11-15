@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-mus-civil-status-division",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "The Pay Research Bureau report says the Civil Status Division maintains a database generating a unique identification number for each citizen at the time of birth registration.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Civil status database",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

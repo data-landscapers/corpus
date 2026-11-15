@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy asks for a digital legal ide
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 5 |
-| 3 Established | 11 |
+| 3 Established | 12 |
 | 2 Nascent | 13 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 23 |
+| No evidence | 22 |
 
 ## Countries
 
@@ -117,6 +117,12 @@ Children were given a unique ID number at birth registration in 2024, at least i
 - The National Registration Bureau reports successful registration of 3.5 million births with unique identifiers ([source, 2025](https://www.id4africa.com/2025/files/PS1-S1-5-Malawi-final.pdf)).
 - Registration team lead Emmanuel Mkambankhani says an ID number is generated for a child when a baby is born, the same number printed on the card at 16 ([source, 2024-11](https://pedaids.org/2024/11/06/the-value-of-a-birth-certificate/)).
 - The Principal Secretary says children under 16 get birth registration certificates with a unique identification number, over three million so far ([source, 2024-07-17](https://mwnation.com/nrb-under-scrutiny/)).
+
+### Mauritius: 3 Established
+
+In 2024 a unique identification number was generated at birth registration; whether every registered birth receives it is not known.
+
+- The Pay Research Bureau report says the Civil Status Division maintains a database generating a unique identification number for each citizen at the time of birth registration ([source, 2024](https://prb.govmu.org/prb/wp-content/uploads/2024/03/csd.pdf)).
 
 ### Nigeria: 3 Established
 
@@ -299,12 +305,6 @@ Nothing found names a unique number given at birth or says there is none, so no 
 Not established: Nothing found says whether a birth is given an identity number.
 
 ### Mauritania: No evidence
-
-Nothing found names a unique number given at birth or says there is none, so no stage is set.
-
-Not established: Nothing found says whether a birth is given an identity number.
-
-### Mauritius: No evidence
 
 Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
