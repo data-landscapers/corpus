@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-13-egy-eu-electronic-signature-technical-compatibility",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Egypt's State Information Service says ITIDA serves as the country's root certification authority for electronic signatures.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "ITIDA root certification authority",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Egypt's State Information Service says ITIDA regulates, licenses and monitors providers of electronic signature and seal services, and Egypt keeps a trusted list of digital trust service providers.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "Egypt national trusted list of digital trust service providers",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ITIDA root certification authority",
+   "country_label": "Egypt",
+   "class": "authentication",
+   "platform": "",
+   "owner": "ITIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

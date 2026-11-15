@@ -239,6 +239,7 @@ EGY,Digital identity app,Digital identity app,authentication,Digital Egypt,MCIT,
 EGY,Digital identity app,Digital identity app,authentication,Digital Egypt platform,Ministry of Communications and Information Technology,,2026-11-09-egy-22-electronic-notarial-and-real-estate-registry-services
 EGY,Egypt Trust e-signature and e-seal platform,Egypt,authentication,locally hosted multi-tenant platform,Egypt Trust (ITIDA-licensed),,2026-11-12-facephi-and-egypttrust-partner-on-digital-identity-and-fraud-preventio
 EGY,Egypt Trusted List for Electronic Signatures and Seal Schemes,Egypt,authentication,,Government of Egypt,,2026-11-12-eu-egypt-electronic-signatures-trusted-list
+EGY,ITIDA root certification authority,Egypt,authentication,,ITIDA,,2026-11-13-egy-eu-electronic-signature-technical-compatibility
 ETH,VeriFayda eKYC,Ethiopia,other,Fayda (eSignet),Faydaverse,,2026-10-09-eth-biometricupdate-fayda-developer-sandbox
 ETH,Fayda eKYC,Ethiopia,other,Fayda,Ethiopia National ID Program (now Faydaverse),,2026-08-24-fayda-digital-id-49-1m-enrolments-ethiopia-biometricupdate
 ETH,VeriFayda eKYC,Ethiopia,other,Fayda,FaydaVerse,,2026-10-03-banks-baulk-at-a-bill-from-public-id-that-turns-commercial
@@ -421,6 +422,7 @@ LBY,الرقم الوطني (national number),Libya,other,,,administrative numbe
 LBY,National Digital Identity Project (LY-DNID),Libya,other,,,,2026-03-29-lby-chairman-of-the-general-authority-for-information-meets-with-the-minis
 LBY,Libya digital identity project (digital identity wallet),Libya,authentication,mobile wallet app with central issuance and verification system,"General Information Authority (implementing), NESDB (supervising)",,2025-02-01-lby-executive-summary-digital-identity-project
 LBY,National digital identity,Libya,other,,,,2024-10-01-lby-libya-dpi-map
+LBY,Civil Status Authority link for wife-and-children grant,Libya,other,,Ministry of Social Affairs,,2025-02-10-lby-lana-social-affairs-civil-registry-data-link
 LSO,FinMark Trust Lesotho-South Africa cross-border identity verification pilot,Lesotho,other,,FinMark Trust,,2025-08-25-codevelop-sadc-cross-border-digital-identity-framework
 LSO,SADC cross-border DPI framework / federated eKYC ecosystem,Lesotho,other,,"SADC CCBG, Co-Develop, FinMark Trust",,"2025-08-26 SADC regional DPI initiative supports KYC, digital ID interoperability across 16 countries"
 LSO,Lesotho digital identity card,Lesotho,other,,,,2026-06-18-finmark-trust-cross-border-dpi-sadc
@@ -603,6 +605,7 @@ MWI,National Registration Information System,NRIS,authentication,"NRB middleware
 MWI,Malawi Business Registration System,Malawi,other,,"Companies, Registrations and Intellectual Property Centre",,2026-05-29-mwi-minister-of-justice-urges-professionalism
 MWI,digital signatures,Malawi,other,,,,2026-06-08-mwi-malawi-digital-economy
 MWI,Nzika Digital ID Wallet,Malawi,authentication,,National Registration Bureau,,2026-11-09-mwi-malawi-s-nzika-digital-id-bounced-at-the-bank
+MWI,MAREN Identity Federation,Malawi,other,eduGAIN,MAREN,,2024-12-01-mwi-transforming-connectivity-at-luanar-eduroam-and-identity-federation-in
 NAM,Electronic identity (E-ID) card,Namibia,other,,"Ministry of Home Affairs, Immigration, Safety and Security; Office of the Prime Minister",,2026-07-25-namibia-electronic-id-rollout-september-2026
 NAM,Social grants identity verification,Namibia,other,,,,2026-07-25-namibia-electronic-id-rollout-september-2026
 NAM,NPRS-social protection integration,Namibia,other,National Population Registration System,"Ministry of Home Affairs, Immigration, Safety and Security; Ministry of Gender Equality, Poverty Eradication and Social Welfare",,2026-07-18-namibia-crvs-social-protection-integration-san-outreach
@@ -618,6 +621,7 @@ NAM,Electronic identity documents (EID),Namibia,authentication,app or smart card
 NAM,Mobile ID prototype,NAM,authentication,mobile app,Ministry of Home Affairs,,2025-10-01-namibia-mobile-id-prototype-birth-registration
 NAM,DigiNam,Namibia,other,,Ministry of Information and Communication Technology,,2026-10-20-nam-digital-infrastructure-investment-a-path-to-new-opportunities-the-vill
 NAM,Public Key Infrastructure (PKI) framework,Namibia,authentication,PKI with root certification authority,CRAN,,2025-11-03-nam-namibia-moves-closer-to-secure-digital-identity-and-online-verificatio
+NAM,Public Key Infrastructure,Namibia,authentication,,MICT,,2026-11-14-nam-techreviewafrica-dpi-financial-sector-pki-eid
 NER,Registre National de la Population (RNP),Niger,other,World Bank WURI project,ANEI,public and private services requiring identification,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
 NER,Registre National d'Etat Civil (RNEC),Niger,other,,"Direction Générale de l'état civil, des migrations et des réfugiés",,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
 NER,Registre National des Nationalités (RNN),Niger,other,,Ministère de la justice,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
@@ -687,6 +691,7 @@ NGA,NIN Authentication Service,Nigeria NIN authentication,authentication,being c
 NGA,NIMC API validation,Nigeria,authentication,,NIMC,,2026-07-12-nga-tinubu-has-given-nimc-until-end-of-2026-to-enrol-every-nigerian-says-d
 NGA,NINAuth,Nigeria,authentication,NINAuth platform and mobile application,NIMC,,2026-01-06-nga-nigeria-s-digital-identity-architecture-building-trust-through-technol
 NGA,NIN verification,Nigeria,authentication,,NIMC,,2025-09-16-nga-126m-nigerians-secure-nin-database-capacity-hits-250m-fg
+NGA,NIN and BVN biometric verification,Nigeria,authentication,,,,2024-11-04-nga-25m-nigerian-poor-get-cash-payments-enabled-by-digital-id
 RWA,Single Digital ID (SDID) authentication system,Rwanda,other,Irembo account and digital wallet,NIDA,,2026-03-26-govt-sets-2027-deadline-digital-id-newtimes
 RWA,SIM card registration (RURA Regulation 18/2024),Rwanda,other,national-ID database,RURA,,2024-08-09 Regulation Governing SIM Card Registration in Rwanda (RURA No.18-2024)
 RWA,Biometric SIM card registration and verification,Rwanda,other,NIDA database,RURA; telecom operators,,"2024-09-17 Rwanda conducts pilot to implement biometric SIM registration, verification"
@@ -704,6 +709,7 @@ RWA,Single Digital Identity (SDID) with AMBAS + PKI,Rwanda,authentication,IN Gro
 RWA,AMBAS,RWA,authentication,,NIDA,,2025-11-24-rwa-rwanda-inside-rwanda-s-move-to-a-biometric-digital-id
 RWA,PKI infrastructure for financial institutions,Rwanda,authentication,,Ministry of Finance,,2015-10-01-rwa-smart-rwanda-2020-master-plan
 RWA,Digital ID and Social security services,Rwanda,,,NID/RDB,,2015-10-01-rwa-smart-rwanda-2020-master-plan
+RWA,Irembo,Irembo,other,,,,2026-01-01-rwa-rwanda-s-transition-to-a-knowledge-based-economy-pathways-and-policy-p
 SDN,SudaPass,Sudan,other,,Ministry of Digital Transformation and Communications,,2026-09-26-sdn-suna-omdurman-bank-sudapass-ekyc
 SDN,Omdurman National Bank digital channels,Sudan,other,,Omdurman National Bank,,2026-09-26-sdn-suna-omdurman-bank-sudapass-ekyc
 SDN,SudaPass,Sudan,other,,Ministry of Digital Transformation and Communications,,2026-08-23-sudantribune-bank-of-sudan-sudapass-data-update

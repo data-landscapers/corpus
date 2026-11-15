@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-01-gha-electronic-communications-numbering-resources-registration-faqs",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Ministry of Communication says its new SIM registration platform will verify biometrics in real time against the National Identification Authority database, with the operator still to be procured.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "NIA real-time biometric verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

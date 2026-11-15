@@ -1,0 +1,15 @@
+{
+ "slug": "2024-12-01-mwi-transforming-connectivity-at-luanar-eduroam-and-identity-federation-in",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MAREN Identity Federation",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "eduGAIN",
+   "owner": "MAREN",
+   "tiers": ""
+  }
+ ],
+ "note": "Academic identity federation for institutional logins, not a state authentication service."
+}

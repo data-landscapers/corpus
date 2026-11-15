@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-04-nga-25m-nigerian-poor-get-cash-payments-enabled-by-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Beneficiaries of the federal government's cash transfer are verified biometrically using their National Identification Number and Bank Verification Number, per the report of the finance minister's remarks.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "NIN and BVN biometric verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN and BVN biometric verification",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

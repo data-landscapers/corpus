@@ -282,8 +282,9 @@ An authentication service was in use in 2024; no source found reports use across
 
 An authentication service was in use in 2026; no source found reports use across services.
 
-- Namibia launched its national public key infrastructure under the DigiNam initiative in August 2026, per Home Affairs Minister Lucia Iipumbu ([source, 2026-08](https://www.biometricupdate.com/202610/namibia-mps-press-government-on-security-access-and-reach-of-planned-digital-id)).
 - OPM's Director of Architecture said government has already saved about N$16 million on social grants through electronic identity verification, including preventing payments to deceased beneficiaries ([source, 2026-07-25](https://informante.web.na/?p=398234)).
+- Namibia's Chief Registrar reports that the home affairs and social protection ministries integrated the National Population Registration System with the social protection system, which verifies beneficiaries' existence and live status against the population register and eliminated ghost beneficiaries ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-namibia.pdf)).
+- Namibia launched its national public key infrastructure under the DigiNam initiative in August 2026, per Home Affairs Minister Lucia Iipumbu ([source, 2026-08](https://www.biometricupdate.com/202610/namibia-mps-press-government-on-security-access-and-reach-of-planned-digital-id)).
 
 ### Senegal: 3 Established
 

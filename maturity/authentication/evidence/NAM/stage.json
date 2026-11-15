@@ -9,10 +9,10 @@
       "remote": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-005;NAM-001",
-      "gaps": "No source found since October 2023 says authentication is used across services or channels.",
-      "note": "Rebuild: the national PKI launched in August 2026 (NAM-005) and social grants use electronic identity verification (NAM-001). The e-ID for government and private use was still to launch (NAM-006).",
-      "as_at": "2026-10-22"
+      "stage_sources": "NAM-001;NAM-003;NAM-005",
+      "gaps": "No source found since October 2023 says authentication is used across services or channels. Sources disagree on the PKI: launched in August 2026 (NAM-005), still to launch in November 2026 (NAM-010).",
+      "note": "Reassessed 2026-11-15: social grants check beneficiaries electronically against the population register (NAM-001, NAM-003), which holds rung 3 whether or not the PKI has launched. The e-ID for government and private use was still to launch (NAM-006, NAM-010).",
+      "as_at": "2026-11-15"
     }
   ]
 }
